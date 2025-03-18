@@ -1,0 +1,410 @@
+{
+  "runTime": 1742287457208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1183432,
+        "num": 1189349,
+        "word": "樊振东本人决定不参加世界杯",
+        "onboard_time": 1742284045,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1172258,
+        "num": 1172258,
+        "word": "费启鸣重返240斤vlog",
+        "onboard_time": 1742275342,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44921,
+        "num": 1115582,
+        "word": "消费领域专属指南来了",
+        "onboard_time": 1742286383,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1089876,
+        "num": 1089876,
+        "word": "蜜雪冰城被曝黑料网友凭啥护短",
+        "onboard_time": 1742280263,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 880622,
+        "num": 880622,
+        "word": "美国滞留9个月宇航员启程回地球",
+        "onboard_time": 1742285603,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 765628,
+        "num": 765628,
+        "word": "小米舒七雷巾等已被申请注册商标",
+        "onboard_time": 1742280743,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 734744,
+        "num": 734744,
+        "word": "卢昱晓首部仙侠女主剧",
+        "onboard_time": 1742284224,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 730987,
+        "num": 730987,
+        "word": "小米su吸",
+        "onboard_time": 1742268803,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 527158,
+        "num": 702275,
+        "word": "于正 女主得是鞠婧祎我才演",
+        "onboard_time": 1742279783,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78067,
+        "num": 674733,
+        "word": "外交部回应美商务部禁用DeepSeek",
+        "onboard_time": 1742286263,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2126433,
+        "num": 637871,
+        "word": "胡杏儿老公夜店与多位美女搂抱",
+        "onboard_time": 1742280922,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1807103,
+        "num": 632695,
+        "word": "金秀贤方发长文反驳金赛纶家人",
+        "onboard_time": 1742283502,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604731,
+        "num": 604731,
+        "word": "赵丽颖疑似用沈璃回应",
+        "onboard_time": 1742284823,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598319,
+        "num": 598319,
+        "word": "汶川地震",
+        "onboard_time": 1742286624,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 38501,
+        "num": 538618,
+        "word": "华莱士多次因食安问题被处罚",
+        "onboard_time": 1742286263,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 508345,
+        "num": 508345,
+        "word": "雷军直播时说不做的产品都做了",
+        "onboard_time": 1742281941,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 429926,
+        "num": 429926,
+        "word": "李家超三问李嘉诚拟出售巴拿马港口",
+        "onboard_time": 1742282842,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336837,
+        "num": 336837,
+        "word": "容止 跌下神坛",
+        "onboard_time": 1742269524,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333855,
+        "num": 333855,
+        "word": "美国娱乐公司宣布正改编哪吒",
+        "onboard_time": 1742277563,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35686,
+        "num": 331579,
+        "word": "煲养生迷魂汤的伪专家该歇了",
+        "onboard_time": 1742285963,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 495265,
+        "num": 327861,
+        "word": "赵丽颖早期评价来自星星的你",
+        "onboard_time": 1742273605,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393291,
+        "num": 324836,
+        "word": "父亲情绪失控欲把女儿扔河里",
+        "onboard_time": 1742285843,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350624,
+        "num": 322336,
+        "word": "1999年出生 努努力可以活三个世纪",
+        "onboard_time": 1742271024,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321142,
+        "num": 321142,
+        "word": "宋轶CCD",
+        "onboard_time": 1742280382,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260772,
+        "num": 260772,
+        "word": "金赛纶在搬家前一天自杀",
+        "onboard_time": 1742274624,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235649,
+        "num": 235649,
+        "word": "对儿媳的态度决定了儿子的称呼",
+        "onboard_time": 1742281282,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233045,
+        "num": 233045,
+        "word": "来娶你了沈娇娇",
+        "onboard_time": 1742278522,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260699,
+        "num": 231290,
+        "word": "杜华开学校了",
+        "onboard_time": 1742283082,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24639,
+        "num": 229229,
+        "word": "想好好吃个饭怎么这么难",
+        "onboard_time": 1742286683,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227466,
+        "num": 227466,
+        "word": "王曼昱因伤退出十五运资格赛",
+        "onboard_time": 1742286503,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120926,
+        "num": 223416,
+        "word": "林高远生日单曲即将上线",
+        "onboard_time": 1742285902,
+        "rank": 30,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 580282,
+        "num": 223058,
+        "word": "金秀贤的手部习惯",
+        "onboard_time": 1742286563,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221888,
+        "num": 221888,
+        "word": "真菌棺材 死后化身一棵树",
+        "onboard_time": 1742279964,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220911,
+        "num": 220911,
+        "word": "胡杏儿老公",
+        "onboard_time": 1742283981,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216705,
+        "num": 216705,
+        "word": "稚楚发声",
+        "onboard_time": 1742281582,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 214751,
+        "num": 214751,
+        "word": "曝魏大勋深夜回秦岚家",
+        "onboard_time": 1742267122,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200559,
+        "num": 200559,
+        "word": "睡眠不足导致一天多吃一顿饭",
+        "onboard_time": 1742281881,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136984,
+        "num": 198664,
+        "word": "马龙出征全运会资格赛",
+        "onboard_time": 1742287345,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17079,
+        "num": 198615,
+        "word": "防晒衣里的面料学问",
+        "onboard_time": 1742286864,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 198575,
+        "num": 198575,
+        "word": "刘亚仁 复出",
+        "onboard_time": 1742287285,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191027,
+        "num": 191027,
+        "word": "这排全是虞书欣以年为单位的朋友",
+        "onboard_time": 1742283263,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20315,
+        "num": 178365,
+        "word": "孙杨春锦赛目标",
+        "onboard_time": 1742286082,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166300,
+        "num": 166300,
+        "word": "金价暴涨店员称没影响销售",
+        "onboard_time": 1742282603,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161398,
+        "num": 161398,
+        "word": "小区有业主被指装修骨灰房后续",
+        "onboard_time": 1742283981,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151346,
+        "num": 151346,
+        "word": "天津之眼玄学",
+        "onboard_time": 1742281462,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147258,
+        "num": 147258,
+        "word": "李嘉诚向美国财团出售港口",
+        "onboard_time": 1742280622,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143174,
+        "num": 143174,
+        "word": "泡泡岛抢票",
+        "onboard_time": 1742286744,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136238,
+        "num": 136238,
+        "word": "王楚钦 我们下个赛场见",
+        "onboard_time": 1742278882,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134568,
+        "num": 134568,
+        "word": "王晶爆刘嘉玲早年被绑架内幕",
+        "onboard_time": 1742261243,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132285,
+        "num": 132285,
+        "word": "奔跑吧13官宣",
+        "onboard_time": 1742261001,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在贵州考察#"
+    }
+  }
+}

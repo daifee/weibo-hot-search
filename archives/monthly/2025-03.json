@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742286665791,
+  "endTime": 1742287457208,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 2327920,
-      "num": 543268,
+      "num": 637871,
       "word": "胡杏儿老公夜店与多位美女搂抱",
       "onboard_time": 1742280922,
       "rank": 10,
@@ -1235,6 +1235,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1807103,
+      "num": 632695,
+      "word": "金秀贤方发长文反驳金赛纶家人",
+      "onboard_time": 1742283502,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1806987,
       "num": 413268,
       "word": "金赛纶日记本写了交往时间",
@@ -1465,14 +1473,6 @@
       "onboard_time": 1741790065,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1680395,
-      "num": 464456,
-      "word": "金秀贤方发长文反驳金赛纶家人",
-      "onboard_time": 1742283502,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1680313,
@@ -2841,6 +2841,14 @@
       "onboard_time": 1741877963,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1183432,
+      "num": 1189349,
+      "word": "樊振东本人决定不参加世界杯",
+      "onboard_time": 1742284045,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1179844,
@@ -4691,6 +4699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 880622,
+      "num": 880622,
+      "word": "美国滞留9个月宇航员启程回地球",
+      "onboard_time": 1742285603,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 878834,
       "num": 745374,
       "word": "王楚钦重回世界排名第一",
@@ -4993,14 +5009,6 @@
       "onboard_time": 1741579821,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 840368,
-      "num": 840368,
-      "word": "樊振东本人决定不参加世界杯",
-      "onboard_time": 1742284045,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 839227,
@@ -6011,6 +6019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 734744,
+      "num": 734744,
+      "word": "卢昱晓首部仙侠女主剧",
+      "onboard_time": 1742284224,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 734701,
       "num": 734701,
       "word": "沪上阿姨曝光门店被立案调查",
@@ -6321,14 +6337,6 @@
       "onboard_time": 1741507100,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 711550,
-      "num": 711550,
-      "word": "卢昱晓首部仙侠女主剧",
-      "onboard_time": 1742284224,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 709141,
@@ -7675,6 +7683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 604731,
+      "num": 604731,
+      "word": "赵丽颖疑似用沈璃回应",
+      "onboard_time": 1742284823,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604407,
       "num": 261631,
       "word": "金秀贤的片酬",
@@ -7721,6 +7737,14 @@
       "onboard_time": 1741966704,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 598319,
+      "num": 598319,
+      "word": "汶川地震",
+      "onboard_time": 1742286624,
+      "rank": 46,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 598253,
@@ -8113,6 +8137,14 @@
       "onboard_time": 1741323564,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 580282,
+      "num": 240754,
+      "word": "金秀贤的手部习惯",
+      "onboard_time": 1742286563,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 580158,
@@ -9723,14 +9755,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 481964,
-      "num": 359683,
-      "word": "赵丽颖疑似用沈璃回应",
-      "onboard_time": 1742284823,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 481827,
       "num": 481827,
       "word": "魏大勋陈伟霆 老九门2",
@@ -10009,14 +10033,6 @@
       "onboard_time": 1742124144,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 470930,
-      "num": 470930,
-      "word": "美国滞留9个月宇航员启程回地球",
-      "onboard_time": 1742285603,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 470924,
@@ -10947,6 +10963,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 429926,
+      "num": 429926,
+      "word": "李家超三问李嘉诚拟出售巴拿马港口",
+      "onboard_time": 1742282842,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428344,
       "num": 402612,
       "word": "等了14集男女主终于看对眼了",
@@ -11547,14 +11571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 406034,
-      "num": 406034,
-      "word": "李家超三问李嘉诚拟出售巴拿马港口",
-      "onboard_time": 1742282842,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 405941,
       "num": 405941,
       "word": "天若有情 含金量",
@@ -11825,14 +11841,6 @@
       "onboard_time": 1741746081,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 397552,
-      "num": 240754,
-      "word": "金秀贤的手部习惯",
-      "onboard_time": 1742286563,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 397457,
@@ -19779,6 +19787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227466,
+      "num": 239216,
+      "word": "王曼昱因伤退出十五运资格赛",
+      "onboard_time": 1742286503,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227451,
       "num": 205161,
       "word": "85年婆婆带娃被误认为孩子亲妈",
@@ -20504,6 +20520,14 @@
       "word": "权志龙应援棒",
       "onboard_time": 1741749382,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220911,
+      "num": 220911,
+      "word": "胡杏儿老公",
+      "onboard_time": 1742283981,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -23067,6 +23091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200559,
+      "num": 200559,
+      "word": "睡眠不足导致一天多吃一顿饭",
+      "onboard_time": 1742281881,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 200557,
       "num": 200557,
       "word": "短剧女演员余茵进组于正新剧",
@@ -23409,6 +23441,14 @@
       "onboard_time": 1741005981,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198575,
+      "num": 198575,
+      "word": "刘亚仁 复出",
+      "onboard_time": 1742287285,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 198420,
@@ -24001,14 +24041,6 @@
       "onboard_time": 1741059257,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 194953,
-      "num": 194953,
-      "word": "胡杏儿老公",
-      "onboard_time": 1742283981,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 194946,
@@ -24788,7 +24820,7 @@
     },
     {
       "raw_hot": 190324,
-      "num": 190324,
+      "num": 223416,
       "word": "林高远生日单曲即将上线",
       "onboard_time": 1742285902,
       "rank": 38,
@@ -27049,14 +27081,6 @@
       "onboard_time": 1742278164,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176672,
-      "num": 176672,
-      "word": "睡眠不足导致一天多吃一顿饭",
-      "onboard_time": 1742281881,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 176632,
@@ -33011,14 +33035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146329,
-      "num": 146329,
-      "word": "汶川地震",
-      "onboard_time": 1742286624,
-      "rank": 46,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 146291,
       "num": 146291,
       "word": "微博账号张玄化发布健康谣言被禁言",
@@ -33745,6 +33761,14 @@
       "onboard_time": 1741855282,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143174,
+      "num": 143174,
+      "word": "泡泡岛抢票",
+      "onboard_time": 1742286744,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 143148,
@@ -35081,6 +35105,14 @@
       "onboard_time": 1742278942,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136984,
+      "num": 198664,
+      "word": "马龙出征全运会资格赛",
+      "onboard_time": 1742287345,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 136918,
@@ -46155,14 +46187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82905,
-      "num": 239216,
-      "word": "王曼昱因伤退出十五运资格赛",
-      "onboard_time": 1742286503,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82893,
       "num": 326009,
       "word": "建议严惩利用未成年人牟利",
@@ -46721,6 +46745,14 @@
       "onboard_time": 1741519283,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78067,
+      "num": 674733,
+      "word": "外交部回应美商务部禁用DeepSeek",
+      "onboard_time": 1742286263,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 78023,
@@ -50611,14 +50643,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 48923,
-      "num": 446959,
-      "word": "外交部回应美商务部禁用DeepSeek",
-      "onboard_time": 1742286263,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 48865,
       "num": 163891,
       "word": "蔡少芬曾在生日因张晋爆哭",
@@ -51089,6 +51113,14 @@
       "onboard_time": 1741950322,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44921,
+      "num": 1115582,
+      "word": "消费领域专属指南来了",
+      "onboard_time": 1742286383,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44891,
@@ -52163,6 +52195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 38501,
+      "num": 538618,
+      "word": "华莱士多次因食安问题被处罚",
+      "onboard_time": 1742286263,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 38500,
       "num": 119720,
       "word": "祁煜贝语鲸歌",
@@ -52681,6 +52721,14 @@
       "onboard_time": 1740797717,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 35686,
+      "num": 360759,
+      "word": "煲养生迷魂汤的伪专家该歇了",
+      "onboard_time": 1742285963,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 35583,
@@ -54747,6 +54795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24639,
+      "num": 229229,
+      "word": "想好好吃个饭怎么这么难",
+      "onboard_time": 1742286683,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24630,
       "num": 24630,
       "word": "卫枝被泼柠檬水",
@@ -55001,14 +55057,6 @@
       "onboard_time": 1740841344,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 23447,
-      "num": 360759,
-      "word": "煲养生迷魂汤的伪专家该歇了",
-      "onboard_time": 1742285963,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 23383,
@@ -55321,14 +55369,6 @@
       "onboard_time": 1741833024,
       "rank": 24,
       "category": "幽默,电竞"
-    },
-    {
-      "raw_hot": 21568,
-      "num": 351194,
-      "word": "华莱士多次因食安问题被处罚",
-      "onboard_time": 1742286263,
-      "rank": 22,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 21545,
@@ -55971,14 +56011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17997,
-      "num": 841556,
-      "word": "消费领域专属指南来了",
-      "onboard_time": 1742286383,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17957,
       "num": 116527,
       "word": "巴黎正义少年vs吉普赛小偷",
@@ -56153,6 +56185,14 @@
       "onboard_time": 1742225902,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 17079,
+      "num": 198615,
+      "word": "防晒衣里的面料学问",
+      "onboard_time": 1742286864,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 16956,
