@@ -1,0 +1,410 @@
+{
+  "runTime": 1742269110585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1856301,
+        "num": 1856301,
+        "word": "周处除三害演员权乐去世",
+        "onboard_time": 1742265503,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1454347,
+        "num": 1454347,
+        "word": "小米商标已含卫生护垫类",
+        "onboard_time": 1742264240,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27902,
+        "num": 1145642,
+        "word": "政策给力消费加力持续向新向好",
+        "onboard_time": 1742268502,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1119570,
+        "num": 1119570,
+        "word": "金价",
+        "onboard_time": 1742265982,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 968591,
+        "num": 968591,
+        "word": "奔跑吧13官宣",
+        "onboard_time": 1742261001,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 779478,
+        "num": 779478,
+        "word": "医院被举报代孕后又涉嫌重操旧业",
+        "onboard_time": 1742266702,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 568298,
+        "num": 568298,
+        "word": "自驾阿姨苏敏离婚后的第1年",
+        "onboard_time": 1742263581,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531648,
+        "num": 531648,
+        "word": "恋与深空",
+        "onboard_time": 1742267603,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 467855,
+        "num": 467855,
+        "word": "平价不是蜜雪冰城的万能挡箭牌",
+        "onboard_time": 1742207064,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185109,
+        "num": 464742,
+        "word": "华莱士过期食材换标签续命",
+        "onboard_time": 1742267301,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 2341597,
+        "num": 458817,
+        "word": "曝魏大勋深夜回秦岚家",
+        "onboard_time": 1742267122,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1009803,
+        "num": 454166,
+        "word": "王晶爆刘嘉玲早年被绑架内幕",
+        "onboard_time": 1742261243,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 831610,
+        "num": 450244,
+        "word": "李胜利现身杭州",
+        "onboard_time": 1742263163,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615832,
+        "num": 447983,
+        "word": "金赛纶隐藏了金秀贤的一封信",
+        "onboard_time": 1742255841,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351036,
+        "num": 442217,
+        "word": "在男友家发现很多公章吵架后报警",
+        "onboard_time": 1742267843,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439389,
+        "num": 439389,
+        "word": "小米生态链总经理删除不做卫生巾微博",
+        "onboard_time": 1742259083,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 347204,
+        "num": 347204,
+        "word": "11岁男孩为救父母向骗子转账77次",
+        "onboard_time": 1742260284,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345624,
+        "num": 345624,
+        "word": "孟子义李昀锐奔跑挚友",
+        "onboard_time": 1742261841,
+        "rank": 17,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 242530,
+        "num": 345441,
+        "word": "关晓彤王子奇新剧开机",
+        "onboard_time": 1742263042,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25696,
+        "num": 343995,
+        "word": "你愿意为AI医疗产品额外付费吗",
+        "onboard_time": 1742268685,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381221,
+        "num": 343108,
+        "word": "医生提醒每天睡眠少于6.5h需警惕",
+        "onboard_time": 1742264122,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 346398,
+        "num": 341293,
+        "word": "田曦薇 别让我在外面丢人",
+        "onboard_time": 1742257044,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341129,
+        "num": 341129,
+        "word": "平价的蜜雪冰城拥有豁免权吗",
+        "onboard_time": 1742201121,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338762,
+        "num": 338762,
+        "word": "老板为证清白直播吃自家黄焖鸡",
+        "onboard_time": 1742266883,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36340,
+        "num": 333421,
+        "word": "恋与制作人茶叶小白起",
+        "onboard_time": 1742268263,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235424,
+        "num": 327820,
+        "word": "跑男 昀牵梦绕",
+        "onboard_time": 1742267001,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190356,
+        "num": 322581,
+        "word": "李昀锐晒手绘画",
+        "onboard_time": 1742268443,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177440,
+        "num": 318871,
+        "word": "白鹿奔跑吧18宫格",
+        "onboard_time": 1742268803,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243413,
+        "num": 310432,
+        "word": "享界S9的仪式感",
+        "onboard_time": 1742268143,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 67951,
+        "num": 301329,
+        "word": "美军公布夜袭胡塞武装画面",
+        "onboard_time": 1742267662,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299161,
+        "num": 299161,
+        "word": "泸溪河以为23元一斤结账是23元半斤",
+        "onboard_time": 1742261361,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279000,
+        "num": 279000,
+        "word": "裴勇俊",
+        "onboard_time": 1742256382,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273735,
+        "num": 273735,
+        "word": "鹅鸭杀官宣回归",
+        "onboard_time": 1742268084,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232523,
+        "num": 232523,
+        "word": "53岁女子因胃酸反流2年只能坐着睡",
+        "onboard_time": 1742263283,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188914,
+        "num": 188914,
+        "word": "素食主义背后的真相",
+        "onboard_time": 1742266162,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183746,
+        "num": 183746,
+        "word": "每周减1至2斤是健康减肥速度",
+        "onboard_time": 1742265682,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 181398,
+        "num": 181398,
+        "word": "小米su吸",
+        "onboard_time": 1742268803,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181081,
+        "num": 181081,
+        "word": "台民众大陆配偶遭人肉搜索",
+        "onboard_time": 1742267182,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173631,
+        "num": 173631,
+        "word": "鹅鸭杀称已敲定中国合作伙伴",
+        "onboard_time": 1742268624,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150513,
+        "num": 164813,
+        "word": "贵女",
+        "onboard_time": 1742256742,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159929,
+        "num": 159929,
+        "word": "快30岁才知道雷军这些话都是真的",
+        "onboard_time": 1742255121,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158450,
+        "num": 158450,
+        "word": "外卖员为了追求高薪当男模被卖到缅甸",
+        "onboard_time": 1742256262,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156105,
+        "num": 156105,
+        "word": "问界M9车灯会拐弯",
+        "onboard_time": 1742266702,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155216,
+        "num": 155216,
+        "word": "Danielle好美",
+        "onboard_time": 1742268443,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154554,
+        "num": 154554,
+        "word": "辽阳多名出租车司机围堵网约车司机",
+        "onboard_time": 1742260343,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151946,
+        "num": 151946,
+        "word": "张韶涵巡演官宣",
+        "onboard_time": 1742266522,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101898,
+        "num": 147757,
+        "word": "炒股大师骗老人30万竟上门取钱",
+        "onboard_time": 1742267062,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143578,
+        "num": 143578,
+        "word": "以军对加沙地带发动大规模空袭",
+        "onboard_time": 1742262622,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139158,
+        "num": 139158,
+        "word": "吃饭顿数越少胖得越狠",
+        "onboard_time": 1742266102,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131019,
+        "num": 131019,
+        "word": "23岁女子体检异常未复查确诊尿毒症",
+        "onboard_time": 1742253618,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在贵州考察调研#"
+    }
+  }
+}
