@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742266947704,
+  "endTime": 1742267482172,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1582137,
+      "num": 1582137,
+      "word": "小米商标已含卫生护垫类",
+      "onboard_time": 1742264240,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1577409,
       "num": 1577409,
       "word": "一次性内裤爆雷",
@@ -347,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1462030,
-      "num": 1462030,
-      "word": "小米商标已含卫生护垫类",
-      "onboard_time": 1742264240,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1450260,
       "num": 391956,
       "word": "痞幼抽烟",
@@ -369,6 +369,14 @@
       "onboard_time": 1742108121,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1436027,
+      "num": 1436027,
+      "word": "周处除三害演员权乐去世",
+      "onboard_time": 1742265503,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1416467,
@@ -619,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1082031,
-      "num": 1082031,
-      "word": "周处除三害演员权乐去世",
-      "onboard_time": 1742265503,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1067574,
       "num": 403531,
       "word": "金赛纶遗属将举行新闻发布会",
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 1045463,
-      "num": 434042,
+      "num": 442721,
       "word": "李胜利现身杭州",
       "onboard_time": 1742263163,
       "rank": 17,
@@ -1331,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 573264,
+      "num": 573264,
+      "word": "金价",
+      "onboard_time": 1742265982,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 573043,
       "num": 333463,
       "word": "同居31年女子突然离世男友被赶出门",
@@ -1635,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 464764,
+      "num": 307981,
+      "word": "医生提醒每天睡眠少于6.5h需警惕",
+      "onboard_time": 1742264122,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 463741,
       "num": 463741,
       "word": "赵露思吊带皮裙好辣",
@@ -1849,14 +1865,6 @@
       "onboard_time": 1742105062,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 401651,
-      "num": 307981,
-      "word": "医生提醒每天睡眠少于6.5h需警惕",
-      "onboard_time": 1742264122,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 396488,
@@ -2131,20 +2139,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 334110,
+      "num": 334110,
+      "word": "关晓彤王子奇新剧开机",
+      "onboard_time": 1742263042,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333809,
       "num": 333809,
       "word": "啄木鸟维修",
       "onboard_time": 1742042790,
       "rank": 36,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 331253,
-      "num": 331253,
-      "word": "关晓彤王子奇新剧开机",
-      "onboard_time": 1742263042,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 331018,
@@ -2249,14 +2257,6 @@
       "onboard_time": 1742123783,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 307850,
-      "num": 307850,
-      "word": "金价",
-      "onboard_time": 1742265982,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 306633,
@@ -2795,6 +2795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244365,
+      "num": 244365,
+      "word": "曝魏大勋深夜回秦岚家",
+      "onboard_time": 1742267122,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244017,
       "num": 244017,
       "word": "韩媒称不要让金秀贤当牺牲羊",
@@ -3331,6 +3339,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 210530,
+      "num": 210530,
+      "word": "张韶涵巡演官宣",
+      "onboard_time": 1742266522,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209820,
       "num": 209820,
       "word": "王楚钦孙颖莎和重庆长江索道同框",
@@ -3345,6 +3361,14 @@
       "onboard_time": 1742126124,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209305,
+      "num": 184677,
+      "word": "问界M9车灯会拐弯",
+      "onboard_time": 1742266702,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 209230,
@@ -3899,6 +3923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187106,
+      "num": 308034,
+      "word": "素食主义背后的真相",
+      "onboard_time": 1742266162,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 187095,
       "num": 234705,
       "word": "DeepSeek总结315晚会",
@@ -4059,6 +4091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179920,
+      "num": 179920,
+      "word": "老板为证清白直播吃自家黄焖鸡",
+      "onboard_time": 1742266883,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179679,
       "num": 179679,
       "word": "中国要给算力建国家高速公路",
@@ -4177,14 +4217,6 @@
       "onboard_time": 1742124804,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174969,
-      "num": 174969,
-      "word": "问界M9车灯会拐弯",
-      "onboard_time": 1742266702,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 173201,
@@ -4441,6 +4473,14 @@
       "onboard_time": 1742132063,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162381,
+      "num": 471443,
+      "word": "警惕假冒315红黑榜",
+      "onboard_time": 1742264061,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 162239,
@@ -4707,14 +4747,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 152021,
-      "num": 152021,
-      "word": "张韶涵巡演官宣",
-      "onboard_time": 1742266522,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 151876,
       "num": 151876,
       "word": "王楚钦为家人祈祷",
@@ -4913,6 +4945,14 @@
       "onboard_time": 1742129364,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146148,
+      "num": 146148,
+      "word": "跑男 昀牵梦绕",
+      "onboard_time": 1742267001,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 146146,
@@ -5147,6 +5187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139011,
+      "num": 139011,
+      "word": "孟子义为奔跑吧充电",
+      "onboard_time": 1742267182,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138928,
       "num": 138928,
       "word": "特斯拉免息",
@@ -5259,6 +5307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134485,
+      "num": 134485,
+      "word": "以色列防长称加沙地狱之门将打开",
+      "onboard_time": 1742264240,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134460,
       "num": 134460,
       "word": "石宇奇时隔七年再夺全英冠军",
@@ -5305,6 +5361,14 @@
       "onboard_time": 1742263163,
       "rank": 36,
       "category": "剧集,剧集"
+    },
+    {
+      "raw_hot": 132809,
+      "num": 132809,
+      "word": "台民众大陆配偶遭人肉搜索",
+      "onboard_time": 1742267182,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131779,
@@ -5651,20 +5715,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122151,
-      "num": 471443,
-      "word": "警惕假冒315红黑榜",
-      "onboard_time": 1742264061,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 121992,
       "num": 121992,
       "word": "TF家族练习生2025全新公式照",
       "onboard_time": 1742140401,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121845,
+      "num": 121845,
+      "word": "建议能量低的人像猫一样生活",
+      "onboard_time": 1742265321,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 121572,
@@ -5761,14 +5825,6 @@
       "onboard_time": 1742189062,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118706,
-      "num": 118706,
-      "word": "以色列防长称加沙地狱之门将打开",
-      "onboard_time": 1742264240,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 118604,
@@ -6043,14 +6099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108915,
-      "num": 108915,
-      "word": "建议能量低的人像猫一样生活",
-      "onboard_time": 1742265321,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 108834,
       "num": 1567998,
       "word": "六部门详解最新提振消费方案",
@@ -6145,14 +6193,6 @@
       "onboard_time": 1742123722,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103003,
-      "num": 103003,
-      "word": "老板为证清白直播吃自家黄焖鸡",
-      "onboard_time": 1742266883,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102946,
@@ -6491,6 +6531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88787,
+      "num": 209998,
+      "word": "华莱士过期食材换标签续命",
+      "onboard_time": 1742267301,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 88119,
       "num": 88119,
       "word": "石宇奇获赛季第二冠",
@@ -6777,6 +6825,14 @@
       "onboard_time": 1742220562,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 68754,
+      "num": 434303,
+      "word": "医院被举报代孕后又涉嫌重操旧业",
+      "onboard_time": 1742266702,
+      "rank": 22,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 67904,
@@ -7443,14 +7499,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 31814,
-      "num": 308034,
-      "word": "素食主义背后的真相",
-      "onboard_time": 1742266162,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 30750,
       "num": 263567,
       "word": "张本智和说与王楚钦比赛处于劣势",
@@ -7568,14 +7616,6 @@
       "word": "市场监管总局回应315晚会曝光",
       "onboard_time": 1742056823,
       "rank": 36,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 27268,
-      "num": 261796,
-      "word": "医院被举报代孕后又涉嫌重操旧业",
-      "onboard_time": 1742266702,
-      "rank": 22,
       "category": "舆论监督"
     },
     {
@@ -7768,6 +7808,14 @@
       "word": "空中架起2000多公里电力高速",
       "onboard_time": 1742232376,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19581,
+      "num": 290553,
+      "word": "炒股大师骗老人30万竟上门取钱",
+      "onboard_time": 1742267062,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
