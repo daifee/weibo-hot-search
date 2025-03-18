@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742316410436,
+  "endTime": 1742318509264,
   "band_list": [
     {
       "raw_hot": 1213827,
@@ -179,20 +179,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148552,
+      "num": 148552,
+      "word": "哈马斯证实多名高层死于以军空袭",
+      "onboard_time": 1742313142,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 143127,
       "num": 143127,
       "word": "良好睡眠要在30分钟内入睡",
       "onboard_time": 1742312961,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 139256,
-      "num": 139256,
-      "word": "哈马斯证实多名高层死于以军空袭",
-      "onboard_time": 1742313142,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 137041,
@@ -217,6 +217,14 @@
       "onboard_time": 1742306365,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110929,
+      "num": 85685,
+      "word": "虞书欣美得我一激灵",
+      "onboard_time": 1742317696,
+      "rank": 21,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 110412,
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62756,
+      "num": 62756,
+      "word": "iPad怎么设置横竖屏切换的壁纸",
+      "onboard_time": 1742317217,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 61180,
       "num": 61180,
       "word": "胡杏儿老公",
@@ -393,6 +409,14 @@
       "onboard_time": 1742315898,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 37231,
+      "num": 39070,
+      "word": "一人一句歌词为高考生鼓劲",
+      "onboard_time": 1742316798,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 33962,
@@ -422,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#祝你们的日子越过越红火#"
+    },
+    {
+      "word": "#在中国式现代化进程中展现贵州新风采#"
     }
   ]
 }

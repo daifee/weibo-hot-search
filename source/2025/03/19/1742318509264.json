@@ -1,0 +1,410 @@
+{
+  "runTime": 1742318509264,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 283076,
+        "num": 484198,
+        "word": "辛云来 听泉鉴宝",
+        "onboard_time": 1742304744,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260739,
+        "num": 260739,
+        "word": "男子请客获海底捞补偿朋友要求平分",
+        "onboard_time": 1742307804,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24961,
+        "num": 220691,
+        "word": "9图了解提振消费专项行动方案",
+        "onboard_time": 1742302823,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219140,
+        "num": 219140,
+        "word": "贵女",
+        "onboard_time": 1742314879,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160579,
+        "num": 160579,
+        "word": "男子变现339万后金价又涨了",
+        "onboard_time": 1742310025,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545270,
+        "num": 160262,
+        "word": "媒体评蜜雪冰城别把宽容变纵容",
+        "onboard_time": 1742307503,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 181532,
+        "num": 160078,
+        "word": "辛云来 抱歉让大家见笑了",
+        "onboard_time": 1742314520,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177854,
+        "num": 157636,
+        "word": "12345回应李胜利现身杭州夜店",
+        "onboard_time": 1742293523,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151747,
+        "num": 151747,
+        "word": "蜜雪冰城店员称隔夜柠檬是个例",
+        "onboard_time": 1742288721,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 148552,
+        "num": 148552,
+        "word": "哈马斯证实多名高层死于以军空袭",
+        "onboard_time": 1742313142,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 526661,
+        "num": 146019,
+        "word": "高以翔生前女友官宣结婚",
+        "onboard_time": 1742309126,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290730,
+        "num": 143653,
+        "word": "护短蜜雪冰城是比烂的无奈",
+        "onboard_time": 1742310503,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 336601,
+        "num": 140653,
+        "word": "金秀贤方被曝在中国实名删帖",
+        "onboard_time": 1742305103,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250898,
+        "num": 137833,
+        "word": "贵女这已经不是空降了 这是空袭",
+        "onboard_time": 1742304203,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211737,
+        "num": 135678,
+        "word": "张碧晨方辟谣偷生孩子逼上位",
+        "onboard_time": 1742294902,
+        "rank": 14,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 154056,
+        "num": 133595,
+        "word": "虞书欣方发声明维权",
+        "onboard_time": 1742303904,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132130,
+        "num": 132130,
+        "word": "胡杏儿老公夜店与多位美女搂抱",
+        "onboard_time": 1742280922,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211289,
+        "num": 130806,
+        "word": "金秀贤可能破产",
+        "onboard_time": 1742296823,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103938,
+        "num": 103938,
+        "word": "听音乐喝牛奶长大的鸡半只卖480元",
+        "onboard_time": 1742312061,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88312,
+        "num": 88312,
+        "word": "李嘉诚",
+        "onboard_time": 1742306365,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177404,
+        "num": 87666,
+        "word": "女生做了人工阴道后仍感染HPV",
+        "onboard_time": 1742294783,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110929,
+        "num": 85685,
+        "word": "虞书欣美得我一激灵",
+        "onboard_time": 1742317696,
+        "rank": 21,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 103534,
+        "num": 84153,
+        "word": "贵女空降",
+        "onboard_time": 1742296104,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98523,
+        "num": 82996,
+        "word": "朋友结婚毒友竟随礼1克冰毒",
+        "onboard_time": 1742305882,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82170,
+        "num": 82170,
+        "word": "印度教授性侵多名女生59段视频泄露",
+        "onboard_time": 1742303904,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77333,
+        "num": 77333,
+        "word": "傅菁 雁回时",
+        "onboard_time": 1742305044,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69124,
+        "num": 69124,
+        "word": "景甜术后首次直播透露近况",
+        "onboard_time": 1742307323,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64067,
+        "num": 64067,
+        "word": "流浪猫8天抓咬3名路人投喂者被诉",
+        "onboard_time": 1742308883,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63794,
+        "num": 63794,
+        "word": "贵女 天崩开局",
+        "onboard_time": 1742299044,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62756,
+        "num": 62756,
+        "word": "iPad怎么设置横竖屏切换的壁纸",
+        "onboard_time": 1742317217,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 59355,
+        "num": 59355,
+        "word": "良好睡眠要在30分钟内入睡",
+        "onboard_time": 1742312961,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 57929,
+        "num": 57929,
+        "word": "小伙忘锁公共自行车担心贷款还车费",
+        "onboard_time": 1742305523,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56170,
+        "num": 56170,
+        "word": "费启鸣重返240斤vlog",
+        "onboard_time": 1742275342,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55011,
+        "num": 55011,
+        "word": "蜜雪冰城被曝黑料网友凭啥护短",
+        "onboard_time": 1742280263,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53943,
+        "num": 53943,
+        "word": "送给高考生的超燃歌词",
+        "onboard_time": 1742311103,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48096,
+        "num": 48096,
+        "word": "杭州一酒楼已销毁被污染餐具",
+        "onboard_time": 1742306844,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46150,
+        "num": 46150,
+        "word": "鼻涕颜色是免疫系统的预警",
+        "onboard_time": 1742304324,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 44145,
+        "num": 44145,
+        "word": "胡杏儿老公",
+        "onboard_time": 1742283981,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44012,
+        "num": 44012,
+        "word": "章子怡素颜开会照",
+        "onboard_time": 1742299524,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43687,
+        "num": 43687,
+        "word": "秀贤联播",
+        "onboard_time": 1742307264,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41302,
+        "num": 41302,
+        "word": "零添加酱油12款检出镉7款检出总砷",
+        "onboard_time": 1742295983,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 39433,
+        "num": 39433,
+        "word": "徐艺洋说自己的恋爱技能不稳定",
+        "onboard_time": 1742309906,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39076,
+        "num": 39076,
+        "word": "贵女热度",
+        "onboard_time": 1742310204,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38452,
+        "num": 39073,
+        "word": "野生救援专家盛赞王一博",
+        "onboard_time": 1742304565,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37231,
+        "num": 39070,
+        "word": "一人一句歌词为高考生鼓劲",
+        "onboard_time": 1742316798,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 37009,
+        "num": 39060,
+        "word": "孙艺珍玄彬新合照",
+        "onboard_time": 1742291062,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35255,
+        "num": 39057,
+        "word": "在便利店碰到陈哲远了",
+        "onboard_time": 1742314400,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32443,
+        "num": 39047,
+        "word": "吴映洁女儿小名叫妹子",
+        "onboard_time": 1742311344,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31368,
+        "num": 39041,
+        "word": "夏凤华冷静地说出最狠的话",
+        "onboard_time": 1742315958,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30702,
+        "num": 39036,
+        "word": "半熟4 梁田",
+        "onboard_time": 1742290522,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中国式现代化进程中展现贵州新风采#"
+    }
+  }
+}

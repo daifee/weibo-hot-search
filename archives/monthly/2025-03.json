@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742316410436,
+  "endTime": 1742318509264,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -33251,6 +33251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148552,
+      "num": 148552,
+      "word": "哈马斯证实多名高层死于以军空袭",
+      "onboard_time": 1742313142,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148547,
       "num": 246599,
       "word": "全国政协会议议程来了",
@@ -35409,14 +35417,6 @@
       "onboard_time": 1741764203,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139256,
-      "num": 139256,
-      "word": "哈马斯证实多名高层死于以军空袭",
-      "onboard_time": 1742313142,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 139187,
@@ -41785,6 +41785,14 @@
       "onboard_time": 1741163299,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110929,
+      "num": 85685,
+      "word": "虞书欣美得我一激灵",
+      "onboard_time": 1742317696,
+      "rank": 21,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 110920,
@@ -49715,6 +49723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62756,
+      "num": 62756,
+      "word": "iPad怎么设置横竖屏切换的壁纸",
+      "onboard_time": 1742317217,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 62742,
       "num": 218702,
       "word": "AI未来会替代教师工作吗",
@@ -53569,6 +53585,14 @@
       "onboard_time": 1741666943,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37231,
+      "num": 39070,
+      "word": "一人一句歌词为高考生鼓劲",
+      "onboard_time": 1742316798,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 37184,
