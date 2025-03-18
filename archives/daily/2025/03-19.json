@@ -1,7 +1,15 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742337614596,
+  "endTime": 1742340169291,
   "band_list": [
+    {
+      "raw_hot": 1278250,
+      "num": 1278250,
+      "word": "不要一边充电一边看手机",
+      "onboard_time": 1742325015,
+      "rank": 42,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1213827,
       "num": 252581,
@@ -9,6 +17,14 @@
       "onboard_time": 1742309126,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 969704,
+      "num": 969704,
+      "word": "男子请客获海底捞补偿朋友要求平分",
+      "onboard_time": 1742307804,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 942169,
@@ -25,14 +41,6 @@
       "onboard_time": 1742304203,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 598703,
-      "num": 598703,
-      "word": "不要一边充电一边看手机",
-      "onboard_time": 1742325015,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 591100,
@@ -57,14 +65,6 @@
       "onboard_time": 1742305103,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 518475,
-      "num": 518475,
-      "word": "男子请客获海底捞补偿朋友要求平分",
-      "onboard_time": 1742307804,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 497211,
@@ -131,12 +131,52 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 266577,
+      "num": 266577,
+      "word": "小伙忘锁公共自行车担心贷款还车费",
+      "onboard_time": 1742305523,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262964,
+      "num": 187771,
+      "word": "杭州一酒楼已销毁被污染餐具",
+      "onboard_time": 1742306844,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262938,
+      "num": 262938,
+      "word": "虞书欣美得我一激灵",
+      "onboard_time": 1742317696,
+      "rank": 21,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 258645,
       "num": 258645,
       "word": "贵女",
       "onboard_time": 1742314879,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248091,
+      "num": 248091,
+      "word": "李嘉诚",
+      "onboard_time": 1742306365,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222907,
+      "num": 164653,
+      "word": "朋友结婚毒友竟随礼1克冰毒",
+      "onboard_time": 1742305882,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221705,
@@ -153,6 +193,14 @@
       "onboard_time": 1742296104,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209970,
+      "num": 209970,
+      "word": "哈马斯证实多名高层死于以军空袭",
+      "onboard_time": 1742313142,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 203458,
@@ -179,22 +227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164653,
-      "num": 164653,
-      "word": "朋友结婚毒友竟随礼1克冰毒",
-      "onboard_time": 1742305882,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162270,
-      "num": 162270,
-      "word": "虞书欣美得我一激灵",
-      "onboard_time": 1742317696,
-      "rank": 21,
-      "category": "剧集,艺人"
-    },
-    {
       "raw_hot": 160305,
       "num": 160305,
       "word": "蜜雪冰城被曝黑料网友凭啥护短",
@@ -203,20 +235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148552,
-      "num": 148552,
-      "word": "哈马斯证实多名高层死于以军空袭",
-      "onboard_time": 1742313142,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 146514,
-      "num": 146514,
-      "word": "李嘉诚",
-      "onboard_time": 1742306365,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 156645,
+      "num": 156645,
+      "word": "零添加酱油12款检出镉7款检出总砷",
+      "onboard_time": 1742295983,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 143127,
@@ -235,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128879,
-      "num": 99253,
-      "word": "杭州一酒楼已销毁被污染餐具",
-      "onboard_time": 1742306844,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 135865,
+      "num": 135865,
+      "word": "鼻涕颜色是免疫系统的预警",
+      "onboard_time": 1742304324,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122323,
@@ -251,12 +275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112720,
-      "num": 112720,
-      "word": "小伙忘锁公共自行车担心贷款还车费",
-      "onboard_time": 1742305523,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 111681,
+      "num": 111681,
+      "word": "温峥嵘演技",
+      "onboard_time": 1742337376,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110661,
+      "num": 162136,
+      "word": "普京重申和平解决冲突的立场",
+      "onboard_time": 1742339900,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110412,
@@ -323,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89269,
-      "num": 89269,
-      "word": "鼻涕颜色是免疫系统的预警",
-      "onboard_time": 1742304324,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 88179,
       "num": 88179,
       "word": "章子怡素颜开会照",
@@ -345,6 +369,14 @@
       "onboard_time": 1742311344,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77637,
+      "num": 77637,
+      "word": "民警张俊瑞刘世学因公牺牲",
+      "onboard_time": 1742322975,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76585,
@@ -371,20 +403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 66161,
-      "num": 66161,
-      "word": "零添加酱油12款检出镉7款检出总砷",
-      "onboard_time": 1742295983,
-      "rank": 46,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 65043,
       "num": 65043,
       "word": "野生救援专家盛赞王一博",
       "onboard_time": 1742304565,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64985,
+      "num": 64985,
+      "word": "新家甲醛超标20倍装修公司赔10万",
+      "onboard_time": 1742336776,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64457,
@@ -419,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53023,
+      "num": 53023,
+      "word": "中方敦促澳方尊重中国主权",
+      "onboard_time": 1742328973,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51904,
       "num": 51904,
       "word": "未来的家能有多聪明",
@@ -427,12 +467,60 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 38635,
-      "num": 38635,
-      "word": "中方敦促澳方尊重中国主权",
-      "onboard_time": 1742328973,
-      "rank": 47,
+      "raw_hot": 49075,
+      "num": 49075,
+      "word": "夫妻争吵妻子跳楼致残被丈夫送回娘家",
+      "onboard_time": 1742302643,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48514,
+      "num": 48514,
+      "word": "特朗普称将公布8万页肯尼迪遇刺案文件",
+      "onboard_time": 1742320516,
+      "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48185,
+      "num": 48185,
+      "word": "赵丽颖王伊瑶与凤行一周年营业视频",
+      "onboard_time": 1742338998,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48093,
+      "num": 48093,
+      "word": "当地市监局回应男童往玻璃杯小便",
+      "onboard_time": 1742326753,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47865,
+      "num": 47865,
+      "word": "金价再上历史高位",
+      "onboard_time": 1742334974,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 40471,
+      "num": 602858,
+      "word": "9图了解提振消费专项行动方案",
+      "onboard_time": 1742302823,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38334,
+      "num": 47863,
+      "word": "金赛纶遗属将对照片数字取证",
+      "onboard_time": 1742327533,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 37231,
@@ -443,52 +531,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 37125,
-      "num": 37125,
-      "word": "民警张俊瑞刘世学因公牺牲",
-      "onboard_time": 1742322975,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 35864,
+      "num": 47863,
+      "word": "贵女 晴格格",
+      "onboard_time": 1742300184,
+      "rank": 48,
+      "category": "剧集"
     },
     {
-      "raw_hot": 34151,
-      "num": 34151,
-      "word": "夫妻争吵妻子跳楼致残被丈夫送回娘家",
-      "onboard_time": 1742302643,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33962,
-      "num": 575933,
-      "word": "9图了解提振消费专项行动方案",
-      "onboard_time": 1742302823,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31127,
-      "num": 31478,
-      "word": "特朗普称将公布8万页肯尼迪遇刺案文件",
-      "onboard_time": 1742320516,
-      "rank": 31,
+      "raw_hot": 35366,
+      "num": 47860,
+      "word": "以军空袭加沙已致412人死亡",
+      "onboard_time": 1742305103,
+      "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 30046,
-      "num": 30046,
-      "word": "新家甲醛超标20倍装修公司赔10万",
-      "onboard_time": 1742336776,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29155,
-      "num": 31481,
-      "word": "当地市监局回应男童往玻璃杯小便",
-      "onboard_time": 1742326753,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26907,
@@ -515,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23897,
-      "num": 31460,
-      "word": "金赛纶遗属将对照片数字取证",
-      "onboard_time": 1742327533,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22856,
       "num": 24323,
       "word": "黄晓明 苹什么不爱我",
@@ -539,36 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21355,
-      "num": 31440,
-      "word": "以军空袭加沙已致412人死亡",
-      "onboard_time": 1742305103,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 20190,
       "num": 35867,
       "word": "记者卧底华莱士餐厅后厨",
       "onboard_time": 1742329334,
       "rank": 38,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 18271,
-      "num": 27625,
-      "word": "温峥嵘演技",
-      "onboard_time": 1742337376,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 17860,
-      "num": 31362,
-      "word": "金价再上历史高位",
-      "onboard_time": 1742334974,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 16626,
