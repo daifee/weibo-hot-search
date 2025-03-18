@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742336570395,
+  "endTime": 1742337614596,
   "band_list": [
     {
       "raw_hot": 1213827,
@@ -25,6 +25,14 @@
       "onboard_time": 1742304203,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 598703,
+      "num": 598703,
+      "word": "不要一边充电一边看手机",
+      "onboard_time": 1742325015,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 591100,
@@ -65,14 +73,6 @@
       "onboard_time": 1742314520,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 399937,
-      "num": 414059,
-      "word": "不要一边充电一边看手机",
-      "onboard_time": 1742325015,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 395109,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162270,
+      "num": 162270,
+      "word": "虞书欣美得我一激灵",
+      "onboard_time": 1742317696,
+      "rank": 21,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 160305,
       "num": 160305,
       "word": "蜜雪冰城被曝黑料网友凭啥护短",
@@ -201,6 +209,14 @@
       "onboard_time": 1742313142,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146514,
+      "num": 146514,
+      "word": "李嘉诚",
+      "onboard_time": 1742306365,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143127,
@@ -219,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128879,
+      "num": 99253,
+      "word": "杭州一酒楼已销毁被污染餐具",
+      "onboard_time": 1742306844,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122323,
       "num": 122323,
       "word": "贵女热度",
@@ -227,20 +251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115672,
-      "num": 115672,
-      "word": "李嘉诚",
-      "onboard_time": 1742306365,
-      "rank": 28,
+      "raw_hot": 112720,
+      "num": 112720,
+      "word": "小伙忘锁公共自行车担心贷款还车费",
+      "onboard_time": 1742305523,
+      "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115283,
-      "num": 115283,
-      "word": "虞书欣美得我一激灵",
-      "onboard_time": 1742317696,
-      "rank": 21,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 110412,
@@ -256,14 +272,6 @@
       "word": "流浪猫8天抓咬3名路人投喂者被诉",
       "onboard_time": 1742308883,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109289,
-      "num": 109289,
-      "word": "小伙忘锁公共自行车担心贷款还车费",
-      "onboard_time": 1742305523,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -337,14 +345,6 @@
       "onboard_time": 1742311344,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76967,
-      "num": 76967,
-      "word": "杭州一酒楼已销毁被污染餐具",
-      "onboard_time": 1742306844,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76585,
@@ -427,12 +427,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 38635,
+      "num": 38635,
+      "word": "中方敦促澳方尊重中国主权",
+      "onboard_time": 1742328973,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37231,
       "num": 39070,
       "word": "一人一句歌词为高考生鼓劲",
       "onboard_time": 1742316798,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 37125,
+      "num": 37125,
+      "word": "民警张俊瑞刘世学因公牺牲",
+      "onboard_time": 1742322975,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34151,
@@ -459,11 +475,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 27750,
-      "num": 31580,
-      "word": "民警张俊瑞刘世学因公牺牲",
-      "onboard_time": 1742322975,
-      "rank": 47,
+      "raw_hot": 30046,
+      "num": 30046,
+      "word": "新家甲醛超标20倍装修公司赔10万",
+      "onboard_time": 1742336776,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29155,
+      "num": 31481,
+      "word": "当地市监局回应男童往玻璃杯小便",
+      "onboard_time": 1742326753,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -473,14 +497,6 @@
       "onboard_time": 1742314341,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26754,
-      "num": 31563,
-      "word": "中方敦促澳方尊重中国主权",
-      "onboard_time": 1742328973,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 26336,
@@ -499,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23897,
+      "num": 31460,
+      "word": "金赛纶遗属将对照片数字取证",
+      "onboard_time": 1742327533,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22856,
       "num": 24323,
       "word": "黄晓明 苹什么不爱我",
@@ -515,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20845,
-      "num": 31481,
-      "word": "当地市监局回应男童往玻璃杯小便",
-      "onboard_time": 1742326753,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 21355,
+      "num": 31440,
+      "word": "以军空袭加沙已致412人死亡",
+      "onboard_time": 1742305103,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20190,
@@ -531,20 +555,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 19724,
-      "num": 31460,
-      "word": "金赛纶遗属将对照片数字取证",
-      "onboard_time": 1742327533,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 18271,
+      "num": 27625,
+      "word": "温峥嵘演技",
+      "onboard_time": 1742337376,
+      "rank": 48,
+      "category": "剧集"
     },
     {
-      "raw_hot": 19620,
-      "num": 31440,
-      "word": "以军空袭加沙已致412人死亡",
-      "onboard_time": 1742305103,
+      "raw_hot": 17860,
+      "num": 31362,
+      "word": "金价再上历史高位",
+      "onboard_time": 1742334974,
       "rank": 49,
-      "category": "国际时政"
+      "category": "财经"
     },
     {
       "raw_hot": 16626,
@@ -569,14 +593,6 @@
       "onboard_time": 1742323574,
       "rank": 40,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 14146,
-      "num": 31362,
-      "word": "金价再上历史高位",
-      "onboard_time": 1742334974,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 13358,
