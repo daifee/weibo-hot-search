@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742287457208,
+  "endTime": 1742289997213,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2467,6 +2467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1273017,
+      "num": 688090,
+      "word": "刘亚仁 复出",
+      "onboard_time": 1742287285,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1272671,
       "num": 399225,
       "word": "田静英语一成绩",
@@ -4891,6 +4899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 853936,
+      "num": 344799,
+      "word": "金秀贤的手部习惯",
+      "onboard_time": 1742286563,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 853868,
       "num": 337698,
       "word": "100寸的行李箱",
@@ -6923,6 +6939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656957,
+      "num": 604731,
+      "word": "赵丽颖疑似用沈璃回应",
+      "onboard_time": 1742284823,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655715,
       "num": 655715,
       "word": "靳东建议成立国家遗嘱库",
@@ -6953,6 +6977,14 @@
       "onboard_time": 1741141938,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 652359,
+      "num": 380419,
+      "word": "汶川3.1级地震",
+      "onboard_time": 1742286624,
+      "rank": 16,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 651926,
@@ -7483,6 +7515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 616832,
+      "num": 368191,
+      "word": "包文婧孕期8个月plog",
+      "onboard_time": 1742288241,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 615503,
       "num": 544539,
       "word": "爱你原型",
@@ -7681,14 +7721,6 @@
       "onboard_time": 1741441042,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 604731,
-      "num": 604731,
-      "word": "赵丽颖疑似用沈璃回应",
-      "onboard_time": 1742284823,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 604407,
@@ -8137,14 +8169,6 @@
       "onboard_time": 1741323564,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 580282,
-      "num": 240754,
-      "word": "金秀贤的手部习惯",
-      "onboard_time": 1742286563,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 580158,
@@ -15259,6 +15283,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 304234,
+      "num": 448858,
+      "word": "王皓期待队员拿下世界杯单打冠军",
+      "onboard_time": 1742289024,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303979,
       "num": 761462,
       "word": "两会是哪两个会",
@@ -15771,6 +15803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 293775,
+      "num": 293775,
+      "word": "王曼昱因伤退出十五运资格赛",
+      "onboard_time": 1742286503,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293688,
       "num": 627957,
       "word": "梁靖崑vs林诗栋",
@@ -15873,6 +15913,14 @@
       "onboard_time": 1741506801,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291879,
+      "num": 291879,
+      "word": "蜜雪冰城店员称隔夜柠檬是个例",
+      "onboard_time": 1742288721,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 291845,
@@ -19123,6 +19171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236173,
+      "num": 236173,
+      "word": "骑手送货发现异常救回16万现金",
+      "onboard_time": 1742287644,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236100,
       "num": 236100,
       "word": "哈登50分",
@@ -19209,6 +19265,14 @@
       "onboard_time": 1741361302,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234778,
+      "num": 236791,
+      "word": "这排全是虞书欣以年为单位的朋友",
+      "onboard_time": 1742283263,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 234687,
@@ -19784,14 +19848,6 @@
       "word": "王楚钦对战阿鲁纳",
       "onboard_time": 1741760305,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 227466,
-      "num": 239216,
-      "word": "王曼昱因伤退出十五运资格赛",
-      "onboard_time": 1742286503,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -21643,6 +21699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 209805,
+      "num": 209805,
+      "word": "半熟恋人",
+      "onboard_time": 1742289442,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209793,
       "num": 209793,
       "word": "利物浦2比5巴黎圣日耳曼",
@@ -21955,6 +22019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 207544,
+      "num": 207544,
+      "word": "周深回归跑男肉眼可见的开心",
+      "onboard_time": 1742288963,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207505,
       "num": 352140,
       "word": "虞书欣漫画角色为卫枝打call",
@@ -22201,6 +22273,14 @@
       "onboard_time": 1741007901,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205996,
+      "num": 205996,
+      "word": "孟子义花朵裙",
+      "onboard_time": 1742288183,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 205919,
@@ -23443,14 +23523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198575,
-      "num": 198575,
-      "word": "刘亚仁 复出",
-      "onboard_time": 1742287285,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198420,
       "num": 198420,
       "word": "翟子路真的学王星越挂锁了",
@@ -24137,14 +24209,6 @@
       "onboard_time": 1741060820,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 194361,
-      "num": 194361,
-      "word": "这排全是虞书欣以年为单位的朋友",
-      "onboard_time": 1742283263,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 194322,
@@ -25089,6 +25153,14 @@
       "onboard_time": 1741747462,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189012,
+      "num": 189012,
+      "word": "生逢其时领衔主演关晓彤王子奇",
+      "onboard_time": 1742289743,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 188994,
@@ -29273,6 +29345,14 @@
       "onboard_time": 1742197943,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164652,
+      "num": 164652,
+      "word": "我愿为了这个房子爬七楼",
+      "onboard_time": 1742289622,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 164534,
@@ -36084,7 +36164,7 @@
     },
     {
       "raw_hot": 131832,
-      "num": 131832,
+      "num": 291983,
       "word": "王皓回应澳门世界杯国乒名单",
       "onboard_time": 1742284823,
       "rank": 49,
@@ -38424,6 +38504,14 @@
       "word": "杨紫李祯灰头土脸",
       "onboard_time": 1740992299,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122014,
+      "num": 434591,
+      "word": "檀健次新片的变色龙好可爱",
+      "onboard_time": 1742287464,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -48923,6 +49011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 60232,
+      "num": 1115582,
+      "word": "消费领域专属指南来了",
+      "onboard_time": 1742286383,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60151,
       "num": 369398,
       "word": "极氪智驾坐稳第一梯队",
@@ -51043,6 +51139,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 45397,
+      "num": 346849,
+      "word": "黄金价格还会涨多久",
+      "onboard_time": 1742289024,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 45343,
       "num": 198208,
       "word": "检查260元全麻后遭加价3600元",
@@ -51113,14 +51217,6 @@
       "onboard_time": 1741950322,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44921,
-      "num": 1115582,
-      "word": "消费领域专属指南来了",
-      "onboard_time": 1742286383,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44891,
@@ -51443,6 +51539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42377,
+      "num": 132920,
+      "word": "黄金股大幅上涨",
+      "onboard_time": 1742288603,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 42319,
       "num": 51718,
       "word": "马斯克首访美国家安全局",
@@ -51697,6 +51801,14 @@
       "onboard_time": 1740897620,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41188,
+      "num": 399153,
+      "word": "广西河池居民家中自来水发臭",
+      "onboard_time": 1742289323,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 41138,
@@ -53475,6 +53587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31674,
+      "num": 139728,
+      "word": "防晒衣穿搭公式",
+      "onboard_time": 1742288963,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 31644,
       "num": 312776,
       "word": "虚拟商品维权为啥这么难",
@@ -54859,6 +54979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24433,
+      "num": 358186,
+      "word": "以军袭击加沙前向美方征求意见",
+      "onboard_time": 1742289024,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24427,
       "num": 42972,
       "word": "买电车应该缴纳购置税吗",
@@ -55105,6 +55233,14 @@
       "onboard_time": 1741769244,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23185,
+      "num": 198615,
+      "word": "防晒衣里的面料学问",
+      "onboard_time": 1742286864,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 23158,
@@ -56185,14 +56321,6 @@
       "onboard_time": 1742225902,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 17079,
-      "num": 198615,
-      "word": "防晒衣里的面料学问",
-      "onboard_time": 1742286864,
-      "rank": 38,
-      "category": "科学科普"
     },
     {
       "raw_hot": 16956,

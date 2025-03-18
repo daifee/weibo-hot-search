@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742287457208,
+  "endTime": 1742289997213,
   "band_list": [
     {
       "raw_hot": 2393654,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1273017,
+      "num": 688090,
+      "word": "刘亚仁 复出",
+      "onboard_time": 1742287285,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1214302,
       "num": 639958,
       "word": "金赛纶隐藏了金秀贤的一封信",
@@ -233,6 +241,14 @@
       "onboard_time": 1742207064,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 853936,
+      "num": 344799,
+      "word": "金秀贤的手部习惯",
+      "onboard_time": 1742286563,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 846816,
@@ -363,6 +379,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 656957,
+      "num": 604731,
+      "word": "赵丽颖疑似用沈璃回应",
+      "onboard_time": 1742284823,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 652359,
+      "num": 380419,
+      "word": "汶川3.1级地震",
+      "onboard_time": 1742286624,
+      "rank": 16,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 641599,
       "num": 509221,
       "word": "田曦薇 别让我在外面丢人",
@@ -387,6 +419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 616832,
+      "num": 368191,
+      "word": "包文婧孕期8个月plog",
+      "onboard_time": 1742288241,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 613838,
       "num": 693523,
       "word": "谢景行",
@@ -395,28 +435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 604731,
-      "num": 604731,
-      "word": "赵丽颖疑似用沈璃回应",
-      "onboard_time": 1742284823,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 598319,
       "num": 598319,
       "word": "汶川地震",
       "onboard_time": 1742286624,
       "rank": 46,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 580282,
-      "num": 240754,
-      "word": "金秀贤的手部习惯",
-      "onboard_time": 1742286563,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 567473,
@@ -667,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304234,
+      "num": 448858,
+      "word": "王皓期待队员拿下世界杯单打冠军",
+      "onboard_time": 1742289024,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301450,
       "num": 407237,
       "word": "梁振英间接回应李嘉诚出售巴拿马港口",
@@ -697,6 +729,22 @@
       "onboard_time": 1742255600,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293775,
+      "num": 293775,
+      "word": "王曼昱因伤退出十五运资格赛",
+      "onboard_time": 1742286503,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 291879,
+      "num": 291879,
+      "word": "蜜雪冰城店员称隔夜柠檬是个例",
+      "onboard_time": 1742288721,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 284122,
@@ -843,12 +891,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236173,
+      "num": 236173,
+      "word": "骑手送货发现异常救回16万现金",
+      "onboard_time": 1742287644,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235424,
       "num": 327820,
       "word": "跑男 昀牵梦绕",
       "onboard_time": 1742267001,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234778,
+      "num": 236791,
+      "word": "这排全是虞书欣以年为单位的朋友",
+      "onboard_time": 1742283263,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 234235,
@@ -865,14 +929,6 @@
       "onboard_time": 1742225902,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 227466,
-      "num": 239216,
-      "word": "王曼昱因伤退出十五运资格赛",
-      "onboard_time": 1742286503,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 224292,
@@ -931,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209805,
+      "num": 209805,
+      "word": "半熟恋人",
+      "onboard_time": 1742289442,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209305,
       "num": 184677,
       "word": "问界M9车灯会拐弯",
@@ -947,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207544,
+      "num": 207544,
+      "word": "周深回归跑男肉眼可见的开心",
+      "onboard_time": 1742288963,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207289,
       "num": 245211,
       "word": "鹅鸭杀手游来了",
@@ -961,6 +1033,14 @@
       "onboard_time": 1742268624,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205996,
+      "num": 205996,
+      "word": "孟子义花朵裙",
+      "onboard_time": 1742288183,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 205223,
@@ -1035,14 +1115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198575,
-      "num": 198575,
-      "word": "刘亚仁 复出",
-      "onboard_time": 1742287285,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198322,
       "num": 198322,
       "word": "向太说李小冉因节目争议哭了",
@@ -1081,14 +1153,6 @@
       "onboard_time": 1742267301,
       "rank": 28,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 194361,
-      "num": 194361,
-      "word": "这排全是虞书欣以年为单位的朋友",
-      "onboard_time": 1742283263,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 193542,
@@ -1145,6 +1209,14 @@
       "onboard_time": 1742254941,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189012,
+      "num": 189012,
+      "word": "生逢其时领衔主演关晓彤王子奇",
+      "onboard_time": 1742289743,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 188914,
@@ -1265,6 +1337,14 @@
       "onboard_time": 1742266102,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 164652,
+      "num": 164652,
+      "word": "我愿为了这个房子爬七楼",
+      "onboard_time": 1742289622,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 162381,
@@ -1524,7 +1604,7 @@
     },
     {
       "raw_hot": 131832,
-      "num": 131832,
+      "num": 291983,
       "word": "王皓回应澳门世界杯国乒名单",
       "onboard_time": 1742284823,
       "rank": 49,
@@ -1569,6 +1649,14 @@
       "onboard_time": 1742262862,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122014,
+      "num": 434591,
+      "word": "檀健次新片的变色龙好可爱",
+      "onboard_time": 1742287464,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 121845,
@@ -2075,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60232,
+      "num": 1115582,
+      "word": "消费领域专属指南来了",
+      "onboard_time": 1742286383,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58425,
       "num": 58425,
       "word": "这就是虞书欣说的竹马比不过天降",
@@ -2163,12 +2259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44921,
-      "num": 1115582,
-      "word": "消费领域专属指南来了",
-      "onboard_time": 1742286383,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 45397,
+      "num": 346849,
+      "word": "黄金价格还会涨多久",
+      "onboard_time": 1742289024,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 43585,
@@ -2201,6 +2297,22 @@
       "onboard_time": 1742268502,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42377,
+      "num": 132920,
+      "word": "黄金股大幅上涨",
+      "onboard_time": 1742288603,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 41188,
+      "num": 399153,
+      "word": "广西河池居民家中自来水发臭",
+      "onboard_time": 1742289323,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 41063,
@@ -2291,6 +2403,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 31674,
+      "num": 139728,
+      "word": "防晒衣穿搭公式",
+      "onboard_time": 1742288963,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 31027,
       "num": 239226,
       "word": "一图看懂我国新质生产力发展新进展",
@@ -2379,6 +2499,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24433,
+      "num": 358186,
+      "word": "以军袭击加沙前向美方征求意见",
+      "onboard_time": 1742289024,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23185,
+      "num": 198615,
+      "word": "防晒衣里的面料学问",
+      "onboard_time": 1742286864,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 21782,
       "num": 49794,
       "word": "因持续降雪玉龙雪山索道停运",
@@ -2441,14 +2577,6 @@
       "onboard_time": 1742282842,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 17079,
-      "num": 198615,
-      "word": "防晒衣里的面料学问",
-      "onboard_time": 1742286864,
-      "rank": 38,
-      "category": "科学科普"
     },
     {
       "raw_hot": 14104,
