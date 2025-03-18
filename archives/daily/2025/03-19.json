@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742323621398,
+  "endTime": 1742325585544,
   "band_list": [
     {
       "raw_hot": 1213827,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25225,
+      "num": 25225,
+      "word": "民警张俊瑞刘世学因公牺牲",
+      "onboard_time": 1742322975,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24674,
       "num": 30874,
       "word": "白玉兰奖预热VCR里的杨紫",
@@ -491,12 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18609,
-      "num": 18609,
-      "word": "民警张俊瑞刘世学因公牺牲",
-      "onboard_time": 1742322975,
-      "rank": 47,
+      "raw_hot": 17053,
+      "num": 17053,
+      "word": "不要一边充电一边看手机",
+      "onboard_time": 1742325015,
+      "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16626,
+      "num": 57478,
+      "word": "以军大规模空袭加沙致上百人死亡",
+      "onboard_time": 1742322434,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15655,
@@ -507,20 +523,28 @@
       "category": "美食"
     },
     {
-      "raw_hot": 13914,
-      "num": 57478,
-      "word": "以军大规模空袭加沙致上百人死亡",
-      "onboard_time": 1742322434,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 10310,
+      "raw_hot": 14677,
       "num": 21274,
       "word": "华莱士将开展30天卫生抽查",
       "onboard_time": 1742323574,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 13874,
+      "num": 16622,
+      "word": "以军空袭加沙已致412人死亡",
+      "onboard_time": 1742305103,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 10719,
+      "num": 34299,
+      "word": "以军空袭已致310人死亡",
+      "onboard_time": 1742324294,
+      "rank": 23,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
