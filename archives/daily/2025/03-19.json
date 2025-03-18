@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742322820054,
+  "endTime": 1742323621398,
   "band_list": [
     {
       "raw_hot": 1213827,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 110929,
-      "num": 93021,
+      "num": 98304,
       "word": "虞书欣美得我一激灵",
       "onboard_time": 1742317696,
       "rank": 21,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18609,
+      "num": 18609,
+      "word": "民警张俊瑞刘世学因公牺牲",
+      "onboard_time": 1742322975,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15655,
       "num": 83953,
       "word": "酸辣脆爽腌白萝卜",
@@ -499,12 +507,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 10633,
-      "num": 35852,
+      "raw_hot": 13914,
+      "num": 57478,
       "word": "以军大规模空袭加沙致上百人死亡",
       "onboard_time": 1742322434,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10310,
+      "num": 21274,
+      "word": "华莱士将开展30天卫生抽查",
+      "onboard_time": 1742323574,
+      "rank": 40,
+      "category": "舆论监督"
     }
   ],
   "hotgov_list": [
