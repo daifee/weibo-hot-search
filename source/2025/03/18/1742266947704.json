@@ -1,0 +1,410 @@
+{
+  "runTime": 1742266947704,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1462030,
+        "num": 1462030,
+        "word": "小米商标已含卫生护垫类",
+        "onboard_time": 1742264240,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1096867,
+        "num": 1096867,
+        "word": "奔跑吧13官宣",
+        "onboard_time": 1742261001,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43060,
+        "num": 1088855,
+        "word": "六部门详解最新提振消费方案",
+        "onboard_time": 1742218584,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1082031,
+        "num": 1082031,
+        "word": "周处除三害演员权乐去世",
+        "onboard_time": 1742265503,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 810300,
+        "num": 810300,
+        "word": "自驾阿姨苏敏离婚后的第1年",
+        "onboard_time": 1742263581,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640380,
+        "num": 640380,
+        "word": "小米生态链总经理删除不做卫生巾微博",
+        "onboard_time": 1742259083,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 537180,
+        "num": 537180,
+        "word": "泸溪河以为23元一斤结账是23元半斤",
+        "onboard_time": 1742261361,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474468,
+        "num": 474468,
+        "word": "11岁男孩为救父母向骗子转账77次",
+        "onboard_time": 1742260284,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471477,
+        "num": 471477,
+        "word": "孟子义李昀锐奔跑挚友",
+        "onboard_time": 1742261841,
+        "rank": 8,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 122151,
+        "num": 471443,
+        "word": "警惕假冒315红黑榜",
+        "onboard_time": 1742264061,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1183913,
+        "num": 454248,
+        "word": "王晶爆刘嘉玲早年被绑架内幕",
+        "onboard_time": 1742261243,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1045463,
+        "num": 434042,
+        "word": "李胜利现身杭州",
+        "onboard_time": 1742263163,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636187,
+        "num": 416949,
+        "word": "金赛纶隐藏了金秀贤的一封信",
+        "onboard_time": 1742255841,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406854,
+        "num": 406854,
+        "word": "平价的蜜雪冰城拥有豁免权吗",
+        "onboard_time": 1742201121,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405565,
+        "num": 405565,
+        "word": "平价不是蜜雪冰城的万能挡箭牌",
+        "onboard_time": 1742207064,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361016,
+        "num": 361016,
+        "word": "裴勇俊",
+        "onboard_time": 1742256382,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331253,
+        "num": 331253,
+        "word": "关晓彤王子奇新剧开机",
+        "onboard_time": 1742263042,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330970,
+        "num": 330970,
+        "word": "田曦薇 别让我在外面丢人",
+        "onboard_time": 1742257044,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312454,
+        "num": 312454,
+        "word": "辽阳多名出租车司机围堵网约车司机",
+        "onboard_time": 1742260343,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31814,
+        "num": 308034,
+        "word": "素食主义背后的真相",
+        "onboard_time": 1742266162,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 401651,
+        "num": 307981,
+        "word": "医生提醒每天睡眠少于6.5h需警惕",
+        "onboard_time": 1742264122,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 307850,
+        "num": 307850,
+        "word": "金价",
+        "onboard_time": 1742265982,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27268,
+        "num": 261796,
+        "word": "医院被举报代孕后又涉嫌重操旧业",
+        "onboard_time": 1742266702,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 253667,
+        "num": 253667,
+        "word": "53岁女子因胃酸反流2年只能坐着睡",
+        "onboard_time": 1742263283,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223225,
+        "num": 223225,
+        "word": "外卖员为了追求高薪当男模被卖到缅甸",
+        "onboard_time": 1742256262,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195675,
+        "num": 195675,
+        "word": "快30岁才知道雷军这些话都是真的",
+        "onboard_time": 1742255121,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174969,
+        "num": 174969,
+        "word": "问界M9车灯会拐弯",
+        "onboard_time": 1742266702,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153780,
+        "num": 169674,
+        "word": "哪吒2票房",
+        "onboard_time": 1742256021,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140164,
+        "num": 168511,
+        "word": "短剧女主余茵回应颜值身高都一般",
+        "onboard_time": 1742221045,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126546,
+        "num": 168102,
+        "word": "短剧女演员余茵进组于正新剧",
+        "onboard_time": 1742257283,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168083,
+        "num": 168083,
+        "word": "以军对加沙地带发动大规模空袭",
+        "onboard_time": 1742262622,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163792,
+        "num": 163792,
+        "word": "23岁女子体检异常未复查确诊尿毒症",
+        "onboard_time": 1742253618,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159092,
+        "num": 159092,
+        "word": "中方决不接受七国集团甩锅推责",
+        "onboard_time": 1742229199,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152021,
+        "num": 152021,
+        "word": "张韶涵巡演官宣",
+        "onboard_time": 1742266522,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143713,
+        "num": 143713,
+        "word": "国际金价涨破3000美元",
+        "onboard_time": 1742265022,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120618,
+        "num": 140618,
+        "word": "生逢其时",
+        "onboard_time": 1742265382,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28913,
+        "num": 139414,
+        "word": "F1中国大奖赛本周五开赛",
+        "onboard_time": 1742265623,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138928,
+        "num": 138928,
+        "word": "特斯拉免息",
+        "onboard_time": 1742264421,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 134896,
+        "num": 134896,
+        "word": "女子在公园偶遇2D草",
+        "onboard_time": 1742264482,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122827,
+        "num": 122827,
+        "word": "金赛纶遗属欲以谋杀罪起诉李镇浩",
+        "onboard_time": 1742262862,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121773,
+        "num": 121773,
+        "word": "贵女",
+        "onboard_time": 1742256742,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121127,
+        "num": 121127,
+        "word": "刘宇宁 珠帘玉幕咋了",
+        "onboard_time": 1742219004,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120834,
+        "num": 120834,
+        "word": "2岁孩子就已经有面子意识了",
+        "onboard_time": 1742261662,
+        "rank": 42,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 118706,
+        "num": 118706,
+        "word": "以色列防长称加沙地狱之门将打开",
+        "onboard_time": 1742264240,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108915,
+        "num": 108915,
+        "word": "建议能量低的人像猫一样生活",
+        "onboard_time": 1742265321,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106107,
+        "num": 106107,
+        "word": "谁发明的在按摩店刷题",
+        "onboard_time": 1742266401,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105975,
+        "num": 105975,
+        "word": "以军又一次空袭加沙超100人死亡",
+        "onboard_time": 1742264482,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103960,
+        "num": 103960,
+        "word": "女孩玩手机半年度数飙升至1700度",
+        "onboard_time": 1742266883,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103517,
+        "num": 103517,
+        "word": "啄木鸟已核实确认8655个争议订单",
+        "onboard_time": 1742255600,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103003,
+        "num": 103003,
+        "word": "老板为证清白直播吃自家黄焖鸡",
+        "onboard_time": 1742266883,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调教育科技人才一起抓#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742263860557,
+  "endTime": 1742266947704,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1462030,
+      "num": 1462030,
+      "word": "小米商标已含卫生护垫类",
+      "onboard_time": 1742264240,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1450260,
       "num": 391956,
       "word": "痞幼抽烟",
@@ -611,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1082031,
+      "num": 1082031,
+      "word": "周处除三害演员权乐去世",
+      "onboard_time": 1742265503,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1067574,
       "num": 403531,
       "word": "金赛纶遗属将举行新闻发布会",
@@ -633,6 +649,14 @@
       "onboard_time": 1742120963,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1045463,
+      "num": 434042,
+      "word": "李胜利现身杭州",
+      "onboard_time": 1742263163,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 1028024,
@@ -888,6 +912,14 @@
       "word": "女子篡改室友考公岗位被拘",
       "onboard_time": 1742081900,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 810300,
+      "num": 810300,
+      "word": "自驾阿姨苏敏离婚后的第1年",
+      "onboard_time": 1742263581,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1579,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 471477,
+      "num": 471477,
+      "word": "孟子义李昀锐奔跑挚友",
+      "onboard_time": 1742261841,
+      "rank": 25,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 471134,
       "num": 471134,
       "word": "沪上阿姨",
@@ -1601,22 +1641,6 @@
       "onboard_time": 1742227881,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 460940,
-      "num": 328535,
-      "word": "李胜利现身杭州",
-      "onboard_time": 1742263163,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 459114,
-      "num": 459114,
-      "word": "孟子义李昀锐奔跑挚友",
-      "onboard_time": 1742261841,
-      "rank": 25,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 458962,
@@ -1825,6 +1849,14 @@
       "onboard_time": 1742105062,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 401651,
+      "num": 307981,
+      "word": "医生提醒每天睡眠少于6.5h需警惕",
+      "onboard_time": 1742264122,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 396488,
@@ -2107,6 +2139,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 331253,
+      "num": 331253,
+      "word": "关晓彤王子奇新剧开机",
+      "onboard_time": 1742263042,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331018,
       "num": 426462,
       "word": "山西发布319重大交通事故调查报告",
@@ -2195,12 +2235,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 312454,
+      "num": 312454,
+      "word": "辽阳多名出租车司机围堵网约车司机",
+      "onboard_time": 1742260343,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311131,
       "num": 529005,
       "word": "鼓励带薪年休假与小长假连休",
       "onboard_time": 1742123783,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307850,
+      "num": 307850,
+      "word": "金价",
+      "onboard_time": 1742265982,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 306633,
@@ -2257,14 +2313,6 @@
       "onboard_time": 1742132544,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 297324,
-      "num": 277795,
-      "word": "辽阳多名出租车司机围堵网约车司机",
-      "onboard_time": 1742260343,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 295844,
@@ -2633,6 +2681,14 @@
       "onboard_time": 1742212525,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253667,
+      "num": 253667,
+      "word": "53岁女子因胃酸反流2年只能坐着睡",
+      "onboard_time": 1742263283,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 253231,
@@ -3049,14 +3105,6 @@
       "onboard_time": 1742219063,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 222529,
-      "num": 214367,
-      "word": "关晓彤王子奇新剧开机",
-      "onboard_time": 1742263042,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 222265,
@@ -3987,14 +4035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180617,
-      "num": 180617,
-      "word": "53岁女子因胃酸反流2年只能坐着睡",
-      "onboard_time": 1742263283,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180613,
       "num": 180613,
       "word": "土耳其600斤吃播网红因病去世",
@@ -4137,6 +4177,14 @@
       "onboard_time": 1742124804,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174969,
+      "num": 174969,
+      "word": "问界M9车灯会拐弯",
+      "onboard_time": 1742266702,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 173201,
@@ -4659,6 +4707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152021,
+      "num": 152021,
+      "word": "张韶涵巡演官宣",
+      "onboard_time": 1742266522,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151876,
       "num": 151876,
       "word": "王楚钦为家人祈祷",
@@ -4995,6 +5051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143713,
+      "num": 143713,
+      "word": "国际金价涨破3000美元",
+      "onboard_time": 1742265022,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 143653,
       "num": 143653,
       "word": "李一桐陈鑫海搂腰对视戏",
@@ -5081,6 +5145,14 @@
       "onboard_time": 1742116102,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138928,
+      "num": 138928,
+      "word": "特斯拉免息",
+      "onboard_time": 1742264421,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 138349,
@@ -5177,6 +5249,14 @@
       "onboard_time": 1742185404,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 134896,
+      "num": 134896,
+      "word": "女子在公园偶遇2D草",
+      "onboard_time": 1742264482,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134460,
@@ -5539,12 +5619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122891,
-      "num": 122891,
-      "word": "自驾阿姨苏敏离婚后的第1年",
-      "onboard_time": 1742263581,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 122827,
+      "num": 122827,
+      "word": "金赛纶遗属欲以谋杀罪起诉李镇浩",
+      "onboard_time": 1742262862,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 122652,
@@ -5569,6 +5649,14 @@
       "onboard_time": 1742224285,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122151,
+      "num": 471443,
+      "word": "警惕假冒315红黑榜",
+      "onboard_time": 1742264061,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 121992,
@@ -5611,20 +5699,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121361,
-      "num": 121361,
-      "word": "金赛纶遗属欲以谋杀罪起诉李镇浩",
-      "onboard_time": 1742262862,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121113,
       "num": 121113,
       "word": "中式古法健身成00后新流行",
       "onboard_time": 1742213965,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 120618,
+      "num": 140618,
+      "word": "生逢其时",
+      "onboard_time": 1742265382,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 120241,
@@ -5673,6 +5761,14 @@
       "onboard_time": 1742189062,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118706,
+      "num": 118706,
+      "word": "以色列防长称加沙地狱之门将打开",
+      "onboard_time": 1742264240,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118604,
@@ -5947,6 +6043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108915,
+      "num": 108915,
+      "word": "建议能量低的人像猫一样生活",
+      "onboard_time": 1742265321,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108834,
       "num": 1567998,
       "word": "六部门详解最新提振消费方案",
@@ -5995,11 +6099,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106107,
+      "num": 106107,
+      "word": "谁发明的在按摩店刷题",
+      "onboard_time": 1742266401,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 105975,
+      "num": 105975,
+      "word": "以军又一次空袭加沙超100人死亡",
+      "onboard_time": 1742264482,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105510,
       "num": 105510,
       "word": "菠萝族长出售族人销量翻4倍",
       "onboard_time": 1742245634,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103960,
+      "num": 103960,
+      "word": "女孩玩手机半年度数飙升至1700度",
+      "onboard_time": 1742266883,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -6017,6 +6145,14 @@
       "onboard_time": 1742123722,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103003,
+      "num": 103003,
+      "word": "老板为证清白直播吃自家黄焖鸡",
+      "onboard_time": 1742266883,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102946,
@@ -7307,6 +7443,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 31814,
+      "num": 308034,
+      "word": "素食主义背后的真相",
+      "onboard_time": 1742266162,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 30750,
       "num": 263567,
       "word": "张本智和说与王楚钦比赛处于劣势",
@@ -7379,6 +7523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28913,
+      "num": 139414,
+      "word": "F1中国大奖赛本周五开赛",
+      "onboard_time": 1742265623,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28787,
       "num": 28787,
       "word": "麦琳晒自己的十年之路",
@@ -7416,6 +7568,14 @@
       "word": "市场监管总局回应315晚会曝光",
       "onboard_time": 1742056823,
       "rank": 36,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 27268,
+      "num": 261796,
+      "word": "医院被举报代孕后又涉嫌重操旧业",
+      "onboard_time": 1742266702,
+      "rank": 22,
       "category": "舆论监督"
     },
     {
