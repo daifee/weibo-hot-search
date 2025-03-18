@@ -1,9 +1,9 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742269110585,
+  "endTime": 1742269694965,
   "band_list": [
     {
-      "raw_hot": 2341597,
+      "raw_hot": 2393654,
       "num": 458817,
       "word": "曝魏大勋深夜回秦岚家",
       "onboard_time": 1742267122,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1582137,
-      "num": 1582137,
+      "raw_hot": 1641295,
+      "num": 1641295,
       "word": "小米商标已含卫生护垫类",
       "onboard_time": 1742264240,
       "rank": 0,
@@ -59,8 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1119570,
-      "num": 1119570,
+      "raw_hot": 1214183,
+      "num": 1214183,
       "word": "金价",
       "onboard_time": 1742265982,
       "rank": 21,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1045463,
-      "num": 450244,
+      "num": 455645,
       "word": "李胜利现身杭州",
       "onboard_time": 1742263163,
       "rank": 17,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 563594,
+      "num": 563594,
+      "word": "在男友家发现很多公章吵架后报警",
+      "onboard_time": 1742267843,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531648,
       "num": 531648,
       "word": "恋与深空",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 464764,
-      "num": 343108,
+      "num": 394636,
       "word": "医生提醒每天睡眠少于6.5h需警惕",
       "onboard_time": 1742264122,
       "rank": 20,
@@ -211,11 +219,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 458885,
+      "num": 458885,
+      "word": "小米su吸",
+      "onboard_time": 1742268803,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 454911,
       "num": 67704,
       "word": "云南出租车司机遇害案嫌犯已身亡",
       "onboard_time": 1742221464,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416202,
+      "num": 416202,
+      "word": "老板为证清白直播吃自家黄焖鸡",
+      "onboard_time": 1742266883,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -235,6 +259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 395896,
+      "num": 395896,
+      "word": "鹅鸭杀官宣回归",
+      "onboard_time": 1742268084,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 375131,
       "num": 375131,
       "word": "1688全面取消仅退款",
@@ -251,28 +283,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 351036,
-      "num": 442217,
-      "word": "在男友家发现很多公章吵架后报警",
-      "onboard_time": 1742267843,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 343921,
       "num": 343921,
       "word": "亚洲前首富李兆基逝世",
       "onboard_time": 1742213064,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 338762,
-      "num": 338762,
-      "word": "老板为证清白直播吃自家黄焖鸡",
-      "onboard_time": 1742266883,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 334110,
@@ -297,6 +313,14 @@
       "onboard_time": 1742260343,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300360,
+      "num": 397722,
+      "word": "谢景行",
+      "onboard_time": 1742269223,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 297770,
@@ -331,12 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 273735,
-      "num": 273735,
-      "word": "鹅鸭杀官宣回归",
-      "onboard_time": 1742268084,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 274642,
+      "num": 359235,
+      "word": "享界S9的仪式感",
+      "onboard_time": 1742268143,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 271987,
@@ -377,14 +401,6 @@
       "onboard_time": 1742261841,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 243413,
-      "num": 310432,
-      "word": "享界S9的仪式感",
-      "onboard_time": 1742268143,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 242645,
@@ -451,6 +467,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 208979,
+      "num": 208979,
+      "word": "容止 跌下神坛",
+      "onboard_time": 1742269524,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206921,
+      "num": 206921,
+      "word": "鹅鸭杀称已敲定中国合作伙伴",
+      "onboard_time": 1742268624,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205223,
       "num": 205223,
       "word": "刘宇宁维护工作室",
@@ -491,6 +523,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195197,
+      "num": 464742,
+      "word": "华莱士过期食材换标签续命",
+      "onboard_time": 1742267301,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 193530,
+      "num": 318871,
+      "word": "白鹿奔跑吧18宫格",
+      "onboard_time": 1742268803,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190356,
       "num": 322581,
       "word": "李昀锐晒手绘画",
@@ -515,28 +563,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 185109,
-      "num": 464742,
-      "word": "华莱士过期食材换标签续命",
-      "onboard_time": 1742267301,
-      "rank": 28,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 183746,
       "num": 183746,
       "word": "每周减1至2斤是健康减肥速度",
       "onboard_time": 1742265682,
       "rank": 35,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 181398,
-      "num": 181398,
-      "word": "小米su吸",
-      "onboard_time": 1742268803,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 181081,
@@ -555,20 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177440,
-      "num": 318871,
-      "word": "白鹿奔跑吧18宫格",
-      "onboard_time": 1742268803,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 173631,
-      "num": 173631,
-      "word": "鹅鸭杀称已敲定中国合作伙伴",
-      "onboard_time": 1742268624,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 179246,
+      "num": 179246,
+      "word": "谁家女主批发处理小三啊",
+      "onboard_time": 1742269524,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 171993,
@@ -577,6 +601,22 @@
       "onboard_time": 1742220625,
       "rank": 26,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 171679,
+      "num": 171679,
+      "word": "让管栎演戏子的人是天才",
+      "onboard_time": 1742269285,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168069,
+      "num": 168069,
+      "word": "吃饭顿数越少胖得越狠",
+      "onboard_time": 1742266102,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 162381,
@@ -609,6 +649,22 @@
       "onboard_time": 1742254400,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156902,
+      "num": 156902,
+      "word": "掘金vs勇士",
+      "onboard_time": 1742269344,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155247,
+      "num": 197923,
+      "word": "保护传承民族传统文化",
+      "onboard_time": 1742269644,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155216,
@@ -673,14 +729,6 @@
       "onboard_time": 1742221104,
       "rank": 18,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 139158,
-      "num": 139158,
-      "word": "吃饭顿数越少胖得越狠",
-      "onboard_time": 1742266102,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 139011,
@@ -1051,6 +1099,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 75506,
+      "num": 195441,
+      "word": "顾客吃完华莱士连上6次厕所",
+      "onboard_time": 1742269405,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74926,
+      "num": 154454,
+      "word": "檀健次把夏日滤镜穿身上了",
+      "onboard_time": 1742269405,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73888,
       "num": 73888,
       "word": "花花花花春天花花花花",
@@ -1113,6 +1177,14 @@
       "onboard_time": 1742206342,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66654,
+      "num": 156415,
+      "word": "假出生证编号被上传卫健内部系统",
+      "onboard_time": 1742269583,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65501,
@@ -1187,6 +1259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 52554,
+      "num": 156297,
+      "word": "巴以冲突",
+      "onboard_time": 1742269103,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52247,
       "num": 52247,
       "word": "正告赖清德当局",
@@ -1235,12 +1315,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43388,
+      "num": 346166,
+      "word": "以军空袭加沙死亡升至200人",
+      "onboard_time": 1742269405,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43334,
       "num": 157803,
       "word": "郑钦文说迈阿密见",
       "onboard_time": 1742261722,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43093,
+      "num": 1206956,
+      "word": "政策给力消费加力持续向新向好",
+      "onboard_time": 1742268502,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 38762,
+      "num": 396806,
+      "word": "你愿意为AI医疗产品额外付费吗",
+      "onboard_time": 1742268685,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36340,
@@ -1275,14 +1379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 27902,
-      "num": 1145642,
-      "word": "政策给力消费加力持续向新向好",
-      "onboard_time": 1742268502,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 27091,
       "num": 27091,
       "word": "登陆少年200天特辑采访",
@@ -1297,14 +1393,6 @@
       "onboard_time": 1742232316,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25696,
-      "num": 343995,
-      "word": "你愿意为AI医疗产品额外付费吗",
-      "onboard_time": 1742268685,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25116,

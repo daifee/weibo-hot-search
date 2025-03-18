@@ -1,0 +1,410 @@
+{
+  "runTime": 1742269694965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1641295,
+        "num": 1641295,
+        "word": "小米商标已含卫生护垫类",
+        "onboard_time": 1742264240,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1214183,
+        "num": 1214183,
+        "word": "金价",
+        "onboard_time": 1742265982,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 43093,
+        "num": 1206956,
+        "word": "政策给力消费加力持续向新向好",
+        "onboard_time": 1742268502,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1205492,
+        "num": 1205492,
+        "word": "周处除三害演员权乐去世",
+        "onboard_time": 1742265503,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1031899,
+        "num": 1031899,
+        "word": "奔跑吧13官宣",
+        "onboard_time": 1742261001,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 735799,
+        "num": 735799,
+        "word": "医院被举报代孕后又涉嫌重操旧业",
+        "onboard_time": 1742266702,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 621983,
+        "num": 621983,
+        "word": "自驾阿姨苏敏离婚后的第1年",
+        "onboard_time": 1742263581,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563594,
+        "num": 563594,
+        "word": "在男友家发现很多公章吵架后报警",
+        "onboard_time": 1742267843,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550970,
+        "num": 550970,
+        "word": "平价不是蜜雪冰城的万能挡箭牌",
+        "onboard_time": 1742207064,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458885,
+        "num": 458885,
+        "word": "小米su吸",
+        "onboard_time": 1742268803,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2393654,
+        "num": 458014,
+        "word": "曝魏大勋深夜回秦岚家",
+        "onboard_time": 1742267122,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998572,
+        "num": 457069,
+        "word": "王晶爆刘嘉玲早年被绑架内幕",
+        "onboard_time": 1742261243,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 807292,
+        "num": 455645,
+        "word": "李胜利现身杭州",
+        "onboard_time": 1742263163,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454120,
+        "num": 454120,
+        "word": "恋与深空",
+        "onboard_time": 1742267603,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 645795,
+        "num": 449927,
+        "word": "金赛纶隐藏了金秀贤的一封信",
+        "onboard_time": 1742255841,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425029,
+        "num": 425029,
+        "word": "小米生态链总经理删除不做卫生巾微博",
+        "onboard_time": 1742259083,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 416202,
+        "num": 416202,
+        "word": "老板为证清白直播吃自家黄焖鸡",
+        "onboard_time": 1742266883,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410287,
+        "num": 410287,
+        "word": "孟子义李昀锐奔跑挚友",
+        "onboard_time": 1742261841,
+        "rank": 17,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 300360,
+        "num": 397722,
+        "word": "谢景行",
+        "onboard_time": 1742269223,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38762,
+        "num": 396806,
+        "word": "你愿意为AI医疗产品额外付费吗",
+        "onboard_time": 1742268685,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395896,
+        "num": 395896,
+        "word": "鹅鸭杀官宣回归",
+        "onboard_time": 1742268084,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 394636,
+        "num": 394636,
+        "word": "医生提醒每天睡眠少于6.5h需警惕",
+        "onboard_time": 1742264122,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 274642,
+        "num": 359235,
+        "word": "享界S9的仪式感",
+        "onboard_time": 1742268143,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 353985,
+        "num": 353985,
+        "word": "田曦薇 别让我在外面丢人",
+        "onboard_time": 1742257044,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43388,
+        "num": 346166,
+        "word": "以军空袭加沙死亡升至200人",
+        "onboard_time": 1742269405,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345837,
+        "num": 345837,
+        "word": "11岁男孩为救父母向骗子转账77次",
+        "onboard_time": 1742260284,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334477,
+        "num": 334477,
+        "word": "平价的蜜雪冰城拥有豁免权吗",
+        "onboard_time": 1742201121,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217514,
+        "num": 294526,
+        "word": "关晓彤王子奇新剧开机",
+        "onboard_time": 1742263042,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214163,
+        "num": 270338,
+        "word": "跑男 昀牵梦绕",
+        "onboard_time": 1742267001,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193530,
+        "num": 263276,
+        "word": "白鹿奔跑吧18宫格",
+        "onboard_time": 1742268803,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259695,
+        "num": 259695,
+        "word": "裴勇俊",
+        "onboard_time": 1742256382,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233617,
+        "num": 233617,
+        "word": "泸溪河以为23元一斤结账是23元半斤",
+        "onboard_time": 1742261361,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208979,
+        "num": 208979,
+        "word": "容止 跌下神坛",
+        "onboard_time": 1742269524,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187316,
+        "num": 207102,
+        "word": "李昀锐晒手绘画",
+        "onboard_time": 1742268443,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206921,
+        "num": 206921,
+        "word": "鹅鸭杀称已敲定中国合作伙伴",
+        "onboard_time": 1742268624,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155247,
+        "num": 197923,
+        "word": "保护传承民族传统文化",
+        "onboard_time": 1742269644,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75506,
+        "num": 195441,
+        "word": "顾客吃完华莱士连上6次厕所",
+        "onboard_time": 1742269405,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195197,
+        "num": 195197,
+        "word": "华莱士过期食材换标签续命",
+        "onboard_time": 1742267301,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 187411,
+        "num": 187411,
+        "word": "53岁女子因胃酸反流2年只能坐着睡",
+        "onboard_time": 1742263283,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179246,
+        "num": 179246,
+        "word": "谁家女主批发处理小三啊",
+        "onboard_time": 1742269524,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171679,
+        "num": 171679,
+        "word": "让管栎演戏子的人是天才",
+        "onboard_time": 1742269285,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168069,
+        "num": 168069,
+        "word": "吃饭顿数越少胖得越狠",
+        "onboard_time": 1742266102,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156902,
+        "num": 156902,
+        "word": "掘金vs勇士",
+        "onboard_time": 1742269344,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66654,
+        "num": 156415,
+        "word": "假出生证编号被上传卫健内部系统",
+        "onboard_time": 1742269583,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52554,
+        "num": 156297,
+        "word": "巴以冲突",
+        "onboard_time": 1742269103,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27085,
+        "num": 156234,
+        "word": "恋与制作人茶叶小白起",
+        "onboard_time": 1742268263,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156180,
+        "num": 156180,
+        "word": "每周减1至2斤是健康减肥速度",
+        "onboard_time": 1742265682,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 154756,
+        "num": 154756,
+        "word": "台民众大陆配偶遭人肉搜索",
+        "onboard_time": 1742267182,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153486,
+        "num": 154517,
+        "word": "张韶涵巡演官宣",
+        "onboard_time": 1742266522,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74926,
+        "num": 154454,
+        "word": "檀健次把夏日滤镜穿身上了",
+        "onboard_time": 1742269405,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在贵州考察调研#"
+    }
+  }
+}
