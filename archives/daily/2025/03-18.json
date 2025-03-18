@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742308953211,
+  "endTime": 1742311617125,
   "band_list": [
     {
       "raw_hot": 2493597,
@@ -9,6 +9,14 @@
       "onboard_time": 1742296104,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2422695,
+      "num": 287620,
+      "word": "高以翔生前女友官宣结婚",
+      "onboard_time": 1742309126,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2393654,
@@ -307,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 961029,
+      "num": 961029,
+      "word": "媒体评蜜雪冰城别把宽容变纵容",
+      "onboard_time": 1742307503,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 938749,
       "num": 642425,
       "word": "1999年出生 努努力可以活三个世纪",
@@ -393,6 +409,14 @@
       "onboard_time": 1742271444,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 833619,
+      "num": 833619,
+      "word": "男子请客获海底捞补偿朋友要求平分",
+      "onboard_time": 1742307804,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 815638,
@@ -668,10 +692,18 @@
     },
     {
       "raw_hot": 521845,
-      "num": 305190,
+      "num": 452118,
       "word": "景甜术后首次直播透露近况",
       "onboard_time": 1742307323,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 517810,
+      "num": 298553,
+      "word": "金秀贤方被曝在中国实名删帖",
+      "onboard_time": 1742305103,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -795,14 +827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 405056,
-      "num": 405056,
-      "word": "媒体评蜜雪冰城别把宽容变纵容",
-      "onboard_time": 1742307503,
-      "rank": 21,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 402815,
       "num": 691234,
       "word": "李家超回应李嘉诚拟出售巴拿马港口",
@@ -849,14 +873,6 @@
       "onboard_time": 1742279964,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 366766,
-      "num": 298553,
-      "word": "金秀贤方被曝在中国实名删帖",
-      "onboard_time": 1742305103,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 365220,
@@ -923,19 +939,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 328438,
-      "num": 328438,
-      "word": "男子请客获海底捞补偿朋友要求平分",
-      "onboard_time": 1742307804,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 312454,
       "num": 312454,
       "word": "辽阳多名出租车司机围堵网约车司机",
       "onboard_time": 1742260343,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312037,
+      "num": 312037,
+      "word": "男子变现339万后金价又涨了",
+      "onboard_time": 1742310025,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -1083,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264413,
+      "num": 264413,
+      "word": "秀贤联播",
+      "onboard_time": 1742307264,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259604,
       "num": 259604,
       "word": "光遇复刻",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1742303544,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 257596,
-      "num": 257596,
-      "word": "秀贤联播",
-      "onboard_time": 1742307264,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 257431,
@@ -1195,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244947,
+      "num": 288181,
+      "word": "护短蜜雪冰城是比烂的无奈",
+      "onboard_time": 1742310503,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 244692,
       "num": 244692,
       "word": "稚楚发声",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1742227582,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 240984,
+      "num": 281329,
+      "word": "陈都灵贵女口碑",
+      "onboard_time": 1742310204,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 240918,
@@ -1273,6 +1305,14 @@
       "onboard_time": 1742293462,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 224607,
+      "num": 224607,
+      "word": "流浪猫8天抓咬3名路人投喂者被诉",
+      "onboard_time": 1742308883,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224292,
@@ -1787,6 +1827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 168188,
+      "num": 272228,
+      "word": "贵女热度",
+      "onboard_time": 1742310204,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168104,
       "num": 197382,
       "word": "上海黄浦区对8岁以下禁售二次元",
@@ -1809,6 +1857,14 @@
       "onboard_time": 1742305644,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 164807,
+      "num": 270907,
+      "word": "送给高考生的超燃歌词",
+      "onboard_time": 1742311103,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162381,
@@ -2107,6 +2163,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 140799,
+      "num": 140799,
+      "word": "徐艺洋说自己的恋爱技能不稳定",
+      "onboard_time": 1742309906,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140788,
       "num": 140788,
       "word": "重庆地震",
@@ -2129,6 +2193,14 @@
       "onboard_time": 1742294003,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139519,
+      "num": 139519,
+      "word": "有点子义思",
+      "onboard_time": 1742310802,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 139011,
@@ -2161,6 +2233,14 @@
       "onboard_time": 1742287345,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136387,
+      "num": 136387,
+      "word": "刻在梁田骨子里的主持人DNA",
+      "onboard_time": 1742311043,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 135353,
@@ -2297,6 +2377,14 @@
       "onboard_time": 1742307684,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 125201,
+      "num": 125201,
+      "word": "肝胆外科医生教的5步疏肝操",
+      "onboard_time": 1742310444,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 125038,
@@ -2787,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83265,
+      "num": 278578,
+      "word": "王楚钦出发宁波了",
+      "onboard_time": 1742310564,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81098,
       "num": 538409,
       "word": "顾客吃完华莱士连上6次厕所",
@@ -2884,7 +2980,7 @@
     },
     {
       "raw_hot": 68931,
-      "num": 467715,
+      "num": 883912,
       "word": "9图了解提振消费专项行动方案",
       "onboard_time": 1742302823,
       "rank": 2,
@@ -3059,6 +3155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49030,
+      "num": 265036,
+      "word": "中考分流的他们真被淘汰了吗",
+      "onboard_time": 1742311223,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 49001,
       "num": 273291,
       "word": "加沙死亡人数100人100人地增加",
@@ -3203,6 +3307,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 37585,
+      "num": 283045,
+      "word": "网友称武汉街头破损井盖疑塑料材质",
+      "onboard_time": 1742311043,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36719,
       "num": 389210,
       "word": "南京图书馆回应数字资源遭盗版贩卖",
@@ -3299,6 +3411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29407,
+      "num": 245537,
+      "word": "吴映洁女儿小名叫妹子",
+      "onboard_time": 1742311344,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29385,
       "num": 251528,
       "word": "鸡娃失败后我们会对精英教育祛魅吗",
@@ -3345,14 +3465,6 @@
       "onboard_time": 1742232316,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25664,
-      "num": 182081,
-      "word": "流浪猫8天抓咬3名路人投喂者被诉",
-      "onboard_time": 1742308883,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25116,
