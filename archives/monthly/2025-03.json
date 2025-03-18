@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742318509264,
+  "endTime": 1742319582285,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -50723,6 +50723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 54922,
+      "num": 54922,
+      "word": "懒vs抑郁",
+      "onboard_time": 1742318776,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 54904,
       "num": 206375,
       "word": "人大代表谈为什么是杭州出圈",
@@ -55961,6 +55969,14 @@
       "onboard_time": 1741629255,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 24674,
+      "num": 30874,
+      "word": "白玉兰奖预热VCR里的杨紫",
+      "onboard_time": 1742319316,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 24659,

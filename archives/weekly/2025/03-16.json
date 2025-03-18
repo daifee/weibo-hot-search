@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742318509264,
+  "endTime": 1742319582285,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -9083,6 +9083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54922,
+      "num": 54922,
+      "word": "懒vs抑郁",
+      "onboard_time": 1742318776,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 54334,
       "num": 284179,
       "word": "起底翻新卫生巾涉事企业老板",
@@ -10065,6 +10073,14 @@
       "onboard_time": 1742070854,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 24674,
+      "num": 30874,
+      "word": "白玉兰奖预热VCR里的杨紫",
+      "onboard_time": 1742319316,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 24639,
