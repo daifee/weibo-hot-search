@@ -1,0 +1,410 @@
+{
+  "runTime": 1742361805488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1260718,
+        "num": 1260718,
+        "word": "成都辟谣艾滋病17万人",
+        "onboard_time": 1742355922,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 780580,
+        "num": 780580,
+        "word": "她从澹州来的惹她干嘛",
+        "onboard_time": 1742360484,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60477,
+        "num": 739047,
+        "word": "30秒打卡大美贵州",
+        "onboard_time": 1742358324,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 701013,
+        "num": 701013,
+        "word": "韩星李准基涉嫌逃税",
+        "onboard_time": 1742349921,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550047,
+        "num": 550047,
+        "word": "男子出卖大量国家秘密被判死刑",
+        "onboard_time": 1742342420,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 530290,
+        "num": 530290,
+        "word": "boss直聘崩了",
+        "onboard_time": 1742354241,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 641939,
+        "num": 475765,
+        "word": "乘风2025全阵容官宣",
+        "onboard_time": 1742359105,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407089,
+        "num": 407089,
+        "word": "106岁老人劝年轻人要爱工作",
+        "onboard_time": 1742353582,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580179,
+        "num": 407071,
+        "word": "乘风2025定档",
+        "onboard_time": 1742357664,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390507,
+        "num": 390507,
+        "word": "中国总有飞船待命的原因泪目了",
+        "onboard_time": 1742354781,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1534164,
+        "num": 385269,
+        "word": "胡杏儿老公回应搂抱美女",
+        "onboard_time": 1742360423,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1445904,
+        "num": 384762,
+        "word": "韩网友说金秀贤太温柔了",
+        "onboard_time": 1742360784,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557787,
+        "num": 378432,
+        "word": "周六野怀孕",
+        "onboard_time": 1742350222,
+        "rank": 12,
+        "category": "网红,运动健身"
+      },
+      {
+        "raw_hot": 554385,
+        "num": 368512,
+        "word": "于正看了二集贵女",
+        "onboard_time": 1742358324,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33220,
+        "num": 362545,
+        "word": "私家车当网约车出事故保险拒理赔",
+        "onboard_time": 1742361382,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477921,
+        "num": 360281,
+        "word": "赵露思 时尚先生",
+        "onboard_time": 1742358984,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 452680,
+        "num": 354433,
+        "word": "媒体评蜜雪冰城别把宽容变纵容",
+        "onboard_time": 1742307503,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 428335,
+        "num": 347986,
+        "word": "女性太强男性真的会不敢追吗",
+        "onboard_time": 1742355561,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345163,
+        "num": 345163,
+        "word": "李艾结婚10年和老公复刻结婚照",
+        "onboard_time": 1742360904,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40182,
+        "num": 338657,
+        "word": "梅德韦杰夫说乌克兰是主菜",
+        "onboard_time": 1742360723,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345611,
+        "num": 335952,
+        "word": "潘玮柏1个月减14斤成潘玮薄",
+        "onboard_time": 1742357122,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332554,
+        "num": 332554,
+        "word": "林依晨二胎",
+        "onboard_time": 1742346441,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315332,
+        "num": 315332,
+        "word": "女子腰疼3拒宝妈换铺后遭言语攻击",
+        "onboard_time": 1742358683,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294721,
+        "num": 294721,
+        "word": "李现樊振东日本逛街",
+        "onboard_time": 1742345183,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 275682,
+        "num": 275682,
+        "word": "何泓姗回复陈都灵",
+        "onboard_time": 1742351962,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265079,
+        "num": 265079,
+        "word": "韩安冉因抽脂身上到处是疤",
+        "onboard_time": 1742344704,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184075,
+        "num": 263851,
+        "word": "美宇航员滞留太空7个月后健康出问题",
+        "onboard_time": 1742355504,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222025,
+        "num": 263422,
+        "word": "迪丽热巴抹胸黑纱长裙",
+        "onboard_time": 1742357183,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 263394,
+        "num": 263394,
+        "word": "胡杏儿李乘德交往3个月闪婚",
+        "onboard_time": 1742361023,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77367,
+        "num": 239720,
+        "word": "李嘉诚卖港口美财团为何接盘",
+        "onboard_time": 1742360904,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18179,
+        "num": 229824,
+        "word": "投诉啄木鸟维修问题3天没回应",
+        "onboard_time": 1742361682,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 228542,
+        "num": 228542,
+        "word": "为什么中国航天员能按时回地球",
+        "onboard_time": 1742350400,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 261507,
+        "num": 225656,
+        "word": "爱犬被毒死主人追凶900天",
+        "onboard_time": 1742354061,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180156,
+        "num": 213376,
+        "word": "肖战我们全球发行成绩",
+        "onboard_time": 1742360423,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212932,
+        "num": 212932,
+        "word": "还是金秀贤自己拍的",
+        "onboard_time": 1742347882,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207975,
+        "num": 207975,
+        "word": "美2名流浪宇航员被转移至救援船",
+        "onboard_time": 1742342420,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49816,
+        "num": 207937,
+        "word": "中方敦促以色列放弃使用武力的执念",
+        "onboard_time": 1742352322,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187084,
+        "num": 207933,
+        "word": "恋爱兄妹综艺",
+        "onboard_time": 1742361502,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207933,
+        "num": 207932,
+        "word": "高以翔生前女友官宣结婚",
+        "onboard_time": 1742309126,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207474,
+        "num": 207474,
+        "word": "美国公布肯尼迪遇刺事件记录",
+        "onboard_time": 1742341100,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200460,
+        "num": 200460,
+        "word": "狸花猫和无毛猫的小孩",
+        "onboard_time": 1742360124,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192938,
+        "num": 192938,
+        "word": "意大利大批房屋1欧元甩卖",
+        "onboard_time": 1742353582,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191226,
+        "num": 191226,
+        "word": "网店因鞋子涨价坚持不发货只能退",
+        "onboard_time": 1742346441,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181905,
+        "num": 181905,
+        "word": "王一博陈烁清明档见",
+        "onboard_time": 1742361203,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164524,
+        "num": 164524,
+        "word": "东北人写产品说明就是实在啊",
+        "onboard_time": 1742358683,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56134,
+        "num": 162510,
+        "word": "身体很喜欢的10个动作",
+        "onboard_time": 1742360544,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 161990,
+        "num": 161990,
+        "word": "宁艺卓国内国外双开花",
+        "onboard_time": 1742357724,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140973,
+        "num": 160682,
+        "word": "王楚钦3天飞3地",
+        "onboard_time": 1742360664,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119719,
+        "num": 159945,
+        "word": "孙杨小组第二晋级决赛",
+        "onboard_time": 1742356164,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159730,
+        "num": 159730,
+        "word": "夫妇被造谣患艾滋病悬赏5万元找线索",
+        "onboard_time": 1742357303,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#春到黔东南#"
+    }
+  }
+}
