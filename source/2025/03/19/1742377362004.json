@@ -1,0 +1,410 @@
+{
+  "runTime": 1742377362004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3159189,
+        "num": 3159189,
+        "word": "女子疑因被拔错牙后坠楼身亡",
+        "onboard_time": 1742374762,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1340390,
+        "num": 1340390,
+        "word": "董宇辉称离职与俞敏洪心照不宣",
+        "onboard_time": 1742376024,
+        "rank": 1,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 12977,
+        "num": 1280518,
+        "word": "文化中国行走进侗乡第一寨",
+        "onboard_time": 1742377103,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1234110,
+        "num": 1234110,
+        "word": "还得是刘亦菲",
+        "onboard_time": 1742376203,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 985366,
+        "num": 985366,
+        "word": "番茄夹乌梅",
+        "onboard_time": 1742372423,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 739392,
+        "num": 739392,
+        "word": "文韬 申公豹",
+        "onboard_time": 1742373985,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684781,
+        "num": 684781,
+        "word": "大锅卤菜",
+        "onboard_time": 1742370683,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 504120,
+        "num": 504120,
+        "word": "女子被拔错牙后坠楼身亡家属发声",
+        "onboard_time": 1742375062,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485893,
+        "num": 485893,
+        "word": "卡琳娜 浪姐",
+        "onboard_time": 1742371401,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35209,
+        "num": 485004,
+        "word": "食品安全何时能经得起卧底考验",
+        "onboard_time": 1742376562,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 908929,
+        "num": 484844,
+        "word": "昀牵孟绕",
+        "onboard_time": 1742376024,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 596578,
+        "num": 484773,
+        "word": "金秀贤回到家人身边静养",
+        "onboard_time": 1742371943,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484671,
+        "num": 484671,
+        "word": "卫健委回应女子被拔错牙后坠楼身亡",
+        "onboard_time": 1742374762,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465333,
+        "num": 465333,
+        "word": "毒尿裤厂商自曝专坑失能老人",
+        "onboard_time": 1742371102,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349335,
+        "num": 349335,
+        "word": "胡杏儿老公回应搂抱美女",
+        "onboard_time": 1742360423,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330564,
+        "num": 330564,
+        "word": "aespa黑裙红毯",
+        "onboard_time": 1742372423,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317101,
+        "num": 317101,
+        "word": "龚俊cos敖丙",
+        "onboard_time": 1742364682,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312978,
+        "num": 312978,
+        "word": "花香蓝莓会成为下一个阳光玫瑰吗",
+        "onboard_time": 1742376443,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36566,
+        "num": 308341,
+        "word": "30年老小区墙体倒塌钢筋裸露锈蚀",
+        "onboard_time": 1742376562,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42406,
+        "num": 308298,
+        "word": "土耳其遭股债汇三杀",
+        "onboard_time": 1742376024,
+        "rank": 19,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 346244,
+        "num": 308296,
+        "word": "34岁孙杨被小16岁对手反超",
+        "onboard_time": 1742370982,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308283,
+        "num": 308283,
+        "word": "普京做手势嘲讽G7",
+        "onboard_time": 1742364442,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 300321,
+        "num": 300321,
+        "word": "张云龙薄肌",
+        "onboard_time": 1742375543,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265828,
+        "num": 265828,
+        "word": "浪姐6通话真人脉",
+        "onboard_time": 1742368221,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66421,
+        "num": 254610,
+        "word": "亚锦赛国羽最终名单",
+        "onboard_time": 1742376383,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249004,
+        "num": 249004,
+        "word": "14部影片定档清明档",
+        "onboard_time": 1742374883,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224815,
+        "num": 224815,
+        "word": "李嘉琦的官宣方式过于抽象了",
+        "onboard_time": 1742366962,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215880,
+        "num": 215880,
+        "word": "李晟担心上浪姐和海陆同款崩塌",
+        "onboard_time": 1742365944,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31652,
+        "num": 215827,
+        "word": "30秒打卡大美贵州",
+        "onboard_time": 1742358324,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20766,
+        "num": 215539,
+        "word": "学者建言生育成本共担",
+        "onboard_time": 1742376685,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292237,
+        "num": 215368,
+        "word": "女子洗澡时玻璃门自爆手筋被炸断",
+        "onboard_time": 1742370562,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44908,
+        "num": 215272,
+        "word": "普京就美方30天停火提议提出要求",
+        "onboard_time": 1742377223,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72943,
+        "num": 215134,
+        "word": "阿里AI新布局为何选中夸克",
+        "onboard_time": 1742372903,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142090,
+        "num": 214960,
+        "word": "民警上演现实版还吃收你们来了",
+        "onboard_time": 1742371523,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21431,
+        "num": 214808,
+        "word": "兰州一学校食堂被指使用预制菜",
+        "onboard_time": 1742377223,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252432,
+        "num": 214570,
+        "word": "安庆市立医院",
+        "onboard_time": 1742376262,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225673,
+        "num": 214388,
+        "word": "董宇辉不后悔拒绝2亿年薪",
+        "onboard_time": 1742376024,
+        "rank": 36,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 214345,
+        "num": 214345,
+        "word": "章若楠2025春夏高定",
+        "onboard_time": 1742375182,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211346,
+        "num": 211346,
+        "word": "成都辟谣艾滋病17万人",
+        "onboard_time": 1742355922,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 207711,
+        "num": 207711,
+        "word": "魏大勋 新郎级别",
+        "onboard_time": 1742376983,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206247,
+        "num": 206247,
+        "word": "王源说吴宣仪是老江湖了",
+        "onboard_time": 1742369062,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203993,
+        "num": 203993,
+        "word": "140万买的保时捷才开1个月频出故障",
+        "onboard_time": 1742375062,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202746,
+        "num": 202746,
+        "word": "网传2025歌手阵容",
+        "onboard_time": 1742376744,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198937,
+        "num": 198937,
+        "word": "文旅局称若是李胜利个人行为无管辖权",
+        "onboard_time": 1742375360,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196930,
+        "num": 196930,
+        "word": "女子诈骗2400万掷1500万打赏男主播",
+        "onboard_time": 1742367262,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186303,
+        "num": 186303,
+        "word": "日常见肖战",
+        "onboard_time": 1742376203,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184898,
+        "num": 184898,
+        "word": "虞书欣林一分手戏演技",
+        "onboard_time": 1742373203,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181227,
+        "num": 181227,
+        "word": "气血足的人大多有5个习惯",
+        "onboard_time": 1742364502,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165652,
+        "num": 165652,
+        "word": "腾讯2024年净利润2227亿",
+        "onboard_time": 1742376502,
+        "rank": 48,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 158655,
+        "num": 158655,
+        "word": "腾讯2024年财报",
+        "onboard_time": 1742374883,
+        "rank": 49,
+        "category": "财经,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈文旅融合#"
+    }
+  }
+}
