@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742388377469,
+  "endTime": 1742389319161,
   "band_list": [
     {
       "raw_hot": 3321685,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1613972,
+      "num": 1613972,
+      "word": "韵达",
+      "onboard_time": 1742381362,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1466529,
       "num": 1466529,
       "word": "成都辟谣艾滋病17万人",
@@ -89,14 +97,6 @@
       "onboard_time": 1742360784,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1420409,
-      "num": 1420409,
-      "word": "韵达",
-      "onboard_time": 1742381362,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1361686,
@@ -121,6 +121,14 @@
       "onboard_time": 1742353582,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1230266,
+      "num": 1230266,
+      "word": "孙杨400自银牌",
+      "onboard_time": 1742387844,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1223096,
@@ -232,6 +240,14 @@
       "word": "杨天真瘦到了124斤",
       "onboard_time": 1742384723,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1033888,
+      "num": 239806,
+      "word": "金赛纶遗属隐藏的真相",
+      "onboard_time": 1742388924,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -371,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 720884,
+      "num": 351529,
+      "word": "北京环球影城",
+      "onboard_time": 1742387122,
+      "rank": 16,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 716738,
       "num": 589639,
       "word": "还是金秀贤自己拍的",
@@ -417,14 +441,6 @@
       "onboard_time": 1742354781,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 648178,
-      "num": 648178,
-      "word": "孙杨400自银牌",
-      "onboard_time": 1742387844,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 646322,
@@ -787,6 +803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 387449,
+      "num": 387449,
+      "word": "辞职看世界当事人看完世界回来了",
+      "onboard_time": 1742384843,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 382401,
       "num": 382401,
       "word": "犹豫几分钟酒店价格涨了100块",
@@ -827,28 +851,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371580,
-      "num": 351529,
-      "word": "北京环球影城",
-      "onboard_time": 1742387122,
-      "rank": 16,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 370329,
       "num": 454006,
       "word": "赵丽颖换了沈璃背景图",
       "onboard_time": 1742343683,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 369777,
-      "num": 369777,
-      "word": "辞职看世界当事人看完世界回来了",
-      "onboard_time": 1742384843,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 364483,
@@ -985,6 +993,14 @@
       "onboard_time": 1742317696,
       "rank": 21,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 289915,
+      "num": 238792,
+      "word": "碧梨 歌手2025",
+      "onboard_time": 1742388146,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 289901,
@@ -1187,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249570,
+      "num": 238396,
+      "word": "赵露思ins晒和马伯骞合照",
+      "onboard_time": 1742386884,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246856,
       "num": 246856,
       "word": "宋佳说我是我了",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1742360904,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 239927,
+      "num": 239927,
+      "word": "拔牙坠楼女子说要以死证清白",
+      "onboard_time": 1742388444,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235558,
@@ -1417,6 +1449,14 @@
       "onboard_time": 1742374883,
       "rank": 31,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 205354,
+      "num": 205354,
+      "word": "白鹿今天有两个人追星成功",
+      "onboard_time": 1742388503,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 203993,
@@ -1675,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182945,
+      "num": 182945,
+      "word": "金智媛露腰礼服",
+      "onboard_time": 1742388146,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 182304,
       "num": 250800,
       "word": "王皓谈樊振东缺席澳门世界杯原因",
@@ -1745,6 +1793,14 @@
       "onboard_time": 1742383224,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171509,
+      "num": 171509,
+      "word": "永夜星河登上腾讯年度财报",
+      "onboard_time": 1742388804,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 170138,
@@ -1963,12 +2019,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 147047,
+      "num": 147047,
+      "word": "家属称坠亡女子好牙被拔时没打麻药",
+      "onboard_time": 1742389043,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146464,
       "num": 190554,
       "word": "91岁老兵与儿子阔别61年团聚",
       "onboard_time": 1742364502,
       "rank": 32,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 145895,
+      "num": 367928,
+      "word": "中国已向乌克兰提供4批人道主义援助",
+      "onboard_time": 1742384184,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145803,
@@ -1993,14 +2065,6 @@
       "onboard_time": 1742383403,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144707,
-      "num": 144707,
-      "word": "碧梨 歌手2025",
-      "onboard_time": 1742388146,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 143127,
@@ -2059,28 +2123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140202,
-      "num": 140202,
-      "word": "金智媛露腰礼服",
-      "onboard_time": 1742388146,
-      "rank": 43,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 138546,
       "num": 138546,
       "word": "雁回时 嗲女文学",
       "onboard_time": 1742385443,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138217,
-      "num": 138217,
-      "word": "赵露思ins晒和马伯骞合照",
-      "onboard_time": 1742386884,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 137409,
@@ -2145,6 +2193,14 @@
       "onboard_time": 1742368762,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129162,
+      "num": 129162,
+      "word": "贵女 听劝",
+      "onboard_time": 1742389223,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 128360,
@@ -2243,14 +2299,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114227,
-      "num": 367928,
-      "word": "中国已向乌克兰提供4批人道主义援助",
-      "onboard_time": 1742384184,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 111304,
       "num": 214792,
       "word": "林诗栋为林高远庆生",
@@ -2312,6 +2360,14 @@
       "word": "家业",
       "onboard_time": 1742348661,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108922,
+      "num": 108922,
+      "word": "北上今晚有人热恋有人失恋",
+      "onboard_time": 1742389283,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -2420,7 +2476,7 @@
     },
     {
       "raw_hot": 88455,
-      "num": 153030,
+      "num": 239552,
       "word": "BOSS上海时尚新地标",
       "onboard_time": 1742388024,
       "rank": 37,
@@ -2457,6 +2513,14 @@
       "onboard_time": 1742361382,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83335,
+      "num": 225448,
+      "word": "周杰伦拟在济南连唱3天",
+      "onboard_time": 1742386465,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 82201,
@@ -2723,6 +2787,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 53677,
+      "num": 197405,
+      "word": "京剧艺术大师赵燕侠逝世",
+      "onboard_time": 1742389163,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53445,
       "num": 156940,
       "word": "乘风主题曲MV",
@@ -2827,6 +2899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43711,
+      "num": 239343,
+      "word": "男子分手3年后起诉前女友索还40万",
+      "onboard_time": 1742388683,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43262,
       "num": 220522,
       "word": "AI应用套壳是创新还是伪命题",
@@ -2849,6 +2929,14 @@
       "onboard_time": 1742355023,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 40489,
+      "num": 153013,
+      "word": "夜神小米15Ultra拍到的璀璨星河",
+      "onboard_time": 1742388082,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 40309,
@@ -3019,14 +3107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23960,
-      "num": 153013,
-      "word": "夜神小米15Ultra拍到的璀璨星河",
-      "onboard_time": 1742388082,
-      "rank": 38,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 23298,
       "num": 226286,
       "word": "普京支持俄乌放弃袭击能源设施提议",
@@ -3099,6 +3179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16853,
+      "num": 1280518,
+      "word": "文化中国行走进侗乡第一寨",
+      "onboard_time": 1742377103,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16626,
       "num": 57478,
       "word": "以军大规模空袭加沙致上百人死亡",
@@ -3153,14 +3241,6 @@
       "onboard_time": 1742324294,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 12977,
-      "num": 1280518,
-      "word": "文化中国行走进侗乡第一寨",
-      "onboard_time": 1742377103,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11669,
