@@ -1,0 +1,410 @@
+{
+  "runTime": 1742373105272,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 843058,
+        "num": 1134889,
+        "word": "女子诈骗2400万掷1500万打赏男主播",
+        "onboard_time": 1742367262,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 681936,
+        "num": 681936,
+        "word": "卡琳娜 浪姐",
+        "onboard_time": 1742371401,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34662,
+        "num": 679807,
+        "word": "30秒打卡大美贵州",
+        "onboard_time": 1742358324,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 679613,
+        "num": 679613,
+        "word": "浪姐6通话真人脉",
+        "onboard_time": 1742368221,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431771,
+        "num": 431771,
+        "word": "普京做手势嘲讽G7",
+        "onboard_time": 1742364442,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 418316,
+        "num": 418316,
+        "word": "特朗普称是拜登抛弃了两名宇航员",
+        "onboard_time": 1742369062,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 604051,
+        "num": 415417,
+        "word": "龚俊cos敖丙",
+        "onboard_time": 1742364682,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495282,
+        "num": 369979,
+        "word": "李晟担心上浪姐和海陆同款崩塌",
+        "onboard_time": 1742365944,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313118,
+        "num": 313118,
+        "word": "大锅卤菜",
+        "onboard_time": 1742370683,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194744,
+        "num": 310018,
+        "word": "民警上演现实版还吃收你们来了",
+        "onboard_time": 1742371523,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1192513,
+        "num": 307502,
+        "word": "女子洗澡时玻璃门自爆手筋被炸断",
+        "onboard_time": 1742370562,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690597,
+        "num": 303715,
+        "word": "金秀贤回到家人身边静养",
+        "onboard_time": 1742371943,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505858,
+        "num": 300891,
+        "word": "胡杏儿老公回应搂抱美女",
+        "onboard_time": 1742360423,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475925,
+        "num": 296987,
+        "word": "祝绪丹演员的脸女团的身材",
+        "onboard_time": 1742367143,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43575,
+        "num": 296197,
+        "word": "因挪车纠纷男子称反杀系正当防卫",
+        "onboard_time": 1742372482,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40948,
+        "num": 293215,
+        "word": "美宇航员出差8天变9个月营救",
+        "onboard_time": 1742372722,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 454286,
+        "num": 288793,
+        "word": "成都辟谣艾滋病17万人",
+        "onboard_time": 1742355922,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 408129,
+        "num": 285302,
+        "word": "保洁阿姨有自己的工位了",
+        "onboard_time": 1742369542,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 364857,
+        "num": 282776,
+        "word": "李嘉琦的官宣方式过于抽象了",
+        "onboard_time": 1742366962,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205719,
+        "num": 279210,
+        "word": "女子用餐厅餐具喂宠物",
+        "onboard_time": 1742369243,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 466719,
+        "num": 274408,
+        "word": "34岁孙杨被小16岁对手反超",
+        "onboard_time": 1742370982,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348484,
+        "num": 272106,
+        "word": "杨紫让管乐上台催播芒果国色芳华2",
+        "onboard_time": 1742367323,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317259,
+        "num": 269429,
+        "word": "女子取170万装修房子银行立马报警",
+        "onboard_time": 1742365882,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267405,
+        "num": 267405,
+        "word": "王者S39新赛季即将开启",
+        "onboard_time": 1742372181,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259461,
+        "num": 259461,
+        "word": "气血足的人大多有5个习惯",
+        "onboard_time": 1742364502,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256732,
+        "num": 256732,
+        "word": "赵露思马伯骞雪景合照",
+        "onboard_time": 1742367923,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223927,
+        "num": 223927,
+        "word": "潘玮柏1个月减14斤成潘玮薄",
+        "onboard_time": 1742357122,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210961,
+        "num": 210961,
+        "word": "电视剧品质盛典红毯",
+        "onboard_time": 1742370742,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197274,
+        "num": 197274,
+        "word": "aespa黑裙红毯",
+        "onboard_time": 1742372423,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48136,
+        "num": 197022,
+        "word": "俄美元首通话后欧洲和乌克兰更焦虑了",
+        "onboard_time": 1742371641,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196927,
+        "num": 196927,
+        "word": "犹豫几分钟酒店价格涨了100块",
+        "onboard_time": 1742366181,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 182726,
+        "num": 182726,
+        "word": "乘风2025全阵容官宣",
+        "onboard_time": 1742359105,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181805,
+        "num": 181805,
+        "word": "13岁孙子花光奶奶4.3万元存款",
+        "onboard_time": 1742362402,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176899,
+        "num": 176899,
+        "word": "番茄夹乌梅",
+        "onboard_time": 1742372423,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161565,
+        "num": 161565,
+        "word": "她从澹州来的惹她干嘛",
+        "onboard_time": 1742360484,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158611,
+        "num": 158611,
+        "word": "乘风 婚纱照",
+        "onboard_time": 1742362762,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145486,
+        "num": 153900,
+        "word": "阿里AI新布局为何选中夸克",
+        "onboard_time": 1742372903,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152837,
+        "num": 152837,
+        "word": "男子出卖大量国家秘密被判死刑",
+        "onboard_time": 1742342420,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149802,
+        "num": 149802,
+        "word": "中国总有飞船待命的原因泪目了",
+        "onboard_time": 1742354781,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141301,
+        "num": 141301,
+        "word": "李宇春正式加入演唱会爱情保安",
+        "onboard_time": 1742370562,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136500,
+        "num": 136500,
+        "word": "宇树科技机器人首次完成侧空翻动作",
+        "onboard_time": 1742366663,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134551,
+        "num": 134551,
+        "word": "毒尿裤厂商自曝专坑失能老人",
+        "onboard_time": 1742371102,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130080,
+        "num": 130080,
+        "word": "父母离异带来的催化式成长",
+        "onboard_time": 1742372423,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129448,
+        "num": 129448,
+        "word": "朱丹真把王珞丹整来浪姐了",
+        "onboard_time": 1742366483,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127490,
+        "num": 127490,
+        "word": "王源说吴宣仪是老江湖了",
+        "onboard_time": 1742369062,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127003,
+        "num": 127003,
+        "word": "孟子义不想去浪姐出洋相",
+        "onboard_time": 1742367683,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117382,
+        "num": 117382,
+        "word": "桃黑黑第63次减肥",
+        "onboard_time": 1742373081,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115787,
+        "num": 115787,
+        "word": "林一突发肠胃炎",
+        "onboard_time": 1742369662,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115016,
+        "num": 115016,
+        "word": "维斯塔潘的私人飞机太酷了",
+        "onboard_time": 1742367744,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114690,
+        "num": 114690,
+        "word": "赵丽颖说高月香有血性",
+        "onboard_time": 1742372423,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#春到黔东南#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742369868094,
+  "endTime": 1742373105272,
   "band_list": [
     {
       "raw_hot": 2160575,
@@ -88,6 +88,14 @@
       "word": "网店因鞋子涨价坚持不发货只能退",
       "onboard_time": 1742346441,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1192513,
+      "num": 307502,
+      "word": "女子洗澡时玻璃门自爆手筋被炸断",
+      "onboard_time": 1742370562,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -195,6 +203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 843058,
+      "num": 1134889,
+      "word": "女子诈骗2400万掷1500万打赏男主播",
+      "onboard_time": 1742367262,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 838290,
       "num": 838290,
       "word": "女子取170万装修房子银行立马报警",
@@ -227,20 +243,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 690597,
+      "num": 303715,
+      "word": "金秀贤回到家人身边静养",
+      "onboard_time": 1742371943,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 681936,
+      "num": 681936,
+      "word": "卡琳娜 浪姐",
+      "onboard_time": 1742371401,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 679613,
+      "num": 679613,
+      "word": "浪姐6通话真人脉",
+      "onboard_time": 1742368221,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 665137,
       "num": 238749,
       "word": "贵女这已经不是空降了 这是空袭",
       "onboard_time": 1742304203,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 663630,
-      "num": 584042,
-      "word": "浪姐6通话真人脉",
-      "onboard_time": 1742368221,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 660805,
@@ -323,14 +355,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 549863,
-      "num": 549863,
-      "word": "女子诈骗2400万掷1500万打赏男主播",
-      "onboard_time": 1742367262,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 547203,
       "num": 376654,
       "word": "金秀贤方被曝在中国实名删帖",
@@ -395,6 +419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 475925,
+      "num": 464986,
+      "word": "祝绪丹演员的脸女团的身材",
+      "onboard_time": 1742367143,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475221,
       "num": 358126,
       "word": "李艾结婚10年和老公复刻结婚照",
@@ -403,12 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 464986,
-      "num": 464986,
-      "word": "祝绪丹演员的脸女团的身材",
-      "onboard_time": 1742367143,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 466719,
+      "num": 274408,
+      "word": "34岁孙杨被小16岁对手反超",
+      "onboard_time": 1742370982,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 456427,
@@ -443,12 +475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418316,
+      "num": 418316,
+      "word": "特朗普称是拜登抛弃了两名宇航员",
+      "onboard_time": 1742369062,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 418220,
       "num": 418220,
       "word": "李嘉琦的官宣方式过于抽象了",
       "onboard_time": 1742366962,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 408129,
+      "num": 285302,
+      "word": "保洁阿姨有自己的工位了",
+      "onboard_time": 1742369542,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 397483,
@@ -539,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348484,
+      "num": 272106,
+      "word": "杨紫让管乐上台催播芒果国色芳华2",
+      "onboard_time": 1742367323,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347679,
       "num": 347679,
       "word": "听泉鉴宝回应辛云来像他",
@@ -587,6 +643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 313118,
+      "num": 313118,
+      "word": "大锅卤菜",
+      "onboard_time": 1742370683,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 312333,
       "num": 223335,
       "word": "虞书欣方发声明维权",
@@ -627,14 +691,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 280892,
-      "num": 247499,
-      "word": "杨紫让管乐上台催播芒果国色芳华2",
-      "onboard_time": 1742367323,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 279127,
       "num": 279127,
       "word": "李嘉诚",
@@ -657,6 +713,14 @@
       "onboard_time": 1742352863,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 267405,
+      "num": 267405,
+      "word": "王者S39新赛季即将开启",
+      "onboard_time": 1742372181,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 265720,
@@ -721,6 +785,14 @@
       "onboard_time": 1742357424,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256732,
+      "num": 256732,
+      "word": "赵露思马伯骞雪景合照",
+      "onboard_time": 1742367923,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 255324,
@@ -859,11 +931,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210544,
-      "num": 210544,
-      "word": "赵露思马伯骞雪景合照",
-      "onboard_time": 1742367923,
-      "rank": 38,
+      "raw_hot": 210961,
+      "num": 210961,
+      "word": "电视剧品质盛典红毯",
+      "onboard_time": 1742370742,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -891,20 +963,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205719,
+      "num": 312328,
+      "word": "女子用餐厅餐具喂宠物",
+      "onboard_time": 1742369243,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 203855,
       "num": 203855,
       "word": "一日三次服药并不是指三餐前后",
       "onboard_time": 1742346023,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 203708,
-      "num": 203708,
-      "word": "保洁阿姨有自己的工位了",
-      "onboard_time": 1742369542,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 203458,
@@ -963,12 +1035,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197274,
+      "num": 197274,
+      "word": "aespa黑裙红毯",
+      "onboard_time": 1742372423,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195966,
       "num": 195966,
       "word": "权志龙演唱会",
       "onboard_time": 1742365343,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194744,
+      "num": 310018,
+      "word": "民警上演现实版还吃收你们来了",
+      "onboard_time": 1742371523,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194227,
@@ -1097,6 +1185,14 @@
       "onboard_time": 1742369662,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176899,
+      "num": 176899,
+      "word": "番茄夹乌梅",
+      "onboard_time": 1742372423,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 170138,
@@ -1259,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145486,
+      "num": 153900,
+      "word": "阿里AI新布局为何选中夸克",
+      "onboard_time": 1742372903,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 143127,
       "num": 143127,
       "word": "良好睡眠要在30分钟内入睡",
@@ -1281,6 +1385,14 @@
       "onboard_time": 1742364744,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141301,
+      "num": 141301,
+      "word": "李宇春正式加入演唱会爱情保安",
+      "onboard_time": 1742370562,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 140973,
@@ -1315,6 +1427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134551,
+      "num": 134551,
+      "word": "毒尿裤厂商自曝专坑失能老人",
+      "onboard_time": 1742371102,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131666,
       "num": 234328,
       "word": "半熟4女三气血很足",
@@ -1337,6 +1457,14 @@
       "onboard_time": 1742348542,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130080,
+      "num": 130080,
+      "word": "父母离异带来的催化式成长",
+      "onboard_time": 1742372423,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 129255,
@@ -1409,6 +1537,30 @@
       "onboard_time": 1742343802,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 117382,
+      "num": 117382,
+      "word": "桃黑黑第63次减肥",
+      "onboard_time": 1742373081,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 115016,
+      "num": 143825,
+      "word": "维斯塔潘的私人飞机太酷了",
+      "onboard_time": 1742367744,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114690,
+      "num": 114690,
+      "word": "赵丽颖说高月香有血性",
+      "onboard_time": 1742372423,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 111304,
@@ -1497,14 +1649,6 @@
       "onboard_time": 1742299044,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100879,
-      "num": 143825,
-      "word": "维斯塔潘的私人飞机太酷了",
-      "onboard_time": 1742367744,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 99269,
@@ -1747,14 +1891,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 56667,
-      "num": 312328,
-      "word": "女子用餐厅餐具喂宠物",
-      "onboard_time": 1742369243,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 56134,
       "num": 162510,
       "word": "身体很喜欢的10个动作",
@@ -1819,20 +1955,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48136,
+      "num": 197022,
+      "word": "俄美元首通话后欧洲和乌克兰更焦虑了",
+      "onboard_time": 1742371641,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48093,
       "num": 48093,
       "word": "当地市监局回应男童往玻璃杯小便",
       "onboard_time": 1742326753,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47639,
-      "num": 260934,
-      "word": "特朗普称是拜登抛弃了两名宇航员",
-      "onboard_time": 1742369062,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 46424,
@@ -1851,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43575,
+      "num": 296197,
+      "word": "因挪车纠纷男子称反杀系正当防卫",
+      "onboard_time": 1742372482,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43262,
       "num": 220522,
       "word": "AI应用套壳是创新还是伪命题",
@@ -1865,6 +2009,14 @@
       "onboard_time": 1742355023,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 40948,
+      "num": 293215,
+      "word": "美宇航员出差8天变9个月营救",
+      "onboard_time": 1742372722,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37231,
