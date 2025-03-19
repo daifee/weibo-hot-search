@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742422994753,
+  "endTime": 1742424041870,
   "band_list": [
     {
       "raw_hot": 5372498,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68704,
+      "num": 219581,
+      "word": "卖炒饭净赚50万的创富故事看看就好",
+      "onboard_time": 1742389824,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64048,
       "num": 130163,
       "word": "i人e人的专属幸福清单",
@@ -371,12 +379,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53738,
-      "num": 219581,
-      "word": "卖炒饭净赚50万的创富故事看看就好",
-      "onboard_time": 1742389824,
-      "rank": 39,
+      "raw_hot": 56854,
+      "num": 56854,
+      "word": "男子秘密辗转多个国家投敌泄密",
+      "onboard_time": 1742414533,
+      "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55258,
+      "num": 38422,
+      "word": "文旅局回应李胜利现身杭州夜店",
+      "onboard_time": 1742417834,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 48927,
+      "num": 48927,
+      "word": "给刘宇宁递个悬疑本子吧",
+      "onboard_time": 1742400023,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 45765,
@@ -395,20 +419,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44081,
+      "num": 210961,
+      "word": "美乌元首通话",
+      "onboard_time": 1742401581,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43526,
       "num": 222789,
       "word": "无论i人e人都是相亲相ie家人",
       "onboard_time": 1742401760,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 43329,
-      "num": 28673,
-      "word": "文旅局回应李胜利现身杭州夜店",
-      "onboard_time": 1742417834,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 43158,
@@ -419,28 +443,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40555,
-      "num": 40555,
-      "word": "男子秘密辗转多个国家投敌泄密",
-      "onboard_time": 1742414533,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39795,
-      "num": 39795,
-      "word": "给刘宇宁递个悬疑本子吧",
-      "onboard_time": 1742400023,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39436,
       "num": 99714,
       "word": "将门毒后",
       "onboard_time": 1742404216,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37390,
+      "num": 88176,
+      "word": "中学老师当学生面踩死猫扔垃圾桶",
+      "onboard_time": 1742389644,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36820,
+      "num": 36820,
+      "word": "俄乌局势",
+      "onboard_time": 1742421255,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36653,
@@ -459,20 +483,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 34116,
-      "num": 210961,
-      "word": "美乌元首通话",
-      "onboard_time": 1742401581,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 30528,
-      "num": 88176,
-      "word": "中学老师当学生面踩死猫扔垃圾桶",
-      "onboard_time": 1742389644,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 31880,
+      "num": 39319,
+      "word": "陈都灵眼神戏已经进化成这样了",
+      "onboard_time": 1742391385,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 29734,
@@ -483,7 +499,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28753,
+      "raw_hot": 29108,
       "num": 99206,
       "word": "孙杨回应被小16岁对手反超",
       "onboard_time": 1742386943,
@@ -491,20 +507,44 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23948,
-      "num": 23948,
-      "word": "俄乌局势",
-      "onboard_time": 1742421255,
-      "rank": 33,
+      "raw_hot": 28506,
+      "num": 28506,
+      "word": "A股",
+      "onboard_time": 1742413094,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 24542,
+      "num": 24542,
+      "word": "玩耍时发现火情6名少年齐力灭火",
+      "onboard_time": 1742419754,
+      "rank": 40,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 20415,
+      "num": 39092,
+      "word": "檀健次别让外界的风幡框定自己",
+      "onboard_time": 1742402958,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19722,
+      "num": 56419,
+      "word": "美俄将在沙特举行会谈",
+      "onboard_time": 1742423356,
+      "rank": 9,
       "category": "国际时政"
     },
     {
-      "raw_hot": 22385,
-      "num": 39319,
-      "word": "陈都灵眼神戏已经进化成这样了",
-      "onboard_time": 1742391385,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 19134,
+      "num": 27029,
+      "word": "张豆豆喊话孙杨做最好的自己",
+      "onboard_time": 1742400082,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 17758,
@@ -513,30 +553,6 @@
       "onboard_time": 1742408474,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17620,
-      "num": 19426,
-      "word": "玩耍时发现火情6名少年齐力灭火",
-      "onboard_time": 1742419754,
-      "rank": 40,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 17482,
-      "num": 39092,
-      "word": "檀健次别让外界的风幡框定自己",
-      "onboard_time": 1742402958,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 16296,
-      "num": 27029,
-      "word": "张豆豆喊话孙杨做最好的自己",
-      "onboard_time": 1742400082,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 15206,
@@ -561,14 +577,6 @@
       "onboard_time": 1742417173,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14441,
-      "num": 19411,
-      "word": "A股",
-      "onboard_time": 1742413094,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 12780,
