@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742404947021,
+  "endTime": 1742405997038,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -12427,6 +12427,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 43158,
+      "num": 99886,
+      "word": "官方已调查女子被拔错牙后坠亡事件",
+      "onboard_time": 1742404157,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43093,
       "num": 1251545,
       "word": "政策给力消费加力持续向新向好",
@@ -12603,14 +12611,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 38202,
-      "num": 99886,
-      "word": "官方已调查女子被拔错牙后坠亡事件",
-      "onboard_time": 1742404157,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38153,
       "num": 125605,
       "word": "石宇奇全英夺冠后发文",
@@ -12665,6 +12665,14 @@
       "onboard_time": 1742271325,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 36653,
+      "num": 88350,
+      "word": "电影热烈官宣4月3日重映",
+      "onboard_time": 1742404997,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 36602,
@@ -12961,6 +12969,14 @@
       "onboard_time": 1742353220,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 29734,
+      "num": 88151,
+      "word": "校方回应中学老师当学生面杀猫",
+      "onboard_time": 1742405597,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29668,
@@ -13793,6 +13809,14 @@
       "onboard_time": 1742203522,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9452,
+      "num": 88260,
+      "word": "沈星回王的棋局",
+      "onboard_time": 1742405956,
+      "rank": 40,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

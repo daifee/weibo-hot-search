@@ -1,0 +1,410 @@
+{
+  "runTime": 1742405997038,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 330816,
+        "num": 398086,
+        "word": "邓为 将门毒后",
+        "onboard_time": 1742399424,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136374,
+        "num": 136374,
+        "word": "樊振东张本智和合影",
+        "onboard_time": 1742399064,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17619,
+        "num": 117701,
+        "word": "这里是多彩贵州",
+        "onboard_time": 1742393486,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218870,
+        "num": 110567,
+        "word": "赵露思小猫咪是不是不能烤炭火",
+        "onboard_time": 1742400861,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100811,
+        "num": 100811,
+        "word": "casetify手机壳 背刺",
+        "onboard_time": 1742390125,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 92134,
+        "num": 92134,
+        "word": "特朗普泽连斯基通话约1小时",
+        "onboard_time": 1742400563,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105197,
+        "num": 92108,
+        "word": "内场的刘亦菲",
+        "onboard_time": 1742398226,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76953,
+        "num": 91911,
+        "word": "5500元名牌鞋送洗后被擅自换鞋底",
+        "onboard_time": 1742398885,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100606,
+        "num": 91857,
+        "word": "孟子义章若楠同框",
+        "onboard_time": 1742400202,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75165,
+        "num": 91726,
+        "word": "韵达",
+        "onboard_time": 1742381362,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 978214,
+        "num": 91599,
+        "word": "韩安冉 离婚",
+        "onboard_time": 1742395704,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 393670,
+        "num": 91466,
+        "word": "宋浩然",
+        "onboard_time": 1742401521,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 250532,
+        "num": 91363,
+        "word": "金赛纶曾堕胎",
+        "onboard_time": 1742391326,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116691,
+        "num": 91188,
+        "word": "父亲偷偷再婚女儿得知马上立遗嘱",
+        "onboard_time": 1742380583,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80536,
+        "num": 91093,
+        "word": "湖北大学",
+        "onboard_time": 1742391205,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627312,
+        "num": 91020,
+        "word": "宋浩然向韩安冉提出离婚",
+        "onboard_time": 1742398167,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 241725,
+        "num": 90860,
+        "word": "林峯老婆换保姆要查行李箱惹争议",
+        "onboard_time": 1742400742,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165146,
+        "num": 90705,
+        "word": "金秀贤 重要资料",
+        "onboard_time": 1742395225,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137780,
+        "num": 90609,
+        "word": "杨天真瘦到了124斤",
+        "onboard_time": 1742384723,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48109,
+        "num": 90504,
+        "word": "孙杨400自银牌",
+        "onboard_time": 1742387844,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196455,
+        "num": 90449,
+        "word": "女子出差险遭强奸又被公司劝离职",
+        "onboard_time": 1742393124,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139379,
+        "num": 90289,
+        "word": "关晓彤造型师又有什么心事了",
+        "onboard_time": 1742378723,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99352,
+        "num": 90189,
+        "word": "全场惊呼刘亦菲太美了",
+        "onboard_time": 1742380823,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90100,
+        "num": 90100,
+        "word": "金赛纶曾秒删结婚ins",
+        "onboard_time": 1742392286,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69750,
+        "num": 90024,
+        "word": "雁回时",
+        "onboard_time": 1742378663,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51357,
+        "num": 89761,
+        "word": "张若昀一出场男粉都拥上来了",
+        "onboard_time": 1742399363,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49124,
+        "num": 89437,
+        "word": "贵女 听劝",
+        "onboard_time": 1742389223,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44766,
+        "num": 89247,
+        "word": "碧梨 歌手2025",
+        "onboard_time": 1742388146,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41023,
+        "num": 88881,
+        "word": "专家建议中小学缩短至10年取消中考",
+        "onboard_time": 1742398825,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 32284,
+        "num": 88820,
+        "word": "卖炒饭净赚50万的创富故事看看就好",
+        "onboard_time": 1742389824,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88596,
+        "num": 88596,
+        "word": "网友在日本捡到热巴的签证",
+        "onboard_time": 1742391444,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51155,
+        "num": 88588,
+        "word": "赵露思ins晒和马伯骞合照",
+        "onboard_time": 1742386884,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46856,
+        "num": 88523,
+        "word": "当学生面虐杀猫老师公开道歉",
+        "onboard_time": 1742393967,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43158,
+        "num": 88516,
+        "word": "官方已调查女子被拔错牙后坠亡事件",
+        "onboard_time": 1742404157,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40901,
+        "num": 88486,
+        "word": "张彬彬给景甜拍照",
+        "onboard_time": 1742396366,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42345,
+        "num": 88436,
+        "word": "迪丽热巴早期微博精神状态演我",
+        "onboard_time": 1742398766,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39870,
+        "num": 88397,
+        "word": "凑崎纱夏 歌手2025",
+        "onboard_time": 1742381544,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36653,
+        "num": 88350,
+        "word": "电影热烈官宣4月3日重映",
+        "onboard_time": 1742404997,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34233,
+        "num": 88309,
+        "word": "吴宣仪被问为什么只给王源打电话",
+        "onboard_time": 1742379864,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31104,
+        "num": 88302,
+        "word": "无论i人e人都是相亲相ie家人",
+        "onboard_time": 1742401760,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9452,
+        "num": 88260,
+        "word": "沈星回王的棋局",
+        "onboard_time": 1742405956,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30644,
+        "num": 88216,
+        "word": "将门毒后",
+        "onboard_time": 1742404216,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30528,
+        "num": 88176,
+        "word": "中学老师当学生面踩死猫扔垃圾桶",
+        "onboard_time": 1742389644,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29734,
+        "num": 88151,
+        "word": "校方回应中学老师当学生面杀猫",
+        "onboard_time": 1742405597,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29203,
+        "num": 88099,
+        "word": "章若楠第二套",
+        "onboard_time": 1742382984,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28298,
+        "num": 88071,
+        "word": "秦岚演我生理性厌恶",
+        "onboard_time": 1742384664,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28684,
+        "num": 88038,
+        "word": "关晓彤第6套祖海高定",
+        "onboard_time": 1742397088,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27903,
+        "num": 88006,
+        "word": "昀牵孟绕共享文案",
+        "onboard_time": 1742398286,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24025,
+        "num": 87969,
+        "word": "孙杨回应被小16岁对手反超",
+        "onboard_time": 1742386943,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22543,
+        "num": 87915,
+        "word": "上海韵达货运被立案调查",
+        "onboard_time": 1742378843,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为贵州新风采指明方向#"
+    }
+  }
+}
