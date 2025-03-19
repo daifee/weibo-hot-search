@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742380005650,
+  "endTime": 1742381016251,
   "band_list": [
     {
       "raw_hot": 3159189,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2787471,
-      "num": 2787471,
+      "raw_hot": 2844211,
+      "num": 2844211,
       "word": "关晓彤造型师又有什么心事了",
       "onboard_time": 1742378723,
       "rank": 0,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2290585,
-      "num": 1234110,
+      "num": 1849977,
       "word": "还得是刘亦菲",
       "onboard_time": 1742376203,
       "rank": 42,
@@ -41,6 +41,14 @@
       "onboard_time": 1742354482,
       "rank": 3,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 1670179,
+      "num": 442864,
+      "word": "父亲偷偷再婚女儿得知马上立遗嘱",
+      "onboard_time": 1742380583,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1651035,
@@ -443,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544899,
+      "num": 544899,
+      "word": "十万一针抗癌药制备成本仅3000元",
+      "onboard_time": 1742378304,
+      "rank": 6,
+      "category": "舆论监督,健康医疗"
+    },
+    {
       "raw_hot": 542436,
       "num": 542436,
       "word": "毒尿裤厂商自曝专坑失能老人",
@@ -563,12 +579,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 452221,
+      "num": 452221,
+      "word": "吴宣仪被问为什么只给王源打电话",
+      "onboard_time": 1742379864,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442450,
       "num": 442450,
       "word": "美滞留女宇航员曾承认健康出问题",
       "onboard_time": 1742345064,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 439144,
+      "num": 466377,
+      "word": "上海韵达货运被立案调查",
+      "onboard_time": 1742378843,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436011,
+      "num": 453814,
+      "word": "章若楠2025春夏高定",
+      "onboard_time": 1742375182,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 432873,
@@ -617,6 +657,14 @@
       "onboard_time": 1742376983,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 402222,
+      "num": 402222,
+      "word": "童瑶的耳环比耳朵都大",
+      "onboard_time": 1742379683,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 397483,
@@ -707,14 +755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 352689,
-      "num": 466377,
-      "word": "上海韵达货运被立案调查",
-      "onboard_time": 1742378843,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 349100,
       "num": 451531,
       "word": "杨紫家业三次开机",
@@ -745,6 +785,14 @@
       "onboard_time": 1742305523,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338916,
+      "num": 448523,
+      "word": "雁回时",
+      "onboard_time": 1742378663,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 336736,
@@ -787,14 +835,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 314118,
-      "num": 453814,
-      "word": "章若楠2025春夏高定",
-      "onboard_time": 1742375182,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 312333,
       "num": 223335,
       "word": "虞书欣方发声明维权",
@@ -817,14 +857,6 @@
       "onboard_time": 1742375543,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292815,
-      "num": 448523,
-      "word": "雁回时",
-      "onboard_time": 1742378663,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 290828,
@@ -891,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269401,
+      "num": 269401,
+      "word": "孙怡好六cos敖闰",
+      "onboard_time": 1742380282,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267803,
       "num": 466757,
       "word": "普京拒绝陆海空全面停火30天建议",
@@ -937,6 +977,14 @@
       "onboard_time": 1742356943,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261708,
+      "num": 261708,
+      "word": "QQ月活下降5%",
+      "onboard_time": 1742379923,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 260843,
@@ -1067,6 +1115,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 227693,
+      "num": 227693,
+      "word": "教师基本功大赛老师展示无水旱游",
+      "onboard_time": 1742380043,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225673,
       "num": 214388,
       "word": "董宇辉不后悔拒绝2亿年薪",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1742351361,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212512,
+      "num": 212512,
+      "word": "全场惊呼刘亦菲太美了",
+      "onboard_time": 1742380823,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 210961,
@@ -1315,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198482,
+      "num": 198482,
+      "word": "李沁电视剧品质盛典出图",
+      "onboard_time": 1742379745,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195966,
       "num": 195966,
       "word": "权志龙演唱会",
@@ -1323,20 +1395,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 194980,
-      "num": 194980,
-      "word": "童瑶的耳环比耳朵都大",
-      "onboard_time": 1742379683,
-      "rank": 44,
+      "raw_hot": 195238,
+      "num": 195238,
+      "word": "张晚意品质盛典红毯状态",
+      "onboard_time": 1742380642,
+      "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194387,
-      "num": 194387,
-      "word": "吴宣仪被问为什么只给王源打电话",
-      "onboard_time": 1742379864,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 194227,
@@ -1353,14 +1417,6 @@
       "onboard_time": 1742351241,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193311,
-      "num": 195070,
-      "word": "李沁电视剧品质盛典出图",
-      "onboard_time": 1742379745,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 192005,
@@ -1385,14 +1441,6 @@
       "onboard_time": 1742357603,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188309,
-      "num": 188309,
-      "word": "QQ月活下降5%",
-      "onboard_time": 1742379923,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 188203,
@@ -1425,6 +1473,22 @@
       "onboard_time": 1742376203,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186240,
+      "num": 186240,
+      "word": "韵达漏洞致诈骗宣传品进入寄递渠道",
+      "onboard_time": 1742380642,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185465,
+      "num": 185465,
+      "word": "浪姐",
+      "onboard_time": 1742380823,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 184075,
@@ -1627,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159113,
+      "num": 159113,
+      "word": "陈赫邓超内娱最佳损友",
+      "onboard_time": 1742380943,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157900,
       "num": 441334,
       "word": "香港长和出售港口埋下什么祸根",
@@ -1745,6 +1817,14 @@
       "onboard_time": 1742366843,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137781,
+      "num": 440623,
+      "word": "李嘉诚出售的港口有多重要",
+      "onboard_time": 1742379562,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 137409,
@@ -2099,6 +2179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79811,
+      "num": 422910,
+      "word": "滞留太空9月宇航员需做45天复健",
+      "onboard_time": 1742378903,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79006,
       "num": 79006,
       "word": "吴映洁女儿小名叫妹子",
@@ -2123,6 +2211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75746,
+      "num": 342078,
+      "word": "乌合麒麟新作还原中美AI诸神之战",
+      "onboard_time": 1742378782,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 72465,
       "num": 370218,
       "word": "小米股价盘中再创新高",
@@ -2139,12 +2235,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 70898,
-      "num": 342078,
-      "word": "乌合麒麟新作还原中美AI诸神之战",
-      "onboard_time": 1742378782,
-      "rank": 29,
-      "category": "互联网"
+      "raw_hot": 70884,
+      "num": 423779,
+      "word": "乐山一966万体彩大奖无人领",
+      "onboard_time": 1742380103,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68293,
@@ -2193,6 +2289,22 @@
       "onboard_time": 1742291062,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63498,
+      "num": 429693,
+      "word": "白鹿说北上是她踏出舒适圈的重要一步",
+      "onboard_time": 1742380043,
+      "rank": 14,
+      "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 62977,
+      "num": 432851,
+      "word": "国安部公开4名台独网军身份信息",
+      "onboard_time": 1742379444,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62756,
@@ -2251,14 +2363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58221,
-      "num": 422910,
-      "word": "滞留太空9月宇航员需做45天复健",
-      "onboard_time": 1742378903,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 57619,
       "num": 226769,
       "word": "店方回应食客用餐具喂狗",
@@ -2276,7 +2380,7 @@
     },
     {
       "raw_hot": 56897,
-      "num": 1187799,
+      "num": 1958414,
       "word": "农业新质生产力让春耕一键起飞",
       "onboard_time": 1742377580,
       "rank": 2,
@@ -2289,6 +2393,14 @@
       "onboard_time": 1742360544,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 55305,
+      "num": 349951,
+      "word": "无畏是小猫的证据加一",
+      "onboard_time": 1742378723,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 54224,
@@ -2316,7 +2428,7 @@
     },
     {
       "raw_hot": 52180,
-      "num": 419096,
+      "num": 422302,
       "word": "总算有家电把AI玩明白了",
       "onboard_time": 1742377884,
       "rank": 19,
@@ -2369,14 +2481,6 @@
       "onboard_time": 1742326753,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47273,
-      "num": 440623,
-      "word": "李嘉诚出售的港口有多重要",
-      "onboard_time": 1742379562,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 46424,
@@ -2523,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25207,
+      "num": 432156,
+      "word": "台资通电军倚网谋独终是死路一条",
+      "onboard_time": 1742379504,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25112,
       "num": 270353,
       "word": "曝890元机票被吃240元差价",
@@ -2577,14 +2689,6 @@
       "onboard_time": 1742377223,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21369,
-      "num": 432851,
-      "word": "国安部公开4名台独网军身份信息",
-      "onboard_time": 1742379444,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20766,
@@ -2664,14 +2768,6 @@
       "word": "文化中国行走进侗乡第一寨",
       "onboard_time": 1742377103,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 12270,
-      "num": 432156,
-      "word": "台资通电军倚网谋独终是死路一条",
-      "onboard_time": 1742379504,
-      "rank": 17,
       "category": "国内时政"
     },
     {
