@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742402781614,
+  "endTime": 1742404947021,
   "band_list": [
     {
       "raw_hot": 5372498,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252995,
+      "num": 264688,
+      "word": "赵露思小猫咪是不是不能烤炭火",
+      "onboard_time": 1742400861,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214337,
       "num": 219274,
       "word": "金赛纶曾秒删结婚ins",
@@ -169,14 +177,6 @@
       "onboard_time": 1742400202,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158356,
-      "num": 264688,
-      "word": "赵露思小猫咪是不是不能烤炭火",
-      "onboard_time": 1742400861,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 157042,
@@ -251,6 +251,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 104754,
+      "num": 297442,
+      "word": "特朗普泽连斯基通话约1小时",
+      "onboard_time": 1742400563,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102559,
       "num": 212292,
       "word": "章若楠第二套",
@@ -289,14 +297,6 @@
       "onboard_time": 1742388146,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92005,
-      "num": 297442,
-      "word": "特朗普泽连斯基通话约1小时",
-      "onboard_time": 1742400563,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 89885,
@@ -403,6 +403,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39436,
+      "num": 99714,
+      "word": "将门毒后",
+      "onboard_time": 1742404216,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38202,
+      "num": 99886,
+      "word": "官方已调查女子被拔错牙后坠亡事件",
+      "onboard_time": 1742404157,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34294,
       "num": 425523,
       "word": "这里是多彩贵州",
@@ -417,6 +433,22 @@
       "onboard_time": 1742401581,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26478,
+      "num": 99206,
+      "word": "孙杨回应被小16岁对手反超",
+      "onboard_time": 1742386943,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 12664,
+      "num": 99844,
+      "word": "酸辣土豆丝",
+      "onboard_time": 1742404038,
+      "rank": 39,
+      "category": "美食"
     }
   ],
   "hotgov_list": [
