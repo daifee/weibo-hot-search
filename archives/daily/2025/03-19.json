@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742356056582,
+  "endTime": 1742358521606,
   "band_list": [
     {
       "raw_hot": 2160575,
@@ -27,6 +27,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1389388,
+      "num": 1389388,
+      "word": "成都辟谣艾滋病17万人",
+      "onboard_time": 1742355922,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1361686,
       "num": 1361686,
       "word": "不要一边充电一边看手机",
@@ -35,8 +43,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1262140,
+      "num": 1262140,
+      "word": "106岁老人劝年轻人要爱工作",
+      "onboard_time": 1742353582,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1223096,
-      "num": 439041,
+      "num": 464932,
       "word": "周六野怀孕",
       "onboard_time": 1742350222,
       "rank": 46,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1213827,
-      "num": 433396,
+      "num": 446015,
       "word": "高以翔生前女友官宣结婚",
       "onboard_time": 1742309126,
       "rank": 10,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 1101342,
-      "num": 439635,
+      "num": 452396,
       "word": "林依晨二胎",
       "onboard_time": 1742346441,
       "rank": 13,
@@ -84,11 +100,19 @@
     },
     {
       "raw_hot": 1086713,
-      "num": 443744,
+      "num": 444204,
       "word": "李现樊振东日本逛街",
       "onboard_time": 1742345183,
       "rank": 11,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 1030831,
+      "num": 1030831,
+      "word": "boss直聘崩了",
+      "onboard_time": 1742354241,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 1001884,
@@ -97,14 +121,6 @@
       "onboard_time": 1742349500,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 947005,
-      "num": 947005,
-      "word": "106岁老人劝年轻人要爱工作",
-      "onboard_time": 1742353582,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 942169,
@@ -123,8 +139,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 776302,
+      "num": 461819,
+      "word": "爱犬被毒死主人追凶900天",
+      "onboard_time": 1742354061,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 716738,
-      "num": 432620,
+      "num": 461086,
       "word": "还是金秀贤自己拍的",
       "onboard_time": 1742347882,
       "rank": 34,
@@ -139,24 +163,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 630275,
-      "num": 630275,
-      "word": "boss直聘崩了",
-      "onboard_time": 1742354241,
-      "rank": 7,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 617677,
-      "num": 426162,
-      "word": "爱犬被毒死主人追凶900天",
-      "onboard_time": 1742354061,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 651944,
+      "num": 651944,
+      "word": "中国总有飞船待命的原因泪目了",
+      "onboard_time": 1742354781,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 610997,
-      "num": 431579,
+      "num": 454286,
       "word": "何泓姗回复陈都灵",
       "onboard_time": 1742351962,
       "rank": 18,
@@ -227,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 481161,
+      "num": 450226,
+      "word": "女性太强男性真的会不敢追吗",
+      "onboard_time": 1742355561,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456427,
       "num": 456427,
       "word": "中南财大学生呼吁取消3000米测试",
@@ -257,6 +281,22 @@
       "onboard_time": 1742350461,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 417393,
+      "num": 417393,
+      "word": "潘玮柏1个月减14斤成潘玮薄",
+      "onboard_time": 1742357122,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 403131,
+      "num": 403131,
+      "word": "乘风2025定档",
+      "onboard_time": 1742357664,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 395747,
@@ -331,12 +371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333811,
+      "num": 388131,
+      "word": "迪丽热巴抹胸黑纱长裙",
+      "onboard_time": 1742357183,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 333112,
       "num": 227198,
       "word": "张碧晨方辟谣偷生孩子逼上位",
       "onboard_time": 1742294902,
       "rank": 13,
       "category": "其它"
+    },
+    {
+      "raw_hot": 330857,
+      "num": 330857,
+      "word": "意大利大批房屋1欧元甩卖",
+      "onboard_time": 1742353582,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 312333,
@@ -363,6 +419,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 285959,
+      "num": 371642,
+      "word": "于正看了二集贵女",
+      "onboard_time": 1742358324,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283940,
       "num": 283940,
       "word": "蜜雪冰城店员称隔夜柠檬是个例",
@@ -379,28 +443,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 279058,
-      "num": 279058,
-      "word": "中国总有飞船待命的原因泪目了",
-      "onboard_time": 1742354781,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 275556,
-      "num": 275556,
-      "word": "意大利大批房屋1欧元甩卖",
-      "onboard_time": 1742353582,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 262964,
       "num": 187771,
       "word": "杭州一酒楼已销毁被污染餐具",
       "onboard_time": 1742306844,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262601,
+      "num": 350392,
+      "word": "黄雀开播2分钟就把我留住了",
+      "onboard_time": 1742356943,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 260843,
@@ -427,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 256924,
+      "num": 256924,
+      "word": "金秀贤代言品牌回应",
+      "onboard_time": 1742357424,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255324,
       "num": 239612,
       "word": "朋友结婚毒友竟随礼1克冰毒",
@@ -435,12 +499,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246856,
+      "num": 246856,
+      "word": "宋佳说我是我了",
+      "onboard_time": 1742356881,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246772,
+      "num": 246772,
+      "word": "宁艺卓国内国外双开花",
+      "onboard_time": 1742357724,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243509,
       "num": 243509,
       "word": "金饰价格飙到916元",
       "onboard_time": 1742350941,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 235558,
+      "num": 235558,
+      "word": "我明天也这么起床",
+      "onboard_time": 1742354482,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 233724,
@@ -515,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206013,
-      "num": 206013,
-      "word": "成都辟谣艾滋病17万人",
-      "onboard_time": 1742355922,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203855,
       "num": 203855,
       "word": "一日三次服药并不是指三餐前后",
@@ -532,7 +612,7 @@
     },
     {
       "raw_hot": 203673,
-      "num": 203673,
+      "num": 466757,
       "word": "普京拒绝陆海空全面停火30天建议",
       "onboard_time": 1742352863,
       "rank": 46,
@@ -547,20 +627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201457,
-      "num": 201457,
-      "word": "女性太强男性真的会不敢追吗",
-      "onboard_time": 1742355561,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 198609,
-      "num": 198609,
-      "word": "我明天也这么起床",
-      "onboard_time": 1742354482,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 194603,
+      "num": 194603,
+      "word": "赔钱可以但道歉不行",
+      "onboard_time": 1742357844,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 193751,
@@ -587,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188651,
+      "num": 188651,
+      "word": "藏海传预约人数破300万",
+      "onboard_time": 1742357603,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188203,
       "num": 188203,
       "word": "景甜术后首次直播透露近况",
@@ -611,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177233,
+      "num": 177233,
+      "word": "许嵩2025演唱会首站长沙",
+      "onboard_time": 1742358383,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170138,
       "num": 170138,
       "word": "零添加酱油12款检出镉7款检出总砷",
@@ -633,6 +721,22 @@
       "onboard_time": 1742348241,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 169407,
+      "num": 169407,
+      "word": "孙杨小组第二晋级决赛",
+      "onboard_time": 1742356164,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169181,
+      "num": 169181,
+      "word": "带饭的尽头是维持生命体征",
+      "onboard_time": 1742357483,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 168110,
@@ -835,12 +939,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109179,
+      "num": 164306,
+      "word": "aespa演唱会金玟庭直拍",
+      "onboard_time": 1742358443,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 109135,
       "num": 109135,
       "word": "家业",
       "onboard_time": 1742348661,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108850,
+      "num": 448564,
+      "word": "夫妇被造谣患艾滋病悬赏5万元找线索",
+      "onboard_time": 1742357303,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107403,
@@ -857,6 +977,14 @@
       "onboard_time": 1742314400,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102863,
+      "num": 457460,
+      "word": "山寨豪车上路瞬间熄火刹车失灵",
+      "onboard_time": 1742357424,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 102593,
@@ -900,7 +1028,7 @@
     },
     {
       "raw_hot": 96786,
-      "num": 198649,
+      "num": 446329,
       "word": "豪车底盘的上限在哪里",
       "onboard_time": 1742355745,
       "rank": 39,
@@ -1163,12 +1291,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24754,
+      "num": 360791,
+      "word": "文化中国行赏蜡染之美",
+      "onboard_time": 1742357844,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24674,
       "num": 30874,
       "word": "白玉兰奖预热VCR里的杨紫",
       "onboard_time": 1742319316,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23914,
+      "num": 340755,
+      "word": "浪莎贴牌代工产量占比超八成",
+      "onboard_time": 1742358204,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 22981,
+      "num": 181659,
+      "word": "防晒经济学",
+      "onboard_time": 1742355262,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 22856,
@@ -1227,12 +1379,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 13221,
-      "num": 181659,
-      "word": "防晒经济学",
-      "onboard_time": 1742355262,
-      "rank": 46,
-      "category": "美妆"
+      "raw_hot": 9230,
+      "num": 1300437,
+      "word": "30秒打卡大美贵州",
+      "onboard_time": 1742358324,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -1241,6 +1393,9 @@
     },
     {
       "word": "#在中国式现代化进程中展现贵州新风采#"
+    },
+    {
+      "word": "#跟着习近平总书记打卡肇兴侗寨#"
     }
   ]
 }
