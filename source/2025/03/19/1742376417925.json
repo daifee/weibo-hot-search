@@ -1,0 +1,410 @@
+{
+  "runTime": 1742376417925,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2982307,
+        "num": 2982307,
+        "word": "女子疑因被拔错牙后坠楼身亡",
+        "onboard_time": 1742374762,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1182467,
+        "num": 1182467,
+        "word": "番茄夹乌梅",
+        "onboard_time": 1742372423,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35663,
+        "num": 1150798,
+        "word": "30秒打卡大美贵州",
+        "onboard_time": 1742358324,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1128673,
+        "num": 1128673,
+        "word": "大锅卤菜",
+        "onboard_time": 1742370683,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 743116,
+        "num": 743116,
+        "word": "文韬 申公豹",
+        "onboard_time": 1742373985,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573006,
+        "num": 573006,
+        "word": "卡琳娜 浪姐",
+        "onboard_time": 1742371401,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542436,
+        "num": 542436,
+        "word": "毒尿裤厂商自曝专坑失能老人",
+        "onboard_time": 1742371102,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541526,
+        "num": 541526,
+        "word": "卫健委回应女子被拔错牙后坠楼身亡",
+        "onboard_time": 1742374762,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464820,
+        "num": 464820,
+        "word": "董宇辉称离职与俞敏洪心照不宣",
+        "onboard_time": 1742376024,
+        "rank": 8,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 318133,
+        "num": 440092,
+        "word": "女子被拔错牙后坠楼身亡家属发声",
+        "onboard_time": 1742375062,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713912,
+        "num": 439341,
+        "word": "金秀贤回到家人身边静养",
+        "onboard_time": 1742371943,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436087,
+        "num": 436087,
+        "word": "昀牵孟绕",
+        "onboard_time": 1742376024,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399108,
+        "num": 399108,
+        "word": "龚俊cos敖丙",
+        "onboard_time": 1742364682,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397692,
+        "num": 397692,
+        "word": "胡杏儿老公回应搂抱美女",
+        "onboard_time": 1742360423,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390203,
+        "num": 390203,
+        "word": "aespa黑裙红毯",
+        "onboard_time": 1742372423,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365742,
+        "num": 365742,
+        "word": "普京做手势嘲讽G7",
+        "onboard_time": 1742364442,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 355526,
+        "num": 355526,
+        "word": "浪姐6通话真人脉",
+        "onboard_time": 1742368221,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180810,
+        "num": 355488,
+        "word": "140万买的保时捷才开1个月频出故障",
+        "onboard_time": 1742375062,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187235,
+        "num": 345062,
+        "word": "张云龙薄肌",
+        "onboard_time": 1742375543,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28148,
+        "num": 340228,
+        "word": "土耳其遭股债汇三杀",
+        "onboard_time": 1742376024,
+        "rank": 19,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 425898,
+        "num": 337179,
+        "word": "34岁孙杨被小16岁对手反超",
+        "onboard_time": 1742370982,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419218,
+        "num": 332795,
+        "word": "女子洗澡时玻璃门自爆手筋被炸断",
+        "onboard_time": 1742370562,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327383,
+        "num": 327383,
+        "word": "成都辟谣艾滋病17万人",
+        "onboard_time": 1742355922,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 293213,
+        "num": 293213,
+        "word": "李晟担心上浪姐和海陆同款崩塌",
+        "onboard_time": 1742365944,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279994,
+        "num": 279994,
+        "word": "14部影片定档清明档",
+        "onboard_time": 1742374883,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271146,
+        "num": 271146,
+        "word": "女子诈骗2400万掷1500万打赏男主播",
+        "onboard_time": 1742367262,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244053,
+        "num": 244053,
+        "word": "李嘉琦的官宣方式过于抽象了",
+        "onboard_time": 1742366962,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182554,
+        "num": 242303,
+        "word": "民警上演现实版还吃收你们来了",
+        "onboard_time": 1742371523,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241150,
+        "num": 241150,
+        "word": "章若楠2025春夏高定",
+        "onboard_time": 1742375182,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 90245,
+        "num": 218975,
+        "word": "文旅局称若是李胜利个人行为无管辖权",
+        "onboard_time": 1742375360,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212189,
+        "num": 212189,
+        "word": "虞书欣林一分手戏演技",
+        "onboard_time": 1742373203,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206962,
+        "num": 206962,
+        "word": "腾讯2024年财报",
+        "onboard_time": 1742374883,
+        "rank": 31,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 205867,
+        "num": 205867,
+        "word": "祝绪丹演员的脸女团的身材",
+        "onboard_time": 1742367143,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203024,
+        "num": 203024,
+        "word": "特朗普称是拜登抛弃了两名宇航员",
+        "onboard_time": 1742369062,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104699,
+        "num": 202783,
+        "word": "阿里AI新布局为何选中夸克",
+        "onboard_time": 1742372903,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202678,
+        "num": 202678,
+        "word": "董宇辉不后悔拒绝2亿年薪",
+        "onboard_time": 1742376024,
+        "rank": 35,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 200004,
+        "num": 200004,
+        "word": "章若楠春夏高定",
+        "onboard_time": 1742375904,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197794,
+        "num": 197794,
+        "word": "气血足的人大多有5个习惯",
+        "onboard_time": 1742364502,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190023,
+        "num": 190023,
+        "word": "赵露思马伯骞雪景合照",
+        "onboard_time": 1742367923,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187240,
+        "num": 187240,
+        "word": "王源说吴宣仪是老江湖了",
+        "onboard_time": 1742369062,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182013,
+        "num": 182013,
+        "word": "女子用餐厅餐具喂宠物",
+        "onboard_time": 1742369243,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 93523,
+        "num": 181869,
+        "word": "亚锦赛国羽最终名单",
+        "onboard_time": 1742376383,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181849,
+        "num": 181849,
+        "word": "还得是刘亦菲",
+        "onboard_time": 1742376203,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175182,
+        "num": 175182,
+        "word": "普京和特朗普讨论乌克兰问题",
+        "onboard_time": 1742375360,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165835,
+        "num": 165835,
+        "word": "日常见肖战",
+        "onboard_time": 1742376203,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165572,
+        "num": 165572,
+        "word": "保洁阿姨有自己的工位了",
+        "onboard_time": 1742369542,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149711,
+        "num": 149711,
+        "word": "安庆市立医院",
+        "onboard_time": 1742376262,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147808,
+        "num": 147808,
+        "word": "电视剧品质盛典红毯",
+        "onboard_time": 1742370742,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141575,
+        "num": 141575,
+        "word": "潘玮柏1个月减14斤成潘玮薄",
+        "onboard_time": 1742357122,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138702,
+        "num": 138702,
+        "word": "王者S39新赛季即将开启",
+        "onboard_time": 1742372181,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习近平总书记打卡肇兴侗寨#"
+    }
+  }
+}

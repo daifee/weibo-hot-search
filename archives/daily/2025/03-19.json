@@ -1,7 +1,15 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742373956249,
+  "endTime": 1742376417925,
   "band_list": [
+    {
+      "raw_hot": 2982307,
+      "num": 2982307,
+      "word": "女子疑因被拔错牙后坠楼身亡",
+      "onboard_time": 1742374762,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2160575,
       "num": 2160575,
@@ -92,11 +100,19 @@
     },
     {
       "raw_hot": 1192513,
-      "num": 307502,
+      "num": 332795,
       "word": "女子洗澡时玻璃门自爆手筋被炸断",
       "onboard_time": 1742370562,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1182467,
+      "num": 1182467,
+      "word": "番茄夹乌梅",
+      "onboard_time": 1742372423,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 1169332,
@@ -113,6 +129,14 @@
       "onboard_time": 1742364682,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1128673,
+      "num": 1128673,
+      "word": "大锅卤菜",
+      "onboard_time": 1742370683,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 1101342,
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 937636,
-      "num": 303715,
+      "num": 439341,
       "word": "金秀贤回到家人身边静养",
       "onboard_time": 1742371943,
       "rank": 11,
@@ -241,6 +265,14 @@
       "onboard_time": 1742354061,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 743116,
+      "num": 743116,
+      "word": "文韬 申公豹",
+      "onboard_time": 1742373985,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 716738,
@@ -339,14 +371,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 576862,
-      "num": 576862,
-      "word": "大锅卤菜",
-      "onboard_time": 1742370683,
-      "rank": 8,
-      "category": "美食"
-    },
-    {
       "raw_hot": 564071,
       "num": 564071,
       "word": "3岁男孩疑在水深20厘米浴缸中溺亡",
@@ -369,6 +393,22 @@
       "onboard_time": 1742305103,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 542436,
+      "num": 542436,
+      "word": "毒尿裤厂商自曝专坑失能老人",
+      "onboard_time": 1742371102,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 541526,
+      "num": 541526,
+      "word": "卫健委回应女子被拔错牙后坠楼身亡",
+      "onboard_time": 1742374762,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 540117,
@@ -444,11 +484,19 @@
     },
     {
       "raw_hot": 466719,
-      "num": 274408,
+      "num": 337179,
       "word": "34岁孙杨被小16岁对手反超",
       "onboard_time": 1742370982,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 464820,
+      "num": 464820,
+      "word": "董宇辉称离职与俞敏洪心照不宣",
+      "onboard_time": 1742376024,
+      "rank": 8,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 456427,
@@ -465,6 +513,14 @@
       "onboard_time": 1742345064,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 436087,
+      "num": 436087,
+      "word": "昀牵孟绕",
+      "onboard_time": 1742376024,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 432873,
@@ -529,6 +585,14 @@
       "onboard_time": 1742310025,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390203,
+      "num": 390203,
+      "word": "aespa黑裙红毯",
+      "onboard_time": 1742372423,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 382401,
@@ -635,14 +699,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 333428,
-      "num": 256415,
-      "word": "番茄夹乌梅",
-      "onboard_time": 1742372423,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 333112,
       "num": 227198,
       "word": "张碧晨方辟谣偷生孩子逼上位",
@@ -659,6 +715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 318133,
+      "num": 440092,
+      "word": "女子被拔错牙后坠楼身亡家属发声",
+      "onboard_time": 1742375062,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 312333,
       "num": 223335,
       "word": "虞书欣方发声明维权",
@@ -673,14 +737,6 @@
       "onboard_time": 1742346144,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 303738,
-      "num": 251610,
-      "word": "aespa黑裙红毯",
-      "onboard_time": 1742372423,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 290828,
@@ -705,6 +761,14 @@
       "onboard_time": 1742288721,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 279994,
+      "num": 279994,
+      "word": "14部影片定档清明档",
+      "onboard_time": 1742374883,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 279127,
@@ -867,6 +931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 241150,
+      "num": 241150,
+      "word": "章若楠2025春夏高定",
+      "onboard_time": 1742375182,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 235558,
       "num": 235558,
       "word": "我明天也这么起床",
@@ -1003,6 +1075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206962,
+      "num": 206962,
+      "word": "腾讯2024年财报",
+      "onboard_time": 1742374883,
+      "rank": 31,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 203855,
       "num": 203855,
       "word": "一日三次服药并不是指三餐前后",
@@ -1017,6 +1097,14 @@
       "onboard_time": 1742312061,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202678,
+      "num": 202678,
+      "word": "董宇辉不后悔拒绝2亿年薪",
+      "onboard_time": 1742376024,
+      "rank": 35,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 202476,
@@ -1057,6 +1145,14 @@
       "onboard_time": 1742360124,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200004,
+      "num": 200004,
+      "word": "章若楠春夏高定",
+      "onboard_time": 1742375904,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 199053,
@@ -1131,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187235,
+      "num": 345062,
+      "word": "张云龙薄肌",
+      "onboard_time": 1742375543,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187084,
       "num": 209260,
       "word": "恋爱兄妹综艺",
@@ -1179,6 +1283,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181849,
+      "num": 181849,
+      "word": "还得是刘亦菲",
+      "onboard_time": 1742376203,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180810,
+      "num": 355488,
+      "word": "140万买的保时捷才开1个月频出故障",
+      "onboard_time": 1742375062,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180156,
       "num": 213376,
       "word": "肖战我们全球发行成绩",
@@ -1209,6 +1329,14 @@
       "onboard_time": 1742369662,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175182,
+      "num": 175182,
+      "word": "普京和特朗普讨论乌克兰问题",
+      "onboard_time": 1742375360,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 170138,
@@ -1265,6 +1393,14 @@
       "onboard_time": 1742318776,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165835,
+      "num": 165835,
+      "word": "日常见肖战",
+      "onboard_time": 1742376203,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 164744,
@@ -1347,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149711,
+      "num": 149711,
+      "word": "安庆市立医院",
+      "onboard_time": 1742376262,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149410,
       "num": 149410,
       "word": "一诺反差萌",
@@ -1388,7 +1532,7 @@
     },
     {
       "raw_hot": 145486,
-      "num": 178108,
+      "num": 202783,
       "word": "阿里AI新布局为何选中夸克",
       "onboard_time": 1742372903,
       "rank": 36,
@@ -1457,14 +1601,6 @@
       "onboard_time": 1742339900,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 134551,
-      "num": 160530,
-      "word": "毒尿裤厂商自曝专坑失能老人",
-      "onboard_time": 1742371102,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131666,
@@ -1739,12 +1875,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93523,
+      "num": 181869,
+      "word": "亚锦赛国羽最终名单",
+      "onboard_time": 1742376383,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92192,
       "num": 92192,
       "word": "李昀锐冰湖重生骑马射弩路透",
       "onboard_time": 1742348362,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90245,
+      "num": 218975,
+      "word": "文旅局称若是李胜利个人行为无管辖权",
+      "onboard_time": 1742375360,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 88179,
@@ -2113,6 +2265,14 @@
       "onboard_time": 1742361682,
       "rank": 30,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 28148,
+      "num": 340228,
+      "word": "土耳其遭股债汇三杀",
+      "onboard_time": 1742376024,
+      "rank": 19,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 26907,

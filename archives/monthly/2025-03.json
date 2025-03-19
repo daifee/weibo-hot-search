@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742373956249,
+  "endTime": 1742376417925,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -328,6 +328,14 @@
       "word": "女子7号查出怀孕8号直接就生了",
       "onboard_time": 1741057397,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2982307,
+      "num": 2982307,
+      "word": "女子疑因被拔错牙后坠楼身亡",
+      "onboard_time": 1742374762,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -2196,7 +2204,7 @@
     },
     {
       "raw_hot": 1416467,
-      "num": 412460,
+      "num": 436087,
       "word": "昀牵孟绕",
       "onboard_time": 1742183303,
       "rank": 14,
@@ -2964,7 +2972,7 @@
     },
     {
       "raw_hot": 1192513,
-      "num": 307502,
+      "num": 332795,
       "word": "女子洗澡时玻璃门自爆手筋被炸断",
       "onboard_time": 1742370562,
       "rank": 10,
@@ -3025,6 +3033,14 @@
       "onboard_time": 1742284045,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1182467,
+      "num": 1182467,
+      "word": "番茄夹乌梅",
+      "onboard_time": 1742372423,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 1179844,
@@ -3345,6 +3361,14 @@
       "onboard_time": 1741145658,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1128673,
+      "num": 1128673,
+      "word": "大锅卤菜",
+      "onboard_time": 1742370683,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 1128593,
@@ -4508,7 +4532,7 @@
     },
     {
       "raw_hot": 937636,
-      "num": 303715,
+      "num": 439341,
       "word": "金秀贤回到家人身边静养",
       "onboard_time": 1742371943,
       "rank": 11,
@@ -6353,6 +6377,14 @@
       "onboard_time": 1741826364,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 743116,
+      "num": 743116,
+      "word": "文韬 申公豹",
+      "onboard_time": 1742373985,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 742802,
@@ -8723,14 +8755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 576862,
-      "num": 576862,
-      "word": "大锅卤菜",
-      "onboard_time": 1742370683,
-      "rank": 8,
-      "category": "美食"
-    },
-    {
       "raw_hot": 576335,
       "num": 576335,
       "word": "中医说健不健康看眼睛就知道了",
@@ -9323,11 +9347,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 542436,
+      "num": 542436,
+      "word": "毒尿裤厂商自曝专坑失能老人",
+      "onboard_time": 1742371102,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 542180,
       "num": 542180,
       "word": "山姆回应多批次牛奶疑似变质",
       "onboard_time": 1741836383,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 541526,
+      "num": 541526,
+      "word": "卫健委回应女子被拔错牙后坠楼身亡",
+      "onboard_time": 1742374762,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -10772,7 +10812,7 @@
     },
     {
       "raw_hot": 466719,
-      "num": 274408,
+      "num": 337179,
       "word": "34岁孙杨被小16岁对手反超",
       "onboard_time": 1742370982,
       "rank": 20,
@@ -10793,6 +10833,14 @@
       "onboard_time": 1740896360,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 464820,
+      "num": 464820,
+      "word": "董宇辉称离职与俞敏洪心照不宣",
+      "onboard_time": 1742376024,
+      "rank": 8,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 464764,
@@ -12833,6 +12881,14 @@
       "onboard_time": 1741438583,
       "rank": 19,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 390203,
+      "num": 390203,
+      "word": "aespa黑裙红毯",
+      "onboard_time": 1742372423,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 389837,
@@ -14939,14 +14995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 333428,
-      "num": 256415,
-      "word": "番茄夹乌梅",
-      "onboard_time": 1742372423,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 333112,
       "num": 333112,
       "word": "银川地震",
@@ -15627,6 +15675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318133,
+      "num": 440092,
+      "word": "女子被拔错牙后坠楼身亡家属发声",
+      "onboard_time": 1742375062,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317584,
       "num": 317584,
       "word": "莎头男单女单冠军",
@@ -16137,14 +16193,6 @@
       "onboard_time": 1740811236,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 303738,
-      "num": 251610,
-      "word": "aespa黑裙红毯",
-      "onboard_time": 1742372423,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 303549,
@@ -17385,6 +17433,14 @@
       "onboard_time": 1742273304,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 279994,
+      "num": 279994,
+      "word": "14部影片定档清明档",
+      "onboard_time": 1742374883,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 279954,
@@ -19889,6 +19945,14 @@
       "onboard_time": 1742020703,
       "rank": 23,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 241150,
+      "num": 241150,
+      "word": "章若楠2025春夏高定",
+      "onboard_time": 1742375182,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 241107,
@@ -23347,6 +23411,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 206962,
+      "num": 206962,
+      "word": "腾讯2024年财报",
+      "onboard_time": 1742374883,
+      "rank": 31,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 206959,
       "num": 206959,
       "word": "宁艺卓短发拍摄MV",
@@ -24059,6 +24131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202678,
+      "num": 202678,
+      "word": "董宇辉不后悔拒绝2亿年薪",
+      "onboard_time": 1742376024,
+      "rank": 35,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 202671,
       "num": 202671,
       "word": "盗墓笔记",
@@ -24561,6 +24641,14 @@
       "onboard_time": 1742275403,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200004,
+      "num": 200004,
+      "word": "章若楠春夏高定",
+      "onboard_time": 1742375904,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 199984,
@@ -26947,6 +27035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187235,
+      "num": 345062,
+      "word": "张云龙薄肌",
+      "onboard_time": 1742375543,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187219,
       "num": 763003,
       "word": "孙颖莎vs大藤沙月",
@@ -27867,6 +27963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181849,
+      "num": 181849,
+      "word": "还得是刘亦菲",
+      "onboard_time": 1742376203,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181831,
       "num": 181831,
       "word": "塞尔吉尼奥入籍",
@@ -27985,6 +28089,14 @@
       "onboard_time": 1741492281,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180810,
+      "num": 355488,
+      "word": "140万买的保时捷才开1个月频出故障",
+      "onboard_time": 1742375062,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180779,
@@ -28913,6 +29025,14 @@
       "onboard_time": 1740877157,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 175182,
+      "num": 175182,
+      "word": "普京和特朗普讨论乌克兰问题",
+      "onboard_time": 1742375360,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175112,
@@ -30689,6 +30809,14 @@
       "onboard_time": 1741761684,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 165835,
+      "num": 165835,
+      "word": "日常见肖战",
+      "onboard_time": 1742376203,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 165822,
@@ -34147,6 +34275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149711,
+      "num": 149711,
+      "word": "安庆市立医院",
+      "onboard_time": 1742376262,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149708,
       "num": 149708,
       "word": "特斯拉ModelY长续航版涨价1万元",
@@ -35140,7 +35276,7 @@
     },
     {
       "raw_hot": 145486,
-      "num": 178108,
+      "num": 202783,
       "word": "阿里AI新布局为何选中夸克",
       "onboard_time": 1742372903,
       "rank": 36,
@@ -37513,14 +37649,6 @@
       "onboard_time": 1741961484,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134551,
-      "num": 160530,
-      "word": "毒尿裤厂商自曝专坑失能老人",
-      "onboard_time": 1742371102,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134550,
@@ -46803,6 +46931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93523,
+      "num": 181869,
+      "word": "亚锦赛国羽最终名单",
+      "onboard_time": 1742376383,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93486,
       "num": 164296,
       "word": "今年看过最抽象的一部剧",
@@ -47417,6 +47553,14 @@
       "onboard_time": 1741437982,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 90245,
+      "num": 218975,
+      "word": "文旅局称若是李胜利个人行为无管辖权",
+      "onboard_time": 1742375360,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 90191,
@@ -56905,6 +57049,14 @@
       "onboard_time": 1741342102,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28148,
+      "num": 340228,
+      "word": "土耳其遭股债汇三杀",
+      "onboard_time": 1742376024,
+      "rank": 19,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 27972,
