@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742361805488,
+  "endTime": 1742362814464,
   "band_list": [
     {
       "raw_hot": 2160575,
@@ -27,7 +27,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1534164,
+      "raw_hot": 1629524,
       "num": 385269,
       "word": "胡杏儿老公回应搂抱美女",
       "onboard_time": 1742360423,
@@ -147,6 +147,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 884219,
+      "num": 884219,
+      "word": "乘风2025全阵容官宣",
+      "onboard_time": 1742359105,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 871286,
+      "num": 871286,
+      "word": "她从澹州来的惹她干嘛",
+      "onboard_time": 1742360484,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 852137,
       "num": 852137,
       "word": "美国公布肯尼迪遇刺事件记录",
@@ -161,14 +177,6 @@
       "onboard_time": 1742357664,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 780580,
-      "num": 780580,
-      "word": "她从澹州来的惹她干嘛",
-      "onboard_time": 1742360484,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 776302,
@@ -209,14 +217,6 @@
       "onboard_time": 1742354781,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 641939,
-      "num": 475765,
-      "word": "乘风2025全阵容官宣",
-      "onboard_time": 1742359105,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 610997,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 491130,
+      "num": 362752,
+      "word": "赵露思 时尚先生",
+      "onboard_time": 1742358984,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 483558,
       "num": 483558,
       "word": "为什么中国航天员能按时回地球",
@@ -307,12 +315,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 477921,
-      "num": 360281,
-      "word": "赵露思 时尚先生",
-      "onboard_time": 1742358984,
-      "rank": 38,
-      "category": "作品衍生,时尚"
+      "raw_hot": 475221,
+      "num": 358126,
+      "word": "李艾结婚10年和老公复刻结婚照",
+      "onboard_time": 1742360904,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 456427,
@@ -419,19 +427,19 @@
       "category": "网红"
     },
     {
-      "raw_hot": 345163,
-      "num": 345163,
-      "word": "李艾结婚10年和老公复刻结婚照",
-      "onboard_time": 1742360904,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 344404,
       "num": 266577,
       "word": "小伙忘锁公共自行车担心贷款还车费",
       "onboard_time": 1742305523,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336736,
+      "num": 336736,
+      "word": "女子腰疼3拒宝妈换铺后遭言语攻击",
+      "onboard_time": 1742358683,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -457,14 +465,6 @@
       "onboard_time": 1742353582,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 315332,
-      "num": 315332,
-      "word": "女子腰疼3拒宝妈换铺后遭言语攻击",
-      "onboard_time": 1742358683,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312333,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 263394,
-      "num": 263394,
+      "num": 340065,
       "word": "胡杏儿李乘德交往3个月闪婚",
       "onboard_time": 1742361023,
       "rank": 28,
@@ -715,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201698,
+      "num": 211548,
+      "word": "甄嬛回宫品如回家寒雁回府",
+      "onboard_time": 1742361983,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200873,
       "num": 505020,
       "word": "乘风2025首发立意片",
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 187084,
-      "num": 207933,
+      "num": 209260,
       "word": "恋爱兄妹综艺",
       "onboard_time": 1742361502,
       "rank": 37,
@@ -931,6 +939,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149410,
+      "num": 149410,
+      "word": "一诺反差萌",
+      "onboard_time": 1742362643,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 148496,
+      "num": 239720,
+      "word": "李嘉诚卖港口美财团为何接盘",
+      "onboard_time": 1742360904,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148006,
       "num": 148006,
       "word": "入职北大孙环波本科是民办高校",
@@ -947,6 +971,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145664,
+      "num": 145664,
+      "word": "乘风 婚纱照",
+      "onboard_time": 1742362762,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143318,
+      "num": 143318,
+      "word": "13岁孙子花光奶奶4.3万元存款",
+      "onboard_time": 1742362402,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143127,
       "num": 143127,
       "word": "良好睡眠要在30分钟内入睡",
@@ -955,12 +995,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 142297,
+      "num": 142297,
+      "word": "似锦",
+      "onboard_time": 1742361922,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140973,
       "num": 160682,
       "word": "王楚钦3天飞3地",
       "onboard_time": 1742360664,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140447,
+      "num": 342963,
+      "word": "金靖让陈都灵现在起来去斗",
+      "onboard_time": 1742362582,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 137041,
@@ -1211,6 +1267,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84931,
+      "num": 362545,
+      "word": "私家车当网约车出事故保险拒理赔",
+      "onboard_time": 1742361382,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82201,
+      "num": 338657,
+      "word": "梅德韦杰夫说乌克兰是主菜",
+      "onboard_time": 1742360723,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79006,
       "num": 79006,
       "word": "吴映洁女儿小名叫妹子",
@@ -1227,20 +1299,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77367,
-      "num": 239720,
-      "word": "李嘉诚卖港口美财团为何接盘",
-      "onboard_time": 1742360904,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 76585,
       "num": 76585,
       "word": "舒服的关系不需要刻意强求",
       "onboard_time": 1742314820,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 72465,
+      "num": 370218,
+      "word": "小米股价盘中再创新高",
+      "onboard_time": 1742361922,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 68293,
@@ -1347,6 +1419,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 53445,
+      "num": 156940,
+      "word": "乘风主题曲MV",
+      "onboard_time": 1742362223,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53023,
       "num": 53023,
       "word": "中方敦促澳方尊重中国主权",
@@ -1403,20 +1483,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43262,
+      "num": 210740,
+      "word": "AI应用套壳是创新还是伪命题",
+      "onboard_time": 1742361922,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 42380,
       "num": 362730,
       "word": "消费贷利率降至新低",
       "onboard_time": 1742355023,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 40182,
-      "num": 338657,
-      "word": "梅德韦杰夫说乌克兰是主菜",
-      "onboard_time": 1742360723,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37231,
@@ -1451,20 +1531,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 33220,
-      "num": 362545,
-      "word": "私家车当网约车出事故保险拒理赔",
-      "onboard_time": 1742361382,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29828,
       "num": 176591,
       "word": "什么样的防晒衣才能有效防晒",
       "onboard_time": 1742353220,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 29474,
+      "num": 229824,
+      "word": "投诉啄木鸟维修问题3天没回应",
+      "onboard_time": 1742361682,
+      "rank": 30,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 26907,
@@ -1528,14 +1608,6 @@
       "word": "记者卧底华莱士餐厅后厨",
       "onboard_time": 1742329334,
       "rank": 38,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 18179,
-      "num": 229824,
-      "word": "投诉啄木鸟维修问题3天没回应",
-      "onboard_time": 1742361682,
-      "rank": 30,
       "category": "舆论监督"
     },
     {
