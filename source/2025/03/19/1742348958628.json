@@ -1,0 +1,410 @@
+{
+  "runTime": 1742348958628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1651035,
+        "num": 1651035,
+        "word": "男子出卖大量国家秘密被判死刑",
+        "onboard_time": 1742342420,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1026485,
+        "num": 1026485,
+        "word": "网店因鞋子涨价坚持不发货只能退",
+        "onboard_time": 1742346441,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46424,
+        "num": 915518,
+        "word": "9图了解提振消费专项行动方案",
+        "onboard_time": 1742302823,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 852137,
+        "num": 852137,
+        "word": "美国公布肯尼迪遇刺事件记录",
+        "onboard_time": 1742341100,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 564071,
+        "num": 564071,
+        "word": "3岁男孩疑在水深20厘米浴缸中溺亡",
+        "onboard_time": 1742343922,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499413,
+        "num": 499413,
+        "word": "美2名流浪宇航员被转移至救援船",
+        "onboard_time": 1742342420,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 456427,
+        "num": 456427,
+        "word": "中南财大学生呼吁取消3000米测试",
+        "onboard_time": 1742343683,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 370329,
+        "num": 454006,
+        "word": "赵丽颖换了沈璃背景图",
+        "onboard_time": 1742343683,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349100,
+        "num": 451531,
+        "word": "杨紫家业三次开机",
+        "onboard_time": 1742341943,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169411,
+        "num": 451081,
+        "word": "美俄同意需要结束俄乌冲突实现长久和平",
+        "onboard_time": 1742348241,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1088050,
+        "num": 445968,
+        "word": "好多媒体报道丁禹兮救人",
+        "onboard_time": 1742344402,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1086713,
+        "num": 443744,
+        "word": "李现樊振东日本逛街",
+        "onboard_time": 1742345183,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 157900,
+        "num": 441334,
+        "word": "香港长和出售港口埋下什么祸根",
+        "onboard_time": 1742347701,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1079085,
+        "num": 439635,
+        "word": "林依晨二胎",
+        "onboard_time": 1742346441,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 760983,
+        "num": 437465,
+        "word": "媒体评蜜雪冰城别把宽容变纵容",
+        "onboard_time": 1742307503,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 728181,
+        "num": 433396,
+        "word": "高以翔生前女友官宣结婚",
+        "onboard_time": 1742309126,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432873,
+        "num": 432873,
+        "word": "小米汽车单台平均亏损4.5万元",
+        "onboard_time": 1742340801,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 432397,
+        "num": 432397,
+        "word": "男子请客获海底捞补偿朋友要求平分",
+        "onboard_time": 1742307804,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208155,
+        "num": 381506,
+        "word": "辛云来 听泉鉴宝",
+        "onboard_time": 1742304744,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195573,
+        "num": 378081,
+        "word": "桃花坞5首次录制",
+        "onboard_time": 1742344821,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579054,
+        "num": 377607,
+        "word": "韩安冉因抽脂身上到处是疤",
+        "onboard_time": 1742344704,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 376654,
+        "num": 376654,
+        "word": "金秀贤方被曝在中国实名删帖",
+        "onboard_time": 1742305103,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284787,
+        "num": 284787,
+        "word": "女生做了人工阴道后仍感染HPV",
+        "onboard_time": 1742294783,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254201,
+        "num": 254201,
+        "word": "美滞留女宇航员曾承认健康出问题",
+        "onboard_time": 1742345064,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182304,
+        "num": 250800,
+        "word": "王皓谈樊振东缺席澳门世界杯原因",
+        "onboard_time": 1742346564,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249654,
+        "num": 249654,
+        "word": "女生误诊淋巴瘤后确诊骨肉瘤",
+        "onboard_time": 1742346144,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244260,
+        "num": 244260,
+        "word": "男子变现339万后金价又涨了",
+        "onboard_time": 1742310025,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239612,
+        "num": 239612,
+        "word": "朋友结婚毒友竟随礼1克冰毒",
+        "onboard_time": 1742305882,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131666,
+        "num": 234328,
+        "word": "半熟4女三气血很足",
+        "onboard_time": 1742341639,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126195,
+        "num": 233861,
+        "word": "孟子义何与双人芭莎大片",
+        "onboard_time": 1742343622,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 233724,
+        "num": 233724,
+        "word": "周杰伦在周杰伦模仿大赛得了第二名",
+        "onboard_time": 1742341639,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231675,
+        "num": 231675,
+        "word": "不要一边充电一边看手机",
+        "onboard_time": 1742325015,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216140,
+        "num": 216140,
+        "word": "贵女这已经不是空降了 这是空袭",
+        "onboard_time": 1742304203,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174019,
+        "num": 174019,
+        "word": "一日三次服药并不是指三餐前后",
+        "onboard_time": 1742346023,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171410,
+        "num": 171410,
+        "word": "还是金秀贤自己拍的",
+        "onboard_time": 1742347882,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170116,
+        "num": 170116,
+        "word": "俄美元首通话",
+        "onboard_time": 1742341703,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135494,
+        "num": 135494,
+        "word": "普京重申和平解决冲突的立场",
+        "onboard_time": 1742339900,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130314,
+        "num": 130314,
+        "word": "鼻涕颜色是免疫系统的预警",
+        "onboard_time": 1742304324,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128360,
+        "num": 128360,
+        "word": "福州回应哪吒墙绘被破坏",
+        "onboard_time": 1742346863,
+        "rank": 38,
+        "category": "民生新闻,作品衍生"
+      },
+      {
+        "raw_hot": 125100,
+        "num": 125100,
+        "word": "贵女",
+        "onboard_time": 1742314879,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123949,
+        "num": 123949,
+        "word": "蜜雪冰城店员称隔夜柠檬是个例",
+        "onboard_time": 1742288721,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 121303,
+        "num": 121303,
+        "word": "李嘉诚",
+        "onboard_time": 1742306365,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52250,
+        "num": 120140,
+        "word": "新家甲醛超标20倍装修公司赔10万",
+        "onboard_time": 1742336776,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119836,
+        "num": 119836,
+        "word": "南京玄武湖现罕见6瓣桃花",
+        "onboard_time": 1742343802,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 107403,
+        "num": 107403,
+        "word": "曝哪吒汽车解散研发团队",
+        "onboard_time": 1742342722,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 102111,
+        "num": 102111,
+        "word": "家业",
+        "onboard_time": 1742348661,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99544,
+        "num": 99544,
+        "word": "虞书欣美得我一激灵",
+        "onboard_time": 1742317696,
+        "rank": 46,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 95892,
+        "num": 95892,
+        "word": "赵露思陈伟霆许我耀眼预约破150万",
+        "onboard_time": 1742348542,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92192,
+        "num": 92192,
+        "word": "李昀锐冰湖重生骑马射弩路透",
+        "onboard_time": 1742348362,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92164,
+        "num": 92164,
+        "word": "杭州一酒楼已销毁被污染餐具",
+        "onboard_time": 1742306844,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#祝你们的日子越过越红火#"
+    }
+  }
+}
