@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742373105272,
+  "endTime": 1742373956249,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -1179,6 +1179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 937636,
+      "num": 303715,
+      "word": "金秀贤回到家人身边静养",
+      "onboard_time": 1742371943,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 930755,
       "num": 438678,
       "word": "金秀贤代言被撕",
@@ -1339,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 854115,
+      "num": 1134889,
+      "word": "女子诈骗2400万掷1500万打赏男主播",
+      "onboard_time": 1742367262,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 853936,
       "num": 344799,
       "word": "金秀贤的手部习惯",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1742271444,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 843058,
-      "num": 1134889,
-      "word": "女子诈骗2400万掷1500万打赏男主播",
-      "onboard_time": 1742367262,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 840952,
@@ -1771,16 +1779,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 690597,
-      "num": 303715,
-      "word": "金秀贤回到家人身边静养",
-      "onboard_time": 1742371943,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 681936,
-      "num": 681936,
+      "num": 1103221,
       "word": "卡琳娜 浪姐",
       "onboard_time": 1742371401,
       "rank": 1,
@@ -2097,6 +2097,14 @@
       "onboard_time": 1742110042,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 576862,
+      "num": 576862,
+      "word": "大锅卤菜",
+      "onboard_time": 1742370683,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 575746,
@@ -3379,6 +3387,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 333428,
+      "num": 256415,
+      "word": "番茄夹乌梅",
+      "onboard_time": 1742372423,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 331018,
       "num": 426462,
       "word": "山西发布319重大交通事故调查报告",
@@ -3475,14 +3491,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 313118,
-      "num": 313118,
-      "word": "大锅卤菜",
-      "onboard_time": 1742370683,
-      "rank": 8,
-      "category": "美食"
-    },
-    {
       "raw_hot": 312454,
       "num": 312454,
       "word": "辽阳多名出租车司机围堵网约车司机",
@@ -3545,6 +3553,14 @@
       "onboard_time": 1742052689,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 303738,
+      "num": 251610,
+      "word": "aespa黑裙红毯",
+      "onboard_time": 1742372423,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 301822,
@@ -3825,6 +3841,14 @@
       "onboard_time": 1742113943,
       "rank": 13,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 277359,
+      "num": 256732,
+      "word": "赵露思马伯骞雪景合照",
+      "onboard_time": 1742367923,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 277080,
@@ -4137,14 +4161,6 @@
       "onboard_time": 1742357424,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256732,
-      "num": 256732,
-      "word": "赵露思马伯骞雪景合照",
-      "onboard_time": 1742367923,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 255765,
@@ -4763,6 +4779,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 224188,
+      "num": 368070,
+      "word": "民警上演现实版还吃收你们来了",
+      "onboard_time": 1742371523,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224132,
       "num": 225598,
       "word": "谍报上不封顶 王凯",
@@ -4811,6 +4835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221538,
+      "num": 221538,
+      "word": "虞书欣林一分手戏演技",
+      "onboard_time": 1742373203,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221148,
       "num": 269374,
       "word": "玉龙雪山回应多位游客拍到雪崩",
@@ -4857,6 +4889,14 @@
       "onboard_time": 1742352022,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219692,
+      "num": 312328,
+      "word": "女子用餐厅餐具喂宠物",
+      "onboard_time": 1742369243,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 219428,
@@ -5235,14 +5275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205719,
-      "num": 312328,
-      "word": "女子用餐厅餐具喂宠物",
-      "onboard_time": 1742369243,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 205223,
       "num": 205223,
       "word": "刘宇宁维护工作室",
@@ -5587,14 +5619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197274,
-      "num": 197274,
-      "word": "aespa黑裙红毯",
-      "onboard_time": 1742372423,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 197088,
       "num": 197088,
       "word": "过度操心是一种隐形自恋",
@@ -5713,14 +5737,6 @@
       "onboard_time": 1742099662,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194744,
-      "num": 310018,
-      "word": "民警上演现实版还吃收你们来了",
-      "onboard_time": 1742371523,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194476,
@@ -6451,6 +6467,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 177610,
+      "num": 177610,
+      "word": "南波万男团为罗予彤浪姐打call",
+      "onboard_time": 1742373442,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177279,
       "num": 341803,
       "word": "比亚迪量产全球最高转速驱动电机",
@@ -6481,14 +6505,6 @@
       "onboard_time": 1742098882,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176899,
-      "num": 176899,
-      "word": "番茄夹乌梅",
-      "onboard_time": 1742372423,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 176749,
@@ -6913,6 +6929,14 @@
       "onboard_time": 1742222064,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 162623,
+      "num": 296197,
+      "word": "因挪车纠纷男子称反杀系正当防卫",
+      "onboard_time": 1742372482,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162415,
@@ -7539,6 +7563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148636,
+      "num": 148636,
+      "word": "桃黑黑第63次减肥",
+      "onboard_time": 1742373081,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 148583,
       "num": 200965,
       "word": "潘玮柏被自己的下颌线钓成翘嘴",
@@ -7740,7 +7772,7 @@
     },
     {
       "raw_hot": 145486,
-      "num": 153900,
+      "num": 178108,
       "word": "阿里AI新布局为何选中夸克",
       "onboard_time": 1742372903,
       "rank": 36,
@@ -8180,7 +8212,7 @@
     },
     {
       "raw_hot": 134551,
-      "num": 134551,
+      "num": 160530,
       "word": "毒尿裤厂商自曝专坑失能老人",
       "onboard_time": 1742371102,
       "rank": 41,
@@ -8985,14 +9017,6 @@
       "onboard_time": 1742276004,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117382,
-      "num": 117382,
-      "word": "桃黑黑第63次减肥",
-      "onboard_time": 1742373081,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 117086,
@@ -10259,6 +10283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 71078,
+      "num": 253742,
+      "word": "中方乐见一切通往停火的努力",
+      "onboard_time": 1742371462,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71008,
       "num": 342320,
       "word": "以军空袭加沙死亡升至50人",
@@ -10305,6 +10337,14 @@
       "onboard_time": 1742097983,
       "rank": 17,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 67527,
+      "num": 293215,
+      "word": "美宇航员出差8天变9个月营救",
+      "onboard_time": 1742372722,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66693,
@@ -10513,6 +10553,14 @@
       "onboard_time": 1742228780,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57619,
+      "num": 226769,
+      "word": "店方回应食客用餐具喂狗",
+      "onboard_time": 1742373802,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57501,
@@ -10955,14 +11003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43575,
-      "num": 296197,
-      "word": "因挪车纠纷男子称反杀系正当防卫",
-      "onboard_time": 1742372482,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43428,
       "num": 234867,
       "word": "极氪CEO智驾直播首秀",
@@ -11107,20 +11147,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 40948,
-      "num": 293215,
-      "word": "美宇航员出差8天变9个月营救",
-      "onboard_time": 1742372722,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 40756,
       "num": 205153,
       "word": "杜特尔特预计拘留一年",
       "onboard_time": 1742108602,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40005,
+      "num": 255383,
+      "word": "赵露思时尚先生开季刊含金量",
+      "onboard_time": 1742373622,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 39320,
