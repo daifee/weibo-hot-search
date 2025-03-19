@@ -1,0 +1,410 @@
+{
+  "runTime": 1742394211296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1270534,
+        "num": 1270534,
+        "word": "韵达",
+        "onboard_time": 1742381362,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 819152,
+        "num": 819152,
+        "word": "贵女 听劝",
+        "onboard_time": 1742389223,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26681,
+        "num": 747325,
+        "word": "这里是多彩贵州",
+        "onboard_time": 1742393486,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 721645,
+        "num": 721645,
+        "word": "casetify手机壳 背刺",
+        "onboard_time": 1742390125,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 596774,
+        "num": 596774,
+        "word": "卖炒饭净赚50万的创富故事看看就好",
+        "onboard_time": 1742389824,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1188271,
+        "num": 593381,
+        "word": "拔牙坠楼女子说要以死证清白",
+        "onboard_time": 1742388444,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524414,
+        "num": 524414,
+        "word": "孙杨400自银牌",
+        "onboard_time": 1742387844,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404345,
+        "num": 404345,
+        "word": "碧梨 歌手2025",
+        "onboard_time": 1742388146,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94808,
+        "num": 397485,
+        "word": "老外第一次来中国的反应亮了",
+        "onboard_time": 1742393665,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68414,
+        "num": 392950,
+        "word": "孙杨说下一个赛场见",
+        "onboard_time": 1742393545,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2692107,
+        "num": 388000,
+        "word": "金赛纶曾堕胎",
+        "onboard_time": 1742391326,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 907115,
+        "num": 381367,
+        "word": "杨天真瘦到了124斤",
+        "onboard_time": 1742384723,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461424,
+        "num": 372897,
+        "word": "女子出差险遭强奸又被公司劝离职",
+        "onboard_time": 1742393124,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 840413,
+        "num": 364943,
+        "word": "湖北大学",
+        "onboard_time": 1742391205,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 782004,
+        "num": 359733,
+        "word": "网友在日本捡到热巴的签证",
+        "onboard_time": 1742391444,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355870,
+        "num": 355870,
+        "word": "秦岚演我生理性厌恶",
+        "onboard_time": 1742384664,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321754,
+        "num": 321754,
+        "word": "章若楠第二套",
+        "onboard_time": 1742382984,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273176,
+        "num": 273176,
+        "word": "雁回时",
+        "onboard_time": 1742378663,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118532,
+        "num": 273125,
+        "word": "谢娜机场吃一碗热气腾腾的过桥米线",
+        "onboard_time": 1742392525,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81181,
+        "num": 269957,
+        "word": "律师解读女子疑因被拔错牙坠楼身亡",
+        "onboard_time": 1742392824,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1384792,
+        "num": 266542,
+        "word": "金赛纶曾秒删结婚ins",
+        "onboard_time": 1742392286,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 952887,
+        "num": 264282,
+        "word": "关晓彤造型师又有什么心事了",
+        "onboard_time": 1742378723,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 708762,
+        "num": 262508,
+        "word": "全场惊呼刘亦菲太美了",
+        "onboard_time": 1742380823,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 645130,
+        "num": 260130,
+        "word": "父亲偷偷再婚女儿得知马上立遗嘱",
+        "onboard_time": 1742380583,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29078,
+        "num": 257308,
+        "word": "顺风车司机加价未果把乘客丢高速上",
+        "onboard_time": 1742393967,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381688,
+        "num": 256050,
+        "word": "女子疑因被拔错牙后坠楼身亡",
+        "onboard_time": 1742374762,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385580,
+        "num": 252756,
+        "word": "关晓彤的第二套",
+        "onboard_time": 1742389344,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252222,
+        "num": 252222,
+        "word": "景甜出场哇声一片",
+        "onboard_time": 1742383465,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269510,
+        "num": 250822,
+        "word": "赵露思ins晒和马伯骞合照",
+        "onboard_time": 1742386884,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21790,
+        "num": 229150,
+        "word": "庞麦郎巡演上海站已售罄",
+        "onboard_time": 1742393244,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218413,
+        "num": 218413,
+        "word": "中学老师当学生面踩死猫扔垃圾桶",
+        "onboard_time": 1742389644,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217125,
+        "num": 217125,
+        "word": "昀牵孟绕",
+        "onboard_time": 1742376024,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197011,
+        "num": 197011,
+        "word": "李敏镐时隔9年来上海",
+        "onboard_time": 1742389703,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179860,
+        "num": 179860,
+        "word": "还得是刘亦菲",
+        "onboard_time": 1742376203,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177457,
+        "num": 177457,
+        "word": "陈都灵眼神戏已经进化成这样了",
+        "onboard_time": 1742391385,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173865,
+        "num": 173865,
+        "word": "金智媛露腰礼服",
+        "onboard_time": 1742388146,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172621,
+        "num": 172621,
+        "word": "日本记者就中国抗战胜利80周年提问",
+        "onboard_time": 1742382745,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172027,
+        "num": 172027,
+        "word": "章若楠 洋娃娃",
+        "onboard_time": 1742383224,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171750,
+        "num": 171750,
+        "word": "丁禹兮问祝绪丹为什么不唱消散对白",
+        "onboard_time": 1742385563,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163699,
+        "num": 163699,
+        "word": "金秀贤确定出席中国台湾高雄樱花季",
+        "onboard_time": 1742391626,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163001,
+        "num": 163001,
+        "word": "明天就春分了",
+        "onboard_time": 1742391626,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154712,
+        "num": 154712,
+        "word": "吴宣仪被问为什么只给王源打电话",
+        "onboard_time": 1742379864,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154140,
+        "num": 154140,
+        "word": "白鹿今天有两个人追星成功",
+        "onboard_time": 1742388503,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153593,
+        "num": 153593,
+        "word": "辞职看世界当事人看完世界回来了",
+        "onboard_time": 1742384843,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142711,
+        "num": 142711,
+        "word": "凑崎纱夏 歌手2025",
+        "onboard_time": 1742381544,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139933,
+        "num": 139933,
+        "word": "孙杨回应被小16岁对手反超",
+        "onboard_time": 1742386943,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137478,
+        "num": 137478,
+        "word": "当学生面虐杀猫老师公开道歉",
+        "onboard_time": 1742393967,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136370,
+        "num": 136370,
+        "word": "上海韵达货运被立案调查",
+        "onboard_time": 1742378843,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134610,
+        "num": 134610,
+        "word": "景区哪吒塑像被指相貌丑陋",
+        "onboard_time": 1742389943,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125745,
+        "num": 125745,
+        "word": "夏之光死脑子快转啊",
+        "onboard_time": 1742391685,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展是中国式现代化的必然要求#"
+    }
+  }
+}
