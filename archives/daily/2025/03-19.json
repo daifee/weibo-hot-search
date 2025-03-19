@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742377362004,
+  "endTime": 1742380005650,
   "band_list": [
     {
       "raw_hot": 3159189,
@@ -9,6 +9,22 @@
       "onboard_time": 1742374762,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2787471,
+      "num": 2787471,
+      "word": "关晓彤造型师又有什么心事了",
+      "onboard_time": 1742378723,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 2290585,
+      "num": 1234110,
+      "word": "还得是刘亦菲",
+      "onboard_time": 1742376203,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2160575,
@@ -81,14 +97,6 @@
       "onboard_time": 1742353582,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1234110,
-      "num": 1234110,
-      "word": "还得是刘亦菲",
-      "onboard_time": 1742376203,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1223096,
@@ -281,6 +289,22 @@
       "onboard_time": 1742357664,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 816057,
+      "num": 816057,
+      "word": "安庆市立医院",
+      "onboard_time": 1742376262,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 797551,
+      "num": 797551,
+      "word": "十万一针抗癌药成本仅3000元",
+      "onboard_time": 1742378304,
+      "rank": 4,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 776302,
@@ -515,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467463,
+      "num": 467463,
+      "word": "花香蓝莓会成为下一个阳光玫瑰吗",
+      "onboard_time": 1742376443,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 466719,
       "num": 337179,
       "word": "34岁孙杨被小16岁对手反超",
@@ -579,6 +611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 406371,
+      "num": 406371,
+      "word": "魏大勋 新郎级别",
+      "onboard_time": 1742376983,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 397483,
       "num": 326738,
       "word": "无穷小亮鉴定网络热门生物周深",
@@ -604,7 +644,7 @@
     },
     {
       "raw_hot": 390203,
-      "num": 390203,
+      "num": 410261,
       "word": "aespa黑裙红毯",
       "onboard_time": 1742372423,
       "rank": 28,
@@ -664,6 +704,14 @@
       "word": "女生做了人工阴道后仍感染HPV",
       "onboard_time": 1742294783,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352689,
+      "num": 466377,
+      "word": "上海韵达货运被立案调查",
+      "onboard_time": 1742378843,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -731,12 +779,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 312978,
-      "num": 312978,
-      "word": "花香蓝莓会成为下一个阳光玫瑰吗",
-      "onboard_time": 1742376443,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 316095,
+      "num": 198883,
+      "word": "霸王茶姬",
+      "onboard_time": 1742379142,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 314118,
+      "num": 453814,
+      "word": "章若楠2025春夏高定",
+      "onboard_time": 1742375182,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 312333,
@@ -763,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292815,
+      "num": 448523,
+      "word": "雁回时",
+      "onboard_time": 1742378663,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290828,
       "num": 262938,
       "word": "虞书欣美得我一激灵",
@@ -777,6 +841,14 @@
       "onboard_time": 1742366002,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285259,
+      "num": 285259,
+      "word": "董宇辉称要向李佳琦学习",
+      "onboard_time": 1742379023,
+      "rank": 33,
+      "category": "财经,网红"
     },
     {
       "raw_hot": 283940,
@@ -891,6 +963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 256962,
+      "num": 398245,
+      "word": "关晓彤红裙高定",
+      "onboard_time": 1742378603,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256924,
       "num": 256924,
       "word": "金秀贤代言品牌回应",
@@ -913,14 +993,6 @@
       "onboard_time": 1742364502,
       "rank": 22,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 252432,
-      "num": 214570,
-      "word": "安庆市立医院",
-      "onboard_time": 1742376262,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250333,
@@ -963,20 +1035,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 241150,
-      "num": 241150,
-      "word": "章若楠2025春夏高定",
-      "onboard_time": 1742375182,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 235558,
       "num": 235558,
       "word": "我明天也这么起床",
       "onboard_time": 1742354482,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 235226,
+      "num": 396401,
+      "word": "许凯牵着何赛飞吴彦姝走红毯",
+      "onboard_time": 1742378782,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 233724,
@@ -1115,12 +1187,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 207711,
-      "num": 207711,
-      "word": "魏大勋 新郎级别",
-      "onboard_time": 1742376983,
-      "rank": 39,
-      "category": "作品衍生,时尚"
+      "raw_hot": 208317,
+      "num": 208317,
+      "word": "李昀锐高定look",
+      "onboard_time": 1742379142,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208200,
+      "num": 208200,
+      "word": "腾讯2024年净利润2227亿",
+      "onboard_time": 1742376502,
+      "rank": 48,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 207629,
+      "num": 207629,
+      "word": "于适我的阿勒泰",
+      "onboard_time": 1742379262,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 206962,
@@ -1235,6 +1323,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194980,
+      "num": 194980,
+      "word": "童瑶的耳环比耳朵都大",
+      "onboard_time": 1742379683,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194387,
+      "num": 194387,
+      "word": "吴宣仪被问为什么只给王源打电话",
+      "onboard_time": 1742379864,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194227,
       "num": 194227,
       "word": "孟子义不想去浪姐出洋相",
@@ -1249,6 +1353,14 @@
       "onboard_time": 1742351241,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193311,
+      "num": 195070,
+      "word": "李沁电视剧品质盛典出图",
+      "onboard_time": 1742379745,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 192005,
@@ -1273,6 +1385,14 @@
       "onboard_time": 1742357603,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188309,
+      "num": 188309,
+      "word": "QQ月活下降5%",
+      "onboard_time": 1742379923,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 188203,
@@ -1363,6 +1483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179243,
+      "num": 179243,
+      "word": "虞书欣为乘风2025打call",
+      "onboard_time": 1742378603,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177610,
       "num": 177610,
       "word": "南波万男团为罗予彤浪姐打call",
@@ -1441,14 +1569,6 @@
       "onboard_time": 1742318776,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 165652,
-      "num": 165652,
-      "word": "腾讯2024年净利润2227亿",
-      "onboard_time": 1742376502,
-      "rank": 48,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 164744,
@@ -1627,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137409,
+      "num": 369438,
+      "word": "普京就美方30天停火提议提出要求",
+      "onboard_time": 1742377223,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137041,
       "num": 137041,
       "word": "傅菁 雁回时",
@@ -1705,6 +1833,14 @@
       "onboard_time": 1742343622,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 126124,
+      "num": 382304,
+      "word": "黎深冷气猫热心冰奶茶",
+      "onboard_time": 1742378843,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 125763,
@@ -2003,6 +2139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70898,
+      "num": 342078,
+      "word": "乌合麒麟新作还原中美AI诸神之战",
+      "onboard_time": 1742378782,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 68293,
       "num": 68293,
       "word": "夫妻争吵妻子跳楼致残被丈夫送回娘家",
@@ -2107,6 +2251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58221,
+      "num": 422910,
+      "word": "滞留太空9月宇航员需做45天复健",
+      "onboard_time": 1742378903,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57619,
       "num": 226769,
       "word": "店方回应食客用餐具喂狗",
@@ -2121,6 +2273,14 @@
       "onboard_time": 1742334974,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 56897,
+      "num": 1187799,
+      "word": "农业新质生产力让春耕一键起飞",
+      "onboard_time": 1742377580,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56134,
@@ -2153,6 +2313,14 @@
       "onboard_time": 1742328973,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52180,
+      "num": 419096,
+      "word": "总算有家电把AI玩明白了",
+      "onboard_time": 1742377884,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 51904,
@@ -2203,20 +2371,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47273,
+      "num": 440623,
+      "word": "李嘉诚出售的港口有多重要",
+      "onboard_time": 1742379562,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46424,
       "num": 1014851,
       "word": "9图了解提振消费专项行动方案",
       "onboard_time": 1742302823,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44908,
-      "num": 215272,
-      "word": "普京就美方30天停火提议提出要求",
-      "onboard_time": 1742377223,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 44259,
@@ -2411,6 +2579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21369,
+      "num": 432851,
+      "word": "国安部公开4名台独网军身份信息",
+      "onboard_time": 1742379444,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20766,
       "num": 215539,
       "word": "学者建言生育成本共担",
@@ -2425,6 +2601,14 @@
       "onboard_time": 1742329334,
       "rank": 38,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 19942,
+      "num": 355242,
+      "word": "亲友回忆因救人溺亡的19岁女孩",
+      "onboard_time": 1742378544,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16626,
@@ -2451,6 +2635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 15128,
+      "num": 346337,
+      "word": "爱不释手的春夏炸街单品",
+      "onboard_time": 1742379562,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 14677,
       "num": 21274,
       "word": "华莱士将开展30天卫生抽查",
@@ -2472,6 +2664,14 @@
       "word": "文化中国行走进侗乡第一寨",
       "onboard_time": 1742377103,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12270,
+      "num": 432156,
+      "word": "台资通电军倚网谋独终是死路一条",
+      "onboard_time": 1742379504,
+      "rank": 17,
       "category": "国内时政"
     },
     {
@@ -2498,6 +2698,9 @@
     },
     {
       "word": "#习近平谈文旅融合#"
+    },
+    {
+      "word": "#让民族特色不断焕发新的光彩#"
     }
   ]
 }
