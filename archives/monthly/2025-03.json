@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742350275525,
+  "endTime": 1742353306057,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -905,6 +905,14 @@
       "onboard_time": 1740883218,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2063104,
+      "num": 2063104,
+      "word": "韩星李准基涉嫌逃税",
+      "onboard_time": 1742349921,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 2061435,
@@ -2803,6 +2811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1209694,
+      "num": 282385,
+      "word": "周六野怀孕",
+      "onboard_time": 1742350222,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1209553,
       "num": 1209553,
       "word": "网店因鞋子涨价坚持不发货只能退",
@@ -3961,6 +3977,14 @@
       "onboard_time": 1740959658,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1001884,
+      "num": 1001884,
+      "word": "美2名宇航员286天加班费1148美元",
+      "onboard_time": 1742349500,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1001725,
@@ -6729,6 +6753,14 @@
       "onboard_time": 1742003781,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 698142,
+      "num": 393609,
+      "word": "还是金秀贤自己拍的",
+      "onboard_time": 1742347882,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 697178,
@@ -10931,6 +10963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 444716,
+      "num": 444716,
+      "word": "为什么中国航天员能按时回地球",
+      "onboard_time": 1742350400,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 443604,
       "num": 443604,
       "word": "装修快收尾时才发现装错了房子",
@@ -11355,14 +11395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 430734,
-      "num": 393609,
-      "word": "还是金秀贤自己拍的",
-      "onboard_time": 1742347882,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 430487,
       "num": 430487,
       "word": "张文宏说采访他的记者肚子太大",
@@ -11385,6 +11417,14 @@
       "onboard_time": 1742282842,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 429743,
+      "num": 259634,
+      "word": "何泓姗回复陈都灵",
+      "onboard_time": 1742351962,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 428344,
@@ -11433,6 +11473,14 @@
       "onboard_time": 1740812552,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 427638,
+      "num": 235815,
+      "word": "中学讲座称女孩打扮是为了吸引男性",
+      "onboard_time": 1742350461,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 427423,
@@ -12201,14 +12249,6 @@
       "onboard_time": 1740835883,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 399507,
-      "num": 399507,
-      "word": "美2名宇航员286天加班费1148美元",
-      "onboard_time": 1742349500,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 398815,
@@ -15025,6 +15065,14 @@
       "onboard_time": 1741340302,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 322811,
+      "num": 322811,
+      "word": "浪姐6二公结果",
+      "onboard_time": 1742351661,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 322772,
@@ -18147,6 +18195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260843,
+      "num": 260843,
+      "word": "解读李嘉诚家族的生存法则",
+      "onboard_time": 1742350941,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 260473,
       "num": 341880,
       "word": "黄晓明晒爸爸年轻时旧照",
@@ -19544,14 +19600,6 @@
       "word": "王鹤棣 霸王茶姬",
       "onboard_time": 1740918801,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 238347,
-      "num": 238347,
-      "word": "韩星李准基涉嫌逃税",
-      "onboard_time": 1742349921,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -22187,6 +22235,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 210771,
+      "num": 210771,
+      "word": "金饰价格飙到916元",
+      "onboard_time": 1742350941,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 210671,
       "num": 210671,
       "word": "死活读不下去名著排行榜",
@@ -23835,6 +23891,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 200542,
+      "num": 242772,
+      "word": "李准基回应涉嫌逃税",
+      "onboard_time": 1742352022,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200460,
       "num": 200460,
       "word": "孙颖莎9比11王艺迪",
@@ -24963,6 +25027,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 193751,
+      "num": 193751,
+      "word": "TVB女演员梁珈咏商场摆摊",
+      "onboard_time": 1742351241,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193742,
       "num": 193742,
       "word": "马嘉祺cos黑熊精",
@@ -25297,6 +25369,14 @@
       "onboard_time": 1741503261,
       "rank": 26,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 192342,
+      "num": 200225,
+      "word": "速度与激情7",
+      "onboard_time": 1742352501,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 192320,
@@ -26209,6 +26289,14 @@
       "onboard_time": 1741072158,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 187327,
+      "num": 199181,
+      "word": "麻花特开心",
+      "onboard_time": 1742352501,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 187219,
@@ -27297,6 +27385,14 @@
       "onboard_time": 1740803478,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180235,
+      "num": 180235,
+      "word": "全运会",
+      "onboard_time": 1742351361,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 180234,
@@ -28441,6 +28537,14 @@
       "onboard_time": 1741581804,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173016,
+      "num": 173016,
+      "word": "听泉鉴宝回应辛云来像他",
+      "onboard_time": 1742353041,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 173001,
@@ -32179,6 +32283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154444,
+      "num": 154444,
+      "word": "胖东来郑州店地址",
+      "onboard_time": 1742353101,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154442,
       "num": 154442,
       "word": "何老师眼里是真有活儿",
@@ -33627,6 +33739,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 148006,
+      "num": 148006,
+      "word": "入职北大孙环波本科是民办高校",
+      "onboard_time": 1742351841,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 147938,
       "num": 147938,
       "word": "白玉兰奖6月27日揭晓",
@@ -35011,6 +35131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141463,
+      "num": 141463,
+      "word": "普京拒绝陆海空全面停火30天建议",
+      "onboard_time": 1742352863,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141433,
       "num": 141433,
       "word": "甜茶刮胡子了",
@@ -35537,6 +35665,14 @@
       "onboard_time": 1742124683,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139776,
+      "num": 201124,
+      "word": "特朗普回应普京未同意停火30天",
+      "onboard_time": 1742349561,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139772,
@@ -36137,14 +36273,6 @@
       "onboard_time": 1740916280,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136825,
-      "num": 136825,
-      "word": "特朗普回应普京未同意停火30天",
-      "onboard_time": 1742349561,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136822,
@@ -39577,6 +39705,14 @@
       "onboard_time": 1741517543,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122176,
+      "num": 122176,
+      "word": "中方敦促以色列放弃使用武力的执念",
+      "onboard_time": 1742352322,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122145,
@@ -43587,14 +43723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104421,
-      "num": 104421,
-      "word": "周六野怀孕",
-      "onboard_time": 1742350222,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 104316,
       "num": 104316,
       "word": "男子网恋转40万发现女友竟已婚",
@@ -44873,6 +45001,14 @@
       "onboard_time": 1741444403,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 98378,
+      "num": 205641,
+      "word": "WTT世界乒联祝林高远生日快乐",
+      "onboard_time": 1742352981,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 98332,
@@ -49228,7 +49364,7 @@
     },
     {
       "raw_hot": 68931,
-      "num": 915518,
+      "num": 1012530,
       "word": "9图了解提振消费专项行动方案",
       "onboard_time": 1742302823,
       "rank": 2,
@@ -59153,6 +59289,14 @@
       "onboard_time": 1740958395,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7091,
+      "num": 142916,
+      "word": "什么样的防晒衣才能有效防晒",
+      "onboard_time": 1742353220,
+      "rank": 45,
+      "category": "时尚"
     },
     {
       "raw_hot": 6871,

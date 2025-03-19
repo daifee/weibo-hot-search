@@ -1,7 +1,15 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742350275525,
+  "endTime": 1742353306057,
   "band_list": [
+    {
+      "raw_hot": 2063104,
+      "num": 2063104,
+      "word": "韩星李准基涉嫌逃税",
+      "onboard_time": 1742349921,
+      "rank": 24,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1651035,
       "num": 1651035,
@@ -25,6 +33,14 @@
       "onboard_time": 1742309126,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1209694,
+      "num": 282385,
+      "word": "周六野怀孕",
+      "onboard_time": 1742350222,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 1209553,
@@ -67,6 +83,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1001884,
+      "num": 1001884,
+      "word": "美2名宇航员286天加班费1148美元",
+      "onboard_time": 1742349500,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 942169,
       "num": 942169,
       "word": "媒体评蜜雪冰城别把宽容变纵容",
@@ -81,6 +105,14 @@
       "onboard_time": 1742341100,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 698142,
+      "num": 393609,
+      "word": "还是金秀贤自己拍的",
+      "onboard_time": 1742347882,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 665137,
@@ -155,6 +187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 444716,
+      "num": 444716,
+      "word": "为什么中国航天员能按时回地球",
+      "onboard_time": 1742350400,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 442450,
       "num": 442450,
       "word": "美滞留女宇航员曾承认健康出问题",
@@ -171,20 +211,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 430734,
-      "num": 393609,
-      "word": "还是金秀贤自己拍的",
-      "onboard_time": 1742347882,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 429743,
+      "num": 259634,
+      "word": "何泓姗回复陈都灵",
+      "onboard_time": 1742351962,
+      "rank": 18,
+      "category": "剧集"
     },
     {
-      "raw_hot": 399507,
-      "num": 399507,
-      "word": "美2名宇航员286天加班费1148美元",
-      "onboard_time": 1742349500,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 427638,
+      "num": 235815,
+      "word": "中学讲座称女孩打扮是为了吸引男性",
+      "onboard_time": 1742350461,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 395109,
@@ -251,6 +291,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 322811,
+      "num": 322811,
+      "word": "浪姐6二公结果",
+      "onboard_time": 1742351661,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312333,
       "num": 223335,
       "word": "虞书欣方发声明维权",
@@ -299,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260843,
+      "num": 260843,
+      "word": "解读李嘉诚家族的生存法则",
+      "onboard_time": 1742350941,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 258645,
       "num": 258645,
       "word": "贵女",
@@ -313,14 +369,6 @@
       "onboard_time": 1742305882,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 238347,
-      "num": 238347,
-      "word": "韩星李准基涉嫌逃税",
-      "onboard_time": 1742349921,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 233724,
@@ -355,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210771,
+      "num": 210771,
+      "word": "金饰价格飙到916元",
+      "onboard_time": 1742350941,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 209970,
       "num": 209970,
       "word": "哈马斯证实多名高层死于以军空袭",
@@ -387,6 +443,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200542,
+      "num": 242772,
+      "word": "李准基回应涉嫌逃税",
+      "onboard_time": 1742352022,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193751,
+      "num": 193751,
+      "word": "TVB女演员梁珈咏商场摆摊",
+      "onboard_time": 1742351241,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192342,
+      "num": 200225,
+      "word": "速度与激情7",
+      "onboard_time": 1742352501,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188203,
       "num": 188203,
       "word": "景甜术后首次直播透露近况",
@@ -395,12 +475,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187327,
+      "num": 199181,
+      "word": "麻花特开心",
+      "onboard_time": 1742352501,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182304,
       "num": 250800,
       "word": "王皓谈樊振东缺席澳门世界杯原因",
       "onboard_time": 1742346564,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180235,
+      "num": 180235,
+      "word": "全运会",
+      "onboard_time": 1742351361,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 173016,
+      "num": 173016,
+      "word": "听泉鉴宝回应辛云来像他",
+      "onboard_time": 1742353041,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 170138,
@@ -467,6 +571,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154444,
+      "num": 154444,
+      "word": "胖东来郑州店地址",
+      "onboard_time": 1742353101,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148006,
+      "num": 148006,
+      "word": "入职北大孙环波本科是民办高校",
+      "onboard_time": 1742351841,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 143127,
       "num": 143127,
       "word": "良好睡眠要在30分钟内入睡",
@@ -475,20 +595,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141463,
+      "num": 141463,
+      "word": "普京拒绝陆海空全面停火30天建议",
+      "onboard_time": 1742352863,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 139776,
+      "num": 201124,
+      "word": "特朗普回应普京未同意停火30天",
+      "onboard_time": 1742349561,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137041,
       "num": 137041,
       "word": "傅菁 雁回时",
       "onboard_time": 1742305044,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136825,
-      "num": 136825,
-      "word": "特朗普回应普京未同意停火30天",
-      "onboard_time": 1742349561,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 135494,
@@ -537,6 +665,14 @@
       "onboard_time": 1742310204,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122176,
+      "num": 122176,
+      "word": "中方敦促以色列放弃使用武力的执念",
+      "onboard_time": 1742352322,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119836,
@@ -595,14 +731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104421,
-      "num": 104421,
-      "word": "周六野怀孕",
-      "onboard_time": 1742350222,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 102593,
       "num": 102593,
       "word": "贵女 天崩开局",
@@ -625,6 +753,14 @@
       "onboard_time": 1742309906,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98378,
+      "num": 205641,
+      "word": "WTT世界乒联祝林高远生日快乐",
+      "onboard_time": 1742352981,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 97852,
@@ -828,7 +964,7 @@
     },
     {
       "raw_hot": 46424,
-      "num": 915518,
+      "num": 1012530,
       "word": "9图了解提振消费专项行动方案",
       "onboard_time": 1742302823,
       "rank": 2,
@@ -937,6 +1073,14 @@
       "onboard_time": 1742324294,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7091,
+      "num": 142916,
+      "word": "什么样的防晒衣才能有效防晒",
+      "onboard_time": 1742353220,
+      "rank": 45,
+      "category": "时尚"
     }
   ],
   "hotgov_list": [

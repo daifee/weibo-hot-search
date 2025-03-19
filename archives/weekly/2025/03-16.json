@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742350275525,
+  "endTime": 1742353306057,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -217,6 +217,14 @@
       "onboard_time": 1742299283,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2063104,
+      "num": 2063104,
+      "word": "韩星李准基涉嫌逃税",
+      "onboard_time": 1742349921,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 2061435,
@@ -691,6 +699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1209694,
+      "num": 282385,
+      "word": "周六野怀孕",
+      "onboard_time": 1742350222,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1209553,
       "num": 1209553,
       "word": "网店因鞋子涨价坚持不发货只能退",
@@ -977,6 +993,14 @@
       "onboard_time": 1742185764,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1001884,
+      "num": 1001884,
+      "word": "美2名宇航员286天加班费1148美元",
+      "onboard_time": 1742349500,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 998065,
@@ -1592,6 +1616,14 @@
       "word": "苗苗躺在郑恺怀里睡觉",
       "onboard_time": 1742127263,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 698142,
+      "num": 393609,
+      "word": "还是金秀贤自己拍的",
+      "onboard_time": 1742347882,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -2403,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444716,
+      "num": 444716,
+      "word": "为什么中国航天员能按时回地球",
+      "onboard_time": 1742350400,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 443131,
       "num": 292510,
       "word": "余承东邀尼格买提逛3200平的家",
@@ -2483,14 +2523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 430734,
-      "num": 393609,
-      "word": "还是金秀贤自己拍的",
-      "onboard_time": 1742347882,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 429926,
       "num": 429926,
       "word": "李家超三问李嘉诚拟出售巴拿马港口",
@@ -2499,12 +2531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429743,
+      "num": 259634,
+      "word": "何泓姗回复陈都灵",
+      "onboard_time": 1742351962,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 429222,
       "num": 429222,
       "word": "七度空间称和曝光企业无合作",
       "onboard_time": 1742051012,
       "rank": 26,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 427638,
+      "num": 235815,
+      "word": "中学讲座称女孩打扮是为了吸引男性",
+      "onboard_time": 1742350461,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 426395,
@@ -2641,14 +2689,6 @@
       "onboard_time": 1742275165,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 399507,
-      "num": 399507,
-      "word": "美2名宇航员286天加班费1148美元",
-      "onboard_time": 1742349500,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 396488,
@@ -3041,6 +3081,14 @@
       "onboard_time": 1742221104,
       "rank": 47,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 322811,
+      "num": 322811,
+      "word": "浪姐6二公结果",
+      "onboard_time": 1742351661,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 321665,
@@ -3579,6 +3627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260843,
+      "num": 260843,
+      "word": "解读李嘉诚家族的生存法则",
+      "onboard_time": 1742350941,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 260039,
       "num": 260039,
       "word": "睡眠负债的人身体有9个表现",
@@ -3953,14 +4009,6 @@
       "onboard_time": 1742103143,
       "rank": 18,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 238347,
-      "num": 238347,
-      "word": "韩星李准基涉嫌逃税",
-      "onboard_time": 1742349921,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 237331,
@@ -4491,6 +4539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210771,
+      "num": 210771,
+      "word": "金饰价格飙到916元",
+      "onboard_time": 1742350941,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 210671,
       "num": 210671,
       "word": "死活读不下去名著排行榜",
@@ -4835,6 +4891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200542,
+      "num": 242772,
+      "word": "李准基回应涉嫌逃税",
+      "onboard_time": 1742352022,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200460,
       "num": 200460,
       "word": "孙颖莎9比11王艺迪",
@@ -5075,6 +5139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193751,
+      "num": 193751,
+      "word": "TVB女演员梁珈咏商场摆摊",
+      "onboard_time": 1742351241,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193714,
       "num": 315632,
       "word": "中方回应今天在台海附近开展军演",
@@ -5137,6 +5209,14 @@
       "onboard_time": 1742295803,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192342,
+      "num": 200225,
+      "word": "速度与激情7",
+      "onboard_time": 1742352501,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 191728,
@@ -5363,6 +5443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187327,
+      "num": 199181,
+      "word": "麻花特开心",
+      "onboard_time": 1742352501,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187095,
       "num": 234705,
       "word": "DeepSeek总结315晚会",
@@ -5587,6 +5675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 180235,
+      "num": 180235,
+      "word": "全运会",
+      "onboard_time": 1742351361,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180178,
       "num": 180178,
       "word": "孙颖莎奖杯自拍",
@@ -5753,6 +5849,14 @@
       "onboard_time": 1742049153,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173016,
+      "num": 173016,
+      "word": "听泉鉴宝回应辛云来像他",
+      "onboard_time": 1742353041,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 172783,
@@ -6411,6 +6515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154444,
+      "num": 154444,
+      "word": "胖东来郑州店地址",
+      "onboard_time": 1742353101,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154394,
       "num": 154394,
       "word": "周星驰新电影女足路透",
@@ -6697,6 +6809,14 @@
       "onboard_time": 1742193863,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148006,
+      "num": 148006,
+      "word": "入职北大孙环波本科是民办高校",
+      "onboard_time": 1742351841,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 147938,
@@ -6995,6 +7115,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 141463,
+      "num": 141463,
+      "word": "普京拒绝陆海空全面停火30天建议",
+      "onboard_time": 1742352863,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140970,
       "num": 754529,
       "word": "中央财政提前下达以旧换新首批资金",
@@ -7049,6 +7177,14 @@
       "onboard_time": 1742124683,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139776,
+      "num": 201124,
+      "word": "特朗普回应普京未同意停火30天",
+      "onboard_time": 1742349561,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139604,
@@ -7145,14 +7281,6 @@
       "onboard_time": 1742287345,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136825,
-      "num": 136825,
-      "word": "特朗普回应普京未同意停火30天",
-      "onboard_time": 1742349561,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136822,
@@ -7795,6 +7923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122176,
+      "num": 122176,
+      "word": "中方敦促以色列放弃使用武力的执念",
+      "onboard_time": 1742352322,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121992,
       "num": 121992,
       "word": "TF家族练习生2025全新公式照",
@@ -8371,14 +8507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104421,
-      "num": 104421,
-      "word": "周六野怀孕",
-      "onboard_time": 1742350222,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 103960,
       "num": 103960,
       "word": "女孩玩手机半年度数飙升至1700度",
@@ -8544,6 +8672,14 @@
       "word": "乔治赛季报销",
       "onboard_time": 1742256983,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98378,
+      "num": 205641,
+      "word": "WTT世界乒联祝林高远生日快乐",
+      "onboard_time": 1742352981,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -9204,7 +9340,7 @@
     },
     {
       "raw_hot": 68931,
-      "num": 915518,
+      "num": 1012530,
       "word": "9图了解提振消费专项行动方案",
       "onboard_time": 1742302823,
       "rank": 2,
@@ -10921,6 +11057,14 @@
       "onboard_time": 1742203522,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7091,
+      "num": 142916,
+      "word": "什么样的防晒衣才能有效防晒",
+      "onboard_time": 1742353220,
+      "rank": 45,
+      "category": "时尚"
     }
   ],
   "hotgov_list": [

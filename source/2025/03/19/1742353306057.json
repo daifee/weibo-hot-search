@@ -1,0 +1,410 @@
+{
+  "runTime": 1742353306057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2063104,
+        "num": 2063104,
+        "word": "韩星李准基涉嫌逃税",
+        "onboard_time": 1742349921,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1128641,
+        "num": 1128641,
+        "word": "男子出卖大量国家秘密被判死刑",
+        "onboard_time": 1742342420,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35452,
+        "num": 1012530,
+        "word": "9图了解提振消费专项行动方案",
+        "onboard_time": 1742302823,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1001884,
+        "num": 1001884,
+        "word": "美2名宇航员286天加班费1148美元",
+        "onboard_time": 1742349500,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 655236,
+        "num": 655236,
+        "word": "网店因鞋子涨价坚持不发货只能退",
+        "onboard_time": 1742346441,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444716,
+        "num": 444716,
+        "word": "为什么中国航天员能按时回地球",
+        "onboard_time": 1742350400,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 439181,
+        "num": 439181,
+        "word": "美国公布肯尼迪遇刺事件记录",
+        "onboard_time": 1742341100,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 322811,
+        "num": 322811,
+        "word": "浪姐6二公结果",
+        "onboard_time": 1742351661,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288365,
+        "num": 288365,
+        "word": "美2名流浪宇航员被转移至救援船",
+        "onboard_time": 1742342420,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207971,
+        "num": 287984,
+        "word": "赵丽颖换了沈璃背景图",
+        "onboard_time": 1742343683,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1209694,
+        "num": 282385,
+        "word": "周六野怀孕",
+        "onboard_time": 1742350222,
+        "rank": 10,
+        "category": "网红,运动健身"
+      },
+      {
+        "raw_hot": 722093,
+        "num": 278909,
+        "word": "好多媒体报道丁禹兮救人",
+        "onboard_time": 1742344402,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 698142,
+        "num": 277021,
+        "word": "还是金秀贤自己拍的",
+        "onboard_time": 1742347882,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695156,
+        "num": 271992,
+        "word": "林依晨二胎",
+        "onboard_time": 1742346441,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 681069,
+        "num": 268876,
+        "word": "李现樊振东日本逛街",
+        "onboard_time": 1742345183,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 632552,
+        "num": 267424,
+        "word": "媒体评蜜雪冰城别把宽容变纵容",
+        "onboard_time": 1742307503,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 510784,
+        "num": 264008,
+        "word": "高以翔生前女友官宣结婚",
+        "onboard_time": 1742309126,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260843,
+        "num": 260843,
+        "word": "解读李嘉诚家族的生存法则",
+        "onboard_time": 1742350941,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 429743,
+        "num": 259634,
+        "word": "何泓姗回复陈都灵",
+        "onboard_time": 1742351962,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200542,
+        "num": 242772,
+        "word": "李准基回应涉嫌逃税",
+        "onboard_time": 1742352022,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427638,
+        "num": 235815,
+        "word": "中学讲座称女孩打扮是为了吸引男性",
+        "onboard_time": 1742350461,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402757,
+        "num": 221549,
+        "word": "韩安冉因抽脂身上到处是疤",
+        "onboard_time": 1742344704,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 402128,
+        "num": 219197,
+        "word": "3岁男孩疑在水深20厘米浴缸中溺亡",
+        "onboard_time": 1742343922,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210771,
+        "num": 210771,
+        "word": "金饰价格飙到916元",
+        "onboard_time": 1742350941,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98378,
+        "num": 205641,
+        "word": "WTT世界乒联祝林高远生日快乐",
+        "onboard_time": 1742352981,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201521,
+        "num": 201521,
+        "word": "杨紫家业三次开机",
+        "onboard_time": 1742341943,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139776,
+        "num": 201124,
+        "word": "特朗普回应普京未同意停火30天",
+        "onboard_time": 1742349561,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192342,
+        "num": 200225,
+        "word": "速度与激情7",
+        "onboard_time": 1742352501,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187327,
+        "num": 199181,
+        "word": "麻花特开心",
+        "onboard_time": 1742352501,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182142,
+        "num": 198831,
+        "word": "桃花坞5首次录制",
+        "onboard_time": 1742344821,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203251,
+        "num": 197648,
+        "word": "女生误诊淋巴瘤后确诊骨肉瘤",
+        "onboard_time": 1742346144,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203794,
+        "num": 196554,
+        "word": "男子请客获海底捞补偿朋友要求平分",
+        "onboard_time": 1742307804,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196231,
+        "num": 196231,
+        "word": "美滞留女宇航员曾承认健康出问题",
+        "onboard_time": 1742345064,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193751,
+        "num": 193751,
+        "word": "TVB女演员梁珈咏商场摆摊",
+        "onboard_time": 1742351241,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180235,
+        "num": 180235,
+        "word": "全运会",
+        "onboard_time": 1742351361,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173016,
+        "num": 173016,
+        "word": "听泉鉴宝回应辛云来像他",
+        "onboard_time": 1742353041,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168885,
+        "num": 168885,
+        "word": "金秀贤方被曝在中国实名删帖",
+        "onboard_time": 1742305103,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166705,
+        "num": 166705,
+        "word": "女生做了人工阴道后仍感染HPV",
+        "onboard_time": 1742294783,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157072,
+        "num": 157072,
+        "word": "朋友结婚毒友竟随礼1克冰毒",
+        "onboard_time": 1742305882,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156750,
+        "num": 156750,
+        "word": "一日三次服药并不是指三餐前后",
+        "onboard_time": 1742346023,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154953,
+        "num": 154953,
+        "word": "中南财大学生呼吁取消3000米测试",
+        "onboard_time": 1742343683,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154444,
+        "num": 154444,
+        "word": "胖东来郑州店地址",
+        "onboard_time": 1742353101,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148006,
+        "num": 148006,
+        "word": "入职北大孙环波本科是民办高校",
+        "onboard_time": 1742351841,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147389,
+        "num": 147389,
+        "word": "周杰伦在周杰伦模仿大赛得了第二名",
+        "onboard_time": 1742341639,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145784,
+        "num": 145784,
+        "word": "男子变现339万后金价又涨了",
+        "onboard_time": 1742310025,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7091,
+        "num": 142916,
+        "word": "什么样的防晒衣才能有效防晒",
+        "onboard_time": 1742353220,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 141463,
+        "num": 141463,
+        "word": "普京拒绝陆海空全面停火30天建议",
+        "onboard_time": 1742352863,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127979,
+        "num": 127979,
+        "word": "不要一边充电一边看手机",
+        "onboard_time": 1742325015,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113185,
+        "num": 124561,
+        "word": "贵女",
+        "onboard_time": 1742314879,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122176,
+        "num": 122176,
+        "word": "中方敦促以色列放弃使用武力的执念",
+        "onboard_time": 1742352322,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中国式现代化进程中展现贵州新风采#"
+    }
+  }
+}
