@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742383243277,
+  "endTime": 1742384188407,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1459,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3321685,
+      "num": 256042,
+      "word": "曝金赛纶在海外结婚",
+      "onboard_time": 1742382686,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3315107,
       "num": 3315107,
       "word": "种地吧直播",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739857715,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2704071,
-      "num": 389701,
-      "word": "赵樱子官宣恋情",
-      "onboard_time": 1741616546,
-      "rank": 25,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

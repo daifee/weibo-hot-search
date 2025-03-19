@@ -1,0 +1,410 @@
+{
+  "runTime": 1742384188407,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 556503,
+        "num": 1089040,
+        "word": "十万一针抗癌药制备成本仅3000元",
+        "onboard_time": 1742378304,
+        "rank": 0,
+        "category": "舆论监督,健康医疗"
+      },
+      {
+        "raw_hot": 502125,
+        "num": 502125,
+        "word": "凑崎纱夏 歌手2025",
+        "onboard_time": 1742381544,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42721,
+        "num": 334987,
+        "word": "农业新质生产力让春耕一键起飞",
+        "onboard_time": 1742377580,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 265219,
+        "num": 265219,
+        "word": "章若楠 洋娃娃",
+        "onboard_time": 1742383224,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240998,
+        "num": 240998,
+        "word": "韵达漏洞致诈骗宣传品进入寄递渠道",
+        "onboard_time": 1742380642,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233207,
+        "num": 233207,
+        "word": "乐山一966万体彩大奖无人领",
+        "onboard_time": 1742380103,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244503,
+        "num": 232574,
+        "word": "雁回时",
+        "onboard_time": 1742378663,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231090,
+        "num": 231090,
+        "word": "韵达",
+        "onboard_time": 1742381362,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226366,
+        "num": 226366,
+        "word": "上海韵达货运被立案调查",
+        "onboard_time": 1742378843,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23298,
+        "num": 226286,
+        "word": "普京支持俄乌放弃袭击能源设施提议",
+        "onboard_time": 1742383585,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3321685,
+        "num": 225099,
+        "word": "曝金赛纶在海外结婚",
+        "onboard_time": 1742382686,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250677,
+        "num": 224239,
+        "word": "花2元中966万大奖一个多月无人领",
+        "onboard_time": 1742382924,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62226,
+        "num": 223749,
+        "word": "王楚钦出征全运会资格赛",
+        "onboard_time": 1742383823,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40309,
+        "num": 222943,
+        "word": "电车声称续航100公里上路1公里断电",
+        "onboard_time": 1742383705,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 29067,
+        "num": 222610,
+        "word": "高校教授用夸克AI比学生都积极",
+        "onboard_time": 1742382084,
+        "rank": 14,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 1843125,
+        "num": 221576,
+        "word": "关晓彤造型师又有什么心事了",
+        "onboard_time": 1742378723,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1395643,
+        "num": 220607,
+        "word": "父亲偷偷再婚女儿得知马上立遗嘱",
+        "onboard_time": 1742380583,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1268255,
+        "num": 219821,
+        "word": "女子疑因被拔错牙后坠楼身亡",
+        "onboard_time": 1742374762,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36602,
+        "num": 219187,
+        "word": "记者实探金包银市场",
+        "onboard_time": 1742382924,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 14372,
+        "num": 218466,
+        "word": "长和今日盘中一度跌超2%",
+        "onboard_time": 1742383523,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1177015,
+        "num": 217885,
+        "word": "全场惊呼刘亦菲太美了",
+        "onboard_time": 1742380823,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 533762,
+        "num": 216974,
+        "word": "吴宣仪被问为什么只给王源打电话",
+        "onboard_time": 1742379864,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357343,
+        "num": 216262,
+        "word": "董宇辉称离职与俞敏洪心照不宣",
+        "onboard_time": 1742376024,
+        "rank": 22,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 353011,
+        "num": 215418,
+        "word": "昀牵孟绕",
+        "onboard_time": 1742376024,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350045,
+        "num": 214770,
+        "word": "安庆市立医院",
+        "onboard_time": 1742376262,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185345,
+        "num": 213928,
+        "word": "日本记者就中国抗战胜利80周年提问",
+        "onboard_time": 1742382745,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 311880,
+        "num": 213378,
+        "word": "孙怡好六cos敖闰",
+        "onboard_time": 1742380282,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189641,
+        "num": 212600,
+        "word": "魏大勋 新郎级别",
+        "onboard_time": 1742376983,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181960,
+        "num": 211706,
+        "word": "景甜出场哇声一片",
+        "onboard_time": 1742383465,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45626,
+        "num": 211455,
+        "word": "男子长期喝网红减肥咖啡后心悸呕吐",
+        "onboard_time": 1742382567,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 630837,
+        "num": 210478,
+        "word": "还得是刘亦菲",
+        "onboard_time": 1742376203,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210086,
+        "num": 210086,
+        "word": "文韬 申公豹",
+        "onboard_time": 1742373985,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209732,
+        "num": 209732,
+        "word": "34岁孙杨被小16岁对手反超",
+        "onboard_time": 1742370982,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190229,
+        "num": 190229,
+        "word": "金秀贤回到家人身边静养",
+        "onboard_time": 1742371943,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159226,
+        "num": 188473,
+        "word": "张若昀黑羽拖地长外套造型",
+        "onboard_time": 1742382624,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187967,
+        "num": 187967,
+        "word": "教师基本功大赛老师展示无水旱游",
+        "onboard_time": 1742380043,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175096,
+        "num": 175096,
+        "word": "刚脱了羽绒服就该穿防晒衣了",
+        "onboard_time": 1742383224,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153166,
+        "num": 153166,
+        "word": "华晨宇跳kisskissshyshy",
+        "onboard_time": 1742383765,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150185,
+        "num": 150185,
+        "word": "童瑶的耳环比耳朵都大",
+        "onboard_time": 1742379683,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160660,
+        "num": 149472,
+        "word": "章若楠2025春夏高定",
+        "onboard_time": 1742375182,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148027,
+        "num": 148027,
+        "word": "李嘉诚出售的港口有多重要",
+        "onboard_time": 1742379562,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144868,
+        "num": 144868,
+        "word": "热烈",
+        "onboard_time": 1742383403,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130492,
+        "num": 142650,
+        "word": "TREASURE一位",
+        "onboard_time": 1742382745,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142182,
+        "num": 142182,
+        "word": "女子洗澡时玻璃门自爆手筋被炸断",
+        "onboard_time": 1742370562,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137543,
+        "num": 137543,
+        "word": "花香蓝莓会成为下一个阳光玫瑰吗",
+        "onboard_time": 1742376443,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131139,
+        "num": 131139,
+        "word": "许凯牵着何赛飞吴彦姝走红毯",
+        "onboard_time": 1742378782,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122772,
+        "num": 122772,
+        "word": "番茄夹乌梅",
+        "onboard_time": 1742372423,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114867,
+        "num": 114867,
+        "word": "胡杏儿老公回应搂抱美女",
+        "onboard_time": 1742360423,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114821,
+        "num": 114821,
+        "word": "董宇辉称要向李佳琦学习",
+        "onboard_time": 1742379023,
+        "rank": 48,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 108854,
+        "num": 108854,
+        "word": "龚俊cos敖丙",
+        "onboard_time": 1742364682,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#让民族特色不断焕发新的光彩#"
+    }
+  }
+}
