@@ -1,0 +1,410 @@
+{
+  "runTime": 1742409998242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 141241,
+        "num": 141241,
+        "word": "邓为 将门毒后",
+        "onboard_time": 1742399424,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58390,
+        "num": 58390,
+        "word": "特朗普泽连斯基通话约1小时",
+        "onboard_time": 1742400563,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11768,
+        "num": 43880,
+        "word": "这里是多彩贵州",
+        "onboard_time": 1742393486,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60884,
+        "num": 43749,
+        "word": "赵露思小猫咪是不是不能烤炭火",
+        "onboard_time": 1742400861,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43410,
+        "num": 43410,
+        "word": "casetify手机壳 背刺",
+        "onboard_time": 1742390125,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 42760,
+        "num": 42760,
+        "word": "5500元名牌鞋送洗后被擅自换鞋底",
+        "onboard_time": 1742398885,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51672,
+        "num": 42680,
+        "word": "雁回时",
+        "onboard_time": 1742378663,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40366,
+        "num": 40366,
+        "word": "樊振东张本智和合影",
+        "onboard_time": 1742399064,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36339,
+        "num": 40359,
+        "word": "内场的刘亦菲",
+        "onboard_time": 1742398226,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11758,
+        "num": 40296,
+        "word": "争分夺秒狂奔的你真的很赞",
+        "onboard_time": 1742408954,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389694,
+        "num": 40234,
+        "word": "韩安冉 离婚",
+        "onboard_time": 1742395704,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129727,
+        "num": 40168,
+        "word": "宋浩然",
+        "onboard_time": 1742401521,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112216,
+        "num": 40046,
+        "word": "林峯老婆换保姆要查行李箱惹争议",
+        "onboard_time": 1742400742,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67446,
+        "num": 39971,
+        "word": "父亲偷偷再婚女儿得知马上立遗嘱",
+        "onboard_time": 1742380583,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39970,
+        "num": 39970,
+        "word": "湖北大学",
+        "onboard_time": 1742391205,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225928,
+        "num": 39953,
+        "word": "宋浩然向韩安冉提出离婚",
+        "onboard_time": 1742398167,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105023,
+        "num": 39931,
+        "word": "金赛纶曾堕胎",
+        "onboard_time": 1742391326,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71876,
+        "num": 39894,
+        "word": "杨天真瘦到了124斤",
+        "onboard_time": 1742384723,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28512,
+        "num": 39890,
+        "word": "孙杨400自银牌",
+        "onboard_time": 1742387844,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9317,
+        "num": 39841,
+        "word": "智搜说陈都灵庄寒雁是芝麻汤圆",
+        "onboard_time": 1742409734,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107025,
+        "num": 39816,
+        "word": "女子出差险遭强奸又被公司劝离职",
+        "onboard_time": 1742393124,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76046,
+        "num": 39804,
+        "word": "关晓彤造型师又有什么心事了",
+        "onboard_time": 1742378723,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60612,
+        "num": 39789,
+        "word": "金赛纶曾秒删结婚ins",
+        "onboard_time": 1742392286,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50804,
+        "num": 39750,
+        "word": "金秀贤 重要资料",
+        "onboard_time": 1742395225,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42436,
+        "num": 39725,
+        "word": "全场惊呼刘亦菲太美了",
+        "onboard_time": 1742380823,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30137,
+        "num": 39689,
+        "word": "网友在日本捡到热巴的签证",
+        "onboard_time": 1742391444,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32571,
+        "num": 39687,
+        "word": "孟子义章若楠同框",
+        "onboard_time": 1742400202,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27166,
+        "num": 39656,
+        "word": "碧梨 歌手2025",
+        "onboard_time": 1742388146,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24118,
+        "num": 39628,
+        "word": "韵达",
+        "onboard_time": 1742381362,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22794,
+        "num": 39585,
+        "word": "卖炒饭净赚50万的创富故事看看就好",
+        "onboard_time": 1742389824,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29799,
+        "num": 39583,
+        "word": "赵露思ins晒和马伯骞合照",
+        "onboard_time": 1742386884,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25026,
+        "num": 39536,
+        "word": "秦岚演我生理性厌恶",
+        "onboard_time": 1742384664,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22926,
+        "num": 39507,
+        "word": "当学生面虐杀猫老师公开道歉",
+        "onboard_time": 1742393967,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22067,
+        "num": 39491,
+        "word": "官方已调查女子被拔错牙后坠亡事件",
+        "onboard_time": 1742404157,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21045,
+        "num": 39468,
+        "word": "贵女 听劝",
+        "onboard_time": 1742389223,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20535,
+        "num": 39439,
+        "word": "中学老师当学生面踩死猫扔垃圾桶",
+        "onboard_time": 1742389644,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19867,
+        "num": 39419,
+        "word": "张若昀一出场男粉都拥上来了",
+        "onboard_time": 1742399363,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19226,
+        "num": 39381,
+        "word": "专家建议中小学缩短至10年取消中考",
+        "onboard_time": 1742398825,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19197,
+        "num": 39363,
+        "word": "孙杨回应被小16岁对手反超",
+        "onboard_time": 1742386943,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18746,
+        "num": 39346,
+        "word": "给刘宇宁递个悬疑本子吧",
+        "onboard_time": 1742400023,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18688,
+        "num": 39319,
+        "word": "陈都灵眼神戏已经进化成这样了",
+        "onboard_time": 1742391385,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18592,
+        "num": 39297,
+        "word": "凑崎纱夏 歌手2025",
+        "onboard_time": 1742381544,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18055,
+        "num": 39258,
+        "word": "章若楠第二套",
+        "onboard_time": 1742382984,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17758,
+        "num": 39232,
+        "word": "浪姐6打电话",
+        "onboard_time": 1742408474,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17534,
+        "num": 39206,
+        "word": "张彬彬给景甜拍照",
+        "onboard_time": 1742396366,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16956,
+        "num": 39194,
+        "word": "美乌元首通话",
+        "onboard_time": 1742401581,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16793,
+        "num": 39163,
+        "word": "迪丽热巴早期微博精神状态演我",
+        "onboard_time": 1742398766,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16423,
+        "num": 39131,
+        "word": "吴宣仪被问为什么只给王源打电话",
+        "onboard_time": 1742379864,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16112,
+        "num": 39113,
+        "word": "无论i人e人都是相亲相ie家人",
+        "onboard_time": 1742401760,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15897,
+        "num": 39092,
+        "word": "檀健次别让外界的风幡框定自己",
+        "onboard_time": 1742402958,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为贵州新风采指明方向#"
+    }
+  }
+}
