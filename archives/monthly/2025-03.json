@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742355452660,
+  "endTime": 1742356056582,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -4347,6 +4347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 947005,
+      "num": 947005,
+      "word": "106岁老人劝年轻人要爱工作",
+      "onboard_time": 1742353582,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 946949,
       "num": 1145744,
       "word": "国际乒联公布徐克与女运动员聊天记录",
@@ -5097,14 +5105,6 @@
       "onboard_time": 1741131678,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 863266,
-      "num": 863266,
-      "word": "106岁老人劝年轻人要爱工作",
-      "onboard_time": 1742353582,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 861833,
@@ -7603,6 +7603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 630275,
+      "num": 630275,
+      "word": "boss直聘崩了",
+      "onboard_time": 1742354241,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 630148,
       "num": 227675,
       "word": "向佐虾系男友身材",
@@ -7795,6 +7803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 617677,
+      "num": 426162,
+      "word": "爱犬被毒死主人追凶900天",
+      "onboard_time": 1742354061,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 617461,
       "num": 617461,
       "word": "两会",
@@ -7913,6 +7929,14 @@
       "onboard_time": 1742010142,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 610997,
+      "num": 431579,
+      "word": "何泓姗回复陈都灵",
+      "onboard_time": 1742351962,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 610492,
@@ -8337,14 +8361,6 @@
       "onboard_time": 1740967039,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 584900,
-      "num": 431579,
-      "word": "何泓姗回复陈都灵",
-      "onboard_time": 1742351962,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 584549,
@@ -10937,14 +10953,6 @@
       "onboard_time": 1741313421,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 447027,
-      "num": 447027,
-      "word": "boss直聘崩了",
-      "onboard_time": 1742354241,
-      "rank": 7,
-      "category": "互联网"
     },
     {
       "raw_hot": 446313,
@@ -14075,6 +14083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347679,
+      "num": 347679,
+      "word": "听泉鉴宝回应辛云来像他",
+      "onboard_time": 1742353041,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 347593,
       "num": 347593,
       "word": "李佳隆求婚",
@@ -14113,14 +14129,6 @@
       "onboard_time": 1741268783,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 346687,
-      "num": 346687,
-      "word": "听泉鉴宝回应辛云来像他",
-      "onboard_time": 1742353041,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 346596,
@@ -17099,6 +17107,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 279058,
+      "num": 279058,
+      "word": "中国总有飞船待命的原因泪目了",
+      "onboard_time": 1742354781,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 278883,
       "num": 300024,
       "word": "IU演技",
@@ -17329,6 +17345,14 @@
       "onboard_time": 1741672702,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 275556,
+      "num": 275556,
+      "word": "意大利大批房屋1欧元甩卖",
+      "onboard_time": 1742353582,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 275516,
@@ -17923,14 +17947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265387,
-      "num": 265387,
-      "word": "中国总有飞船待命的原因泪目了",
-      "onboard_time": 1742354781,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 265355,
       "num": 265355,
       "word": "夫妻制售假始祖鸟1年获利30万元",
@@ -18225,14 +18241,6 @@
       "onboard_time": 1741508361,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261245,
-      "num": 426162,
-      "word": "爱犬被毒死主人追凶900天",
-      "onboard_time": 1742354061,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 260987,
@@ -20209,14 +20217,6 @@
       "onboard_time": 1741594221,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231398,
-      "num": 231398,
-      "word": "意大利大批房屋1欧元甩卖",
-      "onboard_time": 1742353582,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 231293,
@@ -23027,6 +23027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206013,
+      "num": 206013,
+      "word": "成都辟谣艾滋病17万人",
+      "onboard_time": 1742355922,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205996,
       "num": 205996,
       "word": "孟子义花朵裙",
@@ -23377,6 +23385,14 @@
       "onboard_time": 1741529782,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 203673,
+      "num": 203673,
+      "word": "普京拒绝陆海空全面停火30天建议",
+      "onboard_time": 1742352863,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 203668,
@@ -23769,6 +23785,14 @@
       "onboard_time": 1741663582,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201457,
+      "num": 201457,
+      "word": "女性太强男性真的会不敢追吗",
+      "onboard_time": 1742355561,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 201421,
@@ -24321,6 +24345,14 @@
       "onboard_time": 1741005981,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198609,
+      "num": 198609,
+      "word": "我明天也这么起床",
+      "onboard_time": 1742354482,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 198420,
@@ -25475,6 +25507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192005,
+      "num": 412980,
+      "word": "中央空调漏水致千万豪宅成水帘洞",
+      "onboard_time": 1742354123,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191880,
       "num": 191880,
       "word": "无需多言",
@@ -26372,7 +26412,7 @@
     },
     {
       "raw_hot": 187327,
-      "num": 199181,
+      "num": 351043,
       "word": "麻花特开心",
       "onboard_time": 1742352501,
       "rank": 28,
@@ -28657,14 +28697,6 @@
       "onboard_time": 1741960584,
       "rank": 26,
       "category": "剧集,时尚"
-    },
-    {
-      "raw_hot": 172709,
-      "num": 172709,
-      "word": "普京拒绝陆海空全面停火30天建议",
-      "onboard_time": 1742352863,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 172576,
@@ -31155,6 +31187,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 160369,
+      "num": 414169,
+      "word": "辛云来 好心态决定男人的一生",
+      "onboard_time": 1742354482,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160348,
       "num": 420155,
       "word": "315在行动",
@@ -31305,14 +31345,6 @@
       "onboard_time": 1741238539,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 159405,
-      "num": 159405,
-      "word": "我明天也这么起床",
-      "onboard_time": 1742354482,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 159403,
@@ -33497,14 +33529,6 @@
       "onboard_time": 1741760903,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149556,
-      "num": 414169,
-      "word": "辛云来 好心态决定男人的一生",
-      "onboard_time": 1742354482,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 149537,
@@ -37473,6 +37497,14 @@
       "onboard_time": 1741745843,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131460,
+      "num": 441463,
+      "word": "俄罗斯一架直升机坠毁",
+      "onboard_time": 1742354781,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131418,
@@ -42243,6 +42275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111132,
+      "num": 362572,
+      "word": "法拉利车手中国大奖赛定妆照",
+      "onboard_time": 1742355561,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111111,
       "num": 196395,
       "word": "陈哲远张婧仪婚服造型路透",
@@ -45179,14 +45219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 98026,
-      "num": 412980,
-      "word": "中央空调漏水致千万豪宅成水帘洞",
-      "onboard_time": 1742354123,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97964,
       "num": 97964,
       "word": "奇文",
@@ -45441,6 +45473,14 @@
       "onboard_time": 1741433603,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 96786,
+      "num": 198649,
+      "word": "豪车底盘的上限在哪里",
+      "onboard_time": 1742355745,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 96778,
@@ -47699,14 +47739,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 83362,
-      "num": 441463,
-      "word": "俄罗斯一架直升机坠毁",
-      "onboard_time": 1742354781,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 83276,
       "num": 106490,
       "word": "一诺版指尖生花好出片",
@@ -49468,7 +49500,7 @@
     },
     {
       "raw_hot": 68931,
-      "num": 1012530,
+      "num": 1014851,
       "word": "9图了解提振消费专项行动方案",
       "onboard_time": 1742302823,
       "rank": 2,
@@ -55603,6 +55635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29828,
+      "num": 176591,
+      "word": "什么样的防晒衣才能有效防晒",
+      "onboard_time": 1742353220,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 29823,
       "num": 120504,
       "word": "缤纷番茄鸡蛋挂面",
@@ -55745,14 +55785,6 @@
       "onboard_time": 1742222185,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 29047,
-      "num": 174208,
-      "word": "什么样的防晒衣才能有效防晒",
-      "onboard_time": 1742353220,
-      "rank": 45,
-      "category": "时尚"
     },
     {
       "raw_hot": 28976,
@@ -58755,6 +58787,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 13221,
+      "num": 181659,
+      "word": "防晒经济学",
+      "onboard_time": 1742355262,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 13161,
       "num": 372800,
       "word": "梁靖崑vsF勒布伦",
@@ -59409,14 +59449,6 @@
       "onboard_time": 1740958395,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8172,
-      "num": 165069,
-      "word": "防晒经济学",
-      "onboard_time": 1742355262,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 6871,

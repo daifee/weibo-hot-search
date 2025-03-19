@@ -1,0 +1,410 @@
+{
+  "runTime": 1742356056582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1647678,
+        "num": 1647678,
+        "word": "韩星李准基涉嫌逃税",
+        "onboard_time": 1742349921,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1118596,
+        "num": 1118596,
+        "word": "男子出卖大量国家秘密被判死刑",
+        "onboard_time": 1742342420,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27372,
+        "num": 1014851,
+        "word": "9图了解提振消费专项行动方案",
+        "onboard_time": 1742302823,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 947005,
+        "num": 947005,
+        "word": "106岁老人劝年轻人要爱工作",
+        "onboard_time": 1742353582,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 630275,
+        "num": 630275,
+        "word": "boss直聘崩了",
+        "onboard_time": 1742354241,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 815525,
+        "num": 575603,
+        "word": "美2名宇航员286天加班费1148美元",
+        "onboard_time": 1742349500,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 462661,
+        "num": 462661,
+        "word": "网店因鞋子涨价坚持不发货只能退",
+        "onboard_time": 1742346441,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392776,
+        "num": 392776,
+        "word": "浪姐6二公结果",
+        "onboard_time": 1742351661,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375853,
+        "num": 375853,
+        "word": "美国公布肯尼迪遇刺事件记录",
+        "onboard_time": 1742341100,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131460,
+        "num": 375073,
+        "word": "俄罗斯一架直升机坠毁",
+        "onboard_time": 1742354781,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1059305,
+        "num": 374498,
+        "word": "周六野怀孕",
+        "onboard_time": 1742350222,
+        "rank": 10,
+        "category": "网红,运动健身"
+      },
+      {
+        "raw_hot": 753677,
+        "num": 372878,
+        "word": "媒体评蜜雪冰城别把宽容变纵容",
+        "onboard_time": 1742307503,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 710734,
+        "num": 370833,
+        "word": "还是金秀贤自己拍的",
+        "onboard_time": 1742347882,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617677,
+        "num": 369606,
+        "word": "爱犬被毒死主人追凶900天",
+        "onboard_time": 1742354061,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610997,
+        "num": 368683,
+        "word": "何泓姗回复陈都灵",
+        "onboard_time": 1742351962,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1748135,
+        "num": 367091,
+        "word": "麦当劳 王楚钦",
+        "onboard_time": 1742354482,
+        "rank": 15,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 542954,
+        "num": 366804,
+        "word": "林依晨二胎",
+        "onboard_time": 1742346441,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475617,
+        "num": 364959,
+        "word": "李现樊振东日本逛街",
+        "onboard_time": 1742345183,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 461939,
+        "num": 364250,
+        "word": "高以翔生前女友官宣结婚",
+        "onboard_time": 1742309126,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111132,
+        "num": 362572,
+        "word": "法拉利车手中国大奖赛定妆照",
+        "onboard_time": 1742355561,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406176,
+        "num": 360838,
+        "word": "好多媒体报道丁禹兮救人",
+        "onboard_time": 1742344402,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387739,
+        "num": 360455,
+        "word": "韩安冉因抽脂身上到处是疤",
+        "onboard_time": 1742344704,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 359321,
+        "num": 359321,
+        "word": "为什么中国航天员能按时回地球",
+        "onboard_time": 1742350400,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212512,
+        "num": 359283,
+        "word": "速度与激情7",
+        "onboard_time": 1742352501,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139055,
+        "num": 357576,
+        "word": "全运会抽签",
+        "onboard_time": 1742353401,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160369,
+        "num": 354468,
+        "word": "辛云来 好心态决定男人的一生",
+        "onboard_time": 1742354482,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153326,
+        "num": 354324,
+        "word": "桃花坞5首次录制",
+        "onboard_time": 1742344821,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150046,
+        "num": 351043,
+        "word": "麻花特开心",
+        "onboard_time": 1742352501,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143435,
+        "num": 350682,
+        "word": "赵丽颖换了沈璃背景图",
+        "onboard_time": 1742343683,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36534,
+        "num": 347778,
+        "word": "消费贷利率降至新低",
+        "onboard_time": 1742355023,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 347679,
+        "num": 347679,
+        "word": "听泉鉴宝回应辛云来像他",
+        "onboard_time": 1742353041,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 279058,
+        "num": 279058,
+        "word": "中国总有飞船待命的原因泪目了",
+        "onboard_time": 1742354781,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275556,
+        "num": 275556,
+        "word": "意大利大批房屋1欧元甩卖",
+        "onboard_time": 1742353582,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 225280,
+        "num": 225280,
+        "word": "3岁男孩疑在水深20厘米浴缸中溺亡",
+        "onboard_time": 1742343922,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219742,
+        "num": 219742,
+        "word": "金饰价格飙到916元",
+        "onboard_time": 1742350941,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206013,
+        "num": 206013,
+        "word": "成都辟谣艾滋病17万人",
+        "onboard_time": 1742355922,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203673,
+        "num": 203673,
+        "word": "普京拒绝陆海空全面停火30天建议",
+        "onboard_time": 1742352863,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201607,
+        "num": 201607,
+        "word": "特朗普回应普京未同意停火30天",
+        "onboard_time": 1742349561,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201457,
+        "num": 201457,
+        "word": "女性太强男性真的会不敢追吗",
+        "onboard_time": 1742355561,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96786,
+        "num": 198649,
+        "word": "豪车底盘的上限在哪里",
+        "onboard_time": 1742355745,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 198609,
+        "num": 198609,
+        "word": "我明天也这么起床",
+        "onboard_time": 1742354482,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194036,
+        "num": 194036,
+        "word": "美2名流浪宇航员被转移至救援船",
+        "onboard_time": 1742342420,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192098,
+        "num": 192098,
+        "word": "女生误诊淋巴瘤后确诊骨肉瘤",
+        "onboard_time": 1742346144,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192005,
+        "num": 192005,
+        "word": "中央空调漏水致千万豪宅成水帘洞",
+        "onboard_time": 1742354123,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306098,
+        "num": 189230,
+        "word": "中学讲座称女孩打扮是为了吸引男性",
+        "onboard_time": 1742350461,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138535,
+        "num": 185306,
+        "word": "杨紫家业三次开机",
+        "onboard_time": 1742341943,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13221,
+        "num": 181659,
+        "word": "防晒经济学",
+        "onboard_time": 1742355262,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 181416,
+        "num": 181416,
+        "word": "胖东来郑州店地址",
+        "onboard_time": 1742353101,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29828,
+        "num": 176591,
+        "word": "什么样的防晒衣才能有效防晒",
+        "onboard_time": 1742353220,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 175792,
+        "num": 175792,
+        "word": "TVB女演员梁珈咏商场摆摊",
+        "onboard_time": 1742351241,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#祝你们的日子越过越红火#"
+    }
+  }
+}

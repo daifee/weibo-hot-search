@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742355452660,
+  "endTime": 1742356056582,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -1099,6 +1099,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 947005,
+      "num": 947005,
+      "word": "106岁老人劝年轻人要爱工作",
+      "onboard_time": 1742353582,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 938749,
       "num": 642425,
       "word": "1999年出生 努努力可以活三个世纪",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1742054668,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 863266,
-      "num": 863266,
-      "word": "106岁老人劝年轻人要爱工作",
-      "onboard_time": 1742353582,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 858875,
@@ -1771,6 +1771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 630275,
+      "num": 630275,
+      "word": "boss直聘崩了",
+      "onboard_time": 1742354241,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 624942,
       "num": 259198,
       "word": "云南出租车司机遇害案嫌犯已身亡",
@@ -1787,10 +1795,26 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 617677,
+      "num": 426162,
+      "word": "爱犬被毒死主人追凶900天",
+      "onboard_time": 1742354061,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 613838,
       "num": 693523,
       "word": "谢景行",
       "onboard_time": 1742269223,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 610997,
+      "num": 431579,
+      "word": "何泓姗回复陈都灵",
+      "onboard_time": 1742351962,
       "rank": 18,
       "category": "剧集"
     },
@@ -1889,14 +1913,6 @@
       "onboard_time": 1742082679,
       "rank": 13,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 584900,
-      "num": 431579,
-      "word": "何泓姗回复陈都灵",
-      "onboard_time": 1742351962,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 581287,
@@ -2459,14 +2475,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 447027,
-      "num": 447027,
-      "word": "boss直聘崩了",
-      "onboard_time": 1742354241,
-      "rank": 7,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 445181,
       "num": 445181,
       "word": "父亲情绪失控欲把女儿扔河里",
@@ -2947,8 +2955,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346687,
-      "num": 346687,
+      "raw_hot": 347679,
+      "num": 347679,
       "word": "听泉鉴宝回应辛云来像他",
       "onboard_time": 1742353041,
       "rank": 35,
@@ -3467,6 +3475,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 279058,
+      "num": 279058,
+      "word": "中国总有飞船待命的原因泪目了",
+      "onboard_time": 1742354781,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 278883,
       "num": 300024,
       "word": "IU演技",
@@ -3521,6 +3537,14 @@
       "onboard_time": 1742181802,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275556,
+      "num": 275556,
+      "word": "意大利大批房屋1欧元甩卖",
+      "onboard_time": 1742353582,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 275273,
@@ -3595,14 +3619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265387,
-      "num": 265387,
-      "word": "中国总有飞船待命的原因泪目了",
-      "onboard_time": 1742354781,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 265355,
       "num": 265355,
       "word": "夫妻制售假始祖鸟1年获利30万元",
@@ -3665,14 +3681,6 @@
       "onboard_time": 1742099662,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 261245,
-      "num": 426162,
-      "word": "爱犬被毒死主人追凶900天",
-      "onboard_time": 1742354061,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 260843,
@@ -4193,14 +4201,6 @@
       "onboard_time": 1742293462,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 231398,
-      "num": 231398,
-      "word": "意大利大批房屋1欧元甩卖",
-      "onboard_time": 1742353582,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 230975,
@@ -4779,6 +4779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206013,
+      "num": 206013,
+      "word": "成都辟谣艾滋病17万人",
+      "onboard_time": 1742355922,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205996,
       "num": 205996,
       "word": "孟子义花朵裙",
@@ -4849,6 +4857,14 @@
       "onboard_time": 1742346023,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 203673,
+      "num": 203673,
+      "word": "普京拒绝陆海空全面停火30天建议",
+      "onboard_time": 1742352863,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 203458,
@@ -4945,6 +4961,14 @@
       "onboard_time": 1742296222,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 201457,
+      "num": 201457,
+      "word": "女性太强男性真的会不敢追吗",
+      "onboard_time": 1742355561,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 200893,
@@ -5057,6 +5081,14 @@
       "onboard_time": 1742082499,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 198609,
+      "num": 198609,
+      "word": "我明天也这么起床",
+      "onboard_time": 1742354482,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 198322,
@@ -5289,6 +5321,14 @@
       "onboard_time": 1742295803,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192005,
+      "num": 412980,
+      "word": "中央空调漏水致千万豪宅成水帘洞",
+      "onboard_time": 1742354123,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191728,
@@ -5524,7 +5564,7 @@
     },
     {
       "raw_hot": 187327,
-      "num": 199181,
+      "num": 351043,
       "word": "麻花特开心",
       "onboard_time": 1742352501,
       "rank": 28,
@@ -5929,14 +5969,6 @@
       "onboard_time": 1742290163,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 172709,
-      "num": 172709,
-      "word": "普京拒绝陆海空全面停火30天建议",
-      "onboard_time": 1742352863,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 172463,
@@ -6403,6 +6435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160369,
+      "num": 414169,
+      "word": "辛云来 好心态决定男人的一生",
+      "onboard_time": 1742354482,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160292,
       "num": 160292,
       "word": "网友反映脱口秀线下表演擦边",
@@ -6433,14 +6473,6 @@
       "onboard_time": 1742138483,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159405,
-      "num": 159405,
-      "word": "我明天也这么起床",
-      "onboard_time": 1742354482,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 159403,
@@ -6825,14 +6857,6 @@
       "onboard_time": 1742124804,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149556,
-      "num": 414169,
-      "word": "辛云来 好心态决定男人的一生",
-      "onboard_time": 1742354482,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 149515,
@@ -7601,6 +7625,14 @@
       "onboard_time": 1742281342,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131460,
+      "num": 441463,
+      "word": "俄罗斯一架直升机坠毁",
+      "onboard_time": 1742354781,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131341,
@@ -8379,6 +8411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111132,
+      "num": 362572,
+      "word": "法拉利车手中国大奖赛定妆照",
+      "onboard_time": 1742355561,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111082,
       "num": 365629,
       "word": "网红为带货拉来小孩卖惨",
@@ -8779,14 +8819,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 98026,
-      "num": 412980,
-      "word": "中央空调漏水致千万豪宅成水帘洞",
-      "onboard_time": 1742354123,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97461,
       "num": 206106,
       "word": "一觉醒来闻到古早聊斋味了",
@@ -8825,6 +8857,14 @@
       "onboard_time": 1742222785,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 96786,
+      "num": 198649,
+      "word": "豪车底盘的上限在哪里",
+      "onboard_time": 1742355745,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 96759,
@@ -9155,14 +9195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83362,
-      "num": 441463,
-      "word": "俄罗斯一架直升机坠毁",
-      "onboard_time": 1742354781,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 83265,
       "num": 278578,
       "word": "王楚钦出发宁波了",
@@ -9444,7 +9476,7 @@
     },
     {
       "raw_hot": 68931,
-      "num": 1012530,
+      "num": 1014851,
       "word": "9图了解提振消费专项行动方案",
       "onboard_time": 1742302823,
       "rank": 2,
@@ -10515,6 +10547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29828,
+      "num": 176591,
+      "word": "什么样的防晒衣才能有效防晒",
+      "onboard_time": 1742353220,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 29668,
       "num": 64261,
       "word": "2025年全英羽毛球公开赛",
@@ -10577,14 +10617,6 @@
       "onboard_time": 1742222185,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 29047,
-      "num": 174208,
-      "word": "什么样的防晒衣才能有效防晒",
-      "onboard_time": 1742353220,
-      "rank": 45,
-      "category": "时尚"
     },
     {
       "raw_hot": 28913,
@@ -11083,6 +11115,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 13221,
+      "num": 181659,
+      "word": "防晒经济学",
+      "onboard_time": 1742355262,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 13139,
       "num": 31795,
       "word": "孙杨说全运会是自己新征程的开始",
@@ -11177,14 +11217,6 @@
       "onboard_time": 1742203522,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8172,
-      "num": 165069,
-      "word": "防晒经济学",
-      "onboard_time": 1742355262,
-      "rank": 46,
-      "category": "美妆"
     }
   ],
   "hotgov_list": [
