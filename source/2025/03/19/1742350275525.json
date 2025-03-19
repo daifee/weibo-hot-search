@@ -1,0 +1,410 @@
+{
+  "runTime": 1742350275525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1493805,
+        "num": 1493805,
+        "word": "男子出卖大量国家秘密被判死刑",
+        "onboard_time": 1742342420,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1209553,
+        "num": 1209553,
+        "word": "网店因鞋子涨价坚持不发货只能退",
+        "onboard_time": 1742346441,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42037,
+        "num": 755705,
+        "word": "9图了解提振消费专项行动方案",
+        "onboard_time": 1742302823,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 708580,
+        "num": 708580,
+        "word": "美国公布肯尼迪遇刺事件记录",
+        "onboard_time": 1742341100,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 581287,
+        "num": 581287,
+        "word": "美2名流浪宇航员被转移至救援船",
+        "onboard_time": 1742342420,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 510099,
+        "num": 510099,
+        "word": "3岁男孩疑在水深20厘米浴缸中溺亡",
+        "onboard_time": 1742343922,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442450,
+        "num": 442450,
+        "word": "美滞留女宇航员曾承认健康出问题",
+        "onboard_time": 1742345064,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299366,
+        "num": 407637,
+        "word": "赵丽颖换了沈璃背景图",
+        "onboard_time": 1742343683,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285346,
+        "num": 401662,
+        "word": "杨紫家业三次开机",
+        "onboard_time": 1742341943,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399507,
+        "num": 399507,
+        "word": "美2名宇航员286天加班费1148美元",
+        "onboard_time": 1742349500,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1101342,
+        "num": 398805,
+        "word": "林依晨二胎",
+        "onboard_time": 1742346441,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1006349,
+        "num": 398603,
+        "word": "李现樊振东日本逛街",
+        "onboard_time": 1742345183,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 408631,
+        "num": 396994,
+        "word": "中南财大学生呼吁取消3000米测试",
+        "onboard_time": 1742343683,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1000226,
+        "num": 396695,
+        "word": "好多媒体报道丁禹兮救人",
+        "onboard_time": 1742344402,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747787,
+        "num": 395246,
+        "word": "媒体评蜜雪冰城别把宽容变纵容",
+        "onboard_time": 1742307503,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 651333,
+        "num": 394946,
+        "word": "高以翔生前女友官宣结婚",
+        "onboard_time": 1742309126,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430734,
+        "num": 393609,
+        "word": "还是金秀贤自己拍的",
+        "onboard_time": 1742347882,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393369,
+        "num": 393369,
+        "word": "小米汽车单台平均亏损4.5万元",
+        "onboard_time": 1742340801,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 335748,
+        "num": 335748,
+        "word": "男子请客获海底捞补偿朋友要求平分",
+        "onboard_time": 1742307804,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223277,
+        "num": 311148,
+        "word": "桃花坞5首次录制",
+        "onboard_time": 1742344821,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531833,
+        "num": 309947,
+        "word": "韩安冉因抽脂身上到处是疤",
+        "onboard_time": 1742344704,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 343986,
+        "num": 309327,
+        "word": "金秀贤方被曝在中国实名删帖",
+        "onboard_time": 1742305103,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306462,
+        "num": 306462,
+        "word": "女生误诊淋巴瘤后确诊骨肉瘤",
+        "onboard_time": 1742346144,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243794,
+        "num": 243794,
+        "word": "女生做了人工阴道后仍感染HPV",
+        "onboard_time": 1742294783,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238347,
+        "num": 238347,
+        "word": "韩星李准基涉嫌逃税",
+        "onboard_time": 1742349921,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208899,
+        "num": 208899,
+        "word": "朋友结婚毒友竟随礼1克冰毒",
+        "onboard_time": 1742305882,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208746,
+        "num": 208746,
+        "word": "种地吧打卡直播回归",
+        "onboard_time": 1742349500,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203855,
+        "num": 203855,
+        "word": "一日三次服药并不是指三餐前后",
+        "onboard_time": 1742346023,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155786,
+        "num": 203753,
+        "word": "辛云来 听泉鉴宝",
+        "onboard_time": 1742304744,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141656,
+        "num": 203717,
+        "word": "贵女",
+        "onboard_time": 1742314879,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203698,
+        "num": 203698,
+        "word": "周杰伦在周杰伦模仿大赛得了第二名",
+        "onboard_time": 1742341639,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196276,
+        "num": 196276,
+        "word": "贵女这已经不是空降了 这是空袭",
+        "onboard_time": 1742304203,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170234,
+        "num": 170234,
+        "word": "男子变现339万后金价又涨了",
+        "onboard_time": 1742310025,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169305,
+        "num": 169305,
+        "word": "王皓谈樊振东缺席澳门世界杯原因",
+        "onboard_time": 1742346564,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165921,
+        "num": 165921,
+        "word": "不要一边充电一边看手机",
+        "onboard_time": 1742325015,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164945,
+        "num": 164945,
+        "word": "美俄同意需要结束俄乌冲突实现长久和平",
+        "onboard_time": 1742348241,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150873,
+        "num": 150873,
+        "word": "香港长和出售港口埋下什么祸根",
+        "onboard_time": 1742347701,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136825,
+        "num": 136825,
+        "word": "特朗普回应普京未同意停火30天",
+        "onboard_time": 1742349561,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133904,
+        "num": 133904,
+        "word": "俄美元首通话",
+        "onboard_time": 1742341703,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130309,
+        "num": 130309,
+        "word": "赵露思陈伟霆许我耀眼预约破150万",
+        "onboard_time": 1742348542,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130027,
+        "num": 130027,
+        "word": "蜜雪冰城店员称隔夜柠檬是个例",
+        "onboard_time": 1742288721,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 125974,
+        "num": 125974,
+        "word": "福州回应哪吒墙绘被破坏",
+        "onboard_time": 1742346863,
+        "rank": 41,
+        "category": "民生新闻,作品衍生"
+      },
+      {
+        "raw_hot": 112755,
+        "num": 112755,
+        "word": "李嘉诚",
+        "onboard_time": 1742306365,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110559,
+        "num": 110559,
+        "word": "普京重申和平解决冲突的立场",
+        "onboard_time": 1742339900,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109270,
+        "num": 109270,
+        "word": "中国正发力的这些经济都是啥意思",
+        "onboard_time": 1742349500,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109135,
+        "num": 109135,
+        "word": "家业",
+        "onboard_time": 1742348661,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104421,
+        "num": 104421,
+        "word": "周六野怀孕",
+        "onboard_time": 1742350222,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104381,
+        "num": 104381,
+        "word": "南京玄武湖现罕见6瓣桃花",
+        "onboard_time": 1742343802,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 91053,
+        "num": 91053,
+        "word": "半熟4女三气血很足",
+        "onboard_time": 1742341639,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90900,
+        "num": 90900,
+        "word": "孟子义何与双人芭莎大片",
+        "onboard_time": 1742343622,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中国式现代化进程中展现贵州新风采#"
+    }
+  }
+}

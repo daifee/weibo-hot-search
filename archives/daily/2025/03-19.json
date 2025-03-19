@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742348958628,
+  "endTime": 1742350275525,
   "band_list": [
     {
       "raw_hot": 1651035,
@@ -27,12 +27,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1209553,
+      "num": 1209553,
+      "word": "网店因鞋子涨价坚持不发货只能退",
+      "onboard_time": 1742346441,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1169332,
       "num": 1169332,
       "word": "男子请客获海底捞补偿朋友要求平分",
       "onboard_time": 1742307804,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1101342,
+      "num": 439635,
+      "word": "林依晨二胎",
+      "onboard_time": 1742346441,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1088050,
@@ -49,22 +65,6 @@
       "onboard_time": 1742345183,
       "rank": 11,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 1079085,
-      "num": 439635,
-      "word": "林依晨二胎",
-      "onboard_time": 1742346441,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1026485,
-      "num": 1026485,
-      "word": "网店因鞋子涨价坚持不发货只能退",
-      "onboard_time": 1742346441,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 942169,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 581287,
+      "num": 581287,
+      "word": "美2名流浪宇航员被转移至救援船",
+      "onboard_time": 1742342420,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 579054,
       "num": 377607,
       "word": "韩安冉因抽脂身上到处是疤",
@@ -131,14 +139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 499413,
-      "num": 499413,
-      "word": "美2名流浪宇航员被转移至救援船",
-      "onboard_time": 1742342420,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 497211,
       "num": 387041,
       "word": "辛云来 抱歉让大家见笑了",
@@ -155,12 +155,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 442450,
+      "num": 442450,
+      "word": "美滞留女宇航员曾承认健康出问题",
+      "onboard_time": 1742345064,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 432873,
       "num": 432873,
       "word": "小米汽车单台平均亏损4.5万元",
       "onboard_time": 1742340801,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 430734,
+      "num": 393609,
+      "word": "还是金秀贤自己拍的",
+      "onboard_time": 1742347882,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 399507,
+      "num": 399507,
+      "word": "美2名宇航员286天加班费1148美元",
+      "onboard_time": 1742349500,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 395109,
@@ -235,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306462,
+      "num": 306462,
+      "word": "女生误诊淋巴瘤后确诊骨肉瘤",
+      "onboard_time": 1742346144,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290828,
       "num": 262938,
       "word": "虞书欣美得我一激灵",
@@ -283,20 +315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 254201,
-      "num": 254201,
-      "word": "美滞留女宇航员曾承认健康出问题",
-      "onboard_time": 1742345064,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 249654,
-      "num": 249654,
-      "word": "女生误诊淋巴瘤后确诊骨肉瘤",
-      "onboard_time": 1742346144,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 238347,
+      "num": 238347,
+      "word": "韩星李准基涉嫌逃税",
+      "onboard_time": 1742349921,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 233724,
@@ -305,6 +329,14 @@
       "onboard_time": 1742341639,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223277,
+      "num": 378081,
+      "word": "桃花坞5首次录制",
+      "onboard_time": 1742344821,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 221705,
@@ -331,20 +363,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208746,
+      "num": 208746,
+      "word": "种地吧打卡直播回归",
+      "onboard_time": 1742349500,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 203855,
+      "num": 203855,
+      "word": "一日三次服药并不是指三餐前后",
+      "onboard_time": 1742346023,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 203458,
       "num": 203458,
       "word": "听音乐喝牛奶长大的鸡半只卖480元",
       "onboard_time": 1742312061,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195573,
-      "num": 378081,
-      "word": "桃花坞5首次录制",
-      "onboard_time": 1742344821,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 188203,
@@ -361,22 +401,6 @@
       "onboard_time": 1742346564,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174019,
-      "num": 174019,
-      "word": "一日三次服药并不是指三餐前后",
-      "onboard_time": 1742346023,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 171410,
-      "num": 171410,
-      "word": "还是金秀贤自己拍的",
-      "onboard_time": 1742347882,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 170138,
@@ -459,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136825,
+      "num": 136825,
+      "word": "特朗普回应普京未同意停火30天",
+      "onboard_time": 1742349561,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135494,
       "num": 169665,
       "word": "普京重申和平解决冲突的立场",
@@ -473,6 +505,14 @@
       "onboard_time": 1742341639,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130309,
+      "num": 130309,
+      "word": "赵露思陈伟霆许我耀眼预约破150万",
+      "onboard_time": 1742348542,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 128360,
@@ -523,6 +563,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109270,
+      "num": 109270,
+      "word": "中国正发力的这些经济都是啥意思",
+      "onboard_time": 1742349500,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109135,
+      "num": 109135,
+      "word": "家业",
+      "onboard_time": 1742348661,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107403,
       "num": 107403,
       "word": "曝哪吒汽车解散研发团队",
@@ -539,19 +595,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104421,
+      "num": 104421,
+      "word": "周六野怀孕",
+      "onboard_time": 1742350222,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 102593,
       "num": 102593,
       "word": "贵女 天崩开局",
       "onboard_time": 1742299044,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 102111,
-      "num": 102111,
-      "word": "家业",
-      "onboard_time": 1742348661,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -577,14 +633,6 @@
       "onboard_time": 1742293882,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95892,
-      "num": 95892,
-      "word": "赵露思陈伟霆许我耀眼预约破150万",
-      "onboard_time": 1742348542,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 94521,

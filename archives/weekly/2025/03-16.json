@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742348958628,
+  "endTime": 1742350275525,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -691,6 +691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1209553,
+      "num": 1209553,
+      "word": "网店因鞋子涨价坚持不发货只能退",
+      "onboard_time": 1742346441,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1205502,
       "num": 1205502,
       "word": "短剧女主余茵回应颜值身高都一般",
@@ -835,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1101342,
+      "num": 439635,
+      "word": "林依晨二胎",
+      "onboard_time": 1742346441,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1099548,
       "num": 325177,
       "word": "疑似金秀贤脚踩两条船",
@@ -883,14 +899,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 1079085,
-      "num": 439635,
-      "word": "林依晨二胎",
-      "onboard_time": 1742346441,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1067574,
       "num": 403531,
       "word": "金赛纶遗属将举行新闻发布会",
@@ -928,14 +936,6 @@
       "word": "啄木鸟连续两年315道歉",
       "onboard_time": 1742116523,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1026485,
-      "num": 1026485,
-      "word": "网店因鞋子涨价坚持不发货只能退",
-      "onboard_time": 1742346441,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -1843,6 +1843,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 581287,
+      "num": 581287,
+      "word": "美2名流浪宇航员被转移至救援船",
+      "onboard_time": 1742342420,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 580840,
       "num": 580840,
       "word": "风月不相关 杨超越",
@@ -2179,14 +2187,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 499413,
-      "num": 499413,
-      "word": "美2名流浪宇航员被转移至救援船",
-      "onboard_time": 1742342420,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 498743,
       "num": 498743,
       "word": "iPhone17系列模型机曝光",
@@ -2411,6 +2411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 442450,
+      "num": 442450,
+      "word": "美滞留女宇航员曾承认健康出问题",
+      "onboard_time": 1742345064,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 441836,
       "num": 441836,
       "word": "许府牛",
@@ -2473,6 +2481,14 @@
       "onboard_time": 1742196563,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430734,
+      "num": 393609,
+      "word": "还是金秀贤自己拍的",
+      "onboard_time": 1742347882,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 429926,
@@ -2625,6 +2641,14 @@
       "onboard_time": 1742275165,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399507,
+      "num": 399507,
+      "word": "美2名宇航员286天加班费1148美元",
+      "onboard_time": 1742349500,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 396488,
@@ -3089,6 +3113,14 @@
       "onboard_time": 1742093843,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 306462,
+      "num": 306462,
+      "word": "女生误诊淋巴瘤后确诊骨肉瘤",
+      "onboard_time": 1742346144,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306351,
@@ -3651,14 +3683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254201,
-      "num": 254201,
-      "word": "美滞留女宇航员曾承认健康出问题",
-      "onboard_time": 1742345064,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 253667,
       "num": 253667,
       "word": "53岁女子因胃酸反流2年只能坐着睡",
@@ -3737,14 +3761,6 @@
       "onboard_time": 1742054785,
       "rank": 18,
       "category": "舆论监督,网红"
-    },
-    {
-      "raw_hot": 249654,
-      "num": 249654,
-      "word": "女生误诊淋巴瘤后确诊骨肉瘤",
-      "onboard_time": 1742346144,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249594,
@@ -3937,6 +3953,14 @@
       "onboard_time": 1742103143,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 238347,
+      "num": 238347,
+      "word": "韩星李准基涉嫌逃税",
+      "onboard_time": 1742349921,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 237331,
@@ -4209,6 +4233,14 @@
       "onboard_time": 1742094323,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223277,
+      "num": 378081,
+      "word": "桃花坞5首次录制",
+      "onboard_time": 1742344821,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 222911,
@@ -4523,6 +4555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 208746,
+      "num": 208746,
+      "word": "种地吧打卡直播回归",
+      "onboard_time": 1742349500,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208256,
       "num": 263819,
       "word": "用夸克看懂了体检报告",
@@ -4657,6 +4697,14 @@
       "onboard_time": 1742082382,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 203855,
+      "num": 203855,
+      "word": "一日三次服药并不是指三餐前后",
+      "onboard_time": 1742346023,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 203458,
@@ -4969,14 +5017,6 @@
       "onboard_time": 1742110042,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195573,
-      "num": 378081,
-      "word": "桃花坞5首次录制",
-      "onboard_time": 1742344821,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 195520,
@@ -5699,14 +5739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174019,
-      "num": 174019,
-      "word": "一日三次服药并不是指三餐前后",
-      "onboard_time": 1742346023,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 173526,
       "num": 390800,
       "word": "蒋欣看华妃番外有感而发",
@@ -5769,14 +5801,6 @@
       "onboard_time": 1742188283,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 171410,
-      "num": 171410,
-      "word": "还是金秀贤自己拍的",
-      "onboard_time": 1742347882,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 171290,
@@ -7123,6 +7147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136825,
+      "num": 136825,
+      "word": "特朗普回应普京未同意停火30天",
+      "onboard_time": 1742349561,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136822,
       "num": 136822,
       "word": "杜兰特又和太阳主帅吵起来了",
@@ -7385,6 +7417,14 @@
       "onboard_time": 1742175081,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130309,
+      "num": 130309,
+      "word": "赵露思陈伟霆许我耀眼预约破150万",
+      "onboard_time": 1742348542,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 130271,
@@ -8203,11 +8243,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109270,
+      "num": 109270,
+      "word": "中国正发力的这些经济都是啥意思",
+      "onboard_time": 1742349500,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109233,
       "num": 179167,
       "word": "张云龙蔡文静代旭土味剧宣好抽象",
       "onboard_time": 1742190081,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109135,
+      "num": 109135,
+      "word": "家业",
+      "onboard_time": 1742348661,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -8315,6 +8371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104421,
+      "num": 104421,
+      "word": "周六野怀孕",
+      "onboard_time": 1742350222,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 103960,
       "num": 103960,
       "word": "女孩玩手机半年度数飙升至1700度",
@@ -8345,14 +8409,6 @@
       "onboard_time": 1742117422,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102111,
-      "num": 102111,
-      "word": "家业",
-      "onboard_time": 1742348661,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 102061,
@@ -8561,14 +8617,6 @@
       "onboard_time": 1742226021,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95892,
-      "num": 95892,
-      "word": "赵露思陈伟霆许我耀眼预约破150万",
-      "onboard_time": 1742348542,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 94946,
