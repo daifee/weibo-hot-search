@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742391165788,
+  "endTime": 1742391829417,
   "band_list": [
     {
       "raw_hot": 3321685,
@@ -25,6 +25,14 @@
       "onboard_time": 1742378723,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2396947,
+      "num": 382150,
+      "word": "金赛纶曾堕胎",
+      "onboard_time": 1742391326,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2290585,
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1168713,
+      "num": 499422,
+      "word": "拔牙坠楼女子说要以死证清白",
+      "onboard_time": 1742388444,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1134583,
       "num": 906372,
       "word": "龚俊cos敖丙",
@@ -201,14 +217,6 @@
       "onboard_time": 1742370683,
       "rank": 8,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1128216,
-      "num": 499422,
-      "word": "拔牙坠楼女子说要以死证清白",
-      "onboard_time": 1742388444,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1101342,
@@ -635,6 +643,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 486187,
+      "num": 486187,
+      "word": "贵女 听劝",
+      "onboard_time": 1742389223,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 485081,
+      "num": 485081,
+      "word": "碧梨 歌手2025",
+      "onboard_time": 1742388146,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483558,
       "num": 483558,
       "word": "为什么中国航天员能按时回地球",
@@ -675,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 463904,
+      "num": 463904,
+      "word": "卖炒饭净赚50万的创富故事看看就好",
+      "onboard_time": 1742389824,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456427,
       "num": 456427,
       "word": "中南财大学生呼吁取消3000米测试",
@@ -692,7 +724,7 @@
     },
     {
       "raw_hot": 449110,
-      "num": 227156,
+      "num": 240976,
       "word": "关晓彤的第二套",
       "onboard_time": 1742389344,
       "rank": 25,
@@ -713,14 +745,6 @@
       "onboard_time": 1742378843,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 438436,
-      "num": 438436,
-      "word": "碧梨 歌手2025",
-      "onboard_time": 1742388146,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 436011,
@@ -763,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 417687,
-      "num": 417687,
-      "word": "贵女 听劝",
-      "onboard_time": 1742389223,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 408129,
       "num": 285302,
       "word": "保洁阿姨有自己的工位了",
@@ -785,6 +801,14 @@
       "onboard_time": 1742376983,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 403503,
+      "num": 403503,
+      "word": "casetify手机壳 背刺",
+      "onboard_time": 1742390125,
+      "rank": 23,
+      "category": "时尚"
     },
     {
       "raw_hot": 402222,
@@ -883,20 +907,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372682,
+      "num": 259802,
+      "word": "赵露思ins晒和马伯骞合照",
+      "onboard_time": 1742386884,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370329,
       "num": 454006,
       "word": "赵丽颖换了沈璃背景图",
       "onboard_time": 1742343683,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 369308,
-      "num": 238711,
-      "word": "赵露思ins晒和马伯骞合照",
-      "onboard_time": 1742386884,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 364483,
@@ -985,14 +1009,6 @@
       "onboard_time": 1742294902,
       "rank": 13,
       "category": "其它"
-    },
-    {
-      "raw_hot": 331952,
-      "num": 238432,
-      "word": "casetify手机壳 背刺",
-      "onboard_time": 1742390125,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 330857,
@@ -1256,6 +1272,14 @@
       "word": "宁艺卓国内国外双开花",
       "onboard_time": 1742357724,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 244117,
+      "num": 244117,
+      "word": "网友在日本捡到热巴的签证",
+      "onboard_time": 1742391444,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1659,11 +1683,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190151,
+      "num": 190151,
+      "word": "中学老师当学生面踩死猫扔垃圾桶",
+      "onboard_time": 1742389644,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189735,
       "num": 189735,
       "word": "胖东来郑州店地址",
       "onboard_time": 1742353101,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189486,
+      "num": 189486,
+      "word": "湖北大学",
+      "onboard_time": 1742391205,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1723,14 +1763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185068,
-      "num": 185068,
-      "word": "中学老师当学生面踩死猫扔垃圾桶",
-      "onboard_time": 1742389644,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184075,
       "num": 263851,
       "word": "美宇航员滞留太空7个月后健康出问题",
@@ -1779,6 +1811,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181188,
+      "num": 181188,
+      "word": "金秀贤确定出席中国台湾高雄樱花季",
+      "onboard_time": 1742391626,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180283,
+      "num": 180283,
+      "word": "陈都灵眼神戏已经进化成这样了",
+      "onboard_time": 1742391385,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180156,
       "num": 213376,
       "word": "肖战我们全球发行成绩",
@@ -1811,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177802,
+      "num": 187608,
+      "word": "夏之光死脑子快转啊",
+      "onboard_time": 1742391685,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177610,
       "num": 177610,
       "word": "南波万男团为罗予彤浪姐打call",
@@ -1827,7 +1883,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175302,
+      "raw_hot": 175753,
       "num": 193623,
       "word": "李敏镐时隔9年来上海",
       "onboard_time": 1742389703,
@@ -2027,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153531,
+      "num": 382703,
+      "word": "景区哪吒塑像被指相貌丑陋",
+      "onboard_time": 1742389943,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153166,
       "num": 153166,
       "word": "华晨宇跳kisskissshyshy",
@@ -2121,6 +2185,14 @@
       "onboard_time": 1742383403,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144234,
+      "num": 144234,
+      "word": "孟子义被夸笑的是李昀锐",
+      "onboard_time": 1742384544,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 143127,
@@ -2219,14 +2291,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 131792,
-      "num": 131792,
-      "word": "孟子义被夸笑的是李昀锐",
-      "onboard_time": 1742384544,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131666,
       "num": 234328,
       "word": "半熟4女三气血很足",
@@ -2265,14 +2329,6 @@
       "onboard_time": 1742368762,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128901,
-      "num": 364018,
-      "word": "卖炒饭净赚50万的创富故事看看就好",
-      "onboard_time": 1742389824,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128360,
@@ -2564,7 +2620,7 @@
     },
     {
       "raw_hot": 92263,
-      "num": 358775,
+      "num": 360593,
       "word": "BOSS上海时尚新地标",
       "onboard_time": 1742388024,
       "rank": 37,
@@ -2577,14 +2633,6 @@
       "onboard_time": 1742348362,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88570,
-      "num": 382703,
-      "word": "景区哪吒塑像被指相貌丑陋",
-      "onboard_time": 1742389943,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88325,
@@ -2963,6 +3011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49608,
+      "num": 241305,
+      "word": "明天就春分了",
+      "onboard_time": 1742391626,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48384,
       "num": 321621,
       "word": "男子造谣成都艾滋病17万人被行拘",
@@ -3036,7 +3092,7 @@
     },
     {
       "raw_hot": 40489,
-      "num": 185355,
+      "num": 185888,
       "word": "夜神小米15Ultra拍到的璀璨星河",
       "onboard_time": 1742388082,
       "rank": 38,
@@ -3156,7 +3212,7 @@
     },
     {
       "raw_hot": 27666,
-      "num": 513791,
+      "num": 586970,
       "word": "高质量发展中国行",
       "onboard_time": 1742390005,
       "rank": 2,
