@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742381016251,
+  "endTime": 1742383243277,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1901957,
+      "num": 442864,
+      "word": "父亲偷偷再婚女儿得知马上立遗嘱",
+      "onboard_time": 1742380583,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1868323,
       "num": 1326489,
       "word": "韩安冉因整容过度鼻子呼吸不畅",
@@ -403,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1786814,
+      "num": 256042,
+      "word": "曝金赛纶在海外结婚",
+      "onboard_time": 1742382686,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1755466,
       "num": 1755466,
       "word": "老公去世短视频最后为了卖洗发水",
@@ -433,14 +449,6 @@
       "onboard_time": 1742124863,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1670179,
-      "num": 442864,
-      "word": "父亲偷偷再婚女儿得知马上立遗嘱",
-      "onboard_time": 1742380583,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1659369,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1742120003,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1022979,
+      "num": 354850,
+      "word": "全场惊呼刘亦菲太美了",
+      "onboard_time": 1742380823,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 1018893,
@@ -2019,6 +2035,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 618468,
+      "num": 452221,
+      "word": "吴宣仪被问为什么只给王源打电话",
+      "onboard_time": 1742379864,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 617371,
       "num": 372394,
       "word": "乘风 婚纱照",
@@ -2081,6 +2105,14 @@
       "onboard_time": 1742358324,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 601545,
+      "num": 601545,
+      "word": "十万一针抗癌药制备成本仅3000元",
+      "onboard_time": 1742378304,
+      "rank": 6,
+      "category": "舆论监督,健康医疗"
     },
     {
       "raw_hot": 598319,
@@ -2323,6 +2355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551083,
+      "num": 255845,
+      "word": "凑崎纱夏 歌手2025",
+      "onboard_time": 1742381544,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 550419,
       "num": 550419,
       "word": "80余执法人员进驻啄木鸟公司",
@@ -2345,14 +2385,6 @@
       "onboard_time": 1742134945,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 544899,
-      "num": 544899,
-      "word": "十万一针抗癌药制备成本仅3000元",
-      "onboard_time": 1742378304,
-      "rank": 6,
-      "category": "舆论监督,健康医疗"
     },
     {
       "raw_hot": 544342,
@@ -2803,14 +2835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 452221,
-      "num": 452221,
-      "word": "吴宣仪被问为什么只给王源打电话",
-      "onboard_time": 1742379864,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 451425,
       "num": 451425,
       "word": "央视曝光AI假冒名人明星",
@@ -3241,6 +3265,14 @@
       "onboard_time": 1742121563,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 374075,
+      "num": 269401,
+      "word": "孙怡好六cos敖闰",
+      "onboard_time": 1742380282,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 373733,
@@ -4099,14 +4131,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 269401,
-      "num": 269401,
-      "word": "孙怡好六cos敖闰",
-      "onboard_time": 1742380282,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 268262,
       "num": 268262,
       "word": "气血不足的人先学会忌口",
@@ -4355,6 +4379,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 256988,
+      "num": 256988,
+      "word": "韵达漏洞致诈骗宣传品进入寄递渠道",
+      "onboard_time": 1742380642,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256962,
       "num": 398245,
       "word": "关晓彤红裙高定",
@@ -4601,6 +4633,14 @@
       "onboard_time": 1742191462,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243833,
+      "num": 423779,
+      "word": "乐山一966万体彩大奖无人领",
+      "onboard_time": 1742380103,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243803,
@@ -5273,14 +5313,6 @@
       "onboard_time": 1742177181,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 212512,
-      "num": 212512,
-      "word": "全场惊呼刘亦菲太美了",
-      "onboard_time": 1742380823,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 212151,
@@ -6163,6 +6195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 192060,
+      "num": 192060,
+      "word": "TREASURE一位",
+      "onboard_time": 1742382745,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192005,
       "num": 412980,
       "word": "中央空调漏水致千万豪宅成水帘洞",
@@ -6249,6 +6289,14 @@
       "onboard_time": 1742285902,
       "rank": 38,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 190280,
+      "num": 190280,
+      "word": "张若昀黑羽拖地长外套造型",
+      "onboard_time": 1742382624,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 190012,
@@ -6459,20 +6507,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186240,
-      "num": 186240,
-      "word": "韵达漏洞致诈骗宣传品进入寄递渠道",
-      "onboard_time": 1742380642,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186120,
       "num": 216831,
       "word": "谁教李宛妲这么穿搭的",
       "onboard_time": 1742295323,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 185925,
+      "num": 440623,
+      "word": "李嘉诚出售的港口有多重要",
+      "onboard_time": 1742379562,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 185896,
@@ -6561,6 +6609,14 @@
       "onboard_time": 1742356164,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183906,
+      "num": 183906,
+      "word": "章若楠第二套",
+      "onboard_time": 1742382984,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 183746,
@@ -7459,6 +7515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159675,
+      "num": 159675,
+      "word": "章若楠红毯状态",
+      "onboard_time": 1742381964,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159608,
       "num": 159608,
       "word": "孙颖莎4比2逆转晋级",
@@ -7905,6 +7969,14 @@
       "onboard_time": 1742287223,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 149110,
+      "num": 149110,
+      "word": "日本记者就中国抗战胜利80周年提问",
+      "onboard_time": 1742382745,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149001,
@@ -8449,14 +8521,6 @@
       "onboard_time": 1742139443,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137781,
-      "num": 440623,
-      "word": "李嘉诚出售的港口有多重要",
-      "onboard_time": 1742379562,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 137753,
@@ -9227,6 +9291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121803,
+      "num": 121803,
+      "word": "章若楠 洋娃娃",
+      "onboard_time": 1742383224,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121572,
       "num": 121572,
       "word": "家里家外告诉我大的不用让着小的",
@@ -9281,6 +9353,14 @@
       "onboard_time": 1742265382,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120293,
+      "num": 120293,
+      "word": "刚脱了羽绒服就该穿防晒衣了",
+      "onboard_time": 1742383224,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 120241,
@@ -9489,6 +9569,14 @@
       "onboard_time": 1742303723,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113968,
+      "num": 255036,
+      "word": "花2元中966万大奖一个多月无人领",
+      "onboard_time": 1742382924,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113935,
@@ -10705,14 +10793,6 @@
       "onboard_time": 1742263341,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 70884,
-      "num": 423779,
-      "word": "乐山一966万体彩大奖无人领",
-      "onboard_time": 1742380103,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69688,
@@ -12099,6 +12179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 27711,
+      "num": 193885,
+      "word": "男子长期喝网红减肥咖啡后心悸呕吐",
+      "onboard_time": 1742382567,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 27247,
       "num": 41654,
       "word": "劣质卫生巾工厂被查处现场",
@@ -12193,6 +12281,14 @@
       "onboard_time": 1742366241,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 25009,
+      "num": 255430,
+      "word": "高校教授用夸克AI比学生都积极",
+      "onboard_time": 1742382084,
+      "rank": 14,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 24974,
@@ -12403,6 +12499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20272,
+      "num": 254573,
+      "word": "王大雷说国足出线首先得敢想",
+      "onboard_time": 1742382265,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20190,
       "num": 35867,
       "word": "记者卧底华莱士餐厅后厨",
@@ -12545,6 +12649,14 @@
       "onboard_time": 1742146696,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15870,
+      "num": 254468,
+      "word": "记者实探金包银市场",
+      "onboard_time": 1742382924,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 15655,
