@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742405997038,
+  "endTime": 1742409203499,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -60347,6 +60347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18788,
+      "num": 38939,
+      "word": "给刘宇宁递个悬疑本子吧",
+      "onboard_time": 1742400023,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18754,
       "num": 42937,
       "word": "AI带你了解两会高频词都有哪些",
@@ -60675,6 +60683,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 16882,
+      "num": 38798,
+      "word": "浪姐6打电话",
+      "onboard_time": 1742408474,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16859,
       "num": 210163,
       "word": "建议设专人专岗保护受野猪等侵扰地区",
@@ -60873,6 +60889,14 @@
       "onboard_time": 1741025832,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 15993,
+      "num": 38752,
+      "word": "檀健次别让外界的风幡框定自己",
+      "onboard_time": 1742402958,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 15965,
@@ -61673,6 +61697,14 @@
       "onboard_time": 1741822099,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 11719,
+      "num": 39314,
+      "word": "争分夺秒狂奔的你真的很赞",
+      "onboard_time": 1742408954,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11635,
