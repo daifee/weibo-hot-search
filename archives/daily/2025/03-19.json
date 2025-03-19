@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742366870444,
+  "endTime": 1742369091887,
   "band_list": [
     {
       "raw_hot": 2160575,
@@ -155,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 974969,
+      "num": 1155995,
+      "word": "李晟担心上浪姐和海陆同款崩塌",
+      "onboard_time": 1742365944,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 942169,
       "num": 942169,
       "word": "媒体评蜜雪冰城别把宽容变纵容",
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 809695,
+      "num": 809695,
+      "word": "女子取170万装修房子银行立马报警",
+      "onboard_time": 1742365882,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 776302,
       "num": 581194,
       "word": "爱犬被毒死主人追凶900天",
@@ -209,14 +225,6 @@
       "onboard_time": 1742347882,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 677660,
-      "num": 420296,
-      "word": "李晟担心上浪姐和海陆同款崩塌",
-      "onboard_time": 1742365944,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 665137,
@@ -331,11 +339,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 528036,
+      "num": 528036,
+      "word": "朱丹真把王珞丹整来浪姐了",
+      "onboard_time": 1742366483,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513350,
       "num": 416708,
       "word": "孟子义说宋妍霏早该来浪姐了",
       "onboard_time": 1742364981,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 506657,
+      "num": 376337,
+      "word": "浪姐6通话真人脉",
+      "onboard_time": 1742368221,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -379,14 +403,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 444339,
-      "num": 444339,
-      "word": "女子取170万装修房子银行立马报警",
-      "onboard_time": 1742365882,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 442450,
       "num": 442450,
       "word": "美滞留女宇航员曾承认健康出问题",
@@ -408,6 +424,14 @@
       "word": "中学讲座称女孩打扮是为了吸引男性",
       "onboard_time": 1742350461,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399783,
+      "num": 399783,
+      "word": "女子诈骗2400万掷1500万打赏男主播",
+      "onboard_time": 1742367262,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -433,6 +457,14 @@
       "onboard_time": 1742310025,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382401,
+      "num": 382401,
+      "word": "犹豫几分钟酒店价格涨了100块",
+      "onboard_time": 1742366181,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 379044,
@@ -491,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348715,
+      "num": 348715,
+      "word": "李嘉琦的官宣方式过于抽象了",
+      "onboard_time": 1742366962,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347679,
       "num": 347679,
       "word": "听泉鉴宝回应辛云来像他",
@@ -537,6 +577,14 @@
       "onboard_time": 1742353582,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 320780,
+      "num": 302169,
+      "word": "祝绪丹演员的脸女团的身材",
+      "onboard_time": 1742367143,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 312333,
@@ -593,6 +641,14 @@
       "onboard_time": 1742364081,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271195,
+      "num": 217242,
+      "word": "杨紫让管乐上台催播芒果国色芳华2",
+      "onboard_time": 1742367323,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 267803,
@@ -683,6 +739,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 250333,
+      "num": 213214,
+      "word": "王源说吴宣仪是老江湖了",
+      "onboard_time": 1742369062,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246856,
       "num": 246856,
       "word": "宋佳说我是我了",
@@ -705,6 +769,14 @@
       "onboard_time": 1742350941,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 243458,
+      "num": 243458,
+      "word": "李嘉诚卖港口美财团为何接盘",
+      "onboard_time": 1742360904,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 235558,
@@ -819,14 +891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202905,
-      "num": 202905,
-      "word": "朱丹真把王珞丹整来浪姐了",
-      "onboard_time": 1742366483,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202476,
       "num": 202476,
       "word": "赔钱可以但道歉不行",
@@ -883,6 +947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194227,
+      "num": 194227,
+      "word": "孟子义不想去浪姐出洋相",
+      "onboard_time": 1742367683,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193751,
       "num": 193751,
       "word": "TVB女演员梁珈咏商场摆摊",
@@ -897,6 +969,14 @@
       "onboard_time": 1742354123,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191057,
+      "num": 237346,
+      "word": "玲花让李艺彤再组个团",
+      "onboard_time": 1742368102,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 189735,
@@ -993,14 +1073,6 @@
       "onboard_time": 1742358683,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 175930,
-      "num": 239720,
-      "word": "李嘉诚卖港口美财团为何接盘",
-      "onboard_time": 1742360904,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 170138,
@@ -1129,6 +1201,14 @@
       "onboard_time": 1742349441,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150023,
+      "num": 150023,
+      "word": "赵露思马伯骞雪景合照",
+      "onboard_time": 1742367923,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 149410,
@@ -1387,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100879,
+      "num": 143825,
+      "word": "维斯塔潘的私人飞机太酷了",
+      "onboard_time": 1742367744,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99269,
       "num": 99269,
       "word": "费启鸣重返240斤vlog",
@@ -1603,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59701,
+      "num": 218515,
+      "word": "巴特勒驯鹿高手",
+      "onboard_time": 1742364261,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59605,
       "num": 59605,
       "word": "夏凤华冷静地说出最狠的话",
@@ -1625,14 +1721,6 @@
       "onboard_time": 1742360544,
       "rank": 45,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 53919,
-      "num": 332135,
-      "word": "犹豫几分钟酒店价格涨了100块",
-      "onboard_time": 1742366181,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 53445,
@@ -1713,6 +1801,14 @@
       "onboard_time": 1742355023,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 40791,
+      "num": 234949,
+      "word": "女子在宁波遇见孙颖莎秒变夹子音",
+      "onboard_time": 1742368221,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 37231,
@@ -1835,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21063,
+      "num": 144609,
+      "word": "年轻帅气央企高管竟是婚托陷阱",
+      "onboard_time": 1742369062,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20190,
       "num": 35867,
       "word": "记者卧底华莱士餐厅后厨",
@@ -1867,6 +1971,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 15152,
+      "num": 144003,
+      "word": "特朗普称是拜登抛弃了两名宇航员",
+      "onboard_time": 1742369062,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14677,
       "num": 21274,
       "word": "华莱士将开展30天卫生抽查",
@@ -1881,6 +1993,14 @@
       "onboard_time": 1742324294,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12926,
+      "num": 199549,
+      "word": "4大行投资金条突破每克710元",
+      "onboard_time": 1742368762,
+      "rank": 29,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 11669,
