@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742412008488,
+  "endTime": 1742412977345,
   "band_list": [
     {
       "raw_hot": 5372498,
@@ -531,8 +531,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10056,
-      "num": 27170,
+      "raw_hot": 10603,
+      "num": 27519,
       "word": "火塘边的深情牵挂",
       "onboard_time": 1742411894,
       "rank": 34,

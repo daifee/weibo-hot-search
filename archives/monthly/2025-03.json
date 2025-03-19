@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742412008488,
+  "endTime": 1742412977345,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -61883,6 +61883,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 10603,
+      "num": 27519,
+      "word": "火塘边的深情牵挂",
+      "onboard_time": 1742411894,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10555,
       "num": 154069,
       "word": "吉尼斯世界纪录刷新",
@@ -61937,14 +61945,6 @@
       "onboard_time": 1742160435,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 10056,
-      "num": 27170,
-      "word": "火塘边的深情牵挂",
-      "onboard_time": 1742411894,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10047,
