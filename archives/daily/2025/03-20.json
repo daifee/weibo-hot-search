@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742426614060,
+  "endTime": 1742427498748,
   "band_list": [
     {
       "raw_hot": 5372498,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 702866,
-      "num": 859410,
+      "num": 873482,
       "word": "邓为 将门毒后",
       "onboard_time": 1742399424,
       "rank": 0,
@@ -43,7 +43,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 553534,
+      "raw_hot": 617787,
       "num": 292043,
       "word": "女子出差险遭强奸又被公司劝离职",
       "onboard_time": 1742393124,
@@ -59,20 +59,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493313,
+      "num": 288302,
+      "word": "父亲偷偷再婚女儿得知马上立遗嘱",
+      "onboard_time": 1742380583,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 460458,
       "num": 288290,
       "word": "林峯老婆换保姆要查行李箱惹争议",
       "onboard_time": 1742400742,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 419983,
-      "num": 288302,
-      "word": "父亲偷偷再婚女儿得知马上立遗嘱",
-      "onboard_time": 1742380583,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 418872,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240364,
+      "num": 121106,
+      "word": "杭州女子带檀健次坐地铁被拦下了",
+      "onboard_time": 1742426059,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214337,
       "num": 219274,
       "word": "金赛纶曾秒删结婚ins",
@@ -179,11 +187,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158855,
+      "raw_hot": 172996,
       "num": 299300,
       "word": "5500元名牌鞋送洗后被擅自换鞋底",
       "onboard_time": 1742398885,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165309,
+      "num": 219581,
+      "word": "卖炒饭净赚50万的创富故事看看就好",
+      "onboard_time": 1742389824,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -235,11 +251,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139220,
-      "num": 219581,
-      "word": "卖炒饭净赚50万的创富故事看看就好",
-      "onboard_time": 1742389824,
-      "rank": 39,
+      "raw_hot": 135921,
+      "num": 135921,
+      "word": "男子秘密辗转多个国家投敌泄密",
+      "onboard_time": 1742414533,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -257,22 +273,6 @@
       "onboard_time": 1742378663,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115381,
-      "num": 115381,
-      "word": "男子秘密辗转多个国家投敌泄密",
-      "onboard_time": 1742414533,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111703,
-      "num": 111703,
-      "word": "杭州女子带檀健次坐地铁被拦下了",
-      "onboard_time": 1742426059,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111022,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94225,
+      "num": 94225,
+      "word": "文旅局回应李胜利现身杭州夜店",
+      "onboard_time": 1742417834,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89885,
       "num": 215688,
       "word": "当学生面虐杀猫老师公开道歉",
@@ -337,6 +345,14 @@
       "onboard_time": 1742384664,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87308,
+      "num": 133638,
+      "word": "俄乌局势",
+      "onboard_time": 1742421255,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84558,
@@ -355,15 +371,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80744,
-      "num": 64321,
-      "word": "文旅局回应李胜利现身杭州夜店",
-      "onboard_time": 1742417834,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 79924,
+      "raw_hot": 82364,
       "num": 99206,
       "word": "孙杨回应被小16岁对手反超",
       "onboard_time": 1742386943,
@@ -377,14 +385,6 @@
       "onboard_time": 1742379864,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 73342,
-      "num": 115015,
-      "word": "俄乌局势",
-      "onboard_time": 1742421255,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 71153,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 67211,
-      "num": 67211,
+      "num": 76927,
       "word": "给刘宇宁递个悬疑本子吧",
       "onboard_time": 1742400023,
       "rank": 42,
@@ -435,12 +435,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49058,
+      "raw_hot": 54534,
+      "num": 54534,
+      "word": "A股",
+      "onboard_time": 1742413094,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 53543,
       "num": 88176,
       "word": "中学老师当学生面踩死猫扔垃圾桶",
       "onboard_time": 1742389644,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50733,
+      "num": 77695,
+      "word": "章若楠回应难哄醉酒戏",
+      "onboard_time": 1742425399,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 50199,
+      "num": 56419,
+      "word": "美俄将在沙特举行会谈",
+      "onboard_time": 1742423356,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 48476,
@@ -459,22 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44993,
-      "num": 48465,
-      "word": "A股",
-      "onboard_time": 1742413094,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 44484,
-      "num": 50208,
-      "word": "章若楠回应难哄醉酒戏",
-      "onboard_time": 1742425399,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44226,
       "num": 210052,
       "word": "商场回应保洁员被指偷窥男厕",
@@ -491,12 +499,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 41916,
-      "num": 56419,
-      "word": "美俄将在沙特举行会谈",
-      "onboard_time": 1742423356,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 42387,
+      "num": 53533,
+      "word": "张豆豆回应孙杨400自银牌",
+      "onboard_time": 1742425097,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42153,
+      "num": 53530,
+      "word": "玩耍时发现火情6名少年齐力灭火",
+      "onboard_time": 1742419754,
+      "rank": 40,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 40993,
+      "num": 53529,
+      "word": "陈都灵眼神戏已经进化成这样了",
+      "onboard_time": 1742391385,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 39436,
@@ -515,36 +539,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 34488,
-      "num": 48386,
-      "word": "玩耍时发现火情6名少年齐力灭火",
-      "onboard_time": 1742419754,
-      "rank": 40,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 34294,
       "num": 425523,
       "word": "这里是多彩贵州",
       "onboard_time": 1742393486,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33995,
-      "num": 48371,
-      "word": "陈都灵眼神戏已经进化成这样了",
-      "onboard_time": 1742391385,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 32296,
-      "num": 48341,
-      "word": "张豆豆回应孙杨400自银牌",
-      "onboard_time": 1742425097,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 29734,
@@ -665,6 +665,14 @@
       "onboard_time": 1742416333,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9568,
+      "num": 53535,
+      "word": "泽连斯基重申愿接受全面停火",
+      "onboard_time": 1742427441,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 9541,
