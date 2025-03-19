@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742424041870,
+  "endTime": 1742426614060,
   "band_list": [
     {
       "raw_hot": 5372498,
@@ -59,20 +59,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 460458,
+      "num": 288290,
+      "word": "林峯老婆换保姆要查行李箱惹争议",
+      "onboard_time": 1742400742,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 419983,
+      "num": 288302,
+      "word": "父亲偷偷再婚女儿得知马上立遗嘱",
+      "onboard_time": 1742380583,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 418872,
       "num": 418872,
       "word": "被拔错牙女子坠楼前哭诉谁来解救我",
       "onboard_time": 1742394625,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 408988,
-      "num": 288290,
-      "word": "林峯老婆换保姆要查行李箱惹争议",
-      "onboard_time": 1742400742,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 405373,
@@ -163,14 +171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 210954,
-      "num": 288302,
-      "word": "父亲偷偷再婚女儿得知马上立遗嘱",
-      "onboard_time": 1742380583,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192821,
       "num": 299795,
       "word": "孟子义章若楠同框",
@@ -179,12 +179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158855,
+      "num": 299300,
+      "word": "5500元名牌鞋送洗后被擅自换鞋底",
+      "onboard_time": 1742398885,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157042,
       "num": 221386,
       "word": "湖北大学",
       "onboard_time": 1742391205,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156501,
+      "num": 297442,
+      "word": "特朗普泽连斯基通话约1小时",
+      "onboard_time": 1742400563,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 152986,
@@ -219,11 +235,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125693,
-      "num": 299300,
-      "word": "5500元名牌鞋送洗后被擅自换鞋底",
-      "onboard_time": 1742398885,
-      "rank": 9,
+      "raw_hot": 139220,
+      "num": 219581,
+      "word": "卖炒饭净赚50万的创富故事看看就好",
+      "onboard_time": 1742389824,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -243,20 +259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115381,
+      "num": 115381,
+      "word": "男子秘密辗转多个国家投敌泄密",
+      "onboard_time": 1742414533,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111703,
+      "num": 111703,
+      "word": "杭州女子带檀健次坐地铁被拦下了",
+      "onboard_time": 1742426059,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111022,
       "num": 296427,
       "word": "一键解锁贵州侗寨的出圈密码",
       "onboard_time": 1742398047,
       "rank": 17,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 104754,
-      "num": 297442,
-      "word": "特朗普泽连斯基通话约1小时",
-      "onboard_time": 1742400563,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 102559,
@@ -331,12 +355,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80744,
+      "num": 64321,
+      "word": "文旅局回应李胜利现身杭州夜店",
+      "onboard_time": 1742417834,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 79924,
+      "num": 99206,
+      "word": "孙杨回应被小16岁对手反超",
+      "onboard_time": 1742386943,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77375,
       "num": 212739,
       "word": "吴宣仪被问为什么只给王源打电话",
       "onboard_time": 1742379864,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73342,
+      "num": 115015,
+      "word": "俄乌局势",
+      "onboard_time": 1742421255,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71153,
@@ -355,12 +403,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68704,
-      "num": 219581,
-      "word": "卖炒饭净赚50万的创富故事看看就好",
-      "onboard_time": 1742389824,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 67211,
+      "num": 67211,
+      "word": "给刘宇宁递个悬疑本子吧",
+      "onboard_time": 1742400023,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 66368,
+      "num": 210961,
+      "word": "美乌元首通话",
+      "onboard_time": 1742401581,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 64048,
@@ -379,28 +435,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56854,
-      "num": 56854,
-      "word": "男子秘密辗转多个国家投敌泄密",
-      "onboard_time": 1742414533,
-      "rank": 9,
+      "raw_hot": 49058,
+      "num": 88176,
+      "word": "中学老师当学生面踩死猫扔垃圾桶",
+      "onboard_time": 1742389644,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55258,
-      "num": 38422,
-      "word": "文旅局回应李胜利现身杭州夜店",
-      "onboard_time": 1742417834,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 48927,
-      "num": 48927,
-      "word": "给刘宇宁递个悬疑本子吧",
-      "onboard_time": 1742400023,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 48476,
+      "num": 99886,
+      "word": "官方已调查女子被拔错牙后坠亡事件",
+      "onboard_time": 1742404157,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45765,
@@ -411,20 +459,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44993,
+      "num": 48465,
+      "word": "A股",
+      "onboard_time": 1742413094,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 44484,
+      "num": 50208,
+      "word": "章若楠回应难哄醉酒戏",
+      "onboard_time": 1742425399,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44226,
       "num": 210052,
       "word": "商场回应保洁员被指偷窥男厕",
       "onboard_time": 1742396905,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44081,
-      "num": 210961,
-      "word": "美乌元首通话",
-      "onboard_time": 1742401581,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 43526,
@@ -435,12 +491,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 43158,
-      "num": 99886,
-      "word": "官方已调查女子被拔错牙后坠亡事件",
-      "onboard_time": 1742404157,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 41916,
+      "num": 56419,
+      "word": "美俄将在沙特举行会谈",
+      "onboard_time": 1742423356,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39436,
@@ -451,28 +507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37390,
-      "num": 88176,
-      "word": "中学老师当学生面踩死猫扔垃圾桶",
-      "onboard_time": 1742389644,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36820,
-      "num": 36820,
-      "word": "俄乌局势",
-      "onboard_time": 1742421255,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 36653,
       "num": 88350,
       "word": "电影热烈官宣4月3日重映",
       "onboard_time": 1742404997,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 34488,
+      "num": 48386,
+      "word": "玩耍时发现火情6名少年齐力灭火",
+      "onboard_time": 1742419754,
+      "rank": 40,
+      "category": "正能量"
     },
     {
       "raw_hot": 34294,
@@ -483,12 +531,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31880,
-      "num": 39319,
+      "raw_hot": 33995,
+      "num": 48371,
       "word": "陈都灵眼神戏已经进化成这样了",
       "onboard_time": 1742391385,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32296,
+      "num": 48341,
+      "word": "张豆豆回应孙杨400自银牌",
+      "onboard_time": 1742425097,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 29734,
@@ -499,44 +555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29108,
-      "num": 99206,
-      "word": "孙杨回应被小16岁对手反超",
-      "onboard_time": 1742386943,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 28506,
-      "num": 28506,
-      "word": "A股",
-      "onboard_time": 1742413094,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 24542,
-      "num": 24542,
-      "word": "玩耍时发现火情6名少年齐力灭火",
-      "onboard_time": 1742419754,
-      "rank": 40,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 20415,
       "num": 39092,
       "word": "檀健次别让外界的风幡框定自己",
       "onboard_time": 1742402958,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19722,
-      "num": 56419,
-      "word": "美俄将在沙特举行会谈",
-      "onboard_time": 1742423356,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19134,
