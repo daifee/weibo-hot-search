@@ -1,0 +1,410 @@
+{
+  "runTime": 1742366001375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1091750,
+        "num": 1174680,
+        "word": "乘风2025全阵容官宣",
+        "onboard_time": 1742359105,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1020459,
+        "num": 1020459,
+        "word": "成都辟谣艾滋病17万人",
+        "onboard_time": 1742355922,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 38078,
+        "num": 913826,
+        "word": "30秒打卡大美贵州",
+        "onboard_time": 1742358324,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1134583,
+        "num": 906372,
+        "word": "龚俊cos敖丙",
+        "onboard_time": 1742364682,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 880608,
+        "num": 880608,
+        "word": "普京做手势嘲讽G7",
+        "onboard_time": 1742364442,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 379822,
+        "num": 379822,
+        "word": "boss直聘崩了",
+        "onboard_time": 1742354241,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 617371,
+        "num": 372394,
+        "word": "乘风 婚纱照",
+        "onboard_time": 1742362762,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559857,
+        "num": 368360,
+        "word": "她从澹州来的惹她干嘛",
+        "onboard_time": 1742360484,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364221,
+        "num": 364221,
+        "word": "男子出卖大量国家秘密被判死刑",
+        "onboard_time": 1742342420,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 269520,
+        "num": 269520,
+        "word": "中国总有飞船待命的原因泪目了",
+        "onboard_time": 1742354781,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1106449,
+        "num": 266864,
+        "word": "胡杏儿老公回应搂抱美女",
+        "onboard_time": 1742360423,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530996,
+        "num": 265286,
+        "word": "潘玮柏1个月减14斤成潘玮薄",
+        "onboard_time": 1742357122,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 397483,
+        "num": 263547,
+        "word": "无穷小亮鉴定网络热门生物周深",
+        "onboard_time": 1742362823,
+        "rank": 12,
+        "category": "作品衍生,科学科普"
+      },
+      {
+        "raw_hot": 373733,
+        "num": 258972,
+        "word": "30岁辞职换赛道有多勇敢",
+        "onboard_time": 1742364621,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290060,
+        "num": 258701,
+        "word": "媒体评蜜雪冰城别把宽容变纵容",
+        "onboard_time": 1742307503,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 329727,
+        "num": 253817,
+        "word": "李晟担心上浪姐和海陆同款崩塌",
+        "onboard_time": 1742365944,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298069,
+        "num": 252536,
+        "word": "孟子义说宋妍霏早该来浪姐了",
+        "onboard_time": 1742364981,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250753,
+        "num": 250753,
+        "word": "肖战米兰小站vlog",
+        "onboard_time": 1742364081,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204647,
+        "num": 242077,
+        "word": "为什么中国航天员能按时回地球",
+        "onboard_time": 1742350400,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241234,
+        "num": 241234,
+        "word": "13岁孙子花光奶奶4.3万元存款",
+        "onboard_time": 1742362402,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282652,
+        "num": 240996,
+        "word": "赵露思 时尚先生",
+        "onboard_time": 1742358984,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 379044,
+        "num": 240685,
+        "word": "气血足的人大多有5个习惯",
+        "onboard_time": 1742364502,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253824,
+        "num": 240642,
+        "word": "董宇辉回应不享受直播为啥要干",
+        "onboard_time": 1742364502,
+        "rank": 22,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 240134,
+        "num": 240134,
+        "word": "于正看了二集贵女",
+        "onboard_time": 1742358324,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111304,
+        "num": 214792,
+        "word": "林诗栋为林高远庆生",
+        "onboard_time": 1742365764,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214601,
+        "num": 214601,
+        "word": "李艾结婚10年和老公复刻结婚照",
+        "onboard_time": 1742360904,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208733,
+        "num": 208733,
+        "word": "王源你一定要说话算话啊",
+        "onboard_time": 1742365042,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202837,
+        "num": 202837,
+        "word": "女子腰疼3拒宝妈换铺后遭言语攻击",
+        "onboard_time": 1742358683,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195966,
+        "num": 195966,
+        "word": "权志龙演唱会",
+        "onboard_time": 1742365343,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24642,
+        "num": 195693,
+        "word": "AI应用套壳是创新还是伪命题",
+        "onboard_time": 1742361922,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195566,
+        "num": 195566,
+        "word": "鞠婧祎是陈都灵剧宣小能手",
+        "onboard_time": 1742365042,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164744,
+        "num": 191225,
+        "word": "短剧都整出自己的川偶了",
+        "onboard_time": 1742364442,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142463,
+        "num": 190554,
+        "word": "91岁老兵与儿子阔别61年团聚",
+        "onboard_time": 1742364502,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 195843,
+        "num": 190510,
+        "word": "韩星李准基涉嫌逃税",
+        "onboard_time": 1742349921,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190171,
+        "num": 190171,
+        "word": "女子取170万装修房子银行立马报警",
+        "onboard_time": 1742365882,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175930,
+        "num": 189823,
+        "word": "李嘉诚卖港口美财团为何接盘",
+        "onboard_time": 1742360904,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94784,
+        "num": 188734,
+        "word": "似锦疯批长公主一炷香灭一个人",
+        "onboard_time": 1742365944,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126870,
+        "num": 187598,
+        "word": "106岁老人劝年轻人要爱工作",
+        "onboard_time": 1742353582,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12830,
+        "num": 185363,
+        "word": "胡锡进用夸克辅助新闻工作",
+        "onboard_time": 1742365162,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185058,
+        "num": 185058,
+        "word": "韩安冉因抽脂身上到处是疤",
+        "onboard_time": 1742344704,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 183915,
+        "num": 183915,
+        "word": "周六野怀孕",
+        "onboard_time": 1742350222,
+        "rank": 40,
+        "category": "网红,运动健身"
+      },
+      {
+        "raw_hot": 180328,
+        "num": 180328,
+        "word": "胡杏儿李乘德交往3个月闪婚",
+        "onboard_time": 1742361023,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183999,
+        "num": 172484,
+        "word": "大侦探一群不扫兴的朋友",
+        "onboard_time": 1742365522,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159408,
+        "num": 159408,
+        "word": "金靖让陈都灵现在起来去斗",
+        "onboard_time": 1742362582,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159382,
+        "num": 159382,
+        "word": "美国公布肯尼迪遇刺事件记录",
+        "onboard_time": 1742341100,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149626,
+        "num": 149626,
+        "word": "林依晨二胎",
+        "onboard_time": 1742346441,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141633,
+        "num": 141633,
+        "word": "秦岚走路的这几秒压迫感好强",
+        "onboard_time": 1742364744,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133261,
+        "num": 133261,
+        "word": "美2名流浪宇航员被转移至救援船",
+        "onboard_time": 1742342420,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132667,
+        "num": 132667,
+        "word": "意大利大批房屋1欧元甩卖",
+        "onboard_time": 1742353582,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93283,
+        "num": 130940,
+        "word": "36岁马龙再次出征全运会",
+        "onboard_time": 1742365462,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#春到黔东南#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742362814464,
+  "endTime": 1742366001375,
   "band_list": [
     {
       "raw_hot": 2160575,
@@ -99,12 +99,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1134583,
+      "num": 906372,
+      "word": "龚俊cos敖丙",
+      "onboard_time": 1742364682,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1101342,
       "num": 504297,
       "word": "林依晨二胎",
       "onboard_time": 1742346441,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1091750,
+      "num": 1174680,
+      "word": "乘风2025全阵容官宣",
+      "onboard_time": 1742359105,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 1088050,
@@ -147,12 +163,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 884219,
-      "num": 884219,
-      "word": "乘风2025全阵容官宣",
-      "onboard_time": 1742359105,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 880608,
+      "num": 880608,
+      "word": "普京做手势嘲讽G7",
+      "onboard_time": 1742364442,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 871286,
@@ -217,6 +233,14 @@
       "onboard_time": 1742354781,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 617371,
+      "num": 372394,
+      "word": "乘风 婚纱照",
+      "onboard_time": 1742362762,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 610997,
@@ -291,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530996,
+      "num": 417393,
+      "word": "潘玮柏1个月减14斤成潘玮薄",
+      "onboard_time": 1742357122,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497211,
       "num": 387041,
       "word": "辛云来 抱歉让大家见笑了",
@@ -355,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 417393,
-      "num": 417393,
-      "word": "潘玮柏1个月减14斤成潘玮薄",
-      "onboard_time": 1742357122,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 397483,
+      "num": 263547,
+      "word": "无穷小亮鉴定网络热门生物周深",
+      "onboard_time": 1742362823,
+      "rank": 12,
+      "category": "作品衍生,科学科普"
     },
     {
       "raw_hot": 395747,
@@ -379,12 +411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 379044,
+      "num": 240685,
+      "word": "气血足的人大多有5个习惯",
+      "onboard_time": 1742364502,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 377587,
       "num": 214284,
       "word": "金秀贤可能破产",
       "onboard_time": 1742296823,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373733,
+      "num": 258972,
+      "word": "30岁辞职换赛道有多勇敢",
+      "onboard_time": 1742364621,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 370329,
@@ -467,6 +515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 329727,
+      "num": 253817,
+      "word": "李晟担心上浪姐和海陆同款崩塌",
+      "onboard_time": 1742365944,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312333,
       "num": 223335,
       "word": "虞书欣方发声明维权",
@@ -481,6 +537,14 @@
       "onboard_time": 1742346144,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298069,
+      "num": 252536,
+      "word": "孟子义说宋妍霏早该来浪姐了",
+      "onboard_time": 1742364981,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 290828,
@@ -579,6 +643,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253824,
+      "num": 240642,
+      "word": "董宇辉回应不享受直播为啥要干",
+      "onboard_time": 1742364502,
+      "rank": 22,
+      "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 250753,
+      "num": 250753,
+      "word": "肖战米兰小站vlog",
+      "onboard_time": 1742364081,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246856,
       "num": 246856,
       "word": "宋佳说我是我了",
@@ -601,6 +681,14 @@
       "onboard_time": 1742350941,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 241234,
+      "num": 241234,
+      "word": "13岁孙子花光奶奶4.3万元存款",
+      "onboard_time": 1742362402,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235558,
@@ -691,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208733,
+      "num": 208733,
+      "word": "王源你一定要说话算话啊",
+      "onboard_time": 1742365042,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203855,
       "num": 203855,
       "word": "一日三次服药并不是指三餐前后",
@@ -747,6 +843,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195966,
+      "num": 195966,
+      "word": "权志龙演唱会",
+      "onboard_time": 1742365343,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 195566,
+      "num": 195566,
+      "word": "鞠婧祎是陈都灵剧宣小能手",
+      "onboard_time": 1742365042,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193751,
       "num": 193751,
       "word": "TVB女演员梁珈咏商场摆摊",
@@ -760,6 +872,14 @@
       "word": "中央空调漏水致千万豪宅成水帘洞",
       "onboard_time": 1742354123,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190171,
+      "num": 190171,
+      "word": "女子取170万装修房子银行立马报警",
+      "onboard_time": 1742365882,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -811,6 +931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 183999,
+      "num": 172484,
+      "word": "大侦探一群不扫兴的朋友",
+      "onboard_time": 1742365522,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183989,
       "num": 183989,
       "word": "孙杨小组第二晋级决赛",
@@ -849,6 +977,14 @@
       "onboard_time": 1742358683,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175930,
+      "num": 239720,
+      "word": "李嘉诚卖港口美财团为何接盘",
+      "onboard_time": 1742360904,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 170138,
@@ -899,6 +1035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164744,
+      "num": 191225,
+      "word": "短剧都整出自己的川偶了",
+      "onboard_time": 1742364442,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163390,
       "num": 163390,
       "word": "温峥嵘演技",
@@ -921,6 +1065,14 @@
       "onboard_time": 1742280263,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159408,
+      "num": 342963,
+      "word": "金靖让陈都灵现在起来去斗",
+      "onboard_time": 1742362582,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 157900,
@@ -947,14 +1099,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 148496,
-      "num": 239720,
-      "word": "李嘉诚卖港口美财团为何接盘",
-      "onboard_time": 1742360904,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 148006,
       "num": 148006,
       "word": "入职北大孙环波本科是民办高校",
@@ -971,28 +1115,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145664,
-      "num": 145664,
-      "word": "乘风 婚纱照",
-      "onboard_time": 1742362762,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 143318,
-      "num": 143318,
-      "word": "13岁孙子花光奶奶4.3万元存款",
-      "onboard_time": 1742362402,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143127,
       "num": 143127,
       "word": "良好睡眠要在30分钟内入睡",
       "onboard_time": 1742312961,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142463,
+      "num": 190554,
+      "word": "91岁老兵与儿子阔别61年团聚",
+      "onboard_time": 1742364502,
+      "rank": 32,
+      "category": "正能量"
     },
     {
       "raw_hot": 142297,
@@ -1003,20 +1139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141633,
+      "num": 141633,
+      "word": "秦岚走路的这几秒压迫感好强",
+      "onboard_time": 1742364744,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140973,
       "num": 160682,
       "word": "王楚钦3天飞3地",
       "onboard_time": 1742360664,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140447,
-      "num": 342963,
-      "word": "金靖让陈都灵现在起来去斗",
-      "onboard_time": 1742362582,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 137041,
@@ -1113,6 +1249,14 @@
       "onboard_time": 1742343802,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 111304,
+      "num": 214792,
+      "word": "林诗栋为林高远庆生",
+      "onboard_time": 1742365764,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 111132,
@@ -1227,6 +1371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 94784,
+      "num": 188734,
+      "word": "似锦疯批长公主一炷香灭一个人",
+      "onboard_time": 1742365944,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94521,
       "num": 94521,
       "word": "送给高考生的超燃歌词",
@@ -1241,6 +1393,14 @@
       "onboard_time": 1742307264,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93283,
+      "num": 130940,
+      "word": "36岁马龙再次出征全运会",
+      "onboard_time": 1742365462,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 92192,
@@ -1641,6 +1801,14 @@
       "onboard_time": 1742324294,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12830,
+      "num": 185363,
+      "word": "胡锡进用夸克辅助新闻工作",
+      "onboard_time": 1742365162,
+      "rank": 38,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [
