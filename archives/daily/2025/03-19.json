@@ -1,10 +1,10 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742353306057,
+  "endTime": 1742353836477,
   "band_list": [
     {
-      "raw_hot": 2063104,
-      "num": 2063104,
+      "raw_hot": 2160575,
+      "num": 2160575,
       "word": "韩星李准基涉嫌逃税",
       "onboard_time": 1742349921,
       "rank": 24,
@@ -27,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1223096,
+      "num": 282385,
+      "word": "周六野怀孕",
+      "onboard_time": 1742350222,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1213827,
       "num": 433396,
       "word": "高以翔生前女友官宣结婚",
       "onboard_time": 1742309126,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1209694,
-      "num": 282385,
-      "word": "周六野怀孕",
-      "onboard_time": 1742350222,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 1209553,
@@ -107,7 +107,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 698142,
+      "raw_hot": 709473,
       "num": 393609,
       "word": "还是金秀贤自己拍的",
       "onboard_time": 1742347882,
@@ -179,20 +179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 492906,
+      "num": 259634,
+      "word": "何泓姗回复陈都灵",
+      "onboard_time": 1742351962,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 483558,
+      "num": 483558,
+      "word": "为什么中国航天员能按时回地球",
+      "onboard_time": 1742350400,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 456427,
       "num": 456427,
       "word": "中南财大学生呼吁取消3000米测试",
       "onboard_time": 1742343683,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 444716,
-      "num": 444716,
-      "word": "为什么中国航天员能按时回地球",
-      "onboard_time": 1742350400,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 442450,
@@ -209,14 +217,6 @@
       "onboard_time": 1742340801,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 429743,
-      "num": 259634,
-      "word": "何泓姗回复陈都灵",
-      "onboard_time": 1742351962,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 427638,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 355937,
+      "num": 355937,
+      "word": "浪姐6二公结果",
+      "onboard_time": 1742351661,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349100,
       "num": 451531,
       "word": "杨紫家业三次开机",
@@ -289,14 +297,6 @@
       "onboard_time": 1742294902,
       "rank": 13,
       "category": "其它"
-    },
-    {
-      "raw_hot": 322811,
-      "num": 322811,
-      "word": "浪姐6二公结果",
-      "onboard_time": 1742351661,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 312333,
@@ -363,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255720,
+      "num": 173016,
+      "word": "听泉鉴宝回应辛云来像他",
+      "onboard_time": 1742353041,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 255324,
       "num": 239612,
       "word": "朋友结婚毒友竟随礼1克冰毒",
@@ -395,6 +403,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220097,
+      "num": 242772,
+      "word": "李准基回应涉嫌逃税",
+      "onboard_time": 1742352022,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218076,
+      "num": 210771,
+      "word": "金饰价格飙到916元",
+      "onboard_time": 1742350941,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 216399,
       "num": 216399,
       "word": "贵女空降",
@@ -403,12 +427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210771,
-      "num": 210771,
-      "word": "金饰价格飙到916元",
-      "onboard_time": 1742350941,
-      "rank": 23,
-      "category": "财经"
+      "raw_hot": 216213,
+      "num": 216213,
+      "word": "全运会",
+      "onboard_time": 1742351361,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 209970,
@@ -427,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208496,
+      "num": 208496,
+      "word": "速度与激情7",
+      "onboard_time": 1742352501,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203855,
       "num": 203855,
       "word": "一日三次服药并不是指三餐前后",
@@ -443,28 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200542,
-      "num": 242772,
-      "word": "李准基回应涉嫌逃税",
-      "onboard_time": 1742352022,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193751,
       "num": 193751,
       "word": "TVB女演员梁珈咏商场摆摊",
       "onboard_time": 1742351241,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192342,
-      "num": 200225,
-      "word": "速度与激情7",
-      "onboard_time": 1742352501,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 188203,
@@ -491,20 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180235,
-      "num": 180235,
-      "word": "全运会",
-      "onboard_time": 1742351361,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 173016,
-      "num": 173016,
-      "word": "听泉鉴宝回应辛云来像他",
-      "onboard_time": 1742353041,
-      "rank": 35,
-      "category": "网红"
+      "raw_hot": 177833,
+      "num": 168385,
+      "word": "胖东来郑州店地址",
+      "onboard_time": 1742353101,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170138,
@@ -571,11 +579,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 154444,
-      "num": 154444,
-      "word": "胖东来郑州店地址",
-      "onboard_time": 1742353101,
-      "rank": 41,
+      "raw_hot": 152752,
+      "num": 152752,
+      "word": "普京拒绝陆海空全面停火30天建议",
+      "onboard_time": 1742352863,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 150041,
+      "num": 150041,
+      "word": "女子为分手多次向情人投毒获刑",
+      "onboard_time": 1742349441,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -587,6 +603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145932,
+      "num": 261366,
+      "word": "特朗普回应普京未同意停火30天",
+      "onboard_time": 1742349561,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 143127,
       "num": 143127,
       "word": "良好睡眠要在30分钟内入睡",
@@ -595,20 +619,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 141463,
-      "num": 141463,
-      "word": "普京拒绝陆海空全面停火30天建议",
-      "onboard_time": 1742352863,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 139776,
-      "num": 201124,
-      "word": "特朗普回应普京未同意停火30天",
-      "onboard_time": 1742349561,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 137520,
+      "num": 137520,
+      "word": "全运会抽签",
+      "onboard_time": 1742353401,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 137041,
@@ -923,6 +939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 56784,
+      "num": 219068,
+      "word": "106岁老人劝年轻人要爱工作",
+      "onboard_time": 1742353582,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53023,
       "num": 53023,
       "word": "中方敦促澳方尊重中国主权",
@@ -1019,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23603,
+      "num": 170235,
+      "word": "意大利大批房屋1欧元甩卖",
+      "onboard_time": 1742353582,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22856,
       "num": 24323,
       "word": "黄晓明 苹什么不爱我",
@@ -1059,6 +1091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 15534,
+      "num": 220146,
+      "word": "初中生指博物馆千年铜镜断代有误",
+      "onboard_time": 1742353461,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14677,
       "num": 21274,
       "word": "华莱士将开展30天卫生抽查",
@@ -1075,8 +1115,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 7091,
-      "num": 142916,
+      "raw_hot": 11827,
+      "num": 145523,
       "word": "什么样的防晒衣才能有效防晒",
       "onboard_time": 1742353220,
       "rank": 45,

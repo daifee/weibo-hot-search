@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742353306057,
+  "endTime": 1742353836477,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -195,6 +195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2160575,
+      "num": 2160575,
+      "word": "韩星李准基涉嫌逃税",
+      "onboard_time": 1742349921,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2102132,
       "num": 932527,
       "word": "蜜雪冰城改24小时营业",
@@ -217,14 +225,6 @@
       "onboard_time": 1742299283,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2063104,
-      "num": 2063104,
-      "word": "韩星李准基涉嫌逃税",
-      "onboard_time": 1742349921,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 2061435,
@@ -667,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1223096,
+      "num": 282385,
+      "word": "周六野怀孕",
+      "onboard_time": 1742350222,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1221918,
       "num": 463443,
       "word": "李镇浩发视频当天金赛纶自杀了6次",
@@ -697,14 +705,6 @@
       "onboard_time": 1742265982,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1209694,
-      "num": 282385,
-      "word": "周六野怀孕",
-      "onboard_time": 1742350222,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 1209553,
@@ -1611,19 +1611,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 709473,
+      "num": 393609,
+      "word": "还是金秀贤自己拍的",
+      "onboard_time": 1742347882,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 706058,
       "num": 520273,
       "word": "苗苗躺在郑恺怀里睡觉",
       "onboard_time": 1742127263,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 698142,
-      "num": 393609,
-      "word": "还是金秀贤自己拍的",
-      "onboard_time": 1742347882,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -2251,6 +2251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492906,
+      "num": 259634,
+      "word": "何泓姗回复陈都灵",
+      "onboard_time": 1742351962,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489386,
       "num": 489386,
       "word": "特朗普亲手将马斯克儿子抱上总统专机",
@@ -2273,6 +2281,14 @@
       "onboard_time": 1742092463,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 483558,
+      "num": 483558,
+      "word": "为什么中国航天员能按时回地球",
+      "onboard_time": 1742350400,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 480787,
@@ -2435,14 +2451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 444716,
-      "num": 444716,
-      "word": "为什么中国航天员能按时回地球",
-      "onboard_time": 1742350400,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 443131,
       "num": 292510,
       "word": "余承东邀尼格买提逛3200平的家",
@@ -2529,14 +2537,6 @@
       "onboard_time": 1742282842,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 429743,
-      "num": 259634,
-      "word": "何泓姗回复陈都灵",
-      "onboard_time": 1742351962,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 429222,
@@ -2867,6 +2867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355937,
+      "num": 355937,
+      "word": "浪姐6二公结果",
+      "onboard_time": 1742351661,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352585,
       "num": 399039,
       "word": "李昀锐张康乐何与生图",
@@ -3081,14 +3089,6 @@
       "onboard_time": 1742221104,
       "rank": 47,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 322811,
-      "num": 322811,
-      "word": "浪姐6二公结果",
-      "onboard_time": 1742351661,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 321665,
@@ -3723,6 +3723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255720,
+      "num": 173016,
+      "word": "听泉鉴宝回应辛云来像他",
+      "onboard_time": 1742353041,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 255524,
       "num": 277258,
       "word": "雷军的粉丝构成还是太全面了",
@@ -4347,6 +4355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220097,
+      "num": 242772,
+      "word": "李准基回应涉嫌逃税",
+      "onboard_time": 1742352022,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219428,
       "num": 219428,
       "word": "李昀锐张康乐同框合照",
@@ -4395,6 +4411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218076,
+      "num": 210771,
+      "word": "金饰价格飙到916元",
+      "onboard_time": 1742350941,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 217954,
       "num": 217954,
       "word": "借贷宝成都总部大门已被贴封条",
@@ -4425,6 +4449,14 @@
       "onboard_time": 1742172622,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 216213,
+      "num": 216213,
+      "word": "全运会",
+      "onboard_time": 1742351361,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 215803,
@@ -4539,14 +4571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 210771,
-      "num": 210771,
-      "word": "金饰价格飙到916元",
-      "onboard_time": 1742350941,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 210671,
       "num": 210671,
       "word": "死活读不下去名著排行榜",
@@ -4617,6 +4641,14 @@
       "onboard_time": 1742349500,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208496,
+      "num": 208496,
+      "word": "速度与激情7",
+      "onboard_time": 1742352501,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 208256,
@@ -4889,14 +4921,6 @@
       "onboard_time": 1742257283,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200542,
-      "num": 242772,
-      "word": "李准基回应涉嫌逃税",
-      "onboard_time": 1742352022,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 200460,
@@ -5209,14 +5233,6 @@
       "onboard_time": 1742295803,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 192342,
-      "num": 200225,
-      "word": "速度与激情7",
-      "onboard_time": 1742352501,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 191728,
@@ -5675,14 +5691,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 180235,
-      "num": 180235,
-      "word": "全运会",
-      "onboard_time": 1742351361,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180178,
       "num": 180178,
       "word": "孙颖莎奖杯自拍",
@@ -5771,6 +5779,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 177833,
+      "num": 168385,
+      "word": "胖东来郑州店地址",
+      "onboard_time": 1742353101,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177279,
       "num": 341803,
       "word": "比亚迪量产全球最高转速驱动电机",
@@ -5849,14 +5865,6 @@
       "onboard_time": 1742049153,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173016,
-      "num": 173016,
-      "word": "听泉鉴宝回应辛云来像他",
-      "onboard_time": 1742353041,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 172783,
@@ -6515,14 +6523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154444,
-      "num": 154444,
-      "word": "胖东来郑州店地址",
-      "onboard_time": 1742353101,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154394,
       "num": 154394,
       "word": "周星驰新电影女足路透",
@@ -6593,6 +6593,14 @@
       "onboard_time": 1742302404,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152752,
+      "num": 152752,
+      "word": "普京拒绝陆海空全面停火30天建议",
+      "onboard_time": 1742352863,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 152466,
@@ -6696,6 +6704,14 @@
       "word": "中学生辱骂同学被判道歉赔6000元",
       "onboard_time": 1742195362,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150041,
+      "num": 150041,
+      "word": "女子为分手多次向情人投毒获刑",
+      "onboard_time": 1742349441,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -6915,6 +6931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145932,
+      "num": 261366,
+      "word": "特朗普回应普京未同意停火30天",
+      "onboard_time": 1742349561,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 145907,
       "num": 145907,
       "word": "宋雨琦微醺烟嗓太苏了",
@@ -7115,14 +7139,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 141463,
-      "num": 141463,
-      "word": "普京拒绝陆海空全面停火30天建议",
-      "onboard_time": 1742352863,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 140970,
       "num": 754529,
       "word": "中央财政提前下达以旧换新首批资金",
@@ -7177,14 +7193,6 @@
       "onboard_time": 1742124683,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 139776,
-      "num": 201124,
-      "word": "特朗普回应普京未同意停火30天",
-      "onboard_time": 1742349561,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 139604,
@@ -7257,6 +7265,14 @@
       "onboard_time": 1742204182,
       "rank": 45,
       "category": "民生新闻,演出"
+    },
+    {
+      "raw_hot": 137520,
+      "num": 137520,
+      "word": "全运会抽签",
+      "onboard_time": 1742353401,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 137125,
@@ -9563,6 +9579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 56784,
+      "num": 219068,
+      "word": "106岁老人劝年轻人要爱工作",
+      "onboard_time": 1742353582,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56771,
       "num": 171615,
       "word": "夏以昼我记得你说过",
@@ -10627,6 +10651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23603,
+      "num": 170235,
+      "word": "意大利大批房屋1欧元甩卖",
+      "onboard_time": 1742353582,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 23505,
       "num": 262169,
       "word": "4元就能定制一张钻石鉴定证书",
@@ -10907,6 +10939,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 15534,
+      "num": 220146,
+      "word": "初中生指博物馆千年铜镜断代有误",
+      "onboard_time": 1742353461,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15501,
       "num": 16031,
       "word": "多品牌否认与劣质卫生巾有关联",
@@ -10977,6 +11017,14 @@
       "onboard_time": 1742149694,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11827,
+      "num": 145523,
+      "word": "什么样的防晒衣才能有效防晒",
+      "onboard_time": 1742353220,
+      "rank": 45,
+      "category": "时尚"
     },
     {
       "raw_hot": 11791,
@@ -11057,14 +11105,6 @@
       "onboard_time": 1742203522,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7091,
-      "num": 142916,
-      "word": "什么样的防晒衣才能有效防晒",
-      "onboard_time": 1742353220,
-      "rank": 45,
-      "category": "时尚"
     }
   ],
   "hotgov_list": [
