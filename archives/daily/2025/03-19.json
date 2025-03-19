@@ -1,10 +1,10 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742384188407,
+  "endTime": 1742388377469,
   "band_list": [
     {
       "raw_hot": 3321685,
-      "num": 256042,
+      "num": 364956,
       "word": "曝金赛纶在海外结婚",
       "onboard_time": 1742382686,
       "rank": 11,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1420409,
+      "num": 1420409,
+      "word": "韵达",
+      "onboard_time": 1742381362,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1361686,
       "num": 1361686,
       "word": "不要一边充电一边看手机",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1177015,
-      "num": 354850,
+      "num": 358406,
       "word": "全场惊呼刘亦菲太美了",
       "onboard_time": 1742380823,
       "rank": 37,
@@ -217,6 +225,14 @@
       "onboard_time": 1742345183,
       "rank": 11,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 1078624,
+      "num": 362662,
+      "word": "杨天真瘦到了124斤",
+      "onboard_time": 1742384723,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1030831,
@@ -339,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 760182,
+      "num": 760182,
+      "word": "秦岚演我生理性厌恶",
+      "onboard_time": 1742384664,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 743116,
       "num": 743116,
       "word": "文韬 申公豹",
@@ -393,6 +417,22 @@
       "onboard_time": 1742354781,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 648178,
+      "num": 648178,
+      "word": "孙杨400自银牌",
+      "onboard_time": 1742387844,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 646322,
+      "num": 353370,
+      "word": "金赛纶录音曝光",
+      "onboard_time": 1742385384,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 618468,
@@ -515,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531544,
+      "num": 531544,
+      "word": "章若楠第二套",
+      "onboard_time": 1742382984,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 530996,
       "num": 417393,
       "word": "潘玮柏1个月减14斤成潘玮薄",
@@ -611,6 +659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 452149,
+      "num": 393202,
+      "word": "景甜出场哇声一片",
+      "onboard_time": 1742383465,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 442450,
       "num": 442450,
       "word": "美滞留女宇航员曾承认健康出问题",
@@ -691,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 398260,
+      "num": 398260,
+      "word": "日本记者就中国抗战胜利80周年提问",
+      "onboard_time": 1742382745,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 397483,
       "num": 326738,
       "word": "无穷小亮鉴定网络热门生物周深",
@@ -763,12 +827,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371580,
+      "num": 351529,
+      "word": "北京环球影城",
+      "onboard_time": 1742387122,
+      "rank": 16,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 370329,
       "num": 454006,
       "word": "赵丽颖换了沈璃背景图",
       "onboard_time": 1742343683,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 369777,
+      "num": 369777,
+      "word": "辞职看世界当事人看完世界回来了",
+      "onboard_time": 1742384843,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364483,
@@ -801,6 +881,14 @@
       "onboard_time": 1742367323,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347758,
+      "num": 347758,
+      "word": "章若楠 洋娃娃",
+      "onboard_time": 1742383224,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 347679,
@@ -931,6 +1019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 279313,
+      "num": 279313,
+      "word": "韵达漏洞致诈骗宣传品进入寄递渠道",
+      "onboard_time": 1742380642,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279127,
       "num": 279127,
       "word": "李嘉诚",
@@ -977,14 +1073,6 @@
       "onboard_time": 1742362402,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 265219,
-      "num": 265219,
-      "word": "章若楠 洋娃娃",
-      "onboard_time": 1742383224,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 263394,
@@ -1043,14 +1131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 256988,
-      "num": 256988,
-      "word": "韵达漏洞致诈骗宣传品进入寄递渠道",
-      "onboard_time": 1742380642,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256962,
       "num": 398245,
       "word": "关晓彤红裙高定",
@@ -1065,6 +1145,14 @@
       "onboard_time": 1742357424,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256415,
+      "num": 256415,
+      "word": "丁禹兮问祝绪丹为什么不唱消散对白",
+      "onboard_time": 1742385563,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 255324,
@@ -1161,14 +1249,6 @@
       "onboard_time": 1742341639,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 231090,
-      "num": 231090,
-      "word": "韵达",
-      "onboard_time": 1742381362,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 229937,
@@ -1387,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201210,
+      "num": 201210,
+      "word": "孙杨回应被小16岁对手反超",
+      "onboard_time": 1742386943,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200873,
       "num": 505020,
       "word": "乘风2025首发立意片",
@@ -1563,14 +1651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185345,
-      "num": 213928,
-      "word": "日本记者就中国抗战胜利80周年提问",
-      "onboard_time": 1742382745,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 184075,
       "num": 263851,
       "word": "美宇航员滞留太空7个月后健康出问题",
@@ -1595,28 +1675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183906,
-      "num": 183906,
-      "word": "章若楠第二套",
-      "onboard_time": 1742382984,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182304,
       "num": 250800,
       "word": "王皓谈樊振东缺席澳门世界杯原因",
       "onboard_time": 1742346564,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181960,
-      "num": 211706,
-      "word": "景甜出场哇声一片",
-      "onboard_time": 1742383465,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 181905,
@@ -1739,6 +1803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164987,
+      "num": 254380,
+      "word": "张纯烨回应是昀牵孟绕的cp粉头",
+      "onboard_time": 1742386704,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164744,
       "num": 191225,
       "word": "短剧都整出自己的川偶了",
@@ -1777,6 +1849,14 @@
       "onboard_time": 1742280263,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160295,
+      "num": 160295,
+      "word": "虞书欣音乐分约签给乐华了",
+      "onboard_time": 1742384904,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 159916,
@@ -1827,12 +1907,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153998,
+      "num": 153998,
+      "word": "孟子义高定look",
+      "onboard_time": 1742387122,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153166,
       "num": 153166,
       "word": "华晨宇跳kisskissshyshy",
       "onboard_time": 1742383765,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153005,
+      "num": 153005,
+      "word": "胡杏儿点赞李乘德的回应",
+      "onboard_time": 1742384424,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 150041,
@@ -1899,6 +1995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144707,
+      "num": 144707,
+      "word": "碧梨 歌手2025",
+      "onboard_time": 1742388146,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143127,
       "num": 143127,
       "word": "良好睡眠要在30分钟内入睡",
@@ -1931,6 +2035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141045,
+      "num": 139952,
+      "word": "童瑶的鞋是金色脚趾形状",
+      "onboard_time": 1742386765,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140973,
       "num": 237733,
       "word": "王楚钦3天飞3地",
@@ -1945,6 +2057,30 @@
       "onboard_time": 1742366843,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140202,
+      "num": 140202,
+      "word": "金智媛露腰礼服",
+      "onboard_time": 1742388146,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 138546,
+      "num": 138546,
+      "word": "雁回时 嗲女文学",
+      "onboard_time": 1742385443,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138217,
+      "num": 138217,
+      "word": "赵露思ins晒和马伯骞合照",
+      "onboard_time": 1742386884,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 137409,
@@ -2059,6 +2195,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 124053,
+      "num": 124053,
+      "word": "黄英是今年浪姐唯一快女",
+      "onboard_time": 1742385924,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122323,
       "num": 122323,
       "word": "贵女热度",
@@ -2097,6 +2241,14 @@
       "onboard_time": 1742372423,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114227,
+      "num": 367928,
+      "word": "中国已向乌克兰提供4批人道主义援助",
+      "onboard_time": 1742384184,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111304,
@@ -2267,6 +2419,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88455,
+      "num": 153030,
+      "word": "BOSS上海时尚新地标",
+      "onboard_time": 1742388024,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 88325,
+      "num": 250481,
+      "word": "拔智齿有多疼来个人形容下",
+      "onboard_time": 1742387184,
+      "rank": 29,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 88179,
       "num": 88179,
       "word": "章子怡素颜开会照",
@@ -2337,6 +2505,14 @@
       "onboard_time": 1742378782,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 74252,
+      "num": 255591,
+      "word": "林高远三十而砺",
+      "onboard_time": 1742385563,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 72465,
@@ -2427,6 +2603,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 62377,
+      "num": 155004,
+      "word": "国企员工承包幼儿园陷千万贪腐疑云",
+      "onboard_time": 1742386404,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 62226,
       "num": 223749,
       "word": "王楚钦出征全运会资格赛",
@@ -2515,6 +2699,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 55863,
+      "num": 345100,
+      "word": "人工智能或为达目标不择手段",
+      "onboard_time": 1742386524,
+      "rank": 19,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 55305,
       "num": 349951,
       "word": "无畏是小猫的证据加一",
@@ -2577,6 +2769,14 @@
       "onboard_time": 1742340560,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 49951,
+      "num": 253018,
+      "word": "中学安保处主任当多名学生面虐杀猫",
+      "onboard_time": 1742387184,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48384,
@@ -2723,6 +2923,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 33646,
+      "num": 252258,
+      "word": "我是领结猫我同意了",
+      "onboard_time": 1742388203,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 31747,
       "num": 200617,
       "word": "天降电话卡被无声扣费8年",
@@ -2809,6 +3017,14 @@
       "onboard_time": 1742319316,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23960,
+      "num": 153013,
+      "word": "夜神小米15Ultra拍到的璀璨星河",
+      "onboard_time": 1742388082,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 23298,
