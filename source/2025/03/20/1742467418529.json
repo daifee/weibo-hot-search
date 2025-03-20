@@ -1,0 +1,410 @@
+{
+  "runTime": 1742467418529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1598921,
+        "num": 1598921,
+        "word": "华为 刘亦菲",
+        "onboard_time": 1742463382,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590959,
+        "num": 590959,
+        "word": "空腹断食66小时的变化",
+        "onboard_time": 1742465661,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73853,
+        "num": 570561,
+        "word": "中国首次实现上万公里星地量子通信",
+        "onboard_time": 1742462422,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 570381,
+        "num": 570381,
+        "word": "黄油年糕",
+        "onboard_time": 1742450181,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 569002,
+        "num": 569002,
+        "word": "女子线雕手术三年后脸上钻出一根线",
+        "onboard_time": 1742464523,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 951097,
+        "num": 567811,
+        "word": "余承东一喊刘亦菲全场欢呼",
+        "onboard_time": 1742466204,
+        "rank": 5,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 564085,
+        "num": 564085,
+        "word": "哪吒2票房152亿",
+        "onboard_time": 1742463983,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 538393,
+        "num": 538393,
+        "word": "华为PuraX",
+        "onboard_time": 1742453481,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 413001,
+        "num": 413001,
+        "word": "小学校长性侵案当事人拒不认罪",
+        "onboard_time": 1742462542,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380413,
+        "num": 380413,
+        "word": "虞书欣哭出了我想要的烟熏妆",
+        "onboard_time": 1742466204,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3024478,
+        "num": 364223,
+        "word": "赵露思取关",
+        "onboard_time": 1742455462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2238932,
+        "num": 350615,
+        "word": "金秀贤起诉金赛纶家属",
+        "onboard_time": 1742465004,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751925,
+        "num": 335805,
+        "word": "代驾小哥因2.6元举报KTV有偿陪侍",
+        "onboard_time": 1742463323,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463445,
+        "num": 319414,
+        "word": "央视网发白敬亭上春山",
+        "onboard_time": 1742448621,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48692,
+        "num": 310734,
+        "word": "林诗栋vs严升",
+        "onboard_time": 1742466921,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66225,
+        "num": 285190,
+        "word": "老人机每月被开50元流量套餐7年",
+        "onboard_time": 1742466562,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713547,
+        "num": 265560,
+        "word": "金秀贤方面准备道歉",
+        "onboard_time": 1742461822,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261010,
+        "num": 261010,
+        "word": "陈都灵身上痒就去洗澡",
+        "onboard_time": 1742466381,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10014,
+        "num": 259782,
+        "word": "内娱苦中年演员扮嫩久矣",
+        "onboard_time": 1742467042,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26543,
+        "num": 259297,
+        "word": "华为阔折叠采用1610阔型屏设计",
+        "onboard_time": 1742465661,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 292353,
+        "num": 256968,
+        "word": "再听一遍上春山",
+        "onboard_time": 1742461642,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 510258,
+        "num": 255866,
+        "word": "孕妇喝椰子水买一箱开出三种颜色",
+        "onboard_time": 1742465661,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294441,
+        "num": 254241,
+        "word": "韩安冉家的保姆都出来发声了",
+        "onboard_time": 1742444182,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 164385,
+        "num": 252390,
+        "word": "河南项城一企业突发火情传出爆炸声",
+        "onboard_time": 1742466921,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 195267,
+        "num": 250590,
+        "word": "商场女厕马桶为何频频变蹲坑",
+        "onboard_time": 1742452521,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28745,
+        "num": 249150,
+        "word": "华为发布鸿蒙AI电视",
+        "onboard_time": 1742463443,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161843,
+        "num": 247273,
+        "word": "热热热热你热热热热",
+        "onboard_time": 1742466322,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246477,
+        "num": 246477,
+        "word": "原来年假是休假一整年的意思",
+        "onboard_time": 1742466381,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39123,
+        "num": 246447,
+        "word": "樊振东现身MLB东京赛",
+        "onboard_time": 1742466683,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89219,
+        "num": 246435,
+        "word": "原来张彬彬王天辰是同班同学",
+        "onboard_time": 1742467222,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246423,
+        "num": 246423,
+        "word": "韩安冉现任丈夫称已和好",
+        "onboard_time": 1742466921,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173551,
+        "num": 173551,
+        "word": "赵露思时尚先生三月刊封面",
+        "onboard_time": 1742442261,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 167636,
+        "num": 167636,
+        "word": "戚薇期期都不放过韩庚",
+        "onboard_time": 1742460441,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130756,
+        "num": 166859,
+        "word": "华为太宠智界车主",
+        "onboard_time": 1742465661,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 166536,
+        "num": 166536,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1742464283,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162678,
+        "num": 162678,
+        "word": "新问界M9",
+        "onboard_time": 1742459543,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 162049,
+        "num": 162049,
+        "word": "河南项城爆炸事故3人失联4人受伤",
+        "onboard_time": 1742467042,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 8925,
+        "num": 156823,
+        "word": "余承东称问界M9将升级华为ADS4",
+        "onboard_time": 1742463443,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 156557,
+        "num": 156557,
+        "word": "原来乳糖耐受是可以被训练出来的",
+        "onboard_time": 1742466322,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153496,
+        "num": 153496,
+        "word": "时代峰峻SM乐华合体",
+        "onboard_time": 1742457683,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152782,
+        "num": 152782,
+        "word": "浪姐首位女性舞台总监",
+        "onboard_time": 1742461942,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27788,
+        "num": 151391,
+        "word": "问界M9硬件升级鸿蒙智行实力宠粉",
+        "onboard_time": 1742463382,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151174,
+        "num": 151174,
+        "word": "华为发布会",
+        "onboard_time": 1742451203,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148823,
+        "num": 148823,
+        "word": "刘晓庆坦言不能随便结婚",
+        "onboard_time": 1742465363,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146834,
+        "num": 146834,
+        "word": "30岁女生一天打三份工的生活",
+        "onboard_time": 1742461822,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140768,
+        "num": 140768,
+        "word": "论文致谢",
+        "onboard_time": 1742466263,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137942,
+        "num": 137942,
+        "word": "克拉岛",
+        "onboard_time": 1742463862,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129674,
+        "num": 129674,
+        "word": "香港航空一客机舱内行李架起火",
+        "onboard_time": 1742460743,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126551,
+        "num": 126551,
+        "word": "瘦身版沙溢眼神都变了",
+        "onboard_time": 1742463382,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123427,
+        "num": 123427,
+        "word": "下周可以准备穿短袖了",
+        "onboard_time": 1742465122,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记在丽江考察这一幕好温馨#"
+    }
+  }
+}
