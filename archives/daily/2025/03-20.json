@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742435295504,
+  "endTime": 1742436597340,
   "band_list": [
     {
       "raw_hot": 5372498,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1184290,
-      "num": 268842,
+      "num": 314582,
       "word": "关晓彤说我赶紧给它换了",
       "onboard_time": 1742430863,
       "rank": 3,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 888180,
-      "num": 135450,
+      "num": 163040,
       "word": "宋浩然回应不会和韩安冉离婚",
       "onboard_time": 1742429063,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 867217,
+      "num": 1138754,
+      "word": "加沙8岁女孩逃难中几乎掉光头发",
+      "onboard_time": 1742434642,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 702866,
@@ -147,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389803,
+      "num": 174496,
+      "word": "冯琳念错李昀锐名字",
+      "onboard_time": 1742435961,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376137,
       "num": 288301,
       "word": "关晓彤造型师又有什么心事了",
@@ -161,6 +177,14 @@
       "onboard_time": 1742384723,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338011,
+      "num": 338011,
+      "word": "春分",
+      "onboard_time": 1742427681,
+      "rank": 5,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 334159,
@@ -179,20 +203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312164,
+      "num": 312164,
+      "word": "春分的分是啥意思",
+      "onboard_time": 1742434342,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306619,
+      "num": 306619,
+      "word": "刘亦菲的男主们送来获奖祝福",
+      "onboard_time": 1742432483,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300819,
       "num": 300819,
       "word": "casetify手机壳 背刺",
       "onboard_time": 1742390125,
       "rank": 5,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 296556,
-      "num": 218476,
-      "word": "刘亦菲的男主们送来获奖祝福",
-      "onboard_time": 1742432483,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 295732,
@@ -209,14 +241,6 @@
       "onboard_time": 1742380823,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260510,
-      "num": 260510,
-      "word": "加沙8岁女孩逃难中几乎掉光头发",
-      "onboard_time": 1742434642,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 255666,
@@ -251,20 +275,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233154,
-      "num": 233154,
-      "word": "春分",
-      "onboard_time": 1742427681,
-      "rank": 5,
-      "category": "民生新闻,旅游"
-    },
-    {
       "raw_hot": 223442,
       "num": 135322,
       "word": "雷军6楼扔西瓜",
       "onboard_time": 1742435001,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 218944,
+      "num": 174463,
+      "word": "央视依然不转播国足对沙特比赛",
+      "onboard_time": 1742434521,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 214337,
@@ -283,20 +307,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203087,
-      "num": 203087,
-      "word": "春分的分是啥意思",
-      "onboard_time": 1742434342,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196899,
       "num": 299300,
       "word": "5500元名牌鞋送洗后被擅自换鞋底",
       "onboard_time": 1742398885,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193593,
+      "num": 193593,
+      "word": "迪丽热巴侧边丸子头",
+      "onboard_time": 1742433621,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192821,
@@ -323,6 +347,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 174436,
+      "num": 174436,
+      "word": "张雪峰公司每月放1次3天小长假",
+      "onboard_time": 1742433861,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 167778,
+      "num": 167778,
+      "word": "李宇春回复白鹿",
+      "onboard_time": 1742434821,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165309,
       "num": 219581,
       "word": "卖炒饭净赚50万的创富故事看看就好",
@@ -347,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162118,
+      "num": 162118,
+      "word": "小学生因直呼老师姓名被打脸9下",
+      "onboard_time": 1742435422,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157042,
       "num": 221386,
       "word": "湖北大学",
@@ -361,14 +409,6 @@
       "onboard_time": 1742400563,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 155663,
-      "num": 155663,
-      "word": "张雪峰公司每月放1次3天小长假",
-      "onboard_time": 1742433861,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 152986,
@@ -393,14 +433,6 @@
       "onboard_time": 1742433380,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 146884,
-      "num": 146884,
-      "word": "迪丽热巴侧边丸子头",
-      "onboard_time": 1742433621,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 145844,
@@ -436,7 +468,7 @@
     },
     {
       "raw_hot": 134981,
-      "num": 134981,
+      "num": 163479,
       "word": "国足目前出线概率",
       "onboard_time": 1742434162,
       "rank": 32,
@@ -449,14 +481,6 @@
       "onboard_time": 1742429123,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126443,
-      "num": 135828,
-      "word": "李宇春回复白鹿",
-      "onboard_time": 1742434821,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 123514,
@@ -475,11 +499,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119329,
-      "num": 119329,
-      "word": "央视依然不转播国足对沙特比赛",
-      "onboard_time": 1742434521,
-      "rank": 34,
+      "raw_hot": 119208,
+      "num": 123651,
+      "word": "王楚钦马龙vs朱毅谢聪凡",
+      "onboard_time": 1742436442,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -489,6 +513,14 @@
       "onboard_time": 1742432603,
       "rank": 35,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 117090,
+      "num": 117090,
+      "word": "谢娜说在乘风轮岗几年了",
+      "onboard_time": 1742435540,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 115285,
@@ -505,6 +537,22 @@
       "onboard_time": 1742398047,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 110629,
+      "num": 110629,
+      "word": "王楚钦马龙全运会资格赛热身",
+      "onboard_time": 1742436382,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109444,
+      "num": 109444,
+      "word": "吴彦姝看刘亦菲砸东西的戏很震撼",
+      "onboard_time": 1742435781,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 108745,
@@ -579,12 +627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91968,
+      "num": 91968,
+      "word": "花花吃竹子突然表演后空翻",
+      "onboard_time": 1742435843,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91811,
       "num": 91811,
       "word": "特朗普称美国或可帮助运营乌发电站",
       "onboard_time": 1742429181,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90342,
+      "num": 90342,
+      "word": "种地吧",
+      "onboard_time": 1742436382,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 89885,
@@ -633,6 +697,14 @@
       "onboard_time": 1742398286,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83672,
+      "num": 83672,
+      "word": "黄仁勋再回应DeepSeek冲击",
+      "onboard_time": 1742433021,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 82604,
@@ -755,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45139,
+      "num": 167058,
+      "word": "孙杨说我敢想也敢做",
+      "onboard_time": 1742435721,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44272,
       "num": 425523,
       "word": "这里是多彩贵州",
@@ -817,6 +897,14 @@
       "onboard_time": 1742404997,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 32269,
+      "num": 117588,
+      "word": "丰巢洗护回应名牌鞋被擅自换鞋底",
+      "onboard_time": 1742432782,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29734,
