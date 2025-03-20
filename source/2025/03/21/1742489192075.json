@@ -1,0 +1,410 @@
+{
+  "runTime": 1742489192075,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 530949,
+        "num": 745108,
+        "word": "内蒙古悬赏120万征集12起命案线索",
+        "onboard_time": 1742485101,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342154,
+        "num": 342154,
+        "word": "月鳞绮纪",
+        "onboard_time": 1742481864,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31049,
+        "num": 246538,
+        "word": "我国大型汽车运输船上新了",
+        "onboard_time": 1742475082,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213158,
+        "num": 213158,
+        "word": "女子取一个快递被骗10多万",
+        "onboard_time": 1742480303,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206233,
+        "num": 206233,
+        "word": "国足vs沙特",
+        "onboard_time": 1742487380,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 739787,
+        "num": 206207,
+        "word": "瑶一瑶小肉包停更一月后更新",
+        "onboard_time": 1742481142,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 216151,
+        "num": 206109,
+        "word": "自愿被群像骗了一年又一年",
+        "onboard_time": 1742481624,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205597,
+        "num": 205597,
+        "word": "中科院",
+        "onboard_time": 1742480544,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183589,
+        "num": 183589,
+        "word": "校方回应男生上厕所遭保安偷拍",
+        "onboard_time": 1742484084,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142187,
+        "num": 142187,
+        "word": "热热热热你热热热热",
+        "onboard_time": 1742466322,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1417408,
+        "num": 142160,
+        "word": "赵露思取关",
+        "onboard_time": 1742455462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 696507,
+        "num": 141389,
+        "word": "985研究生退学摆摊日入700元",
+        "onboard_time": 1742485882,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408863,
+        "num": 140928,
+        "word": "闺蜜有金赛纶被家暴的照片",
+        "onboard_time": 1742480242,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368082,
+        "num": 140490,
+        "word": "男子因没钱起诉已分手3年女友还40万",
+        "onboard_time": 1742484023,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359598,
+        "num": 140179,
+        "word": "疑似王一博离开乐华",
+        "onboard_time": 1742476523,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244131,
+        "num": 139427,
+        "word": "金秀贤方面准备道歉",
+        "onboard_time": 1742461822,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230769,
+        "num": 138951,
+        "word": "央视网发白敬亭上春山",
+        "onboard_time": 1742448621,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193522,
+        "num": 138716,
+        "word": "金赛纶母亲看到录音后爆哭",
+        "onboard_time": 1742474241,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159217,
+        "num": 137931,
+        "word": "空腹断食66小时的变化",
+        "onboard_time": 1742465661,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137804,
+        "num": 137804,
+        "word": "女生陪同领导出差遭客户猥亵",
+        "onboard_time": 1742485342,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129765,
+        "num": 129765,
+        "word": "啄木鸟承诺的整改去哪了",
+        "onboard_time": 1742480904,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 127551,
+        "num": 127551,
+        "word": "白鹿不敢睁开眼希望是我的幻觉",
+        "onboard_time": 1742486181,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123668,
+        "num": 123668,
+        "word": "华为 刘亦菲",
+        "onboard_time": 1742463382,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112673,
+        "num": 112673,
+        "word": "考研英语田静",
+        "onboard_time": 1742475503,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110042,
+        "num": 110042,
+        "word": "天秤座使用说明",
+        "onboard_time": 1742483183,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94219,
+        "num": 94219,
+        "word": "虞书欣哭出了我想要的烟熏妆",
+        "onboard_time": 1742466204,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92862,
+        "num": 92862,
+        "word": "当事人回应3.5万买北海道170平房",
+        "onboard_time": 1742484144,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92553,
+        "num": 92553,
+        "word": "杜华问你配吗",
+        "onboard_time": 1742476462,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84692,
+        "num": 92209,
+        "word": "雁回时",
+        "onboard_time": 1742465661,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80824,
+        "num": 92067,
+        "word": "国王要醒了",
+        "onboard_time": 1742477303,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92059,
+        "num": 92059,
+        "word": "哪吒2票房152亿",
+        "onboard_time": 1742463983,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86687,
+        "num": 86687,
+        "word": "面粉疑现老鼠秋田满满要求检测年龄",
+        "onboard_time": 1742483006,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84492,
+        "num": 84492,
+        "word": "孕妇喝椰子水买一箱开出三种颜色",
+        "onboard_time": 1742465661,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80871,
+        "num": 80871,
+        "word": "母鸡卡",
+        "onboard_time": 1742483543,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 75979,
+        "num": 75979,
+        "word": "郑钦文vs戴维斯",
+        "onboard_time": 1742483183,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70494,
+        "num": 70494,
+        "word": "李惠利中国杂志首封",
+        "onboard_time": 1742475683,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 70074,
+        "num": 70074,
+        "word": "孙颖莎说一天一场很合理",
+        "onboard_time": 1742487860,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66319,
+        "num": 70072,
+        "word": "女子线雕手术三年后脸上钻出一根线",
+        "onboard_time": 1742464523,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65740,
+        "num": 70069,
+        "word": "月鳞绮纪拍戏片场着火",
+        "onboard_time": 1742483244,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63457,
+        "num": 70064,
+        "word": "雁回时热度",
+        "onboard_time": 1742478923,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61121,
+        "num": 70063,
+        "word": "董思成抱着周翊然的狗",
+        "onboard_time": 1742483543,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60346,
+        "num": 70059,
+        "word": "大四下返校感觉真的不一样",
+        "onboard_time": 1742480544,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 60260,
+        "num": 70055,
+        "word": "余茵玉茗茶骨妆造",
+        "onboard_time": 1742482042,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54583,
+        "num": 70050,
+        "word": "邓为挑染",
+        "onboard_time": 1742483424,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51864,
+        "num": 70046,
+        "word": "代驾小哥因2.6元举报KTV有偿陪侍",
+        "onboard_time": 1742463323,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51721,
+        "num": 70043,
+        "word": "杨紫直播",
+        "onboard_time": 1742476462,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51432,
+        "num": 70040,
+        "word": "张若昀在男频赛道里的地位",
+        "onboard_time": 1742479283,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50903,
+        "num": 70036,
+        "word": "小雪 首发",
+        "onboard_time": 1742484802,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46258,
+        "num": 70035,
+        "word": "王一博对接辟谣网传离开乐华",
+        "onboard_time": 1742484383,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40497,
+        "num": 70028,
+        "word": "马龙刘诗雯的互动好有爱",
+        "onboard_time": 1742476643,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中国式现代化进程中开创云南发展新局面#"
+    }
+  }
+}
