@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742481818405,
+  "endTime": 1742484426689,
   "band_list": [
     {
       "raw_hot": 13516718,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2108273,
-      "num": 323433,
+      "num": 324360,
       "word": "疑似王一博离开乐华",
       "onboard_time": 1742476523,
       "rank": 11,
@@ -139,8 +139,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1248416,
+      "num": 1248416,
+      "word": "瑶一瑶小肉包停更一月后更新",
+      "onboard_time": 1742481142,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1238642,
-      "num": 268675,
+      "num": 334972,
       "word": "闺蜜有金赛纶被家暴的照片",
       "onboard_time": 1742480242,
       "rank": 23,
@@ -307,6 +315,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 687562,
+      "num": 687562,
+      "word": "女子取一个快递被骗10多万",
+      "onboard_time": 1742480303,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 668912,
       "num": 236747,
       "word": "赵露思又一条百万赞ins",
@@ -417,6 +433,14 @@
       "onboard_time": 1742463983,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 563015,
+      "num": 443987,
+      "word": "月鳞绮纪",
+      "onboard_time": 1742481864,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 558391,
@@ -553,6 +577,14 @@
       "onboard_time": 1742434521,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 444509,
+      "num": 444509,
+      "word": "中科院",
+      "onboard_time": 1742480544,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 442238,
@@ -715,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363629,
+      "num": 363629,
+      "word": "啄木鸟承诺的整改去哪了",
+      "onboard_time": 1742480904,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 360898,
       "num": 360898,
       "word": "马龙刘诗雯的互动好有爱",
@@ -867,14 +907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271229,
-      "num": 271229,
-      "word": "女子取一个快递被骗10多万",
-      "onboard_time": 1742480303,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268208,
       "num": 268208,
       "word": "全场惊呼刘亦菲太美了",
@@ -907,12 +939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253635,
-      "num": 253635,
-      "word": "中科院",
-      "onboard_time": 1742480544,
-      "rank": 46,
-      "category": "教育"
+      "raw_hot": 254375,
+      "num": 254375,
+      "word": "自愿被群像骗了一年又一年",
+      "onboard_time": 1742481624,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 253619,
@@ -979,6 +1011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245625,
+      "num": 315368,
+      "word": "面粉疑现老鼠秋田满满要求检测年龄",
+      "onboard_time": 1742483006,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243361,
       "num": 243361,
       "word": "30岁女生一天打三份工的生活",
@@ -1033,14 +1073,6 @@
       "onboard_time": 1742472501,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 233021,
-      "num": 233021,
-      "word": "瑶一瑶小肉包停更一月后更新",
-      "onboard_time": 1742481142,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 225339,
@@ -1243,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203813,
+      "num": 203813,
+      "word": "月鳞绮纪拍戏片场着火",
+      "onboard_time": 1742483244,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203517,
       "num": 203517,
       "word": "婚姻里女性要承担多少隐形家务",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1742451261,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 197903,
+      "num": 197903,
+      "word": "母鸡卡",
+      "onboard_time": 1742483543,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 196899,
@@ -1499,6 +1547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 183845,
+      "num": 183845,
+      "word": "董思成抱着周翊然的狗",
+      "onboard_time": 1742483543,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183533,
       "num": 183533,
       "word": "DeepSeek",
@@ -1617,6 +1673,14 @@
       "onboard_time": 1742467042,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 171353,
+      "num": 171353,
+      "word": "邓为挑染",
+      "onboard_time": 1742483424,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171350,
@@ -1977,6 +2041,14 @@
       "onboard_time": 1742457382,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 147042,
+      "num": 147042,
+      "word": "余茵玉茗茶骨妆造",
+      "onboard_time": 1742482042,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 146836,
@@ -2571,6 +2643,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 114809,
+      "num": 114809,
+      "word": "天秤座使用说明",
+      "onboard_time": 1742483183,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114744,
       "num": 267717,
       "word": "沈腾叫马丽老搭档",
@@ -2585,6 +2665,14 @@
       "onboard_time": 1742455882,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 114096,
+      "num": 145125,
+      "word": "大四下返校感觉真的不一样",
+      "onboard_time": 1742480544,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 113391,
@@ -2667,14 +2755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108888,
-      "num": 108888,
-      "word": "自愿被群像骗了一年又一年",
-      "onboard_time": 1742481624,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 108856,
       "num": 254523,
       "word": "马龙王楚钦看弟弟采访",
@@ -2692,7 +2772,7 @@
     },
     {
       "raw_hot": 107169,
-      "num": 261476,
+      "num": 330128,
       "word": "中国星今朝版加新上市9.97万起",
       "onboard_time": 1742479403,
       "rank": 15,
@@ -2913,14 +2993,6 @@
       "onboard_time": 1742436382,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 90329,
-      "num": 248551,
-      "word": "啄木鸟承诺的整改去哪了",
-      "onboard_time": 1742480904,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 89885,
@@ -3211,6 +3283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 59410,
+      "num": 339918,
+      "word": "泽连斯基称特朗普对核电站感兴趣",
+      "onboard_time": 1742483244,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 59091,
       "num": 308198,
       "word": "法国闹蛋荒",
@@ -3219,20 +3299,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 57727,
-      "num": 145125,
-      "word": "大四下返校感觉真的不一样",
-      "onboard_time": 1742480544,
-      "rank": 39,
-      "category": "教育"
-    },
-    {
       "raw_hot": 57615,
       "num": 210555,
       "word": "丁禹兮问祝绪丹为什么不唱消散对白",
       "onboard_time": 1742385563,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56955,
+      "num": 139671,
+      "word": "郑钦文vs戴维斯",
+      "onboard_time": 1742483183,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 56251,
@@ -3329,6 +3409,14 @@
       "onboard_time": 1742477843,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 50944,
+      "num": 325819,
+      "word": "男子因没钱起诉已分手3年女友还40万",
+      "onboard_time": 1742484023,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50733,
@@ -3435,6 +3523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43995,
+      "num": 189600,
+      "word": "当事人回应3.5万买北海道170平房",
+      "onboard_time": 1742484144,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43542,
       "num": 214142,
       "word": "四川一街头惊现免费买新房广告语",
@@ -3449,6 +3545,14 @@
       "onboard_time": 1742401760,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 43205,
+      "num": 124646,
+      "word": "王一博对接辟谣网传离开乐华",
+      "onboard_time": 1742484383,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 42387,
@@ -3505,6 +3609,14 @@
       "onboard_time": 1742466683,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38779,
+      "num": 312154,
+      "word": "校方回应男生上厕所遭保安偷拍",
+      "onboard_time": 1742484084,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38113,
