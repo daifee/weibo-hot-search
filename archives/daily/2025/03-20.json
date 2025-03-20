@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742484426689,
+  "endTime": 1742485278749,
   "band_list": [
     {
       "raw_hot": 13516718,
@@ -131,20 +131,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1297377,
+      "num": 1297377,
+      "word": "瑶一瑶小肉包停更一月后更新",
+      "onboard_time": 1742481142,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1265766,
       "num": 1265766,
       "word": "关晓彤造型师回应",
       "onboard_time": 1742441542,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1248416,
-      "num": 1248416,
-      "word": "瑶一瑶小肉包停更一月后更新",
-      "onboard_time": 1742481142,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 1238642,
@@ -339,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 661097,
+      "num": 661097,
+      "word": "月鳞绮纪",
+      "onboard_time": 1742481864,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 651691,
       "num": 651691,
       "word": "王宝强新剧扔烟头炸车这一下",
@@ -433,14 +441,6 @@
       "onboard_time": 1742463983,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 563015,
-      "num": 443987,
-      "word": "月鳞绮纪",
-      "onboard_time": 1742481864,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 558391,
@@ -579,8 +579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 444509,
-      "num": 444509,
+      "raw_hot": 449365,
+      "num": 449365,
       "word": "中科院",
       "onboard_time": 1742480544,
       "rank": 46,
@@ -739,20 +739,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 370940,
+      "num": 370940,
+      "word": "啄木鸟承诺的整改去哪了",
+      "onboard_time": 1742480904,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 366955,
       "num": 296624,
       "word": "杨天真瘦到了124斤",
       "onboard_time": 1742384723,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 363629,
-      "num": 363629,
-      "word": "啄木鸟承诺的整改去哪了",
-      "onboard_time": 1742480904,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 360898,
@@ -769,6 +769,14 @@
       "onboard_time": 1742446163,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354232,
+      "num": 315368,
+      "word": "面粉疑现老鼠秋田满满要求检测年龄",
+      "onboard_time": 1742483006,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 348788,
@@ -873,6 +881,14 @@
       "onboard_time": 1742391444,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284729,
+      "num": 325819,
+      "word": "男子因没钱起诉已分手3年女友还40万",
+      "onboard_time": 1742484023,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279838,
@@ -1009,14 +1025,6 @@
       "onboard_time": 1742466381,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 245625,
-      "num": 315368,
-      "word": "面粉疑现老鼠秋田满满要求检测年龄",
-      "onboard_time": 1742483006,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 243361,
@@ -2771,6 +2779,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108616,
+      "num": 108616,
+      "word": "小雪 首发",
+      "onboard_time": 1742484802,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 108508,
+      "num": 189600,
+      "word": "当事人回应3.5万买北海道170平房",
+      "onboard_time": 1742484144,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107169,
       "num": 330128,
       "word": "中国星今朝版加新上市9.97万起",
@@ -3091,6 +3115,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82276,
+      "num": 312154,
+      "word": "校方回应男生上厕所遭保安偷拍",
+      "onboard_time": 1742484084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78635,
+      "num": 297574,
+      "word": "郑钦文vs戴维斯",
+      "onboard_time": 1742483183,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77386,
       "num": 77386,
       "word": "谢娜乘风发布人惊喜亮相",
@@ -3113,6 +3153,14 @@
       "onboard_time": 1742451802,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 76390,
+      "num": 339918,
+      "word": "泽连斯基称特朗普对核电站感兴趣",
+      "onboard_time": 1742483244,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 75628,
@@ -3283,12 +3331,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 59410,
-      "num": 339918,
-      "word": "泽连斯基称特朗普对核电站感兴趣",
-      "onboard_time": 1742483244,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 60171,
+      "num": 265597,
+      "word": "王一博对接辟谣网传离开乐华",
+      "onboard_time": 1742484383,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 59091,
@@ -3305,14 +3353,6 @@
       "onboard_time": 1742385563,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56955,
-      "num": 139671,
-      "word": "郑钦文vs戴维斯",
-      "onboard_time": 1742483183,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 56251,
@@ -3409,14 +3449,6 @@
       "onboard_time": 1742477843,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 50944,
-      "num": 325819,
-      "word": "男子因没钱起诉已分手3年女友还40万",
-      "onboard_time": 1742484023,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50733,
@@ -3523,14 +3555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43995,
-      "num": 189600,
-      "word": "当事人回应3.5万买北海道170平房",
-      "onboard_time": 1742484144,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43542,
       "num": 214142,
       "word": "四川一街头惊现免费买新房广告语",
@@ -3545,14 +3569,6 @@
       "onboard_time": 1742401760,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 43205,
-      "num": 124646,
-      "word": "王一博对接辟谣网传离开乐华",
-      "onboard_time": 1742484383,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 42387,
@@ -3609,14 +3625,6 @@
       "onboard_time": 1742466683,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38779,
-      "num": 312154,
-      "word": "校方回应男生上厕所遭保安偷拍",
-      "onboard_time": 1742484084,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38113,
@@ -3688,6 +3696,14 @@
       "word": "丰巢洗护回应名牌鞋被擅自换鞋底",
       "onboard_time": 1742432782,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31526,
+      "num": 251189,
+      "word": "内蒙古悬赏120万征集12起命案线索",
+      "onboard_time": 1742485101,
+      "rank": 21,
       "category": "民生新闻"
     },
     {

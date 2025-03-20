@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742484426689,
+  "endTime": 1742485278749,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -843,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1297377,
+      "num": 1297377,
+      "word": "瑶一瑶小肉包停更一月后更新",
+      "onboard_time": 1742481142,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1295830,
       "num": 383375,
       "word": "金赛纶遗属最新立场",
@@ -913,14 +921,6 @@
       "onboard_time": 1742191761,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1248416,
-      "num": 1248416,
-      "word": "瑶一瑶小肉包停更一月后更新",
-      "onboard_time": 1742481142,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 1238642,
@@ -2379,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 661097,
+      "num": 661097,
+      "word": "月鳞绮纪",
+      "onboard_time": 1742481864,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 660805,
       "num": 597421,
       "word": "女性太强男性真的会不敢追吗",
@@ -2833,14 +2841,6 @@
       "onboard_time": 1742310503,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 563015,
-      "num": 443987,
-      "word": "月鳞绮纪",
-      "onboard_time": 1742481864,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 562693,
@@ -3539,6 +3539,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 449365,
+      "num": 449365,
+      "word": "中科院",
+      "onboard_time": 1742480544,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 449110,
       "num": 273331,
       "word": "关晓彤的第二套",
@@ -3553,14 +3561,6 @@
       "onboard_time": 1742285843,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 444509,
-      "num": 444509,
-      "word": "中科院",
-      "onboard_time": 1742480544,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 443131,
@@ -4171,6 +4171,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 370940,
+      "num": 370940,
+      "word": "啄木鸟承诺的整改去哪了",
+      "onboard_time": 1742480904,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 370329,
       "num": 454006,
       "word": "赵丽颖换了沈璃背景图",
@@ -4216,14 +4224,6 @@
       "word": "苏菲",
       "onboard_time": 1742042610,
       "rank": 31,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 363629,
-      "num": 363629,
-      "word": "啄木鸟承诺的整改去哪了",
-      "onboard_time": 1742480904,
-      "rank": 19,
       "category": "舆论监督"
     },
     {
@@ -4273,6 +4273,14 @@
       "onboard_time": 1742097324,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 354232,
+      "num": 315368,
+      "word": "面粉疑现老鼠秋田满满要求检测年龄",
+      "onboard_time": 1742483006,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352585,
@@ -4913,6 +4921,14 @@
       "onboard_time": 1742379023,
       "rank": 33,
       "category": "财经,网红"
+    },
+    {
+      "raw_hot": 284729,
+      "num": 325819,
+      "word": "男子因没钱起诉已分手3年女友还40万",
+      "onboard_time": 1742484023,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284122,
@@ -5753,14 +5769,6 @@
       "onboard_time": 1742123902,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 245625,
-      "num": 315368,
-      "word": "面粉疑现老鼠秋田满满要求检测年龄",
-      "onboard_time": 1742483006,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 245323,
@@ -12939,6 +12947,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108616,
+      "num": 108616,
+      "word": "小雪 首发",
+      "onboard_time": 1742484802,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 108508,
+      "num": 189600,
+      "word": "当事人回应3.5万买北海道170平房",
+      "onboard_time": 1742484144,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108487,
       "num": 279520,
       "word": "投资人不意外阿里打出夸克这张牌",
@@ -13947,6 +13971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82276,
+      "num": 312154,
+      "word": "校方回应男生上厕所遭保安偷拍",
+      "onboard_time": 1742484084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82201,
       "num": 338657,
       "word": "梅德韦杰夫说乌克兰是主菜",
@@ -14091,6 +14123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78635,
+      "num": 297574,
+      "word": "郑钦文vs戴维斯",
+      "onboard_time": 1742483183,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78067,
       "num": 674733,
       "word": "外交部回应美商务部禁用DeepSeek",
@@ -14153,6 +14193,14 @@
       "onboard_time": 1742314820,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76390,
+      "num": 339918,
+      "word": "泽连斯基称特朗普对核电站感兴趣",
+      "onboard_time": 1742483244,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 75746,
@@ -14659,6 +14707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60171,
+      "num": 265597,
+      "word": "王一博对接辟谣网传离开乐华",
+      "onboard_time": 1742484383,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60151,
       "num": 369398,
       "word": "极氪智驾坐稳第一梯队",
@@ -14689,14 +14745,6 @@
       "onboard_time": 1742315958,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59410,
-      "num": 339918,
-      "word": "泽连斯基称特朗普对核电站感兴趣",
-      "onboard_time": 1742483244,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 59091,
@@ -14753,14 +14801,6 @@
       "onboard_time": 1742334974,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 56955,
-      "num": 139671,
-      "word": "郑钦文vs戴维斯",
-      "onboard_time": 1742483183,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 56897,
@@ -15139,14 +15179,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 50944,
-      "num": 325819,
-      "word": "男子因没钱起诉已分手3年女友还40万",
-      "onboard_time": 1742484023,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50935,
       "num": 606651,
       "word": "美国24小时40多起龙卷风",
@@ -15411,14 +15443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43995,
-      "num": 189600,
-      "word": "当事人回应3.5万买北海道170平房",
-      "onboard_time": 1742484144,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43593,
       "num": 328168,
       "word": "警惕影视作品中被浪漫化的恋童与操控",
@@ -15489,14 +15513,6 @@
       "onboard_time": 1742361922,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 43205,
-      "num": 124646,
-      "word": "王一博对接辟谣网传离开乐华",
-      "onboard_time": 1742484383,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 43200,
@@ -15697,14 +15713,6 @@
       "onboard_time": 1742067134,
       "rank": 43,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 38779,
-      "num": 312154,
-      "word": "校方回应男生上厕所遭保安偷拍",
-      "onboard_time": 1742484084,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38762,
@@ -16097,6 +16105,14 @@
       "onboard_time": 1742288963,
       "rank": 46,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 31526,
+      "num": 251189,
+      "word": "内蒙古悬赏120万征集12起命案线索",
+      "onboard_time": 1742485101,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31027,

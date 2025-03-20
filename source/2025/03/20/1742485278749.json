@@ -1,0 +1,410 @@
+{
+  "runTime": 1742485278749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1297377,
+        "num": 1297377,
+        "word": "瑶一瑶小肉包停更一月后更新",
+        "onboard_time": 1742481142,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 674354,
+        "num": 674354,
+        "word": "女子取一个快递被骗10多万",
+        "onboard_time": 1742480303,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51489,
+        "num": 664689,
+        "word": "我国大型汽车运输船上新了",
+        "onboard_time": 1742475082,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 661097,
+        "num": 661097,
+        "word": "月鳞绮纪",
+        "onboard_time": 1742481864,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449365,
+        "num": 449365,
+        "word": "中科院",
+        "onboard_time": 1742480544,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 422749,
+        "num": 422749,
+        "word": "热热热热你热热热热",
+        "onboard_time": 1742466322,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442034,
+        "num": 400606,
+        "word": "国王要醒了",
+        "onboard_time": 1742477303,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370940,
+        "num": 370940,
+        "word": "啄木鸟承诺的整改去哪了",
+        "onboard_time": 1742480904,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 297695,
+        "num": 297695,
+        "word": "华为 刘亦菲",
+        "onboard_time": 1742463382,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78635,
+        "num": 297574,
+        "word": "郑钦文vs戴维斯",
+        "onboard_time": 1742483183,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2311777,
+        "num": 294617,
+        "word": "赵露思取关",
+        "onboard_time": 1742455462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1057314,
+        "num": 290583,
+        "word": "闺蜜有金赛纶被家暴的照片",
+        "onboard_time": 1742480242,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 806129,
+        "num": 289116,
+        "word": "韩安冉长文回应离婚风波",
+        "onboard_time": 1742471122,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 777615,
+        "num": 287167,
+        "word": "疑似王一博离开乐华",
+        "onboard_time": 1742476523,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284729,
+        "num": 284729,
+        "word": "男子因没钱起诉已分手3年女友还40万",
+        "onboard_time": 1742484023,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524318,
+        "num": 284362,
+        "word": "空腹断食66小时的变化",
+        "onboard_time": 1742465661,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421484,
+        "num": 275723,
+        "word": "央视网发白敬亭上春山",
+        "onboard_time": 1742448621,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415643,
+        "num": 273443,
+        "word": "金秀贤方面准备道歉",
+        "onboard_time": 1742461822,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60171,
+        "num": 265597,
+        "word": "王一博对接辟谣网传离开乐华",
+        "onboard_time": 1742484383,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82276,
+        "num": 262170,
+        "word": "校方回应男生上厕所遭保安偷拍",
+        "onboard_time": 1742484084,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366705,
+        "num": 254796,
+        "word": "金赛纶母亲看到录音后爆哭",
+        "onboard_time": 1742474241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31526,
+        "num": 251189,
+        "word": "内蒙古悬赏120万征集12起命案线索",
+        "onboard_time": 1742485101,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354232,
+        "num": 243725,
+        "word": "面粉疑现老鼠秋田满满要求检测年龄",
+        "onboard_time": 1742483006,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241838,
+        "num": 241838,
+        "word": "自愿被群像骗了一年又一年",
+        "onboard_time": 1742481624,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230723,
+        "num": 230723,
+        "word": "考研英语田静",
+        "onboard_time": 1742475503,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192783,
+        "num": 192783,
+        "word": "哪吒2票房152亿",
+        "onboard_time": 1742463983,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191470,
+        "num": 191470,
+        "word": "月鳞绮纪拍戏片场着火",
+        "onboard_time": 1742483244,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162922,
+        "num": 162922,
+        "word": "孕妇喝椰子水买一箱开出三种颜色",
+        "onboard_time": 1742465661,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159923,
+        "num": 159923,
+        "word": "杜华问你配吗",
+        "onboard_time": 1742476462,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108508,
+        "num": 158882,
+        "word": "当事人回应3.5万买北海道170平房",
+        "onboard_time": 1742484144,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158059,
+        "num": 158059,
+        "word": "雁回时热度",
+        "onboard_time": 1742478923,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102942,
+        "num": 157652,
+        "word": "中国星今朝版加新上市9.97万起",
+        "onboard_time": 1742479403,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157432,
+        "num": 157432,
+        "word": "女子线雕手术三年后脸上钻出一根线",
+        "onboard_time": 1742464523,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143037,
+        "num": 143037,
+        "word": "虞书欣哭出了我想要的烟熏妆",
+        "onboard_time": 1742466204,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76390,
+        "num": 139475,
+        "word": "泽连斯基称特朗普对核电站感兴趣",
+        "onboard_time": 1742483244,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136039,
+        "num": 136039,
+        "word": "余茵玉茗茶骨妆造",
+        "onboard_time": 1742482042,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134380,
+        "num": 134380,
+        "word": "韩安冉现任丈夫称已和好",
+        "onboard_time": 1742466921,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132148,
+        "num": 132148,
+        "word": "李惠利中国杂志首封",
+        "onboard_time": 1742475683,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131200,
+        "num": 131200,
+        "word": "邓为挑染",
+        "onboard_time": 1742483424,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121033,
+        "num": 121033,
+        "word": "张若昀在男频赛道里的地位",
+        "onboard_time": 1742479283,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120193,
+        "num": 120193,
+        "word": "董思成抱着周翊然的狗",
+        "onboard_time": 1742483543,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119550,
+        "num": 119550,
+        "word": "母鸡卡",
+        "onboard_time": 1742483543,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 113901,
+        "num": 113901,
+        "word": "雁回时",
+        "onboard_time": 1742465661,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108868,
+        "num": 108868,
+        "word": "中国移动日赚3.78亿",
+        "onboard_time": 1742478623,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108672,
+        "num": 108672,
+        "word": "大四下返校感觉真的不一样",
+        "onboard_time": 1742480544,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108616,
+        "num": 108616,
+        "word": "小雪 首发",
+        "onboard_time": 1742484802,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104306,
+        "num": 104306,
+        "word": "杨紫直播",
+        "onboard_time": 1742476462,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100327,
+        "num": 100327,
+        "word": "代驾小哥因2.6元举报KTV有偿陪侍",
+        "onboard_time": 1742463323,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99887,
+        "num": 99887,
+        "word": "马龙刘诗雯的互动好有爱",
+        "onboard_time": 1742476643,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93339,
+        "num": 93339,
+        "word": "清清尽力了",
+        "onboard_time": 1742481565,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中国式现代化进程中开创云南发展新局面#"
+    }
+  }
+}
