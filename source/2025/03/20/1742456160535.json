@@ -1,0 +1,410 @@
+{
+  "runTime": 1742456160535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2074423,
+        "num": 2074423,
+        "word": "华为PuraX",
+        "onboard_time": 1742453481,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1049773,
+        "num": 1049773,
+        "word": "黄油年糕",
+        "onboard_time": 1742450181,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 17195,
+        "num": 837009,
+        "word": "一键解锁贵州侗寨的出圈密码",
+        "onboard_time": 1742398047,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 748546,
+        "num": 748546,
+        "word": "华为 阔折叠",
+        "onboard_time": 1742454083,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 686944,
+        "num": 686944,
+        "word": "华为发布会",
+        "onboard_time": 1742451203,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 531798,
+        "num": 531798,
+        "word": "商场女厕马桶为何频频变蹲坑",
+        "onboard_time": 1742452521,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 648764,
+        "num": 467854,
+        "word": "赵露思自己化的杂志妆容",
+        "onboard_time": 1742449041,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 232699,
+        "num": 421305,
+        "word": "谭卓给胡歌微信备注谁谁谁她爸",
+        "onboard_time": 1742450962,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402534,
+        "num": 402534,
+        "word": "李嘉诚",
+        "onboard_time": 1742445203,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68974,
+        "num": 382402,
+        "word": "多部门调查商人举报检察员侵吞资产",
+        "onboard_time": 1742454622,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 859238,
+        "num": 348566,
+        "word": "央视网发白敬亭上春山",
+        "onboard_time": 1742448621,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13516718,
+        "num": 13516718,
+        "word": "赵露思取关",
+        "onboard_time": 1742455462,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821658,
+        "num": 292191,
+        "word": "韩安冉家的保姆都出来发声了",
+        "onboard_time": 1742444182,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 282838,
+        "num": 282838,
+        "word": "HR看我工位笑了",
+        "onboard_time": 1742446463,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 568748,
+        "num": 275886,
+        "word": "金秀贤台湾见面会参加者需年满18岁",
+        "onboard_time": 1742453361,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207875,
+        "num": 270955,
+        "word": "陈都灵完全是妈咪级别的",
+        "onboard_time": 1742455701,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199226,
+        "num": 256598,
+        "word": "十个勤天春分直播",
+        "onboard_time": 1742454984,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193899,
+        "num": 246523,
+        "word": "周也的耳环比耳朵都大",
+        "onboard_time": 1742454683,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146694,
+        "num": 233153,
+        "word": "湖北大学失联女生衣服被环卫工捡走",
+        "onboard_time": 1742455522,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227422,
+        "num": 227422,
+        "word": "金赛纶曾被男朋友用孩子威胁",
+        "onboard_time": 1742437761,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377461,
+        "num": 225123,
+        "word": "韩安冉 离婚",
+        "onboard_time": 1742395704,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202594,
+        "num": 222520,
+        "word": "考研调剂系统每次开放不得低于12小时",
+        "onboard_time": 1742448383,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189275,
+        "num": 222308,
+        "word": "别人饭撒沈腾马丽撒饭",
+        "onboard_time": 1742455042,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222302,
+        "num": 222302,
+        "word": "关晓彤造型师回应",
+        "onboard_time": 1742441542,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216627,
+        "num": 216627,
+        "word": "华为 DeepSeek",
+        "onboard_time": 1742454803,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169498,
+        "num": 169498,
+        "word": "王宝强新剧和秋雅演夫妻",
+        "onboard_time": 1742455223,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169224,
+        "num": 169224,
+        "word": "王俊凯直播",
+        "onboard_time": 1742453782,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141596,
+        "num": 160059,
+        "word": "张若昀唐艺昕不认可不能离婚的规定",
+        "onboard_time": 1742438241,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180473,
+        "num": 157673,
+        "word": "华为PuraX 电子书",
+        "onboard_time": 1742454502,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96287,
+        "num": 155555,
+        "word": "洛阳一湖底出现塌方",
+        "onboard_time": 1742454502,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154985,
+        "num": 154985,
+        "word": "律师称千禾0酱油存主观误导嫌疑",
+        "onboard_time": 1742440462,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 182236,
+        "num": 150765,
+        "word": "体制内DeepSeek提示词",
+        "onboard_time": 1742448383,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55137,
+        "num": 143527,
+        "word": "马龙说身体允许将全力以赴",
+        "onboard_time": 1742455582,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138164,
+        "num": 138164,
+        "word": "王宝强新剧扔烟头炸车这一下",
+        "onboard_time": 1742445324,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151010,
+        "num": 137836,
+        "word": "马龙说你是哪儿的记者",
+        "onboard_time": 1742455223,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134861,
+        "num": 134861,
+        "word": "千禾0商标被指误导消费者零添加",
+        "onboard_time": 1742442082,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 133462,
+        "num": 133462,
+        "word": "14岁儿子意外枪杀6岁女儿",
+        "onboard_time": 1742429603,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124430,
+        "num": 124430,
+        "word": "湖北大学失联女生家属透露更多细节",
+        "onboard_time": 1742447662,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118349,
+        "num": 118349,
+        "word": "半熟恋人cp回娘家",
+        "onboard_time": 1742453722,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114099,
+        "num": 114099,
+        "word": "余承东感谢鸿蒙时代合伙人",
+        "onboard_time": 1742455882,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113384,
+        "num": 113384,
+        "word": "宋妍霏字字不提爱字字都是爱",
+        "onboard_time": 1742456003,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106998,
+        "num": 106998,
+        "word": "春天的美好溢出屏幕了",
+        "onboard_time": 1742451920,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106385,
+        "num": 106385,
+        "word": "眼神翻页",
+        "onboard_time": 1742455821,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105843,
+        "num": 105843,
+        "word": "蔡康永说人想轻松懒惰没那么丢脸",
+        "onboard_time": 1742453964,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103584,
+        "num": 103584,
+        "word": "小学校长性侵多名学生案二审开庭",
+        "onboard_time": 1742444603,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101187,
+        "num": 102801,
+        "word": "徐明浩这太有生活了",
+        "onboard_time": 1742453542,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102544,
+        "num": 102544,
+        "word": "铁打的虞书欣流水的虞夫",
+        "onboard_time": 1742456123,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50619,
+        "num": 102481,
+        "word": "马龙独得2分",
+        "onboard_time": 1742448082,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102426,
+        "num": 102426,
+        "word": "韩国爱豆练习生的现实",
+        "onboard_time": 1742448320,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100405,
+        "num": 100405,
+        "word": "加沙8岁女孩逃难中几乎掉光头发",
+        "onboard_time": 1742434642,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励贵州向新#"
+    }
+  }
+}

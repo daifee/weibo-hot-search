@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742455384014,
+  "endTime": 1742456160535,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -80,6 +80,14 @@
       "word": "曝王大陆涉嫌杀人未遂移送侦办",
       "onboard_time": 1741077081,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 13516718,
+      "num": 13516718,
+      "word": "赵露思取关",
+      "onboard_time": 1742455462,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -953,6 +961,14 @@
       "onboard_time": 1741943423,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2074423,
+      "num": 2074423,
+      "word": "华为PuraX",
+      "onboard_time": 1742453481,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 2074073,
@@ -2633,14 +2649,6 @@
       "onboard_time": 1742133444,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1305411,
-      "num": 1305411,
-      "word": "华为PuraX",
-      "onboard_time": 1742453481,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 1305385,
@@ -6635,6 +6643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 748546,
+      "num": 748546,
+      "word": "华为 阔折叠",
+      "onboard_time": 1742454083,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 748377,
       "num": 748377,
       "word": "孙颖莎vs王艺迪",
@@ -10003,6 +10019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531798,
+      "num": 531798,
+      "word": "商场女厕马桶为何频频变蹲坑",
+      "onboard_time": 1742452521,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531544,
       "num": 531544,
       "word": "章若楠第二套",
@@ -12603,14 +12627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 419076,
-      "num": 419076,
-      "word": "商场女厕马桶为何频频变蹲坑",
-      "onboard_time": 1742452521,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 419072,
       "num": 419072,
       "word": "霍启刚谈哪吒2",
@@ -15113,14 +15129,6 @@
       "onboard_time": 1741792106,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 348113,
-      "num": 348113,
-      "word": "华为 阔折叠",
-      "onboard_time": 1742454083,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 348100,
@@ -23259,6 +23267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 216627,
+      "num": 216627,
+      "word": "华为 DeepSeek",
+      "onboard_time": 1742454803,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 216611,
       "num": 431496,
       "word": "男子婚纱照被多个博主冒用扯上命案",
@@ -24329,6 +24345,14 @@
       "onboard_time": 1741022773,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207875,
+      "num": 270955,
+      "word": "陈都灵完全是妈咪级别的",
+      "onboard_time": 1742455701,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 207778,
@@ -25979,6 +26003,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 199226,
+      "num": 256598,
+      "word": "十个勤天春分直播",
+      "onboard_time": 1742454984,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199111,
       "num": 199111,
       "word": "也门遭袭已致13死",
@@ -26297,14 +26329,6 @@
       "onboard_time": 1741681642,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 197281,
-      "num": 197281,
-      "word": "华为 DeepSeek",
-      "onboard_time": 1742454803,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 197109,
@@ -26953,6 +26977,14 @@
       "onboard_time": 1741138039,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 193899,
+      "num": 246523,
+      "word": "周也的耳环比耳朵都大",
+      "onboard_time": 1742454683,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 193846,
@@ -27867,6 +27899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189275,
+      "num": 272564,
+      "word": "别人饭撒沈腾马丽撒饭",
+      "onboard_time": 1742455042,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189260,
       "num": 189260,
       "word": "张杰 香港启德体育园",
@@ -28089,14 +28129,6 @@
       "onboard_time": 1740918500,
       "rank": 30,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 188303,
-      "num": 272564,
-      "word": "别人饭撒沈腾马丽撒饭",
-      "onboard_time": 1742455042,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 188217,
@@ -31387,6 +31419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169498,
+      "num": 169498,
+      "word": "王宝强新剧和秋雅演夫妻",
+      "onboard_time": 1742455223,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169411,
       "num": 451081,
       "word": "美俄同意需要结束俄乌冲突实现长久和平",
@@ -31865,14 +31905,6 @@
       "onboard_time": 1742097502,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 167428,
-      "num": 167428,
-      "word": "周也的耳环比耳朵都大",
-      "onboard_time": 1742454683,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 167371,
@@ -35699,6 +35731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151010,
+      "num": 137836,
+      "word": "马龙说你是哪儿的记者",
+      "onboard_time": 1742455223,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150996,
       "num": 150996,
       "word": "肖战粉丝G社生图",
@@ -36363,14 +36403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147830,
-      "num": 147830,
-      "word": "十个勤天春分直播",
-      "onboard_time": 1742454984,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147798,
       "num": 147798,
       "word": "妻子节目组禁止虐待李承铉",
@@ -36625,6 +36657,14 @@
       "onboard_time": 1741398261,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146694,
+      "num": 233153,
+      "word": "湖北大学失联女生衣服被环卫工捡走",
+      "onboard_time": 1742455522,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146691,
@@ -41475,14 +41515,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 126430,
-      "num": 126430,
-      "word": "马龙说你是哪儿的记者",
-      "onboard_time": 1742455223,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126426,
       "num": 136260,
       "word": "郭杰瑞发视频向美国追讨圆明园文物",
@@ -44499,14 +44531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114356,
-      "num": 114356,
-      "word": "王宝强新剧和秋雅演夫妻",
-      "onboard_time": 1742455223,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114339,
       "num": 114339,
       "word": "龙丹妮给李宇春清唱是你",
@@ -44561,6 +44585,14 @@
       "onboard_time": 1741015279,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114099,
+      "num": 114099,
+      "word": "余承东感谢鸿蒙时代合伙人",
+      "onboard_time": 1742455882,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 114077,
@@ -44761,6 +44793,14 @@
       "onboard_time": 1742442863,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113384,
+      "num": 113384,
+      "word": "宋妍霏字字不提爱字字都是爱",
+      "onboard_time": 1742456003,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 113370,
@@ -46403,6 +46443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106385,
+      "num": 106385,
+      "word": "眼神翻页",
+      "onboard_time": 1742455821,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 106360,
       "num": 106360,
       "word": "湖南卫视连发15条张杰",
@@ -46592,6 +46640,14 @@
       "word": "章若楠边唱歌边说对不起",
       "onboard_time": 1741415539,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105843,
+      "num": 336307,
+      "word": "蔡康永说人想轻松懒惰没那么丢脸",
+      "onboard_time": 1742453964,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -47337,6 +47393,14 @@
       "onboard_time": 1740964697,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102544,
+      "num": 102544,
+      "word": "铁打的虞书欣流水的虞夫",
+      "onboard_time": 1742456123,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 102481,
@@ -48761,6 +48825,14 @@
       "onboard_time": 1742226021,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96287,
+      "num": 158884,
+      "word": "洛阳一湖底出现塌方",
+      "onboard_time": 1742454502,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96177,
@@ -52155,14 +52227,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 74168,
-      "num": 158884,
-      "word": "洛阳一湖底出现塌方",
-      "onboard_time": 1742454502,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74158,
       "num": 123983,
       "word": "美乌沙特会谈就临时停火等达成共识",
@@ -52851,14 +52915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69369,
-      "num": 336307,
-      "word": "蔡康永说人想轻松懒惰没那么丢脸",
-      "onboard_time": 1742453964,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69311,
       "num": 69311,
       "word": "利物浦vs巴黎圣日耳曼",
@@ -52881,6 +52937,14 @@
       "onboard_time": 1740884419,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 68974,
+      "num": 382402,
+      "word": "多部门调查商人举报检察员侵吞资产",
+      "onboard_time": 1742454622,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 68931,
@@ -54915,6 +54979,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 55137,
+      "num": 143527,
+      "word": "马龙说身体允许将全力以赴",
+      "onboard_time": 1742455582,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55056,
       "num": 61042,
       "word": "宋亚轩一起听歌吗",
@@ -56465,14 +56537,6 @@
       "onboard_time": 1741107135,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 45733,
-      "num": 378731,
-      "word": "多部门调查商人举报检察员侵吞资产",
-      "onboard_time": 1742454622,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 45658,
