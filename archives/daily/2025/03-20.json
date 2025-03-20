@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742459459334,
+  "endTime": 1742460235627,
   "band_list": [
     {
       "raw_hot": 13516718,
@@ -267,6 +267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 550781,
+      "num": 339918,
+      "word": "曝山西一高校女生校内产子",
+      "onboard_time": 1742457623,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 547272,
       "num": 547272,
       "word": "马龙王楚钦3比0朱毅谢聪凡",
@@ -411,19 +419,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 410316,
-      "num": 339918,
-      "word": "曝山西一高校女生校内产子",
-      "onboard_time": 1742457623,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 409946,
       "num": 409946,
       "word": "湖北大学失联女生家属透露更多细节",
       "onboard_time": 1742447662,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405664,
+      "num": 423959,
+      "word": "湖北大学失联女生衣服被环卫工捡走",
+      "onboard_time": 1742455522,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -457,14 +465,6 @@
       "onboard_time": 1742445745,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376141,
-      "num": 423959,
-      "word": "湖北大学失联女生衣服被环卫工捡走",
-      "onboard_time": 1742455522,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 376137,
@@ -627,20 +627,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249649,
+      "num": 249649,
+      "word": "时代峰峻SM乐华合体",
+      "onboard_time": 1742457683,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249104,
       "num": 249104,
       "word": "王楚钦马龙vs朱毅谢聪凡",
       "onboard_time": 1742436442,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246665,
-      "num": 246665,
-      "word": "时代峰峻SM乐华合体",
-      "onboard_time": 1742457683,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 241800,
@@ -691,6 +691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 222166,
+      "num": 222166,
+      "word": "张凌赫王楚然新剧或6月开机",
+      "onboard_time": 1742460202,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222074,
       "num": 222074,
       "word": "四六级报名",
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 215236,
-      "num": 215236,
+      "num": 257551,
       "word": "宋妍霏字字不提爱字字都是爱",
       "onboard_time": 1742456003,
       "rank": 40,
@@ -779,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208221,
+      "num": 208221,
+      "word": "新问界M9",
+      "onboard_time": 1742459543,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 206388,
       "num": 260681,
       "word": "贵女",
@@ -793,6 +809,14 @@
       "onboard_time": 1742438362,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202445,
+      "num": 278616,
+      "word": "蒋敦豪让男一女一锁死",
+      "onboard_time": 1742459902,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 202068,
@@ -931,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188829,
+      "num": 281285,
+      "word": "马龙说你是哪儿的记者",
+      "onboard_time": 1742455223,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188106,
       "num": 200238,
       "word": "湖北大学失联女大学生家属发声",
@@ -1003,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174582,
+      "num": 174582,
+      "word": "华为将于5月发布鸿蒙电脑",
+      "onboard_time": 1742459482,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 171350,
       "num": 171350,
       "word": "钓上来一条开口求人放生的鱼",
@@ -1035,12 +1075,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168602,
+      "num": 254648,
+      "word": "龚俊录制新综",
+      "onboard_time": 1742459662,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166747,
       "num": 166747,
       "word": "半熟恋人cp回娘家",
       "onboard_time": 1742453722,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166429,
+      "num": 166429,
+      "word": "杨幂生活感",
+      "onboard_time": 1742459963,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 165309,
@@ -1067,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162785,
+      "num": 162785,
+      "word": "人人都买得起",
+      "onboard_time": 1742459482,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 162773,
       "num": 230234,
       "word": "月子会所回应月嫂感冒致婴儿肺炎",
@@ -1081,6 +1145,14 @@
       "onboard_time": 1742448563,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162759,
+      "num": 160789,
+      "word": "辛云来单手公主抱陈都灵",
+      "onboard_time": 1742459362,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 162575,
@@ -1107,12 +1179,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160592,
+      "num": 160592,
+      "word": "这部剧拍了好多经典骗局",
+      "onboard_time": 1742459662,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159796,
       "num": 158376,
       "word": "京东称缴社保外卖骑手人数已过万",
       "onboard_time": 1742440942,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 158460,
+      "num": 158460,
+      "word": "明日方舟",
+      "onboard_time": 1742459482,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 157662,
@@ -1177,14 +1265,6 @@
       "onboard_time": 1742451141,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151579,
-      "num": 215817,
-      "word": "马龙说你是哪儿的记者",
-      "onboard_time": 1742455223,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 151456,
@@ -1475,12 +1555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121967,
+      "num": 161337,
+      "word": "洛阳一湖底出现塌方",
+      "onboard_time": 1742454502,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121786,
       "num": 220995,
       "word": "金饰价格飙到923元",
       "onboard_time": 1742443223,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 121480,
+      "num": 273967,
+      "word": "特朗普将签署行政令关闭美国教育部",
+      "onboard_time": 1742457981,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121363,
@@ -1497,14 +1593,6 @@
       "onboard_time": 1742442322,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120385,
-      "num": 273967,
-      "word": "特朗普将签署行政令关闭美国教育部",
-      "onboard_time": 1742457981,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 117236,
@@ -1627,14 +1715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106955,
-      "num": 158884,
-      "word": "洛阳一湖底出现塌方",
-      "onboard_time": 1742454502,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106385,
       "num": 106385,
       "word": "眼神翻页",
@@ -1649,6 +1729,14 @@
       "onboard_time": 1742434222,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106067,
+      "num": 342021,
+      "word": "加方应停止干涉中国司法主权",
+      "onboard_time": 1742459543,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105944,
@@ -1689,14 +1777,6 @@
       "onboard_time": 1742452762,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101818,
-      "num": 101818,
-      "word": "辛云来单手公主抱陈都灵",
-      "onboard_time": 1742459362,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 100145,
@@ -1771,12 +1851,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94299,
+      "num": 123517,
+      "word": "一级军士长送女儿参军",
+      "onboard_time": 1742460082,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94229,
       "num": 94229,
       "word": "孟子义李昀锐一起上台领奖",
       "onboard_time": 1742429303,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93498,
+      "num": 316566,
+      "word": "秋田满满回应儿童面粉被曝有老鼠",
+      "onboard_time": 1742458282,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91811,
@@ -1940,7 +2036,7 @@
     },
     {
       "raw_hot": 67738,
-      "num": 253309,
+      "num": 292505,
       "word": "藏东西环节云来把智商展现得淋漓尽致",
       "onboard_time": 1742458942,
       "rank": 22,
@@ -1995,14 +2091,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 58203,
-      "num": 316566,
-      "word": "秋田满满回应儿童面粉被曝有老鼠",
-      "onboard_time": 1742458282,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57615,
       "num": 210555,
       "word": "丁禹兮问祝绪丹为什么不唱消散对白",
@@ -2052,7 +2140,7 @@
     },
     {
       "raw_hot": 53636,
-      "num": 97683,
+      "num": 292142,
       "word": "假如生活难题都有导航",
       "onboard_time": 1742459423,
       "rank": 49,
@@ -2139,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45709,
+      "num": 269338,
+      "word": "今屿随便拍的",
+      "onboard_time": 1742459722,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 45139,
       "num": 167058,
       "word": "孙杨说我敢想也敢做",
@@ -2220,7 +2316,7 @@
     },
     {
       "raw_hot": 34369,
-      "num": 211337,
+      "num": 266579,
       "word": "华为PuraX首发搭载全新AI小艺",
       "onboard_time": 1742456543,
       "rank": 28,
@@ -2273,6 +2369,14 @@
       "onboard_time": 1742402958,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19367,
+      "num": 274527,
+      "word": "美总统特朗普敦促美联储降息",
+      "onboard_time": 1742459902,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19134,
