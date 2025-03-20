@@ -1,0 +1,410 @@
+{
+  "runTime": 1742470577853,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1357369,
+        "num": 1357369,
+        "word": "热热热热你热热热热",
+        "onboard_time": 1742466322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1355394,
+        "num": 1355394,
+        "word": "空腹断食66小时的变化",
+        "onboard_time": 1742465661,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47852,
+        "num": 822054,
+        "word": "中国首次实现上万公里星地量子通信",
+        "onboard_time": 1742462422,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 732960,
+        "num": 732960,
+        "word": "华为 刘亦菲",
+        "onboard_time": 1742463382,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603854,
+        "num": 603854,
+        "word": "女子线雕手术三年后脸上钻出一根线",
+        "onboard_time": 1742464523,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473463,
+        "num": 473463,
+        "word": "老人机每月被开50元流量套餐7年",
+        "onboard_time": 1742466562,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413927,
+        "num": 413927,
+        "word": "哪吒2票房152亿",
+        "onboard_time": 1742463983,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311621,
+        "num": 311621,
+        "word": "再听一遍上春山",
+        "onboard_time": 1742461642,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 645299,
+        "num": 310746,
+        "word": "余承东一喊刘亦菲全场欢呼",
+        "onboard_time": 1742466204,
+        "rank": 8,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 295523,
+        "num": 295523,
+        "word": "黄油年糕",
+        "onboard_time": 1742450181,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2542487,
+        "num": 294456,
+        "word": "赵露思取关",
+        "onboard_time": 1742455462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1208096,
+        "num": 292572,
+        "word": "金秀贤起诉金赛纶家属",
+        "onboard_time": 1742465004,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 696171,
+        "num": 290981,
+        "word": "韩安冉现任丈夫称已和好",
+        "onboard_time": 1742466921,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 356449,
+        "num": 289981,
+        "word": "代驾小哥因2.6元举报KTV有偿陪侍",
+        "onboard_time": 1742463323,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28907,
+        "num": 288033,
+        "word": "消费券力度还是淘宝的大",
+        "onboard_time": 1742468482,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 628438,
+        "num": 285335,
+        "word": "虞书欣哭出了我想要的烟熏妆",
+        "onboard_time": 1742466204,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 635702,
+        "num": 284226,
+        "word": "金秀贤方面准备道歉",
+        "onboard_time": 1742461822,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219953,
+        "num": 283189,
+        "word": "孙颖莎11比1魏闻声",
+        "onboard_time": 1742469202,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370600,
+        "num": 280847,
+        "word": "央视网发白敬亭上春山",
+        "onboard_time": 1742448621,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75628,
+        "num": 279636,
+        "word": "内娱苦中年演员扮嫩久矣",
+        "onboard_time": 1742467042,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46090,
+        "num": 277287,
+        "word": "五角大楼计划裁减6万文职岗",
+        "onboard_time": 1742470221,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 366817,
+        "num": 274574,
+        "word": "孕妇喝椰子水买一箱开出三种颜色",
+        "onboard_time": 1742465661,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274486,
+        "num": 274486,
+        "word": "华为PuraX",
+        "onboard_time": 1742453481,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175398,
+        "num": 274463,
+        "word": "火车站一把鸟食换来两万美金",
+        "onboard_time": 1742470282,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151827,
+        "num": 270043,
+        "word": "时代峰峻SM乐华合体",
+        "onboard_time": 1742457683,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144762,
+        "num": 267439,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1742464283,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172171,
+        "num": 265154,
+        "word": "河南项城爆炸事故3人失联4人受伤",
+        "onboard_time": 1742467042,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 90361,
+        "num": 260609,
+        "word": "享界S9增程版开启全民豪车时代",
+        "onboard_time": 1742467942,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 92704,
+        "num": 257453,
+        "word": "孙颖莎太可爱了",
+        "onboard_time": 1742469921,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92095,
+        "num": 254100,
+        "word": "神十九航天员第3次出舱",
+        "onboard_time": 1742468003,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 253345,
+        "num": 253345,
+        "word": "当你的伴娘是位小学老师",
+        "onboard_time": 1742469442,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240022,
+        "num": 240022,
+        "word": "痞幼脖子上的红点",
+        "onboard_time": 1742468061,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 212138,
+        "num": 212138,
+        "word": "辛云来陈都灵 倒数第一抄倒数第二",
+        "onboard_time": 1742469022,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194788,
+        "num": 194788,
+        "word": "论文致谢",
+        "onboard_time": 1742466263,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190935,
+        "num": 190935,
+        "word": "原来年假是休假一整年的意思",
+        "onboard_time": 1742466381,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166494,
+        "num": 166494,
+        "word": "安徽一市市长主动投案",
+        "onboard_time": 1742469621,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145966,
+        "num": 145966,
+        "word": "河南项城一企业突发火情传出爆炸声",
+        "onboard_time": 1742466921,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 145704,
+        "num": 145704,
+        "word": "孙颖莎vs魏闻声",
+        "onboard_time": 1742467581,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33415,
+        "num": 141961,
+        "word": "林诗栋3比0严升",
+        "onboard_time": 1742469382,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141850,
+        "num": 141850,
+        "word": "孙颖莎全运会开门红",
+        "onboard_time": 1742468782,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136187,
+        "num": 136187,
+        "word": "草莓这些年受的委屈太多了",
+        "onboard_time": 1742470342,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 134313,
+        "num": 134313,
+        "word": "闫妮小巷人家双双获奖",
+        "onboard_time": 1742470523,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134221,
+        "num": 134221,
+        "word": "商场女厕马桶为何频频变蹲坑",
+        "onboard_time": 1742452521,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132475,
+        "num": 132475,
+        "word": "数码宝贝",
+        "onboard_time": 1742467883,
+        "rank": 43,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 19585,
+        "num": 132059,
+        "word": "官方回应商户假借国补名义骗钱跑路",
+        "onboard_time": 1742470523,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 131779,
+        "num": 131779,
+        "word": "adoTXT合作",
+        "onboard_time": 1742469561,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 129746,
+        "num": 129746,
+        "word": "克拉岛",
+        "onboard_time": 1742463862,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127203,
+        "num": 127203,
+        "word": "王蓉浪姐的拖拉机撞到我心巴了",
+        "onboard_time": 1742468721,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127181,
+        "num": 127181,
+        "word": "赵露思时尚先生三月刊封面",
+        "onboard_time": 1742442261,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126568,
+        "num": 126568,
+        "word": "澳大利亚vs印尼",
+        "onboard_time": 1742467942,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记在丽江考察这一幕好温馨#"
+    }
+  }
+}
