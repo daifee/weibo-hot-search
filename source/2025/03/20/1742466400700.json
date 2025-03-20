@@ -1,0 +1,410 @@
+{
+  "runTime": 1742466400700,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1868504,
+        "num": 1868504,
+        "word": "华为 刘亦菲",
+        "onboard_time": 1742463382,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664843,
+        "num": 664843,
+        "word": "华为PuraX",
+        "onboard_time": 1742453481,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 74377,
+        "num": 643800,
+        "word": "中国首次实现上万公里星地量子通信",
+        "onboard_time": 1742462422,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 640572,
+        "num": 640572,
+        "word": "黄油年糕",
+        "onboard_time": 1742450181,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 461201,
+        "num": 461201,
+        "word": "女子线雕手术三年后脸上钻出一根线",
+        "onboard_time": 1742464523,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424179,
+        "num": 424179,
+        "word": "小学校长性侵案当事人拒不认罪",
+        "onboard_time": 1742462542,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411608,
+        "num": 411608,
+        "word": "哪吒2票房152亿",
+        "onboard_time": 1742463983,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 380275,
+        "num": 380275,
+        "word": "再听一遍上春山",
+        "onboard_time": 1742461642,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262817,
+        "num": 262817,
+        "word": "商场女厕马桶为何频频变蹲坑",
+        "onboard_time": 1742452521,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139460,
+        "num": 261693,
+        "word": "香港航空一客机舱内行李架起火",
+        "onboard_time": 1742460743,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2994586,
+        "num": 258393,
+        "word": "赵露思取关",
+        "onboard_time": 1742455462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2700114,
+        "num": 254906,
+        "word": "金秀贤起诉金赛纶家属",
+        "onboard_time": 1742465004,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 755010,
+        "num": 250095,
+        "word": "代驾小哥因2.6元举报KTV有偿陪侍",
+        "onboard_time": 1742463323,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552762,
+        "num": 247383,
+        "word": "央视网发白敬亭上春山",
+        "onboard_time": 1742448621,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357344,
+        "num": 242306,
+        "word": "韩安冉家的保姆都出来发声了",
+        "onboard_time": 1742444182,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 239875,
+        "num": 239875,
+        "word": "新问界M9",
+        "onboard_time": 1742459543,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 791733,
+        "num": 235361,
+        "word": "金秀贤方面准备道歉",
+        "onboard_time": 1742461822,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227101,
+        "num": 227101,
+        "word": "戚薇期期都不放过韩庚",
+        "onboard_time": 1742460441,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114679,
+        "num": 220619,
+        "word": "刘晓庆坦言不能随便结婚",
+        "onboard_time": 1742465363,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196406,
+        "num": 216556,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1742464283,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 801669,
+        "num": 216319,
+        "word": "孕妇喝椰子水买一箱开出三种颜色",
+        "onboard_time": 1742465661,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214357,
+        "num": 214357,
+        "word": "浪姐首位女性舞台总监",
+        "onboard_time": 1742461942,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207173,
+        "num": 207173,
+        "word": "30岁女生一天打三份工的生活",
+        "onboard_time": 1742461822,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207162,
+        "num": 207162,
+        "word": "下周可以准备穿短袖了",
+        "onboard_time": 1742465122,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68030,
+        "num": 200740,
+        "word": "明日方舟",
+        "onboard_time": 1742459482,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196289,
+        "num": 196289,
+        "word": "余承东一喊刘亦菲全场欢呼",
+        "onboard_time": 1742466204,
+        "rank": 25,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 32860,
+        "num": 196073,
+        "word": "华为发布鸿蒙AI电视",
+        "onboard_time": 1742463443,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 182257,
+        "num": 194519,
+        "word": "雁回时",
+        "onboard_time": 1742465661,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18170,
+        "num": 193564,
+        "word": "余承东称问界M9将升级华为ADS4",
+        "onboard_time": 1742463443,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 33470,
+        "num": 192758,
+        "word": "华为阔折叠采用1610阔型屏设计",
+        "onboard_time": 1742465661,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138166,
+        "num": 191755,
+        "word": "华为太宠智界车主",
+        "onboard_time": 1742465661,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165533,
+        "num": 191035,
+        "word": "华为终端全面进入鸿蒙时代",
+        "onboard_time": 1742461942,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173815,
+        "num": 189461,
+        "word": "聋人爸爸向6岁女儿解释离婚",
+        "onboard_time": 1742463382,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189413,
+        "num": 189413,
+        "word": "华为发布会",
+        "onboard_time": 1742451203,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189075,
+        "num": 189075,
+        "word": "空腹断食66小时的变化",
+        "onboard_time": 1742465661,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186086,
+        "num": 186086,
+        "word": "原来乳糖耐受是可以被训练出来的",
+        "onboard_time": 1742466322,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177750,
+        "num": 177750,
+        "word": "赵露思时尚先生三月刊封面",
+        "onboard_time": 1742442261,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163260,
+        "num": 163260,
+        "word": "瘦身版沙溢眼神都变了",
+        "onboard_time": 1742463382,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30142,
+        "num": 154066,
+        "word": "问界M9硬件升级鸿蒙智行实力宠粉",
+        "onboard_time": 1742463382,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145222,
+        "num": 150599,
+        "word": "中方回应加拿大公民毒品犯罪被执行死刑",
+        "onboard_time": 1742463021,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149361,
+        "num": 149361,
+        "word": "虞书欣哭出了我想要的烟熏妆",
+        "onboard_time": 1742466204,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146006,
+        "num": 146006,
+        "word": "问界新M5Ultra价格",
+        "onboard_time": 1742465302,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145548,
+        "num": 145548,
+        "word": "真正年轻人的衣柜里已经换好夏装了",
+        "onboard_time": 1742464883,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 145029,
+        "num": 145029,
+        "word": "娃衣穿搭最大的烦恼是解释这不卖的",
+        "onboard_time": 1742464763,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144192,
+        "num": 144192,
+        "word": "SM新男团将有红毯首秀",
+        "onboard_time": 1742464822,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140938,
+        "num": 140938,
+        "word": "陈都灵桃花粉抹胸裙",
+        "onboard_time": 1742465182,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139702,
+        "num": 139702,
+        "word": "克拉岛",
+        "onboard_time": 1742463862,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138140,
+        "num": 138140,
+        "word": "时代峰峻SM乐华合体",
+        "onboard_time": 1742457683,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123570,
+        "num": 123570,
+        "word": "加方应停止干涉中国司法主权",
+        "onboard_time": 1742459543,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115756,
+        "num": 115756,
+        "word": "热热热热你热热热热",
+        "onboard_time": 1742466322,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记在丽江考察这一幕好温馨#"
+    }
+  }
+}
