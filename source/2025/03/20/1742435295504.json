@@ -1,0 +1,410 @@
+{
+  "runTime": 1742435295504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 419470,
+        "num": 1067115,
+        "word": "许家印前妻丁玉梅两项申请被拒",
+        "onboard_time": 1742428582,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319950,
+        "num": 319950,
+        "word": "唐艺昕辟谣在爱尔兰结婚的原因",
+        "onboard_time": 1742427681,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44272,
+        "num": 274888,
+        "word": "这里是多彩贵州",
+        "onboard_time": 1742393486,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1184290,
+        "num": 268842,
+        "word": "关晓彤说我赶紧给它换了",
+        "onboard_time": 1742430863,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260510,
+        "num": 260510,
+        "word": "加沙8岁女孩逃难中几乎掉光头发",
+        "onboard_time": 1742434642,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233154,
+        "num": 233154,
+        "word": "春分",
+        "onboard_time": 1742427681,
+        "rank": 5,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 625645,
+        "num": 230686,
+        "word": "海陆发了李晟崩溃直拍",
+        "onboard_time": 1742428101,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296556,
+        "num": 218476,
+        "word": "刘亦菲的男主们送来获奖祝福",
+        "onboard_time": 1742432483,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203087,
+        "num": 203087,
+        "word": "春分的分是啥意思",
+        "onboard_time": 1742434342,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164420,
+        "num": 202782,
+        "word": "加沙女孩说很想再梳一次头发",
+        "onboard_time": 1742433501,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 668912,
+        "num": 201506,
+        "word": "赵露思又一条百万赞ins",
+        "onboard_time": 1742432424,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612135,
+        "num": 199461,
+        "word": "14岁儿子意外枪杀6岁女儿",
+        "onboard_time": 1742429603,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463457,
+        "num": 199120,
+        "word": "医生建议半夜醒超半小时没入睡就起床",
+        "onboard_time": 1742427681,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252689,
+        "num": 197477,
+        "word": "47岁倪虹洁没有跟女生住过一间房",
+        "onboard_time": 1742428341,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196899,
+        "num": 196899,
+        "word": "5500元名牌鞋送洗后被擅自换鞋底",
+        "onboard_time": 1742398885,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208463,
+        "num": 196541,
+        "word": "林峯老婆换保姆要查行李箱惹争议",
+        "onboard_time": 1742400742,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190905,
+        "num": 190905,
+        "word": "韵达将进行内部调查",
+        "onboard_time": 1742433144,
+        "rank": 16,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 185547,
+        "num": 185547,
+        "word": "网友在日本捡到热巴的签证",
+        "onboard_time": 1742391444,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165042,
+        "num": 165042,
+        "word": "杨天真瘦到了124斤",
+        "onboard_time": 1742384723,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155663,
+        "num": 155663,
+        "word": "张雪峰公司每月放1次3天小长假",
+        "onboard_time": 1742433861,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1780644,
+        "num": 154869,
+        "word": "韩安冉 离婚",
+        "onboard_time": 1742395704,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 515890,
+        "num": 154702,
+        "word": "女子出差险遭强奸又被公司劝离职",
+        "onboard_time": 1742393124,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267167,
+        "num": 153206,
+        "word": "邓为 将门毒后",
+        "onboard_time": 1742399424,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177549,
+        "num": 152607,
+        "word": "微信与QQ月活账户相差超8亿",
+        "onboard_time": 1742428702,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115285,
+        "num": 151913,
+        "word": "美联储在未来数月或都按兵不动",
+        "onboard_time": 1742432184,
+        "rank": 24,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 151389,
+        "num": 151389,
+        "word": "LPR",
+        "onboard_time": 1742433380,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162165,
+        "num": 149567,
+        "word": "赵丽颖簪花照出现在虞书欣新剧",
+        "onboard_time": 1742430204,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151758,
+        "num": 148946,
+        "word": "浪姐提名叶童最有反差感姐姐",
+        "onboard_time": 1742431043,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146884,
+        "num": 146884,
+        "word": "迪丽热巴侧边丸子头",
+        "onboard_time": 1742433621,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126443,
+        "num": 135828,
+        "word": "李宇春回复白鹿",
+        "onboard_time": 1742434821,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 888180,
+        "num": 135450,
+        "word": "宋浩然回应不会和韩安冉离婚",
+        "onboard_time": 1742429063,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223442,
+        "num": 135322,
+        "word": "雷军6楼扔西瓜",
+        "onboard_time": 1742435001,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134981,
+        "num": 134981,
+        "word": "国足目前出线概率",
+        "onboard_time": 1742434162,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128359,
+        "num": 128359,
+        "word": "间谍借升级会员获取情报",
+        "onboard_time": 1742429123,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119329,
+        "num": 119329,
+        "word": "央视依然不转播国足对沙特比赛",
+        "onboard_time": 1742434521,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117236,
+        "num": 117236,
+        "word": "银川地震",
+        "onboard_time": 1742432603,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 116105,
+        "num": 116105,
+        "word": "casetify手机壳 背刺",
+        "onboard_time": 1742390125,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 108745,
+        "num": 108745,
+        "word": "文旅局回应李胜利现身杭州夜店",
+        "onboard_time": 1742417834,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112062,
+        "num": 108542,
+        "word": "金赛纶曾秒删结婚ins",
+        "onboard_time": 1742392286,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106203,
+        "num": 106203,
+        "word": "TTG小雪连接成功",
+        "onboard_time": 1742434222,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100801,
+        "num": 100801,
+        "word": "樊振东张本智和合影",
+        "onboard_time": 1742399064,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97816,
+        "num": 97816,
+        "word": "金秀贤 重要资料",
+        "onboard_time": 1742395225,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95956,
+        "num": 95956,
+        "word": "王珞丹说祝绪丹是自己的小挂件",
+        "onboard_time": 1742432964,
+        "rank": 42,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 94498,
+        "num": 94498,
+        "word": "赵露思小猫咪是不是不能烤炭火",
+        "onboard_time": 1742400861,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94229,
+        "num": 94229,
+        "word": "孟子义李昀锐一起上台领奖",
+        "onboard_time": 1742429303,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91811,
+        "num": 91811,
+        "word": "特朗普称美国或可帮助运营乌发电站",
+        "onboard_time": 1742429181,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91316,
+        "num": 91316,
+        "word": "专家建议中小学缩短至10年取消中考",
+        "onboard_time": 1742398825,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88124,
+        "num": 88124,
+        "word": "泽连斯基重申愿接受全面停火",
+        "onboard_time": 1742427441,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85890,
+        "num": 85890,
+        "word": "韵达回应全资子公司被立案调查",
+        "onboard_time": 1742434162,
+        "rank": 48,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 84988,
+        "num": 84988,
+        "word": "关晓彤造型师又有什么心事了",
+        "onboard_time": 1742378723,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展是中国式现代化的必然要求#"
+    }
+  }
+}

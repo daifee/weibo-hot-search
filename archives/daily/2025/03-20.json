@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742427498748,
+  "endTime": 1742435295504,
   "band_list": [
     {
       "raw_hot": 5372498,
@@ -19,12 +19,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1184290,
+      "num": 268842,
+      "word": "关晓彤说我赶紧给它换了",
+      "onboard_time": 1742430863,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 934116,
       "num": 298589,
       "word": "宋浩然",
       "onboard_time": 1742401521,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 888180,
+      "num": 135450,
+      "word": "宋浩然回应不会和韩安冉离婚",
+      "onboard_time": 1742429063,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 702866,
@@ -35,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 668912,
+      "num": 201506,
+      "word": "赵露思又一条百万赞ins",
+      "onboard_time": 1742432424,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 646730,
       "num": 298241,
       "word": "金赛纶曾堕胎",
@@ -43,11 +67,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 625645,
+      "num": 230686,
+      "word": "海陆发了李晟崩溃直拍",
+      "onboard_time": 1742428101,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 617787,
       "num": 292043,
       "word": "女子出差险遭强奸又被公司劝离职",
       "onboard_time": 1742393124,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 612135,
+      "num": 199461,
+      "word": "14岁儿子意外枪杀6岁女儿",
+      "onboard_time": 1742429603,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -67,12 +107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 463457,
+      "num": 199120,
+      "word": "医生建议半夜醒超半小时没入睡就起床",
+      "onboard_time": 1742427681,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 460458,
       "num": 288290,
       "word": "林峯老婆换保姆要查行李箱惹争议",
       "onboard_time": 1742400742,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 419470,
+      "num": 1067115,
+      "word": "许家印前妻丁玉梅两项申请被拒",
+      "onboard_time": 1742428582,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 418872,
@@ -115,12 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319950,
+      "num": 319950,
+      "word": "唐艺昕辟谣在爱尔兰结婚的原因",
+      "onboard_time": 1742427681,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300819,
       "num": 300819,
       "word": "casetify手机壳 背刺",
       "onboard_time": 1742390125,
       "rank": 5,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 296556,
+      "num": 218476,
+      "word": "刘亦菲的男主们送来获奖祝福",
+      "onboard_time": 1742432483,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 295732,
@@ -139,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260510,
+      "num": 260510,
+      "word": "加沙8岁女孩逃难中几乎掉光头发",
+      "onboard_time": 1742434642,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 255666,
       "num": 300545,
       "word": "内场的刘亦菲",
@@ -155,12 +235,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252689,
+      "num": 197477,
+      "word": "47岁倪虹洁没有跟女生住过一间房",
+      "onboard_time": 1742428341,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240364,
       "num": 121106,
       "word": "杭州女子带檀健次坐地铁被拦下了",
       "onboard_time": 1742426059,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233154,
+      "num": 233154,
+      "word": "春分",
+      "onboard_time": 1742427681,
+      "rank": 5,
+      "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 223442,
+      "num": 135322,
+      "word": "雷军6楼扔西瓜",
+      "onboard_time": 1742435001,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 214337,
@@ -179,6 +283,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203087,
+      "num": 203087,
+      "word": "春分的分是啥意思",
+      "onboard_time": 1742434342,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196899,
+      "num": 299300,
+      "word": "5500元名牌鞋送洗后被擅自换鞋底",
+      "onboard_time": 1742398885,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192821,
       "num": 299795,
       "word": "孟子义章若楠同框",
@@ -187,12 +307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172996,
-      "num": 299300,
-      "word": "5500元名牌鞋送洗后被擅自换鞋底",
-      "onboard_time": 1742398885,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 190905,
+      "num": 190905,
+      "word": "韵达将进行内部调查",
+      "onboard_time": 1742433144,
+      "rank": 16,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 177549,
+      "num": 152607,
+      "word": "微信与QQ月活账户相差超8亿",
+      "onboard_time": 1742428702,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 165309,
@@ -201,6 +329,22 @@
       "onboard_time": 1742389824,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164420,
+      "num": 202782,
+      "word": "加沙女孩说很想再梳一次头发",
+      "onboard_time": 1742433501,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 162165,
+      "num": 149567,
+      "word": "赵丽颖簪花照出现在虞书欣新剧",
+      "onboard_time": 1742430204,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 157042,
@@ -219,12 +363,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 155663,
+      "num": 155663,
+      "word": "张雪峰公司每月放1次3天小长假",
+      "onboard_time": 1742433861,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 152986,
       "num": 300077,
       "word": "贵女 听劝",
       "onboard_time": 1742389223,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151758,
+      "num": 148946,
+      "word": "浪姐提名叶童最有反差感姐姐",
+      "onboard_time": 1742431043,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151389,
+      "num": 151389,
+      "word": "LPR",
+      "onboard_time": 1742433380,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 146884,
+      "num": 146884,
+      "word": "迪丽热巴侧边丸子头",
+      "onboard_time": 1742433621,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145844,
@@ -259,6 +435,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134981,
+      "num": 134981,
+      "word": "国足目前出线概率",
+      "onboard_time": 1742434162,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128359,
+      "num": 128359,
+      "word": "间谍借升级会员获取情报",
+      "onboard_time": 1742429123,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126443,
+      "num": 135828,
+      "word": "李宇春回复白鹿",
+      "onboard_time": 1742434821,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123514,
       "num": 217236,
       "word": "迪丽热巴早期微博精神状态演我",
@@ -275,12 +475,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119329,
+      "num": 119329,
+      "word": "央视依然不转播国足对沙特比赛",
+      "onboard_time": 1742434521,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117236,
+      "num": 117236,
+      "word": "银川地震",
+      "onboard_time": 1742432603,
+      "rank": 35,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 115285,
+      "num": 151913,
+      "word": "美联储在未来数月或都按兵不动",
+      "onboard_time": 1742432184,
+      "rank": 24,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 111022,
       "num": 296427,
       "word": "一键解锁贵州侗寨的出圈密码",
       "onboard_time": 1742398047,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 108745,
+      "num": 108745,
+      "word": "文旅局回应李胜利现身杭州夜店",
+      "onboard_time": 1742417834,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106203,
+      "num": 106203,
+      "word": "TTG小雪连接成功",
+      "onboard_time": 1742434222,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 102559,
@@ -307,6 +547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 95956,
+      "num": 95956,
+      "word": "王珞丹说祝绪丹是自己的小挂件",
+      "onboard_time": 1742432964,
+      "rank": 42,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 95486,
       "num": 216329,
       "word": "关晓彤第6套祖海高定",
@@ -323,12 +571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94225,
-      "num": 94225,
-      "word": "文旅局回应李胜利现身杭州夜店",
-      "onboard_time": 1742417834,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 94229,
+      "num": 94229,
+      "word": "孟子义李昀锐一起上台领奖",
+      "onboard_time": 1742429303,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91811,
+      "num": 91811,
+      "word": "特朗普称美国或可帮助运营乌发电站",
+      "onboard_time": 1742429181,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89885,
@@ -347,12 +603,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88124,
+      "num": 88124,
+      "word": "泽连斯基重申愿接受全面停火",
+      "onboard_time": 1742427441,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87308,
       "num": 133638,
       "word": "俄乌局势",
       "onboard_time": 1742421255,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85890,
+      "num": 85890,
+      "word": "韵达回应全资子公司被立案调查",
+      "onboard_time": 1742434162,
+      "rank": 48,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 84558,
@@ -483,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44272,
+      "num": 425523,
+      "word": "这里是多彩贵州",
+      "onboard_time": 1742393486,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44226,
       "num": 210052,
       "word": "商场回应保洁员被指偷窥男厕",
@@ -537,14 +817,6 @@
       "onboard_time": 1742404997,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 34294,
-      "num": 425523,
-      "word": "这里是多彩贵州",
-      "onboard_time": 1742393486,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29734,
@@ -665,14 +937,6 @@
       "onboard_time": 1742416333,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9568,
-      "num": 53535,
-      "word": "泽连斯基重申愿接受全面停火",
-      "onboard_time": 1742427441,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 9541,
