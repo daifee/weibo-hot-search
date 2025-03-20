@@ -1,0 +1,410 @@
+{
+  "runTime": 1742444907383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1103249,
+        "num": 1176519,
+        "word": "关晓彤造型师回应",
+        "onboard_time": 1742441542,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 913207,
+        "num": 913207,
+        "word": "律师称千禾0酱油存主观误导嫌疑",
+        "onboard_time": 1742440462,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 9494,
+        "num": 834928,
+        "word": "一键解锁贵州侗寨的出圈密码",
+        "onboard_time": 1742398047,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 833438,
+        "num": 833438,
+        "word": "水饺皇后定档",
+        "onboard_time": 1742440641,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 469797,
+        "num": 469797,
+        "word": "加沙8岁女孩逃难中几乎掉光头发",
+        "onboard_time": 1742434642,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 466330,
+        "num": 466330,
+        "word": "黄金",
+        "onboard_time": 1742441542,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 530916,
+        "num": 437452,
+        "word": "关晓彤说我赶紧给它换了",
+        "onboard_time": 1742430863,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347890,
+        "num": 347890,
+        "word": "马龙王楚钦3比0朱毅谢聪凡",
+        "onboard_time": 1742438241,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347333,
+        "num": 347333,
+        "word": "千禾0商标被指误导消费者零添加",
+        "onboard_time": 1742442082,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 137675,
+        "num": 343485,
+        "word": "记者暗访58安居客低价房乱象",
+        "onboard_time": 1742443104,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 2431501,
+        "num": 337421,
+        "word": "韩安冉家的保姆都出来发声了",
+        "onboard_time": 1742444182,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 816792,
+        "num": 332379,
+        "word": "金赛纶曾被男朋友用孩子威胁",
+        "onboard_time": 1742437761,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463016,
+        "num": 326940,
+        "word": "14岁儿子意外枪杀6岁女儿",
+        "onboard_time": 1742429603,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97511,
+        "num": 323352,
+        "word": "涉险遭强奸劝离职公司有多起劳动纠纷",
+        "onboard_time": 1742443581,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 115986,
+        "num": 317770,
+        "word": "碰一下选陈哲远真有财",
+        "onboard_time": 1742443282,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110061,
+        "num": 308693,
+        "word": "吴磊真能扛啊",
+        "onboard_time": 1742443403,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308234,
+        "num": 308234,
+        "word": "双轨",
+        "onboard_time": 1742437820,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253525,
+        "num": 253525,
+        "word": "冯琳念错李昀锐名字",
+        "onboard_time": 1742435961,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49708,
+        "num": 248471,
+        "word": "上海就是一个巨大的赛车场",
+        "onboard_time": 1742443403,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245290,
+        "num": 245290,
+        "word": "阚清子说30岁后才找到真爱",
+        "onboard_time": 1742444242,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1139488,
+        "num": 236931,
+        "word": "韩安冉 离婚",
+        "onboard_time": 1742395704,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22080,
+        "num": 227227,
+        "word": "已有售卖星期宠的团伙获刑",
+        "onboard_time": 1742444663,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 290728,
+        "num": 226362,
+        "word": "张若昀唐艺昕不认可不能离婚的规定",
+        "onboard_time": 1742438241,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225448,
+        "num": 225448,
+        "word": "王楚钦在马龙身边嘴角没下来过",
+        "onboard_time": 1742443282,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97810,
+        "num": 221761,
+        "word": "东契奇军训掘金全队",
+        "onboard_time": 1742442863,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221185,
+        "num": 221185,
+        "word": "小学生因直呼老师姓名被打脸9下",
+        "onboard_time": 1742435422,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214461,
+        "num": 214461,
+        "word": "零添加酱油12款检出镉7款检出总砷",
+        "onboard_time": 1742438962,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 196075,
+        "num": 210160,
+        "word": "丁禹兮伸手保护小演员",
+        "onboard_time": 1742444302,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188807,
+        "num": 209987,
+        "word": "白日梦与她定档",
+        "onboard_time": 1742444784,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121786,
+        "num": 209955,
+        "word": "金饰价格飙到923元",
+        "onboard_time": 1742443223,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 209937,
+        "num": 209937,
+        "word": "赵露思又一条百万赞ins",
+        "onboard_time": 1742432424,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200232,
+        "num": 200232,
+        "word": "春分的分是啥意思",
+        "onboard_time": 1742434342,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187965,
+        "num": 187965,
+        "word": "刘亦菲的男主们送来获奖祝福",
+        "onboard_time": 1742432483,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59537,
+        "num": 186827,
+        "word": "李晟说上浪姐不怕被蛐蛐",
+        "onboard_time": 1742439500,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186244,
+        "num": 186244,
+        "word": "女子用生菜根水培实现吃菜自由",
+        "onboard_time": 1742440641,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54580,
+        "num": 182654,
+        "word": "文化中国行春分时节万物苏",
+        "onboard_time": 1742444062,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179464,
+        "num": 179464,
+        "word": "全运会乒乓球资格赛首日",
+        "onboard_time": 1742444182,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62084,
+        "num": 174270,
+        "word": "不知道的还以为于适在拍广告",
+        "onboard_time": 1742444843,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173998,
+        "num": 173998,
+        "word": "小学校长性侵多名学生案二审开庭",
+        "onboard_time": 1742444603,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170414,
+        "num": 170414,
+        "word": "林俊杰香港演唱会抢票",
+        "onboard_time": 1742443942,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170222,
+        "num": 170222,
+        "word": "赵露思时尚先生三月刊封面",
+        "onboard_time": 1742442261,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170145,
+        "num": 170145,
+        "word": "医生建议半夜醒超半小时没入睡就起床",
+        "onboard_time": 1742427681,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165245,
+        "num": 165245,
+        "word": "棋士定档",
+        "onboard_time": 1742444482,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161733,
+        "num": 161733,
+        "word": "海陆发了李晟崩溃直拍",
+        "onboard_time": 1742428101,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144525,
+        "num": 144525,
+        "word": "湖北大学失联女大学生家属发声",
+        "onboard_time": 1742439021,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25628,
+        "num": 142977,
+        "word": "约基奇穆雷缺战湖人",
+        "onboard_time": 1742443462,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142932,
+        "num": 142932,
+        "word": "婚姻里女性要承担多少隐形家务",
+        "onboard_time": 1742438362,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134608,
+        "num": 134608,
+        "word": "微信与QQ月活账户相差超8亿",
+        "onboard_time": 1742428702,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132926,
+        "num": 132926,
+        "word": "掘金vs湖人",
+        "onboard_time": 1742440403,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132674,
+        "num": 132674,
+        "word": "雅有一种气血很足的帅",
+        "onboard_time": 1742440822,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励贵州向新#"
+    }
+  }
+}

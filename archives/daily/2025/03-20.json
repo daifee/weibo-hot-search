@@ -1,12 +1,20 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742442458373,
+  "endTime": 1742444907383,
   "band_list": [
     {
       "raw_hot": 5372498,
       "num": 299116,
       "word": "韩安冉 离婚",
       "onboard_time": 1742395704,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 2431501,
+      "num": 337421,
+      "word": "韩安冉家的保姆都出来发声了",
+      "onboard_time": 1742444182,
       "rank": 10,
       "category": "网红"
     },
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1192199,
-      "num": 262586,
+      "num": 332379,
       "word": "金赛纶曾被男朋友用孩子威胁",
       "onboard_time": 1742437761,
       "rank": 10,
@@ -41,6 +49,14 @@
       "onboard_time": 1742430863,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1103249,
+      "num": 1176519,
+      "word": "关晓彤造型师回应",
+      "onboard_time": 1742441542,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 950661,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 640130,
-      "num": 249110,
+      "num": 253525,
       "word": "冯琳念错李昀锐名字",
       "onboard_time": 1742435961,
       "rank": 12,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 612135,
-      "num": 249965,
+      "num": 326940,
       "word": "14岁儿子意外枪杀6岁女儿",
       "onboard_time": 1742429603,
       "rank": 11,
@@ -195,12 +211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 477377,
-      "num": 255724,
-      "word": "关晓彤造型师回应",
+      "raw_hot": 466330,
+      "num": 466330,
+      "word": "黄金",
       "onboard_time": 1742441542,
-      "rank": 35,
-      "category": "艺人"
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 463457,
@@ -273,6 +289,14 @@
       "onboard_time": 1742384723,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347333,
+      "num": 347333,
+      "word": "千禾0商标被指误导消费者零添加",
+      "onboard_time": 1742442082,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 338011,
@@ -379,12 +403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245290,
+      "num": 245290,
+      "word": "阚清子说30岁后才找到真爱",
+      "onboard_time": 1742444242,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240364,
       "num": 121106,
       "word": "杭州女子带檀健次坐地铁被拦下了",
       "onboard_time": 1742426059,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225448,
+      "num": 225448,
+      "word": "王楚钦在马龙身边嘴角没下来过",
+      "onboard_time": 1742443282,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 225339,
@@ -403,20 +443,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 222009,
-      "num": 222009,
-      "word": "黄金",
-      "onboard_time": 1742441542,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 221882,
       "num": 221882,
       "word": "迪丽热巴侧边丸子头",
       "onboard_time": 1742433621,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214461,
+      "num": 214461,
+      "word": "零添加酱油12款检出镉7款检出总砷",
+      "onboard_time": 1742438962,
+      "rank": 47,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 214337,
@@ -475,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196075,
+      "num": 210160,
+      "word": "丁禹兮伸手保护小演员",
+      "onboard_time": 1742444302,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196038,
       "num": 200083,
       "word": "雅有一种气血很足的帅",
@@ -515,6 +563,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 188807,
+      "num": 209987,
+      "word": "白日梦与她定档",
+      "onboard_time": 1742444784,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188106,
       "num": 200238,
       "word": "湖北大学失联女大学生家属发声",
@@ -523,12 +579,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182241,
-      "num": 182241,
+      "raw_hot": 186244,
+      "num": 186244,
       "word": "女子用生菜根水培实现吃菜自由",
       "onboard_time": 1742440641,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179464,
+      "num": 179464,
+      "word": "全运会乒乓球资格赛首日",
+      "onboard_time": 1742444182,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 177549,
@@ -539,12 +603,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 173998,
+      "num": 173998,
+      "word": "小学校长性侵多名学生案二审开庭",
+      "onboard_time": 1742444603,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170414,
+      "num": 170414,
+      "word": "林俊杰香港演唱会抢票",
+      "onboard_time": 1742443942,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165309,
       "num": 219581,
       "word": "卖炒饭净赚50万的创富故事看看就好",
       "onboard_time": 1742389824,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165245,
+      "num": 165245,
+      "word": "棋士定档",
+      "onboard_time": 1742444482,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 164420,
@@ -619,14 +707,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 148475,
-      "num": 162546,
-      "word": "千禾0商标被指误导消费者零添加",
-      "onboard_time": 1742442082,
-      "rank": 32,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 146836,
       "num": 146836,
       "word": "谁懂赵露思和可露丽风的适配度",
@@ -665,6 +745,14 @@
       "onboard_time": 1742399363,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137675,
+      "num": 343485,
+      "word": "记者暗访58安居客低价房乱象",
+      "onboard_time": 1742443104,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 137343,
@@ -731,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130338,
-      "num": 130338,
-      "word": "零添加酱油12款检出镉7款检出总砷",
-      "onboard_time": 1742438962,
-      "rank": 47,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 128359,
       "num": 128359,
       "word": "间谍借升级会员获取情报",
@@ -779,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121786,
+      "num": 209955,
+      "word": "金饰价格飙到923元",
+      "onboard_time": 1742443223,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 120601,
       "num": 120601,
       "word": "冯琳回应念错李昀锐的名字",
@@ -803,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115986,
+      "num": 317770,
+      "word": "碰一下选陈哲远真有财",
+      "onboard_time": 1742443282,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115285,
       "num": 151913,
       "word": "美联储在未来数月或都按兵不动",
@@ -820,7 +916,7 @@
     },
     {
       "raw_hot": 111022,
-      "num": 296427,
+      "num": 834928,
       "word": "一键解锁贵州侗寨的出圈密码",
       "onboard_time": 1742398047,
       "rank": 17,
@@ -833,6 +929,14 @@
       "onboard_time": 1742436382,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110061,
+      "num": 308693,
+      "word": "吴磊真能扛啊",
+      "onboard_time": 1742443403,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 109444,
@@ -897,6 +1001,22 @@
       "onboard_time": 1742438421,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97810,
+      "num": 221761,
+      "word": "东契奇军训掘金全队",
+      "onboard_time": 1742442863,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97511,
+      "num": 323352,
+      "word": "涉险遭强奸劝离职公司有多起劳动纠纷",
+      "onboard_time": 1742443581,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 97357,
@@ -1107,12 +1227,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62084,
+      "num": 174270,
+      "word": "不知道的还以为于适在拍广告",
+      "onboard_time": 1742444843,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57615,
       "num": 210555,
       "word": "丁禹兮问祝绪丹为什么不唱消散对白",
       "onboard_time": 1742385563,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54580,
+      "num": 182654,
+      "word": "文化中国行春分时节万物苏",
+      "onboard_time": 1742444062,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54534,
@@ -1153,6 +1289,14 @@
       "onboard_time": 1742423356,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 49708,
+      "num": 248471,
+      "word": "上海就是一个巨大的赛车场",
+      "onboard_time": 1742443403,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 48476,
@@ -1265,6 +1409,22 @@
       "onboard_time": 1742441721,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25628,
+      "num": 142977,
+      "word": "约基奇穆雷缺战湖人",
+      "onboard_time": 1742443462,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 22080,
+      "num": 227227,
+      "word": "已有售卖星期宠的团伙获刑",
+      "onboard_time": 1742444663,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 20415,
@@ -1409,6 +1569,9 @@
     },
     {
       "word": "#总书记为贵州新风采指明方向#"
+    },
+    {
+      "word": "#习近平勉励贵州向新#"
     }
   ]
 }
