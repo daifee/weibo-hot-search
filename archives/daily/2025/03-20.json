@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742449212766,
+  "endTime": 1742452391897,
   "band_list": [
     {
       "raw_hot": 5372498,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1615872,
+      "num": 373974,
+      "word": "央视网发白敬亭上春山",
+      "onboard_time": 1742448621,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1477335,
       "num": 1477335,
       "word": "水饺皇后定档",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1192199,
-      "num": 352740,
+      "num": 371017,
       "word": "金赛纶曾被男朋友用孩子威胁",
       "onboard_time": 1742437761,
       "rank": 10,
@@ -67,20 +75,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1109260,
+      "num": 962270,
+      "word": "赵露思自己化的杂志妆容",
+      "onboard_time": 1742449041,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1019717,
+      "num": 1019717,
+      "word": "HR看我工位笑了",
+      "onboard_time": 1742446463,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 956469,
+      "num": 956469,
+      "word": "黄油年糕",
+      "onboard_time": 1742450181,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 950661,
       "num": 950661,
       "word": "律师称千禾0酱油存主观误导嫌疑",
       "onboard_time": 1742440462,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 936785,
-      "num": 936785,
-      "word": "HR看我工位笑了",
-      "onboard_time": 1742446463,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 934116,
@@ -203,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 524332,
+      "num": 524332,
+      "word": "特朗普展示办公桌上的可乐按钮",
+      "onboard_time": 1742446284,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 509461,
       "num": 305186,
       "word": "张若昀唐艺昕不认可不能离婚的规定",
@@ -307,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 409946,
+      "num": 409946,
+      "word": "湖北大学失联女生家属透露更多细节",
+      "onboard_time": 1742447662,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405373,
       "num": 405373,
       "word": "樊振东张本智和合影",
@@ -331,12 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369534,
-      "num": 369534,
-      "word": "特朗普展示办公桌上的可乐按钮",
-      "onboard_time": 1742446284,
-      "rank": 25,
-      "category": "国际时政"
+      "raw_hot": 370133,
+      "num": 370133,
+      "word": "考研调剂系统每次开放不得低于12小时",
+      "onboard_time": 1742448383,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 366955,
@@ -353,14 +393,6 @@
       "onboard_time": 1742446163,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352115,
-      "num": 352115,
-      "word": "央视网发白敬亭上春山",
-      "onboard_time": 1742448621,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 348788,
@@ -451,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 266486,
-      "num": 385517,
-      "word": "湖北大学失联女生家属透露更多细节",
-      "onboard_time": 1742447662,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 264530,
+      "num": 264530,
+      "word": "华为发布会",
+      "onboard_time": 1742451203,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 256621,
@@ -497,6 +529,14 @@
       "onboard_time": 1742436442,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242349,
+      "num": 242349,
+      "word": "谭卓给胡歌微信备注谁谁谁她爸",
+      "onboard_time": 1742450962,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 240364,
@@ -579,6 +619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213545,
+      "num": 213545,
+      "word": "体制内DeepSeek提示词",
+      "onboard_time": 1742448383,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 212686,
       "num": 297938,
       "word": "女子疑因被拔错牙后坠楼身亡",
@@ -587,12 +635,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208822,
-      "num": 255149,
-      "word": "赵露思自己化的杂志妆容",
-      "onboard_time": 1742449041,
-      "rank": 27,
-      "category": "作品衍生,时尚"
+      "raw_hot": 209647,
+      "num": 209647,
+      "word": "韩国爱豆练习生的现实",
+      "onboard_time": 1742448320,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 206388,
@@ -633,6 +681,14 @@
       "onboard_time": 1742431043,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198238,
+      "num": 211891,
+      "word": "A股缩量540亿",
+      "onboard_time": 1742451261,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 196899,
@@ -683,6 +739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193604,
+      "num": 193604,
+      "word": "钟楚曦气血很足的美",
+      "onboard_time": 1742451261,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192821,
       "num": 299795,
       "word": "孟子义章若楠同框",
@@ -697,6 +761,14 @@
       "onboard_time": 1742433144,
       "rank": 16,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 189644,
+      "num": 194527,
+      "word": "卫枝失恋一分钟800个情绪",
+      "onboard_time": 1742450603,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 188106,
@@ -715,12 +787,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182391,
-      "num": 182391,
-      "word": "韩国爱豆练习生的现实",
-      "onboard_time": 1742448320,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 183533,
+      "num": 183533,
+      "word": "DeepSeek",
+      "onboard_time": 1742451561,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 182331,
@@ -803,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162768,
+      "num": 352199,
+      "word": "多方回应中介进他人别墅施工区摔亡",
+      "onboard_time": 1742448563,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162575,
       "num": 212890,
       "word": "蒋敦豪发文祝晴天生日快乐",
@@ -827,12 +907,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 159746,
-      "num": 159746,
-      "word": "体制内DeepSeek提示词",
-      "onboard_time": 1742448383,
-      "rank": 37,
-      "category": "互联网"
+      "raw_hot": 159423,
+      "num": 159423,
+      "word": "王一博记录巴黎一些moment",
+      "onboard_time": 1742451501,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 157662,
@@ -867,6 +947,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 154132,
+      "num": 154132,
+      "word": "90后店员给落单女童当起了临时父母",
+      "onboard_time": 1742450243,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154041,
       "num": 154041,
       "word": "Cryin力挺小奶油",
@@ -883,12 +971,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151556,
-      "num": 352599,
-      "word": "考研调剂系统每次开放不得低于12小时",
-      "onboard_time": 1742448383,
-      "rank": 9,
-      "category": "教育"
+      "raw_hot": 152761,
+      "num": 152761,
+      "word": "谁给曾黎递个主母剧本",
+      "onboard_time": 1742451141,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 151456,
@@ -963,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142496,
+      "num": 142496,
+      "word": "唐嫣方否认念无双空降",
+      "onboard_time": 1742451802,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141058,
       "num": 250083,
       "word": "张若昀一出场男粉都拥上来了",
@@ -977,6 +1073,22 @@
       "onboard_time": 1742447122,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140355,
+      "num": 140355,
+      "word": "汪苏泷直播",
+      "onboard_time": 1742450662,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139529,
+      "num": 139529,
+      "word": "何炅做侦探没必要太合群",
+      "onboard_time": 1742450421,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 137343,
@@ -1196,7 +1308,7 @@
     },
     {
       "raw_hot": 111022,
-      "num": 858547,
+      "num": 967163,
       "word": "一键解锁贵州侗寨的出圈密码",
       "onboard_time": 1742398047,
       "rank": 17,
@@ -1235,6 +1347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105944,
+      "num": 209742,
+      "word": "和春天有场约会",
+      "onboard_time": 1742450003,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 102823,
       "num": 102823,
       "word": "多方回应湖北大学女生失联数天",
@@ -1259,20 +1379,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99362,
+      "num": 374772,
+      "word": "春天的美好溢出屏幕了",
+      "onboard_time": 1742451920,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99161,
       "num": 241104,
       "word": "孙杨400自银牌",
       "onboard_time": 1742387844,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98706,
-      "num": 352199,
-      "word": "多方回应中介进他人别墅施工区摔亡",
-      "onboard_time": 1742448563,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98638,
@@ -1340,7 +1460,7 @@
     },
     {
       "raw_hot": 90685,
-      "num": 134288,
+      "num": 372532,
       "word": "这周也喝酸奶了",
       "onboard_time": 1742449041,
       "rank": 46,
@@ -1601,6 +1721,14 @@
       "onboard_time": 1742443403,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49389,
+      "num": 233139,
+      "word": "女子下载假冒会议软件被骗近5000",
+      "onboard_time": 1742450842,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48476,
