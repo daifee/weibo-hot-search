@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742480663947,
+  "endTime": 1742481818405,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2963,6 +2963,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1238642,
+      "num": 268675,
+      "word": "闺蜜有金赛纶被家暴的照片",
+      "onboard_time": 1742480242,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1237702,
       "num": 339359,
       "word": "韩国空军就误发炸弹致歉",
@@ -3249,6 +3257,14 @@
       "onboard_time": 1741877963,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1186930,
+      "num": 1189908,
+      "word": "国王要醒了",
+      "onboard_time": 1742477303,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 1184290,
@@ -5049,14 +5065,6 @@
       "onboard_time": 1741606946,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 909329,
-      "num": 909329,
-      "word": "国王要醒了",
-      "onboard_time": 1742477303,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 909266,
@@ -11025,14 +11033,6 @@
       "onboard_time": 1740893359,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 489868,
-      "num": 207933,
-      "word": "闺蜜有金赛纶被家暴的照片",
-      "onboard_time": 1742480242,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 489386,
@@ -18955,6 +18955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274125,
+      "num": 242323,
+      "word": "雁回时热度",
+      "onboard_time": 1742478923,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274096,
       "num": 249843,
       "word": "尹子维已经当了365天英语老师",
@@ -19064,6 +19072,14 @@
       "word": "女子回应吃火锅涮邻桌剩菜",
       "onboard_time": 1741669342,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271229,
+      "num": 271229,
+      "word": "女子取一个快递被骗10多万",
+      "onboard_time": 1742480303,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -20331,6 +20347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253635,
+      "num": 253635,
+      "word": "中科院",
+      "onboard_time": 1742480544,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 253619,
       "num": 253619,
       "word": "韩国爱豆练习生的现实",
@@ -20801,6 +20825,14 @@
       "onboard_time": 1740989419,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246893,
+      "num": 246893,
+      "word": "文俊辉直播",
+      "onboard_time": 1742480242,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 246856,
@@ -21929,6 +21961,14 @@
       "onboard_time": 1742225902,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 233021,
+      "num": 233021,
+      "word": "瑶一瑶小肉包停更一月后更新",
+      "onboard_time": 1742481142,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 233015,
@@ -25209,14 +25249,6 @@
       "onboard_time": 1741426161,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205554,
-      "num": 205554,
-      "word": "雁回时热度",
-      "onboard_time": 1742478923,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 205499,
@@ -29555,14 +29587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183892,
-      "num": 183892,
-      "word": "文俊辉直播",
-      "onboard_time": 1742480242,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183804,
       "num": 227803,
       "word": "麦琳道歉了",
@@ -31073,6 +31097,14 @@
       "onboard_time": 1742383224,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175010,
+      "num": 175010,
+      "word": "中国移动日赚3.78亿",
+      "onboard_time": 1742478623,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 174885,
@@ -33713,14 +33745,6 @@
       "onboard_time": 1741173138,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162483,
-      "num": 162483,
-      "word": "中国移动日赚3.78亿",
-      "onboard_time": 1742478623,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 162470,
@@ -42844,7 +42868,7 @@
     },
     {
       "raw_hot": 125411,
-      "num": 213260,
+      "num": 257072,
       "word": "F1中国大奖赛启动仪式",
       "onboard_time": 1742477782,
       "rank": 32,
@@ -43161,14 +43185,6 @@
       "onboard_time": 1742306184,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124182,
-      "num": 124182,
-      "word": "中科院",
-      "onboard_time": 1742480544,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 124138,
@@ -46987,6 +47003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108888,
+      "num": 108888,
+      "word": "自愿被群像骗了一年又一年",
+      "onboard_time": 1742481624,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 108856,
       "num": 254523,
       "word": "马龙王楚钦看弟弟采访",
@@ -47420,7 +47444,7 @@
     },
     {
       "raw_hot": 107169,
-      "num": 212143,
+      "num": 261476,
       "word": "中国星今朝版加新上市9.97万起",
       "onboard_time": 1742479403,
       "rank": 15,
@@ -47449,6 +47473,14 @@
       "onboard_time": 1741842024,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107006,
+      "num": 107006,
+      "word": "清清尽力了",
+      "onboard_time": 1742481565,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 107005,
@@ -51051,6 +51083,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 90329,
+      "num": 248551,
+      "word": "啄木鸟承诺的整改去哪了",
+      "onboard_time": 1742480904,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 90313,
       "num": 236309,
       "word": "鲁比奥称乌克兰必须在领土问题上让步",
@@ -54579,14 +54619,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 66400,
-      "num": 213117,
-      "word": "女子取一个快递被骗10多万",
-      "onboard_time": 1742480303,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66399,
       "num": 184787,
       "word": "全球资本转向热捧中国资产",
@@ -55787,6 +55819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57727,
+      "num": 145125,
+      "word": "大四下返校感觉真的不一样",
+      "onboard_time": 1742480544,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 57702,
       "num": 75004,
       "word": "侯明昊这转扇转到我心里去了",
@@ -56449,14 +56489,6 @@
       "onboard_time": 1742191582,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 53796,
-      "num": 145125,
-      "word": "大四下返校感觉真的不一样",
-      "onboard_time": 1742480544,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 53790,
@@ -58251,6 +58283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43542,
+      "num": 214142,
+      "word": "四川一街头惊现免费买新房广告语",
+      "onboard_time": 1742479642,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43526,
       "num": 222789,
       "word": "无论i人e人都是相亲相ie家人",
@@ -60041,14 +60081,6 @@
       "onboard_time": 1742110282,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34669,
-      "num": 214142,
-      "word": "四川一街头惊现免费买新房广告语",
-      "onboard_time": 1742479642,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34632,

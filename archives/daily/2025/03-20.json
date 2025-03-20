@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742480663947,
+  "endTime": 1742481818405,
   "band_list": [
     {
       "raw_hot": 13516718,
@@ -139,12 +139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1238642,
+      "num": 268675,
+      "word": "闺蜜有金赛纶被家暴的照片",
+      "onboard_time": 1742480242,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1192199,
       "num": 371017,
       "word": "金赛纶曾被男朋友用孩子威胁",
       "onboard_time": 1742437761,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1186930,
+      "num": 1189908,
+      "word": "国王要醒了",
+      "onboard_time": 1742477303,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 1184290,
@@ -201,14 +217,6 @@
       "onboard_time": 1742401521,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 909329,
-      "num": 909329,
-      "word": "国王要醒了",
-      "onboard_time": 1742477303,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 888180,
@@ -505,14 +513,6 @@
       "onboard_time": 1742380583,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 489868,
-      "num": 207933,
-      "word": "闺蜜有金赛纶被家暴的照片",
-      "onboard_time": 1742480242,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 473463,
@@ -851,12 +851,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274125,
+      "num": 242323,
+      "word": "雁回时热度",
+      "onboard_time": 1742478923,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271604,
       "num": 271604,
       "word": "金赛纶承认结婚音频被质疑后期合成",
       "onboard_time": 1742472441,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271229,
+      "num": 271229,
+      "word": "女子取一个快递被骗10多万",
+      "onboard_time": 1742480303,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268208,
@@ -889,6 +905,14 @@
       "onboard_time": 1742398226,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253635,
+      "num": 253635,
+      "word": "中科院",
+      "onboard_time": 1742480544,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 253619,
@@ -937,6 +961,14 @@
       "onboard_time": 1742436442,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246893,
+      "num": 246893,
+      "word": "文俊辉直播",
+      "onboard_time": 1742480242,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 246477,
@@ -1001,6 +1033,14 @@
       "onboard_time": 1742472501,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233021,
+      "num": 233021,
+      "word": "瑶一瑶小肉包停更一月后更新",
+      "onboard_time": 1742481142,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 225339,
@@ -1199,14 +1239,6 @@
       "num": 260681,
       "word": "贵女",
       "onboard_time": 1742447483,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 205554,
-      "num": 205554,
-      "word": "雁回时热度",
-      "onboard_time": 1742478923,
       "rank": 28,
       "category": "剧集"
     },
@@ -1467,14 +1499,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 183892,
-      "num": 183892,
-      "word": "文俊辉直播",
-      "onboard_time": 1742480242,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183533,
       "num": 183533,
       "word": "DeepSeek",
@@ -1545,6 +1569,14 @@
       "onboard_time": 1742470282,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175010,
+      "num": 175010,
+      "word": "中国移动日赚3.78亿",
+      "onboard_time": 1742478623,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 174582,
@@ -1729,14 +1761,6 @@
       "onboard_time": 1742448202,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162483,
-      "num": 162483,
-      "word": "中国移动日赚3.78亿",
-      "onboard_time": 1742478623,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 162165,
@@ -2380,7 +2404,7 @@
     },
     {
       "raw_hot": 125411,
-      "num": 213260,
+      "num": 257072,
       "word": "F1中国大奖赛启动仪式",
       "onboard_time": 1742477782,
       "rank": 32,
@@ -2401,14 +2425,6 @@
       "onboard_time": 1742443282,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124182,
-      "num": 124182,
-      "word": "中科院",
-      "onboard_time": 1742480544,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 123588,
@@ -2651,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108888,
+      "num": 108888,
+      "word": "自愿被群像骗了一年又一年",
+      "onboard_time": 1742481624,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 108856,
       "num": 254523,
       "word": "马龙王楚钦看弟弟采访",
@@ -2668,11 +2692,19 @@
     },
     {
       "raw_hot": 107169,
-      "num": 212143,
+      "num": 261476,
       "word": "中国星今朝版加新上市9.97万起",
       "onboard_time": 1742479403,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 107006,
+      "num": 107006,
+      "word": "清清尽力了",
+      "onboard_time": 1742481565,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 106981,
@@ -2881,6 +2913,14 @@
       "onboard_time": 1742436382,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90329,
+      "num": 248551,
+      "word": "啄木鸟承诺的整改去哪了",
+      "onboard_time": 1742480904,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 89885,
@@ -3123,14 +3163,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 66400,
-      "num": 213117,
-      "word": "女子取一个快递被骗10多万",
-      "onboard_time": 1742480303,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66368,
       "num": 210961,
       "word": "美乌元首通话",
@@ -3187,6 +3219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 57727,
+      "num": 145125,
+      "word": "大四下返校感觉真的不一样",
+      "onboard_time": 1742480544,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 57615,
       "num": 210555,
       "word": "丁禹兮问祝绪丹为什么不唱消散对白",
@@ -3233,14 +3273,6 @@
       "onboard_time": 1742413094,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 53796,
-      "num": 145125,
-      "word": "大四下返校感觉真的不一样",
-      "onboard_time": 1742480544,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 53636,
@@ -3403,6 +3435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43542,
+      "num": 214142,
+      "word": "四川一街头惊现免费买新房广告语",
+      "onboard_time": 1742479642,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43526,
       "num": 222789,
       "word": "无论i人e人都是相亲相ie家人",
@@ -3488,14 +3528,6 @@
       "word": "中介擅自进他人别墅施工区坠亡",
       "onboard_time": 1742458402,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34669,
-      "num": 214142,
-      "word": "四川一街头惊现免费买新房广告语",
-      "onboard_time": 1742479642,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
