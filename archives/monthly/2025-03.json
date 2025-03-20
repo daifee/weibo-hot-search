@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742489192075,
+  "endTime": 1742491314571,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -10201,6 +10201,14 @@
       "onboard_time": 1740990380,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 533776,
+      "num": 88573,
+      "word": "韩安冉朋友圈发文",
+      "onboard_time": 1742490138,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 533601,
@@ -25163,6 +25171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 206544,
+      "num": 206544,
+      "word": "国足vs沙特",
+      "onboard_time": 1742487380,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206453,
       "num": 337109,
       "word": "小黄人说甜茶偷了我们的造型",
@@ -25209,14 +25225,6 @@
       "onboard_time": 1741101141,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 206233,
-      "num": 206233,
-      "word": "国足vs沙特",
-      "onboard_time": 1742487380,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 206179,
@@ -51587,6 +51595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88490,
+      "num": 88490,
+      "word": "医生建议不要强制自己入睡",
+      "onboard_time": 1742490138,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 88459,
       "num": 133423,
       "word": "阿德里安布劳迪奥斯卡影帝",
@@ -54539,6 +54555,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 67893,
+      "num": 67893,
+      "word": "快来康康",
+      "onboard_time": 1742490197,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67825,
       "num": 166817,
       "word": "济南清雪除冰现场",
@@ -55721,6 +55745,14 @@
       "onboard_time": 1741147521,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59609,
+      "num": 59609,
+      "word": "睡眠日的祝福",
+      "onboard_time": 1742490798,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 59605,
@@ -57275,6 +57307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 51258,
+      "num": 88595,
+      "word": "国足公布首发",
+      "onboard_time": 1742490496,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51236,
       "num": 177792,
       "word": "AWE石头黑科技全家桶",
@@ -57971,6 +58011,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 46628,
+      "num": 46628,
+      "word": "李晟黑衣红唇好飒",
+      "onboard_time": 1742490197,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 46577,
       "num": 227316,
       "word": "巴萨3比1本菲卡",
@@ -58033,6 +58081,14 @@
       "onboard_time": 1742081478,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46197,
+      "num": 46197,
+      "word": "凯尔特人61亿美元出售",
+      "onboard_time": 1742490138,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 46195,
@@ -60801,6 +60857,14 @@
       "onboard_time": 1742272404,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 32179,
+      "num": 45375,
+      "word": "睡前除了玩手机还能做的事",
+      "onboard_time": 1742491276,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 32095,
