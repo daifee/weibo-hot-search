@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742502358646,
+  "endTime": 1742503178668,
   "band_list": [
     {
       "raw_hot": 1633830,
@@ -129,6 +129,14 @@
       "onboard_time": 1742448621,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239241,
+      "num": 239241,
+      "word": "沙特1比0国足",
+      "onboard_time": 1742502074,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 227748,
@@ -323,14 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96426,
-      "num": 96426,
-      "word": "沙特1比0国足",
-      "onboard_time": 1742502074,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94373,
       "num": 94373,
       "word": "郑钦文vs戴维斯",
@@ -345,6 +345,14 @@
       "onboard_time": 1742483244,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89632,
+      "num": 40826,
+      "word": "给国足算分",
+      "onboard_time": 1742497574,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 85199,
@@ -387,14 +395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77611,
-      "num": 40826,
-      "word": "给国足算分",
-      "onboard_time": 1742497574,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77509,
       "num": 77509,
       "word": "邓为挑染",
@@ -419,20 +419,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 72694,
+      "num": 72694,
+      "word": "2000多名博主隐私被一个境外群传播",
+      "onboard_time": 1742496913,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70074,
       "num": 76570,
       "word": "孙颖莎说一天一场很合理",
       "onboard_time": 1742487860,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69695,
-      "num": 69695,
-      "word": "2000多名博主隐私被一个境外群传播",
-      "onboard_time": 1742496913,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69407,
@@ -499,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57342,
+      "num": 39872,
+      "word": "王大雷尽力了",
+      "onboard_time": 1742502014,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51864,
       "num": 70046,
       "word": "代驾小哥因2.6元举报KTV有偿陪侍",
@@ -539,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39872,
-      "num": 39872,
-      "word": "王大雷尽力了",
-      "onboard_time": 1742502014,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39460,
       "num": 324843,
       "word": "我国大型汽车运输船上新了",
@@ -579,7 +579,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 28794,
+      "raw_hot": 28977,
       "num": 21582,
       "word": "国足用完5个换人名额",
       "onboard_time": 1742501294,
@@ -619,12 +619,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14208,
+      "raw_hot": 14417,
       "num": 21648,
       "word": "嘘国王在冬眠 毒唯遇上真嫂子",
       "onboard_time": 1742499494,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13871,
+      "num": 14771,
+      "word": "国足对战沙特怎么才能抢分成功",
+      "onboard_time": 1742499914,
+      "rank": 46,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

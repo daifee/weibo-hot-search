@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742502358646,
+  "endTime": 1742503178668,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -5993,6 +5993,14 @@
       "onboard_time": 1742185464,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239241,
+      "num": 239241,
+      "word": "沙特1比0国足",
+      "onboard_time": 1742502074,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 239116,
@@ -13563,14 +13571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96426,
-      "num": 96426,
-      "word": "沙特1比0国足",
-      "onboard_time": 1742502074,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96316,
       "num": 96316,
       "word": "杨紫在千岛湖开心下班",
@@ -13872,6 +13872,14 @@
       "word": "同曦男篮队史首次晋级季后赛",
       "onboard_time": 1742309063,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89632,
+      "num": 40826,
+      "word": "给国足算分",
+      "onboard_time": 1742497574,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -14251,14 +14259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77611,
-      "num": 40826,
-      "word": "给国足算分",
-      "onboard_time": 1742497574,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77386,
       "num": 77386,
       "word": "谢娜乘风发布人惊喜亮相",
@@ -14363,6 +14363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72694,
+      "num": 72694,
+      "word": "2000多名博主隐私被一个境外群传播",
+      "onboard_time": 1742496913,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72615,
       "num": 199366,
       "word": "卢旺达驱逐比利时所有外交官",
@@ -14456,14 +14464,6 @@
       "word": "女子新购百万保时捷2个月连修8次",
       "onboard_time": 1742476164,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69695,
-      "num": 69695,
-      "word": "2000多名博主隐私被一个境外群传播",
-      "onboard_time": 1742496913,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -14953,6 +14953,14 @@
       "onboard_time": 1742334974,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 57342,
+      "num": 39872,
+      "word": "王大雷尽力了",
+      "onboard_time": 1742502014,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 56897,
@@ -15867,14 +15875,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 39872,
-      "num": 39872,
-      "word": "王大雷尽力了",
-      "onboard_time": 1742502014,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39320,
       "num": 360871,
       "word": "以军袭击加沙前向美方征求意见",
@@ -16459,6 +16459,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 28977,
+      "num": 21582,
+      "word": "国足用完5个换人名额",
+      "onboard_time": 1742501294,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28913,
       "num": 139414,
       "word": "F1中国大奖赛本周五开赛",
@@ -16473,14 +16481,6 @@
       "onboard_time": 1742468482,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 28794,
-      "num": 21582,
-      "word": "国足用完5个换人名额",
-      "onboard_time": 1742501294,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 28787,
@@ -17219,20 +17219,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14417,
+      "num": 21648,
+      "word": "嘘国王在冬眠 毒唯遇上真嫂子",
+      "onboard_time": 1742499494,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14372,
       "num": 218466,
       "word": "长和今日盘中一度跌超2%",
       "onboard_time": 1742383523,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 14208,
-      "num": 21648,
-      "word": "嘘国王在冬眠 毒唯遇上真嫂子",
-      "onboard_time": 1742499494,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 14104,
@@ -17249,6 +17249,14 @@
       "onboard_time": 1742239334,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13871,
+      "num": 14771,
+      "word": "国足对战沙特怎么才能抢分成功",
+      "onboard_time": 1742499914,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 13671,
