@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742474677479,
+  "endTime": 1742475684956,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -537,6 +537,14 @@
       "onboard_time": 1741760604,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2585886,
+      "num": 354560,
+      "word": "韩安冉长文回应离婚风波",
+      "onboard_time": 1742471122,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 2581413,
@@ -1483,14 +1491,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1770881,
-      "num": 354560,
-      "word": "韩安冉长文回应离婚风波",
-      "onboard_time": 1742471122,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1770790,
       "num": 976128,
       "word": "虞书欣ins取关金秀贤",
@@ -2017,6 +2017,14 @@
       "onboard_time": 1741496481,
       "rank": 5,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1529588,
+      "num": 352249,
+      "word": "金赛纶母亲看到录音后爆哭",
+      "onboard_time": 1742474241,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1525710,
@@ -4377,14 +4385,6 @@
       "onboard_time": 1742221224,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 997167,
-      "num": 352249,
-      "word": "金赛纶母亲看到录音后爆哭",
-      "onboard_time": 1742474241,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 995412,
@@ -23451,6 +23451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218098,
+      "num": 218098,
+      "word": "奎八",
+      "onboard_time": 1742473281,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 217954,
       "num": 217954,
       "word": "借贷宝成都总部大门已被贴封条",
@@ -24337,6 +24345,14 @@
       "onboard_time": 1742271624,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210343,
+      "num": 348233,
+      "word": "香港航空回应客机起火",
+      "onboard_time": 1742473403,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210283,
@@ -25747,14 +25763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202195,
-      "num": 202195,
-      "word": "奎八",
-      "onboard_time": 1742473281,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 202191,
       "num": 305674,
       "word": "鞠婧祎月鳞绮纪雨中哭戏",
@@ -26905,6 +26913,14 @@
       "onboard_time": 1742464283,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196388,
+      "num": 196388,
+      "word": "佑灰",
+      "onboard_time": 1742474782,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 196355,
@@ -28619,6 +28635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187924,
+      "num": 277245,
+      "word": "辛云来 顺眼",
+      "onboard_time": 1742474302,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187907,
       "num": 187907,
       "word": "古装剧终于有支持女儿不结婚的父亲",
@@ -29409,6 +29433,14 @@
       "onboard_time": 1741917321,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184024,
+      "num": 345428,
+      "word": "杨紫公司起诉前合作方",
+      "onboard_time": 1742474482,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 183999,
@@ -38243,6 +38275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143217,
+      "num": 259459,
+      "word": "周翊然说综艺首秀很紧张",
+      "onboard_time": 1742475321,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143174,
       "num": 143174,
       "word": "泡泡岛抢票",
@@ -38393,14 +38433,6 @@
       "onboard_time": 1742311043,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142570,
-      "num": 142570,
-      "word": "辛云来 顺眼",
-      "onboard_time": 1742474302,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 142539,
@@ -42795,6 +42827,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 124821,
+      "num": 199213,
+      "word": "国足vs沙特23人大名单",
+      "onboard_time": 1742474181,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124801,
       "num": 357410,
       "word": "我们都只是小朋友而已",
@@ -44195,6 +44235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119657,
+      "num": 119657,
+      "word": "香港航空通报客机行李架起火备降福州",
+      "onboard_time": 1742475443,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119599,
       "num": 119599,
       "word": "春天是精神疾病集中高发期",
@@ -44212,7 +44260,7 @@
     },
     {
       "raw_hot": 119540,
-      "num": 119540,
+      "num": 269315,
       "word": "周迅和老钱风的适配度",
       "onboard_time": 1742473941,
       "rank": 44,
@@ -44321,14 +44369,6 @@
       "onboard_time": 1741598423,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119044,
-      "num": 119044,
-      "word": "杨紫公司起诉前合作方",
-      "onboard_time": 1742474482,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 118992,
@@ -45105,6 +45145,14 @@
       "onboard_time": 1740985997,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115565,
+      "num": 118466,
+      "word": "考研英语田静",
+      "onboard_time": 1742475503,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 115516,
@@ -47219,6 +47267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106981,
+      "num": 254704,
+      "word": "问界M9智驾安全不靠奇迹靠实力",
+      "onboard_time": 1742474121,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 106978,
       "num": 106978,
       "word": "孩子住新房3天生病甲醛竟超标20倍",
@@ -49289,14 +49345,6 @@
       "onboard_time": 1741219217,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 98051,
-      "num": 200306,
-      "word": "问界M9智驾安全不靠奇迹靠实力",
-      "onboard_time": 1742474121,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 97964,
@@ -53043,6 +53091,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 75230,
+      "num": 256697,
+      "word": "日本晋级2026世界杯",
+      "onboard_time": 1742475382,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75158,
       "num": 259135,
       "word": "当地回应老头乐和火车发生碰撞",
@@ -53561,6 +53617,14 @@
       "onboard_time": 1741956742,
       "rank": 36,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 71131,
+      "num": 201208,
+      "word": "飞机行李架起火空乘用可乐扑灭",
+      "onboard_time": 1742473700,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71078,
@@ -54332,7 +54396,7 @@
     },
     {
       "raw_hot": 65945,
-      "num": 145286,
+      "num": 253936,
       "word": "上海给F1点沪流震撼",
       "onboard_time": 1742474121,
       "rank": 39,
@@ -55065,14 +55129,6 @@
       "onboard_time": 1741066580,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60788,
-      "num": 348233,
-      "word": "香港航空回应客机起火",
-      "onboard_time": 1742473403,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60762,
@@ -56316,7 +56372,7 @@
     },
     {
       "raw_hot": 53074,
-      "num": 151680,
+      "num": 162983,
       "word": "极氪科技集团首次财报超千亿",
       "onboard_time": 1742472501,
       "rank": 37,
@@ -57473,14 +57529,6 @@
       "onboard_time": 1741735339,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46412,
-      "num": 201208,
-      "word": "飞机行李架起火空乘用可乐扑灭",
-      "onboard_time": 1742473700,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46401,
@@ -58729,14 +58777,6 @@
       "onboard_time": 1741921345,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 39711,
-      "num": 199213,
-      "word": "国足vs沙特23人大名单",
-      "onboard_time": 1742474181,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 39694,
@@ -60195,6 +60235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32616,
+      "num": 258225,
+      "word": "霉变食物在二手平台上挂天价",
+      "onboard_time": 1742475023,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32610,
       "num": 145761,
       "word": "为什么在春天反而会抑郁",
@@ -61041,6 +61089,14 @@
       "onboard_time": 1741342102,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27993,
+      "num": 257849,
+      "word": "更衣人偶坠入爱河结婚",
+      "onboard_time": 1742475082,
+      "rank": 26,
+      "category": "动漫"
     },
     {
       "raw_hot": 27972,
@@ -62353,6 +62409,14 @@
       "onboard_time": 1741682241,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 22318,
+      "num": 572703,
+      "word": "我国大型汽车运输船上新了",
+      "onboard_time": 1742475082,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22151,

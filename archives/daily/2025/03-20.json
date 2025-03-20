@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742474677479,
+  "endTime": 1742475684956,
   "band_list": [
     {
       "raw_hot": 13516718,
@@ -25,6 +25,14 @@
       "onboard_time": 1742465004,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2585886,
+      "num": 354560,
+      "word": "韩安冉长文回应离婚风波",
+      "onboard_time": 1742471122,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 2561890,
@@ -59,14 +67,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1770881,
-      "num": 354560,
-      "word": "韩安冉长文回应离婚风波",
-      "onboard_time": 1742471122,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1648656,
       "num": 1648656,
       "word": "李嘉诚",
@@ -81,6 +81,14 @@
       "onboard_time": 1742448621,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1529588,
+      "num": 352249,
+      "word": "金赛纶母亲看到录音后爆哭",
+      "onboard_time": 1742474241,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1477335,
@@ -161,14 +169,6 @@
       "onboard_time": 1742466381,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 997167,
-      "num": 352249,
-      "word": "金赛纶母亲看到录音后爆哭",
-      "onboard_time": 1742474241,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 951097,
@@ -987,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218098,
+      "num": 218098,
+      "word": "奎八",
+      "onboard_time": 1742473281,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216627,
       "num": 216627,
       "word": "华为 DeepSeek",
@@ -1067,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210343,
+      "num": 348233,
+      "word": "香港航空回应客机起火",
+      "onboard_time": 1742473403,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207162,
       "num": 207162,
       "word": "下周可以准备穿短袖了",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1742459902,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202195,
-      "num": 202195,
-      "word": "奎八",
-      "onboard_time": 1742473281,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 202068,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1742464283,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196388,
+      "num": 196388,
+      "word": "佑灰",
+      "onboard_time": 1742474782,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 196075,
@@ -1315,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187924,
+      "num": 277245,
+      "word": "辛云来 顺眼",
+      "onboard_time": 1742474302,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187440,
       "num": 187440,
       "word": "王一博记录巴黎一些moment",
@@ -1337,6 +1361,14 @@
       "onboard_time": 1742466322,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 184024,
+      "num": 345428,
+      "word": "杨紫公司起诉前合作方",
+      "onboard_time": 1742474482,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 183533,
@@ -1883,12 +1915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142570,
-      "num": 142570,
-      "word": "辛云来 顺眼",
-      "onboard_time": 1742474302,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 143217,
+      "num": 259459,
+      "word": "周翊然说综艺首秀很紧张",
+      "onboard_time": 1742475321,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 142496,
@@ -2163,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124821,
+      "num": 199213,
+      "word": "国足vs沙特23人大名单",
+      "onboard_time": 1742474181,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124801,
       "num": 357410,
       "word": "我们都只是小朋友而已",
@@ -2235,20 +2275,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119657,
+      "num": 119657,
+      "word": "香港航空通报客机行李架起火备降福州",
+      "onboard_time": 1742475443,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119540,
-      "num": 119540,
+      "num": 269315,
       "word": "周迅和老钱风的适配度",
       "onboard_time": 1742473941,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 119044,
-      "num": 119044,
-      "word": "杨紫公司起诉前合作方",
-      "onboard_time": 1742474482,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 118381,
@@ -2297,6 +2337,14 @@
       "onboard_time": 1742457922,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115565,
+      "num": 118466,
+      "word": "考研英语田静",
+      "onboard_time": 1742475503,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 115466,
@@ -2419,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106981,
+      "num": 254704,
+      "word": "问界M9智驾安全不靠奇迹靠实力",
+      "onboard_time": 1742474121,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 106385,
       "num": 106385,
       "word": "眼神翻页",
@@ -2513,14 +2569,6 @@
       "onboard_time": 1742438421,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98051,
-      "num": 200306,
-      "word": "问界M9智驾安全不靠奇迹靠实力",
-      "onboard_time": 1742474121,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 97357,
@@ -2739,6 +2787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75230,
+      "num": 256697,
+      "word": "日本晋级2026世界杯",
+      "onboard_time": 1742475382,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74377,
       "num": 822054,
       "word": "中国首次实现上万公里星地量子通信",
@@ -2753,6 +2809,14 @@
       "onboard_time": 1742395885,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 71131,
+      "num": 201208,
+      "word": "飞机行李架起火空乘用可乐扑灭",
+      "onboard_time": 1742473700,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70324,
@@ -2836,7 +2900,7 @@
     },
     {
       "raw_hot": 65945,
-      "num": 145286,
+      "num": 253936,
       "word": "上海给F1点沪流震撼",
       "onboard_time": 1742474121,
       "rank": 39,
@@ -2865,14 +2929,6 @@
       "onboard_time": 1742444843,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 60788,
-      "num": 348233,
-      "word": "香港航空回应客机起火",
-      "onboard_time": 1742473403,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59091,
@@ -2948,7 +3004,7 @@
     },
     {
       "raw_hot": 53074,
-      "num": 151680,
+      "num": 162983,
       "word": "极氪科技集团首次财报超千亿",
       "onboard_time": 1742472501,
       "rank": 37,
@@ -3033,14 +3089,6 @@
       "onboard_time": 1742446463,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46412,
-      "num": 201208,
-      "word": "飞机行李架起火空乘用可乐扑灭",
-      "onboard_time": 1742473700,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45765,
@@ -3131,14 +3179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39711,
-      "num": 199213,
-      "word": "国足vs沙特23人大名单",
-      "onboard_time": 1742474181,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39436,
       "num": 99714,
       "word": "将门毒后",
@@ -3203,6 +3243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32616,
+      "num": 258225,
+      "word": "霉变食物在二手平台上挂天价",
+      "onboard_time": 1742475023,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32269,
       "num": 117588,
       "word": "丰巢洗护回应名牌鞋被擅自换鞋底",
@@ -3235,6 +3283,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 27993,
+      "num": 257849,
+      "word": "更衣人偶坠入爱河结婚",
+      "onboard_time": 1742475082,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 27808,
       "num": 184924,
       "word": "请查收一份云南制造的浪漫",
@@ -3257,6 +3313,14 @@
       "onboard_time": 1742443462,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22318,
+      "num": 572703,
+      "word": "我国大型汽车运输船上新了",
+      "onboard_time": 1742475082,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22059,

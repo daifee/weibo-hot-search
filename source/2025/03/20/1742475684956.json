@@ -1,0 +1,410 @@
+{
+  "runTime": 1742475684956,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1274864,
+        "num": 1274864,
+        "word": "热热热热你热热热热",
+        "onboard_time": 1742466322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 856267,
+        "num": 856267,
+        "word": "空腹断食66小时的变化",
+        "onboard_time": 1742465661,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22318,
+        "num": 572703,
+        "word": "我国大型汽车运输船上新了",
+        "onboard_time": 1742475082,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 500756,
+        "num": 500756,
+        "word": "拔牙坠楼女子家属与相关方达成协商",
+        "onboard_time": 1742470641,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452632,
+        "num": 452632,
+        "word": "华为 刘亦菲",
+        "onboard_time": 1742463382,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395089,
+        "num": 395089,
+        "word": "虞书欣哭出了我想要的烟熏妆",
+        "onboard_time": 1742466204,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389890,
+        "num": 389890,
+        "word": "哪吒2票房152亿",
+        "onboard_time": 1742463983,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359524,
+        "num": 359524,
+        "word": "女子线雕手术三年后脸上钻出一根线",
+        "onboard_time": 1742464523,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349092,
+        "num": 349092,
+        "word": "孙颖莎太可爱了",
+        "onboard_time": 1742469921,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184024,
+        "num": 345428,
+        "word": "杨紫公司起诉前合作方",
+        "onboard_time": 1742474482,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2585886,
+        "num": 343178,
+        "word": "韩安冉长文回应离婚风波",
+        "onboard_time": 1742471122,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2103718,
+        "num": 336574,
+        "word": "赵露思取关",
+        "onboard_time": 1742455462,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1529588,
+        "num": 328924,
+        "word": "金赛纶母亲看到录音后爆哭",
+        "onboard_time": 1742474241,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467847,
+        "num": 320586,
+        "word": "金秀贤方面准备道歉",
+        "onboard_time": 1742461822,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320083,
+        "num": 320083,
+        "word": "老人机每月被开50元流量套餐7年",
+        "onboard_time": 1742466562,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377622,
+        "num": 312002,
+        "word": "央视网发白敬亭上春山",
+        "onboard_time": 1742448621,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299560,
+        "num": 299560,
+        "word": "再听一遍上春山",
+        "onboard_time": 1742461642,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281308,
+        "num": 281308,
+        "word": "代驾小哥因2.6元举报KTV有偿陪侍",
+        "onboard_time": 1742463323,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187924,
+        "num": 277245,
+        "word": "辛云来 顺眼",
+        "onboard_time": 1742474302,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74842,
+        "num": 273126,
+        "word": "小米15Ultra在夜晚拍了拍春天",
+        "onboard_time": 1742472501,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 107240,
+        "num": 269315,
+        "word": "周迅和老钱风的适配度",
+        "onboard_time": 1742473941,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 334902,
+        "num": 266836,
+        "word": "金秀贤起诉金赛纶家属",
+        "onboard_time": 1742465004,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262065,
+        "num": 262065,
+        "word": "韩安冉现任丈夫称已和好",
+        "onboard_time": 1742466921,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196130,
+        "num": 261253,
+        "word": "余承东一喊刘亦菲全场欢呼",
+        "onboard_time": 1742466204,
+        "rank": 23,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 143217,
+        "num": 259459,
+        "word": "周翊然说综艺首秀很紧张",
+        "onboard_time": 1742475321,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32616,
+        "num": 258225,
+        "word": "霉变食物在二手平台上挂天价",
+        "onboard_time": 1742475023,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27993,
+        "num": 257849,
+        "word": "更衣人偶坠入爱河结婚",
+        "onboard_time": 1742475082,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 75230,
+        "num": 256697,
+        "word": "日本晋级2026世界杯",
+        "onboard_time": 1742475382,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106981,
+        "num": 254704,
+        "word": "问界M9智驾安全不靠奇迹靠实力",
+        "onboard_time": 1742474121,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 46039,
+        "num": 253936,
+        "word": "上海给F1点沪流震撼",
+        "onboard_time": 1742474121,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252939,
+        "num": 252939,
+        "word": "孕妇喝椰子水买一箱开出三种颜色",
+        "onboard_time": 1742465661,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218098,
+        "num": 218098,
+        "word": "奎八",
+        "onboard_time": 1742473281,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210343,
+        "num": 210343,
+        "word": "香港航空回应客机起火",
+        "onboard_time": 1742473403,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196388,
+        "num": 196388,
+        "word": "佑灰",
+        "onboard_time": 1742474782,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180172,
+        "num": 180172,
+        "word": "当你的伴娘是位小学老师",
+        "onboard_time": 1742469442,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168164,
+        "num": 168164,
+        "word": "华为PuraX",
+        "onboard_time": 1742453481,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22964,
+        "num": 162983,
+        "word": "极氪科技集团首次财报超千亿",
+        "onboard_time": 1742472501,
+        "rank": 36,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 161194,
+        "num": 161194,
+        "word": "黄油年糕",
+        "onboard_time": 1742450181,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 71131,
+        "num": 134657,
+        "word": "飞机行李架起火空乘用可乐扑灭",
+        "onboard_time": 1742473700,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130152,
+        "num": 130152,
+        "word": "日本VS巴林",
+        "onboard_time": 1742473763,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14217,
+        "num": 129073,
+        "word": "小米15Ultra打卡8D魔幻城市",
+        "onboard_time": 1742471662,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128580,
+        "num": 128580,
+        "word": "总裁公费追星王俊凯",
+        "onboard_time": 1742473403,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127452,
+        "num": 127452,
+        "word": "马秋元看得出她是公主",
+        "onboard_time": 1742473582,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125500,
+        "num": 125500,
+        "word": "问界M8订单突破7万台",
+        "onboard_time": 1742471182,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124821,
+        "num": 124821,
+        "word": "国足vs沙特23人大名单",
+        "onboard_time": 1742474181,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114822,
+        "num": 123962,
+        "word": "辛云来有种第一次营业的清澈",
+        "onboard_time": 1742472501,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123363,
+        "num": 123363,
+        "word": "白鹿的猫剪毛",
+        "onboard_time": 1742472022,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121256,
+        "num": 121256,
+        "word": "原来年假是休假一整年的意思",
+        "onboard_time": 1742466381,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119657,
+        "num": 119657,
+        "word": "香港航空通报客机行李架起火备降福州",
+        "onboard_time": 1742475443,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115565,
+        "num": 118466,
+        "word": "考研英语田静",
+        "onboard_time": 1742475503,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在云南丽江市考察调研#"
+    }
+  }
+}
