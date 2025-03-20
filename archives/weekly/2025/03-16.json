@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742496302616,
+  "endTime": 1742498374397,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -2467,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644551,
+      "num": 644551,
+      "word": "国足vs沙特",
+      "onboard_time": 1742487380,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 641599,
       "num": 509221,
       "word": "田曦薇 别让我在外面丢人",
@@ -4304,14 +4312,6 @@
       "word": "孙颖莎扳平王艺迪",
       "onboard_time": 1742097324,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 354813,
-      "num": 354813,
-      "word": "国足vs沙特",
-      "onboard_time": 1742487380,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -10443,6 +10443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147768,
+      "num": 147768,
+      "word": "国足直播",
+      "onboard_time": 1742496135,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147610,
       "num": 147610,
       "word": "韩媒说金秀贤没有直接责任",
@@ -14435,6 +14443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69559,
+      "num": 33589,
+      "word": "给国足算分",
+      "onboard_time": 1742497574,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69407,
       "num": 88595,
       "word": "国足公布首发",
@@ -14641,6 +14657,14 @@
       "onboard_time": 1742118022,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 63843,
+      "num": 63843,
+      "word": "林良铭直红",
+      "onboard_time": 1742498234,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 63800,
@@ -15027,6 +15051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53662,
+      "num": 53662,
+      "word": "沙特进球被吹",
+      "onboard_time": 1742497574,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53636,
       "num": 292142,
       "word": "假如生活难题都有导航",
@@ -15153,14 +15185,6 @@
       "onboard_time": 1742463443,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 52066,
-      "num": 52066,
-      "word": "国足直播",
-      "onboard_time": 1742496135,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 52012,
@@ -15851,6 +15875,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 38284,
+      "num": 38284,
+      "word": "沙特半场0比0国足",
+      "onboard_time": 1742498355,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38153,
       "num": 125605,
       "word": "石宇奇全英夺冠后发文",
@@ -16275,6 +16307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30333,
+      "num": 34004,
+      "word": "蒋圣龙极限封堵",
+      "onboard_time": 1742497635,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29828,
       "num": 176591,
       "word": "什么样的防晒衣才能有效防晒",
@@ -16672,6 +16712,14 @@
       "word": "厂家回应火锅食材有两个生产日期",
       "onboard_time": 1742216303,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23050,
+      "num": 25379,
+      "word": "2000多名博主隐私被一个境外群传播",
+      "onboard_time": 1742496913,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -17083,6 +17131,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 15314,
+      "num": 37723,
+      "word": "公司称对受害员工保护关怀不足",
+      "onboard_time": 1742495355,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15206,
       "num": 27040,
       "word": "孟子义电视剧品质盛典造型图",
@@ -17233,14 +17289,6 @@
       "onboard_time": 1742235976,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 11773,
-      "num": 37723,
-      "word": "公司称对受害员工保护关怀不足",
-      "onboard_time": 1742495355,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11758,

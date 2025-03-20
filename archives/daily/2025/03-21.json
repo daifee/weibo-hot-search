@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742496302616,
+  "endTime": 1742498374397,
   "band_list": [
     {
       "raw_hot": 1633830,
@@ -25,6 +25,14 @@
       "onboard_time": 1742485882,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 644551,
+      "num": 644551,
+      "word": "国足vs沙特",
+      "onboard_time": 1742487380,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 569494,
@@ -81,14 +89,6 @@
       "onboard_time": 1742481864,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 354813,
-      "num": 354813,
-      "word": "国足vs沙特",
-      "onboard_time": 1742487380,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 305162,
@@ -185,6 +185,14 @@
       "onboard_time": 1742485342,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147768,
+      "num": 147768,
+      "word": "国足直播",
+      "onboard_time": 1742496135,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 137026,
@@ -379,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69559,
+      "num": 33589,
+      "word": "给国足算分",
+      "onboard_time": 1742497574,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69407,
       "num": 88595,
       "word": "国足公布首发",
@@ -427,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63843,
+      "num": 63843,
+      "word": "林良铭直红",
+      "onboard_time": 1742498234,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59609,
       "num": 59609,
       "word": "睡眠日的祝福",
@@ -435,10 +459,10 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 52066,
-      "num": 52066,
-      "word": "国足直播",
-      "onboard_time": 1742496135,
+      "raw_hot": 53662,
+      "num": 53662,
+      "word": "沙特进球被吹",
+      "onboard_time": 1742497574,
       "rank": 4,
       "category": "体育"
     },
@@ -491,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38284,
+      "num": 38284,
+      "word": "沙特半场0比0国足",
+      "onboard_time": 1742498355,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32179,
       "num": 45375,
       "word": "睡前除了玩手机还能做的事",
@@ -505,6 +537,22 @@
       "onboard_time": 1742491456,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 30333,
+      "num": 34004,
+      "word": "蒋圣龙极限封堵",
+      "onboard_time": 1742497635,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23050,
+      "num": 25379,
+      "word": "2000多名博主隐私被一个境外群传播",
+      "onboard_time": 1742496913,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19157,
@@ -531,7 +579,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 11773,
+      "raw_hot": 15314,
       "num": 37723,
       "word": "公司称对受害员工保护关怀不足",
       "onboard_time": 1742495355,

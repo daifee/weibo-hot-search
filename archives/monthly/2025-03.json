@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742496302616,
+  "endTime": 1742498374397,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -8091,6 +8091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644551,
+      "num": 644551,
+      "word": "国足vs沙特",
+      "onboard_time": 1742487380,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 644180,
       "num": 454120,
       "word": "王栎鑫今天造型是春晚pass掉的",
@@ -15185,14 +15193,6 @@
       "onboard_time": 1742048854,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 354813,
-      "num": 354813,
-      "word": "国足vs沙特",
-      "onboard_time": 1742487380,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 354797,
@@ -37347,6 +37347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147768,
+      "num": 147768,
+      "word": "国足直播",
+      "onboard_time": 1742496135,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147756,
       "num": 147756,
       "word": "昨夜金价大涨",
@@ -54323,6 +54331,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 69559,
+      "num": 33589,
+      "word": "给国足算分",
+      "onboard_time": 1742497574,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69518,
       "num": 176835,
       "word": "校方回应博物馆招保洁保安需硕士学历",
@@ -55201,6 +55217,14 @@
       "onboard_time": 1741876465,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63843,
+      "num": 63843,
+      "word": "林良铭直红",
+      "onboard_time": 1742498234,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 63800,
@@ -56715,6 +56739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53662,
+      "num": 53662,
+      "word": "沙特进球被吹",
+      "onboard_time": 1742497574,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53656,
       "num": 61029,
       "word": "曾可妮网球辣妹造型好飒",
@@ -57057,14 +57089,6 @@
       "onboard_time": 1742463443,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 52066,
-      "num": 52066,
-      "word": "国足直播",
-      "onboard_time": 1742496135,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 52051,
@@ -59603,6 +59627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38284,
+      "num": 38284,
+      "word": "沙特半场0比0国足",
+      "onboard_time": 1742498355,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38214,
       "num": 78608,
       "word": "想飞的女孩",
@@ -61200,6 +61232,14 @@
       "word": "CBA星锐赛真刀真枪",
       "onboard_time": 1740825681,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 30333,
+      "num": 34004,
+      "word": "蒋圣龙极限封堵",
+      "onboard_time": 1742497635,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -62803,6 +62843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23050,
+      "num": 25379,
+      "word": "2000多名博主隐私被一个境外群传播",
+      "onboard_time": 1742496913,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23031,
       "num": 35027,
       "word": "严惩侵犯妇女生命健康人格尊严",
@@ -64355,6 +64403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 15314,
+      "num": 37723,
+      "word": "公司称对受害员工保护关怀不足",
+      "onboard_time": 1742495355,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15206,
       "num": 27040,
       "word": "孟子义电视剧品质盛典造型图",
@@ -65097,14 +65153,6 @@
       "onboard_time": 1742235976,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 11773,
-      "num": 37723,
-      "word": "公司称对受害员工保护关怀不足",
-      "onboard_time": 1742495355,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11758,
