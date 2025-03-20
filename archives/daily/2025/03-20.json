@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742467418529,
+  "endTime": 1742469633963,
   "band_list": [
     {
       "raw_hot": 13516718,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2700114,
-      "num": 350615,
+      "num": 406012,
       "word": "金秀贤起诉金赛纶家属",
       "onboard_time": 1742465004,
       "rank": 11,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1615872,
-      "num": 374046,
+      "num": 386417,
       "word": "央视网发白敬亭上春山",
       "onboard_time": 1742448621,
       "rank": 15,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1187082,
+      "num": 1189933,
+      "word": "空腹断食66小时的变化",
+      "onboard_time": 1742465661,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1184290,
       "num": 627538,
       "word": "关晓彤说我赶紧给它换了",
@@ -129,6 +137,14 @@
       "onboard_time": 1742446463,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1008286,
+      "num": 402655,
+      "word": "陈都灵身上痒就去洗澡",
+      "onboard_time": 1742466381,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 951097,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 801669,
-      "num": 255866,
+      "num": 380159,
       "word": "孕妇喝椰子水买一箱开出三种颜色",
       "onboard_time": 1742465661,
       "rank": 20,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 791733,
-      "num": 265560,
+      "num": 397744,
       "word": "金秀贤方面准备道歉",
       "onboard_time": 1742461822,
       "rank": 13,
@@ -195,8 +211,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 760324,
+      "num": 760324,
+      "word": "热热热热你热热热热",
+      "onboard_time": 1742466322,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 755010,
-      "num": 335805,
+      "num": 387711,
       "word": "代驾小哥因2.6元举报KTV有偿陪侍",
       "onboard_time": 1742463323,
       "rank": 36,
@@ -227,12 +251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 683483,
+      "num": 404758,
+      "word": "韩安冉现任丈夫称已和好",
+      "onboard_time": 1742466921,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 668912,
       "num": 236747,
       "word": "赵露思又一条百万赞ins",
       "onboard_time": 1742432424,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 661210,
+      "num": 400254,
+      "word": "虞书欣哭出了我想要的烟熏妆",
+      "onboard_time": 1742466204,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 651691,
@@ -283,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 590959,
-      "num": 590959,
-      "word": "空腹断食66小时的变化",
-      "onboard_time": 1742465661,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 572982,
       "num": 355691,
       "word": "金秀贤台湾见面会参加者需年满18岁",
@@ -299,20 +331,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 572982,
+      "num": 572982,
+      "word": "女子线雕手术三年后脸上钻出一根线",
+      "onboard_time": 1742464523,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 570930,
       "num": 331090,
       "word": "赵露思时尚先生三月刊封面",
       "onboard_time": 1742442261,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 569002,
-      "num": 569002,
-      "word": "女子线雕手术三年后脸上钻出一根线",
-      "onboard_time": 1742464523,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 565278,
@@ -467,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427591,
+      "num": 427591,
+      "word": "老人机每月被开50元流量套餐7年",
+      "onboard_time": 1742466562,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 424179,
       "num": 424179,
       "word": "小学校长性侵案当事人拒不认罪",
@@ -553,14 +593,6 @@
       "onboard_time": 1742445745,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380413,
-      "num": 380413,
-      "word": "虞书欣哭出了我想要的烟熏妆",
-      "onboard_time": 1742466204,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 380275,
@@ -667,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301373,
+      "num": 226115,
+      "word": "痞幼脖子上的红点",
+      "onboard_time": 1742468061,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 300819,
       "num": 300819,
       "word": "casetify手机壳 背刺",
@@ -704,14 +744,6 @@
       "word": "全场惊呼刘亦菲太美了",
       "onboard_time": 1742380823,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 261010,
-      "num": 261010,
-      "word": "陈都灵身上痒就去洗澡",
-      "onboard_time": 1742466381,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -785,14 +817,6 @@
       "onboard_time": 1742466381,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 246423,
-      "num": 246423,
-      "word": "韩安冉现任丈夫称已和好",
-      "onboard_time": 1742466921,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 243361,
@@ -971,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211293,
+      "num": 211293,
+      "word": "孙颖莎vs魏闻声",
+      "onboard_time": 1742467581,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207162,
       "num": 207162,
       "word": "下周可以准备穿短袖了",
@@ -1051,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198261,
+      "num": 198261,
+      "word": "数码宝贝",
+      "onboard_time": 1742467883,
+      "rank": 35,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 198238,
       "num": 211891,
       "word": "A股缩量540亿",
@@ -1068,7 +1108,7 @@
     },
     {
       "raw_hot": 196406,
-      "num": 216556,
+      "num": 268416,
       "word": "太湖湾音乐节",
       "onboard_time": 1742464283,
       "rank": 19,
@@ -1137,6 +1177,14 @@
       "onboard_time": 1742433144,
       "rank": 16,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 190700,
+      "num": 252390,
+      "word": "河南项城一企业突发火情传出爆炸声",
+      "onboard_time": 1742466921,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 190305,
@@ -1275,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176641,
+      "num": 176641,
+      "word": "当你的伴娘是位小学老师",
+      "onboard_time": 1742469442,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174582,
       "num": 174582,
       "word": "华为将于5月发布鸿蒙电脑",
@@ -1339,11 +1395,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169182,
+      "num": 393918,
+      "word": "孙颖莎11比1魏闻声",
+      "onboard_time": 1742469202,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168602,
       "num": 254648,
       "word": "龚俊录制新综",
       "onboard_time": 1742459662,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167069,
+      "num": 284388,
+      "word": "王蓉浪姐的拖拉机撞到我心巴了",
+      "onboard_time": 1742468721,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1369,14 +1441,6 @@
       "onboard_time": 1742433501,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 164385,
-      "num": 252390,
-      "word": "河南项城一企业突发火情传出爆炸声",
-      "onboard_time": 1742466921,
-      "rank": 23,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 163779,
@@ -1436,19 +1500,11 @@
     },
     {
       "raw_hot": 162049,
-      "num": 162049,
+      "num": 408639,
       "word": "河南项城爆炸事故3人失联4人受伤",
       "onboard_time": 1742467042,
       "rank": 36,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 161843,
-      "num": 247273,
-      "word": "热热热热你热热热热",
-      "onboard_time": 1742466322,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161002,
@@ -1603,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146418,
+      "num": 146418,
+      "word": "辛云来陈都灵 倒数第一抄倒数第二",
+      "onboard_time": 1742469022,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146006,
       "num": 146006,
       "word": "问界新M5Ultra价格",
@@ -1667,6 +1731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144757,
+      "num": 144757,
+      "word": "克拉岛",
+      "onboard_time": 1742463862,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144504,
       "num": 218157,
       "word": "张彬彬给景甜拍照",
@@ -1689,6 +1761,14 @@
       "onboard_time": 1742464822,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143912,
+      "num": 143912,
+      "word": "论文致谢",
+      "onboard_time": 1742466263,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 143648,
@@ -1723,14 +1803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140768,
-      "num": 140768,
-      "word": "论文致谢",
-      "onboard_time": 1742466263,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 140636,
       "num": 140636,
       "word": "乒乓球澳门世界杯",
@@ -1745,14 +1817,6 @@
       "onboard_time": 1742450662,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139702,
-      "num": 139702,
-      "word": "克拉岛",
-      "onboard_time": 1742463862,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 139529,
@@ -1772,7 +1836,7 @@
     },
     {
       "raw_hot": 138166,
-      "num": 191755,
+      "num": 199069,
       "word": "华为太宠智界车主",
       "onboard_time": 1742465661,
       "rank": 30,
@@ -1907,12 +1971,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127782,
+      "num": 127782,
+      "word": "澳大利亚vs印尼",
+      "onboard_time": 1742467942,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127049,
       "num": 316451,
       "word": "马斯克财富净值缩水超1000亿美元",
       "onboard_time": 1742452521,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126726,
+      "num": 126726,
+      "word": "adoTXT合作",
+      "onboard_time": 1742469561,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 126290,
@@ -2001,6 +2081,14 @@
       "onboard_time": 1742442322,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118381,
+      "num": 118381,
+      "word": "沈腾龚俊打乒乓球",
+      "onboard_time": 1742468242,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117236,
@@ -2131,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108421,
+      "num": 394618,
+      "word": "孙颖莎全运会开门红",
+      "onboard_time": 1742468782,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106385,
       "num": 106385,
       "word": "眼神翻页",
@@ -2161,6 +2257,14 @@
       "onboard_time": 1742453964,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103526,
+      "num": 243867,
+      "word": "享界S9增程版开启全民豪车时代",
+      "onboard_time": 1742467942,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 102823,
@@ -2515,20 +2619,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 66225,
-      "num": 285190,
-      "word": "老人机每月被开50元流量套餐7年",
-      "onboard_time": 1742466562,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64048,
       "num": 130163,
       "word": "i人e人的专属幸福清单",
       "onboard_time": 1742397265,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63968,
+      "num": 396328,
+      "word": "内娱苦中年演员扮嫩久矣",
+      "onboard_time": 1742467042,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 63195,
@@ -2795,6 +2899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38113,
+      "num": 390725,
+      "word": "华为阔折叠采用1610阔型屏设计",
+      "onboard_time": 1742465661,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 36653,
       "num": 88350,
       "word": "电影热烈官宣4月3日重映",
@@ -2825,14 +2937,6 @@
       "onboard_time": 1742462842,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33470,
-      "num": 259297,
-      "word": "华为阔折叠采用1610阔型屏设计",
-      "onboard_time": 1742465661,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 32269,
@@ -2873,6 +2977,14 @@
       "onboard_time": 1742461942,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 26574,
+      "num": 401575,
+      "word": "消费券力度还是淘宝的大",
+      "onboard_time": 1742468482,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 25628,
@@ -2929,6 +3041,14 @@
       "onboard_time": 1742408474,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15212,
+      "num": 392084,
+      "word": "林诗栋3比0严升",
+      "onboard_time": 1742469382,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 15206,
@@ -3009,14 +3129,6 @@
       "onboard_time": 1742411894,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10014,
-      "num": 259782,
-      "word": "内娱苦中年演员扮嫩久矣",
-      "onboard_time": 1742467042,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 9962,
