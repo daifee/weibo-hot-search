@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742441729310,
+  "endTime": 1742442458373,
   "band_list": [
     {
       "raw_hot": 5372498,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1192199,
-      "num": 257953,
+      "num": 262586,
       "word": "金赛纶曾被男朋友用孩子威胁",
       "onboard_time": 1742437761,
       "rank": 10,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1184290,
-      "num": 594893,
+      "num": 627538,
       "word": "关晓彤说我赶紧给它换了",
       "onboard_time": 1742430863,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 950661,
+      "num": 950661,
+      "word": "律师称千禾0酱油存主观误导嫌疑",
+      "onboard_time": 1742440462,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 934116,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 668912,
-      "num": 225593,
+      "num": 236747,
       "word": "赵露思又一条百万赞ins",
       "onboard_time": 1742432424,
       "rank": 10,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 612135,
-      "num": 231943,
+      "num": 249965,
       "word": "14岁儿子意外枪杀6岁女儿",
       "onboard_time": 1742429603,
       "rank": 11,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 565278,
-      "num": 236091,
+      "num": 240961,
       "word": "小学生因直呼老师姓名被打脸9下",
       "onboard_time": 1742435422,
       "rank": 27,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 509461,
-      "num": 222425,
+      "num": 227350,
       "word": "张若昀唐艺昕不认可不能离婚的规定",
       "onboard_time": 1742438241,
       "rank": 23,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 499880,
-      "num": 245534,
+      "num": 254519,
       "word": "韩安冉曝小猪妹录音",
       "onboard_time": 1742439564,
       "rank": 13,
@@ -187,8 +195,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 477377,
+      "num": 255724,
+      "word": "关晓彤造型师回应",
+      "onboard_time": 1742441542,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463457,
-      "num": 216273,
+      "num": 233398,
       "word": "医生建议半夜醒超半小时没入睡就起床",
       "onboard_time": 1742427681,
       "rank": 12,
@@ -371,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233482,
-      "num": 233482,
-      "word": "律师称千禾0酱油存主观误导嫌疑",
-      "onboard_time": 1742440462,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 225339,
       "num": 225339,
       "word": "掘金vs湖人",
@@ -393,6 +401,14 @@
       "onboard_time": 1742435001,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 222009,
+      "num": 222009,
+      "word": "黄金",
+      "onboard_time": 1742441542,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 221882,
@@ -459,6 +475,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196038,
+      "num": 200083,
+      "word": "雅有一种气血很足的帅",
+      "onboard_time": 1742440822,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195824,
+      "num": 195824,
+      "word": "赵露思时尚先生三月刊封面",
+      "onboard_time": 1742442261,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 194462,
       "num": 194462,
       "word": "剑网3",
@@ -491,16 +523,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187838,
-      "num": 200083,
-      "word": "雅有一种气血很足的帅",
-      "onboard_time": 1742440822,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 182241,
+      "num": 182241,
+      "word": "女子用生菜根水培实现吃菜自由",
+      "onboard_time": 1742440641,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177549,
-      "num": 159049,
+      "num": 161131,
       "word": "微信与QQ月活账户相差超8亿",
       "onboard_time": 1742428702,
       "rank": 23,
@@ -547,14 +579,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 157455,
-      "num": 157455,
-      "word": "女子用生菜根水培实现吃菜自由",
-      "onboard_time": 1742440641,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157042,
       "num": 221386,
       "word": "湖北大学",
@@ -563,20 +587,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157032,
-      "num": 157032,
-      "word": "关晓彤造型师回应",
-      "onboard_time": 1742441542,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156501,
       "num": 297442,
       "word": "特朗普泽连斯基通话约1小时",
       "onboard_time": 1742400563,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 154041,
+      "num": 154041,
+      "word": "Cryin力挺小奶油",
+      "onboard_time": 1742442022,
+      "rank": 34,
+      "category": "电竞,游戏"
     },
     {
       "raw_hot": 152986,
@@ -593,6 +617,14 @@
       "onboard_time": 1742433380,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 148475,
+      "num": 162546,
+      "word": "千禾0商标被指误导消费者零添加",
+      "onboard_time": 1742442082,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 146836,
@@ -659,14 +691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135422,
-      "num": 135422,
-      "word": "黄金",
-      "onboard_time": 1742441542,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 135352,
       "num": 135352,
       "word": "宋亚轩的flag是至死不渝",
@@ -681,6 +705,14 @@
       "onboard_time": 1742434162,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134639,
+      "num": 134639,
+      "word": "哪吒已经进入蜡染圈了",
+      "onboard_time": 1742441362,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133770,
@@ -699,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130338,
+      "num": 130338,
+      "word": "零添加酱油12款检出镉7款检出总砷",
+      "onboard_time": 1742438962,
+      "rank": 47,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 128359,
       "num": 128359,
       "word": "间谍借升级会员获取情报",
@@ -713,6 +753,14 @@
       "onboard_time": 1742440582,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 126145,
+      "num": 126145,
+      "word": "祝你们的生活像花儿一样美",
+      "onboard_time": 1742441961,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123514,
@@ -731,12 +779,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121109,
-      "num": 121109,
-      "word": "哪吒已经进入蜡染圈了",
-      "onboard_time": 1742441362,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 120601,
+      "num": 120601,
+      "word": "冯琳回应念错李昀锐的名字",
+      "onboard_time": 1742442322,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 117236,
@@ -745,6 +793,14 @@
       "onboard_time": 1742432603,
       "rank": 35,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 116585,
+      "num": 116585,
+      "word": "北京男团2比0湖南男团",
+      "onboard_time": 1742442203,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 115285,
@@ -841,6 +897,14 @@
       "onboard_time": 1742438421,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97357,
+      "num": 233448,
+      "word": "辛云来新片演张婧仪哥哥",
+      "onboard_time": 1742441662,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 97150,
@@ -977,22 +1041,6 @@
       "onboard_time": 1742386943,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79805,
-      "num": 134042,
-      "word": "辛云来新片演张婧仪哥哥",
-      "onboard_time": 1742441662,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 78952,
-      "num": 78952,
-      "word": "零添加酱油12款检出镉7款检出总砷",
-      "onboard_time": 1742438962,
-      "rank": 47,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 77386,
@@ -1132,7 +1180,7 @@
     },
     {
       "raw_hot": 44272,
-      "num": 601652,
+      "num": 734667,
       "word": "这里是多彩贵州",
       "onboard_time": 1742393486,
       "rank": 2,
@@ -1209,6 +1257,14 @@
       "onboard_time": 1742405597,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29444,
+      "num": 149899,
+      "word": "作词人卢国沾去世",
+      "onboard_time": 1742441721,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 20415,

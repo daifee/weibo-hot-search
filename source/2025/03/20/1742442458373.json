@@ -1,0 +1,410 @@
+{
+  "runTime": 1742442458373,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1398173,
+        "num": 1398173,
+        "word": "水饺皇后定档",
+        "onboard_time": 1742440641,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 950661,
+        "num": 950661,
+        "word": "律师称千禾0酱油存主观误导嫌疑",
+        "onboard_time": 1742440462,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 33792,
+        "num": 734667,
+        "word": "这里是多彩贵州",
+        "onboard_time": 1742393486,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 627538,
+        "num": 627538,
+        "word": "关晓彤说我赶紧给它换了",
+        "onboard_time": 1742430863,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 588499,
+        "num": 588499,
+        "word": "加沙8岁女孩逃难中几乎掉光头发",
+        "onboard_time": 1742434642,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 516118,
+        "num": 516118,
+        "word": "马龙王楚钦3比0朱毅谢聪凡",
+        "onboard_time": 1742438241,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 558811,
+        "num": 486917,
+        "word": "双轨",
+        "onboard_time": 1742437820,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296066,
+        "num": 296066,
+        "word": "张雪峰公司每月放1次3天小长假",
+        "onboard_time": 1742433861,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 394939,
+        "num": 289354,
+        "word": "央视依然不转播国足对沙特比赛",
+        "onboard_time": 1742434521,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263011,
+        "num": 263011,
+        "word": "春分的分是啥意思",
+        "onboard_time": 1742434342,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1165659,
+        "num": 262586,
+        "word": "金赛纶曾被男朋友用孩子威胁",
+        "onboard_time": 1742437761,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477377,
+        "num": 255724,
+        "word": "关晓彤造型师回应",
+        "onboard_time": 1742441542,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443488,
+        "num": 254519,
+        "word": "韩安冉曝小猪妹录音",
+        "onboard_time": 1742439564,
+        "rank": 12,
+        "category": "艺人,网红"
+      },
+      {
+        "raw_hot": 406721,
+        "num": 249965,
+        "word": "14岁儿子意外枪杀6岁女儿",
+        "onboard_time": 1742429603,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393195,
+        "num": 243157,
+        "word": "冯琳念错李昀锐名字",
+        "onboard_time": 1742435961,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322325,
+        "num": 240961,
+        "word": "小学生因直呼老师姓名被打脸9下",
+        "onboard_time": 1742435422,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272925,
+        "num": 236747,
+        "word": "赵露思又一条百万赞ins",
+        "onboard_time": 1742432424,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234583,
+        "num": 234583,
+        "word": "李宇春回复白鹿",
+        "onboard_time": 1742434821,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97357,
+        "num": 233448,
+        "word": "辛云来新片演张婧仪哥哥",
+        "onboard_time": 1742441662,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233398,
+        "num": 233398,
+        "word": "医生建议半夜醒超半小时没入睡就起床",
+        "onboard_time": 1742427681,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1359315,
+        "num": 231970,
+        "word": "韩安冉 离婚",
+        "onboard_time": 1742395704,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173443,
+        "num": 228955,
+        "word": "曾黎竹林古风美人",
+        "onboard_time": 1742441001,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478955,
+        "num": 227350,
+        "word": "张若昀唐艺昕不认可不能离婚的规定",
+        "onboard_time": 1742438241,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291825,
+        "num": 224099,
+        "word": "海陆发了李晟崩溃直拍",
+        "onboard_time": 1742428101,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222009,
+        "num": 222009,
+        "word": "黄金",
+        "onboard_time": 1742441542,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196038,
+        "num": 196038,
+        "word": "雅有一种气血很足的帅",
+        "onboard_time": 1742440822,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195911,
+        "num": 195911,
+        "word": "刘亦菲的男主们送来获奖祝福",
+        "onboard_time": 1742432483,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195824,
+        "num": 195824,
+        "word": "赵露思时尚先生三月刊封面",
+        "onboard_time": 1742442261,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194237,
+        "num": 194237,
+        "word": "婚姻里女性要承担多少隐形家务",
+        "onboard_time": 1742438362,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183681,
+        "num": 183681,
+        "word": "掘金vs湖人",
+        "onboard_time": 1742440403,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182241,
+        "num": 182241,
+        "word": "女子用生菜根水培实现吃菜自由",
+        "onboard_time": 1742440641,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173218,
+        "num": 173218,
+        "word": "湖北大学失联女大学生家属发声",
+        "onboard_time": 1742439021,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148475,
+        "num": 162546,
+        "word": "千禾0商标被指误导消费者零添加",
+        "onboard_time": 1742442082,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 161131,
+        "num": 161131,
+        "word": "微信与QQ月活账户相差超8亿",
+        "onboard_time": 1742428702,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154041,
+        "num": 154041,
+        "word": "Cryin力挺小奶油",
+        "onboard_time": 1742442022,
+        "rank": 34,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 29444,
+        "num": 149899,
+        "word": "作词人卢国沾去世",
+        "onboard_time": 1742441721,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148324,
+        "num": 148324,
+        "word": "剑网3",
+        "onboard_time": 1742440462,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134639,
+        "num": 134639,
+        "word": "哪吒已经进入蜡染圈了",
+        "onboard_time": 1742441362,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130338,
+        "num": 130338,
+        "word": "零添加酱油12款检出镉7款检出总砷",
+        "onboard_time": 1742438962,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 128819,
+        "num": 128819,
+        "word": "王者荣耀世界新预告",
+        "onboard_time": 1742440582,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126145,
+        "num": 126145,
+        "word": "祝你们的生活像花儿一样美",
+        "onboard_time": 1742441961,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120601,
+        "num": 120601,
+        "word": "冯琳回应念错李昀锐的名字",
+        "onboard_time": 1742442322,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119508,
+        "num": 119508,
+        "word": "春分",
+        "onboard_time": 1742427681,
+        "rank": 42,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 118373,
+        "num": 118373,
+        "word": "李晟说上浪姐不怕被蛐蛐",
+        "onboard_time": 1742439500,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117880,
+        "num": 117880,
+        "word": "美计划对所有经济体征收对等关税",
+        "onboard_time": 1742439202,
+        "rank": 44,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 116585,
+        "num": 116585,
+        "word": "北京男团2比0湖南男团",
+        "onboard_time": 1742442203,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116480,
+        "num": 116480,
+        "word": "张婧仪独一无二定档五一",
+        "onboard_time": 1742439021,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113123,
+        "num": 113123,
+        "word": "邓为 将门毒后",
+        "onboard_time": 1742399424,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109318,
+        "num": 109318,
+        "word": "迪丽热巴侧边丸子头",
+        "onboard_time": 1742433621,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101922,
+        "num": 101922,
+        "word": "唐艺昕辟谣在爱尔兰结婚的原因",
+        "onboard_time": 1742427681,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为贵州新风采指明方向#"
+    }
+  }
+}
