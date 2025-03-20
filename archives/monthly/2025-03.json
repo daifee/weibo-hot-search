@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742506603999,
+  "endTime": 1742509360218,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -11579,6 +11579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 468275,
+      "num": 468275,
+      "word": "沙特1比0国足",
+      "onboard_time": 1742502074,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 468139,
       "num": 695353,
       "word": "米菲拉拉裤",
@@ -18969,14 +18977,6 @@
       "onboard_time": 1740983897,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 275438,
-      "num": 275438,
-      "word": "沙特1比0国足",
-      "onboard_time": 1742502074,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 275311,
@@ -40723,6 +40723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134483,
+      "num": 134483,
+      "word": "2000多名博主隐私被一个境外群传播",
+      "onboard_time": 1742496913,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134460,
       "num": 134460,
       "word": "石宇奇时隔七年再夺全英冠军",
@@ -52691,14 +52699,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 82259,
-      "num": 82259,
-      "word": "2000多名博主隐私被一个境外群传播",
-      "onboard_time": 1742496913,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82201,
       "num": 338657,
       "word": "梅德韦杰夫说乌克兰是主菜",
@@ -61540,7 +61540,7 @@
     },
     {
       "raw_hot": 28977,
-      "num": 21582,
+      "num": 25141,
       "word": "国足用完5个换人名额",
       "onboard_time": 1742501294,
       "rank": 30,
@@ -62553,6 +62553,14 @@
       "onboard_time": 1741318885,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 24570,
+      "num": 32798,
+      "word": "嘘国王在冬眠 毒唯遇上真嫂子",
+      "onboard_time": 1742499494,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 24557,
@@ -64395,6 +64403,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 15654,
+      "num": 25134,
+      "word": "多地推进落实中小学双休制观察",
+      "onboard_time": 1742509218,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 15606,
+      "num": 25130,
+      "word": "玱玹的遗憾似锦补上了",
+      "onboard_time": 1742506214,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15560,
       "num": 140213,
       "word": "武汉多家医院接入DeepSeek",
@@ -64617,14 +64641,6 @@
       "onboard_time": 1741313541,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14417,
-      "num": 21686,
-      "word": "嘘国王在冬眠 毒唯遇上真嫂子",
-      "onboard_time": 1742499494,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 14399,
@@ -65153,14 +65169,6 @@
       "onboard_time": 1741059917,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 12022,
-      "num": 16051,
-      "word": "玱玹的遗憾似锦补上了",
-      "onboard_time": 1742506214,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 11970,

@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742506603999,
+  "endTime": 1742509360218,
   "band_list": [
     {
       "raw_hot": 1633830,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468275,
+      "num": 468275,
+      "word": "沙特1比0国足",
+      "onboard_time": 1742502074,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453145,
       "num": 165331,
       "word": "疑似王一博离开乐华",
@@ -105,14 +113,6 @@
       "onboard_time": 1742480544,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 275438,
-      "num": 275438,
-      "word": "沙特1比0国足",
-      "onboard_time": 1742502074,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 261853,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134483,
+      "num": 134483,
+      "word": "2000多名博主隐私被一个境外群传播",
+      "onboard_time": 1742496913,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127841,
       "num": 127841,
       "word": "天秤座使用说明",
@@ -307,20 +315,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102021,
+      "num": 102021,
+      "word": "当事人回应3.5万买北海道170平房",
+      "onboard_time": 1742484144,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101755,
       "num": 101755,
       "word": "母鸡卡",
       "onboard_time": 1742483543,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 100286,
-      "num": 100286,
-      "word": "当事人回应3.5万买北海道170平房",
-      "onboard_time": 1742484144,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98198,
@@ -361,14 +369,6 @@
       "onboard_time": 1742466921,
       "rank": 39,
       "category": "网红"
-    },
-    {
-      "raw_hot": 82259,
-      "num": 82259,
-      "word": "2000多名博主隐私被一个境外群传播",
-      "onboard_time": 1742496913,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80957,
@@ -580,11 +580,19 @@
     },
     {
       "raw_hot": 28977,
-      "num": 21582,
+      "num": 25141,
       "word": "国足用完5个换人名额",
       "onboard_time": 1742501294,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24570,
+      "num": 32798,
+      "word": "嘘国王在冬眠 毒唯遇上真嫂子",
+      "onboard_time": 1742499494,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 19157,
@@ -611,6 +619,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 15654,
+      "num": 25134,
+      "word": "多地推进落实中小学双休制观察",
+      "onboard_time": 1742509218,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 15606,
+      "num": 25130,
+      "word": "玱玹的遗憾似锦补上了",
+      "onboard_time": 1742506214,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15314,
       "num": 37723,
       "word": "公司称对受害员工保护关怀不足",
@@ -619,28 +643,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14417,
-      "num": 21686,
-      "word": "嘘国王在冬眠 毒唯遇上真嫂子",
-      "onboard_time": 1742499494,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 13871,
       "num": 14771,
       "word": "国足对战沙特怎么才能抢分成功",
       "onboard_time": 1742499914,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12022,
-      "num": 16051,
-      "word": "玱玹的遗憾似锦补上了",
-      "onboard_time": 1742506214,
-      "rank": 49,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
