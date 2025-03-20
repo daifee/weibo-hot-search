@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742503178668,
+  "endTime": 1742505758213,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -18971,6 +18971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275438,
+      "num": 275438,
+      "word": "沙特1比0国足",
+      "onboard_time": 1742502074,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275311,
       "num": 251122,
       "word": "女子8岁时身高165现在188",
@@ -21537,14 +21545,6 @@
       "onboard_time": 1742014524,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239241,
-      "num": 239241,
-      "word": "沙特1比0国足",
-      "onboard_time": 1742502074,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 239170,

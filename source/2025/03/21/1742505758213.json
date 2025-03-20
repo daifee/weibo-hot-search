@@ -1,0 +1,410 @@
+{
+  "runTime": 1742505758213,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 275438,
+        "num": 275438,
+        "word": "沙特1比0国足",
+        "onboard_time": 1742502074,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82584,
+        "num": 82584,
+        "word": "国足vs沙特",
+        "onboard_time": 1742487380,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13413,
+        "num": 73537,
+        "word": "我国大型汽车运输船上新了",
+        "onboard_time": 1742475082,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70721,
+        "num": 70721,
+        "word": "2000多名博主隐私被一个境外群传播",
+        "onboard_time": 1742496913,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41756,
+        "num": 41756,
+        "word": "林良铭直红",
+        "onboard_time": 1742498234,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36761,
+        "num": 36761,
+        "word": "内蒙古悬赏120万征集12起命案线索",
+        "onboard_time": 1742485101,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33857,
+        "num": 33857,
+        "word": "当事人回应3.5万买北海道170平房",
+        "onboard_time": 1742484144,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29272,
+        "num": 29272,
+        "word": "国足丢球",
+        "onboard_time": 1742499674,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25455,
+        "num": 29204,
+        "word": "自愿被群像骗了一年又一年",
+        "onboard_time": 1742481624,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23983,
+        "num": 29085,
+        "word": "杜华问你配吗",
+        "onboard_time": 1742476462,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128676,
+        "num": 28872,
+        "word": "赵露思取关",
+        "onboard_time": 1742455462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100538,
+        "num": 28788,
+        "word": "韩安冉朋友圈发文",
+        "onboard_time": 1742490138,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82553,
+        "num": 28635,
+        "word": "985研究生退学摆摊日入700元",
+        "onboard_time": 1742485882,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64358,
+        "num": 28416,
+        "word": "闺蜜有金赛纶被家暴的照片",
+        "onboard_time": 1742480242,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41281,
+        "num": 28362,
+        "word": "王大雷尽力了",
+        "onboard_time": 1742502014,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37173,
+        "num": 28168,
+        "word": "男子因没钱起诉已分手3年女友还40万",
+        "onboard_time": 1742484023,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32682,
+        "num": 27994,
+        "word": "给国足算分",
+        "onboard_time": 1742497574,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31305,
+        "num": 27865,
+        "word": "沙特半场0比0国足",
+        "onboard_time": 1742498355,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30074,
+        "num": 27781,
+        "word": "疑似王一博离开乐华",
+        "onboard_time": 1742476523,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19858,
+        "num": 27545,
+        "word": "雁回时",
+        "onboard_time": 1742465661,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33168,
+        "num": 27447,
+        "word": "医生建议不要强制自己入睡",
+        "onboard_time": 1742490138,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27376,
+        "num": 27376,
+        "word": "金赛纶母亲看到录音后爆哭",
+        "onboard_time": 1742474241,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26689,
+        "num": 26689,
+        "word": "金秀贤方面准备道歉",
+        "onboard_time": 1742461822,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24258,
+        "num": 24258,
+        "word": "面粉疑现老鼠秋田满满要求检测年龄",
+        "onboard_time": 1742483006,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22628,
+        "num": 22628,
+        "word": "女生陪同领导出差遭客户猥亵",
+        "onboard_time": 1742485342,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22436,
+        "num": 22436,
+        "word": "睡眠日的祝福",
+        "onboard_time": 1742490798,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21688,
+        "num": 21688,
+        "word": "啄木鸟承诺的整改去哪了",
+        "onboard_time": 1742480904,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 15214,
+        "num": 21394,
+        "word": "虞书欣哭出了我想要的烟熏妆",
+        "onboard_time": 1742466204,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13900,
+        "num": 21370,
+        "word": "杨紫直播",
+        "onboard_time": 1742476462,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12876,
+        "num": 21362,
+        "word": "嘘国王在冬眠 毒唯遇上真嫂子",
+        "onboard_time": 1742499494,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21356,
+        "num": 21356,
+        "word": "蒋圣龙极限封堵",
+        "onboard_time": 1742497635,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20617,
+        "num": 20617,
+        "word": "国足公布首发",
+        "onboard_time": 1742490496,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20476,
+        "num": 20476,
+        "word": "国足直播",
+        "onboard_time": 1742496135,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19545,
+        "num": 19545,
+        "word": "空腹断食66小时的变化",
+        "onboard_time": 1742465661,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19048,
+        "num": 19048,
+        "word": "孕妇喝椰子水买一箱开出三种颜色",
+        "onboard_time": 1742465661,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18751,
+        "num": 18751,
+        "word": "女子取一个快递被骗10多万",
+        "onboard_time": 1742480303,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18263,
+        "num": 18263,
+        "word": "校方回应男生上厕所遭保安偷拍",
+        "onboard_time": 1742484084,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17678,
+        "num": 17678,
+        "word": "国足用完5个换人名额",
+        "onboard_time": 1742501294,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17022,
+        "num": 17022,
+        "word": "代驾小哥因2.6元举报KTV有偿陪侍",
+        "onboard_time": 1742463323,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16271,
+        "num": 16271,
+        "word": "白鹿不敢睁开眼希望是我的幻觉",
+        "onboard_time": 1742486181,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15715,
+        "num": 15715,
+        "word": "凯尔特人61亿美元出售",
+        "onboard_time": 1742490138,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15504,
+        "num": 15504,
+        "word": "华为 刘亦菲",
+        "onboard_time": 1742463382,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15174,
+        "num": 15174,
+        "word": "央视网发白敬亭上春山",
+        "onboard_time": 1742448621,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14780,
+        "num": 14780,
+        "word": "母鸡卡",
+        "onboard_time": 1742483543,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 14471,
+        "num": 14471,
+        "word": "女子线雕手术三年后脸上钻出一根线",
+        "onboard_time": 1742464523,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14434,
+        "num": 14434,
+        "word": "孙颖莎说一天一场很合理",
+        "onboard_time": 1742487860,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13647,
+        "num": 14433,
+        "word": "国足对战沙特怎么才能抢分成功",
+        "onboard_time": 1742499914,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13555,
+        "num": 14431,
+        "word": "小雪 首发",
+        "onboard_time": 1742484802,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13531,
+        "num": 14427,
+        "word": "沙特进球被吹",
+        "onboard_time": 1742497574,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10745,
+        "num": 14427,
+        "word": "月鳞绮纪拍戏片场着火",
+        "onboard_time": 1742483244,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#筑牢我国西南生态安全屏障#"
+    }
+  }
+}
