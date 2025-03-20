@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742498374397,
+  "endTime": 1742499414237,
   "band_list": [
     {
       "raw_hot": 1633830,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227748,
+      "num": 227748,
+      "word": "林良铭直红",
+      "onboard_time": 1742498234,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217131,
       "num": 158219,
       "word": "金赛纶母亲看到录音后爆哭",
@@ -251,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111900,
+      "num": 111900,
+      "word": "沙特半场0比0国足",
+      "onboard_time": 1742498355,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107480,
       "num": 107480,
       "word": "哪吒2票房152亿",
@@ -355,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77611,
+      "num": 35819,
+      "word": "给国足算分",
+      "onboard_time": 1742497574,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77509,
       "num": 77509,
       "word": "邓为挑染",
@@ -384,14 +408,6 @@
       "word": "孙颖莎说一天一场很合理",
       "onboard_time": 1742487860,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 69559,
-      "num": 33589,
-      "word": "给国足算分",
-      "onboard_time": 1742497574,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -443,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63843,
-      "num": 63843,
-      "word": "林良铭直红",
-      "onboard_time": 1742498234,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 59609,
       "num": 59609,
       "word": "睡眠日的祝福",
@@ -459,7 +467,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 53662,
+      "raw_hot": 58946,
       "num": 53662,
       "word": "沙特进球被吹",
       "onboard_time": 1742497574,
@@ -491,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42585,
+      "num": 34004,
+      "word": "蒋圣龙极限封堵",
+      "onboard_time": 1742497635,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40497,
       "num": 70028,
       "word": "马龙刘诗雯的互动好有爱",
@@ -515,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38284,
-      "num": 38284,
-      "word": "沙特半场0比0国足",
-      "onboard_time": 1742498355,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 32179,
       "num": 45375,
       "word": "睡前除了玩手机还能做的事",
@@ -539,16 +547,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 30333,
-      "num": 34004,
-      "word": "蒋圣龙极限封堵",
-      "onboard_time": 1742497635,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 23050,
-      "num": 25379,
+      "raw_hot": 28219,
+      "num": 28219,
       "word": "2000多名博主隐私被一个境外群传播",
       "onboard_time": 1742496913,
       "rank": 27,

@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742498374397,
+  "endTime": 1742499414237,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -22481,6 +22481,14 @@
       "onboard_time": 1742132305,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 227748,
+      "num": 227748,
+      "word": "林良铭直红",
+      "onboard_time": 1742498234,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 227712,
@@ -46435,6 +46443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111900,
+      "num": 111900,
+      "word": "沙特半场0比0国足",
+      "onboard_time": 1742498355,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111895,
       "num": 111895,
       "word": "华晨宇演唱会舞美",
@@ -53219,6 +53235,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 77611,
+      "num": 35819,
+      "word": "给国足算分",
+      "onboard_time": 1742497574,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77565,
       "num": 353966,
       "word": "9岁男孩充值28笔游戏公司拒退",
@@ -54331,14 +54355,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 69559,
-      "num": 33589,
-      "word": "给国足算分",
-      "onboard_time": 1742497574,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 69518,
       "num": 176835,
       "word": "校方回应博物馆招保洁保安需硕士学历",
@@ -55219,14 +55235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 63843,
-      "num": 63843,
-      "word": "林良铭直红",
-      "onboard_time": 1742498234,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 63800,
       "num": 157497,
       "word": "梅西缺阵两场世预赛",
@@ -55848,6 +55856,14 @@
       "word": "孙颖莎回应重庆冠军赛首胜",
       "onboard_time": 1741695743,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58946,
+      "num": 53662,
+      "word": "沙特进球被吹",
+      "onboard_time": 1742497574,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -56737,14 +56753,6 @@
       "onboard_time": 1742389163,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53662,
-      "num": 53662,
-      "word": "沙特进球被吹",
-      "onboard_time": 1742497574,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 53656,
@@ -58683,6 +58691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42585,
+      "num": 34004,
+      "word": "蒋圣龙极限封堵",
+      "onboard_time": 1742497635,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42426,
       "num": 112875,
       "word": "3个动作让手臂更细",
@@ -59625,14 +59641,6 @@
       "onboard_time": 1740997220,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 38284,
-      "num": 38284,
-      "word": "沙特半场0比0国足",
-      "onboard_time": 1742498355,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 38214,
@@ -61235,14 +61243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30333,
-      "num": 34004,
-      "word": "蒋圣龙极限封堵",
-      "onboard_time": 1742497635,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 30315,
       "num": 345205,
       "word": "各国外交官看完哪吒2会唱rap了",
@@ -61665,6 +61665,14 @@
       "onboard_time": 1741929563,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 28219,
+      "num": 28219,
+      "word": "2000多名博主隐私被一个境外群传播",
+      "onboard_time": 1742496913,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28195,
@@ -62840,14 +62848,6 @@
       "word": "厂家回应火锅食材有两个生产日期",
       "onboard_time": 1742216303,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23050,
-      "num": 25379,
-      "word": "2000多名博主隐私被一个境外群传播",
-      "onboard_time": 1742496913,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
