@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742509360218,
+  "endTime": 1742510398524,
   "band_list": [
     {
       "raw_hot": 1633830,
@@ -25,6 +25,14 @@
       "onboard_time": 1742485882,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 652973,
+      "num": 652973,
+      "word": "沙特1比0国足",
+      "onboard_time": 1742502074,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 644551,
@@ -65,14 +73,6 @@
       "onboard_time": 1742480242,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 468275,
-      "num": 468275,
-      "word": "沙特1比0国足",
-      "onboard_time": 1742502074,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 453145,
@@ -171,11 +171,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197695,
+      "num": 197695,
+      "word": "当事人回应3.5万买北海道170平房",
+      "onboard_time": 1742484144,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179109,
       "num": 179109,
       "word": "热热热热你热热热热",
       "onboard_time": 1742466322,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172697,
+      "num": 172697,
+      "word": "2000多名博主隐私被一个境外群传播",
+      "onboard_time": 1742496913,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -225,14 +241,6 @@
       "onboard_time": 1742486181,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134483,
-      "num": 134483,
-      "word": "2000多名博主隐私被一个境外群传播",
-      "onboard_time": 1742496913,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127841,
@@ -315,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102021,
-      "num": 102021,
-      "word": "当事人回应3.5万买北海道170平房",
-      "onboard_time": 1742484144,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101755,
       "num": 101755,
       "word": "母鸡卡",
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 89632,
-      "num": 40826,
+      "num": 43689,
       "word": "给国足算分",
       "onboard_time": 1742497574,
       "rank": 17,
@@ -563,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34692,
+      "num": 45176,
+      "word": "嘘国王在冬眠 毒唯遇上真嫂子",
+      "onboard_time": 1742499494,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32179,
       "num": 45375,
       "word": "睡前除了玩手机还能做的事",
@@ -580,19 +588,27 @@
     },
     {
       "raw_hot": 28977,
-      "num": 25141,
+      "num": 35721,
       "word": "国足用完5个换人名额",
       "onboard_time": 1742501294,
       "rank": 30,
       "category": "体育"
     },
     {
-      "raw_hot": 24570,
-      "num": 32798,
-      "word": "嘘国王在冬眠 毒唯遇上真嫂子",
-      "onboard_time": 1742499494,
-      "rank": 29,
+      "raw_hot": 20209,
+      "num": 35724,
+      "word": "玱玹的遗憾似锦补上了",
+      "onboard_time": 1742506214,
+      "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19604,
+      "num": 35722,
+      "word": "韩安冉妈妈说放下和女儿的恩怨了",
+      "onboard_time": 1742510115,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 19157,
@@ -625,14 +641,6 @@
       "onboard_time": 1742509218,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 15606,
-      "num": 25130,
-      "word": "玱玹的遗憾似锦补上了",
-      "onboard_time": 1742506214,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 15314,
