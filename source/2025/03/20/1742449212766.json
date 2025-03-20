@@ -1,0 +1,410 @@
+{
+  "runTime": 1742449212766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1648656,
+        "num": 1648656,
+        "word": "李嘉诚",
+        "onboard_time": 1742445203,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 936785,
+        "num": 936785,
+        "word": "HR看我工位笑了",
+        "onboard_time": 1742446463,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25882,
+        "num": 858547,
+        "word": "一键解锁贵州侗寨的出圈密码",
+        "onboard_time": 1742398047,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 796306,
+        "num": 796306,
+        "word": "关晓彤造型师回应",
+        "onboard_time": 1742441542,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651691,
+        "num": 651691,
+        "word": "王宝强新剧扔烟头炸车这一下",
+        "onboard_time": 1742445324,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435511,
+        "num": 435511,
+        "word": "律师称千禾0酱油存主观误导嫌疑",
+        "onboard_time": 1742440462,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 369534,
+        "num": 369534,
+        "word": "特朗普展示办公桌上的可乐按钮",
+        "onboard_time": 1742446284,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352735,
+        "num": 352735,
+        "word": "加沙8岁女孩逃难中几乎掉光头发",
+        "onboard_time": 1742434642,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266486,
+        "num": 352721,
+        "word": "湖北大学失联女生家属透露更多细节",
+        "onboard_time": 1742447662,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151556,
+        "num": 352599,
+        "word": "考研调剂系统每次开放不得低于12小时",
+        "onboard_time": 1742448383,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1850650,
+        "num": 352498,
+        "word": "韩安冉家的保姆都出来发声了",
+        "onboard_time": 1742444182,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 507669,
+        "num": 352393,
+        "word": "金赛纶曾被男朋友用孩子威胁",
+        "onboard_time": 1742437761,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485011,
+        "num": 352311,
+        "word": "关晓彤说我赶紧给它换了",
+        "onboard_time": 1742430863,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358979,
+        "num": 352251,
+        "word": "阚清子说30岁后才找到真爱",
+        "onboard_time": 1742444242,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98706,
+        "num": 352199,
+        "word": "多方回应中介进他人别墅施工区摔亡",
+        "onboard_time": 1742448563,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352115,
+        "num": 352115,
+        "word": "央视网发白敬亭上春山",
+        "onboard_time": 1742448621,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98038,
+        "num": 340118,
+        "word": "我们都只是小朋友而已",
+        "onboard_time": 1742446943,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336930,
+        "num": 336930,
+        "word": "祖玛珑与金秀贤解约",
+        "onboard_time": 1742445745,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317251,
+        "num": 317251,
+        "word": "涉险遭强奸劝离职公司有多起劳动纠纷",
+        "onboard_time": 1742443581,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 217096,
+        "num": 311790,
+        "word": "水饺皇后定档",
+        "onboard_time": 1742440641,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 806430,
+        "num": 310074,
+        "word": "韩安冉 离婚",
+        "onboard_time": 1742395704,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 307098,
+        "num": 307098,
+        "word": "黄金",
+        "onboard_time": 1742441542,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 359181,
+        "num": 301066,
+        "word": "金秀贤开始所谓的反击",
+        "onboard_time": 1742446163,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281698,
+        "num": 281698,
+        "word": "14岁儿子意外枪杀6岁女儿",
+        "onboard_time": 1742429603,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264922,
+        "num": 264922,
+        "word": "千禾0商标被指误导消费者零添加",
+        "onboard_time": 1742442082,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 263839,
+        "num": 263839,
+        "word": "张若昀唐艺昕不认可不能离婚的规定",
+        "onboard_time": 1742438241,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256621,
+        "num": 256621,
+        "word": "小学校长性侵多名学生案二审开庭",
+        "onboard_time": 1742444603,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208822,
+        "num": 255149,
+        "word": "赵露思自己化的杂志妆容",
+        "onboard_time": 1742449041,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194863,
+        "num": 246529,
+        "word": "孟佳公路文女主有脸了",
+        "onboard_time": 1742448143,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182331,
+        "num": 238737,
+        "word": "念无双",
+        "onboard_time": 1742448443,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75724,
+        "num": 222604,
+        "word": "吴磊真能扛啊",
+        "onboard_time": 1742443403,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222074,
+        "num": 222074,
+        "word": "四六级报名",
+        "onboard_time": 1742447063,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121363,
+        "num": 215561,
+        "word": "你会因为贫穷而感到自卑吗",
+        "onboard_time": 1742448501,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162575,
+        "num": 212890,
+        "word": "蒋敦豪发文祝晴天生日快乐",
+        "onboard_time": 1742448202,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211190,
+        "num": 211190,
+        "word": "王楚钦在马龙身边嘴角没下来过",
+        "onboard_time": 1742443282,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182391,
+        "num": 182391,
+        "word": "韩国爱豆练习生的现实",
+        "onboard_time": 1742448320,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177572,
+        "num": 177572,
+        "word": "谁去把王耀庆的插头拔了",
+        "onboard_time": 1742448802,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159746,
+        "num": 159746,
+        "word": "体制内DeepSeek提示词",
+        "onboard_time": 1742448383,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151218,
+        "num": 151218,
+        "word": "贵女",
+        "onboard_time": 1742447483,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148139,
+        "num": 148139,
+        "word": "全运会乒乓球资格赛首日",
+        "onboard_time": 1742444182,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144232,
+        "num": 144232,
+        "word": "林更新真挨了水灵灵的一巴掌",
+        "onboard_time": 1742448862,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140629,
+        "num": 140629,
+        "word": "李昀锐内场帮孟子义提裙摆",
+        "onboard_time": 1742446584,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138640,
+        "num": 138640,
+        "word": "赵丽颖簪花照出现在虞书欣新剧",
+        "onboard_time": 1742430204,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136464,
+        "num": 136464,
+        "word": "赵露思又一条百万赞ins",
+        "onboard_time": 1742432424,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135103,
+        "num": 135103,
+        "word": "马龙独得2分",
+        "onboard_time": 1742448082,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59091,
+        "num": 134437,
+        "word": "法国闹蛋荒",
+        "onboard_time": 1742447122,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90685,
+        "num": 134288,
+        "word": "这周也喝酸奶了",
+        "onboard_time": 1742449041,
+        "rank": 46,
+        "category": "幽默,健康医疗"
+      },
+      {
+        "raw_hot": 134263,
+        "num": 134263,
+        "word": "冯琳念错李昀锐名字",
+        "onboard_time": 1742435961,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131541,
+        "num": 131541,
+        "word": "零添加酱油12款检出镉7款检出总砷",
+        "onboard_time": 1742438962,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 128810,
+        "num": 128810,
+        "word": "Sia离婚",
+        "onboard_time": 1742447423,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在云南丽江考察调研#"
+    }
+  }
+}

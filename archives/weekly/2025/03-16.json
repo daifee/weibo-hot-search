@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742448198209,
+  "endTime": 1742449212766,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -507,6 +507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1648656,
+      "num": 1648656,
+      "word": "李嘉诚",
+      "onboard_time": 1742052329,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1641295,
       "num": 1641295,
       "word": "小米商标已含卫生护垫类",
@@ -729,14 +737,6 @@
       "onboard_time": 1742304744,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1312654,
-      "num": 1312654,
-      "word": "李嘉诚",
-      "onboard_time": 1742052329,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1309675,
@@ -1385,6 +1385,14 @@
       "onboard_time": 1742371943,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 936785,
+      "num": 936785,
+      "word": "HR看我工位笑了",
+      "onboard_time": 1742446463,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 934116,
@@ -2203,6 +2211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 651691,
+      "num": 651691,
+      "word": "王宝强新剧扔烟头炸车这一下",
+      "onboard_time": 1742445324,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 651554,
       "num": 642777,
       "word": "将门毒后的选角要求",
@@ -2369,14 +2385,6 @@
       "onboard_time": 1742378304,
       "rank": 6,
       "category": "舆论监督,健康医疗"
-    },
-    {
-      "raw_hot": 600161,
-      "num": 366753,
-      "word": "HR看我工位笑了",
-      "onboard_time": 1742446463,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 598319,
@@ -3307,16 +3315,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 433315,
-      "num": 405583,
-      "word": "王宝强新剧扔烟头炸车这一下",
-      "onboard_time": 1742445324,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 433235,
-      "num": 339153,
+      "num": 352251,
       "word": "阚清子说30岁后才找到真爱",
       "onboard_time": 1742444242,
       "rank": 19,
@@ -3620,7 +3620,7 @@
     },
     {
       "raw_hot": 391306,
-      "num": 307867,
+      "num": 336930,
       "word": "祖玛珑与金秀贤解约",
       "onboard_time": 1742445745,
       "rank": 26,
@@ -3771,6 +3771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369534,
+      "num": 369534,
+      "word": "特朗普展示办公桌上的可乐按钮",
+      "onboard_time": 1742446284,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 368182,
       "num": 392991,
       "word": "嘘国王在冬眠雪崩",
@@ -3835,6 +3843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 359181,
+      "num": 301066,
+      "word": "金秀贤开始所谓的反击",
+      "onboard_time": 1742446163,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358342,
       "num": 358342,
       "word": "孙颖莎扳平王艺迪",
@@ -3849,6 +3865,14 @@
       "onboard_time": 1742213424,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352115,
+      "num": 352115,
+      "word": "央视网发白敬亭上春山",
+      "onboard_time": 1742448621,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 350141,
@@ -3992,14 +4016,6 @@
       "word": "宋慧乔李惠利 为自己闪耀",
       "onboard_time": 1742191642,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 339612,
-      "num": 293051,
-      "word": "金秀贤开始所谓的反击",
-      "onboard_time": 1742446163,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -4321,14 +4337,6 @@
       "onboard_time": 1742269970,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 301294,
-      "num": 301294,
-      "word": "特朗普展示办公桌上的可乐按钮",
-      "onboard_time": 1742446284,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 300321,
@@ -4747,6 +4755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 266486,
+      "num": 385517,
+      "word": "湖北大学失联女生家属透露更多细节",
+      "onboard_time": 1742447662,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266383,
       "num": 596335,
       "word": "刘耀文还是戴墨镜吧",
@@ -4963,6 +4979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256621,
+      "num": 256621,
+      "word": "小学校长性侵多名学生案二审开庭",
+      "onboard_time": 1742444603,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256415,
       "num": 256415,
       "word": "丁禹兮问祝绪丹为什么不唱消散对白",
@@ -4976,14 +5000,6 @@
       "word": "健身小伙每天5勺蛋白粉6个月后肾虚了",
       "onboard_time": 1742192663,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255734,
-      "num": 255734,
-      "word": "小学校长性侵多名学生案二审开庭",
-      "onboard_time": 1742444603,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -5596,7 +5612,7 @@
     },
     {
       "raw_hot": 228561,
-      "num": 834928,
+      "num": 858547,
       "word": "一键解锁贵州侗寨的出圈密码",
       "onboard_time": 1742398047,
       "rank": 8,
@@ -5777,6 +5793,14 @@
       "onboard_time": 1742191162,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222074,
+      "num": 222074,
+      "word": "四六级报名",
+      "onboard_time": 1742257824,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 222034,
@@ -6019,14 +6043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213003,
-      "num": 213003,
-      "word": "四六级报名",
-      "onboard_time": 1742257824,
-      "rank": 42,
-      "category": "教育"
-    },
-    {
       "raw_hot": 212971,
       "num": 458091,
       "word": "英法坚持要向乌克兰派驻部队",
@@ -6169,6 +6185,14 @@
       "onboard_time": 1742212525,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 208822,
+      "num": 255149,
+      "word": "赵露思自己化的杂志妆容",
+      "onboard_time": 1742449041,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208746,
@@ -6883,6 +6907,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 194863,
+      "num": 246529,
+      "word": "孟佳公路文女主有脸了",
+      "onboard_time": 1742448143,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194855,
       "num": 194855,
       "word": "月亮",
@@ -7571,6 +7603,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182391,
+      "num": 182391,
+      "word": "韩国爱豆练习生的现实",
+      "onboard_time": 1742448320,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182331,
+      "num": 238737,
+      "word": "念无双",
+      "onboard_time": 1742448443,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182304,
       "num": 250800,
       "word": "王皓谈樊振东缺席澳门世界杯原因",
@@ -7767,6 +7815,14 @@
       "num": 177610,
       "word": "南波万男团为罗予彤浪姐打call",
       "onboard_time": 1742373442,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177572,
+      "num": 177572,
+      "word": "谁去把王耀庆的插头拔了",
+      "onboard_time": 1742448802,
       "rank": 36,
       "category": "综艺"
     },
@@ -8363,6 +8419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162575,
+      "num": 212890,
+      "word": "蒋敦豪发文祝晴天生日快乐",
+      "onboard_time": 1742448202,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162415,
       "num": 162415,
       "word": "王楚钦展望全运会",
@@ -8544,6 +8608,14 @@
       "word": "京东称缴社保外卖骑手人数已过万",
       "onboard_time": 1742440942,
       "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 159746,
+      "num": 159746,
+      "word": "体制内DeepSeek提示词",
+      "onboard_time": 1742448383,
+      "rank": 37,
       "category": "互联网"
     },
     {
@@ -8929,6 +9001,14 @@
       "onboard_time": 1742137225,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151556,
+      "num": 352599,
+      "word": "考研调剂系统每次开放不得低于12小时",
+      "onboard_time": 1742448383,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 151456,
@@ -9443,6 +9523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144232,
+      "num": 144232,
+      "word": "林更新真挨了水灵灵的一巴掌",
+      "onboard_time": 1742448862,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144169,
       "num": 144169,
       "word": "中国女留学生在米兰夺回被抢的手机",
@@ -9497,14 +9585,6 @@
       "onboard_time": 1742445144,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143366,
-      "num": 143366,
-      "word": "孟佳公路文女主有脸了",
-      "onboard_time": 1742448143,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 143174,
@@ -9921,6 +10001,14 @@
       "onboard_time": 1742287464,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135103,
+      "num": 135103,
+      "word": "马龙独得2分",
+      "onboard_time": 1742448082,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 135039,
@@ -10721,6 +10809,14 @@
       "onboard_time": 1742139684,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121363,
+      "num": 215561,
+      "word": "你会因为贫穷而感到自卑吗",
+      "onboard_time": 1742448501,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 121113,
@@ -11587,6 +11683,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 98706,
+      "num": 352199,
+      "word": "多方回应中介进他人别墅施工区摔亡",
+      "onboard_time": 1742448563,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98638,
       "num": 221537,
       "word": "球迷到灵隐寺为国足祈福",
@@ -11811,14 +11915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93404,
-      "num": 385517,
-      "word": "湖北大学失联女生家属透露更多细节",
-      "onboard_time": 1742447662,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93262,
       "num": 727078,
       "word": "工位上养鲜切花来哄自己上班",
@@ -11945,6 +12041,14 @@
       "onboard_time": 1742292322,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90685,
+      "num": 134288,
+      "word": "这周也喝酸奶了",
+      "onboard_time": 1742449041,
+      "rank": 46,
+      "category": "幽默,健康医疗"
     },
     {
       "raw_hot": 90342,
@@ -12811,6 +12915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59091,
+      "num": 308198,
+      "word": "法国闹蛋荒",
+      "onboard_time": 1742447122,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 59011,
       "num": 59011,
       "word": "省考行测难不难",
@@ -12977,14 +13089,6 @@
       "onboard_time": 1742191582,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 53742,
-      "num": 308198,
-      "word": "法国闹蛋荒",
-      "onboard_time": 1742447122,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 53677,
