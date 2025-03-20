@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742470577853,
+  "endTime": 1742474677479,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -481,6 +481,14 @@
       "onboard_time": 1742269524,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1770881,
+      "num": 354560,
+      "word": "韩安冉长文回应离婚风波",
+      "onboard_time": 1742471122,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1755466,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1742221224,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 997167,
+      "num": 352249,
+      "word": "金赛纶母亲看到录音后爆哭",
+      "onboard_time": 1742474241,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 995222,
@@ -2787,6 +2803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 558391,
+      "num": 558391,
+      "word": "拔牙坠楼女子家属与相关方达成协商",
+      "onboard_time": 1742470641,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556160,
       "num": 347871,
       "word": "上海全款150万9平米的独栋",
@@ -3929,6 +3953,14 @@
       "onboard_time": 1742221405,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 385151,
+      "num": 385151,
+      "word": "孙颖莎太可爱了",
+      "onboard_time": 1742469921,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 383563,
@@ -5843,6 +5875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234827,
+      "num": 339217,
+      "word": "辛云来有种第一次营业的清澈",
+      "onboard_time": 1742472501,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234778,
       "num": 345320,
       "word": "这排全是虞书欣以年为单位的朋友",
@@ -6945,6 +6985,14 @@
       "onboard_time": 1742459902,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202195,
+      "num": 202195,
+      "word": "奎八",
+      "onboard_time": 1742473281,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202096,
@@ -9395,6 +9443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158577,
+      "num": 201767,
+      "word": "马秋元看得出她是公主",
+      "onboard_time": 1742473582,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158484,
       "num": 268509,
       "word": "国民经济起步平稳发展态势向新向好",
@@ -9425,6 +9481,14 @@
       "onboard_time": 1742116882,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158133,
+      "num": 158133,
+      "word": "珉佑",
+      "onboard_time": 1742472441,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 157900,
@@ -9507,6 +9571,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156756,
+      "num": 156756,
+      "word": "日本VS巴林",
+      "onboard_time": 1742473763,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156501,
       "num": 297442,
       "word": "特朗普泽连斯基通话约1小时",
@@ -9553,6 +9625,14 @@
       "onboard_time": 1742096722,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154776,
+      "num": 154776,
+      "word": "总裁公费追星王俊凯",
+      "onboard_time": 1742473403,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 154690,
@@ -9745,6 +9825,14 @@
       "onboard_time": 1742137225,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151652,
+      "num": 151652,
+      "word": "问界M8订单突破7万台",
+      "onboard_time": 1742471182,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 151456,
@@ -10451,6 +10539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142570,
+      "num": 142570,
+      "word": "辛云来 顺眼",
+      "onboard_time": 1742474302,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142496,
       "num": 142496,
       "word": "唐嫣方否认念无双空降",
@@ -10737,6 +10833,14 @@
       "onboard_time": 1742204182,
       "rank": 45,
       "category": "民生新闻,演出"
+    },
+    {
+      "raw_hot": 137753,
+      "num": 137753,
+      "word": "白鹿的猫剪毛",
+      "onboard_time": 1742472022,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 137409,
@@ -11315,6 +11419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128627,
+      "num": 342180,
+      "word": "小米15Ultra在夜晚拍了拍春天",
+      "onboard_time": 1742472501,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 128360,
       "num": 128360,
       "word": "福州回应哪吒墙绘被破坏",
@@ -11859,12 +11971,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119540,
+      "num": 119540,
+      "word": "周迅和老钱风的适配度",
+      "onboard_time": 1742473941,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 119175,
       "num": 119175,
       "word": "A股",
       "onboard_time": 1742177061,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119044,
+      "num": 119044,
+      "word": "杨紫公司起诉前合作方",
+      "onboard_time": 1742474482,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 118913,
@@ -11945,6 +12073,14 @@
       "onboard_time": 1742195481,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118029,
+      "num": 118029,
+      "word": "全圆佑饭拍",
+      "onboard_time": 1742474181,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 117912,
@@ -12155,6 +12291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113072,
+      "num": 277287,
+      "word": "五角大楼计划裁减6万文职岗",
+      "onboard_time": 1742470221,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 113060,
       "num": 133783,
       "word": "一盒大刀猪腰片竟有两个生产日期",
@@ -12169,6 +12313,14 @@
       "onboard_time": 1742452941,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112858,
+      "num": 112858,
+      "word": "要不说王格格许梦圆能演女主呢",
+      "onboard_time": 1742470942,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 112774,
@@ -12329,6 +12481,14 @@
       "onboard_time": 1742134765,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109507,
+      "num": 109507,
+      "word": "没人通知我食堂换帅哥打菜了",
+      "onboard_time": 1742471302,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 109489,
@@ -12803,6 +12963,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 98051,
+      "num": 200306,
+      "word": "问界M9智驾安全不靠奇迹靠实力",
+      "onboard_time": 1742474121,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 97684,
       "num": 97684,
       "word": "男子出差被仙人跳骗走天价古董",
@@ -13009,14 +13177,6 @@
       "onboard_time": 1742155214,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 92704,
-      "num": 257453,
-      "word": "孙颖莎太可爱了",
-      "onboard_time": 1742469921,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 92617,
@@ -13899,6 +14059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 65945,
+      "num": 145286,
+      "word": "上海给F1点沪流震撼",
+      "onboard_time": 1742474121,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65846,
       "num": 65846,
       "word": "鞠婧祎九婴造型路透",
@@ -14049,6 +14217,14 @@
       "onboard_time": 1742320516,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60788,
+      "num": 348233,
+      "word": "香港航空回应客机起火",
+      "onboard_time": 1742473403,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60677,
@@ -14321,6 +14497,14 @@
       "onboard_time": 1742362223,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53074,
+      "num": 151680,
+      "word": "极氪科技集团首次财报超千亿",
+      "onboard_time": 1742472501,
+      "rank": 37,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 53023,
@@ -14691,6 +14875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46412,
+      "num": 201208,
+      "word": "飞机行李架起火空乘用可乐扑灭",
+      "onboard_time": 1742473700,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46401,
       "num": 209748,
       "word": "蔡康永说平静大于快乐",
@@ -14713,14 +14905,6 @@
       "onboard_time": 1742081478,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46090,
-      "num": 277287,
-      "word": "五角大楼计划裁减6万文职岗",
-      "onboard_time": 1742470221,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 46010,
@@ -14955,6 +15139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41542,
+      "num": 340127,
+      "word": "乘客称行李架起火疑因充电宝自燃",
+      "onboard_time": 1742473403,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41299,
       "num": 137902,
       "word": "公关稿里的真诚不值钱",
@@ -15017,6 +15209,14 @@
       "onboard_time": 1742373622,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 39711,
+      "num": 199213,
+      "word": "国足vs沙特23人大名单",
+      "onboard_time": 1742474181,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 39320,
@@ -15628,7 +15828,7 @@
     },
     {
       "raw_hot": 27666,
-      "num": 586970,
+      "num": 732714,
       "word": "高质量发展中国行",
       "onboard_time": 1742390005,
       "rank": 2,
@@ -16259,6 +16459,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 14806,
+      "num": 152081,
+      "word": "小米15Ultra打卡8D魔幻城市",
+      "onboard_time": 1742471662,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 14677,
       "num": 21274,
       "word": "华莱士将开展30天卫生抽查",
@@ -16567,6 +16775,9 @@
     },
     {
       "word": "#总书记在丽江考察这一幕好温馨#"
+    },
+    {
+      "word": "#习近平在云南丽江市考察调研#"
     }
   ]
 }
