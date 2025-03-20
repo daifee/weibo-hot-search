@@ -1,0 +1,410 @@
+{
+  "runTime": 1742448198209,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1252896,
+        "num": 1252896,
+        "word": "李嘉诚",
+        "onboard_time": 1742445203,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 967749,
+        "num": 967749,
+        "word": "关晓彤造型师回应",
+        "onboard_time": 1742441542,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26455,
+        "num": 531912,
+        "word": "一键解锁贵州侗寨的出圈密码",
+        "onboard_time": 1742398047,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498959,
+        "num": 498959,
+        "word": "律师称千禾0酱油存主观误导嫌疑",
+        "onboard_time": 1742440462,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 442238,
+        "num": 442238,
+        "word": "涉险遭强奸劝离职公司有多起劳动纠纷",
+        "onboard_time": 1742443581,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 428688,
+        "num": 428688,
+        "word": "加沙8岁女孩逃难中几乎掉光头发",
+        "onboard_time": 1742434642,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 593380,
+        "num": 411420,
+        "word": "关晓彤说我赶紧给它换了",
+        "onboard_time": 1742430863,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433315,
+        "num": 405583,
+        "word": "王宝强新剧扔烟头炸车这一下",
+        "onboard_time": 1742445324,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386867,
+        "num": 386867,
+        "word": "黄金",
+        "onboard_time": 1742441542,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93404,
+        "num": 385517,
+        "word": "湖北大学失联女生家属透露更多细节",
+        "onboard_time": 1742447662,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1987400,
+        "num": 375910,
+        "word": "韩安冉家的保姆都出来发声了",
+        "onboard_time": 1742444182,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19297,
+        "num": 371133,
+        "word": "上海就是一个巨大的赛车场",
+        "onboard_time": 1742443403,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600161,
+        "num": 366753,
+        "word": "HR看我工位笑了",
+        "onboard_time": 1742446463,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124801,
+        "num": 357410,
+        "word": "我们都只是小朋友而已",
+        "onboard_time": 1742446943,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 592234,
+        "num": 352740,
+        "word": "金赛纶曾被男朋友用孩子威胁",
+        "onboard_time": 1742437761,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99010,
+        "num": 346741,
+        "word": "吴磊真能扛啊",
+        "onboard_time": 1742443403,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341523,
+        "num": 341523,
+        "word": "千禾0商标被指误导消费者零添加",
+        "onboard_time": 1742442082,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 433235,
+        "num": 339153,
+        "word": "阚清子说30岁后才找到真爱",
+        "onboard_time": 1742444242,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333046,
+        "num": 333046,
+        "word": "水饺皇后定档",
+        "onboard_time": 1742440641,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53742,
+        "num": 308198,
+        "word": "法国闹蛋荒",
+        "onboard_time": 1742447122,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 902544,
+        "num": 308012,
+        "word": "韩安冉 离婚",
+        "onboard_time": 1742395704,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 391306,
+        "num": 307867,
+        "word": "祖玛珑与金秀贤解约",
+        "onboard_time": 1742445745,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307679,
+        "num": 307679,
+        "word": "14岁儿子意外枪杀6岁女儿",
+        "onboard_time": 1742429603,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305186,
+        "num": 305186,
+        "word": "张若昀唐艺昕不认可不能离婚的规定",
+        "onboard_time": 1742438241,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55305,
+        "num": 301726,
+        "word": "F1最吸引你的是什么",
+        "onboard_time": 1742446704,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301294,
+        "num": 301294,
+        "word": "特朗普展示办公桌上的可乐按钮",
+        "onboard_time": 1742446284,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 339612,
+        "num": 293051,
+        "word": "金秀贤开始所谓的反击",
+        "onboard_time": 1742446163,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283658,
+        "num": 283658,
+        "word": "王楚钦在马龙身边嘴角没下来过",
+        "onboard_time": 1742443282,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206388,
+        "num": 260681,
+        "word": "贵女",
+        "onboard_time": 1742447483,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56251,
+        "num": 255841,
+        "word": "你的开户经理可能是骗子",
+        "onboard_time": 1742447002,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 255734,
+        "num": 255734,
+        "word": "小学校长性侵多名学生案二审开庭",
+        "onboard_time": 1742444603,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213003,
+        "num": 213003,
+        "word": "四六级报名",
+        "onboard_time": 1742447063,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188975,
+        "num": 188975,
+        "word": "全运会乒乓球资格赛首日",
+        "onboard_time": 1742444182,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176835,
+        "num": 176835,
+        "word": "冯琳念错李昀锐名字",
+        "onboard_time": 1742435961,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151456,
+        "num": 173129,
+        "word": "李昀锐内场帮孟子义提裙摆",
+        "onboard_time": 1742446584,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170871,
+        "num": 170871,
+        "word": "Sia离婚",
+        "onboard_time": 1742447423,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47283,
+        "num": 166204,
+        "word": "国足背后有我",
+        "onboard_time": 1742446463,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163626,
+        "num": 163626,
+        "word": "赵露思又一条百万赞ins",
+        "onboard_time": 1742432424,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162773,
+        "num": 162773,
+        "word": "月子会所回应月嫂感冒致婴儿肺炎",
+        "onboard_time": 1742445504,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150882,
+        "num": 150882,
+        "word": "赵丽颖簪花照出现在虞书欣新剧",
+        "onboard_time": 1742430204,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149380,
+        "num": 149380,
+        "word": "巴赫获终身名誉主席",
+        "onboard_time": 1742446823,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149040,
+        "num": 149040,
+        "word": "刘亦菲的男主们送来获奖祝福",
+        "onboard_time": 1742432483,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147282,
+        "num": 147282,
+        "word": "海陆发了李晟崩溃直拍",
+        "onboard_time": 1742428101,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145208,
+        "num": 145208,
+        "word": "零添加酱油12款检出镉7款检出总砷",
+        "onboard_time": 1742438962,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 143366,
+        "num": 143366,
+        "word": "孟佳公路文女主有脸了",
+        "onboard_time": 1742448143,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140636,
+        "num": 140636,
+        "word": "乒乓球澳门世界杯",
+        "onboard_time": 1742447122,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137742,
+        "num": 137742,
+        "word": "双轨",
+        "onboard_time": 1742437820,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129157,
+        "num": 133428,
+        "word": "周深2025全新巡演官宣",
+        "onboard_time": 1742446644,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132043,
+        "num": 132043,
+        "word": "棋士定档",
+        "onboard_time": 1742444482,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131793,
+        "num": 131793,
+        "word": "花粉过敏元凶是你以为不会开花的树",
+        "onboard_time": 1742445745,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励贵州向新#"
+    }
+  }
+}
