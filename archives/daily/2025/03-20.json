@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742440174339,
+  "endTime": 1742441729310,
   "band_list": [
     {
       "raw_hot": 5372498,
@@ -19,20 +19,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1477335,
+      "num": 1477335,
+      "word": "水饺皇后定档",
+      "onboard_time": 1742440641,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1192199,
+      "num": 257953,
+      "word": "金赛纶曾被男朋友用孩子威胁",
+      "onboard_time": 1742437761,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1184290,
       "num": 594893,
       "word": "关晓彤说我赶紧给它换了",
       "onboard_time": 1742430863,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 974663,
-      "num": 241416,
-      "word": "金赛纶曾被男朋友用孩子威胁",
-      "onboard_time": 1742437761,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 934116,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 640130,
-      "num": 237791,
+      "num": 249110,
       "word": "冯琳念错李昀锐名字",
       "onboard_time": 1742435961,
       "rank": 12,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 612135,
-      "num": 227421,
+      "num": 231943,
       "word": "14岁儿子意外枪杀6岁女儿",
       "onboard_time": 1742429603,
       "rank": 11,
@@ -139,8 +147,24 @@
       "category": "教育"
     },
     {
+      "raw_hot": 547272,
+      "num": 547272,
+      "word": "马龙王楚钦3比0朱毅谢聪凡",
+      "onboard_time": 1742438241,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 509461,
+      "num": 222425,
+      "word": "张若昀唐艺昕不认可不能离婚的规定",
+      "onboard_time": 1742438241,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 499880,
-      "num": 232977,
+      "num": 245534,
       "word": "韩安冉曝小猪妹录音",
       "onboard_time": 1742439564,
       "rank": 13,
@@ -161,14 +185,6 @@
       "onboard_time": 1742380583,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 473683,
-      "num": 219912,
-      "word": "张若昀唐艺昕不认可不能离婚的规定",
-      "onboard_time": 1742438241,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 463457,
@@ -291,19 +307,19 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 297969,
-      "num": 297969,
-      "word": "马龙王楚钦3比0朱毅谢聪凡",
-      "onboard_time": 1742438241,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 295732,
       "num": 295732,
       "word": "网友在日本捡到热巴的签证",
       "onboard_time": 1742391444,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 276949,
+      "num": 229199,
+      "word": "曾黎竹林古风美人",
+      "onboard_time": 1742441001,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -355,6 +371,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233482,
+      "num": 233482,
+      "word": "律师称千禾0酱油存主观误导嫌疑",
+      "onboard_time": 1742440462,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 225339,
+      "num": 225339,
+      "word": "掘金vs湖人",
+      "onboard_time": 1742440403,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223442,
       "num": 135322,
       "word": "雷军6楼扔西瓜",
@@ -387,12 +419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203517,
+      "num": 203517,
+      "word": "婚姻里女性要承担多少隐形家务",
+      "onboard_time": 1742438362,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202068,
       "num": 220323,
       "word": "张婧仪独一无二定档五一",
       "onboard_time": 1742439021,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200549,
+      "num": 200549,
+      "word": "时尚先生",
+      "onboard_time": 1742440582,
+      "rank": 25,
+      "category": "时尚"
     },
     {
       "raw_hot": 200261,
@@ -411,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194462,
+      "num": 194462,
+      "word": "剑网3",
+      "onboard_time": 1742440462,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192821,
       "num": 299795,
       "word": "孟子义章若楠同框",
@@ -425,6 +481,22 @@
       "onboard_time": 1742433144,
       "rank": 16,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 188106,
+      "num": 200238,
+      "word": "湖北大学失联女大学生家属发声",
+      "onboard_time": 1742439021,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187838,
+      "num": 200083,
+      "word": "雅有一种气血很足的帅",
+      "onboard_time": 1742440822,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 177549,
@@ -451,6 +523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163779,
+      "num": 199612,
+      "word": "李晟说上浪姐不怕被蛐蛐",
+      "onboard_time": 1742439500,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162165,
       "num": 149919,
       "word": "赵丽颖簪花照出现在虞书欣新剧",
@@ -459,12 +539,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159796,
+      "num": 158376,
+      "word": "京东称缴社保外卖骑手人数已过万",
+      "onboard_time": 1742440942,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 157455,
+      "num": 157455,
+      "word": "女子用生菜根水培实现吃菜自由",
+      "onboard_time": 1742440641,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157042,
       "num": 221386,
       "word": "湖北大学",
       "onboard_time": 1742391205,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157032,
+      "num": 157032,
+      "word": "关晓彤造型师回应",
+      "onboard_time": 1742441542,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 156501,
@@ -483,20 +587,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152747,
-      "num": 152747,
-      "word": "婚姻里女性要承担多少隐形家务",
-      "onboard_time": 1742438362,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 151389,
       "num": 151389,
       "word": "LPR",
       "onboard_time": 1742433380,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 146836,
+      "num": 146836,
+      "word": "谁懂赵露思和可露丽风的适配度",
+      "onboard_time": 1742440822,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 145844,
@@ -531,12 +635,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140471,
-      "num": 140471,
-      "word": "李晟说上浪姐不怕被蛐蛐",
-      "onboard_time": 1742439500,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 137343,
+      "num": 137343,
+      "word": "王者荣耀世界新预告",
+      "onboard_time": 1742440582,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 136344,
+      "num": 221050,
+      "word": "美计划对所有经济体征收对等关税",
+      "onboard_time": 1742439202,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135921,
@@ -547,12 +659,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135422,
+      "num": 135422,
+      "word": "黄金",
+      "onboard_time": 1742441542,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 135352,
+      "num": 135352,
+      "word": "宋亚轩的flag是至死不渝",
+      "onboard_time": 1742440701,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134981,
       "num": 163479,
       "word": "国足目前出线概率",
       "onboard_time": 1742434162,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133770,
+      "num": 247871,
+      "word": "春天的快乐就是处处生花",
+      "onboard_time": 1742439021,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130540,
@@ -571,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126290,
+      "num": 126290,
+      "word": "加强历史文化遗产保护利用",
+      "onboard_time": 1742440582,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123514,
       "num": 217236,
       "word": "迪丽热巴早期微博精神状态演我",
@@ -585,6 +729,14 @@
       "onboard_time": 1742378663,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121109,
+      "num": 121109,
+      "word": "哪吒已经进入蜡染圈了",
+      "onboard_time": 1742441362,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117236,
@@ -651,14 +803,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103117,
-      "num": 247871,
-      "word": "春天的快乐就是处处生花",
-      "onboard_time": 1742439021,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102823,
       "num": 102823,
       "word": "多方回应湖北大学女生失联数天",
@@ -681,14 +825,6 @@
       "onboard_time": 1742439564,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99453,
-      "num": 99453,
-      "word": "湖北大学失联女大学生家属发声",
-      "onboard_time": 1742439021,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99161,
@@ -795,6 +931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86231,
+      "num": 199308,
+      "word": "虚假的315红黑榜必须露头就打",
+      "onboard_time": 1742440161,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 85890,
       "num": 85890,
       "word": "韵达回应全资子公司被立案调查",
@@ -833,6 +977,14 @@
       "onboard_time": 1742386943,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79805,
+      "num": 134042,
+      "word": "辛云来新片演张婧仪哥哥",
+      "onboard_time": 1742441662,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 78952,
@@ -883,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66537,
+      "num": 139410,
+      "word": "5块钱葱油拌面",
+      "onboard_time": 1742440520,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 66368,
       "num": 210961,
       "word": "美乌元首通话",
@@ -921,6 +1081,14 @@
       "onboard_time": 1742389644,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51586,
+      "num": 238666,
+      "word": "揭秘仓播高补贴高奢品套路",
+      "onboard_time": 1742439862,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 50733,
@@ -1019,14 +1187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36782,
-      "num": 221050,
-      "word": "美计划对所有经济体征收对等关税",
-      "onboard_time": 1742439202,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 36653,
       "num": 88350,
       "word": "电影热烈官宣4月3日重映",
@@ -1049,14 +1209,6 @@
       "onboard_time": 1742405597,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28389,
-      "num": 171431,
-      "word": "揭秘仓播高补贴高奢品套路",
-      "onboard_time": 1742439862,
-      "rank": 24,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 20415,
