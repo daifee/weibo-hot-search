@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742436597340,
+  "endTime": 1742439616910,
   "band_list": [
     {
       "raw_hot": 5372498,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1184290,
-      "num": 314582,
+      "num": 565649,
       "word": "关晓彤说我赶紧给它换了",
       "onboard_time": 1742430863,
       "rank": 3,
@@ -51,6 +51,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 713845,
+      "num": 241416,
+      "word": "金赛纶曾被男朋友用孩子威胁",
+      "onboard_time": 1742437761,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 702866,
       "num": 873482,
       "word": "邓为 将门毒后",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 668912,
-      "num": 201506,
+      "num": 225593,
       "word": "赵露思又一条百万赞ins",
       "onboard_time": 1742432424,
       "rank": 10,
@@ -73,6 +81,22 @@
       "onboard_time": 1742391326,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 644583,
+      "num": 644583,
+      "word": "双轨",
+      "onboard_time": 1742437820,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 640130,
+      "num": 237791,
+      "word": "冯琳念错李昀锐名字",
+      "onboard_time": 1742435961,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 625645,
@@ -92,11 +116,27 @@
     },
     {
       "raw_hot": 612135,
-      "num": 199461,
+      "num": 227421,
       "word": "14岁儿子意外枪杀6岁女儿",
       "onboard_time": 1742429603,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 565278,
+      "num": 236091,
+      "word": "小学生因直呼老师姓名被打脸9下",
+      "onboard_time": 1742435422,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 564126,
+      "num": 564126,
+      "word": "张雪峰公司每月放1次3天小长假",
+      "onboard_time": 1742433861,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 493884,
@@ -116,7 +156,7 @@
     },
     {
       "raw_hot": 463457,
-      "num": 199120,
+      "num": 216273,
       "word": "医生建议半夜醒超半小时没入睡就起床",
       "onboard_time": 1742427681,
       "rank": 12,
@@ -129,6 +169,14 @@
       "onboard_time": 1742400742,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425827,
+      "num": 232977,
+      "word": "韩安冉曝小猪妹录音",
+      "onboard_time": 1742439564,
+      "rank": 13,
+      "category": "艺人,网红"
     },
     {
       "raw_hot": 419470,
@@ -147,20 +195,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 411140,
+      "num": 411140,
+      "word": "央视依然不转播国足对沙特比赛",
+      "onboard_time": 1742434521,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 405373,
       "num": 405373,
       "word": "樊振东张本智和合影",
       "onboard_time": 1742399064,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 389803,
-      "num": 174496,
-      "word": "冯琳念错李昀锐名字",
-      "onboard_time": 1742435961,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 376137,
@@ -171,12 +219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367438,
+      "num": 367438,
+      "word": "李宇春回复白鹿",
+      "onboard_time": 1742434821,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366955,
       "num": 296624,
       "word": "杨天真瘦到了124斤",
       "onboard_time": 1742384723,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358772,
+      "num": 219912,
+      "word": "张若昀唐艺昕不认可不能离婚的规定",
+      "onboard_time": 1742438241,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 338011,
@@ -267,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249104,
+      "num": 249104,
+      "word": "王楚钦马龙vs朱毅谢聪凡",
+      "onboard_time": 1742436442,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240364,
       "num": 121106,
       "word": "杭州女子带檀健次坐地铁被拦下了",
@@ -283,11 +355,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 218944,
-      "num": 174463,
-      "word": "央视依然不转播国足对沙特比赛",
-      "onboard_time": 1742434521,
-      "rank": 34,
+      "raw_hot": 221882,
+      "num": 221882,
+      "word": "迪丽热巴侧边丸子头",
+      "onboard_time": 1742433621,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219721,
+      "num": 219721,
+      "word": "马龙王楚钦3比0朱毅谢聪凡",
+      "onboard_time": 1742438241,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -307,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200261,
+      "num": 200261,
+      "word": "浪姐提名叶童最有反差感姐姐",
+      "onboard_time": 1742431043,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196899,
       "num": 299300,
       "word": "5500元名牌鞋送洗后被擅自换鞋底",
@@ -315,12 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193593,
-      "num": 193593,
-      "word": "迪丽热巴侧边丸子头",
-      "onboard_time": 1742433621,
-      "rank": 28,
-      "category": "作品衍生"
+      "raw_hot": 193861,
+      "num": 220323,
+      "word": "张婧仪独一无二定档五一",
+      "onboard_time": 1742439021,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 192821,
@@ -340,27 +428,11 @@
     },
     {
       "raw_hot": 177549,
-      "num": 152607,
+      "num": 159049,
       "word": "微信与QQ月活账户相差超8亿",
       "onboard_time": 1742428702,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 174436,
-      "num": 174436,
-      "word": "张雪峰公司每月放1次3天小长假",
-      "onboard_time": 1742433861,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 167778,
-      "num": 167778,
-      "word": "李宇春回复白鹿",
-      "onboard_time": 1742434821,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 165309,
@@ -380,19 +452,11 @@
     },
     {
       "raw_hot": 162165,
-      "num": 149567,
+      "num": 149919,
       "word": "赵丽颖簪花照出现在虞书欣新剧",
       "onboard_time": 1742430204,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162118,
-      "num": 162118,
-      "word": "小学生因直呼老师姓名被打脸9下",
-      "onboard_time": 1742435422,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157042,
@@ -419,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151758,
-      "num": 148946,
-      "word": "浪姐提名叶童最有反差感姐姐",
-      "onboard_time": 1742431043,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151389,
       "num": 151389,
       "word": "LPR",
@@ -441,6 +497,14 @@
       "onboard_time": 1742386884,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145036,
+      "num": 145036,
+      "word": "魏晨中译中的神",
+      "onboard_time": 1742437521,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 144504,
@@ -475,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130540,
+      "num": 130540,
+      "word": "谢娜说在乘风轮岗几年了",
+      "onboard_time": 1742435540,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128359,
       "num": 128359,
       "word": "间谍借升级会员获取情报",
@@ -499,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119208,
-      "num": 123651,
-      "word": "王楚钦马龙vs朱毅谢聪凡",
-      "onboard_time": 1742436442,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117236,
       "num": 117236,
       "word": "银川地震",
@@ -515,20 +579,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 117090,
-      "num": 117090,
-      "word": "谢娜说在乘风轮岗几年了",
-      "onboard_time": 1742435540,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115285,
       "num": 151913,
       "word": "美联储在未来数月或都按兵不动",
       "onboard_time": 1742432184,
       "rank": 24,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 112640,
+      "num": 112640,
+      "word": "花花吃竹子突然表演后空翻",
+      "onboard_time": 1742435843,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111022,
@@ -563,12 +627,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106578,
+      "num": 106578,
+      "word": "婚姻里女性要承担多少隐形家务",
+      "onboard_time": 1742438362,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106203,
       "num": 106203,
       "word": "TTG小雪连接成功",
       "onboard_time": 1742434222,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103117,
+      "num": 247871,
+      "word": "春天的快乐就是处处生花",
+      "onboard_time": 1742439021,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102559,
@@ -579,11 +659,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99171,
+      "num": 99171,
+      "word": "多方回应湖北大学女生失联数天",
+      "onboard_time": 1742437642,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99161,
       "num": 241104,
       "word": "孙杨400自银牌",
       "onboard_time": 1742387844,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98638,
+      "num": 221537,
+      "word": "球迷到灵隐寺为国足祈福",
+      "onboard_time": 1742438421,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -593,6 +689,14 @@
       "onboard_time": 1742398825,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 97013,
+      "num": 97013,
+      "word": "湖北大学失联女大学生家属发声",
+      "onboard_time": 1742439021,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95956,
@@ -627,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91968,
-      "num": 91968,
-      "word": "花花吃竹子突然表演后空翻",
-      "onboard_time": 1742435843,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91811,
       "num": 91811,
       "word": "特朗普称美国或可帮助运营乌发电站",
@@ -657,6 +753,14 @@
       "onboard_time": 1742393967,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89742,
+      "num": 89742,
+      "word": "李晟说上浪姐不怕被蛐蛐",
+      "onboard_time": 1742439500,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 89333,
@@ -721,6 +825,22 @@
       "onboard_time": 1742386943,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78952,
+      "num": 78952,
+      "word": "零添加酱油12款检出镉7款检出总砷",
+      "onboard_time": 1742438962,
+      "rank": 47,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 78248,
+      "num": 78248,
+      "word": "关晓彤冲浪速度好快",
+      "onboard_time": 1742439564,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 77375,
@@ -836,7 +956,7 @@
     },
     {
       "raw_hot": 44272,
-      "num": 425523,
+      "num": 566449,
       "word": "这里是多彩贵州",
       "onboard_time": 1742393486,
       "rank": 2,
@@ -929,6 +1049,14 @@
       "onboard_time": 1742400082,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18586,
+      "num": 221050,
+      "word": "美计划对所有经济体征收对等关税",
+      "onboard_time": 1742439202,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17758,
