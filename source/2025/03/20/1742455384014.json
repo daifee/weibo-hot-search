@@ -1,0 +1,410 @@
+{
+  "runTime": 1742455384014,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1374658,
+        "num": 1374658,
+        "word": "黄油年糕",
+        "onboard_time": 1742450181,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1305411,
+        "num": 1305411,
+        "word": "华为PuraX",
+        "onboard_time": 1742453481,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 19417,
+        "num": 1042209,
+        "word": "一键解锁贵州侗寨的出圈密码",
+        "onboard_time": 1742398047,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 849496,
+        "num": 849496,
+        "word": "赵露思自己化的杂志妆容",
+        "onboard_time": 1742449041,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 767617,
+        "num": 767617,
+        "word": "华为发布会",
+        "onboard_time": 1742451203,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 532558,
+        "num": 532558,
+        "word": "李嘉诚",
+        "onboard_time": 1742445203,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419076,
+        "num": 419076,
+        "word": "商场女厕马桶为何频频变蹲坑",
+        "onboard_time": 1742452521,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284902,
+        "num": 388469,
+        "word": "谭卓给胡歌微信备注谁谁谁她爸",
+        "onboard_time": 1742450962,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382780,
+        "num": 382780,
+        "word": "HR看我工位笑了",
+        "onboard_time": 1742446463,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45733,
+        "num": 378731,
+        "word": "多部门调查商人举报检察员侵吞资产",
+        "onboard_time": 1742454622,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1007255,
+        "num": 374046,
+        "word": "央视网发白敬亭上春山",
+        "onboard_time": 1742448621,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 828320,
+        "num": 359647,
+        "word": "韩安冉家的保姆都出来发声了",
+        "onboard_time": 1742444182,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 572982,
+        "num": 355691,
+        "word": "金秀贤台湾见面会参加者需年满18岁",
+        "onboard_time": 1742453361,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348113,
+        "num": 348113,
+        "word": "华为 阔折叠",
+        "onboard_time": 1742454083,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 69369,
+        "num": 336307,
+        "word": "蔡康永说人想轻松懒惰没那么丢脸",
+        "onboard_time": 1742453964,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234004,
+        "num": 315567,
+        "word": "考研调剂系统每次开放不得低于12小时",
+        "onboard_time": 1742448383,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 241800,
+        "num": 301654,
+        "word": "徐明浩这太有生活了",
+        "onboard_time": 1742453542,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188303,
+        "num": 272564,
+        "word": "别人饭撒沈腾马丽撒饭",
+        "onboard_time": 1742455042,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271287,
+        "num": 271287,
+        "word": "金赛纶曾被男朋友用孩子威胁",
+        "onboard_time": 1742437761,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252289,
+        "num": 252289,
+        "word": "体制内DeepSeek提示词",
+        "onboard_time": 1742448383,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 438626,
+        "num": 242966,
+        "word": "韩安冉 离婚",
+        "onboard_time": 1742395704,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 227967,
+        "num": 227967,
+        "word": "关晓彤造型师回应",
+        "onboard_time": 1742441542,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197281,
+        "num": 197281,
+        "word": "华为 DeepSeek",
+        "onboard_time": 1742454803,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195906,
+        "num": 195906,
+        "word": "律师称千禾0酱油存主观误导嫌疑",
+        "onboard_time": 1742440462,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 189217,
+        "num": 189217,
+        "word": "王俊凯直播",
+        "onboard_time": 1742453782,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171965,
+        "num": 171965,
+        "word": "王宝强新剧扔烟头炸车这一下",
+        "onboard_time": 1742445324,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167428,
+        "num": 167428,
+        "word": "周也的耳环比耳朵都大",
+        "onboard_time": 1742454683,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166747,
+        "num": 166747,
+        "word": "半熟恋人cp回娘家",
+        "onboard_time": 1742453722,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160388,
+        "num": 160388,
+        "word": "14岁儿子意外枪杀6岁女儿",
+        "onboard_time": 1742429603,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74168,
+        "num": 158884,
+        "word": "洛阳一湖底出现塌方",
+        "onboard_time": 1742454502,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236714,
+        "num": 158721,
+        "word": "华为PuraX 电子书",
+        "onboard_time": 1742454502,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158416,
+        "num": 158416,
+        "word": "湖北大学失联女生家属透露更多细节",
+        "onboard_time": 1742447662,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116829,
+        "num": 154316,
+        "word": "王楚钦被队友称为大哥又偷偷笑了",
+        "onboard_time": 1742454023,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154142,
+        "num": 154142,
+        "word": "张若昀唐艺昕不认可不能离婚的规定",
+        "onboard_time": 1742438241,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147830,
+        "num": 147830,
+        "word": "十个勤天春分直播",
+        "onboard_time": 1742454984,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54625,
+        "num": 146250,
+        "word": "马龙独得2分",
+        "onboard_time": 1742448082,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145768,
+        "num": 145768,
+        "word": "春天的美好溢出屏幕了",
+        "onboard_time": 1742451920,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136912,
+        "num": 136912,
+        "word": "韩国爱豆练习生的现实",
+        "onboard_time": 1742448320,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132915,
+        "num": 132915,
+        "word": "千禾0商标被指误导消费者零添加",
+        "onboard_time": 1742442082,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 127049,
+        "num": 127049,
+        "word": "马斯克财富净值缩水超1000亿美元",
+        "onboard_time": 1742452521,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126430,
+        "num": 126430,
+        "word": "马龙说你是哪儿的记者",
+        "onboard_time": 1742455223,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123160,
+        "num": 123160,
+        "word": "零添加酱油12款检出镉7款检出总砷",
+        "onboard_time": 1742438962,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 117606,
+        "num": 117606,
+        "word": "加沙8岁女孩逃难中几乎掉光头发",
+        "onboard_time": 1742434642,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114356,
+        "num": 114356,
+        "word": "王宝强新剧和秋雅演夫妻",
+        "onboard_time": 1742455223,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113759,
+        "num": 113759,
+        "word": "小学校长性侵多名学生案二审开庭",
+        "onboard_time": 1742444603,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570930,
+        "num": 113608,
+        "word": "赵露思时尚先生三月刊封面",
+        "onboard_time": 1742442261,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 107141,
+        "num": 107141,
+        "word": "关晓彤说我赶紧给它换了",
+        "onboard_time": 1742430863,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107044,
+        "num": 107044,
+        "word": "春分的分是啥意思",
+        "onboard_time": 1742434342,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105719,
+        "num": 105719,
+        "word": "钟楚曦气血很足的美",
+        "onboard_time": 1742451261,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102182,
+        "num": 102182,
+        "word": "家属称被校长侵害女生性格变化明显",
+        "onboard_time": 1742452762,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在云南丽江考察调研#"
+    }
+  }
+}

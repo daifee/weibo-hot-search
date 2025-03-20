@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742453173167,
+  "endTime": 1742455384014,
   "band_list": [
     {
       "raw_hot": 5372498,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1615872,
-      "num": 373974,
+      "num": 374046,
       "word": "央视网发白敬亭上春山",
       "onboard_time": 1742448621,
       "rank": 15,
@@ -51,20 +51,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1374658,
+      "num": 1374658,
+      "word": "黄油年糕",
+      "onboard_time": 1742450181,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1305411,
+      "num": 1305411,
+      "word": "华为PuraX",
+      "onboard_time": 1742453481,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1265766,
       "num": 1265766,
       "word": "关晓彤造型师回应",
       "onboard_time": 1742441542,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1247015,
-      "num": 1247015,
-      "word": "黄油年糕",
-      "onboard_time": 1742450181,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 1192199,
@@ -129,6 +137,14 @@
       "onboard_time": 1742434642,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 767617,
+      "num": 767617,
+      "word": "华为发布会",
+      "onboard_time": 1742451203,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 723055,
@@ -203,12 +219,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 602532,
-      "num": 602532,
-      "word": "华为发布会",
-      "onboard_time": 1742451203,
-      "rank": 15,
-      "category": "数码"
+      "raw_hot": 572982,
+      "num": 355691,
+      "word": "金秀贤台湾见面会参加者需年满18岁",
+      "onboard_time": 1742453361,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 570930,
+      "num": 309680,
+      "word": "赵露思时尚先生三月刊封面",
+      "onboard_time": 1742442261,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 565278,
@@ -347,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419076,
+      "num": 419076,
+      "word": "商场女厕马桶为何频频变蹲坑",
+      "onboard_time": 1742452521,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 418872,
       "num": 418872,
       "word": "被拔错牙女子坠楼前哭诉谁来解救我",
@@ -419,12 +451,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 345917,
-      "num": 309680,
-      "word": "赵露思时尚先生三月刊封面",
-      "onboard_time": 1742442261,
-      "rank": 27,
-      "category": "作品衍生,时尚"
+      "raw_hot": 348113,
+      "num": 348113,
+      "word": "华为 阔折叠",
+      "onboard_time": 1742454083,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 338011,
@@ -563,12 +595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241800,
+      "num": 301654,
+      "word": "徐明浩这太有生活了",
+      "onboard_time": 1742453542,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240364,
       "num": 121106,
       "word": "杭州女子带檀健次坐地铁被拦下了",
       "onboard_time": 1742426059,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236714,
+      "num": 158721,
+      "word": "华为PuraX 电子书",
+      "onboard_time": 1742454502,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 225339,
@@ -707,6 +755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 197281,
+      "num": 197281,
+      "word": "华为 DeepSeek",
+      "onboard_time": 1742454803,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196899,
       "num": 299300,
       "word": "5500元名牌鞋送洗后被擅自换鞋底",
@@ -777,6 +833,22 @@
       "onboard_time": 1742450603,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189217,
+      "num": 189217,
+      "word": "王俊凯直播",
+      "onboard_time": 1742453782,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188303,
+      "num": 272564,
+      "word": "别人饭撒沈腾马丽撒饭",
+      "onboard_time": 1742455042,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 188106,
@@ -857,6 +929,22 @@
       "onboard_time": 1742447423,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167428,
+      "num": 167428,
+      "word": "周也的耳环比耳朵都大",
+      "onboard_time": 1742454683,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166747,
+      "num": 166747,
+      "word": "半熟恋人cp回娘家",
+      "onboard_time": 1742453722,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 165309,
@@ -1011,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147830,
+      "num": 147830,
+      "word": "十个勤天春分直播",
+      "onboard_time": 1742454984,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146836,
       "num": 146836,
       "word": "谁懂赵露思和可露丽风的适配度",
@@ -1025,6 +1121,14 @@
       "onboard_time": 1742386884,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145768,
+      "num": 374772,
+      "word": "春天的美好溢出屏幕了",
+      "onboard_time": 1742451920,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145036,
@@ -1132,7 +1236,7 @@
     },
     {
       "raw_hot": 135103,
-      "num": 135103,
+      "num": 146250,
       "word": "马龙独得2分",
       "onboard_time": 1742448082,
       "rank": 44,
@@ -1171,14 +1275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131491,
-      "num": 374772,
-      "word": "春天的美好溢出屏幕了",
-      "onboard_time": 1742451920,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130540,
       "num": 130540,
       "word": "谢娜说在乘风轮岗几年了",
@@ -1201,6 +1297,22 @@
       "onboard_time": 1742429123,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127049,
+      "num": 316451,
+      "word": "马斯克财富净值缩水超1000亿美元",
+      "onboard_time": 1742452521,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 126430,
+      "num": 126430,
+      "word": "马龙说你是哪儿的记者",
+      "onboard_time": 1742455223,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 126290,
@@ -1283,6 +1395,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 116829,
+      "num": 154316,
+      "word": "王楚钦被队友称为大哥又偷偷笑了",
+      "onboard_time": 1742454023,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116585,
       "num": 116585,
       "word": "北京男团2比0湖南男团",
@@ -1305,6 +1425,14 @@
       "onboard_time": 1742432184,
       "rank": 24,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 114356,
+      "num": 114356,
+      "word": "王宝强新剧和秋雅演夫妻",
+      "onboard_time": 1742455223,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 113391,
@@ -1332,7 +1460,7 @@
     },
     {
       "raw_hot": 111022,
-      "num": 967163,
+      "num": 1042209,
       "word": "一键解锁贵州侗寨的出圈密码",
       "onboard_time": 1742398047,
       "rank": 17,
@@ -1401,6 +1529,14 @@
       "onboard_time": 1742382984,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102182,
+      "num": 304671,
+      "word": "家属称被校长侵害女生性格变化明显",
+      "onboard_time": 1742452762,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100145,
@@ -1595,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74168,
+      "num": 158884,
+      "word": "洛阳一湖底出现塌方",
+      "onboard_time": 1742454502,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71153,
       "num": 120827,
       "word": "吴倩人生镜头上新了",
@@ -1608,6 +1752,14 @@
       "word": "金秀贤方行为可能会引发更大的争议",
       "onboard_time": 1742397388,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69369,
+      "num": 336307,
+      "word": "蔡康永说人想轻松懒惰没那么丢脸",
+      "onboard_time": 1742453964,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -1779,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45733,
+      "num": 378731,
+      "word": "多部门调查商人举报检察员侵吞资产",
+      "onboard_time": 1742454622,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 45139,
       "num": 167058,
       "word": "孙杨说我敢想也敢做",
@@ -1827,28 +1987,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 41896,
-      "num": 316451,
-      "word": "马斯克财富净值缩水超1000亿美元",
-      "onboard_time": 1742452521,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 40993,
       "num": 53529,
       "word": "陈都灵眼神戏已经进化成这样了",
       "onboard_time": 1742391385,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40440,
-      "num": 325037,
-      "word": "商场女厕马桶为何频频变蹲坑",
-      "onboard_time": 1742452521,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39436,
@@ -1897,14 +2041,6 @@
       "onboard_time": 1742443462,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20425,
-      "num": 304671,
-      "word": "家属称被校长侵害女生性格变化明显",
-      "onboard_time": 1742452762,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20415,
