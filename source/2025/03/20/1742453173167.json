@@ -1,0 +1,410 @@
+{
+  "runTime": 1742453173167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1247015,
+        "num": 1247015,
+        "word": "黄油年糕",
+        "onboard_time": 1742450181,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1082725,
+        "num": 1082725,
+        "word": "李嘉诚",
+        "onboard_time": 1742445203,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19661,
+        "num": 845062,
+        "word": "一键解锁贵州侗寨的出圈密码",
+        "onboard_time": 1742398047,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1162620,
+        "num": 836237,
+        "word": "赵露思自己化的杂志妆容",
+        "onboard_time": 1742449041,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 818049,
+        "num": 818049,
+        "word": "HR看我工位笑了",
+        "onboard_time": 1742446463,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 602532,
+        "num": 602532,
+        "word": "华为发布会",
+        "onboard_time": 1742451203,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 501157,
+        "num": 501157,
+        "word": "谭卓给胡歌微信备注谁谁谁她爸",
+        "onboard_time": 1742450962,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393681,
+        "num": 393681,
+        "word": "考研调剂系统每次开放不得低于12小时",
+        "onboard_time": 1742448383,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 325450,
+        "num": 325450,
+        "word": "王宝强新剧扔烟头炸车这一下",
+        "onboard_time": 1742445324,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40440,
+        "num": 325037,
+        "word": "商场女厕马桶为何频频变蹲坑",
+        "onboard_time": 1742452521,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1462100,
+        "num": 324632,
+        "word": "央视网发白敬亭上春山",
+        "onboard_time": 1742448621,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1114394,
+        "num": 324284,
+        "word": "韩安冉家的保姆都出来发声了",
+        "onboard_time": 1742444182,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29558,
+        "num": 324049,
+        "word": "这周也喝酸奶了",
+        "onboard_time": 1742449041,
+        "rank": 12,
+        "category": "幽默,健康医疗"
+      },
+      {
+        "raw_hot": 323723,
+        "num": 323723,
+        "word": "湖北大学失联女生家属透露更多细节",
+        "onboard_time": 1742447662,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41896,
+        "num": 316451,
+        "word": "马斯克财富净值缩水超1000亿美元",
+        "onboard_time": 1742452521,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 356981,
+        "num": 316451,
+        "word": "金赛纶曾被男朋友用孩子威胁",
+        "onboard_time": 1742437761,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309776,
+        "num": 309776,
+        "word": "关晓彤造型师回应",
+        "onboard_time": 1742441542,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345917,
+        "num": 309680,
+        "word": "赵露思时尚先生三月刊封面",
+        "onboard_time": 1742442261,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20425,
+        "num": 304671,
+        "word": "家属称被校长侵害女生性格变化明显",
+        "onboard_time": 1742452762,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201336,
+        "num": 299732,
+        "word": "汪苏泷鸟巢上班",
+        "onboard_time": 1742452641,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 563670,
+        "num": 296634,
+        "word": "韩安冉 离婚",
+        "onboard_time": 1742395704,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 292366,
+        "num": 292366,
+        "word": "律师称千禾0酱油存主观误导嫌疑",
+        "onboard_time": 1742440462,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 256425,
+        "num": 256425,
+        "word": "体制内DeepSeek提示词",
+        "onboard_time": 1742448383,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108856,
+        "num": 254523,
+        "word": "马龙王楚钦看弟弟采访",
+        "onboard_time": 1742452521,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92333,
+        "num": 254018,
+        "word": "和春天有场约会",
+        "onboard_time": 1742450003,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 253619,
+        "num": 253619,
+        "word": "韩国爱豆练习生的现实",
+        "onboard_time": 1742448320,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205430,
+        "num": 205430,
+        "word": "关晓彤说我赶紧给它换了",
+        "onboard_time": 1742430863,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196431,
+        "num": 196431,
+        "word": "阚清子说30岁后才找到真爱",
+        "onboard_time": 1742444242,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193546,
+        "num": 193546,
+        "word": "金秀贤开始所谓的反击",
+        "onboard_time": 1742446163,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187440,
+        "num": 187440,
+        "word": "王一博记录巴黎一些moment",
+        "onboard_time": 1742451501,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187400,
+        "num": 187400,
+        "word": "14岁儿子意外枪杀6岁女儿",
+        "onboard_time": 1742429603,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179059,
+        "num": 179059,
+        "word": "张若昀唐艺昕不认可不能离婚的规定",
+        "onboard_time": 1742438241,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176881,
+        "num": 176881,
+        "word": "千禾0商标被指误导消费者零添加",
+        "onboard_time": 1742442082,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 169580,
+        "num": 169580,
+        "word": "祖玛珑与金秀贤解约",
+        "onboard_time": 1742445745,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169411,
+        "num": 169411,
+        "word": "加沙8岁女孩逃难中几乎掉光头发",
+        "onboard_time": 1742434642,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149402,
+        "num": 149402,
+        "word": "钟楚曦气血很足的美",
+        "onboard_time": 1742451261,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144259,
+        "num": 144259,
+        "word": "海陆发了李晟崩溃直拍",
+        "onboard_time": 1742428101,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135751,
+        "num": 135751,
+        "word": "黄金",
+        "onboard_time": 1742441542,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131491,
+        "num": 131491,
+        "word": "春天的美好溢出屏幕了",
+        "onboard_time": 1742451920,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130762,
+        "num": 130762,
+        "word": "多方回应中介进他人别墅施工区摔亡",
+        "onboard_time": 1742448563,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107342,
+        "num": 128047,
+        "word": "唐嫣方否认念无双空降",
+        "onboard_time": 1742451802,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126418,
+        "num": 126418,
+        "word": "零添加酱油12款检出镉7款检出总砷",
+        "onboard_time": 1742438962,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 123057,
+        "num": 123057,
+        "word": "何炅做侦探没必要太合群",
+        "onboard_time": 1742450421,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464788,
+        "num": 121123,
+        "word": "特朗普展示办公桌上的可乐按钮",
+        "onboard_time": 1742446284,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117703,
+        "num": 117703,
+        "word": "小学校长性侵多名学生案二审开庭",
+        "onboard_time": 1742444603,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116666,
+        "num": 116666,
+        "word": "90后店员给落单女童当起了临时父母",
+        "onboard_time": 1742450243,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115296,
+        "num": 115296,
+        "word": "DeepSeek",
+        "onboard_time": 1742451561,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112979,
+        "num": 112979,
+        "word": "收到骗子一部新手机后被警方劝醒",
+        "onboard_time": 1742452941,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108484,
+        "num": 108484,
+        "word": "蒋敦豪发文祝晴天生日快乐",
+        "onboard_time": 1742448202,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105390,
+        "num": 105390,
+        "word": "春分的分是啥意思",
+        "onboard_time": 1742434342,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在云南丽江考察调研#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742452391897,
+  "endTime": 1742453173167,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2859,6 +2859,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1247015,
+      "num": 1247015,
+      "word": "黄油年糕",
+      "onboard_time": 1742450181,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1244889,
       "num": 1922942,
       "word": "1斤虾仁7两冰",
@@ -3307,6 +3315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1162620,
+      "num": 962270,
+      "word": "赵露思自己化的杂志妆容",
+      "onboard_time": 1742449041,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1162136,
       "num": 601541,
       "word": "赵露思直播",
@@ -3641,14 +3657,6 @@
       "onboard_time": 1741581683,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1109260,
-      "num": 962270,
-      "word": "赵露思自己化的杂志妆容",
-      "onboard_time": 1742449041,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1108180,
@@ -4585,14 +4593,6 @@
       "onboard_time": 1741240698,
       "rank": 7,
       "category": "国内时政,教育"
-    },
-    {
-      "raw_hot": 956469,
-      "num": 956469,
-      "word": "黄油年糕",
-      "onboard_time": 1742450181,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 956104,
@@ -8651,6 +8651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 602532,
+      "num": 602532,
+      "word": "华为发布会",
+      "onboard_time": 1742451203,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 601545,
       "num": 1089040,
       "word": "十万一针抗癌药制备成本仅3000元",
@@ -10505,6 +10513,14 @@
       "onboard_time": 1741692924,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 501157,
+      "num": 501157,
+      "word": "谭卓给胡歌微信备注谁谁谁她爸",
+      "onboard_time": 1742450962,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 501078,
@@ -13371,6 +13387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393681,
+      "num": 393681,
+      "word": "考研调剂系统每次开放不得低于12小时",
+      "onboard_time": 1742448383,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 392673,
       "num": 392673,
       "word": "于适起诉disco雨索赔20万",
@@ -14129,14 +14153,6 @@
       "onboard_time": 1741593080,
       "rank": 16,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 370133,
-      "num": 370133,
-      "word": "考研调剂系统每次开放不得低于12小时",
-      "onboard_time": 1742448383,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 370084,
@@ -15169,6 +15185,14 @@
       "onboard_time": 1742204843,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 345917,
+      "num": 309680,
+      "word": "赵露思时尚先生三月刊封面",
+      "onboard_time": 1742442261,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 345758,
@@ -19179,14 +19203,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 264530,
-      "num": 264530,
-      "word": "华为发布会",
-      "onboard_time": 1742451203,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
       "raw_hot": 264474,
       "num": 264474,
       "word": "网传赵丽颖新剧三位男主",
@@ -19771,6 +19787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256425,
+      "num": 256425,
+      "word": "体制内DeepSeek提示词",
+      "onboard_time": 1742448383,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 256415,
       "num": 256415,
       "word": "丁禹兮问祝绪丹为什么不唱消散对白",
@@ -19953,6 +19977,14 @@
       "onboard_time": 1742263283,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253619,
+      "num": 253619,
+      "word": "韩国爱豆练习生的现实",
+      "onboard_time": 1742448320,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 253528,
@@ -20745,14 +20777,6 @@
       "onboard_time": 1741088060,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242349,
-      "num": 242349,
-      "word": "谭卓给胡歌微信备注谁谁谁她爸",
-      "onboard_time": 1742450962,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 242318,
@@ -23555,14 +23579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213545,
-      "num": 213545,
-      "word": "体制内DeepSeek提示词",
-      "onboard_time": 1742448383,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 213373,
       "num": 213373,
       "word": "闵熙珍最新ins头像",
@@ -23985,14 +24001,6 @@
       "onboard_time": 1741962563,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 209647,
-      "num": 209647,
-      "word": "韩国爱豆练习生的现实",
-      "onboard_time": 1742448320,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 209529,
@@ -25435,6 +25443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201336,
+      "num": 299732,
+      "word": "汪苏泷鸟巢上班",
+      "onboard_time": 1742452641,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201301,
       "num": 201301,
       "word": "樊振东被推荐为2025全国劳模",
@@ -26513,14 +26529,6 @@
       "onboard_time": 1741023373,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 195824,
-      "num": 195824,
-      "word": "赵露思时尚先生三月刊封面",
-      "onboard_time": 1742442261,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195778,
@@ -28233,6 +28241,14 @@
       "onboard_time": 1741941264,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187440,
+      "num": 187440,
+      "word": "王一博记录巴黎一些moment",
+      "onboard_time": 1742451501,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 187400,
@@ -33545,14 +33561,6 @@
       "onboard_time": 1741697484,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159423,
-      "num": 159423,
-      "word": "王一博记录巴黎一些moment",
-      "onboard_time": 1742451501,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 159411,
@@ -40155,6 +40163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131491,
+      "num": 374772,
+      "word": "春天的美好溢出屏幕了",
+      "onboard_time": 1742451920,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131460,
       "num": 441463,
       "word": "俄罗斯一架直升机坠毁",
@@ -44691,6 +44707,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 112979,
+      "num": 112979,
+      "word": "收到骗子一部新手机后被警方劝醒",
+      "onboard_time": 1742452941,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112935,
       "num": 112935,
       "word": "夹菜是张凌赫临场发挥的",
@@ -45683,6 +45707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108856,
+      "num": 254523,
+      "word": "马龙王楚钦看弟弟采访",
+      "onboard_time": 1742452521,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108844,
       "num": 108844,
       "word": "GW对战Wolves",
@@ -46404,7 +46436,7 @@
     },
     {
       "raw_hot": 105944,
-      "num": 209742,
+      "num": 254018,
       "word": "和春天有场约会",
       "onboard_time": 1742450003,
       "rank": 26,
@@ -47881,14 +47913,6 @@
       "onboard_time": 1741425621,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 99362,
-      "num": 374772,
-      "word": "春天的美好溢出屏幕了",
-      "onboard_time": 1742451920,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99327,
@@ -56915,6 +56939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41896,
+      "num": 316451,
+      "word": "马斯克财富净值缩水超1000亿美元",
+      "onboard_time": 1742452521,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 41861,
       "num": 260240,
       "word": "教培机构退费为何这么难",
@@ -57289,6 +57321,14 @@
       "onboard_time": 1742388082,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 40440,
+      "num": 325037,
+      "word": "商场女厕马桶为何频频变蹲坑",
+      "onboard_time": 1742452521,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40412,
@@ -61337,6 +61377,14 @@
       "onboard_time": 1741801995,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20425,
+      "num": 304671,
+      "word": "家属称被校长侵害女生性格变化明显",
+      "onboard_time": 1742452762,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20415,
