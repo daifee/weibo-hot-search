@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742439616910,
+  "endTime": 1742440174339,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -916,7 +916,7 @@
     },
     {
       "raw_hot": 1184290,
-      "num": 565649,
+      "num": 594893,
       "word": "关晓彤说我赶紧给它换了",
       "onboard_time": 1742430863,
       "rank": 3,
@@ -1289,6 +1289,14 @@
       "onboard_time": 1742365944,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 974663,
+      "num": 241416,
+      "word": "金赛纶曾被男朋友用孩子威胁",
+      "onboard_time": 1742437761,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 972168,
@@ -1947,6 +1955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 723055,
+      "num": 723055,
+      "word": "双轨",
+      "onboard_time": 1742437820,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 720884,
       "num": 368493,
       "word": "北京环球影城",
@@ -2009,14 +2025,6 @@
       "onboard_time": 1742178441,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 713845,
-      "num": 241416,
-      "word": "金赛纶曾被男朋友用孩子威胁",
-      "onboard_time": 1742437761,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 706058,
@@ -2185,14 +2193,6 @@
       "onboard_time": 1742385384,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 644583,
-      "num": 644583,
-      "word": "双轨",
-      "onboard_time": 1742437820,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 641599,
@@ -2851,6 +2851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 499880,
+      "num": 232977,
+      "word": "韩安冉曝小猪妹录音",
+      "onboard_time": 1742439564,
+      "rank": 13,
+      "category": "艺人,网红"
+    },
+    {
       "raw_hot": 498743,
       "num": 498743,
       "word": "iPhone17系列模型机曝光",
@@ -2987,6 +2995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473683,
+      "num": 219912,
+      "word": "张若昀唐艺昕不认可不能离婚的规定",
+      "onboard_time": 1742438241,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472009,
       "num": 299056,
       "word": "00后上班正打破精致羞耻症",
@@ -3073,6 +3089,14 @@
       "onboard_time": 1742400742,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459800,
+      "num": 459800,
+      "word": "央视依然不转播国足对沙特比赛",
+      "onboard_time": 1742434521,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 458962,
@@ -3283,12 +3307,12 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 425827,
-      "num": 232977,
-      "word": "韩安冉曝小猪妹录音",
-      "onboard_time": 1742439564,
-      "rank": 13,
-      "category": "艺人,网红"
+      "raw_hot": 424064,
+      "num": 424064,
+      "word": "李宇春回复白鹿",
+      "onboard_time": 1742434821,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 424023,
@@ -3377,14 +3401,6 @@
       "onboard_time": 1742180962,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 411140,
-      "num": 411140,
-      "word": "央视依然不转播国足对沙特比赛",
-      "onboard_time": 1742434521,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 411114,
@@ -3675,14 +3691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 367438,
-      "num": 367438,
-      "word": "李宇春回复白鹿",
-      "onboard_time": 1742434821,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 366970,
       "num": 296665,
       "word": "真菌棺材 死后化身一棵树",
@@ -3737,14 +3745,6 @@
       "onboard_time": 1742106742,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 358772,
-      "num": 219912,
-      "word": "张若昀唐艺昕不认可不能离婚的规定",
-      "onboard_time": 1742438241,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 358342,
@@ -4233,6 +4233,14 @@
       "onboard_time": 1742303123,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297969,
+      "num": 297969,
+      "word": "马龙王楚钦3比0朱毅谢聪凡",
+      "onboard_time": 1742438241,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 296664,
@@ -5699,14 +5707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219721,
-      "num": 219721,
-      "word": "马龙王楚钦3比0朱毅谢聪凡",
-      "onboard_time": 1742438241,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 219692,
       "num": 312328,
       "word": "女子用餐厅餐具喂宠物",
@@ -6299,6 +6299,14 @@
       "category": "舆论监督,网红"
     },
     {
+      "raw_hot": 202068,
+      "num": 220323,
+      "word": "张婧仪独一无二定档五一",
+      "onboard_time": 1742439021,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201992,
       "num": 201992,
       "word": "林诗栋男单亚军",
@@ -6721,14 +6729,6 @@
       "onboard_time": 1742367683,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193861,
-      "num": 220323,
-      "word": "张婧仪独一无二定档五一",
-      "onboard_time": 1742439021,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 193846,
@@ -8595,6 +8595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152747,
+      "num": 152747,
+      "word": "婚姻里女性要承担多少隐形家务",
+      "onboard_time": 1742438362,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152664,
       "num": 152664,
       "word": "傅云夕有孩子",
@@ -9328,6 +9336,14 @@
       "word": "檀健次蒋梦婕北舞严选",
       "onboard_time": 1742366843,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140471,
+      "num": 140471,
+      "word": "李晟说上浪姐不怕被蛐蛐",
+      "onboard_time": 1742439500,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -10891,14 +10907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106578,
-      "num": 106578,
-      "word": "婚姻里女性要承担多少隐形家务",
-      "onboard_time": 1742438362,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 106461,
       "num": 106461,
       "word": "在便利店碰到陈哲远了",
@@ -11003,6 +11011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102823,
+      "num": 102823,
+      "word": "多方回应湖北大学女生失联数天",
+      "onboard_time": 1742437642,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102061,
       "num": 324192,
       "word": "林诗栋展望决赛对阵王楚钦",
@@ -11075,6 +11091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100145,
+      "num": 100145,
+      "word": "关晓彤冲浪速度好快",
+      "onboard_time": 1742439564,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100133,
       "num": 325618,
       "word": "极氪发布满血版车位到车位",
@@ -11107,20 +11131,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 99453,
+      "num": 99453,
+      "word": "湖北大学失联女大学生家属发声",
+      "onboard_time": 1742439021,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99327,
       "num": 223363,
       "word": "辛芷蕾职场感还是太权威了",
       "onboard_time": 1742200103,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99171,
-      "num": 99171,
-      "word": "多方回应湖北大学女生失联数天",
-      "onboard_time": 1742437642,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98722,
@@ -11225,14 +11249,6 @@
       "onboard_time": 1742222785,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 97013,
-      "num": 97013,
-      "word": "湖北大学失联女大学生家属发声",
-      "onboard_time": 1742439021,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96786,
@@ -11529,14 +11545,6 @@
       "onboard_time": 1742309063,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89742,
-      "num": 89742,
-      "word": "李晟说上浪姐不怕被蛐蛐",
-      "onboard_time": 1742439500,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 88903,
@@ -11867,14 +11875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78248,
-      "num": 78248,
-      "word": "关晓彤冲浪速度好快",
-      "onboard_time": 1742439564,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 78067,
       "num": 674733,
       "word": "外交部回应美商务部禁用DeepSeek",
@@ -11897,6 +11897,14 @@
       "onboard_time": 1742393967,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77386,
+      "num": 77386,
+      "word": "谢娜乘风发布人惊喜亮相",
+      "onboard_time": 1742439921,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 77152,
@@ -13203,6 +13211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 36782,
+      "num": 221050,
+      "word": "美计划对所有经济体征收对等关税",
+      "onboard_time": 1742439202,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36719,
       "num": 389210,
       "word": "南京图书馆回应数字资源遭盗版贩卖",
@@ -13632,6 +13648,14 @@
       "word": "浪莎一次性内裤",
       "onboard_time": 1742068515,
       "rank": 46,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 28389,
+      "num": 171431,
+      "word": "揭秘仓播高补贴高奢品套路",
+      "onboard_time": 1742439862,
+      "rank": 24,
       "category": "舆论监督"
     },
     {
@@ -14097,14 +14121,6 @@
       "onboard_time": 1742149995,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18586,
-      "num": 221050,
-      "word": "美计划对所有经济体征收对等关税",
-      "onboard_time": 1742439202,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18017,

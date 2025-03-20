@@ -1,0 +1,410 @@
+{
+  "runTime": 1742440174339,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 864445,
+        "num": 1138311,
+        "word": "加沙8岁女孩逃难中几乎掉光头发",
+        "onboard_time": 1742434642,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 723055,
+        "num": 723055,
+        "word": "双轨",
+        "onboard_time": 1742437820,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37124,
+        "num": 601652,
+        "word": "这里是多彩贵州",
+        "onboard_time": 1742393486,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 800698,
+        "num": 594893,
+        "word": "关晓彤说我赶紧给它换了",
+        "onboard_time": 1742430863,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 502979,
+        "num": 502979,
+        "word": "张雪峰公司每月放1次3天小长假",
+        "onboard_time": 1742433861,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 459800,
+        "num": 459800,
+        "word": "央视依然不转播国足对沙特比赛",
+        "onboard_time": 1742434521,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424064,
+        "num": 424064,
+        "word": "李宇春回复白鹿",
+        "onboard_time": 1742434821,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309097,
+        "num": 309097,
+        "word": "春分的分是啥意思",
+        "onboard_time": 1742434342,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297969,
+        "num": 297969,
+        "word": "马龙王楚钦3比0朱毅谢聪凡",
+        "onboard_time": 1742438241,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221227,
+        "num": 221227,
+        "word": "王楚钦马龙vs朱毅谢聪凡",
+        "onboard_time": 1742436442,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 974663,
+        "num": 219297,
+        "word": "金赛纶曾被男朋友用孩子威胁",
+        "onboard_time": 1742437761,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585547,
+        "num": 215558,
+        "word": "冯琳念错李昀锐名字",
+        "onboard_time": 1742435961,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543462,
+        "num": 212496,
+        "word": "小学生因直呼老师姓名被打脸9下",
+        "onboard_time": 1742435422,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499880,
+        "num": 209872,
+        "word": "韩安冉曝小猪妹录音",
+        "onboard_time": 1742439564,
+        "rank": 13,
+        "category": "艺人,网红"
+      },
+      {
+        "raw_hot": 404813,
+        "num": 207017,
+        "word": "14岁儿子意外枪杀6岁女儿",
+        "onboard_time": 1742429603,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309717,
+        "num": 202636,
+        "word": "赵露思又一条百万赞ins",
+        "onboard_time": 1742432424,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202068,
+        "num": 202068,
+        "word": "张婧仪独一无二定档五一",
+        "onboard_time": 1742439021,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197867,
+        "num": 197867,
+        "word": "医生建议半夜醒超半小时没入睡就起床",
+        "onboard_time": 1742427681,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188542,
+        "num": 188542,
+        "word": "迪丽热巴侧边丸子头",
+        "onboard_time": 1742433621,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36782,
+        "num": 187474,
+        "word": "美计划对所有经济体征收对等关税",
+        "onboard_time": 1742439202,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1503394,
+        "num": 186293,
+        "word": "韩安冉 离婚",
+        "onboard_time": 1742395704,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 473683,
+        "num": 185535,
+        "word": "张若昀唐艺昕不认可不能离婚的规定",
+        "onboard_time": 1742438241,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439296,
+        "num": 183899,
+        "word": "海陆发了李晟崩溃直拍",
+        "onboard_time": 1742428101,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182867,
+        "num": 182867,
+        "word": "刘亦菲的男主们送来获奖祝福",
+        "onboard_time": 1742432483,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28389,
+        "num": 171431,
+        "word": "揭秘仓播高补贴高奢品套路",
+        "onboard_time": 1742439862,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 165180,
+        "num": 165180,
+        "word": "浪姐提名叶童最有反差感姐姐",
+        "onboard_time": 1742431043,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156926,
+        "num": 156926,
+        "word": "邓为 将门毒后",
+        "onboard_time": 1742399424,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152747,
+        "num": 152747,
+        "word": "婚姻里女性要承担多少隐形家务",
+        "onboard_time": 1742438362,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151958,
+        "num": 151958,
+        "word": "女子出差险遭强奸又被公司劝离职",
+        "onboard_time": 1742393124,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143359,
+        "num": 143359,
+        "word": "赵丽颖簪花照出现在虞书欣新剧",
+        "onboard_time": 1742430204,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141406,
+        "num": 141406,
+        "word": "春分",
+        "onboard_time": 1742427681,
+        "rank": 30,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 140471,
+        "num": 140471,
+        "word": "李晟说上浪姐不怕被蛐蛐",
+        "onboard_time": 1742439500,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138359,
+        "num": 138359,
+        "word": "魏晨中译中的神",
+        "onboard_time": 1742437521,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138351,
+        "num": 138351,
+        "word": "微信与QQ月活账户相差超8亿",
+        "onboard_time": 1742428702,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134204,
+        "num": 134204,
+        "word": "唐艺昕辟谣在爱尔兰结婚的原因",
+        "onboard_time": 1742427681,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107634,
+        "num": 107634,
+        "word": "林峯老婆换保姆要查行李箱惹争议",
+        "onboard_time": 1742400742,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106307,
+        "num": 106307,
+        "word": "金秀贤 重要资料",
+        "onboard_time": 1742395225,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105209,
+        "num": 105209,
+        "word": "谢娜说在乘风轮岗几年了",
+        "onboard_time": 1742435540,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102823,
+        "num": 102823,
+        "word": "多方回应湖北大学女生失联数天",
+        "onboard_time": 1742437642,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100145,
+        "num": 100145,
+        "word": "关晓彤冲浪速度好快",
+        "onboard_time": 1742439564,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100017,
+        "num": 100017,
+        "word": "春天的快乐就是处处生花",
+        "onboard_time": 1742439021,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99943,
+        "num": 99943,
+        "word": "花花吃竹子突然表演后空翻",
+        "onboard_time": 1742435843,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99453,
+        "num": 99453,
+        "word": "湖北大学失联女大学生家属发声",
+        "onboard_time": 1742439021,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95024,
+        "num": 95024,
+        "word": "47岁倪虹洁没有跟女生住过一间房",
+        "onboard_time": 1742428341,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91168,
+        "num": 91168,
+        "word": "国足目前出线概率",
+        "onboard_time": 1742434162,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88395,
+        "num": 88395,
+        "word": "许家印前妻丁玉梅两项申请被拒",
+        "onboard_time": 1742428582,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86501,
+        "num": 86501,
+        "word": "吴彦姝看刘亦菲砸东西的戏很震撼",
+        "onboard_time": 1742435781,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82091,
+        "num": 82091,
+        "word": "韵达将进行内部调查",
+        "onboard_time": 1742433144,
+        "rank": 47,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 77386,
+        "num": 77386,
+        "word": "谢娜乘风发布人惊喜亮相",
+        "onboard_time": 1742439921,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76338,
+        "num": 76338,
+        "word": "零添加酱油12款检出镉7款检出总砷",
+        "onboard_time": 1742438962,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为贵州新风采指明方向#"
+    }
+  }
+}

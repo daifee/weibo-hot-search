@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742439616910,
+  "endTime": 1742440174339,
   "band_list": [
     {
       "raw_hot": 5372498,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1184290,
-      "num": 565649,
+      "num": 594893,
       "word": "关晓彤说我赶紧给它换了",
       "onboard_time": 1742430863,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 974663,
+      "num": 241416,
+      "word": "金赛纶曾被男朋友用孩子威胁",
+      "onboard_time": 1742437761,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 934116,
@@ -51,12 +59,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 713845,
-      "num": 241416,
-      "word": "金赛纶曾被男朋友用孩子威胁",
-      "onboard_time": 1742437761,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 723055,
+      "num": 723055,
+      "word": "双轨",
+      "onboard_time": 1742437820,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 702866,
@@ -81,14 +89,6 @@
       "onboard_time": 1742391326,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 644583,
-      "num": 644583,
-      "word": "双轨",
-      "onboard_time": 1742437820,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 640130,
@@ -139,6 +139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 499880,
+      "num": 232977,
+      "word": "韩安冉曝小猪妹录音",
+      "onboard_time": 1742439564,
+      "rank": 13,
+      "category": "艺人,网红"
+    },
+    {
       "raw_hot": 493884,
       "num": 493884,
       "word": "韵达",
@@ -153,6 +161,14 @@
       "onboard_time": 1742380583,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 473683,
+      "num": 219912,
+      "word": "张若昀唐艺昕不认可不能离婚的规定",
+      "onboard_time": 1742438241,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 463457,
@@ -171,12 +187,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 425827,
-      "num": 232977,
-      "word": "韩安冉曝小猪妹录音",
-      "onboard_time": 1742439564,
-      "rank": 13,
-      "category": "艺人,网红"
+      "raw_hot": 459800,
+      "num": 459800,
+      "word": "央视依然不转播国足对沙特比赛",
+      "onboard_time": 1742434521,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 424064,
+      "num": 424064,
+      "word": "李宇春回复白鹿",
+      "onboard_time": 1742434821,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 419470,
@@ -195,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 411140,
-      "num": 411140,
-      "word": "央视依然不转播国足对沙特比赛",
-      "onboard_time": 1742434521,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 405373,
       "num": 405373,
       "word": "樊振东张本智和合影",
@@ -219,28 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 367438,
-      "num": 367438,
-      "word": "李宇春回复白鹿",
-      "onboard_time": 1742434821,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 366955,
       "num": 296624,
       "word": "杨天真瘦到了124斤",
       "onboard_time": 1742384723,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 358772,
-      "num": 219912,
-      "word": "张若昀唐艺昕不认可不能离婚的规定",
-      "onboard_time": 1742438241,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 338011,
@@ -289,6 +289,14 @@
       "onboard_time": 1742390125,
       "rank": 5,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 297969,
+      "num": 297969,
+      "word": "马龙王楚钦3比0朱毅谢聪凡",
+      "onboard_time": 1742438241,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 295732,
@@ -363,14 +371,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219721,
-      "num": 219721,
-      "word": "马龙王楚钦3比0朱毅谢聪凡",
-      "onboard_time": 1742438241,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 214337,
       "num": 219274,
       "word": "金赛纶曾秒删结婚ins",
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202068,
+      "num": 220323,
+      "word": "张婧仪独一无二定档五一",
+      "onboard_time": 1742439021,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200261,
       "num": 200261,
       "word": "浪姐提名叶童最有反差感姐姐",
@@ -401,14 +409,6 @@
       "onboard_time": 1742398885,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193861,
-      "num": 220323,
-      "word": "张婧仪独一无二定档五一",
-      "onboard_time": 1742439021,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 192821,
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152747,
+      "num": 152747,
+      "word": "婚姻里女性要承担多少隐形家务",
+      "onboard_time": 1742438362,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151389,
       "num": 151389,
       "word": "LPR",
@@ -521,6 +529,14 @@
       "onboard_time": 1742399363,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140471,
+      "num": 140471,
+      "word": "李晟说上浪姐不怕被蛐蛐",
+      "onboard_time": 1742439500,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 135921,
@@ -627,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106578,
-      "num": 106578,
-      "word": "婚姻里女性要承担多少隐形家务",
-      "onboard_time": 1742438362,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 106203,
       "num": 106203,
       "word": "TTG小雪连接成功",
@@ -651,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102823,
+      "num": 102823,
+      "word": "多方回应湖北大学女生失联数天",
+      "onboard_time": 1742437642,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102559,
       "num": 212292,
       "word": "章若楠第二套",
@@ -659,11 +675,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99171,
-      "num": 99171,
-      "word": "多方回应湖北大学女生失联数天",
-      "onboard_time": 1742437642,
-      "rank": 42,
+      "raw_hot": 100145,
+      "num": 100145,
+      "word": "关晓彤冲浪速度好快",
+      "onboard_time": 1742439564,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99453,
+      "num": 99453,
+      "word": "湖北大学失联女大学生家属发声",
+      "onboard_time": 1742439021,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -689,14 +713,6 @@
       "onboard_time": 1742398825,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 97013,
-      "num": 97013,
-      "word": "湖北大学失联女大学生家属发声",
-      "onboard_time": 1742439021,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95956,
@@ -753,14 +769,6 @@
       "onboard_time": 1742393967,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89742,
-      "num": 89742,
-      "word": "李晟说上浪姐不怕被蛐蛐",
-      "onboard_time": 1742439500,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 89333,
@@ -835,12 +843,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 78248,
-      "num": 78248,
-      "word": "关晓彤冲浪速度好快",
-      "onboard_time": 1742439564,
+      "raw_hot": 77386,
+      "num": 77386,
+      "word": "谢娜乘风发布人惊喜亮相",
+      "onboard_time": 1742439921,
       "rank": 48,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 77375,
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 44272,
-      "num": 566449,
+      "num": 601652,
       "word": "这里是多彩贵州",
       "onboard_time": 1742393486,
       "rank": 2,
@@ -1011,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36782,
+      "num": 221050,
+      "word": "美计划对所有经济体征收对等关税",
+      "onboard_time": 1742439202,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36653,
       "num": 88350,
       "word": "电影热烈官宣4月3日重映",
@@ -1035,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28389,
+      "num": 171431,
+      "word": "揭秘仓播高补贴高奢品套路",
+      "onboard_time": 1742439862,
+      "rank": 24,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 20415,
       "num": 39092,
       "word": "檀健次别让外界的风幡框定自己",
@@ -1049,14 +1073,6 @@
       "onboard_time": 1742400082,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18586,
-      "num": 221050,
-      "word": "美计划对所有经济体征收对等关税",
-      "onboard_time": 1742439202,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17758,
