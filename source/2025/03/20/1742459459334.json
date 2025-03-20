@@ -1,0 +1,410 @@
+{
+  "runTime": 1742459459334,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1303721,
+        "num": 1303721,
+        "word": "华为PuraX",
+        "onboard_time": 1742453481,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 821507,
+        "num": 821507,
+        "word": "黄油年糕",
+        "onboard_time": 1742450181,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 14080,
+        "num": 618633,
+        "word": "一键解锁贵州侗寨的出圈密码",
+        "onboard_time": 1742398047,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448087,
+        "num": 448087,
+        "word": "华为 阔折叠",
+        "onboard_time": 1742454083,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 434333,
+        "num": 434333,
+        "word": "华为发布会",
+        "onboard_time": 1742451203,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 376141,
+        "num": 423959,
+        "word": "湖北大学失联女生衣服被环卫工捡走",
+        "onboard_time": 1742455522,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423894,
+        "num": 423894,
+        "word": "华为PuraX价格",
+        "onboard_time": 1742457563,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 400728,
+        "num": 400728,
+        "word": "陈都灵完全是妈咪级别的",
+        "onboard_time": 1742455701,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347064,
+        "num": 347064,
+        "word": "商场女厕马桶为何频频变蹲坑",
+        "onboard_time": 1742452521,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224904,
+        "num": 345346,
+        "word": "周也的耳环比耳朵都大",
+        "onboard_time": 1742454683,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6734822,
+        "num": 6734822,
+        "word": "赵露思取关",
+        "onboard_time": 1742455462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631069,
+        "num": 342709,
+        "word": "韩安冉家的保姆都出来发声了",
+        "onboard_time": 1742444182,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 574262,
+        "num": 340168,
+        "word": "央视网发白敬亭上春山",
+        "onboard_time": 1742448621,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410316,
+        "num": 339918,
+        "word": "曝山西一高校女生校内产子",
+        "onboard_time": 1742457623,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380878,
+        "num": 337416,
+        "word": "金秀贤台湾见面会参加者需年满18岁",
+        "onboard_time": 1742453361,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213954,
+        "num": 335147,
+        "word": "铁打的虞书欣流水的虞夫",
+        "onboard_time": 1742456123,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181674,
+        "num": 333083,
+        "word": "郑合惠子好有生命力的美",
+        "onboard_time": 1742458224,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165101,
+        "num": 332653,
+        "word": "李嘉诚",
+        "onboard_time": 1742445203,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331090,
+        "num": 331090,
+        "word": "赵露思时尚先生三月刊封面",
+        "onboard_time": 1742442261,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 58203,
+        "num": 316566,
+        "word": "秋田满满回应儿童面粉被曝有老鼠",
+        "onboard_time": 1742458282,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309336,
+        "num": 309336,
+        "word": "韩安冉 离婚",
+        "onboard_time": 1742395704,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120385,
+        "num": 273967,
+        "word": "特朗普将签署行政令关闭美国教育部",
+        "onboard_time": 1742457981,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67738,
+        "num": 253309,
+        "word": "藏东西环节云来把智商展现得淋漓尽致",
+        "onboard_time": 1742458942,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246665,
+        "num": 246665,
+        "word": "时代峰峻SM乐华合体",
+        "onboard_time": 1742457683,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163105,
+        "num": 222018,
+        "word": "别人饭撒沈腾马丽撒饭",
+        "onboard_time": 1742455042,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169898,
+        "num": 217505,
+        "word": "曾舜晞还缺朋友吗",
+        "onboard_time": 1742456422,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151579,
+        "num": 215817,
+        "word": "马龙说你是哪儿的记者",
+        "onboard_time": 1742455223,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215236,
+        "num": 215236,
+        "word": "宋妍霏字字不提爱字字都是爱",
+        "onboard_time": 1742456003,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34369,
+        "num": 211337,
+        "word": "华为PuraX首发搭载全新AI小艺",
+        "onboard_time": 1742456543,
+        "rank": 28,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 22059,
+        "num": 210201,
+        "word": "华山医院前院长客死他乡系谣言",
+        "onboard_time": 1742458042,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 210155,
+        "num": 210155,
+        "word": "关晓彤造型师回应",
+        "onboard_time": 1742441542,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188655,
+        "num": 188655,
+        "word": "HR看我工位笑了",
+        "onboard_time": 1742446463,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36173,
+        "num": 188049,
+        "word": "中介擅自进他人别墅施工区坠亡",
+        "onboard_time": 1742458402,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82684,
+        "num": 187985,
+        "word": "全网都在等着熬夜看国足了",
+        "onboard_time": 1742458101,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146745,
+        "num": 187945,
+        "word": "王宝强时隔12年新剧播出",
+        "onboard_time": 1742457202,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187922,
+        "num": 187922,
+        "word": "华为 DeepSeek",
+        "onboard_time": 1742454803,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161002,
+        "num": 161002,
+        "word": "黑神话悟空没去领奖是因为在外团建",
+        "onboard_time": 1742456182,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145091,
+        "num": 145091,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1742458343,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136824,
+        "num": 136824,
+        "word": "考研调剂系统每次开放不得低于12小时",
+        "onboard_time": 1742448383,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124303,
+        "num": 124303,
+        "word": "金赛纶曾被男朋友用孩子威胁",
+        "onboard_time": 1742437761,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116216,
+        "num": 116216,
+        "word": "谢娜爱跟这群女人在一起",
+        "onboard_time": 1742457922,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76961,
+        "num": 114750,
+        "word": "交换一个春天",
+        "onboard_time": 1742451802,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114473,
+        "num": 114473,
+        "word": "王俊凯直播",
+        "onboard_time": 1742453782,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113882,
+        "num": 113882,
+        "word": "张若昀唐艺昕不认可不能离婚的规定",
+        "onboard_time": 1742438241,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106955,
+        "num": 106955,
+        "word": "洛阳一湖底出现塌方",
+        "onboard_time": 1742454502,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102649,
+        "num": 102649,
+        "word": "14岁儿子意外枪杀6岁女儿",
+        "onboard_time": 1742429603,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101818,
+        "num": 101818,
+        "word": "辛云来单手公主抱陈都灵",
+        "onboard_time": 1742459362,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101563,
+        "num": 101563,
+        "word": "华为PuraX 电子书",
+        "onboard_time": 1742454502,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98957,
+        "num": 98957,
+        "word": "何老师帮腔惊的吴昕叫妈",
+        "onboard_time": 1742456182,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53636,
+        "num": 97683,
+        "word": "假如生活难题都有导航",
+        "onboard_time": 1742459423,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在云南丽江考察调研#"
+    }
+  }
+}

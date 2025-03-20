@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742456160535,
+  "endTime": 1742459459334,
   "band_list": [
     {
       "raw_hot": 13516718,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 570930,
-      "num": 309680,
+      "num": 331090,
       "word": "赵露思时尚先生三月刊封面",
       "onboard_time": 1742442261,
       "rank": 27,
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423894,
+      "num": 423894,
+      "word": "华为PuraX价格",
+      "onboard_time": 1742457563,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 419470,
       "num": 1067115,
       "word": "许家印前妻丁玉梅两项申请被拒",
@@ -400,6 +408,14 @@
       "word": "被拔错牙女子坠楼前哭诉谁来解救我",
       "onboard_time": 1742394625,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 410316,
+      "num": 339918,
+      "word": "曝山西一高校女生校内产子",
+      "onboard_time": 1742457623,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 400728,
+      "num": 400728,
+      "word": "陈都灵完全是妈咪级别的",
+      "onboard_time": 1742455701,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393681,
       "num": 393681,
       "word": "考研调剂系统每次开放不得低于12小时",
@@ -433,6 +457,14 @@
       "onboard_time": 1742445745,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376141,
+      "num": 423959,
+      "word": "湖北大学失联女生衣服被环卫工捡走",
+      "onboard_time": 1742455522,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 376137,
@@ -603,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246665,
+      "num": 246665,
+      "word": "时代峰峻SM乐华合体",
+      "onboard_time": 1742457683,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241800,
       "num": 301654,
       "word": "徐明浩这太有生活了",
@@ -633,6 +673,14 @@
       "onboard_time": 1742440403,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224904,
+      "num": 345346,
+      "word": "周也的耳环比耳朵都大",
+      "onboard_time": 1742454683,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 223442,
@@ -683,6 +731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 215236,
+      "num": 215236,
+      "word": "宋妍霏字字不提爱字字都是爱",
+      "onboard_time": 1742456003,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214461,
       "num": 214461,
       "word": "零添加酱油12款检出镉7款检出总砷",
@@ -707,20 +763,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213954,
+      "num": 335147,
+      "word": "铁打的虞书欣流水的虞夫",
+      "onboard_time": 1742456123,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212686,
       "num": 297938,
       "word": "女子疑因被拔错牙后坠楼身亡",
       "onboard_time": 1742374762,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207875,
-      "num": 270955,
-      "word": "陈都灵完全是妈咪级别的",
-      "onboard_time": 1742455701,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 206388,
@@ -827,14 +883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193899,
-      "num": 246523,
-      "word": "周也的耳环比耳朵都大",
-      "onboard_time": 1742454683,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193604,
       "num": 193604,
       "word": "钟楚曦气血很足的美",
@@ -923,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181674,
+      "num": 333083,
+      "word": "郑合惠子好有生命力的美",
+      "onboard_time": 1742458224,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177572,
       "num": 177572,
       "word": "谁去把王耀庆的插头拔了",
@@ -960,6 +1016,14 @@
       "word": "Sia离婚",
       "onboard_time": 1742447423,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169898,
+      "num": 217505,
+      "word": "曾舜晞还缺朋友吗",
+      "onboard_time": 1742456422,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -1035,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161002,
+      "num": 161002,
+      "word": "黑神话悟空没去领奖是因为在外团建",
+      "onboard_time": 1742456182,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159796,
       "num": 158376,
       "word": "京东称缴社保外卖骑手人数已过万",
@@ -1107,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151579,
+      "num": 215817,
+      "word": "马龙说你是哪儿的记者",
+      "onboard_time": 1742455223,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151456,
       "num": 173129,
       "word": "李昀锐内场帮孟子义提裙摆",
@@ -1121,14 +1201,6 @@
       "onboard_time": 1742433380,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 151010,
-      "num": 137836,
-      "word": "马龙说你是哪儿的记者",
-      "onboard_time": 1742455223,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 149380,
@@ -1147,12 +1219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146694,
-      "num": 233153,
-      "word": "湖北大学失联女生衣服被环卫工捡走",
-      "onboard_time": 1742455522,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 146745,
+      "num": 187945,
+      "word": "王宝强时隔12年新剧播出",
+      "onboard_time": 1742457202,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 145844,
@@ -1169,6 +1241,14 @@
       "onboard_time": 1742451920,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145091,
+      "num": 145091,
+      "word": "王者荣耀新赛季",
+      "onboard_time": 1742458343,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 145036,
@@ -1419,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120385,
+      "num": 273967,
+      "word": "特朗普将签署行政令关闭美国教育部",
+      "onboard_time": 1742457981,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117236,
       "num": 117236,
       "word": "银川地震",
@@ -1441,6 +1529,14 @@
       "onboard_time": 1742442203,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116216,
+      "num": 116216,
+      "word": "谢娜爱跟这群女人在一起",
+      "onboard_time": 1742457922,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 115466,
@@ -1473,14 +1569,6 @@
       "onboard_time": 1742442863,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113384,
-      "num": 113384,
-      "word": "宋妍霏字字不提爱字字都是爱",
-      "onboard_time": 1742456003,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 112979,
@@ -1539,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106955,
+      "num": 158884,
+      "word": "洛阳一湖底出现塌方",
+      "onboard_time": 1742454502,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106385,
       "num": 106385,
       "word": "眼神翻页",
@@ -1587,20 +1683,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102544,
-      "num": 102544,
-      "word": "铁打的虞书欣流水的虞夫",
-      "onboard_time": 1742456123,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102182,
       "num": 304671,
       "word": "家属称被校长侵害女生性格变化明显",
       "onboard_time": 1742452762,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101818,
+      "num": 101818,
+      "word": "辛云来单手公主抱陈都灵",
+      "onboard_time": 1742459362,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 100145,
@@ -1617,6 +1713,14 @@
       "onboard_time": 1742387844,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98957,
+      "num": 98957,
+      "word": "何老师帮腔惊的吴昕叫妈",
+      "onboard_time": 1742456182,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 98638,
@@ -1641,14 +1745,6 @@
       "onboard_time": 1742398825,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 96287,
-      "num": 158884,
-      "word": "洛阳一湖底出现塌方",
-      "onboard_time": 1742454502,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95956,
@@ -1771,6 +1867,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 82684,
+      "num": 187985,
+      "word": "全网都在等着熬夜看国足了",
+      "onboard_time": 1742458101,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82604,
       "num": 213979,
       "word": "凑崎纱夏 歌手2025",
@@ -1803,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76961,
+      "num": 114750,
+      "word": "交换一个春天",
+      "onboard_time": 1742451802,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71153,
       "num": 120827,
       "word": "吴倩人生镜头上新了",
@@ -1825,6 +1937,14 @@
       "onboard_time": 1742454622,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 67738,
+      "num": 253309,
+      "word": "藏东西环节云来把智商展现得淋漓尽致",
+      "onboard_time": 1742458942,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 67211,
@@ -1875,6 +1995,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 58203,
+      "num": 316566,
+      "word": "秋田满满回应儿童面粉被曝有老鼠",
+      "onboard_time": 1742458282,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57615,
       "num": 210555,
       "word": "丁禹兮问祝绪丹为什么不唱消散对白",
@@ -1921,6 +2049,14 @@
       "onboard_time": 1742413094,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 53636,
+      "num": 97683,
+      "word": "假如生活难题都有导航",
+      "onboard_time": 1742459423,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 53543,
@@ -2075,6 +2211,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36173,
+      "num": 188049,
+      "word": "中介擅自进他人别墅施工区坠亡",
+      "onboard_time": 1742458402,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34369,
+      "num": 211337,
+      "word": "华为PuraX首发搭载全新AI小艺",
+      "onboard_time": 1742456543,
+      "rank": 28,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 32269,
       "num": 117588,
       "word": "丰巢洗护回应名牌鞋被擅自换鞋底",
@@ -2105,6 +2257,14 @@
       "onboard_time": 1742443462,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22059,
+      "num": 210201,
+      "word": "华山医院前院长客死他乡系谣言",
+      "onboard_time": 1742458042,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 20415,

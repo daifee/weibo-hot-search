@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742456160535,
+  "endTime": 1742459459334,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -9276,7 +9276,7 @@
     },
     {
       "raw_hot": 570930,
-      "num": 309680,
+      "num": 331090,
       "word": "赵露思时尚先生三月刊封面",
       "onboard_time": 1742442261,
       "rank": 27,
@@ -12499,6 +12499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 423894,
+      "num": 423894,
+      "word": "华为PuraX价格",
+      "onboard_time": 1742457563,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 423389,
       "num": 423389,
       "word": "DeepSeek谈Manus",
@@ -12833,6 +12841,14 @@
       "onboard_time": 1742129485,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 410316,
+      "num": 339918,
+      "word": "曝山西一高校女生校内产子",
+      "onboard_time": 1742457623,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 410243,
@@ -13200,6 +13216,14 @@
       "word": "温以凡香港刷盘子",
       "onboard_time": 1741463834,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 400728,
+      "num": 400728,
+      "word": "陈都灵完全是妈咪级别的",
+      "onboard_time": 1742455701,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -14008,6 +14032,14 @@
       "word": "从不准加班到不用加班还有多远",
       "onboard_time": 1741743923,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376141,
+      "num": 423959,
+      "word": "湖北大学失联女生衣服被环卫工捡走",
+      "onboard_time": 1742455522,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -20499,6 +20531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246665,
+      "num": 246665,
+      "word": "时代峰峻SM乐华合体",
+      "onboard_time": 1742457683,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246623,
       "num": 453392,
       "word": "王一博的巴黎影像切片",
@@ -22315,6 +22355,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 224904,
+      "num": 345346,
+      "word": "周也的耳环比耳朵都大",
+      "onboard_time": 1742454683,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224890,
       "num": 228512,
       "word": "播了17集男女主才有肢体接触",
@@ -23403,6 +23451,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 215236,
+      "num": 215236,
+      "word": "宋妍霏字字不提爱字字都是爱",
+      "onboard_time": 1742456003,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215222,
       "num": 215222,
       "word": "貂蝉穆夏联动新皮肤",
@@ -23601,6 +23657,14 @@
       "onboard_time": 1741845862,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213954,
+      "num": 335147,
+      "word": "铁打的虞书欣流水的虞夫",
+      "onboard_time": 1742456123,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 213859,
@@ -24345,14 +24409,6 @@
       "onboard_time": 1741022773,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207875,
-      "num": 270955,
-      "word": "陈都灵完全是妈咪级别的",
-      "onboard_time": 1742455701,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 207778,
@@ -26979,14 +27035,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 193899,
-      "num": 246523,
-      "word": "周也的耳环比耳朵都大",
-      "onboard_time": 1742454683,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193846,
       "num": 239343,
       "word": "男子分手3年后起诉前女友索还40万",
@@ -29387,6 +29435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181674,
+      "num": 333083,
+      "word": "郑合惠子好有生命力的美",
+      "onboard_time": 1742458224,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181531,
       "num": 171629,
       "word": "Zeus说打TES有点奇怪",
@@ -31337,6 +31393,14 @@
       "onboard_time": 1741830443,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 169898,
+      "num": 217505,
+      "word": "曾舜晞还缺朋友吗",
+      "onboard_time": 1742456422,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 169865,
@@ -33385,6 +33449,14 @@
       "onboard_time": 1740824302,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161002,
+      "num": 161002,
+      "word": "黑神话悟空没去领奖是因为在外团建",
+      "onboard_time": 1742456182,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 160917,
@@ -35619,6 +35691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151579,
+      "num": 215817,
+      "word": "马龙说你是哪儿的记者",
+      "onboard_time": 1742455223,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151510,
       "num": 337926,
       "word": "当诗人玩跨界把把都是高端局",
@@ -35729,14 +35809,6 @@
       "onboard_time": 1742026763,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151010,
-      "num": 137836,
-      "word": "马龙说你是哪儿的记者",
-      "onboard_time": 1742455223,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 150996,
@@ -36643,6 +36715,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 146745,
+      "num": 187945,
+      "word": "王宝强时隔12年新剧播出",
+      "onboard_time": 1742457202,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146731,
       "num": 146731,
       "word": "WB a组",
@@ -36657,14 +36737,6 @@
       "onboard_time": 1741398261,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146694,
-      "num": 233153,
-      "word": "湖北大学失联女生衣服被环卫工捡走",
-      "onboard_time": 1742455522,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146691,
@@ -37089,6 +37161,14 @@
       "onboard_time": 1741998501,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145091,
+      "num": 145091,
+      "word": "王者荣耀新赛季",
+      "onboard_time": 1742458343,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 145085,
@@ -43227,6 +43307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 120385,
+      "num": 273967,
+      "word": "特朗普将签署行政令关闭美国教育部",
+      "onboard_time": 1742457981,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120376,
       "num": 245194,
       "word": "向阳花首支预告",
@@ -44123,6 +44211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116216,
+      "num": 116216,
+      "word": "谢娜爱跟这群女人在一起",
+      "onboard_time": 1742457922,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116209,
       "num": 116209,
       "word": "想飞的女孩 浪费演员",
@@ -44793,14 +44889,6 @@
       "onboard_time": 1742442863,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113384,
-      "num": 113384,
-      "word": "宋妍霏字字不提爱字字都是爱",
-      "onboard_time": 1742456003,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 113370,
@@ -46355,6 +46443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106955,
+      "num": 158884,
+      "word": "洛阳一湖底出现塌方",
+      "onboard_time": 1742454502,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106922,
       "num": 157492,
       "word": "高圆圆许愿2025三部戏顺利播出",
@@ -47395,14 +47491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102544,
-      "num": 102544,
-      "word": "铁打的虞书欣流水的虞夫",
-      "onboard_time": 1742456123,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102481,
       "num": 570645,
       "word": "工程师2万5代办职称只有名字是真的",
@@ -47601,6 +47689,14 @@
       "onboard_time": 1742004261,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 101818,
+      "num": 101818,
+      "word": "辛云来单手公主抱陈都灵",
+      "onboard_time": 1742459362,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 101768,
@@ -48209,6 +48305,14 @@
       "onboard_time": 1741266801,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 98957,
+      "num": 98957,
+      "word": "何老师帮腔惊的吴昕叫妈",
+      "onboard_time": 1742456182,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 98938,
@@ -48825,14 +48929,6 @@
       "onboard_time": 1742226021,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96287,
-      "num": 158884,
-      "word": "洛阳一湖底出现塌方",
-      "onboard_time": 1742454502,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96177,
@@ -51211,6 +51307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82684,
+      "num": 187985,
+      "word": "全网都在等着熬夜看国足了",
+      "onboard_time": 1742458101,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82648,
       "num": 406854,
       "word": "这些新词首次进入政府工作报告",
@@ -51929,6 +52033,14 @@
       "onboard_time": 1741103479,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76961,
+      "num": 114750,
+      "word": "交换一个春天",
+      "onboard_time": 1742451802,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 76938,
@@ -53113,6 +53225,14 @@
       "onboard_time": 1741847421,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67738,
+      "num": 253309,
+      "word": "藏东西环节云来把智商展现得淋漓尽致",
+      "onboard_time": 1742458942,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 67711,
@@ -54443,6 +54563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58203,
+      "num": 316566,
+      "word": "秋田满满回应儿童面粉被曝有老鼠",
+      "onboard_time": 1742458282,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58033,
       "num": 228530,
       "word": "2025全国两会看点前瞻",
@@ -55193,6 +55321,14 @@
       "onboard_time": 1741657762,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 53636,
+      "num": 97683,
+      "word": "假如生活难题都有导航",
+      "onboard_time": 1742459423,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 53613,
@@ -58355,6 +58491,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 36173,
+      "num": 188049,
+      "word": "中介擅自进他人别墅施工区坠亡",
+      "onboard_time": 1742458402,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36164,
       "num": 955495,
       "word": "一文速览全国两会首场新闻发布会",
@@ -58705,6 +58849,14 @@
       "onboard_time": 1741148600,
       "rank": 15,
       "category": "国内时政,健康医疗"
+    },
+    {
+      "raw_hot": 34369,
+      "num": 211337,
+      "word": "华为PuraX首发搭载全新AI小艺",
+      "onboard_time": 1742456543,
+      "rank": 28,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 34354,
@@ -61241,6 +61393,14 @@
       "onboard_time": 1741885217,
       "rank": 45,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 22059,
+      "num": 210201,
+      "word": "华山医院前院长客死他乡系谣言",
+      "onboard_time": 1742458042,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 21979,
