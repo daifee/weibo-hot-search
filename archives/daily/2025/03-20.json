@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742477501396,
+  "endTime": 1742478195837,
   "band_list": [
     {
       "raw_hot": 13516718,
@@ -51,20 +51,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2108273,
+      "num": 323433,
+      "word": "疑似王一博离开乐华",
+      "onboard_time": 1742476523,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2074423,
       "num": 2074423,
       "word": "华为PuraX",
       "onboard_time": 1742453481,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1906613,
-      "num": 323433,
-      "word": "疑似王一博离开乐华",
-      "onboard_time": 1742476523,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1868504,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 707716,
+      "num": 707716,
+      "word": "考研英语田静",
+      "onboard_time": 1742475503,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 702866,
       "num": 873482,
       "word": "邓为 将门毒后",
@@ -281,14 +289,6 @@
       "onboard_time": 1742466921,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 682534,
-      "num": 682534,
-      "word": "考研英语田静",
-      "onboard_time": 1742475503,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 668912,
@@ -683,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 374039,
+      "num": 374039,
+      "word": "李惠利中国杂志首封",
+      "onboard_time": 1742475683,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 366955,
       "num": 296624,
       "word": "杨天真瘦到了124斤",
@@ -801,14 +809,6 @@
       "onboard_time": 1742391444,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292816,
-      "num": 292816,
-      "word": "李惠利中国杂志首封",
-      "onboard_time": 1742475683,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 279838,
@@ -971,6 +971,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 236193,
+      "num": 267955,
+      "word": "马龙刘诗雯的互动好有爱",
+      "onboard_time": 1742476643,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234827,
       "num": 339217,
       "word": "辛云来有种第一次营业的清澈",
@@ -1056,14 +1064,6 @@
       "word": "孙颖莎11比1魏闻声",
       "onboard_time": 1742469202,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 219453,
-      "num": 219453,
-      "word": "马龙刘诗雯的互动好有爱",
-      "onboard_time": 1742476643,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -1377,6 +1377,14 @@
       "onboard_time": 1742459543,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 190107,
+      "num": 190107,
+      "word": "国王要醒了",
+      "onboard_time": 1742477303,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 189644,
@@ -1699,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161994,
+      "num": 161994,
+      "word": "总裁公费追星王俊凯",
+      "onboard_time": 1742473403,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161002,
       "num": 161002,
       "word": "黑神话悟空没去领奖是因为在外团建",
@@ -1779,14 +1795,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 154776,
-      "num": 154776,
-      "word": "总裁公费追星王俊凯",
-      "onboard_time": 1742473403,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154327,
       "num": 343485,
       "word": "记者暗访58安居客低价房乱象",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1742442022,
       "rank": 34,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 153989,
+      "num": 199213,
+      "word": "国足vs沙特23人大名单",
+      "onboard_time": 1742474181,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 152986,
@@ -2043,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140523,
+      "num": 327496,
+      "word": "香港航空通报客机行李架起火备降福州",
+      "onboard_time": 1742475443,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140355,
       "num": 140355,
       "word": "汪苏泷直播",
@@ -2065,14 +2089,6 @@
       "onboard_time": 1742460743,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138323,
-      "num": 199213,
-      "word": "国足vs沙特23人大名单",
-      "onboard_time": 1742474181,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 138166,
@@ -2299,20 +2315,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125411,
+      "num": 182250,
+      "word": "F1中国大奖赛启动仪式",
+      "onboard_time": 1742477782,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124801,
       "num": 357410,
       "word": "我们都只是小朋友而已",
       "onboard_time": 1742446943,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124371,
-      "num": 124371,
-      "word": "国王要醒了",
-      "onboard_time": 1742477303,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 124209,
@@ -2385,14 +2401,6 @@
       "onboard_time": 1742442322,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119657,
-      "num": 327496,
-      "word": "香港航空通报客机行李架起火备降福州",
-      "onboard_time": 1742475443,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119540,
@@ -2611,6 +2619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104232,
+      "num": 238230,
+      "word": "一快递公司92万个涉诈包裹流向全国",
+      "onboard_time": 1742476342,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103526,
       "num": 260609,
       "word": "享界S9增程版开启全民豪车时代",
@@ -2633,14 +2649,6 @@
       "onboard_time": 1742382984,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102518,
-      "num": 238230,
-      "word": "一快递公司92万个涉诈包裹流向全国",
-      "onboard_time": 1742476342,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102182,
@@ -2931,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69958,
+      "num": 317362,
+      "word": "女子新购百万保时捷2个月连修8次",
+      "onboard_time": 1742476164,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69155,
       "num": 185392,
       "word": "雁回时微博追剧团",
@@ -2945,6 +2961,14 @@
       "onboard_time": 1742454622,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 68574,
+      "num": 726095,
+      "word": "我国大型汽车运输船上新了",
+      "onboard_time": 1742475082,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67960,
@@ -2985,14 +3009,6 @@
       "onboard_time": 1742461461,
       "rank": 24,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 66651,
-      "num": 702555,
-      "word": "我国大型汽车运输船上新了",
-      "onboard_time": 1742475082,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 66537,
@@ -3041,6 +3057,14 @@
       "onboard_time": 1742444843,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60640,
+      "num": 326360,
+      "word": "在中国式现代化进程中开创云南发展新局面",
+      "onboard_time": 1742471602,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59091,
@@ -3097,14 +3121,6 @@
       "onboard_time": 1742413094,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 54178,
-      "num": 317362,
-      "word": "女子新购百万保时捷2个月连修8次",
-      "onboard_time": 1742476164,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53636,
@@ -3203,6 +3219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47772,
+      "num": 267717,
+      "word": "沈腾叫马丽老搭档",
+      "onboard_time": 1742477603,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 47283,
       "num": 166204,
       "word": "国足背后有我",
@@ -3291,20 +3315,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41373,
+      "num": 320432,
+      "word": "多地辟谣景区门票优惠与体重挂钩",
+      "onboard_time": 1742476104,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 40993,
       "num": 53529,
       "word": "陈都灵眼神戏已经进化成这样了",
       "onboard_time": 1742391385,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40761,
-      "num": 320432,
-      "word": "多地辟谣景区门票优惠与体重挂钩",
-      "onboard_time": 1742476104,
-      "rank": 13,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 39436,
@@ -3355,6 +3379,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 34068,
+      "num": 294035,
+      "word": "起底2024年年度食品安全黑榜",
+      "onboard_time": 1742476763,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33682,
       "num": 247089,
       "word": "张玉宁说赢过球就有获胜的经验",
@@ -3393,6 +3425,14 @@
       "onboard_time": 1742405597,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29692,
+      "num": 248673,
+      "word": "王楚钦说珍惜和龙哥的比赛",
+      "onboard_time": 1742477843,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 29444,
@@ -3449,14 +3489,6 @@
       "onboard_time": 1742458042,
       "rank": 29,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 21861,
-      "num": 294035,
-      "word": "起底2024年年度食品安全黑榜",
-      "onboard_time": 1742476763,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21704,
@@ -3539,6 +3571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13671,
+      "num": 178683,
+      "word": "吴尊关注孩子的每一次成长",
+      "onboard_time": 1742476462,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12780,
       "num": 17816,
       "word": "6名小学生合力上演教科书式救火",
@@ -3553,14 +3593,6 @@
       "onboard_time": 1742404038,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 12552,
-      "num": 171034,
-      "word": "吴尊关注孩子的每一次成长",
-      "onboard_time": 1742476462,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 11840,
@@ -3609,6 +3641,14 @@
       "onboard_time": 1742416333,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9680,
+      "num": 177792,
+      "word": "AWE石头黑科技全家桶",
+      "onboard_time": 1742477843,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 9541,
