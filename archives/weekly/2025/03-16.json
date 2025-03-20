@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742495578787,
+  "endTime": 1742496302616,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -4307,6 +4307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 354813,
+      "num": 354813,
+      "word": "国足vs沙特",
+      "onboard_time": 1742487380,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354232,
       "num": 315368,
       "word": "面粉疑现老鼠秋田满满要求检测年龄",
@@ -4777,14 +4785,6 @@
       "onboard_time": 1742052689,
       "rank": 39,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 302433,
-      "num": 302433,
-      "word": "国足vs沙特",
-      "onboard_time": 1742487380,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 301822,
@@ -15155,6 +15155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 52066,
+      "num": 52066,
+      "word": "国足直播",
+      "onboard_time": 1742496135,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52012,
       "num": 380688,
       "word": "315曝光后多家上市公司股价暴跌开盘",
@@ -17043,6 +17051,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 16348,
+      "num": 19525,
+      "word": "丽江下雪了",
+      "onboard_time": 1742496135,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 16245,
       "num": 16245,
       "word": "一次性内裤",
@@ -17219,6 +17235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 11773,
+      "num": 37723,
+      "word": "公司称对受害员工保护关怀不足",
+      "onboard_time": 1742495355,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11758,
       "num": 40296,
       "word": "争分夺秒狂奔的你真的很赞",
@@ -17273,14 +17297,6 @@
       "onboard_time": 1742283082,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 11154,
-      "num": 30618,
-      "word": "公司称对受害员工保护关怀不足",
-      "onboard_time": 1742495355,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10948,
