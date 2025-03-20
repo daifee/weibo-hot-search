@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742475684956,
+  "endTime": 1742477501396,
   "band_list": [
     {
       "raw_hot": 13516718,
@@ -57,6 +57,14 @@
       "onboard_time": 1742453481,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1906613,
+      "num": 323433,
+      "word": "疑似王一博离开乐华",
+      "onboard_time": 1742476523,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1868504,
@@ -275,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 682534,
+      "num": 682534,
+      "word": "考研英语田静",
+      "onboard_time": 1742475503,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 668912,
       "num": 236747,
       "word": "赵露思又一条百万赞ins",
@@ -435,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 508123,
+      "num": 312692,
+      "word": "曝金秀贤与公司解约",
+      "onboard_time": 1742476164,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501157,
       "num": 501157,
       "word": "谭卓给胡歌微信备注谁谁谁她爸",
@@ -481,6 +505,14 @@
       "onboard_time": 1742466562,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 472299,
+      "num": 293562,
+      "word": "杜华问你配吗",
+      "onboard_time": 1742476462,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 463457,
@@ -723,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310641,
+      "num": 345428,
+      "word": "杨紫公司起诉前合作方",
+      "onboard_time": 1742474482,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306619,
       "num": 306619,
       "word": "刘亦菲的男主们送来获奖祝福",
@@ -763,11 +803,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292816,
+      "num": 292816,
+      "word": "李惠利中国杂志首封",
+      "onboard_time": 1742475683,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 279838,
+      "num": 279838,
+      "word": "杨紫直播",
+      "onboard_time": 1742476462,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276949,
       "num": 229199,
       "word": "曾黎竹林古风美人",
       "onboard_time": 1742441001,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 271604,
+      "num": 271604,
+      "word": "金赛纶承认结婚音频被质疑后期合成",
+      "onboard_time": 1742472441,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -865,6 +929,14 @@
       "onboard_time": 1742461822,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 242071,
+      "num": 277245,
+      "word": "辛云来 顺眼",
+      "onboard_time": 1742474302,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 241800,
@@ -987,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219453,
+      "num": 219453,
+      "word": "马龙刘诗雯的互动好有爱",
+      "onboard_time": 1742476643,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218098,
       "num": 218098,
       "word": "奎八",
@@ -1072,6 +1152,14 @@
       "word": "孙颖莎vs魏闻声",
       "onboard_time": 1742467581,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 211000,
+      "num": 256697,
+      "word": "日本晋级2026世界杯",
+      "onboard_time": 1742475382,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -1331,14 +1419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187924,
-      "num": 277245,
-      "word": "辛云来 顺眼",
-      "onboard_time": 1742474302,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187440,
       "num": 187440,
       "word": "王一博记录巴黎一些moment",
@@ -1361,14 +1441,6 @@
       "onboard_time": 1742466322,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 184024,
-      "num": 345428,
-      "word": "杨紫公司起诉前合作方",
-      "onboard_time": 1742474482,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 183533,
@@ -1569,6 +1641,14 @@
       "onboard_time": 1742439500,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163717,
+      "num": 163717,
+      "word": "谁懂丞磊雨中这39秒的疯感",
+      "onboard_time": 1742476403,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162785,
@@ -1987,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138323,
+      "num": 199213,
+      "word": "国足vs沙特23人大名单",
+      "onboard_time": 1742474181,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138166,
       "num": 199069,
       "word": "华为太宠智界车主",
@@ -2033,6 +2121,14 @@
       "onboard_time": 1742461882,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 135974,
+      "num": 135974,
+      "word": "何泓姗雁回时大漏勺",
+      "onboard_time": 1742477062,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 135921,
@@ -2171,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127524,
+      "num": 127524,
+      "word": "印尼惨败澳大利亚利好国足",
+      "onboard_time": 1742477182,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127049,
       "num": 316451,
       "word": "马斯克财富净值缩水超1000亿美元",
@@ -2195,14 +2299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124821,
-      "num": 199213,
-      "word": "国足vs沙特23人大名单",
-      "onboard_time": 1742474181,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124801,
       "num": 357410,
       "word": "我们都只是小朋友而已",
@@ -2211,12 +2307,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124371,
+      "num": 124371,
+      "word": "国王要醒了",
+      "onboard_time": 1742477303,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124209,
       "num": 317770,
       "word": "碰一下选陈哲远真有财",
       "onboard_time": 1742443282,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123588,
+      "num": 123588,
+      "word": "日本2比0巴林",
+      "onboard_time": 1742476282,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 123514,
@@ -2276,7 +2388,7 @@
     },
     {
       "raw_hot": 119657,
-      "num": 119657,
+      "num": 327496,
       "word": "香港航空通报客机行李架起火备降福州",
       "onboard_time": 1742475443,
       "rank": 48,
@@ -2337,14 +2449,6 @@
       "onboard_time": 1742457922,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115565,
-      "num": 118466,
-      "word": "考研英语田静",
-      "onboard_time": 1742475503,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 115466,
@@ -2529,6 +2633,14 @@
       "onboard_time": 1742382984,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102518,
+      "num": 238230,
+      "word": "一快递公司92万个涉诈包裹流向全国",
+      "onboard_time": 1742476342,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102182,
@@ -2787,14 +2899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75230,
-      "num": 256697,
-      "word": "日本晋级2026世界杯",
-      "onboard_time": 1742475382,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74377,
       "num": 822054,
       "word": "中国首次实现上万公里星地量子通信",
@@ -2881,6 +2985,14 @@
       "onboard_time": 1742461461,
       "rank": 24,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 66651,
+      "num": 702555,
+      "word": "我国大型汽车运输船上新了",
+      "onboard_time": 1742475082,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66537,
@@ -2985,6 +3097,14 @@
       "onboard_time": 1742413094,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 54178,
+      "num": 317362,
+      "word": "女子新购百万保时捷2个月连修8次",
+      "onboard_time": 1742476164,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53636,
@@ -3179,6 +3299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40761,
+      "num": 320432,
+      "word": "多地辟谣景区门票优惠与体重挂钩",
+      "onboard_time": 1742476104,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 39436,
       "num": 99714,
       "word": "将门毒后",
@@ -3315,20 +3443,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22318,
-      "num": 572703,
-      "word": "我国大型汽车运输船上新了",
-      "onboard_time": 1742475082,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 22059,
       "num": 210201,
       "word": "华山医院前院长客死他乡系谣言",
       "onboard_time": 1742458042,
       "rank": 29,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 21861,
+      "num": 294035,
+      "word": "起底2024年年度食品安全黑榜",
+      "onboard_time": 1742476763,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21704,
@@ -3425,6 +3553,14 @@
       "onboard_time": 1742404038,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 12552,
+      "num": 171034,
+      "word": "吴尊关注孩子的每一次成长",
+      "onboard_time": 1742476462,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 11840,
@@ -3525,6 +3661,9 @@
     },
     {
       "word": "#习近平在云南丽江市考察调研#"
+    },
+    {
+      "word": "#筑牢我国西南生态安全屏障#"
     }
   ]
 }
