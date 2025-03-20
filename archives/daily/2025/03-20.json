@@ -1,6 +1,6 @@
 {
   "startTime": 1742401842217,
-  "endTime": 1742460235627,
+  "endTime": 1742462782572,
   "band_list": [
     {
       "raw_hot": 13516718,
@@ -299,6 +299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 521547,
+      "num": 220596,
+      "word": "金秀贤方面准备道歉",
+      "onboard_time": 1742461822,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509461,
       "num": 305186,
       "word": "张若昀唐艺昕不认可不能离婚的规定",
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379030,
+      "num": 379030,
+      "word": "新问界M9",
+      "onboard_time": 1742459543,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 376137,
       "num": 288301,
       "word": "关晓彤造型师又有什么心事了",
@@ -561,6 +577,14 @@
       "onboard_time": 1742391444,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286859,
+      "num": 186696,
+      "word": "浪姐首位女性舞台总监",
+      "onboard_time": 1742461942,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 276949,
@@ -659,12 +683,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239847,
+      "num": 216704,
+      "word": "戚薇期期都不放过韩庚",
+      "onboard_time": 1742460441,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239191,
+      "num": 185959,
+      "word": "30岁女生一天打三份工的生活",
+      "onboard_time": 1742461822,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236714,
       "num": 158721,
       "word": "华为PuraX 电子书",
       "onboard_time": 1742454502,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 232470,
+      "num": 232470,
+      "word": "再听一遍上春山",
+      "onboard_time": 1742461642,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 225339,
@@ -681,6 +729,14 @@
       "onboard_time": 1742454683,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224450,
+      "num": 184085,
+      "word": "宝宝发烧也不忘炫大颗蓝莓",
+      "onboard_time": 1742461882,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 223442,
@@ -739,6 +795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 215473,
+      "num": 215473,
+      "word": "一级军士长送女儿参军",
+      "onboard_time": 1742460082,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215236,
       "num": 257551,
       "word": "宋妍霏字字不提爱字字都是爱",
@@ -771,6 +835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 214107,
+      "num": 214107,
+      "word": "华为终端全面进入鸿蒙时代",
+      "onboard_time": 1742461942,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 213954,
       "num": 335147,
       "word": "铁打的虞书欣流水的虞夫",
@@ -785,14 +857,6 @@
       "onboard_time": 1742374762,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208221,
-      "num": 208221,
-      "word": "新问界M9",
-      "onboard_time": 1742459543,
-      "rank": 32,
-      "category": "汽车"
     },
     {
       "raw_hot": 206388,
@@ -915,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192845,
+      "num": 182695,
+      "word": "新问界M9价格",
+      "onboard_time": 1742462062,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 192821,
       "num": 299795,
       "word": "孟子义章若楠同框",
@@ -929,6 +1001,14 @@
       "onboard_time": 1742433144,
       "rank": 16,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 190305,
+      "num": 342021,
+      "word": "加方应停止干涉中国司法主权",
+      "onboard_time": 1742459543,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 189644,
@@ -995,6 +1075,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 182537,
+      "num": 182537,
+      "word": "杨幂生活感",
+      "onboard_time": 1742459963,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182331,
       "num": 238737,
       "word": "念无双",
@@ -1043,6 +1131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 172324,
+      "num": 172324,
+      "word": "问界M9 隔空开门",
+      "onboard_time": 1742460621,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 171350,
       "num": 171350,
       "word": "钓上来一条开口求人放生的鱼",
@@ -1089,14 +1185,6 @@
       "onboard_time": 1742453722,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166429,
-      "num": 166429,
-      "word": "杨幂生活感",
-      "onboard_time": 1742459963,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 165309,
@@ -1307,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146697,
+      "num": 146697,
+      "word": "问界新M5Ultra",
+      "onboard_time": 1742462363,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 145844,
       "num": 218535,
       "word": "赵露思ins晒和马伯骞合照",
@@ -1419,6 +1515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 136125,
+      "num": 136125,
+      "word": "华为发布Mate系列同源AI电视",
+      "onboard_time": 1742461882,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 135921,
       "num": 135921,
       "word": "男子秘密辗转多个国家投敌泄密",
@@ -1433,6 +1537,14 @@
       "onboard_time": 1742440701,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135282,
+      "num": 189341,
+      "word": "王俊凯被夸到不敢说话",
+      "onboard_time": 1742461342,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 135103,
@@ -1505,6 +1617,14 @@
       "onboard_time": 1742452521,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126814,
+      "num": 188475,
+      "word": "李嘉诚清空港口扰动国际航运",
+      "onboard_time": 1742457382,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126290,
@@ -1731,14 +1851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 106067,
-      "num": 342021,
-      "word": "加方应停止干涉中国司法主权",
-      "onboard_time": 1742459543,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 105944,
       "num": 254018,
       "word": "和春天有场约会",
@@ -1849,14 +1961,6 @@
       "onboard_time": 1742388146,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94299,
-      "num": 123517,
-      "word": "一级军士长送女儿参军",
-      "onboard_time": 1742460082,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94229,
@@ -2027,12 +2131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69155,
+      "num": 185392,
+      "word": "雁回时微博追剧团",
+      "onboard_time": 1742462663,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68974,
       "num": 382402,
       "word": "多部门调查商人举报检察员侵吞资产",
       "onboard_time": 1742454622,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 67960,
+      "num": 187602,
+      "word": "华为双单元水滴耳机高低听上头",
+      "onboard_time": 1742462003,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 67738,
@@ -2043,12 +2163,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67629,
+      "num": 183303,
+      "word": "敦促美方不得歧视性限制中国留学生",
+      "onboard_time": 1742462242,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67211,
       "num": 76927,
       "word": "给刘宇宁递个悬疑本子吧",
       "onboard_time": 1742400023,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66740,
+      "num": 188594,
+      "word": "老人一个月花2000元看微短剧",
+      "onboard_time": 1742461461,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 66537,
@@ -2073,6 +2209,14 @@
       "onboard_time": 1742397265,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63195,
+      "num": 187888,
+      "word": "画江湖之不良人",
+      "onboard_time": 1742461942,
+      "rank": 26,
+      "category": "动漫"
     },
     {
       "raw_hot": 62084,
@@ -2347,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27808,
+      "num": 184924,
+      "word": "请查收一份云南制造的浪漫",
+      "onboard_time": 1742462363,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25628,
       "num": 142977,
       "word": "约基奇穆雷缺战湖人",
@@ -2361,6 +2513,14 @@
       "onboard_time": 1742458042,
       "rank": 29,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 20855,
+      "num": 186787,
+      "word": "华为PuraX首发AI人像精修",
+      "onboard_time": 1742461942,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 20415,
@@ -2395,6 +2555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15890,
+      "num": 183930,
+      "word": "南航称轻薄座椅更符合人体工学",
+      "onboard_time": 1742462722,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15206,
       "num": 27040,
       "word": "孟子义电视剧品质盛典造型图",
@@ -2419,6 +2587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12867,
+      "num": 544955,
+      "word": "中国首次实现上万公里星地量子通信",
+      "onboard_time": 1742462422,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12780,
       "num": 17816,
       "word": "6名小学生合力上演教科书式救火",
@@ -2433,6 +2609,14 @@
       "onboard_time": 1742404038,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 12169,
+      "num": 187297,
+      "word": "小学校长性侵案当事人拒不认罪",
+      "onboard_time": 1742462542,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11840,

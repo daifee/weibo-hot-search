@@ -1,0 +1,410 @@
+{
+  "runTime": 1742462782572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1019167,
+        "num": 1163066,
+        "word": "华为PuraX",
+        "onboard_time": 1742453481,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 823271,
+        "num": 823271,
+        "word": "黄油年糕",
+        "onboard_time": 1742450181,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 12867,
+        "num": 544955,
+        "word": "中国首次实现上万公里星地量子通信",
+        "onboard_time": 1742462422,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 379030,
+        "num": 379030,
+        "word": "新问界M9",
+        "onboard_time": 1742459543,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 317544,
+        "num": 317544,
+        "word": "商场女厕马桶为何频频变蹲坑",
+        "onboard_time": 1742452521,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352205,
+        "num": 300812,
+        "word": "湖北大学失联女生衣服被环卫工捡走",
+        "onboard_time": 1742455522,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274020,
+        "num": 274020,
+        "word": "华为发布会",
+        "onboard_time": 1742451203,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 256658,
+        "num": 256658,
+        "word": "华为PuraX价格",
+        "onboard_time": 1742457563,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 232470,
+        "num": 232470,
+        "word": "再听一遍上春山",
+        "onboard_time": 1742461642,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228697,
+        "num": 228697,
+        "word": "陈都灵完全是妈咪级别的",
+        "onboard_time": 1742455701,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5691504,
+        "num": 5691504,
+        "word": "赵露思取关",
+        "onboard_time": 1742455462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622858,
+        "num": 225675,
+        "word": "韩安冉家的保姆都出来发声了",
+        "onboard_time": 1742444182,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 592894,
+        "num": 223197,
+        "word": "央视网发白敬亭上春山",
+        "onboard_time": 1742448621,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521547,
+        "num": 220596,
+        "word": "金秀贤方面准备道歉",
+        "onboard_time": 1742461822,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239847,
+        "num": 216704,
+        "word": "戚薇期期都不放过韩庚",
+        "onboard_time": 1742460441,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215473,
+        "num": 215473,
+        "word": "一级军士长送女儿参军",
+        "onboard_time": 1742460082,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214107,
+        "num": 214107,
+        "word": "华为终端全面进入鸿蒙时代",
+        "onboard_time": 1742461942,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199238,
+        "num": 199238,
+        "word": "张凌赫王楚然新剧或6月开机",
+        "onboard_time": 1742460202,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14930,
+        "num": 194532,
+        "word": "假如生活难题都有导航",
+        "onboard_time": 1742459423,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190305,
+        "num": 190305,
+        "word": "加方应停止干涉中国司法主权",
+        "onboard_time": 1742459543,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 332544,
+        "num": 190272,
+        "word": "韩安冉 离婚",
+        "onboard_time": 1742395704,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150835,
+        "num": 189786,
+        "word": "铁打的虞书欣流水的虞夫",
+        "onboard_time": 1742456123,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135282,
+        "num": 189341,
+        "word": "王俊凯被夸到不敢说话",
+        "onboard_time": 1742461342,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303697,
+        "num": 188908,
+        "word": "赵露思时尚先生三月刊封面",
+        "onboard_time": 1742442261,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 66740,
+        "num": 188594,
+        "word": "老人一个月花2000元看微短剧",
+        "onboard_time": 1742461461,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 126814,
+        "num": 188475,
+        "word": "李嘉诚清空港口扰动国际航运",
+        "onboard_time": 1742457382,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63195,
+        "num": 187888,
+        "word": "画江湖之不良人",
+        "onboard_time": 1742461942,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 67960,
+        "num": 187602,
+        "word": "华为双单元水滴耳机高低听上头",
+        "onboard_time": 1742462003,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12169,
+        "num": 187297,
+        "word": "小学校长性侵案当事人拒不认罪",
+        "onboard_time": 1742462542,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20855,
+        "num": 186787,
+        "word": "华为PuraX首发AI人像精修",
+        "onboard_time": 1742461942,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 286859,
+        "num": 186696,
+        "word": "浪姐首位女性舞台总监",
+        "onboard_time": 1742461942,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136863,
+        "num": 186189,
+        "word": "马龙说你是哪儿的记者",
+        "onboard_time": 1742455223,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239191,
+        "num": 185959,
+        "word": "30岁女生一天打三份工的生活",
+        "onboard_time": 1742461822,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69155,
+        "num": 185392,
+        "word": "雁回时微博追剧团",
+        "onboard_time": 1742462663,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217995,
+        "num": 185067,
+        "word": "时代峰峻SM乐华合体",
+        "onboard_time": 1742457683,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27808,
+        "num": 184924,
+        "word": "请查收一份云南制造的浪漫",
+        "onboard_time": 1742462363,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227710,
+        "num": 184323,
+        "word": "金秀贤台湾见面会参加者需年满18岁",
+        "onboard_time": 1742453361,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224450,
+        "num": 184085,
+        "word": "宝宝发烧也不忘炫大颗蓝莓",
+        "onboard_time": 1742461882,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15890,
+        "num": 183930,
+        "word": "南航称轻薄座椅更符合人体工学",
+        "onboard_time": 1742462722,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67629,
+        "num": 183303,
+        "word": "敦促美方不得歧视性限制中国留学生",
+        "onboard_time": 1742462242,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11965,
+        "num": 183150,
+        "word": "一键解锁贵州侗寨的出圈密码",
+        "onboard_time": 1742398047,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192845,
+        "num": 182695,
+        "word": "新问界M9价格",
+        "onboard_time": 1742462062,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 182537,
+        "num": 182537,
+        "word": "杨幂生活感",
+        "onboard_time": 1742459963,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172324,
+        "num": 172324,
+        "word": "问界M9 隔空开门",
+        "onboard_time": 1742460621,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146697,
+        "num": 146697,
+        "word": "问界新M5Ultra",
+        "onboard_time": 1742462363,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143646,
+        "num": 143646,
+        "word": "HR看我工位笑了",
+        "onboard_time": 1742446463,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136125,
+        "num": 136125,
+        "word": "华为发布Mate系列同源AI电视",
+        "onboard_time": 1742461882,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125411,
+        "num": 125411,
+        "word": "蒋敦豪让男一女一锁死",
+        "onboard_time": 1742459902,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123920,
+        "num": 123920,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1742458343,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120326,
+        "num": 120326,
+        "word": "考研调剂系统每次开放不得低于12小时",
+        "onboard_time": 1742448383,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在云南丽江考察调研#"
+    }
+  }
+}
