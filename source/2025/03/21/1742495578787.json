@@ -1,0 +1,410 @@
+{
+  "runTime": 1742495578787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 302433,
+        "num": 302433,
+        "word": "国足vs沙特",
+        "onboard_time": 1742487380,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73867,
+        "num": 73867,
+        "word": "内蒙古悬赏120万征集12起命案线索",
+        "onboard_time": 1742485101,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14797,
+        "num": 68626,
+        "word": "我国大型汽车运输船上新了",
+        "onboard_time": 1742475082,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67589,
+        "num": 67589,
+        "word": "自愿被群像骗了一年又一年",
+        "onboard_time": 1742481624,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55038,
+        "num": 55038,
+        "word": "国足公布首发",
+        "onboard_time": 1742490496,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49608,
+        "num": 49608,
+        "word": "女生陪同领导出差遭客户猥亵",
+        "onboard_time": 1742485342,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48036,
+        "num": 48036,
+        "word": "校方回应男生上厕所遭保安偷拍",
+        "onboard_time": 1742484084,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46523,
+        "num": 46523,
+        "word": "月鳞绮纪",
+        "onboard_time": 1742481864,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41013,
+        "num": 41013,
+        "word": "女子取一个快递被骗10多万",
+        "onboard_time": 1742480303,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40172,
+        "num": 40172,
+        "word": "华为 刘亦菲",
+        "onboard_time": 1742463382,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382229,
+        "num": 40132,
+        "word": "赵露思取关",
+        "onboard_time": 1742455462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234403,
+        "num": 39947,
+        "word": "韩安冉朋友圈发文",
+        "onboard_time": 1742490138,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 164601,
+        "num": 39730,
+        "word": "985研究生退学摆摊日入700元",
+        "onboard_time": 1742485882,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106056,
+        "num": 39622,
+        "word": "闺蜜有金赛纶被家暴的照片",
+        "onboard_time": 1742480242,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77359,
+        "num": 39495,
+        "word": "金秀贤方面准备道歉",
+        "onboard_time": 1742461822,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72422,
+        "num": 39369,
+        "word": "疑似王一博离开乐华",
+        "onboard_time": 1742476523,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64654,
+        "num": 39256,
+        "word": "央视网发白敬亭上春山",
+        "onboard_time": 1742448621,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58689,
+        "num": 39108,
+        "word": "男子因没钱起诉已分手3年女友还40万",
+        "onboard_time": 1742484023,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58043,
+        "num": 38952,
+        "word": "金赛纶母亲看到录音后爆哭",
+        "onboard_time": 1742474241,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38825,
+        "num": 38825,
+        "word": "雁回时",
+        "onboard_time": 1742465661,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92454,
+        "num": 37458,
+        "word": "医生建议不要强制自己入睡",
+        "onboard_time": 1742490138,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33952,
+        "num": 33952,
+        "word": "当事人回应3.5万买北海道170平房",
+        "onboard_time": 1742484144,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32323,
+        "num": 32323,
+        "word": "虞书欣哭出了我想要的烟熏妆",
+        "onboard_time": 1742466204,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31794,
+        "num": 31794,
+        "word": "考研英语田静",
+        "onboard_time": 1742475503,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 11154,
+        "num": 30618,
+        "word": "公司称对受害员工保护关怀不足",
+        "onboard_time": 1742495355,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29749,
+        "num": 29749,
+        "word": "曝金秀贤与公司解约",
+        "onboard_time": 1742476164,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29350,
+        "num": 29350,
+        "word": "中科院",
+        "onboard_time": 1742480544,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27213,
+        "num": 29333,
+        "word": "杜华问你配吗",
+        "onboard_time": 1742476462,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24714,
+        "num": 29056,
+        "word": "李惠利中国杂志首封",
+        "onboard_time": 1742475683,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 22341,
+        "num": 28772,
+        "word": "睡眠日的祝福",
+        "onboard_time": 1742490798,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27668,
+        "num": 28383,
+        "word": "母鸡卡",
+        "onboard_time": 1742483543,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 28294,
+        "num": 28294,
+        "word": "凯尔特人61亿美元出售",
+        "onboard_time": 1742490138,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28240,
+        "num": 28240,
+        "word": "空腹断食66小时的变化",
+        "onboard_time": 1742465661,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28027,
+        "num": 28027,
+        "word": "白鹿不敢睁开眼希望是我的幻觉",
+        "onboard_time": 1742486181,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26208,
+        "num": 26208,
+        "word": "孕妇喝椰子水买一箱开出三种颜色",
+        "onboard_time": 1742465661,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26177,
+        "num": 26177,
+        "word": "啄木鸟承诺的整改去哪了",
+        "onboard_time": 1742480904,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 25502,
+        "num": 25502,
+        "word": "小雪 首发",
+        "onboard_time": 1742484802,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24306,
+        "num": 24306,
+        "word": "面粉疑现老鼠秋田满满要求检测年龄",
+        "onboard_time": 1742483006,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23860,
+        "num": 23860,
+        "word": "女子线雕手术三年后脸上钻出一根线",
+        "onboard_time": 1742464523,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23648,
+        "num": 23648,
+        "word": "代驾小哥因2.6元举报KTV有偿陪侍",
+        "onboard_time": 1742463323,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22494,
+        "num": 22494,
+        "word": "天秤座使用说明",
+        "onboard_time": 1742483183,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21487,
+        "num": 21487,
+        "word": "哪吒2票房152亿",
+        "onboard_time": 1742463983,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20147,
+        "num": 21487,
+        "word": "热热热热你热热热热",
+        "onboard_time": 1742466322,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19631,
+        "num": 21482,
+        "word": "月鳞绮纪拍戏片场着火",
+        "onboard_time": 1742483244,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19545,
+        "num": 21480,
+        "word": "快来康康",
+        "onboard_time": 1742490197,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19157,
+        "num": 21479,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1742493856,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18858,
+        "num": 21477,
+        "word": "李晟黑衣红唇好飒",
+        "onboard_time": 1742490197,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17888,
+        "num": 21473,
+        "word": "国王要醒了",
+        "onboard_time": 1742477303,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17536,
+        "num": 21471,
+        "word": "孙颖莎说一天一场很合理",
+        "onboard_time": 1742487860,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17079,
+        "num": 21468,
+        "word": "陈都灵辛云来共创雁回时",
+        "onboard_time": 1742495534,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#筑牢我国西南生态安全屏障#"
+    }
+  }
+}
