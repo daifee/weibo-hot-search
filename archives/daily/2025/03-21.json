@@ -1,10 +1,10 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742521808951,
+  "endTime": 1742523120920,
   "band_list": [
     {
-      "raw_hot": 3363452,
-      "num": 3363452,
+      "raw_hot": 3765482,
+      "num": 3765482,
       "word": "湖大失联女生遗体已找到",
       "onboard_time": 1742520561,
       "rank": 0,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1002544,
-      "num": 262180,
+      "num": 266517,
       "word": "赵露思 要化爱化化一辈子",
       "onboard_time": 1742514019,
       "rank": 10,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 535138,
+      "num": 260954,
+      "word": "西双版纳偶遇宋浩然韩安冉",
+      "onboard_time": 1742520081,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 529035,
       "num": 186421,
       "word": "闺蜜有金赛纶被家暴的照片",
@@ -123,12 +131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 503242,
+      "raw_hot": 523711,
       "num": 260819,
       "word": "韩安冉 长记性了没下次了",
       "onboard_time": 1742518941,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 503313,
+      "num": 258717,
+      "word": "阚清子今早体重55.8kg",
+      "onboard_time": 1742520921,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 453145,
@@ -163,15 +179,23 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305162,
-      "num": 305162,
-      "word": "女子取一个快递被骗10多万",
-      "onboard_time": 1742480303,
-      "rank": 3,
+      "raw_hot": 346235,
+      "num": 346235,
+      "word": "急急如律令是啥意思",
+      "onboard_time": 1742521520,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 299510,
+      "raw_hot": 309814,
+      "num": 309814,
+      "word": "作者回应玉盘是否为战歌",
+      "onboard_time": 1742518581,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 307438,
       "num": 258194,
       "word": "杨紫一生见佛拜佛的中国人",
       "onboard_time": 1742517081,
@@ -179,12 +203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 296699,
-      "num": 296699,
-      "word": "作者回应玉盘是否为战歌",
-      "onboard_time": 1742518581,
-      "rank": 7,
-      "category": "音乐"
+      "raw_hot": 305162,
+      "num": 305162,
+      "word": "女子取一个快递被骗10多万",
+      "onboard_time": 1742480303,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288125,
@@ -201,6 +225,14 @@
       "onboard_time": 1742485342,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266565,
+      "num": 266565,
+      "word": "官方通报湖大一女生失联",
+      "onboard_time": 1742522240,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 263807,
@@ -235,12 +267,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 254829,
-      "num": 254829,
-      "word": "阚清子今早体重55.8kg",
-      "onboard_time": 1742520921,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 254491,
+      "num": 254491,
+      "word": "315后医护级卫生巾销量暴涨8倍",
+      "onboard_time": 1742522901,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254237,
@@ -249,14 +281,6 @@
       "onboard_time": 1742448621,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250490,
-      "num": 250490,
-      "word": "西双版纳偶遇宋浩然韩安冉",
-      "onboard_time": 1742520081,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 249078,
@@ -283,6 +307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 239966,
+      "num": 239966,
+      "word": "司马南偷税被罚超900万",
+      "onboard_time": 1742523020,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227748,
       "num": 227748,
       "word": "林良铭直红",
@@ -292,7 +324,7 @@
     },
     {
       "raw_hot": 223147,
-      "num": 147701,
+      "num": 166710,
       "word": "金秀贤方要公开金赛纶行踪",
       "onboard_time": 1742517501,
       "rank": 32,
@@ -339,19 +371,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191520,
+      "num": 191520,
+      "word": "男子瞒着子女转80%房产给再婚妻子",
+      "onboard_time": 1742519061,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183554,
+      "num": 244353,
+      "word": "Leader懒人洗衣机能洗鞋了",
+      "onboard_time": 1742521520,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179109,
       "num": 179109,
       "word": "热热热热你热热热热",
       "onboard_time": 1742466322,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173339,
-      "num": 173339,
-      "word": "男子瞒着子女转80%房产给再婚妻子",
-      "onboard_time": 1742519061,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -363,12 +403,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 160487,
-      "num": 160487,
-      "word": "急急如律令是啥意思",
-      "onboard_time": 1742521520,
-      "rank": 26,
+      "raw_hot": 167337,
+      "num": 245022,
+      "word": "退钱哥点评国足不敌沙特",
+      "onboard_time": 1742520981,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165351,
+      "num": 165351,
+      "word": "男子多次冒充员工参加年会领奖被拘",
+      "onboard_time": 1742521701,
+      "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158131,
+      "num": 158131,
+      "word": "今起可直接办理个税汇算",
+      "onboard_time": 1742522901,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 156258,
@@ -419,12 +475,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137304,
+      "num": 158638,
+      "word": "落水人员称丁禹兮是超级英雄",
+      "onboard_time": 1742522420,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137026,
       "num": 137026,
       "word": "白鹿不敢睁开眼希望是我的幻觉",
       "onboard_time": 1742486181,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134359,
+      "num": 134359,
+      "word": "景德镇被偷手机当事人发声",
+      "onboard_time": 1742518521,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129460,
+      "num": 129460,
+      "word": "张百乔晒和王楚钦合照",
+      "onboard_time": 1742522901,
+      "rank": 36,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 127841,
@@ -451,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120620,
-      "num": 120620,
-      "word": "Leader懒人洗衣机能洗鞋了",
-      "onboard_time": 1742521520,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120459,
       "num": 120459,
       "word": "考研英语田静",
@@ -473,14 +545,6 @@
       "onboard_time": 1742477303,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115992,
-      "num": 115992,
-      "word": "景德镇被偷手机当事人发声",
-      "onboard_time": 1742518521,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111900,
@@ -521,6 +585,14 @@
       "onboard_time": 1742515521,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106626,
+      "num": 106626,
+      "word": "金价飙涨有人连夜找祖传金镯",
+      "onboard_time": 1742522901,
+      "rank": 41,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 104957,
@@ -569,14 +641,6 @@
       "onboard_time": 1742465661,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95987,
-      "num": 95987,
-      "word": "男子多次冒充员工参加年会领奖被拘",
-      "onboard_time": 1742521701,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95680,
@@ -641,6 +705,14 @@
       "onboard_time": 1742466921,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 82629,
+      "num": 82629,
+      "word": "国足输球成一种文化现象",
+      "onboard_time": 1742522780,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 80957,
@@ -776,14 +848,6 @@
       "word": "国足与印尼巴林同积6分",
       "onboard_time": 1742516660,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 60064,
-      "num": 245022,
-      "word": "退钱哥点评国足不敌沙特",
-      "onboard_time": 1742520981,
-      "rank": 19,
       "category": "体育"
     },
     {
