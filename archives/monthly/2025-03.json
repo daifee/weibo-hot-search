@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742581951625,
+  "endTime": 1742582730483,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -61195,6 +61195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45798,
+      "num": 45798,
+      "word": "多地学校放春假",
+      "onboard_time": 1742579897,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 45709,
       "num": 269338,
       "word": "今屿随便拍的",
@@ -62155,6 +62163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41019,
+      "num": 31660,
+      "word": "千禾0是商标在侮辱谁",
+      "onboard_time": 1742578816,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40997,
       "num": 280670,
       "word": "假肉毒素出厂价20元卖上千",
@@ -62329,14 +62345,6 @@
       "onboard_time": 1742383705,
       "rank": 13,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 40296,
-      "num": 28956,
-      "word": "千禾0是商标在侮辱谁",
-      "onboard_time": 1742578816,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40221,
@@ -63329,14 +63337,6 @@
       "onboard_time": 1742130144,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35464,
-      "num": 37490,
-      "word": "多地学校放春假",
-      "onboard_time": 1742579897,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 35360,
@@ -67169,6 +67169,14 @@
       "onboard_time": 1741014860,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18466,
+      "num": 20402,
+      "word": "日本插画小人",
+      "onboard_time": 1742581574,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 18435,

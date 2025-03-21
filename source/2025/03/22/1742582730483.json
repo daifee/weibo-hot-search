@@ -1,0 +1,410 @@
+{
+  "runTime": 1742582730483,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 215465,
+        "num": 215465,
+        "word": "北大毕业生做正骨被踢出班级群",
+        "onboard_time": 1742564064,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126412,
+        "num": 126412,
+        "word": "乌克兰不再被邀请加入北约",
+        "onboard_time": 1742572280,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13732,
+        "num": 120853,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1742551221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119559,
+        "num": 119559,
+        "word": "金价开跌",
+        "onboard_time": 1742567604,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115148,
+        "num": 115148,
+        "word": "孙海洋称有人出价百万提供寻子线索",
+        "onboard_time": 1742574021,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112830,
+        "num": 112830,
+        "word": "不同年龄的最佳睡眠时长",
+        "onboard_time": 1742577078,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103109,
+        "num": 103109,
+        "word": "婚姻登记条例修订草案审议通过",
+        "onboard_time": 1742572463,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94985,
+        "num": 94985,
+        "word": "吴宣仪连麦了13个人",
+        "onboard_time": 1742571801,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71125,
+        "num": 71125,
+        "word": "让李荣浩发飙的NFC到底是啥",
+        "onboard_time": 1742572222,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64700,
+        "num": 64700,
+        "word": "京城大师赛",
+        "onboard_time": 1742574021,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77389,
+        "num": 64535,
+        "word": "Hanni说谎",
+        "onboard_time": 1742557223,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62508,
+        "num": 62508,
+        "word": "女生瞒着家人半年打赏主播近200万",
+        "onboard_time": 1742562024,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57703,
+        "num": 57703,
+        "word": "雁回时",
+        "onboard_time": 1742557161,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48907,
+        "num": 48907,
+        "word": "杨超越银色短发",
+        "onboard_time": 1742567664,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47009,
+        "num": 47009,
+        "word": "张小婉管乐你俩让我觉得陌生",
+        "onboard_time": 1742559982,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45798,
+        "num": 45798,
+        "word": "多地学校放春假",
+        "onboard_time": 1742579897,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41806,
+        "num": 41806,
+        "word": "李艺彤 这么多年都没红不可能翻红",
+        "onboard_time": 1742554701,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39377,
+        "num": 39377,
+        "word": "坏了真让王大锤走向人生巅峰了",
+        "onboard_time": 1742569344,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37825,
+        "num": 37825,
+        "word": "何秋亊翻牌",
+        "onboard_time": 1742571323,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33295,
+        "num": 33295,
+        "word": "全国首个咖啡本科专业有多香",
+        "onboard_time": 1742567604,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99170,
+        "num": 33199,
+        "word": "93岁强奸不收押老人已无法自主行走",
+        "onboard_time": 1742547621,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95220,
+        "num": 32727,
+        "word": "罗予彤 断层",
+        "onboard_time": 1742551521,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56755,
+        "num": 32213,
+        "word": "经期3天和7天的女性谁老得更快",
+        "onboard_time": 1742558904,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46084,
+        "num": 31973,
+        "word": "睡眠超9小时会让身体出现各种问题",
+        "onboard_time": 1742566284,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41019,
+        "num": 31660,
+        "word": "千禾0是商标在侮辱谁",
+        "onboard_time": 1742578816,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31363,
+        "num": 31363,
+        "word": "小燕子姐姐初舞台失误拿最低分",
+        "onboard_time": 1742571262,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29656,
+        "num": 29656,
+        "word": "养猫后很讨厌别人说哪句话",
+        "onboard_time": 1742569223,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29398,
+        "num": 29398,
+        "word": "李嘉琦真的被低估了",
+        "onboard_time": 1742549781,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25908,
+        "num": 25908,
+        "word": "汪苏泷晒演唱会与粉丝大合照",
+        "onboard_time": 1742568864,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25692,
+        "num": 25692,
+        "word": "乘风破浪的姐姐",
+        "onboard_time": 1742576837,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40543,
+        "num": 25593,
+        "word": "中华环保联合会删除虞书欣相关",
+        "onboard_time": 1742546362,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25478,
+        "num": 25478,
+        "word": "王腾称下个月出大部分人买得起的手机",
+        "onboard_time": 1742565443,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25225,
+        "num": 25225,
+        "word": "这一站是上岸",
+        "onboard_time": 1742566943,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25045,
+        "num": 25045,
+        "word": "外交部提醒日本",
+        "onboard_time": 1742549661,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24818,
+        "num": 24818,
+        "word": "newjeans在法院说谎ILLIT没打招呼",
+        "onboard_time": 1742568384,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23035,
+        "num": 23035,
+        "word": "全班39人都被抢走企业追着老师要人",
+        "onboard_time": 1742549720,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21985,
+        "num": 21985,
+        "word": "网易云向李荣浩致歉",
+        "onboard_time": 1742559322,
+        "rank": 36,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 21378,
+        "num": 21378,
+        "word": "剑网3为所有侠士补偿熊猫头像",
+        "onboard_time": 1742578577,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20591,
+        "num": 20591,
+        "word": "儿子尿毒症63岁母亲偷偷签字捐肾",
+        "onboard_time": 1742555182,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20585,
+        "num": 20585,
+        "word": "2025年瑞士羽毛球公开赛",
+        "onboard_time": 1742576718,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20553,
+        "num": 20553,
+        "word": "孕妇羊水破裂13岁男孩成功助产",
+        "onboard_time": 1742541441,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20437,
+        "num": 20437,
+        "word": "王俊凯小时候同款小嘚瑟",
+        "onboard_time": 1742563043,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20408,
+        "num": 20408,
+        "word": "余承东回应PuraX价格争议",
+        "onboard_time": 1742554401,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 19547,
+        "num": 20407,
+        "word": "汪苏泷像晴天像雨天首唱",
+        "onboard_time": 1742562264,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19317,
+        "num": 20406,
+        "word": "孙颖莎对手才上小学六年级",
+        "onboard_time": 1742566163,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18536,
+        "num": 20404,
+        "word": "金秀贤山寨人生停播后还能上线吗",
+        "onboard_time": 1742568263,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18466,
+        "num": 20402,
+        "word": "日本插画小人",
+        "onboard_time": 1742581574,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 18017,
+        "num": 20402,
+        "word": "刘毅王昶无缘瑞士赛四强",
+        "onboard_time": 1742571262,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17720,
+        "num": 20400,
+        "word": "SEVENTEEN十周年回归预告",
+        "onboard_time": 1742569824,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17341,
+        "num": 20398,
+        "word": "司马南偷税被罚超900万",
+        "onboard_time": 1742523020,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记云贵之行#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742581951625,
+  "endTime": 1742582730483,
   "band_list": [
     {
       "raw_hot": 903376,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45798,
+      "num": 45798,
+      "word": "多地学校放春假",
+      "onboard_time": 1742579897,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 41905,
       "num": 41905,
       "word": "乘风破浪的姐姐",
@@ -411,8 +419,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40296,
-      "num": 28956,
+      "raw_hot": 41019,
+      "num": 31660,
       "word": "千禾0是商标在侮辱谁",
       "onboard_time": 1742578816,
       "rank": 31,
@@ -441,14 +449,6 @@
       "onboard_time": 1742569945,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 35464,
-      "num": 37490,
-      "word": "多地学校放春假",
-      "onboard_time": 1742579897,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 35229,
@@ -497,6 +497,14 @@
       "onboard_time": 1742581216,
       "rank": 46,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 18466,
+      "num": 20402,
+      "word": "日本插画小人",
+      "onboard_time": 1742581574,
+      "rank": 46,
+      "category": "动漫"
     }
   ],
   "hotgov_list": [
