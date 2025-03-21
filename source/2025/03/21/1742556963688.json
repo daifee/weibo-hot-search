@@ -1,0 +1,410 @@
+{
+  "runTime": 1742556963688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 692495,
+        "num": 1110799,
+        "word": "浪姐6喝点中药吧",
+        "onboard_time": 1742553621,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601083,
+        "num": 601083,
+        "word": "外交部提醒日本",
+        "onboard_time": 1742549661,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75674,
+        "num": 479937,
+        "word": "外交部发言人毛宁向世界推介西藏冰川",
+        "onboard_time": 1742552902,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432398,
+        "num": 432398,
+        "word": "王蓉 一公淘汰",
+        "onboard_time": 1742555721,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430292,
+        "num": 430292,
+        "word": "司马南回应偷税被罚超900万",
+        "onboard_time": 1742552602,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200423,
+        "num": 396594,
+        "word": "余承东回应PuraX价格争议",
+        "onboard_time": 1742554401,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 395248,
+        "num": 395248,
+        "word": "宋妍霏的造型师请出来挨夸",
+        "onboard_time": 1742552962,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238430,
+        "num": 321455,
+        "word": "张小婉 惊艳",
+        "onboard_time": 1742555121,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207631,
+        "num": 301589,
+        "word": "儿子尿毒症63岁母亲偷偷签字捐肾",
+        "onboard_time": 1742555182,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54573,
+        "num": 301215,
+        "word": "毛宁向世界推介西藏冰川",
+        "onboard_time": 1742556261,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300958,
+        "num": 300958,
+        "word": "孕妇羊水破裂13岁男孩成功助产",
+        "onboard_time": 1742541441,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272093,
+        "num": 272093,
+        "word": "女儿将婚母亲让遗产由女儿一人继承",
+        "onboard_time": 1742551581,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251191,
+        "num": 251191,
+        "word": "吴宣仪直播",
+        "onboard_time": 1742556202,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246318,
+        "num": 246318,
+        "word": "赵露思回复教取关教程网友谢谢",
+        "onboard_time": 1742526322,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190754,
+        "num": 231873,
+        "word": "浪姐",
+        "onboard_time": 1742556261,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223832,
+        "num": 223832,
+        "word": "婚后不久丈夫去世公婆起诉返还彩礼",
+        "onboard_time": 1742549302,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58846,
+        "num": 220491,
+        "word": "叶童也是奶茶脑袋",
+        "onboard_time": 1742552481,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217477,
+        "num": 217477,
+        "word": "全班39人都被抢走企业追着老师要人",
+        "onboard_time": 1742549720,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187564,
+        "num": 212200,
+        "word": "日本超10万网民抵制刺客信条影",
+        "onboard_time": 1742549781,
+        "rank": 18,
+        "category": "海外新闻,游戏"
+      },
+      {
+        "raw_hot": 211840,
+        "num": 211840,
+        "word": "张馨予今天体重54.7kg",
+        "onboard_time": 1742552361,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1563119,
+        "num": 211777,
+        "word": "罗予彤 断层",
+        "onboard_time": 1742551521,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 792336,
+        "num": 211620,
+        "word": "李嘉琦真的被低估了",
+        "onboard_time": 1742549781,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 778982,
+        "num": 211416,
+        "word": "93岁强奸不收押老人已无法自主行走",
+        "onboard_time": 1742547621,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56692,
+        "num": 211199,
+        "word": "九尾镜头下的春天",
+        "onboard_time": 1742556081,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119635,
+        "num": 211013,
+        "word": "阿维塔06全球首测ENCAP2026",
+        "onboard_time": 1742555902,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 210821,
+        "num": 210821,
+        "word": "李荣浩质问网易云",
+        "onboard_time": 1742538680,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192460,
+        "num": 210452,
+        "word": "司马南偷税被罚超900万",
+        "onboard_time": 1742523020,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297479,
+        "num": 208105,
+        "word": "李艺彤说SNH48只有鞠婧祎破圈",
+        "onboard_time": 1742547681,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248588,
+        "num": 207340,
+        "word": "不胖和很瘦的区别",
+        "onboard_time": 1742550441,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212287,
+        "num": 205801,
+        "word": "戚薇没认出第一名是李承铉",
+        "onboard_time": 1742556261,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243801,
+        "num": 204342,
+        "word": "中华环保联合会删除虞书欣相关",
+        "onboard_time": 1742546362,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203739,
+        "num": 203739,
+        "word": "Hanni曾主张被ILLIT成员嘲弄",
+        "onboard_time": 1742556562,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199513,
+        "num": 199513,
+        "word": "女子入职得知生娃奖10万果断再怀孕",
+        "onboard_time": 1742544382,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148208,
+        "num": 148208,
+        "word": "金秀贤方曾考虑给金赛纶遗属慰问金",
+        "onboard_time": 1742555842,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147651,
+        "num": 147651,
+        "word": "孙颖莎11比1王宣贻",
+        "onboard_time": 1742556081,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144377,
+        "num": 144377,
+        "word": "美媒曝滞留太空宇航员能拿多少补贴",
+        "onboard_time": 1742554941,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135092,
+        "num": 135092,
+        "word": "iPhone17系列模型曝光",
+        "onboard_time": 1742555302,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18435,
+        "num": 133884,
+        "word": "格力冰箱打造了食材最安稳的窝",
+        "onboard_time": 1742555902,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133839,
+        "num": 133839,
+        "word": "千禾味业股价连跌5天",
+        "onboard_time": 1742553142,
+        "rank": 38,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 128139,
+        "num": 128139,
+        "word": "李艺彤 这么多年都没红不可能翻红",
+        "onboard_time": 1742554701,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123312,
+        "num": 123312,
+        "word": "大肠发圈发型",
+        "onboard_time": 1742545760,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 61511,
+        "num": 121460,
+        "word": "陈丽君说要努力让流量更长久",
+        "onboard_time": 1742554941,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121118,
+        "num": 121118,
+        "word": "冯小刚电影官微回应赵丽颖争议",
+        "onboard_time": 1742546420,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115057,
+        "num": 115057,
+        "word": "蒋梦婕人脉",
+        "onboard_time": 1742543963,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110004,
+        "num": 110004,
+        "word": "余承东称问界M9智驾配置全球最高",
+        "onboard_time": 1742556441,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 108738,
+        "num": 108738,
+        "word": "卡琳娜 你们不要这样",
+        "onboard_time": 1742536161,
+        "rank": 45,
+        "category": "综艺,动漫"
+      },
+      {
+        "raw_hot": 103480,
+        "num": 103480,
+        "word": "JDG伞兵春季赛淘汰破百",
+        "onboard_time": 1742556081,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100665,
+        "num": 100665,
+        "word": "上山要带奶茶和草莓千层",
+        "onboard_time": 1742556801,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98676,
+        "num": 98676,
+        "word": "孙颖莎3比0王宣贻",
+        "onboard_time": 1742554161,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7135,
+        "num": 97510,
+        "word": "为何喜力可以稳居高端市场前列",
+        "onboard_time": 1742556863,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习近平总书记走进古城老街#"
+    }
+  }
+}

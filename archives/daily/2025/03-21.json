@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742556037271,
+  "endTime": 1742556963688,
   "band_list": [
     {
       "raw_hot": 3765482,
@@ -595,6 +595,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 432398,
+      "num": 432398,
+      "word": "王蓉 一公淘汰",
+      "onboard_time": 1742555721,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431771,
       "num": 345857,
       "word": "王玉雯把王安宇哄成胚胎了",
@@ -611,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395248,
+      "num": 395248,
+      "word": "宋妍霏的造型师请出来挨夸",
+      "onboard_time": 1742552962,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392594,
       "num": 392594,
       "word": "司马南曾痛批逃税网红",
@@ -624,14 +640,6 @@
       "word": "权志龙ins小号发文",
       "onboard_time": 1742535082,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 368680,
-      "num": 296107,
-      "word": "宋妍霏的造型师请出来挨夸",
-      "onboard_time": 1742552962,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -883,6 +891,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 251191,
+      "num": 251191,
+      "word": "吴宣仪直播",
+      "onboard_time": 1742556202,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249078,
       "num": 178093,
       "word": "面粉疑现老鼠秋田满满要求检测年龄",
@@ -929,6 +945,14 @@
       "onboard_time": 1742528961,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 238430,
+      "num": 321455,
+      "word": "张小婉 惊艳",
+      "onboard_time": 1742555121,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 233445,
@@ -1051,6 +1075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212287,
+      "num": 205801,
+      "word": "戚薇没认出第一名是李承铉",
+      "onboard_time": 1742556261,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209351,
       "num": 209351,
       "word": "学生买房给教授养老其家属却霸占房产",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1742548762,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 207631,
+      "num": 301589,
+      "word": "儿子尿毒症63岁母亲偷偷签字捐肾",
+      "onboard_time": 1742555182,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207165,
@@ -1107,6 +1147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203739,
+      "num": 203739,
+      "word": "Hanni曾主张被ILLIT成员嘲弄",
+      "onboard_time": 1742556562,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203253,
       "num": 203253,
       "word": "下周还有大降温",
@@ -1136,6 +1184,14 @@
       "word": "海尔周云杰胸针火了",
       "onboard_time": 1742530223,
       "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 200423,
+      "num": 396594,
+      "word": "余承东回应PuraX价格争议",
+      "onboard_time": 1742554401,
+      "rank": 16,
       "category": "数码"
     },
     {
@@ -1179,14 +1235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193506,
-      "num": 285119,
-      "word": "余承东回应PuraX价格争议",
-      "onboard_time": 1742554401,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 192587,
       "num": 192587,
       "word": "国际奥委会历史上首位女性主席",
@@ -1209,6 +1257,14 @@
       "onboard_time": 1742524401,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190754,
+      "num": 231873,
+      "word": "浪姐",
+      "onboard_time": 1742556261,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 186723,
@@ -1387,14 +1443,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 167663,
-      "num": 214933,
-      "word": "王蓉 一公淘汰",
-      "onboard_time": 1742555721,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167337,
       "num": 245022,
       "word": "退钱哥点评国足不敌沙特",
@@ -1440,14 +1488,6 @@
       "word": "李艺彤再现SNH48总决选冠军舞台",
       "onboard_time": 1742538201,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 164355,
-      "num": 205034,
-      "word": "张小婉 惊艳",
-      "onboard_time": 1742555121,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -1595,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148208,
+      "num": 148208,
+      "word": "金秀贤方曾考虑给金赛纶遗属慰问金",
+      "onboard_time": 1742555842,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147820,
       "num": 147820,
       "word": "张踩铃模仿老公的中式散装英语",
@@ -1608,6 +1656,14 @@
       "word": "国足直播",
       "onboard_time": 1742496135,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147651,
+      "num": 147651,
+      "word": "孙颖莎11比1王宣贻",
+      "onboard_time": 1742556081,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1665,6 +1721,14 @@
       "onboard_time": 1742546603,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144377,
+      "num": 286505,
+      "word": "美媒曝滞留太空宇航员能拿多少补贴",
+      "onboard_time": 1742554941,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 144215,
@@ -1787,6 +1851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 135092,
+      "num": 135092,
+      "word": "iPhone17系列模型曝光",
+      "onboard_time": 1742555302,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 135029,
       "num": 135029,
       "word": "孙颖莎3比0王宣贻",
@@ -1881,14 +1953,6 @@
       "onboard_time": 1742483183,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127548,
-      "num": 127548,
-      "word": "iPhone17系列模型曝光",
-      "onboard_time": 1742555302,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 127057,
@@ -1987,6 +2051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119635,
+      "num": 211013,
+      "word": "阿维塔06全球首测ENCAP2026",
+      "onboard_time": 1742555902,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 119601,
       "num": 120375,
       "word": "邓萃雯被吓到一秒入戏",
@@ -2083,14 +2155,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 112307,
-      "num": 112307,
-      "word": "阿维塔06全球首测ENCAP2026",
-      "onboard_time": 1742555902,
-      "rank": 46,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 111900,
       "num": 111900,
       "word": "沙特半场0比0国足",
@@ -2129,6 +2193,14 @@
       "onboard_time": 1742521580,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110004,
+      "num": 110004,
+      "word": "余承东称问界M9智驾配置全球最高",
+      "onboard_time": 1742556441,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 109989,
@@ -2187,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103480,
+      "num": 103480,
+      "word": "JDG伞兵春季赛淘汰破百",
+      "onboard_time": 1742556081,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102885,
       "num": 102885,
       "word": "马龙说王楚钦肯定是队伍一号",
@@ -2227,12 +2307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100576,
-      "num": 100576,
-      "word": "金秀贤方曾考虑给金赛纶遗属慰问金",
-      "onboard_time": 1742555842,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 100665,
+      "num": 100665,
+      "word": "上山要带奶茶和草莓千层",
+      "onboard_time": 1742556801,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 99093,
@@ -2467,6 +2547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 75674,
+      "num": 1063246,
+      "word": "外交部发言人毛宁向世界推介西藏冰川",
+      "onboard_time": 1742552902,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73856,
       "num": 285630,
       "word": "叶童也是奶茶脑袋",
@@ -2489,14 +2577,6 @@
       "onboard_time": 1742490138,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70627,
-      "num": 1063246,
-      "word": "外交部发言人毛宁向世界推介西藏冰川",
-      "onboard_time": 1742552902,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70074,
@@ -2587,6 +2667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61511,
+      "num": 283161,
+      "word": "陈丽君说要努力让流量更长久",
+      "onboard_time": 1742554941,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59904,
       "num": 131404,
       "word": "考文垂曾给樊振东青奥会颁过奖",
@@ -2635,6 +2723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56692,
+      "num": 211199,
+      "word": "九尾镜头下的春天",
+      "onboard_time": 1742556081,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56643,
       "num": 227088,
       "word": "夏以昼和我共鸣",
@@ -2657,6 +2753,14 @@
       "onboard_time": 1742551339,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54573,
+      "num": 301215,
+      "word": "毛宁向世界推介西藏冰川",
+      "onboard_time": 1742556261,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54513,
@@ -2737,22 +2841,6 @@
       "onboard_time": 1742552962,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49995,
-      "num": 278711,
-      "word": "儿子尿毒症63岁母亲偷偷签字捐肾",
-      "onboard_time": 1742555182,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49505,
-      "num": 286505,
-      "word": "美媒曝滞留太空宇航员能拿多少补贴",
-      "onboard_time": 1742554941,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 46628,
@@ -2849,14 +2937,6 @@
       "onboard_time": 1742543963,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 39575,
-      "num": 283161,
-      "word": "陈丽君说要努力让流量更长久",
-      "onboard_time": 1742554941,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 39082,
@@ -3051,6 +3131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18435,
+      "num": 133884,
+      "word": "格力冰箱打造了食材最安稳的窝",
+      "onboard_time": 1742555902,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 18248,
       "num": 124676,
       "word": "范志毅复盘国足战沙特",
@@ -3123,12 +3211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 7851,
-      "num": 121013,
-      "word": "格力冰箱打造了食材最安稳的窝",
-      "onboard_time": 1742555902,
-      "rank": 43,
-      "category": "数码"
+      "raw_hot": 7135,
+      "num": 97510,
+      "word": "为何喜力可以稳居高端市场前列",
+      "onboard_time": 1742556863,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 2735,
