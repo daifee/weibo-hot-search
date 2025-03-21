@@ -1,0 +1,410 @@
+{
+  "runTime": 1742553759645,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2041512,
+        "num": 2041512,
+        "word": "罗予彤 断层",
+        "onboard_time": 1742551521,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1090213,
+        "num": 1090213,
+        "word": "外交部提醒日本",
+        "onboard_time": 1742549661,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39110,
+        "num": 1063246,
+        "word": "外交部发言人毛宁向世界推介西藏冰川",
+        "onboard_time": 1742552902,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1046038,
+        "num": 1046038,
+        "word": "李嘉琦真的被低估了",
+        "onboard_time": 1742549781,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 735790,
+        "num": 735790,
+        "word": "司马南回应偷税被罚超900万",
+        "onboard_time": 1742552602,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636661,
+        "num": 636661,
+        "word": "日本超10万网民抵制刺客信条影",
+        "onboard_time": 1742549781,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 523247,
+        "num": 523247,
+        "word": "李艺彤说SNH48只有鞠婧祎破圈",
+        "onboard_time": 1742547681,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660782,
+        "num": 517405,
+        "word": "杨国福麻辣烫老鼠事件后续",
+        "onboard_time": 1742545701,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 335131,
+        "num": 335131,
+        "word": "大肠发圈发型",
+        "onboard_time": 1742545760,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 50451,
+        "num": 327130,
+        "word": "龙飞受贿案开庭",
+        "onboard_time": 1742552962,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 769119,
+        "num": 318199,
+        "word": "婚后不久丈夫去世公婆起诉返还彩礼",
+        "onboard_time": 1742549302,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496148,
+        "num": 303707,
+        "word": "孕妇羊水破裂13岁男孩成功助产",
+        "onboard_time": 1742541441,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453631,
+        "num": 291679,
+        "word": "女儿将婚母亲让遗产由女儿一人继承",
+        "onboard_time": 1742551581,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358755,
+        "num": 281337,
+        "word": "赵露思回复教取关教程网友谢谢",
+        "onboard_time": 1742526322,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274989,
+        "num": 274989,
+        "word": "编剧真分过手",
+        "onboard_time": 1742547621,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341741,
+        "num": 265549,
+        "word": "全班39人都被抢走企业追着老师要人",
+        "onboard_time": 1742549720,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73856,
+        "num": 254894,
+        "word": "叶童也是奶茶脑袋",
+        "onboard_time": 1742552481,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247751,
+        "num": 247751,
+        "word": "张馨予今天体重54.7kg",
+        "onboard_time": 1742552361,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107178,
+        "num": 247742,
+        "word": "千禾味业股价连跌5天",
+        "onboard_time": 1742553142,
+        "rank": 18,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 51321,
+        "num": 244334,
+        "word": "司马南偷税非漏税知法犯法",
+        "onboard_time": 1742553380,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271389,
+        "num": 241542,
+        "word": "冯小刚电影官微回应赵丽颖争议",
+        "onboard_time": 1742546420,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149692,
+        "num": 240559,
+        "word": "倪虹洁大漏勺",
+        "onboard_time": 1742552481,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28000,
+        "num": 237685,
+        "word": "张子枫向你隔空投送了一些狗生大片",
+        "onboard_time": 1742553442,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48499,
+        "num": 236290,
+        "word": "张杭就是真诚的快乐小狗",
+        "onboard_time": 1742551881,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 882092,
+        "num": 234295,
+        "word": "93岁强奸不收押老人已无法自主行走",
+        "onboard_time": 1742547621,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380793,
+        "num": 232171,
+        "word": "王珞丹 别问了",
+        "onboard_time": 1742534842,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302254,
+        "num": 228234,
+        "word": "不胖和很瘦的区别",
+        "onboard_time": 1742550441,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227751,
+        "num": 227751,
+        "word": "宋妍霏的造型师请出来挨夸",
+        "onboard_time": 1742552962,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81011,
+        "num": 224905,
+        "word": "孙颖莎vs隋笑然",
+        "onboard_time": 1742552782,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21768,
+        "num": 223177,
+        "word": "起底碳排放管理员证书包装术",
+        "onboard_time": 1742553442,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 222797,
+        "num": 222797,
+        "word": "卡琳娜 你们不要这样",
+        "onboard_time": 1742536161,
+        "rank": 30,
+        "category": "综艺,动漫"
+      },
+      {
+        "raw_hot": 373495,
+        "num": 220609,
+        "word": "中华环保联合会删除虞书欣相关",
+        "onboard_time": 1742546362,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231200,
+        "num": 218829,
+        "word": "女子入职得知生娃奖10万果断再怀孕",
+        "onboard_time": 1742544382,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225238,
+        "num": 217385,
+        "word": "乐言承认与周淑怡恋情",
+        "onboard_time": 1742529562,
+        "rank": 33,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 210714,
+        "num": 210714,
+        "word": "蒋梦婕人脉",
+        "onboard_time": 1742543963,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209635,
+        "num": 209635,
+        "word": "李荣浩质问网易云",
+        "onboard_time": 1742538680,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209176,
+        "num": 209176,
+        "word": "酸奶碗",
+        "onboard_time": 1742548762,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16747,
+        "num": 206709,
+        "word": "如何防护圆柏花粉",
+        "onboard_time": 1742553741,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19993,
+        "num": 206681,
+        "word": "小朋友也喜欢穿联名",
+        "onboard_time": 1742551822,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 206679,
+        "num": 206679,
+        "word": "浪姐6喝点中药吧",
+        "onboard_time": 1742553621,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161965,
+        "num": 161965,
+        "word": "宋妍霏红包",
+        "onboard_time": 1742550802,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156160,
+        "num": 156160,
+        "word": "时代少年团非去不可",
+        "onboard_time": 1742553021,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151079,
+        "num": 151079,
+        "word": "余承东感谢网友批评",
+        "onboard_time": 1742552062,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146279,
+        "num": 146279,
+        "word": "李钟硕回春了",
+        "onboard_time": 1742540541,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138828,
+        "num": 138828,
+        "word": "汤唯南京",
+        "onboard_time": 1742549600,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129711,
+        "num": 129711,
+        "word": "警方通报景德镇游客手机被偷",
+        "onboard_time": 1742547802,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 120571,
+        "num": 120571,
+        "word": "法院禁止newjeans独立活动",
+        "onboard_time": 1742534842,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119340,
+        "num": 119340,
+        "word": "蔚来第四季度营收197亿元",
+        "onboard_time": 1742553502,
+        "rank": 47,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 117987,
+        "num": 117987,
+        "word": "山西订婚强奸案下周二开庭",
+        "onboard_time": 1742550082,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113823,
+        "num": 113823,
+        "word": "赵丽颖一人集齐二十四节气",
+        "onboard_time": 1742553322,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记赴贵州云南考察纪实#"
+    }
+  }
+}
