@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742574620173,
+  "endTime": 1742575579437,
   "band_list": [
     {
       "raw_hot": 903376,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 552808,
-      "num": 552808,
+      "raw_hot": 663024,
+      "num": 663024,
       "word": "婚姻登记条例修订草案审议通过",
       "onboard_time": 1742572463,
       "rank": 1,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 450099,
+      "num": 450099,
+      "word": "吴宣仪连麦了13个人",
+      "onboard_time": 1742571801,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 435530,
       "num": 127307,
       "word": "罗予彤 断层",
@@ -49,14 +57,6 @@
       "onboard_time": 1742547621,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 316033,
-      "num": 316033,
-      "word": "吴宣仪连麦了13个人",
-      "onboard_time": 1742571801,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 304278,
@@ -83,20 +83,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 263038,
+      "num": 263038,
+      "word": "乌克兰不再被邀请加入北约",
+      "onboard_time": 1742572280,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 256598,
+      "num": 256598,
+      "word": "让李荣浩发飙的NFC到底是啥",
+      "onboard_time": 1742572222,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244527,
       "num": 244527,
       "word": "全国首个咖啡本科专业有多香",
       "onboard_time": 1742567604,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 243031,
-      "num": 243031,
-      "word": "乌克兰不再被邀请加入北约",
-      "onboard_time": 1742572280,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 233951,
@@ -115,12 +123,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221937,
-      "num": 221937,
-      "word": "让李荣浩发飙的NFC到底是啥",
-      "onboard_time": 1742572222,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 230463,
+      "num": 230463,
+      "word": "孙海洋称有人出价百万提供寻子线索",
+      "onboard_time": 1742574021,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221850,
@@ -137,6 +145,14 @@
       "onboard_time": 1742569344,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202696,
+      "num": 202696,
+      "word": "地窝堡机场已正式改名",
+      "onboard_time": 1742572341,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199025,
@@ -161,14 +177,6 @@
       "onboard_time": 1742559982,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164434,
-      "num": 164434,
-      "word": "地窝堡机场已正式改名",
-      "onboard_time": 1742572341,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134610,
@@ -235,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104403,
+      "num": 104403,
+      "word": "刘毅王昶无缘瑞士赛四强",
+      "onboard_time": 1742571262,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98899,
       "num": 98899,
       "word": "李艺彤 这么多年都没红不可能翻红",
@@ -249,14 +265,6 @@
       "onboard_time": 1742565983,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89975,
-      "num": 89975,
-      "word": "刘毅王昶无缘瑞士赛四强",
-      "onboard_time": 1742571262,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 85184,
@@ -299,6 +307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70224,
+      "num": 70224,
+      "word": "司马南偷税被罚超900万",
+      "onboard_time": 1742523020,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69268,
       "num": 69268,
       "word": "孙颖莎对手才上小学六年级",
@@ -339,28 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62204,
-      "num": 112875,
-      "word": "孙海洋称有人出价百万提供寻子线索",
-      "onboard_time": 1742574021,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60518,
       "num": 64419,
       "word": "田曦薇逐玉杀青捧花照",
       "onboard_time": 1742559502,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59411,
-      "num": 64404,
-      "word": "司马南偷税被罚超900万",
-      "onboard_time": 1742523020,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54424,
@@ -379,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50081,
+      "num": 50081,
+      "word": "王俊凯小时候同款小嘚瑟",
+      "onboard_time": 1742563043,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37422,
       "num": 125122,
       "word": "京城大师赛",
@@ -395,7 +403,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21368,
+      "raw_hot": 26683,
+      "num": 122463,
+      "word": "孙颖莎听到小孩姐目标拿3分笑了",
+      "onboard_time": 1742567004,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23694,
       "num": 201691,
       "word": "车管所周边黄牛买卖驾照分公然拉客",
       "onboard_time": 1742573721,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#跟着总书记探寻古城老街文韵#"
+    },
+    {
+      "word": "#习近平总书记云贵之行#"
     }
   ]
 }
