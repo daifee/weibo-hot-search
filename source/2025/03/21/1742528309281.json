@@ -1,0 +1,410 @@
+{
+  "runTime": 1742528309281,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1995867,
+        "num": 1995867,
+        "word": "司马南偷税被罚超900万",
+        "onboard_time": 1742523020,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1182316,
+        "num": 1182316,
+        "word": "哪吒2延长上映至4月30日",
+        "onboard_time": 1742525902,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2133,
+        "num": 472532,
+        "word": "高质量发展中国行",
+        "onboard_time": 1742390005,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472127,
+        "num": 472127,
+        "word": "落水人员称丁禹兮是超级英雄",
+        "onboard_time": 1742522420,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465704,
+        "num": 465704,
+        "word": "公公给儿媳的陪嫁猫做三层榫卯床",
+        "onboard_time": 1742516660,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376171,
+        "num": 376171,
+        "word": "急急如律令是啥意思",
+        "onboard_time": 1742521520,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372959,
+        "num": 372959,
+        "word": "长期碎片化睡眠易得焦虑症抑郁症",
+        "onboard_time": 1742526440,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 345392,
+        "num": 345392,
+        "word": "王玉雯把王安宇哄成胚胎了",
+        "onboard_time": 1742526621,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280032,
+        "num": 280032,
+        "word": "哪吒2放映再延1个月",
+        "onboard_time": 1742526860,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47635,
+        "num": 279993,
+        "word": "我国超过3亿人有睡眠障碍",
+        "onboard_time": 1742527821,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1538234,
+        "num": 279743,
+        "word": "赵露思回复教取关教程网友谢谢",
+        "onboard_time": 1742526322,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442172,
+        "num": 279521,
+        "word": "女子高价卖出发霉变绿的橘子",
+        "onboard_time": 1742526081,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286370,
+        "num": 279374,
+        "word": "阚清子今早体重55.8kg",
+        "onboard_time": 1742520921,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279314,
+        "num": 279314,
+        "word": "韩安冉 长记性了没下次了",
+        "onboard_time": 1742518941,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33615,
+        "num": 275424,
+        "word": "国足称依然有希望晋级世界杯",
+        "onboard_time": 1742527582,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362801,
+        "num": 273866,
+        "word": "官方通报湖大一女生失联",
+        "onboard_time": 1742522240,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 271710,
+        "num": 271710,
+        "word": "孙乐言说涂毓麟非常会做饭",
+        "onboard_time": 1742526981,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254727,
+        "num": 254727,
+        "word": "货车不慎将答题卡散落一地",
+        "onboard_time": 1742516361,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 704428,
+        "num": 253088,
+        "word": "赵露思 要化爱化化一辈子",
+        "onboard_time": 1742514019,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23642,
+        "num": 244371,
+        "word": "智搜DS评国足再输沙特",
+        "onboard_time": 1742527462,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 629588,
+        "num": 232787,
+        "word": "重庆大哥在网上炒了4000万次空心菜",
+        "onboard_time": 1742524461,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261372,
+        "num": 224047,
+        "word": "赵丽颖高月香为姐妹拔刀",
+        "onboard_time": 1742527462,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217524,
+        "num": 217524,
+        "word": "985研究生退学摆摊日入700元",
+        "onboard_time": 1742485882,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207165,
+        "num": 207165,
+        "word": "人类首个世界冰川日",
+        "onboard_time": 1742525902,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203014,
+        "num": 203014,
+        "word": "被提醒后鲁豫再也不说处女作",
+        "onboard_time": 1742526981,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196099,
+        "num": 196099,
+        "word": "陈都灵看到了看到了",
+        "onboard_time": 1742524580,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194217,
+        "num": 194217,
+        "word": "我们的爸爸",
+        "onboard_time": 1742527939,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187368,
+        "num": 187368,
+        "word": "周雨彤有种血气充足的美",
+        "onboard_time": 1742527100,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169277,
+        "num": 169277,
+        "word": "杭州六小龙创始人谈卖英伟达股票创业",
+        "onboard_time": 1742527821,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164730,
+        "num": 164730,
+        "word": "西双版纳偶遇宋浩然韩安冉",
+        "onboard_time": 1742520081,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44197,
+        "num": 152457,
+        "word": "无限暖暖妄想季",
+        "onboard_time": 1742528002,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151970,
+        "num": 151970,
+        "word": "王一博为保护冰川发声",
+        "onboard_time": 1742526921,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150654,
+        "num": 150654,
+        "word": "作者回应玉盘是否为战歌",
+        "onboard_time": 1742518581,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149530,
+        "num": 149530,
+        "word": "林一 身体已经恢复了很多",
+        "onboard_time": 1742527520,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148871,
+        "num": 148871,
+        "word": "王楚钦vs刁子育",
+        "onboard_time": 1742524401,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146057,
+        "num": 146057,
+        "word": "男子多次冒充员工参加年会领奖被拘",
+        "onboard_time": 1742521701,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140354,
+        "num": 140354,
+        "word": "金秀贤方要公开金赛纶行踪",
+        "onboard_time": 1742517501,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135817,
+        "num": 135817,
+        "word": "下周还有大降温",
+        "onboard_time": 1742525240,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134480,
+        "num": 134480,
+        "word": "雄鹿vs湖人",
+        "onboard_time": 1742527881,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181219,
+        "num": 133909,
+        "word": "赵丽颖实力演绎善良的坏女孩",
+        "onboard_time": 1742526621,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132694,
+        "num": 132694,
+        "word": "王楚钦3比0刁子育",
+        "onboard_time": 1742527222,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132289,
+        "num": 132289,
+        "word": "张百乔晒和王楚钦合照",
+        "onboard_time": 1742522901,
+        "rank": 41,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 131673,
+        "num": 131673,
+        "word": "哪吒2春暖花开继续相见",
+        "onboard_time": 1742526021,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131048,
+        "num": 131048,
+        "word": "金秀贤方面准备道歉",
+        "onboard_time": 1742461822,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126663,
+        "num": 126663,
+        "word": "家属回应湖大失联女生离世",
+        "onboard_time": 1742525301,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124020,
+        "num": 124020,
+        "word": "年轻人的ootd比天气先回暖",
+        "onboard_time": 1742527161,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120028,
+        "num": 120028,
+        "word": "Bin自我反省",
+        "onboard_time": 1742527100,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119508,
+        "num": 119508,
+        "word": "沙特1比0国足",
+        "onboard_time": 1742502074,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110858,
+        "num": 110858,
+        "word": "国足输球成一种文化现象",
+        "onboard_time": 1742522780,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110125,
+        "num": 110125,
+        "word": "男子瞒着子女转80%房产给再婚妻子",
+        "onboard_time": 1742519061,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中国式现代化进程中开创云南发展新局面#"
+    }
+  }
+}

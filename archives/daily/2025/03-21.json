@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742526688093,
+  "endTime": 1742528309281,
   "band_list": [
     {
       "raw_hot": 3765482,
@@ -25,6 +25,22 @@
       "onboard_time": 1742455462,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1538234,
+      "num": 279743,
+      "word": "赵露思回复教取关教程网友谢谢",
+      "onboard_time": 1742526322,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1182316,
+      "num": 1182316,
+      "word": "哪吒2延长上映至4月30日",
+      "onboard_time": 1742525902,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 1052795,
@@ -115,12 +131,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 639003,
-      "num": 228288,
-      "word": "赵露思回复教取关教程网友谢谢",
-      "onboard_time": 1742526322,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 629588,
+      "num": 492442,
+      "word": "重庆大哥在网上炒了4000万次空心菜",
+      "onboard_time": 1742524461,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 622281,
@@ -187,20 +203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 492442,
-      "num": 492442,
-      "word": "重庆大哥在网上炒了4000万次空心菜",
-      "onboard_time": 1742524461,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 453145,
       "num": 192943,
       "word": "疑似王一博离开乐华",
       "onboard_time": 1742476523,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442172,
+      "num": 279521,
+      "word": "女子高价卖出发霉变绿的橘子",
+      "onboard_time": 1742526081,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 438608,
@@ -219,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372959,
+      "num": 372959,
+      "word": "长期碎片化睡眠易得焦虑症抑郁症",
+      "onboard_time": 1742526440,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 355988,
       "num": 355988,
       "word": "黄子弘凡被收录进IFPI案例",
@@ -227,12 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 349098,
-      "num": 349098,
-      "word": "哪吒2延长上映至4月30日",
-      "onboard_time": 1742525902,
-      "rank": 15,
-      "category": "电影"
+      "raw_hot": 345392,
+      "num": 345392,
+      "word": "王玉雯把王安宇哄成胚胎了",
+      "onboard_time": 1742526621,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 309814,
@@ -267,6 +291,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 280032,
+      "num": 280032,
+      "word": "哪吒2放映再延1个月",
+      "onboard_time": 1742526860,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 271710,
+      "num": 271710,
+      "word": "孙乐言说涂毓麟非常会做饭",
+      "onboard_time": 1742526981,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267481,
       "num": 232279,
       "word": "女生陪同领导出差遭客户猥亵",
@@ -289,6 +329,14 @@
       "onboard_time": 1742461822,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261372,
+      "num": 224047,
+      "word": "赵丽颖高月香为姐妹拔刀",
+      "onboard_time": 1742527462,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 256091,
@@ -347,14 +395,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 243382,
-      "num": 167123,
-      "word": "女子高价卖出发霉变绿的橘子",
-      "onboard_time": 1742526081,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227748,
       "num": 227748,
       "word": "林良铭直红",
@@ -403,6 +443,38 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207165,
+      "num": 207165,
+      "word": "人类首个世界冰川日",
+      "onboard_time": 1742525902,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203014,
+      "num": 203014,
+      "word": "被提醒后鲁豫再也不说处女作",
+      "onboard_time": 1742526981,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196099,
+      "num": 196099,
+      "word": "陈都灵看到了看到了",
+      "onboard_time": 1742524580,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194217,
+      "num": 194217,
+      "word": "我们的爸爸",
+      "onboard_time": 1742527939,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192587,
       "num": 192587,
       "word": "国际奥委会历史上首位女性主席",
@@ -427,12 +499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187368,
+      "num": 187368,
+      "word": "周雨彤有种血气充足的美",
+      "onboard_time": 1742527100,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183554,
       "num": 244353,
       "word": "Leader懒人洗衣机能洗鞋了",
       "onboard_time": 1742521520,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181219,
+      "num": 133909,
+      "word": "赵丽颖实力演绎善良的坏女孩",
+      "onboard_time": 1742526621,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 179528,
@@ -467,6 +555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169277,
+      "num": 169277,
+      "word": "杭州六小龙创始人谈卖英伟达股票创业",
+      "onboard_time": 1742527821,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 167337,
       "num": 245022,
       "word": "退钱哥点评国足不敌沙特",
@@ -483,20 +579,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 157610,
-      "num": 157610,
-      "word": "人类首个世界冰川日",
-      "onboard_time": 1742525902,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156258,
       "num": 156258,
       "word": "华为 刘亦菲",
       "onboard_time": 1742463382,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151970,
+      "num": 151970,
+      "word": "王一博为保护冰川发声",
+      "onboard_time": 1742526921,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149530,
+      "num": 149530,
+      "word": "林一 身体已经恢复了很多",
+      "onboard_time": 1742527520,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 147768,
@@ -531,14 +635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145107,
-      "num": 182433,
-      "word": "陈都灵看到了看到了",
-      "onboard_time": 1742524580,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142805,
       "num": 142805,
       "word": "孩子考了100妈妈兑现承诺买小狗",
@@ -571,6 +667,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135817,
+      "num": 135817,
+      "word": "下周还有大降温",
+      "onboard_time": 1742525240,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134480,
+      "num": 134480,
+      "word": "雄鹿vs湖人",
+      "onboard_time": 1742527881,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134359,
       "num": 134359,
       "word": "景德镇被偷手机当事人发声",
@@ -579,20 +691,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132694,
+      "num": 132694,
+      "word": "王楚钦3比0刁子育",
+      "onboard_time": 1742527222,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132289,
+      "num": 132289,
+      "word": "张百乔晒和王楚钦合照",
+      "onboard_time": 1742522901,
+      "rank": 36,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 130433,
       "num": 130433,
       "word": "A股",
       "onboard_time": 1742523681,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 129460,
-      "num": 129460,
-      "word": "张百乔晒和王楚钦合照",
-      "onboard_time": 1742522901,
-      "rank": 36,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 127841,
@@ -619,12 +739,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126663,
+      "num": 409132,
+      "word": "家属回应湖大失联女生离世",
+      "onboard_time": 1742525301,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125461,
       "num": 203671,
       "word": "杜华问你配吗",
       "onboard_time": 1742476462,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124020,
+      "num": 124020,
+      "word": "年轻人的ootd比天气先回暖",
+      "onboard_time": 1742527161,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120459,
@@ -635,28 +771,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120028,
+      "num": 120028,
+      "word": "Bin自我反省",
+      "onboard_time": 1742527100,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118404,
       "num": 118404,
       "word": "国王要醒了",
       "onboard_time": 1742477303,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115358,
-      "num": 115358,
-      "word": "下周还有大降温",
-      "onboard_time": 1742525240,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115229,
-      "num": 115229,
-      "word": "赵丽颖实力演绎善良的坏女孩",
-      "onboard_time": 1742526621,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 111900,
@@ -675,20 +803,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110858,
+      "num": 110858,
+      "word": "国足输球成一种文化现象",
+      "onboard_time": 1742522780,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110378,
       "num": 110378,
       "word": "被动熬夜如何提高睡眠质量",
       "onboard_time": 1742521580,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 108400,
-      "num": 108400,
-      "word": "王玉雯把王安宇哄成胚胎了",
-      "onboard_time": 1742526621,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 107480,
@@ -745,14 +873,6 @@
       "onboard_time": 1742520201,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99569,
-      "num": 409132,
-      "word": "家属回应湖大失联女生离世",
-      "onboard_time": 1742525301,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99093,
@@ -848,14 +968,6 @@
       "word": "林高远vs龙屹",
       "onboard_time": 1742525001,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 82629,
-      "num": 82629,
-      "word": "国足输球成一种文化现象",
-      "onboard_time": 1742522780,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -1059,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47635,
+      "num": 279993,
+      "word": "我国超过3亿人有睡眠障碍",
+      "onboard_time": 1742527821,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 46628,
       "num": 46628,
       "word": "李晟黑衣红唇好飒",
@@ -1073,6 +1193,14 @@
       "onboard_time": 1742518822,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44197,
+      "num": 152457,
+      "word": "无限暖暖妄想季",
+      "onboard_time": 1742528002,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 44154,
@@ -1123,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33615,
+      "num": 275424,
+      "word": "国足称依然有希望晋级世界杯",
+      "onboard_time": 1742527582,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32883,
       "num": 56734,
       "word": "宋亚轩晒好多自拍",
@@ -1160,6 +1296,14 @@
       "word": "国足小组排名依旧垫底",
       "onboard_time": 1742511618,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23642,
+      "num": 244371,
+      "word": "智搜DS评国足再输沙特",
+      "onboard_time": 1742527462,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -1219,14 +1363,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 16078,
-      "num": 145253,
-      "word": "长期碎片化睡眠易得焦虑症抑郁症",
-      "onboard_time": 1742526440,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 15654,
       "num": 25134,
       "word": "多地推进落实中小学双休制观察",
@@ -1249,6 +1385,14 @@
       "onboard_time": 1742499914,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2133,
+      "num": 472532,
+      "word": "高质量发展中国行",
+      "onboard_time": 1742390005,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
