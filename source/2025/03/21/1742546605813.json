@@ -1,0 +1,410 @@
+{
+  "runTime": 1742546605813,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1231212,
+        "num": 1231212,
+        "word": "孕妇羊水破裂13岁男孩成功助产",
+        "onboard_time": 1742541441,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 721350,
+        "num": 721350,
+        "word": "蒋梦婕人脉",
+        "onboard_time": 1742543963,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39252,
+        "num": 665415,
+        "word": "这六大服务消费领域增长潜力广阔",
+        "onboard_time": 1742530401,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659555,
+        "num": 659555,
+        "word": "发霉橘子标价500元究竟谁在买",
+        "onboard_time": 1742540661,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389399,
+        "num": 389399,
+        "word": "周五的含金量在此刻达到顶峰",
+        "onboard_time": 1742532083,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1154042,
+        "num": 384496,
+        "word": "王珞丹 别问了",
+        "onboard_time": 1742534842,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635304,
+        "num": 379860,
+        "word": "韩庚 死嘴快说啊",
+        "onboard_time": 1742541982,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503419,
+        "num": 379118,
+        "word": "张晚意赵露思或将出演大汉赋",
+        "onboard_time": 1742543901,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368702,
+        "num": 368702,
+        "word": "司马南偷税被罚超900万",
+        "onboard_time": 1742523020,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252663,
+        "num": 252663,
+        "word": "王腾 手机在什么价位是人人买得起的",
+        "onboard_time": 1742543840,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1611950,
+        "num": 251462,
+        "word": "刘强东朋友圈发声",
+        "onboard_time": 1742541020,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 603308,
+        "num": 247325,
+        "word": "李荣浩质问网易云",
+        "onboard_time": 1742538680,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 487893,
+        "num": 244032,
+        "word": "赵露思回复教取关教程网友谢谢",
+        "onboard_time": 1742526322,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480237,
+        "num": 242613,
+        "word": "李钟硕回春了",
+        "onboard_time": 1742540541,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395893,
+        "num": 238465,
+        "word": "联合国新闻中心发王一博",
+        "onboard_time": 1742538500,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361248,
+        "num": 234799,
+        "word": "乐言承认与周淑怡恋情",
+        "onboard_time": 1742529562,
+        "rank": 15,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 148474,
+        "num": 234032,
+        "word": "开AMG的Kimi太帅了",
+        "onboard_time": 1742542941,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 354885,
+        "num": 229569,
+        "word": "卡琳娜 你们不要这样",
+        "onboard_time": 1742536161,
+        "rank": 17,
+        "category": "综艺,动漫"
+      },
+      {
+        "raw_hot": 89124,
+        "num": 225207,
+        "word": "太乙真人成都地铁分乙",
+        "onboard_time": 1742546181,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267117,
+        "num": 223721,
+        "word": "法院禁止newjeans独立活动",
+        "onboard_time": 1742534842,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601903,
+        "num": 219266,
+        "word": "女子入职得知生娃奖10万果断再怀孕",
+        "onboard_time": 1742544382,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218974,
+        "num": 218974,
+        "word": "杨国福麻辣烫老鼠事件后续",
+        "onboard_time": 1742545701,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 207217,
+        "num": 207217,
+        "word": "怎么区分杏花桃花梨花",
+        "onboard_time": 1742539281,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197545,
+        "num": 197545,
+        "word": "王珞丹祝绪丹 姐狗",
+        "onboard_time": 1742534241,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170037,
+        "num": 170037,
+        "word": "哪吒2延长上映至4月30日",
+        "onboard_time": 1742525902,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159236,
+        "num": 159236,
+        "word": "F1",
+        "onboard_time": 1742545160,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157740,
+        "num": 157740,
+        "word": "外交部回应韩国计划对中国团体旅客免签",
+        "onboard_time": 1742544981,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152536,
+        "num": 152536,
+        "word": "赵雅芝 CC在我心里你永远是NO1",
+        "onboard_time": 1742544741,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87211,
+        "num": 152522,
+        "word": "肖央新片被公司逼疯算工伤吗",
+        "onboard_time": 1742545281,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33324,
+        "num": 152458,
+        "word": "沧元图",
+        "onboard_time": 1742538500,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 194251,
+        "num": 152405,
+        "word": "大肠发圈发型",
+        "onboard_time": 1742545760,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 183464,
+        "num": 152356,
+        "word": "祝绪丹海风中舞扇好仙",
+        "onboard_time": 1742546362,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147751,
+        "num": 152250,
+        "word": "跳舞减肥越跳越瘦",
+        "onboard_time": 1742544140,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 174858,
+        "num": 152215,
+        "word": "中华环保联合会删除虞书欣相关",
+        "onboard_time": 1742546362,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152191,
+        "num": 152191,
+        "word": "庄寒雁含泪掐脖周姨娘",
+        "onboard_time": 1742545940,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150308,
+        "num": 150308,
+        "word": "韩安冉说韦雪清醒",
+        "onboard_time": 1742541862,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144887,
+        "num": 144887,
+        "word": "NJZ回应不能独立活动",
+        "onboard_time": 1742546301,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140241,
+        "num": 140241,
+        "word": "冯小刚官微回应赵丽颖争议",
+        "onboard_time": 1742546420,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136921,
+        "num": 136921,
+        "word": "学生买房给教授养老其家属却霸占房产",
+        "onboard_time": 1742540362,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134063,
+        "num": 134063,
+        "word": "英国希思罗机场关闭",
+        "onboard_time": 1742544321,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127632,
+        "num": 127632,
+        "word": "谢娜说蒋梦婕变落魄林黛玉",
+        "onboard_time": 1742542341,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126400,
+        "num": 126400,
+        "word": "欧盟援乌400亿变50亿",
+        "onboard_time": 1742544262,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123447,
+        "num": 123447,
+        "word": "演员王凯喜提新身份",
+        "onboard_time": 1742532443,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45881,
+        "num": 122015,
+        "word": "用户脑洞竟被甲方做出来了",
+        "onboard_time": 1742545820,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37852,
+        "num": 120958,
+        "word": "衣服是穿坏的还是洗坏的",
+        "onboard_time": 1742542701,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127011,
+        "num": 120903,
+        "word": "曹颖问谢娜要张杰演唱会门票",
+        "onboard_time": 1742541500,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120827,
+        "num": 120827,
+        "word": "天坛公园回应花粉爆发称已雾化喷水",
+        "onboard_time": 1742542222,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116525,
+        "num": 116525,
+        "word": "国足再输澳大利亚队将无缘直升世界杯",
+        "onboard_time": 1742543781,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115311,
+        "num": 115311,
+        "word": "女子接陌生电话95万积蓄被转走",
+        "onboard_time": 1742540779,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113333,
+        "num": 113333,
+        "word": "司马南曾痛批逃税网红",
+        "onboard_time": 1742537541,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习近平总书记打卡丽江古城#"
+    }
+  }
+}

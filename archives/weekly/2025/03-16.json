@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742545802104,
+  "endTime": 1742546605813,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -2379,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 721350,
+      "num": 721350,
+      "word": "蒋梦婕人脉",
+      "onboard_time": 1742543963,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 720884,
       "num": 368493,
       "word": "北京环球影城",
@@ -2880,6 +2888,14 @@
       "word": "女子线雕手术三年后脸上钻出一根线",
       "onboard_time": 1742464523,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 601903,
+      "num": 406003,
+      "word": "女子入职得知生娃奖10万果断再怀孕",
+      "onboard_time": 1742544382,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -3547,6 +3563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 503419,
+      "num": 404891,
+      "word": "张晚意赵露思或将出演大汉赋",
+      "onboard_time": 1742543901,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 503313,
       "num": 375948,
       "word": "阚清子今早体重55.8kg",
@@ -3625,14 +3649,6 @@
       "onboard_time": 1742049693,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 491310,
-      "num": 406003,
-      "word": "女子入职得知生娃奖10万果断再怀孕",
-      "onboard_time": 1742544382,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 491130,
@@ -4035,14 +4051,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 433842,
-      "num": 433842,
-      "word": "蒋梦婕人脉",
-      "onboard_time": 1742543963,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 433555,
       "num": 433555,
       "word": "韩庚说不能比卢靖姗先离世",
@@ -4137,14 +4145,6 @@
       "onboard_time": 1742114842,
       "rank": 25,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 424778,
-      "num": 404891,
-      "word": "张晚意赵露思或将出演大汉赋",
-      "onboard_time": 1742543901,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 424179,
@@ -6187,6 +6187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252663,
+      "num": 252663,
+      "word": "王腾 手机在什么价位是人人买得起的",
+      "onboard_time": 1742543840,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 252440,
       "num": 298077,
       "word": "霍思燕说珍珠是我们的护身符",
@@ -6723,14 +6731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233997,
-      "num": 233997,
-      "word": "王腾 手机在什么价位是人人买得起的",
-      "onboard_time": 1742543840,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 233724,
       "num": 233724,
       "word": "周杰伦在周杰伦模仿大赛得了第二名",
@@ -7241,6 +7241,14 @@
       "onboard_time": 1742544741,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218974,
+      "num": 218974,
+      "word": "杨国福麻辣烫老鼠事件后续",
+      "onboard_time": 1742545701,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 218769,
@@ -8579,6 +8587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194251,
+      "num": 152405,
+      "word": "大肠发圈发型",
+      "onboard_time": 1742545760,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 194227,
       "num": 194227,
       "word": "孟子义不想去浪姐出洋相",
@@ -9299,6 +9315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183464,
+      "num": 152356,
+      "word": "祝绪丹海风中舞扇好仙",
+      "onboard_time": 1742546362,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183167,
       "num": 279585,
       "word": "夜间看得清才是真哨兵",
@@ -9785,6 +9809,14 @@
       "onboard_time": 1742478623,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 174858,
+      "num": 152215,
+      "word": "中华环保联合会删除虞书欣相关",
+      "onboard_time": 1742546362,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 174761,
@@ -10851,6 +10883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157740,
+      "num": 421748,
+      "word": "外交部回应韩国计划对中国团体旅客免签",
+      "onboard_time": 1742544981,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157727,
       "num": 189595,
       "word": "陈都灵你的螂来了",
@@ -11195,6 +11235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152191,
+      "num": 152191,
+      "word": "庄寒雁含泪掐脖周姨娘",
+      "onboard_time": 1742545940,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152019,
       "num": 152019,
       "word": "贴吧崩了",
@@ -11457,6 +11505,14 @@
       "onboard_time": 1742117303,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148474,
+      "num": 409869,
+      "word": "开AMG的Kimi太帅了",
+      "onboard_time": 1742542941,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 148372,
@@ -11824,6 +11880,14 @@
       "word": "赵露思给工作人员送生日惊喜",
       "onboard_time": 1742166440,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144887,
+      "num": 144887,
+      "word": "NJZ回应不能独立活动",
+      "onboard_time": 1742546301,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -12216,6 +12280,14 @@
       "word": "汪苏泷直播",
       "onboard_time": 1742450662,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140241,
+      "num": 140241,
+      "word": "冯小刚官微回应赵丽颖争议",
+      "onboard_time": 1742546420,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -12675,6 +12747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134063,
+      "num": 134063,
+      "word": "英国希思罗机场关闭",
+      "onboard_time": 1742544321,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 133969,
       "num": 655778,
       "word": "维多利亚港郑州分港",
@@ -12833,14 +12913,6 @@
       "onboard_time": 1742341639,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131644,
-      "num": 131644,
-      "word": "英国希思罗机场关闭",
-      "onboard_time": 1742544321,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 131589,
@@ -13467,14 +13539,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 123503,
-      "num": 123503,
-      "word": "大肠发圈发型",
-      "onboard_time": 1742545760,
-      "rank": 47,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 123471,
       "num": 281939,
       "word": "韩国军用无人机和直升机相撞",
@@ -13921,14 +13985,6 @@
       "onboard_time": 1742225064,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116535,
-      "num": 421748,
-      "word": "外交部回应韩国计划对中国团体旅客免签",
-      "onboard_time": 1742544981,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 116217,
@@ -14747,14 +14803,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 101786,
-      "num": 409869,
-      "word": "开AMG的Kimi太帅了",
-      "onboard_time": 1742542941,
-      "rank": 15,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 101684,
       "num": 166987,
       "word": "原神诺艾尔",
@@ -15393,6 +15441,14 @@
       "onboard_time": 1742467222,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 89124,
+      "num": 225207,
+      "word": "太乙真人成都地铁分乙",
+      "onboard_time": 1742546181,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88903,
@@ -17201,6 +17257,14 @@
       "onboard_time": 1742281462,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45881,
+      "num": 122015,
+      "word": "用户脑洞竟被甲方做出来了",
+      "onboard_time": 1742545820,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 45709,
