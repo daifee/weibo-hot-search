@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742584752570,
+  "endTime": 1742585780481,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -20363,6 +20363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19064,
+      "num": 19064,
+      "word": "傅菁演技",
+      "onboard_time": 1742584575,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19062,
       "num": 201535,
       "word": "美国国际开发署如何干涉他国内政",
@@ -20651,14 +20659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14591,
-      "num": 15739,
-      "word": "傅菁演技",
-      "onboard_time": 1742584575,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 14575,
       "num": 181944,
       "word": "一代人有一代人的balaT",
@@ -20817,6 +20817,14 @@
       "onboard_time": 1742563702,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11399,
+      "num": 46417,
+      "word": "90岁奶奶喷止疼药坚持彩排5小时",
+      "onboard_time": 1742584816,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11340,

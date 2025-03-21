@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742584752570,
+  "endTime": 1742585780481,
   "band_list": [
     {
       "raw_hot": 903376,
@@ -499,6 +499,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 19064,
+      "num": 19064,
+      "word": "傅菁演技",
+      "onboard_time": 1742584575,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18466,
       "num": 20402,
       "word": "日本插画小人",
@@ -507,12 +515,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 14591,
-      "num": 15739,
-      "word": "傅菁演技",
-      "onboard_time": 1742584575,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 11399,
+      "num": 46417,
+      "word": "90岁奶奶喷止疼药坚持彩排5小时",
+      "onboard_time": 1742584816,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
