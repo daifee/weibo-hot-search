@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742523120920,
+  "endTime": 1742526162697,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1795,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 3017901,
+      "num": 3017901,
+      "word": "司马南偷税被罚超900万",
+      "onboard_time": 1742523020,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3015707,
       "num": 473937,
       "word": "穆婷婷说自己的胸比包上恩好看",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740142760,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2716920,
-      "num": 2716920,
-      "word": "哪吒2预测票房下跌",
-      "onboard_time": 1739844377,
-      "rank": 0,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

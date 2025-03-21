@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742523120920,
+  "endTime": 1742526162697,
   "band_list": [
     {
       "raw_hot": 3765482,
@@ -8,6 +8,14 @@
       "word": "湖大失联女生遗体已找到",
       "onboard_time": 1742520561,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3017901,
+      "num": 3017901,
+      "word": "司马南偷税被罚超900万",
+      "onboard_time": 1742523020,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1002544,
-      "num": 266517,
+      "num": 394540,
       "word": "赵露思 要化爱化化一辈子",
       "onboard_time": 1742514019,
       "rank": 10,
@@ -67,12 +75,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 726838,
+      "num": 726838,
+      "word": "落水人员称丁禹兮是超级英雄",
+      "onboard_time": 1742522420,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 713633,
-      "num": 259401,
+      "num": 261210,
       "word": "985研究生退学摆摊日入700元",
       "onboard_time": 1742485882,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 686661,
+      "num": 686661,
+      "word": "急急如律令是啥意思",
+      "onboard_time": 1742521520,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 681113,
+      "num": 681113,
+      "word": "官方通报湖大一女生失联",
+      "onboard_time": 1742522240,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 644551,
@@ -132,7 +164,7 @@
     },
     {
       "raw_hot": 523711,
-      "num": 260819,
+      "num": 368111,
       "word": "韩安冉 长记性了没下次了",
       "onboard_time": 1742518941,
       "rank": 11,
@@ -140,7 +172,7 @@
     },
     {
       "raw_hot": 503313,
-      "num": 258717,
+      "num": 375948,
       "word": "阚清子今早体重55.8kg",
       "onboard_time": 1742520921,
       "rank": 16,
@@ -153,6 +185,14 @@
       "onboard_time": 1742476523,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442290,
+      "num": 442290,
+      "word": "重庆大哥在网上炒了4000万次空心菜",
+      "onboard_time": 1742524461,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 438608,
@@ -179,16 +219,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346235,
-      "num": 346235,
-      "word": "急急如律令是啥意思",
-      "onboard_time": 1742521520,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 309814,
-      "num": 309814,
+      "num": 436521,
       "word": "作者回应玉盘是否为战歌",
       "onboard_time": 1742518581,
       "rank": 7,
@@ -225,14 +257,6 @@
       "onboard_time": 1742485342,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 266565,
-      "num": 266565,
-      "word": "官方通报湖大一女生失联",
-      "onboard_time": 1742522240,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 263807,
@@ -307,14 +331,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 239966,
-      "num": 239966,
-      "word": "司马南偷税被罚超900万",
-      "onboard_time": 1742523020,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227748,
       "num": 227748,
       "word": "林良铭直红",
@@ -363,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201579,
+      "num": 201579,
+      "word": "哪吒2延长上映至4月30日",
+      "onboard_time": 1742525902,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192587,
       "num": 192587,
       "word": "国际奥委会历史上首位女性主席",
@@ -379,11 +403,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190891,
+      "num": 190891,
+      "word": "王楚钦vs刁子育",
+      "onboard_time": 1742524401,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183554,
       "num": 244353,
       "word": "Leader懒人洗衣机能洗鞋了",
       "onboard_time": 1742521520,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179528,
+      "num": 179528,
+      "word": "男子多次冒充员工参加年会领奖被拘",
+      "onboard_time": 1742521701,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -393,6 +433,14 @@
       "onboard_time": 1742466322,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177939,
+      "num": 177939,
+      "word": "你以为是矫情其实是睡眠高敏感",
+      "onboard_time": 1742524461,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 173253,
@@ -411,20 +459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165351,
-      "num": 165351,
-      "word": "男子多次冒充员工参加年会领奖被拘",
-      "onboard_time": 1742521701,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158131,
       "num": 158131,
       "word": "今起可直接办理个税汇算",
       "onboard_time": 1742522901,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 157667,
+      "num": 138844,
+      "word": "女子高价卖出发霉变绿的橘子",
+      "onboard_time": 1742526081,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156258,
@@ -459,6 +507,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145107,
+      "num": 182433,
+      "word": "陈都灵看到了看到了",
+      "onboard_time": 1742524580,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142957,
+      "num": 142957,
+      "word": "人类首个世界冰川日",
+      "onboard_time": 1742525902,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142805,
       "num": 142805,
       "word": "孩子考了100妈妈兑现承诺买小狗",
@@ -467,20 +531,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142707,
+      "num": 142707,
+      "word": "陈鲁豫最害怕记忆力衰退",
+      "onboard_time": 1742525061,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138330,
       "num": 195392,
       "word": "国足世预赛下轮2人停赛",
       "onboard_time": 1742512698,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137304,
-      "num": 158638,
-      "word": "落水人员称丁禹兮是超级英雄",
-      "onboard_time": 1742522420,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 137026,
@@ -497,6 +561,14 @@
       "onboard_time": 1742518521,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130433,
+      "num": 130433,
+      "word": "A股",
+      "onboard_time": 1742523681,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 129460,
@@ -531,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123933,
+      "num": 123933,
+      "word": "李镇浩再曝录音",
+      "onboard_time": 1742524700,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120459,
       "num": 120459,
       "word": "考研英语田静",
@@ -545,6 +625,14 @@
       "onboard_time": 1742477303,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116658,
+      "num": 116658,
+      "word": "哪吒2春暖花开继续相见",
+      "onboard_time": 1742526021,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 111900,
@@ -635,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98860,
+      "num": 98860,
+      "word": "群核科技创始人回应是否后悔创业",
+      "onboard_time": 1742526081,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 98198,
       "num": 112424,
       "word": "雁回时",
@@ -691,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90128,
+      "num": 90128,
+      "word": "下周还有大降温",
+      "onboard_time": 1742525240,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89632,
       "num": 73308,
       "word": "给国足算分",
@@ -707,6 +811,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 84495,
+      "num": 123573,
+      "word": "林高远vs龙屹",
+      "onboard_time": 1742525001,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82629,
       "num": 82629,
       "word": "国足输球成一种文化现象",
@@ -721,6 +833,14 @@
       "onboard_time": 1742483543,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80385,
+      "num": 125177,
+      "word": "国足丢球范志毅说大家早点睡吧",
+      "onboard_time": 1742521880,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 79229,
@@ -873,6 +993,14 @@
       "onboard_time": 1742497574,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58847,
+      "num": 409132,
+      "word": "家属回应湖大失联女生离世",
+      "onboard_time": 1742525301,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57342,
@@ -1032,6 +1160,14 @@
       "word": "国际睡眠日国足球迷睡不着",
       "onboard_time": 1742513600,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 18248,
+      "num": 124676,
+      "word": "范志毅复盘国足战沙特",
+      "onboard_time": 1742521340,
+      "rank": 36,
       "category": "体育"
     },
     {
