@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742535609178,
+  "endTime": 1742538900729,
   "band_list": [
     {
       "raw_hot": 3765482,
@@ -25,6 +25,14 @@
       "onboard_time": 1742528423,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1850043,
+      "num": 1850043,
+      "word": "王珞丹 别问了",
+      "onboard_time": 1742534842,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1633830,
@@ -147,6 +155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 764434,
+      "num": 424583,
+      "word": "法院禁止newjeans独立活动",
+      "onboard_time": 1742534842,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 736030,
+      "num": 361537,
+      "word": "卡琳娜 你们不要这样",
+      "onboard_time": 1742536161,
+      "rank": 7,
+      "category": "综艺,动漫"
+    },
+    {
       "raw_hot": 726838,
       "num": 726838,
       "word": "落水人员称丁禹兮是超级英雄",
@@ -161,14 +185,6 @@
       "onboard_time": 1742485882,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 703822,
-      "num": 367211,
-      "word": "王珞丹 别问了",
-      "onboard_time": 1742534842,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 692353,
@@ -259,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 552082,
+      "num": 345794,
+      "word": "王珞丹浪姐6第一个superA舞台",
+      "onboard_time": 1742536582,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 535138,
       "num": 260954,
       "word": "西双版纳偶遇宋浩然韩安冉",
@@ -281,6 +305,14 @@
       "onboard_time": 1742518941,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 512973,
+      "num": 284401,
+      "word": "郑秀晶李钟硕状态",
+      "onboard_time": 1742535682,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 506990,
@@ -347,6 +379,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 399245,
+      "num": 399245,
+      "word": "美国男子因虐猫被判40年监禁",
+      "onboard_time": 1742536042,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 392466,
+      "num": 240994,
+      "word": "权志龙ins小号发文",
+      "onboard_time": 1742535082,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361197,
       "num": 326530,
       "word": "邓紫棋巡演官宣",
@@ -368,14 +416,6 @@
       "word": "黄子弘凡被收录进IFPI案例",
       "onboard_time": 1742515462,
       "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 345835,
-      "num": 195054,
-      "word": "法院禁止newjeans独立活动",
-      "onboard_time": 1742534842,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -412,7 +452,7 @@
     },
     {
       "raw_hot": 308871,
-      "num": 221106,
+      "num": 258943,
       "word": "周五的含金量在此刻达到顶峰",
       "onboard_time": 1742532083,
       "rank": 35,
@@ -451,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293668,
+      "num": 222877,
+      "word": "浪姐6 搞笑",
+      "onboard_time": 1742535742,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288125,
       "num": 288125,
       "word": "中科院",
@@ -459,11 +507,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 286997,
-      "num": 194078,
-      "word": "权志龙ins小号发文",
-      "onboard_time": 1742535082,
-      "rank": 28,
+      "raw_hot": 280821,
+      "num": 216260,
+      "word": "赵丽颖 大象新闻",
+      "onboard_time": 1742537481,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -555,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253336,
+      "num": 253336,
+      "word": "香港大公报再发文直指长和",
+      "onboard_time": 1742533522,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249078,
       "num": 178093,
       "word": "面粉疑现老鼠秋田满满要求检测年龄",
@@ -595,6 +651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232286,
+      "num": 212295,
+      "word": "李荣浩质问网易云",
+      "onboard_time": 1742538680,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227748,
       "num": 227748,
       "word": "林良铭直红",
@@ -633,6 +697,14 @@
       "onboard_time": 1742496913,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219440,
+      "num": 219440,
+      "word": "VaVa回应中国第一女rapper",
+      "onboard_time": 1742538201,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 217746,
@@ -683,12 +755,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205933,
+      "num": 166129,
+      "word": "李晟初舞台唱了当",
+      "onboard_time": 1742537541,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205918,
       "num": 241937,
       "word": "林高远3比0朱毅",
       "onboard_time": 1742531782,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204713,
+      "num": 253155,
+      "word": "司马南曾痛批逃税网红",
+      "onboard_time": 1742537541,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203253,
@@ -729,6 +817,14 @@
       "onboard_time": 1742528781,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196985,
+      "num": 264128,
+      "word": "联合国新闻中心发王一博",
+      "onboard_time": 1742538500,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 196099,
@@ -793,6 +889,14 @@
       "onboard_time": 1742521520,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181912,
+      "num": 155794,
+      "word": "刘浩存Wallpaper四月刊封面",
+      "onboard_time": 1742538863,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 181338,
@@ -891,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165365,
+      "num": 150569,
+      "word": "李艺彤再现SNH48总决选冠军舞台",
+      "onboard_time": 1742538201,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160140,
       "num": 338069,
       "word": "我国超过3亿人有睡眠障碍",
@@ -905,6 +1017,14 @@
       "onboard_time": 1742522901,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 157741,
+      "num": 149878,
+      "word": "谢娜乘风端水的神",
+      "onboard_time": 1742537001,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 156258,
@@ -937,6 +1057,14 @@
       "onboard_time": 1742531243,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148372,
+      "num": 142089,
+      "word": "罗予彤唱疯人愿",
+      "onboard_time": 1742537122,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 147820,
@@ -977,6 +1105,22 @@
       "onboard_time": 1742520261,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144874,
+      "num": 144874,
+      "word": "A股",
+      "onboard_time": 1742523681,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 144215,
+      "num": 144215,
+      "word": "生命树",
+      "onboard_time": 1742536341,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 143451,
@@ -1075,14 +1219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130433,
-      "num": 130433,
-      "word": "A股",
-      "onboard_time": 1742523681,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 129597,
       "num": 129597,
       "word": "邓紫棋巡演首站温州",
@@ -1120,14 +1256,6 @@
       "word": "家属回应湖大失联女生离世",
       "onboard_time": 1742525301,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126495,
-      "num": 194683,
-      "word": "香港大公报再发文直指长和",
-      "onboard_time": 1742533522,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1403,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92935,
+      "num": 227019,
+      "word": "姚安娜开箱华为阔折叠",
+      "onboard_time": 1742535142,
+      "rank": 32,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 92055,
       "num": 92055,
       "word": "千禾味业回应检出镉",
@@ -1417,6 +1553,14 @@
       "onboard_time": 1742497574,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87069,
+      "num": 142157,
+      "word": "奉劝有关企业和人士停止交割",
+      "onboard_time": 1742537901,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85199,
@@ -1505,14 +1649,6 @@
       "onboard_time": 1742510115,
       "rank": 46,
       "category": "网红"
-    },
-    {
-      "raw_hot": 71647,
-      "num": 175448,
-      "word": "姚安娜开箱华为阔折叠",
-      "onboard_time": 1742535142,
-      "rank": 32,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 71383,
@@ -1651,12 +1787,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 54513,
+      "num": 274714,
+      "word": "盘点司马南商业版图",
+      "onboard_time": 1742537421,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52812,
       "num": 1226709,
       "word": "这六大服务消费领域增长潜力广阔",
       "onboard_time": 1742530401,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52572,
+      "num": 218768,
+      "word": "沧元图",
+      "onboard_time": 1742538500,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 51864,
