@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742582730483,
+  "endTime": 1742584752570,
   "band_list": [
     {
       "raw_hot": 903376,
@@ -387,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 53677,
+      "num": 53677,
+      "word": "多地学校放春假",
+      "onboard_time": 1742579897,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 50617,
       "num": 64387,
       "word": "名下3公司老人五保户申请受阻",
@@ -401,14 +409,6 @@
       "onboard_time": 1742563043,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45798,
-      "num": 45798,
-      "word": "多地学校放春假",
-      "onboard_time": 1742579897,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 41905,
@@ -505,6 +505,14 @@
       "onboard_time": 1742581574,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 14591,
+      "num": 15739,
+      "word": "傅菁演技",
+      "onboard_time": 1742584575,
+      "rank": 45,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

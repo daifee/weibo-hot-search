@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742582730483,
+  "endTime": 1742584752570,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -59699,6 +59699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53677,
+      "num": 53677,
+      "word": "多地学校放春假",
+      "onboard_time": 1742579897,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 53656,
       "num": 61029,
       "word": "曾可妮网球辣妹造型好飒",
@@ -61193,14 +61201,6 @@
       "onboard_time": 1741107135,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 45798,
-      "num": 45798,
-      "word": "多地学校放春假",
-      "onboard_time": 1742579897,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 45709,
@@ -67977,6 +67977,14 @@
       "onboard_time": 1741039752,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14591,
+      "num": 15739,
+      "word": "傅菁演技",
+      "onboard_time": 1742584575,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 14575,

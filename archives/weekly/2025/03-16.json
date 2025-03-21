@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742582730483,
+  "endTime": 1742584752570,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -18051,6 +18051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53677,
+      "num": 53677,
+      "word": "多地学校放春假",
+      "onboard_time": 1742579897,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 53636,
       "num": 292142,
       "word": "假如生活难题都有导航",
@@ -18585,14 +18593,6 @@
       "onboard_time": 1742545820,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 45798,
-      "num": 45798,
-      "word": "多地学校放春假",
-      "onboard_time": 1742579897,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 45709,
@@ -20649,6 +20649,14 @@
       "onboard_time": 1742417173,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14591,
+      "num": 15739,
+      "word": "傅菁演技",
+      "onboard_time": 1742584575,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 14575,
