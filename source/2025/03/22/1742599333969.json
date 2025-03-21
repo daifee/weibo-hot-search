@@ -1,0 +1,410 @@
+{
+  "runTime": 1742599333969,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 572173,
+        "num": 792954,
+        "word": "北大毕业生做正骨被踢出班级群",
+        "onboard_time": 1742564064,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399256,
+        "num": 399256,
+        "word": "孙海洋称有人出价百万提供寻子线索",
+        "onboard_time": 1742574021,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23293,
+        "num": 333101,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1742551221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297828,
+        "num": 297828,
+        "word": "金价开跌",
+        "onboard_time": 1742567604,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221195,
+        "num": 221195,
+        "word": "乌克兰不再被邀请加入北约",
+        "onboard_time": 1742572280,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205579,
+        "num": 205579,
+        "word": "婚姻登记条例修订草案审议通过",
+        "onboard_time": 1742572463,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204185,
+        "num": 204185,
+        "word": "不同年龄的最佳睡眠时长",
+        "onboard_time": 1742577078,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164690,
+        "num": 164690,
+        "word": "特斯拉门店所有车辆均启动哨兵模式",
+        "onboard_time": 1742598618,
+        "rank": 7,
+        "category": "海外新闻,汽车"
+      },
+      {
+        "raw_hot": 127186,
+        "num": 127186,
+        "word": "让李荣浩发飙的NFC到底是啥",
+        "onboard_time": 1742572222,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125331,
+        "num": 125331,
+        "word": "张小婉管乐你俩让我觉得陌生",
+        "onboard_time": 1742559982,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 568238,
+        "num": 123405,
+        "word": "孟晚舟朋友圈转发姚安娜剧照并点赞",
+        "onboard_time": 1742598558,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113694,
+        "num": 113694,
+        "word": "女生瞒着家人半年打赏主播近200万",
+        "onboard_time": 1742562024,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92246,
+        "num": 92246,
+        "word": "全班39人都被抢走企业追着老师要人",
+        "onboard_time": 1742549720,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91081,
+        "num": 91081,
+        "word": "孙颖莎对手才上小学六年级",
+        "onboard_time": 1742566163,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88014,
+        "num": 88014,
+        "word": "全国首个咖啡本科专业有多香",
+        "onboard_time": 1742567604,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83750,
+        "num": 83750,
+        "word": "警方通报男子杀妻畏罪潜逃30余年",
+        "onboard_time": 1742592675,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 78040,
+        "num": 78040,
+        "word": "吴宣仪连麦了13个人",
+        "onboard_time": 1742571801,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63335,
+        "num": 63335,
+        "word": "德克士道歉",
+        "onboard_time": 1742598558,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62628,
+        "num": 62628,
+        "word": "李艺彤 这么多年都没红不可能翻红",
+        "onboard_time": 1742554701,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59705,
+        "num": 62546,
+        "word": "雁回时",
+        "onboard_time": 1742557161,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391001,
+        "num": 62428,
+        "word": "医生说要减肥就得顿顿饿天天饿",
+        "onboard_time": 1742597596,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247135,
+        "num": 62248,
+        "word": "93岁强奸不收押老人已无法自主行走",
+        "onboard_time": 1742547621,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63029,
+        "num": 62043,
+        "word": "司马南偷税被罚超900万",
+        "onboard_time": 1742523020,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58977,
+        "num": 61796,
+        "word": "杨超越银色短发",
+        "onboard_time": 1742567664,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136063,
+        "num": 61691,
+        "word": "睡眠超9小时会让身体出现各种问题",
+        "onboard_time": 1742566284,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110215,
+        "num": 61552,
+        "word": "经期3天和7天的女性谁老得更快",
+        "onboard_time": 1742558904,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108140,
+        "num": 61285,
+        "word": "千禾0是商标在侮辱谁",
+        "onboard_time": 1742578816,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73915,
+        "num": 61158,
+        "word": "甲状腺好不好看脸就知道",
+        "onboard_time": 1742598738,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 58512,
+        "num": 60986,
+        "word": "王宝强李乃文跳李羲承进行曲",
+        "onboard_time": 1742596636,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48356,
+        "num": 60791,
+        "word": "小燕子姐姐初舞台失误拿最低分",
+        "onboard_time": 1742571262,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60666,
+        "num": 60666,
+        "word": "王腾称下个月出大部分人买得起的手机",
+        "onboard_time": 1742565443,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 52584,
+        "num": 52584,
+        "word": "国足球迷遭沙特球迷歧视",
+        "onboard_time": 1742594775,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46562,
+        "num": 46562,
+        "word": "罗予彤 断层",
+        "onboard_time": 1742551521,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44439,
+        "num": 44439,
+        "word": "坏了真让王大锤走向人生巅峰了",
+        "onboard_time": 1742569344,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44148,
+        "num": 44148,
+        "word": "90岁奶奶喷止疼药坚持彩排5小时",
+        "onboard_time": 1742584816,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41019,
+        "num": 41019,
+        "word": "孕妇羊水破裂13岁男孩成功助产",
+        "onboard_time": 1742541441,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40676,
+        "num": 40676,
+        "word": "名下3公司老人五保户申请受阻",
+        "onboard_time": 1742572040,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40353,
+        "num": 40353,
+        "word": "Hanni说谎",
+        "onboard_time": 1742557223,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39984,
+        "num": 39984,
+        "word": "养猫后很讨厌别人说哪句话",
+        "onboard_time": 1742569223,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39265,
+        "num": 39265,
+        "word": "余承东回应PuraX价格争议",
+        "onboard_time": 1742554401,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 38438,
+        "num": 38438,
+        "word": "吕秀才还得郭芙蓉来收拾",
+        "onboard_time": 1742595195,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36994,
+        "num": 36994,
+        "word": "儿子尿毒症63岁母亲偷偷签字捐肾",
+        "onboard_time": 1742555182,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36574,
+        "num": 36574,
+        "word": "多地学校放春假",
+        "onboard_time": 1742579897,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36427,
+        "num": 36427,
+        "word": "李嘉琦真的被低估了",
+        "onboard_time": 1742549781,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35537,
+        "num": 35537,
+        "word": "金秀贤山寨人生停播后还能上线吗",
+        "onboard_time": 1742568263,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35165,
+        "num": 35165,
+        "word": "中华环保联合会删除虞书欣相关",
+        "onboard_time": 1742546362,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34529,
+        "num": 34529,
+        "word": "外交部提醒日本",
+        "onboard_time": 1742549661,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30104,
+        "num": 34520,
+        "word": "周冠宇想成为F1的中国破冰者",
+        "onboard_time": 1742598797,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26368,
+        "num": 34508,
+        "word": "请全成都人民监督我减肥",
+        "onboard_time": 1742597057,
+        "rank": 48,
+        "category": "幽默,运动健身"
+      },
+      {
+        "raw_hot": 25546,
+        "num": 34490,
+        "word": "傅菁演技",
+        "onboard_time": 1742584575,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻古城老街文韵#"
+    }
+  }
+}

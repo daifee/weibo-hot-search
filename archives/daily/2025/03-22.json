@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742596817296,
+  "endTime": 1742599333969,
   "band_list": [
     {
       "raw_hot": 903376,
@@ -17,6 +17,14 @@
       "onboard_time": 1742572463,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 568238,
+      "num": 123405,
+      "word": "孟晚舟朋友圈转发姚安娜剧照并点赞",
+      "onboard_time": 1742598558,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 550725,
@@ -65,6 +73,14 @@
       "onboard_time": 1742547621,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391001,
+      "num": 62428,
+      "word": "医生说要减肥就得顿顿饿天天饿",
+      "onboard_time": 1742597596,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 304278,
@@ -155,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204185,
+      "num": 204185,
+      "word": "不同年龄的最佳睡眠时长",
+      "onboard_time": 1742577078,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 202696,
       "num": 202696,
       "word": "地窝堡机场已正式改名",
@@ -185,6 +209,14 @@
       "onboard_time": 1742559982,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164690,
+      "num": 164690,
+      "word": "特斯拉门店所有车辆均启动哨兵模式",
+      "onboard_time": 1742598618,
+      "rank": 7,
+      "category": "海外新闻,汽车"
     },
     {
       "raw_hot": 134610,
@@ -219,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122062,
-      "num": 122062,
-      "word": "不同年龄的最佳睡眠时长",
-      "onboard_time": 1742577078,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 116875,
       "num": 116875,
       "word": "养猫后很讨厌别人说哪句话",
@@ -259,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108140,
+      "num": 61285,
+      "word": "千禾0是商标在侮辱谁",
+      "onboard_time": 1742578816,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104403,
       "num": 104403,
       "word": "刘毅王昶无缘瑞士赛四强",
@@ -275,12 +307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92246,
+      "num": 92246,
+      "word": "全班39人都被抢走企业追着老师要人",
+      "onboard_time": 1742549720,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91275,
       "num": 91275,
       "word": "医院自助取袋机被曝性别定制广告",
       "onboard_time": 1742565983,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91081,
+      "num": 91081,
+      "word": "孙颖莎对手才上小学六年级",
+      "onboard_time": 1742566163,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 85184,
@@ -299,8 +347,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77179,
-      "num": 77179,
+      "raw_hot": 83750,
+      "num": 83750,
       "word": "警方通报男子杀妻畏罪潜逃30余年",
       "onboard_time": 1742592675,
       "rank": 7,
@@ -323,6 +371,14 @@
       "category": "音乐,互联网"
     },
     {
+      "raw_hot": 73915,
+      "num": 61158,
+      "word": "甲状腺好不好看脸就知道",
+      "onboard_time": 1742598738,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 71181,
       "num": 71181,
       "word": "外交部提醒日本",
@@ -339,28 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69268,
-      "num": 69268,
-      "word": "孙颖莎对手才上小学六年级",
-      "onboard_time": 1742566163,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66733,
       "num": 66733,
       "word": "金秀贤山寨人生停播后还能上线吗",
       "onboard_time": 1742568263,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66503,
-      "num": 66503,
-      "word": "全班39人都被抢走企业追着老师要人",
-      "onboard_time": 1742549720,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65821,
@@ -371,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65511,
-      "num": 33767,
-      "word": "千禾0是商标在侮辱谁",
-      "onboard_time": 1742578816,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64427,
       "num": 64427,
       "word": "儿子尿毒症63岁母亲偷偷签字捐肾",
@@ -387,11 +419,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63335,
+      "num": 63335,
+      "word": "德克士道歉",
+      "onboard_time": 1742598558,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60518,
       "num": 64419,
       "word": "田曦薇逐玉杀青捧花照",
       "onboard_time": 1742559502,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 58512,
+      "num": 60986,
+      "word": "王宝强李乃文跳李羲承进行曲",
+      "onboard_time": 1742596636,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -411,6 +459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 52584,
+      "num": 52584,
+      "word": "国足球迷遭沙特球迷歧视",
+      "onboard_time": 1742594775,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50617,
       "num": 64387,
       "word": "名下3公司老人五保户申请受阻",
@@ -427,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44148,
+      "num": 46417,
+      "word": "90岁奶奶喷止疼药坚持彩排5小时",
+      "onboard_time": 1742584816,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41905,
       "num": 41905,
       "word": "乘风破浪的姐姐",
@@ -435,20 +499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39457,
-      "num": 46417,
-      "word": "90岁奶奶喷止疼药坚持彩排5小时",
-      "onboard_time": 1742584816,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39259,
       "num": 39259,
       "word": "2025年瑞士羽毛球公开赛",
       "onboard_time": 1742576718,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38438,
+      "num": 38438,
+      "word": "吕秀才还得郭芙蓉来收拾",
+      "onboard_time": 1742595195,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 37225,
@@ -475,11 +539,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28415,
-      "num": 28415,
-      "word": "国足球迷遭沙特球迷歧视",
-      "onboard_time": 1742594775,
-      "rank": 31,
+      "raw_hot": 30104,
+      "num": 34520,
+      "word": "周冠宇想成为F1的中国破冰者",
+      "onboard_time": 1742598797,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -499,11 +563,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24324,
-      "num": 24324,
-      "word": "吕秀才还得郭芙蓉来收拾",
-      "onboard_time": 1742595195,
-      "rank": 47,
+      "raw_hot": 26368,
+      "num": 34508,
+      "word": "请全成都人民监督我减肥",
+      "onboard_time": 1742597057,
+      "rank": 48,
+      "category": "幽默,运动健身"
+    },
+    {
+      "raw_hot": 25546,
+      "num": 34490,
+      "word": "傅菁演技",
+      "onboard_time": 1742584575,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -539,28 +611,12 @@
       "category": "艺人,美食"
     },
     {
-      "raw_hot": 19064,
-      "num": 24300,
-      "word": "傅菁演技",
-      "onboard_time": 1742584575,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 18466,
       "num": 20402,
       "word": "日本插画小人",
       "onboard_time": 1742581574,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 18164,
-      "num": 24308,
-      "word": "王宝强李乃文跳李羲承进行曲",
-      "onboard_time": 1742596636,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 15188,
