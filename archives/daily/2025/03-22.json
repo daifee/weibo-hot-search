@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742585780481,
+  "endTime": 1742588718683,
   "band_list": [
     {
       "raw_hot": 903376,
@@ -427,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39457,
+      "num": 46417,
+      "word": "90岁奶奶喷止疼药坚持彩排5小时",
+      "onboard_time": 1742584816,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39259,
       "num": 39259,
       "word": "2025年瑞士羽毛球公开赛",
@@ -515,12 +523,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 11399,
-      "num": 46417,
-      "word": "90岁奶奶喷止疼药坚持彩排5小时",
-      "onboard_time": 1742584816,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 8620,
+      "num": 19998,
+      "word": "我国第二代飞天舱外服超额完成任务",
+      "onboard_time": 1742587873,
+      "rank": 19,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
