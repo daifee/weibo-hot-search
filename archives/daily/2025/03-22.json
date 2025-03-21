@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742599333969,
+  "endTime": 1742600179624,
   "band_list": [
     {
       "raw_hot": 903376,
@@ -11,20 +11,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 734103,
+      "num": 185935,
+      "word": "孟晚舟朋友圈转发姚安娜剧照并点赞",
+      "onboard_time": 1742598558,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 663024,
       "num": 663024,
       "word": "婚姻登记条例修订草案审议通过",
       "onboard_time": 1742572463,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 568238,
-      "num": 123405,
-      "word": "孟晚舟朋友圈转发姚安娜剧照并点赞",
-      "onboard_time": 1742598558,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 550725,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403050,
+      "num": 403050,
+      "word": "特斯拉门店所有车辆均启动哨兵模式",
+      "onboard_time": 1742598618,
+      "rank": 7,
+      "category": "海外新闻,汽车"
+    },
+    {
       "raw_hot": 394747,
       "num": 127147,
       "word": "93岁强奸不收押老人已无法自主行走",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 391001,
-      "num": 62428,
+      "num": 64740,
       "word": "医生说要减肥就得顿顿饿天天饿",
       "onboard_time": 1742597596,
       "rank": 20,
@@ -155,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215067,
+      "num": 215067,
+      "word": "德克士道歉",
+      "onboard_time": 1742598558,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207124,
       "num": 207124,
       "word": "京城大师赛",
@@ -163,20 +179,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206966,
+      "num": 206966,
+      "word": "不同年龄的最佳睡眠时长",
+      "onboard_time": 1742577078,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 205936,
       "num": 205936,
       "word": "坏了真让王大锤走向人生巅峰了",
       "onboard_time": 1742569344,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204185,
-      "num": 204185,
-      "word": "不同年龄的最佳睡眠时长",
-      "onboard_time": 1742577078,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 202696,
@@ -209,14 +225,6 @@
       "onboard_time": 1742559982,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164690,
-      "num": 164690,
-      "word": "特斯拉门店所有车辆均启动哨兵模式",
-      "onboard_time": 1742598618,
-      "rank": 7,
-      "category": "海外新闻,汽车"
     },
     {
       "raw_hot": 134610,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 108140,
-      "num": 61285,
+      "num": 63749,
       "word": "千禾0是商标在侮辱谁",
       "onboard_time": 1742578816,
       "rank": 31,
@@ -299,6 +307,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102562,
+      "num": 102562,
+      "word": "孙颖莎对手才上小学六年级",
+      "onboard_time": 1742566163,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100353,
+      "num": 100353,
+      "word": "全班39人都被抢走企业追着老师要人",
+      "onboard_time": 1742549720,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99606,
+      "num": 63235,
+      "word": "甲状腺好不好看脸就知道",
+      "onboard_time": 1742598738,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98899,
       "num": 98899,
       "word": "李艺彤 这么多年都没红不可能翻红",
@@ -307,28 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92246,
-      "num": 92246,
-      "word": "全班39人都被抢走企业追着老师要人",
-      "onboard_time": 1742549720,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91275,
       "num": 91275,
       "word": "医院自助取袋机被曝性别定制广告",
       "onboard_time": 1742565983,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91081,
-      "num": 91081,
-      "word": "孙颖莎对手才上小学六年级",
-      "onboard_time": 1742566163,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 85184,
@@ -371,14 +387,6 @@
       "category": "音乐,互联网"
     },
     {
-      "raw_hot": 73915,
-      "num": 61158,
-      "word": "甲状腺好不好看脸就知道",
-      "onboard_time": 1742598738,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 71181,
       "num": 71181,
       "word": "外交部提醒日本",
@@ -419,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63335,
-      "num": 63335,
-      "word": "德克士道歉",
-      "onboard_time": 1742598558,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 60518,
       "num": 64419,
       "word": "田曦薇逐玉杀青捧花照",
@@ -441,6 +441,14 @@
       "onboard_time": 1742596636,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56788,
+      "num": 56788,
+      "word": "国足球迷遭沙特球迷歧视",
+      "onboard_time": 1742594775,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 54424,
@@ -459,14 +467,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 52584,
-      "num": 52584,
-      "word": "国足球迷遭沙特球迷歧视",
-      "onboard_time": 1742594775,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50617,
       "num": 64387,
       "word": "名下3公司老人五保户申请受阻",
@@ -483,12 +483,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44148,
+      "raw_hot": 46355,
       "num": 46417,
       "word": "90岁奶奶喷止疼药坚持彩排5小时",
       "onboard_time": 1742584816,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44506,
+      "num": 44506,
+      "word": "吕秀才还得郭芙蓉来收拾",
+      "onboard_time": 1742595195,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 41905,
@@ -507,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38438,
-      "num": 38438,
-      "word": "吕秀才还得郭芙蓉来收拾",
-      "onboard_time": 1742595195,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 37225,
       "num": 551468,
       "word": "那些你不知道的北京地儿",
@@ -529,6 +529,14 @@
       "onboard_time": 1742569945,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35282,
+      "num": 48256,
+      "word": "苏州通报杨国福出现老鼠",
+      "onboard_time": 1742600000,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35229,
@@ -547,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26743,
+      "num": 39060,
+      "word": "请全成都人民监督我减肥",
+      "onboard_time": 1742597057,
+      "rank": 48,
+      "category": "幽默,运动健身"
+    },
+    {
       "raw_hot": 26739,
       "num": 30165,
       "word": "今天是世界冰川日",
@@ -563,16 +579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26368,
-      "num": 34508,
-      "word": "请全成都人民监督我减肥",
-      "onboard_time": 1742597057,
-      "rank": 48,
-      "category": "幽默,运动健身"
-    },
-    {
-      "raw_hot": 25546,
-      "num": 34490,
+      "raw_hot": 26413,
+      "num": 39058,
       "word": "傅菁演技",
       "onboard_time": 1742584575,
       "rank": 45,
