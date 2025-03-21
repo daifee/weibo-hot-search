@@ -1,0 +1,410 @@
+{
+  "runTime": 1742534588328,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1154372,
+        "num": 1184699,
+        "word": "浪姐开播",
+        "onboard_time": 1742530763,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 902481,
+        "num": 902481,
+        "word": "司马南偷税被罚超900万",
+        "onboard_time": 1742523020,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52738,
+        "num": 820820,
+        "word": "这六大服务消费领域增长潜力广阔",
+        "onboard_time": 1742530401,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 935038,
+        "num": 814508,
+        "word": "陈赫林更新为黄磊黄酒炖肉争论",
+        "onboard_time": 1742532381,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 800520,
+        "num": 800520,
+        "word": "李嘉诚发布旗下港口收入",
+        "onboard_time": 1742529801,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395149,
+        "num": 395149,
+        "word": "公公给儿媳的陪嫁猫做三层榫卯床",
+        "onboard_time": 1742516660,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633195,
+        "num": 389686,
+        "word": "演员王凯喜提新身份",
+        "onboard_time": 1742532443,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613288,
+        "num": 388456,
+        "word": "哪吒2延长上映至4月30日",
+        "onboard_time": 1742525902,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 349871,
+        "num": 349871,
+        "word": "急急如律令是啥意思",
+        "onboard_time": 1742521520,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282484,
+        "num": 282484,
+        "word": "长期碎片化睡眠易得焦虑症抑郁症",
+        "onboard_time": 1742526440,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 611275,
+        "num": 279568,
+        "word": "吴宣仪初舞台唱我又初恋了",
+        "onboard_time": 1742533462,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110122,
+        "num": 272462,
+        "word": "海尔老总回归微博",
+        "onboard_time": 1742530042,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1171576,
+        "num": 266520,
+        "word": "乐言承认与周淑怡恋情",
+        "onboard_time": 1742529562,
+        "rank": 12,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 132101,
+        "num": 254462,
+        "word": "地方测算将年均剩余超230名教师",
+        "onboard_time": 1742532802,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61042,
+        "num": 248055,
+        "word": "多方回应物业撤场停电梯垃圾溢出",
+        "onboard_time": 1742533341,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 822187,
+        "num": 240641,
+        "word": "女子高价卖出发霉变绿的橘子",
+        "onboard_time": 1742526081,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742847,
+        "num": 231689,
+        "word": "赵露思回复教取关教程网友谢谢",
+        "onboard_time": 1742526322,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537298,
+        "num": 228088,
+        "word": "宋妍霏不愧是JYP的",
+        "onboard_time": 1742529142,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221487,
+        "num": 221487,
+        "word": "库里受伤",
+        "onboard_time": 1742530581,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36230,
+        "num": 221461,
+        "word": "汉马赛道起点全是樱花",
+        "onboard_time": 1742533581,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1296826,
+        "num": 221392,
+        "word": "赵丽颖 没接受过采访假新闻",
+        "onboard_time": 1742528423,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489782,
+        "num": 221345,
+        "word": "赵露思 要化爱化化一辈子",
+        "onboard_time": 1742514019,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455243,
+        "num": 221305,
+        "word": "王一博为保护冰川发声",
+        "onboard_time": 1742526921,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91780,
+        "num": 221243,
+        "word": "哪吒2春暖花开继续相见",
+        "onboard_time": 1742526021,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 361197,
+        "num": 221231,
+        "word": "邓紫棋巡演官宣",
+        "onboard_time": 1742531122,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 326189,
+        "num": 221143,
+        "word": "祝绪丹乘风2025初舞台",
+        "onboard_time": 1742530343,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299480,
+        "num": 221106,
+        "word": "周五的含金量在此刻达到顶峰",
+        "onboard_time": 1742532083,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221088,
+        "num": 221088,
+        "word": "何泓姗浪姐腹黑金蛇造型",
+        "onboard_time": 1742532682,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201424,
+        "num": 201424,
+        "word": "江西万年县2025年将不招聘英语教师",
+        "onboard_time": 1742532802,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97648,
+        "num": 201043,
+        "word": "于正怕没人审判何瑞贤",
+        "onboard_time": 1742530581,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201018,
+        "num": 201018,
+        "word": "王润泽我承认之前对你声音大了点",
+        "onboard_time": 1742533702,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197026,
+        "num": 197026,
+        "word": "江一燕对叶童说我亲过你老婆",
+        "onboard_time": 1742534302,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194577,
+        "num": 194577,
+        "word": "郭敬明方回应新剧拍摄突发大火",
+        "onboard_time": 1742530702,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180317,
+        "num": 180317,
+        "word": "王玉雯把王安宇哄成胚胎了",
+        "onboard_time": 1742526621,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178696,
+        "num": 178696,
+        "word": "对晴格格恨不起来",
+        "onboard_time": 1742531003,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173337,
+        "num": 173337,
+        "word": "乘风2025",
+        "onboard_time": 1742530401,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170915,
+        "num": 170915,
+        "word": "重庆大哥在网上炒了4000万次空心菜",
+        "onboard_time": 1742524461,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165681,
+        "num": 165681,
+        "word": "海尔周云杰第一条微博",
+        "onboard_time": 1742530162,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150516,
+        "num": 150516,
+        "word": "懒人洗衣机三筒还是保守了",
+        "onboard_time": 1742528961,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149066,
+        "num": 149066,
+        "word": "仙人跳作案手法大揭秘",
+        "onboard_time": 1742529741,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148811,
+        "num": 148811,
+        "word": "王珞丹祝绪丹 姐狗",
+        "onboard_time": 1742534241,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143588,
+        "num": 143588,
+        "word": "落水人员称丁禹兮是超级英雄",
+        "onboard_time": 1742522420,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136901,
+        "num": 136901,
+        "word": "白鹿如果看过风吹半夏就敢使劲了",
+        "onboard_time": 1742531243,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136399,
+        "num": 136399,
+        "word": "孙乐言说涂毓麟非常会做饭",
+        "onboard_time": 1742526981,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133212,
+        "num": 133212,
+        "word": "我国超过3亿人有睡眠障碍",
+        "onboard_time": 1742527821,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 59904,
+        "num": 131404,
+        "word": "考文垂曾给樊振东青奥会颁过奖",
+        "onboard_time": 1742533163,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129597,
+        "num": 129597,
+        "word": "邓紫棋巡演首站温州",
+        "onboard_time": 1742532622,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126495,
+        "num": 126495,
+        "word": "香港大公报再发文直指长和",
+        "onboard_time": 1742533522,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117360,
+        "num": 117360,
+        "word": "4男子盗卖12座高压电塔获利53万",
+        "onboard_time": 1742530822,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112860,
+        "num": 112860,
+        "word": "糖粽兔兔",
+        "onboard_time": 1742534541,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记点赞的土特产#"
+    }
+  }
+}
