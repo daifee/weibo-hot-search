@@ -1,0 +1,410 @@
+{
+  "runTime": 1742552735607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1467841,
+        "num": 1467841,
+        "word": "罗予彤 断层",
+        "onboard_time": 1742551521,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1212155,
+        "num": 1212155,
+        "word": "外交部提醒日本",
+        "onboard_time": 1742549661,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10066,
+        "num": 1035744,
+        "word": "航天员正在给中国空间站穿铠甲",
+        "onboard_time": 1742552481,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 999304,
+        "num": 999304,
+        "word": "杨国福麻辣烫老鼠事件后续",
+        "onboard_time": 1742545701,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 919370,
+        "num": 919370,
+        "word": "李嘉琦真的被低估了",
+        "onboard_time": 1742549781,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480606,
+        "num": 480606,
+        "word": "大肠发圈发型",
+        "onboard_time": 1742545760,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 606039,
+        "num": 462743,
+        "word": "李艺彤说SNH48只有鞠婧祎破圈",
+        "onboard_time": 1742547681,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439682,
+        "num": 439682,
+        "word": "编剧真分过手",
+        "onboard_time": 1742547621,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338534,
+        "num": 338534,
+        "word": "司马南偷税被罚超900万",
+        "onboard_time": 1742523020,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231290,
+        "num": 337181,
+        "word": "日本超10万网民抵制刺客信条影",
+        "onboard_time": 1742549781,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 754352,
+        "num": 333656,
+        "word": "婚后不久丈夫去世公婆起诉返还彩礼",
+        "onboard_time": 1742549302,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 658059,
+        "num": 326850,
+        "word": "孕妇羊水破裂13岁男孩成功助产",
+        "onboard_time": 1742541441,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366068,
+        "num": 322782,
+        "word": "赵露思回复教取关教程网友谢谢",
+        "onboard_time": 1742526322,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344055,
+        "num": 322518,
+        "word": "冯小刚电影官微回应赵丽颖争议",
+        "onboard_time": 1742546420,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318755,
+        "num": 318755,
+        "word": "司马南回应偷税被罚超900万",
+        "onboard_time": 1742552602,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314303,
+        "num": 314303,
+        "word": "全班39人都被抢走企业追着老师要人",
+        "onboard_time": 1742549720,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305184,
+        "num": 305184,
+        "word": "蒋梦婕人脉",
+        "onboard_time": 1742543963,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280294,
+        "num": 280294,
+        "word": "乐言承认与周淑怡恋情",
+        "onboard_time": 1742529562,
+        "rank": 17,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 254770,
+        "num": 254770,
+        "word": "李荣浩质问网易云",
+        "onboard_time": 1742538680,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94247,
+        "num": 254602,
+        "word": "女儿将婚母亲让遗产由女儿一人继承",
+        "onboard_time": 1742551581,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1034639,
+        "num": 252485,
+        "word": "93岁强奸不收押老人已无法自主行走",
+        "onboard_time": 1742547621,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567572,
+        "num": 251862,
+        "word": "王珞丹 别问了",
+        "onboard_time": 1742534842,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41987,
+        "num": 250160,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1742551221,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292384,
+        "num": 248930,
+        "word": "不胖和很瘦的区别",
+        "onboard_time": 1742550441,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264160,
+        "num": 247554,
+        "word": "女子入职得知生娃奖10万果断再怀孕",
+        "onboard_time": 1742544382,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37228,
+        "num": 246453,
+        "word": "倪虹洁大漏勺",
+        "onboard_time": 1742552481,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246315,
+        "num": 246315,
+        "word": "宋妍霏红包",
+        "onboard_time": 1742550802,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235596,
+        "num": 235596,
+        "word": "卡琳娜 你们不要这样",
+        "onboard_time": 1742536161,
+        "rank": 27,
+        "category": "综艺,动漫"
+      },
+      {
+        "raw_hot": 232273,
+        "num": 232273,
+        "word": "警方通报景德镇游客手机被偷",
+        "onboard_time": 1742547802,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 27056,
+        "num": 216506,
+        "word": "沧元图",
+        "onboard_time": 1742538500,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 500040,
+        "num": 213154,
+        "word": "中华环保联合会删除虞书欣相关",
+        "onboard_time": 1742546362,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208580,
+        "num": 208580,
+        "word": "酸奶碗",
+        "onboard_time": 1742548762,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182848,
+        "num": 182848,
+        "word": "汤唯南京",
+        "onboard_time": 1742549600,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164719,
+        "num": 164719,
+        "word": "张馨予今天体重54.7kg",
+        "onboard_time": 1742552361,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138334,
+        "num": 151948,
+        "word": "汪苏泷巡演嘉宾 陶喆",
+        "onboard_time": 1742551521,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150433,
+        "num": 150433,
+        "word": "余承东感谢网友批评",
+        "onboard_time": 1742552062,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 62819,
+        "num": 144009,
+        "word": "张杭就是真诚的快乐小狗",
+        "onboard_time": 1742551881,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142064,
+        "num": 142064,
+        "word": "周五的含金量在此刻达到顶峰",
+        "onboard_time": 1742532083,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13738,
+        "num": 139408,
+        "word": "小朋友也喜欢穿联名",
+        "onboard_time": 1742551822,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 55017,
+        "num": 139107,
+        "word": "汤唯现场给粉丝喷香水",
+        "onboard_time": 1742551339,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139008,
+        "num": 139008,
+        "word": "尼格买提惊讶买问界M9送手机",
+        "onboard_time": 1742551822,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38351,
+        "num": 137888,
+        "word": "叶童也是奶茶脑袋",
+        "onboard_time": 1742552481,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137373,
+        "num": 137373,
+        "word": "李钟硕回春了",
+        "onboard_time": 1742540541,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134235,
+        "num": 134235,
+        "word": "山西订婚强奸案下周二开庭",
+        "onboard_time": 1742550082,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123607,
+        "num": 123607,
+        "word": "张晚意赵露思或将出演大汉赋",
+        "onboard_time": 1742543901,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122470,
+        "num": 122470,
+        "word": "阿诺现在不崇拜董力了",
+        "onboard_time": 1742550263,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120882,
+        "num": 120882,
+        "word": "法院禁止newjeans独立活动",
+        "onboard_time": 1742534842,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119601,
+        "num": 120375,
+        "word": "邓萃雯被吓到一秒入戏",
+        "onboard_time": 1742551339,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120342,
+        "num": 120342,
+        "word": "苦尽柑来遇见你",
+        "onboard_time": 1742546603,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119660,
+        "num": 119660,
+        "word": "江一燕对叶童说我亲过你老婆",
+        "onboard_time": 1742534302,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习近平总书记走进古城老街#"
+    }
+  }
+}

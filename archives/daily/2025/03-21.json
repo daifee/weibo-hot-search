@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742549950033,
+  "endTime": 1742552735607,
   "band_list": [
     {
       "raw_hot": 3765482,
@@ -83,6 +83,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 1467841,
+      "num": 1467841,
+      "word": "罗予彤 断层",
+      "onboard_time": 1742551521,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1362084,
       "num": 417315,
       "word": "李荣浩质问网易云",
@@ -105,6 +113,14 @@
       "onboard_time": 1742525902,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1212155,
+      "num": 1212155,
+      "word": "外交部提醒日本",
+      "onboard_time": 1742549661,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1154372,
@@ -163,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 919370,
+      "num": 919370,
+      "word": "李嘉琦真的被低估了",
+      "onboard_time": 1742549781,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 918212,
       "num": 1146914,
       "word": "演员王凯喜提新身份",
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 864107,
-      "num": 159023,
+      "num": 213154,
       "word": "中华环保联合会删除虞书欣相关",
       "onboard_time": 1742546362,
       "rank": 33,
@@ -233,6 +257,14 @@
       "onboard_time": 1742534842,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 754352,
+      "num": 333656,
+      "word": "婚后不久丈夫去世公婆起诉返还彩礼",
+      "onboard_time": 1742549302,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 745049,
@@ -337,6 +369,14 @@
       "onboard_time": 1742517683,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 606039,
+      "num": 462743,
+      "word": "李艺彤说SNH48只有鞠婧祎破圈",
+      "onboard_time": 1742547681,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 601903,
@@ -499,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 453141,
-      "num": 453141,
-      "word": "李艺彤说SNH48只有鞠婧祎破圈",
-      "onboard_time": 1742547681,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 439682,
+      "num": 439682,
+      "word": "编剧真分过手",
+      "onboard_time": 1742547621,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 438608,
@@ -555,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 368926,
-      "num": 338079,
-      "word": "编剧真分过手",
-      "onboard_time": 1742547621,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 361197,
       "num": 326530,
       "word": "邓紫棋巡演官宣",
@@ -611,12 +643,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318755,
+      "num": 318755,
+      "word": "司马南回应偷税被罚超900万",
+      "onboard_time": 1742552602,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317856,
       "num": 317856,
       "word": "孙乐言说涂毓麟非常会做饭",
       "onboard_time": 1742526981,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314303,
+      "num": 314303,
+      "word": "全班39人都被抢走企业追着老师要人",
+      "onboard_time": 1742549720,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311828,
@@ -673,6 +721,14 @@
       "onboard_time": 1742535742,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292384,
+      "num": 248930,
+      "word": "不胖和很瘦的区别",
+      "onboard_time": 1742550441,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 288125,
@@ -811,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246315,
+      "num": 246315,
+      "word": "宋妍霏红包",
+      "onboard_time": 1742550802,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246216,
       "num": 246216,
       "word": "宋浩然称将无限期停播",
@@ -833,6 +897,14 @@
       "onboard_time": 1742526981,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231290,
+      "num": 337181,
+      "word": "日本超10万网民抵制刺客信条影",
+      "onboard_time": 1742549781,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 230663,
@@ -955,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208580,
+      "num": 208580,
+      "word": "酸奶碗",
+      "onboard_time": 1742548762,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 207165,
       "num": 207165,
       "word": "人类首个世界冰川日",
@@ -1025,14 +1105,6 @@
       "onboard_time": 1742530223,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 199329,
-      "num": 199329,
-      "word": "全班39人都被抢走企业追着老师要人",
-      "onboard_time": 1742549720,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198464,
@@ -1129,6 +1201,14 @@
       "onboard_time": 1742546362,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182848,
+      "num": 182848,
+      "word": "汤唯南京",
+      "onboard_time": 1742549600,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 182525,
@@ -1307,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164719,
+      "num": 164719,
+      "word": "张馨予今天体重54.7kg",
+      "onboard_time": 1742552361,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162377,
       "num": 162377,
       "word": "NJZ回应不能独立活动",
@@ -1345,14 +1433,6 @@
       "onboard_time": 1742544981,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 157466,
-      "num": 157466,
-      "word": "李嘉琦真的被低估了",
-      "onboard_time": 1742549781,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 156258,
@@ -1403,12 +1483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150506,
-      "num": 150506,
-      "word": "婚后不久丈夫去世公婆起诉返还彩礼",
-      "onboard_time": 1742549302,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 150433,
+      "num": 150433,
+      "word": "余承东感谢网友批评",
+      "onboard_time": 1742552062,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 149530,
@@ -1515,14 +1595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143555,
-      "num": 143555,
-      "word": "日本超10万网民抵制刺客信条影",
-      "onboard_time": 1742549781,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 143451,
       "num": 370035,
       "word": "海尔老总回归微博",
@@ -1561,6 +1633,22 @@
       "onboard_time": 1742546420,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139008,
+      "num": 139008,
+      "word": "尼格买提惊讶买问界M9送手机",
+      "onboard_time": 1742551822,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 138334,
+      "num": 151948,
+      "word": "汪苏泷巡演嘉宾 陶喆",
+      "onboard_time": 1742551521,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 138330,
@@ -1624,6 +1712,14 @@
       "word": "景德镇被偷手机当事人发声",
       "onboard_time": 1742518521,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134235,
+      "num": 134235,
+      "word": "山西订婚强奸案下周二开庭",
+      "onboard_time": 1742550082,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1755,6 +1851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 122470,
+      "num": 122470,
+      "word": "阿诺现在不崇拜董力了",
+      "onboard_time": 1742550263,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122242,
       "num": 122242,
       "word": "虞书欣闯进文旅赛道了",
@@ -1787,6 +1891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119601,
+      "num": 120375,
+      "word": "邓萃雯被吓到一秒入戏",
+      "onboard_time": 1742551339,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119442,
       "num": 119442,
       "word": "辛云来新剧整容式人设",
@@ -1809,14 +1921,6 @@
       "onboard_time": 1742541683,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 118499,
-      "num": 118499,
-      "word": "汤唯南京",
-      "onboard_time": 1742549600,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 118404,
@@ -2043,14 +2147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95191,
-      "num": 95191,
-      "word": "酸奶碗",
-      "onboard_time": 1742548762,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 94698,
       "num": 157277,
       "word": "李昀锐公主抱",
@@ -2073,6 +2169,14 @@
       "onboard_time": 1742513299,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 94247,
+      "num": 254602,
+      "word": "女儿将婚母亲让遗产由女儿一人继承",
+      "onboard_time": 1742551581,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94012,
@@ -2121,14 +2225,6 @@
       "onboard_time": 1742537901,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86511,
-      "num": 143738,
-      "word": "外交部提醒日本",
-      "onboard_time": 1742549661,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 85199,
@@ -2315,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62819,
+      "num": 144009,
+      "word": "张杭就是真诚的快乐小狗",
+      "onboard_time": 1742551881,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59904,
       "num": 131404,
       "word": "考文垂曾给樊振东青奥会颁过奖",
@@ -2377,6 +2481,14 @@
       "onboard_time": 1742520140,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 55017,
+      "num": 139107,
+      "word": "汤唯现场给粉丝喷香水",
+      "onboard_time": 1742551339,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 54513,
@@ -2499,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41987,
+      "num": 250160,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1742551221,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40497,
       "num": 70028,
       "word": "马龙刘诗雯的互动好有爱",
@@ -2539,12 +2659,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 38351,
+      "num": 137888,
+      "word": "叶童也是奶茶脑袋",
+      "onboard_time": 1742552481,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38217,
       "num": 194071,
       "word": "泽连斯基称不认为俄会同意停火",
       "onboard_time": 1742513060,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37228,
+      "num": 246453,
+      "word": "倪虹洁大漏勺",
+      "onboard_time": 1742552481,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 36177,
@@ -2747,6 +2883,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13738,
+      "num": 139408,
+      "word": "小朋友也喜欢穿联名",
+      "onboard_time": 1742551822,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 10066,
+      "num": 1035744,
+      "word": "航天员正在给中国空间站穿铠甲",
+      "onboard_time": 1742552481,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2735,
       "num": 1102817,
       "word": "高质量发展中国行",
@@ -2767,6 +2919,9 @@
     },
     {
       "word": "#总书记点赞的土特产#"
+    },
+    {
+      "word": "#跟着习近平总书记走进古城老街#"
     }
   ]
 }
