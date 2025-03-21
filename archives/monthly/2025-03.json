@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742556963688,
+  "endTime": 1742561105939,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -5699,6 +5699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 868884,
+      "num": 190135,
+      "word": "Hanni说谎",
+      "onboard_time": 1742557223,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 868241,
       "num": 428747,
       "word": "藕饼欲莲",
@@ -5713,6 +5721,14 @@
       "onboard_time": 1741851801,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 867576,
+      "num": 187920,
+      "word": "经期3天和7天的女性谁老得更快",
+      "onboard_time": 1742558904,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 867217,
@@ -5857,6 +5873,14 @@
       "onboard_time": 1741823542,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 848138,
+      "num": 1135702,
+      "word": "王蓉 一公淘汰",
+      "onboard_time": 1742555721,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 847471,
@@ -13019,14 +13043,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 432398,
-      "num": 432398,
-      "word": "王蓉 一公淘汰",
-      "onboard_time": 1742555721,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 432117,
       "num": 353861,
       "word": "白敬亭换新发色了",
@@ -14177,6 +14193,14 @@
       "onboard_time": 1741677501,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 396076,
+      "num": 448523,
+      "word": "雁回时",
+      "onboard_time": 1742378663,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 395747,
@@ -16451,14 +16475,6 @@
       "category": "海外新闻,旅游"
     },
     {
-      "raw_hot": 338916,
-      "num": 448523,
-      "word": "雁回时",
-      "onboard_time": 1742378663,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 338357,
       "num": 335875,
       "word": "王楚钦憋笑给孙颖莎递手机",
@@ -17017,6 +17033,14 @@
       "onboard_time": 1741049718,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 327514,
+      "num": 211073,
+      "word": "yesok",
+      "onboard_time": 1742556982,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 327508,
@@ -17755,6 +17779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307909,
+      "num": 189499,
+      "word": "田曦薇逐玉杀青捧花照",
+      "onboard_time": 1742559502,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307747,
       "num": 224072,
       "word": "金靖对林一说人不塌就行了",
@@ -18129,6 +18161,14 @@
       "onboard_time": 1741709362,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300828,
+      "num": 189091,
+      "word": "网易云向李荣浩致歉",
+      "onboard_time": 1742559322,
+      "rank": 15,
+      "category": "音乐,互联网"
     },
     {
       "raw_hot": 300823,
@@ -19465,6 +19505,14 @@
       "onboard_time": 1742023642,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 277941,
+      "num": 396594,
+      "word": "余承东回应PuraX价格争议",
+      "onboard_time": 1742554401,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 277801,
@@ -22947,6 +22995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231754,
+      "num": 301589,
+      "word": "儿子尿毒症63岁母亲偷偷签字捐肾",
+      "onboard_time": 1742555182,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231635,
       "num": 231635,
       "word": "孟子义上海",
@@ -25619,6 +25675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209227,
+      "num": 178049,
+      "word": "王宣贻还在上小学",
+      "onboard_time": 1742558602,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209176,
       "num": 209176,
       "word": "酸奶碗",
@@ -25889,14 +25953,6 @@
       "onboard_time": 1741837223,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 207631,
-      "num": 301589,
-      "word": "儿子尿毒症63岁母亲偷偷签字捐肾",
-      "onboard_time": 1742555182,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207629,
@@ -27371,14 +27427,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200423,
-      "num": 396594,
-      "word": "余承东回应PuraX价格争议",
-      "onboard_time": 1742554401,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 200406,
       "num": 222015,
       "word": "翟潇闻直播",
@@ -28649,6 +28697,14 @@
       "onboard_time": 1741394480,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193961,
+      "num": 193961,
+      "word": "我国成功发射一箭六星",
+      "onboard_time": 1742558602,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193950,
@@ -30265,6 +30321,14 @@
       "onboard_time": 1741936762,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186756,
+      "num": 186756,
+      "word": "李晟 每天起来读三遍",
+      "onboard_time": 1742560342,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 186755,
@@ -33859,6 +33923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167818,
+      "num": 167818,
+      "word": "谢娜杨迪在横店直播",
+      "onboard_time": 1742559263,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167805,
       "num": 167805,
       "word": "研究生宿舍生活能有多快乐",
@@ -36003,6 +36075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158796,
+      "num": 158796,
+      "word": "睡觉少于6小时或超过9小时都不好",
+      "onboard_time": 1742558842,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 158745,
       "num": 158745,
       "word": "男生看到地铁座椅血迹主动擦干净",
@@ -38131,6 +38211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150427,
+      "num": 150427,
+      "word": "李艺彤 这么多年都没红不可能翻红",
+      "onboard_time": 1742554701,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150373,
       "num": 301992,
       "word": "王一博告黑获胜",
@@ -39427,6 +39515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145630,
+      "num": 145630,
+      "word": "汪苏泷鸟巢演唱会",
+      "onboard_time": 1742559622,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145598,
       "num": 145598,
       "word": "减重小妙招",
@@ -39681,14 +39777,6 @@
       "onboard_time": 1741224317,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 144720,
-      "num": 144720,
-      "word": "李艺彤 这么多年都没红不可能翻红",
-      "onboard_time": 1742554701,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 144692,
@@ -41707,6 +41795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137006,
+      "num": 137006,
+      "word": "张小婉管乐你俩让我觉得陌生",
+      "onboard_time": 1742559982,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136984,
       "num": 198664,
       "word": "马龙出征全运会资格赛",
@@ -42425,6 +42521,14 @@
       "onboard_time": 1741501161,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 134074,
+      "num": 188251,
+      "word": "王珞丹素颜直播",
+      "onboard_time": 1742560522,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 134063,
@@ -43361,6 +43465,14 @@
       "onboard_time": 1741571720,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 130021,
+      "num": 189009,
+      "word": "因2.6元举报有偿陪侍代驾小哥发声",
+      "onboard_time": 1742557701,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129887,
@@ -47491,6 +47603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115056,
+      "num": 189956,
+      "word": "张子枫说不要冲动饲养更别随意抛弃",
+      "onboard_time": 1742557642,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115016,
       "num": 143825,
       "word": "维斯塔潘的私人飞机太酷了",
@@ -47585,6 +47705,14 @@
       "onboard_time": 1741518441,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114447,
+      "num": 114447,
+      "word": "谁教陈都灵这么剧宣的",
+      "onboard_time": 1742560763,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 114446,
@@ -47705,6 +47833,14 @@
       "onboard_time": 1742303723,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113996,
+      "num": 113996,
+      "word": "麻绳专挑细处断 命运戏弄大馋猪",
+      "onboard_time": 1742558061,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 113965,
@@ -48747,6 +48883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110206,
+      "num": 110206,
+      "word": "消费贷新政落地",
+      "onboard_time": 1742559982,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110196,
       "num": 110196,
       "word": "原来是四年前的刘昊然啊",
@@ -49369,6 +49513,14 @@
       "onboard_time": 1740824542,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107606,
+      "num": 188628,
+      "word": "李兰迪工作室收官必有高人指点",
+      "onboard_time": 1742559022,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 107568,
@@ -50529,6 +50681,14 @@
       "onboard_time": 1741426882,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103099,
+      "num": 103099,
+      "word": "周深演唱会舞美灯光获国际大奖",
+      "onboard_time": 1742561063,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 102963,
@@ -56843,6 +57003,14 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 67021,
+      "num": 188752,
+      "word": "网民称东莞一学校因跳蚤多放假",
+      "onboard_time": 1742560102,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66998,
       "num": 66998,
       "word": "dsn直播",
@@ -59419,6 +59587,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 51847,
+      "num": 186594,
+      "word": "拉塞尔放话颜值在F1能排前五",
+      "onboard_time": 1742560522,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51827,
       "num": 66173,
       "word": "华为正式组建医疗卫生军团",
@@ -60785,6 +60961,14 @@
       "onboard_time": 1741389317,
       "rank": 24,
       "category": "情感,剧集"
+    },
+    {
+      "raw_hot": 43862,
+      "num": 131967,
+      "word": "霸王茶姬换头像了",
+      "onboard_time": 1742558904,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 43853,
@@ -64195,6 +64379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27662,
+      "num": 187346,
+      "word": "PEL常规赛第四周周决赛",
+      "onboard_time": 1742560401,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 27645,
       "num": 282027,
       "word": "智能电视设计需要适老化",
@@ -65561,6 +65753,14 @@
       "onboard_time": 1740855612,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21813,
+      "num": 189457,
+      "word": "中国留学生荷兰失踪近1个月案件进展",
+      "onboard_time": 1742560222,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21809,
@@ -67105,6 +67305,14 @@
       "onboard_time": 1741039752,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14575,
+      "num": 181944,
+      "word": "一代人有一代人的balaT",
+      "onboard_time": 1742558904,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 14533,
