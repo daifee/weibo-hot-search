@@ -1,0 +1,410 @@
+{
+  "runTime": 1742564545093,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 867805,
+        "num": 1138848,
+        "word": "王蓉 一公淘汰",
+        "onboard_time": 1742555721,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341789,
+        "num": 341789,
+        "word": "女生瞒着家人半年打赏主播近200万",
+        "onboard_time": 1742562024,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37179,
+        "num": 288847,
+        "word": "外交部发言人毛宁向世界推介西藏冰川",
+        "onboard_time": 1742552902,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 547456,
+        "num": 288434,
+        "word": "因2.6元举报有偿陪侍代驾小哥发声",
+        "onboard_time": 1742557701,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416446,
+        "num": 288304,
+        "word": "浪姐6喝点中药吧",
+        "onboard_time": 1742553621,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286709,
+        "num": 286709,
+        "word": "外交部提醒日本",
+        "onboard_time": 1742549661,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 313190,
+        "num": 282455,
+        "word": "网易云向李荣浩致歉",
+        "onboard_time": 1742559322,
+        "rank": 6,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 304112,
+        "num": 264807,
+        "word": "雁回时",
+        "onboard_time": 1742557161,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227813,
+        "num": 227813,
+        "word": "余承东回应PuraX价格争议",
+        "onboard_time": 1742554401,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150053,
+        "num": 227705,
+        "word": "蔡旭哲成为太空出舱最多的中国航天员",
+        "onboard_time": 1742563343,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 584814,
+        "num": 227506,
+        "word": "Hanni说谎",
+        "onboard_time": 1742557223,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275756,
+        "num": 227105,
+        "word": "刘亦菲皮衣街拍",
+        "onboard_time": 1742561424,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263384,
+        "num": 226789,
+        "word": "赵露思回复教取关教程网友谢谢",
+        "onboard_time": 1742526322,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251044,
+        "num": 226556,
+        "word": "孕妇羊水破裂13岁男孩成功助产",
+        "onboard_time": 1742541441,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55197,
+        "num": 226188,
+        "word": "想去武汉看樱花的心达到了顶峰",
+        "onboard_time": 1742563403,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226084,
+        "num": 226084,
+        "word": "田曦薇逐玉杀青捧花照",
+        "onboard_time": 1742559502,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212238,
+        "num": 212238,
+        "word": "我国成功发射一箭六星",
+        "onboard_time": 1742558602,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208890,
+        "num": 208890,
+        "word": "汪苏泷像晴天像雨天首唱",
+        "onboard_time": 1742562264,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191490,
+        "num": 191490,
+        "word": "yesok",
+        "onboard_time": 1742556982,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28733,
+        "num": 191204,
+        "word": "55岁阿姨夺DMS自然健身赛全场冠军",
+        "onboard_time": 1742563403,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 798221,
+        "num": 189518,
+        "word": "经期3天和7天的女性谁老得更快",
+        "onboard_time": 1742558904,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 750122,
+        "num": 188693,
+        "word": "罗予彤 断层",
+        "onboard_time": 1742551521,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 667611,
+        "num": 186745,
+        "word": "93岁强奸不收押老人已无法自主行走",
+        "onboard_time": 1742547621,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401365,
+        "num": 185728,
+        "word": "李嘉琦真的被低估了",
+        "onboard_time": 1742549781,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89903,
+        "num": 184540,
+        "word": "消费贷新政落地",
+        "onboard_time": 1742559982,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184289,
+        "num": 184289,
+        "word": "全班39人都被抢走企业追着老师要人",
+        "onboard_time": 1742549720,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183941,
+        "num": 183941,
+        "word": "北大毕业生做正骨被踢出班级群",
+        "onboard_time": 1742564064,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182345,
+        "num": 182345,
+        "word": "张小婉管乐你俩让我觉得陌生",
+        "onboard_time": 1742559982,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21071,
+        "num": 178612,
+        "word": "海尔CEO在线收用户小纸条",
+        "onboard_time": 1742563702,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155197,
+        "num": 177828,
+        "word": "王俊凯小时候同款小嘚瑟",
+        "onboard_time": 1742563043,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203226,
+        "num": 177826,
+        "word": "樊振东观赛后发文",
+        "onboard_time": 1742564124,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177798,
+        "num": 177798,
+        "word": "中华环保联合会删除虞书欣相关",
+        "onboard_time": 1742546362,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166840,
+        "num": 166840,
+        "word": "樊振东希望大家感受到棒球的魅力",
+        "onboard_time": 1742564482,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145730,
+        "num": 145730,
+        "word": "陈赫爆改沉赫",
+        "onboard_time": 1742563884,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142473,
+        "num": 142473,
+        "word": "汪苏泷巡演嘉宾李荣浩",
+        "onboard_time": 1742564001,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142440,
+        "num": 142440,
+        "word": "孙颖莎回应对手比自己小一轮",
+        "onboard_time": 1742561301,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194274,
+        "num": 142211,
+        "word": "樊振东东京赛观赛vlog",
+        "onboard_time": 1742563282,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141794,
+        "num": 141794,
+        "word": "张子枫说不要冲动饲养更别随意抛弃",
+        "onboard_time": 1742557642,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29452,
+        "num": 138442,
+        "word": "海尔周云杰说年轻人不要委屈自己",
+        "onboard_time": 1742562864,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136954,
+        "num": 136954,
+        "word": "不胖和很瘦的区别",
+        "onboard_time": 1742550441,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136442,
+        "num": 136442,
+        "word": "卡琳娜直播",
+        "onboard_time": 1742564243,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32064,
+        "num": 134884,
+        "word": "公司收取约上亿元利息却拒开发票",
+        "onboard_time": 1742562502,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134371,
+        "num": 134371,
+        "word": "儿子尿毒症63岁母亲偷偷签字捐肾",
+        "onboard_time": 1742555182,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130929,
+        "num": 130929,
+        "word": "戚薇李承铉来妻子对账来了",
+        "onboard_time": 1742561781,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11434,
+        "num": 126874,
+        "word": "没有人能拒绝夜幕下的巴黎",
+        "onboard_time": 1742563702,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126551,
+        "num": 126551,
+        "word": "司马南偷税被罚超900万",
+        "onboard_time": 1742523020,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121834,
+        "num": 121834,
+        "word": "女子入职得知生娃奖10万果断再怀孕",
+        "onboard_time": 1742544382,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118006,
+        "num": 118006,
+        "word": "雁回时第10集好看",
+        "onboard_time": 1742563223,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112041,
+        "num": 112041,
+        "word": "王珞丹素颜直播",
+        "onboard_time": 1742560522,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109283,
+        "num": 109283,
+        "word": "李晟 每天起来读三遍",
+        "onboard_time": 1742560342,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记赴贵州云南考察纪实#"
+    }
+  }
+}
