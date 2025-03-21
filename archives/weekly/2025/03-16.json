@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742561105939,
+  "endTime": 1742562037105,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -1892,7 +1892,7 @@
     },
     {
       "raw_hot": 868884,
-      "num": 190135,
+      "num": 237703,
       "word": "Hanni说谎",
       "onboard_time": 1742557223,
       "rank": 10,
@@ -1900,7 +1900,7 @@
     },
     {
       "raw_hot": 867576,
-      "num": 187920,
+      "num": 191468,
       "word": "经期3天和7天的女性谁老得更快",
       "onboard_time": 1742558904,
       "rank": 21,
@@ -4347,6 +4347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418994,
+      "num": 448523,
+      "word": "雁回时",
+      "onboard_time": 1742378663,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418675,
       "num": 418675,
       "word": "大学生找月薪8千工作倒欠2万7",
@@ -4545,14 +4553,6 @@
       "onboard_time": 1742255121,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 396076,
-      "num": 448523,
-      "word": "雁回时",
-      "onboard_time": 1742378663,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 395747,
@@ -4995,6 +4995,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 347258,
+      "num": 347258,
+      "word": "因2.6元举报有偿陪侍代驾小哥发声",
+      "onboard_time": 1742557701,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346203,
       "num": 346203,
       "word": "落实带薪年休假同时鼓励弹性错峰休假",
@@ -5212,7 +5220,7 @@
     },
     {
       "raw_hot": 327514,
-      "num": 211073,
+      "num": 259528,
       "word": "yesok",
       "onboard_time": 1742556982,
       "rank": 7,
@@ -5355,6 +5363,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 311675,
+      "num": 237221,
+      "word": "网易云向李荣浩致歉",
+      "onboard_time": 1742559322,
+      "rank": 15,
+      "category": "音乐,互联网"
+    },
+    {
       "raw_hot": 311131,
       "num": 529005,
       "word": "鼓励带薪年休假与小长假连休",
@@ -5388,7 +5404,7 @@
     },
     {
       "raw_hot": 307909,
-      "num": 189499,
+      "num": 232654,
       "word": "田曦薇逐玉杀青捧花照",
       "onboard_time": 1742559502,
       "rank": 13,
@@ -5497,14 +5513,6 @@
       "onboard_time": 1742468061,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 300828,
-      "num": 189091,
-      "word": "网易云向李荣浩致歉",
-      "onboard_time": 1742559322,
-      "rank": 15,
-      "category": "音乐,互联网"
     },
     {
       "raw_hot": 300321,
@@ -6787,6 +6795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240859,
+      "num": 240859,
+      "word": "我国成功发射一箭六星",
+      "onboard_time": 1742558602,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 240574,
       "num": 240574,
       "word": "tbz直播剃头",
@@ -7771,6 +7787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211460,
+      "num": 211460,
+      "word": "王珞丹素颜直播",
+      "onboard_time": 1742560522,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211293,
       "num": 211293,
       "word": "孙颖莎vs魏闻声",
@@ -7945,6 +7969,14 @@
       "onboard_time": 1742093123,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207899,
+      "num": 230236,
+      "word": "张子枫说不要冲动饲养更别随意抛弃",
+      "onboard_time": 1742557642,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207778,
@@ -8867,14 +8899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193961,
-      "num": 193961,
-      "word": "我国成功发射一箭六星",
-      "onboard_time": 1742558602,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 193871,
       "num": 193871,
       "word": "刘昊然黑皮衣杀伤力",
@@ -9289,6 +9313,14 @@
       "onboard_time": 1742357603,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188551,
+      "num": 188551,
+      "word": "刘亦菲皮衣街拍",
+      "onboard_time": 1742561424,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 188511,
@@ -9881,6 +9913,14 @@
       "onboard_time": 1742109742,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 179336,
+      "num": 179336,
+      "word": "鸣潮",
+      "onboard_time": 1742561424,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 179326,
@@ -11379,6 +11419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155174,
+      "num": 155174,
+      "word": "张小婉管乐你俩让我觉得陌生",
+      "onboard_time": 1742559982,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154999,
       "num": 154999,
       "word": "谁家剧藏了这么多影帝影后",
@@ -11561,6 +11609,14 @@
       "onboard_time": 1742396244,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152504,
+      "num": 152504,
+      "word": "周深演唱会舞美灯光获国际大奖",
+      "onboard_time": 1742561063,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 152466,
@@ -12915,12 +12971,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137006,
-      "num": 137006,
-      "word": "张小婉管乐你俩让我觉得陌生",
-      "onboard_time": 1742559982,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 137008,
+      "num": 232194,
+      "word": "中国留学生荷兰失踪近1个月案件进展",
+      "onboard_time": 1742560222,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136984,
@@ -13211,14 +13267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134074,
-      "num": 188251,
-      "word": "王珞丹素颜直播",
-      "onboard_time": 1742560522,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134063,
       "num": 196405,
       "word": "英国希思罗机场关闭",
@@ -13497,14 +13545,6 @@
       "onboard_time": 1742103442,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130021,
-      "num": 189009,
-      "word": "因2.6元举报有偿陪侍代驾小哥发声",
-      "onboard_time": 1742557701,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129887,
@@ -14547,6 +14587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115729,
+      "num": 115729,
+      "word": "谁教陈都灵这么剧宣的",
+      "onboard_time": 1742560763,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115550,
       "num": 115550,
       "word": "真诚建议从源头开始减少家务",
@@ -14587,20 +14635,20 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 115056,
-      "num": 189956,
-      "word": "张子枫说不要冲动饲养更别随意抛弃",
-      "onboard_time": 1742557642,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115016,
       "num": 143825,
       "word": "维斯塔潘的私人飞机太酷了",
       "onboard_time": 1742367744,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114911,
+      "num": 188752,
+      "word": "网民称东莞一学校因跳蚤多放假",
+      "onboard_time": 1742560102,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114767,
@@ -14619,20 +14667,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114725,
+      "num": 114725,
+      "word": "麻绳专挑细处断 命运戏弄大馋猪",
+      "onboard_time": 1742558061,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114690,
       "num": 114690,
       "word": "赵丽颖说高月香有血性",
       "onboard_time": 1742372423,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 114447,
-      "num": 114447,
-      "word": "谁教陈都灵这么剧宣的",
-      "onboard_time": 1742560763,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 114329,
@@ -14665,14 +14713,6 @@
       "onboard_time": 1742303723,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113996,
-      "num": 113996,
-      "word": "麻绳专挑细处断 命运戏弄大馋猪",
-      "onboard_time": 1742558061,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 113935,
@@ -14737,6 +14777,14 @@
       "onboard_time": 1742194642,
       "rank": 44,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 113001,
+      "num": 113001,
+      "word": "戚薇李承铉来妻子对账来了",
+      "onboard_time": 1742561781,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 112979,
@@ -14817,6 +14865,14 @@
       "onboard_time": 1742498355,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111480,
+      "num": 188628,
+      "word": "李兰迪工作室收官必有高人指点",
+      "onboard_time": 1742559022,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 111420,
@@ -15115,14 +15171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107606,
-      "num": 188628,
-      "word": "李兰迪工作室收官必有高人指点",
-      "onboard_time": 1742559022,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107403,
       "num": 107403,
       "word": "曝哪吒汽车解散研发团队",
@@ -15153,6 +15201,14 @@
       "onboard_time": 1742479403,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 107038,
+      "num": 177437,
+      "word": "孙颖莎回应对手比自己小一轮",
+      "onboard_time": 1742561301,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 107006,
@@ -15345,14 +15401,6 @@
       "onboard_time": 1742123722,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103099,
-      "num": 103099,
-      "word": "周深演唱会舞美灯光获国际大奖",
-      "onboard_time": 1742561063,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 102946,
@@ -16883,14 +16931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67021,
-      "num": 188752,
-      "word": "网民称东莞一学校因跳蚤多放假",
-      "onboard_time": 1742560102,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66924,
       "num": 265597,
       "word": "王一博对接辟谣网传离开乐华",
@@ -18043,6 +18083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45420,
+      "num": 131967,
+      "word": "霸王茶姬换头像了",
+      "onboard_time": 1742558904,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 45397,
       "num": 346849,
       "word": "黄金价格还会涨多久",
@@ -18099,20 +18147,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43862,
-      "num": 131967,
-      "word": "霸王茶姬换头像了",
-      "onboard_time": 1742558904,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 43714,
       "num": 412232,
       "word": "半月谈评翻新卫生巾乱象",
       "onboard_time": 1742544262,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 43632,
+      "num": 158895,
+      "word": "孙颖莎说明天比赛也会全力以赴",
+      "onboard_time": 1742561843,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 43593,
@@ -18217,6 +18265,14 @@
       "onboard_time": 1742300364,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42816,
+      "num": 239806,
+      "word": "年轻人买20元奶茶抠搜50元吧唧豪爽",
+      "onboard_time": 1742561663,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42671,
@@ -19459,14 +19515,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 21813,
-      "num": 189457,
-      "word": "中国留学生荷兰失踪近1个月案件进展",
-      "onboard_time": 1742560222,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21809,
       "num": 377221,
       "word": "孙颖莎坐索道",
@@ -19937,6 +19985,14 @@
       "onboard_time": 1742471662,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 14732,
+      "num": 176420,
+      "word": "河北女团全运会资格赛两连胜",
+      "onboard_time": 1742561243,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 14677,
