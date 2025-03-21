@@ -1,0 +1,411 @@
+{
+  "startTime": 1742574620173,
+  "endTime": 1742574620173,
+  "band_list": [
+    {
+      "raw_hot": 903376,
+      "num": 917474,
+      "word": "北大毕业生做正骨被踢出班级群",
+      "onboard_time": 1742564064,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552808,
+      "num": 552808,
+      "word": "婚姻登记条例修订草案审议通过",
+      "onboard_time": 1742572463,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 550725,
+      "num": 550725,
+      "word": "金价开跌",
+      "onboard_time": 1742567604,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 476000,
+      "num": 476000,
+      "word": "杨超越银色短发",
+      "onboard_time": 1742567664,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 435530,
+      "num": 127307,
+      "word": "罗予彤 断层",
+      "onboard_time": 1742551521,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 394747,
+      "num": 127147,
+      "word": "93岁强奸不收押老人已无法自主行走",
+      "onboard_time": 1742547621,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316033,
+      "num": 316033,
+      "word": "吴宣仪连麦了13个人",
+      "onboard_time": 1742571801,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 304278,
+      "num": 64410,
+      "word": "陈都灵傅菁有吻戏吗",
+      "onboard_time": 1742567604,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 274599,
+      "num": 229840,
+      "word": "Hanni说谎",
+      "onboard_time": 1742557223,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 263767,
+      "num": 126511,
+      "word": "经期3天和7天的女性谁老得更快",
+      "onboard_time": 1742558904,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 244527,
+      "num": 244527,
+      "word": "全国首个咖啡本科专业有多香",
+      "onboard_time": 1742567604,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243031,
+      "num": 243031,
+      "word": "乌克兰不再被邀请加入北约",
+      "onboard_time": 1742572280,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 233951,
+      "num": 233951,
+      "word": "这一站是上岸",
+      "onboard_time": 1742566943,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233485,
+      "num": 233485,
+      "word": "女生瞒着家人半年打赏主播近200万",
+      "onboard_time": 1742562024,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221937,
+      "num": 221937,
+      "word": "让李荣浩发飙的NFC到底是啥",
+      "onboard_time": 1742572222,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 221850,
+      "num": 221850,
+      "word": "小燕子姐姐初舞台失误拿最低分",
+      "onboard_time": 1742571262,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205936,
+      "num": 205936,
+      "word": "坏了真让王大锤走向人生巅峰了",
+      "onboard_time": 1742569344,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199025,
+      "num": 125275,
+      "word": "睡眠超9小时会让身体出现各种问题",
+      "onboard_time": 1742566284,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198434,
+      "num": 198434,
+      "word": "汪苏泷晒演唱会与粉丝大合照",
+      "onboard_time": 1742568864,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 196964,
+      "num": 196964,
+      "word": "张小婉管乐你俩让我觉得陌生",
+      "onboard_time": 1742559982,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164434,
+      "num": 164434,
+      "word": "地窝堡机场已正式改名",
+      "onboard_time": 1742572341,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134610,
+      "num": 134610,
+      "word": "雁回时",
+      "onboard_time": 1742557161,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131694,
+      "num": 123817,
+      "word": "何秋亊翻牌",
+      "onboard_time": 1742571323,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 127996,
+      "num": 127996,
+      "word": "王腾称下个月出大部分人买得起的手机",
+      "onboard_time": 1742565443,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 123742,
+      "num": 123742,
+      "word": "李嘉琦真的被低估了",
+      "onboard_time": 1742549781,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116875,
+      "num": 116875,
+      "word": "养猫后很讨厌别人说哪句话",
+      "onboard_time": 1742569223,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 113331,
+      "num": 113331,
+      "word": "春天多出去玩就是大补",
+      "onboard_time": 1742565743,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112664,
+      "num": 112664,
+      "word": "中华环保联合会删除虞书欣相关",
+      "onboard_time": 1742546362,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110118,
+      "num": 110118,
+      "word": "赵今麦宋威龙骄阳似我一家三口路透",
+      "onboard_time": 1742568983,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98899,
+      "num": 98899,
+      "word": "李艺彤 这么多年都没红不可能翻红",
+      "onboard_time": 1742554701,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91275,
+      "num": 91275,
+      "word": "医院自助取袋机被曝性别定制广告",
+      "onboard_time": 1742565983,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89975,
+      "num": 89975,
+      "word": "刘毅王昶无缘瑞士赛四强",
+      "onboard_time": 1742571262,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85184,
+      "num": 85184,
+      "word": "余承东回应PuraX价格争议",
+      "onboard_time": 1742554401,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 84146,
+      "num": 84146,
+      "word": "刘亦菲皮衣街拍",
+      "onboard_time": 1742561424,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76282,
+      "num": 76282,
+      "word": "孕妇羊水破裂13岁男孩成功助产",
+      "onboard_time": 1742541441,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75114,
+      "num": 75114,
+      "word": "网易云向李荣浩致歉",
+      "onboard_time": 1742559322,
+      "rank": 38,
+      "category": "音乐,互联网"
+    },
+    {
+      "raw_hot": 71181,
+      "num": 71181,
+      "word": "外交部提醒日本",
+      "onboard_time": 1742549661,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 69268,
+      "num": 69268,
+      "word": "孙颖莎对手才上小学六年级",
+      "onboard_time": 1742566163,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66733,
+      "num": 66733,
+      "word": "金秀贤山寨人生停播后还能上线吗",
+      "onboard_time": 1742568263,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 66503,
+      "num": 66503,
+      "word": "全班39人都被抢走企业追着老师要人",
+      "onboard_time": 1742549720,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65821,
+      "num": 65821,
+      "word": "newjeans在法院说谎ILLIT没打招呼",
+      "onboard_time": 1742568384,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 64427,
+      "num": 64427,
+      "word": "儿子尿毒症63岁母亲偷偷签字捐肾",
+      "onboard_time": 1742555182,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62204,
+      "num": 112875,
+      "word": "孙海洋称有人出价百万提供寻子线索",
+      "onboard_time": 1742574021,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60518,
+      "num": 64419,
+      "word": "田曦薇逐玉杀青捧花照",
+      "onboard_time": 1742559502,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 59411,
+      "num": 64404,
+      "word": "司马南偷税被罚超900万",
+      "onboard_time": 1742523020,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54424,
+      "num": 64392,
+      "word": "SEVENTEEN十周年回归预告",
+      "onboard_time": 1742569824,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 50617,
+      "num": 64387,
+      "word": "名下3公司老人五保户申请受阻",
+      "onboard_time": 1742572040,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37422,
+      "num": 125122,
+      "word": "京城大师赛",
+      "onboard_time": 1742574021,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 37225,
+      "num": 551468,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1742551221,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21368,
+      "num": 201691,
+      "word": "车管所周边黄牛买卖驾照分公然拉客",
+      "onboard_time": 1742573721,
+      "rank": 14,
+      "category": "舆论监督"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#跟着总书记探寻古城老街文韵#"
+    }
+  ]
+}
