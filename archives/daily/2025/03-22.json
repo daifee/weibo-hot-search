@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742589548468,
+  "endTime": 1742592115344,
   "band_list": [
     {
       "raw_hot": 903376,
@@ -523,20 +523,28 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 11295,
-      "num": 15322,
+      "raw_hot": 15421,
+      "num": 15421,
+      "word": "韩女议员呼吁弹劾尹锡悦被砸鸡蛋",
+      "onboard_time": 1742589434,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 11434,
+      "num": 15417,
       "word": "交警方阵式为患病女童开道",
       "onboard_time": 1742587634,
       "rank": 48,
       "category": "正能量"
     },
     {
-      "raw_hot": 11086,
-      "num": 15320,
-      "word": "韩女议员呼吁弹劾尹锡悦被砸鸡蛋",
-      "onboard_time": 1742589434,
+      "raw_hot": 10507,
+      "num": 15414,
+      "word": "西南春来早",
+      "onboard_time": 1742590454,
       "rank": 49,
-      "category": "国际时政"
+      "category": "国内时政"
     },
     {
       "raw_hot": 9562,
