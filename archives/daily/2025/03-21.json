@@ -1,10 +1,18 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742513867143,
+  "endTime": 1742521808951,
   "band_list": [
     {
+      "raw_hot": 3363452,
+      "num": 3363452,
+      "word": "湖大失联女生遗体已找到",
+      "onboard_time": 1742520561,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1633830,
-      "num": 198059,
+      "num": 255464,
       "word": "赵露思取关",
       "onboard_time": 1742455462,
       "rank": 10,
@@ -27,6 +35,30 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1002544,
+      "num": 262180,
+      "word": "赵露思 要化爱化化一辈子",
+      "onboard_time": 1742514019,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 934470,
+      "num": 934470,
+      "word": "货车不慎将答题卡散落一地",
+      "onboard_time": 1742516361,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 829820,
+      "num": 829820,
+      "word": "公公给儿媳的陪嫁猫做三层榫卯床",
+      "onboard_time": 1742516660,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 827663,
       "num": 199194,
       "word": "韩安冉朋友圈发文",
@@ -36,7 +68,7 @@
     },
     {
       "raw_hot": 713633,
-      "num": 196124,
+      "num": 259401,
       "word": "985研究生退学摆摊日入700元",
       "onboard_time": 1742485882,
       "rank": 11,
@@ -49,6 +81,14 @@
       "onboard_time": 1742487380,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 622281,
+      "num": 622281,
+      "word": "金价",
+      "onboard_time": 1742517683,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 569494,
@@ -83,8 +123,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503242,
+      "num": 260819,
+      "word": "韩安冉 长记性了没下次了",
+      "onboard_time": 1742518941,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 453145,
-      "num": 171476,
+      "num": 192943,
       "word": "疑似王一博离开乐华",
       "onboard_time": 1742476523,
       "rank": 13,
@@ -92,7 +140,7 @@
     },
     {
       "raw_hot": 438608,
-      "num": 166861,
+      "num": 256382,
       "word": "男子因没钱起诉已分手3年女友还40万",
       "onboard_time": 1742484023,
       "rank": 14,
@@ -107,12 +155,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355988,
+      "num": 355988,
+      "word": "黄子弘凡被收录进IFPI案例",
+      "onboard_time": 1742515462,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305162,
       "num": 305162,
       "word": "女子取一个快递被骗10多万",
       "onboard_time": 1742480303,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299510,
+      "num": 258194,
+      "word": "杨紫一生见佛拜佛的中国人",
+      "onboard_time": 1742517081,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 296699,
+      "num": 296699,
+      "word": "作者回应玉盘是否为战歌",
+      "onboard_time": 1742518581,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 288125,
@@ -131,8 +203,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263807,
+      "num": 263807,
+      "word": "寻梦环游记2定档2029年",
+      "onboard_time": 1742518283,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 261853,
-      "num": 163150,
+      "num": 244990,
       "word": "金秀贤方面准备道歉",
       "onboard_time": 1742461822,
       "rank": 15,
@@ -155,12 +235,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 254829,
+      "num": 254829,
+      "word": "阚清子今早体重55.8kg",
+      "onboard_time": 1742520921,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254237,
       "num": 159830,
       "word": "央视网发白敬亭上春山",
       "onboard_time": 1742448621,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250490,
+      "num": 250490,
+      "word": "西双版纳偶遇宋浩然韩安冉",
+      "onboard_time": 1742520081,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 249078,
@@ -171,12 +267,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248933,
+      "num": 262864,
+      "word": "短剧霸总四少同走红毯",
+      "onboard_time": 1742515101,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 246216,
+      "num": 246216,
+      "word": "宋浩然称将无限期停播",
+      "onboard_time": 1742517561,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 227748,
       "num": 227748,
       "word": "林良铭直红",
       "onboard_time": 1742498234,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223147,
+      "num": 147701,
+      "word": "金秀贤方要公开金赛纶行踪",
+      "onboard_time": 1742517501,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 220755,
@@ -227,6 +347,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173339,
+      "num": 173339,
+      "word": "男子瞒着子女转80%房产给再婚妻子",
+      "onboard_time": 1742519061,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173253,
+      "num": 150939,
+      "word": "医生建议不要强制自己入睡",
+      "onboard_time": 1742490138,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160487,
+      "num": 160487,
+      "word": "急急如律令是啥意思",
+      "onboard_time": 1742521520,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156258,
       "num": 156258,
       "word": "华为 刘亦菲",
@@ -249,6 +393,22 @@
       "onboard_time": 1742499674,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145338,
+      "num": 145338,
+      "word": "国足全场控球率仅20%",
+      "onboard_time": 1742520261,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142805,
+      "num": 142805,
+      "word": "孩子考了100妈妈兑现承诺买小狗",
+      "onboard_time": 1742518400,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138330,
@@ -275,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126930,
+      "num": 126930,
+      "word": "无限暖暖",
+      "onboard_time": 1742519602,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125461,
       "num": 203671,
       "word": "杜华问你配吗",
@@ -283,12 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120625,
-      "num": 116539,
-      "word": "医生建议不要强制自己入睡",
-      "onboard_time": 1742490138,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 120620,
+      "num": 120620,
+      "word": "Leader懒人洗衣机能洗鞋了",
+      "onboard_time": 1742521520,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120459,
@@ -307,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115992,
+      "num": 115992,
+      "word": "景德镇被偷手机当事人发声",
+      "onboard_time": 1742518521,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111900,
       "num": 111900,
       "word": "沙特半场0比0国足",
@@ -323,12 +499,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110378,
+      "num": 110378,
+      "word": "被动熬夜如何提高睡眠质量",
+      "onboard_time": 1742521580,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107480,
       "num": 107480,
       "word": "哪吒2票房152亿",
       "onboard_time": 1742463983,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 107210,
+      "num": 107210,
+      "word": "哪些睡眠异常可能是疾病信号",
+      "onboard_time": 1742515521,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 104957,
+      "num": 104957,
+      "word": "泽连斯基要求欧盟出50亿欧元买炮弹",
+      "onboard_time": 1742513840,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104139,
@@ -347,12 +547,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 101319,
+      "num": 101319,
+      "word": "克罗地亚2比0法国",
+      "onboard_time": 1742520201,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99093,
+      "num": 158013,
+      "word": "玉盘词曲是一个姑娘写的",
+      "onboard_time": 1742519781,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 98198,
       "num": 112424,
       "word": "雁回时",
       "onboard_time": 1742465661,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95987,
+      "num": 95987,
+      "word": "男子多次冒充员工参加年会领奖被拘",
+      "onboard_time": 1742521701,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95680,
@@ -364,7 +588,7 @@
     },
     {
       "raw_hot": 94698,
-      "num": 120729,
+      "num": 157277,
       "word": "李昀锐公主抱",
       "onboard_time": 1742510597,
       "rank": 26,
@@ -379,12 +603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94291,
+      "num": 202735,
+      "word": "金价持续飙涨",
+      "onboard_time": 1742513299,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94012,
       "num": 119374,
       "word": "月鳞绮纪拍戏片场着火",
       "onboard_time": 1742483244,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92055,
+      "num": 92055,
+      "word": "千禾味业回应检出镉",
+      "onboard_time": 1742517022,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89632,
@@ -531,6 +771,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63146,
+      "num": 109009,
+      "word": "国足与印尼巴林同积6分",
+      "onboard_time": 1742516660,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60064,
+      "num": 245022,
+      "word": "退钱哥点评国足不敌沙特",
+      "onboard_time": 1742520981,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59645,
       "num": 59645,
       "word": "景德镇文旅局回应多名游客手机被偷",
@@ -563,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56482,
+      "num": 91466,
+      "word": "金秋天跳Jennie新歌",
+      "onboard_time": 1742520140,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 51864,
       "num": 70046,
       "word": "代驾小哥因2.6元举报KTV有偿陪侍",
@@ -587,6 +851,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 45550,
+      "num": 173418,
+      "word": "AI称国足有2至3成机会进附加赛",
+      "onboard_time": 1742518822,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44154,
+      "num": 833599,
+      "word": "我国大型汽车运输船上新了",
+      "onboard_time": 1742475082,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42585,
       "num": 34004,
       "word": "蒋圣龙极限封堵",
@@ -601,14 +881,6 @@
       "onboard_time": 1742476643,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40452,
-      "num": 324843,
-      "word": "我国大型汽车运输船上新了",
-      "onboard_time": 1742475082,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39082,
@@ -739,28 +1011,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14830,
-      "num": 202735,
-      "word": "金价持续飙涨",
-      "onboard_time": 1742513299,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 13871,
       "num": 14771,
       "word": "国足对战沙特怎么才能抢分成功",
       "onboard_time": 1742499914,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7363,
-      "num": 66449,
-      "word": "泽连斯基要求欧盟出50亿欧元买炮弹",
-      "onboard_time": 1742513840,
-      "rank": 41,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

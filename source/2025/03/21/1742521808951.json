@@ -1,0 +1,410 @@
+{
+  "runTime": 1742521808951,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3363452,
+        "num": 3363452,
+        "word": "湖大失联女生遗体已找到",
+        "onboard_time": 1742520561,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 934470,
+        "num": 934470,
+        "word": "货车不慎将答题卡散落一地",
+        "onboard_time": 1742516361,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44154,
+        "num": 833599,
+        "word": "我国大型汽车运输船上新了",
+        "onboard_time": 1742475082,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 829820,
+        "num": 829820,
+        "word": "公公给儿媳的陪嫁猫做三层榫卯床",
+        "onboard_time": 1742516660,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622281,
+        "num": 622281,
+        "word": "金价",
+        "onboard_time": 1742517683,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 355988,
+        "num": 355988,
+        "word": "黄子弘凡被收录进IFPI案例",
+        "onboard_time": 1742515462,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322426,
+        "num": 322426,
+        "word": "沙特1比0国足",
+        "onboard_time": 1742502074,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296699,
+        "num": 296699,
+        "word": "作者回应玉盘是否为战歌",
+        "onboard_time": 1742518581,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263807,
+        "num": 263807,
+        "word": "寻梦环游记2定档2029年",
+        "onboard_time": 1742518283,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248933,
+        "num": 262864,
+        "word": "短剧霸总四少同走红毯",
+        "onboard_time": 1742515101,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1002544,
+        "num": 262180,
+        "word": "赵露思 要化爱化化一辈子",
+        "onboard_time": 1742514019,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503242,
+        "num": 260819,
+        "word": "韩安冉 长记性了没下次了",
+        "onboard_time": 1742518941,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 358318,
+        "num": 259401,
+        "word": "985研究生退学摆摊日入700元",
+        "onboard_time": 1742485882,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299510,
+        "num": 258194,
+        "word": "杨紫一生见佛拜佛的中国人",
+        "onboard_time": 1742517081,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202367,
+        "num": 256382,
+        "word": "男子因没钱起诉已分手3年女友还40万",
+        "onboard_time": 1742484023,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623494,
+        "num": 255464,
+        "word": "赵露思取关",
+        "onboard_time": 1742455462,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254829,
+        "num": 254829,
+        "word": "阚清子今早体重55.8kg",
+        "onboard_time": 1742520921,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250490,
+        "num": 250490,
+        "word": "西双版纳偶遇宋浩然韩安冉",
+        "onboard_time": 1742520081,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 246216,
+        "num": 246216,
+        "word": "宋浩然称将无限期停播",
+        "onboard_time": 1742517561,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 60064,
+        "num": 245022,
+        "word": "退钱哥点评国足不敌沙特",
+        "onboard_time": 1742520981,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244990,
+        "num": 244990,
+        "word": "金秀贤方面准备道歉",
+        "onboard_time": 1742461822,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192943,
+        "num": 192943,
+        "word": "疑似王一博离开乐华",
+        "onboard_time": 1742476523,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184421,
+        "num": 184421,
+        "word": "闺蜜有金赛纶被家暴的照片",
+        "onboard_time": 1742480242,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174056,
+        "num": 174056,
+        "word": "自愿被群像骗了一年又一年",
+        "onboard_time": 1742481624,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45550,
+        "num": 173418,
+        "word": "AI称国足有2至3成机会进附加赛",
+        "onboard_time": 1742518822,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173339,
+        "num": 173339,
+        "word": "男子瞒着子女转80%房产给再婚妻子",
+        "onboard_time": 1742519061,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160487,
+        "num": 160487,
+        "word": "急急如律令是啥意思",
+        "onboard_time": 1742521520,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99093,
+        "num": 158013,
+        "word": "玉盘词曲是一个姑娘写的",
+        "onboard_time": 1742519781,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87223,
+        "num": 157277,
+        "word": "李昀锐公主抱",
+        "onboard_time": 1742510597,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66962,
+        "num": 154451,
+        "word": "杜华问你配吗",
+        "onboard_time": 1742476462,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173253,
+        "num": 150939,
+        "word": "医生建议不要强制自己入睡",
+        "onboard_time": 1742490138,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143907,
+        "num": 148248,
+        "word": "2000多名博主隐私被一个境外群传播",
+        "onboard_time": 1742496913,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223147,
+        "num": 147701,
+        "word": "金秀贤方要公开金赛纶行踪",
+        "onboard_time": 1742517501,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145338,
+        "num": 145338,
+        "word": "国足全场控球率仅20%",
+        "onboard_time": 1742520261,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144406,
+        "num": 144406,
+        "word": "当事人回应3.5万买北海道170平房",
+        "onboard_time": 1742484144,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142805,
+        "num": 142805,
+        "word": "孩子考了100妈妈兑现承诺买小狗",
+        "onboard_time": 1742518400,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126930,
+        "num": 126930,
+        "word": "无限暖暖",
+        "onboard_time": 1742519602,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120620,
+        "num": 120620,
+        "word": "Leader懒人洗衣机能洗鞋了",
+        "onboard_time": 1742521520,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118935,
+        "num": 118935,
+        "word": "啄木鸟承诺的整改去哪了",
+        "onboard_time": 1742480904,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 115992,
+        "num": 115992,
+        "word": "景德镇被偷手机当事人发声",
+        "onboard_time": 1742518521,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110378,
+        "num": 110378,
+        "word": "被动熬夜如何提高睡眠质量",
+        "onboard_time": 1742521580,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63146,
+        "num": 109009,
+        "word": "国足与印尼巴林同积6分",
+        "onboard_time": 1742516660,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108682,
+        "num": 108682,
+        "word": "女子取一个快递被骗10多万",
+        "onboard_time": 1742480303,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107210,
+        "num": 107210,
+        "word": "哪些睡眠异常可能是疾病信号",
+        "onboard_time": 1742515521,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104957,
+        "num": 104957,
+        "word": "泽连斯基要求欧盟出50亿欧元买炮弹",
+        "onboard_time": 1742513840,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101319,
+        "num": 101319,
+        "word": "克罗地亚2比0法国",
+        "onboard_time": 1742520201,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95987,
+        "num": 95987,
+        "word": "男子多次冒充员工参加年会领奖被拘",
+        "onboard_time": 1742521701,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94291,
+        "num": 94291,
+        "word": "金价持续飙涨",
+        "onboard_time": 1742513299,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92055,
+        "num": 92055,
+        "word": "千禾味业回应检出镉",
+        "onboard_time": 1742517022,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56482,
+        "num": 91466,
+        "word": "金秋天跳Jennie新歌",
+        "onboard_time": 1742520140,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中国式现代化进程中开创云南发展新局面#"
+    }
+  }
+}
