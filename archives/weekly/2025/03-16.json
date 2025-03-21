@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742528309281,
+  "endTime": 1742528925430,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -619,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1603229,
+      "num": 332986,
+      "word": "赵露思回复教取关教程网友谢谢",
+      "onboard_time": 1742526322,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1577409,
       "num": 1577409,
       "word": "一次性内裤爆雷",
@@ -633,14 +641,6 @@
       "onboard_time": 1742393124,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1538234,
-      "num": 279743,
-      "word": "赵露思回复教取关教程网友谢谢",
-      "onboard_time": 1742526322,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1529588,
@@ -955,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1230631,
+      "num": 1230631,
+      "word": "哪吒2延长上映至4月30日",
+      "onboard_time": 1742525902,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1230266,
       "num": 1230266,
       "word": "孙杨400自银牌",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1742372423,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1182316,
-      "num": 1182316,
-      "word": "哪吒2延长上映至4月30日",
-      "onboard_time": 1742525902,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 1181663,
@@ -1345,6 +1345,14 @@
       "onboard_time": 1742502074,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1048594,
+      "num": 1048594,
+      "word": "赵丽颖 没接受过采访假新闻",
+      "onboard_time": 1742528423,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1045463,
@@ -1947,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 808495,
+      "num": 330157,
+      "word": "女子高价卖出发霉变绿的橘子",
+      "onboard_time": 1742526081,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 802774,
       "num": 802774,
       "word": "11岁男孩为救父母向骗子转账77次",
@@ -2363,6 +2379,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 692353,
+      "num": 492442,
+      "word": "重庆大哥在网上炒了4000万次空心菜",
+      "onboard_time": 1742524461,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 692298,
       "num": 692298,
       "word": "白敬亭新剧又掉进循环里了",
@@ -2601,14 +2625,6 @@
       "onboard_time": 1742281941,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 629588,
-      "num": 492442,
-      "word": "重庆大哥在网上炒了4000万次空心菜",
-      "onboard_time": 1742524461,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 625645,
@@ -3747,14 +3763,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 442172,
-      "num": 279521,
-      "word": "女子高价卖出发霉变绿的橘子",
-      "onboard_time": 1742526081,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 441836,
       "num": 441836,
       "word": "许府牛",
@@ -3849,6 +3857,14 @@
       "onboard_time": 1742266883,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 431771,
+      "num": 345857,
+      "word": "王玉雯把王安宇哄成胚胎了",
+      "onboard_time": 1742526621,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 431061,
@@ -3985,6 +4001,14 @@
       "onboard_time": 1742180601,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 416855,
+      "num": 342456,
+      "word": "哪吒2放映再延1个月",
+      "onboard_time": 1742526860,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 416768,
@@ -4571,14 +4595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345392,
-      "num": 345392,
-      "word": "王玉雯把王安宇哄成胚胎了",
-      "onboard_time": 1742526621,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 344380,
       "num": 328304,
       "word": "夫妻花18万做试管婴儿遭切除输卵管",
@@ -4835,6 +4851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317856,
+      "num": 317856,
+      "word": "孙乐言说涂毓麟非常会做饭",
+      "onboard_time": 1742526981,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317584,
       "num": 317584,
       "word": "莎头男单女单冠军",
@@ -4969,6 +4993,14 @@
       "onboard_time": 1742129244,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301774,
+      "num": 301774,
+      "word": "赵丽颖高月香为姐妹拔刀",
+      "onboard_time": 1742527462,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 301719,
@@ -5227,14 +5259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 280032,
-      "num": 280032,
-      "word": "哪吒2放映再延1个月",
-      "onboard_time": 1742526860,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 280015,
       "num": 280015,
       "word": "凤囚凰",
@@ -5385,14 +5409,6 @@
       "onboard_time": 1742181983,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271710,
-      "num": 271710,
-      "word": "孙乐言说涂毓麟非常会做饭",
-      "onboard_time": 1742526981,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 271604,
@@ -5577,14 +5593,6 @@
       "onboard_time": 1742379923,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 261372,
-      "num": 224047,
-      "word": "赵丽颖高月香为姐妹拔刀",
-      "onboard_time": 1742527462,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 260843,
@@ -6371,6 +6379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233445,
+      "num": 233445,
+      "word": "被提醒后鲁豫再也不说处女作",
+      "onboard_time": 1742526981,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 233111,
       "num": 233111,
       "word": "难哄callback埋了32集",
@@ -6873,6 +6889,14 @@
       "onboard_time": 1742072234,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 217746,
+      "num": 217746,
+      "word": "周雨彤有种血气充足的美",
+      "onboard_time": 1742527100,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 217577,
@@ -7435,20 +7459,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203253,
+      "num": 203253,
+      "word": "下周还有大降温",
+      "onboard_time": 1742525240,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203250,
       "num": 203250,
       "word": "问界新M5Ultra",
       "onboard_time": 1742462363,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 203014,
-      "num": 203014,
-      "word": "被提醒后鲁豫再也不说处女作",
-      "onboard_time": 1742526981,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 202961,
@@ -7779,6 +7803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198464,
+      "num": 198464,
+      "word": "年少有为官宣杀青",
+      "onboard_time": 1742528480,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198322,
       "num": 198511,
       "word": "向太说李小冉因节目争议哭了",
@@ -7825,6 +7857,14 @@
       "onboard_time": 1742223264,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197240,
+      "num": 179873,
+      "word": "李浩周汐君vs马龙黄友政",
+      "onboard_time": 1742528781,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 197088,
@@ -8043,6 +8083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194450,
+      "num": 194450,
+      "word": "我们的爸爸",
+      "onboard_time": 1742527939,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194322,
       "num": 219240,
       "word": "不说话的爱章若楠特别演出",
@@ -8056,14 +8104,6 @@
       "word": "孟子义不想去浪姐出洋相",
       "onboard_time": 1742367683,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 194217,
-      "num": 194217,
-      "word": "我们的爸爸",
-      "onboard_time": 1742527939,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -8507,6 +8547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187881,
+      "num": 187881,
+      "word": "王一博为保护冰川发声",
+      "onboard_time": 1742526921,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187791,
       "num": 212527,
       "word": "王一博祝萧敬腾蛇来运转幸福美满",
@@ -8536,14 +8584,6 @@
       "word": "王一博记录巴黎一些moment",
       "onboard_time": 1742451501,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 187368,
-      "num": 187368,
-      "word": "周雨彤有种血气充足的美",
-      "onboard_time": 1742527100,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -8729,6 +8769,14 @@
       "onboard_time": 1742265682,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 183697,
+      "num": 183697,
+      "word": "雄鹿vs湖人",
+      "onboard_time": 1742527881,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 183670,
@@ -9675,6 +9723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165582,
+      "num": 165582,
+      "word": "藏锋全阵容官宣",
+      "onboard_time": 1742528541,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165391,
       "num": 290098,
       "word": "王嘉尔创意总监",
@@ -10537,14 +10593,6 @@
       "onboard_time": 1742279964,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 151970,
-      "num": 151970,
-      "word": "王一博为保护冰川发声",
-      "onboard_time": 1742526921,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 151876,
@@ -11787,14 +11835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135817,
-      "num": 135817,
-      "word": "下周还有大降温",
-      "onboard_time": 1742525240,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135494,
       "num": 169665,
       "word": "普京重申和平解决冲突的立场",
@@ -11889,14 +11929,6 @@
       "onboard_time": 1742264240,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 134480,
-      "num": 134480,
-      "word": "雄鹿vs湖人",
-      "onboard_time": 1742527881,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 134460,
@@ -12865,6 +12897,14 @@
       "onboard_time": 1742479344,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120658,
+      "num": 120658,
+      "word": "九尾微博营业了",
+      "onboard_time": 1742528841,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 120618,
@@ -14779,6 +14819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79857,
+      "num": 338069,
+      "word": "我国超过3亿人有睡眠障碍",
+      "onboard_time": 1742527821,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 79811,
       "num": 422910,
       "word": "滞留太空9月宇航员需做45天复健",
@@ -15161,6 +15209,14 @@
       "onboard_time": 1742267662,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67919,
+      "num": 323904,
+      "word": "司马南被罚900万税法不容大V特权",
+      "onboard_time": 1742528423,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 67904,
@@ -15561,6 +15617,14 @@
       "onboard_time": 1742228780,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57736,
+      "num": 275424,
+      "word": "国足称依然有希望晋级世界杯",
+      "onboard_time": 1742527582,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 57619,
@@ -15979,6 +16043,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 51131,
+      "num": 199211,
+      "word": "无限暖暖妄想季",
+      "onboard_time": 1742528002,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 50935,
       "num": 606651,
       "word": "美国24小时40多起龙卷风",
@@ -16139,14 +16211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47635,
-      "num": 279993,
-      "word": "我国超过3亿人有睡眠障碍",
-      "onboard_time": 1742527821,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 47283,
       "num": 166204,
       "word": "国足背后有我",
@@ -16265,14 +16329,6 @@
       "onboard_time": 1742369422,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44197,
-      "num": 152457,
-      "word": "无限暖暖妄想季",
-      "onboard_time": 1742528002,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 43593,
@@ -16553,6 +16609,14 @@
       "onboard_time": 1742067134,
       "rank": 43,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 38768,
+      "num": 323636,
+      "word": "河南项城爆炸附近居民家窗户被震碎",
+      "onboard_time": 1742528541,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 38762,
@@ -16857,14 +16921,6 @@
       "onboard_time": 1742388203,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 33615,
-      "num": 275424,
-      "word": "国足称依然有希望晋级世界杯",
-      "onboard_time": 1742527582,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 33553,
@@ -17228,7 +17284,7 @@
     },
     {
       "raw_hot": 27666,
-      "num": 732714,
+      "num": 1102817,
       "word": "高质量发展中国行",
       "onboard_time": 1742390005,
       "rank": 2,
@@ -18089,6 +18145,14 @@
       "onboard_time": 1742237416,
       "rank": 49,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11572,
+      "num": 120295,
+      "word": "F1赞助商壕",
+      "onboard_time": 1742528841,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 11485,
