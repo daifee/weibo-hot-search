@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742568070600,
+  "endTime": 1742570739201,
   "band_list": [
     {
       "raw_hot": 3765482,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1275396,
+      "num": 1275396,
+      "word": "北大毕业生做正骨被踢出班级群",
+      "onboard_time": 1742564064,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1230631,
       "num": 1230631,
       "word": "哪吒2延长上映至4月30日",
@@ -129,14 +137,6 @@
       "onboard_time": 1742530763,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1091129,
-      "num": 1174580,
-      "word": "北大毕业生做正骨被踢出班级群",
-      "onboard_time": 1742564064,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1052795,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 868884,
-      "num": 237703,
+      "num": 252205,
       "word": "Hanni说谎",
       "onboard_time": 1742557223,
       "rank": 10,
@@ -273,6 +273,14 @@
       "onboard_time": 1742490138,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 818599,
+      "num": 818599,
+      "word": "杨超越银色短发",
+      "onboard_time": 1742567664,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 800520,
@@ -385,6 +393,14 @@
       "onboard_time": 1742540661,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 663361,
+      "num": 663361,
+      "word": "金价开跌",
+      "onboard_time": 1742567604,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 644865,
@@ -521,6 +537,14 @@
       "onboard_time": 1742520081,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 534044,
+      "num": 534044,
+      "word": "陈都灵傅菁有吻戏吗",
+      "onboard_time": 1742567604,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 529035,
@@ -667,6 +691,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417557,
+      "num": 117634,
+      "word": "坏了真让王大锤走向人生巅峰了",
+      "onboard_time": 1742569344,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 401500,
+      "num": 401500,
+      "word": "全国首个咖啡本科专业有多香",
+      "onboard_time": 1742567604,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395248,
       "num": 395248,
       "word": "宋妍霏的造型师请出来挨夸",
@@ -745,6 +785,14 @@
       "onboard_time": 1742559982,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327676,
+      "num": 148414,
+      "word": "睡眠超9小时会让身体出现各种问题",
+      "onboard_time": 1742566284,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 327514,
@@ -1003,6 +1051,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 251637,
+      "num": 251637,
+      "word": "王腾称下个月出大部分人买得起的手机",
+      "onboard_time": 1742565443,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 251191,
       "num": 251191,
       "word": "吴宣仪直播",
@@ -1075,12 +1131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235727,
-      "num": 235727,
-      "word": "陈都灵傅菁有吻戏吗",
-      "onboard_time": 1742567604,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 235630,
+      "num": 252406,
+      "word": "春天多出去玩就是大补",
+      "onboard_time": 1742565743,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233445,
@@ -1105,6 +1161,14 @@
       "onboard_time": 1742535082,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229263,
+      "num": 229263,
+      "word": "赵今麦宋威龙骄阳似我一家三口路透",
+      "onboard_time": 1742568983,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 227748,
@@ -1363,6 +1427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 200291,
+      "num": 200291,
+      "word": "SEVENTEEN十周年回归预告",
+      "onboard_time": 1742569824,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198464,
       "num": 198464,
       "word": "年少有为官宣杀青",
@@ -1419,14 +1491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191718,
-      "num": 191718,
-      "word": "王腾称下个月出大部分人买得起的手机",
-      "onboard_time": 1742565443,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 191520,
       "num": 191520,
       "word": "男子瞒着子女转80%房产给再婚妻子",
@@ -1449,14 +1513,6 @@
       "onboard_time": 1742556261,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188095,
-      "num": 188095,
-      "word": "金价开跌",
-      "onboard_time": 1742567604,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 186756,
@@ -1611,14 +1667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174922,
-      "num": 174922,
-      "word": "杨超越银色短发",
-      "onboard_time": 1742567664,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174761,
       "num": 174761,
       "word": "谢娜说蒋梦婕变落魄林黛玉",
@@ -1731,20 +1779,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163139,
-      "num": 163139,
-      "word": "全国首个咖啡本科专业有多香",
-      "onboard_time": 1742567604,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162377,
       "num": 162377,
       "word": "NJZ回应不能独立活动",
       "onboard_time": 1742546301,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161007,
+      "num": 161007,
+      "word": "这一站是上岸",
+      "onboard_time": 1742566943,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160140,
@@ -1905,14 +1953,6 @@
       "onboard_time": 1742542941,
       "rank": 15,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 148414,
-      "num": 148414,
-      "word": "睡眠超9小时会让身体出现各种问题",
-      "onboard_time": 1742566284,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 148372,
@@ -2107,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141124,
+      "num": 141124,
+      "word": "养猫后很讨厌别人说哪句话",
+      "onboard_time": 1742569223,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140241,
       "num": 140241,
       "word": "冯小刚官微回应赵丽颖争议",
@@ -2209,6 +2257,14 @@
       "onboard_time": 1742554161,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134454,
+      "num": 134454,
+      "word": "汪苏泷晒演唱会与粉丝大合照",
+      "onboard_time": 1742568864,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 134359,
@@ -2355,20 +2411,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125844,
+      "num": 134227,
+      "word": "王宝强说多年后再拍剧压力很大",
+      "onboard_time": 1742569283,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125461,
       "num": 203671,
       "word": "杜华问你配吗",
       "onboard_time": 1742476462,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125315,
-      "num": 125315,
-      "word": "春天多出去玩就是大补",
-      "onboard_time": 1742565743,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125018,
@@ -2433,6 +2489,14 @@
       "onboard_time": 1742475503,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 120246,
+      "num": 120246,
+      "word": "KSG战胜eStar",
+      "onboard_time": 1742569945,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 120028,
@@ -2611,14 +2675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 111337,
-      "num": 111337,
-      "word": "这一站是上岸",
-      "onboard_time": 1742566943,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110858,
       "num": 110858,
       "word": "国足输球成一种文化现象",
@@ -2665,6 +2721,14 @@
       "onboard_time": 1742554582,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 107894,
+      "num": 145437,
+      "word": "newjeans在法院说谎ILLIT没打招呼",
+      "onboard_time": 1742568384,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 107480,
@@ -2915,6 +2979,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88381,
+      "num": 88381,
+      "word": "4个快速入睡小妙招",
+      "onboard_time": 1742569163,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 87229,
+      "num": 87229,
+      "word": "撒贝宁被周总同款领带硬控了",
+      "onboard_time": 1742570603,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87069,
       "num": 142157,
       "word": "奉劝有关企业和人士停止交割",
@@ -2995,6 +3075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79138,
+      "num": 79138,
+      "word": "虞书欣卫枝这一段梦回初礼",
+      "onboard_time": 1742569104,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79134,
       "num": 79134,
       "word": "余茵玉茗茶骨妆造",
@@ -3003,11 +3091,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78544,
+      "num": 78544,
+      "word": "金秀贤山寨人生停播后还能上线吗",
+      "onboard_time": 1742568263,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77817,
       "num": 217644,
       "word": "布朗尼生涯首次得分上双",
       "onboard_time": 1742541621,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77764,
+      "num": 77764,
+      "word": "李乃文说演棋士是王宝强钦点的",
+      "onboard_time": 1742570302,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77693,
+      "num": 77693,
+      "word": "洛夫顿41分",
+      "onboard_time": 1742570363,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -3057,6 +3169,14 @@
       "onboard_time": 1742510115,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 72479,
+      "num": 208428,
+      "word": "乌外交部称已有多国宣布拟向乌派军",
+      "onboard_time": 1742568983,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71383,
@@ -3436,7 +3556,7 @@
     },
     {
       "raw_hot": 41987,
-      "num": 709668,
+      "num": 731446,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1742551221,
       "rank": 22,
@@ -3505,6 +3625,14 @@
       "onboard_time": 1742547802,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 34803,
+      "num": 158777,
+      "word": "陌生人闯私宅摔伤起诉索赔16万遭拒",
+      "onboard_time": 1742569524,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34692,
@@ -3864,6 +3992,9 @@
     },
     {
       "word": "#跟着总书记探寻古城老街文韵#"
+    },
+    {
+      "word": "#习近平总书记云贵之行#"
     }
   ]
 }

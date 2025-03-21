@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742568070600,
+  "endTime": 1742570739201,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -979,6 +979,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1275396,
+      "num": 1275396,
+      "word": "北大毕业生做正骨被踢出班级群",
+      "onboard_time": 1742564064,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1273017,
       "num": 688090,
       "word": "刘亚仁 复出",
@@ -1369,14 +1377,6 @@
       "onboard_time": 1742359105,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1091129,
-      "num": 1174580,
-      "word": "北大毕业生做正骨被踢出班级群",
-      "onboard_time": 1742564064,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1088232,
@@ -1900,7 +1900,7 @@
     },
     {
       "raw_hot": 868884,
-      "num": 237703,
+      "num": 252205,
       "word": "Hanni说谎",
       "onboard_time": 1742557223,
       "rank": 10,
@@ -2081,6 +2081,14 @@
       "onboard_time": 1742389223,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 818599,
+      "num": 818599,
+      "word": "杨超越银色短发",
+      "onboard_time": 1742567664,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 816057,
@@ -2737,6 +2745,14 @@
       "onboard_time": 1742191340,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 663361,
+      "num": 663361,
+      "word": "金价开跌",
+      "onboard_time": 1742567604,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 661210,
@@ -3505,6 +3521,14 @@
       "onboard_time": 1742303904,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 534044,
+      "num": 534044,
+      "word": "陈都灵傅菁有吻戏吗",
+      "onboard_time": 1742567604,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 531798,
@@ -4403,6 +4427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417557,
+      "num": 117634,
+      "word": "坏了真让王大锤走向人生巅峰了",
+      "onboard_time": 1742569344,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416987,
       "num": 692311,
       "word": "美国开出停止空袭也门条件",
@@ -4537,6 +4569,14 @@
       "onboard_time": 1742379683,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 401500,
+      "num": 401500,
+      "word": "全国首个咖啡本科专业有多香",
+      "onboard_time": 1742567604,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 400728,
@@ -5257,6 +5297,14 @@
       "onboard_time": 1742050592,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 327676,
+      "num": 148414,
+      "word": "睡眠超9小时会让身体出现各种问题",
+      "onboard_time": 1742566284,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 327514,
@@ -6483,6 +6531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 251637,
+      "num": 251637,
+      "word": "王腾称下个月出大部分人买得起的手机",
+      "onboard_time": 1742565443,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 251294,
       "num": 233034,
       "word": "李想回应没上大学",
@@ -6963,12 +7019,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235727,
-      "num": 235727,
-      "word": "陈都灵傅菁有吻戏吗",
-      "onboard_time": 1742567604,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 235630,
+      "num": 252406,
+      "word": "春天多出去玩就是大补",
+      "onboard_time": 1742565743,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235558,
@@ -7153,6 +7209,14 @@
       "onboard_time": 1742131285,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 229263,
+      "num": 229263,
+      "word": "赵今麦宋威龙骄阳似我一家三口路透",
+      "onboard_time": 1742568983,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 229257,
@@ -8563,6 +8627,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 200291,
+      "num": 200291,
+      "word": "SEVENTEEN十周年回归预告",
+      "onboard_time": 1742569824,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200261,
       "num": 200261,
       "word": "浪姐提名叶童最有反差感姐姐",
@@ -9139,14 +9211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191718,
-      "num": 191718,
-      "word": "王腾称下个月出大部分人买得起的手机",
-      "onboard_time": 1742565443,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 191571,
       "num": 191571,
       "word": "秋瓷炫大声表白于晓光",
@@ -9433,14 +9497,6 @@
       "onboard_time": 1742439021,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188095,
-      "num": 188095,
-      "word": "金价开跌",
-      "onboard_time": 1742567604,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 187981,
@@ -10267,14 +10323,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 174922,
-      "num": 174922,
-      "word": "杨超越银色短发",
-      "onboard_time": 1742567664,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174761,
       "num": 174761,
       "word": "谢娜说蒋梦婕变落魄林黛玉",
@@ -10939,14 +10987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163139,
-      "num": 163139,
-      "word": "全国首个咖啡本科专业有多香",
-      "onboard_time": 1742567604,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163001,
       "num": 241305,
       "word": "明天就春分了",
@@ -11145,6 +11185,14 @@
       "onboard_time": 1742218163,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161007,
+      "num": 161007,
+      "word": "这一站是上岸",
+      "onboard_time": 1742566943,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161002,
@@ -12083,14 +12131,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 148414,
-      "num": 148414,
-      "word": "睡眠超9小时会让身体出现各种问题",
-      "onboard_time": 1742566284,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 148372,
       "num": 142089,
       "word": "罗予彤唱疯人愿",
@@ -12835,6 +12875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141124,
+      "num": 141124,
+      "word": "养猫后很讨厌别人说哪句话",
+      "onboard_time": 1742569223,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141058,
       "num": 250083,
       "word": "张若昀一出场男粉都拥上来了",
@@ -13409,6 +13457,14 @@
       "onboard_time": 1742139562,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134454,
+      "num": 134454,
+      "word": "汪苏泷晒演唱会与粉丝大合照",
+      "onboard_time": 1742568864,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 134453,
@@ -14075,6 +14131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125844,
+      "num": 134227,
+      "word": "王宝强说多年后再拍剧压力很大",
+      "onboard_time": 1742569283,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125763,
       "num": 235691,
       "word": "初中生指博物馆千年铜镜断代有误",
@@ -14112,14 +14176,6 @@
       "word": "卜某事件涉案人员或涉嫌强奸罪",
       "onboard_time": 1742198603,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125315,
-      "num": 125315,
-      "word": "春天多出去玩就是大补",
-      "onboard_time": 1742565743,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -14521,6 +14577,14 @@
       "onboard_time": 1742442322,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120246,
+      "num": 120246,
+      "word": "KSG战胜eStar",
+      "onboard_time": 1742569945,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 120241,
@@ -15115,14 +15179,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 111337,
-      "num": 111337,
-      "word": "这一站是上岸",
-      "onboard_time": 1742566943,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111335,
       "num": 111335,
       "word": "虞书欣林一这条共创好抽象",
@@ -15417,6 +15473,14 @@
       "onboard_time": 1742103382,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107894,
+      "num": 145437,
+      "word": "newjeans在法院说谎ILLIT没打招呼",
+      "onboard_time": 1742568384,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 107403,
@@ -16419,6 +16483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 88381,
+      "num": 88381,
+      "word": "4个快速入睡小妙招",
+      "onboard_time": 1742569163,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 88325,
       "num": 250481,
       "word": "拔智齿有多疼来个人形容下",
@@ -16457,6 +16529,14 @@
       "onboard_time": 1742421255,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87229,
+      "num": 87229,
+      "word": "撒贝宁被周总同款领带硬控了",
+      "onboard_time": 1742570603,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87218,
@@ -16779,6 +16859,14 @@
       "category": "财经,国内时政"
     },
     {
+      "raw_hot": 79138,
+      "num": 79138,
+      "word": "虞书欣卫枝这一段梦回初礼",
+      "onboard_time": 1742569104,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79125,
       "num": 79125,
       "word": "薛凯琪演唱会",
@@ -16803,6 +16891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78544,
+      "num": 78544,
+      "word": "金秀贤山寨人生停播后还能上线吗",
+      "onboard_time": 1742568263,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78067,
       "num": 674733,
       "word": "外交部回应美商务部禁用DeepSeek",
@@ -16816,6 +16912,22 @@
       "word": "布朗尼生涯首次得分上双",
       "onboard_time": 1742541621,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77764,
+      "num": 77764,
+      "word": "李乃文说演棋士是王宝强钦点的",
+      "onboard_time": 1742570302,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77693,
+      "num": 77693,
+      "word": "洛夫顿41分",
+      "onboard_time": 1742570363,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -16977,6 +17089,14 @@
       "onboard_time": 1742102065,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72479,
+      "num": 208428,
+      "word": "乌外交部称已有多国宣布拟向乌派军",
+      "onboard_time": 1742568983,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72465,
@@ -18628,7 +18748,7 @@
     },
     {
       "raw_hot": 41987,
-      "num": 709668,
+      "num": 731446,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1742551221,
       "rank": 22,
@@ -19033,6 +19153,14 @@
       "onboard_time": 1742275824,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 34803,
+      "num": 158777,
+      "word": "陌生人闯私宅摔伤起诉索赔16万遭拒",
+      "onboard_time": 1742569524,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34741,
@@ -20719,6 +20847,9 @@
     },
     {
       "word": "#跟着总书记探寻古城老街文韵#"
+    },
+    {
+      "word": "#习近平总书记云贵之行#"
     }
   ]
 }
