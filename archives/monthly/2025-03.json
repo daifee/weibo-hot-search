@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742538900729,
+  "endTime": 1742539706943,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -5155,6 +5155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 913149,
+      "num": 502932,
+      "word": "卡琳娜 你们不要这样",
+      "onboard_time": 1742536161,
+      "rank": 7,
+      "category": "综艺,动漫"
+    },
+    {
       "raw_hot": 912338,
       "num": 1136991,
       "word": "花旗银行误将81万亿美元转给个人",
@@ -7035,14 +7043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 736030,
-      "num": 361537,
-      "word": "卡琳娜 你们不要这样",
-      "onboard_time": 1742536161,
-      "rank": 7,
-      "category": "综艺,动漫"
-    },
-    {
       "raw_hot": 735657,
       "num": 735657,
       "word": "郑钦文摔倒流血",
@@ -8097,6 +8097,14 @@
       "onboard_time": 1742181321,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 660133,
+      "num": 272994,
+      "word": "李荣浩质问网易云",
+      "onboard_time": 1742538680,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 658048,
@@ -11067,6 +11075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 500857,
+      "num": 500857,
+      "word": "美国男子因虐猫被判40年监禁",
+      "onboard_time": 1742536042,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 500772,
       "num": 500772,
       "word": "27岁已婚女主播骗榜一大哥半年刷19万",
@@ -13827,14 +13843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 399245,
-      "num": 399245,
-      "word": "美国男子因虐猫被判40年监禁",
-      "onboard_time": 1742536042,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 398815,
       "num": 398815,
       "word": "迪丽热巴迪奥高珠展造型",
@@ -14041,6 +14049,14 @@
       "onboard_time": 1741144879,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392594,
+      "num": 392594,
+      "word": "司马南曾痛批逃税网红",
+      "onboard_time": 1742537541,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 392534,
@@ -15041,6 +15057,14 @@
       "onboard_time": 1742044953,
       "rank": 26,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 364891,
+      "num": 159952,
+      "word": "大象新闻 赵丽颖出镜接受采访",
+      "onboard_time": 1742539462,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 364693,
@@ -17027,6 +17051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320599,
+      "num": 320599,
+      "word": "周五的含金量在此刻达到顶峰",
+      "onboard_time": 1742532083,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 320389,
       "num": 320389,
       "word": "马拉多纳死亡案真相大白",
@@ -17299,6 +17331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313265,
+      "num": 313265,
+      "word": "联合国新闻中心发王一博",
+      "onboard_time": 1742538500,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313222,
       "num": 313222,
       "word": "穆婷婷拍了很多戏没播",
@@ -17465,14 +17505,6 @@
       "onboard_time": 1741428981,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308871,
-      "num": 258943,
-      "word": "周五的含金量在此刻达到顶峰",
-      "onboard_time": 1742532083,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 308508,
@@ -22595,14 +22627,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 232286,
-      "num": 212295,
-      "word": "李荣浩质问网易云",
-      "onboard_time": 1742538680,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231949,
       "num": 231949,
       "word": "照镜辞开机",
@@ -22713,6 +22737,14 @@
       "onboard_time": 1741189758,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230663,
+      "num": 157830,
+      "word": "权志龙工作人员ins号发文",
+      "onboard_time": 1742535082,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 230620,
@@ -23371,6 +23403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224533,
+      "num": 219440,
+      "word": "VaVa回应中国第一女rapper",
+      "onboard_time": 1742538201,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224529,
       "num": 224529,
       "word": "直男为出片肉眼可见的努力",
@@ -23963,6 +24003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220125,
+      "num": 157010,
+      "word": "新闻主播侯佩岑上线",
+      "onboard_time": 1742539221,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220097,
       "num": 242772,
       "word": "李准基回应涉嫌逃税",
@@ -24009,14 +24057,6 @@
       "onboard_time": 1740836363,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 219440,
-      "num": 219440,
-      "word": "VaVa回应中国第一女rapper",
-      "onboard_time": 1742538201,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 219428,
@@ -26059,14 +26099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204713,
-      "num": 253155,
-      "word": "司马南曾痛批逃税网红",
-      "onboard_time": 1742537541,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204664,
       "num": 204664,
       "word": "105岁老太每天遛弯还能洗菜煮饭",
@@ -27624,14 +27656,6 @@
       "word": "李敏镐时隔9年来上海",
       "onboard_time": 1742389703,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 196985,
-      "num": 264128,
-      "word": "联合国新闻中心发王一博",
-      "onboard_time": 1742538500,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -36563,6 +36587,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 154307,
+      "num": 154307,
+      "word": "怎么区分杏花桃花梨花",
+      "onboard_time": 1742539281,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154302,
       "num": 154302,
       "word": "愿所有考生一路繁花",
@@ -42403,6 +42435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131356,
+      "num": 115277,
+      "word": "于正说吴谨言有十几个剧本在排队",
+      "onboard_time": 1742536042,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131346,
       "num": 131346,
       "word": "虞书欣舞台callback",
@@ -46697,6 +46737,14 @@
       "onboard_time": 1741182919,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115073,
+      "num": 115073,
+      "word": "北京天坛公园3.3万株柏树花粉爆发",
+      "onboard_time": 1742539580,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115063,
@@ -51313,6 +51361,14 @@
       "onboard_time": 1742226021,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96221,
+      "num": 96221,
+      "word": "范志毅称国足其实踢得不错",
+      "onboard_time": 1742539580,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 96177,
@@ -66977,6 +67033,14 @@
       "onboard_time": 1740856753,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8672,
+      "num": 118844,
+      "word": "你知道汽车天地门吗",
+      "onboard_time": 1742539221,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 8535,
