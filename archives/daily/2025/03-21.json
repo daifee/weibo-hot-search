@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742542692901,
+  "endTime": 1742545802104,
   "band_list": [
     {
       "raw_hot": 3765482,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1861180,
+      "num": 419713,
+      "word": "刘强东朋友圈发声",
+      "onboard_time": 1742541020,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1850043,
       "num": 1850043,
       "word": "王珞丹 别问了",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1603229,
-      "num": 378584,
+      "num": 414469,
       "word": "赵露思回复教取关教程网友谢谢",
       "onboard_time": 1742526322,
       "rank": 15,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1469352,
-      "num": 383631,
+      "num": 409825,
       "word": "乐言承认与周淑怡恋情",
       "onboard_time": 1742529562,
       "rank": 10,
@@ -60,11 +68,19 @@
     },
     {
       "raw_hot": 1362084,
-      "num": 350371,
+      "num": 417315,
       "word": "李荣浩质问网易云",
       "onboard_time": 1742538680,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1343074,
+      "num": 1343074,
+      "word": "孕妇羊水破裂13岁男孩成功助产",
+      "onboard_time": 1742541441,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1230631,
@@ -81,14 +97,6 @@
       "onboard_time": 1742530763,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1096995,
-      "num": 318166,
-      "word": "刘强东朋友圈发声",
-      "onboard_time": 1742541020,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 1052795,
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 693786,
+      "num": 693786,
+      "word": "韩庚 死嘴快说啊",
+      "onboard_time": 1742541982,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 692353,
       "num": 492442,
       "word": "重庆大哥在网上炒了4000万次空心菜",
@@ -241,6 +257,14 @@
       "onboard_time": 1742522240,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 672112,
+      "num": 672112,
+      "word": "发霉橘子标价500元究竟谁在买",
+      "onboard_time": 1742540661,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 644865,
@@ -387,8 +411,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 491310,
+      "num": 406003,
+      "word": "女子入职得知生娃奖10万果断再怀孕",
+      "onboard_time": 1742544382,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 479359,
-      "num": 381858,
+      "num": 415699,
       "word": "联合国新闻中心发王一博",
       "onboard_time": 1742538500,
       "rank": 14,
@@ -411,28 +443,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 445671,
-      "num": 445671,
-      "word": "孕妇羊水破裂13岁男孩成功助产",
-      "onboard_time": 1742541441,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 440057,
-      "num": 440057,
-      "word": "发霉橘子标价500元究竟谁在买",
-      "onboard_time": 1742540661,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 438608,
       "num": 256382,
       "word": "男子因没钱起诉已分手3年女友还40万",
       "onboard_time": 1742484023,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 433842,
+      "num": 433842,
+      "word": "蒋梦婕人脉",
+      "onboard_time": 1742543963,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 432483,
@@ -448,6 +472,14 @@
       "word": "王玉雯把王安宇哄成胚胎了",
       "onboard_time": 1742526621,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 424778,
+      "num": 404891,
+      "word": "张晚意赵露思或将出演大汉赋",
+      "onboard_time": 1742543901,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -596,7 +628,7 @@
     },
     {
       "raw_hot": 274912,
-      "num": 188520,
+      "num": 203439,
       "word": "王珞丹祝绪丹 姐狗",
       "onboard_time": 1742534241,
       "rank": 40,
@@ -723,6 +755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 233997,
+      "num": 233997,
+      "word": "王腾 手机在什么价位是人人买得起的",
+      "onboard_time": 1742543840,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 233445,
       "num": 233445,
       "word": "被提醒后鲁豫再也不说处女作",
@@ -795,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219048,
+      "num": 219048,
+      "word": "赵雅芝 CC在我心里你永远是NO1",
+      "onboard_time": 1742544741,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217746,
       "num": 217746,
       "word": "周雨彤有种血气充足的美",
@@ -833,14 +881,6 @@
       "onboard_time": 1742465661,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 212868,
-      "num": 212868,
-      "word": "韩庚 死嘴快说啊",
-      "onboard_time": 1742541982,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 209351,
@@ -897,6 +937,14 @@
       "onboard_time": 1742525240,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201161,
+      "num": 201161,
+      "word": "F1",
+      "onboard_time": 1742545160,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 201018,
@@ -1027,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179631,
+      "num": 179631,
+      "word": "跳舞减肥越跳越瘦",
+      "onboard_time": 1742544140,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 179528,
       "num": 179528,
       "word": "男子多次冒充员工参加年会领奖被拘",
@@ -1056,6 +1112,14 @@
       "word": "乘风第一期六个多小时",
       "onboard_time": 1742534661,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 174761,
+      "num": 174761,
+      "word": "谢娜说蒋梦婕变落魄林黛玉",
+      "onboard_time": 1742542341,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -1105,6 +1169,14 @@
       "onboard_time": 1742541740,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166639,
+      "num": 166639,
+      "word": "韩安冉说韦雪清醒",
+      "onboard_time": 1742541862,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 166620,
@@ -1235,14 +1307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145417,
-      "num": 145417,
-      "word": "韩安冉说韦雪清醒",
-      "onboard_time": 1742541862,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 145338,
       "num": 145338,
       "word": "国足全场控球率仅20%",
@@ -1299,14 +1363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138335,
-      "num": 138335,
-      "word": "谢娜说蒋梦婕变落魄林黛玉",
-      "onboard_time": 1742542341,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138330,
       "num": 195392,
       "word": "国足世预赛下轮2人停赛",
@@ -1355,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135974,
+      "num": 204961,
+      "word": "欧盟援乌400亿变50亿",
+      "onboard_time": 1742544262,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 134359,
       "num": 134359,
       "word": "景德镇被偷手机当事人发声",
@@ -1387,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131644,
+      "num": 131644,
+      "word": "英国希思罗机场关闭",
+      "onboard_time": 1742544321,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 131356,
       "num": 115277,
       "word": "于正说吴谨言有十几个剧本在排队",
@@ -1395,12 +1467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130588,
+      "num": 130588,
+      "word": "国足再输澳大利亚队将无缘直升世界杯",
+      "onboard_time": 1742543781,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129597,
       "num": 129597,
       "word": "邓紫棋巡演首站温州",
       "onboard_time": 1742532622,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129319,
+      "num": 302785,
+      "word": "天坛公园回应花粉爆发称已雾化喷水",
+      "onboard_time": 1742542222,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127841,
@@ -1467,6 +1555,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 123503,
+      "num": 123503,
+      "word": "大肠发圈发型",
+      "onboard_time": 1742545760,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 122242,
       "num": 122242,
       "word": "虞书欣闯进文旅赛道了",
@@ -1529,6 +1625,14 @@
       "onboard_time": 1742530822,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116535,
+      "num": 421748,
+      "word": "外交部回应韩国计划对中国团体旅客免签",
+      "onboard_time": 1742544981,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112860,
@@ -1635,12 +1739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101786,
+      "num": 409869,
+      "word": "开AMG的Kimi太帅了",
+      "onboard_time": 1742542941,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 101755,
       "num": 101755,
       "word": "母鸡卡",
       "onboard_time": 1742483543,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 101684,
+      "num": 166987,
+      "word": "原神诺艾尔",
+      "onboard_time": 1742544502,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 101319,
@@ -1673,6 +1793,14 @@
       "onboard_time": 1742465661,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96892,
+      "num": 408854,
+      "word": "肖央新片被公司逼疯算工伤吗",
+      "onboard_time": 1742545281,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 96863,
@@ -1744,14 +1872,6 @@
       "word": "千禾味业回应检出镉",
       "onboard_time": 1742517022,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90325,
-      "num": 302785,
-      "word": "天坛公园回应花粉爆发称已雾化喷水",
-      "onboard_time": 1742542222,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -1939,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63897,
+      "num": 409634,
+      "word": "长和集团跌超4.2%",
+      "onboard_time": 1742544262,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 63146,
       "num": 109009,
       "word": "国足与印尼巴林同积6分",
@@ -2099,6 +2227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43714,
+      "num": 412232,
+      "word": "半月谈评翻新卫生巾乱象",
+      "onboard_time": 1742544262,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 42585,
       "num": 34004,
       "word": "蒋圣龙极限封堵",
@@ -2113,6 +2249,22 @@
       "onboard_time": 1742476643,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39697,
+      "num": 143938,
+      "word": "衣服是穿坏的还是洗坏的",
+      "onboard_time": 1742542701,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39587,
+      "num": 124410,
+      "word": "懒人才是最会享受的",
+      "onboard_time": 1742543963,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 39082,
@@ -2185,6 +2337,14 @@
       "onboard_time": 1742539221,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 25977,
+      "num": 407933,
+      "word": "武汉的油菜花海在太空也能看见",
+      "onboard_time": 1742544262,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24837,
