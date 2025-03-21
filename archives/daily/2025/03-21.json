@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742541795888,
+  "endTime": 1742542692901,
   "band_list": [
     {
       "raw_hot": 3765482,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1096995,
+      "num": 318166,
+      "word": "刘强东朋友圈发声",
+      "onboard_time": 1742541020,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1052795,
       "num": 1052795,
       "word": "沙特1比0国足",
@@ -140,11 +148,19 @@
     },
     {
       "raw_hot": 913149,
-      "num": 502932,
+      "num": 630758,
       "word": "卡琳娜 你们不要这样",
       "onboard_time": 1742536161,
       "rank": 7,
       "category": "综艺,动漫"
+    },
+    {
+      "raw_hot": 870693,
+      "num": 339884,
+      "word": "大象新闻 赵丽颖出镜接受采访",
+      "onboard_time": 1742539462,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 829820,
@@ -179,12 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 728126,
-      "num": 339884,
-      "word": "大象新闻 赵丽颖出镜接受采访",
-      "onboard_time": 1742539462,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 745049,
+      "num": 745049,
+      "word": "北京天坛公园3.3万株柏树花粉爆发",
+      "onboard_time": 1742539580,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 726838,
@@ -251,12 +267,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 630952,
+      "num": 630952,
+      "word": "周五的含金量在此刻达到顶峰",
+      "onboard_time": 1742532083,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 622281,
       "num": 622281,
       "word": "金价",
       "onboard_time": 1742517683,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 601534,
+      "num": 445647,
+      "word": "李钟硕回春了",
+      "onboard_time": 1742540541,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 571174,
@@ -323,14 +355,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 522451,
-      "num": 522451,
-      "word": "周五的含金量在此刻达到顶峰",
-      "onboard_time": 1742532083,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 512973,
       "num": 375152,
       "word": "郑秀晶李钟硕状态",
@@ -387,6 +411,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445671,
+      "num": 445671,
+      "word": "孕妇羊水破裂13岁男孩成功助产",
+      "onboard_time": 1742541441,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 440057,
+      "num": 440057,
+      "word": "发霉橘子标价500元究竟谁在买",
+      "onboard_time": 1742540661,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 438608,
       "num": 256382,
       "word": "男子因没钱起诉已分手3年女友还40万",
@@ -435,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 388205,
-      "num": 388205,
-      "word": "北京天坛公园3.3万株柏树花粉爆发",
-      "onboard_time": 1742539580,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 361197,
       "num": 326530,
       "word": "邓紫棋巡演官宣",
@@ -475,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322799,
+      "num": 322799,
+      "word": "怎么区分杏花桃花梨花",
+      "onboard_time": 1742539281,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320198,
       "num": 320198,
       "word": "仙人跳作案手法大揭秘",
@@ -499,28 +539,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 307927,
-      "num": 307927,
-      "word": "怎么区分杏花桃花梨花",
-      "onboard_time": 1742539281,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 307438,
       "num": 258194,
       "word": "杨紫一生见佛拜佛的中国人",
       "onboard_time": 1742517081,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 306572,
-      "num": 306572,
-      "word": "李钟硕回春了",
-      "onboard_time": 1742540541,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 305162,
@@ -569,14 +593,6 @@
       "onboard_time": 1742537481,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276451,
-      "num": 276451,
-      "word": "刘强东朋友圈发声",
-      "onboard_time": 1742541020,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 274912,
@@ -819,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212868,
+      "num": 212868,
+      "word": "韩庚 死嘴快说啊",
+      "onboard_time": 1742541982,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209351,
       "num": 209351,
       "word": "学生买房给教授养老其家属却霸占房产",
@@ -849,6 +873,22 @@
       "onboard_time": 1742531782,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205453,
+      "num": 306652,
+      "word": "女子接陌生电话95万积蓄被转走",
+      "onboard_time": 1742540779,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203921,
+      "num": 203921,
+      "word": "曹颖问谢娜要张杰演唱会门票",
+      "onboard_time": 1742541500,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 203253,
@@ -1019,20 +1059,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173343,
-      "num": 173343,
-      "word": "孕妇羊水破裂13岁男孩成功助产",
-      "onboard_time": 1742541441,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173253,
       "num": 150939,
       "word": "医生建议不要强制自己入睡",
       "onboard_time": 1742490138,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 172174,
+      "num": 172174,
+      "word": "华晨宇一首歌写了12个版本",
+      "onboard_time": 1742541921,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 171134,
@@ -1057,6 +1097,14 @@
       "onboard_time": 1742520981,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166874,
+      "num": 166874,
+      "word": "彭小苒红衣梦回东宫小枫",
+      "onboard_time": 1742541740,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 166620,
@@ -1139,14 +1187,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 149083,
-      "num": 149083,
-      "word": "彭小苒红衣梦回东宫小枫",
-      "onboard_time": 1742541740,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148937,
       "num": 148937,
       "word": "白鹿如果看过风吹半夏就敢使劲了",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1742526021,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145417,
+      "num": 145417,
+      "word": "韩安冉说韦雪清醒",
+      "onboard_time": 1742541862,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 145338,
@@ -1251,12 +1299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139168,
-      "num": 139168,
-      "word": "曹颖问谢娜要张杰演唱会门票",
-      "onboard_time": 1742541500,
+      "raw_hot": 138335,
+      "num": 138335,
+      "word": "谢娜说蒋梦婕变落魄林黛玉",
+      "onboard_time": 1742542341,
       "rank": 43,
-      "category": "演出"
+      "category": "综艺"
     },
     {
       "raw_hot": 138330,
@@ -1283,20 +1331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136773,
-      "num": 306652,
-      "word": "女子接陌生电话95万积蓄被转走",
-      "onboard_time": 1742540779,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136534,
       "num": 136534,
       "word": "刘强东呼吁所有快递员骑手获五险一金",
       "onboard_time": 1742540961,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 136318,
+      "num": 136318,
+      "word": "宋妍霏被正名本人脸一点都不臭",
+      "onboard_time": 1742541801,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 136058,
@@ -1345,14 +1393,6 @@
       "onboard_time": 1742536042,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129949,
-      "num": 313191,
-      "word": "发霉橘子标价500元究竟谁在买",
-      "onboard_time": 1742540661,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129597,
@@ -1563,6 +1603,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 105047,
+      "num": 356750,
+      "word": "司马南曾发布75条和税有关视频",
+      "onboard_time": 1742541321,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104957,
       "num": 104957,
       "word": "泽连斯基要求欧盟出50亿欧元买炮弹",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1742465661,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97797,
-      "num": 356750,
-      "word": "司马南曾发布75条和税有关视频",
-      "onboard_time": 1742541321,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96863,
@@ -1707,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90325,
+      "num": 302785,
+      "word": "天坛公园回应花粉爆发称已雾化喷水",
+      "onboard_time": 1742542222,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89632,
       "num": 73308,
       "word": "给国足算分",
@@ -1777,6 +1825,14 @@
       "onboard_time": 1742482042,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77817,
+      "num": 217644,
+      "word": "布朗尼生涯首次得分上双",
+      "onboard_time": 1742541621,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 77509,
@@ -1888,14 +1944,6 @@
       "word": "国足与印尼巴林同积6分",
       "onboard_time": 1742516660,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 61440,
-      "num": 213490,
-      "word": "布朗尼生涯首次得分上双",
-      "onboard_time": 1742541621,
-      "rank": 29,
       "category": "体育"
     },
     {
