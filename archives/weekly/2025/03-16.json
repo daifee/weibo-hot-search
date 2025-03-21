@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742546605813,
+  "endTime": 1742549137078,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -112,6 +112,14 @@
       "word": "女子疑因被拔错牙后坠楼身亡",
       "onboard_time": 1742374762,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3015085,
+      "num": 269998,
+      "word": "93岁强奸不收押老人已无法自主行走",
+      "onboard_time": 1742547621,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -681,6 +689,14 @@
       "onboard_time": 1742193625,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1516481,
+      "num": 1516481,
+      "word": "杨国福麻辣烫老鼠事件后续",
+      "onboard_time": 1742545701,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1507262,
@@ -2067,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 798197,
+      "num": 798197,
+      "word": "蒋梦婕人脉",
+      "onboard_time": 1742543963,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 797551,
       "num": 797551,
       "word": "十万一针抗癌药成本仅3000元",
@@ -2145,6 +2169,14 @@
       "onboard_time": 1742451203,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 765560,
+      "num": 152625,
+      "word": "中华环保联合会删除虞书欣相关",
+      "onboard_time": 1742546362,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 765333,
@@ -2377,14 +2409,6 @@
       "onboard_time": 1742437820,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 721350,
-      "num": 721350,
-      "word": "蒋梦婕人脉",
-      "onboard_time": 1742543963,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 720884,
@@ -3544,6 +3568,14 @@
       "word": "曝金秀贤与公司解约",
       "onboard_time": 1742476164,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 507978,
+      "num": 507978,
+      "word": "冯小刚电影官微回应赵丽颖争议",
+      "onboard_time": 1742546420,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -5027,6 +5059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329246,
+      "num": 329246,
+      "word": "大肠发圈发型",
+      "onboard_time": 1742545760,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 329218,
       "num": 298448,
       "word": "张彬彬给景甜拍照",
@@ -5257,6 +5297,14 @@
       "onboard_time": 1742047773,
       "rank": 38,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 304542,
+      "num": 304542,
+      "word": "李艺彤说SNH48只有鞠婧祎破圈",
+      "onboard_time": 1742547681,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 304236,
@@ -5729,6 +5777,14 @@
       "onboard_time": 1742472441,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270515,
+      "num": 270515,
+      "word": "编剧真分过手",
+      "onboard_time": 1742547621,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 269592,
@@ -7243,14 +7299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218974,
-      "num": 218974,
-      "word": "杨国福麻辣烫老鼠事件后续",
-      "onboard_time": 1742545701,
-      "rank": 21,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 218769,
       "num": 218769,
       "word": "香飘飘招聘优先空乘专业",
@@ -8587,14 +8635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194251,
-      "num": 152405,
-      "word": "大肠发圈发型",
-      "onboard_time": 1742545760,
-      "rank": 47,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 194227,
       "num": 194227,
       "word": "孟子义不想去浪姐出洋相",
@@ -9113,6 +9153,14 @@
       "onboard_time": 1742214804,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186723,
+      "num": 186723,
+      "word": "A股港股跳水原因",
+      "onboard_time": 1742547621,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 186671,
@@ -9643,6 +9691,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 178009,
+      "num": 152195,
+      "word": "当你的生育搭子是这样的人",
+      "onboard_time": 1742549062,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177939,
       "num": 177939,
       "word": "你以为是矫情其实是睡眠高敏感",
@@ -9809,14 +9865,6 @@
       "onboard_time": 1742478623,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 174858,
-      "num": 152215,
-      "word": "中华环保联合会删除虞书欣相关",
-      "onboard_time": 1742546362,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 174761,
@@ -10545,6 +10593,14 @@
       "onboard_time": 1742264061,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 162377,
+      "num": 162377,
+      "word": "NJZ回应不能独立活动",
+      "onboard_time": 1742546301,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 162239,
@@ -11291,6 +11347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 151287,
+      "num": 151287,
+      "word": "白敬亭难哄战报",
+      "onboard_time": 1742546782,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151212,
       "num": 151212,
       "word": "中国新一代电磁枪曝光",
@@ -11883,14 +11947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144887,
-      "num": 144887,
-      "word": "NJZ回应不能独立活动",
-      "onboard_time": 1742546301,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144874,
       "num": 144874,
       "word": "A股",
@@ -11905,6 +11961,14 @@
       "onboard_time": 1742383403,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144835,
+      "num": 144835,
+      "word": "卖黄金的人越来越后悔",
+      "onboard_time": 1742546902,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 144827,
@@ -13947,6 +14011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117247,
+      "num": 350949,
+      "word": "航天员带小零食和饮料太空行走",
+      "onboard_time": 1742547322,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117236,
       "num": 117236,
       "word": "银川地震",
@@ -14739,6 +14811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102885,
+      "num": 102885,
+      "word": "马龙说王楚钦肯定是队伍一号",
+      "onboard_time": 1742546722,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102853,
       "num": 238183,
       "word": "谢娜浪姐宣传小能手",
@@ -14963,6 +15043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98268,
+      "num": 225207,
+      "word": "太乙真人成都地铁分乙",
+      "onboard_time": 1742546181,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98190,
       "num": 98190,
       "word": "减肥党最容易踩的坑",
@@ -15115,6 +15203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95191,
+      "num": 95191,
+      "word": "酸奶碗",
+      "onboard_time": 1742548762,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 94946,
       "num": 353352,
       "word": "打高铁给县城有钱人送北京奢侈品",
@@ -15129,6 +15225,14 @@
       "onboard_time": 1742365944,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94763,
+      "num": 332842,
+      "word": "警方通报景德镇游客手机被偷",
+      "onboard_time": 1742547802,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 94698,
@@ -15371,6 +15475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90881,
+      "num": 90881,
+      "word": "辛云来新剧整容式人设",
+      "onboard_time": 1742548881,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90878,
       "num": 457894,
       "word": "光大集团原董事长李晓鹏一审获刑15年",
@@ -15427,6 +15539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89660,
+      "num": 89660,
+      "word": "王安宇不愧是整活大师",
+      "onboard_time": 1742548941,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89632,
       "num": 73308,
       "word": "给国足算分",
@@ -15441,14 +15561,6 @@
       "onboard_time": 1742467222,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 89124,
-      "num": 225207,
-      "word": "太乙真人成都地铁分乙",
-      "onboard_time": 1742546181,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88903,
@@ -16632,6 +16744,14 @@
       "word": "夏以昼我记得你说过",
       "onboard_time": 1742189841,
       "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 56643,
+      "num": 227088,
+      "word": "夏以昼和我共鸣",
+      "onboard_time": 1742548583,
+      "rank": 24,
       "category": "游戏"
     },
     {
@@ -17931,6 +18051,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 34296,
+      "num": 119526,
+      "word": "海尔周总和雷军又同框了",
+      "onboard_time": 1742547802,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 34068,
       "num": 294035,
       "word": "起底2024年年度食品安全黑榜",
@@ -18665,6 +18793,14 @@
       "onboard_time": 1742238014,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21740,
+      "num": 119638,
+      "word": "蓝V们在海尔周总评论区团建了",
+      "onboard_time": 1742546902,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 21704,

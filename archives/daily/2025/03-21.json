@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742546605813,
+  "endTime": 1742549137078,
   "band_list": [
     {
       "raw_hot": 3765482,
@@ -16,6 +16,14 @@
       "word": "司马南偷税被罚超900万",
       "onboard_time": 1742523020,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3015085,
+      "num": 269998,
+      "word": "93岁强奸不收押老人已无法自主行走",
+      "onboard_time": 1742547621,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -57,6 +65,14 @@
       "onboard_time": 1742526322,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1516481,
+      "num": 1516481,
+      "word": "杨国福麻辣烫老鼠事件后续",
+      "onboard_time": 1742545701,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1469352,
@@ -195,6 +211,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 798197,
+      "num": 798197,
+      "word": "蒋梦婕人脉",
+      "onboard_time": 1742543963,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 765560,
+      "num": 152625,
+      "word": "中华环保联合会删除虞书欣相关",
+      "onboard_time": 1742546362,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 764434,
       "num": 424583,
       "word": "法院禁止newjeans独立活动",
@@ -217,14 +249,6 @@
       "onboard_time": 1742522420,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 721350,
-      "num": 721350,
-      "word": "蒋梦婕人脉",
-      "onboard_time": 1742543963,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 713633,
@@ -403,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 507978,
+      "num": 507978,
+      "word": "冯小刚电影官微回应赵丽颖争议",
+      "onboard_time": 1742546420,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 506990,
       "num": 306985,
       "word": "江一燕对叶童说我亲过你老婆",
@@ -531,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329246,
+      "num": 329246,
+      "word": "大肠发圈发型",
+      "onboard_time": 1742545760,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 326189,
       "num": 275950,
       "word": "祝绪丹乘风2025初舞台",
@@ -587,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304542,
+      "num": 304542,
+      "word": "李艺彤说SNH48只有鞠婧祎破圈",
+      "onboard_time": 1742547681,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301774,
       "num": 301774,
       "word": "赵丽颖高月香为姐妹拔刀",
@@ -633,6 +681,14 @@
       "onboard_time": 1742534241,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270515,
+      "num": 270515,
+      "word": "编剧真分过手",
+      "onboard_time": 1742547621,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 268499,
@@ -843,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218974,
-      "num": 218974,
-      "word": "杨国福麻辣烫老鼠事件后续",
-      "onboard_time": 1742545701,
-      "rank": 21,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 217746,
       "num": 217746,
       "word": "周雨彤有种血气充足的美",
@@ -1003,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194251,
-      "num": 152405,
-      "word": "大肠发圈发型",
-      "onboard_time": 1742545760,
-      "rank": 47,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 193871,
       "num": 193871,
       "word": "刘昊然黑皮衣杀伤力",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1742524401,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186723,
+      "num": 186723,
+      "word": "A股港股跳水原因",
+      "onboard_time": 1742547621,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 183697,
@@ -1123,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178009,
+      "num": 152195,
+      "word": "当你的生育搭子是这样的人",
+      "onboard_time": 1742549062,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177939,
       "num": 177939,
       "word": "你以为是矫情其实是睡眠高敏感",
@@ -1137,14 +1193,6 @@
       "onboard_time": 1742534661,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174858,
-      "num": 152215,
-      "word": "中华环保联合会删除虞书欣相关",
-      "onboard_time": 1742546362,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 174761,
@@ -1235,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162377,
+      "num": 162377,
+      "word": "NJZ回应不能独立活动",
+      "onboard_time": 1742546301,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160140,
       "num": 338069,
       "word": "我国超过3亿人有睡眠障碍",
@@ -1296,6 +1352,14 @@
       "word": "庄寒雁含泪掐脖周姨娘",
       "onboard_time": 1742545940,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151287,
+      "num": 151287,
+      "word": "白敬亭难哄战报",
+      "onboard_time": 1742546782,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1371,19 +1435,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144887,
-      "num": 144887,
-      "word": "NJZ回应不能独立活动",
-      "onboard_time": 1742546301,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144874,
       "num": 144874,
       "word": "A股",
       "onboard_time": 1742523681,
       "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 144835,
+      "num": 144835,
+      "word": "卖黄金的人越来越后悔",
+      "onboard_time": 1742546902,
+      "rank": 33,
       "category": "财经"
     },
     {
@@ -1651,6 +1715,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120258,
+      "num": 120258,
+      "word": "苦尽柑来遇见你",
+      "onboard_time": 1742546603,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120028,
       "num": 120028,
       "word": "Bin自我反省",
@@ -1688,6 +1760,14 @@
       "word": "4男子盗卖12座高压电塔获利53万",
       "onboard_time": 1742530822,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117247,
+      "num": 350949,
+      "word": "航天员带小零食和饮料太空行走",
+      "onboard_time": 1742547322,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1787,6 +1867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102885,
+      "num": 102885,
+      "word": "马龙说王楚钦肯定是队伍一号",
+      "onboard_time": 1742546722,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102853,
       "num": 238183,
       "word": "谢娜浪姐宣传小能手",
@@ -1835,6 +1923,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 98268,
+      "num": 225207,
+      "word": "太乙真人成都地铁分乙",
+      "onboard_time": 1742546181,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98198,
       "num": 112424,
       "word": "雁回时",
@@ -1873,6 +1969,22 @@
       "onboard_time": 1742512638,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95191,
+      "num": 95191,
+      "word": "酸奶碗",
+      "onboard_time": 1742548762,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 94763,
+      "num": 332842,
+      "word": "警方通报景德镇游客手机被偷",
+      "onboard_time": 1742547802,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 94698,
@@ -1923,20 +2035,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90881,
+      "num": 90881,
+      "word": "辛云来新剧整容式人设",
+      "onboard_time": 1742548881,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89660,
+      "num": 89660,
+      "word": "王安宇不愧是整活大师",
+      "onboard_time": 1742548941,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89632,
       "num": 73308,
       "word": "给国足算分",
       "onboard_time": 1742497574,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89124,
-      "num": 225207,
-      "word": "太乙真人成都地铁分乙",
-      "onboard_time": 1742546181,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87069,
@@ -2179,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56643,
+      "num": 227088,
+      "word": "夏以昼和我共鸣",
+      "onboard_time": 1742548583,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 56482,
       "num": 91466,
       "word": "金秋天跳Jennie新歌",
@@ -2363,6 +2491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34296,
+      "num": 119526,
+      "word": "海尔周总和雷军又同框了",
+      "onboard_time": 1742547802,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 32883,
       "num": 56734,
       "word": "宋亚轩晒好多自拍",
@@ -2433,6 +2569,14 @@
       "onboard_time": 1742528841,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21740,
+      "num": 119638,
+      "word": "蓝V们在海尔周总评论区团建了",
+      "onboard_time": 1742546902,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 20209,
