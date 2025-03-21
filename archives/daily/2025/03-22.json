@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742577699887,
+  "endTime": 1742578742178,
   "band_list": [
     {
       "raw_hot": 903376,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207124,
+      "num": 207124,
+      "word": "京城大师赛",
+      "onboard_time": 1742574021,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205936,
       "num": 205936,
       "word": "坏了真让王大锤走向人生巅峰了",
@@ -177,14 +185,6 @@
       "onboard_time": 1742559982,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178903,
-      "num": 178903,
-      "word": "京城大师赛",
-      "onboard_time": 1742574021,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 134610,
@@ -379,6 +379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 53058,
+      "num": 53058,
+      "word": "不同年龄的最佳睡眠时长",
+      "onboard_time": 1742577078,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 50617,
       "num": 64387,
       "word": "名下3公司老人五保户申请受阻",
@@ -393,14 +401,6 @@
       "onboard_time": 1742563043,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42384,
-      "num": 42384,
-      "word": "不同年龄的最佳睡眠时长",
-      "onboard_time": 1742577078,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 41905,
@@ -433,6 +433,22 @@
       "onboard_time": 1742569945,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35229,
+      "num": 35229,
+      "word": "剑网3为所有侠士补偿熊猫头像",
+      "onboard_time": 1742578577,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 26739,
+      "num": 30165,
+      "word": "今天是世界冰川日",
+      "onboard_time": 1742578457,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26683,
