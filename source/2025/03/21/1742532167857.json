@@ -1,0 +1,410 @@
+{
+  "runTime": 1742532167857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1854679,
+        "num": 1854679,
+        "word": "赵丽颖 没接受过采访假新闻",
+        "onboard_time": 1742528423,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1390680,
+        "num": 1390680,
+        "word": "司马南偷税被罚超900万",
+        "onboard_time": 1742523020,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52812,
+        "num": 1226709,
+        "word": "这六大服务消费领域增长潜力广阔",
+        "onboard_time": 1742530401,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1154010,
+        "num": 1154010,
+        "word": "浪姐开播",
+        "onboard_time": 1742530763,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520448,
+        "num": 520448,
+        "word": "公公给儿媳的陪嫁猫做三层榫卯床",
+        "onboard_time": 1742516660,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432483,
+        "num": 432483,
+        "word": "长期碎片化睡眠易得焦虑症抑郁症",
+        "onboard_time": 1742526440,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1058753,
+        "num": 432256,
+        "word": "哪吒2延长上映至4月30日",
+        "onboard_time": 1742525902,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 564493,
+        "num": 427135,
+        "word": "宋妍霏不愧是JYP的",
+        "onboard_time": 1742529142,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407351,
+        "num": 407351,
+        "word": "急急如律令是啥意思",
+        "onboard_time": 1742521520,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385882,
+        "num": 385882,
+        "word": "李嘉诚发布旗下港口收入",
+        "onboard_time": 1742529801,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1469210,
+        "num": 383631,
+        "word": "乐言承认与周淑怡恋情",
+        "onboard_time": 1742529562,
+        "rank": 10,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 1057807,
+        "num": 378584,
+        "word": "赵露思回复教取关教程网友谢谢",
+        "onboard_time": 1742526322,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407690,
+        "num": 375020,
+        "word": "王一博为保护冰川发声",
+        "onboard_time": 1742526921,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111673,
+        "num": 370035,
+        "word": "海尔老总回归微博",
+        "onboard_time": 1742530042,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 215472,
+        "num": 362994,
+        "word": "海尔周云杰第一条微博",
+        "onboard_time": 1742530162,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 880035,
+        "num": 358943,
+        "word": "女子高价卖出发霉变绿的橘子",
+        "onboard_time": 1742526081,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356660,
+        "num": 356660,
+        "word": "乘风2025",
+        "onboard_time": 1742530401,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628489,
+        "num": 351434,
+        "word": "赵露思 要化爱化化一辈子",
+        "onboard_time": 1742514019,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181338,
+        "num": 348954,
+        "word": "王一博守卫生命水塔",
+        "onboard_time": 1742531423,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96339,
+        "num": 337777,
+        "word": "4男子盗卖12座高压电塔获利53万",
+        "onboard_time": 1742530822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395824,
+        "num": 331585,
+        "word": "重庆大哥在网上炒了4000万次空心菜",
+        "onboard_time": 1742524461,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326530,
+        "num": 326530,
+        "word": "邓紫棋巡演官宣",
+        "onboard_time": 1742531122,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 320198,
+        "num": 320198,
+        "word": "仙人跳作案手法大揭秘",
+        "onboard_time": 1742529741,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298416,
+        "num": 298416,
+        "word": "王玉雯把王安宇哄成胚胎了",
+        "onboard_time": 1742526621,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297526,
+        "num": 297526,
+        "word": "库里受伤",
+        "onboard_time": 1742530581,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257182,
+        "num": 257182,
+        "word": "郭敬明方回应新剧拍摄突发大火",
+        "onboard_time": 1742530702,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256985,
+        "num": 256985,
+        "word": "祝绪丹乘风2025初舞台",
+        "onboard_time": 1742530343,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246019,
+        "num": 246019,
+        "word": "孙乐言说涂毓麟非常会做饭",
+        "onboard_time": 1742526981,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222640,
+        "num": 245092,
+        "word": "对晴格格恨不起来",
+        "onboard_time": 1742531003,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205918,
+        "num": 241937,
+        "word": "林高远3比0朱毅",
+        "onboard_time": 1742531782,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102853,
+        "num": 238183,
+        "word": "谢娜浪姐宣传小能手",
+        "onboard_time": 1742530042,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21819,
+        "num": 235190,
+        "word": "F1赞助商壕",
+        "onboard_time": 1742528841,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234254,
+        "num": 234254,
+        "word": "懒人洗衣机三筒还是保守了",
+        "onboard_time": 1742528961,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212399,
+        "num": 212399,
+        "word": "落水人员称丁禹兮是超级英雄",
+        "onboard_time": 1742522420,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171679,
+        "num": 171679,
+        "word": "海尔周云杰胸针火了",
+        "onboard_time": 1742530223,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170675,
+        "num": 170675,
+        "word": "周五的含金量在此刻达到顶峰",
+        "onboard_time": 1742532083,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168951,
+        "num": 168951,
+        "word": "被提醒后鲁豫再也不说处女作",
+        "onboard_time": 1742526981,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136950,
+        "num": 167940,
+        "word": "人类首个世界冰川日",
+        "onboard_time": 1742525902,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166934,
+        "num": 166934,
+        "word": "货车不慎将答题卡散落一地",
+        "onboard_time": 1742516361,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166620,
+        "num": 166620,
+        "word": "薛之谦租购MV",
+        "onboard_time": 1742531361,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155929,
+        "num": 155929,
+        "word": "杨紫小清新碎花吊带裙",
+        "onboard_time": 1742531122,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71332,
+        "num": 151216,
+        "word": "哪吒2春暖花开继续相见",
+        "onboard_time": 1742526021,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148937,
+        "num": 148937,
+        "word": "白鹿如果看过风吹半夏就敢使劲了",
+        "onboard_time": 1742531243,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147820,
+        "num": 147820,
+        "word": "张踩铃模仿老公的中式散装英语",
+        "onboard_time": 1742531003,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144142,
+        "num": 144142,
+        "word": "一年中衣柜最满的时候",
+        "onboard_time": 1742529741,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140573,
+        "num": 140573,
+        "word": "下周还有大降温",
+        "onboard_time": 1742525240,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138151,
+        "num": 138151,
+        "word": "种地吧",
+        "onboard_time": 1742531963,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136661,
+        "num": 136661,
+        "word": "林一 身体已经恢复了很多",
+        "onboard_time": 1742527520,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136412,
+        "num": 136412,
+        "word": "985研究生退学摆摊日入700元",
+        "onboard_time": 1742485882,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136058,
+        "num": 136058,
+        "word": "于正怕没人审判何瑞贤",
+        "onboard_time": 1742530581,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记点赞的土特产#"
+    }
+  }
+}

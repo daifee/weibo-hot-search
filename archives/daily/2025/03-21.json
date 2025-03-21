@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742531307141,
+  "endTime": 1742532167857,
   "band_list": [
     {
       "raw_hot": 3765482,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1603229,
-      "num": 332986,
+      "num": 378584,
       "word": "赵露思回复教取关教程网友谢谢",
       "onboard_time": 1742526322,
       "rank": 15,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1469352,
-      "num": 286451,
+      "num": 383631,
       "word": "乐言承认与周淑怡恋情",
       "onboard_time": 1742529562,
       "rank": 10,
@@ -57,6 +57,14 @@
       "onboard_time": 1742525902,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1154010,
+      "num": 1154010,
+      "word": "浪姐开播",
+      "onboard_time": 1742530763,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1052795,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 947689,
-      "num": 330157,
+      "num": 358943,
       "word": "女子高价卖出发霉变绿的橘子",
       "onboard_time": 1742526081,
       "rank": 30,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 571174,
-      "num": 357714,
+      "num": 427135,
       "word": "宋妍霏不愧是JYP的",
       "onboard_time": 1742529142,
       "rank": 6,
@@ -243,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 486093,
-      "num": 347214,
-      "word": "浪姐开播",
-      "onboard_time": 1742530763,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 453145,
       "num": 192943,
       "word": "疑似王一博离开乐华",
@@ -265,6 +265,14 @@
       "onboard_time": 1742484023,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 432483,
+      "num": 432483,
+      "word": "长期碎片化睡眠易得焦虑症抑郁症",
+      "onboard_time": 1742526440,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 431771,
@@ -283,12 +291,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 421650,
-      "num": 421650,
-      "word": "长期碎片化睡眠易得焦虑症抑郁症",
-      "onboard_time": 1742526440,
-      "rank": 25,
-      "category": "健康医疗"
+      "raw_hot": 407690,
+      "num": 375020,
+      "word": "王一博为保护冰川发声",
+      "onboard_time": 1742526921,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 385882,
+      "num": 385882,
+      "word": "李嘉诚发布旗下港口收入",
+      "onboard_time": 1742529801,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356660,
+      "num": 356660,
+      "word": "乘风2025",
+      "onboard_time": 1742530401,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 355988,
@@ -299,20 +323,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353313,
-      "num": 277583,
-      "word": "王一博为保护冰川发声",
-      "onboard_time": 1742526921,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 326530,
+      "num": 326530,
+      "word": "邓紫棋巡演官宣",
+      "onboard_time": 1742531122,
+      "rank": 36,
+      "category": "演出"
     },
     {
-      "raw_hot": 319660,
-      "num": 279450,
-      "word": "乘风2025",
-      "onboard_time": 1742530401,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 320198,
+      "num": 320198,
+      "word": "仙人跳作案手法大揭秘",
+      "onboard_time": 1742529741,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 317856,
@@ -355,6 +379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 297526,
+      "num": 297526,
+      "word": "库里受伤",
+      "onboard_time": 1742530581,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290509,
       "num": 275950,
       "word": "祝绪丹乘风2025初舞台",
@@ -392,6 +424,14 @@
       "word": "金秀贤方面准备道歉",
       "onboard_time": 1742461822,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 257182,
+      "num": 257182,
+      "word": "郭敬明方回应新剧拍摄突发大火",
+      "onboard_time": 1742530702,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -459,22 +499,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 240410,
-      "num": 240410,
-      "word": "李嘉诚发布旗下港口收入",
-      "onboard_time": 1742529801,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237232,
-      "num": 237232,
-      "word": "库里受伤",
-      "onboard_time": 1742530581,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 233445,
       "num": 233445,
       "word": "被提醒后鲁豫再也不说处女作",
@@ -497,6 +521,14 @@
       "onboard_time": 1742517501,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222640,
+      "num": 245092,
+      "word": "对晴格格恨不起来",
+      "onboard_time": 1742531003,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 220755,
@@ -531,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 215472,
+      "num": 362994,
+      "word": "海尔周云杰第一条微博",
+      "onboard_time": 1742530162,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 214554,
       "num": 157419,
       "word": "空腹断食66小时的变化",
@@ -545,6 +585,14 @@
       "onboard_time": 1742525902,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205918,
+      "num": 241937,
+      "word": "林高远3比0朱毅",
+      "onboard_time": 1742531782,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 203253,
@@ -603,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192344,
-      "num": 240776,
-      "word": "对晴格格恨不起来",
-      "onboard_time": 1742531003,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191520,
       "num": 191520,
       "word": "男子瞒着子女转80%房产给再婚妻子",
@@ -619,28 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190900,
-      "num": 190900,
-      "word": "郭敬明方回应新剧拍摄突发大火",
-      "onboard_time": 1742530702,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190891,
       "num": 190891,
       "word": "王楚钦vs刁子育",
       "onboard_time": 1742524401,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187423,
-      "num": 283854,
-      "word": "海尔周云杰第一条微博",
-      "onboard_time": 1742530162,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 183697,
@@ -657,6 +681,14 @@
       "onboard_time": 1742521520,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181338,
+      "num": 348954,
+      "word": "王一博守卫生命水塔",
+      "onboard_time": 1742531423,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 181219,
@@ -699,20 +731,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 173181,
-      "num": 283059,
-      "word": "仙人跳作案手法大揭秘",
-      "onboard_time": 1742529741,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171134,
       "num": 286982,
       "word": "一年中衣柜最满的时候",
       "onboard_time": 1742529741,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170675,
+      "num": 170675,
+      "word": "周五的含金量在此刻达到顶峰",
+      "onboard_time": 1742532083,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 169277,
@@ -731,20 +763,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166620,
+      "num": 166620,
+      "word": "薛之谦租购MV",
+      "onboard_time": 1742531361,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165582,
       "num": 165582,
       "word": "藏锋全阵容官宣",
       "onboard_time": 1742528541,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160786,
-      "num": 160786,
-      "word": "邓紫棋巡演官宣",
-      "onboard_time": 1742531122,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 160140,
@@ -771,12 +803,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155929,
+      "num": 155929,
+      "word": "杨紫小清新碎花吊带裙",
+      "onboard_time": 1742531122,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149530,
       "num": 149530,
       "word": "林一 身体已经恢复了很多",
       "onboard_time": 1742527520,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148937,
+      "num": 148937,
+      "word": "白鹿如果看过风吹半夏就敢使劲了",
+      "onboard_time": 1742531243,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147820,
+      "num": 147820,
+      "word": "张踩铃模仿老公的中式散装英语",
+      "onboard_time": 1742531003,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 147768,
@@ -796,7 +852,7 @@
     },
     {
       "raw_hot": 145767,
-      "num": 145767,
+      "num": 151216,
       "word": "哪吒2春暖花开继续相见",
       "onboard_time": 1742526021,
       "rank": 41,
@@ -812,7 +868,7 @@
     },
     {
       "raw_hot": 143451,
-      "num": 284746,
+      "num": 370035,
       "word": "海尔老总回归微博",
       "onboard_time": 1742530042,
       "rank": 12,
@@ -851,12 +907,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137830,
-      "num": 137830,
-      "word": "张踩铃模仿老公的中式散装英语",
-      "onboard_time": 1742531003,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 138151,
+      "num": 138151,
+      "word": "种地吧",
+      "onboard_time": 1742531963,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 137026,
@@ -867,12 +923,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136468,
-      "num": 136468,
-      "word": "杨紫小清新碎花吊带裙",
-      "onboard_time": 1742531122,
-      "rank": 41,
-      "category": "作品衍生"
+      "raw_hot": 136058,
+      "num": 136058,
+      "word": "于正怕没人审判何瑞贤",
+      "onboard_time": 1742530581,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 134359,
@@ -961,14 +1017,6 @@
       "onboard_time": 1742530763,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122944,
-      "num": 122944,
-      "word": "白鹿如果看过风吹半夏就敢使劲了",
-      "onboard_time": 1742531243,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 122242,
@@ -1083,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102853,
+      "num": 238183,
+      "word": "谢娜浪姐宣传小能手",
+      "onboard_time": 1742530042,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101755,
       "num": 101755,
       "word": "母鸡卡",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1742465661,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96339,
+      "num": 337777,
+      "word": "4男子盗卖12座高压电塔获利53万",
+      "onboard_time": 1742530822,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95680,
@@ -1395,6 +1459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 52812,
+      "num": 1226709,
+      "word": "这六大服务消费领域增长潜力广阔",
+      "onboard_time": 1742530401,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51864,
       "num": 70046,
       "word": "代驾小哥因2.6元举报KTV有偿陪侍",
@@ -1497,22 +1569,6 @@
       "onboard_time": 1742499494,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 34207,
-      "num": 872967,
-      "word": "这六大服务消费领域增长潜力广阔",
-      "onboard_time": 1742530401,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33711,
-      "num": 279037,
-      "word": "4男子盗卖12座高压电塔获利53万",
-      "onboard_time": 1742530822,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32883,
@@ -1668,6 +1724,9 @@
     },
     {
       "word": "#跟着习近平总书记打卡丽江古城#"
+    },
+    {
+      "word": "#总书记点赞的土特产#"
     }
   ]
 }
