@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742592957844,
+  "endTime": 1742595775410,
   "band_list": [
     {
       "raw_hot": 903376,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77179,
+      "num": 77179,
+      "word": "警方通报男子杀妻畏罪潜逃30余年",
+      "onboard_time": 1742592675,
+      "rank": 7,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 76282,
       "num": 76282,
       "word": "孕妇羊水破裂13岁男孩成功助产",
@@ -411,20 +419,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48077,
+      "num": 31660,
+      "word": "千禾0是商标在侮辱谁",
+      "onboard_time": 1742578816,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41905,
       "num": 41905,
       "word": "乘风破浪的姐姐",
       "onboard_time": 1742576837,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41019,
-      "num": 31660,
-      "word": "千禾0是商标在侮辱谁",
-      "onboard_time": 1742578816,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39457,
@@ -491,6 +499,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 22201,
+      "num": 22201,
+      "word": "国足球迷遭沙特球迷歧视",
+      "onboard_time": 1742594775,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21015,
+      "num": 21015,
+      "word": "韩女议员呼吁弹劾尹锡悦被砸鸡蛋",
+      "onboard_time": 1742589434,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21009,
       "num": 21009,
       "word": "汪苏泷像晴天像雨天首唱",
@@ -508,7 +532,7 @@
     },
     {
       "raw_hot": 19064,
-      "num": 19064,
+      "num": 19944,
       "word": "傅菁演技",
       "onboard_time": 1742584575,
       "rank": 45,
@@ -523,12 +547,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 18223,
-      "num": 18223,
-      "word": "韩女议员呼吁弹劾尹锡悦被砸鸡蛋",
-      "onboard_time": 1742589434,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 13844,
+      "num": 19933,
+      "word": "吕秀才还得郭芙蓉来收拾",
+      "onboard_time": 1742595195,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 11434,
