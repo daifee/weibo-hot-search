@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742534588328,
+  "endTime": 1742535609178,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -1667,6 +1667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 918212,
+      "num": 1146914,
+      "word": "演员王凯喜提新身份",
+      "onboard_time": 1742532443,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 914702,
       "num": 914702,
       "word": "女生攒钱百万被DeepSeek辣评无效存钱",
@@ -2395,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703822,
+      "num": 367211,
+      "word": "王珞丹 别问了",
+      "onboard_time": 1742534842,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 696677,
       "num": 388451,
       "word": "金秀贤要求金赛纶用加密软件聊天",
@@ -2635,6 +2651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 642661,
+      "num": 279568,
+      "word": "吴宣仪初舞台唱我又初恋了",
+      "onboard_time": 1742533462,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 641599,
       "num": 509221,
       "word": "田曦薇 别让我在外面丢人",
@@ -2665,14 +2689,6 @@
       "onboard_time": 1742281941,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 633195,
-      "num": 389686,
-      "word": "演员王凯喜提新身份",
-      "onboard_time": 1742532443,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 625645,
@@ -2729,14 +2745,6 @@
       "onboard_time": 1742429603,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 611275,
-      "num": 279568,
-      "word": "吴宣仪初舞台唱我又初恋了",
-      "onboard_time": 1742533462,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 610997,
@@ -3417,6 +3425,14 @@
       "onboard_time": 1742476164,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 506990,
+      "num": 263791,
+      "word": "江一燕对叶童说我亲过你老婆",
+      "onboard_time": 1742534302,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 504120,
@@ -4675,6 +4691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345835,
+      "num": 195054,
+      "word": "法院禁止newjeans独立活动",
+      "onboard_time": 1742534842,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344380,
       "num": 328304,
       "word": "夫妻花18万做试管婴儿遭切除输卵管",
@@ -5027,6 +5051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 308871,
+      "num": 221106,
+      "word": "周五的含金量在此刻达到顶峰",
+      "onboard_time": 1742532083,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 307438,
       "num": 258194,
       "word": "杨紫一生见佛拜佛的中国人",
@@ -5129,14 +5161,6 @@
       "onboard_time": 1742375543,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299480,
-      "num": 221106,
-      "word": "周五的含金量在此刻达到顶峰",
-      "onboard_time": 1742532083,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 298801,
@@ -5265,6 +5289,14 @@
       "onboard_time": 1742138063,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286997,
+      "num": 194078,
+      "word": "权志龙ins小号发文",
+      "onboard_time": 1742535082,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 286374,
@@ -5499,6 +5531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274912,
+      "num": 188520,
+      "word": "王珞丹祝绪丹 姐狗",
+      "onboard_time": 1742534241,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274642,
       "num": 433029,
       "word": "享界S9的仪式感",
@@ -5537,6 +5577,14 @@
       "onboard_time": 1742119822,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 268499,
+      "num": 268499,
+      "word": "多方回应物业撤场停电梯垃圾溢出",
+      "onboard_time": 1742533341,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268262,
@@ -5697,6 +5745,14 @@
       "onboard_time": 1742099662,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262389,
+      "num": 262389,
+      "word": "江西万年县2025年将不招聘英语教师",
+      "onboard_time": 1742532802,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261708,
@@ -7755,14 +7811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201424,
-      "num": 201424,
-      "word": "江西万年县2025年将不招聘英语教师",
-      "onboard_time": 1742532802,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201336,
       "num": 299732,
       "word": "汪苏泷鸟巢上班",
@@ -8067,14 +8115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197026,
-      "num": 197026,
-      "word": "江一燕对叶童说我亲过你老婆",
-      "onboard_time": 1742534302,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197011,
       "num": 197011,
       "word": "李敏镐时隔9年来上海",
@@ -8297,6 +8337,14 @@
       "onboard_time": 1742367683,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193871,
+      "num": 193871,
+      "word": "刘昊然黑皮衣杀伤力",
+      "onboard_time": 1742535142,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 193846,
@@ -9425,6 +9473,14 @@
       "onboard_time": 1742470282,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175378,
+      "num": 175378,
+      "word": "乘风第一期六个多小时",
+      "onboard_time": 1742534661,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 175341,
@@ -11041,14 +11097,6 @@
       "onboard_time": 1742465363,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148811,
-      "num": 148811,
-      "word": "王珞丹祝绪丹 姐狗",
-      "onboard_time": 1742534241,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 148798,
@@ -12780,7 +12828,7 @@
     },
     {
       "raw_hot": 126495,
-      "num": 126495,
+      "num": 194683,
       "word": "香港大公报再发文直指长和",
       "onboard_time": 1742533522,
       "rank": 47,
@@ -12993,6 +13041,14 @@
       "onboard_time": 1742204363,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123700,
+      "num": 123700,
+      "word": "周云杰的唯一关注是雷军",
+      "onboard_time": 1742535022,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 123588,
@@ -13289,6 +13345,14 @@
       "onboard_time": 1742473941,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 119285,
+      "num": 119285,
+      "word": "曝Faker冠军皮肤选永恩",
+      "onboard_time": 1742534842,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 118913,
@@ -13705,6 +13769,14 @@
       "onboard_time": 1742498355,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111420,
+      "num": 111420,
+      "word": "我是Steve我同意全世界变方",
+      "onboard_time": 1742535502,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 111335,
@@ -14473,6 +14545,14 @@
       "onboard_time": 1742222785,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 96863,
+      "num": 96863,
+      "word": "林孝埈说F1是不一样的体验",
+      "onboard_time": 1742534842,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 96786,
@@ -15403,6 +15483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 71647,
+      "num": 175448,
+      "word": "姚安娜开箱华为阔折叠",
+      "onboard_time": 1742535142,
+      "rank": 32,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 71383,
       "num": 71383,
       "word": "凯尔特人61亿美元出售",
@@ -15808,14 +15896,6 @@
       "word": "我国将让AI算力像用电一样方便",
       "onboard_time": 1742145137,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61042,
-      "num": 248055,
-      "word": "多方回应物业撤场停电梯垃圾溢出",
-      "onboard_time": 1742533341,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -16651,6 +16731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 45248,
+      "num": 221461,
+      "word": "汉马赛道起点全是樱花",
+      "onboard_time": 1742533581,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45139,
       "num": 167058,
       "word": "孙杨说我敢想也敢做",
@@ -17128,14 +17216,6 @@
       "word": "上海夜空惊现巨型跑鞋",
       "onboard_time": 1742279242,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36230,
-      "num": 221461,
-      "word": "汉马赛道起点全是樱花",
-      "onboard_time": 1742533581,
-      "rank": 19,
       "category": "民生新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1742535609178,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 918212,
+        "num": 1146914,
+        "word": "演员王凯喜提新身份",
+        "onboard_time": 1742532443,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785851,
+        "num": 785851,
+        "word": "司马南偷税被罚超900万",
+        "onboard_time": 1742523020,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49595,
+        "num": 660216,
+        "word": "这六大服务消费领域增长潜力广阔",
+        "onboard_time": 1742530401,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 885775,
+        "num": 659974,
+        "word": "浪姐开播",
+        "onboard_time": 1742530763,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652722,
+        "num": 652722,
+        "word": "李嘉诚发布旗下港口收入",
+        "onboard_time": 1742529801,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398481,
+        "num": 398481,
+        "word": "公公给儿媳的陪嫁猫做三层榫卯床",
+        "onboard_time": 1742516660,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 852885,
+        "num": 383519,
+        "word": "陈赫林更新为黄磊黄酒炖肉争论",
+        "onboard_time": 1742532381,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 703822,
+        "num": 367211,
+        "word": "王珞丹 别问了",
+        "onboard_time": 1742534842,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334247,
+        "num": 334247,
+        "word": "急急如律令是啥意思",
+        "onboard_time": 1742521520,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268499,
+        "num": 268499,
+        "word": "多方回应物业撤场停电梯垃圾溢出",
+        "onboard_time": 1742533341,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1065352,
+        "num": 267843,
+        "word": "乐言承认与周淑怡恋情",
+        "onboard_time": 1742529562,
+        "rank": 10,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 711573,
+        "num": 266471,
+        "word": "女子高价卖出发霉变绿的橘子",
+        "onboard_time": 1742526081,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642661,
+        "num": 265652,
+        "word": "吴宣仪初舞台唱我又初恋了",
+        "onboard_time": 1742533462,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652352,
+        "num": 265015,
+        "word": "赵露思回复教取关教程网友谢谢",
+        "onboard_time": 1742526322,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506990,
+        "num": 263791,
+        "word": "江一燕对叶童说我亲过你老婆",
+        "onboard_time": 1742534302,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491211,
+        "num": 262745,
+        "word": "哪吒2延长上映至4月30日",
+        "onboard_time": 1742525902,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262389,
+        "num": 262389,
+        "word": "江西万年县2025年将不招聘英语教师",
+        "onboard_time": 1742532802,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217855,
+        "num": 217855,
+        "word": "长期碎片化睡眠易得焦虑症抑郁症",
+        "onboard_time": 1742526440,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 445309,
+        "num": 210190,
+        "word": "赵露思 要化爱化化一辈子",
+        "onboard_time": 1742514019,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195891,
+        "num": 195891,
+        "word": "库里受伤",
+        "onboard_time": 1742530581,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1093533,
+        "num": 195844,
+        "word": "赵丽颖 没接受过采访假新闻",
+        "onboard_time": 1742528423,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413410,
+        "num": 195600,
+        "word": "宋妍霏不愧是JYP的",
+        "onboard_time": 1742529142,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125071,
+        "num": 195364,
+        "word": "海尔老总回归微博",
+        "onboard_time": 1742530042,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 345835,
+        "num": 195054,
+        "word": "法院禁止newjeans独立活动",
+        "onboard_time": 1742534842,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343630,
+        "num": 194992,
+        "word": "邓紫棋巡演官宣",
+        "onboard_time": 1742531122,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111031,
+        "num": 194683,
+        "word": "香港大公报再发文直指长和",
+        "onboard_time": 1742533522,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342510,
+        "num": 194346,
+        "word": "王一博为保护冰川发声",
+        "onboard_time": 1742526921,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308871,
+        "num": 194318,
+        "word": "周五的含金量在此刻达到顶峰",
+        "onboard_time": 1742532083,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286997,
+        "num": 194078,
+        "word": "权志龙ins小号发文",
+        "onboard_time": 1742535082,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193871,
+        "num": 193871,
+        "word": "刘昊然黑皮衣杀伤力",
+        "onboard_time": 1742535142,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274912,
+        "num": 188520,
+        "word": "王珞丹祝绪丹 姐狗",
+        "onboard_time": 1742534241,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176587,
+        "num": 176587,
+        "word": "何泓姗浪姐腹黑金蛇造型",
+        "onboard_time": 1742532682,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71647,
+        "num": 175448,
+        "word": "姚安娜开箱华为阔折叠",
+        "onboard_time": 1742535142,
+        "rank": 32,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 175378,
+        "num": 175378,
+        "word": "乘风第一期六个多小时",
+        "onboard_time": 1742534661,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160264,
+        "num": 160264,
+        "word": "懒人洗衣机三筒还是保守了",
+        "onboard_time": 1742528961,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 232743,
+        "num": 155374,
+        "word": "祝绪丹乘风2025初舞台",
+        "onboard_time": 1742530343,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45248,
+        "num": 148743,
+        "word": "汉马赛道起点全是樱花",
+        "onboard_time": 1742533581,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167573,
+        "num": 147964,
+        "word": "王润泽我承认之前对你声音大了点",
+        "onboard_time": 1742533702,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144828,
+        "num": 144828,
+        "word": "郭敬明方回应新剧拍摄突发大火",
+        "onboard_time": 1742530702,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139625,
+        "num": 139625,
+        "word": "海尔周云杰第一条微博",
+        "onboard_time": 1742530162,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143259,
+        "num": 138288,
+        "word": "王玉雯把王安宇哄成胚胎了",
+        "onboard_time": 1742526621,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143116,
+        "num": 134294,
+        "word": "对晴格格恨不起来",
+        "onboard_time": 1742531003,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130290,
+        "num": 130290,
+        "word": "乘风2025",
+        "onboard_time": 1742530401,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128948,
+        "num": 128948,
+        "word": "重庆大哥在网上炒了4000万次空心菜",
+        "onboard_time": 1742524461,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123700,
+        "num": 123700,
+        "word": "周云杰的唯一关注是雷军",
+        "onboard_time": 1742535022,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122919,
+        "num": 122919,
+        "word": "地方测算将年均剩余超230名教师",
+        "onboard_time": 1742532802,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119285,
+        "num": 119285,
+        "word": "曝Faker冠军皮肤选永恩",
+        "onboard_time": 1742534842,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118956,
+        "num": 118956,
+        "word": "白鹿如果看过风吹半夏就敢使劲了",
+        "onboard_time": 1742531243,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111420,
+        "num": 111420,
+        "word": "我是Steve我同意全世界变方",
+        "onboard_time": 1742535502,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96863,
+        "num": 96863,
+        "word": "林孝埈说F1是不一样的体验",
+        "onboard_time": 1742534842,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习近平总书记打卡丽江古城#"
+    }
+  }
+}
