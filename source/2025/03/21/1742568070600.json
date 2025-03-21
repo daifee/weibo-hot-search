@@ -1,0 +1,410 @@
+{
+  "runTime": 1742568070600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1091129,
+        "num": 1174580,
+        "word": "北大毕业生做正骨被踢出班级群",
+        "onboard_time": 1742564064,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 696760,
+        "num": 696760,
+        "word": "女生瞒着家人半年打赏主播近200万",
+        "onboard_time": 1742562024,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25047,
+        "num": 458219,
+        "word": "大国重器能给太空做超级CT",
+        "onboard_time": 1742567484,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338980,
+        "num": 338980,
+        "word": "医院自助取袋机被曝性别定制广告",
+        "onboard_time": 1742565983,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332007,
+        "num": 332007,
+        "word": "张小婉管乐你俩让我觉得陌生",
+        "onboard_time": 1742559982,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259062,
+        "num": 259062,
+        "word": "因2.6元举报有偿陪侍代驾小哥发声",
+        "onboard_time": 1742557701,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257846,
+        "num": 257846,
+        "word": "雁回时",
+        "onboard_time": 1742557161,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252709,
+        "num": 252709,
+        "word": "汪苏泷像晴天像雨天首唱",
+        "onboard_time": 1742562264,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235727,
+        "num": 235727,
+        "word": "陈都灵傅菁有吻戏吗",
+        "onboard_time": 1742567604,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63332,
+        "num": 227477,
+        "word": "被代驾因2.6元举报的KTV停业整顿",
+        "onboard_time": 1742567664,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403790,
+        "num": 225224,
+        "word": "Hanni说谎",
+        "onboard_time": 1742557223,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244822,
+        "num": 224145,
+        "word": "孕妇羊水破裂13岁男孩成功助产",
+        "onboard_time": 1742541441,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219279,
+        "num": 219279,
+        "word": "外交部提醒日本",
+        "onboard_time": 1742549661,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207728,
+        "num": 207728,
+        "word": "全班39人都被抢走企业追着老师要人",
+        "onboard_time": 1742549720,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200207,
+        "num": 200207,
+        "word": "刘亦菲皮衣街拍",
+        "onboard_time": 1742561424,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199650,
+        "num": 199650,
+        "word": "余承东回应PuraX价格争议",
+        "onboard_time": 1742554401,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 191718,
+        "num": 191718,
+        "word": "王腾称下个月出大部分人买得起的手机",
+        "onboard_time": 1742565443,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188095,
+        "num": 188095,
+        "word": "金价开跌",
+        "onboard_time": 1742567604,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186523,
+        "num": 186523,
+        "word": "赵露思回复教取关教程网友谢谢",
+        "onboard_time": 1742526322,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175873,
+        "num": 175873,
+        "word": "卡琳娜直播",
+        "onboard_time": 1742564243,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718006,
+        "num": 175864,
+        "word": "罗予彤 断层",
+        "onboard_time": 1742551521,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 677384,
+        "num": 175547,
+        "word": "93岁强奸不收押老人已无法自主行走",
+        "onboard_time": 1742547621,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489038,
+        "num": 175301,
+        "word": "经期3天和7天的女性谁老得更快",
+        "onboard_time": 1742558904,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 428909,
+        "num": 175048,
+        "word": "李嘉琦真的被低估了",
+        "onboard_time": 1742549781,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174922,
+        "num": 174922,
+        "word": "杨超越银色短发",
+        "onboard_time": 1742567664,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172117,
+        "num": 172117,
+        "word": "网易云向李荣浩致歉",
+        "onboard_time": 1742559322,
+        "rank": 25,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 163139,
+        "num": 163139,
+        "word": "全国首个咖啡本科专业有多香",
+        "onboard_time": 1742567604,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128760,
+        "num": 161159,
+        "word": "最强大脑",
+        "onboard_time": 1742567185,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123200,
+        "num": 157666,
+        "word": "田曦薇逐玉杀青捧花照",
+        "onboard_time": 1742559502,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54549,
+        "num": 155147,
+        "word": "辞职能治好失眠内耗吗",
+        "onboard_time": 1742566284,
+        "rank": 29,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 177935,
+        "num": 149956,
+        "word": "中华环保联合会删除虞书欣相关",
+        "onboard_time": 1742546362,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148414,
+        "num": 148414,
+        "word": "睡眠超9小时会让身体出现各种问题",
+        "onboard_time": 1742566284,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142018,
+        "num": 142018,
+        "word": "孙颖莎对手才上小学六年级",
+        "onboard_time": 1742566163,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129830,
+        "num": 129830,
+        "word": "苏翊鸣再创中国单板滑雪历史",
+        "onboard_time": 1742563223,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126346,
+        "num": 126346,
+        "word": "孙颖莎听到小孩姐目标拿3分笑了",
+        "onboard_time": 1742567004,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125315,
+        "num": 125315,
+        "word": "春天多出去玩就是大补",
+        "onboard_time": 1742565743,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124218,
+        "num": 124218,
+        "word": "儿子尿毒症63岁母亲偷偷签字捐肾",
+        "onboard_time": 1742555182,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117523,
+        "num": 117523,
+        "word": "成都地铁50秒极速处理故障火了",
+        "onboard_time": 1742564963,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117409,
+        "num": 117409,
+        "word": "樊振东希望大家感受到棒球的魅力",
+        "onboard_time": 1742564482,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115254,
+        "num": 115254,
+        "word": "女子入职得知生娃奖10万果断再怀孕",
+        "onboard_time": 1742544382,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112776,
+        "num": 112776,
+        "word": "王俊凯小时候同款小嘚瑟",
+        "onboard_time": 1742563043,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111337,
+        "num": 111337,
+        "word": "这一站是上岸",
+        "onboard_time": 1742566943,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107090,
+        "num": 107090,
+        "word": "发霉面包背刺了早八打工人",
+        "onboard_time": 1742565864,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 106037,
+        "num": 106037,
+        "word": "2025LPL",
+        "onboard_time": 1742566223,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104743,
+        "num": 104743,
+        "word": "不胖和很瘦的区别",
+        "onboard_time": 1742550441,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104278,
+        "num": 104278,
+        "word": "司马南偷税被罚超900万",
+        "onboard_time": 1742523020,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102820,
+        "num": 102820,
+        "word": "球迷接机拉横幅就支持国足那咋了",
+        "onboard_time": 1742567243,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102395,
+        "num": 102395,
+        "word": "我国成功发射一箭六星",
+        "onboard_time": 1742558602,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100744,
+        "num": 100744,
+        "word": "李艺彤 这么多年都没红不可能翻红",
+        "onboard_time": 1742554701,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86229,
+        "num": 86229,
+        "word": "汪苏泷演唱会重回歌手",
+        "onboard_time": 1742565803,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻古城老街文韵#"
+    }
+  }
+}

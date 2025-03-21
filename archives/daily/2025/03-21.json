@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742566981221,
+  "endTime": 1742568070600,
   "band_list": [
     {
       "raw_hot": 3765482,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1091129,
+      "num": 1174580,
+      "word": "北大毕业生做正骨被踢出班级群",
+      "onboard_time": 1742564064,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1052795,
       "num": 1052795,
       "word": "沙特1比0国足",
@@ -161,14 +169,6 @@
       "onboard_time": 1742514019,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 990272,
-      "num": 1158443,
-      "word": "北大毕业生做正骨被踢出班级群",
-      "onboard_time": 1742564064,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 947689,
@@ -731,6 +731,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338980,
+      "num": 338980,
+      "word": "医院自助取袋机被曝性别定制广告",
+      "onboard_time": 1742565983,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332007,
+      "num": 332007,
+      "word": "张小婉管乐你俩让我觉得陌生",
+      "onboard_time": 1742559982,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327514,
       "num": 259528,
       "word": "yesok",
@@ -931,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257797,
-      "num": 257797,
-      "word": "张小婉管乐你俩让我觉得陌生",
-      "onboard_time": 1742559982,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 257182,
       "num": 257182,
       "word": "郭敬明方回应新剧拍摄突发大火",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1742555121,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235727,
+      "num": 235727,
+      "word": "陈都灵傅菁有吻戏吗",
+      "onboard_time": 1742567604,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 233445,
@@ -1403,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191718,
+      "num": 191718,
+      "word": "王腾称下个月出大部分人买得起的手机",
+      "onboard_time": 1742565443,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 191520,
       "num": 191520,
       "word": "男子瞒着子女转80%房产给再婚妻子",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1742556261,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188095,
+      "num": 188095,
+      "word": "金价开跌",
+      "onboard_time": 1742567604,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 186756,
@@ -1571,19 +1603,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 176651,
-      "num": 176651,
-      "word": "王腾称下个月出大部分人买得起的手机",
-      "onboard_time": 1742565443,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 175378,
       "num": 175378,
       "word": "乘风第一期六个多小时",
       "onboard_time": 1742534661,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 174922,
+      "num": 174922,
+      "word": "杨超越银色短发",
+      "onboard_time": 1742567664,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1697,6 +1729,14 @@
       "onboard_time": 1742538201,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163139,
+      "num": 163139,
+      "word": "全国首个咖啡本科专业有多香",
+      "onboard_time": 1742567604,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162377,
@@ -1865,6 +1905,14 @@
       "onboard_time": 1742542941,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 148414,
+      "num": 148414,
+      "word": "睡眠超9小时会让身体出现各种问题",
+      "onboard_time": 1742566284,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 148372,
@@ -2043,6 +2091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142018,
+      "num": 142018,
+      "word": "孙颖莎对手才上小学六年级",
+      "onboard_time": 1742566163,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141550,
       "num": 141550,
       "word": "乘风2025赤脚AI海报",
@@ -2219,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129830,
+      "num": 129830,
+      "word": "苏翊鸣再创中国单板滑雪历史",
+      "onboard_time": 1742563223,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129597,
       "num": 129597,
       "word": "邓紫棋巡演首站温州",
@@ -2241,6 +2305,14 @@
       "onboard_time": 1742564963,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128760,
+      "num": 161159,
+      "word": "最强大脑",
+      "onboard_time": 1742567185,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 127841,
@@ -2275,12 +2347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126346,
+      "num": 126346,
+      "word": "孙颖莎听到小孩姐目标拿3分笑了",
+      "onboard_time": 1742567004,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125461,
       "num": 203671,
       "word": "杜华问你配吗",
       "onboard_time": 1742476462,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125315,
+      "num": 125315,
+      "word": "春天多出去玩就是大补",
+      "onboard_time": 1742565743,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125018,
@@ -2523,19 +2611,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111337,
+      "num": 111337,
+      "word": "这一站是上岸",
+      "onboard_time": 1742566943,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110858,
       "num": 110858,
       "word": "国足输球成一种文化现象",
       "onboard_time": 1742522780,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 110559,
-      "num": 110559,
-      "word": "苏翊鸣再创中国单板滑雪历史",
-      "onboard_time": 1742563223,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -2579,22 +2667,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 109301,
-      "num": 109301,
-      "word": "春天多出去玩就是大补",
-      "onboard_time": 1742565743,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108032,
-      "num": 108032,
-      "word": "睡眠超9小时会让身体出现各种问题",
-      "onboard_time": 1742566284,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 107480,
       "num": 107480,
       "word": "哪吒2票房152亿",
@@ -2611,12 +2683,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 106931,
-      "num": 215163,
-      "word": "医院自助取袋机被曝性别定制广告",
-      "onboard_time": 1742565983,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 107090,
+      "num": 224302,
+      "word": "发霉面包背刺了早八打工人",
+      "onboard_time": 1742565864,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 106626,
@@ -2673,6 +2745,14 @@
       "onboard_time": 1742530042,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102820,
+      "num": 102820,
+      "word": "球迷接机拉横幅就支持国足那咋了",
+      "onboard_time": 1742567243,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 101755,
@@ -2840,14 +2920,6 @@
       "word": "奉劝有关企业和人士停止交割",
       "onboard_time": 1742537901,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87048,
-      "num": 87048,
-      "word": "这一站是上岸",
-      "onboard_time": 1742566943,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -3067,6 +3139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 63332,
+      "num": 227477,
+      "word": "被代驾因2.6元举报的KTV停业整顿",
+      "onboard_time": 1742567664,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63146,
       "num": 109009,
       "word": "国足与印尼巴林同积6分",
@@ -3187,20 +3267,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 54549,
+      "num": 195943,
+      "word": "辞职能治好失眠内耗吗",
+      "onboard_time": 1742566284,
+      "rank": 28,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 54513,
       "num": 274714,
       "word": "盘点司马南商业版图",
       "onboard_time": 1742537421,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53956,
-      "num": 224302,
-      "word": "发霉面包背刺了早八打工人",
-      "onboard_time": 1742565864,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 52812,
@@ -3531,20 +3611,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25047,
+      "num": 458219,
+      "word": "大国重器能给太空做超级CT",
+      "onboard_time": 1742567484,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24913,
       "num": 159227,
       "word": "周冠宇车号24致敬偶像科比",
       "onboard_time": 1742549720,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24849,
-      "num": 195943,
-      "word": "辞职能治好失眠内耗吗",
-      "onboard_time": 1742566284,
-      "rank": 28,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 24837,
