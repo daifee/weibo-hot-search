@@ -1,0 +1,410 @@
+{
+  "runTime": 1742541795888,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1198752,
+        "num": 1198752,
+        "word": "王珞丹 别问了",
+        "onboard_time": 1742534842,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522451,
+        "num": 522451,
+        "word": "周五的含金量在此刻达到顶峰",
+        "onboard_time": 1742532083,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44661,
+        "num": 487625,
+        "word": "这六大服务消费领域增长潜力广阔",
+        "onboard_time": 1742530401,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 697897,
+        "num": 481617,
+        "word": "卡琳娜 你们不要这样",
+        "onboard_time": 1742536161,
+        "rank": 3,
+        "category": "综艺,动漫"
+      },
+      {
+        "raw_hot": 469195,
+        "num": 469195,
+        "word": "司马南偷税被罚超900万",
+        "onboard_time": 1742523020,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388205,
+        "num": 388205,
+        "word": "北京天坛公园3.3万株柏树花粉爆发",
+        "onboard_time": 1742539580,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479359,
+        "num": 381858,
+        "word": "联合国新闻中心发王一博",
+        "onboard_time": 1742538500,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463452,
+        "num": 375152,
+        "word": "郑秀晶李钟硕状态",
+        "onboard_time": 1742535682,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361616,
+        "num": 361616,
+        "word": "美国男子因虐猫被判40年监禁",
+        "onboard_time": 1742536042,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97797,
+        "num": 356750,
+        "word": "司马南曾发布75条和税有关视频",
+        "onboard_time": 1742541321,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1362084,
+        "num": 350371,
+        "word": "李荣浩质问网易云",
+        "onboard_time": 1742538680,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 728126,
+        "num": 339884,
+        "word": "大象新闻 赵丽颖出镜接受采访",
+        "onboard_time": 1742539462,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601971,
+        "num": 329074,
+        "word": "乐言承认与周淑怡恋情",
+        "onboard_time": 1742529562,
+        "rank": 12,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 591076,
+        "num": 320333,
+        "word": "赵露思回复教取关教程网友谢谢",
+        "onboard_time": 1742526322,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129949,
+        "num": 313191,
+        "word": "发霉橘子标价500元究竟谁在买",
+        "onboard_time": 1742540661,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307927,
+        "num": 307927,
+        "word": "怎么区分杏花桃花梨花",
+        "onboard_time": 1742539281,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429094,
+        "num": 307863,
+        "word": "演员王凯喜提新身份",
+        "onboard_time": 1742532443,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420653,
+        "num": 307337,
+        "word": "法院禁止newjeans独立活动",
+        "onboard_time": 1742534842,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395467,
+        "num": 306985,
+        "word": "江一燕对叶童说我亲过你老婆",
+        "onboard_time": 1742534302,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136773,
+        "num": 306652,
+        "word": "女子接陌生电话95万积蓄被转走",
+        "onboard_time": 1742540779,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306572,
+        "num": 306572,
+        "word": "李钟硕回春了",
+        "onboard_time": 1742540541,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299285,
+        "num": 299285,
+        "word": "司马南曾痛批逃税网红",
+        "onboard_time": 1742537541,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276451,
+        "num": 276451,
+        "word": "刘强东朋友圈发声",
+        "onboard_time": 1742541020,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 271544,
+        "num": 271544,
+        "word": "女子高价卖出发霉变绿的橘子",
+        "onboard_time": 1742526081,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254670,
+        "num": 254670,
+        "word": "王珞丹浪姐6第一个superA舞台",
+        "onboard_time": 1742536582,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225925,
+        "num": 225925,
+        "word": "哪吒2延长上映至4月30日",
+        "onboard_time": 1742525902,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225587,
+        "num": 225587,
+        "word": "李嘉诚发布旗下港口收入",
+        "onboard_time": 1742529801,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218440,
+        "num": 218440,
+        "word": "赵露思 要化爱化化一辈子",
+        "onboard_time": 1742514019,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41799,
+        "num": 214643,
+        "word": "沧元图",
+        "onboard_time": 1742538500,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 61440,
+        "num": 213490,
+        "word": "布朗尼生涯首次得分上双",
+        "onboard_time": 1742541621,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212955,
+        "num": 212955,
+        "word": "吴宣仪初舞台唱我又初恋了",
+        "onboard_time": 1742533462,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209351,
+        "num": 209351,
+        "word": "学生买房给教授养老其家属却霸占房产",
+        "onboard_time": 1742540362,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204038,
+        "num": 204038,
+        "word": "浪姐6 搞笑",
+        "onboard_time": 1742535742,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198550,
+        "num": 198550,
+        "word": "赵丽颖 没接受过采访假新闻",
+        "onboard_time": 1742528423,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173343,
+        "num": 173343,
+        "word": "孕妇羊水破裂13岁男孩成功助产",
+        "onboard_time": 1742541441,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182525,
+        "num": 170758,
+        "word": "李艺彤刷了800个吴宣仪的视频",
+        "onboard_time": 1742540422,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156274,
+        "num": 156274,
+        "word": "海尔周云杰第一条微博",
+        "onboard_time": 1742530162,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160545,
+        "num": 155965,
+        "word": "新闻主播侯佩岑上线",
+        "onboard_time": 1742539221,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155604,
+        "num": 155604,
+        "word": "宋妍霏想当浪姐的第一",
+        "onboard_time": 1742540181,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154993,
+        "num": 154993,
+        "word": "急急如律令是啥意思",
+        "onboard_time": 1742521520,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149083,
+        "num": 149083,
+        "word": "彭小苒红衣梦回东宫小枫",
+        "onboard_time": 1742541740,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50539,
+        "num": 139944,
+        "word": "巴特勒三双",
+        "onboard_time": 1742538621,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27644,
+        "num": 139175,
+        "word": "你知道汽车天地门吗",
+        "onboard_time": 1742539221,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139168,
+        "num": 139168,
+        "word": "曹颖问谢娜要张杰演唱会门票",
+        "onboard_time": 1742541500,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136534,
+        "num": 136534,
+        "word": "刘强东呼吁所有快递员骑手获五险一金",
+        "onboard_time": 1742540961,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136495,
+        "num": 136495,
+        "word": "王一博为保护冰川发声",
+        "onboard_time": 1742526921,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131278,
+        "num": 131278,
+        "word": "陈赫林更新为黄磊黄酒炖肉争论",
+        "onboard_time": 1742532381,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118684,
+        "num": 118684,
+        "word": "Faker九款皮肤",
+        "onboard_time": 1742541683,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116101,
+        "num": 116101,
+        "word": "李晟初舞台唱了当",
+        "onboard_time": 1742537541,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114602,
+        "num": 114602,
+        "word": "香港大公报再发文直指长和",
+        "onboard_time": 1742533522,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习近平总书记打卡丽江古城#"
+    }
+  }
+}

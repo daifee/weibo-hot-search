@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742539706943,
+  "endTime": 1742541795888,
   "band_list": [
     {
       "raw_hot": 3765482,
@@ -57,6 +57,14 @@
       "onboard_time": 1742529562,
       "rank": 10,
       "category": "电竞,网红"
+    },
+    {
+      "raw_hot": 1362084,
+      "num": 350371,
+      "word": "李荣浩质问网易云",
+      "onboard_time": 1742538680,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 1230631,
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 728126,
+      "num": 339884,
+      "word": "大象新闻 赵丽颖出镜接受采访",
+      "onboard_time": 1742539462,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 726838,
       "num": 726838,
       "word": "落水人员称丁禹兮是超级英雄",
@@ -209,14 +225,6 @@
       "onboard_time": 1742522240,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 660133,
-      "num": 272994,
-      "word": "李荣浩质问网易云",
-      "onboard_time": 1742538680,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 644865,
@@ -315,8 +323,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 522451,
+      "num": 522451,
+      "word": "周五的含金量在此刻达到顶峰",
+      "onboard_time": 1742532083,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 512973,
-      "num": 284401,
+      "num": 375152,
       "word": "郑秀晶李钟硕状态",
       "onboard_time": 1742535682,
       "rank": 12,
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 506990,
-      "num": 263791,
+      "num": 306985,
       "word": "江一燕对叶童说我亲过你老婆",
       "onboard_time": 1742534302,
       "rank": 31,
@@ -345,6 +361,14 @@
       "onboard_time": 1742536042,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 479359,
+      "num": 381858,
+      "word": "联合国新闻中心发王一博",
+      "onboard_time": 1742538500,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 455243,
@@ -411,12 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364891,
-      "num": 159952,
-      "word": "大象新闻 赵丽颖出镜接受采访",
-      "onboard_time": 1742539462,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 388205,
+      "num": 388205,
+      "word": "北京天坛公园3.3万株柏树花粉爆发",
+      "onboard_time": 1742539580,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361197,
@@ -451,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 320599,
-      "num": 320599,
-      "word": "周五的含金量在此刻达到顶峰",
-      "onboard_time": 1742532083,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 320198,
       "num": 320198,
       "word": "仙人跳作案手法大揭秘",
@@ -475,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313265,
-      "num": 313265,
-      "word": "联合国新闻中心发王一博",
-      "onboard_time": 1742538500,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309814,
       "num": 436521,
       "word": "作者回应玉盘是否为战歌",
@@ -491,12 +499,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 307927,
+      "num": 307927,
+      "word": "怎么区分杏花桃花梨花",
+      "onboard_time": 1742539281,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307438,
       "num": 258194,
       "word": "杨紫一生见佛拜佛的中国人",
       "onboard_time": 1742517081,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 306572,
+      "num": 306572,
+      "word": "李钟硕回春了",
+      "onboard_time": 1742540541,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 305162,
@@ -545,6 +569,14 @@
       "onboard_time": 1742537481,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276451,
+      "num": 276451,
+      "word": "刘强东朋友圈发声",
+      "onboard_time": 1742541020,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 274912,
@@ -787,6 +819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209351,
+      "num": 209351,
+      "word": "学生买房给教授养老其家属却霸占房产",
+      "onboard_time": 1742540362,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207165,
       "num": 207165,
       "word": "人类首个世界冰川日",
@@ -915,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182525,
+      "num": 170758,
+      "word": "李艺彤刷了800个吴宣仪的视频",
+      "onboard_time": 1742540422,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181912,
       "num": 155794,
       "word": "刘浩存Wallpaper四月刊封面",
@@ -969,6 +1017,14 @@
       "onboard_time": 1742534661,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173343,
+      "num": 173343,
+      "word": "孕妇羊水破裂13岁男孩成功助产",
+      "onboard_time": 1742541441,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173253,
@@ -1067,12 +1123,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154307,
-      "num": 154307,
-      "word": "怎么区分杏花桃花梨花",
-      "onboard_time": 1742539281,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 155604,
+      "num": 155604,
+      "word": "宋妍霏想当浪姐的第一",
+      "onboard_time": 1742540181,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 149530,
@@ -1081,6 +1137,14 @@
       "onboard_time": 1742527520,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149083,
+      "num": 149083,
+      "word": "彭小苒红衣梦回东宫小枫",
+      "onboard_time": 1742541740,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 148937,
@@ -1187,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139168,
+      "num": 139168,
+      "word": "曹颖问谢娜要张杰演唱会门票",
+      "onboard_time": 1742541500,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138330,
       "num": 195392,
       "word": "国足世预赛下轮2人停赛",
@@ -1209,6 +1281,22 @@
       "onboard_time": 1742486181,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136773,
+      "num": 306652,
+      "word": "女子接陌生电话95万积蓄被转走",
+      "onboard_time": 1742540779,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136534,
+      "num": 136534,
+      "word": "刘强东呼吁所有快递员骑手获五险一金",
+      "onboard_time": 1742540961,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 136058,
@@ -1257,6 +1345,14 @@
       "onboard_time": 1742536042,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129949,
+      "num": 313191,
+      "word": "发霉橘子标价500元究竟谁在买",
+      "onboard_time": 1742540661,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129597,
@@ -1371,6 +1467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118684,
+      "num": 118684,
+      "word": "Faker九款皮肤",
+      "onboard_time": 1742541683,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118404,
       "num": 118404,
       "word": "国王要醒了",
@@ -1384,14 +1488,6 @@
       "word": "4男子盗卖12座高压电塔获利53万",
       "onboard_time": 1742530822,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115073,
-      "num": 115073,
-      "word": "北京天坛公园3.3万株柏树花粉爆发",
-      "onboard_time": 1742539580,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1529,6 +1625,14 @@
       "onboard_time": 1742465661,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97797,
+      "num": 356750,
+      "word": "司马南曾发布75条和税有关视频",
+      "onboard_time": 1742541321,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96863,
@@ -1787,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61440,
+      "num": 213490,
+      "word": "布朗尼生涯首次得分上双",
+      "onboard_time": 1742541621,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59904,
       "num": 131404,
       "word": "考文垂曾给樊振东青奥会颁过奖",
@@ -1897,6 +2009,14 @@
       "onboard_time": 1742528002,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 50539,
+      "num": 139944,
+      "word": "巴特勒三双",
+      "onboard_time": 1742538621,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 46628,
@@ -2011,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27644,
+      "num": 139175,
+      "word": "你知道汽车天地门吗",
+      "onboard_time": 1742539221,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 24837,
       "num": 201401,
       "word": "国足小组排名依旧垫底",
@@ -2113,14 +2241,6 @@
       "onboard_time": 1742499914,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8672,
-      "num": 118844,
-      "word": "你知道汽车天地门吗",
-      "onboard_time": 1742539221,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 2735,
