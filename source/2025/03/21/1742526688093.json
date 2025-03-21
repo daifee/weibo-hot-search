@@ -1,0 +1,410 @@
+{
+  "runTime": 1742526688093,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3394647,
+        "num": 3394647,
+        "word": "司马南偷税被罚超900万",
+        "onboard_time": 1742523020,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2140879,
+        "num": 2140879,
+        "word": "湖大失联女生遗体已找到",
+        "onboard_time": 1742520561,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34861,
+        "num": 1349179,
+        "word": "我国大型汽车运输船上新了",
+        "onboard_time": 1742475082,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 679937,
+        "num": 679937,
+        "word": "落水人员称丁禹兮是超级英雄",
+        "onboard_time": 1742522420,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619431,
+        "num": 619431,
+        "word": "急急如律令是啥意思",
+        "onboard_time": 1742521520,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492442,
+        "num": 492442,
+        "word": "重庆大哥在网上炒了4000万次空心菜",
+        "onboard_time": 1742524461,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467784,
+        "num": 467784,
+        "word": "官方通报湖大一女生失联",
+        "onboard_time": 1742522240,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 446836,
+        "num": 446836,
+        "word": "公公给儿媳的陪嫁猫做三层榫卯床",
+        "onboard_time": 1742516660,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349098,
+        "num": 349098,
+        "word": "哪吒2延长上映至4月30日",
+        "onboard_time": 1742525902,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99569,
+        "num": 342949,
+        "word": "家属回应湖大失联女生离世",
+        "onboard_time": 1742525301,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 698828,
+        "num": 342905,
+        "word": "赵露思 要化爱化化一辈子",
+        "onboard_time": 1742514019,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425781,
+        "num": 342345,
+        "word": "阚清子今早体重55.8kg",
+        "onboard_time": 1742520921,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341231,
+        "num": 341231,
+        "word": "韩安冉 长记性了没下次了",
+        "onboard_time": 1742518941,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 266752,
+        "num": 266752,
+        "word": "货车不慎将答题卡散落一地",
+        "onboard_time": 1742516361,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247746,
+        "num": 247746,
+        "word": "985研究生退学摆摊日入700元",
+        "onboard_time": 1742485882,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639003,
+        "num": 228288,
+        "word": "赵露思回复教取关教程网友谢谢",
+        "onboard_time": 1742526322,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198077,
+        "num": 198077,
+        "word": "作者回应玉盘是否为战歌",
+        "onboard_time": 1742518581,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287718,
+        "num": 195280,
+        "word": "西双版纳偶遇宋浩然韩安冉",
+        "onboard_time": 1742520081,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176704,
+        "num": 176704,
+        "word": "王楚钦vs刁子育",
+        "onboard_time": 1742524401,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172152,
+        "num": 172152,
+        "word": "男子多次冒充员工参加年会领奖被拘",
+        "onboard_time": 1742521701,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243382,
+        "num": 167123,
+        "word": "女子高价卖出发霉变绿的橘子",
+        "onboard_time": 1742526081,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157610,
+        "num": 157610,
+        "word": "人类首个世界冰川日",
+        "onboard_time": 1742525902,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151901,
+        "num": 151901,
+        "word": "杨紫一生见佛拜佛的中国人",
+        "onboard_time": 1742517081,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145767,
+        "num": 145767,
+        "word": "哪吒2春暖花开继续相见",
+        "onboard_time": 1742526021,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77226,
+        "num": 145609,
+        "word": "国足丢球范志毅说大家早点睡吧",
+        "onboard_time": 1742521880,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16078,
+        "num": 145253,
+        "word": "长期碎片化睡眠易得焦虑症抑郁症",
+        "onboard_time": 1742526440,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141545,
+        "num": 145107,
+        "word": "陈都灵看到了看到了",
+        "onboard_time": 1742524580,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149799,
+        "num": 144727,
+        "word": "金秀贤方面准备道歉",
+        "onboard_time": 1742461822,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144455,
+        "num": 144455,
+        "word": "你以为是矫情其实是睡眠高敏感",
+        "onboard_time": 1742524461,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143870,
+        "num": 143870,
+        "word": "315后医护级卫生巾销量暴涨8倍",
+        "onboard_time": 1742522901,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134044,
+        "num": 134044,
+        "word": "沙特1比0国足",
+        "onboard_time": 1742502074,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127057,
+        "num": 127057,
+        "word": "李镇浩再曝录音",
+        "onboard_time": 1742524700,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140931,
+        "num": 126189,
+        "word": "金秀贤方要公开金赛纶行踪",
+        "onboard_time": 1742517501,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124281,
+        "num": 124281,
+        "word": "男子瞒着子女转80%房产给再婚妻子",
+        "onboard_time": 1742519061,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123820,
+        "num": 123820,
+        "word": "A股",
+        "onboard_time": 1742523681,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121864,
+        "num": 121864,
+        "word": "金价",
+        "onboard_time": 1742517683,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119490,
+        "num": 119490,
+        "word": "医生建议不要强制自己入睡",
+        "onboard_time": 1742490138,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121415,
+        "num": 117843,
+        "word": "闺蜜有金赛纶被家暴的照片",
+        "onboard_time": 1742480242,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106997,
+        "num": 116567,
+        "word": "陈鲁豫最害怕记忆力衰退",
+        "onboard_time": 1742525061,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115358,
+        "num": 115358,
+        "word": "下周还有大降温",
+        "onboard_time": 1742525240,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115229,
+        "num": 115229,
+        "word": "赵丽颖实力演绎善良的坏女孩",
+        "onboard_time": 1742526621,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114638,
+        "num": 114638,
+        "word": "张百乔晒和王楚钦合照",
+        "onboard_time": 1742522901,
+        "rank": 41,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 108400,
+        "num": 108400,
+        "word": "王玉雯把王安宇哄成胚胎了",
+        "onboard_time": 1742526621,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100842,
+        "num": 100842,
+        "word": "寻梦环游记2定档2029年",
+        "onboard_time": 1742518283,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100559,
+        "num": 100559,
+        "word": "黄子弘凡被收录进IFPI案例",
+        "onboard_time": 1742515462,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96172,
+        "num": 96172,
+        "word": "无限暖暖",
+        "onboard_time": 1742519602,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95894,
+        "num": 95894,
+        "word": "自愿被群像骗了一年又一年",
+        "onboard_time": 1742481624,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92136,
+        "num": 92136,
+        "word": "群核科技创始人回应是否后悔创业",
+        "onboard_time": 1742526081,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 91153,
+        "num": 91153,
+        "word": "2000多名博主隐私被一个境外群传播",
+        "onboard_time": 1742496913,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90116,
+        "num": 90116,
+        "word": "金价飙涨有人连夜找祖传金镯",
+        "onboard_time": 1742522901,
+        "rank": 49,
+        "category": "财经,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中国式现代化进程中开创云南发展新局面#"
+    }
+  }
+}

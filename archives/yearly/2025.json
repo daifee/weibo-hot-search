@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742526162697,
+  "endTime": 1742526688093,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1419,6 +1419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 3394647,
+      "num": 3394647,
+      "word": "司马南偷税被罚超900万",
+      "onboard_time": 1742523020,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3385913,
       "num": 529261,
       "word": "汪小菲现任妻子mandy发声",
@@ -1793,14 +1801,6 @@
       "onboard_time": 1736072185,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 3017901,
-      "num": 3017901,
-      "word": "司马南偷税被罚超900万",
-      "onboard_time": 1742523020,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3015707,

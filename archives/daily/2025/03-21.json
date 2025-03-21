@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742526162697,
+  "endTime": 1742526688093,
   "band_list": [
     {
       "raw_hot": 3765482,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3017901,
-      "num": 3017901,
+      "raw_hot": 3394647,
+      "num": 3394647,
       "word": "司马南偷税被罚超900万",
       "onboard_time": 1742523020,
       "rank": 22,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 639003,
+      "num": 228288,
+      "word": "赵露思回复教取关教程网友谢谢",
+      "onboard_time": 1742526322,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 622281,
       "num": 622281,
       "word": "金价",
@@ -179,20 +187,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492442,
+      "num": 492442,
+      "word": "重庆大哥在网上炒了4000万次空心菜",
+      "onboard_time": 1742524461,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 453145,
       "num": 192943,
       "word": "疑似王一博离开乐华",
       "onboard_time": 1742476523,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 442290,
-      "num": 442290,
-      "word": "重庆大哥在网上炒了4000万次空心菜",
-      "onboard_time": 1742524461,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 438608,
@@ -217,6 +225,14 @@
       "onboard_time": 1742515462,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349098,
+      "num": 349098,
+      "word": "哪吒2延长上映至4月30日",
+      "onboard_time": 1742525902,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 309814,
@@ -331,6 +347,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 243382,
+      "num": 167123,
+      "word": "女子高价卖出发霉变绿的橘子",
+      "onboard_time": 1742526081,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227748,
       "num": 227748,
       "word": "林良铭直红",
@@ -377,14 +401,6 @@
       "onboard_time": 1742465661,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 201579,
-      "num": 201579,
-      "word": "哪吒2延长上映至4月30日",
-      "onboard_time": 1742525902,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 192587,
@@ -467,11 +483,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 157667,
-      "num": 138844,
-      "word": "女子高价卖出发霉变绿的橘子",
-      "onboard_time": 1742526081,
-      "rank": 30,
+      "raw_hot": 157610,
+      "num": 157610,
+      "word": "人类首个世界冰川日",
+      "onboard_time": 1742525902,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -499,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145767,
+      "num": 145767,
+      "word": "哪吒2春暖花开继续相见",
+      "onboard_time": 1742526021,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145338,
       "num": 145338,
       "word": "国足全场控球率仅20%",
@@ -513,14 +537,6 @@
       "onboard_time": 1742524580,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142957,
-      "num": 142957,
-      "word": "人类首个世界冰川日",
-      "onboard_time": 1742525902,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142805,
@@ -587,6 +603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127057,
+      "num": 127057,
+      "word": "李镇浩再曝录音",
+      "onboard_time": 1742524700,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126930,
       "num": 126930,
       "word": "无限暖暖",
@@ -601,14 +625,6 @@
       "onboard_time": 1742476462,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123933,
-      "num": 123933,
-      "word": "李镇浩再曝录音",
-      "onboard_time": 1742524700,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 120459,
@@ -627,12 +643,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116658,
-      "num": 116658,
-      "word": "哪吒2春暖花开继续相见",
-      "onboard_time": 1742526021,
-      "rank": 41,
-      "category": "电影"
+      "raw_hot": 115358,
+      "num": 115358,
+      "word": "下周还有大降温",
+      "onboard_time": 1742525240,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115229,
+      "num": 115229,
+      "word": "赵丽颖实力演绎善良的坏女孩",
+      "onboard_time": 1742526621,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 111900,
@@ -657,6 +681,14 @@
       "onboard_time": 1742521580,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 108400,
+      "num": 108400,
+      "word": "王玉雯把王安宇哄成胚胎了",
+      "onboard_time": 1742526621,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 107480,
@@ -713,6 +745,14 @@
       "onboard_time": 1742520201,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99569,
+      "num": 409132,
+      "word": "家属回应湖大失联女生离世",
+      "onboard_time": 1742525301,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99093,
@@ -787,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90128,
-      "num": 90128,
-      "word": "下周还有大降温",
-      "onboard_time": 1742525240,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89632,
       "num": 73308,
       "word": "给国足算分",
@@ -836,7 +868,7 @@
     },
     {
       "raw_hot": 80385,
-      "num": 125177,
+      "num": 145609,
       "word": "国足丢球范志毅说大家早点睡吧",
       "onboard_time": 1742521880,
       "rank": 35,
@@ -995,14 +1027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58847,
-      "num": 409132,
-      "word": "家属回应湖大失联女生离世",
-      "onboard_time": 1742525301,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57342,
       "num": 56723,
       "word": "王大雷尽力了",
@@ -1052,7 +1076,7 @@
     },
     {
       "raw_hot": 44154,
-      "num": 833599,
+      "num": 1349179,
       "word": "我国大型汽车运输船上新了",
       "onboard_time": 1742475082,
       "rank": 2,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1742496135,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 16078,
+      "num": 145253,
+      "word": "长期碎片化睡眠易得焦虑症抑郁症",
+      "onboard_time": 1742526440,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15654,
