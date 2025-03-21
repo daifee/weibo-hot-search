@@ -1,6 +1,6 @@
 {
   "startTime": 1742488264609,
-  "endTime": 1742570739201,
+  "endTime": 1742571576933,
   "band_list": [
     {
       "raw_hot": 3765482,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 757458,
+      "num": 757458,
+      "word": "金价开跌",
+      "onboard_time": 1742567604,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 745049,
       "num": 745049,
       "word": "北京天坛公园3.3万株柏树花粉爆发",
@@ -393,14 +401,6 @@
       "onboard_time": 1742540661,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 663361,
-      "num": 663361,
-      "word": "金价开跌",
-      "onboard_time": 1742567604,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 644865,
@@ -692,15 +692,15 @@
     },
     {
       "raw_hot": 417557,
-      "num": 117634,
+      "num": 244017,
       "word": "坏了真让王大锤走向人生巅峰了",
       "onboard_time": 1742569344,
       "rank": 36,
       "category": "剧集"
     },
     {
-      "raw_hot": 401500,
-      "num": 401500,
+      "raw_hot": 411821,
+      "num": 411821,
       "word": "全国首个咖啡本科专业有多香",
       "onboard_time": 1742567604,
       "rank": 26,
@@ -872,6 +872,14 @@
       "word": "女子取一个快递被骗10多万",
       "onboard_time": 1742480303,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304252,
+      "num": 304252,
+      "word": "这一站是上岸",
+      "onboard_time": 1742566943,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1067,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249524,
+      "num": 252406,
+      "word": "春天多出去玩就是大补",
+      "onboard_time": 1742565743,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249078,
       "num": 178093,
       "word": "面粉疑现老鼠秋田满满要求检测年龄",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1742555121,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235630,
-      "num": 252406,
-      "word": "春天多出去玩就是大补",
-      "onboard_time": 1742565743,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 233445,
@@ -1787,14 +1795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161007,
-      "num": 161007,
-      "word": "这一站是上岸",
-      "onboard_time": 1742566943,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160140,
       "num": 338069,
       "word": "我国超过3亿人有睡眠障碍",
@@ -1905,6 +1905,14 @@
       "onboard_time": 1742552062,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150494,
+      "num": 150494,
+      "word": "撒贝宁被周总同款领带硬控了",
+      "onboard_time": 1742570603,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150427,
@@ -2379,6 +2387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127592,
+      "num": 134227,
+      "word": "王宝强说多年后再拍剧压力很大",
+      "onboard_time": 1742569283,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127057,
       "num": 127057,
       "word": "李镇浩再曝录音",
@@ -2409,14 +2425,6 @@
       "onboard_time": 1742567004,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125844,
-      "num": 134227,
-      "word": "王宝强说多年后再拍剧压力很大",
-      "onboard_time": 1742569283,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 125461,
@@ -2963,6 +2971,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91478,
+      "num": 91478,
+      "word": "李乃文说演棋士是王宝强钦点的",
+      "onboard_time": 1742570302,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90655,
+      "num": 90655,
+      "word": "金秀贤山寨人生停播后还能上线吗",
+      "onboard_time": 1742568263,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89660,
       "num": 89660,
       "word": "王安宇不愧是整活大师",
@@ -2985,14 +3009,6 @@
       "onboard_time": 1742569163,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 87229,
-      "num": 87229,
-      "word": "撒贝宁被周总同款领带硬控了",
-      "onboard_time": 1742570603,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87069,
@@ -3091,12 +3107,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78544,
-      "num": 78544,
-      "word": "金秀贤山寨人生停播后还能上线吗",
-      "onboard_time": 1742568263,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 78776,
+      "num": 78776,
+      "word": "小燕子姐姐初舞台失误拿最低分",
+      "onboard_time": 1742571262,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 77817,
@@ -3105,14 +3121,6 @@
       "onboard_time": 1742541621,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77764,
-      "num": 77764,
-      "word": "李乃文说演棋士是王宝强钦点的",
-      "onboard_time": 1742570302,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 77693,
@@ -3187,6 +3195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70314,
+      "num": 121881,
+      "word": "刘毅王昶无缘瑞士赛四强",
+      "onboard_time": 1742571262,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70074,
       "num": 76570,
       "word": "孙颖莎说一天一场很合理",
@@ -3257,6 +3273,14 @@
       "onboard_time": 1742544262,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 63661,
+      "num": 158777,
+      "word": "陌生人闯私宅摔伤起诉索赔16万遭拒",
+      "onboard_time": 1742569524,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63332,
@@ -3523,6 +3547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44790,
+      "num": 767482,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1742551221,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44154,
       "num": 1349179,
       "word": "我国大型汽车运输船上新了",
@@ -3553,14 +3585,6 @@
       "onboard_time": 1742497635,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41987,
-      "num": 731446,
-      "word": "那些你不知道的北京地儿",
-      "onboard_time": 1742551221,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40764,
@@ -3625,14 +3649,6 @@
       "onboard_time": 1742547802,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 34803,
-      "num": 158777,
-      "word": "陌生人闯私宅摔伤起诉索赔16万遭拒",
-      "onboard_time": 1742569524,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34692,

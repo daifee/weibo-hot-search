@@ -1,0 +1,410 @@
+{
+  "runTime": 1742571576933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1208560,
+        "num": 1208560,
+        "word": "北大毕业生做正骨被踢出班级群",
+        "onboard_time": 1742564064,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 808912,
+        "num": 808912,
+        "word": "杨超越银色短发",
+        "onboard_time": 1742567664,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44790,
+        "num": 767482,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1742551221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 757458,
+        "num": 757458,
+        "word": "金价开跌",
+        "onboard_time": 1742567604,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 509539,
+        "num": 509539,
+        "word": "陈都灵傅菁有吻戏吗",
+        "onboard_time": 1742567604,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411821,
+        "num": 411821,
+        "word": "全国首个咖啡本科专业有多香",
+        "onboard_time": 1742567604,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371698,
+        "num": 371698,
+        "word": "女生瞒着家人半年打赏主播近200万",
+        "onboard_time": 1742562024,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304252,
+        "num": 304252,
+        "word": "这一站是上岸",
+        "onboard_time": 1742566943,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252904,
+        "num": 252904,
+        "word": "医院自助取袋机被曝性别定制广告",
+        "onboard_time": 1742565983,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249524,
+        "num": 249524,
+        "word": "春天多出去玩就是大补",
+        "onboard_time": 1742565743,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333677,
+        "num": 246581,
+        "word": "Hanni说谎",
+        "onboard_time": 1742557223,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302916,
+        "num": 244017,
+        "word": "坏了真让王大锤走向人生巅峰了",
+        "onboard_time": 1742569344,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227564,
+        "num": 227564,
+        "word": "张小婉管乐你俩让我觉得陌生",
+        "onboard_time": 1742559982,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222854,
+        "num": 222854,
+        "word": "王腾称下个月出大部分人买得起的手机",
+        "onboard_time": 1742565443,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 179068,
+        "num": 179068,
+        "word": "赵今麦宋威龙骄阳似我一家三口路透",
+        "onboard_time": 1742568983,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161650,
+        "num": 161650,
+        "word": "雁回时",
+        "onboard_time": 1742557161,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156676,
+        "num": 156676,
+        "word": "孕妇羊水破裂13岁男孩成功助产",
+        "onboard_time": 1742541441,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154019,
+        "num": 154019,
+        "word": "余承东回应PuraX价格争议",
+        "onboard_time": 1742554401,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150494,
+        "num": 150494,
+        "word": "撒贝宁被周总同款领带硬控了",
+        "onboard_time": 1742570603,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132222,
+        "num": 132222,
+        "word": "汪苏泷晒演唱会与粉丝大合照",
+        "onboard_time": 1742568864,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 550399,
+        "num": 131540,
+        "word": "罗予彤 断层",
+        "onboard_time": 1742551521,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466050,
+        "num": 131197,
+        "word": "93岁强奸不收押老人已无法自主行走",
+        "onboard_time": 1742547621,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368939,
+        "num": 129928,
+        "word": "经期3天和7天的女性谁老得更快",
+        "onboard_time": 1742558904,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 319065,
+        "num": 129138,
+        "word": "睡眠超9小时会让身体出现各种问题",
+        "onboard_time": 1742566284,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 293788,
+        "num": 128740,
+        "word": "李嘉琦真的被低估了",
+        "onboard_time": 1742549781,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41178,
+        "num": 127699,
+        "word": "被代驾因2.6元举报的KTV停业整顿",
+        "onboard_time": 1742567664,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127592,
+        "num": 127592,
+        "word": "王宝强说多年后再拍剧压力很大",
+        "onboard_time": 1742569283,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127272,
+        "num": 127272,
+        "word": "养猫后很讨厌别人说哪句话",
+        "onboard_time": 1742569223,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122201,
+        "num": 122201,
+        "word": "刘亦菲皮衣街拍",
+        "onboard_time": 1742561424,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70314,
+        "num": 121881,
+        "word": "刘毅王昶无缘瑞士赛四强",
+        "onboard_time": 1742571262,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127059,
+        "num": 121829,
+        "word": "中华环保联合会删除虞书欣相关",
+        "onboard_time": 1742546362,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121772,
+        "num": 121772,
+        "word": "SEVENTEEN十周年回归预告",
+        "onboard_time": 1742569824,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116978,
+        "num": 116978,
+        "word": "孙颖莎对手才上小学六年级",
+        "onboard_time": 1742566163,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110071,
+        "num": 110071,
+        "word": "全班39人都被抢走企业追着老师要人",
+        "onboard_time": 1742549720,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106698,
+        "num": 106698,
+        "word": "newjeans在法院说谎ILLIT没打招呼",
+        "onboard_time": 1742568384,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105748,
+        "num": 105748,
+        "word": "外交部提醒日本",
+        "onboard_time": 1742549661,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103619,
+        "num": 103619,
+        "word": "儿子尿毒症63岁母亲偷偷签字捐肾",
+        "onboard_time": 1742555182,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93366,
+        "num": 93366,
+        "word": "司马南偷税被罚超900万",
+        "onboard_time": 1742523020,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92840,
+        "num": 92840,
+        "word": "网易云向李荣浩致歉",
+        "onboard_time": 1742559322,
+        "rank": 38,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 91478,
+        "num": 91478,
+        "word": "李乃文说演棋士是王宝强钦点的",
+        "onboard_time": 1742570302,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91389,
+        "num": 91389,
+        "word": "汪苏泷像晴天像雨天首唱",
+        "onboard_time": 1742562264,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90655,
+        "num": 90655,
+        "word": "金秀贤山寨人生停播后还能上线吗",
+        "onboard_time": 1742568263,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63661,
+        "num": 87829,
+        "word": "陌生人闯私宅摔伤起诉索赔16万遭拒",
+        "onboard_time": 1742569524,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86224,
+        "num": 86224,
+        "word": "李艺彤 这么多年都没红不可能翻红",
+        "onboard_time": 1742554701,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84203,
+        "num": 84203,
+        "word": "KSG战胜eStar",
+        "onboard_time": 1742569945,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81185,
+        "num": 81185,
+        "word": "4个快速入睡小妙招",
+        "onboard_time": 1742569163,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80948,
+        "num": 80948,
+        "word": "田曦薇逐玉杀青捧花照",
+        "onboard_time": 1742559502,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78776,
+        "num": 78776,
+        "word": "小燕子姐姐初舞台失误拿最低分",
+        "onboard_time": 1742571262,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75051,
+        "num": 78762,
+        "word": "孙颖莎听到小孩姐目标拿3分笑了",
+        "onboard_time": 1742567004,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71050,
+        "num": 78746,
+        "word": "乌外交部称已有多国宣布拟向乌派军",
+        "onboard_time": 1742568983,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻古城老街文韵#"
+    }
+  }
+}
