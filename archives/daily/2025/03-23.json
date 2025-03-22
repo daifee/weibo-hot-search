@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742683149087,
+  "endTime": 1742685760156,
   "band_list": [
     {
       "raw_hot": 1694206,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247928,
+      "num": 748071,
+      "word": "上百万买的藏品只有一件是真品",
+      "onboard_time": 1742669055,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240753,
       "num": 240753,
       "word": "汪苏泷黑幕王源点歌",
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177801,
+      "num": 177801,
+      "word": "金正恩强调继续对俄支持",
+      "onboard_time": 1742677635,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 170678,
       "num": 133217,
       "word": "全款140万买到230平房子",
@@ -193,14 +209,6 @@
       "onboard_time": 1742650583,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126785,
-      "num": 453688,
-      "word": "上百万买的藏品只有一件是真品",
-      "onboard_time": 1742669055,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124448,
@@ -243,6 +251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109510,
+      "num": 86224,
+      "word": "戚薇李承铉把妻子当换装游戏",
+      "onboard_time": 1742640201,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103461,
       "num": 103461,
       "word": "丁程鑫开场舞杀疯了",
@@ -267,14 +283,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 98577,
-      "num": 98577,
-      "word": "金正恩强调继续对俄支持",
-      "onboard_time": 1742677635,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 98082,
       "num": 98082,
       "word": "陈都灵的红包",
@@ -297,6 +305,14 @@
       "onboard_time": 1742656523,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89002,
+      "num": 89002,
+      "word": "泽连斯基拒绝部署联合国维和部队方案",
+      "onboard_time": 1742653822,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88390,
@@ -371,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69586,
-      "num": 69586,
-      "word": "泽连斯基拒绝部署联合国维和部队方案",
-      "onboard_time": 1742653822,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 68460,
       "num": 68460,
       "word": "特朗普要造的六代机F47靠谱吗",
@@ -451,12 +459,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44302,
-      "num": 44302,
-      "word": "戚薇李承铉把妻子当换装游戏",
-      "onboard_time": 1742640201,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 51432,
+      "num": 48745,
+      "word": "你以为没事实际巨伤眼的行为",
+      "onboard_time": 1742681115,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 48101,
+      "num": 48101,
+      "word": "王楚钦赛后一层一层包好球拍",
+      "onboard_time": 1742684836,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42648,
+      "num": 42648,
+      "word": "张艺兴为黄渤王迅宣传新电影",
+      "onboard_time": 1742684836,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 40021,
+      "num": 178061,
+      "word": "开往春天的列车出发了",
+      "onboard_time": 1742651243,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39716,
@@ -491,20 +523,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 28674,
-      "num": 97486,
-      "word": "开往春天的列车出发了",
-      "onboard_time": 1742651243,
-      "rank": 2,
+      "raw_hot": 31638,
+      "num": 31638,
+      "word": "汪苏泷演唱会上喊大家补妆",
+      "onboard_time": 1742684776,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 26443,
+      "num": 30775,
+      "word": "黄子弘凡除了快乐禁止入内",
+      "onboard_time": 1742669535,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 25466,
+      "num": 30750,
+      "word": "一些金包银首饰效果只有几个月",
+      "onboard_time": 1742673915,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27513,
-      "num": 27513,
-      "word": "你以为没事实际巨伤眼的行为",
-      "onboard_time": 1742681115,
-      "rank": 34,
-      "category": "健康医疗"
+      "raw_hot": 25207,
+      "num": 30730,
+      "word": "我国首次举办世界室内田径锦标赛",
+      "onboard_time": 1742665936,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 24899,
@@ -531,28 +579,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24587,
+      "num": 50538,
+      "word": "有加沙人已流离失所8次",
+      "onboard_time": 1742678473,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24323,
+      "num": 30703,
+      "word": "2天18场马拉松开跑",
+      "onboard_time": 1742685076,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 21382,
       "num": 28932,
       "word": "黄霄雲现场搞梗教罗云熙粤语",
       "onboard_time": 1742667495,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20495,
-      "num": 20495,
-      "word": "黄子弘凡除了快乐禁止入内",
-      "onboard_time": 1742669535,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 19169,
-      "num": 28951,
-      "word": "我国首次举办世界室内田径锦标赛",
-      "onboard_time": 1742665936,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 18147,
@@ -568,22 +616,6 @@
       "word": "4000多年前中国人设计的天文设施",
       "onboard_time": 1742676735,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17769,
-      "num": 50538,
-      "word": "有加沙人已流离失所8次",
-      "onboard_time": 1742678473,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 15543,
-      "num": 27854,
-      "word": "一些金包银首饰效果只有几个月",
-      "onboard_time": 1742673915,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
