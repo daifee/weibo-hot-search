@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742672173325,
+  "endTime": 1742675043368,
   "band_list": [
     {
       "raw_hot": 1694206,
@@ -363,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67860,
+      "num": 67860,
+      "word": "上百万买的藏品只有一件是真品",
+      "onboard_time": 1742669055,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67638,
       "num": 67638,
       "word": "丝塔芙红包",
@@ -443,14 +451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 38676,
-      "num": 38676,
-      "word": "上百万买的藏品只有一件是真品",
-      "onboard_time": 1742669055,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32848,
       "num": 39302,
       "word": "袁一琦演唱会成都站",
@@ -507,7 +507,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21876,
+      "raw_hot": 22859,
       "num": 28920,
       "word": "泽连斯基拒绝部署联合国维和部队方案",
       "onboard_time": 1742653822,
@@ -553,6 +553,22 @@
       "onboard_time": 1742665936,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13284,
+      "num": 14309,
+      "word": "汪苏泷杨千嬅合唱人情世故",
+      "onboard_time": 1742672415,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 12982,
+      "num": 27854,
+      "word": "一些金包银首饰效果只有几个月",
+      "onboard_time": 1742673915,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
