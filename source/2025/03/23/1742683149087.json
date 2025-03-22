@@ -1,0 +1,410 @@
+{
+  "runTime": 1742683149087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 126785,
+        "num": 453688,
+        "word": "上百万买的藏品只有一件是真品",
+        "onboard_time": 1742669055,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98577,
+        "num": 98577,
+        "word": "金正恩强调继续对俄支持",
+        "onboard_time": 1742677635,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28674,
+        "num": 92363,
+        "word": "开往春天的列车出发了",
+        "onboard_time": 1742651243,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91995,
+        "num": 91995,
+        "word": "刘翔之后又有中国运动员夺牌了",
+        "onboard_time": 1742652144,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74445,
+        "num": 74445,
+        "word": "清明档已有11部影片定档",
+        "onboard_time": 1742658142,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69586,
+        "num": 69586,
+        "word": "泽连斯基拒绝部署联合国维和部队方案",
+        "onboard_time": 1742653822,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65972,
+        "num": 65972,
+        "word": "金价",
+        "onboard_time": 1742648843,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58500,
+        "num": 58500,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1742640562,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 50563,
+        "num": 50563,
+        "word": "自己在家晒的橘子皮算陈皮吗",
+        "onboard_time": 1742647881,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 17769,
+        "num": 50538,
+        "word": "有加沙人已流离失所8次",
+        "onboard_time": 1742678473,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 213224,
+        "num": 49496,
+        "word": "韦雪买下了秦奋之前给她租的房子",
+        "onboard_time": 1742651423,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156194,
+        "num": 47689,
+        "word": "唐九洲 抄袭",
+        "onboard_time": 1742647761,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149106,
+        "num": 47338,
+        "word": "榜一大哥带3500页聊天记录报案",
+        "onboard_time": 1742637442,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133527,
+        "num": 45364,
+        "word": "曝金秀贤超越N号房新料提示",
+        "onboard_time": 1742649442,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72594,
+        "num": 45283,
+        "word": "日本连锁店承认味噌汤中混入老鼠尸体",
+        "onboard_time": 1742655923,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44302,
+        "num": 44302,
+        "word": "戚薇李承铉把妻子当换装游戏",
+        "onboard_time": 1742640201,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43913,
+        "num": 43913,
+        "word": "浪姐全场一半的人都选了宋妍霏",
+        "onboard_time": 1742637200,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40666,
+        "num": 40666,
+        "word": "陈都灵温峥嵘你们在玩什么抽象",
+        "onboard_time": 1742659942,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36394,
+        "num": 40163,
+        "word": "浪姐那群人是不是打错电话了",
+        "onboard_time": 1742650583,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36081,
+        "num": 39994,
+        "word": "三次开颅网红吴忠华耳朵内又长东西",
+        "onboard_time": 1742642182,
+        "rank": 19,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 96180,
+        "num": 39095,
+        "word": "日本7岁女童被水泥封尸母亲失踪",
+        "onboard_time": 1742647401,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52293,
+        "num": 38385,
+        "word": "全款140万买到230平房子",
+        "onboard_time": 1742654783,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42266,
+        "num": 37636,
+        "word": "印度男子看视频自学割阑尾",
+        "onboard_time": 1742646082,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37424,
+        "num": 37424,
+        "word": "古埃及房子着火要先救猫",
+        "onboard_time": 1742655382,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34328,
+        "num": 34328,
+        "word": "早睡两个月后肉眼可见的变化",
+        "onboard_time": 1742651423,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30725,
+        "num": 30725,
+        "word": "白客 人夫感",
+        "onboard_time": 1742657723,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29328,
+        "num": 29328,
+        "word": "李荣浩来看杨丞琳演唱会了",
+        "onboard_time": 1742654724,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27513,
+        "num": 27513,
+        "word": "你以为没事实际巨伤眼的行为",
+        "onboard_time": 1742681115,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26966,
+        "num": 26966,
+        "word": "尼日尔发生恐怖袭击至少44人死亡",
+        "onboard_time": 1742650822,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26961,
+        "num": 26961,
+        "word": "TVB前港姐乳腺癌复发病情告急",
+        "onboard_time": 1742642002,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25731,
+        "num": 25731,
+        "word": "丁禹兮王星越敖瑞鹏生图",
+        "onboard_time": 1742654844,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25292,
+        "num": 25292,
+        "word": "胃病是种特殊的精神病",
+        "onboard_time": 1742649622,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23294,
+        "num": 23294,
+        "word": "雁回时",
+        "onboard_time": 1742636722,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22667,
+        "num": 22667,
+        "word": "热热热你冷冷冷",
+        "onboard_time": 1742637081,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22020,
+        "num": 22020,
+        "word": "著名演员高英逝世",
+        "onboard_time": 1742633661,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20939,
+        "num": 20939,
+        "word": "袁一琦25岁最幸福的事",
+        "onboard_time": 1742662639,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19941,
+        "num": 19941,
+        "word": "四川一逃犯驾车冲撞警方后逃窜",
+        "onboard_time": 1742656523,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19104,
+        "num": 19104,
+        "word": "我国首次举办世界室内田径锦标赛",
+        "onboard_time": 1742665936,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18591,
+        "num": 19102,
+        "word": "虞书欣95花第一部全集有广现偶",
+        "onboard_time": 1742638460,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17873,
+        "num": 19101,
+        "word": "傅菁苏州演唱会",
+        "onboard_time": 1742660301,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17839,
+        "num": 19101,
+        "word": "4000多年前中国人设计的天文设施",
+        "onboard_time": 1742676735,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17632,
+        "num": 19098,
+        "word": "被黄霄雲演唱会芭比造型硬控了",
+        "onboard_time": 1742659221,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16308,
+        "num": 19097,
+        "word": "洛洛历险记",
+        "onboard_time": 1742658022,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18025,
+        "num": 19095,
+        "word": "虞书欣黑天鹅高定",
+        "onboard_time": 1742643923,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 15919,
+        "num": 19093,
+        "word": "汪苏泷 我们",
+        "onboard_time": 1742654783,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15858,
+        "num": 19093,
+        "word": "丁程鑫开场舞杀疯了",
+        "onboard_time": 1742654963,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15543,
+        "num": 19091,
+        "word": "一些金包银首饰效果只有几个月",
+        "onboard_time": 1742673915,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14141,
+        "num": 19089,
+        "word": "黄子弘凡除了快乐禁止入内",
+        "onboard_time": 1742669535,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13827,
+        "num": 19088,
+        "word": "下周可能更热",
+        "onboard_time": 1742633602,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13495,
+        "num": 19086,
+        "word": "古埃及人都有吸猫DNA吧",
+        "onboard_time": 1742654724,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样战略谋划云南发展新局面#"
+    }
+  }
+}

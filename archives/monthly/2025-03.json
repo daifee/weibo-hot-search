@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742682073862,
+  "endTime": 1742683149087,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -46923,6 +46923,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 126785,
+      "num": 453688,
+      "word": "上百万买的藏品只有一件是真品",
+      "onboard_time": 1742669055,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126742,
       "num": 242809,
       "word": "中方对美提以其人之道还治其人之身",
@@ -54779,6 +54787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98577,
+      "num": 98577,
+      "word": "金正恩强调继续对俄支持",
+      "onboard_time": 1742677635,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 98575,
       "num": 191347,
       "word": "广东男团2比1辽宁男团",
@@ -56609,14 +56625,6 @@
       "onboard_time": 1741683142,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90281,
-      "num": 354722,
-      "word": "上百万买的藏品只有一件是真品",
-      "onboard_time": 1742669055,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90271,
@@ -61609,14 +61617,6 @@
       "onboard_time": 1742497574,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58931,
-      "num": 58931,
-      "word": "金正恩强调继续对俄支持",
-      "onboard_time": 1742677635,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 58930,
@@ -67915,6 +67915,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 28674,
+      "num": 97486,
+      "word": "开往春天的列车出发了",
+      "onboard_time": 1742651243,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28648,
       "num": 239972,
       "word": "张元英平井桃金米妮Ella时装周生图",
@@ -68161,6 +68169,14 @@
       "onboard_time": 1741960884,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27513,
+      "num": 27513,
+      "word": "你以为没事实际巨伤眼的行为",
+      "onboard_time": 1742681115,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27472,
@@ -68913,14 +68929,6 @@
       "onboard_time": 1741629255,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 24681,
-      "num": 97486,
-      "word": "开往春天的列车出发了",
-      "onboard_time": 1742651243,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24674,
@@ -70595,6 +70603,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 17839,
+      "num": 19101,
+      "word": "4000多年前中国人设计的天文设施",
+      "onboard_time": 1742676735,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17838,
       "num": 26709,
       "word": "凡是数典忘祖的人从来没有好下场",
@@ -70609,6 +70625,14 @@
       "onboard_time": 1741151000,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17769,
+      "num": 50538,
+      "word": "有加沙人已流离失所8次",
+      "onboard_time": 1742678473,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 17758,
@@ -70761,14 +70785,6 @@
       "onboard_time": 1741778846,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 16893,
-      "num": 18077,
-      "word": "你以为没事实际巨伤眼的行为",
-      "onboard_time": 1742681115,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 16886,
@@ -71051,14 +71067,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15671,
-      "num": 18076,
-      "word": "4000多年前中国人设计的天文设施",
-      "onboard_time": 1742676735,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15655,
       "num": 83953,
       "word": "酸辣脆爽腌白萝卜",
@@ -71081,6 +71089,14 @@
       "onboard_time": 1740793218,
       "rank": 29,
       "category": "健康医疗,互联网"
+    },
+    {
+      "raw_hot": 15543,
+      "num": 27854,
+      "word": "一些金包银首饰效果只有几个月",
+      "onboard_time": 1742673915,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15501,
@@ -71288,14 +71304,6 @@
       "word": "世界野生动植物日",
       "onboard_time": 1741039752,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14597,
-      "num": 27854,
-      "word": "一些金包银首饰效果只有几个月",
-      "onboard_time": 1742673915,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -71953,14 +71961,6 @@
       "onboard_time": 1742237416,
       "rank": 49,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 11632,
-      "num": 18073,
-      "word": "有加沙人已流离失所8次",
-      "onboard_time": 1742678473,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 11607,
