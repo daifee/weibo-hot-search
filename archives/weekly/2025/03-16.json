@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742609328775,
+  "endTime": 1742612381681,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -587,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1671944,
+      "num": 1671944,
+      "word": "德克士道歉",
+      "onboard_time": 1742598558,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1665990,
       "num": 1665990,
       "word": "韵达",
@@ -929,14 +937,6 @@
       "onboard_time": 1742304744,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1320796,
-      "num": 1320796,
-      "word": "德克士道歉",
-      "onboard_time": 1742598558,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 1309675,
@@ -2499,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 729058,
+      "num": 362946,
+      "word": "柯淳想结婚了",
+      "onboard_time": 1742609540,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 728351,
       "num": 728351,
       "word": "郑州东站",
@@ -2641,6 +2649,14 @@
       "onboard_time": 1742127263,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 701214,
+      "num": 701214,
+      "word": "印度制造取代中国制造计划被爆失败",
+      "onboard_time": 1742609900,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 696677,
@@ -3145,6 +3161,14 @@
       "onboard_time": 1742101104,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 593991,
+      "num": 360565,
+      "word": "张睿李晟古早cp复活了",
+      "onboard_time": 1742608161,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 593084,
@@ -4076,7 +4100,7 @@
     },
     {
       "raw_hot": 465850,
-      "num": 297236,
+      "num": 307727,
       "word": "金赛纶母亲曝女儿葬礼被偷拍",
       "onboard_time": 1742607141,
       "rank": 16,
@@ -4979,20 +5003,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370307,
+      "num": 370307,
+      "word": "妈妈给女儿戴接孩子神器太醒目了",
+      "onboard_time": 1742601140,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 368182,
       "num": 392991,
       "word": "嘘国王在冬眠雪崩",
       "onboard_time": 1742104222,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 367904,
-      "num": 367904,
-      "word": "妈妈给女儿戴接孩子神器太醒目了",
-      "onboard_time": 1742601140,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 366970,
@@ -5393,14 +5417,6 @@
       "onboard_time": 1742353582,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 330725,
-      "num": 284619,
-      "word": "张睿李晟古早cp复活了",
-      "onboard_time": 1742608161,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 329797,
@@ -6601,6 +6617,14 @@
       "onboard_time": 1742113582,
       "rank": 48,
       "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 255254,
+      "num": 205052,
+      "word": "吴宣仪说孟美岐有事来不了",
+      "onboard_time": 1742610621,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 254649,
@@ -8027,6 +8051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214678,
+      "num": 214678,
+      "word": "李秉宪力挺刘亚仁复出",
+      "onboard_time": 1742607500,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214275,
       "num": 214275,
       "word": "林俊杰香港演唱会抢票",
@@ -9081,6 +9113,14 @@
       "onboard_time": 1742528781,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197174,
+      "num": 197174,
+      "word": "让每一滴水绽放光彩",
+      "onboard_time": 1742611942,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197088,
@@ -11107,6 +11147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165858,
+      "num": 202792,
+      "word": "姚明范志毅F1围场同框",
+      "onboard_time": 1742612301,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165651,
       "num": 381222,
       "word": "米菲声明",
@@ -12523,14 +12571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147353,
-      "num": 206651,
-      "word": "李秉宪力挺刘亚仁复出",
-      "onboard_time": 1742607500,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147235,
       "num": 472944,
       "word": "郭新娃陈芳卉首夺全英冠军",
@@ -13115,6 +13155,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 142157,
+      "num": 165205,
+      "word": "蒋欣在我家楼下拍戏",
+      "onboard_time": 1742607680,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142036,
       "num": 142036,
       "word": "KSG对战eStar",
@@ -13137,14 +13185,6 @@
       "onboard_time": 1742468782,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141784,
-      "num": 165205,
-      "word": "蒋欣在我家楼下拍戏",
-      "onboard_time": 1742607680,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 141633,
@@ -13481,6 +13521,14 @@
       "onboard_time": 1742603781,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137201,
+      "num": 137201,
+      "word": "平台回应23岁女生打赏近200万想退款",
+      "onboard_time": 1742611942,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137125,
@@ -14312,6 +14360,14 @@
       "word": "与辉同行涉事冷冻虾仁退一赔三",
       "onboard_time": 1742111183,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127733,
+      "num": 127733,
+      "word": "狗狗遛弯回家发现爪子里有颗金豆",
+      "onboard_time": 1742611942,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -15515,6 +15571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111400,
+      "num": 111400,
+      "word": "成毅F1外媒生图",
+      "onboard_time": 1742612002,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111335,
       "num": 111335,
       "word": "虞书欣林一这条共创好抽象",
@@ -16187,6 +16251,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 101063,
+      "num": 101063,
+      "word": "前爱豆曝爱豆暂停活动的原因会撒谎",
+      "onboard_time": 1742612002,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100838,
       "num": 100838,
       "word": "四六级报名好卡",
@@ -16393,6 +16465,14 @@
       "onboard_time": 1742187442,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97180,
+      "num": 97180,
+      "word": "顾客把狗放超市手推车里吃东西",
+      "onboard_time": 1742609900,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97150,
@@ -16857,6 +16937,14 @@
       "onboard_time": 1742497574,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89462,
+      "num": 89462,
+      "word": "日本间苯二酚对中国倾销可能再发生",
+      "onboard_time": 1742609900,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89219,
@@ -17945,6 +18033,14 @@
       "onboard_time": 1742386404,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 62292,
+      "num": 258166,
+      "word": "对原产日本的进口间苯二酚继续征反倾销税",
+      "onboard_time": 1742611942,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62226,
@@ -19211,6 +19307,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 42080,
+      "num": 258303,
+      "word": "陈丽君在舞台上演绎越剧新生命力",
+      "onboard_time": 1742612002,
+      "rank": 13,
+      "category": "网红,演出"
+    },
+    {
       "raw_hot": 41905,
       "num": 41905,
       "word": "乘风破浪的姐姐",
@@ -19873,6 +19977,14 @@
       "onboard_time": 1742167459,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30641,
+      "num": 145855,
+      "word": "睡不好可以按这五个穴位",
+      "onboard_time": 1742611881,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 30592,
@@ -20697,6 +20809,14 @@
       "onboard_time": 1742378544,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19785,
+      "num": 213451,
+      "word": "美滞留宇航员被爆还没拿到加班费",
+      "onboard_time": 1742611881,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19726,

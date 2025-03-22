@@ -1,0 +1,410 @@
+{
+  "runTime": 1742612381681,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1671944,
+        "num": 1671944,
+        "word": "德克士道歉",
+        "onboard_time": 1742598558,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1265329,
+        "num": 1265329,
+        "word": "赵丽颖得知对手是假鼻子选择打下巴",
+        "onboard_time": 1742605161,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22667,
+        "num": 729841,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1742551221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729502,
+        "num": 729502,
+        "word": "演员刘念突发低血糖被陌生女孩投喂",
+        "onboard_time": 1742605281,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 701214,
+        "num": 701214,
+        "word": "印度制造取代中国制造计划被爆失败",
+        "onboard_time": 1742609900,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 370307,
+        "num": 370307,
+        "word": "妈妈给女儿戴接孩子神器太醒目了",
+        "onboard_time": 1742601140,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729058,
+        "num": 362946,
+        "word": "柯淳想结婚了",
+        "onboard_time": 1742609540,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593991,
+        "num": 360565,
+        "word": "张睿李晟古早cp复活了",
+        "onboard_time": 1742608161,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331690,
+        "num": 331690,
+        "word": "考研名师田静主页已撤销毕业院校",
+        "onboard_time": 1742601380,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 331197,
+        "num": 331197,
+        "word": "张雅琪官宣入职湖南卫视",
+        "onboard_time": 1742602520,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 963828,
+        "num": 320441,
+        "word": "鹿晗 披哥5",
+        "onboard_time": 1742604921,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307727,
+        "num": 307727,
+        "word": "金赛纶母亲曝女儿葬礼被偷拍",
+        "onboard_time": 1742607141,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267054,
+        "num": 267054,
+        "word": "美国47任总统特朗普命名新战机F47",
+        "onboard_time": 1742600540,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 42080,
+        "num": 258303,
+        "word": "陈丽君在舞台上演绎越剧新生命力",
+        "onboard_time": 1742612002,
+        "rank": 13,
+        "category": "网红,演出"
+      },
+      {
+        "raw_hot": 62292,
+        "num": 258166,
+        "word": "对原产日本的进口间苯二酚继续征反倾销税",
+        "onboard_time": 1742611942,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296323,
+        "num": 258165,
+        "word": "孟晚舟朋友圈转发姚安娜剧照并点赞",
+        "onboard_time": 1742598558,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258153,
+        "num": 258153,
+        "word": "千禾0是商标在侮辱谁",
+        "onboard_time": 1742578816,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239177,
+        "num": 239177,
+        "word": "特朗普用自己纪念数字命名新一代战机",
+        "onboard_time": 1742600240,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 214678,
+        "num": 214678,
+        "word": "李秉宪力挺刘亚仁复出",
+        "onboard_time": 1742607500,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19785,
+        "num": 213451,
+        "word": "美滞留宇航员被爆还没拿到加班费",
+        "onboard_time": 1742611881,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 480849,
+        "num": 207996,
+        "word": "夫妻不相信女儿已死35年后一家团聚",
+        "onboard_time": 1742604981,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255254,
+        "num": 205052,
+        "word": "吴宣仪说孟美岐有事来不了",
+        "onboard_time": 1742610621,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165858,
+        "num": 202792,
+        "word": "姚明范志毅F1围场同框",
+        "onboard_time": 1742612301,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252374,
+        "num": 199149,
+        "word": "医生说要减肥就得顿顿饿天天饿",
+        "onboard_time": 1742597596,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197174,
+        "num": 197174,
+        "word": "让每一滴水绽放光彩",
+        "onboard_time": 1742611942,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188844,
+        "num": 188844,
+        "word": "睡眠超9小时会让身体出现各种问题",
+        "onboard_time": 1742566284,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175518,
+        "num": 175518,
+        "word": "北大毕业生做正骨被踢出班级群",
+        "onboard_time": 1742564064,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166027,
+        "num": 166027,
+        "word": "哪吒2授权费从500万飙升至900万",
+        "onboard_time": 1742600178,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154396,
+        "num": 154396,
+        "word": "吴艳妮新造型酷似阿丽塔战斗天使",
+        "onboard_time": 1742603781,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30641,
+        "num": 145855,
+        "word": "睡不好可以按这五个穴位",
+        "onboard_time": 1742611881,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145563,
+        "num": 145563,
+        "word": "93岁强奸不收押老人已无法自主行走",
+        "onboard_time": 1742547621,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142157,
+        "num": 142157,
+        "word": "蒋欣在我家楼下拍戏",
+        "onboard_time": 1742607680,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137201,
+        "num": 137201,
+        "word": "平台回应23岁女生打赏近200万想退款",
+        "onboard_time": 1742611942,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134663,
+        "num": 134663,
+        "word": "什么是性倒错症",
+        "onboard_time": 1742602700,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130235,
+        "num": 130235,
+        "word": "老鼠在旋转火锅店随桌转动",
+        "onboard_time": 1742605161,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127733,
+        "num": 127733,
+        "word": "狗狗遛弯回家发现爪子里有颗金豆",
+        "onboard_time": 1742611942,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121071,
+        "num": 121071,
+        "word": "金价开跌",
+        "onboard_time": 1742567604,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113477,
+        "num": 113477,
+        "word": "特斯拉门店所有车辆均启动哨兵模式",
+        "onboard_time": 1742598618,
+        "rank": 37,
+        "category": "海外新闻,汽车"
+      },
+      {
+        "raw_hot": 112487,
+        "num": 112487,
+        "word": "金秀贤的上衣竟是金赛纶妈妈的",
+        "onboard_time": 1742602101,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111400,
+        "num": 111400,
+        "word": "成毅F1外媒生图",
+        "onboard_time": 1742612002,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107324,
+        "num": 107324,
+        "word": "俄战略轰炸机基地升起巨大蘑菇云",
+        "onboard_time": 1742601500,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101063,
+        "num": 101063,
+        "word": "前爱豆曝爱豆暂停活动的原因会撒谎",
+        "onboard_time": 1742612002,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97180,
+        "num": 97180,
+        "word": "顾客把狗放超市手推车里吃东西",
+        "onboard_time": 1742609900,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96943,
+        "num": 96943,
+        "word": "DeepSeek乐观预测哪吒2或达160亿",
+        "onboard_time": 1742602580,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96110,
+        "num": 96110,
+        "word": "我在孙颖莎很想你",
+        "onboard_time": 1742603900,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93659,
+        "num": 93659,
+        "word": "南昌300元一个月的出租房",
+        "onboard_time": 1742603781,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89462,
+        "num": 89462,
+        "word": "日本间苯二酚对中国倾销可能再发生",
+        "onboard_time": 1742609900,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87098,
+        "num": 87098,
+        "word": "婚姻登记条例修订草案审议通过",
+        "onboard_time": 1742572463,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86039,
+        "num": 86039,
+        "word": "杨超越银色短发",
+        "onboard_time": 1742567664,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79976,
+        "num": 79976,
+        "word": "美国官员称乌克兰将选举总统",
+        "onboard_time": 1742607320,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记云贵之行#"
+    }
+  }
+}
