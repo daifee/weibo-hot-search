@@ -1,0 +1,410 @@
+{
+  "runTime": 1742625062160,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 946899,
+        "num": 1151503,
+        "word": "德克士道歉",
+        "onboard_time": 1742598558,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 655105,
+        "num": 655105,
+        "word": "多方回应学生坠亡家长怀疑被霸凌",
+        "onboard_time": 1742621961,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26874,
+        "num": 414579,
+        "word": "晨雾中春日梯田恬静感拉满",
+        "onboard_time": 1742617882,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1204057,
+        "num": 412176,
+        "word": "我和吴宣仪复婚了",
+        "onboard_time": 1742620701,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 739367,
+        "num": 400164,
+        "word": "孟美岐内娱首个破千万直拍",
+        "onboard_time": 1742615721,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387935,
+        "num": 387935,
+        "word": "人人人F1人人人",
+        "onboard_time": 1742620882,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511646,
+        "num": 384866,
+        "word": "孟子义浪姐reaction",
+        "onboard_time": 1742621542,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469229,
+        "num": 378798,
+        "word": "刘耀文被deepseek预判了",
+        "onboard_time": 1742621542,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349452,
+        "num": 349452,
+        "word": "特朗普称不想跟中国发生任何战争",
+        "onboard_time": 1742620341,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96510,
+        "num": 347873,
+        "word": "失眠两周相当于长了1斤脂肪",
+        "onboard_time": 1742623401,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 707708,
+        "num": 345099,
+        "word": "男子携代孕遗腹子争妻子千万遗产",
+        "onboard_time": 1742614521,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454366,
+        "num": 343922,
+        "word": "赵丽颖得知对手是假鼻子选择打下巴",
+        "onboard_time": 1742605161,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 453672,
+        "num": 340985,
+        "word": "雪莉哥哥发ins",
+        "onboard_time": 1742613981,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339589,
+        "num": 339589,
+        "word": "3名00后非法套现近10万",
+        "onboard_time": 1742620642,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51834,
+        "num": 330117,
+        "word": "美国经济学家也用DeepSeek查资料",
+        "onboard_time": 1742623641,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 357127,
+        "num": 329325,
+        "word": "鹿晗 披哥5",
+        "onboard_time": 1742604921,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327891,
+        "num": 327891,
+        "word": "newjeans私联",
+        "onboard_time": 1742613020,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315792,
+        "num": 315792,
+        "word": "黄子韬说做卫生巾不是蹭315热度",
+        "onboard_time": 1742615363,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270644,
+        "num": 270644,
+        "word": "杨幂蕾丝露腰装",
+        "onboard_time": 1742618963,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219591,
+        "num": 262137,
+        "word": "消化科挤满了焦虑和抑郁症患者",
+        "onboard_time": 1742619622,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259278,
+        "num": 259278,
+        "word": "夫妻不相信女儿已死35年后一家团聚",
+        "onboard_time": 1742604981,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258162,
+        "num": 258162,
+        "word": "女子买到假迪奥小样牵出330万大案",
+        "onboard_time": 1742622741,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255336,
+        "num": 255336,
+        "word": "山东事业编",
+        "onboard_time": 1742617882,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 222630,
+        "num": 222630,
+        "word": "奶皮子酸奶",
+        "onboard_time": 1742623701,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 208273,
+        "num": 208273,
+        "word": "管乐拒绝了张小婉",
+        "onboard_time": 1742623042,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186480,
+        "num": 186480,
+        "word": "宋妍霏发了初舞台训练室版",
+        "onboard_time": 1742624001,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175251,
+        "num": 175251,
+        "word": "月经量少到什么程度是异常",
+        "onboard_time": 1742615363,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174101,
+        "num": 174101,
+        "word": "何泓姗浪姐误选",
+        "onboard_time": 1742617522,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21031,
+        "num": 167389,
+        "word": "雁回时给宅斗爽剧重新定调",
+        "onboard_time": 1742623641,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165000,
+        "num": 165000,
+        "word": "共同守护生命之源",
+        "onboard_time": 1742624661,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158110,
+        "num": 158110,
+        "word": "杜海涛沈梦辰两口子传授谭薇经验",
+        "onboard_time": 1742624480,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127407,
+        "num": 149060,
+        "word": "王勉请求吴宣仪回关",
+        "onboard_time": 1742622981,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144123,
+        "num": 144123,
+        "word": "JackeyLove守护深蓝",
+        "onboard_time": 1742623820,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141912,
+        "num": 141912,
+        "word": "蒋梦婕拒绝祝绪丹邀请",
+        "onboard_time": 1742621301,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127594,
+        "num": 127594,
+        "word": "找一份双休的工作我花了十年",
+        "onboard_time": 1742623820,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123539,
+        "num": 123539,
+        "word": "欧阳娜娜陈妍希去看了汪苏泷演唱会",
+        "onboard_time": 1742623341,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123217,
+        "num": 123217,
+        "word": "粉丝在韩国为金秀贤投放应援大屏",
+        "onboard_time": 1742619022,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120568,
+        "num": 120568,
+        "word": "谁把柴靖打成无量仙翁了",
+        "onboard_time": 1742618300,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123043,
+        "num": 120500,
+        "word": "祝绪丹寄明月 好懂事的风",
+        "onboard_time": 1742622620,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119907,
+        "num": 119907,
+        "word": "清融KPL登场五周年",
+        "onboard_time": 1742624480,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117551,
+        "num": 117551,
+        "word": "花非花是琼瑶为了弥补张睿李晟才拍的",
+        "onboard_time": 1742613140,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117215,
+        "num": 117215,
+        "word": "TXT爆改R1SE",
+        "onboard_time": 1742615602,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115388,
+        "num": 115388,
+        "word": "田柾国股票被非法盗用",
+        "onboard_time": 1742622620,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113104,
+        "num": 113104,
+        "word": "美国F47测试机已秘密试飞近5年",
+        "onboard_time": 1742612780,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110820,
+        "num": 110820,
+        "word": "有年轻人把打火机燃料当毒品吸",
+        "onboard_time": 1742621721,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107709,
+        "num": 107709,
+        "word": "丁程鑫cha了李羲承进行曲",
+        "onboard_time": 1742623281,
+        "rank": 45,
+        "category": "综艺,演出"
+      },
+      {
+        "raw_hot": 104273,
+        "num": 104273,
+        "word": "床垫骗局",
+        "onboard_time": 1742618542,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101415,
+        "num": 101415,
+        "word": "平台回应23岁女生打赏近200万想退款",
+        "onboard_time": 1742611942,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93266,
+        "num": 93266,
+        "word": "林俊杰美式后刺",
+        "onboard_time": 1742614882,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92717,
+        "num": 92717,
+        "word": "演员刘念突发低血糖被陌生女孩投喂",
+        "onboard_time": 1742605281,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平点赞的这座古城为何长盛#"
+    }
+  }
+}
