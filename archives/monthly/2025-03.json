@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742614701076,
+  "endTime": 1742615349660,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 4374487,
+      "num": 4374487,
+      "word": "黄子韬宣布将做卫生巾",
+      "onboard_time": 1742612841,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4356564,
       "num": 449643,
       "word": "金秀贤发万字长文",
@@ -209,14 +217,6 @@
       "onboard_time": 1742048012,
       "rank": 20,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 3988908,
-      "num": 3988908,
-      "word": "黄子韬宣布将做卫生巾",
-      "onboard_time": 1742612841,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 3850210,
@@ -3187,6 +3187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1217577,
+      "num": 273498,
+      "word": "男子携代孕遗腹子争妻子千万遗产",
+      "onboard_time": 1742614521,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1216793,
       "num": 1216793,
       "word": "央视起底黑公关",
@@ -4843,6 +4851,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 962288,
+      "num": 270651,
+      "word": "雪莉哥哥发ins",
+      "onboard_time": 1742613981,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 961084,
       "num": 305588,
       "word": "赵丽颖监狱服造型",
@@ -6345,14 +6361,6 @@
       "onboard_time": 1741477637,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 808945,
-      "num": 273498,
-      "word": "男子携代孕遗腹子争妻子千万遗产",
-      "onboard_time": 1742614521,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 808329,
@@ -9481,14 +9489,6 @@
       "onboard_time": 1741923746,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 594543,
-      "num": 270651,
-      "word": "雪莉哥哥发ins",
-      "onboard_time": 1742613981,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 594252,
@@ -15627,6 +15627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 362210,
+      "num": 362210,
+      "word": "平台回应23岁女生打赏近200万想退款",
+      "onboard_time": 1742611942,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362175,
       "num": 349659,
       "word": "林一感谢哥哥为我发声",
@@ -16849,14 +16857,6 @@
       "onboard_time": 1740917780,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 336362,
-      "num": 336362,
-      "word": "平台回应23岁女生打赏近200万想退款",
-      "onboard_time": 1742611942,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 336349,
@@ -22155,6 +22155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246546,
+      "num": 246546,
+      "word": "北京将重点查处幽灵外卖",
+      "onboard_time": 1742613860,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246477,
       "num": 246477,
       "word": "原来年假是休假一整年的意思",
@@ -26427,6 +26435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207590,
+      "num": 214255,
+      "word": "SM新男团预计11月份出道",
+      "onboard_time": 1742614340,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207544,
       "num": 207544,
       "word": "周深回归跑男肉眼可见的开心",
@@ -27385,6 +27401,14 @@
       "onboard_time": 1742376744,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202698,
+      "num": 202698,
+      "word": "淡人穿搭太适合早春打工人了",
+      "onboard_time": 1742614162,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 202696,
@@ -28937,14 +28961,6 @@
       "onboard_time": 1742023343,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195392,
-      "num": 195392,
-      "word": "淡人穿搭太适合早春打工人了",
-      "onboard_time": 1742614162,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 195388,
@@ -30521,6 +30537,14 @@
       "onboard_time": 1741711998,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 188017,
+      "num": 188017,
+      "word": "祝绪丹很高兴并锤了卡琳娜几拳",
+      "onboard_time": 1742614581,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 187981,
@@ -32403,6 +32427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178539,
+      "num": 178539,
+      "word": "林俊杰美式后刺",
+      "onboard_time": 1742614882,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178513,
       "num": 166295,
       "word": "老鼠在旋转火锅店随桌转动",
@@ -32593,14 +32625,6 @@
       "onboard_time": 1741946422,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 177362,
-      "num": 214255,
-      "word": "SM新男团预计11月份出道",
-      "onboard_time": 1742614340,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 177340,
@@ -37043,6 +37067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157495,
+      "num": 157495,
+      "word": "成毅的外媒镜头",
+      "onboard_time": 1742614820,
+      "rank": 33,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 157466,
       "num": 157466,
       "word": "饲养员缝缝补补坏蛋逆天改命",
@@ -38489,6 +38521,14 @@
       "onboard_time": 1741753644,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 151880,
+      "num": 151880,
+      "word": "汤家凤宣布英语一事件告一段落",
+      "onboard_time": 1742614820,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 151876,
@@ -40129,6 +40169,14 @@
       "onboard_time": 1741406541,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 145684,
+      "num": 145684,
+      "word": "newjeans",
+      "onboard_time": 1742614041,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 145673,
@@ -43305,14 +43353,6 @@
       "onboard_time": 1742397265,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133897,
-      "num": 133897,
-      "word": "newjeans",
-      "onboard_time": 1742614041,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 133859,
@@ -48659,6 +48699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114002,
+      "num": 114002,
+      "word": "深圳自来水拟涨13%",
+      "onboard_time": 1742614762,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113965,
       "num": 113965,
       "word": "汪苏泷巅峰最佳歌手",
@@ -50115,14 +50163,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108583,
-      "num": 108583,
-      "word": "祝绪丹很高兴并锤了卡琳娜几拳",
-      "onboard_time": 1742614581,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108531,
       "num": 108531,
       "word": "苏醒真说了你又不高兴",
@@ -51049,6 +51089,14 @@
       "onboard_time": 1741227736,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 105177,
+      "num": 276910,
+      "word": "NASA回应滞留太空宇航员获多少报酬",
+      "onboard_time": 1742614162,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105172,
@@ -52795,14 +52843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97896,
-      "num": 224742,
-      "word": "北京将重点查处幽灵外卖",
-      "onboard_time": 1742613860,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97819,
       "num": 234583,
       "word": "徐若晗新剧爽文人生",
@@ -53665,6 +53705,14 @@
       "onboard_time": 1741742900,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93995,
+      "num": 93995,
+      "word": "黄晓婉董佑霖车内吻戏",
+      "onboard_time": 1742615299,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 93952,
@@ -58857,14 +58905,6 @@
       "onboard_time": 1740870733,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62086,
-      "num": 276910,
-      "word": "NASA回应滞留太空宇航员获多少报酬",
-      "onboard_time": 1742614162,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 62084,
@@ -67075,6 +67115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21628,
+      "num": 139819,
+      "word": "F1为何是世界三大体育盛事",
+      "onboard_time": 1742614101,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21545,
       "num": 305039,
       "word": "如何预防惩治性侵未成年人犯罪",
@@ -67881,14 +67929,6 @@
       "onboard_time": 1741210510,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18068,
-      "num": 124313,
-      "word": "F1为何是世界三大体育盛事",
-      "onboard_time": 1742614101,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 18017,

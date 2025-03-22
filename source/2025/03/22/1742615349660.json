@@ -1,0 +1,410 @@
+{
+  "runTime": 1742615349660,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4374487,
+        "num": 4374487,
+        "word": "黄子韬宣布将做卫生巾",
+        "onboard_time": 1742612841,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1238409,
+        "num": 1238409,
+        "word": "德克士道歉",
+        "onboard_time": 1742598558,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15810,
+        "num": 995441,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1742551221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 925161,
+        "num": 925161,
+        "word": "赵丽颖得知对手是假鼻子选择打下巴",
+        "onboard_time": 1742605161,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 462396,
+        "num": 462396,
+        "word": "印度制造取代中国制造计划被爆失败",
+        "onboard_time": 1742609900,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 362210,
+        "num": 362210,
+        "word": "平台回应23岁女生打赏近200万想退款",
+        "onboard_time": 1742611942,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479866,
+        "num": 354890,
+        "word": "演员刘念突发低血糖被陌生女孩投喂",
+        "onboard_time": 1742605281,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438400,
+        "num": 345328,
+        "word": "柯淳想结婚了",
+        "onboard_time": 1742609540,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266868,
+        "num": 266868,
+        "word": "妈妈给女儿戴接孩子神器太醒目了",
+        "onboard_time": 1742601140,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105177,
+        "num": 265553,
+        "word": "NASA回应滞留太空宇航员获多少报酬",
+        "onboard_time": 1742614162,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1217577,
+        "num": 262723,
+        "word": "男子携代孕遗腹子争妻子千万遗产",
+        "onboard_time": 1742614521,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 962288,
+        "num": 259007,
+        "word": "雪莉哥哥发ins",
+        "onboard_time": 1742613981,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 863355,
+        "num": 256046,
+        "word": "newjeans私联",
+        "onboard_time": 1742613020,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655484,
+        "num": 253244,
+        "word": "鹿晗 披哥5",
+        "onboard_time": 1742604921,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322649,
+        "num": 251899,
+        "word": "张睿李晟古早cp复活了",
+        "onboard_time": 1742608161,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272243,
+        "num": 248944,
+        "word": "吴宣仪说孟美岐有事来不了",
+        "onboard_time": 1742610621,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247170,
+        "num": 247170,
+        "word": "张雅琪官宣入职湖南卫视",
+        "onboard_time": 1742602520,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 246546,
+        "num": 246546,
+        "word": "北京将重点查处幽灵外卖",
+        "onboard_time": 1742613860,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240615,
+        "num": 240615,
+        "word": "考研名师田静主页已撤销毕业院校",
+        "onboard_time": 1742601380,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207590,
+        "num": 207590,
+        "word": "SM新男团预计11月份出道",
+        "onboard_time": 1742614340,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391645,
+        "num": 207496,
+        "word": "夫妻不相信女儿已死35年后一家团聚",
+        "onboard_time": 1742604981,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292058,
+        "num": 207092,
+        "word": "花非花是琼瑶为了弥补张睿李晟才拍的",
+        "onboard_time": 1742613140,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210310,
+        "num": 205006,
+        "word": "孟晚舟朋友圈转发姚安娜剧照并点赞",
+        "onboard_time": 1742598558,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202698,
+        "num": 202698,
+        "word": "淡人穿搭太适合早春打工人了",
+        "onboard_time": 1742614162,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188017,
+        "num": 188017,
+        "word": "祝绪丹很高兴并锤了卡琳娜几拳",
+        "onboard_time": 1742614581,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183569,
+        "num": 183569,
+        "word": "医生说要减肥就得顿顿饿天天饿",
+        "onboard_time": 1742597596,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182114,
+        "num": 182114,
+        "word": "成毅F1外媒生图",
+        "onboard_time": 1742612002,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179464,
+        "num": 179464,
+        "word": "千禾0是商标在侮辱谁",
+        "onboard_time": 1742578816,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178539,
+        "num": 178539,
+        "word": "林俊杰美式后刺",
+        "onboard_time": 1742614882,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171535,
+        "num": 171535,
+        "word": "美国47任总统特朗普命名新战机F47",
+        "onboard_time": 1742600540,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 161596,
+        "num": 161596,
+        "word": "邪恶老太居然是刘敏涛演的",
+        "onboard_time": 1742613381,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161577,
+        "num": 161577,
+        "word": "特朗普用自己纪念数字命名新一代战机",
+        "onboard_time": 1742600240,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 160576,
+        "num": 160576,
+        "word": "美国F47测试机已秘密试飞近5年",
+        "onboard_time": 1742612780,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157495,
+        "num": 157495,
+        "word": "成毅的外媒镜头",
+        "onboard_time": 1742614820,
+        "rank": 33,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 151880,
+        "num": 151880,
+        "word": "汤家凤宣布英语一事件告一段落",
+        "onboard_time": 1742614820,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145684,
+        "num": 145684,
+        "word": "newjeans",
+        "onboard_time": 1742614041,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21628,
+        "num": 139819,
+        "word": "F1为何是世界三大体育盛事",
+        "onboard_time": 1742614101,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138006,
+        "num": 138006,
+        "word": "美滞留宇航员被爆还没拿到加班费",
+        "onboard_time": 1742611881,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132999,
+        "num": 132999,
+        "word": "你好星期六全员斗舞",
+        "onboard_time": 1742613801,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130647,
+        "num": 130647,
+        "word": "金赛纶母亲曝女儿葬礼被偷拍",
+        "onboard_time": 1742607141,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121678,
+        "num": 121678,
+        "word": "狗狗遛弯回家发现爪子里有颗金豆",
+        "onboard_time": 1742611942,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119291,
+        "num": 119291,
+        "word": "睡眠超9小时会让身体出现各种问题",
+        "onboard_time": 1742566284,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114002,
+        "num": 114002,
+        "word": "深圳自来水拟涨13%",
+        "onboard_time": 1742614762,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100971,
+        "num": 100971,
+        "word": "93岁强奸不收押老人已无法自主行走",
+        "onboard_time": 1742547621,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100361,
+        "num": 100361,
+        "word": "哪吒2授权费从500万飙升至900万",
+        "onboard_time": 1742600178,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97449,
+        "num": 97449,
+        "word": "李秉宪力挺刘亚仁复出",
+        "onboard_time": 1742607500,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97065,
+        "num": 97065,
+        "word": "前爱豆曝爱豆暂停活动的原因会撒谎",
+        "onboard_time": 1742612002,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96655,
+        "num": 96655,
+        "word": "金价开跌",
+        "onboard_time": 1742567604,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94223,
+        "num": 94223,
+        "word": "金秀贤的上衣竟是金赛纶妈妈的",
+        "onboard_time": 1742602101,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93995,
+        "num": 93995,
+        "word": "黄晓婉董佑霖车内吻戏",
+        "onboard_time": 1742615299,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记云贵之行#"
+    }
+  }
+}
