@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742647282418,
+  "endTime": 1742648195912,
   "band_list": [
     {
       "raw_hot": 4374487,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1152071,
+      "num": 1184331,
+      "word": "王楚钦马龙11比1",
+      "onboard_time": 1742646021,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1117127,
       "num": 383629,
       "word": "鹿晗 披哥5",
@@ -83,7 +91,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1054575,
+      "raw_hot": 1089155,
       "num": 1168732,
       "word": "饿瘦和运动瘦的区别",
       "onboard_time": 1742640562,
@@ -91,8 +99,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 1036880,
-      "num": 296241,
+      "raw_hot": 1078107,
+      "num": 314348,
       "word": "虞书欣黑天鹅高定",
       "onboard_time": 1742643923,
       "rank": 13,
@@ -155,8 +163,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 770400,
-      "num": 770400,
+      "raw_hot": 795089,
+      "num": 795089,
       "word": "三次开颅网红吴忠华耳朵内又长东西",
       "onboard_time": 1742642182,
       "rank": 44,
@@ -267,14 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 628319,
-      "num": 293632,
-      "word": "王楚钦马龙11比1",
-      "onboard_time": 1742646021,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 622081,
       "num": 622081,
       "word": "中日韩三国外长达成共识",
@@ -313,6 +313,14 @@
       "onboard_time": 1742604981,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557446,
+      "num": 302050,
+      "word": "唐九洲 抄袭",
+      "onboard_time": 1742647761,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 555776,
@@ -403,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 466908,
+      "num": 466908,
+      "word": "普京称曾在特朗普遇刺后去教堂祈祷",
+      "onboard_time": 1742644582,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 465850,
       "num": 307727,
       "word": "金赛纶母亲曝女儿葬礼被偷拍",
@@ -465,14 +481,6 @@
       "onboard_time": 1742633181,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 418632,
-      "num": 418632,
-      "word": "普京称曾在特朗普遇刺后去教堂祈祷",
-      "onboard_time": 1742644582,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 416776,
@@ -587,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364934,
+      "num": 364934,
+      "word": "男子水库边钓鱼被鱼拉下水溺亡",
+      "onboard_time": 1742646922,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362210,
       "num": 362210,
       "word": "平台回应23岁女生打赏近200万想退款",
@@ -636,11 +652,19 @@
     },
     {
       "raw_hot": 333811,
-      "num": 320624,
+      "num": 323754,
       "word": "TVB前港姐乳腺癌复发病情告急",
       "onboard_time": 1742642002,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318768,
+      "num": 318768,
+      "word": "王源去了汪苏泷演唱会",
+      "onboard_time": 1742643322,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 315815,
@@ -699,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307128,
-      "num": 307128,
-      "word": "王源去了汪苏泷演唱会",
-      "onboard_time": 1742643322,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 304278,
       "num": 64410,
       "word": "陈都灵傅菁有吻戏吗",
@@ -763,6 +779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 262872,
+      "num": 262872,
+      "word": "小说坠落",
+      "onboard_time": 1742642300,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 256984,
       "num": 322778,
       "word": "男子砸碎周大福柜台抢走珠宝被刑拘",
@@ -777,6 +801,14 @@
       "onboard_time": 1742572222,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256020,
+      "num": 181199,
+      "word": "日本7岁女童被水泥封尸母亲失踪",
+      "onboard_time": 1742647401,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 254537,
@@ -849,14 +881,6 @@
       "onboard_time": 1742617282,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 238894,
-      "num": 238894,
-      "word": "小说坠落",
-      "onboard_time": 1742642300,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 235445,
@@ -979,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215388,
+      "num": 260240,
+      "word": "哪吒",
+      "onboard_time": 1742643082,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 215240,
       "num": 215240,
       "word": "管乐拒绝了张小婉",
@@ -1059,6 +1091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208113,
+      "num": 208113,
+      "word": "狼队对战AG",
+      "onboard_time": 1742647461,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207590,
       "num": 214255,
       "word": "SM新男团预计11月份出道",
@@ -1113,6 +1153,14 @@
       "onboard_time": 1742628262,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203388,
+      "num": 257963,
+      "word": "周深直播",
+      "onboard_time": 1742646983,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 202698,
@@ -1195,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196336,
+      "num": 196336,
+      "word": "印度男子看视频自学割阑尾",
+      "onboard_time": 1742646082,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 194545,
       "num": 194545,
       "word": "嘘国王在冬眠大结局收官礼",
@@ -1243,22 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192315,
-      "num": 192315,
-      "word": "哪吒",
-      "onboard_time": 1742643082,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 191564,
-      "num": 191564,
-      "word": "印度男子看视频自学割阑尾",
-      "onboard_time": 1742646082,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 191270,
       "num": 191270,
       "word": "成毅F1外媒生图",
@@ -1283,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189068,
+      "num": 189068,
+      "word": "土耳其将向美国出口4.2亿枚鸡蛋",
+      "onboard_time": 1742645602,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 188196,
       "num": 188196,
       "word": "孙颖莎向球迷挥拍致意",
@@ -1297,14 +1345,6 @@
       "onboard_time": 1742618181,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187033,
-      "num": 187033,
-      "word": "土耳其将向美国出口4.2亿枚鸡蛋",
-      "onboard_time": 1742645602,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 186480,
@@ -1385,6 +1425,14 @@
       "onboard_time": 1742613801,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181567,
+      "num": 181567,
+      "word": "王楚钦vs袁励岑",
+      "onboard_time": 1742647401,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 179554,
@@ -1515,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165999,
+      "num": 165999,
+      "word": "自己在家晒的橘子皮算陈皮吗",
+      "onboard_time": 1742647881,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 165858,
       "num": 274512,
       "word": "姚明范志毅F1围场同框",
@@ -1627,14 +1683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154842,
-      "num": 194702,
-      "word": "男子水库边钓鱼被鱼拉下水溺亡",
-      "onboard_time": 1742646922,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154083,
       "num": 154083,
       "word": "林孝埈周冠宇围场互动",
@@ -1723,14 +1771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146931,
-      "num": 146931,
-      "word": "周深直播",
-      "onboard_time": 1742646983,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 146322,
       "num": 188875,
       "word": "约8%的人经历过鬼压床",
@@ -1745,6 +1785,14 @@
       "onboard_time": 1742645542,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145939,
+      "num": 145939,
+      "word": "华晨宇金发背头",
+      "onboard_time": 1742643440,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 145684,
@@ -1787,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143637,
+      "num": 289918,
+      "word": "日本警方回应男性碎尸闹市被弃",
+      "onboard_time": 1742638641,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 141692,
       "num": 141692,
       "word": "清清顶级马超",
@@ -1819,20 +1875,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 137325,
+      "num": 137325,
+      "word": "王蓉头发是在cos佟湘玉吗",
+      "onboard_time": 1742647881,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137249,
       "num": 137249,
       "word": "南昌300元一个月的出租房",
       "onboard_time": 1742603781,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136696,
-      "num": 289918,
-      "word": "日本警方回应男性碎尸闹市被弃",
-      "onboard_time": 1742638641,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 136671,
@@ -1897,14 +1953,6 @@
       "onboard_time": 1742631563,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133129,
-      "num": 133129,
-      "word": "华晨宇金发背头",
-      "onboard_time": 1742643440,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 131694,
@@ -2161,6 +2209,14 @@
       "onboard_time": 1742622620,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114568,
+      "num": 114568,
+      "word": "库克看刘宪华演出",
+      "onboard_time": 1742647942,
+      "rank": 49,
+      "category": "演出,互联网"
     },
     {
       "raw_hot": 114035,
@@ -2627,6 +2683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69463,
+      "num": 214713,
+      "word": "世界上最舒服的配色",
+      "onboard_time": 1742640982,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 66733,
       "num": 66733,
       "word": "金秀贤山寨人生停播后还能上线吗",
@@ -2665,14 +2729,6 @@
       "onboard_time": 1742611942,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61855,
-      "num": 176946,
-      "word": "世界上最舒服的配色",
-      "onboard_time": 1742640982,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 60518,
@@ -2755,6 +2811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48529,
+      "num": 815177,
+      "word": "在云南万物皆可咖",
+      "onboard_time": 1742631261,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48191,
       "num": 206825,
       "word": "孙颖莎率队3连胜",
@@ -2803,14 +2867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43215,
-      "num": 490700,
-      "word": "在云南万物皆可咖",
-      "onboard_time": 1742631261,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41905,
       "num": 41905,
       "word": "乘风破浪的姐姐",
@@ -2841,6 +2897,14 @@
       "onboard_time": 1742576718,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38921,
+      "num": 146212,
+      "word": "北京海淀高温全国第2",
+      "onboard_time": 1742645181,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38794,
