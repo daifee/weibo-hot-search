@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742679363345,
+  "endTime": 1742682073862,
   "band_list": [
     {
       "raw_hot": 1694206,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90281,
+      "num": 354722,
+      "word": "上百万买的藏品只有一件是真品",
+      "onboard_time": 1742669055,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88390,
       "num": 88390,
       "word": "三次开颅网红吴忠华耳朵内又长东西",
@@ -363,14 +371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 67860,
-      "num": 166192,
-      "word": "上百万买的藏品只有一件是真品",
-      "onboard_time": 1742669055,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67638,
       "num": 67638,
       "word": "丝塔芙红包",
@@ -403,6 +403,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 65101,
+      "num": 65101,
+      "word": "泽连斯基拒绝部署联合国维和部队方案",
+      "onboard_time": 1742653822,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63874,
       "num": 63874,
       "word": "刘诗雯回应与林高远混双目标",
@@ -427,20 +435,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58931,
+      "num": 58931,
+      "word": "金正恩强调继续对俄支持",
+      "onboard_time": 1742677635,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52768,
       "num": 59233,
       "word": "王楚钦马龙11比1杨硕袁励岑",
       "onboard_time": 1742646021,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41174,
-      "num": 41174,
-      "word": "泽连斯基拒绝部署联合国维和部队方案",
-      "onboard_time": 1742653822,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 39716,
@@ -459,6 +467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 37012,
+      "num": 37012,
+      "word": "戚薇李承铉把妻子当换装游戏",
+      "onboard_time": 1742640201,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32848,
       "num": 39302,
       "word": "袁一琦演唱会成都站",
@@ -473,14 +489,6 @@
       "onboard_time": 1742654724,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 29328,
-      "num": 29037,
-      "word": "戚薇李承铉把妻子当换装游戏",
-      "onboard_time": 1742640201,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 24899,
@@ -547,20 +555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16893,
+      "num": 18077,
+      "word": "你以为没事实际巨伤眼的行为",
+      "onboard_time": 1742681115,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15671,
+      "num": 18076,
+      "word": "4000多年前中国人设计的天文设施",
+      "onboard_time": 1742676735,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15537,
       "num": 18362,
       "word": "禹事不慌张",
       "onboard_time": 1742665936,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14876,
-      "num": 14876,
-      "word": "金正恩强调继续对俄支持",
-      "onboard_time": 1742677635,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14597,
@@ -571,20 +587,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14224,
-      "num": 14224,
-      "word": "4000多年前中国人设计的天文设施",
-      "onboard_time": 1742676735,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13284,
       "num": 14309,
       "word": "汪苏泷杨千嬅合唱人情世故",
       "onboard_time": 1742672415,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11632,
+      "num": 18073,
+      "word": "有加沙人已流离失所8次",
+      "onboard_time": 1742678473,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10742,
@@ -601,14 +617,6 @@
       "onboard_time": 1742677814,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10557,
-      "num": 13337,
-      "word": "有加沙人已流离失所8次",
-      "onboard_time": 1742678473,
-      "rank": 48,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
