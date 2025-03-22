@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742625062160,
+  "endTime": 1742625829049,
   "band_list": [
     {
       "raw_hot": 4374487,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1241482,
-      "num": 515028,
+      "num": 696303,
       "word": "孟美岐内娱首个破千万直拍",
       "onboard_time": 1742615721,
       "rank": 3,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1204057,
-      "num": 451537,
+      "num": 707223,
       "word": "我和吴宣仪复婚了",
       "onboard_time": 1742620701,
       "rank": 28,
@@ -115,19 +115,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 727445,
+      "num": 727445,
+      "word": "多方回应学生坠亡家长怀疑被霸凌",
+      "onboard_time": 1742621961,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 663024,
       "num": 663024,
       "word": "婚姻登记条例修订草案审议通过",
       "onboard_time": 1742572463,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 655105,
-      "num": 655105,
-      "word": "多方回应学生坠亡家长怀疑被霸凌",
-      "onboard_time": 1742621961,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 555776,
+      "num": 440607,
+      "word": "刘耀文被deepseek预判了",
+      "onboard_time": 1742621542,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 555468,
       "num": 443846,
       "word": "黄子韬说做卫生巾不是蹭315热度",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 511646,
-      "num": 384866,
+      "num": 429471,
       "word": "孟子义浪姐reaction",
       "onboard_time": 1742621542,
       "rank": 28,
@@ -211,12 +219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 469229,
-      "num": 378798,
-      "word": "刘耀文被deepseek预判了",
-      "onboard_time": 1742621542,
-      "rank": 32,
-      "category": "音乐"
+      "raw_hot": 468364,
+      "num": 468364,
+      "word": "女子买到假迪奥小样牵出330万大案",
+      "onboard_time": 1742622741,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 465850,
@@ -443,14 +451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 258162,
-      "num": 258162,
-      "word": "女子买到假迪奥小样牵出330万大案",
-      "onboard_time": 1742622741,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256598,
       "num": 256598,
       "word": "让李荣浩发飙的NFC到底是啥",
@@ -587,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215240,
+      "num": 215240,
+      "word": "管乐拒绝了张小婉",
+      "onboard_time": 1742623042,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214678,
       "num": 214678,
       "word": "李秉宪力挺刘亚仁复出",
@@ -600,14 +608,6 @@
       "word": "贺峻霖爆料牛在在不爱洗澡",
       "onboard_time": 1742620822,
       "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 208273,
-      "num": 208273,
-      "word": "管乐拒绝了张小婉",
-      "onboard_time": 1742623042,
-      "rank": 24,
       "category": "综艺"
     },
     {
@@ -721,6 +721,14 @@
       "onboard_time": 1742617461,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193217,
+      "num": 193217,
+      "word": "蒋梦婕拒绝祝绪丹邀请",
+      "onboard_time": 1742621301,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 192689,
@@ -851,6 +859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168849,
+      "num": 168849,
+      "word": "王珞丹为了团队放弃平凡之路",
+      "onboard_time": 1742625801,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165858,
       "num": 274512,
       "word": "姚明范志毅F1围场同框",
@@ -860,7 +876,7 @@
     },
     {
       "raw_hot": 165000,
-      "num": 165000,
+      "num": 199765,
       "word": "共同守护生命之源",
       "onboard_time": 1742624661,
       "rank": 29,
@@ -955,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141912,
-      "num": 141912,
-      "word": "蒋梦婕拒绝祝绪丹邀请",
-      "onboard_time": 1742621301,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137249,
       "num": 137249,
       "word": "南昌300元一个月的出租房",
@@ -1027,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128128,
+      "num": 128128,
+      "word": "欧阳娜娜陈妍希去看了汪苏泷演唱会",
+      "onboard_time": 1742623341,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127996,
       "num": 127996,
       "word": "王腾称下个月出大部分人买得起的手机",
@@ -1073,14 +1089,6 @@
       "onboard_time": 1742549781,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123539,
-      "num": 123539,
-      "word": "欧阳娜娜陈妍希去看了汪苏泷演唱会",
-      "onboard_time": 1742623341,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 123043,
@@ -1131,12 +1139,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114035,
+      "num": 114035,
+      "word": "再就业男团活该一出大哭特哭",
+      "onboard_time": 1742625381,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114002,
       "num": 114002,
       "word": "深圳自来水拟涨13%",
       "onboard_time": 1742614762,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113676,
+      "num": 113676,
+      "word": "Meow对战GW",
+      "onboard_time": 1742625261,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 113331,
@@ -1177,6 +1201,14 @@
       "onboard_time": 1742568983,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109085,
+      "num": 347873,
+      "word": "失眠两周相当于长了1斤脂肪",
+      "onboard_time": 1742623401,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 107709,
@@ -1227,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102352,
+      "num": 102352,
+      "word": "吉林通化3.3级地震",
+      "onboard_time": 1742625439,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100353,
       "num": 100353,
       "word": "全班39人都被抢走企业追着老师要人",
@@ -1265,14 +1305,6 @@
       "onboard_time": 1742605462,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96510,
-      "num": 347873,
-      "word": "失眠两周相当于长了1斤脂肪",
-      "onboard_time": 1742623401,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 94630,
@@ -1385,6 +1417,14 @@
       "onboard_time": 1742616561,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77868,
+      "num": 330117,
+      "word": "美国经济学家也用DeepSeek查资料",
+      "onboard_time": 1742623641,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 76711,
@@ -1507,14 +1547,6 @@
       "category": "网红,演出"
     },
     {
-      "raw_hot": 51834,
-      "num": 330117,
-      "word": "美国经济学家也用DeepSeek查资料",
-      "onboard_time": 1742623641,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 50617,
       "num": 64387,
       "word": "名下3公司老人五保户申请受阻",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1742595195,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42210,
+      "num": 122720,
+      "word": "学生坠亡家长怀疑在校被霸凌",
+      "onboard_time": 1742625680,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41905,
@@ -1643,8 +1683,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28576,
-      "num": 519246,
+      "raw_hot": 29548,
+      "num": 711842,
       "word": "晨雾中春日梯田恬静感拉满",
       "onboard_time": 1742617882,
       "rank": 2,
