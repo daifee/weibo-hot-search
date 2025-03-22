@@ -1,0 +1,410 @@
+{
+  "runTime": 1742622003459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1099552,
+        "num": 1175928,
+        "word": "德克士道歉",
+        "onboard_time": 1742598558,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 609403,
+        "num": 609403,
+        "word": "赵丽颖得知对手是假鼻子选择打下巴",
+        "onboard_time": 1742605161,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28576,
+        "num": 519246,
+        "word": "晨雾中春日梯田恬静感拉满",
+        "onboard_time": 1742617882,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1091899,
+        "num": 515028,
+        "word": "孟美岐内娱首个破千万直拍",
+        "onboard_time": 1742615721,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473814,
+        "num": 473814,
+        "word": "山东事业编",
+        "onboard_time": 1742617882,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 451584,
+        "num": 451584,
+        "word": "特朗普称不想跟中国发生任何战争",
+        "onboard_time": 1742620341,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 639416,
+        "num": 451537,
+        "word": "我和吴宣仪复婚了",
+        "onboard_time": 1742620701,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443846,
+        "num": 443846,
+        "word": "黄子韬说做卫生巾不是蹭315热度",
+        "onboard_time": 1742615363,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409892,
+        "num": 441522,
+        "word": "月经量少到什么程度是异常",
+        "onboard_time": 1742615363,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184404,
+        "num": 436643,
+        "word": "人人人F1人人人",
+        "onboard_time": 1742620882,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 841421,
+        "num": 433427,
+        "word": "男子携代孕遗腹子争妻子千万遗产",
+        "onboard_time": 1742614521,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554297,
+        "num": 430338,
+        "word": "雪莉哥哥发ins",
+        "onboard_time": 1742613981,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427471,
+        "num": 427471,
+        "word": "newjeans私联",
+        "onboard_time": 1742613020,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115863,
+        "num": 420587,
+        "word": "敏感需要被温柔呵护",
+        "onboard_time": 1742617522,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 26338,
+        "num": 418894,
+        "word": "湖南一地推购房7天无理由退订",
+        "onboard_time": 1742620462,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2487830,
+        "num": 418863,
+        "word": "黄子韬宣布将做卫生巾",
+        "onboard_time": 1742612841,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418647,
+        "num": 418647,
+        "word": "何泓姗浪姐误选",
+        "onboard_time": 1742617522,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383629,
+        "num": 383629,
+        "word": "鹿晗 披哥5",
+        "onboard_time": 1742604921,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187099,
+        "num": 381113,
+        "word": "3名00后非法套现近10万",
+        "onboard_time": 1742620642,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240869,
+        "num": 380998,
+        "word": "加沙人再一次开始逃亡",
+        "onboard_time": 1742617282,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 380978,
+        "num": 380978,
+        "word": "杨幂蕾丝露腰装",
+        "onboard_time": 1742618963,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297512,
+        "num": 297512,
+        "word": "夫妻不相信女儿已死35年后一家团聚",
+        "onboard_time": 1742604981,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263483,
+        "num": 263483,
+        "word": "演员刘念突发低血糖被陌生女孩投喂",
+        "onboard_time": 1742605281,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91269,
+        "num": 259428,
+        "word": "Newjeans回应法院判决",
+        "onboard_time": 1742621542,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255678,
+        "num": 255678,
+        "word": "汤家凤宣布英语一事件告一段落",
+        "onboard_time": 1742614820,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 255519,
+        "num": 255519,
+        "word": "TXT爆改R1SE",
+        "onboard_time": 1742615602,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227400,
+        "num": 227400,
+        "word": "秦岚新剧非典型恶女",
+        "onboard_time": 1742619803,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47074,
+        "num": 222039,
+        "word": "有年轻人把打火机燃料当毒品吸",
+        "onboard_time": 1742621721,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210295,
+        "num": 219174,
+        "word": "孟子义浪姐reaction",
+        "onboard_time": 1742621542,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80756,
+        "num": 218062,
+        "word": "特朗普称正在商谈分割乌克兰土地",
+        "onboard_time": 1742620462,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218002,
+        "num": 218002,
+        "word": "床垫骗局",
+        "onboard_time": 1742618542,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213756,
+        "num": 213756,
+        "word": "贺峻霖爆料牛在在不爱洗澡",
+        "onboard_time": 1742620822,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209411,
+        "num": 209411,
+        "word": "刘耀文被deepseek预判了",
+        "onboard_time": 1742621542,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193615,
+        "num": 193615,
+        "word": "平台回应23岁女生打赏近200万想退款",
+        "onboard_time": 1742611942,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184647,
+        "num": 184647,
+        "word": "何瑞贤新剧拿稳黑莲花剧本",
+        "onboard_time": 1742621062,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179074,
+        "num": 179074,
+        "word": "粉丝在韩国为金秀贤投放应援大屏",
+        "onboard_time": 1742619022,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152069,
+        "num": 152069,
+        "word": "印度制造取代中国制造计划被爆失败",
+        "onboard_time": 1742609900,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31449,
+        "num": 150526,
+        "word": "多方回应学生坠亡家长怀疑被霸凌",
+        "onboard_time": 1742621961,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19299,
+        "num": 149429,
+        "word": "AWE家电展上的黑科技",
+        "onboard_time": 1742620462,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97415,
+        "num": 149055,
+        "word": "消化科挤满了焦虑和抑郁症患者",
+        "onboard_time": 1742619622,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149016,
+        "num": 149016,
+        "word": "林俊杰美式后刺",
+        "onboard_time": 1742614882,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148596,
+        "num": 148596,
+        "word": "花非花是琼瑶为了弥补张睿李晟才拍的",
+        "onboard_time": 1742613140,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141455,
+        "num": 141455,
+        "word": "无期迷途",
+        "onboard_time": 1742620642,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140555,
+        "num": 140555,
+        "word": "特朗普用自己纪念数字命名新一代战机",
+        "onboard_time": 1742600240,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 139848,
+        "num": 139848,
+        "word": "北京将重点查处幽灵外卖",
+        "onboard_time": 1742613860,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139485,
+        "num": 139485,
+        "word": "美国F47测试机已秘密试飞近5年",
+        "onboard_time": 1742612780,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76711,
+        "num": 136946,
+        "word": "各地气温将会出现骤降",
+        "onboard_time": 1742621901,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136930,
+        "num": 136930,
+        "word": "田曦薇穿粉",
+        "onboard_time": 1742618181,
+        "rank": 47,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 127082,
+        "num": 127082,
+        "word": "成毅晒观赛照",
+        "onboard_time": 1742619982,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116769,
+        "num": 116769,
+        "word": "谁把柴靖打成无量仙翁了",
+        "onboard_time": 1742618300,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平点赞的这座古城为何长盛#"
+    }
+  }
+}
