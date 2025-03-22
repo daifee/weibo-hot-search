@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742668968144,
+  "endTime": 1742671154313,
   "band_list": [
     {
       "raw_hot": 1694206,
@@ -451,12 +451,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32290,
+      "num": 32290,
+      "word": "上百万买的藏品只有一件是真品",
+      "onboard_time": 1742669055,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31748,
       "num": 131565,
       "word": "一诺孙尚香破局射",
       "onboard_time": 1742654724,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 24681,
+      "num": 97486,
+      "word": "开往春天的列车出发了",
+      "onboard_time": 1742651243,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24661,
@@ -467,12 +483,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24421,
-      "num": 97486,
-      "word": "开往春天的列车出发了",
-      "onboard_time": 1742651243,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 24638,
+      "num": 24638,
+      "word": "乘风2025热度",
+      "onboard_time": 1742670015,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24511,
+      "num": 20408,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1742670975,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 24001,
@@ -499,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20495,
+      "num": 20495,
+      "word": "黄子弘凡除了快乐禁止入内",
+      "onboard_time": 1742669535,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 19169,
       "num": 28951,
       "word": "我国首次举办世界室内田径锦标赛",
@@ -512,6 +544,14 @@
       "word": "张泽禹把鸽子叫好鸽们",
       "onboard_time": 1742668935,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 15537,
+      "num": 18362,
+      "word": "禹事不慌张",
+      "onboard_time": 1742665936,
+      "rank": 47,
       "category": "艺人"
     }
   ],
