@@ -1,0 +1,410 @@
+{
+  "runTime": 1742632875699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 746668,
+        "num": 1119467,
+        "word": "海关扣下价值11万元盲盒",
+        "onboard_time": 1742626222,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687017,
+        "num": 687017,
+        "word": "复旦退学研究生摆摊前都没做过饭",
+        "onboard_time": 1742629160,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26159,
+        "num": 678118,
+        "word": "神十九乘组圆满完成第3次出舱",
+        "onboard_time": 1742631802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 676629,
+        "num": 676629,
+        "word": "楼下住户报警30多次逼走楼上3任租客",
+        "onboard_time": 1742628141,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 619035,
+        "num": 619035,
+        "word": "我和吴宣仪复婚了",
+        "onboard_time": 1742620701,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385727,
+        "num": 385727,
+        "word": "女子买到假迪奥小样牵出330万大案",
+        "onboard_time": 1742622741,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360847,
+        "num": 360847,
+        "word": "孟美岐内娱首个破千万直拍",
+        "onboard_time": 1742615721,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332503,
+        "num": 332503,
+        "word": "杨国福麻辣烫就出现老鼠致歉",
+        "onboard_time": 1742627180,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332243,
+        "num": 332243,
+        "word": "李小冉自曝曾跟爸爸断绝关系一年半",
+        "onboard_time": 1742627839,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158467,
+        "num": 322096,
+        "word": "复旦退学摆摊研究生将侧重自媒体",
+        "onboard_time": 1742631261,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1266469,
+        "num": 322026,
+        "word": "韩安冉回应被赵露思取关",
+        "onboard_time": 1742626523,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 321878,
+        "num": 321878,
+        "word": "男子携代孕遗腹子争妻子千万遗产",
+        "onboard_time": 1742614521,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298125,
+        "num": 298125,
+        "word": "刘耀文被deepseek预判了",
+        "onboard_time": 1742621542,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 294319,
+        "num": 294319,
+        "word": "雪莉哥哥发ins",
+        "onboard_time": 1742613981,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25205,
+        "num": 267897,
+        "word": "一觉醒来北京快30度了",
+        "onboard_time": 1742632460,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263135,
+        "num": 263135,
+        "word": "汪苏泷向李荣浩道歉",
+        "onboard_time": 1742632281,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245206,
+        "num": 245206,
+        "word": "张杰说谢娜是仙女",
+        "onboard_time": 1742631322,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213611,
+        "num": 244220,
+        "word": "newjeans私联",
+        "onboard_time": 1742613020,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88711,
+        "num": 242360,
+        "word": "皮亚斯特里夺F1中国站杆位",
+        "onboard_time": 1742631741,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34198,
+        "num": 238849,
+        "word": "别过度迷恋摆摊一夜致富的神话",
+        "onboard_time": 1742631860,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256054,
+        "num": 236329,
+        "word": "男子砸碎周大福柜台抢走珠宝被刑拘",
+        "onboard_time": 1742630600,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403351,
+        "num": 234340,
+        "word": "吴宣仪不投宋妍霏当队长",
+        "onboard_time": 1742628980,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287267,
+        "num": 229870,
+        "word": "她救弟弟那刻所有偶像剧都弱爆了",
+        "onboard_time": 1742628980,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298599,
+        "num": 228366,
+        "word": "特朗普称不想跟中国发生任何战争",
+        "onboard_time": 1742620341,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226752,
+        "num": 226752,
+        "word": "房琪在浪姐接私活",
+        "onboard_time": 1742629641,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219379,
+        "num": 219379,
+        "word": "月薪5万带月薪3千体验高消费的一天",
+        "onboard_time": 1742626222,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212771,
+        "num": 212771,
+        "word": "丁禹兮上海见面会人气",
+        "onboard_time": 1742628861,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209381,
+        "num": 209381,
+        "word": "张雨绮白敬亭同框豪门味",
+        "onboard_time": 1742632460,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207864,
+        "num": 207864,
+        "word": "虞书欣高珠展路透",
+        "onboard_time": 1742632401,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200721,
+        "num": 200721,
+        "word": "孙颖莎vs覃予萱",
+        "onboard_time": 1742628021,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197954,
+        "num": 197954,
+        "word": "王珞丹为了团队放弃平凡之路",
+        "onboard_time": 1742625801,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188965,
+        "num": 188965,
+        "word": "赵丽颖得知对手是假鼻子选择打下巴",
+        "onboard_time": 1742605161,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166421,
+        "num": 166421,
+        "word": "孟子义乘风端水的神",
+        "onboard_time": 1742631860,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160613,
+        "num": 160613,
+        "word": "萨摩耶骨相一般全靠发型",
+        "onboard_time": 1742632641,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157199,
+        "num": 157199,
+        "word": "minju唱了容祖儿的没关系",
+        "onboard_time": 1742631622,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149102,
+        "num": 149102,
+        "word": "鹿晗 披哥5",
+        "onboard_time": 1742604921,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141471,
+        "num": 141471,
+        "word": "夫妻不相信女儿已死35年后一家团聚",
+        "onboard_time": 1742604981,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138530,
+        "num": 138530,
+        "word": "梁田被熟人围观谈恋爱",
+        "onboard_time": 1742628198,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136671,
+        "num": 136671,
+        "word": "第五人格",
+        "onboard_time": 1742632522,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126013,
+        "num": 126013,
+        "word": "李荣浩被汪苏泷衣服上的装饰戳脸",
+        "onboard_time": 1742632341,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125317,
+        "num": 125317,
+        "word": "李小冉给刘晓庆打了最低分",
+        "onboard_time": 1742626280,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119114,
+        "num": 119114,
+        "word": "英伟达CEO盛赞华为",
+        "onboard_time": 1742631201,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116910,
+        "num": 116910,
+        "word": "约8%的人经历过鬼压床",
+        "onboard_time": 1742626101,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115499,
+        "num": 115499,
+        "word": "黄雀",
+        "onboard_time": 1742631563,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114757,
+        "num": 114757,
+        "word": "河北女团0比1北京女团",
+        "onboard_time": 1742629461,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113623,
+        "num": 113623,
+        "word": "孟子义浪姐reaction",
+        "onboard_time": 1742621542,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111384,
+        "num": 111384,
+        "word": "遮阳伞下的迪丽热巴",
+        "onboard_time": 1742628262,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107214,
+        "num": 107214,
+        "word": "黄杨钿甜演痛苦面具",
+        "onboard_time": 1742632821,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105299,
+        "num": 105299,
+        "word": "山东事业编",
+        "onboard_time": 1742617882,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104780,
+        "num": 104780,
+        "word": "奶皮子酸奶",
+        "onboard_time": 1742623701,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平云贵行为何频提开放#"
+    }
+  }
+}
