@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742615349660,
+  "endTime": 1742617684119,
   "band_list": [
     {
       "raw_hot": 4374487,
@@ -27,12 +27,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1217577,
+      "raw_hot": 1224996,
       "num": 273498,
       "word": "男子携代孕遗腹子争妻子千万遗产",
       "onboard_time": 1742614521,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1208049,
+      "num": 369929,
+      "word": "孟美岐内娱首个破千万直拍",
+      "onboard_time": 1742615721,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1117127,
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451195,
+      "num": 322068,
+      "word": "黄子韬说做卫生巾不是蹭315热度",
+      "onboard_time": 1742615363,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450099,
       "num": 450099,
       "word": "吴宣仪连麦了13个人",
@@ -179,12 +195,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 416776,
+      "num": 207526,
+      "word": "TXT爆改R1SE",
+      "onboard_time": 1742615602,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403050,
       "num": 403050,
       "word": "特斯拉门店所有车辆均启动哨兵模式",
       "onboard_time": 1742598618,
       "rank": 7,
       "category": "海外新闻,汽车"
+    },
+    {
+      "raw_hot": 397161,
+      "num": 207470,
+      "word": "汤家凤宣布英语一事件告一段落",
+      "onboard_time": 1742614820,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 394747,
@@ -241,6 +273,14 @@
       "onboard_time": 1742600240,
       "rank": 12,
       "category": "军事"
+    },
+    {
+      "raw_hot": 343191,
+      "num": 343191,
+      "word": "北京将重点查处幽灵外卖",
+      "onboard_time": 1742613860,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310662,
@@ -339,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246546,
-      "num": 246546,
-      "word": "北京将重点查处幽灵外卖",
-      "onboard_time": 1742613860,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 244527,
       "num": 244527,
       "word": "全国首个咖啡本科专业有多香",
@@ -379,12 +411,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 224768,
+      "num": 205894,
+      "word": "何泓姗浪姐误选",
+      "onboard_time": 1742617522,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221850,
       "num": 221850,
       "word": "小燕子姐姐初舞台失误拿最低分",
       "onboard_time": 1742571262,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217848,
+      "num": 205651,
+      "word": "林俊杰美式后刺",
+      "onboard_time": 1742614882,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 216866,
@@ -401,6 +449,22 @@
       "onboard_time": 1742607500,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212188,
+      "num": 202281,
+      "word": "月经量少到什么程度是异常",
+      "onboard_time": 1742615363,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208512,
+      "num": 208512,
+      "word": "光与夜之恋",
+      "onboard_time": 1742617282,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 207590,
@@ -433,6 +497,14 @@
       "onboard_time": 1742569344,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204139,
+      "num": 204139,
+      "word": "田曦薇小猫伸懒腰",
+      "onboard_time": 1742616442,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 202698,
@@ -483,6 +555,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196930,
+      "num": 196930,
+      "word": "2025女子冰壶世锦赛",
+      "onboard_time": 1742616742,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192833,
+      "num": 192833,
+      "word": "嘘国王在冬眠大结局收官礼",
+      "onboard_time": 1742617461,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191270,
       "num": 191270,
       "word": "成毅F1外媒生图",
@@ -499,8 +587,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 188017,
-      "num": 188017,
+      "raw_hot": 189148,
+      "num": 189148,
       "word": "祝绪丹很高兴并锤了卡琳娜几拳",
       "onboard_time": 1742614581,
       "rank": 42,
@@ -513,14 +601,6 @@
       "onboard_time": 1742613801,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178539,
-      "num": 178539,
-      "word": "林俊杰美式后刺",
-      "onboard_time": 1742614882,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 178513,
@@ -556,19 +636,27 @@
     },
     {
       "raw_hot": 157495,
-      "num": 157495,
+      "num": 204271,
       "word": "成毅的外媒镜头",
       "onboard_time": 1742614820,
       "rank": 33,
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 151880,
-      "num": 151880,
-      "word": "汤家凤宣布英语一事件告一段落",
-      "onboard_time": 1742614820,
-      "rank": 34,
-      "category": "教育"
+      "raw_hot": 152229,
+      "num": 152229,
+      "word": "王蓉直播被网友留言弄哭了",
+      "onboard_time": 1742615721,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148627,
+      "num": 148627,
+      "word": "加拿大不为跨国护毒脸红吗",
+      "onboard_time": 1742615363,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148045,
@@ -577,6 +665,14 @@
       "onboard_time": 1742607320,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147889,
+      "num": 148635,
+      "word": "汉密尔顿夺F1中国站冲刺赛冠军",
+      "onboard_time": 1742616202,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 145684,
@@ -667,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120829,
+      "num": 205580,
+      "word": "中国车迷评价拉塞尔像敖丙",
+      "onboard_time": 1742616561,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118151,
       "num": 118151,
       "word": "男子相亲谎称不育骗单亲妈妈295万",
@@ -681,6 +785,14 @@
       "onboard_time": 1742569223,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115395,
+      "num": 204868,
+      "word": "王源宇宙超级无敌大客厅狂欢",
+      "onboard_time": 1742617461,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 114002,
@@ -721,6 +833,14 @@
       "onboard_time": 1742568983,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107872,
+      "num": 206971,
+      "word": "肖战时装周提及率位列第一",
+      "onboard_time": 1742617341,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 105177,
@@ -883,6 +1003,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 79452,
+      "num": 204667,
+      "word": "杭州市余杭区发生山火",
+      "onboard_time": 1742616561,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77459,
+      "num": 150240,
+      "word": "敏感需要被温柔呵护",
+      "onboard_time": 1742617522,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 76282,
       "num": 76282,
       "word": "孕妇羊水破裂13岁男孩成功助产",
@@ -961,6 +1097,22 @@
       "onboard_time": 1742596636,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 57330,
+      "num": 169420,
+      "word": "加沙人再一次开始逃亡",
+      "onboard_time": 1742617282,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 56905,
+      "num": 206554,
+      "word": "高价碳板鞋真是竞速神器吗",
+      "onboard_time": 1742616202,
+      "rank": 19,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 56788,
@@ -1043,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38794,
+      "num": 149779,
+      "word": "周云杰在海尔干了37年",
+      "onboard_time": 1742615421,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38166,
       "num": 154857,
       "word": "睡不好可以按这五个穴位",
@@ -1081,6 +1241,22 @@
       "onboard_time": 1742578577,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 31346,
+      "num": 166581,
+      "word": "F1为何是世界三大体育盛事",
+      "onboard_time": 1742614101,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 30738,
+      "num": 204404,
+      "word": "一米其林老字号遭40余家外卖店仿冒",
+      "onboard_time": 1742616623,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 30104,
@@ -1123,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25009,
+      "num": 148721,
+      "word": "懒人洗衣机时间管理大师",
+      "onboard_time": 1742615421,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23992,
       "num": 164072,
       "word": "吃什么样的零食最顶饿",
@@ -1145,14 +1329,6 @@
       "onboard_time": 1742606901,
       "rank": 29,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 21628,
-      "num": 139819,
-      "word": "F1为何是世界三大体育盛事",
-      "onboard_time": 1742614101,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 21015,
@@ -1241,6 +1417,9 @@
     },
     {
       "word": "#习近平总书记云贵之行#"
+    },
+    {
+      "word": "#习近平点赞的这座古城为何长盛#"
     }
   ]
 }
