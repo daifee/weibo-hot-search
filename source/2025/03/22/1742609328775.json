@@ -1,0 +1,410 @@
+{
+  "runTime": 1742609328775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1432001,
+        "num": 1432001,
+        "word": "赵丽颖得知对手是假鼻子选择打下巴",
+        "onboard_time": 1742605161,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1320796,
+        "num": 1320796,
+        "word": "德克士道歉",
+        "onboard_time": 1742598558,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24832,
+        "num": 1051955,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1742551221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 923477,
+        "num": 923477,
+        "word": "演员刘念突发低血糖被陌生女孩投喂",
+        "onboard_time": 1742605281,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382838,
+        "num": 382838,
+        "word": "考研名师田静主页已撤销毕业院校",
+        "onboard_time": 1742601380,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 350070,
+        "num": 350070,
+        "word": "北大毕业生做正骨被踢出班级群",
+        "onboard_time": 1742564064,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453460,
+        "num": 341007,
+        "word": "张雅琪官宣入职湖南卫视",
+        "onboard_time": 1742602520,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 402252,
+        "num": 340962,
+        "word": "孟晚舟朋友圈转发姚安娜剧照并点赞",
+        "onboard_time": 1742598558,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330336,
+        "num": 330336,
+        "word": "妈妈给女儿戴接孩子神器太醒目了",
+        "onboard_time": 1742601140,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309082,
+        "num": 309082,
+        "word": "美国47任总统特朗普命名新战机F47",
+        "onboard_time": 1742600540,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1027740,
+        "num": 306610,
+        "word": "鹿晗 披哥5",
+        "onboard_time": 1742604921,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465850,
+        "num": 297236,
+        "word": "金赛纶母亲曝女儿葬礼被偷拍",
+        "onboard_time": 1742607141,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356410,
+        "num": 288213,
+        "word": "特朗普用自己纪念数字命名新一代战机",
+        "onboard_time": 1742600240,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 330725,
+        "num": 284619,
+        "word": "张睿李晟古早cp复活了",
+        "onboard_time": 1742608161,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280201,
+        "num": 280201,
+        "word": "千禾0是商标在侮辱谁",
+        "onboard_time": 1742578816,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270119,
+        "num": 270119,
+        "word": "吴艳妮新造型酷似阿丽塔战斗天使",
+        "onboard_time": 1742603781,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246594,
+        "num": 246594,
+        "word": "什么是性倒错症",
+        "onboard_time": 1742602700,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243937,
+        "num": 243937,
+        "word": "哪吒2授权费从500万飙升至900万",
+        "onboard_time": 1742600178,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175867,
+        "num": 175867,
+        "word": "俄战略轰炸机基地升起巨大蘑菇云",
+        "onboard_time": 1742601500,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147353,
+        "num": 175367,
+        "word": "李秉宪力挺刘亚仁复出",
+        "onboard_time": 1742607500,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572436,
+        "num": 174134,
+        "word": "夫妻不相信女儿已死35年后一家团聚",
+        "onboard_time": 1742604981,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62355,
+        "num": 173086,
+        "word": "被家暴女子反击丈夫被认定正当防卫",
+        "onboard_time": 1742603120,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262780,
+        "num": 171915,
+        "word": "清华博主爆改儿子未来20年房间",
+        "onboard_time": 1742605161,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231051,
+        "num": 170665,
+        "word": "医生说要减肥就得顿顿饿天天饿",
+        "onboard_time": 1742597596,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193425,
+        "num": 169859,
+        "word": "93岁强奸不收押老人已无法自主行走",
+        "onboard_time": 1742547621,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193014,
+        "num": 168973,
+        "word": "睡眠超9小时会让身体出现各种问题",
+        "onboard_time": 1742566284,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178949,
+        "num": 167838,
+        "word": "金秀贤的上衣竟是金赛纶妈妈的",
+        "onboard_time": 1742602101,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178513,
+        "num": 166295,
+        "word": "老鼠在旋转火锅店随桌转动",
+        "onboard_time": 1742605161,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141784,
+        "num": 165205,
+        "word": "蒋欣在我家楼下拍戏",
+        "onboard_time": 1742607680,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23992,
+        "num": 164072,
+        "word": "吃什么样的零食最顶饿",
+        "onboard_time": 1742608819,
+        "rank": 29,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 148045,
+        "num": 163663,
+        "word": "美国官员称乌克兰将选举总统",
+        "onboard_time": 1742607320,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162700,
+        "num": 162700,
+        "word": "金价开跌",
+        "onboard_time": 1742567604,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138607,
+        "num": 138607,
+        "word": "特斯拉门店所有车辆均启动哨兵模式",
+        "onboard_time": 1742598618,
+        "rank": 32,
+        "category": "海外新闻,汽车"
+      },
+      {
+        "raw_hot": 137249,
+        "num": 137249,
+        "word": "南昌300元一个月的出租房",
+        "onboard_time": 1742603781,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127273,
+        "num": 127273,
+        "word": "DeepSeek乐观预测哪吒2或达160亿",
+        "onboard_time": 1742602580,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121644,
+        "num": 121644,
+        "word": "婚姻登记条例修订草案审议通过",
+        "onboard_time": 1742572463,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118151,
+        "num": 118151,
+        "word": "男子相亲谎称不育骗单亲妈妈295万",
+        "onboard_time": 1742603841,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112683,
+        "num": 112683,
+        "word": "乌克兰不再被邀请加入北约",
+        "onboard_time": 1742572280,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111112,
+        "num": 111112,
+        "word": "经期3天和7天的女性谁老得更快",
+        "onboard_time": 1742558904,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103700,
+        "num": 103700,
+        "word": "我在孙颖莎很想你",
+        "onboard_time": 1742603900,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103365,
+        "num": 103365,
+        "word": "林一第一个综艺是和马嘉祺录的",
+        "onboard_time": 1742603841,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90412,
+        "num": 90412,
+        "word": "甲状腺好不好看脸就知道",
+        "onboard_time": 1742598738,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 12200,
+        "num": 89513,
+        "word": "成长就是由无数个第一次组成的",
+        "onboard_time": 1742608281,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89412,
+        "num": 89412,
+        "word": "坏了真让王大锤走向人生巅峰了",
+        "onboard_time": 1742569344,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84415,
+        "num": 84415,
+        "word": "披荆斩棘的哥哥5拟邀嘉宾名单",
+        "onboard_time": 1742602340,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79781,
+        "num": 79781,
+        "word": "杨超越银色短发",
+        "onboard_time": 1742567664,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77253,
+        "num": 77253,
+        "word": "乌拉圭vs阿根廷",
+        "onboard_time": 1742605462,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76981,
+        "num": 76981,
+        "word": "乌拉圭0比1阿根廷",
+        "onboard_time": 1742607922,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74087,
+        "num": 74087,
+        "word": "不同年龄的最佳睡眠时长",
+        "onboard_time": 1742577078,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73797,
+        "num": 73797,
+        "word": "全国首个咖啡本科专业有多香",
+        "onboard_time": 1742567604,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记云贵之行#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742608029530,
+  "endTime": 1742609328775,
   "band_list": [
     {
       "raw_hot": 1566838,
@@ -11,8 +11,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1271674,
-      "num": 1271674,
+      "raw_hot": 1320796,
+      "num": 1320796,
       "word": "德克士道歉",
       "onboard_time": 1742598558,
       "rank": 17,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 572436,
+      "num": 224807,
+      "word": "夫妻不相信女儿已死35年后一家团聚",
+      "onboard_time": 1742604981,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 550725,
       "num": 550725,
       "word": "金价开跌",
@@ -75,14 +83,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 514983,
-      "num": 224807,
-      "word": "夫妻不相信女儿已死35年后一家团聚",
-      "onboard_time": 1742604981,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 476000,
       "num": 476000,
       "word": "杨超越银色短发",
@@ -97,6 +97,14 @@
       "onboard_time": 1742574021,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465850,
+      "num": 297236,
+      "word": "金赛纶母亲曝女儿葬礼被偷拍",
+      "onboard_time": 1742607141,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 450099,
@@ -147,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 382838,
+      "num": 382838,
+      "word": "考研名师田静主页已撤销毕业院校",
+      "onboard_time": 1742601380,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 367904,
       "num": 367904,
       "word": "妈妈给女儿戴接孩子神器太醒目了",
@@ -155,20 +171,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 364884,
-      "num": 364883,
-      "word": "考研名师田静主页已撤销毕业院校",
-      "onboard_time": 1742601380,
-      "rank": 11,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 337588,
+      "raw_hot": 356410,
       "num": 337588,
       "word": "特朗普用自己纪念数字命名新一代战机",
       "onboard_time": 1742600240,
       "rank": 12,
       "category": "军事"
+    },
+    {
+      "raw_hot": 330725,
+      "num": 284619,
+      "word": "张睿李晟古早cp复活了",
+      "onboard_time": 1742608161,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 310662,
@@ -179,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309082,
+      "num": 309082,
+      "word": "美国47任总统特朗普命名新战机F47",
+      "onboard_time": 1742600540,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
       "raw_hot": 304278,
       "num": 64410,
       "word": "陈都灵傅菁有吻戏吗",
@@ -187,28 +211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303805,
-      "num": 303805,
-      "word": "美国47任总统特朗普命名新战机F47",
-      "onboard_time": 1742600540,
-      "rank": 14,
-      "category": "军事"
-    },
-    {
       "raw_hot": 294555,
       "num": 294555,
       "word": "吴艳妮新造型酷似阿丽塔战斗天使",
       "onboard_time": 1742603781,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 290287,
-      "num": 290287,
-      "word": "金赛纶母亲曝女儿葬礼被偷拍",
-      "onboard_time": 1742607141,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 274599,
@@ -251,20 +259,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 246594,
+      "num": 246594,
+      "word": "什么是性倒错症",
+      "onboard_time": 1742602700,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244527,
       "num": 244527,
       "word": "全国首个咖啡本科专业有多香",
       "onboard_time": 1742567604,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 240991,
-      "num": 240991,
-      "word": "什么是性倒错症",
-      "onboard_time": 1742602700,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 233951,
@@ -363,6 +371,46 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178513,
+      "num": 166295,
+      "word": "老鼠在旋转火锅店随桌转动",
+      "onboard_time": 1742605161,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 148045,
+      "num": 364884,
+      "word": "美国官员称乌克兰将选举总统",
+      "onboard_time": 1742607320,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 147353,
+      "num": 206651,
+      "word": "李秉宪力挺刘亚仁复出",
+      "onboard_time": 1742607500,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141784,
+      "num": 165205,
+      "word": "蒋欣在我家楼下拍戏",
+      "onboard_time": 1742607680,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137249,
+      "num": 137249,
+      "word": "南昌300元一个月的出租房",
+      "onboard_time": 1742603781,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134610,
       "num": 134610,
       "word": "雁回时",
@@ -403,7 +451,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 126051,
+      "raw_hot": 127273,
       "num": 210820,
       "word": "DeepSeek乐观预测哪吒2或达160亿",
       "onboard_time": 1742602580,
@@ -419,12 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122410,
-      "num": 122410,
-      "word": "南昌300元一个月的出租房",
-      "onboard_time": 1742603781,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 118151,
+      "num": 118151,
+      "word": "男子相亲谎称不育骗单亲妈妈295万",
+      "onboard_time": 1742603841,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116875,
@@ -451,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111029,
-      "num": 111029,
-      "word": "男子相亲谎称不育骗单亲妈妈295万",
-      "onboard_time": 1742603841,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110118,
       "num": 110118,
       "word": "赵今麦宋威龙骄阳似我一家三口路透",
@@ -467,28 +507,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109732,
-      "num": 206651,
-      "word": "李秉宪力挺刘亚仁复出",
-      "onboard_time": 1742607500,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 107222,
-      "num": 107222,
-      "word": "老鼠在旋转火锅店随桌转动",
-      "onboard_time": 1742605161,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 104403,
       "num": 104403,
       "word": "刘毅王昶无缘瑞士赛四强",
       "onboard_time": 1742571262,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103700,
+      "num": 103700,
+      "word": "我在孙颖莎很想你",
+      "onboard_time": 1742603900,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103365,
+      "num": 103365,
+      "word": "林一第一个综艺是和马嘉祺录的",
+      "onboard_time": 1742603841,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 102562,
@@ -523,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95426,
-      "num": 95426,
-      "word": "林一第一个综艺是和马嘉祺录的",
-      "onboard_time": 1742603841,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94630,
       "num": 94630,
       "word": "日本首相会见王毅",
@@ -547,16 +579,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88867,
-      "num": 88867,
-      "word": "蒋欣在我家楼下拍戏",
-      "onboard_time": 1742607680,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85739,
-      "num": 85739,
+      "num": 173086,
       "word": "被家暴女子反击丈夫被认定正当防卫",
       "onboard_time": 1742603120,
       "rank": 44,
@@ -601,14 +625,6 @@
       "onboard_time": 1742592675,
       "rank": 7,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 78703,
-      "num": 78703,
-      "word": "我在孙颖莎很想你",
-      "onboard_time": 1742603900,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 76282,
@@ -673,14 +689,6 @@
       "onboard_time": 1742559502,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59925,
-      "num": 364884,
-      "word": "美国官员称乌克兰将选举总统",
-      "onboard_time": 1742607320,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 58512,
@@ -835,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23992,
+      "num": 164072,
+      "word": "吃什么样的零食最顶饿",
+      "onboard_time": 1742608819,
+      "rank": 29,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 23694,
       "num": 201691,
       "word": "车管所周边黄牛买卖驾照分公然拉客",
@@ -889,6 +905,14 @@
       "onboard_time": 1742596155,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12200,
+      "num": 89513,
+      "word": "成长就是由无数个第一次组成的",
+      "onboard_time": 1742608281,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 11434,
