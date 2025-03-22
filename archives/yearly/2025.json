@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742648195912,
+  "endTime": 1742649950259,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2347,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2753373,
+      "num": 405610,
+      "word": "唐九洲 抄袭",
+      "onboard_time": 1742647761,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2747710,
       "num": 2747710,
       "word": "饺子 早知道十亿十亿画了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736349323,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2735310,
-      "num": 2735310,
-      "word": "黄圣依没下车",
-      "onboard_time": 1736396663,
-      "rank": 30,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

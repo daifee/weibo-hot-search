@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742648195912,
+  "endTime": 1742649950259,
   "band_list": [
     {
       "raw_hot": 4374487,
@@ -8,6 +8,14 @@
       "word": "黄子韬宣布将做卫生巾",
       "onboard_time": 1742612841,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2753373,
+      "num": 405610,
+      "word": "唐九洲 抄袭",
+      "onboard_time": 1742647761,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1078107,
-      "num": 314348,
+      "num": 403173,
       "word": "虞书欣黑天鹅高定",
       "onboard_time": 1742643923,
       "rank": 13,
@@ -227,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 718602,
+      "num": 718602,
+      "word": "王楚钦马龙11比1杨硕袁励岑",
+      "onboard_time": 1742646021,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 687017,
       "num": 687017,
       "word": "复旦退学研究生摆摊前都没做过饭",
@@ -315,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 557446,
-      "num": 302050,
-      "word": "唐九洲 抄袭",
-      "onboard_time": 1742647761,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 555776,
       "num": 536806,
       "word": "刘耀文被deepseek预判了",
@@ -353,6 +361,14 @@
       "onboard_time": 1742602520,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 530808,
+      "num": 291558,
+      "word": "日本7岁女童被水泥封尸母亲失踪",
+      "onboard_time": 1742647401,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 524114,
@@ -563,6 +579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 381244,
+      "num": 381244,
+      "word": "男子水库边钓鱼被鱼拉下水溺亡",
+      "onboard_time": 1742646922,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381110,
       "num": 383911,
       "word": "中国空间站将迎皮肤可再生的涡虫",
@@ -592,14 +616,6 @@
       "word": "杨国福麻辣烫就出现老鼠致歉",
       "onboard_time": 1742627180,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 364934,
-      "num": 364934,
-      "word": "男子水库边钓鱼被鱼拉下水溺亡",
-      "onboard_time": 1742646922,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -659,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322719,
+      "num": 421534,
+      "word": "雁回时",
+      "onboard_time": 1742557161,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318768,
       "num": 318768,
       "word": "王源去了汪苏泷演唱会",
@@ -673,6 +697,14 @@
       "onboard_time": 1742632401,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 314848,
+      "num": 314848,
+      "word": "曝金秀贤超越N号房新料提示",
+      "onboard_time": 1742649442,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 314527,
@@ -763,6 +795,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273794,
+      "num": 273794,
+      "word": "自己在家晒的橘子皮算陈皮吗",
+      "onboard_time": 1742647881,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 266067,
+      "num": 412658,
+      "word": "哪吒",
+      "onboard_time": 1742643082,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 263767,
       "num": 126511,
       "word": "经期3天和7天的女性谁老得更快",
@@ -780,7 +828,7 @@
     },
     {
       "raw_hot": 262872,
-      "num": 262872,
+      "num": 397299,
       "word": "小说坠落",
       "onboard_time": 1742642300,
       "rank": 45,
@@ -803,11 +851,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256020,
-      "num": 181199,
-      "word": "日本7岁女童被水泥封尸母亲失踪",
-      "onboard_time": 1742647401,
-      "rank": 30,
+      "raw_hot": 255555,
+      "num": 255555,
+      "word": "印度男子看视频自学割阑尾",
+      "onboard_time": 1742646082,
+      "rank": 25,
       "category": "海外新闻"
     },
     {
@@ -825,6 +873,14 @@
       "onboard_time": 1742600178,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248666,
+      "num": 248666,
+      "word": "小傲道歉",
+      "onboard_time": 1742648663,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 248578,
@@ -947,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224446,
+      "num": 333013,
+      "word": "王楚钦3比0袁励岑",
+      "onboard_time": 1742648843,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222415,
       "num": 254957,
       "word": "澳门偶遇Angelababy打高尔夫",
@@ -1001,14 +1065,6 @@
       "onboard_time": 1742602101,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215388,
-      "num": 260240,
-      "word": "哪吒",
-      "onboard_time": 1742643082,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 215240,
@@ -1089,6 +1145,14 @@
       "onboard_time": 1742641462,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208205,
+      "num": 271066,
+      "word": "华晨宇从怀里掏出一封给歌迷的信",
+      "onboard_time": 1742649084,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 208113,
@@ -1235,22 +1299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196428,
-      "num": 196428,
-      "word": "雁回时",
-      "onboard_time": 1742557161,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 196336,
-      "num": 196336,
-      "word": "印度男子看视频自学割阑尾",
-      "onboard_time": 1742646082,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 194545,
       "num": 194545,
       "word": "嘘国王在冬眠大结局收官礼",
@@ -1377,6 +1425,14 @@
       "onboard_time": 1742641880,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184930,
+      "num": 184930,
+      "word": "金价",
+      "onboard_time": 1742648843,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 184811,
@@ -1563,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165999,
-      "num": 165999,
-      "word": "自己在家晒的橘子皮算陈皮吗",
-      "onboard_time": 1742647881,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 165858,
       "num": 274512,
       "word": "姚明范志毅F1围场同框",
@@ -1643,6 +1691,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159627,
+      "num": 265370,
+      "word": "VaVa发博回应浪姐初舞台",
+      "onboard_time": 1742649622,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158854,
+      "num": 158854,
+      "word": "簪花的风终于吹到了德国街头",
+      "onboard_time": 1742648302,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158110,
       "num": 158110,
       "word": "杜海涛沈梦辰两口子传授谭薇经验",
@@ -1707,6 +1771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152366,
+      "num": 407302,
+      "word": "拜登希望重返政坛",
+      "onboard_time": 1742648002,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 152229,
       "num": 152229,
       "word": "王蓉直播被网友留言弄哭了",
@@ -1737,6 +1809,14 @@
       "onboard_time": 1742642724,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149733,
+      "num": 149733,
+      "word": "什么研究需要一年洗500次头",
+      "onboard_time": 1742649802,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 148869,
@@ -1809,6 +1889,14 @@
       "onboard_time": 1742626280,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145080,
+      "num": 205863,
+      "word": "黄子弘凡西安演唱会",
+      "onboard_time": 1742649022,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 144387,
@@ -1912,6 +2000,14 @@
       "word": "领证不用再回老家了",
       "onboard_time": 1742631681,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135050,
+      "num": 135050,
+      "word": "河南小伙买五金为妻子补齐结婚遗憾",
+      "onboard_time": 1742649802,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -2332,7 +2428,7 @@
     },
     {
       "raw_hot": 105444,
-      "num": 297915,
+      "num": 306179,
       "word": "当章若楠遇上欧若风",
       "onboard_time": 1742644820,
       "rank": 12,
@@ -2563,6 +2659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85857,
+      "num": 192521,
+      "word": "上百万买藏品最值钱的一件10元",
+      "onboard_time": 1742649802,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85739,
       "num": 173086,
       "word": "被家暴女子反击丈夫被认定正当防卫",
@@ -2667,6 +2771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72479,
+      "num": 255998,
+      "word": "北京男团晋级全运会正赛",
+      "onboard_time": 1742648843,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71181,
       "num": 71181,
       "word": "外交部提醒日本",
@@ -2731,6 +2843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61515,
+      "num": 271557,
+      "word": "孙颖莎说团体最后一场坚持到底",
+      "onboard_time": 1742648782,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60518,
       "num": 64419,
       "word": "田曦薇逐玉杀青捧花照",
@@ -2771,12 +2891,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54724,
+      "num": 258864,
+      "word": "胃病是种特殊的精神病",
+      "onboard_time": 1742649622,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 54424,
       "num": 64392,
       "word": "SEVENTEEN十周年回归预告",
       "onboard_time": 1742569824,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 53978,
+      "num": 815177,
+      "word": "在云南万物皆可咖",
+      "onboard_time": 1742631261,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53677,
@@ -2809,14 +2945,6 @@
       "onboard_time": 1742563043,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48529,
-      "num": 815177,
-      "word": "在云南万物皆可咖",
-      "onboard_time": 1742631261,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48191,
@@ -2979,11 +3107,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30035,
+      "num": 261455,
+      "word": "土耳其发生大规模反政府抗议活动",
+      "onboard_time": 1742649442,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29548,
       "num": 928671,
       "word": "晨雾中春日梯田恬静感拉满",
       "onboard_time": 1742617882,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29258,
+      "num": 390162,
+      "word": "多方回应湖北赤壁一处水管爆裂",
+      "onboard_time": 1742648903,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
