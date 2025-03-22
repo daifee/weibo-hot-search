@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742636275629,
+  "endTime": 1742639054513,
   "band_list": [
     {
       "raw_hot": 4374487,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1214067,
+      "num": 1214067,
+      "word": "榜一大哥带3500页聊天记录报案",
+      "onboard_time": 1742637442,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1204057,
       "num": 912261,
       "word": "我和吴宣仪复婚了",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 968089,
-      "num": 610492,
+      "num": 774698,
       "word": "著名演员高英逝世",
       "onboard_time": 1742633661,
       "rank": 3,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 686434,
+      "num": 686434,
+      "word": "萨摩耶骨相一般全靠发型",
+      "onboard_time": 1742632641,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 676629,
       "num": 676629,
       "word": "楼下住户报警30多次逼走楼上3任租客",
@@ -201,6 +217,14 @@
       "onboard_time": 1742631261,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 622081,
+      "num": 622081,
+      "word": "中日韩三国外长达成共识",
+      "onboard_time": 1742635041,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 593991,
@@ -259,20 +283,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 527684,
-      "num": 527684,
-      "word": "萨摩耶骨相一般全靠发型",
-      "onboard_time": 1742632641,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 511646,
       "num": 429471,
       "word": "孟子义浪姐reaction",
       "onboard_time": 1742621542,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 511281,
+      "num": 279736,
+      "word": "外网丑猫",
+      "onboard_time": 1742636121,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 499892,
@@ -347,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446493,
+      "num": 446493,
+      "word": "下周可能更热",
+      "onboard_time": 1742633602,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 435530,
       "num": 127307,
       "word": "罗予彤 断层",
@@ -364,7 +396,7 @@
     },
     {
       "raw_hot": 424947,
-      "num": 206709,
+      "num": 220054,
       "word": "不好看但健康的女生特征",
       "onboard_time": 1742633181,
       "rank": 20,
@@ -507,12 +539,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 334284,
-      "num": 334284,
-      "word": "中日韩三国外长达成共识",
-      "onboard_time": 1742635041,
-      "rank": 30,
-      "category": "国内时政"
+      "raw_hot": 334651,
+      "num": 269785,
+      "word": "虞书欣95花第一部全集有广现偶",
+      "onboard_time": 1742638460,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 323457,
+      "num": 323457,
+      "word": "热热热你冷冷冷",
+      "onboard_time": 1742637081,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315815,
@@ -521,6 +561,14 @@
       "onboard_time": 1742632401,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 314527,
+      "num": 221106,
+      "word": "日本闹市区惊现数十块人体碎片",
+      "onboard_time": 1742635702,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 310662,
@@ -595,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 257884,
+      "num": 257884,
+      "word": "瑶一瑶妈妈透露女儿上学状态",
+      "onboard_time": 1742638460,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 256984,
       "num": 322778,
       "word": "男子砸碎周大福柜台抢走珠宝被刑拘",
@@ -633,6 +689,14 @@
       "onboard_time": 1742602700,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245923,
+      "num": 245923,
+      "word": "宋妍霏浪姐6人缘",
+      "onboard_time": 1742637561,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 245206,
@@ -739,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219125,
+      "num": 219125,
+      "word": "张子枫演技",
+      "onboard_time": 1742636961,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218002,
       "num": 218002,
       "word": "床垫骗局",
@@ -795,6 +867,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212530,
+      "num": 212530,
+      "word": "浪姐全场一半的人都选了宋妍霏",
+      "onboard_time": 1742637200,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212283,
+      "num": 212283,
+      "word": "孙颖莎跃跃欲试",
+      "onboard_time": 1742638280,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209381,
       "num": 209381,
       "word": "张雨绮白敬亭同框豪门味",
@@ -833,6 +921,14 @@
       "onboard_time": 1742569344,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205835,
+      "num": 205835,
+      "word": "丁禹兮银色挑染",
+      "onboard_time": 1742637862,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204139,
@@ -875,6 +971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 199456,
+      "num": 199456,
+      "word": "知否刘妈妈这一世总算是跟对主母了",
+      "onboard_time": 1742636121,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199025,
       "num": 198993,
       "word": "睡眠超9小时会让身体出现各种问题",
@@ -889,6 +993,14 @@
       "onboard_time": 1742568864,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198433,
+      "num": 198433,
+      "word": "newjeans韩网口碑",
+      "onboard_time": 1742637862,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 197174,
@@ -913,6 +1025,14 @@
       "onboard_time": 1742616742,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196428,
+      "num": 196428,
+      "word": "雁回时",
+      "onboard_time": 1742557161,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 194545,
@@ -1099,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173952,
+      "num": 173952,
+      "word": "小兰玩具",
+      "onboard_time": 1742636780,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 173245,
       "num": 193137,
       "word": "田曦薇穿粉",
@@ -1179,6 +1307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 162164,
+      "num": 162164,
+      "word": "鞠婧祎丝绒绿裙造型",
+      "onboard_time": 1742638942,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159765,
       "num": 159765,
       "word": "风月不相关将开机",
@@ -1203,6 +1339,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 157684,
+      "num": 157684,
+      "word": "卖房留学女孩一年后回国读专科",
+      "onboard_time": 1742637081,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157495,
       "num": 204271,
       "word": "成毅的外媒镜头",
@@ -1217,14 +1361,6 @@
       "onboard_time": 1742627661,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 155573,
-      "num": 123805,
-      "word": "日本闹市区惊现数十块人体碎片",
-      "onboard_time": 1742635702,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 153089,
@@ -1267,6 +1403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148468,
+      "num": 148468,
+      "word": "又一种生命体将来到中国空间站",
+      "onboard_time": 1742637081,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148045,
       "num": 364884,
       "word": "美国官员称乌克兰将选举总统",
@@ -1307,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144387,
+      "num": 144387,
+      "word": "白敬亭用了Jennie新歌",
+      "onboard_time": 1742635342,
+      "rank": 49,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 144123,
       "num": 144123,
       "word": "JackeyLove守护深蓝",
@@ -1328,6 +1480,14 @@
       "word": "清清顶级马超",
       "onboard_time": 1742634921,
       "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 141302,
+      "num": 141302,
+      "word": "Zeus和家人想洗清冤屈",
+      "onboard_time": 1742636841,
+      "rank": 37,
       "category": "电竞"
     },
     {
@@ -1369,14 +1529,6 @@
       "onboard_time": 1742631681,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134610,
-      "num": 134610,
-      "word": "雁回时",
-      "onboard_time": 1742557161,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 134480,
@@ -1425,14 +1577,6 @@
       "onboard_time": 1742619561,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 129657,
-      "num": 129657,
-      "word": "白敬亭用了Jennie新歌",
-      "onboard_time": 1742635342,
-      "rank": 49,
-      "category": "音乐,艺人"
     },
     {
       "raw_hot": 129235,
@@ -1505,6 +1649,14 @@
       "onboard_time": 1742634022,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126548,
+      "num": 126548,
+      "word": "中国空间站将迎皮肤可再生的涡虫",
+      "onboard_time": 1742637322,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126013,
@@ -1587,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120706,
+      "num": 120706,
+      "word": "孟子义打call番位",
+      "onboard_time": 1742637862,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119907,
       "num": 119907,
       "word": "清融KPL登场五周年",
@@ -1627,14 +1787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115656,
-      "num": 115656,
-      "word": "外网丑猫",
-      "onboard_time": 1742636121,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 115388,
       "num": 115388,
       "word": "田柾国股票被非法盗用",
@@ -1657,14 +1809,6 @@
       "onboard_time": 1742614762,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113756,
-      "num": 113756,
-      "word": "知否刘妈妈这一世总算是跟对主母了",
-      "onboard_time": 1742636121,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 113676,
@@ -1753,6 +1897,14 @@
       "onboard_time": 1742632821,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106594,
+      "num": 106594,
+      "word": "日本警方回应男性碎尸闹市被弃",
+      "onboard_time": 1742638641,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 105801,
@@ -1883,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98116,
+      "num": 98116,
+      "word": "冰壶世锦赛",
+      "onboard_time": 1742637200,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97693,
       "num": 97693,
       "word": "顾客把狗放超市手推车里吃东西",
@@ -1899,14 +2059,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 97142,
-      "num": 97142,
-      "word": "下周可能更热",
-      "onboard_time": 1742633602,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96781,
       "num": 96781,
       "word": "乌拉圭vs阿根廷",
@@ -1921,6 +2073,14 @@
       "onboard_time": 1742627361,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94639,
+      "num": 94639,
+      "word": "熬夜千万不要长时间补觉",
+      "onboard_time": 1742638761,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94630,
@@ -2235,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45111,
+      "num": 834774,
+      "word": "神十九乘组圆满完成第3次出舱",
+      "onboard_time": 1742631802,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44506,
       "num": 44506,
       "word": "吕秀才还得郭芙蓉来收拾",
@@ -2321,14 +2489,6 @@
       "onboard_time": 1742578577,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 31737,
-      "num": 678118,
-      "word": "神十九乘组圆满完成第3次出舱",
-      "onboard_time": 1742631802,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31346,
@@ -2441,6 +2601,14 @@
       "onboard_time": 1742606901,
       "rank": 29,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 21113,
+      "num": 222377,
+      "word": "卓沅李昊又对土豆下手了",
+      "onboard_time": 1742638280,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 21031,
