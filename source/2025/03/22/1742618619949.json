@@ -1,0 +1,410 @@
+{
+  "runTime": 1742618619949,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3568221,
+        "num": 3568221,
+        "word": "黄子韬宣布将做卫生巾",
+        "onboard_time": 1742612841,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1016020,
+        "num": 1016020,
+        "word": "德克士道歉",
+        "onboard_time": 1742598558,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15592,
+        "num": 509361,
+        "word": "晨雾中春日梯田恬静感拉满",
+        "onboard_time": 1742617882,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1233454,
+        "num": 439463,
+        "word": "孟美岐内娱首个破千万直拍",
+        "onboard_time": 1742615721,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361719,
+        "num": 361719,
+        "word": "山东事业编",
+        "onboard_time": 1742617882,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 339510,
+        "num": 339510,
+        "word": "北京将重点查处幽灵外卖",
+        "onboard_time": 1742613860,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670087,
+        "num": 339458,
+        "word": "赵丽颖得知对手是假鼻子选择打下巴",
+        "onboard_time": 1742605161,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 555468,
+        "num": 339385,
+        "word": "黄子韬说做卫生巾不是蹭315热度",
+        "onboard_time": 1742615363,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339204,
+        "num": 339204,
+        "word": "平台回应23岁女生打赏近200万想退款",
+        "onboard_time": 1742611942,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82989,
+        "num": 338369,
+        "word": "让每一滴水绽放光彩",
+        "onboard_time": 1742611942,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1209405,
+        "num": 336818,
+        "word": "男子携代孕遗腹子争妻子千万遗产",
+        "onboard_time": 1742614521,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 871783,
+        "num": 334003,
+        "word": "雪莉哥哥发ins",
+        "onboard_time": 1742613981,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604286,
+        "num": 333512,
+        "word": "newjeans私联",
+        "onboard_time": 1742613020,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543583,
+        "num": 330793,
+        "word": "何泓姗浪姐误选",
+        "onboard_time": 1742617522,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534150,
+        "num": 328597,
+        "word": "鹿晗 披哥5",
+        "onboard_time": 1742604921,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380645,
+        "num": 328272,
+        "word": "汤家凤宣布英语一事件告一段落",
+        "onboard_time": 1742614820,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 351630,
+        "num": 326266,
+        "word": "演员刘念突发低血糖被陌生女孩投喂",
+        "onboard_time": 1742605281,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324978,
+        "num": 324978,
+        "word": "TXT爆改R1SE",
+        "onboard_time": 1742615602,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288128,
+        "num": 288128,
+        "word": "印度制造取代中国制造计划被爆失败",
+        "onboard_time": 1742609900,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179554,
+        "num": 251817,
+        "word": "肖战时装周提及率位列第一",
+        "onboard_time": 1742617341,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 382394,
+        "num": 250720,
+        "word": "夫妻不相信女儿已死35年后一家团聚",
+        "onboard_time": 1742604981,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248788,
+        "num": 248788,
+        "word": "月经量少到什么程度是异常",
+        "onboard_time": 1742615363,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240415,
+        "num": 240415,
+        "word": "光与夜之恋",
+        "onboard_time": 1742617282,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233392,
+        "num": 233392,
+        "word": "花非花是琼瑶为了弥补张睿李晟才拍的",
+        "onboard_time": 1742613140,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201694,
+        "num": 201694,
+        "word": "敏感需要被温柔呵护",
+        "onboard_time": 1742617522,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206296,
+        "num": 201676,
+        "word": "柯淳想结婚了",
+        "onboard_time": 1742609540,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194545,
+        "num": 194545,
+        "word": "嘘国王在冬眠大结局收官礼",
+        "onboard_time": 1742617461,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173245,
+        "num": 193137,
+        "word": "田曦薇穿粉",
+        "onboard_time": 1742618181,
+        "rank": 27,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 40280,
+        "num": 191507,
+        "word": "林高远3比1胜袁励岑",
+        "onboard_time": 1742618181,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98575,
+        "num": 191347,
+        "word": "广东男团2比1辽宁男团",
+        "onboard_time": 1742618122,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218435,
+        "num": 189199,
+        "word": "张睿李晟古早cp复活了",
+        "onboard_time": 1742608161,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188190,
+        "num": 188190,
+        "word": "马嘉祺军装造型",
+        "onboard_time": 1742618181,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189336,
+        "num": 182219,
+        "word": "林俊杰美式后刺",
+        "onboard_time": 1742614882,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176015,
+        "num": 176015,
+        "word": "山东事业单位考试",
+        "onboard_time": 1742618062,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167862,
+        "num": 167862,
+        "word": "美国F47测试机已秘密试飞近5年",
+        "onboard_time": 1742612780,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167362,
+        "num": 167362,
+        "word": "祝绪丹很高兴并锤了卡琳娜几拳",
+        "onboard_time": 1742614581,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160383,
+        "num": 160383,
+        "word": "吴宣仪说孟美岐有事来不了",
+        "onboard_time": 1742610621,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154518,
+        "num": 154518,
+        "word": "特朗普用自己纪念数字命名新一代战机",
+        "onboard_time": 1742600240,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 152349,
+        "num": 152349,
+        "word": "美国47任总统特朗普命名新战机F47",
+        "onboard_time": 1742600540,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 151503,
+        "num": 151503,
+        "word": "高价碳板鞋真是竞速神器吗",
+        "onboard_time": 1742616202,
+        "rank": 39,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 135938,
+        "num": 135938,
+        "word": "考研名师田静主页已撤销毕业院校",
+        "onboard_time": 1742601380,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132481,
+        "num": 132481,
+        "word": "妈妈给女儿戴接孩子神器太醒目了",
+        "onboard_time": 1742601140,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131446,
+        "num": 131446,
+        "word": "成毅的外媒镜头",
+        "onboard_time": 1742614820,
+        "rank": 42,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 128902,
+        "num": 128902,
+        "word": "谁把柴靖打成无量仙翁了",
+        "onboard_time": 1742618300,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125555,
+        "num": 125555,
+        "word": "王源宇宙超级无敌大客厅狂欢",
+        "onboard_time": 1742617461,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124314,
+        "num": 124314,
+        "word": "王蓉直播被网友留言弄哭了",
+        "onboard_time": 1742615721,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120347,
+        "num": 120347,
+        "word": "张雅琪官宣入职湖南卫视",
+        "onboard_time": 1742602520,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36961,
+        "num": 119193,
+        "word": "一米其林老字号遭40余家外卖店仿冒",
+        "onboard_time": 1742616623,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 118386,
+        "num": 118386,
+        "word": "床垫骗局",
+        "onboard_time": 1742618542,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33410,
+        "num": 117596,
+        "word": "周云杰在海尔干了37年",
+        "onboard_time": 1742615421,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平点赞的这座古城为何长盛#"
+    }
+  }
+}

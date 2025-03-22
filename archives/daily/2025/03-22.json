@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742617684119,
+  "endTime": 1742618619949,
   "band_list": [
     {
       "raw_hot": 4374487,
@@ -27,20 +27,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1224996,
-      "num": 273498,
-      "word": "男子携代孕遗腹子争妻子千万遗产",
-      "onboard_time": 1742614521,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1208049,
-      "num": 369929,
+      "raw_hot": 1233454,
+      "num": 439463,
       "word": "孟美岐内娱首个破千万直拍",
       "onboard_time": 1742615721,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1224996,
+      "num": 336818,
+      "word": "男子携代孕遗腹子争妻子千万遗产",
+      "onboard_time": 1742614521,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1117127,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 962288,
-      "num": 270651,
+      "num": 334003,
       "word": "雪莉哥哥发ins",
       "onboard_time": 1742613981,
       "rank": 13,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 869526,
-      "num": 276312,
+      "num": 333512,
       "word": "newjeans私联",
       "onboard_time": 1742613020,
       "rank": 10,
@@ -124,11 +124,19 @@
     },
     {
       "raw_hot": 572436,
-      "num": 231759,
+      "num": 250720,
       "word": "夫妻不相信女儿已死35年后一家团聚",
       "onboard_time": 1742604981,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 555468,
+      "num": 339385,
+      "word": "黄子韬说做卫生巾不是蹭315热度",
+      "onboard_time": 1742615363,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 550725,
@@ -145,6 +153,14 @@
       "onboard_time": 1742602520,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 543583,
+      "num": 330793,
+      "word": "何泓姗浪姐误选",
+      "onboard_time": 1742617522,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 476000,
@@ -171,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 451195,
-      "num": 322068,
-      "word": "黄子韬说做卫生巾不是蹭315热度",
-      "onboard_time": 1742615363,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 450099,
       "num": 450099,
       "word": "吴宣仪连麦了13个人",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 416776,
-      "num": 207526,
+      "num": 324978,
       "word": "TXT爆改R1SE",
       "onboard_time": 1742615602,
       "rank": 14,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 397161,
-      "num": 207470,
+      "num": 328272,
       "word": "汤家凤宣布英语一事件告一段落",
       "onboard_time": 1742614820,
       "rank": 34,
@@ -267,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361719,
+      "num": 361719,
+      "word": "山东事业编",
+      "onboard_time": 1742617882,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 356410,
       "num": 337588,
       "word": "特朗普用自己纪念数字命名新一代战机",
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 295423,
-      "num": 212985,
+      "num": 233392,
       "word": "花非花是琼瑶为了弥补张睿李晟才拍的",
       "onboard_time": 1742613140,
       "rank": 22,
@@ -371,6 +387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248788,
+      "num": 248788,
+      "word": "月经量少到什么程度是异常",
+      "onboard_time": 1742615363,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 246594,
       "num": 246594,
       "word": "什么是性倒错症",
@@ -385,6 +409,14 @@
       "onboard_time": 1742567604,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240415,
+      "num": 240415,
+      "word": "光与夜之恋",
+      "onboard_time": 1742617282,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 233951,
@@ -409,14 +441,6 @@
       "onboard_time": 1742601500,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 224768,
-      "num": 205894,
-      "word": "何泓姗浪姐误选",
-      "onboard_time": 1742617522,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 221850,
@@ -449,22 +473,6 @@
       "onboard_time": 1742607500,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212188,
-      "num": 202281,
-      "word": "月经量少到什么程度是异常",
-      "onboard_time": 1742615363,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 208512,
-      "num": 208512,
-      "word": "光与夜之恋",
-      "onboard_time": 1742617282,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 207590,
@@ -523,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201694,
+      "num": 201694,
+      "word": "敏感需要被温柔呵护",
+      "onboard_time": 1742617522,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 199025,
       "num": 198993,
       "word": "睡眠超9小时会让身体出现各种问题",
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 197174,
-      "num": 197174,
+      "num": 338369,
       "word": "让每一滴水绽放光彩",
       "onboard_time": 1742611942,
       "rank": 24,
@@ -563,8 +579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192833,
-      "num": 192833,
+      "raw_hot": 194545,
+      "num": 194545,
       "word": "嘘国王在冬眠大结局收官礼",
       "onboard_time": 1742617461,
       "rank": 35,
@@ -595,12 +611,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188190,
+      "num": 188190,
+      "word": "马嘉祺军装造型",
+      "onboard_time": 1742618181,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182746,
       "num": 182746,
       "word": "你好星期六全员斗舞",
       "onboard_time": 1742613801,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179554,
+      "num": 251817,
+      "word": "肖战时装周提及率位列第一",
+      "onboard_time": 1742617341,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178513,
@@ -611,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176015,
+      "num": 176015,
+      "word": "山东事业单位考试",
+      "onboard_time": 1742618062,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 175227,
       "num": 175227,
       "word": "邪恶老太居然是刘敏涛演的",
@@ -619,20 +659,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173245,
+      "num": 193137,
+      "word": "田曦薇穿粉",
+      "onboard_time": 1742618181,
+      "rank": 27,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 167862,
+      "num": 167862,
+      "word": "美国F47测试机已秘密试飞近5年",
+      "onboard_time": 1742612780,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 165858,
       "num": 274512,
       "word": "姚明范志毅F1围场同框",
       "onboard_time": 1742612301,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163964,
-      "num": 163964,
-      "word": "美国F47测试机已秘密试飞近5年",
-      "onboard_time": 1742612780,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 157495,
@@ -649,6 +697,14 @@
       "onboard_time": 1742615721,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151503,
+      "num": 206554,
+      "word": "高价碳板鞋真是竞速神器吗",
+      "onboard_time": 1742616202,
+      "rank": 19,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 148627,
@@ -739,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128902,
+      "num": 128902,
+      "word": "谁把柴靖打成无量仙翁了",
+      "onboard_time": 1742618300,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127996,
       "num": 127996,
       "word": "王腾称下个月出大部分人买得起的手机",
@@ -753,6 +817,14 @@
       "onboard_time": 1742602580,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125555,
+      "num": 204868,
+      "word": "王源宇宙超级无敌大客厅狂欢",
+      "onboard_time": 1742617461,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 123742,
@@ -771,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118386,
+      "num": 118386,
+      "word": "床垫骗局",
+      "onboard_time": 1742618542,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118151,
       "num": 118151,
       "word": "男子相亲谎称不育骗单亲妈妈295万",
@@ -785,14 +865,6 @@
       "onboard_time": 1742569223,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 115395,
-      "num": 204868,
-      "word": "王源宇宙超级无敌大客厅狂欢",
-      "onboard_time": 1742617461,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 114002,
@@ -833,14 +905,6 @@
       "onboard_time": 1742568983,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107872,
-      "num": 206971,
-      "word": "肖战时装周提及率位列第一",
-      "onboard_time": 1742617341,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 105177,
@@ -897,6 +961,14 @@
       "onboard_time": 1742554701,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98575,
+      "num": 191347,
+      "word": "广东男团2比1辽宁男团",
+      "onboard_time": 1742618122,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 97693,
@@ -1011,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77459,
-      "num": 150240,
-      "word": "敏感需要被温柔呵护",
-      "onboard_time": 1742617522,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 76282,
       "num": 76282,
       "word": "孕妇羊水破裂13岁男孩成功助产",
@@ -1107,14 +1171,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56905,
-      "num": 206554,
-      "word": "高价碳板鞋真是竞速神器吗",
-      "onboard_time": 1742616202,
-      "rank": 19,
-      "category": "民生新闻,议题讨论"
-    },
-    {
       "raw_hot": 56788,
       "num": 56788,
       "word": "国足球迷遭沙特球迷歧视",
@@ -1187,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40280,
+      "num": 191507,
+      "word": "林高远3比1胜袁励岑",
+      "onboard_time": 1742618181,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39259,
       "num": 39259,
       "word": "2025年瑞士羽毛球公开赛",
@@ -1219,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36961,
+      "num": 204404,
+      "word": "一米其林老字号遭40余家外卖店仿冒",
+      "onboard_time": 1742616623,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 36415,
       "num": 37713,
       "word": "KSG战胜eStar",
@@ -1249,14 +1321,6 @@
       "onboard_time": 1742614101,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30738,
-      "num": 204404,
-      "word": "一米其林老字号遭40余家外卖店仿冒",
-      "onboard_time": 1742616623,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 30104,
@@ -1361,6 +1425,14 @@
       "onboard_time": 1742581574,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 15592,
+      "num": 509361,
+      "word": "晨雾中春日梯田恬静感拉满",
+      "onboard_time": 1742617882,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15188,
