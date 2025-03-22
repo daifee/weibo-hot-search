@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742661721699,
+  "endTime": 1742663955940,
   "band_list": [
     {
       "raw_hot": 1694206,
@@ -99,8 +99,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275875,
-      "num": 275875,
+      "raw_hot": 276132,
+      "num": 276132,
       "word": "洛洛历险记",
       "onboard_time": 1742658022,
       "rank": 9,
@@ -275,8 +275,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89983,
-      "num": 84175,
+      "raw_hot": 93043,
+      "num": 93043,
       "word": "陈都灵温峥嵘你们在玩什么抽象",
       "onboard_time": 1742659942,
       "rank": 45,
@@ -312,6 +312,14 @@
       "word": "林忆莲演唱会至少还有你大合唱",
       "onboard_time": 1742658742,
       "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 76563,
+      "num": 76563,
+      "word": "袁一琦25岁最幸福的事",
+      "onboard_time": 1742662639,
+      "rank": 25,
       "category": "演出"
     },
     {
@@ -417,6 +425,22 @@
       "onboard_time": 1742646021,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39611,
+      "num": 41643,
+      "word": "AG零封狼队",
+      "onboard_time": 1742651904,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 36064,
+      "num": 41640,
+      "word": "乘风2025",
+      "onboard_time": 1742663717,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 31748,

@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742661721699,
+  "endTime": 1742663955940,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -20579,6 +20579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 276132,
+      "num": 276132,
+      "word": "洛洛历险记",
+      "onboard_time": 1742658022,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 276062,
       "num": 276062,
       "word": "杀害河南女法官男子已被执行死刑",
@@ -20593,14 +20601,6 @@
       "onboard_time": 1740904818,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 275875,
-      "num": 275875,
-      "word": "洛洛历险记",
-      "onboard_time": 1742658022,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 275865,
@@ -55971,6 +55971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93043,
+      "num": 93043,
+      "word": "陈都灵温峥嵘你们在玩什么抽象",
+      "onboard_time": 1742659942,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93000,
       "num": 311485,
       "word": "新加坡偶遇尤长靖",
@@ -56680,14 +56688,6 @@
       "word": "林一有种彻底沦为虞书欣玩物的感觉",
       "onboard_time": 1742279424,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 89983,
-      "num": 84175,
-      "word": "陈都灵温峥嵘你们在玩什么抽象",
-      "onboard_time": 1742659942,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -58921,6 +58921,14 @@
       "onboard_time": 1742314820,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76563,
+      "num": 76563,
+      "word": "袁一琦25岁最幸福的事",
+      "onboard_time": 1742662639,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 76549,
