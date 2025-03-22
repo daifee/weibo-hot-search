@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742635419968,
+  "endTime": 1742636275629,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -763,20 +763,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1476790,
+      "num": 1476790,
+      "word": "汪苏泷向李荣浩道歉",
+      "onboard_time": 1742632281,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1474045,
       "num": 1474045,
       "word": "蜜雪冰城",
       "onboard_time": 1742047233,
       "rank": 15,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1473598,
-      "num": 1473598,
-      "word": "汪苏泷向李荣浩道歉",
-      "onboard_time": 1742632281,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 1469352,
@@ -2979,6 +2979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 654542,
+      "num": 654542,
+      "word": "复旦退学摆摊研究生将侧重自媒体",
+      "onboard_time": 1742631261,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 652359,
       "num": 380419,
       "word": "汶川3.1级地震",
@@ -3305,14 +3313,6 @@
       "onboard_time": 1742102484,
       "rank": 33,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 591601,
-      "num": 591601,
-      "word": "复旦退学摆摊研究生将侧重自媒体",
-      "onboard_time": 1742631261,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 587212,
@@ -3825,6 +3825,14 @@
       "onboard_time": 1742135303,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 527684,
+      "num": 527684,
+      "word": "萨摩耶骨相一般全靠发型",
+      "onboard_time": 1742632641,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 526888,
@@ -4659,6 +4667,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 424947,
+      "num": 206709,
+      "word": "不好看但健康的女生特征",
+      "onboard_time": 1742633181,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 424179,
       "num": 424179,
       "word": "小学校长性侵案当事人拒不认罪",
@@ -4785,14 +4801,6 @@
       "onboard_time": 1742046633,
       "rank": 27,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 414986,
-      "num": 204172,
-      "word": "不好看但健康的女生特征",
-      "onboard_time": 1742633181,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 411821,
@@ -5667,6 +5675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334284,
+      "num": 334284,
+      "word": "中日韩三国外长达成共识",
+      "onboard_time": 1742635041,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 334110,
       "num": 345441,
       "word": "关晓彤王子奇新剧开机",
@@ -5884,7 +5900,7 @@
     },
     {
       "raw_hot": 315815,
-      "num": 281649,
+      "num": 302165,
       "word": "虞书欣高珠展路透",
       "onboard_time": 1742632401,
       "rank": 28,
@@ -6297,14 +6313,6 @@
       "onboard_time": 1742208502,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282861,
-      "num": 282861,
-      "word": "萨摩耶骨相一般全靠发型",
-      "onboard_time": 1742632641,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 282580,
@@ -7953,6 +7961,14 @@
       "onboard_time": 1742454683,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224728,
+      "num": 224728,
+      "word": "孙颖莎vs李雅可",
+      "onboard_time": 1742634981,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 224607,
@@ -10483,6 +10499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186468,
+      "num": 186468,
+      "word": "浪姐有属于自己的结界兽",
+      "onboard_time": 1742635462,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186303,
       "num": 186303,
       "word": "日常见肖战",
@@ -11443,14 +11467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171537,
-      "num": 134527,
-      "word": "中日韩三国外长达成共识",
-      "onboard_time": 1742635041,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 171509,
       "num": 171509,
       "word": "永夜星河登上腾讯年度财报",
@@ -12331,6 +12347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 159765,
+      "num": 159765,
+      "word": "风月不相关将开机",
+      "onboard_time": 1742634742,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159675,
       "num": 159675,
       "word": "章若楠红毯状态",
@@ -12465,14 +12489,6 @@
       "onboard_time": 1742624480,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158107,
-      "num": 158107,
-      "word": "风月不相关将开机",
-      "onboard_time": 1742634742,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 157900,
@@ -12649,6 +12665,14 @@
       "onboard_time": 1742540181,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155573,
+      "num": 123805,
+      "word": "日本闹市区惊现数十块人体碎片",
+      "onboard_time": 1742635702,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 155260,
@@ -14235,6 +14259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139538,
+      "num": 134366,
+      "word": "服务员的月休四天相当于没休息",
+      "onboard_time": 1742634322,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139529,
       "num": 139529,
       "word": "何炅做侦探没必要太合群",
@@ -14249,14 +14281,6 @@
       "onboard_time": 1742310802,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139464,
-      "num": 134366,
-      "word": "服务员的月休四天相当于没休息",
-      "onboard_time": 1742634322,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 139460,
@@ -14787,6 +14811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133740,
+      "num": 133740,
+      "word": "KPL",
+      "onboard_time": 1742635941,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133669,
       "num": 625315,
       "word": "苏菲称涉事包装产品目前非公司生产",
@@ -15081,6 +15113,14 @@
       "onboard_time": 1742216425,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129657,
+      "num": 129657,
+      "word": "白敬亭用了Jennie新歌",
+      "onboard_time": 1742635342,
+      "rank": 49,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 129597,
@@ -15723,12 +15763,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 123290,
+      "num": 123290,
+      "word": "Zeus经纪公司重提转会风波",
+      "onboard_time": 1742635702,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123280,
       "num": 286204,
       "word": "被辛芷蕾老公姐的气场支配了",
       "onboard_time": 1742196742,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123174,
+      "num": 123174,
+      "word": "孙颖莎看李雅可的眼神好可爱",
+      "onboard_time": 1742635941,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 123057,
@@ -16323,6 +16379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115656,
+      "num": 115656,
+      "word": "外网丑猫",
+      "onboard_time": 1742636121,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115550,
       "num": 115550,
       "word": "真诚建议从源头开始减少家务",
@@ -16491,6 +16555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113756,
+      "num": 113756,
+      "word": "知否刘妈妈这一世总算是跟对主母了",
+      "onboard_time": 1742636121,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113676,
       "num": 113676,
       "word": "Meow对战GW",
@@ -16537,6 +16609,14 @@
       "onboard_time": 1742452941,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112892,
+      "num": 112892,
+      "word": "周鸿祎试乘百车仍没驾照",
+      "onboard_time": 1742636121,
+      "rank": 38,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 112860,
@@ -17307,14 +17387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102729,
-      "num": 134672,
-      "word": "孙颖莎vs李雅可",
-      "onboard_time": 1742634981,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102352,
       "num": 102352,
       "word": "吉林通化3.3级地震",
@@ -17401,6 +17473,14 @@
       "onboard_time": 1742051852,
       "rank": 47,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 100921,
+      "num": 100921,
+      "word": "F1排位赛",
+      "onboard_time": 1742636181,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 100838,
@@ -17603,6 +17683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97638,
+      "num": 97638,
+      "word": "女校实体书",
+      "onboard_time": 1742635820,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 97461,
       "num": 206106,
       "word": "一觉醒来闻到古早聊斋味了",
@@ -17729,14 +17817,6 @@
       "onboard_time": 1742208565,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96342,
-      "num": 96342,
-      "word": "白敬亭用了Jennie新歌",
-      "onboard_time": 1742635342,
-      "rank": 49,
-      "category": "音乐,艺人"
     },
     {
       "raw_hot": 96316,
@@ -18825,6 +18905,14 @@
       "onboard_time": 1742510115,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 73240,
+      "num": 342342,
+      "word": "特朗普撤销哈里斯及希拉里安全许可",
+      "onboard_time": 1742635101,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72716,
@@ -20235,6 +20323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48191,
+      "num": 206825,
+      "word": "孙颖莎率队3连胜",
+      "onboard_time": 1742635760,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48136,
       "num": 197022,
       "word": "俄美元首通话后欧洲和乌克兰更焦虑了",
@@ -20761,14 +20857,6 @@
       "onboard_time": 1742067134,
       "rank": 43,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 38803,
-      "num": 281249,
-      "word": "特朗普撤销哈里斯及希拉里安全许可",
-      "onboard_time": 1742635101,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 38794,

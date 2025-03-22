@@ -1,0 +1,410 @@
+{
+  "runTime": 1742636275629,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1476790,
+        "num": 1476790,
+        "word": "汪苏泷向李荣浩道歉",
+        "onboard_time": 1742632281,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 654542,
+        "num": 654542,
+        "word": "复旦退学摆摊研究生将侧重自媒体",
+        "onboard_time": 1742631261,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30857,
+        "num": 552020,
+        "word": "神十九乘组圆满完成第3次出舱",
+        "onboard_time": 1742631802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 953695,
+        "num": 540546,
+        "word": "著名演员高英逝世",
+        "onboard_time": 1742633661,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527684,
+        "num": 527684,
+        "word": "萨摩耶骨相一般全靠发型",
+        "onboard_time": 1742632641,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 527256,
+        "num": 527256,
+        "word": "楼下住户报警30多次逼走楼上3任租客",
+        "onboard_time": 1742628141,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 733584,
+        "num": 519068,
+        "word": "我和吴宣仪复婚了",
+        "onboard_time": 1742620701,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421547,
+        "num": 421547,
+        "word": "复旦退学研究生摆摊前都没做过饭",
+        "onboard_time": 1742629160,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354049,
+        "num": 354049,
+        "word": "海关扣下价值11万元盲盒",
+        "onboard_time": 1742626222,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73240,
+        "num": 342342,
+        "word": "特朗普撤销哈里斯及希拉里安全许可",
+        "onboard_time": 1742635101,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 961044,
+        "num": 341650,
+        "word": "韩安冉回应被赵露思取关",
+        "onboard_time": 1742626523,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 334486,
+        "num": 334486,
+        "word": "孟美岐内娱首个破千万直拍",
+        "onboard_time": 1742615721,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334284,
+        "num": 334284,
+        "word": "中日韩三国外长达成共识",
+        "onboard_time": 1742635041,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 302402,
+        "num": 302402,
+        "word": "男子携代孕遗腹子争妻子千万遗产",
+        "onboard_time": 1742614521,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302165,
+        "num": 302165,
+        "word": "虞书欣高珠展路透",
+        "onboard_time": 1742632401,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247124,
+        "num": 247124,
+        "word": "雪莉哥哥发ins",
+        "onboard_time": 1742613981,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231111,
+        "num": 231111,
+        "word": "女子买到假迪奥小样牵出330万大案",
+        "onboard_time": 1742622741,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224728,
+        "num": 224728,
+        "word": "孙颖莎vs李雅可",
+        "onboard_time": 1742634981,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223885,
+        "num": 223885,
+        "word": "张杰说谢娜是仙女",
+        "onboard_time": 1742631322,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48191,
+        "num": 206825,
+        "word": "孙颖莎率队3连胜",
+        "onboard_time": 1742635760,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424947,
+        "num": 206709,
+        "word": "不好看但健康的女生特征",
+        "onboard_time": 1742633181,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206447,
+        "num": 206447,
+        "word": "刘耀文被deepseek预判了",
+        "onboard_time": 1742621542,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195613,
+        "num": 195613,
+        "word": "李小冉自曝曾跟爸爸断绝关系一年半",
+        "onboard_time": 1742627839,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186468,
+        "num": 186468,
+        "word": "浪姐有属于自己的结界兽",
+        "onboard_time": 1742635462,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159765,
+        "num": 159765,
+        "word": "风月不相关将开机",
+        "onboard_time": 1742634742,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151739,
+        "num": 151739,
+        "word": "newjeans私联",
+        "onboard_time": 1742613020,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133740,
+        "num": 133740,
+        "word": "KPL",
+        "onboard_time": 1742635941,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130055,
+        "num": 130055,
+        "word": "孟子义乘风端水的神",
+        "onboard_time": 1742631860,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129657,
+        "num": 129657,
+        "word": "白敬亭用了Jennie新歌",
+        "onboard_time": 1742635342,
+        "rank": 28,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 123965,
+        "num": 123965,
+        "word": "丁禹兮上海见面会人气",
+        "onboard_time": 1742628861,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155573,
+        "num": 123805,
+        "word": "日本闹市区惊现数十块人体碎片",
+        "onboard_time": 1742635702,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139538,
+        "num": 123754,
+        "word": "服务员的月休四天相当于没休息",
+        "onboard_time": 1742634322,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123617,
+        "num": 123617,
+        "word": "领证不用再回老家了",
+        "onboard_time": 1742631681,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123290,
+        "num": 123290,
+        "word": "Zeus经纪公司重提转会风波",
+        "onboard_time": 1742635702,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123174,
+        "num": 123174,
+        "word": "孙颖莎看李雅可的眼神好可爱",
+        "onboard_time": 1742635941,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115668,
+        "num": 115668,
+        "word": "第一次见全集只有一个台词的动漫",
+        "onboard_time": 1742634682,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115656,
+        "num": 115656,
+        "word": "外网丑猫",
+        "onboard_time": 1742636121,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113756,
+        "num": 113756,
+        "word": "知否刘妈妈这一世总算是跟对主母了",
+        "onboard_time": 1742636121,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112892,
+        "num": 112892,
+        "word": "周鸿祎试乘百车仍没驾照",
+        "onboard_time": 1742636121,
+        "rank": 38,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 112782,
+        "num": 112782,
+        "word": "李小冉给刘晓庆打了最低分",
+        "onboard_time": 1742626280,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112438,
+        "num": 112438,
+        "word": "侯佩岑听到珊瑚海的表情",
+        "onboard_time": 1742630722,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112016,
+        "num": 112016,
+        "word": "鹿晗 披哥5",
+        "onboard_time": 1742604921,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107470,
+        "num": 107470,
+        "word": "别过度迷恋摆摊一夜致富的神话",
+        "onboard_time": 1742631860,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104043,
+        "num": 104043,
+        "word": "清清顶级马超",
+        "onboard_time": 1742634921,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102276,
+        "num": 102276,
+        "word": "金秀贤台湾见面会安排50名警察",
+        "onboard_time": 1742633060,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227473,
+        "num": 102233,
+        "word": "杨国福麻辣烫就出现老鼠致歉",
+        "onboard_time": 1742627180,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101889,
+        "num": 101889,
+        "word": "时代少年团短剧主题",
+        "onboard_time": 1742634620,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100921,
+        "num": 100921,
+        "word": "F1排位赛",
+        "onboard_time": 1742636181,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97638,
+        "num": 97638,
+        "word": "女校实体书",
+        "onboard_time": 1742635820,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 95118,
+        "num": 95118,
+        "word": "云合",
+        "onboard_time": 1742634742,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平云贵行为何频提开放#"
+    }
+  }
+}
