@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742671154313,
+  "endTime": 1742672173325,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -65667,6 +65667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38676,
+      "num": 38676,
+      "word": "上百万买的藏品只有一件是真品",
+      "onboard_time": 1742669055,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38662,
       "num": 302231,
       "word": "李兆基从金铺少东到楼市大亨",
@@ -67113,14 +67121,6 @@
       "onboard_time": 1741942823,
       "rank": 38,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 32290,
-      "num": 32290,
-      "word": "上百万买的藏品只有一件是真品",
-      "onboard_time": 1742669055,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32284,
@@ -68851,6 +68851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24899,
+      "num": 24899,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1742670975,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24837,
       "num": 201401,
       "word": "国足小组排名依旧垫底",
@@ -68993,14 +69001,6 @@
       "onboard_time": 1741716795,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24511,
-      "num": 20408,
-      "word": "汪苏泷演唱会",
-      "onboard_time": 1742670975,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 24509,
