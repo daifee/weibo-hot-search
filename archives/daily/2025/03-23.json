@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742675043368,
+  "endTime": 1742675831165,
   "band_list": [
     {
       "raw_hot": 1694206,
@@ -499,20 +499,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24280,
+      "num": 28920,
+      "word": "泽连斯基拒绝部署联合国维和部队方案",
+      "onboard_time": 1742653822,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24001,
       "num": 29037,
       "word": "戚薇李承铉把妻子当换装游戏",
       "onboard_time": 1742640201,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22859,
-      "num": 28920,
-      "word": "泽连斯基拒绝部署联合国维和部队方案",
-      "onboard_time": 1742653822,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 21382,
@@ -555,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14597,
+      "num": 27854,
+      "word": "一些金包银首饰效果只有几个月",
+      "onboard_time": 1742673915,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13284,
       "num": 14309,
       "word": "汪苏泷杨千嬅合唱人情世故",
@@ -563,11 +571,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 12982,
-      "num": 27854,
-      "word": "一些金包银首饰效果只有几个月",
-      "onboard_time": 1742673915,
-      "rank": 9,
+      "raw_hot": 9946,
+      "num": 21364,
+      "word": "抬头仰望的中华美学",
+      "onboard_time": 1742674634,
+      "rank": 19,
       "category": "民生新闻"
     }
   ],
