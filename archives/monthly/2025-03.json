@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742668180503,
+  "endTime": 1742668968144,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -68995,6 +68995,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 24421,
+      "num": 97486,
+      "word": "开往春天的列车出发了",
+      "onboard_time": 1742651243,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24418,
       "num": 120809,
       "word": "舒淇巴黎看秀",
@@ -69009,14 +69017,6 @@
       "onboard_time": 1741341862,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 24394,
-      "num": 97486,
-      "word": "开往春天的列车出发了",
-      "onboard_time": 1742651243,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24370,
@@ -70235,6 +70235,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 19169,
+      "num": 28951,
+      "word": "我国首次举办世界室内田径锦标赛",
+      "onboard_time": 1742665936,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19134,
       "num": 27029,
       "word": "张豆豆喊话孙杨做最好的自己",
@@ -70345,14 +70353,6 @@
       "onboard_time": 1741203791,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18713,
-      "num": 28951,
-      "word": "我国首次举办世界室内田径锦标赛",
-      "onboard_time": 1742665936,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 18711,
@@ -70481,6 +70481,14 @@
       "onboard_time": 1741498161,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18147,
+      "num": 25399,
+      "word": "张泽禹把鸽子叫好鸽们",
+      "onboard_time": 1742668935,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 18112,

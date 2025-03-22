@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742668180503,
+  "endTime": 1742668968144,
   "band_list": [
     {
       "raw_hot": 1694206,
@@ -467,7 +467,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24394,
+      "raw_hot": 24421,
       "num": 97486,
       "word": "开往春天的列车出发了",
       "onboard_time": 1742651243,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21876,
+      "num": 28920,
+      "word": "泽连斯基拒绝部署联合国维和部队方案",
+      "onboard_time": 1742653822,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21382,
       "num": 28932,
       "word": "黄霄雲现场搞梗教罗云熙粤语",
@@ -491,20 +499,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21331,
-      "num": 28920,
-      "word": "泽连斯基拒绝部署联合国维和部队方案",
-      "onboard_time": 1742653822,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 18713,
+      "raw_hot": 19169,
       "num": 28951,
       "word": "我国首次举办世界室内田径锦标赛",
       "onboard_time": 1742665936,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18147,
+      "num": 25399,
+      "word": "张泽禹把鸽子叫好鸽们",
+      "onboard_time": 1742668935,
+      "rank": 48,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
