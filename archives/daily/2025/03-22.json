@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742632875699,
+  "endTime": 1742635419968,
   "band_list": [
     {
       "raw_hot": 4374487,
@@ -33,6 +33,14 @@
       "onboard_time": 1742626523,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1473598,
+      "num": 1473598,
+      "word": "汪苏泷向李荣浩道歉",
+      "onboard_time": 1742632281,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 1241482,
@@ -71,6 +79,14 @@
       "num": 1011188,
       "word": "演员刘念突发低血糖被陌生女孩投喂",
       "onboard_time": 1742605281,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 968089,
+      "num": 610492,
+      "word": "著名演员高英逝世",
+      "onboard_time": 1742633661,
       "rank": 3,
       "category": "艺人"
     },
@@ -193,6 +209,14 @@
       "onboard_time": 1742617522,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 591601,
+      "num": 591601,
+      "word": "复旦退学摆摊研究生将侧重自媒体",
+      "onboard_time": 1742631261,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 572436,
@@ -339,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414986,
+      "num": 204172,
+      "word": "不好看但健康的女生特征",
+      "onboard_time": 1742633181,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 409892,
       "num": 441522,
       "word": "月经量少到什么程度是异常",
@@ -467,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315815,
+      "num": 281649,
+      "word": "虞书欣高珠展路透",
+      "onboard_time": 1742632401,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 310662,
       "num": 310662,
       "word": "千禾0是商标在侮辱谁",
@@ -515,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282861,
+      "num": 282861,
+      "word": "萨摩耶骨相一般全靠发型",
+      "onboard_time": 1742632641,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274599,
       "num": 229840,
       "word": "Hanni说谎",
@@ -529,14 +577,6 @@
       "onboard_time": 1742558904,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 263135,
-      "num": 263135,
-      "word": "汪苏泷向李荣浩道歉",
-      "onboard_time": 1742632281,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 263038,
@@ -744,14 +784,6 @@
       "word": "张雨绮白敬亭同框豪门味",
       "onboard_time": 1742632460,
       "rank": 27,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207864,
-      "num": 207864,
-      "word": "虞书欣高珠展路透",
-      "onboard_time": 1742632401,
-      "rank": 28,
       "category": "作品衍生"
     },
     {
@@ -1067,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171537,
+      "num": 134527,
+      "word": "中日韩三国外长达成共识",
+      "onboard_time": 1742635041,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 170107,
       "num": 170107,
       "word": "美国F47测试机已秘密试飞近5年",
@@ -1107,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164880,
+      "num": 164880,
+      "word": "TTG战胜Hero",
+      "onboard_time": 1742634441,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163544,
       "num": 163544,
       "word": "王一博出片的休闲瞬间",
@@ -1115,28 +1163,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 160613,
-      "num": 160613,
-      "word": "萨摩耶骨相一般全靠发型",
-      "onboard_time": 1742632641,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 158467,
-      "num": 322096,
-      "word": "复旦退学摆摊研究生将侧重自媒体",
-      "onboard_time": 1742631261,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158110,
       "num": 158110,
       "word": "杜海涛沈梦辰两口子传授谭薇经验",
       "onboard_time": 1742624480,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158107,
+      "num": 158107,
+      "word": "风月不相关将开机",
+      "onboard_time": 1742634742,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157866,
+      "num": 157866,
+      "word": "第一次见全集只有一个台词的动漫",
+      "onboard_time": 1742634682,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 157495,
@@ -1251,6 +1299,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141692,
+      "num": 141692,
+      "word": "清清顶级马超",
+      "onboard_time": 1742634921,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 139464,
+      "num": 134366,
+      "word": "服务员的月休四天相当于没休息",
+      "onboard_time": 1742634322,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137249,
       "num": 137249,
       "word": "南昌300元一个月的出租房",
@@ -1275,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135357,
+      "num": 135357,
+      "word": "领证不用再回老家了",
+      "onboard_time": 1742631681,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134610,
       "num": 134610,
       "word": "雁回时",
@@ -1289,6 +1361,14 @@
       "onboard_time": 1742598738,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 134206,
+      "num": 238849,
+      "word": "别过度迷恋摆摊一夜致富的神话",
+      "onboard_time": 1742631860,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133419,
@@ -1371,6 +1451,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126869,
+      "num": 126869,
+      "word": "侯佩岑听到珊瑚海的表情",
+      "onboard_time": 1742630722,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126566,
+      "num": 126566,
+      "word": "最强大脑全是考试的料",
+      "onboard_time": 1742634022,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126013,
       "num": 126013,
       "word": "李荣浩被汪苏泷衣服上的装饰戳脸",
@@ -1392,6 +1488,14 @@
       "word": "王源宇宙超级无敌大客厅狂欢",
       "onboard_time": 1742617461,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124497,
+      "num": 124497,
+      "word": "时代少年团短剧主题",
+      "onboard_time": 1742634620,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1603,12 +1707,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103471,
+      "num": 103471,
+      "word": "WBG对战EDG",
+      "onboard_time": 1742634921,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 103435,
+      "num": 103435,
+      "word": "金秀贤台湾见面会安排50名警察",
+      "onboard_time": 1742633060,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103365,
       "num": 103365,
       "word": "林一第一个综艺是和马嘉祺录的",
       "onboard_time": 1742603841,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102729,
+      "num": 134672,
+      "word": "孙颖莎vs李雅可",
+      "onboard_time": 1742634981,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 102562,
@@ -1627,12 +1755,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102012,
+      "num": 102012,
+      "word": "传奇杯S3队长官宣",
+      "onboard_time": 1742634022,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100353,
       "num": 100353,
       "word": "全班39人都被抢走企业追着老师要人",
       "onboard_time": 1742549720,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98914,
+      "num": 98914,
+      "word": "云合",
+      "onboard_time": 1742634742,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 98899,
@@ -1667,12 +1811,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97142,
+      "num": 97142,
+      "word": "下周可能更热",
+      "onboard_time": 1742633602,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96781,
       "num": 96781,
       "word": "乌拉圭vs阿根廷",
       "onboard_time": 1742605462,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96342,
+      "num": 96342,
+      "word": "白敬亭用了Jennie新歌",
+      "onboard_time": 1742635342,
+      "rank": 49,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 95634,
@@ -2011,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38803,
+      "num": 281249,
+      "word": "特朗普撤销哈里斯及希拉里安全许可",
+      "onboard_time": 1742635101,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38794,
       "num": 149779,
       "word": "周云杰在海尔干了37年",
@@ -2067,11 +2235,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 34198,
-      "num": 238849,
-      "word": "别过度迷恋摆摊一夜致富的神话",
-      "onboard_time": 1742631860,
-      "rank": 24,
+      "raw_hot": 31737,
+      "num": 678118,
+      "word": "神十九乘组圆满完成第3次出舱",
+      "onboard_time": 1742631802,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2144,14 +2312,6 @@
       "word": "湖南一地推购房7天无理由退订",
       "onboard_time": 1742620462,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26159,
-      "num": 678118,
-      "word": "神十九乘组圆满完成第3次出舱",
-      "onboard_time": 1742631802,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

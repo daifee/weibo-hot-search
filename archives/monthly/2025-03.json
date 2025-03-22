@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742632875699,
+  "endTime": 1742635419968,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2281,6 +2281,14 @@
       "onboard_time": 1742025983,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1473598,
+      "num": 1473598,
+      "word": "汪苏泷向李荣浩道歉",
+      "onboard_time": 1742632281,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 1469352,
@@ -4824,6 +4832,14 @@
       "word": "吴宣仪在机场哭了",
       "onboard_time": 1741591821,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 968089,
+      "num": 610492,
+      "word": "著名演员高英逝世",
+      "onboard_time": 1742633661,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -9643,6 +9659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 591601,
+      "num": 591601,
+      "word": "复旦退学摆摊研究生将侧重自媒体",
+      "onboard_time": 1742631261,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 591313,
       "num": 591313,
       "word": "赵丽颖新片饰演刑满释放女子",
@@ -13923,6 +13947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414986,
+      "num": 204172,
+      "word": "不好看但健康的女生特征",
+      "onboard_time": 1742633181,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 414413,
       "num": 373461,
       "word": "内娱红毯质检员舒淇",
@@ -18019,6 +18051,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 315815,
+      "num": 281649,
+      "word": "虞书欣高珠展路透",
+      "onboard_time": 1742632401,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 315253,
       "num": 315253,
       "word": "香港大公报再批李嘉诚卖港口",
@@ -19731,6 +19771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282861,
+      "num": 282861,
+      "word": "萨摩耶骨相一般全靠发型",
+      "onboard_time": 1742632641,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 282580,
       "num": 462758,
       "word": "蛋糕店的蛋糕尺寸足不足",
@@ -21065,14 +21113,6 @@
       "onboard_time": 1740798678,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263135,
-      "num": 263135,
-      "word": "汪苏泷向李荣浩道歉",
-      "onboard_time": 1742632281,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 263055,
@@ -26713,14 +26753,6 @@
       "onboard_time": 1741022773,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207864,
-      "num": 207864,
-      "word": "虞书欣高珠展路透",
-      "onboard_time": 1742632401,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 207778,
@@ -34179,6 +34211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171537,
+      "num": 134527,
+      "word": "中日韩三国外长达成共识",
+      "onboard_time": 1742635041,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171509,
       "num": 171509,
       "word": "永夜星河登上腾讯年度财报",
@@ -35851,6 +35891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164880,
+      "num": 164880,
+      "word": "TTG战胜Hero",
+      "onboard_time": 1742634441,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164807,
       "num": 312280,
       "word": "送给高考生的超燃歌词",
@@ -36859,14 +36907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160613,
-      "num": 160613,
-      "word": "萨摩耶骨相一般全靠发型",
-      "onboard_time": 1742632641,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 160592,
       "num": 160592,
       "word": "这部剧拍了好多经典骗局",
@@ -37355,14 +37395,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 158467,
-      "num": 322096,
-      "word": "复旦退学摆摊研究生将侧重自媒体",
-      "onboard_time": 1742631261,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158457,
       "num": 224761,
       "word": "RW周决赛吃鸡",
@@ -37483,6 +37515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158107,
+      "num": 158107,
+      "word": "风月不相关将开机",
+      "onboard_time": 1742634742,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158042,
       "num": 158042,
       "word": "杨蓉新剧让人好想抱抱她",
@@ -37521,6 +37561,14 @@
       "onboard_time": 1741654103,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 157866,
+      "num": 157866,
+      "word": "第一次见全集只有一个台词的动漫",
+      "onboard_time": 1742634682,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 157865,
@@ -41891,6 +41939,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 141692,
+      "num": 141692,
+      "word": "清清顶级马超",
+      "onboard_time": 1742634921,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141633,
       "num": 141633,
       "word": "秦岚走路的这几秒压迫感好强",
@@ -42609,6 +42665,14 @@
       "onboard_time": 1741530144,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139464,
+      "num": 134366,
+      "word": "服务员的月休四天相当于没休息",
+      "onboard_time": 1742634322,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 139460,
@@ -43587,6 +43651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135357,
+      "num": 135357,
+      "word": "领证不用再回老家了",
+      "onboard_time": 1742631681,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135353,
       "num": 161072,
       "word": "夸克为00后做的职业规划",
@@ -43953,6 +44025,14 @@
       "onboard_time": 1741501161,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 134206,
+      "num": 238849,
+      "word": "别过度迷恋摆摊一夜致富的神话",
+      "onboard_time": 1742631860,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134063,
@@ -45835,6 +45915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 126869,
+      "num": 126869,
+      "word": "侯佩岑听到珊瑚海的表情",
+      "onboard_time": 1742630722,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126847,
       "num": 216698,
       "word": "樊振东喊你去看大谷翔平",
@@ -45921,6 +46009,14 @@
       "onboard_time": 1742092644,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126566,
+      "num": 126566,
+      "word": "最强大脑全是考试的料",
+      "onboard_time": 1742634022,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 126552,
@@ -46625,6 +46721,14 @@
       "onboard_time": 1741944265,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124497,
+      "num": 124497,
+      "word": "时代少年团短剧主题",
+      "onboard_time": 1742634620,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 124471,
@@ -52347,12 +52451,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103471,
+      "num": 103471,
+      "word": "WBG对战EDG",
+      "onboard_time": 1742634921,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103443,
       "num": 286868,
       "word": "两会新词热词双语卡片",
       "onboard_time": 1741309342,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 103435,
+      "num": 103435,
+      "word": "金秀贤台湾见面会安排50名警察",
+      "onboard_time": 1742633060,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 103431,
@@ -52529,6 +52649,14 @@
       "onboard_time": 1741359861,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102729,
+      "num": 134672,
+      "word": "孙颖莎vs李雅可",
+      "onboard_time": 1742634981,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 102727,
@@ -52713,6 +52841,14 @@
       "onboard_time": 1742112862,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102012,
+      "num": 102012,
+      "word": "传奇杯S3队长官宣",
+      "onboard_time": 1742634022,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 102008,
@@ -53867,6 +54003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 97142,
+      "num": 97142,
+      "word": "下周可能更热",
+      "onboard_time": 1742633602,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97119,
       "num": 97119,
       "word": "水贝金饰金价突破700元",
@@ -54113,6 +54257,14 @@
       "onboard_time": 1740924140,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96342,
+      "num": 96342,
+      "word": "白敬亭用了Jennie新歌",
+      "onboard_time": 1742635342,
+      "rank": 49,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 96316,
@@ -64171,6 +64323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38803,
+      "num": 281249,
+      "word": "特朗普撤销哈里斯及希拉里安全许可",
+      "onboard_time": 1742635101,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38794,
       "num": 149779,
       "word": "周云杰在海尔干了37年",
@@ -65171,14 +65331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34198,
-      "num": 238849,
-      "word": "别过度迷恋摆摊一夜致富的神话",
-      "onboard_time": 1742631860,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34076,
       "num": 151530,
       "word": "黑胡椒牛肉意面",
@@ -65729,6 +65881,14 @@
       "onboard_time": 1741773863,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31737,
+      "num": 678118,
+      "word": "神十九乘组圆满完成第3次出舱",
+      "onboard_time": 1742631802,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31729,
@@ -67039,14 +67199,6 @@
       "num": 833336,
       "word": "春日进度条加载中",
       "onboard_time": 1741941204,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26159,
-      "num": 678118,
-      "word": "神十九乘组圆满完成第3次出舱",
-      "onboard_time": 1742631802,
       "rank": 2,
       "category": "民生新闻"
     },

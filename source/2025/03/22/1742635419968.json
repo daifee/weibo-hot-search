@@ -1,0 +1,410 @@
+{
+  "runTime": 1742635419968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1473598,
+        "num": 1473598,
+        "word": "汪苏泷向李荣浩道歉",
+        "onboard_time": 1742632281,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 642235,
+        "num": 642235,
+        "word": "复旦退学研究生摆摊前都没做过饭",
+        "onboard_time": 1742629160,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31737,
+        "num": 610720,
+        "word": "神十九乘组圆满完成第3次出舱",
+        "onboard_time": 1742631802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 968089,
+        "num": 610492,
+        "word": "著名演员高英逝世",
+        "onboard_time": 1742633661,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609792,
+        "num": 609792,
+        "word": "楼下住户报警30多次逼走楼上3任租客",
+        "onboard_time": 1742628141,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591601,
+        "num": 591601,
+        "word": "复旦退学摆摊研究生将侧重自媒体",
+        "onboard_time": 1742631261,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 717041,
+        "num": 567385,
+        "word": "我和吴宣仪复婚了",
+        "onboard_time": 1742620701,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443926,
+        "num": 443926,
+        "word": "海关扣下价值11万元盲盒",
+        "onboard_time": 1742626222,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367244,
+        "num": 367244,
+        "word": "孟美岐内娱首个破千万直拍",
+        "onboard_time": 1742615721,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282861,
+        "num": 282861,
+        "word": "萨摩耶骨相一般全靠发型",
+        "onboard_time": 1742632641,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1016647,
+        "num": 282582,
+        "word": "韩安冉回应被赵露思取关",
+        "onboard_time": 1742626523,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 364989,
+        "num": 282074,
+        "word": "男子携代孕遗腹子争妻子千万遗产",
+        "onboard_time": 1742614521,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315815,
+        "num": 281649,
+        "word": "虞书欣高珠展路透",
+        "onboard_time": 1742632401,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38803,
+        "num": 281249,
+        "word": "特朗普撤销哈里斯及希拉里安全许可",
+        "onboard_time": 1742635101,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 281133,
+        "num": 281133,
+        "word": "女子买到假迪奥小样牵出330万大案",
+        "onboard_time": 1742622741,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257337,
+        "num": 257337,
+        "word": "雪莉哥哥发ins",
+        "onboard_time": 1742613981,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242038,
+        "num": 242038,
+        "word": "张杰说谢娜是仙女",
+        "onboard_time": 1742631322,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234857,
+        "num": 234857,
+        "word": "李小冉自曝曾跟爸爸断绝关系一年半",
+        "onboard_time": 1742627839,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226433,
+        "num": 226433,
+        "word": "刘耀文被deepseek预判了",
+        "onboard_time": 1742621542,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211417,
+        "num": 211417,
+        "word": "杨国福麻辣烫就出现老鼠致歉",
+        "onboard_time": 1742627180,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414986,
+        "num": 204172,
+        "word": "不好看但健康的女生特征",
+        "onboard_time": 1742633181,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164880,
+        "num": 164880,
+        "word": "TTG战胜Hero",
+        "onboard_time": 1742634441,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164612,
+        "num": 164612,
+        "word": "newjeans私联",
+        "onboard_time": 1742613020,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158107,
+        "num": 158107,
+        "word": "风月不相关将开机",
+        "onboard_time": 1742634742,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157866,
+        "num": 157866,
+        "word": "第一次见全集只有一个台词的动漫",
+        "onboard_time": 1742634682,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146397,
+        "num": 146397,
+        "word": "孟子义乘风端水的神",
+        "onboard_time": 1742631860,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141692,
+        "num": 141692,
+        "word": "清清顶级马超",
+        "onboard_time": 1742634921,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138092,
+        "num": 138092,
+        "word": "丁禹兮上海见面会人气",
+        "onboard_time": 1742628861,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135357,
+        "num": 135357,
+        "word": "领证不用再回老家了",
+        "onboard_time": 1742631681,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102729,
+        "num": 134672,
+        "word": "孙颖莎vs李雅可",
+        "onboard_time": 1742634981,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171537,
+        "num": 134527,
+        "word": "中日韩三国外长达成共识",
+        "onboard_time": 1742635041,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139464,
+        "num": 134366,
+        "word": "服务员的月休四天相当于没休息",
+        "onboard_time": 1742634322,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134206,
+        "num": 134206,
+        "word": "别过度迷恋摆摊一夜致富的神话",
+        "onboard_time": 1742631860,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126869,
+        "num": 126869,
+        "word": "侯佩岑听到珊瑚海的表情",
+        "onboard_time": 1742630722,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126566,
+        "num": 126566,
+        "word": "最强大脑全是考试的料",
+        "onboard_time": 1742634022,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124497,
+        "num": 124497,
+        "word": "时代少年团短剧主题",
+        "onboard_time": 1742634620,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119127,
+        "num": 119127,
+        "word": "夫妻不相信女儿已死35年后一家团聚",
+        "onboard_time": 1742604981,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112364,
+        "num": 112364,
+        "word": "李小冉给刘晓庆打了最低分",
+        "onboard_time": 1742626280,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107620,
+        "num": 107620,
+        "word": "约8%的人经历过鬼压床",
+        "onboard_time": 1742626101,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106324,
+        "num": 106324,
+        "word": "她救弟弟那刻所有偶像剧都弱爆了",
+        "onboard_time": 1742628980,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103471,
+        "num": 103471,
+        "word": "WBG对战EDG",
+        "onboard_time": 1742634921,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103435,
+        "num": 103435,
+        "word": "金秀贤台湾见面会安排50名警察",
+        "onboard_time": 1742633060,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102839,
+        "num": 102839,
+        "word": "鹿晗 披哥5",
+        "onboard_time": 1742604921,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102012,
+        "num": 102012,
+        "word": "传奇杯S3队长官宣",
+        "onboard_time": 1742634022,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99583,
+        "num": 99583,
+        "word": "房琪在浪姐接私活",
+        "onboard_time": 1742629641,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98914,
+        "num": 98914,
+        "word": "云合",
+        "onboard_time": 1742634742,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97560,
+        "num": 97560,
+        "word": "月薪5万带月薪3千体验高消费的一天",
+        "onboard_time": 1742626222,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97142,
+        "num": 97142,
+        "word": "下周可能更热",
+        "onboard_time": 1742633602,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96667,
+        "num": 96667,
+        "word": "孙颖莎vs覃予萱",
+        "onboard_time": 1742628021,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96342,
+        "num": 96342,
+        "word": "白敬亭用了Jennie新歌",
+        "onboard_time": 1742635342,
+        "rank": 49,
+        "category": "音乐,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平云贵行为何频提开放#"
+    }
+  }
+}
