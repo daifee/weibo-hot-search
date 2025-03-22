@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742654312172,
+  "endTime": 1742656943915,
   "band_list": [
     {
       "raw_hot": 4374487,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2112949,
-      "num": 261825,
+      "num": 325875,
       "word": "韦雪买下了秦奋之前给她租的房子",
       "onboard_time": 1742651423,
       "rank": 11,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1180879,
-      "num": 314848,
+      "num": 324529,
       "word": "曝金秀贤超越N号房新料提示",
       "onboard_time": 1742649442,
       "rank": 18,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 955272,
+      "num": 1152843,
+      "word": "金价",
+      "onboard_time": 1742648843,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 927460,
       "num": 348477,
       "word": "瑶一瑶妈妈透露女儿上学状态",
@@ -187,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 817164,
-      "num": 817164,
-      "word": "金价",
-      "onboard_time": 1742648843,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 795089,
       "num": 795089,
       "word": "三次开颅网红吴忠华耳朵内又长东西",
@@ -203,8 +203,8 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 783166,
-      "num": 783166,
+      "raw_hot": 788065,
+      "num": 788065,
       "word": "刘翔之后又有中国运动员夺牌了",
       "onboard_time": 1742652144,
       "rank": 17,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 594776,
-      "num": 291558,
+      "num": 308358,
       "word": "日本7岁女童被水泥封尸母亲失踪",
       "onboard_time": 1742647401,
       "rank": 30,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 491656,
+      "num": 317508,
+      "word": "丁禹兮王星越敖瑞鹏生图",
+      "onboard_time": 1742654844,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 488982,
       "num": 432486,
       "word": "王珞丹为了团队放弃平凡之路",
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 450993,
-      "num": 251917,
+      "num": 303876,
       "word": "早睡两个月后肉眼可见的变化",
       "onboard_time": 1742651423,
       "rank": 21,
@@ -731,12 +739,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337745,
+      "num": 337745,
+      "word": "李荣浩来看杨丞琳演唱会了",
+      "onboard_time": 1742654724,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 333811,
       "num": 323754,
       "word": "TVB前港姐乳腺癌复发病情告急",
       "onboard_time": 1742642002,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333523,
+      "num": 333523,
+      "word": "浪姐全场一半的人都选了宋妍霏",
+      "onboard_time": 1742637200,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 326548,
+      "num": 294426,
+      "word": "全款140万买到230平房子",
+      "onboard_time": 1742654783,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 322719,
@@ -771,6 +803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 314429,
+      "num": 314429,
+      "word": "辛云来发红包",
+      "onboard_time": 1742654724,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313232,
       "num": 313232,
       "word": "宋妍霏浪姐6人缘",
@@ -793,6 +833,14 @@
       "onboard_time": 1742578816,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310384,
+      "num": 310384,
+      "word": "日本连锁店承认味噌汤中混入老鼠尸体",
+      "onboard_time": 1742655923,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 309082,
@@ -963,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247601,
+      "num": 247601,
+      "word": "丝塔芙红包",
+      "onboard_time": 1742654663,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 246594,
       "num": 246594,
       "word": "什么是性倒错症",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1742617282,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 240478,
+      "num": 331485,
+      "word": "汪苏泷 我们",
+      "onboard_time": 1742654783,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 240415,
@@ -1193,14 +1257,6 @@
       "onboard_time": 1742628861,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212530,
-      "num": 246972,
-      "word": "浪姐全场一半的人都选了宋妍霏",
-      "onboard_time": 1742637200,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 212283,
@@ -1731,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166755,
+      "num": 289431,
+      "word": "毛不易青岛开瓶再来一首",
+      "onboard_time": 1742655923,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166421,
       "num": 166421,
       "word": "孟子义乘风端水的神",
@@ -1803,12 +1867,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 163465,
+      "num": 281401,
+      "word": "黄子弘凡金龙刺绣黑袍高定",
+      "onboard_time": 1742655743,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 162628,
+      "num": 310584,
+      "word": "2025KPL春季赛",
+      "onboard_time": 1742656102,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160716,
       "num": 160716,
       "word": "黄雀 好看",
       "onboard_time": 1742641642,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159817,
+      "num": 273928,
+      "word": "丁程鑫开场舞杀疯了",
+      "onboard_time": 1742654963,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 159765,
@@ -1867,6 +1955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155384,
+      "num": 238524,
+      "word": "泽连斯基拒绝部署联合国维和部队方案",
+      "onboard_time": 1742653822,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 154083,
       "num": 154083,
       "word": "林孝埈周冠宇围场互动",
@@ -1905,6 +2001,14 @@
       "onboard_time": 1742616202,
       "rank": 19,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 151412,
+      "num": 256777,
+      "word": "徐明浩轨道EDC电音节",
+      "onboard_time": 1742656042,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 150609,
@@ -2131,6 +2235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136750,
+      "num": 136750,
+      "word": "古埃及房子着火要先救猫",
+      "onboard_time": 1742655382,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 136671,
       "num": 136671,
       "word": "第五人格",
@@ -2195,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131813,
+      "num": 131813,
+      "word": "阿姨怎么一戴假发面相都变了",
+      "onboard_time": 1742654783,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131694,
       "num": 123817,
       "word": "何秋亊翻牌",
@@ -2217,6 +2337,14 @@
       "onboard_time": 1742619561,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130145,
+      "num": 130145,
+      "word": "古埃及人都有吸猫DNA吧",
+      "onboard_time": 1742654724,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 129235,
@@ -2337,6 +2465,14 @@
       "onboard_time": 1742634620,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124318,
+      "num": 124318,
+      "word": "翟潇闻杨肸子hi6预告",
+      "onboard_time": 1742655623,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 123742,
@@ -2627,6 +2763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105267,
+      "num": 105267,
+      "word": "刘诗雯回应与林高远混双目标",
+      "onboard_time": 1742654724,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105177,
       "num": 276910,
       "word": "NASA回应滞留太空宇航员获多少报酬",
@@ -2673,6 +2817,14 @@
       "onboard_time": 1742603841,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102798,
+      "num": 102798,
+      "word": "2025华晨宇火星演唱会",
+      "onboard_time": 1742656642,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 102562,
@@ -2987,6 +3139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69748,
+      "num": 249495,
+      "word": "刘俊茜回应赶超刘翔",
+      "onboard_time": 1742656343,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69463,
       "num": 214713,
       "word": "世界上最舒服的配色",
@@ -3041,14 +3201,6 @@
       "onboard_time": 1742648782,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61263,
-      "num": 238524,
-      "word": "泽连斯基拒绝部署联合国维和部队方案",
-      "onboard_time": 1742653822,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 60518,
@@ -3248,6 +3400,14 @@
       "word": "周云杰在海尔干了37年",
       "onboard_time": 1742615421,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38391,
+      "num": 195398,
+      "word": "四川一逃犯驾车冲撞警方后逃窜",
+      "onboard_time": 1742656523,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -3483,6 +3643,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 20610,
+      "num": 244052,
+      "word": "武汉春日限定汉服美到窒息",
+      "onboard_time": 1742656822,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19299,
       "num": 161973,
       "word": "AWE家电展上的黑科技",
@@ -3505,6 +3673,14 @@
       "onboard_time": 1742581574,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 18011,
+      "num": 319623,
+      "word": "商贩腌制毒腊肉火腿出售获刑",
+      "onboard_time": 1742656223,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15188,
