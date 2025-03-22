@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742618619949,
+  "endTime": 1742620935630,
   "band_list": [
     {
       "raw_hot": 4374487,
@@ -27,7 +27,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1233454,
+      "raw_hot": 1241482,
       "num": 439463,
       "word": "孟美岐内娱首个破千万直拍",
       "onboard_time": 1742615721,
@@ -123,8 +123,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 593139,
+      "num": 355413,
+      "word": "何泓姗浪姐误选",
+      "onboard_time": 1742617522,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572436,
-      "num": 250720,
+      "num": 292515,
       "word": "夫妻不相信女儿已死35年后一家团聚",
       "onboard_time": 1742604981,
       "rank": 20,
@@ -153,14 +161,6 @@
       "onboard_time": 1742602520,
       "rank": 6,
       "category": "网红"
-    },
-    {
-      "raw_hot": 543583,
-      "num": 330793,
-      "word": "何泓姗浪姐误选",
-      "onboard_time": 1742617522,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 476000,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 437535,
+      "num": 437535,
+      "word": "山东事业编",
+      "onboard_time": 1742617882,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 435530,
       "num": 127307,
       "word": "罗予彤 断层",
@@ -217,6 +225,14 @@
       "onboard_time": 1742598618,
       "rank": 7,
       "category": "海外新闻,汽车"
+    },
+    {
+      "raw_hot": 398339,
+      "num": 398339,
+      "word": "月经量少到什么程度是异常",
+      "onboard_time": 1742615363,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 397161,
@@ -273,14 +289,6 @@
       "onboard_time": 1742611942,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 361719,
-      "num": 361719,
-      "word": "山东事业编",
-      "onboard_time": 1742617882,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 356410,
@@ -371,6 +379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 260620,
+      "num": 260620,
+      "word": "杨幂蕾丝露腰装",
+      "onboard_time": 1742618963,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256598,
       "num": 256598,
       "word": "让李荣浩发飙的NFC到底是啥",
@@ -385,14 +401,6 @@
       "onboard_time": 1742600178,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 248788,
-      "num": 248788,
-      "word": "月经量少到什么程度是异常",
-      "onboard_time": 1742615363,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 246594,
@@ -419,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235445,
+      "num": 294148,
+      "word": "成毅晒观赛照",
+      "onboard_time": 1742619982,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233951,
       "num": 233951,
       "word": "这一站是上岸",
@@ -433,6 +449,14 @@
       "onboard_time": 1742562024,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233417,
+      "num": 324062,
+      "word": "加沙人再一次开始逃亡",
+      "onboard_time": 1742617282,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 225080,
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 201694,
-      "num": 201694,
+      "num": 298861,
       "word": "敏感需要被温柔呵护",
       "onboard_time": 1742617522,
       "rank": 43,
@@ -587,12 +611,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192689,
+      "num": 192689,
+      "word": "时代少年团横店录制",
+      "onboard_time": 1742620341,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191828,
+      "num": 191828,
+      "word": "秦岚新剧非典型恶女",
+      "onboard_time": 1742619803,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191270,
       "num": 191270,
       "word": "成毅F1外媒生图",
       "onboard_time": 1742612002,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191263,
+      "num": 191263,
+      "word": "我和吴宣仪复婚了",
+      "onboard_time": 1742620701,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 190186,
@@ -651,6 +699,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 175871,
+      "num": 175871,
+      "word": "黄英小考倒数第一",
+      "onboard_time": 1742620882,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175747,
+      "num": 175747,
+      "word": "床垫骗局",
+      "onboard_time": 1742618542,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175227,
       "num": 175227,
       "word": "邪恶老太居然是刘敏涛演的",
@@ -667,8 +731,8 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 167862,
-      "num": 167862,
+      "raw_hot": 170107,
+      "num": 170107,
       "word": "美国F47测试机已秘密试飞近5年",
       "onboard_time": 1742612780,
       "rank": 29,
@@ -683,12 +747,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160803,
+      "num": 160803,
+      "word": "粉丝在韩国为金秀贤投放应援大屏",
+      "onboard_time": 1742619022,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157495,
       "num": 204271,
       "word": "成毅的外媒镜头",
       "onboard_time": 1742614820,
       "rank": 33,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 152450,
+      "num": 152450,
+      "word": "无期迷途",
+      "onboard_time": 1742620642,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 152229,
@@ -787,6 +867,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 130396,
+      "num": 130396,
+      "word": "以闪亮之名",
+      "onboard_time": 1742619561,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129235,
       "num": 211731,
       "word": "披荆斩棘的哥哥5拟邀嘉宾名单",
@@ -843,14 +931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118386,
-      "num": 118386,
-      "word": "床垫骗局",
-      "onboard_time": 1742618542,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118151,
       "num": 118151,
       "word": "男子相亲谎称不育骗单亲妈妈295万",
@@ -881,6 +961,14 @@
       "onboard_time": 1742565743,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113317,
+      "num": 113317,
+      "word": "贺峻霖爆料牛在在不爱洗澡",
+      "onboard_time": 1742620822,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 112664,
@@ -1163,14 +1251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57330,
-      "num": 169420,
-      "word": "加沙人再一次开始逃亡",
-      "onboard_time": 1742617282,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 56788,
       "num": 56788,
       "word": "国足球迷遭沙特球迷歧视",
@@ -1233,6 +1313,14 @@
       "onboard_time": 1742595195,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43503,
+      "num": 187155,
+      "word": "特朗普称正在商谈分割乌克兰土地",
+      "onboard_time": 1742620462,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41905,
@@ -1323,12 +1411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31063,
+      "num": 261645,
+      "word": "3名00后非法套现近10万",
+      "onboard_time": 1742620642,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30104,
       "num": 34520,
       "word": "周冠宇想成为F1的中国破冰者",
       "onboard_time": 1742598797,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29512,
+      "num": 292735,
+      "word": "特朗普称不想跟中国发生任何战争",
+      "onboard_time": 1742620341,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26743,
@@ -1363,12 +1467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25708,
+      "num": 509361,
+      "word": "晨雾中春日梯田恬静感拉满",
+      "onboard_time": 1742617882,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25009,
       "num": 148721,
       "word": "懒人洗衣机时间管理大师",
       "onboard_time": 1742615421,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 24195,
+      "num": 175780,
+      "word": "人人人F1人人人",
+      "onboard_time": 1742620882,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 23992,
@@ -1427,20 +1547,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 15592,
-      "num": 509361,
-      "word": "晨雾中春日梯田恬静感拉满",
-      "onboard_time": 1742617882,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15188,
       "num": 24295,
       "word": "陈都灵辛云来你们不要再打了",
       "onboard_time": 1742596155,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12308,
+      "num": 306893,
+      "word": "湖南一地推购房7天无理由退订",
+      "onboard_time": 1742620462,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12200,
@@ -1473,6 +1593,14 @@
       "onboard_time": 1742587873,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9417,
+      "num": 161973,
+      "word": "AWE家电展上的黑科技",
+      "onboard_time": 1742620462,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8829,
