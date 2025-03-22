@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742656943915,
+  "endTime": 1742657772096,
   "band_list": [
     {
       "raw_hot": 4374487,
@@ -571,12 +571,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410101,
+      "num": 410101,
+      "word": "汪苏泷 我们",
+      "onboard_time": 1742654783,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 409892,
       "num": 441522,
       "word": "月经量少到什么程度是异常",
       "onboard_time": 1742615363,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 407875,
+      "num": 310384,
+      "word": "日本连锁店承认味噌汤中混入老鼠尸体",
+      "onboard_time": 1742655923,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 403050,
@@ -731,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340140,
+      "num": 294426,
+      "word": "全款140万买到230平房子",
+      "onboard_time": 1742654783,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 339589,
       "num": 381113,
       "word": "3名00后非法套现近10万",
@@ -761,14 +785,6 @@
       "onboard_time": 1742637200,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 326548,
-      "num": 294426,
-      "word": "全款140万买到230平房子",
-      "onboard_time": 1742654783,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 322719,
@@ -833,14 +849,6 @@
       "onboard_time": 1742578816,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 310384,
-      "num": 310384,
-      "word": "日本连锁店承认味噌汤中混入老鼠尸体",
-      "onboard_time": 1742655923,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 309082,
@@ -1059,20 +1067,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 240478,
-      "num": 331485,
-      "word": "汪苏泷 我们",
-      "onboard_time": 1742654783,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 240415,
       "num": 240415,
       "word": "光与夜之恋",
       "onboard_time": 1742617282,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 237275,
+      "num": 237275,
+      "word": "汪苏泷黑幕王源点歌",
+      "onboard_time": 1742657482,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 236176,
@@ -2236,7 +2244,7 @@
     },
     {
       "raw_hot": 136750,
-      "num": 136750,
+      "num": 268125,
       "word": "古埃及房子着火要先救猫",
       "onboard_time": 1742655382,
       "rank": 38,
@@ -2691,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111580,
+      "num": 111580,
+      "word": "2025华晨宇火星演唱会",
+      "onboard_time": 1742656642,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110820,
       "num": 222039,
       "word": "有年轻人把打火机燃料当毒品吸",
@@ -2819,14 +2835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102798,
-      "num": 102798,
-      "word": "2025华晨宇火星演唱会",
-      "onboard_time": 1742656642,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 102562,
       "num": 102562,
       "word": "孙颖莎对手才上小学六年级",
@@ -2851,12 +2859,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100964,
+      "num": 100964,
+      "word": "宋妍霏初舞台",
+      "onboard_time": 1742657361,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100921,
       "num": 100921,
       "word": "F1排位赛",
       "onboard_time": 1742636181,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100652,
+      "num": 100652,
+      "word": "黄霄雲演唱会",
+      "onboard_time": 1742657482,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 100353,
@@ -2971,6 +2995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91292,
+      "num": 91292,
+      "word": "白客 人夫感",
+      "onboard_time": 1742657723,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91275,
       "num": 91275,
       "word": "医院自助取袋机被曝性别定制广告",
@@ -2985,6 +3017,14 @@
       "onboard_time": 1742621542,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90186,
+      "num": 90186,
+      "word": "林志颖发博晒F1中国站颁奖名场面",
+      "onboard_time": 1742657121,
+      "rank": 45,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 89462,
@@ -3019,6 +3059,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 85016,
+      "num": 85016,
+      "word": "卓沅是春天的感觉",
+      "onboard_time": 1742657361,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84574,
       "num": 84574,
       "word": "乌拉圭0比1阿根廷",
@@ -3049,6 +3097,14 @@
       "onboard_time": 1742592675,
       "rank": 7,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 83570,
+      "num": 83570,
+      "word": "刘诗雯希望享受最后一个赛场",
+      "onboard_time": 1742655803,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 82042,
@@ -3379,6 +3435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39674,
+      "num": 319623,
+      "word": "商贩腌制毒腊肉火腿出售获刑",
+      "onboard_time": 1742656223,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39259,
       "num": 39259,
       "word": "2025年瑞士羽毛球公开赛",
@@ -3483,6 +3547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30807,
+      "num": 236458,
+      "word": "特朗普要造的六代机F47靠谱吗",
+      "onboard_time": 1742657422,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30518,
       "num": 261455,
       "word": "土耳其发生大规模反政府抗议活动",
@@ -3552,6 +3624,14 @@
       "word": "湖南一地推购房7天无理由退订",
       "onboard_time": 1742620462,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25469,
+      "num": 244052,
+      "word": "武汉春日限定汉服美到窒息",
+      "onboard_time": 1742656822,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3643,14 +3723,6 @@
       "category": "艺人,美食"
     },
     {
-      "raw_hot": 20610,
-      "num": 244052,
-      "word": "武汉春日限定汉服美到窒息",
-      "onboard_time": 1742656822,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19299,
       "num": 161973,
       "word": "AWE家电展上的黑科技",
@@ -3673,14 +3745,6 @@
       "onboard_time": 1742581574,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 18011,
-      "num": 319623,
-      "word": "商贩腌制毒腊肉火腿出售获刑",
-      "onboard_time": 1742656223,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15188,
