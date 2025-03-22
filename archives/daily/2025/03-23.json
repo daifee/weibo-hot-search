@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742675831165,
+  "endTime": 1742678464827,
   "band_list": [
     {
       "raw_hot": 1694206,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 67860,
-      "num": 67860,
+      "num": 119731,
       "word": "上百万买的藏品只有一件是真品",
       "onboard_time": 1742669055,
       "rank": 18,
@@ -451,6 +451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35207,
+      "num": 35207,
+      "word": "泽连斯基拒绝部署联合国维和部队方案",
+      "onboard_time": 1742653822,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32848,
       "num": 39302,
       "word": "袁一琦演唱会成都站",
@@ -497,14 +505,6 @@
       "onboard_time": 1742670015,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24280,
-      "num": 28920,
-      "word": "泽连斯基拒绝部署联合国维和部队方案",
-      "onboard_time": 1742653822,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 24001,
@@ -563,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14224,
+      "num": 14224,
+      "word": "4000多年前中国人设计的天文设施",
+      "onboard_time": 1742676735,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13284,
       "num": 14309,
       "word": "汪苏泷杨千嬅合唱人情世故",
@@ -571,12 +579,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 9946,
+      "raw_hot": 10742,
       "num": 21364,
       "word": "抬头仰望的中华美学",
       "onboard_time": 1742674634,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10617,
+      "num": 13977,
+      "word": "我国成功发射云遥一号43-48星",
+      "onboard_time": 1742677814,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 10252,
+      "num": 13964,
+      "word": "金正恩强调继续对俄支持",
+      "onboard_time": 1742677635,
+      "rank": 49,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
