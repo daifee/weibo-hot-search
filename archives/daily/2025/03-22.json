@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742628978665,
+  "endTime": 1742632075191,
   "band_list": [
     {
       "raw_hot": 4374487,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 729257,
+      "num": 209796,
+      "word": "吴宣仪不投宋妍霏当队长",
+      "onboard_time": 1742628980,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 729058,
       "num": 697390,
       "word": "柯淳想结婚了",
@@ -136,6 +144,14 @@
       "word": "多方回应学生坠亡家长怀疑被霸凌",
       "onboard_time": 1742621961,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 675718,
+      "num": 1108114,
+      "word": "海关扣下价值11万元盲盒",
+      "onboard_time": 1742626222,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -187,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553716,
+      "num": 553716,
+      "word": "楼下住户报警30多次逼走楼上3任租客",
+      "onboard_time": 1742628141,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 550725,
       "num": 550725,
       "word": "金价开跌",
@@ -209,6 +233,14 @@
       "onboard_time": 1742621542,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 499892,
+      "num": 209767,
+      "word": "她救弟弟那刻所有偶像剧都弱爆了",
+      "onboard_time": 1742628980,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 488982,
@@ -403,6 +435,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 348913,
+      "num": 348913,
+      "word": "李小冉自曝曾跟爸爸断绝关系一年半",
+      "onboard_time": 1742627839,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343191,
       "num": 343191,
       "word": "北京将重点查处幽灵外卖",
@@ -416,6 +456,14 @@
       "word": "3名00后非法套现近10万",
       "onboard_time": 1742620642,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322613,
+      "num": 322613,
+      "word": "复旦退学研究生摆摊前都没做过饭",
+      "onboard_time": 1742629160,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -475,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266832,
-      "num": 266832,
-      "word": "李小冉自曝曾跟爸爸断绝关系一年半",
-      "onboard_time": 1742627839,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263767,
       "num": 126511,
       "word": "经期3天和7天的女性谁老得更快",
@@ -499,6 +539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 256984,
+      "num": 322778,
+      "word": "男子砸碎周大福柜台抢走珠宝被刑拘",
+      "onboard_time": 1742630600,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256598,
       "num": 256598,
       "word": "让李荣浩发飙的NFC到底是啥",
@@ -513,6 +561,14 @@
       "onboard_time": 1742600178,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248578,
+      "num": 256458,
+      "word": "孙颖莎vs覃予萱",
+      "onboard_time": 1742628021,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 246594,
@@ -561,6 +617,14 @@
       "onboard_time": 1742566943,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233599,
+      "num": 209514,
+      "word": "房琪在浪姐接私活",
+      "onboard_time": 1742629641,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 233485,
@@ -651,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209432,
+      "num": 180289,
+      "word": "张杰说谢娜是仙女",
+      "onboard_time": 1742631322,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207590,
       "num": 214255,
       "word": "SM新男团预计11月份出道",
@@ -681,14 +753,6 @@
       "onboard_time": 1742569344,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205471,
-      "num": 256458,
-      "word": "孙颖莎vs覃予萱",
-      "onboard_time": 1742628021,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 204139,
@@ -803,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192874,
+      "num": 192874,
+      "word": "minju唱了容祖儿的没关系",
+      "onboard_time": 1742631622,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192689,
       "num": 192689,
       "word": "时代少年团横店录制",
@@ -865,6 +937,14 @@
       "onboard_time": 1742627061,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184811,
+      "num": 184811,
+      "word": "英伟达CEO盛赞华为",
+      "onboard_time": 1742631201,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 184647,
@@ -971,6 +1051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 167208,
+      "num": 167208,
+      "word": "邓为新剧横店置景",
+      "onboard_time": 1742630781,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165858,
       "num": 274512,
       "word": "姚明范志毅F1围场同框",
@@ -1075,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146322,
+      "num": 188875,
+      "word": "约8%的人经历过鬼压床",
+      "onboard_time": 1742626101,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145684,
       "num": 145684,
       "word": "newjeans",
@@ -1107,14 +1203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141046,
-      "num": 188875,
-      "word": "约8%的人经历过鬼压床",
-      "onboard_time": 1742626101,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 137249,
       "num": 137249,
       "word": "南昌300元一个月的出租房",
@@ -1145,6 +1233,14 @@
       "onboard_time": 1742598738,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133419,
+      "num": 133419,
+      "word": "黄雀",
+      "onboard_time": 1742631563,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 131694,
@@ -1219,6 +1315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125608,
+      "num": 125608,
+      "word": "朱雀回家",
+      "onboard_time": 1742629461,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125555,
       "num": 204868,
       "word": "王源宇宙超级无敌大客厅狂欢",
@@ -1281,6 +1385,14 @@
       "onboard_time": 1742603841,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117699,
+      "num": 117699,
+      "word": "河北女团0比1北京女团",
+      "onboard_time": 1742629461,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 116875,
@@ -1363,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110326,
+      "num": 110326,
+      "word": "复旦退学摆摊研究生将侧重自媒体",
+      "onboard_time": 1742631261,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110118,
       "num": 110118,
       "word": "赵今麦宋威龙骄阳似我一家三口路透",
@@ -1377,6 +1497,14 @@
       "onboard_time": 1742623401,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 108397,
+      "num": 108397,
+      "word": "孟子义乘风端水的神",
+      "onboard_time": 1742631860,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 107709,
@@ -1521,6 +1649,22 @@
       "onboard_time": 1742615299,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92452,
+      "num": 92452,
+      "word": "传下去何老师有六块腹肌",
+      "onboard_time": 1742629761,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92343,
+      "num": 146345,
+      "word": "孙颖莎切换莎指导模式",
+      "onboard_time": 1742628861,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 91275,
@@ -1699,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60050,
+      "num": 209908,
+      "word": "劳森又垫底",
+      "onboard_time": 1742631380,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58512,
       "num": 60986,
       "word": "王宝强李乃文跳李羲承进行曲",
@@ -1712,6 +1864,14 @@
       "word": "国足球迷遭沙特球迷歧视",
       "onboard_time": 1742594775,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55405,
+      "num": 210026,
+      "word": "皮亚斯特里夺F1中国站杆位",
+      "onboard_time": 1742631741,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -1785,14 +1945,6 @@
       "onboard_time": 1742618181,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39925,
-      "num": 177155,
-      "word": "楼下住户报警30多次逼走楼上3任租客",
-      "onboard_time": 1742628141,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39259,
@@ -1883,12 +2035,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28044,
-      "num": 146345,
-      "word": "孙颖莎切换莎指导模式",
-      "onboard_time": 1742628861,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 27053,
+      "num": 186286,
+      "word": "在云南万物皆可咖",
+      "onboard_time": 1742631261,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26743,
@@ -2019,6 +2171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13976,
+      "num": 209429,
+      "word": "别过度迷恋摆摊一夜致富的神话",
+      "onboard_time": 1742631860,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12200,
       "num": 89513,
       "word": "成长就是由无数个第一次组成的",
@@ -2057,6 +2217,14 @@
       "onboard_time": 1742612902,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7370,
+      "num": 520398,
+      "word": "神十九乘组圆满完成第3次出舱",
+      "onboard_time": 1742631802,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2068,6 +2236,9 @@
     },
     {
       "word": "#习近平点赞的这座古城为何长盛#"
+    },
+    {
+      "word": "#习近平云贵行为何频提开放#"
     }
   ]
 }
