@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742664974465,
+  "endTime": 1742668180503,
   "band_list": [
     {
       "raw_hot": 1694206,
@@ -465,6 +465,46 @@
       "onboard_time": 1742651843,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24394,
+      "num": 97486,
+      "word": "开往春天的列车出发了",
+      "onboard_time": 1742651243,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24001,
+      "num": 29037,
+      "word": "戚薇李承铉把妻子当换装游戏",
+      "onboard_time": 1742640201,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 21382,
+      "num": 28932,
+      "word": "黄霄雲现场搞梗教罗云熙粤语",
+      "onboard_time": 1742667495,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 21331,
+      "num": 28920,
+      "word": "泽连斯基拒绝部署联合国维和部队方案",
+      "onboard_time": 1742653822,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 18713,
+      "num": 28951,
+      "word": "我国首次举办世界室内田径锦标赛",
+      "onboard_time": 1742665936,
+      "rank": 45,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
