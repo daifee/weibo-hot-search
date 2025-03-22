@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742685760156,
+  "endTime": 1742686592882,
   "band_list": [
     {
       "raw_hot": 1694206,
@@ -43,6 +43,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 528661,
+      "num": 894585,
+      "word": "张翰回应停更三年",
+      "onboard_time": 1742686518,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 468333,
+      "num": 468333,
+      "word": "杭州交警回应网友称兔子警官被撞",
+      "onboard_time": 1742686518,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443542,
       "num": 162736,
       "word": "榜一大哥带3500页聊天记录报案",
@@ -81,6 +97,14 @@
       "onboard_time": 1742643923,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 286886,
+      "num": 748071,
+      "word": "上百万买的藏品只有一件是真品",
+      "onboard_time": 1742669055,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285671,
@@ -123,14 +147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247928,
-      "num": 748071,
-      "word": "上百万买的藏品只有一件是真品",
-      "onboard_time": 1742669055,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 240753,
       "num": 240753,
       "word": "汪苏泷黑幕王源点歌",
@@ -171,8 +187,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177801,
-      "num": 177801,
+      "raw_hot": 191042,
+      "num": 191042,
       "word": "金正恩强调继续对俄支持",
       "onboard_time": 1742677635,
       "rank": 49,
@@ -208,6 +224,14 @@
       "word": "浪姐那群人是不是打错电话了",
       "onboard_time": 1742650583,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128044,
+      "num": 128044,
+      "word": "戚薇李承铉把妻子当换装游戏",
+      "onboard_time": 1742640201,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -251,12 +275,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 109510,
-      "num": 86224,
-      "word": "戚薇李承铉把妻子当换装游戏",
-      "onboard_time": 1742640201,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 106404,
+      "num": 106404,
+      "word": "泽连斯基拒绝部署联合国维和部队方案",
+      "onboard_time": 1742653822,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 103635,
+      "num": 103635,
+      "word": "花花花人人花花花",
+      "onboard_time": 1742686518,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103461,
@@ -283,6 +315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 99828,
+      "num": 105735,
+      "word": "三次开颅网红吴忠华耳朵内又长东西",
+      "onboard_time": 1742642182,
+      "rank": 36,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 98082,
       "num": 98082,
       "word": "陈都灵的红包",
@@ -305,22 +345,6 @@
       "onboard_time": 1742656523,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89002,
-      "num": 89002,
-      "word": "泽连斯基拒绝部署联合国维和部队方案",
-      "onboard_time": 1742653822,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 88390,
-      "num": 88390,
-      "word": "三次开颅网红吴忠华耳朵内又长东西",
-      "onboard_time": 1742642182,
-      "rank": 36,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 84967,
@@ -353,6 +377,14 @@
       "onboard_time": 1742662639,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75492,
+      "num": 75492,
+      "word": "你以为没事实际巨伤眼的行为",
+      "onboard_time": 1742681115,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 75467,
@@ -451,6 +483,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 55882,
+      "num": 54040,
+      "word": "王楚钦赛后一层一层包好球拍",
+      "onboard_time": 1742684836,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55584,
+      "num": 55584,
+      "word": "张艺兴为黄渤王迅宣传新电影",
+      "onboard_time": 1742684836,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 52768,
       "num": 59233,
       "word": "王楚钦马龙11比1杨硕袁励岑",
@@ -459,36 +507,44 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51432,
-      "num": 48745,
-      "word": "你以为没事实际巨伤眼的行为",
-      "onboard_time": 1742681115,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 48101,
-      "num": 48101,
-      "word": "王楚钦赛后一层一层包好球拍",
-      "onboard_time": 1742684836,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 42648,
-      "num": 42648,
-      "word": "张艺兴为黄渤王迅宣传新电影",
-      "onboard_time": 1742684836,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 40021,
-      "num": 178061,
+      "raw_hot": 47868,
+      "num": 360089,
       "word": "开往春天的列车出发了",
       "onboard_time": 1742651243,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45209,
+      "num": 143666,
+      "word": "网友出海钓鱼在海上捡到个小孩",
+      "onboard_time": 1742685796,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44063,
+      "num": 44063,
+      "word": "银川地震",
+      "onboard_time": 1742685977,
+      "rank": 35,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 43027,
+      "num": 43027,
+      "word": "汪苏泷演唱会上喊大家补妆",
+      "onboard_time": 1742684776,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 40386,
+      "num": 40386,
+      "word": "金秀贤可能被刑法处罚",
+      "onboard_time": 1742686518,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 39716,
@@ -507,6 +563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 36706,
+      "num": 36706,
+      "word": "2天18场马拉松开跑",
+      "onboard_time": 1742685076,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 32848,
       "num": 39302,
       "word": "袁一琦演唱会成都站",
@@ -523,12 +587,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 31638,
-      "num": 31638,
-      "word": "汪苏泷演唱会上喊大家补妆",
-      "onboard_time": 1742684776,
-      "rank": 34,
-      "category": "演出"
+      "raw_hot": 29554,
+      "num": 30750,
+      "word": "一些金包银首饰效果只有几个月",
+      "onboard_time": 1742673915,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26443,
@@ -537,14 +601,6 @@
       "onboard_time": 1742669535,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 25466,
-      "num": 30750,
-      "word": "一些金包银首饰效果只有几个月",
-      "onboard_time": 1742673915,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25207,
@@ -587,14 +643,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 24323,
-      "num": 30703,
-      "word": "2天18场马拉松开跑",
-      "onboard_time": 1742685076,
-      "rank": 47,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 21382,
       "num": 28932,
       "word": "黄霄雲现场搞梗教罗云熙粤语",
@@ -625,6 +673,14 @@
       "onboard_time": 1742665936,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14102,
+      "num": 54213,
+      "word": "以色列对黎巴嫩发动新一轮空袭",
+      "onboard_time": 1742686217,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13284,
