@@ -1,0 +1,410 @@
+{
+  "runTime": 1742642377438,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1910827,
+        "num": 1910827,
+        "word": "榜一大哥带3500页聊天记录报案",
+        "onboard_time": 1742637442,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722766,
+        "num": 722766,
+        "word": "热热热你冷冷冷",
+        "onboard_time": 1742637081,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40911,
+        "num": 607735,
+        "word": "神十九乘组圆满完成第3次出舱",
+        "onboard_time": 1742631802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588355,
+        "num": 588355,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1742640562,
+        "rank": 3,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 573773,
+        "num": 573773,
+        "word": "著名演员高英逝世",
+        "onboard_time": 1742633661,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486440,
+        "num": 486440,
+        "word": "虞书欣95花第一部全集有广现偶",
+        "onboard_time": 1742638460,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381110,
+        "num": 381110,
+        "word": "中国空间站将迎皮肤可再生的涡虫",
+        "onboard_time": 1742637322,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353382,
+        "num": 353382,
+        "word": "女校实体书",
+        "onboard_time": 1742635820,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 340980,
+        "num": 340980,
+        "word": "中日韩三国外长达成共识",
+        "onboard_time": 1742635041,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166997,
+        "num": 340904,
+        "word": "卖房留学女孩一年后回国读专科",
+        "onboard_time": 1742637081,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 927460,
+        "num": 339603,
+        "word": "瑶一瑶妈妈透露女儿上学状态",
+        "onboard_time": 1742638460,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 384698,
+        "num": 337348,
+        "word": "newjeans韩网口碑",
+        "onboard_time": 1742637862,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361397,
+        "num": 336717,
+        "word": "外网丑猫",
+        "onboard_time": 1742636121,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335714,
+        "num": 335714,
+        "word": "戚薇李承铉把妻子当换装游戏",
+        "onboard_time": 1742640201,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327228,
+        "num": 327228,
+        "word": "下周可能更热",
+        "onboard_time": 1742633602,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95669,
+        "num": 324407,
+        "word": "卓沅李昊又对土豆下手了",
+        "onboard_time": 1742638280,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323265,
+        "num": 323265,
+        "word": "楼下住户报警30多次逼走楼上3任租客",
+        "onboard_time": 1742628141,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235085,
+        "num": 256078,
+        "word": "宋妍霏浪姐6人缘",
+        "onboard_time": 1742637561,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244759,
+        "num": 244759,
+        "word": "又一种生命体将来到中国空间站",
+        "onboard_time": 1742637081,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209974,
+        "num": 241043,
+        "word": "Henry和库克同框",
+        "onboard_time": 1742641522,
+        "rank": 19,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 745713,
+        "num": 237449,
+        "word": "汪苏泷向李荣浩道歉",
+        "onboard_time": 1742632281,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211747,
+        "num": 235162,
+        "word": "鞠婧祎丝绒绿裙造型",
+        "onboard_time": 1742638942,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402165,
+        "num": 228985,
+        "word": "我和吴宣仪复婚了",
+        "onboard_time": 1742620701,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227840,
+        "num": 227840,
+        "word": "熬夜千万不要长时间补觉",
+        "onboard_time": 1742638761,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115831,
+        "num": 223748,
+        "word": "孙颖莎亮晶晶",
+        "onboard_time": 1742641821,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223434,
+        "num": 223434,
+        "word": "萨摩耶骨相一般全靠发型",
+        "onboard_time": 1742632641,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213183,
+        "num": 213183,
+        "word": "翔霖",
+        "onboard_time": 1742641941,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201081,
+        "num": 201081,
+        "word": "不好看但健康的女生特征",
+        "onboard_time": 1742633181,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185959,
+        "num": 185959,
+        "word": "bighit新男团路透",
+        "onboard_time": 1742641880,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171825,
+        "num": 183076,
+        "word": "雁回时",
+        "onboard_time": 1742636722,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182627,
+        "num": 182627,
+        "word": "男子携代孕遗腹子争妻子千万遗产",
+        "onboard_time": 1742614521,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174825,
+        "num": 174825,
+        "word": "TVB前港姐乳腺癌复发病情告急",
+        "onboard_time": 1742642002,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164687,
+        "num": 164687,
+        "word": "日本闹市区惊现数十块人体碎片",
+        "onboard_time": 1742635702,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164105,
+        "num": 164105,
+        "word": "杨天真库克一起爬景山公园",
+        "onboard_time": 1742641342,
+        "rank": 33,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 160716,
+        "num": 160716,
+        "word": "黄雀 好看",
+        "onboard_time": 1742641642,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154083,
+        "num": 154083,
+        "word": "林孝埈周冠宇围场互动",
+        "onboard_time": 1742640861,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137615,
+        "num": 137615,
+        "word": "张子枫演技",
+        "onboard_time": 1742636961,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136887,
+        "num": 136887,
+        "word": "女子买到假迪奥小样牵出330万大案",
+        "onboard_time": 1742622741,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134864,
+        "num": 134864,
+        "word": "小学二年级男孩写字堪比打印机",
+        "onboard_time": 1742641101,
+        "rank": 38,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 131024,
+        "num": 131024,
+        "word": "武汉大学樱花大道变身帅哥T台",
+        "onboard_time": 1742642002,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25198,
+        "num": 129456,
+        "word": "胡兵中国国际时装周走秀",
+        "onboard_time": 1742639542,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128322,
+        "num": 128322,
+        "word": "为什么这么多人排斥洗衣池",
+        "onboard_time": 1742641462,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126481,
+        "num": 126481,
+        "word": "小兰玩具",
+        "onboard_time": 1742636780,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 126182,
+        "num": 126182,
+        "word": "澳门偶遇Angelababy打高尔夫",
+        "onboard_time": 1742642061,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125010,
+        "num": 125010,
+        "word": "三次开颅网红吴忠华耳朵内又长东西",
+        "onboard_time": 1742642182,
+        "rank": 44,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 120172,
+        "num": 120172,
+        "word": "小说坠落",
+        "onboard_time": 1742642300,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118020,
+        "num": 118020,
+        "word": "阮惜文好会阴阳",
+        "onboard_time": 1742640922,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114561,
+        "num": 114561,
+        "word": "雁回时第11集齁甜",
+        "onboard_time": 1742642300,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114343,
+        "num": 114343,
+        "word": "金饰价格跌到916元",
+        "onboard_time": 1742641701,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112922,
+        "num": 112922,
+        "word": "孙颖莎看李雅可的眼神好可爱",
+        "onboard_time": 1742635941,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平云贵行为何频提开放#"
+    }
+  }
+}

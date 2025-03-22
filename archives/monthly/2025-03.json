@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742640158372,
+  "endTime": 1742642377438,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1243,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1910827,
+      "num": 1910827,
+      "word": "榜一大哥带3500页聊天记录报案",
+      "onboard_time": 1742637442,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1910267,
       "num": 1910267,
       "word": "盒马不再对标山姆",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1741403605,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1874012,
-      "num": 1874012,
-      "word": "榜一大哥带3500页聊天记录报案",
-      "onboard_time": 1742637442,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1868504,
@@ -5235,6 +5235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 927460,
+      "num": 348477,
+      "word": "瑶一瑶妈妈透露女儿上学状态",
+      "onboard_time": 1742638460,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 927419,
       "num": 413772,
       "word": "金秀贤金赛纶2015年被拍到过",
@@ -7579,6 +7587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 722766,
+      "num": 722766,
+      "word": "热热热你冷冷冷",
+      "onboard_time": 1742637081,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 722698,
       "num": 597546,
       "word": "王楚然演妖妃",
@@ -8364,7 +8380,7 @@
     },
     {
       "raw_hot": 670717,
-      "num": 459829,
+      "num": 486440,
       "word": "虞书欣95花第一部全集有广现偶",
       "onboard_time": 1742638460,
       "rank": 12,
@@ -9737,6 +9753,14 @@
       "onboard_time": 1740985278,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 588355,
+      "num": 588355,
+      "word": "饿瘦和运动瘦的区别",
+      "onboard_time": 1742640562,
+      "rank": 3,
+      "category": "运动健身"
     },
     {
       "raw_hot": 587688,
@@ -11401,14 +11425,6 @@
       "onboard_time": 1741169179,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 509449,
-      "num": 509449,
-      "word": "热热热你冷冷冷",
-      "onboard_time": 1742637081,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 509058,
@@ -13225,14 +13241,6 @@
       "onboard_time": 1741784364,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 437506,
-      "num": 348477,
-      "word": "瑶一瑶妈妈透露女儿上学状态",
-      "onboard_time": 1742638460,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 437414,
@@ -15099,6 +15107,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 384698,
+      "num": 337348,
+      "word": "newjeans韩网口碑",
+      "onboard_time": 1742637862,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384578,
       "num": 384578,
       "word": "李宁 王楚钦",
@@ -15225,6 +15241,14 @@
       "onboard_time": 1741232897,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 381110,
+      "num": 383911,
+      "word": "中国空间站将迎皮肤可再生的涡虫",
+      "onboard_time": 1742637322,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 380978,
@@ -16395,6 +16419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353382,
+      "num": 353382,
+      "word": "女校实体书",
+      "onboard_time": 1741434262,
+      "rank": 40,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 353253,
       "num": 353253,
       "word": "沈阳要求小米su7ultra车主签安全承诺书",
@@ -17193,6 +17225,14 @@
       "onboard_time": 1741700064,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335714,
+      "num": 335714,
+      "word": "戚薇李承铉把妻子当换装游戏",
+      "onboard_time": 1742640201,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 335702,
@@ -22675,6 +22715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244759,
+      "num": 244759,
+      "word": "又一种生命体将来到中国空间站",
+      "onboard_time": 1742637081,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 244692,
       "num": 244692,
       "word": "稚楚发声",
@@ -23081,14 +23129,6 @@
       "onboard_time": 1740903918,
       "rank": 46,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 240061,
-      "num": 240061,
-      "word": "newjeans韩网口碑",
-      "onboard_time": 1742637862,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 240038,
@@ -24153,6 +24193,14 @@
       "onboard_time": 1742132305,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 227840,
+      "num": 227840,
+      "word": "熬夜千万不要长时间补觉",
+      "onboard_time": 1742638761,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 227748,
@@ -26299,6 +26347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211747,
+      "num": 235162,
+      "word": "鞠婧祎丝绒绿裙造型",
+      "onboard_time": 1742638942,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211738,
       "num": 211738,
       "word": "赵丽颖学舞花絮",
@@ -26385,14 +26441,6 @@
       "onboard_time": 1741320443,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211069,
-      "num": 211069,
-      "word": "鞠婧祎丝绒绿裙造型",
-      "onboard_time": 1742638942,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 211000,
@@ -26505,6 +26553,14 @@
       "onboard_time": 1741956324,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209974,
+      "num": 241043,
+      "word": "Henry和库克同框",
+      "onboard_time": 1742641522,
+      "rank": 19,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 209970,
@@ -31683,6 +31739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185959,
+      "num": 185959,
+      "word": "bighit新男团路透",
+      "onboard_time": 1742641880,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185925,
       "num": 440623,
       "word": "李嘉诚出售的港口有多重要",
@@ -33779,6 +33843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174825,
+      "num": 174825,
+      "word": "TVB前港姐乳腺癌复发病情告急",
+      "onboard_time": 1742642002,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174770,
       "num": 207437,
       "word": "开具告诫书后家暴复发率不到2%",
@@ -34659,14 +34731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170306,
-      "num": 383911,
-      "word": "中国空间站将迎皮肤可再生的涡虫",
-      "onboard_time": 1742637322,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 170259,
       "num": 170259,
       "word": "TES战胜AL",
@@ -35483,6 +35547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 166997,
+      "num": 340904,
+      "word": "卖房留学女孩一年后回国读专科",
+      "onboard_time": 1742637081,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166975,
       "num": 347117,
       "word": "杨幂巴黎时装周",
@@ -36209,6 +36281,14 @@
       "onboard_time": 1740834803,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164105,
+      "num": 164105,
+      "word": "杨天真库克一起爬景山公园",
+      "onboard_time": 1742641342,
+      "rank": 33,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 164097,
@@ -37067,6 +37147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160716,
+      "num": 160716,
+      "word": "黄雀 好看",
+      "onboard_time": 1742641642,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160592,
       "num": 160592,
       "word": "这部剧拍了好多经典骗局",
@@ -37779,14 +37867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157684,
-      "num": 157684,
-      "word": "卖房留学女孩一年后回国读专科",
-      "onboard_time": 1742637081,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157670,
       "num": 157670,
       "word": "菜刀哥曾在暴雨中劈车勇救祖孙3人",
@@ -38129,14 +38209,6 @@
       "onboard_time": 1742400563,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 156467,
-      "num": 156467,
-      "word": "熬夜千万不要长时间补觉",
-      "onboard_time": 1742638761,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 156353,
@@ -38689,6 +38761,14 @@
       "onboard_time": 1741242858,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154083,
+      "num": 154083,
+      "word": "林孝埈周冠宇围场互动",
+      "onboard_time": 1742640861,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 154062,
@@ -39323,14 +39403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152012,
-      "num": 152012,
-      "word": "女校实体书",
-      "onboard_time": 1741434262,
-      "rank": 40,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 152011,
       "num": 152011,
       "word": "段奥娟一生要出片的中国女人",
@@ -39457,14 +39529,6 @@
       "onboard_time": 1741460235,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151573,
-      "num": 151573,
-      "word": "又一种生命体将来到中国空间站",
-      "onboard_time": 1742637081,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 151510,
@@ -44019,6 +44083,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 134864,
+      "num": 134864,
+      "word": "小学二年级男孩写字堪比打印机",
+      "onboard_time": 1742641101,
+      "rank": 38,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 134848,
       "num": 134848,
       "word": "我是大彬同学回应鸿蒙智行法务",
@@ -44987,6 +45059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131024,
+      "num": 131024,
+      "word": "武汉大学樱花大道变身帅哥T台",
+      "onboard_time": 1742642002,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131010,
       "num": 131010,
       "word": "周思成英文回应不接何凯文语音",
@@ -45699,6 +45779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128322,
+      "num": 128322,
+      "word": "为什么这么多人排斥洗衣池",
+      "onboard_time": 1742641462,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128275,
       "num": 128275,
       "word": "LPL",
@@ -46387,6 +46475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 126182,
+      "num": 126182,
+      "word": "澳门偶遇Angelababy打高尔夫",
+      "onboard_time": 1742642061,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126171,
       "num": 126171,
       "word": "以中国的确定性稳住不确定的世界",
@@ -46793,6 +46889,14 @@
       "onboard_time": 1742133325,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125010,
+      "num": 125010,
+      "word": "三次开颅网红吴忠华耳朵内又长东西",
+      "onboard_time": 1742642182,
+      "rank": 44,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 124985,
@@ -48243,6 +48347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120172,
+      "num": 120172,
+      "word": "小说坠落",
+      "onboard_time": 1742642300,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 120141,
       "num": 120141,
       "word": "张元英四月刊封面",
@@ -48899,6 +49011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118020,
+      "num": 118020,
+      "word": "阮惜文好会阴阳",
+      "onboard_time": 1742640922,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118006,
       "num": 118006,
       "word": "雁回时第10集好看",
@@ -49339,6 +49459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115831,
+      "num": 223748,
+      "word": "孙颖莎亮晶晶",
+      "onboard_time": 1742641821,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115772,
       "num": 281119,
       "word": "建议将规制隐性加班列入监督",
@@ -49659,6 +49787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114561,
+      "num": 114561,
+      "word": "雁回时第11集齁甜",
+      "onboard_time": 1742642300,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114500,
       "num": 132517,
       "word": "湖人战胜快船",
@@ -49697,6 +49833,14 @@
       "onboard_time": 1741937904,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114343,
+      "num": 114343,
+      "word": "金饰价格跌到916元",
+      "onboard_time": 1742641701,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 114339,
@@ -54625,6 +54769,14 @@
       "onboard_time": 1742512638,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95669,
+      "num": 364298,
+      "word": "卓沅李昊又对土豆下手了",
+      "onboard_time": 1742638280,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 95663,
@@ -66315,14 +66467,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 30842,
-      "num": 364298,
-      "word": "卓沅李昊又对土豆下手了",
-      "onboard_time": 1742638280,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 30800,
       "num": 196153,
       "word": "夸克居然可以个性化定制面经",
@@ -67657,6 +67801,14 @@
       "onboard_time": 1742632460,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25198,
+      "num": 167748,
+      "word": "胡兵中国国际时装周走秀",
+      "onboard_time": 1742639542,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 25147,
@@ -69121,14 +69273,6 @@
       "onboard_time": 1741440624,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19059,
-      "num": 167748,
-      "word": "胡兵中国国际时装周走秀",
-      "onboard_time": 1742639542,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 19031,

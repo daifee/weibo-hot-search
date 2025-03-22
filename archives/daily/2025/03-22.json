@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742640158372,
+  "endTime": 1742642377438,
   "band_list": [
     {
       "raw_hot": 4374487,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1874012,
-      "num": 1874012,
+      "raw_hot": 1910827,
+      "num": 1910827,
       "word": "榜一大哥带3500页聊天记录报案",
       "onboard_time": 1742637442,
       "rank": 0,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 927460,
+      "num": 348477,
+      "word": "瑶一瑶妈妈透露女儿上学状态",
+      "onboard_time": 1742638460,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 911683,
       "num": 1145869,
       "word": "女子买到假迪奥小样牵出330万大案",
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 722766,
+      "num": 722766,
+      "word": "热热热你冷冷冷",
+      "onboard_time": 1742637081,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 687017,
       "num": 687017,
       "word": "复旦退学研究生摆摊前都没做过饭",
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 670717,
-      "num": 459829,
+      "num": 486440,
       "word": "虞书欣95花第一部全集有广现偶",
       "onboard_time": 1742638460,
       "rank": 12,
@@ -249,6 +265,14 @@
       "onboard_time": 1742617522,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 588355,
+      "num": 588355,
+      "word": "饿瘦和运动瘦的区别",
+      "onboard_time": 1742640562,
+      "rank": 3,
+      "category": "运动健身"
     },
     {
       "raw_hot": 572436,
@@ -305,14 +329,6 @@
       "onboard_time": 1742621542,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 509449,
-      "num": 509449,
-      "word": "热热热你冷冷冷",
-      "onboard_time": 1742637081,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 499892,
@@ -393,14 +409,6 @@
       "onboard_time": 1742633602,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 437506,
-      "num": 348477,
-      "word": "瑶一瑶妈妈透露女儿上学状态",
-      "onboard_time": 1742638460,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 435530,
@@ -491,12 +499,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384698,
+      "num": 337348,
+      "word": "newjeans韩网口碑",
+      "onboard_time": 1742637862,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382838,
       "num": 382838,
       "word": "考研名师田静主页已撤销毕业院校",
       "onboard_time": 1742601380,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 381110,
+      "num": 383911,
+      "word": "中国空间站将迎皮肤可再生的涡虫",
+      "onboard_time": 1742637322,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 380978,
@@ -539,6 +563,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 353382,
+      "num": 353382,
+      "word": "女校实体书",
+      "onboard_time": 1742635820,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 348913,
       "num": 348913,
       "word": "李小冉自曝曾跟爸爸断绝关系一年半",
@@ -561,6 +593,14 @@
       "onboard_time": 1742620642,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335714,
+      "num": 335714,
+      "word": "戚薇李承铉把妻子当换装游戏",
+      "onboard_time": 1742640201,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 315815,
@@ -707,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244759,
+      "num": 244759,
+      "word": "又一种生命体将来到中国空间站",
+      "onboard_time": 1742637081,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 244527,
       "num": 244527,
       "word": "全国首个咖啡本科专业有多香",
@@ -729,14 +777,6 @@
       "onboard_time": 1742617282,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 240061,
-      "num": 240061,
-      "word": "newjeans韩网口碑",
-      "onboard_time": 1742637862,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 235445,
@@ -769,6 +809,14 @@
       "onboard_time": 1742562024,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227840,
+      "num": 227840,
+      "word": "熬夜千万不要长时间补觉",
+      "onboard_time": 1742638761,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 227400,
@@ -867,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213183,
+      "num": 213183,
+      "word": "翔霖",
+      "onboard_time": 1742641941,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212771,
       "num": 212771,
       "word": "丁禹兮上海见面会人气",
@@ -891,12 +947,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211069,
-      "num": 211069,
+      "raw_hot": 211747,
+      "num": 235162,
       "word": "鞠婧祎丝绒绿裙造型",
       "onboard_time": 1742638942,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209974,
+      "num": 241043,
+      "word": "Henry和库克同框",
+      "onboard_time": 1742641522,
+      "rank": 19,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 209381,
@@ -1155,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185959,
+      "num": 185959,
+      "word": "bighit新男团路透",
+      "onboard_time": 1742641880,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184811,
       "num": 184811,
       "word": "英伟达CEO盛赞华为",
@@ -1235,6 +1307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174825,
+      "num": 174825,
+      "word": "TVB前港姐乳腺癌复发病情告急",
+      "onboard_time": 1742642002,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173952,
       "num": 173952,
       "word": "小兰玩具",
@@ -1267,14 +1347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170306,
-      "num": 383911,
-      "word": "中国空间站将迎皮肤可再生的涡虫",
-      "onboard_time": 1742637322,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 170107,
       "num": 170107,
       "word": "美国F47测试机已秘密试飞近5年",
@@ -1289,6 +1361,14 @@
       "onboard_time": 1742630781,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166997,
+      "num": 340904,
+      "word": "卖房留学女孩一年后回国读专科",
+      "onboard_time": 1742637081,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166421,
@@ -1323,12 +1403,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164105,
+      "num": 164105,
+      "word": "杨天真库克一起爬景山公园",
+      "onboard_time": 1742641342,
+      "rank": 33,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 163544,
       "num": 163544,
       "word": "王一博出片的休闲瞬间",
       "onboard_time": 1742627420,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 160716,
+      "num": 160716,
+      "word": "黄雀 好看",
+      "onboard_time": 1742641642,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 159765,
@@ -1355,14 +1451,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 157684,
-      "num": 157684,
-      "word": "卖房留学女孩一年后回国读专科",
-      "onboard_time": 1742637081,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157495,
       "num": 204271,
       "word": "成毅的外媒镜头",
@@ -1371,20 +1459,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 156467,
-      "num": 156467,
-      "word": "熬夜千万不要长时间补觉",
-      "onboard_time": 1742638761,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 156343,
       "num": 156343,
       "word": "上海外滩1000平的家中衣帽间",
       "onboard_time": 1742627661,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154083,
+      "num": 154083,
+      "word": "林孝埈周冠宇围场互动",
+      "onboard_time": 1742640861,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 153089,
@@ -1409,14 +1497,6 @@
       "onboard_time": 1742615721,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151573,
-      "num": 151573,
-      "word": "又一种生命体将来到中国空间站",
-      "onboard_time": 1742637081,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 151503,
@@ -1563,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134864,
+      "num": 134864,
+      "word": "小学二年级男孩写字堪比打印机",
+      "onboard_time": 1742641101,
+      "rank": 38,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 134480,
       "num": 134480,
       "word": "甲状腺好不好看脸就知道",
@@ -1603,6 +1691,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 131024,
+      "num": 131024,
+      "word": "武汉大学樱花大道变身帅哥T台",
+      "onboard_time": 1742642002,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130396,
       "num": 130396,
       "word": "以闪亮之名",
@@ -1625,6 +1721,14 @@
       "onboard_time": 1742618300,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128322,
+      "num": 128322,
+      "word": "为什么这么多人排斥洗衣池",
+      "onboard_time": 1742641462,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 128128,
@@ -1683,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126182,
+      "num": 126182,
+      "word": "澳门偶遇Angelababy打高尔夫",
+      "onboard_time": 1742642061,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126013,
       "num": 126013,
       "word": "李荣浩被汪苏泷衣服上的装饰戳脸",
@@ -1705,6 +1817,14 @@
       "onboard_time": 1742617461,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125010,
+      "num": 125010,
+      "word": "三次开颅网红吴忠华耳朵内又长东西",
+      "onboard_time": 1742642182,
+      "rank": 44,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 124497,
@@ -1771,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120172,
+      "num": 120172,
+      "word": "小说坠落",
+      "onboard_time": 1742642300,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 119907,
       "num": 119907,
       "word": "清融KPL登场五周年",
@@ -1795,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118020,
+      "num": 118020,
+      "word": "阮惜文好会阴阳",
+      "onboard_time": 1742640922,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117699,
       "num": 117699,
       "word": "河北女团0比1北京女团",
@@ -1811,11 +1947,35 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115831,
+      "num": 223748,
+      "word": "孙颖莎亮晶晶",
+      "onboard_time": 1742641821,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115388,
       "num": 115388,
       "word": "田柾国股票被非法盗用",
       "onboard_time": 1742622620,
       "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 114561,
+      "num": 114561,
+      "word": "雁回时第11集齁甜",
+      "onboard_time": 1742642300,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114343,
+      "num": 114343,
+      "word": "金饰价格跌到916元",
+      "onboard_time": 1742641701,
+      "rank": 48,
       "category": "财经"
     },
     {
@@ -2067,20 +2227,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97638,
-      "num": 97638,
-      "word": "女校实体书",
-      "onboard_time": 1742635820,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 96781,
       "num": 96781,
       "word": "乌拉圭vs阿根廷",
       "onboard_time": 1742605462,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95669,
+      "num": 364298,
+      "word": "卓沅李昊又对土豆下手了",
+      "onboard_time": 1742638280,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 95634,
@@ -2507,14 +2667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30842,
-      "num": 364298,
-      "word": "卓沅李昊又对土豆下手了",
-      "onboard_time": 1742638280,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 30104,
       "num": 34520,
       "word": "周冠宇想成为F1的中国破冰者",
@@ -2587,6 +2739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25198,
+      "num": 167748,
+      "word": "胡兵中国国际时装周走秀",
+      "onboard_time": 1742639542,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 25009,
       "num": 148721,
       "word": "懒人洗衣机时间管理大师",
@@ -2657,14 +2817,6 @@
       "onboard_time": 1742620462,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19059,
-      "num": 167748,
-      "word": "胡兵中国国际时装周走秀",
-      "onboard_time": 1742639542,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 18466,
