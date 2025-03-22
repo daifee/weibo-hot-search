@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742678464827,
+  "endTime": 1742679363345,
   "band_list": [
     {
       "raw_hot": 1694206,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 67860,
-      "num": 119731,
+      "num": 166192,
       "word": "上百万买的藏品只有一件是真品",
       "onboard_time": 1742669055,
       "rank": 18,
@@ -435,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41174,
+      "num": 41174,
+      "word": "泽连斯基拒绝部署联合国维和部队方案",
+      "onboard_time": 1742653822,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39716,
       "num": 41640,
       "word": "乘风2025",
@@ -451,14 +459,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 35207,
-      "num": 35207,
-      "word": "泽连斯基拒绝部署联合国维和部队方案",
-      "onboard_time": 1742653822,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 32848,
       "num": 39302,
       "word": "袁一琦演唱会成都站",
@@ -473,6 +473,14 @@
       "onboard_time": 1742654724,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 29328,
+      "num": 29037,
+      "word": "戚薇李承铉把妻子当换装游戏",
+      "onboard_time": 1742640201,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 24899,
@@ -504,14 +512,6 @@
       "word": "乘风2025热度",
       "onboard_time": 1742670015,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 24001,
-      "num": 29037,
-      "word": "戚薇李承铉把妻子当换装游戏",
-      "onboard_time": 1742640201,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -555,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14876,
+      "num": 14876,
+      "word": "金正恩强调继续对俄支持",
+      "onboard_time": 1742677635,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14597,
       "num": 27854,
       "word": "一些金包银首饰效果只有几个月",
@@ -588,19 +596,19 @@
     },
     {
       "raw_hot": 10617,
-      "num": 13977,
+      "num": 21768,
       "word": "我国成功发射云遥一号43-48星",
       "onboard_time": 1742677814,
       "rank": 47,
       "category": "国内时政"
     },
     {
-      "raw_hot": 10252,
-      "num": 13964,
-      "word": "金正恩强调继续对俄支持",
-      "onboard_time": 1742677635,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 10557,
+      "num": 13337,
+      "word": "有加沙人已流离失所8次",
+      "onboard_time": 1742678473,
+      "rank": 48,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
