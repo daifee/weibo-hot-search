@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742649950259,
+  "endTime": 1742650603867,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1939,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2966648,
+      "num": 405610,
+      "word": "唐九洲 抄袭",
+      "onboard_time": 1742647761,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2964716,
       "num": 2964716,
       "word": "陈奕迅 真唱",
@@ -2344,14 +2352,6 @@
       "word": "银河酷娱致歉",
       "onboard_time": 1735728622,
       "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2753373,
-      "num": 405610,
-      "word": "唐九洲 抄袭",
-      "onboard_time": 1742647761,
-      "rank": 12,
       "category": "艺人"
     },
     {

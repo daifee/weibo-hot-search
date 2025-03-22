@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742649950259,
+  "endTime": 1742650603867,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2966648,
+      "num": 405610,
+      "word": "唐九洲 抄袭",
+      "onboard_time": 1742647761,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2856774,
       "num": 2856774,
       "word": "刘宇宁 珠帘玉幕咋了",
@@ -153,14 +161,6 @@
       "onboard_time": 1742042191,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2753373,
-      "num": 405610,
-      "word": "唐九洲 抄袭",
-      "onboard_time": 1742647761,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 2700114,
@@ -1467,20 +1467,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1096394,
+      "num": 1175423,
+      "word": "饿瘦和运动瘦的区别",
+      "onboard_time": 1742640562,
+      "rank": 3,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 1091750,
       "num": 1174680,
       "word": "乘风2025全阵容官宣",
       "onboard_time": 1742359105,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1089155,
-      "num": 1168732,
-      "word": "饿瘦和运动瘦的区别",
-      "onboard_time": 1742640562,
-      "rank": 3,
-      "category": "运动健身"
     },
     {
       "raw_hot": 1088232,
@@ -2217,6 +2217,14 @@
       "onboard_time": 1742052210,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 829068,
+      "num": 314848,
+      "word": "曝金秀贤超越N号房新料提示",
+      "onboard_time": 1742649442,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 827663,
@@ -3379,6 +3387,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 594776,
+      "num": 291558,
+      "word": "日本7岁女童被水泥封尸母亲失踪",
+      "onboard_time": 1742647401,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 594252,
       "num": 1568850,
       "word": "朱颜曼滋在北大上课",
@@ -3905,14 +3921,6 @@
       "onboard_time": 1742357122,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 530808,
-      "num": 291558,
-      "word": "日本7岁女童被水泥封尸母亲失踪",
-      "onboard_time": 1742647401,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 528986,
@@ -5467,6 +5475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365134,
+      "num": 273794,
+      "word": "自己在家晒的橘子皮算陈皮吗",
+      "onboard_time": 1742647881,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 363841,
       "num": 363841,
       "word": "苏菲",
@@ -6073,14 +6089,6 @@
       "onboard_time": 1742632401,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 314848,
-      "num": 314848,
-      "word": "曝金秀贤超越N号房新料提示",
-      "onboard_time": 1742649442,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 314527,
@@ -6755,14 +6763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273794,
-      "num": 273794,
-      "word": "自己在家晒的橘子皮算陈皮吗",
-      "onboard_time": 1742647881,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 273461,
       "num": 372260,
       "word": "海西传媒声明向龚俊道歉",
@@ -6785,6 +6785,14 @@
       "onboard_time": 1742119822,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 268869,
+      "num": 412658,
+      "word": "哪吒",
+      "onboard_time": 1742643082,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 268499,
@@ -6857,14 +6865,6 @@
       "onboard_time": 1742087843,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 266067,
-      "num": 412658,
-      "word": "哪吒",
-      "onboard_time": 1742643082,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 265720,
@@ -7883,12 +7883,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 236176,
+      "num": 236176,
+      "word": "狼队对战AG",
+      "onboard_time": 1742647461,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 236173,
       "num": 236173,
       "word": "骑手送货发现异常救回16万现金",
       "onboard_time": 1742287644,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236091,
+      "num": 265370,
+      "word": "VaVa发博回应浪姐初舞台",
+      "onboard_time": 1742649622,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 235558,
@@ -9147,14 +9163,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 208113,
-      "num": 208113,
-      "word": "狼队对战AG",
-      "onboard_time": 1742647461,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 208048,
       "num": 208048,
       "word": "湖人",
@@ -10097,6 +10105,14 @@
       "onboard_time": 1742123964,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 196322,
+      "num": 196322,
+      "word": "簪花的风终于吹到了德国街头",
+      "onboard_time": 1742648302,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196099,
@@ -11219,6 +11235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182647,
+      "num": 407302,
+      "word": "拜登希望重返政坛",
+      "onboard_time": 1742648002,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182537,
       "num": 182537,
       "word": "杨幂生活感",
@@ -11905,6 +11929,14 @@
       "onboard_time": 1742107941,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171734,
+      "num": 171734,
+      "word": "河南小伙买五金为妻子补齐结婚遗憾",
+      "onboard_time": 1742649802,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171679,
@@ -12851,14 +12883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159627,
-      "num": 265370,
-      "word": "VaVa发博回应浪姐初舞台",
-      "onboard_time": 1742649622,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159608,
       "num": 159608,
       "word": "孙颖莎4比2逆转晋级",
@@ -12897,14 +12921,6 @@
       "onboard_time": 1742380943,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158854,
-      "num": 158854,
-      "word": "簪花的风终于吹到了德国街头",
-      "onboard_time": 1742648302,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158796,
@@ -13425,14 +13441,6 @@
       "onboard_time": 1742620642,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 152366,
-      "num": 407302,
-      "word": "拜登希望重返政坛",
-      "onboard_time": 1742648002,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 152229,
@@ -14419,6 +14427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 144171,
+      "num": 144171,
+      "word": "北京八喜队3比0辽宁队",
+      "onboard_time": 1742650103,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144169,
       "num": 144169,
       "word": "中国女留学生在米兰夺回被抢的手机",
@@ -15275,14 +15291,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 135050,
-      "num": 135050,
-      "word": "河南小伙买五金为妻子补齐结婚遗憾",
-      "onboard_time": 1742649802,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135039,
       "num": 135039,
       "word": "库迪哪吒套餐",
@@ -15649,6 +15657,14 @@
       "onboard_time": 1742435540,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130505,
+      "num": 245280,
+      "word": "上百万买藏品最值钱的一件10元",
+      "onboard_time": 1742649802,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130396,
@@ -16587,6 +16603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121372,
+      "num": 121372,
+      "word": "AG无敌连控组合技",
+      "onboard_time": 1742650281,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121363,
       "num": 215561,
       "word": "你会因为贫穷而感到自卑吗",
@@ -17059,6 +17083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115399,
+      "num": 255998,
+      "word": "北京男团晋级全运会正赛",
+      "onboard_time": 1742648843,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115388,
       "num": 115388,
       "word": "田柾国股票被非法盗用",
@@ -17355,6 +17387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112081,
+      "num": 258864,
+      "word": "胃病是种特殊的精神病",
+      "onboard_time": 1742649622,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111900,
       "num": 111900,
       "word": "沙特半场0比0国足",
@@ -17369,6 +17409,14 @@
       "onboard_time": 1742559022,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111429,
+      "num": 111429,
+      "word": "浪姐那群人是不是打错电话了",
+      "onboard_time": 1742650583,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 111420,
@@ -17467,12 +17515,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110517,
+      "num": 110517,
+      "word": "林高远vs周汐君",
+      "onboard_time": 1742650463,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110378,
       "num": 110378,
       "word": "被动熬夜如何提高睡眠质量",
       "onboard_time": 1742521580,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110351,
+      "num": 110351,
+      "word": "陈都灵 抽象",
+      "onboard_time": 1742650583,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 110206,
@@ -19043,14 +19107,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 85857,
-      "num": 192521,
-      "word": "上百万买藏品最值钱的一件10元",
-      "onboard_time": 1742649802,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85739,
       "num": 173086,
       "word": "被家暴女子反击丈夫被认定正当防卫",
@@ -19225,6 +19281,14 @@
       "onboard_time": 1742098162,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 82042,
+      "num": 390162,
+      "word": "多方回应湖北赤壁一处水管爆裂",
+      "onboard_time": 1742648903,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82020,
@@ -19609,14 +19673,6 @@
       "onboard_time": 1742568983,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 72479,
-      "num": 255998,
-      "word": "北京男团晋级全运会正赛",
-      "onboard_time": 1742648843,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 72465,
@@ -20473,14 +20529,6 @@
       "onboard_time": 1742551339,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54724,
-      "num": 258864,
-      "word": "胃病是种特殊的精神病",
-      "onboard_time": 1742649622,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 54580,
@@ -22163,20 +22211,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30518,
+      "num": 261455,
+      "word": "土耳其发生大规模反政府抗议活动",
+      "onboard_time": 1742649442,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30104,
       "num": 34520,
       "word": "周冠宇想成为F1的中国破冰者",
       "onboard_time": 1742598797,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30035,
-      "num": 261455,
-      "word": "土耳其发生大规模反政府抗议活动",
-      "onboard_time": 1742649442,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29828,
@@ -22281,14 +22329,6 @@
       "onboard_time": 1742186363,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 29258,
-      "num": 390162,
-      "word": "多方回应湖北赤壁一处水管爆裂",
-      "onboard_time": 1742648903,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29105,

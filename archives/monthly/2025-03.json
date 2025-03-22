@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742649950259,
+  "endTime": 1742650603867,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -395,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2966648,
+      "num": 405610,
+      "word": "唐九洲 抄袭",
+      "onboard_time": 1742647761,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2866173,
       "num": 253282,
       "word": "海底捞回应有人往火锅撒尿",
@@ -465,14 +473,6 @@
       "onboard_time": 1740875718,
       "rank": 3,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 2753373,
-      "num": 405610,
-      "word": "唐九洲 抄袭",
-      "onboard_time": 1742647761,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 2739654,
@@ -4083,20 +4083,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1096394,
+      "num": 1175423,
+      "word": "饿瘦和运动瘦的区别",
+      "onboard_time": 1742640562,
+      "rank": 3,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 1091750,
       "num": 1174680,
       "word": "乘风2025全阵容官宣",
       "onboard_time": 1742359105,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1089155,
-      "num": 1168732,
-      "word": "饿瘦和运动瘦的区别",
-      "onboard_time": 1742640562,
-      "rank": 3,
-      "category": "运动健身"
     },
     {
       "raw_hot": 1088232,
@@ -6241,6 +6241,14 @@
       "onboard_time": 1742052210,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 829068,
+      "num": 314848,
+      "word": "曝金秀贤超越N号房新料提示",
+      "onboard_time": 1742649442,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 828631,
@@ -9675,6 +9683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 594776,
+      "num": 291558,
+      "word": "日本7岁女童被水泥封尸母亲失踪",
+      "onboard_time": 1742647401,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 594635,
       "num": 594635,
       "word": "汤家凤再次发声",
@@ -11113,14 +11129,6 @@
       "onboard_time": 1742357122,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 530808,
-      "num": 291558,
-      "word": "日本7岁女童被水泥封尸母亲失踪",
-      "onboard_time": 1742647401,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 530506,
@@ -15931,6 +15939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365134,
+      "num": 273794,
+      "word": "自己在家晒的橘子皮算陈皮吗",
+      "onboard_time": 1742647881,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 365070,
       "num": 365070,
       "word": "英法乌将向美提和平计划",
@@ -18291,14 +18307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 314848,
-      "num": 314848,
-      "word": "曝金秀贤超越N号房新料提示",
-      "onboard_time": 1742649442,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 314527,
       "num": 221106,
       "word": "日本闹市区惊现数十块人体碎片",
@@ -20609,14 +20617,6 @@
       "onboard_time": 1741251561,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 273794,
-      "num": 273794,
-      "word": "自己在家晒的橘子皮算陈皮吗",
-      "onboard_time": 1742647881,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 273461,
@@ -23555,6 +23555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236176,
+      "num": 236176,
+      "word": "狼队对战AG",
+      "onboard_time": 1742647461,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 236173,
       "num": 236173,
       "word": "骑手送货发现异常救回16万现金",
@@ -23569,6 +23577,14 @@
       "onboard_time": 1741242258,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236091,
+      "num": 265370,
+      "word": "VaVa发博回应浪姐初舞台",
+      "onboard_time": 1742649622,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 235798,
@@ -27059,14 +27075,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 208113,
-      "num": 208113,
-      "word": "狼队对战AG",
-      "onboard_time": 1742647461,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 208086,
       "num": 252102,
       "word": "美国开始寻找星舰飞船碎片",
@@ -29576,6 +29584,14 @@
       "word": "谁家夫妻过妇女节跟求婚似的",
       "onboard_time": 1741400901,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196322,
+      "num": 196322,
+      "word": "簪花的风终于吹到了德国街头",
+      "onboard_time": 1742648302,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -32579,6 +32595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 182647,
+      "num": 407302,
+      "word": "拜登希望重返政坛",
+      "onboard_time": 1742648002,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182616,
       "num": 182616,
       "word": "刘敏涛王迅新片演母子",
@@ -34625,6 +34649,14 @@
       "onboard_time": 1742627420,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171734,
+      "num": 171734,
+      "word": "河南小伙买五金为妻子补齐结婚遗憾",
+      "onboard_time": 1742649802,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171679,
@@ -37587,14 +37619,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 159627,
-      "num": 265370,
-      "word": "VaVa发博回应浪姐初舞台",
-      "onboard_time": 1742649622,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159608,
       "num": 159608,
       "word": "孙颖莎4比2逆转晋级",
@@ -37785,14 +37809,6 @@
       "onboard_time": 1741787605,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158854,
-      "num": 158854,
-      "word": "簪花的风终于吹到了德国街头",
-      "onboard_time": 1742648302,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158843,
@@ -39585,14 +39601,6 @@
       "onboard_time": 1741236079,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152366,
-      "num": 407302,
-      "word": "拜登希望重返政坛",
-      "onboard_time": 1742648002,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 152229,
@@ -41913,6 +41921,14 @@
       "onboard_time": 1742464822,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 144171,
+      "num": 144171,
+      "word": "北京八喜队3比0辽宁队",
+      "onboard_time": 1742650103,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 144169,
@@ -44355,14 +44371,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 135050,
-      "num": 135050,
-      "word": "河南小伙买五金为妻子补齐结婚遗憾",
-      "onboard_time": 1742649802,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135039,
       "num": 135039,
       "word": "库迪哪吒套餐",
@@ -45505,6 +45513,14 @@
       "onboard_time": 1741655903,
       "rank": 33,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 130505,
+      "num": 245280,
+      "word": "上百万买藏品最值钱的一件10元",
+      "onboard_time": 1742649802,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130432,
@@ -48403,6 +48419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121372,
+      "num": 121372,
+      "word": "AG无敌连控组合技",
+      "onboard_time": 1742650281,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121363,
       "num": 215561,
       "word": "你会因为贫穷而感到自卑吗",
@@ -49867,6 +49891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115399,
+      "num": 255998,
+      "word": "北京男团晋级全运会正赛",
+      "onboard_time": 1742648843,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115388,
       "num": 115388,
       "word": "田柾国股票被非法盗用",
@@ -50827,6 +50859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112081,
+      "num": 258864,
+      "word": "胃病是种特殊的精神病",
+      "onboard_time": 1742649622,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112067,
       "num": 112067,
       "word": "单依纯周兴哲互当对方演唱会嘉宾",
@@ -50977,6 +51017,14 @@
       "onboard_time": 1741784246,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111429,
+      "num": 111429,
+      "word": "浪姐那群人是不是打错电话了",
+      "onboard_time": 1742650583,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 111428,
@@ -51259,6 +51307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110517,
+      "num": 110517,
+      "word": "林高远vs周汐君",
+      "onboard_time": 1742650463,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110514,
       "num": 228710,
       "word": "人大代表建议免费提供高考志愿指导",
@@ -51313,6 +51369,14 @@
       "onboard_time": 1742521580,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110351,
+      "num": 110351,
+      "word": "陈都灵 抽象",
+      "onboard_time": 1742650583,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 110342,
@@ -57035,14 +57099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85857,
-      "num": 192521,
-      "word": "上百万买藏品最值钱的一件10元",
-      "onboard_time": 1742649802,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85854,
       "num": 85854,
       "word": "Creme谈Kanavi和Tian的区别",
@@ -57704,6 +57760,14 @@
       "word": "全国高度近视患者超1.3亿人",
       "onboard_time": 1740741320,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82042,
+      "num": 390162,
+      "word": "多方回应湖北赤壁一处水管爆裂",
+      "onboard_time": 1742648903,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -59009,14 +59073,6 @@
       "onboard_time": 1742568983,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 72479,
-      "num": 255998,
-      "word": "北京男团晋级全运会正赛",
-      "onboard_time": 1742648843,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 72465,
@@ -61913,14 +61969,6 @@
       "onboard_time": 1741329442,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54724,
-      "num": 258864,
-      "word": "胃病是种特殊的精神病",
-      "onboard_time": 1742649622,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 54641,
@@ -66947,6 +66995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30518,
+      "num": 261455,
+      "word": "土耳其发生大规模反政府抗议活动",
+      "onboard_time": 1742649442,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30374,
       "num": 264208,
       "word": "AI假靳东越来越难防",
@@ -67033,14 +67089,6 @@
       "onboard_time": 1741459575,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30035,
-      "num": 261455,
-      "word": "土耳其发生大规模反政府抗议活动",
-      "onboard_time": 1742649442,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30025,
@@ -67217,14 +67265,6 @@
       "onboard_time": 1741511061,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29258,
-      "num": 390162,
-      "word": "多方回应湖北赤壁一处水管爆裂",
-      "onboard_time": 1742648903,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29172,

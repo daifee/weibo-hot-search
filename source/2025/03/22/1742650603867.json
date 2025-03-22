@@ -1,0 +1,410 @@
+{
+  "runTime": 1742650603867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1096394,
+        "num": 1175423,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1742640562,
+        "rank": 0,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 522007,
+        "num": 522007,
+        "word": "三次开颅网红吴忠华耳朵内又长东西",
+        "onboard_time": 1742642182,
+        "rank": 1,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 52965,
+        "num": 510452,
+        "word": "在云南万物皆可咖",
+        "onboard_time": 1742631261,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504016,
+        "num": 504016,
+        "word": "王楚钦马龙11比1杨硕袁励岑",
+        "onboard_time": 1742646021,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333591,
+        "num": 333591,
+        "word": "热热热你冷冷冷",
+        "onboard_time": 1742637081,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391261,
+        "num": 328901,
+        "word": "普京称曾在特朗普遇刺后去教堂祈祷",
+        "onboard_time": 1742644582,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 314594,
+        "num": 314594,
+        "word": "著名演员高英逝世",
+        "onboard_time": 1742633661,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287150,
+        "num": 287150,
+        "word": "下周可能更热",
+        "onboard_time": 1742633602,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274840,
+        "num": 274840,
+        "word": "雁回时",
+        "onboard_time": 1742636722,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268869,
+        "num": 268869,
+        "word": "哪吒",
+        "onboard_time": 1742643082,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2966648,
+        "num": 268483,
+        "word": "唐九洲 抄袭",
+        "onboard_time": 1742647761,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 936925,
+        "num": 264949,
+        "word": "虞书欣黑天鹅高定",
+        "onboard_time": 1742643923,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 829068,
+        "num": 263122,
+        "word": "曝金秀贤超越N号房新料提示",
+        "onboard_time": 1742649442,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 759312,
+        "num": 260609,
+        "word": "榜一大哥带3500页聊天记录报案",
+        "onboard_time": 1742637442,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82042,
+        "num": 257046,
+        "word": "多方回应湖北赤壁一处水管爆裂",
+        "onboard_time": 1742648903,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365134,
+        "num": 254866,
+        "word": "自己在家晒的橘子皮算陈皮吗",
+        "onboard_time": 1742647881,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 362128,
+        "num": 252371,
+        "word": "男子水库边钓鱼被鱼拉下水溺亡",
+        "onboard_time": 1742646922,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336948,
+        "num": 250360,
+        "word": "戚薇李承铉把妻子当换装游戏",
+        "onboard_time": 1742640201,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173334,
+        "num": 246272,
+        "word": "小傲道歉",
+        "onboard_time": 1742648663,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130505,
+        "num": 245280,
+        "word": "上百万买藏品最值钱的一件10元",
+        "onboard_time": 1742649802,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594776,
+        "num": 241370,
+        "word": "日本7岁女童被水泥封尸母亲失踪",
+        "onboard_time": 1742647401,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 344539,
+        "num": 240315,
+        "word": "汪苏泷向李荣浩道歉",
+        "onboard_time": 1742632281,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 236091,
+        "num": 238075,
+        "word": "VaVa发博回应浪姐初舞台",
+        "onboard_time": 1742649622,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236176,
+        "num": 236176,
+        "word": "狼队对战AG",
+        "onboard_time": 1742647461,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233534,
+        "num": 233534,
+        "word": "小说坠落",
+        "onboard_time": 1742642300,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 221501,
+        "num": 221501,
+        "word": "印度男子看视频自学割阑尾",
+        "onboard_time": 1742646082,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 220116,
+        "num": 220116,
+        "word": "TVB前港姐乳腺癌复发病情告急",
+        "onboard_time": 1742642002,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173098,
+        "num": 217127,
+        "word": "王源去了汪苏泷演唱会",
+        "onboard_time": 1742643322,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30518,
+        "num": 216704,
+        "word": "土耳其发生大规模反政府抗议活动",
+        "onboard_time": 1742649442,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112081,
+        "num": 216485,
+        "word": "胃病是种特殊的精神病",
+        "onboard_time": 1742649622,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216455,
+        "num": 216455,
+        "word": "金价",
+        "onboard_time": 1742648843,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129949,
+        "num": 205396,
+        "word": "华晨宇从怀里掏出一封给歌迷的信",
+        "onboard_time": 1742649084,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196322,
+        "num": 196322,
+        "word": "簪花的风终于吹到了德国街头",
+        "onboard_time": 1742648302,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187899,
+        "num": 187899,
+        "word": "日本大阪两个月连发两起碎尸案",
+        "onboard_time": 1742645361,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139117,
+        "num": 184636,
+        "word": "虞书欣95花第一部全集有广现偶",
+        "onboard_time": 1742638460,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182647,
+        "num": 182647,
+        "word": "拜登希望重返政坛",
+        "onboard_time": 1742648002,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171734,
+        "num": 171734,
+        "word": "河南小伙买五金为妻子补齐结婚遗憾",
+        "onboard_time": 1742649802,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156845,
+        "num": 156845,
+        "word": "中国空间站将迎皮肤可再生的涡虫",
+        "onboard_time": 1742637322,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144171,
+        "num": 144171,
+        "word": "北京八喜队3比0辽宁队",
+        "onboard_time": 1742650103,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130142,
+        "num": 130142,
+        "word": "土耳其将向美国出口4.2亿枚鸡蛋",
+        "onboard_time": 1742645602,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125623,
+        "num": 125623,
+        "word": "我和吴宣仪复婚了",
+        "onboard_time": 1742620701,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123362,
+        "num": 123362,
+        "word": "王楚钦vs袁励岑",
+        "onboard_time": 1742647401,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121849,
+        "num": 121849,
+        "word": "什么研究需要一年洗500次头",
+        "onboard_time": 1742649802,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121372,
+        "num": 121372,
+        "word": "AG无敌连控组合技",
+        "onboard_time": 1742650281,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121363,
+        "num": 121363,
+        "word": "翔霖",
+        "onboard_time": 1742641941,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118294,
+        "num": 118294,
+        "word": "楼下住户报警30多次逼走楼上3任租客",
+        "onboard_time": 1742628141,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115399,
+        "num": 115399,
+        "word": "北京男团晋级全运会正赛",
+        "onboard_time": 1742648843,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111429,
+        "num": 111429,
+        "word": "浪姐那群人是不是打错电话了",
+        "onboard_time": 1742650583,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110517,
+        "num": 110517,
+        "word": "林高远vs周汐君",
+        "onboard_time": 1742650463,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110351,
+        "num": 110351,
+        "word": "陈都灵 抽象",
+        "onboard_time": 1742650583,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平云贵行为何频提开放#"
+    }
+  }
+}
