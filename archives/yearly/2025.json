@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742613015630,
+  "endTime": 1742614701076,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1056,6 +1056,14 @@
       "word": "星星疑被剃去头发腿上有红斑",
       "onboard_time": 1736237304,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3988908,
+      "num": 3988908,
+      "word": "黄子韬宣布将做卫生巾",
+      "onboard_time": 1742612841,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736396663,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2727035,
-      "num": 2727035,
-      "word": "韩国犯规",
-      "onboard_time": 1739079502,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

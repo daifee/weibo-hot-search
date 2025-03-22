@@ -1,7 +1,15 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742613015630,
+  "endTime": 1742614701076,
   "band_list": [
+    {
+      "raw_hot": 3988908,
+      "num": 3988908,
+      "word": "黄子韬宣布将做卫生巾",
+      "onboard_time": 1742612841,
+      "rank": 30,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1671944,
       "num": 1671944,
@@ -43,6 +51,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 869526,
+      "num": 276312,
+      "word": "newjeans私联",
+      "onboard_time": 1742613020,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 808945,
+      "num": 273498,
+      "word": "男子携代孕遗腹子争妻子千万遗产",
+      "onboard_time": 1742614521,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 739232,
       "num": 739232,
       "word": "印度制造取代中国制造计划被爆失败",
@@ -73,6 +97,14 @@
       "onboard_time": 1742572463,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 594543,
+      "num": 270651,
+      "word": "雪莉哥哥发ins",
+      "onboard_time": 1742613981,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 593991,
@@ -203,6 +235,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 336362,
+      "num": 336362,
+      "word": "平台回应23岁女生打赏近200万想退款",
+      "onboard_time": 1742611942,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310662,
       "num": 310662,
       "word": "千禾0是商标在侮辱谁",
@@ -219,11 +259,27 @@
       "category": "军事"
     },
     {
+      "raw_hot": 308770,
+      "num": 266763,
+      "word": "吴宣仪说孟美岐有事来不了",
+      "onboard_time": 1742610621,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304278,
       "num": 64410,
       "word": "陈都灵傅菁有吻戏吗",
       "onboard_time": 1742567604,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 295423,
+      "num": 212985,
+      "word": "花非花是琼瑶为了弥补张睿李晟才拍的",
+      "onboard_time": 1742613140,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -241,14 +297,6 @@
       "onboard_time": 1742557223,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264798,
-      "num": 231471,
-      "word": "吴宣仪说孟美岐有事来不了",
-      "onboard_time": 1742610621,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 263767,
@@ -411,12 +459,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183975,
-      "num": 326169,
-      "word": "平台回应23岁女生打赏近200万想退款",
-      "onboard_time": 1742611942,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 195392,
+      "num": 195392,
+      "word": "淡人穿搭太适合早春打工人了",
+      "onboard_time": 1742614162,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 191270,
+      "num": 191270,
+      "word": "成毅F1外媒生图",
+      "onboard_time": 1742612002,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190186,
+      "num": 233344,
+      "word": "美滞留宇航员被爆还没拿到加班费",
+      "onboard_time": 1742611881,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 182746,
+      "num": 182746,
+      "word": "你好星期六全员斗舞",
+      "onboard_time": 1742613801,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 178513,
@@ -427,6 +499,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177362,
+      "num": 214255,
+      "word": "SM新男团预计11月份出道",
+      "onboard_time": 1742614340,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175227,
+      "num": 175227,
+      "word": "邪恶老太居然是刘敏涛演的",
+      "onboard_time": 1742613381,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165858,
       "num": 274512,
       "word": "姚明范志毅F1围场同框",
@@ -435,12 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162107,
-      "num": 162107,
-      "word": "成毅F1外媒生图",
-      "onboard_time": 1742612002,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 163964,
+      "num": 163964,
+      "word": "美国F47测试机已秘密试飞近5年",
+      "onboard_time": 1742612780,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148045,
@@ -491,6 +579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133897,
+      "num": 133897,
+      "word": "newjeans",
+      "onboard_time": 1742614041,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131694,
       "num": 123817,
       "word": "何秋亊翻牌",
@@ -531,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123678,
-      "num": 233344,
-      "word": "美滞留宇航员被爆还没拿到加班费",
-      "onboard_time": 1742611881,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 118151,
       "num": 118151,
       "word": "男子相亲谎称不育骗单亲妈妈295万",
@@ -571,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112346,
+      "num": 112346,
+      "word": "前爱豆曝爱豆暂停活动的原因会撒谎",
+      "onboard_time": 1742612002,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110118,
       "num": 110118,
       "word": "赵今麦宋威龙骄阳似我一家三口路透",
@@ -579,20 +675,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108583,
+      "num": 108583,
+      "word": "祝绪丹很高兴并锤了卡琳娜几拳",
+      "onboard_time": 1742614581,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104403,
       "num": 104403,
       "word": "刘毅王昶无缘瑞士赛四强",
       "onboard_time": 1742571262,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104038,
-      "num": 104038,
-      "word": "前爱豆曝爱豆暂停活动的原因会撒谎",
-      "onboard_time": 1742612002,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 103700,
@@ -635,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97896,
+      "num": 224742,
+      "word": "北京将重点查处幽灵外卖",
+      "onboard_time": 1742613860,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97693,
       "num": 97693,
       "word": "顾客把狗放超市手推车里吃东西",
@@ -659,8 +763,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 92029,
-      "num": 92029,
+      "raw_hot": 94126,
+      "num": 94126,
       "word": "乌克兰同意举行总统选举",
       "onboard_time": 1742611640,
       "rank": 47,
@@ -795,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62086,
+      "num": 276910,
+      "word": "NASA回应滞留太空宇航员获多少报酬",
+      "onboard_time": 1742614162,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60518,
       "num": 64419,
       "word": "田曦薇逐玉杀青捧花照",
@@ -817,14 +929,6 @@
       "onboard_time": 1742594775,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54610,
-      "num": 153045,
-      "word": "黄子韬宣布将做卫生巾",
-      "onboard_time": 1742612841,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 54424,
@@ -883,14 +987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44086,
-      "num": 153095,
-      "word": "美国F47测试机已秘密试飞近5年",
-      "onboard_time": 1742612780,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 41905,
       "num": 41905,
       "word": "乘风破浪的姐姐",
@@ -916,7 +1012,7 @@
     },
     {
       "raw_hot": 37225,
-      "num": 1063436,
+      "num": 1083728,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1742551221,
       "rank": 2,
@@ -1041,6 +1137,14 @@
       "onboard_time": 1742581574,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 18068,
+      "num": 124313,
+      "word": "F1为何是世界三大体育盛事",
+      "onboard_time": 1742614101,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 15188,
