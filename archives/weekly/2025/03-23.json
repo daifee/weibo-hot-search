@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742663955940,
+  "endTime": 1742664974465,
   "band_list": [
     {
       "raw_hot": 1694206,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119066,
+      "num": 98265,
+      "word": "陈都灵温峥嵘你们在玩什么抽象",
+      "onboard_time": 1742659942,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116142,
       "num": 116142,
       "word": "雁回时",
@@ -273,14 +281,6 @@
       "onboard_time": 1742656523,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93043,
-      "num": 93043,
-      "word": "陈都灵温峥嵘你们在玩什么抽象",
-      "onboard_time": 1742659942,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 88390,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39716,
+      "num": 41640,
+      "word": "乘风2025",
+      "onboard_time": 1742663717,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39611,
       "num": 41643,
       "word": "AG零封狼队",
@@ -435,12 +443,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 36064,
-      "num": 41640,
-      "word": "乘风2025",
-      "onboard_time": 1742663717,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 32848,
+      "num": 39302,
+      "word": "袁一琦演唱会成都站",
+      "onboard_time": 1742664258,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 31748,

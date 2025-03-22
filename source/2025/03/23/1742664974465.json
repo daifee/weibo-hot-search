@@ -1,0 +1,410 @@
+{
+  "runTime": 1742664974465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 299529,
+        "num": 412942,
+        "word": "清明档已有11部影片定档",
+        "onboard_time": 1742658142,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244083,
+        "num": 244083,
+        "word": "金价",
+        "onboard_time": 1742648843,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21774,
+        "num": 207857,
+        "word": "文化中国行吟咏春之美",
+        "onboard_time": 1742651843,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193070,
+        "num": 193070,
+        "word": "洛洛历险记",
+        "onboard_time": 1742658022,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149997,
+        "num": 149997,
+        "word": "浪姐全场一半的人都选了宋妍霏",
+        "onboard_time": 1742637200,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141543,
+        "num": 141543,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1742640562,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 132485,
+        "num": 132485,
+        "word": "自己在家晒的橘子皮算陈皮吗",
+        "onboard_time": 1742647881,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111687,
+        "num": 111687,
+        "word": "浪姐那群人是不是打错电话了",
+        "onboard_time": 1742650583,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107538,
+        "num": 107538,
+        "word": "刘翔之后又有中国运动员夺牌了",
+        "onboard_time": 1742652144,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79778,
+        "num": 107222,
+        "word": "古埃及房子着火要先救猫",
+        "onboard_time": 1742655382,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 782725,
+        "num": 106115,
+        "word": "唐九洲 抄袭",
+        "onboard_time": 1742647761,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 386388,
+        "num": 104686,
+        "word": "韦雪买下了秦奋之前给她租的房子",
+        "onboard_time": 1742651423,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 312885,
+        "num": 102489,
+        "word": "曝金秀贤超越N号房新料提示",
+        "onboard_time": 1742649442,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262880,
+        "num": 100863,
+        "word": "榜一大哥带3500页聊天记录报案",
+        "onboard_time": 1742637442,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140922,
+        "num": 100686,
+        "word": "虞书欣黑天鹅高定",
+        "onboard_time": 1742643923,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119066,
+        "num": 98265,
+        "word": "陈都灵温峥嵘你们在玩什么抽象",
+        "onboard_time": 1742659942,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118877,
+        "num": 97549,
+        "word": "日本连锁店承认味噌汤中混入老鼠尸体",
+        "onboard_time": 1742655923,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96733,
+        "num": 96733,
+        "word": "白客 人夫感",
+        "onboard_time": 1742657723,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93685,
+        "num": 93685,
+        "word": "丁禹兮王星越敖瑞鹏生图",
+        "onboard_time": 1742654844,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91354,
+        "num": 91354,
+        "word": "汪苏泷黑幕王源点歌",
+        "onboard_time": 1742657482,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141630,
+        "num": 90414,
+        "word": "日本7岁女童被水泥封尸母亲失踪",
+        "onboard_time": 1742647401,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119181,
+        "num": 85282,
+        "word": "早睡两个月后肉眼可见的变化",
+        "onboard_time": 1742651423,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70130,
+        "num": 70130,
+        "word": "雁回时",
+        "onboard_time": 1742636722,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64923,
+        "num": 64923,
+        "word": "印度男子看视频自学割阑尾",
+        "onboard_time": 1742646082,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63993,
+        "num": 63993,
+        "word": "全款140万买到230平房子",
+        "onboard_time": 1742654783,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60396,
+        "num": 60396,
+        "word": "李荣浩来看杨丞琳演唱会了",
+        "onboard_time": 1742654724,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53202,
+        "num": 53202,
+        "word": "汪苏泷 我们",
+        "onboard_time": 1742654783,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52024,
+        "num": 52024,
+        "word": "被黄霄雲演唱会芭比造型硬控了",
+        "onboard_time": 1742659221,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51997,
+        "num": 51997,
+        "word": "三次开颅网红吴忠华耳朵内又长东西",
+        "onboard_time": 1742642182,
+        "rank": 28,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 36102,
+        "num": 50452,
+        "word": "热热热你冷冷冷",
+        "onboard_time": 1742637081,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49397,
+        "num": 49397,
+        "word": "胃病是种特殊的精神病",
+        "onboard_time": 1742649622,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48961,
+        "num": 48961,
+        "word": "虞书欣95花第一部全集有广现偶",
+        "onboard_time": 1742638460,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45031,
+        "num": 45031,
+        "word": "小傲道歉",
+        "onboard_time": 1742648663,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44293,
+        "num": 44293,
+        "word": "傅菁苏州演唱会",
+        "onboard_time": 1742660301,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42986,
+        "num": 42986,
+        "word": "林忆莲演唱会至少还有你大合唱",
+        "onboard_time": 1742658742,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42390,
+        "num": 42390,
+        "word": "陈都灵的红包",
+        "onboard_time": 1742651423,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42382,
+        "num": 42382,
+        "word": "袁一琦25岁最幸福的事",
+        "onboard_time": 1742662639,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40183,
+        "num": 40183,
+        "word": "丁程鑫开场舞杀疯了",
+        "onboard_time": 1742654963,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40181,
+        "num": 40181,
+        "word": "翔霖",
+        "onboard_time": 1742641941,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32874,
+        "num": 39741,
+        "word": "王楚钦马龙11比1杨硕袁励岑",
+        "onboard_time": 1742646021,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39716,
+        "num": 39716,
+        "word": "乘风2025",
+        "onboard_time": 1742663717,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39384,
+        "num": 39384,
+        "word": "尼日尔发生恐怖袭击至少44人死亡",
+        "onboard_time": 1742650822,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34951,
+        "num": 39367,
+        "word": "古埃及人都有吸猫DNA吧",
+        "onboard_time": 1742654724,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34439,
+        "num": 39355,
+        "word": "著名演员高英逝世",
+        "onboard_time": 1742633661,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34219,
+        "num": 39342,
+        "word": "宋妍霏初舞台",
+        "onboard_time": 1742657361,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33463,
+        "num": 39327,
+        "word": "AG零封狼队",
+        "onboard_time": 1742651904,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33252,
+        "num": 39307,
+        "word": "辛云来发红包",
+        "onboard_time": 1742654724,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32848,
+        "num": 39302,
+        "word": "袁一琦演唱会成都站",
+        "onboard_time": 1742664258,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29199,
+        "num": 39283,
+        "word": "下周可能更热",
+        "onboard_time": 1742633602,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28438,
+        "num": 39260,
+        "word": "林志颖发博晒F1中国站颁奖名场面",
+        "onboard_time": 1742657121,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样战略谋划云南发展新局面#"
+    }
+  }
+}

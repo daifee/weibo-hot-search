@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742663955940,
+  "endTime": 1742664974465,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -49323,6 +49323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119066,
+      "num": 98265,
+      "word": "陈都灵温峥嵘你们在玩什么抽象",
+      "onboard_time": 1742659942,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118992,
       "num": 118992,
       "word": "虞书欣PEL的兵来了",
@@ -55969,14 +55977,6 @@
       "onboard_time": 1741421660,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 93043,
-      "num": 93043,
-      "word": "陈都灵温峥嵘你们在玩什么抽象",
-      "onboard_time": 1742659942,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 93000,
@@ -66993,6 +66993,14 @@
       "onboard_time": 1742511978,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32848,
+      "num": 39302,
+      "word": "袁一琦演唱会成都站",
+      "onboard_time": 1742664258,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 32844,
