@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742643368749,
+  "endTime": 1742647282418,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -1515,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1054575,
+      "num": 1168732,
+      "word": "饿瘦和运动瘦的区别",
+      "onboard_time": 1742640562,
+      "rank": 3,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 1052795,
       "num": 1052795,
       "word": "沙特1比0国足",
@@ -1537,6 +1545,14 @@
       "onboard_time": 1742263163,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1036880,
+      "num": 296241,
+      "word": "虞书欣黑天鹅高定",
+      "onboard_time": 1742643923,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1033888,
@@ -1897,14 +1913,6 @@
       "onboard_time": 1742622741,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 910895,
-      "num": 1145743,
-      "word": "饿瘦和运动瘦的区别",
-      "onboard_time": 1742640562,
-      "rank": 3,
-      "category": "运动健身"
     },
     {
       "raw_hot": 908753,
@@ -2377,6 +2385,14 @@
       "onboard_time": 1742354061,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 770400,
+      "num": 770400,
+      "word": "三次开颅网红吴忠华耳朵内又长东西",
+      "onboard_time": 1742642182,
+      "rank": 44,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 769119,
@@ -3155,6 +3171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 628319,
+      "num": 293632,
+      "word": "王楚钦马龙11比1",
+      "onboard_time": 1742646021,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 625645,
       "num": 230686,
       "word": "海陆发了李晟崩溃直拍",
@@ -3371,6 +3395,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 591223,
+      "num": 582449,
+      "word": "戚薇李承铉把妻子当换装游戏",
+      "onboard_time": 1742640201,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 587212,
       "num": 587212,
       "word": "孙颖莎说很开心在重庆卫冕",
@@ -3401,14 +3433,6 @@
       "onboard_time": 1742545760,
       "rank": 47,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 582449,
-      "num": 582449,
-      "word": "戚薇李承铉把妻子当换装游戏",
-      "onboard_time": 1742640201,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 581287,
@@ -4819,6 +4843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418632,
+      "num": 418632,
+      "word": "普京称曾在特朗普遇刺后去教堂祈祷",
+      "onboard_time": 1742644582,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 418316,
       "num": 418316,
       "word": "特朗普称是拜登抛弃了两名宇航员",
@@ -5787,6 +5819,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 333811,
+      "num": 320624,
+      "word": "TVB前港姐乳腺癌复发病情告急",
+      "onboard_time": 1742642002,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333809,
       "num": 333809,
       "word": "啄木鸟维修",
@@ -6011,6 +6051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312907,
+      "num": 305521,
+      "word": "日本大阪两个月连发两起碎尸案",
+      "onboard_time": 1742645361,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 312454,
       "num": 312454,
       "word": "辽阳多名出租车司机围堵网约车司机",
@@ -6105,6 +6153,14 @@
       "onboard_time": 1742517081,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307128,
+      "num": 307128,
+      "word": "王源去了汪苏泷演唱会",
+      "onboard_time": 1742643322,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 306633,
@@ -6889,14 +6945,6 @@
       "onboard_time": 1742350941,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 260821,
-      "num": 175063,
-      "word": "三次开颅网红吴忠华耳朵内又长东西",
-      "onboard_time": 1742642182,
-      "rank": 44,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 260039,
@@ -7707,6 +7755,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 238894,
+      "num": 238894,
+      "word": "小说坠落",
+      "onboard_time": 1742642300,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 238430,
       "num": 321455,
       "word": "张小婉 惊艳",
@@ -8033,14 +8089,6 @@
       "onboard_time": 1742619803,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227253,
-      "num": 174825,
-      "word": "TVB前港姐乳腺癌复发病情告急",
-      "onboard_time": 1742642002,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 227220,
@@ -10091,14 +10139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194243,
-      "num": 194243,
-      "word": "小说坠落",
-      "onboard_time": 1742642300,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 194227,
       "num": 194227,
       "word": "孟子义不想去浪姐出洋相",
@@ -10275,6 +10315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192315,
+      "num": 192315,
+      "word": "哪吒",
+      "onboard_time": 1742643082,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192060,
       "num": 192060,
       "word": "TREASURE一位",
@@ -10305,6 +10353,14 @@
       "onboard_time": 1742190201,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191564,
+      "num": 191564,
+      "word": "印度男子看视频自学割阑尾",
+      "onboard_time": 1742646082,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 191539,
@@ -10699,6 +10755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187033,
+      "num": 187033,
+      "word": "土耳其将向美国出口4.2亿枚鸡蛋",
+      "onboard_time": 1742645602,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 187028,
       "num": 193915,
       "word": "虞书欣眼眶红红不像演的",
@@ -10883,12 +10947,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184471,
+      "num": 183776,
+      "word": "金饰价格跌到916元",
+      "onboard_time": 1742641701,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 184420,
       "num": 184420,
       "word": "99岁院士李德平逝世",
       "onboard_time": 1742172382,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184358,
+      "num": 184358,
+      "word": "你好星期六",
+      "onboard_time": 1742646203,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 184075,
@@ -10944,6 +11024,14 @@
       "word": "孙颖莎夺冠现场DJ太宠了",
       "onboard_time": 1742131105,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183631,
+      "num": 183631,
+      "word": "马龙王楚钦vs杨硕袁励岑",
+      "onboard_time": 1742643681,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -11595,6 +11683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173726,
+      "num": 183689,
+      "word": "洪涛去了华晨宇演唱会",
+      "onboard_time": 1742645602,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173686,
       "num": 173686,
       "word": "滤镜",
@@ -12177,6 +12273,14 @@
       "onboard_time": 1742538201,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165316,
+      "num": 165316,
+      "word": "马龙王楚钦3比0杨硕袁励岑",
+      "onboard_time": 1742646562,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 165241,
@@ -12859,6 +12963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157357,
+      "num": 157357,
+      "word": "浪姐总监说没想到李嘉琦能唱这么猛",
+      "onboard_time": 1742643802,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157323,
       "num": 157323,
       "word": "王一栩回应演员团队偷跑物料",
@@ -12985,6 +13097,14 @@
       "onboard_time": 1742096722,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154842,
+      "num": 194702,
+      "word": "男子水库边钓鱼被鱼拉下水溺亡",
+      "onboard_time": 1742646922,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154690,
@@ -13321,6 +13441,14 @@
       "onboard_time": 1742156534,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150609,
+      "num": 150609,
+      "word": "卡琳娜公主抱吴宣仪玩摇摇车",
+      "onboard_time": 1742643740,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 150562,
@@ -13723,14 +13851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147070,
-      "num": 147070,
-      "word": "王源去了汪苏泷演唱会",
-      "onboard_time": 1742643322,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 147069,
       "num": 147069,
       "word": "小米2024年财报",
@@ -13753,6 +13873,14 @@
       "onboard_time": 1742482042,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146931,
+      "num": 146931,
+      "word": "周深直播",
+      "onboard_time": 1742646983,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 146836,
@@ -13801,6 +13929,14 @@
       "onboard_time": 1742626101,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 146295,
+      "num": 146295,
+      "word": "hanni澄清",
+      "onboard_time": 1742645542,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 146209,
@@ -14691,20 +14827,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137858,
+      "num": 137858,
+      "word": "张柏芝千层蛋糕裙",
+      "onboard_time": 1742643861,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 137846,
       "num": 137846,
       "word": "汤唯四种语言说获奖感言",
       "onboard_time": 1742139443,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137818,
-      "num": 137818,
-      "word": "金饰价格跌到916元",
-      "onboard_time": 1742641701,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 137753,
@@ -14804,7 +14940,7 @@
     },
     {
       "raw_hot": 136696,
-      "num": 136696,
+      "num": 289918,
       "word": "日本警方回应男性碎尸闹市被弃",
       "onboard_time": 1742638641,
       "rank": 45,
@@ -14873,14 +15009,6 @@
       "onboard_time": 1742470342,
       "rank": 40,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 136159,
-      "num": 130470,
-      "word": "哪吒",
-      "onboard_time": 1742643082,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 136125,
@@ -15209,6 +15337,14 @@
       "onboard_time": 1742301622,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 133129,
+      "num": 133129,
+      "word": "华晨宇金发背头",
+      "onboard_time": 1742643440,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 132894,
@@ -15633,6 +15769,14 @@
       "onboard_time": 1742623341,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128010,
+      "num": 128010,
+      "word": "为研究脑机接口他一年洗约500次头",
+      "onboard_time": 1742646742,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128005,
@@ -17601,6 +17745,14 @@
       "onboard_time": 1742245634,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105444,
+      "num": 297915,
+      "word": "当章若楠遇上欧若风",
+      "onboard_time": 1742644820,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 105177,
@@ -19627,6 +19779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65032,
+      "num": 176941,
+      "word": "孙颖莎演我看比赛的样子",
+      "onboard_time": 1742646321,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63962,
       "num": 174897,
       "word": "6分钟夸克AI极速入门",
@@ -19795,6 +19955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61855,
+      "num": 176946,
+      "word": "世界上最舒服的配色",
+      "onboard_time": 1742640982,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 61511,
       "num": 283161,
       "word": "陈丽君说要努力让流量更长久",
@@ -19961,6 +20129,14 @@
       "onboard_time": 1742228780,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57774,
+      "num": 294827,
+      "word": "80后男子代写回忆录月入5位数",
+      "onboard_time": 1742645782,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57736,
@@ -20985,6 +21161,14 @@
       "onboard_time": 1742361922,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 43215,
+      "num": 490700,
+      "word": "在云南万物皆可咖",
+      "onboard_time": 1742631261,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43200,
@@ -22073,14 +22257,6 @@
       "onboard_time": 1742461942,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 27053,
-      "num": 186286,
-      "word": "在云南万物皆可咖",
-      "onboard_time": 1742631261,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26907,

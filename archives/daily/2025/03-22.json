@@ -1,6 +1,6 @@
 {
   "startTime": 1742574620173,
-  "endTime": 1742643368749,
+  "endTime": 1742647282418,
   "band_list": [
     {
       "raw_hot": 4374487,
@@ -83,6 +83,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1054575,
+      "num": 1168732,
+      "word": "饿瘦和运动瘦的区别",
+      "onboard_time": 1742640562,
+      "rank": 3,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 1036880,
+      "num": 296241,
+      "word": "虞书欣黑天鹅高定",
+      "onboard_time": 1742643923,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1011188,
       "num": 1011188,
       "word": "演员刘念突发低血糖被陌生女孩投喂",
@@ -123,14 +139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 910895,
-      "num": 1145743,
-      "word": "饿瘦和运动瘦的区别",
-      "onboard_time": 1742640562,
-      "rank": 3,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 903376,
       "num": 917474,
       "word": "北大毕业生做正骨被踢出班级群",
@@ -145,6 +153,14 @@
       "onboard_time": 1742613020,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 770400,
+      "num": 770400,
+      "word": "三次开颅网红吴忠华耳朵内又长东西",
+      "onboard_time": 1742642182,
+      "rank": 44,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 746668,
@@ -251,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 628319,
+      "num": 293632,
+      "word": "王楚钦马龙11比1",
+      "onboard_time": 1742646021,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 622081,
       "num": 622081,
       "word": "中日韩三国外长达成共识",
@@ -275,7 +299,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 582449,
+      "raw_hot": 591223,
       "num": 582449,
       "word": "戚薇李承铉把妻子当换装游戏",
       "onboard_time": 1742640201,
@@ -443,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 418632,
+      "num": 418632,
+      "word": "普京称曾在特朗普遇刺后去教堂祈祷",
+      "onboard_time": 1742644582,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 416776,
       "num": 324978,
       "word": "TXT爆改R1SE",
@@ -603,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333811,
+      "num": 320624,
+      "word": "TVB前港姐乳腺癌复发病情告急",
+      "onboard_time": 1742642002,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315815,
       "num": 302165,
       "word": "虞书欣高珠展路透",
@@ -627,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312907,
+      "num": 305521,
+      "word": "日本大阪两个月连发两起碎尸案",
+      "onboard_time": 1742645361,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 310662,
       "num": 310662,
       "word": "千禾0是商标在侮辱谁",
@@ -649,6 +697,14 @@
       "onboard_time": 1742610621,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307128,
+      "num": 307128,
+      "word": "王源去了汪苏泷演唱会",
+      "onboard_time": 1742643322,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 304278,
@@ -705,14 +761,6 @@
       "onboard_time": 1742572280,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 260821,
-      "num": 175063,
-      "word": "三次开颅网红吴忠华耳朵内又长东西",
-      "onboard_time": 1742642182,
-      "rank": 44,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 256984,
@@ -803,6 +851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238894,
+      "num": 238894,
+      "word": "小说坠落",
+      "onboard_time": 1742642300,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 235445,
       "num": 294148,
       "word": "成毅晒观赛照",
@@ -849,14 +905,6 @@
       "onboard_time": 1742619803,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227253,
-      "num": 174825,
-      "word": "TVB前港姐乳腺癌复发病情告急",
-      "onboard_time": 1742642002,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 225080,
@@ -1155,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194243,
-      "num": 194243,
-      "word": "小说坠落",
-      "onboard_time": 1742642300,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 193707,
       "num": 175842,
       "word": "黄雀女子家中洗澡意外被电死",
@@ -1203,6 +1243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192315,
+      "num": 192315,
+      "word": "哪吒",
+      "onboard_time": 1742643082,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 191564,
+      "num": 191564,
+      "word": "印度男子看视频自学割阑尾",
+      "onboard_time": 1742646082,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 191270,
       "num": 191270,
       "word": "成毅F1外媒生图",
@@ -1241,6 +1297,14 @@
       "onboard_time": 1742618181,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187033,
+      "num": 187033,
+      "word": "土耳其将向美国出口4.2亿枚鸡蛋",
+      "onboard_time": 1742645602,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 186480,
@@ -1289,6 +1353,30 @@
       "onboard_time": 1742621062,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184471,
+      "num": 183776,
+      "word": "金饰价格跌到916元",
+      "onboard_time": 1742641701,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 184358,
+      "num": 184358,
+      "word": "你好星期六",
+      "onboard_time": 1742646203,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183631,
+      "num": 183631,
+      "word": "马龙王楚钦vs杨硕袁励岑",
+      "onboard_time": 1742643681,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 182746,
@@ -1363,6 +1451,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 173726,
+      "num": 183689,
+      "word": "洪涛去了华晨宇演唱会",
+      "onboard_time": 1742645602,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173245,
       "num": 193137,
       "word": "田曦薇穿粉",
@@ -1424,6 +1520,14 @@
       "word": "姚明范志毅F1围场同框",
       "onboard_time": 1742612301,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165316,
+      "num": 165316,
+      "word": "马龙王楚钦3比0杨硕袁励岑",
+      "onboard_time": 1742646562,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1507,12 +1611,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 157357,
+      "num": 157357,
+      "word": "浪姐总监说没想到李嘉琦能唱这么猛",
+      "onboard_time": 1742643802,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156343,
       "num": 156343,
       "word": "上海外滩1000平的家中衣帽间",
       "onboard_time": 1742627661,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154842,
+      "num": 194702,
+      "word": "男子水库边钓鱼被鱼拉下水溺亡",
+      "onboard_time": 1742646922,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154083,
@@ -1555,6 +1675,14 @@
       "category": "民生新闻,议题讨论"
     },
     {
+      "raw_hot": 150609,
+      "num": 150609,
+      "word": "卡琳娜公主抱吴宣仪玩摇摇车",
+      "onboard_time": 1742643740,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150553,
       "num": 150553,
       "word": "陈都灵白花野火型女主",
@@ -1595,12 +1723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147070,
-      "num": 147070,
-      "word": "王源去了汪苏泷演唱会",
-      "onboard_time": 1742643322,
+      "raw_hot": 146931,
+      "num": 146931,
+      "word": "周深直播",
+      "onboard_time": 1742646983,
       "rank": 41,
-      "category": "演出"
+      "category": "音乐"
     },
     {
       "raw_hot": 146322,
@@ -1609,6 +1737,14 @@
       "onboard_time": 1742626101,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 146295,
+      "num": 146295,
+      "word": "hanni澄清",
+      "onboard_time": 1742645542,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 145684,
@@ -1675,12 +1811,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137818,
-      "num": 137818,
-      "word": "金饰价格跌到916元",
-      "onboard_time": 1742641701,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 137858,
+      "num": 137858,
+      "word": "张柏芝千层蛋糕裙",
+      "onboard_time": 1742643861,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 137249,
@@ -1692,7 +1828,7 @@
     },
     {
       "raw_hot": 136696,
-      "num": 136696,
+      "num": 289918,
       "word": "日本警方回应男性碎尸闹市被弃",
       "onboard_time": 1742638641,
       "rank": 45,
@@ -1705,14 +1841,6 @@
       "onboard_time": 1742632522,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136159,
-      "num": 130470,
-      "word": "哪吒",
-      "onboard_time": 1742643082,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 135634,
@@ -1771,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133129,
+      "num": 133129,
+      "word": "华晨宇金发背头",
+      "onboard_time": 1742643440,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131694,
       "num": 123817,
       "word": "何秋亊翻牌",
@@ -1809,6 +1945,14 @@
       "onboard_time": 1742623341,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128010,
+      "num": 128010,
+      "word": "为研究脑机接口他一年洗约500次头",
+      "onboard_time": 1742646742,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127996,
@@ -2129,6 +2273,14 @@
       "onboard_time": 1742628621,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105444,
+      "num": 297915,
+      "word": "当章若楠遇上欧若风",
+      "onboard_time": 1742644820,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 105177,
@@ -2491,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65032,
+      "num": 176941,
+      "word": "孙颖莎演我看比赛的样子",
+      "onboard_time": 1742646321,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64427,
       "num": 64427,
       "word": "儿子尿毒症63岁母亲偷偷签字捐肾",
@@ -2505,6 +2665,14 @@
       "onboard_time": 1742611942,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61855,
+      "num": 176946,
+      "word": "世界上最舒服的配色",
+      "onboard_time": 1742640982,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 60518,
@@ -2529,6 +2697,14 @@
       "onboard_time": 1742596636,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 57774,
+      "num": 294827,
+      "word": "80后男子代写回忆录月入5位数",
+      "onboard_time": 1742645782,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56788,
@@ -2625,6 +2801,14 @@
       "onboard_time": 1742595195,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43215,
+      "num": 490700,
+      "word": "在云南万物皆可咖",
+      "onboard_time": 1742631261,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41905,
@@ -2736,14 +2920,6 @@
       "word": "晨雾中春日梯田恬静感拉满",
       "onboard_time": 1742617882,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27053,
-      "num": 186286,
-      "word": "在云南万物皆可咖",
-      "onboard_time": 1742631261,
-      "rank": 27,
       "category": "民生新闻"
     },
     {

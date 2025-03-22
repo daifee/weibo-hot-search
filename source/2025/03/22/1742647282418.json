@@ -1,0 +1,410 @@
+{
+  "runTime": 1742647282418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1054575,
+        "num": 1168732,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1742640562,
+        "rank": 0,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 770400,
+        "num": 770400,
+        "word": "三次开颅网红吴忠华耳朵内又长东西",
+        "onboard_time": 1742642182,
+        "rank": 1,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 43215,
+        "num": 490700,
+        "word": "在云南万物皆可咖",
+        "onboard_time": 1742631261,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418632,
+        "num": 418632,
+        "word": "普京称曾在特朗普遇刺后去教堂祈祷",
+        "onboard_time": 1742644582,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 391605,
+        "num": 391605,
+        "word": "著名演员高英逝世",
+        "onboard_time": 1742633661,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324752,
+        "num": 324752,
+        "word": "热热热你冷冷冷",
+        "onboard_time": 1742637081,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333811,
+        "num": 320624,
+        "word": "TVB前港姐乳腺癌复发病情告急",
+        "onboard_time": 1742642002,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313214,
+        "num": 313214,
+        "word": "楼下住户报警30多次逼走楼上3任租客",
+        "onboard_time": 1742628141,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307128,
+        "num": 307128,
+        "word": "王源去了汪苏泷演唱会",
+        "onboard_time": 1742643322,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 312907,
+        "num": 305521,
+        "word": "日本大阪两个月连发两起碎尸案",
+        "onboard_time": 1742645361,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1072774,
+        "num": 305126,
+        "word": "榜一大哥带3500页聊天记录报案",
+        "onboard_time": 1742637442,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298309,
+        "num": 298309,
+        "word": "下周可能更热",
+        "onboard_time": 1742633602,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105444,
+        "num": 297915,
+        "word": "当章若楠遇上欧若风",
+        "onboard_time": 1742644820,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1036880,
+        "num": 296241,
+        "word": "虞书欣黑天鹅高定",
+        "onboard_time": 1742643923,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 57774,
+        "num": 294827,
+        "word": "80后男子代写回忆录月入5位数",
+        "onboard_time": 1742645782,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628319,
+        "num": 293632,
+        "word": "王楚钦马龙11比1",
+        "onboard_time": 1742646021,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 591223,
+        "num": 291752,
+        "word": "戚薇李承铉把妻子当换装游戏",
+        "onboard_time": 1742640201,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42469,
+        "num": 289918,
+        "word": "日本警方回应男性碎尸闹市被弃",
+        "onboard_time": 1742638641,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 289687,
+        "num": 289687,
+        "word": "中国空间站将迎皮肤可再生的涡虫",
+        "onboard_time": 1742637322,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245829,
+        "num": 245829,
+        "word": "翔霖",
+        "onboard_time": 1742641941,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352711,
+        "num": 243751,
+        "word": "汪苏泷向李荣浩道歉",
+        "onboard_time": 1742632281,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238894,
+        "num": 238894,
+        "word": "小说坠落",
+        "onboard_time": 1742642300,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 154842,
+        "num": 194702,
+        "word": "男子水库边钓鱼被鱼拉下水溺亡",
+        "onboard_time": 1742646922,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192315,
+        "num": 192315,
+        "word": "哪吒",
+        "onboard_time": 1742643082,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206241,
+        "num": 192084,
+        "word": "我和吴宣仪复婚了",
+        "onboard_time": 1742620701,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191564,
+        "num": 191564,
+        "word": "印度男子看视频自学割阑尾",
+        "onboard_time": 1742646082,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190570,
+        "num": 190570,
+        "word": "虞书欣95花第一部全集有广现偶",
+        "onboard_time": 1742638460,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187033,
+        "num": 187033,
+        "word": "土耳其将向美国出口4.2亿枚鸡蛋",
+        "onboard_time": 1742645602,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184358,
+        "num": 184358,
+        "word": "你好星期六",
+        "onboard_time": 1742646203,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181335,
+        "num": 183905,
+        "word": "雁回时",
+        "onboard_time": 1742636722,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184471,
+        "num": 183776,
+        "word": "金饰价格跌到916元",
+        "onboard_time": 1742641701,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173726,
+        "num": 183689,
+        "word": "洪涛去了华晨宇演唱会",
+        "onboard_time": 1742645602,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183631,
+        "num": 183631,
+        "word": "马龙王楚钦vs杨硕袁励岑",
+        "onboard_time": 1742643681,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178496,
+        "num": 178496,
+        "word": "newjeans韩网口碑",
+        "onboard_time": 1742637862,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61855,
+        "num": 176946,
+        "word": "世界上最舒服的配色",
+        "onboard_time": 1742640982,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 65032,
+        "num": 176941,
+        "word": "孙颖莎演我看比赛的样子",
+        "onboard_time": 1742646321,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176941,
+        "num": 176940,
+        "word": "又一种生命体将来到中国空间站",
+        "onboard_time": 1742637081,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165316,
+        "num": 165316,
+        "word": "马龙王楚钦3比0杨硕袁励岑",
+        "onboard_time": 1742646562,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159639,
+        "num": 159639,
+        "word": "中日韩三国外长达成共识",
+        "onboard_time": 1742635041,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157357,
+        "num": 157357,
+        "word": "浪姐总监说没想到李嘉琦能唱这么猛",
+        "onboard_time": 1742643802,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150609,
+        "num": 150609,
+        "word": "卡琳娜公主抱吴宣仪玩摇摇车",
+        "onboard_time": 1742643740,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146931,
+        "num": 146931,
+        "word": "周深直播",
+        "onboard_time": 1742646983,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146295,
+        "num": 146295,
+        "word": "hanni澄清",
+        "onboard_time": 1742645542,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146124,
+        "num": 146124,
+        "word": "熬夜千万不要长时间补觉",
+        "onboard_time": 1742638761,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139885,
+        "num": 139885,
+        "word": "不好看但健康的女生特征",
+        "onboard_time": 1742633181,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138050,
+        "num": 138050,
+        "word": "为什么这么多人排斥洗衣池",
+        "onboard_time": 1742641462,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137858,
+        "num": 137858,
+        "word": "张柏芝千层蛋糕裙",
+        "onboard_time": 1742643861,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133129,
+        "num": 133129,
+        "word": "华晨宇金发背头",
+        "onboard_time": 1742643440,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131860,
+        "num": 131860,
+        "word": "小学二年级男孩写字堪比打印机",
+        "onboard_time": 1742641101,
+        "rank": 48,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 128010,
+        "num": 128010,
+        "word": "为研究脑机接口他一年洗约500次头",
+        "onboard_time": 1742646742,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平云贵行为何频提开放#"
+    }
+  }
+}
