@@ -1,0 +1,410 @@
+{
+  "runTime": 1742643368749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 910895,
+        "num": 1145743,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1742640562,
+        "rank": 0,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 582449,
+        "num": 582449,
+        "word": "戚薇李承铉把妻子当换装游戏",
+        "onboard_time": 1742640201,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35909,
+        "num": 513616,
+        "word": "神十九乘组圆满完成第3次出舱",
+        "onboard_time": 1742631802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501291,
+        "num": 501291,
+        "word": "热热热你冷冷冷",
+        "onboard_time": 1742637081,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488574,
+        "num": 488574,
+        "word": "著名演员高英逝世",
+        "onboard_time": 1742633661,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328646,
+        "num": 328646,
+        "word": "中国空间站将迎皮肤可再生的涡虫",
+        "onboard_time": 1742637322,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 371364,
+        "num": 317325,
+        "word": "虞书欣95花第一部全集有广现偶",
+        "onboard_time": 1742638460,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1612505,
+        "num": 304516,
+        "word": "榜一大哥带3500页聊天记录报案",
+        "onboard_time": 1742637442,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287778,
+        "num": 287778,
+        "word": "中日韩三国外长达成共识",
+        "onboard_time": 1742635041,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287082,
+        "num": 287082,
+        "word": "楼下住户报警30多次逼走楼上3任租客",
+        "onboard_time": 1742628141,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383122,
+        "num": 279472,
+        "word": "newjeans韩网口碑",
+        "onboard_time": 1742637862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287739,
+        "num": 270478,
+        "word": "翔霖",
+        "onboard_time": 1742641941,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45928,
+        "num": 263121,
+        "word": "女孩回应从加拿大退学回国考专科",
+        "onboard_time": 1742642961,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261409,
+        "num": 261409,
+        "word": "女校实体书",
+        "onboard_time": 1742635820,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 19253,
+        "num": 256751,
+        "word": "陈冲用写作抵御失去",
+        "onboard_time": 1742642420,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255582,
+        "num": 255582,
+        "word": "下周可能更热",
+        "onboard_time": 1742633602,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222415,
+        "num": 254957,
+        "word": "澳门偶遇Angelababy打高尔夫",
+        "onboard_time": 1742642061,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254537,
+        "num": 254537,
+        "word": "卖房留学女孩一年后回国读专科",
+        "onboard_time": 1742637081,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41155,
+        "num": 254255,
+        "word": "全红婵必吃榜新增粤队布拉肠",
+        "onboard_time": 1742642420,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120838,
+        "num": 253560,
+        "word": "卓沅李昊又对土豆下手了",
+        "onboard_time": 1742638280,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 666488,
+        "num": 253502,
+        "word": "汪苏泷向李荣浩道歉",
+        "onboard_time": 1742632281,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 302488,
+        "num": 252913,
+        "word": "我和吴宣仪复婚了",
+        "onboard_time": 1742620701,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252504,
+        "num": 252504,
+        "word": "外网丑猫",
+        "onboard_time": 1742636121,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215018,
+        "num": 237497,
+        "word": "Henry和库克同框",
+        "onboard_time": 1742641522,
+        "rank": 23,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 230727,
+        "num": 230727,
+        "word": "又一种生命体将来到中国空间站",
+        "onboard_time": 1742637081,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209330,
+        "num": 209330,
+        "word": "熬夜千万不要长时间补觉",
+        "onboard_time": 1742638761,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47328,
+        "num": 209244,
+        "word": "妈妈称瑶一瑶在学校交了新朋友",
+        "onboard_time": 1742643141,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 209180,
+        "num": 209180,
+        "word": "为什么这么多人排斥洗衣池",
+        "onboard_time": 1742641462,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194243,
+        "num": 194243,
+        "word": "小说坠落",
+        "onboard_time": 1742642300,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 175818,
+        "num": 175818,
+        "word": "宋妍霏浪姐6人缘",
+        "onboard_time": 1742637561,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260821,
+        "num": 175063,
+        "word": "三次开颅网红吴忠华耳朵内又长东西",
+        "onboard_time": 1742642182,
+        "rank": 30,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 227253,
+        "num": 174728,
+        "word": "TVB前港姐乳腺癌复发病情告急",
+        "onboard_time": 1742642002,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187099,
+        "num": 174725,
+        "word": "不好看但健康的女生特征",
+        "onboard_time": 1742633181,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172446,
+        "num": 172446,
+        "word": "鞠婧祎丝绒绿裙造型",
+        "onboard_time": 1742638942,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169823,
+        "num": 169823,
+        "word": "雁回时第11集齁甜",
+        "onboard_time": 1742642300,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165241,
+        "num": 165241,
+        "word": "孙颖莎亮晶晶",
+        "onboard_time": 1742641821,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163479,
+        "num": 163479,
+        "word": "杨天真库克一起爬景山公园",
+        "onboard_time": 1742641342,
+        "rank": 36,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 151640,
+        "num": 151640,
+        "word": "雁回时",
+        "onboard_time": 1742636722,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150553,
+        "num": 150553,
+        "word": "陈都灵白花野火型女主",
+        "onboard_time": 1742642724,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148869,
+        "num": 148869,
+        "word": "武汉大学樱花大道变身帅哥T台",
+        "onboard_time": 1742642002,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19235,
+        "num": 147611,
+        "word": "胡兵中国国际时装周走秀",
+        "onboard_time": 1742639542,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147070,
+        "num": 147070,
+        "word": "王源去了汪苏泷演唱会",
+        "onboard_time": 1742643322,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146278,
+        "num": 146278,
+        "word": "萨摩耶骨相一般全靠发型",
+        "onboard_time": 1742632641,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139170,
+        "num": 139170,
+        "word": "男子携代孕遗腹子争妻子千万遗产",
+        "onboard_time": 1742614521,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137818,
+        "num": 137818,
+        "word": "金饰价格跌到916元",
+        "onboard_time": 1742641701,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130818,
+        "num": 130818,
+        "word": "bighit新男团路透",
+        "onboard_time": 1742641880,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136159,
+        "num": 130470,
+        "word": "哪吒",
+        "onboard_time": 1742643082,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127871,
+        "num": 127871,
+        "word": "小学二年级男孩写字堪比打印机",
+        "onboard_time": 1742641101,
+        "rank": 47,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 119892,
+        "num": 119892,
+        "word": "全红婵对布拉肠情有独钟",
+        "onboard_time": 1742643202,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116893,
+        "num": 116893,
+        "word": "女子买到假迪奥小样牵出330万大案",
+        "onboard_time": 1742622741,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平云贵行为何频提开放#"
+    }
+  }
+}

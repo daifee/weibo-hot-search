@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742642377438,
+  "endTime": 1742643368749,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -1899,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 910895,
+      "num": 1145743,
+      "word": "饿瘦和运动瘦的区别",
+      "onboard_time": 1742640562,
+      "rank": 3,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 908753,
       "num": 908753,
       "word": "小伙忘锁公共自行车担心贷款还车费",
@@ -3363,14 +3371,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 588355,
-      "num": 588355,
-      "word": "饿瘦和运动瘦的区别",
-      "onboard_time": 1742640562,
-      "rank": 3,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 587212,
       "num": 587212,
       "word": "孙颖莎说很开心在重庆卫冕",
@@ -3401,6 +3401,14 @@
       "onboard_time": 1742545760,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 582449,
+      "num": 582449,
+      "word": "戚薇李承铉把妻子当换装游戏",
+      "onboard_time": 1742640201,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 581287,
@@ -5763,14 +5771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 335714,
-      "num": 335714,
-      "word": "戚薇李承铉把妻子当换装游戏",
-      "onboard_time": 1742640201,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 334110,
       "num": 345441,
       "word": "关晓彤王子奇新剧开机",
@@ -6371,6 +6371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287739,
+      "num": 270478,
+      "word": "翔霖",
+      "onboard_time": 1742641941,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286374,
       "num": 321723,
       "word": "台湾枪战细节曝光",
@@ -6883,6 +6891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 260821,
+      "num": 175063,
+      "word": "三次开颅网红吴忠华耳朵内又长东西",
+      "onboard_time": 1742642182,
+      "rank": 44,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 260039,
       "num": 260039,
       "word": "睡眠负债的人身体有9个表现",
@@ -7073,6 +7089,14 @@
       "onboard_time": 1742212525,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254537,
+      "num": 340904,
+      "word": "卖房留学女孩一年后回国读专科",
+      "onboard_time": 1742637081,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254491,
@@ -8011,6 +8035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227253,
+      "num": 174825,
+      "word": "TVB前港姐乳腺癌复发病情告急",
+      "onboard_time": 1742642002,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227220,
       "num": 350037,
       "word": "兆瓦闪充让充电和加油一样快",
@@ -8217,6 +8249,14 @@
       "onboard_time": 1742531003,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222415,
+      "num": 254957,
+      "word": "澳门偶遇Angelababy打高尔夫",
+      "onboard_time": 1742642061,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 222265,
@@ -8611,6 +8651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215018,
+      "num": 241043,
+      "word": "Henry和库克同框",
+      "onboard_time": 1742641522,
+      "rank": 19,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 214678,
       "num": 214678,
       "word": "李秉宪力挺刘亚仁复出",
@@ -8657,14 +8705,6 @@
       "onboard_time": 1742128764,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213183,
-      "num": 213183,
-      "word": "翔霖",
-      "onboard_time": 1742641941,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 212971,
@@ -8851,14 +8891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209974,
-      "num": 241043,
-      "word": "Henry和库克同框",
-      "onboard_time": 1742641522,
-      "rank": 19,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 209970,
       "num": 209970,
       "word": "哈马斯证实多名高层死于以军空袭",
@@ -8921,6 +8953,14 @@
       "onboard_time": 1742558602,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209180,
+      "num": 209180,
+      "word": "为什么这么多人排斥洗衣池",
+      "onboard_time": 1742641462,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 209176,
@@ -10049,6 +10089,14 @@
       "onboard_time": 1742188821,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194243,
+      "num": 194243,
+      "word": "小说坠落",
+      "onboard_time": 1742642300,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 194227,
@@ -11507,14 +11555,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 174825,
-      "num": 174825,
-      "word": "TVB前港姐乳腺癌复发病情告急",
-      "onboard_time": 1742642002,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174761,
       "num": 174761,
       "word": "谢娜说蒋梦婕变落魄林黛玉",
@@ -11803,6 +11843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 169823,
+      "num": 169823,
+      "word": "雁回时第11集齁甜",
+      "onboard_time": 1742642300,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169759,
       "num": 169759,
       "word": "狼队首个锁定第三轮S组",
@@ -11995,14 +12043,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 166997,
-      "num": 340904,
-      "word": "卖房留学女孩一年后回国读专科",
-      "onboard_time": 1742637081,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166889,
       "num": 166889,
       "word": "苦尽柑来遇见你编剧",
@@ -12137,6 +12177,14 @@
       "onboard_time": 1742538201,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165241,
+      "num": 223748,
+      "word": "孙颖莎亮晶晶",
+      "onboard_time": 1742641821,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 165047,
@@ -13283,6 +13331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150553,
+      "num": 150553,
+      "word": "陈都灵白花野火型女主",
+      "onboard_time": 1742642724,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150494,
       "num": 150494,
       "word": "撒贝宁被周总同款领带硬控了",
@@ -13465,6 +13521,14 @@
       "onboard_time": 1742531243,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148869,
+      "num": 148869,
+      "word": "武汉大学樱花大道变身帅哥T台",
+      "onboard_time": 1742642002,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148823,
@@ -13657,6 +13721,14 @@
       "onboard_time": 1742129364,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147070,
+      "num": 147070,
+      "word": "王源去了汪苏泷演唱会",
+      "onboard_time": 1742643322,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 147069,
@@ -14627,6 +14699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137818,
+      "num": 137818,
+      "word": "金饰价格跌到916元",
+      "onboard_time": 1742641701,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137753,
       "num": 137753,
       "word": "推动巡演项目一次审批全国巡演",
@@ -14793,6 +14873,14 @@
       "onboard_time": 1742470342,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 136159,
+      "num": 130470,
+      "word": "哪吒",
+      "onboard_time": 1742643082,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 136125,
@@ -15267,14 +15355,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 131024,
-      "num": 131024,
-      "word": "武汉大学樱花大道变身帅哥T台",
-      "onboard_time": 1742642002,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130830,
       "num": 130830,
       "word": "WBG对战ITZY",
@@ -15539,14 +15619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128322,
-      "num": 128322,
-      "word": "为什么这么多人排斥洗衣池",
-      "onboard_time": 1742641462,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 128263,
       "num": 128263,
       "word": "山西女硕士失踪案进入审查起诉阶段",
@@ -15763,14 +15835,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 126182,
-      "num": 126182,
-      "word": "澳门偶遇Angelababy打高尔夫",
-      "onboard_time": 1742642061,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126159,
       "num": 126159,
       "word": "美军将继续空袭直到胡塞武装停止袭击",
@@ -15897,14 +15961,6 @@
       "onboard_time": 1742133325,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125010,
-      "num": 125010,
-      "word": "三次开颅网红吴忠华耳朵内又长东西",
-      "onboard_time": 1742642182,
-      "rank": 44,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 124972,
@@ -16275,6 +16331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120838,
+      "num": 364298,
+      "word": "卓沅李昊又对土豆下手了",
+      "onboard_time": 1742638280,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120829,
       "num": 205580,
       "word": "中国车迷评价拉塞尔像敖丙",
@@ -16339,14 +16403,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 120172,
-      "num": 120172,
-      "word": "小说坠落",
-      "onboard_time": 1742642300,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 120141,
       "num": 120141,
       "word": "张元英四月刊封面",
@@ -16369,6 +16425,14 @@
       "onboard_time": 1742624480,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119892,
+      "num": 119892,
+      "word": "全红婵对布拉肠情有独钟",
+      "onboard_time": 1742643202,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 119836,
@@ -16691,14 +16755,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 115831,
-      "num": 223748,
-      "word": "孙颖莎亮晶晶",
-      "onboard_time": 1742641821,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115729,
       "num": 115729,
       "word": "谁教陈都灵这么剧宣的",
@@ -16793,22 +16849,6 @@
       "onboard_time": 1742372423,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 114561,
-      "num": 114561,
-      "word": "雁回时第11集齁甜",
-      "onboard_time": 1742642300,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 114343,
-      "num": 114343,
-      "word": "金饰价格跌到916元",
-      "onboard_time": 1742641701,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 114329,
@@ -18169,14 +18209,6 @@
       "onboard_time": 1742512638,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95669,
-      "num": 364298,
-      "word": "卓沅李昊又对土豆下手了",
-      "onboard_time": 1742638280,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 95634,
@@ -20675,6 +20707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47328,
+      "num": 209244,
+      "word": "妈妈称瑶一瑶在学校交了新朋友",
+      "onboard_time": 1742643141,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 47283,
       "num": 166204,
       "word": "国足背后有我",
@@ -20728,6 +20768,14 @@
       "word": "凡客注册商标含卫生巾商品服务",
       "onboard_time": 1742281462,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45928,
+      "num": 263121,
+      "word": "女孩回应从加拿大退学回国考专科",
+      "onboard_time": 1742642961,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -21081,6 +21129,14 @@
       "onboard_time": 1742296823,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41155,
+      "num": 254255,
+      "word": "全红婵必吃榜新增粤队布拉肠",
+      "onboard_time": 1742642420,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 41063,
@@ -22657,6 +22713,14 @@
       "onboard_time": 1742620462,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19253,
+      "num": 256751,
+      "word": "陈冲用写作抵御失去",
+      "onboard_time": 1742642420,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 19134,
