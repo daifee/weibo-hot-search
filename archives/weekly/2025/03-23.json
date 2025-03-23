@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742699241619,
+  "endTime": 1742699717398,
   "band_list": [
     {
       "raw_hot": 1694206,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 814705,
-      "num": 287196,
+      "raw_hot": 942012,
+      "num": 295146,
       "word": "曝有数千张金秀贤照片视频未公开",
       "onboard_time": 1742698039,
       "rank": 11,
@@ -107,20 +107,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 557458,
+      "num": 557458,
+      "word": "恋与深空",
+      "onboard_time": 1742698220,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 533742,
+      "num": 603503,
+      "word": "女生劝阻吸烟被怼不闻烟味别出来吃饭",
+      "onboard_time": 1742698879,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 505158,
       "num": 307849,
       "word": "金秀贤可能被刑法处罚",
       "onboard_time": 1742686518,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 488717,
-      "num": 488717,
-      "word": "恋与深空",
-      "onboard_time": 1742698220,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 466310,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 326829,
-      "num": 215766,
+      "num": 219812,
       "word": "4种饿是假饿",
       "onboard_time": 1742687118,
       "rank": 20,
@@ -201,14 +209,6 @@
       "onboard_time": 1742640562,
       "rank": 4,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 295250,
-      "num": 295250,
-      "word": "女生劝阻吸烟被怼不闻烟味别出来吃饭",
-      "onboard_time": 1742698879,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 293195,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258132,
+      "num": 258132,
+      "word": "17部电影定档清明和五一档",
+      "onboard_time": 1742695641,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 256236,
       "num": 208866,
       "word": "唐九洲疑似回应抄袭",
@@ -289,14 +297,6 @@
       "onboard_time": 1742693361,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233737,
-      "num": 233737,
-      "word": "17部电影定档清明和五一档",
-      "onboard_time": 1742695641,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 211893,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 190900,
-      "num": 190900,
+      "num": 245329,
       "word": "浪姐6蒋一侨唱哭吴宣仪",
       "onboard_time": 1742697980,
       "rank": 18,
@@ -379,6 +379,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 174216,
+      "num": 174216,
+      "word": "郑钦文2比0汤森德",
+      "onboard_time": 1742699000,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170678,
       "num": 133217,
       "word": "全款140万买到230平房子",
@@ -393,6 +401,14 @@
       "onboard_time": 1742654724,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164811,
+      "num": 164811,
+      "word": "考研英语北京区89分",
+      "onboard_time": 1742697861,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 163763,
@@ -411,6 +427,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160420,
+      "num": 160420,
+      "word": "郑钦文晋级迈阿密赛16强",
+      "onboard_time": 1742699060,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157610,
+      "num": 157610,
+      "word": "邓超也被孙俪吓了一跳吧",
+      "onboard_time": 1742698879,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154893,
       "num": 154893,
       "word": "陈都灵演技",
@@ -425,14 +457,6 @@
       "onboard_time": 1742693060,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151991,
-      "num": 151991,
-      "word": "考研英语北京区89分",
-      "onboard_time": 1742697861,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 145698,
@@ -457,6 +481,14 @@
       "onboard_time": 1742659942,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143031,
+      "num": 143031,
+      "word": "夏以昼日卡",
+      "onboard_time": 1742691081,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 140085,
@@ -491,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135674,
+      "num": 135674,
+      "word": "孙颖莎说输球是比赛的一部分",
+      "onboard_time": 1742696899,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135203,
       "num": 166121,
       "word": "哪吒2上映1个多月排片量依然霸榜",
@@ -500,19 +540,19 @@
     },
     {
       "raw_hot": 134710,
-      "num": 191089,
+      "num": 226491,
       "word": "如何提高马拉松中签率",
       "onboard_time": 1742697680,
       "rank": 17,
       "category": "体育"
     },
     {
-      "raw_hot": 134205,
-      "num": 134205,
-      "word": "孙颖莎说输球是比赛的一部分",
-      "onboard_time": 1742696899,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 132402,
+      "num": 240837,
+      "word": "韩国一天发生16起山林火灾",
+      "onboard_time": 1742695641,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 131481,
@@ -529,14 +569,6 @@
       "onboard_time": 1742640201,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127694,
-      "num": 240837,
-      "word": "韩国一天发生16起山林火灾",
-      "onboard_time": 1742695641,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 127277,
@@ -563,20 +595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123425,
-      "num": 123425,
-      "word": "邓超也被孙俪吓了一跳吧",
-      "onboard_time": 1742698879,
-      "rank": 42,
+      "raw_hot": 123470,
+      "num": 123470,
+      "word": "记者将采访金赛纶的纽约男友",
+      "onboard_time": 1742698641,
+      "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123102,
-      "num": 123102,
-      "word": "夏以昼日卡",
-      "onboard_time": 1742691081,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 122941,
@@ -595,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116894,
-      "num": 116894,
-      "word": "记者将采访金赛纶的纽约男友",
-      "onboard_time": 1742698641,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116142,
       "num": 116142,
       "word": "雁回时",
@@ -619,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113841,
+      "num": 113841,
+      "word": "美国六代机终于不是PPT了",
+      "onboard_time": 1742699481,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113363,
       "num": 113363,
       "word": "被黄霄雲演唱会芭比造型硬控了",
@@ -633,6 +657,14 @@
       "onboard_time": 1742650822,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108986,
+      "num": 108986,
+      "word": "蒋一侨叫倪虹洁小朋友倒反天罡",
+      "onboard_time": 1742699121,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 108336,
@@ -672,6 +704,14 @@
       "word": "丁程鑫开场舞杀疯了",
       "onboard_time": 1742654963,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102570,
+      "num": 102570,
+      "word": "叶童 渡情",
+      "onboard_time": 1742697439,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -715,12 +755,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96632,
-      "num": 153442,
-      "word": "郑钦文2比0汤森德",
-      "onboard_time": 1742699000,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 97858,
+      "num": 240212,
+      "word": "泽连斯基视察乌东前线指挥所",
+      "onboard_time": 1742698220,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94665,
@@ -737,14 +777,6 @@
       "onboard_time": 1742656523,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90398,
-      "num": 92623,
-      "word": "叶童 渡情",
-      "onboard_time": 1742697439,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 89701,
@@ -939,14 +971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 61075,
-      "num": 187805,
-      "word": "泽连斯基视察乌东前线指挥所",
-      "onboard_time": 1742698220,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 55882,
       "num": 54040,
       "word": "王楚钦赛后一层一层包好球拍",
@@ -961,14 +985,6 @@
       "onboard_time": 1742684836,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 55167,
-      "num": 152345,
-      "word": "郑钦文晋级迈阿密赛16强",
-      "onboard_time": 1742699060,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 52768,
@@ -1099,7 +1115,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 20038,
+      "raw_hot": 20416,
       "num": 131521,
       "word": "格力新四大件",
       "onboard_time": 1742695701,
@@ -1177,6 +1193,14 @@
       "onboard_time": 1742677814,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6955,
+      "num": 111436,
+      "word": "懒人做饭的秘诀是一锅出",
+      "onboard_time": 1742699601,
+      "rank": 43,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
