@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742726382649,
+  "endTime": 1742728837231,
   "band_list": [
     {
       "raw_hot": 2607241,
@@ -25,6 +25,14 @@
       "onboard_time": 1742712321,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1722614,
+      "num": 1722614,
+      "word": "B站曾经顶流UP主现在欠账几百万",
+      "onboard_time": 1742725100,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 1694206,
@@ -73,14 +81,6 @@
       "onboard_time": 1742693122,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1306007,
-      "num": 1306007,
-      "word": "B站曾经顶流UP主现在欠账几百万",
-      "onboard_time": 1742725100,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 1267893,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 816972,
+      "num": 276024,
+      "word": "杨幂妈妈庆生照",
+      "onboard_time": 1742726663,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 808702,
       "num": 808702,
       "word": "南京鸡鸣寺樱花树下人比花多",
@@ -177,6 +185,22 @@
       "onboard_time": 1742698879,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 734655,
+      "num": 267082,
+      "word": "金赛纶妈妈被曝站都站不稳",
+      "onboard_time": 1742726000,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 717139,
+      "num": 717139,
+      "word": "法拉利撞了法拉利",
+      "onboard_time": 1742722160,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 673673,
@@ -323,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485945,
+      "num": 485945,
+      "word": "撞脸热巴的美女导游自称一般水平",
+      "onboard_time": 1742725761,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 483569,
       "num": 483569,
       "word": "金泰亨减了10kg",
@@ -425,14 +457,6 @@
       "onboard_time": 1742686518,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 352038,
-      "num": 352038,
-      "word": "法拉利撞了法拉利",
-      "onboard_time": 1742722160,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 350154,
@@ -707,11 +731,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238188,
+      "num": 238188,
+      "word": "网传李昀锐张艺凡合作耀眼",
+      "onboard_time": 1742728341,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236867,
       "num": 236867,
       "word": "留几手说这些年欠我的门票该补了",
       "onboard_time": 1742721020,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 233546,
+      "num": 233546,
+      "word": "刘晓庆说现在生小孩不要寄予厚望",
+      "onboard_time": 1742719820,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -755,12 +795,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222652,
-      "num": 222652,
-      "word": "金赛纶妈妈被曝站都站不稳",
-      "onboard_time": 1742726000,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 216554,
+      "num": 216554,
+      "word": "人人人人人景人人人人人",
+      "onboard_time": 1742723721,
+      "rank": 27,
+      "category": "旅游"
     },
     {
       "raw_hot": 215050,
@@ -769,6 +809,14 @@
       "onboard_time": 1742710580,
       "rank": 21,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 212816,
+      "num": 233392,
+      "word": "大祥哥 欠债",
+      "onboard_time": 1742727439,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 212162,
@@ -899,6 +947,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 191143,
+      "num": 191143,
+      "word": "尚公主",
+      "onboard_time": 1742727439,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191042,
       "num": 191042,
       "word": "金正恩强调继续对俄支持",
@@ -913,6 +969,14 @@
       "onboard_time": 1742697980,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190842,
+      "num": 190842,
+      "word": "怎么张艺兴总能给人惊喜",
+      "onboard_time": 1742727801,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 189131,
@@ -955,20 +1019,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187567,
-      "num": 187567,
-      "word": "撞脸热巴的美女导游自称一般水平",
-      "onboard_time": 1742725761,
+      "raw_hot": 186705,
+      "num": 186705,
+      "word": "仙逆",
+      "onboard_time": 1742726601,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187168,
-      "num": 216537,
-      "word": "刘晓庆说现在生小孩不要寄予厚望",
-      "onboard_time": 1742719820,
-      "rank": 24,
-      "category": "艺人"
+      "category": "动漫"
     },
     {
       "raw_hot": 186301,
@@ -1099,6 +1155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 164631,
+      "num": 164631,
+      "word": "DeepSeek王炸组合",
+      "onboard_time": 1742728041,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 163763,
       "num": 313018,
       "word": "基辅遭大规模无人机袭击",
@@ -1209,6 +1273,14 @@
       "onboard_time": 1742689940,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154037,
+      "num": 154037,
+      "word": "人均两万五去8个国家玩了24天",
+      "onboard_time": 1742727261,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 153803,
@@ -1419,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139238,
+      "num": 139238,
+      "word": "张馨予晚餐吃胡萝卜蘸辣椒面",
+      "onboard_time": 1742728461,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138203,
       "num": 138203,
       "word": "我家的小狗",
@@ -1523,6 +1603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132467,
+      "num": 132467,
+      "word": "百万粉丝网红咱屯儿苗嫂小儿子去世",
+      "onboard_time": 1742728280,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 132402,
       "num": 240837,
       "word": "韩国一天发生16起山林火灾",
@@ -1545,6 +1633,14 @@
       "onboard_time": 1742724140,
       "rank": 23,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 129251,
+      "num": 230792,
+      "word": "王楚钦澳门世界杯见啦",
+      "onboard_time": 1742727321,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 128044,
@@ -1803,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111496,
+      "num": 282490,
+      "word": "三只羊复播时间暂未确定",
+      "onboard_time": 1742727200,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 110612,
       "num": 110612,
       "word": "尼日尔发生恐怖袭击至少44人死亡",
@@ -1873,6 +1977,14 @@
       "onboard_time": 1742687480,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106684,
+      "num": 106684,
+      "word": "管乐侯佩岑把邓萃雯逼成什么样了",
+      "onboard_time": 1742728700,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 106404,
@@ -2027,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97171,
+      "num": 233113,
+      "word": "淘宝专挑抽象大学生来走秀",
+      "onboard_time": 1742726241,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96693,
       "num": 96693,
       "word": "宋妍霏青蛇妆",
@@ -2105,14 +2225,6 @@
       "onboard_time": 1742695580,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88179,
-      "num": 117311,
-      "word": "淘宝专挑抽象大学生来走秀",
-      "onboard_time": 1742726241,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87109,
@@ -2272,6 +2384,14 @@
       "word": "TVB前港姐乳腺癌复发病情告急",
       "onboard_time": 1742642002,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68818,
+      "num": 155825,
+      "word": "杨祐宁曾感慨妻子生产不易",
+      "onboard_time": 1742726601,
+      "rank": 36,
       "category": "艺人"
     },
     {
