@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742762351595,
+  "endTime": 1742764861652,
   "band_list": [
     {
       "raw_hot": 3044323,
@@ -3667,7 +3667,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 18825,
+      "raw_hot": 19023,
       "num": 22312,
       "word": "PCL2025",
       "onboard_time": 1742745500,
@@ -3723,6 +3723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15392,
+      "num": 15392,
+      "word": "荷兰警方针对性搜索罗生门时发现男尸",
+      "onboard_time": 1742761513,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 14102,
       "num": 54213,
       "word": "以色列对黎巴嫩发动新一轮空袭",
@@ -3755,6 +3763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13157,
+      "num": 14324,
+      "word": "袁娅维带出五国选手vocal实力",
+      "onboard_time": 1742762415,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13045,
       "num": 129165,
       "word": "AWE上见到瓦力了",
@@ -3763,8 +3779,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10783,
-      "num": 13916,
+      "raw_hot": 11183,
+      "num": 14322,
       "word": "走出一条持续健康的文旅发展之路",
       "onboard_time": 1742760073,
       "rank": 48,
@@ -3779,12 +3795,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10740,
-      "num": 13890,
-      "word": "荷兰警方针对性搜索罗生门时发现男尸",
-      "onboard_time": 1742761513,
-      "rank": 49,
-      "category": "海外新闻"
+      "raw_hot": 10639,
+      "num": 18221,
+      "word": "看好中国做多中国是潮流也见行动",
+      "onboard_time": 1742763012,
+      "rank": 24,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 10617,
