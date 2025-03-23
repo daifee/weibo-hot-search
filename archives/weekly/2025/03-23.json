@@ -1,7 +1,15 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742719309403,
+  "endTime": 1742721757523,
   "band_list": [
+    {
+      "raw_hot": 2481806,
+      "num": 2481806,
+      "word": "合肥通报三只羊问题调查处置情况",
+      "onboard_time": 1742719339,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
     {
       "raw_hot": 1804315,
       "num": 1804315,
@@ -105,6 +113,14 @@
       "onboard_time": 1742713279,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 823003,
+      "num": 390064,
+      "word": "猫咪做绝育手术被摘除脾脏",
+      "onboard_time": 1742716700,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 808702,
@@ -227,6 +243,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 545269,
+      "num": 545269,
+      "word": "特鲁索娃正式官宣怀孕",
+      "onboard_time": 1742718320,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 506556,
+      "num": 506556,
+      "word": "蒋梦婕的鞋把浪姐舞台给染红了",
+      "onboard_time": 1742718621,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505158,
       "num": 307849,
       "word": "金秀贤可能被刑法处罚",
@@ -259,14 +291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 455891,
-      "num": 313622,
-      "word": "猫咪做绝育手术被摘除脾脏",
-      "onboard_time": 1742716700,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 451711,
       "num": 451711,
       "word": "美国六代机终于不是PPT了",
@@ -289,6 +313,14 @@
       "onboard_time": 1742710280,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 429256,
+      "num": 429256,
+      "word": "WTT高管回应樊振东退出排名",
+      "onboard_time": 1742720300,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 411473,
@@ -323,12 +355,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345386,
+      "num": 345386,
+      "word": "皮亚斯特里夺F1中国站冠军",
+      "onboard_time": 1742719999,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343083,
       "num": 343083,
       "word": "物理老师放大招学生哇声一片",
       "onboard_time": 1742710219,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339527,
+      "num": 339527,
+      "word": "张本智和再次模仿樊振东庆祝动作",
+      "onboard_time": 1742719699,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 332025,
@@ -435,14 +483,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 289460,
-      "num": 289460,
-      "word": "特鲁索娃正式官宣怀孕",
-      "onboard_time": 1742718320,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 286886,
       "num": 748071,
       "word": "上百万买的藏品只有一件是真品",
@@ -547,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246776,
+      "num": 246776,
+      "word": "只是增加笑料罢了",
+      "onboard_time": 1742720479,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241787,
       "num": 241787,
       "word": "张雨绮丁程鑫合作舞台",
@@ -593,6 +641,14 @@
       "onboard_time": 1742717240,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 229090,
+      "num": 229090,
+      "word": "金泰亨wvs回复",
+      "onboard_time": 1742718921,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 225720,
@@ -691,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197276,
+      "num": 197276,
+      "word": "韩国山火已烧4600个足球场面积",
+      "onboard_time": 1742721200,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 196619,
       "num": 196619,
       "word": "中国女子冰壶队直通米兰",
@@ -779,28 +843,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186059,
-      "num": 186059,
-      "word": "金泰亨wvs回复",
-      "onboard_time": 1742718921,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182848,
       "num": 182848,
       "word": "当矮个子女生学会穿搭后的变化",
       "onboard_time": 1742694260,
       "rank": 32,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 182588,
-      "num": 182588,
-      "word": "蒋梦婕的鞋把浪姐舞台给染红了",
-      "onboard_time": 1742718621,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 179606,
@@ -817,6 +865,14 @@
       "onboard_time": 1742701580,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175404,
+      "num": 175404,
+      "word": "留几手说这些年欠我的门票该补了",
+      "onboard_time": 1742721020,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 174698,
@@ -875,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167886,
+      "num": 167886,
+      "word": "虞书欣出发泰国拍双轨",
+      "onboard_time": 1742721741,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167658,
       "num": 153298,
       "word": "被卡琳娜帅一大跳",
@@ -891,6 +955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 165592,
+      "num": 216537,
+      "word": "刘晓庆说现在生小孩不要寄予厚望",
+      "onboard_time": 1742719820,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163763,
       "num": 313018,
       "word": "基辅遭大规模无人机袭击",
@@ -905,6 +977,14 @@
       "onboard_time": 1742718681,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162808,
+      "num": 210239,
+      "word": "张艺兴的演技是什么时候再进化的",
+      "onboard_time": 1742720479,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 162614,
@@ -993,6 +1073,14 @@
       "onboard_time": 1742689940,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154108,
+      "num": 154108,
+      "word": "李现李一桐或二搭将相",
+      "onboard_time": 1742719640,
+      "rank": 36,
+      "category": "作品衍生,剧集"
     },
     {
       "raw_hot": 153803,
@@ -1123,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142722,
+      "num": 142722,
+      "word": "林高远看王楚钦一脸姨母笑",
+      "onboard_time": 1742721260,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142406,
       "num": 137840,
       "word": "比格犬之魔童降世",
@@ -1155,6 +1251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139695,
+      "num": 139695,
+      "word": "李惠利杂志销量",
+      "onboard_time": 1742719522,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138203,
       "num": 138203,
       "word": "我家的小狗",
@@ -1177,6 +1281,14 @@
       "onboard_time": 1742709320,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137477,
+      "num": 137477,
+      "word": "三只羊整改情况",
+      "onboard_time": 1742720300,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 135907,
@@ -1315,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121183,
+      "num": 121183,
+      "word": "周杰伦林志颖F1同框合照",
+      "onboard_time": 1742719401,
+      "rank": 42,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 120358,
       "num": 120358,
       "word": "终于知道茶叶里的茶香怎么来的了",
@@ -1369,6 +1489,14 @@
       "onboard_time": 1742701639,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114691,
+      "num": 114691,
+      "word": "爱丽 熟练度",
+      "onboard_time": 1742719160,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 114687,
@@ -1441,6 +1569,14 @@
       "onboard_time": 1742650822,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109633,
+      "num": 197690,
+      "word": "F1中国站迈凯伦包揽前二",
+      "onboard_time": 1742720600,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 109208,
@@ -1563,16 +1699,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100303,
-      "num": 100303,
-      "word": "爱丽 熟练度",
-      "onboard_time": 1742719160,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 100043,
-      "num": 100043,
+      "num": 207797,
       "word": "张雨霏说汪顺等老将热情不减",
       "onboard_time": 1742716700,
       "rank": 49,
@@ -1859,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70300,
+      "num": 176928,
+      "word": "遇风浪从陵水漂到三亚小孩系疍家人",
+      "onboard_time": 1742720660,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68460,
       "num": 68460,
       "word": "特朗普要造的六代机F47靠谱吗",
@@ -1880,6 +2016,14 @@
       "word": "韩国山火致4名消防员遇难",
       "onboard_time": 1742695580,
       "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 66496,
+      "num": 340939,
+      "word": "美联航机长忘带护照航班延误6小时",
+      "onboard_time": 1742720362,
+      "rank": 14,
       "category": "海外新闻"
     },
     {
@@ -1953,6 +2097,14 @@
       "onboard_time": 1742654724,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60149,
+      "num": 254622,
+      "word": "王楚钦说自己比以前更成熟",
+      "onboard_time": 1742720780,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 59258,
@@ -2289,6 +2441,14 @@
       "onboard_time": 1742677814,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 5776,
+      "num": 586911,
+      "word": "文化中国行看春天里的中国",
+      "onboard_time": 1742721741,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1742721757523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2481806,
+        "num": 2481806,
+        "word": "合肥通报三只羊问题调查处置情况",
+        "onboard_time": 1742719339,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 745570,
+        "num": 745570,
+        "word": "收到月薪60万offer但要偷渡出境",
+        "onboard_time": 1742712321,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5776,
+        "num": 586911,
+        "word": "文化中国行看春天里的中国",
+        "onboard_time": 1742721741,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545269,
+        "num": 545269,
+        "word": "特鲁索娃正式官宣怀孕",
+        "onboard_time": 1742718320,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 537946,
+        "num": 537946,
+        "word": "奔跑吧13第一期嘉宾阵容",
+        "onboard_time": 1742704880,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506556,
+        "num": 506556,
+        "word": "蒋梦婕的鞋把浪姐舞台给染红了",
+        "onboard_time": 1742718621,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496663,
+        "num": 496663,
+        "word": "控糖一年后身体的变化",
+        "onboard_time": 1742713279,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429256,
+        "num": 429256,
+        "word": "WTT高管回应樊振东退出排名",
+        "onboard_time": 1742720300,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30940,
+        "num": 416645,
+        "word": "100秒奔赴一场繁花盛开",
+        "onboard_time": 1742703320,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408741,
+        "num": 408741,
+        "word": "饺子票房破200亿",
+        "onboard_time": 1742700922,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1578224,
+        "num": 408085,
+        "word": "性如何影响中国人的婚姻与家庭",
+        "onboard_time": 1742716878,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 823003,
+        "num": 390064,
+        "word": "猫咪做绝育手术被摘除脾脏",
+        "onboard_time": 1742716700,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367729,
+        "num": 367729,
+        "word": "从陵水漂流到三亚小孩哥父亲发声",
+        "onboard_time": 1742714959,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345386,
+        "num": 345386,
+        "word": "皮亚斯特里夺F1中国站冠军",
+        "onboard_time": 1742719999,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66496,
+        "num": 340939,
+        "word": "美联航机长忘带护照航班延误6小时",
+        "onboard_time": 1742720362,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 339527,
+        "num": 339527,
+        "word": "张本智和再次模仿樊振东庆祝动作",
+        "onboard_time": 1742719699,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334001,
+        "num": 334001,
+        "word": "向佐爆改红桃皇后",
+        "onboard_time": 1742714780,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311357,
+        "num": 311357,
+        "word": "世界上最佳抗炎食物排名",
+        "onboard_time": 1742713940,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 270721,
+        "num": 270721,
+        "word": "沈腾马丽大哥大姐给你兜着",
+        "onboard_time": 1742717419,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60149,
+        "num": 254622,
+        "word": "王楚钦说自己比以前更成熟",
+        "onboard_time": 1742720780,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273334,
+        "num": 253997,
+        "word": "冰岛儿童部长与未成年发生关系产子",
+        "onboard_time": 1742707640,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246776,
+        "num": 246776,
+        "word": "只是增加笑料罢了",
+        "onboard_time": 1742720479,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229090,
+        "num": 229090,
+        "word": "金泰亨wvs回复",
+        "onboard_time": 1742718921,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218526,
+        "num": 218526,
+        "word": "福耀科技大学公布学费与招生人数",
+        "onboard_time": 1742717240,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165592,
+        "num": 216537,
+        "word": "刘晓庆说现在生小孩不要寄予厚望",
+        "onboard_time": 1742719820,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162808,
+        "num": 210239,
+        "word": "张艺兴的演技是什么时候再进化的",
+        "onboard_time": 1742720479,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66493,
+        "num": 207797,
+        "word": "张雨霏说汪顺等老将热情不减",
+        "onboard_time": 1742716700,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109633,
+        "num": 197690,
+        "word": "F1中国站迈凯伦包揽前二",
+        "onboard_time": 1742720600,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197276,
+        "num": 197276,
+        "word": "韩国山火已烧4600个足球场面积",
+        "onboard_time": 1742721200,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 70300,
+        "num": 176928,
+        "word": "遇风浪从陵水漂到三亚小孩系疍家人",
+        "onboard_time": 1742720660,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175404,
+        "num": 175404,
+        "word": "留几手说这些年欠我的门票该补了",
+        "onboard_time": 1742721020,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167886,
+        "num": 167886,
+        "word": "虞书欣出发泰国拍双轨",
+        "onboard_time": 1742721741,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162477,
+        "num": 162477,
+        "word": "杨祐宁老婆官宣怀三胎",
+        "onboard_time": 1742704820,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161000,
+        "num": 161000,
+        "word": "女性消费陷阱",
+        "onboard_time": 1742711960,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161546,
+        "num": 159757,
+        "word": "哪吒2超153亿",
+        "onboard_time": 1742716639,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157045,
+        "num": 157045,
+        "word": "庄寒雁背尸赴刑场",
+        "onboard_time": 1742716280,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154108,
+        "num": 154108,
+        "word": "李现李一桐或二搭将相",
+        "onboard_time": 1742719640,
+        "rank": 36,
+        "category": "作品衍生,剧集"
+      },
+      {
+        "raw_hot": 142722,
+        "num": 142722,
+        "word": "林高远看王楚钦一脸姨母笑",
+        "onboard_time": 1742721260,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139695,
+        "num": 139695,
+        "word": "李惠利杂志销量",
+        "onboard_time": 1742719522,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137477,
+        "num": 137477,
+        "word": "三只羊整改情况",
+        "onboard_time": 1742720300,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 129997,
+        "num": 129997,
+        "word": "宋妍霏叶童一个敢教一个敢学",
+        "onboard_time": 1742718558,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122728,
+        "num": 122728,
+        "word": "美国女子带宠物狗登机被拒将其溺死",
+        "onboard_time": 1742715440,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121183,
+        "num": 121183,
+        "word": "周杰伦林志颖F1同框合照",
+        "onboard_time": 1742719401,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 121154,
+        "num": 121154,
+        "word": "早不洗头是有一定科学依据的",
+        "onboard_time": 1742713460,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119288,
+        "num": 119288,
+        "word": "锦瑟",
+        "onboard_time": 1742718558,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118594,
+        "num": 118594,
+        "word": "曝有数千张金秀贤照片视频未公开",
+        "onboard_time": 1742698039,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118237,
+        "num": 118237,
+        "word": "易烊千玺中式美学",
+        "onboard_time": 1742712199,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 116178,
+        "num": 116178,
+        "word": "女爱豆簪花造型",
+        "onboard_time": 1742718681,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114691,
+        "num": 114691,
+        "word": "爱丽 熟练度",
+        "onboard_time": 1742719160,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105887,
+        "num": 105887,
+        "word": "CASETiFY一个手机壳卖4000多元",
+        "onboard_time": 1742709860,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记全国两会后第一次地方考察#"
+    }
+  }
+}
