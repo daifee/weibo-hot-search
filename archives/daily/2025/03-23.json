@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742729754364,
+  "endTime": 1742733720144,
   "band_list": [
     {
       "raw_hot": 2607241,
@@ -9,6 +9,14 @@
       "onboard_time": 1742719339,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 2547473,
+      "num": 2547473,
+      "word": "茉莉奶白被曝喝出完整塑料袋",
+      "onboard_time": 1742731401,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1804315,
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1080747,
+      "num": 1080747,
+      "word": "温峥嵘我向您道歉",
+      "onboard_time": 1742730980,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1064063,
       "num": 1170250,
       "word": "奔跑吧13第一期嘉宾阵容",
@@ -137,6 +153,14 @@
       "onboard_time": 1742713279,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 846865,
+      "num": 1105290,
+      "word": "法拉利撞了法拉利",
+      "onboard_time": 1742722160,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 823003,
@@ -188,18 +212,18 @@
     },
     {
       "raw_hot": 734655,
-      "num": 288557,
+      "num": 348942,
       "word": "金赛纶妈妈被曝站都站不稳",
       "onboard_time": 1742726000,
       "rank": 26,
       "category": "艺人"
     },
     {
-      "raw_hot": 717139,
-      "num": 1105290,
-      "word": "法拉利撞了法拉利",
-      "onboard_time": 1742722160,
-      "rank": 30,
+      "raw_hot": 692649,
+      "num": 692649,
+      "word": "吴艳妮打破女子60米栏全国纪录",
+      "onboard_time": 1742731282,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -363,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474683,
+      "num": 474683,
+      "word": "汪苏泷演唱会偶遇章若楠",
+      "onboard_time": 1742729707,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 466310,
       "num": 466310,
       "word": "联合国总部因缺钱关闭一处入口",
@@ -403,6 +435,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 435008,
+      "num": 348783,
+      "word": "张馨予晚餐吃胡萝卜蘸辣椒面",
+      "onboard_time": 1742728461,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 430889,
+      "num": 430889,
+      "word": "人人人人人景人人人人人",
+      "onboard_time": 1742723721,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 429256,
       "num": 429256,
       "word": "WTT高管回应樊振东退出排名",
@@ -424,6 +472,14 @@
       "word": "官方回应女生劝阻吸烟被怼",
       "onboard_time": 1742707220,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407985,
+      "num": 217399,
+      "word": "孙卓开始直播带货",
+      "onboard_time": 1742730321,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -451,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 369951,
-      "num": 369951,
-      "word": "人人人人人景人人人人人",
-      "onboard_time": 1742723721,
-      "rank": 27,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 366861,
       "num": 366861,
       "word": "花花花人人花花花",
@@ -473,6 +521,14 @@
       "onboard_time": 1742704581,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 347636,
+      "num": 347636,
+      "word": "DeepSeek王炸组合",
+      "onboard_time": 1742728041,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 345386,
@@ -497,6 +553,14 @@
       "onboard_time": 1742695641,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 331732,
+      "num": 331732,
+      "word": "雁回时",
+      "onboard_time": 1742636722,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 330267,
@@ -569,22 +633,6 @@
       "onboard_time": 1742712379,
       "rank": 15,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 308090,
-      "num": 277994,
-      "word": "张馨予晚餐吃胡萝卜蘸辣椒面",
-      "onboard_time": 1742728461,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 306792,
-      "num": 164631,
-      "word": "DeepSeek王炸组合",
-      "onboard_time": 1742728041,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 304953,
@@ -755,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244425,
+      "num": 244425,
+      "word": "奔跑吧终于等来周传雄",
+      "onboard_time": 1742729707,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241787,
       "num": 241787,
       "word": "张雨绮丁程鑫合作舞台",
@@ -835,6 +891,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 213287,
+      "num": 213287,
+      "word": "等我上清华我也这么上早八",
+      "onboard_time": 1742730381,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212162,
       "num": 212162,
       "word": "庄寒雁背尸赴刑场",
@@ -859,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207987,
+      "num": 219456,
+      "word": "尚公主",
+      "onboard_time": 1742727439,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207747,
       "num": 203902,
       "word": "早睡两个月后肉眼可见的变化",
@@ -875,12 +947,12 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 202303,
-      "num": 202303,
-      "word": "尚公主",
-      "onboard_time": 1742727439,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 203676,
+      "num": 203676,
+      "word": "华晨宇这个动作帅得太超过了",
+      "onboard_time": 1742732721,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 202068,
@@ -937,6 +1009,14 @@
       "onboard_time": 1742703081,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196111,
+      "num": 196111,
+      "word": "李子璇这就是创系初C的实力",
+      "onboard_time": 1742732842,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 194694,
@@ -1075,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180725,
+      "num": 180725,
+      "word": "虞书欣安慰粉丝别哭别哭",
+      "onboard_time": 1742731041,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179606,
       "num": 304241,
       "word": "黄山回应游客下山拥堵滞留到22点",
@@ -1195,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162359,
+      "num": 162359,
+      "word": "全国大部降温8至12摄氏度",
+      "onboard_time": 1742732062,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162173,
       "num": 162173,
       "word": "吴艳妮刷新PB晋级半决赛",
@@ -1216,6 +1312,14 @@
       "word": "现在妖怪都流行搞纯爱",
       "onboard_time": 1742704161,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160551,
+      "num": 160551,
+      "word": "陈都灵新剧重担也压不弯的风骨",
+      "onboard_time": 1742733321,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -1257,6 +1361,22 @@
       "onboard_time": 1742719640,
       "rank": 36,
       "category": "作品衍生,剧集"
+    },
+    {
+      "raw_hot": 158679,
+      "num": 158679,
+      "word": "汪苏泷说今天温以凡在台下",
+      "onboard_time": 1742733442,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 158377,
+      "num": 158377,
+      "word": "王源在线报备周末日程",
+      "onboard_time": 1742732963,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 156914,
@@ -1305,6 +1425,14 @@
       "onboard_time": 1742707939,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153261,
+      "num": 153261,
+      "word": "慕胥辞",
+      "onboard_time": 1742731342,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 153035,
@@ -1395,6 +1523,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148226,
+      "num": 163433,
+      "word": "劝阻吸烟被怼当事人发声",
+      "onboard_time": 1742729600,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147815,
+      "num": 147815,
+      "word": "稚楚",
+      "onboard_time": 1742730743,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 147734,
       "num": 196730,
       "word": "如何看待无效劝阻餐馆二手烟事件频发",
@@ -1409,6 +1553,22 @@
       "onboard_time": 1742707701,
       "rank": 39,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 145986,
+      "num": 145986,
+      "word": "孙卓首次直播带货销售额超500万",
+      "onboard_time": 1742733381,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145983,
+      "num": 145983,
+      "word": "宁艺卓练习生时期韩语笔记",
+      "onboard_time": 1742733261,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 145698,
@@ -1507,6 +1667,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141126,
+      "num": 141126,
+      "word": "白鹿低扎发",
+      "onboard_time": 1742733623,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140486,
+      "num": 140486,
+      "word": "三只羊回应何时复播",
+      "onboard_time": 1742729361,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 140085,
       "num": 170594,
       "word": "今天歼10首飞成功27周年",
@@ -1515,12 +1691,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139837,
+      "num": 139837,
+      "word": "第十五届全运会",
+      "onboard_time": 1742733442,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139695,
       "num": 139695,
       "word": "李惠利杂志销量",
       "onboard_time": 1742719522,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139049,
+      "num": 139049,
+      "word": "贵女 猜不到剧情",
+      "onboard_time": 1742733381,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 138203,
@@ -1561,6 +1753,14 @@
       "onboard_time": 1742687297,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135545,
+      "num": 135545,
+      "word": "女子在埃及被误会吃霸王餐硬气反击",
+      "onboard_time": 1742724680,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 135263,
@@ -1625,6 +1825,14 @@
       "onboard_time": 1742711719,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132654,
+      "num": 132654,
+      "word": "西湖2亿人1亿在太子湾",
+      "onboard_time": 1742732300,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 132402,
@@ -1755,12 +1963,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122147,
-      "num": 122147,
-      "word": "女子在埃及被误会吃霸王餐硬气反击",
-      "onboard_time": 1742724680,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 121222,
+      "num": 121222,
+      "word": "孙颖莎林诗栋休战最后一轮",
+      "onboard_time": 1742731823,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 121183,
@@ -1769,14 +1977,6 @@
       "onboard_time": 1742719401,
       "rank": 42,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 121014,
-      "num": 121014,
-      "word": "三只羊回应何时复播",
-      "onboard_time": 1742729361,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 120358,
@@ -1833,14 +2033,6 @@
       "onboard_time": 1742729540,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 116142,
-      "num": 116142,
-      "word": "雁回时",
-      "onboard_time": 1742636722,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 115561,
@@ -1955,12 +2147,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 110191,
-      "num": 102310,
-      "word": "汪苏泷演唱会偶遇章若楠",
-      "onboard_time": 1742729707,
-      "rank": 46,
-      "category": "演出"
+      "raw_hot": 109692,
+      "num": 139169,
+      "word": "全民智驾时代年轻人的带感选择",
+      "onboard_time": 1742733442,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 109633,
@@ -2171,14 +2363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98358,
-      "num": 98358,
-      "word": "奔跑吧终于等来周传雄",
-      "onboard_time": 1742729707,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98082,
       "num": 98082,
       "word": "陈都灵的红包",
@@ -2371,6 +2555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76374,
+      "num": 250002,
+      "word": "央视起底卖给青少年的电子烟",
+      "onboard_time": 1742733321,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75492,
       "num": 75492,
       "word": "你以为没事实际巨伤眼的行为",
@@ -2556,7 +2748,7 @@
     },
     {
       "raw_hot": 58894,
-      "num": 688351,
+      "num": 939390,
       "word": "6分钟回顾神十九第3次出舱",
       "onboard_time": 1742722280,
       "rank": 2,
@@ -2617,14 +2809,6 @@
       "onboard_time": 1742710820,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50647,
-      "num": 163433,
-      "word": "劝阻吸烟被怼当事人发声",
-      "onboard_time": 1742729600,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46972,
