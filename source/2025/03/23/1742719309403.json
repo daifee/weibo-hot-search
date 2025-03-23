@@ -1,0 +1,410 @@
+{
+  "runTime": 1742719309403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 994640,
+        "num": 1159142,
+        "word": "收到月薪60万offer但要偷渡出境",
+        "onboard_time": 1742712321,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 846451,
+        "num": 846451,
+        "word": "控糖一年后身体的变化",
+        "onboard_time": 1742713279,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32040,
+        "num": 678866,
+        "word": "100秒奔赴一场繁花盛开",
+        "onboard_time": 1742703320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 658170,
+        "num": 658170,
+        "word": "向佐爆改红桃皇后",
+        "onboard_time": 1742714780,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 576572,
+        "num": 576572,
+        "word": "从陵水漂流到三亚小孩哥父亲发声",
+        "onboard_time": 1742714959,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542407,
+        "num": 542407,
+        "word": "奔跑吧13第一期嘉宾阵容",
+        "onboard_time": 1742704880,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445797,
+        "num": 445797,
+        "word": "饺子票房破200亿",
+        "onboard_time": 1742700922,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411572,
+        "num": 411572,
+        "word": "女性消费陷阱",
+        "onboard_time": 1742711960,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328101,
+        "num": 328101,
+        "word": "沈腾马丽大哥大姐给你兜着",
+        "onboard_time": 1742717419,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323874,
+        "num": 323874,
+        "word": "世界上最佳抗炎食物排名",
+        "onboard_time": 1742713940,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1603647,
+        "num": 314535,
+        "word": "性如何影响中国人的婚姻与家庭",
+        "onboard_time": 1742716878,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 455891,
+        "num": 313622,
+        "word": "猫咪做绝育手术被摘除脾脏",
+        "onboard_time": 1742716700,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438009,
+        "num": 308037,
+        "word": "冰岛儿童部长与未成年发生关系产子",
+        "onboard_time": 1742707640,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289460,
+        "num": 289460,
+        "word": "特鲁索娃正式官宣怀孕",
+        "onboard_time": 1742718320,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30255,
+        "num": 269449,
+        "word": "不想再被二手烟熏制了",
+        "onboard_time": 1742718621,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266567,
+        "num": 266567,
+        "word": "杨祐宁老婆官宣怀三胎",
+        "onboard_time": 1742704820,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80799,
+        "num": 244871,
+        "word": "AMG带你追F1",
+        "onboard_time": 1742716700,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234636,
+        "num": 234636,
+        "word": "曝有数千张金秀贤照片视频未公开",
+        "onboard_time": 1742698039,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229862,
+        "num": 229862,
+        "word": "哪吒2超153亿",
+        "onboard_time": 1742716639,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58574,
+        "num": 229714,
+        "word": "韩国山火由割草机的火花引起",
+        "onboard_time": 1742718621,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229634,
+        "num": 229634,
+        "word": "福耀科技大学公布学费与招生人数",
+        "onboard_time": 1742717240,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197987,
+        "num": 197987,
+        "word": "孙俪把老师打成老公",
+        "onboard_time": 1742693122,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189131,
+        "num": 189131,
+        "word": "宋妍霏叶童一个敢教一个敢学",
+        "onboard_time": 1742718558,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187307,
+        "num": 187307,
+        "word": "易烊千玺中式美学",
+        "onboard_time": 1742712199,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186059,
+        "num": 186059,
+        "word": "金泰亨wvs回复",
+        "onboard_time": 1742718921,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182834,
+        "num": 182834,
+        "word": "周杰伦出席上海F1大奖赛",
+        "onboard_time": 1742712379,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 182588,
+        "num": 182588,
+        "word": "蒋梦婕的鞋把浪姐舞台给染红了",
+        "onboard_time": 1742718621,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179498,
+        "num": 179498,
+        "word": "王宝强李乃文新剧首映口碑",
+        "onboard_time": 1742717540,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140578,
+        "num": 173953,
+        "word": "CASETiFY一个手机壳卖4000多元",
+        "onboard_time": 1742709860,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172718,
+        "num": 172718,
+        "word": "马吟吟说罗予彤卸了妆很弱小",
+        "onboard_time": 1742717960,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163699,
+        "num": 163699,
+        "word": "DYG春季赛淘汰",
+        "onboard_time": 1742718681,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162598,
+        "num": 162598,
+        "word": "早不洗头是有一定科学依据的",
+        "onboard_time": 1742713460,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162306,
+        "num": 162306,
+        "word": "庄寒雁背尸赴刑场",
+        "onboard_time": 1742716280,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156914,
+        "num": 156914,
+        "word": "美国女子带宠物狗登机被拒将其溺死",
+        "onboard_time": 1742715440,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145904,
+        "num": 145904,
+        "word": "杭州室内公共场所全面禁烟",
+        "onboard_time": 1742715741,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143769,
+        "num": 143769,
+        "word": "张萌被横店的代拍卷到了",
+        "onboard_time": 1742716460,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142219,
+        "num": 142219,
+        "word": "如何看待无效劝阻餐馆二手烟事件频发",
+        "onboard_time": 1742715139,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137363,
+        "num": 137363,
+        "word": "物理老师放大招学生哇声一片",
+        "onboard_time": 1742710219,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73661,
+        "num": 134627,
+        "word": "2025中国发展高层论坛",
+        "onboard_time": 1742719160,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134611,
+        "num": 134611,
+        "word": "女爱豆簪花造型",
+        "onboard_time": 1742718681,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126032,
+        "num": 126032,
+        "word": "每天少吃一顿会怎样",
+        "onboard_time": 1742704100,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124527,
+        "num": 124527,
+        "word": "傅菁身在演唱会心在雁回时",
+        "onboard_time": 1742716819,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124073,
+        "num": 124073,
+        "word": "锦瑟",
+        "onboard_time": 1742718558,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 114653,
+        "num": 114653,
+        "word": "吴艳妮回应阿丽塔造型",
+        "onboard_time": 1742707041,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108673,
+        "num": 108673,
+        "word": "奔跑吧 张韶涵",
+        "onboard_time": 1742709439,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106885,
+        "num": 106885,
+        "word": "NJZ香港演出",
+        "onboard_time": 1742713040,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104532,
+        "num": 104532,
+        "word": "野餐",
+        "onboard_time": 1742717780,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 102089,
+        "num": 102089,
+        "word": "姚琛工作室的官宣文案好好哭",
+        "onboard_time": 1742716940,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100303,
+        "num": 100303,
+        "word": "爱丽 熟练度",
+        "onboard_time": 1742719160,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100043,
+        "num": 100043,
+        "word": "张雨霏说汪顺等老将热情不减",
+        "onboard_time": 1742716700,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#走出一条持续健康的文旅发展之路#"
+    }
+  }
+}
