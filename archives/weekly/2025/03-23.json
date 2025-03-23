@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742744220758,
+  "endTime": 1742747228173,
   "band_list": [
     {
       "raw_hot": 3044323,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1152105,
+      "num": 1152105,
+      "word": "先梳头再洗头千万别来回揉搓",
+      "onboard_time": 1742742323,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1131205,
       "num": 1131205,
       "word": "李晟像极了没人发现的枯叶蝶",
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 761387,
+      "num": 429823,
+      "word": "赵露思粉发挑染",
+      "onboard_time": 1742742982,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 734655,
       "num": 348942,
       "word": "金赛纶妈妈被曝站都站不稳",
@@ -345,14 +361,6 @@
       "onboard_time": 1742711960,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 600342,
-      "num": 429823,
-      "word": "赵露思粉发挑染",
-      "onboard_time": 1742742982,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 597079,
@@ -643,14 +651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 365496,
-      "num": 365496,
-      "word": "先梳头再洗头千万别来回揉搓",
-      "onboard_time": 1742742323,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 355446,
       "num": 355446,
       "word": "雁回时",
@@ -899,6 +899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 282117,
+      "num": 282117,
+      "word": "章若楠感谢汪苏泷",
+      "onboard_time": 1742743160,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 281598,
       "num": 281598,
       "word": "奔跑吧 张韶涵",
@@ -1017,14 +1025,6 @@
       "onboard_time": 1742729707,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241909,
-      "num": 241909,
-      "word": "章若楠感谢汪苏泷",
-      "onboard_time": 1742743160,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 241787,
@@ -1467,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183107,
+      "num": 183107,
+      "word": "白桃星座",
+      "onboard_time": 1742742622,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182848,
       "num": 182848,
       "word": "当矮个子女生学会穿搭后的变化",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1742699780,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168888,
-      "num": 168888,
-      "word": "白桃星座",
-      "onboard_time": 1742742622,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 167658,
@@ -2315,6 +2315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124449,
+      "num": 111275,
+      "word": "庄寒雁掌家",
+      "onboard_time": 1742745320,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124448,
       "num": 124448,
       "word": "热热热你冷冷冷",
@@ -2360,6 +2368,14 @@
       "word": "未成年选秀节目组称选手受到伤害",
       "onboard_time": 1742700140,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122308,
+      "num": 108789,
+      "word": "湖南卫视连发15条王源",
+      "onboard_time": 1742744720,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -3011,12 +3027,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74694,
+      "num": 74694,
+      "word": "西山居 陆深",
+      "onboard_time": 1742744302,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73661,
       "num": 134627,
       "word": "2025中国发展高层论坛",
       "onboard_time": 1742719160,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 73529,
+      "num": 73529,
+      "word": "虞书欣曼谷接机现场人气",
+      "onboard_time": 1742741542,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 72344,
@@ -3073,6 +3105,14 @@
       "onboard_time": 1742657422,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 68451,
+      "num": 68451,
+      "word": "赵小童洗漱完毕进入夜间模式",
+      "onboard_time": 1742746699,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 67638,
@@ -3139,6 +3179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 64132,
+      "num": 64132,
+      "word": "洗发水解决不了脱发问题",
+      "onboard_time": 1742744660,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 63874,
       "num": 63874,
       "word": "刘诗雯回应与林高远混双目标",
@@ -3163,12 +3211,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 61103,
+      "num": 61103,
+      "word": "韩国训练生为了出道变成泰漂",
+      "onboard_time": 1742740101,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61082,
       "num": 61082,
       "word": "古埃及人都有吸猫DNA吧",
       "onboard_time": 1742654724,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 59516,
+      "num": 61560,
+      "word": "热心市民王楚钦上线",
+      "onboard_time": 1742741663,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 59258,
@@ -3265,6 +3329,14 @@
       "onboard_time": 1742726361,
       "rank": 38,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 44087,
+      "num": 102826,
+      "word": "辽宁男篮双杀上海男篮",
+      "onboard_time": 1742747000,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 44063,
