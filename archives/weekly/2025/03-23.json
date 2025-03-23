@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742768596418,
+  "endTime": 1742769622483,
   "band_list": [
     {
       "raw_hot": 3044323,
@@ -2235,6 +2235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133286,
+      "num": 133286,
+      "word": "女子在埃及被酒店刁难硬气回应",
+      "onboard_time": 1742757794,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 133094,
       "num": 133094,
       "word": "当代大学生掌管宿舍改造的神",
@@ -3043,14 +3051,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 76061,
-      "num": 76061,
-      "word": "女子在埃及被酒店刁难硬气回应",
-      "onboard_time": 1742757794,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 75492,
       "num": 75492,
       "word": "你以为没事实际巨伤眼的行为",
@@ -3105,6 +3105,14 @@
       "onboard_time": 1742641941,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71237,
+      "num": 71237,
+      "word": "奶奶捡10000元说找到失主我好高兴",
+      "onboard_time": 1742754014,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 71117,
@@ -3313,14 +3321,6 @@
       "onboard_time": 1742718621,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 58241,
-      "num": 59430,
-      "word": "奶奶捡10000元说找到失主我好高兴",
-      "onboard_time": 1742754014,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 55882,
@@ -3555,8 +3555,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29261,
+      "num": 29261,
+      "word": "儿子希望妈妈戴上戒指永不放开自己",
+      "onboard_time": 1742757615,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29110,
-      "num": 29110,
+      "num": 29132,
       "word": "夏之光新剧杀青应援",
       "onboard_time": 1742756715,
       "rank": 18,
@@ -3569,14 +3577,6 @@
       "onboard_time": 1742742141,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 27689,
-      "num": 27689,
-      "word": "儿子希望妈妈戴上戒指永不放开自己",
-      "onboard_time": 1742757615,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27380,
@@ -3643,8 +3643,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21445,
-      "num": 22312,
+      "raw_hot": 21957,
+      "num": 29195,
       "word": "PCL2025",
       "onboard_time": 1742745500,
       "rank": 45,
@@ -3675,20 +3675,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 21094,
+      "num": 29178,
+      "word": "看好中国做多中国是潮流也见行动",
+      "onboard_time": 1742763012,
+      "rank": 24,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 20416,
       "num": 131521,
       "word": "格力新四大件",
       "onboard_time": 1742695701,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 18728,
-      "num": 20756,
-      "word": "看好中国做多中国是潮流也见行动",
-      "onboard_time": 1742763012,
-      "rank": 24,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 18147,
@@ -3707,8 +3707,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17284,
-      "num": 20751,
+      "raw_hot": 17809,
+      "num": 29150,
       "word": "荷兰警方针对性搜索罗生门时发现男尸",
       "onboard_time": 1742761513,
       "rank": 49,
@@ -3720,6 +3720,14 @@
       "word": "刘俊茜说还没完全发挥出来",
       "onboard_time": 1742695159,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16545,
+      "num": 29144,
+      "word": "F1直播",
+      "onboard_time": 1742769376,
+      "rank": 47,
       "category": "体育"
     },
     {

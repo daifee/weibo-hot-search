@@ -1,6 +1,6 @@
 {
   "startTime": 1742747228173,
-  "endTime": 1742768596418,
+  "endTime": 1742769622483,
   "band_list": [
     {
       "raw_hot": 1152105,
@@ -179,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133286,
+      "num": 133286,
+      "word": "女子在埃及被酒店刁难硬气回应",
+      "onboard_time": 1742757794,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 124449,
       "num": 111275,
       "word": "庄寒雁掌家",
@@ -193,6 +201,14 @@
       "onboard_time": 1742741783,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116094,
+      "num": 116094,
+      "word": "3人冒充孙子4天骗了50万",
+      "onboard_time": 1742740642,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115716,
@@ -259,14 +275,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 91811,
-      "num": 91811,
-      "word": "3人冒充孙子4天骗了50万",
-      "onboard_time": 1742740642,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90085,
       "num": 90085,
       "word": "吴艳妮无缘女子60米栏决赛",
@@ -315,14 +323,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 76061,
-      "num": 76061,
-      "word": "女子在埃及被酒店刁难硬气回应",
-      "onboard_time": 1742757794,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 75074,
       "num": 61791,
       "word": "三只羊回应何时复播",
@@ -337,6 +337,14 @@
       "onboard_time": 1742741542,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71237,
+      "num": 71237,
+      "word": "奶奶捡10000元说找到失主我好高兴",
+      "onboard_time": 1742754014,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 68451,
@@ -427,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58241,
-      "num": 59430,
-      "word": "奶奶捡10000元说找到失主我好高兴",
-      "onboard_time": 1742754014,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 57789,
       "num": 57789,
       "word": "吴艳妮全场致谢后哭了",
@@ -499,20 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29110,
-      "num": 29110,
-      "word": "夏之光新剧杀青应援",
-      "onboard_time": 1742756715,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 27689,
-      "num": 27689,
+      "raw_hot": 29261,
+      "num": 29261,
       "word": "儿子希望妈妈戴上戒指永不放开自己",
       "onboard_time": 1742757615,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29110,
+      "num": 29132,
+      "word": "夏之光新剧杀青应援",
+      "onboard_time": 1742756715,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 27380,
@@ -523,28 +523,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21445,
-      "num": 22312,
+      "raw_hot": 21957,
+      "num": 29195,
       "word": "PCL2025",
       "onboard_time": 1742745500,
       "rank": 45,
       "category": "电竞"
     },
     {
-      "raw_hot": 18728,
-      "num": 20756,
+      "raw_hot": 21094,
+      "num": 29178,
       "word": "看好中国做多中国是潮流也见行动",
       "onboard_time": 1742763012,
       "rank": 24,
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 17284,
-      "num": 20751,
+      "raw_hot": 17809,
+      "num": 29150,
       "word": "荷兰警方针对性搜索罗生门时发现男尸",
       "onboard_time": 1742761513,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 16545,
+      "num": 29144,
+      "word": "F1直播",
+      "onboard_time": 1742769376,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 16244,
