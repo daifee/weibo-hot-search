@@ -1,0 +1,410 @@
+{
+  "runTime": 1742704884775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1786166,
+        "num": 1786166,
+        "word": "女生劝阻吸烟被怼不闻烟味别出来吃饭",
+        "onboard_time": 1742698879,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1510340,
+        "num": 1510340,
+        "word": "饺子票房破200亿",
+        "onboard_time": 1742700922,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38516,
+        "num": 567249,
+        "word": "100秒奔赴一场繁花盛开",
+        "onboard_time": 1742703320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552877,
+        "num": 552877,
+        "word": "韩国多地进入灾难状态",
+        "onboard_time": 1742688859,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 489709,
+        "num": 489709,
+        "word": "南京鸡鸣寺樱花树下人比花多",
+        "onboard_time": 1742697559,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 442938,
+        "num": 442938,
+        "word": "美国六代机终于不是PPT了",
+        "onboard_time": 1742699481,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 429909,
+        "num": 429909,
+        "word": "张翰回应停更三年",
+        "onboard_time": 1742686518,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418836,
+        "num": 418836,
+        "word": "雷军李在镕合影",
+        "onboard_time": 1742699901,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 405110,
+        "num": 405110,
+        "word": "唐九洲黄子弘凡回应",
+        "onboard_time": 1742696721,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110267,
+        "num": 388658,
+        "word": "警方回应男孩海钓从陵水漂流到三亚",
+        "onboard_time": 1742690780,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700686,
+        "num": 370579,
+        "word": "曝有数千张金秀贤照片视频未公开",
+        "onboard_time": 1742698039,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654196,
+        "num": 354547,
+        "word": "邓超也被孙俪吓了一跳吧",
+        "onboard_time": 1742698879,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537922,
+        "num": 333545,
+        "word": "孙俪把老师打成老公",
+        "onboard_time": 1742693122,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495650,
+        "num": 326091,
+        "word": "曝接下来的东西会损害金赛纶的名誉",
+        "onboard_time": 1742701880,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21383,
+        "num": 304443,
+        "word": "欧洲国家更新赴美旅行提醒",
+        "onboard_time": 1742704161,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440669,
+        "num": 288544,
+        "word": "唐九洲 抄袭",
+        "onboard_time": 1742647761,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277985,
+        "num": 277985,
+        "word": "韦雪买下了秦奋之前给她租的房子",
+        "onboard_time": 1742651423,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 261141,
+        "num": 272908,
+        "word": "17部电影定档清明和五一档",
+        "onboard_time": 1742695641,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271096,
+        "num": 271096,
+        "word": "世界小狗日",
+        "onboard_time": 1742700020,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44424,
+        "num": 265746,
+        "word": "网上高价卖的发霉橘子有科研价值吗",
+        "onboard_time": 1742704220,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265743,
+        "num": 265743,
+        "word": "冰壶",
+        "onboard_time": 1742703081,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263403,
+        "num": 263403,
+        "word": "4种饿是假饿",
+        "onboard_time": 1742687118,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241787,
+        "num": 241787,
+        "word": "张雨绮丁程鑫合作舞台",
+        "onboard_time": 1742703140,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186301,
+        "num": 186301,
+        "word": "范志毅又双叒换赛道了",
+        "onboard_time": 1742701040,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179404,
+        "num": 179404,
+        "word": "颖儿咬手套这一下更是主人级别",
+        "onboard_time": 1742700620,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174382,
+        "num": 174382,
+        "word": "杭州交警回应网友称兔子警官被撞",
+        "onboard_time": 1742686518,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169102,
+        "num": 169102,
+        "word": "赤岭小孩",
+        "onboard_time": 1742699780,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161427,
+        "num": 161427,
+        "word": "现在妖怪都流行搞纯爱",
+        "onboard_time": 1742704161,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139946,
+        "num": 139946,
+        "word": "背头还得是张柏芝",
+        "onboard_time": 1742693240,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103241,
+        "num": 139243,
+        "word": "陈都灵内娱樱花树",
+        "onboard_time": 1742704581,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141203,
+        "num": 139075,
+        "word": "考研英语北京区89分",
+        "onboard_time": 1742697861,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138578,
+        "num": 138578,
+        "word": "哪吒为气象日写了一首rap",
+        "onboard_time": 1742689639,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135760,
+        "num": 135760,
+        "word": "金秀贤可能被刑法处罚",
+        "onboard_time": 1742686518,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135351,
+        "num": 135351,
+        "word": "花花花人人花花花",
+        "onboard_time": 1742686518,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132458,
+        "num": 132458,
+        "word": "武汉马拉松连海绵都是樱花形状",
+        "onboard_time": 1742701580,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132397,
+        "num": 132397,
+        "word": "白鹿剧宣MVP选手",
+        "onboard_time": 1742703081,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131960,
+        "num": 131960,
+        "word": "恋与深空",
+        "onboard_time": 1742698220,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129816,
+        "num": 129816,
+        "word": "黄山回应游客下山拥堵滞留到22点",
+        "onboard_time": 1742700500,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122846,
+        "num": 122846,
+        "word": "中国女子冰壶队直通米兰",
+        "onboard_time": 1742703081,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117352,
+        "num": 117352,
+        "word": "今天歼10首飞成功27周年",
+        "onboard_time": 1742687779,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116305,
+        "num": 116305,
+        "word": "吴艳妮刷新PB晋级半决赛",
+        "onboard_time": 1742701760,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113605,
+        "num": 113605,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1742703860,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112421,
+        "num": 112421,
+        "word": "女中医能把伤心脉抢号排队30多天",
+        "onboard_time": 1742689579,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111109,
+        "num": 111109,
+        "word": "杨祐宁老婆官宣怀三胎",
+        "onboard_time": 1742704820,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110570,
+        "num": 110570,
+        "word": "日本连锁店承认味噌汤中混入老鼠尸体",
+        "onboard_time": 1742655923,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109992,
+        "num": 109992,
+        "word": "每天少吃一顿会怎样",
+        "onboard_time": 1742704100,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109572,
+        "num": 109572,
+        "word": "孙颖莎说输球是比赛的一部分",
+        "onboard_time": 1742696899,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105211,
+        "num": 105211,
+        "word": "网友出海钓鱼在海上捡到个小孩",
+        "onboard_time": 1742685796,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103064,
+        "num": 103064,
+        "word": "你好星期六全员为余生有涯剧宣",
+        "onboard_time": 1742698159,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97180,
+        "num": 97180,
+        "word": "室内公共场所禁止吸烟是全国性的",
+        "onboard_time": 1742704161,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记全国两会后第一次地方考察#"
+    }
+  }
+}

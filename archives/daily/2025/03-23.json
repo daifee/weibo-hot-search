@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742704054326,
+  "endTime": 1742704884775,
   "band_list": [
     {
       "raw_hot": 1804315,
@@ -19,6 +19,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1510340,
+      "num": 1510340,
+      "word": "饺子票房破200亿",
+      "onboard_time": 1742700922,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1444086,
       "num": 1444086,
       "word": "韩国多地进入灾难状态",
@@ -27,16 +35,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1371106,
-      "num": 1371106,
-      "word": "饺子票房破200亿",
-      "onboard_time": 1742700922,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1362338,
-      "num": 310784,
+      "num": 333545,
       "word": "孙俪把老师打成老公",
       "onboard_time": 1742693122,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 966632,
-      "num": 322236,
+      "num": 370579,
       "word": "曝有数千张金秀贤照片视频未公开",
       "onboard_time": 1742698039,
       "rank": 11,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 780526,
-      "num": 317623,
+      "num": 354547,
       "word": "邓超也被孙俪吓了一跳吧",
       "onboard_time": 1742698879,
       "rank": 42,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 505003,
-      "num": 300320,
+      "num": 326091,
       "word": "曝接下来的东西会损害金赛纶的名誉",
       "onboard_time": 1742701880,
       "rank": 13,
@@ -299,8 +299,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 265678,
-      "num": 265678,
+      "raw_hot": 271096,
+      "num": 271096,
       "word": "世界小狗日",
       "onboard_time": 1742700020,
       "rank": 22,
@@ -345,6 +345,14 @@
       "onboard_time": 1742700620,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241787,
+      "num": 241787,
+      "word": "张雨绮丁程鑫合作舞台",
+      "onboard_time": 1742703140,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 240753,
@@ -427,14 +435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196195,
-      "num": 196195,
-      "word": "张雨绮丁程鑫合作舞台",
-      "onboard_time": 1742703140,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191042,
       "num": 191042,
       "word": "金正恩强调继续对俄支持",
@@ -465,6 +465,14 @@
       "onboard_time": 1742700620,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186301,
+      "num": 186301,
+      "word": "范志毅又双叒换赛道了",
+      "onboard_time": 1742701040,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 182848,
@@ -523,12 +531,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 164165,
-      "num": 184234,
-      "word": "范志毅又双叒换赛道了",
-      "onboard_time": 1742701040,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 169102,
+      "num": 169102,
+      "word": "赤岭小孩",
+      "onboard_time": 1742699780,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163763,
@@ -548,11 +556,19 @@
     },
     {
       "raw_hot": 161676,
-      "num": 161676,
+      "num": 388658,
       "word": "警方回应男孩海钓从陵水漂流到三亚",
       "onboard_time": 1742690780,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161427,
+      "num": 161427,
+      "word": "现在妖怪都流行搞纯爱",
+      "onboard_time": 1742704161,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 160420,
@@ -771,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113605,
+      "num": 113605,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1742703860,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113363,
       "num": 113363,
       "word": "被黄霄雲演唱会芭比造型硬控了",
@@ -779,12 +803,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111109,
+      "num": 111109,
+      "word": "杨祐宁老婆官宣怀三胎",
+      "onboard_time": 1742704820,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110612,
       "num": 110612,
       "word": "尼日尔发生恐怖袭击至少44人死亡",
       "onboard_time": 1742650822,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109992,
+      "num": 109992,
+      "word": "每天少吃一顿会怎样",
+      "onboard_time": 1742704100,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108986,
@@ -843,12 +883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103114,
-      "num": 103114,
-      "word": "赤岭小孩",
-      "onboard_time": 1742699780,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 103241,
+      "num": 139243,
+      "word": "陈都灵内娱樱花树",
+      "onboard_time": 1742704581,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 102570,
@@ -857,14 +897,6 @@
       "onboard_time": 1742697439,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102351,
-      "num": 102351,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1742703860,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 101111,
@@ -921,6 +953,14 @@
       "onboard_time": 1742698220,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97180,
+      "num": 97180,
+      "word": "室内公共场所禁止吸烟是全国性的",
+      "onboard_time": 1742704161,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95845,
@@ -1171,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44424,
+      "num": 265746,
+      "word": "网上高价卖的发霉橘子有科研价值吗",
+      "onboard_time": 1742704220,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44063,
       "num": 44063,
       "word": "银川地震",
@@ -1201,6 +1249,14 @@
       "onboard_time": 1742651904,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 38516,
+      "num": 844054,
+      "word": "100秒奔赴一场繁花盛开",
+      "onboard_time": 1742703320,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36706,
@@ -1259,14 +1315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29131,
-      "num": 844054,
-      "word": "100秒奔赴一场繁花盛开",
-      "onboard_time": 1742703320,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26443,
       "num": 30775,
       "word": "黄子弘凡除了快乐禁止入内",
@@ -1320,6 +1368,14 @@
       "word": "2025汉马最小冠军仅15岁",
       "onboard_time": 1742701280,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21383,
+      "num": 304443,
+      "word": "欧洲国家更新赴美旅行提醒",
+      "onboard_time": 1742704161,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
