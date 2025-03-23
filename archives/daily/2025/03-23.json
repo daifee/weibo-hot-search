@@ -1,10 +1,10 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742721757523,
+  "endTime": 1742722561151,
   "band_list": [
     {
-      "raw_hot": 2481806,
-      "num": 2481806,
+      "raw_hot": 2607241,
+      "num": 2607241,
       "word": "合肥通报三只羊问题调查处置情况",
       "onboard_time": 1742719339,
       "rank": 0,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 673673,
+      "num": 673673,
+      "word": "特鲁索娃正式官宣怀孕",
+      "onboard_time": 1742718320,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 658170,
       "num": 658170,
       "word": "向佐爆改红桃皇后",
@@ -243,14 +251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 545269,
-      "num": 545269,
-      "word": "特鲁索娃正式官宣怀孕",
-      "onboard_time": 1742718320,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 506556,
       "num": 506556,
       "word": "蒋梦婕的鞋把浪姐舞台给染红了",
@@ -331,6 +331,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 391531,
+      "num": 391531,
+      "word": "张本智和再次模仿樊振东庆祝动作",
+      "onboard_time": 1742719699,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 389352,
+      "num": 367491,
+      "word": "只是增加笑料罢了",
+      "onboard_time": 1742720479,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372381,
       "num": 372381,
       "word": "刘翔之后又有中国运动员夺牌了",
@@ -369,14 +385,6 @@
       "onboard_time": 1742710219,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 339527,
-      "num": 339527,
-      "word": "张本智和再次模仿樊振东庆祝动作",
-      "onboard_time": 1742719699,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 332025,
@@ -539,6 +547,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 274767,
+      "num": 383904,
+      "word": "三只羊公司缴纳罚没款6894.95万元",
+      "onboard_time": 1742721861,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 273680,
+      "num": 168231,
+      "word": "法拉利撞了法拉利",
+      "onboard_time": 1742722160,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272194,
       "num": 239064,
       "word": "每天少吃一顿会怎样",
@@ -585,14 +609,6 @@
       "onboard_time": 1742700620,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246776,
-      "num": 246776,
-      "word": "只是增加笑料罢了",
-      "onboard_time": 1742720479,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 241787,
@@ -659,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223033,
+      "num": 223033,
+      "word": "韩国山火已烧4600个足球场面积",
+      "onboard_time": 1742721200,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 215050,
       "num": 215050,
       "word": "周冠宇单人敞篷车参加车手巡游",
@@ -681,6 +705,14 @@
       "onboard_time": 1742655382,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 209446,
+      "num": 304639,
+      "word": "虞书欣出发泰国拍双轨",
+      "onboard_time": 1742721741,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 208298,
@@ -747,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197276,
-      "num": 197276,
-      "word": "韩国山火已烧4600个足球场面积",
-      "onboard_time": 1742721200,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 196619,
       "num": 196619,
       "word": "中国女子冰壶队直通米兰",
@@ -769,6 +793,14 @@
       "onboard_time": 1742717540,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194685,
+      "num": 167800,
+      "word": "三只羊涉案产品累计赔付近2800万元",
+      "onboard_time": 1742722520,
+      "rank": 31,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 191528,
@@ -841,6 +873,14 @@
       "onboard_time": 1742701040,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186188,
+      "num": 216537,
+      "word": "刘晓庆说现在生小孩不要寄予厚望",
+      "onboard_time": 1742719820,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 182848,
@@ -931,14 +971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167886,
-      "num": 167886,
-      "word": "虞书欣出发泰国拍双轨",
-      "onboard_time": 1742721741,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167658,
       "num": 153298,
       "word": "被卡琳娜帅一大跳",
@@ -953,14 +985,6 @@
       "onboard_time": 1742713460,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 165592,
-      "num": 216537,
-      "word": "刘晓庆说现在生小孩不要寄予厚望",
-      "onboard_time": 1742719820,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 163763,
@@ -1035,12 +1059,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159725,
+      "num": 159725,
+      "word": "佑灰",
+      "onboard_time": 1742722520,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159333,
       "num": 159333,
       "word": "张萌被横店的代拍卷到了",
       "onboard_time": 1742716460,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158988,
+      "num": 158988,
+      "word": "李现李一桐或二搭将相",
+      "onboard_time": 1742719640,
+      "rank": 36,
+      "category": "作品衍生,剧集"
     },
     {
       "raw_hot": 156914,
@@ -1073,14 +1113,6 @@
       "onboard_time": 1742689940,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154108,
-      "num": 154108,
-      "word": "李现李一桐或二搭将相",
-      "onboard_time": 1742719640,
-      "rank": 36,
-      "category": "作品衍生,剧集"
     },
     {
       "raw_hot": 153803,
@@ -1227,6 +1259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142113,
+      "num": 254622,
+      "word": "王楚钦说自己比以前更成熟",
+      "onboard_time": 1742720780,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142048,
       "num": 142048,
       "word": "奶奶网购给我买的生日蛋糕",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1742687297,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135263,
+      "num": 135263,
+      "word": "白鹿小黏黏的珍贵合影",
+      "onboard_time": 1742721680,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 135203,
@@ -1371,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125830,
+      "num": 125830,
+      "word": "WBG对战GW",
+      "onboard_time": 1742722520,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125574,
       "num": 156637,
       "word": "侯明昊古力娜扎玉茗茶骨路透",
@@ -1392,6 +1448,14 @@
       "word": "热热热你冷冷冷",
       "onboard_time": 1742637081,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124106,
+      "num": 365228,
+      "word": "三只羊整改符合要求具备恢复经营条件",
+      "onboard_time": 1742722041,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1572,7 +1636,7 @@
     },
     {
       "raw_hot": 109633,
-      "num": 197690,
+      "num": 198568,
       "word": "F1中国站迈凯伦包揽前二",
       "onboard_time": 1742720600,
       "rank": 27,
@@ -1585,6 +1649,14 @@
       "onboard_time": 1742714120,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109027,
+      "num": 109027,
+      "word": "汪苏泷终于飞向属于自己的岛",
+      "onboard_time": 1742722160,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 108986,
@@ -1665,6 +1737,14 @@
       "onboard_time": 1742654963,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103169,
+      "num": 340939,
+      "word": "美联航机长忘带护照航班延误6小时",
+      "onboard_time": 1742720362,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 102570,
@@ -1979,20 +2059,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70715,
+      "num": 176928,
+      "word": "遇风浪从陵水漂到三亚小孩系疍家人",
+      "onboard_time": 1742720660,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70628,
       "num": 70628,
       "word": "TVB前港姐乳腺癌复发病情告急",
       "onboard_time": 1742642002,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70300,
-      "num": 176928,
-      "word": "遇风浪从陵水漂到三亚小孩系疍家人",
-      "onboard_time": 1742720660,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68460,
@@ -2016,14 +2096,6 @@
       "word": "韩国山火致4名消防员遇难",
       "onboard_time": 1742695580,
       "rank": 19,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 66496,
-      "num": 340939,
-      "word": "美联航机长忘带护照航班延误6小时",
-      "onboard_time": 1742720362,
-      "rank": 14,
       "category": "海外新闻"
     },
     {
@@ -2097,14 +2169,6 @@
       "onboard_time": 1742654724,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 60149,
-      "num": 254622,
-      "word": "王楚钦说自己比以前更成熟",
-      "onboard_time": 1742720780,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 59258,
@@ -2211,6 +2275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 37781,
+      "num": 677893,
+      "word": "6分钟回顾神十九第3次出舱",
+      "onboard_time": 1742722280,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36706,
       "num": 36706,
       "word": "2天18场马拉松开跑",
@@ -2265,6 +2337,14 @@
       "onboard_time": 1742717179,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 30489,
+      "num": 586911,
+      "word": "文化中国行看春天里的中国",
+      "onboard_time": 1742721741,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30255,
@@ -2441,14 +2521,6 @@
       "onboard_time": 1742677814,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 5776,
-      "num": 586911,
-      "word": "文化中国行看春天里的中国",
-      "onboard_time": 1742721741,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2460,6 +2532,9 @@
     },
     {
       "word": "#走出一条持续健康的文旅发展之路#"
+    },
+    {
+      "word": "#习近平的民生之问#"
     }
   ]
 }

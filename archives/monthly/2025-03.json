@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742721757523,
+  "endTime": 1742722561151,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -571,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2607241,
+      "num": 2607241,
+      "word": "合肥通报三只羊问题调查处置情况",
+      "onboard_time": 1742719339,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 2606112,
       "num": 733483,
       "word": "海底捞补偿金额超千万元",
@@ -617,14 +625,6 @@
       "onboard_time": 1742296104,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2481806,
-      "num": 2481806,
-      "word": "合肥通报三只羊问题调查处置情况",
-      "onboard_time": 1742719339,
-      "rank": 0,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 2475221,
@@ -8507,6 +8507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 673673,
+      "num": 673673,
+      "word": "特鲁索娃正式官宣怀孕",
+      "onboard_time": 1742718320,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 673578,
       "num": 366068,
       "word": "美国星舰飞船失联",
@@ -11033,14 +11041,6 @@
       "onboard_time": 1742602520,
       "rank": 6,
       "category": "网红"
-    },
-    {
-      "raw_hot": 545269,
-      "num": 545269,
-      "word": "特鲁索娃正式官宣怀孕",
-      "onboard_time": 1742718320,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 545064,
@@ -15275,6 +15275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391531,
+      "num": 391531,
+      "word": "张本智和再次模仿樊振东庆祝动作",
+      "onboard_time": 1742719699,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 391396,
       "num": 391396,
       "word": "张凯丽谈35岁就业门槛",
@@ -15377,6 +15385,14 @@
       "onboard_time": 1741923746,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389352,
+      "num": 367491,
+      "word": "只是增加笑料罢了",
+      "onboard_time": 1742720479,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 388487,
@@ -17561,14 +17577,6 @@
       "onboard_time": 1742620642,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 339527,
-      "num": 339527,
-      "word": "张本智和再次模仿樊振东庆祝动作",
-      "onboard_time": 1742719699,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 338980,
@@ -21107,6 +21115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274767,
+      "num": 383904,
+      "word": "三只羊公司缴纳罚没款6894.95万元",
+      "onboard_time": 1742721861,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 274642,
       "num": 433029,
       "word": "享界S9的仪式感",
@@ -21161,6 +21177,14 @@
       "onboard_time": 1741251561,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273680,
+      "num": 168231,
+      "word": "法拉利撞了法拉利",
+      "onboard_time": 1742722160,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 273461,
@@ -23273,14 +23297,6 @@
       "onboard_time": 1741004298,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246776,
-      "num": 246776,
-      "word": "只是增加笑料罢了",
-      "onboard_time": 1742720479,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 246772,
@@ -25675,6 +25691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223033,
+      "num": 223033,
+      "word": "韩国山火已烧4600个足球场面积",
+      "onboard_time": 1742721200,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 222911,
       "num": 222911,
       "word": "减肥后反而胖了二三十斤",
@@ -27481,6 +27505,14 @@
       "onboard_time": 1741964423,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209446,
+      "num": 304639,
+      "word": "虞书欣出发泰国拍双轨",
+      "onboard_time": 1742721741,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 209381,
@@ -30091,14 +30123,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 197276,
-      "num": 197276,
-      "word": "韩国山火已烧4600个足球场面积",
-      "onboard_time": 1742721200,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 197240,
       "num": 179873,
       "word": "李浩周汐君vs马龙黄友政",
@@ -30705,6 +30729,14 @@
       "onboard_time": 1742717540,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194685,
+      "num": 167800,
+      "word": "三只羊涉案产品累计赔付近2800万元",
+      "onboard_time": 1742722520,
+      "rank": 31,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 194545,
@@ -32761,6 +32793,14 @@
       "onboard_time": 1741674683,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186188,
+      "num": 216537,
+      "word": "刘晓庆说现在生小孩不要寄予厚望",
+      "onboard_time": 1742719820,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 186171,
@@ -36483,14 +36523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167886,
-      "num": 167886,
-      "word": "虞书欣出发泰国拍双轨",
-      "onboard_time": 1742721741,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167877,
       "num": 708091,
       "word": "张凯丽说35岁明明很年轻",
@@ -37153,14 +37185,6 @@
       "onboard_time": 1741498101,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 165592,
-      "num": 216537,
-      "word": "刘晓庆说现在生小孩不要寄予厚望",
-      "onboard_time": 1742719820,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 165582,
@@ -38843,6 +38867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158988,
+      "num": 158988,
+      "word": "李现李一桐或二搭将相",
+      "onboard_time": 1742719640,
+      "rank": 36,
+      "category": "作品衍生,剧集"
+    },
+    {
       "raw_hot": 158974,
       "num": 290364,
       "word": "巴黎街角的杨幂",
@@ -40153,14 +40185,6 @@
       "onboard_time": 1741242858,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154108,
-      "num": 154108,
-      "word": "李现李一桐或二搭将相",
-      "onboard_time": 1742719640,
-      "rank": 36,
-      "category": "作品衍生,剧集"
     },
     {
       "raw_hot": 154083,
@@ -43755,6 +43779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142113,
+      "num": 254622,
+      "word": "王楚钦说自己比以前更成熟",
+      "onboard_time": 1742720780,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142104,
       "num": 173331,
       "word": "杜特尔特要求女儿立刻返回菲律宾",
@@ -45672,6 +45704,14 @@
       "word": "王俊凯被夸到不敢说话",
       "onboard_time": 1742461342,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 135263,
+      "num": 135263,
+      "word": "白鹿小黏黏的珍贵合影",
+      "onboard_time": 1742721680,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -48371,6 +48411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125830,
+      "num": 125830,
+      "word": "WBG对战GW",
+      "onboard_time": 1742722520,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125805,
       "num": 125805,
       "word": "迪丽热巴大波浪发型回归",
@@ -48921,6 +48969,14 @@
       "onboard_time": 1741258222,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124106,
+      "num": 365228,
+      "word": "三只羊整改符合要求具备恢复经营条件",
+      "onboard_time": 1742722041,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124073,
@@ -53212,7 +53268,7 @@
     },
     {
       "raw_hot": 109633,
-      "num": 197690,
+      "num": 198568,
       "word": "F1中国站迈凯伦包揽前二",
       "onboard_time": 1742720600,
       "rank": 27,
@@ -53353,6 +53409,14 @@
       "onboard_time": 1742623401,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109027,
+      "num": 109027,
+      "word": "汪苏泷终于飞向属于自己的岛",
+      "onboard_time": 1742722160,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 108986,
@@ -55001,6 +55065,14 @@
       "onboard_time": 1742123722,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103169,
+      "num": 340939,
+      "word": "美联航机长忘带护照航班延误6小时",
+      "onboard_time": 1742720362,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 103160,
@@ -61355,6 +61427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70715,
+      "num": 176928,
+      "word": "遇风浪从陵水漂到三亚小孩系疍家人",
+      "onboard_time": 1742720660,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70572,
       "num": 174938,
       "word": "FSD入华中国智驾正面迎战",
@@ -61377,14 +61457,6 @@
       "onboard_time": 1740989298,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 70300,
-      "num": 176928,
-      "word": "遇风浪从陵水漂到三亚小孩系疍家人",
-      "onboard_time": 1742720660,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70218,
@@ -62073,14 +62145,6 @@
       "onboard_time": 1741096521,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 66496,
-      "num": 340939,
-      "word": "美联航机长忘带护照航班延误6小时",
-      "onboard_time": 1742720362,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 66463,
@@ -63073,14 +63137,6 @@
       "onboard_time": 1742213784,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 60149,
-      "num": 254622,
-      "word": "王楚钦说自己比以前更成熟",
-      "onboard_time": 1742720780,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 60139,
@@ -67595,6 +67651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 37781,
+      "num": 677893,
+      "word": "6分钟回顾神十九第3次出舱",
+      "onboard_time": 1742722280,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37773,
       "num": 1096735,
       "word": "政府工作报告里的身边事",
@@ -69241,6 +69305,14 @@
       "onboard_time": 1742649442,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30489,
+      "num": 586911,
+      "word": "文化中国行看春天里的中国",
+      "onboard_time": 1742721741,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30374,
@@ -74241,14 +74313,6 @@
       "onboard_time": 1740785715,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5776,
-      "num": 586911,
-      "word": "文化中国行看春天里的中国",
-      "onboard_time": 1742721741,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
