@@ -1,0 +1,410 @@
+{
+  "runTime": 1742726382649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1306007,
+        "num": 1306007,
+        "word": "B站曾经顶流UP主现在欠账几百万",
+        "onboard_time": 1742725100,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 841927,
+        "num": 841927,
+        "word": "合肥通报三只羊问题调查处置情况",
+        "onboard_time": 1742719339,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 56231,
+        "num": 676354,
+        "word": "6分钟回顾神十九第3次出舱",
+        "onboard_time": 1742722280,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 625878,
+        "num": 625878,
+        "word": "三只羊公司缴纳罚没款6894.95万元",
+        "onboard_time": 1742721861,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 603168,
+        "num": 603168,
+        "word": "韩国山火已烧4600个足球场面积",
+        "onboard_time": 1742721200,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 505909,
+        "num": 505909,
+        "word": "三只羊通报回应停业整改",
+        "onboard_time": 1742723360,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475939,
+        "num": 475939,
+        "word": "收到月薪60万offer但要偷渡出境",
+        "onboard_time": 1742712321,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441004,
+        "num": 441004,
+        "word": "张本智和再次模仿樊振东庆祝动作",
+        "onboard_time": 1742719699,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390568,
+        "num": 390568,
+        "word": "美貌成为她报复的手段",
+        "onboard_time": 1742723540,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352038,
+        "num": 352038,
+        "word": "法拉利撞了法拉利",
+        "onboard_time": 1742722160,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1267893,
+        "num": 351890,
+        "word": "谢瑜女朋友发的樊振东",
+        "onboard_time": 1742725040,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 977345,
+        "num": 350736,
+        "word": "性如何影响中国人的婚姻与家庭",
+        "onboard_time": 1742716878,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 452656,
+        "num": 350112,
+        "word": "金泰亨减了10kg",
+        "onboard_time": 1742723540,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413403,
+        "num": 349864,
+        "word": "从陵水漂流到三亚小孩哥父亲发声",
+        "onboard_time": 1742714959,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349275,
+        "num": 349275,
+        "word": "虞书欣出发泰国拍双轨",
+        "onboard_time": 1742721741,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133762,
+        "num": 343926,
+        "word": "车迷排队2小时模拟驾驶跑上赛",
+        "onboard_time": 1742725159,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322327,
+        "num": 342854,
+        "word": "奔跑吧13第一期嘉宾阵容",
+        "onboard_time": 1742704880,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342551,
+        "num": 342551,
+        "word": "特鲁索娃正式官宣怀孕",
+        "onboard_time": 1742718320,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119668,
+        "num": 330462,
+        "word": "F1上海站LV",
+        "onboard_time": 1742725100,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114398,
+        "num": 323068,
+        "word": "邓超孙俪现身上海F1大奖赛",
+        "onboard_time": 1742725340,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 320089,
+        "num": 320089,
+        "word": "只是增加笑料罢了",
+        "onboard_time": 1742720479,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279692,
+        "num": 279692,
+        "word": "猫咪做绝育手术被摘除脾脏",
+        "onboard_time": 1742716700,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273208,
+        "num": 273208,
+        "word": "饺子票房破200亿",
+        "onboard_time": 1742700922,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236867,
+        "num": 236867,
+        "word": "留几手说这些年欠我的门票该补了",
+        "onboard_time": 1742721020,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64106,
+        "num": 226851,
+        "word": "柯洁感谢F1世界锦标赛邀请",
+        "onboard_time": 1742725281,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224742,
+        "num": 224742,
+        "word": "控糖一年后身体的变化",
+        "onboard_time": 1742713279,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222652,
+        "num": 222652,
+        "word": "金赛纶妈妈被曝站都站不稳",
+        "onboard_time": 1742726000,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216523,
+        "num": 216523,
+        "word": "佑灰",
+        "onboard_time": 1742722520,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207560,
+        "num": 207560,
+        "word": "范志毅的人脉太开门了",
+        "onboard_time": 1742724920,
+        "rank": 28,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 199569,
+        "num": 199569,
+        "word": "U22国足绝杀韩国",
+        "onboard_time": 1742723120,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187567,
+        "num": 187567,
+        "word": "撞脸热巴的美女导游自称一般水平",
+        "onboard_time": 1742725761,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186179,
+        "num": 186179,
+        "word": "刘晓庆说现在生小孩不要寄予厚望",
+        "onboard_time": 1742719820,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183129,
+        "num": 183129,
+        "word": "世界上最佳抗炎食物排名",
+        "onboard_time": 1742713940,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182753,
+        "num": 182753,
+        "word": "文俊辉全圆佑cha",
+        "onboard_time": 1742726122,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173580,
+        "num": 173580,
+        "word": "双轨",
+        "onboard_time": 1742725640,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173261,
+        "num": 173261,
+        "word": "蒋梦婕的鞋把浪姐舞台给染红了",
+        "onboard_time": 1742718621,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144631,
+        "num": 144631,
+        "word": "冰岛儿童部长与未成年发生关系产子",
+        "onboard_time": 1742707640,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141979,
+        "num": 141979,
+        "word": "COA8小组赛抽签仪式",
+        "onboard_time": 1742725881,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44165,
+        "num": 127961,
+        "word": "台湾男生跑汉马去看辛亥革命博物馆",
+        "onboard_time": 1742726361,
+        "rank": 38,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 126586,
+        "num": 126586,
+        "word": "早不洗头是有一定科学依据的",
+        "onboard_time": 1742713460,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124834,
+        "num": 124834,
+        "word": "王楚钦说想给自己放个假",
+        "onboard_time": 1742723480,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122147,
+        "num": 122147,
+        "word": "女子在埃及被误会吃霸王餐硬气反击",
+        "onboard_time": 1742724680,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121481,
+        "num": 121481,
+        "word": "林高远看王楚钦一脸姨母笑",
+        "onboard_time": 1742721260,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118787,
+        "num": 118787,
+        "word": "哪吒2超153亿",
+        "onboard_time": 1742716639,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88179,
+        "num": 117311,
+        "word": "淘宝专挑抽象大学生来走秀",
+        "onboard_time": 1742726241,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116682,
+        "num": 116682,
+        "word": "王一珩做点儿真正好吃的",
+        "onboard_time": 1742726122,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116668,
+        "num": 116668,
+        "word": "皮亚斯特里夺F1中国站冠军",
+        "onboard_time": 1742719999,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112009,
+        "num": 112009,
+        "word": "谁允许你们大学生这么走秀的",
+        "onboard_time": 1742724860,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108375,
+        "num": 108375,
+        "word": "福耀科技大学公布学费与招生人数",
+        "onboard_time": 1742717240,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103828,
+        "num": 103828,
+        "word": "向佐爆改红桃皇后",
+        "onboard_time": 1742714780,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的民生之问#"
+    }
+  }
+}
