@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742734632001,
+  "endTime": 1742736402902,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1795,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3044323,
+      "num": 3044323,
+      "word": "茉莉奶白被曝喝出完整塑料袋",
+      "onboard_time": 1742731401,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3038517,
       "num": 3038517,
       "word": "DeepSeek",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1736606010,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2903868,
-      "num": 2903868,
-      "word": "茉莉奶白被曝喝出完整塑料袋",
-      "onboard_time": 1742731401,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2901212,

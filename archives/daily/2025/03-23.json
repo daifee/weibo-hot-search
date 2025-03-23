@@ -1,10 +1,10 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742734632001,
+  "endTime": 1742736402902,
   "band_list": [
     {
-      "raw_hot": 2903868,
-      "num": 2903868,
+      "raw_hot": 3044323,
+      "num": 3044323,
       "word": "茉莉奶白被曝喝出完整塑料袋",
       "onboard_time": 1742731401,
       "rank": 0,
@@ -129,6 +129,14 @@
       "onboard_time": 1742704820,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 986009,
+      "num": 986009,
+      "word": "李晟像极了没人发现的枯叶蝶",
+      "onboard_time": 1742734162,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 966632,
@@ -307,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 596172,
+      "num": 596172,
+      "word": "人人人人人景人人人人人",
+      "onboard_time": 1742723721,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 591492,
       "num": 591492,
       "word": "吴艳妮回应阿丽塔造型",
@@ -395,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 474627,
+      "num": 474627,
+      "word": "红双喜",
+      "onboard_time": 1742734284,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 466310,
       "num": 466310,
       "word": "联合国总部因缺钱关闭一处入口",
@@ -411,12 +435,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 456589,
+      "num": 456589,
+      "word": "西湖2亿人1亿在太子湾",
+      "onboard_time": 1742732300,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 451711,
       "num": 451711,
       "word": "美国六代机终于不是PPT了",
       "onboard_time": 1742699481,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 447627,
+      "num": 447627,
+      "word": "宁艺卓练习生时期韩语笔记",
+      "onboard_time": 1742733261,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 443542,
@@ -441,14 +481,6 @@
       "onboard_time": 1742728461,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 430889,
-      "num": 430889,
-      "word": "人人人人人景人人人人人",
-      "onboard_time": 1742723721,
-      "rank": 27,
-      "category": "旅游"
     },
     {
       "raw_hot": 429256,
@@ -476,7 +508,7 @@
     },
     {
       "raw_hot": 407985,
-      "num": 217399,
+      "num": 238915,
       "word": "孙卓开始直播带货",
       "onboard_time": 1742730321,
       "rank": 20,
@@ -675,6 +707,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 290437,
+      "num": 290437,
+      "word": "吴艳妮无缘女子60米栏决赛",
+      "onboard_time": 1742734584,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 287388,
+      "num": 238714,
+      "word": "孙卓首次直播带货销售额超500万",
+      "onboard_time": 1742733381,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286886,
       "num": 748071,
       "word": "上百万买的藏品只有一件是真品",
@@ -720,14 +768,6 @@
       "word": "丁禹兮王星越敖瑞鹏生图",
       "onboard_time": 1742654844,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 278444,
-      "num": 278444,
-      "word": "宁艺卓练习生时期韩语笔记",
-      "onboard_time": 1742733261,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -787,6 +827,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 264142,
+      "num": 237527,
+      "word": "韩国千年古刹被烧毁",
+      "onboard_time": 1742733741,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 261171,
+      "num": 261171,
+      "word": "电影不说话的爱",
+      "onboard_time": 1742734942,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 258355,
       "num": 258355,
       "word": "浪姐全场一半的人都选了宋妍霏",
@@ -809,14 +865,6 @@
       "onboard_time": 1742700620,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246093,
-      "num": 217003,
-      "word": "孙卓首次直播带货销售额超500万",
-      "onboard_time": 1742733381,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 244425,
@@ -873,6 +921,14 @@
       "onboard_time": 1742712559,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231816,
+      "num": 231816,
+      "word": "白鹿低扎发",
+      "onboard_time": 1742733623,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 229862,
@@ -993,14 +1049,6 @@
       "onboard_time": 1742732842,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205439,
-      "num": 205439,
-      "word": "白鹿低扎发",
-      "onboard_time": 1742733623,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 203676,
@@ -1155,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187638,
+      "num": 187638,
+      "word": "何浩楠 我爱吃玉米",
+      "onboard_time": 1742735422,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187611,
       "num": 187611,
       "word": "白鹿文青味",
@@ -1235,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175503,
-      "num": 175503,
-      "word": "韩国千年古刹被烧毁",
-      "onboard_time": 1742733741,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 174698,
       "num": 174698,
       "word": "NJZ香港演出",
@@ -1289,14 +1337,6 @@
       "onboard_time": 1742733321,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172604,
-      "num": 172604,
-      "word": "李晟像极了没人发现的枯叶蝶",
-      "onboard_time": 1742734162,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 170678,
@@ -1425,6 +1465,14 @@
       "onboard_time": 1742716460,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159190,
+      "num": 159190,
+      "word": "华晨宇涂鸦内搭",
+      "onboard_time": 1742735782,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 158988,
@@ -1580,7 +1628,7 @@
     },
     {
       "raw_hot": 149547,
-      "num": 213650,
+      "num": 262481,
       "word": "全民智驾时代年轻人的带感选择",
       "onboard_time": 1742733442,
       "rank": 44,
@@ -1633,14 +1681,6 @@
       "onboard_time": 1742715139,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147010,
-      "num": 147010,
-      "word": "红双喜",
-      "onboard_time": 1742734284,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 146814,
@@ -1883,14 +1923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132654,
-      "num": 132654,
-      "word": "西湖2亿人1亿在太子湾",
-      "onboard_time": 1742732300,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 132402,
       "num": 240837,
       "word": "韩国一天发生16起山林火灾",
@@ -1913,6 +1945,14 @@
       "onboard_time": 1742724140,
       "rank": 23,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 129416,
+      "num": 129416,
+      "word": "祝绪丹为了不交作业演卡住了",
+      "onboard_time": 1742733923,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 129251,
@@ -1945,14 +1985,6 @@
       "onboard_time": 1742728700,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126369,
-      "num": 126369,
-      "word": "吴艳妮无缘女子60米栏决赛",
-      "onboard_time": 1742734584,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 125830,
@@ -2043,14 +2075,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 120766,
-      "num": 120766,
-      "word": "祝绪丹为了不交作业演卡住了",
-      "onboard_time": 1742733923,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120358,
       "num": 120358,
       "word": "终于知道茶叶里的茶香怎么来的了",
@@ -2088,6 +2112,14 @@
       "word": "台湾老兵收到山东馒头开心得像孩子",
       "onboard_time": 1742694919,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116856,
+      "num": 116856,
+      "word": "男子繁殖兰花螳螂看着像特效",
+      "onboard_time": 1742735361,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -2579,6 +2611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 83715,
+      "num": 216175,
+      "word": "林孝埈中文越来越好",
+      "onboard_time": 1742731881,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83360,
       "num": 148129,
       "word": "林高远好可爱",
@@ -2723,6 +2763,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 66950,
+      "num": 293859,
+      "word": "劝阻吸烟当事人呼吁拒绝二手烟",
+      "onboard_time": 1742735061,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65575,
       "num": 65575,
       "word": "宋妍霏初舞台",
@@ -2857,6 +2905,14 @@
       "onboard_time": 1742722821,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51070,
+      "num": 155440,
+      "word": "在苏州挪着挪着就撞进花海",
+      "onboard_time": 1742736261,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 50968,
