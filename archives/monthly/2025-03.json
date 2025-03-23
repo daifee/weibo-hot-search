@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742714457908,
+  "endTime": 1742715363102,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1651,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1731944,
+      "num": 1731944,
+      "word": "收到月薪60万offer但要偷渡出境",
+      "onboard_time": 1742712321,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1730704,
       "num": 1730704,
       "word": "建议研究生考试提前至9月",
@@ -1665,14 +1673,6 @@
       "onboard_time": 1741398980,
       "rank": 12,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1728039,
-      "num": 1728039,
-      "word": "收到月薪60万offer但要偷渡出境",
-      "onboard_time": 1742712321,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1722770,
@@ -9771,6 +9771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 597393,
+      "num": 597393,
+      "word": "控糖一年后身体的变化",
+      "onboard_time": 1742713279,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 596774,
       "num": 596774,
       "word": "卖炒饭净赚50万的创富故事看看就好",
@@ -14147,6 +14155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421093,
+      "num": 421093,
+      "word": "女性消费陷阱",
+      "onboard_time": 1742711960,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 420812,
       "num": 471294,
       "word": "孙颖莎顶住了",
@@ -17291,6 +17307,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 343083,
+      "num": 343083,
+      "word": "物理老师放大招学生哇声一片",
+      "onboard_time": 1742710219,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343063,
       "num": 343063,
       "word": "XIUMIN与SM艺人不能同时出演KBS节目",
@@ -18331,14 +18355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 322308,
-      "num": 330167,
-      "word": "物理老师放大招学生哇声一片",
-      "onboard_time": 1742710219,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 322124,
       "num": 322124,
       "word": "JackeyLove荣获决赛FMVP",
@@ -18929,6 +18945,14 @@
       "onboard_time": 1742610621,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308513,
+      "num": 308513,
+      "word": "周杰伦出席上海F1大奖赛",
+      "onboard_time": 1742712379,
+      "rank": 15,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 308508,
@@ -21049,14 +21073,6 @@
       "onboard_time": 1742181983,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273395,
-      "num": 273395,
-      "word": "周杰伦出席上海F1大奖赛",
-      "onboard_time": 1742712379,
-      "rank": 15,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 273321,
@@ -24347,14 +24363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233514,
-      "num": 233514,
-      "word": "女性消费陷阱",
-      "onboard_time": 1742711960,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 233485,
       "num": 233485,
       "word": "退役军人终身8折现役军人免费吃",
@@ -25817,14 +25825,6 @@
       "onboard_time": 1741875865,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 221170,
-      "num": 221170,
-      "word": "控糖一年后身体的变化",
-      "onboard_time": 1742713279,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 221148,
@@ -34827,6 +34827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174698,
+      "num": 174698,
+      "word": "NJZ香港演出",
+      "onboard_time": 1742713040,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174619,
       "num": 174619,
       "word": "单依纯哪吒造型",
@@ -38259,6 +38267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 160486,
+      "num": 160486,
+      "word": "祝绪丹整活出现人传人现象",
+      "onboard_time": 1742714540,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160479,
       "num": 273729,
       "word": "郑钦文2比0阿扎伦卡",
@@ -38425,6 +38441,14 @@
       "onboard_time": 1742634742,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159763,
+      "num": 160370,
+      "word": "早不洗头是有一定科学依据的",
+      "onboard_time": 1742713460,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 159740,
@@ -38681,6 +38705,14 @@
       "onboard_time": 1741503381,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158663,
+      "num": 148264,
+      "word": "世界上最佳抗炎食物排名",
+      "onboard_time": 1742713940,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 158602,
@@ -39395,14 +39427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156108,
-      "num": 156108,
-      "word": "NJZ香港演出",
-      "onboard_time": 1742713040,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 156097,
       "num": 156097,
       "word": "瞿颖送胡兵泰国游当生日礼物",
@@ -39521,6 +39545,14 @@
       "onboard_time": 1741923023,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 155617,
+      "num": 148660,
+      "word": "向佐爆改红桃皇后",
+      "onboard_time": 1742714780,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155614,
@@ -41395,6 +41427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148856,
+      "num": 148856,
+      "word": "北京将种植不产生花粉的雌株柏树",
+      "onboard_time": 1742712140,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148841,
       "num": 148841,
       "word": "王安宇双开门背影",
@@ -41721,6 +41761,14 @@
       "onboard_time": 1741129935,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 147734,
+      "num": 196730,
+      "word": "如何看待无效劝阻餐馆二手烟事件频发",
+      "onboard_time": 1742715139,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147720,
@@ -47739,14 +47787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126816,
-      "num": 135751,
-      "word": "北京将种植不产生花粉的雌株柏树",
-      "onboard_time": 1742712140,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126797,
       "num": 126797,
       "word": "每天必做的体态训练",
@@ -50395,6 +50435,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 118403,
+      "num": 118403,
+      "word": "从陵水漂流到三亚小孩哥父亲发声",
+      "onboard_time": 1742714959,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118387,
       "num": 118387,
       "word": "林俊杰 抢票",
@@ -50529,14 +50577,6 @@
       "onboard_time": 1741696524,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118033,
-      "num": 118033,
-      "word": "世界上最佳抗炎食物排名",
-      "onboard_time": 1742713940,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 118032,
@@ -52171,6 +52211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111895,
+      "num": 288985,
+      "word": "圆柏花粉爆发像大风扬沙",
+      "onboard_time": 1742713640,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111878,
       "num": 111878,
       "word": "林更新 我没看出上一次有多宠",
@@ -52937,6 +52985,14 @@
       "onboard_time": 1742190081,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109208,
+      "num": 108166,
+      "word": "F1观赛名单",
+      "onboard_time": 1742714120,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 109179,
@@ -54177,14 +54233,6 @@
       "onboard_time": 1741605084,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104818,
-      "num": 160370,
-      "word": "早不洗头是有一定科学依据的",
-      "onboard_time": 1742713460,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 104816,
@@ -57563,6 +57611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90935,
+      "num": 90935,
+      "word": "美机长飞上海忘带护照延误6小时",
+      "onboard_time": 1742715018,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90903,
       "num": 294195,
       "word": "建议设立无堂食外卖举报平台",
@@ -58033,22 +58089,6 @@
       "onboard_time": 1742281462,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 88903,
-      "num": 88903,
-      "word": "F1观赛名单",
-      "onboard_time": 1742714120,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 88899,
-      "num": 288985,
-      "word": "圆柏花粉爆发像大风扬沙",
-      "onboard_time": 1742713640,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88871,
@@ -59067,6 +59107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83360,
+      "num": 148129,
+      "word": "林高远好可爱",
+      "onboard_time": 1742715200,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83335,
       "num": 225448,
       "word": "周杰伦拟在济南连唱3天",
@@ -59760,6 +59808,14 @@
       "word": "女排欧冠",
       "onboard_time": 1741829842,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78560,
+      "num": 194172,
+      "word": "F1中国大奖赛正赛发车",
+      "onboard_time": 1742714600,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -62827,6 +62883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58841,
+      "num": 156966,
+      "word": "柯洁现身F1上海大奖赛现场",
+      "onboard_time": 1742713279,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58756,
       "num": 297125,
       "word": "穆婷婷乔振宇早期微博互动",
@@ -63657,14 +63721,6 @@
       "onboard_time": 1742556261,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 54556,
-      "num": 156966,
-      "word": "柯洁现身F1上海大奖赛现场",
-      "onboard_time": 1742713279,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 54549,

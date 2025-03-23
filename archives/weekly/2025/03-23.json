@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742714457908,
+  "endTime": 1742715363102,
   "band_list": [
     {
       "raw_hot": 1804315,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1728039,
-      "num": 1728039,
+      "raw_hot": 1731944,
+      "num": 1731944,
       "word": "收到月薪60万offer但要偷渡出境",
       "onboard_time": 1742712321,
       "rank": 0,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 597393,
+      "num": 597393,
+      "word": "控糖一年后身体的变化",
+      "onboard_time": 1742713279,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 597079,
       "num": 204251,
       "word": "曝金秀贤超越N号房新料提示",
@@ -243,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 421093,
+      "num": 421093,
+      "word": "女性消费陷阱",
+      "onboard_time": 1742711960,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 411473,
       "num": 411473,
       "word": "官方回应女生劝阻吸烟被怼",
@@ -273,6 +289,14 @@
       "onboard_time": 1742704581,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343083,
+      "num": 343083,
+      "word": "物理老师放大招学生哇声一片",
+      "onboard_time": 1742710219,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332025,
@@ -315,20 +339,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 322308,
-      "num": 330167,
-      "word": "物理老师放大招学生哇声一片",
-      "onboard_time": 1742710219,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 313680,
       "num": 313680,
       "word": "网友出海钓鱼在海上捡到个小孩",
       "onboard_time": 1742685796,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308513,
+      "num": 308513,
+      "word": "周杰伦出席上海F1大奖赛",
+      "onboard_time": 1742712379,
+      "rank": 15,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 304953,
@@ -419,14 +443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 273395,
-      "num": 273395,
-      "word": "周杰伦出席上海F1大奖赛",
-      "onboard_time": 1742712379,
-      "rank": 15,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 272194,
       "num": 239064,
       "word": "每天少吃一顿会怎样",
@@ -499,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233514,
-      "num": 233514,
-      "word": "女性消费陷阱",
-      "onboard_time": 1742711960,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 233187,
       "num": 233187,
       "word": "向佐锅盖头卷发",
@@ -521,14 +529,6 @@
       "onboard_time": 1742710280,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221170,
-      "num": 221170,
-      "word": "控糖一年后身体的变化",
-      "onboard_time": 1742713279,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 215050,
@@ -699,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174698,
+      "num": 174698,
+      "word": "NJZ香港演出",
+      "onboard_time": 1742713040,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174216,
       "num": 174216,
       "word": "郑钦文2比0汤森德",
@@ -795,12 +803,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160486,
+      "num": 160486,
+      "word": "祝绪丹整活出现人传人现象",
+      "onboard_time": 1742714540,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160420,
       "num": 160420,
       "word": "郑钦文晋级迈阿密赛16强",
       "onboard_time": 1742699060,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159763,
+      "num": 160370,
+      "word": "早不洗头是有一定科学依据的",
+      "onboard_time": 1742713460,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 158663,
+      "num": 148264,
+      "word": "世界上最佳抗炎食物排名",
+      "onboard_time": 1742713940,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 156785,
@@ -811,12 +843,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 156108,
-      "num": 156108,
-      "word": "NJZ香港演出",
-      "onboard_time": 1742713040,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 155617,
+      "num": 148660,
+      "word": "向佐爆改红桃皇后",
+      "onboard_time": 1742714780,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155211,
@@ -881,6 +913,22 @@
       "onboard_time": 1742706260,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148856,
+      "num": 148856,
+      "word": "北京将种植不产生花粉的雌株柏树",
+      "onboard_time": 1742712140,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147734,
+      "num": 196730,
+      "word": "如何看待无效劝阻餐馆二手烟事件频发",
+      "onboard_time": 1742715139,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146814,
@@ -1051,14 +1099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126816,
-      "num": 135751,
-      "word": "北京将种植不产生花粉的雌株柏树",
-      "onboard_time": 1742712140,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125574,
       "num": 156637,
       "word": "侯明昊古力娜扎玉茗茶骨路透",
@@ -1107,12 +1147,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 118033,
-      "num": 118033,
-      "word": "世界上最佳抗炎食物排名",
-      "onboard_time": 1742713940,
-      "rank": 39,
-      "category": "美食"
+      "raw_hot": 118403,
+      "num": 118403,
+      "word": "从陵水漂流到三亚小孩哥父亲发声",
+      "onboard_time": 1742714959,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117361,
@@ -1195,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111895,
+      "num": 288985,
+      "word": "圆柏花粉爆发像大风扬沙",
+      "onboard_time": 1742713640,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111643,
       "num": 111643,
       "word": "胡静当导游还是太全面了",
@@ -1209,6 +1257,14 @@
       "onboard_time": 1742650822,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109208,
+      "num": 108166,
+      "word": "F1观赛名单",
+      "onboard_time": 1742714120,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 108986,
@@ -1249,14 +1305,6 @@
       "onboard_time": 1742653822,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 104818,
-      "num": 160370,
-      "word": "早不洗头是有一定科学依据的",
-      "onboard_time": 1742713460,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 104626,
@@ -1427,28 +1475,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90935,
+      "num": 90935,
+      "word": "美机长飞上海忘带护照延误6小时",
+      "onboard_time": 1742715018,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89701,
       "num": 89701,
       "word": "勇士vs老鹰",
       "onboard_time": 1742695580,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88903,
-      "num": 88903,
-      "word": "F1观赛名单",
-      "onboard_time": 1742714120,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 88899,
-      "num": 288985,
-      "word": "圆柏花粉爆发像大风扬沙",
-      "onboard_time": 1742713640,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87109,
@@ -1499,6 +1539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 83360,
+      "num": 148129,
+      "word": "林高远好可爱",
+      "onboard_time": 1742715200,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81868,
       "num": 81868,
       "word": "汪苏泷鸟巢场不可复制",
@@ -1513,6 +1561,14 @@
       "onboard_time": 1742658742,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 78560,
+      "num": 194172,
+      "word": "F1中国大奖赛正赛发车",
+      "onboard_time": 1742714600,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 76563,
@@ -1667,6 +1723,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 58841,
+      "num": 156966,
+      "word": "柯洁现身F1上海大奖赛现场",
+      "onboard_time": 1742713279,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55882,
       "num": 54040,
       "word": "王楚钦赛后一层一层包好球拍",
@@ -1681,14 +1745,6 @@
       "onboard_time": 1742684836,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 54556,
-      "num": 156966,
-      "word": "柯洁现身F1上海大奖赛现场",
-      "onboard_time": 1742713279,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 52768,
