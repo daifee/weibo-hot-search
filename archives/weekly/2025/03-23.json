@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742712238064,
+  "endTime": 1742714457908,
   "band_list": [
     {
       "raw_hot": 1804315,
@@ -8,6 +8,14 @@
       "word": "女生劝阻吸烟被怼不闻烟味别出来吃饭",
       "onboard_time": 1742698879,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1728039,
+      "num": 1728039,
+      "word": "收到月薪60万offer但要偷渡出境",
+      "onboard_time": 1742712321,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -299,6 +307,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 325831,
+      "num": 325831,
+      "word": "易烊千玺中式美学",
+      "onboard_time": 1742712199,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 322308,
+      "num": 330167,
+      "word": "物理老师放大招学生哇声一片",
+      "onboard_time": 1742710219,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313680,
       "num": 313680,
       "word": "网友出海钓鱼在海上捡到个小孩",
@@ -355,6 +379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 281598,
+      "num": 281598,
+      "word": "奔跑吧 张韶涵",
+      "onboard_time": 1742709439,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280073,
       "num": 138055,
       "word": "丁禹兮王星越敖瑞鹏生图",
@@ -385,6 +417,14 @@
       "onboard_time": 1742658022,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 273395,
+      "num": 273395,
+      "word": "周杰伦出席上海F1大奖赛",
+      "onboard_time": 1742712379,
+      "rank": 15,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 272194,
@@ -459,12 +499,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233514,
+      "num": 233514,
+      "word": "女性消费陷阱",
+      "onboard_time": 1742711960,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 233187,
+      "num": 233187,
+      "word": "向佐锅盖头卷发",
+      "onboard_time": 1742712559,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225720,
       "num": 221274,
       "word": "200多万买二手房遭遇20年租约",
       "onboard_time": 1742710280,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221170,
+      "num": 221170,
+      "word": "控糖一年后身体的变化",
+      "onboard_time": 1742713279,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 215050,
@@ -547,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192748,
-      "num": 330167,
-      "word": "物理老师放大招学生哇声一片",
-      "onboard_time": 1742710219,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 191528,
       "num": 191528,
       "word": "一旦沾上中性风穿搭就停不下来了",
@@ -635,14 +691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178638,
-      "num": 178638,
-      "word": "奔跑吧 张韶涵",
-      "onboard_time": 1742709439,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177776,
       "num": 177776,
       "word": "武汉马拉松连海绵都是樱花形状",
@@ -656,6 +704,14 @@
       "word": "郑钦文2比0汤森德",
       "onboard_time": 1742699000,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174108,
+      "num": 174108,
+      "word": "王楚钦3比0敖华磊",
+      "onboard_time": 1742713279,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -675,14 +731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 170375,
-      "num": 170375,
-      "word": "易烊千玺中式美学",
-      "onboard_time": 1742712199,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 169262,
       "num": 137565,
       "word": "李荣浩来看杨丞琳演唱会了",
@@ -700,7 +748,7 @@
     },
     {
       "raw_hot": 167658,
-      "num": 139650,
+      "num": 153298,
       "word": "被卡琳娜帅一大跳",
       "onboard_time": 1742711541,
       "rank": 30,
@@ -763,6 +811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 156108,
+      "num": 156108,
+      "word": "NJZ香港演出",
+      "onboard_time": 1742713040,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155211,
       "num": 155211,
       "word": "孙颖莎说输球是比赛的一部分",
@@ -809,6 +865,14 @@
       "onboard_time": 1742693060,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150846,
+      "num": 150846,
+      "word": "宋亚轩这是我的西游古装造型路透",
+      "onboard_time": 1742714359,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 150801,
@@ -987,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126816,
+      "num": 135751,
+      "word": "北京将种植不产生花粉的雌株柏树",
+      "onboard_time": 1742712140,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125574,
       "num": 156637,
       "word": "侯明昊古力娜扎玉茗茶骨路透",
@@ -1033,6 +1105,22 @@
       "onboard_time": 1742704941,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 118033,
+      "num": 118033,
+      "word": "世界上最佳抗炎食物排名",
+      "onboard_time": 1742713940,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 117361,
+      "num": 117361,
+      "word": "DYG对战JDG",
+      "onboard_time": 1742714001,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 116958,
@@ -1161,6 +1249,14 @@
       "onboard_time": 1742653822,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104818,
+      "num": 160370,
+      "word": "早不洗头是有一定科学依据的",
+      "onboard_time": 1742713460,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 104626,
@@ -1323,12 +1419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90092,
-      "num": 93970,
-      "word": "女性消费陷阱",
-      "onboard_time": 1742711960,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 91510,
+      "num": 180784,
+      "word": "吴艳妮调皮提醒记者别忘开美颜",
+      "onboard_time": 1742713460,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 89701,
@@ -1339,11 +1435,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88903,
+      "num": 88903,
+      "word": "F1观赛名单",
+      "onboard_time": 1742714120,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88899,
+      "num": 288985,
+      "word": "圆柏花粉爆发像大风扬沙",
+      "onboard_time": 1742713640,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87109,
       "num": 87109,
       "word": "无锡马拉松",
       "onboard_time": 1742687779,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86224,
+      "num": 86224,
+      "word": "马龙林高远同框",
+      "onboard_time": 1742712799,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1563,6 +1683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 54556,
+      "num": 156966,
+      "word": "柯洁现身F1上海大奖赛现场",
+      "onboard_time": 1742713279,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52768,
       "num": 59233,
       "word": "王楚钦马龙11比1杨硕袁励岑",
@@ -1641,14 +1769,6 @@
       "onboard_time": 1742700861,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33303,
-      "num": 135751,
-      "word": "北京将种植不产生花粉的雌株柏树",
-      "onboard_time": 1742712140,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32848,

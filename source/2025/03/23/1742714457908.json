@@ -1,0 +1,410 @@
+{
+  "runTime": 1742714457908,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1728039,
+        "num": 1728039,
+        "word": "收到月薪60万offer但要偷渡出境",
+        "onboard_time": 1742712321,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 837335,
+        "num": 837335,
+        "word": "奔跑吧13第一期嘉宾阵容",
+        "onboard_time": 1742704880,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36985,
+        "num": 710613,
+        "word": "100秒奔赴一场繁花盛开",
+        "onboard_time": 1742703320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662322,
+        "num": 662322,
+        "word": "饺子票房破200亿",
+        "onboard_time": 1742700922,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 439724,
+        "num": 439724,
+        "word": "女生劝阻吸烟被怼不闻烟味别出来吃饭",
+        "onboard_time": 1742698879,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434102,
+        "num": 434102,
+        "word": "吴艳妮回应阿丽塔造型",
+        "onboard_time": 1742707041,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325831,
+        "num": 325831,
+        "word": "易烊千玺中式美学",
+        "onboard_time": 1742712199,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 322308,
+        "num": 322308,
+        "word": "物理老师放大招学生哇声一片",
+        "onboard_time": 1742710219,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289264,
+        "num": 289264,
+        "word": "南京鸡鸣寺樱花树下人比花多",
+        "onboard_time": 1742697559,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 88899,
+        "num": 288985,
+        "word": "圆柏花粉爆发像大风扬沙",
+        "onboard_time": 1742713640,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1067938,
+        "num": 286718,
+        "word": "冰岛儿童部长与未成年发生关系产子",
+        "onboard_time": 1742707640,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 375029,
+        "num": 285845,
+        "word": "杨祐宁老婆官宣怀三胎",
+        "onboard_time": 1742704820,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321676,
+        "num": 284037,
+        "word": "孙俪把老师打成老公",
+        "onboard_time": 1742693122,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312411,
+        "num": 282138,
+        "word": "曝有数千张金秀贤照片视频未公开",
+        "onboard_time": 1742698039,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281598,
+        "num": 281598,
+        "word": "奔跑吧 张韶涵",
+        "onboard_time": 1742709439,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273395,
+        "num": 273395,
+        "word": "周杰伦出席上海F1大奖赛",
+        "onboard_time": 1742712379,
+        "rank": 15,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 266332,
+        "num": 266332,
+        "word": "官方回应女生劝阻吸烟被怼",
+        "onboard_time": 1742707220,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247880,
+        "num": 247880,
+        "word": "张翰回应停更三年",
+        "onboard_time": 1742686518,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233514,
+        "num": 233514,
+        "word": "女性消费陷阱",
+        "onboard_time": 1742711960,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233187,
+        "num": 233187,
+        "word": "向佐锅盖头卷发",
+        "onboard_time": 1742712559,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226378,
+        "num": 226378,
+        "word": "韩国多地进入灾难状态",
+        "onboard_time": 1742688859,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221170,
+        "num": 221170,
+        "word": "控糖一年后身体的变化",
+        "onboard_time": 1742713279,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190872,
+        "num": 190872,
+        "word": "太好了是时代少年团我们有救了",
+        "onboard_time": 1742706080,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185207,
+        "num": 185207,
+        "word": "200多万买二手房遭遇20年租约",
+        "onboard_time": 1742710280,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91510,
+        "num": 180784,
+        "word": "吴艳妮调皮提醒记者别忘开美颜",
+        "onboard_time": 1742713460,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177817,
+        "num": 177817,
+        "word": "邓超也被孙俪吓了一跳吧",
+        "onboard_time": 1742698879,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174108,
+        "num": 174108,
+        "word": "王楚钦3比0敖华磊",
+        "onboard_time": 1742713279,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166153,
+        "num": 166153,
+        "word": "唐九洲 抄袭",
+        "onboard_time": 1742647761,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104818,
+        "num": 160370,
+        "word": "早不洗头是有一定科学依据的",
+        "onboard_time": 1742713460,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54556,
+        "num": 156966,
+        "word": "柯洁现身F1上海大奖赛现场",
+        "onboard_time": 1742713279,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156108,
+        "num": 156108,
+        "word": "NJZ香港演出",
+        "onboard_time": 1742713040,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153298,
+        "num": 153298,
+        "word": "被卡琳娜帅一大跳",
+        "onboard_time": 1742711541,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150846,
+        "num": 150846,
+        "word": "宋亚轩这是我的西游古装造型路透",
+        "onboard_time": 1742714359,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131750,
+        "num": 131750,
+        "word": "美国六代机终于不是PPT了",
+        "onboard_time": 1742699481,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131397,
+        "num": 131397,
+        "word": "17部电影定档清明和五一档",
+        "onboard_time": 1742695641,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128104,
+        "num": 128104,
+        "word": "每天少吃一顿会怎样",
+        "onboard_time": 1742704100,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127840,
+        "num": 127840,
+        "word": "CASETiFY一个手机壳卖4000多元",
+        "onboard_time": 1742709860,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127299,
+        "num": 127299,
+        "word": "比格犬之魔童降世",
+        "onboard_time": 1742711719,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126816,
+        "num": 126816,
+        "word": "北京将种植不产生花粉的雌株柏树",
+        "onboard_time": 1742712140,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118033,
+        "num": 118033,
+        "word": "世界上最佳抗炎食物排名",
+        "onboard_time": 1742713940,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117361,
+        "num": 117361,
+        "word": "DYG对战JDG",
+        "onboard_time": 1742714001,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108290,
+        "num": 108290,
+        "word": "唐九洲黄子弘凡回应",
+        "onboard_time": 1742696721,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103028,
+        "num": 103028,
+        "word": "曝接下来的东西会损害金赛纶的名誉",
+        "onboard_time": 1742701880,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102967,
+        "num": 102967,
+        "word": "警方回应男孩海钓从陵水漂流到三亚",
+        "onboard_time": 1742690780,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102630,
+        "num": 102630,
+        "word": "爆改4平米睡3人的家",
+        "onboard_time": 1742707701,
+        "rank": 44,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 100522,
+        "num": 100522,
+        "word": "陈都灵内娱樱花树",
+        "onboard_time": 1742704581,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96033,
+        "num": 96033,
+        "word": "王一博清爽条纹",
+        "onboard_time": 1742709199,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88903,
+        "num": 88903,
+        "word": "F1观赛名单",
+        "onboard_time": 1742714120,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87493,
+        "num": 87493,
+        "word": "雷军李在镕合影",
+        "onboard_time": 1742699901,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 86224,
+        "num": 86224,
+        "word": "马龙林高远同框",
+        "onboard_time": 1742712799,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#走出一条持续健康的文旅发展之路#"
+    }
+  }
+}
