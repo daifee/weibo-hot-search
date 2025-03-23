@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742739618454,
+  "endTime": 1742740675453,
   "band_list": [
     {
       "raw_hot": 3044323,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1222172,
+      "num": 934184,
+      "word": "女生花50元租公司6平米卫生间住",
+      "onboard_time": 1742738360,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1182572,
       "num": 1182572,
       "word": "温峥嵘我向您道歉",
@@ -153,14 +161,6 @@
       "onboard_time": 1742698039,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 934184,
-      "num": 934184,
-      "word": "女生花50元租公司6平米卫生间住",
-      "onboard_time": 1742738360,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 867219,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 617900,
+      "num": 410096,
+      "word": "孙卓开始直播带货",
+      "onboard_time": 1742730321,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 616033,
       "num": 893634,
       "word": "金价",
@@ -377,14 +385,6 @@
       "onboard_time": 1742699901,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 559849,
-      "num": 410096,
-      "word": "孙卓开始直播带货",
-      "onboard_time": 1742730321,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 557763,
@@ -595,6 +595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 347556,
+      "num": 413753,
+      "word": "NJZ香港演出",
+      "onboard_time": 1742713040,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 345386,
       "num": 345386,
       "word": "皮亚斯特里夺F1中国站冠军",
@@ -659,12 +667,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 324448,
-      "num": 413753,
-      "word": "NJZ香港演出",
-      "onboard_time": 1742713040,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 324204,
+      "num": 324204,
+      "word": "iG全神班回来了",
+      "onboard_time": 1742737102,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 323874,
@@ -691,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311794,
+      "num": 323650,
+      "word": "小杨哥半年掉粉超1200万",
+      "onboard_time": 1742738783,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 308513,
       "num": 308513,
       "word": "周杰伦出席上海F1大奖赛",
@@ -700,7 +716,7 @@
     },
     {
       "raw_hot": 307429,
-      "num": 307429,
+      "num": 322552,
       "word": "白鹿低扎发",
       "onboard_time": 1742733623,
       "rank": 41,
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 291356,
-      "num": 215581,
+      "num": 247904,
       "word": "樊振东是张本智和最喜欢的球员",
       "onboard_time": 1742736683,
       "rank": 31,
@@ -795,6 +811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 281774,
+      "num": 323095,
+      "word": "雁回时热度",
+      "onboard_time": 1742739502,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281598,
       "num": 281598,
       "word": "奔跑吧 张韶涵",
@@ -841,14 +865,6 @@
       "onboard_time": 1742723120,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273475,
-      "num": 273475,
-      "word": "iG全神班回来了",
-      "onboard_time": 1742737102,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 272194,
@@ -955,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233316,
+      "num": 233316,
+      "word": "汪苏泷说今天温以凡在台下",
+      "onboard_time": 1742733442,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 233187,
       "num": 233187,
       "word": "向佐锅盖头卷发",
@@ -1011,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213568,
-      "num": 216092,
-      "word": "小杨哥半年掉粉超1200万",
-      "onboard_time": 1742738783,
-      "rank": 19,
-      "category": "网红"
-    },
-    {
       "raw_hot": 213287,
       "num": 213287,
       "word": "等我上清华我也这么上早八",
@@ -1035,20 +1051,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211894,
-      "num": 211894,
-      "word": "汪苏泷说今天温以凡在台下",
-      "onboard_time": 1742733442,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 211893,
       "num": 211893,
       "word": "古埃及房子着火要先救猫",
       "onboard_time": 1742655382,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 210648,
+      "num": 210648,
+      "word": "发现快递里是20多张购物卡赶紧报警",
+      "onboard_time": 1742738360,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209262,
@@ -1171,6 +1187,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195945,
+      "num": 195945,
+      "word": "上海男篮vs辽宁男篮",
+      "onboard_time": 1742739861,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195283,
+      "num": 324192,
+      "word": "三只羊回应何时复播",
+      "onboard_time": 1742729361,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 194694,
       "num": 194694,
       "word": "王宝强李乃文新剧首映口碑",
@@ -1203,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191730,
+      "num": 191730,
+      "word": "孙恩盛 今晚要晚开播一下",
+      "onboard_time": 1742739682,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 191528,
       "num": 191528,
       "word": "一旦沾上中性风穿搭就停不下来了",
@@ -1233,14 +1273,6 @@
       "onboard_time": 1742727801,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 189221,
-      "num": 189221,
-      "word": "发现快递里是20多张购物卡赶紧报警",
-      "onboard_time": 1742738360,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189131,
@@ -1411,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171286,
+      "num": 171286,
+      "word": "MINJI红发",
+      "onboard_time": 1742740283,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170678,
       "num": 133217,
       "word": "全款140万买到230平房子",
@@ -1531,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160124,
+      "num": 160124,
+      "word": "美称1天卖出1000张移民金卡",
+      "onboard_time": 1742736683,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159333,
       "num": 159333,
       "word": "张萌被横店的代拍卷到了",
@@ -1579,12 +1627,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157979,
-      "num": 158448,
-      "word": "三只羊回应何时复播",
-      "onboard_time": 1742729361,
-      "rank": 40,
-      "category": "互联网"
+      "raw_hot": 156971,
+      "num": 156971,
+      "word": "迪丽热巴陈飞宇读本入戏",
+      "onboard_time": 1742737942,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156971,
+      "num": 156971,
+      "word": "马思纯晒练舞照",
+      "onboard_time": 1742740222,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 156914,
@@ -1731,20 +1787,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149153,
+      "num": 149153,
+      "word": "魏晨音乐节造型",
+      "onboard_time": 1742739442,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149123,
       "num": 149123,
       "word": "第一批人形机器人开始整顿职场了",
       "onboard_time": 1742724200,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 148938,
-      "num": 148938,
-      "word": "迪丽热巴陈飞宇读本入戏",
-      "onboard_time": 1742737942,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 148856,
@@ -1947,20 +2003,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 136203,
-      "num": 136203,
-      "word": "美称1天卖出1000张移民金卡",
-      "onboard_time": 1742736683,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 135907,
       "num": 135907,
       "word": "花3万8买了条80平的老船",
       "onboard_time": 1742687297,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135757,
+      "num": 135757,
+      "word": "宝妈为让女儿少吃糖用生姜做棒棒糖",
+      "onboard_time": 1742738783,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135545,
@@ -2089,14 +2145,6 @@
       "onboard_time": 1742728700,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125978,
-      "num": 125978,
-      "word": "宝妈为让女儿少吃糖用生姜做棒棒糖",
-      "onboard_time": 1742738783,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125830,
@@ -2307,6 +2355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112825,
+      "num": 112825,
+      "word": "你的发缝还好吗",
+      "onboard_time": 1742739203,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112675,
       "num": 112675,
       "word": "叶诗文100米蛙金牌",
@@ -2363,20 +2419,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109967,
+      "num": 109967,
+      "word": "金融提振消费新政出炉",
+      "onboard_time": 1742740523,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109633,
       "num": 198568,
       "word": "F1中国站迈凯伦包揽前二",
       "onboard_time": 1742720600,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109420,
-      "num": 109420,
-      "word": "雁回时热度",
-      "onboard_time": 1742739502,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 109208,
@@ -2451,14 +2507,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 106348,
-      "num": 106348,
-      "word": "你的发缝还好吗",
-      "onboard_time": 1742739203,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 105473,
       "num": 105473,
       "word": "黄友政3比1袁烜松",
@@ -2513,14 +2561,6 @@
       "onboard_time": 1742720362,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 102974,
-      "num": 102974,
-      "word": "魏晨音乐节造型",
-      "onboard_time": 1742739442,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 102570,
@@ -2691,11 +2731,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91441,
+      "num": 1162304,
+      "word": "中国火箭排队上天",
+      "onboard_time": 1742738122,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 90935,
       "num": 90935,
       "word": "美机长飞上海忘带护照延误6小时",
       "onboard_time": 1742715018,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90624,
+      "num": 136405,
+      "word": "3人冒充孙子4天骗了50万",
+      "onboard_time": 1742740642,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2769,14 +2825,6 @@
       "onboard_time": 1742715200,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83189,
-      "num": 1162304,
-      "word": "中国火箭排队上天",
-      "onboard_time": 1742738122,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 81868,
@@ -3129,6 +3177,14 @@
       "onboard_time": 1742651904,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 37125,
+      "num": 321271,
+      "word": "当地称暂不清楚河流铊浓度异常源头",
+      "onboard_time": 1742740161,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36706,
