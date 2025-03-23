@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742694920538,
+  "endTime": 1742696264296,
   "band_list": [
     {
       "raw_hot": 1694206,
@@ -19,19 +19,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1362338,
+      "num": 310784,
+      "word": "孙俪把老师打成老公",
+      "onboard_time": 1742693122,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1088626,
       "num": 1088626,
       "word": "张翰回应停更三年",
       "onboard_time": 1742686518,
       "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 914110,
-      "num": 310784,
-      "word": "孙俪把老师打成老公",
-      "onboard_time": 1742693122,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -99,8 +99,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 455056,
-      "num": 455056,
+      "raw_hot": 461578,
+      "num": 461578,
       "word": "背头还得是张柏芝",
       "onboard_time": 1742693240,
       "rank": 6,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 326829,
-      "num": 203958,
+      "num": 215766,
       "word": "4种饿是假饿",
       "onboard_time": 1742687118,
       "rank": 20,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256236,
+      "num": 208866,
+      "word": "唐九洲疑似回应抄袭",
+      "onboard_time": 1742694440,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240753,
       "num": 240753,
       "word": "汪苏泷黑幕王源点歌",
@@ -235,12 +243,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 238756,
+      "num": 306310,
+      "word": "这次错过竹子开花要再等60年",
+      "onboard_time": 1742693361,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211893,
       "num": 211893,
       "word": "古埃及房子着火要先救猫",
       "onboard_time": 1742655382,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 208298,
+      "num": 208298,
+      "word": "哪吒为气象日写了一首rap",
+      "onboard_time": 1742689639,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207747,
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 202068,
-      "num": 223560,
+      "num": 226038,
       "word": "石矶娘娘来hi6了",
       "onboard_time": 1742687779,
       "rank": 17,
@@ -283,12 +307,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 186327,
-      "num": 186327,
-      "word": "哪吒为气象日写了一首rap",
-      "onboard_time": 1742689639,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 182848,
+      "num": 182848,
+      "word": "当矮个子女生学会穿搭后的变化",
+      "onboard_time": 1742694260,
+      "rank": 32,
+      "category": "时尚"
     },
     {
       "raw_hot": 170678,
@@ -315,8 +339,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 156562,
-      "num": 156562,
+      "raw_hot": 161676,
+      "num": 161676,
       "word": "警方回应男孩海钓从陵水漂流到三亚",
       "onboard_time": 1742690780,
       "rank": 25,
@@ -329,22 +353,6 @@
       "onboard_time": 1742689940,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151131,
-      "num": 306310,
-      "word": "这次错过竹子开花要再等60年",
-      "onboard_time": 1742693361,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150916,
-      "num": 150916,
-      "word": "唐九洲疑似回应抄袭",
-      "onboard_time": 1742694440,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 145698,
@@ -361,6 +369,22 @@
       "onboard_time": 1742657121,
       "rank": 23,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 145339,
+      "num": 177760,
+      "word": "陈都灵温峥嵘你们在玩什么抽象",
+      "onboard_time": 1742659942,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140286,
+      "num": 140286,
+      "word": "郑钦文vs汤森德",
+      "onboard_time": 1742693060,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 138024,
@@ -380,19 +404,11 @@
     },
     {
       "raw_hot": 135203,
-      "num": 135203,
+      "num": 166121,
       "word": "哪吒2上映1个多月排片量依然霸榜",
       "onboard_time": 1742690839,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 134842,
-      "num": 134842,
-      "word": "当矮个子女生学会穿搭后的变化",
-      "onboard_time": 1742694260,
-      "rank": 32,
-      "category": "时尚"
     },
     {
       "raw_hot": 131481,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 129080,
-      "num": 129080,
+      "num": 170594,
       "word": "今天歼10首飞成功27周年",
       "onboard_time": 1742687779,
       "rank": 33,
@@ -417,6 +433,22 @@
       "onboard_time": 1742640201,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127277,
+      "num": 127277,
+      "word": "湖南一河流监测出铊浓度异常",
+      "onboard_time": 1742694741,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126501,
+      "num": 173239,
+      "word": "17部电影定档清明和五一档",
+      "onboard_time": 1742695641,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 124448,
@@ -435,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119066,
-      "num": 98265,
-      "word": "陈都灵温峥嵘你们在玩什么抽象",
-      "onboard_time": 1742659942,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 116958,
+      "num": 116958,
+      "word": "台湾老兵收到山东馒头开心得像孩子",
+      "onboard_time": 1742694919,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116142,
@@ -457,6 +489,14 @@
       "onboard_time": 1742690540,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114591,
+      "num": 114591,
+      "word": "夏以昼日卡",
+      "onboard_time": 1742691081,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 113363,
@@ -499,12 +539,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 106204,
-      "num": 106204,
-      "word": "郑钦文vs汤森德",
-      "onboard_time": 1742693060,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 104626,
+      "num": 104626,
+      "word": "教师专用DeepSeek备课指令",
+      "onboard_time": 1742687297,
+      "rank": 43,
+      "category": "互联网,教育"
     },
     {
       "raw_hot": 103461,
@@ -539,12 +579,12 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 98437,
-      "num": 98437,
-      "word": "夏以昼日卡",
-      "onboard_time": 1742691081,
-      "rank": 42,
-      "category": "游戏"
+      "raw_hot": 98649,
+      "num": 98649,
+      "word": "周末的武汉人流量红成了中国结",
+      "onboard_time": 1742688078,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98082,
@@ -571,20 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92105,
-      "num": 92105,
-      "word": "教师专用DeepSeek备课指令",
-      "onboard_time": 1742687297,
-      "rank": 43,
-      "category": "互联网,教育"
-    },
-    {
-      "raw_hot": 89256,
-      "num": 89256,
-      "word": "周末的武汉人流量红成了中国结",
-      "onboard_time": 1742688078,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 89701,
+      "num": 89701,
+      "word": "勇士vs老鹰",
+      "onboard_time": 1742695580,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 87109,
@@ -593,14 +625,6 @@
       "onboard_time": 1742687779,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85129,
-      "num": 85129,
-      "word": "湖南一河流监测出铊浓度异常",
-      "onboard_time": 1742694741,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84967,
@@ -705,6 +729,14 @@
       "onboard_time": 1742654663,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 67168,
+      "num": 220198,
+      "word": "韩国山火致4名消防员遇难",
+      "onboard_time": 1742695580,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 65575,
@@ -859,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26742,
+      "num": 240837,
+      "word": "韩国一天发生16起山林火灾",
+      "onboard_time": 1742695641,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 26443,
       "num": 30775,
       "word": "黄子弘凡除了快乐禁止入内",
@@ -931,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17076,
+      "num": 239394,
+      "word": "刘俊茜说还没完全发挥出来",
+      "onboard_time": 1742695159,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15537,
       "num": 18362,
       "word": "禹事不慌张",
@@ -953,6 +1001,14 @@
       "onboard_time": 1742672415,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12095,
+      "num": 114787,
+      "word": "格力新四大件",
+      "onboard_time": 1742695701,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 10742,

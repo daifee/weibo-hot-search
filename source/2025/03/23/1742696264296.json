@@ -1,0 +1,410 @@
+{
+  "runTime": 1742696264296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1328675,
+        "num": 1328675,
+        "word": "韩国多地进入灾难状态",
+        "onboard_time": 1742688859,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 893965,
+        "num": 893965,
+        "word": "张翰回应停更三年",
+        "onboard_time": 1742686518,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56632,
+        "num": 562525,
+        "word": "开往春天的列车出发了",
+        "onboard_time": 1742651243,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537213,
+        "num": 537213,
+        "word": "女中医能把伤心脉抢号排队30多天",
+        "onboard_time": 1742689579,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465738,
+        "num": 465738,
+        "word": "杭州交警回应网友称兔子警官被撞",
+        "onboard_time": 1742686518,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461578,
+        "num": 461578,
+        "word": "背头还得是张柏芝",
+        "onboard_time": 1742693240,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395000,
+        "num": 395000,
+        "word": "联合国总部因缺钱关闭一处入口",
+        "onboard_time": 1742691021,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 310345,
+        "num": 310345,
+        "word": "花花花人人花花花",
+        "onboard_time": 1742686518,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286745,
+        "num": 286745,
+        "word": "网友出海钓鱼在海上捡到个小孩",
+        "onboard_time": 1742685796,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247116,
+        "num": 247116,
+        "word": "李羲承舞台",
+        "onboard_time": 1742689218,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1362338,
+        "num": 246979,
+        "word": "孙俪把老师打成老公",
+        "onboard_time": 1742693122,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674083,
+        "num": 244436,
+        "word": "唐九洲 抄袭",
+        "onboard_time": 1742647761,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 467659,
+        "num": 242769,
+        "word": "韦雪买下了秦奋之前给她租的房子",
+        "onboard_time": 1742651423,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 26742,
+        "num": 240837,
+        "word": "韩国一天发生16起山林火灾",
+        "onboard_time": 1742695641,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17076,
+        "num": 239394,
+        "word": "刘俊茜说还没完全发挥出来",
+        "onboard_time": 1742695159,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238756,
+        "num": 238756,
+        "word": "这次错过竹子开花要再等60年",
+        "onboard_time": 1742693361,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398630,
+        "num": 237226,
+        "word": "金秀贤可能被刑法处罚",
+        "onboard_time": 1742686518,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262461,
+        "num": 229442,
+        "word": "日本连锁店承认味噌汤中混入老鼠尸体",
+        "onboard_time": 1742655923,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171295,
+        "num": 226038,
+        "word": "石矶娘娘来hi6了",
+        "onboard_time": 1742687779,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67168,
+        "num": 220198,
+        "word": "韩国山火致4名消防员遇难",
+        "onboard_time": 1742695580,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 306654,
+        "num": 215766,
+        "word": "4种饿是假饿",
+        "onboard_time": 1742687118,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256236,
+        "num": 208866,
+        "word": "唐九洲疑似回应抄袭",
+        "onboard_time": 1742694440,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208298,
+        "num": 208298,
+        "word": "哪吒为气象日写了一首rap",
+        "onboard_time": 1742689639,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190269,
+        "num": 190269,
+        "word": "日本7岁女童被水泥封尸母亲失踪",
+        "onboard_time": 1742647401,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182848,
+        "num": 182848,
+        "word": "当矮个子女生学会穿搭后的变化",
+        "onboard_time": 1742694260,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 155973,
+        "num": 181921,
+        "word": "清明档已有11部影片定档",
+        "onboard_time": 1742658142,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145339,
+        "num": 177760,
+        "word": "陈都灵温峥嵘你们在玩什么抽象",
+        "onboard_time": 1742659942,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126501,
+        "num": 173239,
+        "word": "17部电影定档清明和五一档",
+        "onboard_time": 1742695641,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106344,
+        "num": 170594,
+        "word": "今天歼10首飞成功27周年",
+        "onboard_time": 1742687779,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122178,
+        "num": 166121,
+        "word": "哪吒2上映1个多月排片量依然霸榜",
+        "onboard_time": 1742690839,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187155,
+        "num": 163712,
+        "word": "早睡两个月后肉眼可见的变化",
+        "onboard_time": 1742651423,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161676,
+        "num": 161676,
+        "word": "警方回应男孩海钓从陵水漂流到三亚",
+        "onboard_time": 1742690780,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156060,
+        "num": 156060,
+        "word": "曝金秀贤超越N号房新料提示",
+        "onboard_time": 1742649442,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140286,
+        "num": 140286,
+        "word": "郑钦文vs汤森德",
+        "onboard_time": 1742693060,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130758,
+        "num": 130758,
+        "word": "基辅遭大规模无人机袭击",
+        "onboard_time": 1742693240,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127277,
+        "num": 127277,
+        "word": "湖南一河流监测出铊浓度异常",
+        "onboard_time": 1742694741,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121151,
+        "num": 121151,
+        "word": "陈都灵演技",
+        "onboard_time": 1742689940,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116958,
+        "num": 116958,
+        "word": "台湾老兵收到山东馒头开心得像孩子",
+        "onboard_time": 1742694919,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12095,
+        "num": 114787,
+        "word": "格力新四大件",
+        "onboard_time": 1742695701,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114591,
+        "num": 114591,
+        "word": "夏以昼日卡",
+        "onboard_time": 1742691081,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105982,
+        "num": 105982,
+        "word": "3米层高适合越来越高的中国人",
+        "onboard_time": 1742691739,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104877,
+        "num": 104877,
+        "word": "武汉马拉松",
+        "onboard_time": 1742687480,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104626,
+        "num": 104626,
+        "word": "教师专用DeepSeek备课指令",
+        "onboard_time": 1742687297,
+        "rank": 42,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 98649,
+        "num": 98649,
+        "word": "周末的武汉人流量红成了中国结",
+        "onboard_time": 1742688078,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93887,
+        "num": 93887,
+        "word": "全款140万买到230平房子",
+        "onboard_time": 1742654783,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92822,
+        "num": 92822,
+        "word": "榜一大哥带3500页聊天记录报案",
+        "onboard_time": 1742637442,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91825,
+        "num": 91825,
+        "word": "上百万买的藏品只有一件是真品",
+        "onboard_time": 1742669055,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89701,
+        "num": 89701,
+        "word": "勇士vs老鹰",
+        "onboard_time": 1742695580,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84452,
+        "num": 84452,
+        "word": "花3万8买了条80平的老船",
+        "onboard_time": 1742687297,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80588,
+        "num": 84409,
+        "word": "王蓉一公没哭却为房琪流泪",
+        "onboard_time": 1742687238,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样战略谋划云南发展新局面#"
+    }
+  }
+}
