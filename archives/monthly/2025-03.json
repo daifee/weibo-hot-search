@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742715363102,
+  "endTime": 1742718484236,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -4523,6 +4523,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 1031519,
+      "num": 630104,
+      "word": "性如何影响中国人的婚姻与家庭",
+      "onboard_time": 1742716878,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1030831,
       "num": 1030831,
       "word": "boss直聘崩了",
@@ -6081,6 +6089,14 @@
       "onboard_time": 1742290522,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 857090,
+      "num": 857090,
+      "word": "控糖一年后身体的变化",
+      "onboard_time": 1742713279,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 854115,
@@ -9083,6 +9099,14 @@
       "category": "民生新闻,舆论监督"
     },
     {
+      "raw_hot": 633555,
+      "num": 633555,
+      "word": "向佐爆改红桃皇后",
+      "onboard_time": 1742714780,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 633495,
       "num": 633495,
       "word": "雷军直播时说不做的产品都做了",
@@ -9715,6 +9739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 602067,
+      "num": 602067,
+      "word": "女性消费陷阱",
+      "onboard_time": 1742711960,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 601903,
       "num": 406003,
       "word": "女子入职得知生娃奖10万果断再怀孕",
@@ -9769,14 +9801,6 @@
       "onboard_time": 1741394661,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 597393,
-      "num": 597393,
-      "word": "控糖一年后身体的变化",
-      "onboard_time": 1742713279,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 596774,
@@ -11064,6 +11088,14 @@
       "word": "卫健委回应女子被拔错牙后坠楼身亡",
       "onboard_time": 1742374762,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 541385,
+      "num": 541385,
+      "word": "从陵水漂流到三亚小孩哥父亲发声",
+      "onboard_time": 1742714959,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -14155,14 +14187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 421093,
-      "num": 421093,
-      "word": "女性消费陷阱",
-      "onboard_time": 1742711960,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 420812,
       "num": 471294,
       "word": "孙颖莎顶住了",
@@ -15409,6 +15433,14 @@
       "onboard_time": 1740791419,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386735,
+      "num": 262963,
+      "word": "猫咪做绝育手术被摘除脾脏",
+      "onboard_time": 1742716700,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 386340,
@@ -21507,6 +21539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267081,
+      "num": 267081,
+      "word": "世界上最佳抗炎食物排名",
+      "onboard_time": 1742713940,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 267058,
       "num": 207338,
       "word": "打工人一年只需要三双鞋",
@@ -22449,6 +22489,14 @@
       "onboard_time": 1741760544,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 255350,
+      "num": 255350,
+      "word": "沈腾马丽大哥大姐给你兜着",
+      "onboard_time": 1742717419,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 255199,
@@ -25475,6 +25523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223738,
+      "num": 259885,
+      "word": "哪吒2超153亿",
+      "onboard_time": 1742716639,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223580,
       "num": 223580,
       "word": "玉茗茶骨阵容官宣",
@@ -25977,6 +26033,14 @@
       "onboard_time": 1742469202,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219768,
+      "num": 149682,
+      "word": "福耀科技大学公布学费与招生人数",
+      "onboard_time": 1742717240,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 219758,
@@ -26969,6 +27033,14 @@
       "onboard_time": 1742638280,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212162,
+      "num": 212162,
+      "word": "庄寒雁背尸赴刑场",
+      "onboard_time": 1742716280,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 212151,
@@ -29291,6 +29363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200420,
+      "num": 200420,
+      "word": "马吟吟说罗予彤卸了妆很弱小",
+      "onboard_time": 1742717960,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200406,
       "num": 222015,
       "word": "翟潇闻直播",
@@ -30545,6 +30625,14 @@
       "onboard_time": 1741838666,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194694,
+      "num": 194694,
+      "word": "王宝强李乃文新剧首映口碑",
+      "onboard_time": 1742717540,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 194545,
@@ -36707,6 +36795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166618,
+      "num": 166618,
+      "word": "早不洗头是有一定科学依据的",
+      "onboard_time": 1742713460,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 166559,
       "num": 187255,
       "word": "等了23集男女主从克制吻到放肆",
@@ -38443,14 +38539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159763,
-      "num": 160370,
-      "word": "早不洗头是有一定科学依据的",
-      "onboard_time": 1742713460,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 159740,
       "num": 274559,
       "word": "谁懂赵丽颖这段战损奔跑的含金量",
@@ -38552,6 +38640,14 @@
       "word": "田曦薇barbie薇",
       "onboard_time": 1741005860,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159333,
+      "num": 159333,
+      "word": "张萌被横店的代拍卷到了",
+      "onboard_time": 1742716460,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -38705,14 +38801,6 @@
       "onboard_time": 1741503381,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158663,
-      "num": 148264,
-      "word": "世界上最佳抗炎食物排名",
-      "onboard_time": 1742713940,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 158602,
@@ -39545,14 +39633,6 @@
       "onboard_time": 1741923023,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 155617,
-      "num": 148660,
-      "word": "向佐爆改红桃皇后",
-      "onboard_time": 1742714780,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 155614,
@@ -40811,6 +40891,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 151378,
+      "num": 151378,
+      "word": "野餐",
+      "onboard_time": 1742717780,
+      "rank": 28,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 151346,
       "num": 187480,
       "word": "菲媒称杜特尔特已登上前往海牙的飞机",
@@ -41243,6 +41331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149571,
+      "num": 153008,
+      "word": "美国女子带宠物狗登机被拒将其溺死",
+      "onboard_time": 1742715440,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149537,
       "num": 149537,
       "word": "姿态谈TES遭CFO零封",
@@ -41265,6 +41361,14 @@
       "onboard_time": 1742217744,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149478,
+      "num": 149478,
+      "word": "杭州室内公共场所全面禁烟",
+      "onboard_time": 1742715741,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149410,
@@ -43715,6 +43819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141210,
+      "num": 149552,
+      "word": "CASETiFY一个手机壳卖4000多元",
+      "onboard_time": 1742709860,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 141195,
       "num": 141195,
       "word": "美国又发生三机相撞",
@@ -44171,14 +44283,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 140061,
-      "num": 140061,
-      "word": "CASETiFY一个手机壳卖4000多元",
-      "onboard_time": 1742709860,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 140042,
       "num": 309428,
       "word": "市场价295元产品医生可提成170元",
@@ -44321,6 +44425,14 @@
       "onboard_time": 1740922399,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139681,
+      "num": 139681,
+      "word": "特鲁索娃正式官宣怀孕",
+      "onboard_time": 1742718320,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 139604,
@@ -45833,6 +45945,14 @@
       "onboard_time": 1742297242,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133969,
+      "num": 133969,
+      "word": "姚琛工作室的官宣文案好好哭",
+      "onboard_time": 1742716940,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 133906,
@@ -49299,6 +49419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122230,
+      "num": 122230,
+      "word": "傅菁身在演唱会心在雁回时",
+      "onboard_time": 1742716819,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122181,
       "num": 122181,
       "word": "爱你我还能再看1000集",
@@ -49867,6 +49995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120358,
+      "num": 120358,
+      "word": "终于知道茶叶里的茶香怎么来的了",
+      "onboard_time": 1742717899,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 120297,
       "num": 120297,
       "word": "刘诗诗最新高珠",
@@ -50433,14 +50569,6 @@
       "onboard_time": 1742552422,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 118403,
-      "num": 118403,
-      "word": "从陵水漂流到三亚小孩哥父亲发声",
-      "onboard_time": 1742714959,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118387,
@@ -52009,6 +52137,14 @@
       "onboard_time": 1741180399,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 112488,
+      "num": 112488,
+      "word": "北京男团2比0广东男团",
+      "onboard_time": 1742718201,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 112472,
@@ -54027,6 +54163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105473,
+      "num": 105473,
+      "word": "黄友政3比1袁烜松",
+      "onboard_time": 1742718381,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105444,
       "num": 306179,
       "word": "当章若楠遇上欧若风",
@@ -54203,6 +54347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104923,
+      "num": 226800,
+      "word": "AMG带你追F1",
+      "onboard_time": 1742716700,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104891,
       "num": 194939,
       "word": "百万级大沙发",
@@ -54377,6 +54529,14 @@
       "onboard_time": 1742476342,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104229,
+      "num": 104229,
+      "word": "阿妹演唱会烤鱼返场了",
+      "onboard_time": 1742715979,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 104223,
@@ -61931,6 +62091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65029,
+      "num": 255704,
+      "word": "美防长提议将国防部更名为战争部",
+      "onboard_time": 1742717000,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64932,
       "num": 220254,
       "word": "夸克没有接入Deepseek选择自研",
@@ -68617,6 +68785,14 @@
       "onboard_time": 1740932417,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31497,
+      "num": 149793,
+      "word": "韩国发生至少30起山火",
+      "onboard_time": 1742717179,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31487,

@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742715363102,
+  "endTime": 1742718484236,
   "band_list": [
     {
       "raw_hot": 1804315,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1031519,
+      "num": 630104,
+      "word": "性如何影响中国人的婚姻与家庭",
+      "onboard_time": 1742716878,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1026068,
       "num": 328831,
       "word": "杨祐宁老婆官宣怀三胎",
@@ -89,6 +97,14 @@
       "onboard_time": 1742698039,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 857090,
+      "num": 857090,
+      "word": "控糖一年后身体的变化",
+      "onboard_time": 1742713279,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 808702,
@@ -131,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 633555,
+      "num": 633555,
+      "word": "向佐爆改红桃皇后",
+      "onboard_time": 1742714780,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 616033,
       "num": 893634,
       "word": "金价",
@@ -147,12 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 597393,
-      "num": 597393,
-      "word": "控糖一年后身体的变化",
-      "onboard_time": 1742713279,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 602067,
+      "num": 602067,
+      "word": "女性消费陷阱",
+      "onboard_time": 1742711960,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 597079,
@@ -193,6 +217,14 @@
       "onboard_time": 1742698220,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 541385,
+      "num": 541385,
+      "word": "从陵水漂流到三亚小孩哥父亲发声",
+      "onboard_time": 1742714959,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 505158,
@@ -251,19 +283,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 421093,
-      "num": 421093,
-      "word": "女性消费陷阱",
-      "onboard_time": 1742711960,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 411473,
       "num": 411473,
       "word": "官方回应女生劝阻吸烟被怼",
       "onboard_time": 1742707220,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386735,
+      "num": 262963,
+      "word": "猫咪做绝育手术被摘除脾脏",
+      "onboard_time": 1742716700,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -459,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267081,
+      "num": 267081,
+      "word": "世界上最佳抗炎食物排名",
+      "onboard_time": 1742713940,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 264353,
       "num": 264353,
       "word": "自己在家晒的橘子皮算陈皮吗",
@@ -481,6 +521,14 @@
       "onboard_time": 1742694440,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255350,
+      "num": 255350,
+      "word": "沈腾马丽大哥大姐给你兜着",
+      "onboard_time": 1742717419,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 254934,
@@ -531,12 +579,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223738,
+      "num": 259885,
+      "word": "哪吒2超153亿",
+      "onboard_time": 1742716639,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 219768,
+      "num": 149682,
+      "word": "福耀科技大学公布学费与招生人数",
+      "onboard_time": 1742717240,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 215050,
       "num": 215050,
       "word": "周冠宇单人敞篷车参加车手巡游",
       "onboard_time": 1742710580,
       "rank": 21,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 212162,
+      "num": 212162,
+      "word": "庄寒雁背尸赴刑场",
+      "onboard_time": 1742716280,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 211893,
@@ -579,6 +651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200420,
+      "num": 200420,
+      "word": "马吟吟说罗予彤卸了妆很弱小",
+      "onboard_time": 1742717960,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200330,
       "num": 154248,
       "word": "白客 人夫感",
@@ -609,6 +689,14 @@
       "onboard_time": 1742703081,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194694,
+      "num": 194694,
+      "word": "王宝强李乃文新剧首映口碑",
+      "onboard_time": 1742717540,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 191528,
@@ -763,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166618,
+      "num": 166618,
+      "word": "早不洗头是有一定科学依据的",
+      "onboard_time": 1742713460,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163763,
       "num": 313018,
       "word": "基辅遭大规模无人机袭击",
@@ -819,20 +915,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159763,
-      "num": 160370,
-      "word": "早不洗头是有一定科学依据的",
-      "onboard_time": 1742713460,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 158663,
-      "num": 148264,
-      "word": "世界上最佳抗炎食物排名",
-      "onboard_time": 1742713940,
-      "rank": 39,
-      "category": "美食"
+      "raw_hot": 159333,
+      "num": 159333,
+      "word": "张萌被横店的代拍卷到了",
+      "onboard_time": 1742716460,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 156785,
@@ -841,14 +929,6 @@
       "onboard_time": 1742708001,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 155617,
-      "num": 148660,
-      "word": "向佐爆改红桃皇后",
-      "onboard_time": 1742714780,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 155211,
@@ -899,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151378,
+      "num": 151378,
+      "word": "野餐",
+      "onboard_time": 1742717780,
+      "rank": 28,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 150846,
       "num": 150846,
       "word": "宋亚轩这是我的西游古装造型路透",
@@ -913,6 +1001,22 @@
       "onboard_time": 1742706260,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149571,
+      "num": 153008,
+      "word": "美国女子带宠物狗登机被拒将其溺死",
+      "onboard_time": 1742715440,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 149478,
+      "num": 149478,
+      "word": "杭州室内公共场所全面禁烟",
+      "onboard_time": 1742715741,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148856,
@@ -995,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141210,
+      "num": 149552,
+      "word": "CASETiFY一个手机壳卖4000多元",
+      "onboard_time": 1742709860,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140085,
       "num": 170594,
       "word": "今天歼10首飞成功27周年",
@@ -1003,12 +1115,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 140061,
-      "num": 140061,
-      "word": "CASETiFY一个手机壳卖4000多元",
-      "onboard_time": 1742709860,
-      "rank": 34,
-      "category": "财经"
+      "raw_hot": 139681,
+      "num": 139681,
+      "word": "特鲁索娃正式官宣怀孕",
+      "onboard_time": 1742718320,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 138203,
@@ -1057,6 +1169,14 @@
       "onboard_time": 1742697680,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133969,
+      "num": 133969,
+      "word": "姚琛工作室的官宣文案好好哭",
+      "onboard_time": 1742716940,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 133094,
@@ -1139,20 +1259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122230,
+      "num": 122230,
+      "word": "傅菁身在演唱会心在雁回时",
+      "onboard_time": 1742716819,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 120358,
+      "num": 120358,
+      "word": "终于知道茶叶里的茶香怎么来的了",
+      "onboard_time": 1742717899,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 119819,
       "num": 119819,
       "word": "库克大赞DeepSeek",
       "onboard_time": 1742704941,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 118403,
-      "num": 118403,
-      "word": "从陵水漂流到三亚小孩哥父亲发声",
-      "onboard_time": 1742714959,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117361,
@@ -1225,6 +1353,14 @@
       "onboard_time": 1742659221,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112488,
+      "num": 112488,
+      "word": "北京男团2比0广东男团",
+      "onboard_time": 1742718201,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 112401,
@@ -1307,12 +1443,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105473,
+      "num": 105473,
+      "word": "黄友政3比1袁烜松",
+      "onboard_time": 1742718381,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104923,
+      "num": 226800,
+      "word": "AMG带你追F1",
+      "onboard_time": 1742716700,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104626,
       "num": 104626,
       "word": "教师专用DeepSeek备课指令",
       "onboard_time": 1742687297,
       "rank": 43,
       "category": "互联网,教育"
+    },
+    {
+      "raw_hot": 104229,
+      "num": 104229,
+      "word": "阿妹演唱会烤鱼返场了",
+      "onboard_time": 1742715979,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 103461,
@@ -1683,6 +1843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 65029,
+      "num": 255704,
+      "word": "美防长提议将国防部更名为战争部",
+      "onboard_time": 1742717000,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63874,
       "num": 63874,
       "word": "刘诗雯回应与林高远混双目标",
@@ -1857,6 +2025,14 @@
       "onboard_time": 1742654724,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31497,
+      "num": 149793,
+      "word": "韩国发生至少30起山火",
+      "onboard_time": 1742717179,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 29554,
