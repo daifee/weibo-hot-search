@@ -1,0 +1,410 @@
+{
+  "runTime": 1742712238064,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 784543,
+        "num": 1125526,
+        "word": "奔跑吧13第一期嘉宾阵容",
+        "onboard_time": 1742704880,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591492,
+        "num": 591492,
+        "word": "吴艳妮回应阿丽塔造型",
+        "onboard_time": 1742707041,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35699,
+        "num": 469850,
+        "word": "100秒奔赴一场繁花盛开",
+        "onboard_time": 1742703320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 667191,
+        "num": 457036,
+        "word": "饺子票房破200亿",
+        "onboard_time": 1742700922,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411473,
+        "num": 411473,
+        "word": "官方回应女生劝阻吸烟被怼",
+        "onboard_time": 1742707220,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408797,
+        "num": 408797,
+        "word": "女生劝阻吸烟被怼不闻烟味别出来吃饭",
+        "onboard_time": 1742698879,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1393611,
+        "num": 405473,
+        "word": "冰岛儿童部长与未成年发生关系产子",
+        "onboard_time": 1742707640,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 349170,
+        "num": 349170,
+        "word": "韩国多地进入灾难状态",
+        "onboard_time": 1742688859,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 321976,
+        "num": 321976,
+        "word": "南京鸡鸣寺樱花树下人比花多",
+        "onboard_time": 1742697559,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 280956,
+        "num": 280956,
+        "word": "张翰回应停更三年",
+        "onboard_time": 1742686518,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578599,
+        "num": 280282,
+        "word": "杨祐宁老婆官宣怀三胎",
+        "onboard_time": 1742704820,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438033,
+        "num": 266674,
+        "word": "广东一男子持菜刀砍人致1死1伤",
+        "onboard_time": 1742710280,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353524,
+        "num": 265307,
+        "word": "孙俪把老师打成老公",
+        "onboard_time": 1742693122,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320987,
+        "num": 251057,
+        "word": "曝有数千张金秀贤照片视频未公开",
+        "onboard_time": 1742698039,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249674,
+        "num": 249674,
+        "word": "太好了是时代少年团我们有救了",
+        "onboard_time": 1742706080,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244755,
+        "num": 244755,
+        "word": "邓超也被孙俪吓了一跳吧",
+        "onboard_time": 1742698879,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220142,
+        "num": 220142,
+        "word": "唐九洲 抄袭",
+        "onboard_time": 1742647761,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215845,
+        "num": 215845,
+        "word": "17部电影定档清明和五一档",
+        "onboard_time": 1742695641,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192748,
+        "num": 211910,
+        "word": "物理老师放大招学生哇声一片",
+        "onboard_time": 1742710219,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211635,
+        "num": 211635,
+        "word": "美国六代机终于不是PPT了",
+        "onboard_time": 1742699481,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193879,
+        "num": 193879,
+        "word": "200多万买二手房遭遇20年租约",
+        "onboard_time": 1742710280,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180235,
+        "num": 180235,
+        "word": "警方回应男孩海钓从陵水漂流到三亚",
+        "onboard_time": 1742690780,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178638,
+        "num": 178638,
+        "word": "奔跑吧 张韶涵",
+        "onboard_time": 1742709439,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173516,
+        "num": 173516,
+        "word": "陈都灵内娱樱花树",
+        "onboard_time": 1742704581,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170375,
+        "num": 170375,
+        "word": "易烊千玺中式美学",
+        "onboard_time": 1742712199,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 154880,
+        "num": 154880,
+        "word": "每天少吃一顿会怎样",
+        "onboard_time": 1742704100,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150907,
+        "num": 150907,
+        "word": "曝接下来的东西会损害金赛纶的名誉",
+        "onboard_time": 1742701880,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148561,
+        "num": 148561,
+        "word": "张峻豪人生序曲演唱会",
+        "onboard_time": 1742710700,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146814,
+        "num": 146814,
+        "word": "爆改4平米睡3人的家",
+        "onboard_time": 1742707701,
+        "rank": 28,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 140061,
+        "num": 140061,
+        "word": "CASETiFY一个手机壳卖4000多元",
+        "onboard_time": 1742709860,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167658,
+        "num": 139650,
+        "word": "被卡琳娜帅一大跳",
+        "onboard_time": 1742711541,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142406,
+        "num": 137840,
+        "word": "比格犬之魔童降世",
+        "onboard_time": 1742711719,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33303,
+        "num": 135751,
+        "word": "北京将种植不产生花粉的雌株柏树",
+        "onboard_time": 1742712140,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114677,
+        "num": 134193,
+        "word": "胡一天西班牙随记",
+        "onboard_time": 1742711900,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133094,
+        "num": 133094,
+        "word": "当代大学生掌管宿舍改造的神",
+        "onboard_time": 1742711719,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129345,
+        "num": 129345,
+        "word": "唐九洲黄子弘凡回应",
+        "onboard_time": 1742696721,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116076,
+        "num": 116076,
+        "word": "雷军李在镕合影",
+        "onboard_time": 1742699901,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113823,
+        "num": 113823,
+        "word": "周冠宇单人敞篷车参加车手巡游",
+        "onboard_time": 1742710580,
+        "rank": 37,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 113462,
+        "num": 113462,
+        "word": "Fly的故事没有终章",
+        "onboard_time": 1742710219,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110503,
+        "num": 110503,
+        "word": "男子车祸住院找到失联18年家人",
+        "onboard_time": 1742706920,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 103677,
+        "num": 103677,
+        "word": "奶奶网购给我买的生日蛋糕",
+        "onboard_time": 1742706800,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99045,
+        "num": 99045,
+        "word": "千万寻子富豪送儿子回学校读研",
+        "onboard_time": 1742706800,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97793,
+        "num": 97793,
+        "word": "王一博清爽条纹",
+        "onboard_time": 1742709199,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97768,
+        "num": 97768,
+        "word": "你好星期六全员为余生有涯剧宣",
+        "onboard_time": 1742698159,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38913,
+        "num": 97762,
+        "word": "2025汉马13公里跑冠军诞生",
+        "onboard_time": 1742710820,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97760,
+        "num": 97760,
+        "word": "抽烟不过肺仍然会危害身体",
+        "onboard_time": 1742709320,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95000,
+        "num": 95000,
+        "word": "4种饿是假饿",
+        "onboard_time": 1742687118,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90092,
+        "num": 93970,
+        "word": "女性消费陷阱",
+        "onboard_time": 1742711960,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93376,
+        "num": 93376,
+        "word": "专家回应北京的圆柏能不能砍了",
+        "onboard_time": 1742712199,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91104,
+        "num": 91104,
+        "word": "金秀贤可能被刑法处罚",
+        "onboard_time": 1742686518,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记全国两会后第一次地方考察#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742711468969,
+  "endTime": 1742712238064,
   "band_list": [
     {
       "raw_hot": 1804315,
@@ -35,7 +35,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1372401,
+      "raw_hot": 1393611,
       "num": 1372401,
       "word": "冰岛儿童部长与未成年发生关系产子",
       "onboard_time": 1742707640,
@@ -147,8 +147,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 583544,
-      "num": 583544,
+      "raw_hot": 591492,
+      "num": 591492,
       "word": "吴艳妮回应阿丽塔造型",
       "onboard_time": 1742707041,
       "rank": 28,
@@ -227,8 +227,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 396102,
-      "num": 396102,
+      "raw_hot": 438033,
+      "num": 266674,
+      "word": "广东一男子持菜刀砍人致1死1伤",
+      "onboard_time": 1742710280,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 411473,
+      "num": 411473,
       "word": "官方回应女生劝阻吸烟被怼",
       "onboard_time": 1742707220,
       "rank": 36,
@@ -427,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254498,
-      "num": 254498,
-      "word": "广东一男子持菜刀砍人致1死1伤",
-      "onboard_time": 1742710280,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241787,
       "num": 241787,
       "word": "张雨绮丁程鑫合作舞台",
@@ -547,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192748,
+      "num": 330167,
+      "word": "物理老师放大招学生哇声一片",
+      "onboard_time": 1742710219,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191528,
       "num": 191528,
       "word": "一旦沾上中性风穿搭就停不下来了",
@@ -627,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178638,
+      "num": 178638,
+      "word": "奔跑吧 张韶涵",
+      "onboard_time": 1742709439,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177776,
       "num": 177776,
       "word": "武汉马拉松连海绵都是樱花形状",
@@ -659,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170375,
+      "num": 170375,
+      "word": "易烊千玺中式美学",
+      "onboard_time": 1742712199,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 169262,
       "num": 137565,
       "word": "李荣浩来看杨丞琳演唱会了",
@@ -675,20 +699,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167658,
+      "num": 139650,
+      "word": "被卡琳娜帅一大跳",
+      "onboard_time": 1742711541,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163763,
       "num": 313018,
       "word": "基辅遭大规模无人机袭击",
       "onboard_time": 1742693240,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 162907,
-      "num": 162907,
-      "word": "奔跑吧 张韶涵",
-      "onboard_time": 1742709439,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 162614,
@@ -795,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146814,
+      "num": 146814,
+      "word": "爆改4平米睡3人的家",
+      "onboard_time": 1742707701,
+      "rank": 39,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 145698,
       "num": 145698,
       "word": "王蓉一公没哭却为房琪流泪",
@@ -835,6 +867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142406,
+      "num": 137840,
+      "word": "比格犬之魔童降世",
+      "onboard_time": 1742711719,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142048,
       "num": 142048,
       "word": "奶奶网购给我买的生日蛋糕",
@@ -849,6 +889,14 @@
       "onboard_time": 1742687779,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 140061,
+      "num": 140061,
+      "word": "CASETiFY一个手机壳卖4000多元",
+      "onboard_time": 1742709860,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 138203,
@@ -899,12 +947,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133829,
-      "num": 133829,
-      "word": "爆改4平米睡3人的家",
-      "onboard_time": 1742707701,
-      "rank": 39,
-      "category": "休闲"
+      "raw_hot": 133094,
+      "num": 133094,
+      "word": "当代大学生掌管宿舍改造的神",
+      "onboard_time": 1742711719,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 132402,
@@ -937,14 +985,6 @@
       "onboard_time": 1742694741,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125601,
-      "num": 125601,
-      "word": "CASETiFY一个手机壳卖4000多元",
-      "onboard_time": 1742709860,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 125574,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1742690540,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114677,
+      "num": 134193,
+      "word": "胡一天西班牙随记",
+      "onboard_time": 1742711900,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 113605,
@@ -1145,14 +1193,6 @@
       "onboard_time": 1742654724,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100819,
-      "num": 330167,
-      "word": "物理老师放大招学生哇声一片",
-      "onboard_time": 1742710219,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100668,
@@ -1273,6 +1313,22 @@
       "onboard_time": 1742704220,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93376,
+      "num": 93376,
+      "word": "专家回应北京的圆柏能不能砍了",
+      "onboard_time": 1742712199,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90092,
+      "num": 93970,
+      "word": "女性消费陷阱",
+      "onboard_time": 1742711960,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 89701,
@@ -1585,6 +1641,14 @@
       "onboard_time": 1742700861,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33303,
+      "num": 135751,
+      "word": "北京将种植不产生花粉的雌株柏树",
+      "onboard_time": 1742712140,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32848,
