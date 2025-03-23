@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742757553456,
+  "endTime": 1742758579247,
   "band_list": [
     {
       "raw_hot": 3044323,
@@ -3307,6 +3307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 58241,
+      "num": 59430,
+      "word": "奶奶捡10000元说找到失主我好高兴",
+      "onboard_time": 1742754014,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 55882,
       "num": 54040,
       "word": "王楚钦赛后一层一层包好球拍",
@@ -3329,14 +3337,6 @@
       "onboard_time": 1742736261,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 54181,
-      "num": 59430,
-      "word": "奶奶捡10000元说找到失主我好高兴",
-      "onboard_time": 1742754014,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 52768,
@@ -3659,7 +3659,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 18762,
+      "raw_hot": 18825,
       "num": 22312,
       "word": "PCL2025",
       "onboard_time": 1742745500,
@@ -3739,12 +3739,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13219,
+      "num": 14394,
+      "word": "儿子希望妈妈戴上戒指永不放开自己",
+      "onboard_time": 1742757615,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13045,
       "num": 129165,
       "word": "AWE上见到瓦力了",
       "onboard_time": 1742697680,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11758,
+      "num": 35650,
+      "word": "女子在埃及被酒店刁难硬气回应",
+      "onboard_time": 1742757794,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10742,
