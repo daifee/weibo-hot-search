@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742736402902,
+  "endTime": 1742737101158,
   "band_list": [
     {
       "raw_hot": 3044323,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1068143,
+      "num": 1068143,
+      "word": "李晟像极了没人发现的枯叶蝶",
+      "onboard_time": 1742734162,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1064063,
       "num": 1170250,
       "word": "奔跑吧13第一期嘉宾阵容",
@@ -129,14 +137,6 @@
       "onboard_time": 1742704820,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 986009,
-      "num": 986009,
-      "word": "李晟像极了没人发现的枯叶蝶",
-      "onboard_time": 1742734162,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 966632,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 713216,
+      "num": 713216,
+      "word": "红双喜",
+      "onboard_time": 1742734284,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 692649,
       "num": 692649,
       "word": "吴艳妮打破女子60米栏全国纪录",
@@ -315,8 +323,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 596172,
-      "num": 596172,
+      "raw_hot": 596184,
+      "num": 596184,
       "word": "人人人人人景人人人人人",
       "onboard_time": 1742723721,
       "rank": 27,
@@ -403,20 +411,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479346,
+      "num": 479346,
+      "word": "西湖2亿人1亿在太子湾",
+      "onboard_time": 1742732300,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 476538,
+      "num": 476538,
+      "word": "宁艺卓练习生时期韩语笔记",
+      "onboard_time": 1742733261,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474683,
       "num": 474683,
       "word": "汪苏泷演唱会偶遇章若楠",
       "onboard_time": 1742729707,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 474627,
-      "num": 474627,
-      "word": "红双喜",
-      "onboard_time": 1742734284,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 466310,
@@ -435,28 +451,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 456589,
-      "num": 456589,
-      "word": "西湖2亿人1亿在太子湾",
-      "onboard_time": 1742732300,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 451711,
       "num": 451711,
       "word": "美国六代机终于不是PPT了",
       "onboard_time": 1742699481,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 447627,
-      "num": 447627,
-      "word": "宁艺卓练习生时期韩语笔记",
-      "onboard_time": 1742733261,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 443542,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 407985,
-      "num": 238915,
+      "num": 315256,
       "word": "孙卓开始直播带货",
       "onboard_time": 1742730321,
       "rank": 20,
@@ -587,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335440,
+      "num": 335440,
+      "word": "吴艳妮无缘女子60米栏决赛",
+      "onboard_time": 1742734584,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332025,
       "num": 332025,
       "word": "17部电影定档清明和五一档",
@@ -659,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310428,
+      "num": 237527,
+      "word": "韩国千年古刹被烧毁",
+      "onboard_time": 1742733741,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 308513,
       "num": 308513,
       "word": "周杰伦出席上海F1大奖赛",
@@ -705,14 +721,6 @@
       "onboard_time": 1742727439,
       "rank": 17,
       "category": "网红"
-    },
-    {
-      "raw_hot": 290437,
-      "num": 290437,
-      "word": "吴艳妮无缘女子60米栏决赛",
-      "onboard_time": 1742734584,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 287388,
@@ -827,14 +835,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 264142,
-      "num": 237527,
-      "word": "韩国千年古刹被烧毁",
-      "onboard_time": 1742733741,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 261171,
       "num": 261171,
       "word": "电影不说话的爱",
@@ -865,6 +865,14 @@
       "onboard_time": 1742700620,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244822,
+      "num": 244822,
+      "word": "白鹿低扎发",
+      "onboard_time": 1742733623,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 244425,
@@ -921,14 +929,6 @@
       "onboard_time": 1742712559,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 231816,
-      "num": 231816,
-      "word": "白鹿低扎发",
-      "onboard_time": 1742733623,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 229862,
@@ -1267,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181029,
+      "num": 181029,
+      "word": "iG暂列小组第一",
+      "onboard_time": 1742736861,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180725,
       "num": 180725,
       "word": "虞书欣安慰粉丝别哭别哭",
@@ -1539,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154649,
+      "num": 154649,
+      "word": "樊振东是张本智和最喜欢的球员",
+      "onboard_time": 1742736683,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154116,
       "num": 154116,
       "word": "慕胥辞",
@@ -1628,7 +1644,7 @@
     },
     {
       "raw_hot": 149547,
-      "num": 262481,
+      "num": 303139,
       "word": "全民智驾时代年轻人的带感选择",
       "onboard_time": 1742733442,
       "rank": 44,
@@ -1657,6 +1673,14 @@
       "onboard_time": 1742712140,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148416,
+      "num": 148416,
+      "word": "祝绪丹为了不交作业演卡住了",
+      "onboard_time": 1742733923,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 148226,
@@ -1947,12 +1971,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 129416,
-      "num": 129416,
-      "word": "祝绪丹为了不交作业演卡住了",
-      "onboard_time": 1742733923,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 129788,
+      "num": 129788,
+      "word": "美称1天卖出1000张移民金卡",
+      "onboard_time": 1742736683,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129251,
@@ -2099,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117614,
+      "num": 117614,
+      "word": "男子繁殖兰花螳螂看着像特效",
+      "onboard_time": 1742735361,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117361,
       "num": 117361,
       "word": "DYG对战JDG",
@@ -2112,14 +2144,6 @@
       "word": "台湾老兵收到山东馒头开心得像孩子",
       "onboard_time": 1742694919,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116856,
-      "num": 116856,
-      "word": "男子繁殖兰花螳螂看着像特效",
-      "onboard_time": 1742735361,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -2337,6 +2361,14 @@
       "onboard_time": 1742718381,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105026,
+      "num": 293859,
+      "word": "劝阻吸烟当事人呼吁拒绝二手烟",
+      "onboard_time": 1742735061,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104923,
@@ -2755,20 +2787,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 67324,
+      "num": 190610,
+      "word": "马龙的正手有多强",
+      "onboard_time": 1742736563,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67168,
       "num": 220198,
       "word": "韩国山火致4名消防员遇难",
       "onboard_time": 1742695580,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 66950,
-      "num": 293859,
-      "word": "劝阻吸烟当事人呼吁拒绝二手烟",
-      "onboard_time": 1742735061,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65575,
@@ -2891,6 +2923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 55477,
+      "num": 477855,
+      "word": "在苏州挪着挪着就撞进花海",
+      "onboard_time": 1742736261,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 52768,
       "num": 59233,
       "word": "王楚钦马龙11比1杨硕袁励岑",
@@ -2905,14 +2945,6 @@
       "onboard_time": 1742722821,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51070,
-      "num": 155440,
-      "word": "在苏州挪着挪着就撞进花海",
-      "onboard_time": 1742736261,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 50968,
