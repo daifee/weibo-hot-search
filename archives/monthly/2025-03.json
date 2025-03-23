@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742750369113,
+  "endTime": 1742751453154,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -67947,6 +67947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41239,
+      "num": 44096,
+      "word": "女子与00后大学生生女诉请抚养费",
+      "onboard_time": 1742750175,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41224,
       "num": 223079,
       "word": "杜玉波贪欲膨胀靠教育吃教育",
@@ -71083,14 +71091,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 27640,
-      "num": 44096,
-      "word": "女子与00后大学生生女诉请抚养费",
-      "onboard_time": 1742750175,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27624,
       "num": 27624,
       "word": "何秋亊歌友会",
@@ -71113,6 +71113,14 @@
       "onboard_time": 1741863264,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 27380,
+      "num": 27380,
+      "word": "汪汪队请集合",
+      "onboard_time": 1742751076,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 27306,
@@ -75401,6 +75409,14 @@
       "onboard_time": 1740958395,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8279,
+      "num": 29161,
+      "word": "马龙王楚钦被弟弟逗笑了",
+      "onboard_time": 1742751436,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 7135,

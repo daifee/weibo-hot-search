@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742750369113,
+  "endTime": 1742751453154,
   "band_list": [
     {
       "raw_hot": 3044323,
@@ -3411,6 +3411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 41239,
+      "num": 44096,
+      "word": "女子与00后大学生生女诉请抚养费",
+      "onboard_time": 1742750175,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39716,
       "num": 41640,
       "word": "乘风2025",
@@ -3475,6 +3483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32450,
+      "num": 32450,
+      "word": "燃罪",
+      "onboard_time": 1742750477,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31817,
       "num": 182026,
       "word": "懒人做饭的秘诀是一锅出",
@@ -3531,12 +3547,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 27640,
-      "num": 44096,
-      "word": "女子与00后大学生生女诉请抚养费",
-      "onboard_time": 1742750175,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 27380,
+      "num": 27380,
+      "word": "汪汪队请集合",
+      "onboard_time": 1742751076,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 26443,
@@ -3713,6 +3729,14 @@
       "onboard_time": 1742677814,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8279,
+      "num": 29161,
+      "word": "马龙王楚钦被弟弟逗笑了",
+      "onboard_time": 1742751436,
+      "rank": 43,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
