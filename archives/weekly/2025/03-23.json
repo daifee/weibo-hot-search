@@ -1,7 +1,15 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742701676538,
+  "endTime": 1742704054326,
   "band_list": [
+    {
+      "raw_hot": 1804315,
+      "num": 1804315,
+      "word": "女生劝阻吸烟被怼不闻烟味别出来吃饭",
+      "onboard_time": 1742698879,
+      "rank": 9,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1694206,
       "num": 310171,
@@ -11,20 +19,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1614044,
-      "num": 1614044,
-      "word": "女生劝阻吸烟被怼不闻烟味别出来吃饭",
-      "onboard_time": 1742698879,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1444086,
       "num": 1444086,
       "word": "韩国多地进入灾难状态",
       "onboard_time": 1742688859,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1371106,
+      "num": 1371106,
+      "word": "饺子票房破200亿",
+      "onboard_time": 1742700922,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 1362338,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 966632,
-      "num": 310351,
+      "num": 322236,
       "word": "曝有数千张金秀贤照片视频未公开",
       "onboard_time": 1742698039,
       "rank": 11,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 780526,
-      "num": 307022,
+      "num": 317623,
       "word": "邓超也被孙俪吓了一跳吧",
       "onboard_time": 1742698879,
       "rank": 42,
@@ -147,12 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 473372,
-      "num": 473372,
-      "word": "饺子票房破200亿",
-      "onboard_time": 1742700922,
-      "rank": 7,
-      "category": "电影"
+      "raw_hot": 505003,
+      "num": 300320,
+      "word": "曝接下来的东西会损害金赛纶的名誉",
+      "onboard_time": 1742701880,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 466310,
@@ -169,6 +177,14 @@
       "onboard_time": 1742693240,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 451711,
+      "num": 451711,
+      "word": "美国六代机终于不是PPT了",
+      "onboard_time": 1742699481,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 443542,
@@ -195,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329100,
+      "num": 329100,
+      "word": "冰壶",
+      "onboard_time": 1742703081,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326829,
       "num": 297110,
       "word": "4种饿是假饿",
@@ -209,14 +233,6 @@
       "onboard_time": 1742685796,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 310625,
-      "num": 310625,
-      "word": "美国六代机终于不是PPT了",
-      "onboard_time": 1742699481,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 304953,
@@ -283,6 +299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 265678,
+      "num": 265678,
+      "word": "世界小狗日",
+      "onboard_time": 1742700020,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264353,
       "num": 264353,
       "word": "自己在家晒的橘子皮算陈皮吗",
@@ -291,12 +315,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 259863,
-      "num": 259863,
-      "word": "世界小狗日",
-      "onboard_time": 1742700020,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 263145,
+      "num": 303088,
+      "word": "17部电影定档清明和五一档",
+      "onboard_time": 1742695641,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 258355,
@@ -305,14 +329,6 @@
       "onboard_time": 1742637200,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258132,
-      "num": 303088,
-      "word": "17部电影定档清明和五一档",
-      "onboard_time": 1742695641,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 256236,
@@ -403,6 +419,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 196619,
+      "num": 196619,
+      "word": "中国女子冰壶队直通米兰",
+      "onboard_time": 1742703081,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196195,
+      "num": 196195,
+      "word": "张雨绮丁程鑫合作舞台",
+      "onboard_time": 1742703140,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191042,
       "num": 191042,
       "word": "金正恩强调继续对俄支持",
@@ -443,12 +475,36 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 179606,
+      "num": 304241,
+      "word": "黄山回应游客下山拥堵滞留到22点",
+      "onboard_time": 1742700500,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177776,
+      "num": 177776,
+      "word": "武汉马拉松连海绵都是樱花形状",
+      "onboard_time": 1742701580,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174216,
       "num": 174216,
       "word": "郑钦文2比0汤森德",
       "onboard_time": 1742699000,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173703,
+      "num": 174883,
+      "word": "白鹿剧宣MVP选手",
+      "onboard_time": 1742703081,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 170678,
@@ -467,12 +523,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164165,
+      "num": 184234,
+      "word": "范志毅又双叒换赛道了",
+      "onboard_time": 1742701040,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163763,
       "num": 313018,
       "word": "基辅遭大规模无人机袭击",
       "onboard_time": 1742693240,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 162173,
+      "num": 162173,
+      "word": "吴艳妮刷新PB晋级半决赛",
+      "onboard_time": 1742701760,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 161676,
@@ -529,14 +601,6 @@
       "onboard_time": 1742657121,
       "rank": 23,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 145586,
-      "num": 184234,
-      "word": "范志毅又双叒换赛道了",
-      "onboard_time": 1742701040,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 145339,
@@ -739,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107968,
+      "num": 107968,
+      "word": "刘亦菲粉羽高定东方美学",
+      "onboard_time": 1742702300,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 107769,
       "num": 107769,
       "word": "武汉马拉松",
@@ -771,12 +843,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103114,
+      "num": 103114,
+      "word": "赤岭小孩",
+      "onboard_time": 1742699780,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102570,
       "num": 102570,
       "word": "叶童 渡情",
       "onboard_time": 1742697439,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102351,
+      "num": 102351,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1742703860,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 101111,
@@ -795,6 +883,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100661,
+      "num": 821148,
+      "word": "开往春天的列车出发了",
+      "onboard_time": 1742651243,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99828,
       "num": 105735,
       "word": "三次开颅网红吴忠华耳朵内又长东西",
@@ -804,7 +900,7 @@
     },
     {
       "raw_hot": 98649,
-      "num": 98649,
+      "num": 137549,
       "word": "周末的武汉人流量红成了中国结",
       "onboard_time": 1742688078,
       "rank": 44,
@@ -835,14 +931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95733,
-      "num": 95733,
-      "word": "武汉马拉松连海绵都是樱花形状",
-      "onboard_time": 1742701580,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94665,
       "num": 94665,
       "word": "下周可能更热",
@@ -865,14 +953,6 @@
       "onboard_time": 1742695580,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87768,
-      "num": 304241,
-      "word": "黄山回应游客下山拥堵滞留到22点",
-      "onboard_time": 1742700500,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87109,
@@ -1027,6 +1107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 65443,
+      "num": 164410,
+      "word": "刘敏涛后颈发凉式演技",
+      "onboard_time": 1742703320,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 63874,
       "num": 63874,
       "word": "刘诗雯回应与林高远混双目标",
@@ -1049,14 +1137,6 @@
       "onboard_time": 1742661320,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 62125,
-      "num": 821148,
-      "word": "开往春天的列车出发了",
-      "onboard_time": 1742651243,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61082,
@@ -1147,6 +1227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32759,
+      "num": 167442,
+      "word": "郑钦文镜头签",
+      "onboard_time": 1742703502,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31817,
       "num": 182026,
       "word": "懒人做饭的秘诀是一锅出",
@@ -1168,6 +1256,14 @@
       "word": "一些金包银首饰效果只有几个月",
       "onboard_time": 1742673915,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29131,
+      "num": 844054,
+      "word": "100秒奔赴一场繁花盛开",
+      "onboard_time": 1742703320,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1318,6 +1414,9 @@
   "hotgov_list": [
     {
       "word": "#总书记这样战略谋划云南发展新局面#"
+    },
+    {
+      "word": "#总书记全国两会后第一次地方考察#"
     }
   ]
 }
