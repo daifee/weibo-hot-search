@@ -1,0 +1,410 @@
+{
+  "runTime": 1742772108351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1263100,
+        "num": 1263100,
+        "word": "先梳头再洗头千万别来回揉搓",
+        "onboard_time": 1742742323,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 861797,
+        "num": 861797,
+        "word": "韩国球迷无法接受时隔两年再输中国",
+        "onboard_time": 1742747658,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53471,
+        "num": 450459,
+        "word": "中国火箭排队上天",
+        "onboard_time": 1742738122,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325288,
+        "num": 325288,
+        "word": "茉莉奶白被曝喝出完整塑料袋",
+        "onboard_time": 1742731401,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225104,
+        "num": 225104,
+        "word": "3人冒充孙子4天骗了50万",
+        "onboard_time": 1742740642,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216003,
+        "num": 216003,
+        "word": "湖南卫视连发15条王源",
+        "onboard_time": 1742744720,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196312,
+        "num": 196312,
+        "word": "韩国千年古刹被烧毁",
+        "onboard_time": 1742733741,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192249,
+        "num": 192249,
+        "word": "女子在埃及被酒店刁难硬气回应",
+        "onboard_time": 1742757794,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117344,
+        "num": 188217,
+        "word": "NJZ宣布暂停活动",
+        "onboard_time": 1742742202,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49323,
+        "num": 182062,
+        "word": "特朗普说只有他能阻止普京",
+        "onboard_time": 1742770997,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 380966,
+        "num": 176172,
+        "word": "赵露思粉发挑染",
+        "onboard_time": 1742742982,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336615,
+        "num": 166501,
+        "word": "发现快递里是20多张购物卡赶紧报警",
+        "onboard_time": 1742738360,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280417,
+        "num": 158644,
+        "word": "B站曾经顶流UP主现在欠账几百万",
+        "onboard_time": 1742725100,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 152266,
+        "num": 152266,
+        "word": "西湖2亿人1亿在太子湾",
+        "onboard_time": 1742732300,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 140030,
+        "num": 140030,
+        "word": "奶奶捡10000元说找到失主我好高兴",
+        "onboard_time": 1742754014,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 133860,
+        "num": 133860,
+        "word": "收到月薪60万offer但要偷渡出境",
+        "onboard_time": 1742712321,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126463,
+        "num": 126463,
+        "word": "茉莉奶白致歉声明",
+        "onboard_time": 1742742442,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123222,
+        "num": 123222,
+        "word": "白鹿和她的潦草小狗",
+        "onboard_time": 1742748678,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109622,
+        "num": 109622,
+        "word": "范丞丞用上了姚译添的行李套",
+        "onboard_time": 1742740943,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89074,
+        "num": 89074,
+        "word": "韩国训练生为了出道变成泰漂",
+        "onboard_time": 1742740101,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115318,
+        "num": 89010,
+        "word": "半个娱乐圈都去F1现场了吧",
+        "onboard_time": 1742746878,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 91525,
+        "num": 88978,
+        "word": "李晟像极了没人发现的枯叶蝶",
+        "onboard_time": 1742734162,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88587,
+        "num": 88587,
+        "word": "陆虎没有谁能拆散我的好朋友",
+        "onboard_time": 1742770937,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88364,
+        "num": 88364,
+        "word": "你的发缝还好吗",
+        "onboard_time": 1742739203,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87506,
+        "num": 87506,
+        "word": "吴艳妮无缘女子60米栏决赛",
+        "onboard_time": 1742734584,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80289,
+        "num": 80289,
+        "word": "女子与00后大学生生女诉请抚养费",
+        "onboard_time": 1742750175,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73289,
+        "num": 73289,
+        "word": "人人人人人景人人人人人",
+        "onboard_time": 1742723721,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 52745,
+        "num": 65967,
+        "word": "雁回时",
+        "onboard_time": 1742730200,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49833,
+        "num": 62172,
+        "word": "汪苏泷说今天温以凡在台下",
+        "onboard_time": 1742733442,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40581,
+        "num": 61304,
+        "word": "雁回时热度",
+        "onboard_time": 1742739502,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60937,
+        "num": 60937,
+        "word": "红双喜",
+        "onboard_time": 1742734284,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60033,
+        "num": 60033,
+        "word": "法拉利撞了法拉利",
+        "onboard_time": 1742722160,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58254,
+        "num": 58254,
+        "word": "温峥嵘我向您道歉",
+        "onboard_time": 1742730980,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57868,
+        "num": 57868,
+        "word": "樊振东是张本智和最喜欢的球员",
+        "onboard_time": 1742736683,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55311,
+        "num": 55311,
+        "word": "儿子希望妈妈戴上戒指永不放开自己",
+        "onboard_time": 1742757615,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50298,
+        "num": 55294,
+        "word": "平越南输中国韩国球迷怒了",
+        "onboard_time": 1742741783,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46937,
+        "num": 55279,
+        "word": "剑网3",
+        "onboard_time": 1742741783,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46294,
+        "num": 55226,
+        "word": "iG全神班回来了",
+        "onboard_time": 1742737102,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40922,
+        "num": 55221,
+        "word": "杨幂妈妈庆生照",
+        "onboard_time": 1742726663,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35362,
+        "num": 55173,
+        "word": "胡先煦F1现场生图",
+        "onboard_time": 1742740882,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 37777,
+        "num": 55154,
+        "word": "虞书欣曼谷接机现场人气",
+        "onboard_time": 1742741542,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35327,
+        "num": 55117,
+        "word": "白桃星座",
+        "onboard_time": 1742742622,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33539,
+        "num": 55081,
+        "word": "刘耀文新歌",
+        "onboard_time": 1742772079,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33170,
+        "num": 55061,
+        "word": "庄寒雁掌家",
+        "onboard_time": 1742745320,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32842,
+        "num": 55028,
+        "word": "西山居 陆深",
+        "onboard_time": 1742744302,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27497,
+        "num": 55011,
+        "word": "荷兰警方针对性搜索罗生门时发现男尸",
+        "onboard_time": 1742761513,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27023,
+        "num": 54980,
+        "word": "NJZ新歌",
+        "onboard_time": 1742742323,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26668,
+        "num": 54945,
+        "word": "夏之光新剧杀青应援",
+        "onboard_time": 1742756715,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26314,
+        "num": 54922,
+        "word": "CBA",
+        "onboard_time": 1742742023,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26213,
+        "num": 54892,
+        "word": "看好中国做多中国是潮流也见行动",
+        "onboard_time": 1742763012,
+        "rank": 49,
+        "category": "国内时政,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记全国两会后第一次地方考察#"
+    }
+  }
+}
