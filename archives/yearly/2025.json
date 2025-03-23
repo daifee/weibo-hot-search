@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742733720144,
+  "endTime": 1742734632001,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2043,6 +2043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2903868,
+      "num": 2903868,
+      "word": "茉莉奶白被曝喝出完整塑料袋",
+      "onboard_time": 1742731401,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2901212,
       "num": 2901212,
       "word": "赵露思疑似将复工",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740808374,
       "rank": 6,
       "category": "艺人,健康医疗"
-    },
-    {
-      "raw_hot": 2738765,
-      "num": 445794,
-      "word": "王星称在缅甸吃不饱没时间如厕",
-      "onboard_time": 1736349323,
-      "rank": 15,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

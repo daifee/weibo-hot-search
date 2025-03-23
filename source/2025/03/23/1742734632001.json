@@ -1,0 +1,410 @@
+{
+  "runTime": 1742734632001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2903868,
+        "num": 2903868,
+        "word": "茉莉奶白被曝喝出完整塑料袋",
+        "onboard_time": 1742731401,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1182572,
+        "num": 1182572,
+        "word": "温峥嵘我向您道歉",
+        "onboard_time": 1742730980,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48678,
+        "num": 911589,
+        "word": "6分钟回顾神十九第3次出舱",
+        "onboard_time": 1742722280,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 761928,
+        "num": 761928,
+        "word": "法拉利撞了法拉利",
+        "onboard_time": 1742722160,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 670041,
+        "num": 670041,
+        "word": "吴艳妮打破女子60米栏全国纪录",
+        "onboard_time": 1742731282,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424019,
+        "num": 424019,
+        "word": "人人人人人景人人人人人",
+        "onboard_time": 1742723721,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 407972,
+        "num": 407972,
+        "word": "汪苏泷演唱会偶遇章若楠",
+        "onboard_time": 1742729707,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 402685,
+        "num": 402685,
+        "word": "合肥通报三只羊问题调查处置情况",
+        "onboard_time": 1742719339,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 355446,
+        "num": 355446,
+        "word": "雁回时",
+        "onboard_time": 1742730200,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328134,
+        "num": 328134,
+        "word": "收到月薪60万offer但要偷渡出境",
+        "onboard_time": 1742712321,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678799,
+        "num": 307647,
+        "word": "B站曾经顶流UP主现在欠账几百万",
+        "onboard_time": 1742725100,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 450752,
+        "num": 302761,
+        "word": "金赛纶妈妈被曝站都站不稳",
+        "onboard_time": 1742726000,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411967,
+        "num": 297514,
+        "word": "张馨予晚餐吃胡萝卜蘸辣椒面",
+        "onboard_time": 1742728461,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278444,
+        "num": 278444,
+        "word": "宁艺卓练习生时期韩语笔记",
+        "onboard_time": 1742733261,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274949,
+        "num": 274949,
+        "word": "DeepSeek王炸组合",
+        "onboard_time": 1742728041,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 270644,
+        "num": 270644,
+        "word": "谢瑜女朋友发的樊振东",
+        "onboard_time": 1742725040,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270283,
+        "num": 270283,
+        "word": "撞脸热巴的美女导游自称一般水平",
+        "onboard_time": 1742725761,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240113,
+        "num": 240113,
+        "word": "央视起底卖给青少年的电子烟",
+        "onboard_time": 1742733321,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230173,
+        "num": 230173,
+        "word": "奔跑吧终于等来周传雄",
+        "onboard_time": 1742729707,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219653,
+        "num": 219653,
+        "word": "杨幂妈妈庆生照",
+        "onboard_time": 1742726663,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335942,
+        "num": 217161,
+        "word": "孙卓开始直播带货",
+        "onboard_time": 1742730321,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246093,
+        "num": 217003,
+        "word": "孙卓首次直播带货销售额超500万",
+        "onboard_time": 1742733381,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149547,
+        "num": 213650,
+        "word": "全民智驾时代年轻人的带感选择",
+        "onboard_time": 1742733442,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 211894,
+        "num": 211894,
+        "word": "汪苏泷说今天温以凡在台下",
+        "onboard_time": 1742733442,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209262,
+        "num": 209262,
+        "word": "世界之外",
+        "onboard_time": 1742734222,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207220,
+        "num": 207220,
+        "word": "李子璇这就是创系初C的实力",
+        "onboard_time": 1742732842,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206477,
+        "num": 206477,
+        "word": "等我上清华我也这么上早八",
+        "onboard_time": 1742730381,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206394,
+        "num": 206394,
+        "word": "韩国山火已烧4600个足球场面积",
+        "onboard_time": 1742721200,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205439,
+        "num": 205439,
+        "word": "白鹿低扎发",
+        "onboard_time": 1742733623,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192443,
+        "num": 192443,
+        "word": "尚公主",
+        "onboard_time": 1742727439,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186522,
+        "num": 186522,
+        "word": "开化的绝美星空把老外震惊了",
+        "onboard_time": 1742733802,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 175503,
+        "num": 175503,
+        "word": "韩国千年古刹被烧毁",
+        "onboard_time": 1742733741,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173449,
+        "num": 173449,
+        "word": "陈都灵新剧重担也压不弯的风骨",
+        "onboard_time": 1742733321,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172604,
+        "num": 172604,
+        "word": "李晟像极了没人发现的枯叶蝶",
+        "onboard_time": 1742734162,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160493,
+        "num": 160493,
+        "word": "虞书欣安慰粉丝别哭别哭",
+        "onboard_time": 1742731041,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158944,
+        "num": 158944,
+        "word": "贵女 猜不到剧情",
+        "onboard_time": 1742733381,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157979,
+        "num": 157979,
+        "word": "三只羊回应何时复播",
+        "onboard_time": 1742729361,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154116,
+        "num": 154116,
+        "word": "慕胥辞",
+        "onboard_time": 1742731342,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152337,
+        "num": 152337,
+        "word": "全国大部降温8至12摄氏度",
+        "onboard_time": 1742732062,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147010,
+        "num": 147010,
+        "word": "红双喜",
+        "onboard_time": 1742734284,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145687,
+        "num": 145687,
+        "word": "控糖一年后身体的变化",
+        "onboard_time": 1742713279,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134607,
+        "num": 134607,
+        "word": "从陵水漂流到三亚小孩哥父亲发声",
+        "onboard_time": 1742714959,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130844,
+        "num": 130844,
+        "word": "世界上最佳抗炎食物排名",
+        "onboard_time": 1742713940,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129071,
+        "num": 129071,
+        "word": "西湖2亿人1亿在太子湾",
+        "onboard_time": 1742732300,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127319,
+        "num": 127319,
+        "word": "猫咪做绝育手术被摘除脾脏",
+        "onboard_time": 1742716700,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127083,
+        "num": 127083,
+        "word": "网传李昀锐张艺凡合作耀眼",
+        "onboard_time": 1742728341,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126369,
+        "num": 126369,
+        "word": "吴艳妮无缘女子60米栏决赛",
+        "onboard_time": 1742734584,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125330,
+        "num": 125330,
+        "word": "稚楚",
+        "onboard_time": 1742730743,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120766,
+        "num": 120766,
+        "word": "祝绪丹为了不交作业演卡住了",
+        "onboard_time": 1742733923,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119729,
+        "num": 119729,
+        "word": "第十五届全运会",
+        "onboard_time": 1742733442,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记全国两会后第一次地方考察#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742733720144,
+  "endTime": 1742734632001,
   "band_list": [
+    {
+      "raw_hot": 2903868,
+      "num": 2903868,
+      "word": "茉莉奶白被曝喝出完整塑料袋",
+      "onboard_time": 1742731401,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2607241,
       "num": 2607241,
@@ -9,14 +17,6 @@
       "onboard_time": 1742719339,
       "rank": 0,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 2547473,
-      "num": 2547473,
-      "word": "茉莉奶白被曝喝出完整塑料袋",
-      "onboard_time": 1742731401,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1804315,
@@ -99,20 +99,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1182572,
+      "num": 1182572,
+      "word": "温峥嵘我向您道歉",
+      "onboard_time": 1742730980,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1088626,
       "num": 1088626,
       "word": "张翰回应停更三年",
       "onboard_time": 1742686518,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1080747,
-      "num": 1080747,
-      "word": "温峥嵘我向您道歉",
-      "onboard_time": 1742730980,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1064063,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 355446,
+      "num": 355446,
+      "word": "雁回时",
+      "onboard_time": 1742636722,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350154,
       "num": 350154,
       "word": "陈都灵内娱樱花树",
@@ -553,14 +561,6 @@
       "onboard_time": 1742695641,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 331732,
-      "num": 331732,
-      "word": "雁回时",
-      "onboard_time": 1742636722,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 330267,
@@ -723,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278444,
+      "num": 278444,
+      "word": "宁艺卓练习生时期韩语笔记",
+      "onboard_time": 1742733261,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278256,
       "num": 278256,
       "word": "太好了是时代少年团我们有救了",
@@ -803,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246093,
+      "num": 217003,
+      "word": "孙卓首次直播带货销售额超500万",
+      "onboard_time": 1742733381,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244425,
       "num": 244425,
       "word": "奔跑吧终于等来周传雄",
@@ -825,6 +841,14 @@
       "onboard_time": 1742657482,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 240113,
+      "num": 250002,
+      "word": "央视起底卖给青少年的电子烟",
+      "onboard_time": 1742733321,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238756,
@@ -907,12 +931,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211894,
+      "num": 211894,
+      "word": "汪苏泷说今天温以凡在台下",
+      "onboard_time": 1742733442,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211893,
       "num": 211893,
       "word": "古埃及房子着火要先救猫",
       "onboard_time": 1742655382,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 209262,
+      "num": 209262,
+      "word": "世界之外",
+      "onboard_time": 1742734222,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 208298,
@@ -945,6 +985,22 @@
       "onboard_time": 1742724920,
       "rank": 19,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 207220,
+      "num": 207220,
+      "word": "李子璇这就是创系初C的实力",
+      "onboard_time": 1742732842,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205439,
+      "num": 205439,
+      "word": "白鹿低扎发",
+      "onboard_time": 1742733623,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 203676,
@@ -1009,14 +1065,6 @@
       "onboard_time": 1742703081,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196111,
-      "num": 196111,
-      "word": "李子璇这就是创系初C的实力",
-      "onboard_time": 1742732842,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 194694,
@@ -1123,6 +1171,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 186522,
+      "num": 186522,
+      "word": "开化的绝美星空把老外震惊了",
+      "onboard_time": 1742733802,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 186301,
       "num": 186301,
       "word": "范志毅又双叒换赛道了",
@@ -1179,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175503,
+      "num": 175503,
+      "word": "韩国千年古刹被烧毁",
+      "onboard_time": 1742733741,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 174698,
       "num": 174698,
       "word": "NJZ香港演出",
@@ -1217,6 +1281,22 @@
       "onboard_time": 1742725640,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173449,
+      "num": 173449,
+      "word": "陈都灵新剧重担也压不弯的风骨",
+      "onboard_time": 1742733321,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172604,
+      "num": 172604,
+      "word": "李晟像极了没人发现的枯叶蝶",
+      "onboard_time": 1742734162,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 170678,
@@ -1315,14 +1395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160551,
-      "num": 160551,
-      "word": "陈都灵新剧重担也压不弯的风骨",
-      "onboard_time": 1742733321,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 160486,
       "num": 160486,
       "word": "祝绪丹整活出现人传人现象",
@@ -1363,12 +1435,12 @@
       "category": "作品衍生,剧集"
     },
     {
-      "raw_hot": 158679,
-      "num": 158679,
-      "word": "汪苏泷说今天温以凡在台下",
-      "onboard_time": 1742733442,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 158944,
+      "num": 158944,
+      "word": "贵女 猜不到剧情",
+      "onboard_time": 1742733381,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 158377,
@@ -1377,6 +1449,14 @@
       "onboard_time": 1742732963,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157979,
+      "num": 157979,
+      "word": "三只羊回应何时复播",
+      "onboard_time": 1742729361,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 156914,
@@ -1411,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154116,
+      "num": 154116,
+      "word": "慕胥辞",
+      "onboard_time": 1742731342,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154037,
       "num": 154037,
       "word": "人均两万五去8个国家玩了24天",
@@ -1425,14 +1513,6 @@
       "onboard_time": 1742707939,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153261,
-      "num": 153261,
-      "word": "慕胥辞",
-      "onboard_time": 1742731342,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 153035,
@@ -1499,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149547,
+      "num": 213650,
+      "word": "全民智驾时代年轻人的带感选择",
+      "onboard_time": 1742733442,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 149478,
       "num": 149478,
       "word": "杭州室内公共场所全面禁烟",
@@ -1547,28 +1635,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147010,
+      "num": 147010,
+      "word": "红双喜",
+      "onboard_time": 1742734284,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146814,
       "num": 146814,
       "word": "爆改4平米睡3人的家",
       "onboard_time": 1742707701,
       "rank": 39,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 145986,
-      "num": 145986,
-      "word": "孙卓首次直播带货销售额超500万",
-      "onboard_time": 1742733381,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145983,
-      "num": 145983,
-      "word": "宁艺卓练习生时期韩语笔记",
-      "onboard_time": 1742733261,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 145698,
@@ -1667,22 +1747,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 141126,
-      "num": 141126,
-      "word": "白鹿低扎发",
-      "onboard_time": 1742733623,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 140486,
-      "num": 140486,
-      "word": "三只羊回应何时复播",
-      "onboard_time": 1742729361,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 140085,
       "num": 170594,
       "word": "今天歼10首飞成功27周年",
@@ -1705,14 +1769,6 @@
       "onboard_time": 1742719522,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139049,
-      "num": 139049,
-      "word": "贵女 猜不到剧情",
-      "onboard_time": 1742733381,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 138203,
@@ -1891,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126369,
+      "num": 126369,
+      "word": "吴艳妮无缘女子60米栏决赛",
+      "onboard_time": 1742734584,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125830,
       "num": 125830,
       "word": "WBG对战GW",
@@ -1977,6 +2041,14 @@
       "onboard_time": 1742719401,
       "rank": 42,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 120766,
+      "num": 120766,
+      "word": "祝绪丹为了不交作业演卡住了",
+      "onboard_time": 1742733923,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 120358,
@@ -2145,14 +2217,6 @@
       "onboard_time": 1742650822,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 109692,
-      "num": 139169,
-      "word": "全民智驾时代年轻人的带感选择",
-      "onboard_time": 1742733442,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 109633,
@@ -2553,14 +2617,6 @@
       "onboard_time": 1742662639,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 76374,
-      "num": 250002,
-      "word": "央视起底卖给青少年的电子烟",
-      "onboard_time": 1742733321,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75492,
