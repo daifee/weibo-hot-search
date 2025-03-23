@@ -1,0 +1,410 @@
+{
+  "runTime": 1742729754364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 658068,
+        "num": 1105290,
+        "word": "法拉利撞了法拉利",
+        "onboard_time": 1742722160,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1480430,
+        "num": 1092913,
+        "word": "B站曾经顶流UP主现在欠账几百万",
+        "onboard_time": 1742725100,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 46198,
+        "num": 688351,
+        "word": "6分钟回顾神十九第3次出舱",
+        "onboard_time": 1742722280,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 596398,
+        "num": 596398,
+        "word": "撞脸热巴的美女导游自称一般水平",
+        "onboard_time": 1742725761,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453396,
+        "num": 453396,
+        "word": "合肥通报三只羊问题调查处置情况",
+        "onboard_time": 1742719339,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 449446,
+        "num": 449446,
+        "word": "韩国山火已烧4600个足球场面积",
+        "onboard_time": 1742721200,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 369951,
+        "num": 369951,
+        "word": "人人人人人景人人人人人",
+        "onboard_time": 1742723721,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 369543,
+        "num": 369543,
+        "word": "收到月薪60万offer但要偷渡出境",
+        "onboard_time": 1742712321,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318302,
+        "num": 318302,
+        "word": "网传李昀锐张艺凡合作耀眼",
+        "onboard_time": 1742728341,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290469,
+        "num": 290469,
+        "word": "大祥哥 欠债",
+        "onboard_time": 1742727439,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 766694,
+        "num": 289869,
+        "word": "杨幂妈妈庆生照",
+        "onboard_time": 1742726663,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711841,
+        "num": 288557,
+        "word": "金赛纶妈妈被曝站都站不稳",
+        "onboard_time": 1742726000,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286220,
+        "num": 286220,
+        "word": "刘晓庆说现在生小孩不要寄予厚望",
+        "onboard_time": 1742719820,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636167,
+        "num": 285326,
+        "word": "谢瑜女朋友发的樊振东",
+        "onboard_time": 1742725040,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308090,
+        "num": 277994,
+        "word": "张馨予晚餐吃胡萝卜蘸辣椒面",
+        "onboard_time": 1742728461,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268983,
+        "num": 268983,
+        "word": "美貌成为她报复的手段",
+        "onboard_time": 1742723540,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252684,
+        "num": 252684,
+        "word": "从陵水漂流到三亚小孩哥父亲发声",
+        "onboard_time": 1742714959,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231672,
+        "num": 231672,
+        "word": "金泰亨减了10kg",
+        "onboard_time": 1742723540,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223686,
+        "num": 223686,
+        "word": "奔跑吧13第一期嘉宾阵容",
+        "onboard_time": 1742704880,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202303,
+        "num": 202303,
+        "word": "尚公主",
+        "onboard_time": 1742727439,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207561,
+        "num": 202020,
+        "word": "特鲁索娃正式官宣怀孕",
+        "onboard_time": 1742718320,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195717,
+        "num": 195717,
+        "word": "虞书欣出发泰国拍双轨",
+        "onboard_time": 1742721741,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47274,
+        "num": 181811,
+        "word": "杨祐宁曾感慨妻子生产不易",
+        "onboard_time": 1742726601,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169543,
+        "num": 169543,
+        "word": "控糖一年后身体的变化",
+        "onboard_time": 1742713279,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160443,
+        "num": 168429,
+        "word": "淘宝专挑抽象大学生来走秀",
+        "onboard_time": 1742726241,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167365,
+        "num": 167365,
+        "word": "仙逆",
+        "onboard_time": 1742726601,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 114898,
+        "num": 167269,
+        "word": "王楚钦澳门世界杯见啦",
+        "onboard_time": 1742727321,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167267,
+        "num": 167267,
+        "word": "猫咪做绝育手术被摘除脾脏",
+        "onboard_time": 1742716700,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50647,
+        "num": 163433,
+        "word": "劝阻吸烟被怼当事人发声",
+        "onboard_time": 1742729600,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163317,
+        "num": 163317,
+        "word": "双轨",
+        "onboard_time": 1742725640,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306792,
+        "num": 161856,
+        "word": "DeepSeek王炸组合",
+        "onboard_time": 1742728041,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152540,
+        "num": 152540,
+        "word": "百万粉丝网红咱屯儿苗嫂小儿子去世",
+        "onboard_time": 1742728280,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149608,
+        "num": 149608,
+        "word": "张本智和再次模仿樊振东庆祝动作",
+        "onboard_time": 1742719699,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147465,
+        "num": 147465,
+        "word": "世界上最佳抗炎食物排名",
+        "onboard_time": 1742713940,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142582,
+        "num": 142582,
+        "word": "人均两万五去8个国家玩了24天",
+        "onboard_time": 1742727261,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 142306,
+        "num": 142306,
+        "word": "无畏下一场也放手一搏",
+        "onboard_time": 1742729421,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137742,
+        "num": 137742,
+        "word": "饺子票房破200亿",
+        "onboard_time": 1742700922,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48117,
+        "num": 137017,
+        "word": "F1上海站LV",
+        "onboard_time": 1742725100,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136338,
+        "num": 136338,
+        "word": "U22国足绝杀韩国",
+        "onboard_time": 1742723120,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127114,
+        "num": 127114,
+        "word": "管乐侯佩岑把邓萃雯逼成什么样了",
+        "onboard_time": 1742728700,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121014,
+        "num": 121014,
+        "word": "三只羊回应何时复播",
+        "onboard_time": 1742729361,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116404,
+        "num": 116404,
+        "word": "徐良毛不易去了汪苏泷演唱会",
+        "onboard_time": 1742729540,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108737,
+        "num": 108737,
+        "word": "留几手说这些年欠我的门票该补了",
+        "onboard_time": 1742721020,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108340,
+        "num": 108340,
+        "word": "今屿阿古朵野区霸主",
+        "onboard_time": 1742729300,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44110,
+        "num": 105257,
+        "word": "COA8小组赛抽签仪式",
+        "onboard_time": 1742725881,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103938,
+        "num": 103938,
+        "word": "皮亚斯特里夺F1中国站冠军",
+        "onboard_time": 1742719999,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110191,
+        "num": 102310,
+        "word": "汪苏泷演唱会偶遇章若楠",
+        "onboard_time": 1742729707,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100171,
+        "num": 100171,
+        "word": "范志毅的人脉太开门了",
+        "onboard_time": 1742724920,
+        "rank": 47,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 98556,
+        "num": 98556,
+        "word": "张真源自拍也是拍",
+        "onboard_time": 1742728821,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98358,
+        "num": 98358,
+        "word": "奔跑吧终于等来周传雄",
+        "onboard_time": 1742729707,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的民生之问#"
+    }
+  }
+}
