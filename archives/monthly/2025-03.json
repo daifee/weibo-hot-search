@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742699717398,
+  "endTime": 1742701676538,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1913,6 +1913,14 @@
       "onboard_time": 1742053048,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1614044,
+      "num": 1614044,
+      "word": "女生劝阻吸烟被怼不闻烟味别出来吃饭",
+      "onboard_time": 1742698879,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1609355,
@@ -4923,6 +4931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 966632,
+      "num": 310351,
+      "word": "曝有数千张金秀贤照片视频未公开",
+      "onboard_time": 1742698039,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 966621,
       "num": 966621,
       "word": "国安部公开4名台独网军身份信息",
@@ -5145,14 +5161,6 @@
       "onboard_time": 1741541237,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 942012,
-      "num": 295146,
-      "word": "曝有数千张金秀贤照片视频未公开",
-      "onboard_time": 1742698039,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 941249,
@@ -6832,6 +6840,14 @@
       "word": "网友在日本捡到热巴的签证",
       "onboard_time": 1742391444,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 780526,
+      "num": 307022,
+      "word": "邓超也被孙俪吓了一跳吧",
+      "onboard_time": 1742698879,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -10435,6 +10451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 564718,
+      "num": 564718,
+      "word": "雷军李在镕合影",
+      "onboard_time": 1742699901,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 564663,
       "num": 564663,
       "word": "TES晋级全球先锋赛",
@@ -11153,14 +11177,6 @@
       "onboard_time": 1742567604,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 533742,
-      "num": 603503,
-      "word": "女生劝阻吸烟被怼不闻烟味别出来吃饭",
-      "onboard_time": 1742698879,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 533601,
@@ -12553,6 +12569,14 @@
       "onboard_time": 1742466562,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 473372,
+      "num": 473372,
+      "word": "饺子票房破200亿",
+      "onboard_time": 1742700922,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 473318,
@@ -18004,7 +18028,7 @@
     },
     {
       "raw_hot": 326829,
-      "num": 219812,
+      "num": 297110,
       "word": "4种饿是假饿",
       "onboard_time": 1742687118,
       "rank": 20,
@@ -18697,6 +18721,14 @@
       "onboard_time": 1742474482,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310625,
+      "num": 310625,
+      "word": "美国六代机终于不是PPT了",
+      "onboard_time": 1742699481,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 310526,
@@ -21875,6 +21907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259863,
+      "num": 259863,
+      "word": "世界小狗日",
+      "onboard_time": 1742700020,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259604,
       "num": 259604,
       "word": "光遇复刻",
@@ -22028,7 +22068,7 @@
     },
     {
       "raw_hot": 258132,
-      "num": 258132,
+      "num": 303088,
       "word": "17部电影定档清明和五一档",
       "onboard_time": 1742695641,
       "rank": 27,
@@ -22272,6 +22312,14 @@
       "word": "难哄这段看得我热热的",
       "onboard_time": 1741421481,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 254934,
+      "num": 254934,
+      "word": "颖儿咬手套这一下更是主人级别",
+      "onboard_time": 1742700620,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -29259,6 +29307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199405,
+      "num": 179012,
+      "word": "考研英语北京区89分",
+      "onboard_time": 1742697861,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 199384,
       "num": 350721,
       "word": "罗小黑战记2今夏上映",
@@ -31889,6 +31945,14 @@
       "onboard_time": 1742191642,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187611,
+      "num": 187611,
+      "word": "白鹿文青味",
+      "onboard_time": 1742700620,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 187610,
@@ -36811,14 +36875,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 164811,
-      "num": 164811,
-      "word": "考研英语北京区89分",
-      "onboard_time": 1742697861,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 164807,
       "num": 312280,
       "word": "送给高考生的超燃歌词",
@@ -38651,14 +38707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 157610,
-      "num": 157610,
-      "word": "邓超也被孙俪吓了一跳吧",
-      "onboard_time": 1742698879,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157605,
       "num": 320612,
       "word": "一文回顾去年315被曝光企业",
@@ -39273,6 +39321,14 @@
       "onboard_time": 1742268443,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155211,
+      "num": 155211,
+      "word": "孙颖莎说输球是比赛的一部分",
+      "onboard_time": 1742696899,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 155208,
@@ -42049,6 +42105,14 @@
       "onboard_time": 1742140103,
       "rank": 28,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 145586,
+      "num": 184234,
+      "word": "范志毅又双叒换赛道了",
+      "onboard_time": 1742701040,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 145548,
@@ -44840,14 +44904,6 @@
       "word": "郑钦文采访",
       "onboard_time": 1741586360,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 135674,
-      "num": 135674,
-      "word": "孙颖莎说输球是比赛的一部分",
-      "onboard_time": 1742696899,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -48739,6 +48795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122392,
+      "num": 122392,
+      "word": "未成年选秀节目组称选手受到伤害",
+      "onboard_time": 1742700140,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122314,
       "num": 122314,
       "word": "金智媛独美",
@@ -50811,6 +50875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114815,
+      "num": 114815,
+      "word": "郑钦文追平个人迈阿密赛最佳战绩",
+      "onboard_time": 1742701639,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114744,
       "num": 267717,
       "word": "沈腾叫马丽老搭档",
@@ -51073,14 +51145,6 @@
       "onboard_time": 1742227221,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113841,
-      "num": 113841,
-      "word": "美国六代机终于不是PPT了",
-      "onboard_time": 1742699481,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 113823,
@@ -55931,6 +55995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95845,
+      "num": 95845,
+      "word": "郑钦文时隔6年完成复仇",
+      "onboard_time": 1742699901,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95804,
       "num": 95804,
       "word": "勇士vs76人",
@@ -55945,6 +56017,14 @@
       "onboard_time": 1741217476,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95733,
+      "num": 95733,
+      "word": "武汉马拉松连海绵都是樱花形状",
+      "onboard_time": 1742701580,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 95726,
@@ -57577,6 +57657,14 @@
       "onboard_time": 1741336101,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87768,
+      "num": 304241,
+      "word": "黄山回应游客下山拥堵滞留到22点",
+      "onboard_time": 1742700500,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87692,
@@ -59633,6 +59721,14 @@
       "onboard_time": 1741318161,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74896,
+      "num": 298659,
+      "word": "汉马选手边跑边嗦热干面",
+      "onboard_time": 1742700681,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74745,
@@ -67203,6 +67299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34287,
+      "num": 298412,
+      "word": "郑钦文感谢球迷深夜陪伴",
+      "onboard_time": 1742700861,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34076,
       "num": 151530,
       "word": "黑胡椒牛肉意面",
@@ -67753,6 +67857,14 @@
       "onboard_time": 1741142059,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31817,
+      "num": 182026,
+      "word": "懒人做饭的秘诀是一锅出",
+      "onboard_time": 1742699601,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31758,
@@ -69801,6 +69913,14 @@
       "onboard_time": 1742205863,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 23495,
+      "num": 183238,
+      "word": "2025汉马最小冠军仅15岁",
+      "onboard_time": 1742701280,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23472,
@@ -72977,14 +73097,6 @@
       "onboard_time": 1742556863,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 6955,
-      "num": 111436,
-      "word": "懒人做饭的秘诀是一锅出",
-      "onboard_time": 1742699601,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6871,
