@@ -1,0 +1,410 @@
+{
+  "runTime": 1742708325517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1064063,
+        "num": 1170250,
+        "word": "奔跑吧13第一期嘉宾阵容",
+        "onboard_time": 1742704880,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 947647,
+        "num": 947647,
+        "word": "女生劝阻吸烟被怼不闻烟味别出来吃饭",
+        "onboard_time": 1742698879,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45042,
+        "num": 598259,
+        "word": "100秒奔赴一场繁花盛开",
+        "onboard_time": 1742703320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 954334,
+        "num": 595915,
+        "word": "饺子票房破200亿",
+        "onboard_time": 1742700922,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 482434,
+        "num": 482434,
+        "word": "韩国多地进入灾难状态",
+        "onboard_time": 1742688859,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 409887,
+        "num": 409887,
+        "word": "南京鸡鸣寺樱花树下人比花多",
+        "onboard_time": 1742697559,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 385548,
+        "num": 385548,
+        "word": "张翰回应停更三年",
+        "onboard_time": 1742686518,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332025,
+        "num": 332025,
+        "word": "17部电影定档清明和五一档",
+        "onboard_time": 1742695641,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330267,
+        "num": 330267,
+        "word": "警方回应男孩海钓从陵水漂流到三亚",
+        "onboard_time": 1742690780,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184777,
+        "num": 329473,
+        "word": "官方回应女生劝阻吸烟被怼",
+        "onboard_time": 1742707220,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1026068,
+        "num": 328831,
+        "word": "杨祐宁老婆官宣怀三胎",
+        "onboard_time": 1742704820,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448020,
+        "num": 327324,
+        "word": "孙俪把老师打成老公",
+        "onboard_time": 1742693122,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439086,
+        "num": 326816,
+        "word": "曝有数千张金秀贤照片视频未公开",
+        "onboard_time": 1742698039,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419324,
+        "num": 325595,
+        "word": "邓超也被孙俪吓了一跳吧",
+        "onboard_time": 1742698879,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14097,
+        "num": 324011,
+        "word": "老人领免费鸡蛋信息泄露还被起诉",
+        "onboard_time": 1742707821,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323930,
+        "num": 323930,
+        "word": "陈都灵内娱樱花树",
+        "onboard_time": 1742704581,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346632,
+        "num": 321612,
+        "word": "曝接下来的东西会损害金赛纶的名誉",
+        "onboard_time": 1742701880,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313108,
+        "num": 313108,
+        "word": "美国六代机终于不是PPT了",
+        "onboard_time": 1742699481,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 300807,
+        "num": 300807,
+        "word": "唐九洲 抄袭",
+        "onboard_time": 1742647761,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 236452,
+        "num": 236452,
+        "word": "孙颖莎王楚钦驱动乒乓商业革新",
+        "onboard_time": 1742706080,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272194,
+        "num": 232436,
+        "word": "每天少吃一顿会怎样",
+        "onboard_time": 1742704100,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226218,
+        "num": 226218,
+        "word": "吴艳妮回应阿丽塔造型",
+        "onboard_time": 1742707041,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199043,
+        "num": 199043,
+        "word": "龚俊奢牌给的排面",
+        "onboard_time": 1742707581,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232951,
+        "num": 198383,
+        "word": "唐九洲黄子弘凡回应",
+        "onboard_time": 1742696721,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41506,
+        "num": 196447,
+        "word": "美联储猛亏5600亿",
+        "onboard_time": 1742701760,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194782,
+        "num": 194782,
+        "word": "雷军李在镕合影",
+        "onboard_time": 1742699901,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174973,
+        "num": 174973,
+        "word": "太好了是时代少年团我们有救了",
+        "onboard_time": 1742706080,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164478,
+        "num": 164478,
+        "word": "小孩哥划桨板从陵水漂到三亚",
+        "onboard_time": 1742705180,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157851,
+        "num": 157851,
+        "word": "韦雪买下了秦奋之前给她租的房子",
+        "onboard_time": 1742651423,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 84143,
+        "num": 157025,
+        "word": "蒋梦婕祝绪丹宋妍霏爱恨情仇",
+        "onboard_time": 1742707340,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424319,
+        "num": 156988,
+        "word": "冰岛儿童部长与未成年发生关系产子",
+        "onboard_time": 1742707640,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156785,
+        "num": 156785,
+        "word": "李惠利聚光杂志三月刊封面",
+        "onboard_time": 1742708001,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 154701,
+        "num": 154701,
+        "word": "4种饿是假饿",
+        "onboard_time": 1742687118,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153803,
+        "num": 153803,
+        "word": "奔跑吧",
+        "onboard_time": 1742707939,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96577,
+        "num": 148733,
+        "word": "周冠宇望球迷给国足些宽容",
+        "onboard_time": 1742705301,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143793,
+        "num": 143793,
+        "word": "男子车祸住院找到失联18年家人",
+        "onboard_time": 1742706920,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 142048,
+        "num": 142048,
+        "word": "奶奶网购给我买的生日蛋糕",
+        "onboard_time": 1742706800,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136725,
+        "num": 136725,
+        "word": "千万寻子富豪送儿子回学校读研",
+        "onboard_time": 1742706800,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135425,
+        "num": 135425,
+        "word": "哪吒2票房",
+        "onboard_time": 1742705659,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125659,
+        "num": 125659,
+        "word": "爆改4平米睡3人的家",
+        "onboard_time": 1742707701,
+        "rank": 39,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 124702,
+        "num": 124702,
+        "word": "花花花人人花花花",
+        "onboard_time": 1742686518,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120940,
+        "num": 120940,
+        "word": "一旦沾上中性风穿搭就停不下来了",
+        "onboard_time": 1742706021,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 119819,
+        "num": 119819,
+        "word": "库克大赞DeepSeek",
+        "onboard_time": 1742704941,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111850,
+        "num": 111850,
+        "word": "金秀贤可能被刑法处罚",
+        "onboard_time": 1742686518,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110551,
+        "num": 110551,
+        "word": "哪吒为气象日写了一首rap",
+        "onboard_time": 1742689639,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109199,
+        "num": 109199,
+        "word": "白鹿剧宣MVP选手",
+        "onboard_time": 1742703081,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105989,
+        "num": 105989,
+        "word": "范志毅又双叒换赛道了",
+        "onboard_time": 1742701040,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103085,
+        "num": 103085,
+        "word": "宋威龙给赵今麦拍照",
+        "onboard_time": 1742706260,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103051,
+        "num": 103051,
+        "word": "胡静当导游还是太全面了",
+        "onboard_time": 1742706200,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99430,
+        "num": 99430,
+        "word": "公牛31分大胜湖人",
+        "onboard_time": 1742708299,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记全国两会后第一次地方考察#"
+    }
+  }
+}

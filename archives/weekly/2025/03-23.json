@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742707337863,
+  "endTime": 1742708325517,
   "band_list": [
     {
       "raw_hot": 1804315,
@@ -51,16 +51,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1018463,
-      "num": 1018463,
+      "raw_hot": 1064063,
+      "num": 1170250,
       "word": "奔跑吧13第一期嘉宾阵容",
       "onboard_time": 1742704880,
       "rank": 3,
       "category": "综艺"
     },
     {
-      "raw_hot": 1009157,
-      "num": 275900,
+      "raw_hot": 1026068,
+      "num": 328831,
       "word": "杨祐宁老婆官宣怀三胎",
       "onboard_time": 1742704820,
       "rank": 43,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424319,
+      "num": 156988,
+      "word": "冰岛儿童部长与未成年发生关系产子",
+      "onboard_time": 1742707640,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 372381,
       "num": 372381,
       "word": "刘翔之后又有中国运动员夺牌了",
@@ -233,6 +241,22 @@
       "onboard_time": 1742704581,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332025,
+      "num": 332025,
+      "word": "17部电影定档清明和五一档",
+      "onboard_time": 1742695641,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 330267,
+      "num": 388658,
+      "word": "警方回应男孩海钓从陵水漂流到三亚",
+      "onboard_time": 1742690780,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329100,
@@ -331,6 +355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 272194,
+      "num": 239064,
+      "word": "每天少吃一顿会怎样",
+      "onboard_time": 1742704100,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 271096,
       "num": 271096,
       "word": "世界小狗日",
@@ -345,14 +377,6 @@
       "onboard_time": 1742647881,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 263145,
-      "num": 303088,
-      "word": "17部电影定档清明和五一档",
-      "onboard_time": 1742695641,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 258355,
@@ -379,22 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251106,
-      "num": 388658,
-      "word": "警方回应男孩海钓从陵水漂流到三亚",
-      "onboard_time": 1742690780,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245349,
-      "num": 239064,
-      "word": "每天少吃一顿会怎样",
-      "onboard_time": 1742704100,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 241787,
       "num": 241787,
       "word": "张雨绮丁程鑫合作舞台",
@@ -417,6 +425,14 @@
       "onboard_time": 1742693361,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226218,
+      "num": 226218,
+      "word": "吴艳妮回应阿丽塔造型",
+      "onboard_time": 1742707041,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 211893,
@@ -473,6 +489,14 @@
       "onboard_time": 1742697861,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 199043,
+      "num": 199043,
+      "word": "龚俊奢牌给的排面",
+      "onboard_time": 1742707581,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 197760,
@@ -545,6 +569,14 @@
       "onboard_time": 1742701040,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184777,
+      "num": 329473,
+      "word": "官方回应女生劝阻吸烟被怼",
+      "onboard_time": 1742707220,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182848,
@@ -659,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156785,
+      "num": 156785,
+      "word": "李惠利聚光杂志三月刊封面",
+      "onboard_time": 1742708001,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 155211,
       "num": 155211,
       "word": "孙颖莎说输球是比赛的一部分",
@@ -673,6 +713,14 @@
       "onboard_time": 1742689940,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153803,
+      "num": 153803,
+      "word": "奔跑吧",
+      "onboard_time": 1742707939,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 153035,
@@ -723,12 +771,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143793,
+      "num": 143793,
+      "word": "男子车祸住院找到失联18年家人",
+      "onboard_time": 1742706920,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 143031,
       "num": 143031,
       "word": "夏以昼日卡",
       "onboard_time": 1742691081,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142048,
+      "num": 142048,
+      "word": "奶奶网购给我买的生日蛋糕",
+      "onboard_time": 1742706800,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 140085,
@@ -811,12 +875,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126500,
-      "num": 126500,
-      "word": "官方回应女生劝阻吸烟被怼",
-      "onboard_time": 1742707220,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 125659,
+      "num": 125659,
+      "word": "爆改4平米睡3人的家",
+      "onboard_time": 1742707701,
+      "rank": 39,
+      "category": "休闲"
     },
     {
       "raw_hot": 125574,
@@ -859,8 +923,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118167,
-      "num": 118167,
+      "raw_hot": 119819,
+      "num": 119819,
       "word": "库克大赞DeepSeek",
       "onboard_time": 1742704941,
       "rank": 38,
@@ -913,14 +977,6 @@
       "onboard_time": 1742703860,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113407,
-      "num": 113407,
-      "word": "男子车祸住院找到失联18年家人",
-      "onboard_time": 1742706920,
-      "rank": 41,
-      "category": "正能量"
     },
     {
       "raw_hot": 113363,
@@ -1035,20 +1091,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99891,
-      "num": 99891,
-      "word": "奶奶网购给我买的生日蛋糕",
-      "onboard_time": 1742706800,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 99828,
       "num": 105735,
       "word": "三次开颅网红吴忠华耳朵内又长东西",
       "onboard_time": 1742642182,
       "rank": 36,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 99430,
+      "num": 99430,
+      "word": "公牛31分大胜湖人",
+      "onboard_time": 1742708299,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 98649,
@@ -1131,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86233,
-      "num": 192807,
-      "word": "吴艳妮回应阿丽塔造型",
-      "onboard_time": 1742707041,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 84967,
       "num": 84967,
       "word": "虞书欣95花第一部全集有广现偶",
@@ -1153,6 +1201,14 @@
       "onboard_time": 1742692220,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84143,
+      "num": 157025,
+      "word": "蒋梦婕祝绪丹宋妍霏爱恨情仇",
+      "onboard_time": 1742707340,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 83933,
@@ -1380,7 +1436,7 @@
     },
     {
       "raw_hot": 42388,
-      "num": 175557,
+      "num": 196447,
       "word": "美联储猛亏5600亿",
       "onboard_time": 1742701760,
       "rank": 31,
@@ -1577,6 +1633,14 @@
       "onboard_time": 1742686217,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14097,
+      "num": 324011,
+      "word": "老人领免费鸡蛋信息泄露还被起诉",
+      "onboard_time": 1742707821,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13284,
