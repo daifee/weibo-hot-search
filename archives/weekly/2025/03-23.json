@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742708325517,
+  "endTime": 1742711468969,
   "band_list": [
     {
       "raw_hot": 1804315,
@@ -32,6 +32,14 @@
       "word": "韩国多地进入灾难状态",
       "onboard_time": 1742688859,
       "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1372401,
+      "num": 1372401,
+      "word": "冰岛儿童部长与未成年发生关系产子",
+      "onboard_time": 1742707640,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 583544,
+      "num": 583544,
+      "word": "吴艳妮回应阿丽塔造型",
+      "onboard_time": 1742707041,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 578426,
       "num": 780065,
       "word": "清明档已有11部影片定档",
@@ -211,12 +227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 424319,
-      "num": 156988,
-      "word": "冰岛儿童部长与未成年发生关系产子",
-      "onboard_time": 1742707640,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 396102,
+      "num": 396102,
+      "word": "官方回应女生劝阻吸烟被怼",
+      "onboard_time": 1742707220,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 372381,
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278256,
+      "num": 278256,
+      "word": "太好了是时代少年团我们有救了",
+      "onboard_time": 1742706080,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276604,
       "num": 276604,
       "word": "孙颖莎王楚钦驱动乒乓商业革新",
@@ -403,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254498,
+      "num": 254498,
+      "word": "广东一男子持菜刀砍人致1死1伤",
+      "onboard_time": 1742710280,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241787,
       "num": 241787,
       "word": "张雨绮丁程鑫合作舞台",
@@ -427,12 +459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 226218,
-      "num": 226218,
-      "word": "吴艳妮回应阿丽塔造型",
-      "onboard_time": 1742707041,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 225720,
+      "num": 221274,
+      "word": "200多万买二手房遭遇20年租约",
+      "onboard_time": 1742710280,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215050,
+      "num": 215050,
+      "word": "周冠宇单人敞篷车参加车手巡游",
+      "onboard_time": 1742710580,
+      "rank": 21,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 211893,
@@ -499,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197760,
-      "num": 197760,
-      "word": "太好了是时代少年团我们有救了",
-      "onboard_time": 1742706080,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196619,
       "num": 196619,
       "word": "中国女子冰壶队直通米兰",
@@ -547,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187882,
+      "num": 187882,
+      "word": "Fly的故事没有终章",
+      "onboard_time": 1742710219,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187697,
       "num": 187697,
       "word": "你好星期六全员为余生有涯剧宣",
@@ -569,14 +609,6 @@
       "onboard_time": 1742701040,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184777,
-      "num": 329473,
-      "word": "官方回应女生劝阻吸烟被怼",
-      "onboard_time": 1742707220,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182848,
@@ -649,6 +681,14 @@
       "onboard_time": 1742693240,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 162907,
+      "num": 162907,
+      "word": "奔跑吧 张韶涵",
+      "onboard_time": 1742709439,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 162614,
@@ -729,6 +769,14 @@
       "onboard_time": 1742705301,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152730,
+      "num": 152730,
+      "word": "张峻豪人生序曲演唱会",
+      "onboard_time": 1742710700,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 152283,
@@ -819,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137877,
+      "num": 137877,
+      "word": "抽烟不过肺仍然会危害身体",
+      "onboard_time": 1742709320,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135907,
       "num": 135907,
       "word": "花3万8买了条80平的老船",
@@ -841,6 +897,14 @@
       "onboard_time": 1742697680,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133829,
+      "num": 133829,
+      "word": "爆改4平米睡3人的家",
+      "onboard_time": 1742707701,
+      "rank": 39,
+      "category": "休闲"
     },
     {
       "raw_hot": 132402,
@@ -875,12 +939,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125659,
-      "num": 125659,
-      "word": "爆改4平米睡3人的家",
-      "onboard_time": 1742707701,
-      "rank": 39,
-      "category": "休闲"
+      "raw_hot": 125601,
+      "num": 125601,
+      "word": "CASETiFY一个手机壳卖4000多元",
+      "onboard_time": 1742709860,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 125574,
@@ -987,6 +1051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112401,
+      "num": 112401,
+      "word": "2025汉马冠军奖金10万美元",
+      "onboard_time": 1742706740,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111643,
       "num": 111643,
       "word": "胡静当导游还是太全面了",
@@ -1075,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100819,
+      "num": 330167,
+      "word": "物理老师放大招学生哇声一片",
+      "onboard_time": 1742710219,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100668,
       "num": 100668,
       "word": "印度男子看视频自学割阑尾",
@@ -1089,6 +1169,14 @@
       "onboard_time": 1742651243,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100008,
+      "num": 100008,
+      "word": "王一博清爽条纹",
+      "onboard_time": 1742709199,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 99828,
@@ -1139,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96693,
+      "num": 96693,
+      "word": "宋妍霏青蛇妆",
+      "onboard_time": 1742708960,
+      "rank": 43,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 95845,
       "num": 95845,
       "word": "郑钦文时隔6年完成复仇",
@@ -1161,6 +1257,14 @@
       "onboard_time": 1742656523,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94475,
+      "num": 94475,
+      "word": "黑执事绿魔女篇",
+      "onboard_time": 1742710520,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 94271,
@@ -1408,6 +1512,14 @@
       "word": "王楚钦马龙11比1杨硕袁励岑",
       "onboard_time": 1742646021,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50968,
+      "num": 189598,
+      "word": "2025汉马13公里跑冠军诞生",
+      "onboard_time": 1742710820,
+      "rank": 24,
       "category": "体育"
     },
     {

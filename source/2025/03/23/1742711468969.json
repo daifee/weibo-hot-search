@@ -1,0 +1,410 @@
+{
+  "runTime": 1742711468969,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1372401,
+        "num": 1372401,
+        "word": "冰岛儿童部长与未成年发生关系产子",
+        "onboard_time": 1742707640,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 823267,
+        "num": 823267,
+        "word": "奔跑吧13第一期嘉宾阵容",
+        "onboard_time": 1742704880,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38505,
+        "num": 725226,
+        "word": "100秒奔赴一场繁花盛开",
+        "onboard_time": 1742703320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699656,
+        "num": 699656,
+        "word": "饺子票房破200亿",
+        "onboard_time": 1742700922,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 583544,
+        "num": 583544,
+        "word": "吴艳妮回应阿丽塔造型",
+        "onboard_time": 1742707041,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 523934,
+        "num": 523934,
+        "word": "女生劝阻吸烟被怼不闻烟味别出来吃饭",
+        "onboard_time": 1742698879,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396102,
+        "num": 396102,
+        "word": "官方回应女生劝阻吸烟被怼",
+        "onboard_time": 1742707220,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388856,
+        "num": 388856,
+        "word": "韩国多地进入灾难状态",
+        "onboard_time": 1742688859,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 332047,
+        "num": 332047,
+        "word": "南京鸡鸣寺樱花树下人比花多",
+        "onboard_time": 1742697559,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 100819,
+        "num": 330167,
+        "word": "物理老师放大招学生哇声一片",
+        "onboard_time": 1742710219,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633831,
+        "num": 327703,
+        "word": "杨祐宁老婆官宣怀三胎",
+        "onboard_time": 1742704820,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387933,
+        "num": 320414,
+        "word": "孙俪把老师打成老公",
+        "onboard_time": 1742693122,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341169,
+        "num": 315560,
+        "word": "曝有数千张金秀贤照片视频未公开",
+        "onboard_time": 1742698039,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314813,
+        "num": 314813,
+        "word": "张翰回应停更三年",
+        "onboard_time": 1742686518,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283176,
+        "num": 283176,
+        "word": "17部电影定档清明和五一档",
+        "onboard_time": 1742695641,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278256,
+        "num": 278256,
+        "word": "太好了是时代少年团我们有救了",
+        "onboard_time": 1742706080,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254498,
+        "num": 254498,
+        "word": "广东一男子持菜刀砍人致1死1伤",
+        "onboard_time": 1742710280,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246028,
+        "num": 246028,
+        "word": "邓超也被孙俪吓了一跳吧",
+        "onboard_time": 1742698879,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226180,
+        "num": 226180,
+        "word": "唐九洲 抄袭",
+        "onboard_time": 1742647761,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225390,
+        "num": 225390,
+        "word": "美国六代机终于不是PPT了",
+        "onboard_time": 1742699481,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225720,
+        "num": 221274,
+        "word": "200多万买二手房遭遇20年租约",
+        "onboard_time": 1742710280,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215050,
+        "num": 215050,
+        "word": "周冠宇单人敞篷车参加车手巡游",
+        "onboard_time": 1742710580,
+        "rank": 21,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 206917,
+        "num": 206917,
+        "word": "陈都灵内娱樱花树",
+        "onboard_time": 1742704581,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191838,
+        "num": 191838,
+        "word": "警方回应男孩海钓从陵水漂流到三亚",
+        "onboard_time": 1742690780,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50968,
+        "num": 189598,
+        "word": "2025汉马13公里跑冠军诞生",
+        "onboard_time": 1742710820,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187882,
+        "num": 187882,
+        "word": "Fly的故事没有终章",
+        "onboard_time": 1742710219,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174949,
+        "num": 174949,
+        "word": "曝接下来的东西会损害金赛纶的名誉",
+        "onboard_time": 1742701880,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162907,
+        "num": 162907,
+        "word": "奔跑吧 张韶涵",
+        "onboard_time": 1742709439,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152730,
+        "num": 152730,
+        "word": "张峻豪人生序曲演唱会",
+        "onboard_time": 1742710700,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157482,
+        "num": 152287,
+        "word": "每天少吃一顿会怎样",
+        "onboard_time": 1742704100,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149990,
+        "num": 149990,
+        "word": "唐九洲黄子弘凡回应",
+        "onboard_time": 1742696721,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137877,
+        "num": 137877,
+        "word": "抽烟不过肺仍然会危害身体",
+        "onboard_time": 1742709320,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133829,
+        "num": 133829,
+        "word": "爆改4平米睡3人的家",
+        "onboard_time": 1742707701,
+        "rank": 32,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 129404,
+        "num": 129404,
+        "word": "奶奶网购给我买的生日蛋糕",
+        "onboard_time": 1742706800,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125601,
+        "num": 125601,
+        "word": "CASETiFY一个手机壳卖4000多元",
+        "onboard_time": 1742709860,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120008,
+        "num": 120008,
+        "word": "男子车祸住院找到失联18年家人",
+        "onboard_time": 1742706920,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 112401,
+        "num": 112401,
+        "word": "2025汉马冠军奖金10万美元",
+        "onboard_time": 1742706740,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112048,
+        "num": 112048,
+        "word": "哪吒2票房",
+        "onboard_time": 1742705659,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109318,
+        "num": 109318,
+        "word": "雷军李在镕合影",
+        "onboard_time": 1742699901,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108761,
+        "num": 108761,
+        "word": "胡静当导游还是太全面了",
+        "onboard_time": 1742706200,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103203,
+        "num": 103203,
+        "word": "孙颖莎王楚钦驱动乒乓商业革新",
+        "onboard_time": 1742706080,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102424,
+        "num": 102424,
+        "word": "4种饿是假饿",
+        "onboard_time": 1742687118,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100008,
+        "num": 100008,
+        "word": "王一博清爽条纹",
+        "onboard_time": 1742709199,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96693,
+        "num": 96693,
+        "word": "宋妍霏青蛇妆",
+        "onboard_time": 1742708960,
+        "rank": 43,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 96431,
+        "num": 96431,
+        "word": "金秀贤可能被刑法处罚",
+        "onboard_time": 1742686518,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95558,
+        "num": 95558,
+        "word": "千万寻子富豪送儿子回学校读研",
+        "onboard_time": 1742706800,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94475,
+        "num": 94475,
+        "word": "黑执事绿魔女篇",
+        "onboard_time": 1742710520,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 89457,
+        "num": 89457,
+        "word": "龚俊奢牌给的排面",
+        "onboard_time": 1742707581,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88564,
+        "num": 88564,
+        "word": "一旦沾上中性风穿搭就停不下来了",
+        "onboard_time": 1742706021,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 86985,
+        "num": 86985,
+        "word": "小孩哥划桨板从陵水漂到三亚",
+        "onboard_time": 1742705180,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记全国两会后第一次地方考察#"
+    }
+  }
+}
