@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742761448826,
+  "endTime": 1742762351595,
   "band_list": [
     {
       "raw_hot": 3044323,
@@ -3707,20 +3707,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16152,
+      "num": 16152,
+      "word": "儿子希望妈妈戴上戒指永不放开自己",
+      "onboard_time": 1742757615,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15537,
       "num": 18362,
       "word": "禹事不慌张",
       "onboard_time": 1742665936,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15512,
-      "num": 15512,
-      "word": "儿子希望妈妈戴上戒指永不放开自己",
-      "onboard_time": 1742757615,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14102,
@@ -3763,7 +3763,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10750,
+      "raw_hot": 10783,
       "num": 13916,
       "word": "走出一条持续健康的文旅发展之路",
       "onboard_time": 1742760073,
@@ -3777,6 +3777,14 @@
       "onboard_time": 1742674634,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10740,
+      "num": 13890,
+      "word": "荷兰警方针对性搜索罗生门时发现男尸",
+      "onboard_time": 1742761513,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10617,
