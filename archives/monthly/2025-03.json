@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742747228173,
+  "endTime": 1742748162680,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -11201,6 +11201,14 @@
       "onboard_time": 1741350861,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 548027,
+      "num": 548027,
+      "word": "韩国球迷无法接受时隔两年再输中国",
+      "onboard_time": 1742747658,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 547627,
@@ -33347,6 +33355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186140,
+      "num": 153927,
+      "word": "汪苏泷十万伏特实体专辑",
+      "onboard_time": 1742748137,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186120,
       "num": 216831,
       "word": "谁教李宛妲这么穿搭的",
@@ -41939,6 +41955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150431,
+      "num": 150431,
+      "word": "湖南卫视连发15条王源",
+      "onboard_time": 1742744720,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150427,
       "num": 150427,
       "word": "李艺彤 这么多年都没红不可能翻红",
@@ -50425,14 +50449,6 @@
       "onboard_time": 1741316060,
       "rank": 20,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 122308,
-      "num": 108789,
-      "word": "湖南卫视连发15条王源",
-      "onboard_time": 1742744720,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 122283,
@@ -60051,6 +60067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 85440,
+      "num": 93532,
+      "word": "西山居 陆深",
+      "onboard_time": 1742744302,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 85395,
       "num": 85395,
       "word": "隔夜柠檬片",
@@ -60609,6 +60633,14 @@
       "onboard_time": 1741234879,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82558,
+      "num": 82558,
+      "word": "陈雨菲瑞士赛女单冠军",
+      "onboard_time": 1742747658,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 82553,
@@ -61731,14 +61763,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 74694,
-      "num": 74694,
-      "word": "西山居 陆深",
-      "onboard_time": 1742744302,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 74567,
       "num": 224268,
       "word": "胡兵把粉丝群当朋友圈发",
@@ -61921,6 +61945,14 @@
       "onboard_time": 1742741542,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73513,
+      "num": 73513,
+      "word": "半个娱乐圈都去F1现场了吧",
+      "onboard_time": 1742746878,
+      "rank": 35,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 73447,
@@ -67593,6 +67625,14 @@
       "onboard_time": 1742425097,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42385,
+      "num": 53070,
+      "word": "张杰录宿命之眼燃起来了",
+      "onboard_time": 1742747479,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 42380,

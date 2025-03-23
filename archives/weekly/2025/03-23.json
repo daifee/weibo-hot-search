@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742747228173,
+  "endTime": 1742748162680,
   "band_list": [
     {
       "raw_hot": 3044323,
@@ -441,6 +441,14 @@
       "onboard_time": 1742698220,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 548027,
+      "num": 548027,
+      "word": "韩国球迷无法接受时隔两年再输中国",
+      "onboard_time": 1742747658,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 511845,
@@ -1459,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186140,
+      "num": 153927,
+      "word": "汪苏泷十万伏特实体专辑",
+      "onboard_time": 1742748137,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183563,
       "num": 195584,
       "word": "网传侯明昊陈都灵出演尚公主",
@@ -1881,6 +1897,14 @@
       "onboard_time": 1742706260,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150431,
+      "num": 150431,
+      "word": "湖南卫视连发15条王源",
+      "onboard_time": 1742744720,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 150111,
@@ -2368,14 +2392,6 @@
       "word": "未成年选秀节目组称选手受到伤害",
       "onboard_time": 1742700140,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 122308,
-      "num": 108789,
-      "word": "湖南卫视连发15条王源",
-      "onboard_time": 1742744720,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -2923,6 +2939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85440,
+      "num": 93532,
+      "word": "西山居 陆深",
+      "onboard_time": 1742744302,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84967,
       "num": 84967,
       "word": "虞书欣95花第一部全集有广现偶",
@@ -2968,6 +2992,14 @@
       "word": "林高远好可爱",
       "onboard_time": 1742715200,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82558,
+      "num": 82558,
+      "word": "陈雨菲瑞士赛女单冠军",
+      "onboard_time": 1742747658,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -3027,14 +3059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74694,
-      "num": 74694,
-      "word": "西山居 陆深",
-      "onboard_time": 1742744302,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 73661,
       "num": 134627,
       "word": "2025中国发展高层论坛",
@@ -3049,6 +3073,14 @@
       "onboard_time": 1742741542,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73513,
+      "num": 73513,
+      "word": "半个娱乐圈都去F1现场了吧",
+      "onboard_time": 1742746878,
+      "rank": 35,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 72344,
@@ -3361,6 +3393,14 @@
       "onboard_time": 1742701760,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 42385,
+      "num": 53070,
+      "word": "张杰录宿命之眼燃起来了",
+      "onboard_time": 1742747479,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 39716,
