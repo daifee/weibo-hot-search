@@ -1,10 +1,10 @@
 {
   "startTime": 1742747228173,
-  "endTime": 1742772108351,
+  "endTime": 1742773015721,
   "band_list": [
     {
-      "raw_hot": 1263100,
-      "num": 1263100,
+      "raw_hot": 1391904,
+      "num": 1391904,
       "word": "先梳头再洗头千万别来回揉搓",
       "onboard_time": 1742742323,
       "rank": 0,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 761387,
-      "num": 181736,
+      "num": 196621,
       "word": "赵露思粉发挑染",
       "onboard_time": 1742742982,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 645975,
+      "num": 242939,
+      "word": "发现快递里是20多张购物卡赶紧报警",
+      "onboard_time": 1742738360,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 515595,
@@ -67,16 +75,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336615,
-      "num": 242939,
-      "word": "发现快递里是20多张购物卡赶紧报警",
-      "onboard_time": 1742738360,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296577,
-      "num": 177678,
+      "raw_hot": 311199,
+      "num": 193727,
       "word": "B站曾经顶流UP主现在欠账几百万",
       "onboard_time": 1742725100,
       "rank": 12,
@@ -99,20 +99,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 269984,
+      "num": 269984,
+      "word": "3人冒充孙子4天骗了50万",
+      "onboard_time": 1742740642,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240620,
+      "num": 240620,
+      "word": "女子在埃及被酒店刁难硬气回应",
+      "onboard_time": 1742757794,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 238826,
+      "num": 238826,
+      "word": "韩国千年古刹被烧毁",
+      "onboard_time": 1742733741,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 237931,
       "num": 112783,
       "word": "温峥嵘我向您道歉",
       "onboard_time": 1742730980,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225104,
-      "num": 225104,
-      "word": "3人冒充孙子4天骗了50万",
-      "onboard_time": 1742740642,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222089,
@@ -131,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206724,
+      "num": 206724,
+      "word": "奶奶捡10000元说找到失主我好高兴",
+      "onboard_time": 1742754014,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 201186,
       "num": 173436,
       "word": "雁回时热度",
@@ -139,20 +163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196312,
-      "num": 196312,
-      "word": "韩国千年古刹被烧毁",
-      "onboard_time": 1742733741,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 192249,
-      "num": 192249,
-      "word": "女子在埃及被酒店刁难硬气回应",
-      "onboard_time": 1742757794,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 191083,
+      "num": 191083,
+      "word": "西湖2亿人1亿在太子湾",
+      "onboard_time": 1742732300,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 186140,
@@ -187,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166415,
+      "num": 182062,
+      "word": "特朗普说只有他能阻止普京",
+      "onboard_time": 1742770997,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 164936,
       "num": 164936,
       "word": "你的发缝还好吗",
@@ -195,20 +219,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 152266,
-      "num": 152266,
-      "word": "西湖2亿人1亿在太子湾",
-      "onboard_time": 1742732300,
-      "rank": 35,
-      "category": "旅游"
+      "raw_hot": 148636,
+      "num": 148636,
+      "word": "收到月薪60万offer但要偷渡出境",
+      "onboard_time": 1742712321,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 140030,
-      "num": 140030,
-      "word": "奶奶捡10000元说找到失主我好高兴",
-      "onboard_time": 1742754014,
-      "rank": 9,
-      "category": "正能量"
+      "raw_hot": 139685,
+      "num": 113677,
+      "word": "半个娱乐圈都去F1现场了吧",
+      "onboard_time": 1742746878,
+      "rank": 35,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 136768,
@@ -219,20 +243,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133860,
-      "num": 133860,
-      "word": "收到月薪60万offer但要偷渡出境",
-      "onboard_time": 1742712321,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124449,
       "num": 111275,
       "word": "庄寒雁掌家",
       "onboard_time": 1742745320,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124338,
+      "num": 124338,
+      "word": "陆虎没有谁能拆散我的好朋友",
+      "onboard_time": 1742770937,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 123442,
@@ -259,14 +283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115318,
-      "num": 89010,
-      "word": "半个娱乐圈都去F1现场了吧",
-      "onboard_time": 1742746878,
-      "rank": 35,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 114453,
       "num": 114453,
       "word": "人人人人人景人人人人人",
@@ -275,12 +291,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 103869,
+      "num": 103869,
+      "word": "吴艳妮无缘女子60米栏决赛",
+      "onboard_time": 1742734584,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100804,
       "num": 100804,
       "word": "法拉利撞了法拉利",
       "onboard_time": 1742722160,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99613,
+      "num": 99613,
+      "word": "欧国联",
+      "onboard_time": 1742772200,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98897,
+      "num": 98897,
+      "word": "韩国训练生为了出道变成泰漂",
+      "onboard_time": 1742740101,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 98193,
@@ -307,28 +347,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 90085,
-      "num": 90085,
-      "word": "吴艳妮无缘女子60米栏决赛",
-      "onboard_time": 1742734584,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 89135,
+      "num": 89135,
+      "word": "女子与00后大学生生女诉请抚养费",
+      "onboard_time": 1742750175,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 89074,
-      "num": 89074,
-      "word": "韩国训练生为了出道变成泰漂",
-      "onboard_time": 1742740101,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 88587,
-      "num": 88587,
-      "word": "陆虎没有谁能拆散我的好朋友",
-      "onboard_time": 1742770937,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 85088,
+      "num": 85088,
+      "word": "内娱四大古装神女",
+      "onboard_time": 1742772200,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 84344,
@@ -355,12 +387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80289,
-      "num": 80289,
-      "word": "女子与00后大学生生女诉请抚养费",
-      "onboard_time": 1742750175,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 77380,
+      "num": 85012,
+      "word": "刘耀文新歌",
+      "onboard_time": 1742772079,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 75074,
@@ -379,12 +411,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72127,
+      "num": 72127,
+      "word": "百万粉丝网红咱屯儿苗嫂小儿子去世",
+      "onboard_time": 1742728280,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 71001,
+      "num": 71001,
+      "word": "儿子希望妈妈戴上戒指永不放开自己",
+      "onboard_time": 1742757615,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68451,
       "num": 68451,
       "word": "赵小童洗漱完毕进入夜间模式",
       "onboard_time": 1742746699,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68231,
+      "num": 68231,
+      "word": "重庆半马女子提前庆祝最后1秒被反超",
+      "onboard_time": 1742772137,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 67753,
+      "num": 67753,
+      "word": "王楚钦出现失误后歪头看球反省",
+      "onboard_time": 1742772137,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 64791,
@@ -411,6 +475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 63955,
+      "num": 63955,
+      "word": "葡萄牙vs丹麦",
+      "onboard_time": 1742772137,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63438,
       "num": 63438,
       "word": "樊振东是张本智和最喜欢的球员",
@@ -432,6 +504,22 @@
       "word": "宝妈为让女儿少吃糖用生姜做棒棒糖",
       "onboard_time": 1742738783,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61247,
+      "num": 695493,
+      "word": "中国火箭排队上天",
+      "onboard_time": 1742738122,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 61092,
+      "num": 61092,
+      "word": "6年的阿贝贝破烂不堪女孩仍爱不释手",
+      "onboard_time": 1742772200,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -459,28 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55311,
-      "num": 55311,
-      "word": "儿子希望妈妈戴上戒指永不放开自己",
-      "onboard_time": 1742757615,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53471,
-      "num": 695493,
-      "word": "中国火箭排队上天",
-      "onboard_time": 1742738122,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 49323,
-      "num": 182062,
-      "word": "特朗普说只有他能阻止普京",
-      "onboard_time": 1742770997,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 54402,
+      "num": 54402,
+      "word": "宝蓝说iG真要进世界赛了",
+      "onboard_time": 1742772258,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 44087,
@@ -503,14 +575,6 @@
       "num": 44114,
       "word": "刘耀文先行曲海报",
       "onboard_time": 1742749936,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 33539,
-      "num": 55081,
-      "word": "刘耀文新歌",
-      "onboard_time": 1742772079,
       "rank": 42,
       "category": "音乐"
     },

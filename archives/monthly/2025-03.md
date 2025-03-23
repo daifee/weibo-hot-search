@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/03/01 00:29:32 ~ 2025/03/24 07:21:48
+本榜单时间：2025/03/01 00:29:32 ~ 2025/03/24 07:36:55
 </p>
 </blockquote>
 <p>
@@ -2019,6 +2019,12 @@ CFO零封TES（热度：1429273）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%88%E6%A2%B3%E5%A4%B4%E5%86%8D%E6%B4%97%E5%A4%B4%E5%8D%83%E4%B8%87%E5%88%AB%E6%9D%A5%E5%9B%9E%E6%8F%89%E6%90%93%23" target="weibo">
+先梳头再洗头千万别来回揉搓（热度：1391904）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%A4%B4%E5%8F%82%E5%8A%A0%E5%8C%97%E7%94%B5%E8%89%BA%E8%80%83%23" target="weibo">
 石头参加北电艺考（热度：1386451）
 </a>
@@ -2351,12 +2357,6 @@ CFO零封TES（热度：1429273）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E9%80%A0%E5%9E%8B%E5%B8%88%E5%9B%9E%E5%BA%94%23" target="weibo">
 关晓彤造型师回应（热度：1265766）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%88%E6%A2%B3%E5%A4%B4%E5%86%8D%E6%B4%97%E5%A4%B4%E5%8D%83%E4%B8%87%E5%88%AB%E6%9D%A5%E5%9B%9E%E6%8F%89%E6%90%93%23" target="weibo">
-先梳头再洗头千万别来回揉搓（热度：1263100）
 </a>
 </li>
 

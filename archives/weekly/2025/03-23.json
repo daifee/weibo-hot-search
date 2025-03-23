@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742772108351,
+  "endTime": 1742773015721,
   "band_list": [
     {
       "raw_hot": 3044323,
@@ -83,6 +83,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1391904,
+      "num": 1391904,
+      "word": "先梳头再洗头千万别来回揉搓",
+      "onboard_time": 1742742323,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1362338,
       "num": 333545,
       "word": "孙俪把老师打成老公",
@@ -97,14 +105,6 @@
       "onboard_time": 1742725040,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1263100,
-      "num": 1263100,
-      "word": "先梳头再洗头千万别来回揉搓",
-      "onboard_time": 1742742323,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1252902,
@@ -331,6 +331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 645975,
+      "num": 589653,
+      "word": "发现快递里是20多张购物卡赶紧报警",
+      "onboard_time": 1742738360,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 637113,
       "num": 637113,
       "word": "女中医能把伤心脉抢号排队30多天",
@@ -401,14 +409,6 @@
       "onboard_time": 1742707041,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 589653,
-      "num": 589653,
-      "word": "发现快递里是20多张购物卡赶紧报警",
-      "onboard_time": 1742738360,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 578426,
@@ -979,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269984,
+      "num": 269984,
+      "word": "3人冒充孙子4天骗了50万",
+      "onboard_time": 1742740642,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264353,
       "num": 264353,
       "word": "自己在家晒的橘子皮算陈皮吗",
@@ -1059,6 +1067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240620,
+      "num": 240620,
+      "word": "女子在埃及被酒店刁难硬气回应",
+      "onboard_time": 1742757794,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 240113,
       "num": 250002,
       "word": "央视起底卖给青少年的电子烟",
@@ -1128,14 +1144,6 @@
       "word": "200多万买二手房遭遇20年租约",
       "onboard_time": 1742710280,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225104,
-      "num": 225104,
-      "word": "3人冒充孙子4天骗了50万",
-      "onboard_time": 1742740642,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1233,6 +1241,14 @@
       "onboard_time": 1742732842,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206724,
+      "num": 206724,
+      "word": "奶奶捡10000元说找到失主我好高兴",
+      "onboard_time": 1742754014,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 203676,
@@ -1353,14 +1369,6 @@
       "onboard_time": 1742720479,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 192249,
-      "num": 192249,
-      "word": "女子在埃及被酒店刁难硬气回应",
-      "onboard_time": 1742757794,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 191939,
@@ -1633,6 +1641,14 @@
       "onboard_time": 1742713460,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 166415,
+      "num": 182062,
+      "word": "特朗普说只有他能阻止普京",
+      "onboard_time": 1742770997,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 163763,
@@ -2115,14 +2131,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 140030,
-      "num": 140030,
-      "word": "奶奶捡10000元说找到失主我好高兴",
-      "onboard_time": 1742754014,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 139837,
       "num": 139837,
       "word": "第十五届全运会",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1742719522,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139685,
+      "num": 113677,
+      "word": "半个娱乐圈都去F1现场了吧",
+      "onboard_time": 1742746878,
+      "rank": 35,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 138203,
@@ -2371,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124338,
+      "num": 124338,
+      "word": "陆虎没有谁能拆散我的好朋友",
+      "onboard_time": 1742770937,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124106,
       "num": 365228,
       "word": "三只羊整改符合要求具备恢复经营条件",
@@ -2497,14 +2521,6 @@
       "onboard_time": 1742705901,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115318,
-      "num": 89010,
-      "word": "半个娱乐圈都去F1现场了吧",
-      "onboard_time": 1742746878,
-      "rank": 35,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 114815,
@@ -2819,12 +2835,28 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 99613,
+      "num": 99613,
+      "word": "欧国联",
+      "onboard_time": 1742772200,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99430,
       "num": 99430,
       "word": "公牛31分大胜湖人",
       "onboard_time": 1742708299,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98897,
+      "num": 98897,
+      "word": "韩国训练生为了出道变成泰漂",
+      "onboard_time": 1742740101,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 98649,
@@ -2963,20 +2995,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89074,
-      "num": 89074,
-      "word": "韩国训练生为了出道变成泰漂",
-      "onboard_time": 1742740101,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 88587,
-      "num": 88587,
-      "word": "陆虎没有谁能拆散我的好朋友",
-      "onboard_time": 1742770937,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 89135,
+      "num": 89135,
+      "word": "女子与00后大学生生女诉请抚养费",
+      "onboard_time": 1742750175,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87109,
@@ -2993,6 +3017,14 @@
       "onboard_time": 1742712799,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85088,
+      "num": 85088,
+      "word": "内娱四大古装神女",
+      "onboard_time": 1742772200,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 84967,
@@ -3059,14 +3091,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80289,
-      "num": 80289,
-      "word": "女子与00后大学生生女诉请抚养费",
-      "onboard_time": 1742750175,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80176,
       "num": 80176,
       "word": "林忆莲演唱会至少还有你大合唱",
@@ -3081,6 +3105,14 @@
       "onboard_time": 1742714600,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77380,
+      "num": 85012,
+      "word": "刘耀文新歌",
+      "onboard_time": 1742772079,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 76563,
@@ -3155,6 +3187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71001,
+      "num": 71001,
+      "word": "儿子希望妈妈戴上戒指永不放开自己",
+      "onboard_time": 1742757615,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70715,
       "num": 176928,
       "word": "遇风浪从陵水漂到三亚小孩系疍家人",
@@ -3193,6 +3233,22 @@
       "onboard_time": 1742746699,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68231,
+      "num": 68231,
+      "word": "重庆半马女子提前庆祝最后1秒被反超",
+      "onboard_time": 1742772137,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 67753,
+      "num": 67753,
+      "word": "王楚钦出现失误后歪头看球反省",
+      "onboard_time": 1742772137,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 67638,
@@ -3267,6 +3323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 63955,
+      "num": 63955,
+      "word": "葡萄牙vs丹麦",
+      "onboard_time": 1742772137,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63874,
       "num": 63874,
       "word": "刘诗雯回应与林高远混双目标",
@@ -3289,6 +3353,14 @@
       "onboard_time": 1742661320,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 61092,
+      "num": 61092,
+      "word": "6年的阿贝贝破烂不堪女孩仍爱不释手",
+      "onboard_time": 1742772200,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61082,
@@ -3363,12 +3435,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 55311,
-      "num": 55311,
-      "word": "儿子希望妈妈戴上戒指永不放开自己",
-      "onboard_time": 1742757615,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 54402,
+      "num": 54402,
+      "word": "宝蓝说iG真要进世界赛了",
+      "onboard_time": 1742772258,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 52768,
@@ -3393,14 +3465,6 @@
       "onboard_time": 1742710820,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49323,
-      "num": 182062,
-      "word": "特朗普说只有他能阻止普京",
-      "onboard_time": 1742770997,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 46972,
@@ -3503,14 +3567,6 @@
       "num": 44114,
       "word": "刘耀文先行曲海报",
       "onboard_time": 1742749936,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 33539,
-      "num": 55081,
-      "word": "刘耀文新歌",
-      "onboard_time": 1742772079,
       "rank": 42,
       "category": "音乐"
     },
