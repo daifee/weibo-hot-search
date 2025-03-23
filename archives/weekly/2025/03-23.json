@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742740675453,
+  "endTime": 1742743415209,
   "band_list": [
     {
       "raw_hot": 3044323,
@@ -121,6 +121,14 @@
       "onboard_time": 1742730980,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1165039,
+      "num": 1165039,
+      "word": "NJZ宣布暂停活动",
+      "onboard_time": 1742742202,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1131205,
@@ -379,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 568199,
+      "num": 568199,
+      "word": "发现快递里是20多张购物卡赶紧报警",
+      "onboard_time": 1742738360,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 564718,
       "num": 564718,
       "word": "雷军李在镕合影",
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493292,
+      "num": 493292,
+      "word": "小杨哥半年掉粉超1200万",
+      "onboard_time": 1742738783,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 483569,
       "num": 483569,
       "word": "金泰亨减了10kg",
@@ -483,12 +507,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 458863,
+      "num": 458863,
+      "word": "汪苏泷说今天温以凡在台下",
+      "onboard_time": 1742733442,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 451711,
       "num": 451711,
       "word": "美国六代机终于不是PPT了",
       "onboard_time": 1742699481,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 446528,
+      "num": 446528,
+      "word": "雁回时热度",
+      "onboard_time": 1742739502,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 443542,
@@ -505,6 +545,14 @@
       "onboard_time": 1742710280,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437337,
+      "num": 437337,
+      "word": "范丞丞用上了姚译添的行李套",
+      "onboard_time": 1742740943,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 435008,
@@ -683,6 +731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 321424,
+      "num": 321424,
+      "word": "MINJI红发",
+      "onboard_time": 1742740283,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 318302,
       "num": 318302,
       "word": "网传李昀锐张艺凡合作耀眼",
@@ -697,14 +753,6 @@
       "onboard_time": 1742685796,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 311794,
-      "num": 323650,
-      "word": "小杨哥半年掉粉超1200万",
-      "onboard_time": 1742738783,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 308513,
@@ -745,6 +793,14 @@
       "onboard_time": 1742640562,
       "rank": 4,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 296336,
+      "num": 296336,
+      "word": "NJZ新歌",
+      "onboard_time": 1742742323,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 293195,
@@ -811,14 +867,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 281774,
-      "num": 323095,
-      "word": "雁回时热度",
-      "onboard_time": 1742739502,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 281598,
       "num": 281598,
       "word": "奔跑吧 张韶涵",
@@ -833,6 +881,14 @@
       "onboard_time": 1742654844,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279003,
+      "num": 279003,
+      "word": "你的发缝还好吗",
+      "onboard_time": 1742739203,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 278256,
@@ -883,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264825,
+      "num": 447893,
+      "word": "茉莉奶白致歉声明",
+      "onboard_time": 1742742442,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264353,
       "num": 264353,
       "word": "自己在家晒的橘子皮算陈皮吗",
@@ -923,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247132,
+      "num": 247132,
+      "word": "黄子弘凡直播给看嗓子眼",
+      "onboard_time": 1742740943,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244425,
       "num": 244425,
       "word": "奔跑吧终于等来周传雄",
@@ -947,6 +1019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240698,
+      "num": 240698,
+      "word": "剑网3",
+      "onboard_time": 1742741783,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240113,
       "num": 250002,
       "word": "央视起底卖给青少年的电子烟",
@@ -969,14 +1049,6 @@
       "onboard_time": 1742721020,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233316,
-      "num": 233316,
-      "word": "汪苏泷说今天温以凡在台下",
-      "onboard_time": 1742733442,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 233187,
@@ -1011,12 +1083,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228864,
+      "num": 228864,
+      "word": "JDG首个周冠军",
+      "onboard_time": 1742741601,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225720,
       "num": 221274,
       "word": "200多万买二手房遭遇20年租约",
       "onboard_time": 1742710280,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218945,
+      "num": 218945,
+      "word": "3人冒充孙子4天骗了50万",
+      "onboard_time": 1742740642,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215258,
+      "num": 215258,
+      "word": "赵露思粉发挑染",
+      "onboard_time": 1742742982,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215050,
@@ -1057,14 +1153,6 @@
       "onboard_time": 1742655382,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 210648,
-      "num": 210648,
-      "word": "发现快递里是20多张购物卡赶紧报警",
-      "onboard_time": 1742738360,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209262,
@@ -1113,6 +1201,14 @@
       "onboard_time": 1742732842,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204520,
+      "num": 204520,
+      "word": "先梳头再洗头千万别来回揉搓",
+      "onboard_time": 1742742323,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 203676,
@@ -1233,6 +1329,14 @@
       "onboard_time": 1742720479,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191939,
+      "num": 191939,
+      "word": "平越南输中国韩国球迷怒了",
+      "onboard_time": 1742741783,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 191730,
@@ -1443,14 +1547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171286,
-      "num": 171286,
-      "word": "MINJI红发",
-      "onboard_time": 1742740283,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 170678,
       "num": 133217,
       "word": "全款140万买到230平房子",
@@ -1521,6 +1617,14 @@
       "onboard_time": 1742732062,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162272,
+      "num": 162272,
+      "word": "RW战胜eStar",
+      "onboard_time": 1742742741,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 162173,
@@ -1691,6 +1795,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 153890,
+      "num": 321271,
+      "word": "当地称暂不清楚河流铊浓度异常源头",
+      "onboard_time": 1742740161,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153803,
       "num": 153803,
       "word": "奔跑吧",
@@ -1729,6 +1841,14 @@
       "onboard_time": 1742693060,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151742,
+      "num": 151742,
+      "word": "章若楠感谢汪苏泷",
+      "onboard_time": 1742743160,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 151378,
@@ -1979,6 +2099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138115,
+      "num": 138115,
+      "word": "宝妈为让女儿少吃糖用生姜做棒棒糖",
+      "onboard_time": 1742738783,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138024,
       "num": 138024,
       "word": "鞠婧祎陈都灵月鳞绮纪雪夜提灯",
@@ -2009,14 +2137,6 @@
       "onboard_time": 1742687297,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135757,
-      "num": 135757,
-      "word": "宝妈为让女儿少吃糖用生姜做棒棒糖",
-      "onboard_time": 1742738783,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135545,
@@ -2115,6 +2235,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 130124,
+      "num": 124713,
+      "word": "吴艳妮全场致谢后哭了",
+      "onboard_time": 1742740822,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129251,
       "num": 230792,
       "word": "王楚钦澳门世界杯见啦",
@@ -2163,6 +2291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124964,
+      "num": 124964,
+      "word": "胡先煦F1现场生图",
+      "onboard_time": 1742740882,
+      "rank": 47,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 124527,
       "num": 124527,
       "word": "傅菁身在演唱会心在雁回时",
@@ -2209,6 +2345,14 @@
       "onboard_time": 1742691739,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122667,
+      "num": 122667,
+      "word": "白桃星座",
+      "onboard_time": 1742742622,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 122392,
@@ -2353,14 +2497,6 @@
       "onboard_time": 1742659221,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 112825,
-      "num": 112825,
-      "word": "你的发缝还好吗",
-      "onboard_time": 1742739203,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 112675,
@@ -2744,14 +2880,6 @@
       "word": "美机长飞上海忘带护照延误6小时",
       "onboard_time": 1742715018,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90624,
-      "num": 136405,
-      "word": "3人冒充孙子4天骗了50万",
-      "onboard_time": 1742740642,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3179,14 +3307,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 37125,
-      "num": 321271,
-      "word": "当地称暂不清楚河流铊浓度异常源头",
-      "onboard_time": 1742740161,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36706,
       "num": 36706,
       "word": "2天18场马拉松开跑",
@@ -3273,6 +3393,14 @@
       "onboard_time": 1742669535,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25991,
+      "num": 309791,
+      "word": "美参议员拒回应关税伤害美企",
+      "onboard_time": 1742742141,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25207,
