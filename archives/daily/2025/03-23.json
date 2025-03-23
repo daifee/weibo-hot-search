@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742743415209,
+  "endTime": 1742744220758,
   "band_list": [
     {
       "raw_hot": 3044323,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 710281,
+      "num": 710281,
+      "word": "茉莉奶白致歉声明",
+      "onboard_time": 1742742442,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 692649,
       "num": 692649,
       "word": "吴艳妮打破女子60米栏全国纪录",
@@ -339,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 600342,
+      "num": 429823,
+      "word": "赵露思粉发挑染",
+      "onboard_time": 1742742982,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 597079,
       "num": 204251,
       "word": "曝金秀贤超越N号房新料提示",
@@ -371,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 589653,
+      "num": 589653,
+      "word": "发现快递里是20多张购物卡赶紧报警",
+      "onboard_time": 1742738360,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 578426,
       "num": 780065,
       "word": "清明档已有11部影片定档",
@@ -384,14 +408,6 @@
       "word": "从陵水漂流到三亚小孩哥父亲发声",
       "onboard_time": 1742714959,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 568199,
-      "num": 568199,
-      "word": "发现快递里是20多张购物卡赶紧报警",
-      "onboard_time": 1742738360,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -579,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419664,
+      "num": 419664,
+      "word": "你的发缝还好吗",
+      "onboard_time": 1742739203,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 411473,
       "num": 411473,
       "word": "官方回应女生劝阻吸烟被怼",
@@ -617,6 +641,14 @@
       "onboard_time": 1742686518,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 365496,
+      "num": 365496,
+      "word": "先梳头再洗头千万别来回揉搓",
+      "onboard_time": 1742742323,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 355446,
@@ -883,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 279003,
-      "num": 279003,
-      "word": "你的发缝还好吗",
-      "onboard_time": 1742739203,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 278256,
       "num": 278256,
       "word": "太好了是时代少年团我们有救了",
@@ -936,14 +960,6 @@
       "word": "世界小狗日",
       "onboard_time": 1742700020,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 264825,
-      "num": 447893,
-      "word": "茉莉奶白致歉声明",
-      "onboard_time": 1742742442,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1003,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241909,
+      "num": 241909,
+      "word": "章若楠感谢汪苏泷",
+      "onboard_time": 1742743160,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 241787,
       "num": 241787,
       "word": "张雨绮丁程鑫合作舞台",
@@ -1051,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235341,
+      "num": 235341,
+      "word": "JDG首个周冠军",
+      "onboard_time": 1742741601,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 233187,
       "num": 233187,
       "word": "向佐锅盖头卷发",
@@ -1083,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228864,
-      "num": 228864,
-      "word": "JDG首个周冠军",
-      "onboard_time": 1742741601,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 225720,
       "num": 221274,
       "word": "200多万买二手房遭遇20年租约",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1742740642,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215258,
-      "num": 215258,
-      "word": "赵露思粉发挑染",
-      "onboard_time": 1742742982,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 215050,
@@ -1201,14 +1217,6 @@
       "onboard_time": 1742732842,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204520,
-      "num": 204520,
-      "word": "先梳头再洗头千万别来回揉搓",
-      "onboard_time": 1742742323,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 203676,
@@ -1571,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168888,
+      "num": 168888,
+      "word": "白桃星座",
+      "onboard_time": 1742742622,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167658,
       "num": 153298,
       "word": "被卡琳娜帅一大跳",
@@ -1841,14 +1857,6 @@
       "onboard_time": 1742693060,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151742,
-      "num": 151742,
-      "word": "章若楠感谢汪苏泷",
-      "onboard_time": 1742743160,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 151378,
@@ -2292,7 +2300,7 @@
     },
     {
       "raw_hot": 124964,
-      "num": 124964,
+      "num": 176388,
       "word": "胡先煦F1现场生图",
       "onboard_time": 1742740882,
       "rank": 47,
@@ -2345,14 +2353,6 @@
       "onboard_time": 1742691739,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122667,
-      "num": 122667,
-      "word": "白桃星座",
-      "onboard_time": 1742742622,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 122392,
@@ -3315,6 +3315,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 34845,
+      "num": 431745,
+      "word": "时隔15年多再次迎来土星环消失",
+      "onboard_time": 1742743641,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34287,
       "num": 298412,
       "word": "郑钦文感谢球迷深夜陪伴",
@@ -3387,20 +3395,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28920,
+      "num": 309791,
+      "word": "美参议员拒回应关税伤害美企",
+      "onboard_time": 1742742141,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26443,
       "num": 30775,
       "word": "黄子弘凡除了快乐禁止入内",
       "onboard_time": 1742669535,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 25991,
-      "num": 309791,
-      "word": "美参议员拒回应关税伤害美企",
-      "onboard_time": 1742742141,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25207,
@@ -3467,6 +3475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21270,
+      "num": 126575,
+      "word": "鼋头渚的樱花有多惊艳",
+      "onboard_time": 1742744000,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 20416,
       "num": 131521,
       "word": "格力新四大件",
@@ -3521,6 +3537,14 @@
       "onboard_time": 1742707821,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13947,
+      "num": 355252,
+      "word": "徒手破窗勇救4人的哥回忆救人细节",
+      "onboard_time": 1742743821,
+      "rank": 16,
+      "category": "正能量"
     },
     {
       "raw_hot": 13284,

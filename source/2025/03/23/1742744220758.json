@@ -1,0 +1,410 @@
+{
+  "runTime": 1742744220758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1762548,
+        "num": 1762548,
+        "word": "茉莉奶白被曝喝出完整塑料袋",
+        "onboard_time": 1742731401,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 980832,
+        "num": 980832,
+        "word": "NJZ宣布暂停活动",
+        "onboard_time": 1742742202,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74259,
+        "num": 800080,
+        "word": "中国火箭排队上天",
+        "onboard_time": 1742738122,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 710281,
+        "num": 710281,
+        "word": "茉莉奶白致歉声明",
+        "onboard_time": 1742742442,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671989,
+        "num": 671989,
+        "word": "李晟像极了没人发现的枯叶蝶",
+        "onboard_time": 1742734162,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589653,
+        "num": 589653,
+        "word": "发现快递里是20多张购物卡赶紧报警",
+        "onboard_time": 1742738360,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580118,
+        "num": 580118,
+        "word": "红双喜",
+        "onboard_time": 1742734284,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465658,
+        "num": 465658,
+        "word": "小杨哥半年掉粉超1200万",
+        "onboard_time": 1742738783,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 452544,
+        "num": 452544,
+        "word": "汪苏泷说今天温以凡在台下",
+        "onboard_time": 1742733442,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34845,
+        "num": 431745,
+        "word": "时隔15年多再次迎来土星环消失",
+        "onboard_time": 1742743641,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 813650,
+        "num": 429979,
+        "word": "女生花50元租公司6平米卫生间住",
+        "onboard_time": 1742738360,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600342,
+        "num": 429823,
+        "word": "赵露思粉发挑染",
+        "onboard_time": 1742742982,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419664,
+        "num": 419664,
+        "word": "你的发缝还好吗",
+        "onboard_time": 1742739203,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 410714,
+        "num": 410714,
+        "word": "B站曾经顶流UP主现在欠账几百万",
+        "onboard_time": 1742725100,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 365496,
+        "num": 365496,
+        "word": "先梳头再洗头千万别来回揉搓",
+        "onboard_time": 1742742323,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 356109,
+        "num": 356109,
+        "word": "范丞丞用上了姚译添的行李套",
+        "onboard_time": 1742740943,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13947,
+        "num": 355252,
+        "word": "徒手破窗勇救4人的哥回忆救人细节",
+        "onboard_time": 1742743821,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 354418,
+        "num": 354418,
+        "word": "雁回时热度",
+        "onboard_time": 1742739502,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274862,
+        "num": 274862,
+        "word": "MINJI红发",
+        "onboard_time": 1742740283,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264680,
+        "num": 264680,
+        "word": "NJZ新歌",
+        "onboard_time": 1742742323,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 513630,
+        "num": 258850,
+        "word": "温峥嵘我向您道歉",
+        "onboard_time": 1742730980,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246136,
+        "num": 246136,
+        "word": "人人人人人景人人人人人",
+        "onboard_time": 1742723721,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 241909,
+        "num": 241909,
+        "word": "章若楠感谢汪苏泷",
+        "onboard_time": 1742743160,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237895,
+        "num": 237895,
+        "word": "剑网3",
+        "onboard_time": 1742741783,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235341,
+        "num": 235341,
+        "word": "JDG首个周冠军",
+        "onboard_time": 1742741601,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 224984,
+        "num": 224984,
+        "word": "韩国千年古刹被烧毁",
+        "onboard_time": 1742733741,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 194877,
+        "num": 194877,
+        "word": "法拉利撞了法拉利",
+        "onboard_time": 1742722160,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179298,
+        "num": 179298,
+        "word": "3人冒充孙子4天骗了50万",
+        "onboard_time": 1742740642,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177362,
+        "num": 177362,
+        "word": "平越南输中国韩国球迷怒了",
+        "onboard_time": 1742741783,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164630,
+        "num": 176465,
+        "word": "雁回时",
+        "onboard_time": 1742730200,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102322,
+        "num": 176388,
+        "word": "胡先煦F1现场生图",
+        "onboard_time": 1742740882,
+        "rank": 30,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 176349,
+        "num": 176349,
+        "word": "收到月薪60万offer但要偷渡出境",
+        "onboard_time": 1742712321,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168888,
+        "num": 168888,
+        "word": "白桃星座",
+        "onboard_time": 1742742622,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143582,
+        "num": 143582,
+        "word": "西湖2亿人1亿在太子湾",
+        "onboard_time": 1742732300,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 137593,
+        "num": 137593,
+        "word": "孙恩盛 今晚要晚开播一下",
+        "onboard_time": 1742739682,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134337,
+        "num": 134337,
+        "word": "iG全神班回来了",
+        "onboard_time": 1742737102,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132921,
+        "num": 132921,
+        "word": "宁艺卓练习生时期韩语笔记",
+        "onboard_time": 1742733261,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128671,
+        "num": 128671,
+        "word": "吴艳妮无缘女子60米栏决赛",
+        "onboard_time": 1742734584,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126725,
+        "num": 126725,
+        "word": "NJZ香港演出",
+        "onboard_time": 1742738242,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21270,
+        "num": 126575,
+        "word": "鼋头渚的樱花有多惊艳",
+        "onboard_time": 1742744000,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 28920,
+        "num": 126561,
+        "word": "美参议员拒回应关税伤害美企",
+        "onboard_time": 1742742141,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126558,
+        "num": 126558,
+        "word": "樊振东是张本智和最喜欢的球员",
+        "onboard_time": 1742736683,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125903,
+        "num": 125903,
+        "word": "马思纯晒练舞照",
+        "onboard_time": 1742740222,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124421,
+        "num": 124421,
+        "word": "宝妈为让女儿少吃糖用生姜做棒棒糖",
+        "onboard_time": 1742738783,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122555,
+        "num": 122555,
+        "word": "杨幂妈妈庆生照",
+        "onboard_time": 1742726663,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113778,
+        "num": 113778,
+        "word": "三只羊回应何时复播",
+        "onboard_time": 1742729361,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 533952,
+        "num": 113410,
+        "word": "孙卓开始直播带货",
+        "onboard_time": 1742730321,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109768,
+        "num": 109768,
+        "word": "当地称暂不清楚河流铊浓度异常源头",
+        "onboard_time": 1742740161,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108902,
+        "num": 108902,
+        "word": "白鹿低扎发",
+        "onboard_time": 1742733623,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54561,
+        "num": 104651,
+        "word": "赵继伟CBA历史本土助攻王",
+        "onboard_time": 1742738542,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的民生之问#"
+    }
+  }
+}
