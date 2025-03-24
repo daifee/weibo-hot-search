@@ -1,6 +1,6 @@
 {
   "startTime": 1742747228173,
-  "endTime": 1742820511383,
+  "endTime": 1742821407987,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 855920,
+      "num": 855920,
+      "word": "母亲称世纪婴儿去世是医疗事故",
+      "onboard_time": 1742815881,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 855845,
       "num": 390215,
       "word": "石家庄偶遇鹿晗拍摄",
@@ -193,14 +201,6 @@
       "onboard_time": 1742783060,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 787184,
-      "num": 787184,
-      "word": "母亲称世纪婴儿去世是医疗事故",
-      "onboard_time": 1742815881,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 763410,
@@ -459,20 +459,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 472854,
+      "num": 472854,
+      "word": "日本成立统合作战司令部",
+      "onboard_time": 1742819302,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 472582,
+      "num": 308759,
+      "word": "王诗龄粉色小香风套装",
+      "onboard_time": 1742816723,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 467850,
       "num": 309013,
       "word": "女生回应花50元租公司卫生间住",
       "onboard_time": 1742783000,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 464624,
-      "num": 308759,
-      "word": "王诗龄粉色小香风套装",
-      "onboard_time": 1742816723,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 459964,
@@ -571,6 +579,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 398335,
+      "num": 398335,
+      "word": "半熟4男一男二都选了梁田",
+      "onboard_time": 1742819783,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396777,
       "num": 396777,
       "word": "红双喜年会",
@@ -649,14 +665,6 @@
       "onboard_time": 1742791286,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 349939,
-      "num": 349939,
-      "word": "日本成立统合作战司令部",
-      "onboard_time": 1742819302,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 347756,
@@ -747,7 +755,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302120,
+      "raw_hot": 305297,
       "num": 302120,
       "word": "中式恐怖才是真恐怖",
       "onboard_time": 1742818582,
@@ -811,6 +819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 280872,
+      "num": 244801,
+      "word": "韩国警方调查金秀贤金赛纶事件",
+      "onboard_time": 1742819901,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278038,
       "num": 222504,
       "word": "杨洋和妈妈去美发店",
@@ -841,6 +857,14 @@
       "onboard_time": 1742809822,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270958,
+      "num": 201032,
+      "word": "金秀贤称给金赛纶的信是朋友信之一",
+      "onboard_time": 1742819962,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 270702,
@@ -905,6 +929,22 @@
       "onboard_time": 1742796502,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252239,
+      "num": 252239,
+      "word": "王楚钦说我的职业生涯还很长",
+      "onboard_time": 1742819542,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251727,
+      "num": 251727,
+      "word": "多邻国崩了",
+      "onboard_time": 1742820682,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 251146,
@@ -1065,14 +1105,6 @@
       "onboard_time": 1742794523,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 223891,
-      "num": 192392,
-      "word": "金秀贤称给金赛纶的信是朋友信之一",
-      "onboard_time": 1742819962,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 223307,
@@ -1251,14 +1283,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 202834,
-      "num": 151352,
-      "word": "韩国警方调查金秀贤金赛纶事件",
-      "onboard_time": 1742819901,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201559,
       "num": 201559,
       "word": "樱桃琥珀上星播出",
@@ -1291,6 +1315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199664,
+      "num": 199664,
+      "word": "光遇",
+      "onboard_time": 1742820682,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198361,
       "num": 178573,
       "word": "当老师讲近亲结婚的危害时",
@@ -1315,12 +1347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195875,
-      "num": 195875,
-      "word": "半熟4男一男二都选了梁田",
-      "onboard_time": 1742819783,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 194764,
+      "num": 248731,
+      "word": "闵熙珍因职场霸凌被罚款",
+      "onboard_time": 1742819661,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 194345,
@@ -1331,16 +1363,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 192391,
-      "num": 192391,
-      "word": "闵熙珍因职场霸凌被罚款",
-      "onboard_time": 1742819661,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192289,
-      "num": 192289,
+      "num": 201094,
       "word": "雁回时坠马初吻",
       "onboard_time": 1742812821,
       "rank": 46,
@@ -1755,14 +1779,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 145009,
-      "num": 145009,
-      "word": "王楚钦说我的职业生涯还很长",
-      "onboard_time": 1742819542,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143064,
       "num": 143064,
       "word": "芒果来了对新姐妹",
@@ -1784,6 +1800,14 @@
       "word": "乐华年轻的战场居然还有续集",
       "onboard_time": 1742812761,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140736,
+      "num": 140736,
+      "word": "张韶涵再现皇甫珊",
+      "onboard_time": 1742816542,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -1817,6 +1841,14 @@
       "onboard_time": 1742801422,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137025,
+      "num": 137025,
+      "word": "张晚意你确定不闯一下霸总赛道吗",
+      "onboard_time": 1742818642,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 136848,
@@ -1899,20 +1931,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132057,
+      "num": 132057,
+      "word": "男子骑行遭风筝线割穿头盔",
+      "onboard_time": 1742820382,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131870,
       "num": 131870,
       "word": "孙颖莎红双喜活动",
       "onboard_time": 1742813182,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131205,
-      "num": 131205,
-      "word": "张韶涵再现皇甫珊",
-      "onboard_time": 1742816542,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 131135,
@@ -2131,14 +2163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119312,
-      "num": 119312,
-      "word": "张晚意你确定不闯一下霸总赛道吗",
-      "onboard_time": 1742818642,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 118265,
       "num": 118265,
       "word": "半熟4女三圈粉",
@@ -2339,14 +2363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103263,
-      "num": 103263,
-      "word": "男子骑行遭风筝线割穿头盔",
-      "onboard_time": 1742820382,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102986,
       "num": 102986,
       "word": "奔跑吧13出发图",
@@ -2361,6 +2377,14 @@
       "onboard_time": 1742816124,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102562,
+      "num": 245768,
+      "word": "王毅和日中友好七团体代表挽手合照",
+      "onboard_time": 1742820503,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 102270,
@@ -2483,6 +2507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94584,
+      "num": 305434,
+      "word": "当地正在核查17岁少女代孕事件",
+      "onboard_time": 1742819302,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94355,
       "num": 225852,
       "word": "张子枫InStyle三月刊开季封面",
@@ -2515,12 +2547,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89747,
+      "num": 89747,
+      "word": "A股三大指数尾盘集体翻红",
+      "onboard_time": 1742821043,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89135,
       "num": 89135,
       "word": "女子与00后大学生生女诉请抚养费",
       "onboard_time": 1742750175,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85831,
+      "num": 85831,
+      "word": "无人机编队为国足加油",
+      "onboard_time": 1742821162,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 85123,
@@ -2545,6 +2593,14 @@
       "onboard_time": 1742738122,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 83733,
+      "num": 83733,
+      "word": "周传雄感谢了周深和孟子义",
+      "onboard_time": 1742816301,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 83725,
@@ -2576,6 +2632,14 @@
       "word": "孙颖莎率队小组第一出线",
       "onboard_time": 1742796502,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78206,
+      "num": 78206,
+      "word": "林高远说刘诗雯站在这就是信心",
+      "onboard_time": 1742818582,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2697,14 +2761,6 @@
       "onboard_time": 1742797342,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65179,
-      "num": 305434,
-      "word": "当地正在核查17岁少女代孕事件",
-      "onboard_time": 1742819302,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64791,
@@ -2907,6 +2963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46171,
+      "num": 312730,
+      "word": "DeepSeek分析武汉最好吃的夜市",
+      "onboard_time": 1742819901,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 45966,
       "num": 203504,
       "word": "八小时之外休而不息待破解",
@@ -3099,6 +3163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 31765,
+      "num": 304721,
+      "word": "男子为复合花2万买魅力提升课",
+      "onboard_time": 1742819901,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31195,
       "num": 336418,
       "word": "韩国山火紧急等级调至最高级",
@@ -3219,28 +3291,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 21790,
-      "num": 312730,
-      "word": "DeepSeek分析武汉最好吃的夜市",
-      "onboard_time": 1742819901,
-      "rank": 13,
-      "category": "美食"
-    },
-    {
       "raw_hot": 18050,
       "num": 237157,
       "word": "四川十万亩桃花朵朵开",
       "onboard_time": 1742815881,
       "rank": 19,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 16904,
-      "num": 304721,
-      "word": "男子为复合花2万买魅力提升课",
-      "onboard_time": 1742819901,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16545,
