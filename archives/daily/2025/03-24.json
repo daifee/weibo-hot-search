@@ -1,6 +1,6 @@
 {
   "startTime": 1742747228173,
-  "endTime": 1742805136719,
+  "endTime": 1742805946582,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 855845,
+      "num": 390215,
+      "word": "石家庄偶遇鹿晗拍摄",
+      "onboard_time": 1742804362,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 852969,
       "num": 738381,
       "word": "Prada 朱志鑫",
@@ -307,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 491157,
+      "num": 456183,
+      "word": "分手后男子拉账单发现1年花50万",
+      "onboard_time": 1742800343,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 480308,
       "num": 480308,
       "word": "OPPO",
@@ -329,14 +345,6 @@
       "onboard_time": 1742742202,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 456183,
-      "num": 456183,
-      "word": "分手后男子拉账单发现1年花50万",
-      "onboard_time": 1742800343,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 453533,
@@ -368,6 +376,14 @@
       "word": "熊孩子丢湿巾砸中私家车赔7000元",
       "onboard_time": 1742780419,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424137,
+      "num": 473476,
+      "word": "钱存越久越亏可能正在成为现实",
+      "onboard_time": 1742801062,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -427,20 +443,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367436,
+      "num": 367436,
+      "word": "王嘉尔speed打乒乓球",
+      "onboard_time": 1742804243,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359396,
       "num": 359396,
       "word": "王源官宣三巡",
       "onboard_time": 1742782460,
       "rank": 33,
       "category": "演出,艺人"
-    },
-    {
-      "raw_hot": 356881,
-      "num": 473476,
-      "word": "钱存越久越亏可能正在成为现实",
-      "onboard_time": 1742801062,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 356184,
@@ -457,22 +473,6 @@
       "onboard_time": 1742791286,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 350078,
-      "num": 350078,
-      "word": "石家庄偶遇鹿晗拍摄",
-      "onboard_time": 1742804362,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 349194,
-      "num": 349194,
-      "word": "王嘉尔speed打乒乓球",
-      "onboard_time": 1742804243,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 347756,
@@ -539,6 +539,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 309602,
+      "num": 455373,
+      "word": "心源性猝死前有哪些征兆",
+      "onboard_time": 1742799802,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 306098,
       "num": 285667,
       "word": "李昀锐出妆",
@@ -547,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303928,
-      "num": 455373,
-      "word": "心源性猝死前有哪些征兆",
-      "onboard_time": 1742799802,
-      "rank": 19,
-      "category": "健康医疗"
+      "raw_hot": 300598,
+      "num": 300598,
+      "word": "青岛23岁女大学生凌晨外出失联四天",
+      "onboard_time": 1742803762,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296887,
@@ -747,6 +755,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 238553,
+      "num": 238553,
+      "word": "海漂一天一夜的小孩哥又出去玩了",
+      "onboard_time": 1742800343,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237931,
       "num": 112783,
       "word": "温峥嵘我向您道歉",
@@ -848,14 +864,6 @@
       "word": "上海现9.9元共享工位",
       "onboard_time": 1742797042,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211291,
-      "num": 211291,
-      "word": "海漂一天一夜的小孩哥又出去玩了",
-      "onboard_time": 1742800343,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1027,6 +1035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185199,
+      "num": 185199,
+      "word": "雷军回武汉大学了",
+      "onboard_time": 1742803821,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 185142,
       "num": 185142,
       "word": "黄晓明让大家猜有哪些演员",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1742778200,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174362,
+      "num": 174362,
+      "word": "刘诗诗爆改风景博主",
+      "onboard_time": 1742805201,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 173101,
@@ -1099,14 +1123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167415,
-      "num": 167415,
-      "word": "青岛23岁女大学生凌晨外出失联四天",
-      "onboard_time": 1742803762,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166415,
       "num": 182062,
       "word": "特朗普说只有他能阻止普京",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1742786841,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 164257,
-      "num": 164257,
-      "word": "雷军回武汉大学了",
-      "onboard_time": 1742803821,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 164213,
@@ -1187,8 +1195,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 158300,
-      "num": 158300,
+      "raw_hot": 158371,
+      "num": 158371,
       "word": "将门毒后",
       "onboard_time": 1742803521,
       "rank": 31,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1742795364,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149469,
+      "num": 149469,
+      "word": "唐艺昕裸背红裙",
+      "onboard_time": 1742804782,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 148636,
@@ -1355,12 +1371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132726,
-      "num": 132726,
-      "word": "唐艺昕裸背红裙",
-      "onboard_time": 1742804782,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 133454,
+      "num": 284714,
+      "word": "男童被生母及男友殴打致死案姥姥发声",
+      "onboard_time": 1742804960,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131135,
@@ -1539,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116204,
+      "num": 116204,
+      "word": "玛丽亚凯莉本人官宣上海演唱会",
+      "onboard_time": 1742804062,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115716,
       "num": 107531,
       "word": "雁回时",
@@ -1555,12 +1579,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 113479,
+      "num": 113479,
+      "word": "SEVENTEEN克拉棒",
+      "onboard_time": 1742805563,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111933,
       "num": 111933,
       "word": "章若楠双眼wink",
       "onboard_time": 1742795482,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111906,
+      "num": 111906,
+      "word": "南部战区热血MV向着胜利",
+      "onboard_time": 1742805621,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 109631,
@@ -1721,6 +1761,14 @@
       "onboard_time": 1742744302,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97332,
+      "num": 97332,
+      "word": "印度庆典活动中30米高塔突然倒塌",
+      "onboard_time": 1742805921,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96823,
@@ -1923,14 +1971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65613,
-      "num": 159699,
-      "word": "男童被生母及男友殴打致死案姥姥发声",
-      "onboard_time": 1742804960,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65440,
       "num": 228939,
       "word": "杭州全城为国足打call",
@@ -1969,6 +2009,14 @@
       "onboard_time": 1742772137,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63850,
+      "num": 464186,
+      "word": "餐饮店禁烟应为公众基本共识",
+      "onboard_time": 1742804182,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63438,
@@ -2219,12 +2267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32952,
-      "num": 464186,
-      "word": "餐饮店禁烟应为公众基本共识",
-      "onboard_time": 1742804182,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 32923,
+      "num": 347981,
+      "word": "非法代孕中介透露代孕细节",
+      "onboard_time": 1742805441,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 32516,

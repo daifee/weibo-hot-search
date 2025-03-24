@@ -1,0 +1,410 @@
+{
+  "runTime": 1742805946582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2074298,
+        "num": 2074298,
+        "word": "茶百道发文致歉",
+        "onboard_time": 1742800762,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1696416,
+        "num": 1696416,
+        "word": "世纪婴儿发烧后硬挺了5天",
+        "onboard_time": 1742802861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41235,
+        "num": 1161278,
+        "word": "赏花经济赋能乡村振兴",
+        "onboard_time": 1742786841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1010508,
+        "num": 1010508,
+        "word": "2000年0时0分出生的世纪婴儿去世",
+        "onboard_time": 1742793263,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 859859,
+        "num": 859859,
+        "word": "日本全面取消女警裙装制服",
+        "onboard_time": 1742799202,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 548924,
+        "num": 548924,
+        "word": "将门毒后 刘晓庆陈宝国",
+        "onboard_time": 1742800641,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503479,
+        "num": 503479,
+        "word": "郭麒麟正面回应德云社继承人",
+        "onboard_time": 1742794883,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466203,
+        "num": 466203,
+        "word": "余承东刘亦菲直播",
+        "onboard_time": 1742801602,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424137,
+        "num": 424137,
+        "word": "钱存越久越亏可能正在成为现实",
+        "onboard_time": 1742801062,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63850,
+        "num": 422556,
+        "word": "餐饮店禁烟应为公众基本共识",
+        "onboard_time": 1742804182,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2124723,
+        "num": 399185,
+        "word": "考公博主吴桐 塌房",
+        "onboard_time": 1742802802,
+        "rank": 10,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 855845,
+        "num": 390215,
+        "word": "石家庄偶遇鹿晗拍摄",
+        "onboard_time": 1742804362,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491157,
+        "num": 379483,
+        "word": "分手后男子拉账单发现1年花50万",
+        "onboard_time": 1742800343,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367436,
+        "num": 367436,
+        "word": "王嘉尔speed打乒乓球",
+        "onboard_time": 1742804243,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32923,
+        "num": 347981,
+        "word": "非法代孕中介透露代孕细节",
+        "onboard_time": 1742805441,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 341847,
+        "num": 341847,
+        "word": "14岁等等好帅",
+        "onboard_time": 1742790563,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328426,
+        "num": 328426,
+        "word": "刘亦菲手捧玫瑰美我一跳",
+        "onboard_time": 1742801422,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309602,
+        "num": 309602,
+        "word": "心源性猝死前有哪些征兆",
+        "onboard_time": 1742799802,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300598,
+        "num": 300598,
+        "word": "青岛23岁女大学生凌晨外出失联四天",
+        "onboard_time": 1742803762,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133454,
+        "num": 284714,
+        "word": "男童被生母及男友殴打致死案姥姥发声",
+        "onboard_time": 1742804960,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270274,
+        "num": 270274,
+        "word": "避谶",
+        "onboard_time": 1742795784,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238553,
+        "num": 238553,
+        "word": "海漂一天一夜的小孩哥又出去玩了",
+        "onboard_time": 1742800343,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231463,
+        "num": 231463,
+        "word": "水果骗局",
+        "onboard_time": 1742786121,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207292,
+        "num": 207292,
+        "word": "减重医生42天减48斤",
+        "onboard_time": 1742789062,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 172779,
+        "num": 202856,
+        "word": "A股海洋经济概念拉升",
+        "onboard_time": 1742804602,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201041,
+        "num": 201041,
+        "word": "辛云来演技",
+        "onboard_time": 1742802742,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185199,
+        "num": 185199,
+        "word": "雷军回武汉大学了",
+        "onboard_time": 1742803821,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174362,
+        "num": 174362,
+        "word": "刘诗诗爆改风景博主",
+        "onboard_time": 1742805201,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158371,
+        "num": 158371,
+        "word": "将门毒后",
+        "onboard_time": 1742803521,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151085,
+        "num": 151085,
+        "word": "人 别叫我土狗",
+        "onboard_time": 1742800222,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149469,
+        "num": 149469,
+        "word": "唐艺昕裸背红裙",
+        "onboard_time": 1742804782,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149353,
+        "num": 149353,
+        "word": "何泓姗选组 上错花轿嫁错人",
+        "onboard_time": 1742800401,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146862,
+        "num": 146862,
+        "word": "金秀贤方否认至今为止的一切",
+        "onboard_time": 1742792665,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141852,
+        "num": 141852,
+        "word": "3岁娃暴发性心肌炎确诊到去世仅3小时",
+        "onboard_time": 1742791764,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140026,
+        "num": 140026,
+        "word": "世纪婴儿母亲发声",
+        "onboard_time": 1742803222,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137182,
+        "num": 137182,
+        "word": "周深孟子义周传雄史诗级会面",
+        "onboard_time": 1742801483,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133896,
+        "num": 133896,
+        "word": "困在没有退休金日子里的父母",
+        "onboard_time": 1742790623,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131195,
+        "num": 131195,
+        "word": "广州卫健委正核实17岁女孩代孕",
+        "onboard_time": 1742801422,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124893,
+        "num": 124893,
+        "word": "奔跑吧全员千禧风",
+        "onboard_time": 1742798242,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119669,
+        "num": 119669,
+        "word": "金秀贤告发N号房爆料记者",
+        "onboard_time": 1742794762,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116204,
+        "num": 116204,
+        "word": "玛丽亚凯莉本人官宣上海演唱会",
+        "onboard_time": 1742804062,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114495,
+        "num": 114495,
+        "word": "茶百道",
+        "onboard_time": 1742793984,
+        "rank": 41,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 113479,
+        "num": 113479,
+        "word": "SEVENTEEN克拉棒",
+        "onboard_time": 1742805563,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112838,
+        "num": 112838,
+        "word": "李昀锐出妆",
+        "onboard_time": 1742798061,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111906,
+        "num": 111906,
+        "word": "南部战区热血MV向着胜利",
+        "onboard_time": 1742805621,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 103140,
+        "num": 103140,
+        "word": "张韶涵奔跑吧重现公主小妹",
+        "onboard_time": 1742794043,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102027,
+        "num": 102027,
+        "word": "等等鼻子和孙俪太像了",
+        "onboard_time": 1742802082,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101359,
+        "num": 101359,
+        "word": "有你的时光里定档",
+        "onboard_time": 1742801782,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99968,
+        "num": 99968,
+        "word": "卫枝少女叽的贵卡出生了",
+        "onboard_time": 1742804421,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97332,
+        "num": 97332,
+        "word": "印度庆典活动中30米高塔突然倒塌",
+        "onboard_time": 1742805921,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记赴贵州云南考察纪实#"
+    }
+  }
+}
