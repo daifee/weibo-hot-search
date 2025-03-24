@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742852198828,
+  "endTime": 1742855042274,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -1387,6 +1387,14 @@
       "category": "互联网,教育"
     },
     {
+      "raw_hot": 353270,
+      "num": 411540,
+      "word": "远洋渔船船长在公海被船员杀害抛海",
+      "onboard_time": 1742832799,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350154,
       "num": 350154,
       "word": "陈都灵内娱樱花树",
@@ -1897,14 +1905,6 @@
       "onboard_time": 1742794585,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269577,
-      "num": 269577,
-      "word": "远洋渔船船长在公海被船员杀害抛海",
-      "onboard_time": 1742832799,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 267711,
@@ -4675,6 +4675,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120347,
+      "num": 120347,
+      "word": "网传医院工作人员疑私下处理胎盘",
+      "onboard_time": 1742843414,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120169,
       "num": 159855,
       "word": "好险差点就听到Jennie唱歌",
@@ -5851,14 +5859,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 76670,
-      "num": 76670,
-      "word": "网传医院工作人员疑私下处理胎盘",
-      "onboard_time": 1742843414,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76563,
       "num": 76563,
       "word": "袁一琦25岁最幸福的事",
@@ -6155,6 +6155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63487,
+      "num": 63487,
+      "word": "杜特尔特赴香港系私人度假行程",
+      "onboard_time": 1742846593,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63399,
       "num": 1192696,
       "word": "当中国古建邂逅春光",
@@ -6435,6 +6443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 47703,
+      "num": 47703,
+      "word": "可能交警有时候也挺想报警的",
+      "onboard_time": 1742850374,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47270,
       "num": 124712,
       "word": "哈登轻伤不下火线",
@@ -6515,14 +6531,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 43740,
-      "num": 43740,
-      "word": "杜特尔特赴香港系私人度假行程",
-      "onboard_time": 1742846593,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 43071,
       "num": 177197,
       "word": "马龙王楚钦率队小组第一出线",
@@ -6545,6 +6553,14 @@
       "onboard_time": 1742791165,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42454,
+      "num": 42454,
+      "word": "上官正义称代孕妈妈中不乏高学历者",
+      "onboard_time": 1742848573,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42428,
@@ -6595,6 +6611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40787,
+      "num": 43152,
+      "word": "赵丽颖害羞成这样",
+      "onboard_time": 1742838555,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40764,
       "num": 227523,
       "word": "马龙林高远击掌",
@@ -6643,20 +6667,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37632,
-      "num": 43152,
-      "word": "赵丽颖害羞成这样",
-      "onboard_time": 1742838555,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 37482,
       "num": 126620,
       "word": "刷手机带来的最坏的影响",
       "onboard_time": 1742822480,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 37335,
+      "num": 37335,
+      "word": "卫健委回应医院员工私下处理胎盘",
+      "onboard_time": 1742853133,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37200,
@@ -6771,6 +6795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32290,
+      "num": 32290,
+      "word": "书卷一梦",
+      "onboard_time": 1742850134,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32181,
       "num": 165011,
       "word": "星际宝贝确认引进",
@@ -6801,6 +6833,14 @@
       "onboard_time": 1742654724,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31694,
+      "num": 31693,
+      "word": "吴昕食物砸头转场视频",
+      "onboard_time": 1742849594,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 31497,
@@ -6915,14 +6955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27625,
-      "num": 27625,
-      "word": "上官正义称代孕妈妈中不乏高学历者",
-      "onboard_time": 1742848573,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27497,
       "num": 55011,
       "word": "荷兰警方针对性搜索罗生门时发现男尸",
@@ -7019,6 +7051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24724,
+      "num": 42310,
+      "word": "这次查车情况实在太复杂了",
+      "onboard_time": 1742851574,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24661,
       "num": 383323,
       "word": "文化中国行吟咏春之美",
@@ -7043,14 +7083,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 23659,
-      "num": 36083,
-      "word": "可能交警有时候也挺想报警的",
-      "onboard_time": 1742850374,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23495,
       "num": 183238,
       "word": "2025汉马最小冠军仅15岁",
@@ -7065,6 +7097,14 @@
       "onboard_time": 1742745500,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 21704,
+      "num": 21704,
+      "word": "当地教育局通报男子救下被欺凌学生",
+      "onboard_time": 1742838075,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 21383,
@@ -7107,14 +7147,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 20518,
-      "num": 20518,
-      "word": "当地教育局通报男子救下被欺凌学生",
-      "onboard_time": 1742838075,
-      "rank": 39,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 20416,
       "num": 131521,
       "word": "格力新四大件",
@@ -7123,12 +7155,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 19031,
-      "num": 19031,
-      "word": "书卷一梦",
-      "onboard_time": 1742850134,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 18300,
+      "num": 35155,
+      "word": "无人机拍下众人狂奔施救全程",
+      "onboard_time": 1742840773,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18147,
@@ -7145,14 +7177,6 @@
       "onboard_time": 1742815881,
       "rank": 19,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 17947,
-      "num": 35155,
-      "word": "无人机拍下众人狂奔施救全程",
-      "onboard_time": 1742840773,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17839,
@@ -7193,6 +7217,14 @@
       "onboard_time": 1742751676,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15709,
+      "num": 20987,
+      "word": "谢浩男称自己短暂干过保安",
+      "onboard_time": 1742845754,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15537,
@@ -7243,28 +7275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14012,
-      "num": 14683,
-      "word": "谢浩男称自己短暂干过保安",
-      "onboard_time": 1742845754,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13947,
       "num": 355252,
       "word": "徒手破窗勇救4人的哥回忆救人细节",
       "onboard_time": 1742743821,
       "rank": 16,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 13783,
-      "num": 14670,
-      "word": "吴昕食物砸头转场视频",
-      "onboard_time": 1742849594,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 13284,
@@ -7321,14 +7337,6 @@
       "onboard_time": 1742760073,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10796,
-      "num": 42310,
-      "word": "这次查车情况实在太复杂了",
-      "onboard_time": 1742851574,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10742,
