@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742773015721,
+  "endTime": 1742781190173,
   "band_list": [
     {
       "raw_hot": 3044323,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 945289,
+      "num": 1151246,
+      "word": "四川一水库水位下降露出一座古墓",
+      "onboard_time": 1742774902,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 867219,
       "num": 867219,
       "word": "三只羊公司缴纳罚没款6894.95万元",
@@ -209,6 +217,14 @@
       "onboard_time": 1742722160,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 845665,
+      "num": 232275,
+      "word": "金秀贤方起诉散布半裸洗碗照片者",
+      "onboard_time": 1742779879,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 823003,
@@ -339,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 645579,
+      "num": 231604,
+      "word": "难听",
+      "onboard_time": 1742775741,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 637113,
       "num": 637113,
       "word": "女中医能把伤心脉抢号排队30多天",
@@ -361,6 +385,14 @@
       "onboard_time": 1742648843,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 608483,
+      "num": 231088,
+      "word": "K总否认老婆整容",
+      "onboard_time": 1742775741,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 605065,
@@ -451,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 545648,
+      "num": 545648,
+      "word": "哈马斯新任领导人被打死",
+      "onboard_time": 1742774720,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 511845,
       "num": 511845,
       "word": "吴艳妮无缘女子60米栏决赛",
@@ -481,6 +521,14 @@
       "onboard_time": 1742701880,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 495112,
+      "num": 230792,
+      "word": "禹宙中欣",
+      "onboard_time": 1742775741,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 493292,
@@ -545,6 +593,14 @@
       "onboard_time": 1742733442,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 453533,
+      "num": 453533,
+      "word": "奶奶捡10000元说找到失主我好高兴",
+      "onboard_time": 1742754014,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 451711,
@@ -627,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 410585,
+      "num": 269984,
+      "word": "3人冒充孙子4天骗了50万",
+      "onboard_time": 1742740642,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 390568,
       "num": 390568,
       "word": "美貌成为她报复的手段",
@@ -657,6 +721,14 @@
       "onboard_time": 1742686518,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356184,
+      "num": 356184,
+      "word": "奔跑吧武汉录制",
+      "onboard_time": 1742773700,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 355446,
@@ -835,6 +907,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 301568,
+      "num": 301568,
+      "word": "这波升温后又是剧烈降温",
+      "onboard_time": 1742777840,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296887,
+      "num": 296887,
+      "word": "多地气温满30减20",
+      "onboard_time": 1742778381,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296336,
       "num": 296336,
       "word": "NJZ新歌",
@@ -865,6 +953,14 @@
       "onboard_time": 1742727439,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 289843,
+      "num": 227551,
+      "word": "熊孩子丢湿巾砸中私家车赔7000元",
+      "onboard_time": 1742780419,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287388,
@@ -979,14 +1075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 269984,
-      "num": 269984,
-      "word": "3人冒充孙子4天骗了50万",
-      "onboard_time": 1742740642,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 264353,
       "num": 264353,
       "word": "自己在家晒的橘子皮算陈皮吗",
@@ -1025,6 +1113,14 @@
       "onboard_time": 1742700620,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247803,
+      "num": 247803,
+      "word": "周杰伦林志颖法拉利领队合影",
+      "onboard_time": 1742778200,
+      "rank": 8,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 247132,
@@ -1115,6 +1211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232930,
+      "num": 232930,
+      "word": "韩德洙恢复韩国代总统职权",
+      "onboard_time": 1742779100,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 229862,
       "num": 259885,
       "word": "哪吒2超153亿",
@@ -1147,8 +1251,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224619,
+      "num": 224619,
+      "word": "当一个大学生决定贯彻睡门",
+      "onboard_time": 1742778321,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216003,
-      "num": 216003,
+      "num": 228951,
       "word": "湖南卫视连发15条王源",
       "onboard_time": 1742744720,
       "rank": 23,
@@ -1168,6 +1280,14 @@
       "word": "山东一公园马匹撞伤多人有人进ICU",
       "onboard_time": 1742737881,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213468,
+      "num": 213468,
+      "word": "山东探明我国首个超亿吨级页岩油田",
+      "onboard_time": 1742778920,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1243,12 +1363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206724,
-      "num": 206724,
-      "word": "奶奶捡10000元说找到失主我好高兴",
-      "onboard_time": 1742754014,
-      "rank": 9,
-      "category": "正能量"
+      "raw_hot": 205779,
+      "num": 171916,
+      "word": "男子泡7年药酒发现海马是塑料",
+      "onboard_time": 1742774902,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205355,
+      "num": 205355,
+      "word": "半个娱乐圈都去F1现场了吧",
+      "onboard_time": 1742746878,
+      "rank": 35,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 203676,
@@ -1627,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168983,
+      "num": 168983,
+      "word": "6年的阿贝贝破烂不堪女孩仍爱不释手",
+      "onboard_time": 1742772200,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167658,
       "num": 153298,
       "word": "被卡琳娜帅一大跳",
@@ -1697,6 +1833,14 @@
       "onboard_time": 1742701760,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162007,
+      "num": 229090,
+      "word": "韩国训练生为了出道变成泰漂",
+      "onboard_time": 1742740101,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 161506,
@@ -2147,14 +2291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139685,
-      "num": 113677,
-      "word": "半个娱乐圈都去F1现场了吧",
-      "onboard_time": 1742746878,
-      "rank": 35,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 138203,
       "num": 138203,
       "word": "我家的小狗",
@@ -2195,6 +2331,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 136208,
+      "num": 228114,
+      "word": "哪吒",
+      "onboard_time": 1742780660,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135907,
       "num": 135907,
       "word": "花3万8买了条80平的老船",
@@ -2225,6 +2369,14 @@
       "onboard_time": 1742690839,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134941,
+      "num": 225031,
+      "word": "花花是春天攒下的惊喜吧",
+      "onboard_time": 1742778200,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134710,
@@ -2259,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133670,
+      "num": 133670,
+      "word": "龙队接受采访王楚钦头也不回跑了",
+      "onboard_time": 1742777900,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133574,
       "num": 133574,
       "word": "谁允许你们大学生这么走秀的",
@@ -2273,6 +2433,14 @@
       "onboard_time": 1742711719,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133060,
+      "num": 133060,
+      "word": "父亲回应郑中基婚变传闻",
+      "onboard_time": 1742779579,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 132402,
@@ -2337,6 +2505,22 @@
       "onboard_time": 1742728700,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126555,
+      "num": 126555,
+      "word": "官方通报千禾味业产品抽检结果",
+      "onboard_time": 1742777840,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126445,
+      "num": 126445,
+      "word": "内娱四大古装神女",
+      "onboard_time": 1742772200,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 125830,
@@ -2480,6 +2664,14 @@
       "word": "F1上海站LV",
       "onboard_time": 1742725100,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119379,
+      "num": 225901,
+      "word": "维金斯42分",
+      "onboard_time": 1742779341,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -2795,6 +2987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100750,
+      "num": 100750,
+      "word": "OPPO Enco Free4",
+      "onboard_time": 1742781019,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 100668,
       "num": 100668,
       "word": "印度男子看视频自学割阑尾",
@@ -2808,6 +3008,14 @@
       "word": "开往春天的列车出发了",
       "onboard_time": 1742651243,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100456,
+      "num": 100456,
+      "word": "男子网上学小妙招蒸鞋损失2000",
+      "onboard_time": 1742780419,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2835,6 +3043,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 99813,
+      "num": 99813,
+      "word": "汪苏泷专门让徐良点歌",
+      "onboard_time": 1742780599,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99613,
       "num": 99613,
       "word": "欧国联",
@@ -2849,14 +3065,6 @@
       "onboard_time": 1742708299,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98897,
-      "num": 98897,
-      "word": "韩国训练生为了出道变成泰漂",
-      "onboard_time": 1742740101,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 98649,
@@ -2891,6 +3099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97666,
+      "num": 97666,
+      "word": "Prada 朱志鑫",
+      "onboard_time": 1742781080,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 97638,
       "num": 97638,
       "word": "西山居 陆深",
@@ -2913,6 +3129,14 @@
       "onboard_time": 1742708960,
       "rank": 43,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 96121,
+      "num": 96121,
+      "word": "玫瑰的故事荣誉推荐作品",
+      "onboard_time": 1742780240,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 95845,
@@ -2987,6 +3211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90930,
+      "num": 90930,
+      "word": "王楚钦出现失误后歪头看球反省",
+      "onboard_time": 1742772137,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89701,
       "num": 89701,
       "word": "勇士vs老鹰",
@@ -3017,14 +3249,6 @@
       "onboard_time": 1742712799,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85088,
-      "num": 85088,
-      "word": "内娱四大古装神女",
-      "onboard_time": 1742772200,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 84967,
@@ -3105,6 +3329,14 @@
       "onboard_time": 1742714600,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78182,
+      "num": 78182,
+      "word": "泽连斯基称乌美沙特会谈非常有益",
+      "onboard_time": 1742774720,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77380,
@@ -3243,14 +3475,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 67753,
-      "num": 67753,
-      "word": "王楚钦出现失误后歪头看球反省",
-      "onboard_time": 1742772137,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67638,
       "num": 67638,
       "word": "丝塔芙红包",
@@ -3353,14 +3577,6 @@
       "onboard_time": 1742661320,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 61092,
-      "num": 61092,
-      "word": "6年的阿贝贝破烂不堪女孩仍爱不释手",
-      "onboard_time": 1742772200,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61082,
