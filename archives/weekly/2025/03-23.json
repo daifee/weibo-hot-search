@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742837998542,
+  "endTime": 1742841235803,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -5883,6 +5883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75152,
+      "num": 75152,
+      "word": "郑钦文vs克鲁格",
+      "onboard_time": 1742836396,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74896,
       "num": 298659,
       "word": "汉马选手边跑边嗦热干面",
@@ -6257,14 +6265,6 @@
       "onboard_time": 1742718621,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 58554,
-      "num": 58554,
-      "word": "郑钦文vs克鲁格",
-      "onboard_time": 1742836396,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 58333,
@@ -6819,6 +6819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30779,
+      "num": 30779,
+      "word": "赵丽颖害羞成这样",
+      "onboard_time": 1742838555,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30489,
       "num": 586911,
       "word": "文化中国行看春天里的中国",
@@ -7059,6 +7067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20518,
+      "num": 20518,
+      "word": "当地教育局通报男子救下被欺凌学生",
+      "onboard_time": 1742838075,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 20416,
       "num": 131521,
       "word": "格力新四大件",
@@ -7131,6 +7147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14656,
+      "num": 25282,
+      "word": "别让风筝线变成伤人线",
+      "onboard_time": 1742839934,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14102,
       "num": 54213,
       "word": "以色列对黎巴嫩发动新一轮空袭",
@@ -7193,6 +7217,14 @@
       "onboard_time": 1742835558,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 12011,
+      "num": 25249,
+      "word": "无人机拍下众人狂奔施救全程",
+      "onboard_time": 1742840773,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11326,

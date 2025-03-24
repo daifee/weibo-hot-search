@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742837998542,
+  "endTime": 1742841235803,
   "band_list": [
     {
       "raw_hot": 517053,
@@ -267,6 +267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75152,
+      "num": 75152,
+      "word": "郑钦文vs克鲁格",
+      "onboard_time": 1742836396,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74813,
       "num": 74813,
       "word": "留几手首场直播带货销售额",
@@ -371,14 +379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 58554,
-      "num": 58554,
-      "word": "郑钦文vs克鲁格",
-      "onboard_time": 1742836396,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 58333,
       "num": 58333,
       "word": "下一个台风",
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30779,
+      "num": 30779,
+      "word": "赵丽颖害羞成这样",
+      "onboard_time": 1742838555,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 29329,
       "num": 29329,
       "word": "卓沅骑个小车真舒服",
@@ -467,12 +475,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20830,
+      "num": 20830,
+      "word": "檀健次出圈角色查重率为零",
+      "onboard_time": 1742830821,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 20518,
+      "num": 20518,
+      "word": "当地教育局通报男子救下被欺凌学生",
+      "onboard_time": 1742838075,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 14656,
+      "num": 25282,
+      "word": "别让风筝线变成伤人线",
+      "onboard_time": 1742839934,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12611,
       "num": 54813,
       "word": "2025考研调剂攻略",
       "onboard_time": 1742835558,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 12011,
+      "num": 25249,
+      "word": "无人机拍下众人狂奔施救全程",
+      "onboard_time": 1742840773,
+      "rank": 30,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
