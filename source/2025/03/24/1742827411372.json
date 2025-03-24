@@ -1,0 +1,410 @@
+{
+  "runTime": 1742827411372,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1132068,
+        "num": 1181130,
+        "word": "多邻国崩了",
+        "onboard_time": 1742820682,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 852561,
+        "num": 852561,
+        "word": "茶百道发文致歉",
+        "onboard_time": 1742800762,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48539,
+        "num": 831240,
+        "word": "随手拍春天",
+        "onboard_time": 1742826683,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 817716,
+        "num": 817716,
+        "word": "睡前4个习惯让肚子长肉",
+        "onboard_time": 1742823621,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 775489,
+        "num": 775489,
+        "word": "唐艺昕希望家里吃饭的时候不看手机",
+        "onboard_time": 1742824762,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 683674,
+        "num": 683674,
+        "word": "母亲称世纪婴儿去世是医疗事故",
+        "onboard_time": 1742815881,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430438,
+        "num": 430438,
+        "word": "希望小学一万四买相机只值六百引质疑",
+        "onboard_time": 1742823502,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374038,
+        "num": 374038,
+        "word": "警方回应远洋渔船船长遭船员杀害",
+        "onboard_time": 1742823084,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354276,
+        "num": 354276,
+        "word": "男子骑行遭风筝线割穿头盔",
+        "onboard_time": 1742820382,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352324,
+        "num": 352324,
+        "word": "马龙祝福孙颖莎王楚钦圆梦2028",
+        "onboard_time": 1742824883,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 895073,
+        "num": 350914,
+        "word": "金秀贤新料漫画提示",
+        "onboard_time": 1742824523,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 853629,
+        "num": 346513,
+        "word": "棣欣引力",
+        "onboard_time": 1742823262,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 497225,
+        "num": 343701,
+        "word": "中式恐怖才是真恐怖",
+        "onboard_time": 1742818582,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198214,
+        "num": 340798,
+        "word": "孙杨时隔5年重上高原训练被练哭3次",
+        "onboard_time": 1742823804,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362427,
+        "num": 334987,
+        "word": "考公博主吴桐 塌房",
+        "onboard_time": 1742802802,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 334755,
+        "num": 334755,
+        "word": "周也一身睡衣上飞机",
+        "onboard_time": 1742811802,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300599,
+        "num": 300599,
+        "word": "金秀贤称给金赛纶的信是朋友信之一",
+        "onboard_time": 1742819962,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290797,
+        "num": 290797,
+        "word": "何健麒直播",
+        "onboard_time": 1742824941,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226159,
+        "num": 284527,
+        "word": "雁回时有李晟",
+        "onboard_time": 1742825242,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21074,
+        "num": 279869,
+        "word": "美俄乌沙特谈判现场细节曝光",
+        "onboard_time": 1742826743,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 278407,
+        "num": 278407,
+        "word": "27岁女孩每天打3份工战胜不死癌症",
+        "onboard_time": 1742827042,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264438,
+        "num": 264438,
+        "word": "四川泸州4.9级地震",
+        "onboard_time": 1742816723,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 225519,
+        "num": 225519,
+        "word": "福宝恢复展出",
+        "onboard_time": 1742823743,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211433,
+        "num": 211433,
+        "word": "念无双 定档",
+        "onboard_time": 1742813481,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197382,
+        "num": 197382,
+        "word": "易烊千玺咋还写急眼了呢",
+        "onboard_time": 1742811320,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190907,
+        "num": 190907,
+        "word": "半熟4男一男二都选了梁田",
+        "onboard_time": 1742819783,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186062,
+        "num": 186062,
+        "word": "网剧沙尘暴",
+        "onboard_time": 1742826081,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168387,
+        "num": 168387,
+        "word": "时隔九个月以为黄亦玫回来了",
+        "onboard_time": 1742824344,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12851,
+        "num": 168311,
+        "word": "魔卡少女樱月城雪兔粘土人",
+        "onboard_time": 1742826443,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 17105,
+        "num": 168253,
+        "word": "少女漫的画风变化",
+        "onboard_time": 1742826443,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 192191,
+        "num": 168210,
+        "word": "曝小米要募集超380亿",
+        "onboard_time": 1742825543,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170307,
+        "num": 168146,
+        "word": "无畏你前置呢",
+        "onboard_time": 1742826983,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168084,
+        "num": 168084,
+        "word": "古茗 樊振东",
+        "onboard_time": 1742814199,
+        "rank": 32,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 165721,
+        "num": 165721,
+        "word": "日本成立统合作战司令部",
+        "onboard_time": 1742819302,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156717,
+        "num": 156717,
+        "word": "为带小猫世纪婴儿高烧坐8小时大巴",
+        "onboard_time": 1742825124,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155291,
+        "num": 155291,
+        "word": "蔡徐坤苹果头",
+        "onboard_time": 1742809523,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151434,
+        "num": 151434,
+        "word": "玉兰花瓣居然真的能吹成气球",
+        "onboard_time": 1742825061,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 151100,
+        "num": 151100,
+        "word": "留几手首场直播带货销售额",
+        "onboard_time": 1742825481,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145663,
+        "num": 145663,
+        "word": "雁回时",
+        "onboard_time": 1742811383,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144314,
+        "num": 144314,
+        "word": "脾胃虚到底能不能吃水果",
+        "onboard_time": 1742821883,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132389,
+        "num": 132389,
+        "word": "央视曝光所谓瘦身咖啡真相",
+        "onboard_time": 1742826983,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127122,
+        "num": 127122,
+        "word": "尤长靖高中竟然是学会计的",
+        "onboard_time": 1742824941,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114948,
+        "num": 114948,
+        "word": "减肥效果最好的运动是跳绳",
+        "onboard_time": 1742808681,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 110154,
+        "num": 110154,
+        "word": "王楚钦说我的职业生涯还很长",
+        "onboard_time": 1742819542,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109330,
+        "num": 109330,
+        "word": "多方回应希望小学一万四买单反只值六百",
+        "onboard_time": 1742825481,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109233,
+        "num": 109233,
+        "word": "李艺彤卡琳娜清唱乘风主题曲",
+        "onboard_time": 1742826864,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107910,
+        "num": 107910,
+        "word": "雁回时坠马初吻",
+        "onboard_time": 1742812821,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103338,
+        "num": 103338,
+        "word": "郭麒麟正面回应德云社继承人",
+        "onboard_time": 1742794883,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99579,
+        "num": 99579,
+        "word": "春天是最懂氛围感的",
+        "onboard_time": 1742811082,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96672,
+        "num": 96672,
+        "word": "俄证实普京给特朗普送肖像画",
+        "onboard_time": 1742825124,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#风正好扬万里帆#"
+    }
+  }
+}
