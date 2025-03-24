@@ -1,0 +1,410 @@
+{
+  "runTime": 1742809234020,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1505831,
+        "num": 1505831,
+        "word": "世纪婴儿发烧后硬挺了5天",
+        "onboard_time": 1742802861,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1131116,
+        "num": 1131116,
+        "word": "茶百道发文致歉",
+        "onboard_time": 1742800762,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39584,
+        "num": 977415,
+        "word": "赏花经济赋能乡村振兴",
+        "onboard_time": 1742786841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 860897,
+        "num": 860897,
+        "word": "2000年0时0分出生的世纪婴儿去世",
+        "onboard_time": 1742793263,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661025,
+        "num": 661025,
+        "word": "日本全面取消女警裙装制服",
+        "onboard_time": 1742799202,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 453265,
+        "num": 453265,
+        "word": "青岛23岁女大学生凌晨外出失联四天",
+        "onboard_time": 1742803762,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409770,
+        "num": 409770,
+        "word": "郭麒麟正面回应德云社继承人",
+        "onboard_time": 1742794883,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356218,
+        "num": 356218,
+        "word": "钱存越久越亏可能正在成为现实",
+        "onboard_time": 1742801062,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298139,
+        "num": 298139,
+        "word": "将门毒后 刘晓庆陈宝国",
+        "onboard_time": 1742800641,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202372,
+        "num": 278654,
+        "word": "代孕妈妈学历越高价格越贵",
+        "onboard_time": 1742806583,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1517741,
+        "num": 276973,
+        "word": "考公博主吴桐 塌房",
+        "onboard_time": 1742802802,
+        "rank": 10,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 586836,
+        "num": 276845,
+        "word": "石家庄偶遇鹿晗拍摄",
+        "onboard_time": 1742804362,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271720,
+        "num": 271720,
+        "word": "14岁等等好帅",
+        "onboard_time": 1742790563,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266338,
+        "num": 266338,
+        "word": "男童被生母及男友殴打致死案姥姥发声",
+        "onboard_time": 1742804960,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196580,
+        "num": 263338,
+        "word": "男子被当猎物枪杀案4名被告人获刑",
+        "onboard_time": 1742807421,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262272,
+        "num": 262272,
+        "word": "分手后男子拉账单发现1年花50万",
+        "onboard_time": 1742800343,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217793,
+        "num": 254231,
+        "word": "辛云来演技",
+        "onboard_time": 1742802742,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217323,
+        "num": 252051,
+        "word": "刘亦菲手捧玫瑰美我一跳",
+        "onboard_time": 1742801422,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206956,
+        "num": 233897,
+        "word": "KiiiKiii出道",
+        "onboard_time": 1742808022,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153127,
+        "num": 224578,
+        "word": "一人说一个必吃的春菜",
+        "onboard_time": 1742806940,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 224224,
+        "num": 224224,
+        "word": "心源性猝死前有哪些征兆",
+        "onboard_time": 1742799802,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206945,
+        "num": 206945,
+        "word": "台湾有事就是日本有事的谬论大错特错",
+        "onboard_time": 1742807361,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206914,
+        "num": 206914,
+        "word": "张艺兴直播",
+        "onboard_time": 1742808201,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82952,
+        "num": 194494,
+        "word": "刘亦菲的选车标准",
+        "onboard_time": 1742808022,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28731,
+        "num": 186665,
+        "word": "哈登历史得分榜第11",
+        "onboard_time": 1742808922,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182446,
+        "num": 182446,
+        "word": "非法代孕中介透露代孕细节",
+        "onboard_time": 1742805441,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 179340,
+        "num": 179340,
+        "word": "雷军回武汉大学了",
+        "onboard_time": 1742803821,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171445,
+        "num": 175329,
+        "word": "黄景瑜你舌头是打麻药了吗",
+        "onboard_time": 1742807721,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57963,
+        "num": 175317,
+        "word": "重庆女子半马最后一秒反超选手发声",
+        "onboard_time": 1742808201,
+        "rank": 28,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 26891,
+        "num": 175317,
+        "word": "澳球员赛前超放松集体喝奶茶",
+        "onboard_time": 1742808022,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175317,
+        "num": 175316,
+        "word": "海漂一天一夜的小孩哥又出去玩了",
+        "onboard_time": 1742800343,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163726,
+        "num": 163726,
+        "word": "避谶",
+        "onboard_time": 1742795784,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29765,
+        "num": 151023,
+        "word": "恢复韩总理职务后韩德洙发声",
+        "onboard_time": 1742807361,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142405,
+        "num": 142405,
+        "word": "减重医生42天减48斤",
+        "onboard_time": 1742789062,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 137363,
+        "num": 137363,
+        "word": "茶百道回应员工被指私吞周边",
+        "onboard_time": 1742808862,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135331,
+        "num": 135331,
+        "word": "王嘉尔speed打乒乓球",
+        "onboard_time": 1742804243,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124312,
+        "num": 124312,
+        "word": "减肥效果最好的运动是跳绳",
+        "onboard_time": 1742808681,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 122907,
+        "num": 122907,
+        "word": "当代年轻教师的周末安排",
+        "onboard_time": 1742806821,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122486,
+        "num": 122486,
+        "word": "颜安人火了脸都清晰了",
+        "onboard_time": 1742806342,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120447,
+        "num": 120447,
+        "word": "卡琳娜中文",
+        "onboard_time": 1742808980,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116792,
+        "num": 116792,
+        "word": "买手机花费你月收入的多少",
+        "onboard_time": 1742807361,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85963,
+        "num": 114953,
+        "word": "NJZ不服禁止活动提出上诉",
+        "onboard_time": 1742809159,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114627,
+        "num": 114627,
+        "word": "将门毒后",
+        "onboard_time": 1742803521,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111692,
+        "num": 111692,
+        "word": "水果骗局",
+        "onboard_time": 1742786121,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110019,
+        "num": 110019,
+        "word": "3岁娃暴发性心肌炎确诊到去世仅3小时",
+        "onboard_time": 1742791764,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108604,
+        "num": 108604,
+        "word": "金秀贤方否认至今为止的一切",
+        "onboard_time": 1742792665,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107891,
+        "num": 107891,
+        "word": "半熟4女三圈粉",
+        "onboard_time": 1742809041,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105449,
+        "num": 105449,
+        "word": "印度庆典活动中30米高塔突然倒塌",
+        "onboard_time": 1742805921,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103886,
+        "num": 103886,
+        "word": "刘诗诗爆改风景博主",
+        "onboard_time": 1742805201,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101517,
+        "num": 101517,
+        "word": "汪苏泷说刚好原唱by2也在",
+        "onboard_time": 1742809159,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记赴贵州云南考察纪实#"
+    }
+  }
+}
