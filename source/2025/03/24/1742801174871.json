@@ -1,0 +1,410 @@
+{
+  "runTime": 1742801174871,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2242889,
+        "num": 2242889,
+        "word": "日本全面取消女警裙装制服",
+        "onboard_time": 1742799202,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1887239,
+        "num": 1887239,
+        "word": "2000年0时0分出生的世纪婴儿去世",
+        "onboard_time": 1742793263,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40926,
+        "num": 1144484,
+        "word": "当中国古建邂逅春光",
+        "onboard_time": 1742787501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 972872,
+        "num": 972872,
+        "word": "郭麒麟正面回应德云社继承人",
+        "onboard_time": 1742794883,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 762485,
+        "num": 762485,
+        "word": "10个黄晓明5个赵丽颖聚餐",
+        "onboard_time": 1742792005,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488654,
+        "num": 488654,
+        "word": "水果骗局",
+        "onboard_time": 1742786121,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 470862,
+        "num": 470862,
+        "word": "茶百道发文致歉",
+        "onboard_time": 1742800762,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344185,
+        "num": 344185,
+        "word": "汪涵 那是我的活",
+        "onboard_time": 1742795542,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241961,
+        "num": 241961,
+        "word": "吉林一村闯入老虎",
+        "onboard_time": 1742797762,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39156,
+        "num": 241419,
+        "word": "陈垣宇蒯曼3比0陶育畅张梓煜",
+        "onboard_time": 1742799501,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 804055,
+        "num": 240518,
+        "word": "避谶",
+        "onboard_time": 1742795784,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 733905,
+        "num": 239843,
+        "word": "茶百道",
+        "onboard_time": 1742793984,
+        "rank": 11,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 522184,
+        "num": 239112,
+        "word": "14岁等等好帅",
+        "onboard_time": 1742790563,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496845,
+        "num": 238343,
+        "word": "何泓姗选组 上错花轿嫁错人",
+        "onboard_time": 1742800401,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28022,
+        "num": 238128,
+        "word": "开饭店问顾客员工借钱百万自称有内情",
+        "onboard_time": 1742800102,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49785,
+        "num": 237486,
+        "word": "小岳岳被爆改",
+        "onboard_time": 1742798182,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 345443,
+        "num": 236816,
+        "word": "困在没有退休金日子里的父母",
+        "onboard_time": 1742790623,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306098,
+        "num": 235999,
+        "word": "李昀锐出妆",
+        "onboard_time": 1742798061,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162795,
+        "num": 234783,
+        "word": "上海现9.9元共享工位",
+        "onboard_time": 1742797042,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152081,
+        "num": 234635,
+        "word": "心源性猝死前有哪些征兆",
+        "onboard_time": 1742799802,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 318474,
+        "num": 233503,
+        "word": "3岁娃暴发性心肌炎确诊到去世仅3小时",
+        "onboard_time": 1742791764,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296929,
+        "num": 232801,
+        "word": "减重医生42天减48斤",
+        "onboard_time": 1742789062,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 258663,
+        "num": 232326,
+        "word": "将门毒后 刘晓庆陈宝国",
+        "onboard_time": 1742800641,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231718,
+        "num": 231718,
+        "word": "金秀贤方否认至今为止的一切",
+        "onboard_time": 1742792665,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40764,
+        "num": 227523,
+        "word": "马龙林高远击掌",
+        "onboard_time": 1742800162,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225063,
+        "num": 225063,
+        "word": "张韶涵奔跑吧重现公主小妹",
+        "onboard_time": 1742794043,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223307,
+        "num": 223307,
+        "word": "官方回应老虎闯入村民家咬死羊和狗",
+        "onboard_time": 1742799142,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220950,
+        "num": 220950,
+        "word": "杨洋和妈妈去美发店",
+        "onboard_time": 1742795962,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27099,
+        "num": 203504,
+        "word": "八小时之外休而不息待破解",
+        "onboard_time": 1742800523,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58249,
+        "num": 202476,
+        "word": "智搜谈如何预防心源性猝死",
+        "onboard_time": 1742800941,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202217,
+        "num": 202217,
+        "word": "吉林一老虎闯入村民家咬死羊和狗",
+        "onboard_time": 1742796502,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175582,
+        "num": 175582,
+        "word": "白日梦与她开播",
+        "onboard_time": 1742791286,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172276,
+        "num": 172276,
+        "word": "樱桃琥珀上星播出",
+        "onboard_time": 1742797762,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170156,
+        "num": 170156,
+        "word": "分手后男子拉账单发现1年花50万",
+        "onboard_time": 1742800343,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162127,
+        "num": 162127,
+        "word": "真的很讨厌不打招呼客带客",
+        "onboard_time": 1742794523,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154709,
+        "num": 154709,
+        "word": "没有断尾处理过的长毛柯基",
+        "onboard_time": 1742794762,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149147,
+        "num": 149147,
+        "word": "金秀贤告发N号房爆料记者",
+        "onboard_time": 1742794762,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144295,
+        "num": 144295,
+        "word": "男子反锁母婴室开会被困起诉商场",
+        "onboard_time": 1742795364,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140165,
+        "num": 140165,
+        "word": "十六分之一中国血统",
+        "onboard_time": 1742789121,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139081,
+        "num": 139081,
+        "word": "海漂一天一夜的小孩哥又出去玩了",
+        "onboard_time": 1742800343,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133101,
+        "num": 133101,
+        "word": "我是谢霆锋我同意加场",
+        "onboard_time": 1742796624,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132852,
+        "num": 132852,
+        "word": "奔跑吧全员千禧风",
+        "onboard_time": 1742798242,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126641,
+        "num": 126641,
+        "word": "speed上海直播",
+        "onboard_time": 1742800762,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122925,
+        "num": 122925,
+        "word": "杭州兔子警官发视频报平安",
+        "onboard_time": 1742795183,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119676,
+        "num": 119676,
+        "word": "山崎贤人广濑铃 分手",
+        "onboard_time": 1742784500,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116236,
+        "num": 116236,
+        "word": "91岁老人担心女儿没尊严立遗嘱保护",
+        "onboard_time": 1742784981,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111391,
+        "num": 111391,
+        "word": "钱存越久越亏可能正在成为现实",
+        "onboard_time": 1742801062,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111117,
+        "num": 111117,
+        "word": "母亲回应孙卓直播带货",
+        "onboard_time": 1742791825,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106475,
+        "num": 106475,
+        "word": "管乐乘风初舞台服装只花了30元",
+        "onboard_time": 1742791825,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105798,
+        "num": 105798,
+        "word": "夏以昼我们去下一个世界",
+        "onboard_time": 1742799861,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记赴贵州云南考察纪实#"
+    }
+  }
+}

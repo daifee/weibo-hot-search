@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742798867219,
+  "endTime": 1742801174871,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -25,6 +25,14 @@
       "onboard_time": 1742719339,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 2242889,
+      "num": 2242889,
+      "word": "日本全面取消女警裙装制服",
+      "onboard_time": 1742799202,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2234358,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 922290,
-      "num": 236324,
+      "num": 239843,
       "word": "茶百道",
       "onboard_time": 1742793984,
       "rank": 13,
@@ -345,6 +353,14 @@
       "onboard_time": 1742697559,
       "rank": 1,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 804055,
+      "num": 240518,
+      "word": "避谶",
+      "onboard_time": 1742795784,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 800043,
@@ -651,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496845,
+      "num": 238343,
+      "word": "何泓姗选组 上错花轿嫁错人",
+      "onboard_time": 1742800401,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 495112,
       "num": 284347,
       "word": "禹宙中欣",
@@ -705,6 +729,14 @@
       "onboard_time": 1742729707,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 470862,
+      "num": 470862,
+      "word": "茶百道发文致歉",
+      "onboard_time": 1742800762,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 467850,
@@ -852,7 +884,7 @@
     },
     {
       "raw_hot": 411404,
-      "num": 222953,
+      "num": 233503,
       "word": "3岁娃暴发性心肌炎确诊到去世仅3小时",
       "onboard_time": 1742791764,
       "rank": 20,
@@ -860,7 +892,7 @@
     },
     {
       "raw_hot": 410964,
-      "num": 255535,
+      "num": 344185,
       "word": "汪涵 那是我的活",
       "onboard_time": 1742795542,
       "rank": 6,
@@ -1139,14 +1171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 312139,
-      "num": 224469,
-      "word": "避谶",
-      "onboard_time": 1742795784,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 308513,
       "num": 308513,
       "word": "周杰伦出席上海F1大奖赛",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1742733623,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306098,
+      "num": 235999,
+      "word": "李昀锐出妆",
+      "onboard_time": 1742798061,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 304953,
@@ -1459,6 +1491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 258663,
+      "num": 232326,
+      "word": "将门毒后 刘晓庆陈宝国",
+      "onboard_time": 1742800641,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258355,
       "num": 258355,
       "word": "浪姐全场一半的人都选了宋妍霏",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1742729707,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241961,
+      "num": 241961,
+      "word": "吉林一村闯入老虎",
+      "onboard_time": 1742797762,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241787,
@@ -1667,12 +1715,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 220558,
-      "num": 220558,
-      "word": "李昀锐出妆",
-      "onboard_time": 1742798061,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 223307,
+      "num": 223307,
+      "word": "官方回应老虎闯入村民家咬死羊和狗",
+      "onboard_time": 1742799142,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218801,
@@ -1929,14 +1977,6 @@
       "onboard_time": 1742787081,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200043,
-      "num": 238988,
-      "word": "吉林一村闯入老虎",
-      "onboard_time": 1742797762,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199405,
@@ -2339,6 +2379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170156,
+      "num": 170156,
+      "word": "分手后男子拉账单发现1年花50万",
+      "onboard_time": 1742800343,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169262,
       "num": 137565,
       "word": "李荣浩来看杨丞琳演唱会了",
@@ -2425,6 +2473,14 @@
       "onboard_time": 1742718681,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162795,
+      "num": 234783,
+      "word": "上海现9.9元共享工位",
+      "onboard_time": 1742797042,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162614,
@@ -2723,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152081,
+      "num": 234635,
+      "word": "心源性猝死前有哪些征兆",
+      "onboard_time": 1742799802,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151378,
       "num": 151378,
       "word": "野餐",
@@ -2995,6 +3059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139081,
+      "num": 139081,
+      "word": "海漂一天一夜的小孩哥又出去玩了",
+      "onboard_time": 1742800343,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138203,
       "num": 138203,
       "word": "我家的小狗",
@@ -3163,6 +3235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132852,
+      "num": 132852,
+      "word": "奔跑吧全员千禧风",
+      "onboard_time": 1742798242,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132402,
       "num": 240837,
       "word": "韩国一天发生16起山林火灾",
@@ -3201,14 +3281,6 @@
       "onboard_time": 1742740822,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129261,
-      "num": 129261,
-      "word": "上海现9.9元共享工位",
-      "onboard_time": 1742797042,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129251,
@@ -3273,6 +3345,14 @@
       "onboard_time": 1742728700,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126641,
+      "num": 126641,
+      "word": "speed上海直播",
+      "onboard_time": 1742800762,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 126555,
@@ -3643,6 +3723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 111391,
+      "num": 111391,
+      "word": "钱存越久越亏可能正在成为现实",
+      "onboard_time": 1742801062,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110612,
       "num": 110612,
       "word": "尼日尔发生恐怖袭击至少44人死亡",
@@ -3787,6 +3875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105798,
+      "num": 105798,
+      "word": "夏以昼我们去下一个世界",
+      "onboard_time": 1742799861,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105473,
       "num": 105473,
       "word": "黄友政3比1袁烜松",
@@ -3817,14 +3913,6 @@
       "onboard_time": 1742687297,
       "rank": 43,
       "category": "互联网,教育"
-    },
-    {
-      "raw_hot": 104326,
-      "num": 104326,
-      "word": "奔跑吧全员千禧风",
-      "onboard_time": 1742798242,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 104229,
@@ -4595,6 +4683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 58249,
+      "num": 202476,
+      "word": "智搜谈如何预防心源性猝死",
+      "onboard_time": 1742800941,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 55882,
       "num": 54040,
       "word": "王楚钦赛后一层一层包好球拍",
@@ -4657,6 +4753,14 @@
       "onboard_time": 1742710820,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49785,
+      "num": 237486,
+      "word": "小岳岳被爆改",
+      "onboard_time": 1742798182,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 47270,
@@ -4763,6 +4867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40764,
+      "num": 227523,
+      "word": "马龙林高远击掌",
+      "onboard_time": 1742800162,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40531,
       "num": 211857,
       "word": "多部好莱坞新片确认引进",
@@ -4795,12 +4907,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 38843,
-      "num": 195604,
-      "word": "小岳岳被爆改",
-      "onboard_time": 1742798182,
-      "rank": 23,
-      "category": "作品衍生,时尚"
+      "raw_hot": 39156,
+      "num": 241419,
+      "word": "陈垣宇蒯曼3比0陶育畅张梓煜",
+      "onboard_time": 1742799501,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 37157,
@@ -4963,6 +5075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28022,
+      "num": 238128,
+      "word": "开饭店问顾客员工借钱百万自称有内情",
+      "onboard_time": 1742800102,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27497,
       "num": 55011,
       "word": "荷兰警方针对性搜索罗生门时发现男尸",
@@ -4977,6 +5097,14 @@
       "onboard_time": 1742751076,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27099,
+      "num": 203504,
+      "word": "八小时之外休而不息待破解",
+      "onboard_time": 1742800523,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26754,
