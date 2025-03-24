@@ -1,10 +1,10 @@
 {
   "startTime": 1742747228173,
-  "endTime": 1742785642024,
+  "endTime": 1742786139299,
   "band_list": [
     {
-      "raw_hot": 1725293,
-      "num": 998700,
+      "raw_hot": 1775586,
+      "num": 1014977,
       "word": "上官正义曝17岁少女为50岁男子代孕",
       "onboard_time": 1742784320,
       "rank": 1,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 972705,
+      "num": 321639,
+      "word": "山崎贤人广濑铃 分手",
+      "onboard_time": 1742784500,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 945289,
       "num": 1151246,
       "word": "四川一水库水位下降露出一座古墓",
@@ -59,20 +67,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 819285,
+      "num": 1131085,
+      "word": "奔跑吧13直播走红毯",
+      "onboard_time": 1742783060,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 761387,
       "num": 196621,
       "word": "赵露思粉发挑染",
       "onboard_time": 1742742982,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 736813,
-      "num": 315807,
-      "word": "山崎贤人广濑铃 分手",
-      "onboard_time": 1742784500,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 712537,
@@ -83,19 +91,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 646371,
-      "num": 1103419,
-      "word": "奔跑吧13直播走红毯",
-      "onboard_time": 1742783060,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 645975,
       "num": 242939,
       "word": "发现快递里是20多张购物卡赶紧报警",
       "onboard_time": 1742738360,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 609806,
+      "num": 609806,
+      "word": "这波升温后又是剧烈降温",
+      "onboard_time": 1742777840,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -107,12 +115,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 606204,
-      "num": 606204,
-      "word": "这波升温后又是剧烈降温",
-      "onboard_time": 1742777840,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 605228,
+      "num": 605228,
+      "word": "恋与深空",
+      "onboard_time": 1742785941,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 545648,
@@ -121,6 +129,14 @@
       "onboard_time": 1742774720,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 517422,
+      "num": 517422,
+      "word": "宋妍霏说马丽去浪姐会是团宠",
+      "onboard_time": 1742785460,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 515595,
@@ -147,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 467850,
+      "num": 309013,
+      "word": "女生回应花50元租公司卫生间住",
+      "onboard_time": 1742783000,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 459964,
       "num": 459964,
       "word": "NJZ宣布暂停活动",
@@ -163,8 +187,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 435116,
-      "num": 435116,
+      "raw_hot": 442144,
+      "num": 442144,
       "word": "国产剧真正的熟人作案来了",
       "onboard_time": 1742782639,
       "rank": 5,
@@ -193,22 +217,6 @@
       "onboard_time": 1742740642,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 388992,
-      "num": 309013,
-      "word": "女生回应花50元租公司卫生间住",
-      "onboard_time": 1742783000,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 363328,
-      "num": 363328,
-      "word": "宋妍霏说马丽去浪姐会是团宠",
-      "onboard_time": 1742785460,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 359396,
@@ -267,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287929,
+      "num": 287929,
+      "word": "91岁老人担心女儿没尊严立遗嘱保护",
+      "onboard_time": 1742784981,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282117,
       "num": 282117,
       "word": "章若楠感谢汪苏泷",
@@ -275,8 +291,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 275375,
+      "num": 275375,
+      "word": "世界之外 罗森",
+      "onboard_time": 1742783840,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 267195,
-      "num": 267195,
+      "num": 279070,
       "word": "网剧沙尘暴定档",
       "onboard_time": 1742782160,
       "rank": 19,
@@ -289,14 +313,6 @@
       "onboard_time": 1742780660,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 257824,
-      "num": 257824,
-      "word": "世界之外 罗森",
-      "onboard_time": 1742783840,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 247803,
@@ -363,11 +379,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 219528,
+      "num": 219528,
+      "word": "男童被打死案父亲说天天想儿子",
+      "onboard_time": 1742785519,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216003,
       "num": 228951,
       "word": "湖南卫视连发15条王源",
       "onboard_time": 1742744720,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206895,
+      "num": 277377,
+      "word": "王源鼻尖腮红",
+      "onboard_time": 1742785221,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -411,12 +443,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194345,
+      "num": 194345,
+      "word": "小米音频眼镜二代将上线",
+      "onboard_time": 1742785401,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 191083,
       "num": 191083,
       "word": "西湖2亿人1亿在太子湾",
       "onboard_time": 1742732300,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 188865,
+      "num": 188865,
+      "word": "京东回应外卖日单量突破百万",
+      "onboard_time": 1742785641,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 186140,
@@ -427,14 +475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185672,
-      "num": 185672,
-      "word": "91岁老人担心女儿没尊严立遗嘱保护",
-      "onboard_time": 1742784981,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183107,
       "num": 183107,
       "word": "白桃星座",
@@ -443,12 +483,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 177968,
-      "num": 177968,
-      "word": "小米音频眼镜二代将上线",
-      "onboard_time": 1742785401,
-      "rank": 33,
-      "category": "数码"
+      "raw_hot": 178397,
+      "num": 178397,
+      "word": "千禾董事长称千禾0就是零添加",
+      "onboard_time": 1742786060,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176862,
@@ -531,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147779,
-      "num": 238443,
-      "word": "王源鼻尖腮红",
-      "onboard_time": 1742785221,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136768,
       "num": 136768,
       "word": "MINJI红发",
@@ -555,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128859,
+      "num": 228763,
+      "word": "二房东扣着1700押金说退不退看心情",
+      "onboard_time": 1742784320,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128210,
       "num": 128210,
       "word": "OPPO Enco Free4",
@@ -563,12 +603,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 128157,
-      "num": 128157,
-      "word": "男童被打死案父亲说天天想儿子",
-      "onboard_time": 1742785519,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 128140,
+      "num": 288184,
+      "word": "聋人会在看见你的第一眼对你微笑",
+      "onboard_time": 1742785821,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 126555,
@@ -657,6 +697,14 @@
       "onboard_time": 1742781801,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 107517,
+      "num": 107517,
+      "word": "水果骗局",
+      "onboard_time": 1742786121,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 103869,
@@ -772,7 +820,7 @@
     },
     {
       "raw_hot": 84077,
-      "num": 695493,
+      "num": 746805,
       "word": "中国火箭排队上天",
       "onboard_time": 1742738122,
       "rank": 2,
@@ -811,6 +859,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 75761,
+      "num": 299215,
+      "word": "3家药企合谋垄断致一款药暴涨20倍",
+      "onboard_time": 1742785100,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75673,
+      "num": 321843,
+      "word": "倒春寒从身体4个部位入侵",
+      "onboard_time": 1742785641,
+      "rank": 9,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 75074,
       "num": 61791,
       "word": "三只羊回应何时复播",
@@ -840,14 +904,6 @@
       "word": "儿子希望妈妈戴上戒指永不放开自己",
       "onboard_time": 1742757615,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70815,
-      "num": 228763,
-      "word": "二房东扣着1700押金说退不退看心情",
-      "onboard_time": 1742784320,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -955,12 +1011,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 49951,
+      "num": 287944,
+      "word": "邓超孙俪周冠宇F1合影",
+      "onboard_time": 1742785641,
+      "rank": 21,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 44605,
       "num": 310854,
       "word": "用明信片打开归国文物瑰宝",
       "onboard_time": 1742778501,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44171,
+      "num": 284826,
+      "word": "德国3比3意大利",
+      "onboard_time": 1742774840,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 44087,
@@ -1001,14 +1073,6 @@
       "onboard_time": 1742749936,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 33176,
-      "num": 299215,
-      "word": "3家药企合谋垄断致一款药暴涨20倍",
-      "onboard_time": 1742785100,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32516,
@@ -1057,6 +1121,14 @@
       "onboard_time": 1742751076,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27170,
+      "num": 287227,
+      "word": "强制下班能解决加班的问题吗",
+      "onboard_time": 1742785941,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26314,

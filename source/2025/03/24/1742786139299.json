@@ -1,0 +1,410 @@
+{
+  "runTime": 1742786139299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 819285,
+        "num": 1131085,
+        "word": "奔跑吧13直播走红毯",
+        "onboard_time": 1742783060,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1775586,
+        "num": 1014977,
+        "word": "上官正义曝17岁少女为50岁男子代孕",
+        "onboard_time": 1742784320,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57560,
+        "num": 746805,
+        "word": "中国火箭排队上天",
+        "onboard_time": 1742738122,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 609806,
+        "num": 609806,
+        "word": "这波升温后又是剧烈降温",
+        "onboard_time": 1742777840,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605228,
+        "num": 605228,
+        "word": "恋与深空",
+        "onboard_time": 1742785941,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 517422,
+        "num": 517422,
+        "word": "宋妍霏说马丽去浪姐会是团宠",
+        "onboard_time": 1742785460,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442144,
+        "num": 442144,
+        "word": "国产剧真正的熟人作案来了",
+        "onboard_time": 1742782639,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395232,
+        "num": 395232,
+        "word": "四川一水库水位下降露出一座古墓",
+        "onboard_time": 1742774902,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351191,
+        "num": 351191,
+        "word": "王源官宣三巡",
+        "onboard_time": 1742782460,
+        "rank": 8,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 75673,
+        "num": 321843,
+        "word": "倒春寒从身体4个部位入侵",
+        "onboard_time": 1742785641,
+        "rank": 9,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 972705,
+        "num": 321639,
+        "word": "山崎贤人广濑铃 分手",
+        "onboard_time": 1742784500,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773155,
+        "num": 316506,
+        "word": "Prada 朱志鑫",
+        "onboard_time": 1742781080,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 306821,
+        "num": 306821,
+        "word": "谢浩男认亲前没意识到是人生大事",
+        "onboard_time": 1742783721,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 730280,
+        "num": 306560,
+        "word": "金秀贤方起诉散布半裸洗碗照片者",
+        "onboard_time": 1742779879,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 725834,
+        "num": 306251,
+        "word": "先梳头再洗头千万别来回揉搓",
+        "onboard_time": 1742742323,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 669577,
+        "num": 305497,
+        "word": "难听",
+        "onboard_time": 1742775741,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 467850,
+        "num": 305020,
+        "word": "女生回应花50元租公司卫生间住",
+        "onboard_time": 1742783000,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320268,
+        "num": 304509,
+        "word": "K总否认老婆整容",
+        "onboard_time": 1742775741,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 304186,
+        "num": 304186,
+        "word": "哈马斯新任领导人被打死",
+        "onboard_time": 1742774720,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75761,
+        "num": 289896,
+        "word": "3家药企合谋垄断致一款药暴涨20倍",
+        "onboard_time": 1742785100,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128140,
+        "num": 288184,
+        "word": "聋人会在看见你的第一眼对你微笑",
+        "onboard_time": 1742785821,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49951,
+        "num": 287944,
+        "word": "邓超孙俪周冠宇F1合影",
+        "onboard_time": 1742785641,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 287929,
+        "num": 287929,
+        "word": "91岁老人担心女儿没尊严立遗嘱保护",
+        "onboard_time": 1742784981,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27170,
+        "num": 287227,
+        "word": "强制下班能解决加班的问题吗",
+        "onboard_time": 1742785941,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44171,
+        "num": 284826,
+        "word": "德国3比3意大利",
+        "onboard_time": 1742774840,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331957,
+        "num": 284013,
+        "word": "熊孩子丢湿巾砸中私家车赔7000元",
+        "onboard_time": 1742780419,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301683,
+        "num": 281422,
+        "word": "山东探明我国首个超亿吨级页岩油田",
+        "onboard_time": 1742778920,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239283,
+        "num": 279070,
+        "word": "网剧沙尘暴定档",
+        "onboard_time": 1742782160,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206895,
+        "num": 277377,
+        "word": "王源鼻尖腮红",
+        "onboard_time": 1742785221,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313394,
+        "num": 276361,
+        "word": "茉莉奶白被曝喝出完整塑料袋",
+        "onboard_time": 1742731401,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275375,
+        "num": 275375,
+        "word": "世界之外 罗森",
+        "onboard_time": 1742783840,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244832,
+        "num": 244832,
+        "word": "禹宙中欣",
+        "onboard_time": 1742775741,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222386,
+        "num": 222386,
+        "word": "奶奶捡10000元说找到失主我好高兴",
+        "onboard_time": 1742754014,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 128859,
+        "num": 220860,
+        "word": "二房东扣着1700押金说退不退看心情",
+        "onboard_time": 1742784320,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219528,
+        "num": 219528,
+        "word": "男童被打死案父亲说天天想儿子",
+        "onboard_time": 1742785519,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194345,
+        "num": 194345,
+        "word": "小米音频眼镜二代将上线",
+        "onboard_time": 1742785401,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188865,
+        "num": 188865,
+        "word": "京东回应外卖日单量突破百万",
+        "onboard_time": 1742785641,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178397,
+        "num": 178397,
+        "word": "千禾董事长称千禾0就是零添加",
+        "onboard_time": 1742786060,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169130,
+        "num": 169130,
+        "word": "OPPO",
+        "onboard_time": 1742783302,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141511,
+        "num": 141511,
+        "word": "茉莉奶白致歉声明",
+        "onboard_time": 1742742442,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135998,
+        "num": 135998,
+        "word": "金价",
+        "onboard_time": 1742783302,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133949,
+        "num": 133949,
+        "word": "男子泡7年药酒发现海马是塑料",
+        "onboard_time": 1742774902,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130997,
+        "num": 130997,
+        "word": "抢克拉棒",
+        "onboard_time": 1742784440,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122741,
+        "num": 122741,
+        "word": "父亲回应郑中基婚变传闻",
+        "onboard_time": 1742779579,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120776,
+        "num": 120776,
+        "word": "半个娱乐圈都去F1现场了吧",
+        "onboard_time": 1742746878,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 119869,
+        "num": 119869,
+        "word": "奔跑吧武汉录制",
+        "onboard_time": 1742773700,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115991,
+        "num": 115991,
+        "word": "花花是春天攒下的惊喜吧",
+        "onboard_time": 1742778200,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115751,
+        "num": 115751,
+        "word": "浪姐6没有太多的野心家",
+        "onboard_time": 1742782820,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108341,
+        "num": 108341,
+        "word": "多地气温满30减20",
+        "onboard_time": 1742778381,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107517,
+        "num": 107517,
+        "word": "水果骗局",
+        "onboard_time": 1742786121,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的民生之问#"
+    }
+  }
+}
