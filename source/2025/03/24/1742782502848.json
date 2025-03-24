@@ -1,0 +1,410 @@
+{
+  "runTime": 1742782502848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 816842,
+        "num": 1130694,
+        "word": "四川一水库水位下降露出一座古墓",
+        "onboard_time": 1742774902,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 738381,
+        "num": 738381,
+        "word": "Prada 朱志鑫",
+        "onboard_time": 1742781080,
+        "rank": 1,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 84077,
+        "num": 483664,
+        "word": "中国火箭排队上天",
+        "onboard_time": 1742738122,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 473268,
+        "num": 473268,
+        "word": "哈马斯新任领导人被打死",
+        "onboard_time": 1742774720,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 470795,
+        "num": 470795,
+        "word": "这波升温后又是剧烈降温",
+        "onboard_time": 1742777840,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448878,
+        "num": 448878,
+        "word": "奶奶捡10000元说找到失主我好高兴",
+        "onboard_time": 1742754014,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 354124,
+        "num": 354124,
+        "word": "奔跑吧武汉录制",
+        "onboard_time": 1742773700,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306946,
+        "num": 306946,
+        "word": "茉莉奶白致歉声明",
+        "onboard_time": 1742742442,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266487,
+        "num": 266487,
+        "word": "哪吒",
+        "onboard_time": 1742780660,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238157,
+        "num": 238157,
+        "word": "山东探明我国首个超亿吨级页岩油田",
+        "onboard_time": 1742778920,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1374983,
+        "num": 237083,
+        "word": "金秀贤方起诉散布半裸洗碗照片者",
+        "onboard_time": 1742779879,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 932010,
+        "num": 236135,
+        "word": "先梳头再洗头千万别来回揉搓",
+        "onboard_time": 1742742323,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 613450,
+        "num": 234834,
+        "word": "难听",
+        "onboard_time": 1742775741,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 511409,
+        "num": 233078,
+        "word": "K总否认老婆整容",
+        "onboard_time": 1742775741,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40266,
+        "num": 231222,
+        "word": "一文了解美乌在沙特谈了啥",
+        "onboard_time": 1742781381,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230583,
+        "num": 230583,
+        "word": "周杰伦林志颖法拉利领队合影",
+        "onboard_time": 1742778200,
+        "rank": 15,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 485734,
+        "num": 229939,
+        "word": "禹宙中欣",
+        "onboard_time": 1742775741,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439509,
+        "num": 229328,
+        "word": "茉莉奶白被曝喝出完整塑料袋",
+        "onboard_time": 1742731401,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269849,
+        "num": 229070,
+        "word": "3人冒充孙子4天骗了50万",
+        "onboard_time": 1742740642,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228506,
+        "num": 228506,
+        "word": "网剧沙尘暴定档",
+        "onboard_time": 1742782160,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430591,
+        "num": 227683,
+        "word": "熊孩子丢湿巾砸中私家车赔7000元",
+        "onboard_time": 1742780419,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219600,
+        "num": 219600,
+        "word": "多地气温满30减20",
+        "onboard_time": 1742778381,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215594,
+        "num": 215594,
+        "word": "当一个大学生决定贯彻睡门",
+        "onboard_time": 1742778321,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203458,
+        "num": 203458,
+        "word": "李晟像极了没人发现的枯叶蝶",
+        "onboard_time": 1742734162,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119618,
+        "num": 202976,
+        "word": "龙队接受采访王楚钦头也不回跑了",
+        "onboard_time": 1742777900,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202963,
+        "num": 202963,
+        "word": "A股",
+        "onboard_time": 1742781801,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182022,
+        "num": 182022,
+        "word": "湖南卫视连发15条王源",
+        "onboard_time": 1742744720,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179252,
+        "num": 179252,
+        "word": "男子泡7年药酒发现海马是塑料",
+        "onboard_time": 1742774902,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44605,
+        "num": 176755,
+        "word": "用明信片打开归国文物瑰宝",
+        "onboard_time": 1742778501,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175269,
+        "num": 176728,
+        "word": "半个娱乐圈都去F1现场了吧",
+        "onboard_time": 1742746878,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 176704,
+        "num": 176704,
+        "word": "花花是春天攒下的惊喜吧",
+        "onboard_time": 1742778200,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160912,
+        "num": 160912,
+        "word": "韩德洙恢复韩国代总统职权",
+        "onboard_time": 1742779100,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160552,
+        "num": 160552,
+        "word": "发现快递里是20多张购物卡赶紧报警",
+        "onboard_time": 1742738360,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154864,
+        "num": 154864,
+        "word": "王源官宣三巡",
+        "onboard_time": 1742782460,
+        "rank": 33,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 119564,
+        "num": 149350,
+        "word": "NJZ宣布暂停活动",
+        "onboard_time": 1742742202,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149132,
+        "num": 149132,
+        "word": "父亲回应郑中基婚变传闻",
+        "onboard_time": 1742779579,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141076,
+        "num": 141076,
+        "word": "6年的阿贝贝破烂不堪女孩仍爱不释手",
+        "onboard_time": 1742772200,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128210,
+        "num": 128210,
+        "word": "OPPO Enco Free4",
+        "onboard_time": 1742781019,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120280,
+        "num": 120280,
+        "word": "你的发缝还好吗",
+        "onboard_time": 1742739203,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118334,
+        "num": 118334,
+        "word": "女子在埃及被酒店刁难硬气回应",
+        "onboard_time": 1742757794,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109631,
+        "num": 109631,
+        "word": "这时尚圈还是被大学生闯进去了",
+        "onboard_time": 1742781801,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109141,
+        "num": 109141,
+        "word": "官方通报千禾味业产品抽检结果",
+        "onboard_time": 1742777840,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104641,
+        "num": 104641,
+        "word": "内娱四大古装神女",
+        "onboard_time": 1742772200,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102557,
+        "num": 102557,
+        "word": "韩国训练生为了出道变成泰漂",
+        "onboard_time": 1742740101,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96823,
+        "num": 96823,
+        "word": "玫瑰的故事荣誉推荐作品",
+        "onboard_time": 1742780240,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96664,
+        "num": 96664,
+        "word": "种地吧周一打卡直播",
+        "onboard_time": 1742782341,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94685,
+        "num": 94685,
+        "word": "维金斯42分",
+        "onboard_time": 1742779341,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93161,
+        "num": 93161,
+        "word": "世界防治结核病日",
+        "onboard_time": 1742781500,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88944,
+        "num": 88944,
+        "word": "王楚钦出现失误后歪头看球反省",
+        "onboard_time": 1742772137,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84793,
+        "num": 84793,
+        "word": "汪苏泷专门让徐良点歌",
+        "onboard_time": 1742780599,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的民生之问#"
+    }
+  }
+}

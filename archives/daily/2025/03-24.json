@@ -1,6 +1,6 @@
 {
   "startTime": 1742747228173,
-  "endTime": 1742781190173,
+  "endTime": 1742782502848,
   "band_list": [
     {
       "raw_hot": 1391904,
@@ -9,6 +9,14 @@
       "onboard_time": 1742742323,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1374983,
+      "num": 237083,
+      "word": "金秀贤方起诉散布半裸洗碗照片者",
+      "onboard_time": 1742779879,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1121449,
@@ -35,20 +43,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 845665,
-      "num": 232275,
-      "word": "金秀贤方起诉散布半裸洗碗照片者",
-      "onboard_time": 1742779879,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 761387,
       "num": 196621,
       "word": "赵露思粉发挑染",
       "onboard_time": 1742742982,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 738381,
+      "num": 738381,
+      "word": "Prada 朱志鑫",
+      "onboard_time": 1742781080,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 645975,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 645579,
-      "num": 231604,
+      "num": 234834,
       "word": "难听",
       "onboard_time": 1742775741,
       "rank": 12,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 608483,
-      "num": 231088,
+      "num": 233078,
       "word": "K总否认老婆整容",
       "onboard_time": 1742775741,
       "rank": 13,
@@ -107,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 470795,
+      "num": 470795,
+      "word": "这波升温后又是剧烈降温",
+      "onboard_time": 1742777840,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 459964,
       "num": 459964,
       "word": "NJZ宣布暂停活动",
@@ -121,6 +137,14 @@
       "onboard_time": 1742754014,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 430591,
+      "num": 227683,
+      "word": "熊孩子丢湿巾砸中私家车赔7000元",
+      "onboard_time": 1742780419,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 417687,
@@ -155,14 +179,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 301568,
-      "num": 301568,
-      "word": "这波升温后又是剧烈降温",
-      "onboard_time": 1742777840,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296887,
       "num": 296887,
       "word": "多地气温满30减20",
@@ -179,20 +195,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289843,
-      "num": 227551,
-      "word": "熊孩子丢湿巾砸中私家车赔7000元",
-      "onboard_time": 1742780419,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 282117,
       "num": 282117,
       "word": "章若楠感谢汪苏泷",
       "onboard_time": 1742743160,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 266487,
+      "num": 266487,
+      "word": "哪吒",
+      "onboard_time": 1742780660,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 247803,
@@ -219,6 +235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 238157,
+      "num": 238157,
+      "word": "山东探明我国首个超亿吨级页岩油田",
+      "onboard_time": 1742778920,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237931,
       "num": 112783,
       "word": "温峥嵘我向您道歉",
@@ -233,6 +257,14 @@
       "onboard_time": 1742779100,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 228506,
+      "num": 228506,
+      "word": "网剧沙尘暴定档",
+      "onboard_time": 1742782160,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 224619,
@@ -259,16 +291,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213468,
-      "num": 213468,
-      "word": "山东探明我国首个超亿吨级页岩油田",
-      "onboard_time": 1742778920,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205779,
-      "num": 171916,
+      "num": 179252,
       "word": "男子泡7年药酒发现海马是塑料",
       "onboard_time": 1742774902,
       "rank": 30,
@@ -281,6 +305,14 @@
       "onboard_time": 1742746878,
       "rank": 35,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 202963,
+      "num": 202963,
+      "word": "A股",
+      "onboard_time": 1742781801,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 201186,
@@ -313,6 +345,14 @@
       "onboard_time": 1742742622,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176704,
+      "num": 225031,
+      "word": "花花是春天攒下的惊喜吧",
+      "onboard_time": 1742778200,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172361,
@@ -363,6 +403,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154864,
+      "num": 154864,
+      "word": "王源官宣三巡",
+      "onboard_time": 1742782460,
+      "rank": 33,
+      "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 149132,
+      "num": 149132,
+      "word": "父亲回应郑中基婚变传闻",
+      "onboard_time": 1742779579,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148636,
       "num": 148636,
       "word": "收到月薪60万offer但要偷渡出境",
@@ -379,36 +435,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136208,
-      "num": 228114,
-      "word": "哪吒",
-      "onboard_time": 1742780660,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 134941,
-      "num": 225031,
-      "word": "花花是春天攒下的惊喜吧",
-      "onboard_time": 1742778200,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133670,
-      "num": 133670,
+      "num": 202976,
       "word": "龙队接受采访王楚钦头也不回跑了",
       "onboard_time": 1742777900,
       "rank": 33,
       "category": "体育"
     },
     {
-      "raw_hot": 133060,
-      "num": 133060,
-      "word": "父亲回应郑中基婚变传闻",
-      "onboard_time": 1742779579,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 128210,
+      "num": 128210,
+      "word": "OPPO Enco Free4",
+      "onboard_time": 1742781019,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 126555,
@@ -483,6 +523,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 109631,
+      "num": 109631,
+      "word": "这时尚圈还是被大学生闯进去了",
+      "onboard_time": 1742781801,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 103869,
       "num": 103869,
       "word": "吴艳妮无缘女子60米栏决赛",
@@ -497,14 +545,6 @@
       "onboard_time": 1742722160,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100750,
-      "num": 100750,
-      "word": "OPPO Enco Free4",
-      "onboard_time": 1742781019,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 100456,
@@ -539,20 +579,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 97666,
-      "num": 97666,
-      "word": "Prada 朱志鑫",
-      "onboard_time": 1742781080,
-      "rank": 42,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 97638,
       "num": 97638,
       "word": "西山居 陆深",
       "onboard_time": 1742744302,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96823,
+      "num": 96823,
+      "word": "玫瑰的故事荣誉推荐作品",
+      "onboard_time": 1742780240,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96664,
+      "num": 96664,
+      "word": "种地吧周一打卡直播",
+      "onboard_time": 1742782341,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 96572,
@@ -563,12 +611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96121,
-      "num": 96121,
-      "word": "玫瑰的故事荣誉推荐作品",
-      "onboard_time": 1742780240,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 93161,
+      "num": 93161,
+      "word": "世界防治结核病日",
+      "onboard_time": 1742781500,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 90930,
@@ -593,6 +641,14 @@
       "onboard_time": 1742733261,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84077,
+      "num": 695493,
+      "word": "中国火箭排队上天",
+      "onboard_time": 1742738122,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83725,
@@ -625,14 +681,6 @@
       "onboard_time": 1742772079,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 75308,
-      "num": 695493,
-      "word": "中国火箭排队上天",
-      "onboard_time": 1742738122,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 75074,
@@ -771,6 +819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44605,
+      "num": 176755,
+      "word": "用明信片打开归国文物瑰宝",
+      "onboard_time": 1742778501,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44087,
       "num": 102826,
       "word": "辽宁男篮双杀上海男篮",
@@ -785,6 +841,14 @@
       "onboard_time": 1742747479,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 40266,
+      "num": 231222,
+      "word": "一文了解美乌在沙特谈了啥",
+      "onboard_time": 1742781381,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34274,
