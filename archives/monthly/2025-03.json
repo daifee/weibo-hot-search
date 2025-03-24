@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742856067913,
+  "endTime": 1742858689519,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -5361,6 +5361,14 @@
       "onboard_time": 1740890118,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 947947,
+      "num": 947947,
+      "word": "远洋渔船船长在公海被船员杀害抛海",
+      "onboard_time": 1742832799,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 947689,
@@ -12227,14 +12235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 516953,
-      "num": 527156,
-      "word": "远洋渔船船长在公海被船员杀害抛海",
-      "onboard_time": 1742832799,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 516326,
       "num": 314867,
       "word": "迪丽热巴的眼线是卡纸做的",
@@ -17129,6 +17129,14 @@
       "onboard_time": 1741228997,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 368822,
+      "num": 368822,
+      "word": "北京大风",
+      "onboard_time": 1742856977,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 368664,
@@ -28611,6 +28619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213133,
+      "num": 213133,
+      "word": "为带小猫世纪婴儿高烧坐8小时大巴",
+      "onboard_time": 1742825124,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213092,
       "num": 213092,
       "word": "徐若晗张凌赫吻戏",
@@ -31089,6 +31105,14 @@
       "onboard_time": 1742282603,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200876,
+      "num": 200876,
+      "word": "网传医院工作人员疑私下处理胎盘",
+      "onboard_time": 1742843414,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200873,
@@ -39363,6 +39387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165396,
+      "num": 165396,
+      "word": "杜特尔特赴香港系私人度假行程",
+      "onboard_time": 1742846593,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 165393,
       "num": 257558,
       "word": "秦彻帅不帅",
@@ -41859,14 +41891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 156717,
-      "num": 156717,
-      "word": "为带小猫世纪婴儿高烧坐8小时大巴",
-      "onboard_time": 1742825124,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156686,
       "num": 156686,
       "word": "世纪婴儿母亲发声",
@@ -42280,6 +42304,14 @@
       "word": "客人等餐40分钟怕服务员被开充值2000",
       "onboard_time": 1741252882,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155099,
+      "num": 155099,
+      "word": "可能交警有时候也挺想报警的",
+      "onboard_time": 1742850374,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -53267,14 +53299,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 120347,
-      "num": 120347,
-      "word": "网传医院工作人员疑私下处理胎盘",
-      "onboard_time": 1742843414,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120297,
       "num": 120297,
       "word": "刘诗诗最新高珠",
@@ -55043,14 +55067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114210,
-      "num": 114210,
-      "word": "可能交警有时候也挺想报警的",
-      "onboard_time": 1742850374,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114160,
       "num": 114160,
       "word": "年轻人越来越看重情绪价值消费",
@@ -55297,6 +55313,14 @@
       "onboard_time": 1742224404,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113411,
+      "num": 165282,
+      "word": "赵丽颖害羞成这样",
+      "onboard_time": 1742838555,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 113407,
@@ -57441,6 +57465,14 @@
       "onboard_time": 1742522901,
       "rank": 41,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 106609,
+      "num": 106609,
+      "word": "郑钦文vs克鲁格",
+      "onboard_time": 1742836396,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 106534,
@@ -62123,6 +62155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88988,
+      "num": 101141,
+      "word": "马龙紧急撤回了一个头",
+      "onboard_time": 1742857457,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88947,
       "num": 88947,
       "word": "勇士vs黄蜂",
@@ -62185,14 +62225,6 @@
       "onboard_time": 1741700124,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 88589,
-      "num": 88589,
-      "word": "郑钦文vs克鲁格",
-      "onboard_time": 1742836396,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 88459,
@@ -63387,14 +63419,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 82449,
-      "num": 82449,
-      "word": "杜特尔特赴香港系私人度假行程",
-      "onboard_time": 1742846593,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 82336,
       "num": 82336,
       "word": "苏新皓发了19分钟vlog",
@@ -63664,6 +63688,14 @@
       "word": "第三场代表通道集中采访",
       "onboard_time": 1741682182,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80604,
+      "num": 80604,
+      "word": "PET使用10个月后可能释放致癌物",
+      "onboard_time": 1742858358,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -64065,6 +64097,14 @@
       "onboard_time": 1742623641,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 77820,
+      "num": 77820,
+      "word": "郑钦文连续轰出Ace",
+      "onboard_time": 1742857457,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 77817,
@@ -66139,14 +66179,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 65606,
-      "num": 65606,
-      "word": "赵丽颖害羞成这样",
-      "onboard_time": 1742838555,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 65601,
       "num": 180309,
       "word": "今年流行居家水光",
@@ -66432,6 +66464,14 @@
       "word": "张本智和晋级重庆冠军赛四强",
       "onboard_time": 1742013023,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63981,
+      "num": 107208,
+      "word": "郑钦文首进迈阿密赛八强",
+      "onboard_time": 1742858059,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -66811,6 +66851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62195,
+      "num": 62195,
+      "word": "卫健委回应医院员工私下处理胎盘",
+      "onboard_time": 1742853133,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62194,
       "num": 62194,
       "word": "贝蒂斯2比1皇马",
@@ -66825,6 +66873,14 @@
       "onboard_time": 1742661320,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 62105,
+      "num": 80861,
+      "word": "与君歌重映收视率",
+      "onboard_time": 1742858358,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 62084,
@@ -66897,6 +66953,14 @@
       "onboard_time": 1742554941,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61472,
+      "num": 61472,
+      "word": "真人版白雪公主",
+      "onboard_time": 1742857818,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 61443,
@@ -68171,6 +68235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54655,
+      "num": 54655,
+      "word": "劳力士如今只要3万多",
+      "onboard_time": 1742858599,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 54641,
       "num": 139668,
       "word": "逆时的我们导演要退圈",
@@ -69107,6 +69179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51147,
+      "num": 51147,
+      "word": "郑钦文阳光双赛背靠背进八强",
+      "onboard_time": 1742858658,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51131,
       "num": 199211,
       "word": "无限暖暖妄想季",
@@ -69257,6 +69337,14 @@
       "onboard_time": 1741822521,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50428,
+      "num": 50428,
+      "word": "吴昕食物砸头转场视频",
+      "onboard_time": 1742849594,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 50417,
@@ -71547,14 +71635,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39289,
-      "num": 39289,
-      "word": "卫健委回应医院员工私下处理胎盘",
-      "onboard_time": 1742853133,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39270,
       "num": 232773,
       "word": "中国足协球员自荐系统上线",
@@ -71713,14 +71793,6 @@
       "onboard_time": 1742218644,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 38625,
-      "num": 38625,
-      "word": "吴昕食物砸头转场视频",
-      "onboard_time": 1742849594,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 38613,
@@ -72033,6 +72105,14 @@
       "onboard_time": 1741666943,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37316,
+      "num": 100774,
+      "word": "美国官员群聊袭击也门拉错了人",
+      "onboard_time": 1742858419,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37231,
@@ -73683,6 +73763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 30663,
+      "num": 738219,
+      "word": "万千气象看江苏",
+      "onboard_time": 1742825783,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30627,
       "num": 323473,
       "word": "尹烨说AI需要大模型也需要好应用",
@@ -75009,14 +75097,6 @@
       "onboard_time": 1741877664,
       "rank": 23,
       "category": "国内时政,国际时政"
-    },
-    {
-      "raw_hot": 25703,
-      "num": 738219,
-      "word": "万千气象看江苏",
-      "onboard_time": 1742825783,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25697,
@@ -78753,6 +78833,14 @@
       "onboard_time": 1742237235,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10158,
+      "num": 80624,
+      "word": "胡塞武装一周内六次导弹袭击以色列",
+      "onboard_time": 1742858539,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10106,

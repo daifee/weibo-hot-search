@@ -1,21 +1,29 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742856067913,
+  "endTime": 1742858689519,
   "band_list": [
+    {
+      "raw_hot": 947947,
+      "num": 947947,
+      "word": "远洋渔船船长在公海被船员杀害抛海",
+      "onboard_time": 1742832799,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 672522,
+      "num": 213576,
+      "word": "27岁女孩每天打3份工战胜不死癌症",
+      "onboard_time": 1742827042,
+      "rank": 11,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 517053,
       "num": 841079,
       "word": "央视曝光所谓瘦身咖啡真相",
       "onboard_time": 1742826983,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 516953,
-      "num": 527156,
-      "word": "远洋渔船船长在公海被船员杀害抛海",
-      "onboard_time": 1742832799,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -43,11 +51,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 419600,
-      "num": 213576,
-      "word": "27岁女孩每天打3份工战胜不死癌症",
-      "onboard_time": 1742827042,
-      "rank": 11,
+      "raw_hot": 368822,
+      "num": 368822,
+      "word": "北京大风",
+      "onboard_time": 1742856977,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -67,6 +75,14 @@
       "category": "互联网,教育"
     },
     {
+      "raw_hot": 341836,
+      "num": 209897,
+      "word": "金秀贤新料漫画提示",
+      "onboard_time": 1742824523,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335711,
       "num": 335711,
       "word": "睡前4个习惯让肚子长肉",
@@ -81,14 +97,6 @@
       "onboard_time": 1742802802,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 286041,
-      "num": 209897,
-      "word": "金秀贤新料漫画提示",
-      "onboard_time": 1742824523,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 269003,
@@ -107,12 +115,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213133,
+      "num": 213133,
+      "word": "为带小猫世纪婴儿高烧坐8小时大巴",
+      "onboard_time": 1742825124,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209789,
       "num": 209789,
       "word": "林心如新剧开拍",
       "onboard_time": 1742831961,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203585,
+      "num": 203585,
+      "word": "唐艺昕希望家里吃饭的时候不看手机",
+      "onboard_time": 1742824762,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200876,
+      "num": 200876,
+      "word": "网传医院工作人员疑私下处理胎盘",
+      "onboard_time": 1742843414,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193153,
@@ -123,12 +155,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169680,
-      "num": 169680,
-      "word": "唐艺昕希望家里吃饭的时候不看手机",
-      "onboard_time": 1742824762,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 165396,
+      "num": 165396,
+      "word": "杜特尔特赴香港系私人度假行程",
+      "onboard_time": 1742846593,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163036,
@@ -155,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155099,
+      "num": 155099,
+      "word": "可能交警有时候也挺想报警的",
+      "onboard_time": 1742850374,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147808,
       "num": 147808,
       "word": "卡琳娜cos陆光的原因找到了",
@@ -163,28 +203,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120347,
-      "num": 120347,
-      "word": "网传医院工作人员疑私下处理胎盘",
-      "onboard_time": 1742843414,
-      "rank": 11,
+      "raw_hot": 125868,
+      "num": 106898,
+      "word": "金秀贤称给金赛纶的信是朋友信之一",
+      "onboard_time": 1742819962,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119434,
+      "num": 119434,
+      "word": "希望小学一万四买相机只值六百引质疑",
+      "onboard_time": 1742823502,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114210,
-      "num": 114210,
-      "word": "可能交警有时候也挺想报警的",
-      "onboard_time": 1742850374,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 113411,
+      "num": 165282,
+      "word": "赵丽颖害羞成这样",
+      "onboard_time": 1742838555,
+      "rank": 19,
+      "category": "电影"
     },
     {
-      "raw_hot": 106268,
-      "num": 106268,
-      "word": "为带小猫世纪婴儿高烧坐8小时大巴",
-      "onboard_time": 1742825124,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 106609,
+      "num": 106609,
+      "word": "郑钦文vs克鲁格",
+      "onboard_time": 1742836396,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 100329,
@@ -203,14 +251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99068,
-      "num": 99068,
-      "word": "希望小学一万四买相机只值六百引质疑",
-      "onboard_time": 1742823502,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97908,
       "num": 97908,
       "word": "易烊千玺咋还写急眼了呢",
@@ -227,20 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88589,
-      "num": 88589,
-      "word": "郑钦文vs克鲁格",
-      "onboard_time": 1742836396,
-      "rank": 22,
+      "raw_hot": 88988,
+      "num": 101141,
+      "word": "马龙紧急撤回了一个头",
+      "onboard_time": 1742857457,
+      "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87394,
-      "num": 87394,
-      "word": "金秀贤称给金赛纶的信是朋友信之一",
-      "onboard_time": 1742819962,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 85211,
@@ -267,14 +299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82449,
-      "num": 82449,
-      "word": "杜特尔特赴香港系私人度假行程",
-      "onboard_time": 1742846593,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 81939,
       "num": 81939,
       "word": "四川泸州4.9级地震",
@@ -291,6 +315,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80723,
+      "num": 80723,
+      "word": "玉兰花瓣居然真的能吹成气球",
+      "onboard_time": 1742825061,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 80604,
+      "num": 80604,
+      "word": "PET使用10个月后可能释放致癌物",
+      "onboard_time": 1742858358,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78226,
       "num": 78226,
       "word": "美媒爆美将不惜代价研发金穹防御系统",
@@ -299,12 +339,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77820,
+      "num": 77820,
+      "word": "郑钦文连续轰出Ace",
+      "onboard_time": 1742857457,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74813,
-      "num": 74813,
+      "num": 81338,
       "word": "留几手首场直播带货销售额",
       "onboard_time": 1742825481,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74087,
+      "num": 107340,
+      "word": "半熟4男一男二都选了梁田",
+      "onboard_time": 1742819783,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 72949,
@@ -331,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69795,
+      "num": 88404,
+      "word": "时隔九个月以为黄亦玫回来了",
+      "onboard_time": 1742824344,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69117,
       "num": 69117,
       "word": "安徽蚌埠全市试行作业熔断机制",
@@ -345,14 +409,6 @@
       "onboard_time": 1742832440,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 65606,
-      "num": 65606,
-      "word": "赵丽颖害羞成这样",
-      "onboard_time": 1742838555,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 65486,
@@ -379,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63981,
+      "num": 107208,
+      "word": "郑钦文首进迈阿密赛八强",
+      "onboard_time": 1742858059,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62753,
       "num": 62753,
       "word": "外交部驳斥中国探讨参加乌维和部队",
@@ -387,20 +451,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62195,
+      "num": 62195,
+      "word": "卫健委回应医院员工私下处理胎盘",
+      "onboard_time": 1742853133,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62105,
+      "num": 80861,
+      "word": "与君歌重映收视率",
+      "onboard_time": 1742858358,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 61472,
+      "num": 61472,
+      "word": "真人版白雪公主",
+      "onboard_time": 1742857818,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60488,
       "num": 60488,
       "word": "张凌赫方否认私联",
       "onboard_time": 1742814982,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60108,
-      "num": 60108,
-      "word": "玉兰花瓣居然真的能吹成气球",
-      "onboard_time": 1742825061,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 59404,
@@ -427,12 +507,28 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 55615,
-      "num": 57225,
-      "word": "半熟4男一男二都选了梁田",
-      "onboard_time": 1742819783,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 56709,
+      "num": 56709,
+      "word": "檀健次出圈角色查重率为零",
+      "onboard_time": 1742830821,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 54655,
+      "num": 54655,
+      "word": "劳力士如今只要3万多",
+      "onboard_time": 1742858599,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 53136,
+      "num": 57217,
+      "word": "福宝恢复展出",
+      "onboard_time": 1742823743,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51697,
@@ -443,12 +539,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50936,
-      "num": 57217,
-      "word": "福宝恢复展出",
-      "onboard_time": 1742823743,
+      "raw_hot": 51147,
+      "num": 51147,
+      "word": "郑钦文阳光双赛背靠背进八强",
+      "onboard_time": 1742858658,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51139,
+      "num": 51139,
+      "word": "日本成立统合作战司令部",
+      "onboard_time": 1742819302,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 50428,
+      "num": 50428,
+      "word": "吴昕食物砸头转场视频",
+      "onboard_time": 1742849594,
       "rank": 49,
-      "category": "民生新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 42454,
@@ -459,30 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39289,
-      "num": 39289,
-      "word": "卫健委回应医院员工私下处理胎盘",
-      "onboard_time": 1742853133,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38625,
-      "num": 38625,
-      "word": "吴昕食物砸头转场视频",
-      "onboard_time": 1742849594,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 38249,
-      "num": 38815,
-      "word": "檀健次出圈角色查重率为零",
-      "onboard_time": 1742830821,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 37679,
       "num": 38811,
       "word": "书卷一梦",
@@ -491,20 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37280,
-      "num": 37280,
-      "word": "日本成立统合作战司令部",
-      "onboard_time": 1742819302,
-      "rank": 38,
+      "raw_hot": 37316,
+      "num": 100774,
+      "word": "美国官员群聊袭击也门拉错了人",
+      "onboard_time": 1742858419,
+      "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 34002,
-      "num": 34002,
-      "word": "时隔九个月以为黄亦玫回来了",
-      "onboard_time": 1742824344,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 31054,
@@ -513,6 +593,14 @@
       "onboard_time": 1742836818,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30663,
+      "num": 449850,
+      "word": "万千气象看江苏",
+      "onboard_time": 1742825783,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29329,
@@ -545,14 +633,6 @@
       "onboard_time": 1742851574,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25703,
-      "num": 449850,
-      "word": "万千气象看江苏",
-      "onboard_time": 1742825783,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25060,
@@ -616,6 +696,14 @@
       "word": "乌方仍在原地等待美俄会晤结果",
       "onboard_time": 1742839875,
       "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 10158,
+      "num": 80624,
+      "word": "胡塞武装一周内六次导弹袭击以色列",
+      "onboard_time": 1742858539,
+      "rank": 31,
       "category": "国际时政"
     }
   ],
