@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742858689519,
+  "endTime": 1742859482963,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1150966,
+      "num": 1150966,
+      "word": "远洋渔船船长在公海被船员杀害抛海",
+      "onboard_time": 1742832799,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1131205,
       "num": 1131205,
       "word": "李晟像极了没人发现的枯叶蝶",
@@ -304,14 +312,6 @@
       "word": "男童被打死案父亲说天天想儿子",
       "onboard_time": 1742785519,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 947947,
-      "num": 947947,
-      "word": "远洋渔船船长在公海被船员杀害抛海",
-      "onboard_time": 1742832799,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1011,6 +1011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 474167,
+      "num": 474167,
+      "word": "北京大风",
+      "onboard_time": 1742856977,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472854,
       "num": 472854,
       "word": "日本成立统合作战司令部",
@@ -1321,14 +1329,6 @@
       "onboard_time": 1742809159,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 368822,
-      "num": 368822,
-      "word": "北京大风",
-      "onboard_time": 1742856977,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 367436,
@@ -2051,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242684,
+      "num": 242684,
+      "word": "为带小猫世纪婴儿高烧坐8小时大巴",
+      "onboard_time": 1742825124,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241961,
       "num": 451776,
       "word": "吉林一村闯入老虎",
@@ -2339,6 +2347,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 214237,
+      "num": 214237,
+      "word": "网传医院工作人员疑私下处理胎盘",
+      "onboard_time": 1742843414,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213948,
       "num": 213948,
       "word": "山东一公园马匹撞伤多人有人进ICU",
@@ -2353,14 +2369,6 @@
       "onboard_time": 1742730381,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 213133,
-      "num": 213133,
-      "word": "为带小猫世纪婴儿高烧坐8小时大巴",
-      "onboard_time": 1742825124,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212162,
@@ -2593,14 +2601,6 @@
       "onboard_time": 1742803821,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 200876,
-      "num": 200876,
-      "word": "网传医院工作人员疑私下处理胎盘",
-      "onboard_time": 1742843414,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200420,
@@ -2915,6 +2915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186247,
+      "num": 186247,
+      "word": "杜特尔特赴香港系私人度假行程",
+      "onboard_time": 1742846593,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 186178,
       "num": 407266,
       "word": "偶遇王一博遛狗",
@@ -3227,14 +3235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 165396,
-      "num": 165396,
-      "word": "杜特尔特赴香港系私人度假行程",
-      "onboard_time": 1742846593,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 165265,
       "num": 165265,
       "word": "尤长靖高中竟然是学会计的",
@@ -3329,6 +3329,14 @@
       "onboard_time": 1742800222,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162788,
+      "num": 162788,
+      "word": "可能交警有时候也挺想报警的",
+      "onboard_time": 1742850374,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162614,
@@ -3569,14 +3577,6 @@
       "onboard_time": 1742696899,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155099,
-      "num": 155099,
-      "word": "可能交警有时候也挺想报警的",
-      "onboard_time": 1742850374,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154896,
@@ -4371,6 +4371,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 130377,
+      "num": 185762,
+      "word": "赵丽颖害羞成这样",
+      "onboard_time": 1742838555,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130213,
       "num": 130213,
       "word": "邓为对接回应风月不相关女主",
@@ -4393,6 +4401,14 @@
       "onboard_time": 1742727321,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128859,
+      "num": 128859,
+      "word": "PET使用10个月后可能释放致癌物",
+      "onboard_time": 1742858358,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128676,
@@ -4915,14 +4931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113411,
-      "num": 165282,
-      "word": "赵丽颖害羞成这样",
-      "onboard_time": 1742838555,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 113363,
       "num": 113363,
       "word": "被黄霄雲演唱会芭比造型硬控了",
@@ -5080,6 +5088,14 @@
       "word": "李艺彤卡琳娜清唱乘风主题曲",
       "onboard_time": 1742826864,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109230,
+      "num": 128854,
+      "word": "嗑到唐艺昕和张若昀的日常了",
+      "onboard_time": 1742858718,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -5491,6 +5507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97676,
+      "num": 101141,
+      "word": "马龙紧急撤回了一个头",
+      "onboard_time": 1742857457,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97638,
       "num": 97638,
       "word": "西山居 陆深",
@@ -5643,6 +5667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92517,
+      "num": 92517,
+      "word": "郑钦文连续轰出Ace",
+      "onboard_time": 1742857457,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91510,
       "num": 180784,
       "word": "吴艳妮调皮提醒记者别忘开美颜",
@@ -5705,14 +5737,6 @@
       "onboard_time": 1742750175,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88988,
-      "num": 101141,
-      "word": "马龙紧急撤回了一个头",
-      "onboard_time": 1742857457,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 87917,
@@ -5835,14 +5859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80604,
-      "num": 80604,
-      "word": "PET使用10个月后可能释放致癌物",
-      "onboard_time": 1742858358,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80176,
       "num": 80176,
       "word": "林忆莲演唱会至少还有你大合唱",
@@ -5899,14 +5915,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 77820,
-      "num": 77820,
-      "word": "郑钦文连续轰出Ace",
-      "onboard_time": 1742857457,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77380,
       "num": 85012,
       "word": "刘耀文新歌",
@@ -5955,12 +5963,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75256,
+      "num": 80861,
+      "word": "与君歌重映收视率",
+      "onboard_time": 1742858358,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74896,
       "num": 298659,
       "word": "汉马选手边跑边嗦热干面",
       "onboard_time": 1742700681,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74681,
+      "num": 107208,
+      "word": "郑钦文首进迈阿密赛八强",
+      "onboard_time": 1742858059,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 73661,
@@ -6051,6 +6075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70567,
+      "num": 73326,
+      "word": "真人版白雪公主",
+      "onboard_time": 1742857818,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69117,
       "num": 69117,
       "word": "安徽蚌埠全市试行作业熔断机制",
@@ -6099,12 +6131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67893,
+      "num": 67893,
+      "word": "劳力士如今只要3万多",
+      "onboard_time": 1742858599,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 67638,
       "num": 67638,
       "word": "丝塔芙红包",
       "onboard_time": 1742654663,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 67606,
+      "num": 179422,
+      "word": "美国官员群聊袭击也门拉错了人",
+      "onboard_time": 1742858419,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67324,
@@ -6187,14 +6235,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 63981,
-      "num": 107208,
-      "word": "郑钦文首进迈阿密赛八强",
-      "onboard_time": 1742858059,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 63955,
       "num": 63955,
       "word": "葡萄牙vs丹麦",
@@ -6251,8 +6291,8 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 62195,
-      "num": 62195,
+      "raw_hot": 62242,
+      "num": 62242,
       "word": "卫健委回应医院员工私下处理胎盘",
       "onboard_time": 1742853133,
       "rank": 19,
@@ -6267,20 +6307,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 62105,
-      "num": 80861,
-      "word": "与君歌重映收视率",
-      "onboard_time": 1742858358,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 61472,
-      "num": 61472,
-      "word": "真人版白雪公主",
-      "onboard_time": 1742857818,
-      "rank": 37,
-      "category": "电影"
+      "raw_hot": 61279,
+      "num": 61279,
+      "word": "郑钦文阳光双赛背靠背进八强",
+      "onboard_time": 1742858658,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 61082,
@@ -6321,6 +6353,14 @@
       "onboard_time": 1742815220,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 59519,
+      "num": 59519,
+      "word": "别再用饮料瓶装大米酱油了",
+      "onboard_time": 1742859259,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 59516,
@@ -6427,14 +6467,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 54655,
-      "num": 54655,
-      "word": "劳力士如今只要3万多",
-      "onboard_time": 1742858599,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 54402,
       "num": 54402,
       "word": "宝蓝说iG真要进世界赛了",
@@ -6488,14 +6520,6 @@
       "word": "F1中国大奖赛到场观众人次创新高",
       "onboard_time": 1742722821,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 51147,
-      "num": 51147,
-      "word": "郑钦文阳光双赛背靠背进八强",
-      "onboard_time": 1742858658,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -6771,14 +6795,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 37316,
-      "num": 100774,
-      "word": "美国官员群聊袭击也门拉错了人",
-      "onboard_time": 1742858419,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37200,
       "num": 202904,
       "word": "周冠宇晒照致谢车迷",
@@ -6899,12 +6915,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 31954,
+      "num": 738219,
+      "word": "万千气象看江苏",
+      "onboard_time": 1742825783,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31817,
       "num": 182026,
       "word": "懒人做饭的秘诀是一锅出",
       "onboard_time": 1742699601,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31784,
+      "num": 169525,
+      "word": "6.5万球迷将现场为国足助威",
+      "onboard_time": 1742858779,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 31765,
@@ -6963,14 +6995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30663,
-      "num": 738219,
-      "word": "万千气象看江苏",
-      "onboard_time": 1742825783,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 30489,
       "num": 586911,
       "word": "文化中国行看春天里的中国",
@@ -6995,12 +7019,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29572,
+      "num": 166831,
+      "word": "李磊说在我们的主场一切皆有可能",
+      "onboard_time": 1742858959,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29554,
       "num": 30750,
       "word": "一些金包银首饰效果只有几个月",
       "onboard_time": 1742673915,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29541,
+      "num": 174618,
+      "word": "特朗普预计乌克兰很快签矿产协议",
+      "onboard_time": 1742858779,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29329,
@@ -7041,6 +7081,14 @@
       "onboard_time": 1742808922,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28488,
+      "num": 176887,
+      "word": "胡塞武装一周内六次导弹袭击以色列",
+      "onboard_time": 1742858539,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27978,
@@ -7243,6 +7291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 19127,
+      "num": 129646,
+      "word": "宋威龙生日直播",
+      "onboard_time": 1742859200,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18147,
       "num": 25399,
       "word": "张泽禹把鸽子叫好鸽们",
@@ -7433,14 +7489,6 @@
       "onboard_time": 1742677814,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10158,
-      "num": 80624,
-      "word": "胡塞武装一周内六次导弹袭击以色列",
-      "onboard_time": 1742858539,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 8279,

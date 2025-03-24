@@ -1,17 +1,17 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742858689519,
+  "endTime": 1742859482963,
   "band_list": [
     {
-      "raw_hot": 947947,
-      "num": 947947,
+      "raw_hot": 1150966,
+      "num": 1150966,
       "word": "远洋渔船船长在公海被船员杀害抛海",
       "onboard_time": 1742832799,
       "rank": 9,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 672522,
+      "raw_hot": 742575,
       "num": 213576,
       "word": "27岁女孩每天打3份工战胜不死癌症",
       "onboard_time": 1742827042,
@@ -43,6 +43,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 474167,
+      "num": 474167,
+      "word": "北京大风",
+      "onboard_time": 1742856977,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 438117,
       "num": 438117,
       "word": "电影学院失联女生半年没回过家",
@@ -51,12 +59,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 368822,
-      "num": 368822,
-      "word": "北京大风",
-      "onboard_time": 1742856977,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 373771,
+      "num": 209897,
+      "word": "金秀贤新料漫画提示",
+      "onboard_time": 1742824523,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 358825,
@@ -75,14 +83,6 @@
       "category": "互联网,教育"
     },
     {
-      "raw_hot": 341836,
-      "num": 209897,
-      "word": "金秀贤新料漫画提示",
-      "onboard_time": 1742824523,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 335711,
       "num": 335711,
       "word": "睡前4个习惯让肚子长肉",
@@ -99,12 +99,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 298558,
+      "num": 298558,
+      "word": "唐艺昕希望家里吃饭的时候不看手机",
+      "onboard_time": 1742824762,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269003,
       "num": 269003,
       "word": "茶百道发文致歉",
       "onboard_time": 1742800762,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242684,
+      "num": 242684,
+      "word": "为带小猫世纪婴儿高烧坐8小时大巴",
+      "onboard_time": 1742825124,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217409,
@@ -115,11 +131,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213133,
-      "num": 213133,
-      "word": "为带小猫世纪婴儿高烧坐8小时大巴",
-      "onboard_time": 1742825124,
-      "rank": 26,
+      "raw_hot": 214237,
+      "num": 214237,
+      "word": "网传医院工作人员疑私下处理胎盘",
+      "onboard_time": 1742843414,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -131,36 +147,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203585,
-      "num": 203585,
-      "word": "唐艺昕希望家里吃饭的时候不看手机",
-      "onboard_time": 1742824762,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 200876,
-      "num": 200876,
-      "word": "网传医院工作人员疑私下处理胎盘",
-      "onboard_time": 1742843414,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193153,
-      "num": 135532,
+      "num": 146579,
       "word": "臭屁虫虫卵千万别碰",
       "onboard_time": 1742827823,
       "rank": 20,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165396,
-      "num": 165396,
+      "raw_hot": 186247,
+      "num": 186247,
       "word": "杜特尔特赴香港系私人度假行程",
       "onboard_time": 1742846593,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173213,
+      "num": 173213,
+      "word": "希望小学一万四买相机只值六百引质疑",
+      "onboard_time": 1742823502,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163036,
@@ -171,8 +179,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 162788,
+      "num": 162788,
+      "word": "可能交警有时候也挺想报警的",
+      "onboard_time": 1742850374,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159356,
-      "num": 159356,
+      "num": 171989,
       "word": "王一博即将再次向赛道发起挑战",
       "onboard_time": 1742829502,
       "rank": 17,
@@ -187,14 +203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155099,
-      "num": 155099,
-      "word": "可能交警有时候也挺想报警的",
-      "onboard_time": 1742850374,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147808,
       "num": 147808,
       "word": "卡琳娜cos陆光的原因找到了",
@@ -203,28 +211,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125868,
-      "num": 106898,
+      "raw_hot": 130377,
+      "num": 185762,
+      "word": "赵丽颖害羞成这样",
+      "onboard_time": 1742838555,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 128859,
+      "num": 128859,
+      "word": "PET使用10个月后可能释放致癌物",
+      "onboard_time": 1742858358,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128249,
+      "num": 128249,
       "word": "金秀贤称给金赛纶的信是朋友信之一",
       "onboard_time": 1742819962,
       "rank": 27,
       "category": "艺人"
     },
     {
-      "raw_hot": 119434,
-      "num": 119434,
-      "word": "希望小学一万四买相机只值六百引质疑",
-      "onboard_time": 1742823502,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113411,
-      "num": 165282,
-      "word": "赵丽颖害羞成这样",
-      "onboard_time": 1742838555,
-      "rank": 19,
-      "category": "电影"
+      "raw_hot": 109230,
+      "num": 128854,
+      "word": "嗑到唐艺昕和张若昀的日常了",
+      "onboard_time": 1742858718,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 106609,
@@ -259,20 +275,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97676,
+      "num": 101141,
+      "word": "马龙紧急撤回了一个头",
+      "onboard_time": 1742857457,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92517,
+      "num": 92517,
+      "word": "郑钦文连续轰出Ace",
+      "onboard_time": 1742857457,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92482,
+      "num": 92482,
+      "word": "玉兰花瓣居然真的能吹成气球",
+      "onboard_time": 1742825061,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 89402,
       "num": 89402,
       "word": "雁回时",
       "onboard_time": 1742811383,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88988,
-      "num": 101141,
-      "word": "马龙紧急撤回了一个头",
-      "onboard_time": 1742857457,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 85211,
@@ -299,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82381,
+      "num": 128552,
+      "word": "半熟4男一男二都选了梁田",
+      "onboard_time": 1742819783,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81939,
       "num": 81939,
       "word": "四川泸州4.9级地震",
@@ -307,26 +347,18 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 81832,
+      "num": 128362,
+      "word": "时隔九个月以为黄亦玫回来了",
+      "onboard_time": 1742824344,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81473,
       "num": 81473,
       "word": "男子骑行遭风筝线割穿头盔",
       "onboard_time": 1742820382,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80723,
-      "num": 80723,
-      "word": "玉兰花瓣居然真的能吹成气球",
-      "onboard_time": 1742825061,
-      "rank": 44,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 80604,
-      "num": 80604,
-      "word": "PET使用10个月后可能释放致癌物",
-      "onboard_time": 1742858358,
       "rank": 32,
       "category": "民生新闻"
     },
@@ -339,12 +371,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 77820,
-      "num": 77820,
-      "word": "郑钦文连续轰出Ace",
-      "onboard_time": 1742857457,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 75256,
+      "num": 80861,
+      "word": "与君歌重映收视率",
+      "onboard_time": 1742858358,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 74930,
+      "num": 74930,
+      "word": "曝小米要募集超380亿",
+      "onboard_time": 1742825543,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 74813,
@@ -355,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74087,
-      "num": 107340,
-      "word": "半熟4男一男二都选了梁田",
-      "onboard_time": 1742819783,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 74681,
+      "num": 107208,
+      "word": "郑钦文首进迈阿密赛八强",
+      "onboard_time": 1742858059,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 72949,
@@ -387,12 +427,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69795,
-      "num": 88404,
-      "word": "时隔九个月以为黄亦玫回来了",
-      "onboard_time": 1742824344,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 70567,
+      "num": 73326,
+      "word": "真人版白雪公主",
+      "onboard_time": 1742857818,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 69117,
@@ -411,12 +451,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65486,
-      "num": 65486,
-      "word": "曝小米要募集超380亿",
-      "onboard_time": 1742825543,
-      "rank": 39,
+      "raw_hot": 67893,
+      "num": 67893,
+      "word": "劳力士如今只要3万多",
+      "onboard_time": 1742858599,
+      "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 67606,
+      "num": 179422,
+      "word": "美国官员群聊袭击也门拉错了人",
+      "onboard_time": 1742858419,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65199,
@@ -435,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63981,
-      "num": 107208,
-      "word": "郑钦文首进迈阿密赛八强",
-      "onboard_time": 1742858059,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 62753,
       "num": 62753,
       "word": "外交部驳斥中国探讨参加乌维和部队",
@@ -451,28 +491,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 62195,
-      "num": 62195,
+      "raw_hot": 62242,
+      "num": 62242,
       "word": "卫健委回应医院员工私下处理胎盘",
       "onboard_time": 1742853133,
       "rank": 19,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62105,
-      "num": 80861,
-      "word": "与君歌重映收视率",
-      "onboard_time": 1742858358,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 61472,
-      "num": 61472,
-      "word": "真人版白雪公主",
-      "onboard_time": 1742857818,
-      "rank": 37,
-      "category": "电影"
+      "raw_hot": 61279,
+      "num": 61279,
+      "word": "郑钦文阳光双赛背靠背进八强",
+      "onboard_time": 1742858658,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 60488,
@@ -481,6 +513,14 @@
       "onboard_time": 1742814982,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59519,
+      "num": 59519,
+      "word": "别再用饮料瓶装大米酱油了",
+      "onboard_time": 1742859259,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 59404,
@@ -515,14 +555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54655,
-      "num": 54655,
-      "word": "劳力士如今只要3万多",
-      "onboard_time": 1742858599,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 53136,
       "num": 57217,
       "word": "福宝恢复展出",
@@ -537,14 +569,6 @@
       "onboard_time": 1742828124,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 51147,
-      "num": 51147,
-      "word": "郑钦文阳光双赛背靠背进八强",
-      "onboard_time": 1742858658,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 51139,
@@ -579,12 +603,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37316,
-      "num": 100774,
-      "word": "美国官员群聊袭击也门拉错了人",
-      "onboard_time": 1742858419,
-      "rank": 25,
-      "category": "国际时政"
+      "raw_hot": 31954,
+      "num": 454900,
+      "word": "万千气象看江苏",
+      "onboard_time": 1742825783,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 31784,
+      "num": 169525,
+      "word": "6.5万球迷将现场为国足助威",
+      "onboard_time": 1742858779,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 31054,
@@ -595,12 +627,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30663,
-      "num": 449850,
-      "word": "万千气象看江苏",
-      "onboard_time": 1742825783,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 29572,
+      "num": 166831,
+      "word": "李磊说在我们的主场一切皆有可能",
+      "onboard_time": 1742858959,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29541,
+      "num": 174618,
+      "word": "特朗普预计乌克兰很快签矿产协议",
+      "onboard_time": 1742858779,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29329,
@@ -609,6 +649,14 @@
       "onboard_time": 1742837415,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28488,
+      "num": 176887,
+      "word": "胡塞武装一周内六次导弹袭击以色列",
+      "onboard_time": 1742858539,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27978,
@@ -649,6 +697,14 @@
       "onboard_time": 1742840654,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19127,
+      "num": 129646,
+      "word": "宋威龙生日直播",
+      "onboard_time": 1742859200,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 15709,
@@ -696,14 +752,6 @@
       "word": "乌方仍在原地等待美俄会晤结果",
       "onboard_time": 1742839875,
       "rank": 21,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 10158,
-      "num": 80624,
-      "word": "胡塞武装一周内六次导弹袭击以色列",
-      "onboard_time": 1742858539,
-      "rank": 31,
       "category": "国际时政"
     }
   ],

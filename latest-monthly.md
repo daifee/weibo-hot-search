@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/03/01 00:29:32 ~ 2025/03/25 07:24:49
+本榜单时间：2025/03/01 00:29:32 ~ 2025/03/25 07:38:02
 </p>
 </blockquote>
 <p>
@@ -3015,6 +3015,12 @@ NJZ宣布暂停活动（热度：1165039）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9C%E6%B4%8B%E6%B8%94%E8%88%B9%E8%88%B9%E9%95%BF%E5%9C%A8%E5%85%AC%E6%B5%B7%E8%A2%AB%E8%88%B9%E5%91%98%E6%9D%80%E5%AE%B3%E6%8A%9B%E6%B5%B7%23" target="weibo">
+远洋渔船船长在公海被船员杀害抛海（热度：1150966）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%20%E9%AD%94%E6%94%B9%23" target="weibo">
 难哄 魔改（热度：1148974）
 </a>
@@ -4031,12 +4037,6 @@ DeepSeek没彻底改变全球AI发展格局（热度：1006977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E7%A9%BF%E4%BA%86%E7%8F%8D%E7%8F%A0%E6%96%B0%E4%B8%AD%E5%BC%8F%23" target="weibo">
 张柏芝穿了珍珠新中式（热度：950085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9C%E6%B4%8B%E6%B8%94%E8%88%B9%E8%88%B9%E9%95%BF%E5%9C%A8%E5%85%AC%E6%B5%B7%E8%A2%AB%E8%88%B9%E5%91%98%E6%9D%80%E5%AE%B3%E6%8A%9B%E6%B5%B7%23" target="weibo">
-远洋渔船船长在公海被船员杀害抛海（热度：947947）
 </a>
 </li>
 
