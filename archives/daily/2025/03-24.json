@@ -1,6 +1,6 @@
 {
   "startTime": 1742747228173,
-  "endTime": 1742801891073,
+  "endTime": 1742805136719,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -9,6 +9,14 @@
       "onboard_time": 1742793263,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2325775,
+      "num": 462606,
+      "word": "考公博主吴桐 塌房",
+      "onboard_time": 1742802802,
+      "rank": 10,
+      "category": "教育,网红"
     },
     {
       "raw_hot": 2242889,
@@ -27,6 +35,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2233372,
+      "num": 2233372,
+      "word": "茶百道发文致歉",
+      "onboard_time": 1742800762,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1946091,
       "num": 1190556,
       "word": "10个黄晓明5个赵丽颖聚餐",
@@ -35,20 +51,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1850440,
+      "num": 1850440,
+      "word": "世纪婴儿发烧后硬挺了5天",
+      "onboard_time": 1742802861,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1775586,
       "num": 1014977,
       "word": "上官正义曝17岁少女为50岁男子代孕",
       "onboard_time": 1742784320,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1767011,
-      "num": 1767011,
-      "word": "茶百道发文致歉",
-      "onboard_time": 1742800762,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1391904,
@@ -235,6 +251,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 573411,
+      "num": 573411,
+      "word": "将门毒后 刘晓庆陈宝国",
+      "onboard_time": 1742800641,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 555808,
+      "num": 555808,
+      "word": "余承东刘亦菲直播",
+      "onboard_time": 1742801602,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545648,
       "num": 545648,
       "word": "哈马斯新任领导人被打死",
@@ -267,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 500655,
-      "num": 456632,
-      "word": "将门毒后 刘晓庆陈宝国",
-      "onboard_time": 1742800641,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 495112,
       "num": 284347,
       "word": "禹宙中欣",
@@ -305,6 +329,14 @@
       "onboard_time": 1742742202,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 456183,
+      "num": 456183,
+      "word": "分手后男子拉账单发现1年花50万",
+      "onboard_time": 1742800343,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 453533,
@@ -403,6 +435,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 356881,
+      "num": 473476,
+      "word": "钱存越久越亏可能正在成为现实",
+      "onboard_time": 1742801062,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356184,
       "num": 356184,
       "word": "奔跑吧武汉录制",
@@ -417,6 +457,22 @@
       "onboard_time": 1742791286,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 350078,
+      "num": 350078,
+      "word": "石家庄偶遇鹿晗拍摄",
+      "onboard_time": 1742804362,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 349194,
+      "num": 349194,
+      "word": "王嘉尔speed打乒乓球",
+      "onboard_time": 1742804243,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 347756,
@@ -441,6 +497,14 @@
       "onboard_time": 1742778920,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331251,
+      "num": 331251,
+      "word": "刘亦菲手捧玫瑰美我一跳",
+      "onboard_time": 1742801422,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 327375,
@@ -481,6 +545,14 @@
       "onboard_time": 1742798061,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303928,
+      "num": 455373,
+      "word": "心源性猝死前有哪些征兆",
+      "onboard_time": 1742799802,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 296887,
@@ -563,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270193,
-      "num": 270193,
-      "word": "分手后男子拉账单发现1年花50万",
-      "onboard_time": 1742800343,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269588,
       "num": 200797,
       "word": "霍思燕牵着嗯哼逛街",
@@ -627,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248758,
+      "num": 248758,
+      "word": "辛云来演技",
+      "onboard_time": 1742802742,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247803,
       "num": 247803,
       "word": "周杰伦林志颖法拉利领队合影",
@@ -657,14 +729,6 @@
       "onboard_time": 1742787141,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 241080,
-      "num": 455373,
-      "word": "心源性猝死前有哪些征兆",
-      "onboard_time": 1742799802,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 240620,
@@ -713,6 +777,14 @@
       "onboard_time": 1742787200,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227497,
+      "num": 227497,
+      "word": "A股海洋经济概念拉升",
+      "onboard_time": 1742804602,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 224619,
@@ -776,6 +848,14 @@
       "word": "上海现9.9元共享工位",
       "onboard_time": 1742797042,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211291,
+      "num": 211291,
+      "word": "海漂一天一夜的小孩哥又出去玩了",
+      "onboard_time": 1742800343,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -891,14 +971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 196335,
-      "num": 196335,
-      "word": "余承东刘亦菲直播",
-      "onboard_time": 1742801602,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194345,
       "num": 194345,
       "word": "小米音频眼镜二代将上线",
@@ -987,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176476,
-      "num": 176476,
-      "word": "刘亦菲手捧玫瑰美我一跳",
-      "onboard_time": 1742801422,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173101,
       "num": 173101,
       "word": "上班焦虑症",
@@ -1019,14 +1083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 171136,
-      "num": 171136,
-      "word": "海漂一天一夜的小孩哥又出去玩了",
-      "onboard_time": 1742800343,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168983,
       "num": 168983,
       "word": "6年的阿贝贝破烂不堪女孩仍爱不释手",
@@ -1041,6 +1097,14 @@
       "onboard_time": 1742740943,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167415,
+      "num": 167415,
+      "word": "青岛23岁女大学生凌晨外出失联四天",
+      "onboard_time": 1742803762,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166415,
@@ -1067,6 +1131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 164257,
+      "num": 164257,
+      "word": "雷军回武汉大学了",
+      "onboard_time": 1742803821,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 164213,
       "num": 164213,
       "word": "沙溢宋雨琦张真源一起走红毯",
@@ -1083,11 +1155,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162791,
+      "num": 159691,
+      "word": "人 别叫我土狗",
+      "onboard_time": 1742800222,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162007,
       "num": 229090,
       "word": "韩国训练生为了出道变成泰漂",
       "onboard_time": 1742740101,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160227,
+      "num": 160227,
+      "word": "奔跑吧全员千禧风",
+      "onboard_time": 1742798242,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1099,11 +1187,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 158524,
-      "num": 158524,
-      "word": "钱存越久越亏可能正在成为现实",
-      "onboard_time": 1742801062,
-      "rank": 46,
+      "raw_hot": 158300,
+      "num": 158300,
+      "word": "将门毒后",
+      "onboard_time": 1742803521,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156686,
+      "num": 156686,
+      "word": "世纪婴儿母亲发声",
+      "onboard_time": 1742803222,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1120,6 +1216,14 @@
       "word": "李晨周深孟子义走红毯",
       "onboard_time": 1742787681,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155634,
+      "num": 155634,
+      "word": "周深孟子义周传雄史诗级会面",
+      "onboard_time": 1742801483,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -1195,6 +1299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137379,
+      "num": 449363,
+      "word": "广州卫健委正核实17岁女孩代孕",
+      "onboard_time": 1742801422,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136848,
       "num": 136848,
       "word": "歌手吴克群为演唱会忘词道歉",
@@ -1243,12 +1355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132852,
-      "num": 132852,
-      "word": "奔跑吧全员千禧风",
-      "onboard_time": 1742798242,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 132726,
+      "num": 132726,
+      "word": "唐艺昕裸背红裙",
+      "onboard_time": 1742804782,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 131135,
@@ -1289,14 +1401,6 @@
       "onboard_time": 1742801782,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127314,
-      "num": 127314,
-      "word": "周深孟子义周传雄史诗级会面",
-      "onboard_time": 1742801483,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 127294,
@@ -1419,6 +1523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119563,
+      "num": 119563,
+      "word": "卫枝少女叽的贵卡出生了",
+      "onboard_time": 1742804421,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119379,
       "num": 225901,
       "word": "维金斯42分",
@@ -1499,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106063,
+      "num": 106063,
+      "word": "等等鼻子和孙俪太像了",
+      "onboard_time": 1742802082,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105798,
       "num": 105798,
       "word": "夏以昼我们去下一个世界",
@@ -1521,6 +1641,14 @@
       "onboard_time": 1742798542,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102270,
+      "num": 102270,
+      "word": "赵丽颖兰西雅一个害羞一个撅嘴",
+      "onboard_time": 1742804302,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 100804,
@@ -1547,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100001,
+      "num": 100001,
+      "word": "华晨宇好想爱这个世界啊具像化了",
+      "onboard_time": 1742803222,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99813,
       "num": 99813,
       "word": "汪苏泷专门让徐良点歌",
@@ -1561,6 +1697,14 @@
       "onboard_time": 1742772200,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99168,
+      "num": 99168,
+      "word": "停止精神内耗方法",
+      "onboard_time": 1742805082,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 98193,
@@ -1779,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65613,
+      "num": 159699,
+      "word": "男童被生母及男友殴打致死案姥姥发声",
+      "onboard_time": 1742804960,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65440,
       "num": 228939,
       "word": "杭州全城为国足打call",
@@ -1939,6 +2091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45007,
+      "num": 1789994,
+      "word": "赏花经济赋能乡村振兴",
+      "onboard_time": 1742786841,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44605,
       "num": 310854,
       "word": "用明信片打开归国文物瑰宝",
@@ -2035,11 +2195,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34333,
-      "num": 449363,
-      "word": "广州卫健委正核实17岁女孩代孕",
-      "onboard_time": 1742801422,
-      "rank": 14,
+      "raw_hot": 34709,
+      "num": 254422,
+      "word": "只上了五节课难退费还背上消费贷",
+      "onboard_time": 1742803762,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2056,6 +2216,14 @@
       "word": "专家辟谣床头放苹果助眠",
       "onboard_time": 1742797221,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32952,
+      "num": 464186,
+      "word": "餐饮店禁烟应为公众基本共识",
+      "onboard_time": 1742804182,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2185,14 +2353,6 @@
       "onboard_time": 1742751676,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15164,
-      "num": 1789994,
-      "word": "赏花经济赋能乡村振兴",
-      "onboard_time": 1742786841,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13157,

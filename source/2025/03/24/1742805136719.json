@@ -1,0 +1,410 @@
+{
+  "runTime": 1742805136719,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2233372,
+        "num": 2233372,
+        "word": "茶百道发文致歉",
+        "onboard_time": 1742800762,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1850440,
+        "num": 1850440,
+        "word": "世纪婴儿发烧后硬挺了5天",
+        "onboard_time": 1742802861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45007,
+        "num": 1285033,
+        "word": "赏花经济赋能乡村振兴",
+        "onboard_time": 1742786841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1043312,
+        "num": 1043312,
+        "word": "日本全面取消女警裙装制服",
+        "onboard_time": 1742799202,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1008155,
+        "num": 1008155,
+        "word": "2000年0时0分出生的世纪婴儿去世",
+        "onboard_time": 1742793263,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573411,
+        "num": 573411,
+        "word": "将门毒后 刘晓庆陈宝国",
+        "onboard_time": 1742800641,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 555808,
+        "num": 555808,
+        "word": "余承东刘亦菲直播",
+        "onboard_time": 1742801602,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522450,
+        "num": 522450,
+        "word": "郭麒麟正面回应德云社继承人",
+        "onboard_time": 1742794883,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356881,
+        "num": 473476,
+        "word": "钱存越久越亏可能正在成为现实",
+        "onboard_time": 1742801062,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32952,
+        "num": 464186,
+        "word": "餐饮店禁烟应为公众基本共识",
+        "onboard_time": 1742804182,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2325775,
+        "num": 462606,
+        "word": "考公博主吴桐 塌房",
+        "onboard_time": 1742802802,
+        "rank": 10,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 456183,
+        "num": 456183,
+        "word": "分手后男子拉账单发现1年花50万",
+        "onboard_time": 1742800343,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379038,
+        "num": 379038,
+        "word": "14岁等等好帅",
+        "onboard_time": 1742790563,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350078,
+        "num": 350078,
+        "word": "石家庄偶遇鹿晗拍摄",
+        "onboard_time": 1742804362,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349194,
+        "num": 349194,
+        "word": "王嘉尔speed打乒乓球",
+        "onboard_time": 1742804243,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331251,
+        "num": 331251,
+        "word": "刘亦菲手捧玫瑰美我一跳",
+        "onboard_time": 1742801422,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303928,
+        "num": 303928,
+        "word": "心源性猝死前有哪些征兆",
+        "onboard_time": 1742799802,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 276106,
+        "num": 276106,
+        "word": "避谶",
+        "onboard_time": 1742795784,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262438,
+        "num": 262438,
+        "word": "水果骗局",
+        "onboard_time": 1742786121,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34709,
+        "num": 254422,
+        "word": "只上了五节课难退费还背上消费贷",
+        "onboard_time": 1742803762,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248758,
+        "num": 248758,
+        "word": "辛云来演技",
+        "onboard_time": 1742802742,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227497,
+        "num": 227497,
+        "word": "A股海洋经济概念拉升",
+        "onboard_time": 1742804602,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 216703,
+        "num": 216703,
+        "word": "减重医生42天减48斤",
+        "onboard_time": 1742789062,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 211291,
+        "num": 211291,
+        "word": "海漂一天一夜的小孩哥又出去玩了",
+        "onboard_time": 1742800343,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203864,
+        "num": 203864,
+        "word": "何泓姗选组 上错花轿嫁错人",
+        "onboard_time": 1742800401,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167415,
+        "num": 167415,
+        "word": "青岛23岁女大学生凌晨外出失联四天",
+        "onboard_time": 1742803762,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164257,
+        "num": 164257,
+        "word": "雷军回武汉大学了",
+        "onboard_time": 1742803821,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160227,
+        "num": 160227,
+        "word": "奔跑吧全员千禧风",
+        "onboard_time": 1742798242,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65613,
+        "num": 159699,
+        "word": "男童被生母及男友殴打致死案姥姥发声",
+        "onboard_time": 1742804960,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162791,
+        "num": 159691,
+        "word": "人 别叫我土狗",
+        "onboard_time": 1742800222,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159581,
+        "num": 159581,
+        "word": "3岁娃暴发性心肌炎确诊到去世仅3小时",
+        "onboard_time": 1742791764,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158300,
+        "num": 158300,
+        "word": "将门毒后",
+        "onboard_time": 1742803521,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156686,
+        "num": 156686,
+        "word": "世纪婴儿母亲发声",
+        "onboard_time": 1742803222,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155634,
+        "num": 155634,
+        "word": "周深孟子义周传雄史诗级会面",
+        "onboard_time": 1742801483,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145318,
+        "num": 145318,
+        "word": "李昀锐出妆",
+        "onboard_time": 1742798061,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143131,
+        "num": 143131,
+        "word": "茶百道",
+        "onboard_time": 1742793984,
+        "rank": 35,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 141118,
+        "num": 141118,
+        "word": "困在没有退休金日子里的父母",
+        "onboard_time": 1742790623,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137379,
+        "num": 137379,
+        "word": "广州卫健委正核实17岁女孩代孕",
+        "onboard_time": 1742801422,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132726,
+        "num": 132726,
+        "word": "唐艺昕裸背红裙",
+        "onboard_time": 1742804782,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127040,
+        "num": 127040,
+        "word": "金秀贤方否认至今为止的一切",
+        "onboard_time": 1742792665,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119563,
+        "num": 119563,
+        "word": "卫枝少女叽的贵卡出生了",
+        "onboard_time": 1742804421,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106063,
+        "num": 106063,
+        "word": "等等鼻子和孙俪太像了",
+        "onboard_time": 1742802082,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103695,
+        "num": 103695,
+        "word": "上海现9.9元共享工位",
+        "onboard_time": 1742797042,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103338,
+        "num": 103338,
+        "word": "张韶涵奔跑吧重现公主小妹",
+        "onboard_time": 1742794043,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118085,
+        "num": 103329,
+        "word": "金秀贤告发N号房爆料记者",
+        "onboard_time": 1742794762,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103265,
+        "num": 103265,
+        "word": "吉林一村闯入老虎",
+        "onboard_time": 1742797762,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102270,
+        "num": 102270,
+        "word": "赵丽颖兰西雅一个害羞一个撅嘴",
+        "onboard_time": 1742804302,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100001,
+        "num": 100001,
+        "word": "华晨宇好想爱这个世界啊具像化了",
+        "onboard_time": 1742803222,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99325,
+        "num": 99325,
+        "word": "有你的时光里定档",
+        "onboard_time": 1742801782,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99168,
+        "num": 99168,
+        "word": "停止精神内耗方法",
+        "onboard_time": 1742805082,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#党在新时代的徙木立信之举#"
+    }
+  }
+}
