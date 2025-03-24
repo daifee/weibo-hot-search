@@ -1,0 +1,410 @@
+{
+  "runTime": 1742788190818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 955449,
+        "num": 1152871,
+        "word": "男童被打死案父亲说天天想儿子",
+        "onboard_time": 1742785519,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722604,
+        "num": 722604,
+        "word": "奔跑吧13直播走红毯",
+        "onboard_time": 1742783060,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21804,
+        "num": 701214,
+        "word": "当中国古建邂逅春光",
+        "onboard_time": 1742787501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687231,
+        "num": 687231,
+        "word": "恋与深空",
+        "onboard_time": 1742785941,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 527926,
+        "num": 527926,
+        "word": "91岁老人担心女儿没尊严立遗嘱保护",
+        "onboard_time": 1742784981,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1376540,
+        "num": 501651,
+        "word": "上官正义曝17岁少女为50岁男子代孕",
+        "onboard_time": 1742784320,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467164,
+        "num": 467164,
+        "word": "这波升温后又是剧烈降温",
+        "onboard_time": 1742777840,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461289,
+        "num": 461289,
+        "word": "宋妍霏说马丽去浪姐会是团宠",
+        "onboard_time": 1742785460,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398895,
+        "num": 398895,
+        "word": "倒春寒从身体4个部位入侵",
+        "onboard_time": 1742785641,
+        "rank": 8,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 127294,
+        "num": 390041,
+        "word": "党在新时代的徙木立信之举",
+        "onboard_time": 1742787440,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 963577,
+        "num": 377189,
+        "word": "水果骗局",
+        "onboard_time": 1742786121,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 761200,
+        "num": 371179,
+        "word": "山崎贤人广濑铃 分手",
+        "onboard_time": 1742784500,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606359,
+        "num": 355839,
+        "word": "难听",
+        "onboard_time": 1742775741,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 553962,
+        "num": 340156,
+        "word": "先梳头再洗头千万别来回揉搓",
+        "onboard_time": 1742742323,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 472190,
+        "num": 336892,
+        "word": "Prada 朱志鑫",
+        "onboard_time": 1742781080,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 465548,
+        "num": 326758,
+        "word": "金秀贤方起诉散布半裸洗碗照片者",
+        "onboard_time": 1742779879,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315883,
+        "num": 315883,
+        "word": "小小的勇气定档",
+        "onboard_time": 1742786661,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295891,
+        "num": 295891,
+        "word": "夏以昼终极兵器",
+        "onboard_time": 1742786959,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288269,
+        "num": 288269,
+        "word": "SEVENTEEN将合体回归",
+        "onboard_time": 1742787021,
+        "rank": 18,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 256244,
+        "num": 256244,
+        "word": "王源 潮石主办",
+        "onboard_time": 1742788040,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51785,
+        "num": 256224,
+        "word": "偶遇王一博遛狗",
+        "onboard_time": 1742787200,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256210,
+        "num": 256210,
+        "word": "熊孩子丢湿巾砸中私家车赔7000元",
+        "onboard_time": 1742780419,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250266,
+        "num": 250266,
+        "word": "千禾董事长称千禾0就是零添加",
+        "onboard_time": 1742786060,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241112,
+        "num": 241112,
+        "word": "王楚钦工作的一天",
+        "onboard_time": 1742787141,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233506,
+        "num": 233506,
+        "word": "茉莉奶白被曝喝出完整塑料袋",
+        "onboard_time": 1742731401,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227793,
+        "num": 227793,
+        "word": "蒋一侨考伯克利考了三年",
+        "onboard_time": 1742787200,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215674,
+        "num": 215674,
+        "word": "王源官宣三巡",
+        "onboard_time": 1742782460,
+        "rank": 26,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 212708,
+        "num": 212708,
+        "word": "国产剧真正的熟人作案来了",
+        "onboard_time": 1742782639,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207497,
+        "num": 207497,
+        "word": "17岁未成年彝族女孩成代孕妈妈",
+        "onboard_time": 1742787021,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 85916,
+        "num": 207464,
+        "word": "在韩国姐弟恋的婚姻模式正流行起来",
+        "onboard_time": 1742786841,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 207444,
+        "num": 207444,
+        "word": "K总否认老婆整容",
+        "onboard_time": 1742775741,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 203518,
+        "num": 203518,
+        "word": "四川一水库水位下降露出一座古墓",
+        "onboard_time": 1742774902,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200170,
+        "num": 200170,
+        "word": "Doinb训练赛连续被鸽",
+        "onboard_time": 1742787081,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193933,
+        "num": 193933,
+        "word": "世界之外 罗森",
+        "onboard_time": 1742783840,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191619,
+        "num": 191619,
+        "word": "OPPO",
+        "onboard_time": 1742783302,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176825,
+        "num": 176825,
+        "word": "禹宙中欣",
+        "onboard_time": 1742775741,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173101,
+        "num": 173101,
+        "word": "上班焦虑症",
+        "onboard_time": 1742786060,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172547,
+        "num": 172547,
+        "word": "C罗获吉尼斯世界纪录证书",
+        "onboard_time": 1742786422,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169288,
+        "num": 169288,
+        "word": "哈马斯新任领导人被打死",
+        "onboard_time": 1742774720,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164213,
+        "num": 164213,
+        "word": "沙溢宋雨琦张真源一起走红毯",
+        "onboard_time": 1742787861,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156222,
+        "num": 156222,
+        "word": "李晨周深孟子义走红毯",
+        "onboard_time": 1742787681,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155757,
+        "num": 155757,
+        "word": "谢浩男认亲前没意识到是人生大事",
+        "onboard_time": 1742783721,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153087,
+        "num": 153087,
+        "word": "高瀚宇你吵到我了",
+        "onboard_time": 1742787742,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152536,
+        "num": 152536,
+        "word": "强制下班能解决加班的问题吗",
+        "onboard_time": 1742785941,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150841,
+        "num": 150841,
+        "word": "网剧沙尘暴定档",
+        "onboard_time": 1742782160,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144011,
+        "num": 144011,
+        "word": "山东探明我国首个超亿吨级页岩油田",
+        "onboard_time": 1742778920,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136449,
+        "num": 136449,
+        "word": "邓超孙俪周冠宇F1合影",
+        "onboard_time": 1742785641,
+        "rank": 46,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 135687,
+        "num": 135687,
+        "word": "二房东扣着1700押金说退不退看心情",
+        "onboard_time": 1742784320,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135317,
+        "num": 135317,
+        "word": "奶奶捡10000元说找到失主我好高兴",
+        "onboard_time": 1742754014,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 124910,
+        "num": 124910,
+        "word": "京东回应外卖日单量突破百万",
+        "onboard_time": 1742785641,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记赴贵州云南考察纪实#"
+    }
+  }
+}
