@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742793850376,
+  "endTime": 1742794864170,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1515,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3310620,
+      "num": 3310620,
+      "word": "2000年0时0分出生的世纪婴儿去世",
+      "onboard_time": 1742793263,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3291799,
       "num": 3583598,
       "word": "315记者为取证吃到吐",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739346200,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2739654,
-      "num": 705370,
-      "word": "气胸",
-      "onboard_time": 1740808374,
-      "rank": 6,
-      "category": "艺人,健康医疗"
     }
   ],
   "hotgov_list": [
