@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742855042274,
+  "endTime": 1742856067913,
   "band_list": [
     {
       "raw_hot": 517053,
@@ -8,6 +8,14 @@
       "word": "央视曝光所谓瘦身咖啡真相",
       "onboard_time": 1742826983,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 516953,
+      "num": 527156,
+      "word": "远洋渔船船长在公海被船员杀害抛海",
+      "onboard_time": 1742832799,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -57,14 +65,6 @@
       "onboard_time": 1742829322,
       "rank": 4,
       "category": "互联网,教育"
-    },
-    {
-      "raw_hot": 353270,
-      "num": 411540,
-      "word": "远洋渔船船长在公海被船员杀害抛海",
-      "onboard_time": 1742832799,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 335711,
@@ -171,6 +171,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114210,
+      "num": 114210,
+      "word": "可能交警有时候也挺想报警的",
+      "onboard_time": 1742850374,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106268,
+      "num": 106268,
+      "word": "为带小猫世纪婴儿高烧坐8小时大巴",
+      "onboard_time": 1742825124,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100329,
       "num": 100329,
       "word": "失业在家一天遛三次狗",
@@ -211,14 +227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88820,
-      "num": 88820,
-      "word": "为带小猫世纪婴儿高烧坐8小时大巴",
-      "onboard_time": 1742825124,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88589,
       "num": 88589,
       "word": "郑钦文vs克鲁格",
@@ -257,6 +265,14 @@
       "onboard_time": 1742809523,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82449,
+      "num": 82449,
+      "word": "杜特尔特赴香港系私人度假行程",
+      "onboard_time": 1742846593,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 81939,
@@ -331,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65606,
+      "num": 65606,
+      "word": "赵丽颖害羞成这样",
+      "onboard_time": 1742838555,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 65486,
       "num": 65486,
       "word": "曝小米要募集超380亿",
@@ -353,14 +377,6 @@
       "onboard_time": 1742827402,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63487,
-      "num": 63487,
-      "word": "杜特尔特赴香港系私人度假行程",
-      "onboard_time": 1742846593,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62753,
@@ -435,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47703,
-      "num": 47703,
-      "word": "可能交警有时候也挺想报警的",
-      "onboard_time": 1742850374,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42454,
       "num": 42454,
       "word": "上官正义称代孕妈妈中不乏高学历者",
@@ -451,20 +459,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40787,
-      "num": 43152,
-      "word": "赵丽颖害羞成这样",
-      "onboard_time": 1742838555,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 37335,
-      "num": 37335,
+      "raw_hot": 39289,
+      "num": 39289,
       "word": "卫健委回应医院员工私下处理胎盘",
       "onboard_time": 1742853133,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38625,
+      "num": 38625,
+      "word": "吴昕食物砸头转场视频",
+      "onboard_time": 1742849594,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 38249,
+      "num": 38815,
+      "word": "檀健次出圈角色查重率为零",
+      "onboard_time": 1742830821,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 37679,
+      "num": 38811,
+      "word": "书卷一梦",
+      "onboard_time": 1742850134,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 37280,
@@ -483,36 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32290,
-      "num": 32290,
-      "word": "书卷一梦",
-      "onboard_time": 1742850134,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 31694,
-      "num": 31693,
-      "word": "吴昕食物砸头转场视频",
-      "onboard_time": 1742849594,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 31054,
       "num": 31054,
       "word": "魏大勋粉色西装造型",
       "onboard_time": 1742836818,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29864,
-      "num": 31962,
-      "word": "檀健次出圈角色查重率为零",
-      "onboard_time": 1742830821,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 29329,
@@ -523,10 +523,26 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27978,
+      "num": 27978,
+      "word": "当地教育局通报男子救下被欺凌学生",
+      "onboard_time": 1742838075,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 26068,
       "num": 207659,
       "word": "花花是春意最佳氛围组吧",
       "onboard_time": 1742833998,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25795,
+      "num": 42310,
+      "word": "这次查车情况实在太复杂了",
+      "onboard_time": 1742851574,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -539,20 +555,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24724,
-      "num": 42310,
-      "word": "这次查车情况实在太复杂了",
-      "onboard_time": 1742851574,
-      "rank": 9,
+      "raw_hot": 25060,
+      "num": 35155,
+      "word": "无人机拍下众人狂奔施救全程",
+      "onboard_time": 1742840773,
+      "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21704,
-      "num": 21704,
-      "word": "当地教育局通报男子救下被欺凌学生",
-      "onboard_time": 1742838075,
-      "rank": 39,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 21107,
@@ -560,14 +568,6 @@
       "word": "为救5岁娃一群人接二连三冲进黄河",
       "onboard_time": 1742840654,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18300,
-      "num": 35155,
-      "word": "无人机拍下众人狂奔施救全程",
-      "onboard_time": 1742840773,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
