@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742834817561,
+  "endTime": 1742836949037,
   "band_list": [
     {
       "raw_hot": 517053,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358825,
+      "num": 496318,
+      "word": "这些食物居然比喝油还长肉",
+      "onboard_time": 1742831359,
+      "rank": 6,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 353284,
       "num": 353284,
       "word": "雷军回武大发了100万奖学金",
@@ -75,20 +83,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 273449,
-      "num": 273449,
-      "word": "这些食物居然比喝油还长肉",
-      "onboard_time": 1742831359,
-      "rank": 6,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 269003,
       "num": 269003,
       "word": "茶百道发文致歉",
       "onboard_time": 1742800762,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265272,
+      "num": 265272,
+      "word": "远洋渔船船长在公海被船员杀害抛海",
+      "onboard_time": 1742832799,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217409,
@@ -105,14 +113,6 @@
       "onboard_time": 1742831961,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203869,
-      "num": 216989,
-      "word": "远洋渔船船长在公海被船员杀害抛海",
-      "onboard_time": 1742832799,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193153,
@@ -363,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 58554,
+      "num": 58554,
+      "word": "郑钦文vs克鲁格",
+      "onboard_time": 1742836396,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58333,
       "num": 58333,
       "word": "下一个台风",
@@ -403,6 +411,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37280,
+      "num": 37280,
+      "word": "日本成立统合作战司令部",
+      "onboard_time": 1742819302,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 34002,
+      "num": 34002,
+      "word": "时隔九个月以为黄亦玫回来了",
+      "onboard_time": 1742824344,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29212,
+      "num": 29212,
+      "word": "魏大勋粉色西装造型",
+      "onboard_time": 1742836818,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26068,
       "num": 207659,
       "word": "花花是春意最佳氛围组吧",
@@ -417,6 +449,22 @@
       "onboard_time": 1742825783,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16845,
+      "num": 51481,
+      "word": "安徽蚌埠全市试行作业熔断机制",
+      "onboard_time": 1742836576,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12611,
+      "num": 54813,
+      "word": "2025考研调剂攻略",
+      "onboard_time": 1742835558,
+      "rank": 24,
+      "category": "教育"
     }
   ],
   "hotgov_list": [
