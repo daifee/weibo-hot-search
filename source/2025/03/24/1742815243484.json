@@ -1,0 +1,410 @@
+{
+  "runTime": 1742815243484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1254069,
+        "num": 1254069,
+        "word": "世纪婴儿发烧后硬挺了5天",
+        "onboard_time": 1742802861,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 865954,
+        "num": 865954,
+        "word": "茶百道发文致歉",
+        "onboard_time": 1742800762,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71201,
+        "num": 712932,
+        "word": "春天是最懂氛围感的",
+        "onboard_time": 1742811082,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 670774,
+        "num": 670774,
+        "word": "母亲称从未曝光过世纪婴儿的身份",
+        "onboard_time": 1742813661,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549654,
+        "num": 549654,
+        "word": "2000年0时0分出生的世纪婴儿去世",
+        "onboard_time": 1742793263,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476066,
+        "num": 476066,
+        "word": "念无双 定档",
+        "onboard_time": 1742813481,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401124,
+        "num": 401124,
+        "word": "日本全面取消女警裙装制服",
+        "onboard_time": 1742799202,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 379320,
+        "num": 379320,
+        "word": "南京红山动物园遭遇邻里纠纷",
+        "onboard_time": 1742810901,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359057,
+        "num": 359057,
+        "word": "红双喜年会",
+        "onboard_time": 1742811261,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249048,
+        "num": 249048,
+        "word": "雁回时",
+        "onboard_time": 1742811383,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 740625,
+        "num": 248864,
+        "word": "考公博主吴桐 塌房",
+        "onboard_time": 1742802802,
+        "rank": 10,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 735103,
+        "num": 248753,
+        "word": "易烊千玺咋还写急眼了呢",
+        "onboard_time": 1742811320,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626511,
+        "num": 248544,
+        "word": "周也一身睡衣上飞机",
+        "onboard_time": 1742811802,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35129,
+        "num": 248389,
+        "word": "无意间拍到的绝美春天",
+        "onboard_time": 1742813721,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89721,
+        "num": 248182,
+        "word": "一人说一个必吃的春菜",
+        "onboard_time": 1742806940,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 248098,
+        "num": 248098,
+        "word": "郭麒麟正面回应德云社继承人",
+        "onboard_time": 1742794883,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649810,
+        "num": 246032,
+        "word": "官方回应17岁代孕少女生产细节",
+        "onboard_time": 1742811982,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 553211,
+        "num": 244702,
+        "word": "韩安冉宋浩然秀恩爱",
+        "onboard_time": 1742813241,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 37438,
+        "num": 241576,
+        "word": "花花花云南花花花",
+        "onboard_time": 1742814381,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72880,
+        "num": 238101,
+        "word": "全运会乒乓球团体名单全部出炉",
+        "onboard_time": 1742814140,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515186,
+        "num": 236806,
+        "word": "蔡徐坤苹果头",
+        "onboard_time": 1742809523,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415733,
+        "num": 231441,
+        "word": "古茗 樊振东",
+        "onboard_time": 1742814199,
+        "rank": 21,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 263946,
+        "num": 229966,
+        "word": "汪苏泷说刚好原唱by2也在",
+        "onboard_time": 1742809159,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228601,
+        "num": 228601,
+        "word": "童瑶李泽锋一搭二搭勾勾搭搭",
+        "onboard_time": 1742809822,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220663,
+        "num": 220663,
+        "word": "老年旅行团挤不上公交拦路要求加车",
+        "onboard_time": 1742811500,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220661,
+        "num": 220661,
+        "word": "雷军同雷军班同学拍大合照",
+        "onboard_time": 1742810421,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 215102,
+        "num": 215102,
+        "word": "张凌赫方否认私联",
+        "onboard_time": 1742814982,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192289,
+        "num": 192289,
+        "word": "雁回时坠马初吻",
+        "onboard_time": 1742812821,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174714,
+        "num": 174714,
+        "word": "让王紫璇演超模的人简直天才",
+        "onboard_time": 1742814199,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68263,
+        "num": 171016,
+        "word": "我国低龄老年人9000万",
+        "onboard_time": 1742814920,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217102,
+        "num": 167700,
+        "word": "夏以昼",
+        "onboard_time": 1742813901,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125120,
+        "num": 162970,
+        "word": "王嘉尔带speed吃火锅",
+        "onboard_time": 1742814140,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180799,
+        "num": 158719,
+        "word": "失联四天大学生母亲称女儿手机被格式化",
+        "onboard_time": 1742811261,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158331,
+        "num": 158331,
+        "word": "KiiiKiii出道",
+        "onboard_time": 1742808022,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154896,
+        "num": 154896,
+        "word": "关晓彤大屏",
+        "onboard_time": 1742812701,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 75756,
+        "num": 154272,
+        "word": "中方从未收到杜特尔特寻求庇护申请",
+        "onboard_time": 1742815101,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154068,
+        "num": 154068,
+        "word": "减肥效果最好的运动是跳绳",
+        "onboard_time": 1742808681,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 149913,
+        "num": 149913,
+        "word": "石家庄偶遇鹿晗拍摄",
+        "onboard_time": 1742804362,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149379,
+        "num": 149379,
+        "word": "将门毒后 刘晓庆陈宝国",
+        "onboard_time": 1742800641,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145614,
+        "num": 145614,
+        "word": "迪士尼暂缓金秀贤作品山寨人生公开",
+        "onboard_time": 1742810600,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59582,
+        "num": 137707,
+        "word": "存期越长收益越高的存款模式为何变了",
+        "onboard_time": 1742815220,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131870,
+        "num": 131870,
+        "word": "孙颖莎红双喜活动",
+        "onboard_time": 1742813182,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127066,
+        "num": 127066,
+        "word": "卫生巾设计",
+        "onboard_time": 1742809340,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126111,
+        "num": 126111,
+        "word": "国足18强赛",
+        "onboard_time": 1742814982,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124764,
+        "num": 124764,
+        "word": "钱存越久越亏可能正在成为现实",
+        "onboard_time": 1742801062,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123433,
+        "num": 123433,
+        "word": "芒果来了对新姐妹",
+        "onboard_time": 1742812641,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118874,
+        "num": 118874,
+        "word": "小米SU7Ultra时速150撞飞电动车",
+        "onboard_time": 1742815162,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116610,
+        "num": 116610,
+        "word": "种地吧真的做到了授人以渔",
+        "onboard_time": 1742814620,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111212,
+        "num": 111212,
+        "word": "近一成未婚不婚者立遗嘱做公益",
+        "onboard_time": 1742812881,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107970,
+        "num": 107970,
+        "word": "台湾有事就是日本有事的谬论大错特错",
+        "onboard_time": 1742807361,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈今年党建工作的重点任务#"
+    }
+  }
+}

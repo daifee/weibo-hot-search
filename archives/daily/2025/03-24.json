@@ -1,6 +1,6 @@
 {
   "startTime": 1742747228173,
-  "endTime": 1742813059562,
+  "endTime": 1742815243484,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 735103,
+      "num": 296276,
+      "word": "易烊千玺咋还写急眼了呢",
+      "onboard_time": 1742811320,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 712537,
       "num": 355839,
       "word": "难听",
@@ -209,6 +217,22 @@
       "onboard_time": 1742785941,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 670774,
+      "num": 670774,
+      "word": "母亲称从未曝光过世纪婴儿的身份",
+      "onboard_time": 1742813661,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 649810,
+      "num": 319170,
+      "word": "官方回应17岁代孕少女生产细节",
+      "onboard_time": 1742811982,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 648607,
@@ -233,6 +257,14 @@
       "onboard_time": 1742800401,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 626511,
+      "num": 256269,
+      "word": "周也一身睡衣上飞机",
+      "onboard_time": 1742811802,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 609806,
@@ -281,6 +313,14 @@
       "onboard_time": 1742801602,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553211,
+      "num": 244702,
+      "word": "韩安冉宋浩然秀恩爱",
+      "onboard_time": 1742813241,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 545648,
@@ -355,6 +395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 476066,
+      "num": 476066,
+      "word": "念无双 定档",
+      "onboard_time": 1742813481,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 467850,
       "num": 309013,
       "word": "女生回应花50元租公司卫生间住",
@@ -368,14 +416,6 @@
       "word": "NJZ宣布暂停活动",
       "onboard_time": 1742742202,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 454656,
-      "num": 296276,
-      "word": "易烊千玺咋还写急眼了呢",
-      "onboard_time": 1742811320,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -427,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415733,
+      "num": 231441,
+      "word": "古茗 樊振东",
+      "onboard_time": 1742814199,
+      "rank": 21,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 411404,
       "num": 286918,
       "word": "3岁娃暴发性心肌炎确诊到去世仅3小时",
@@ -467,6 +515,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 379320,
+      "num": 379320,
+      "word": "南京红山动物园遭遇邻里纠纷",
+      "onboard_time": 1742810901,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377953,
       "num": 251016,
       "word": "张韶涵奔跑吧重现公主小妹",
@@ -497,6 +553,14 @@
       "onboard_time": 1742782460,
       "rank": 33,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 359057,
+      "num": 359057,
+      "word": "红双喜年会",
+      "onboard_time": 1742811261,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 356184,
@@ -537,14 +601,6 @@
       "onboard_time": 1742778920,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 331586,
-      "num": 331586,
-      "word": "红双喜年会",
-      "onboard_time": 1742811261,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 331251,
@@ -649,14 +705,6 @@
       "onboard_time": 1742787021,
       "rank": 18,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 284603,
-      "num": 295244,
-      "word": "南京红山动物园遭遇邻里纠纷",
-      "onboard_time": 1742810901,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 282917,
@@ -769,14 +817,6 @@
       "onboard_time": 1742796502,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 256269,
-      "num": 256269,
-      "word": "周也一身睡衣上飞机",
-      "onboard_time": 1742811802,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 251146,
@@ -955,6 +995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 220663,
+      "num": 326538,
+      "word": "老年旅行团挤不上公交拦路要求加车",
+      "onboard_time": 1742811500,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218801,
       "num": 282878,
       "word": "3万2买8平地下室缩水到2平",
@@ -969,6 +1017,14 @@
       "onboard_time": 1742806583,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 217102,
+      "num": 167700,
+      "word": "夏以昼",
+      "onboard_time": 1742813901,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 216060,
@@ -993,6 +1049,14 @@
       "onboard_time": 1742797042,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215102,
+      "num": 215102,
+      "word": "张凌赫方否认私联",
+      "onboard_time": 1742814982,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 212004,
@@ -1147,14 +1211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 196717,
-      "num": 326538,
-      "word": "老年旅行团挤不上公交拦路要求加车",
-      "onboard_time": 1742811500,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196580,
       "num": 270267,
       "word": "男子被当猎物枪杀案4名被告人获刑",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1742785401,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 192289,
+      "num": 192289,
+      "word": "雁回时坠马初吻",
+      "onboard_time": 1742812821,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 192169,
@@ -1201,14 +1265,6 @@
       "onboard_time": 1742791825,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188072,
-      "num": 319170,
-      "word": "官方回应17岁代孕少女生产细节",
-      "onboard_time": 1742811982,
-      "rank": 44,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 186178,
@@ -1251,19 +1307,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180799,
+      "num": 177825,
+      "word": "失联四天大学生母亲称女儿手机被格式化",
+      "onboard_time": 1742811261,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177976,
       "num": 290573,
       "word": "周一情绪消极但工作效率高",
       "onboard_time": 1742792905,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177825,
-      "num": 177825,
-      "word": "失联四天大学生母亲称女儿手机被格式化",
-      "onboard_time": 1742811261,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1273,6 +1329,14 @@
       "onboard_time": 1742778200,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174714,
+      "num": 174714,
+      "word": "让王紫璇演超模的人简直天才",
+      "onboard_time": 1742814199,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 174362,
@@ -1465,6 +1529,14 @@
       "onboard_time": 1742801483,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154896,
+      "num": 154896,
+      "word": "关晓彤大屏",
+      "onboard_time": 1742812701,
+      "rank": 34,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 153821,
@@ -1667,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131870,
+      "num": 131870,
+      "word": "孙颖莎红双喜活动",
+      "onboard_time": 1742813182,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131135,
       "num": 131135,
       "word": "看完黄雀的后遗症",
@@ -1755,12 +1835,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126111,
+      "num": 126111,
+      "word": "国足18强赛",
+      "onboard_time": 1742814982,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125471,
       "num": 125471,
       "word": "雷霆横扫快船",
       "onboard_time": 1742793025,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125120,
+      "num": 162970,
+      "word": "王嘉尔带speed吃火锅",
+      "onboard_time": 1742814140,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 124449,
@@ -1859,12 +1955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118716,
-      "num": 118716,
-      "word": "雁回时坠马初吻",
-      "onboard_time": 1742812821,
+      "raw_hot": 118874,
+      "num": 118874,
+      "word": "小米SU7Ultra时速150撞飞电动车",
+      "onboard_time": 1742815162,
       "rank": 46,
-      "category": "剧集"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118265,
@@ -1872,6 +1968,14 @@
       "word": "半熟4女三圈粉",
       "onboard_time": 1742809041,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116610,
+      "num": 116610,
+      "word": "种地吧真的做到了授人以渔",
+      "onboard_time": 1742814620,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1929,6 +2033,14 @@
       "onboard_time": 1742809881,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111212,
+      "num": 178212,
+      "word": "近一成未婚不婚者立遗嘱做公益",
+      "onboard_time": 1742812881,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109631,
@@ -2251,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75756,
+      "num": 154272,
+      "word": "中方从未收到杜特尔特寻求庇护申请",
+      "onboard_time": 1742815101,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75074,
       "num": 61791,
       "word": "三只羊回应何时复播",
@@ -2265,6 +2385,14 @@
       "onboard_time": 1742741542,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72880,
+      "num": 238101,
+      "word": "全运会乒乓球团体名单全部出炉",
+      "onboard_time": 1742814140,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 72679,
@@ -2283,6 +2411,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 71201,
+      "num": 821748,
+      "word": "春天是最懂氛围感的",
+      "onboard_time": 1742811082,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71001,
       "num": 71001,
       "word": "儿子希望妈妈戴上戒指永不放开自己",
@@ -2299,20 +2435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68263,
+      "num": 171016,
+      "word": "我国低龄老年人9000万",
+      "onboard_time": 1742814920,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68231,
       "num": 68231,
       "word": "重庆半马女子提前庆祝最后1秒被反超",
       "onboard_time": 1742772137,
       "rank": 34,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 67480,
-      "num": 821748,
-      "word": "春天是最懂氛围感的",
-      "onboard_time": 1742811082,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 65762,
@@ -2417,6 +2553,14 @@
       "onboard_time": 1742796683,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59582,
+      "num": 137707,
+      "word": "存期越长收益越高的存款模式为何变了",
+      "onboard_time": 1742815220,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 59516,
@@ -2611,12 +2755,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37438,
+      "num": 241576,
+      "word": "花花花云南花花花",
+      "onboard_time": 1742814381,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37157,
       "num": 264695,
       "word": "热火结束10连败",
       "onboard_time": 1742779221,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35129,
+      "num": 248389,
+      "word": "无意间拍到的绝美春天",
+      "onboard_time": 1742813721,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34709,
@@ -2801,14 +2961,6 @@
       "onboard_time": 1742751676,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15059,
-      "num": 178212,
-      "word": "近一成未婚不婚者立遗嘱做公益",
-      "onboard_time": 1742812881,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13157,
