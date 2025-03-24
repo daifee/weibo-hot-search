@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742827411372,
+  "endTime": 1742830011321,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1311466,
+      "num": 1311466,
+      "word": "多邻国崩了",
+      "onboard_time": 1742820682,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1267893,
       "num": 484876,
       "word": "谢瑜女朋友发的樊振东",
@@ -241,14 +249,6 @@
       "onboard_time": 1742742202,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1132068,
-      "num": 1181130,
-      "word": "多邻国崩了",
-      "onboard_time": 1742820682,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 1131205,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 923400,
+      "num": 297168,
+      "word": "27岁女孩每天打3份工战胜不死癌症",
+      "onboard_time": 1742827042,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 922290,
       "num": 448149,
       "word": "茶百道",
@@ -329,6 +337,14 @@
       "onboard_time": 1742824523,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 892809,
+      "num": 892809,
+      "word": "睡前4个习惯让肚子长肉",
+      "onboard_time": 1742823621,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 890738,
@@ -425,14 +441,6 @@
       "onboard_time": 1742783060,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 817716,
-      "num": 817716,
-      "word": "睡前4个习惯让肚子长肉",
-      "onboard_time": 1742823621,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 816972,
@@ -624,6 +632,14 @@
       "word": "泉州交警回应小米SU7Ultra撞飞电动车",
       "onboard_time": 1742815523,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 647438,
+      "num": 647438,
+      "word": "央视曝光所谓瘦身咖啡真相",
+      "onboard_time": 1742826983,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1315,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356182,
+      "num": 356182,
+      "word": "马龙祝福孙颖莎王楚钦圆梦2028",
+      "onboard_time": 1742824883,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356171,
       "num": 356171,
       "word": "白日梦与她开播",
@@ -1329,14 +1353,6 @@
       "onboard_time": 1742636722,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 352324,
-      "num": 352324,
-      "word": "马龙祝福孙颖莎王楚钦圆梦2028",
-      "onboard_time": 1742824883,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 350154,
@@ -1489,6 +1505,14 @@
       "onboard_time": 1742713940,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 322576,
+      "num": 322576,
+      "word": "虞书欣的头纱上都是细节",
+      "onboard_time": 1742828424,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 321424,
@@ -1747,14 +1771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278407,
-      "num": 278407,
-      "word": "27岁女孩每天打3份工战胜不死癌症",
-      "onboard_time": 1742827042,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278256,
       "num": 278256,
       "word": "太好了是时代少年团我们有救了",
@@ -1835,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270708,
+      "num": 205737,
+      "word": "臭屁虫虫卵千万别碰",
+      "onboard_time": 1742827823,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270702,
       "num": 415637,
       "word": "张佳宁 剧抛脸",
@@ -1905,6 +1929,14 @@
       "onboard_time": 1742734942,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 260648,
+      "num": 305886,
+      "word": "雁回时有李晟",
+      "onboard_time": 1742825242,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 258355,
@@ -2121,14 +2153,6 @@
       "onboard_time": 1742716639,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 229741,
-      "num": 284527,
-      "word": "雁回时有李晟",
-      "onboard_time": 1742825242,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 229634,
@@ -2425,6 +2449,14 @@
       "onboard_time": 1742795183,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205566,
+      "num": 205566,
+      "word": "王一博即将再次向赛道发起挑战",
+      "onboard_time": 1742829502,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 205355,
@@ -3011,12 +3043,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173348,
+      "num": 173348,
+      "word": "虞书欣晒卫小枝日常第二弹",
+      "onboard_time": 1742829502,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173101,
       "num": 173101,
       "word": "上班焦虑症",
       "onboard_time": 1742786060,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172827,
+      "num": 172827,
+      "word": "卡琳娜cos陆光的原因找到了",
+      "onboard_time": 1742827883,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 172547,
@@ -3137,6 +3185,14 @@
       "onboard_time": 1742787861,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164144,
+      "num": 164144,
+      "word": "玉兰花瓣居然真的能吹成气球",
+      "onboard_time": 1742825061,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 164097,
@@ -3561,14 +3617,6 @@
       "onboard_time": 1742693060,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151434,
-      "num": 151434,
-      "word": "玉兰花瓣居然真的能吹成气球",
-      "onboard_time": 1742825061,
-      "rank": 35,
-      "category": "科学科普"
     },
     {
       "raw_hot": 151378,
@@ -4195,12 +4243,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 132389,
-      "num": 132389,
-      "word": "央视曝光所谓瘦身咖啡真相",
-      "onboard_time": 1742826983,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 132320,
+      "num": 205786,
+      "word": "美媒爆美将不惜代价研发金穹防御系统",
+      "onboard_time": 1742828301,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131870,
@@ -4233,6 +4281,14 @@
       "onboard_time": 1742724140,
       "rank": 23,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 130431,
+      "num": 130431,
+      "word": "电影学院失联女生半年没回过家",
+      "onboard_time": 1742828124,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130213,
@@ -4619,6 +4675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118936,
+      "num": 118936,
+      "word": "雷军回武大发了100万奖学金",
+      "onboard_time": 1742829322,
+      "rank": 42,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 118265,
       "num": 118265,
       "word": "半熟4女三圈粉",
@@ -4953,6 +5017,14 @@
       "onboard_time": 1742699121,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108957,
+      "num": 108957,
+      "word": "丁禹兮经典皮肤返场",
+      "onboard_time": 1742827402,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 108340,
@@ -6027,6 +6099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60835,
+      "num": 165718,
+      "word": "生母男友曾咨询亲妈打死娃是否负责",
+      "onboard_time": 1742828961,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59750,
       "num": 110031,
       "word": "春日故宫玉兰壁纸上新",
@@ -6131,6 +6211,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 55334,
+      "num": 272279,
+      "word": "外交部驳斥中国探讨参加乌维和部队",
+      "onboard_time": 1742828842,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55303,
       "num": 129846,
       "word": "吴尊晒和太太F1观赛打卡照",
@@ -6195,6 +6283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50753,
+      "num": 831240,
+      "word": "随手拍春天",
+      "onboard_time": 1742826683,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49785,
       "num": 330647,
       "word": "小岳岳被爆改",
@@ -6209,14 +6305,6 @@
       "onboard_time": 1742821942,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48539,
-      "num": 831240,
-      "word": "随手拍春天",
-      "onboard_time": 1742826683,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 47911,
@@ -6515,6 +6603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33069,
+      "num": 185700,
+      "word": "985毕业0面试怎么破局",
+      "onboard_time": 1742829202,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 32848,
       "num": 39302,
       "word": "袁一琦演唱会成都站",
@@ -6756,7 +6852,7 @@
     },
     {
       "raw_hot": 24648,
-      "num": 716613,
+      "num": 736294,
       "word": "万千气象看江苏",
       "onboard_time": 1742825783,
       "rank": 2,
