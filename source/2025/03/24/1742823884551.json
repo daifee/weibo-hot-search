@@ -1,0 +1,410 @@
+{
+  "runTime": 1742823884551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 958564,
+        "num": 1153370,
+        "word": "茶百道发文致歉",
+        "onboard_time": 1742800762,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773080,
+        "num": 773080,
+        "word": "母亲称世纪婴儿去世是医疗事故",
+        "onboard_time": 1742815881,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61935,
+        "num": 478986,
+        "word": "春天是最懂氛围感的",
+        "onboard_time": 1742811082,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 475413,
+        "num": 475413,
+        "word": "多邻国崩了",
+        "onboard_time": 1742820682,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 419424,
+        "num": 419424,
+        "word": "男子骑行遭风筝线割穿头盔",
+        "onboard_time": 1742820382,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416370,
+        "num": 416370,
+        "word": "四川泸州4.9级地震",
+        "onboard_time": 1742816723,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 410170,
+        "num": 410170,
+        "word": "日本成立统合作战司令部",
+        "onboard_time": 1742819302,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 406532,
+        "num": 406532,
+        "word": "半熟4男一男二都选了梁田",
+        "onboard_time": 1742819783,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362067,
+        "num": 362067,
+        "word": "男童被打死案母亲曾是幼师",
+        "onboard_time": 1742818041,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320733,
+        "num": 320733,
+        "word": "王楚钦说我的职业生涯还很长",
+        "onboard_time": 1742819542,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 846182,
+        "num": 320476,
+        "word": "中式恐怖才是真恐怖",
+        "onboard_time": 1742818582,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 776789,
+        "num": 318740,
+        "word": "金秀贤称给金赛纶的信是朋友信之一",
+        "onboard_time": 1742819962,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550415,
+        "num": 317033,
+        "word": "周也一身睡衣上飞机",
+        "onboard_time": 1742811802,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428931,
+        "num": 315982,
+        "word": "考公博主吴桐 塌房",
+        "onboard_time": 1742802802,
+        "rank": 13,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 169810,
+        "num": 314546,
+        "word": "警方回应远洋渔船船长遭船员杀害",
+        "onboard_time": 1742823084,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52817,
+        "num": 313662,
+        "word": "希望小学一万四买相机只值六百引质疑",
+        "onboard_time": 1742823502,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313305,
+        "num": 313305,
+        "word": "韩安冉宋浩然秀恩爱",
+        "onboard_time": 1742813241,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 251316,
+        "num": 251316,
+        "word": "念无双 定档",
+        "onboard_time": 1742813481,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292569,
+        "num": 250711,
+        "word": "王诗龄粉色小香风套装",
+        "onboard_time": 1742816723,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153762,
+        "num": 250086,
+        "word": "张艺兴带粉丝云录歌",
+        "onboard_time": 1742823562,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249609,
+        "num": 249609,
+        "word": "棣欣引力",
+        "onboard_time": 1742823262,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246447,
+        "num": 246447,
+        "word": "易烊千玺咋还写急眼了呢",
+        "onboard_time": 1742811320,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220838,
+        "num": 220838,
+        "word": "古茗 樊振东",
+        "onboard_time": 1742814199,
+        "rank": 22,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 203797,
+        "num": 203797,
+        "word": "郭麒麟正面回应德云社继承人",
+        "onboard_time": 1742794883,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132626,
+        "num": 199052,
+        "word": "F1总裁盛赞周冠宇",
+        "onboard_time": 1742823502,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198988,
+        "num": 198988,
+        "word": "雁回时",
+        "onboard_time": 1742811383,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177691,
+        "num": 177691,
+        "word": "韩国警方调查金秀贤金赛纶事件",
+        "onboard_time": 1742819901,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164798,
+        "num": 176437,
+        "word": "李艺彤卡琳娜一看就是老二次元了",
+        "onboard_time": 1742823383,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29312,
+        "num": 176375,
+        "word": "睡前4个习惯让肚子长肉",
+        "onboard_time": 1742823621,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34940,
+        "num": 176356,
+        "word": "男童被打死案起诉书披露殴打经过",
+        "onboard_time": 1742822663,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176352,
+        "num": 176352,
+        "word": "德云色黑莓",
+        "onboard_time": 1742821581,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174307,
+        "num": 174307,
+        "word": "蔡徐坤苹果头",
+        "onboard_time": 1742809523,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158745,
+        "num": 158745,
+        "word": "雁回时坠马初吻",
+        "onboard_time": 1742812821,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158628,
+        "num": 158628,
+        "word": "苦寻妻子五年再见对方已成富婆",
+        "onboard_time": 1742818642,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156277,
+        "num": 156277,
+        "word": "减肥效果最好的运动是跳绳",
+        "onboard_time": 1742808681,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 147965,
+        "num": 147965,
+        "word": "无畏分享大雅之堂",
+        "onboard_time": 1742823683,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146645,
+        "num": 146645,
+        "word": "福宝恢复展出",
+        "onboard_time": 1742823743,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136242,
+        "num": 136242,
+        "word": "张凌赫方否认私联",
+        "onboard_time": 1742814982,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133042,
+        "num": 133042,
+        "word": "张晚意你确定不闯一下霸总赛道吗",
+        "onboard_time": 1742818642,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132721,
+        "num": 132721,
+        "word": "徐良在汪苏泷演唱会有专属机位",
+        "onboard_time": 1742823562,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129248,
+        "num": 129248,
+        "word": "王毅和日中友好七团体代表挽手合照",
+        "onboard_time": 1742820503,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50559,
+        "num": 122986,
+        "word": "两代中国首席男模的时光交接",
+        "onboard_time": 1742821822,
+        "rank": 41,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 120730,
+        "num": 120730,
+        "word": "马龙红双喜晚宴C位",
+        "onboard_time": 1742821702,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47535,
+        "num": 118222,
+        "word": "女子称被霸总打压2年刷走11万",
+        "onboard_time": 1742821942,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117300,
+        "num": 117300,
+        "word": "台湾有事就是日本有事的谬论大错特错",
+        "onboard_time": 1742807361,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89777,
+        "num": 117291,
+        "word": "男子突然倒地无呼吸被AED救回",
+        "onboard_time": 1742822902,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 117288,
+        "num": 117288,
+        "word": "庄寒雁阮惜文母女掀桌",
+        "onboard_time": 1742822183,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116469,
+        "num": 116469,
+        "word": "孙杨时隔5年重上高原训练被练哭3次",
+        "onboard_time": 1742823804,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112393,
+        "num": 114460,
+        "word": "黄婷婷甜妹闯进悬疑剧赛道",
+        "onboard_time": 1742822422,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114110,
+        "num": 114110,
+        "word": "张韶涵再现皇甫珊",
+        "onboard_time": 1742816542,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平两会上的民生牵挂#"
+    }
+  }
+}
