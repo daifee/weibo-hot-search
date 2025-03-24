@@ -1,0 +1,410 @@
+{
+  "runTime": 1742816193216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1531656,
+        "num": 1531656,
+        "word": "母亲称从未曝光过世纪婴儿的身份",
+        "onboard_time": 1742813661,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1076317,
+        "num": 1076317,
+        "word": "世纪婴儿发烧后硬挺了5天",
+        "onboard_time": 1742802861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71348,
+        "num": 814824,
+        "word": "春天是最懂氛围感的",
+        "onboard_time": 1742811082,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 763410,
+        "num": 763410,
+        "word": "四川叙永地震",
+        "onboard_time": 1742815823,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 741386,
+        "num": 741386,
+        "word": "茶百道发文致歉",
+        "onboard_time": 1742800762,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540745,
+        "num": 540745,
+        "word": "2000年0时0分出生的世纪婴儿去世",
+        "onboard_time": 1742793263,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504731,
+        "num": 504731,
+        "word": "念无双 定档",
+        "onboard_time": 1742813481,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396777,
+        "num": 396777,
+        "word": "红双喜年会",
+        "onboard_time": 1742811261,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376202,
+        "num": 376202,
+        "word": "日本全面取消女警裙装制服",
+        "onboard_time": 1742799202,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 250935,
+        "num": 250935,
+        "word": "南京红山动物园遭遇邻里纠纷",
+        "onboard_time": 1742810901,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 739070,
+        "num": 250852,
+        "word": "周也一身睡衣上飞机",
+        "onboard_time": 1742811802,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 730650,
+        "num": 250137,
+        "word": "考公博主吴桐 塌房",
+        "onboard_time": 1742802802,
+        "rank": 11,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 625178,
+        "num": 249364,
+        "word": "易烊千玺咋还写急眼了呢",
+        "onboard_time": 1742811320,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180467,
+        "num": 248627,
+        "word": "泉州交警回应小米SU7Ultra撞飞电动车",
+        "onboard_time": 1742815523,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112023,
+        "num": 247512,
+        "word": "一人说一个必吃的春菜",
+        "onboard_time": 1742806940,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 569467,
+        "num": 246854,
+        "word": "韩安冉宋浩然秀恩爱",
+        "onboard_time": 1742813241,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 246339,
+        "num": 246339,
+        "word": "郭麒麟正面回应德云社继承人",
+        "onboard_time": 1742794883,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51892,
+        "num": 246232,
+        "word": "花花花云南花花花",
+        "onboard_time": 1742814381,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508062,
+        "num": 240254,
+        "word": "张凌赫方否认私联",
+        "onboard_time": 1742814982,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18050,
+        "num": 237157,
+        "word": "四川十万亩桃花朵朵开",
+        "onboard_time": 1742815881,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 694349,
+        "num": 236175,
+        "word": "官方回应17岁代孕少女生产细节",
+        "onboard_time": 1742811982,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 488434,
+        "num": 231368,
+        "word": "古茗 樊振东",
+        "onboard_time": 1742814199,
+        "rank": 21,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 411602,
+        "num": 229743,
+        "word": "蔡徐坤苹果头",
+        "onboard_time": 1742809523,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227128,
+        "num": 227128,
+        "word": "雁回时",
+        "onboard_time": 1742811383,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55384,
+        "num": 206897,
+        "word": "母亲称世纪婴儿去世是医疗事故",
+        "onboard_time": 1742815881,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198734,
+        "num": 198734,
+        "word": "夏以昼",
+        "onboard_time": 1742813901,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187838,
+        "num": 187838,
+        "word": "童瑶李泽锋一搭二搭勾勾搭搭",
+        "onboard_time": 1742809822,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183570,
+        "num": 183570,
+        "word": "汪苏泷说刚好原唱by2也在",
+        "onboard_time": 1742809159,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147545,
+        "num": 180374,
+        "word": "雁回时坠马初吻",
+        "onboard_time": 1742812821,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107517,
+        "num": 178263,
+        "word": "我国低龄老年人9000万",
+        "onboard_time": 1742814920,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177804,
+        "num": 177804,
+        "word": "雷军同雷军班同学拍大合照",
+        "onboard_time": 1742810421,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101526,
+        "num": 173117,
+        "word": "不说话的爱春节档后最大黑马",
+        "onboard_time": 1742816061,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144067,
+        "num": 170817,
+        "word": "让王紫璇演超模的人简直天才",
+        "onboard_time": 1742814199,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170188,
+        "num": 170188,
+        "word": "优时颜 马柏全张康乐",
+        "onboard_time": 1742816124,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165263,
+        "num": 165263,
+        "word": "减肥效果最好的运动是跳绳",
+        "onboard_time": 1742808681,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 114231,
+        "num": 158175,
+        "word": "中方从未收到杜特尔特寻求庇护申请",
+        "onboard_time": 1742815101,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154882,
+        "num": 154882,
+        "word": "国足18强赛",
+        "onboard_time": 1742814982,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151112,
+        "num": 151112,
+        "word": "林高远刘诗雯11比6王浩丞闫禹橦",
+        "onboard_time": 1742816124,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147010,
+        "num": 147010,
+        "word": "石家庄偶遇鹿晗拍摄",
+        "onboard_time": 1742804362,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142455,
+        "num": 142455,
+        "word": "老年旅行团挤不上公交拦路要求加车",
+        "onboard_time": 1742811500,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138233,
+        "num": 138233,
+        "word": "关晓彤大屏",
+        "onboard_time": 1742812701,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 125967,
+        "num": 125967,
+        "word": "将门毒后 刘晓庆陈宝国",
+        "onboard_time": 1742800641,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124654,
+        "num": 124654,
+        "word": "失联四天大学生母亲称女儿手机被格式化",
+        "onboard_time": 1742811261,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552713,
+        "num": 122976,
+        "word": "小米SU7Ultra时速150撞飞电动车",
+        "onboard_time": 1742815162,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119534,
+        "num": 119534,
+        "word": "KiiiKiii出道",
+        "onboard_time": 1742808022,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113499,
+        "num": 113499,
+        "word": "迪士尼暂缓金秀贤作品山寨人生公开",
+        "onboard_time": 1742810600,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110551,
+        "num": 110551,
+        "word": "近一成未婚不婚者立遗嘱做公益",
+        "onboard_time": 1742812881,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105911,
+        "num": 105911,
+        "word": "台湾有事就是日本有事的谬论大错特错",
+        "onboard_time": 1742807361,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102834,
+        "num": 102834,
+        "word": "小米寻求募集最高53亿美元",
+        "onboard_time": 1742816124,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102508,
+        "num": 102508,
+        "word": "王嘉尔带speed吃火锅",
+        "onboard_time": 1742814140,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平两会上的民生牵挂#"
+    }
+  }
+}

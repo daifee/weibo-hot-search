@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742815243484,
+  "endTime": 1742816193216,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2257,6 +2257,14 @@
       "onboard_time": 1742021724,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1531656,
+      "num": 1531656,
+      "word": "母亲称从未曝光过世纪婴儿的身份",
+      "onboard_time": 1742813661,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1531352,
@@ -7395,6 +7403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 763410,
+      "num": 763410,
+      "word": "四川叙永地震",
+      "onboard_time": 1742815823,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 763207,
       "num": 629064,
       "word": "专家建议每孩1次性补贴10万",
@@ -7793,6 +7809,14 @@
       "onboard_time": 1740987979,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 739070,
+      "num": 256269,
+      "word": "周也一身睡衣上飞机",
+      "onboard_time": 1742811802,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 737855,
@@ -8475,6 +8499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 694349,
+      "num": 319170,
+      "word": "官方回应17岁代孕少女生产细节",
+      "onboard_time": 1742811982,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 693786,
       "num": 693786,
       "word": "韩庚 死嘴快说啊",
@@ -8915,14 +8947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 670774,
-      "num": 670774,
-      "word": "母亲称从未曝光过世纪婴儿的身份",
-      "onboard_time": 1742813661,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 670717,
       "num": 486440,
       "word": "虞书欣95花第一部全集有广现偶",
@@ -9209,14 +9233,6 @@
       "onboard_time": 1741161679,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 649810,
-      "num": 319170,
-      "word": "官方回应17岁代孕少女生产细节",
-      "onboard_time": 1742811982,
-      "rank": 44,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 649198,
@@ -9673,14 +9689,6 @@
       "onboard_time": 1741514419,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 626511,
-      "num": 256269,
-      "word": "周也一身睡衣上飞机",
-      "onboard_time": 1742811802,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 626377,
@@ -10947,6 +10955,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 569467,
+      "num": 246854,
+      "word": "韩安冉宋浩然秀恩爱",
+      "onboard_time": 1742813241,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 569373,
       "num": 285698,
       "word": "韩国陈学冬",
@@ -11323,12 +11339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 553211,
-      "num": 244702,
-      "word": "韩安冉宋浩然秀恩爱",
-      "onboard_time": 1742813241,
-      "rank": 17,
-      "category": "网红"
+      "raw_hot": 552713,
+      "num": 122976,
+      "word": "小米SU7Ultra时速150撞飞电动车",
+      "onboard_time": 1742815162,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 552082,
@@ -12283,6 +12299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 508062,
+      "num": 240254,
+      "word": "张凌赫方否认私联",
+      "onboard_time": 1742814982,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508017,
       "num": 412427,
       "word": "周深的同传堪比朱广权手语翻译",
@@ -12841,6 +12865,14 @@
       "onboard_time": 1742647881,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 488434,
+      "num": 231441,
+      "word": "古茗 樊振东",
+      "onboard_time": 1742814199,
+      "rank": 21,
+      "category": "体育,美食"
     },
     {
       "raw_hot": 487927,
@@ -15075,14 +15107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 415733,
-      "num": 231441,
-      "word": "古茗 樊振东",
-      "onboard_time": 1742814199,
-      "rank": 21,
-      "category": "体育,美食"
-    },
-    {
       "raw_hot": 415689,
       "num": 255753,
       "word": "TES与HLE冲击两连胜",
@@ -15809,6 +15833,14 @@
       "onboard_time": 1741857624,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 396777,
+      "num": 396777,
+      "word": "红双喜年会",
+      "onboard_time": 1742811261,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 396488,
@@ -17337,14 +17369,6 @@
       "onboard_time": 1742446163,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 359057,
-      "num": 359057,
-      "word": "红双喜年会",
-      "onboard_time": 1742811261,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 359019,
@@ -27780,7 +27804,7 @@
     },
     {
       "raw_hot": 217102,
-      "num": 167700,
+      "num": 198734,
       "word": "夏以昼",
       "onboard_time": 1742813901,
       "rank": 30,
@@ -28032,14 +28056,6 @@
       "word": "朴宝剑IU说好的30岁呢",
       "onboard_time": 1742200342,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 215102,
-      "num": 215102,
-      "word": "张凌赫方否认私联",
-      "onboard_time": 1742814982,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -35595,6 +35611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180467,
+      "num": 248627,
+      "word": "泉州交警回应小米SU7Ultra撞飞电动车",
+      "onboard_time": 1742815523,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180341,
       "num": 279550,
       "word": "深圳市监局回应翻新手机流入百亿补贴",
@@ -37673,6 +37697,14 @@
       "onboard_time": 1740834142,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170188,
+      "num": 170188,
+      "word": "优时颜 马柏全张康乐",
+      "onboard_time": 1742816124,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170165,
@@ -41915,6 +41947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154882,
+      "num": 154882,
+      "word": "国足18强赛",
+      "onboard_time": 1742814982,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154869,
       "num": 265740,
       "word": "还有明天家暴镜头",
@@ -43121,6 +43161,14 @@
       "onboard_time": 1742034023,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151112,
+      "num": 151112,
+      "word": "林高远刘诗雯11比6王浩丞闫禹橦",
+      "onboard_time": 1742816124,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 151079,
@@ -50731,14 +50779,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 126111,
-      "num": 126111,
-      "word": "国足18强赛",
-      "onboard_time": 1742814982,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126109,
       "num": 126109,
       "word": "多方回应男子攀爬苏州钉子崖坠亡",
@@ -53131,14 +53171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118874,
-      "num": 118874,
-      "word": "小米SU7Ultra时速150撞飞电动车",
-      "onboard_time": 1742815162,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118862,
       "num": 193829,
       "word": "建议经常咳嗽的人学会捏脊",
@@ -54433,6 +54465,14 @@
       "onboard_time": 1741446202,
       "rank": 30,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 114231,
+      "num": 158175,
+      "word": "中方从未收到杜特尔特寻求庇护申请",
+      "onboard_time": 1742815101,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 114210,
@@ -56507,6 +56547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107517,
+      "num": 178263,
+      "word": "我国低龄老年人9000万",
+      "onboard_time": 1742814920,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107472,
       "num": 487688,
       "word": "政府工作报告里的KPI",
@@ -57883,6 +57931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102834,
+      "num": 102834,
+      "word": "小米寻求募集最高53亿美元",
+      "onboard_time": 1742816124,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 102823,
       "num": 102823,
       "word": "多方回应湖北大学女生失联数天",
@@ -58257,6 +58313,14 @@
       "onboard_time": 1741409062,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101526,
+      "num": 173117,
+      "word": "不说话的爱春节档后最大黑马",
+      "onboard_time": 1742816061,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 101443,
@@ -63595,14 +63659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75756,
-      "num": 154272,
-      "word": "中方从未收到杜特尔特寻求庇护申请",
-      "onboard_time": 1742815101,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 75746,
       "num": 342078,
       "word": "乌合麒麟新作还原中美AI诸神之战",
@@ -64283,6 +64339,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 71348,
+      "num": 821748,
+      "word": "春天是最懂氛围感的",
+      "onboard_time": 1742811082,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71265,
       "num": 345429,
       "word": "套内面积大幅缩水这房该怎么收",
@@ -64305,14 +64369,6 @@
       "onboard_time": 1741956742,
       "rank": 36,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 71201,
-      "num": 821748,
-      "word": "春天是最懂氛围感的",
-      "onboard_time": 1742811082,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 71131,
@@ -64849,14 +64905,6 @@
       "onboard_time": 1741264222,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 68263,
-      "num": 171016,
-      "word": "我国低龄老年人9000万",
-      "onboard_time": 1742814920,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68231,
@@ -67219,6 +67267,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 55384,
+      "num": 206897,
+      "word": "母亲称世纪婴儿去世是医疗事故",
+      "onboard_time": 1742815881,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55359,
       "num": 55359,
       "word": "T1登顶LOL全球实力排行榜",
@@ -67961,6 +68017,14 @@
       "onboard_time": 1741764262,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 51892,
+      "num": 246232,
+      "word": "花花花云南花花花",
+      "onboard_time": 1742814381,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51847,
@@ -71033,14 +71097,6 @@
       "onboard_time": 1741779923,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 37438,
-      "num": 241576,
-      "word": "花花花云南花花花",
-      "onboard_time": 1742814381,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37433,
@@ -75889,6 +75945,14 @@
       "onboard_time": 1741210510,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18050,
+      "num": 237157,
+      "word": "四川十万亩桃花朵朵开",
+      "onboard_time": 1742815881,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 18017,

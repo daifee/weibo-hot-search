@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742815243484,
+  "endTime": 1742816193216,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -121,6 +121,14 @@
       "onboard_time": 1742716878,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1531656,
+      "num": 1531656,
+      "word": "母亲称从未曝光过世纪婴儿的身份",
+      "onboard_time": 1742813661,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1510340,
@@ -419,12 +427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 763410,
+      "num": 763410,
+      "word": "四川叙永地震",
+      "onboard_time": 1742815823,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 761387,
       "num": 429823,
       "word": "赵露思粉发挑染",
       "onboard_time": 1742742982,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 739070,
+      "num": 256269,
+      "word": "周也一身睡衣上飞机",
+      "onboard_time": 1742811802,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 735103,
@@ -459,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694349,
+      "num": 319170,
+      "word": "官方回应17岁代孕少女生产细节",
+      "onboard_time": 1742811982,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 692649,
       "num": 692649,
       "word": "吴艳妮打破女子60米栏全国纪录",
@@ -483,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 670774,
-      "num": 670774,
-      "word": "母亲称从未曝光过世纪婴儿的身份",
-      "onboard_time": 1742813661,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 669542,
       "num": 669542,
       "word": "韩国山火已烧4600个足球场面积",
@@ -513,14 +537,6 @@
       "onboard_time": 1742714780,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 649810,
-      "num": 319170,
-      "word": "官方回应17岁代孕少女生产细节",
-      "onboard_time": 1742811982,
-      "rank": 44,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 648607,
@@ -561,14 +577,6 @@
       "onboard_time": 1742800401,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 626511,
-      "num": 256269,
-      "word": "周也一身睡衣上飞机",
-      "onboard_time": 1742811802,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 617900,
@@ -691,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 569467,
+      "num": 246854,
+      "word": "韩安冉宋浩然秀恩爱",
+      "onboard_time": 1742813241,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 564718,
       "num": 564718,
       "word": "雷军李在镕合影",
@@ -715,12 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 553211,
-      "num": 244702,
-      "word": "韩安冉宋浩然秀恩爱",
-      "onboard_time": 1742813241,
-      "rank": 17,
-      "category": "网红"
+      "raw_hot": 552713,
+      "num": 122976,
+      "word": "小米SU7Ultra时速150撞飞电动车",
+      "onboard_time": 1742815162,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 545648,
@@ -763,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 508062,
+      "num": 240254,
+      "word": "张凌赫方否认私联",
+      "onboard_time": 1742814982,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 506556,
       "num": 506556,
       "word": "蒋梦婕的鞋把浪姐舞台给染红了",
@@ -787,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504731,
+      "num": 504731,
+      "word": "念无双 定档",
+      "onboard_time": 1742813481,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 495112,
       "num": 284347,
       "word": "禹宙中欣",
@@ -809,6 +841,14 @@
       "onboard_time": 1742800343,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 488434,
+      "num": 231441,
+      "word": "古茗 樊振东",
+      "onboard_time": 1742814199,
+      "rank": 21,
+      "category": "体育,美食"
     },
     {
       "raw_hot": 483569,
@@ -841,14 +881,6 @@
       "onboard_time": 1742733261,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 476066,
-      "num": 476066,
-      "word": "念无双 定档",
-      "onboard_time": 1742813481,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 474683,
@@ -1003,14 +1035,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 415733,
-      "num": 231441,
-      "word": "古茗 樊振东",
-      "onboard_time": 1742814199,
-      "rank": 21,
-      "category": "体育,美食"
-    },
-    {
       "raw_hot": 411473,
       "num": 411473,
       "word": "官方回应女生劝阻吸烟被怼",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1742785641,
       "rank": 9,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 396777,
+      "num": 396777,
+      "word": "红双喜年会",
+      "onboard_time": 1742811261,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 390568,
@@ -1129,14 +1161,6 @@
       "onboard_time": 1742782460,
       "rank": 33,
       "category": "演出,艺人"
-    },
-    {
-      "raw_hot": 359057,
-      "num": 359057,
-      "word": "红双喜年会",
-      "onboard_time": 1742811261,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 356184,
@@ -2004,7 +2028,7 @@
     },
     {
       "raw_hot": 217102,
-      "num": 167700,
+      "num": 198734,
       "word": "夏以昼",
       "onboard_time": 1742813901,
       "rank": 30,
@@ -2033,14 +2057,6 @@
       "onboard_time": 1742797042,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215102,
-      "num": 215102,
-      "word": "张凌赫方否认私联",
-      "onboard_time": 1742814982,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 215050,
@@ -2651,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180467,
+      "num": 248627,
+      "word": "泉州交警回应小米SU7Ultra撞飞电动车",
+      "onboard_time": 1742815523,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179606,
       "num": 304241,
       "word": "黄山回应游客下山拥堵滞留到22点",
@@ -2761,6 +2785,14 @@
       "onboard_time": 1742654783,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170188,
+      "num": 170188,
+      "word": "优时颜 马柏全张康乐",
+      "onboard_time": 1742816124,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169262,
@@ -3139,6 +3171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154882,
+      "num": 154882,
+      "word": "国足18强赛",
+      "onboard_time": 1742814982,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154116,
       "num": 154116,
       "word": "慕胥辞",
@@ -3241,6 +3281,14 @@
       "onboard_time": 1742717780,
       "rank": 28,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 151112,
+      "num": 151112,
+      "word": "林高远刘诗雯11比6王浩丞闫禹橦",
+      "onboard_time": 1742816124,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 150846,
@@ -3907,14 +3955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126111,
-      "num": 126111,
-      "word": "国足18强赛",
-      "onboard_time": 1742814982,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125830,
       "num": 125830,
       "word": "WBG对战GW",
@@ -4139,14 +4179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118874,
-      "num": 118874,
-      "word": "小米SU7Ultra时速150撞飞电动车",
-      "onboard_time": 1742815162,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118265,
       "num": 118265,
       "word": "半熟4女三圈粉",
@@ -4257,6 +4289,14 @@
       "onboard_time": 1742725340,
       "rank": 44,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 114231,
+      "num": 158175,
+      "word": "中方从未收到杜特尔特寻求庇护申请",
+      "onboard_time": 1742815101,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113605,
@@ -4467,6 +4507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107517,
+      "num": 178263,
+      "word": "我国低龄老年人9000万",
+      "onboard_time": 1742814920,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107208,
       "num": 107208,
       "word": "全红婵崔晨曦又玩王楚钦表情包",
@@ -4595,6 +4643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102834,
+      "num": 102834,
+      "word": "小米寻求募集最高53亿美元",
+      "onboard_time": 1742816124,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 102570,
       "num": 102570,
       "word": "叶童 渡情",
@@ -4608,6 +4664,14 @@
       "word": "赵丽颖兰西雅一个害羞一个撅嘴",
       "onboard_time": 1742804302,
       "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 101526,
+      "num": 173117,
+      "word": "不说话的爱春节档后最大黑马",
+      "onboard_time": 1742816061,
+      "rank": 31,
       "category": "电影"
     },
     {
@@ -5067,14 +5131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75756,
-      "num": 154272,
-      "word": "中方从未收到杜特尔特寻求庇护申请",
-      "onboard_time": 1742815101,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 75492,
       "num": 75492,
       "word": "你以为没事实际巨伤眼的行为",
@@ -5147,7 +5203,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71201,
+      "raw_hot": 71348,
       "num": 821748,
       "word": "春天是最懂氛围感的",
       "onboard_time": 1742811082,
@@ -5209,14 +5265,6 @@
       "onboard_time": 1742746699,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68263,
-      "num": 171016,
-      "word": "我国低龄老年人9000万",
-      "onboard_time": 1742814920,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68231,
@@ -5475,6 +5523,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 55384,
+      "num": 206897,
+      "word": "母亲称世纪婴儿去世是医疗事故",
+      "onboard_time": 1742815881,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54402,
       "num": 54402,
       "word": "宝蓝说iG真要进世界赛了",
@@ -5497,6 +5553,14 @@
       "onboard_time": 1742646021,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51892,
+      "num": 246232,
+      "word": "花花花云南花花花",
+      "onboard_time": 1742814381,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51663,
@@ -5705,14 +5769,6 @@
       "onboard_time": 1742799501,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37438,
-      "num": 241576,
-      "word": "花花花云南花花花",
-      "onboard_time": 1742814381,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37157,
@@ -6081,6 +6137,14 @@
       "onboard_time": 1742668935,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18050,
+      "num": 237157,
+      "word": "四川十万亩桃花朵朵开",
+      "onboard_time": 1742815881,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 17839,
