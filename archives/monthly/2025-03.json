@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742788190818,
+  "endTime": 1742790580365,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1741521621,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2056281,
+      "num": 2056281,
+      "word": "水果骗局",
+      "onboard_time": 1742786121,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 2047459,
@@ -5107,6 +5115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 966169,
+      "num": 1152871,
+      "word": "男童被打死案父亲说天天想儿子",
+      "onboard_time": 1742785519,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 965408,
       "num": 648064,
       "word": "金秀贤掉Prada韩网盛赞中女",
@@ -5129,14 +5145,6 @@
       "onboard_time": 1741517063,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 963577,
-      "num": 377189,
-      "word": "水果骗局",
-      "onboard_time": 1742786121,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 962496,
@@ -5216,14 +5224,6 @@
       "word": "乳腺癌女子提醒网友少碰购物小票",
       "onboard_time": 1740835824,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 955449,
-      "num": 1152871,
-      "word": "男童被打死案父亲说天天想儿子",
-      "onboard_time": 1742785519,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -7241,6 +7241,14 @@
       "onboard_time": 1742451203,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 767533,
+      "num": 767533,
+      "word": "17岁未成年彝族女孩成代孕妈妈",
+      "onboard_time": 1742787021,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 767215,
@@ -10307,6 +10315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 589064,
+      "num": 589064,
+      "word": "91岁老人担心女儿没尊严立遗嘱保护",
+      "onboard_time": 1742784981,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 588801,
       "num": 341321,
       "word": "不爱上学不爱上班 结果在学校上班",
@@ -11707,14 +11723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 527926,
-      "num": 527926,
-      "word": "91岁老人担心女儿没尊严立遗嘱保护",
-      "onboard_time": 1742784981,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 527786,
       "num": 527786,
       "word": "利路修还有15天要退圈了",
@@ -12515,6 +12523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493770,
+      "num": 290589,
+      "word": "十六分之一中国血统",
+      "onboard_time": 1742789121,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 493403,
       "num": 1058769,
       "word": "多家大厂开始强制下班",
@@ -12825,6 +12841,14 @@
       "onboard_time": 1741403961,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 480308,
+      "num": 480308,
+      "word": "OPPO",
+      "onboard_time": 1742783302,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 480044,
@@ -13833,6 +13857,14 @@
       "onboard_time": 1741221319,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 444801,
+      "num": 282745,
+      "word": "减重医生42天减48斤",
+      "onboard_time": 1742789062,
+      "rank": 20,
+      "category": "运动健身"
     },
     {
       "raw_hot": 443604,
@@ -20323,6 +20355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 296217,
+      "num": 296217,
+      "word": "王源 潮石主办",
+      "onboard_time": 1742788040,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 296216,
       "num": 296216,
       "word": "歌手2025 火星哥",
@@ -21145,6 +21185,14 @@
       "onboard_time": 1741269203,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282917,
+      "num": 282917,
+      "word": "射雕英雄传延长上映至4月30日",
+      "onboard_time": 1742789422,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 282580,
@@ -22187,6 +22235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 267630,
+      "num": 280949,
+      "word": "浪姐6宋妍霏这个片段好美",
+      "onboard_time": 1742789241,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267624,
       "num": 214438,
       "word": "全红婵在追难哄",
@@ -22257,6 +22313,14 @@
       "onboard_time": 1742782160,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267168,
+      "num": 267168,
+      "word": "千禾董事长称千禾0就是零添加",
+      "onboard_time": 1742786060,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267058,
@@ -23139,14 +23203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256244,
-      "num": 256244,
-      "word": "王源 潮石主办",
-      "onboard_time": 1742788040,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 256236,
       "num": 208866,
       "word": "唐九洲疑似回应抄袭",
@@ -23641,14 +23697,6 @@
       "onboard_time": 1741931664,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 250266,
-      "num": 250266,
-      "word": "千禾董事长称千禾0就是零添加",
-      "onboard_time": 1742786060,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250104,
@@ -25764,7 +25812,7 @@
     },
     {
       "raw_hot": 227793,
-      "num": 227793,
+      "num": 281284,
       "word": "蒋一侨考伯克利考了三年",
       "onboard_time": 1742787200,
       "rank": 25,
@@ -27619,6 +27667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214250,
+      "num": 281709,
+      "word": "吴宣仪外网断层",
+      "onboard_time": 1742788463,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214246,
       "num": 214246,
       "word": "游客逛长隆发现满地动物饼干",
@@ -28689,14 +28745,6 @@
       "onboard_time": 1741144578,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207497,
-      "num": 207497,
-      "word": "17岁未成年彝族女孩成代孕妈妈",
-      "onboard_time": 1742787021,
-      "rank": 28,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 207457,
@@ -31755,6 +31803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 193932,
+      "num": 193932,
+      "word": "张佳宁 剧抛脸",
+      "onboard_time": 1742790022,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193871,
       "num": 193871,
       "word": "刘昊然黑皮衣杀伤力",
@@ -32337,14 +32393,6 @@
       "onboard_time": 1742016565,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191619,
-      "num": 191619,
-      "word": "OPPO",
-      "onboard_time": 1742783302,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 191571,
@@ -33737,6 +33785,14 @@
       "onboard_time": 1742627061,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186171,
+      "num": 186171,
+      "word": "王源说三巡人数多5倍后压力大",
+      "onboard_time": 1742789902,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 186140,
@@ -35625,6 +35681,14 @@
       "onboard_time": 1742778200,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176648,
+      "num": 196869,
+      "word": "这对姐狗扑面而来的缺氧感",
+      "onboard_time": 1742790323,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 176632,
@@ -38147,6 +38211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165667,
+      "num": 294386,
+      "word": "偶遇王一博遛狗",
+      "onboard_time": 1742787200,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165651,
       "num": 381222,
       "word": "米菲声明",
@@ -38505,6 +38577,14 @@
       "onboard_time": 1741827145,
       "rank": 21,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 164279,
+      "num": 207464,
+      "word": "在韩国姐弟恋的婚姻模式正流行起来",
+      "onboard_time": 1742786841,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 164276,
@@ -41945,6 +42025,14 @@
       "onboard_time": 1742545940,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152133,
+      "num": 282878,
+      "word": "3万2买8平地下室缩水到2平",
+      "onboard_time": 1742788942,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152108,
@@ -45929,6 +46017,14 @@
       "onboard_time": 1741764203,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139278,
+      "num": 139278,
+      "word": "路人摄影师拍的龚俊",
+      "onboard_time": 1742788701,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 139187,
@@ -51675,6 +51771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120169,
+      "num": 159855,
+      "word": "好险差点就听到Jennie唱歌",
+      "onboard_time": 1742789062,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120141,
       "num": 120141,
       "word": "张元英四月刊封面",
@@ -55497,6 +55601,14 @@
       "onboard_time": 1741151719,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106997,
+      "num": 281905,
+      "word": "孙颖莎澳门世界杯见",
+      "onboard_time": 1742790384,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 106981,
@@ -60611,14 +60723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85916,
-      "num": 207464,
-      "word": "在韩国姐弟恋的婚姻模式正流行起来",
-      "onboard_time": 1742786841,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 85890,
       "num": 85890,
       "word": "韵达回应全资子公司被立案调查",
@@ -64339,6 +64443,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 63399,
+      "num": 769849,
+      "word": "当中国古建邂逅春光",
+      "onboard_time": 1742787501,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63332,
       "num": 227477,
       "word": "被代驾因2.6元举报的KTV停业整顿",
@@ -66459,6 +66571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52041,
+      "num": 194322,
+      "word": "14岁等等好帅",
+      "onboard_time": 1742790563,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52036,
       "num": 193355,
       "word": "巴基斯坦列车遇袭死亡人数上升",
@@ -66537,14 +66657,6 @@
       "onboard_time": 1741396820,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 51785,
-      "num": 256224,
-      "word": "偶遇王一博遛狗",
-      "onboard_time": 1742787200,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 51757,
@@ -68139,6 +68251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43499,
+      "num": 296470,
+      "word": "人民日报三问餐饮加盟模式",
+      "onboard_time": 1742790202,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43428,
       "num": 234867,
       "word": "极氪CEO智驾直播首秀",
@@ -68481,6 +68601,14 @@
       "onboard_time": 1740983719,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 41681,
+      "num": 281127,
+      "word": "黄杨钿甜给摔倒粉丝创可贴",
+      "onboard_time": 1742789722,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 41664,
@@ -68841,6 +68969,14 @@
       "onboard_time": 1741936403,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 40531,
+      "num": 165522,
+      "word": "多部好莱坞新片确认引进",
+      "onboard_time": 1742789182,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 40511,
@@ -69736,6 +69872,14 @@
       "word": "渴望自由的年轻人边打零工边找人生",
       "onboard_time": 1741597522,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36388,
+      "num": 195084,
+      "word": "17岁少女代孕公司经营异常",
+      "onboard_time": 1742790563,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -72035,6 +72179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26754,
+      "num": 291075,
+      "word": "大多数金包银产品缺斤短两",
+      "onboard_time": 1742788881,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 26743,
       "num": 39060,
       "word": "请全成都人民监督我减肥",
@@ -73345,14 +73497,6 @@
       "onboard_time": 1742203522,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21804,
-      "num": 701214,
-      "word": "当中国古建邂逅春光",
-      "onboard_time": 1742787501,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21790,

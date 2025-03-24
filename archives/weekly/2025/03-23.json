@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742788190818,
+  "endTime": 1742790580365,
   "band_list": [
     {
       "raw_hot": 3044323,
@@ -17,6 +17,14 @@
       "onboard_time": 1742719339,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 2056281,
+      "num": 2056281,
+      "word": "水果骗局",
+      "onboard_time": 1742786121,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 1804315,
@@ -203,15 +211,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 963577,
-      "num": 377189,
-      "word": "水果骗局",
-      "onboard_time": 1742786121,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 955449,
+      "raw_hot": 966169,
       "num": 1152871,
       "word": "男童被打死案父亲说天天想儿子",
       "onboard_time": 1742785519,
@@ -321,6 +321,14 @@
       "onboard_time": 1742698879,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 767533,
+      "num": 767533,
+      "word": "17岁未成年彝族女孩成代孕妈妈",
+      "onboard_time": 1742787021,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 761387,
@@ -507,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 589064,
+      "num": 589064,
+      "word": "91岁老人担心女儿没尊严立遗嘱保护",
+      "onboard_time": 1742784981,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 578426,
       "num": 780065,
       "word": "清明档已有11部影片定档",
@@ -545,14 +561,6 @@
       "onboard_time": 1742774720,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 527926,
-      "num": 527926,
-      "word": "91岁老人担心女儿没尊严立遗嘱保护",
-      "onboard_time": 1742784981,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 517422,
@@ -603,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 493770,
+      "num": 290589,
+      "word": "十六分之一中国血统",
+      "onboard_time": 1742789121,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 493292,
       "num": 493292,
       "word": "小杨哥半年掉粉超1200万",
@@ -617,6 +633,14 @@
       "onboard_time": 1742723540,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 480308,
+      "num": 480308,
+      "word": "OPPO",
+      "onboard_time": 1742783302,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 479346,
@@ -697,6 +721,14 @@
       "onboard_time": 1742739502,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 444801,
+      "num": 282745,
+      "word": "减重医生42天减48斤",
+      "onboard_time": 1742789062,
+      "rank": 20,
+      "category": "运动健身"
     },
     {
       "raw_hot": 443542,
@@ -1059,6 +1091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 296217,
+      "num": 296217,
+      "word": "王源 潮石主办",
+      "onboard_time": 1742788040,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 295891,
       "num": 295891,
       "word": "夏以昼终极兵器",
@@ -1137,6 +1177,14 @@
       "onboard_time": 1742647401,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 282917,
+      "num": 282917,
+      "word": "射雕英雄传延长上映至4月30日",
+      "onboard_time": 1742789422,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 282117,
@@ -1219,12 +1267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267630,
+      "num": 280949,
+      "word": "浪姐6宋妍霏这个片段好美",
+      "onboard_time": 1742789241,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267195,
       "num": 279070,
       "word": "网剧沙尘暴定档",
       "onboard_time": 1742782160,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267168,
+      "num": 267168,
+      "word": "千禾董事长称千禾0就是零添加",
+      "onboard_time": 1742786060,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266487,
@@ -1259,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256244,
-      "num": 256244,
-      "word": "王源 潮石主办",
-      "onboard_time": 1742788040,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 256236,
       "num": 208866,
       "word": "唐九洲疑似回应抄袭",
@@ -1281,14 +1337,6 @@
       "onboard_time": 1742700620,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250266,
-      "num": 250266,
-      "word": "千禾董事长称千禾0就是零添加",
-      "onboard_time": 1742786060,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 247803,
@@ -1428,7 +1476,7 @@
     },
     {
       "raw_hot": 227793,
-      "num": 227793,
+      "num": 281284,
       "word": "蒋一侨考伯克利考了三年",
       "onboard_time": 1742787200,
       "rank": 25,
@@ -1465,6 +1513,14 @@
       "onboard_time": 1742710580,
       "rank": 21,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 214250,
+      "num": 281709,
+      "word": "吴宣仪外网断层",
+      "onboard_time": 1742788463,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 213948,
@@ -1537,14 +1593,6 @@
       "onboard_time": 1742724920,
       "rank": 19,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 207497,
-      "num": 207497,
-      "word": "17岁未成年彝族女孩成代孕妈妈",
-      "onboard_time": 1742787021,
-      "rank": 28,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 207220,
@@ -1731,6 +1779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193932,
+      "num": 193932,
+      "word": "张佳宁 剧抛脸",
+      "onboard_time": 1742790022,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191939,
       "num": 191939,
       "word": "平越南输中国韩国球迷怒了",
@@ -1745,14 +1801,6 @@
       "onboard_time": 1742739682,
       "rank": 29,
       "category": "网红"
-    },
-    {
-      "raw_hot": 191619,
-      "num": 191619,
-      "word": "OPPO",
-      "onboard_time": 1742783302,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 191528,
@@ -1867,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186171,
+      "num": 186171,
+      "word": "王源说三巡人数多5倍后压力大",
+      "onboard_time": 1742789902,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186140,
       "num": 153927,
       "word": "汪苏泷十万伏特实体专辑",
@@ -1945,6 +2001,14 @@
       "onboard_time": 1742778200,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176648,
+      "num": 196869,
+      "word": "这对姐狗扑面而来的缺氧感",
+      "onboard_time": 1742790323,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 174216,
@@ -2057,6 +2121,22 @@
       "onboard_time": 1742770997,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165667,
+      "num": 294386,
+      "word": "偶遇王一博遛狗",
+      "onboard_time": 1742787200,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 164279,
+      "num": 207464,
+      "word": "在韩国姐弟恋的婚姻模式正流行起来",
+      "onboard_time": 1742786841,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 164213,
@@ -2363,6 +2443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152133,
+      "num": 282878,
+      "word": "3万2买8平地下室缩水到2平",
+      "onboard_time": 1742788942,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151378,
       "num": 151378,
       "word": "野餐",
@@ -2603,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139278,
+      "num": 139278,
+      "word": "路人摄影师拍的龚俊",
+      "onboard_time": 1742788701,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138203,
       "num": 138203,
       "word": "我家的小狗",
@@ -2633,6 +2729,14 @@
       "onboard_time": 1742709320,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137751,
+      "num": 137751,
+      "word": "闪耀暖暖",
+      "onboard_time": 1742788463,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 137477,
@@ -2987,6 +3091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120169,
+      "num": 159855,
+      "word": "好险差点就听到Jennie唱歌",
+      "onboard_time": 1742789062,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119819,
       "num": 119819,
       "word": "库克大赞DeepSeek",
@@ -3248,6 +3360,14 @@
       "word": "武汉马拉松",
       "onboard_time": 1742687480,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106997,
+      "num": 281905,
+      "word": "孙颖莎澳门世界杯见",
+      "onboard_time": 1742790384,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -3595,14 +3715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85916,
-      "num": 207464,
-      "word": "在韩国姐弟恋的婚姻模式正流行起来",
-      "onboard_time": 1742786841,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 84967,
       "num": 84967,
       "word": "虞书欣95花第一部全集有广现偶",
@@ -3923,6 +4035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63399,
+      "num": 769849,
+      "word": "当中国古建邂逅春光",
+      "onboard_time": 1742787501,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63171,
       "num": 158761,
       "word": "汉马首位进场选手拎着热干面就来了",
@@ -4027,11 +4147,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51785,
-      "num": 256224,
-      "word": "偶遇王一博遛狗",
-      "onboard_time": 1742787200,
-      "rank": 20,
+      "raw_hot": 52041,
+      "num": 194322,
+      "word": "14岁等等好帅",
+      "onboard_time": 1742790563,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -4099,6 +4219,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 43499,
+      "num": 296470,
+      "word": "人民日报三问餐饮加盟模式",
+      "onboard_time": 1742790202,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43027,
       "num": 43027,
       "word": "汪苏泷演唱会上喊大家补妆",
@@ -4121,6 +4249,22 @@
       "onboard_time": 1742747479,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 41681,
+      "num": 281127,
+      "word": "黄杨钿甜给摔倒粉丝创可贴",
+      "onboard_time": 1742789722,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40531,
+      "num": 165522,
+      "word": "多部好莱坞新片确认引进",
+      "onboard_time": 1742789182,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 40266,
@@ -4161,6 +4305,14 @@
       "onboard_time": 1742685076,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 36388,
+      "num": 195084,
+      "word": "17岁少女代孕公司经营异常",
+      "onboard_time": 1742790563,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34845,
@@ -4299,6 +4451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26754,
+      "num": 291075,
+      "word": "大多数金包银产品缺斤短两",
+      "onboard_time": 1742788881,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 26443,
       "num": 30775,
       "word": "黄子弘凡除了快乐禁止入内",
@@ -4377,14 +4537,6 @@
       "onboard_time": 1742745500,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 21804,
-      "num": 701214,
-      "word": "当中国古建邂逅春光",
-      "onboard_time": 1742787501,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21383,
