@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742836949037,
+  "endTime": 1742837998542,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -22699,6 +22699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269577,
+      "num": 269577,
+      "word": "远洋渔船船长在公海被船员杀害抛海",
+      "onboard_time": 1742832799,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269393,
       "num": 269393,
       "word": "建议各地制定彩礼金额上限标准",
@@ -23089,14 +23097,6 @@
       "onboard_time": 1742038885,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 265272,
-      "num": 265272,
-      "word": "远洋渔船船长在公海被船员杀害抛海",
-      "onboard_time": 1742832799,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 265239,
@@ -65475,6 +65475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69117,
+      "num": 69117,
+      "word": "安徽蚌埠全市试行作业熔断机制",
+      "onboard_time": 1742836576,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69103,
       "num": 69103,
       "word": "早春的一周穿什么",
@@ -73491,6 +73499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31054,
+      "num": 31054,
+      "word": "魏大勋粉色西装造型",
+      "onboard_time": 1742836818,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31048,
       "num": 454936,
       "word": "梁靖崑vs卢伟",
@@ -73899,6 +73915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29329,
+      "num": 29329,
+      "word": "卓沅骑个小车真舒服",
+      "onboard_time": 1742837415,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29315,
       "num": 277388,
       "word": "刘嘉玲天台故事ELLE大片",
@@ -73937,14 +73961,6 @@
       "onboard_time": 1741511061,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29212,
-      "num": 29212,
-      "word": "魏大勋粉色西装造型",
-      "onboard_time": 1742836818,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 29172,
@@ -77113,14 +77129,6 @@
       "onboard_time": 1742377103,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16845,
-      "num": 51481,
-      "word": "安徽蚌埠全市试行作业熔断机制",
-      "onboard_time": 1742836576,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16821,

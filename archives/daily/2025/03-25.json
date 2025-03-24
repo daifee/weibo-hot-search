@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742836949037,
+  "endTime": 1742837998542,
   "band_list": [
     {
       "raw_hot": 517053,
@@ -83,20 +83,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269577,
+      "num": 269577,
+      "word": "远洋渔船船长在公海被船员杀害抛海",
+      "onboard_time": 1742832799,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269003,
       "num": 269003,
       "word": "茶百道发文致歉",
       "onboard_time": 1742800762,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265272,
-      "num": 265272,
-      "word": "远洋渔船船长在公海被船员杀害抛海",
-      "onboard_time": 1742832799,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217409,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69117,
+      "num": 69117,
+      "word": "安徽蚌埠全市试行作业熔断机制",
+      "onboard_time": 1742836576,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68209,
       "num": 68209,
       "word": "陈都灵 傅大人马术精湛",
@@ -427,12 +435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29212,
-      "num": 29212,
+      "raw_hot": 31054,
+      "num": 31054,
       "word": "魏大勋粉色西装造型",
       "onboard_time": 1742836818,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29329,
+      "num": 29329,
+      "word": "卓沅骑个小车真舒服",
+      "onboard_time": 1742837415,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 26068,
@@ -449,14 +465,6 @@
       "onboard_time": 1742825783,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16845,
-      "num": 51481,
-      "word": "安徽蚌埠全市试行作业熔断机制",
-      "onboard_time": 1742836576,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12611,
