@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742801174871,
+  "endTime": 1742801891073,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -65,6 +65,14 @@
       "onboard_time": 1742784320,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1767011,
+      "num": 1767011,
+      "word": "茶百道发文致歉",
+      "onboard_time": 1742800762,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1731944,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 1194764,
-      "num": 396509,
+      "num": 447094,
       "word": "14岁等等好帅",
       "onboard_time": 1742790563,
       "rank": 36,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 922290,
-      "num": 239843,
+      "num": 448149,
       "word": "茶百道",
       "onboard_time": 1742793984,
       "rank": 13,
@@ -289,6 +297,14 @@
       "onboard_time": 1742721861,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 867087,
+      "num": 453479,
+      "word": "避谶",
+      "onboard_time": 1742795784,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 861797,
@@ -353,14 +369,6 @@
       "onboard_time": 1742697559,
       "rank": 1,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 804055,
-      "num": 240518,
-      "word": "避谶",
-      "onboard_time": 1742795784,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 800043,
@@ -489,6 +497,14 @@
       "onboard_time": 1742689579,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 633025,
+      "num": 452339,
+      "word": "何泓姗选组 上错花轿嫁错人",
+      "onboard_time": 1742800401,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 617900,
@@ -667,12 +683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 496845,
-      "num": 238343,
-      "word": "何泓姗选组 上错花轿嫁错人",
-      "onboard_time": 1742800401,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 500655,
+      "num": 456632,
+      "word": "将门毒后 刘晓庆陈宝国",
+      "onboard_time": 1742800641,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 495112,
@@ -729,14 +745,6 @@
       "onboard_time": 1742729707,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 470862,
-      "num": 470862,
-      "word": "茶百道发文致歉",
-      "onboard_time": 1742800762,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 467850,
@@ -884,7 +892,7 @@
     },
     {
       "raw_hot": 411404,
-      "num": 233503,
+      "num": 286918,
       "word": "3岁娃暴发性心肌炎确诊到去世仅3小时",
       "onboard_time": 1742791764,
       "rank": 20,
@@ -1188,7 +1196,7 @@
     },
     {
       "raw_hot": 306098,
-      "num": 235999,
+      "num": 285667,
       "word": "李昀锐出妆",
       "onboard_time": 1742798061,
       "rank": 47,
@@ -1427,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270193,
+      "num": 270193,
+      "word": "分手后男子拉账单发现1年花50万",
+      "onboard_time": 1742800343,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269588,
       "num": 200797,
       "word": "霍思燕牵着嗯哼逛街",
@@ -1489,14 +1505,6 @@
       "onboard_time": 1742734942,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 258663,
-      "num": 232326,
-      "word": "将门毒后 刘晓庆陈宝国",
-      "onboard_time": 1742800641,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 258355,
@@ -1564,7 +1572,7 @@
     },
     {
       "raw_hot": 241961,
-      "num": 241961,
+      "num": 451776,
       "word": "吉林一村闯入老虎",
       "onboard_time": 1742797762,
       "rank": 23,
@@ -1585,6 +1593,14 @@
       "onboard_time": 1742787141,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241080,
+      "num": 455373,
+      "word": "心源性猝死前有哪些征兆",
+      "onboard_time": 1742799802,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 240753,
@@ -1745,6 +1761,14 @@
       "onboard_time": 1742744720,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215142,
+      "num": 288689,
+      "word": "上海现9.9元共享工位",
+      "onboard_time": 1742797042,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215050,
@@ -2009,6 +2033,14 @@
       "onboard_time": 1742703081,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196335,
+      "num": 196335,
+      "word": "余承东刘亦菲直播",
+      "onboard_time": 1742801602,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 195945,
@@ -2315,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176476,
+      "num": 176476,
+      "word": "刘亦菲手捧玫瑰美我一跳",
+      "onboard_time": 1742801422,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174216,
       "num": 174216,
       "word": "郑钦文2比0汤森德",
@@ -2371,20 +2411,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171136,
+      "num": 171136,
+      "word": "海漂一天一夜的小孩哥又出去玩了",
+      "onboard_time": 1742800343,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170678,
       "num": 133217,
       "word": "全款140万买到230平房子",
       "onboard_time": 1742654783,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 170156,
-      "num": 170156,
-      "word": "分手后男子拉账单发现1年花50万",
-      "onboard_time": 1742800343,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169262,
@@ -2473,14 +2513,6 @@
       "onboard_time": 1742718681,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 162795,
-      "num": 234783,
-      "word": "上海现9.9元共享工位",
-      "onboard_time": 1742797042,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162614,
@@ -2609,6 +2641,14 @@
       "onboard_time": 1742733381,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158524,
+      "num": 158524,
+      "word": "钱存越久越亏可能正在成为现实",
+      "onboard_time": 1742801062,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158377,
@@ -2777,14 +2817,6 @@
       "onboard_time": 1742693060,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152081,
-      "num": 234635,
-      "word": "心源性猝死前有哪些征兆",
-      "onboard_time": 1742799802,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 151378,
@@ -3059,14 +3091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139081,
-      "num": 139081,
-      "word": "海漂一天一夜的小孩哥又出去玩了",
-      "onboard_time": 1742800343,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138203,
       "num": 138203,
       "word": "我家的小狗",
@@ -3323,6 +3347,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127489,
+      "num": 127489,
+      "word": "有你的时光里定档",
+      "onboard_time": 1742801782,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127314,
+      "num": 127314,
+      "word": "周深孟子义周传雄史诗级会面",
+      "onboard_time": 1742801483,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127294,
       "num": 390041,
       "word": "党在新时代的徙木立信之举",
@@ -3504,6 +3544,14 @@
       "word": "未成年选秀节目组称选手受到伤害",
       "onboard_time": 1742700140,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122155,
+      "num": 122155,
+      "word": "刘诗诗生活感",
+      "onboard_time": 1742801602,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -3721,14 +3769,6 @@
       "onboard_time": 1742727200,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 111391,
-      "num": 111391,
-      "word": "钱存越久越亏可能正在成为现实",
-      "onboard_time": 1742801062,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110612,
@@ -4363,6 +4403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75768,
+      "num": 450015,
+      "word": "开饭店问顾客员工借钱百万自称有内情",
+      "onboard_time": 1742800102,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75761,
       "num": 299215,
       "word": "3家药企合谋垄断致一款药暴涨20倍",
@@ -4409,6 +4457,14 @@
       "onboard_time": 1742741542,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72679,
+      "num": 264471,
+      "word": "全红婵庆祝崔晨曦夺冠",
+      "onboard_time": 1742801483,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 72344,
@@ -4756,7 +4812,7 @@
     },
     {
       "raw_hot": 49785,
-      "num": 237486,
+      "num": 330647,
       "word": "小岳岳被爆改",
       "onboard_time": 1742798182,
       "rank": 23,
@@ -4776,6 +4832,14 @@
       "word": "100秒奔赴一场繁花盛开",
       "onboard_time": 1742703320,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45966,
+      "num": 203504,
+      "word": "八小时之外休而不息待破解",
+      "onboard_time": 1742800523,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -4939,6 +5003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34333,
+      "num": 449363,
+      "word": "广州卫健委正核实17岁女孩代孕",
+      "onboard_time": 1742801422,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34287,
       "num": 298412,
       "word": "郑钦文感谢球迷深夜陪伴",
@@ -5075,14 +5147,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 28022,
-      "num": 238128,
-      "word": "开饭店问顾客员工借钱百万自称有内情",
-      "onboard_time": 1742800102,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27497,
       "num": 55011,
       "word": "荷兰警方针对性搜索罗生门时发现男尸",
@@ -5097,14 +5161,6 @@
       "onboard_time": 1742751076,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27099,
-      "num": 203504,
-      "word": "八小时之外休而不息待破解",
-      "onboard_time": 1742800523,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26754,
@@ -5289,6 +5345,14 @@
       "onboard_time": 1742665936,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15164,
+      "num": 1789994,
+      "word": "赏花经济赋能乡村振兴",
+      "onboard_time": 1742786841,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14102,
