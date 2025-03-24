@@ -1,0 +1,410 @@
+{
+  "runTime": 1742834817561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 414770,
+        "num": 719765,
+        "word": "央视曝光所谓瘦身咖啡真相",
+        "onboard_time": 1742826983,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327981,
+        "num": 327981,
+        "word": "电影学院失联女生半年没回过家",
+        "onboard_time": 1742828124,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22870,
+        "num": 322109,
+        "word": "万千气象看江苏",
+        "onboard_time": 1742825783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321440,
+        "num": 321440,
+        "word": "雷军回武大发了100万奖学金",
+        "onboard_time": 1742829322,
+        "rank": 3,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 302055,
+        "num": 302055,
+        "word": "多邻国崩了",
+        "onboard_time": 1742820682,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 270065,
+        "num": 270065,
+        "word": "这些食物居然比喝油还长肉",
+        "onboard_time": 1742831359,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232202,
+        "num": 232202,
+        "word": "睡前4个习惯让肚子长肉",
+        "onboard_time": 1742823621,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210582,
+        "num": 210582,
+        "word": "茶百道发文致歉",
+        "onboard_time": 1742800762,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208391,
+        "num": 208391,
+        "word": "林心如新剧开拍",
+        "onboard_time": 1742831961,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26068,
+        "num": 207659,
+        "word": "花花是春意最佳氛围组吧",
+        "onboard_time": 1742833998,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397409,
+        "num": 207267,
+        "word": "棣欣引力",
+        "onboard_time": 1742823262,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381103,
+        "num": 205852,
+        "word": "27岁女孩每天打3份工战胜不死癌症",
+        "onboard_time": 1742827042,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315547,
+        "num": 204991,
+        "word": "考公博主吴桐 塌房",
+        "onboard_time": 1742802802,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 240165,
+        "num": 204230,
+        "word": "金秀贤新料漫画提示",
+        "onboard_time": 1742824523,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203869,
+        "num": 203869,
+        "word": "远洋渔船船长在公海被船员杀害抛海",
+        "onboard_time": 1742832799,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168940,
+        "num": 168940,
+        "word": "虞书欣的头纱上都是细节",
+        "onboard_time": 1742828424,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141996,
+        "num": 141996,
+        "word": "腾讯QQ宣布调整短视频业务",
+        "onboard_time": 1742831421,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137271,
+        "num": 137271,
+        "word": "王一博即将再次向赛道发起挑战",
+        "onboard_time": 1742829502,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137130,
+        "num": 137130,
+        "word": "唐艺昕希望家里吃饭的时候不看手机",
+        "onboard_time": 1742824762,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116166,
+        "num": 136291,
+        "word": "卡琳娜cos陆光的原因找到了",
+        "onboard_time": 1742827883,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135532,
+        "num": 135532,
+        "word": "臭屁虫虫卵千万别碰",
+        "onboard_time": 1742827823,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128005,
+        "num": 128005,
+        "word": "马龙祝福孙颖莎王楚钦圆梦2028",
+        "onboard_time": 1742824883,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83452,
+        "num": 83452,
+        "word": "易烊千玺咋还写急眼了呢",
+        "onboard_time": 1742811320,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81678,
+        "num": 81678,
+        "word": "雁回时有李晟",
+        "onboard_time": 1742825242,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81189,
+        "num": 81189,
+        "word": "希望小学一万四买相机只值六百引质疑",
+        "onboard_time": 1742823502,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77560,
+        "num": 77560,
+        "word": "雁回时",
+        "onboard_time": 1742811383,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77356,
+        "num": 77356,
+        "word": "为带小猫世纪婴儿高烧坐8小时大巴",
+        "onboard_time": 1742825124,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75942,
+        "num": 75942,
+        "word": "金秀贤称给金赛纶的信是朋友信之一",
+        "onboard_time": 1742819962,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75433,
+        "num": 75433,
+        "word": "失业在家一天遛三次狗",
+        "onboard_time": 1742828002,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72988,
+        "num": 72988,
+        "word": "蔡徐坤苹果头",
+        "onboard_time": 1742809523,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72734,
+        "num": 72734,
+        "word": "念无双 定档",
+        "onboard_time": 1742813481,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67728,
+        "num": 67728,
+        "word": "四川泸州4.9级地震",
+        "onboard_time": 1742816723,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 67100,
+        "num": 67100,
+        "word": "虞书欣晒卫小枝日常第二弹",
+        "onboard_time": 1742829502,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66658,
+        "num": 66658,
+        "word": "陈都灵 傅大人马术精湛",
+        "onboard_time": 1742832440,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64805,
+        "num": 64805,
+        "word": "男子骑行遭风筝线割穿头盔",
+        "onboard_time": 1742820382,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62120,
+        "num": 62120,
+        "word": "留几手首场直播带货销售额",
+        "onboard_time": 1742825481,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60193,
+        "num": 60193,
+        "word": "周也一身睡衣上飞机",
+        "onboard_time": 1742811802,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59954,
+        "num": 59954,
+        "word": "男子骚扰女性自称陕西延长石油部长",
+        "onboard_time": 1742830161,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59399,
+        "num": 59399,
+        "word": "古茗 樊振东",
+        "onboard_time": 1742814199,
+        "rank": 38,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 58732,
+        "num": 58732,
+        "word": "曝小米要募集超380亿",
+        "onboard_time": 1742825543,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58333,
+        "num": 58333,
+        "word": "下一个台风",
+        "onboard_time": 1742833939,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55615,
+        "num": 55615,
+        "word": "半熟4男一男二都选了梁田",
+        "onboard_time": 1742819783,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54158,
+        "num": 54158,
+        "word": "丁禹兮经典皮肤返场",
+        "onboard_time": 1742827402,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51837,
+        "num": 51837,
+        "word": "美媒爆美将不惜代价研发金穹防御系统",
+        "onboard_time": 1742828301,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51818,
+        "num": 51818,
+        "word": "何健麒直播",
+        "onboard_time": 1742824941,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51440,
+        "num": 51440,
+        "word": "张凌赫方否认私联",
+        "onboard_time": 1742814982,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51305,
+        "num": 51305,
+        "word": "玉兰花瓣居然真的能吹成气球",
+        "onboard_time": 1742825061,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 45563,
+        "num": 51304,
+        "word": "男子突然倒地无呼吸被AED救回",
+        "onboard_time": 1742822902,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 45341,
+        "num": 51301,
+        "word": "外交部驳斥中国探讨参加乌维和部队",
+        "onboard_time": 1742828842,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43983,
+        "num": 51299,
+        "word": "福宝恢复展出",
+        "onboard_time": 1742823743,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#风正好扬万里帆#"
+    }
+  }
+}

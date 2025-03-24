@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742833907641,
+  "endTime": 1742834817561,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -30353,6 +30353,14 @@
       "onboard_time": 1742541500,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203869,
+      "num": 216989,
+      "word": "远洋渔船船长在公海被船员杀害抛海",
+      "onboard_time": 1742832799,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203867,
@@ -61099,14 +61107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92993,
-      "num": 216989,
-      "word": "远洋渔船船长在公海被船员杀害抛海",
-      "onboard_time": 1742832799,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92990,
       "num": 92990,
       "word": "上海中小学已全面实施AB制午餐模式",
@@ -67393,6 +67393,14 @@
       "onboard_time": 1740883518,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 58333,
+      "num": 58333,
+      "word": "下一个台风",
+      "onboard_time": 1742833939,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 58300,
@@ -74807,6 +74815,14 @@
       "num": 138392,
       "word": "唐代银盘留下鸿雁北归绝美一瞬",
       "onboard_time": 1741624222,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26068,
+      "num": 207659,
+      "word": "花花是春意最佳氛围组吧",
+      "onboard_time": 1742833998,
       "rank": 9,
       "category": "民生新闻"
     },

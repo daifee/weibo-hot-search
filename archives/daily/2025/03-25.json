@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742833907641,
+  "endTime": 1742834817561,
   "band_list": [
     {
       "raw_hot": 517053,
@@ -59,7 +59,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 300277,
+      "raw_hot": 315547,
       "num": 211418,
       "word": "考公博主吴桐 塌房",
       "onboard_time": 1742802802,
@@ -107,8 +107,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203869,
+      "num": 216989,
+      "word": "远洋渔船船长在公海被船员杀害抛海",
+      "onboard_time": 1742832799,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193153,
-      "num": 129217,
+      "num": 135532,
       "word": "臭屁虫虫卵千万别碰",
       "onboard_time": 1742827823,
       "rank": 20,
@@ -185,14 +193,6 @@
       "onboard_time": 1742811320,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92993,
-      "num": 216989,
-      "word": "远洋渔船船长在公海被船员杀害抛海",
-      "onboard_time": 1742832799,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89402,
@@ -363,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 58333,
+      "num": 58333,
+      "word": "下一个台风",
+      "onboard_time": 1742833939,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57227,
       "num": 57227,
       "word": "男子突然倒地无呼吸被AED救回",
@@ -371,7 +379,7 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 52855,
+      "raw_hot": 55615,
       "num": 57225,
       "word": "半熟4男一男二都选了梁田",
       "onboard_time": 1742819783,
@@ -392,6 +400,14 @@
       "word": "福宝恢复展出",
       "onboard_time": 1742823743,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26068,
+      "num": 207659,
+      "word": "花花是春意最佳氛围组吧",
+      "onboard_time": 1742833998,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
