@@ -1,0 +1,410 @@
+{
+  "runTime": 1742785642024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 646371,
+        "num": 1103419,
+        "word": "奔跑吧13直播走红毯",
+        "onboard_time": 1742783060,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1725293,
+        "num": 998700,
+        "word": "上官正义曝17岁少女为50岁男子代孕",
+        "onboard_time": 1742784320,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50046,
+        "num": 639213,
+        "word": "中国火箭排队上天",
+        "onboard_time": 1742738122,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 606204,
+        "num": 606204,
+        "word": "这波升温后又是剧烈降温",
+        "onboard_time": 1742777840,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458011,
+        "num": 458011,
+        "word": "四川一水库水位下降露出一座古墓",
+        "onboard_time": 1742774902,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435116,
+        "num": 435116,
+        "word": "国产剧真正的熟人作案来了",
+        "onboard_time": 1742782639,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363328,
+        "num": 363328,
+        "word": "宋妍霏说马丽去浪姐会是团宠",
+        "onboard_time": 1742785460,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359396,
+        "num": 359396,
+        "word": "王源官宣三巡",
+        "onboard_time": 1742782460,
+        "rank": 7,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 332259,
+        "num": 332259,
+        "word": "山东探明我国首个超亿吨级页岩油田",
+        "onboard_time": 1742778920,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321380,
+        "num": 321380,
+        "word": "谢浩男认亲前没意识到是人生大事",
+        "onboard_time": 1742783721,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 852969,
+        "num": 320562,
+        "word": "Prada 朱志鑫",
+        "onboard_time": 1742781080,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 825486,
+        "num": 318954,
+        "word": "金秀贤方起诉散布半裸洗碗照片者",
+        "onboard_time": 1742779879,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 738531,
+        "num": 317497,
+        "word": "先梳头再洗头千万别来回揉搓",
+        "onboard_time": 1742742323,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 736813,
+        "num": 315807,
+        "word": "山崎贤人广濑铃 分手",
+        "onboard_time": 1742784500,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 712537,
+        "num": 312524,
+        "word": "难听",
+        "onboard_time": 1742775741,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37948,
+        "num": 310854,
+        "word": "用明信片打开归国文物瑰宝",
+        "onboard_time": 1742778501,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388992,
+        "num": 309013,
+        "word": "女生回应花50元租公司卫生间住",
+        "onboard_time": 1742783000,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335754,
+        "num": 308117,
+        "word": "K总否认老婆整容",
+        "onboard_time": 1742775741,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 307075,
+        "num": 307075,
+        "word": "茉莉奶白被曝喝出完整塑料袋",
+        "onboard_time": 1742731401,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33176,
+        "num": 299215,
+        "word": "3家药企合谋垄断致一款药暴涨20倍",
+        "onboard_time": 1742785100,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350649,
+        "num": 298929,
+        "word": "熊孩子丢湿巾砸中私家车赔7000元",
+        "onboard_time": 1742780419,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298418,
+        "num": 298418,
+        "word": "哈马斯新任领导人被打死",
+        "onboard_time": 1742774720,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284347,
+        "num": 284347,
+        "word": "禹宙中欣",
+        "onboard_time": 1742775741,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267195,
+        "num": 267195,
+        "word": "网剧沙尘暴定档",
+        "onboard_time": 1742782160,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37157,
+        "num": 264695,
+        "word": "热火结束10连败",
+        "onboard_time": 1742779221,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263016,
+        "num": 263016,
+        "word": "奶奶捡10000元说找到失主我好高兴",
+        "onboard_time": 1742754014,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 257824,
+        "num": 257824,
+        "word": "世界之外 罗森",
+        "onboard_time": 1742783840,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147779,
+        "num": 238443,
+        "word": "王源鼻尖腮红",
+        "onboard_time": 1742785221,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136277,
+        "num": 229083,
+        "word": "奔跑吧武汉录制",
+        "onboard_time": 1742773700,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70815,
+        "num": 228763,
+        "word": "二房东扣着1700押金说退不退看心情",
+        "onboard_time": 1742784320,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228604,
+        "num": 228604,
+        "word": "金价",
+        "onboard_time": 1742783302,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206698,
+        "num": 206698,
+        "word": "抢克拉棒",
+        "onboard_time": 1742784440,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185672,
+        "num": 185672,
+        "word": "91岁老人担心女儿没尊严立遗嘱保护",
+        "onboard_time": 1742784981,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177968,
+        "num": 177968,
+        "word": "小米音频眼镜二代将上线",
+        "onboard_time": 1742785401,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176862,
+        "num": 176862,
+        "word": "OPPO",
+        "onboard_time": 1742783302,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156492,
+        "num": 156492,
+        "word": "父亲回应郑中基婚变传闻",
+        "onboard_time": 1742779579,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145480,
+        "num": 145480,
+        "word": "男子泡7年药酒发现海马是塑料",
+        "onboard_time": 1742774902,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142412,
+        "num": 142412,
+        "word": "茉莉奶白致歉声明",
+        "onboard_time": 1742742442,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128157,
+        "num": 128157,
+        "word": "男童被打死案父亲说天天想儿子",
+        "onboard_time": 1742785519,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31195,
+        "num": 127858,
+        "word": "韩国山火紧急等级调至最高级",
+        "onboard_time": 1742785580,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127736,
+        "num": 127736,
+        "word": "花花是春天攒下的惊喜吧",
+        "onboard_time": 1742778200,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127202,
+        "num": 127202,
+        "word": "半个娱乐圈都去F1现场了吧",
+        "onboard_time": 1742746878,
+        "rank": 41,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 123504,
+        "num": 123504,
+        "word": "浪姐6没有太多的野心家",
+        "onboard_time": 1742782820,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120220,
+        "num": 120220,
+        "word": "3人冒充孙子4天骗了50万",
+        "onboard_time": 1742740642,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116636,
+        "num": 116636,
+        "word": "哪吒",
+        "onboard_time": 1742780660,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118489,
+        "num": 115915,
+        "word": "6年的阿贝贝破烂不堪女孩仍爱不释手",
+        "onboard_time": 1742772200,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114337,
+        "num": 114337,
+        "word": "周杰伦林志颖法拉利领队合影",
+        "onboard_time": 1742778200,
+        "rank": 46,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 110018,
+        "num": 110018,
+        "word": "多地气温满30减20",
+        "onboard_time": 1742778381,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108342,
+        "num": 108342,
+        "word": "你的发缝还好吗",
+        "onboard_time": 1742739203,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107658,
+        "num": 107658,
+        "word": "NJZ宣布暂停活动",
+        "onboard_time": 1742742202,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记全国两会后第一次地方考察#"
+    }
+  }
+}
