@@ -1,0 +1,410 @@
+{
+  "runTime": 1742798089034,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2497983,
+        "num": 2497983,
+        "word": "2000年0时0分出生的世纪婴儿去世",
+        "onboard_time": 1742793263,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1255775,
+        "num": 1255775,
+        "word": "郭麒麟正面回应德云社继承人",
+        "onboard_time": 1742794883,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37286,
+        "num": 1156157,
+        "word": "当中国古建邂逅春光",
+        "onboard_time": 1742787501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1066807,
+        "num": 1066807,
+        "word": "10个黄晓明5个赵丽颖聚餐",
+        "onboard_time": 1742792005,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 567640,
+        "num": 567640,
+        "word": "水果骗局",
+        "onboard_time": 1742786121,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267711,
+        "num": 267711,
+        "word": "母亲回应孙卓直播带货",
+        "onboard_time": 1742791825,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410964,
+        "num": 255535,
+        "word": "汪涵 那是我的活",
+        "onboard_time": 1742795542,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377953,
+        "num": 244916,
+        "word": "张韶涵奔跑吧重现公主小妹",
+        "onboard_time": 1742794043,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227528,
+        "num": 227528,
+        "word": "吉林一老虎闯入村民家咬死羊和狗",
+        "onboard_time": 1742796502,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201769,
+        "num": 201769,
+        "word": "男童被打死案父亲说天天想儿子",
+        "onboard_time": 1742785519,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 922290,
+        "num": 201724,
+        "word": "茶百道",
+        "onboard_time": 1742793984,
+        "rank": 10,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 531746,
+        "num": 201588,
+        "word": "14岁等等好帅",
+        "onboard_time": 1742790563,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317040,
+        "num": 201417,
+        "word": "金秀贤方否认至今为止的一切",
+        "onboard_time": 1742792665,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307873,
+        "num": 201174,
+        "word": "困在没有退休金日子里的父母",
+        "onboard_time": 1742790623,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26991,
+        "num": 200994,
+        "word": "杭州全城为国足打call",
+        "onboard_time": 1742797342,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278038,
+        "num": 200931,
+        "word": "杨洋和妈妈去美发店",
+        "onboard_time": 1742795962,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269588,
+        "num": 200797,
+        "word": "霍思燕牵着嗯哼逛街",
+        "onboard_time": 1742794585,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265300,
+        "num": 200560,
+        "word": "白日梦与她开播",
+        "onboard_time": 1742791286,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249213,
+        "num": 200472,
+        "word": "避谶",
+        "onboard_time": 1742795784,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39555,
+        "num": 200293,
+        "word": "对AI的回答要保持质疑",
+        "onboard_time": 1742796803,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368564,
+        "num": 200142,
+        "word": "3岁娃暴发性心肌炎确诊到去世仅3小时",
+        "onboard_time": 1742791764,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275502,
+        "num": 199942,
+        "word": "减重医生42天减48斤",
+        "onboard_time": 1742789062,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 224345,
+        "num": 199774,
+        "word": "真的很讨厌不打招呼客带客",
+        "onboard_time": 1742794523,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108515,
+        "num": 199633,
+        "word": "吉林一村闯入老虎",
+        "onboard_time": 1742797762,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210981,
+        "num": 199521,
+        "word": "没有断尾处理过的长毛柯基",
+        "onboard_time": 1742794762,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199416,
+        "num": 199416,
+        "word": "樱桃琥珀上星播出",
+        "onboard_time": 1742797762,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163785,
+        "num": 193511,
+        "word": "我是谢霆锋我同意加场",
+        "onboard_time": 1742796624,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190837,
+        "num": 190837,
+        "word": "十六分之一中国血统",
+        "onboard_time": 1742789121,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153821,
+        "num": 190022,
+        "word": "戚薇台下合唱如果爱忘了",
+        "onboard_time": 1742797642,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25013,
+        "num": 181218,
+        "word": "专家辟谣床头放苹果助眠",
+        "onboard_time": 1742797221,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43071,
+        "num": 177197,
+        "word": "马龙王楚钦率队小组第一出线",
+        "onboard_time": 1742796385,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205689,
+        "num": 172132,
+        "word": "杭州兔子警官发视频报平安",
+        "onboard_time": 1742795183,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166518,
+        "num": 166518,
+        "word": "金秀贤告发N号房爆料记者",
+        "onboard_time": 1742794762,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162398,
+        "num": 162398,
+        "word": "先梳头再洗头千万别来回揉搓",
+        "onboard_time": 1742742323,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161964,
+        "num": 161964,
+        "word": "山崎贤人广濑铃 分手",
+        "onboard_time": 1742784500,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148021,
+        "num": 148021,
+        "word": "唐嫣蓝眼影",
+        "onboard_time": 1742796022,
+        "rank": 35,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 142921,
+        "num": 142921,
+        "word": "91岁老人担心女儿没尊严立遗嘱保护",
+        "onboard_time": 1742784981,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138384,
+        "num": 138384,
+        "word": "男子反锁母婴室开会被困起诉商场",
+        "onboard_time": 1742795364,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135761,
+        "num": 135761,
+        "word": "管乐乘风初舞台服装只花了30元",
+        "onboard_time": 1742791825,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119000,
+        "num": 119000,
+        "word": "A股",
+        "onboard_time": 1742781801,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115101,
+        "num": 115101,
+        "word": "上海现9.9元共享工位",
+        "onboard_time": 1742797042,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113237,
+        "num": 113237,
+        "word": "歌手吴克群为演唱会忘词道歉",
+        "onboard_time": 1742792424,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78215,
+        "num": 112396,
+        "word": "孙颖莎率队小组第一出线",
+        "onboard_time": 1742796502,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111933,
+        "num": 111933,
+        "word": "章若楠双眼wink",
+        "onboard_time": 1742795482,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59750,
+        "num": 110031,
+        "word": "春日故宫玉兰壁纸上新",
+        "onboard_time": 1742796683,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109750,
+        "num": 109750,
+        "word": "这个春天一定要去看的电影",
+        "onboard_time": 1742791464,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109501,
+        "num": 109501,
+        "word": "周一情绪消极但工作效率高",
+        "onboard_time": 1742792905,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108853,
+        "num": 108853,
+        "word": "李昀锐出妆",
+        "onboard_time": 1742798061,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106775,
+        "num": 106775,
+        "word": "当老师讲近亲结婚的危害时",
+        "onboard_time": 1742791225,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106643,
+        "num": 106643,
+        "word": "吴宣仪外网断层",
+        "onboard_time": 1742788463,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记赴贵州云南考察纪实#"
+    }
+  }
+}

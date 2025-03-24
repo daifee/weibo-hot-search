@@ -1,6 +1,6 @@
 {
   "startTime": 1742747228173,
-  "endTime": 1742794864170,
+  "endTime": 1742798089034,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1255775,
+      "num": 1255775,
+      "word": "郭麒麟正面回应德云社继承人",
+      "onboard_time": 1742794883,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1194764,
       "num": 396509,
       "word": "14岁等等好帅",
@@ -97,6 +105,14 @@
       "onboard_time": 1742774902,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 922290,
+      "num": 222455,
+      "word": "茶百道",
+      "onboard_time": 1742793984,
+      "rank": 13,
+      "category": "美食,艺人"
     },
     {
       "raw_hot": 861797,
@@ -299,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 410964,
+      "num": 255535,
+      "word": "汪涵 那是我的活",
+      "onboard_time": 1742795542,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410585,
       "num": 269984,
       "word": "3人冒充孙子4天骗了50万",
@@ -321,6 +345,14 @@
       "onboard_time": 1742785641,
       "rank": 9,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 377953,
+      "num": 244916,
+      "word": "张韶涵奔跑吧重现公主小妹",
+      "onboard_time": 1742794043,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 359396,
@@ -403,14 +435,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 297446,
-      "num": 222455,
-      "word": "茶百道",
-      "onboard_time": 1742793984,
-      "rank": 13,
-      "category": "美食,艺人"
-    },
-    {
       "raw_hot": 296887,
       "num": 296887,
       "word": "多地气温满30减20",
@@ -467,6 +491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 278038,
+      "num": 200931,
+      "word": "杨洋和妈妈去美发店",
+      "onboard_time": 1742795962,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275375,
       "num": 275375,
       "word": "世界之外 罗森",
@@ -481,6 +513,22 @@
       "onboard_time": 1742790022,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269588,
+      "num": 200797,
+      "word": "霍思燕牵着嗯哼逛街",
+      "onboard_time": 1742794585,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 267711,
+      "num": 267711,
+      "word": "母亲回应孙卓直播带货",
+      "onboard_time": 1742791825,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267630,
@@ -515,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 249213,
+      "num": 200472,
+      "word": "避谶",
+      "onboard_time": 1742795784,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247803,
       "num": 247803,
       "word": "周杰伦林志颖法拉利领队合影",
@@ -547,14 +603,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 240149,
-      "num": 240149,
-      "word": "张韶涵奔跑吧重现公主小妹",
-      "onboard_time": 1742794043,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238826,
       "num": 238826,
       "word": "韩国千年古刹被烧毁",
@@ -569,14 +617,6 @@
       "onboard_time": 1742730980,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237856,
-      "num": 157554,
-      "word": "霍思燕牵着嗯哼逛街",
-      "onboard_time": 1742794585,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 232930,
@@ -603,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227528,
+      "num": 227528,
+      "word": "吉林一老虎闯入村民家咬死羊和狗",
+      "onboard_time": 1742796502,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224619,
       "num": 224619,
       "word": "当一个大学生决定贯彻睡门",
@@ -611,12 +659,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 224217,
-      "num": 236530,
-      "word": "母亲回应孙卓直播带货",
-      "onboard_time": 1742791825,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 224345,
+      "num": 199774,
+      "word": "真的很讨厌不打招呼客带客",
+      "onboard_time": 1742794523,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 222089,
@@ -651,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210981,
+      "num": 199521,
+      "word": "没有断尾处理过的长毛柯基",
+      "onboard_time": 1742794762,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206895,
       "num": 277377,
       "word": "王源鼻尖腮红",
@@ -680,6 +736,14 @@
       "word": "男子泡7年药酒发现海马是塑料",
       "onboard_time": 1742774902,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205689,
+      "num": 172132,
+      "word": "杭州兔子警官发视频报平安",
+      "onboard_time": 1742795183,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -729,6 +793,14 @@
       "onboard_time": 1742787081,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199416,
+      "num": 199416,
+      "word": "樱桃琥珀上星播出",
+      "onboard_time": 1742797762,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 198361,
@@ -899,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163785,
+      "num": 193511,
+      "word": "我是谢霆锋我同意加场",
+      "onboard_time": 1742796624,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162007,
       "num": 229090,
       "word": "韩国训练生为了出道变成泰漂",
@@ -915,14 +995,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 157157,
-      "num": 157157,
-      "word": "没有断尾处理过的长毛柯基",
-      "onboard_time": 1742794762,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156492,
       "num": 156492,
       "word": "父亲回应郑中基婚变传闻",
@@ -937,6 +1009,14 @@
       "onboard_time": 1742787681,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153821,
+      "num": 190022,
+      "word": "戚薇台下合唱如果爱忘了",
+      "onboard_time": 1742797642,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 153087,
@@ -963,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148021,
+      "num": 148021,
+      "word": "唐嫣蓝眼影",
+      "onboard_time": 1742796022,
+      "rank": 35,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 142013,
       "num": 142013,
       "word": "侯佩岑当年现场见证吴宣仪成团",
@@ -977,6 +1065,14 @@
       "onboard_time": 1742788701,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138384,
+      "num": 138384,
+      "word": "男子反锁母婴室开会被困起诉商场",
+      "onboard_time": 1742795364,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137751,
@@ -1179,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115101,
+      "num": 115101,
+      "word": "上海现9.9元共享工位",
+      "onboard_time": 1742797042,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114453,
       "num": 114453,
       "word": "人人人人人景人人人人人",
@@ -1187,12 +1291,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 111933,
+      "num": 111933,
+      "word": "章若楠双眼wink",
+      "onboard_time": 1742795482,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109631,
       "num": 109631,
       "word": "这时尚圈还是被大学生闯进去了",
       "onboard_time": 1742781801,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 108853,
+      "num": 108853,
+      "word": "李昀锐出妆",
+      "onboard_time": 1742798061,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108515,
+      "num": 199633,
+      "word": "吉林一村闯入老虎",
+      "onboard_time": 1742797762,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108083,
@@ -1225,14 +1353,6 @@
       "onboard_time": 1742793744,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 106719,
-      "num": 106719,
-      "word": "真的很讨厌不打招呼客带客",
-      "onboard_time": 1742794523,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 106680,
@@ -1403,6 +1523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78215,
+      "num": 112396,
+      "word": "孙颖莎率队小组第一出线",
+      "onboard_time": 1742796502,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78182,
       "num": 78182,
       "word": "泽连斯基称乌美沙特会谈非常有益",
@@ -1555,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59750,
+      "num": 110031,
+      "word": "春日故宫玉兰壁纸上新",
+      "onboard_time": 1742796683,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59516,
       "num": 61560,
       "word": "热心市民王楚钦上线",
@@ -1619,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43071,
+      "num": 177197,
+      "word": "马龙王楚钦率队小组第一出线",
+      "onboard_time": 1742796385,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42715,
       "num": 399143,
       "word": "中澳之战球票已炒至近万元",
@@ -1657,6 +1801,14 @@
       "onboard_time": 1742781381,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39555,
+      "num": 200293,
+      "word": "对AI的回答要保持质疑",
+      "onboard_time": 1742796803,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37157,
@@ -1731,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26991,
+      "num": 200994,
+      "word": "杭州全城为国足打call",
+      "onboard_time": 1742797342,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26754,
       "num": 291075,
       "word": "大多数金包银产品缺斤短两",
@@ -1761,6 +1921,14 @@
       "onboard_time": 1742794762,
       "rank": 38,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 25013,
+      "num": 181218,
+      "word": "专家辟谣床头放苹果助眠",
+      "onboard_time": 1742797221,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24793,
