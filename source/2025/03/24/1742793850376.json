@@ -1,0 +1,410 @@
+{
+  "runTime": 1742793850376,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2041878,
+        "num": 2041878,
+        "word": "2000年0时0分出生的世纪婴儿去世",
+        "onboard_time": 1742793263,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1237773,
+        "num": 1237773,
+        "word": "水果骗局",
+        "onboard_time": 1742786121,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43198,
+        "num": 1192696,
+        "word": "当中国古建邂逅春光",
+        "onboard_time": 1742787501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1946091,
+        "num": 1190556,
+        "word": "10个黄晓明5个赵丽颖聚餐",
+        "onboard_time": 1742792005,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1167852,
+        "num": 1167852,
+        "word": "17岁未成年彝族女孩成代孕妈妈",
+        "onboard_time": 1742787021,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 358595,
+        "num": 358595,
+        "word": "男童被打死案父亲说天天想儿子",
+        "onboard_time": 1742785519,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356171,
+        "num": 356171,
+        "word": "白日梦与她开播",
+        "onboard_time": 1742791286,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352165,
+        "num": 352165,
+        "word": "十六分之一中国血统",
+        "onboard_time": 1742789121,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347756,
+        "num": 347756,
+        "word": "17岁少女代孕公司经营异常",
+        "onboard_time": 1742790563,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305614,
+        "num": 305614,
+        "word": "91岁老人担心女儿没尊严立遗嘱保护",
+        "onboard_time": 1742784981,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1194764,
+        "num": 304339,
+        "word": "14岁等等好帅",
+        "onboard_time": 1742790563,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382169,
+        "num": 301105,
+        "word": "先梳头再洗头千万别来回揉搓",
+        "onboard_time": 1742742323,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 379928,
+        "num": 298949,
+        "word": "困在没有退休金日子里的父母",
+        "onboard_time": 1742790623,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318560,
+        "num": 293990,
+        "word": "山崎贤人广濑铃 分手",
+        "onboard_time": 1742784500,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85904,
+        "num": 290573,
+        "word": "周一情绪消极但工作效率高",
+        "onboard_time": 1742792905,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289476,
+        "num": 289476,
+        "word": "金秀贤方否认至今为止的一切",
+        "onboard_time": 1742792665,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263533,
+        "num": 263533,
+        "word": "张佳宁 剧抛脸",
+        "onboard_time": 1742790022,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248603,
+        "num": 248603,
+        "word": "奔跑吧13直播走红毯",
+        "onboard_time": 1742783060,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94355,
+        "num": 225852,
+        "word": "张子枫InStyle三月刊开季封面",
+        "onboard_time": 1742791764,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224217,
+        "num": 224217,
+        "word": "母亲回应孙卓直播带货",
+        "onboard_time": 1742791825,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388954,
+        "num": 222953,
+        "word": "3岁娃暴发性心肌炎确诊到去世仅3小时",
+        "onboard_time": 1742791764,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358520,
+        "num": 220469,
+        "word": "减重医生42天减48斤",
+        "onboard_time": 1742789062,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 69419,
+        "num": 219155,
+        "word": "浪姐6没有太多的野心家",
+        "onboard_time": 1742782820,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285112,
+        "num": 218071,
+        "word": "吴宣仪外网断层",
+        "onboard_time": 1742788463,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216060,
+        "num": 216060,
+        "word": "沈星回九天揽星河",
+        "onboard_time": 1742793205,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269838,
+        "num": 210975,
+        "word": "金秀贤方起诉散布半裸洗碗照片者",
+        "onboard_time": 1742779879,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218897,
+        "num": 207973,
+        "word": "Prada 朱志鑫",
+        "onboard_time": 1742781080,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 204431,
+        "num": 204431,
+        "word": "许嵩终于来到了河山大好的城市",
+        "onboard_time": 1742792244,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188642,
+        "num": 188642,
+        "word": "管乐乘风初舞台服装只花了30元",
+        "onboard_time": 1742791825,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92574,
+        "num": 179877,
+        "word": "10岁男孩漂流一夜为何能奇迹存活",
+        "onboard_time": 1742792665,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198361,
+        "num": 178573,
+        "word": "当老师讲近亲结婚的危害时",
+        "onboard_time": 1742791225,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71132,
+        "num": 176446,
+        "word": "东部战区海空实战化训练高清大片",
+        "onboard_time": 1742792723,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176370,
+        "num": 176370,
+        "word": "难听",
+        "onboard_time": 1742775741,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32181,
+        "num": 165011,
+        "word": "星际宝贝确认引进",
+        "onboard_time": 1742789001,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156899,
+        "num": 156899,
+        "word": "孙颖莎OPPO智能生态全球合作伙伴",
+        "onboard_time": 1742791165,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153756,
+        "num": 153756,
+        "word": "熊孩子丢湿巾砸中私家车赔7000元",
+        "onboard_time": 1742780419,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147903,
+        "num": 147903,
+        "word": "王源 潮石主办",
+        "onboard_time": 1742788040,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136848,
+        "num": 136848,
+        "word": "歌手吴克群为演唱会忘词道歉",
+        "onboard_time": 1742792424,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134668,
+        "num": 134668,
+        "word": "OPPO",
+        "onboard_time": 1742783302,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133994,
+        "num": 133994,
+        "word": "千禾董事长称千禾0就是零添加",
+        "onboard_time": 1742786060,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125471,
+        "num": 125471,
+        "word": "雷霆横扫快船",
+        "onboard_time": 1742793025,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123724,
+        "num": 123724,
+        "word": "这波升温后又是剧烈降温",
+        "onboard_time": 1742777840,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121081,
+        "num": 121081,
+        "word": "董明珠问为什么要找老公",
+        "onboard_time": 1742793263,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114125,
+        "num": 114125,
+        "word": "这个春天一定要去看的电影",
+        "onboard_time": 1742791464,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113552,
+        "num": 113552,
+        "word": "偶遇王一博遛狗",
+        "onboard_time": 1742787200,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109024,
+        "num": 109024,
+        "word": "禹宙中欣",
+        "onboard_time": 1742775741,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108083,
+        "num": 108083,
+        "word": "奔跑吧站哥真的好敬业",
+        "onboard_time": 1742793563,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107372,
+        "num": 107372,
+        "word": "小小的勇气定档",
+        "onboard_time": 1742786661,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106753,
+        "num": 106753,
+        "word": "多只高位股跌停",
+        "onboard_time": 1742793744,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100270,
+        "num": 100270,
+        "word": "士兵突击超强售后",
+        "onboard_time": 1742792244,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记赴贵州云南考察纪实#"
+    }
+  }
+}
