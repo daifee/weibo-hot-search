@@ -1,10 +1,10 @@
 {
   "startTime": 1742747228173,
-  "endTime": 1742790580365,
+  "endTime": 1742791443006,
   "band_list": [
     {
-      "raw_hot": 2056281,
-      "num": 2056281,
+      "raw_hot": 2234358,
+      "num": 2234358,
       "word": "水果骗局",
       "onboard_time": 1742786121,
       "rank": 49,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1374983,
-      "num": 326758,
+      "num": 370083,
       "word": "金秀贤方起诉散布半裸洗碗照片者",
       "onboard_time": 1742779879,
       "rank": 11,
@@ -43,8 +43,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1008447,
+      "num": 1008447,
+      "word": "17岁未成年彝族女孩成代孕妈妈",
+      "onboard_time": 1742787021,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 972705,
-      "num": 371179,
+      "num": 409765,
       "word": "山崎贤人广濑铃 分手",
       "onboard_time": 1742784500,
       "rank": 13,
@@ -89,14 +97,6 @@
       "onboard_time": 1742783060,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 767533,
-      "num": 767533,
-      "word": "17岁未成年彝族女孩成代孕妈妈",
-      "onboard_time": 1742787021,
-      "rank": 28,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 761387,
@@ -147,6 +147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 605947,
+      "num": 414050,
+      "word": "十六分之一中国血统",
+      "onboard_time": 1742789121,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 589064,
       "num": 589064,
       "word": "91岁老人担心女儿没尊严立遗嘱保护",
@@ -195,14 +203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 493770,
-      "num": 290589,
-      "word": "十六分之一中国血统",
-      "onboard_time": 1742789121,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 480308,
       "num": 480308,
       "word": "OPPO",
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 444801,
-      "num": 282745,
+      "num": 353225,
       "word": "减重医生42天减48斤",
       "onboard_time": 1742789062,
       "rank": 20,
@@ -283,6 +283,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 396509,
+      "num": 396509,
+      "word": "14岁等等好帅",
+      "onboard_time": 1742790563,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359396,
       "num": 359396,
       "word": "王源官宣三巡",
@@ -296,6 +304,14 @@
       "word": "奔跑吧武汉录制",
       "onboard_time": 1742773700,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 344662,
+      "num": 344662,
+      "word": "吴宣仪外网断层",
+      "onboard_time": 1742788463,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 315883,
-      "num": 315883,
+      "num": 346559,
       "word": "小小的勇气定档",
       "onboard_time": 1742786661,
       "rank": 16,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 296217,
-      "num": 296217,
+      "num": 419331,
       "word": "王源 潮石主办",
       "onboard_time": 1742788040,
       "rank": 19,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 282917,
-      "num": 282917,
+      "num": 345633,
       "word": "射雕英雄传延长上映至4月30日",
       "onboard_time": 1742789422,
       "rank": 18,
@@ -395,8 +411,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 270702,
+      "num": 415637,
+      "word": "张佳宁 剧抛脸",
+      "onboard_time": 1742790022,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267630,
-      "num": 280949,
+      "num": 346952,
       "word": "浪姐6宋妍霏这个片段好美",
       "onboard_time": 1742789241,
       "rank": 30,
@@ -433,6 +457,14 @@
       "onboard_time": 1742778200,
       "rank": 8,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 241167,
+      "num": 241167,
+      "word": "困在没有退休金日子里的父母",
+      "onboard_time": 1742790623,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241112,
@@ -507,20 +539,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218801,
+      "num": 282878,
+      "word": "3万2买8平地下室缩水到2平",
+      "onboard_time": 1742788942,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216003,
       "num": 228951,
       "word": "湖南卫视连发15条王源",
       "onboard_time": 1742744720,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214250,
-      "num": 281709,
-      "word": "吴宣仪外网断层",
-      "onboard_time": 1742788463,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 206895,
@@ -539,6 +571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206337,
+      "num": 344792,
+      "word": "这对姐狗扑面而来的缺氧感",
+      "onboard_time": 1742790323,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205779,
       "num": 179252,
       "word": "男子泡7年药酒发现海马是塑料",
@@ -553,6 +593,14 @@
       "onboard_time": 1742746878,
       "rank": 35,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 203555,
+      "num": 203555,
+      "word": "孙颖莎OPPO智能生态全球合作伙伴",
+      "onboard_time": 1742791165,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 202963,
@@ -587,14 +635,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 193932,
-      "num": 193932,
-      "word": "张佳宁 剧抛脸",
-      "onboard_time": 1742790022,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191083,
       "num": 191083,
       "word": "西湖2亿人1亿在太子湾",
@@ -609,6 +649,14 @@
       "onboard_time": 1742785641,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 186178,
+      "num": 407266,
+      "word": "偶遇王一博遛狗",
+      "onboard_time": 1742787200,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 186171,
@@ -641,14 +689,6 @@
       "onboard_time": 1742778200,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176648,
-      "num": 196869,
-      "word": "这对姐狗扑面而来的缺氧感",
-      "onboard_time": 1742790323,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 173101,
@@ -699,14 +739,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 165667,
-      "num": 294386,
-      "word": "偶遇王一博遛狗",
-      "onboard_time": 1742787200,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164936,
       "num": 164936,
       "word": "你的发缝还好吗",
@@ -737,6 +769,14 @@
       "onboard_time": 1742740101,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160349,
+      "num": 160349,
+      "word": "白日梦与她开播",
+      "onboard_time": 1742791286,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 156492,
@@ -771,20 +811,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152133,
-      "num": 282878,
-      "word": "3万2买8平地下室缩水到2平",
-      "onboard_time": 1742788942,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148636,
       "num": 148636,
       "word": "收到月薪60万offer但要偷渡出境",
       "onboard_time": 1742712321,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142013,
+      "num": 142013,
+      "word": "侯佩岑当年现场见证吴宣仪成团",
+      "onboard_time": 1742790863,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 139278,
@@ -835,6 +875,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132507,
+      "num": 132507,
+      "word": "当老师讲近亲结婚的危害时",
+      "onboard_time": 1742791225,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 131135,
+      "num": 131135,
+      "word": "看完黄雀的后遗症",
+      "onboard_time": 1742790986,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128210,
       "num": 128210,
       "word": "OPPO Enco Free4",
@@ -849,6 +905,14 @@
       "onboard_time": 1742785821,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127663,
+      "num": 346257,
+      "word": "秦彻说个正事",
+      "onboard_time": 1742791104,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 127294,
@@ -1147,6 +1211,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 71095,
+      "num": 403813,
+      "word": "17岁少女代孕公司经营异常",
+      "onboard_time": 1742790563,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71001,
       "num": 71001,
       "word": "儿子希望妈妈戴上戒指永不放开自己",
@@ -1169,6 +1241,14 @@
       "onboard_time": 1742772137,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 65762,
+      "num": 398263,
+      "word": "人民日报三问餐饮加盟模式",
+      "onboard_time": 1742790202,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64791,
@@ -1212,11 +1292,19 @@
     },
     {
       "raw_hot": 63399,
-      "num": 769849,
+      "num": 771289,
       "word": "当中国古建邂逅春光",
       "onboard_time": 1742787501,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62842,
+      "num": 357226,
+      "word": "国足主场41年不胜澳大利亚",
+      "onboard_time": 1742791165,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 61926,
@@ -1267,14 +1355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52041,
-      "num": 194322,
-      "word": "14岁等等好帅",
-      "onboard_time": 1742790563,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44605,
       "num": 310854,
       "word": "用明信片打开归国文物瑰宝",
@@ -1299,12 +1379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43499,
-      "num": 296470,
-      "word": "人民日报三问餐饮加盟模式",
-      "onboard_time": 1742790202,
-      "rank": 10,
-      "category": "民生新闻"
+      "raw_hot": 42715,
+      "num": 399143,
+      "word": "中澳之战球票已炒至近万元",
+      "onboard_time": 1742791165,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 42385,
@@ -1324,7 +1404,7 @@
     },
     {
       "raw_hot": 40531,
-      "num": 165522,
+      "num": 211857,
       "word": "多部好莱坞新片确认引进",
       "onboard_time": 1742789182,
       "rank": 40,
@@ -1345,14 +1425,6 @@
       "onboard_time": 1742779221,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36388,
-      "num": 195084,
-      "word": "17岁少女代孕公司经营异常",
-      "onboard_time": 1742790563,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34274,
@@ -1380,7 +1452,7 @@
     },
     {
       "raw_hot": 31195,
-      "num": 127858,
+      "num": 336418,
       "word": "韩国山火紧急等级调至最高级",
       "onboard_time": 1742785580,
       "rank": 39,

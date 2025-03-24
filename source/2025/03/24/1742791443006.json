@@ -1,0 +1,410 @@
+{
+  "runTime": 1742791443006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2234358,
+        "num": 2234358,
+        "word": "水果骗局",
+        "onboard_time": 1742786121,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1008447,
+        "num": 1008447,
+        "word": "17岁未成年彝族女孩成代孕妈妈",
+        "onboard_time": 1742787021,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 60916,
+        "num": 771289,
+        "word": "当中国古建邂逅春光",
+        "onboard_time": 1742787501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 764248,
+        "num": 764248,
+        "word": "男童被打死案父亲说天天想儿子",
+        "onboard_time": 1742785519,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535743,
+        "num": 535743,
+        "word": "奔跑吧13直播走红毯",
+        "onboard_time": 1742783060,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 657971,
+        "num": 518127,
+        "word": "上官正义曝17岁少女为50岁男子代孕",
+        "onboard_time": 1742784320,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452894,
+        "num": 452894,
+        "word": "91岁老人担心女儿没尊严立遗嘱保护",
+        "onboard_time": 1742784981,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419810,
+        "num": 419810,
+        "word": "OPPO",
+        "onboard_time": 1742783302,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 286074,
+        "num": 419331,
+        "word": "王源 潮石主办",
+        "onboard_time": 1742788040,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270702,
+        "num": 415637,
+        "word": "张佳宁 剧抛脸",
+        "onboard_time": 1742790022,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 605947,
+        "num": 414050,
+        "word": "十六分之一中国血统",
+        "onboard_time": 1742789121,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479341,
+        "num": 409765,
+        "word": "山崎贤人广濑铃 分手",
+        "onboard_time": 1742784500,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186178,
+        "num": 407266,
+        "word": "偶遇王一博遛狗",
+        "onboard_time": 1742787200,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456958,
+        "num": 404674,
+        "word": "先梳头再洗头千万别来回揉搓",
+        "onboard_time": 1742742323,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71095,
+        "num": 403813,
+        "word": "17岁少女代孕公司经营异常",
+        "onboard_time": 1742790563,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42715,
+        "num": 399143,
+        "word": "中澳之战球票已炒至近万元",
+        "onboard_time": 1742791165,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65762,
+        "num": 398263,
+        "word": "人民日报三问餐饮加盟模式",
+        "onboard_time": 1742790202,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396509,
+        "num": 396509,
+        "word": "14岁等等好帅",
+        "onboard_time": 1742790563,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370083,
+        "num": 370083,
+        "word": "金秀贤方起诉散布半裸洗碗照片者",
+        "onboard_time": 1742779879,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62842,
+        "num": 357226,
+        "word": "国足主场41年不胜澳大利亚",
+        "onboard_time": 1742791165,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424884,
+        "num": 353225,
+        "word": "减重医生42天减48斤",
+        "onboard_time": 1742789062,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 347187,
+        "num": 347187,
+        "word": "难听",
+        "onboard_time": 1742775741,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231350,
+        "num": 346952,
+        "word": "浪姐6宋妍霏这个片段好美",
+        "onboard_time": 1742789241,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222865,
+        "num": 346559,
+        "word": "小小的勇气定档",
+        "onboard_time": 1742786661,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127663,
+        "num": 346257,
+        "word": "秦彻说个正事",
+        "onboard_time": 1742791104,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212201,
+        "num": 345633,
+        "word": "射雕英雄传延长上映至4月30日",
+        "onboard_time": 1742789422,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197632,
+        "num": 345320,
+        "word": "宋妍霏说马丽去浪姐会是团宠",
+        "onboard_time": 1742785460,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206337,
+        "num": 344792,
+        "word": "这对姐狗扑面而来的缺氧感",
+        "onboard_time": 1742790323,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344662,
+        "num": 344662,
+        "word": "吴宣仪外网断层",
+        "onboard_time": 1742788463,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21499,
+        "num": 336418,
+        "word": "韩国山火紧急等级调至最高级",
+        "onboard_time": 1742785580,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 335659,
+        "num": 335659,
+        "word": "Prada 朱志鑫",
+        "onboard_time": 1742781080,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 252010,
+        "num": 286533,
+        "word": "这波升温后又是剧烈降温",
+        "onboard_time": 1742777840,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255108,
+        "num": 255108,
+        "word": "千禾董事长称千禾0就是零添加",
+        "onboard_time": 1742786060,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241167,
+        "num": 241167,
+        "word": "困在没有退休金日子里的父母",
+        "onboard_time": 1742790623,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218801,
+        "num": 218801,
+        "word": "3万2买8平地下室缩水到2平",
+        "onboard_time": 1742788942,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215766,
+        "num": 215766,
+        "word": "倒春寒从身体4个部位入侵",
+        "onboard_time": 1742785641,
+        "rank": 35,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 39958,
+        "num": 211857,
+        "word": "多部好莱坞新片确认引进",
+        "onboard_time": 1742789182,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211433,
+        "num": 211433,
+        "word": "熊孩子丢湿巾砸中私家车赔7000元",
+        "onboard_time": 1742780419,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208226,
+        "num": 208226,
+        "word": "恋与深空",
+        "onboard_time": 1742785941,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203555,
+        "num": 203555,
+        "word": "孙颖莎OPPO智能生态全球合作伙伴",
+        "onboard_time": 1742791165,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173855,
+        "num": 173855,
+        "word": "SEVENTEEN将合体回归",
+        "onboard_time": 1742787021,
+        "rank": 40,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 160349,
+        "num": 160349,
+        "word": "白日梦与她开播",
+        "onboard_time": 1742791286,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158741,
+        "num": 158741,
+        "word": "王源说三巡人数多5倍后压力大",
+        "onboard_time": 1742789902,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158689,
+        "num": 158689,
+        "word": "蒋一侨考伯克利考了三年",
+        "onboard_time": 1742787200,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151759,
+        "num": 151759,
+        "word": "禹宙中欣",
+        "onboard_time": 1742775741,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142013,
+        "num": 142013,
+        "word": "侯佩岑当年现场见证吴宣仪成团",
+        "onboard_time": 1742790863,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134119,
+        "num": 134119,
+        "word": "高瀚宇你吵到我了",
+        "onboard_time": 1742787742,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133178,
+        "num": 133178,
+        "word": "强制下班能解决加班的问题吗",
+        "onboard_time": 1742785941,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132507,
+        "num": 132507,
+        "word": "当老师讲近亲结婚的危害时",
+        "onboard_time": 1742791225,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131135,
+        "num": 131135,
+        "word": "看完黄雀的后遗症",
+        "onboard_time": 1742790986,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记赴贵州云南考察纪实#"
+    }
+  }
+}
