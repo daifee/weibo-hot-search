@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742809234020,
+  "endTime": 1742812037439,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -555,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 609647,
+      "num": 326514,
+      "word": "蔡徐坤苹果头",
+      "onboard_time": 1742809523,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608483,
       "num": 308117,
       "word": "K总否认老婆整容",
@@ -681,6 +689,14 @@
       "onboard_time": 1742774720,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 527605,
+      "num": 527605,
+      "word": "KiiiKiii出道",
+      "onboard_time": 1742808022,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 517422,
@@ -1019,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371675,
+      "num": 326498,
+      "word": "汪苏泷说刚好原唱by2也在",
+      "onboard_time": 1742809159,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 367436,
       "num": 367436,
       "word": "王嘉尔speed打乒乓球",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1742687118,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 326545,
+      "num": 326545,
+      "word": "梁田很久没约会过了",
+      "onboard_time": 1742809523,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 325831,
@@ -1435,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281422,
+      "num": 281422,
+      "word": "红双喜年会",
+      "onboard_time": 1742811261,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280073,
       "num": 138055,
       "word": "丁禹兮王星越敖瑞鹏生图",
@@ -1497,6 +1537,14 @@
       "onboard_time": 1742783840,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273459,
+      "num": 273459,
+      "word": "童瑶李泽锋一搭二搭勾勾搭搭",
+      "onboard_time": 1742809822,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 272194,
@@ -1715,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239503,
+      "num": 239503,
+      "word": "王嘉尔邀请甲亢哥来中国",
+      "onboard_time": 1742809701,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238756,
       "num": 306310,
       "word": "这次错过竹子开花要再等60年",
@@ -1771,6 +1827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 231366,
+      "num": 231366,
+      "word": "雷军同雷军班同学拍大合照",
+      "onboard_time": 1742810421,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 229862,
       "num": 259885,
       "word": "哪吒2超153亿",
@@ -1785,6 +1849,14 @@
       "onboard_time": 1742717240,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 229195,
+      "num": 229195,
+      "word": "迪士尼暂缓金秀贤作品山寨人生公开",
+      "onboard_time": 1742810600,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 229090,
@@ -1915,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212004,
+      "num": 212004,
+      "word": "减肥效果最好的运动是跳绳",
+      "onboard_time": 1742808681,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 211893,
       "num": 211893,
       "word": "古埃及房子着火要先救猫",
@@ -1979,14 +2059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206956,
-      "num": 233897,
-      "word": "KiiiKiii出道",
-      "onboard_time": 1742808022,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 206945,
       "num": 244340,
       "word": "台湾有事就是日本有事的谬论大错特错",
@@ -2049,6 +2121,14 @@
       "onboard_time": 1742746878,
       "rank": 35,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 204884,
+      "num": 204884,
+      "word": "易烊千玺咋还写急眼了呢",
+      "onboard_time": 1742811320,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 204431,
@@ -2249,6 +2329,14 @@
       "onboard_time": 1742720479,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192169,
+      "num": 192169,
+      "word": "茶百道回应员工被指私吞周边",
+      "onboard_time": 1742808862,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191939,
@@ -2635,6 +2723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164097,
+      "num": 164097,
+      "word": "想到让大学生演大学生的人真是天才",
+      "onboard_time": 1742810060,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163785,
       "num": 193511,
       "word": "我是谢霆锋我同意加场",
@@ -2843,6 +2939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157081,
+      "num": 157081,
+      "word": "周也一身睡衣上飞机",
+      "onboard_time": 1742811802,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156971,
       "num": 156971,
       "word": "迪丽热巴陈飞宇读本入戏",
@@ -3041,6 +3145,14 @@
       "onboard_time": 1742706260,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150325,
+      "num": 150325,
+      "word": "卫生巾设计",
+      "onboard_time": 1742809340,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 150111,
@@ -3363,14 +3475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137363,
-      "num": 137363,
-      "word": "茶百道回应员工被指私吞周边",
-      "onboard_time": 1742808862,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136848,
       "num": 136848,
       "word": "歌手吴克群为演唱会忘词道歉",
@@ -3441,6 +3545,14 @@
       "onboard_time": 1742690839,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135185,
+      "num": 243734,
+      "word": "NJZ不服禁止活动提出上诉",
+      "onboard_time": 1742809159,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 134710,
@@ -3715,14 +3827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124312,
-      "num": 124312,
-      "word": "减肥效果最好的运动是跳绳",
-      "onboard_time": 1742808681,
-      "rank": 36,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 124106,
       "num": 365228,
       "word": "三只羊整改符合要求具备恢复经营条件",
@@ -3819,6 +3923,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 120510,
+      "num": 295244,
+      "word": "南京红山动物园遭遇邻里纠纷",
+      "onboard_time": 1742810901,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120447,
       "num": 120447,
       "word": "卡琳娜中文",
@@ -3841,6 +3953,14 @@
       "onboard_time": 1742789062,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119824,
+      "num": 119824,
+      "word": "官方回应17岁代孕少女生产细节",
+      "onboard_time": 1742811982,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 119819,
@@ -3873,6 +3993,14 @@
       "onboard_time": 1742779341,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118265,
+      "num": 118265,
+      "word": "半熟4女三圈粉",
+      "onboard_time": 1742809041,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 117361,
@@ -3913,6 +4041,14 @@
       "onboard_time": 1742804062,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115723,
+      "num": 115723,
+      "word": "余承东透露智界将升级ADS4.0",
+      "onboard_time": 1742811320,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 115561,
@@ -4147,14 +4283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 107891,
-      "num": 107891,
-      "word": "半熟4女三圈粉",
-      "onboard_time": 1742809041,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107769,
       "num": 107769,
       "word": "武汉马拉松",
@@ -4305,14 +4433,6 @@
       "onboard_time": 1742804302,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 101517,
-      "num": 101517,
-      "word": "汪苏泷说刚好原唱by2也在",
-      "onboard_time": 1742809159,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 101111,
@@ -4556,7 +4676,7 @@
     },
     {
       "raw_hot": 92827,
-      "num": 194494,
+      "num": 229420,
       "word": "刘亦菲的选车标准",
       "onboard_time": 1742808022,
       "rank": 39,
@@ -4627,12 +4747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85963,
-      "num": 114953,
-      "word": "NJZ不服禁止活动提出上诉",
-      "onboard_time": 1742809159,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 85123,
+      "num": 157336,
+      "word": "县乡中小学生为何面临严重心理危机",
+      "onboard_time": 1742810060,
+      "rank": 35,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 84967,
@@ -5163,6 +5283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51663,
+      "num": 227872,
+      "word": "孙颖莎沉浸式看球随时准备起飞",
+      "onboard_time": 1742811681,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51461,
       "num": 128973,
       "word": "F1中国大奖赛到场观众人次创新高",
@@ -5209,6 +5337,14 @@
       "onboard_time": 1742800523,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45245,
+      "num": 821748,
+      "word": "春天是最懂氛围感的",
+      "onboard_time": 1742811082,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45007,
@@ -5297,6 +5433,14 @@
       "onboard_time": 1742747479,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 42144,
+      "num": 200941,
+      "word": "领馆回应中国男子涉嫌在美枪杀同胞",
+      "onboard_time": 1742810242,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 41681,
@@ -5627,6 +5771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24743,
+      "num": 326538,
+      "word": "老年旅行团挤不上公交拦路要求加车",
+      "onboard_time": 1742811500,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24661,
       "num": 383323,
       "word": "文化中国行吟咏春之美",
@@ -5845,6 +5997,9 @@
     },
     {
       "word": "#党在新时代的徙木立信之举#"
+    },
+    {
+      "word": "#总书记谈今年党建工作的重点任务#"
     }
   ]
 }

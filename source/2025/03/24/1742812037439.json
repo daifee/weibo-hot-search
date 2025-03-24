@@ -1,0 +1,410 @@
+{
+  "runTime": 1742812037439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1427616,
+        "num": 1427616,
+        "word": "世纪婴儿发烧后硬挺了5天",
+        "onboard_time": 1742802861,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 999210,
+        "num": 999210,
+        "word": "茶百道发文致歉",
+        "onboard_time": 1742800762,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45245,
+        "num": 821748,
+        "word": "春天是最懂氛围感的",
+        "onboard_time": 1742811082,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 746458,
+        "num": 746458,
+        "word": "2000年0时0分出生的世纪婴儿去世",
+        "onboard_time": 1742793263,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594023,
+        "num": 594023,
+        "word": "日本全面取消女警裙装制服",
+        "onboard_time": 1742799202,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 527605,
+        "num": 527605,
+        "word": "KiiiKiii出道",
+        "onboard_time": 1742808022,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 361410,
+        "num": 361410,
+        "word": "郭麒麟正面回应德云社继承人",
+        "onboard_time": 1742794883,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340763,
+        "num": 340763,
+        "word": "青岛23岁女大学生凌晨外出失联四天",
+        "onboard_time": 1742803762,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326545,
+        "num": 326545,
+        "word": "梁田很久没约会过了",
+        "onboard_time": 1742809523,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24743,
+        "num": 326538,
+        "word": "老年旅行团挤不上公交拦路要求加车",
+        "onboard_time": 1742811500,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1062711,
+        "num": 326528,
+        "word": "考公博主吴桐 塌房",
+        "onboard_time": 1742802802,
+        "rank": 10,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 609647,
+        "num": 326514,
+        "word": "蔡徐坤苹果头",
+        "onboard_time": 1742809523,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371675,
+        "num": 326498,
+        "word": "汪苏泷说刚好原唱by2也在",
+        "onboard_time": 1742809159,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 326495,
+        "num": 326495,
+        "word": "石家庄偶遇鹿晗拍摄",
+        "onboard_time": 1742804362,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120510,
+        "num": 295244,
+        "word": "南京红山动物园遭遇邻里纠纷",
+        "onboard_time": 1742810901,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284233,
+        "num": 284233,
+        "word": "将门毒后 刘晓庆陈宝国",
+        "onboard_time": 1742800641,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281422,
+        "num": 281422,
+        "word": "红双喜年会",
+        "onboard_time": 1742811261,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275806,
+        "num": 275806,
+        "word": "钱存越久越亏可能正在成为现实",
+        "onboard_time": 1742801062,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273459,
+        "num": 273459,
+        "word": "童瑶李泽锋一搭二搭勾勾搭搭",
+        "onboard_time": 1742809822,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135185,
+        "num": 243734,
+        "word": "NJZ不服禁止活动提出上诉",
+        "onboard_time": 1742809159,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239503,
+        "num": 239503,
+        "word": "王嘉尔邀请甲亢哥来中国",
+        "onboard_time": 1742809701,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231366,
+        "num": 231366,
+        "word": "雷军同雷军班同学拍大合照",
+        "onboard_time": 1742810421,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69102,
+        "num": 229420,
+        "word": "刘亦菲的选车标准",
+        "onboard_time": 1742808022,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229195,
+        "num": 229195,
+        "word": "迪士尼暂缓金秀贤作品山寨人生公开",
+        "onboard_time": 1742810600,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51663,
+        "num": 227872,
+        "word": "孙颖莎沉浸式看球随时准备起飞",
+        "onboard_time": 1742811681,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227158,
+        "num": 227158,
+        "word": "雁回时",
+        "onboard_time": 1742811383,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220239,
+        "num": 220239,
+        "word": "14岁等等好帅",
+        "onboard_time": 1742790563,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212004,
+        "num": 212004,
+        "word": "减肥效果最好的运动是跳绳",
+        "onboard_time": 1742808681,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 204884,
+        "num": 204884,
+        "word": "易烊千玺咋还写急眼了呢",
+        "onboard_time": 1742811320,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42144,
+        "num": 200941,
+        "word": "领馆回应中国男子涉嫌在美枪杀同胞",
+        "onboard_time": 1742810242,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200546,
+        "num": 200546,
+        "word": "代孕妈妈学历越高价格越贵",
+        "onboard_time": 1742806583,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 192169,
+        "num": 192169,
+        "word": "茶百道回应员工被指私吞周边",
+        "onboard_time": 1742808862,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190199,
+        "num": 190199,
+        "word": "台湾有事就是日本有事的谬论大错特错",
+        "onboard_time": 1742807361,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189313,
+        "num": 189313,
+        "word": "分手后男子拉账单发现1年花50万",
+        "onboard_time": 1742800343,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164097,
+        "num": 164097,
+        "word": "想到让大学生演大学生的人真是天才",
+        "onboard_time": 1742810060,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85123,
+        "num": 157336,
+        "word": "县乡中小学生为何面临严重心理危机",
+        "onboard_time": 1742810060,
+        "rank": 35,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 157081,
+        "num": 157081,
+        "word": "周也一身睡衣上飞机",
+        "onboard_time": 1742811802,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150325,
+        "num": 150325,
+        "word": "卫生巾设计",
+        "onboard_time": 1742809340,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139983,
+        "num": 139983,
+        "word": "心源性猝死前有哪些征兆",
+        "onboard_time": 1742799802,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139068,
+        "num": 139068,
+        "word": "男子被当猎物枪杀案4名被告人获刑",
+        "onboard_time": 1742807421,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135674,
+        "num": 135674,
+        "word": "刘亦菲手捧玫瑰美我一跳",
+        "onboard_time": 1742801422,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133133,
+        "num": 133133,
+        "word": "当代年轻教师的周末安排",
+        "onboard_time": 1742806821,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127508,
+        "num": 127508,
+        "word": "辛云来演技",
+        "onboard_time": 1742802742,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127238,
+        "num": 127238,
+        "word": "雷军回武汉大学了",
+        "onboard_time": 1742803821,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119824,
+        "num": 119824,
+        "word": "官方回应17岁代孕少女生产细节",
+        "onboard_time": 1742811982,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 118622,
+        "num": 118622,
+        "word": "避谶",
+        "onboard_time": 1742795784,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118265,
+        "num": 118265,
+        "word": "半熟4女三圈粉",
+        "onboard_time": 1742809041,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117230,
+        "num": 117230,
+        "word": "海漂一天一夜的小孩哥又出去玩了",
+        "onboard_time": 1742800343,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115723,
+        "num": 115723,
+        "word": "余承东透露智界将升级ADS4.0",
+        "onboard_time": 1742811320,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114822,
+        "num": 114822,
+        "word": "减重医生42天减48斤",
+        "onboard_time": 1742789062,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈今年党建工作的重点任务#"
+    }
+  }
+}
