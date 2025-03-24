@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742842027487,
+  "endTime": 1742843981561,
   "band_list": [
     {
       "raw_hot": 517053,
@@ -475,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21107,
+      "num": 21107,
+      "word": "为救5岁娃一群人接二连三冲进黄河",
+      "onboard_time": 1742840654,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20892,
       "num": 22947,
       "word": "檀健次出圈角色查重率为零",
@@ -491,6 +499,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 17947,
+      "num": 35155,
+      "word": "无人机拍下众人狂奔施救全程",
+      "onboard_time": 1742840773,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15008,
       "num": 25282,
       "word": "别让风筝线变成伤人线",
@@ -499,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13377,
-      "num": 35155,
-      "word": "无人机拍下众人狂奔施救全程",
-      "onboard_time": 1742840773,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 13883,
+      "num": 14345,
+      "word": "欧豪谢望和成长型男主",
+      "onboard_time": 1742843534,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 12611,
@@ -513,6 +529,14 @@
       "onboard_time": 1742835558,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 10912,
+      "num": 28652,
+      "word": "网传医院工作人员疑私下处理胎盘",
+      "onboard_time": 1742843414,
+      "rank": 11,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
