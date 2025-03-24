@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742847879344,
+  "endTime": 1742848726421,
   "band_list": [
     {
       "raw_hot": 517053,
@@ -475,6 +475,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25012,
+      "num": 28652,
+      "word": "网传医院工作人员疑私下处理胎盘",
+      "onboard_time": 1742843414,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24638,
+      "num": 25657,
+      "word": "杜特尔特赴香港系私人度假行程",
+      "onboard_time": 1742846593,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21107,
       "num": 21107,
       "word": "为救5岁娃一群人接二连三冲进黄河",
@@ -497,14 +513,6 @@
       "onboard_time": 1742838075,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 20211,
-      "num": 28652,
-      "word": "网传医院工作人员疑私下处理胎盘",
-      "onboard_time": 1742843414,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17947,
@@ -531,7 +539,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14959,
+      "raw_hot": 14978,
       "num": 15514,
       "word": "欧豪谢望和成长型男主",
       "onboard_time": 1742843534,
@@ -555,7 +563,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 11987,
+      "raw_hot": 12126,
       "num": 20878,
       "word": "乌方仍在原地等待美俄会晤结果",
       "onboard_time": 1742839875,
@@ -563,12 +571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 10876,
-      "num": 25657,
-      "word": "杜特尔特赴香港系私人度假行程",
-      "onboard_time": 1742846593,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 8708,
+      "num": 15042,
+      "word": "上官正义称代孕妈妈中不乏高学历者",
+      "onboard_time": 1742848573,
+      "rank": 30,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
