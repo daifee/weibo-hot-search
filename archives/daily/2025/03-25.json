@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742843981561,
+  "endTime": 1742844988766,
   "band_list": [
     {
       "raw_hot": 517053,
@@ -499,6 +499,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 19454,
+      "num": 28652,
+      "word": "网传医院工作人员疑私下处理胎盘",
+      "onboard_time": 1742843414,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17947,
       "num": 35155,
       "word": "无人机拍下众人狂奔施救全程",
@@ -515,8 +523,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13883,
-      "num": 14345,
+      "raw_hot": 14132,
+      "num": 14852,
       "word": "欧豪谢望和成长型男主",
       "onboard_time": 1742843534,
       "rank": 48,
@@ -531,12 +539,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 10912,
-      "num": 28652,
-      "word": "网传医院工作人员疑私下处理胎盘",
-      "onboard_time": 1742843414,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 9674,
+      "num": 20878,
+      "word": "乌方仍在原地等待美俄会晤结果",
+      "onboard_time": 1742839875,
+      "rank": 21,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
