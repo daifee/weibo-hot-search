@@ -1,6 +1,6 @@
 {
   "startTime": 1742747228173,
-  "endTime": 1742798089034,
+  "endTime": 1742798867219,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -51,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1255775,
-      "num": 1255775,
+      "raw_hot": 1330027,
+      "num": 1330027,
       "word": "郭麒麟正面回应德云社继承人",
       "onboard_time": 1742794883,
       "rank": 1,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 922290,
-      "num": 222455,
+      "num": 236324,
       "word": "茶百道",
       "onboard_time": 1742793984,
       "rank": 13,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 377953,
-      "num": 244916,
+      "num": 251016,
       "word": "张韶涵奔跑吧重现公主小妹",
       "onboard_time": 1742794043,
       "rank": 8,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312139,
+      "num": 224469,
+      "word": "避谶",
+      "onboard_time": 1742795784,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311199,
       "num": 193727,
       "word": "B站曾经顶流UP主现在欠账几百万",
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 278038,
-      "num": 200931,
+      "num": 222504,
       "word": "杨洋和妈妈去美发店",
       "onboard_time": 1742795962,
       "rank": 15,
@@ -563,12 +571,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 249213,
-      "num": 200472,
-      "word": "避谶",
-      "onboard_time": 1742795784,
-      "rank": 18,
-      "category": "情感"
+      "raw_hot": 257099,
+      "num": 257099,
+      "word": "吉林一老虎闯入村民家咬死羊和狗",
+      "onboard_time": 1742796502,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247803,
@@ -643,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227528,
-      "num": 227528,
-      "word": "吉林一老虎闯入村民家咬死羊和狗",
-      "onboard_time": 1742796502,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224619,
       "num": 224619,
       "word": "当一个大学生决定贯彻睡门",
@@ -673,6 +673,14 @@
       "onboard_time": 1742733442,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 220558,
+      "num": 220558,
+      "word": "李昀锐出妆",
+      "onboard_time": 1742798061,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 218801,
@@ -779,6 +787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 201559,
+      "num": 201559,
+      "word": "樱桃琥珀上星播出",
+      "onboard_time": 1742797762,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201186,
       "num": 173436,
       "word": "雁回时热度",
@@ -795,12 +811,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199416,
-      "num": 199416,
-      "word": "樱桃琥珀上星播出",
+      "raw_hot": 200043,
+      "num": 238988,
+      "word": "吉林一村闯入老虎",
       "onboard_time": 1742797762,
-      "rank": 25,
-      "category": "剧集"
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198361,
@@ -1035,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149729,
+      "num": 149729,
+      "word": "男子反锁母婴室开会被困起诉商场",
+      "onboard_time": 1742795364,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148636,
       "num": 148636,
       "word": "收到月薪60万offer但要偷渡出境",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1742788701,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138384,
-      "num": 138384,
-      "word": "男子反锁母婴室开会被困起诉商场",
-      "onboard_time": 1742795364,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137751,
@@ -1115,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135602,
+      "num": 135602,
+      "word": "半熟恋人",
+      "onboard_time": 1742798424,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133670,
       "num": 202976,
       "word": "龙队接受采访王楚钦头也不回跑了",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1742790986,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129261,
+      "num": 129261,
+      "word": "上海现9.9元共享工位",
+      "onboard_time": 1742797042,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128210,
@@ -1275,14 +1307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115101,
-      "num": 115101,
-      "word": "上海现9.9元共享工位",
-      "onboard_time": 1742797042,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114453,
       "num": 114453,
       "word": "人人人人人景人人人人人",
@@ -1305,22 +1329,6 @@
       "onboard_time": 1742781801,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 108853,
-      "num": 108853,
-      "word": "李昀锐出妆",
-      "onboard_time": 1742798061,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 108515,
-      "num": 199633,
-      "word": "吉林一村闯入老虎",
-      "onboard_time": 1742797762,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108083,
@@ -1363,12 +1371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104326,
+      "num": 104326,
+      "word": "奔跑吧全员千禧风",
+      "onboard_time": 1742798242,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103869,
       "num": 103869,
       "word": "吴艳妮无缘女子60米栏决赛",
       "onboard_time": 1742734584,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102986,
+      "num": 102986,
+      "word": "奔跑吧13出发图",
+      "onboard_time": 1742798542,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 100804,
@@ -1611,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65440,
+      "num": 228939,
+      "word": "杭州全城为国足打call",
+      "onboard_time": 1742797342,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64791,
       "num": 64791,
       "word": "胡先煦F1现场生图",
@@ -1723,6 +1755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 53328,
+      "num": 200293,
+      "word": "对AI的回答要保持质疑",
+      "onboard_time": 1742796803,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47270,
       "num": 124712,
       "word": "哈登轻伤不下火线",
@@ -1803,12 +1843,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39555,
-      "num": 200293,
-      "word": "对AI的回答要保持质疑",
-      "onboard_time": 1742796803,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 38843,
+      "num": 195604,
+      "word": "小岳岳被爆改",
+      "onboard_time": 1742798182,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 37157,
@@ -1825,6 +1865,14 @@
       "onboard_time": 1742749936,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 34258,
+      "num": 181218,
+      "word": "专家辟谣床头放苹果助眠",
+      "onboard_time": 1742797221,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32516,
@@ -1859,6 +1907,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 30991,
+      "num": 231716,
+      "word": "徐海东陈幸同3比1程靖淇迟歌",
+      "onboard_time": 1742798482,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29110,
       "num": 54945,
       "word": "夏之光新剧杀青应援",
@@ -1881,14 +1937,6 @@
       "onboard_time": 1742751076,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26991,
-      "num": 200994,
-      "word": "杭州全城为国足打call",
-      "onboard_time": 1742797342,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 26754,
@@ -1921,14 +1969,6 @@
       "onboard_time": 1742794762,
       "rank": 38,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 25013,
-      "num": 181218,
-      "word": "专家辟谣床头放苹果助眠",
-      "onboard_time": 1742797221,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24793,
@@ -1996,6 +2036,9 @@
     },
     {
       "word": "#总书记赴贵州云南考察纪实#"
+    },
+    {
+      "word": "#党在新时代的徙木立信之举#"
     }
   ]
 }
