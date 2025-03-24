@@ -1,6 +1,6 @@
 {
   "startTime": 1742747228173,
-  "endTime": 1742812037439,
+  "endTime": 1742813059562,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -211,6 +211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 648607,
+      "num": 326514,
+      "word": "蔡徐坤苹果头",
+      "onboard_time": 1742809523,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 645975,
       "num": 242939,
       "word": "发现快递里是20多张购物卡赶紧报警",
@@ -233,14 +241,6 @@
       "onboard_time": 1742777840,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 609647,
-      "num": 326514,
-      "word": "蔡徐坤苹果头",
-      "onboard_time": 1742809523,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 608483,
@@ -368,6 +368,14 @@
       "word": "NJZ宣布暂停活动",
       "onboard_time": 1742742202,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 454656,
+      "num": 296276,
+      "word": "易烊千玺咋还写急眼了呢",
+      "onboard_time": 1742811320,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -531,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331586,
+      "num": 331586,
+      "word": "红双喜年会",
+      "onboard_time": 1742811261,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331251,
       "num": 331251,
       "word": "刘亦菲手捧玫瑰美我一跳",
@@ -635,6 +651,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 284603,
+      "num": 295244,
+      "word": "南京红山动物园遭遇邻里纠纷",
+      "onboard_time": 1742810901,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282917,
       "num": 345633,
       "word": "射雕英雄传延长上映至4月30日",
@@ -649,14 +673,6 @@
       "onboard_time": 1742743160,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 281422,
-      "num": 281422,
-      "word": "红双喜年会",
-      "onboard_time": 1742811261,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 278038,
@@ -753,6 +769,22 @@
       "onboard_time": 1742796502,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256269,
+      "num": 256269,
+      "word": "周也一身睡衣上飞机",
+      "onboard_time": 1742811802,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 251146,
+      "num": 251146,
+      "word": "雁回时",
+      "onboard_time": 1742730200,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 248758,
@@ -889,14 +921,6 @@
       "onboard_time": 1742804602,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 227158,
-      "num": 227158,
-      "word": "雁回时",
-      "onboard_time": 1742730200,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 224619,
@@ -1051,14 +1075,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 204884,
-      "num": 204884,
-      "word": "易烊千玺咋还写急眼了呢",
-      "onboard_time": 1742811320,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204431,
       "num": 204431,
       "word": "许嵩终于来到了河山大好的城市",
@@ -1131,6 +1147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196717,
+      "num": 326538,
+      "word": "老年旅行团挤不上公交拦路要求加车",
+      "onboard_time": 1742811500,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196580,
       "num": 270267,
       "word": "男子被当猎物枪杀案4名被告人获刑",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1742791825,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188072,
+      "num": 319170,
+      "word": "官方回应17岁代孕少女生产细节",
+      "onboard_time": 1742811982,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 186178,
@@ -1227,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177825,
+      "num": 177825,
+      "word": "失联四天大学生母亲称女儿手机被格式化",
+      "onboard_time": 1742811261,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176704,
       "num": 225031,
       "word": "花花是春天攒下的惊喜吧",
@@ -1273,6 +1313,14 @@
       "onboard_time": 1742772200,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167935,
+      "num": 167935,
+      "word": "卫生巾设计",
+      "onboard_time": 1742809340,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 167609,
@@ -1387,14 +1435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157081,
-      "num": 157081,
-      "word": "周也一身睡衣上飞机",
-      "onboard_time": 1742811802,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156686,
       "num": 156686,
       "word": "世纪婴儿母亲发声",
@@ -1459,14 +1499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150325,
-      "num": 150325,
-      "word": "卫生巾设计",
-      "onboard_time": 1742809340,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 149729,
       "num": 149729,
       "word": "男子反锁母婴室开会被困起诉商场",
@@ -1507,11 +1539,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 143064,
+      "num": 143064,
+      "word": "芒果来了对新姐妹",
+      "onboard_time": 1742812641,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142013,
       "num": 142013,
       "word": "侯佩岑当年现场见证吴宣仪成团",
       "onboard_time": 1742790863,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141597,
+      "num": 141597,
+      "word": "乐华年轻的战场居然还有续集",
+      "onboard_time": 1742812761,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1521,6 +1569,14 @@
       "onboard_time": 1742788701,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138010,
+      "num": 138010,
+      "word": "王楚钦红双喜活动",
+      "onboard_time": 1742812161,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 137751,
@@ -1616,6 +1672,14 @@
       "word": "看完黄雀的后遗症",
       "onboard_time": 1742790986,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130213,
+      "num": 130213,
+      "word": "邓为对接回应风月不相关女主",
+      "onboard_time": 1742812521,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1763,14 +1827,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 120510,
-      "num": 295244,
-      "word": "南京红山动物园遭遇邻里纠纷",
-      "onboard_time": 1742810901,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120447,
       "num": 120447,
       "word": "卡琳娜中文",
@@ -1787,14 +1843,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119824,
-      "num": 119824,
-      "word": "官方回应17岁代孕少女生产细节",
-      "onboard_time": 1742811982,
-      "rank": 44,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 119563,
       "num": 119563,
       "word": "卫枝少女叽的贵卡出生了",
@@ -1809,6 +1857,14 @@
       "onboard_time": 1742779341,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118716,
+      "num": 118716,
+      "word": "雁回时坠马初吻",
+      "onboard_time": 1742812821,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 118265,
@@ -1865,6 +1921,14 @@
       "onboard_time": 1742805621,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 111834,
+      "num": 111834,
+      "word": "风月不相关",
+      "onboard_time": 1742809881,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 109631,
@@ -2243,6 +2307,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 67480,
+      "num": 821748,
+      "word": "春天是最懂氛围感的",
+      "onboard_time": 1742811082,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65762,
       "num": 398263,
       "word": "人民日报三问餐饮加盟模式",
@@ -2435,14 +2507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45245,
-      "num": 821748,
-      "word": "春天是最懂氛围感的",
-      "onboard_time": 1742811082,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 45007,
       "num": 1789994,
       "word": "赏花经济赋能乡村振兴",
@@ -2611,6 +2675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 31008,
+      "num": 246618,
+      "word": "王添艺分享与孙颖莎做队友的感受",
+      "onboard_time": 1742812761,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30991,
       "num": 231716,
       "word": "徐海东陈幸同3比1程靖淇迟歌",
@@ -2707,14 +2779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24743,
-      "num": 326538,
-      "word": "老年旅行团挤不上公交拦路要求加车",
-      "onboard_time": 1742811500,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21957,
       "num": 29195,
       "word": "PCL2025",
@@ -2739,6 +2803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15059,
+      "num": 178212,
+      "word": "近一成未婚不婚者立遗嘱做公益",
+      "onboard_time": 1742812881,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13157,
       "num": 15386,
       "word": "袁娅维带出五国选手vocal实力",
@@ -2761,6 +2833,14 @@
       "onboard_time": 1742751436,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7879,
+      "num": 182543,
+      "word": "陈幸同说有鹰眼技术很踏实",
+      "onboard_time": 1742812761,
+      "rank": 29,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -2778,6 +2858,9 @@
     },
     {
       "word": "#总书记谈今年党建工作的重点任务#"
+    },
+    {
+      "word": "#习近平两会上的民生牵挂#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1742813059562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1411092,
+        "num": 1411092,
+        "word": "世纪婴儿发烧后硬挺了5天",
+        "onboard_time": 1742802861,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 976203,
+        "num": 976203,
+        "word": "茶百道发文致歉",
+        "onboard_time": 1742800762,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67480,
+        "num": 732126,
+        "word": "春天是最懂氛围感的",
+        "onboard_time": 1742811082,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 667046,
+        "num": 667046,
+        "word": "2000年0时0分出生的世纪婴儿去世",
+        "onboard_time": 1742793263,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511719,
+        "num": 511719,
+        "word": "日本全面取消女警裙装制服",
+        "onboard_time": 1742799202,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 386483,
+        "num": 386483,
+        "word": "KiiiKiii出道",
+        "onboard_time": 1742808022,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 335665,
+        "num": 335665,
+        "word": "郭麒麟正面回应德云社继承人",
+        "onboard_time": 1742794883,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331586,
+        "num": 331586,
+        "word": "红双喜年会",
+        "onboard_time": 1742811261,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196717,
+        "num": 324258,
+        "word": "老年旅行团挤不上公交拦路要求加车",
+        "onboard_time": 1742811500,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188072,
+        "num": 319170,
+        "word": "官方回应17岁代孕少女生产细节",
+        "onboard_time": 1742811982,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 960938,
+        "num": 312867,
+        "word": "考公博主吴桐 塌房",
+        "onboard_time": 1742802802,
+        "rank": 10,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 648607,
+        "num": 301897,
+        "word": "蔡徐坤苹果头",
+        "onboard_time": 1742809523,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454656,
+        "num": 296276,
+        "word": "易烊千玺咋还写急眼了呢",
+        "onboard_time": 1742811320,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368571,
+        "num": 284868,
+        "word": "汪苏泷说刚好原唱by2也在",
+        "onboard_time": 1742809159,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 284603,
+        "num": 284603,
+        "word": "南京红山动物园遭遇邻里纠纷",
+        "onboard_time": 1742810901,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268558,
+        "num": 268558,
+        "word": "童瑶李泽锋一搭二搭勾勾搭搭",
+        "onboard_time": 1742809822,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256269,
+        "num": 256269,
+        "word": "周也一身睡衣上飞机",
+        "onboard_time": 1742811802,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251146,
+        "num": 251146,
+        "word": "雁回时",
+        "onboard_time": 1742811383,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250315,
+        "num": 250315,
+        "word": "梁田很久没约会过了",
+        "onboard_time": 1742809523,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31008,
+        "num": 246618,
+        "word": "王添艺分享与孙颖莎做队友的感受",
+        "onboard_time": 1742812761,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244379,
+        "num": 244379,
+        "word": "石家庄偶遇鹿晗拍摄",
+        "onboard_time": 1742804362,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230912,
+        "num": 230912,
+        "word": "将门毒后 刘晓庆陈宝国",
+        "onboard_time": 1742800641,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218095,
+        "num": 218095,
+        "word": "钱存越久越亏可能正在成为现实",
+        "onboard_time": 1742801062,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209119,
+        "num": 209119,
+        "word": "迪士尼暂缓金秀贤作品山寨人生公开",
+        "onboard_time": 1742810600,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191085,
+        "num": 191085,
+        "word": "减肥效果最好的运动是跳绳",
+        "onboard_time": 1742808681,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 186267,
+        "num": 186267,
+        "word": "雷军同雷军班同学拍大合照",
+        "onboard_time": 1742810421,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167813,
+        "num": 185372,
+        "word": "王嘉尔邀请甲亢哥来中国",
+        "onboard_time": 1742809701,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54983,
+        "num": 184017,
+        "word": "刘亦菲的选车标准",
+        "onboard_time": 1742808022,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265693,
+        "num": 183571,
+        "word": "青岛23岁女大学生凌晨外出失联四天",
+        "onboard_time": 1742803762,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7879,
+        "num": 182543,
+        "word": "陈幸同说有鹰眼技术很踏实",
+        "onboard_time": 1742812761,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40904,
+        "num": 181206,
+        "word": "孙颖莎沉浸式看球随时准备起飞",
+        "onboard_time": 1742811681,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180171,
+        "num": 180171,
+        "word": "分手后男子拉账单发现1年花50万",
+        "onboard_time": 1742800343,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15059,
+        "num": 178212,
+        "word": "近一成未婚不婚者立遗嘱做公益",
+        "onboard_time": 1742812881,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177825,
+        "num": 177825,
+        "word": "失联四天大学生母亲称女儿手机被格式化",
+        "onboard_time": 1742811261,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167935,
+        "num": 167935,
+        "word": "卫生巾设计",
+        "onboard_time": 1742809340,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155963,
+        "num": 155963,
+        "word": "14岁等等好帅",
+        "onboard_time": 1742790563,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155128,
+        "num": 155128,
+        "word": "台湾有事就是日本有事的谬论大错特错",
+        "onboard_time": 1742807361,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143064,
+        "num": 143064,
+        "word": "芒果来了对新姐妹",
+        "onboard_time": 1742812641,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141597,
+        "num": 141597,
+        "word": "乐华年轻的战场居然还有续集",
+        "onboard_time": 1742812761,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139601,
+        "num": 139601,
+        "word": "代孕妈妈学历越高价格越贵",
+        "onboard_time": 1742806583,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 138010,
+        "num": 138010,
+        "word": "王楚钦红双喜活动",
+        "onboard_time": 1742812161,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132785,
+        "num": 132785,
+        "word": "想到让大学生演大学生的人真是天才",
+        "onboard_time": 1742810060,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130213,
+        "num": 130213,
+        "word": "邓为对接回应风月不相关女主",
+        "onboard_time": 1742812521,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129718,
+        "num": 129718,
+        "word": "NJZ不服禁止活动提出上诉",
+        "onboard_time": 1742809159,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128843,
+        "num": 128843,
+        "word": "茶百道回应员工被指私吞周边",
+        "onboard_time": 1742808862,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121661,
+        "num": 121661,
+        "word": "心源性猝死前有哪些征兆",
+        "onboard_time": 1742799802,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118716,
+        "num": 118716,
+        "word": "雁回时坠马初吻",
+        "onboard_time": 1742812821,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118263,
+        "num": 118263,
+        "word": "金秀贤方否认至今为止的一切",
+        "onboard_time": 1742792665,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114888,
+        "num": 114888,
+        "word": "刘亦菲手捧玫瑰美我一跳",
+        "onboard_time": 1742801422,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111834,
+        "num": 111834,
+        "word": "风月不相关",
+        "onboard_time": 1742809881,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平两会上的民生牵挂#"
+    }
+  }
+}
