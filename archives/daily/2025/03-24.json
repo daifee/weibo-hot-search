@@ -1,6 +1,6 @@
 {
   "startTime": 1742747228173,
-  "endTime": 1742821407987,
+  "endTime": 1742823205330,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -201,6 +201,22 @@
       "onboard_time": 1742783060,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 812812,
+      "num": 305253,
+      "word": "金秀贤称给金赛纶的信是朋友信之一",
+      "onboard_time": 1742819962,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 788468,
+      "num": 302120,
+      "word": "中式恐怖才是真恐怖",
+      "onboard_time": 1742818582,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 763410,
@@ -499,6 +515,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 445932,
+      "num": 445932,
+      "word": "多邻国崩了",
+      "onboard_time": 1742820682,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 444801,
       "num": 353225,
       "word": "减重医生42天减48斤",
@@ -563,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 408402,
+      "num": 408402,
+      "word": "半熟4男一男二都选了梁田",
+      "onboard_time": 1742819783,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407875,
       "num": 298949,
       "word": "困在没有退休金日子里的父母",
@@ -577,14 +609,6 @@
       "onboard_time": 1742785641,
       "rank": 9,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 398335,
-      "num": 398335,
-      "word": "半熟4男一男二都选了梁田",
-      "onboard_time": 1742819783,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 396777,
@@ -747,6 +771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 307377,
+      "num": 307377,
+      "word": "男子骑行遭风筝线割穿头盔",
+      "onboard_time": 1742820382,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306098,
       "num": 285667,
       "word": "李昀锐出妆",
@@ -755,12 +787,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305297,
-      "num": 302120,
-      "word": "中式恐怖才是真恐怖",
-      "onboard_time": 1742818582,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 305631,
+      "num": 305631,
+      "word": "王楚钦说我的职业生涯还很长",
+      "onboard_time": 1742819542,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 296887,
@@ -859,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270958,
-      "num": 201032,
-      "word": "金秀贤称给金赛纶的信是朋友信之一",
-      "onboard_time": 1742819962,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270702,
       "num": 415637,
       "word": "张佳宁 剧抛脸",
@@ -929,22 +953,6 @@
       "onboard_time": 1742796502,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 252239,
-      "num": 252239,
-      "word": "王楚钦说我的职业生涯还很长",
-      "onboard_time": 1742819542,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 251727,
-      "num": 251727,
-      "word": "多邻国崩了",
-      "onboard_time": 1742820682,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 251146,
@@ -1443,6 +1451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182155,
+      "num": 182155,
+      "word": "德云色黑莓",
+      "onboard_time": 1742821581,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180799,
       "num": 177825,
       "word": "失联四天大学生母亲称女儿手机被格式化",
@@ -1779,11 +1795,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 144403,
+      "num": 144403,
+      "word": "北上",
+      "onboard_time": 1742822061,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143064,
       "num": 143064,
       "word": "芒果来了对新姐妹",
       "onboard_time": 1742812641,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142472,
+      "num": 142472,
+      "word": "庄寒雁阮惜文母女掀桌",
+      "onboard_time": 1742822183,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1841,6 +1873,14 @@
       "onboard_time": 1742801422,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137321,
+      "num": 245768,
+      "word": "王毅和日中友好七团体代表挽手合照",
+      "onboard_time": 1742820503,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 137025,
@@ -1929,14 +1969,6 @@
       "onboard_time": 1742818582,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132057,
-      "num": 132057,
-      "word": "男子骑行遭风筝线割穿头盔",
-      "onboard_time": 1742820382,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131870,
@@ -2099,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123261,
+      "num": 123261,
+      "word": "马龙红双喜晚宴C位",
+      "onboard_time": 1742821702,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123222,
       "num": 123222,
       "word": "白鹿和她的潦草小狗",
@@ -2108,7 +2148,7 @@
     },
     {
       "raw_hot": 123148,
-      "num": 123148,
+      "num": 124240,
       "word": "重庆震感",
       "onboard_time": 1742816723,
       "rank": 42,
@@ -2163,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119116,
+      "num": 119116,
+      "word": "田朴珺的花期比我生命线还长",
+      "onboard_time": 1742822061,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118265,
       "num": 118265,
       "word": "半熟4女三圈粉",
@@ -2201,6 +2249,14 @@
       "onboard_time": 1742723721,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 114325,
+      "num": 114325,
+      "word": "黄婷婷甜妹闯进悬疑剧赛道",
+      "onboard_time": 1742822422,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 114231,
@@ -2379,14 +2435,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 102562,
-      "num": 245768,
-      "word": "王毅和日中友好七团体代表挽手合照",
-      "onboard_time": 1742820503,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 102270,
       "num": 102270,
       "word": "赵丽颖兰西雅一个害羞一个撅嘴",
@@ -2507,6 +2555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95590,
+      "num": 95590,
+      "word": "4个动作教你降糖减脂",
+      "onboard_time": 1742823022,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 94584,
       "num": 305434,
       "word": "当地正在核查17岁少女代孕事件",
@@ -2521,6 +2577,14 @@
       "onboard_time": 1742791764,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 93682,
+      "num": 93682,
+      "word": "李斯丹妮戴眼镜完全是老公级别的",
+      "onboard_time": 1742822963,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 93161,
@@ -2843,6 +2907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60051,
+      "num": 251138,
+      "word": "男子突然倒地无呼吸被AED救回",
+      "onboard_time": 1742822902,
+      "rank": 18,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 59750,
       "num": 110031,
       "word": "春日故宫玉兰壁纸上新",
@@ -2955,6 +3027,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 48614,
+      "num": 161463,
+      "word": "女子称被霸总打压2年刷走11万",
+      "onboard_time": 1742821942,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47911,
+      "num": 250903,
+      "word": "星星的孩子小岱来看华晨宇演唱会",
+      "onboard_time": 1742821581,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 47270,
       "num": 124712,
       "word": "哈登轻伤不下火线",
@@ -3051,6 +3139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 41951,
+      "num": 123371,
+      "word": "两代中国首席男模的时光交接",
+      "onboard_time": 1742821822,
+      "rank": 41,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 41681,
       "num": 281127,
       "word": "黄杨钿甜给摔倒粉丝创可贴",
@@ -3096,6 +3192,22 @@
       "word": "陈垣宇蒯曼3比0陶育畅张梓煜",
       "onboard_time": 1742799501,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 37482,
+      "num": 126620,
+      "word": "刷手机带来的最坏的影响",
+      "onboard_time": 1742822480,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 37200,
+      "num": 202904,
+      "word": "周冠宇晒照致谢车迷",
+      "onboard_time": 1742822480,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -3193,6 +3305,14 @@
       "onboard_time": 1742798482,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30808,
+      "num": 161485,
+      "word": "男童被打死案起诉书披露殴打经过",
+      "onboard_time": 1742822663,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29765,
