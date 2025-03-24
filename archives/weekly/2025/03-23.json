@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742841235803,
+  "endTime": 1742842027487,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -5659,6 +5659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88589,
+      "num": 88589,
+      "word": "郑钦文vs克鲁格",
+      "onboard_time": 1742836396,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87917,
       "num": 87917,
       "word": "豆瓣 抽风",
@@ -5881,14 +5889,6 @@
       "onboard_time": 1742660301,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 75152,
-      "num": 75152,
-      "word": "郑钦文vs克鲁格",
-      "onboard_time": 1742836396,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 74896,
@@ -6627,6 +6627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37632,
+      "num": 37632,
+      "word": "赵丽颖害羞成这样",
+      "onboard_time": 1742838555,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 37482,
       "num": 126620,
       "word": "刷手机带来的最坏的影响",
@@ -6817,14 +6825,6 @@
       "onboard_time": 1742798482,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30779,
-      "num": 30779,
-      "word": "赵丽颖害羞成这样",
-      "onboard_time": 1742838555,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 30489,
@@ -7147,7 +7147,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14656,
+      "raw_hot": 15008,
       "num": 25282,
       "word": "别让风筝线变成伤人线",
       "onboard_time": 1742839934,
@@ -7177,6 +7177,14 @@
       "onboard_time": 1742743821,
       "rank": 16,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 13377,
+      "num": 35155,
+      "word": "无人机拍下众人狂奔施救全程",
+      "onboard_time": 1742840773,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13284,
@@ -7217,14 +7225,6 @@
       "onboard_time": 1742835558,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 12011,
-      "num": 25249,
-      "word": "无人机拍下众人狂奔施救全程",
-      "onboard_time": 1742840773,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11326,
