@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742899467675,
+  "endTime": 1742901698362,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -169,6 +169,14 @@
       "onboard_time": 1742647761,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1622775,
+      "num": 1622775,
+      "word": "国足vs澳大利亚",
+      "onboard_time": 1742898741,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1615643,
@@ -603,6 +611,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 832520,
+      "num": 832520,
+      "word": "马拉松亲密事件拍摄者道歉",
+      "onboard_time": 1742894243,
+      "rank": 13,
+      "category": "民生新闻,运动健身"
+    },
+    {
+      "raw_hot": 830608,
+      "num": 548892,
+      "word": "赵露思小小的勇气0片酬",
+      "onboard_time": 1742897542,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 826927,
       "num": 755005,
       "word": "官方称17岁女孩代孕产子属实",
@@ -689,14 +713,6 @@
       "onboard_time": 1742892621,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 784314,
-      "num": 784314,
-      "word": "马拉松亲密事件拍摄者道歉",
-      "onboard_time": 1742894243,
-      "rank": 13,
-      "category": "民生新闻,运动健身"
     },
     {
       "raw_hot": 780526,
@@ -1131,14 +1147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 548892,
-      "num": 548892,
-      "word": "赵露思小小的勇气0片酬",
-      "onboard_time": 1742897542,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 547462,
       "num": 547462,
       "word": "订婚3年未结婚女方被要求返还18万",
@@ -1153,6 +1161,14 @@
       "onboard_time": 1742774720,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 541134,
+      "num": 292033,
+      "word": "陶昕然曾给老公打电话大哭",
+      "onboard_time": 1742898803,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 540142,
@@ -1587,6 +1603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 419115,
+      "num": 286137,
+      "word": "何建泽回应离婚",
+      "onboard_time": 1742900362,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416669,
       "num": 332479,
       "word": "萧敬腾谈方大同去世",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1742875101,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375413,
+      "num": 400883,
+      "word": "博士生月薪1500元系印刷错误",
+      "onboard_time": 1742899041,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 372381,
@@ -2441,6 +2473,14 @@
       "onboard_time": 1742654844,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279574,
+      "num": 279574,
+      "word": "阚清子回应没去浪姐",
+      "onboard_time": 1742900301,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 278256,
@@ -3587,14 +3627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197592,
-      "num": 197592,
-      "word": "国足vs澳大利亚",
-      "onboard_time": 1742898741,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196870,
       "num": 265848,
       "word": "黄景瑜你舌头是打麻药了吗",
@@ -3699,6 +3731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192208,
+      "num": 192208,
+      "word": "登陆少年应援色",
+      "onboard_time": 1742900362,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192191,
       "num": 168210,
       "word": "曝小米要募集超380亿",
@@ -3793,6 +3833,14 @@
       "onboard_time": 1742785641,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 188775,
+      "num": 188775,
+      "word": "国足直播",
+      "onboard_time": 1742900241,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 188642,
@@ -4107,6 +4155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173554,
+      "num": 277889,
+      "word": "王一博方骏宇搭档",
+      "onboard_time": 1742900422,
+      "rank": 16,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 173498,
       "num": 216147,
       "word": "新男团NEWBEAT今日出道造型",
@@ -4393,6 +4449,14 @@
       "onboard_time": 1742718681,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163418,
+      "num": 258961,
+      "word": "周深周传雄到底谁在开车",
+      "onboard_time": 1742901322,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 163036,
@@ -4971,6 +5035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149578,
+      "num": 263322,
+      "word": "TES终结七连败",
+      "onboard_time": 1742899221,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149547,
       "num": 303139,
       "word": "全民智驾时代年轻人的带感选择",
@@ -5313,14 +5385,6 @@
       "onboard_time": 1742812761,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141394,
-      "num": 141394,
-      "word": "陶昕然曾给老公打电话大哭",
-      "onboard_time": 1742898803,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 141210,
@@ -5875,14 +5939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128775,
-      "num": 128775,
-      "word": "TES终结七连败",
-      "onboard_time": 1742899221,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 128676,
       "num": 128676,
       "word": "饼蛋蛋",
@@ -6347,6 +6403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119464,
+      "num": 119464,
+      "word": "半熟4有第一季内味儿了",
+      "onboard_time": 1742901622,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119379,
       "num": 225901,
       "word": "维金斯42分",
@@ -6707,6 +6771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 110132,
+      "num": 274974,
+      "word": "杭州红色氛围已经拉满了",
+      "onboard_time": 1742900721,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109967,
       "num": 109967,
       "word": "金融提振消费新政出炉",
@@ -6793,6 +6865,14 @@
       "onboard_time": 1742827402,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108783,
+      "num": 267826,
+      "word": "乘风2025姐姐的限定直播",
+      "onboard_time": 1742901202,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 108340,
@@ -6899,12 +6979,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 106728,
+      "num": 106728,
+      "word": "富士相纸",
+      "onboard_time": 1742901622,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 106680,
       "num": 179877,
       "word": "10岁男孩漂流一夜为何能奇迹存活",
       "onboard_time": 1742792665,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106616,
+      "num": 106616,
+      "word": "孟子义在奔跑吧有唱歌KPI吗",
+      "onboard_time": 1742899882,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 106609,
@@ -7483,6 +7579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92558,
+      "num": 263696,
+      "word": "章泽天现身香港和梁朝伟夫妇合影",
+      "onboard_time": 1742889442,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92517,
       "num": 92517,
       "word": "郑钦文连续轰出Ace",
@@ -7585,6 +7689,14 @@
       "onboard_time": 1742894782,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87402,
+      "num": 256627,
+      "word": "骗子用上不了大学威胁小孩转账",
+      "onboard_time": 1742900481,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87109,
@@ -7987,6 +8099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70361,
+      "num": 304736,
+      "word": "国足现场响起哪吒BGM",
+      "onboard_time": 1742901202,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69117,
       "num": 69117,
       "word": "安徽蚌埠全市试行作业熔断机制",
@@ -8073,14 +8193,6 @@
       "onboard_time": 1742695580,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 67050,
-      "num": 263696,
-      "word": "章泽天现身香港和梁朝伟夫妇合影",
-      "onboard_time": 1742889442,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 65890,
@@ -8283,6 +8395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61137,
+      "num": 191254,
+      "word": "爱豆爷爷金在中",
+      "onboard_time": 1742901501,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61082,
       "num": 61082,
       "word": "古埃及人都有吸猫DNA吧",
@@ -8393,6 +8513,14 @@
       "onboard_time": 1742808201,
       "rank": 27,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 57053,
+      "num": 189177,
+      "word": "林高远刘诗雯vs周雨臧小桐",
+      "onboard_time": 1742900362,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 56027,
@@ -8563,14 +8691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47110,
-      "num": 400883,
-      "word": "博士生月薪1500元系印刷错误",
-      "onboard_time": 1742899041,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47073,
       "num": 295183,
       "word": "起猛了看见小岳岳唱跳",
@@ -8616,6 +8736,14 @@
       "word": "八小时之外休而不息待破解",
       "onboard_time": 1742800523,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45610,
+      "num": 266745,
+      "word": "订婚强奸案的本质不会因彩礼而模糊",
+      "onboard_time": 1742901140,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -8881,6 +9009,14 @@
       "onboard_time": 1742685076,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 35276,
+      "num": 190379,
+      "word": "国足更衣室准备就绪",
+      "onboard_time": 1742900241,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 35129,
@@ -9193,6 +9329,14 @@
       "onboard_time": 1742897902,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 28045,
+      "num": 276894,
+      "word": "抗糖真的会让皮肤更好吗",
+      "onboard_time": 1742900961,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27978,
@@ -9611,6 +9755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 11587,
+      "num": 255904,
+      "word": "盘点广东的美丽毒物",
+      "onboard_time": 1742900841,
+      "rank": 29,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 11562,
       "num": 405719,
       "word": "新加坡前国门桑尼观战国足",
@@ -9656,6 +9808,14 @@
       "word": "马龙王楚钦被弟弟逗笑了",
       "onboard_time": 1742751436,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8059,
+      "num": 281263,
+      "word": "马特徐嘉忆vs袁励岑王艺迪",
+      "onboard_time": 1742901261,
+      "rank": 14,
       "category": "体育"
     },
     {
