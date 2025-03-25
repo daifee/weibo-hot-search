@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742912704945,
+  "endTime": 1742913832999,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -1235,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 546776,
+      "num": 351615,
+      "word": "每天喝牛奶和从不喝牛奶的区别",
+      "onboard_time": 1742903602,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 545648,
       "num": 545648,
       "word": "哈马斯新任领导人被打死",
@@ -1249,14 +1257,6 @@
       "onboard_time": 1742898803,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 540363,
-      "num": 351615,
-      "word": "每天喝牛奶和从不喝牛奶的区别",
-      "onboard_time": 1742903602,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 540142,
@@ -1409,6 +1409,14 @@
       "onboard_time": 1742910503,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 499978,
+      "num": 454291,
+      "word": "张远说晚婚是最后的倔强",
+      "onboard_time": 1742910383,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 497535,
@@ -1571,14 +1579,6 @@
       "category": "艺人,电影"
     },
     {
-      "raw_hot": 454291,
-      "num": 454291,
-      "word": "张远说晚婚是最后的倔强",
-      "onboard_time": 1742910383,
-      "rank": 9,
-      "category": "演出"
-    },
-    {
       "raw_hot": 453533,
       "num": 453533,
       "word": "奶奶捡10000元说找到失主我好高兴",
@@ -1593,6 +1593,14 @@
       "onboard_time": 1742699481,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 446562,
+      "num": 446562,
+      "word": "民间格格",
+      "onboard_time": 1742911224,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 446528,
@@ -1697,6 +1705,14 @@
       "onboard_time": 1742868020,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 426048,
+      "num": 426048,
+      "word": "李晟 当",
+      "onboard_time": 1742910023,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 425962,
@@ -1825,14 +1841,6 @@
       "onboard_time": 1742896461,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 401272,
-      "num": 401272,
-      "word": "李晟 当",
-      "onboard_time": 1742910023,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 398895,
@@ -1964,7 +1972,7 @@
     },
     {
       "raw_hot": 368983,
-      "num": 445528,
+      "num": 451243,
       "word": "超7万人现场见证国足0比2",
       "onboard_time": 1742909542,
       "rank": 38,
@@ -2299,14 +2307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321517,
-      "num": 321517,
-      "word": "民间格格",
-      "onboard_time": 1742911224,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 321424,
       "num": 321424,
       "word": "MINJI红发",
@@ -2441,6 +2441,14 @@
       "onboard_time": 1742640562,
       "rank": 4,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 301504,
+      "num": 437996,
+      "word": "一古城4000多具灭火器过期",
+      "onboard_time": 1742911522,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301474,
@@ -3387,6 +3395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219226,
+      "num": 219226,
+      "word": "她没有叫她庄夫人而是阮小姐",
+      "onboard_time": 1742910744,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218801,
       "num": 282878,
       "word": "3万2买8平地下室缩水到2平",
@@ -3761,14 +3777,6 @@
       "onboard_time": 1742895802,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203143,
-      "num": 203143,
-      "word": "她没有叫她庄夫人而是阮小姐",
-      "onboard_time": 1742910744,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 202963,
@@ -4289,6 +4297,14 @@
       "onboard_time": 1742826081,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185612,
+      "num": 331069,
+      "word": "合肥一公司被质疑入职规定过于严苛",
+      "onboard_time": 1742911644,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185243,
@@ -4827,6 +4843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162923,
+      "num": 162923,
+      "word": "王鹤棣 潮州",
+      "onboard_time": 1742912482,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162916,
       "num": 229939,
       "word": "颜安人火了脸都清晰了",
@@ -4921,6 +4945,14 @@
       "onboard_time": 1742704161,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161386,
+      "num": 161386,
+      "word": "周鸿祎清华读博60多页PPT被批",
+      "onboard_time": 1742913804,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 161275,
@@ -5259,6 +5291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153385,
+      "num": 441018,
+      "word": "王大雷回应黄油手",
+      "onboard_time": 1742911644,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153187,
       "num": 153187,
       "word": "孟子义李昀锐大屏应援",
@@ -5561,6 +5601,14 @@
       "onboard_time": 1742707701,
       "rank": 39,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 146686,
+      "num": 146686,
+      "word": "雷军回应凌晨五点多拍照",
+      "onboard_time": 1742908340,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 146373,
@@ -6027,6 +6075,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 136300,
+      "num": 219871,
+      "word": "警方通报快递员被高空坠物砸中身亡",
+      "onboard_time": 1742912663,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 135907,
       "num": 135907,
       "word": "花3万8买了条80平的老船",
@@ -6105,14 +6161,6 @@
       "onboard_time": 1742718681,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 134430,
-      "num": 134430,
-      "word": "雷军回应凌晨五点多拍照",
-      "onboard_time": 1742908340,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 134217,
@@ -6427,6 +6475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127512,
+      "num": 127512,
+      "word": "浪姐投票",
+      "onboard_time": 1742912663,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127489,
       "num": 127489,
       "word": "有你的时光里定档",
@@ -6643,14 +6699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123236,
-      "num": 123236,
-      "word": "警方通报快递员被高空坠物砸中身亡",
-      "onboard_time": 1742912663,
-      "rank": 47,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 123222,
       "num": 123222,
       "word": "白鹿和她的潦草小狗",
@@ -6673,14 +6721,6 @@
       "onboard_time": 1742816723,
       "rank": 42,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 123119,
-      "num": 123119,
-      "word": "浪姐投票",
-      "onboard_time": 1742912663,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 122941,
@@ -6929,14 +6969,6 @@
       "onboard_time": 1742714001,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117277,
-      "num": 117277,
-      "word": "王鹤棣 潮州",
-      "onboard_time": 1742912482,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 116958,
@@ -7657,14 +7689,6 @@
       "onboard_time": 1742804302,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 102196,
-      "num": 441018,
-      "word": "王大雷回应黄油手",
-      "onboard_time": 1742911644,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 101526,
@@ -8475,6 +8499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74289,
+      "num": 427861,
+      "word": "特朗普称群聊泄密是小问题",
+      "onboard_time": 1742912723,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73661,
       "num": 134627,
       "word": "2025中国发展高层论坛",
@@ -8995,14 +9027,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 58436,
-      "num": 331069,
-      "word": "合肥一公司被质疑入职规定过于严苛",
-      "onboard_time": 1742911644,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58333,
       "num": 58333,
       "word": "下一个台风",
@@ -9017,14 +9041,6 @@
       "onboard_time": 1742800941,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 58086,
-      "num": 437996,
-      "word": "一古城4000多具灭火器过期",
-      "onboard_time": 1742911522,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57963,
@@ -9715,6 +9731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32541,
+      "num": 449127,
+      "word": "伊万感谢东道主杭州",
+      "onboard_time": 1742913202,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32450,
       "num": 32450,
       "word": "燃罪",
@@ -10131,6 +10155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21553,
+      "num": 426478,
+      "word": "伊万说比赛结果不是大家想看到的",
+      "onboard_time": 1742913263,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21383,
       "num": 304443,
       "word": "欧洲国家更新赴美旅行提醒",
@@ -10225,6 +10257,14 @@
       "onboard_time": 1742815881,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 17943,
+      "num": 300956,
+      "word": "澳大利亚主帅称赞王钰栋",
+      "onboard_time": 1742913323,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 17839,
