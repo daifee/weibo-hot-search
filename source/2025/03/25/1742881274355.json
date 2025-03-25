@@ -1,0 +1,410 @@
+{
+  "runTime": 1742881274355,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 710062,
+        "num": 1113610,
+        "word": "下周上四休三不调休",
+        "onboard_time": 1742872642,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551908,
+        "num": 551908,
+        "word": "赵露思 定制综艺",
+        "onboard_time": 1742873900,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42248,
+        "num": 550126,
+        "word": "中国能源有底气",
+        "onboard_time": 1742872820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550074,
+        "num": 550074,
+        "word": "浪姐6是不是押错宝了",
+        "onboard_time": 1742879063,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540142,
+        "num": 540142,
+        "word": "孩子被骗让妈妈卡里仅剩几毛钱",
+        "onboard_time": 1742879243,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429185,
+        "num": 503328,
+        "word": "订婚强奸案男方家属坚持无罪",
+        "onboard_time": 1742874442,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497261,
+        "num": 497261,
+        "word": "唐嫣 古偶",
+        "onboard_time": 1742876062,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474435,
+        "num": 474435,
+        "word": "aespa 回归",
+        "onboard_time": 1742879661,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 391882,
+        "num": 391882,
+        "word": "女生高铁上提醒男子勿脱鞋放脚被打",
+        "onboard_time": 1742865859,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346775,
+        "num": 346775,
+        "word": "订婚强奸案二审未当庭宣判",
+        "onboard_time": 1742880081,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1677166,
+        "num": 343863,
+        "word": "王鹤棣告了男德",
+        "onboard_time": 1742877143,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1177076,
+        "num": 342234,
+        "word": "男德",
+        "onboard_time": 1742878163,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 984581,
+        "num": 335682,
+        "word": "订婚强奸案男方已被羁押690天",
+        "onboard_time": 1742870842,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119273,
+        "num": 334233,
+        "word": "三地回应17岁女孩代孕生下双胞胎",
+        "onboard_time": 1742880501,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119705,
+        "num": 328071,
+        "word": "高端汉堡的生意不好做了吗",
+        "onboard_time": 1742879961,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 765862,
+        "num": 325221,
+        "word": "董事长被指马拉松上与女子举止亲密",
+        "onboard_time": 1742877022,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425373,
+        "num": 322688,
+        "word": "为什么卫生巾的护垫总这样",
+        "onboard_time": 1742876182,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 375903,
+        "num": 319456,
+        "word": "金赛纶前男友发声",
+        "onboard_time": 1742875101,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316420,
+        "num": 316420,
+        "word": "湖南一男孩就读教育学校10天后身亡",
+        "onboard_time": 1742877983,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120139,
+        "num": 314674,
+        "word": "网红博主吴桐就不当言论道歉",
+        "onboard_time": 1742878163,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 314599,
+        "num": 314599,
+        "word": "福宝与公众再度见面",
+        "onboard_time": 1742868020,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307685,
+        "num": 307685,
+        "word": "雷军小米YU7樱花照",
+        "onboard_time": 1742880321,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 230246,
+        "num": 230246,
+        "word": "李晟镜头",
+        "onboard_time": 1742871800,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225289,
+        "num": 225289,
+        "word": "金毛餐厅偷吃饺子主人买下餐盘道歉",
+        "onboard_time": 1742876003,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171559,
+        "num": 171559,
+        "word": "演了十五集秦岚第一次笑",
+        "onboard_time": 1742874921,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137761,
+        "num": 158169,
+        "word": "邓萃雯见到李晟在浪姐心踏实了些",
+        "onboard_time": 1742878281,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154260,
+        "num": 154260,
+        "word": "杨淇源探班华晨宇好东西真多",
+        "onboard_time": 1742880920,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136528,
+        "num": 152977,
+        "word": "孟子义李昀锐大屏应援",
+        "onboard_time": 1742877801,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69425,
+        "num": 152351,
+        "word": "订婚强奸案涉事男子姐姐发声",
+        "onboard_time": 1742881161,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208834,
+        "num": 150619,
+        "word": "每天揉耳十分钟效果可靠",
+        "onboard_time": 1742878463,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168268,
+        "num": 148768,
+        "word": "吃着不甜但热量爆炸的水果",
+        "onboard_time": 1742870300,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 141379,
+        "num": 147463,
+        "word": "雷军回应发100万奖学金",
+        "onboard_time": 1742875161,
+        "rank": 31,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 146402,
+        "num": 146402,
+        "word": "春天穿衣服要下厚上薄",
+        "onboard_time": 1742864841,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168112,
+        "num": 145715,
+        "word": "韩国人来中国吃播视频",
+        "onboard_time": 1742877864,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99389,
+        "num": 144636,
+        "word": "王俊凯简约摩登风",
+        "onboard_time": 1742880381,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144492,
+        "num": 144492,
+        "word": "王楚钦左右开弓打乒乓球",
+        "onboard_time": 1742877323,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139535,
+        "num": 139535,
+        "word": "会计生连崩溃都是权责发生制的",
+        "onboard_time": 1742876182,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134549,
+        "num": 134549,
+        "word": "布克绝杀",
+        "onboard_time": 1742879482,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127439,
+        "num": 127439,
+        "word": "秦彻 喧嚣时速",
+        "onboard_time": 1742879182,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125753,
+        "num": 125753,
+        "word": "赵丽颖怒目海报",
+        "onboard_time": 1742879661,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125646,
+        "num": 125646,
+        "word": "DeepSeek预测国足出线概率",
+        "onboard_time": 1742871082,
+        "rank": 40,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 109638,
+        "num": 109638,
+        "word": "中消协提示非必要不开免密支付",
+        "onboard_time": 1742874921,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16331,
+        "num": 109046,
+        "word": "起猛了看见小岳岳唱跳",
+        "onboard_time": 1742881100,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108532,
+        "num": 108532,
+        "word": "王俊凯拼接皮衣",
+        "onboard_time": 1742879422,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 102924,
+        "num": 102924,
+        "word": "棋士",
+        "onboard_time": 1742880742,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98963,
+        "num": 98963,
+        "word": "鹅鸭杀创始人称非常期待拜访中国",
+        "onboard_time": 1742875822,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98348,
+        "num": 98348,
+        "word": "冷门但快速有效的入睡姿势",
+        "onboard_time": 1742879900,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97463,
+        "num": 97463,
+        "word": "野狗骨头 张婧仪",
+        "onboard_time": 1742860461,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94125,
+        "num": 94125,
+        "word": "租不到房的60岁以上老年人",
+        "onboard_time": 1742872461,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93677,
+        "num": 93677,
+        "word": "塔图姆受伤",
+        "onboard_time": 1742880982,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈今年党建工作的重点任务#"
+    }
+  }
+}

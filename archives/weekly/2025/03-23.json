@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742880290260,
+  "endTime": 1742881274355,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1586970,
-      "num": 237172,
+      "num": 342234,
       "word": "男德",
       "onboard_time": 1742878163,
       "rank": 11,
@@ -611,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 765862,
+      "num": 325221,
+      "word": "董事长被指马拉松上与女子举止亲密",
+      "onboard_time": 1742877022,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 763410,
       "num": 763410,
       "word": "四川叙永地震",
@@ -657,14 +665,6 @@
       "onboard_time": 1742726000,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 718782,
-      "num": 259796,
-      "word": "董事长被指马拉松上与女子举止亲密",
-      "onboard_time": 1742877022,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 712537,
@@ -987,12 +987,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 550074,
+      "num": 550074,
+      "word": "浪姐6是不是押错宝了",
+      "onboard_time": 1742879063,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 545648,
       "num": 545648,
       "word": "哈马斯新任领导人被打死",
       "onboard_time": 1742774720,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 540142,
+      "num": 540142,
+      "word": "孩子被骗让妈妈卡里仅剩几毛钱",
+      "onboard_time": 1742879243,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 527605,
@@ -1163,14 +1179,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 479477,
-      "num": 211095,
-      "word": "浪姐6是不是押错宝了",
-      "onboard_time": 1742879063,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 479346,
       "num": 479346,
       "word": "西湖2亿人1亿在太子湾",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1742729707,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 474435,
+      "num": 474435,
+      "word": "aespa 回归",
+      "onboard_time": 1742879661,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 474167,
@@ -1555,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375903,
+      "num": 319456,
+      "word": "金赛纶前男友发声",
+      "onboard_time": 1742875101,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372381,
       "num": 372381,
       "word": "刘翔之后又有中国运动员夺牌了",
@@ -1675,6 +1699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 346775,
+      "num": 346775,
+      "word": "订婚强奸案二审未当庭宣判",
+      "onboard_time": 1742880081,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345386,
       "num": 345386,
       "word": "皮亚斯特里夺F1中国站冠军",
@@ -1692,7 +1724,7 @@
     },
     {
       "raw_hot": 343645,
-      "num": 222681,
+      "num": 316420,
       "word": "湖南一男孩就读教育学校10天后身亡",
       "onboard_time": 1742877983,
       "rank": 17,
@@ -1867,14 +1899,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 311275,
-      "num": 263967,
-      "word": "金赛纶前男友发声",
-      "onboard_time": 1742875101,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309602,
       "num": 455373,
       "word": "心源性猝死前有哪些征兆",
@@ -1889,6 +1913,14 @@
       "onboard_time": 1742712379,
       "rank": 15,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 307685,
+      "num": 307685,
+      "word": "雷军小米YU7樱花照",
+      "onboard_time": 1742880321,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 307429,
@@ -2467,14 +2499,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 240565,
-      "num": 240565,
-      "word": "aespa 回归",
-      "onboard_time": 1742879661,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 240113,
       "num": 250002,
       "word": "央视起底卖给青少年的电子烟",
@@ -2819,6 +2843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208834,
+      "num": 200591,
+      "word": "每天揉耳十分钟效果可靠",
+      "onboard_time": 1742878463,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 208298,
       "num": 208298,
       "word": "哪吒为气象日写了一首rap",
@@ -3017,14 +3049,6 @@
       "onboard_time": 1742803821,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 200591,
-      "num": 200591,
-      "word": "每天揉耳十分钟效果可靠",
-      "onboard_time": 1742878463,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 200420,
@@ -3715,6 +3739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 168112,
+      "num": 156868,
+      "word": "韩国人来中国吃播视频",
+      "onboard_time": 1742877864,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167935,
       "num": 167935,
       "word": "卫生巾设计",
@@ -4099,14 +4131,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 156868,
-      "num": 156868,
-      "word": "韩国人来中国吃播视频",
-      "onboard_time": 1742877864,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 156785,
       "num": 156785,
       "word": "李惠利聚光杂志三月刊封面",
@@ -4177,6 +4201,14 @@
       "onboard_time": 1742814982,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154260,
+      "num": 154260,
+      "word": "杨淇源探班华晨宇好东西真多",
+      "onboard_time": 1742880920,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 154116,
@@ -4724,7 +4756,7 @@
     },
     {
       "raw_hot": 138639,
-      "num": 138639,
+      "num": 158169,
       "word": "邓萃雯见到李晟在浪姐心踏实了些",
       "onboard_time": 1742878281,
       "rank": 37,
@@ -4921,14 +4953,6 @@
       "onboard_time": 1742809159,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135026,
-      "num": 135026,
-      "word": "订婚强奸案二审未当庭宣判",
-      "onboard_time": 1742880081,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134710,
@@ -5427,14 +5451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122653,
-      "num": 239670,
-      "word": "孩子被骗让妈妈卡里仅剩几毛钱",
-      "onboard_time": 1742879243,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122544,
       "num": 122544,
       "word": "棋士128秒把人性扒光",
@@ -5531,12 +5547,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120139,
+      "num": 314674,
+      "word": "网红博主吴桐就不当言论道歉",
+      "onboard_time": 1742878163,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 119819,
       "num": 119819,
       "word": "库克大赞DeepSeek",
       "onboard_time": 1742704941,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 119705,
+      "num": 328071,
+      "word": "高端汉堡的生意不好做了吗",
+      "onboard_time": 1742879961,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 119668,
@@ -5563,6 +5595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119273,
+      "num": 334233,
+      "word": "三地回应17岁女孩代孕生下双胞胎",
+      "onboard_time": 1742880501,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119116,
       "num": 119116,
       "word": "田朴珺的花期比我生命线还长",
@@ -5585,14 +5625,6 @@
       "onboard_time": 1742866281,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 117816,
-      "num": 117816,
-      "word": "网红博主吴桐就不当言论道歉",
-      "onboard_time": 1742878163,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 117743,
@@ -6219,6 +6251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102924,
+      "num": 102924,
+      "word": "棋士",
+      "onboard_time": 1742880742,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102834,
       "num": 102834,
       "word": "小米寻求募集最高53亿美元",
@@ -6345,6 +6385,14 @@
       "onboard_time": 1742708299,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99389,
+      "num": 144636,
+      "word": "王俊凯简约摩登风",
+      "onboard_time": 1742880381,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 99168,
@@ -6553,6 +6601,14 @@
       "onboard_time": 1742822963,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 93677,
+      "num": 93677,
+      "word": "塔图姆受伤",
+      "onboard_time": 1742880982,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 93376,
@@ -7027,6 +7083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69425,
+      "num": 152351,
+      "word": "订婚强奸案涉事男子姐姐发声",
+      "onboard_time": 1742881161,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69117,
       "num": 69117,
       "word": "安徽蚌埠全市试行作业熔断机制",
@@ -7449,14 +7513,6 @@
       "onboard_time": 1742646021,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51996,
-      "num": 233686,
-      "word": "高端汉堡的生意不好做了吗",
-      "onboard_time": 1742879961,
-      "rank": 14,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 51892,
@@ -8377,6 +8433,14 @@
       "onboard_time": 1742769376,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16331,
+      "num": 109046,
+      "word": "起猛了看见小岳岳唱跳",
+      "onboard_time": 1742881100,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 16244,
