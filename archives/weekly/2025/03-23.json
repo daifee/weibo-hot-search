@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742898425714,
+  "endTime": 1742899467675,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -201,6 +201,14 @@
       "onboard_time": 1742884282,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1558587,
+      "num": 1558587,
+      "word": "文在寅父女双双被检方调查",
+      "onboard_time": 1742897061,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1543128,
@@ -683,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 784314,
+      "num": 784314,
+      "word": "马拉松亲密事件拍摄者道歉",
+      "onboard_time": 1742894243,
+      "rank": 13,
+      "category": "民生新闻,运动健身"
+    },
+    {
       "raw_hot": 780526,
       "num": 354547,
       "word": "邓超也被孙俪吓了一跳吧",
@@ -704,6 +720,14 @@
       "word": "董事长被指马拉松上与女子举止亲密",
       "onboard_time": 1742877022,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 765797,
+      "num": 701250,
+      "word": "订婚强奸案",
+      "onboard_time": 1742894002,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -729,14 +753,6 @@
       "onboard_time": 1742811802,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 738380,
-      "num": 738380,
-      "word": "马拉松亲密事件拍摄者道歉",
-      "onboard_time": 1742894243,
-      "rank": 13,
-      "category": "民生新闻,运动健身"
     },
     {
       "raw_hot": 736473,
@@ -776,22 +792,6 @@
       "word": "茉莉奶白致歉声明",
       "onboard_time": 1742742442,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 708333,
-      "num": 708333,
-      "word": "文在寅父女双双被检方调查",
-      "onboard_time": 1742897061,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 701250,
-      "num": 701250,
-      "word": "订婚强奸案",
-      "onboard_time": 1742894002,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -1129,6 +1129,14 @@
       "onboard_time": 1742815162,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548892,
+      "num": 548892,
+      "word": "赵露思小小的勇气0片酬",
+      "onboard_time": 1742897542,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 547462,
@@ -1651,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 407027,
+      "num": 407027,
+      "word": "赵雅芝72岁正是跑马拉松的年纪",
+      "onboard_time": 1742896461,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398895,
       "num": 398895,
       "word": "倒春寒从身体4个部位入侵",
@@ -1721,6 +1737,14 @@
       "onboard_time": 1742721741,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380383,
+      "num": 541360,
+      "word": "张雨霏已任南体游泳学院副院长",
+      "onboard_time": 1742896042,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 379320,
@@ -2315,14 +2339,6 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 287952,
-      "num": 361875,
-      "word": "赵露思小小的勇气0片酬",
-      "onboard_time": 1742897542,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 287716,
       "num": 172823,
       "word": "爷爷拔萝卜小兔子在一旁躺着吃",
@@ -2627,14 +2643,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 261253,
-      "num": 359755,
-      "word": "赵雅芝72岁正是跑马拉松的年纪",
-      "onboard_time": 1742896461,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261171,
       "num": 261171,
       "word": "电影不说话的爱",
@@ -2707,8 +2715,8 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 247449,
-      "num": 247449,
+      "raw_hot": 247724,
+      "num": 247724,
       "word": "王楚钦爆改乒乓球博主",
       "onboard_time": 1742897782,
       "rank": 23,
@@ -2899,12 +2907,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 231992,
+      "num": 353868,
+      "word": "vivo宣布成立机器人实验室",
+      "onboard_time": 1742897842,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 231366,
       "num": 231366,
       "word": "雷军同雷军班同学拍大合照",
       "onboard_time": 1742810421,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 230253,
+      "num": 230253,
+      "word": "无锡野鸳鸯",
+      "onboard_time": 1742897242,
+      "rank": 35,
+      "category": "民生新闻,运动健身"
     },
     {
       "raw_hot": 229862,
@@ -2979,20 +3003,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225763,
-      "num": 353868,
-      "word": "vivo宣布成立机器人实验室",
-      "onboard_time": 1742897842,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 225720,
       "num": 221274,
       "word": "200多万买二手房遭遇20年租约",
       "onboard_time": 1742710280,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225493,
+      "num": 225493,
+      "word": "金秀贤台湾见面会取消",
+      "onboard_time": 1742896520,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 225269,
@@ -3081,14 +3105,6 @@
       "onboard_time": 1742813901,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 216946,
-      "num": 216946,
-      "word": "金秀贤台湾见面会取消",
-      "onboard_time": 1742896520,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 216060,
@@ -3403,6 +3419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203469,
+      "num": 203469,
+      "word": "丈夫与人起冲突被妻子一把拽身后捂嘴",
+      "onboard_time": 1742895802,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202963,
       "num": 202963,
       "word": "A股",
@@ -3523,6 +3547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199614,
+      "num": 199614,
+      "word": "RIIZE新发色",
+      "onboard_time": 1742898381,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199405,
       "num": 179012,
       "word": "考研英语北京区89分",
@@ -3552,6 +3584,14 @@
       "word": "孙杨时隔5年重上高原训练被练哭3次",
       "onboard_time": 1742823804,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197592,
+      "num": 197592,
+      "word": "国足vs澳大利亚",
+      "onboard_time": 1742898741,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -3891,14 +3931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184439,
-      "num": 184439,
-      "word": "丈夫与人起冲突被妻子一把拽身后捂嘴",
-      "onboard_time": 1742895802,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183903,
       "num": 183903,
       "word": "湖人vs魔术",
@@ -3945,14 +3977,6 @@
       "onboard_time": 1742821581,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 181775,
-      "num": 181775,
-      "word": "无锡野鸳鸯",
-      "onboard_time": 1742897242,
-      "rank": 35,
-      "category": "民生新闻,运动健身"
     },
     {
       "raw_hot": 181029,
@@ -4411,20 +4435,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162742,
+      "num": 162742,
+      "word": "国足vs澳大利亚首发名单公布",
+      "onboard_time": 1742895861,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162614,
       "num": 162614,
       "word": "千万寻子富豪送儿子回学校读研",
       "onboard_time": 1742706800,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162601,
-      "num": 541360,
-      "word": "张雨霏已任南体游泳学院副院长",
-      "onboard_time": 1742896042,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 162359,
@@ -4456,6 +4480,14 @@
       "word": "韩国训练生为了出道变成泰漂",
       "onboard_time": 1742740101,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161855,
+      "num": 215730,
+      "word": "娱乐百分百工作人员去世",
+      "onboard_time": 1742896520,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -4617,22 +4649,6 @@
       "onboard_time": 1742735361,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157831,
-      "num": 215730,
-      "word": "娱乐百分百工作人员去世",
-      "onboard_time": 1742896520,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 157270,
-      "num": 157270,
-      "word": "国足vs澳大利亚首发名单公布",
-      "onboard_time": 1742895861,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 156971,
@@ -5299,6 +5315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141394,
+      "num": 141394,
+      "word": "陶昕然曾给老公打电话大哭",
+      "onboard_time": 1742898803,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141210,
       "num": 173953,
       "word": "CASETiFY一个手机壳卖4000多元",
@@ -5475,12 +5499,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137158,
+      "num": 137158,
+      "word": "专家回应网友吃到17条腿螃蟹",
+      "onboard_time": 1742898202,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137025,
       "num": 137025,
       "word": "张晚意你确定不闯一下霸总赛道吗",
       "onboard_time": 1742818642,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136955,
+      "num": 136955,
+      "word": "广州外卖小哥进小区只要三秒",
+      "onboard_time": 1742898922,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136848,
@@ -5833,6 +5873,14 @@
       "onboard_time": 1742897962,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128775,
+      "num": 128775,
+      "word": "TES终结七连败",
+      "onboard_time": 1742899221,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 128676,
@@ -6347,6 +6395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 117495,
+      "num": 117495,
+      "word": "杭州场外国足球迷祝福太有梗了",
+      "onboard_time": 1742893822,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117361,
       "num": 117361,
       "word": "DYG对战JDG",
@@ -6369,14 +6425,6 @@
       "onboard_time": 1742726122,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116640,
-      "num": 116640,
-      "word": "杭州场外国足球迷祝福太有梗了",
-      "onboard_time": 1742893822,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 116610,
@@ -6651,14 +6699,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 110568,
-      "num": 110568,
-      "word": "RIIZE新发色",
-      "onboard_time": 1742898381,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 110201,
       "num": 110201,
       "word": "EMMA跳Jennie新歌",
@@ -6833,14 +6873,6 @@
       "onboard_time": 1742794643,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107035,
-      "num": 107035,
-      "word": "专家回应网友吃到17条腿螃蟹",
-      "onboard_time": 1742898202,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106997,
@@ -8027,12 +8059,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67303,
+      "num": 129544,
+      "word": "王者新英雄空空儿3月27日上线",
+      "onboard_time": 1742899282,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 67168,
       "num": 220198,
       "word": "韩国山火致4名消防员遇难",
       "onboard_time": 1742695580,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 67050,
+      "num": 263696,
+      "word": "章泽天现身香港和梁朝伟夫妇合影",
+      "onboard_time": 1742889442,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 65890,
@@ -8049,6 +8097,14 @@
       "onboard_time": 1742790202,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65681,
+      "num": 355878,
+      "word": "孙杨称每多坚持一天就是赚到",
+      "onboard_time": 1742897422,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 65604,
@@ -8505,6 +8561,14 @@
       "onboard_time": 1742792304,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47110,
+      "num": 400883,
+      "word": "博士生月薪1500元系印刷错误",
+      "onboard_time": 1742899041,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47073,
@@ -9385,14 +9449,6 @@
       "onboard_time": 1742815881,
       "rank": 19,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 17965,
-      "num": 355878,
-      "word": "孙杨称每多坚持一天就是赚到",
-      "onboard_time": 1742897422,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 17839,

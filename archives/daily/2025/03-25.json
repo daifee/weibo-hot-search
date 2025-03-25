@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742898425714,
+  "endTime": 1742899467675,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -81,6 +81,14 @@
       "onboard_time": 1742884282,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1558587,
+      "num": 1558587,
+      "word": "文在寅父女双双被检方调查",
+      "onboard_time": 1742897061,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1543128,
@@ -203,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 784314,
+      "num": 784314,
+      "word": "马拉松亲密事件拍摄者道歉",
+      "onboard_time": 1742894243,
+      "rank": 13,
+      "category": "民生新闻,运动健身"
+    },
+    {
       "raw_hot": 765862,
       "num": 352476,
       "word": "董事长被指马拉松上与女子举止亲密",
@@ -211,35 +227,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 765797,
+      "num": 701250,
+      "word": "订婚强奸案",
+      "onboard_time": 1742894002,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 742575,
       "num": 213576,
       "word": "27岁女孩每天打3份工战胜不死癌症",
       "onboard_time": 1742827042,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 738380,
-      "num": 738380,
-      "word": "马拉松亲密事件拍摄者道歉",
-      "onboard_time": 1742894243,
-      "rank": 13,
-      "category": "民生新闻,运动健身"
-    },
-    {
-      "raw_hot": 708333,
-      "num": 708333,
-      "word": "文在寅父女双双被检方调查",
-      "onboard_time": 1742897061,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 701250,
-      "num": 701250,
-      "word": "订婚强奸案",
-      "onboard_time": 1742894002,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -305,6 +305,14 @@
       "onboard_time": 1742876182,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 548892,
+      "num": 548892,
+      "word": "赵露思小小的勇气0片酬",
+      "onboard_time": 1742897542,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 547462,
@@ -459,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 407027,
+      "num": 407027,
+      "word": "赵雅芝72岁正是跑马拉松的年纪",
+      "onboard_time": 1742896461,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397308,
       "num": 397308,
       "word": "男子跑马心脏骤停醒来就问完赛包",
@@ -481,6 +497,14 @@
       "onboard_time": 1742895981,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380383,
+      "num": 541360,
+      "word": "张雨霏已任南体游泳学院副院长",
+      "onboard_time": 1742896042,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 376275,
@@ -691,14 +715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 287952,
-      "num": 361875,
-      "word": "赵露思小小的勇气0片酬",
-      "onboard_time": 1742897542,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 287716,
       "num": 172823,
       "word": "爷爷拔萝卜小兔子在一旁躺着吃",
@@ -779,14 +795,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 261253,
-      "num": 359755,
-      "word": "赵雅芝72岁正是跑马拉松的年纪",
-      "onboard_time": 1742896461,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 260832,
       "num": 260832,
       "word": "小米股价开盘大跌",
@@ -795,8 +803,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 247449,
-      "num": 247449,
+      "raw_hot": 247724,
+      "num": 247724,
       "word": "王楚钦爆改乒乓球博主",
       "onboard_time": 1742897782,
       "rank": 23,
@@ -835,6 +843,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 231992,
+      "num": 353868,
+      "word": "vivo宣布成立机器人实验室",
+      "onboard_time": 1742897842,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 230253,
+      "num": 230253,
+      "word": "无锡野鸳鸯",
+      "onboard_time": 1742897242,
+      "rank": 35,
+      "category": "民生新闻,运动健身"
+    },
+    {
       "raw_hot": 227051,
       "num": 227051,
       "word": "鹅鸭杀创始人称非常期待拜访中国",
@@ -851,12 +875,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225763,
-      "num": 353868,
-      "word": "vivo宣布成立机器人实验室",
-      "onboard_time": 1742897842,
-      "rank": 19,
-      "category": "数码"
+      "raw_hot": 225493,
+      "num": 225493,
+      "word": "金秀贤台湾见面会取消",
+      "onboard_time": 1742896520,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 225269,
@@ -891,20 +915,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217983,
+      "num": 217983,
+      "word": "雁回时",
+      "onboard_time": 1742811383,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217409,
       "num": 217409,
       "word": "虞书欣的头纱上都是细节",
       "onboard_time": 1742828424,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216946,
-      "num": 216946,
-      "word": "金秀贤台湾见面会取消",
-      "onboard_time": 1742896520,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 215699,
@@ -1003,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203469,
+      "num": 203469,
+      "word": "丈夫与人起冲突被妻子一把拽身后捂嘴",
+      "onboard_time": 1742895802,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202902,
       "num": 202902,
       "word": "刘诗诗 你好星期六",
@@ -1043,6 +1075,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199614,
+      "num": 199614,
+      "word": "RIIZE新发色",
+      "onboard_time": 1742898381,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197592,
+      "num": 197592,
+      "word": "国足vs澳大利亚",
+      "onboard_time": 1742898741,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193153,
       "num": 159731,
       "word": "臭屁虫虫卵千万别碰",
@@ -1075,14 +1123,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 189064,
-      "num": 216914,
-      "word": "雁回时",
-      "onboard_time": 1742811383,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187247,
       "num": 187247,
       "word": "订婚强奸案双方曾计划领证后房本加名",
@@ -1099,28 +1139,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 184439,
-      "num": 184439,
-      "word": "丈夫与人起冲突被妻子一把拽身后捂嘴",
-      "onboard_time": 1742895802,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183903,
       "num": 183903,
       "word": "湖人vs魔术",
       "onboard_time": 1742866820,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181775,
-      "num": 181775,
-      "word": "无锡野鸳鸯",
-      "onboard_time": 1742897242,
-      "rank": 35,
-      "category": "民生新闻,运动健身"
     },
     {
       "raw_hot": 179148,
@@ -1283,12 +1307,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162601,
-      "num": 541360,
-      "word": "张雨霏已任南体游泳学院副院长",
-      "onboard_time": 1742896042,
-      "rank": 9,
+      "raw_hot": 162742,
+      "num": 162742,
+      "word": "国足vs澳大利亚首发名单公布",
+      "onboard_time": 1742895861,
+      "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161855,
+      "num": 215730,
+      "word": "娱乐百分百工作人员去世",
+      "onboard_time": 1742896520,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 161275,
@@ -1337,22 +1369,6 @@
       "onboard_time": 1742879182,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157831,
-      "num": 215730,
-      "word": "娱乐百分百工作人员去世",
-      "onboard_time": 1742896520,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 157270,
-      "num": 157270,
-      "word": "国足vs澳大利亚首发名单公布",
-      "onboard_time": 1742895861,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 156349,
@@ -1507,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141394,
+      "num": 141394,
+      "word": "陶昕然曾给老公打电话大哭",
+      "onboard_time": 1742898803,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140700,
       "num": 167915,
       "word": "野狗骨头",
@@ -1561,6 +1585,22 @@
       "onboard_time": 1742867601,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137158,
+      "num": 137158,
+      "word": "专家回应网友吃到17条腿螃蟹",
+      "onboard_time": 1742898202,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136955,
+      "num": 136955,
+      "word": "广州外卖小哥进小区只要三秒",
+      "onboard_time": 1742898922,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136647,
@@ -1673,6 +1713,14 @@
       "onboard_time": 1742897962,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128775,
+      "num": 128775,
+      "word": "TES终结七连败",
+      "onboard_time": 1742899221,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 128249,
@@ -1819,8 +1867,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 116640,
-      "num": 116640,
+      "raw_hot": 117495,
+      "num": 117495,
       "word": "杭州场外国足球迷祝福太有梗了",
       "onboard_time": 1742893822,
       "rank": 34,
@@ -1875,14 +1923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110568,
-      "num": 110568,
-      "word": "RIIZE新发色",
-      "onboard_time": 1742898381,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 110201,
       "num": 110201,
       "word": "EMMA跳Jennie新歌",
@@ -1913,14 +1953,6 @@
       "onboard_time": 1742884581,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 107035,
-      "num": 107035,
-      "word": "专家回应网友吃到17条腿螃蟹",
-      "onboard_time": 1742898202,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106609,
@@ -2355,12 +2387,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67303,
+      "num": 129544,
+      "word": "王者新英雄空空儿3月27日上线",
+      "onboard_time": 1742899282,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 67050,
+      "num": 263696,
+      "word": "章泽天现身香港和梁朝伟夫妇合影",
+      "onboard_time": 1742889442,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65890,
       "num": 170416,
       "word": "欧洲多国游客取消赴美选择加拿大",
       "onboard_time": 1742875101,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 65681,
+      "num": 355878,
+      "word": "孙杨称每多坚持一天就是赚到",
+      "onboard_time": 1742897422,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 65604,
@@ -2529,6 +2585,14 @@
       "onboard_time": 1742879243,
       "rank": 35,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 47110,
+      "num": 400883,
+      "word": "博士生月薪1500元系印刷错误",
+      "onboard_time": 1742899041,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47073,
@@ -2793,14 +2857,6 @@
       "onboard_time": 1742859200,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17965,
-      "num": 355878,
-      "word": "孙杨称每多坚持一天就是赚到",
-      "onboard_time": 1742897422,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 15709,

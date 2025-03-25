@@ -1,0 +1,410 @@
+{
+  "runTime": 1742899467675,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1558587,
+        "num": 1558587,
+        "word": "文在寅父女双双被检方调查",
+        "onboard_time": 1742897061,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 784314,
+        "num": 784314,
+        "word": "马拉松亲密事件拍摄者道歉",
+        "onboard_time": 1742894243,
+        "rank": 1,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 52398,
+        "num": 625941,
+        "word": "我国开辟油气勘探开发新领域",
+        "onboard_time": 1742894182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 568975,
+        "num": 568975,
+        "word": "跑男真把吴昕喊来了",
+        "onboard_time": 1742891781,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548892,
+        "num": 548892,
+        "word": "赵露思小小的勇气0片酬",
+        "onboard_time": 1742897542,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454801,
+        "num": 454801,
+        "word": "上3休2再上4休3",
+        "onboard_time": 1742893761,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522793,
+        "num": 440398,
+        "word": "浪姐6黑马",
+        "onboard_time": 1742892621,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407027,
+        "num": 407027,
+        "word": "赵雅芝72岁正是跑马拉松的年纪",
+        "onboard_time": 1742896461,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144400,
+        "num": 406676,
+        "word": "国博凤冠冰箱贴销量破1000000",
+        "onboard_time": 1742886082,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47110,
+        "num": 400883,
+        "word": "博士生月薪1500元系印刷错误",
+        "onboard_time": 1742899041,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1018118,
+        "num": 395506,
+        "word": "高泰宇退圈",
+        "onboard_time": 1742886562,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765797,
+        "num": 389488,
+        "word": "订婚强奸案",
+        "onboard_time": 1742894002,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515643,
+        "num": 384001,
+        "word": "翟子路晒白鹿婚纱照",
+        "onboard_time": 1742892562,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380383,
+        "num": 380383,
+        "word": "张雨霏已任南体游泳学院副院长",
+        "onboard_time": 1742896042,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352776,
+        "num": 352776,
+        "word": "何健麒 我没有塌房",
+        "onboard_time": 1742895981,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321407,
+        "num": 321407,
+        "word": "小米YU7",
+        "onboard_time": 1742887102,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 231992,
+        "num": 308196,
+        "word": "vivo宣布成立机器人实验室",
+        "onboard_time": 1742897842,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 295255,
+        "num": 295255,
+        "word": "下周上四休三不调休",
+        "onboard_time": 1742872642,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67050,
+        "num": 263696,
+        "word": "章泽天现身香港和梁朝伟夫妇合影",
+        "onboard_time": 1742889442,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261260,
+        "num": 261260,
+        "word": "用人单位回应博士生月薪1500元",
+        "onboard_time": 1742893461,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1823429,
+        "num": 257893,
+        "word": "马拉松一对男女亲密动作被拍到",
+        "onboard_time": 1742893043,
+        "rank": 20,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 1043191,
+        "num": 255260,
+        "word": "陶昕然离婚",
+        "onboard_time": 1742883681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247724,
+        "num": 247724,
+        "word": "王楚钦爆改乒乓球博主",
+        "onboard_time": 1742897782,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230253,
+        "num": 230253,
+        "word": "无锡野鸳鸯",
+        "onboard_time": 1742897242,
+        "rank": 23,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 225493,
+        "num": 225493,
+        "word": "金秀贤台湾见面会取消",
+        "onboard_time": 1742896520,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217983,
+        "num": 217983,
+        "word": "雁回时",
+        "onboard_time": 1742898141,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203469,
+        "num": 203469,
+        "word": "丈夫与人起冲突被妻子一把拽身后捂嘴",
+        "onboard_time": 1742895802,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199614,
+        "num": 199614,
+        "word": "RIIZE新发色",
+        "onboard_time": 1742898381,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197632,
+        "num": 197632,
+        "word": "订婚3年未结婚女方被要求返还18万",
+        "onboard_time": 1742883501,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161855,
+        "num": 197603,
+        "word": "娱乐百分百工作人员去世",
+        "onboard_time": 1742896520,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197592,
+        "num": 197592,
+        "word": "国足vs澳大利亚",
+        "onboard_time": 1742898741,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162742,
+        "num": 162742,
+        "word": "国足vs澳大利亚首发名单公布",
+        "onboard_time": 1742895861,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153263,
+        "num": 153263,
+        "word": "男子分手后起诉返还270万恋爱花费",
+        "onboard_time": 1742895321,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150883,
+        "num": 150883,
+        "word": "小花给邓超做了绿色猫眼美甲",
+        "onboard_time": 1742888902,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142271,
+        "num": 142271,
+        "word": "减肥管不住嘴试试这个方法",
+        "onboard_time": 1742892742,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 141394,
+        "num": 141394,
+        "word": "陶昕然曾给老公打电话大哭",
+        "onboard_time": 1742898803,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137158,
+        "num": 137158,
+        "word": "专家回应网友吃到17条腿螃蟹",
+        "onboard_time": 1742898202,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136955,
+        "num": 136955,
+        "word": "广州外卖小哥进小区只要三秒",
+        "onboard_time": 1742898922,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134921,
+        "num": 134921,
+        "word": "吴昕宋雨琦像在一起去春游",
+        "onboard_time": 1742896822,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67303,
+        "num": 129544,
+        "word": "王者新英雄空空儿3月27日上线",
+        "onboard_time": 1742899282,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65681,
+        "num": 129102,
+        "word": "孙杨称每多坚持一天就是赚到",
+        "onboard_time": 1742897422,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128775,
+        "num": 128775,
+        "word": "TES终结七连败",
+        "onboard_time": 1742899221,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124722,
+        "num": 124722,
+        "word": "轻断食可不是每天都少吃",
+        "onboard_time": 1742895681,
+        "rank": 42,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 118930,
+        "num": 118930,
+        "word": "我的后半生定档",
+        "onboard_time": 1742886982,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117495,
+        "num": 117495,
+        "word": "杭州场外国足球迷祝福太有梗了",
+        "onboard_time": 1742893822,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116672,
+        "num": 116672,
+        "word": "跑男",
+        "onboard_time": 1742897962,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340644,
+        "num": 115965,
+        "word": "订婚强奸案男子父亲最新发声",
+        "onboard_time": 1742894602,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114718,
+        "num": 114718,
+        "word": "刘诗诗 你好星期六",
+        "onboard_time": 1742891781,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113591,
+        "num": 113591,
+        "word": "法院称解除婚约时应视情况返还彩礼",
+        "onboard_time": 1742896340,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51610,
+        "num": 109385,
+        "word": "最新网络安全报告详细披露美监听窃密",
+        "onboard_time": 1742891300,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调八项规定是刚性的#"
+    }
+  }
+}
