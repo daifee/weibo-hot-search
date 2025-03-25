@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742913832999,
+  "endTime": 1742916458427,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -49,6 +49,14 @@
       "onboard_time": 1742893043,
       "rank": 1,
       "category": "民生新闻,运动健身"
+    },
+    {
+      "raw_hot": 2242410,
+      "num": 284991,
+      "word": "金赛纶美国丈夫声明",
+      "onboard_time": 1742913864,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2047103,
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1382119,
+      "num": 284809,
+      "word": "李晟李佳航",
+      "onboard_time": 1742915003,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1325759,
       "num": 1325759,
       "word": "跑男真把吴昕喊来了",
@@ -233,6 +249,14 @@
       "onboard_time": 1742904262,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 838781,
+      "num": 664147,
+      "word": "感觉半个娱乐圈都来武汉了",
+      "onboard_time": 1742914404,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 832520,
@@ -979,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283292,
+      "num": 283292,
+      "word": "花非花雾非雾",
+      "onboard_time": 1742914584,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282604,
       "num": 282604,
       "word": "曝金赛纶前男友被金秀贤威胁",
@@ -1080,6 +1112,14 @@
       "word": "高空坠物砸死快递员2名肇事者被刑拘",
       "onboard_time": 1742909182,
       "rank": 26,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 256839,
+      "num": 256839,
+      "word": "警方通报快递员被高空坠物砸中身亡",
+      "onboard_time": 1742912663,
+      "rank": 47,
       "category": "辟谣/通报"
     },
     {
@@ -1236,7 +1276,7 @@
     },
     {
       "raw_hot": 219226,
-      "num": 219226,
+      "num": 248263,
       "word": "她没有叫她庄夫人而是阮小姐",
       "onboard_time": 1742910744,
       "rank": 33,
@@ -1531,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185364,
+      "num": 185364,
+      "word": "B站网红大祥哥回应被骗1249万",
+      "onboard_time": 1742915903,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 183903,
       "num": 183903,
       "word": "湖人vs魔术",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1742873181,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 173678,
+      "num": 173678,
+      "word": "第一届浪姐就已经邀请阚清子了",
+      "onboard_time": 1742914163,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 173593,
@@ -1713,6 +1769,14 @@
       "onboard_time": 1742860461,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163504,
+      "num": 266592,
+      "word": "杭州奥体中心一整个变红了",
+      "onboard_time": 1742915603,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 163036,
@@ -1939,6 +2003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148909,
+      "num": 148909,
+      "word": "雷军回应凌晨五点多拍照",
+      "onboard_time": 1742908340,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 147808,
       "num": 147808,
       "word": "卡琳娜cos陆光的原因找到了",
@@ -1953,14 +2025,6 @@
       "onboard_time": 1742861721,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146686,
-      "num": 146686,
-      "word": "雷军回应凌晨五点多拍照",
-      "onboard_time": 1742908340,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 146331,
@@ -2131,12 +2195,12 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 136300,
-      "num": 219871,
-      "word": "警方通报快递员被高空坠物砸中身亡",
-      "onboard_time": 1742912663,
-      "rank": 47,
-      "category": "辟谣/通报"
+      "raw_hot": 135729,
+      "num": 135729,
+      "word": "周深脱外套给穿短裙的孟子义盖腿",
+      "onboard_time": 1742914404,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 135007,
@@ -2387,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120456,
+      "num": 120456,
+      "word": "傅云夕表白庄寒雁",
+      "onboard_time": 1742916202,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120139,
       "num": 314674,
       "word": "网红博主吴桐就不当言论道歉",
@@ -2433,6 +2505,14 @@
       "onboard_time": 1742893822,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117172,
+      "num": 117172,
+      "word": "苗苗郑恺搬家",
+      "onboard_time": 1742916382,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 115884,
@@ -2593,6 +2673,14 @@
       "onboard_time": 1742894481,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103782,
+      "num": 285354,
+      "word": "俄美未能达成联合声明",
+      "onboard_time": 1742914762,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103351,
@@ -3163,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59955,
+      "num": 283963,
+      "word": "石棉县通报希望小学设备标价不合理",
+      "onboard_time": 1742914943,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 59519,
       "num": 59519,
       "word": "别再用饮料瓶装大米酱油了",
@@ -3185,6 +3281,14 @@
       "onboard_time": 1742833939,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 57520,
+      "num": 285913,
+      "word": "伊万赞王钰栋非常出色",
+      "onboard_time": 1742915963,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 57227,
@@ -3403,6 +3507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37245,
+      "num": 280821,
+      "word": "王钰栋说这场比赛让我更自信",
+      "onboard_time": 1742915424,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36972,
       "num": 107277,
       "word": "订婚强奸案女方被曝有两次相亲经历",
@@ -3449,6 +3561,14 @@
       "onboard_time": 1742825783,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33507,
+      "num": 283601,
+      "word": "王钰栋希望更多为球队做贡献",
+      "onboard_time": 1742915363,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 32541,
@@ -3635,6 +3755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21154,
+      "num": 247726,
+      "word": "电子处方新规实施后有些药院外配不到",
+      "onboard_time": 1742915003,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21107,
       "num": 21107,
       "word": "为救5岁娃一群人接二连三冲进黄河",
@@ -3665,6 +3793,14 @@
       "onboard_time": 1742859200,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18204,
+      "num": 285678,
+      "word": "国足净胜球已经负12个了",
+      "onboard_time": 1742915963,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 17943,
@@ -3777,6 +3913,14 @@
       "onboard_time": 1742877742,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 5651,
+      "num": 664708,
+      "word": "春天里的中国孕育丰收希望",
+      "onboard_time": 1742916323,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

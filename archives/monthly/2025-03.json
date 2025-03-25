@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742913832999,
+  "endTime": 1742916458427,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -897,6 +897,14 @@
       "onboard_time": 1742799202,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2242410,
+      "num": 284991,
+      "word": "金赛纶美国丈夫声明",
+      "onboard_time": 1742913864,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2237970,
@@ -2936,6 +2944,14 @@
       "word": "金赛纶曾秒删结婚ins",
       "onboard_time": 1742392286,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1382119,
+      "num": 284809,
+      "word": "李晟李佳航",
+      "onboard_time": 1742915003,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -6817,6 +6833,14 @@
       "onboard_time": 1740974779,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 838781,
+      "num": 664147,
+      "word": "感觉半个娱乐圈都来武汉了",
+      "onboard_time": 1742914404,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 838290,
@@ -22595,6 +22619,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 283292,
+      "num": 283292,
+      "word": "花非花雾非雾",
+      "onboard_time": 1742914584,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283264,
       "num": 283264,
       "word": "偶遇宋茜周冬雨逛街",
@@ -24761,6 +24793,14 @@
       "onboard_time": 1742044833,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 256839,
+      "num": 256839,
+      "word": "警方通报快递员被高空坠物砸中身亡",
+      "onboard_time": 1742912663,
+      "rank": 47,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 256803,
@@ -28868,7 +28908,7 @@
     },
     {
       "raw_hot": 219226,
-      "num": 219226,
+      "num": 248263,
       "word": "她没有叫她庄夫人而是阮小姐",
       "onboard_time": 1742910744,
       "rank": 33,
@@ -36307,6 +36347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185364,
+      "num": 185364,
+      "word": "B站网红大祥哥回应被骗1249万",
+      "onboard_time": 1742915903,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 185356,
       "num": 185356,
       "word": "王楚钦4比1林诗栋",
@@ -38777,6 +38825,14 @@
       "onboard_time": 1742703081,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173678,
+      "num": 173678,
+      "word": "第一届浪姐就已经邀请阚清子了",
+      "onboard_time": 1742914163,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 173637,
@@ -41457,6 +41513,14 @@
       "onboard_time": 1741592541,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163504,
+      "num": 266592,
+      "word": "杭州奥体中心一整个变红了",
+      "onboard_time": 1742915603,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 163484,
@@ -45907,6 +45971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148909,
+      "num": 148909,
+      "word": "雷军回应凌晨五点多拍照",
+      "onboard_time": 1742908340,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 148902,
       "num": 148902,
       "word": "陶喆福州抢票",
@@ -46617,14 +46689,6 @@
       "onboard_time": 1742279661,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 146686,
-      "num": 146686,
-      "word": "雷军回应凌晨五点多拍照",
-      "onboard_time": 1742908340,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 146685,
@@ -50107,14 +50171,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 136300,
-      "num": 219871,
-      "word": "警方通报快递员被高空坠物砸中身亡",
-      "onboard_time": 1742912663,
-      "rank": 47,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 136258,
       "num": 208639,
       "word": "于适金昇玟巴黎活动生图",
@@ -50217,6 +50273,14 @@
       "onboard_time": 1741676722,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135729,
+      "num": 135729,
+      "word": "周深脱外套给穿短裙的孟子义盖腿",
+      "onboard_time": 1742914404,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 135724,
@@ -55395,6 +55459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120456,
+      "num": 120456,
+      "word": "傅云夕表白庄寒雁",
+      "onboard_time": 1742916202,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120447,
       "num": 120447,
       "word": "卡琳娜中文",
@@ -56433,6 +56505,14 @@
       "onboard_time": 1742012062,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 117172,
+      "num": 117172,
+      "word": "苗苗郑恺搬家",
+      "onboard_time": 1742916382,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 117147,
@@ -60681,6 +60761,14 @@
       "onboard_time": 1742195600,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103782,
+      "num": 285354,
+      "word": "俄美未能达成联合声明",
+      "onboard_time": 1742914762,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103706,
@@ -69811,6 +69899,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 59955,
+      "num": 283963,
+      "word": "石棉县通报希望小学设备标价不合理",
+      "onboard_time": 1742914943,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 59904,
       "num": 131404,
       "word": "考文垂曾给樊振东青奥会颁过奖",
@@ -70280,6 +70376,14 @@
       "word": "埃因霍温1比7阿森纳",
       "onboard_time": 1741130296,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57520,
+      "num": 285913,
+      "word": "伊万赞王钰栋非常出色",
+      "onboard_time": 1742915963,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -74891,6 +74995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37245,
+      "num": 280821,
+      "word": "王钰栋说这场比赛让我更自信",
+      "onboard_time": 1742915424,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37231,
       "num": 39070,
       "word": "一人一句歌词为高考生鼓劲",
@@ -75833,6 +75945,14 @@
       "onboard_time": 1741840705,
       "rank": 44,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 33507,
+      "num": 283601,
+      "word": "王钰栋希望更多为球队做贡献",
+      "onboard_time": 1742915363,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 33499,
@@ -79235,6 +79355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21154,
+      "num": 247726,
+      "word": "电子处方新规实施后有些药院外配不到",
+      "onboard_time": 1742915003,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21115,
       "num": 47557,
       "word": "加点zuo料",
@@ -79968,6 +80096,14 @@
       "word": "范志毅复盘国足战沙特",
       "onboard_time": 1742521340,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 18204,
+      "num": 285678,
+      "word": "国足净胜球已经负12个了",
+      "onboard_time": 1742915963,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -82121,6 +82257,14 @@
       "onboard_time": 1740785715,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5651,
+      "num": 664708,
+      "word": "春天里的中国孕育丰收希望",
+      "onboard_time": 1742916323,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
