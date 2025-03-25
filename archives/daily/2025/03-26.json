@@ -1,6 +1,6 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742920144304,
+  "endTime": 1742921147204,
   "band_list": [
     {
       "raw_hot": 1398153,
@@ -115,6 +115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 216821,
+      "num": 216821,
+      "word": "订婚强奸案家属称公诉人坚持被告有罪",
+      "onboard_time": 1742916621,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196576,
       "num": 110643,
       "word": "男德向王鹤棣道歉",
@@ -128,14 +136,6 @@
       "word": "孕妇1天尿出60个鸡蛋的蛋白质致早产",
       "onboard_time": 1742905522,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185940,
-      "num": 185940,
-      "word": "订婚强奸案家属称公诉人坚持被告有罪",
-      "onboard_time": 1742916621,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -195,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115593,
+      "num": 115593,
+      "word": "印尼1比0巴林",
+      "onboard_time": 1742920698,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114504,
       "num": 107197,
       "word": "她没有叫她庄夫人而是阮小姐",
@@ -233,6 +241,14 @@
       "onboard_time": 1742898141,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95794,
+      "num": 95794,
+      "word": "父女徒步6年女儿1年内长高10厘米",
+      "onboard_time": 1742919559,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94682,
@@ -347,14 +363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 77079,
-      "num": 77079,
-      "word": "父女徒步6年女儿1年内长高10厘米",
-      "onboard_time": 1742919559,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75598,
       "num": 75598,
       "word": "文在寅父女双双被检方调查",
@@ -371,12 +379,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 65544,
+      "raw_hot": 69539,
       "num": 75186,
       "word": "赵锐 大祥哥",
       "onboard_time": 1742918000,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 66679,
+      "num": 112516,
+      "word": "前TVB男星蔡子健转行教书",
+      "onboard_time": 1742919620,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 64048,
@@ -387,12 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38885,
-      "num": 112516,
-      "word": "前TVB男星蔡子健转行教书",
-      "onboard_time": 1742919620,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 25468,
+      "num": 110535,
+      "word": "这次降温还不算倒春寒",
+      "onboard_time": 1742920759,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21790,
