@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742891460209,
+  "endTime": 1742892275901,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1785196,
-      "num": 772918,
+      "num": 1504864,
       "word": "高泰宇退圈",
       "onboard_time": 1742886562,
       "rank": 3,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 982432,
+      "num": 982432,
+      "word": "小米YU7",
+      "onboard_time": 1742887102,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 966864,
       "num": 966864,
       "word": "雷军小米YU7樱花照",
@@ -147,12 +155,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 846772,
-      "num": 846772,
-      "word": "小米YU7",
-      "onboard_time": 1742887102,
-      "rank": 29,
-      "category": "汽车"
+      "raw_hot": 826927,
+      "num": 755005,
+      "word": "官方称17岁女孩代孕产子属实",
+      "onboard_time": 1742889502,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 805826,
@@ -179,20 +187,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 755005,
-      "num": 755005,
-      "word": "官方称17岁女孩代孕产子属实",
-      "onboard_time": 1742889502,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 742575,
       "num": 213576,
       "word": "27岁女孩每天打3份工战胜不死癌症",
       "onboard_time": 1742827042,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 675405,
+      "num": 616505,
+      "word": "小花给邓超做了绿色猫眼美甲",
+      "onboard_time": 1742888902,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 671221,
@@ -217,14 +225,6 @@
       "onboard_time": 1742859500,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 616505,
-      "num": 616505,
-      "word": "小花给邓超做了绿色猫眼美甲",
-      "onboard_time": 1742888902,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 577849,
@@ -507,11 +507,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 330072,
+      "num": 330072,
+      "word": "张极有驾照了",
+      "onboard_time": 1742891243,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321552,
       "num": 334233,
       "word": "三地回应17岁女孩代孕生下双胞胎",
       "onboard_time": 1742880501,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317674,
+      "num": 334488,
+      "word": "订婚案被害人曾明确反对婚前性行为",
+      "onboard_time": 1742890102,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -553,6 +569,14 @@
       "onboard_time": 1742884161,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294676,
+      "num": 294676,
+      "word": "世界之外",
+      "onboard_time": 1742891243,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 293167,
@@ -643,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267919,
+      "num": 267919,
+      "word": "跑男真把吴昕喊来了",
+      "onboard_time": 1742891781,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260832,
       "num": 260832,
       "word": "小米股价开盘大跌",
@@ -707,6 +739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 222556,
+      "num": 222556,
+      "word": "NJZ 告五人",
+      "onboard_time": 1742887522,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220086,
       "num": 271454,
       "word": "Ailee去年已登记结婚",
@@ -721,14 +761,6 @@
       "onboard_time": 1742828424,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216520,
-      "num": 216520,
-      "word": "NJZ 告五人",
-      "onboard_time": 1742887522,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 215699,
@@ -761,6 +793,14 @@
       "onboard_time": 1742872941,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211744,
+      "num": 211744,
+      "word": "胖东来公开人员流失率",
+      "onboard_time": 1742891180,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 209789,
@@ -835,6 +875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194082,
+      "num": 194082,
+      "word": "刘诗诗 你好星期六",
+      "onboard_time": 1742891781,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193153,
       "num": 159731,
       "word": "臭屁虫虫卵千万别碰",
@@ -899,14 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177558,
-      "num": 177558,
-      "word": "世界之外",
-      "onboard_time": 1742891243,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 177170,
       "num": 242136,
       "word": "李书福的演讲稿藏在眼镜里",
@@ -921,14 +961,6 @@
       "onboard_time": 1742871141,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175292,
-      "num": 293339,
-      "word": "张极有驾照了",
-      "onboard_time": 1742891243,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 174209,
@@ -1009,6 +1041,14 @@
       "onboard_time": 1742877864,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167815,
+      "num": 167815,
+      "word": "孙杨说要来感受三月三的热闹",
+      "onboard_time": 1742891601,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 166271,
@@ -1097,14 +1137,6 @@
       "onboard_time": 1742875822,
       "rank": 21,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 158911,
-      "num": 158911,
-      "word": "胖东来公开人员流失率",
-      "onboard_time": 1742891180,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 158440,
@@ -1243,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141945,
+      "num": 141945,
+      "word": "上海加强治理一边走路一边抽烟",
+      "onboard_time": 1742891541,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140700,
       "num": 167915,
       "word": "野狗骨头",
@@ -1323,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133974,
+      "num": 369635,
+      "word": "订婚强奸案母亲回应没取退还彩礼",
+      "onboard_time": 1742891000,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133804,
       "num": 133804,
       "word": "出现6个症状警惕心肌炎",
@@ -1377,6 +1425,14 @@
       "onboard_time": 1742887642,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129007,
+      "num": 129007,
+      "word": "speed 大张伟",
+      "onboard_time": 1742891962,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 128859,
@@ -1435,6 +1491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122870,
+      "num": 369201,
+      "word": "亲属还在遗产为何收归国有",
+      "onboard_time": 1742890522,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122544,
       "num": 122544,
       "word": "棋士128秒把人性扒光",
@@ -1444,7 +1508,7 @@
     },
     {
       "raw_hot": 122314,
-      "num": 152269,
+      "num": 365178,
       "word": "最新网络安全报告详细披露美监听窃密",
       "onboard_time": 1742891300,
       "rank": 37,
@@ -1529,6 +1593,14 @@
       "onboard_time": 1742823743,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113600,
+      "num": 113600,
+      "word": "陈哲远这次完全斯文败类级别",
+      "onboard_time": 1742891480,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 112132,
@@ -1729,14 +1801,6 @@
       "onboard_time": 1742857457,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92439,
-      "num": 334488,
-      "word": "订婚案被害人曾明确反对婚前性行为",
-      "onboard_time": 1742890102,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90574,
@@ -1947,14 +2011,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 69614,
-      "num": 369635,
-      "word": "订婚强奸案母亲回应没取退还彩礼",
-      "onboard_time": 1742891000,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69117,
       "num": 69117,
       "word": "安徽蚌埠全市试行作业熔断机制",
@@ -2017,6 +2073,14 @@
       "onboard_time": 1742827402,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63825,
+      "num": 369457,
+      "word": "长沙中考对高层次人才子女实行单列",
+      "onboard_time": 1742891121,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 62753,
@@ -2171,14 +2235,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 40966,
-      "num": 369201,
-      "word": "亲属还在遗产为何收归国有",
-      "onboard_time": 1742890522,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37679,
       "num": 38811,
       "word": "书卷一梦",
@@ -2208,6 +2264,14 @@
       "word": "6.5万球迷将现场为国足助威",
       "onboard_time": 1742858779,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31598,
+      "num": 369986,
+      "word": "杭州承办世界杯预选赛赚钱吗",
+      "onboard_time": 1742890643,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -2323,14 +2387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20884,
-      "num": 369986,
-      "word": "杭州承办世界杯预选赛赚钱吗",
-      "onboard_time": 1742890643,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 19373,
       "num": 170463,
       "word": "堀与宫村好伟大的脸",
@@ -2345,14 +2401,6 @@
       "onboard_time": 1742859200,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17505,
-      "num": 369457,
-      "word": "长沙中考对高层次人才子女实行单列",
-      "onboard_time": 1742891121,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 15709,

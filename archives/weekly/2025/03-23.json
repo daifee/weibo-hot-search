@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742891460209,
+  "endTime": 1742892275901,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1785196,
-      "num": 772918,
+      "num": 1504864,
       "word": "高泰宇退圈",
       "onboard_time": 1742886562,
       "rank": 3,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 982432,
+      "num": 982432,
+      "word": "小米YU7",
+      "onboard_time": 1742887102,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 972705,
       "num": 409765,
       "word": "山崎贤人广濑铃 分手",
@@ -563,20 +571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 846772,
-      "num": 846772,
-      "word": "小米YU7",
-      "onboard_time": 1742887102,
-      "rank": 29,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 846182,
       "num": 351122,
       "word": "中式恐怖才是真恐怖",
       "onboard_time": 1742818582,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 826927,
+      "num": 755005,
+      "word": "官方称17岁女孩代孕产子属实",
+      "onboard_time": 1742889502,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 823003,
@@ -691,14 +699,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 755005,
-      "num": 755005,
-      "word": "官方称17岁女孩代孕产子属实",
-      "onboard_time": 1742889502,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 739070,
       "num": 334755,
       "word": "周也一身睡衣上飞机",
@@ -769,6 +769,14 @@
       "onboard_time": 1742698220,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 675405,
+      "num": 616505,
+      "word": "小花给邓超做了绿色猫眼美甲",
+      "onboard_time": 1742888902,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 673673,
@@ -881,14 +889,6 @@
       "onboard_time": 1742730321,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 616505,
-      "num": 616505,
-      "word": "小花给邓超做了绿色猫眼美甲",
-      "onboard_time": 1742888902,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 616033,
@@ -1907,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 330072,
+      "num": 330072,
+      "word": "张极有驾照了",
+      "onboard_time": 1742891243,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329100,
       "num": 329100,
       "word": "冰壶",
@@ -2009,6 +2017,14 @@
       "onboard_time": 1742728341,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317674,
+      "num": 334488,
+      "word": "订婚案被害人曾明确反对婚前性行为",
+      "onboard_time": 1742890102,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315883,
@@ -2136,6 +2152,14 @@
       "word": "夏以昼终极兵器",
       "onboard_time": 1742786959,
       "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 294676,
+      "num": 294676,
+      "word": "世界之外",
+      "onboard_time": 1742734222,
+      "rank": 24,
       "category": "游戏"
     },
     {
@@ -2441,6 +2465,14 @@
       "onboard_time": 1742794585,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267919,
+      "num": 267919,
+      "word": "跑男真把吴昕喊来了",
+      "onboard_time": 1742891781,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 267711,
@@ -2867,6 +2899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222556,
+      "num": 222556,
+      "word": "NJZ 告五人",
+      "onboard_time": 1742887522,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220663,
       "num": 326538,
       "word": "老年旅行团挤不上公交拦路要求加车",
@@ -2905,14 +2945,6 @@
       "onboard_time": 1742813901,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 216520,
-      "num": 216520,
-      "word": "NJZ 告五人",
-      "onboard_time": 1742887522,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 216060,
@@ -3027,6 +3059,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 211744,
+      "num": 211744,
+      "word": "胖东来公开人员流失率",
+      "onboard_time": 1742891180,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 210981,
       "num": 199521,
       "word": "没有断尾处理过的长毛柯基",
@@ -3041,14 +3081,6 @@
       "onboard_time": 1742831961,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209262,
-      "num": 209262,
-      "word": "世界之外",
-      "onboard_time": 1742734222,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 208298,
@@ -3443,6 +3475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194082,
+      "num": 194082,
+      "word": "刘诗诗 你好星期六",
+      "onboard_time": 1742891781,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192289,
       "num": 201094,
       "word": "雁回时坠马初吻",
@@ -3819,14 +3859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175292,
-      "num": 293339,
-      "word": "张极有驾照了",
-      "onboard_time": 1742891243,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174714,
       "num": 174714,
       "word": "让王紫璇演超模的人简直天才",
@@ -4033,6 +4065,14 @@
       "onboard_time": 1742809340,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167815,
+      "num": 167815,
+      "word": "孙杨说要来感受三月三的热闹",
+      "onboard_time": 1742891601,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 167658,
@@ -4361,14 +4401,6 @@
       "onboard_time": 1742733381,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158911,
-      "num": 158911,
-      "word": "胖东来公开人员流失率",
-      "onboard_time": 1742891180,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 158440,
@@ -5035,6 +5067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141945,
+      "num": 141945,
+      "word": "上海加强治理一边走路一边抽烟",
+      "onboard_time": 1742891541,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141597,
       "num": 141597,
       "word": "乐华年轻的战场居然还有续集",
@@ -5347,6 +5387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133974,
+      "num": 369635,
+      "word": "订婚强奸案母亲回应没取退还彩礼",
+      "onboard_time": 1742891000,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133969,
       "num": 133969,
       "word": "姚琛工作室的官宣文案好好哭",
@@ -5545,6 +5593,14 @@
       "onboard_time": 1742727321,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129007,
+      "num": 129007,
+      "word": "speed 大张伟",
+      "onboard_time": 1742891962,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 128859,
@@ -5843,6 +5899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122870,
+      "num": 369201,
+      "word": "亲属还在遗产为何收归国有",
+      "onboard_time": 1742890522,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122544,
       "num": 122544,
       "word": "棋士128秒把人性扒光",
@@ -5868,7 +5932,7 @@
     },
     {
       "raw_hot": 122314,
-      "num": 152269,
+      "num": 365178,
       "word": "最新网络安全报告详细披露美监听窃密",
       "onboard_time": 1742891300,
       "rank": 37,
@@ -6193,6 +6257,14 @@
       "onboard_time": 1742703860,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113600,
+      "num": 113600,
+      "word": "陈哲远这次完全斯文败类级别",
+      "onboard_time": 1742891480,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 113479,
@@ -7083,14 +7155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92439,
-      "num": 334488,
-      "word": "订婚案被害人曾明确反对婚前性行为",
-      "onboard_time": 1742890102,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91510,
       "num": 180784,
       "word": "吴艳妮调皮提醒记者别忘开美颜",
@@ -7571,14 +7635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 69614,
-      "num": 369635,
-      "word": "订婚强奸案母亲回应没取退还彩礼",
-      "onboard_time": 1742891000,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69117,
       "num": 69117,
       "word": "安徽蚌埠全市试行作业熔断机制",
@@ -7769,6 +7825,14 @@
       "onboard_time": 1742804182,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63825,
+      "num": 369457,
+      "word": "长沙中考对高层次人才子女实行单列",
+      "onboard_time": 1742891121,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 63399,
@@ -8291,14 +8355,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 40966,
-      "num": 369201,
-      "word": "亲属还在遗产为何收归国有",
-      "onboard_time": 1742890522,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40764,
       "num": 227523,
       "word": "马龙林高远击掌",
@@ -8529,6 +8585,14 @@
       "onboard_time": 1742654724,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31598,
+      "num": 369986,
+      "word": "杭州承办世界杯预选赛赚钱吗",
+      "onboard_time": 1742890643,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 31497,
@@ -8891,14 +8955,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 20884,
-      "num": 369986,
-      "word": "杭州承办世界杯预选赛赚钱吗",
-      "onboard_time": 1742890643,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20416,
       "num": 131521,
       "word": "格力新四大件",
@@ -8945,14 +9001,6 @@
       "onboard_time": 1742676735,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17505,
-      "num": 369457,
-      "word": "长沙中考对高层次人才子女实行单列",
-      "onboard_time": 1742891121,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 17105,
