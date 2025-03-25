@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742944944422,
+  "endTime": 1742945839840,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1731569,
+      "num": 1731569,
+      "word": "河北廊坊4.2级和2.9级地震",
+      "onboard_time": 1742924359,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1726784,
       "num": 1480296,
       "word": "订婚强奸案男方已被羁押690天",
@@ -331,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1408670,
+      "num": 1408670,
+      "word": "半夜地震手机突然大叫",
+      "onboard_time": 1742925796,
+      "rank": 12,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1393611,
       "num": 1372401,
       "word": "冰岛儿童部长与未成年发生关系产子",
@@ -419,14 +435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1245357,
-      "num": 1245357,
-      "word": "河北廊坊4.2级和2.9级地震",
-      "onboard_time": 1742924359,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1243863,
       "num": 421097,
       "word": "前男友说金赛纶的死与金秀贤无关",
@@ -449,14 +457,6 @@
       "onboard_time": 1742865859,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1213677,
-      "num": 1213677,
-      "word": "半夜地震手机突然大叫",
-      "onboard_time": 1742925796,
-      "rank": 12,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1194764,
@@ -955,6 +955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 682092,
+      "num": 682092,
+      "word": "张本智和官宣入职丰田",
+      "onboard_time": 1742922977,
+      "rank": 30,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 678909,
       "num": 315897,
       "word": "苗苗郑恺搬家",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1742864841,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 649797,
+      "num": 269653,
+      "word": "喜酒喝到一半结果新娘同事跑光了",
+      "onboard_time": 1742945541,
+      "rank": 11,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 648607,
@@ -1257,14 +1273,6 @@
       "onboard_time": 1742882361,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 559392,
-      "num": 559392,
-      "word": "张本智和官宣入职丰田",
-      "onboard_time": 1742922977,
-      "rank": 30,
-      "category": "体育,汽车"
     },
     {
       "raw_hot": 557833,
@@ -3603,6 +3611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216529,
+      "num": 193355,
+      "word": "父女徒步6年女儿1年内长高10厘米",
+      "onboard_time": 1742919559,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216060,
       "num": 216060,
       "word": "沈星回九天揽星河",
@@ -4211,14 +4227,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 193355,
-      "num": 193355,
-      "word": "父女徒步6年女儿1年内长高10厘米",
-      "onboard_time": 1742919559,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192289,
       "num": 201094,
       "word": "雁回时坠马初吻",
@@ -4337,6 +4345,14 @@
       "onboard_time": 1742905102,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189333,
+      "num": 118521,
+      "word": "多囊卵巢综合征",
+      "onboard_time": 1742945541,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 189131,
@@ -7163,6 +7179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118325,
+      "num": 118325,
+      "word": "雷军说英语不好让母校蒙羞了",
+      "onboard_time": 1742942897,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 118265,
       "num": 118265,
       "word": "半熟4女三圈粉",
@@ -7489,6 +7513,14 @@
       "onboard_time": 1742812881,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110824,
+      "num": 329957,
+      "word": "陆配发表统一言论被限期离台",
+      "onboard_time": 1742914404,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110612,
@@ -7963,14 +7995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 101436,
-      "num": 329957,
-      "word": "陆配发表统一言论被限期离台",
-      "onboard_time": 1742914404,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 101427,
       "num": 101427,
       "word": "河北震感",
@@ -8267,12 +8291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95814,
+      "num": 345818,
+      "word": "廊坊地震暂无人员伤亡情况报告",
+      "onboard_time": 1742944340,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 95590,
       "num": 95590,
       "word": "4个动作教你降糖减脂",
       "onboard_time": 1742823022,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 95270,
+      "num": 95270,
+      "word": "小女孩弄倒潮玩店门口摆件赔2600元",
+      "onboard_time": 1742929395,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94665,
@@ -8329,6 +8369,14 @@
       "onboard_time": 1742704220,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93926,
+      "num": 93926,
+      "word": "国足再双杀印尼巴林就稳稳出线",
+      "onboard_time": 1742934433,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 93682,
@@ -8531,14 +8579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84787,
-      "num": 84787,
-      "word": "小女孩弄倒潮玩店门口摆件赔2600元",
-      "onboard_time": 1742929395,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84586,
       "num": 84586,
       "word": "以军炸死哈马斯政治局高层夫妇",
@@ -8715,14 +8755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 77932,
-      "num": 77932,
-      "word": "国足再双杀印尼巴林就稳稳出线",
-      "onboard_time": 1742934433,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77380,
       "num": 85012,
       "word": "刘耀文新歌",
@@ -8793,14 +8825,6 @@
       "onboard_time": 1742700681,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74702,
-      "num": 74702,
-      "word": "雷军说英语不好让母校蒙羞了",
-      "onboard_time": 1742942897,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 74681,
@@ -9675,6 +9699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46468,
+      "num": 265706,
+      "word": "中国地震局启动廊坊地震应急响应",
+      "onboard_time": 1742945061,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 46171,
       "num": 312730,
       "word": "DeepSeek分析武汉最好吃的夜市",
@@ -9785,6 +9817,14 @@
       "onboard_time": 1742684776,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 42999,
+      "num": 272093,
+      "word": "一觉醒来被地震消息刷屏了",
+      "onboard_time": 1742945002,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 42741,
@@ -10073,14 +10113,6 @@
       "onboard_time": 1742803762,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34559,
-      "num": 345818,
-      "word": "廊坊地震暂无人员伤亡情况报告",
-      "onboard_time": 1742944340,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 34287,
@@ -10379,11 +10411,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28971,
+      "num": 1221142,
+      "word": "春天里的中国孕育丰收希望",
+      "onboard_time": 1742916323,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28920,
       "num": 309791,
       "word": "美参议员拒回应关税伤害美企",
       "onboard_time": 1742742141,
       "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 28853,
+      "num": 267129,
+      "word": "俄乌30天内禁止攻击能源设施",
+      "onboard_time": 1742945240,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -10425,14 +10473,6 @@
       "onboard_time": 1742838075,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 27810,
-      "num": 1221142,
-      "word": "春天里的中国孕育丰收希望",
-      "onboard_time": 1742916323,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27497,
@@ -10803,6 +10843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16967,
+      "num": 183937,
+      "word": "国足或提前出局",
+      "onboard_time": 1742945301,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16545,
       "num": 29144,
       "word": "F1直播",
@@ -11049,6 +11097,14 @@
       "onboard_time": 1742877742,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 6637,
+      "num": 79721,
+      "word": "特斯拉5天市值累涨近1.5万亿",
+      "onboard_time": 1742945781,
+      "rank": 41,
+      "category": "财经"
     }
   ],
   "hotgov_list": [
