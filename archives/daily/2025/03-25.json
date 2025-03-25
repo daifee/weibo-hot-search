@@ -1,9 +1,9 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742867432853,
+  "endTime": 1742868756966,
   "band_list": [
     {
-      "raw_hot": 1923908,
+      "raw_hot": 3092132,
       "num": 1923908,
       "word": "一段录音是订婚强奸案重要证据",
       "onboard_time": 1742865859,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1484751,
-      "num": 352609,
+      "num": 357908,
       "word": "老人被小18岁前妻引诱复婚崩溃",
       "onboard_time": 1742863162,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1742860461,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 784067,
+      "num": 1125450,
+      "word": "女生高铁上提醒男子勿脱鞋放脚被打",
+      "onboard_time": 1742865859,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 742575,
@@ -107,14 +115,6 @@
       "category": "艺人,电影"
     },
     {
-      "raw_hot": 445111,
-      "num": 445111,
-      "word": "女生高铁上提醒男子勿脱鞋放脚被打",
-      "onboard_time": 1742865859,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 438117,
       "num": 438117,
       "word": "电影学院失联女生半年没回过家",
@@ -123,8 +123,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 423186,
+      "num": 423186,
+      "word": "野狗骨头 周柯宇",
+      "onboard_time": 1742867120,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416669,
-      "num": 313499,
+      "num": 332479,
       "word": "萧敬腾谈方大同去世",
       "onboard_time": 1742861781,
       "rank": 11,
@@ -171,12 +179,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 330582,
+      "num": 330582,
+      "word": "国足输球将无缘直通世界杯",
+      "onboard_time": 1742865920,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315547,
       "num": 211418,
       "word": "考公博主吴桐 塌房",
       "onboard_time": 1742802802,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 306236,
+      "num": 171707,
+      "word": "早睡真能解决身体80%以上的问题",
+      "onboard_time": 1742864841,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 298558,
@@ -187,11 +211,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293167,
+      "num": 293167,
+      "word": "虞书欣双轨吊带长裙路透",
+      "onboard_time": 1742866101,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287716,
       "num": 172823,
       "word": "爷爷拔萝卜小兔子在一旁躺着吃",
       "onboard_time": 1742859799,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269636,
+      "num": 269636,
+      "word": "福宝与公众再度见面",
+      "onboard_time": 1742868020,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -219,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233993,
-      "num": 171707,
-      "word": "早睡真能解决身体80%以上的问题",
-      "onboard_time": 1742864841,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 217409,
       "num": 217409,
       "word": "虞书欣的头纱上都是细节",
@@ -251,16 +283,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195365,
-      "num": 195365,
-      "word": "虞书欣双轨吊带长裙路透",
-      "onboard_time": 1742866101,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193153,
-      "num": 156231,
+      "num": 159731,
       "word": "臭屁虫虫卵千万别碰",
       "onboard_time": 1742827823,
       "rank": 20,
@@ -281,14 +305,6 @@
       "onboard_time": 1742846593,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 186098,
-      "num": 186098,
-      "word": "国足输球将无缘直通世界杯",
-      "onboard_time": 1742865920,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 183903,
@@ -395,20 +411,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140700,
+      "num": 167915,
+      "word": "野狗骨头",
+      "onboard_time": 1742867001,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137959,
+      "num": 159900,
+      "word": "illit一周年",
+      "onboard_time": 1742867601,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133804,
       "num": 133804,
       "word": "出现6个症状警惕心肌炎",
       "onboard_time": 1742864841,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 131252,
-      "num": 168396,
-      "word": "野狗骨头 周柯宇",
-      "onboard_time": 1742867120,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 130377,
@@ -435,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126611,
-      "num": 167915,
-      "word": "野狗骨头",
-      "onboard_time": 1742867001,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 124510,
+      "num": 166920,
+      "word": "奔跑吧13开工大合影",
+      "onboard_time": 1742862681,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 117936,
@@ -459,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112132,
+      "num": 112132,
+      "word": "完整体湖人又输了",
+      "onboard_time": 1742868260,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109230,
       "num": 166405,
       "word": "嗑到唐艺昕和张若昀的日常了",
@@ -475,20 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105108,
-      "num": 166920,
-      "word": "奔跑吧13开工大合影",
-      "onboard_time": 1742862681,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101309,
       "num": 101309,
       "word": "玉兰花瓣居然真的能吹成气球",
       "onboard_time": 1742825061,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 100551,
+      "num": 100551,
+      "word": "小米股价开盘大跌",
+      "onboard_time": 1742868380,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 100329,
@@ -531,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97535,
+      "num": 97535,
+      "word": "A股公司辟谣董事长马拉松视频",
+      "onboard_time": 1742868260,
+      "rank": 46,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 96331,
       "num": 96331,
       "word": "济南大风",
@@ -563,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85435,
+      "num": 159830,
+      "word": "郑钦文将再攀高山",
+      "onboard_time": 1742867540,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85211,
       "num": 85211,
       "word": "周也一身睡衣上飞机",
@@ -585,6 +633,14 @@
       "onboard_time": 1742809523,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82979,
+      "num": 357964,
+      "word": "男童被生母及男友殴打致死案庭审直播",
+      "onboard_time": 1742867780,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82381,
@@ -844,7 +900,7 @@
     },
     {
       "raw_hot": 31954,
-      "num": 631433,
+      "num": 772770,
       "word": "万千气象看江苏",
       "onboard_time": 1742825783,
       "rank": 2,

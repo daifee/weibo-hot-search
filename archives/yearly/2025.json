@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742867432853,
+  "endTime": 1742868756966,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1747,6 +1747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 3092132,
+      "num": 1923908,
+      "word": "一段录音是订婚强奸案重要证据",
+      "onboard_time": 1742865859,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3090431,
       "num": 3090431,
       "word": "台湾台南6.2级地震",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738071886,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2740229,
-      "num": 2740229,
-      "word": "ABC拿经期性感当卖点离了大谱",
-      "onboard_time": 1739346200,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
