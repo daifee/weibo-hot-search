@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742907735638,
+  "endTime": 1742909592437,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1739,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3114796,
+      "num": 3114796,
+      "word": "李晟第一",
+      "onboard_time": 1742905702,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3110747,
       "num": 846998,
       "word": "杨丞琳李荣浩婚礼1周年",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737904641,
       "rank": 29,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 2763810,
-      "num": 2763810,
-      "word": "银河酷娱致歉",
-      "onboard_time": 1735728622,
-      "rank": 1,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
