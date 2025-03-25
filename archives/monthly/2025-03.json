@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742923330277,
+  "endTime": 1742924417464,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1803,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1737658,
+      "num": 1737658,
+      "word": "北京震感",
+      "onboard_time": 1742924118,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1732998,
       "num": 101276,
       "word": "难哄剧情 烂",
@@ -2177,6 +2185,14 @@
       "onboard_time": 1742526322,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1603099,
+      "num": 1603099,
+      "word": "河北安次",
+      "onboard_time": 1742923998,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1599797,
@@ -17587,6 +17603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374647,
+      "num": 374647,
+      "word": "河北廊坊4.4级左右地震",
+      "onboard_time": 1742923998,
+      "rank": 4,
+      "category": "民生新闻,民生新闻"
+    },
+    {
       "raw_hot": 374646,
       "num": 338059,
       "word": "李兰迪也知道檀健次毕生所学吻戏梗",
@@ -25105,6 +25129,14 @@
       "onboard_time": 1741665142,
       "rank": 27,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 253857,
+      "num": 62663,
+      "word": "张本智和官宣入职丰田",
+      "onboard_time": 1742922977,
+      "rank": 30,
+      "category": "体育,汽车"
     },
     {
       "raw_hot": 253824,
@@ -33721,6 +33753,14 @@
       "onboard_time": 1740976641,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195533,
+      "num": 195533,
+      "word": "河北廊坊地震",
+      "onboard_time": 1742923998,
+      "rank": 7,
+      "category": "民生新闻,民生新闻"
     },
     {
       "raw_hot": 195520,
@@ -48929,14 +48969,6 @@
       "onboard_time": 1742546420,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140212,
-      "num": 59359,
-      "word": "张本智和官宣入职丰田",
-      "onboard_time": 1742922977,
-      "rank": 30,
-      "category": "体育,汽车"
     },
     {
       "raw_hot": 140208,
@@ -72355,6 +72387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49795,
+      "num": 49795,
+      "word": "河北廊坊3.0级左右地震",
+      "onboard_time": 1742924359,
+      "rank": 36,
+      "category": "民生新闻,民生新闻"
+    },
+    {
       "raw_hot": 49785,
       "num": 330647,
       "word": "小岳岳被爆改",
@@ -75969,6 +76009,14 @@
       "onboard_time": 1741667244,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 33849,
+      "num": 79989,
+      "word": "如何不焦虑地休个假",
+      "onboard_time": 1742922797,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33809,
@@ -80329,14 +80377,6 @@
       "onboard_time": 1741009820,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18014,
-      "num": 79989,
-      "word": "如何不焦虑地休个假",
-      "onboard_time": 1742922797,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17957,

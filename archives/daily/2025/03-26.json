@@ -1,7 +1,23 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742923330277,
+  "endTime": 1742924417464,
   "band_list": [
+    {
+      "raw_hot": 1737658,
+      "num": 1737658,
+      "word": "北京震感",
+      "onboard_time": 1742924118,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1603099,
+      "num": 1603099,
+      "word": "河北安次",
+      "onboard_time": 1742923998,
+      "rank": 1,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1398153,
       "num": 178453,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 582465,
-      "num": 143769,
+      "num": 145354,
       "word": "李晟李佳航",
       "onboard_time": 1742915003,
       "rank": 13,
@@ -57,6 +73,14 @@
       "onboard_time": 1742908340,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 374647,
+      "num": 374647,
+      "word": "河北廊坊4.4级左右地震",
+      "onboard_time": 1742923998,
+      "rank": 4,
+      "category": "民生新闻,民生新闻"
     },
     {
       "raw_hot": 304818,
@@ -84,7 +108,7 @@
     },
     {
       "raw_hot": 269637,
-      "num": 129345,
+      "num": 163437,
       "word": "第一届浪姐就已经邀请阚清子了",
       "onboard_time": 1742914163,
       "rank": 16,
@@ -97,6 +121,14 @@
       "onboard_time": 1742907563,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253857,
+      "num": 62663,
+      "word": "张本智和官宣入职丰田",
+      "onboard_time": 1742922977,
+      "rank": 30,
+      "category": "体育,汽车"
     },
     {
       "raw_hot": 248121,
@@ -124,11 +156,19 @@
     },
     {
       "raw_hot": 196576,
-      "num": 110643,
+      "num": 119485,
       "word": "男德向王鹤棣道歉",
       "onboard_time": 1742904262,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195533,
+      "num": 195533,
+      "word": "河北廊坊地震",
+      "onboard_time": 1742923998,
+      "rank": 7,
+      "category": "民生新闻,民生新闻"
     },
     {
       "raw_hot": 193279,
@@ -153,14 +193,6 @@
       "onboard_time": 1742891781,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140212,
-      "num": 59359,
-      "word": "张本智和官宣入职丰田",
-      "onboard_time": 1742922977,
-      "rank": 30,
-      "category": "体育,汽车"
     },
     {
       "raw_hot": 136783,
@@ -419,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49795,
+      "num": 49795,
+      "word": "河北廊坊3.0级左右地震",
+      "onboard_time": 1742924359,
+      "rank": 36,
+      "category": "民生新闻,民生新闻"
+    },
+    {
       "raw_hot": 48061,
       "num": 48061,
       "word": "马拉松亲密事件拍摄者道歉",
@@ -427,19 +467,19 @@
       "category": "民生新闻,运动健身"
     },
     {
-      "raw_hot": 21790,
-      "num": 303993,
-      "word": "春天里的中国孕育丰收希望",
-      "onboard_time": 1742916323,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18014,
+      "raw_hot": 33849,
       "num": 79989,
       "word": "如何不焦虑地休个假",
       "onboard_time": 1742922797,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21790,
+      "num": 656748,
+      "word": "春天里的中国孕育丰收希望",
+      "onboard_time": 1742916323,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
