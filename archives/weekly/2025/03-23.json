@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742901698362,
+  "endTime": 1742902608462,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -73,6 +73,14 @@
       "onboard_time": 1742799202,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2237993,
+      "num": 2237993,
+      "word": "国足vs澳大利亚",
+      "onboard_time": 1742898741,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 2234358,
@@ -169,14 +177,6 @@
       "onboard_time": 1742647761,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1622775,
-      "num": 1622775,
-      "word": "国足vs澳大利亚",
-      "onboard_time": 1742898741,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 1615643,
@@ -1043,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 589940,
+      "num": 444130,
+      "word": "何建泽回应离婚",
+      "onboard_time": 1742900362,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 589064,
       "num": 589064,
       "word": "91岁老人担心女儿没尊严立遗嘱保护",
@@ -1164,7 +1172,7 @@
     },
     {
       "raw_hot": 541134,
-      "num": 292033,
+      "num": 388714,
       "word": "陶昕然曾给老公打电话大哭",
       "onboard_time": 1742898803,
       "rank": 35,
@@ -1595,20 +1603,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 420590,
+      "num": 420590,
+      "word": "博士生月薪1500元系印刷错误",
+      "onboard_time": 1742899041,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 419664,
       "num": 419664,
       "word": "你的发缝还好吗",
       "onboard_time": 1742739203,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 419115,
-      "num": 286137,
-      "word": "何建泽回应离婚",
-      "onboard_time": 1742900362,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 416669,
@@ -1803,14 +1811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375413,
-      "num": 400883,
-      "word": "博士生月薪1500元系印刷错误",
-      "onboard_time": 1742899041,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 372381,
       "num": 372381,
       "word": "刘翔之后又有中国运动员夺牌了",
@@ -1916,7 +1916,7 @@
     },
     {
       "raw_hot": 355446,
-      "num": 355446,
+      "num": 515678,
       "word": "雁回时",
       "onboard_time": 1742636722,
       "rank": 27,
@@ -2476,7 +2476,7 @@
     },
     {
       "raw_hot": 279574,
-      "num": 279574,
+      "num": 453632,
       "word": "阚清子回应没去浪姐",
       "onboard_time": 1742900301,
       "rank": 15,
@@ -2585,6 +2585,14 @@
       "onboard_time": 1742700020,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270825,
+      "num": 503439,
+      "word": "国足落后澳大利亚",
+      "onboard_time": 1742901741,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 270708,
@@ -3171,6 +3179,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 215395,
+      "num": 471473,
+      "word": "乘风2025姐姐的限定直播",
+      "onboard_time": 1742901202,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215142,
       "num": 288689,
       "word": "上海现9.9元共享工位",
@@ -3273,6 +3289,14 @@
       "onboard_time": 1742655382,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 211767,
+      "num": 488022,
+      "word": "周深周传雄到底谁在开车",
+      "onboard_time": 1742901322,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 210981,
@@ -3713,6 +3737,14 @@
       "onboard_time": 1742720479,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193390,
+      "num": 193390,
+      "word": "富士相纸",
+      "onboard_time": 1742901622,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 192289,
@@ -4179,6 +4211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173363,
+      "num": 361837,
+      "word": "半熟4有第一季内味儿了",
+      "onboard_time": 1742901622,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173348,
       "num": 173348,
       "word": "虞书欣晒卫小枝日常第二弹",
@@ -4449,14 +4489,6 @@
       "onboard_time": 1742718681,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163418,
-      "num": 258961,
-      "word": "周深周传雄到底谁在开车",
-      "onboard_time": 1742901322,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 163036,
@@ -4961,6 +4993,14 @@
       "onboard_time": 1742873661,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 151443,
+      "num": 151443,
+      "word": "宋亚轩发型正确允许rnb",
+      "onboard_time": 1742902281,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 151378,
@@ -5883,6 +5923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130325,
+      "num": 130325,
+      "word": "韩安冉妈妈为亲家母发声",
+      "onboard_time": 1742902580,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 130213,
       "num": 130213,
       "word": "邓为对接回应风月不相关女主",
@@ -6403,14 +6451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119464,
-      "num": 119464,
-      "word": "半熟4有第一季内味儿了",
-      "onboard_time": 1742901622,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119379,
       "num": 225901,
       "word": "维金斯42分",
@@ -6787,6 +6827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 109947,
+      "num": 314429,
+      "word": "订婚强奸案的本质不会因彩礼而模糊",
+      "onboard_time": 1742901140,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109633,
       "num": 198568,
       "word": "F1中国站迈凯伦包揽前二",
@@ -6865,14 +6913,6 @@
       "onboard_time": 1742827402,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108783,
-      "num": 267826,
-      "word": "乘风2025姐姐的限定直播",
-      "onboard_time": 1742901202,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 108340,
@@ -6979,14 +7019,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 106728,
-      "num": 106728,
-      "word": "富士相纸",
-      "onboard_time": 1742901622,
-      "rank": 46,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 106680,
       "num": 179877,
       "word": "10岁男孩漂流一夜为何能奇迹存活",
@@ -6996,7 +7028,7 @@
     },
     {
       "raw_hot": 106616,
-      "num": 106616,
+      "num": 123475,
       "word": "孟子义在奔跑吧有唱歌KPI吗",
       "onboard_time": 1742899882,
       "rank": 47,
@@ -7105,6 +7137,14 @@
       "onboard_time": 1742715979,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 104227,
+      "num": 304736,
+      "word": "国足现场响起哪吒BGM",
+      "onboard_time": 1742901202,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 104206,
@@ -7379,6 +7419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97993,
+      "num": 439878,
+      "word": "抗糖真的会让皮肤更好吗",
+      "onboard_time": 1742900961,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 97858,
       "num": 240212,
       "word": "泽连斯基视察乌东前线指挥所",
@@ -7595,6 +7643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92270,
+      "num": 479930,
+      "word": "骗子用上不了大学威胁小孩转账",
+      "onboard_time": 1742900481,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91510,
       "num": 180784,
       "word": "吴艳妮调皮提醒记者别忘开美颜",
@@ -7689,14 +7745,6 @@
       "onboard_time": 1742894782,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87402,
-      "num": 256627,
-      "word": "骗子用上不了大学威胁小孩转账",
-      "onboard_time": 1742900481,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87109,
@@ -8097,14 +8145,6 @@
       "onboard_time": 1742857818,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 70361,
-      "num": 304736,
-      "word": "国足现场响起哪吒BGM",
-      "onboard_time": 1742901202,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 69117,
@@ -8563,6 +8603,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 54693,
+      "num": 404596,
+      "word": "林高远刘诗雯3比0周雨臧小桐",
+      "onboard_time": 1742902401,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54402,
       "num": 54402,
       "word": "宝蓝说iG真要进世界赛了",
@@ -8651,6 +8699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50098,
+      "num": 417523,
+      "word": "库克现身北京鸣潮现场",
+      "onboard_time": 1742901982,
+      "rank": 24,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 49785,
       "num": 330647,
       "word": "小岳岳被爆改",
@@ -8736,14 +8792,6 @@
       "word": "八小时之外休而不息待破解",
       "onboard_time": 1742800523,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45610,
-      "num": 266745,
-      "word": "订婚强奸案的本质不会因彩礼而模糊",
-      "onboard_time": 1742901140,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -8979,6 +9027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 37320,
+      "num": 497379,
+      "word": "澳大利亚破门",
+      "onboard_time": 1742901800,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37200,
       "num": 202904,
       "word": "周冠宇晒照致谢车迷",
@@ -9009,6 +9065,14 @@
       "onboard_time": 1742685076,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 35325,
+      "num": 491271,
+      "word": "谢文能黄牌",
+      "onboard_time": 1742901861,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 35276,
@@ -9073,6 +9137,14 @@
       "onboard_time": 1742797221,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34071,
+      "num": 465430,
+      "word": "徐海东陈幸同3比2郝帅刘炜珊",
+      "onboard_time": 1742901982,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 33684,
@@ -9329,14 +9401,6 @@
       "onboard_time": 1742897902,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 28045,
-      "num": 276894,
-      "word": "抗糖真的会让皮肤更好吗",
-      "onboard_time": 1742900961,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 27978,
@@ -9603,6 +9667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17539,
+      "num": 323248,
+      "word": "盘点广东的美丽毒物",
+      "onboard_time": 1742900841,
+      "rank": 29,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 17105,
       "num": 168253,
       "word": "少女漫的画风变化",
@@ -9673,6 +9745,14 @@
       "onboard_time": 1742843534,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14618,
+      "num": 451093,
+      "word": "刘诗雯说林高远是最强男搭档",
+      "onboard_time": 1742902102,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 14102,
@@ -9755,14 +9835,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11587,
-      "num": 255904,
-      "word": "盘点广东的美丽毒物",
-      "onboard_time": 1742900841,
-      "rank": 29,
-      "category": "民生新闻,科学科普"
-    },
-    {
       "raw_hot": 11562,
       "num": 405719,
       "word": "新加坡前国门桑尼观战国足",
@@ -9803,19 +9875,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9259,
+      "num": 281263,
+      "word": "马特徐嘉忆vs袁励岑王艺迪",
+      "onboard_time": 1742901261,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8279,
       "num": 29161,
       "word": "马龙王楚钦被弟弟逗笑了",
       "onboard_time": 1742751436,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 8059,
-      "num": 281263,
-      "word": "马特徐嘉忆vs袁励岑王艺迪",
-      "onboard_time": 1742901261,
-      "rank": 14,
       "category": "体育"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1742902608462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2237993,
+        "num": 2237993,
+        "word": "国足vs澳大利亚",
+        "onboard_time": 1742898741,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 997350,
+        "num": 997350,
+        "word": "文在寅父女双双被检方调查",
+        "onboard_time": 1742897061,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48317,
+        "num": 619915,
+        "word": "我国开辟油气勘探开发新领域",
+        "onboard_time": 1742894182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 614984,
+        "num": 614984,
+        "word": "马拉松亲密事件拍摄者道歉",
+        "onboard_time": 1742894243,
+        "rank": 3,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 516697,
+        "num": 516697,
+        "word": "上3休2再上4休3",
+        "onboard_time": 1742893761,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285593,
+        "num": 515678,
+        "word": "雁回时",
+        "onboard_time": 1742898141,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175886,
+        "num": 507778,
+        "word": "国博凤冠冰箱贴销量破1000000",
+        "onboard_time": 1742886082,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270825,
+        "num": 503439,
+        "word": "国足落后澳大利亚",
+        "onboard_time": 1742901741,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37320,
+        "num": 497379,
+        "word": "澳大利亚破门",
+        "onboard_time": 1742901800,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35325,
+        "num": 491271,
+        "word": "谢文能黄牌",
+        "onboard_time": 1742901861,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211767,
+        "num": 488022,
+        "word": "周深周传雄到底谁在开车",
+        "onboard_time": 1742901322,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92270,
+        "num": 479930,
+        "word": "骗子用上不了大学威胁小孩转账",
+        "onboard_time": 1742900481,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 748671,
+        "num": 478986,
+        "word": "高泰宇退圈",
+        "onboard_time": 1742886562,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215395,
+        "num": 471473,
+        "word": "乘风2025姐姐的限定直播",
+        "onboard_time": 1742901202,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34071,
+        "num": 465430,
+        "word": "徐海东陈幸同3比2郝帅刘炜珊",
+        "onboard_time": 1742901982,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 738788,
+        "num": 459400,
+        "word": "赵露思小小的勇气0片酬",
+        "onboard_time": 1742897542,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268037,
+        "num": 453632,
+        "word": "阚清子回应没去浪姐",
+        "onboard_time": 1742900301,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14618,
+        "num": 451093,
+        "word": "刘诗雯说林高远是最强男搭档",
+        "onboard_time": 1742902102,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 589940,
+        "num": 444130,
+        "word": "何建泽回应离婚",
+        "onboard_time": 1742900362,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97993,
+        "num": 439878,
+        "word": "抗糖真的会让皮肤更好吗",
+        "onboard_time": 1742900961,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1091122,
+        "num": 431555,
+        "word": "马拉松一对男女亲密动作被拍到",
+        "onboard_time": 1742893043,
+        "rank": 20,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 678539,
+        "num": 427939,
+        "word": "陶昕然离婚",
+        "onboard_time": 1742883681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532206,
+        "num": 423122,
+        "word": "跑男真把吴昕喊来了",
+        "onboard_time": 1742891781,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420590,
+        "num": 420590,
+        "word": "博士生月薪1500元系印刷错误",
+        "onboard_time": 1742899041,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50098,
+        "num": 417523,
+        "word": "库克现身北京鸣潮现场",
+        "onboard_time": 1742901982,
+        "rank": 24,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 415882,
+        "num": 415882,
+        "word": "浪姐6黑马",
+        "onboard_time": 1742892621,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54693,
+        "num": 404596,
+        "word": "林高远刘诗雯3比0周雨臧小桐",
+        "onboard_time": 1742902401,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485861,
+        "num": 388714,
+        "word": "陶昕然曾给老公打电话大哭",
+        "onboard_time": 1742898803,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173363,
+        "num": 361837,
+        "word": "半熟4有第一季内味儿了",
+        "onboard_time": 1742901622,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17539,
+        "num": 323248,
+        "word": "盘点广东的美丽毒物",
+        "onboard_time": 1742900841,
+        "rank": 29,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 109947,
+        "num": 314429,
+        "word": "订婚强奸案的本质不会因彩礼而模糊",
+        "onboard_time": 1742901140,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292455,
+        "num": 292455,
+        "word": "赵雅芝72岁正是跑马拉松的年纪",
+        "onboard_time": 1742896461,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104227,
+        "num": 278261,
+        "word": "国足现场响起哪吒BGM",
+        "onboard_time": 1742901202,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269203,
+        "num": 269203,
+        "word": "何健麒 我没有塌房",
+        "onboard_time": 1742895981,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248043,
+        "num": 248043,
+        "word": "张雨霏已任南体游泳学院副院长",
+        "onboard_time": 1742896042,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229631,
+        "num": 229631,
+        "word": "无锡野鸳鸯",
+        "onboard_time": 1742897242,
+        "rank": 35,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 193390,
+        "num": 193390,
+        "word": "富士相纸",
+        "onboard_time": 1742901622,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 185222,
+        "num": 185222,
+        "word": "翟子路晒白鹿婚纱照",
+        "onboard_time": 1742892562,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169680,
+        "num": 169680,
+        "word": "小米YU7",
+        "onboard_time": 1742887102,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 162563,
+        "num": 162563,
+        "word": "登陆少年应援色",
+        "onboard_time": 1742900362,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151443,
+        "num": 151443,
+        "word": "宋亚轩发型正确允许rnb",
+        "onboard_time": 1742902281,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150353,
+        "num": 150353,
+        "word": "下周上四休三不调休",
+        "onboard_time": 1742872642,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9259,
+        "num": 143987,
+        "word": "马特徐嘉忆vs袁励岑王艺迪",
+        "onboard_time": 1742901261,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139423,
+        "num": 139423,
+        "word": "丈夫与人起冲突被妻子一把拽身后捂嘴",
+        "onboard_time": 1742895802,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137737,
+        "num": 137737,
+        "word": "TES终结七连败",
+        "onboard_time": 1742899221,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131928,
+        "num": 131928,
+        "word": "国足直播",
+        "onboard_time": 1742900241,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130325,
+        "num": 130325,
+        "word": "韩安冉妈妈为亲家母发声",
+        "onboard_time": 1742902580,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130266,
+        "num": 130266,
+        "word": "王楚钦爆改乒乓球博主",
+        "onboard_time": 1742897782,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93919,
+        "num": 123475,
+        "word": "孟子义在奔跑吧有唱歌KPI吗",
+        "onboard_time": 1742899882,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121255,
+        "num": 121255,
+        "word": "金秀贤台湾见面会取消",
+        "onboard_time": 1742896520,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调八项规定是刚性的#"
+    }
+  }
+}

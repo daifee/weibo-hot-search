@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742901698362,
+  "endTime": 1742902608462,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -35,6 +35,14 @@
       "category": "民生新闻,运动健身"
     },
     {
+      "raw_hot": 2237993,
+      "num": 2237993,
+      "word": "国足vs澳大利亚",
+      "onboard_time": 1742898741,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2047103,
       "num": 414749,
       "word": "王鹤棣告了男德",
@@ -57,14 +65,6 @@
       "onboard_time": 1742870842,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1622775,
-      "num": 1622775,
-      "word": "国足vs澳大利亚",
-      "onboard_time": 1742898741,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 1615643,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 589940,
+      "num": 444130,
+      "word": "何建泽回应离婚",
+      "onboard_time": 1742900362,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 577849,
       "num": 577849,
       "word": "唐嫣 古偶",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 541134,
-      "num": 292033,
+      "num": 388714,
       "word": "陶昕然曾给老公打电话大哭",
       "onboard_time": 1742898803,
       "rank": 35,
@@ -467,12 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 419115,
-      "num": 286137,
-      "word": "何建泽回应离婚",
-      "onboard_time": 1742900362,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 420590,
+      "num": 420590,
+      "word": "博士生月薪1500元系印刷错误",
+      "onboard_time": 1742899041,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 416669,
@@ -545,14 +553,6 @@
       "onboard_time": 1742875101,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 375413,
-      "num": 400883,
-      "word": "博士生月薪1500元系印刷错误",
-      "onboard_time": 1742899041,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 373771,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 312128,
-      "num": 312128,
+      "num": 515678,
       "word": "雁回时",
       "onboard_time": 1742811383,
       "rank": 25,
@@ -780,7 +780,7 @@
     },
     {
       "raw_hot": 279574,
-      "num": 279574,
+      "num": 453632,
       "word": "阚清子回应没去浪姐",
       "onboard_time": 1742900301,
       "rank": 15,
@@ -809,6 +809,14 @@
       "onboard_time": 1742886082,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270825,
+      "num": 503439,
+      "word": "国足落后澳大利亚",
+      "onboard_time": 1742901741,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 269931,
@@ -979,6 +987,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 215395,
+      "num": 471473,
+      "word": "乘风2025姐姐的限定直播",
+      "onboard_time": 1742901202,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214968,
       "num": 214968,
       "word": "林俊杰ins晒了Jennie专辑to签",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1742894901,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211767,
+      "num": 488022,
+      "word": "周深周传雄到底谁在开车",
+      "onboard_time": 1742901322,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 209789,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1742898381,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193390,
+      "num": 193390,
+      "word": "富士相纸",
+      "onboard_time": 1742901622,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 193153,
@@ -1243,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173363,
+      "num": 361837,
+      "word": "半熟4有第一季内味儿了",
+      "onboard_time": 1742901622,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173213,
       "num": 173213,
       "word": "希望小学一万四买相机只值六百引质疑",
@@ -1337,14 +1377,6 @@
       "onboard_time": 1742860461,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163418,
-      "num": 258961,
-      "word": "周深周传雄到底谁在开车",
-      "onboard_time": 1742901322,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 163036,
@@ -1481,6 +1513,14 @@
       "onboard_time": 1742873661,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 151443,
+      "num": 151443,
+      "word": "宋亚轩发型正确允许rnb",
+      "onboard_time": 1742902281,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 151043,
@@ -1747,6 +1787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130325,
+      "num": 130325,
+      "word": "韩安冉妈妈为亲家母发声",
+      "onboard_time": 1742902580,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 129663,
       "num": 187502,
       "word": "国足若赢球或能直通世界杯",
@@ -1907,14 +1955,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 119464,
-      "num": 119464,
-      "word": "半熟4有第一季内味儿了",
-      "onboard_time": 1742901622,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119229,
       "num": 262872,
       "word": "沈星回同遨寰宇2.0",
@@ -2003,19 +2043,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109947,
+      "num": 314429,
+      "word": "订婚强奸案的本质不会因彩礼而模糊",
+      "onboard_time": 1742901140,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109230,
       "num": 166405,
       "word": "嗑到唐艺昕和张若昀的日常了",
       "onboard_time": 1742858718,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 108783,
-      "num": 267826,
-      "word": "乘风2025姐姐的限定直播",
-      "onboard_time": 1742901202,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -2035,16 +2075,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 106728,
-      "num": 106728,
-      "word": "富士相纸",
-      "onboard_time": 1742901622,
-      "rank": 46,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 106616,
-      "num": 106616,
+      "num": 123475,
       "word": "孟子义在奔跑吧有唱歌KPI吗",
       "onboard_time": 1742899882,
       "rank": 47,
@@ -2081,6 +2113,14 @@
       "onboard_time": 1742870902,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104227,
+      "num": 304736,
+      "word": "国足现场响起哪吒BGM",
+      "onboard_time": 1742901202,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 104061,
@@ -2187,6 +2227,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 97993,
+      "num": 439878,
+      "word": "抗糖真的会让皮肤更好吗",
+      "onboard_time": 1742900961,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 97908,
       "num": 97908,
       "word": "易烊千玺咋还写急眼了呢",
@@ -2251,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92270,
+      "num": 479930,
+      "word": "骗子用上不了大学威胁小孩转账",
+      "onboard_time": 1742900481,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90574,
       "num": 114692,
       "word": "钟楚曦春游",
@@ -2273,14 +2329,6 @@
       "onboard_time": 1742894782,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87402,
-      "num": 256627,
-      "word": "骗子用上不了大学威胁小孩转账",
-      "onboard_time": 1742900481,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85435,
@@ -2475,14 +2523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 70361,
-      "num": 304736,
-      "word": "国足现场响起哪吒BGM",
-      "onboard_time": 1742901202,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 69117,
       "num": 69117,
       "word": "安徽蚌埠全市试行作业熔断机制",
@@ -2675,6 +2715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54693,
+      "num": 404596,
+      "word": "林高远刘诗雯3比0周雨臧小桐",
+      "onboard_time": 1742902401,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52736,
       "num": 1143581,
       "word": "我国开辟油气勘探开发新领域",
@@ -2707,6 +2755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50098,
+      "num": 417523,
+      "word": "库克现身北京鸣潮现场",
+      "onboard_time": 1742901982,
+      "rank": 24,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 47518,
       "num": 143670,
       "word": "跑马拉松被误认董事长的公司股价下跌",
@@ -2737,14 +2793,6 @@
       "onboard_time": 1742885063,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45610,
-      "num": 266745,
-      "word": "订婚强奸案的本质不会因彩礼而模糊",
-      "onboard_time": 1742901140,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42741,
@@ -2803,6 +2851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37320,
+      "num": 497379,
+      "word": "澳大利亚破门",
+      "onboard_time": 1742901800,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36972,
       "num": 107277,
       "word": "订婚强奸案女方被曝有两次相亲经历",
@@ -2811,11 +2867,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35325,
+      "num": 491271,
+      "word": "谢文能黄牌",
+      "onboard_time": 1742901861,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35276,
       "num": 190379,
       "word": "国足更衣室准备就绪",
       "onboard_time": 1742900241,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 34071,
+      "num": 465430,
+      "word": "徐海东陈幸同3比2郝帅刘炜珊",
+      "onboard_time": 1742901982,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -2915,14 +2987,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 28045,
-      "num": 276894,
-      "word": "抗糖真的会让皮肤更好吗",
-      "onboard_time": 1742900961,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 27978,
       "num": 27978,
       "word": "当地教育局通报男子救下被欺凌学生",
@@ -3003,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17539,
+      "num": 323248,
+      "word": "盘点广东的美丽毒物",
+      "onboard_time": 1742900841,
+      "rank": 29,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 15709,
       "num": 20987,
       "word": "谢浩男称自己短暂干过保安",
@@ -3035,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14618,
+      "num": 451093,
+      "word": "刘诗雯说林高远是最强男搭档",
+      "onboard_time": 1742902102,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12762,
       "num": 204350,
       "word": "重庆春日限定浪漫你绝不能错过",
@@ -3059,14 +3139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11587,
-      "num": 255904,
-      "word": "盘点广东的美丽毒物",
-      "onboard_time": 1742900841,
-      "rank": 29,
-      "category": "民生新闻,科学科普"
-    },
-    {
       "raw_hot": 11562,
       "num": 405719,
       "word": "新加坡前国门桑尼观战国足",
@@ -3083,7 +3155,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8059,
+      "raw_hot": 9259,
       "num": 281263,
       "word": "马特徐嘉忆vs袁励岑王艺迪",
       "onboard_time": 1742901261,
