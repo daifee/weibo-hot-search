@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742874524288,
+  "endTime": 1742876964758,
   "band_list": [
     {
       "raw_hot": 3310620,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1726784,
+      "num": 1480296,
+      "word": "订婚强奸案男方已被羁押690天",
+      "onboard_time": 1742870842,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1722614,
       "num": 1722614,
       "word": "B站曾经顶流UP主现在欠账几百万",
@@ -129,6 +137,14 @@
       "onboard_time": 1742647761,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1615643,
+      "num": 1615643,
+      "word": "赵露思 定制综艺",
+      "onboard_time": 1742873900,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1603647,
@@ -160,14 +176,6 @@
       "word": "老人被小18岁前妻引诱复婚崩溃",
       "onboard_time": 1742863162,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1480296,
-      "num": 1480296,
-      "word": "订婚强奸案男方已被羁押690天",
-      "onboard_time": 1742870842,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -235,6 +243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1303441,
+      "num": 1303441,
+      "word": "下周上四休三不调休",
+      "onboard_time": 1742872642,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1267893,
       "num": 484876,
       "word": "谢瑜女朋友发的樊振东",
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 1243863,
-      "num": 296359,
+      "num": 331629,
       "word": "前男友说金赛纶的死与金秀贤无关",
       "onboard_time": 1742872580,
       "rank": 10,
@@ -667,14 +683,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 683632,
-      "num": 683632,
-      "word": "下周上四休三不调休",
-      "onboard_time": 1742872642,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 673673,
       "num": 673673,
       "word": "特鲁索娃正式官宣怀孕",
@@ -1003,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 507119,
+      "num": 441526,
+      "word": "演了十五集秦岚第一次笑",
+      "onboard_time": 1742874921,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 506556,
       "num": 506556,
       "word": "蒋梦婕的鞋把浪姐舞台给染红了",
@@ -1171,6 +1187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 457432,
+      "num": 457432,
+      "word": "湖南14岁少年疑校内遭围殴致死",
+      "onboard_time": 1742874021,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456260,
       "num": 456260,
       "word": "古天乐称自砍片酬也没人投资",
@@ -1257,6 +1281,14 @@
       "onboard_time": 1742740943,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 437294,
+      "num": 437294,
+      "word": "唐嫣 古偶",
+      "onboard_time": 1742876062,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 435008,
@@ -1771,20 +1803,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313514,
+      "num": 202585,
+      "word": "吃着不甜但热量爆炸的水果",
+      "onboard_time": 1742870300,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 311275,
+      "num": 186523,
+      "word": "金赛纶前男友发声",
+      "onboard_time": 1742875101,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309602,
       "num": 455373,
       "word": "心源性猝死前有哪些征兆",
       "onboard_time": 1742799802,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 308973,
-      "num": 202585,
-      "word": "吃着不甜但热量爆炸的水果",
-      "onboard_time": 1742870300,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 308513,
@@ -1889,6 +1929,14 @@
       "onboard_time": 1742866101,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291644,
+      "num": 291644,
+      "word": "订婚强奸案男方家属坚持无罪",
+      "onboard_time": 1742874442,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291440,
@@ -2067,6 +2115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 275782,
+      "num": 275782,
+      "word": "王宝强窝囊废赛道的纯元回宫",
+      "onboard_time": 1742874082,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275399,
       "num": 275399,
       "word": "U22国足绝杀韩国",
@@ -2121,6 +2177,14 @@
       "onboard_time": 1742790022,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269931,
+      "num": 186226,
+      "word": "DeepSeek预测国足出线概率",
+      "onboard_time": 1742871082,
+      "rank": 32,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 269588,
@@ -2233,14 +2297,6 @@
       "onboard_time": 1742700620,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250502,
-      "num": 186226,
-      "word": "DeepSeek预测国足出线概率",
-      "onboard_time": 1742871082,
-      "rank": 32,
-      "category": "体育,互联网"
     },
     {
       "raw_hot": 248758,
@@ -2491,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227051,
+      "num": 227051,
+      "word": "鹅鸭杀创始人称非常期待拜访中国",
+      "onboard_time": 1742875822,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225720,
       "num": 221274,
       "word": "200多万买二手房遭遇20年租约",
@@ -2505,6 +2569,14 @@
       "onboard_time": 1742778321,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224391,
+      "num": 170408,
+      "word": "金毛餐厅偷吃饺子主人买下餐盘道歉",
+      "onboard_time": 1742876003,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224345,
@@ -2545,14 +2617,6 @@
       "onboard_time": 1742806583,
       "rank": 18,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 217205,
-      "num": 217205,
-      "word": "赵露思 定制综艺",
-      "onboard_time": 1742873900,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 217102,
@@ -2705,6 +2769,14 @@
       "onboard_time": 1742651423,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 207661,
+      "num": 207661,
+      "word": "为什么卫生巾的护垫总这样",
+      "onboard_time": 1742876182,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 207560,
@@ -3049,6 +3121,14 @@
       "onboard_time": 1742741783,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191738,
+      "num": 170391,
+      "word": "雷军回应发100万奖学金",
+      "onboard_time": 1742875161,
+      "rank": 34,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 191730,
@@ -3459,6 +3539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170388,
+      "num": 170388,
+      "word": "会计生连崩溃都是权责发生制的",
+      "onboard_time": 1742876182,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170307,
       "num": 168146,
       "word": "无畏你前置呢",
@@ -3619,6 +3707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163856,
+      "num": 203270,
+      "word": "租不到房的60岁以上老年人",
+      "onboard_time": 1742872461,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163785,
       "num": 193511,
       "word": "我是谢霆锋我同意加场",
@@ -3649,6 +3745,14 @@
       "onboard_time": 1742831421,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 162931,
+      "num": 162931,
+      "word": "阮惜文er",
+      "onboard_time": 1742876361,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 162916,
@@ -3809,6 +3913,14 @@
       "onboard_time": 1742735782,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159003,
+      "num": 193636,
+      "word": "征服世界只差一辆极氪9X",
+      "onboard_time": 1742875822,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 158988,
@@ -4051,6 +4163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151604,
+      "num": 151604,
+      "word": "阿里巴巴将重启招聘",
+      "onboard_time": 1742873661,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 151378,
       "num": 151378,
       "word": "野餐",
@@ -4105,14 +4225,6 @@
       "onboard_time": 1742723480,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149773,
-      "num": 149773,
-      "word": "王宝强窝囊废赛道的纯元回宫",
-      "onboard_time": 1742874082,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 149729,
@@ -4291,6 +4403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144551,
+      "num": 170488,
+      "word": "李斯丹妮后台偶遇蔡国庆",
+      "onboard_time": 1742875523,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144489,
       "num": 159242,
       "word": "美军再袭也门首都等地致多人死伤",
@@ -4403,12 +4523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141440,
-      "num": 141440,
-      "word": "湖南14岁少年疑校内遭围殴致死",
-      "onboard_time": 1742874021,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 141226,
+      "num": 141226,
+      "word": "新男团NEWBEAT今日出道造型",
+      "onboard_time": 1742876783,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 141210,
@@ -4475,6 +4595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138391,
+      "num": 217924,
+      "word": "订婚强奸案男方上诉称未发生实质性关系",
+      "onboard_time": 1742873301,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138203,
       "num": 138203,
       "word": "我家的小狗",
@@ -4529,14 +4657,6 @@
       "onboard_time": 1742788463,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137549,
-      "num": 137549,
-      "word": "阿里巴巴将重启招聘",
-      "onboard_time": 1742873661,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 137477,
@@ -4763,6 +4883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132606,
+      "num": 179945,
+      "word": "侵华日军对我国打伪钞战最新罪证",
+      "onboard_time": 1742874201,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132402,
       "num": 240837,
       "word": "韩国一天发生16起山林火灾",
@@ -4777,6 +4905,14 @@
       "onboard_time": 1742870842,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132369,
+      "num": 132369,
+      "word": "汪苏泷专辑",
+      "onboard_time": 1742876842,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 132320,
@@ -5091,14 +5227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123845,
-      "num": 123845,
-      "word": "侵华日军对我国打伪钞战最新罪证",
-      "onboard_time": 1742874201,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123504,
       "num": 219155,
       "word": "浪姐6没有太多的野心家",
@@ -5211,6 +5339,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 120619,
+      "num": 170430,
+      "word": "中消协提示非必要不开免密支付",
+      "onboard_time": 1742874921,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120447,
       "num": 120447,
       "word": "卡琳娜中文",
@@ -5225,14 +5361,6 @@
       "onboard_time": 1742717899,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 120196,
-      "num": 217924,
-      "word": "订婚强奸案男方上诉称未发生实质性关系",
-      "onboard_time": 1742873301,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120169,
@@ -5281,14 +5409,6 @@
       "onboard_time": 1742822061,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118484,
-      "num": 118484,
-      "word": "租不到房的60岁以上老年人",
-      "onboard_time": 1742872461,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118265,
@@ -5507,6 +5627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112004,
+      "num": 173622,
+      "word": "跟郭麒麟学看好面相",
+      "onboard_time": 1742873720,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111933,
       "num": 111933,
       "word": "章若楠双眼wink",
@@ -5689,6 +5817,14 @@
       "onboard_time": 1742687418,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108277,
+      "num": 152224,
+      "word": "高伟光打球被放鸽子",
+      "onboard_time": 1742876062,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 108258,
@@ -6475,14 +6611,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80504,
-      "num": 173622,
-      "word": "跟郭麒麟学看好面相",
-      "onboard_time": 1742873720,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 80176,
       "num": 80176,
       "word": "林忆莲演唱会至少还有你大合唱",
@@ -6500,7 +6628,7 @@
     },
     {
       "raw_hot": 78562,
-      "num": 138356,
+      "num": 170483,
       "word": "国际乒联2025第13周排名",
       "onboard_time": 1742874502,
       "rank": 36,
@@ -6667,6 +6795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71437,
+      "num": 151844,
+      "word": "13岁男生向游戏大神转账被骗14万",
+      "onboard_time": 1742874921,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71234,
       "num": 172896,
       "word": "男子骚扰女性自称陕西延长石油部长",
@@ -6795,6 +6931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 65890,
+      "num": 170416,
+      "word": "欧洲多国游客取消赴美选择加拿大",
+      "onboard_time": 1742875101,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 65762,
       "num": 398263,
       "word": "人民日报三问餐饮加盟模式",
@@ -6804,7 +6948,7 @@
     },
     {
       "raw_hot": 65604,
-      "num": 687896,
+      "num": 705935,
       "word": "中国能源有底气",
       "onboard_time": 1742872820,
       "rank": 2,
@@ -7200,14 +7344,6 @@
       "word": "女子称被霸总打压2年刷走11万",
       "onboard_time": 1742821942,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48571,
-      "num": 139298,
-      "word": "订婚强奸案男方家属坚持无罪",
-      "onboard_time": 1742874442,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -7977,6 +8113,14 @@
       "onboard_time": 1742695701,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 19373,
+      "num": 170463,
+      "word": "堀与宫村好伟大的脸",
+      "onboard_time": 1742876182,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 19127,

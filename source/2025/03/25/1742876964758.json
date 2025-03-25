@@ -1,0 +1,410 @@
+{
+  "runTime": 1742876964758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1615643,
+        "num": 1615643,
+        "word": "赵露思 定制综艺",
+        "onboard_time": 1742873900,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1303441,
+        "num": 1303441,
+        "word": "下周上四休三不调休",
+        "onboard_time": 1742872642,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64736,
+        "num": 705935,
+        "word": "中国能源有底气",
+        "onboard_time": 1742872820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 672584,
+        "num": 672584,
+        "word": "李晟镜头",
+        "onboard_time": 1742871800,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457432,
+        "num": 457432,
+        "word": "湖南14岁少年疑校内遭围殴致死",
+        "onboard_time": 1742874021,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1726784,
+        "num": 449176,
+        "word": "订婚强奸案男方已被羁押690天",
+        "onboard_time": 1742870842,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559359,
+        "num": 445237,
+        "word": "女生高铁上提醒男子勿脱鞋放脚被打",
+        "onboard_time": 1742865859,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507119,
+        "num": 441526,
+        "word": "演了十五集秦岚第一次笑",
+        "onboard_time": 1742874921,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437294,
+        "num": 437294,
+        "word": "唐嫣 古偶",
+        "onboard_time": 1742876062,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335742,
+        "num": 335742,
+        "word": "福宝与公众再度见面",
+        "onboard_time": 1742868020,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1203152,
+        "num": 331629,
+        "word": "前男友说金赛纶的死与金秀贤无关",
+        "onboard_time": 1742872580,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319934,
+        "num": 319934,
+        "word": "订婚强奸案男方家属要求退还彩礼",
+        "onboard_time": 1742868920,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302697,
+        "num": 302697,
+        "word": "春天穿衣服要下厚上薄",
+        "onboard_time": 1742864841,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 291644,
+        "num": 291644,
+        "word": "订婚强奸案男方家属坚持无罪",
+        "onboard_time": 1742874442,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275782,
+        "num": 275782,
+        "word": "王宝强窝囊废赛道的纯元回宫",
+        "onboard_time": 1742874082,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235812,
+        "num": 235812,
+        "word": "野狗骨头 张婧仪",
+        "onboard_time": 1742860461,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227051,
+        "num": 227051,
+        "word": "鹅鸭杀创始人称非常期待拜访中国",
+        "onboard_time": 1742875822,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219295,
+        "num": 219295,
+        "word": "福宝去年异常抖动后已静养100多天",
+        "onboard_time": 1742869161,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207661,
+        "num": 207661,
+        "word": "为什么卫生巾的护垫总这样",
+        "onboard_time": 1742876182,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163856,
+        "num": 203270,
+        "word": "租不到房的60岁以上老年人",
+        "onboard_time": 1742872461,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313514,
+        "num": 200592,
+        "word": "吃着不甜但热量爆炸的水果",
+        "onboard_time": 1742870300,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 159003,
+        "num": 193636,
+        "word": "征服世界只差一辆极氪9X",
+        "onboard_time": 1742875822,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 311275,
+        "num": 186523,
+        "word": "金赛纶前男友发声",
+        "onboard_time": 1742875101,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132606,
+        "num": 179945,
+        "word": "侵华日军对我国打伪钞战最新罪证",
+        "onboard_time": 1742874201,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175622,
+        "num": 175622,
+        "word": "念无双定档",
+        "onboard_time": 1742869280,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112004,
+        "num": 173043,
+        "word": "跟郭麒麟学看好面相",
+        "onboard_time": 1742873720,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170501,
+        "num": 170501,
+        "word": "古天乐称自砍片酬也没人投资",
+        "onboard_time": 1742861721,
+        "rank": 26,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 144551,
+        "num": 170488,
+        "word": "李斯丹妮后台偶遇蔡国庆",
+        "onboard_time": 1742875523,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43709,
+        "num": 170483,
+        "word": "国际乒联2025第13周排名",
+        "onboard_time": 1742874502,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19373,
+        "num": 170463,
+        "word": "堀与宫村好伟大的脸",
+        "onboard_time": 1742876182,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 269931,
+        "num": 170451,
+        "word": "DeepSeek预测国足出线概率",
+        "onboard_time": 1742871082,
+        "rank": 30,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 120619,
+        "num": 170430,
+        "word": "中消协提示非必要不开免密支付",
+        "onboard_time": 1742874921,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65890,
+        "num": 170416,
+        "word": "欧洲多国游客取消赴美选择加拿大",
+        "onboard_time": 1742875101,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 224391,
+        "num": 170408,
+        "word": "金毛餐厅偷吃饺子主人买下餐盘道歉",
+        "onboard_time": 1742876003,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191738,
+        "num": 170391,
+        "word": "雷军回应发100万奖学金",
+        "onboard_time": 1742875161,
+        "rank": 34,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 170388,
+        "num": 170388,
+        "word": "会计生连崩溃都是权责发生制的",
+        "onboard_time": 1742876182,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162931,
+        "num": 162931,
+        "word": "阮惜文er",
+        "onboard_time": 1742876361,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152900,
+        "num": 152900,
+        "word": "棋士开播",
+        "onboard_time": 1742872760,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108277,
+        "num": 152224,
+        "word": "高伟光打球被放鸽子",
+        "onboard_time": 1742876062,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71437,
+        "num": 151844,
+        "word": "13岁男生向游戏大神转账被骗14万",
+        "onboard_time": 1742874921,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151604,
+        "num": 151604,
+        "word": "阿里巴巴将重启招聘",
+        "onboard_time": 1742873661,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151339,
+        "num": 151339,
+        "word": "萧敬腾谈方大同去世",
+        "onboard_time": 1742861781,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143969,
+        "num": 143969,
+        "word": "小米股价开盘大跌",
+        "onboard_time": 1742868380,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141226,
+        "num": 141226,
+        "word": "新男团NEWBEAT今日出道造型",
+        "onboard_time": 1742876783,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141054,
+        "num": 141054,
+        "word": "早睡真能解决身体80%以上的问题",
+        "onboard_time": 1742864841,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138391,
+        "num": 138391,
+        "word": "订婚强奸案男方上诉称未发生实质性关系",
+        "onboard_time": 1742873301,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135047,
+        "num": 135047,
+        "word": "李惠利梦到郑秀斌",
+        "onboard_time": 1742873000,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132369,
+        "num": 132369,
+        "word": "汪苏泷专辑",
+        "onboard_time": 1742876842,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130179,
+        "num": 130179,
+        "word": "爷爷从山上捡到一只怀孕野生布偶",
+        "onboard_time": 1742870300,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120200,
+        "num": 120200,
+        "word": "爷爷拔萝卜小兔子在一旁躺着吃",
+        "onboard_time": 1742859799,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#清风正气满乾坤#"
+    }
+  }
+}
