@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742910184070,
+  "endTime": 1742912704945,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -57,6 +57,14 @@
       "onboard_time": 1742877143,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1971909,
+      "num": 1322434,
+      "word": "国足 辱追",
+      "onboard_time": 1742907563,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 1785196,
@@ -139,20 +147,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1410461,
+      "num": 1410461,
+      "word": "被传患病网红夫妇质疑就餐后商场消杀",
+      "onboard_time": 1742908340,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1325759,
       "num": 1325759,
       "word": "跑男真把吴昕喊来了",
       "onboard_time": 1742891781,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1322434,
-      "num": 1322434,
-      "word": "国足 辱追",
-      "onboard_time": 1742907563,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 1263251,
@@ -195,6 +203,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1079863,
+      "num": 453963,
+      "word": "金赛纶给金秀贤写了信",
+      "onboard_time": 1742909782,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 982432,
       "num": 982432,
       "word": "小米YU7",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 950405,
-      "num": 401495,
+      "num": 449613,
       "word": "男德向王鹤棣道歉",
       "onboard_time": 1742904262,
       "rank": 10,
@@ -331,14 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 627613,
-      "num": 350511,
-      "word": "被传患病网红夫妇质疑就餐后商场消杀",
-      "onboard_time": 1742908340,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 603579,
       "num": 358345,
       "word": "金赛纶挚友回应",
@@ -353,6 +361,14 @@
       "onboard_time": 1742893761,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 590670,
+      "num": 590670,
+      "word": "骄傲的叶凡",
+      "onboard_time": 1742909421,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 589940,
@@ -475,6 +491,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 502691,
+      "num": 502691,
+      "word": "白鹿演技",
+      "onboard_time": 1742907563,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 502644,
+      "num": 502644,
+      "word": "U22国足不败夺冠",
+      "onboard_time": 1742910503,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496386,
       "num": 496386,
       "word": "多邻国崩了",
@@ -489,14 +521,6 @@
       "onboard_time": 1742874021,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 479499,
-      "num": 281739,
-      "word": "金赛纶给金秀贤写了信",
-      "onboard_time": 1742909782,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 475038,
@@ -531,6 +555,14 @@
       "category": "艺人,电影"
     },
     {
+      "raw_hot": 454291,
+      "num": 454291,
+      "word": "张远说晚婚是最后的倔强",
+      "onboard_time": 1742910383,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 438117,
       "num": 438117,
       "word": "电影学院失联女生半年没回过家",
@@ -547,19 +579,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 435717,
+      "num": 435717,
+      "word": "四川一小区疑高空抛物砸死快递员",
+      "onboard_time": 1742906421,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 427448,
       "num": 518969,
       "word": "福宝与公众再度见面",
       "onboard_time": 1742868020,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424790,
-      "num": 424790,
-      "word": "四川一小区疑高空抛物砸死快递员",
-      "onboard_time": 1742906421,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -601,6 +633,14 @@
       "onboard_time": 1742896461,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401272,
+      "num": 401272,
+      "word": "李晟 当",
+      "onboard_time": 1742910023,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 397308,
@@ -657,6 +697,14 @@
       "onboard_time": 1742824523,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368983,
+      "num": 445528,
+      "word": "超7万人现场见证国足0比2",
+      "onboard_time": 1742909542,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 367920,
@@ -787,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321517,
+      "num": 321517,
+      "word": "民间格格",
+      "onboard_time": 1742911224,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317674,
       "num": 334488,
       "word": "订婚案被害人曾明确反对婚前性行为",
@@ -801,14 +857,6 @@
       "onboard_time": 1742802802,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 314061,
-      "num": 357518,
-      "word": "白鹿演技",
-      "onboard_time": 1742907563,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 313514,
@@ -963,14 +1011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274402,
-      "num": 274402,
-      "word": "骄傲的叶凡",
-      "onboard_time": 1742909421,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271117,
       "num": 559078,
       "word": "国博凤冠冰箱贴销量破1000000",
@@ -1027,6 +1067,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 257963,
+      "num": 349432,
+      "word": "高空坠物砸死快递员2名肇事者被刑拘",
+      "onboard_time": 1742909182,
+      "rank": 26,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 255254,
+      "num": 255254,
+      "word": "吴倩和武汉樱花的十年之约",
+      "onboard_time": 1742911644,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247724,
       "num": 247724,
       "word": "王楚钦爆改乒乓球博主",
@@ -1041,14 +1097,6 @@
       "onboard_time": 1742863043,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 245943,
-      "num": 321540,
-      "word": "超7万人现场见证国足0比2",
-      "onboard_time": 1742909542,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 245374,
@@ -1116,7 +1164,7 @@
     },
     {
       "raw_hot": 227708,
-      "num": 227708,
+      "num": 463110,
       "word": "70588名观众创中国足球上座纪录",
       "onboard_time": 1742909542,
       "rank": 41,
@@ -1299,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204536,
+      "num": 204536,
+      "word": "棋士",
+      "onboard_time": 1742880742,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204441,
       "num": 204441,
       "word": "王楚钦左右开弓打乒乓球",
@@ -1313,6 +1369,14 @@
       "onboard_time": 1742895802,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203143,
+      "num": 203143,
+      "word": "她没有叫她庄夫人而是阮小姐",
+      "onboard_time": 1742910744,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 202902,
@@ -1337,6 +1401,14 @@
       "onboard_time": 1742887042,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201286,
+      "num": 201286,
+      "word": "警方回应小区疑高空抛物砸死快递员",
+      "onboard_time": 1742910922,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200788,
@@ -1411,6 +1483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 190200,
+      "num": 190200,
+      "word": "赵露思更新ins照",
+      "onboard_time": 1742905102,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188775,
       "num": 188775,
       "word": "国足直播",
@@ -1473,14 +1553,6 @@
       "onboard_time": 1742871141,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174388,
-      "num": 174388,
-      "word": "赵露思更新ins照",
-      "onboard_time": 1742905102,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 174209,
@@ -2019,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134430,
+      "num": 134430,
+      "word": "雷军回应凌晨五点多拍照",
+      "onboard_time": 1742908340,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 134217,
       "num": 311725,
       "word": "武汉樱花文创冰箱贴已被抢到断货",
@@ -2115,14 +2195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128309,
-      "num": 128309,
-      "word": "李晟 当",
-      "onboard_time": 1742910023,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128249,
       "num": 128249,
       "word": "金秀贤称给金赛纶的信是朋友信之一",
@@ -2155,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127521,
+      "num": 356143,
+      "word": "重庆动物园被指区别对待动物",
+      "onboard_time": 1742908940,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127475,
       "num": 354788,
       "word": "从此家用SUV有了理想型",
@@ -2179,22 +2259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124946,
-      "num": 356143,
-      "word": "重庆动物园被指区别对待动物",
-      "onboard_time": 1742908940,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124838,
-      "num": 124838,
-      "word": "雷军回应凌晨五点多拍照",
-      "onboard_time": 1742908340,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 124510,
       "num": 166920,
       "word": "奔跑吧13开工大合影",
@@ -2203,12 +2267,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123236,
+      "num": 123236,
+      "word": "警方通报快递员被高空坠物砸中身亡",
+      "onboard_time": 1742912663,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 123213,
       "num": 123213,
       "word": "用鸡柳把流浪狗骗回家一年后",
       "onboard_time": 1742882959,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123119,
+      "num": 123119,
+      "word": "浪姐投票",
+      "onboard_time": 1742912663,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 122870,
@@ -2315,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117277,
+      "num": 117277,
+      "word": "王鹤棣 潮州",
+      "onboard_time": 1742912482,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115884,
       "num": 315726,
       "word": "涉事医院回应工作人员私自处理胎盘",
@@ -2411,6 +2499,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 107082,
+      "num": 245985,
+      "word": "学校回应筷子插进男童鼻孔",
+      "onboard_time": 1742911824,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106616,
       "num": 123475,
       "word": "孟子义在奔跑吧有唱歌KPI吗",
@@ -2483,12 +2579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102924,
-      "num": 102924,
-      "word": "棋士",
-      "onboard_time": 1742880742,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 102196,
+      "num": 441018,
+      "word": "王大雷回应黄油手",
+      "onboard_time": 1742911644,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 101309,
@@ -2883,14 +2979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68539,
-      "num": 349432,
-      "word": "高空坠物砸死快递员2名肇事者被刑拘",
-      "onboard_time": 1742909182,
-      "rank": 26,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 68209,
       "num": 68209,
       "word": "陈都灵 傅大人马术精湛",
@@ -3059,12 +3147,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 58436,
+      "num": 331069,
+      "word": "合肥一公司被质疑入职规定过于严苛",
+      "onboard_time": 1742911644,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58333,
       "num": 58333,
       "word": "下一个台风",
       "onboard_time": 1742833939,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 58086,
+      "num": 437996,
+      "word": "一古城4000多具灭火器过期",
+      "onboard_time": 1742911522,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57227,
@@ -3473,6 +3577,14 @@
       "onboard_time": 1742887042,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24325,
+      "num": 127947,
+      "word": "詹俊说伊万纠错太晚",
+      "onboard_time": 1742911343,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 21780,

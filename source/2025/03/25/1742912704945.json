@@ -1,0 +1,410 @@
+{
+  "runTime": 1742912704945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2635212,
+        "num": 2635212,
+        "word": "李晟第一",
+        "onboard_time": 1742905702,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1410461,
+        "num": 1410461,
+        "word": "被传患病网红夫妇质疑就餐后商场消杀",
+        "onboard_time": 1742908340,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12400,
+        "num": 804372,
+        "word": "万千气象看江苏",
+        "onboard_time": 1742825783,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1971909,
+        "num": 777174,
+        "word": "国足 辱追",
+        "onboard_time": 1742907563,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590670,
+        "num": 590670,
+        "word": "骄傲的叶凡",
+        "onboard_time": 1742909421,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564937,
+        "num": 564937,
+        "word": "国足vs澳大利亚",
+        "onboard_time": 1742898741,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 502691,
+        "num": 502691,
+        "word": "白鹿演技",
+        "onboard_time": 1742907563,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 502644,
+        "num": 502644,
+        "word": "U22国足不败夺冠",
+        "onboard_time": 1742910503,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117951,
+        "num": 463110,
+        "word": "70588名观众创中国足球上座纪录",
+        "onboard_time": 1742909542,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454291,
+        "num": 454291,
+        "word": "张远说晚婚是最后的倔强",
+        "onboard_time": 1742910383,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1079863,
+        "num": 453963,
+        "word": "金赛纶给金秀贤写了信",
+        "onboard_time": 1742909782,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571309,
+        "num": 449613,
+        "word": "男德向王鹤棣道歉",
+        "onboard_time": 1742904262,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368983,
+        "num": 445528,
+        "word": "超7万人现场见证国足0比2",
+        "onboard_time": 1742909542,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102196,
+        "num": 441018,
+        "word": "王大雷回应黄油手",
+        "onboard_time": 1742911644,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58086,
+        "num": 437996,
+        "word": "一古城4000多具灭火器过期",
+        "onboard_time": 1742911522,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435717,
+        "num": 435717,
+        "word": "四川一小区疑高空抛物砸死快递员",
+        "onboard_time": 1742906421,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401272,
+        "num": 401272,
+        "word": "李晟 当",
+        "onboard_time": 1742910023,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336946,
+        "num": 336946,
+        "word": "金赛纶挚友回应",
+        "onboard_time": 1742905942,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331494,
+        "num": 331494,
+        "word": "赵露思小小的勇气0片酬",
+        "onboard_time": 1742897542,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58436,
+        "num": 331069,
+        "word": "合肥一公司被质疑入职规定过于严苛",
+        "onboard_time": 1742911644,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515988,
+        "num": 328971,
+        "word": "每天喝牛奶和从不喝牛奶的区别",
+        "onboard_time": 1742903602,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 463428,
+        "num": 327782,
+        "word": "孕妇1天尿出60个鸡蛋的蛋白质致早产",
+        "onboard_time": 1742905522,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453035,
+        "num": 326157,
+        "word": "马拉松一对男女亲密动作被拍到",
+        "onboard_time": 1742893043,
+        "rank": 22,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 372797,
+        "num": 324783,
+        "word": "跑男真把吴昕喊来了",
+        "onboard_time": 1742891781,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363496,
+        "num": 322988,
+        "word": "陶昕然离婚",
+        "onboard_time": 1742883681,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321517,
+        "num": 321517,
+        "word": "民间格格",
+        "onboard_time": 1742911224,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257963,
+        "num": 257963,
+        "word": "高空坠物砸死快递员2名肇事者被刑拘",
+        "onboard_time": 1742909182,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 255254,
+        "num": 255254,
+        "word": "吴倩和武汉樱花的十年之约",
+        "onboard_time": 1742911644,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254786,
+        "num": 254786,
+        "word": "国足0比2澳大利亚",
+        "onboard_time": 1742907501,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107082,
+        "num": 245985,
+        "word": "学校回应筷子插进男童鼻孔",
+        "onboard_time": 1742911824,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244085,
+        "num": 244085,
+        "word": "陶昕然曾给老公打电话大哭",
+        "onboard_time": 1742898803,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205361,
+        "num": 205361,
+        "word": "小区电梯失控从15楼滑坠至负一楼",
+        "onboard_time": 1742904742,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204536,
+        "num": 204536,
+        "word": "棋士",
+        "onboard_time": 1742911703,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203143,
+        "num": 203143,
+        "word": "她没有叫她庄夫人而是阮小姐",
+        "onboard_time": 1742910744,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201286,
+        "num": 201286,
+        "word": "警方回应小区疑高空抛物砸死快递员",
+        "onboard_time": 1742910922,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200957,
+        "num": 200957,
+        "word": "文在寅父女双双被检方调查",
+        "onboard_time": 1742897061,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190200,
+        "num": 190200,
+        "word": "赵露思更新ins照",
+        "onboard_time": 1742905102,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185614,
+        "num": 185614,
+        "word": "富士相纸",
+        "onboard_time": 1742901622,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 183504,
+        "num": 183504,
+        "word": "马拉松亲密事件拍摄者道歉",
+        "onboard_time": 1742894243,
+        "rank": 38,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 174678,
+        "num": 174678,
+        "word": "高泰宇退圈",
+        "onboard_time": 1742886562,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157291,
+        "num": 157291,
+        "word": "雁回时",
+        "onboard_time": 1742898141,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151705,
+        "num": 151705,
+        "word": "韩安冉妈妈为亲家母发声",
+        "onboard_time": 1742902580,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135504,
+        "num": 135504,
+        "word": "上3休2再上4休3",
+        "onboard_time": 1742893761,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134430,
+        "num": 134430,
+        "word": "雷军回应凌晨五点多拍照",
+        "onboard_time": 1742908340,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133519,
+        "num": 133519,
+        "word": "杨紫簪中录台湾待播海报",
+        "onboard_time": 1742902761,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24325,
+        "num": 127947,
+        "word": "詹俊说伊万纠错太晚",
+        "onboard_time": 1742911343,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127521,
+        "num": 127521,
+        "word": "重庆动物园被指区别对待动物",
+        "onboard_time": 1742908940,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123236,
+        "num": 123236,
+        "word": "警方通报快递员被高空坠物砸中身亡",
+        "onboard_time": 1742912663,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 123119,
+        "num": 123119,
+        "word": "浪姐投票",
+        "onboard_time": 1742912663,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117277,
+        "num": 117277,
+        "word": "王鹤棣 潮州",
+        "onboard_time": 1742912482,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调八项规定是刚性的#"
+    }
+  }
+}
