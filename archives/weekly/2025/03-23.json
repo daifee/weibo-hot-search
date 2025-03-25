@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742892275901,
+  "endTime": 1742894806808,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1325759,
+      "num": 1325759,
+      "word": "跑男真把吴昕喊来了",
+      "onboard_time": 1742891781,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1311466,
       "num": 1311466,
       "word": "多邻国崩了",
@@ -457,6 +465,14 @@
       "onboard_time": 1742785519,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 964667,
+      "num": 964667,
+      "word": "马拉松一对男女亲密动作被拍到",
+      "onboard_time": 1742893043,
+      "rank": 1,
+      "category": "民生新闻,运动健身"
     },
     {
       "raw_hot": 945289,
@@ -657,6 +673,14 @@
       "onboard_time": 1742860461,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 785770,
+      "num": 534291,
+      "word": "浪姐6黑马",
+      "onboard_time": 1742892621,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 780526,
@@ -1411,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440913,
+      "num": 440913,
+      "word": "上3休2再上4休3",
+      "onboard_time": 1742893761,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 438117,
       "num": 438117,
       "word": "电影学院失联女生半年没回过家",
@@ -1915,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329806,
+      "num": 369635,
+      "word": "订婚强奸案母亲回应没取退还彩礼",
+      "onboard_time": 1742891000,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329100,
       "num": 329100,
       "word": "冰壶",
@@ -2412,7 +2452,7 @@
     },
     {
       "raw_hot": 271117,
-      "num": 370187,
+      "num": 454709,
       "word": "国博凤冠冰箱贴销量破1000000",
       "onboard_time": 1742886082,
       "rank": 41,
@@ -2465,14 +2505,6 @@
       "onboard_time": 1742794585,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 267919,
-      "num": 267919,
-      "word": "跑男真把吴昕喊来了",
-      "onboard_time": 1742891781,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 267711,
@@ -2787,6 +2819,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 230285,
+      "num": 230285,
+      "word": "翟子路晒白鹿婚纱照",
+      "onboard_time": 1742892562,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229862,
       "num": 259885,
       "word": "哪吒2超153亿",
@@ -2905,6 +2945,14 @@
       "onboard_time": 1742887522,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221793,
+      "num": 221793,
+      "word": "胖东来公开人员流失率",
+      "onboard_time": 1742891180,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 220663,
@@ -3027,6 +3075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212562,
+      "num": 212562,
+      "word": "订婚强奸案",
+      "onboard_time": 1742894002,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212162,
       "num": 212162,
       "word": "庄寒雁背尸赴刑场",
@@ -3057,14 +3113,6 @@
       "onboard_time": 1742655382,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 211744,
-      "num": 211744,
-      "word": "胖东来公开人员流失率",
-      "onboard_time": 1742891180,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 210981,
@@ -3105,6 +3153,14 @@
       "onboard_time": 1742727439,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207803,
+      "num": 207803,
+      "word": "减肥管不住嘴试试这个方法",
+      "onboard_time": 1742892742,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 207747,
@@ -3249,6 +3305,14 @@
       "onboard_time": 1742781801,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 202902,
+      "num": 202902,
+      "word": "刘诗诗 你好星期六",
+      "onboard_time": 1742891781,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 202513,
@@ -3473,14 +3537,6 @@
       "onboard_time": 1742720479,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 194082,
-      "num": 194082,
-      "word": "刘诗诗 你好星期六",
-      "onboard_time": 1742891781,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 192289,
@@ -4883,6 +4939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 146331,
+      "num": 146331,
+      "word": "陶昕然说走散了很遗憾",
+      "onboard_time": 1742889202,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146235,
       "num": 146235,
       "word": "脾胃虚到底能不能吃水果",
@@ -5387,14 +5451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133974,
-      "num": 369635,
-      "word": "订婚强奸案母亲回应没取退还彩礼",
-      "onboard_time": 1742891000,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133969,
       "num": 133969,
       "word": "姚琛工作室的官宣文案好好哭",
@@ -5771,6 +5827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125082,
+      "num": 343867,
+      "word": "马拉松亲密事件拍摄者道歉",
+      "onboard_time": 1742894243,
+      "rank": 13,
+      "category": "民生新闻,运动健身"
+    },
+    {
       "raw_hot": 124964,
       "num": 176388,
       "word": "胡先煦F1现场生图",
@@ -6027,6 +6091,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 119825,
+      "num": 369457,
+      "word": "长沙中考对高层次人才子女实行单列",
+      "onboard_time": 1742891121,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119819,
       "num": 119819,
       "word": "库克大赞DeepSeek",
@@ -6131,6 +6203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116640,
+      "num": 116640,
+      "word": "杭州场外国足球迷祝福太有梗了",
+      "onboard_time": 1742893822,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116610,
       "num": 116610,
       "word": "种地吧真的做到了授人以渔",
@@ -6185,6 +6265,14 @@
       "onboard_time": 1742705901,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115154,
+      "num": 115154,
+      "word": "用人单位回应博士生月薪1500元",
+      "onboard_time": 1742893461,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114815,
@@ -6723,6 +6811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 104061,
+      "num": 104061,
+      "word": "世界之外死神副本",
+      "onboard_time": 1742894481,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103461,
       "num": 103461,
       "word": "丁程鑫开场舞杀疯了",
@@ -6883,6 +6979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99614,
+      "num": 99614,
+      "word": "澳大利亚男足杭州citywalk",
+      "onboard_time": 1742893102,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99613,
       "num": 99613,
       "word": "欧国联",
@@ -6899,6 +7003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99419,
+      "num": 99419,
+      "word": "成都两男子用弹弓射击保护动物已被传唤",
+      "onboard_time": 1742892742,
+      "rank": 40,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 99389,
       "num": 144636,
       "word": "王俊凯简约摩登风",
@@ -6913,6 +7025,14 @@
       "onboard_time": 1742805082,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99112,
+      "num": 99112,
+      "word": "适合春天做的瘦身操",
+      "onboard_time": 1742894481,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 98649,
@@ -7249,6 +7369,14 @@
       "onboard_time": 1742687779,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86483,
+      "num": 86483,
+      "word": "一句价值连城招来六个贼惦记",
+      "onboard_time": 1742894782,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 86224,
@@ -7795,6 +7923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64607,
+      "num": 86931,
+      "word": "马龙一秒热场",
+      "onboard_time": 1742893341,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64132,
       "num": 64132,
       "word": "洗发水解决不了脱发问题",
@@ -7825,14 +7961,6 @@
       "onboard_time": 1742804182,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63825,
-      "num": 369457,
-      "word": "长沙中考对高层次人才子女实行单列",
-      "onboard_time": 1742891121,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 63399,
@@ -8041,6 +8169,14 @@
       "onboard_time": 1742819542,
       "rank": 40,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 54853,
+      "num": 124165,
+      "word": "订婚强奸案男子父亲最新发声",
+      "onboard_time": 1742894602,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54402,
@@ -8449,6 +8585,14 @@
       "onboard_time": 1742685076,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 36173,
+      "num": 332360,
+      "word": "当不结婚的我决定做一个妈妈",
+      "onboard_time": 1742893822,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35129,
@@ -8899,6 +9043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24250,
+      "num": 699084,
+      "word": "我国开辟油气勘探开发新领域",
+      "onboard_time": 1742894182,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23495,
       "num": 183238,
       "word": "2025汉马最小冠军仅15岁",
@@ -8913,6 +9065,14 @@
       "onboard_time": 1742745500,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 21780,
+      "num": 122493,
+      "word": "被拉进群记者驳斥美防长说法",
+      "onboard_time": 1742893102,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21383,
@@ -9241,6 +9401,9 @@
     },
     {
       "word": "#清风正气满乾坤#"
+    },
+    {
+      "word": "#习近平强调八项规定是刚性的#"
     }
   ]
 }
