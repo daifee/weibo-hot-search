@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742917344281,
+  "endTime": 1742920144304,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -923,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 678909,
+      "num": 185816,
+      "word": "苗苗郑恺搬家",
+      "onboard_time": 1742916382,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 675405,
       "num": 616505,
       "word": "小花给邓超做了绿色猫眼美甲",
@@ -1233,14 +1241,6 @@
       "onboard_time": 1742723360,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 557335,
-      "num": 185816,
-      "word": "苗苗郑恺搬家",
-      "onboard_time": 1742916382,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 555808,
@@ -2899,6 +2899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 269637,
+      "num": 173678,
+      "word": "第一届浪姐就已经邀请阚清子了",
+      "onboard_time": 1742914163,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269588,
       "num": 200797,
       "word": "霍思燕牵着嗯哼逛街",
@@ -3241,6 +3249,14 @@
       "onboard_time": 1742741601,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 234395,
+      "num": 234395,
+      "word": "美国就与俄罗斯会谈发表声明",
+      "onboard_time": 1742916562,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 233863,
@@ -4363,6 +4379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185940,
+      "num": 185940,
+      "word": "订婚强奸案家属称公诉人坚持被告有罪",
+      "onboard_time": 1742916621,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185612,
       "num": 331069,
       "word": "合肥一公司被质疑入职规定过于严苛",
@@ -4561,14 +4585,6 @@
       "onboard_time": 1742703081,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173678,
-      "num": 173678,
-      "word": "第一届浪姐就已经邀请阚清子了",
-      "onboard_time": 1742914163,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 173593,
@@ -6364,7 +6380,7 @@
     },
     {
       "raw_hot": 132374,
-      "num": 132374,
+      "num": 172049,
       "word": "奔跑吧今天跑进湖北广电",
       "onboard_time": 1742916981,
       "rank": 39,
@@ -6779,6 +6795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123542,
+      "num": 123542,
+      "word": "美国称欢迎第三国斡旋",
+      "onboard_time": 1742918481,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123504,
       "num": 219155,
       "word": "浪姐6没有太多的野心家",
@@ -6849,14 +6873,6 @@
       "onboard_time": 1742871979,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122452,
-      "num": 217338,
-      "word": "美国就与俄罗斯会谈发表声明",
-      "onboard_time": 1742916562,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 122392,
@@ -7529,6 +7545,14 @@
       "onboard_time": 1742702300,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 107815,
+      "num": 102798,
+      "word": "京城双姝",
+      "onboard_time": 1742918300,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 107788,
@@ -8491,12 +8515,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78890,
+      "num": 179085,
+      "word": "订婚强奸案双方曾短暂达成一致",
+      "onboard_time": 1742916621,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78856,
       "num": 173286,
       "word": "世纪婴儿3月初开始发烧和腹疼",
       "onboard_time": 1742824642,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78684,
+      "num": 78684,
+      "word": "陆配发表统一言论被限期离台",
+      "onboard_time": 1742914404,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 78562,
@@ -8553,6 +8593,14 @@
       "onboard_time": 1742772079,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 77079,
+      "num": 77079,
+      "word": "父女徒步6年女儿1年内长高10厘米",
+      "onboard_time": 1742919559,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76563,
@@ -8899,6 +8947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65544,
+      "num": 75186,
+      "word": "赵锐 大祥哥",
+      "onboard_time": 1742918000,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 65538,
       "num": 65538,
       "word": "小傲道歉",
@@ -8961,6 +9017,14 @@
       "onboard_time": 1742744660,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 64048,
+      "num": 75173,
+      "word": "王楚钦抵达北京",
+      "onboard_time": 1742917343,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 63955,
@@ -9547,14 +9611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42732,
-      "num": 180306,
-      "word": "订婚强奸案家属称公诉人坚持被告有罪",
-      "onboard_time": 1742916621,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42715,
       "num": 399143,
       "word": "中澳之战球票已炒至近万元",
@@ -9707,12 +9763,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38272,
-      "num": 179085,
-      "word": "订婚强奸案双方曾短暂达成一致",
-      "onboard_time": 1742916621,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 38885,
+      "num": 112516,
+      "word": "前TVB男星蔡子健转行教书",
+      "onboard_time": 1742919620,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 37679,
