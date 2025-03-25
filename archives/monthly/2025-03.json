@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742871825784,
+  "endTime": 1742872354169,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2874896,
+      "num": 342684,
+      "word": "鹿晗和关晓彤都去了寺庙",
+      "onboard_time": 1742869700,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2866173,
       "num": 253282,
       "word": "海底捞回应有人往火锅撒尿",
@@ -561,14 +569,6 @@
       "onboard_time": 1741269562,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 2682274,
-      "num": 342684,
-      "word": "鹿晗和关晓彤都去了寺庙",
-      "onboard_time": 1742869700,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2654811,
@@ -7833,6 +7833,14 @@
       "onboard_time": 1741711639,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 747264,
+      "num": 1119562,
+      "word": "订婚强奸案男方已被羁押690天",
+      "onboard_time": 1742870842,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 746668,
@@ -20347,6 +20355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308217,
+      "num": 308217,
+      "word": "福宝去年异常抖动后已静养100多天",
+      "onboard_time": 1742869161,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307909,
       "num": 232654,
       "word": "田曦薇逐玉杀青捧花照",
@@ -21307,14 +21323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 292560,
-      "num": 292560,
-      "word": "福宝去年异常抖动后已静养100多天",
-      "onboard_time": 1742869161,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 292496,
       "num": 279604,
       "word": "有网友凌晨蹲点退税退了5万多",
@@ -21385,6 +21393,14 @@
       "onboard_time": 1741328783,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291440,
+      "num": 265993,
+      "word": "爷爷从山上捡到一只怀孕野生布偶",
+      "onboard_time": 1742870300,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 291356,
@@ -22059,6 +22075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281388,
+      "num": 277861,
+      "word": "郭晓婷主演念无双",
+      "onboard_time": 1742870300,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281348,
       "num": 239330,
       "word": "王彦霖说来参加陈立农婚礼",
@@ -22153,14 +22177,6 @@
       "onboard_time": 1741404560,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 279888,
-      "num": 331588,
-      "word": "订婚强奸案男方已被羁押690天",
-      "onboard_time": 1742870842,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 279863,
@@ -22649,6 +22665,14 @@
       "onboard_time": 1742809822,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273352,
+      "num": 273352,
+      "word": "李晟镜头",
+      "onboard_time": 1742871800,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 273321,
@@ -23225,14 +23249,6 @@
       "onboard_time": 1741401081,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265993,
-      "num": 265993,
-      "word": "爷爷从山上捡到一只怀孕野生布偶",
-      "onboard_time": 1742870300,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 265844,
@@ -25003,6 +25019,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 245368,
+      "num": 186226,
+      "word": "DeepSeek预测国足出线概率",
+      "onboard_time": 1742871082,
+      "rank": 32,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 245323,
       "num": 217191,
       "word": "小孩哥手机店打游戏成全场屏保",
@@ -26657,6 +26681,14 @@
       "onboard_time": 1740832163,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228986,
+      "num": 202585,
+      "word": "吃着不甜但热量爆炸的水果",
+      "onboard_time": 1742870300,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 228976,
@@ -28955,14 +28987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212167,
-      "num": 235330,
-      "word": "郭晓婷主演念无双",
-      "onboard_time": 1742870300,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212162,
       "num": 212162,
       "word": "庄寒雁背尸赴刑场",
@@ -30929,14 +30953,6 @@
       "onboard_time": 1741742183,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202585,
-      "num": 202585,
-      "word": "吃着不甜但热量爆炸的水果",
-      "onboard_time": 1742870300,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 202552,
@@ -36969,14 +36985,6 @@
       "onboard_time": 1741571240,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176613,
-      "num": 176613,
-      "word": "DeepSeek预测国足出线概率",
-      "onboard_time": 1742871082,
-      "rank": 32,
-      "category": "体育,互联网"
     },
     {
       "raw_hot": 176552,
@@ -47563,6 +47571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139647,
+      "num": 202663,
+      "word": "这一把火是她绝望的自救",
+      "onboard_time": 1742868799,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139604,
       "num": 139604,
       "word": "林更新陈赫把嫌弃写在了脸上",
@@ -49825,14 +49841,6 @@
       "onboard_time": 1742654783,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131811,
-      "num": 202663,
-      "word": "这一把火是她绝望的自救",
-      "onboard_time": 1742868799,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 131793,
@@ -52923,6 +52931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122544,
+      "num": 122544,
+      "word": "棋士128秒把人性扒光",
+      "onboard_time": 1742871979,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122535,
       "num": 122535,
       "word": "周德睿被查",
@@ -53224,6 +53240,14 @@
       "word": "刘浩存戏外姐姐戏里妈妈",
       "onboard_time": 1741512440,
       "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 121723,
+      "num": 202615,
+      "word": "哪吒2联名卡炒到18.88万",
+      "onboard_time": 1742870360,
+      "rank": 28,
       "category": "电影"
     },
     {
@@ -53961,14 +53985,6 @@
       "onboard_time": 1741789223,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119387,
-      "num": 202615,
-      "word": "哪吒2联名卡炒到18.88万",
-      "onboard_time": 1742870360,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 119379,
@@ -57803,14 +57819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106968,
-      "num": 106968,
-      "word": "李晟镜头",
-      "onboard_time": 1742871800,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106922,
       "num": 157492,
       "word": "高圆圆许愿2025三部戏顺利播出",
@@ -58097,6 +58105,14 @@
       "onboard_time": 1742264482,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105973,
+      "num": 105973,
+      "word": "1套房爆改3套的爱情公寓",
+      "onboard_time": 1742872220,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 105970,
@@ -58521,6 +58537,14 @@
       "onboard_time": 1741404501,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 104745,
+      "num": 304471,
+      "word": "山西订婚强奸案双方恋爱时间线",
+      "onboard_time": 1742870902,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104718,
@@ -59513,6 +59537,14 @@
       "onboard_time": 1741484480,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100943,
+      "num": 311725,
+      "word": "武汉樱花文创冰箱贴已被抢到断货",
+      "onboard_time": 1742871321,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100921,
@@ -61483,6 +61515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93599,
+      "num": 184046,
+      "word": "五年一贯制大专怎么变成了中专",
+      "onboard_time": 1742872220,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 93598,
       "num": 93598,
       "word": "杨天真说我也感觉到35岁危机",
@@ -62809,6 +62849,14 @@
       "onboard_time": 1741336101,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87754,
+      "num": 292773,
+      "word": "梳理山西订婚强奸案始末",
+      "onboard_time": 1742871141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87692,
@@ -65171,14 +65219,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 73877,
-      "num": 292773,
-      "word": "梳理山西订婚强奸案始末",
-      "onboard_time": 1742871141,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73869,
       "num": 73869,
       "word": "宋亚轩模仿哪吒",
@@ -65537,14 +65577,6 @@
       "onboard_time": 1741394240,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 71975,
-      "num": 304471,
-      "word": "山西订婚强奸案双方恋爱时间线",
-      "onboard_time": 1742870902,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71850,
@@ -66827,6 +66859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64633,
+      "num": 343776,
+      "word": "北京大风黄色预警",
+      "onboard_time": 1742870240,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64631,
       "num": 245829,
       "word": "祁煜至死不渝",
@@ -67833,14 +67873,6 @@
       "onboard_time": 1742497574,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58946,
-      "num": 343776,
-      "word": "北京大风黄色预警",
-      "onboard_time": 1742870240,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58930,
@@ -71091,14 +71123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 43468,
-      "num": 311725,
-      "word": "武汉樱花文创冰箱贴已被抢到断货",
-      "onboard_time": 1742871321,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43428,
       "num": 234867,
       "word": "极氪CEO智驾直播首秀",
@@ -71585,6 +71609,14 @@
       "onboard_time": 1741353742,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41406,
+      "num": 202600,
+      "word": "这才是想象中的大学黑板啊",
+      "onboard_time": 1742871141,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 41388,
@@ -74323,6 +74355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30318,
+      "num": 182703,
+      "word": "雁回时编剧在线辟谣融梗",
+      "onboard_time": 1742872041,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30315,
       "num": 345205,
       "word": "各国外交官看完哪吒2会唱rap了",
@@ -74675,6 +74715,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 29064,
+      "num": 185244,
+      "word": "北京局地阵风达10级以上",
+      "onboard_time": 1742872041,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28977,
       "num": 35721,
       "word": "国足用完5个换人名额",
@@ -74833,6 +74881,14 @@
       "onboard_time": 1742068515,
       "rank": 46,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 28403,
+      "num": 267240,
+      "word": "国足目前积6分排名垫底",
+      "onboard_time": 1742871561,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 28386,
@@ -75131,28 +75187,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27157,
-      "num": 202600,
-      "word": "这才是想象中的大学黑板啊",
-      "onboard_time": 1742871141,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 27143,
       "num": 204349,
       "word": "福利院为残障孤独症青少年创办咖啡厅",
       "onboard_time": 1741350622,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 27135,
-      "num": 267240,
-      "word": "国足目前积6分排名垫底",
-      "onboard_time": 1742871561,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 27110,

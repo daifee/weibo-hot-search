@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742871825784,
+  "endTime": 1742872354169,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2099,6 +2099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2874896,
+      "num": 342684,
+      "word": "鹿晗和关晓彤都去了寺庙",
+      "onboard_time": 1742869700,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2873262,
       "num": 1070739,
       "word": "金赛纶 金秀贤",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740307820,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2740253,
-      "num": 2740253,
-      "word": "刘涛 妈祖援藏",
-      "onboard_time": 1738071886,
-      "rank": 8,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
