@@ -1,0 +1,410 @@
+{
+  "runTime": 1742891460209,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1840849,
+        "num": 1840849,
+        "word": "陶昕然离婚",
+        "onboard_time": 1742883681,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 846772,
+        "num": 846772,
+        "word": "小米YU7",
+        "onboard_time": 1742887102,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38174,
+        "num": 774661,
+        "word": "中国能源有底气",
+        "onboard_time": 1742872820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1551650,
+        "num": 772918,
+        "word": "高泰宇退圈",
+        "onboard_time": 1742886562,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1263251,
+        "num": 772272,
+        "word": "检方仍认定订婚强奸案有实际性行为",
+        "onboard_time": 1742888482,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 755005,
+        "num": 755005,
+        "word": "官方称17岁女孩代孕产子属实",
+        "onboard_time": 1742889502,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636636,
+        "num": 636636,
+        "word": "我的后半生定档",
+        "onboard_time": 1742886982,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 616505,
+        "num": 616505,
+        "word": "小花给邓超做了绿色猫眼美甲",
+        "onboard_time": 1742888902,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370260,
+        "num": 370260,
+        "word": "订婚3年未结婚女方被要求返还18万",
+        "onboard_time": 1742883501,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271117,
+        "num": 370187,
+        "word": "国博凤冠冰箱贴销量破1000000",
+        "onboard_time": 1742886082,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20884,
+        "num": 369986,
+        "word": "杭州承办世界杯预选赛赚钱吗",
+        "onboard_time": 1742890643,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69614,
+        "num": 369635,
+        "word": "订婚强奸案母亲回应没取退还彩礼",
+        "onboard_time": 1742891000,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17505,
+        "num": 369457,
+        "word": "长沙中考对高层次人才子女实行单列",
+        "onboard_time": 1742891121,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 40966,
+        "num": 369201,
+        "word": "亲属还在遗产为何收归国有",
+        "onboard_time": 1742890522,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42343,
+        "num": 368882,
+        "word": "苏翊鸣被对手激发斗志",
+        "onboard_time": 1742889682,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170760,
+        "num": 368670,
+        "word": "国足vs澳大利亚23人名单公布",
+        "onboard_time": 1742890223,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472052,
+        "num": 368279,
+        "word": "王鹤棣告了男德",
+        "onboard_time": 1742877143,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440836,
+        "num": 368015,
+        "word": "浪姐6是不是押错宝了",
+        "onboard_time": 1742879063,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367920,
+        "num": 367920,
+        "word": "杨迪晒张杰送的新款水杯",
+        "onboard_time": 1742888181,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92439,
+        "num": 334488,
+        "word": "订婚案被害人曾明确反对婚前性行为",
+        "onboard_time": 1742890102,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333050,
+        "num": 333050,
+        "word": "下周上四休三不调休",
+        "onboard_time": 1742872642,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317438,
+        "num": 317438,
+        "word": "21岁背女送外卖的单亲妈妈买房了",
+        "onboard_time": 1742882361,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175292,
+        "num": 293339,
+        "word": "张极有驾照了",
+        "onboard_time": 1742891243,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269646,
+        "num": 269646,
+        "word": "王者荣耀",
+        "onboard_time": 1742888423,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263612,
+        "num": 263612,
+        "word": "原来应届生身份这么有用",
+        "onboard_time": 1742882901,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239342,
+        "num": 239342,
+        "word": "男德",
+        "onboard_time": 1742878163,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233407,
+        "num": 233407,
+        "word": "男子跑马心脏骤停醒来就问完赛包",
+        "onboard_time": 1742881400,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216520,
+        "num": 216520,
+        "word": "NJZ 告五人",
+        "onboard_time": 1742887522,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208189,
+        "num": 208189,
+        "word": "陶喆美甲",
+        "onboard_time": 1742887883,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12762,
+        "num": 204350,
+        "word": "重庆春日限定浪漫你绝不能错过",
+        "onboard_time": 1742890643,
+        "rank": 29,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 202503,
+        "num": 202503,
+        "word": "白鹿北上婚纱9宫格",
+        "onboard_time": 1742887042,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179614,
+        "num": 179614,
+        "word": "楼面价77409元一平杭州最贵地价诞生",
+        "onboard_time": 1742884161,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177558,
+        "num": 177558,
+        "word": "世界之外",
+        "onboard_time": 1742891243,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160730,
+        "num": 160730,
+        "word": "赵露思 定制综艺",
+        "onboard_time": 1742873900,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158911,
+        "num": 158911,
+        "word": "胖东来公开人员流失率",
+        "onboard_time": 1742891180,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156404,
+        "num": 156404,
+        "word": "林俊杰ins晒了Jennie专辑to签",
+        "onboard_time": 1742886743,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152707,
+        "num": 152707,
+        "word": "董事长被指马拉松上与女子举止亲密",
+        "onboard_time": 1742877022,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122314,
+        "num": 152269,
+        "word": "最新网络安全报告详细披露美监听窃密",
+        "onboard_time": 1742891300,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151867,
+        "num": 151867,
+        "word": "山西大同订婚强奸案历经三次延期",
+        "onboard_time": 1742888960,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144578,
+        "num": 144578,
+        "word": "坏了他是真写过论文",
+        "onboard_time": 1742887822,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138020,
+        "num": 138020,
+        "word": "林允儿上海活动",
+        "onboard_time": 1742891000,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135011,
+        "num": 135011,
+        "word": "孩子被骗让妈妈卡里仅剩几毛钱",
+        "onboard_time": 1742879243,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135007,
+        "num": 135007,
+        "word": "终于有剧的打戏不敷衍观众了",
+        "onboard_time": 1742890881,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132111,
+        "num": 132111,
+        "word": "雷军小米YU7樱花照",
+        "onboard_time": 1742880321,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131449,
+        "num": 131449,
+        "word": "女生高铁上提醒男子勿脱鞋放脚被打",
+        "onboard_time": 1742865859,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130979,
+        "num": 130979,
+        "word": "王楚钦调侃说冠军没少拿",
+        "onboard_time": 1742885242,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30646,
+        "num": 129281,
+        "word": "杜兰特38分",
+        "onboard_time": 1742884942,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128193,
+        "num": 128193,
+        "word": "唐嫣 古偶",
+        "onboard_time": 1742876062,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125274,
+        "num": 125274,
+        "word": "半熟恋人4官宣祝绪丹",
+        "onboard_time": 1742889322,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120908,
+        "num": 120908,
+        "word": "订婚强奸案男方目前仍需服刑405天",
+        "onboard_time": 1742887702,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈今年党建工作的重点任务#"
+    }
+  }
+}
