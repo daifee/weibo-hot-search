@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742934410266,
+  "endTime": 1742935200235,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -10659,6 +10659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 19335,
+      "num": 19335,
+      "word": "春季叠穿技巧",
+      "onboard_time": 1742934134,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 19215,
       "num": 364685,
       "word": "张本智和希望世乒赛拿到奖牌",
@@ -10689,6 +10697,14 @@
       "onboard_time": 1742668935,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18104,
+      "num": 18104,
+      "word": "美俄乌同意黑海确保航行安全",
+      "onboard_time": 1742934433,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18050,
@@ -10795,20 +10811,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14986,
+      "num": 28047,
+      "word": "国足再双杀印尼巴林就稳稳出线",
+      "onboard_time": 1742934433,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14978,
       "num": 15514,
       "word": "欧豪谢望和成长型男主",
       "onboard_time": 1742843534,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14887,
-      "num": 14887,
-      "word": "春季叠穿技巧",
-      "onboard_time": 1742934134,
-      "rank": 47,
-      "category": "时尚"
     },
     {
       "raw_hot": 14618,
@@ -10891,6 +10907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 12472,
+      "num": 19519,
+      "word": "波音希望美新一届政府减轻处罚",
+      "onboard_time": 1742933234,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 12126,
       "num": 20878,
       "word": "乌方仍在原地等待美俄会晤结果",
@@ -10915,12 +10939,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10882,
-      "num": 17192,
-      "word": "波音希望美新一届政府减轻处罚",
-      "onboard_time": 1742933234,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 11195,
+      "num": 44153,
+      "word": "武警化身人体闸机安全感拉满",
+      "onboard_time": 1742933834,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10742,
@@ -10945,14 +10969,6 @@
       "onboard_time": 1742926276,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9569,
-      "num": 44153,
-      "word": "武警化身人体闸机安全感拉满",
-      "onboard_time": 1742933834,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9297,
