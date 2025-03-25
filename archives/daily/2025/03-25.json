@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742872354169,
+  "endTime": 1742874524288,
   "band_list": [
     {
       "raw_hot": 3092132,
@@ -27,12 +27,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1480296,
+      "num": 1480296,
+      "word": "订婚强奸案男方已被羁押690天",
+      "onboard_time": 1742870842,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1457807,
       "num": 539239,
       "word": "山西订婚强奸案男子母亲发声",
       "onboard_time": 1742861661,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1243863,
+      "num": 296359,
+      "word": "前男友说金赛纶的死与金秀贤无关",
+      "onboard_time": 1742872580,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1220139,
@@ -51,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 805826,
+      "num": 805826,
+      "word": "李晟镜头",
+      "onboard_time": 1742871800,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 791873,
       "num": 791873,
       "word": "野狗骨头 张婧仪",
@@ -59,19 +83,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 747264,
-      "num": 1119562,
-      "word": "订婚强奸案男方已被羁押690天",
-      "onboard_time": 1742870842,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 742575,
       "num": 213576,
       "word": "27岁女孩每天打3份工战胜不死癌症",
       "onboard_time": 1742827042,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 683632,
+      "num": 683632,
+      "word": "下周上四休三不调休",
+      "onboard_time": 1742872642,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -144,6 +168,14 @@
       "word": "电影学院失联女生半年没回过家",
       "onboard_time": 1742828124,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437526,
+      "num": 437526,
+      "word": "福宝去年异常抖动后已静养100多天",
+      "onboard_time": 1742869161,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -235,12 +267,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 308217,
-      "num": 308217,
-      "word": "福宝去年异常抖动后已静养100多天",
-      "onboard_time": 1742869161,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 308973,
+      "num": 202585,
+      "word": "吃着不甜但热量爆炸的水果",
+      "onboard_time": 1742870300,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 306236,
@@ -291,14 +323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273352,
-      "num": 273352,
-      "word": "李晟镜头",
-      "onboard_time": 1742871800,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269003,
       "num": 269003,
       "word": "茶百道发文致歉",
@@ -315,20 +339,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 250502,
+      "num": 186226,
+      "word": "DeepSeek预测国足出线概率",
+      "onboard_time": 1742871082,
+      "rank": 32,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 246697,
       "num": 246697,
       "word": "美军空袭也门计划离谱泄密",
       "onboard_time": 1742863043,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 245368,
-      "num": 186226,
-      "word": "DeepSeek预测国足出线概率",
-      "onboard_time": 1742871082,
-      "rank": 32,
-      "category": "体育,互联网"
     },
     {
       "raw_hot": 242684,
@@ -339,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228986,
-      "num": 202585,
-      "word": "吃着不甜但热量爆炸的水果",
-      "onboard_time": 1742870300,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 217409,
       "num": 217409,
       "word": "虞书欣的头纱上都是细节",
@@ -355,12 +371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217205,
+      "num": 217205,
+      "word": "赵露思 定制综艺",
+      "onboard_time": 1742873900,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214237,
       "num": 214237,
       "word": "网传医院工作人员疑私下处理胎盘",
       "onboard_time": 1742843414,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213803,
+      "num": 176070,
+      "word": "赵露思小小的勇气向阳海报",
+      "onboard_time": 1742872941,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 209789,
@@ -377,6 +409,22 @@
       "onboard_time": 1742827823,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192209,
+      "num": 192209,
+      "word": "棋士开播",
+      "onboard_time": 1742872760,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191603,
+      "num": 191603,
+      "word": "徐明浩费加罗开季双封面",
+      "onboard_time": 1742873962,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187247,
@@ -401,6 +449,22 @@
       "onboard_time": 1742866820,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176423,
+      "num": 292773,
+      "word": "梳理山西订婚强奸案始末",
+      "onboard_time": 1742871141,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174209,
+      "num": 174209,
+      "word": "A股",
+      "onboard_time": 1742873181,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 173213,
@@ -467,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160964,
+      "num": 160964,
+      "word": "李惠利梦到郑秀斌",
+      "onboard_time": 1742873000,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159356,
       "num": 171989,
       "word": "王一博即将再次向赛道发起挑战",
@@ -489,6 +561,14 @@
       "onboard_time": 1742870420,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149773,
+      "num": 149773,
+      "word": "王宝强窝囊废赛道的纯元回宫",
+      "onboard_time": 1742874082,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 147808,
@@ -515,6 +595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141440,
+      "num": 141440,
+      "word": "湖南14岁少年疑校内遭围殴致死",
+      "onboard_time": 1742874021,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140700,
       "num": 167915,
       "word": "野狗骨头",
@@ -539,6 +627,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137549,
+      "num": 137549,
+      "word": "阿里巴巴将重启招聘",
+      "onboard_time": 1742873661,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 136524,
+      "num": 136524,
+      "word": "蚂蚁集团取得重大AI突破",
+      "onboard_time": 1742872701,
+      "rank": 38,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 134217,
+      "num": 311725,
+      "word": "武汉樱花文创冰箱贴已被抢到断货",
+      "onboard_time": 1742871321,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133804,
       "num": 133804,
       "word": "出现6个症状警惕心肌炎",
@@ -556,11 +668,19 @@
     },
     {
       "raw_hot": 132183,
-      "num": 132183,
+      "num": 175526,
       "word": "中国建人类细胞谱系大科学研究设施",
       "onboard_time": 1742870000,
       "rank": 39,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 131001,
+      "num": 184046,
+      "word": "五年一贯制大专怎么变成了中专",
+      "onboard_time": 1742872220,
+      "rank": 26,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 130377,
@@ -587,12 +707,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127754,
+      "num": 127754,
+      "word": "念无双特邀出演郑业成",
+      "onboard_time": 1742873422,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124510,
       "num": 166920,
       "word": "奔跑吧13开工大合影",
       "onboard_time": 1742862681,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123845,
+      "num": 123845,
+      "word": "侵华日军对我国打伪钞战最新罪证",
+      "onboard_time": 1742874201,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122544,
@@ -609,6 +745,22 @@
       "onboard_time": 1742870360,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120196,
+      "num": 217924,
+      "word": "订婚强奸案男方上诉称未发生实质性关系",
+      "onboard_time": 1742873301,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118484,
+      "num": 118484,
+      "word": "租不到房的60岁以上老年人",
+      "onboard_time": 1742872461,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117936,
@@ -675,20 +827,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103351,
+      "num": 103351,
+      "word": "全红婵也是跳上胜利之舞了",
+      "onboard_time": 1742872701,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101309,
       "num": 101309,
       "word": "玉兰花瓣居然真的能吹成气球",
       "onboard_time": 1742825061,
       "rank": 44,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 100943,
-      "num": 311725,
-      "word": "武汉樱花文创冰箱贴已被抢到断货",
-      "onboard_time": 1742871321,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100329,
@@ -755,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93599,
-      "num": 184046,
-      "word": "五年一贯制大专怎么变成了中专",
-      "onboard_time": 1742872220,
-      "rank": 26,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 92517,
       "num": 92517,
       "word": "郑钦文连续轰出Ace",
@@ -777,14 +921,6 @@
       "onboard_time": 1742811383,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87754,
-      "num": 292773,
-      "word": "梳理山西订婚强奸案始末",
-      "onboard_time": 1742871141,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85435,
@@ -857,6 +993,22 @@
       "onboard_time": 1742820382,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80504,
+      "num": 173622,
+      "word": "跟郭麒麟学看好面相",
+      "onboard_time": 1742873720,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 78562,
+      "num": 138356,
+      "word": "国际乒联2025第13周排名",
+      "onboard_time": 1742874502,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 78226,
@@ -953,6 +1105,14 @@
       "onboard_time": 1742858599,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 65604,
+      "num": 687896,
+      "word": "中国能源有底气",
+      "onboard_time": 1742872820,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65199,
@@ -1073,6 +1233,14 @@
       "onboard_time": 1742849594,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48571,
+      "num": 139298,
+      "word": "订婚强奸案男方家属坚持无罪",
+      "onboard_time": 1742874442,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42454,
@@ -1289,6 +1457,9 @@
     },
     {
       "word": "#总书记谈今年党建工作的重点任务#"
+    },
+    {
+      "word": "#清风正气满乾坤#"
     }
   ]
 }
