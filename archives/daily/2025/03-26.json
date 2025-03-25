@@ -1,6 +1,6 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742930411298,
+  "endTime": 1742931385400,
   "band_list": [
     {
       "raw_hot": 1737658,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137224,
+      "num": 68017,
+      "word": "7个月婴儿误舔蜂蜜勺肉毒杆菌中毒",
+      "onboard_time": 1742926696,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136783,
       "num": 108813,
       "word": "赵露思小小的勇气0片酬",
@@ -257,14 +265,6 @@
       "onboard_time": 1742907563,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129457,
-      "num": 39497,
-      "word": "7个月婴儿误舔蜂蜜勺肉毒杆菌中毒",
-      "onboard_time": 1742926696,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125942,
@@ -531,11 +531,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32613,
-      "num": 32613,
+      "raw_hot": 33077,
+      "num": 33077,
       "word": "河北永清4.3级地震",
       "onboard_time": 1742930054,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32439,
+      "num": 89512,
+      "word": "卫健委回应世纪婴儿是否有医疗事故",
+      "onboard_time": 1742929275,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -547,16 +555,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25915,
-      "num": 89512,
-      "word": "卫健委回应世纪婴儿是否有医疗事故",
-      "onboard_time": 1742929275,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23834,
-      "num": 23834,
+      "raw_hot": 24468,
+      "num": 24468,
       "word": "小女孩弄倒潮玩店门口摆件赔2600元",
       "onboard_time": 1742929395,
       "rank": 42,
@@ -569,6 +569,14 @@
       "onboard_time": 1742916323,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19075,
+      "num": 70889,
+      "word": "俄美代表团将发表联合声明",
+      "onboard_time": 1742930474,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16025,
