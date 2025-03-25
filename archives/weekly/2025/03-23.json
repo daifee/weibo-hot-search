@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742916458427,
+  "endTime": 1742917344281,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -267,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1492339,
+      "num": 179894,
+      "word": "金赛纶老公晒结婚证明",
+      "onboard_time": 1742916443,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1490189,
       "num": 591703,
       "word": "浪姐6是不是押错宝了",
@@ -323,7 +331,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1382119,
+      "raw_hot": 1389015,
       "num": 284809,
       "word": "李晟李佳航",
       "onboard_time": 1742915003,
@@ -579,6 +587,14 @@
       "category": "美食,艺人"
     },
     {
+      "raw_hot": 903591,
+      "num": 664147,
+      "word": "感觉半个娱乐圈都来武汉了",
+      "onboard_time": 1742914404,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 895073,
       "num": 359617,
       "word": "金秀贤新料漫画提示",
@@ -673,14 +689,6 @@
       "onboard_time": 1742818582,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 838781,
-      "num": 664147,
-      "word": "感觉半个娱乐圈都来武汉了",
-      "onboard_time": 1742914404,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 832520,
@@ -1225,6 +1233,14 @@
       "onboard_time": 1742723360,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557335,
+      "num": 185816,
+      "word": "苗苗郑恺搬家",
+      "onboard_time": 1742916382,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 555808,
@@ -2075,6 +2091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356625,
+      "num": 283292,
+      "word": "花非花雾非雾",
+      "onboard_time": 1742914584,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356184,
       "num": 356184,
       "word": "奔跑吧武汉录制",
@@ -2379,6 +2403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315033,
+      "num": 223582,
+      "word": "B站网红大祥哥回应被骗1249万",
+      "onboard_time": 1742915903,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 313680,
       "num": 313680,
       "word": "网友出海钓鱼在海上捡到个小孩",
@@ -2657,14 +2689,6 @@
       "onboard_time": 1742886262,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283292,
-      "num": 283292,
-      "word": "花非花雾非雾",
-      "onboard_time": 1742914584,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 282917,
@@ -4347,14 +4371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 185364,
-      "num": 185364,
-      "word": "B站网红大祥哥回应被骗1249万",
-      "onboard_time": 1742915903,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 185243,
       "num": 185243,
       "word": "卡琳娜cos陆光的原因找到了",
@@ -5795,6 +5811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143223,
+      "num": 143223,
+      "word": "王宝强新剧黑强惨人设",
+      "onboard_time": 1742917042,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143064,
       "num": 143064,
       "word": "芒果来了对新姐妹",
@@ -6339,6 +6363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132374,
+      "num": 132374,
+      "word": "奔跑吧今天跑进湖北广电",
+      "onboard_time": 1742916981,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132320,
       "num": 205786,
       "word": "美媒爆美将不惜代价研发金穹防御系统",
@@ -6457,6 +6489,14 @@
       "onboard_time": 1742897962,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128696,
+      "num": 128696,
+      "word": "傅云夕表白庄寒雁",
+      "onboard_time": 1742916202,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 128676,
@@ -6811,6 +6851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122452,
+      "num": 217338,
+      "word": "美国就与俄罗斯会谈发表声明",
+      "onboard_time": 1742916562,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 122392,
       "num": 122392,
       "word": "未成年选秀节目组称选手受到伤害",
@@ -6897,14 +6945,6 @@
       "onboard_time": 1742874921,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120456,
-      "num": 120456,
-      "word": "傅云夕表白庄寒雁",
-      "onboard_time": 1742916202,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 120447,
@@ -7041,14 +7081,6 @@
       "onboard_time": 1742714001,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117172,
-      "num": 117172,
-      "word": "苗苗郑恺搬家",
-      "onboard_time": 1742916382,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 116958,
@@ -7633,6 +7665,14 @@
       "onboard_time": 1742817080,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105533,
+      "num": 283963,
+      "word": "石棉县通报希望小学设备标价不合理",
+      "onboard_time": 1742914943,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 105473,
@@ -8643,6 +8683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72374,
+      "num": 177540,
+      "word": "我对国足充满信心",
+      "onboard_time": 1742916803,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72344,
       "num": 72344,
       "word": "左航天气很好给机车洗澡",
@@ -9049,14 +9097,6 @@
       "onboard_time": 1742828961,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59955,
-      "num": 283963,
-      "word": "石棉县通报希望小学设备标价不合理",
-      "onboard_time": 1742914943,
-      "rank": 14,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 59750,
@@ -9507,6 +9547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42732,
+      "num": 180306,
+      "word": "订婚强奸案家属称公诉人坚持被告有罪",
+      "onboard_time": 1742916621,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42715,
       "num": 399143,
       "word": "中澳之战球票已炒至近万元",
@@ -9657,6 +9705,14 @@
       "onboard_time": 1742799501,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38272,
+      "num": 179085,
+      "word": "订婚强奸案双方曾短暂达成一致",
+      "onboard_time": 1742916621,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37679,
@@ -10099,6 +10155,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 27810,
+      "num": 664708,
+      "word": "春天里的中国孕育丰收希望",
+      "onboard_time": 1742916323,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27497,
       "num": 55011,
       "word": "荷兰警方针对性搜索罗生门时发现男尸",
@@ -10121,6 +10185,14 @@
       "onboard_time": 1742788881,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 26611,
+      "num": 285678,
+      "word": "国足净胜球已经负12个了",
+      "onboard_time": 1742915963,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 26443,
@@ -10259,6 +10331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22864,
+      "num": 178830,
+      "word": "中小学生哪吒卡牌上瘾",
+      "onboard_time": 1742916562,
+      "rank": 19,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 21957,
       "num": 29195,
       "word": "PCL2025",
@@ -10347,6 +10427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 20082,
+      "num": 171911,
+      "word": "谢岳称不给儿子半点压力",
+      "onboard_time": 1742916621,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19373,
       "num": 170463,
       "word": "堀与宫村好伟大的脸",
@@ -10369,14 +10457,6 @@
       "onboard_time": 1742859200,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18204,
-      "num": 285678,
-      "word": "国足净胜球已经负12个了",
-      "onboard_time": 1742915963,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 18147,
@@ -10649,14 +10729,6 @@
       "onboard_time": 1742877742,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 5651,
-      "num": 664708,
-      "word": "春天里的中国孕育丰收希望",
-      "onboard_time": 1742916323,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

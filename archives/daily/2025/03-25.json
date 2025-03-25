@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742916458427,
+  "endTime": 1742917344281,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1492339,
+      "num": 179894,
+      "word": "金赛纶老公晒结婚证明",
+      "onboard_time": 1742916443,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1490189,
       "num": 591703,
       "word": "浪姐6是不是押错宝了",
@@ -163,7 +171,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1382119,
+      "raw_hot": 1389015,
       "num": 284809,
       "word": "李晟李佳航",
       "onboard_time": 1742915003,
@@ -251,7 +259,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 838781,
+      "raw_hot": 903591,
       "num": 664147,
       "word": "感觉半个娱乐圈都来武汉了",
       "onboard_time": 1742914404,
@@ -417,6 +425,14 @@
       "onboard_time": 1742882361,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557335,
+      "num": 185816,
+      "word": "苗苗郑恺搬家",
+      "onboard_time": 1742916382,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 555488,
@@ -787,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356625,
+      "num": 283292,
+      "word": "花非花雾非雾",
+      "onboard_time": 1742914584,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353284,
       "num": 353284,
       "word": "雷军回武大发了100万奖学金",
@@ -880,6 +904,14 @@
       "word": "考公博主吴桐 塌房",
       "onboard_time": 1742802802,
       "rank": 12,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 315033,
+      "num": 223582,
+      "word": "B站网红大祥哥回应被骗1249万",
+      "onboard_time": 1742915903,
+      "rank": 34,
       "category": "网红"
     },
     {
@@ -1001,14 +1033,6 @@
       "onboard_time": 1742886262,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283292,
-      "num": 283292,
-      "word": "花非花雾非雾",
-      "onboard_time": 1742914584,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 282604,
@@ -1571,14 +1595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 185364,
-      "num": 185364,
-      "word": "B站网红大祥哥回应被骗1249万",
-      "onboard_time": 1742915903,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 183903,
       "num": 183903,
       "word": "湖人vs魔术",
@@ -2091,6 +2107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143223,
+      "num": 143223,
+      "word": "王宝强新剧黑强惨人设",
+      "onboard_time": 1742917042,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141945,
       "num": 141945,
       "word": "上海加强治理一边走路一边抽烟",
@@ -2243,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132374,
+      "num": 132374,
+      "word": "奔跑吧今天跑进湖北广电",
+      "onboard_time": 1742916981,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132183,
       "num": 175526,
       "word": "中国建人类细胞谱系大科学研究设施",
@@ -2297,6 +2329,14 @@
       "onboard_time": 1742897962,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128696,
+      "num": 128696,
+      "word": "傅云夕表白庄寒雁",
+      "onboard_time": 1742916202,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 128351,
@@ -2411,6 +2451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122452,
+      "num": 217338,
+      "word": "美国就与俄罗斯会谈发表声明",
+      "onboard_time": 1742916562,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 122314,
       "num": 365178,
       "word": "最新网络安全报告详细披露美监听窃密",
@@ -2449,14 +2497,6 @@
       "onboard_time": 1742874921,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120456,
-      "num": 120456,
-      "word": "傅云夕表白庄寒雁",
-      "onboard_time": 1742916202,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 120139,
@@ -2505,14 +2545,6 @@
       "onboard_time": 1742893822,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117172,
-      "num": 117172,
-      "word": "苗苗郑恺搬家",
-      "onboard_time": 1742916382,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 115884,
@@ -2649,6 +2681,14 @@
       "onboard_time": 1742872220,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105533,
+      "num": 283963,
+      "word": "石棉县通报希望小学设备标价不合理",
+      "onboard_time": 1742914943,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 104745,
@@ -3067,6 +3107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72374,
+      "num": 177540,
+      "word": "我对国足充满信心",
+      "onboard_time": 1742916803,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71437,
       "num": 151844,
       "word": "13岁男生向游戏大神转账被骗14万",
@@ -3249,14 +3297,6 @@
       "onboard_time": 1742814982,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59955,
-      "num": 283963,
-      "word": "石棉县通报希望小学设备标价不合理",
-      "onboard_time": 1742914943,
-      "rank": 14,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 59519,
@@ -3443,6 +3483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42732,
+      "num": 180306,
+      "word": "订婚强奸案家属称公诉人坚持被告有罪",
+      "onboard_time": 1742916621,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42454,
       "num": 42454,
       "word": "上官正义称代孕妈妈中不乏高学历者",
@@ -3488,6 +3536,14 @@
       "word": "中央气象台预警三连",
       "onboard_time": 1742901202,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38272,
+      "num": 179085,
+      "word": "订婚强奸案双方曾短暂达成一致",
+      "onboard_time": 1742916621,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3683,6 +3739,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 27810,
+      "num": 664708,
+      "word": "春天里的中国孕育丰收希望",
+      "onboard_time": 1742916323,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26611,
+      "num": 285678,
+      "word": "国足净胜球已经负12个了",
+      "onboard_time": 1742915963,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26068,
       "num": 207659,
       "word": "花花是春意最佳氛围组吧",
@@ -3731,6 +3803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22864,
+      "num": 178830,
+      "word": "中小学生哪吒卡牌上瘾",
+      "onboard_time": 1742916562,
+      "rank": 19,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 21780,
       "num": 122493,
       "word": "被拉进群记者驳斥美防长说法",
@@ -3771,6 +3851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20082,
+      "num": 171911,
+      "word": "谢岳称不给儿子半点压力",
+      "onboard_time": 1742916621,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19373,
       "num": 170463,
       "word": "堀与宫村好伟大的脸",
@@ -3793,14 +3881,6 @@
       "onboard_time": 1742859200,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18204,
-      "num": 285678,
-      "word": "国足净胜球已经负12个了",
-      "onboard_time": 1742915963,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 17943,
@@ -3913,14 +3993,6 @@
       "onboard_time": 1742877742,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 5651,
-      "num": 664708,
-      "word": "春天里的中国孕育丰收希望",
-      "onboard_time": 1742916323,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
