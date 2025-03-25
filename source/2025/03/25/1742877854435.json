@@ -1,0 +1,410 @@
+{
+  "runTime": 1742877854435,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1543128,
+        "num": 1543128,
+        "word": "下周上四休三不调休",
+        "onboard_time": 1742872642,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1374153,
+        "num": 1374153,
+        "word": "赵露思 定制综艺",
+        "onboard_time": 1742873900,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56536,
+        "num": 684124,
+        "word": "中国能源有底气",
+        "onboard_time": 1742872820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 577849,
+        "num": 577849,
+        "word": "唐嫣 古偶",
+        "onboard_time": 1742876062,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451896,
+        "num": 451896,
+        "word": "订婚强奸案男方家属坚持无罪",
+        "onboard_time": 1742874442,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1458577,
+        "num": 442958,
+        "word": "订婚强奸案男方已被羁押690天",
+        "onboard_time": 1742870842,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 630759,
+        "num": 437000,
+        "word": "女生高铁上提醒男子勿脱鞋放脚被打",
+        "onboard_time": 1742865859,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541295,
+        "num": 435072,
+        "word": "李晟镜头",
+        "onboard_time": 1742871800,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427939,
+        "num": 427939,
+        "word": "演了十五集秦岚第一次笑",
+        "onboard_time": 1742874921,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109061,
+        "num": 425550,
+        "word": "侵华日军对我国打伪钞战最新罪证",
+        "onboard_time": 1742874201,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1198528,
+        "num": 421097,
+        "word": "前男友说金赛纶的死与金秀贤无关",
+        "onboard_time": 1742872580,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 659972,
+        "num": 414749,
+        "word": "王鹤棣告了男德",
+        "onboard_time": 1742877143,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485256,
+        "num": 411506,
+        "word": "湖南14岁少年疑校内遭围殴致死",
+        "onboard_time": 1742874021,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410300,
+        "num": 410300,
+        "word": "为什么卫生巾的护垫总这样",
+        "onboard_time": 1742876182,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301518,
+        "num": 301518,
+        "word": "福宝与公众再度见面",
+        "onboard_time": 1742868020,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276840,
+        "num": 276840,
+        "word": "春天穿衣服要下厚上薄",
+        "onboard_time": 1742864841,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233835,
+        "num": 273109,
+        "word": "王宝强窝囊废赛道的纯元回宫",
+        "onboard_time": 1742874082,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106760,
+        "num": 272948,
+        "word": "征服世界只差一辆极氪9X",
+        "onboard_time": 1742875822,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 225269,
+        "num": 272920,
+        "word": "徐明浩封面造型师是闵塔鲨",
+        "onboard_time": 1742877203,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 272900,
+        "num": 272900,
+        "word": "订婚强奸案男方家属要求退还彩礼",
+        "onboard_time": 1742868920,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276951,
+        "num": 272071,
+        "word": "吃着不甜但热量爆炸的水果",
+        "onboard_time": 1742870300,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 274697,
+        "num": 268849,
+        "word": "金毛餐厅偷吃饺子主人买下餐盘道歉",
+        "onboard_time": 1742876003,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263967,
+        "num": 263967,
+        "word": "金赛纶前男友发声",
+        "onboard_time": 1742875101,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259796,
+        "num": 259796,
+        "word": "董事长被指马拉松上与女子举止亲密",
+        "onboard_time": 1742877022,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221687,
+        "num": 221687,
+        "word": "野狗骨头 张婧仪",
+        "onboard_time": 1742860461,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83939,
+        "num": 217646,
+        "word": "跟郭麒麟学看好面相",
+        "onboard_time": 1742873720,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216519,
+        "num": 216519,
+        "word": "DeepSeek预测国足出线概率",
+        "onboard_time": 1742871082,
+        "rank": 26,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 191745,
+        "num": 216353,
+        "word": "汪苏泷专辑",
+        "onboard_time": 1742876842,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173498,
+        "num": 216147,
+        "word": "新男团NEWBEAT今日出道造型",
+        "onboard_time": 1742876783,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6820,
+        "num": 216104,
+        "word": "数码宝贝护目镜帅哥",
+        "onboard_time": 1742877742,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 81041,
+        "num": 215857,
+        "word": "高伟光打球被放鸽子",
+        "onboard_time": 1742876062,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215699,
+        "num": 215699,
+        "word": "雷军回应发100万奖学金",
+        "onboard_time": 1742875161,
+        "rank": 31,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 204441,
+        "num": 204441,
+        "word": "王楚钦左右开弓打乒乓球",
+        "onboard_time": 1742877323,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202513,
+        "num": 202513,
+        "word": "会计生连崩溃都是权责发生制的",
+        "onboard_time": 1742876182,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182882,
+        "num": 182882,
+        "word": "鹅鸭杀创始人称非常期待拜访中国",
+        "onboard_time": 1742875822,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171887,
+        "num": 171887,
+        "word": "租不到房的60岁以上老年人",
+        "onboard_time": 1742872461,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156016,
+        "num": 156016,
+        "word": "福宝去年异常抖动后已静养100多天",
+        "onboard_time": 1742869161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153187,
+        "num": 153187,
+        "word": "孟子义李昀锐大屏应援",
+        "onboard_time": 1742877801,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151183,
+        "num": 151183,
+        "word": "古天乐称自砍片酬也没人投资",
+        "onboard_time": 1742861721,
+        "rank": 38,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 145834,
+        "num": 145834,
+        "word": "阿里巴巴将重启招聘",
+        "onboard_time": 1742873661,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145458,
+        "num": 145458,
+        "word": "男孩入学10天后身亡家属发声",
+        "onboard_time": 1742877143,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139330,
+        "num": 139330,
+        "word": "李惠利梦到郑秀斌",
+        "onboard_time": 1742873000,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73931,
+        "num": 139228,
+        "word": "李斯丹妮后台偶遇蔡国庆",
+        "onboard_time": 1742875523,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139128,
+        "num": 139128,
+        "word": "阮惜文er",
+        "onboard_time": 1742876361,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138733,
+        "num": 138733,
+        "word": "小米股价开盘大跌",
+        "onboard_time": 1742868380,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137266,
+        "num": 137266,
+        "word": "念无双定档",
+        "onboard_time": 1742869280,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130315,
+        "num": 130315,
+        "word": "萧敬腾谈方大同去世",
+        "onboard_time": 1742861781,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128758,
+        "num": 128758,
+        "word": "早睡真能解决身体80%以上的问题",
+        "onboard_time": 1742864841,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122405,
+        "num": 122405,
+        "word": "爷爷从山上捡到一只怀孕野生布偶",
+        "onboard_time": 1742870300,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117455,
+        "num": 117455,
+        "word": "中消协提示非必要不开免密支付",
+        "onboard_time": 1742874921,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈今年党建工作的重点任务#"
+    }
+  }
+}

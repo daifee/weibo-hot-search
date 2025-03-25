@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742876964758,
+  "endTime": 1742877854435,
   "band_list": [
     {
       "raw_hot": 3092132,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1543128,
+      "num": 1543128,
+      "word": "下周上四休三不调休",
+      "onboard_time": 1742872642,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1484751,
       "num": 357908,
       "word": "老人被小18岁前妻引诱复婚崩溃",
@@ -51,16 +59,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1303441,
-      "num": 1303441,
-      "word": "下周上四休三不调休",
-      "onboard_time": 1742872642,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1243863,
-      "num": 331629,
+      "num": 421097,
       "word": "前男友说金赛纶的死与金秀贤无关",
       "onboard_time": 1742872580,
       "rank": 10,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 659972,
+      "num": 414749,
+      "word": "王鹤棣告了男德",
+      "onboard_time": 1742877143,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 657335,
       "num": 1105173,
       "word": "春天穿衣服要下厚上薄",
@@ -121,6 +129,14 @@
       "onboard_time": 1742859500,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 577849,
+      "num": 577849,
+      "word": "唐嫣 古偶",
+      "onboard_time": 1742876062,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 517053,
@@ -155,6 +171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 485256,
+      "num": 457432,
+      "word": "湖南14岁少年疑校内遭围殴致死",
+      "onboard_time": 1742874021,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 475038,
       "num": 215286,
       "word": "棣欣引力",
@@ -171,20 +195,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 457432,
-      "num": 457432,
-      "word": "湖南14岁少年疑校内遭围殴致死",
-      "onboard_time": 1742874021,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 456260,
       "num": 456260,
       "word": "古天乐称自砍片酬也没人投资",
       "onboard_time": 1742861721,
       "rank": 5,
       "category": "艺人,电影"
+    },
+    {
+      "raw_hot": 451896,
+      "num": 451896,
+      "word": "订婚强奸案男方家属坚持无罪",
+      "onboard_time": 1742874442,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 438117,
@@ -201,14 +225,6 @@
       "onboard_time": 1742869161,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 437294,
-      "num": 437294,
-      "word": "唐嫣 古偶",
-      "onboard_time": 1742876062,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 427448,
@@ -233,6 +249,14 @@
       "onboard_time": 1742861781,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410300,
+      "num": 410300,
+      "word": "为什么卫生巾的护垫总这样",
+      "onboard_time": 1742876182,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 391405,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 313514,
-      "num": 202585,
+      "num": 272071,
       "word": "吃着不甜但热量爆炸的水果",
       "onboard_time": 1742870300,
       "rank": 30,
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 311275,
-      "num": 186523,
+      "num": 263967,
       "word": "金赛纶前男友发声",
       "onboard_time": 1742875101,
       "rank": 22,
@@ -337,14 +361,6 @@
       "onboard_time": 1742866101,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 291644,
-      "num": 291644,
-      "word": "订婚强奸案男方家属坚持无罪",
-      "onboard_time": 1742874442,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 291440,
@@ -379,8 +395,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274697,
+      "num": 268849,
+      "word": "金毛餐厅偷吃饺子主人买下餐盘道歉",
+      "onboard_time": 1742876003,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269931,
-      "num": 186226,
+      "num": 216519,
       "word": "DeepSeek预测国足出线概率",
       "onboard_time": 1742871082,
       "rank": 32,
@@ -401,6 +425,14 @@
       "onboard_time": 1742868380,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 259796,
+      "num": 259796,
+      "word": "董事长被指马拉松上与女子举止亲密",
+      "onboard_time": 1742877022,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246697,
@@ -427,12 +459,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 224391,
-      "num": 170408,
-      "word": "金毛餐厅偷吃饺子主人买下餐盘道歉",
-      "onboard_time": 1742876003,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 225269,
+      "num": 272920,
+      "word": "徐明浩封面造型师是闵塔鲨",
+      "onboard_time": 1742877203,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 217409,
@@ -441,6 +473,14 @@
       "onboard_time": 1742828424,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215699,
+      "num": 215699,
+      "word": "雷军回应发100万奖学金",
+      "onboard_time": 1742875161,
+      "rank": 34,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 214237,
@@ -467,11 +507,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207661,
-      "num": 207661,
-      "word": "为什么卫生巾的护垫总这样",
+      "raw_hot": 204441,
+      "num": 204441,
+      "word": "王楚钦左右开弓打乒乓球",
+      "onboard_time": 1742877323,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202513,
+      "num": 202513,
+      "word": "会计生连崩溃都是权责发生制的",
       "onboard_time": 1742876182,
-      "rank": 18,
+      "rank": 35,
       "category": "幽默"
     },
     {
@@ -491,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191738,
-      "num": 170391,
-      "word": "雷军回应发100万奖学金",
-      "onboard_time": 1742875161,
-      "rank": 34,
-      "category": "民生新闻,互联网"
+      "raw_hot": 191745,
+      "num": 216353,
+      "word": "汪苏泷专辑",
+      "onboard_time": 1742876842,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 191603,
@@ -547,6 +595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 173498,
+      "num": 216147,
+      "word": "新男团NEWBEAT今日出道造型",
+      "onboard_time": 1742876783,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173213,
       "num": 173213,
       "word": "希望小学一万四买相机只值六百引质疑",
@@ -555,12 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170388,
-      "num": 170388,
-      "word": "会计生连崩溃都是权责发生制的",
-      "onboard_time": 1742876182,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 171887,
+      "num": 203270,
+      "word": "租不到房的60岁以上老年人",
+      "onboard_time": 1742872461,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169763,
@@ -600,14 +656,6 @@
       "word": "国家安全部通报发布跳槽人员提醒",
       "onboard_time": 1742860461,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163856,
-      "num": 203270,
-      "word": "租不到房的60岁以上老年人",
-      "onboard_time": 1742872461,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -660,11 +708,19 @@
     },
     {
       "raw_hot": 159003,
-      "num": 193636,
+      "num": 272948,
       "word": "征服世界只差一辆极氪9X",
       "onboard_time": 1742875822,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 153187,
+      "num": 153187,
+      "word": "孟子义李昀锐大屏应援",
+      "onboard_time": 1742877801,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 151604,
@@ -699,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145458,
+      "num": 145458,
+      "word": "男孩入学10天后身亡家属发声",
+      "onboard_time": 1742877143,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144551,
       "num": 170488,
       "word": "李斯丹妮后台偶遇蔡国庆",
@@ -713,14 +777,6 @@
       "onboard_time": 1742866940,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 141226,
-      "num": 141226,
-      "word": "新男团NEWBEAT今日出道造型",
-      "onboard_time": 1742876783,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 140700,
@@ -780,7 +836,7 @@
     },
     {
       "raw_hot": 132606,
-      "num": 179945,
+      "num": 425550,
       "word": "侵华日军对我国打伪钞战最新罪证",
       "onboard_time": 1742874201,
       "rank": 44,
@@ -793,14 +849,6 @@
       "onboard_time": 1742870842,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132369,
-      "num": 132369,
-      "word": "汪苏泷专辑",
-      "onboard_time": 1742876842,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 132183,
@@ -908,7 +956,7 @@
     },
     {
       "raw_hot": 112004,
-      "num": 173622,
+      "num": 217646,
       "word": "跟郭麒麟学看好面相",
       "onboard_time": 1742873720,
       "rank": 26,
@@ -932,7 +980,7 @@
     },
     {
       "raw_hot": 108277,
-      "num": 152224,
+      "num": 215857,
       "word": "高伟光打球被放鸽子",
       "onboard_time": 1742876062,
       "rank": 38,
@@ -1593,6 +1641,14 @@
       "onboard_time": 1742839875,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 6820,
+      "num": 216104,
+      "word": "数码宝贝护目镜帅哥",
+      "onboard_time": 1742877742,
+      "rank": 29,
+      "category": "动漫"
     }
   ],
   "hotgov_list": [
