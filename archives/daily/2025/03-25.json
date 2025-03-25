@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742877854435,
+  "endTime": 1742880290260,
   "band_list": [
     {
       "raw_hot": 3092132,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2047103,
+      "num": 414749,
+      "word": "王鹤棣告了男德",
+      "onboard_time": 1742877143,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1726784,
       "num": 1480296,
       "word": "订婚强奸案男方已被羁押690天",
@@ -33,6 +41,14 @@
       "onboard_time": 1742873900,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1586970,
+      "num": 237172,
+      "word": "男德",
+      "onboard_time": 1742878163,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1543128,
@@ -107,12 +123,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 659972,
-      "num": 414749,
-      "word": "王鹤棣告了男德",
-      "onboard_time": 1742877143,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 718782,
+      "num": 259796,
+      "word": "董事长被指马拉松上与女子举止亲密",
+      "onboard_time": 1742877022,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 657335,
@@ -139,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 555488,
+      "num": 410300,
+      "word": "为什么卫生巾的护垫总这样",
+      "onboard_time": 1742876182,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 517053,
       "num": 841079,
       "word": "央视曝光所谓瘦身咖啡真相",
@@ -163,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 504069,
+      "num": 504069,
+      "word": "订婚强奸案男方家属坚持无罪",
+      "onboard_time": 1742874442,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 496386,
       "num": 496386,
       "word": "多邻国崩了",
@@ -177,6 +209,14 @@
       "onboard_time": 1742874021,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 479477,
+      "num": 211095,
+      "word": "浪姐6是不是押错宝了",
+      "onboard_time": 1742879063,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 475038,
@@ -203,14 +243,6 @@
       "category": "艺人,电影"
     },
     {
-      "raw_hot": 451896,
-      "num": 451896,
-      "word": "订婚强奸案男方家属坚持无罪",
-      "onboard_time": 1742874442,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 438117,
       "num": 438117,
       "word": "电影学院失联女生半年没回过家",
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 427448,
-      "num": 427448,
+      "num": 518969,
       "word": "福宝与公众再度见面",
       "onboard_time": 1742868020,
       "rank": 16,
@@ -249,14 +281,6 @@
       "onboard_time": 1742861781,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410300,
-      "num": 410300,
-      "word": "为什么卫生巾的护垫总这样",
-      "onboard_time": 1742876182,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 391405,
@@ -297,6 +321,14 @@
       "onboard_time": 1742829322,
       "rank": 4,
       "category": "互联网,教育"
+    },
+    {
+      "raw_hot": 343645,
+      "num": 222681,
+      "word": "湖南一男孩就读教育学校10天后身亡",
+      "onboard_time": 1742877983,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 338842,
@@ -427,14 +459,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 259796,
-      "num": 259796,
-      "word": "董事长被指马拉松上与女子举止亲密",
-      "onboard_time": 1742877022,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246697,
       "num": 246697,
       "word": "美军空袭也门计划离谱泄密",
@@ -449,6 +473,14 @@
       "onboard_time": 1742825124,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240565,
+      "num": 240565,
+      "word": "aespa 回归",
+      "onboard_time": 1742879661,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 227051,
@@ -507,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205361,
+      "num": 205361,
+      "word": "王俊凯拼接皮衣",
+      "onboard_time": 1742879422,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 204441,
       "num": 204441,
       "word": "王楚钦左右开弓打乒乓球",
@@ -521,6 +561,22 @@
       "onboard_time": 1742876182,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200591,
+      "num": 200591,
+      "word": "每天揉耳十分钟效果可靠",
+      "onboard_time": 1742878463,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 199768,
+      "num": 199768,
+      "word": "赵丽颖怒目海报",
+      "onboard_time": 1742879661,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 193153,
@@ -715,6 +771,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 158440,
+      "num": 158440,
+      "word": "秦彻 喧嚣时速",
+      "onboard_time": 1742879182,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 156868,
+      "num": 156868,
+      "word": "韩国人来中国吃播视频",
+      "onboard_time": 1742877864,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153187,
       "num": 153187,
       "word": "孟子义李昀锐大屏应援",
@@ -795,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138639,
+      "num": 138639,
+      "word": "邓萃雯见到李晟在浪姐心踏实了些",
+      "onboard_time": 1742878281,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138391,
       "num": 217924,
       "word": "订婚强奸案男方上诉称未发生实质性关系",
@@ -811,12 +891,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136647,
+      "num": 136647,
+      "word": "布克绝杀",
+      "onboard_time": 1742879482,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136524,
       "num": 136524,
       "word": "蚂蚁集团取得重大AI突破",
       "onboard_time": 1742872701,
       "rank": 38,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 135026,
+      "num": 135026,
+      "word": "订婚强奸案二审未当庭宣判",
+      "onboard_time": 1742880081,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134217,
@@ -899,12 +995,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126240,
+      "num": 126240,
+      "word": "冷门但快速有效的入睡姿势",
+      "onboard_time": 1742879900,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124510,
       "num": 166920,
       "word": "奔跑吧13开工大合影",
       "onboard_time": 1742862681,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122653,
+      "num": 239670,
+      "word": "孩子被骗让妈妈卡里仅剩几毛钱",
+      "onboard_time": 1742879243,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122544,
@@ -937,6 +1049,14 @@
       "onboard_time": 1742866281,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 117816,
+      "num": 117816,
+      "word": "网红博主吴桐就不当言论道歉",
+      "onboard_time": 1742878163,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 114590,
@@ -993,6 +1113,14 @@
       "onboard_time": 1742836396,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106150,
+      "num": 106150,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1742878281,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 105973,
@@ -1403,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51996,
+      "num": 233686,
+      "word": "高端汉堡的生意不好做了吗",
+      "onboard_time": 1742879961,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 51697,
       "num": 57221,
       "word": "黄雀",
@@ -1427,12 +1563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47518,
+      "num": 143670,
+      "word": "跑马拉松被误认董事长的公司股价下跌",
+      "onboard_time": 1742879243,
+      "rank": 35,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 42454,
       "num": 42454,
       "word": "上官正义称代孕妈妈中不乏高学历者",
       "onboard_time": 1742848573,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42007,
+      "num": 190381,
+      "word": "翟子路听粉丝语音听到眼眶湿润",
+      "onboard_time": 1742879661,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 41406,

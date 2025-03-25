@@ -1,0 +1,410 @@
+{
+  "runTime": 1742880290260,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 910100,
+        "num": 1145616,
+        "word": "下周上四休三不调休",
+        "onboard_time": 1742872642,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674030,
+        "num": 674030,
+        "word": "赵露思 定制综艺",
+        "onboard_time": 1742873900,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47679,
+        "num": 603877,
+        "word": "中国能源有底气",
+        "onboard_time": 1742872820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548298,
+        "num": 548298,
+        "word": "唐嫣 古偶",
+        "onboard_time": 1742876062,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218003,
+        "num": 518969,
+        "word": "福宝与公众再度见面",
+        "onboard_time": 1742868020,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504069,
+        "num": 504069,
+        "word": "订婚强奸案男方家属坚持无罪",
+        "onboard_time": 1742874442,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463752,
+        "num": 463752,
+        "word": "女生高铁上提醒男子勿脱鞋放脚被打",
+        "onboard_time": 1742865859,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291341,
+        "num": 291341,
+        "word": "李晟镜头",
+        "onboard_time": 1742871800,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240565,
+        "num": 240565,
+        "word": "aespa 回归",
+        "onboard_time": 1742879661,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122653,
+        "num": 239670,
+        "word": "孩子被骗让妈妈卡里仅剩几毛钱",
+        "onboard_time": 1742879243,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2047103,
+        "num": 238458,
+        "word": "王鹤棣告了男德",
+        "onboard_time": 1742877143,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1586970,
+        "num": 237172,
+        "word": "男德",
+        "onboard_time": 1742878163,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 982768,
+        "num": 236621,
+        "word": "订婚强奸案男方已被羁押690天",
+        "onboard_time": 1742870842,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235497,
+        "num": 235497,
+        "word": "演了十五集秦岚第一次笑",
+        "onboard_time": 1742874921,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51996,
+        "num": 233686,
+        "word": "高端汉堡的生意不好做了吗",
+        "onboard_time": 1742879961,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 718782,
+        "num": 229743,
+        "word": "董事长被指马拉松上与女子举止亲密",
+        "onboard_time": 1742877022,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555488,
+        "num": 225903,
+        "word": "为什么卫生巾的护垫总这样",
+        "onboard_time": 1742876182,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343645,
+        "num": 222681,
+        "word": "湖南一男孩就读教育学校10天后身亡",
+        "onboard_time": 1742877983,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189455,
+        "num": 217091,
+        "word": "徐明浩封面造型师是闵塔鲨",
+        "onboard_time": 1742877203,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 710295,
+        "num": 215506,
+        "word": "前男友说金赛纶的死与金秀贤无关",
+        "onboard_time": 1742872580,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479477,
+        "num": 211095,
+        "word": "浪姐6是不是押错宝了",
+        "onboard_time": 1742879063,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257284,
+        "num": 206519,
+        "word": "金毛餐厅偷吃饺子主人买下餐盘道歉",
+        "onboard_time": 1742876003,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205361,
+        "num": 205361,
+        "word": "王俊凯拼接皮衣",
+        "onboard_time": 1742879422,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200591,
+        "num": 200591,
+        "word": "每天揉耳十分钟效果可靠",
+        "onboard_time": 1742878463,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170809,
+        "num": 200100,
+        "word": "王楚钦左右开弓打乒乓球",
+        "onboard_time": 1742877323,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258342,
+        "num": 200080,
+        "word": "金赛纶前男友发声",
+        "onboard_time": 1742875101,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199768,
+        "num": 199768,
+        "word": "赵丽颖怒目海报",
+        "onboard_time": 1742879661,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193562,
+        "num": 193562,
+        "word": "会计生连崩溃都是权责发生制的",
+        "onboard_time": 1742876182,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42007,
+        "num": 190381,
+        "word": "翟子路听粉丝语音听到眼眶湿润",
+        "onboard_time": 1742879661,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189949,
+        "num": 189949,
+        "word": "吃着不甜但热量爆炸的水果",
+        "onboard_time": 1742870300,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 189337,
+        "num": 189337,
+        "word": "春天穿衣服要下厚上薄",
+        "onboard_time": 1742864841,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158440,
+        "num": 158440,
+        "word": "秦彻 喧嚣时速",
+        "onboard_time": 1742879182,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156868,
+        "num": 156868,
+        "word": "韩国人来中国吃播视频",
+        "onboard_time": 1742877864,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153227,
+        "num": 153227,
+        "word": "雷军回应发100万奖学金",
+        "onboard_time": 1742875161,
+        "rank": 33,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 62419,
+        "num": 145204,
+        "word": "征服世界只差一辆极氪9X",
+        "onboard_time": 1742875822,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 47518,
+        "num": 143670,
+        "word": "跑马拉松被误认董事长的公司股价下跌",
+        "onboard_time": 1742879243,
+        "rank": 35,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 142584,
+        "num": 142584,
+        "word": "孟子义李昀锐大屏应援",
+        "onboard_time": 1742877801,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138639,
+        "num": 138639,
+        "word": "邓萃雯见到李晟在浪姐心踏实了些",
+        "onboard_time": 1742878281,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137145,
+        "num": 137145,
+        "word": "DeepSeek预测国足出线概率",
+        "onboard_time": 1742871082,
+        "rank": 38,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 136647,
+        "num": 136647,
+        "word": "布克绝杀",
+        "onboard_time": 1742879482,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135026,
+        "num": 135026,
+        "word": "订婚强奸案二审未当庭宣判",
+        "onboard_time": 1742880081,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128421,
+        "num": 128421,
+        "word": "野狗骨头 张婧仪",
+        "onboard_time": 1742860461,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126240,
+        "num": 126240,
+        "word": "冷门但快速有效的入睡姿势",
+        "onboard_time": 1742879900,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117816,
+        "num": 117816,
+        "word": "网红博主吴桐就不当言论道歉",
+        "onboard_time": 1742878163,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117214,
+        "num": 117214,
+        "word": "租不到房的60岁以上老年人",
+        "onboard_time": 1742872461,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115217,
+        "num": 115217,
+        "word": "中消协提示非必要不开免密支付",
+        "onboard_time": 1742874921,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106150,
+        "num": 106150,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1742878281,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102394,
+        "num": 102394,
+        "word": "王宝强窝囊废赛道的纯元回宫",
+        "onboard_time": 1742874082,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99915,
+        "num": 99915,
+        "word": "阿里巴巴将重启招聘",
+        "onboard_time": 1742873661,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99305,
+        "num": 99305,
+        "word": "侵华日军对我国打伪钞战最新罪证",
+        "onboard_time": 1742874201,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈今年党建工作的重点任务#"
+    }
+  }
+}
