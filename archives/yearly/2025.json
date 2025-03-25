@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742906807816,
+  "endTime": 1742907735638,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1331,6 +1331,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 3533705,
+      "num": 3533705,
+      "word": "国足vs澳大利亚",
+      "onboard_time": 1742898741,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3533201,
       "num": 3533201,
       "word": "哪吒2票房破80亿",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735728622,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2747710,
-      "num": 2747710,
-      "word": "饺子 早知道十亿十亿画了",
-      "onboard_time": 1739367562,
-      "rank": 1,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

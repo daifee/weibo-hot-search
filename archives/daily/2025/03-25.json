@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742906807816,
+  "endTime": 1742907735638,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -9,6 +9,14 @@
       "onboard_time": 1742883681,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3533705,
+      "num": 3533705,
+      "word": "国足vs澳大利亚",
+      "onboard_time": 1742898741,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 3092132,
@@ -27,12 +35,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2450424,
-      "num": 2450424,
-      "word": "国足vs澳大利亚",
-      "onboard_time": 1742898741,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 2633210,
+      "num": 2633210,
+      "word": "李晟第一",
+      "onboard_time": 1742905702,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2362464,
@@ -136,14 +144,6 @@
       "word": "跑男真把吴昕喊来了",
       "onboard_time": 1742891781,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1296558,
-      "num": 1296558,
-      "word": "李晟第一",
-      "onboard_time": 1742905702,
-      "rank": 1,
       "category": "综艺"
     },
     {
@@ -441,6 +441,14 @@
       "onboard_time": 1742874442,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 500916,
+      "num": 349709,
+      "word": "金赛纶挚友回应",
+      "onboard_time": 1742905942,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 496386,
@@ -763,14 +771,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 313275,
-      "num": 313275,
-      "word": "金赛纶挚友回应",
-      "onboard_time": 1742905942,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 312128,
       "num": 515678,
       "word": "雁回时",
@@ -931,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266183,
+      "num": 266183,
+      "word": "曝金赛纶前男友被金秀贤威胁",
+      "onboard_time": 1742907202,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265216,
       "num": 265216,
       "word": "胖东来公开人员流失率",
@@ -963,6 +971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 246596,
+      "num": 246596,
+      "word": "四川一小区疑高空抛物砸死快递员",
+      "onboard_time": 1742906421,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245374,
       "num": 245374,
       "word": "订婚强奸案涉事男子姐姐发声",
@@ -979,12 +995,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239512,
+      "num": 405035,
+      "word": "男子33万元手表丢失贴8千赎回",
+      "onboard_time": 1742906301,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236363,
+      "num": 252877,
+      "word": "北上大结局",
+      "onboard_time": 1742906601,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233863,
       "num": 233863,
       "word": "每天揉耳十分钟效果可靠",
       "onboard_time": 1742878463,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 232834,
+      "num": 258789,
+      "word": "王天辰吃播",
+      "onboard_time": 1742907082,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 231992,
@@ -1235,6 +1275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199637,
+      "num": 199637,
+      "word": "国足0比2澳大利亚",
+      "onboard_time": 1742907501,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199614,
       "num": 199614,
       "word": "RIIZE新发色",
@@ -1323,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182019,
+      "num": 200650,
+      "word": "白鹿演技",
+      "onboard_time": 1742907563,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179148,
       "num": 271448,
       "word": "国足六主力缺席",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1742871141,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174388,
+      "num": 174388,
+      "word": "赵露思更新ins照",
+      "onboard_time": 1742905102,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 174209,
@@ -1571,6 +1635,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 159000,
+      "num": 159000,
+      "word": "国足 辱追",
+      "onboard_time": 1742907563,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158440,
       "num": 158440,
       "word": "秦彻 喧嚣时速",
@@ -1585,14 +1657,6 @@
       "onboard_time": 1742905821,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 157426,
-      "num": 157426,
-      "word": "赵露思更新ins照",
-      "onboard_time": 1742905102,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 156349,
@@ -1659,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151342,
+      "num": 357771,
+      "word": "王钰栋国足首秀",
+      "onboard_time": 1742906002,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151043,
       "num": 117634,
       "word": "起诉书称男童被生母及男友打死因睡觉晚",
@@ -1673,6 +1745,14 @@
       "onboard_time": 1742896822,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150225,
+      "num": 150225,
+      "word": "日本0比0沙特",
+      "onboard_time": 1742907323,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 149578,
@@ -1696,6 +1776,14 @@
       "word": "北京提醒市民注意安全防范",
       "onboard_time": 1742861721,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146873,
+      "num": 146873,
+      "word": "小区电梯失控从15楼滑坠至负一楼",
+      "onboard_time": 1742904742,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1792,22 +1880,6 @@
       "word": "这一把火是她绝望的自救",
       "onboard_time": 1742868799,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 139033,
-      "num": 139033,
-      "word": "小区电梯失控从15楼滑坠至负一楼",
-      "onboard_time": 1742904742,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138872,
-      "num": 138872,
-      "word": "北上大结局",
-      "onboard_time": 1742906601,
-      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1923,14 +1995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132300,
-      "num": 132300,
-      "word": "四川一小区疑高空抛物砸死快递员",
-      "onboard_time": 1742906421,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132183,
       "num": 175526,
       "word": "中国建人类细胞谱系大科学研究设施",
@@ -2019,20 +2083,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127562,
-      "num": 357771,
-      "word": "王钰栋国足首秀",
-      "onboard_time": 1742906002,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127533,
       "num": 449201,
       "word": "陶昕然与何建泽已无商业关联",
       "onboard_time": 1742895141,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127475,
+      "num": 257743,
+      "word": "从此家用SUV有了理想型",
+      "onboard_time": 1742906903,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 126240,
@@ -2161,14 +2225,6 @@
       "onboard_time": 1742893822,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117020,
-      "num": 405035,
-      "word": "男子33万元手表丢失贴8千赎回",
-      "onboard_time": 1742906301,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115884,
@@ -2675,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74072,
+      "num": 150680,
+      "word": "卫健委介入世纪婴儿猝死事件",
+      "onboard_time": 1742907682,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72949,
       "num": 72949,
       "word": "虞书欣晒卫小枝日常第二弹",
@@ -2689,6 +2753,14 @@
       "onboard_time": 1742814199,
       "rank": 36,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 72907,
+      "num": 301327,
+      "word": "国足现场70588人观战",
+      "onboard_time": 1742906782,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 71437,
@@ -2827,6 +2899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62564,
+      "num": 1236215,
+      "word": "我国开辟油气勘探开发新领域",
+      "onboard_time": 1742894182,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62242,
       "num": 62242,
       "word": "卫健委回应医院员工私下处理胎盘",
@@ -2907,14 +2987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56629,
-      "num": 1143581,
-      "word": "我国开辟油气勘探开发新领域",
-      "onboard_time": 1742894182,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 54693,
       "num": 404596,
       "word": "林高远刘诗雯3比0周雨臧小桐",
@@ -2963,6 +3035,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 48495,
+      "num": 352673,
+      "word": "中国足坛历史上座纪录被打破",
+      "onboard_time": 1742906782,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47518,
       "num": 143670,
       "word": "跑马拉松被误认董事长的公司股价下跌",
@@ -2992,6 +3072,14 @@
       "word": "国足比分预测",
       "onboard_time": 1742885063,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45005,
+      "num": 253450,
+      "word": "国足无缘直通世界杯",
+      "onboard_time": 1742907501,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -3041,6 +3129,14 @@
       "onboard_time": 1742871141,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 40913,
+      "num": 221442,
+      "word": "中央气象台预警三连",
+      "onboard_time": 1742901202,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37679,
@@ -3371,28 +3467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7441,
-      "num": 138962,
-      "word": "国足现场70588人观战",
-      "onboard_time": 1742906782,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 6820,
       "num": 216104,
       "word": "数码宝贝护目镜帅哥",
       "onboard_time": 1742877742,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 6251,
-      "num": 139006,
-      "word": "中国足坛历史上座纪录被打破",
-      "onboard_time": 1742906782,
-      "rank": 40,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

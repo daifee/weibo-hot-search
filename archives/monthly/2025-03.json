@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742906807816,
+  "endTime": 1742907735638,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -281,6 +281,14 @@
       "onboard_time": 1741847421,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3533705,
+      "num": 3533705,
+      "word": "国足vs澳大利亚",
+      "onboard_time": 1742898741,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 3504662,
@@ -611,6 +619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2633210,
+      "num": 2633210,
+      "word": "李晟第一",
+      "onboard_time": 1742905702,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2607241,
       "num": 2607241,
       "word": "合肥通报三只羊问题调查处置情况",
@@ -673,14 +689,6 @@
       "onboard_time": 1740758299,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2450424,
-      "num": 2450424,
-      "word": "国足vs澳大利亚",
-      "onboard_time": 1742898741,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 2442542,
@@ -3209,14 +3217,6 @@
       "onboard_time": 1742481142,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1296558,
-      "num": 1296558,
-      "word": "李晟第一",
-      "onboard_time": 1742905702,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1296172,
@@ -13035,6 +13035,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 500916,
+      "num": 349709,
+      "word": "金赛纶挚友回应",
+      "onboard_time": 1742905942,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 500857,
       "num": 500857,
       "word": "美国男子因虐猫被判40年监禁",
@@ -20635,14 +20643,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 313275,
-      "num": 313275,
-      "word": "金赛纶挚友回应",
-      "onboard_time": 1742905942,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 313232,
       "num": 313232,
       "word": "宋妍霏浪姐6人缘",
@@ -23851,6 +23851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266183,
+      "num": 266183,
+      "word": "曝金赛纶前男友被金秀贤威胁",
+      "onboard_time": 1742907202,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266049,
       "num": 361280,
       "word": "你好星期六三八节全员送花花",
@@ -25539,6 +25547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 246596,
+      "num": 246596,
+      "word": "四川一小区疑高空抛物砸死快递员",
+      "onboard_time": 1742906421,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246594,
       "num": 246594,
       "word": "什么是性倒错症",
@@ -26259,6 +26275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239512,
+      "num": 405035,
+      "word": "男子33万元手表丢失贴8千赎回",
+      "onboard_time": 1742906301,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239503,
       "num": 239503,
       "word": "王嘉尔邀请甲亢哥来中国",
@@ -26497,6 +26521,14 @@
       "onboard_time": 1740813508,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 236363,
+      "num": 252877,
+      "word": "北上大结局",
+      "onboard_time": 1742906601,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 236306,
@@ -26921,6 +26953,14 @@
       "onboard_time": 1741945465,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232834,
+      "num": 258789,
+      "word": "王天辰吃播",
+      "onboard_time": 1742907082,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 232769,
@@ -32507,6 +32547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199637,
+      "num": 199637,
+      "word": "国足0比2澳大利亚",
+      "onboard_time": 1742907501,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199614,
       "num": 199614,
       "word": "RIIZE新发色",
@@ -36811,6 +36859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 182019,
+      "num": 200650,
+      "word": "白鹿演技",
+      "onboard_time": 1742907563,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181961,
       "num": 181961,
       "word": "王曼昱11比9张本美和",
@@ -38385,6 +38441,14 @@
       "onboard_time": 1741760783,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 174388,
+      "num": 174388,
+      "word": "赵露思更新ins照",
+      "onboard_time": 1742905102,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 174363,
@@ -42507,6 +42571,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 159000,
+      "num": 159000,
+      "word": "国足 辱追",
+      "onboard_time": 1742907563,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158988,
       "num": 158988,
       "word": "李现李一桐或二搭将相",
@@ -43025,14 +43097,6 @@
       "onboard_time": 1742479283,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157426,
-      "num": 157426,
-      "word": "赵露思更新ins照",
-      "onboard_time": 1742905102,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 157385,
@@ -44963,6 +45027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151342,
+      "num": 357771,
+      "word": "王钰栋国足首秀",
+      "onboard_time": 1742906002,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151323,
       "num": 151323,
       "word": "林俊杰黑粉未道歉被公告",
@@ -45257,6 +45329,14 @@
       "onboard_time": 1740905240,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 150225,
+      "num": 150225,
+      "word": "日本0比0沙特",
+      "onboard_time": 1742907323,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 150111,
@@ -46297,6 +46377,14 @@
       "onboard_time": 1741526544,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146873,
+      "num": 146873,
+      "word": "小区电梯失控从15楼滑坠至负一楼",
+      "onboard_time": 1742904742,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146836,
@@ -48971,14 +49059,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 139033,
-      "num": 139033,
-      "word": "小区电梯失控从15楼滑坠至负一楼",
-      "onboard_time": 1742904742,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139011,
       "num": 139011,
       "word": "孟子义为奔跑吧充电",
@@ -49041,14 +49121,6 @@
       "onboard_time": 1741173797,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138872,
-      "num": 138872,
-      "word": "北上大结局",
-      "onboard_time": 1742906601,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 138855,
@@ -51027,14 +51099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 132300,
-      "num": 132300,
-      "word": "四川一小区疑高空抛物砸死快递员",
-      "onboard_time": 1742906421,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132289,
       "num": 132289,
       "word": "张百乔晒和王楚钦合照",
@@ -52475,14 +52539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 127562,
-      "num": 357771,
-      "word": "王钰栋国足首秀",
-      "onboard_time": 1742906002,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127551,
       "num": 127551,
       "word": "迪丽热巴谈表演瓶颈",
@@ -52537,6 +52593,14 @@
       "onboard_time": 1742801782,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127475,
+      "num": 257743,
+      "word": "从此家用SUV有了理想型",
+      "onboard_time": 1742906903,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 127436,
@@ -56201,14 +56265,6 @@
       "onboard_time": 1741417402,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117020,
-      "num": 405035,
-      "word": "男子33万元手表丢失贴8千赎回",
-      "onboard_time": 1742906301,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117012,
@@ -66939,6 +66995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74072,
+      "num": 150680,
+      "word": "卫健委介入世纪婴儿猝死事件",
+      "onboard_time": 1742907682,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74046,
       "num": 314742,
       "word": "律师称解决加班乱象将刺激消费",
@@ -67121,6 +67185,14 @@
       "onboard_time": 1741252760,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72907,
+      "num": 301327,
+      "word": "国足现场70588人观战",
+      "onboard_time": 1742906782,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 72880,
@@ -69099,6 +69171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62564,
+      "num": 1236215,
+      "word": "我国开辟油气勘探开发新领域",
+      "onboard_time": 1742894182,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62554,
       "num": 394455,
       "word": "律师称隐形加班认定难",
@@ -70249,14 +70329,6 @@
       "onboard_time": 1742548583,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 56629,
-      "num": 1143581,
-      "word": "我国开辟油气勘探开发新领域",
-      "onboard_time": 1742894182,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 56528,
@@ -72067,6 +72139,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 48495,
+      "num": 352673,
+      "word": "中国足坛历史上座纪录被打破",
+      "onboard_time": 1742906782,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48476,
       "num": 140920,
       "word": "任嘉伦篮球知识储备太强了",
@@ -72689,6 +72769,14 @@
       "onboard_time": 1742786841,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45005,
+      "num": 253450,
+      "word": "国足无缘直通世界杯",
+      "onboard_time": 1742907501,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 44962,
@@ -73697,6 +73785,14 @@
       "onboard_time": 1741489462,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 40913,
+      "num": 221442,
+      "word": "中央气象台预警三连",
+      "onboard_time": 1742901202,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40912,
@@ -81667,14 +81763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7441,
-      "num": 138962,
-      "word": "国足现场70588人观战",
-      "onboard_time": 1742906782,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 7135,
       "num": 97510,
       "word": "为何喜力可以稳居高端市场前列",
@@ -81720,14 +81808,6 @@
       "word": "林高远刘诗雯将参加全运会资格赛",
       "onboard_time": 1741243397,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6251,
-      "num": 139006,
-      "word": "中国足坛历史上座纪录被打破",
-      "onboard_time": 1742906782,
-      "rank": 40,
       "category": "体育"
     },
     {

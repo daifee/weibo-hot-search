@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/03/25 20:46:47
+本榜单时间：2025/01/01 00:26:38 ~ 2025/03/25 21:02:15
 </p>
 </blockquote>
 <p>
@@ -1011,6 +1011,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%23" target="weibo">
+国足vs澳大利亚（热度：3533705）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF%E7%A0%B480%E4%BA%BF%23" target="weibo">
 哪吒2票房破80亿（热度：3533201）
 </a>
@@ -1805,12 +1811,6 @@ TikTok禁令（热度：2765381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E6%B2%B3%E9%85%B7%E5%A8%B1%E8%87%B4%E6%AD%89%23" target="weibo">
 银河酷娱致歉（热度：2763810）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A5%BA%E5%AD%90%20%E6%97%A9%E7%9F%A5%E9%81%93%E5%8D%81%E4%BA%BF%E5%8D%81%E4%BA%BF%E7%94%BB%E4%BA%86%23" target="weibo">
-饺子 早知道十亿十亿画了（热度：2747710）
 </a>
 </li>
 
