@@ -1,0 +1,410 @@
+{
+  "runTime": 1742887554072,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3816005,
+        "num": 3816005,
+        "word": "陶昕然离婚",
+        "onboard_time": 1742883681,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669349,
+        "num": 669349,
+        "word": "雷军小米YU7樱花照",
+        "onboard_time": 1742880321,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 42988,
+        "num": 549905,
+        "word": "中国能源有底气",
+        "onboard_time": 1742872820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 855609,
+        "num": 549886,
+        "word": "高泰宇退圈",
+        "onboard_time": 1742886562,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549607,
+        "num": 549607,
+        "word": "21岁背女送外卖的单亲妈妈买房了",
+        "onboard_time": 1742882361,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523707,
+        "num": 523707,
+        "word": "订婚3年未结婚女方被要求返还18万",
+        "onboard_time": 1742883501,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671283,
+        "num": 522053,
+        "word": "浪姐6是不是押错宝了",
+        "onboard_time": 1742879063,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511698,
+        "num": 511698,
+        "word": "下周上四休三不调休",
+        "onboard_time": 1742872642,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222815,
+        "num": 488308,
+        "word": "孩子被骗让妈妈卡里仅剩几毛钱",
+        "onboard_time": 1742879243,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163827,
+        "num": 462903,
+        "word": "楼面价77409元一平杭州最贵地价诞生",
+        "onboard_time": 1742884161,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1581374,
+        "num": 436495,
+        "word": "曾与肖战合作演员官宣退圈",
+        "onboard_time": 1742884282,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675345,
+        "num": 412133,
+        "word": "王鹤棣告了男德",
+        "onboard_time": 1742877143,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406311,
+        "num": 406311,
+        "word": "订婚强奸案男子当庭哭诉冤枉",
+        "onboard_time": 1742883681,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397308,
+        "num": 397308,
+        "word": "男子跑马心脏骤停醒来就问完赛包",
+        "onboard_time": 1742881400,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143048,
+        "num": 357192,
+        "word": "代孕机构称法律才不管女孩年龄",
+        "onboard_time": 1742886262,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329886,
+        "num": 329886,
+        "word": "男德",
+        "onboard_time": 1742878163,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327703,
+        "num": 327703,
+        "word": "我的后半生定档",
+        "onboard_time": 1742886982,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272866,
+        "num": 272866,
+        "word": "董事长被指马拉松上与女子举止亲密",
+        "onboard_time": 1742877022,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107800,
+        "num": 248139,
+        "word": "Ailee去年已登记结婚",
+        "onboard_time": 1742882541,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112902,
+        "num": 234653,
+        "word": "男子深陷套路贷30万滚成260万",
+        "onboard_time": 1742885962,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339015,
+        "num": 232962,
+        "word": "原来应届生身份这么有用",
+        "onboard_time": 1742882901,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226435,
+        "num": 226435,
+        "word": "王嘉尔练习生时期恋爱被罚写检讨",
+        "onboard_time": 1742885183,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214968,
+        "num": 214968,
+        "word": "林俊杰ins晒了Jennie专辑to签",
+        "onboard_time": 1742886743,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208431,
+        "num": 208431,
+        "word": "赵露思 定制综艺",
+        "onboard_time": 1742873900,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159182,
+        "num": 197556,
+        "word": "王楚钦调侃说冠军没少拿",
+        "onboard_time": 1742885242,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105790,
+        "num": 196439,
+        "word": "李书福的演讲稿藏在眼镜里",
+        "onboard_time": 1742883923,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196136,
+        "num": 196136,
+        "word": "女生高铁上提醒男子勿脱鞋放脚被打",
+        "onboard_time": 1742865859,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194873,
+        "num": 194873,
+        "word": "黄英是浪姐最后一个vocal了",
+        "onboard_time": 1742884402,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145581,
+        "num": 191245,
+        "word": "2025新电影一波又一波",
+        "onboard_time": 1742882121,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196118,
+        "num": 190705,
+        "word": "小米YU7",
+        "onboard_time": 1742887102,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 189495,
+        "num": 189495,
+        "word": "aespa 回归",
+        "onboard_time": 1742879661,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179148,
+        "num": 179148,
+        "word": "国足六主力缺席",
+        "onboard_time": 1742884342,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169727,
+        "num": 169727,
+        "word": "白鹿北上婚纱9宫格",
+        "onboard_time": 1742887042,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162921,
+        "num": 162921,
+        "word": "唐嫣 古偶",
+        "onboard_time": 1742876062,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161275,
+        "num": 161275,
+        "word": "远光软件股东介入无锡野鸳鸯事件",
+        "onboard_time": 1742885362,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141440,
+        "num": 141440,
+        "word": "每天揉耳十分钟效果可靠",
+        "onboard_time": 1742878463,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131713,
+        "num": 131713,
+        "word": "吃着不甜但热量爆炸的水果",
+        "onboard_time": 1742870300,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 18413,
+        "num": 129781,
+        "word": "此刻的武大是一万次的春和景明",
+        "onboard_time": 1742887042,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129109,
+        "num": 129109,
+        "word": "马云邓文迪章泽天等现身香港",
+        "onboard_time": 1742884942,
+        "rank": 38,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 127087,
+        "num": 127087,
+        "word": "王楚钦上海活动人气",
+        "onboard_time": 1742884041,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123213,
+        "num": 123213,
+        "word": "用鸡柳把流浪狗骗回家一年后",
+        "onboard_time": 1742882959,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122759,
+        "num": 122759,
+        "word": "金毛餐厅偷吃饺子主人买下餐盘道歉",
+        "onboard_time": 1742876003,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122048,
+        "num": 122048,
+        "word": "李晟 骄傲的叶凡遇到了骄傲的主母",
+        "onboard_time": 1742884222,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120887,
+        "num": 120887,
+        "word": "福宝与公众再度见面",
+        "onboard_time": 1742868020,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110656,
+        "num": 110656,
+        "word": "2小时车程变2分钟是什么体验",
+        "onboard_time": 1742881642,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106932,
+        "num": 106932,
+        "word": "阮惜文 京城第一贵女",
+        "onboard_time": 1742884581,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104978,
+        "num": 104978,
+        "word": "为什么卫生巾的护垫总这样",
+        "onboard_time": 1742876182,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104724,
+        "num": 104724,
+        "word": "金赛纶前男友发声",
+        "onboard_time": 1742875101,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103271,
+        "num": 103271,
+        "word": "福宝看似玩水实则洗澡",
+        "onboard_time": 1742885302,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100203,
+        "num": 100203,
+        "word": "NJZ 告五人",
+        "onboard_time": 1742887522,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#清风正气满乾坤#"
+    }
+  }
+}
