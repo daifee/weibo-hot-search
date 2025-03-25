@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742881274355,
+  "endTime": 1742884450785,
   "band_list": [
     {
       "raw_hot": 3092132,
@@ -9,6 +9,14 @@
       "onboard_time": 1742865859,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3005462,
+      "num": 3005462,
+      "word": "陶昕然离婚",
+      "onboard_time": 1742883681,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2874896,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1586970,
-      "num": 342234,
+      "num": 352721,
       "word": "男德",
       "onboard_time": 1742878163,
       "rank": 11,
@@ -57,6 +65,14 @@
       "onboard_time": 1742872642,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1490189,
+      "num": 572784,
+      "word": "浪姐6是不是押错宝了",
+      "onboard_time": 1742879063,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1484751,
@@ -99,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 966864,
+      "num": 966864,
+      "word": "雷军小米YU7樱花照",
+      "onboard_time": 1742880321,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 805826,
       "num": 805826,
       "word": "李晟镜头",
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 765862,
-      "num": 325221,
+      "num": 352476,
       "word": "董事长被指马拉松上与女子举止亲密",
       "onboard_time": 1742877022,
       "rank": 23,
@@ -161,14 +185,6 @@
       "onboard_time": 1742876182,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 550074,
-      "num": 550074,
-      "word": "浪姐6是不是押错宝了",
-      "onboard_time": 1742879063,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 540142,
@@ -299,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404599,
+      "num": 404599,
+      "word": "21岁背女送外卖的单亲妈妈买房了",
+      "onboard_time": 1742882361,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 391405,
       "num": 391405,
       "word": "NPC假借游戏猥亵女孩获刑1年半",
@@ -329,6 +353,14 @@
       "onboard_time": 1742824523,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362134,
+      "num": 362134,
+      "word": "订婚强奸案女方未出庭",
+      "onboard_time": 1742882121,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358825,
@@ -379,6 +411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 321552,
+      "num": 334233,
+      "word": "三地回应17岁女孩代孕生下双胞胎",
+      "onboard_time": 1742880501,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315547,
       "num": 211418,
       "word": "考公博主吴桐 塌房",
@@ -393,14 +433,6 @@
       "onboard_time": 1742870300,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 307685,
-      "num": 307685,
-      "word": "雷军小米YU7樱花照",
-      "onboard_time": 1742880321,
-      "rank": 21,
-      "category": "汽车"
     },
     {
       "raw_hot": 306236,
@@ -467,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274295,
+      "num": 274295,
+      "word": "原来应届生身份这么有用",
+      "onboard_time": 1742882901,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269931,
       "num": 216519,
       "word": "DeepSeek预测国足出线概率",
@@ -499,12 +539,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 245374,
+      "num": 245374,
+      "word": "订婚强奸案涉事男子姐姐发声",
+      "onboard_time": 1742881161,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242684,
       "num": 242684,
       "word": "为带小猫世纪婴儿高烧坐8小时大巴",
       "onboard_time": 1742825124,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233863,
+      "num": 233863,
+      "word": "每天揉耳十分钟效果可靠",
+      "onboard_time": 1742878463,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 227051,
@@ -521,6 +577,22 @@
       "onboard_time": 1742877203,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 222705,
+      "num": 242011,
+      "word": "男子跑马心脏骤停醒来就问完赛包",
+      "onboard_time": 1742881400,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220086,
+      "num": 271454,
+      "word": "Ailee去年已登记结婚",
+      "onboard_time": 1742882541,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 217409,
@@ -561,14 +633,6 @@
       "onboard_time": 1742831961,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208834,
-      "num": 200591,
-      "word": "每天揉耳十分钟效果可靠",
-      "onboard_time": 1742878463,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 205361,
@@ -635,6 +699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 188369,
+      "num": 188369,
+      "word": "订婚3年未结婚女方被要求返还18万",
+      "onboard_time": 1742883501,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187247,
       "num": 187247,
       "word": "订婚强奸案双方曾计划领证后房本加名",
@@ -657,6 +729,14 @@
       "onboard_time": 1742866820,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177170,
+      "num": 242136,
+      "word": "李书福的演讲稿藏在眼镜里",
+      "onboard_time": 1742883923,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176423,
@@ -689,6 +769,14 @@
       "onboard_time": 1742823502,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172877,
+      "num": 255748,
+      "word": "郭麒麟没有在郭德纲关联公司中持股",
+      "onboard_time": 1742882240,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 171887,
@@ -827,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152832,
+      "num": 353192,
+      "word": "订婚强奸案男子当庭哭诉冤枉",
+      "onboard_time": 1742883681,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151604,
       "num": 151604,
       "word": "阿里巴巴将重启招聘",
@@ -889,6 +985,14 @@
       "onboard_time": 1742867001,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140461,
+      "num": 140461,
+      "word": "2小时车程变2分钟是什么体验",
+      "onboard_time": 1742881642,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139647,
@@ -961,6 +1065,14 @@
       "onboard_time": 1742874201,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132466,
+      "num": 132466,
+      "word": "王楚钦上海活动人气",
+      "onboard_time": 1742884041,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 132395,
@@ -1075,12 +1187,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 119273,
-      "num": 334233,
-      "word": "三地回应17岁女孩代孕生下双胞胎",
-      "onboard_time": 1742880501,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 119229,
+      "num": 262872,
+      "word": "沈星回同遨寰宇2.0",
+      "onboard_time": 1742883742,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 117936,
@@ -1091,12 +1203,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115752,
+      "num": 108540,
+      "word": "李晟 骄傲的叶凡遇到了骄傲的主母",
+      "onboard_time": 1742884222,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114590,
       "num": 114590,
       "word": "福宝恢复展出",
       "onboard_time": 1742823743,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113989,
+      "num": 113989,
+      "word": "2025新电影一波又一波",
+      "onboard_time": 1742882121,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 112132,
@@ -1128,6 +1256,14 @@
       "word": "嗑到唐艺昕和张若昀的日常了",
       "onboard_time": 1742858718,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 108915,
+      "num": 108915,
+      "word": "黄英是浪姐最后一个vocal了",
+      "onboard_time": 1742884402,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1283,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90574,
+      "num": 114692,
+      "word": "钟楚曦春游",
+      "onboard_time": 1742882421,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89402,
       "num": 89402,
       "word": "雁回时",
@@ -1361,6 +1505,14 @@
       "onboard_time": 1742820382,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80787,
+      "num": 309252,
+      "word": "申裕斌心中最强正手是孙颖莎",
+      "onboard_time": 1742883441,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 78562,
@@ -1451,14 +1603,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 69425,
-      "num": 152351,
-      "word": "订婚强奸案涉事男子姐姐发声",
-      "onboard_time": 1742881161,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69117,
       "num": 69117,
       "word": "安徽蚌埠全市试行作业熔断机制",
@@ -1473,6 +1617,14 @@
       "onboard_time": 1742832440,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68018,
+      "num": 243205,
+      "word": "曾与肖战合作演员官宣退圈",
+      "onboard_time": 1742884282,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 67893,
@@ -1627,6 +1779,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 47073,
+      "num": 295183,
+      "word": "起猛了看见小岳岳唱跳",
+      "onboard_time": 1742881100,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42454,
       "num": 42454,
       "word": "上官正义称代孕妈妈中不乏高学历者",
@@ -1643,12 +1803,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41909,
+      "num": 277447,
+      "word": "订婚强奸案男方曾口头确认强暴女方",
+      "onboard_time": 1742884102,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41406,
       "num": 202600,
       "word": "这才是想象中的大学黑板啊",
       "onboard_time": 1742871141,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 39564,
+      "num": 315726,
+      "word": "涉事医院回应工作人员私自处理胎盘",
+      "onboard_time": 1742883141,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37679,
@@ -1803,14 +1979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16331,
-      "num": 109046,
-      "word": "起猛了看见小岳岳唱跳",
-      "onboard_time": 1742881100,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 15709,
       "num": 20987,
       "word": "谢浩男称自己短暂干过保安",
@@ -1857,6 +2025,22 @@
       "onboard_time": 1742839875,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9297,
+      "num": 132577,
+      "word": "李磊说会为球迷奉献一场精彩比赛",
+      "onboard_time": 1742883202,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7073,
+      "num": 132470,
+      "word": "国足六主力缺席",
+      "onboard_time": 1742884342,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 6820,

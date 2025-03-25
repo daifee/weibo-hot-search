@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742881274355,
+  "endTime": 1742884450785,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1875,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 3005462,
+      "num": 3005462,
+      "word": "陶昕然离婚",
+      "onboard_time": 1742883681,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2996452,
       "num": 2996452,
       "word": "三人行 李明德",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739367562,
       "rank": 1,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2746820,
-      "num": 2746820,
-      "word": "王曼昱vs孙颖莎",
-      "onboard_time": 1740307820,
-      "rank": 6,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
