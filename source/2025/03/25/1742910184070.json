@@ -1,0 +1,410 @@
+{
+  "runTime": 1742910184070,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2962320,
+        "num": 2962320,
+        "word": "李晟第一",
+        "onboard_time": 1742905702,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1837806,
+        "num": 1837806,
+        "word": "国足vs澳大利亚",
+        "onboard_time": 1742898741,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5195,
+        "num": 1515206,
+        "word": "万千气象看江苏",
+        "onboard_time": 1742825783,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1322434,
+        "num": 1322434,
+        "word": "国足 辱追",
+        "onboard_time": 1742907563,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 528845,
+        "num": 528845,
+        "word": "国足0比2澳大利亚",
+        "onboard_time": 1742907501,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433942,
+        "num": 433942,
+        "word": "赵露思小小的勇气0片酬",
+        "onboard_time": 1742897542,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424790,
+        "num": 424790,
+        "word": "四川一小区疑高空抛物砸死快递员",
+        "onboard_time": 1742906421,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322189,
+        "num": 322189,
+        "word": "马拉松亲密事件拍摄者道歉",
+        "onboard_time": 1742894243,
+        "rank": 7,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 216871,
+        "num": 321540,
+        "word": "超7万人现场见证国足0比2",
+        "onboard_time": 1742909542,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34920,
+        "num": 320189,
+        "word": "全场国足球迷高喊继续战斗",
+        "onboard_time": 1742909182,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 627613,
+        "num": 317824,
+        "word": "被传患病网红夫妇质疑就餐后商场消杀",
+        "onboard_time": 1742908340,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622632,
+        "num": 316379,
+        "word": "男德向王鹤棣道歉",
+        "onboard_time": 1742904262,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603579,
+        "num": 314105,
+        "word": "金赛纶挚友回应",
+        "onboard_time": 1742905942,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314061,
+        "num": 314061,
+        "word": "白鹿演技",
+        "onboard_time": 1742907563,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312291,
+        "num": 312291,
+        "word": "小区电梯失控从15楼滑坠至负一楼",
+        "onboard_time": 1742904742,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310936,
+        "num": 310936,
+        "word": "富士相纸",
+        "onboard_time": 1742901622,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 108384,
+        "num": 283828,
+        "word": "从此家用SUV有了理想型",
+        "onboard_time": 1742906903,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 479499,
+        "num": 281739,
+        "word": "金赛纶给金秀贤写了信",
+        "onboard_time": 1742909782,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274402,
+        "num": 274402,
+        "word": "骄傲的叶凡",
+        "onboard_time": 1742909421,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30311,
+        "num": 274246,
+        "word": "欠钱男子坐高铁被控制现场答应筹款",
+        "onboard_time": 1742908522,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 634281,
+        "num": 273666,
+        "word": "孕妇1天尿出60个鸡蛋的蛋白质致早产",
+        "onboard_time": 1742905522,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460861,
+        "num": 273566,
+        "word": "每天喝牛奶和从不喝牛奶的区别",
+        "onboard_time": 1742903602,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124946,
+        "num": 273079,
+        "word": "重庆动物园被指区别对待动物",
+        "onboard_time": 1742908940,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184186,
+        "num": 272796,
+        "word": "北上大结局",
+        "onboard_time": 1742906601,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174962,
+        "num": 272405,
+        "word": "雁回时",
+        "onboard_time": 1742898141,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49541,
+        "num": 271676,
+        "word": "女子用泡泡玛特数据线充电手机烧坏",
+        "onboard_time": 1742909961,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43539,
+        "num": 271440,
+        "word": "李磊对球迷说抱歉",
+        "onboard_time": 1742908940,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68539,
+        "num": 270943,
+        "word": "高空坠物砸死快递员2名肇事者被刑拘",
+        "onboard_time": 1742909182,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 24962,
+        "num": 270749,
+        "word": "俄美最新谈判不公开",
+        "onboard_time": 1742909421,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52990,
+        "num": 270405,
+        "word": "A级纯电SUV满配大玩家海狮05EV",
+        "onboard_time": 1742907921,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 394384,
+        "num": 269934,
+        "word": "陶昕然离婚",
+        "onboard_time": 1742883681,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381563,
+        "num": 269265,
+        "word": "跑男真把吴昕喊来了",
+        "onboard_time": 1742891781,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360188,
+        "num": 269188,
+        "word": "马拉松一对男女亲密动作被拍到",
+        "onboard_time": 1742893043,
+        "rank": 32,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 277394,
+        "num": 268618,
+        "word": "文在寅父女双双被检方调查",
+        "onboard_time": 1742897061,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268471,
+        "num": 268471,
+        "word": "国足0比2输了",
+        "onboard_time": 1742909542,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235711,
+        "num": 235711,
+        "word": "陶昕然曾给老公打电话大哭",
+        "onboard_time": 1742898803,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226032,
+        "num": 226032,
+        "word": "韩安冉妈妈为亲家母发声",
+        "onboard_time": 1742902580,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 222447,
+        "num": 222447,
+        "word": "70588名观众创中国足球上座纪录",
+        "onboard_time": 1742909542,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208376,
+        "num": 208376,
+        "word": "高泰宇退圈",
+        "onboard_time": 1742886562,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194114,
+        "num": 194114,
+        "word": "上3休2再上4休3",
+        "onboard_time": 1742893761,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174101,
+        "num": 174101,
+        "word": "赵露思更新ins照",
+        "onboard_time": 1742905102,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167345,
+        "num": 167345,
+        "word": "33万手表被捡走失主花15万买回",
+        "onboard_time": 1742903843,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164781,
+        "num": 164781,
+        "word": "70588人现场观看国足vs澳大利亚",
+        "onboard_time": 1742908761,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121707,
+        "num": 163561,
+        "word": "卫健委介入世纪婴儿猝死事件",
+        "onboard_time": 1742907682,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163101,
+        "num": 163101,
+        "word": "骗子用上不了大学威胁小孩转账",
+        "onboard_time": 1742900481,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161005,
+        "num": 161005,
+        "word": "杨紫簪中录台湾待播海报",
+        "onboard_time": 1742902761,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144889,
+        "num": 144889,
+        "word": "何建泽回应离婚",
+        "onboard_time": 1742900362,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128309,
+        "num": 128309,
+        "word": "李晟 当",
+        "onboard_time": 1742910023,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124915,
+        "num": 124915,
+        "word": "日本0比0沙特",
+        "onboard_time": 1742907323,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124838,
+        "num": 124838,
+        "word": "雷军回应凌晨五点多拍照",
+        "onboard_time": 1742908340,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调八项规定是刚性的#"
+    }
+  }
+}
