@@ -1,0 +1,410 @@
+{
+  "runTime": 1742906807816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2450424,
+        "num": 2450424,
+        "word": "国足vs澳大利亚",
+        "onboard_time": 1742898741,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1296558,
+        "num": 1296558,
+        "word": "李晟第一",
+        "onboard_time": 1742905702,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56629,
+        "num": 1119885,
+        "word": "我国开辟油气勘探开发新领域",
+        "onboard_time": 1742894182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1082464,
+        "num": 1082464,
+        "word": "富士相纸",
+        "onboard_time": 1742901622,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 482606,
+        "num": 482606,
+        "word": "何建泽回应离婚",
+        "onboard_time": 1742900362,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410914,
+        "num": 410914,
+        "word": "文在寅父女双双被检方调查",
+        "onboard_time": 1742897061,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 327179,
+        "num": 409519,
+        "word": "骗子用上不了大学威胁小孩转账",
+        "onboard_time": 1742900481,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451371,
+        "num": 408604,
+        "word": "赵露思小小的勇气0片酬",
+        "onboard_time": 1742897542,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117020,
+        "num": 405035,
+        "word": "男子33万元手表丢失贴8千赎回",
+        "onboard_time": 1742906301,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21351,
+        "num": 404408,
+        "word": "张玉宁头球稍稍偏出",
+        "onboard_time": 1742905942,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 950405,
+        "num": 401495,
+        "word": "男德向王鹤棣道歉",
+        "onboard_time": 1742904262,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531270,
+        "num": 398619,
+        "word": "韩安冉妈妈为亲家母发声",
+        "onboard_time": 1742902580,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 397942,
+        "num": 397942,
+        "word": "马拉松亲密事件拍摄者道歉",
+        "onboard_time": 1742894243,
+        "rank": 12,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 366867,
+        "num": 366867,
+        "word": "高泰宇退圈",
+        "onboard_time": 1742886562,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127562,
+        "num": 357771,
+        "word": "王钰栋国足首秀",
+        "onboard_time": 1742906002,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357400,
+        "num": 357400,
+        "word": "33万手表被捡走失主花15万买回",
+        "onboard_time": 1742903843,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313275,
+        "num": 313275,
+        "word": "金赛纶挚友回应",
+        "onboard_time": 1742905942,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308126,
+        "num": 308126,
+        "word": "博士生月薪1500元系印刷错误",
+        "onboard_time": 1742899041,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298792,
+        "num": 298792,
+        "word": "杨紫簪中录台湾待播海报",
+        "onboard_time": 1742902761,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96766,
+        "num": 296847,
+        "word": "王天辰吃播太下饭了",
+        "onboard_time": 1742906183,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713834,
+        "num": 292583,
+        "word": "孕妇1天尿出60个鸡蛋的蛋白质致早产",
+        "onboard_time": 1742905522,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645448,
+        "num": 288928,
+        "word": "马拉松一对男女亲密动作被拍到",
+        "onboard_time": 1742893043,
+        "rank": 21,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 552635,
+        "num": 285109,
+        "word": "陶昕然离婚",
+        "onboard_time": 1742883681,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540363,
+        "num": 279791,
+        "word": "每天喝牛奶和从不喝牛奶的区别",
+        "onboard_time": 1742903602,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 537589,
+        "num": 278929,
+        "word": "跑男真把吴昕喊来了",
+        "onboard_time": 1742891781,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192630,
+        "num": 273918,
+        "word": "雁回时",
+        "onboard_time": 1742898141,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192265,
+        "num": 271577,
+        "word": "孙燕姿深圳抢票",
+        "onboard_time": 1742903062,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191028,
+        "num": 264651,
+        "word": "阚清子回应没去浪姐",
+        "onboard_time": 1742900301,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79527,
+        "num": 261196,
+        "word": "国博凤冠冰箱贴销量破1000000",
+        "onboard_time": 1742886082,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48935,
+        "num": 259736,
+        "word": "电商平台百亿补贴买到后封机",
+        "onboard_time": 1742905102,
+        "rank": 29,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 256968,
+        "num": 256968,
+        "word": "上3休2再上4休3",
+        "onboard_time": 1742893761,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260234,
+        "num": 247537,
+        "word": "陶昕然曾给老公打电话大哭",
+        "onboard_time": 1742898803,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209822,
+        "num": 209822,
+        "word": "王大雷黄油手",
+        "onboard_time": 1742902702,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173593,
+        "num": 173593,
+        "word": "马嘉祺不语只是一味地递麦",
+        "onboard_time": 1742905761,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167090,
+        "num": 167090,
+        "word": "浪姐6黑马",
+        "onboard_time": 1742892621,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159523,
+        "num": 159523,
+        "word": "国足0比2落后",
+        "onboard_time": 1742902642,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157816,
+        "num": 157816,
+        "word": "领克900预售价33万起",
+        "onboard_time": 1742905821,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157426,
+        "num": 157426,
+        "word": "赵露思更新ins照",
+        "onboard_time": 1742905102,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156260,
+        "num": 156260,
+        "word": "范志毅看国足直叹气",
+        "onboard_time": 1742904501,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139033,
+        "num": 139033,
+        "word": "小区电梯失控从15楼滑坠至负一楼",
+        "onboard_time": 1742904742,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6251,
+        "num": 139006,
+        "word": "中国足坛历史上座纪录被打破",
+        "onboard_time": 1742906782,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7441,
+        "num": 138962,
+        "word": "国足现场70588人观战",
+        "onboard_time": 1742906782,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301474,
+        "num": 138914,
+        "word": "雷军新头像",
+        "onboard_time": 1742905461,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128351,
+        "num": 138910,
+        "word": "塞尔吉尼奥爆射被扑",
+        "onboard_time": 1742905461,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138872,
+        "num": 138872,
+        "word": "北上大结局",
+        "onboard_time": 1742906601,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137480,
+        "num": 137480,
+        "word": "前男友称金赛纶因纽约男友失去希望",
+        "onboard_time": 1742903782,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132300,
+        "num": 132300,
+        "word": "四川一小区疑高空抛物砸死快递员",
+        "onboard_time": 1742906421,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130209,
+        "num": 130209,
+        "word": "小米YU7",
+        "onboard_time": 1742887102,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127976,
+        "num": 127976,
+        "word": "雁回时求加更",
+        "onboard_time": 1742903421,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106458,
+        "num": 106458,
+        "word": "赵雅芝72岁正是跑马拉松的年纪",
+        "onboard_time": 1742896461,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调八项规定是刚性的#"
+    }
+  }
+}
