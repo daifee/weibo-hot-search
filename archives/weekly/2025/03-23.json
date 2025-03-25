@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742894806808,
+  "endTime": 1742895615078,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -57,6 +57,14 @@
       "onboard_time": 1742802802,
       "rank": 10,
       "category": "教育,网红"
+    },
+    {
+      "raw_hot": 2244865,
+      "num": 2244865,
+      "word": "马拉松一对男女亲密动作被拍到",
+      "onboard_time": 1742893043,
+      "rank": 1,
+      "category": "民生新闻,运动健身"
     },
     {
       "raw_hot": 2242889,
@@ -465,14 +473,6 @@
       "onboard_time": 1742785519,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 964667,
-      "num": 964667,
-      "word": "马拉松一对男女亲密动作被拍到",
-      "onboard_time": 1742893043,
-      "rank": 1,
-      "category": "民生新闻,运动健身"
     },
     {
       "raw_hot": 945289,
@@ -1363,6 +1363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 463052,
+      "num": 463052,
+      "word": "马拉松亲密事件拍摄者道歉",
+      "onboard_time": 1742894243,
+      "rank": 13,
+      "category": "民生新闻,运动健身"
+    },
+    {
       "raw_hot": 461578,
       "num": 461578,
       "word": "背头还得是张柏芝",
@@ -1403,6 +1411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 446904,
+      "num": 446904,
+      "word": "上3休2再上4休3",
+      "onboard_time": 1742893761,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 446528,
       "num": 446528,
       "word": "雁回时热度",
@@ -1433,14 +1449,6 @@
       "onboard_time": 1742782639,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 440913,
-      "num": 440913,
-      "word": "上3休2再上4休3",
-      "onboard_time": 1742893761,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 438117,
@@ -1891,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340992,
+      "num": 340992,
+      "word": "订婚强奸案",
+      "onboard_time": 1742894002,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339015,
       "num": 274295,
       "word": "原来应届生身份这么有用",
@@ -1904,6 +1920,14 @@
       "word": "订婚强奸案男方家属要求退还彩礼",
       "onboard_time": 1742868920,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335828,
+      "num": 369635,
+      "word": "订婚强奸案母亲回应没取退还彩礼",
+      "onboard_time": 1742891000,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -1945,14 +1969,6 @@
       "onboard_time": 1742891243,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329806,
-      "num": 369635,
-      "word": "订婚强奸案母亲回应没取退还彩礼",
-      "onboard_time": 1742891000,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 329100,
@@ -2547,6 +2563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 265216,
+      "num": 265216,
+      "word": "胖东来公开人员流失率",
+      "onboard_time": 1742891180,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 264353,
       "num": 264353,
       "word": "自己在家晒的橘子皮算陈皮吗",
@@ -2609,6 +2633,14 @@
       "onboard_time": 1742700620,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251634,
+      "num": 251634,
+      "word": "翟子路晒白鹿婚纱照",
+      "onboard_time": 1742892562,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 248758,
@@ -2819,14 +2851,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 230285,
-      "num": 230285,
-      "word": "翟子路晒白鹿婚纱照",
-      "onboard_time": 1742892562,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229862,
       "num": 259885,
       "word": "哪吒2超153亿",
@@ -2947,12 +2971,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221793,
-      "num": 221793,
-      "word": "胖东来公开人员流失率",
-      "onboard_time": 1742891180,
-      "rank": 34,
-      "category": "财经"
+      "raw_hot": 221646,
+      "num": 221646,
+      "word": "减肥管不住嘴试试这个方法",
+      "onboard_time": 1742892742,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 220663,
@@ -3075,12 +3099,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212562,
-      "num": 212562,
-      "word": "订婚强奸案",
-      "onboard_time": 1742894002,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 212447,
+      "num": 191466,
+      "word": "制片人谈白鹿鞠婧祎靠自己演一番",
+      "onboard_time": 1742894901,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 212162,
@@ -3153,14 +3177,6 @@
       "onboard_time": 1742727439,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207803,
-      "num": 207803,
-      "word": "减肥管不住嘴试试这个方法",
-      "onboard_time": 1742892742,
-      "rank": 22,
-      "category": "运动健身"
     },
     {
       "raw_hot": 207747,
@@ -5699,6 +5715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127801,
+      "num": 127801,
+      "word": "用人单位回应博士生月薪1500元",
+      "onboard_time": 1742893461,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127754,
       "num": 127754,
       "word": "念无双特邀出演郑业成",
@@ -5825,14 +5849,6 @@
       "onboard_time": 1742814140,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125082,
-      "num": 343867,
-      "word": "马拉松亲密事件拍摄者道歉",
-      "onboard_time": 1742894243,
-      "rank": 13,
-      "category": "民生新闻,运动健身"
     },
     {
       "raw_hot": 124964,
@@ -6265,14 +6281,6 @@
       "onboard_time": 1742705901,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115154,
-      "num": 115154,
-      "word": "用人单位回应博士生月薪1500元",
-      "onboard_time": 1742893461,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114815,
@@ -6979,6 +6987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99617,
+      "num": 99617,
+      "word": "何健麒无限超越班正常播出",
+      "onboard_time": 1742895382,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99614,
       "num": 99614,
       "word": "澳大利亚男足杭州citywalk",
@@ -7179,6 +7195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94643,
+      "num": 449201,
+      "word": "陶昕然与何建泽已无商业关联",
+      "onboard_time": 1742895141,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94584,
       "num": 305434,
       "word": "当地正在核查17岁少女代孕事件",
@@ -7363,20 +7387,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 87911,
+      "num": 87911,
+      "word": "一句价值连城招来六个贼惦记",
+      "onboard_time": 1742894782,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87109,
       "num": 87109,
       "word": "无锡马拉松",
       "onboard_time": 1742687779,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86483,
-      "num": 86483,
-      "word": "一句价值连城招来六个贼惦记",
-      "onboard_time": 1742894782,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 86224,
@@ -7505,6 +7529,14 @@
       "onboard_time": 1742688558,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81768,
+      "num": 81768,
+      "word": "2025金熊猫奖",
+      "onboard_time": 1742895082,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80787,
@@ -7736,6 +7768,14 @@
       "word": "儿子希望妈妈戴上戒指永不放开自己",
       "onboard_time": 1742757615,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70729,
+      "num": 407295,
+      "word": "订婚强奸案男子父亲最新发声",
+      "onboard_time": 1742894602,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -7987,6 +8027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62811,
+      "num": 230059,
+      "word": "绘旅人权杖篇二分的荆棘路",
+      "onboard_time": 1742895261,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 62592,
       "num": 123371,
       "word": "两代中国首席男模的时光交接",
@@ -8171,14 +8219,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 54853,
-      "num": 124165,
-      "word": "订婚强奸案男子父亲最新发声",
-      "onboard_time": 1742894602,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54402,
       "num": 54402,
       "word": "宝蓝说iG真要进世界赛了",
@@ -8201,6 +8241,14 @@
       "onboard_time": 1742646021,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52659,
+      "num": 1143581,
+      "word": "我国开辟油气勘探开发新领域",
+      "onboard_time": 1742894182,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51892,
@@ -8315,6 +8363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46544,
+      "num": 409509,
+      "word": "当不结婚的我决定做一个妈妈",
+      "onboard_time": 1742893822,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46171,
       "num": 312730,
       "word": "DeepSeek分析武汉最好吃的夜市",
@@ -8401,6 +8457,14 @@
       "onboard_time": 1742684776,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 42741,
+      "num": 128117,
+      "word": "赵丽娜为国足接好运",
+      "onboard_time": 1742895501,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 42715,
@@ -8587,19 +8651,19 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 36173,
-      "num": 332360,
-      "word": "当不结婚的我决定做一个妈妈",
-      "onboard_time": 1742893822,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35129,
       "num": 248389,
       "word": "无意间拍到的绝美春天",
       "onboard_time": 1742813721,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34998,
+      "num": 337586,
+      "word": "男子分手后起诉返还270万恋爱花费",
+      "onboard_time": 1742895321,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -9043,14 +9107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24250,
-      "num": 699084,
-      "word": "我国开辟油气勘探开发新领域",
-      "onboard_time": 1742894182,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 23495,
       "num": 183238,
       "word": "2025汉马最小冠军仅15岁",
@@ -9313,6 +9369,14 @@
       "onboard_time": 1742839875,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11562,
+      "num": 405719,
+      "word": "新加坡前国门桑尼观战国足",
+      "onboard_time": 1742895202,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 11326,

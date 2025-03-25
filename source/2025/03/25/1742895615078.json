@@ -1,0 +1,410 @@
+{
+  "runTime": 1742895615078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2244865,
+        "num": 2244865,
+        "word": "马拉松一对男女亲密动作被拍到",
+        "onboard_time": 1742893043,
+        "rank": 0,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 1213801,
+        "num": 1213801,
+        "word": "跑男真把吴昕喊来了",
+        "onboard_time": 1742891781,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52659,
+        "num": 1143581,
+        "word": "我国开辟油气勘探开发新领域",
+        "onboard_time": 1742894182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1135110,
+        "num": 1135110,
+        "word": "陶昕然离婚",
+        "onboard_time": 1742883681,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523461,
+        "num": 523461,
+        "word": "小米YU7",
+        "onboard_time": 1742887102,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 784862,
+        "num": 522264,
+        "word": "检方仍认定订婚强奸案有实际性行为",
+        "onboard_time": 1742888482,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 939457,
+        "num": 493125,
+        "word": "高泰宇退圈",
+        "onboard_time": 1742886562,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463052,
+        "num": 463052,
+        "word": "马拉松亲密事件拍摄者道歉",
+        "onboard_time": 1742894243,
+        "rank": 7,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 205165,
+        "num": 451503,
+        "word": "国博凤冠冰箱贴销量破1000000",
+        "onboard_time": 1742886082,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94643,
+        "num": 449201,
+        "word": "陶昕然与何建泽已无商业关联",
+        "onboard_time": 1742895141,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737657,
+        "num": 449086,
+        "word": "浪姐6黑马",
+        "onboard_time": 1742892621,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446904,
+        "num": 446904,
+        "word": "上3休2再上4休3",
+        "onboard_time": 1742893761,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431533,
+        "num": 431533,
+        "word": "小花给邓超做了绿色猫眼美甲",
+        "onboard_time": 1742888902,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46544,
+        "num": 409509,
+        "word": "当不结婚的我决定做一个妈妈",
+        "onboard_time": 1742893822,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70729,
+        "num": 407295,
+        "word": "订婚强奸案男子父亲最新发声",
+        "onboard_time": 1742894602,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11562,
+        "num": 405719,
+        "word": "新加坡前国门桑尼观战国足",
+        "onboard_time": 1742895202,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405401,
+        "num": 405401,
+        "word": "订婚3年未结婚女方被要求返还18万",
+        "onboard_time": 1742883501,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375050,
+        "num": 375050,
+        "word": "下周上四休三不调休",
+        "onboard_time": 1742872642,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340992,
+        "num": 340992,
+        "word": "订婚强奸案",
+        "onboard_time": 1742894002,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34998,
+        "num": 337586,
+        "word": "男子分手后起诉返还270万恋爱花费",
+        "onboard_time": 1742895321,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335828,
+        "num": 335828,
+        "word": "订婚强奸案母亲回应没取退还彩礼",
+        "onboard_time": 1742891000,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265216,
+        "num": 265216,
+        "word": "胖东来公开人员流失率",
+        "onboard_time": 1742891180,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 251634,
+        "num": 251634,
+        "word": "翟子路晒白鹿婚纱照",
+        "onboard_time": 1742892562,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247099,
+        "num": 247099,
+        "word": "我的后半生定档",
+        "onboard_time": 1742886982,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62811,
+        "num": 230059,
+        "word": "绘旅人权杖篇二分的荆棘路",
+        "onboard_time": 1742895261,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221646,
+        "num": 221646,
+        "word": "减肥管不住嘴试试这个方法",
+        "onboard_time": 1742892742,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 194766,
+        "num": 194766,
+        "word": "杨迪晒张杰送的新款水杯",
+        "onboard_time": 1742888181,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212447,
+        "num": 191466,
+        "word": "制片人谈白鹿鞠婧祎靠自己演一番",
+        "onboard_time": 1742894901,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185752,
+        "num": 185752,
+        "word": "浪姐6是不是押错宝了",
+        "onboard_time": 1742879063,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104281,
+        "num": 178363,
+        "word": "孩子被骗让妈妈卡里仅剩几毛钱",
+        "onboard_time": 1742879243,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178289,
+        "num": 178289,
+        "word": "刘诗诗 你好星期六",
+        "onboard_time": 1742891781,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151535,
+        "num": 151535,
+        "word": "21岁背女送外卖的单亲妈妈买房了",
+        "onboard_time": 1742882361,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130657,
+        "num": 130657,
+        "word": "NJZ 告五人",
+        "onboard_time": 1742887522,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129159,
+        "num": 129159,
+        "word": "陶昕然说走散了很遗憾",
+        "onboard_time": 1742889202,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42741,
+        "num": 128117,
+        "word": "赵丽娜为国足接好运",
+        "onboard_time": 1742895501,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127801,
+        "num": 127801,
+        "word": "用人单位回应博士生月薪1500元",
+        "onboard_time": 1742893461,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115816,
+        "num": 115816,
+        "word": "长沙中考对高层次人才子女实行单列",
+        "onboard_time": 1742891121,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115480,
+        "num": 115480,
+        "word": "赵露思 定制综艺",
+        "onboard_time": 1742873900,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114053,
+        "num": 114053,
+        "word": "speed 大张伟",
+        "onboard_time": 1742891962,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103241,
+        "num": 103241,
+        "word": "王者荣耀",
+        "onboard_time": 1742888423,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99617,
+        "num": 99617,
+        "word": "何健麒无限超越班正常播出",
+        "onboard_time": 1742895382,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99472,
+        "num": 99472,
+        "word": "国足vs澳大利亚23人名单公布",
+        "onboard_time": 1742890223,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97323,
+        "num": 97323,
+        "word": "世界之外",
+        "onboard_time": 1742891243,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91669,
+        "num": 91669,
+        "word": "杭州场外国足球迷祝福太有梗了",
+        "onboard_time": 1742893822,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87911,
+        "num": 87911,
+        "word": "一句价值连城招来六个贼惦记",
+        "onboard_time": 1742894782,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86643,
+        "num": 86643,
+        "word": "世界之外死神副本",
+        "onboard_time": 1742894481,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86252,
+        "num": 86252,
+        "word": "原来应届生身份这么有用",
+        "onboard_time": 1742882901,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 82390,
+        "num": 82390,
+        "word": "aespa 回归",
+        "onboard_time": 1742879661,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81768,
+        "num": 81768,
+        "word": "2025金熊猫奖",
+        "onboard_time": 1742895082,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81307,
+        "num": 81307,
+        "word": "坏了他是真写过论文",
+        "onboard_time": 1742887822,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调八项规定是刚性的#"
+    }
+  }
+}
