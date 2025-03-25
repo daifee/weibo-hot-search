@@ -1,0 +1,410 @@
+{
+  "runTime": 1742885223520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4090841,
+        "num": 4090841,
+        "word": "陶昕然离婚",
+        "onboard_time": 1742883681,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 918269,
+        "num": 918269,
+        "word": "雷军小米YU7樱花照",
+        "onboard_time": 1742880321,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 48900,
+        "num": 612808,
+        "word": "中国能源有底气",
+        "onboard_time": 1742872820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1164781,
+        "num": 591703,
+        "word": "浪姐6是不是押错宝了",
+        "onboard_time": 1742879063,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561282,
+        "num": 561282,
+        "word": "21岁背女送外卖的单亲妈妈买房了",
+        "onboard_time": 1742882361,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525249,
+        "num": 525249,
+        "word": "孩子被骗让妈妈卡里仅剩几毛钱",
+        "onboard_time": 1742879243,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519265,
+        "num": 519265,
+        "word": "下周上四休三不调休",
+        "onboard_time": 1742872642,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334489,
+        "num": 334489,
+        "word": "aespa 回归",
+        "onboard_time": 1742879661,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283482,
+        "num": 283482,
+        "word": "订婚强奸案女方未出庭",
+        "onboard_time": 1742882121,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274422,
+        "num": 274422,
+        "word": "订婚强奸案男子当庭哭诉冤枉",
+        "onboard_time": 1742883681,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 835053,
+        "num": 274214,
+        "word": "王鹤棣告了男德",
+        "onboard_time": 1742877143,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460048,
+        "num": 273383,
+        "word": "男德",
+        "onboard_time": 1742878163,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308000,
+        "num": 272705,
+        "word": "曾与肖战合作演员官宣退圈",
+        "onboard_time": 1742884282,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32982,
+        "num": 271448,
+        "word": "国足六主力缺席",
+        "onboard_time": 1742884342,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75877,
+        "num": 271126,
+        "word": "订婚强奸案男方曾口头确认强暴女方",
+        "onboard_time": 1742884102,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270678,
+        "num": 270678,
+        "word": "赵露思 定制综艺",
+        "onboard_time": 1742873900,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306587,
+        "num": 266436,
+        "word": "董事长被指马拉松上与女子举止亲密",
+        "onboard_time": 1742877022,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256373,
+        "num": 256373,
+        "word": "订婚3年未结婚女方被要求返还18万",
+        "onboard_time": 1742883501,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143625,
+        "num": 235351,
+        "word": "2025新电影一波又一波",
+        "onboard_time": 1742882121,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225888,
+        "num": 225888,
+        "word": "订婚强奸案二审未当庭宣判",
+        "onboard_time": 1742880081,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315868,
+        "num": 223943,
+        "word": "原来应届生身份这么有用",
+        "onboard_time": 1742882901,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218801,
+        "num": 218801,
+        "word": "男子跑马心脏骤停醒来就问完赛包",
+        "onboard_time": 1742881400,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196024,
+        "num": 209710,
+        "word": "唐嫣 古偶",
+        "onboard_time": 1742876062,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205725,
+        "num": 205725,
+        "word": "王嘉尔练习生时期恋爱被罚写检讨",
+        "onboard_time": 1742885183,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205357,
+        "num": 205357,
+        "word": "黄英是浪姐最后一个vocal了",
+        "onboard_time": 1742884402,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201430,
+        "num": 201430,
+        "word": "女生高铁上提醒男子勿脱鞋放脚被打",
+        "onboard_time": 1742865859,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190725,
+        "num": 190725,
+        "word": "Ailee去年已登记结婚",
+        "onboard_time": 1742882541,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187308,
+        "num": 187308,
+        "word": "每天揉耳十分钟效果可靠",
+        "onboard_time": 1742878463,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89047,
+        "num": 177693,
+        "word": "杜兰特38分",
+        "onboard_time": 1742884942,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155573,
+        "num": 173344,
+        "word": "李书福的演讲稿藏在眼镜里",
+        "onboard_time": 1742883923,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171055,
+        "num": 171055,
+        "word": "李晟 骄傲的叶凡遇到了骄傲的主母",
+        "onboard_time": 1742884222,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168202,
+        "num": 168202,
+        "word": "订婚强奸案涉事男子姐姐发声",
+        "onboard_time": 1742881161,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46161,
+        "num": 159641,
+        "word": "国足比分预测",
+        "onboard_time": 1742885063,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156349,
+        "num": 156349,
+        "word": "王楚钦上海活动人气",
+        "onboard_time": 1742884041,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156320,
+        "num": 156320,
+        "word": "福宝与公众再度见面",
+        "onboard_time": 1742868020,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148309,
+        "num": 148309,
+        "word": "为什么卫生巾的护垫总这样",
+        "onboard_time": 1742876182,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145750,
+        "num": 145750,
+        "word": "吃着不甜但热量爆炸的水果",
+        "onboard_time": 1742870300,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143350,
+        "num": 143350,
+        "word": "郭麒麟没有在郭德纲关联公司中持股",
+        "onboard_time": 1742882240,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143322,
+        "num": 143322,
+        "word": "2小时车程变2分钟是什么体验",
+        "onboard_time": 1742881642,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135445,
+        "num": 135445,
+        "word": "金毛餐厅偷吃饺子主人买下餐盘道歉",
+        "onboard_time": 1742876003,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129994,
+        "num": 129994,
+        "word": "金赛纶前男友发声",
+        "onboard_time": 1742875101,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127730,
+        "num": 127730,
+        "word": "楼面价77409元一平杭州最贵地价诞生",
+        "onboard_time": 1742884161,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118634,
+        "num": 118634,
+        "word": "春天穿衣服要下厚上薄",
+        "onboard_time": 1742864841,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115919,
+        "num": 115919,
+        "word": "李晟镜头",
+        "onboard_time": 1742871800,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40881,
+        "num": 115897,
+        "word": "起猛了看见小岳岳唱跳",
+        "onboard_time": 1742881100,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115884,
+        "num": 115884,
+        "word": "涉事医院回应工作人员私自处理胎盘",
+        "onboard_time": 1742883141,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114805,
+        "num": 114805,
+        "word": "阮惜文 京城第一贵女",
+        "onboard_time": 1742884581,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110805,
+        "num": 110805,
+        "word": "马云邓文迪章泽天等现身香港",
+        "onboard_time": 1742884942,
+        "rank": 47,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 109913,
+        "num": 109913,
+        "word": "DeepSeek预测国足出线概率",
+        "onboard_time": 1742871082,
+        "rank": 48,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 107788,
+        "num": 107788,
+        "word": "不良人",
+        "onboard_time": 1742884581,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#清风正气满乾坤#"
+    }
+  }
+}

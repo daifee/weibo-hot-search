@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742884450785,
+  "endTime": 1742885223520,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1043,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4090841,
+      "num": 4090841,
+      "word": "陶昕然离婚",
+      "onboard_time": 1742883681,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4087622,
       "num": 606771,
       "word": "黄景瑜前妻点名张艺上",
@@ -1873,14 +1881,6 @@
       "onboard_time": 1739855067,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 3005462,
-      "num": 3005462,
-      "word": "陶昕然离婚",
-      "onboard_time": 1742883681,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2996452,

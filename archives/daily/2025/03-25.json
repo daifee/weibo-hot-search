@@ -1,7 +1,15 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742884450785,
+  "endTime": 1742885223520,
   "band_list": [
+    {
+      "raw_hot": 4090841,
+      "num": 4090841,
+      "word": "陶昕然离婚",
+      "onboard_time": 1742883681,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3092132,
       "num": 1923908,
@@ -9,14 +17,6 @@
       "onboard_time": 1742865859,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3005462,
-      "num": 3005462,
-      "word": "陶昕然离婚",
-      "onboard_time": 1742883681,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2874896,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1490189,
-      "num": 572784,
+      "num": 591703,
       "word": "浪姐6是不是押错宝了",
       "onboard_time": 1742879063,
       "rank": 20,
@@ -177,6 +177,14 @@
       "onboard_time": 1742876062,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 561282,
+      "num": 561282,
+      "word": "21岁背女送外卖的单亲妈妈买房了",
+      "onboard_time": 1742882361,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 555488,
@@ -315,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 404599,
-      "num": 404599,
-      "word": "21岁背女送外卖的单亲妈妈买房了",
-      "onboard_time": 1742882361,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 391405,
       "num": 391405,
       "word": "NPC假借游戏猥亵女孩获刑1年半",
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315868,
+      "num": 274295,
+      "word": "原来应届生身份这么有用",
+      "onboard_time": 1742882901,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 315547,
       "num": 211418,
       "word": "考公博主吴桐 塌房",
@@ -433,6 +441,14 @@
       "onboard_time": 1742870300,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 308000,
+      "num": 272705,
+      "word": "曾与肖战合作演员官宣退圈",
+      "onboard_time": 1742884282,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 306236,
@@ -499,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274295,
-      "num": 274295,
-      "word": "原来应届生身份这么有用",
-      "onboard_time": 1742882901,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 274422,
+      "num": 353192,
+      "word": "订婚强奸案男子当庭哭诉冤枉",
+      "onboard_time": 1742883681,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269931,
@@ -529,6 +545,14 @@
       "onboard_time": 1742868380,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 256373,
+      "num": 256373,
+      "word": "订婚3年未结婚女方被要求返还18万",
+      "onboard_time": 1742883501,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246697,
@@ -635,12 +659,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205725,
+      "num": 205725,
+      "word": "王嘉尔练习生时期恋爱被罚写检讨",
+      "onboard_time": 1742885183,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205361,
       "num": 205361,
       "word": "王俊凯拼接皮衣",
       "onboard_time": 1742879422,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 205357,
+      "num": 205357,
+      "word": "黄英是浪姐最后一个vocal了",
+      "onboard_time": 1742884402,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 204441,
@@ -697,14 +737,6 @@
       "onboard_time": 1742873962,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 188369,
-      "num": 188369,
-      "word": "订婚3年未结婚女方被要求返还18万",
-      "onboard_time": 1742883501,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187247,
@@ -785,6 +817,14 @@
       "onboard_time": 1742872461,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171055,
+      "num": 171055,
+      "word": "李晟 骄傲的叶凡遇到了骄傲的主母",
+      "onboard_time": 1742884222,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 169763,
@@ -899,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156349,
+      "num": 156349,
+      "word": "王楚钦上海活动人气",
+      "onboard_time": 1742884041,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154260,
       "num": 154260,
       "word": "杨淇源探班华晨宇好东西真多",
@@ -913,14 +961,6 @@
       "onboard_time": 1742877801,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152832,
-      "num": 353192,
-      "word": "订婚强奸案男子当庭哭诉冤枉",
-      "onboard_time": 1742883681,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151604,
@@ -979,20 +1019,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143625,
+      "num": 235351,
+      "word": "2025新电影一波又一波",
+      "onboard_time": 1742882121,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 143322,
+      "num": 143322,
+      "word": "2小时车程变2分钟是什么体验",
+      "onboard_time": 1742881642,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140700,
       "num": 167915,
       "word": "野狗骨头",
       "onboard_time": 1742867001,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140461,
-      "num": 140461,
-      "word": "2小时车程变2分钟是什么体验",
-      "onboard_time": 1742881642,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139647,
@@ -1067,14 +1115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132466,
-      "num": 132466,
-      "word": "王楚钦上海活动人气",
-      "onboard_time": 1742884041,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132395,
       "num": 132395,
       "word": "世纪婴儿",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1742873422,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127730,
+      "num": 127730,
+      "word": "楼面价77409元一平杭州最贵地价诞生",
+      "onboard_time": 1742884161,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126240,
@@ -1203,12 +1251,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 115752,
-      "num": 108540,
-      "word": "李晟 骄傲的叶凡遇到了骄傲的主母",
-      "onboard_time": 1742884222,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 115884,
+      "num": 315726,
+      "word": "涉事医院回应工作人员私自处理胎盘",
+      "onboard_time": 1742883141,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114805,
+      "num": 114805,
+      "word": "阮惜文 京城第一贵女",
+      "onboard_time": 1742884581,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 114590,
@@ -1217,14 +1273,6 @@
       "onboard_time": 1742823743,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113989,
-      "num": 113989,
-      "word": "2025新电影一波又一波",
-      "onboard_time": 1742882121,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 112132,
@@ -1243,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110805,
+      "num": 110805,
+      "word": "马云邓文迪章泽天等现身香港",
+      "onboard_time": 1742884942,
+      "rank": 47,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 110201,
       "num": 110201,
       "word": "EMMA跳Jennie新歌",
@@ -1259,20 +1315,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108915,
-      "num": 108915,
-      "word": "黄英是浪姐最后一个vocal了",
-      "onboard_time": 1742884402,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108277,
       "num": 215857,
       "word": "高伟光打球被放鸽子",
       "onboard_time": 1742876062,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107788,
+      "num": 107788,
+      "word": "不良人",
+      "onboard_time": 1742884581,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 106609,
@@ -1435,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89047,
+      "num": 177693,
+      "word": "杜兰特38分",
+      "onboard_time": 1742884942,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85435,
       "num": 159830,
       "word": "郑钦文将再攀高山",
@@ -1531,6 +1595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75877,
+      "num": 277447,
+      "word": "订婚强奸案男方曾口头确认强暴女方",
+      "onboard_time": 1742884102,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75256,
       "num": 80861,
       "word": "与君歌重映收视率",
@@ -1617,14 +1689,6 @@
       "onboard_time": 1742832440,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68018,
-      "num": 243205,
-      "word": "曾与肖战合作演员官宣退圈",
-      "onboard_time": 1742884282,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 67893,
@@ -1787,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46161,
+      "num": 159641,
+      "word": "国足比分预测",
+      "onboard_time": 1742885063,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42454,
       "num": 42454,
       "word": "上官正义称代孕妈妈中不乏高学历者",
@@ -1803,28 +1875,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41909,
-      "num": 277447,
-      "word": "订婚强奸案男方曾口头确认强暴女方",
-      "onboard_time": 1742884102,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41406,
       "num": 202600,
       "word": "这才是想象中的大学黑板啊",
       "onboard_time": 1742871141,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 39564,
-      "num": 315726,
-      "word": "涉事医院回应工作人员私自处理胎盘",
-      "onboard_time": 1742883141,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37679,
@@ -1849,6 +1905,14 @@
       "onboard_time": 1742825783,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32982,
+      "num": 271448,
+      "word": "国足六主力缺席",
+      "onboard_time": 1742884342,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 31784,
@@ -2032,14 +2096,6 @@
       "word": "李磊说会为球迷奉献一场精彩比赛",
       "onboard_time": 1742883202,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 7073,
-      "num": 132470,
-      "word": "国足六主力缺席",
-      "onboard_time": 1742884342,
-      "rank": 40,
       "category": "体育"
     },
     {
