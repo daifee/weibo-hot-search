@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742887554072,
+  "endTime": 1742888307689,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -32,6 +32,14 @@
       "word": "王鹤棣告了男德",
       "onboard_time": 1742877143,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1785196,
+      "num": 584277,
+      "word": "高泰宇退圈",
+      "onboard_time": 1742886562,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -131,14 +139,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 855609,
-      "num": 549886,
-      "word": "高泰宇退圈",
-      "onboard_time": 1742886562,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 805826,
       "num": 805826,
       "word": "李晟镜头",
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 671221,
+      "num": 513145,
+      "word": "我的后半生定档",
+      "onboard_time": 1742886982,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 657335,
       "num": 1105173,
       "word": "春天穿衣服要下厚上薄",
@@ -195,8 +203,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 561282,
-      "num": 561282,
+      "raw_hot": 562316,
+      "num": 562316,
       "word": "21岁背女送外卖的单亲妈妈买房了",
       "onboard_time": 1742882361,
       "rank": 6,
@@ -211,19 +219,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 547462,
+      "num": 547462,
+      "word": "订婚3年未结婚女方被要求返还18万",
+      "onboard_time": 1742883501,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 540142,
       "num": 540142,
       "word": "孩子被骗让妈妈卡里仅剩几毛钱",
       "onboard_time": 1742879243,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 523707,
-      "num": 523707,
-      "word": "订婚3年未结婚女方被要求返还18万",
-      "onboard_time": 1742883501,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -347,7 +355,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 406311,
+      "raw_hot": 407836,
       "num": 406311,
       "word": "订婚强奸案男子当庭哭诉冤枉",
       "onboard_time": 1742883681,
@@ -459,12 +467,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 327703,
-      "num": 327703,
-      "word": "我的后半生定档",
-      "onboard_time": 1742886982,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 333456,
+      "num": 333456,
+      "word": "小米YU7",
+      "onboard_time": 1742887102,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 321552,
@@ -507,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297637,
+      "num": 462903,
+      "word": "楼面价77409元一平杭州最贵地价诞生",
+      "onboard_time": 1742884161,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293167,
       "num": 314233,
       "word": "虞书欣双轨吊带长裙路透",
@@ -528,6 +544,14 @@
       "word": "爷爷拔萝卜小兔子在一旁躺着吃",
       "onboard_time": 1742859799,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284302,
+      "num": 357192,
+      "word": "代孕机构称法律才不管女孩年龄",
+      "onboard_time": 1742886262,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -723,6 +747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200788,
+      "num": 197556,
+      "word": "王楚钦调侃说冠军没少拿",
+      "onboard_time": 1742885242,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199768,
       "num": 199768,
       "word": "赵丽颖怒目海报",
@@ -731,12 +763,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 196118,
-      "num": 190705,
-      "word": "小米YU7",
-      "onboard_time": 1742887102,
-      "rank": 29,
-      "category": "汽车"
+      "raw_hot": 196871,
+      "num": 267559,
+      "word": "白鹿北上婚纱9宫格",
+      "onboard_time": 1742887042,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 193153,
@@ -875,14 +907,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 169727,
-      "num": 169727,
-      "word": "白鹿北上婚纱9宫格",
-      "onboard_time": 1742887042,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168235,
       "num": 168235,
       "word": "印度女子伙同情夫杀夫封进水泥桶",
@@ -915,19 +939,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165825,
+      "num": 165825,
+      "word": "NJZ 告五人",
+      "onboard_time": 1742887522,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164322,
       "num": 164322,
       "word": "国家安全部通报发布跳槽人员提醒",
       "onboard_time": 1742860461,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163827,
-      "num": 462903,
-      "word": "楼面价77409元一平杭州最贵地价诞生",
-      "onboard_time": 1742884161,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -987,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159182,
-      "num": 197556,
-      "word": "王楚钦调侃说冠军没少拿",
-      "onboard_time": 1742885242,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159003,
       "num": 272948,
       "word": "征服世界只差一辆极氪9X",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1742884041,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154935,
+      "num": 260560,
+      "word": "男子深陷套路贷30万滚成260万",
+      "onboard_time": 1742885962,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154260,
@@ -1099,19 +1123,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143982,
+      "num": 143982,
+      "word": "马云邓文迪章泽天等现身香港",
+      "onboard_time": 1742884942,
+      "rank": 47,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 143322,
       "num": 143322,
       "word": "2小时车程变2分钟是什么体验",
       "onboard_time": 1742881642,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143048,
-      "num": 357192,
-      "word": "代孕机构称法律才不管女孩年龄",
-      "onboard_time": 1742886262,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1211,6 +1235,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 132155,
+      "num": 132155,
+      "word": "陶喆美甲",
+      "onboard_time": 1742887883,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131001,
       "num": 184046,
       "word": "五年一贯制大专怎么变成了中专",
@@ -1227,12 +1259,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 129109,
-      "num": 129109,
-      "word": "马云邓文迪章泽天等现身香港",
-      "onboard_time": 1742884942,
-      "rank": 47,
-      "category": "民生新闻,艺人"
+      "raw_hot": 129663,
+      "num": 187502,
+      "word": "国足若赢球或能直通世界杯",
+      "onboard_time": 1742887642,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 128859,
@@ -1363,14 +1395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112902,
-      "num": 234653,
-      "word": "男子深陷套路贷30万滚成260万",
-      "onboard_time": 1742885962,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112132,
       "num": 112132,
       "word": "完整体湖人又输了",
@@ -1460,7 +1484,7 @@
     },
     {
       "raw_hot": 103271,
-      "num": 103271,
+      "num": 138710,
       "word": "福宝看似玩水实则洗澡",
       "onboard_time": 1742885302,
       "rank": 48,
@@ -1491,12 +1515,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100203,
-      "num": 100203,
-      "word": "NJZ 告五人",
-      "onboard_time": 1742887522,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 100068,
+      "num": 134860,
+      "word": "国博凤冠冰箱贴销量破1000000",
+      "onboard_time": 1742886082,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99790,
@@ -1625,6 +1649,14 @@
       "onboard_time": 1742813481,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83943,
+      "num": 136368,
+      "word": "高泰宇不后悔不拍戏",
+      "onboard_time": 1742888244,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 83561,
@@ -1915,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53914,
+      "num": 293801,
+      "word": "订婚强奸案男方目前仍需服刑405天",
+      "onboard_time": 1742887702,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51697,
       "num": 57221,
       "word": "黄雀",
@@ -2115,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24522,
+      "num": 137883,
+      "word": "此刻的武大是一万次的春和景明",
+      "onboard_time": 1742887042,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21107,
       "num": 21107,
       "word": "为救5岁娃一群人接二连三冲进黄河",
@@ -2137,14 +2185,6 @@
       "onboard_time": 1742859200,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18413,
-      "num": 129781,
-      "word": "此刻的武大是一万次的春和景明",
-      "onboard_time": 1742887042,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15709,
