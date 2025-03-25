@@ -1,6 +1,6 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742924417464,
+  "endTime": 1742927585186,
   "band_list": [
     {
       "raw_hot": 1737658,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1398153,
-      "num": 178453,
+      "num": 329891,
       "word": "金赛纶老公晒结婚证明",
       "onboard_time": 1742916443,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 620693,
-      "num": 279676,
+      "num": 330048,
       "word": "感觉半个娱乐圈都来武汉了",
       "onboard_time": 1742914404,
       "rank": 3,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 582465,
-      "num": 145354,
+      "num": 158066,
       "word": "李晟李佳航",
       "onboard_time": 1742915003,
       "rank": 13,
@@ -75,12 +75,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 379251,
+      "num": 379251,
+      "word": "河北廊坊4.2级地震",
+      "onboard_time": 1742923998,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374647,
       "num": 374647,
       "word": "河北廊坊4.4级左右地震",
       "onboard_time": 1742923998,
       "rank": 4,
       "category": "民生新闻,民生新闻"
+    },
+    {
+      "raw_hot": 335473,
+      "num": 335473,
+      "word": "河北廊坊4.2级和2.9级地震",
+      "onboard_time": 1742924359,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335207,
+      "num": 335207,
+      "word": "河北廊坊地震",
+      "onboard_time": 1742923998,
+      "rank": 7,
+      "category": "民生新闻,民生新闻"
+    },
+    {
+      "raw_hot": 332326,
+      "num": 332326,
+      "word": "北京有震感我被震醒了",
+      "onboard_time": 1742925496,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 329454,
+      "num": 329454,
+      "word": "天津震感",
+      "onboard_time": 1742924419,
+      "rank": 11,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 304818,
@@ -124,7 +164,7 @@
     },
     {
       "raw_hot": 253857,
-      "num": 62663,
+      "num": 221896,
       "word": "张本智和官宣入职丰田",
       "onboard_time": 1742922977,
       "rank": 30,
@@ -137,6 +177,14 @@
       "onboard_time": 1742903602,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 238959,
+      "num": 238959,
+      "word": "半夜地震手机突然大叫",
+      "onboard_time": 1742925796,
+      "rank": 12,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 234395,
@@ -161,14 +209,6 @@
       "onboard_time": 1742904262,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195533,
-      "num": 195533,
-      "word": "河北廊坊地震",
-      "onboard_time": 1742923998,
-      "rank": 7,
-      "category": "民生新闻,民生新闻"
     },
     {
       "raw_hot": 193279,
@@ -273,6 +313,14 @@
       "onboard_time": 1742917042,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101427,
+      "num": 101427,
+      "word": "河北震感",
+      "onboard_time": 1742924419,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96219,
@@ -396,7 +444,7 @@
     },
     {
       "raw_hot": 78684,
-      "num": 78684,
+      "num": 329957,
       "word": "陆配发表统一言论被限期离台",
       "onboard_time": 1742914404,
       "rank": 44,
@@ -467,6 +515,14 @@
       "category": "民生新闻,运动健身"
     },
     {
+      "raw_hot": 39497,
+      "num": 39497,
+      "word": "7个月婴儿误舔蜂蜜勺肉毒杆菌中毒",
+      "onboard_time": 1742926696,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33849,
       "num": 79989,
       "word": "如何不焦虑地休个假",
@@ -475,12 +531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29012,
+      "num": 29012,
+      "word": "白鹿自己剪的花街回忆录",
+      "onboard_time": 1742927416,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21790,
       "num": 656748,
       "word": "春天里的中国孕育丰收希望",
       "onboard_time": 1742916323,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9645,
+      "num": 37417,
+      "word": "国足下场客场战印尼",
+      "onboard_time": 1742926276,
+      "rank": 36,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

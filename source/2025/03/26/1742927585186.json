@@ -1,0 +1,410 @@
+{
+  "runTime": 1742927585186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1153860,
+        "num": 1153860,
+        "word": "北京震感",
+        "onboard_time": 1742924118,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467681,
+        "num": 467681,
+        "word": "河北安次",
+        "onboard_time": 1742923998,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14217,
+        "num": 385153,
+        "word": "春天里的中国孕育丰收希望",
+        "onboard_time": 1742916323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379251,
+        "num": 379251,
+        "word": "河北廊坊4.2级地震",
+        "onboard_time": 1742923998,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335473,
+        "num": 335473,
+        "word": "河北廊坊4.2级和2.9级地震",
+        "onboard_time": 1742924359,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335207,
+        "num": 335207,
+        "word": "河北廊坊地震",
+        "onboard_time": 1742923998,
+        "rank": 5,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 332326,
+        "num": 332326,
+        "word": "北京有震感我被震醒了",
+        "onboard_time": 1742925496,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200439,
+        "num": 330514,
+        "word": "李晟第一",
+        "onboard_time": 1742905702,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175257,
+        "num": 330048,
+        "word": "感觉半个娱乐圈都来武汉了",
+        "onboard_time": 1742914404,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54873,
+        "num": 329957,
+        "word": "陆配发表统一言论被限期离台",
+        "onboard_time": 1742914404,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 329891,
+        "num": 329891,
+        "word": "金赛纶老公晒结婚证明",
+        "onboard_time": 1742916443,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329454,
+        "num": 329454,
+        "word": "天津震感",
+        "onboard_time": 1742924419,
+        "rank": 11,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 238959,
+        "num": 238959,
+        "word": "半夜地震手机突然大叫",
+        "onboard_time": 1742925796,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 221896,
+        "num": 221896,
+        "word": "张本智和官宣入职丰田",
+        "onboard_time": 1742922977,
+        "rank": 13,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 158066,
+        "num": 158066,
+        "word": "李晟李佳航",
+        "onboard_time": 1742915003,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108822,
+        "num": 108822,
+        "word": "被传患病网红夫妇质疑就餐后商场消杀",
+        "onboard_time": 1742908340,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106077,
+        "num": 106077,
+        "word": "苗苗郑恺搬家",
+        "onboard_time": 1742916382,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101427,
+        "num": 101427,
+        "word": "河北震感",
+        "onboard_time": 1742924419,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93007,
+        "num": 93007,
+        "word": "金赛纶美国丈夫声明",
+        "onboard_time": 1742913864,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65651,
+        "num": 65651,
+        "word": "B站网红大祥哥回应被骗1249万",
+        "onboard_time": 1742915903,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98677,
+        "num": 65644,
+        "word": "马拉松一对男女亲密动作被拍到",
+        "onboard_time": 1742893043,
+        "rank": 20,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 68299,
+        "num": 65229,
+        "word": "每天喝牛奶和从不喝牛奶的区别",
+        "onboard_time": 1742903602,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62872,
+        "num": 62872,
+        "word": "男德向王鹤棣道歉",
+        "onboard_time": 1742904262,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51855,
+        "num": 51855,
+        "word": "孕妇1天尿出60个鸡蛋的蛋白质致早产",
+        "onboard_time": 1742905522,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50866,
+        "num": 50866,
+        "word": "第一届浪姐就已经邀请阚清子了",
+        "onboard_time": 1742914163,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50426,
+        "num": 50426,
+        "word": "跑男真把吴昕喊来了",
+        "onboard_time": 1742891781,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50367,
+        "num": 50367,
+        "word": "白鹿演技",
+        "onboard_time": 1742907563,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44107,
+        "num": 48378,
+        "word": "花非花雾非雾",
+        "onboard_time": 1742914584,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41450,
+        "num": 47792,
+        "word": "她没有叫她庄夫人而是阮小姐",
+        "onboard_time": 1742910744,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39421,
+        "num": 47731,
+        "word": "雁回时",
+        "onboard_time": 1742898141,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47730,
+        "num": 47730,
+        "word": "国足 辱追",
+        "onboard_time": 1742907563,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45230,
+        "num": 45230,
+        "word": "警方通报快递员被高空坠物砸中身亡",
+        "onboard_time": 1742912663,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 43593,
+        "num": 43593,
+        "word": "订婚强奸案家属称公诉人坚持被告有罪",
+        "onboard_time": 1742916621,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41012,
+        "num": 41012,
+        "word": "美国称欢迎第三国斡旋",
+        "onboard_time": 1742918481,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39497,
+        "num": 39497,
+        "word": "7个月婴儿误舔蜂蜜勺肉毒杆菌中毒",
+        "onboard_time": 1742926696,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38817,
+        "num": 38817,
+        "word": "赵露思小小的勇气0片酬",
+        "onboard_time": 1742897542,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9645,
+        "num": 37417,
+        "word": "国足下场客场战印尼",
+        "onboard_time": 1742926276,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36654,
+        "num": 36654,
+        "word": "国足vs澳大利亚",
+        "onboard_time": 1742898741,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36587,
+        "num": 36587,
+        "word": "棋士",
+        "onboard_time": 1742911703,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34673,
+        "num": 34673,
+        "word": "超7万人现场见证国足0比2",
+        "onboard_time": 1742909542,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34260,
+        "num": 34260,
+        "word": "韩安冉妈妈为亲家母发声",
+        "onboard_time": 1742902580,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 32769,
+        "num": 32769,
+        "word": "马拉松亲密事件拍摄者道歉",
+        "onboard_time": 1742894243,
+        "rank": 41,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 31481,
+        "num": 31481,
+        "word": "陶昕然离婚",
+        "onboard_time": 1742883681,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31273,
+        "num": 31273,
+        "word": "国足0比2澳大利亚",
+        "onboard_time": 1742907501,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30739,
+        "num": 30739,
+        "word": "民间格格",
+        "onboard_time": 1742911224,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30105,
+        "num": 30105,
+        "word": "赵锐 大祥哥",
+        "onboard_time": 1742918000,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29955,
+        "num": 29955,
+        "word": "美国就与俄罗斯会谈发表声明",
+        "onboard_time": 1742916562,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29012,
+        "num": 29012,
+        "word": "白鹿自己剪的花街回忆录",
+        "onboard_time": 1742927416,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28387,
+        "num": 28387,
+        "word": "父女徒步6年女儿1年内长高10厘米",
+        "onboard_time": 1742919559,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28182,
+        "num": 28182,
+        "word": "印尼1比0巴林",
+        "onboard_time": 1742920698,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#清风正气满乾坤#"
+    }
+  }
+}
