@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742868756966,
+  "endTime": 1742871825784,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -561,6 +561,14 @@
       "onboard_time": 1741269562,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2682274,
+      "num": 342684,
+      "word": "鹿晗和关晓彤都去了寺庙",
+      "onboard_time": 1742869700,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2654811,
@@ -3465,6 +3473,14 @@
       "onboard_time": 1742120721,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1220139,
+      "num": 1125450,
+      "word": "女生高铁上提醒男子勿脱鞋放脚被打",
+      "onboard_time": 1742865859,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1219192,
@@ -7267,14 +7283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 784067,
-      "num": 1125450,
-      "word": "女生高铁上提醒男子勿脱鞋放脚被打",
-      "onboard_time": 1742865859,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 784020,
       "num": 784020,
       "word": "DeepSeek眼中不会被AI替代的职业",
@@ -9259,6 +9267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 657335,
+      "num": 1105173,
+      "word": "春天穿衣服要下厚上薄",
+      "onboard_time": 1742864841,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 656957,
       "num": 604731,
       "word": "赵丽颖疑似用沈璃回应",
@@ -10489,14 +10505,6 @@
       "onboard_time": 1742101104,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 594170,
-      "num": 594170,
-      "word": "春天穿衣服要下厚上薄",
-      "onboard_time": 1742864841,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 593991,
@@ -12297,6 +12305,14 @@
       "onboard_time": 1741172358,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 515296,
+      "num": 515296,
+      "word": "念无双定档",
+      "onboard_time": 1742869280,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 515279,
@@ -14931,6 +14947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 427448,
+      "num": 427448,
+      "word": "福宝与公众再度见面",
+      "onboard_time": 1742868020,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 427423,
       "num": 427423,
       "word": "五福临门",
@@ -16947,6 +16971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 376275,
+      "num": 376275,
+      "word": "国足输球将无缘直通世界杯",
+      "onboard_time": 1742865920,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 376096,
       "num": 376096,
       "word": "权志龙去看aespa演唱会了",
@@ -18731,6 +18763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338842,
+      "num": 338842,
+      "word": "订婚强奸案男方家属要求退还彩礼",
+      "onboard_time": 1742868920,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 338357,
       "num": 335875,
       "word": "王楚钦憋笑给孙颖莎递手机",
@@ -19145,14 +19185,6 @@
       "onboard_time": 1741258402,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 330582,
-      "num": 330582,
-      "word": "国足输球将无缘直通世界杯",
-      "onboard_time": 1742865920,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 330575,
@@ -20444,7 +20476,7 @@
     },
     {
       "raw_hot": 306236,
-      "num": 171707,
+      "num": 194990,
       "word": "早睡真能解决身体80%以上的问题",
       "onboard_time": 1742864841,
       "rank": 21,
@@ -21244,7 +21276,7 @@
     },
     {
       "raw_hot": 293167,
-      "num": 293167,
+      "num": 314233,
       "word": "虞书欣双轨吊带长裙路透",
       "onboard_time": 1742866101,
       "rank": 14,
@@ -21272,6 +21304,14 @@
       "word": "杭州销毁百万假货",
       "onboard_time": 1741687587,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292560,
+      "num": 292560,
+      "word": "福宝去年异常抖动后已静养100多天",
+      "onboard_time": 1742869161,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -22115,6 +22155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 279888,
+      "num": 331588,
+      "word": "订婚强奸案男方已被羁押690天",
+      "onboard_time": 1742870842,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279863,
       "num": 272374,
       "word": "馄饨店老板10秒摆放33个馄饨碗",
@@ -22819,14 +22867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269636,
-      "num": 269636,
-      "word": "福宝与公众再度见面",
-      "onboard_time": 1742868020,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269592,
       "num": 443207,
       "word": "直播公司PUA主播满足金主各种要求",
@@ -23185,6 +23225,14 @@
       "onboard_time": 1741401081,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265993,
+      "num": 265993,
+      "word": "爷爷从山上捡到一只怀孕野生布偶",
+      "onboard_time": 1742870300,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 265844,
@@ -23609,6 +23657,14 @@
       "onboard_time": 1742350941,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260832,
+      "num": 260832,
+      "word": "小米股价开盘大跌",
+      "onboard_time": 1742868380,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 260648,
@@ -28899,6 +28955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212167,
+      "num": 235330,
+      "word": "郭晓婷主演念无双",
+      "onboard_time": 1742870300,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212162,
       "num": 212162,
       "word": "庄寒雁背尸赴刑场",
@@ -30865,6 +30929,14 @@
       "onboard_time": 1741742183,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202585,
+      "num": 202585,
+      "word": "吃着不甜但热量爆炸的水果",
+      "onboard_time": 1742870300,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 202552,
@@ -36899,6 +36971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176613,
+      "num": 176613,
+      "word": "DeepSeek预测国足出线概率",
+      "onboard_time": 1742871082,
+      "rank": 32,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 176552,
       "num": 387271,
       "word": "时代少年团到达南半球",
@@ -39361,6 +39441,14 @@
       "onboard_time": 1741450521,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166179,
+      "num": 166179,
+      "word": "上海人已经开始cityboat了",
+      "onboard_time": 1742870300,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 166120,
@@ -43793,6 +43881,14 @@
       "onboard_time": 1742552062,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 151043,
+      "num": 117634,
+      "word": "起诉书称男童被生母及男友打死因睡觉晚",
+      "onboard_time": 1742870420,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151018,
@@ -49563,6 +49659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 132395,
+      "num": 132395,
+      "word": "世纪婴儿",
+      "onboard_time": 1742870842,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132364,
       "num": 163070,
       "word": "似锦直播",
@@ -49625,6 +49729,14 @@
       "onboard_time": 1740784274,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132183,
+      "num": 132183,
+      "word": "中国建人类细胞谱系大科学研究设施",
+      "onboard_time": 1742870000,
+      "rank": 39,
+      "category": "正能量"
     },
     {
       "raw_hot": 132172,
@@ -49713,6 +49825,14 @@
       "onboard_time": 1742654783,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131811,
+      "num": 202663,
+      "word": "这一把火是她绝望的自救",
+      "onboard_time": 1742868799,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 131793,
@@ -53843,6 +53963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119387,
+      "num": 202615,
+      "word": "哪吒2联名卡炒到18.88万",
+      "onboard_time": 1742870360,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119379,
       "num": 225901,
       "word": "维金斯42分",
@@ -56635,6 +56763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 110201,
+      "num": 110201,
+      "word": "EMMA跳Jennie新歌",
+      "onboard_time": 1742869940,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 110196,
       "num": 110196,
       "word": "原来是四年前的刘昊然啊",
@@ -57665,6 +57801,14 @@
       "onboard_time": 1742299403,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106968,
+      "num": 106968,
+      "word": "李晟镜头",
+      "onboard_time": 1742871800,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 106922,
@@ -59465,14 +59609,6 @@
       "onboard_time": 1741590799,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100551,
-      "num": 100551,
-      "word": "小米股价开盘大跌",
-      "onboard_time": 1742868380,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 100542,
@@ -65035,6 +65171,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 73877,
+      "num": 292773,
+      "word": "梳理山西订婚强奸案始末",
+      "onboard_time": 1742871141,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73869,
       "num": 73869,
       "word": "宋亚轩模仿哪吒",
@@ -65393,6 +65537,14 @@
       "onboard_time": 1741394240,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71975,
+      "num": 304471,
+      "word": "山西订婚强奸案双方恋爱时间线",
+      "onboard_time": 1742870902,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71850,
@@ -67681,6 +67833,14 @@
       "onboard_time": 1742497574,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58946,
+      "num": 343776,
+      "word": "北京大风黄色预警",
+      "onboard_time": 1742870240,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58930,
@@ -70931,6 +71091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43468,
+      "num": 311725,
+      "word": "武汉樱花文创冰箱贴已被抢到断货",
+      "onboard_time": 1742871321,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43428,
       "num": 234867,
       "word": "极氪CEO智驾直播首秀",
@@ -72483,6 +72651,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 36972,
+      "num": 107277,
+      "word": "订婚强奸案女方被曝有两次相亲经历",
+      "onboard_time": 1742871561,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36964,
       "num": 243929,
       "word": "宣称有机樱桃却被消费者测出多效唑",
@@ -73251,6 +73427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33684,
+      "num": 772770,
+      "word": "万千气象看江苏",
+      "onboard_time": 1742825783,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33682,
       "num": 247089,
       "word": "张玉宁说赢过球就有获胜的经验",
@@ -73736,14 +73920,6 @@
       "word": "我国高水平科技自立自强",
       "onboard_time": 1741253241,
       "rank": 47,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 31954,
-      "num": 772770,
-      "word": "万千气象看江苏",
-      "onboard_time": 1742825783,
-      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -74955,12 +75131,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27157,
+      "num": 202600,
+      "word": "这才是想象中的大学黑板啊",
+      "onboard_time": 1742871141,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 27143,
       "num": 204349,
       "word": "福利院为残障孤独症青少年创办咖啡厅",
       "onboard_time": 1741350622,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 27135,
+      "num": 267240,
+      "word": "国足目前积6分排名垫底",
+      "onboard_time": 1742871561,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 27110,

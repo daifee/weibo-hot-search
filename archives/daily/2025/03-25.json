@@ -1,6 +1,6 @@
 {
   "startTime": 1742833907641,
-  "endTime": 1742868756966,
+  "endTime": 1742871825784,
   "band_list": [
     {
       "raw_hot": 3092132,
@@ -9,6 +9,14 @@
       "onboard_time": 1742865859,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2682274,
+      "num": 342684,
+      "word": "鹿晗和关晓彤都去了寺庙",
+      "onboard_time": 1742869700,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1484751,
@@ -24,6 +32,14 @@
       "word": "山西订婚强奸案男子母亲发声",
       "onboard_time": 1742861661,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1220139,
+      "num": 1125450,
+      "word": "女生高铁上提醒男子勿脱鞋放脚被打",
+      "onboard_time": 1742865859,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -43,20 +59,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 784067,
-      "num": 1125450,
-      "word": "女生高铁上提醒男子勿脱鞋放脚被打",
-      "onboard_time": 1742865859,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 742575,
       "num": 213576,
       "word": "27岁女孩每天打3份工战胜不死癌症",
       "onboard_time": 1742827042,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 657335,
+      "num": 1105173,
+      "word": "春天穿衣服要下厚上薄",
+      "onboard_time": 1742864841,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 642203,
@@ -67,20 +83,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 594170,
-      "num": 594170,
-      "word": "春天穿衣服要下厚上薄",
-      "onboard_time": 1742864841,
-      "rank": 3,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 517053,
       "num": 841079,
       "word": "央视曝光所谓瘦身咖啡真相",
       "onboard_time": 1742826983,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 515296,
+      "num": 515296,
+      "word": "念无双定档",
+      "onboard_time": 1742869280,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 496386,
@@ -123,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 427448,
+      "num": 427448,
+      "word": "福宝与公众再度见面",
+      "onboard_time": 1742868020,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 423186,
       "num": 423186,
       "word": "野狗骨头 周柯宇",
@@ -145,6 +169,14 @@
       "onboard_time": 1742861721,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376275,
+      "num": 376275,
+      "word": "国足输球将无缘直通世界杯",
+      "onboard_time": 1742865920,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 373771,
@@ -171,20 +203,20 @@
       "category": "互联网,教育"
     },
     {
+      "raw_hot": 338842,
+      "num": 338842,
+      "word": "订婚强奸案男方家属要求退还彩礼",
+      "onboard_time": 1742868920,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335711,
       "num": 335711,
       "word": "睡前4个习惯让肚子长肉",
       "onboard_time": 1742823621,
       "rank": 5,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 330582,
-      "num": 330582,
-      "word": "国足输球将无缘直通世界杯",
-      "onboard_time": 1742865920,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 315547,
@@ -196,7 +228,7 @@
     },
     {
       "raw_hot": 306236,
-      "num": 171707,
+      "num": 194990,
       "word": "早睡真能解决身体80%以上的问题",
       "onboard_time": 1742864841,
       "rank": 21,
@@ -212,11 +244,19 @@
     },
     {
       "raw_hot": 293167,
-      "num": 293167,
+      "num": 314233,
       "word": "虞书欣双轨吊带长裙路透",
       "onboard_time": 1742866101,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292560,
+      "num": 292560,
+      "word": "福宝去年异常抖动后已静养100多天",
+      "onboard_time": 1742869161,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287716,
@@ -227,11 +267,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 269636,
-      "num": 269636,
-      "word": "福宝与公众再度见面",
-      "onboard_time": 1742868020,
-      "rank": 16,
+      "raw_hot": 279888,
+      "num": 331588,
+      "word": "订婚强奸案男方已被羁押690天",
+      "onboard_time": 1742870842,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -241,6 +281,22 @@
       "onboard_time": 1742800762,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265993,
+      "num": 265993,
+      "word": "爷爷从山上捡到一只怀孕野生布偶",
+      "onboard_time": 1742870300,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 260832,
+      "num": 260832,
+      "word": "小米股价开盘大跌",
+      "onboard_time": 1742868380,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 246697,
@@ -275,12 +331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212167,
+      "num": 235330,
+      "word": "郭晓婷主演念无双",
+      "onboard_time": 1742870300,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209789,
       "num": 209789,
       "word": "林心如新剧开拍",
       "onboard_time": 1742831961,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202585,
+      "num": 202585,
+      "word": "吃着不甜但热量爆炸的水果",
+      "onboard_time": 1742870300,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 193153,
@@ -315,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176613,
+      "num": 176613,
+      "word": "DeepSeek预测国足出线概率",
+      "onboard_time": 1742871082,
+      "rank": 32,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 173213,
       "num": 173213,
       "word": "希望小学一万四买相机只值六百引质疑",
@@ -345,6 +425,14 @@
       "onboard_time": 1742867180,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166179,
+      "num": 166179,
+      "word": "上海人已经开始cityboat了",
+      "onboard_time": 1742870300,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 164322,
@@ -385,6 +473,14 @@
       "onboard_time": 1742824883,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151043,
+      "num": 117634,
+      "word": "起诉书称男童被生母及男友打死因睡觉晚",
+      "onboard_time": 1742870420,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147808,
@@ -435,6 +531,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132395,
+      "num": 132395,
+      "word": "世纪婴儿",
+      "onboard_time": 1742870842,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132183,
+      "num": 132183,
+      "word": "中国建人类细胞谱系大科学研究设施",
+      "onboard_time": 1742870000,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 131811,
+      "num": 202663,
+      "word": "这一把火是她绝望的自救",
+      "onboard_time": 1742868799,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130377,
       "num": 185762,
       "word": "赵丽颖害羞成这样",
@@ -467,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119387,
+      "num": 202615,
+      "word": "哪吒2联名卡炒到18.88万",
+      "onboard_time": 1742870360,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117936,
       "num": 117936,
       "word": "中央八项规定精神学习教育",
@@ -491,11 +619,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110201,
+      "num": 110201,
+      "word": "EMMA跳Jennie新歌",
+      "onboard_time": 1742869940,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 109230,
       "num": 166405,
       "word": "嗑到唐艺昕和张若昀的日常了",
       "onboard_time": 1742858718,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106968,
+      "num": 106968,
+      "word": "李晟镜头",
+      "onboard_time": 1742871800,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -513,14 +657,6 @@
       "onboard_time": 1742825061,
       "rank": 44,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 100551,
-      "num": 100551,
-      "word": "小米股价开盘大跌",
-      "onboard_time": 1742868380,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 100329,
@@ -715,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73877,
+      "num": 292773,
+      "word": "梳理山西订婚强奸案始末",
+      "onboard_time": 1742871141,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72949,
       "num": 72949,
       "word": "虞书欣晒卫小枝日常第二弹",
@@ -729,6 +873,14 @@
       "onboard_time": 1742814199,
       "rank": 36,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 71975,
+      "num": 304471,
+      "word": "山西订婚强奸案双方恋爱时间线",
+      "onboard_time": 1742870902,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71234,
@@ -835,6 +987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 58946,
+      "num": 343776,
+      "word": "北京大风黄色预警",
+      "onboard_time": 1742870240,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58333,
       "num": 58333,
       "word": "下一个台风",
@@ -883,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43468,
+      "num": 311725,
+      "word": "武汉樱花文创冰箱贴已被抢到断货",
+      "onboard_time": 1742871321,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42454,
       "num": 42454,
       "word": "上官正义称代孕妈妈中不乏高学历者",
@@ -899,7 +1067,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31954,
+      "raw_hot": 36972,
+      "num": 107277,
+      "word": "订婚强奸案女方被曝有两次相亲经历",
+      "onboard_time": 1742871561,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33684,
       "num": 772770,
       "word": "万千气象看江苏",
       "onboard_time": 1742825783,
@@ -961,6 +1137,22 @@
       "onboard_time": 1742838075,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 27157,
+      "num": 202600,
+      "word": "这才是想象中的大学黑板啊",
+      "onboard_time": 1742871141,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 27135,
+      "num": 267240,
+      "word": "国足目前积6分排名垫底",
+      "onboard_time": 1742871561,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 26068,
