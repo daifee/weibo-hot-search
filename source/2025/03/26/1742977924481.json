@@ -1,0 +1,410 @@
+{
+  "runTime": 1742977924481,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1667119,
+        "num": 1667119,
+        "word": "晒工资被开除山姆试吃员签保密协议",
+        "onboard_time": 1742973742,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 696676,
+        "num": 696676,
+        "word": "又贵又难吃的羽衣甘蓝被疯抢",
+        "onboard_time": 1742967021,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53691,
+        "num": 599139,
+        "word": "春季9个重要健康提示",
+        "onboard_time": 1742963723,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562538,
+        "num": 562538,
+        "word": "李晟回应断层第一",
+        "onboard_time": 1742961921,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394047,
+        "num": 394047,
+        "word": "招商银行人均薪酬降至60万元以内",
+        "onboard_time": 1742963723,
+        "rank": 4,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 1253214,
+        "num": 393824,
+        "word": "男演员赵骏亚承认家暴",
+        "onboard_time": 1742974941,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405528,
+        "num": 393653,
+        "word": "2025新剧扎堆",
+        "onboard_time": 1742969841,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393251,
+        "num": 393251,
+        "word": "多方回应山姆试吃员晒工资条被开除",
+        "onboard_time": 1742965403,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287294,
+        "num": 287294,
+        "word": "小鹿妈妈前员工说上班就像坐牢",
+        "onboard_time": 1742967562,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269618,
+        "num": 269618,
+        "word": "恒大汽车",
+        "onboard_time": 1742971102,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 497345,
+        "num": 269252,
+        "word": "于正回应白鹿告别文错字",
+        "onboard_time": 1742976081,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442093,
+        "num": 268941,
+        "word": "赵露思 做不了的事我就说讨厌",
+        "onboard_time": 1742967201,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298712,
+        "num": 268776,
+        "word": "女子靠4000工资养家盼丈夫共同承担",
+        "onboard_time": 1742964444,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267467,
+        "num": 267467,
+        "word": "花4880元学剪辑月赚47.84元",
+        "onboard_time": 1742972902,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49072,
+        "num": 258982,
+        "word": "94%受访者支持食安犯罪最高判死刑",
+        "onboard_time": 1742976199,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257478,
+        "num": 257478,
+        "word": "公司补偿晒工资被开除试吃员2900元",
+        "onboard_time": 1742972841,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435581,
+        "num": 252183,
+        "word": "女子拔牙后坠亡事件后续",
+        "onboard_time": 1742970141,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246598,
+        "num": 246598,
+        "word": "女演员吴婉君控诉赵骏亚家暴",
+        "onboard_time": 1742976561,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223669,
+        "num": 223669,
+        "word": "这个宋茜真的是初恋",
+        "onboard_time": 1742971582,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78556,
+        "num": 218610,
+        "word": "老人养老院走失后车祸身亡家属发声",
+        "onboard_time": 1742976502,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116530,
+        "num": 216708,
+        "word": "周深说想把中文音乐唱给更多人听",
+        "onboard_time": 1742971461,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241751,
+        "num": 216486,
+        "word": "李晟会是第二个王心凌吗",
+        "onboard_time": 1742976142,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215785,
+        "num": 215785,
+        "word": "柯基打架输了气绝身亡",
+        "onboard_time": 1742948722,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223241,
+        "num": 215734,
+        "word": "宋茜唐艺昕张佳宁聚餐合照",
+        "onboard_time": 1742970741,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19242,
+        "num": 212057,
+        "word": "官方回应公司被指无午休上班不得离开",
+        "onboard_time": 1742977703,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211584,
+        "num": 211584,
+        "word": "李昀锐奔跑吧录制",
+        "onboard_time": 1742973861,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189220,
+        "num": 189220,
+        "word": "幸亏梁田会主持",
+        "onboard_time": 1742977820,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143353,
+        "num": 183508,
+        "word": "甲亢哥上海直播打破西方对中国滤镜",
+        "onboard_time": 1742961501,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43186,
+        "num": 177084,
+        "word": "男子卖菜籽谁料菜籽三蹦子都是偷的",
+        "onboard_time": 1742976620,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26497,
+        "num": 171943,
+        "word": "临期食品变剩菜盲盒被疯抢",
+        "onboard_time": 1742977341,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194606,
+        "num": 168345,
+        "word": "周三洗头大法",
+        "onboard_time": 1742958682,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164770,
+        "num": 164770,
+        "word": "气温多变牛仔中裤的含金量还在上升",
+        "onboard_time": 1742977882,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 161436,
+        "num": 161436,
+        "word": "辽宁省人民医院被警告",
+        "onboard_time": 1742977221,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155044,
+        "num": 155044,
+        "word": "多名台民众大陆配偶被限期离台",
+        "onboard_time": 1742964383,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141677,
+        "num": 141677,
+        "word": "老板炸了我的蔬菜沙拉",
+        "onboard_time": 1742975361,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140775,
+        "num": 140775,
+        "word": "官方回应公积金中心光纤被挖断3次",
+        "onboard_time": 1742969002,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66478,
+        "num": 138202,
+        "word": "比亚迪兆瓦闪充发布即量产",
+        "onboard_time": 1742973681,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 136060,
+        "num": 136060,
+        "word": "骗子办假考试再骗高分学员",
+        "onboard_time": 1742971461,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23969,
+        "num": 129464,
+        "word": "Gucci竹节包演变历程",
+        "onboard_time": 1742976199,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 125143,
+        "num": 125143,
+        "word": "孙颖莎合影比耶",
+        "onboard_time": 1742977281,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124927,
+        "num": 124927,
+        "word": "兔狲狲尚香不幸病亡",
+        "onboard_time": 1742966782,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118431,
+        "num": 118431,
+        "word": "张凌赫上英语二模试卷了",
+        "onboard_time": 1742975661,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117372,
+        "num": 117372,
+        "word": "女生低成本补气血的小tips",
+        "onboard_time": 1742975542,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114207,
+        "num": 114207,
+        "word": "宋轶白敬亭 同款眼镜",
+        "onboard_time": 1742961921,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112592,
+        "num": 112592,
+        "word": "李在明二审无罪",
+        "onboard_time": 1742972061,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110575,
+        "num": 110575,
+        "word": "厌蠢其实是种情绪暴力",
+        "onboard_time": 1742956880,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105055,
+        "num": 105055,
+        "word": "灵魂摆渡5要来了",
+        "onboard_time": 1742954961,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142248,
+        "num": 103080,
+        "word": "中国平安有高管年薪1342万",
+        "onboard_time": 1742967922,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99239,
+        "num": 99239,
+        "word": "金赛纶因母亲向男友透露私事分手",
+        "onboard_time": 1742964023,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98921,
+        "num": 98921,
+        "word": "苹果向浙大捐赠3000万",
+        "onboard_time": 1742957960,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈今年党建工作的重点任务#"
+    }
+  }
+}
