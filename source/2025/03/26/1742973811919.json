@@ -1,0 +1,410 @@
+{
+  "runTime": 1742973811919,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1026400,
+        "num": 1164224,
+        "word": "又贵又难吃的羽衣甘蓝被疯抢",
+        "onboard_time": 1742967021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 847132,
+        "num": 847132,
+        "word": "多方回应山姆试吃员晒工资条被开除",
+        "onboard_time": 1742965403,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60252,
+        "num": 846219,
+        "word": "春季9个重要健康提示",
+        "onboard_time": 1742963723,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 845326,
+        "num": 845326,
+        "word": "李晟回应断层第一",
+        "onboard_time": 1742961921,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611898,
+        "num": 611898,
+        "word": "小鹿妈妈前员工说上班就像坐牢",
+        "onboard_time": 1742967562,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586902,
+        "num": 586902,
+        "word": "女子拔牙后坠亡事件后续",
+        "onboard_time": 1742970141,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558770,
+        "num": 558770,
+        "word": "2025新剧扎堆",
+        "onboard_time": 1742969841,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489844,
+        "num": 489844,
+        "word": "恒大汽车",
+        "onboard_time": 1742971102,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 482404,
+        "num": 482404,
+        "word": "官方回应公积金中心光纤被挖断3次",
+        "onboard_time": 1742969002,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209278,
+        "num": 467063,
+        "word": "李在明二审无罪",
+        "onboard_time": 1742972061,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 611128,
+        "num": 465882,
+        "word": "赵露思 做不了的事我就说讨厌",
+        "onboard_time": 1742967201,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579962,
+        "num": 464929,
+        "word": "女子靠4000工资养家盼丈夫共同承担",
+        "onboard_time": 1742964444,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457457,
+        "num": 457457,
+        "word": "招商银行人均薪酬降至60万元以内",
+        "onboard_time": 1742963723,
+        "rank": 12,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 453347,
+        "num": 453347,
+        "word": "柯基打架输了气绝身亡",
+        "onboard_time": 1742948722,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388755,
+        "num": 388755,
+        "word": "宋茜唐艺昕张佳宁聚餐合照",
+        "onboard_time": 1742970741,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320096,
+        "num": 320096,
+        "word": "关晓彤久违的好天气和春天的剧组餐",
+        "onboard_time": 1742967862,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309445,
+        "num": 309445,
+        "word": "德国政府解散",
+        "onboard_time": 1742947703,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 256401,
+        "num": 256401,
+        "word": "这个宋茜真的是初恋",
+        "onboard_time": 1742971582,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228916,
+        "num": 233601,
+        "word": "甲亢哥上海直播打破西方对中国滤镜",
+        "onboard_time": 1742961501,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223948,
+        "num": 233129,
+        "word": "赵露思素颜录综艺",
+        "onboard_time": 1742963363,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233050,
+        "num": 233050,
+        "word": "多名台民众大陆配偶被限期离台",
+        "onboard_time": 1742964383,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227436,
+        "num": 227436,
+        "word": "张丹峰演求婚被分手",
+        "onboard_time": 1742969481,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219878,
+        "num": 219878,
+        "word": "李佳航超话 给李晟投票",
+        "onboard_time": 1742966602,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208084,
+        "num": 208084,
+        "word": "花4880元学剪辑月赚47.84元",
+        "onboard_time": 1742972902,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202385,
+        "num": 202385,
+        "word": "中国平安有高管年薪1342万",
+        "onboard_time": 1742967922,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194863,
+        "num": 194863,
+        "word": "周三洗头大法",
+        "onboard_time": 1742958682,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57111,
+        "num": 191163,
+        "word": "女子养生馆38元体验后花了42万",
+        "onboard_time": 1742973621,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172030,
+        "num": 187159,
+        "word": "宋轶白敬亭 同款眼镜",
+        "onboard_time": 1742961921,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26119,
+        "num": 183166,
+        "word": "女子做医美手术后嘴歪面瘫近半年",
+        "onboard_time": 1742973502,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13528,
+        "num": 176854,
+        "word": "黄健翔说国足必须击败印尼才有希望",
+        "onboard_time": 1742973081,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172481,
+        "num": 172481,
+        "word": "苹果向浙大捐赠3000万",
+        "onboard_time": 1742957960,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151415,
+        "num": 151415,
+        "word": "金赛纶因母亲向男友透露私事分手",
+        "onboard_time": 1742964023,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148818,
+        "num": 148818,
+        "word": "兔狲狲尚香不幸病亡",
+        "onboard_time": 1742966782,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148118,
+        "num": 148118,
+        "word": "骗子办假考试再骗高分学员",
+        "onboard_time": 1742971461,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140057,
+        "num": 140057,
+        "word": "周深说想把中文音乐唱给更多人听",
+        "onboard_time": 1742971461,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137223,
+        "num": 137223,
+        "word": "恒大汽车暴涨200%",
+        "onboard_time": 1742972422,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134224,
+        "num": 134224,
+        "word": "喝咖啡减肥的黄金时间",
+        "onboard_time": 1742959881,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132091,
+        "num": 132091,
+        "word": "灵魂摆渡5要来了",
+        "onboard_time": 1742954961,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131450,
+        "num": 131450,
+        "word": "你好星期六要开快闪店啦",
+        "onboard_time": 1742973621,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129474,
+        "num": 129474,
+        "word": "花花第一次心动是因为四罐辣酱",
+        "onboard_time": 1742972602,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127787,
+        "num": 127787,
+        "word": "厌蠢其实是种情绪暴力",
+        "onboard_time": 1742956880,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124566,
+        "num": 124566,
+        "word": "唐嫣高定look",
+        "onboard_time": 1742971281,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120914,
+        "num": 120914,
+        "word": "柯淳眼睛一红我就舍不得走了",
+        "onboard_time": 1742965163,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114867,
+        "num": 114867,
+        "word": "英菲尼迪起诉王力宏西东音乐",
+        "onboard_time": 1742971642,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109083,
+        "num": 109083,
+        "word": "何瑞贤人生镜头上新了",
+        "onboard_time": 1742971102,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108522,
+        "num": 108522,
+        "word": "谁懂成毅最后一幕的眼神戏",
+        "onboard_time": 1742971820,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107285,
+        "num": 107285,
+        "word": "吃俩剩馒头给孩子高兴坏了",
+        "onboard_time": 1742964383,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105697,
+        "num": 105697,
+        "word": "小鹏X9屏幕夹断5岁男童半节食指",
+        "onboard_time": 1742966602,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 102299,
+        "num": 102299,
+        "word": "晒工资被开除山姆试吃员签保密协议",
+        "onboard_time": 1742973742,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7965,
+        "num": 101985,
+        "word": "比亚迪兆瓦闪充发布即量产",
+        "onboard_time": 1742973681,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈今年党建工作的重点任务#"
+    }
+  }
+}
