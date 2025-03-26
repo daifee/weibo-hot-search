@@ -1,7 +1,15 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742953799432,
+  "endTime": 1742955149465,
   "band_list": [
+    {
+      "raw_hot": 2345972,
+      "num": 2345972,
+      "word": "德国政府解散",
+      "onboard_time": 1742947703,
+      "rank": 1,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 2040422,
       "num": 2040422,
@@ -9,14 +17,6 @@
       "onboard_time": 1742949683,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1901184,
-      "num": 1901184,
-      "word": "德国政府解散",
-      "onboard_time": 1742947703,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1737658,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1442283,
-      "num": 353801,
+      "num": 373017,
       "word": "柯基打架输了气绝身亡",
       "onboard_time": 1742948722,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1420851,
-      "num": 353650,
+      "num": 372016,
       "word": "金赛纶老公晒结婚证明",
       "onboard_time": 1742916443,
       "rank": 10,
@@ -76,10 +76,26 @@
     },
     {
       "raw_hot": 787207,
-      "num": 353435,
+      "num": 366217,
       "word": "李晟李佳航",
       "onboard_time": 1742915003,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 747356,
+      "num": 610140,
+      "word": "无锡马拉松承办单位回应野鸳鸯事件",
+      "onboard_time": 1742951600,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 740142,
+      "num": 367569,
+      "word": "金秀贤即将公开的新料预告",
+      "onboard_time": 1742953641,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 678909,
-      "num": 339787,
+      "num": 357969,
       "word": "苗苗郑恺搬家",
       "onboard_time": 1742916382,
       "rank": 12,
@@ -113,14 +129,6 @@
       "onboard_time": 1742914404,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 610140,
-      "num": 610140,
-      "word": "无锡马拉松承办单位回应野鸳鸯事件",
-      "onboard_time": 1742951600,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 534103,
@@ -153,6 +161,14 @@
       "onboard_time": 1742923998,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419511,
+      "num": 419511,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1742947643,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 416783,
@@ -188,27 +204,35 @@
     },
     {
       "raw_hot": 369616,
-      "num": 369616,
+      "num": 379667,
       "word": "高泰宇说肖战人品特别好",
       "onboard_time": 1742949264,
       "rank": 7,
       "category": "艺人"
     },
     {
+      "raw_hot": 368520,
+      "num": 358007,
+      "word": "网红滕顺强夫妇退网",
+      "onboard_time": 1742953281,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362765,
-      "num": 311398,
+      "num": 316168,
       "word": "医生称机洗内裤比手洗干净",
       "onboard_time": 1742946322,
       "rank": 20,
       "category": "幽默,科学科普"
     },
     {
-      "raw_hot": 353172,
-      "num": 353172,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1742947643,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 350088,
+      "num": 380482,
+      "word": "全上海都在偶遇白敬亭",
+      "onboard_time": 1742951722,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 335207,
@@ -227,28 +251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 306764,
-      "num": 306764,
-      "word": "网红滕顺强夫妇退网",
-      "onboard_time": 1742953281,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 303973,
       "num": 218130,
       "word": "花非花雾非雾",
       "onboard_time": 1742914584,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289206,
-      "num": 324449,
-      "word": "全上海都在偶遇白敬亭",
-      "onboard_time": 1742951722,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 284671,
@@ -265,6 +273,14 @@
       "onboard_time": 1742949202,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270930,
+      "num": 362190,
+      "word": "赵露思说是爱让她又活了一次",
+      "onboard_time": 1742952260,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 269637,
@@ -307,6 +323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 220314,
+      "num": 220314,
+      "word": "女子想再给骗子16万取回被骗的58万",
+      "onboard_time": 1742952561,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216821,
       "num": 216821,
       "word": "订婚强奸案家属称公诉人坚持被告有罪",
@@ -323,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206977,
-      "num": 206977,
-      "word": "女子想再给骗子16万取回被骗的58万",
-      "onboard_time": 1742952561,
+      "raw_hot": 213745,
+      "num": 253353,
+      "word": "灵魂摆渡5要来了",
+      "onboard_time": 1742954961,
       "rank": 26,
-      "category": "民生新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 202749,
@@ -363,20 +387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190046,
-      "num": 316097,
-      "word": "赵露思说是爱让她又活了一次",
-      "onboard_time": 1742952260,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184728,
       "num": 184728,
       "word": "警方通报快递员被高空坠物砸中身亡",
       "onboard_time": 1742912663,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 182035,
+      "num": 182035,
+      "word": "阴阳师",
+      "onboard_time": 1742953941,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 181469,
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 178404,
-      "num": 198241,
+      "num": 241690,
       "word": "刘诗诗东方淮竹真的要来了",
       "onboard_time": 1742946741,
       "rank": 28,
@@ -411,6 +435,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161619,
+      "num": 161619,
+      "word": "阿根廷vs巴西",
+      "onboard_time": 1742949443,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159182,
+      "num": 159182,
+      "word": "原神",
+      "onboard_time": 1742954481,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156418,
       "num": 134818,
       "word": "跑男真把吴昕喊来了",
@@ -419,28 +459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155065,
-      "num": 155065,
-      "word": "阿根廷vs巴西",
-      "onboard_time": 1742949443,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151585,
-      "num": 197119,
+      "num": 247343,
       "word": "范丞丞 回归",
       "onboard_time": 1742952741,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146793,
-      "num": 146793,
-      "word": "金秀贤即将公开的新料预告",
-      "onboard_time": 1742953641,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 136783,
@@ -459,7 +483,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 134839,
+      "raw_hot": 135082,
       "num": 172236,
       "word": "逐玉",
       "onboard_time": 1742950042,
@@ -539,6 +563,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 121808,
+      "num": 358492,
+      "word": "王一博又有新赛车了",
+      "onboard_time": 1742954181,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120288,
       "num": 120288,
       "word": "终于知道许凯为什么抬头找粉丝了",
@@ -553,6 +585,14 @@
       "onboard_time": 1742894243,
       "rank": 42,
       "category": "民生新闻,运动健身"
+    },
+    {
+      "raw_hot": 119172,
+      "num": 119172,
+      "word": "气温先升后降到底要怎么穿",
+      "onboard_time": 1742954841,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118943,
@@ -571,11 +611,35 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 116676,
+      "num": 116676,
+      "word": "当年的小燕子嫁给了尔康",
+      "onboard_time": 1742955021,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116436,
+      "num": 116436,
+      "word": "阿根廷晋级2026世界杯",
+      "onboard_time": 1742951302,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115593,
       "num": 115593,
       "word": "印尼1比0巴林",
       "onboard_time": 1742920698,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114150,
+      "num": 374784,
+      "word": "国足这么差怎么还那么多人看",
+      "onboard_time": 1742954062,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -595,6 +659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107844,
+      "num": 107844,
+      "word": "iOS19或为圆角玻璃风",
+      "onboard_time": 1742953162,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 107815,
       "num": 102798,
       "word": "京城双姝",
@@ -609,6 +681,14 @@
       "onboard_time": 1742917042,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105570,
+      "num": 105570,
+      "word": "男子恋爱半年花费320万",
+      "onboard_time": 1742955082,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101427,
@@ -795,6 +875,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 66863,
+      "num": 376642,
+      "word": "3步开启手机地震预警",
+      "onboard_time": 1742954181,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66679,
       "num": 112516,
       "word": "前TVB男星蔡子健转行教书",
@@ -817,6 +905,14 @@
       "onboard_time": 1742920759,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60543,
+      "num": 232121,
+      "word": "伊万回应国足输澳大利亚",
+      "onboard_time": 1742954362,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 52856,
@@ -865,6 +961,14 @@
       "onboard_time": 1742945002,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 42309,
+      "num": 358025,
+      "word": "陪郑钦文一起翻山",
+      "onboard_time": 1742954421,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 36226,
