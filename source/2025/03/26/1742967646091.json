@@ -1,0 +1,410 @@
+{
+  "runTime": 1742967646091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1487929,
+        "num": 1487929,
+        "word": "李晟回应断层第一",
+        "onboard_time": 1742961921,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1219462,
+        "num": 1219462,
+        "word": "多方回应山姆试吃员晒工资条被开除",
+        "onboard_time": 1742965403,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67373,
+        "num": 768125,
+        "word": "春季9个重要健康提示",
+        "onboard_time": 1742963723,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766152,
+        "num": 766152,
+        "word": "赵露思素颜录综艺",
+        "onboard_time": 1742963363,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465467,
+        "num": 465467,
+        "word": "苹果向浙大捐赠3000万",
+        "onboard_time": 1742957960,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 433737,
+        "num": 433737,
+        "word": "多名台民众大陆配偶被限期离台",
+        "onboard_time": 1742964383,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 545116,
+        "num": 433324,
+        "word": "宋轶白敬亭 同款眼镜",
+        "onboard_time": 1742961921,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430414,
+        "num": 430414,
+        "word": "李佳航超话 给李晟投票",
+        "onboard_time": 1742966602,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421423,
+        "num": 421423,
+        "word": "德国政府解散",
+        "onboard_time": 1742947703,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 403981,
+        "num": 403981,
+        "word": "夫妻不信儿子已死40年后一家终团聚",
+        "onboard_time": 1742956880,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2112221,
+        "num": 370415,
+        "word": "女子靠4000工资养家盼丈夫共同承担",
+        "onboard_time": 1742964444,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588134,
+        "num": 367898,
+        "word": "柯基打架输了气绝身亡",
+        "onboard_time": 1742948722,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431938,
+        "num": 358050,
+        "word": "金赛纶因母亲向男友透露私事分手",
+        "onboard_time": 1742964023,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315094,
+        "num": 315094,
+        "word": "周三洗头大法",
+        "onboard_time": 1742958682,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314852,
+        "num": 314852,
+        "word": "新还珠格格",
+        "onboard_time": 1742962222,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311761,
+        "num": 311761,
+        "word": "甲亢哥上海直播打破西方对中国滤镜",
+        "onboard_time": 1742961501,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272551,
+        "num": 272551,
+        "word": "刘涛眼睛在哭脸在笑",
+        "onboard_time": 1742958200,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229298,
+        "num": 229298,
+        "word": "SHE一起出去旅游了",
+        "onboard_time": 1742966241,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220792,
+        "num": 220792,
+        "word": "韩国救援山火直升机坠落",
+        "onboard_time": 1742963302,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72297,
+        "num": 220691,
+        "word": "50.9元尖椒鸡外卖吃出烟头",
+        "onboard_time": 1742966301,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515883,
+        "num": 218410,
+        "word": "招商银行人均薪酬降至60万元以内",
+        "onboard_time": 1742963723,
+        "rank": 20,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 271791,
+        "num": 217527,
+        "word": "王星 无限超越班",
+        "onboard_time": 1742962282,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235178,
+        "num": 216807,
+        "word": "厌蠢其实是种情绪暴力",
+        "onboard_time": 1742956880,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215828,
+        "num": 215828,
+        "word": "兔狲狲尚香不幸病亡",
+        "onboard_time": 1742966782,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76272,
+        "num": 209465,
+        "word": "台湾海峡不存在所谓的国际水域",
+        "onboard_time": 1742963542,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206099,
+        "num": 206099,
+        "word": "喝咖啡减肥的黄金时间",
+        "onboard_time": 1742959881,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203913,
+        "num": 203913,
+        "word": "小鹏X9屏幕夹断5岁男童半节食指",
+        "onboard_time": 1742966602,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181410,
+        "num": 181410,
+        "word": "1个月经周期6个水瓶盖的量就算正常",
+        "onboard_time": 1742957181,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123852,
+        "num": 181112,
+        "word": "留几手做艺先做人",
+        "onboard_time": 1742965641,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150446,
+        "num": 181069,
+        "word": "又贵又难吃的羽衣甘蓝被疯抢",
+        "onboard_time": 1742967021,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181064,
+        "num": 181064,
+        "word": "台独恶劣行径举报邮箱公布",
+        "onboard_time": 1742955201,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180901,
+        "num": 180901,
+        "word": "医生称机洗内裤比手洗干净",
+        "onboard_time": 1742946322,
+        "rank": 31,
+        "category": "幽默,科学科普"
+      },
+      {
+        "raw_hot": 65391,
+        "num": 180594,
+        "word": "奔跑吧全员在武汉玩嗨了",
+        "onboard_time": 1742967503,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26057,
+        "num": 180511,
+        "word": "小鹿妈妈前员工说上班就像坐牢",
+        "onboard_time": 1742967562,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180452,
+        "num": 180452,
+        "word": "赵露思 做不了的事我就说讨厌",
+        "onboard_time": 1742967201,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177984,
+        "num": 177984,
+        "word": "安悦溪用AI设计卫生巾",
+        "onboard_time": 1742964383,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171507,
+        "num": 171507,
+        "word": "灵魂摆渡5要来了",
+        "onboard_time": 1742954961,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165729,
+        "num": 165729,
+        "word": "柯淳眼睛一红我就舍不得走了",
+        "onboard_time": 1742965163,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160162,
+        "num": 160162,
+        "word": "甲亢哥",
+        "onboard_time": 1742963302,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157331,
+        "num": 157331,
+        "word": "江西公积金中心光纤被接连挖断3次",
+        "onboard_time": 1742957481,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152080,
+        "num": 152080,
+        "word": "吃俩剩馒头给孩子高兴坏了",
+        "onboard_time": 1742964383,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149360,
+        "num": 149360,
+        "word": "考编的风又吹到了国产剧",
+        "onboard_time": 1742965462,
+        "rank": 41,
+        "category": "剧集,教育"
+      },
+      {
+        "raw_hot": 140491,
+        "num": 140491,
+        "word": "长安二十四计",
+        "onboard_time": 1742963782,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134770,
+        "num": 134770,
+        "word": "天津震感",
+        "onboard_time": 1742924419,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 123491,
+        "num": 123491,
+        "word": "杭州女童坠亡案雇主被保姆女儿起诉",
+        "onboard_time": 1742957121,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122197,
+        "num": 122197,
+        "word": "半熟恋人",
+        "onboard_time": 1742966421,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113013,
+        "num": 113013,
+        "word": "雷军称小米克制贪婪只挣一点点",
+        "onboard_time": 1742960421,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105634,
+        "num": 105634,
+        "word": "网红滕顺强夫妇退网",
+        "onboard_time": 1742953281,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91542,
+        "num": 105467,
+        "word": "王嘉尔新歌在挣脱什么",
+        "onboard_time": 1742965821,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105365,
+        "num": 105365,
+        "word": "金秀贤即将公开的新料预告",
+        "onboard_time": 1742953641,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈今年党建工作的重点任务#"
+    }
+  }
+}

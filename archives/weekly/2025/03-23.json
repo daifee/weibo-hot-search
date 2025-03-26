@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742966606461,
+  "endTime": 1742967646091,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1219462,
+      "num": 1219462,
+      "word": "多方回应山姆试吃员晒工资条被开除",
+      "onboard_time": 1742965403,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1194764,
       "num": 447094,
       "word": "14岁等等好帅",
@@ -931,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 766152,
+      "num": 766152,
+      "word": "赵露思素颜录综艺",
+      "onboard_time": 1742963363,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 765862,
       "num": 352476,
       "word": "董事长被指马拉松上与女子举止亲密",
@@ -1033,14 +1049,6 @@
       "onboard_time": 1742742442,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 705226,
-      "num": 541007,
-      "word": "赵露思素颜录综艺",
-      "onboard_time": 1742963363,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 694349,
@@ -1539,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 515883,
+      "num": 218410,
+      "word": "招商银行人均薪酬降至60万元以内",
+      "onboard_time": 1742963723,
+      "rank": 34,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 515296,
       "num": 515296,
       "word": "念无双定档",
@@ -1851,14 +1867,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 449933,
-      "num": 206362,
-      "word": "招商银行人均薪酬降至60万元以内",
-      "onboard_time": 1742963723,
-      "rank": 34,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 446562,
       "num": 446562,
       "word": "民间格格",
@@ -1947,12 +1955,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433737,
+      "num": 433737,
+      "word": "多名台民众大陆配偶被限期离台",
+      "onboard_time": 1742964383,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 431938,
+      "num": 358050,
+      "word": "金赛纶因母亲向男友透露私事分手",
+      "onboard_time": 1742964023,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430591,
       "num": 298929,
       "word": "熊孩子丢湿巾砸中私家车赔7000元",
       "onboard_time": 1742780419,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430414,
+      "num": 430414,
+      "word": "李佳航超话 给李晟投票",
+      "onboard_time": 1742966602,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 429256,
@@ -2137,14 +2169,6 @@
       "onboard_time": 1742961501,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 401721,
-      "num": 401721,
-      "word": "多方回应山姆试吃员晒工资条被开除",
-      "onboard_time": 1742965403,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 399671,
@@ -2401,14 +2425,6 @@
       "onboard_time": 1742882121,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 360089,
-      "num": 403152,
-      "word": "多名台民众大陆配偶被限期离台",
-      "onboard_time": 1742964383,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 359396,
@@ -2905,14 +2921,6 @@
       "onboard_time": 1742905461,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 301221,
-      "num": 301221,
-      "word": "金赛纶因母亲向男友透露私事分手",
-      "onboard_time": 1742964023,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 300128,
@@ -3795,6 +3803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 229298,
+      "num": 229298,
+      "word": "SHE一起出去旅游了",
+      "onboard_time": 1742966241,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229195,
       "num": 229195,
       "word": "迪士尼暂缓金秀贤作品山寨人生公开",
@@ -4017,6 +4033,14 @@
       "onboard_time": 1742744720,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215828,
+      "num": 215828,
+      "word": "兔狲狲尚香不幸病亡",
+      "onboard_time": 1742966782,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215699,
@@ -4345,6 +4369,14 @@
       "onboard_time": 1742792244,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203913,
+      "num": 203913,
+      "word": "小鹏X9屏幕夹断5岁男童半节食指",
+      "onboard_time": 1742966602,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 203676,
@@ -5088,6 +5120,14 @@
       "word": "虞书欣安慰粉丝别哭别哭",
       "onboard_time": 1742731041,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180452,
+      "num": 180452,
+      "word": "赵露思 做不了的事我就说讨厌",
+      "onboard_time": 1742967201,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -6147,6 +6187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152080,
+      "num": 152080,
+      "word": "吃俩剩馒头给孩子高兴坏了",
+      "onboard_time": 1742964383,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151867,
       "num": 151867,
       "word": "山西大同订婚强奸案历经三次延期",
@@ -6233,6 +6281,14 @@
       "onboard_time": 1742706260,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150446,
+      "num": 181069,
+      "word": "又贵又难吃的羽衣甘蓝被疯抢",
+      "onboard_time": 1742967021,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150396,
@@ -6673,14 +6729,6 @@
       "onboard_time": 1742816542,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140735,
-      "num": 140735,
-      "word": "SHE一起出去旅游了",
-      "onboard_time": 1742966241,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 140700,
@@ -7444,7 +7492,7 @@
     },
     {
       "raw_hot": 126975,
-      "num": 126975,
+      "num": 209465,
       "word": "台湾海峡不存在所谓的国际水域",
       "onboard_time": 1742963542,
       "rank": 49,
@@ -7580,7 +7628,7 @@
     },
     {
       "raw_hot": 124447,
-      "num": 124447,
+      "num": 181112,
       "word": "留几手做艺先做人",
       "onboard_time": 1742965641,
       "rank": 45,
@@ -8097,14 +8145,6 @@
       "onboard_time": 1742705901,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115282,
-      "num": 115282,
-      "word": "吃俩剩馒头给孩子高兴坏了",
-      "onboard_time": 1742964383,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 114815,
@@ -9795,6 +9835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72297,
+      "num": 220691,
+      "word": "50.9元尖椒鸡外卖吃出烟头",
+      "onboard_time": 1742966301,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71597,
       "num": 71597,
       "word": "翔霖",
@@ -10049,6 +10097,14 @@
       "onboard_time": 1742797342,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65391,
+      "num": 180594,
+      "word": "奔跑吧全员在武汉玩嗨了",
+      "onboard_time": 1742967503,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 65029,
@@ -11539,11 +11595,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26004,
-      "num": 201841,
-      "word": "50.9元尖椒鸡外卖吃出烟头",
-      "onboard_time": 1742966301,
-      "rank": 25,
+      "raw_hot": 26057,
+      "num": 180511,
+      "word": "小鹿妈妈前员工说上班就像坐牢",
+      "onboard_time": 1742967562,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
