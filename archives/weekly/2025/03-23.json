@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743027804664,
+  "endTime": 1743028841674,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -2771,6 +2771,14 @@
       "category": "民生新闻,民生新闻"
     },
     {
+      "raw_hot": 374316,
+      "num": 374316,
+      "word": "找17岁女孩代孕男子领孩子多付20万",
+      "onboard_time": 1743007158,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372381,
       "num": 372381,
       "word": "刘翔之后又有中国运动员夺牌了",
@@ -4049,14 +4057,6 @@
       "onboard_time": 1742986161,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 253773,
-      "num": 253773,
-      "word": "找17岁女孩代孕男子领孩子多付20万",
-      "onboard_time": 1743007158,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250738,
@@ -13347,6 +13347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29432,
+      "num": 36435,
+      "word": "0.03元开通试用后每个月被扣近百元",
+      "onboard_time": 1743027676,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29329,
       "num": 29329,
       "word": "卓沅骑个小车真舒服",
@@ -13467,6 +13475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26892,
+      "num": 26892,
+      "word": "学校称虐猫致死男生在接受心理治疗",
+      "onboard_time": 1743022994,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26754,
       "num": 291075,
       "word": "大多数金包银产品缺斤短两",
@@ -13529,6 +13545,22 @@
       "onboard_time": 1742794762,
       "rank": 38,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 25985,
+      "num": 25985,
+      "word": "乘风2025姐姐乘风值",
+      "onboard_time": 1743011835,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25977,
+      "num": 25977,
+      "word": "新还珠格格的歌大部分是李晟唱的",
+      "onboard_time": 1743027135,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 25870,
@@ -13675,28 +13707,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 23087,
-      "num": 23087,
-      "word": "乘风2025姐姐乘风值",
-      "onboard_time": 1743011835,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 22864,
       "num": 178830,
       "word": "中小学生哪吒卡牌上瘾",
       "onboard_time": 1742916562,
       "rank": 19,
       "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 22270,
-      "num": 22270,
-      "word": "学校称虐猫致死男生在接受心理治疗",
-      "onboard_time": 1743022994,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21957,
@@ -13931,20 +13947,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16736,
+      "num": 19664,
+      "word": "农民大婶的诗让春天具象化了",
+      "onboard_time": 1743010935,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 16545,
       "num": 29144,
       "word": "F1直播",
       "onboard_time": 1742769376,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16528,
-      "num": 16800,
-      "word": "新还珠格格的歌大部分是李晟唱的",
-      "onboard_time": 1743027135,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 16244,
@@ -13993,14 +14009,6 @@
       "onboard_time": 1742845873,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15342,
-      "num": 16800,
-      "word": "0.03元开通试用后每个月被扣近百元",
-      "onboard_time": 1743027676,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15008,
@@ -14145,14 +14153,6 @@
       "onboard_time": 1742839875,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 11888,
-      "num": 12800,
-      "word": "农民大婶的诗让春天具象化了",
-      "onboard_time": 1743010935,
-      "rank": 48,
-      "category": "正能量"
     },
     {
       "raw_hot": 11562,

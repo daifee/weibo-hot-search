@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743027804664,
+  "endTime": 1743028841674,
   "band_list": [
     {
       "raw_hot": 1697150,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374316,
+      "num": 374316,
+      "word": "找17岁女孩代孕男子领孩子多付20万",
+      "onboard_time": 1743007158,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 361219,
       "num": 361219,
       "word": "吴宣仪宋妍霏合跳kisskissshyshy",
@@ -104,14 +112,6 @@
       "word": "店长回应早产儿蛋糕已下架销毁",
       "onboard_time": 1743000323,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253773,
-      "num": 253773,
-      "word": "找17岁女孩代孕男子领孩子多付20万",
-      "onboard_time": 1743007158,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103506,
+      "num": 103506,
+      "word": "刘晓庆回应演短剧遭朋友质疑丢人",
+      "onboard_time": 1742999663,
+      "rank": 32,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 103273,
       "num": 103273,
       "word": "潘粤明评国足8场6败",
@@ -259,14 +267,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 89052,
-      "num": 89052,
-      "word": "刘晓庆回应演短剧遭朋友质疑丢人",
-      "onboard_time": 1742999663,
-      "rank": 32,
-      "category": "艺人,剧集"
-    },
-    {
       "raw_hot": 81934,
       "num": 81934,
       "word": "田曦薇小红裙进妆look",
@@ -297,6 +297,14 @@
       "onboard_time": 1742995400,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65650,
+      "num": 65650,
+      "word": "梁田和混血弟弟纯正年下感",
+      "onboard_time": 1742996722,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 64090,
@@ -419,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48835,
-      "num": 48835,
-      "word": "梁田和混血弟弟纯正年下感",
-      "onboard_time": 1742996722,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 41854,
       "num": 221560,
       "word": "俄乌停火协议最新进展",
@@ -483,6 +483,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29432,
+      "num": 36435,
+      "word": "0.03元开通试用后每个月被扣近百元",
+      "onboard_time": 1743027676,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26892,
+      "num": 26892,
+      "word": "学校称虐猫致死男生在接受心理治疗",
+      "onboard_time": 1743022994,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25985,
+      "num": 25985,
+      "word": "乘风2025姐姐乘风值",
+      "onboard_time": 1743011835,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25977,
+      "num": 25977,
+      "word": "新还珠格格的歌大部分是李晟唱的",
+      "onboard_time": 1743027135,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25056,
       "num": 137673,
       "word": "美高官群聊完整记录公布",
@@ -491,44 +523,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 23087,
-      "num": 23087,
-      "word": "乘风2025姐姐乘风值",
-      "onboard_time": 1743011835,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 22270,
-      "num": 22270,
-      "word": "学校称虐猫致死男生在接受心理治疗",
-      "onboard_time": 1743022994,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16528,
-      "num": 16800,
-      "word": "新还珠格格的歌大部分是李晟唱的",
-      "onboard_time": 1743027135,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 15342,
-      "num": 16800,
-      "word": "0.03元开通试用后每个月被扣近百元",
-      "onboard_time": 1743027676,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13423,
-      "num": 210463,
+      "raw_hot": 19254,
+      "num": 300952,
       "word": "网络视听成全网民的数字空气",
       "onboard_time": 1742985381,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16736,
+      "num": 19664,
+      "word": "农民大婶的诗让春天具象化了",
+      "onboard_time": 1743010935,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 12901,
@@ -537,14 +545,6 @@
       "onboard_time": 1743013574,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11888,
-      "num": 12800,
-      "word": "农民大婶的诗让春天具象化了",
-      "onboard_time": 1743010935,
-      "rank": 48,
-      "category": "正能量"
     },
     {
       "raw_hot": 9212,
