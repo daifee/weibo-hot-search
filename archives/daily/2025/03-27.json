@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743006709925,
+  "endTime": 1743007639050,
   "band_list": [
     {
       "raw_hot": 1697150,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 404781,
-      "num": 118813,
+      "num": 207468,
       "word": "张檬自曝孕35周臀位绕颈",
       "onboard_time": 1743000382,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361219,
+      "num": 361219,
+      "word": "吴宣仪宋妍霏合跳kisskissshyshy",
+      "onboard_time": 1743006798,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 346938,
@@ -75,7 +83,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 275244,
+      "raw_hot": 291808,
       "num": 252016,
       "word": "辛云来疯子",
       "onboard_time": 1743005779,
@@ -131,6 +139,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 182409,
+      "num": 182409,
+      "word": "湖南卫视重映新还珠格格",
+      "onboard_time": 1742995702,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159942,
       "num": 159942,
       "word": "黄子佼承认持有7名少女非法影片",
@@ -147,12 +163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149852,
-      "num": 149852,
-      "word": "湖南卫视重映新还珠格格",
-      "onboard_time": 1742995702,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 123372,
+      "num": 123372,
+      "word": "美防长否认在有记者的群发作战计划",
+      "onboard_time": 1743004160,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118879,
@@ -171,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117792,
-      "num": 117792,
-      "word": "美防长否认在有记者的群发作战计划",
-      "onboard_time": 1743004160,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 111773,
       "num": 111773,
       "word": "西藏日喀则定日发生3.4级地震",
@@ -193,6 +201,14 @@
       "onboard_time": 1742989341,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101558,
+      "num": 101558,
+      "word": "娜扎猜猜头上有多少个卡子",
+      "onboard_time": 1743005960,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 100334,
@@ -243,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78879,
-      "num": 78879,
-      "word": "娜扎猜猜头上有多少个卡子",
-      "onboard_time": 1743005960,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 74434,
       "num": 74434,
       "word": "刘诗诗林允儿活动同框",
@@ -281,6 +289,14 @@
       "onboard_time": 1742983342,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 63543,
+      "num": 63543,
+      "word": "找17岁女孩代孕男子领孩子多付20万",
+      "onboard_time": 1743007158,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62068,
@@ -347,6 +363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52188,
+      "num": 52188,
+      "word": "赵小童穿羽绒服吃鸡西冷面",
+      "onboard_time": 1743007038,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52064,
       "num": 52064,
       "word": "被碾压致死5岁女童家属出具谅解书",
@@ -387,20 +411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48835,
+      "num": 48835,
+      "word": "梁田和混血弟弟纯正年下感",
+      "onboard_time": 1742996722,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 41854,
+      "num": 221560,
+      "word": "俄乌停火协议最新进展",
+      "onboard_time": 1743006559,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33142,
       "num": 612447,
       "word": "我国大国基建加一",
       "onboard_time": 1743000983,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26057,
-      "num": 111065,
-      "word": "俄乌停火协议最新进展",
-      "onboard_time": 1743006559,
-      "rank": 25,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
