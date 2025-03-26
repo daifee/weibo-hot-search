@@ -1,0 +1,410 @@
+{
+  "runTime": 1742963322543,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2360636,
+        "num": 2360636,
+        "word": "李晟回应断层第一",
+        "onboard_time": 1742961921,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1313697,
+        "num": 1313697,
+        "word": "德国政府解散",
+        "onboard_time": 1742947703,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25104,
+        "num": 1090828,
+        "word": "春天里的中国孕育丰收希望",
+        "onboard_time": 1742916323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 878163,
+        "num": 878163,
+        "word": "苹果向浙大捐赠3000万",
+        "onboard_time": 1742957960,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 821151,
+        "num": 821151,
+        "word": "夫妻不信儿子已死40年后一家终团聚",
+        "onboard_time": 1742956880,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2079294,
+        "num": 803604,
+        "word": "马拉松亲密事件",
+        "onboard_time": 1742956341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643538,
+        "num": 643538,
+        "word": "周三洗头大法",
+        "onboard_time": 1742958682,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 634057,
+        "num": 634057,
+        "word": "宋轶白敬亭 同款眼镜",
+        "onboard_time": 1742961921,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588310,
+        "num": 588310,
+        "word": "订婚强奸案女子被指遗留文胸实为眼罩",
+        "onboard_time": 1742956460,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352898,
+        "num": 504144,
+        "word": "甲亢哥上海直播打破西方对中国滤镜",
+        "onboard_time": 1742961501,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 755819,
+        "num": 496196,
+        "word": "柯基打架输了气绝身亡",
+        "onboard_time": 1742948722,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481568,
+        "num": 481568,
+        "word": "刘涛眼睛在哭脸在笑",
+        "onboard_time": 1742958200,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395748,
+        "num": 395748,
+        "word": "江西公积金中心光纤被接连挖断3次",
+        "onboard_time": 1742957481,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381275,
+        "num": 381275,
+        "word": "贵女 袁立文学",
+        "onboard_time": 1742960061,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341439,
+        "num": 341439,
+        "word": "李晟李佳航",
+        "onboard_time": 1742915003,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340057,
+        "num": 340057,
+        "word": "杭州女童坠亡案雇主被保姆女儿起诉",
+        "onboard_time": 1742957121,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323001,
+        "num": 323001,
+        "word": "金秀贤即将公开的新料预告",
+        "onboard_time": 1742953641,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264353,
+        "num": 264353,
+        "word": "新还珠格格",
+        "onboard_time": 1742962222,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250738,
+        "num": 250738,
+        "word": "费启鸣说虞书欣无时无刻不在营业",
+        "onboard_time": 1742959821,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36797,
+        "num": 250604,
+        "word": "丹麦政府将坚决抵制美国压力",
+        "onboard_time": 1742961921,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 639220,
+        "num": 250159,
+        "word": "处女膜的一些基本常识",
+        "onboard_time": 1742961381,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 361851,
+        "num": 249736,
+        "word": "厌蠢其实是种情绪暴力",
+        "onboard_time": 1742956880,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 360888,
+        "num": 249397,
+        "word": "喝咖啡减肥的黄金时间",
+        "onboard_time": 1742959881,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249156,
+        "num": 249156,
+        "word": "台独恶劣行径举报邮箱公布",
+        "onboard_time": 1742955201,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 265405,
+        "num": 249072,
+        "word": "灵魂摆渡5要来了",
+        "onboard_time": 1742954961,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248960,
+        "num": 248960,
+        "word": "医生称机洗内裤比手洗干净",
+        "onboard_time": 1742946322,
+        "rank": 25,
+        "category": "幽默,科学科普"
+      },
+      {
+        "raw_hot": 248458,
+        "num": 248458,
+        "word": "1个月经周期6个水瓶盖的量就算正常",
+        "onboard_time": 1742957181,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208551,
+        "num": 208551,
+        "word": "网红滕顺强夫妇退网",
+        "onboard_time": 1742953281,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204801,
+        "num": 204801,
+        "word": "王星 无限超越班",
+        "onboard_time": 1742962282,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53296,
+        "num": 187051,
+        "word": "北京发生5级以上地震可能性很小",
+        "onboard_time": 1742962943,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 183149,
+        "num": 183149,
+        "word": "感觉半个娱乐圈都来武汉了",
+        "onboard_time": 1742914404,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180334,
+        "num": 180334,
+        "word": "雷军称小米克制贪婪只挣一点点",
+        "onboard_time": 1742960421,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160101,
+        "num": 160101,
+        "word": "无限超越班 第0期",
+        "onboard_time": 1742961562,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155297,
+        "num": 155297,
+        "word": "喜酒喝到一半结果新娘同事跑光了",
+        "onboard_time": 1742945541,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 154687,
+        "num": 154687,
+        "word": "赵露思说是爱让她又活了一次",
+        "onboard_time": 1742952260,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137563,
+        "num": 137563,
+        "word": "福州司机50秒远光灯照亮母女归家路",
+        "onboard_time": 1742959704,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137018,
+        "num": 137018,
+        "word": "多囊卵巢综合征",
+        "onboard_time": 1742945541,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132456,
+        "num": 132456,
+        "word": "苗苗郑恺搬家",
+        "onboard_time": 1742916382,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101193,
+        "num": 132075,
+        "word": "袁立文学",
+        "onboard_time": 1742963302,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94017,
+        "num": 131980,
+        "word": "张杰侠客造型",
+        "onboard_time": 1742962042,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31641,
+        "num": 131950,
+        "word": "宋承宪为蛋蛋应援",
+        "onboard_time": 1742961141,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131946,
+        "num": 131946,
+        "word": "刘耀文戒掉短视频自己演上了",
+        "onboard_time": 1742961802,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130257,
+        "num": 130257,
+        "word": "雷军曾拒绝武大办雷军班",
+        "onboard_time": 1742959162,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125626,
+        "num": 125626,
+        "word": "郝蕾演出了真正的失望不是歇斯底里",
+        "onboard_time": 1742960843,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112739,
+        "num": 112739,
+        "word": "Uzi回应S10退役",
+        "onboard_time": 1742957960,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107934,
+        "num": 107934,
+        "word": "武大樱花",
+        "onboard_time": 1742963183,
+        "rank": 45,
+        "category": "旅游,教育"
+      },
+      {
+        "raw_hot": 107629,
+        "num": 107629,
+        "word": "郑钦文0比2萨巴伦卡",
+        "onboard_time": 1742956041,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104592,
+        "num": 104592,
+        "word": "甲亢哥",
+        "onboard_time": 1742963302,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104477,
+        "num": 104477,
+        "word": "韩国救援山火直升机坠落",
+        "onboard_time": 1742963302,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104170,
+        "num": 104170,
+        "word": "萨巴伦卡回应胜郑钦文",
+        "onboard_time": 1742959221,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#清风正气满乾坤#"
+    }
+  }
+}

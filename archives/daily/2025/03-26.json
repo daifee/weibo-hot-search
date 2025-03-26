@@ -1,7 +1,15 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742960882096,
+  "endTime": 1742963322543,
   "band_list": [
+    {
+      "raw_hot": 2360636,
+      "num": 2360636,
+      "word": "李晟回应断层第一",
+      "onboard_time": 1742961921,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2345972,
       "num": 2345972,
@@ -9,6 +17,14 @@
       "onboard_time": 1742947703,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2079294,
+      "num": 803604,
+      "word": "马拉松亲密事件",
+      "onboard_time": 1742956341,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2040422,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1442283,
-      "num": 396664,
+      "num": 496196,
       "word": "柯基打架输了气绝身亡",
       "onboard_time": 1742948722,
       "rank": 10,
@@ -96,14 +112,6 @@
       "word": "订婚强奸案女子被指遗留文胸实为眼罩",
       "onboard_time": 1742956460,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 852100,
-      "num": 763946,
-      "word": "马拉松亲密事件",
-      "onboard_time": 1742956341,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -161,6 +169,30 @@
       "onboard_time": 1742945541,
       "rank": 11,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 643538,
+      "num": 643538,
+      "word": "周三洗头大法",
+      "onboard_time": 1742958682,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 639220,
+      "num": 250159,
+      "word": "处女膜的一些基本常识",
+      "onboard_time": 1742961381,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 634057,
+      "num": 634057,
+      "word": "宋轶白敬亭 同款眼镜",
+      "onboard_time": 1742961921,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 620693,
@@ -283,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 381275,
+      "num": 381275,
+      "word": "贵女 袁立文学",
+      "onboard_time": 1742960061,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376797,
       "num": 376797,
       "word": "杭州女童坠亡案雇主被保姆女儿起诉",
@@ -313,6 +353,22 @@
       "onboard_time": 1742954961,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360888,
+      "num": 249397,
+      "word": "喝咖啡减肥的黄金时间",
+      "onboard_time": 1742959881,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 352898,
+      "num": 504144,
+      "word": "甲亢哥上海直播打破西方对中国滤镜",
+      "onboard_time": 1742961501,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 352268,
@@ -364,7 +420,7 @@
     },
     {
       "raw_hot": 279678,
-      "num": 207859,
+      "num": 248458,
       "word": "1个月经周期6个水瓶盖的量就算正常",
       "onboard_time": 1742957181,
       "rank": 40,
@@ -377,14 +433,6 @@
       "onboard_time": 1742949202,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 274335,
-      "num": 330993,
-      "word": "贵女 袁立文学",
-      "onboard_time": 1742960061,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 269637,
@@ -403,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264353,
+      "num": 264353,
+      "word": "新还珠格格",
+      "onboard_time": 1742962222,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 262279,
       "num": 262279,
       "word": "世界上最严丝合缝的东西出现了",
@@ -419,12 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 250547,
-      "num": 250547,
-      "word": "周三洗头大法",
-      "onboard_time": 1742958682,
-      "rank": 17,
-      "category": "情感"
+      "raw_hot": 250738,
+      "num": 250738,
+      "word": "费启鸣说虞书欣无时无刻不在营业",
+      "onboard_time": 1742959821,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 248121,
@@ -483,12 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 204347,
-      "num": 204347,
-      "word": "喝咖啡减肥的黄金时间",
-      "onboard_time": 1742959881,
-      "rank": 27,
-      "category": "健康医疗"
+      "raw_hot": 204801,
+      "num": 204801,
+      "word": "王星 无限超越班",
+      "onboard_time": 1742962282,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 202749,
@@ -539,14 +595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188288,
-      "num": 211510,
-      "word": "费启鸣说虞书欣无时无刻不在营业",
-      "onboard_time": 1742959821,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187339,
       "num": 187339,
       "word": "发现甄嬛传皇后为了人设改了三次妆",
@@ -585,6 +633,14 @@
       "onboard_time": 1742949983,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 180334,
+      "num": 180334,
+      "word": "雷军称小米克制贪婪只挣一点点",
+      "onboard_time": 1742960421,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 178404,
@@ -627,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160101,
+      "num": 160101,
+      "word": "无限超越班 第0期",
+      "onboard_time": 1742961562,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159182,
       "num": 159182,
       "word": "原神",
@@ -649,14 +713,6 @@
       "onboard_time": 1742959704,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153743,
-      "num": 153743,
-      "word": "雷军称小米克制贪婪只挣一点点",
-      "onboard_time": 1742960421,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 151585,
@@ -747,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131946,
+      "num": 131946,
+      "word": "刘耀文戒掉短视频自己演上了",
+      "onboard_time": 1742961802,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130880,
       "num": 130880,
       "word": "国足球迷这次没有输",
@@ -771,8 +835,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124152,
-      "num": 124152,
+      "raw_hot": 125626,
+      "num": 125626,
       "word": "郝蕾演出了真正的失望不是歇斯底里",
       "onboard_time": 1742960843,
       "rank": 49,
@@ -923,6 +987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107934,
+      "num": 107934,
+      "word": "武大樱花",
+      "onboard_time": 1742963183,
+      "rank": 45,
+      "category": "旅游,教育"
+    },
+    {
       "raw_hot": 107844,
       "num": 107844,
       "word": "iOS19或为圆角玻璃风",
@@ -947,12 +1019,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104592,
+      "num": 104592,
+      "word": "甲亢哥",
+      "onboard_time": 1742963302,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104477,
+      "num": 104477,
+      "word": "韩国救援山火直升机坠落",
+      "onboard_time": 1742963302,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101427,
       "num": 101427,
       "word": "河北震感",
       "onboard_time": 1742924419,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101193,
+      "num": 132075,
+      "word": "袁立文学",
+      "onboard_time": 1742963302,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 99559,
@@ -993,6 +1089,14 @@
       "onboard_time": 1742901622,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 94017,
+      "num": 131980,
+      "word": "张杰侠客造型",
+      "onboard_time": 1742962042,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 93992,
@@ -1195,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53296,
+      "num": 187051,
+      "word": "北京发生5级以上地震可能性很小",
+      "onboard_time": 1742962943,
+      "rank": 29,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 52856,
       "num": 52856,
       "word": "美俄乌同意黑海确保航行安全",
@@ -1275,6 +1387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 36797,
+      "num": 250604,
+      "word": "丹麦政府将坚决抵制美国压力",
+      "onboard_time": 1742961921,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36226,
       "num": 36226,
       "word": "属地多部门回应电梯从15楼滑坠",
@@ -1297,6 +1417,14 @@
       "onboard_time": 1742929275,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31641,
+      "num": 131950,
+      "word": "宋承宪为蛋蛋应援",
+      "onboard_time": 1742961141,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 30461,
