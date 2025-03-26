@@ -1,0 +1,410 @@
+{
+  "runTime": 1742960882096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1625785,
+        "num": 1625785,
+        "word": "德国政府解散",
+        "onboard_time": 1742947703,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1364299,
+        "num": 1364299,
+        "word": "夫妻不信儿子已死40年后一家终团聚",
+        "onboard_time": 1742956880,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25266,
+        "num": 1028845,
+        "word": "春天里的中国孕育丰收希望",
+        "onboard_time": 1742916323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1012081,
+        "num": 1012081,
+        "word": "苹果向浙大捐赠3000万",
+        "onboard_time": 1742957960,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 817267,
+        "num": 817267,
+        "word": "订婚强奸案女子被指遗留文胸实为眼罩",
+        "onboard_time": 1742956460,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 852100,
+        "num": 763946,
+        "word": "马拉松亲密事件",
+        "onboard_time": 1742956341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614562,
+        "num": 614562,
+        "word": "刘涛眼睛在哭脸在笑",
+        "onboard_time": 1742958200,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432828,
+        "num": 432828,
+        "word": "网红滕顺强夫妇退网",
+        "onboard_time": 1742953281,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404225,
+        "num": 404225,
+        "word": "江西公积金中心光纤被接连挖断3次",
+        "onboard_time": 1742957481,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376797,
+        "num": 376797,
+        "word": "杭州女童坠亡案雇主被保姆女儿起诉",
+        "onboard_time": 1742957121,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 845835,
+        "num": 371755,
+        "word": "柯基打架输了气绝身亡",
+        "onboard_time": 1742948722,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432451,
+        "num": 364011,
+        "word": "金秀贤即将公开的新料预告",
+        "onboard_time": 1742953641,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426553,
+        "num": 347502,
+        "word": "李晟李佳航",
+        "onboard_time": 1742915003,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270940,
+        "num": 336801,
+        "word": "赵露思说是爱让她又活了一次",
+        "onboard_time": 1742952260,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274335,
+        "num": 330993,
+        "word": "贵女 袁立文学",
+        "onboard_time": 1742960061,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320567,
+        "num": 320567,
+        "word": "台独恶劣行径举报邮箱公布",
+        "onboard_time": 1742955201,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 293752,
+        "num": 293752,
+        "word": "感觉半个娱乐圈都来武汉了",
+        "onboard_time": 1742914404,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250547,
+        "num": 250547,
+        "word": "周三洗头大法",
+        "onboard_time": 1742958682,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212324,
+        "num": 212324,
+        "word": "多囊卵巢综合征",
+        "onboard_time": 1742945541,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188288,
+        "num": 211510,
+        "word": "费启鸣说虞书欣无时无刻不在营业",
+        "onboard_time": 1742959821,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393281,
+        "num": 211032,
+        "word": "厌蠢其实是种情绪暴力",
+        "onboard_time": 1742956880,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334685,
+        "num": 210104,
+        "word": "灵魂摆渡5要来了",
+        "onboard_time": 1742954961,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302866,
+        "num": 208174,
+        "word": "医生称机洗内裤比手洗干净",
+        "onboard_time": 1742946322,
+        "rank": 22,
+        "category": "幽默,科学科普"
+      },
+      {
+        "raw_hot": 279678,
+        "num": 207859,
+        "word": "1个月经周期6个水瓶盖的量就算正常",
+        "onboard_time": 1742957181,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17359,
+        "num": 205826,
+        "word": "小威观战德约科维奇",
+        "onboard_time": 1742959821,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62141,
+        "num": 205242,
+        "word": "美俄分别公布利雅得会谈成果",
+        "onboard_time": 1742958920,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204564,
+        "num": 204564,
+        "word": "苗苗郑恺搬家",
+        "onboard_time": 1742916382,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204347,
+        "num": 204347,
+        "word": "喝咖啡减肥的黄金时间",
+        "onboard_time": 1742959881,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184802,
+        "num": 188710,
+        "word": "唐嫣回应回归仙侠剧",
+        "onboard_time": 1742955802,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174377,
+        "num": 186967,
+        "word": "发现甄嬛传皇后为了人设改了三次妆",
+        "onboard_time": 1742957721,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186689,
+        "num": 186689,
+        "word": "李晟第一",
+        "onboard_time": 1742905702,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186046,
+        "num": 186046,
+        "word": "喜酒喝到一半结果新娘同事跑光了",
+        "onboard_time": 1742945541,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 179017,
+        "num": 179017,
+        "word": "郑钦文0比2萨巴伦卡",
+        "onboard_time": 1742956041,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122841,
+        "num": 172834,
+        "word": "女子想再给骗子16万取回被骗的58万",
+        "onboard_time": 1742952561,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170860,
+        "num": 170860,
+        "word": "Uzi回应S10退役",
+        "onboard_time": 1742957960,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168305,
+        "num": 168305,
+        "word": "李一桐古乐新造型出妆",
+        "onboard_time": 1742960361,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155721,
+        "num": 155721,
+        "word": "福州司机50秒远光灯照亮母女归家路",
+        "onboard_time": 1742959704,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153743,
+        "num": 153743,
+        "word": "雷军称小米克制贪婪只挣一点点",
+        "onboard_time": 1742960421,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37679,
+        "num": 153304,
+        "word": "我的宝藏食谱",
+        "onboard_time": 1742960481,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 26122,
+        "num": 153270,
+        "word": "P人如何无痛出国赏樱",
+        "onboard_time": 1742958080,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 153259,
+        "num": 153259,
+        "word": "全上海都在偶遇白敬亭",
+        "onboard_time": 1742951722,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150396,
+        "num": 150396,
+        "word": "雷军曾拒绝武大办雷军班",
+        "onboard_time": 1742959162,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146852,
+        "num": 146852,
+        "word": "萨巴伦卡回应胜郑钦文",
+        "onboard_time": 1742959221,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142656,
+        "num": 142656,
+        "word": "苹果CEO库克现身浙大",
+        "onboard_time": 1742960421,
+        "rank": 43,
+        "category": "数码,教育"
+      },
+      {
+        "raw_hot": 139507,
+        "num": 139507,
+        "word": "高泰宇说肖战人品特别好",
+        "onboard_time": 1742949264,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139140,
+        "num": 139140,
+        "word": "王鹤棣母校连放7天春假",
+        "onboard_time": 1742959341,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131071,
+        "num": 131071,
+        "word": "世界上最严丝合缝的东西出现了",
+        "onboard_time": 1742956760,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129488,
+        "num": 129488,
+        "word": "阿根廷4比1巴西",
+        "onboard_time": 1742955981,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125514,
+        "num": 125514,
+        "word": "7个月婴儿误舔蜂蜜勺肉毒杆菌中毒",
+        "onboard_time": 1742926696,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124152,
+        "num": 124152,
+        "word": "郝蕾演出了真正的失望不是歇斯底里",
+        "onboard_time": 1742960843,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#清风正气满乾坤#"
+    }
+  }
+}

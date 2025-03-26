@@ -1,6 +1,6 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742958692767,
+  "endTime": 1742960882096,
   "band_list": [
     {
       "raw_hot": 2345972,
@@ -67,6 +67,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1364299,
+      "num": 1364299,
+      "word": "夫妻不信儿子已死40年后一家终团聚",
+      "onboard_time": 1742956880,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1020626,
       "num": 1020626,
       "word": "李晟第一",
@@ -75,11 +83,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1012081,
+      "num": 1012081,
+      "word": "苹果向浙大捐赠3000万",
+      "onboard_time": 1742957960,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1000297,
       "num": 1000297,
       "word": "订婚强奸案女子被指遗留文胸实为眼罩",
       "onboard_time": 1742956460,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 852100,
+      "num": 763946,
+      "word": "马拉松亲密事件",
+      "onboard_time": 1742956341,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -147,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 614562,
+      "num": 614562,
+      "word": "刘涛眼睛在哭脸在笑",
+      "onboard_time": 1742958200,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 534103,
       "num": 534103,
       "word": "7个月婴儿误舔蜂蜜勺肉毒杆菌中毒",
@@ -161,14 +193,6 @@
       "onboard_time": 1742913864,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 519348,
-      "num": 519348,
-      "word": "夫妻不信儿子已死40年后一家终团聚",
-      "onboard_time": 1742956880,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 509243,
@@ -211,6 +235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 404225,
+      "num": 404225,
+      "word": "江西公积金中心光纤被接连挖断3次",
+      "onboard_time": 1742957481,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399671,
       "num": 399671,
       "word": "赵露思说是爱让她又活了一次",
@@ -243,6 +275,22 @@
       "category": "民生新闻,运动健身"
     },
     {
+      "raw_hot": 393281,
+      "num": 272920,
+      "word": "厌蠢其实是种情绪暴力",
+      "onboard_time": 1742956880,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 376797,
+      "num": 376797,
+      "word": "杭州女童坠亡案雇主被保姆女儿起诉",
+      "onboard_time": 1742957121,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374647,
       "num": 374647,
       "word": "河北廊坊4.4级左右地震",
@@ -257,14 +305,6 @@
       "onboard_time": 1742949264,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 368999,
-      "num": 368999,
-      "word": "马拉松亲密事件",
-      "onboard_time": 1742956341,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 367727,
@@ -323,6 +363,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 279678,
+      "num": 207859,
+      "word": "1个月经周期6个水瓶盖的量就算正常",
+      "onboard_time": 1742957181,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 278183,
       "num": 278183,
       "word": "新疆湖泊一半水一半冰奇观",
@@ -331,12 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 272920,
-      "num": 272920,
-      "word": "厌蠢其实是种情绪暴力",
-      "onboard_time": 1742956880,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 274335,
+      "num": 330993,
+      "word": "贵女 袁立文学",
+      "onboard_time": 1742960061,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 269637,
@@ -371,12 +419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251820,
-      "num": 251820,
-      "word": "苹果向浙大捐赠3000万",
-      "onboard_time": 1742957960,
-      "rank": 41,
-      "category": "数码"
+      "raw_hot": 250547,
+      "num": 250547,
+      "word": "周三洗头大法",
+      "onboard_time": 1742958682,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 248121,
@@ -419,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218971,
-      "num": 235805,
-      "word": "刘涛眼睛在哭脸在笑",
-      "onboard_time": 1742958200,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216821,
       "num": 216821,
       "word": "订婚强奸案家属称公诉人坚持被告有罪",
@@ -443,12 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209123,
-      "num": 361678,
-      "word": "杭州女童坠亡案雇主被保姆女儿起诉",
-      "onboard_time": 1742957121,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 204347,
+      "num": 204347,
+      "word": "喝咖啡减肥的黄金时间",
+      "onboard_time": 1742959881,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 202749,
@@ -499,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188288,
+      "num": 211510,
+      "word": "费启鸣说虞书欣无时无刻不在营业",
+      "onboard_time": 1742959821,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187339,
       "num": 187339,
       "word": "发现甄嬛传皇后为了人设改了三次妆",
@@ -547,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176849,
-      "num": 176849,
-      "word": "1个月经周期6个水瓶盖的量就算正常",
-      "onboard_time": 1742957181,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 171737,
       "num": 171737,
       "word": "华南理工215名大学生被降级",
@@ -571,20 +611,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168305,
+      "num": 168305,
+      "word": "李一桐古乐新造型出妆",
+      "onboard_time": 1742960361,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161619,
       "num": 161619,
       "word": "阿根廷vs巴西",
       "onboard_time": 1742949443,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159403,
-      "num": 224963,
-      "word": "江西公积金中心光纤被接连挖断3次",
-      "onboard_time": 1742957481,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159182,
@@ -603,6 +643,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155721,
+      "num": 155721,
+      "word": "福州司机50秒远光灯照亮母女归家路",
+      "onboard_time": 1742959704,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153743,
+      "num": 153743,
+      "word": "雷军称小米克制贪婪只挣一点点",
+      "onboard_time": 1742960421,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 151585,
       "num": 247343,
       "word": "范丞丞 回归",
@@ -611,12 +667,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150396,
+      "num": 150396,
+      "word": "雷军曾拒绝武大办雷军班",
+      "onboard_time": 1742959162,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 147881,
       "num": 147881,
       "word": "减重后近8成人群反弹",
       "onboard_time": 1742952260,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 146852,
+      "num": 146852,
+      "word": "萨巴伦卡回应胜郑钦文",
+      "onboard_time": 1742959221,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142656,
+      "num": 142656,
+      "word": "苹果CEO库克现身浙大",
+      "onboard_time": 1742960421,
+      "rank": 43,
+      "category": "数码,教育"
+    },
+    {
+      "raw_hot": 139140,
+      "num": 139140,
+      "word": "王鹤棣母校连放7天春假",
+      "onboard_time": 1742959341,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 136783,
@@ -680,6 +768,14 @@
       "word": "民间格格",
       "onboard_time": 1742911224,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124152,
+      "num": 124152,
+      "word": "郝蕾演出了真正的失望不是歇斯底里",
+      "onboard_time": 1742960843,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1075,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62141,
+      "num": 205242,
+      "word": "美俄分别公布利雅得会谈成果",
+      "onboard_time": 1742958920,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60751,
       "num": 110535,
       "word": "这次降温还不算倒春寒",
@@ -1163,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37679,
+      "num": 153304,
+      "word": "我的宝藏食谱",
+      "onboard_time": 1742960481,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 36226,
       "num": 36226,
       "word": "属地多部门回应电梯从15楼滑坠",
@@ -1227,7 +1339,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 25863,
+      "raw_hot": 26122,
       "num": 188187,
       "word": "P人如何无痛出国赏樱",
       "onboard_time": 1742958080,
@@ -1249,6 +1361,14 @@
       "onboard_time": 1742930474,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17359,
+      "num": 205826,
+      "word": "小威观战德约科维奇",
+      "onboard_time": 1742959821,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 16967,
