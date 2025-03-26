@@ -1,6 +1,6 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742958164753,
+  "endTime": 1742958692767,
   "band_list": [
     {
       "raw_hot": 2345972,
@@ -75,6 +75,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1000297,
+      "num": 1000297,
+      "word": "订婚强奸案女子被指遗留文胸实为眼罩",
+      "onboard_time": 1742956460,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 801151,
+      "num": 801151,
+      "word": "网红滕顺强夫妇退网",
+      "onboard_time": 1742953281,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 787207,
       "num": 392527,
       "word": "李晟李佳航",
@@ -88,22 +104,6 @@
       "word": "无锡马拉松承办单位回应野鸳鸯事件",
       "onboard_time": 1742951600,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 744749,
-      "num": 744749,
-      "word": "网红滕顺强夫妇退网",
-      "onboard_time": 1742953281,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 740845,
-      "num": 740845,
-      "word": "订婚强奸案女子被指遗留文胸实为眼罩",
-      "onboard_time": 1742956460,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 519348,
+      "num": 519348,
+      "word": "夫妻不信儿子已死40年后一家终团聚",
+      "onboard_time": 1742956880,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 509243,
       "num": 509243,
       "word": "天津震感",
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 399005,
+      "num": 352276,
+      "word": "医生称机洗内裤比手洗干净",
+      "onboard_time": 1742946322,
+      "rank": 20,
+      "category": "幽默,科学科普"
+    },
+    {
       "raw_hot": 398530,
       "num": 179995,
       "word": "马拉松一对男女亲密动作被拍到",
@@ -235,14 +251,6 @@
       "category": "民生新闻,民生新闻"
     },
     {
-      "raw_hot": 373910,
-      "num": 322410,
-      "word": "医生称机洗内裤比手洗干净",
-      "onboard_time": 1742946322,
-      "rank": 20,
-      "category": "幽默,科学科普"
-    },
-    {
       "raw_hot": 369616,
       "num": 379667,
       "word": "高泰宇说肖战人品特别好",
@@ -251,20 +259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368999,
+      "num": 368999,
+      "word": "马拉松亲密事件",
+      "onboard_time": 1742956341,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 367727,
-      "num": 314423,
+      "num": 352130,
       "word": "灵魂摆渡5要来了",
       "onboard_time": 1742954961,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 357964,
-      "num": 357964,
-      "word": "夫妻不信儿子已死40年后一家终团聚",
-      "onboard_time": 1742956880,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 352268,
@@ -299,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 310530,
-      "num": 310530,
-      "word": "马拉松亲密事件",
-      "onboard_time": 1742956341,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 303973,
       "num": 218130,
       "word": "花非花雾非雾",
@@ -329,6 +329,14 @@
       "onboard_time": 1742949202,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272920,
+      "num": 272920,
+      "word": "厌蠢其实是种情绪暴力",
+      "onboard_time": 1742956880,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 269637,
@@ -363,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251820,
+      "num": 251820,
+      "word": "苹果向浙大捐赠3000万",
+      "onboard_time": 1742957960,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 248121,
       "num": 179546,
       "word": "每天喝牛奶和从不喝牛奶的区别",
@@ -371,12 +387,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 244443,
-      "num": 244443,
-      "word": "厌蠢其实是种情绪暴力",
-      "onboard_time": 1742956880,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 241796,
+      "num": 311407,
+      "word": "以美之名定档",
+      "onboard_time": 1742957421,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 240287,
+      "num": 355713,
+      "word": "唐嫣回应回归仙侠剧",
+      "onboard_time": 1742955802,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 234395,
@@ -387,20 +411,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 228914,
-      "num": 345408,
-      "word": "唐嫣回应回归仙侠剧",
-      "onboard_time": 1742955802,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220314,
-      "num": 220314,
+      "num": 253858,
       "word": "女子想再给骗子16万取回被骗的58万",
       "onboard_time": 1742952561,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218971,
+      "num": 235805,
+      "word": "刘涛眼睛在哭脸在笑",
+      "onboard_time": 1742958200,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 216821,
@@ -419,11 +443,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209123,
+      "num": 361678,
+      "word": "杭州女童坠亡案雇主被保姆女儿起诉",
+      "onboard_time": 1742957121,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202749,
       "num": 202749,
       "word": "SK",
       "onboard_time": 1742949504,
       "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 197441,
+      "num": 197441,
+      "word": "Uzi回应S10退役",
+      "onboard_time": 1742957960,
+      "rank": 37,
       "category": "电竞"
     },
     {
@@ -459,11 +499,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189893,
-      "num": 234766,
-      "word": "以美之名定档",
-      "onboard_time": 1742957421,
-      "rank": 28,
+      "raw_hot": 187339,
+      "num": 187339,
+      "word": "发现甄嬛传皇后为了人设改了三次妆",
+      "onboard_time": 1742957721,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -475,20 +515,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 183859,
-      "num": 183859,
-      "word": "杭州女童坠亡案雇主被保姆女儿起诉",
-      "onboard_time": 1742957121,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182035,
       "num": 182035,
       "word": "阴阳师",
       "onboard_time": 1742953941,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181778,
+      "num": 181778,
+      "word": "阿根廷4比1巴西",
+      "onboard_time": 1742955981,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 181469,
@@ -499,14 +539,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 181129,
-      "num": 181129,
-      "word": "阿根廷4比1巴西",
-      "onboard_time": 1742955981,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178404,
       "num": 241690,
       "word": "刘诗诗东方淮竹真的要来了",
@@ -515,12 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175597,
-      "num": 175597,
-      "word": "Uzi回应S10退役",
-      "onboard_time": 1742957960,
-      "rank": 37,
-      "category": "电竞"
+      "raw_hot": 176849,
+      "num": 176849,
+      "word": "1个月经周期6个水瓶盖的量就算正常",
+      "onboard_time": 1742957181,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171737,
@@ -547,12 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160461,
-      "num": 160461,
-      "word": "1个月经周期6个水瓶盖的量就算正常",
-      "onboard_time": 1742957181,
-      "rank": 40,
-      "category": "健康医疗"
+      "raw_hot": 159403,
+      "num": 224963,
+      "word": "江西公积金中心光纤被接连挖断3次",
+      "onboard_time": 1742957481,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159182,
@@ -561,14 +593,6 @@
       "onboard_time": 1742954481,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156912,
-      "num": 156912,
-      "word": "苹果向浙大捐赠3000万",
-      "onboard_time": 1742957960,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 156418,
@@ -603,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136071,
-      "num": 136071,
-      "word": "发现甄嬛传皇后为了人设改了三次妆",
-      "onboard_time": 1742957721,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135290,
       "num": 135290,
       "word": "廊坊地震余震已5次",
@@ -633,14 +649,6 @@
       "onboard_time": 1742910503,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132772,
-      "num": 132772,
-      "word": "江西公积金中心光纤被接连挖断3次",
-      "onboard_time": 1742957481,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132510,
@@ -787,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114219,
+      "num": 114219,
+      "word": "男子恋爱半年花费320万",
+      "onboard_time": 1742955082,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114150,
       "num": 374784,
       "word": "国足这么差怎么还那么多人看",
@@ -833,14 +849,6 @@
       "onboard_time": 1742917042,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105570,
-      "num": 105570,
-      "word": "男子恋爱半年花费320万",
-      "onboard_time": 1742955082,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101427,
@@ -891,6 +899,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 93992,
+      "num": 398081,
+      "word": "德总理被解职",
+      "onboard_time": 1742956643,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93926,
       "num": 93926,
       "word": "国足再双杀印尼巴林就稳稳出线",
@@ -921,14 +937,6 @@
       "onboard_time": 1742883681,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86029,
-      "num": 398081,
-      "word": "德总理被解职",
-      "onboard_time": 1742956643,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 85356,
@@ -985,6 +993,14 @@
       "onboard_time": 1742909542,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80663,
+      "num": 355026,
+      "word": "韩国山火已致22人死亡",
+      "onboard_time": 1742957360,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 79719,
@@ -1075,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58182,
-      "num": 335357,
-      "word": "韩国山火已致22人死亡",
-      "onboard_time": 1742957360,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 52856,
       "num": 52856,
       "word": "美俄乌同意黑海确保航行安全",
@@ -1139,20 +1147,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39109,
+      "num": 266786,
+      "word": "利拉德无限期休战",
+      "onboard_time": 1742952561,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 37809,
+      "num": 221181,
+      "word": "虽然输球国足表现依然有亮点",
+      "onboard_time": 1742955321,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36226,
       "num": 36226,
       "word": "属地多部门回应电梯从15楼滑坠",
       "onboard_time": 1742939714,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34774,
-      "num": 266786,
-      "word": "利拉德无限期休战",
-      "onboard_time": 1742952561,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 33849,
@@ -1203,8 +1219,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 21319,
-      "num": 161920,
+      "raw_hot": 28807,
+      "num": 224435,
+      "word": "美佛罗里达州拟用童工替代被驱逐移民",
+      "onboard_time": 1742958561,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25863,
+      "num": 188187,
       "word": "P人如何无痛出国赏樱",
       "onboard_time": 1742958080,
       "rank": 39,
