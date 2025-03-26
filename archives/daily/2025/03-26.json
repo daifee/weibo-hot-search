@@ -1,6 +1,6 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742984790222,
+  "endTime": 1742985833345,
   "band_list": [
     {
       "raw_hot": 2360636,
@@ -171,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 888375,
+      "num": 1142140,
+      "word": "芒果TV调整会员同时使用设备数",
+      "onboard_time": 1742983342,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 807987,
       "num": 807987,
       "word": "宋轶白敬亭 同款眼镜",
@@ -299,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 614083,
-      "num": 614083,
-      "word": "芒果TV调整会员同时使用设备数",
-      "onboard_time": 1742983342,
-      "rank": 5,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 611898,
       "num": 611898,
       "word": "小鹿妈妈前员工说上班就像坐牢",
@@ -355,8 +355,8 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 539155,
-      "num": 539155,
+      "raw_hot": 548472,
+      "num": 548472,
       "word": "孟子义李昀锐跑男直播",
       "onboard_time": 1742983400,
       "rank": 6,
@@ -411,6 +411,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 467660,
+      "num": 467660,
+      "word": "沙溢 美黑",
+      "onboard_time": 1742984662,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465988,
       "num": 465988,
       "word": "李佳航超话 给李晟投票",
@@ -433,6 +441,14 @@
       "onboard_time": 1742955201,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 436893,
+      "num": 436893,
+      "word": "雁回时",
+      "onboard_time": 1742898141,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 436854,
@@ -489,6 +505,14 @@
       "onboard_time": 1742970741,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409486,
+      "num": 312110,
+      "word": "原来这些歌都是李晟唱的",
+      "onboard_time": 1742985082,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 404225,
@@ -563,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 382731,
-      "num": 316409,
-      "word": "雁回时",
-      "onboard_time": 1742898141,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 381275,
       "num": 381275,
       "word": "贵女 袁立文学",
@@ -617,6 +633,14 @@
       "onboard_time": 1742949264,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367902,
+      "num": 367902,
+      "word": "火锅店添加罂粟当秘方老板获刑",
+      "onboard_time": 1742983521,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 367727,
@@ -721,6 +745,14 @@
       "onboard_time": 1742915903,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 284428,
+      "num": 284428,
+      "word": "汤家凤声明",
+      "onboard_time": 1742984482,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 280130,
@@ -1091,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185155,
+      "num": 185155,
+      "word": "金玟庭彩色格裙look",
+      "onboard_time": 1742985202,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184728,
       "num": 184728,
       "word": "警方通报快递员被高空坠物砸中身亡",
@@ -1131,6 +1171,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 181239,
+      "num": 181239,
+      "word": "甲亢哥首次尝试爆肚瞬间被征服",
+      "onboard_time": 1742982141,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178709,
       "num": 178709,
       "word": "吃俩剩馒头给孩子高兴坏了",
@@ -1145,6 +1193,14 @@
       "onboard_time": 1742946741,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176257,
+      "num": 176257,
+      "word": "昀牵孟绕",
+      "onboard_time": 1742984301,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 174452,
@@ -1203,14 +1259,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 164282,
-      "num": 195289,
-      "word": "火锅店添加罂粟当秘方老板获刑",
-      "onboard_time": 1742983521,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162526,
       "num": 162526,
       "word": "骗子办假考试再骗高分学员",
@@ -1219,12 +1267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162039,
+      "num": 354242,
+      "word": "昀牵孟绕武汉合体录跑男",
+      "onboard_time": 1742983820,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162002,
       "num": 162002,
       "word": "无畏cos空空儿",
       "onboard_time": 1742982201,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161692,
+      "num": 161692,
+      "word": "哪吒",
+      "onboard_time": 1742985202,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 161655,
@@ -1267,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156759,
+      "num": 156759,
+      "word": "昀牵孟绕自带结界",
+      "onboard_time": 1742985141,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156418,
       "num": 134818,
       "word": "跑男真把吴昕喊来了",
@@ -1288,14 +1360,6 @@
       "word": "福州司机50秒远光灯照亮母女归家路",
       "onboard_time": 1742959704,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155002,
-      "num": 155002,
-      "word": "甲亢哥首次尝试爆肚瞬间被征服",
-      "onboard_time": 1742982141,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1395,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140300,
+      "num": 140300,
+      "word": "我是恋综观众我同意梁庭cp在一起",
+      "onboard_time": 1742984780,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140057,
       "num": 335715,
       "word": "周深说想把中文音乐唱给更多人听",
@@ -1465,14 +1537,6 @@
       "onboard_time": 1742910503,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134316,
-      "num": 354242,
-      "word": "昀牵孟绕武汉合体录跑男",
-      "onboard_time": 1742983820,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 133161,
@@ -1595,12 +1659,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125142,
-      "num": 125142,
-      "word": "昀牵孟绕",
-      "onboard_time": 1742984301,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 124515,
+      "num": 124515,
+      "word": "32周双胎妈妈突然头晕劫后余生",
+      "onboard_time": 1742984721,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124447,
@@ -1811,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113727,
+      "num": 113727,
+      "word": "谁家剧天降的不是横财是广告牌",
+      "onboard_time": 1742984721,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112698,
       "num": 112698,
       "word": "国足vs澳大利亚",
@@ -1825,14 +1897,6 @@
       "onboard_time": 1742914404,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 110370,
-      "num": 110370,
-      "word": "沙溢 美黑",
-      "onboard_time": 1742984662,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 109422,
@@ -1907,14 +1971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106155,
-      "num": 106155,
-      "word": "汤家凤声明",
-      "onboard_time": 1742984482,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 104777,
       "num": 161574,
       "word": "刘建宏说球迷就是国足的希望",
@@ -1979,14 +2035,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 99632,
-      "num": 99632,
-      "word": "谁家剧天降的不是横财是广告牌",
-      "onboard_time": 1742984721,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99559,
       "num": 120571,
       "word": "泽连斯基称与俄谈判有2个最艰难问题",
@@ -2001,14 +2049,6 @@
       "onboard_time": 1742984001,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 96538,
-      "num": 96538,
-      "word": "32周双胎妈妈突然头晕劫后余生",
-      "onboard_time": 1742984721,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95814,
@@ -2065,6 +2105,14 @@
       "onboard_time": 1742906421,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92610,
+      "num": 92610,
+      "word": "苹果CEO库克参观影视飓风",
+      "onboard_time": 1742985022,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 91687,
@@ -2179,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79020,
+      "num": 440563,
+      "word": "廊坊发生更强余震可能性很小",
+      "onboard_time": 1742985321,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78890,
       "num": 78890,
       "word": "订婚强奸案双方曾短暂达成一致",
@@ -2281,6 +2337,14 @@
       "onboard_time": 1742917343,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62744,
+      "num": 289421,
+      "word": "1104只猕猴被查扣3个月遇放归难题",
+      "onboard_time": 1742984482,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62421,
@@ -2515,14 +2579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30702,
-      "num": 185711,
-      "word": "1104只猕猴被查扣3个月遇放归难题",
-      "onboard_time": 1742984482,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30461,
       "num": 165852,
       "word": "梅根开网店带货被批用王室圈钱",
@@ -2577,6 +2633,14 @@
       "onboard_time": 1742958080,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 24520,
+      "num": 856578,
+      "word": "网络视听成全网民的数字空气",
+      "onboard_time": 1742985381,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23969,

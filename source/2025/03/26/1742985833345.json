@@ -1,0 +1,410 @@
+{
+  "runTime": 1742985833345,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 888375,
+        "num": 1142140,
+        "word": "芒果TV调整会员同时使用设备数",
+        "onboard_time": 1742983342,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 887997,
+        "num": 887997,
+        "word": "免去周继红国家跳水队领队职务",
+        "onboard_time": 1742979321,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24520,
+        "num": 856578,
+        "word": "网络视听成全网民的数字空气",
+        "onboard_time": 1742985381,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 829704,
+        "num": 829704,
+        "word": "晒工资被开除山姆试吃员签保密协议",
+        "onboard_time": 1742973742,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 619580,
+        "num": 619580,
+        "word": "Rookie拿到中国绿卡",
+        "onboard_time": 1742982080,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 548472,
+        "num": 548472,
+        "word": "孟子义李昀锐跑男直播",
+        "onboard_time": 1742983400,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516493,
+        "num": 516493,
+        "word": "哪吒之魔童闹海票房破150亿",
+        "onboard_time": 1742979621,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 467660,
+        "num": 467660,
+        "word": "沙溢 美黑",
+        "onboard_time": 1742984662,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461753,
+        "num": 461753,
+        "word": "李晟回应断层第一",
+        "onboard_time": 1742961921,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79020,
+        "num": 440563,
+        "word": "廊坊发生更强余震可能性很小",
+        "onboard_time": 1742985321,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436893,
+        "num": 436893,
+        "word": "雁回时",
+        "onboard_time": 1742982922,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367902,
+        "num": 367902,
+        "word": "火锅店添加罂粟当秘方老板获刑",
+        "onboard_time": 1742983521,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313965,
+        "num": 313965,
+        "word": "又贵又难吃的羽衣甘蓝被疯抢",
+        "onboard_time": 1742967021,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409486,
+        "num": 312110,
+        "word": "原来这些歌都是李晟唱的",
+        "onboard_time": 1742985082,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62744,
+        "num": 289421,
+        "word": "1104只猕猴被查扣3个月遇放归难题",
+        "onboard_time": 1742984482,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284428,
+        "num": 284428,
+        "word": "汤家凤声明",
+        "onboard_time": 1742984482,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 282687,
+        "num": 282687,
+        "word": "于小彤看起来不像演的",
+        "onboard_time": 1742979501,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267811,
+        "num": 267811,
+        "word": "2025新剧扎堆",
+        "onboard_time": 1742969841,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222291,
+        "num": 222291,
+        "word": "坠亡女童生母称保姆女儿步步紧逼",
+        "onboard_time": 1742979861,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192133,
+        "num": 192133,
+        "word": "猫眼美甲",
+        "onboard_time": 1742980642,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 263874,
+        "num": 190689,
+        "word": "张新成到底换了多少套衣服捏粘土",
+        "onboard_time": 1742978061,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209827,
+        "num": 189776,
+        "word": "于正回应白鹿告别文错字",
+        "onboard_time": 1742976081,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185155,
+        "num": 185155,
+        "word": "金玟庭彩色格裙look",
+        "onboard_time": 1742985202,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181239,
+        "num": 181239,
+        "word": "甲亢哥首次尝试爆肚瞬间被征服",
+        "onboard_time": 1742982141,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176257,
+        "num": 176257,
+        "word": "昀牵孟绕",
+        "onboard_time": 1742984301,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162404,
+        "num": 162404,
+        "word": "易烊千玺摆手提醒粉丝",
+        "onboard_time": 1742980522,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162039,
+        "num": 162039,
+        "word": "昀牵孟绕武汉合体录跑男",
+        "onboard_time": 1742983820,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161692,
+        "num": 161692,
+        "word": "哪吒",
+        "onboard_time": 1742985202,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156759,
+        "num": 156759,
+        "word": "昀牵孟绕自带结界",
+        "onboard_time": 1742985141,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150313,
+        "num": 150313,
+        "word": "花4880元学剪辑月赚47.84元",
+        "onboard_time": 1742972902,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140300,
+        "num": 140300,
+        "word": "我是恋综观众我同意梁庭cp在一起",
+        "onboard_time": 1742984780,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139536,
+        "num": 139536,
+        "word": "赵露思 做不了的事我就说讨厌",
+        "onboard_time": 1742967201,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138162,
+        "num": 138162,
+        "word": "幸亏梁田会主持",
+        "onboard_time": 1742977820,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124515,
+        "num": 124515,
+        "word": "32周双胎妈妈突然头晕劫后余生",
+        "onboard_time": 1742984721,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121326,
+        "num": 121326,
+        "word": "宇宙异常或暗示地球可怕未来",
+        "onboard_time": 1742983581,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 119571,
+        "num": 119571,
+        "word": "多方回应山姆试吃员晒工资条被开除",
+        "onboard_time": 1742965403,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60433,
+        "num": 117625,
+        "word": "不要眨眼无畏的cos来了",
+        "onboard_time": 1742982501,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116165,
+        "num": 116165,
+        "word": "杨紫公主头半扎发",
+        "onboard_time": 1742982922,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114180,
+        "num": 114180,
+        "word": "周继红退休",
+        "onboard_time": 1742979141,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113727,
+        "num": 113727,
+        "word": "谁家剧天降的不是横财是广告牌",
+        "onboard_time": 1742984721,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112384,
+        "num": 112384,
+        "word": "这是停猫位吗",
+        "onboard_time": 1742979082,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109072,
+        "num": 109072,
+        "word": "女子靠4000工资养家盼丈夫共同承担",
+        "onboard_time": 1742964444,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107302,
+        "num": 107302,
+        "word": "多名台民众大陆配偶被限期离台",
+        "onboard_time": 1742964383,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41630,
+        "num": 106332,
+        "word": "春季9个重要健康提示",
+        "onboard_time": 1742963723,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105588,
+        "num": 105588,
+        "word": "又该穿洞洞鞋了",
+        "onboard_time": 1742980581,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 92610,
+        "num": 92610,
+        "word": "苹果CEO库克参观影视飓风",
+        "onboard_time": 1742985022,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 91194,
+        "num": 91194,
+        "word": "无畏cos空空儿",
+        "onboard_time": 1742982201,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88423,
+        "num": 88423,
+        "word": "女幼师遇害案二审维持死刑原判",
+        "onboard_time": 1742981421,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87694,
+        "num": 87694,
+        "word": "韩代总统下令部署所有可用资源灭山火",
+        "onboard_time": 1742981960,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86657,
+        "num": 86657,
+        "word": "女生低成本补气血的小tips",
+        "onboard_time": 1742975542,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈今年党建工作的重点任务#"
+    }
+  }
+}
