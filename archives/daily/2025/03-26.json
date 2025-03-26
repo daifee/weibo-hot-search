@@ -1,6 +1,6 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742985833345,
+  "endTime": 1742988034067,
   "band_list": [
     {
       "raw_hot": 2360636,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1172354,
+      "num": 1187576,
+      "word": "沙溢 美黑",
+      "onboard_time": 1742984662,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1020626,
       "num": 1020626,
       "word": "李晟第一",
@@ -171,7 +179,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 888375,
+      "raw_hot": 973870,
       "num": 1142140,
       "word": "芒果TV调整会员同时使用设备数",
       "onboard_time": 1742983342,
@@ -201,6 +209,14 @@
       "onboard_time": 1742915003,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 768889,
+      "num": 768889,
+      "word": "原来这些歌都是李晟唱的",
+      "onboard_time": 1742985082,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 766152,
@@ -379,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 530234,
+      "num": 287658,
+      "word": "虐猫致死男生被给予留校察看处分",
+      "onboard_time": 1742985921,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 526933,
       "num": 526933,
       "word": "幸亏梁田会主持",
@@ -395,6 +419,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 507013,
+      "num": 386578,
+      "word": "刘诗诗红色羽毛高定",
+      "onboard_time": 1742986461,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 497699,
       "num": 379251,
       "word": "河北廊坊4.2级地震",
@@ -409,14 +441,6 @@
       "onboard_time": 1742971102,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 467660,
-      "num": 467660,
-      "word": "沙溢 美黑",
-      "onboard_time": 1742984662,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 465988,
@@ -443,8 +467,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 436893,
-      "num": 436893,
+      "raw_hot": 451550,
+      "num": 451550,
       "word": "雁回时",
       "onboard_time": 1742898141,
       "rank": 32,
@@ -507,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 409486,
-      "num": 312110,
-      "word": "原来这些歌都是李晟唱的",
-      "onboard_time": 1742985082,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 404225,
       "num": 404225,
       "word": "江西公积金中心光纤被接连挖断3次",
@@ -561,6 +577,14 @@
       "onboard_time": 1742893043,
       "rank": 20,
       "category": "民生新闻,运动健身"
+    },
+    {
+      "raw_hot": 395392,
+      "num": 395392,
+      "word": "火锅店添加罂粟当秘方老板获刑",
+      "onboard_time": 1742983521,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 393473,
@@ -635,20 +659,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 367902,
-      "num": 367902,
-      "word": "火锅店添加罂粟当秘方老板获刑",
-      "onboard_time": 1742983521,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 367727,
       "num": 352130,
       "word": "灵魂摆渡5要来了",
       "onboard_time": 1742954961,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 364051,
+      "num": 364051,
+      "word": "汤家凤声明",
+      "onboard_time": 1742984482,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 357550,
@@ -747,12 +771,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 284428,
-      "num": 284428,
-      "word": "汤家凤声明",
-      "onboard_time": 1742984482,
-      "rank": 45,
-      "category": "教育"
+      "raw_hot": 282507,
+      "num": 282507,
+      "word": "昀牵孟绕",
+      "onboard_time": 1742984301,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 280130,
@@ -817,6 +841,14 @@
       "onboard_time": 1742907563,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254197,
+      "num": 250471,
+      "word": "曹颖倪虹洁都以为吴宣仪20岁",
+      "onboard_time": 1742986161,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 250738,
@@ -953,6 +985,14 @@
       "onboard_time": 1742963482,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206246,
+      "num": 206246,
+      "word": "WBG对战BLG",
+      "onboard_time": 1742987481,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 203913,
@@ -1195,14 +1235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176257,
-      "num": 176257,
-      "word": "昀牵孟绕",
-      "onboard_time": 1742984301,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174452,
       "num": 174452,
       "word": "唐嫣高定look",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1742961562,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160027,
+      "num": 160027,
+      "word": "32周双胎妈妈突然头晕劫后余生",
+      "onboard_time": 1742984721,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159182,
@@ -1659,14 +1699,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124515,
-      "num": 124515,
-      "word": "32周双胎妈妈突然头晕劫后余生",
-      "onboard_time": 1742984721,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124447,
       "num": 181112,
       "word": "留几手做艺先做人",
@@ -1715,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122277,
+      "num": 122277,
+      "word": "腾讯视频2025待播大剧片单",
+      "onboard_time": 1742987421,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122197,
       "num": 122197,
       "word": "半熟恋人",
@@ -1745,6 +1785,14 @@
       "onboard_time": 1742954181,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120564,
+      "num": 120564,
+      "word": "谢淮安 白磷型人格",
+      "onboard_time": 1742987120,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 120506,
@@ -1987,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103836,
+      "num": 103836,
+      "word": "李昀锐奔跑吧牛仔造型",
+      "onboard_time": 1742987180,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102710,
       "num": 161575,
       "word": "不要眨眼无畏的cos来了",
@@ -2049,6 +2105,22 @@
       "onboard_time": 1742984001,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97170,
+      "num": 97170,
+      "word": "原来韭黄是韭菜的社恐版",
+      "onboard_time": 1742985860,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 96436,
+      "num": 112170,
+      "word": "曾黎16秒祛痘教程",
+      "onboard_time": 1742987901,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 95814,
@@ -2153,6 +2225,14 @@
       "onboard_time": 1742978241,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 85561,
+      "num": 85561,
+      "word": "白鹿奔跑吧直播连线",
+      "onboard_time": 1742986161,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 85356,
@@ -2427,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48570,
+      "num": 289216,
+      "word": "号称3天减10斤减肥产品含利尿剂",
+      "onboard_time": 1742987660,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48102,
       "num": 51366,
       "word": "河北永清4.3级地震",
@@ -2441,6 +2529,14 @@
       "onboard_time": 1742945061,
       "rank": 14,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 43403,
+      "num": 250507,
+      "word": "周继红是中国跳水第一个奥运冠军",
+      "onboard_time": 1742986942,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 43186,
@@ -2465,6 +2561,14 @@
       "onboard_time": 1742945002,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 42521,
+      "num": 250641,
+      "word": "老人6万买保险到孙女80岁才返完",
+      "onboard_time": 1742987242,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42309,
@@ -2545,6 +2649,14 @@
       "onboard_time": 1742961921,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 36675,
+      "num": 74903,
+      "word": "清融版找不同",
+      "onboard_time": 1742986101,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 36226,
@@ -2651,6 +2763,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 23626,
+      "num": 120735,
+      "word": "武汉樱花树下能听到全国的方言",
+      "onboard_time": 1742987301,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 23345,
       "num": 303657,
       "word": "德国政府解散是法定程序性调整",
@@ -2673,6 +2793,14 @@
       "onboard_time": 1742934134,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 19279,
+      "num": 318770,
+      "word": "直播间买100件保健品69个涉嫌误导",
+      "onboard_time": 1742986942,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19075,

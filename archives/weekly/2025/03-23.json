@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742985833345,
+  "endTime": 1742988034067,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -571,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1172354,
+      "num": 1187576,
+      "word": "沙溢 美黑",
+      "onboard_time": 1742984662,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1167852,
       "num": 1167852,
       "word": "17岁未成年彝族女孩成代孕妈妈",
@@ -675,6 +683,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 973870,
+      "num": 1142140,
+      "word": "芒果TV调整会员同时使用设备数",
+      "onboard_time": 1742983342,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 972705,
       "num": 409765,
       "word": "山崎贤人广濑铃 分手",
@@ -769,14 +785,6 @@
       "onboard_time": 1742823262,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 888375,
-      "num": 1142140,
-      "word": "芒果TV调整会员同时使用设备数",
-      "onboard_time": 1742983342,
-      "rank": 5,
-      "category": "互联网"
     },
     {
       "raw_hot": 867219,
@@ -984,6 +992,14 @@
       "word": "唐艺昕希望家里吃饭的时候不看手机",
       "onboard_time": 1742824762,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 768889,
+      "num": 768889,
+      "word": "原来这些歌都是李晟唱的",
+      "onboard_time": 1742985082,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -1651,6 +1667,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 530234,
+      "num": 287658,
+      "word": "虐猫致死男生被给予留校察看处分",
+      "onboard_time": 1742985921,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 528845,
       "num": 528845,
       "word": "国足0比2澳大利亚",
@@ -1737,6 +1761,14 @@
       "onboard_time": 1742874921,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 507013,
+      "num": 386578,
+      "word": "刘诗诗红色羽毛高定",
+      "onboard_time": 1742986461,
+      "rank": 10,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 506556,
@@ -1947,14 +1979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 467660,
-      "num": 467660,
-      "word": "沙溢 美黑",
-      "onboard_time": 1742984662,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 466310,
       "num": 466310,
       "word": "联合国总部因缺钱关闭一处入口",
@@ -2027,6 +2051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 451550,
+      "num": 515678,
+      "word": "雁回时",
+      "onboard_time": 1742636722,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 446562,
       "num": 446562,
       "word": "民间格格",
@@ -2097,14 +2129,6 @@
       "onboard_time": 1742740943,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 436893,
-      "num": 515678,
-      "word": "雁回时",
-      "onboard_time": 1742636722,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 436854,
@@ -2307,14 +2331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 409486,
-      "num": 312110,
-      "word": "原来这些歌都是李晟唱的",
-      "onboard_time": 1742985082,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 408402,
       "num": 408402,
       "word": "半熟4男一男二都选了梁田",
@@ -2409,6 +2425,14 @@
       "onboard_time": 1742811261,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 395392,
+      "num": 395392,
+      "word": "火锅店添加罂粟当秘方老板获刑",
+      "onboard_time": 1742983521,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 393473,
@@ -2595,14 +2619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 367902,
-      "num": 367902,
-      "word": "火锅店添加罂粟当秘方老板获刑",
-      "onboard_time": 1742983521,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 367814,
       "num": 407295,
       "word": "订婚强奸案男子父亲最新发声",
@@ -2633,6 +2649,14 @@
       "onboard_time": 1742686518,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364051,
+      "num": 364051,
+      "word": "汤家凤声明",
+      "onboard_time": 1742984482,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 363579,
@@ -3339,14 +3363,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 284428,
-      "num": 284428,
-      "word": "汤家凤声明",
-      "onboard_time": 1742984482,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 284302,
       "num": 357192,
       "word": "代孕机构称法律才不管女孩年龄",
@@ -3369,6 +3385,14 @@
       "onboard_time": 1742907202,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282507,
+      "num": 282507,
+      "word": "昀牵孟绕",
+      "onboard_time": 1742984301,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 282117,
@@ -3761,6 +3785,14 @@
       "onboard_time": 1742700620,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254197,
+      "num": 250471,
+      "word": "曹颖倪虹洁都以为吴宣仪20岁",
+      "onboard_time": 1742986161,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 250738,
@@ -4601,6 +4633,14 @@
       "onboard_time": 1742790323,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206246,
+      "num": 206246,
+      "word": "WBG对战BLG",
+      "onboard_time": 1742987481,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 205779,
@@ -5587,14 +5627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176257,
-      "num": 176257,
-      "word": "昀牵孟绕",
-      "onboard_time": 1742984301,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174714,
       "num": 174714,
       "word": "让王紫璇演超模的人简直天才",
@@ -6265,6 +6297,14 @@
       "onboard_time": 1742961562,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160027,
+      "num": 160027,
+      "word": "32周双胎妈妈突然头晕劫后余生",
+      "onboard_time": 1742984721,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159523,
@@ -8179,14 +8219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124515,
-      "num": 124515,
-      "word": "32周双胎妈妈突然头晕劫后余生",
-      "onboard_time": 1742984721,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124510,
       "num": 166920,
       "word": "奔跑吧13开工大合影",
@@ -8387,6 +8419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122277,
+      "num": 122277,
+      "word": "腾讯视频2025待播大剧片单",
+      "onboard_time": 1742987421,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122155,
       "num": 122155,
       "word": "刘诗诗生活感",
@@ -8473,6 +8513,14 @@
       "onboard_time": 1742874921,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120564,
+      "num": 120564,
+      "word": "谢淮安 白磷型人格",
+      "onboard_time": 1742987120,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 120506,
@@ -9491,6 +9539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103836,
+      "num": 103836,
+      "word": "李昀锐奔跑吧牛仔造型",
+      "onboard_time": 1742987180,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103782,
       "num": 285354,
       "word": "俄美未能达成联合声明",
@@ -9859,6 +9915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97170,
+      "num": 97170,
+      "word": "原来韭黄是韭菜的社恐版",
+      "onboard_time": 1742985860,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 96823,
       "num": 96823,
       "word": "玫瑰的故事荣誉推荐作品",
@@ -9904,6 +9968,14 @@
       "word": "张凌赫方发布行政处罚决定书",
       "onboard_time": 1742819182,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96436,
+      "num": 112170,
+      "word": "曾黎16秒祛痘教程",
+      "onboard_time": 1742987901,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -10233,6 +10305,14 @@
       "onboard_time": 1742821162,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85561,
+      "num": 85561,
+      "word": "白鹿奔跑吧直播连线",
+      "onboard_time": 1742986161,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 85435,
@@ -11451,6 +11531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48570,
+      "num": 289216,
+      "word": "号称3天减10斤减肥产品含利尿剂",
+      "onboard_time": 1742987660,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48495,
       "num": 352673,
       "word": "中国足坛历史上座纪录被打破",
@@ -11611,6 +11699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43403,
+      "num": 250507,
+      "word": "周继红是中国跳水第一个奥运冠军",
+      "onboard_time": 1742986942,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43186,
       "num": 177084,
       "word": "男子卖菜籽谁料菜籽三蹦子都是偷的",
@@ -11665,6 +11761,14 @@
       "onboard_time": 1742791165,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42521,
+      "num": 250641,
+      "word": "老人6万买保险到孙女80岁才返完",
+      "onboard_time": 1742987242,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42454,
@@ -11953,6 +12057,14 @@
       "onboard_time": 1742685076,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 36675,
+      "num": 74903,
+      "word": "清融版找不同",
+      "onboard_time": 1742986101,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 36226,
@@ -12595,6 +12707,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 23626,
+      "num": 120735,
+      "word": "武汉樱花树下能听到全国的方言",
+      "onboard_time": 1742987301,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 23495,
       "num": 183238,
       "word": "2025汉马最小冠军仅15岁",
@@ -12737,6 +12857,14 @@
       "onboard_time": 1742934134,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 19279,
+      "num": 318770,
+      "word": "直播间买100件保健品69个涉嫌误导",
+      "onboard_time": 1742986942,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19215,
