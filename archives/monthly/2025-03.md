@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/03/01 00:29:32 ~ 2025/03/26 22:24:28
+本榜单时间：2025/03/01 00:29:32 ~ 2025/03/26 22:43:51
 </p>
 </blockquote>
 <p>
@@ -2235,6 +2235,12 @@ CFO零封TES（热度：1429273）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%94%99%E8%AF%AF%E6%B4%97%E5%A4%B4%E6%96%B9%E5%BC%8F%E4%BC%9A%E5%AF%BC%E8%87%B4%E8%84%82%E6%BA%A2%E6%80%A7%E7%9A%AE%E7%82%8E%23" target="weibo">
+错误洗头方式会导致脂溢性皮炎（热度：1401761）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%98%A630%E6%96%A4%20%E9%9D%A2%E9%83%A8%E6%8A%98%E5%8F%A0%E5%BA%A6%E5%8F%98%E5%8C%96%23" target="weibo">
 瘦30斤 面部折叠度变化（热度：1401730）
 </a>
@@ -3371,12 +3377,6 @@ NJZ宣布暂停活动（热度：1165039）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9160%25%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9C%A8%E5%8E%BF%E7%BA%A7%E4%B8%AD%E5%AD%A6%23" target="weibo">
 近60%高中生在县级中学（热度：1130312）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%94%99%E8%AF%AF%E6%B4%97%E5%A4%B4%E6%96%B9%E5%BC%8F%E4%BC%9A%E5%AF%BC%E8%87%B4%E8%84%82%E6%BA%A2%E6%80%A7%E7%9A%AE%E7%82%8E%23" target="weibo">
-错误洗头方式会导致脂溢性皮炎（热度：1129872）
 </a>
 </li>
 
