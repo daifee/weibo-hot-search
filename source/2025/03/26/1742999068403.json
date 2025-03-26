@@ -1,0 +1,410 @@
+{
+  "runTime": 1742999068403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1129872,
+        "num": 1180779,
+        "word": "错误洗头方式会导致脂溢性皮炎",
+        "onboard_time": 1742994321,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 606517,
+        "num": 606517,
+        "word": "傅云夕女儿 亲生",
+        "onboard_time": 1742988141,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15143,
+        "num": 563814,
+        "word": "网络视听成全网民的数字空气",
+        "onboard_time": 1742985381,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615110,
+        "num": 556428,
+        "word": "辛云来 夜袭横店",
+        "onboard_time": 1742995642,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543418,
+        "num": 543418,
+        "word": "莲花味精辟谣穷得只剩一栋办公楼",
+        "onboard_time": 1742996482,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285610,
+        "num": 522716,
+        "word": "西藏日喀则定日发生3.4级地震",
+        "onboard_time": 1742996482,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518193,
+        "num": 518193,
+        "word": "湖南卫视重映新还珠格格",
+        "onboard_time": 1742995702,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407394,
+        "num": 407394,
+        "word": "原来这些歌都是李晟唱的",
+        "onboard_time": 1742985082,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256483,
+        "num": 256483,
+        "word": "警方通报高铁脱鞋放脚打人男被行拘",
+        "onboard_time": 1742992702,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 37495,
+        "num": 253472,
+        "word": "女子卖有毒减肥产品被抓还装无辜",
+        "onboard_time": 1742992883,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1354566,
+        "num": 252905,
+        "word": "曾黎闲鱼",
+        "onboard_time": 1742989281,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1239158,
+        "num": 249110,
+        "word": "大16岁女友离世被赶出门男子发声",
+        "onboard_time": 1742995400,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 830511,
+        "num": 245972,
+        "word": "纽约丈夫曝金赛纶给自己的信",
+        "onboard_time": 1742996482,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147962,
+        "num": 241350,
+        "word": "睡觉时遇到地震咋办",
+        "onboard_time": 1742996542,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74102,
+        "num": 238317,
+        "word": "晒工资条能泄漏什么核心机密呢",
+        "onboard_time": 1742998283,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341152,
+        "num": 237563,
+        "word": "祝绪丹神女执弓",
+        "onboard_time": 1742989341,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312183,
+        "num": 233268,
+        "word": "刘诗诗林允儿活动同框",
+        "onboard_time": 1742994442,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132090,
+        "num": 231118,
+        "word": "方励自曝17岁被男性性骚扰",
+        "onboard_time": 1742997681,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229032,
+        "num": 229032,
+        "word": "曾黎工作室回复粉丝",
+        "onboard_time": 1742997083,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43406,
+        "num": 226242,
+        "word": "美国多名议员在控枪辩论现场摸鱼",
+        "onboard_time": 1742998222,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 307694,
+        "num": 225967,
+        "word": "哪吒之魔童闹海票房破150亿",
+        "onboard_time": 1742979621,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233636,
+        "num": 225889,
+        "word": "被碾压致死5岁女童家属出具谅解书",
+        "onboard_time": 1742989281,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224776,
+        "num": 224776,
+        "word": "黄子佼承认持有7名少女非法影片",
+        "onboard_time": 1742989400,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212656,
+        "num": 212656,
+        "word": "辛云来粉底液避雷",
+        "onboard_time": 1742992222,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201760,
+        "num": 201760,
+        "word": "梁田和混血弟弟纯正年下感",
+        "onboard_time": 1742996722,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185373,
+        "num": 185373,
+        "word": "李晟回应断层第一",
+        "onboard_time": 1742961921,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181110,
+        "num": 181110,
+        "word": "田曦薇小红裙进妆look",
+        "onboard_time": 1742994442,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175529,
+        "num": 175529,
+        "word": "浪姐6蒋一侨回应三考伯克利",
+        "onboard_time": 1742997384,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169182,
+        "num": 169182,
+        "word": "赴山海 备播",
+        "onboard_time": 1742993721,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25529,
+        "num": 160673,
+        "word": "骗领社保金被剥夺养老保险待遇",
+        "onboard_time": 1742998341,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158135,
+        "num": 158135,
+        "word": "晒工资被开除山姆试吃员签保密协议",
+        "onboard_time": 1742973742,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111200,
+        "num": 152247,
+        "word": "号称3天减10斤减肥产品含利尿剂",
+        "onboard_time": 1742987660,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148956,
+        "num": 148956,
+        "word": "长沙吸引人才不能影响教育公平",
+        "onboard_time": 1742990482,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142772,
+        "num": 142772,
+        "word": "芒果TV调整会员同时使用设备数",
+        "onboard_time": 1742983342,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132049,
+        "num": 132049,
+        "word": "赴山海",
+        "onboard_time": 1742998341,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125240,
+        "num": 125240,
+        "word": "王嘉尔直升机空降上海",
+        "onboard_time": 1742995342,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121961,
+        "num": 121961,
+        "word": "Rookie拿到中国绿卡",
+        "onboard_time": 1742982080,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113210,
+        "num": 113210,
+        "word": "娜扎宫廷鎏金风",
+        "onboard_time": 1742995462,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108613,
+        "num": 108613,
+        "word": "昀牵孟绕",
+        "onboard_time": 1742984301,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103271,
+        "num": 103271,
+        "word": "网购小狗遭拒收快递员无奈收养4只",
+        "onboard_time": 1742988801,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103056,
+        "num": 103056,
+        "word": "沙溢 美黑",
+        "onboard_time": 1742984662,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101001,
+        "num": 101001,
+        "word": "王者荣耀S39赛季",
+        "onboard_time": 1742998043,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99696,
+        "num": 99696,
+        "word": "很喜欢年轻人不扫兴的疯感",
+        "onboard_time": 1742989281,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94757,
+        "num": 94757,
+        "word": "易烊千玺摆手提醒粉丝",
+        "onboard_time": 1742980522,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91660,
+        "num": 91660,
+        "word": "多方回应村民公墓被砸骨灰被抛洒",
+        "onboard_time": 1742994620,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 89871,
+        "num": 89871,
+        "word": "美群聊泄密听证会吵起来了",
+        "onboard_time": 1742993242,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3693,
+        "num": 86430,
+        "word": "万千气象看江苏",
+        "onboard_time": 1742825783,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86188,
+        "num": 86188,
+        "word": "棋士",
+        "onboard_time": 1742990362,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85430,
+        "num": 85430,
+        "word": "赵晴莲花珍珠妆",
+        "onboard_time": 1742997984,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84710,
+        "num": 84710,
+        "word": "赵继伟 姆巴佩庆祝",
+        "onboard_time": 1742996842,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#八项规定是共产党人应做到的基本要求#"
+    }
+  }
+}
