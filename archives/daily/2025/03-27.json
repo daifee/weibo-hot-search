@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743007639050,
+  "endTime": 1743009725105,
   "band_list": [
     {
       "raw_hot": 1697150,
@@ -163,16 +163,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123372,
-      "num": 123372,
+      "raw_hot": 137823,
+      "num": 137823,
       "word": "美防长否认在有记者的群发作战计划",
       "onboard_time": 1743004160,
       "rank": 23,
       "category": "国际时政"
     },
     {
-      "raw_hot": 118879,
-      "num": 118879,
+      "raw_hot": 125513,
+      "num": 125513,
       "word": "李晟拉高收视率",
       "onboard_time": 1743004640,
       "rank": 19,
@@ -201,6 +201,22 @@
       "onboard_time": 1742989341,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103273,
+      "num": 103273,
+      "word": "潘粤明评国足8场6败",
+      "onboard_time": 1743008178,
+      "rank": 16,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 102425,
+      "num": 102425,
+      "word": "找17岁女孩代孕男子领孩子多付20万",
+      "onboard_time": 1743007158,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101558,
@@ -289,14 +305,6 @@
       "onboard_time": 1742983342,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 63543,
-      "num": 63543,
-      "word": "找17岁女孩代孕男子领孩子多付20万",
-      "onboard_time": 1743007158,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62068,
@@ -427,12 +435,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34397,
+      "num": 34397,
+      "word": "地震逃生千万别坐电梯",
+      "onboard_time": 1743009435,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33142,
       "num": 612447,
       "word": "我国大国基建加一",
       "onboard_time": 1743000983,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31462,
+      "num": 31462,
+      "word": "号称3天减10斤减肥产品含利尿剂",
+      "onboard_time": 1742987660,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23580,
+      "num": 137673,
+      "word": "美高官群聊完整记录公布",
+      "onboard_time": 1743001582,
+      "rank": 9,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
