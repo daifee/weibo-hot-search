@@ -1,0 +1,410 @@
+{
+  "runTime": 1743003740249,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 954766,
+        "num": 1152762,
+        "word": "17岁代孕女孩产下双胞胎已上户口",
+        "onboard_time": 1743000201,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 949598,
+        "num": 949598,
+        "word": "陈都灵晒辛云来煮的米线",
+        "onboard_time": 1743003022,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42783,
+        "num": 943866,
+        "word": "我国大国基建加一",
+        "onboard_time": 1743000983,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 943554,
+        "num": 943554,
+        "word": "店长回应早产儿蛋糕已下架销毁",
+        "onboard_time": 1743000323,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 925512,
+        "num": 925512,
+        "word": "防水冲锋衣可能影响女性怀孕",
+        "onboard_time": 1743000863,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 879459,
+        "num": 879459,
+        "word": "印度遭奸杀女医生案内幕曝光",
+        "onboard_time": 1743002601,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 554578,
+        "num": 554578,
+        "word": "错误洗头方式会导致脂溢性皮炎",
+        "onboard_time": 1742994321,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 524469,
+        "num": 524469,
+        "word": "拔牙坠楼身亡女子家属最新发声",
+        "onboard_time": 1743001042,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501842,
+        "num": 501842,
+        "word": "祝绪丹当着侯佩岑的面说喜欢周杰伦",
+        "onboard_time": 1743000142,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180243,
+        "num": 497116,
+        "word": "蜜雪集团2024年利润44.542亿元",
+        "onboard_time": 1742999542,
+        "rank": 9,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 1379663,
+        "num": 496515,
+        "word": "曾黎闲鱼",
+        "onboard_time": 1742989281,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494712,
+        "num": 494712,
+        "word": "傅云夕女儿 亲生",
+        "onboard_time": 1742988141,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467396,
+        "num": 467396,
+        "word": "纽约丈夫曝金赛纶给自己的信",
+        "onboard_time": 1742996482,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366166,
+        "num": 366166,
+        "word": "白宫泄密群聊完整记录公布",
+        "onboard_time": 1743001462,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33985,
+        "num": 313839,
+        "word": "沈阳多家公司被指要求求职者无薪试岗",
+        "onboard_time": 1743003022,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276080,
+        "num": 276080,
+        "word": "湖南卫视重映新还珠格格",
+        "onboard_time": 1742995702,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232495,
+        "num": 232495,
+        "word": "莲花味精辟谣穷得只剩一栋办公楼",
+        "onboard_time": 1742996482,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204009,
+        "num": 204009,
+        "word": "西藏日喀则定日发生3.4级地震",
+        "onboard_time": 1742996482,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199705,
+        "num": 199705,
+        "word": "黄子佼承认持有7名少女非法影片",
+        "onboard_time": 1742989400,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122153,
+        "num": 197567,
+        "word": "辛云来回应粉底液避雷",
+        "onboard_time": 1743003022,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805104,
+        "num": 197506,
+        "word": "张檬自曝孕35周臀位绕颈",
+        "onboard_time": 1743000382,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197301,
+        "num": 197301,
+        "word": "晒工资条能泄漏什么核心机密呢",
+        "onboard_time": 1742998283,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196455,
+        "num": 196455,
+        "word": "大16岁女友离世被赶出门男子发声",
+        "onboard_time": 1742995400,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187670,
+        "num": 187670,
+        "word": "刘晓庆回应演短剧遭朋友质疑丢人",
+        "onboard_time": 1742999663,
+        "rank": 23,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 181646,
+        "num": 181646,
+        "word": "小伙靠书法帮父母清债2000万",
+        "onboard_time": 1743001223,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161601,
+        "num": 161601,
+        "word": "祝绪丹神女执弓",
+        "onboard_time": 1742989341,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147718,
+        "num": 147718,
+        "word": "刘诗诗林允儿活动同框",
+        "onboard_time": 1742994442,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129560,
+        "num": 129560,
+        "word": "浪姐真的把我养得很好",
+        "onboard_time": 1743001343,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81130,
+        "num": 125348,
+        "word": "睡觉时遇到地震咋办",
+        "onboard_time": 1742996542,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134072,
+        "num": 125218,
+        "word": "李晟回应断层第一",
+        "onboard_time": 1742961921,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25301,
+        "num": 123937,
+        "word": "律师谈山姆试吃员晒工资条被开除",
+        "onboard_time": 1743003562,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123360,
+        "num": 123360,
+        "word": "曾黎工作室报案",
+        "onboard_time": 1743001643,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117923,
+        "num": 117923,
+        "word": "萨摩耶绝育后的哭声响彻整个医院",
+        "onboard_time": 1743001223,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114298,
+        "num": 114298,
+        "word": "田曦薇小红裙进妆look",
+        "onboard_time": 1742994442,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113153,
+        "num": 113153,
+        "word": "原来这些歌都是李晟唱的",
+        "onboard_time": 1742985082,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111876,
+        "num": 111876,
+        "word": "考北大的意义在这一刻具像化了",
+        "onboard_time": 1743001881,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99740,
+        "num": 99740,
+        "word": "沙溢 美黑",
+        "onboard_time": 1742984662,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96082,
+        "num": 96082,
+        "word": "晒工资被开除山姆试吃员签保密协议",
+        "onboard_time": 1742973742,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87916,
+        "num": 87916,
+        "word": "赴山海 备播",
+        "onboard_time": 1742993721,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87234,
+        "num": 87234,
+        "word": "梁田和混血弟弟纯正年下感",
+        "onboard_time": 1742996722,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86895,
+        "num": 86895,
+        "word": "不良人第七季",
+        "onboard_time": 1743002902,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 86429,
+        "num": 86429,
+        "word": "男孩为躲脱缰宠物狗追逐遭车祸致残",
+        "onboard_time": 1743000562,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85342,
+        "num": 85342,
+        "word": "哪吒之魔童闹海票房破150亿",
+        "onboard_time": 1742979621,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83425,
+        "num": 83425,
+        "word": "芒果TV调整会员同时使用设备数",
+        "onboard_time": 1742983342,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83419,
+        "num": 83419,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1743000743,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82050,
+        "num": 82050,
+        "word": "被碾压致死5岁女童家属出具谅解书",
+        "onboard_time": 1742989281,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81443,
+        "num": 81443,
+        "word": "棋士",
+        "onboard_time": 1742990362,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80161,
+        "num": 80161,
+        "word": "短剧家里家外拍摄17天成本仅300万",
+        "onboard_time": 1743002962,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76806,
+        "num": 76806,
+        "word": "警方通报高铁脱鞋放脚打人男被行拘",
+        "onboard_time": 1742992702,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 76455,
+        "num": 76455,
+        "word": "美国多名议员在控枪辩论现场摸鱼",
+        "onboard_time": 1742998222,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#八项规定是共产党人应做到的基本要求#"
+    }
+  }
+}
