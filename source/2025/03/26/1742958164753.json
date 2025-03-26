@@ -1,0 +1,410 @@
+{
+  "runTime": 1742958164753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1857137,
+        "num": 1857137,
+        "word": "德国政府解散",
+        "onboard_time": 1742947703,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 744749,
+        "num": 744749,
+        "word": "网红滕顺强夫妇退网",
+        "onboard_time": 1742953281,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26873,
+        "num": 742496,
+        "word": "春天里的中国孕育丰收希望",
+        "onboard_time": 1742916323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 740845,
+        "num": 740845,
+        "word": "订婚强奸案女子被指遗留文胸实为眼罩",
+        "onboard_time": 1742956460,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454184,
+        "num": 454184,
+        "word": "台独恶劣行径举报邮箱公布",
+        "onboard_time": 1742955201,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1048733,
+        "num": 432025,
+        "word": "马拉松亲密事件拍摄者称不敢看评论",
+        "onboard_time": 1742949683,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462388,
+        "num": 427573,
+        "word": "无锡马拉松承办单位回应野鸳鸯事件",
+        "onboard_time": 1742951600,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399671,
+        "num": 399671,
+        "word": "赵露思说是爱让她又活了一次",
+        "onboard_time": 1742952260,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250336,
+        "num": 399434,
+        "word": "全上海都在偶遇白敬亭",
+        "onboard_time": 1742951722,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86029,
+        "num": 398081,
+        "word": "德总理被解职",
+        "onboard_time": 1742956643,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 952644,
+        "num": 396664,
+        "word": "柯基打架输了气绝身亡",
+        "onboard_time": 1742948722,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 753786,
+        "num": 395419,
+        "word": "金赛纶老公晒结婚证明",
+        "onboard_time": 1742916443,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686732,
+        "num": 393970,
+        "word": "金秀贤即将公开的新料预告",
+        "onboard_time": 1742953641,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580797,
+        "num": 392527,
+        "word": "李晟李佳航",
+        "onboard_time": 1742915003,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544526,
+        "num": 392098,
+        "word": "河北廊坊4.2级和2.9级地震",
+        "onboard_time": 1742924359,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391057,
+        "num": 391057,
+        "word": "感觉半个娱乐圈都来武汉了",
+        "onboard_time": 1742914404,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357964,
+        "num": 357964,
+        "word": "夫妻不信儿子已死40年后一家终团聚",
+        "onboard_time": 1742956880,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352268,
+        "num": 352268,
+        "word": "郑钦文0比2萨巴伦卡",
+        "onboard_time": 1742956041,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228914,
+        "num": 345408,
+        "word": "唐嫣回应回归仙侠剧",
+        "onboard_time": 1742955802,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58182,
+        "num": 335357,
+        "word": "韩国山火已致22人死亡",
+        "onboard_time": 1742957360,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 373910,
+        "num": 322410,
+        "word": "医生称机洗内裤比手洗干净",
+        "onboard_time": 1742946322,
+        "rank": 20,
+        "category": "幽默,科学科普"
+      },
+      {
+        "raw_hot": 367727,
+        "num": 314423,
+        "word": "灵魂摆渡5要来了",
+        "onboard_time": 1742954961,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310530,
+        "num": 310530,
+        "word": "马拉松亲密事件",
+        "onboard_time": 1742956341,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291609,
+        "num": 291609,
+        "word": "多囊卵巢综合征",
+        "onboard_time": 1742945541,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34774,
+        "num": 266786,
+        "word": "利拉德无限期休战",
+        "onboard_time": 1742952561,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262279,
+        "num": 262279,
+        "word": "世界上最严丝合缝的东西出现了",
+        "onboard_time": 1742956760,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244443,
+        "num": 244443,
+        "word": "厌蠢其实是种情绪暴力",
+        "onboard_time": 1742956880,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198021,
+        "num": 237270,
+        "word": "高泰宇说肖战人品特别好",
+        "onboard_time": 1742949264,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189893,
+        "num": 234766,
+        "word": "以美之名定档",
+        "onboard_time": 1742957421,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138118,
+        "num": 234153,
+        "word": "辛云来雁回时换发套了",
+        "onboard_time": 1742950282,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234112,
+        "num": 234112,
+        "word": "苗苗郑恺搬家",
+        "onboard_time": 1742916382,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212703,
+        "num": 212703,
+        "word": "李晟第一",
+        "onboard_time": 1742905702,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208123,
+        "num": 208123,
+        "word": "喜酒喝到一半结果新娘同事跑光了",
+        "onboard_time": 1742945541,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 196801,
+        "num": 196801,
+        "word": "半夜地震手机突然大叫",
+        "onboard_time": 1742925796,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 193139,
+        "num": 193139,
+        "word": "监拍地震警报响起居民商量跑不跑",
+        "onboard_time": 1742955981,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183859,
+        "num": 183859,
+        "word": "杭州女童坠亡案雇主被保姆女儿起诉",
+        "onboard_time": 1742957121,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181129,
+        "num": 181129,
+        "word": "阿根廷4比1巴西",
+        "onboard_time": 1742955981,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175597,
+        "num": 175597,
+        "word": "Uzi回应S10退役",
+        "onboard_time": 1742957960,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30461,
+        "num": 165852,
+        "word": "梅根开网店带货被批用王室圈钱",
+        "onboard_time": 1742956282,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21319,
+        "num": 161920,
+        "word": "P人如何无痛出国赏樱",
+        "onboard_time": 1742958080,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 160461,
+        "num": 160461,
+        "word": "1个月经周期6个水瓶盖的量就算正常",
+        "onboard_time": 1742957181,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156912,
+        "num": 156912,
+        "word": "苹果向浙大捐赠3000万",
+        "onboard_time": 1742957960,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156536,
+        "num": 156536,
+        "word": "7个月婴儿误舔蜂蜜勺肉毒杆菌中毒",
+        "onboard_time": 1742926696,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147881,
+        "num": 147881,
+        "word": "减重后近8成人群反弹",
+        "onboard_time": 1742952260,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 146652,
+        "num": 146652,
+        "word": "女子想再给骗子16万取回被骗的58万",
+        "onboard_time": 1742952561,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136071,
+        "num": 136071,
+        "word": "发现甄嬛传皇后为了人设改了三次妆",
+        "onboard_time": 1742957721,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133630,
+        "num": 133630,
+        "word": "郑钦文vs萨巴伦卡",
+        "onboard_time": 1742947643,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132772,
+        "num": 132772,
+        "word": "江西公积金中心光纤被接连挖断3次",
+        "onboard_time": 1742957481,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122717,
+        "num": 122717,
+        "word": "郑钦文无缘迈阿密赛四强",
+        "onboard_time": 1742956341,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122150,
+        "num": 122150,
+        "word": "郑钦文遗憾无缘四强",
+        "onboard_time": 1742957960,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#清风正气满乾坤#"
+    }
+  }
+}
