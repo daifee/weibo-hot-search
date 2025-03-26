@@ -1,0 +1,410 @@
+{
+  "runTime": 1742964162274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2202176,
+        "num": 2202176,
+        "word": "李晟回应断层第一",
+        "onboard_time": 1742961921,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1041033,
+        "num": 1041033,
+        "word": "德国政府解散",
+        "onboard_time": 1742947703,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34025,
+        "num": 821212,
+        "word": "春季9个重要健康提示",
+        "onboard_time": 1742963723,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 807987,
+        "num": 807987,
+        "word": "宋轶白敬亭 同款眼镜",
+        "onboard_time": 1742961921,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777069,
+        "num": 777069,
+        "word": "夫妻不信儿子已死40年后一家终团聚",
+        "onboard_time": 1742956880,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 711030,
+        "num": 711030,
+        "word": "苹果向浙大捐赠3000万",
+        "onboard_time": 1742957960,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 678998,
+        "num": 678998,
+        "word": "周三洗头大法",
+        "onboard_time": 1742958682,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 535934,
+        "num": 535934,
+        "word": "订婚强奸案女子被指遗留文胸实为眼罩",
+        "onboard_time": 1742956460,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504154,
+        "num": 504154,
+        "word": "刘涛眼睛在哭脸在笑",
+        "onboard_time": 1742958200,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201639,
+        "num": 452358,
+        "word": "韩国救援山火直升机坠落",
+        "onboard_time": 1742963302,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 727270,
+        "num": 438518,
+        "word": "柯基打架输了气绝身亡",
+        "onboard_time": 1742948722,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402206,
+        "num": 402206,
+        "word": "甲亢哥上海直播打破西方对中国滤镜",
+        "onboard_time": 1742961501,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318922,
+        "num": 318922,
+        "word": "王星 无限超越班",
+        "onboard_time": 1742962282,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315673,
+        "num": 315673,
+        "word": "金秀贤即将公开的新料预告",
+        "onboard_time": 1742953641,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23345,
+        "num": 303657,
+        "word": "德国政府解散是法定程序性调整",
+        "onboard_time": 1742963723,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 300834,
+        "num": 300834,
+        "word": "李晟李佳航",
+        "onboard_time": 1742915003,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290034,
+        "num": 290034,
+        "word": "江西公积金中心光纤被接连挖断3次",
+        "onboard_time": 1742957481,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287305,
+        "num": 287305,
+        "word": "新还珠格格",
+        "onboard_time": 1742962222,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283192,
+        "num": 283192,
+        "word": "杭州女童坠亡案雇主被保姆女儿起诉",
+        "onboard_time": 1742957121,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238530,
+        "num": 238530,
+        "word": "赵露思素颜录综艺",
+        "onboard_time": 1742963363,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655253,
+        "num": 237043,
+        "word": "处女膜的一些基本常识",
+        "onboard_time": 1742961381,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 393473,
+        "num": 234960,
+        "word": "喝咖啡减肥的黄金时间",
+        "onboard_time": 1742959881,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229705,
+        "num": 229705,
+        "word": "费启鸣说虞书欣无时无刻不在营业",
+        "onboard_time": 1742959821,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323153,
+        "num": 228702,
+        "word": "厌蠢其实是种情绪暴力",
+        "onboard_time": 1742956880,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196542,
+        "num": 226994,
+        "word": "原神5.5版本",
+        "onboard_time": 1742963482,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21223,
+        "num": 224501,
+        "word": "德国两党正谈判组建新政府",
+        "onboard_time": 1742964023,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239477,
+        "num": 222785,
+        "word": "灵魂摆渡5要来了",
+        "onboard_time": 1742954961,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218631,
+        "num": 221788,
+        "word": "台独恶劣行径举报邮箱公布",
+        "onboard_time": 1742955201,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220978,
+        "num": 220978,
+        "word": "贵女 袁立文学",
+        "onboard_time": 1742960061,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207120,
+        "num": 219961,
+        "word": "北上后劲好大",
+        "onboard_time": 1742963482,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219401,
+        "num": 219401,
+        "word": "雷军称小米克制贪婪只挣一点点",
+        "onboard_time": 1742960421,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 217372,
+        "num": 217372,
+        "word": "医生称机洗内裤比手洗干净",
+        "onboard_time": 1742946322,
+        "rank": 31,
+        "category": "幽默,科学科普"
+      },
+      {
+        "raw_hot": 214077,
+        "num": 214077,
+        "word": "1个月经周期6个水瓶盖的量就算正常",
+        "onboard_time": 1742957181,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212280,
+        "num": 212280,
+        "word": "长安二十四计",
+        "onboard_time": 1742963782,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195689,
+        "num": 195689,
+        "word": "招商银行人均薪酬降至60万元以内",
+        "onboard_time": 1742963723,
+        "rank": 34,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 164000,
+        "num": 164000,
+        "word": "网红滕顺强夫妇退网",
+        "onboard_time": 1742953281,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2078753,
+        "num": 159925,
+        "word": "马拉松亲密事件",
+        "onboard_time": 1742956341,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155524,
+        "num": 155524,
+        "word": "金赛纶因母亲向男友透露私事分手",
+        "onboard_time": 1742964023,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153019,
+        "num": 153019,
+        "word": "感觉半个娱乐圈都来武汉了",
+        "onboard_time": 1742914404,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148488,
+        "num": 148488,
+        "word": "喜酒喝到一半结果新娘同事跑光了",
+        "onboard_time": 1742945541,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 67184,
+        "num": 146319,
+        "word": "北京发生5级以上地震可能性很小",
+        "onboard_time": 1742962943,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 146061,
+        "num": 146061,
+        "word": "甲亢哥",
+        "onboard_time": 1742963302,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143400,
+        "num": 143400,
+        "word": "无限超越班 第0期",
+        "onboard_time": 1742961562,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141511,
+        "num": 141511,
+        "word": "多囊卵巢综合征",
+        "onboard_time": 1742945541,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14708,
+        "num": 140725,
+        "word": "扩消费有点有面",
+        "onboard_time": 1742963603,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140673,
+        "num": 140673,
+        "word": "老祖宗的审美果然是有道理的",
+        "onboard_time": 1742963723,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132185,
+        "num": 132185,
+        "word": "苗苗郑恺搬家",
+        "onboard_time": 1742916382,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130579,
+        "num": 130579,
+        "word": "翟潇闻跑男路透幻视景栖迟了",
+        "onboard_time": 1742963482,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127598,
+        "num": 127598,
+        "word": "赵露思说是爱让她又活了一次",
+        "onboard_time": 1742952260,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126975,
+        "num": 126975,
+        "word": "台湾海峡不存在所谓的国际水域",
+        "onboard_time": 1742963542,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#清风正气满乾坤#"
+    }
+  }
+}

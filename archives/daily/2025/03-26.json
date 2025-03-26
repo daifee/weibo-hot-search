@@ -1,6 +1,6 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742963322543,
+  "endTime": 1742964162274,
   "band_list": [
     {
       "raw_hot": 2360636,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 807987,
+      "num": 807987,
+      "word": "宋轶白敬亭 同款眼镜",
+      "onboard_time": 1742961921,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 801151,
       "num": 801151,
       "word": "网红滕顺强夫妇退网",
@@ -155,6 +163,14 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 678998,
+      "num": 678998,
+      "word": "周三洗头大法",
+      "onboard_time": 1742958682,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 678909,
       "num": 357969,
       "word": "苗苗郑恺搬家",
@@ -163,23 +179,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 649797,
-      "num": 328765,
-      "word": "喜酒喝到一半结果新娘同事跑光了",
-      "onboard_time": 1742945541,
-      "rank": 11,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 643538,
-      "num": 643538,
-      "word": "周三洗头大法",
-      "onboard_time": 1742958682,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 639220,
+      "raw_hot": 655253,
       "num": 250159,
       "word": "处女膜的一些基本常识",
       "onboard_time": 1742961381,
@@ -187,12 +187,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 634057,
-      "num": 634057,
-      "word": "宋轶白敬亭 同款眼镜",
-      "onboard_time": 1742961921,
-      "rank": 7,
-      "category": "艺人"
+      "raw_hot": 649797,
+      "num": 328765,
+      "word": "喜酒喝到一半结果新娘同事跑光了",
+      "onboard_time": 1742945541,
+      "rank": 11,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 620693,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 402206,
+      "num": 504144,
+      "word": "甲亢哥上海直播打破西方对中国滤镜",
+      "onboard_time": 1742961501,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399671,
       "num": 399671,
       "word": "赵露思说是爱让她又活了一次",
@@ -305,6 +313,14 @@
       "onboard_time": 1742893043,
       "rank": 20,
       "category": "民生新闻,运动健身"
+    },
+    {
+      "raw_hot": 393473,
+      "num": 249397,
+      "word": "喝咖啡减肥的黄金时间",
+      "onboard_time": 1742959881,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 393281,
@@ -355,22 +371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 360888,
-      "num": 249397,
-      "word": "喝咖啡减肥的黄金时间",
-      "onboard_time": 1742959881,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 352898,
-      "num": 504144,
-      "word": "甲亢哥上海直播打破西方对中国滤镜",
-      "onboard_time": 1742961501,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 352268,
       "num": 352268,
       "word": "郑钦文0比2萨巴伦卡",
@@ -403,12 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318922,
+      "num": 318922,
+      "word": "王星 无限超越班",
+      "onboard_time": 1742962282,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303973,
       "num": 218130,
       "word": "花非花雾非雾",
       "onboard_time": 1742914584,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287305,
+      "num": 287305,
+      "word": "新还珠格格",
+      "onboard_time": 1742962222,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 284671,
@@ -449,14 +465,6 @@
       "onboard_time": 1742950282,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 264353,
-      "num": 264353,
-      "word": "新还珠格格",
-      "onboard_time": 1742962222,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 262279,
@@ -507,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238530,
+      "num": 238530,
+      "word": "赵露思素颜录综艺",
+      "onboard_time": 1742963363,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234395,
       "num": 234395,
       "word": "美国就与俄罗斯会谈发表声明",
@@ -521,6 +537,14 @@
       "onboard_time": 1742952561,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219401,
+      "num": 219401,
+      "word": "雷军称小米克制贪婪只挣一点点",
+      "onboard_time": 1742960421,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 216821,
@@ -539,12 +563,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 204801,
-      "num": 204801,
-      "word": "王星 无限超越班",
-      "onboard_time": 1742962282,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 212280,
+      "num": 212280,
+      "word": "长安二十四计",
+      "onboard_time": 1742963782,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207120,
+      "num": 219961,
+      "word": "北上后劲好大",
+      "onboard_time": 1742963482,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 202749,
@@ -553,6 +585,14 @@
       "onboard_time": 1742949504,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201639,
+      "num": 452358,
+      "word": "韩国救援山火直升机坠落",
+      "onboard_time": 1742963302,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 197441,
@@ -577,6 +617,22 @@
       "onboard_time": 1742904262,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196542,
+      "num": 226994,
+      "word": "原神5.5版本",
+      "onboard_time": 1742963482,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 195689,
+      "num": 195689,
+      "word": "招商银行人均薪酬降至60万元以内",
+      "onboard_time": 1742963723,
+      "rank": 34,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 193279,
@@ -633,14 +689,6 @@
       "onboard_time": 1742949983,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 180334,
-      "num": 180334,
-      "word": "雷军称小米克制贪婪只挣一点点",
-      "onboard_time": 1742960421,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 178404,
@@ -715,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155524,
+      "num": 155524,
+      "word": "金赛纶因母亲向男友透露私事分手",
+      "onboard_time": 1742964023,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151585,
       "num": 247343,
       "word": "范丞丞 回归",
@@ -747,12 +803,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146061,
+      "num": 146061,
+      "word": "甲亢哥",
+      "onboard_time": 1742963302,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142656,
       "num": 142656,
       "word": "苹果CEO库克现身浙大",
       "onboard_time": 1742960421,
       "rank": 43,
       "category": "数码,教育"
+    },
+    {
+      "raw_hot": 140673,
+      "num": 140673,
+      "word": "老祖宗的审美果然是有道理的",
+      "onboard_time": 1742963723,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 139140,
@@ -819,12 +891,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130579,
+      "num": 130579,
+      "word": "翟潇闻跑男路透幻视景栖迟了",
+      "onboard_time": 1742963482,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128277,
       "num": 185083,
       "word": "她没有叫她庄夫人而是阮小姐",
       "onboard_time": 1742910744,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126975,
+      "num": 126975,
+      "word": "台湾海峡不存在所谓的国际水域",
+      "onboard_time": 1742963542,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 125942,
@@ -1017,22 +1105,6 @@
       "onboard_time": 1742917042,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104592,
-      "num": 104592,
-      "word": "甲亢哥",
-      "onboard_time": 1742963302,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 104477,
-      "num": 104477,
-      "word": "韩国救援山火直升机坠落",
-      "onboard_time": 1742963302,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 101427,
@@ -1251,6 +1323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 67184,
+      "num": 187051,
+      "word": "北京发生5级以上地震可能性很小",
+      "onboard_time": 1742962943,
+      "rank": 29,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 66863,
       "num": 376642,
       "word": "3步开启手机地震预警",
@@ -1297,14 +1377,6 @@
       "onboard_time": 1742954362,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53296,
-      "num": 187051,
-      "word": "北京发生5级以上地震可能性很小",
-      "onboard_time": 1742962943,
-      "rank": 29,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 52856,
@@ -1403,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34025,
+      "num": 821212,
+      "word": "春季9个重要健康提示",
+      "onboard_time": 1742963723,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33849,
       "num": 79989,
       "word": "如何不焦虑地休个假",
@@ -1475,6 +1555,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 23345,
+      "num": 303657,
+      "word": "德国政府解散是法定程序性调整",
+      "onboard_time": 1742963723,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 21223,
+      "num": 224501,
+      "word": "德国两党正谈判组建新政府",
+      "onboard_time": 1742964023,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19335,
       "num": 19335,
       "word": "春季叠穿技巧",
@@ -1513,6 +1609,14 @@
       "onboard_time": 1742928016,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14708,
+      "num": 140725,
+      "word": "扩消费有点有面",
+      "onboard_time": 1742963603,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12472,
