@@ -1,6 +1,6 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742981189351,
+  "endTime": 1742982026929,
   "band_list": [
     {
       "raw_hot": 2360636,
@@ -99,20 +99,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1380654,
+      "num": 1380654,
+      "word": "免去周继红国家跳水队领队职务",
+      "onboard_time": 1742979321,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1364299,
       "num": 1364299,
       "word": "夫妻不信儿子已死40年后一家终团聚",
       "onboard_time": 1742956880,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1339472,
-      "num": 1339472,
-      "word": "免去周继红国家跳水队领队职务",
-      "onboard_time": 1742979321,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1257899,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 633879,
-      "num": 456043,
+      "num": 550586,
       "word": "张新成到底换了多少套衣服捏粘土",
       "onboard_time": 1742978061,
       "rank": 18,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 580537,
-      "num": 357791,
+      "num": 376616,
       "word": "于正回应白鹿告别文错字",
       "onboard_time": 1742976081,
       "rank": 10,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457906,
+      "num": 457906,
+      "word": "山西订婚强奸案必须厘清三大疑点",
+      "onboard_time": 1742978421,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 454184,
       "num": 454184,
       "word": "台独恶劣行径举报邮箱公布",
@@ -433,6 +441,14 @@
       "onboard_time": 1742947643,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417188,
+      "num": 417188,
+      "word": "于小彤看起来不像演的",
+      "onboard_time": 1742979501,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 416783,
@@ -515,14 +531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 391631,
-      "num": 353931,
-      "word": "于小彤看起来不像演的",
-      "onboard_time": 1742979501,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 386564,
       "num": 386564,
       "word": "关晓彤久违的好天气和春天的剧组餐",
@@ -537,6 +545,14 @@
       "onboard_time": 1742960061,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 378458,
+      "num": 378458,
+      "word": "坠亡女童生母称保姆女儿步步紧逼",
+      "onboard_time": 1742979861,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 376797,
@@ -577,14 +593,6 @@
       "onboard_time": 1742954961,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 358940,
-      "num": 358940,
-      "word": "山西订婚强奸案必须厘清三大疑点",
-      "onboard_time": 1742978421,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 357550,
@@ -811,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223685,
+      "num": 223685,
+      "word": "奔跑吧直播",
+      "onboard_time": 1742980401,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220314,
       "num": 253858,
       "word": "女子想再给骗子16万取回被骗的58万",
@@ -891,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203128,
+      "num": 203128,
+      "word": "猫眼美甲",
+      "onboard_time": 1742980642,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 202749,
       "num": 202749,
       "word": "SK",
@@ -963,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194344,
+      "num": 194344,
+      "word": "这是停猫位吗",
+      "onboard_time": 1742979082,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193279,
       "num": 163776,
       "word": "孕妇1天尿出60个鸡蛋的蛋白质致早产",
@@ -977,6 +1009,14 @@
       "onboard_time": 1742955981,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190820,
+      "num": 190820,
+      "word": "易烊千玺摆手提醒粉丝",
+      "onboard_time": 1742980522,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 187339,
@@ -1003,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185311,
+      "num": 185311,
+      "word": "成毅白发战损",
+      "onboard_time": 1742980881,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184728,
       "num": 184728,
       "word": "警方通报快递员被高空坠物砸中身亡",
@@ -1012,19 +1060,11 @@
     },
     {
       "raw_hot": 184350,
-      "num": 184350,
+      "num": 356993,
       "word": "辽宁省人民医院被警告",
       "onboard_time": 1742977221,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182419,
-      "num": 182419,
-      "word": "成毅白发战损",
-      "onboard_time": 1742980881,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 182035,
@@ -1067,14 +1107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174904,
-      "num": 263820,
-      "word": "坠亡女童生母称保姆女儿步步紧逼",
-      "onboard_time": 1742979861,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174452,
       "num": 174452,
       "word": "唐嫣高定look",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1742953281,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 170706,
-      "num": 170706,
-      "word": "这是停猫位吗",
-      "onboard_time": 1742979082,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 170429,
@@ -1139,20 +1163,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161655,
+      "num": 161655,
+      "word": "奔跑吧",
+      "onboard_time": 1742958920,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161619,
       "num": 161619,
       "word": "阿根廷vs巴西",
       "onboard_time": 1742949443,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160550,
-      "num": 160550,
-      "word": "奔跑吧直播",
-      "onboard_time": 1742980401,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 160101,
@@ -1201,22 +1225,6 @@
       "onboard_time": 1742959704,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154951,
-      "num": 154951,
-      "word": "奔跑吧",
-      "onboard_time": 1742958920,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 154104,
-      "num": 154104,
-      "word": "易烊千玺摆手提醒粉丝",
-      "onboard_time": 1742980522,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 151585,
@@ -1337,6 +1345,14 @@
       "onboard_time": 1742973681,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 137224,
+      "num": 137224,
+      "word": "又该穿洞洞鞋了",
+      "onboard_time": 1742980581,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 137223,
@@ -1651,12 +1667,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115041,
-      "num": 115041,
-      "word": "又该穿洞洞鞋了",
-      "onboard_time": 1742980581,
-      "rank": 42,
-      "category": "时尚"
+      "raw_hot": 115093,
+      "num": 115093,
+      "word": "恋爱兄妹三女会审一男好窒息",
+      "onboard_time": 1742981541,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 114867,
@@ -1689,14 +1705,6 @@
       "onboard_time": 1742898741,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112596,
-      "num": 112596,
-      "word": "猫眼美甲",
-      "onboard_time": 1742980642,
-      "rank": 43,
-      "category": "美妆"
     },
     {
       "raw_hot": 110824,
@@ -1755,6 +1763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107063,
+      "num": 107063,
+      "word": "夏天一到音综都吻了上来",
+      "onboard_time": 1742981602,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 106832,
       "num": 106832,
       "word": "王宝强新剧黑强惨人设",
@@ -1771,8 +1787,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104077,
+      "num": 171943,
+      "word": "临期食品变剩菜盲盒被疯抢",
+      "onboard_time": 1742977341,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101776,
-      "num": 101776,
+      "num": 287574,
       "word": "T1回应Zeus转会风波",
       "onboard_time": 1742980341,
       "rank": 48,
@@ -2083,12 +2107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64429,
-      "num": 171943,
-      "word": "临期食品变剩菜盲盒被疯抢",
-      "onboard_time": 1742977341,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 64345,
+      "num": 112360,
+      "word": "韩代总统下令部署所有可用资源灭山火",
+      "onboard_time": 1742981960,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 64048,
@@ -2187,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47092,
+      "num": 357044,
+      "word": "女幼师遇害案二审维持死刑原判",
+      "onboard_time": 1742981421,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46468,
       "num": 265706,
       "word": "中国地震局启动廊坊地震应急响应",
@@ -2265,6 +2297,14 @@
       "onboard_time": 1742960481,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 37078,
+      "num": 352233,
+      "word": "专访棋士主演王宝强",
+      "onboard_time": 1742980161,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 36858,
@@ -2377,14 +2417,6 @@
       "onboard_time": 1742963723,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21804,
-      "num": 352233,
-      "word": "专访棋士主演王宝强",
-      "onboard_time": 1742980161,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 21223,
