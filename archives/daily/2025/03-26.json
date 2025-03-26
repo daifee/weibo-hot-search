@@ -1,6 +1,6 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742978710086,
+  "endTime": 1742981189351,
   "band_list": [
     {
       "raw_hot": 2360636,
@@ -107,8 +107,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1339472,
+      "num": 1339472,
+      "word": "免去周继红国家跳水队领队职务",
+      "onboard_time": 1742979321,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1257899,
-      "num": 393824,
+      "num": 459695,
       "word": "男演员赵骏亚承认家暴",
       "onboard_time": 1742974941,
       "rank": 5,
@@ -153,6 +161,14 @@
       "onboard_time": 1742956460,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 999903,
+      "num": 999903,
+      "word": "哪吒之魔童闹海票房破150亿",
+      "onboard_time": 1742979621,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 807987,
@@ -251,6 +267,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 633879,
+      "num": 456043,
+      "word": "张新成到底换了多少套衣服捏粘土",
+      "onboard_time": 1742978061,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 620693,
       "num": 603080,
       "word": "感觉半个娱乐圈都来武汉了",
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 580537,
-      "num": 326553,
+      "num": 357791,
       "word": "于正回应白鹿告别文错字",
       "onboard_time": 1742976081,
       "rank": 10,
@@ -377,6 +401,14 @@
       "onboard_time": 1742955201,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 436854,
+      "num": 436854,
+      "word": "周继红退休",
+      "onboard_time": 1742979141,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 433737,
@@ -483,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 391631,
+      "num": 353931,
+      "word": "于小彤看起来不像演的",
+      "onboard_time": 1742979501,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386564,
       "num": 386564,
       "word": "关晓彤久违的好天气和春天的剧组餐",
@@ -537,6 +577,14 @@
       "onboard_time": 1742954961,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 358940,
+      "num": 358940,
+      "word": "山西订婚强奸案必须厘清三大疑点",
+      "onboard_time": 1742978421,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357550,
@@ -683,20 +731,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261854,
+      "num": 261854,
+      "word": "李晟会是第二个王心凌吗",
+      "onboard_time": 1742976142,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254210,
       "num": 254210,
       "word": "国足 辱追",
       "onboard_time": 1742907563,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251891,
-      "num": 223698,
-      "word": "李晟会是第二个王心凌吗",
-      "onboard_time": 1742976142,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 250738,
@@ -883,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197269,
-      "num": 225058,
-      "word": "张新成到底换了多少套衣服捏粘土",
-      "onboard_time": 1742978061,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196852,
       "num": 196852,
       "word": "出租屋藏着故意设计的杀人陷阱",
@@ -979,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182419,
+      "num": 182419,
+      "word": "成毅白发战损",
+      "onboard_time": 1742980881,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182035,
       "num": 182035,
       "word": "阴阳师",
@@ -1019,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174904,
+      "num": 263820,
+      "word": "坠亡女童生母称保姆女儿步步紧逼",
+      "onboard_time": 1742979861,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174452,
       "num": 174452,
       "word": "唐嫣高定look",
@@ -1041,6 +1097,14 @@
       "onboard_time": 1742953281,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 170706,
+      "num": 170706,
+      "word": "这是停猫位吗",
+      "onboard_time": 1742979082,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 170429,
@@ -1081,6 +1145,14 @@
       "onboard_time": 1742949443,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160550,
+      "num": 160550,
+      "word": "奔跑吧直播",
+      "onboard_time": 1742980401,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 160101,
@@ -1129,6 +1201,22 @@
       "onboard_time": 1742959704,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154951,
+      "num": 154951,
+      "word": "奔跑吧",
+      "onboard_time": 1742958920,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154104,
+      "num": 154104,
+      "word": "易烊千玺摆手提醒粉丝",
+      "onboard_time": 1742980522,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 151585,
@@ -1201,6 +1289,14 @@
       "onboard_time": 1742975361,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141102,
+      "num": 141102,
+      "word": "女生低成本补气血的小tips",
+      "onboard_time": 1742975542,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 140673,
@@ -1299,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132472,
+      "num": 223768,
+      "word": "官方回应公司被指无午休上班不得离开",
+      "onboard_time": 1742977703,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132105,
       "num": 132105,
       "word": "徐璐特邀领衔主演长安二十四计",
@@ -1339,20 +1443,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128897,
+      "num": 128897,
+      "word": "孙颖莎合影比耶",
+      "onboard_time": 1742977281,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128277,
       "num": 185083,
       "word": "她没有叫她庄夫人而是阮小姐",
       "onboard_time": 1742910744,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127135,
-      "num": 127135,
-      "word": "女生低成本补气血的小tips",
-      "onboard_time": 1742975542,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 126975,
@@ -1385,14 +1489,6 @@
       "onboard_time": 1742978362,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 125143,
-      "num": 125143,
-      "word": "孙颖莎合影比耶",
-      "onboard_time": 1742977281,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 124447,
@@ -1449,6 +1545,14 @@
       "onboard_time": 1742957960,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122114,
+      "num": 153522,
+      "word": "特朗普索要2000亿台积电能扛多久",
+      "onboard_time": 1742979799,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121808,
@@ -1547,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115041,
+      "num": 115041,
+      "word": "又该穿洞洞鞋了",
+      "onboard_time": 1742980581,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 114867,
       "num": 114867,
       "word": "英菲尼迪起诉王力宏西东音乐",
@@ -1577,6 +1689,14 @@
       "onboard_time": 1742898741,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112596,
+      "num": 112596,
+      "word": "猫眼美甲",
+      "onboard_time": 1742980642,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 110824,
@@ -1651,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101776,
+      "num": 101776,
+      "word": "T1回应Zeus转会风波",
+      "onboard_time": 1742980341,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101427,
       "num": 101427,
       "word": "河北震感",
@@ -1673,6 +1801,14 @@
       "onboard_time": 1742973621,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99728,
+      "num": 99728,
+      "word": "羽衣甘蓝价格",
+      "onboard_time": 1742980102,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 99559,
@@ -1867,6 +2003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76789,
+      "num": 187479,
+      "word": "檀健次蜡像武汉巡展",
+      "onboard_time": 1742979741,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75598,
       "num": 75598,
       "word": "文在寅父女双双被检方调查",
@@ -1884,7 +2028,7 @@
     },
     {
       "raw_hot": 74964,
-      "num": 846219,
+      "num": 1061810,
       "word": "春季9个重要健康提示",
       "onboard_time": 1742963723,
       "rank": 2,
@@ -2017,14 +2161,6 @@
       "onboard_time": 1742974041,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 49907,
-      "num": 223768,
-      "word": "官方回应公司被指无午休上班不得离开",
-      "onboard_time": 1742977703,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49795,
@@ -2243,20 +2379,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21804,
+      "num": 352233,
+      "word": "专访棋士主演王宝强",
+      "onboard_time": 1742980161,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21223,
       "num": 224501,
       "word": "德国两党正谈判组建新政府",
       "onboard_time": 1742964023,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19396,
-      "num": 165303,
-      "word": "山西订婚强奸案必须厘清三大疑点",
-      "onboard_time": 1742978421,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19335,
