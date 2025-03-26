@@ -1,0 +1,410 @@
+{
+  "runTime": 1742994191554,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1035695,
+        "num": 1165711,
+        "word": "傅云夕女儿 亲生",
+        "onboard_time": 1742988141,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482098,
+        "num": 482098,
+        "word": "晒工资被开除山姆试吃员签保密协议",
+        "onboard_time": 1742973742,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52599,
+        "num": 345861,
+        "word": "发电机变身高颜值花朵形状",
+        "onboard_time": 1742992042,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311673,
+        "num": 311673,
+        "word": "长沙吸引人才不能影响教育公平",
+        "onboard_time": 1742990482,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297013,
+        "num": 297013,
+        "word": "李晟回应断层第一",
+        "onboard_time": 1742961921,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281716,
+        "num": 281716,
+        "word": "免去周继红国家跳水队领队职务",
+        "onboard_time": 1742979321,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287100,
+        "num": 279114,
+        "word": "辛云来 瘦若两人",
+        "onboard_time": 1742990362,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267112,
+        "num": 267112,
+        "word": "哪吒之魔童闹海票房破150亿",
+        "onboard_time": 1742979621,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265604,
+        "num": 265604,
+        "word": "雁回时编剧",
+        "onboard_time": 1742993242,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60844,
+        "num": 265048,
+        "word": "美群聊泄密听证会吵起来了",
+        "onboard_time": 1742993242,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2257831,
+        "num": 264349,
+        "word": "曾黎闲鱼",
+        "onboard_time": 1742989281,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683600,
+        "num": 263360,
+        "word": "被碾压致死5岁女童家属出具谅解书",
+        "onboard_time": 1742989281,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465087,
+        "num": 263200,
+        "word": "黄子佼承认持有7名少女非法影片",
+        "onboard_time": 1742989400,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262610,
+        "num": 262610,
+        "word": "警方通报高铁脱鞋放脚打人男被行拘",
+        "onboard_time": 1742992702,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 247075,
+        "num": 247075,
+        "word": "网购小狗遭拒收快递员无奈收养4只",
+        "onboard_time": 1742988801,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422571,
+        "num": 246881,
+        "word": "粉丝称送曾黎的徽章被挂二手平台",
+        "onboard_time": 1742992702,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404989,
+        "num": 246578,
+        "word": "祝绪丹神女执弓",
+        "onboard_time": 1742989341,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105496,
+        "num": 246098,
+        "word": "赵子豪4比1刘丁硕",
+        "onboard_time": 1742993480,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182801,
+        "num": 245941,
+        "word": "乘风直播",
+        "onboard_time": 1742993662,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25521,
+        "num": 245638,
+        "word": "上海青浦惊现二师兄当街奔跑",
+        "onboard_time": 1742993242,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245371,
+        "num": 245371,
+        "word": "昀牵孟绕",
+        "onboard_time": 1742984301,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244136,
+        "num": 244136,
+        "word": "刘诗诗出席Qeelin晚宴",
+        "onboard_time": 1742993061,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238101,
+        "num": 238101,
+        "word": "芒果TV调整会员同时使用设备数",
+        "onboard_time": 1742983342,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 236225,
+        "num": 236225,
+        "word": "Rookie拿到中国绿卡",
+        "onboard_time": 1742982080,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 235284,
+        "num": 235284,
+        "word": "辛云来粉底液避雷",
+        "onboard_time": 1742992222,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210913,
+        "num": 210913,
+        "word": "李晟人甚至不能共情当年的自己",
+        "onboard_time": 1742993662,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196133,
+        "num": 196133,
+        "word": "吴宣仪舞蹈solo",
+        "onboard_time": 1742992820,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194084,
+        "num": 194084,
+        "word": "赴山海 备播",
+        "onboard_time": 1742993721,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190098,
+        "num": 190098,
+        "word": "沙溢 美黑",
+        "onboard_time": 1742984662,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15896,
+        "num": 182140,
+        "word": "回顾周继红生涯成就",
+        "onboard_time": 1742993480,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174621,
+        "num": 174621,
+        "word": "刘诗诗红色羽毛高定",
+        "onboard_time": 1742986461,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 160897,
+        "num": 160897,
+        "word": "高铁脱鞋打人男子被行拘",
+        "onboard_time": 1742993001,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158425,
+        "num": 158425,
+        "word": "号称3天减10斤减肥产品含利尿剂",
+        "onboard_time": 1742987660,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134368,
+        "num": 134368,
+        "word": "曹颖倪虹洁都以为吴宣仪20岁",
+        "onboard_time": 1742986161,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132367,
+        "num": 132367,
+        "word": "雁回时",
+        "onboard_time": 1742982922,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43208,
+        "num": 131141,
+        "word": "跟着小米15Ultra打卡全国",
+        "onboard_time": 1742989702,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130481,
+        "num": 130481,
+        "word": "棋士",
+        "onboard_time": 1742990362,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120911,
+        "num": 120911,
+        "word": "雁回时男主娶过大姐",
+        "onboard_time": 1742989341,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124740,
+        "num": 120611,
+        "word": "王宝强演技",
+        "onboard_time": 1742992580,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117678,
+        "num": 117678,
+        "word": "李娜退役10年人气依旧爆棚",
+        "onboard_time": 1742991202,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116917,
+        "num": 116917,
+        "word": "发明香肠薯片的人真是个天才",
+        "onboard_time": 1742992521,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115679,
+        "num": 115679,
+        "word": "2025新剧扎堆",
+        "onboard_time": 1742969841,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115086,
+        "num": 115086,
+        "word": "腾讯视频2025待播大剧片单",
+        "onboard_time": 1742987421,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113825,
+        "num": 113825,
+        "word": "北控男篮vs辽宁男篮",
+        "onboard_time": 1742993001,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113387,
+        "num": 113387,
+        "word": "傅首尔演还珠格格",
+        "onboard_time": 1742992042,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112730,
+        "num": 112730,
+        "word": "女生低成本补气血的小tips",
+        "onboard_time": 1742975542,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110539,
+        "num": 110539,
+        "word": "Qeelin高级珠宝展",
+        "onboard_time": 1742993902,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 107540,
+        "num": 107540,
+        "word": "又贵又难吃的羽衣甘蓝被疯抢",
+        "onboard_time": 1742967021,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99664,
+        "num": 99664,
+        "word": "易烊千玺摆手提醒粉丝",
+        "onboard_time": 1742980522,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94775,
+        "num": 94775,
+        "word": "樊振东现场观看MLB开幕战",
+        "onboard_time": 1742991022,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一碗水的牵挂#"
+    }
+  }
+}

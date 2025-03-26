@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742993260446,
+  "endTime": 1742994191554,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2658214,
-      "num": 232143,
+      "num": 264349,
       "word": "曾黎闲鱼",
       "onboard_time": 1742989281,
       "rank": 10,
@@ -651,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1035695,
+      "num": 1165711,
+      "word": "傅云夕女儿 亲生",
+      "onboard_time": 1742988141,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1026068,
       "num": 328831,
       "word": "杨祐宁老婆官宣怀三胎",
@@ -681,14 +689,6 @@
       "onboard_time": 1742979621,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 984357,
-      "num": 1157497,
-      "word": "傅云夕女儿 亲生",
-      "onboard_time": 1742988141,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 982432,
@@ -1163,6 +1163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 683600,
+      "num": 263360,
+      "word": "被碾压致死5岁女童家属出具谅解书",
+      "onboard_time": 1742989281,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 682092,
       "num": 682092,
       "word": "张本智和官宣入职丰田",
@@ -1340,7 +1348,7 @@
     },
     {
       "raw_hot": 628254,
-      "num": 229850,
+      "num": 263200,
       "word": "黄子佼承认持有7名少女非法影片",
       "onboard_time": 1742989400,
       "rank": 11,
@@ -1472,14 +1480,6 @@
       "word": "上3休2再上4休3",
       "onboard_time": 1742893761,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 592998,
-      "num": 227172,
-      "word": "被碾压致死5岁女童家属出具谅解书",
-      "onboard_time": 1742989281,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -1756,7 +1756,7 @@
     },
     {
       "raw_hot": 513710,
-      "num": 226011,
+      "num": 279114,
       "word": "辛云来 瘦若两人",
       "onboard_time": 1742990362,
       "rank": 13,
@@ -2275,6 +2275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422571,
+      "num": 246881,
+      "word": "粉丝称送曾黎的徽章被挂二手平台",
+      "onboard_time": 1742992702,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420590,
       "num": 420590,
       "word": "博士生月薪1500元系印刷错误",
@@ -2401,6 +2409,14 @@
       "onboard_time": 1742896461,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 404989,
+      "num": 246578,
+      "word": "祝绪丹神女执弓",
+      "onboard_time": 1742989341,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 404225,
@@ -3723,6 +3739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 265604,
+      "num": 265604,
+      "word": "雁回时编剧",
+      "onboard_time": 1742993242,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265216,
       "num": 265216,
       "word": "胖东来公开人员流失率",
@@ -3745,6 +3769,14 @@
       "onboard_time": 1742647881,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 262610,
+      "num": 262610,
+      "word": "警方通报高铁脱鞋放脚打人男被行拘",
+      "onboard_time": 1742992702,
+      "rank": 38,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 262279,
@@ -3891,6 +3923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247075,
+      "num": 247075,
+      "word": "网购小狗遭拒收快递员无奈收养4只",
+      "onboard_time": 1742988801,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246697,
       "num": 246697,
       "word": "美军空袭也门计划离谱泄密",
@@ -3929,6 +3969,14 @@
       "onboard_time": 1742729707,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244136,
+      "num": 244136,
+      "word": "刘诗诗出席Qeelin晚宴",
+      "onboard_time": 1742993061,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 242684,
@@ -4097,6 +4145,14 @@
       "onboard_time": 1742741601,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 235284,
+      "num": 235284,
+      "word": "辛云来粉底液避雷",
+      "onboard_time": 1742992222,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 234395,
@@ -4467,14 +4523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 214298,
-      "num": 214298,
-      "word": "网购小狗遭拒收快递员无奈收养4只",
-      "onboard_time": 1742988801,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214237,
       "num": 214237,
       "word": "网传医院工作人员疑私下处理胎盘",
@@ -4571,20 +4619,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211746,
-      "num": 198025,
-      "word": "刘诗诗出席Qeelin晚宴",
-      "onboard_time": 1742993061,
-      "rank": 20,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 210981,
       "num": 199521,
       "word": "没有断尾处理过的长毛柯基",
       "onboard_time": 1742794762,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210913,
+      "num": 210913,
+      "word": "李晟人甚至不能共情当年的自己",
+      "onboard_time": 1742993662,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 209822,
@@ -5011,28 +5059,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 198296,
-      "num": 198296,
-      "word": "粉丝称送曾黎的徽章被挂二手平台",
-      "onboard_time": 1742992702,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198214,
       "num": 340798,
       "word": "孙杨时隔5年重上高原训练被练哭3次",
       "onboard_time": 1742823804,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198001,
-      "num": 198001,
-      "word": "辛云来粉底液避雷",
-      "onboard_time": 1742992222,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 197441,
@@ -5089,6 +5121,14 @@
       "onboard_time": 1742963482,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196133,
+      "num": 196133,
+      "word": "吴宣仪舞蹈solo",
+      "onboard_time": 1742992820,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 195945,
@@ -5177,6 +5217,14 @@
       "onboard_time": 1742720479,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194084,
+      "num": 194084,
+      "word": "赴山海 备播",
+      "onboard_time": 1742993721,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 193139,
@@ -5561,6 +5609,14 @@
       "onboard_time": 1742694260,
       "rank": 32,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 182801,
+      "num": 245941,
+      "word": "乘风直播",
+      "onboard_time": 1742993662,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 182753,
@@ -6345,6 +6401,14 @@
       "onboard_time": 1742873000,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160897,
+      "num": 160897,
+      "word": "高铁脱鞋打人男子被行拘",
+      "onboard_time": 1742993001,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160742,
@@ -7419,14 +7483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140599,
-      "num": 140599,
-      "word": "祝绪丹神女执弓",
-      "onboard_time": 1742989341,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140300,
       "num": 140300,
       "word": "我是恋综观众我同意梁庭cp在一起",
@@ -8371,6 +8427,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 124740,
+      "num": 123825,
+      "word": "王宝强演技",
+      "onboard_time": 1742992580,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124527,
       "num": 124527,
       "word": "傅菁身在演唱会心在雁回时",
@@ -8441,14 +8505,6 @@
       "onboard_time": 1742794344,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 123825,
-      "num": 123825,
-      "word": "王宝强演技",
-      "onboard_time": 1742992580,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 123542,
@@ -8601,14 +8657,6 @@
       "onboard_time": 1742979799,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 122109,
-      "num": 122109,
-      "word": "高铁脱鞋打人男子被行拘",
-      "onboard_time": 1742993001,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121951,
@@ -8777,14 +8825,6 @@
       "onboard_time": 1742804421,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119479,
-      "num": 119479,
-      "word": "警方通报高铁脱鞋放脚打人男被行拘",
-      "onboard_time": 1742992702,
-      "rank": 38,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 119379,
@@ -9059,14 +9099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114518,
-      "num": 114518,
-      "word": "雁回时编剧",
-      "onboard_time": 1742993242,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114398,
       "num": 323068,
       "word": "邓超孙俪现身上海F1大奖赛",
@@ -9275,6 +9307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110539,
+      "num": 110539,
+      "word": "Qeelin高级珠宝展",
+      "onboard_time": 1742993902,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 110275,
       "num": 110275,
       "word": "樊振东现场观看MLB开幕战",
@@ -9313,14 +9353,6 @@
       "onboard_time": 1742901140,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109884,
-      "num": 109884,
-      "word": "吴宣仪舞蹈solo",
-      "onboard_time": 1742992820,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 109633,
@@ -9681,6 +9713,14 @@
       "onboard_time": 1742914943,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 105496,
+      "num": 246098,
+      "word": "赵子豪4比1刘丁硕",
+      "onboard_time": 1742993480,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 105473,
@@ -11459,6 +11499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60844,
+      "num": 265048,
+      "word": "美群聊泄密听证会吵起来了",
+      "onboard_time": 1742993242,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60835,
       "num": 165718,
       "word": "生母男友曾咨询亲妈打死娃是否负责",
@@ -11697,6 +11745,14 @@
       "onboard_time": 1742646021,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52599,
+      "num": 345861,
+      "word": "发电机变身高颜值花朵形状",
+      "onboard_time": 1742992042,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51892,
@@ -12019,14 +12075,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 42838,
-      "num": 335869,
-      "word": "发电机变身高颜值花朵形状",
-      "onboard_time": 1742992042,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42741,
       "num": 128117,
       "word": "赵丽娜为国足接好运",
@@ -12337,14 +12385,6 @@
       "onboard_time": 1742939714,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35890,
-      "num": 117629,
-      "word": "美群聊泄密听证会吵起来了",
-      "onboard_time": 1742993242,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 35455,
@@ -12891,6 +12931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25521,
+      "num": 245638,
+      "word": "上海青浦惊现二师兄当街奔跑",
+      "onboard_time": 1742993242,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25207,
       "num": 30730,
       "word": "我国首次举办世界室内田径锦标赛",
@@ -13267,6 +13315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15896,
+      "num": 182140,
+      "word": "回顾周继红生涯成就",
+      "onboard_time": 1742993480,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15709,
       "num": 20987,
       "word": "谢浩男称自己短暂干过保安",
@@ -13497,14 +13553,6 @@
       "onboard_time": 1742751436,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8114,
-      "num": 109954,
-      "word": "上海青浦惊现二师兄当街奔跑",
-      "onboard_time": 1742993242,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7884,
