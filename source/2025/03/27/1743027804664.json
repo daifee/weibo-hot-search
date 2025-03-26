@@ -1,0 +1,410 @@
+{
+  "runTime": 1743027804664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 451933,
+        "num": 451933,
+        "word": "印度遭奸杀女医生案内幕曝光",
+        "onboard_time": 1743002601,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 253773,
+        "num": 253773,
+        "word": "找17岁女孩代孕男子领孩子多付20万",
+        "onboard_time": 1743007158,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13423,
+        "num": 210463,
+        "word": "网络视听成全网民的数字空气",
+        "onboard_time": 1742985381,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187859,
+        "num": 187859,
+        "word": "防水冲锋衣可能影响女性怀孕",
+        "onboard_time": 1743000863,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99988,
+        "num": 99988,
+        "word": "店长回应早产儿蛋糕已下架销毁",
+        "onboard_time": 1743000323,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78540,
+        "num": 78540,
+        "word": "莲花味精辟谣穷得只剩一栋办公楼",
+        "onboard_time": 1742996482,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77182,
+        "num": 77182,
+        "word": "刘晓庆回应演短剧遭朋友质疑丢人",
+        "onboard_time": 1742999663,
+        "rank": 6,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 65680,
+        "num": 65680,
+        "word": "错误洗头方式会导致脂溢性皮炎",
+        "onboard_time": 1742994321,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 57943,
+        "num": 57943,
+        "word": "王宝强脚趾抠地追剧",
+        "onboard_time": 1743004520,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50990,
+        "num": 50990,
+        "word": "白宫泄密群聊完整记录公布",
+        "onboard_time": 1743001462,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200896,
+        "num": 50646,
+        "word": "张檬自曝孕35周臀位绕颈",
+        "onboard_time": 1743000382,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124897,
+        "num": 48956,
+        "word": "纽约丈夫曝金赛纶给自己的信",
+        "onboard_time": 1742996482,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56320,
+        "num": 48447,
+        "word": "辛云来疯子",
+        "onboard_time": 1743005779,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46431,
+        "num": 46431,
+        "word": "娜扎猜猜头上有多少个卡子",
+        "onboard_time": 1743005960,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45108,
+        "num": 45108,
+        "word": "吴宣仪宋妍霏合跳kisskissshyshy",
+        "onboard_time": 1743006798,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44981,
+        "num": 44981,
+        "word": "拔牙坠楼身亡女子家属最新发声",
+        "onboard_time": 1743001042,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44940,
+        "num": 44940,
+        "word": "曾黎闲鱼",
+        "onboard_time": 1742989281,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49065,
+        "num": 42896,
+        "word": "陈都灵晒辛云来煮的米线",
+        "onboard_time": 1743003022,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40131,
+        "num": 40131,
+        "word": "潘粤明评国足8场6败",
+        "onboard_time": 1743008178,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 37715,
+        "num": 37715,
+        "word": "梁田和混血弟弟纯正年下感",
+        "onboard_time": 1742996722,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41355,
+        "num": 36649,
+        "word": "小伙靠书法帮父母清债2000万",
+        "onboard_time": 1743001223,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34304,
+        "num": 34304,
+        "word": "大16岁女友离世被赶出门男子发声",
+        "onboard_time": 1742995400,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32220,
+        "num": 32220,
+        "word": "黄子佼承认持有7名少女非法影片",
+        "onboard_time": 1742989400,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30087,
+        "num": 30087,
+        "word": "祝绪丹神女执弓",
+        "onboard_time": 1742989341,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29380,
+        "num": 29380,
+        "word": "湖南卫视重映新还珠格格",
+        "onboard_time": 1742995702,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28105,
+        "num": 28105,
+        "word": "警方通报高铁脱鞋放脚打人男被行拘",
+        "onboard_time": 1742992702,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 27932,
+        "num": 27932,
+        "word": "短剧家里家外拍摄17天成本仅300万",
+        "onboard_time": 1743002962,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27917,
+        "num": 27917,
+        "word": "赴山海 备播",
+        "onboard_time": 1742993721,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29368,
+        "num": 27691,
+        "word": "祝绪丹当着侯佩岑的面说喜欢周杰伦",
+        "onboard_time": 1743000142,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23173,
+        "num": 27466,
+        "word": "俄乌停火协议最新进展",
+        "onboard_time": 1743006559,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27456,
+        "num": 27456,
+        "word": "被碾压致死5岁女童家属出具谅解书",
+        "onboard_time": 1742989281,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25917,
+        "num": 25917,
+        "word": "考北大的意义在这一刻具像化了",
+        "onboard_time": 1743001881,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23437,
+        "num": 23437,
+        "word": "沈阳多家公司被指要求求职者无薪试岗",
+        "onboard_time": 1743003022,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22491,
+        "num": 22491,
+        "word": "傅云夕女儿 亲生",
+        "onboard_time": 1742988141,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22270,
+        "num": 22270,
+        "word": "学校称虐猫致死男生在接受心理治疗",
+        "onboard_time": 1743022994,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21737,
+        "num": 21737,
+        "word": "萨摩耶绝育后的哭声响彻整个医院",
+        "onboard_time": 1743001223,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21427,
+        "num": 21427,
+        "word": "喜酒吃到一半一群医护冲刺救人",
+        "onboard_time": 1743012136,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 21390,
+        "num": 21390,
+        "word": "乘风2025姐姐乘风值",
+        "onboard_time": 1743011835,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20250,
+        "num": 20250,
+        "word": "西藏日喀则定日发生3.4级地震",
+        "onboard_time": 1742996482,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19367,
+        "num": 19367,
+        "word": "世界上最顶尖的大学排名",
+        "onboard_time": 1743009856,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19140,
+        "num": 19140,
+        "word": "谢淮安谋士人设",
+        "onboard_time": 1743013154,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17832,
+        "num": 17832,
+        "word": "李晟拉高收视率",
+        "onboard_time": 1743004640,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16907,
+        "num": 16907,
+        "word": "美高官群聊完整记录公布",
+        "onboard_time": 1743001582,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16800,
+        "num": 16800,
+        "word": "短视频应用人均单日使用156分钟",
+        "onboard_time": 1743005360,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16215,
+        "num": 16800,
+        "word": "蜜雪集团2024年利润44.542亿元",
+        "onboard_time": 1742999542,
+        "rank": 44,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 15342,
+        "num": 16800,
+        "word": "0.03元开通试用后每个月被扣近百元",
+        "onboard_time": 1743027676,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16528,
+        "num": 16800,
+        "word": "新还珠格格的歌大部分是李晟唱的",
+        "onboard_time": 1743027135,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15053,
+        "num": 16800,
+        "word": "睡觉时遇到地震咋办",
+        "onboard_time": 1742996542,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13411,
+        "num": 16800,
+        "word": "地震逃生千万别坐电梯",
+        "onboard_time": 1743009435,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11945,
+        "num": 16799,
+        "word": "第五人格",
+        "onboard_time": 1743003801,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#八项规定是共产党人应做到的基本要求#"
+    }
+  }
+}
