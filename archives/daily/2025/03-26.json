@@ -1,6 +1,6 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742977924481,
+  "endTime": 1742978710086,
   "band_list": [
     {
       "raw_hot": 2360636,
@@ -107,7 +107,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1253214,
+      "raw_hot": 1257899,
       "num": 393824,
       "word": "男演员赵骏亚承认家暴",
       "onboard_time": 1742974941,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 580537,
+      "num": 326553,
+      "word": "于正回应白鹿告别文错字",
+      "onboard_time": 1742976081,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561386,
       "num": 561386,
       "word": "招商银行人均薪酬降至60万元以内",
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 526933,
+      "num": 526933,
+      "word": "幸亏梁田会主持",
+      "onboard_time": 1742977820,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509243,
       "num": 509243,
       "word": "天津震感",
@@ -337,14 +353,6 @@
       "onboard_time": 1742923998,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 497345,
-      "num": 269252,
-      "word": "于正回应白鹿告别文错字",
-      "onboard_time": 1742976081,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 489844,
@@ -555,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338462,
+      "num": 338462,
+      "word": "公司补偿晒工资被开除试吃员2900元",
+      "onboard_time": 1742972841,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335207,
       "num": 335207,
       "word": "河北廊坊地震",
@@ -585,6 +601,14 @@
       "onboard_time": 1742914584,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 296894,
+      "num": 296894,
+      "word": "花4880元学剪辑月赚47.84元",
+      "onboard_time": 1742972902,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293985,
@@ -643,14 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267467,
-      "num": 267467,
-      "word": "花4880元学剪辑月赚47.84元",
-      "onboard_time": 1742972902,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 264399,
       "num": 321187,
       "word": "辛云来雁回时换发套了",
@@ -667,20 +683,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 257478,
-      "num": 257478,
-      "word": "公司补偿晒工资被开除试吃员2900元",
-      "onboard_time": 1742972841,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 254210,
       "num": 254210,
       "word": "国足 辱追",
       "onboard_time": 1742907563,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251891,
+      "num": 223698,
+      "word": "李晟会是第二个王心凌吗",
+      "onboard_time": 1742976142,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 250738,
@@ -715,20 +731,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241751,
-      "num": 216486,
-      "word": "李晟会是第二个王心凌吗",
-      "onboard_time": 1742976142,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240287,
       "num": 355713,
       "word": "唐嫣回应回归仙侠剧",
       "onboard_time": 1742955802,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238689,
+      "num": 238689,
+      "word": "李昀锐奔跑吧录制",
+      "onboard_time": 1742973861,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 234395,
@@ -793,14 +809,6 @@
       "onboard_time": 1742963782,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211584,
-      "num": 211584,
-      "word": "李昀锐奔跑吧录制",
-      "onboard_time": 1742973861,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 209278,
@@ -875,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197269,
+      "num": 225058,
+      "word": "张新成到底换了多少套衣服捏粘土",
+      "onboard_time": 1742978061,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196852,
       "num": 196852,
       "word": "出租屋藏着故意设计的杀人陷阱",
@@ -923,14 +939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189220,
-      "num": 189220,
-      "word": "幸亏梁田会主持",
-      "onboard_time": 1742977820,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187339,
       "num": 187339,
       "word": "发现甄嬛传皇后为了人设改了三次妆",
@@ -961,6 +969,14 @@
       "onboard_time": 1742912663,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 184350,
+      "num": 184350,
+      "word": "辽宁省人民医院被警告",
+      "onboard_time": 1742977221,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182035,
@@ -1065,14 +1081,6 @@
       "onboard_time": 1742949443,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161436,
-      "num": 161436,
-      "word": "辽宁省人民医院被警告",
-      "onboard_time": 1742977221,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160101,
@@ -1203,8 +1211,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140620,
+      "num": 140620,
+      "word": "张凌赫上英语二模试卷了",
+      "onboard_time": 1742975661,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140057,
-      "num": 216708,
+      "num": 335715,
       "word": "周深说想把中文音乐唱给更多人听",
       "onboard_time": 1742971461,
       "rank": 40,
@@ -1331,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127135,
+      "num": 127135,
+      "word": "女生低成本补气血的小tips",
+      "onboard_time": 1742975542,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126975,
       "num": 209465,
       "word": "台湾海峡不存在所谓的国际水域",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1742960843,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125353,
+      "num": 125353,
+      "word": "华晨宇2025年首个火星演唱会乐园场",
+      "onboard_time": 1742978362,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 125143,
@@ -1443,6 +1475,14 @@
       "category": "民生新闻,运动健身"
     },
     {
+      "raw_hot": 119228,
+      "num": 218610,
+      "word": "老人养老院走失后车祸身亡家属发声",
+      "onboard_time": 1742976502,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119172,
       "num": 119172,
       "word": "气温先升后降到底要怎么穿",
@@ -1459,28 +1499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118431,
-      "num": 118431,
-      "word": "张凌赫上英语二模试卷了",
-      "onboard_time": 1742975661,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118325,
       "num": 118325,
       "word": "雷军说英语不好让母校蒙羞了",
       "onboard_time": 1742942897,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 117372,
-      "num": 117372,
-      "word": "女生低成本补气血的小tips",
-      "onboard_time": 1742975542,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 117084,
@@ -1601,6 +1625,14 @@
       "onboard_time": 1742918300,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107438,
+      "num": 107438,
+      "word": "拎出了一只小狗",
+      "onboard_time": 1742977582,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 106832,
@@ -1739,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86515,
+      "num": 86515,
+      "word": "鼋头渚夜樱",
+      "onboard_time": 1742978241,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 85356,
       "num": 172049,
       "word": "奔跑吧今天跑进湖北广电",
@@ -1816,14 +1856,6 @@
       "word": "订婚强奸案双方曾短暂达成一致",
       "onboard_time": 1742916621,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78556,
-      "num": 218610,
-      "word": "老人养老院走失后车祸身亡家属发声",
-      "onboard_time": 1742976502,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1907,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64429,
+      "num": 171943,
+      "word": "临期食品变剩菜盲盒被疯抢",
+      "onboard_time": 1742977341,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64048,
       "num": 75173,
       "word": "王楚钦抵达北京",
@@ -1977,6 +2017,14 @@
       "onboard_time": 1742974041,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 49907,
+      "num": 223768,
+      "word": "官方回应公司被指无午休上班不得离开",
+      "onboard_time": 1742977703,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49795,
@@ -2171,14 +2219,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 26497,
-      "num": 171943,
-      "word": "临期食品变剩菜盲盒被疯抢",
-      "onboard_time": 1742977341,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26122,
       "num": 188187,
       "word": "P人如何无痛出国赏樱",
@@ -2211,20 +2251,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19396,
+      "num": 165303,
+      "word": "山西订婚强奸案必须厘清三大疑点",
+      "onboard_time": 1742978421,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19335,
       "num": 19335,
       "word": "春季叠穿技巧",
       "onboard_time": 1742934134,
       "rank": 47,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 19242,
-      "num": 212057,
-      "word": "官方回应公司被指无午休上班不得离开",
-      "onboard_time": 1742977703,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19075,
