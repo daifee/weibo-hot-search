@@ -1,7 +1,23 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742945839840,
+  "endTime": 1742953799432,
   "band_list": [
+    {
+      "raw_hot": 2040422,
+      "num": 2040422,
+      "word": "马拉松亲密事件拍摄者称不敢看评论",
+      "onboard_time": 1742949683,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1901184,
+      "num": 1901184,
+      "word": "德国政府解散",
+      "onboard_time": 1742947703,
+      "rank": 1,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 1737658,
       "num": 1737658,
@@ -27,8 +43,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1442283,
+      "num": 353801,
+      "word": "柯基打架输了气绝身亡",
+      "onboard_time": 1742948722,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1420851,
-      "num": 331188,
+      "num": 353650,
       "word": "金赛纶老公晒结婚证明",
       "onboard_time": 1742916443,
       "rank": 10,
@@ -52,7 +76,7 @@
     },
     {
       "raw_hot": 787207,
-      "num": 264760,
+      "num": 353435,
       "word": "李晟李佳航",
       "onboard_time": 1742915003,
       "rank": 13,
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 678909,
-      "num": 315897,
+      "num": 339787,
       "word": "苗苗郑恺搬家",
       "onboard_time": 1742916382,
       "rank": 12,
@@ -76,7 +100,7 @@
     },
     {
       "raw_hot": 649797,
-      "num": 269653,
+      "num": 328765,
       "word": "喜酒喝到一半结果新娘同事跑光了",
       "onboard_time": 1742945541,
       "rank": 11,
@@ -89,6 +113,14 @@
       "onboard_time": 1742914404,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 610140,
+      "num": 610140,
+      "word": "无锡马拉松承办单位回应野鸳鸯事件",
+      "onboard_time": 1742951600,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 534103,
@@ -123,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416783,
+      "num": 416783,
+      "word": "多囊卵巢综合征",
+      "onboard_time": 1742945541,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 399126,
       "num": 399126,
       "word": "被传患病网红夫妇质疑就餐后商场消杀",
@@ -147,6 +187,30 @@
       "category": "民生新闻,民生新闻"
     },
     {
+      "raw_hot": 369616,
+      "num": 369616,
+      "word": "高泰宇说肖战人品特别好",
+      "onboard_time": 1742949264,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362765,
+      "num": 311398,
+      "word": "医生称机洗内裤比手洗干净",
+      "onboard_time": 1742946322,
+      "rank": 20,
+      "category": "幽默,科学科普"
+    },
+    {
+      "raw_hot": 353172,
+      "num": 353172,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1742947643,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335207,
       "num": 335207,
       "word": "河北廊坊地震",
@@ -163,12 +227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306764,
+      "num": 306764,
+      "word": "网红滕顺强夫妇退网",
+      "onboard_time": 1742953281,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303973,
       "num": 218130,
       "word": "花非花雾非雾",
       "onboard_time": 1742914584,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289206,
+      "num": 324449,
+      "word": "全上海都在偶遇白敬亭",
+      "onboard_time": 1742951722,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 284671,
@@ -179,12 +259,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 278183,
+      "num": 278183,
+      "word": "新疆湖泊一半水一半冰奇观",
+      "onboard_time": 1742949202,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269637,
       "num": 163437,
       "word": "第一届浪姐就已经邀请阚清子了",
       "onboard_time": 1742914163,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264399,
+      "num": 321187,
+      "word": "辛云来雁回时换发套了",
+      "onboard_time": 1742950282,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 254210,
@@ -227,6 +323,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206977,
+      "num": 206977,
+      "word": "女子想再给骗子16万取回被骗的58万",
+      "onboard_time": 1742952561,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202749,
+      "num": 202749,
+      "word": "SK",
+      "onboard_time": 1742949504,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 196852,
+      "num": 196852,
+      "word": "出租屋藏着故意设计的杀人陷阱",
+      "onboard_time": 1742947162,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196576,
       "num": 119485,
       "word": "男德向王鹤棣道歉",
@@ -243,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189333,
-      "num": 118521,
-      "word": "多囊卵巢综合征",
-      "onboard_time": 1742945541,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 190046,
+      "num": 316097,
+      "word": "赵露思说是爱让她又活了一次",
+      "onboard_time": 1742952260,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 184728,
@@ -259,6 +379,38 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 181469,
+      "num": 181469,
+      "word": "曝iPhone17Air厚度为Pro的一半",
+      "onboard_time": 1742949983,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 178404,
+      "num": 198241,
+      "word": "刘诗诗东方淮竹真的要来了",
+      "onboard_time": 1742946741,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171737,
+      "num": 171737,
+      "word": "华南理工215名大学生被降级",
+      "onboard_time": 1742953281,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 170429,
+      "num": 170429,
+      "word": "男子为骗女主播将1元转账P成6500万",
+      "onboard_time": 1742949983,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156418,
       "num": 134818,
       "word": "跑男真把吴昕喊来了",
@@ -267,12 +419,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155065,
+      "num": 155065,
+      "word": "阿根廷vs巴西",
+      "onboard_time": 1742949443,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151585,
+      "num": 197119,
+      "word": "范丞丞 回归",
+      "onboard_time": 1742952741,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146793,
+      "num": 146793,
+      "word": "金秀贤即将公开的新料预告",
+      "onboard_time": 1742953641,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136783,
       "num": 108813,
       "word": "赵露思小小的勇气0片酬",
       "onboard_time": 1742897542,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135290,
+      "num": 135290,
+      "word": "廊坊地震余震已5次",
+      "onboard_time": 1742947883,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 134839,
+      "num": 172236,
+      "word": "逐玉",
+      "onboard_time": 1742950042,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 134718,
@@ -291,12 +483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130880,
+      "num": 130880,
+      "word": "国足球迷这次没有输",
+      "onboard_time": 1742952561,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128277,
       "num": 185083,
       "word": "她没有叫她庄夫人而是阮小姐",
       "onboard_time": 1742910744,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127592,
+      "num": 127592,
+      "word": "减重后近8成人群反弹",
+      "onboard_time": 1742952260,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 125942,
@@ -315,6 +523,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123412,
+      "num": 123412,
+      "word": "宝宝嬷嬷来了",
+      "onboard_time": 1742953041,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123210,
+      "num": 123210,
+      "word": "廊坊震区通信供电交通正常",
+      "onboard_time": 1742947402,
+      "rank": 45,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 120288,
       "num": 120288,
       "word": "终于知道许凯为什么抬头找粉丝了",
@@ -329,6 +553,14 @@
       "onboard_time": 1742894243,
       "rank": 42,
       "category": "民生新闻,运动健身"
+    },
+    {
+      "raw_hot": 118943,
+      "num": 118943,
+      "word": "张凌赫田曦薇逐玉一家三口路透",
+      "onboard_time": 1742947943,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 118325,
@@ -385,6 +617,14 @@
       "onboard_time": 1742924419,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99559,
+      "num": 120571,
+      "word": "泽连斯基称与俄谈判有2个最艰难问题",
+      "onboard_time": 1742949622,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96219,
@@ -523,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78051,
+      "num": 354161,
+      "word": "俄美会谈5项主要成果",
+      "onboard_time": 1742953401,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75598,
       "num": 75598,
       "word": "文在寅父女双双被检方调查",
@@ -643,20 +891,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30274,
+      "num": 1221142,
+      "word": "春天里的中国孕育丰收希望",
+      "onboard_time": 1742916323,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29927,
       "num": 29927,
       "word": "白鹿自己剪的花街回忆录",
       "onboard_time": 1742927416,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28971,
-      "num": 1221142,
-      "word": "春天里的中国孕育丰收希望",
-      "onboard_time": 1742916323,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28853,
