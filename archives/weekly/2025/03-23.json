@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742982026929,
+  "endTime": 1742984790222,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -1115,6 +1115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 685971,
+      "num": 685971,
+      "word": "Rookie拿到中国绿卡",
+      "onboard_time": 1742982080,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 682092,
       "num": 682092,
       "word": "张本智和官宣入职丰田",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1742958200,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 614083,
+      "num": 614083,
+      "word": "芒果TV调整会员同时使用设备数",
+      "onboard_time": 1742983342,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 611898,
@@ -1601,6 +1617,14 @@
       "onboard_time": 1742879243,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 539155,
+      "num": 539155,
+      "word": "孟子义李昀锐跑男直播",
+      "onboard_time": 1742983400,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 534103,
@@ -2427,6 +2451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382731,
+      "num": 515678,
+      "word": "雁回时",
+      "onboard_time": 1742636722,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 381275,
       "num": 381275,
       "word": "贵女 袁立文学",
@@ -2656,14 +2688,6 @@
       "word": "白日梦与她开播",
       "onboard_time": 1742791286,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 355446,
-      "num": 515678,
-      "word": "雁回时",
-      "onboard_time": 1742636722,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -4923,6 +4947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195372,
+      "num": 195372,
+      "word": "河北廊坊4.2级地震为何震感明显",
+      "onboard_time": 1742982922,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195283,
       "num": 324192,
       "word": "三只羊回应何时复播",
@@ -5835,6 +5867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165793,
+      "num": 165793,
+      "word": "杨紫公主头半扎发",
+      "onboard_time": 1742982922,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165265,
       "num": 165265,
       "word": "尤长靖高中竟然是学会计的",
@@ -5864,6 +5904,14 @@
       "word": "国家安全部通报发布跳槽人员提醒",
       "onboard_time": 1742860461,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164282,
+      "num": 195289,
+      "word": "火锅店添加罂粟当秘方老板获刑",
+      "onboard_time": 1742983521,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -6033,6 +6081,14 @@
       "onboard_time": 1742740101,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162002,
+      "num": 162002,
+      "word": "无畏cos空空儿",
+      "onboard_time": 1742982201,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 161855,
@@ -6369,6 +6425,14 @@
       "onboard_time": 1742696899,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155002,
+      "num": 155002,
+      "word": "甲亢哥首次尝试爆肚瞬间被征服",
+      "onboard_time": 1742982141,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154935,
@@ -7483,6 +7547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134316,
+      "num": 354242,
+      "word": "昀牵孟绕武汉合体录跑男",
+      "onboard_time": 1742983820,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134217,
       "num": 311725,
       "word": "武汉樱花文创冰箱贴已被抢到断货",
@@ -7971,6 +8043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126138,
+      "num": 357044,
+      "word": "女幼师遇害案二审维持死刑原判",
+      "onboard_time": 1742981421,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125830,
       "num": 125830,
       "word": "WBG对战GW",
@@ -8016,6 +8096,14 @@
       "word": "半熟恋人4官宣祝绪丹",
       "onboard_time": 1742889322,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125142,
+      "num": 125142,
+      "word": "昀牵孟绕",
+      "onboard_time": 1742984301,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -8179,6 +8267,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 123121,
+      "num": 123121,
+      "word": "宇宙异常或暗示地球可怕未来",
+      "onboard_time": 1742983581,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 122941,
       "num": 122941,
       "word": "3米层高适合越来越高的中国人",
@@ -8321,6 +8417,14 @@
       "onboard_time": 1742874921,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120506,
+      "num": 120506,
+      "word": "白鹿北上收官文案",
+      "onboard_time": 1742983161,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 120447,
@@ -8867,6 +8971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110370,
+      "num": 110370,
+      "word": "沙溢 美黑",
+      "onboard_time": 1742984662,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110201,
       "num": 110201,
       "word": "EMMA跳Jennie新歌",
@@ -9131,6 +9243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106893,
+      "num": 112360,
+      "word": "韩代总统下令部署所有可用资源灭山火",
+      "onboard_time": 1742981960,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 106849,
       "num": 205900,
       "word": "印度庆典活动中30米高塔突然倒塌",
@@ -9177,6 +9297,14 @@
       "onboard_time": 1742653822,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106155,
+      "num": 106155,
+      "word": "汤家凤声明",
+      "onboard_time": 1742984482,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 106150,
@@ -9371,6 +9499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102710,
+      "num": 161575,
+      "word": "不要眨眼无畏的cos来了",
+      "onboard_time": 1742982501,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102570,
       "num": 102570,
       "word": "叶童 渡情",
@@ -9515,6 +9651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99632,
+      "num": 99632,
+      "word": "谁家剧天降的不是横财是广告牌",
+      "onboard_time": 1742984721,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99617,
       "num": 99617,
       "word": "何健麒无限超越班正常播出",
@@ -9585,6 +9729,14 @@
       "onboard_time": 1742894481,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 98740,
+      "num": 98740,
+      "word": "一笙两分钟教你学会空空儿",
+      "onboard_time": 1742984001,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 98649,
@@ -9713,6 +9865,14 @@
       "onboard_time": 1742819182,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96538,
+      "num": 96538,
+      "word": "32周双胎妈妈突然头晕劫后余生",
+      "onboard_time": 1742984721,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96331,
@@ -10001,6 +10161,14 @@
       "onboard_time": 1742687779,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86912,
+      "num": 161557,
+      "word": "5岁女童小区被碾压致死案28日再开庭",
+      "onboard_time": 1742982802,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86515,
@@ -10715,14 +10883,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 64345,
-      "num": 112360,
-      "word": "韩代总统下令部署所有可用资源灭山火",
-      "onboard_time": 1742981960,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 64132,
       "num": 64132,
       "word": "洗发水解决不了脱发问题",
@@ -11275,14 +11435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47092,
-      "num": 357044,
-      "word": "女幼师遇害案二审维持死刑原判",
-      "onboard_time": 1742981421,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47073,
       "num": 295183,
       "word": "起猛了看见小岳岳唱跳",
@@ -11632,6 +11784,14 @@
       "word": "利拉德无限期休战",
       "onboard_time": 1742952561,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 37860,
+      "num": 192460,
+      "word": "周继红曾带跳水队获300多枚金牌",
+      "onboard_time": 1742983702,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -12003,6 +12163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30702,
+      "num": 185711,
+      "word": "1104只猕猴被查扣3个月遇放归难题",
+      "onboard_time": 1742984482,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30489,
       "num": 586911,
       "word": "文化中国行看春天里的中国",
@@ -12088,6 +12256,14 @@
       "word": "特朗普预计乌克兰很快签矿产协议",
       "onboard_time": 1742858779,
       "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 29488,
+      "num": 161758,
+      "word": "特朗普称正考虑俄方有关解除制裁请求",
+      "onboard_time": 1742982980,
+      "rank": 28,
       "category": "国际时政"
     },
     {
