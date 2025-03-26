@@ -1,6 +1,6 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742988034067,
+  "endTime": 1742988975004,
   "band_list": [
     {
       "raw_hot": 2360636,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 674080,
+      "num": 320749,
+      "word": "虐猫致死男生被给予留校察看处分",
+      "onboard_time": 1742985921,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 655253,
       "num": 250159,
       "word": "处女膜的一些基本常识",
@@ -395,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 530234,
-      "num": 287658,
-      "word": "虐猫致死男生被给予留校察看处分",
-      "onboard_time": 1742985921,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 526933,
       "num": 526933,
       "word": "幸亏梁田会主持",
@@ -497,6 +497,14 @@
       "onboard_time": 1742964023,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422633,
+      "num": 368572,
+      "word": "傅云夕女儿 亲生",
+      "onboard_time": 1742988141,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 419511,
@@ -675,6 +683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 359795,
+      "num": 359795,
+      "word": "昀牵孟绕",
+      "onboard_time": 1742984301,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357550,
       "num": 357550,
       "word": "新还珠格格",
@@ -771,12 +787,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 282507,
-      "num": 282507,
-      "word": "昀牵孟绕",
-      "onboard_time": 1742984301,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 284502,
+      "num": 284502,
+      "word": "曾黎16秒祛痘教程",
+      "onboard_time": 1742987901,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 280130,
@@ -883,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240856,
+      "num": 240856,
+      "word": "WBG对战BLG",
+      "onboard_time": 1742987481,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 240287,
       "num": 355713,
       "word": "唐嫣回应回归仙侠剧",
@@ -985,14 +1009,6 @@
       "onboard_time": 1742963482,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206246,
-      "num": 206246,
-      "word": "WBG对战BLG",
-      "onboard_time": 1742987481,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 203913,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1742946741,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174706,
+      "num": 289216,
+      "word": "号称3天减10斤减肥产品含利尿剂",
+      "onboard_time": 1742987660,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174452,
@@ -1555,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136103,
+      "num": 136103,
+      "word": "宇宙异常或暗示地球可怕未来",
+      "onboard_time": 1742983581,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 135290,
       "num": 135290,
       "word": "廊坊地震余震已5次",
@@ -1568,6 +1600,14 @@
       "word": "逐玉",
       "onboard_time": 1742950042,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134744,
+      "num": 134744,
+      "word": "腾讯视频2025待播大剧片单",
+      "onboard_time": 1742987421,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1731,28 +1771,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 123121,
-      "num": 123121,
-      "word": "宇宙异常或暗示地球可怕未来",
-      "onboard_time": 1742983581,
-      "rank": 39,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 122717,
       "num": 122717,
       "word": "郑钦文无缘迈阿密赛四强",
       "onboard_time": 1742956341,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122277,
-      "num": 122277,
-      "word": "腾讯视频2025待播大剧片单",
-      "onboard_time": 1742987421,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 122197,
@@ -1955,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109052,
+      "num": 250641,
+      "word": "老人6万买保险到孙女80岁才返完",
+      "onboard_time": 1742987242,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108522,
       "num": 108522,
       "word": "谁懂成毅最后一幕的眼神戏",
@@ -2043,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103593,
+      "num": 363566,
+      "word": "学校回应虐猫致死男生被行拘",
+      "onboard_time": 1742988202,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102710,
       "num": 161575,
       "word": "不要眨眼无畏的cos来了",
@@ -2115,12 +2155,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 96436,
-      "num": 112170,
-      "word": "曾黎16秒祛痘教程",
-      "onboard_time": 1742987901,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 97091,
+      "num": 97091,
+      "word": "乘风2025",
+      "onboard_time": 1742988742,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 95814,
@@ -2323,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78463,
+      "num": 78463,
+      "word": "鸡鸣寺樱花季最忙的人出现了",
+      "onboard_time": 1742988022,
+      "rank": 43,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 78051,
       "num": 354161,
       "word": "俄美会谈5项主要成果",
@@ -2363,12 +2411,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73395,
+      "num": 73395,
+      "word": "WBG战胜EDG",
+      "onboard_time": 1742988561,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 73017,
+      "num": 73017,
+      "word": "李延贺煽动分裂国家罪被判刑",
+      "onboard_time": 1742986880,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72297,
       "num": 220691,
       "word": "50.9元尖椒鸡外卖吃出烟头",
       "onboard_time": 1742966301,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72255,
+      "num": 72255,
+      "word": "网购小狗遭拒收快递员无奈收养4只",
+      "onboard_time": 1742988801,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71858,
+      "num": 250507,
+      "word": "周继红是中国跳水第一个奥运冠军",
+      "onboard_time": 1742986942,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 69539,
@@ -2475,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56209,
+      "num": 81791,
+      "word": "吉克隽逸探病化妆师",
+      "onboard_time": 1742988620,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52856,
       "num": 52856,
       "word": "美俄乌同意黑海确保航行安全",
@@ -2507,14 +2595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48570,
-      "num": 289216,
-      "word": "号称3天减10斤减肥产品含利尿剂",
-      "onboard_time": 1742987660,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48102,
       "num": 51366,
       "word": "河北永清4.3级地震",
@@ -2529,14 +2609,6 @@
       "onboard_time": 1742945061,
       "rank": 14,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 43403,
-      "num": 250507,
-      "word": "周继红是中国跳水第一个奥运冠军",
-      "onboard_time": 1742986942,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 43186,
@@ -2561,14 +2633,6 @@
       "onboard_time": 1742945002,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 42521,
-      "num": 250641,
-      "word": "老人6万买保险到孙女80岁才返完",
-      "onboard_time": 1742987242,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42309,
@@ -2667,6 +2731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35455,
+      "num": 135123,
+      "word": "武汉樱花树下能听到全国的方言",
+      "onboard_time": 1742987301,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 33849,
       "num": 79989,
       "word": "如何不焦虑地休个假",
@@ -2763,20 +2835,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 23626,
-      "num": 120735,
-      "word": "武汉樱花树下能听到全国的方言",
-      "onboard_time": 1742987301,
-      "rank": 29,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 23345,
       "num": 303657,
       "word": "德国政府解散是法定程序性调整",
       "onboard_time": 1742963723,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21881,
+      "num": 318770,
+      "word": "直播间买100件保健品69个涉嫌误导",
+      "onboard_time": 1742986942,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21223,
@@ -2793,14 +2865,6 @@
       "onboard_time": 1742934134,
       "rank": 47,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 19279,
-      "num": 318770,
-      "word": "直播间买100件保健品69个涉嫌误导",
-      "onboard_time": 1742986942,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19075,
@@ -2897,6 +2961,14 @@
       "onboard_time": 1742945781,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 6173,
+      "num": 134929,
+      "word": "库克盛赞中国学生Amazing",
+      "onboard_time": 1742988620,
+      "rank": 29,
+      "category": "数码"
     }
   ],
   "hotgov_list": [
@@ -2905,6 +2977,9 @@
     },
     {
       "word": "#总书记谈今年党建工作的重点任务#"
+    },
+    {
+      "word": "#一碗水的牵挂#"
     }
   ]
 }

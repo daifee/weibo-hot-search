@@ -1,0 +1,410 @@
+{
+  "runTime": 1742988975004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 882963,
+        "num": 1141274,
+        "word": "芒果TV调整会员同时使用设备数",
+        "onboard_time": 1742983342,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 564760,
+        "num": 564760,
+        "word": "晒工资被开除山姆试吃员签保密协议",
+        "onboard_time": 1742973742,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18873,
+        "num": 492533,
+        "word": "网络视听成全网民的数字空气",
+        "onboard_time": 1742985381,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475843,
+        "num": 475843,
+        "word": "原来这些歌都是李晟唱的",
+        "onboard_time": 1742985082,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457134,
+        "num": 457134,
+        "word": "免去周继红国家跳水队领队职务",
+        "onboard_time": 1742979321,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368720,
+        "num": 368720,
+        "word": "Rookie拿到中国绿卡",
+        "onboard_time": 1742982080,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 422633,
+        "num": 368572,
+        "word": "傅云夕女儿 亲生",
+        "onboard_time": 1742988141,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 887982,
+        "num": 365796,
+        "word": "沙溢 美黑",
+        "onboard_time": 1742984662,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475194,
+        "num": 365349,
+        "word": "李晟回应断层第一",
+        "onboard_time": 1742961921,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103593,
+        "num": 363566,
+        "word": "学校回应虐猫致死男生被行拘",
+        "onboard_time": 1742988202,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437453,
+        "num": 362738,
+        "word": "刘诗诗红色羽毛高定",
+        "onboard_time": 1742986461,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 369351,
+        "num": 360394,
+        "word": "雁回时",
+        "onboard_time": 1742982922,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359795,
+        "num": 359795,
+        "word": "昀牵孟绕",
+        "onboard_time": 1742984301,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357429,
+        "num": 357429,
+        "word": "火锅店添加罂粟当秘方老板获刑",
+        "onboard_time": 1742983521,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338221,
+        "num": 338221,
+        "word": "哪吒之魔童闹海票房破150亿",
+        "onboard_time": 1742979621,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 674080,
+        "num": 320749,
+        "word": "虐猫致死男生被给予留校察看处分",
+        "onboard_time": 1742985921,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284502,
+        "num": 284502,
+        "word": "曾黎16秒祛痘教程",
+        "onboard_time": 1742987901,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282922,
+        "num": 282922,
+        "word": "2025新剧扎堆",
+        "onboard_time": 1742969841,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274270,
+        "num": 274270,
+        "word": "汤家凤声明",
+        "onboard_time": 1742984482,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109052,
+        "num": 248218,
+        "word": "老人6万买保险到孙女80岁才返完",
+        "onboard_time": 1742987242,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240856,
+        "num": 240856,
+        "word": "WBG对战BLG",
+        "onboard_time": 1742987481,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230485,
+        "num": 230485,
+        "word": "又贵又难吃的羽衣甘蓝被疯抢",
+        "onboard_time": 1742967021,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223421,
+        "num": 223421,
+        "word": "曹颖倪虹洁都以为吴宣仪20岁",
+        "onboard_time": 1742986161,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185506,
+        "num": 185506,
+        "word": "张新成到底换了多少套衣服捏粘土",
+        "onboard_time": 1742978061,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174706,
+        "num": 174706,
+        "word": "号称3天减10斤减肥产品含利尿剂",
+        "onboard_time": 1742987660,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147500,
+        "num": 147500,
+        "word": "32周双胎妈妈突然头晕劫后余生",
+        "onboard_time": 1742984721,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140966,
+        "num": 140966,
+        "word": "孟子义李昀锐跑男直播",
+        "onboard_time": 1742983400,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136103,
+        "num": 136103,
+        "word": "宇宙异常或暗示地球可怕未来",
+        "onboard_time": 1742983581,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 35455,
+        "num": 135123,
+        "word": "武汉樱花树下能听到全国的方言",
+        "onboard_time": 1742987301,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 6173,
+        "num": 134929,
+        "word": "库克盛赞中国学生Amazing",
+        "onboard_time": 1742988620,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134744,
+        "num": 134744,
+        "word": "腾讯视频2025待播大剧片单",
+        "onboard_time": 1742987421,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112241,
+        "num": 112241,
+        "word": "昀牵孟绕自带结界",
+        "onboard_time": 1742985141,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104836,
+        "num": 104836,
+        "word": "于正回应白鹿告别文错字",
+        "onboard_time": 1742976081,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103386,
+        "num": 103386,
+        "word": "坠亡女童生母称保姆女儿步步紧逼",
+        "onboard_time": 1742979861,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21881,
+        "num": 102121,
+        "word": "直播间买100件保健品69个涉嫌误导",
+        "onboard_time": 1742986942,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101436,
+        "num": 101436,
+        "word": "杨紫公主头半扎发",
+        "onboard_time": 1742982922,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99374,
+        "num": 99374,
+        "word": "哪吒",
+        "onboard_time": 1742985202,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97091,
+        "num": 97091,
+        "word": "乘风2025",
+        "onboard_time": 1742988742,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93073,
+        "num": 93073,
+        "word": "花4880元学剪辑月赚47.84元",
+        "onboard_time": 1742972902,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88683,
+        "num": 88683,
+        "word": "易烊千玺摆手提醒粉丝",
+        "onboard_time": 1742980522,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56209,
+        "num": 81791,
+        "word": "吉克隽逸探病化妆师",
+        "onboard_time": 1742988620,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81680,
+        "num": 81680,
+        "word": "甲亢哥首次尝试爆肚瞬间被征服",
+        "onboard_time": 1742982141,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80087,
+        "num": 80087,
+        "word": "多名台民众大陆配偶被限期离台",
+        "onboard_time": 1742964383,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78463,
+        "num": 78463,
+        "word": "鸡鸣寺樱花季最忙的人出现了",
+        "onboard_time": 1742988022,
+        "rank": 43,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 77432,
+        "num": 77432,
+        "word": "女生低成本补气血的小tips",
+        "onboard_time": 1742975542,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73395,
+        "num": 73395,
+        "word": "WBG战胜EDG",
+        "onboard_time": 1742988561,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73264,
+        "num": 73264,
+        "word": "多方回应山姆试吃员晒工资条被开除",
+        "onboard_time": 1742965403,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73017,
+        "num": 73017,
+        "word": "李延贺煽动分裂国家罪被判刑",
+        "onboard_time": 1742986880,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72255,
+        "num": 72255,
+        "word": "网购小狗遭拒收快递员无奈收养4只",
+        "onboard_time": 1742988801,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71858,
+        "num": 71858,
+        "word": "周继红是中国跳水第一个奥运冠军",
+        "onboard_time": 1742986942,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一碗水的牵挂#"
+    }
+  }
+}
