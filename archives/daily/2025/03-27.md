@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/03/27 00:31:49 ~ 2025/03/27 04:40:09
+本榜单时间：2025/03/27 00:31:49 ~ 2025/03/27 05:22:54
 </p>
 </blockquote>
 <p>
@@ -387,6 +387,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E7%A7%B0%E8%99%90%E7%8C%AB%E8%87%B4%E6%AD%BB%E7%94%B7%E7%94%9F%E5%9C%A8%E6%8E%A5%E5%8F%97%E5%BF%83%E7%90%86%E6%B2%BB%E7%96%97%23" target="weibo">
+学校称虐猫致死男生在接受心理治疗（热度：18492）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E9%A9%B3%E6%96%A5%E7%BE%8E%E6%96%B9%E5%B9%B4%E5%A4%8D%E4%B8%80%E5%B9%B4%E6%89%80%E8%B0%93%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81%E8%AE%BA%23" target="weibo">
 中方驳斥美方年复一年所谓中国威胁论（热度：12901）
 </a>
@@ -401,6 +407,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%B0%91%E5%A4%A7%E5%A9%B6%E7%9A%84%E8%AF%97%E8%AE%A9%E6%98%A5%E5%A4%A9%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23" target="weibo">
 农民大婶的诗让春天具象化了（热度：11466）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%94%A8%E6%88%B7%E8%A7%84%E6%A8%A1%E8%BE%BE6.62%E4%BA%BF%E4%BA%BA%23" target="weibo">
+微短剧用户规模达6.62亿人（热度：9212）
 </a>
 </li>
 

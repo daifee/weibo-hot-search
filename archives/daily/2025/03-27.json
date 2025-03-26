@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743021609263,
+  "endTime": 1743024174213,
   "band_list": [
     {
       "raw_hot": 1697150,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18492,
+      "num": 18492,
+      "word": "学校称虐猫致死男生在接受心理治疗",
+      "onboard_time": 1743022994,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12901,
       "num": 56673,
       "word": "中方驳斥美方年复一年所谓中国威胁论",
@@ -521,6 +529,14 @@
       "onboard_time": 1743010935,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 9212,
+      "num": 32661,
+      "word": "微短剧用户规模达6.62亿人",
+      "onboard_time": 1743023294,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

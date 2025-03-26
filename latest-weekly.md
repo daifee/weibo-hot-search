@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/03/23 00:27:01 ~ 2025/03/27 04:40:09
+本榜单时间：2025/03/23 00:27:01 ~ 2025/03/27 05:22:54
 </p>
 </blockquote>
 <p>
@@ -10395,6 +10395,12 @@ PCL2025（热度：21957）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E7%A7%B0%E8%99%90%E7%8C%AB%E8%87%B4%E6%AD%BB%E7%94%B7%E7%94%9F%E5%9C%A8%E6%8E%A5%E5%8F%97%E5%BF%83%E7%90%86%E6%B2%BB%E7%96%97%23" target="weibo">
+学校称虐猫致死男生在接受心理治疗（热度：18492）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%BD%E7%A6%B9%E6%8A%8A%E9%B8%BD%E5%AD%90%E5%8F%AB%E5%A5%BD%E9%B8%BD%E4%BB%AC%23" target="weibo">
 张泽禹把鸽子叫好鸽们（热度：18147）
 </a>
@@ -10661,6 +10667,12 @@ AWE上见到瓦力了（热度：13045）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%89%B9%E5%BE%90%E5%98%89%E5%BF%86vs%E8%A2%81%E5%8A%B1%E5%B2%91%E7%8E%8B%E8%89%BA%E8%BF%AA%23" target="weibo">
 马特徐嘉忆vs袁励岑王艺迪（热度：9259）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%94%A8%E6%88%B7%E8%A7%84%E6%A8%A1%E8%BE%BE6.62%E4%BA%BF%E4%BA%BA%23" target="weibo">
+微短剧用户规模达6.62亿人（热度：9212）
 </a>
 </li>
 
