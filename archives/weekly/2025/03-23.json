@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1742970807812,
+  "endTime": 1742971602180,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -1363,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 585125,
+      "num": 393706,
+      "word": "赵露思 做不了的事我就说讨厌",
+      "onboard_time": 1742967201,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578426,
       "num": 780065,
       "word": "清明档已有11部影片定档",
@@ -1385,14 +1393,6 @@
       "onboard_time": 1742714959,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 574019,
-      "num": 358435,
-      "word": "赵露思 做不了的事我就说讨厌",
-      "onboard_time": 1742967201,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 573411,
@@ -1931,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440401,
+      "num": 440401,
+      "word": "官方回应公积金中心光纤被挖断3次",
+      "onboard_time": 1742969002,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 438117,
       "num": 438117,
       "word": "电影学院失联女生半年没回过家",
@@ -2107,6 +2115,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 414266,
+      "num": 414266,
+      "word": "2025新剧扎堆",
+      "onboard_time": 1742969841,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411473,
       "num": 411473,
       "word": "官方回应女生劝阻吸烟被怼",
@@ -2179,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 402623,
+      "num": 402623,
+      "word": "女子拔牙后坠亡事件后续",
+      "onboard_time": 1742970141,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 402206,
       "num": 504144,
       "word": "甲亢哥上海直播打破西方对中国滤镜",
@@ -2193,6 +2217,14 @@
       "onboard_time": 1742952260,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 399283,
+      "num": 399283,
+      "word": "小鹿妈妈前员工说上班就像坐牢",
+      "onboard_time": 1742967562,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 399005,
@@ -2281,6 +2313,14 @@
       "onboard_time": 1742723540,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386564,
+      "num": 386564,
+      "word": "关晓彤久违的好天气和春天的剧组餐",
+      "onboard_time": 1742967862,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 385138,
@@ -2435,14 +2475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 365837,
-      "num": 365837,
-      "word": "官方回应公积金中心光纤被挖断3次",
-      "onboard_time": 1742969002,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 363579,
       "num": 363579,
       "word": "用人单位回应博士生月薪1500元",
@@ -2529,14 +2561,6 @@
       "onboard_time": 1742636722,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 354852,
-      "num": 354852,
-      "word": "关晓彤久违的好天气和春天的剧组餐",
-      "onboard_time": 1742967862,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 353284,
@@ -3091,6 +3115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 287665,
+      "num": 262741,
+      "word": "张丹峰演求婚被分手",
+      "onboard_time": 1742969481,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287388,
       "num": 238714,
       "word": "孙卓首次直播带货销售额超500万",
@@ -3177,14 +3209,6 @@
       "onboard_time": 1742870300,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281384,
-      "num": 281384,
-      "word": "小鹿妈妈前员工说上班就像坐牢",
-      "onboard_time": 1742967562,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 280872,
@@ -3305,14 +3329,6 @@
       "onboard_time": 1742876003,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 273690,
-      "num": 262741,
-      "word": "张丹峰演求婚被分手",
-      "onboard_time": 1742969481,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 273459,
@@ -3841,6 +3857,14 @@
       "onboard_time": 1742897242,
       "rank": 35,
       "category": "民生新闻,运动健身"
+    },
+    {
+      "raw_hot": 230213,
+      "num": 247999,
+      "word": "宋茜唐艺昕张佳宁聚餐合照",
+      "onboard_time": 1742970741,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 229862,
@@ -4947,6 +4971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187771,
+      "num": 187771,
+      "word": "中国平安有高管年薪1342万",
+      "onboard_time": 1742967922,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 187697,
       "num": 187697,
       "word": "你好星期六全员为余生有涯剧宣",
@@ -4968,22 +5000,6 @@
       "word": "白鹿文青味",
       "onboard_time": 1742700620,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 187551,
-      "num": 187551,
-      "word": "中国平安有高管年薪1342万",
-      "onboard_time": 1742967922,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 187412,
-      "num": 363768,
-      "word": "2025新剧扎堆",
-      "onboard_time": 1742969841,
-      "rank": 9,
       "category": "剧集"
     },
     {
@@ -5171,6 +5187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 181247,
+      "num": 181247,
+      "word": "恒大汽车",
+      "onboard_time": 1742971102,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 181029,
       "num": 181029,
       "word": "iG暂列小组第一",
@@ -5281,6 +5305,14 @@
       "onboard_time": 1742814199,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174452,
+      "num": 174452,
+      "word": "唐嫣高定look",
+      "onboard_time": 1742971281,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 174362,
@@ -5593,14 +5625,6 @@
       "onboard_time": 1742870300,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165997,
-      "num": 165997,
-      "word": "女子拔牙后坠亡事件后续",
-      "onboard_time": 1742970141,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165265,
@@ -6369,6 +6393,14 @@
       "onboard_time": 1742896822,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150129,
+      "num": 150129,
+      "word": "何瑞贤人生镜头上新了",
+      "onboard_time": 1742971102,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 150114,
@@ -7307,6 +7339,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 132105,
+      "num": 132105,
+      "word": "徐璐特邀领衔主演长安二十四计",
+      "onboard_time": 1742970862,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131946,
       "num": 131946,
       "word": "刘耀文戒掉短视频自己演上了",
@@ -7649,6 +7689,14 @@
       "onboard_time": 1742793025,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125304,
+      "num": 125304,
+      "word": "周深说想把中文音乐唱给更多人听",
+      "onboard_time": 1742971461,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 125274,
@@ -8123,6 +8171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117084,
+      "num": 117084,
+      "word": "招商银行罕见大跌",
+      "onboard_time": 1742971102,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 116958,
       "num": 116958,
       "word": "台湾老兵收到山东馒头开心得像孩子",
@@ -8305,6 +8361,14 @@
       "onboard_time": 1742954062,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114024,
+      "num": 114024,
+      "word": "骗子办假考试再骗高分学员",
+      "onboard_time": 1742971461,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113605,
@@ -9259,14 +9323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96607,
-      "num": 156377,
-      "word": "宋茜唐艺昕张佳宁聚餐合照",
-      "onboard_time": 1742970741,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96331,
       "num": 96331,
       "word": "济南大风",
@@ -9305,6 +9361,14 @@
       "onboard_time": 1742929395,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94673,
+      "num": 94673,
+      "word": "这个宋茜真的是初恋",
+      "onboard_time": 1742971582,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 94665,
@@ -9537,6 +9601,14 @@
       "onboard_time": 1742894782,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87404,
+      "num": 185122,
+      "word": "由七万人组成的红海有多震撼",
+      "onboard_time": 1742971281,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 87109,
@@ -10481,6 +10553,14 @@
       "onboard_time": 1742722280,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 58872,
+      "num": 114959,
+      "word": "成排特斯拉在美遭纵火烧毁",
+      "onboard_time": 1742971281,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58841,
