@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743031387525,
+  "endTime": 1743032230625,
   "band_list": [
     {
       "raw_hot": 1697150,
@@ -11,6 +11,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1040455,
+      "num": 741778,
+      "word": "找17岁女孩代孕男子领孩子多付20万",
+      "onboard_time": 1743007158,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 769295,
       "num": 256950,
       "word": "曾黎闲鱼",
@@ -19,11 +27,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 741778,
-      "num": 741778,
-      "word": "找17岁女孩代孕男子领孩子多付20万",
-      "onboard_time": 1743007158,
-      "rank": 33,
+      "raw_hot": 763123,
+      "num": 763123,
+      "word": "防水冲锋衣可能影响女性怀孕",
+      "onboard_time": 1743000863,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -35,15 +43,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 719836,
-      "num": 719836,
-      "word": "防水冲锋衣可能影响女性怀孕",
-      "onboard_time": 1743000863,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 620250,
+      "raw_hot": 672578,
       "num": 207468,
       "word": "张檬自曝孕35周臀位绕颈",
       "onboard_time": 1743000382,
@@ -67,12 +67,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 393480,
-      "num": 393480,
+      "raw_hot": 457608,
+      "num": 457608,
       "word": "店长回应早产儿蛋糕已下架销毁",
       "onboard_time": 1743000323,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364390,
+      "num": 364390,
+      "word": "漫威直播公布复联5阵容",
+      "onboard_time": 1743031637,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 361219,
@@ -123,20 +131,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 234760,
+      "num": 234760,
+      "word": "莲花味精辟谣穷得只剩一栋办公楼",
+      "onboard_time": 1742996482,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231430,
+      "num": 231430,
+      "word": "刘晓庆回应演短剧遭朋友质疑丢人",
+      "onboard_time": 1742999663,
+      "rank": 32,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 227298,
       "num": 227298,
       "word": "王宝强脚趾抠地追剧",
       "onboard_time": 1743004520,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210511,
-      "num": 210511,
-      "word": "刘晓庆回应演短剧遭朋友质疑丢人",
-      "onboard_time": 1742999663,
-      "rank": 32,
-      "category": "艺人,剧集"
     },
     {
       "raw_hot": 208746,
@@ -147,20 +163,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206438,
-      "num": 206438,
-      "word": "莲花味精辟谣穷得只剩一栋办公楼",
-      "onboard_time": 1742996482,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204757,
       "num": 204757,
       "word": "蜜雪集团2024年利润44.542亿元",
       "onboard_time": 1742999542,
       "rank": 15,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 185725,
+      "num": 185725,
+      "word": "曹颖倪虹洁都以为吴宣仪20岁",
+      "onboard_time": 1742986161,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 182409,
@@ -171,12 +187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173944,
-      "num": 173944,
-      "word": "曹颖倪虹洁都以为吴宣仪20岁",
-      "onboard_time": 1742986161,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 171221,
+      "num": 171221,
+      "word": "0.03元开通试用后每个月被扣近百元",
+      "onboard_time": 1743027676,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159942,
@@ -195,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142673,
+      "num": 118536,
+      "word": "小伙靠书法帮父母清债2000万",
+      "onboard_time": 1743001223,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137823,
       "num": 137823,
       "word": "美防长否认在有记者的群发作战计划",
@@ -203,8 +227,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 129429,
-      "num": 129429,
+      "raw_hot": 131760,
+      "num": 131760,
       "word": "大16岁女友离世被赶出门男子发声",
       "onboard_time": 1742995400,
       "rank": 37,
@@ -217,14 +241,6 @@
       "onboard_time": 1743004640,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118536,
-      "num": 118536,
-      "word": "小伙靠书法帮父母清债2000万",
-      "onboard_time": 1743001223,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113906,
@@ -241,14 +257,6 @@
       "onboard_time": 1742989341,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104672,
-      "num": 158815,
-      "word": "0.03元开通试用后每个月被扣近百元",
-      "onboard_time": 1743027676,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103273,
@@ -299,6 +307,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 91863,
+      "num": 91863,
+      "word": "英伟达市值一夜蒸发超1.2万亿",
+      "onboard_time": 1743031637,
+      "rank": 25,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 81934,
       "num": 81934,
       "word": "田曦薇小红裙进妆look",
@@ -339,6 +355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 62672,
+      "num": 62672,
+      "word": "警方通报高铁脱鞋放脚打人男被行拘",
+      "onboard_time": 1742992702,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 62068,
       "num": 62068,
       "word": "赴山海 备播",
@@ -361,14 +385,6 @@
       "onboard_time": 1743003022,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59610,
-      "num": 59610,
-      "word": "警方通报高铁脱鞋放脚打人男被行拘",
-      "onboard_time": 1742992702,
-      "rank": 42,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 59225,
@@ -451,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49403,
+      "num": 49403,
+      "word": "天链二号04星发射成功",
+      "onboard_time": 1743032179,
+      "rank": 38,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 49010,
       "num": 49010,
       "word": "男孩为躲脱缰宠物狗追逐遭车祸致残",
@@ -459,12 +483,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43869,
-      "num": 43869,
+      "raw_hot": 46582,
+      "num": 46582,
       "word": "乘风2025姐姐乘风值",
       "onboard_time": 1743011835,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44297,
+      "num": 44297,
+      "word": "马拉松职业私兔最高月入4万",
+      "onboard_time": 1743031518,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 43465,
+      "num": 35277,
+      "word": "傅云夕抢亲",
+      "onboard_time": 1743031219,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 41854,
@@ -472,6 +512,22 @@
       "word": "俄乌停火协议最新进展",
       "onboard_time": 1743006559,
       "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 41408,
+      "num": 41408,
+      "word": "上海打雷",
+      "onboard_time": 1743031940,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40955,
+      "num": 189207,
+      "word": "特朗普宣布对进口汽车征收25%关税",
+      "onboard_time": 1743031758,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -531,6 +587,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 28066,
+      "num": 92367,
+      "word": "美国务卿回应群聊泄密事件",
+      "onboard_time": 1743031940,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25056,
       "num": 137673,
       "word": "美高官群聊完整记录公布",
@@ -539,7 +603,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 22149,
+      "raw_hot": 24769,
       "num": 728926,
       "word": "网络视听成全网民的数字空气",
       "onboard_time": 1742985381,
@@ -553,6 +617,14 @@
       "onboard_time": 1743031338,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 16499,
+      "num": 93076,
+      "word": "2025博鳌新浪财经之夜",
+      "onboard_time": 1743031700,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 12901,
