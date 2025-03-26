@@ -1,10 +1,10 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742994191554,
+  "endTime": 1742996008186,
   "band_list": [
     {
       "raw_hot": 2658214,
-      "num": 264349,
+      "num": 333381,
       "word": "曾黎闲鱼",
       "onboard_time": 1742989281,
       "rank": 10,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 683600,
-      "num": 263360,
+      "num": 322822,
       "word": "被碾压致死5岁女童家属出具谅解书",
       "onboard_time": 1742989281,
       "rank": 12,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 628254,
-      "num": 263200,
+      "num": 289594,
       "word": "黄子佼承认持有7名少女非法影片",
       "onboard_time": 1742989400,
       "rank": 11,
@@ -385,6 +385,14 @@
       "onboard_time": 1742969002,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 592333,
+      "num": 592333,
+      "word": "错误洗头方式会导致脂溢性皮炎",
+      "onboard_time": 1742994321,
+      "rank": 1,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 582940,
@@ -483,6 +491,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 487219,
+      "num": 487219,
+      "word": "刘诗诗林允儿活动同框",
+      "onboard_time": 1742994442,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465988,
       "num": 465988,
       "word": "李佳航超话 给李晟投票",
@@ -515,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 437880,
+      "num": 318117,
+      "word": "祝绪丹神女执弓",
+      "onboard_time": 1742989341,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436854,
       "num": 436854,
       "word": "周继红退休",
@@ -540,7 +564,7 @@
     },
     {
       "raw_hot": 422571,
-      "num": 246881,
+      "num": 257688,
       "word": "粉丝称送曾黎的徽章被挂二手平台",
       "onboard_time": 1742992702,
       "rank": 18,
@@ -577,14 +601,6 @@
       "onboard_time": 1742970741,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 404989,
-      "num": 246578,
-      "word": "祝绪丹神女执弓",
-      "onboard_time": 1742989341,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 404225,
@@ -691,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 374682,
+      "num": 316381,
+      "word": "雁回时编剧",
+      "onboard_time": 1742993242,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374647,
       "num": 374647,
       "word": "河北廊坊4.4级左右地震",
@@ -737,6 +761,14 @@
       "onboard_time": 1742984301,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357594,
+      "num": 357594,
+      "word": "警方通报高铁脱鞋放脚打人男被行拘",
+      "onboard_time": 1742992702,
+      "rank": 38,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 357550,
@@ -811,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298344,
+      "num": 298344,
+      "word": "辛云来 夜袭横店",
+      "onboard_time": 1742995642,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296894,
       "num": 296894,
       "word": "花4880元学剪辑月赚47.84元",
@@ -883,28 +923,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265604,
-      "num": 265604,
-      "word": "雁回时编剧",
-      "onboard_time": 1742993242,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 264399,
       "num": 321187,
       "word": "辛云来雁回时换发套了",
       "onboard_time": 1742950282,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262610,
-      "num": 262610,
-      "word": "警方通报高铁脱鞋放脚打人男被行拘",
-      "onboard_time": 1742992702,
-      "rank": 38,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 262279,
@@ -1107,6 +1131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208654,
+      "num": 265048,
+      "word": "美群聊泄密听证会吵起来了",
+      "onboard_time": 1742993242,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 207120,
       "num": 219961,
       "word": "北上后劲好大",
@@ -1227,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194921,
+      "num": 245941,
+      "word": "乘风直播",
+      "onboard_time": 1742993662,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194344,
       "num": 194344,
       "word": "这是停猫位吗",
@@ -1272,6 +1312,14 @@
       "word": "发现甄嬛传皇后为了人设改了三次妆",
       "onboard_time": 1742957721,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186927,
+      "num": 186927,
+      "word": "你做我的妻子 我做你的谋士",
+      "onboard_time": 1742995162,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1321,14 +1369,6 @@
       "onboard_time": 1742977221,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182801,
-      "num": 245941,
-      "word": "乘风直播",
-      "onboard_time": 1742993662,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 182035,
@@ -1500,7 +1540,7 @@
     },
     {
       "raw_hot": 160897,
-      "num": 160897,
+      "num": 338623,
       "word": "高铁脱鞋打人男子被行拘",
       "onboard_time": 1742993001,
       "rank": 36,
@@ -1529,6 +1569,14 @@
       "onboard_time": 1742984721,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159472,
+      "num": 159472,
+      "word": "娜扎宫廷鎏金风",
+      "onboard_time": 1742995462,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 159182,
@@ -1619,6 +1667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 149956,
+      "num": 149956,
+      "word": "田曦薇小红裙进妆look",
+      "onboard_time": 1742994442,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148182,
       "num": 148182,
       "word": "很喜欢年轻人不扫兴的疯感",
@@ -1633,6 +1689,14 @@
       "onboard_time": 1742952260,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 147220,
+      "num": 147220,
+      "word": "棋士",
+      "onboard_time": 1742911703,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 146931,
@@ -1721,14 +1785,6 @@
       "onboard_time": 1742959341,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138934,
-      "num": 138934,
-      "word": "棋士",
-      "onboard_time": 1742911703,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 137934,
@@ -1891,6 +1947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 126210,
+      "num": 126210,
+      "word": "王嘉尔直升机空降上海",
+      "onboard_time": 1742995342,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126138,
       "num": 357044,
       "word": "女幼师遇害案二审维持死刑原判",
@@ -1961,6 +2025,14 @@
       "onboard_time": 1742947402,
       "rank": 45,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 123061,
+      "num": 246098,
+      "word": "赵子豪4比1刘丁硕",
+      "onboard_time": 1742993480,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 122717,
@@ -2291,20 +2363,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105496,
-      "num": 246098,
-      "word": "赵子豪4比1刘丁硕",
-      "onboard_time": 1742993480,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104777,
       "num": 161574,
       "word": "刘建宏说球迷就是国足的希望",
       "onboard_time": 1742970561,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104655,
+      "num": 104655,
+      "word": "湖南卫视重映新还珠格格",
+      "onboard_time": 1742995702,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 104077,
@@ -2467,6 +2539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 91916,
+      "num": 91916,
+      "word": "Wei失误",
+      "onboard_time": 1742995883,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91687,
       "num": 91687,
       "word": "国足0比2澳大利亚",
@@ -2545,6 +2625,14 @@
       "onboard_time": 1742914404,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83139,
+      "num": 260483,
+      "word": "大16岁女友离世被赶出门男子发声",
+      "onboard_time": 1742995400,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82907,
@@ -2643,6 +2731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74433,
+      "num": 310519,
+      "word": "多方回应村民公墓被砸骨灰被抛洒",
+      "onboard_time": 1742994620,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 73395,
       "num": 73395,
       "word": "WBG战胜EDG",
@@ -2681,6 +2777,14 @@
       "onboard_time": 1742918000,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 68647,
+      "num": 273468,
+      "word": "林高远赛车漂移",
+      "onboard_time": 1742994861,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 67184,
@@ -2763,20 +2867,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60844,
-      "num": 265048,
-      "word": "美群聊泄密听证会吵起来了",
-      "onboard_time": 1742993242,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 60751,
       "num": 110535,
       "word": "这次降温还不算倒春寒",
       "onboard_time": 1742920759,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60617,
+      "num": 100595,
+      "word": "麻辣王子你出息了",
+      "onboard_time": 1742994321,
+      "rank": 44,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 60543,
@@ -2987,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36175,
+      "num": 170884,
+      "word": "神印王座首个特别篇上线",
+      "onboard_time": 1742995400,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 35455,
       "num": 135123,
       "word": "武汉樱花树下能听到全国的方言",
@@ -3104,6 +3216,14 @@
       "word": "德国政府解散是法定程序性调整",
       "onboard_time": 1742963723,
       "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23099,
+      "num": 343658,
+      "word": "俄方要求解除制裁再停火",
+      "onboard_time": 1742995400,
+      "rank": 8,
       "category": "国际时政"
     },
     {
@@ -3249,6 +3369,14 @@
       "onboard_time": 1742988620,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 4015,
+      "num": 514649,
+      "word": "万千气象看江苏",
+      "onboard_time": 1742825783,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

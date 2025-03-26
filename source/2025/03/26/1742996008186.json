@@ -1,0 +1,410 @@
+{
+  "runTime": 1742996008186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 845918,
+        "num": 1135346,
+        "word": "傅云夕女儿 亲生",
+        "onboard_time": 1742988141,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 592333,
+        "num": 592333,
+        "word": "错误洗头方式会导致脂溢性皮炎",
+        "onboard_time": 1742994321,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 4015,
+        "num": 514649,
+        "word": "万千气象看江苏",
+        "onboard_time": 1742825783,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487219,
+        "num": 487219,
+        "word": "刘诗诗林允儿活动同框",
+        "onboard_time": 1742994442,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430342,
+        "num": 430342,
+        "word": "晒工资被开除山姆试吃员签保密协议",
+        "onboard_time": 1742973742,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357594,
+        "num": 357594,
+        "word": "警方通报高铁脱鞋放脚打人男被行拘",
+        "onboard_time": 1742992702,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 390476,
+        "num": 352380,
+        "word": "哪吒之魔童闹海票房破150亿",
+        "onboard_time": 1742979621,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 375141,
+        "num": 348578,
+        "word": "原来这些歌都是李晟唱的",
+        "onboard_time": 1742985082,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23099,
+        "num": 343658,
+        "word": "俄方要求解除制裁再停火",
+        "onboard_time": 1742995400,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127406,
+        "num": 338623,
+        "word": "高铁脱鞋打人男子被行拘",
+        "onboard_time": 1742993001,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1789917,
+        "num": 333381,
+        "word": "曾黎闲鱼",
+        "onboard_time": 1742989281,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512231,
+        "num": 322822,
+        "word": "被碾压致死5岁女童家属出具谅解书",
+        "onboard_time": 1742989281,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437880,
+        "num": 318117,
+        "word": "祝绪丹神女执弓",
+        "onboard_time": 1742989341,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374682,
+        "num": 316381,
+        "word": "雁回时编剧",
+        "onboard_time": 1742993242,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74433,
+        "num": 310519,
+        "word": "多方回应村民公墓被砸骨灰被抛洒",
+        "onboard_time": 1742994620,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 305237,
+        "num": 305237,
+        "word": "长沙吸引人才不能影响教育公平",
+        "onboard_time": 1742990482,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298344,
+        "num": 298344,
+        "word": "辛云来 夜袭横店",
+        "onboard_time": 1742995642,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289594,
+        "num": 289594,
+        "word": "黄子佼承认持有7名少女非法影片",
+        "onboard_time": 1742989400,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68647,
+        "num": 273468,
+        "word": "林高远赛车漂移",
+        "onboard_time": 1742994861,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83139,
+        "num": 260483,
+        "word": "大16岁女友离世被赶出门男子发声",
+        "onboard_time": 1742995400,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257688,
+        "num": 257688,
+        "word": "粉丝称送曾黎的徽章被挂二手平台",
+        "onboard_time": 1742992702,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249438,
+        "num": 249438,
+        "word": "李晟回应断层第一",
+        "onboard_time": 1742961921,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208654,
+        "num": 208654,
+        "word": "美群聊泄密听证会吵起来了",
+        "onboard_time": 1742993242,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195116,
+        "num": 195116,
+        "word": "辛云来粉底液避雷",
+        "onboard_time": 1742992222,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194921,
+        "num": 194921,
+        "word": "乘风直播",
+        "onboard_time": 1742993662,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191623,
+        "num": 191623,
+        "word": "芒果TV调整会员同时使用设备数",
+        "onboard_time": 1742983342,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186927,
+        "num": 186927,
+        "word": "你做我的妻子 我做你的谋士",
+        "onboard_time": 1742995162,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182775,
+        "num": 182775,
+        "word": "网购小狗遭拒收快递员无奈收养4只",
+        "onboard_time": 1742988801,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36175,
+        "num": 170884,
+        "word": "神印王座首个特别篇上线",
+        "onboard_time": 1742995400,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 167762,
+        "num": 167762,
+        "word": "赴山海 备播",
+        "onboard_time": 1742993721,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159472,
+        "num": 159472,
+        "word": "娜扎宫廷鎏金风",
+        "onboard_time": 1742995462,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149956,
+        "num": 149956,
+        "word": "田曦薇小红裙进妆look",
+        "onboard_time": 1742994442,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147220,
+        "num": 147220,
+        "word": "棋士",
+        "onboard_time": 1742990362,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144590,
+        "num": 144590,
+        "word": "Rookie拿到中国绿卡",
+        "onboard_time": 1742982080,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134527,
+        "num": 134527,
+        "word": "吴宣仪舞蹈solo",
+        "onboard_time": 1742992820,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131317,
+        "num": 131317,
+        "word": "雁回时",
+        "onboard_time": 1742982922,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129797,
+        "num": 129797,
+        "word": "号称3天减10斤减肥产品含利尿剂",
+        "onboard_time": 1742987660,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129780,
+        "num": 129780,
+        "word": "刘诗诗出席Qeelin晚宴",
+        "onboard_time": 1742993061,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126210,
+        "num": 126210,
+        "word": "王嘉尔直升机空降上海",
+        "onboard_time": 1742995342,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123638,
+        "num": 123638,
+        "word": "沙溢 美黑",
+        "onboard_time": 1742984662,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123061,
+        "num": 123061,
+        "word": "赵子豪4比1刘丁硕",
+        "onboard_time": 1742993480,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118078,
+        "num": 118078,
+        "word": "发明香肠薯片的人真是个天才",
+        "onboard_time": 1742992521,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114011,
+        "num": 114011,
+        "word": "昀牵孟绕",
+        "onboard_time": 1742984301,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104655,
+        "num": 104655,
+        "word": "湖南卫视重映新还珠格格",
+        "onboard_time": 1742995702,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60617,
+        "num": 100595,
+        "word": "麻辣王子你出息了",
+        "onboard_time": 1742994321,
+        "rank": 44,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 100175,
+        "num": 100175,
+        "word": "腾讯视频2025待播大剧片单",
+        "onboard_time": 1742987421,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95934,
+        "num": 95934,
+        "word": "王宝强演技",
+        "onboard_time": 1742992580,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94604,
+        "num": 94604,
+        "word": "易烊千玺摆手提醒粉丝",
+        "onboard_time": 1742980522,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94572,
+        "num": 94572,
+        "word": "曹颖倪虹洁都以为吴宣仪20岁",
+        "onboard_time": 1742986161,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91916,
+        "num": 91916,
+        "word": "Wei失误",
+        "onboard_time": 1742995883,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#一碗水的牵挂#"
+    }
+  }
+}
