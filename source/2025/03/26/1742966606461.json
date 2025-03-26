@@ -1,0 +1,410 @@
+{
+  "runTime": 1742966606461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1752466,
+        "num": 1752466,
+        "word": "李晟回应断层第一",
+        "onboard_time": 1742961921,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547973,
+        "num": 547973,
+        "word": "德国政府解散",
+        "onboard_time": 1742947703,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74964,
+        "num": 546132,
+        "word": "春季9个重要健康提示",
+        "onboard_time": 1742963723,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 705226,
+        "num": 541007,
+        "word": "赵露思素颜录综艺",
+        "onboard_time": 1742963363,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2162209,
+        "num": 533423,
+        "word": "女子靠4000工资养家盼丈夫共同承担",
+        "onboard_time": 1742964444,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490010,
+        "num": 527644,
+        "word": "夫妻不信儿子已死40年后一家终团聚",
+        "onboard_time": 1742956880,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639963,
+        "num": 516730,
+        "word": "宋轶白敬亭 同款眼镜",
+        "onboard_time": 1742961921,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516446,
+        "num": 516446,
+        "word": "苹果向浙大捐赠3000万",
+        "onboard_time": 1742957960,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 413268,
+        "num": 413268,
+        "word": "刘涛眼睛在哭脸在笑",
+        "onboard_time": 1742958200,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360089,
+        "num": 403152,
+        "word": "多名台民众大陆配偶被限期离台",
+        "onboard_time": 1742964383,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 680944,
+        "num": 402877,
+        "word": "柯基打架输了气绝身亡",
+        "onboard_time": 1742948722,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401721,
+        "num": 401721,
+        "word": "多方回应山姆试吃员晒工资条被开除",
+        "onboard_time": 1742965403,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396442,
+        "num": 396442,
+        "word": "周三洗头大法",
+        "onboard_time": 1742958682,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371725,
+        "num": 371725,
+        "word": "甲亢哥上海直播打破西方对中国滤镜",
+        "onboard_time": 1742961501,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357550,
+        "num": 357550,
+        "word": "新还珠格格",
+        "onboard_time": 1742962222,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319359,
+        "num": 319359,
+        "word": "王星 无限超越班",
+        "onboard_time": 1742962282,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301221,
+        "num": 301221,
+        "word": "金赛纶因母亲向男友透露私事分手",
+        "onboard_time": 1742964023,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280130,
+        "num": 280130,
+        "word": "韩国救援山火直升机坠落",
+        "onboard_time": 1742963302,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 207898,
+        "num": 207898,
+        "word": "江西公积金中心光纤被接连挖断3次",
+        "onboard_time": 1742957481,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165433,
+        "num": 207448,
+        "word": "台独恶劣行径举报邮箱公布",
+        "onboard_time": 1742955201,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 449933,
+        "num": 206362,
+        "word": "招商银行人均薪酬降至60万元以内",
+        "onboard_time": 1742963723,
+        "rank": 20,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 253114,
+        "num": 204717,
+        "word": "喝咖啡减肥的黄金时间",
+        "onboard_time": 1742959881,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235234,
+        "num": 203592,
+        "word": "厌蠢其实是种情绪暴力",
+        "onboard_time": 1742956880,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203569,
+        "num": 203569,
+        "word": "柯淳眼睛一红我就舍不得走了",
+        "onboard_time": 1742965163,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60872,
+        "num": 202514,
+        "word": "郑钦文萨巴伦卡精彩度拉满",
+        "onboard_time": 1742965641,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26004,
+        "num": 201841,
+        "word": "50.9元尖椒鸡外卖吃出烟头",
+        "onboard_time": 1742966301,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201671,
+        "num": 201671,
+        "word": "考编的风又吹到了国产剧",
+        "onboard_time": 1742965462,
+        "rank": 26,
+        "category": "剧集,教育"
+      },
+      {
+        "raw_hot": 195688,
+        "num": 195688,
+        "word": "安悦溪用AI设计卫生巾",
+        "onboard_time": 1742964383,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186422,
+        "num": 186422,
+        "word": "王嘉尔新歌在挣脱什么",
+        "onboard_time": 1742965821,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 630795,
+        "num": 186347,
+        "word": "处女膜的一些基本常识",
+        "onboard_time": 1742961381,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186250,
+        "num": 186250,
+        "word": "医生称机洗内裤比手洗干净",
+        "onboard_time": 1742946322,
+        "rank": 30,
+        "category": "幽默,科学科普"
+      },
+      {
+        "raw_hot": 182509,
+        "num": 182509,
+        "word": "1个月经周期6个水瓶盖的量就算正常",
+        "onboard_time": 1742957181,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180128,
+        "num": 180128,
+        "word": "灵魂摆渡5要来了",
+        "onboard_time": 1742954961,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174285,
+        "num": 174285,
+        "word": "甲亢哥",
+        "onboard_time": 1742963302,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166635,
+        "num": 166635,
+        "word": "长安二十四计",
+        "onboard_time": 1742963782,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159096,
+        "num": 159096,
+        "word": "丁太升说黄英应该上歌手",
+        "onboard_time": 1742965582,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157809,
+        "num": 157809,
+        "word": "杭州女童坠亡案雇主被保姆女儿起诉",
+        "onboard_time": 1742957121,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435512,
+        "num": 155624,
+        "word": "订婚强奸案女子被指遗留文胸实为眼罩",
+        "onboard_time": 1742956460,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149581,
+        "num": 149581,
+        "word": "金秀贤即将公开的新料预告",
+        "onboard_time": 1742953641,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142571,
+        "num": 142571,
+        "word": "费启鸣说虞书欣无时无刻不在营业",
+        "onboard_time": 1742959821,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140735,
+        "num": 140735,
+        "word": "SHE一起出去旅游了",
+        "onboard_time": 1742966241,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136928,
+        "num": 136928,
+        "word": "雷军称小米克制贪婪只挣一点点",
+        "onboard_time": 1742960421,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134613,
+        "num": 134613,
+        "word": "贵女 袁立文学",
+        "onboard_time": 1742960061,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133161,
+        "num": 133161,
+        "word": "大侦探",
+        "onboard_time": 1742965042,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127794,
+        "num": 127794,
+        "word": "网红滕顺强夫妇退网",
+        "onboard_time": 1742953281,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124447,
+        "num": 124447,
+        "word": "留几手做艺先做人",
+        "onboard_time": 1742965641,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116066,
+        "num": 116066,
+        "word": "原神神里绫人",
+        "onboard_time": 1742964563,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115282,
+        "num": 115282,
+        "word": "吃俩剩馒头给孩子高兴坏了",
+        "onboard_time": 1742964383,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109294,
+        "num": 109294,
+        "word": "半熟恋人",
+        "onboard_time": 1742966421,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95879,
+        "num": 95879,
+        "word": "郝蕾演出了真正的失望不是歇斯底里",
+        "onboard_time": 1742960843,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈今年党建工作的重点任务#"
+    }
+  }
+}

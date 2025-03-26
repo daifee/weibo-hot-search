@@ -1,6 +1,6 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742964162274,
+  "endTime": 1742966606461,
   "band_list": [
     {
       "raw_hot": 2360636,
@@ -17,6 +17,14 @@
       "onboard_time": 1742947703,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2162209,
+      "num": 533423,
+      "word": "女子靠4000工资养家盼丈夫共同承担",
+      "onboard_time": 1742964444,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2079294,
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705226,
+      "num": 541007,
+      "word": "赵露思素颜录综艺",
+      "onboard_time": 1742963363,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 682092,
       "num": 682092,
       "word": "张本智和官宣入职丰田",
@@ -251,6 +267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 449933,
+      "num": 206362,
+      "word": "招商银行人均薪酬降至60万元以内",
+      "onboard_time": 1742963723,
+      "rank": 34,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 419511,
       "num": 419511,
       "word": "郑钦文vs萨巴伦卡",
@@ -281,6 +305,14 @@
       "onboard_time": 1742961501,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401721,
+      "num": 401721,
+      "word": "多方回应山姆试吃员晒工资条被开除",
+      "onboard_time": 1742965403,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 399671,
@@ -371,6 +403,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 360089,
+      "num": 403152,
+      "word": "多名台民众大陆配偶被限期离台",
+      "onboard_time": 1742964383,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 357550,
+      "num": 357550,
+      "word": "新还珠格格",
+      "onboard_time": 1742962222,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 352268,
       "num": 352268,
       "word": "郑钦文0比2萨巴伦卡",
@@ -403,8 +451,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 318922,
-      "num": 318922,
+      "raw_hot": 319359,
+      "num": 319359,
       "word": "王星 无限超越班",
       "onboard_time": 1742962282,
       "rank": 28,
@@ -419,12 +467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287305,
-      "num": 287305,
-      "word": "新还珠格格",
-      "onboard_time": 1742962222,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 301221,
+      "num": 301221,
+      "word": "金赛纶因母亲向男友透露私事分手",
+      "onboard_time": 1742964023,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 284671,
@@ -433,6 +481,14 @@
       "onboard_time": 1742915903,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 280130,
+      "num": 452358,
+      "word": "韩国救援山火直升机坠落",
+      "onboard_time": 1742963302,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 279678,
@@ -515,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238530,
-      "num": 238530,
-      "word": "赵露思素颜录综艺",
-      "onboard_time": 1742963363,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234395,
       "num": 234395,
       "word": "美国就与俄罗斯会谈发表声明",
@@ -579,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203569,
+      "num": 203569,
+      "word": "柯淳眼睛一红我就舍不得走了",
+      "onboard_time": 1742965163,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202749,
       "num": 202749,
       "word": "SK",
@@ -587,12 +643,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 201639,
-      "num": 452358,
-      "word": "韩国救援山火直升机坠落",
-      "onboard_time": 1742963302,
-      "rank": 48,
-      "category": "海外新闻"
+      "raw_hot": 201671,
+      "num": 201671,
+      "word": "考编的风又吹到了国产剧",
+      "onboard_time": 1742965462,
+      "rank": 26,
+      "category": "剧集,教育"
     },
     {
       "raw_hot": 197441,
@@ -627,12 +683,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 195689,
-      "num": 195689,
-      "word": "招商银行人均薪酬降至60万元以内",
-      "onboard_time": 1742963723,
-      "rank": 34,
-      "category": "财经,民生新闻"
+      "raw_hot": 195688,
+      "num": 195688,
+      "word": "安悦溪用AI设计卫生巾",
+      "onboard_time": 1742964383,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 193279,
@@ -657,6 +713,14 @@
       "onboard_time": 1742957721,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186422,
+      "num": 186422,
+      "word": "王嘉尔新歌在挣脱什么",
+      "onboard_time": 1742965821,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 184728,
@@ -697,6 +761,14 @@
       "onboard_time": 1742946741,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174285,
+      "num": 174285,
+      "word": "甲亢哥",
+      "onboard_time": 1742963302,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 171737,
@@ -747,6 +819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159096,
+      "num": 159096,
+      "word": "丁太升说黄英应该上歌手",
+      "onboard_time": 1742965582,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156418,
       "num": 134818,
       "word": "跑男真把吴昕喊来了",
@@ -761,14 +841,6 @@
       "onboard_time": 1742959704,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155524,
-      "num": 155524,
-      "word": "金赛纶因母亲向男友透露私事分手",
-      "onboard_time": 1742964023,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 151585,
@@ -803,20 +875,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146061,
-      "num": 146061,
-      "word": "甲亢哥",
-      "onboard_time": 1742963302,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142656,
       "num": 142656,
       "word": "苹果CEO库克现身浙大",
       "onboard_time": 1742960421,
       "rank": 43,
       "category": "数码,教育"
+    },
+    {
+      "raw_hot": 140735,
+      "num": 140735,
+      "word": "SHE一起出去旅游了",
+      "onboard_time": 1742966241,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 140673,
@@ -865,6 +937,14 @@
       "onboard_time": 1742910503,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133161,
+      "num": 133161,
+      "word": "大侦探",
+      "onboard_time": 1742965042,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 132510,
@@ -928,6 +1008,14 @@
       "word": "郝蕾演出了真正的失望不是歇斯底里",
       "onboard_time": 1742960843,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124447,
+      "num": 124447,
+      "word": "留几手做艺先做人",
+      "onboard_time": 1742965641,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1035,12 +1123,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116066,
+      "num": 116066,
+      "word": "原神神里绫人",
+      "onboard_time": 1742964563,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115593,
       "num": 115593,
       "word": "印尼1比0巴林",
       "onboard_time": 1742920698,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115282,
+      "num": 115282,
+      "word": "吃俩剩馒头给孩子高兴坏了",
+      "onboard_time": 1742964383,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 114219,
@@ -1073,6 +1177,14 @@
       "onboard_time": 1742914404,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 109294,
+      "num": 109294,
+      "word": "半熟恋人",
+      "onboard_time": 1742966421,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 107934,
@@ -1315,6 +1427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 74964,
+      "num": 821212,
+      "word": "春季9个重要健康提示",
+      "onboard_time": 1742963723,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69539,
       "num": 75186,
       "word": "赵锐 大祥哥",
@@ -1361,6 +1481,14 @@
       "onboard_time": 1742958920,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60872,
+      "num": 202514,
+      "word": "郑钦文萨巴伦卡精彩度拉满",
+      "onboard_time": 1742965641,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 60751,
@@ -1475,14 +1603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34025,
-      "num": 821212,
-      "word": "春季9个重要健康提示",
-      "onboard_time": 1742963723,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33849,
       "num": 79989,
       "word": "如何不焦虑地休个假",
@@ -1553,6 +1673,14 @@
       "onboard_time": 1742958080,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 26004,
+      "num": 201841,
+      "word": "50.9元尖椒鸡外卖吃出烟头",
+      "onboard_time": 1742966301,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23345,
@@ -1654,6 +1782,9 @@
   "hotgov_list": [
     {
       "word": "#清风正气满乾坤#"
+    },
+    {
+      "word": "#总书记谈今年党建工作的重点任务#"
     }
   ]
 }
