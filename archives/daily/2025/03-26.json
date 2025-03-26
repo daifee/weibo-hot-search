@@ -1,6 +1,6 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742996008186,
+  "endTime": 1742996672822,
   "band_list": [
     {
       "raw_hot": 2658214,
@@ -195,6 +195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 987879,
+      "num": 1158060,
+      "word": "错误洗头方式会导致脂溢性皮炎",
+      "onboard_time": 1742994321,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 973870,
       "num": 1142140,
       "word": "芒果TV调整会员同时使用设备数",
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 693042,
+      "num": 693042,
+      "word": "辛云来 夜袭横店",
+      "onboard_time": 1742995642,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 685971,
       "num": 685971,
       "word": "Rookie拿到中国绿卡",
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 683600,
-      "num": 322822,
+      "num": 324983,
       "word": "被碾压致死5岁女童家属出具谅解书",
       "onboard_time": 1742989281,
       "rank": 12,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 628254,
-      "num": 289594,
+      "num": 296054,
       "word": "黄子佼承认持有7名少女非法影片",
       "onboard_time": 1742989400,
       "rank": 11,
@@ -387,12 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 592333,
-      "num": 592333,
-      "word": "错误洗头方式会导致脂溢性皮炎",
-      "onboard_time": 1742994321,
-      "rank": 1,
-      "category": "健康医疗"
+      "raw_hot": 604380,
+      "num": 604380,
+      "word": "大16岁女友离世被赶出门男子发声",
+      "onboard_time": 1742995400,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 582940,
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 437880,
-      "num": 318117,
+      "num": 323207,
       "word": "祝绪丹神女执弓",
       "onboard_time": 1742989341,
       "rank": 31,
@@ -708,7 +724,7 @@
     },
     {
       "raw_hot": 374682,
-      "num": 316381,
+      "num": 320880,
       "word": "雁回时编剧",
       "onboard_time": 1742993242,
       "rank": 41,
@@ -841,14 +857,6 @@
       "onboard_time": 1742914584,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 298344,
-      "num": 298344,
-      "word": "辛云来 夜袭横店",
-      "onboard_time": 1742995642,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 296894,
@@ -1123,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210411,
+      "num": 196375,
+      "word": "纽约丈夫曝金赛纶给自己的信",
+      "onboard_time": 1742996482,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209278,
       "num": 467063,
       "word": "李在明二审无罪",
@@ -1275,6 +1291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194091,
+      "num": 194091,
+      "word": "湖南卫视重映新还珠格格",
+      "onboard_time": 1742995702,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194084,
       "num": 194084,
       "word": "赴山海 备播",
@@ -1304,6 +1328,22 @@
       "word": "易烊千玺摆手提醒粉丝",
       "onboard_time": 1742980522,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190690,
+      "num": 190690,
+      "word": "jeff变eff",
+      "onboard_time": 1742996482,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190249,
+      "num": 190249,
+      "word": "娜扎宫廷鎏金风",
+      "onboard_time": 1742995462,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1419,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177077,
+      "num": 177077,
+      "word": "西藏日喀则定日发生3.4级地震",
+      "onboard_time": 1742996482,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174706,
       "num": 289216,
       "word": "号称3天减10斤减肥产品含利尿剂",
@@ -1440,6 +1488,14 @@
       "word": "甲亢哥",
       "onboard_time": 1742963302,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171884,
+      "num": 171884,
+      "word": "田曦薇小红裙进妆look",
+      "onboard_time": 1742994442,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1571,14 +1627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159472,
-      "num": 159472,
-      "word": "娜扎宫廷鎏金风",
-      "onboard_time": 1742995462,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159182,
       "num": 159182,
       "word": "原神",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1742965582,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157996,
+      "num": 157996,
+      "word": "王嘉尔直升机空降上海",
+      "onboard_time": 1742995342,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 156759,
@@ -1665,14 +1721,6 @@
       "onboard_time": 1742968702,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 149956,
-      "num": 149956,
-      "word": "田曦薇小红裙进妆look",
-      "onboard_time": 1742994442,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 148182,
@@ -1827,6 +1875,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 135296,
+      "num": 273468,
+      "word": "林高远赛车漂移",
+      "onboard_time": 1742994861,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135290,
       "num": 135290,
       "word": "廊坊地震余震已5次",
@@ -1947,14 +2003,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 126210,
-      "num": 126210,
-      "word": "王嘉尔直升机空降上海",
-      "onboard_time": 1742995342,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126138,
       "num": 357044,
       "word": "女幼师遇害案二审维持死刑原判",
@@ -1985,6 +2033,14 @@
       "onboard_time": 1742978362,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124818,
+      "num": 124818,
+      "word": "莲花味精辟谣穷得只剩一栋办公楼",
+      "onboard_time": 1742996482,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124740,
@@ -2081,6 +2137,14 @@
       "onboard_time": 1742954181,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121270,
+      "num": 121270,
+      "word": "睡觉时遇到地震咋办",
+      "onboard_time": 1742996542,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120564,
@@ -2371,20 +2435,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104655,
-      "num": 104655,
-      "word": "湖南卫视重映新还珠格格",
-      "onboard_time": 1742995702,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104077,
       "num": 171943,
       "word": "临期食品变剩菜盲盒被疯抢",
       "onboard_time": 1742977341,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103892,
+      "num": 310519,
+      "word": "多方回应村民公墓被砸骨灰被抛洒",
+      "onboard_time": 1742994620,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 103836,
@@ -2627,14 +2691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83139,
-      "num": 260483,
-      "word": "大16岁女友离世被赶出门男子发声",
-      "onboard_time": 1742995400,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82907,
       "num": 82907,
       "word": "韩安冉妈妈为亲家母发声",
@@ -2691,6 +2747,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 78085,
+      "num": 176314,
+      "word": "以色列多地爆发抗议活动",
+      "onboard_time": 1742996063,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78051,
       "num": 354161,
       "word": "俄美会谈5项主要成果",
@@ -2731,14 +2795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74433,
-      "num": 310519,
-      "word": "多方回应村民公墓被砸骨灰被抛洒",
-      "onboard_time": 1742994620,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 73395,
       "num": 73395,
       "word": "WBG战胜EDG",
@@ -2777,14 +2833,6 @@
       "onboard_time": 1742918000,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 68647,
-      "num": 273468,
-      "word": "林高远赛车漂移",
-      "onboard_time": 1742994861,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 67184,
@@ -2856,6 +2904,14 @@
       "word": "美俄分别公布利雅得会谈成果",
       "onboard_time": 1742958920,
       "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 61145,
+      "num": 343658,
+      "word": "俄方要求解除制裁再停火",
+      "onboard_time": 1742995400,
+      "rank": 8,
       "category": "国际时政"
     },
     {
@@ -3219,14 +3275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 23099,
-      "num": 343658,
-      "word": "俄方要求解除制裁再停火",
-      "onboard_time": 1742995400,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21881,
       "num": 318770,
       "word": "直播间买100件保健品69个涉嫌误导",
@@ -3371,8 +3419,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 4015,
-      "num": 514649,
+      "raw_hot": 5451,
+      "num": 695837,
       "word": "万千气象看江苏",
       "onboard_time": 1742825783,
       "rank": 2,

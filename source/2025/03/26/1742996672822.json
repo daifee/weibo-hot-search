@@ -1,0 +1,410 @@
+{
+  "runTime": 1742996672822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 987879,
+        "num": 1158060,
+        "word": "错误洗头方式会导致脂溢性皮炎",
+        "onboard_time": 1742994321,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 839329,
+        "num": 839329,
+        "word": "傅云夕女儿 亲生",
+        "onboard_time": 1742988141,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5451,
+        "num": 695837,
+        "word": "万千气象看江苏",
+        "onboard_time": 1742825783,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693042,
+        "num": 693042,
+        "word": "辛云来 夜袭横店",
+        "onboard_time": 1742995642,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604380,
+        "num": 604380,
+        "word": "大16岁女友离世被赶出门男子发声",
+        "onboard_time": 1742995400,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364619,
+        "num": 364619,
+        "word": "晒工资被开除山姆试吃员签保密协议",
+        "onboard_time": 1742973742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462074,
+        "num": 360717,
+        "word": "哪吒之魔童闹海票房破150亿",
+        "onboard_time": 1742979621,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 456076,
+        "num": 356874,
+        "word": "刘诗诗林允儿活动同框",
+        "onboard_time": 1742994442,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330366,
+        "num": 330366,
+        "word": "警方通报高铁脱鞋放脚打人男被行拘",
+        "onboard_time": 1742992702,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 61145,
+        "num": 330163,
+        "word": "俄方要求解除制裁再停火",
+        "onboard_time": 1742995400,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1602976,
+        "num": 327788,
+        "word": "曾黎闲鱼",
+        "onboard_time": 1742989281,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433050,
+        "num": 324983,
+        "word": "被碾压致死5岁女童家属出具谅解书",
+        "onboard_time": 1742989281,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396788,
+        "num": 323207,
+        "word": "祝绪丹神女执弓",
+        "onboard_time": 1742989341,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320880,
+        "num": 320880,
+        "word": "雁回时编剧",
+        "onboard_time": 1742993242,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296054,
+        "num": 296054,
+        "word": "黄子佼承认持有7名少女非法影片",
+        "onboard_time": 1742989400,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259420,
+        "num": 259420,
+        "word": "原来这些歌都是李晟唱的",
+        "onboard_time": 1742985082,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241660,
+        "num": 241660,
+        "word": "长沙吸引人才不能影响教育公平",
+        "onboard_time": 1742990482,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229747,
+        "num": 229747,
+        "word": "昀牵孟绕",
+        "onboard_time": 1742984301,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225984,
+        "num": 225984,
+        "word": "粉丝称送曾黎的徽章被挂二手平台",
+        "onboard_time": 1742992702,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197946,
+        "num": 197946,
+        "word": "美群聊泄密听证会吵起来了",
+        "onboard_time": 1742993242,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225128,
+        "num": 197305,
+        "word": "李晟回应断层第一",
+        "onboard_time": 1742961921,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210411,
+        "num": 196375,
+        "word": "纽约丈夫曝金赛纶给自己的信",
+        "onboard_time": 1742996482,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194091,
+        "num": 194091,
+        "word": "湖南卫视重映新还珠格格",
+        "onboard_time": 1742995702,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190690,
+        "num": 190690,
+        "word": "jeff变eff",
+        "onboard_time": 1742996482,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190249,
+        "num": 190249,
+        "word": "娜扎宫廷鎏金风",
+        "onboard_time": 1742995462,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184874,
+        "num": 184874,
+        "word": "辛云来粉底液避雷",
+        "onboard_time": 1742992222,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173308,
+        "num": 177225,
+        "word": "网购小狗遭拒收快递员无奈收养4只",
+        "onboard_time": 1742988801,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177077,
+        "num": 177077,
+        "word": "西藏日喀则定日发生3.4级地震",
+        "onboard_time": 1742996482,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176784,
+        "num": 176784,
+        "word": "芒果TV调整会员同时使用设备数",
+        "onboard_time": 1742983342,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78085,
+        "num": 176314,
+        "word": "以色列多地爆发抗议活动",
+        "onboard_time": 1742996063,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176205,
+        "num": 176205,
+        "word": "你做我的妻子 我做你的谋士",
+        "onboard_time": 1742995162,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171884,
+        "num": 171884,
+        "word": "田曦薇小红裙进妆look",
+        "onboard_time": 1742994442,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157996,
+        "num": 157996,
+        "word": "王嘉尔直升机空降上海",
+        "onboard_time": 1742995342,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157389,
+        "num": 157389,
+        "word": "赴山海 备播",
+        "onboard_time": 1742993721,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147768,
+        "num": 147768,
+        "word": "很喜欢年轻人不扫兴的疯感",
+        "onboard_time": 1742989281,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135296,
+        "num": 135296,
+        "word": "林高远赛车漂移",
+        "onboard_time": 1742994861,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103892,
+        "num": 127284,
+        "word": "多方回应村民公墓被砸骨灰被抛洒",
+        "onboard_time": 1742994620,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 126814,
+        "num": 126814,
+        "word": "Rookie拿到中国绿卡",
+        "onboard_time": 1742982080,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124818,
+        "num": 124818,
+        "word": "莲花味精辟谣穷得只剩一栋办公楼",
+        "onboard_time": 1742996482,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124365,
+        "num": 124365,
+        "word": "吴宣仪舞蹈solo",
+        "onboard_time": 1742992820,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122590,
+        "num": 122590,
+        "word": "棋士",
+        "onboard_time": 1742990362,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29317,
+        "num": 121622,
+        "word": "神印王座首个特别篇上线",
+        "onboard_time": 1742995400,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 121270,
+        "num": 121270,
+        "word": "睡觉时遇到地震咋办",
+        "onboard_time": 1742996542,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118222,
+        "num": 118222,
+        "word": "号称3天减10斤减肥产品含利尿剂",
+        "onboard_time": 1742987660,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113266,
+        "num": 113266,
+        "word": "沙溢 美黑",
+        "onboard_time": 1742984662,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33163,
+        "num": 108374,
+        "word": "女子卖有毒减肥产品被抓还装无辜",
+        "onboard_time": 1742992883,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106809,
+        "num": 106809,
+        "word": "乘风直播",
+        "onboard_time": 1742993662,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105123,
+        "num": 105123,
+        "word": "赵子豪4比1刘丁硕",
+        "onboard_time": 1742993480,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103771,
+        "num": 103771,
+        "word": "刘诗诗出席Qeelin晚宴",
+        "onboard_time": 1742993061,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 91872,
+        "num": 91872,
+        "word": "易烊千玺摆手提醒粉丝",
+        "onboard_time": 1742980522,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#清风正气满乾坤#"
+    }
+  }
+}

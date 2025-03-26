@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/03/01 00:29:32 ~ 2025/03/26 21:33:28
+本榜单时间：2025/03/01 00:29:32 ~ 2025/03/26 21:44:32
 </p>
 </blockquote>
 <p>
@@ -4101,6 +4101,12 @@ DeepSeek没彻底改变全球AI发展格局（热度：1006977）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%94%99%E8%AF%AF%E6%B4%97%E5%A4%B4%E6%96%B9%E5%BC%8F%E4%BC%9A%E5%AF%BC%E8%87%B4%E8%84%82%E6%BA%A2%E6%80%A7%E7%9A%AE%E7%82%8E%23" target="weibo">
+错误洗头方式会导致脂溢性皮炎（热度：987879）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%9C%A8%E7%BA%BF%E8%BE%9F%E8%B0%A3%E8%BE%93%E4%BA%86%E5%8D%81%E4%B8%AA%E4%BA%BF%23" target="weibo">
 黄晓明在线辟谣输了十个亿（热度：987096）
 </a>
@@ -6005,12 +6011,6 @@ DeepSeek眼中不会被AI替代的职业（热度：784020）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%E6%94%B9%E7%BC%96%23" target="weibo">
 难哄改编（热度：765128）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E9%99%A2%E7%A6%81%E6%AD%A2newjeans%E7%8B%AC%E7%AB%8B%E6%B4%BB%E5%8A%A8%23" target="weibo">
-法院禁止newjeans独立活动（热度：764434）
 </a>
 </li>
 
