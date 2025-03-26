@@ -1,6 +1,6 @@
 {
   "startTime": 1742920144304,
-  "endTime": 1742967646091,
+  "endTime": 1742970807812,
   "band_list": [
     {
       "raw_hot": 2360636,
@@ -235,6 +235,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 574019,
+      "num": 358435,
+      "word": "赵露思 做不了的事我就说讨厌",
+      "onboard_time": 1742967201,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 561386,
+      "num": 561386,
+      "word": "招商银行人均薪酬降至60万元以内",
+      "onboard_time": 1742963723,
+      "rank": 34,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 534103,
       "num": 534103,
       "word": "7个月婴儿误舔蜂蜜勺肉毒杆菌中毒",
@@ -251,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 515883,
-      "num": 218410,
-      "word": "招商银行人均薪酬降至60万元以内",
-      "onboard_time": 1742963723,
-      "rank": 34,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 509243,
       "num": 509243,
       "word": "天津震感",
@@ -273,6 +281,22 @@
       "onboard_time": 1742923998,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 489460,
+      "num": 489460,
+      "word": "又贵又难吃的羽衣甘蓝被疯抢",
+      "onboard_time": 1742967021,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465988,
+      "num": 465988,
+      "word": "李佳航超话 给李晟投票",
+      "onboard_time": 1742966602,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 454184,
@@ -297,14 +321,6 @@
       "onboard_time": 1742964023,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 430414,
-      "num": 430414,
-      "word": "李佳航超话 给李晟投票",
-      "onboard_time": 1742966602,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 419511,
@@ -411,6 +427,14 @@
       "category": "民生新闻,民生新闻"
     },
     {
+      "raw_hot": 371528,
+      "num": 123827,
+      "word": "地震逃生还需要刷脸刷卡出闸机",
+      "onboard_time": 1742968881,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369616,
       "num": 379667,
       "word": "高泰宇说肖战人品特别好",
@@ -427,12 +451,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365837,
+      "num": 365837,
+      "word": "官方回应公积金中心光纤被挖断3次",
+      "onboard_time": 1742969002,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357550,
       "num": 357550,
       "word": "新还珠格格",
       "onboard_time": 1742962222,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 354852,
+      "num": 354852,
+      "word": "关晓彤久违的好天气和春天的剧组餐",
+      "onboard_time": 1742967862,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 352268,
@@ -491,6 +531,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 281384,
+      "num": 281384,
+      "word": "小鹿妈妈前员工说上班就像坐牢",
+      "onboard_time": 1742967562,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280130,
       "num": 452358,
       "word": "韩国救援山火直升机坠落",
@@ -513,6 +561,14 @@
       "onboard_time": 1742949202,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273690,
+      "num": 262741,
+      "word": "张丹峰演求婚被分手",
+      "onboard_time": 1742969481,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 269637,
@@ -739,6 +795,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187551,
+      "num": 187551,
+      "word": "中国平安有高管年薪1342万",
+      "onboard_time": 1742967922,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 187412,
+      "num": 363768,
+      "word": "2025新剧扎堆",
+      "onboard_time": 1742969841,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187339,
       "num": 187339,
       "word": "发现甄嬛传皇后为了人设改了三次妆",
@@ -787,12 +859,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 180452,
-      "num": 180452,
-      "word": "赵露思 做不了的事我就说讨厌",
-      "onboard_time": 1742967201,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 178709,
+      "num": 178709,
+      "word": "吃俩剩馒头给孩子高兴坏了",
+      "onboard_time": 1742964383,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 178404,
@@ -833,6 +905,14 @@
       "onboard_time": 1742960361,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165997,
+      "num": 165997,
+      "word": "女子拔牙后坠亡事件后续",
+      "onboard_time": 1742970141,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161619,
@@ -883,28 +963,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152080,
-      "num": 152080,
-      "word": "吃俩剩馒头给孩子高兴坏了",
-      "onboard_time": 1742964383,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151585,
       "num": 247343,
       "word": "范丞丞 回归",
       "onboard_time": 1742952741,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150446,
-      "num": 181069,
-      "word": "又贵又难吃的羽衣甘蓝被疯抢",
-      "onboard_time": 1742967021,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150396,
@@ -915,12 +979,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 150114,
+      "num": 156466,
+      "word": "迪丽热巴春日全黑look",
+      "onboard_time": 1742968702,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 147881,
       "num": 147881,
       "word": "减重后近8成人群反弹",
       "onboard_time": 1742952260,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 146931,
+      "num": 146931,
+      "word": "刘畊宏改练马拉松",
+      "onboard_time": 1742969781,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 146852,
@@ -1227,6 +1307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 109422,
+      "num": 109422,
+      "word": "王浩信TVB视帝来内地演综闯关",
+      "onboard_time": 1742970442,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107934,
       "num": 107934,
       "word": "武大樱花",
@@ -1259,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104777,
+      "num": 161574,
+      "word": "刘建宏说球迷就是国足的希望",
+      "onboard_time": 1742970561,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101427,
       "num": 101427,
       "word": "河北震感",
@@ -1281,6 +1377,14 @@
       "onboard_time": 1742949622,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96607,
+      "num": 156377,
+      "word": "宋茜唐艺昕张佳宁聚餐合照",
+      "onboard_time": 1742970741,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 96219,
@@ -1531,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62421,
+      "num": 124714,
+      "word": "留几手实名支持侯佩岑",
+      "onboard_time": 1742968822,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62141,
       "num": 205242,
       "word": "美俄分别公布利雅得会谈成果",
@@ -1619,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39622,
+      "num": 160928,
+      "word": "牛肉干里完全无牛6人被判刑",
+      "onboard_time": 1742969302,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39109,
       "num": 266786,
       "word": "利拉德无限期休战",
@@ -1641,6 +1761,14 @@
       "onboard_time": 1742960481,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 36858,
+      "num": 296193,
+      "word": "动物躁动不安是地震前兆吗",
+      "onboard_time": 1742969302,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 36797,
@@ -1729,14 +1857,6 @@
       "onboard_time": 1742958080,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 26057,
-      "num": 180511,
-      "word": "小鹿妈妈前员工说上班就像坐牢",
-      "onboard_time": 1742967562,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23345,
