@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743115314183,
+  "endTime": 1743117891658,
   "band_list": [
     {
       "raw_hot": 1470934,
@@ -36,10 +36,26 @@
     },
     {
       "raw_hot": 396660,
-      "num": 185982,
+      "num": 188368,
       "word": "金赛纶写给文彬的信",
       "onboard_time": 1743084742,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 377036,
+      "num": 377036,
+      "word": "李在明视察山火灾情时遇袭",
+      "onboard_time": 1743111133,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 329550,
+      "num": 329550,
+      "word": "李现加入公园打鸟大爷队伍",
+      "onboard_time": 1743093079,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -57,6 +73,14 @@
       "onboard_time": 1743078622,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267956,
+      "num": 267956,
+      "word": "赵露思被小孩问成静止帧了",
+      "onboard_time": 1743097695,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 257748,
@@ -83,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223909,
+      "num": 223909,
+      "word": "张馨予说管不住嘴就看钟楚曦",
+      "onboard_time": 1743080241,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223051,
       "num": 223051,
       "word": "赵露思生病前和家人几乎不联系",
@@ -99,6 +131,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209064,
+      "num": 209064,
+      "word": "女人40岁才是人生的开始",
+      "onboard_time": 1743093617,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200984,
+      "num": 195157,
+      "word": "王宝强新剧78秒8个假动作",
+      "onboard_time": 1743082822,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199094,
       "num": 199094,
       "word": "人民网评古偶失灵",
@@ -107,12 +155,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195157,
-      "num": 195157,
-      "word": "王宝强新剧78秒8个假动作",
-      "onboard_time": 1743082822,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 192103,
+      "num": 192103,
+      "word": "泪点低其实是大脑太发达",
+      "onboard_time": 1743090141,
+      "rank": 27,
+      "category": "健康医疗,美妆"
+    },
+    {
+      "raw_hot": 186760,
+      "num": 186760,
+      "word": "大鹅多处被烤熟仍不离开被烧死同伴",
+      "onboard_time": 1743077242,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182860,
@@ -123,20 +179,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181615,
-      "num": 181615,
-      "word": "张馨予说管不住嘴就看钟楚曦",
-      "onboard_time": 1743080241,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 178279,
-      "num": 178279,
-      "word": "女人40岁才是人生的开始",
-      "onboard_time": 1743093617,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 176635,
+      "num": 189206,
+      "word": "公司回应加班10晚可帮缴社保个人部分",
+      "onboard_time": 1743090681,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166074,
@@ -147,28 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162285,
-      "num": 162285,
-      "word": "李在明视察山火灾情时遇袭",
-      "onboard_time": 1743111133,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 152762,
       "num": 152762,
       "word": "怪盗基德好伟大的脸",
       "onboard_time": 1743084383,
       "rank": 16,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 150646,
-      "num": 150646,
-      "word": "赵露思被小孩问成静止帧了",
-      "onboard_time": 1743097695,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 142723,
@@ -179,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129726,
+      "num": 154155,
+      "word": "你被二手烟困扰过吗",
+      "onboard_time": 1743093079,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126153,
       "num": 126153,
       "word": "爸爸去世女儿被判和4个姑姑平分遗产",
@@ -187,28 +227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125202,
-      "num": 125202,
-      "word": "泪点低其实是大脑太发达",
-      "onboard_time": 1743090141,
-      "rank": 27,
-      "category": "健康医疗,美妆"
-    },
-    {
-      "raw_hot": 124947,
-      "num": 154155,
-      "word": "你被二手烟困扰过吗",
-      "onboard_time": 1743093079,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124158,
-      "num": 124158,
-      "word": "李现加入公园打鸟大爷队伍",
-      "onboard_time": 1743093079,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 118176,
+      "num": 118176,
+      "word": "国防部提醒日本",
+      "onboard_time": 1743076402,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115226,
@@ -243,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93079,
-      "num": 189206,
-      "word": "公司回应加班10晚可帮缴社保个人部分",
-      "onboard_time": 1743090681,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 93598,
+      "num": 109606,
+      "word": "小婉管乐连睡觉都分不开",
+      "onboard_time": 1743076281,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 91467,
@@ -259,20 +283,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91409,
+      "num": 91409,
+      "word": "秦岭这次没能挡住沙尘",
+      "onboard_time": 1743082581,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89573,
       "num": 89573,
       "word": "李晟为什么爆火出圈",
       "onboard_time": 1743071480,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 88504,
-      "num": 88504,
-      "word": "大鹅多处被烤熟仍不离开被烧死同伴",
-      "onboard_time": 1743077242,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86666,
@@ -297,6 +321,14 @@
       "onboard_time": 1743080422,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80388,
+      "num": 80388,
+      "word": "明天是全红婵18岁生日",
+      "onboard_time": 1743094098,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 79759,
@@ -339,27 +371,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75300,
-      "num": 86655,
-      "word": "国防部提醒日本",
-      "onboard_time": 1743076402,
-      "rank": 36,
-      "category": "国内时政"
+      "raw_hot": 76688,
+      "num": 76688,
+      "word": "如果庄寒雁就是庄语琴",
+      "onboard_time": 1743114975,
+      "rank": 47,
+      "category": "剧集"
     },
     {
-      "raw_hot": 73565,
-      "num": 86654,
-      "word": "小婉管乐连睡觉都分不开",
-      "onboard_time": 1743076281,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 75961,
+      "num": 75961,
+      "word": "马斯克回应特朗普对进口汽车加征关税",
+      "onboard_time": 1743116298,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 72532,
-      "num": 86652,
-      "word": "秦岭这次没能挡住沙尘",
-      "onboard_time": 1743082581,
-      "rank": 38,
+      "raw_hot": 73977,
+      "num": 73977,
+      "word": "女孩遭强奸案民警被控渎职不予立案",
+      "onboard_time": 1743076521,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -395,20 +427,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61756,
+      "num": 61756,
+      "word": "小女孩一句不痛听得眼泪下来了",
+      "onboard_time": 1743101054,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60537,
       "num": 86645,
       "word": "IU权志龙再唱Palette",
       "onboard_time": 1743073761,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 60475,
-      "num": 52528,
-      "word": "明天是全红婵18岁生日",
-      "onboard_time": 1743094098,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 58692,
@@ -459,27 +491,59 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33823,
-      "num": 46784,
-      "word": "女孩遭强奸案民警被控渎职不予立案",
-      "onboard_time": 1743076521,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 43935,
+      "num": 43935,
+      "word": "权志龙回应时隔7年回归",
+      "onboard_time": 1743115457,
+      "rank": 37,
+      "category": "艺人"
     },
     {
-      "raw_hot": 29847,
-      "num": 29847,
-      "word": "小女孩一句不痛听得眼泪下来了",
-      "onboard_time": 1743101054,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 40596,
+      "num": 40596,
+      "word": "男子倒地抽搐一对护士夫妻出手了",
+      "onboard_time": 1743104654,
+      "rank": 45,
+      "category": "正能量"
     },
     {
-      "raw_hot": 28842,
-      "num": 28842,
+      "raw_hot": 39276,
+      "num": 39276,
       "word": "羽衣甘蓝奶茶减肥是智商税",
       "onboard_time": 1743109454,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37446,
+      "num": 38046,
+      "word": "棋士 黑色幽默",
+      "onboard_time": 1743085942,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 29472,
+      "num": 37427,
+      "word": "针对美方加征关税措施中方已起诉",
+      "onboard_time": 1743109814,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 26974,
+      "num": 37408,
+      "word": "只有跑起来你才知道自己有多强",
+      "onboard_time": 1743117678,
+      "rank": 48,
+      "category": "运动健身,体育"
+    },
+    {
+      "raw_hot": 26524,
+      "num": 37405,
+      "word": "小两口默契配合救下癫痫男子",
+      "onboard_time": 1743110534,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -499,44 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24960,
-      "num": 38046,
-      "word": "棋士 黑色幽默",
-      "onboard_time": 1743085942,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 24447,
-      "num": 28841,
-      "word": "男子倒地抽搐一对护士夫妻出手了",
-      "onboard_time": 1743104654,
-      "rank": 45,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 24163,
-      "num": 28839,
-      "word": "小两口默契配合救下癫痫男子",
-      "onboard_time": 1743110534,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23748,
       "num": 38044,
       "word": "辛云来说外界的评价我都接受",
       "onboard_time": 1743097037,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22262,
-      "num": 28839,
-      "word": "针对美方加征关税措施中方已起诉",
-      "onboard_time": 1743109814,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 21420,
@@ -577,14 +609,6 @@
       "onboard_time": 1743109694,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16896,
-      "num": 28837,
-      "word": "如果庄寒雁就是庄语琴",
-      "onboard_time": 1743114975,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 16071,
@@ -667,8 +691,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 5620,
-      "num": 186368,
+      "raw_hot": 7917,
+      "num": 415417,
       "word": "2024中国科学十大进展发布",
       "onboard_time": 1743046221,
       "rank": 2,
