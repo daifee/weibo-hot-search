@@ -1,0 +1,410 @@
+{
+  "runTime": 1743094007153,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 660498,
+        "num": 759082,
+        "word": "上海对边走边抽烟的游烟族出手了",
+        "onboard_time": 1743089781,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576664,
+        "num": 576664,
+        "word": "生双胞胎17岁代孕女孩已嫁人",
+        "onboard_time": 1743089002,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3102,
+        "num": 396659,
+        "word": "万千气象看江苏",
+        "onboard_time": 1742825783,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323898,
+        "num": 323898,
+        "word": "金价",
+        "onboard_time": 1743076161,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 219682,
+        "num": 219682,
+        "word": "冰箱贴是年轻人的到此一游",
+        "onboard_time": 1743078622,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195334,
+        "num": 195334,
+        "word": "舒马赫近乎植物人",
+        "onboard_time": 1743081261,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190950,
+        "num": 190950,
+        "word": "赵露思生病前和家人几乎不联系",
+        "onboard_time": 1743078741,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171678,
+        "num": 171678,
+        "word": "my name is jeff 嘟嘟嘟嘟",
+        "onboard_time": 1743082703,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154548,
+        "num": 154548,
+        "word": "王宝强新剧78秒8个假动作",
+        "onboard_time": 1743082822,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69398,
+        "num": 154155,
+        "word": "你被二手烟困扰过吗",
+        "onboard_time": 1743093079,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1158206,
+        "num": 151048,
+        "word": "宋雨琦 受伤",
+        "onboard_time": 1743089061,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299969,
+        "num": 149900,
+        "word": "金赛纶写给文彬的信",
+        "onboard_time": 1743084742,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257748,
+        "num": 147501,
+        "word": "把蔡文静的伤痕看成了吻痕",
+        "onboard_time": 1743090922,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166074,
+        "num": 146670,
+        "word": "王嘉尔直播庆生party",
+        "onboard_time": 1743093678,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145314,
+        "num": 145314,
+        "word": "雁回时热度",
+        "onboard_time": 1743079943,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141096,
+        "num": 141096,
+        "word": "张馨予说管不住嘴就看钟楚曦",
+        "onboard_time": 1743080241,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134473,
+        "num": 134473,
+        "word": "人民网评古偶失灵",
+        "onboard_time": 1743084383,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120510,
+        "num": 120510,
+        "word": "女人40岁才是人生的开始",
+        "onboard_time": 1743093617,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113455,
+        "num": 113455,
+        "word": "怪盗基德好伟大的脸",
+        "onboard_time": 1743084383,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 64979,
+        "num": 111013,
+        "word": "李现加入公园打鸟大爷队伍",
+        "onboard_time": 1743093079,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166522,
+        "num": 110948,
+        "word": "唐嫣 你的兵来了",
+        "onboard_time": 1743076823,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119887,
+        "num": 110525,
+        "word": "金赛纶和朋友的聊天记录公开",
+        "onboard_time": 1743086062,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109977,
+        "num": 109977,
+        "word": "爸爸去世女儿被判和4个姑姑平分遗产",
+        "onboard_time": 1743056242,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102704,
+        "num": 102704,
+        "word": "念无双 老年宣发",
+        "onboard_time": 1743079403,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60082,
+        "num": 98978,
+        "word": "周琦受伤",
+        "onboard_time": 1743090859,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97231,
+        "num": 97231,
+        "word": "泪点低其实是大脑太发达",
+        "onboard_time": 1743090141,
+        "rank": 25,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 91467,
+        "num": 91467,
+        "word": "焦虑型依恋人格",
+        "onboard_time": 1743092478,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87434,
+        "num": 87434,
+        "word": "4岁双胞胎捐髓救妈妈",
+        "onboard_time": 1743087922,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81965,
+        "num": 81965,
+        "word": "喻恩泰演技",
+        "onboard_time": 1743084262,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78271,
+        "num": 78271,
+        "word": "唐嫣台词",
+        "onboard_time": 1743077182,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78418,
+        "num": 76700,
+        "word": "雁回时",
+        "onboard_time": 1743067521,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74886,
+        "num": 74886,
+        "word": "李晟为什么爆火出圈",
+        "onboard_time": 1743071480,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72308,
+        "num": 72308,
+        "word": "大鹅多处被烤熟仍不离开被烧死同伴",
+        "onboard_time": 1743077242,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72240,
+        "num": 72240,
+        "word": "念无双",
+        "onboard_time": 1743074421,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67332,
+        "num": 67332,
+        "word": "国防部提醒日本",
+        "onboard_time": 1743076402,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66532,
+        "num": 66532,
+        "word": "吴宣仪赛前秀第一",
+        "onboard_time": 1743080422,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66053,
+        "num": 66053,
+        "word": "成都沙尘暴",
+        "onboard_time": 1743072259,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66119,
+        "num": 66000,
+        "word": "小婉管乐连睡觉都分不开",
+        "onboard_time": 1743076281,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65432,
+        "num": 65432,
+        "word": "儿子给腰突父亲买40小时硬座票",
+        "onboard_time": 1743049462,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65257,
+        "num": 65257,
+        "word": "抢凤冠冰箱贴的队排到了国博大门外",
+        "onboard_time": 1743080482,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63969,
+        "num": 63969,
+        "word": "公司回应加班10晚可帮缴社保个人部分",
+        "onboard_time": 1743090681,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63339,
+        "num": 63339,
+        "word": "宋茜 喝什么中药一起喝茶吧",
+        "onboard_time": 1743085222,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59380,
+        "num": 63339,
+        "word": "jiejie采访",
+        "onboard_time": 1743089302,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 55697,
+        "num": 63339,
+        "word": "庄仕洋 还我妈咪",
+        "onboard_time": 1743092239,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55680,
+        "num": 63339,
+        "word": "范丞丞淋过雨所以给张真源撑伞",
+        "onboard_time": 1743083663,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55446,
+        "num": 63339,
+        "word": "秦岭这次没能挡住沙尘",
+        "onboard_time": 1743082581,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52723,
+        "num": 63339,
+        "word": "IU权志龙再唱Palette",
+        "onboard_time": 1743073761,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48495,
+        "num": 63339,
+        "word": "肖战满头小夹子",
+        "onboard_time": 1743067462,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46897,
+        "num": 63339,
+        "word": "学校回应教师临近退休突遭解聘",
+        "onboard_time": 1743086720,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45239,
+        "num": 63339,
+        "word": "东北夫妻在淮安开店遭刁难亏本后续",
+        "onboard_time": 1743087741,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#留得清气满乾坤#"
+    }
+  }
+}

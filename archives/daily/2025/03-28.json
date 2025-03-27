@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743093083168,
+  "endTime": 1743094007153,
   "band_list": [
     {
       "raw_hot": 1470934,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 560283,
-      "num": 560283,
+      "raw_hot": 660498,
+      "num": 759082,
       "word": "上海对边走边抽烟的游烟族出手了",
       "onboard_time": 1743089781,
       "rank": 1,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257748,
+      "num": 184090,
+      "word": "把蔡文静的伤痕看成了吻痕",
+      "onboard_time": 1743090922,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247325,
       "num": 118759,
       "word": "唐嫣 你的兵来了",
@@ -88,14 +96,6 @@
       "word": "my name is jeff 嘟嘟嘟嘟",
       "onboard_time": 1743082703,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 208131,
-      "num": 184090,
-      "word": "把蔡文静的伤痕看成了吻痕",
-      "onboard_time": 1743090922,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166074,
+      "num": 146670,
+      "word": "王嘉尔直播庆生party",
+      "onboard_time": 1743093678,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152762,
       "num": 152762,
       "word": "怪盗基德好伟大的脸",
@@ -153,6 +161,14 @@
       "onboard_time": 1743056242,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120510,
+      "num": 120510,
+      "word": "女人40岁才是人生的开始",
+      "onboard_time": 1743093617,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 115226,
@@ -179,12 +195,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97231,
+      "num": 97231,
+      "word": "泪点低其实是大脑太发达",
+      "onboard_time": 1743090141,
+      "rank": 27,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 94705,
       "num": 89052,
       "word": "许佳琪少年阮惜文杀青",
       "onboard_time": 1743088942,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91467,
+      "num": 91467,
+      "word": "焦虑型依恋人格",
+      "onboard_time": 1743092478,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 89573,
@@ -201,14 +233,6 @@
       "onboard_time": 1743077242,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87398,
-      "num": 87398,
-      "word": "泪点低其实是大脑太发达",
-      "onboard_time": 1743090141,
-      "rank": 27,
-      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 86666,
@@ -251,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78418,
+      "num": 76700,
+      "word": "雁回时",
+      "onboard_time": 1743067521,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78178,
       "num": 86658,
       "word": "jiejie采访",
@@ -291,8 +323,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69398,
+      "num": 154155,
+      "word": "你被二手烟困扰过吗",
+      "onboard_time": 1743093079,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69136,
-      "num": 86660,
+      "num": 98978,
       "word": "周琦受伤",
       "onboard_time": 1743090859,
       "rank": 32,
@@ -307,11 +347,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64784,
+      "raw_hot": 65432,
       "num": 86649,
       "word": "儿子给腰突父亲买40小时硬座票",
       "onboard_time": 1743049462,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64979,
+      "num": 111013,
+      "word": "李现加入公园打鸟大爷队伍",
+      "onboard_time": 1743093079,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 63969,
+      "num": 189206,
+      "word": "公司回应加班10晚可帮缴社保个人部分",
+      "onboard_time": 1743090681,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -320,14 +376,6 @@
       "word": "东北夫妻在淮安开店遭刁难亏本后续",
       "onboard_time": 1743087741,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61689,
-      "num": 189206,
-      "word": "公司回应加班10晚可帮缴社保个人部分",
-      "onboard_time": 1743090681,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -345,14 +393,6 @@
       "onboard_time": 1743067462,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 57985,
-      "num": 86643,
-      "word": "焦虑型依恋人格",
-      "onboard_time": 1743092478,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 56839,
