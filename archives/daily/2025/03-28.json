@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743114186659,
+  "endTime": 1743115314183,
   "band_list": [
     {
       "raw_hot": 1470934,
@@ -147,12 +147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162285,
+      "num": 162285,
+      "word": "李在明视察山火灾情时遇袭",
+      "onboard_time": 1743111133,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 152762,
       "num": 152762,
       "word": "怪盗基德好伟大的脸",
       "onboard_time": 1743084383,
       "rank": 16,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 150646,
+      "num": 150646,
+      "word": "赵露思被小孩问成静止帧了",
+      "onboard_time": 1743097695,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 142723,
@@ -171,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125202,
+      "num": 125202,
+      "word": "泪点低其实是大脑太发达",
+      "onboard_time": 1743090141,
+      "rank": 27,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 124947,
       "num": 154155,
       "word": "你被二手烟困扰过吗",
@@ -185,14 +209,6 @@
       "onboard_time": 1743093079,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122385,
-      "num": 97231,
-      "word": "泪点低其实是大脑太发达",
-      "onboard_time": 1743090141,
-      "rank": 27,
-      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 115226,
@@ -219,28 +235,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102651,
-      "num": 102651,
-      "word": "赵露思被小孩问成静止帧了",
-      "onboard_time": 1743097695,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 102066,
-      "num": 102066,
-      "word": "李在明视察山火灾情时遇袭",
-      "onboard_time": 1743111133,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 94705,
       "num": 89052,
       "word": "许佳琪少年阮惜文杀青",
       "onboard_time": 1743088942,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93079,
+      "num": 189206,
+      "word": "公司回应加班10晚可帮缴社保个人部分",
+      "onboard_time": 1743090681,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91467,
@@ -363,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68380,
-      "num": 189206,
-      "word": "公司回应加班10晚可帮缴社保个人部分",
-      "onboard_time": 1743090681,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66083,
       "num": 86651,
       "word": "范丞丞淋过雨所以给张真源撑伞",
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 60475,
-      "num": 51953,
+      "num": 52528,
       "word": "明天是全红婵18岁生日",
       "onboard_time": 1743094098,
       "rank": 37,
@@ -467,6 +467,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29847,
+      "num": 29847,
+      "word": "小女孩一句不痛听得眼泪下来了",
+      "onboard_time": 1743101054,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28842,
+      "num": 28842,
+      "word": "羽衣甘蓝奶茶减肥是智商税",
+      "onboard_time": 1743109454,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26234,
       "num": 38073,
       "word": "世界戏剧日",
@@ -491,8 +507,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24447,
+      "num": 28841,
+      "word": "男子倒地抽搐一对护士夫妻出手了",
+      "onboard_time": 1743104654,
+      "rank": 45,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 24163,
-      "num": 24163,
+      "num": 28839,
       "word": "小两口默契配合救下癫痫男子",
       "onboard_time": 1743110534,
       "rank": 36,
@@ -507,20 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23252,
-      "num": 23987,
-      "word": "小女孩一句不痛听得眼泪下来了",
-      "onboard_time": 1743101054,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22690,
-      "num": 22690,
-      "word": "羽衣甘蓝奶茶减肥是智商税",
-      "onboard_time": 1743109454,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 22262,
+      "num": 28839,
+      "word": "针对美方加征关税措施中方已起诉",
+      "onboard_time": 1743109814,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21420,
@@ -529,22 +545,6 @@
       "onboard_time": 1743094397,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20573,
-      "num": 27396,
-      "word": "针对美方加征关税措施中方已起诉",
-      "onboard_time": 1743109814,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 20504,
-      "num": 22497,
-      "word": "男子倒地抽搐一对护士夫妻出手了",
-      "onboard_time": 1743104654,
-      "rank": 45,
-      "category": "正能量"
     },
     {
       "raw_hot": 19429,
@@ -571,6 +571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17501,
+      "num": 28838,
+      "word": "情景再现美群聊泄密事件",
+      "onboard_time": 1743109694,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 16896,
+      "num": 28837,
+      "word": "如果庄寒雁就是庄语琴",
+      "onboard_time": 1743114975,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16071,
       "num": 21776,
       "word": "浪姐",
@@ -579,12 +595,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15893,
-      "num": 22476,
-      "word": "情景再现美群聊泄密事件",
-      "onboard_time": 1743109694,
+      "raw_hot": 16009,
+      "num": 28837,
+      "word": "遇见艺术",
+      "onboard_time": 1743114136,
       "rank": 49,
-      "category": "国内时政"
+      "category": "情感"
+    },
+    {
+      "raw_hot": 14967,
+      "num": 28836,
+      "word": "肖战愿我们都能在音乐旅程中找到自己",
+      "onboard_time": 1743113475,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 14951,
@@ -609,14 +633,6 @@
       "onboard_time": 1743106214,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12659,
-      "num": 22466,
-      "word": "遇见艺术",
-      "onboard_time": 1743114136,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 12529,
@@ -651,8 +667,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 4011,
-      "num": 154748,
+      "raw_hot": 5620,
+      "num": 186368,
       "word": "2024中国科学十大进展发布",
       "onboard_time": 1743046221,
       "rank": 2,
