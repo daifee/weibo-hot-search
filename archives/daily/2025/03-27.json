@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743083041349,
+  "endTime": 1743085436186,
   "band_list": [
     {
       "raw_hot": 2838286,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 761397,
+      "num": 761397,
+      "word": "舒马赫近乎植物人",
+      "onboard_time": 1743081261,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 736896,
       "num": 736896,
       "word": "陈都灵晒辛云来煮的米线",
@@ -280,6 +288,22 @@
       "word": "孟美岐黄圣依跑马拉松",
       "onboard_time": 1743044122,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 708839,
+      "num": 316558,
+      "word": "医生连续六年下班卖小吃月入近2万",
+      "onboard_time": 1743079283,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 696602,
+      "num": 696602,
+      "word": "my name is jeff 嘟嘟嘟嘟",
+      "onboard_time": 1743082703,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -371,14 +395,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 581560,
-      "num": 581560,
-      "word": "舒马赫近乎植物人",
-      "onboard_time": 1743081261,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 576758,
       "num": 326980,
       "word": "短剧阵容这么顶了吗",
@@ -403,19 +419,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551021,
+      "num": 551021,
+      "word": "张馨予说管不住嘴就看钟楚曦",
+      "onboard_time": 1743080241,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542254,
       "num": 542254,
       "word": "成都沙尘暴",
       "onboard_time": 1743072259,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 539383,
-      "num": 316558,
-      "word": "医生连续六年下班卖小吃月入近2万",
-      "onboard_time": 1743079283,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -611,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410299,
+      "num": 410299,
+      "word": "王宝强新剧78秒8个假动作",
+      "onboard_time": 1743082822,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407436,
       "num": 407436,
       "word": "2人身绑28只活体龟入境",
@@ -707,11 +731,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 369351,
-      "num": 310236,
-      "word": "张馨予说管不住嘴就看钟楚曦",
-      "onboard_time": 1743080241,
-      "rank": 36,
+      "raw_hot": 371421,
+      "num": 279267,
+      "word": "金赛纶写给文彬的信",
+      "onboard_time": 1743084742,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -883,6 +907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 284525,
+      "num": 275540,
+      "word": "王一博现身宁波国际赛道",
+      "onboard_time": 1743081021,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275331,
       "num": 275331,
       "word": "丹宁高速桥梁垮43名公职人员被问责",
@@ -921,6 +953,14 @@
       "onboard_time": 1743073761,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 267242,
+      "num": 267242,
+      "word": "喻恩泰演技",
+      "onboard_time": 1743084262,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 264618,
@@ -1067,6 +1107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 221883,
+      "num": 221883,
+      "word": "雁回时热度",
+      "onboard_time": 1743079943,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215815,
       "num": 215815,
       "word": "刘晓庆短剧中演婆婆被儿媳台词震惊",
@@ -1080,6 +1128,14 @@
       "word": "Ning回应乐言",
       "onboard_time": 1743066982,
       "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 214118,
+      "num": 214118,
+      "word": "IG战胜LNG",
+      "onboard_time": 1743084622,
+      "rank": 24,
       "category": "电竞"
     },
     {
@@ -1153,6 +1209,14 @@
       "onboard_time": 1743050963,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206797,
+      "num": 206797,
+      "word": "范丞丞淋过雨所以给张真源撑伞",
+      "onboard_time": 1743083663,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 206531,
@@ -1347,6 +1411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 183270,
+      "num": 183270,
+      "word": "山东一任教31年教师临近退休突遭解聘",
+      "onboard_time": 1743081741,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182615,
       "num": 375330,
       "word": "预包装食品可自愿标示消费保存期",
@@ -1385,14 +1457,6 @@
       "onboard_time": 1743041300,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181059,
-      "num": 181059,
-      "word": "王宝强新剧78秒8个假动作",
-      "onboard_time": 1743082822,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 180365,
@@ -1457,6 +1521,14 @@
       "onboard_time": 1743051743,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173501,
+      "num": 173501,
+      "word": "马拉松",
+      "onboard_time": 1743084563,
+      "rank": 27,
+      "category": "运动健身"
     },
     {
       "raw_hot": 172992,
@@ -1547,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163143,
+      "num": 163143,
+      "word": "怪盗基德好伟大的脸",
+      "onboard_time": 1743084383,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 161160,
       "num": 181925,
       "word": "王楚钦拍公式照",
@@ -1571,14 +1651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159397,
-      "num": 159397,
-      "word": "雁回时热度",
-      "onboard_time": 1743079943,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158219,
       "num": 197103,
       "word": "樊振东棚拍花絮",
@@ -1600,6 +1672,14 @@
       "word": "中央气象台5个预警齐发",
       "onboard_time": 1743038000,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155990,
+      "num": 180673,
+      "word": "国博C位冰箱贴原型禁止出境展览",
+      "onboard_time": 1743082763,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1673,14 +1753,6 @@
       "onboard_time": 1743064942,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 153376,
-      "num": 153376,
-      "word": "my name is jeff 嘟嘟嘟嘟",
-      "onboard_time": 1743082703,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 151868,
@@ -1939,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135061,
+      "num": 135061,
+      "word": "任天堂直面会",
+      "onboard_time": 1743085164,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134948,
       "num": 170994,
       "word": "段奕宏哭戏破碎感",
@@ -1947,20 +2027,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134756,
+      "num": 280090,
+      "word": "秦岭这次没能挡住沙尘",
+      "onboard_time": 1743082581,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134434,
+      "num": 134434,
+      "word": "人民网评古偶失灵",
+      "onboard_time": 1743084383,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134209,
       "num": 134209,
       "word": "教育局回应小学校门口有学生搜身",
       "onboard_time": 1743039800,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133896,
-      "num": 159540,
-      "word": "王一博现身宁波国际赛道",
-      "onboard_time": 1743081021,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 132903,
@@ -2003,12 +2091,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131405,
+      "num": 131405,
+      "word": "冲锋衣",
+      "onboard_time": 1743084503,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130897,
       "num": 130897,
       "word": "肖战是歌手也是策划",
       "onboard_time": 1743070400,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130538,
+      "num": 130538,
+      "word": "脾胃不好的8个典型症状",
+      "onboard_time": 1743079103,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130518,
@@ -2051,6 +2155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128586,
+      "num": 128586,
+      "word": "河北沧州发生2.8级地震",
+      "onboard_time": 1743082763,
+      "rank": 43,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 128426,
       "num": 163512,
       "word": "台独分子想玩火就别想跑",
@@ -2083,20 +2195,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126031,
+      "num": 126031,
+      "word": "蔡文静穿搭",
+      "onboard_time": 1743082581,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125906,
       "num": 196029,
       "word": "WTT印度金奈站场馆掉鸟屎",
       "onboard_time": 1743070042,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125736,
-      "num": 125736,
-      "word": "蔡文静穿搭",
-      "onboard_time": 1743082581,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 125513,
@@ -2235,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116874,
+      "num": 116874,
+      "word": "樊振东19岁首夺三大赛冠军",
+      "onboard_time": 1743085342,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116300,
       "num": 135674,
       "word": "雅和王蓉披哥浪姐梦幻联动",
@@ -2251,28 +2371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115718,
-      "num": 115718,
-      "word": "脾胃不好的8个典型症状",
-      "onboard_time": 1743079103,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 115477,
       "num": 115477,
       "word": "竹林中的刘诗诗",
       "onboard_time": 1743041540,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 115233,
-      "num": 180673,
-      "word": "国博C位冰箱贴原型禁止出境展览",
-      "onboard_time": 1743082763,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115209,
@@ -2283,20 +2387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115068,
-      "num": 115068,
-      "word": "河北沧州发生2.8级地震",
-      "onboard_time": 1743082763,
-      "rank": 43,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 114570,
       "num": 117458,
       "word": "作业熔断后会不会陷入恶性循环",
       "onboard_time": 1743045081,
       "rank": 43,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 114419,
+      "num": 114419,
+      "word": "宋茜 喝什么中药一起喝茶吧",
+      "onboard_time": 1743085222,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 113969,
@@ -2329,14 +2433,6 @@
       "onboard_time": 1743061043,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111623,
-      "num": 111623,
-      "word": "秦岭这次没能挡住沙尘",
-      "onboard_time": 1743082581,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111592,
@@ -2649,14 +2745,6 @@
       "onboard_time": 1742961921,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93185,
-      "num": 159445,
-      "word": "山东一任教31年教师临近退休突遭解聘",
-      "onboard_time": 1743081741,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93024,
@@ -3347,6 +3435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24500,
+      "num": 131702,
+      "word": "成都浮尘成因",
+      "onboard_time": 1743084622,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23860,
       "num": 129039,
       "word": "法向乌额外提供20亿欧元军援",
@@ -3519,6 +3615,9 @@
     },
     {
       "word": "#这是中国同世界的交往之道#"
+    },
+    {
+      "word": "#留得清气满乾坤#"
     }
   ]
 }
