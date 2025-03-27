@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743101208293,
+  "endTime": 1743103218613,
   "band_list": [
     {
       "raw_hot": 1470934,
@@ -379,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62031,
+      "num": 62031,
+      "word": "赵露思被小孩问成静止帧了",
+      "onboard_time": 1743097695,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60537,
       "num": 86645,
       "word": "IU权志龙再唱Palette",
@@ -451,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32403,
-      "num": 35512,
-      "word": "赵露思被小孩问成静止帧了",
-      "onboard_time": 1743097695,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 26234,
       "num": 38073,
       "word": "世界戏剧日",
@@ -489,6 +489,14 @@
       "onboard_time": 1743097037,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23252,
+      "num": 23987,
+      "word": "小女孩一句不痛听得眼泪下来了",
+      "onboard_time": 1743101054,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21420,
@@ -531,11 +539,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 10668,
-      "num": 23987,
-      "word": "小女孩一句不痛听得眼泪下来了",
-      "onboard_time": 1743101054,
-      "rank": 29,
+      "raw_hot": 12305,
+      "num": 35185,
+      "word": "大风裹沙尘一路南下到成都",
+      "onboard_time": 1743102254,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
