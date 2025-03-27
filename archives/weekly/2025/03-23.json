@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743060213052,
+  "endTime": 1743061023102,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -161,6 +161,14 @@
       "onboard_time": 1742800762,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2200104,
+      "num": 2200104,
+      "word": "赵露思因为躯体化记不住台词",
+      "onboard_time": 1743058940,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2162209,
@@ -425,14 +433,6 @@
       "onboard_time": 1742863162,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1473330,
-      "num": 423442,
-      "word": "赵露思因为躯体化记不住台词",
-      "onboard_time": 1743058940,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1457807,
@@ -2099,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 510752,
+      "num": 316170,
+      "word": "祝绪丹被所有姐姐现场吃瓜",
+      "onboard_time": 1743059481,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 510232,
       "num": 281176,
       "word": "双洁党",
@@ -3243,6 +3251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362334,
+      "num": 209222,
+      "word": "周四是工作效率最低的一天",
+      "onboard_time": 1743057501,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 362134,
       "num": 362134,
       "word": "订婚强奸案女方未出庭",
@@ -3811,6 +3827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297653,
+      "num": 297653,
+      "word": "奔跑吧全员黄鹤楼开跑",
+      "onboard_time": 1743058521,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297637,
       "num": 462903,
       "word": "楼面价77409元一平杭州最贵地价诞生",
@@ -3985,14 +4009,6 @@
       "onboard_time": 1742669055,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286605,
-      "num": 185616,
-      "word": "周四是工作效率最低的一天",
-      "onboard_time": 1743057501,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 286418,
@@ -4515,14 +4531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250565,
-      "num": 204344,
-      "word": "奔跑吧全员黄鹤楼开跑",
-      "onboard_time": 1743058521,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248758,
       "num": 268269,
       "word": "辛云来演技",
@@ -4777,14 +4785,6 @@
       "onboard_time": 1743053963,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 237534,
-      "num": 183314,
-      "word": "祝绪丹被所有姐姐现场吃瓜",
-      "onboard_time": 1743059481,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 236867,
@@ -5131,6 +5131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218170,
+      "num": 209873,
+      "word": "短剧阵容这么顶了吗",
+      "onboard_time": 1743060500,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217885,
       "num": 278654,
       "word": "代孕妈妈学历越高价格越贵",
@@ -5321,6 +5329,14 @@
       "onboard_time": 1742808681,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 211982,
+      "num": 211982,
+      "word": "你以为的毒贩vs你不知道的伪装",
+      "onboard_time": 1743059842,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211893,
@@ -5657,6 +5673,14 @@
       "onboard_time": 1742791165,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203475,
+      "num": 210865,
+      "word": "医院穿刺抽液时导丝落入男童胸腔",
+      "onboard_time": 1743057921,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203469,
@@ -8595,14 +8619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141408,
-      "num": 178612,
-      "word": "你以为的毒贩vs你不知道的伪装",
-      "onboard_time": 1743059842,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141210,
       "num": 173953,
       "word": "CASETiFY一个手机壳卖4000多元",
@@ -8985,6 +9001,14 @@
       "onboard_time": 1742983581,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 135941,
+      "num": 135941,
+      "word": "国际乒联称樊振东是世界杯之王",
+      "onboard_time": 1743057561,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 135907,
@@ -9539,14 +9563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127977,
-      "num": 127977,
-      "word": "国际乒联称樊振东是世界杯之王",
-      "onboard_time": 1743057561,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127976,
       "num": 127976,
       "word": "雁回时求加更",
@@ -9681,14 +9697,6 @@
       "onboard_time": 1742772200,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126386,
-      "num": 193012,
-      "word": "医院穿刺抽液时导丝落入男童胸腔",
-      "onboard_time": 1743057921,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126240,
@@ -11491,6 +11499,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103016,
+      "num": 103016,
+      "word": "李嘉诚",
+      "onboard_time": 1743060862,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102986,
       "num": 102986,
       "word": "奔跑吧13出发图",
@@ -12553,6 +12569,14 @@
       "onboard_time": 1742824642,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78833,
+      "num": 78833,
+      "word": "张艺兴养生主打一个听劝",
+      "onboard_time": 1743059722,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 78562,
@@ -14347,6 +14371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37253,
+      "num": 210530,
+      "word": "刘学义这次怎么不吃了",
+      "onboard_time": 1743060203,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37245,
       "num": 280821,
       "word": "王钰栋说这场比赛让我更自信",
@@ -15235,6 +15267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21689,
+      "num": 149147,
+      "word": "邮管局回应云南乡镇快递强收跑腿费",
+      "onboard_time": 1743059541,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21553,
       "num": 426478,
       "word": "伊万说比赛结果不是大家想看到的",
@@ -15419,20 +15459,20 @@
       "category": "民生新闻,科学科普"
     },
     {
-      "raw_hot": 17497,
-      "num": 149147,
-      "word": "邮管局回应云南乡镇快递强收跑腿费",
-      "onboard_time": 1743059541,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17359,
       "num": 205826,
       "word": "小威观战德约科维奇",
       "onboard_time": 1742959821,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17294,
+      "num": 102669,
+      "word": "九紫离火运的旺运tips",
+      "onboard_time": 1743060801,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 17105,
@@ -15449,6 +15489,14 @@
       "onboard_time": 1742695159,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17007,
+      "num": 132011,
+      "word": "零添加究竟带来哪些消费误区",
+      "onboard_time": 1743060261,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 16967,
