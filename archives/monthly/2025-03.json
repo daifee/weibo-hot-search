@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743094007153,
+  "endTime": 1743096114355,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -40691,6 +40691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178279,
+      "num": 178279,
+      "word": "女人40岁才是人生的开始",
+      "onboard_time": 1743093617,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178214,
       "num": 218006,
       "word": "编号17有自己的沙虫",
@@ -58195,6 +58203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124158,
+      "num": 124158,
+      "word": "李现加入公园打鸟大爷队伍",
+      "onboard_time": 1743093079,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124138,
       "num": 124138,
       "word": "刘嘉玲梁朝伟雪山合照",
@@ -58953,6 +58969,14 @@
       "onboard_time": 1742700140,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122385,
+      "num": 97231,
+      "word": "泪点低其实是大脑太发达",
+      "onboard_time": 1743090141,
+      "rank": 27,
+      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 122327,
@@ -59737,14 +59761,6 @@
       "onboard_time": 1741945824,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 120510,
-      "num": 120510,
-      "word": "女人40岁才是人生的开始",
-      "onboard_time": 1743093617,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 120506,
@@ -60969,6 +60985,14 @@
       "onboard_time": 1742454023,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116802,
+      "num": 154155,
+      "word": "你被二手烟困扰过吗",
+      "onboard_time": 1743093079,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116784,
@@ -67675,14 +67699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97231,
-      "num": 97231,
-      "word": "泪点低其实是大脑太发达",
-      "onboard_time": 1743090141,
-      "rank": 27,
-      "category": "健康医疗,美妆"
-    },
-    {
       "raw_hot": 97218,
       "num": 131927,
       "word": "英法要向乌派部队意大利不参与",
@@ -73651,14 +73667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69398,
-      "num": 154155,
-      "word": "你被二手烟困扰过吗",
-      "onboard_time": 1743093079,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69311,
       "num": 69311,
       "word": "利物浦vs巴黎圣日耳曼",
@@ -74537,14 +74545,6 @@
       "onboard_time": 1742717000,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 64979,
-      "num": 111013,
-      "word": "李现加入公园打鸟大爷队伍",
-      "onboard_time": 1743093079,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 64932,
@@ -78809,6 +78809,14 @@
       "onboard_time": 1741756043,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 45635,
+      "num": 47014,
+      "word": "明天是全红婵18岁生日",
+      "onboard_time": 1743094098,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 45626,
@@ -85705,6 +85713,14 @@
       "onboard_time": 1742377223,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21420,
+      "num": 97741,
+      "word": "年代剧配乐后劲太大了",
+      "onboard_time": 1743094397,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 21383,
