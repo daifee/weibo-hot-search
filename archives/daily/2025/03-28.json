@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743111424477,
+  "endTime": 1743114186659,
   "band_list": [
     {
       "raw_hot": 1470934,
@@ -219,6 +219,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102651,
+      "num": 102651,
+      "word": "赵露思被小孩问成静止帧了",
+      "onboard_time": 1743097695,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102066,
+      "num": 102066,
+      "word": "李在明视察山火灾情时遇袭",
+      "onboard_time": 1743111133,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94705,
       "num": 89052,
       "word": "许佳琪少年阮惜文杀青",
@@ -347,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68380,
+      "num": 189206,
+      "word": "公司回应加班10晚可帮缴社保个人部分",
+      "onboard_time": 1743090681,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66083,
       "num": 86651,
       "word": "范丞丞淋过雨所以给张真源撑伞",
@@ -363,28 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63969,
-      "num": 189206,
-      "word": "公司回应加班10晚可帮缴社保个人部分",
-      "onboard_time": 1743090681,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62506,
       "num": 86647,
       "word": "东北夫妻在淮安开店遭刁难亏本后续",
       "onboard_time": 1743087741,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62072,
-      "num": 62072,
-      "word": "赵露思被小孩问成静止帧了",
-      "onboard_time": 1743097695,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 60537,
@@ -483,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24163,
+      "num": 24163,
+      "word": "小两口默契配合救下癫痫男子",
+      "onboard_time": 1743110534,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23748,
       "num": 38044,
       "word": "辛云来说外界的评价我都接受",
@@ -499,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22690,
+      "num": 22690,
+      "word": "羽衣甘蓝奶茶减肥是智商税",
+      "onboard_time": 1743109454,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21420,
       "num": 97741,
       "word": "年代剧配乐后劲太大了",
@@ -507,12 +531,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19511,
-      "num": 33087,
-      "word": "李在明视察山火灾情时遇袭",
-      "onboard_time": 1743111133,
-      "rank": 9,
+      "raw_hot": 20573,
+      "num": 27396,
+      "word": "针对美方加征关税措施中方已起诉",
+      "onboard_time": 1743109814,
+      "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20504,
+      "num": 22497,
+      "word": "男子倒地抽搐一对护士夫妻出手了",
+      "onboard_time": 1743104654,
+      "rank": 45,
+      "category": "正能量"
     },
     {
       "raw_hot": 19429,
@@ -531,28 +563,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18590,
-      "num": 27396,
-      "word": "针对美方加征关税措施中方已起诉",
-      "onboard_time": 1743109814,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 18238,
       "num": 21781,
       "word": "念无双 古早仙侠",
       "onboard_time": 1743098955,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17465,
-      "num": 17465,
-      "word": "羽衣甘蓝奶茶减肥是智商税",
-      "onboard_time": 1743109454,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16071,
@@ -563,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15893,
+      "num": 22476,
+      "word": "情景再现美群聊泄密事件",
+      "onboard_time": 1743109694,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14951,
       "num": 35185,
       "word": "大风裹沙尘一路南下到成都",
@@ -571,8 +595,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13489,
-      "num": 14818,
+      "raw_hot": 13885,
+      "num": 22473,
       "word": "PCL2025",
       "onboard_time": 1743097276,
       "rank": 49,
@@ -587,12 +611,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 12816,
-      "num": 18906,
-      "word": "男子倒地抽搐一对护士夫妻出手了",
-      "onboard_time": 1743104654,
-      "rank": 45,
-      "category": "正能量"
+      "raw_hot": 12659,
+      "num": 22466,
+      "word": "遇见艺术",
+      "onboard_time": 1743114136,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 12529,
@@ -619,28 +643,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12105,
-      "num": 12755,
-      "word": "情景再现美群聊泄密事件",
-      "onboard_time": 1743109694,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 12021,
       "num": 12754,
       "word": "国防部硬核金句翻译合集",
       "onboard_time": 1743108314,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9283,
-      "num": 13594,
-      "word": "小两口默契配合救下癫痫男子",
-      "onboard_time": 1743110534,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4011,

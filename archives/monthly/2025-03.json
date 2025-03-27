@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743111424477,
+  "endTime": 1743114186659,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -66043,6 +66043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102651,
+      "num": 102651,
+      "word": "赵露思被小孩问成静止帧了",
+      "onboard_time": 1743097695,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102619,
       "num": 102619,
       "word": "白鹿见缝插针给北上剧宣",
@@ -66201,6 +66209,14 @@
       "onboard_time": 1740924981,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102066,
+      "num": 102066,
+      "word": "李在明视察山火灾情时遇袭",
+      "onboard_time": 1743111133,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102061,
@@ -73851,6 +73867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68380,
+      "num": 189206,
+      "word": "公司回应加班10晚可帮缴社保个人部分",
+      "onboard_time": 1743090681,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68346,
       "num": 264426,
       "word": "建议将HPV疫苗等纳入免疫规划",
@@ -74771,14 +74795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63969,
-      "num": 189206,
-      "word": "公司回应加班10晚可帮缴社保个人部分",
-      "onboard_time": 1743090681,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63962,
       "num": 174897,
       "word": "6分钟夸克AI极速入门",
@@ -75233,14 +75249,6 @@
       "onboard_time": 1742311223,
       "rank": 29,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 62072,
-      "num": 62072,
-      "word": "赵露思被小孩问成静止帧了",
-      "onboard_time": 1743097695,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 62041,
@@ -84987,6 +84995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24163,
+      "num": 24163,
+      "word": "小两口默契配合救下癫痫男子",
+      "onboard_time": 1743110534,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24143,
       "num": 27645,
       "word": "特朗普自称特朗普永远是对的",
@@ -85409,6 +85425,14 @@
       "onboard_time": 1741460535,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 22690,
+      "num": 22690,
+      "word": "羽衣甘蓝奶茶减肥是智商税",
+      "onboard_time": 1743109454,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22682,
@@ -86051,12 +86075,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20573,
+      "num": 27396,
+      "word": "针对美方加征关税措施中方已起诉",
+      "onboard_time": 1743109814,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20567,
       "num": 170600,
       "word": "猛龙裁掉PJ塔克",
       "onboard_time": 1740800837,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20504,
+      "num": 22497,
+      "word": "男子倒地抽搐一对护士夫妻出手了",
+      "onboard_time": 1743104654,
+      "rank": 45,
+      "category": "正能量"
     },
     {
       "raw_hot": 20484,
@@ -86265,14 +86305,6 @@
       "onboard_time": 1742290281,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19511,
-      "num": 33087,
-      "word": "李在明视察山火灾情时遇袭",
-      "onboard_time": 1743111133,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19487,
@@ -86587,14 +86619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18590,
-      "num": 27396,
-      "word": "针对美方加征关税措施中方已起诉",
-      "onboard_time": 1743109814,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 18569,
       "num": 187110,
       "word": "中国为什么更适合造智能车和机器人",
@@ -86889,14 +86913,6 @@
       "onboard_time": 1741856664,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 17465,
-      "num": 17465,
-      "word": "羽衣甘蓝奶茶减肥是智商税",
-      "onboard_time": 1743109454,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17437,
@@ -87313,6 +87329,14 @@
       "onboard_time": 1742993480,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15893,
+      "num": 22476,
+      "word": "情景再现美群聊泄密事件",
+      "onboard_time": 1743109694,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15883,
@@ -88115,14 +88139,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 12816,
-      "num": 18906,
-      "word": "男子倒地抽搐一对护士夫妻出手了",
-      "onboard_time": 1743104654,
-      "rank": 45,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 12795,
       "num": 17309,
       "word": "王一博万物可爱入选当代歌曲创作精品",
@@ -88193,6 +88209,14 @@
       "onboard_time": 1742404038,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 12659,
+      "num": 22466,
+      "word": "遇见艺术",
+      "onboard_time": 1743114136,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 12649,
@@ -88361,14 +88385,6 @@
       "onboard_time": 1742839875,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 12105,
-      "num": 12755,
-      "word": "情景再现美群聊泄密事件",
-      "onboard_time": 1743109694,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12049,
@@ -88945,14 +88961,6 @@
       "onboard_time": 1742883202,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9283,
-      "num": 13594,
-      "word": "小两口默契配合救下癫痫男子",
-      "onboard_time": 1743110534,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9259,
