@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743089217775,
+  "endTime": 1743090116151,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -1625,6 +1625,14 @@
       "onboard_time": 1742721200,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 668680,
+      "num": 346868,
+      "word": "宋雨琦 受伤",
+      "onboard_time": 1743089061,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 660071,
@@ -3299,6 +3307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385253,
+      "num": 385253,
+      "word": "人民网评古偶失灵",
+      "onboard_time": 1743084383,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385138,
       "num": 488639,
       "word": "虞书欣出发泰国拍双轨",
@@ -3497,14 +3513,6 @@
       "onboard_time": 1742888181,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367886,
-      "num": 367886,
-      "word": "人民网评古偶失灵",
-      "onboard_time": 1743084383,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 367814,
@@ -4755,6 +4763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269559,
+      "num": 308875,
+      "word": "生双胞胎17岁代孕女孩已嫁人",
+      "onboard_time": 1743089002,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267711,
       "num": 267711,
       "word": "母亲回应孙卓直播带货",
@@ -4969,6 +4985,14 @@
       "onboard_time": 1742959821,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248998,
+      "num": 248998,
+      "word": "许佳琪少年阮惜文杀青",
+      "onboard_time": 1743088942,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 248758,
@@ -5475,6 +5499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227231,
+      "num": 227231,
+      "word": "4岁双胞胎捐髓救妈妈",
+      "onboard_time": 1743087922,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227160,
       "num": 227160,
       "word": "时隔九个月以为黄亦玫回来了",
@@ -5571,14 +5603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221920,
-      "num": 221920,
-      "word": "许佳琪少年阮惜文杀青",
-      "onboard_time": 1743088942,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221646,
       "num": 221646,
       "word": "减肥管不住嘴试试这个方法",
@@ -5657,6 +5681,14 @@
       "onboard_time": 1742916621,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216582,
+      "num": 216582,
+      "word": "节奏天国新作",
+      "onboard_time": 1743087083,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 216529,
@@ -6512,14 +6544,6 @@
       "word": "出租屋藏着故意设计的杀人陷阱",
       "onboard_time": 1742947162,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196690,
-      "num": 196690,
-      "word": "4岁双胞胎捐髓救妈妈",
-      "onboard_time": 1743087922,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -9307,14 +9331,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 143794,
-      "num": 143794,
-      "word": "宋雨琦 受伤",
-      "onboard_time": 1743089061,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143793,
       "num": 143793,
       "word": "男子车祸住院找到失联18年家人",
@@ -11347,14 +11363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119221,
-      "num": 119221,
-      "word": "生双胞胎17岁代孕女孩已嫁人",
-      "onboard_time": 1743089002,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119172,
       "num": 119172,
       "word": "气温先升后降到底要怎么穿",
@@ -12515,6 +12523,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 105489,
+      "num": 105489,
+      "word": "jiejie采访",
+      "onboard_time": 1743089302,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105473,
       "num": 105473,
       "word": "黄友政3比1袁烜松",
@@ -13123,6 +13139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 96995,
+      "num": 96995,
+      "word": "上海对边走边抽烟的游烟族出手了",
+      "onboard_time": 1743089781,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96823,
       "num": 96823,
       "word": "玫瑰的故事荣誉推荐作品",
@@ -13291,6 +13315,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 94473,
+      "num": 244284,
+      "word": "代孕机构称20万可办出生证明",
+      "onboard_time": 1743085762,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94355,
       "num": 225852,
       "word": "张子枫InStyle三月刊开季封面",
@@ -13345,14 +13377,6 @@
       "onboard_time": 1742880982,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93559,
-      "num": 93559,
-      "word": "节奏天国新作",
-      "onboard_time": 1743087083,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 93376,
@@ -14249,6 +14273,14 @@
       "onboard_time": 1742918000,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 69309,
+      "num": 346928,
+      "word": "国防部回应福建舰第7次海试",
+      "onboard_time": 1743089121,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 69117,
@@ -15611,14 +15643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40329,
-      "num": 244284,
-      "word": "代孕机构称20万可办出生证明",
-      "onboard_time": 1743085762,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40319,
       "num": 125529,
       "word": "九紫离火运的旺运tips",
@@ -15873,14 +15897,6 @@
       "onboard_time": 1742901861,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35309,
-      "num": 117091,
-      "word": "国防部回应福建舰第7次海试",
-      "onboard_time": 1743089121,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35276,
@@ -16193,6 +16209,14 @@
       "onboard_time": 1742798482,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30735,
+      "num": 249299,
+      "word": "儿子要回亡父房产遭其同居情人反诉",
+      "onboard_time": 1743089421,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30489,
