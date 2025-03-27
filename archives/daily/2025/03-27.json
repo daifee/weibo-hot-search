@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743086604837,
+  "endTime": 1743089217775,
   "band_list": [
     {
       "raw_hot": 2838286,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2028288,
-      "num": 316592,
+      "num": 358063,
       "word": "金赛纶写给文彬的信",
       "onboard_time": 1743084742,
       "rank": 11,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 708839,
-      "num": 316587,
+      "num": 351329,
       "word": "医生连续六年下班卖小吃月入近2万",
       "onboard_time": 1743079283,
       "rank": 49,
@@ -587,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 448432,
+      "num": 448432,
+      "word": "佛山一公司要求员工每月加班10晚以上",
+      "onboard_time": 1743087381,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 444932,
       "num": 265094,
       "word": "周四是工作效率最低的一天",
@@ -723,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 377094,
+      "num": 377094,
+      "word": "雁回时热度",
+      "onboard_time": 1743079943,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377003,
       "num": 244621,
       "word": "念无双",
@@ -744,6 +760,14 @@
       "word": "酒店前台违规办房卡致女子被侵犯",
       "onboard_time": 1743061762,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367886,
+      "num": 367886,
+      "word": "人民网评古偶失灵",
+      "onboard_time": 1743084383,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -809,6 +833,14 @@
       "onboard_time": 1743066982,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337836,
+      "num": 337836,
+      "word": "怪盗基德好伟大的脸",
+      "onboard_time": 1743084383,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 331970,
@@ -889,6 +921,14 @@
       "onboard_time": 1743045138,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292265,
+      "num": 279333,
+      "word": "金赛纶和朋友的聊天记录公开",
+      "onboard_time": 1743086062,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 292156,
@@ -1001,14 +1041,6 @@
       "onboard_time": 1743066621,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259869,
-      "num": 259869,
-      "word": "雁回时热度",
-      "onboard_time": 1743079943,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 250880,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1743049523,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 221920,
+      "num": 221920,
+      "word": "许佳琪少年阮惜文杀青",
+      "onboard_time": 1743088942,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 215815,
@@ -1339,6 +1379,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 196690,
+      "num": 196690,
+      "word": "4岁双胞胎捐髓救妈妈",
+      "onboard_time": 1743087922,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196436,
       "num": 196436,
       "word": "肖战胶片唱针",
@@ -1361,14 +1409,6 @@
       "onboard_time": 1743080722,
       "rank": 13,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 193869,
-      "num": 193869,
-      "word": "金赛纶和朋友的聊天记录公开",
-      "onboard_time": 1743086062,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 189797,
@@ -1441,6 +1481,14 @@
       "onboard_time": 1743085942,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185148,
+      "num": 185148,
+      "word": "宋茜 喝什么中药一起喝茶吧",
+      "onboard_time": 1743085222,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 184249,
@@ -1539,12 +1587,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 176852,
-      "num": 176852,
-      "word": "宋茜 喝什么中药一起喝茶吧",
-      "onboard_time": 1743085222,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 176703,
+      "num": 176703,
+      "word": "学校回应教师临近退休突遭解聘",
+      "onboard_time": 1743086720,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175438,
@@ -1577,14 +1625,6 @@
       "onboard_time": 1743047122,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 172815,
-      "num": 172815,
-      "word": "怪盗基德好伟大的脸",
-      "onboard_time": 1743084383,
-      "rank": 28,
-      "category": "动漫"
     },
     {
       "raw_hot": 171979,
@@ -1665,14 +1705,6 @@
       "onboard_time": 1743079462,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161359,
-      "num": 161359,
-      "word": "人民网评古偶失灵",
-      "onboard_time": 1743084383,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161160,
@@ -1899,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143794,
+      "num": 143794,
+      "word": "宋雨琦 受伤",
+      "onboard_time": 1743089061,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143379,
       "num": 143379,
       "word": "梁田和混血弟弟纯正年下感",
@@ -2049,6 +2089,14 @@
       "onboard_time": 1743071301,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135182,
+      "num": 135182,
+      "word": "允许自己是一朵晚开的花",
+      "onboard_time": 1743088521,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 135134,
@@ -2339,8 +2387,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119221,
+      "num": 119221,
+      "word": "生双胞胎17岁代孕女孩已嫁人",
+      "onboard_time": 1743089002,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119113,
-      "num": 119113,
+      "num": 158335,
       "word": "樊振东19岁首夺三大赛冠军",
       "onboard_time": 1743085342,
       "rank": 46,
@@ -2377,6 +2433,14 @@
       "onboard_time": 1743071182,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116399,
+      "num": 116399,
+      "word": "小米王化回应雷军广告报价",
+      "onboard_time": 1743085103,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 116300,
@@ -2425,6 +2489,14 @@
       "onboard_time": 1743045081,
       "rank": 43,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 114515,
+      "num": 114515,
+      "word": "唐嫣吊威亚",
+      "onboard_time": 1743087801,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 113969,
@@ -2715,6 +2787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97990,
+      "num": 97990,
+      "word": "东北夫妻在淮安开店遭刁难亏本后续",
+      "onboard_time": 1743087741,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96240,
       "num": 96240,
       "word": "魏大勋小小的侦探脾气爆",
@@ -2769,6 +2849,14 @@
       "onboard_time": 1742961921,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93559,
+      "num": 93559,
+      "word": "节奏天国新作",
+      "onboard_time": 1743087083,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 93024,
@@ -3329,6 +3417,14 @@
       "onboard_time": 1743063981,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 35309,
+      "num": 117091,
+      "word": "国防部回应福建舰第7次海试",
+      "onboard_time": 1743089121,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34938,
