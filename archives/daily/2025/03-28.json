@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743110597692,
+  "endTime": 1743111424477,
   "band_list": [
     {
       "raw_hot": 1470934,
@@ -507,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19511,
+      "num": 33087,
+      "word": "李在明视察山火灾情时遇袭",
+      "onboard_time": 1743111133,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19429,
       "num": 23024,
       "word": "Switch虚拟游戏卡",
@@ -523,12 +531,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 18590,
+      "num": 27396,
+      "word": "针对美方加征关税措施中方已起诉",
+      "onboard_time": 1743109814,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18238,
       "num": 21781,
       "word": "念无双 古早仙侠",
       "onboard_time": 1743098955,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17465,
+      "num": 17465,
+      "word": "羽衣甘蓝奶茶减肥是智商税",
+      "onboard_time": 1743109454,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16071,
@@ -547,15 +571,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14361,
-      "num": 14361,
-      "word": "羽衣甘蓝奶茶减肥是智商税",
-      "onboard_time": 1743109454,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13042,
+      "raw_hot": 13489,
       "num": 14818,
       "word": "PCL2025",
       "onboard_time": 1743097276,
@@ -603,28 +619,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12021,
-      "num": 12745,
-      "word": "国防部硬核金句翻译合集",
-      "onboard_time": 1743108314,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 11367,
-      "num": 12741,
+      "raw_hot": 12105,
+      "num": 12755,
       "word": "情景再现美群聊泄密事件",
       "onboard_time": 1743109694,
       "rank": 49,
       "category": "国内时政"
     },
     {
-      "raw_hot": 10150,
-      "num": 27396,
-      "word": "针对美方加征关税措施中方已起诉",
-      "onboard_time": 1743109814,
-      "rank": 15,
-      "category": "国际时政"
+      "raw_hot": 12021,
+      "num": 12754,
+      "word": "国防部硬核金句翻译合集",
+      "onboard_time": 1743108314,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9283,
