@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743072220056,
+  "endTime": 1743074426116,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -3147,6 +3147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1384366,
+      "num": 1384366,
+      "word": "谢霆锋的烤肠卖了15亿元",
+      "onboard_time": 1743070701,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1380902,
       "num": 1380902,
       "word": "于正 我从此不敢看观音",
@@ -3744,14 +3752,6 @@
       "word": "前男友说金赛纶的死与金秀贤无关",
       "onboard_time": 1742872580,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1242903,
-      "num": 1242903,
-      "word": "谢霆锋的烤肠卖了15亿元",
-      "onboard_time": 1743070701,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -6019,6 +6019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 946202,
+      "num": 209771,
+      "word": "又一批马拉松亲密事件照外泄",
+      "onboard_time": 1743069081,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 946119,
       "num": 432667,
       "word": "扎西顿珠官宣结婚",
@@ -7673,14 +7681,6 @@
       "onboard_time": 1742961921,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 807448,
-      "num": 209771,
-      "word": "又一批马拉松亲密事件照外泄",
-      "onboard_time": 1743069081,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 807166,
@@ -14976,6 +14976,14 @@
       "word": "00后上班正打破精致羞耻症",
       "onboard_time": 1742174841,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 471902,
+      "num": 471902,
+      "word": "成都沙尘暴",
+      "onboard_time": 1743072259,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -29739,6 +29747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225851,
+      "num": 197607,
+      "word": "IU权志龙再唱Palette",
+      "onboard_time": 1743073761,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 225848,
       "num": 288754,
       "word": "又一个被女儿送进去的反派",
@@ -37635,6 +37651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188923,
+      "num": 188923,
+      "word": "嫁反派",
+      "onboard_time": 1743073642,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188914,
       "num": 308034,
       "word": "素食主义背后的真相",
@@ -38793,6 +38817,14 @@
       "onboard_time": 1741408100,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185051,
+      "num": 148456,
+      "word": "李晟为什么爆火出圈",
+      "onboard_time": 1743071480,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 185046,
@@ -53779,6 +53811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134960,
+      "num": 209633,
+      "word": "羽衣甘蓝奶茶或热量超标",
+      "onboard_time": 1743070101,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 134948,
       "num": 134948,
       "word": "美国正陷入人为制造的衰退",
@@ -57531,6 +57571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124453,
+      "num": 124453,
+      "word": "国防部批驳七国集团",
+      "onboard_time": 1743074242,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124449,
       "num": 111275,
       "word": "庄寒雁掌家",
@@ -57785,6 +57833,14 @@
       "onboard_time": 1742535022,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 123687,
+      "num": 163512,
+      "word": "台独分子想玩火就别想跑",
+      "onboard_time": 1743069262,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 123658,
@@ -59683,14 +59739,6 @@
       "category": "剧集,电竞"
     },
     {
-      "raw_hot": 118979,
-      "num": 118979,
-      "word": "台独分子想玩火就别想跑",
-      "onboard_time": 1743069262,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 118967,
       "num": 211349,
       "word": "燃罪",
@@ -60601,6 +60649,14 @@
       "onboard_time": 1740828563,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116103,
+      "num": 116103,
+      "word": "陕西大桥",
+      "onboard_time": 1743073281,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116066,
@@ -63227,14 +63283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108604,
-      "num": 108604,
-      "word": "李晟为什么爆火出圈",
-      "onboard_time": 1743071480,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108531,
       "num": 108531,
       "word": "苏醒真说了你又不高兴",
@@ -65675,14 +65723,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 101431,
-      "num": 181965,
-      "word": "羽衣甘蓝奶茶或热量超标",
-      "onboard_time": 1743070101,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 101427,
       "num": 101427,
       "word": "河北震感",
@@ -65873,6 +65913,14 @@
       "onboard_time": 1742258844,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100734,
+      "num": 100734,
+      "word": "苹果电影模式 大疆效果",
+      "onboard_time": 1743072141,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 100693,
@@ -66288,6 +66336,14 @@
       "word": "杨子远程指挥素人爸爸妈妈约会",
       "onboard_time": 1740806537,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99546,
+      "num": 99546,
+      "word": "孟子义李昀锐校园风造型",
+      "onboard_time": 1743072500,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -67043,14 +67099,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 97108,
-      "num": 97108,
-      "word": "苹果电影模式 大疆效果",
-      "onboard_time": 1743072141,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 97093,
       "num": 97093,
       "word": "虎门晚霞盛宴让人沉醉",
@@ -67385,6 +67433,14 @@
       "onboard_time": 1741568482,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 96067,
+      "num": 96067,
+      "word": "廊坊2.2级地震",
+      "onboard_time": 1743074002,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96041,
@@ -73235,6 +73291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67712,
+      "num": 82461,
+      "word": "詹姆斯回应压哨绝杀",
+      "onboard_time": 1743074242,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67711,
       "num": 200373,
       "word": "MC梦考虑将公开SM录音",
@@ -75112,6 +75176,14 @@
       "word": "金秀贤合照里的眼镜是13年粉丝送的",
       "onboard_time": 1741971499,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58429,
+      "num": 199157,
+      "word": "日本环球影城偶遇吴磊",
+      "onboard_time": 1743073342,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -85961,6 +86033,14 @@
       "onboard_time": 1741856664,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 17437,
+      "num": 203444,
+      "word": "老祖宗暴躁咆哮我们会心一笑",
+      "onboard_time": 1743073100,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17429,

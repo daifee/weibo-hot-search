@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743072220056,
+  "endTime": 1743074426116,
   "band_list": [
     {
       "raw_hot": 2838286,
@@ -91,19 +91,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1384366,
+      "num": 1384366,
+      "word": "谢霆锋的烤肠卖了15亿元",
+      "onboard_time": 1743070701,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1380902,
       "num": 1380902,
       "word": "于正 我从此不敢看观音",
       "onboard_time": 1743051143,
       "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1242903,
-      "num": 1242903,
-      "word": "谢霆锋的烤肠卖了15亿元",
-      "onboard_time": 1743070701,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -163,6 +163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 946202,
+      "num": 209771,
+      "word": "又一批马拉松亲密事件照外泄",
+      "onboard_time": 1743069081,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 896762,
       "num": 1143481,
       "word": "今年5月只用上19天班",
@@ -201,14 +209,6 @@
       "onboard_time": 1743051502,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 807448,
-      "num": 209771,
-      "word": "又一批马拉松亲密事件照外泄",
-      "onboard_time": 1743069081,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 769295,
@@ -449,6 +449,14 @@
       "onboard_time": 1743032421,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471902,
+      "num": 471902,
+      "word": "成都沙尘暴",
+      "onboard_time": 1743072259,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 463770,
@@ -891,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225851,
+      "num": 197607,
+      "word": "IU权志龙再唱Palette",
+      "onboard_time": 1743073761,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 224219,
       "num": 224219,
       "word": "王俊凯邪恶叮当猫",
@@ -1099,6 +1115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 188923,
+      "num": 188923,
+      "word": "嫁反派",
+      "onboard_time": 1743073642,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187486,
       "num": 187486,
       "word": "7旬阿姨被叛逆儿子改造成时尚博主",
@@ -1120,6 +1144,14 @@
       "word": "曹颖倪虹洁都以为吴宣仪20岁",
       "onboard_time": 1742986161,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185051,
+      "num": 148456,
+      "word": "李晟为什么爆火出圈",
+      "onboard_time": 1743071480,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1587,6 +1619,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135134,
+      "num": 135134,
+      "word": "种地吧",
+      "onboard_time": 1743072919,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134960,
+      "num": 209633,
+      "word": "羽衣甘蓝奶茶或热量超标",
+      "onboard_time": 1743070101,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 134948,
       "num": 170994,
       "word": "段奕宏哭戏破碎感",
@@ -1731,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124453,
+      "num": 124453,
+      "word": "国防部批驳七国集团",
+      "onboard_time": 1743074242,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124369,
       "num": 124369,
       "word": "Uzi起诉RNG",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1743040880,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123687,
+      "num": 163512,
+      "word": "台独分子想玩火就别想跑",
+      "onboard_time": 1743069262,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 123051,
@@ -1819,14 +1883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118979,
-      "num": 118979,
-      "word": "台独分子想玩火就别想跑",
-      "onboard_time": 1743069262,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 118941,
       "num": 118941,
       "word": "福宝上演空中一字马",
@@ -1865,6 +1921,14 @@
       "onboard_time": 1743047842,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116103,
+      "num": 116103,
+      "word": "陕西大桥",
+      "onboard_time": 1743073281,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115477,
@@ -1995,14 +2059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108604,
-      "num": 108604,
-      "word": "李晟为什么爆火出圈",
-      "onboard_time": 1743071480,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108343,
       "num": 108343,
       "word": "天链二号04星发射成功",
@@ -2091,12 +2147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101431,
-      "num": 181965,
-      "word": "羽衣甘蓝奶茶或热量超标",
-      "onboard_time": 1743070101,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 100734,
+      "num": 100734,
+      "word": "苹果电影模式 大疆效果",
+      "onboard_time": 1743072141,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 100334,
@@ -2115,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99546,
+      "num": 99546,
+      "word": "孟子义李昀锐校园风造型",
+      "onboard_time": 1743072500,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98752,
       "num": 98752,
       "word": "念无双",
@@ -2131,20 +2195,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97108,
-      "num": 97108,
-      "word": "苹果电影模式 大疆效果",
-      "onboard_time": 1743072141,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 96240,
       "num": 96240,
       "word": "魏大勋小小的侦探脾气爆",
       "onboard_time": 1743056302,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96067,
+      "num": 96067,
+      "word": "廊坊2.2级地震",
+      "onboard_time": 1743074002,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95663,
@@ -2355,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67712,
+      "num": 82461,
+      "word": "詹姆斯回应压哨绝杀",
+      "onboard_time": 1743074242,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64773,
       "num": 270972,
       "word": "王俊凯包场阳光照耀青春里",
@@ -2433,6 +2505,14 @@
       "onboard_time": 1742998283,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58429,
+      "num": 199157,
+      "word": "日本环球影城偶遇吴磊",
+      "onboard_time": 1743073342,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 57197,
@@ -2857,6 +2937,14 @@
       "onboard_time": 1743070400,
       "rank": 28,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 17437,
+      "num": 203444,
+      "word": "老祖宗暴躁咆哮我们会心一笑",
+      "onboard_time": 1743073100,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17007,

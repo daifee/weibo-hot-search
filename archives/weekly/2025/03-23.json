@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743072220056,
+  "endTime": 1743074426116,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1384366,
+      "num": 1384366,
+      "word": "谢霆锋的烤肠卖了15亿元",
+      "onboard_time": 1743070701,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1380902,
       "num": 1380902,
       "word": "于正 我从此不敢看观音",
@@ -640,14 +648,6 @@
       "word": "前男友说金赛纶的死与金秀贤无关",
       "onboard_time": 1742872580,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1242903,
-      "num": 1242903,
-      "word": "谢霆锋的烤肠卖了15亿元",
-      "onboard_time": 1743070701,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -955,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 946202,
+      "num": 209771,
+      "word": "又一批马拉松亲密事件照外泄",
+      "onboard_time": 1743069081,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 945289,
       "num": 1151246,
       "word": "四川一水库水位下降露出一座古墓",
@@ -1209,14 +1217,6 @@
       "onboard_time": 1742961921,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 807448,
-      "num": 209771,
-      "word": "又一批马拉松亲密事件照外泄",
-      "onboard_time": 1743069081,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 805826,
@@ -2537,6 +2537,14 @@
       "onboard_time": 1742816723,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471902,
+      "num": 471902,
+      "word": "成都沙尘暴",
+      "onboard_time": 1743072259,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 467850,
@@ -5243,6 +5251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225851,
+      "num": 197607,
+      "word": "IU权志龙再唱Palette",
+      "onboard_time": 1743073761,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 225720,
       "num": 221274,
       "word": "200多万买二手房遭遇20年租约",
@@ -6547,6 +6563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 188923,
+      "num": 188923,
+      "word": "嫁反派",
+      "onboard_time": 1743073642,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188865,
       "num": 188865,
       "word": "京东回应外卖日单量突破百万",
@@ -6769,6 +6793,14 @@
       "onboard_time": 1742792964,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185051,
+      "num": 148456,
+      "word": "李晟为什么爆火出圈",
+      "onboard_time": 1743071480,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 184350,
@@ -9507,6 +9539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135134,
+      "num": 135134,
+      "word": "种地吧",
+      "onboard_time": 1743072919,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135082,
       "num": 172236,
       "word": "逐玉",
@@ -9521,6 +9561,14 @@
       "onboard_time": 1742890881,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134960,
+      "num": 209633,
+      "word": "羽衣甘蓝奶茶或热量超标",
+      "onboard_time": 1743070101,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134948,
@@ -10291,6 +10339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124453,
+      "num": 124453,
+      "word": "国防部批驳七国集团",
+      "onboard_time": 1743074242,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124449,
       "num": 111275,
       "word": "庄寒雁掌家",
@@ -10361,6 +10417,14 @@
       "onboard_time": 1742794344,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123687,
+      "num": 163512,
+      "word": "台独分子想玩火就别想跑",
+      "onboard_time": 1743069262,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 123542,
@@ -10811,14 +10875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118979,
-      "num": 118979,
-      "word": "台独分子想玩火就别想跑",
-      "onboard_time": 1743069262,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 118943,
       "num": 118943,
       "word": "张凌赫田曦薇逐玉一家三口路透",
@@ -10993,6 +11049,14 @@
       "onboard_time": 1742828002,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116103,
+      "num": 116103,
+      "word": "陕西大桥",
+      "onboard_time": 1743073281,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116066,
@@ -11571,14 +11635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108604,
-      "num": 108604,
-      "word": "李晟为什么爆火出圈",
-      "onboard_time": 1743071480,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108522,
       "num": 108522,
       "word": "谁懂成毅最后一幕的眼神戏",
@@ -12139,14 +12195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 101431,
-      "num": 181965,
-      "word": "羽衣甘蓝奶茶或热量超标",
-      "onboard_time": 1743070101,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 101427,
       "num": 101427,
       "word": "河北震感",
@@ -12177,6 +12225,14 @@
       "onboard_time": 1742998043,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100734,
+      "num": 100734,
+      "word": "苹果电影模式 大疆效果",
+      "onboard_time": 1743072141,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 100668,
@@ -12321,6 +12377,14 @@
       "onboard_time": 1742949622,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99546,
+      "num": 99546,
+      "word": "孟子义李昀锐校园风造型",
+      "onboard_time": 1743072500,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 99430,
@@ -12475,14 +12539,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 97108,
-      "num": 97108,
-      "word": "苹果电影模式 大疆效果",
-      "onboard_time": 1743072141,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 96823,
       "num": 96823,
       "word": "玫瑰的故事荣誉推荐作品",
@@ -12545,6 +12601,14 @@
       "onboard_time": 1743056302,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96067,
+      "num": 96067,
+      "word": "廊坊2.2级地震",
+      "onboard_time": 1743074002,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95845,
@@ -13635,6 +13699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67712,
+      "num": 82461,
+      "word": "詹姆斯回应压哨绝杀",
+      "onboard_time": 1743074242,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67638,
       "num": 67638,
       "word": "丝塔芙红包",
@@ -14129,6 +14201,14 @@
       "onboard_time": 1742718621,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 58429,
+      "num": 199157,
+      "word": "日本环球影城偶遇吴磊",
+      "onboard_time": 1743073342,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 58333,
@@ -16185,6 +16265,14 @@
       "onboard_time": 1742900841,
       "rank": 29,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 17437,
+      "num": 203444,
+      "word": "老祖宗暴躁咆哮我们会心一笑",
+      "onboard_time": 1743073100,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17359,
