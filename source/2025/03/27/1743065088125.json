@@ -1,0 +1,410 @@
+{
+  "runTime": 1743065088125,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 725367,
+        "num": 1116058,
+        "word": "黄圣依回应和张凌赫共用一张脸",
+        "onboard_time": 1743056180,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 707270,
+        "num": 707270,
+        "word": "男子在工地宿舍睡觉被工友捅刺身亡",
+        "onboard_time": 1743063321,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30931,
+        "num": 501676,
+        "word": "一组数据看美丽中国颜值有多高",
+        "onboard_time": 1743064342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492460,
+        "num": 492460,
+        "word": "四川乐山966万大奖得主踩点领奖",
+        "onboard_time": 1743061822,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455041,
+        "num": 455041,
+        "word": "你以为的毒贩vs你不知道的伪装",
+        "onboard_time": 1743059842,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1803124,
+        "num": 420197,
+        "word": "赵露思因为躯体化记不住台词",
+        "onboard_time": 1743058940,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325312,
+        "num": 325312,
+        "word": "香飘飘奶茶涨价至16元一杯",
+        "onboard_time": 1743047722,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203001,
+        "num": 203001,
+        "word": "2人身绑28只活体龟入境",
+        "onboard_time": 1743055641,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157851,
+        "num": 157851,
+        "word": "国防部称将坚决打掉一切台独分裂图谋",
+        "onboard_time": 1743062422,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110175,
+        "num": 157729,
+        "word": "北京国际电影节",
+        "onboard_time": 1743063321,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 991801,
+        "num": 157160,
+        "word": "爸爸去世女儿被判和4个姑姑平分遗产",
+        "onboard_time": 1743056242,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 871723,
+        "num": 156351,
+        "word": "赵露思承认对生命没有敬畏",
+        "onboard_time": 1743064641,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571922,
+        "num": 155785,
+        "word": "儿子给腰突父亲买40小时硬座票",
+        "onboard_time": 1743049462,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555838,
+        "num": 155640,
+        "word": "短剧阵容这么顶了吗",
+        "onboard_time": 1743060500,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147261,
+        "num": 154735,
+        "word": "淘宝率先打击AI假图",
+        "onboard_time": 1743062482,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 509855,
+        "num": 154483,
+        "word": "祝绪丹被所有姐姐现场吃瓜",
+        "onboard_time": 1743059481,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358841,
+        "num": 153931,
+        "word": "酒店前台违规办房卡致女子被侵犯",
+        "onboard_time": 1743061762,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275505,
+        "num": 153566,
+        "word": "97年女生身高1.6米体重50斤",
+        "onboard_time": 1743044720,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250248,
+        "num": 152920,
+        "word": "金赛纶问金秀贤我这么让你讨厌吗",
+        "onboard_time": 1743063981,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119316,
+        "num": 152227,
+        "word": "警方回应男子跳江后打捞起女性遗体",
+        "onboard_time": 1743064522,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444932,
+        "num": 151655,
+        "word": "周四是工作效率最低的一天",
+        "onboard_time": 1743057501,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80979,
+        "num": 151149,
+        "word": "国家发改委原副主任徐宪平被查",
+        "onboard_time": 1743061941,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236160,
+        "num": 150912,
+        "word": "女子晒洁癖公公全副武装探望婆婆",
+        "onboard_time": 1743062541,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212630,
+        "num": 150273,
+        "word": "于正 我从此不敢看观音",
+        "onboard_time": 1743051143,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199307,
+        "num": 149726,
+        "word": "被擦妆5次艺考生被中国传媒大学录取",
+        "onboard_time": 1743040400,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173613,
+        "num": 149473,
+        "word": "小S把粉丝送的礼物珍藏十年",
+        "onboard_time": 1743056480,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171555,
+        "num": 148576,
+        "word": "奔跑吧全员黄鹤楼开跑",
+        "onboard_time": 1743058521,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37698,
+        "num": 148337,
+        "word": "法国向乌克兰追加20亿欧元军援",
+        "onboard_time": 1743063981,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35920,
+        "num": 147648,
+        "word": "为啥过敏后会觉得那么痒",
+        "onboard_time": 1743063981,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147456,
+        "num": 147456,
+        "word": "金晨官宣北影节评委",
+        "onboard_time": 1743064942,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162155,
+        "num": 147446,
+        "word": "小红书AI 贴吧男",
+        "onboard_time": 1743064700,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69522,
+        "num": 147296,
+        "word": "曝光千奇百怪的走私方式",
+        "onboard_time": 1743057861,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55065,
+        "num": 147278,
+        "word": "00后靠国补狂省两个月生活费",
+        "onboard_time": 1743064581,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147277,
+        "num": 147277,
+        "word": "张馨予的瘦身思路",
+        "onboard_time": 1743062782,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137443,
+        "num": 137443,
+        "word": "柯淳这阴湿男鬼味",
+        "onboard_time": 1743063921,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108178,
+        "num": 136791,
+        "word": "张子枫北影节创投评委",
+        "onboard_time": 1743063621,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136790,
+        "num": 136790,
+        "word": "你醒啦 现在是2008年",
+        "onboard_time": 1743051022,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130281,
+        "num": 130281,
+        "word": "今年5月只用上19天班",
+        "onboard_time": 1743040460,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7794,
+        "num": 129542,
+        "word": "24对混双组合晋级全运会正赛",
+        "onboard_time": 1743065001,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23860,
+        "num": 129039,
+        "word": "法向乌额外提供20亿欧元军援",
+        "onboard_time": 1743065061,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128850,
+        "num": 128850,
+        "word": "高二女生用扭扭棒复刻明凤冠",
+        "onboard_time": 1743062541,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127559,
+        "num": 127559,
+        "word": "焦虑症年轻化",
+        "onboard_time": 1743063861,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122674,
+        "num": 122674,
+        "word": "朝鲜公布新型无人机画面",
+        "onboard_time": 1743064823,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122567,
+        "num": 122567,
+        "word": "小米的mi倒过来就是仙桃的仙",
+        "onboard_time": 1743044840,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121842,
+        "num": 121842,
+        "word": "金赛纶方发布会信息汇总",
+        "onboard_time": 1743061822,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114258,
+        "num": 114258,
+        "word": "3年赚70万司机从晚6干到早6",
+        "onboard_time": 1743065061,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113900,
+        "num": 113900,
+        "word": "中国将择机降准降息",
+        "onboard_time": 1743063801,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110979,
+        "num": 110979,
+        "word": "百万网红自曝确诊多囊卵巢综合征",
+        "onboard_time": 1743051502,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106017,
+        "num": 106017,
+        "word": "寒潮带来新一轮气温满减",
+        "onboard_time": 1743053300,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7445,
+        "num": 105577,
+        "word": "何俊宏爱玩游戏成工作优势",
+        "onboard_time": 1743061703,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#这一新时代的徙木立信之举改变中国#"
+    }
+  }
+}
