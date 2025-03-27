@@ -1,0 +1,410 @@
+{
+  "runTime": 1743049702477,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1360934,
+        "num": 1360934,
+        "word": "小米的mi倒过来就是仙桃的仙",
+        "onboard_time": 1743044840,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 906656,
+        "num": 906656,
+        "word": "香飘飘奶茶涨价至16元一杯",
+        "onboard_time": 1743047722,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 69375,
+        "num": 894859,
+        "word": "那些美到极致的中国锦绣",
+        "onboard_time": 1743045081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 885247,
+        "num": 885247,
+        "word": "今年5月只用上19天班",
+        "onboard_time": 1743040460,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 635492,
+        "num": 635492,
+        "word": "见到这种草莓熊瓶子请立刻报警",
+        "onboard_time": 1743044241,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573521,
+        "num": 573521,
+        "word": "李佳航对李晟一见钟情",
+        "onboard_time": 1743043101,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539783,
+        "num": 539783,
+        "word": "孟美岐黄圣依跑马拉松",
+        "onboard_time": 1743044122,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488810,
+        "num": 488810,
+        "word": "黑心食品厂用臭蛋做网红蛋糕",
+        "onboard_time": 1743044541,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 464499,
+        "num": 464499,
+        "word": "特朗普成为史上最富有的美国总统",
+        "onboard_time": 1743048382,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 437723,
+        "num": 437723,
+        "word": "疑把R听成L韩客机降错跑道险撞机",
+        "onboard_time": 1743047962,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1061325,
+        "num": 434869,
+        "word": "97年女生身高1.6米体重50斤",
+        "onboard_time": 1743044720,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 859827,
+        "num": 415243,
+        "word": "李宏毅在机场遭粉丝围堵大喊走开",
+        "onboard_time": 1743046462,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607254,
+        "num": 397866,
+        "word": "看得出蓝盈莹是畲族公主",
+        "onboard_time": 1743047481,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375222,
+        "num": 375222,
+        "word": "孟子义李昀锐跑男路透",
+        "onboard_time": 1743046040,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351847,
+        "num": 351847,
+        "word": "不允许再使用零添加等用语",
+        "onboard_time": 1743040340,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340720,
+        "num": 340720,
+        "word": "张檬自曝孕35周臀位绕颈",
+        "onboard_time": 1743000382,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284408,
+        "num": 284408,
+        "word": "韩安冉妈妈回应女儿参加变形记",
+        "onboard_time": 1743039681,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127959,
+        "num": 259329,
+        "word": "宋茜听不懂中药梗",
+        "onboard_time": 1743048382,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255784,
+        "num": 255784,
+        "word": "詹姆斯绝杀",
+        "onboard_time": 1743041480,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22171,
+        "num": 248925,
+        "word": "飞鹤奶粉补贴惊到宝宝了",
+        "onboard_time": 1743046462,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1034012,
+        "num": 247166,
+        "word": "被擦妆5次艺考生被中国传媒大学录取",
+        "onboard_time": 1743040400,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242194,
+        "num": 242194,
+        "word": "复联5 万磁王",
+        "onboard_time": 1743044000,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219285,
+        "num": 219285,
+        "word": "权志龙又染银发了",
+        "onboard_time": 1743041060,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209268,
+        "num": 209268,
+        "word": "金赛纶挚友曝金秀贤出轨",
+        "onboard_time": 1743032421,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31517,
+        "num": 206682,
+        "word": "多所院校发布考研录取名单",
+        "onboard_time": 1743046162,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206531,
+        "num": 206531,
+        "word": "马斯克再登顶世界首富",
+        "onboard_time": 1743048200,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186856,
+        "num": 186856,
+        "word": "杨紫国色芳华琼台玉露照进现实",
+        "onboard_time": 1743048982,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170021,
+        "num": 170021,
+        "word": "孙颖莎与队友合照好开心",
+        "onboard_time": 1743046522,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120935,
+        "num": 169938,
+        "word": "云来意味不明的演技让剧情扑朔迷离",
+        "onboard_time": 1743049163,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53758,
+        "num": 169809,
+        "word": "嚼口香糖会释放微塑料进入唾液",
+        "onboard_time": 1743048684,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304937,
+        "num": 169713,
+        "word": "儿子给腰突父亲买40小时硬座票",
+        "onboard_time": 1743049462,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163406,
+        "num": 169594,
+        "word": "宋茜回应没喝中药",
+        "onboard_time": 1743042200,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146395,
+        "num": 169487,
+        "word": "沙溢发文回应美黑",
+        "onboard_time": 1743041240,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171979,
+        "num": 169404,
+        "word": "不会做蛋糕也能开蛋糕店了",
+        "onboard_time": 1743048382,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169308,
+        "num": 169308,
+        "word": "4名美军士兵在立陶宛失踪",
+        "onboard_time": 1743047122,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165579,
+        "num": 165579,
+        "word": "王俊凯邪恶叮当猫",
+        "onboard_time": 1743049523,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162359,
+        "num": 162359,
+        "word": "画江湖之不良人",
+        "onboard_time": 1743035902,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156705,
+        "num": 156705,
+        "word": "原神",
+        "onboard_time": 1743045138,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154229,
+        "num": 154229,
+        "word": "晋江小说疑似抄袭明日方舟",
+        "onboard_time": 1743046462,
+        "rank": 38,
+        "category": "游戏,读书作家"
+      },
+      {
+        "raw_hot": 151868,
+        "num": 151868,
+        "word": "小小的勇气开播",
+        "onboard_time": 1743048860,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149261,
+        "num": 149261,
+        "word": "陈都灵辛云来房车合体",
+        "onboard_time": 1743037161,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70437,
+        "num": 147636,
+        "word": "陈冠希回应未来是否拍戏",
+        "onboard_time": 1743042261,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146163,
+        "num": 146163,
+        "word": "预包装食品可自愿标示消费保存期",
+        "onboard_time": 1743039080,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144933,
+        "num": 144933,
+        "word": "金莎追星赵雅芝成功",
+        "onboard_time": 1743045920,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143025,
+        "num": 143025,
+        "word": "雷军回母校遭遇两级反转",
+        "onboard_time": 1743037641,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139401,
+        "num": 139401,
+        "word": "八项规定是共产党人应做到的基本要求",
+        "onboard_time": 1743046941,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139106,
+        "num": 139106,
+        "word": "王者荣耀",
+        "onboard_time": 1743043281,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116300,
+        "num": 135674,
+        "word": "雅和王蓉披哥浪姐梦幻联动",
+        "onboard_time": 1743047842,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135070,
+        "num": 135070,
+        "word": "于正狂赞赵晴绝世容颜",
+        "onboard_time": 1743032779,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131671,
+        "num": 131671,
+        "word": "大张伟爷爷去哪儿",
+        "onboard_time": 1743048324,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#八项规定深刻改变中国#"
+    }
+  }
+}
