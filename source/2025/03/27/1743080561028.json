@@ -1,0 +1,410 @@
+{
+  "runTime": 1743080561028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1597350,
+        "num": 1597350,
+        "word": "金价",
+        "onboard_time": 1743076161,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1113894,
+        "num": 1113894,
+        "word": "唐嫣 你的兵来了",
+        "onboard_time": 1743076823,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45569,
+        "num": 675572,
+        "word": "一组数据看美丽中国颜值有多高",
+        "onboard_time": 1743064342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603491,
+        "num": 603491,
+        "word": "国防部提醒日本",
+        "onboard_time": 1743076402,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 339612,
+        "num": 339612,
+        "word": "李嘉诚要卖43个港口给美国企业",
+        "onboard_time": 1743066982,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293494,
+        "num": 293494,
+        "word": "成都沙尘暴",
+        "onboard_time": 1743072259,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 677452,
+        "num": 291253,
+        "word": "唐嫣台词",
+        "onboard_time": 1743077182,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324732,
+        "num": 288017,
+        "word": "周如音黑化",
+        "onboard_time": 1743077901,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316536,
+        "num": 283977,
+        "word": "念无双 老年宣发",
+        "onboard_time": 1743079403,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202291,
+        "num": 280235,
+        "word": "冰箱贴是年轻人的到此一游",
+        "onboard_time": 1743078622,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 874721,
+        "num": 279054,
+        "word": "大鹅多处被烤熟仍不离开被烧死同伴",
+        "onboard_time": 1743077242,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646633,
+        "num": 274258,
+        "word": "谢霆锋的烤肠卖了15亿元",
+        "onboard_time": 1743070701,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498539,
+        "num": 271319,
+        "word": "爸爸去世女儿被判和4个姑姑平分遗产",
+        "onboard_time": 1743056242,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382714,
+        "num": 268316,
+        "word": "儿子给腰突父亲买40小时硬座票",
+        "onboard_time": 1743049462,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265193,
+        "num": 265193,
+        "word": "赵露思生病前和家人几乎不联系",
+        "onboard_time": 1743078741,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246814,
+        "num": 246814,
+        "word": "阮惜文下线",
+        "onboard_time": 1743074602,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242548,
+        "num": 242548,
+        "word": "肖战满头小夹子",
+        "onboard_time": 1743067462,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225215,
+        "num": 225215,
+        "word": "羽衣甘蓝奶茶或热量超标",
+        "onboard_time": 1743070101,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219846,
+        "num": 219846,
+        "word": "念无双",
+        "onboard_time": 1743074421,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184249,
+        "num": 204383,
+        "word": "下岗女工干快递15年领数千退休金",
+        "onboard_time": 1743075741,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197848,
+        "num": 197848,
+        "word": "IU权志龙再唱Palette",
+        "onboard_time": 1743073761,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194937,
+        "num": 194937,
+        "word": "嫁反派",
+        "onboard_time": 1743073642,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193080,
+        "num": 193080,
+        "word": "允在允荷分手",
+        "onboard_time": 1743079943,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185749,
+        "num": 185749,
+        "word": "张元英宝格丽新闻图",
+        "onboard_time": 1743079283,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161160,
+        "num": 181925,
+        "word": "王楚钦拍公式照",
+        "onboard_time": 1743078741,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180587,
+        "num": 180587,
+        "word": "故意让内向的孩子抽到了空白签",
+        "onboard_time": 1743067882,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169032,
+        "num": 169032,
+        "word": "小婉管乐连睡觉都分不开",
+        "onboard_time": 1743076281,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167910,
+        "num": 167910,
+        "word": "酒店前台违规办房卡致女子被侵犯",
+        "onboard_time": 1743061762,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166649,
+        "num": 166649,
+        "word": "周四是工作效率最低的一天",
+        "onboard_time": 1743057501,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163289,
+        "num": 163289,
+        "word": "陈哲远好真诚的一款财神爷",
+        "onboard_time": 1743079462,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150351,
+        "num": 150351,
+        "word": "女孩遭强奸案民警被控渎职不予立案",
+        "onboard_time": 1743076521,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144120,
+        "num": 144120,
+        "word": "国防部称日方最没有资格拿台湾说事",
+        "onboard_time": 1743077542,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139641,
+        "num": 139641,
+        "word": "沧州2.8级地震",
+        "onboard_time": 1743078741,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 132903,
+        "num": 132903,
+        "word": "燃罪最大的刀来了",
+        "onboard_time": 1743079823,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127501,
+        "num": 127501,
+        "word": "李晟为什么爆火出圈",
+        "onboard_time": 1743071480,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118198,
+        "num": 118198,
+        "word": "山西午睡文化",
+        "onboard_time": 1743075021,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116000,
+        "num": 116000,
+        "word": "张馨予说管不住嘴就看钟楚曦",
+        "onboard_time": 1743080241,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115173,
+        "num": 115173,
+        "word": "97年女生身高1.6米体重50斤",
+        "onboard_time": 1743044720,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111308,
+        "num": 111308,
+        "word": "短剧阵容这么顶了吗",
+        "onboard_time": 1743060500,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109048,
+        "num": 109048,
+        "word": "吴宣仪赛前秀第一",
+        "onboard_time": 1743080422,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108027,
+        "num": 108027,
+        "word": "脾胃不好的8个典型症状",
+        "onboard_time": 1743079103,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99718,
+        "num": 99718,
+        "word": "无锡马拉松",
+        "onboard_time": 1743075982,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95418,
+        "num": 95418,
+        "word": "谢娜纪念偶像来了十周年",
+        "onboard_time": 1743070221,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93024,
+        "num": 93024,
+        "word": "虞书欣在哪里摔倒就在哪里躺一会",
+        "onboard_time": 1743080002,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91586,
+        "num": 91586,
+        "word": "于正谈爆剧又爆人",
+        "onboard_time": 1743075261,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89738,
+        "num": 89738,
+        "word": "医生连续六年下班卖小吃月入近2万",
+        "onboard_time": 1743079283,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86753,
+        "num": 86753,
+        "word": "祝绪丹被所有姐姐现场吃瓜",
+        "onboard_time": 1743059481,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85916,
+        "num": 85916,
+        "word": "iG全神班五连胜",
+        "onboard_time": 1743076341,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85858,
+        "num": 85858,
+        "word": "周杰伦昆凌穿情侣装看展",
+        "onboard_time": 1743079162,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85054,
+        "num": 85054,
+        "word": "抢凤冠冰箱贴的队排到了国博大门外",
+        "onboard_time": 1743080482,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这一新时代的徙木立信之举改变中国#"
+    }
+  }
+}
