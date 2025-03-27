@@ -1,7 +1,15 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743053046650,
+  "endTime": 1743054042736,
   "band_list": [
+    {
+      "raw_hot": 2838286,
+      "num": 338378,
+      "word": "金秀贤想抱着未成年的金赛纶睡觉",
+      "onboard_time": 1743052223,
+      "rank": 11,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2266951,
       "num": 2266951,
@@ -19,14 +27,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1841645,
-      "num": 315430,
-      "word": "金秀贤想抱着未成年的金赛纶睡觉",
-      "onboard_time": 1743052223,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1738712,
       "num": 1738712,
       "word": "小米的mi倒过来就是仙桃的仙",
@@ -41,6 +41,14 @@
       "onboard_time": 1743002601,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1380902,
+      "num": 1380902,
+      "word": "于正 我从此不敢看观音",
+      "onboard_time": 1743051143,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1236096,
@@ -83,14 +91,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 926765,
-      "num": 926765,
-      "word": "于正 我从此不敢看观音",
-      "onboard_time": 1743051143,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 896762,
       "num": 1143481,
       "word": "今年5月只用上19天班",
@@ -113,6 +113,14 @@
       "onboard_time": 1743046462,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 845965,
+      "num": 707711,
+      "word": "百万网红自曝确诊多囊卵巢综合征",
+      "onboard_time": 1743051502,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 769295,
@@ -235,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 496958,
+      "num": 314607,
+      "word": "金秀贤金赛纶2016年聊天记录",
+      "onboard_time": 1743053300,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 488960,
       "num": 378023,
       "word": "韩安冉妈妈回应女儿参加变形记",
@@ -275,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 450987,
+      "num": 450987,
+      "word": "你醒啦 现在是2008年",
+      "onboard_time": 1743051022,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 437723,
       "num": 437723,
       "word": "疑把R听成L韩客机降错跑道险撞机",
@@ -299,20 +323,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398252,
+      "num": 398252,
+      "word": "赵雅芝72岁跑马拉松",
+      "onboard_time": 1743050363,
+      "rank": 19,
+      "category": "艺人,运动健身"
+    },
+    {
       "raw_hot": 396248,
       "num": 396248,
       "word": "权志龙又染银发了",
       "onboard_time": 1743041060,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 383457,
-      "num": 348465,
-      "word": "赵雅芝72岁跑马拉松",
-      "onboard_time": 1743050363,
-      "rank": 19,
-      "category": "艺人,运动健身"
     },
     {
       "raw_hot": 379222,
@@ -363,14 +387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 350399,
-      "num": 308158,
-      "word": "百万网红自曝确诊多囊卵巢综合征",
-      "onboard_time": 1743051502,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 346938,
       "num": 346938,
       "word": "祝绪丹当着侯佩岑的面说喜欢周杰伦",
@@ -393,6 +409,14 @@
       "onboard_time": 1743037161,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311426,
+      "num": 311426,
+      "word": "黄圣依说录制再见爱人很真实",
+      "onboard_time": 1743053300,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 311163,
@@ -425,14 +449,6 @@
       "onboard_time": 1743005779,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 288230,
-      "num": 288230,
-      "word": "你醒啦 现在是2008年",
-      "onboard_time": 1743051022,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 286418,
@@ -499,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242288,
+      "num": 242288,
+      "word": "赵露思生病前每天只睡2小时",
+      "onboard_time": 1743053963,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242194,
       "num": 242194,
       "word": "复联5 万磁王",
@@ -547,12 +571,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219917,
+      "num": 206615,
+      "word": "双洁党",
+      "onboard_time": 1743052942,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215815,
       "num": 215815,
       "word": "刘晓庆短剧中演婆婆被儿媳台词震惊",
       "onboard_time": 1743032721,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212337,
+      "num": 208575,
+      "word": "理想开源汽车操作系统",
+      "onboard_time": 1743053300,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 210455,
@@ -593,6 +633,22 @@
       "onboard_time": 1743048200,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 206170,
+      "num": 206170,
+      "word": "Doinb确定明年不打LPL",
+      "onboard_time": 1743053241,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 205073,
+      "num": 205073,
+      "word": "王安宇王玉雯新剧18年爱情长跑",
+      "onboard_time": 1743053241,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 204757,
@@ -763,6 +819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168429,
+      "num": 168429,
+      "word": "孟美岐回应千万直拍",
+      "onboard_time": 1743053483,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165248,
       "num": 165248,
       "word": "陈都灵桃花写真",
@@ -803,20 +867,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155978,
+      "num": 155978,
+      "word": "李晟参加浪姐后瘦了10斤",
+      "onboard_time": 1743052822,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155879,
       "num": 155879,
       "word": "洛克王国世界",
       "onboard_time": 1743045981,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 155694,
-      "num": 155694,
-      "word": "李晟参加浪姐后瘦了10斤",
-      "onboard_time": 1743052822,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 155442,
@@ -891,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141079,
+      "num": 208095,
+      "word": "凤凰传奇曾毅勇闯电影圈",
+      "onboard_time": 1743053963,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140347,
       "num": 140347,
       "word": "湖人vs步行者",
@@ -937,6 +1009,14 @@
       "onboard_time": 1743040581,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134948,
+      "num": 170994,
+      "word": "段奕宏哭戏破碎感",
+      "onboard_time": 1743053903,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 134209,
@@ -1043,12 +1123,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 121774,
-      "num": 121774,
-      "word": "双洁党",
-      "onboard_time": 1743052942,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 121754,
+      "num": 282612,
+      "word": "那些主动退学的博士生",
+      "onboard_time": 1743052041,
+      "rank": 19,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 121283,
@@ -1123,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112504,
+      "num": 344850,
+      "word": "寒潮带来新一轮气温满减",
+      "onboard_time": 1743053300,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110630,
       "num": 110630,
       "word": "祝绪丹神女执弓",
@@ -1137,6 +1225,14 @@
       "onboard_time": 1743047301,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110333,
+      "num": 110333,
+      "word": "华为智驾大师赛冠军称开智驾出车祸",
+      "onboard_time": 1743051022,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 109390,
@@ -1275,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86011,
+      "num": 209446,
+      "word": "神印王座为什么这么刀",
+      "onboard_time": 1743053300,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 82545,
       "num": 82545,
       "word": "小学门口有学生搜身校方称自发行为",
@@ -1331,12 +1435,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74737,
+      "num": 208982,
+      "word": "林俊杰44岁生日照",
+      "onboard_time": 1743051502,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74434,
       "num": 74434,
       "word": "刘诗诗林允儿活动同框",
       "onboard_time": 1742994442,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73499,
+      "num": 206896,
+      "word": "班主任希望减少对漂流小孩哥的打扰",
+      "onboard_time": 1743053421,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73444,
@@ -1419,14 +1539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58951,
-      "num": 282612,
-      "word": "那些主动退学的博士生",
-      "onboard_time": 1743052041,
-      "rank": 19,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 58936,
       "num": 58936,
       "word": "晒工资条能泄漏什么核心机密呢",
@@ -1441,6 +1553,14 @@
       "onboard_time": 1743043700,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56728,
+      "num": 186074,
+      "word": "胡歌首登嘉人封面",
+      "onboard_time": 1743053841,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 56613,
@@ -1659,6 +1779,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 29752,
+      "num": 184730,
+      "word": "大西洋月刊公布全部群聊记录",
+      "onboard_time": 1743053181,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28066,
       "num": 92367,
       "word": "美国务卿回应群聊泄密事件",
@@ -1705,6 +1833,14 @@
       "onboard_time": 1743031700,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 13729,
+      "num": 252520,
+      "word": "为什么现在过敏的人越来越多了",
+      "onboard_time": 1743053542,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 12901,

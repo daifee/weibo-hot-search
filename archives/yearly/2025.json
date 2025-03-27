@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743053046650,
+  "endTime": 1743054042736,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2235,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2838286,
+      "num": 338378,
+      "word": "金秀贤想抱着未成年的金赛纶睡觉",
+      "onboard_time": 1743052223,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2831846,
       "num": 574193,
       "word": "演员高亮去世",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736921058,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2763936,
-      "num": 2763936,
-      "word": "颜十六已到案回国",
-      "onboard_time": 1737904641,
-      "rank": 29,
-      "category": "民生新闻,艺人"
     }
   ],
   "hotgov_list": [
