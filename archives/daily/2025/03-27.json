@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743068461562,
+  "endTime": 1743071183805,
   "band_list": [
     {
       "raw_hot": 2838286,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1921970,
-      "num": 362407,
+      "num": 445607,
       "word": "赵露思承认对生命没有敬畏",
       "onboard_time": 1743064641,
       "rank": 11,
@@ -65,6 +65,14 @@
       "onboard_time": 1743044840,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1727315,
+      "num": 273167,
+      "word": "玫瑰 想离婚",
+      "onboard_time": 1743067763,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 1697150,
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 568557,
+      "num": 209771,
+      "word": "又一批马拉松亲密事件照外泄",
+      "onboard_time": 1743069081,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556066,
       "num": 490301,
       "word": "17岁代孕女孩产下双胞胎已上户口",
@@ -331,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 516729,
+      "num": 1082676,
+      "word": "外交部回应长江和记集团出售海外港口",
+      "onboard_time": 1743065481,
+      "rank": 1,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 510232,
       "num": 281176,
       "word": "双洁党",
@@ -345,6 +369,14 @@
       "onboard_time": 1743041480,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 501719,
+      "num": 256408,
+      "word": "故意让内向的孩子抽到了空白签",
+      "onboard_time": 1743067882,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 501543,
@@ -363,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 490658,
-      "num": 273167,
-      "word": "玫瑰 想离婚",
-      "onboard_time": 1743067763,
-      "rank": 13,
-      "category": "网红"
+      "raw_hot": 490945,
+      "num": 490945,
+      "word": "3年赚70万网约司机春节没休息过",
+      "onboard_time": 1743067341,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 490604,
@@ -393,6 +425,14 @@
       "onboard_time": 1743044541,
       "rank": 49,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 487428,
+      "num": 266265,
+      "word": "肖战满头小夹子",
+      "onboard_time": 1743067462,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 480239,
@@ -427,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 453647,
-      "num": 453647,
-      "word": "外交部回应长江和记集团出售海外港口",
-      "onboard_time": 1743065481,
-      "rank": 1,
-      "category": "国内时政,民生新闻"
-    },
-    {
       "raw_hot": 450926,
       "num": 311426,
       "word": "黄圣依说录制再见爱人很真实",
@@ -457,6 +489,14 @@
       "onboard_time": 1743047962,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 432634,
+      "num": 432634,
+      "word": "丹宁高速桥梁垮塌43名公职人员被问责",
+      "onboard_time": 1743067821,
+      "rank": 5,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 425638,
@@ -505,6 +545,14 @@
       "onboard_time": 1743041060,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385025,
+      "num": 385025,
+      "word": "陈都灵 凤凰哀鸣",
+      "onboard_time": 1743067581,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 379222,
@@ -571,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352890,
-      "num": 271864,
-      "word": "陈都灵 凤凰哀鸣",
-      "onboard_time": 1743067581,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 347371,
       "num": 269756,
       "word": "小红书AI 贴吧男",
@@ -609,14 +649,6 @@
       "onboard_time": 1743063981,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319525,
-      "num": 266265,
-      "word": "肖战满头小夹子",
-      "onboard_time": 1743067462,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 318043,
@@ -715,6 +747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 265984,
+      "num": 209729,
+      "word": "谢霆锋的烤肠卖了15亿元",
+      "onboard_time": 1743070701,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264618,
       "num": 278730,
       "word": "吃饭跑步和恋爱",
@@ -747,20 +787,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256408,
-      "num": 256408,
-      "word": "故意让内向的孩子抽到了空白签",
-      "onboard_time": 1743067882,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 250880,
       "num": 250880,
       "word": "奔跑吧",
       "onboard_time": 1743050305,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245335,
+      "num": 209687,
+      "word": "玫瑰 毛子",
+      "onboard_time": 1743068782,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 244079,
@@ -891,8 +931,16 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 209682,
+      "num": 209682,
+      "word": "谢娜纪念偶像来了十周年",
+      "onboard_time": 1743070221,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209026,
-      "num": 209026,
+      "num": 209702,
       "word": "于正曝男演员删女主戏份",
       "onboard_time": 1743066261,
       "rank": 26,
@@ -985,6 +1033,14 @@
       "onboard_time": 1743039322,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201679,
+      "num": 201679,
+      "word": "黄圣依要重回影视圈了",
+      "onboard_time": 1743068482,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 197938,
@@ -1091,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181663,
-      "num": 181663,
-      "word": "3年赚70万网约司机春节没休息过",
-      "onboard_time": 1743067341,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181542,
       "num": 181542,
       "word": "刘耀文Chapter03",
@@ -1196,7 +1244,7 @@
     },
     {
       "raw_hot": 170907,
-      "num": 170907,
+      "num": 209787,
       "word": "中方反对侵犯损害他国正当权益行为",
       "onboard_time": 1743068181,
       "rank": 42,
@@ -1233,6 +1281,14 @@
       "onboard_time": 1743051203,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164330,
+      "num": 164330,
+      "word": "金赛纶曾打电话给自杀预防中心",
+      "onboard_time": 1743070641,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 161027,
@@ -1563,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130897,
+      "num": 130897,
+      "word": "肖战是歌手也是策划",
+      "onboard_time": 1743070400,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 129620,
       "num": 169938,
       "word": "云来意味不明的演技让剧情扑朔迷离",
@@ -1595,19 +1659,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128269,
+      "num": 271433,
+      "word": "张馨予发体重记录",
+      "onboard_time": 1743066682,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127798,
       "num": 125138,
       "word": "金赛纶方发布会信息汇总",
       "onboard_time": 1743061822,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 127018,
-      "num": 271433,
-      "word": "张馨予发体重记录",
-      "onboard_time": 1743066682,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1625,6 +1689,14 @@
       "onboard_time": 1743063801,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125906,
+      "num": 196029,
+      "word": "WTT印度金奈站场馆掉鸟屎",
+      "onboard_time": 1743070042,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 125513,
@@ -1699,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120955,
+      "num": 120955,
+      "word": "张晚意越低调网友越多疑",
+      "onboard_time": 1743069621,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120661,
       "num": 120661,
       "word": "全球资金持续流入中国",
@@ -1721,6 +1801,14 @@
       "onboard_time": 1743064522,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118979,
+      "num": 118979,
+      "word": "台独分子想玩火就别想跑",
+      "onboard_time": 1743069262,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118941,
@@ -1835,6 +1923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 110273,
+      "num": 110273,
+      "word": "何泓姗花精灵具象化",
+      "onboard_time": 1743070881,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109390,
       "num": 248925,
       "word": "飞鹤奶粉补贴惊到宝宝了",
@@ -1915,6 +2011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106506,
+      "num": 272553,
+      "word": "19名患者在村卫生室打针后感染",
+      "onboard_time": 1743065363,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105459,
       "num": 105459,
       "word": "消息称谷歌将停止Android开源项目",
@@ -1937,6 +2041,14 @@
       "onboard_time": 1743008178,
       "rank": 16,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 101896,
+      "num": 101896,
+      "word": "尹正机场冒充刘端端站哥",
+      "onboard_time": 1743071120,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 101558,
@@ -2187,14 +2299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66268,
-      "num": 272553,
-      "word": "19名患者在村卫生室打针后感染",
-      "onboard_time": 1743065363,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64773,
       "num": 270972,
       "word": "王俊凯包场阳光照耀青春里",
@@ -2419,6 +2523,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 45185,
+      "num": 181965,
+      "word": "羽衣甘蓝奶茶或热量超标",
+      "onboard_time": 1743070101,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 43677,
       "num": 141036,
       "word": "伊万将对两场国足比赛进行总结",
@@ -2481,6 +2593,14 @@
       "onboard_time": 1743012136,
       "rank": 20,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 38340,
+      "num": 157301,
+      "word": "吴艳妮说困难越大越有动力",
+      "onboard_time": 1743069862,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 38212,
@@ -2643,12 +2763,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20978,
+      "num": 209758,
+      "word": "盘点近10年龙标001号故事片电影",
+      "onboard_time": 1743069982,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 19571,
+      "num": 457002,
+      "word": "12届中国网络视听大会开幕",
+      "onboard_time": 1743069563,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19450,
       "num": 32631,
       "word": "你的班味可能是臭味",
       "onboard_time": 1743031338,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 18569,
+      "num": 187110,
+      "word": "中国为什么更适合造智能车和机器人",
+      "onboard_time": 1743070400,
+      "rank": 28,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 17007,

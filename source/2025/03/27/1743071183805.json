@@ -1,0 +1,410 @@
+{
+  "runTime": 1743071183805,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 516729,
+        "num": 1082676,
+        "word": "外交部回应长江和记集团出售海外港口",
+        "onboard_time": 1743065481,
+        "rank": 0,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 490945,
+        "num": 490945,
+        "word": "3年赚70万网约司机春节没休息过",
+        "onboard_time": 1743067341,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19571,
+        "num": 457002,
+        "word": "12届中国网络视听大会开幕",
+        "onboard_time": 1743069563,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1400562,
+        "num": 445607,
+        "word": "赵露思承认对生命没有敬畏",
+        "onboard_time": 1743064641,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1198951,
+        "num": 439308,
+        "word": "胡静卖老公跑车三个男人心碎了",
+        "onboard_time": 1743066682,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432634,
+        "num": 432634,
+        "word": "丹宁高速桥梁垮塌43名公职人员被问责",
+        "onboard_time": 1743067821,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 555076,
+        "num": 419094,
+        "word": "黄圣依回应和张凌赫共用一张脸",
+        "onboard_time": 1743056180,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385025,
+        "num": 385025,
+        "word": "陈都灵 凤凰哀鸣",
+        "onboard_time": 1743067581,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209794,
+        "num": 209794,
+        "word": "你以为的毒贩vs你不知道的伪装",
+        "onboard_time": 1743059842,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144531,
+        "num": 209787,
+        "word": "中方反对侵犯损害他国正当权益行为",
+        "onboard_time": 1743068181,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1727315,
+        "num": 209783,
+        "word": "玫瑰 想离婚",
+        "onboard_time": 1743067763,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 698322,
+        "num": 209773,
+        "word": "爸爸去世女儿被判和4个姑姑平分遗产",
+        "onboard_time": 1743056242,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568557,
+        "num": 209771,
+        "word": "又一批马拉松亲密事件照外泄",
+        "onboard_time": 1743069081,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501719,
+        "num": 209763,
+        "word": "故意让内向的孩子抽到了空白签",
+        "onboard_time": 1743067882,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20978,
+        "num": 209758,
+        "word": "盘点近10年龙标001号故事片电影",
+        "onboard_time": 1743069982,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 487428,
+        "num": 209748,
+        "word": "肖战满头小夹子",
+        "onboard_time": 1743067462,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 408259,
+        "num": 209741,
+        "word": "儿子给腰突父亲买40小时硬座票",
+        "onboard_time": 1743049462,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331602,
+        "num": 209731,
+        "word": "泰媒报道迪丽热巴中国娱乐圈女王",
+        "onboard_time": 1743066321,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265984,
+        "num": 209729,
+        "word": "谢霆锋的烤肠卖了15亿元",
+        "onboard_time": 1743070701,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171692,
+        "num": 209720,
+        "word": "酒店前台违规办房卡致女子被侵犯",
+        "onboard_time": 1743061762,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279157,
+        "num": 209710,
+        "word": "周四是工作效率最低的一天",
+        "onboard_time": 1743057501,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245439,
+        "num": 209703,
+        "word": "金赛纶问金秀贤我这么让你讨厌吗",
+        "onboard_time": 1743063981,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174834,
+        "num": 209702,
+        "word": "于正曝男演员删女主戏份",
+        "onboard_time": 1743066261,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418027,
+        "num": 209689,
+        "word": "3年赚70万司机从晚6干到早6",
+        "onboard_time": 1743065061,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245335,
+        "num": 209687,
+        "word": "玫瑰 毛子",
+        "onboard_time": 1743068782,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 209682,
+        "num": 209682,
+        "word": "谢娜纪念偶像来了十周年",
+        "onboard_time": 1743070221,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201679,
+        "num": 201679,
+        "word": "黄圣依要重回影视圈了",
+        "onboard_time": 1743068482,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125906,
+        "num": 196029,
+        "word": "WTT印度金奈站场馆掉鸟屎",
+        "onboard_time": 1743070042,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18569,
+        "num": 187110,
+        "word": "中国为什么更适合造智能车和机器人",
+        "onboard_time": 1743070400,
+        "rank": 28,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 45185,
+        "num": 181965,
+        "word": "羽衣甘蓝奶茶或热量超标",
+        "onboard_time": 1743070101,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149719,
+        "num": 171702,
+        "word": "赵雅芝回应儿子是男版的自己",
+        "onboard_time": 1743066621,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171412,
+        "num": 171412,
+        "word": "短剧阵容这么顶了吗",
+        "onboard_time": 1743060500,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171165,
+        "num": 171165,
+        "word": "小红书AI 贴吧男",
+        "onboard_time": 1743064700,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164330,
+        "num": 164330,
+        "word": "金赛纶曾打电话给自杀预防中心",
+        "onboard_time": 1743070641,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38340,
+        "num": 157301,
+        "word": "吴艳妮说困难越大越有动力",
+        "onboard_time": 1743069862,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151261,
+        "num": 151261,
+        "word": "张佳宁脸肿成了蜜蜂小狗",
+        "onboard_time": 1743065481,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150822,
+        "num": 150822,
+        "word": "97年女生身高1.6米体重50斤",
+        "onboard_time": 1743044720,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149588,
+        "num": 149588,
+        "word": "雁回时",
+        "onboard_time": 1743067521,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142070,
+        "num": 142070,
+        "word": "李嘉诚要卖43个港口给美国企业",
+        "onboard_time": 1743066982,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133117,
+        "num": 133117,
+        "word": "祝绪丹被所有姐姐现场吃瓜",
+        "onboard_time": 1743059481,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130897,
+        "num": 130897,
+        "word": "肖战是歌手也是策划",
+        "onboard_time": 1743070400,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128269,
+        "num": 128269,
+        "word": "张馨予发体重记录",
+        "onboard_time": 1743066682,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124696,
+        "num": 124696,
+        "word": "四川乐山966万大奖得主踩点领奖",
+        "onboard_time": 1743061822,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120955,
+        "num": 120955,
+        "word": "张晚意越低调网友越多疑",
+        "onboard_time": 1743069621,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118979,
+        "num": 118979,
+        "word": "台独分子想玩火就别想跑",
+        "onboard_time": 1743069262,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112122,
+        "num": 112122,
+        "word": "香飘飘奶茶涨价至16元一杯",
+        "onboard_time": 1743047722,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110273,
+        "num": 110273,
+        "word": "何泓姗花精灵具象化",
+        "onboard_time": 1743070881,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106506,
+        "num": 106506,
+        "word": "19名患者在村卫生室打针后感染",
+        "onboard_time": 1743065363,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106453,
+        "num": 106453,
+        "word": "奔跑吧全员黄鹤楼开跑",
+        "onboard_time": 1743058521,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101896,
+        "num": 101896,
+        "word": "尹正机场冒充刘端端站哥",
+        "onboard_time": 1743071120,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#这一新时代的徙木立信之举改变中国#"
+    }
+  }
+}
