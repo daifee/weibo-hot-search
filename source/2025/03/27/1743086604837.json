@@ -1,0 +1,410 @@
+{
+  "runTime": 1743086604837,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1279880,
+        "num": 1279880,
+        "word": "金价",
+        "onboard_time": 1743076161,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 776844,
+        "num": 776844,
+        "word": "冰箱贴是年轻人的到此一游",
+        "onboard_time": 1743078622,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4405,
+        "num": 760796,
+        "word": "万千气象看江苏",
+        "onboard_time": 1742825783,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 756167,
+        "num": 756167,
+        "word": "my name is jeff 嘟嘟嘟嘟",
+        "onboard_time": 1743082703,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695722,
+        "num": 695722,
+        "word": "舒马赫近乎植物人",
+        "onboard_time": 1743081261,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506515,
+        "num": 506515,
+        "word": "张馨予说管不住嘴就看钟楚曦",
+        "onboard_time": 1743080241,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463503,
+        "num": 463503,
+        "word": "唐嫣 你的兵来了",
+        "onboard_time": 1743076823,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450802,
+        "num": 450802,
+        "word": "王宝强新剧78秒8个假动作",
+        "onboard_time": 1743082822,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323059,
+        "num": 323059,
+        "word": "秦岭这次没能挡住沙尘",
+        "onboard_time": 1743082581,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130944,
+        "num": 316600,
+        "word": "河北沧州发生2.8级地震",
+        "onboard_time": 1743082763,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2028288,
+        "num": 316592,
+        "word": "金赛纶写给文彬的信",
+        "onboard_time": 1743084742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489361,
+        "num": 316587,
+        "word": "医生连续六年下班卖小吃月入近2万",
+        "onboard_time": 1743079283,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316581,
+        "num": 316581,
+        "word": "喻恩泰演技",
+        "onboard_time": 1743084262,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302989,
+        "num": 302989,
+        "word": "爸爸去世女儿被判和4个姑姑平分遗产",
+        "onboard_time": 1743056242,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293573,
+        "num": 293573,
+        "word": "赵露思生病前和家人几乎不联系",
+        "onboard_time": 1743078741,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259869,
+        "num": 259869,
+        "word": "雁回时热度",
+        "onboard_time": 1743079943,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256764,
+        "num": 256764,
+        "word": "抢凤冠冰箱贴的队排到了国博大门外",
+        "onboard_time": 1743080482,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254391,
+        "num": 254391,
+        "word": "念无双 老年宣发",
+        "onboard_time": 1743079403,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250174,
+        "num": 250174,
+        "word": "儿子给腰突父亲买40小时硬座票",
+        "onboard_time": 1743049462,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40329,
+        "num": 244284,
+        "word": "代孕机构称20万可办出生证明",
+        "onboard_time": 1743085762,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243961,
+        "num": 243961,
+        "word": "范丞丞淋过雨所以给张真源撑伞",
+        "onboard_time": 1743083663,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234099,
+        "num": 234099,
+        "word": "马拉松",
+        "onboard_time": 1743084563,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 218370,
+        "num": 218370,
+        "word": "大鹅多处被烤熟仍不离开被烧死同伴",
+        "onboard_time": 1743077242,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64146,
+        "num": 207722,
+        "word": "周杰伦昆凌穿情侣装看展",
+        "onboard_time": 1743079162,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201671,
+        "num": 201671,
+        "word": "任天堂直面会",
+        "onboard_time": 1743085164,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193869,
+        "num": 193869,
+        "word": "金赛纶和朋友的聊天记录公开",
+        "onboard_time": 1743086062,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191997,
+        "num": 191997,
+        "word": "吴宣仪赛前秀第一",
+        "onboard_time": 1743080422,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189486,
+        "num": 189486,
+        "word": "允在允荷分手",
+        "onboard_time": 1743079943,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189190,
+        "num": 189190,
+        "word": "山东一任教31年教师临近退休突遭解聘",
+        "onboard_time": 1743081741,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34938,
+        "num": 185586,
+        "word": "枪杀美保险巨头CEO案法庭文件披露",
+        "onboard_time": 1743085643,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185551,
+        "num": 185551,
+        "word": "棋士 黑色幽默",
+        "onboard_time": 1743085942,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180470,
+        "num": 180470,
+        "word": "IG战胜LNG",
+        "onboard_time": 1743084622,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176852,
+        "num": 176852,
+        "word": "宋茜 喝什么中药一起喝茶吧",
+        "onboard_time": 1743085222,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172815,
+        "num": 172815,
+        "word": "怪盗基德好伟大的脸",
+        "onboard_time": 1743084383,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 167929,
+        "num": 167929,
+        "word": "国防部提醒日本",
+        "onboard_time": 1743076402,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163831,
+        "num": 163831,
+        "word": "雁回时",
+        "onboard_time": 1743067521,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161359,
+        "num": 161359,
+        "word": "人民网评古偶失灵",
+        "onboard_time": 1743084383,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141916,
+        "num": 141916,
+        "word": "成都沙尘暴",
+        "onboard_time": 1743072259,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140986,
+        "num": 140986,
+        "word": "肖战满头小夹子",
+        "onboard_time": 1743067462,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131113,
+        "num": 131113,
+        "word": "李晟为什么爆火出圈",
+        "onboard_time": 1743071480,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95554,
+        "num": 130645,
+        "word": "王传福称新能源车进入四电时代",
+        "onboard_time": 1743080722,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130489,
+        "num": 130489,
+        "word": "接下来这波降温有多猛",
+        "onboard_time": 1743080122,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129419,
+        "num": 129419,
+        "word": "唐嫣台词",
+        "onboard_time": 1743077182,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125368,
+        "num": 125368,
+        "word": "97年女生身高1.6米体重50斤",
+        "onboard_time": 1743044720,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123595,
+        "num": 123595,
+        "word": "蔡文静穿搭",
+        "onboard_time": 1743082581,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122893,
+        "num": 122893,
+        "word": "王一博现身宁波国际赛道",
+        "onboard_time": 1743081021,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119113,
+        "num": 119113,
+        "word": "樊振东19岁首夺三大赛冠军",
+        "onboard_time": 1743085342,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117693,
+        "num": 117693,
+        "word": "IU权志龙再唱Palette",
+        "onboard_time": 1743073761,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115462,
+        "num": 115462,
+        "word": "CBA",
+        "onboard_time": 1743086543,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115423,
+        "num": 115423,
+        "word": "国博C位冰箱贴原型禁止出境展览",
+        "onboard_time": 1743082763,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#留得清气满乾坤#"
+    }
+  }
+}

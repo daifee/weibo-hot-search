@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743085436186,
+  "endTime": 1743086604837,
   "band_list": [
     {
       "raw_hot": 2838286,
@@ -41,6 +41,14 @@
       "onboard_time": 1743049462,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2028288,
+      "num": 316592,
+      "word": "金赛纶写给文彬的信",
+      "onboard_time": 1743084742,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2007019,
@@ -267,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 756167,
+      "num": 756167,
+      "word": "my name is jeff 嘟嘟嘟嘟",
+      "onboard_time": 1743082703,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 736896,
       "num": 736896,
       "word": "陈都灵晒辛云来煮的米线",
@@ -292,19 +308,11 @@
     },
     {
       "raw_hot": 708839,
-      "num": 316558,
+      "num": 316587,
       "word": "医生连续六年下班卖小吃月入近2万",
       "onboard_time": 1743079283,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 696602,
-      "num": 696602,
-      "word": "my name is jeff 嘟嘟嘟嘟",
-      "onboard_time": 1743082703,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 684906,
@@ -571,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 450802,
+      "num": 450802,
+      "word": "王宝强新剧78秒8个假动作",
+      "onboard_time": 1743082822,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 444932,
       "num": 265094,
       "word": "周四是工作效率最低的一天",
@@ -625,14 +641,6 @@
       "onboard_time": 1743050183,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410299,
-      "num": 410299,
-      "word": "王宝强新剧78秒8个假动作",
-      "onboard_time": 1743082822,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 407436,
@@ -731,14 +739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371421,
-      "num": 279267,
-      "word": "金赛纶写给文彬的信",
-      "onboard_time": 1743084742,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 368924,
       "num": 265847,
       "word": "酒店前台违规办房卡致女子被侵犯",
@@ -819,11 +819,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323059,
+      "num": 323059,
+      "word": "秦岭这次没能挡住沙尘",
+      "onboard_time": 1743082581,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318043,
       "num": 318043,
       "word": "陈都灵辛云来房车合体",
       "onboard_time": 1743037161,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 316581,
+      "num": 316581,
+      "word": "喻恩泰演技",
+      "onboard_time": 1743084262,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -955,14 +971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 267242,
-      "num": 267242,
-      "word": "喻恩泰演技",
-      "onboard_time": 1743084262,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 264618,
       "num": 278730,
       "word": "吃饭跑步和恋爱",
@@ -995,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259869,
+      "num": 259869,
+      "word": "雁回时热度",
+      "onboard_time": 1743079943,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250880,
       "num": 250880,
       "word": "奔跑吧",
@@ -1016,6 +1032,14 @@
       "word": "张佳宁脸肿成了蜜蜂小狗",
       "onboard_time": 1743065481,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 243961,
+      "num": 243961,
+      "word": "范丞丞淋过雨所以给张真源撑伞",
+      "onboard_time": 1743083663,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -1067,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234099,
+      "num": 234099,
+      "word": "马拉松",
+      "onboard_time": 1743084563,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 233819,
       "num": 233819,
       "word": "金莎追星赵雅芝成功",
@@ -1105,14 +1137,6 @@
       "onboard_time": 1743049523,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 221883,
-      "num": 221883,
-      "word": "雁回时热度",
-      "onboard_time": 1743079943,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 215815,
@@ -1211,14 +1235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206797,
-      "num": 206797,
-      "word": "范丞丞淋过雨所以给张真源撑伞",
-      "onboard_time": 1743083663,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206531,
       "num": 206531,
       "word": "马斯克再登顶世界首富",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1743068482,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201671,
+      "num": 201671,
+      "word": "任天堂直面会",
+      "onboard_time": 1743085164,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 200483,
@@ -1339,6 +1363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 193869,
+      "num": 193869,
+      "word": "金赛纶和朋友的聊天记录公开",
+      "onboard_time": 1743086062,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189797,
       "num": 189797,
       "word": "唐嫣单眼落泪破碎感",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1743076281,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189190,
+      "num": 189190,
+      "word": "山东一任教31年教师临近退休突遭解聘",
+      "onboard_time": 1743081741,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189018,
@@ -1395,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185551,
+      "num": 185551,
+      "word": "棋士 黑色幽默",
+      "onboard_time": 1743085942,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184249,
       "num": 204383,
       "word": "下岗女工干快递15年领数千退休金",
@@ -1409,14 +1457,6 @@
       "onboard_time": 1743074242,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 183270,
-      "num": 183270,
-      "word": "山东一任教31年教师临近退休突遭解聘",
-      "onboard_time": 1743081741,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182615,
@@ -1499,6 +1539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 176852,
+      "num": 176852,
+      "word": "宋茜 喝什么中药一起喝茶吧",
+      "onboard_time": 1743085222,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175438,
       "num": 231058,
       "word": "淘宝率先打击AI假图",
@@ -1523,20 +1571,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 173501,
-      "num": 173501,
-      "word": "马拉松",
-      "onboard_time": 1743084563,
-      "rank": 27,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 172992,
       "num": 172992,
       "word": "4名美军士兵在立陶宛失踪",
       "onboard_time": 1743047122,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172815,
+      "num": 172815,
+      "word": "怪盗基德好伟大的脸",
+      "onboard_time": 1743084383,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 171979,
@@ -1619,12 +1667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163143,
-      "num": 163143,
-      "word": "怪盗基德好伟大的脸",
+      "raw_hot": 161359,
+      "num": 161359,
+      "word": "人民网评古偶失灵",
       "onboard_time": 1743084383,
-      "rank": 28,
-      "category": "动漫"
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161160,
@@ -2011,36 +2059,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135061,
-      "num": 135061,
-      "word": "任天堂直面会",
-      "onboard_time": 1743085164,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 134948,
       "num": 170994,
       "word": "段奕宏哭戏破碎感",
       "onboard_time": 1743053903,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134756,
-      "num": 280090,
-      "word": "秦岭这次没能挡住沙尘",
-      "onboard_time": 1743082581,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134434,
-      "num": 134434,
-      "word": "人民网评古偶失灵",
-      "onboard_time": 1743084383,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134209,
@@ -2099,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130944,
+      "num": 316600,
+      "word": "河北沧州发生2.8级地震",
+      "onboard_time": 1743082763,
+      "rank": 43,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 130897,
       "num": 130897,
       "word": "肖战是歌手也是策划",
@@ -2153,14 +2185,6 @@
       "onboard_time": 1743048382,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128586,
-      "num": 128586,
-      "word": "河北沧州发生2.8级地震",
-      "onboard_time": 1743082763,
-      "rank": 43,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 128426,
@@ -2315,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119113,
+      "num": 119113,
+      "word": "樊振东19岁首夺三大赛冠军",
+      "onboard_time": 1743085342,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118941,
       "num": 118941,
       "word": "福宝上演空中一字马",
@@ -2347,14 +2379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116874,
-      "num": 116874,
-      "word": "樊振东19岁首夺三大赛冠军",
-      "onboard_time": 1743085342,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116300,
       "num": 135674,
       "word": "雅和王蓉披哥浪姐梦幻联动",
@@ -2379,6 +2403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115462,
+      "num": 115462,
+      "word": "CBA",
+      "onboard_time": 1743086543,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115209,
       "num": 275327,
       "word": "丹宁高速水阳段桥梁垮塌灾害调查评估报告",
@@ -2393,14 +2425,6 @@
       "onboard_time": 1743045081,
       "rank": 43,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 114419,
-      "num": 114419,
-      "word": "宋茜 喝什么中药一起喝茶吧",
-      "onboard_time": 1743085222,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 113969,
@@ -2788,7 +2812,7 @@
     },
     {
       "raw_hot": 87148,
-      "num": 87148,
+      "num": 207722,
       "word": "周杰伦昆凌穿情侣装看展",
       "onboard_time": 1743079162,
       "rank": 47,
@@ -3235,6 +3259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40329,
+      "num": 244284,
+      "word": "代孕机构称20万可办出生证明",
+      "onboard_time": 1743085762,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40319,
       "num": 125529,
       "word": "九紫离火运的旺运tips",
@@ -3297,6 +3329,14 @@
       "onboard_time": 1743063981,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 34938,
+      "num": 185586,
+      "word": "枪杀美保险巨头CEO案法庭文件披露",
+      "onboard_time": 1743085643,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34397,

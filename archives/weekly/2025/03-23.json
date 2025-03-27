@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743085436186,
+  "endTime": 1743086604837,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -209,6 +209,14 @@
       "onboard_time": 1742949683,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2028288,
+      "num": 316592,
+      "word": "金赛纶写给文彬的信",
+      "onboard_time": 1743084742,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2007019,
@@ -1371,6 +1379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 756167,
+      "num": 756167,
+      "word": "my name is jeff 嘟嘟嘟嘟",
+      "onboard_time": 1743082703,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 747356,
       "num": 610140,
       "word": "无锡马拉松承办单位回应野鸳鸯事件",
@@ -1460,19 +1476,11 @@
     },
     {
       "raw_hot": 708839,
-      "num": 316558,
+      "num": 316587,
       "word": "医生连续六年下班卖小吃月入近2万",
       "onboard_time": 1743079283,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 696602,
-      "num": 696602,
-      "word": "my name is jeff 嘟嘟嘟嘟",
-      "onboard_time": 1743082703,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 694349,
@@ -2731,6 +2739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 450802,
+      "num": 450802,
+      "word": "王宝强新剧78秒8个假动作",
+      "onboard_time": 1743082822,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 446562,
       "num": 446562,
       "word": "民间格格",
@@ -3065,14 +3081,6 @@
       "onboard_time": 1742740642,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 410299,
-      "num": 410299,
-      "word": "王宝强新剧78秒8个假动作",
-      "onboard_time": 1743082822,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 409881,
@@ -3449,14 +3457,6 @@
       "onboard_time": 1742968881,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 371421,
-      "num": 279267,
-      "word": "金赛纶写给文彬的信",
-      "onboard_time": 1743084742,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 369616,
@@ -3939,6 +3939,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 323059,
+      "num": 323059,
+      "word": "秦岭这次没能挡住沙尘",
+      "onboard_time": 1743082581,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321552,
       "num": 334233,
       "word": "三地回应17岁女孩代孕生下双胞胎",
@@ -4009,6 +4017,14 @@
       "onboard_time": 1742890102,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316581,
+      "num": 316581,
+      "word": "喻恩泰演技",
+      "onboard_time": 1743084262,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 315883,
@@ -4723,14 +4739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267242,
-      "num": 267242,
-      "word": "喻恩泰演技",
-      "onboard_time": 1743084262,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 267195,
       "num": 279070,
       "word": "网剧沙尘暴定档",
@@ -5043,6 +5051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243961,
+      "num": 243961,
+      "word": "范丞丞淋过雨所以给张真源撑伞",
+      "onboard_time": 1743083663,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242684,
       "num": 242684,
       "word": "为带小猫世纪婴儿高烧坐8小时大巴",
@@ -5257,6 +5273,14 @@
       "onboard_time": 1742916562,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 234099,
+      "num": 234099,
+      "word": "马拉松",
+      "onboard_time": 1743084563,
+      "rank": 27,
+      "category": "运动健身"
     },
     {
       "raw_hot": 233863,
@@ -5987,14 +6011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206797,
-      "num": 206797,
-      "word": "范丞丞淋过雨所以给张真源撑伞",
-      "onboard_time": 1743083663,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206698,
       "num": 206698,
       "word": "抢克拉棒",
@@ -6257,6 +6273,14 @@
       "onboard_time": 1742965462,
       "rank": 26,
       "category": "剧集,教育"
+    },
+    {
+      "raw_hot": 201671,
+      "num": 201671,
+      "word": "任天堂直面会",
+      "onboard_time": 1743085164,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 201559,
@@ -6611,6 +6635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193869,
+      "num": 193869,
+      "word": "金赛纶和朋友的聊天记录公开",
+      "onboard_time": 1743086062,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193139,
       "num": 193139,
       "word": "监拍地震警报响起居民商量跑不跑",
@@ -6777,6 +6809,14 @@
       "onboard_time": 1743076281,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189190,
+      "num": 189190,
+      "word": "山东一任教31年教师临近退休突遭解聘",
+      "onboard_time": 1743081741,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189131,
@@ -6987,6 +7027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185551,
+      "num": 185551,
+      "word": "棋士 黑色幽默",
+      "onboard_time": 1743085942,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185404,
       "num": 185404,
       "word": "丁禹兮出席贵阳音乐节",
@@ -7065,14 +7113,6 @@
       "onboard_time": 1742724501,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183270,
-      "num": 183270,
-      "word": "山东一任教31年教师临近退休突遭解聘",
-      "onboard_time": 1743081741,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183107,
@@ -7307,6 +7347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176852,
+      "num": 176852,
+      "word": "宋茜 喝什么中药一起喝茶吧",
+      "onboard_time": 1743085222,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176704,
       "num": 225031,
       "word": "花花是春天攒下的惊喜吧",
@@ -7443,14 +7491,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 173501,
-      "num": 173501,
-      "word": "马拉松",
-      "onboard_time": 1743084563,
-      "rank": 27,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 173498,
       "num": 216147,
       "word": "新男团NEWBEAT今日出道造型",
@@ -7505,6 +7545,14 @@
       "onboard_time": 1742882240,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172815,
+      "num": 172815,
+      "word": "怪盗基德好伟大的脸",
+      "onboard_time": 1743084383,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 172547,
@@ -7899,14 +7947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163143,
-      "num": 163143,
-      "word": "怪盗基德好伟大的脸",
-      "onboard_time": 1743084383,
-      "rank": 28,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 163036,
       "num": 163036,
       "word": "腾讯QQ宣布调整短视频业务",
@@ -8073,6 +8113,14 @@
       "onboard_time": 1742913804,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 161359,
+      "num": 161359,
+      "word": "人民网评古偶失灵",
+      "onboard_time": 1743084383,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161275,
@@ -9923,14 +9971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135061,
-      "num": 135061,
-      "word": "任天堂直面会",
-      "onboard_time": 1743085164,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 135007,
       "num": 135007,
       "word": "终于有剧的打戏不敷衍观众了",
@@ -9945,14 +9985,6 @@
       "onboard_time": 1743053903,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134756,
-      "num": 280090,
-      "word": "秦岭这次没能挡住沙尘",
-      "onboard_time": 1743082581,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134744,
@@ -9977,14 +10009,6 @@
       "onboard_time": 1742718681,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 134434,
-      "num": 134434,
-      "word": "人民网评古偶失灵",
-      "onboard_time": 1743084383,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134217,
@@ -10259,6 +10283,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 130944,
+      "num": 316600,
+      "word": "河北沧州发生2.8级地震",
+      "onboard_time": 1743082763,
+      "rank": 43,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 130897,
       "num": 130897,
       "word": "肖战是歌手也是策划",
@@ -10433,14 +10465,6 @@
       "onboard_time": 1742819482,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 128586,
-      "num": 128586,
-      "word": "河北沧州发生2.8级地震",
-      "onboard_time": 1743082763,
-      "rank": 43,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 128426,
@@ -11291,6 +11315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119113,
+      "num": 119113,
+      "word": "樊振东19岁首夺三大赛冠军",
+      "onboard_time": 1743085342,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118943,
       "num": 118943,
       "word": "张凌赫田曦薇逐玉一家三口路透",
@@ -11393,14 +11425,6 @@
       "onboard_time": 1742694919,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116874,
-      "num": 116874,
-      "word": "樊振东19岁首夺三大赛冠军",
-      "onboard_time": 1743085342,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 116836,
@@ -11531,6 +11555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115462,
+      "num": 115462,
+      "word": "CBA",
+      "onboard_time": 1742742023,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115209,
       "num": 275327,
       "word": "丹宁高速水阳段桥梁垮塌灾害调查评估报告",
@@ -11601,14 +11633,6 @@
       "onboard_time": 1743045081,
       "rank": 43,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 114419,
-      "num": 114419,
-      "word": "宋茜 喝什么中药一起喝茶吧",
-      "onboard_time": 1743085222,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 114398,
@@ -13436,7 +13460,7 @@
     },
     {
       "raw_hot": 87148,
-      "num": 87148,
+      "num": 207722,
       "word": "周杰伦昆凌穿情侣装看展",
       "onboard_time": 1743079162,
       "rank": 47,
@@ -15499,6 +15523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40329,
+      "num": 244284,
+      "word": "代孕机构称20万可办出生证明",
+      "onboard_time": 1743085762,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40319,
       "num": 125529,
       "word": "九紫离火运的旺运tips",
@@ -15777,6 +15809,14 @@
       "onboard_time": 1742822663,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34938,
+      "num": 185586,
+      "word": "枪杀美保险巨头CEO案法庭文件披露",
+      "onboard_time": 1743085643,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34920,
@@ -16337,14 +16377,6 @@
       "onboard_time": 1742669535,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26314,
-      "num": 54922,
-      "word": "CBA",
-      "onboard_time": 1742742023,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 26213,
