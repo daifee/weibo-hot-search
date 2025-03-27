@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743049702477,
+  "endTime": 1743050657787,
   "band_list": [
     {
       "raw_hot": 2266951,
@@ -8,6 +8,14 @@
       "word": "被擦妆5次艺考生被中国传媒大学录取",
       "onboard_time": 1743040400,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1738712,
+      "num": 1738712,
+      "word": "小米的mi倒过来就是仙桃的仙",
+      "onboard_time": 1743044840,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -19,20 +27,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1360934,
-      "num": 1360934,
-      "word": "小米的mi倒过来就是仙桃的仙",
-      "onboard_time": 1743044840,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1236096,
       "num": 434869,
       "word": "97年女生身高1.6米体重50斤",
       "onboard_time": 1743044720,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1164891,
+      "num": 379308,
+      "word": "儿子给腰突父亲买40小时硬座票",
+      "onboard_time": 1743049462,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1154576,
+      "num": 1154576,
+      "word": "特朗普成为史上最富有的美国总统",
+      "onboard_time": 1743048382,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1099362,
@@ -51,8 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 906656,
-      "num": 906656,
+      "raw_hot": 1011433,
+      "num": 1011433,
       "word": "香飘飘奶茶涨价至16元一杯",
       "onboard_time": 1743047722,
       "rank": 1,
@@ -227,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 464499,
-      "num": 464499,
-      "word": "特朗普成为史上最富有的美国总统",
-      "onboard_time": 1743048382,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 458512,
       "num": 458512,
       "word": "特朗普宣布对进口汽车征收25%关税",
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 378508,
-      "num": 378508,
+      "num": 402814,
       "word": "不允许再使用零添加等用语",
       "onboard_time": 1743040340,
       "rank": 9,
@@ -355,14 +363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 304937,
-      "num": 169713,
-      "word": "儿子给腰突父亲买40小时硬座票",
-      "onboard_time": 1743049462,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 292467,
       "num": 292467,
       "word": "原神",
@@ -403,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 274789,
+      "num": 253280,
+      "word": "杨紫国色芳华琼台玉露照进现实",
+      "onboard_time": 1743048982,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274533,
       "num": 274533,
       "word": "错误洗头方式会导致脂溢性皮炎",
@@ -433,6 +441,14 @@
       "onboard_time": 1743036201,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 250880,
+      "num": 250880,
+      "word": "奔跑吧",
+      "onboard_time": 1743050305,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 242194,
@@ -483,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215140,
+      "num": 215140,
+      "word": "王俊凯邪恶叮当猫",
+      "onboard_time": 1743049523,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210455,
       "num": 210455,
       "word": "画江湖之不良人",
@@ -531,12 +555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197938,
+      "num": 197938,
+      "word": "阿瑟请开跑",
+      "onboard_time": 1743049943,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194465,
       "num": 194465,
       "word": "食品安全对零添加的要求更严格了",
       "onboard_time": 1743042080,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189797,
+      "num": 189797,
+      "word": "唐嫣单眼落泪破碎感",
+      "onboard_time": 1743049883,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 189018,
@@ -553,14 +593,6 @@
       "onboard_time": 1743046341,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186856,
-      "num": 186856,
-      "word": "杨紫国色芳华琼台玉露照进现实",
-      "onboard_time": 1743048982,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 185725,
@@ -593,6 +625,14 @@
       "onboard_time": 1743041300,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178491,
+      "num": 205267,
+      "word": "童瑶新剧没哭没闹没黑化",
+      "onboard_time": 1743050003,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 178084,
@@ -635,12 +675,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 165579,
-      "num": 165579,
-      "word": "王俊凯邪恶叮当猫",
-      "onboard_time": 1743049523,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 160013,
+      "num": 160013,
+      "word": "金莎孙丞潇吵架靠狗制止",
+      "onboard_time": 1743050183,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 159942,
@@ -771,6 +811,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 139246,
+      "num": 139246,
+      "word": "年薪百万副总裁伪造公章被立案",
+      "onboard_time": 1743050543,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137823,
       "num": 137823,
       "word": "美防长否认在有记者的群发作战计划",
@@ -811,6 +859,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129675,
+      "num": 253954,
+      "word": "赵雅芝72岁跑马拉松",
+      "onboard_time": 1743050363,
+      "rank": 19,
+      "category": "艺人,运动健身"
+    },
+    {
+      "raw_hot": 129620,
+      "num": 169938,
+      "word": "云来意味不明的演技让剧情扑朔迷离",
+      "onboard_time": 1743049163,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129533,
       "num": 129533,
       "word": "沙溢刚刚发文回应美黑",
@@ -819,7 +883,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127959,
+      "raw_hot": 128785,
       "num": 259329,
       "word": "宋茜听不懂中药梗",
       "onboard_time": 1743048382,
@@ -873,14 +937,6 @@
       "onboard_time": 1743038180,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120935,
-      "num": 169938,
-      "word": "云来意味不明的演技让剧情扑朔迷离",
-      "onboard_time": 1743049163,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 120621,
@@ -1107,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79218,
+      "num": 894859,
+      "word": "那些美到极致的中国锦绣",
+      "onboard_time": 1743045081,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77794,
       "num": 77794,
       "word": "专家称把钱给到位了自然有人消费",
@@ -1163,19 +1227,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69375,
-      "num": 894859,
-      "word": "那些美到极致的中国锦绣",
-      "onboard_time": 1743045081,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64294,
       "num": 64294,
       "word": "被碾压致死5岁女童家属出具谅解书",
       "onboard_time": 1742989281,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64178,
+      "num": 169809,
+      "word": "嚼口香糖会释放微塑料进入唾液",
+      "onboard_time": 1743048684,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1257,14 +1321,6 @@
       "onboard_time": 1743000743,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 53758,
-      "num": 169809,
-      "word": "嚼口香糖会释放微塑料进入唾液",
-      "onboard_time": 1743048684,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52268,
@@ -1520,6 +1576,14 @@
       "word": "微短剧用户规模达6.62亿人",
       "onboard_time": 1743023294,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2710,
+      "num": 1044827,
+      "word": "万千气象看江苏",
+      "onboard_time": 1742825783,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
