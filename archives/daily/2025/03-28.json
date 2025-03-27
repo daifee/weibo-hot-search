@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743097075775,
+  "endTime": 1743100378959,
   "band_list": [
     {
       "raw_hot": 1470934,
@@ -451,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31405,
+      "num": 31405,
+      "word": "赵露思被小孩问成静止帧了",
+      "onboard_time": 1743097695,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26234,
       "num": 38073,
       "word": "世界戏剧日",
@@ -491,18 +499,50 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 3748,
-      "num": 483601,
-      "word": "万千气象看江苏",
-      "onboard_time": 1742825783,
+      "raw_hot": 19429,
+      "num": 23024,
+      "word": "Switch虚拟游戏卡",
+      "onboard_time": 1743099016,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 19186,
+      "num": 21790,
+      "word": "PJSK",
+      "onboard_time": 1743099194,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 16532,
+      "num": 21781,
+      "word": "念无双 古早仙侠",
+      "onboard_time": 1743098955,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16071,
+      "num": 21776,
+      "word": "浪姐",
+      "onboard_time": 1743098174,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3949,
+      "num": 154748,
+      "word": "2024中国科学十大进展发布",
+      "onboard_time": 1743046221,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2746,
-      "num": 154748,
-      "word": "2024中国科学十大进展发布",
-      "onboard_time": 1743046221,
+      "raw_hot": 3748,
+      "num": 483601,
+      "word": "万千气象看江苏",
+      "onboard_time": 1742825783,
       "rank": 2,
       "category": "民生新闻"
     }
