@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743100378959,
+  "endTime": 1743101208293,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -16179,6 +16179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32403,
+      "num": 35512,
+      "word": "赵露思被小孩问成静止帧了",
+      "onboard_time": 1743097695,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32181,
       "num": 165011,
       "word": "星际宝贝确认引进",
@@ -16257,14 +16265,6 @@
       "onboard_time": 1742717179,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 31405,
-      "num": 31405,
-      "word": "赵露思被小孩问成静止帧了",
-      "onboard_time": 1743097695,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 31401,
@@ -17043,6 +17043,14 @@
       "category": "汽车,互联网"
     },
     {
+      "raw_hot": 18238,
+      "num": 21781,
+      "word": "念无双 古早仙侠",
+      "onboard_time": 1743098955,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18147,
       "num": 25399,
       "word": "张泽禹把鸽子叫好鸽们",
@@ -17145,14 +17153,6 @@
       "onboard_time": 1742769376,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16532,
-      "num": 21781,
-      "word": "念无双 古早仙侠",
-      "onboard_time": 1743098955,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 16499,
@@ -17440,6 +17440,14 @@
       "word": "抬头仰望的中华美学",
       "onboard_time": 1742674634,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10668,
+      "num": 23987,
+      "word": "小女孩一句不痛听得眼泪下来了",
+      "onboard_time": 1743101054,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

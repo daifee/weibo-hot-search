@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743100378959,
+  "endTime": 1743101208293,
   "band_list": [
     {
       "raw_hot": 1470934,
@@ -451,8 +451,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31405,
-      "num": 31405,
+      "raw_hot": 32403,
+      "num": 35512,
       "word": "赵露思被小孩问成静止帧了",
       "onboard_time": 1743097695,
       "rank": 23,
@@ -515,7 +515,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 16532,
+      "raw_hot": 18238,
       "num": 21781,
       "word": "念无双 古早仙侠",
       "onboard_time": 1743098955,
@@ -531,7 +531,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 3949,
+      "raw_hot": 10668,
+      "num": 23987,
+      "word": "小女孩一句不痛听得眼泪下来了",
+      "onboard_time": 1743101054,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4011,
       "num": 154748,
       "word": "2024中国科学十大进展发布",
       "onboard_time": 1743046221,
