@@ -1,0 +1,410 @@
+{
+  "runTime": 1743045152162,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2202243,
+        "num": 2202243,
+        "word": "被擦妆5次艺考生被中国传媒大学录取",
+        "onboard_time": 1743040400,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 884735,
+        "num": 884735,
+        "word": "今年5月只用上19天班",
+        "onboard_time": 1743040460,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6139,
+        "num": 574893,
+        "word": "那些美到极致的中国锦绣",
+        "onboard_time": 1743045081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1064848,
+        "num": 574085,
+        "word": "马拉松亲密事件拍摄者再发声",
+        "onboard_time": 1743038480,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565975,
+        "num": 565975,
+        "word": "印度遭奸杀女医生案内幕曝光",
+        "onboard_time": 1743002601,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 496852,
+        "num": 496852,
+        "word": "李佳航对李晟一见钟情",
+        "onboard_time": 1743043101,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41790,
+        "num": 480728,
+        "word": "一条视频打开春天里的中国",
+        "onboard_time": 1743044962,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466876,
+        "num": 466876,
+        "word": "詹姆斯绝杀",
+        "onboard_time": 1743041480,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465442,
+        "num": 465442,
+        "word": "沙溢发文回应美黑",
+        "onboard_time": 1743041240,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383483,
+        "num": 383483,
+        "word": "权志龙又染银发了",
+        "onboard_time": 1743041060,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 684101,
+        "num": 379756,
+        "word": "张一鸣655亿美元身家登顶中国首富",
+        "onboard_time": 1743042560,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 450812,
+        "num": 378023,
+        "word": "韩安冉妈妈回应女儿参加变形记",
+        "onboard_time": 1743039681,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38212,
+        "num": 376133,
+        "word": "教培机构宣称4999元论文无忧",
+        "onboard_time": 1743044781,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 375708,
+        "num": 375708,
+        "word": "不允许再使用零添加等用语",
+        "onboard_time": 1743040340,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394366,
+        "num": 356099,
+        "word": "张檬自曝孕35周臀位绕颈",
+        "onboard_time": 1743000382,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281246,
+        "num": 281246,
+        "word": "宋茜回应没喝中药",
+        "onboard_time": 1743042200,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275310,
+        "num": 275310,
+        "word": "金赛纶挚友曝金秀贤出轨",
+        "onboard_time": 1743032421,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21992,
+        "num": 275082,
+        "word": "网络视听成全网民的数字空气",
+        "onboard_time": 1742985381,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73444,
+        "num": 275006,
+        "word": "A股",
+        "onboard_time": 1743042741,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 272926,
+        "num": 274691,
+        "word": "孟美岐黄圣依跑马拉松",
+        "onboard_time": 1743044122,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311163,
+        "num": 274434,
+        "word": "王者荣耀",
+        "onboard_time": 1743043281,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274335,
+        "num": 274335,
+        "word": "美涉密群聊内容具体到战机起飞时间",
+        "onboard_time": 1743042861,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264618,
+        "num": 264618,
+        "word": "吃饭跑步和恋爱",
+        "onboard_time": 1743041721,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242739,
+        "num": 242739,
+        "word": "雷军回母校遭遇两级反转",
+        "onboard_time": 1743037641,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45698,
+        "num": 235841,
+        "word": "詹姆斯新节目火力全开",
+        "onboard_time": 1743044781,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235747,
+        "num": 235747,
+        "word": "复联5 万磁王",
+        "onboard_time": 1743044000,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223140,
+        "num": 223140,
+        "word": "于正狂赞赵晴绝世容颜",
+        "onboard_time": 1743032779,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208600,
+        "num": 208600,
+        "word": "见到这种草莓熊瓶子请立刻报警",
+        "onboard_time": 1743044241,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50814,
+        "num": 198033,
+        "word": "姚安娜王安宇华为阔折叠一用就爱",
+        "onboard_time": 1743043700,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197426,
+        "num": 197426,
+        "word": "陈都灵辛云来房车合体",
+        "onboard_time": 1743037161,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177744,
+        "num": 177744,
+        "word": "97年女生身高1.6米体重50斤",
+        "onboard_time": 1743044720,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177361,
+        "num": 177361,
+        "word": "预包装食品可自愿标示消费保存期",
+        "onboard_time": 1743039080,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176690,
+        "num": 176690,
+        "word": "画江湖之不良人",
+        "onboard_time": 1743035902,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 170875,
+        "num": 170875,
+        "word": "食品安全对零添加的要求更严格了",
+        "onboard_time": 1743042080,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163257,
+        "num": 163257,
+        "word": "小鹏方回应车屏幕夹断男童手指",
+        "onboard_time": 1743043220,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156895,
+        "num": 156895,
+        "word": "中央气象台5个预警齐发",
+        "onboard_time": 1743038000,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149010,
+        "num": 149010,
+        "word": "念无双今日开播",
+        "onboard_time": 1743044480,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137684,
+        "num": 137684,
+        "word": "猫猫撒娇摔错方向",
+        "onboard_time": 1743040581,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134651,
+        "num": 134651,
+        "word": "小米的mi倒过来就是仙桃的仙",
+        "onboard_time": 1743044840,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23105,
+        "num": 132613,
+        "word": "特朗普称泄密事件与防长无关",
+        "onboard_time": 1743045020,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131294,
+        "num": 131294,
+        "word": "陈冠希回应未来是否拍戏",
+        "onboard_time": 1743042261,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118725,
+        "num": 118725,
+        "word": "NBA",
+        "onboard_time": 1743044421,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118181,
+        "num": 118181,
+        "word": "刘学义念无双裸上身",
+        "onboard_time": 1743040880,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31226,
+        "num": 117458,
+        "word": "作业熔断后会不会陷入恶性循环",
+        "onboard_time": 1743045081,
+        "rank": 43,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 117382,
+        "num": 117382,
+        "word": "001号龙标给了河南台",
+        "onboard_time": 1743036201,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112624,
+        "num": 116177,
+        "word": "教育局回应小学校门口有学生搜身",
+        "onboard_time": 1743039800,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115937,
+        "num": 115937,
+        "word": "黑心食品厂用臭蛋做网红蛋糕",
+        "onboard_time": 1743044541,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 114649,
+        "num": 114649,
+        "word": "长沙多地发布雷雨大风蓝色预警",
+        "onboard_time": 1743041300,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111225,
+        "num": 111225,
+        "word": "陈都灵晒辛云来煮的米线",
+        "onboard_time": 1743003022,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108995,
+        "num": 108995,
+        "word": "店长回应早产儿蛋糕已下架销毁",
+        "onboard_time": 1743000323,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#八项规定深刻改变中国#"
+    }
+  }
+}
