@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743075399003,
+  "endTime": 1743079646347,
   "band_list": [
     {
       "raw_hot": 2838286,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1424382,
+      "num": 1424382,
+      "word": "金价",
+      "onboard_time": 1743076161,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1380902,
       "num": 1380902,
       "word": "于正 我从此不敢看观音",
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 965914,
+      "num": 965914,
+      "word": "唐嫣 你的兵来了",
+      "onboard_time": 1743076823,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 896762,
       "num": 1143481,
       "word": "今年5月只用上19天班",
@@ -209,6 +225,14 @@
       "onboard_time": 1743051502,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 771356,
+      "num": 243629,
+      "word": "大鹅多处被烤熟仍不离开被烧死同伴",
+      "onboard_time": 1743077242,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 769295,
@@ -273,6 +297,14 @@
       "onboard_time": 1743000382,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 649834,
+      "num": 245119,
+      "word": "唐嫣台词",
+      "onboard_time": 1743077182,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 649743,
@@ -361,6 +393,14 @@
       "onboard_time": 1743037641,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 532028,
+      "num": 532028,
+      "word": "国防部提醒日本",
+      "onboard_time": 1743076402,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 523986,
@@ -603,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 377003,
+      "num": 244621,
+      "word": "念无双",
+      "onboard_time": 1743041420,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375222,
       "num": 375222,
       "word": "孟子义李昀锐跑男路透",
@@ -675,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331970,
+      "num": 242811,
+      "word": "周如音黑化",
+      "onboard_time": 1743077901,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318043,
       "num": 318043,
       "word": "陈都灵辛云来房车合体",
@@ -700,7 +756,7 @@
     },
     {
       "raw_hot": 306876,
-      "num": 208397,
+      "num": 242244,
       "word": "嫁反派",
       "onboard_time": 1743073642,
       "rank": 24,
@@ -721,14 +777,6 @@
       "onboard_time": 1743045138,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 292355,
-      "num": 173235,
-      "word": "念无双",
-      "onboard_time": 1743041420,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 292156,
@@ -795,6 +843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 272759,
+      "num": 242724,
+      "word": "IU权志龙再唱Palette",
+      "onboard_time": 1743073761,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 264618,
       "num": 278730,
       "word": "吃饭跑步和恋爱",
@@ -835,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245243,
+      "num": 245243,
+      "word": "羽衣甘蓝奶茶或热量超标",
+      "onboard_time": 1743070101,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 244079,
       "num": 240901,
       "word": "张佳宁脸肿成了蜜蜂小狗",
@@ -860,7 +924,7 @@
     },
     {
       "raw_hot": 239951,
-      "num": 239951,
+      "num": 244216,
       "word": "李嘉诚要卖43个港口给美国企业",
       "onboard_time": 1743066982,
       "rank": 35,
@@ -907,14 +971,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 233328,
-      "num": 197607,
-      "word": "IU权志龙再唱Palette",
-      "onboard_time": 1743073761,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 231430,
       "num": 231430,
       "word": "刘晓庆回应演短剧遭朋友质疑丢人",
@@ -937,6 +993,14 @@
       "onboard_time": 1743049523,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217720,
+      "num": 217720,
+      "word": "赵露思生病前和家人几乎不联系",
+      "onboard_time": 1743078741,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 215815,
@@ -1083,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200483,
+      "num": 200483,
+      "word": "张元英宝格丽新闻图",
+      "onboard_time": 1743079283,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 200009,
       "num": 159140,
       "word": "李晟为什么爆火出圈",
@@ -1115,14 +1187,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 196590,
-      "num": 209633,
-      "word": "羽衣甘蓝奶茶或热量超标",
-      "onboard_time": 1743070101,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 196436,
       "num": 196436,
       "word": "肖战胶片唱针",
@@ -1145,6 +1209,14 @@
       "onboard_time": 1743049883,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189657,
+      "num": 189657,
+      "word": "小婉管乐连睡觉都分不开",
+      "onboard_time": 1743076281,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 189018,
@@ -1227,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180365,
+      "num": 180365,
+      "word": "念无双热度",
+      "onboard_time": 1743078502,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179097,
       "num": 179097,
       "word": "千禾回应不允许再使用零添加",
@@ -1265,6 +1345,14 @@
       "onboard_time": 1743062482,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 175216,
+      "num": 104691,
+      "word": "念无双 老年宣发",
+      "onboard_time": 1743079403,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 174914,
@@ -1555,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142904,
+      "num": 142904,
+      "word": "女孩遭强奸案民警被控渎职不予立案",
+      "onboard_time": 1743076521,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142673,
       "num": 118536,
       "word": "小伙靠书法帮父母清债2000万",
@@ -1569,6 +1665,14 @@
       "onboard_time": 1743058763,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141996,
+      "num": 141996,
+      "word": "山西午睡文化",
+      "onboard_time": 1743075021,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 140347,
@@ -1795,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126910,
+      "num": 144892,
+      "word": "国防部称日方最没有资格拿台湾说事",
+      "onboard_time": 1743077542,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 126792,
       "num": 126792,
       "word": "电影大风杀定档",
@@ -1827,12 +1939,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124898,
+      "num": 124898,
+      "word": "王楚钦拍公式照",
+      "onboard_time": 1743078741,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124811,
       "num": 124811,
       "word": "NBA",
       "onboard_time": 1743044421,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124774,
+      "num": 124774,
+      "word": "下岗女工干快递15年领数千退休金",
+      "onboard_time": 1743075741,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124369,
@@ -2043,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110518,
+      "num": 110518,
+      "word": "于正谈爆剧又爆人",
+      "onboard_time": 1743075261,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110502,
       "num": 110502,
       "word": "刘宇宁王子文新剧过审下证",
@@ -2187,12 +2323,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 105087,
+      "num": 105087,
+      "word": "iG全神班五连胜",
+      "onboard_time": 1743076341,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103807,
       "num": 103807,
       "word": "快乐的大人2定档",
       "onboard_time": 1743062662,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103485,
+      "num": 103485,
+      "word": "赵子豪说澳门见",
+      "onboard_time": 1743078381,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 103273,
@@ -2235,19 +2387,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98731,
-      "num": 98731,
-      "word": "山西午睡文化",
-      "onboard_time": 1743075021,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 98397,
       "num": 252601,
       "word": "戍边民警对女儿说伤疤是爸爸的勋章",
       "onboard_time": 1743057260,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97915,
+      "num": 97915,
+      "word": "沧州2.8级地震",
+      "onboard_time": 1743078741,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 97237,
+      "num": 142968,
+      "word": "冰箱贴是年轻人的到此一游",
+      "onboard_time": 1743078622,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -2291,19 +2451,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95390,
+      "num": 95390,
+      "word": "无锡马拉松",
+      "onboard_time": 1743075982,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95383,
       "num": 121611,
       "word": "杨超越马里奥造型",
       "onboard_time": 1743037221,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 94846,
-      "num": 94846,
-      "word": "于正谈爆剧又爆人",
-      "onboard_time": 1743075261,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -2313,6 +2473,14 @@
       "onboard_time": 1742961921,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93743,
+      "num": 93743,
+      "word": "陈哲远好真诚的一款财神爷",
+      "onboard_time": 1743079462,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 92874,
@@ -2339,12 +2507,28 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 91303,
+      "num": 91303,
+      "word": "脾胃不好的8个典型症状",
+      "onboard_time": 1743079103,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 88527,
       "num": 217832,
       "word": "今屿痞帅全开",
       "onboard_time": 1743063083,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87148,
+      "num": 87148,
+      "word": "周杰伦昆凌穿情侣装看展",
+      "onboard_time": 1743079162,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 87022,
@@ -2361,6 +2545,14 @@
       "onboard_time": 1743061941,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86096,
+      "num": 86096,
+      "word": "舒淇皮衣配长裙也好美",
+      "onboard_time": 1743078142,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 86021,
@@ -2401,6 +2593,14 @@
       "onboard_time": 1742994442,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79583,
+      "num": 79583,
+      "word": "医生连续六年下班卖小吃月入近2万",
+      "onboard_time": 1743079283,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79218,
@@ -2595,6 +2795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55274,
+      "num": 182902,
+      "word": "消防员演示风筝线杀伤力",
+      "onboard_time": 1743078741,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54289,
       "num": 210900,
       "word": "赚70万司机建议遇中年危机咬牙坚持",
@@ -2652,7 +2860,7 @@
     },
     {
       "raw_hot": 50063,
-      "num": 501676,
+      "num": 611689,
       "word": "一组数据看美丽中国颜值有多高",
       "onboard_time": 1743064342,
       "rank": 2,
