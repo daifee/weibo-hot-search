@@ -1,0 +1,410 @@
+{
+  "runTime": 1743067604824,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 649294,
+        "num": 1103887,
+        "word": "黄圣依回应和张凌赫共用一张脸",
+        "onboard_time": 1743056180,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453647,
+        "num": 453647,
+        "word": "外交部回应长江和记集团出售海外港口",
+        "onboard_time": 1743065481,
+        "rank": 1,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 50063,
+        "num": 363693,
+        "word": "一组数据看美丽中国颜值有多高",
+        "onboard_time": 1743064342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1921970,
+        "num": 362407,
+        "word": "赵露思承认对生命没有敬畏",
+        "onboard_time": 1743064641,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 731197,
+        "num": 361598,
+        "word": "3年赚70万司机从晚6干到早6",
+        "onboard_time": 1743065061,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354551,
+        "num": 354551,
+        "word": "四川乐山966万大奖得主踩点领奖",
+        "onboard_time": 1743061822,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425638,
+        "num": 344326,
+        "word": "泰媒报道迪丽热巴中国娱乐圈女王",
+        "onboard_time": 1743066321,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393749,
+        "num": 326980,
+        "word": "短剧阵容这么顶了吗",
+        "onboard_time": 1743060500,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301946,
+        "num": 301946,
+        "word": "你以为的毒贩vs你不知道的伪装",
+        "onboard_time": 1743059842,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233532,
+        "num": 233532,
+        "word": "小钺钺被捅伤案件伤人者被判6年",
+        "onboard_time": 1743065662,
+        "rank": 9,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 896178,
+        "num": 233313,
+        "word": "男子在工地宿舍睡觉被工友捅刺身亡",
+        "onboard_time": 1743063321,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 845300,
+        "num": 232398,
+        "word": "爸爸去世女儿被判和4个姑姑平分遗产",
+        "onboard_time": 1743056242,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543252,
+        "num": 232217,
+        "word": "儿子给腰突父亲买40小时硬座票",
+        "onboard_time": 1743049462,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393469,
+        "num": 231389,
+        "word": "胡静卖老公跑车三个男人心碎了",
+        "onboard_time": 1743066682,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353874,
+        "num": 230754,
+        "word": "酒店前台违规办房卡致女子被侵犯",
+        "onboard_time": 1743061762,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338086,
+        "num": 230030,
+        "word": "祝绪丹被所有姐姐现场吃瓜",
+        "onboard_time": 1743059481,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79734,
+        "num": 229661,
+        "word": "张馨予发体重记录",
+        "onboard_time": 1743066682,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186102,
+        "num": 228806,
+        "word": "00后靠国补狂省两个月生活费",
+        "onboard_time": 1743064581,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151406,
+        "num": 228053,
+        "word": "马丽监制首作好好的入围北影节",
+        "onboard_time": 1743066082,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13967,
+        "num": 227652,
+        "word": "那些社交互动困难的特殊儿童",
+        "onboard_time": 1743066442,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333722,
+        "num": 227043,
+        "word": "小红书AI 贴吧男",
+        "onboard_time": 1743064700,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298883,
+        "num": 226358,
+        "word": "周四是工作效率最低的一天",
+        "onboard_time": 1743057501,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294070,
+        "num": 225654,
+        "word": "金赛纶问金秀贤我这么让你讨厌吗",
+        "onboard_time": 1743063981,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244079,
+        "num": 225221,
+        "word": "张佳宁脸肿成了蜜蜂小狗",
+        "onboard_time": 1743065481,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235745,
+        "num": 224563,
+        "word": "97年女生身高1.6米体重50斤",
+        "onboard_time": 1743044720,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224084,
+        "num": 224084,
+        "word": "香飘飘奶茶涨价至16元一杯",
+        "onboard_time": 1743047722,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209026,
+        "num": 209026,
+        "word": "于正曝男演员删女主戏份",
+        "onboard_time": 1743066261,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166384,
+        "num": 208385,
+        "word": "朝鲜公布新型无人机画面",
+        "onboard_time": 1743064823,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71841,
+        "num": 205496,
+        "word": "14岁男孩为躲狗追被卷车底致截肢",
+        "onboard_time": 1743066682,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7423,
+        "num": 205168,
+        "word": "小齐机器人是来加入这个家的",
+        "onboard_time": 1743066741,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 261570,
+        "num": 203056,
+        "word": "赵雅芝回应儿子是男版的自己",
+        "onboard_time": 1743066621,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69926,
+        "num": 201573,
+        "word": "丹宁高速水阳段桥梁垮塌灾害调查评估报告",
+        "onboard_time": 1743067462,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151733,
+        "num": 198783,
+        "word": "孙颖莎解锁拍照新动作",
+        "onboard_time": 1743066201,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214473,
+        "num": 196488,
+        "word": "Ning回应乐言",
+        "onboard_time": 1743066982,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196436,
+        "num": 196436,
+        "word": "肖战胶片唱针",
+        "onboard_time": 1743066982,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172444,
+        "num": 172444,
+        "word": "李嘉诚要卖43个港口给美国企业",
+        "onboard_time": 1743066982,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168095,
+        "num": 168095,
+        "word": "雁回时",
+        "onboard_time": 1743067521,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166261,
+        "num": 166261,
+        "word": "女子晒洁癖公公全副武装探望婆婆",
+        "onboard_time": 1743062541,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158395,
+        "num": 158395,
+        "word": "于正 我从此不敢看观音",
+        "onboard_time": 1743051143,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173999,
+        "num": 157576,
+        "word": "肖战满头小夹子",
+        "onboard_time": 1743067462,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155855,
+        "num": 155855,
+        "word": "小S把粉丝送的礼物珍藏十年",
+        "onboard_time": 1743056480,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155765,
+        "num": 155765,
+        "word": "雁回时 烧脑",
+        "onboard_time": 1743066142,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154668,
+        "num": 154668,
+        "word": "赵露思形容焦虑症的惊恐和高反一样",
+        "onboard_time": 1743061581,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153426,
+        "num": 153426,
+        "word": "金晨官宣北影节评委",
+        "onboard_time": 1743064942,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148415,
+        "num": 148415,
+        "word": "头一次见这么有活人感的舞蹈",
+        "onboard_time": 1743066502,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143634,
+        "num": 148135,
+        "word": "3年赚70万网约司机春节没休息过",
+        "onboard_time": 1743067341,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148059,
+        "num": 148059,
+        "word": "张馨予的瘦身思路",
+        "onboard_time": 1743062782,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145553,
+        "num": 145553,
+        "word": "陈都灵 凤凰哀鸣",
+        "onboard_time": 1743067581,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139740,
+        "num": 139740,
+        "word": "IG战胜LGD",
+        "onboard_time": 1743067224,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131857,
+        "num": 131857,
+        "word": "焦虑症年轻化",
+        "onboard_time": 1743063861,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#这一新时代的徙木立信之举改变中国#"
+    }
+  }
+}
