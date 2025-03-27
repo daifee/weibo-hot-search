@@ -1,0 +1,410 @@
+{
+  "runTime": 1743107968696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 63196,
+        "num": 63196,
+        "word": "上海对边走边抽烟的游烟族出手了",
+        "onboard_time": 1743089781,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58909,
+        "num": 58909,
+        "word": "生双胞胎17岁代孕女孩已嫁人",
+        "onboard_time": 1743089002,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2607,
+        "num": 48910,
+        "word": "2024中国科学十大进展发布",
+        "onboard_time": 1743046221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42601,
+        "num": 42601,
+        "word": "赵露思被小孩问成静止帧了",
+        "onboard_time": 1743097695,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42162,
+        "num": 42162,
+        "word": "你被二手烟困扰过吗",
+        "onboard_time": 1743093079,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36593,
+        "num": 36593,
+        "word": "舒马赫近乎植物人",
+        "onboard_time": 1743081261,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30216,
+        "num": 30216,
+        "word": "国防部提醒日本",
+        "onboard_time": 1743076402,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26440,
+        "num": 26440,
+        "word": "公司回应加班10晚可帮缴社保个人部分",
+        "onboard_time": 1743090681,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26417,
+        "num": 26417,
+        "word": "人民网评古偶失灵",
+        "onboard_time": 1743084383,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25768,
+        "num": 25768,
+        "word": "女人40岁才是人生的开始",
+        "onboard_time": 1743093617,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48186,
+        "num": 25742,
+        "word": "宋雨琦 受伤",
+        "onboard_time": 1743089061,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35297,
+        "num": 25689,
+        "word": "金赛纶写给文彬的信",
+        "onboard_time": 1743084742,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30228,
+        "num": 25621,
+        "word": "爸爸去世女儿被判和4个姑姑平分遗产",
+        "onboard_time": 1743056242,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26712,
+        "num": 25571,
+        "word": "大鹅多处被烤熟仍不离开被烧死同伴",
+        "onboard_time": 1743077242,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25566,
+        "num": 25566,
+        "word": "冰箱贴是年轻人的到此一游",
+        "onboard_time": 1743078622,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24698,
+        "num": 24698,
+        "word": "张馨予说管不住嘴就看钟楚曦",
+        "onboard_time": 1743080241,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24030,
+        "num": 24030,
+        "word": "念无双",
+        "onboard_time": 1743074421,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20761,
+        "num": 20761,
+        "word": "李现加入公园打鸟大爷队伍",
+        "onboard_time": 1743093079,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20311,
+        "num": 20311,
+        "word": "把蔡文静的伤痕看成了吻痕",
+        "onboard_time": 1743090922,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20199,
+        "num": 20199,
+        "word": "赵露思生病前和家人几乎不联系",
+        "onboard_time": 1743078741,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22239,
+        "num": 20000,
+        "word": "明天是全红婵18岁生日",
+        "onboard_time": 1743094098,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20970,
+        "num": 19744,
+        "word": "泪点低其实是大脑太发达",
+        "onboard_time": 1743090141,
+        "rank": 21,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 20718,
+        "num": 19172,
+        "word": "唐嫣 你的兵来了",
+        "onboard_time": 1743076823,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11575,
+        "num": 18906,
+        "word": "男子倒地抽搐一对护士夫妻出手了",
+        "onboard_time": 1743104654,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 18795,
+        "num": 18795,
+        "word": "马拉松",
+        "onboard_time": 1743084563,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 18651,
+        "num": 18651,
+        "word": "雁回时",
+        "onboard_time": 1743067521,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16882,
+        "num": 16882,
+        "word": "王宝强新剧78秒8个假动作",
+        "onboard_time": 1743082822,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16175,
+        "num": 16175,
+        "word": "女孩遭强奸案民警被控渎职不予立案",
+        "onboard_time": 1743076521,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15666,
+        "num": 15666,
+        "word": "抢凤冠冰箱贴的队排到了国博大门外",
+        "onboard_time": 1743080482,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15422,
+        "num": 15422,
+        "word": "金价",
+        "onboard_time": 1743076161,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15008,
+        "num": 15008,
+        "word": "金赛纶和朋友的聊天记录公开",
+        "onboard_time": 1743086062,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14842,
+        "num": 14842,
+        "word": "小婉管乐连睡觉都分不开",
+        "onboard_time": 1743076281,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13928,
+        "num": 14840,
+        "word": "怪盗基德好伟大的脸",
+        "onboard_time": 1743084383,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 13686,
+        "num": 14839,
+        "word": "儿子给腰突父亲买40小时硬座票",
+        "onboard_time": 1743049462,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13609,
+        "num": 14838,
+        "word": "小女孩一句不痛听得眼泪下来了",
+        "onboard_time": 1743101054,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13435,
+        "num": 14836,
+        "word": "棋士 黑色幽默",
+        "onboard_time": 1743085942,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13347,
+        "num": 14835,
+        "word": "秦岭这次没能挡住沙尘",
+        "onboard_time": 1743082581,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13249,
+        "num": 14833,
+        "word": "王嘉尔直播庆生party",
+        "onboard_time": 1743093678,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12964,
+        "num": 14829,
+        "word": "焦虑型依恋人格",
+        "onboard_time": 1743092478,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12956,
+        "num": 14827,
+        "word": "值得爱",
+        "onboard_time": 1743096855,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12938,
+        "num": 14826,
+        "word": "胡静发文致谢所有人",
+        "onboard_time": 1743106214,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12746,
+        "num": 14825,
+        "word": "李晟为什么爆火出圈",
+        "onboard_time": 1743071480,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12723,
+        "num": 14822,
+        "word": "4岁双胞胎捐髓救妈妈",
+        "onboard_time": 1743087922,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12529,
+        "num": 14820,
+        "word": "这是中国同世界的交往之道",
+        "onboard_time": 1743104114,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12306,
+        "num": 14820,
+        "word": "念无双 老年宣发",
+        "onboard_time": 1743079403,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12286,
+        "num": 14818,
+        "word": "PCL2025",
+        "onboard_time": 1743097276,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11633,
+        "num": 14815,
+        "word": "留得清气满乾坤",
+        "onboard_time": 1743104773,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11907,
+        "num": 14812,
+        "word": "喻恩泰演技",
+        "onboard_time": 1743084262,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11828,
+        "num": 14811,
+        "word": "团伙炮制在配料盒中小便视频后续",
+        "onboard_time": 1743103455,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11446,
+        "num": 14809,
+        "word": "大风裹沙尘一路南下到成都",
+        "onboard_time": 1743102254,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是中国同世界的交往之道#"
+    }
+  }
+}

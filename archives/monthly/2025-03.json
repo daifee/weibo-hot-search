@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743107171380,
+  "endTime": 1743107968696,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -88051,6 +88051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 12938,
+      "num": 14826,
+      "word": "胡静发文致谢所有人",
+      "onboard_time": 1743106214,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 12936,
       "num": 22391,
       "word": "让法治含金量转化为群众获得感",
@@ -88113,14 +88121,6 @@
       "onboard_time": 1742890643,
       "rank": 29,
       "category": "民生新闻,旅游"
-    },
-    {
-      "raw_hot": 12736,
-      "num": 13889,
-      "word": "胡静发文致谢所有人",
-      "onboard_time": 1743106214,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 12717,
@@ -88193,6 +88193,14 @@
       "onboard_time": 1741764863,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 12529,
+      "num": 16690,
+      "word": "这是中国同世界的交往之道",
+      "onboard_time": 1743104114,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12519,
@@ -88315,16 +88323,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12169,
-      "num": 16690,
-      "word": "这是中国同世界的交往之道",
-      "onboard_time": 1743104114,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 12142,
-      "num": 13887,
+      "num": 18906,
       "word": "男子倒地抽搐一对护士夫妻出手了",
       "onboard_time": 1743104654,
       "rank": 45,

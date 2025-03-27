@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743107171380,
+  "endTime": 1743107968696,
   "band_list": [
     {
       "raw_hot": 1470934,
@@ -547,12 +547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12736,
-      "num": 13889,
+      "raw_hot": 12938,
+      "num": 14826,
       "word": "胡静发文致谢所有人",
       "onboard_time": 1743106214,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12529,
+      "num": 16690,
+      "word": "这是中国同世界的交往之道",
+      "onboard_time": 1743104114,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12494,
@@ -563,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12286,
+      "num": 14818,
+      "word": "PCL2025",
+      "onboard_time": 1743097276,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 12235,
       "num": 16019,
       "word": "留得清气满乾坤",
@@ -571,28 +587,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12169,
-      "num": 16690,
-      "word": "这是中国同世界的交往之道",
-      "onboard_time": 1743104114,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 12142,
-      "num": 13887,
+      "num": 18906,
       "word": "男子倒地抽搐一对护士夫妻出手了",
       "onboard_time": 1743104654,
       "rank": 45,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 11880,
-      "num": 13883,
-      "word": "PCL2025",
-      "onboard_time": 1743097276,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 4011,
