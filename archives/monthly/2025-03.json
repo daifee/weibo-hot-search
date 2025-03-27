@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743096114355,
+  "endTime": 1743097075775,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -57955,6 +57955,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 124947,
+      "num": 154155,
+      "word": "你被二手烟困扰过吗",
+      "onboard_time": 1743093079,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124924,
       "num": 179547,
       "word": "假顺风车为何人人喊打",
@@ -60604,7 +60612,7 @@
     },
     {
       "raw_hot": 118236,
-      "num": 153877,
+      "num": 154748,
       "word": "2024中国科学十大进展发布",
       "onboard_time": 1743046221,
       "rank": 45,
@@ -60985,14 +60993,6 @@
       "onboard_time": 1742454023,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116802,
-      "num": 154155,
-      "word": "你被二手烟困扰过吗",
-      "onboard_time": 1743093079,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116784,
@@ -75499,6 +75499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60475,
+      "num": 51953,
+      "word": "明天是全红婵18岁生日",
+      "onboard_time": 1743094098,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60426,
       "num": 193050,
       "word": "美国政府资金或将耗尽",
@@ -78809,14 +78817,6 @@
       "onboard_time": 1741756043,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 45635,
-      "num": 47014,
-      "word": "明天是全红婵18岁生日",
-      "onboard_time": 1743094098,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 45626,
@@ -84307,6 +84307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26234,
+      "num": 38073,
+      "word": "世界戏剧日",
+      "onboard_time": 1743096736,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26225,
       "num": 216626,
       "word": "建议推进职业教育招生即招工",
@@ -84361,6 +84369,14 @@
       "onboard_time": 1742958080,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 26093,
+      "num": 38063,
+      "word": "值得爱",
+      "onboard_time": 1743096855,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 26085,
@@ -85073,6 +85089,14 @@
       "onboard_time": 1741938023,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 23748,
+      "num": 38044,
+      "word": "辛云来说外界的评价我都接受",
+      "onboard_time": 1743097037,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 23694,
