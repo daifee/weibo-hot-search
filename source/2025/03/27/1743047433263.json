@@ -1,0 +1,410 @@
+{
+  "runTime": 1743047433263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 896762,
+        "num": 1143481,
+        "word": "今年5月只用上19天班",
+        "onboard_time": 1743040460,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 717658,
+        "num": 717658,
+        "word": "孟美岐黄圣依跑马拉松",
+        "onboard_time": 1743044122,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62423,
+        "num": 683914,
+        "word": "那些美到极致的中国锦绣",
+        "onboard_time": 1743045081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682593,
+        "num": 682593,
+        "word": "李佳航对李晟一见钟情",
+        "onboard_time": 1743043101,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483676,
+        "num": 483676,
+        "word": "见到这种草莓熊瓶子请立刻报警",
+        "onboard_time": 1743044241,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2080234,
+        "num": 481997,
+        "word": "被擦妆5次艺考生被中国传媒大学录取",
+        "onboard_time": 1743040400,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409404,
+        "num": 409404,
+        "word": "詹姆斯绝杀",
+        "onboard_time": 1743041480,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359561,
+        "num": 359561,
+        "word": "沙溢发文回应美黑",
+        "onboard_time": 1743041240,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329156,
+        "num": 329156,
+        "word": "不允许再使用零添加等用语",
+        "onboard_time": 1743040340,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302623,
+        "num": 302623,
+        "word": "权志龙又染银发了",
+        "onboard_time": 1743041060,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1236096,
+        "num": 301009,
+        "word": "97年女生身高1.6米体重50斤",
+        "onboard_time": 1743044720,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373144,
+        "num": 299630,
+        "word": "李宏毅在机场遭粉丝围堵大喊走开",
+        "onboard_time": 1743046462,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371395,
+        "num": 295419,
+        "word": "张檬自曝孕35周臀位绕颈",
+        "onboard_time": 1743000382,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361485,
+        "num": 292711,
+        "word": "韩安冉妈妈回应女儿参加变形记",
+        "onboard_time": 1743039681,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292467,
+        "num": 292467,
+        "word": "原神",
+        "onboard_time": 1743045138,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277452,
+        "num": 277452,
+        "word": "宋茜回应没喝中药",
+        "onboard_time": 1743042200,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260830,
+        "num": 260830,
+        "word": "小米的mi倒过来就是仙桃的仙",
+        "onboard_time": 1743044840,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250296,
+        "num": 250296,
+        "word": "金赛纶挚友曝金秀贤出轨",
+        "onboard_time": 1743032421,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249418,
+        "num": 249418,
+        "word": "黑心食品厂用臭蛋做网红蛋糕",
+        "onboard_time": 1743044541,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 233819,
+        "num": 233819,
+        "word": "金莎追星赵雅芝成功",
+        "onboard_time": 1743045920,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237536,
+        "num": 233793,
+        "word": "孟子义李昀锐跑男路透",
+        "onboard_time": 1743046040,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189018,
+        "num": 220695,
+        "word": "八项规定是共产党人应做到的基本要求",
+        "onboard_time": 1743046941,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208825,
+        "num": 208825,
+        "word": "复联5 万磁王",
+        "onboard_time": 1743044000,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207741,
+        "num": 207741,
+        "word": "孙颖莎与队友合照好开心",
+        "onboard_time": 1743046522,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158219,
+        "num": 197103,
+        "word": "樊振东棚拍花絮",
+        "onboard_time": 1743045380,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187486,
+        "num": 187486,
+        "word": "7旬阿姨被叛逆儿子改造成时尚博主",
+        "onboard_time": 1743046341,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109390,
+        "num": 184832,
+        "word": "飞鹤奶粉补贴惊到宝宝了",
+        "onboard_time": 1743046462,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18041,
+        "num": 182778,
+        "word": "姚安娜王安宇华为阔折叠一用就爱",
+        "onboard_time": 1743043700,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122251,
+        "num": 177812,
+        "word": "中央气象台5个预警齐发",
+        "onboard_time": 1743038000,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45445,
+        "num": 170535,
+        "word": "不良人 不要刀雪儿",
+        "onboard_time": 1743046762,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 169599,
+        "num": 169599,
+        "word": "于正狂赞赵晴绝世容颜",
+        "onboard_time": 1743032779,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168901,
+        "num": 168901,
+        "word": "明日方舟",
+        "onboard_time": 1743046101,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167923,
+        "num": 167923,
+        "word": "王者荣耀",
+        "onboard_time": 1743043281,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158350,
+        "num": 158350,
+        "word": "雷军回母校遭遇两级反转",
+        "onboard_time": 1743037641,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155892,
+        "num": 155892,
+        "word": "陈都灵辛云来房车合体",
+        "onboard_time": 1743037161,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155879,
+        "num": 155879,
+        "word": "洛克王国世界",
+        "onboard_time": 1743045981,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155442,
+        "num": 155442,
+        "word": "鸣潮",
+        "onboard_time": 1743046822,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151729,
+        "num": 151729,
+        "word": "预包装食品可自愿标示消费保存期",
+        "onboard_time": 1743039080,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151517,
+        "num": 151517,
+        "word": "画江湖之不良人",
+        "onboard_time": 1743035902,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 148838,
+        "num": 148838,
+        "word": "吃饭跑步和恋爱",
+        "onboard_time": 1743041721,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138224,
+        "num": 138224,
+        "word": "食品安全对零添加的要求更严格了",
+        "onboard_time": 1743042080,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134605,
+        "num": 134605,
+        "word": "晋江小说疑似抄袭明日方舟",
+        "onboard_time": 1743046462,
+        "rank": 41,
+        "category": "游戏,读书作家"
+      },
+      {
+        "raw_hot": 129272,
+        "num": 129272,
+        "word": "4名美军士兵在立陶宛失踪",
+        "onboard_time": 1743047122,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126792,
+        "num": 126792,
+        "word": "电影大风杀定档",
+        "onboard_time": 1743045859,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119439,
+        "num": 119439,
+        "word": "美涉密群聊内容具体到战机起飞时间",
+        "onboard_time": 1743042861,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118236,
+        "num": 118236,
+        "word": "2024中国科学十大进展发布",
+        "onboard_time": 1743046221,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114570,
+        "num": 114570,
+        "word": "作业熔断后会不会陷入恶性循环",
+        "onboard_time": 1743045081,
+        "rank": 46,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 113969,
+        "num": 113969,
+        "word": "这8类致敏物质必须强制提示",
+        "onboard_time": 1743045200,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110502,
+        "num": 110502,
+        "word": "刘宇宁王子文新剧过审下证",
+        "onboard_time": 1743047301,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106874,
+        "num": 106874,
+        "word": "陈飞宇问4月哪天有空",
+        "onboard_time": 1743047001,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#八项规定深刻改变中国#"
+    }
+  }
+}
