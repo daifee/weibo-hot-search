@@ -1,0 +1,410 @@
+{
+  "runTime": 1743064260591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 825028,
+        "num": 1132004,
+        "word": "黄圣依回应和张凌赫共用一张脸",
+        "onboard_time": 1743056180,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522687,
+        "num": 522687,
+        "word": "四川乐山966万大奖得主踩点领奖",
+        "onboard_time": 1743061822,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9437,
+        "num": 466763,
+        "word": "万千气象看江苏",
+        "onboard_time": 1742825783,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463770,
+        "num": 463770,
+        "word": "你以为的毒贩vs你不知道的伪装",
+        "onboard_time": 1743059842,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373094,
+        "num": 373094,
+        "word": "香飘飘奶茶涨价至16元一杯",
+        "onboard_time": 1743047722,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1946937,
+        "num": 349447,
+        "word": "赵露思因为躯体化记不住台词",
+        "onboard_time": 1743058940,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587354,
+        "num": 326558,
+        "word": "祝绪丹被所有姐姐现场吃瓜",
+        "onboard_time": 1743059481,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576758,
+        "num": 317224,
+        "word": "短剧阵容这么顶了吗",
+        "onboard_time": 1743060500,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295451,
+        "num": 295451,
+        "word": "男子在工地宿舍睡觉被工友捅刺身亡",
+        "onboard_time": 1743063321,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236710,
+        "num": 236710,
+        "word": "2人身绑28只活体龟入境",
+        "onboard_time": 1743055641,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1112586,
+        "num": 236084,
+        "word": "爸爸去世女儿被判和4个姑姑平分遗产",
+        "onboard_time": 1743056242,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642128,
+        "num": 235118,
+        "word": "儿子给腰突父亲买40小时硬座票",
+        "onboard_time": 1743049462,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368924,
+        "num": 233911,
+        "word": "酒店前台违规办房卡致女子被侵犯",
+        "onboard_time": 1743061762,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45618,
+        "num": 232657,
+        "word": "为何父母的缺点又出现在了我身上",
+        "onboard_time": 1743062842,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175438,
+        "num": 231058,
+        "word": "淘宝率先打击AI假图",
+        "onboard_time": 1743062482,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 355847,
+        "num": 230614,
+        "word": "赵露思形容焦虑症的惊恐和高反一样",
+        "onboard_time": 1743061581,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281722,
+        "num": 228931,
+        "word": "97年女生身高1.6米体重50斤",
+        "onboard_time": 1743044720,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69780,
+        "num": 227394,
+        "word": "曝光千奇百怪的走私方式",
+        "onboard_time": 1743057861,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161027,
+        "num": 226612,
+        "word": "张子枫北影节创投评委",
+        "onboard_time": 1743063621,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263790,
+        "num": 225805,
+        "word": "北京国际电影节",
+        "onboard_time": 1743063321,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 374968,
+        "num": 224556,
+        "word": "周四是工作效率最低的一天",
+        "onboard_time": 1743057501,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223867,
+        "num": 223867,
+        "word": "女子晒洁癖公公全副武装探望婆婆",
+        "onboard_time": 1743062541,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221385,
+        "num": 221385,
+        "word": "于正 我从此不敢看观音",
+        "onboard_time": 1743051143,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218701,
+        "num": 218701,
+        "word": "被擦妆5次艺考生被中国传媒大学录取",
+        "onboard_time": 1743040400,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88527,
+        "num": 217832,
+        "word": "今屿痞帅全开",
+        "onboard_time": 1743063083,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217397,
+        "num": 217397,
+        "word": "奔跑吧全员黄鹤楼开跑",
+        "onboard_time": 1743058521,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21291,
+        "num": 209515,
+        "word": "法国向乌克兰追加20亿欧元军援",
+        "onboard_time": 1743063981,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54118,
+        "num": 208122,
+        "word": "男子给情人转账50万妻子起诉要回",
+        "onboard_time": 1743062842,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28293,
+        "num": 207498,
+        "word": "为啥过敏后会觉得那么痒",
+        "onboard_time": 1743063981,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207485,
+        "num": 207485,
+        "word": "小S把粉丝送的礼物珍藏十年",
+        "onboard_time": 1743056480,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1470128,
+        "num": 205156,
+        "word": "李嘉诚",
+        "onboard_time": 1743060862,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177943,
+        "num": 177943,
+        "word": "国防部称将坚决打掉一切台独分裂图谋",
+        "onboard_time": 1743062422,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174914,
+        "num": 174914,
+        "word": "张馨予的瘦身思路",
+        "onboard_time": 1743062782,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172533,
+        "num": 172533,
+        "word": "你醒啦 现在是2008年",
+        "onboard_time": 1743051022,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170350,
+        "num": 170350,
+        "word": "金赛纶问金秀贤我这么让你讨厌吗",
+        "onboard_time": 1743063981,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126364,
+        "num": 126364,
+        "word": "中国将择机降准降息",
+        "onboard_time": 1743063801,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 40319,
+        "num": 125529,
+        "word": "九紫离火运的旺运tips",
+        "onboard_time": 1743060801,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125247,
+        "num": 125247,
+        "word": "小米的mi倒过来就是仙桃的仙",
+        "onboard_time": 1743044840,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86333,
+        "num": 125152,
+        "word": "国家发改委原副主任徐宪平被查",
+        "onboard_time": 1743061941,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121874,
+        "num": 125138,
+        "word": "医院穿刺抽液时导丝落入男童胸腔",
+        "onboard_time": 1743057921,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127798,
+        "num": 125138,
+        "word": "金赛纶方发布会信息汇总",
+        "onboard_time": 1743061822,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125135,
+        "num": 125135,
+        "word": "今年5月只用上19天班",
+        "onboard_time": 1743040460,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124531,
+        "num": 124531,
+        "word": "百万网红自曝确诊多囊卵巢综合征",
+        "onboard_time": 1743051502,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120926,
+        "num": 120926,
+        "word": "寒潮带来新一轮气温满减",
+        "onboard_time": 1743053300,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113079,
+        "num": 113079,
+        "word": "王宝强回应腹肌消失",
+        "onboard_time": 1743061043,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111592,
+        "num": 111592,
+        "word": "起底臭蛋蛋糕厂",
+        "onboard_time": 1743061641,
+        "rank": 45,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 108583,
+        "num": 108583,
+        "word": "高二女生用扭扭棒复刻明凤冠",
+        "onboard_time": 1743062541,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107086,
+        "num": 107086,
+        "word": "为什么说年轻人试错比专业更重要",
+        "onboard_time": 1743064161,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9134,
+        "num": 104078,
+        "word": "何俊宏爱玩游戏成工作优势",
+        "onboard_time": 1743061703,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103807,
+        "num": 103807,
+        "word": "快乐的大人2定档",
+        "onboard_time": 1743062662,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#八项规定深刻改变中国#"
+    }
+  }
+}

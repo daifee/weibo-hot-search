@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743061023102,
+  "endTime": 1743064260591,
   "band_list": [
     {
       "raw_hot": 2838286,
@@ -65,6 +65,14 @@
       "onboard_time": 1743002601,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1470128,
+      "num": 205156,
+      "word": "李嘉诚",
+      "onboard_time": 1743060862,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1380902,
@@ -235,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587354,
+      "num": 326558,
+      "word": "祝绪丹被所有姐姐现场吃瓜",
+      "onboard_time": 1743059481,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 586195,
       "num": 586195,
       "word": "你醒啦 现在是2008年",
       "onboard_time": 1743051022,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 576758,
+      "num": 317224,
+      "word": "短剧阵容这么顶了吗",
+      "onboard_time": 1743060500,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 556066,
@@ -267,12 +291,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 510752,
-      "num": 316170,
-      "word": "祝绪丹被所有姐姐现场吃瓜",
-      "onboard_time": 1743059481,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 522687,
+      "num": 522687,
+      "word": "四川乐山966万大奖得主踩点领奖",
+      "onboard_time": 1743061822,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 510232,
@@ -337,6 +361,14 @@
       "onboard_time": 1743032421,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463770,
+      "num": 463770,
+      "word": "你以为的毒贩vs你不知道的伪装",
+      "onboard_time": 1743059842,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 458512,
@@ -443,6 +475,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374968,
+      "num": 224556,
+      "word": "周四是工作效率最低的一天",
+      "onboard_time": 1743057501,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 368924,
+      "num": 233911,
+      "word": "酒店前台违规办房卡致女子被侵犯",
+      "onboard_time": 1743061762,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364390,
       "num": 364390,
       "word": "漫威直播公布复联5阵容",
@@ -451,20 +499,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 362334,
-      "num": 209222,
-      "word": "周四是工作效率最低的一天",
-      "onboard_time": 1743057501,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 361219,
       "num": 361219,
       "word": "吴宣仪宋妍霏合跳kisskissshyshy",
       "onboard_time": 1743006798,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 355847,
+      "num": 230614,
+      "word": "赵露思形容焦虑症的惊恐和高反一样",
+      "onboard_time": 1743061581,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 346938,
@@ -505,6 +553,14 @@
       "onboard_time": 1743058521,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295451,
+      "num": 295451,
+      "word": "男子在工地宿舍睡觉被工友捅刺身亡",
+      "onboard_time": 1743063321,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292467,
@@ -587,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 263790,
+      "num": 225805,
+      "word": "北京国际电影节",
+      "onboard_time": 1743063321,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 250880,
       "num": 250880,
       "word": "奔跑吧",
@@ -659,12 +723,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 218170,
-      "num": 209873,
-      "word": "短剧阵容这么顶了吗",
-      "onboard_time": 1743060500,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 223867,
+      "num": 223867,
+      "word": "女子晒洁癖公公全副武装探望婆婆",
+      "onboard_time": 1743062541,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215815,
@@ -681,14 +745,6 @@
       "onboard_time": 1743053300,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 211982,
-      "num": 211982,
-      "word": "你以为的毒贩vs你不知道的伪装",
-      "onboard_time": 1743059842,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210455,
@@ -907,6 +963,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177943,
+      "num": 177943,
+      "word": "国防部称将坚决打掉一切台独分裂图谋",
+      "onboard_time": 1743062422,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 175438,
+      "num": 231058,
+      "word": "淘宝率先打击AI假图",
+      "onboard_time": 1743062482,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 174914,
+      "num": 174914,
+      "word": "张馨予的瘦身思路",
+      "onboard_time": 1743062782,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174898,
       "num": 285432,
       "word": "王一博刘雨昕登MIV媒体影响力榜",
@@ -939,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170350,
+      "num": 170350,
+      "word": "金赛纶问金秀贤我这么让你讨厌吗",
+      "onboard_time": 1743063981,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168901,
       "num": 168901,
       "word": "明日方舟",
@@ -961,6 +1049,14 @@
       "onboard_time": 1743051203,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161027,
+      "num": 226612,
+      "word": "张子枫北影节创投评委",
+      "onboard_time": 1743063621,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 159942,
@@ -1227,12 +1323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127798,
+      "num": 125138,
+      "word": "金赛纶方发布会信息汇总",
+      "onboard_time": 1743061822,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126792,
       "num": 126792,
       "word": "电影大风杀定档",
       "onboard_time": 1743045859,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126364,
+      "num": 126364,
+      "word": "中国将择机降准降息",
+      "onboard_time": 1743063801,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 125513,
@@ -1387,6 +1499,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113079,
+      "num": 113079,
+      "word": "王宝强回应腹肌消失",
+      "onboard_time": 1743061043,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111592,
+      "num": 111592,
+      "word": "起底臭蛋蛋糕厂",
+      "onboard_time": 1743061641,
+      "rank": 45,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 110630,
       "num": 110630,
       "word": "祝绪丹神女执弓",
@@ -1443,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108583,
+      "num": 108583,
+      "word": "高二女生用扭扭棒复刻明凤冠",
+      "onboard_time": 1743062541,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108343,
       "num": 108343,
       "word": "天链二号04星发射成功",
@@ -1465,6 +1601,14 @@
       "onboard_time": 1743051861,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 107086,
+      "num": 107086,
+      "word": "为什么说年轻人试错比专业更重要",
+      "onboard_time": 1743064161,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 106874,
@@ -1491,20 +1635,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103807,
+      "num": 103807,
+      "word": "快乐的大人2定档",
+      "onboard_time": 1743062662,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103273,
       "num": 103273,
       "word": "潘粤明评国足8场6败",
       "onboard_time": 1743008178,
       "rank": 16,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 103016,
-      "num": 103016,
-      "word": "李嘉诚",
-      "onboard_time": 1743060862,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101558,
@@ -1524,7 +1668,7 @@
     },
     {
       "raw_hot": 99849,
-      "num": 102403,
+      "num": 227394,
       "word": "曝光千奇百怪的走私方式",
       "onboard_time": 1743057861,
       "rank": 49,
@@ -1617,6 +1761,22 @@
       "onboard_time": 1743031637,
       "rank": 25,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 88527,
+      "num": 217832,
+      "word": "今屿痞帅全开",
+      "onboard_time": 1743063083,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 86333,
+      "num": 125152,
+      "word": "国家发改委原副主任徐宪平被查",
+      "onboard_time": 1743061941,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86021,
@@ -1827,6 +1987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 54118,
+      "num": 208122,
+      "word": "男子给情人转账50万妻子起诉要回",
+      "onboard_time": 1743062842,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53767,
       "num": 53767,
       "word": "银河左岸音乐节",
@@ -1915,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45618,
+      "num": 232657,
+      "word": "为何父母的缺点又出现在了我身上",
+      "onboard_time": 1743062842,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 45445,
       "num": 170535,
       "word": "不良人 不要刀雪儿",
@@ -1961,6 +2137,14 @@
       "onboard_time": 1743031940,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40319,
+      "num": 125529,
+      "word": "九紫离火运的旺运tips",
+      "onboard_time": 1743060801,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 40003,
@@ -2075,6 +2259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 28293,
+      "num": 207498,
+      "word": "为啥过敏后会觉得那么痒",
+      "onboard_time": 1743063981,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 28066,
       "num": 92367,
       "word": "美国务卿回应群聊泄密事件",
@@ -2115,20 +2307,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21291,
+      "num": 209515,
+      "word": "法国向乌克兰追加20亿欧元军援",
+      "onboard_time": 1743063981,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19450,
       "num": 32631,
       "word": "你的班味可能是臭味",
       "onboard_time": 1743031338,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 17294,
-      "num": 102669,
-      "word": "九紫离火运的旺运tips",
-      "onboard_time": 1743060801,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 17007,
@@ -2163,6 +2355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 9437,
+      "num": 1044827,
+      "word": "万千气象看江苏",
+      "onboard_time": 1742825783,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9212,
       "num": 32661,
       "word": "微短剧用户规模达6.62亿人",
@@ -2171,12 +2371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 7375,
-      "num": 1044827,
-      "word": "万千气象看江苏",
-      "onboard_time": 1742825783,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 9134,
+      "num": 104078,
+      "word": "何俊宏爱玩游戏成工作优势",
+      "onboard_time": 1743061703,
+      "rank": 48,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
