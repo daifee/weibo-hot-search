@@ -1,0 +1,410 @@
+{
+  "runTime": 1743044601883,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2266951,
+        "num": 2266951,
+        "word": "被擦妆5次艺考生被中国传媒大学录取",
+        "onboard_time": 1743040400,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 875392,
+        "num": 875392,
+        "word": "今年5月只用上19天班",
+        "onboard_time": 1743040460,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21461,
+        "num": 742196,
+        "word": "网络视听成全网民的数字空气",
+        "onboard_time": 1742985381,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1099362,
+        "num": 728468,
+        "word": "马拉松亲密事件拍摄者再发声",
+        "onboard_time": 1743038480,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649743,
+        "num": 649743,
+        "word": "沙溢发文回应美黑",
+        "onboard_time": 1743041240,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 610519,
+        "num": 610519,
+        "word": "印度遭奸杀女医生案内幕曝光",
+        "onboard_time": 1743002601,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 508158,
+        "num": 508158,
+        "word": "詹姆斯绝杀",
+        "onboard_time": 1743041480,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396248,
+        "num": 396248,
+        "word": "权志龙又染银发了",
+        "onboard_time": 1743041060,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378508,
+        "num": 378508,
+        "word": "不允许再使用零添加等用语",
+        "onboard_time": 1743040340,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138837,
+        "num": 375330,
+        "word": "预包装食品可自愿标示消费保存期",
+        "onboard_time": 1743039080,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684906,
+        "num": 371583,
+        "word": "张一鸣655亿美元身家登顶中国首富",
+        "onboard_time": 1743042560,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 469885,
+        "num": 370568,
+        "word": "韩安冉妈妈回应女儿参加变形记",
+        "onboard_time": 1743039681,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395922,
+        "num": 363803,
+        "word": "张檬自曝孕35周臀位绕颈",
+        "onboard_time": 1743000382,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73283,
+        "num": 360831,
+        "word": "A股",
+        "onboard_time": 1743042741,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178181,
+        "num": 359117,
+        "word": "美涉密群聊内容具体到战机起飞时间",
+        "onboard_time": 1743042861,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356082,
+        "num": 356082,
+        "word": "李佳航对李晟一见钟情",
+        "onboard_time": 1743043101,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329096,
+        "num": 329096,
+        "word": "防水冲锋衣可能影响女性怀孕",
+        "onboard_time": 1743000863,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286662,
+        "num": 286662,
+        "word": "金赛纶挚友曝金秀贤出轨",
+        "onboard_time": 1743032421,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286418,
+        "num": 286418,
+        "word": "宋茜回应没喝中药",
+        "onboard_time": 1743042200,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264290,
+        "num": 278730,
+        "word": "吃饭跑步和恋爱",
+        "onboard_time": 1743041721,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303418,
+        "num": 278662,
+        "word": "王者荣耀",
+        "onboard_time": 1743043281,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277857,
+        "num": 277857,
+        "word": "雷军回母校遭遇两级反转",
+        "onboard_time": 1743037641,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 233090,
+        "num": 233090,
+        "word": "于正狂赞赵晴绝世容颜",
+        "onboard_time": 1743032779,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218241,
+        "num": 218241,
+        "word": "陈都灵辛云来房车合体",
+        "onboard_time": 1743037161,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194465,
+        "num": 194465,
+        "word": "食品安全对零添加的要求更严格了",
+        "onboard_time": 1743042080,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191333,
+        "num": 191333,
+        "word": "画江湖之不良人",
+        "onboard_time": 1743035902,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 178084,
+        "num": 178084,
+        "word": "小鹏方回应车屏幕夹断男童手指",
+        "onboard_time": 1743043220,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153730,
+        "num": 153730,
+        "word": "陈冠希回应未来是否拍戏",
+        "onboard_time": 1743042261,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153472,
+        "num": 153472,
+        "word": "复联5 万磁王",
+        "onboard_time": 1743044000,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153085,
+        "num": 153085,
+        "word": "见到这种草莓熊瓶子请立刻报警",
+        "onboard_time": 1743044241,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153105,
+        "num": 152816,
+        "word": "孟美岐黄圣依跑马拉松",
+        "onboard_time": 1743044122,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146525,
+        "num": 146525,
+        "word": "001号龙标给了河南台",
+        "onboard_time": 1743036201,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134774,
+        "num": 134774,
+        "word": "猫猫撒娇摔错方向",
+        "onboard_time": 1743040581,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134209,
+        "num": 134209,
+        "word": "教育局回应小学校门口有学生搜身",
+        "onboard_time": 1743039800,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57197,
+        "num": 132129,
+        "word": "姚安娜王安宇华为阔折叠一用就爱",
+        "onboard_time": 1743043700,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130160,
+        "num": 130160,
+        "word": "中央气象台5个预警齐发",
+        "onboard_time": 1743038000,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124811,
+        "num": 124811,
+        "word": "NBA",
+        "onboard_time": 1743044421,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119664,
+        "num": 119664,
+        "word": "漫威直播公布复联5阵容",
+        "onboard_time": 1743031637,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118941,
+        "num": 118941,
+        "word": "福宝上演空中一字马",
+        "onboard_time": 1743038480,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118573,
+        "num": 118573,
+        "word": "刘学义念无双裸上身",
+        "onboard_time": 1743040880,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116580,
+        "num": 116580,
+        "word": "陈都灵晒辛云来煮的米线",
+        "onboard_time": 1743003022,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115857,
+        "num": 115857,
+        "word": "店长回应早产儿蛋糕已下架销毁",
+        "onboard_time": 1743000323,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115477,
+        "num": 115477,
+        "word": "竹林中的刘诗诗",
+        "onboard_time": 1743041540,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114098,
+        "num": 114098,
+        "word": "长沙多地发布雷雨大风蓝色预警",
+        "onboard_time": 1743041300,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112219,
+        "num": 112219,
+        "word": "美涉密群聊拉错人事件持续发酵",
+        "onboard_time": 1743036201,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111487,
+        "num": 111487,
+        "word": "每个人都有属于自己的花期",
+        "onboard_time": 1743037341,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110018,
+        "num": 110018,
+        "word": "赵丽颖模仿孙悟空海边奔跑",
+        "onboard_time": 1743036862,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104561,
+        "num": 104561,
+        "word": "念无双今日开播",
+        "onboard_time": 1743044480,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100362,
+        "num": 100362,
+        "word": "50项食品安全国家标准发布",
+        "onboard_time": 1743039322,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94584,
+        "num": 94584,
+        "word": "黑心食品厂用臭蛋做网红蛋糕",
+        "onboard_time": 1743044541,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#八项规定是共产党人应做到的基本要求#"
+    }
+  }
+}

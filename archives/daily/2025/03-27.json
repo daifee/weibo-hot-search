@@ -1,7 +1,15 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743041508607,
+  "endTime": 1743044601883,
   "band_list": [
+    {
+      "raw_hot": 2266951,
+      "num": 2266951,
+      "word": "被擦妆5次艺考生被中国传媒大学录取",
+      "onboard_time": 1743040400,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1697150,
       "num": 1697150,
@@ -11,11 +19,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1101068,
-      "num": 1176170,
-      "word": "被擦妆5次艺考生被中国传媒大学录取",
-      "onboard_time": 1743040400,
-      "rank": 0,
+      "raw_hot": 1099362,
+      "num": 728468,
+      "word": "马拉松亲密事件拍摄者再发声",
+      "onboard_time": 1743038480,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -32,6 +40,14 @@
       "word": "找17岁女孩代孕男子生气信息被泄露",
       "onboard_time": 1743038420,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 875392,
+      "num": 875392,
+      "word": "今年5月只用上19天班",
+      "onboard_time": 1743040460,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -59,12 +75,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 684906,
+      "num": 371583,
+      "word": "张一鸣655亿美元身家登顶中国首富",
+      "onboard_time": 1743042560,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 672578,
-      "num": 295968,
+      "num": 363803,
       "word": "张檬自曝孕35周臀位绕颈",
       "onboard_time": 1743000382,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 649743,
+      "num": 649743,
+      "word": "沙溢发文回应美黑",
+      "onboard_time": 1743041240,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 556066,
@@ -91,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 508158,
+      "num": 508158,
+      "word": "詹姆斯绝杀",
+      "onboard_time": 1743041480,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 501543,
       "num": 501543,
       "word": "白宫泄密群聊完整记录公布",
@@ -100,7 +140,7 @@
     },
     {
       "raw_hot": 488960,
-      "num": 283389,
+      "num": 370568,
       "word": "韩安冉妈妈回应女儿参加变形记",
       "onboard_time": 1743039681,
       "rank": 19,
@@ -139,12 +179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 395395,
-      "num": 395395,
-      "word": "马拉松亲密事件拍摄者再发声",
-      "onboard_time": 1743038480,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 396248,
+      "num": 396248,
+      "word": "权志龙又染银发了",
+      "onboard_time": 1743041060,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 379222,
@@ -153,6 +193,14 @@
       "onboard_time": 1743032779,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378508,
+      "num": 378508,
+      "word": "不允许再使用零添加等用语",
+      "onboard_time": 1743040340,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 377852,
@@ -179,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 356082,
+      "num": 356082,
+      "word": "李佳航对李晟一见钟情",
+      "onboard_time": 1743043101,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346938,
       "num": 346938,
       "word": "祝绪丹当着侯佩岑的面说喜欢周杰伦",
@@ -203,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303418,
+      "num": 278662,
+      "word": "王者荣耀",
+      "onboard_time": 1743043281,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292156,
       "num": 292156,
       "word": "拔牙坠楼身亡女子家属最新发声",
@@ -217,6 +281,14 @@
       "onboard_time": 1743005779,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286418,
+      "num": 286418,
+      "word": "宋茜回应没喝中药",
+      "onboard_time": 1743042200,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 285656,
@@ -243,12 +315,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 235518,
-      "num": 235518,
-      "word": "权志龙又染银发了",
-      "onboard_time": 1743041060,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 264290,
+      "num": 278730,
+      "word": "吃饭跑步和恋爱",
+      "onboard_time": 1743041721,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 234760,
@@ -267,14 +339,6 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 229026,
-      "num": 229026,
-      "word": "今年5月只用上19天班",
-      "onboard_time": 1743040460,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227298,
       "num": 227298,
       "word": "王宝强脚趾抠地追剧",
@@ -289,14 +353,6 @@
       "onboard_time": 1743032721,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212465,
-      "num": 286577,
-      "word": "不允许再使用零添加等用语",
-      "onboard_time": 1743040340,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210455,
@@ -331,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194465,
+      "num": 194465,
+      "word": "食品安全对零添加的要求更严格了",
+      "onboard_time": 1743042080,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185725,
       "num": 185725,
       "word": "曹颖倪虹洁都以为吴宣仪20岁",
@@ -340,7 +404,7 @@
     },
     {
       "raw_hot": 182615,
-      "num": 182615,
+      "num": 375330,
       "word": "预包装食品可自愿标示消费保存期",
       "onboard_time": 1743039080,
       "rank": 22,
@@ -360,6 +424,22 @@
       "word": "长沙多地发布雷雨大风蓝色预警",
       "onboard_time": 1743041300,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178181,
+      "num": 359117,
+      "word": "美涉密群聊内容具体到战机起飞时间",
+      "onboard_time": 1743042861,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 178084,
+      "num": 178084,
+      "word": "小鹏方回应车屏幕夹断男童手指",
+      "onboard_time": 1743043220,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -393,6 +473,38 @@
       "onboard_time": 1743032599,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153730,
+      "num": 153730,
+      "word": "陈冠希回应未来是否拍戏",
+      "onboard_time": 1743042261,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153472,
+      "num": 153472,
+      "word": "复联5 万磁王",
+      "onboard_time": 1743044000,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 153105,
+      "num": 152816,
+      "word": "孟美岐黄圣依跑马拉松",
+      "onboard_time": 1743044122,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153085,
+      "num": 153085,
+      "word": "见到这种草莓熊瓶子请立刻报警",
+      "onboard_time": 1743044241,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148084,
@@ -451,6 +563,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134774,
+      "num": 134774,
+      "word": "猫猫撒娇摔错方向",
+      "onboard_time": 1743040581,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 134209,
+      "num": 134209,
+      "word": "教育局回应小学校门口有学生搜身",
+      "onboard_time": 1743039800,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131760,
       "num": 131760,
       "word": "大16岁女友离世被赶出门男子发声",
@@ -475,11 +603,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124778,
-      "num": 124778,
-      "word": "詹姆斯绝杀",
-      "onboard_time": 1743041480,
-      "rank": 32,
+      "raw_hot": 124811,
+      "num": 124811,
+      "word": "NBA",
+      "onboard_time": 1743044421,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -515,12 +643,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117744,
-      "num": 117744,
-      "word": "猫猫撒娇摔错方向",
-      "onboard_time": 1743040581,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 118941,
+      "num": 118941,
+      "word": "福宝上演空中一字马",
+      "onboard_time": 1743038480,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115477,
+      "num": 115477,
+      "word": "竹林中的刘诗诗",
+      "onboard_time": 1743041540,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 113906,
@@ -528,14 +664,6 @@
       "word": "西藏日喀则定日发生3.4级地震",
       "onboard_time": 1742996482,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112249,
-      "num": 112249,
-      "word": "福宝上演空中一字马",
-      "onboard_time": 1743038480,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -571,20 +699,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 107252,
-      "num": 107252,
-      "word": "教育局回应小学校门口有学生搜身",
-      "onboard_time": 1743039800,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106759,
       "num": 106759,
       "word": "迪丽热巴海边六宫格",
       "onboard_time": 1743039981,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104561,
+      "num": 104561,
+      "word": "念无双今日开播",
+      "onboard_time": 1743044480,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 103273,
@@ -641,6 +769,14 @@
       "onboard_time": 1742961921,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94584,
+      "num": 94584,
+      "word": "黑心食品厂用臭蛋做网红蛋糕",
+      "onboard_time": 1743044541,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 92323,
@@ -723,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73283,
+      "num": 360831,
+      "word": "A股",
+      "onboard_time": 1743042741,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73265,
       "num": 73265,
       "word": "曾黎工作室报案",
@@ -793,6 +937,14 @@
       "onboard_time": 1742998283,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57197,
+      "num": 132129,
+      "word": "姚安娜王安宇华为阔折叠一用就爱",
+      "onboard_time": 1743043700,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 56613,
