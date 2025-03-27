@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743040178938,
+  "endTime": 1743041508607,
   "band_list": [
     {
       "raw_hot": 1697150,
@@ -11,11 +11,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1101068,
+      "num": 1176170,
+      "word": "被擦妆5次艺考生被中国传媒大学录取",
+      "onboard_time": 1743040400,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1040455,
       "num": 741778,
       "word": "找17岁女孩代孕男子领孩子多付20万",
       "onboard_time": 1743007158,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 881097,
+      "num": 881097,
+      "word": "找17岁女孩代孕男子生气信息被泄露",
+      "onboard_time": 1743038420,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -83,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 488960,
+      "num": 283389,
+      "word": "韩安冉妈妈回应女儿参加变形记",
+      "onboard_time": 1743039681,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 480239,
       "num": 292416,
       "word": "金赛纶挚友曝金秀贤出轨",
@@ -112,6 +136,14 @@
       "word": "001号龙标给了河南台",
       "onboard_time": 1743036201,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 395395,
+      "num": 395395,
+      "word": "马拉松亲密事件拍摄者再发声",
+      "onboard_time": 1743038480,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -163,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332781,
-      "num": 285796,
-      "word": "马拉松亲密事件拍摄者再发声",
-      "onboard_time": 1743038480,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 318043,
       "num": 318043,
       "word": "陈都灵辛云来房车合体",
@@ -211,6 +235,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 264500,
+      "num": 290857,
+      "word": "美涉密群聊拉错人事件持续发酵",
+      "onboard_time": 1743036201,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 235518,
+      "num": 235518,
+      "word": "权志龙又染银发了",
+      "onboard_time": 1743041060,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234760,
       "num": 234760,
       "word": "莲花味精辟谣穷得只剩一栋办公楼",
@@ -227,6 +267,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 229026,
+      "num": 229026,
+      "word": "今年5月只用上19天班",
+      "onboard_time": 1743040460,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227298,
       "num": 227298,
       "word": "王宝强脚趾抠地追剧",
@@ -241,6 +289,22 @@
       "onboard_time": 1743032721,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212465,
+      "num": 286577,
+      "word": "不允许再使用零添加等用语",
+      "onboard_time": 1743040340,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210455,
+      "num": 210455,
+      "word": "画江湖之不良人",
+      "onboard_time": 1743035902,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 208746,
@@ -267,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191033,
-      "num": 191033,
-      "word": "韩安冉妈妈回应女儿参加变形记",
-      "onboard_time": 1743039681,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185725,
       "num": 185725,
       "word": "曹颖倪虹洁都以为吴宣仪20岁",
@@ -299,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181367,
+      "num": 181367,
+      "word": "长沙多地发布雷雨大风蓝色预警",
+      "onboard_time": 1743041300,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171221,
       "num": 171221,
       "word": "0.03元开通试用后每个月被扣近百元",
@@ -313,14 +377,6 @@
       "onboard_time": 1742989400,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158484,
-      "num": 158484,
-      "word": "画江湖之不良人",
-      "onboard_time": 1743035902,
-      "rank": 23,
-      "category": "动漫"
     },
     {
       "raw_hot": 157038,
@@ -347,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147814,
-      "num": 290857,
-      "word": "美涉密群聊拉错人事件持续发酵",
-      "onboard_time": 1743036201,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 147289,
       "num": 147289,
       "word": "北大教授谈北大和清华学生区别",
@@ -377,6 +425,14 @@
       "onboard_time": 1743001223,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140347,
+      "num": 140347,
+      "word": "湖人vs步行者",
+      "onboard_time": 1743040279,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 139745,
@@ -403,12 +459,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129533,
+      "num": 129533,
+      "word": "沙溢刚刚发文回应美黑",
+      "onboard_time": 1743041240,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125513,
       "num": 125513,
       "word": "李晟拉高收视率",
       "onboard_time": 1743004640,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124778,
+      "num": 124778,
+      "word": "詹姆斯绝杀",
+      "onboard_time": 1743041480,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 124369,
@@ -419,6 +491,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124229,
+      "num": 124229,
+      "word": "刘学义念无双裸上身",
+      "onboard_time": 1743040880,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121283,
+      "num": 147292,
+      "word": "李晟唱功",
+      "onboard_time": 1743038180,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120621,
       "num": 120621,
       "word": "每个人都有属于自己的花期",
@@ -427,20 +515,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117744,
+      "num": 117744,
+      "word": "猫猫撒娇摔错方向",
+      "onboard_time": 1743040581,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113906,
       "num": 113906,
       "word": "西藏日喀则定日发生3.4级地震",
       "onboard_time": 1742996482,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112957,
-      "num": 147292,
-      "word": "李晟唱功",
-      "onboard_time": 1743038180,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 112249,
@@ -483,6 +571,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 107252,
+      "num": 107252,
+      "word": "教育局回应小学校门口有学生搜身",
+      "onboard_time": 1743039800,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106759,
+      "num": 106759,
+      "word": "迪丽热巴海边六宫格",
+      "onboard_time": 1743039981,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103273,
       "num": 103273,
       "word": "潘粤明评国足8场6败",
@@ -507,12 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95745,
-      "num": 95745,
-      "word": "教育局回应小学校门口有学生搜身",
-      "onboard_time": 1743039800,
+      "raw_hot": 98752,
+      "num": 98752,
+      "word": "念无双",
+      "onboard_time": 1743041420,
       "rank": 41,
-      "category": "民生新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 95609,
@@ -555,12 +659,12 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 82720,
-      "num": 82720,
-      "word": "迪丽热巴海边六宫格",
-      "onboard_time": 1743039981,
-      "rank": 43,
-      "category": "作品衍生"
+      "raw_hot": 86021,
+      "num": 86021,
+      "word": "女孩的思念因文字变得震耳欲聋",
+      "onboard_time": 1743041300,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82545,
@@ -876,7 +980,7 @@
     },
     {
       "raw_hot": 24769,
-      "num": 728926,
+      "num": 782206,
       "word": "网络视听成全网民的数字空气",
       "onboard_time": 1742985381,
       "rank": 2,
