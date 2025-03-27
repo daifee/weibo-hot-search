@@ -1,0 +1,410 @@
+{
+  "runTime": 1743082393444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1525970,
+        "num": 1525970,
+        "word": "金价",
+        "onboard_time": 1743076161,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 959246,
+        "num": 959246,
+        "word": "唐嫣 你的兵来了",
+        "onboard_time": 1743076823,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11440,
+        "num": 879346,
+        "word": "12届中国网络视听大会开幕",
+        "onboard_time": 1743069563,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 826367,
+        "num": 826367,
+        "word": "冰箱贴是年轻人的到此一游",
+        "onboard_time": 1743078622,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443790,
+        "num": 443790,
+        "word": "允在允荷分手",
+        "onboard_time": 1743079943,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378404,
+        "num": 378404,
+        "word": "国防部提醒日本",
+        "onboard_time": 1743076402,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 430753,
+        "num": 374405,
+        "word": "唐嫣台词",
+        "onboard_time": 1743077182,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341428,
+        "num": 341428,
+        "word": "舒马赫近乎植物人",
+        "onboard_time": 1743081261,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401755,
+        "num": 340343,
+        "word": "念无双 老年宣发",
+        "onboard_time": 1743079403,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104780,
+        "num": 333502,
+        "word": "接下来这波降温有多猛",
+        "onboard_time": 1743080122,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575841,
+        "num": 330142,
+        "word": "大鹅多处被烤熟仍不离开被烧死同伴",
+        "onboard_time": 1743077242,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436532,
+        "num": 326281,
+        "word": "儿子给腰突父亲买40小时硬座票",
+        "onboard_time": 1743049462,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321878,
+        "num": 321878,
+        "word": "李嘉诚要卖43个港口给美国企业",
+        "onboard_time": 1743066982,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194251,
+        "num": 320383,
+        "word": "王传福称新能源车进入四电时代",
+        "onboard_time": 1743080722,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 29604,
+        "num": 318774,
+        "word": "黑代孕称除北上广深都可办理出生证明",
+        "onboard_time": 1743081442,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 400000,
+        "num": 317581,
+        "word": "爸爸去世女儿被判和4个姑姑平分遗产",
+        "onboard_time": 1743056242,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366091,
+        "num": 316558,
+        "word": "医生连续六年下班卖小吃月入近2万",
+        "onboard_time": 1743079283,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349268,
+        "num": 314816,
+        "word": "赵露思生病前和家人几乎不联系",
+        "onboard_time": 1743078741,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622176,
+        "num": 311963,
+        "word": "谢霆锋的烤肠卖了15亿元",
+        "onboard_time": 1743070701,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275796,
+        "num": 310236,
+        "word": "张馨予说管不住嘴就看钟楚曦",
+        "onboard_time": 1743080241,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310234,
+        "num": 310234,
+        "word": "周如音黑化",
+        "onboard_time": 1743077901,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301884,
+        "num": 301884,
+        "word": "抢凤冠冰箱贴的队排到了国博大门外",
+        "onboard_time": 1743080482,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227839,
+        "num": 227839,
+        "word": "吴宣仪赛前秀第一",
+        "onboard_time": 1743080422,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222575,
+        "num": 222575,
+        "word": "成都沙尘暴",
+        "onboard_time": 1743072259,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197881,
+        "num": 197881,
+        "word": "肖战满头小夹子",
+        "onboard_time": 1743067462,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186087,
+        "num": 186087,
+        "word": "雁回时预告",
+        "onboard_time": 1743081804,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162880,
+        "num": 162880,
+        "word": "小婉管乐连睡觉都分不开",
+        "onboard_time": 1743076281,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160597,
+        "num": 160597,
+        "word": "IU权志龙再唱Palette",
+        "onboard_time": 1743073761,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155669,
+        "num": 155669,
+        "word": "羽衣甘蓝奶茶或热量超标",
+        "onboard_time": 1743070101,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32860,
+        "num": 154217,
+        "word": "山东一任教31年教师临近退休突遭解聘",
+        "onboard_time": 1743081741,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8622,
+        "num": 153877,
+        "word": "2024中国科学十大进展发布",
+        "onboard_time": 1743046221,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9988,
+        "num": 153789,
+        "word": "派出所回应银行门口疑似有人抢钱",
+        "onboard_time": 1743082283,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153784,
+        "num": 153784,
+        "word": "林允古早千金文女主",
+        "onboard_time": 1743081142,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73677,
+        "num": 151152,
+        "word": "赵子豪说澳门见",
+        "onboard_time": 1743078381,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150492,
+        "num": 150492,
+        "word": "张元英宝格丽新闻图",
+        "onboard_time": 1743079283,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149430,
+        "num": 149430,
+        "word": "女孩遭强奸案民警被控渎职不予立案",
+        "onboard_time": 1743076521,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147431,
+        "num": 147431,
+        "word": "王楚钦拍公式照",
+        "onboard_time": 1743078741,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133186,
+        "num": 133186,
+        "word": "王一博现身宁波国际赛道",
+        "onboard_time": 1743081021,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129545,
+        "num": 129545,
+        "word": "故意让内向的孩子抽到了空白签",
+        "onboard_time": 1743067882,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128034,
+        "num": 128034,
+        "word": "97年女生身高1.6米体重50斤",
+        "onboard_time": 1743044720,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126738,
+        "num": 126738,
+        "word": "下岗女工干快递15年领数千退休金",
+        "onboard_time": 1743075741,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125662,
+        "num": 125662,
+        "word": "念无双",
+        "onboard_time": 1743074421,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122601,
+        "num": 122601,
+        "word": "李晟为什么爆火出圈",
+        "onboard_time": 1743071480,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121122,
+        "num": 121122,
+        "word": "沧州2.8级地震",
+        "onboard_time": 1743078741,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 115718,
+        "num": 115718,
+        "word": "脾胃不好的8个典型症状",
+        "onboard_time": 1743079103,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150838,
+        "num": 115431,
+        "word": "雁回时",
+        "onboard_time": 1743067521,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114540,
+        "num": 114540,
+        "word": "嫁反派",
+        "onboard_time": 1743073642,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109326,
+        "num": 109326,
+        "word": "周四是工作效率最低的一天",
+        "onboard_time": 1743057501,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 3076,
+        "num": 109176,
+        "word": "万千气象看江苏",
+        "onboard_time": 1742825783,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109044,
+        "num": 109044,
+        "word": "酒店前台违规办房卡致女子被侵犯",
+        "onboard_time": 1743061762,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是中国同世界的交往之道#"
+    }
+  }
+}
