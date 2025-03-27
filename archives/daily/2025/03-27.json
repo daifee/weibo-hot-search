@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743067604824,
+  "endTime": 1743068461562,
   "band_list": [
     {
       "raw_hot": 2838286,
@@ -97,6 +97,14 @@
       "onboard_time": 1743044720,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1201366,
+      "num": 1201366,
+      "word": "胡静卖老公跑车三个男人心碎了",
+      "onboard_time": 1743066682,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1154576,
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490658,
+      "num": 273167,
+      "word": "玫瑰 想离婚",
+      "onboard_time": 1743067763,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 490604,
       "num": 260293,
       "word": "小S把粉丝送的礼物珍藏十年",
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 444932,
-      "num": 226358,
+      "num": 265094,
       "word": "周四是工作效率最低的一天",
       "onboard_time": 1743057501,
       "rank": 36,
@@ -491,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 393469,
-      "num": 231389,
-      "word": "胡静卖老公跑车三个男人心碎了",
-      "onboard_time": 1743066682,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 379222,
       "num": 288031,
       "word": "于正狂赞赵晴绝世容颜",
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 368924,
-      "num": 233911,
+      "num": 265847,
       "word": "酒店前台违规办房卡致女子被侵犯",
       "onboard_time": 1743061762,
       "rank": 12,
@@ -563,6 +571,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352890,
+      "num": 271864,
+      "word": "陈都灵 凤凰哀鸣",
+      "onboard_time": 1743067581,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 347371,
+      "num": 269756,
+      "word": "小红书AI 贴吧男",
+      "onboard_time": 1743064700,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 346938,
       "num": 346938,
       "word": "祝绪丹当着侯佩岑的面说喜欢周杰伦",
@@ -579,12 +603,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 333722,
-      "num": 227043,
-      "word": "小红书AI 贴吧男",
-      "onboard_time": 1743064700,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 342701,
+      "num": 268704,
+      "word": "金赛纶问金秀贤我这么让你讨厌吗",
+      "onboard_time": 1743063981,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 319525,
+      "num": 266265,
+      "word": "肖战满头小夹子",
+      "onboard_time": 1743067462,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 318043,
@@ -609,14 +641,6 @@
       "onboard_time": 1743058521,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 294070,
-      "num": 225654,
-      "word": "金赛纶问金秀贤我这么让你讨厌吗",
-      "onboard_time": 1743063981,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 292467,
@@ -657,6 +681,14 @@
       "onboard_time": 1743036862,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 275331,
+      "num": 275331,
+      "word": "丹宁高速桥梁垮43名公职人员被问责",
+      "onboard_time": 1743067821,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 274789,
@@ -715,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256408,
+      "num": 256408,
+      "word": "故意让内向的孩子抽到了空白签",
+      "onboard_time": 1743067882,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250880,
       "num": 250880,
       "word": "奔跑吧",
@@ -724,7 +764,7 @@
     },
     {
       "raw_hot": 244079,
-      "num": 225221,
+      "num": 240901,
       "word": "张佳宁脸肿成了蜜蜂小狗",
       "onboard_time": 1743065481,
       "rank": 23,
@@ -745,6 +785,14 @@
       "onboard_time": 1743044000,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 239951,
+      "num": 239951,
+      "word": "李嘉诚要卖43个港口给美国企业",
+      "onboard_time": 1743066982,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238263,
@@ -865,6 +913,14 @@
       "onboard_time": 1743056721,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207854,
+      "num": 207854,
+      "word": "雁回时",
+      "onboard_time": 1743067521,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 207741,
@@ -996,7 +1052,7 @@
     },
     {
       "raw_hot": 186102,
-      "num": 228806,
+      "num": 270586,
       "word": "00后靠国补狂省两个月生活费",
       "onboard_time": 1743064581,
       "rank": 32,
@@ -1033,6 +1089,14 @@
       "onboard_time": 1743052342,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181663,
+      "num": 181663,
+      "word": "3年赚70万网约司机春节没休息过",
+      "onboard_time": 1743067341,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181542,
@@ -1107,28 +1171,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 173999,
-      "num": 157576,
-      "word": "肖战满头小夹子",
-      "onboard_time": 1743067462,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 172992,
       "num": 172992,
       "word": "4名美军士兵在立陶宛失踪",
       "onboard_time": 1743047122,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 172444,
-      "num": 172444,
-      "word": "李嘉诚要卖43个港口给美国企业",
-      "onboard_time": 1743066982,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171979,
@@ -1147,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170907,
+      "num": 170907,
+      "word": "中方反对侵犯损害他国正当权益行为",
+      "onboard_time": 1743068181,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168901,
       "num": 168901,
       "word": "明日方舟",
@@ -1161,14 +1217,6 @@
       "onboard_time": 1743053483,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168095,
-      "num": 168095,
-      "word": "雁回时",
-      "onboard_time": 1743067521,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 166384,
@@ -1300,7 +1348,7 @@
     },
     {
       "raw_hot": 151733,
-      "num": 198783,
+      "num": 267194,
       "word": "孙颖莎解锁拍照新动作",
       "onboard_time": 1743066201,
       "rank": 32,
@@ -1345,22 +1393,6 @@
       "onboard_time": 1743032300,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 145553,
-      "num": 145553,
-      "word": "陈都灵 凤凰哀鸣",
-      "onboard_time": 1743067581,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 143634,
-      "num": 148135,
-      "word": "3年赚70万网约司机春节没休息过",
-      "onboard_time": 1743067341,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143379,
@@ -1427,6 +1459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138884,
+      "num": 138884,
+      "word": "张艺兴把贝壳手做帽子放心尖",
+      "onboard_time": 1743068422,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137890,
       "num": 137890,
       "word": "王宝强要这么演我可不困了",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1743004160,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137731,
+      "num": 137731,
+      "word": "孟美岐你也没放过安崎",
+      "onboard_time": 1743068362,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 137684,
@@ -1552,6 +1600,14 @@
       "word": "金赛纶方发布会信息汇总",
       "onboard_time": 1743061822,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127018,
+      "num": 271433,
+      "word": "张馨予发体重记录",
+      "onboard_time": 1743066682,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1705,6 +1761,14 @@
       "onboard_time": 1743041540,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 115209,
+      "num": 275327,
+      "word": "丹宁高速水阳段桥梁垮塌灾害调查评估报告",
+      "onboard_time": 1743067462,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114570,
@@ -2019,6 +2083,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 84218,
+      "num": 209882,
+      "word": "14岁男孩为躲狗追被卷车底致截肢",
+      "onboard_time": 1743066682,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82545,
       "num": 82545,
       "word": "小学门口有学生搜身校方称自发行为",
@@ -2032,14 +2104,6 @@
       "word": "田曦薇小红裙进妆look",
       "onboard_time": 1742994442,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 79734,
-      "num": 229661,
-      "word": "张馨予发体重记录",
-      "onboard_time": 1743066682,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -2123,20 +2187,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71841,
-      "num": 205496,
-      "word": "14岁男孩为躲狗追被卷车底致截肢",
-      "onboard_time": 1743066682,
-      "rank": 28,
+      "raw_hot": 66268,
+      "num": 272553,
+      "word": "19名患者在村卫生室打针后感染",
+      "onboard_time": 1743065363,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69926,
-      "num": 201573,
-      "word": "丹宁高速水阳段桥梁垮塌灾害调查评估报告",
-      "onboard_time": 1743067462,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 64773,
+      "num": 270972,
+      "word": "王俊凯包场阳光照耀青春里",
+      "onboard_time": 1743067882,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 64294,
@@ -2601,6 +2665,22 @@
       "onboard_time": 1743031700,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 14995,
+      "num": 257917,
+      "word": "月刊少女野崎君想看第二季了",
+      "onboard_time": 1743067821,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 14768,
+      "num": 270003,
+      "word": "国足世预赛带动旅游消费3亿",
+      "onboard_time": 1743067702,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 13967,
