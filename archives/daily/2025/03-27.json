@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743050657787,
+  "endTime": 1743053046650,
   "band_list": [
     {
       "raw_hot": 2266951,
@@ -9,6 +9,22 @@
       "onboard_time": 1743040400,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2110502,
+      "num": 379308,
+      "word": "儿子给腰突父亲买40小时硬座票",
+      "onboard_time": 1743049462,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1841645,
+      "num": 315430,
+      "word": "金秀贤想抱着未成年的金赛纶睡觉",
+      "onboard_time": 1743052223,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1738712,
@@ -31,14 +47,6 @@
       "num": 434869,
       "word": "97年女生身高1.6米体重50斤",
       "onboard_time": 1743044720,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1164891,
-      "num": 379308,
-      "word": "儿子给腰突父亲买40小时硬座票",
-      "onboard_time": 1743049462,
       "rank": 30,
       "category": "民生新闻"
     },
@@ -73,6 +81,14 @@
       "onboard_time": 1743047722,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 926765,
+      "num": 926765,
+      "word": "于正 我从此不敢看观音",
+      "onboard_time": 1743051143,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 896762,
@@ -275,12 +291,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419247,
+      "num": 357262,
+      "word": "金莎孙丞潇吵架靠狗制止",
+      "onboard_time": 1743050183,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396248,
       "num": 396248,
       "word": "权志龙又染银发了",
       "onboard_time": 1743041060,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 383457,
+      "num": 348465,
+      "word": "赵雅芝72岁跑马拉松",
+      "onboard_time": 1743050363,
+      "rank": 19,
+      "category": "艺人,运动健身"
     },
     {
       "raw_hot": 379222,
@@ -329,6 +361,14 @@
       "onboard_time": 1743006798,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 350399,
+      "num": 308158,
+      "word": "百万网红自曝确诊多囊卵巢综合征",
+      "onboard_time": 1743051502,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 346938,
@@ -385,6 +425,14 @@
       "onboard_time": 1743005779,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288230,
+      "num": 288230,
+      "word": "你醒啦 现在是2008年",
+      "onboard_time": 1743051022,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 286418,
@@ -491,20 +539,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224219,
+      "num": 224219,
+      "word": "王俊凯邪恶叮当猫",
+      "onboard_time": 1743049523,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 215815,
       "num": 215815,
       "word": "刘晓庆短剧中演婆婆被儿媳台词震惊",
       "onboard_time": 1743032721,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215140,
-      "num": 215140,
-      "word": "王俊凯邪恶叮当猫",
-      "onboard_time": 1743049523,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 210455,
@@ -529,6 +577,14 @@
       "onboard_time": 1743046522,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207686,
+      "num": 207686,
+      "word": "辛云来 单麦王子",
+      "onboard_time": 1743050963,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 206531,
@@ -563,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197830,
+      "num": 197830,
+      "word": "胖东来回应胖都来",
+      "onboard_time": 1743051682,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194465,
       "num": 194465,
       "word": "食品安全对零添加的要求更严格了",
@@ -580,7 +644,7 @@
     },
     {
       "raw_hot": 189018,
-      "num": 220695,
+      "num": 278760,
       "word": "八项规定是共产党人应做到的基本要求",
       "onboard_time": 1743046941,
       "rank": 21,
@@ -619,11 +683,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181799,
+      "num": 181799,
+      "word": "盒子里的猫",
+      "onboard_time": 1743052342,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181367,
       "num": 181367,
       "word": "长沙多地发布雷雨大风蓝色预警",
       "onboard_time": 1743041300,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179097,
+      "num": 179097,
+      "word": "千禾回应不允许再使用零添加",
+      "onboard_time": 1743051924,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -643,6 +723,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174898,
+      "num": 285432,
+      "word": "王一博刘雨昕登MIV媒体影响力榜",
+      "onboard_time": 1743051743,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172992,
+      "num": 172992,
+      "word": "4名美军士兵在立陶宛失踪",
+      "onboard_time": 1743047122,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 171979,
       "num": 169404,
       "word": "不会做蛋糕也能开蛋糕店了",
@@ -659,14 +755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169308,
-      "num": 169308,
-      "word": "4名美军士兵在立陶宛失踪",
-      "onboard_time": 1743047122,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 168901,
       "num": 168901,
       "word": "明日方舟",
@@ -675,12 +763,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160013,
-      "num": 160013,
-      "word": "金莎孙丞潇吵架靠狗制止",
-      "onboard_time": 1743050183,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 165248,
+      "num": 165248,
+      "word": "陈都灵桃花写真",
+      "onboard_time": 1743051203,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 159942,
@@ -721,6 +809,14 @@
       "onboard_time": 1743045981,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155694,
+      "num": 155694,
+      "word": "李晟参加浪姐后瘦了10斤",
+      "onboard_time": 1743052822,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 155442,
@@ -803,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139816,
+      "num": 139816,
+      "word": "怎么都爱找赵丽颖拍现实主义",
+      "onboard_time": 1743052223,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139745,
       "num": 139745,
       "word": "马拉松职业私兔最高月入4万",
@@ -857,14 +961,6 @@
       "onboard_time": 1743048324,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129675,
-      "num": 253954,
-      "word": "赵雅芝72岁跑马拉松",
-      "onboard_time": 1743050363,
-      "rank": 19,
-      "category": "艺人,运动健身"
     },
     {
       "raw_hot": 129620,
@@ -928,6 +1024,30 @@
       "word": "刘学义念无双裸上身",
       "onboard_time": 1743040880,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123051,
+      "num": 244792,
+      "word": "吴艳妮积分首登亚洲第一",
+      "onboard_time": 1743051323,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122276,
+      "num": 122276,
+      "word": "第五人格七周年",
+      "onboard_time": 1743052822,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 121774,
+      "num": 121774,
+      "word": "双洁党",
+      "onboard_time": 1743052942,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1049,6 +1169,14 @@
       "onboard_time": 1743036142,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 107825,
+      "num": 112426,
+      "word": "胡润回应首富候选人提名雷军等",
+      "onboard_time": 1743051861,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 106874,
@@ -1291,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58951,
+      "num": 282612,
+      "word": "那些主动退学的博士生",
+      "onboard_time": 1743052041,
+      "rank": 19,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 58936,
       "num": 58936,
       "word": "晒工资条能泄漏什么核心机密呢",
@@ -1385,6 +1521,14 @@
       "onboard_time": 1743011835,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45928,
+      "num": 199205,
+      "word": "儿童断指事件后小鹏汽车升级防夹功能",
+      "onboard_time": 1743051502,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45698,
@@ -1579,7 +1723,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2710,
+      "raw_hot": 5681,
       "num": 1044827,
       "word": "万千气象看江苏",
       "onboard_time": 1742825783,
