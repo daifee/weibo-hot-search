@@ -1,6 +1,6 @@
 {
   "startTime": 1743006709925,
-  "endTime": 1743082393444,
+  "endTime": 1743083041349,
   "band_list": [
     {
       "raw_hot": 2838286,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 908393,
+      "num": 908393,
+      "word": "冰箱贴是年轻人的到此一游",
+      "onboard_time": 1743078622,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 896762,
       "num": 1143481,
       "word": "今年5月只用上19天班",
@@ -233,14 +241,6 @@
       "onboard_time": 1743051502,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 826367,
-      "num": 826367,
-      "word": "冰箱贴是年轻人的到此一游",
-      "onboard_time": 1743078622,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 769295,
@@ -371,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 581560,
+      "num": 581560,
+      "word": "舒马赫近乎植物人",
+      "onboard_time": 1743081261,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 576758,
       "num": 326980,
       "word": "短剧阵容这么顶了吗",
@@ -400,6 +408,14 @@
       "word": "成都沙尘暴",
       "onboard_time": 1743072259,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 539383,
+      "num": 316558,
+      "word": "医生连续六年下班卖小吃月入近2万",
+      "onboard_time": 1743079283,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -603,8 +619,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 401755,
-      "num": 340343,
+      "raw_hot": 404822,
+      "num": 404822,
       "word": "念无双 老年宣发",
       "onboard_time": 1743079403,
       "rank": 38,
@@ -641,6 +657,14 @@
       "onboard_time": 1743067581,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 379333,
+      "num": 379333,
+      "word": "赵露思生病前和家人几乎不联系",
+      "onboard_time": 1743078741,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 379222,
@@ -683,19 +707,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369351,
+      "num": 310236,
+      "word": "张馨予说管不住嘴就看钟楚曦",
+      "onboard_time": 1743080241,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368924,
       "num": 265847,
       "word": "酒店前台违规办房卡致女子被侵犯",
       "onboard_time": 1743061762,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 366091,
-      "num": 316558,
-      "word": "医生连续六年下班卖小吃月入近2万",
-      "onboard_time": 1743079283,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -720,14 +744,6 @@
       "word": "赵露思形容焦虑症的惊恐和高反一样",
       "onboard_time": 1743061581,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 349268,
-      "num": 314816,
-      "word": "赵露思生病前和家人几乎不联系",
-      "onboard_time": 1743078741,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -761,14 +777,6 @@
       "onboard_time": 1743063981,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341428,
-      "num": 341428,
-      "word": "舒马赫近乎植物人",
-      "onboard_time": 1743081261,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 339612,
@@ -875,14 +883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 275796,
-      "num": 310236,
-      "word": "张馨予说管不住嘴就看钟楚曦",
-      "onboard_time": 1743080241,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 275331,
       "num": 275331,
       "word": "丹宁高速桥梁垮43名公职人员被问责",
@@ -979,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242429,
+      "num": 242428,
+      "word": "吴宣仪赛前秀第一",
+      "onboard_time": 1743080422,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242382,
       "num": 222186,
       "word": "刘学义男妲己",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1742999663,
       "rank": 32,
       "category": "艺人,剧集"
-    },
-    {
-      "raw_hot": 227839,
-      "num": 227839,
-      "word": "吴宣仪赛前秀第一",
-      "onboard_time": 1743080422,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 227298,
@@ -1387,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181059,
+      "num": 181059,
+      "word": "王宝强新剧78秒8个假动作",
+      "onboard_time": 1743082822,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180365,
       "num": 180365,
       "word": "念无双热度",
@@ -1563,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159397,
+      "num": 159397,
+      "word": "雁回时热度",
+      "onboard_time": 1743079943,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158219,
       "num": 197103,
       "word": "樊振东棚拍花絮",
@@ -1659,6 +1675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153376,
+      "num": 153376,
+      "word": "my name is jeff 嘟嘟嘟嘟",
+      "onboard_time": 1743082703,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151868,
       "num": 151868,
       "word": "小小的勇气开播",
@@ -1681,6 +1705,14 @@
       "onboard_time": 1743066082,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151381,
+      "num": 333502,
+      "word": "接下来这波降温有多猛",
+      "onboard_time": 1743080122,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150351,
@@ -1923,8 +1955,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133186,
-      "num": 133186,
+      "raw_hot": 133896,
+      "num": 159540,
       "word": "王一博现身宁波国际赛道",
       "onboard_time": 1743081021,
       "rank": 37,
@@ -2057,6 +2089,14 @@
       "onboard_time": 1743070042,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125736,
+      "num": 125736,
+      "word": "蔡文静穿搭",
+      "onboard_time": 1743082581,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 125513,
@@ -2227,12 +2267,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115233,
+      "num": 180673,
+      "word": "国博C位冰箱贴原型禁止出境展览",
+      "onboard_time": 1743082763,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115209,
       "num": 275327,
       "word": "丹宁高速水阳段桥梁垮塌灾害调查评估报告",
       "onboard_time": 1743067462,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115068,
+      "num": 115068,
+      "word": "河北沧州发生2.8级地震",
+      "onboard_time": 1743082763,
+      "rank": 43,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 114570,
@@ -2273,6 +2329,14 @@
       "onboard_time": 1743061043,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111623,
+      "num": 111623,
+      "word": "秦岭这次没能挡住沙尘",
+      "onboard_time": 1743082581,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111592,
@@ -2353,6 +2417,14 @@
       "onboard_time": 1743058940,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109233,
+      "num": 109233,
+      "word": "TheShy对位单杀",
+      "onboard_time": 1743082883,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 108808,
@@ -2449,14 +2521,6 @@
       "onboard_time": 1743076341,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104780,
-      "num": 333502,
-      "word": "接下来这波降温有多猛",
-      "onboard_time": 1743080122,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103807,
@@ -2585,6 +2649,14 @@
       "onboard_time": 1742961921,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93185,
+      "num": 159445,
+      "word": "山东一任教31年教师临近退休突遭解聘",
+      "onboard_time": 1743081741,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93024,
@@ -2777,6 +2849,14 @@
       "onboard_time": 1743001643,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67764,
+      "num": 318774,
+      "word": "黑代孕称除北上广深都可办理出生证明",
+      "onboard_time": 1743081442,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 67712,
@@ -3140,7 +3220,7 @@
     },
     {
       "raw_hot": 34307,
-      "num": 879346,
+      "num": 920664,
       "word": "12届中国网络视听大会开幕",
       "onboard_time": 1743069563,
       "rank": 2,
@@ -3161,14 +3241,6 @@
       "onboard_time": 1743000983,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32860,
-      "num": 154217,
-      "word": "山东一任教31年教师临近退休突遭解聘",
-      "onboard_time": 1743081741,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32639,
@@ -3227,14 +3299,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 29604,
-      "num": 318774,
-      "word": "黑代孕称除北上广深都可办理出生证明",
-      "onboard_time": 1743081442,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 29273,
       "num": 158024,
       "word": "天坛奖入围影片名单",
@@ -3257,6 +3321,14 @@
       "onboard_time": 1743031940,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25476,
+      "num": 242429,
+      "word": "派出所回应银行门口疑似有人抢钱",
+      "onboard_time": 1743082283,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25056,
@@ -3393,14 +3465,6 @@
       "onboard_time": 1743013574,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9988,
-      "num": 153789,
-      "word": "派出所回应银行门口疑似有人抢钱",
-      "onboard_time": 1743082283,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9437,
