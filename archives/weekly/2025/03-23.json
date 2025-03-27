@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743032230625,
+  "endTime": 1743040178938,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -916,7 +916,7 @@
     },
     {
       "raw_hot": 853562,
-      "num": 214683,
+      "num": 295968,
       "word": "张檬自曝孕35周臀位绕颈",
       "onboard_time": 1743000382,
       "rank": 21,
@@ -1803,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 533026,
+      "num": 295208,
+      "word": "雷军回母校遭遇两级反转",
+      "onboard_time": 1743037641,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 531270,
       "num": 398619,
       "word": "韩安冉妈妈为亲家母发声",
@@ -1840,6 +1848,14 @@
       "word": "拔牙坠楼身亡女子家属最新发声",
       "onboard_time": 1743001042,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 523986,
+      "num": 1083837,
+      "word": "找17岁女孩代孕男子生气信息被泄漏",
+      "onboard_time": 1743038420,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -2099,6 +2115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 480239,
+      "num": 292416,
+      "word": "金赛纶挚友曝金秀贤出轨",
+      "onboard_time": 1743032421,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479346,
       "num": 479346,
       "word": "西湖2亿人1亿在太子湾",
@@ -2193,6 +2217,14 @@
       "onboard_time": 1742733442,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 458512,
+      "num": 458512,
+      "word": "特朗普宣布对进口汽车征收25%关税",
+      "onboard_time": 1743031758,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 457906,
@@ -2440,6 +2472,14 @@
       "word": "博士生月薪1500元系印刷错误",
       "onboard_time": 1742899041,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419837,
+      "num": 419837,
+      "word": "001号龙标给了河南台",
+      "onboard_time": 1743036201,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -2723,6 +2763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 379222,
+      "num": 288031,
+      "word": "于正狂赞赵晴绝世容颜",
+      "onboard_time": 1743032779,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378458,
       "num": 378458,
       "word": "坠亡女童生母称保姆女儿步步紧逼",
@@ -2737,6 +2785,14 @@
       "onboard_time": 1742794043,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377852,
+      "num": 377852,
+      "word": "51岁男子找17岁女孩代孕前已离异",
+      "onboard_time": 1743036922,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 376797,
@@ -3115,6 +3171,14 @@
       "category": "民生新闻,民生新闻"
     },
     {
+      "raw_hot": 332781,
+      "num": 285796,
+      "word": "马拉松亲密事件拍摄者再发声",
+      "onboard_time": 1743038480,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332326,
       "num": 332326,
       "word": "北京有震感我被震醒了",
@@ -3288,6 +3352,14 @@
       "word": "网传李昀锐张艺凡合作耀眼",
       "onboard_time": 1742728341,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 318043,
+      "num": 318043,
+      "word": "陈都灵辛云来房车合体",
+      "onboard_time": 1743037161,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -3625,6 +3697,14 @@
       "onboard_time": 1742647401,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 285656,
+      "num": 285656,
+      "word": "赵丽颖模仿孙悟空海边奔跑",
+      "onboard_time": 1743036862,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 285610,
@@ -4691,6 +4771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215815,
+      "num": 215815,
+      "word": "刘晓庆短剧中演婆婆被儿媳台词震惊",
+      "onboard_time": 1743032721,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215699,
       "num": 215699,
       "word": "雷军回应发100万奖学金",
@@ -5129,6 +5217,14 @@
       "onboard_time": 1742949504,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202681,
+      "num": 299930,
+      "word": "50项食品安全国家标准发布",
+      "onboard_time": 1743039322,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202513,
@@ -5579,6 +5675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191033,
+      "num": 191033,
+      "word": "韩安冉妈妈回应女儿参加变形记",
+      "onboard_time": 1743039681,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190900,
       "num": 245329,
       "word": "浪姐6蒋一侨唱哭吴宣仪",
@@ -5889,6 +5993,14 @@
       "onboard_time": 1742726122,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182615,
+      "num": 182615,
+      "word": "预包装食品可自愿标示消费保存期",
+      "onboard_time": 1743039080,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182155,
@@ -6859,6 +6971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158484,
+      "num": 158484,
+      "word": "画江湖之不良人",
+      "onboard_time": 1743035902,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 158440,
       "num": 158440,
       "word": "秦彻 喧嚣时速",
@@ -6905,6 +7025,14 @@
       "onboard_time": 1742905821,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 157038,
+      "num": 157038,
+      "word": "哈马斯发言人遭轰炸身亡",
+      "onboard_time": 1743036201,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156971,
@@ -7033,6 +7161,14 @@
       "onboard_time": 1742885962,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154915,
+      "num": 154915,
+      "word": "金秀贤知道金赛纶的一切",
+      "onboard_time": 1743032599,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 154896,
@@ -7427,6 +7563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148084,
+      "num": 148084,
+      "word": "中央气象台5个预警齐发",
+      "onboard_time": 1743038000,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148021,
       "num": 148021,
       "word": "唐嫣蓝眼影",
@@ -7467,6 +7611,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 147814,
+      "num": 290857,
+      "word": "美涉密群聊拉错人事件持续发酵",
+      "onboard_time": 1743036201,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147734,
       "num": 196730,
       "word": "如何看待无效劝阻餐馆二手烟事件频发",
@@ -7489,6 +7641,14 @@
       "onboard_time": 1743001223,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147289,
+      "num": 147289,
+      "word": "北大教授谈北大和清华学生区别",
+      "onboard_time": 1743032300,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 146931,
@@ -7849,6 +8009,14 @@
       "onboard_time": 1742733442,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139745,
+      "num": 139745,
+      "word": "马拉松职业私兔最高月入4万",
+      "onboard_time": 1743031518,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 139695,
@@ -8859,6 +9027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124369,
+      "num": 124369,
+      "word": "Uzi起诉RNG",
+      "onboard_time": 1743032240,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124338,
       "num": 124338,
       "word": "陆虎没有谁能拆散我的好朋友",
@@ -9121,6 +9297,14 @@
       "onboard_time": 1742887702,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120621,
+      "num": 120621,
+      "word": "每个人都有属于自己的花期",
+      "onboard_time": 1743037341,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 120619,
@@ -9579,6 +9763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112957,
+      "num": 147292,
+      "word": "李晟唱功",
+      "onboard_time": 1743038180,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112675,
       "num": 112675,
       "word": "叶诗文100米蛙金牌",
@@ -9601,6 +9793,14 @@
       "onboard_time": 1742706740,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112249,
+      "num": 112249,
+      "word": "福宝上演空中一字马",
+      "onboard_time": 1743038480,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112132,
@@ -9867,12 +10067,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108808,
+      "num": 108808,
+      "word": "莲花味精被传穷得只剩1栋办公楼",
+      "onboard_time": 1743032721,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108522,
       "num": 108522,
       "word": "谁懂成毅最后一幕的眼神戏",
       "onboard_time": 1742971820,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108343,
+      "num": 108343,
+      "word": "天链二号04星发射成功",
+      "onboard_time": 1743032179,
+      "rank": 38,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 108340,
@@ -9921,6 +10137,14 @@
       "onboard_time": 1742793563,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108008,
+      "num": 147290,
+      "word": "B站网红大祥哥被骗1249万",
+      "onboard_time": 1743036142,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 107968,
@@ -10739,12 +10963,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 95745,
+      "num": 95745,
+      "word": "教育局回应小学校门口有学生搜身",
+      "onboard_time": 1743039800,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95590,
       "num": 95590,
       "word": "4个动作教你降糖减脂",
       "onboard_time": 1742823022,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 95383,
+      "num": 121611,
+      "word": "杨超越马里奥造型",
+      "onboard_time": 1743037221,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 95270,
@@ -11187,12 +11427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82720,
+      "num": 82720,
+      "word": "迪丽热巴海边六宫格",
+      "onboard_time": 1743039981,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 82558,
       "num": 82558,
       "word": "陈雨菲瑞士赛女单冠军",
       "onboard_time": 1742747658,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82545,
+      "num": 82545,
+      "word": "小学门口有学生搜身校方称自发行为",
+      "onboard_time": 1743036982,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81868,
@@ -11339,12 +11595,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77794,
+      "num": 77794,
+      "word": "专家称把钱给到位了自然有人消费",
+      "onboard_time": 1743037821,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 77414,
+      "num": 77414,
+      "word": "A勒布伦手部受伤",
+      "onboard_time": 1743037940,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77380,
       "num": 85012,
       "word": "刘耀文新歌",
       "onboard_time": 1742772079,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 77207,
+      "num": 77207,
+      "word": "水瓶座的断崖式失联",
+      "onboard_time": 1743032360,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 76789,
@@ -11361,6 +11641,14 @@
       "onboard_time": 1742662639,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 76268,
+      "num": 76268,
+      "word": "Zdz状态",
+      "onboard_time": 1743040100,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 75877,
@@ -12427,14 +12715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49403,
-      "num": 49403,
-      "word": "天链二号04星发射成功",
-      "onboard_time": 1743032179,
-      "rank": 38,
-      "category": "国内时政,国际时政"
-    },
-    {
       "raw_hot": 49072,
       "num": 258982,
       "word": "94%受访者支持食安犯罪最高判死刑",
@@ -12595,14 +12875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44297,
-      "num": 44297,
-      "word": "马拉松职业私兔最高月入4万",
-      "onboard_time": 1743031518,
-      "rank": 42,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 44171,
       "num": 284826,
       "word": "德国3比3意大利",
@@ -12633,6 +12905,14 @@
       "onboard_time": 1742685977,
       "rank": 35,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 43677,
+      "num": 141036,
+      "word": "伊万将对两场国足比赛进行总结",
+      "onboard_time": 1743040041,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 43539,
@@ -12825,14 +13105,6 @@
       "onboard_time": 1742871141,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 40955,
-      "num": 189207,
-      "word": "特朗普宣布对进口汽车征收25%关税",
-      "onboard_time": 1743031758,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 40913,
