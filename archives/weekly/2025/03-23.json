@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743074426116,
+  "endTime": 1743075399003,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1530127,
+      "num": 1530127,
+      "word": "谢霆锋的烤肠卖了15亿元",
+      "onboard_time": 1743070701,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1510340,
       "num": 1510340,
       "word": "饺子票房破200亿",
@@ -528,14 +536,6 @@
       "word": "李晟李佳航",
       "onboard_time": 1742915003,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1384366,
-      "num": 1384366,
-      "word": "谢霆锋的烤肠卖了15亿元",
-      "onboard_time": 1743070701,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -899,6 +899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 979064,
+      "num": 209771,
+      "word": "又一批马拉松亲密事件照外泄",
+      "onboard_time": 1743069081,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 973870,
       "num": 1142140,
       "word": "芒果TV调整会员同时使用设备数",
@@ -953,14 +961,6 @@
       "onboard_time": 1743003022,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 946202,
-      "num": 209771,
-      "word": "又一批马拉松亲密事件照外泄",
-      "onboard_time": 1743069081,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 945289,
@@ -2059,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 542254,
+      "num": 542254,
+      "word": "成都沙尘暴",
+      "onboard_time": 1743072259,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 541134,
       "num": 388714,
       "word": "陶昕然曾给老公打电话大哭",
@@ -2537,14 +2545,6 @@
       "onboard_time": 1742816723,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 471902,
-      "num": 471902,
-      "word": "成都沙尘暴",
-      "onboard_time": 1743072259,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 467850,
@@ -3073,6 +3073,14 @@
       "onboard_time": 1742785641,
       "rank": 9,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 398359,
+      "num": 398359,
+      "word": "阮惜文下线",
+      "onboard_time": 1743074602,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 398252,
@@ -3947,6 +3955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306876,
+      "num": 208397,
+      "word": "嫁反派",
+      "onboard_time": 1743073642,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306236,
       "num": 194990,
       "word": "早睡真能解决身体80%以上的问题",
@@ -4113,6 +4129,14 @@
       "onboard_time": 1742954481,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292355,
+      "num": 173235,
+      "word": "念无双",
+      "onboard_time": 1743041420,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 291808,
@@ -5091,6 +5115,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 233328,
+      "num": 197607,
+      "word": "IU权志龙再唱Palette",
+      "onboard_time": 1743073761,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 233187,
       "num": 233187,
       "word": "向佐锅盖头卷发",
@@ -5249,14 +5281,6 @@
       "onboard_time": 1742885183,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225851,
-      "num": 197607,
-      "word": "IU权志龙再唱Palette",
-      "onboard_time": 1743073761,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 225720,
@@ -6123,6 +6147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200009,
+      "num": 159140,
+      "word": "李晟为什么爆火出圈",
+      "onboard_time": 1743071480,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199768,
       "num": 199768,
       "word": "赵丽颖怒目海报",
@@ -6241,6 +6273,14 @@
       "onboard_time": 1742703081,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196590,
+      "num": 209633,
+      "word": "羽衣甘蓝奶茶或热量超标",
+      "onboard_time": 1743070101,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 196580,
@@ -6563,14 +6603,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 188923,
-      "num": 188923,
-      "word": "嫁反派",
-      "onboard_time": 1743073642,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188865,
       "num": 188865,
       "word": "京东回应外卖日单量突破百万",
@@ -6795,20 +6827,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185051,
-      "num": 148456,
-      "word": "李晟为什么爆火出圈",
-      "onboard_time": 1743071480,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184350,
       "num": 356993,
       "word": "辽宁省人民医院被警告",
       "onboard_time": 1742977221,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183970,
+      "num": 183970,
+      "word": "国防部批驳七国集团",
+      "onboard_time": 1743074242,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 183903,
@@ -7481,6 +7513,14 @@
       "onboard_time": 1743064823,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166336,
+      "num": 199157,
+      "word": "日本环球影城偶遇吴磊",
+      "onboard_time": 1743073342,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 166271,
@@ -8875,6 +8915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143985,
+      "num": 143985,
+      "word": "念无双包场",
+      "onboard_time": 1743074842,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143982,
       "num": 143982,
       "word": "马云邓文迪章泽天等现身香港",
@@ -8905,6 +8953,14 @@
       "onboard_time": 1742917042,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143160,
+      "num": 143160,
+      "word": "SM新男团练习生公开账号",
+      "onboard_time": 1743074480,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 143064,
@@ -9563,14 +9619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134960,
-      "num": 209633,
-      "word": "羽衣甘蓝奶茶或热量超标",
-      "onboard_time": 1743070101,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 134948,
       "num": 170994,
       "word": "段奕宏哭戏破碎感",
@@ -10027,6 +10075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128426,
+      "num": 163512,
+      "word": "台独分子想玩火就别想跑",
+      "onboard_time": 1743069262,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 128351,
       "num": 138910,
       "word": "塞尔吉尼奥爆射被扑",
@@ -10339,14 +10395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124453,
-      "num": 124453,
-      "word": "国防部批驳七国集团",
-      "onboard_time": 1743074242,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 124449,
       "num": 111275,
       "word": "庄寒雁掌家",
@@ -10417,14 +10465,6 @@
       "onboard_time": 1742794344,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 123687,
-      "num": 163512,
-      "word": "台独分子想玩火就别想跑",
-      "onboard_time": 1743069262,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 123542,
@@ -11235,6 +11275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113698,
+      "num": 113698,
+      "word": "孟子义李昀锐校园风造型",
+      "onboard_time": 1743072500,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113605,
       "num": 113605,
       "word": "嘘国王在冬眠",
@@ -11723,6 +11771,14 @@
       "category": "旅游,教育"
     },
     {
+      "raw_hot": 107934,
+      "num": 107934,
+      "word": "苹果电影模式 大疆效果",
+      "onboard_time": 1743072141,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 107844,
       "num": 107844,
       "word": "iOS19或为圆角玻璃风",
@@ -11881,6 +11937,14 @@
       "onboard_time": 1742836396,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106562,
+      "num": 106562,
+      "word": "李子璇说被一个叫舞台的渣男甩了",
+      "onboard_time": 1743075021,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 106506,
@@ -12195,6 +12259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101509,
+      "num": 101509,
+      "word": "老人坚称取钱不会被骗民警气成陀螺",
+      "onboard_time": 1743074900,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101427,
       "num": 101427,
       "word": "河北震感",
@@ -12225,14 +12297,6 @@
       "onboard_time": 1742998043,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 100734,
-      "num": 100734,
-      "word": "苹果电影模式 大疆效果",
-      "onboard_time": 1743072141,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 100668,
@@ -12379,14 +12443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 99546,
-      "num": 99546,
-      "word": "孟子义李昀锐校园风造型",
-      "onboard_time": 1743072500,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99430,
       "num": 99430,
       "word": "公牛31分大胜湖人",
@@ -12427,20 +12483,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 98752,
-      "num": 98752,
-      "word": "念无双",
-      "onboard_time": 1743041420,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 98740,
       "num": 98740,
       "word": "一笙两分钟教你学会空空儿",
       "onboard_time": 1742984001,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98731,
+      "num": 98731,
+      "word": "山西午睡文化",
+      "onboard_time": 1743075021,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 98649,
@@ -12665,6 +12721,14 @@
       "onboard_time": 1742929395,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94846,
+      "num": 94846,
+      "word": "于正谈爆剧又爆人",
+      "onboard_time": 1743075261,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 94665,
@@ -14203,14 +14267,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 58429,
-      "num": 199157,
-      "word": "日本环球影城偶遇吴磊",
-      "onboard_time": 1743073342,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 58333,
       "num": 58333,
       "word": "下一个台风",
@@ -15705,6 +15761,14 @@
       "onboard_time": 1742872041,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28964,
+      "num": 143163,
+      "word": "夏目友人帐绝美一幕",
+      "onboard_time": 1743074421,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 28920,
