@@ -1,0 +1,410 @@
+{
+  "runTime": 1743057199995,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1192759,
+        "num": 1192759,
+        "word": "于正 我从此不敢看观音",
+        "onboard_time": 1743051143,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 915275,
+        "num": 915275,
+        "word": "爸爸去世女儿被判和4个姑姑平分遗产",
+        "onboard_time": 1743056242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4833,
+        "num": 756878,
+        "word": "万千气象看江苏",
+        "onboard_time": 1742825783,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1081719,
+        "num": 752744,
+        "word": "赵露思生病前每天只睡2小时",
+        "onboard_time": 1743053963,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 690683,
+        "num": 690683,
+        "word": "香飘飘奶茶涨价至16元一杯",
+        "onboard_time": 1743047722,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 586195,
+        "num": 586195,
+        "word": "你醒啦 现在是2008年",
+        "onboard_time": 1743051022,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 863978,
+        "num": 548250,
+        "word": "黄圣依回应和张凌赫共用一张脸",
+        "onboard_time": 1743056180,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402920,
+        "num": 402920,
+        "word": "小米的mi倒过来就是仙桃的仙",
+        "onboard_time": 1743044840,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289438,
+        "num": 289438,
+        "word": "今年5月只用上19天班",
+        "onboard_time": 1743040460,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220876,
+        "num": 288468,
+        "word": "不允许再使用零添加等用语",
+        "onboard_time": 1743040340,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2075296,
+        "num": 286978,
+        "word": "金秀贤想抱着未成年的金赛纶睡觉",
+        "onboard_time": 1743052223,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1207137,
+        "num": 283310,
+        "word": "儿子给腰突父亲买40小时硬座票",
+        "onboard_time": 1743049462,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510232,
+        "num": 281176,
+        "word": "双洁党",
+        "onboard_time": 1743052942,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155131,
+        "num": 279516,
+        "word": "2人身绑28只活体龟入境",
+        "onboard_time": 1743055641,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30554,
+        "num": 278596,
+        "word": "17岁女孩代孕医院曾被罚300多万",
+        "onboard_time": 1743056361,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500236,
+        "num": 276850,
+        "word": "金秀贤金赛纶2016年聊天记录",
+        "onboard_time": 1743053300,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450926,
+        "num": 273817,
+        "word": "黄圣依说录制再见爱人很真实",
+        "onboard_time": 1743053300,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450311,
+        "num": 270929,
+        "word": "97年女生身高1.6米体重50斤",
+        "onboard_time": 1743044720,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29714,
+        "num": 268651,
+        "word": "刘雯VOGUE四月刊封面",
+        "onboard_time": 1743056361,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20588,
+        "num": 267084,
+        "word": "男子有6次抢劫前科又当街作案",
+        "onboard_time": 1743056480,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 655954,
+        "num": 265517,
+        "word": "百万网红自曝确诊多囊卵巢综合征",
+        "onboard_time": 1743051502,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 367966,
+        "num": 264335,
+        "word": "被擦妆5次艺考生被中国传媒大学录取",
+        "onboard_time": 1743040400,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179179,
+        "num": 261730,
+        "word": "理想开源汽车操作系统",
+        "onboard_time": 1743053300,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 260293,
+        "num": 260293,
+        "word": "小S把粉丝送的礼物珍藏十年",
+        "onboard_time": 1743056480,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238263,
+        "num": 238263,
+        "word": "凤凰传奇曾毅勇闯电影圈",
+        "onboard_time": 1743053963,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210357,
+        "num": 210357,
+        "word": "李佳航对李晟一见钟情",
+        "onboard_time": 1743043101,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147622,
+        "num": 208543,
+        "word": "智搜预测未来中国首富",
+        "onboard_time": 1743056900,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208281,
+        "num": 208281,
+        "word": "黄奕惹到王俊凯算是踢到铁板了",
+        "onboard_time": 1743056721,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171815,
+        "num": 171815,
+        "word": "赵雅芝72岁跑马拉松",
+        "onboard_time": 1743050363,
+        "rank": 28,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 108251,
+        "num": 171336,
+        "word": "电动车标成新型烟卡",
+        "onboard_time": 1743055941,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170983,
+        "num": 170983,
+        "word": "看得出蓝盈莹是畲族公主",
+        "onboard_time": 1743047481,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168265,
+        "num": 168265,
+        "word": "见到这种草莓熊瓶子请立刻报警",
+        "onboard_time": 1743044241,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166252,
+        "num": 166252,
+        "word": "金莎孙丞潇吵架靠狗制止",
+        "onboard_time": 1743050183,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121037,
+        "num": 157400,
+        "word": "女人别总说对不起",
+        "onboard_time": 1743056721,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156020,
+        "num": 156020,
+        "word": "胖东来回应胖都来",
+        "onboard_time": 1743051682,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153550,
+        "num": 153550,
+        "word": "孟美岐回应千万直拍",
+        "onboard_time": 1743053483,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145847,
+        "num": 145847,
+        "word": "Doinb确定明年不打LPL",
+        "onboard_time": 1743053241,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127292,
+        "num": 127292,
+        "word": "杨紫国色芳华琼台玉露照进现实",
+        "onboard_time": 1743048982,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118540,
+        "num": 118540,
+        "word": "胖东来4月10日起施行实名结账",
+        "onboard_time": 1743055041,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116072,
+        "num": 116072,
+        "word": "全球资金持续流入中国",
+        "onboard_time": 1743056122,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101728,
+        "num": 110904,
+        "word": "王宝强要这么演我可不困了",
+        "onboard_time": 1743056961,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110224,
+        "num": 110224,
+        "word": "吴艳妮积分首登亚洲第一",
+        "onboard_time": 1743051323,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109760,
+        "num": 109760,
+        "word": "辛云来 单麦王子",
+        "onboard_time": 1743050963,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103358,
+        "num": 103358,
+        "word": "孟子义李昀锐跑男路透",
+        "onboard_time": 1743046040,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102950,
+        "num": 102950,
+        "word": "消息称谷歌将停止Android开源项目",
+        "onboard_time": 1743057142,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102162,
+        "num": 102162,
+        "word": "王安宇王玉雯新剧18年爱情长跑",
+        "onboard_time": 1743053241,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96240,
+        "num": 96240,
+        "word": "魏大勋小小的侦探脾气爆",
+        "onboard_time": 1743056302,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96097,
+        "num": 96097,
+        "word": "寒潮带来新一轮气温满减",
+        "onboard_time": 1743053300,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95663,
+        "num": 95663,
+        "word": "班主任希望减少对漂流小孩哥的打扰",
+        "onboard_time": 1743053421,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95349,
+        "num": 95349,
+        "word": "刘耀文Chapter03",
+        "onboard_time": 1743057023,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#八项规定深刻改变中国#"
+    }
+  }
+}
