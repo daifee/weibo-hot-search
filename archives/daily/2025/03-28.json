@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743146645392,
+  "endTime": 1743147427997,
   "band_list": [
     {
       "raw_hot": 15554018,
@@ -235,6 +235,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 641053,
+      "num": 641053,
+      "word": "保安帮业主关窗在保温杯内小便",
+      "onboard_time": 1743142461,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 640949,
       "num": 298821,
       "word": "任志达和妻子在外吃饭遭遇咸猪手",
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 604339,
+      "num": 604339,
+      "word": "南宁震感",
+      "onboard_time": 1743145043,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 577805,
       "num": 577805,
       "word": "浪姐一公",
@@ -259,12 +275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 577713,
-      "num": 577713,
-      "word": "南宁震感",
-      "onboard_time": 1743145043,
-      "rank": 8,
-      "category": "突发/灾害"
+      "raw_hot": 535274,
+      "num": 535274,
+      "word": "韩庚女儿接电话先要爸爸",
+      "onboard_time": 1743145584,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 501197,
@@ -283,28 +299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 485419,
-      "num": 485419,
-      "word": "韩庚女儿接电话先要爸爸",
-      "onboard_time": 1743145584,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 480107,
       "num": 480107,
       "word": "金价",
       "onboard_time": 1743076161,
       "rank": 3,
       "category": "财经"
-    },
-    {
-      "raw_hot": 473367,
-      "num": 473367,
-      "word": "保安帮业主关窗在保温杯内小便",
-      "onboard_time": 1743142461,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 457451,
@@ -361,6 +361,14 @@
       "onboard_time": 1743111133,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 388090,
+      "num": 610149,
+      "word": "缅甸又发生6.4级地震",
+      "onboard_time": 1743146784,
+      "rank": 12,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 372288,
@@ -425,6 +433,14 @@
       "onboard_time": 1743124521,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 322304,
+      "num": 701625,
+      "word": "高空泳池地震时变瀑布",
+      "onboard_time": 1743145826,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 319811,
@@ -587,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267856,
+      "num": 267856,
+      "word": "吴宣仪cha了李羲承进行曲",
+      "onboard_time": 1743145944,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264393,
       "num": 264393,
       "word": "侧卧睡觉两腿间最好夹个枕头",
@@ -617,6 +641,22 @@
       "onboard_time": 1743129500,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255469,
+      "num": 255469,
+      "word": "全球今年以来最大的地震",
+      "onboard_time": 1743146843,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 253189,
+      "num": 246024,
+      "word": "侯佩岑组第一",
+      "onboard_time": 1743144304,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 251471,
@@ -659,12 +699,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243866,
+      "num": 243866,
+      "word": "燕云十六声补偿",
+      "onboard_time": 1743145043,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235723,
       "num": 172075,
       "word": "吴宣仪把浪姐当做倒数的舞台",
       "onboard_time": 1743138263,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234014,
+      "num": 605363,
+      "word": "瑞丽一高楼受地震影响掉砖石",
+      "onboard_time": 1743146304,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233860,
@@ -689,14 +745,6 @@
       "onboard_time": 1743141561,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224421,
-      "num": 224421,
-      "word": "侯佩岑组第一",
-      "onboard_time": 1743144304,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 223741,
@@ -761,14 +809,6 @@
       "onboard_time": 1743131900,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213731,
-      "num": 213731,
-      "word": "燕云十六声补偿",
-      "onboard_time": 1743145043,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 211826,
@@ -955,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190882,
+      "num": 190882,
+      "word": "泰国震感明显行人街头逃窜",
+      "onboard_time": 1743145883,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 190197,
       "num": 241959,
       "word": "希林娜依高反差感造型",
@@ -987,6 +1035,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 186104,
+      "num": 186104,
+      "word": "中国可控核聚变技术再突破",
+      "onboard_time": 1743146064,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 185363,
       "num": 179847,
       "word": "王俊凯太有节目了",
@@ -1004,7 +1060,7 @@
     },
     {
       "raw_hot": 183486,
-      "num": 214900,
+      "num": 254190,
       "word": "燕云十六声问题修复仍未完成",
       "onboard_time": 1743143964,
       "rank": 39,
@@ -1035,6 +1091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 179943,
+      "num": 179943,
+      "word": "下雪",
+      "onboard_time": 1743146184,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179880,
       "num": 201317,
       "word": "动画还原船长公海被杀抛尸",
@@ -1051,12 +1115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176256,
-      "num": 176256,
-      "word": "瑞丽一高楼受地震影响掉砖石",
-      "onboard_time": 1743146304,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 178720,
+      "num": 178720,
+      "word": "西安震感",
+      "onboard_time": 1743147324,
+      "rank": 43,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 176025,
@@ -1083,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171151,
+      "num": 171151,
+      "word": "张继科没拿过全运会男单冠军",
+      "onboard_time": 1743145224,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171071,
       "num": 171071,
       "word": "未定事件簿",
@@ -1099,14 +1171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166115,
-      "num": 166115,
-      "word": "吴宣仪cha了李羲承进行曲",
-      "onboard_time": 1743145944,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166074,
       "num": 146670,
       "word": "王嘉尔直播庆生party",
@@ -1121,22 +1185,6 @@
       "onboard_time": 1743137782,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163708,
-      "num": 163708,
-      "word": "中国可控核聚变技术再突破",
-      "onboard_time": 1743146064,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 160284,
-      "num": 160284,
-      "word": "下雪",
-      "onboard_time": 1743146184,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158759,
@@ -1219,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149145,
+      "num": 149145,
+      "word": "微信不再需要逐条长按翻译",
+      "onboard_time": 1743145464,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 149030,
       "num": 149030,
       "word": "林更新扮美人鱼尴尬的是赵又廷",
@@ -1251,12 +1307,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 145598,
-      "num": 145598,
-      "word": "张继科没拿过全运会男单冠军",
-      "onboard_time": 1743145224,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 145932,
+      "num": 179782,
+      "word": "曼谷一在建高楼地震中坍塌",
+      "onboard_time": 1743147384,
+      "rank": 41,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 143658,
@@ -1395,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123415,
+      "num": 244065,
+      "word": "一医院招病人演员要求演技在线",
+      "onboard_time": 1743145765,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122462,
       "num": 230308,
       "word": "药店为KPI求药贩子来套医保",
@@ -1459,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115694,
+      "num": 244316,
+      "word": "张继科问黑龙江男队要不要人",
+      "onboard_time": 1743147263,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115226,
       "num": 115226,
       "word": "4岁双胞胎捐髓救妈妈",
@@ -1481,14 +1553,6 @@
       "onboard_time": 1743140062,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 113654,
-      "num": 320815,
-      "word": "高空泳池地震时变瀑布",
-      "onboard_time": 1743145826,
-      "rank": 14,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 113040,
@@ -1545,6 +1609,14 @@
       "onboard_time": 1743084262,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101450,
+      "num": 689754,
+      "word": "云南瑞丽有人受伤",
+      "onboard_time": 1743146665,
+      "rank": 8,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 101056,
@@ -1619,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92367,
+      "num": 678279,
+      "word": "缅甸附近地震不会对我国沿岸造成影响",
+      "onboard_time": 1743146425,
+      "rank": 27,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 91467,
       "num": 91467,
       "word": "焦虑型依恋人格",
@@ -1641,14 +1721,6 @@
       "onboard_time": 1743132200,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 90892,
-      "num": 199545,
-      "word": "一医院招病人演员要求演技在线",
-      "onboard_time": 1743145765,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89916,
@@ -1948,7 +2020,7 @@
     },
     {
       "raw_hot": 64510,
-      "num": 133500,
+      "num": 181306,
       "word": "看贾冰吃烧烤超爽啊",
       "onboard_time": 1743146005,
       "rank": 49,
@@ -2115,14 +2187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40967,
-      "num": 200667,
-      "word": "缅甸附近地震不会对我国沿岸造成影响",
-      "onboard_time": 1743146425,
-      "rank": 27,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 39276,
       "num": 39276,
       "word": "羽衣甘蓝奶茶减肥是智商税",
@@ -2155,12 +2219,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36857,
-      "num": 163964,
-      "word": "泰国震感明显行人街头逃窜",
-      "onboard_time": 1743145883,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 37403,
+      "num": 217444,
+      "word": "Gucci选男明星眼光",
+      "onboard_time": 1743145584,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 36592,
+      "num": 604678,
+      "word": "90后代祭扫基础套餐定价300元",
+      "onboard_time": 1743146485,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33891,
@@ -2212,7 +2284,7 @@
     },
     {
       "raw_hot": 26902,
-      "num": 2782290,
+      "num": 3579181,
       "word": "春日经济花样缤纷活力迸发",
       "onboard_time": 1743137123,
       "rank": 2,
@@ -2241,14 +2313,6 @@
       "onboard_time": 1743096855,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25538,
-      "num": 198158,
-      "word": "Gucci选男明星眼光",
-      "onboard_time": 1743145584,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 23748,
@@ -2305,14 +2369,6 @@
       "onboard_time": 1743098955,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18137,
-      "num": 199532,
-      "word": "90后代祭扫基础套餐定价300元",
-      "onboard_time": 1743146485,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17501,
