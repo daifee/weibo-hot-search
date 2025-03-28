@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743204194456,
+  "endTime": 1743205046582,
   "band_list": [
     {
       "raw_hot": 1473239,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324248,
+      "num": 324248,
+      "word": "高校教师被曝出轨学生被停职调查",
+      "onboard_time": 1743169884,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315902,
       "num": 315902,
       "word": "亲姐妹借腹生子反悔起诉争抚养权",
@@ -153,14 +161,6 @@
       "onboard_time": 1743171264,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297557,
-      "num": 297557,
-      "word": "高校教师被曝出轨学生被停职调查",
-      "onboard_time": 1743169884,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 265208,
@@ -187,8 +187,16 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 214739,
-      "num": 214739,
+      "raw_hot": 235179,
+      "num": 169240,
+      "word": "门童成员发文",
+      "onboard_time": 1743203959,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 233556,
+      "num": 233556,
       "word": "未来高层住宅或将越来越少",
       "onboard_time": 1743173724,
       "rank": 29,
@@ -219,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172837,
+      "num": 184425,
+      "word": "气温为啥这么癫",
+      "onboard_time": 1743192854,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170578,
       "num": 170578,
       "word": "缅甸华人称今晚扛垫子睡路边",
@@ -233,6 +249,14 @@
       "onboard_time": 1743148526,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167089,
+      "num": 167089,
+      "word": "乘客呼吸困难说出碱字地铁员工秒懂",
+      "onboard_time": 1743156263,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 164531,
@@ -283,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144699,
-      "num": 184425,
-      "word": "气温为啥这么癫",
-      "onboard_time": 1743192854,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143165,
       "num": 143165,
       "word": "缅甸地震云南建筑晃动扬起巨大灰尘",
@@ -315,12 +331,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 131822,
-      "num": 131822,
-      "word": "乘客呼吸困难说出碱字地铁员工秒懂",
-      "onboard_time": 1743156263,
-      "rank": 41,
-      "category": "正能量"
+      "raw_hot": 128284,
+      "num": 128284,
+      "word": "管乐挟持老年人要挟观众投票",
+      "onboard_time": 1743198314,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127461,
+      "num": 127461,
+      "word": "缅甸7.9级地震感受像车胎爆了",
+      "onboard_time": 1743197712,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 120041,
@@ -347,6 +371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 111683,
+      "num": 137532,
+      "word": "中国一37人医疗队赴缅震区",
+      "onboard_time": 1743203777,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111267,
       "num": 111267,
       "word": "罗志祥妈妈患阿尔兹海默症",
@@ -369,14 +401,6 @@
       "onboard_time": 1743179182,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101370,
-      "num": 101370,
-      "word": "缅甸7.9级地震感受像车胎爆了",
-      "onboard_time": 1743197712,
-      "rank": 37,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 100724,
@@ -408,14 +432,6 @@
       "word": "黄英 和稀泥",
       "onboard_time": 1743166524,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 93601,
-      "num": 93601,
-      "word": "管乐挟持老年人要挟观众投票",
-      "onboard_time": 1743198314,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -451,6 +467,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76514,
+      "num": 76514,
+      "word": "王宝强这段不像演的",
+      "onboard_time": 1743202216,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 75039,
+      "num": 75039,
+      "word": "震中附近一华人说人没了货也没了",
+      "onboard_time": 1743200114,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74328,
       "num": 74328,
       "word": "震后女警紧紧抱住伤者等候救护车",
@@ -467,12 +499,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 67066,
-      "num": 54054,
-      "word": "震中附近一华人说人没了货也没了",
-      "onboard_time": 1743200114,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 67910,
+      "num": 127574,
+      "word": "韩国山火复燃",
+      "onboard_time": 1743204199,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 65526,
@@ -483,12 +515,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 60705,
-      "num": 60705,
-      "word": "王宝强这段不像演的",
-      "onboard_time": 1743202216,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 63127,
+      "num": 63127,
+      "word": "王楚然我不张嘴就看不到我牙黑",
+      "onboard_time": 1743191595,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 59162,
@@ -497,6 +529,14 @@
       "onboard_time": 1743181339,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 56552,
+      "num": 56552,
+      "word": "嘉定纪委回应妻子举报丈夫出轨",
+      "onboard_time": 1743203898,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56324,
@@ -515,28 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53471,
-      "num": 53471,
-      "word": "门童成员发文",
-      "onboard_time": 1743203959,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 52751,
       "num": 52751,
       "word": "雁回时",
       "onboard_time": 1743157101,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52253,
-      "num": 52253,
-      "word": "王楚然我不张嘴就看不到我牙黑",
-      "onboard_time": 1743191595,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 50160,
@@ -547,12 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47408,
-      "num": 98437,
-      "word": "中国一37人医疗队赴缅震区",
-      "onboard_time": 1743203777,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 45055,
+      "num": 45055,
+      "word": "普京称特朗普真诚希望结束俄乌冲突",
+      "onboard_time": 1743199694,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43031,
@@ -563,36 +587,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42136,
+      "num": 42136,
+      "word": "今年全球已发生17次6级及以上地震",
+      "onboard_time": 1743203898,
+      "rank": 47,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 41985,
+      "num": 41985,
+      "word": "重庆一街道办强拆鱼塘被判赔380万",
+      "onboard_time": 1743204978,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39529,
+      "num": 39529,
+      "word": "街道办回应违法强拆鱼塘被判赔380万",
+      "onboard_time": 1743204978,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39089,
       "num": 40725,
       "word": "周深获年度品质金声",
       "onboard_time": 1743182777,
       "rank": 49,
       "category": "剧集,综艺"
-    },
-    {
-      "raw_hot": 37907,
-      "num": 37907,
-      "word": "嘉定纪委回应妻子举报丈夫出轨",
-      "onboard_time": 1743203898,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37403,
-      "num": 37403,
-      "word": "普京称特朗普真诚希望结束俄乌冲突",
-      "onboard_time": 1743199694,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 37385,
-      "num": 37385,
-      "word": "今年全球已发生17次6级及以上地震",
-      "onboard_time": 1743203898,
-      "rank": 47,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 36595,
@@ -651,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20430,
+      "num": 75043,
+      "word": "缅甸地震无中国公民死亡报告",
+      "onboard_time": 1743204018,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20132,
       "num": 40174,
       "word": "华裔女生讲述亲历缅甸地震",
@@ -705,14 +737,6 @@
       "onboard_time": 1743198914,
       "rank": 28,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 8082,
-      "num": 54616,
-      "word": "缅甸地震无中国公民死亡报告",
-      "onboard_time": 1743204018,
-      "rank": 29,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
