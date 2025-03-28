@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743169397205,
+  "endTime": 1743171798663,
   "band_list": [
     {
       "raw_hot": 18900626,
@@ -49,6 +49,14 @@
       "onboard_time": 1742898741,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3483950,
+      "num": 3483950,
+      "word": "王者荣耀回应崩了",
+      "onboard_time": 1743169644,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 3310620,
@@ -507,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1591428,
+      "num": 1591428,
+      "word": "门童曼谷场取消",
+      "onboard_time": 1743156621,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1586970,
       "num": 352721,
       "word": "男德",
@@ -779,14 +795,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 1272874,
-      "num": 1272874,
-      "word": "门童曼谷场取消",
-      "onboard_time": 1743156621,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1267965,
       "num": 305153,
       "word": "赵露思问山区小朋友拍过艺术照没",
@@ -881,6 +889,14 @@
       "onboard_time": 1742965403,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1214809,
+      "num": 1214809,
+      "word": "Gemini 一个小时内肯定修好",
+      "onboard_time": 1743170425,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 1201366,
@@ -1195,8 +1211,16 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 955141,
+      "num": 955141,
+      "word": "26岁北大研究生毕业留校当食堂阿姨",
+      "onboard_time": 1743169106,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 951136,
-      "num": 559899,
+      "num": 692836,
       "word": "雪莉拍完real去了精神科",
       "onboard_time": 1743159622,
       "rank": 22,
@@ -1563,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 805085,
+      "num": 331045,
+      "word": "医生说少吃水果能少生很多病",
+      "onboard_time": 1743169227,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 801151,
       "num": 801151,
       "word": "网红滕顺强夫妇退网",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1742824762,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 773244,
+      "num": 773244,
+      "word": "女童被碾压身亡案被告人获刑十个月",
+      "onboard_time": 1743167663,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 768901,
@@ -2371,6 +2411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 589982,
+      "num": 589982,
+      "word": "金秀贤对金赛纶冷暴力",
+      "onboard_time": 1743169705,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 589940,
       "num": 482606,
       "word": "何建泽回应离婚",
@@ -2579,14 +2627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 552071,
-      "num": 552071,
-      "word": "女童被碾压身亡案被告人获刑十个月",
-      "onboard_time": 1743167663,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 551021,
       "num": 551021,
       "word": "张馨予说管不住嘴就看钟楚曦",
@@ -2745,6 +2785,14 @@
       "onboard_time": 1743151762,
       "rank": 20,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 524588,
+      "num": 524588,
+      "word": "赔我一颗荣耀水晶就原谅你",
+      "onboard_time": 1743169765,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 524469,
@@ -3811,6 +3859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401439,
+      "num": 401439,
+      "word": "门童粉丝发长文",
+      "onboard_time": 1743171264,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399671,
       "num": 399671,
       "word": "赵露思说是爱让她又活了一次",
@@ -4563,6 +4619,14 @@
       "category": "民生新闻,民生新闻"
     },
     {
+      "raw_hot": 334883,
+      "num": 334883,
+      "word": "刘耀文 进组",
+      "onboard_time": 1743171205,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332326,
       "num": 332326,
       "word": "北京有震感我被震醒了",
@@ -4921,6 +4985,14 @@
       "onboard_time": 1742799802,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 308603,
+      "num": 705939,
+      "word": "缅甸地震已致144人遇难",
+      "onboard_time": 1743170425,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 308513,
@@ -5731,20 +5803,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266637,
-      "num": 266637,
-      "word": "26岁北大研究生毕业留校当食堂阿姨",
-      "onboard_time": 1743169106,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 266487,
       "num": 266487,
       "word": "哪吒",
       "onboard_time": 1742780660,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 266217,
+      "num": 266217,
+      "word": "李惠利更新微博了",
+      "onboard_time": 1743168868,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 265216,
@@ -6009,6 +6081,14 @@
       "onboard_time": 1743123382,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 249245,
+      "num": 272474,
+      "word": "马苏说杨紫演技很厉害",
+      "onboard_time": 1743169884,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 249172,
@@ -6499,6 +6579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 230796,
+      "num": 524782,
+      "word": "全网能打王者荣耀只有这十个人",
+      "onboard_time": 1743170905,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 230253,
       "num": 230253,
       "word": "无锡野鸳鸯",
@@ -6721,14 +6809,6 @@
       "onboard_time": 1742980401,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223443,
-      "num": 223443,
-      "word": "李惠利更新微博了",
-      "onboard_time": 1743168868,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 223307,
@@ -7203,6 +7283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 209252,
+      "num": 209252,
+      "word": "眼泪女王的你",
+      "onboard_time": 1743171025,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209064,
       "num": 209064,
       "word": "女人40岁才是人生的开始",
@@ -7499,6 +7587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204246,
+      "num": 204246,
+      "word": "张凌赫内场英文社交",
+      "onboard_time": 1743171505,
+      "rank": 39,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 203913,
       "num": 203913,
       "word": "小鹏X9屏幕夹断5岁男童半节食指",
@@ -7683,14 +7779,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 201853,
-      "num": 201853,
-      "word": "医生说少吃水果能少生很多病",
-      "onboard_time": 1743169227,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 201760,
       "num": 201760,
       "word": "梁田和混血弟弟纯正年下感",
@@ -7769,6 +7857,14 @@
       "onboard_time": 1742803821,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 200911,
+      "num": 200911,
+      "word": "KOZ公告",
+      "onboard_time": 1743171625,
+      "rank": 40,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 200788,
@@ -8089,6 +8185,14 @@
       "onboard_time": 1743162861,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 195389,
+      "num": 178030,
+      "word": "张凌赫笑的那一下",
+      "onboard_time": 1743170064,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195372,
@@ -9171,6 +9275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176093,
+      "num": 176093,
+      "word": "董力拒绝亲密行为",
+      "onboard_time": 1743169644,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176025,
       "num": 176025,
       "word": "妻子的浪漫旅行",
@@ -9305,6 +9417,14 @@
       "onboard_time": 1742713279,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173844,
+      "num": 173844,
+      "word": "邓萃雯 这辈子什么风浪没见过",
+      "onboard_time": 1743169285,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 173703,
@@ -10376,14 +10496,6 @@
       "word": "昀牵孟绕自带结界",
       "onboard_time": 1742985141,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 156742,
-      "num": 156742,
-      "word": "邓萃雯 这辈子什么风浪没见过",
-      "onboard_time": 1743169285,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -12057,6 +12169,14 @@
       "onboard_time": 1742687297,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135833,
+      "num": 524598,
+      "word": "为什么缅甸地震能量释放如此剧烈",
+      "onboard_time": 1743170245,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 135729,
@@ -14123,6 +14243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113517,
+      "num": 206137,
+      "word": "高校教师被曝出轨学生被停职调查",
+      "onboard_time": 1743169884,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113479,
       "num": 113479,
       "word": "SEVENTEEN克拉棒",
@@ -15515,6 +15643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97945,
+      "num": 171404,
+      "word": "中国驻泰使馆发布安全提醒",
+      "onboard_time": 1743169585,
+      "rank": 48,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 97922,
       "num": 547231,
       "word": "缅甸曼德勒一清真寺坍塌10人丧生",
@@ -16153,6 +16289,14 @@
       "onboard_time": 1742821162,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85646,
+      "num": 268885,
+      "word": "25女孩因15岁时的文身自卑至今",
+      "onboard_time": 1743171025,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85561,
@@ -19451,6 +19595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27205,
+      "num": 178180,
+      "word": "章子怡Gucci竹节展压轴",
+      "onboard_time": 1743171025,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 27167,
       "num": 189474,
       "word": "泸州街头美食",
@@ -20289,6 +20441,14 @@
       "onboard_time": 1742743821,
       "rank": 16,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 13930,
+      "num": 1765431,
+      "word": "这样的西藏你见过吗",
+      "onboard_time": 1743171444,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13729,
