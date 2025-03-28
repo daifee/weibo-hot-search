@@ -1,0 +1,410 @@
+{
+  "runTime": 1743137004627,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1611899,
+        "num": 1611899,
+        "word": "李晟 玄学",
+        "onboard_time": 1743133461,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 868917,
+        "num": 868917,
+        "word": "张继科想参加2029全运会",
+        "onboard_time": 1743136040,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11639,
+        "num": 757897,
+        "word": "2024中国科学十大进展发布",
+        "onboard_time": 1743046221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 697325,
+        "num": 697325,
+        "word": "兔兔拔萝卜被主人塞回气得用嘴堵洞",
+        "onboard_time": 1743129079,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 577805,
+        "num": 577805,
+        "word": "浪姐一公",
+        "onboard_time": 1743135502,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526836,
+        "num": 526836,
+        "word": "女子玩切水果游戏1个月瘦10斤",
+        "onboard_time": 1743120621,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544160,
+        "num": 501221,
+        "word": "宋雨琦在地上躺了四分钟",
+        "onboard_time": 1743129020,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454373,
+        "num": 454373,
+        "word": "童瑶新剧吃到一半发现是自己的席",
+        "onboard_time": 1743134541,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331296,
+        "num": 331296,
+        "word": "防止DeepSeek乱编文献的方法",
+        "onboard_time": 1743130939,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 234559,
+        "num": 323433,
+        "word": "普京回应特朗普吞并格陵兰岛言论",
+        "onboard_time": 1743135203,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1312567,
+        "num": 315541,
+        "word": "我以为演员要学历",
+        "onboard_time": 1743135020,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20990,
+        "num": 301435,
+        "word": "霸王茶姬王鹤棣一起好状态",
+        "onboard_time": 1743132859,
+        "rank": 11,
+        "category": "综艺,剧集"
+      },
+      {
+        "raw_hot": 840090,
+        "num": 294242,
+        "word": "千颂伊 洪海仁",
+        "onboard_time": 1743134181,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 623947,
+        "num": 281604,
+        "word": "赵露思问山区小朋友拍过艺术照没",
+        "onboard_time": 1743131180,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281117,
+        "num": 281117,
+        "word": "爆火的瑞士平替成了罪恶的婴儿工厂",
+        "onboard_time": 1743133041,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 444726,
+        "num": 279493,
+        "word": "雪莉哥哥再发ins控诉金秀贤",
+        "onboard_time": 1743131961,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276907,
+        "num": 276907,
+        "word": "校方回应老师怼家长让孩子上职中",
+        "onboard_time": 1743131599,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203009,
+        "num": 203009,
+        "word": "上海对边走边抽烟的游烟族出手了",
+        "onboard_time": 1743089781,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142177,
+        "num": 202699,
+        "word": "张馨予38岁生日感谢妈妈",
+        "onboard_time": 1743136343,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161259,
+        "num": 201317,
+        "word": "动画还原船长公海被杀抛尸",
+        "onboard_time": 1743135981,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 901667,
+        "num": 200481,
+        "word": "曝董宇辉下播后险被砸",
+        "onboard_time": 1743125839,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 398202,
+        "num": 199543,
+        "word": "赵露思生病前认为拐杖只是装饰",
+        "onboard_time": 1743125001,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287903,
+        "num": 198807,
+        "word": "王一博赛前素颜随拍",
+        "onboard_time": 1743132621,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 253452,
+        "num": 198168,
+        "word": "IU边佑锡辞演新剧",
+        "onboard_time": 1743133580,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115752,
+        "num": 197504,
+        "word": "李月汝生日排面拉满",
+        "onboard_time": 1743136762,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243989,
+        "num": 196032,
+        "word": "张真源名牌上是奔跑吧所有成员的名字",
+        "onboard_time": 1743124220,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234900,
+        "num": 195540,
+        "word": "侧卧睡觉两腿间最好夹个枕头",
+        "onboard_time": 1743132621,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219360,
+        "num": 194735,
+        "word": "白敬亭章若楠cp粉好努力",
+        "onboard_time": 1743135440,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211826,
+        "num": 193126,
+        "word": "那你真笨",
+        "onboard_time": 1743134002,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203370,
+        "num": 192770,
+        "word": "电视剧品质盛典好剧扎堆",
+        "onboard_time": 1743135801,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192135,
+        "num": 192135,
+        "word": "张柏芝穿粉色美我一大跳",
+        "onboard_time": 1743134362,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186126,
+        "num": 186126,
+        "word": "任志达和妻子在外吃饭遭遇咸猪手",
+        "onboard_time": 1743129439,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182959,
+        "num": 182959,
+        "word": "刘学义演技",
+        "onboard_time": 1743133041,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181585,
+        "num": 181585,
+        "word": "药贩子骄傲称药店怕我们不去",
+        "onboard_time": 1743128061,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 176583,
+        "num": 176583,
+        "word": "明日方舟",
+        "onboard_time": 1743134240,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20348,
+        "num": 176209,
+        "word": "权志龙与粉丝一起为山火灾区捐款",
+        "onboard_time": 1743136821,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176025,
+        "num": 176025,
+        "word": "妻子的浪漫旅行",
+        "onboard_time": 1743136401,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170426,
+        "num": 170426,
+        "word": "昨天穿短袖今天穿羽绒服",
+        "onboard_time": 1743123321,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162203,
+        "num": 162203,
+        "word": "全校师生仅1800人却花24万买餐盘",
+        "onboard_time": 1743118219,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27167,
+        "num": 161781,
+        "word": "泸州街头美食",
+        "onboard_time": 1743136101,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161753,
+        "num": 161753,
+        "word": "全红婵目标是先把体重减下来",
+        "onboard_time": 1743132260,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157975,
+        "num": 157975,
+        "word": "女子吐槽楼上邻居马桶正对自家厨房",
+        "onboard_time": 1743128121,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155535,
+        "num": 155535,
+        "word": "红气养人的意思是有钱做医美了",
+        "onboard_time": 1743136282,
+        "rank": 42,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 153053,
+        "num": 153053,
+        "word": "新还珠格格重映收视第一",
+        "onboard_time": 1743120141,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147681,
+        "num": 147681,
+        "word": "唐嫣姬谭音神女爱世人",
+        "onboard_time": 1743136642,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143658,
+        "num": 143658,
+        "word": "刘畊宏谈掉粉和流量焦虑",
+        "onboard_time": 1743136582,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112256,
+        "num": 139514,
+        "word": "成也詹姆斯败也詹姆斯",
+        "onboard_time": 1743132859,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138806,
+        "num": 138806,
+        "word": "吉迪绝杀湖人",
+        "onboard_time": 1743130460,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137950,
+        "num": 137950,
+        "word": "李现拍的公园打鸟照来了",
+        "onboard_time": 1743129500,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99515,
+        "num": 135573,
+        "word": "王一珩有公园大爷那味儿了",
+        "onboard_time": 1743136881,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见国际工商界代表#"
+    }
+  }
+}
