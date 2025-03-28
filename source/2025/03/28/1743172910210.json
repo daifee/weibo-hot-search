@@ -1,0 +1,410 @@
+{
+  "runTime": 1743172910210,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10234604,
+        "num": 10234604,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1743168083,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2103431,
+        "num": 2103431,
+        "word": "王者荣耀回应崩了",
+        "onboard_time": 1743169644,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165457,
+        "num": 1660718,
+        "word": "这样的西藏你见过吗",
+        "onboard_time": 1743171444,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1531884,
+        "num": 1531884,
+        "word": "缅甸7.9级地震",
+        "onboard_time": 1743143600,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1454073,
+        "num": 1454073,
+        "word": "门童曼谷场取消",
+        "onboard_time": 1743156621,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1120529,
+        "num": 1120529,
+        "word": "Gemini 一个小时内肯定修好",
+        "onboard_time": 1743170425,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 946305,
+        "num": 946305,
+        "word": "陈德容",
+        "onboard_time": 1743165022,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580471,
+        "num": 580471,
+        "word": "女童被碾压身亡案被告人获刑十个月",
+        "onboard_time": 1743167663,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508337,
+        "num": 508337,
+        "word": "缅甸地震已致144人遇难",
+        "onboard_time": 1743170425,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 486619,
+        "num": 486619,
+        "word": "雁回时21集封神",
+        "onboard_time": 1743166163,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47124,
+        "num": 470469,
+        "word": "AI眼里中国最值得投资的领域",
+        "onboard_time": 1743172464,
+        "rank": 10,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 660180,
+        "num": 468180,
+        "word": "雪莉拍完real去了精神科",
+        "onboard_time": 1743159622,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540299,
+        "num": 467864,
+        "word": "金秀贤对金赛纶冷暴力",
+        "onboard_time": 1743169705,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460663,
+        "num": 460663,
+        "word": "门童粉丝发长文",
+        "onboard_time": 1743171264,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1208912,
+        "num": 446675,
+        "word": "26岁北大研究生毕业留校当食堂阿姨",
+        "onboard_time": 1743169106,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427544,
+        "num": 427544,
+        "word": "全网能打王者荣耀只有这十个人",
+        "onboard_time": 1743170905,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 378274,
+        "num": 412010,
+        "word": "刘耀文 进组",
+        "onboard_time": 1743171205,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343751,
+        "num": 406596,
+        "word": "是中国人来救了我们",
+        "onboard_time": 1743163822,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401197,
+        "num": 401197,
+        "word": "赔我一颗荣耀水晶就原谅你",
+        "onboard_time": 1743169765,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99849,
+        "num": 373338,
+        "word": "于斌否认退圈",
+        "onboard_time": 1743167963,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 910936,
+        "num": 373232,
+        "word": "医生说少吃水果能少生很多病",
+        "onboard_time": 1743169227,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 361761,
+        "num": 361761,
+        "word": "允儿被臭到",
+        "onboard_time": 1743153924,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347909,
+        "num": 347909,
+        "word": "虞书欣方发文报平安",
+        "onboard_time": 1743148526,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342356,
+        "num": 342356,
+        "word": "缅甸地震云南建筑晃动扬起巨大灰尘",
+        "onboard_time": 1743149844,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 338273,
+        "num": 338273,
+        "word": "妻子举报丈夫出轨上海一财政局副科长",
+        "onboard_time": 1743172824,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268441,
+        "num": 268441,
+        "word": "乘客呼吸困难说出碱字地铁员工秒懂",
+        "onboard_time": 1743156263,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 260222,
+        "num": 260222,
+        "word": "张凌赫内场英文社交",
+        "onboard_time": 1743171505,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 253750,
+        "num": 253750,
+        "word": "黄英 和稀泥",
+        "onboard_time": 1743166524,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332194,
+        "num": 252979,
+        "word": "罗志祥妈妈患阿尔兹海默症",
+        "onboard_time": 1743159141,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13732,
+        "num": 240761,
+        "word": "王宝强称人生不怕慢就怕选错",
+        "onboard_time": 1743172524,
+        "rank": 29,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 283362,
+        "num": 240114,
+        "word": "金秀贤疑似强行加床戏",
+        "onboard_time": 1743158062,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237496,
+        "num": 237496,
+        "word": "李惠利更新微博了",
+        "onboard_time": 1743168868,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228597,
+        "num": 228597,
+        "word": "云南震感",
+        "onboard_time": 1743143600,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218532,
+        "num": 218532,
+        "word": "高校教师被曝出轨学生被停职调查",
+        "onboard_time": 1743169884,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211386,
+        "num": 211386,
+        "word": "邓萃雯看陈德容的表情",
+        "onboard_time": 1743166163,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92042,
+        "num": 210414,
+        "word": "25女孩因15岁时的文身自卑至今",
+        "onboard_time": 1743171025,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209767,
+        "num": 209767,
+        "word": "直击缅甸地震",
+        "onboard_time": 1743148883,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 208326,
+        "num": 208326,
+        "word": "王一博赛车冲出赛道",
+        "onboard_time": 1743141621,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200544,
+        "num": 200544,
+        "word": "眼泪女王的你",
+        "onboard_time": 1743171025,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202019,
+        "num": 198933,
+        "word": "邓萃雯 这辈子什么风浪没见过",
+        "onboard_time": 1743169285,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196080,
+        "num": 196080,
+        "word": "KPL",
+        "onboard_time": 1743171924,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194931,
+        "num": 194931,
+        "word": "马苏说杨紫演技很厉害",
+        "onboard_time": 1743169884,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191764,
+        "num": 191764,
+        "word": "陈都灵值得",
+        "onboard_time": 1743167602,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46829,
+        "num": 190509,
+        "word": "章子怡Gucci竹节展压轴",
+        "onboard_time": 1743171025,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189610,
+        "num": 189610,
+        "word": "泰国首都曼谷进入紧急状态",
+        "onboard_time": 1743150566,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 186656,
+        "num": 186656,
+        "word": "缅甸地震已致144人死亡",
+        "onboard_time": 1743172824,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 182576,
+        "num": 182576,
+        "word": "董力拒绝亲密行为",
+        "onboard_time": 1743169644,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175535,
+        "num": 175535,
+        "word": "KOZ公告",
+        "onboard_time": 1743171625,
+        "rank": 47,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 165345,
+        "num": 165345,
+        "word": "男子爱车被开罚单意外发现妻子出轨",
+        "onboard_time": 1743159321,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161493,
+        "num": 161493,
+        "word": "雁回时",
+        "onboard_time": 1743157101,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见孟加拉国临时政府首席顾问尤努斯#"
+    }
+  }
+}

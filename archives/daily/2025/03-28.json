@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743171798663,
+  "endTime": 1743172910210,
   "band_list": [
     {
       "raw_hot": 18900626,
@@ -195,6 +195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1208912,
+      "num": 955141,
+      "word": "26岁北大研究生毕业留校当食堂阿姨",
+      "onboard_time": 1743169106,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1105703,
       "num": 1105703,
       "word": "直击缅甸地震",
@@ -243,20 +251,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 955141,
-      "num": 955141,
-      "word": "26岁北大研究生毕业留校当食堂阿姨",
-      "onboard_time": 1743169106,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 951136,
       "num": 692836,
       "word": "雪莉拍完real去了精神科",
       "onboard_time": 1743159622,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 910936,
+      "num": 373232,
+      "word": "医生说少吃水果能少生很多病",
+      "onboard_time": 1743169227,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 871024,
@@ -320,14 +328,6 @@
       "word": "列车员给孕妇推销建议买不建议用",
       "onboard_time": 1743139701,
       "rank": 18,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 805085,
-      "num": 331045,
-      "word": "医生说少吃水果能少生很多病",
-      "onboard_time": 1743169227,
-      "rank": 42,
       "category": "健康医疗"
     },
     {
@@ -587,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 508337,
+      "num": 705939,
+      "word": "缅甸地震已致144人遇难",
+      "onboard_time": 1743170425,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 501197,
       "num": 410189,
       "word": "陈德容划水",
@@ -643,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460663,
+      "num": 460663,
+      "word": "门童粉丝发长文",
+      "onboard_time": 1743171264,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457451,
       "num": 457451,
       "word": "防止DeepSeek乱编文献的方法",
@@ -691,6 +707,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 427544,
+      "num": 524782,
+      "word": "全网能打王者荣耀只有这十个人",
+      "onboard_time": 1743170905,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 411666,
       "num": 411666,
       "word": "赵一博回归种地吧3录制",
@@ -713,14 +737,6 @@
       "onboard_time": 1743067521,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 401439,
-      "num": 401439,
-      "word": "门童粉丝发长文",
-      "onboard_time": 1743171264,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 396660,
@@ -752,6 +768,14 @@
       "word": "刘诗诗选竹笛是因为好看",
       "onboard_time": 1743159681,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 378274,
+      "num": 412010,
+      "word": "刘耀文 进组",
+      "onboard_time": 1743171205,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -811,12 +835,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 334883,
-      "num": 334883,
-      "word": "刘耀文 进组",
-      "onboard_time": 1743171205,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 338273,
+      "num": 338273,
+      "word": "妻子举报丈夫出轨上海一财政局副科长",
+      "onboard_time": 1743172824,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329245,
@@ -905,14 +929,6 @@
       "onboard_time": 1743151703,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 308603,
-      "num": 705939,
-      "word": "缅甸地震已致144人遇难",
-      "onboard_time": 1743170425,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 308237,
@@ -1107,6 +1123,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 260222,
+      "num": 260222,
+      "word": "张凌赫内场英文社交",
+      "onboard_time": 1743171505,
+      "rank": 39,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 258525,
       "num": 783738,
       "word": "现场直击缅甸7.9级地震",
@@ -1251,14 +1275,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 230796,
-      "num": 524782,
-      "word": "全网能打王者荣耀只有这十个人",
-      "onboard_time": 1743170905,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 227941,
       "num": 227941,
       "word": "药贩子骄傲称药店怕我们不去",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1743082703,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218532,
+      "num": 218532,
+      "word": "高校教师被曝出轨学生被停职调查",
+      "onboard_time": 1743169884,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217581,
@@ -1507,14 +1531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204246,
-      "num": 204246,
-      "word": "张凌赫内场英文社交",
-      "onboard_time": 1743171505,
-      "rank": 39,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 203624,
       "num": 203624,
       "word": "金饰价飙涨到934元",
@@ -1569,6 +1585,14 @@
       "onboard_time": 1743139041,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202019,
+      "num": 198933,
+      "word": "邓萃雯 这辈子什么风浪没见过",
+      "onboard_time": 1743169285,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 201230,
@@ -1697,6 +1721,14 @@
       "onboard_time": 1743140302,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196080,
+      "num": 196080,
+      "word": "KPL",
+      "onboard_time": 1743171924,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 195688,
@@ -1859,6 +1891,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 186656,
+      "num": 186656,
+      "word": "缅甸地震已致144人死亡",
+      "onboard_time": 1743172824,
+      "rank": 45,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 186104,
       "num": 186104,
       "word": "中国可控核聚变技术再突破",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1743079943,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182576,
+      "num": 182576,
+      "word": "董力拒绝亲密行为",
+      "onboard_time": 1743169644,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 181789,
@@ -1971,14 +2019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176093,
-      "num": 176093,
-      "word": "董力拒绝亲密行为",
-      "onboard_time": 1743169644,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176025,
       "num": 176025,
       "word": "妻子的浪漫旅行",
@@ -2025,14 +2065,6 @@
       "onboard_time": 1743151403,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173844,
-      "num": 173844,
-      "word": "邓萃雯 这辈子什么风浪没见过",
-      "onboard_time": 1743169285,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 171291,
@@ -2084,7 +2116,7 @@
     },
     {
       "raw_hot": 168844,
-      "num": 168844,
+      "num": 373338,
       "word": "于斌否认退圈",
       "onboard_time": 1743167963,
       "rank": 43,
@@ -2121,6 +2153,14 @@
       "onboard_time": 1743093678,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165457,
+      "num": 1765431,
+      "word": "这样的西藏你见过吗",
+      "onboard_time": 1743171444,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165074,
@@ -2643,14 +2683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 113517,
-      "num": 206137,
-      "word": "高校教师被曝出轨学生被停职调查",
-      "onboard_time": 1743169884,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113040,
       "num": 125590,
       "word": "小婉管乐连睡觉都分不开",
@@ -2827,6 +2859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92042,
+      "num": 268885,
+      "word": "25女孩因15岁时的文身自卑至今",
+      "onboard_time": 1743171025,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91467,
       "num": 91467,
       "word": "焦虑型依恋人格",
@@ -2897,14 +2937,6 @@
       "onboard_time": 1743077182,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85646,
-      "num": 268885,
-      "word": "25女孩因15岁时的文身自卑至今",
-      "onboard_time": 1743171025,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85540,
@@ -3355,12 +3387,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 47124,
+      "num": 470469,
+      "word": "AI眼里中国最值得投资的领域",
+      "onboard_time": 1743172464,
+      "rank": 10,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 47071,
       "num": 384072,
       "word": "曼谷华人称三次躲进卫生间避险",
       "onboard_time": 1743154040,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 46829,
+      "num": 190509,
+      "word": "章子怡Gucci竹节展压轴",
+      "onboard_time": 1743171025,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 46258,
@@ -3547,14 +3595,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 27205,
-      "num": 178180,
-      "word": "章子怡Gucci竹节展压轴",
-      "onboard_time": 1743171025,
-      "rank": 43,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 27167,
       "num": 189474,
       "word": "泸州街头美食",
@@ -3739,20 +3779,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13930,
-      "num": 1765431,
-      "word": "这样的西藏你见过吗",
-      "onboard_time": 1743171444,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13885,
       "num": 22473,
       "word": "PCL2025",
       "onboard_time": 1743097276,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 13732,
+      "num": 240761,
+      "word": "王宝强称人生不怕慢就怕选错",
+      "onboard_time": 1743172524,
+      "rank": 29,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 12938,
