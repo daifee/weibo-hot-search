@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743161772676,
+  "endTime": 1743165955917,
   "band_list": [
     {
       "raw_hot": 15554018,
@@ -763,6 +763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1295304,
+      "num": 1295304,
+      "word": "缅甸地震已超50人死亡",
+      "onboard_time": 1743160941,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1267965,
       "num": 305153,
       "word": "赵露思问山区小朋友拍过艺术照没",
@@ -905,14 +913,6 @@
       "onboard_time": 1742742202,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1158185,
-      "num": 1158185,
-      "word": "缅甸地震已超50人死亡",
-      "onboard_time": 1743160941,
-      "rank": 3,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1154576,
@@ -1187,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 942954,
+      "num": 353420,
+      "word": "雪莉拍完real去了精神科",
+      "onboard_time": 1743159622,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 923400,
       "num": 297168,
       "word": "27岁女孩每天打3份工战胜不死癌症",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1743077242,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 871024,
+      "num": 826114,
+      "word": "罗志祥妈妈患阿尔兹海默症",
+      "onboard_time": 1743159141,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 870003,
@@ -1417,14 +1433,6 @@
       "onboard_time": 1742889502,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 826114,
-      "num": 826114,
-      "word": "罗志祥妈妈患阿尔兹海默症",
-      "onboard_time": 1743159141,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 823003,
@@ -1801,6 +1809,14 @@
       "onboard_time": 1743119720,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 708501,
+      "num": 708501,
+      "word": "门童曼谷场取消",
+      "onboard_time": 1743156621,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 703091,
@@ -2619,6 +2635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 531613,
+      "num": 531613,
+      "word": "宋威龙顶级男模",
+      "onboard_time": 1743162262,
+      "rank": 5,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 531270,
       "num": 398619,
       "word": "韩安冉妈妈为亲家母发声",
@@ -2715,6 +2739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 515071,
+      "num": 507795,
+      "word": "湖南文理学院副教授出轨女学生",
+      "onboard_time": 1743153382,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514308,
       "num": 514308,
       "word": "希望小学一万四买相机只值六百引质疑",
@@ -2777,14 +2809,6 @@
       "onboard_time": 1742814982,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 507795,
-      "num": 507795,
-      "word": "湖南文理学院副教授出轨女学生",
-      "onboard_time": 1743153382,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 507119,
@@ -3009,6 +3033,14 @@
       "onboard_time": 1742874021,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 484534,
+      "num": 484534,
+      "word": "长和暂缓卖港口计划",
+      "onboard_time": 1743163822,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 483569,
@@ -3416,14 +3448,6 @@
       "word": "张馨予晚餐吃胡萝卜蘸辣椒面",
       "onboard_time": 1742728461,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 434661,
-      "num": 327184,
-      "word": "雪莉拍完real去了精神科",
-      "onboard_time": 1743159622,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -3865,6 +3889,14 @@
       "onboard_time": 1743159681,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386598,
+      "num": 386598,
+      "word": "是中国人来救了我们",
+      "onboard_time": 1743163822,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 386564,
@@ -5115,6 +5147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290941,
+      "num": 290941,
+      "word": "恋与深空游戏榜登顶",
+      "onboard_time": 1743165382,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290797,
       "num": 293592,
       "word": "何健麒直播",
@@ -5281,14 +5321,6 @@
       "onboard_time": 1742789422,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 282806,
-      "num": 491543,
-      "word": "门童曼谷场取消",
-      "onboard_time": 1743156621,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 282604,
@@ -5483,6 +5515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 273651,
+      "num": 269172,
+      "word": "男子爱车被开罚单意外发现妻子出轨",
+      "onboard_time": 1743159321,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273459,
       "num": 273459,
       "word": "童瑶李泽锋一搭二搭勾勾搭搭",
@@ -5577,14 +5617,6 @@
       "onboard_time": 1742794585,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269172,
-      "num": 269172,
-      "word": "男子爱车被开罚单意外发现妻子出轨",
-      "onboard_time": 1743159321,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 267856,
@@ -5753,6 +5785,14 @@
       "onboard_time": 1742825242,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259620,
+      "num": 297865,
+      "word": "陈德容",
+      "onboard_time": 1743165022,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 258525,
@@ -6201,6 +6241,22 @@
       "onboard_time": 1743053963,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 238004,
+      "num": 238004,
+      "word": "瑞丽一翡翠市场暂时闭市",
+      "onboard_time": 1743163522,
+      "rank": 36,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 237221,
+      "num": 257574,
+      "word": "雁回时剧情走向",
+      "onboard_time": 1743162623,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 236867,
@@ -7292,7 +7348,7 @@
     },
     {
       "raw_hot": 204536,
-      "num": 204536,
+      "num": 244077,
       "word": "棋士",
       "onboard_time": 1742880742,
       "rank": 44,
@@ -7313,6 +7369,14 @@
       "onboard_time": 1742792244,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203990,
+      "num": 249099,
+      "word": "星穹铁道演唱会",
+      "onboard_time": 1743165441,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 203913,
@@ -7841,6 +7905,14 @@
       "onboard_time": 1743152783,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 195473,
+      "num": 195473,
+      "word": "德国一游客在泰国遭摩的司机围殴",
+      "onboard_time": 1743162861,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 195372,
@@ -8731,6 +8803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180193,
+      "num": 290341,
+      "word": "古驰竹节包",
+      "onboard_time": 1743163641,
+      "rank": 15,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 180100,
       "num": 180100,
       "word": "喝牛奶增加饱腹感算轻断食吗",
@@ -8921,6 +9001,14 @@
       "onboard_time": 1743142522,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175873,
+      "num": 175873,
+      "word": "卫星盐",
+      "onboard_time": 1743165623,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 175529,
@@ -9289,6 +9377,14 @@
       "onboard_time": 1743156203,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168900,
+      "num": 168900,
+      "word": "工作室回应王一博平安",
+      "onboard_time": 1743163281,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 168585,
@@ -9667,6 +9763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162199,
+      "num": 162199,
+      "word": "音乐节阵容这么顶了吗",
+      "onboard_time": 1743164061,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162173,
       "num": 162173,
       "word": "吴艳妮刷新PB晋级半决赛",
@@ -9867,6 +9971,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159852,
+      "num": 159852,
+      "word": "曹笑天疯了",
+      "onboard_time": 1743165261,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159688,
+      "num": 159688,
+      "word": "戒烟",
+      "onboard_time": 1743164602,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159523,
       "num": 159523,
       "word": "国足0比2落后",
@@ -9929,6 +10049,14 @@
       "onboard_time": 1742733381,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158843,
+      "num": 287978,
+      "word": "缅甸地震能量堪比汶川地震",
+      "onboard_time": 1743164421,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 158759,
@@ -10331,6 +10459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153391,
+      "num": 153391,
+      "word": "自3月31日起全面停止收取门诊预交金",
+      "onboard_time": 1743162861,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153385,
       "num": 441018,
       "word": "王大雷回应黄油手",
@@ -10385,6 +10521,14 @@
       "onboard_time": 1742705301,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153034,
+      "num": 153034,
+      "word": "登顶",
+      "onboard_time": 1743162322,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 152730,
@@ -11411,6 +11555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138969,
+      "num": 138969,
+      "word": "野人",
+      "onboard_time": 1743163461,
+      "rank": 49,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 138904,
       "num": 136055,
       "word": "王一博 赛场见",
@@ -12281,6 +12433,14 @@
       "onboard_time": 1743041240,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129494,
+      "num": 258403,
+      "word": "市监总局将依法审查长和港口交易",
+      "onboard_time": 1743164001,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 129474,
@@ -13201,6 +13361,14 @@
       "onboard_time": 1743139342,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119828,
+      "num": 289660,
+      "word": "国产车在新能源赛道别太拼了",
+      "onboard_time": 1743164782,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 119825,
@@ -14563,6 +14731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105087,
+      "num": 290735,
+      "word": "官方回应缅甸地震没有收到预警",
+      "onboard_time": 1743164902,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 105026,
       "num": 293859,
       "word": "劝阻吸烟当事人呼吁拒绝二手烟",
@@ -15129,6 +15305,14 @@
       "onboard_time": 1742651423,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98067,
+      "num": 288688,
+      "word": "曼谷通罗一地标空中走廊断裂",
+      "onboard_time": 1743165562,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97993,
@@ -15947,6 +16131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82797,
+      "num": 1193025,
+      "word": "中国新一代人造太阳又有突破",
+      "onboard_time": 1743155123,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82558,
       "num": 82558,
       "word": "陈雨菲瑞士赛女单冠军",
@@ -15985,14 +16177,6 @@
       "onboard_time": 1743114975,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81263,
-      "num": 1193025,
-      "word": "中国新一代人造太阳又有突破",
-      "onboard_time": 1743155123,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80787,
@@ -16449,6 +16633,14 @@
       "onboard_time": 1742966301,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71864,
+      "num": 289211,
+      "word": "张远直播",
+      "onboard_time": 1743164421,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 71858,
@@ -20033,6 +20225,14 @@
       "onboard_time": 1743108314,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11759,
+      "num": 280081,
+      "word": "张凌赫Gucci竹境造型",
+      "onboard_time": 1743165441,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 11562,

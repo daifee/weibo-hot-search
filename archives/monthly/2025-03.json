@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743161772676,
+  "endTime": 1743165955917,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -3651,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1295304,
+      "num": 1295304,
+      "word": "缅甸地震已超50人死亡",
+      "onboard_time": 1743160941,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1287402,
       "num": 1287402,
       "word": "胖东来红内裤当事人道歉",
@@ -4561,14 +4569,6 @@
       "onboard_time": 1741399761,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1158185,
-      "num": 1158185,
-      "word": "缅甸地震已超50人死亡",
-      "onboard_time": 1743160941,
-      "rank": 3,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1158011,
@@ -6275,6 +6275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 942954,
+      "num": 353420,
+      "word": "雪莉拍完real去了精神科",
+      "onboard_time": 1743159622,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 942946,
       "num": 218427,
       "word": "美宇航员已滞留太空9个月",
@@ -7099,6 +7107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 871024,
+      "num": 826114,
+      "word": "罗志祥妈妈患阿尔兹海默症",
+      "onboard_time": 1743159141,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 870725,
       "num": 1117049,
       "word": "济南大暴雪下了387个大明湖",
@@ -7673,14 +7689,6 @@
       "onboard_time": 1742889502,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 826114,
-      "num": 826114,
-      "word": "罗志祥妈妈患阿尔兹海默症",
-      "onboard_time": 1743159141,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 826058,
@@ -9625,6 +9633,14 @@
       "onboard_time": 1743119720,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 708501,
+      "num": 708501,
+      "word": "门童曼谷场取消",
+      "onboard_time": 1743156621,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 707716,
@@ -13675,6 +13691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531613,
+      "num": 531613,
+      "word": "宋威龙顶级男模",
+      "onboard_time": 1743162262,
+      "rank": 5,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 531544,
       "num": 531544,
       "word": "章若楠第二套",
@@ -14083,6 +14107,14 @@
       "category": "时尚,网红"
     },
     {
+      "raw_hot": 515071,
+      "num": 507795,
+      "word": "湖南文理学院副教授出轨女学生",
+      "onboard_time": 1743153382,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514649,
       "num": 514649,
       "word": "国际刑警组织对杜特尔特发出红色通缉令",
@@ -14297,14 +14329,6 @@
       "onboard_time": 1741738461,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 507795,
-      "num": 507795,
-      "word": "湖南文理学院副教授出轨女学生",
-      "onboard_time": 1743153382,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 507414,
@@ -15081,6 +15105,14 @@
       "onboard_time": 1740978021,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 484534,
+      "num": 484534,
+      "word": "长和暂缓卖港口计划",
+      "onboard_time": 1743163822,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 484448,
@@ -16833,14 +16865,6 @@
       "onboard_time": 1741305860,
       "rank": 12,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 434661,
-      "num": 327184,
-      "word": "雪莉拍完real去了精神科",
-      "onboard_time": 1743159622,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 434629,
@@ -18977,6 +19001,14 @@
       "onboard_time": 1740791419,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386598,
+      "num": 386598,
+      "word": "是中国人来救了我们",
+      "onboard_time": 1743163822,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 386564,
@@ -24643,6 +24675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290941,
+      "num": 290941,
+      "word": "恋与深空游戏榜登顶",
+      "onboard_time": 1743165382,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290913,
       "num": 295709,
       "word": "利剑玫瑰",
@@ -25233,14 +25273,6 @@
       "onboard_time": 1742789422,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 282806,
-      "num": 491543,
-      "word": "门童曼谷场取消",
-      "onboard_time": 1743156621,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 282604,
@@ -26027,6 +26059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273651,
+      "num": 269172,
+      "word": "男子爱车被开罚单意外发现妻子出轨",
+      "onboard_time": 1743159321,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273461,
       "num": 372260,
       "word": "海西传媒声明向龚俊道歉",
@@ -26336,14 +26376,6 @@
       "word": "复旦教授教育孩子不要随意去第二次现场",
       "onboard_time": 1741860382,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 269172,
-      "num": 269172,
-      "word": "男子爱车被开罚单意外发现妻子出轨",
-      "onboard_time": 1743159321,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -27281,6 +27313,14 @@
       "onboard_time": 1742023284,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259620,
+      "num": 297865,
+      "word": "陈德容",
+      "onboard_time": 1743165022,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 259604,
@@ -29499,6 +29539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238004,
+      "num": 238004,
+      "word": "瑞丽一翡翠市场暂时闭市",
+      "onboard_time": 1743163522,
+      "rank": 36,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 237986,
       "num": 237986,
       "word": "百万网红千惠自曝患焦虑症",
@@ -29577,6 +29625,14 @@
       "onboard_time": 1742102782,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237221,
+      "num": 257574,
+      "word": "雁回时剧情走向",
+      "onboard_time": 1743162623,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 237059,
@@ -34932,7 +34988,7 @@
     },
     {
       "raw_hot": 204536,
-      "num": 204536,
+      "num": 244077,
       "word": "棋士",
       "onboard_time": 1742880742,
       "rank": 44,
@@ -35057,6 +35113,14 @@
       "onboard_time": 1742375062,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203990,
+      "num": 249099,
+      "word": "星穹铁道演唱会",
+      "onboard_time": 1743165441,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 203985,
@@ -37465,6 +37529,14 @@
       "onboard_time": 1741669763,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195473,
+      "num": 195473,
+      "word": "德国一游客在泰国遭摩的司机围殴",
+      "onboard_time": 1743162861,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 195455,
@@ -41611,6 +41683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180193,
+      "num": 290341,
+      "word": "古驰竹节包",
+      "onboard_time": 1743163641,
+      "rank": 15,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 180178,
       "num": 180178,
       "word": "孙颖莎奖杯自拍",
@@ -42633,6 +42713,14 @@
       "onboard_time": 1743142522,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175873,
+      "num": 175873,
+      "word": "卫星盐",
+      "onboard_time": 1743165623,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 175871,
@@ -44393,6 +44481,14 @@
       "onboard_time": 1743156203,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168900,
+      "num": 168900,
+      "word": "工作室回应王一博平安",
+      "onboard_time": 1743163281,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 168892,
@@ -46523,6 +46619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162199,
+      "num": 162199,
+      "word": "音乐节阵容这么顶了吗",
+      "onboard_time": 1743164061,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162179,
       "num": 182474,
       "word": "尹子维连线教英语把网友吓跑了",
@@ -47267,6 +47371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159852,
+      "num": 159852,
+      "word": "曹笑天疯了",
+      "onboard_time": 1743165261,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159817,
       "num": 273928,
       "word": "丁程鑫开场舞杀疯了",
@@ -47297,6 +47409,14 @@
       "onboard_time": 1741416741,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159688,
+      "num": 159688,
+      "word": "戒烟",
+      "onboard_time": 1743164602,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 159675,
@@ -47577,6 +47697,14 @@
       "onboard_time": 1741985654,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 158843,
+      "num": 287978,
+      "word": "缅甸地震能量堪比汶川地震",
+      "onboard_time": 1743164421,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 158812,
@@ -49419,6 +49547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153391,
+      "num": 153391,
+      "word": "自3月31日起全面停止收取门诊预交金",
+      "onboard_time": 1743162861,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153385,
       "num": 441018,
       "word": "王大雷回应黄油手",
@@ -49577,6 +49713,14 @@
       "onboard_time": 1742705301,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153034,
+      "num": 153034,
+      "word": "登顶",
+      "onboard_time": 1743162322,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 153005,
@@ -54667,6 +54811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138969,
+      "num": 138969,
+      "word": "野人",
+      "onboard_time": 1743163461,
+      "rank": 49,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 138963,
       "num": 387065,
       "word": "时尚博主谈王一博发型适配度",
@@ -57825,6 +57977,14 @@
       "onboard_time": 1743041240,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129494,
+      "num": 258403,
+      "word": "市监总局将依法审查长和港口交易",
+      "onboard_time": 1743164001,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 129474,
@@ -61793,6 +61953,14 @@
       "onboard_time": 1742343802,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 119828,
+      "num": 289660,
+      "word": "国产车在新能源赛道别太拼了",
+      "onboard_time": 1743164782,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 119825,
@@ -67107,6 +67275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105087,
+      "num": 290735,
+      "word": "官方回应缅甸地震没有收到预警",
+      "onboard_time": 1743164902,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 105047,
       "num": 356750,
       "word": "司马南曾发布75条和税有关视频",
@@ -69417,6 +69593,14 @@
       "onboard_time": 1741219217,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98067,
+      "num": 288688,
+      "word": "曼谷通罗一地标空中走廊断裂",
+      "onboard_time": 1743165562,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97993,
@@ -73299,6 +73483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82797,
+      "num": 1193025,
+      "word": "中国新一代人造太阳又有突破",
+      "onboard_time": 1743155123,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82796,
       "num": 82796,
       "word": "夏凤华好想换个crush",
@@ -73553,14 +73745,6 @@
       "onboard_time": 1742063536,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 81263,
-      "num": 1193025,
-      "word": "中国新一代人造太阳又有突破",
-      "onboard_time": 1743155123,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81098,
@@ -75321,6 +75505,14 @@
       "onboard_time": 1741394240,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71864,
+      "num": 289211,
+      "word": "张远直播",
+      "onboard_time": 1743164421,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 71858,
@@ -90945,6 +91137,14 @@
       "onboard_time": 1742235976,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 11759,
+      "num": 280081,
+      "word": "张凌赫Gucci竹境造型",
+      "onboard_time": 1743165441,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 11758,
