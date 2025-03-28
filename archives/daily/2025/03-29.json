@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743182511839,
+  "endTime": 1743183589627,
   "band_list": [
     {
       "raw_hot": 1473239,
@@ -363,6 +363,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 95618,
+      "num": 95618,
+      "word": "中国驻缅甸使馆正在跟进地震情况",
+      "onboard_time": 1743172106,
+      "rank": 49,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 94803,
       "num": 94803,
       "word": "黄英 和稀泥",
@@ -377,14 +385,6 @@
       "onboard_time": 1743171444,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88726,
-      "num": 88726,
-      "word": "中国驻缅甸使馆正在跟进地震情况",
-      "onboard_time": 1743172106,
-      "rank": 49,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 87461,
@@ -449,6 +449,14 @@
       "onboard_time": 1743157101,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39089,
+      "num": 40725,
+      "word": "周深获年度品质金声",
+      "onboard_time": 1743182777,
+      "rank": 49,
+      "category": "剧集,综艺"
     },
     {
       "raw_hot": 36595,

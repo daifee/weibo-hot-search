@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743182511839,
+  "endTime": 1743183589627,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -83793,6 +83793,14 @@
       "onboard_time": 1742067134,
       "rank": 43,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 39089,
+      "num": 40725,
+      "word": "周深获年度品质金声",
+      "onboard_time": 1743182777,
+      "rank": 49,
+      "category": "剧集,综艺"
     },
     {
       "raw_hot": 39047,
