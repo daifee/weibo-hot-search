@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743201565354,
+  "endTime": 1743204194456,
   "band_list": [
     {
       "raw_hot": 1473239,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297557,
+      "num": 297557,
+      "word": "高校教师被曝出轨学生被停职调查",
+      "onboard_time": 1743169884,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265208,
       "num": 265208,
       "word": "王者荣耀回应崩了",
@@ -177,6 +185,14 @@
       "onboard_time": 1743175700,
       "rank": 23,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 214739,
+      "num": 214739,
+      "word": "未来高层住宅或将越来越少",
+      "onboard_time": 1743173724,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191190,
@@ -227,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157790,
-      "num": 157790,
-      "word": "未来高层住宅或将越来越少",
-      "onboard_time": 1743173724,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156737,
       "num": 156737,
       "word": "10秒开启微信地震预警",
@@ -259,12 +267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152316,
+      "num": 152316,
+      "word": "地震来临她毫不犹豫转身疏散群众",
+      "onboard_time": 1743199155,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145896,
       "num": 145896,
       "word": "马嘉祺高会",
       "onboard_time": 1743175882,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144699,
+      "num": 184425,
+      "word": "气温为啥这么癫",
+      "onboard_time": 1743192854,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143165,
@@ -283,20 +307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139934,
-      "num": 139934,
-      "word": "高校教师被曝出轨学生被停职调查",
-      "onboard_time": 1743169884,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133642,
       "num": 133642,
       "word": "全网能打王者荣耀只有这十个人",
       "onboard_time": 1743170905,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131822,
+      "num": 131822,
+      "word": "乘客呼吸困难说出碱字地铁员工秒懂",
+      "onboard_time": 1743156263,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 120041,
@@ -331,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110341,
-      "num": 110341,
-      "word": "乘客呼吸困难说出碱字地铁员工秒懂",
-      "onboard_time": 1743156263,
-      "rank": 41,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 109964,
       "num": 109964,
       "word": "允儿被臭到",
@@ -353,6 +369,14 @@
       "onboard_time": 1743179182,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101370,
+      "num": 101370,
+      "word": "缅甸7.9级地震感受像车胎爆了",
+      "onboard_time": 1743197712,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 100724,
@@ -387,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93601,
+      "num": 93601,
+      "word": "管乐挟持老年人要挟观众投票",
+      "onboard_time": 1743198314,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88885,
       "num": 941425,
       "word": "这样的西藏你见过吗",
@@ -411,22 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83017,
-      "num": 83017,
-      "word": "管乐挟持老年人要挟观众投票",
-      "onboard_time": 1743198314,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 79961,
-      "num": 79961,
-      "word": "地震来临她毫不犹豫转身疏散群众",
-      "onboard_time": 1743199155,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77014,
       "num": 77014,
       "word": "于适问蒋欣在哪里",
@@ -435,12 +451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72270,
-      "num": 102749,
-      "word": "气温为啥这么癫",
-      "onboard_time": 1743192854,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 74328,
+      "num": 74328,
+      "word": "震后女警紧紧抱住伤者等候救护车",
+      "onboard_time": 1743201495,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 70598,
@@ -451,6 +467,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 67066,
+      "num": 54054,
+      "word": "震中附近一华人说人没了货也没了",
+      "onboard_time": 1743200114,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65526,
       "num": 123092,
       "word": "曼谷倒塌大楼系泰国审计署新办公楼",
@@ -459,20 +483,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 60705,
+      "num": 60705,
+      "word": "王宝强这段不像演的",
+      "onboard_time": 1743202216,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59162,
       "num": 59162,
       "word": "惊蛰无声阵容",
       "onboard_time": 1743181339,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 57768,
-      "num": 57768,
-      "word": "缅甸7.9级地震感受像车胎爆了",
-      "onboard_time": 1743197712,
-      "rank": 37,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 56324,
@@ -491,12 +515,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53471,
+      "num": 53471,
+      "word": "门童成员发文",
+      "onboard_time": 1743203959,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52751,
       "num": 52751,
       "word": "雁回时",
       "onboard_time": 1743157101,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52253,
+      "num": 52253,
+      "word": "王楚然我不张嘴就看不到我牙黑",
+      "onboard_time": 1743191595,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 50160,
+      "num": 50160,
+      "word": "北大教授的书房要向读者开放了",
+      "onboard_time": 1743196034,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47408,
+      "num": 98437,
+      "word": "中国一37人医疗队赴缅震区",
+      "onboard_time": 1743203777,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43031,
+      "num": 71361,
+      "word": "云南边境县应急部门正排查人员伤亡",
+      "onboard_time": 1743202758,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39089,
@@ -507,6 +571,30 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 37907,
+      "num": 37907,
+      "word": "嘉定纪委回应妻子举报丈夫出轨",
+      "onboard_time": 1743203898,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37403,
+      "num": 37403,
+      "word": "普京称特朗普真诚希望结束俄乌冲突",
+      "onboard_time": 1743199694,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 37385,
+      "num": 37385,
+      "word": "今年全球已发生17次6级及以上地震",
+      "onboard_time": 1743203898,
+      "rank": 47,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 36595,
       "num": 424972,
       "word": "国际工商界代表来到人民大会堂",
@@ -515,19 +603,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30778,
-      "num": 30778,
-      "word": "北大教授的书房要向读者开放了",
-      "onboard_time": 1743196034,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28169,
-      "num": 28169,
-      "word": "震中附近一华人说人没了货也没了",
-      "onboard_time": 1743200114,
-      "rank": 43,
+      "raw_hot": 34808,
+      "num": 37268,
+      "word": "玄武湖鸭子头顶蓬松爆炸头",
+      "onboard_time": 1743202577,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -547,28 +627,12 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 25867,
-      "num": 25867,
-      "word": "王楚然我不张嘴就看不到我牙黑",
-      "onboard_time": 1743191595,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 24141,
       "num": 24141,
       "word": "泰国曼谷震感持续数分钟",
       "onboard_time": 1743190454,
       "rank": 36,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 24068,
-      "num": 25856,
-      "word": "普京称特朗普真诚希望结束俄乌冲突",
-      "onboard_time": 1743199694,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23885,
@@ -643,12 +707,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 10839,
-      "num": 25863,
-      "word": "震后女警紧紧抱住伤者等候救护车",
-      "onboard_time": 1743201495,
-      "rank": 38,
-      "category": "突发/灾害"
+      "raw_hot": 8082,
+      "num": 54616,
+      "word": "缅甸地震无中国公民死亡报告",
+      "onboard_time": 1743204018,
+      "rank": 29,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
