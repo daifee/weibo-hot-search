@@ -1,7 +1,15 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743166903083,
+  "endTime": 1743168701982,
   "band_list": [
+    {
+      "raw_hot": 16869959,
+      "num": 16869959,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1743168083,
+      "rank": 0,
+      "category": "游戏"
+    },
     {
       "raw_hot": 15554018,
       "num": 15554018,
@@ -795,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1258019,
+      "num": 1258019,
+      "word": "门童曼谷场取消",
+      "onboard_time": 1743156621,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1257899,
       "num": 459695,
       "word": "男演员赵骏亚承认家暴",
@@ -1099,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 982821,
+      "num": 982821,
+      "word": "是中国人来救了我们",
+      "onboard_time": 1743163822,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 982432,
       "num": 982432,
       "word": "小米YU7",
@@ -1155,14 +1179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 965561,
-      "num": 965561,
-      "word": "门童曼谷场取消",
-      "onboard_time": 1743156621,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 962902,
       "num": 962902,
       "word": "曼谷一在建高楼地震中坍塌",
@@ -1172,7 +1188,7 @@
     },
     {
       "raw_hot": 951136,
-      "num": 520121,
+      "num": 559899,
       "word": "雪莉拍完real去了精神科",
       "onboard_time": 1743159622,
       "rank": 22,
@@ -1217,6 +1233,14 @@
       "onboard_time": 1742793984,
       "rank": 13,
       "category": "美食,艺人"
+    },
+    {
+      "raw_hot": 917995,
+      "num": 917995,
+      "word": "陈德容",
+      "onboard_time": 1743165022,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 908393,
@@ -1491,14 +1515,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 812859,
-      "num": 812859,
-      "word": "是中国人来救了我们",
-      "onboard_time": 1743163822,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 812812,
       "num": 323181,
       "word": "金秀贤称给金赛纶的信是朋友信之一",
@@ -1609,6 +1625,14 @@
       "onboard_time": 1742892621,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 784033,
+      "num": 784033,
+      "word": "雁回时21集封神",
+      "onboard_time": 1743166163,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 780526,
@@ -2635,14 +2659,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 536305,
-      "num": 536305,
-      "word": "雁回时21集封神",
-      "onboard_time": 1743166163,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 535274,
       "num": 535274,
       "word": "韩庚女儿接电话先要爸爸",
@@ -2825,6 +2841,14 @@
       "onboard_time": 1742924419,
       "rank": 11,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 509040,
+      "num": 509040,
+      "word": "黄英 和稀泥",
+      "onboard_time": 1743166524,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 508158,
@@ -3465,14 +3489,6 @@
       "onboard_time": 1743146784,
       "rank": 12,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 436374,
-      "num": 436374,
-      "word": "陈德容",
-      "onboard_time": 1743165022,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 435717,
@@ -4425,6 +4441,14 @@
       "onboard_time": 1742880081,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345908,
+      "num": 345908,
+      "word": "陈都灵值得",
+      "onboard_time": 1743167602,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 345386,
@@ -5715,6 +5739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 264653,
+      "num": 264653,
+      "word": "戒烟",
+      "onboard_time": 1743164602,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264618,
       "num": 278730,
       "word": "吃饭跑步和恋爱",
@@ -6339,6 +6371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 234479,
+      "num": 381515,
+      "word": "女童被碾压身亡案被告人获刑十个月",
+      "onboard_time": 1743167663,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234395,
       "num": 234395,
       "word": "美国就与俄罗斯会谈发表声明",
@@ -6361,6 +6401,14 @@
       "onboard_time": 1743146304,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233918,
+      "num": 233918,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1743167422,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 233863,
@@ -7339,6 +7387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205674,
+      "num": 560074,
+      "word": "国家市场监管总局回应长和港口事件",
+      "onboard_time": 1743167724,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205361,
       "num": 205361,
       "word": "王俊凯拼接皮衣",
@@ -7641,6 +7697,14 @@
       "onboard_time": 1743130580,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201048,
+      "num": 201048,
+      "word": "雁回时热度破29000",
+      "onboard_time": 1743168325,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 201019,
@@ -8643,14 +8707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185225,
-      "num": 185225,
-      "word": "黄英 和稀泥",
-      "onboard_time": 1743166524,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185155,
       "num": 185155,
       "word": "金玟庭彩色格裙look",
@@ -8696,6 +8752,14 @@
       "word": "国防部批驳七国集团",
       "onboard_time": 1743074242,
       "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 183957,
+      "num": 425376,
+      "word": "市监总局将依法审查长和港口交易",
+      "onboard_time": 1743164001,
+      "rank": 27,
       "category": "国内时政"
     },
     {
@@ -8896,6 +8960,14 @@
       "word": "动画还原船长公海被杀抛尸",
       "onboard_time": 1743135981,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179837,
+      "num": 521947,
+      "word": "自3月31日起全面停止收取门诊预交金",
+      "onboard_time": 1743162861,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -9107,6 +9179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175109,
+      "num": 175109,
+      "word": "王俊凯说没有人可以影响我",
+      "onboard_time": 1743168565,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174914,
       "num": 174914,
       "word": "张馨予的瘦身思路",
@@ -9219,14 +9299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173492,
-      "num": 425376,
-      "word": "市监总局将依法审查长和港口交易",
-      "onboard_time": 1743164001,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 173449,
       "num": 173449,
       "word": "陈都灵新剧重担也压不弯的风骨",
@@ -9281,14 +9353,6 @@
       "onboard_time": 1742786422,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172119,
-      "num": 172119,
-      "word": "戒烟",
-      "onboard_time": 1743164602,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 171979,
@@ -9467,6 +9531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168844,
+      "num": 168844,
+      "word": "于斌否认退圈",
+      "onboard_time": 1743167963,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168585,
       "num": 168585,
       "word": "李晟我就是命好同款壁纸",
@@ -9489,6 +9561,14 @@
       "onboard_time": 1742960361,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168275,
+      "num": 168275,
+      "word": "星穹铁道3.2版本前瞻",
+      "onboard_time": 1743166702,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 168235,
@@ -9657,14 +9737,6 @@
       "onboard_time": 1742977882,
       "rank": 31,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 164701,
-      "num": 164701,
-      "word": "星穹铁道3.2版本前瞻",
-      "onboard_time": 1743166702,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 164330,
@@ -9905,14 +9977,6 @@
       "onboard_time": 1742949443,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161540,
-      "num": 521947,
-      "word": "自3月31日起全面停止收取门诊预交金",
-      "onboard_time": 1743162861,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161506,
@@ -10609,6 +10673,14 @@
       "onboard_time": 1742710700,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152557,
+      "num": 152557,
+      "word": "甲亢哥对记者贴脸输出",
+      "onboard_time": 1743168506,
+      "rank": 49,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 152540,
@@ -15819,6 +15891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91142,
+      "num": 1400149,
+      "word": "中国新一代人造太阳又有突破",
+      "onboard_time": 1743155123,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90935,
       "num": 90935,
       "word": "美机长飞上海忘带护照延误6小时",
@@ -15905,14 +15985,6 @@
       "onboard_time": 1743063083,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 88351,
-      "num": 1193025,
-      "word": "中国新一代人造太阳又有突破",
-      "onboard_time": 1743155123,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87917,
@@ -16993,6 +17065,14 @@
       "onboard_time": 1743143480,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 66352,
+      "num": 417294,
+      "word": "缅甸当地居民称情况非常糟糕",
+      "onboard_time": 1743167845,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 65890,
@@ -18427,6 +18507,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 39646,
+      "num": 414652,
+      "word": "张凌赫Gucci竹境造型",
+      "onboard_time": 1743165441,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 39622,
       "num": 160928,
       "word": "牛肉干里完全无牛6人被判刑",
@@ -18681,14 +18769,6 @@
       "onboard_time": 1742995400,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 36045,
-      "num": 414652,
-      "word": "张凌赫Gucci竹境造型",
-      "onboard_time": 1743165441,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 35920,
@@ -19753,6 +19833,14 @@
       "onboard_time": 1743069982,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 20422,
+      "num": 159145,
+      "word": "Gucci竹节包历经岁月的优雅",
+      "onboard_time": 1743167845,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 20416,

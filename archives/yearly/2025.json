@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743166903083,
+  "endTime": 1743168701982,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -137,6 +137,14 @@
       "onboard_time": 1739707158,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16869959,
+      "num": 16869959,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1738032375,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 16802991,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736512521,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2779346,
-      "num": 578461,
-      "word": "上海大学回应女生考研专业课10分",
-      "onboard_time": 1740875718,
-      "rank": 3,
-      "category": "舆论监督"
     }
   ],
   "hotgov_list": [
