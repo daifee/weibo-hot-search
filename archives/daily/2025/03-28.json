@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743157563230,
+  "endTime": 1743158584991,
   "band_list": [
     {
       "raw_hot": 15554018,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1283455,
+      "num": 1283455,
+      "word": "乘客呼吸困难说出碱字地铁员工秒懂",
+      "onboard_time": 1743156263,
+      "rank": 5,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 1267965,
       "num": 305153,
       "word": "赵露思问山区小朋友拍过艺术照没",
@@ -193,14 +201,6 @@
       "onboard_time": 1743125001,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 838316,
-      "num": 838316,
-      "word": "乘客呼吸困难说出碱字地铁员工秒懂",
-      "onboard_time": 1743156263,
-      "rank": 5,
-      "category": "正能量"
     },
     {
       "raw_hot": 815054,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 767215,
-      "num": 523151,
+      "num": 544497,
       "word": "雪莉遗属要求金秀贤回应",
       "onboard_time": 1743154040,
       "rank": 11,
@@ -339,8 +339,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 633058,
-      "num": 515551,
+      "raw_hot": 635996,
+      "num": 543443,
       "word": "金赛纶 细思极恐",
       "onboard_time": 1743155123,
       "rank": 11,
@@ -387,20 +387,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 539530,
+      "num": 539530,
+      "word": "山姆必买",
+      "onboard_time": 1743154823,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 535274,
       "num": 535274,
       "word": "韩庚女儿接电话先要爸爸",
       "onboard_time": 1743145584,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 528881,
-      "num": 528881,
-      "word": "山姆必买",
-      "onboard_time": 1743154823,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 525613,
@@ -763,6 +763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 282806,
+      "num": 491543,
+      "word": "门童曼谷场取消",
+      "onboard_time": 1743156621,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 276462,
       "num": 276462,
       "word": "网曝沈阳一井盖飞起砸穿车窗",
@@ -859,20 +867,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254556,
+      "num": 254556,
+      "word": "金秀贤疑似强行加床戏",
+      "onboard_time": 1743158062,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 254452,
+      "num": 254452,
+      "word": "赵露思聊生病打乱人生计划",
+      "onboard_time": 1743157281,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253189,
       "num": 331026,
       "word": "侯佩岑组第一",
       "onboard_time": 1743144304,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252875,
-      "num": 252875,
-      "word": "门童曼谷场取消",
-      "onboard_time": 1743156621,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 251471,
@@ -1011,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222053,
+      "num": 222053,
+      "word": "雁回时",
+      "onboard_time": 1743067521,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220905,
       "num": 220905,
       "word": "唐嫣拍摄念无双时期的手机屏保",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1743132260,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209574,
+      "num": 209574,
+      "word": "给没到27岁的人一个浪漫建议",
+      "onboard_time": 1743155181,
+      "rank": 29,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 209064,
@@ -1275,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194769,
+      "num": 351064,
+      "word": "经历汶川地震女子又遇缅甸地震",
+      "onboard_time": 1743157460,
+      "rank": 34,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 194502,
       "num": 194502,
       "word": "公司回应加班10晚可帮缴社保个人部分",
@@ -1323,20 +1363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191727,
-      "num": 191727,
-      "word": "雁回时",
-      "onboard_time": 1743067521,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191496,
       "num": 199421,
       "word": "男子20万买法拍房连门都进不去",
       "onboard_time": 1743141621,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191475,
+      "num": 191475,
+      "word": "王一博驾着小粉再出发",
+      "onboard_time": 1743158241,
+      "rank": 35,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 190882,
@@ -1369,14 +1409,6 @@
       "onboard_time": 1743139642,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188818,
-      "num": 188818,
-      "word": "给没到27岁的人一个浪漫建议",
-      "onboard_time": 1743155181,
-      "rank": 29,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 187167,
@@ -1539,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171223,
+      "num": 204873,
+      "word": "在缅华人讲述地震瞬间",
+      "onboard_time": 1743157822,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171151,
       "num": 171151,
       "word": "张继科没拿过全运会男单冠军",
@@ -1553,6 +1593,14 @@
       "onboard_time": 1743134661,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168937,
+      "num": 168937,
+      "word": "中国人造太阳电子温度已达1.6亿度",
+      "onboard_time": 1743156203,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168585,
@@ -1659,22 +1707,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 151838,
-      "num": 151838,
-      "word": "赵露思聊生病打乱人生计划",
-      "onboard_time": 1743157281,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 151699,
-      "num": 151699,
-      "word": "中国人造太阳电子温度已达1.6亿度",
-      "onboard_time": 1743156203,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151393,
       "num": 151393,
       "word": "第五人格",
@@ -1697,6 +1729,14 @@
       "onboard_time": 1743132983,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149294,
+      "num": 149294,
+      "word": "花傲天 华晨宇偷拍照",
+      "onboard_time": 1743157401,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 149145,
@@ -1963,6 +2003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117820,
+      "num": 357532,
+      "word": "Gucci竹系少年",
+      "onboard_time": 1743157041,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 117795,
       "num": 158271,
       "word": "日本教练说天赋高的球员中国比日本多",
@@ -2035,14 +2083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111885,
-      "num": 174838,
-      "word": "经历汶川地震女子又遇缅甸地震",
-      "onboard_time": 1743157460,
-      "rank": 34,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 108337,
       "num": 108337,
       "word": "金秀贤韩国粉丝俱乐部没了",
@@ -2065,6 +2105,14 @@
       "onboard_time": 1743122421,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107010,
+      "num": 138761,
+      "word": "安宰贤止步男单32强",
+      "onboard_time": 1743158121,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 103799,
@@ -2129,6 +2177,14 @@
       "onboard_time": 1743138380,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 97922,
+      "num": 547231,
+      "word": "缅甸曼德勒一清真寺坍塌10人丧生",
+      "onboard_time": 1743157101,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 97114,
@@ -2300,7 +2356,7 @@
     },
     {
       "raw_hot": 81263,
-      "num": 987249,
+      "num": 1023696,
       "word": "中国新一代人造太阳又有突破",
       "onboard_time": 1743155123,
       "rank": 2,
@@ -2371,6 +2427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 77798,
+      "num": 351497,
+      "word": "缅甸华人称有几十栋酒店倒塌",
+      "onboard_time": 1743158002,
+      "rank": 18,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 76976,
       "num": 86655,
       "word": "念无双",
@@ -2393,6 +2457,14 @@
       "onboard_time": 1743133941,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73581,
+      "num": 493043,
+      "word": "缅甸地震或引发局部海啸",
+      "onboard_time": 1743148703,
+      "rank": 16,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 73001,
@@ -2539,14 +2611,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 59764,
-      "num": 129513,
-      "word": "Gucci竹系少年",
-      "onboard_time": 1743157041,
-      "rank": 49,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 59539,
       "num": 59539,
       "word": "权志龙回应时隔7年回归",
@@ -2556,7 +2620,7 @@
     },
     {
       "raw_hot": 59325,
-      "num": 174905,
+      "num": 204993,
       "word": "周翊然复古Gucci感大片",
       "onboard_time": 1743155181,
       "rank": 32,
@@ -2811,14 +2875,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 31227,
-      "num": 404836,
-      "word": "缅甸曼德勒一清真寺坍塌10人丧生",
-      "onboard_time": 1743157101,
-      "rank": 14,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 29472,
       "num": 37427,
       "word": "针对美方加征关税措施中方已起诉",
@@ -2881,6 +2937,14 @@
       "onboard_time": 1743096855,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25747,
+      "num": 205825,
+      "word": "文淇好绝一GucciGirl",
+      "onboard_time": 1743157460,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 23748,
@@ -3003,14 +3067,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13744,
-      "num": 372866,
-      "word": "缅甸地震或引发局部海啸",
-      "onboard_time": 1743148703,
-      "rank": 16,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 12938,
       "num": 14826,
       "word": "胡静发文致谢所有人",
@@ -3057,14 +3113,6 @@
       "onboard_time": 1743133461,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9121,
-      "num": 174856,
-      "word": "文淇好绝一GucciGirl",
-      "onboard_time": 1743157460,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 3748,
