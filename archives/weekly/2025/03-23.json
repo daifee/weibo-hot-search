@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743183589627,
+  "endTime": 1743186863989,
   "band_list": [
     {
       "raw_hot": 18900626,
@@ -13651,6 +13651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122311,
+      "num": 122311,
+      "word": "缅甸华人称今晚扛垫子睡路边",
+      "onboard_time": 1743184335,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 122276,
       "num": 122276,
       "word": "第五人格七周年",
@@ -20169,6 +20177,14 @@
       "onboard_time": 1742976199,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 23885,
+      "num": 33525,
+      "word": "AG对战Hero",
+      "onboard_time": 1743185416,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 23860,

@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743183589627,
+  "endTime": 1743186863989,
   "band_list": [
     {
       "raw_hot": 1473239,
@@ -291,6 +291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122311,
+      "num": 122311,
+      "word": "缅甸华人称今晚扛垫子睡路边",
+      "onboard_time": 1743184335,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 120041,
       "num": 120041,
       "word": "刘耀文 进组",
@@ -465,6 +473,14 @@
       "onboard_time": 1743177983,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23885,
+      "num": 33525,
+      "word": "AG对战Hero",
+      "onboard_time": 1743185416,
+      "rank": 49,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
