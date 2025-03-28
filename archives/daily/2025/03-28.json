@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743147427997,
+  "endTime": 1743150668971,
   "band_list": [
     {
       "raw_hot": 15554018,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2096450,
+      "num": 2096450,
+      "word": "虞书欣方发文报平安",
+      "onboard_time": 1743148526,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2023764,
       "num": 2023764,
       "word": "张睿说新还珠主演除了李晟都有联系",
@@ -57,6 +65,14 @@
       "onboard_time": 1743125839,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1701183,
+      "num": 717238,
+      "word": "西安震感",
+      "onboard_time": 1743147324,
+      "rank": 43,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1611899,
@@ -107,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1083457,
+      "num": 1083457,
+      "word": "直击缅甸地震",
+      "onboard_time": 1743148883,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1038692,
       "num": 1038692,
       "word": "张继科想参加2029全运会",
@@ -121,6 +145,22 @@
       "onboard_time": 1743129020,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 943464,
+      "num": 943464,
+      "word": "曼谷一在建高楼地震中坍塌",
+      "onboard_time": 1743147384,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 871253,
+      "num": 871253,
+      "word": "曼谷在建高楼倒塌1人死亡43人失踪",
+      "onboard_time": 1743149243,
+      "rank": 7,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 870003,
@@ -259,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 609770,
+      "num": 609770,
+      "word": "全球今年以来最大的地震",
+      "onboard_time": 1743146843,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 604339,
       "num": 604339,
       "word": "南宁震感",
@@ -281,6 +329,14 @@
       "onboard_time": 1743145584,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 521324,
+      "num": 521324,
+      "word": "甲亢哥 少林寺",
+      "onboard_time": 1743149303,
+      "rank": 15,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 501197,
@@ -331,6 +387,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 446680,
+      "num": 446680,
+      "word": "95后国企干部为伪装贪腐借贷生活",
+      "onboard_time": 1743148583,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436683,
+      "num": 610149,
+      "word": "缅甸又发生6.4级地震",
+      "onboard_time": 1743146784,
+      "rank": 12,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 428155,
+      "num": 428155,
+      "word": "云南瑞丽已组织救援人员集结",
+      "onboard_time": 1743149483,
+      "rank": 21,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 411666,
       "num": 411666,
       "word": "赵一博回归种地吧3录制",
@@ -363,14 +443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 388090,
-      "num": 610149,
-      "word": "缅甸又发生6.4级地震",
-      "onboard_time": 1743146784,
-      "rank": 12,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 372288,
       "num": 372288,
       "word": "央视曝街边高价收药猫腻",
@@ -385,6 +457,14 @@
       "onboard_time": 1743118219,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364429,
+      "num": 364429,
+      "word": "缅甸地震云南建筑晃动扬起巨大灰尘",
+      "onboard_time": 1743149844,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 358501,
@@ -473,6 +553,14 @@
       "onboard_time": 1743139822,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315255,
+      "num": 315255,
+      "word": "一件衣服穿三季是什么体验",
+      "onboard_time": 1743148643,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 314824,
@@ -627,6 +715,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 258525,
+      "num": 783738,
+      "word": "现场直击缅甸7.9级地震",
+      "onboard_time": 1743149002,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 257748,
       "num": 184090,
       "word": "把蔡文静的伤痕看成了吻痕",
@@ -643,16 +739,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255469,
-      "num": 255469,
-      "word": "全球今年以来最大的地震",
-      "onboard_time": 1743146843,
-      "rank": 23,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 253189,
-      "num": 246024,
+      "num": 331026,
       "word": "侯佩岑组第一",
       "onboard_time": 1743144304,
       "rank": 36,
@@ -665,6 +753,14 @@
       "onboard_time": 1743122601,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250764,
+      "num": 339310,
+      "word": "张小婉救场",
+      "onboard_time": 1743150384,
+      "rank": 25,
+      "category": "综艺,电影"
     },
     {
       "raw_hot": 249640,
@@ -747,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226699,
+      "num": 226699,
+      "word": "缅甸地震可能引发局地海啸",
+      "onboard_time": 1743148285,
+      "rank": 34,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 223741,
       "num": 251822,
       "word": "刘学义演技",
@@ -803,12 +907,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217581,
+      "num": 678279,
+      "word": "缅甸附近地震不会对我国沿岸造成影响",
+      "onboard_time": 1743146425,
+      "rank": 27,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 217182,
       "num": 247135,
       "word": "陈都灵温峥嵘 久久无法出戏的母女",
       "onboard_time": 1743131900,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214703,
+      "num": 214703,
+      "word": "7级地震有多大破坏力",
+      "onboard_time": 1743147803,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211826,
@@ -859,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204836,
+      "num": 204836,
+      "word": "祝绪丹跳舞好像美少女战士",
+      "onboard_time": 1743149423,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203624,
       "num": 203624,
       "word": "金饰价飙涨到934元",
@@ -873,6 +1001,14 @@
       "onboard_time": 1743135801,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202749,
+      "num": 437011,
+      "word": "缅甸一地标大桥部分坍塌",
+      "onboard_time": 1743148824,
+      "rank": 18,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 202532,
@@ -897,6 +1033,14 @@
       "onboard_time": 1743130580,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201129,
+      "num": 436818,
+      "word": "被抢婴儿18年后直面人贩子",
+      "onboard_time": 1743149243,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200641,
@@ -931,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197741,
+      "num": 197741,
+      "word": "广西南宁震感强烈",
+      "onboard_time": 1743147983,
+      "rank": 43,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 196761,
       "num": 196761,
       "word": "Ariana Grande",
@@ -945,6 +1097,14 @@
       "onboard_time": 1743140302,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196340,
+      "num": 196340,
+      "word": "黄奕男装撞脸王俊凯",
+      "onboard_time": 1743150444,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 194843,
@@ -969,6 +1129,14 @@
       "onboard_time": 1743140481,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 193342,
+      "num": 193342,
+      "word": "陈哲远晒张婧仪合照",
+      "onboard_time": 1743149782,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 192103,
@@ -1107,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179615,
+      "num": 179615,
+      "word": "瑞丽居民讲述地震瞬间",
+      "onboard_time": 1743149664,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179570,
       "num": 208260,
       "word": "田柾国向山火灾区捐款10亿韩元",
@@ -1115,12 +1291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178720,
-      "num": 178720,
-      "word": "西安震感",
-      "onboard_time": 1743147324,
-      "rank": 43,
-      "category": "突发/灾害"
+      "raw_hot": 176783,
+      "num": 176783,
+      "word": "五年了童瑶还是那么在乎包",
+      "onboard_time": 1743147624,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 176025,
@@ -1145,6 +1321,14 @@
       "onboard_time": 1743142522,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171291,
+      "num": 180590,
+      "word": "陈梦发博晒美照",
+      "onboard_time": 1743148044,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 171151,
@@ -1307,12 +1491,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 145932,
-      "num": 179782,
-      "word": "曼谷一在建高楼地震中坍塌",
-      "onboard_time": 1743147384,
-      "rank": 41,
-      "category": "突发/灾害"
+      "raw_hot": 144714,
+      "num": 179859,
+      "word": "燕云十六声延迟开服",
+      "onboard_time": 1743149602,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 143658,
@@ -1337,6 +1521,14 @@
       "onboard_time": 1743136343,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141441,
+      "num": 316656,
+      "word": "泰国首都曼谷进入紧急状态",
+      "onboard_time": 1743150566,
+      "rank": 30,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 139246,
@@ -1587,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107987,
+      "num": 437708,
+      "word": "王鹤棣转角帅我一脸",
+      "onboard_time": 1743149002,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107653,
       "num": 176177,
       "word": "陈都灵喻恩泰对峙戏",
@@ -1689,14 +1889,6 @@
       "onboard_time": 1743088942,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92367,
-      "num": 678279,
-      "word": "缅甸附近地震不会对我国沿岸造成影响",
-      "onboard_time": 1743146425,
-      "rank": 27,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 91467,
@@ -2051,6 +2243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 60052,
+      "num": 327834,
+      "word": "女子吐槽楼道摄像头对着自家门口",
+      "onboard_time": 1743149543,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59539,
       "num": 59539,
       "word": "权志龙回应时隔7年回归",
@@ -2227,12 +2427,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 37297,
+      "num": 539645,
+      "word": "保洁员医院天台坠亡医院判赔19万",
+      "onboard_time": 1743149121,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36592,
       "num": 604678,
       "word": "90后代祭扫基础套餐定价300元",
       "onboard_time": 1743146485,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33952,
+      "num": 320988,
+      "word": "智搜称7.9级地震属于极高强度地震",
+      "onboard_time": 1743149723,
+      "rank": 29,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 33891,
@@ -2248,6 +2464,14 @@
       "word": "女子受托雅典买房收280万后玩失踪",
       "onboard_time": 1743142282,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29900,
+      "num": 224429,
+      "word": "有一种美叫曹县汉服",
+      "onboard_time": 1743149844,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -2503,6 +2727,9 @@
     },
     {
       "word": "#习近平会见国际工商界代表#"
+    },
+    {
+      "word": "#与中国同行就是与机遇同行#"
     }
   ]
 }
