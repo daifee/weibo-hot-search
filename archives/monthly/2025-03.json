@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743158584991,
+  "endTime": 1743160822623,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1859,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1804485,
+      "num": 1804485,
+      "word": "乘客呼吸困难说出碱字地铁员工秒懂",
+      "onboard_time": 1743156263,
+      "rank": 5,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 1804315,
       "num": 1804315,
       "word": "女生劝阻吸烟被怼不闻烟味别出来吃饭",
@@ -3649,14 +3657,6 @@
       "onboard_time": 1741962563,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1283455,
-      "num": 1283455,
-      "word": "乘客呼吸困难说出碱字地铁员工秒懂",
-      "onboard_time": 1743156263,
-      "rank": 5,
-      "category": "正能量"
     },
     {
       "raw_hot": 1282686,
@@ -8083,6 +8083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 798232,
+      "num": 301432,
+      "word": "袁冰妍ins更新",
+      "onboard_time": 1743159082,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 798197,
       "num": 798197,
       "word": "蒋梦婕人脉",
@@ -8459,6 +8467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 768901,
+      "num": 297569,
+      "word": "金秀贤疑似强行加床戏",
+      "onboard_time": 1743158062,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 768889,
       "num": 768889,
       "word": "原来这些歌都是李晟唱的",
@@ -8799,6 +8815,14 @@
       "num": 668790,
       "word": "沈腾 斯内普",
       "onboard_time": 1741787126,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 755248,
+      "num": 755248,
+      "word": "罗志祥妈妈患阿尔兹海默症",
+      "onboard_time": 1743159141,
       "rank": 3,
       "category": "艺人"
     },
@@ -18603,6 +18627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 393414,
+      "num": 393414,
+      "word": "缅甸华人称有几十栋酒店倒塌",
+      "onboard_time": 1743158002,
+      "rank": 18,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 393281,
       "num": 272920,
       "word": "厌蠢其实是种情绪暴力",
@@ -23923,6 +23955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 298850,
+      "num": 278983,
+      "word": "雪莉拍完real去了精神科",
+      "onboard_time": 1743159622,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298801,
       "num": 298801,
       "word": "Angelababy高定长裙",
@@ -26283,6 +26323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269172,
+      "num": 269172,
+      "word": "男子爱车被开罚单意外发现妻子出轨",
+      "onboard_time": 1743159321,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269164,
       "num": 269164,
       "word": "男子患癌花40多万半张脸没了",
@@ -26305,6 +26353,14 @@
       "onboard_time": 1741919662,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268957,
+      "num": 268957,
+      "word": "刘诗诗选竹笛是因为好看",
+      "onboard_time": 1743159681,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 268954,
@@ -27721,14 +27777,6 @@
       "onboard_time": 1741324825,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 254556,
-      "num": 254556,
-      "word": "金秀贤疑似强行加床戏",
-      "onboard_time": 1743158062,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 254537,
@@ -44324,7 +44372,7 @@
     },
     {
       "raw_hot": 168937,
-      "num": 168937,
+      "num": 279012,
       "word": "中国人造太阳电子温度已达1.6亿度",
       "onboard_time": 1743156203,
       "rank": 40,
@@ -57307,6 +57355,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 130925,
+      "num": 130925,
+      "word": "7.9级地震是什么概念",
+      "onboard_time": 1743159023,
+      "rank": 45,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 130897,
       "num": 130897,
       "word": "肖战是歌手也是策划",
@@ -57473,6 +57529,14 @@
       "onboard_time": 1742175081,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130338,
+      "num": 357532,
+      "word": "Gucci竹系少年",
+      "onboard_time": 1743157041,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 130333,
@@ -60331,6 +60395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123181,
+      "num": 123181,
+      "word": "real",
+      "onboard_time": 1743158841,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123174,
       "num": 123174,
       "word": "孙颖莎看李雅可的眼神好可爱",
@@ -62449,14 +62521,6 @@
       "onboard_time": 1741086140,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117820,
-      "num": 357532,
-      "word": "Gucci竹系少年",
-      "onboard_time": 1743157041,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 117795,
@@ -73468,7 +73532,7 @@
     },
     {
       "raw_hot": 81263,
-      "num": 1023696,
+      "num": 1120567,
       "word": "中国新一代人造太阳又有突破",
       "onboard_time": 1743155123,
       "rank": 2,
@@ -74107,14 +74171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77798,
-      "num": 351497,
-      "word": "缅甸华人称有几十栋酒店倒塌",
-      "onboard_time": 1743158002,
-      "rank": 18,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 77794,
       "num": 77794,
       "word": "专家称把钱给到位了自然有人消费",
@@ -74409,6 +74465,14 @@
       "onboard_time": 1741416621,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 76437,
+      "num": 294913,
+      "word": "起猛了看见上海人用卡车送奶茶",
+      "onboard_time": 1743159681,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76434,
@@ -78227,6 +78291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57455,
+      "num": 162944,
+      "word": "李沁文淇竹系美人",
+      "onboard_time": 1743159802,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57435,
       "num": 312576,
       "word": "心理咨询室里找不到主体性的女性",
@@ -80227,6 +80299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49726,
+      "num": 162506,
+      "word": "寺庙旅行",
+      "onboard_time": 1743160462,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 49714,
       "num": 619112,
       "word": "2025中国发展主要预期目标",
@@ -81531,6 +81611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43545,
+      "num": 223318,
+      "word": "文淇好绝一GucciGirl",
+      "onboard_time": 1743157460,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 43542,
       "num": 214142,
       "word": "四川一街头惊现免费买新房广告语",
@@ -81729,6 +81817,14 @@
       "onboard_time": 1742791165,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42694,
+      "num": 269555,
+      "word": "棋士微博追剧团",
+      "onboard_time": 1743160581,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 42690,
@@ -82073,6 +82169,14 @@
       "onboard_time": 1742220264,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41577,
+      "num": 302831,
+      "word": "古驰竹节手袋展",
+      "onboard_time": 1743159802,
+      "rank": 11,
+      "category": "时尚"
     },
     {
       "raw_hot": 41548,
@@ -86849,14 +86953,6 @@
       "onboard_time": 1741877664,
       "rank": 23,
       "category": "国内时政,国际时政"
-    },
-    {
-      "raw_hot": 25747,
-      "num": 205825,
-      "word": "文淇好绝一GucciGirl",
-      "onboard_time": 1743157460,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 25697,
