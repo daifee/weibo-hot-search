@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743137004627,
+  "endTime": 1743139512840,
   "band_list": [
     {
       "raw_hot": 2004301,
@@ -43,8 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1312567,
-      "num": 315541,
+      "raw_hot": 1336762,
+      "num": 1336762,
       "word": "我以为演员要学历",
       "onboard_time": 1743135020,
       "rank": 32,
@@ -57,6 +57,30 @@
       "onboard_time": 1743131180,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1246919,
+      "num": 525031,
+      "word": "陈德容王蓉吵起来了",
+      "onboard_time": 1743138681,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1176354,
+      "num": 319267,
+      "word": "张睿说新还珠主演除了李晟都有联系",
+      "onboard_time": 1743138802,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1038692,
+      "num": 1038692,
+      "word": "张继科想参加2029全运会",
+      "onboard_time": 1743136040,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1005612,
@@ -73,14 +97,6 @@
       "onboard_time": 1743134181,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 868917,
-      "num": 868917,
-      "word": "张继科想参加2029全运会",
-      "onboard_time": 1743136040,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 859286,
@@ -160,6 +176,14 @@
       "word": "浪姐一公",
       "onboard_time": 1743135502,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 507779,
+      "num": 177445,
+      "word": "赵露思问爷爷为什么不传手艺",
+      "onboard_time": 1743139101,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -283,12 +307,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 319839,
+      "num": 323433,
+      "word": "普京回应特朗普吞并格陵兰岛言论",
+      "onboard_time": 1743135203,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 317791,
       "num": 317791,
       "word": "吉迪绝杀湖人",
       "onboard_time": 1743130460,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 317656,
+      "num": 317656,
+      "word": "爆火的瑞士平替成了罪恶的婴儿工厂",
+      "onboard_time": 1743133041,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 314824,
@@ -361,14 +401,6 @@
       "onboard_time": 1743134362,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 281117,
-      "num": 281117,
-      "word": "爆火的瑞士平替成了罪恶的婴儿工厂",
-      "onboard_time": 1743133041,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 276372,
@@ -451,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234559,
-      "num": 323433,
-      "word": "普京回应特朗普吞并格陵兰岛言论",
-      "onboard_time": 1743135203,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 235723,
+      "num": 172075,
+      "word": "吴宣仪把浪姐当做倒数的舞台",
+      "onboard_time": 1743138263,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 227941,
@@ -571,6 +603,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208617,
+      "num": 170520,
+      "word": "杨洋撒羽毛变焦视频",
+      "onboard_time": 1743138681,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206848,
+      "num": 169927,
+      "word": "张杰北京鸟巢限定舞台",
+      "onboard_time": 1743138681,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203624,
       "num": 203624,
       "word": "金饰价飙涨到934元",
@@ -609,6 +657,14 @@
       "onboard_time": 1743084383,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194843,
+      "num": 174720,
+      "word": "你可以回去但那儿已经没有人了",
+      "onboard_time": 1743138802,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 194502,
@@ -651,6 +707,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187823,
+      "num": 167500,
+      "word": "一问全不熟一查全有仇",
+      "onboard_time": 1743139041,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185363,
+      "num": 166815,
+      "word": "王俊凯太有节目了",
+      "onboard_time": 1743139462,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183493,
       "num": 183493,
       "word": "梦花廷",
@@ -681,6 +753,14 @@
       "onboard_time": 1743128121,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 179880,
+      "num": 201317,
+      "word": "动画还原船长公海被杀抛尸",
+      "onboard_time": 1743135981,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176025,
@@ -715,12 +795,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161259,
-      "num": 201317,
-      "word": "动画还原船长公海被杀抛尸",
-      "onboard_time": 1743135981,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 165074,
+      "num": 165074,
+      "word": "浪姐6是一场巨大的callback",
+      "onboard_time": 1743137782,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 158759,
@@ -745,6 +825,14 @@
       "onboard_time": 1743129979,
       "rank": 36,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 155975,
+      "num": 155975,
+      "word": "王珞丹长发梦回后会无期",
+      "onboard_time": 1743137782,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 155535,
@@ -843,6 +931,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141937,
+      "num": 141937,
+      "word": "张俪有这美貌早该上天庭了",
+      "onboard_time": 1743139401,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139246,
+      "num": 139246,
+      "word": "下一个台风",
+      "onboard_time": 1743139101,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138904,
       "num": 136055,
       "word": "王一博 赛场见",
@@ -872,6 +976,14 @@
       "word": "天津下雪",
       "onboard_time": 1743127460,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134914,
+      "num": 174025,
+      "word": "丈夫长期失联妻子离婚获家务劳动补偿",
+      "onboard_time": 1743137601,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -915,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122561,
+      "num": 122561,
+      "word": "50岁当20多年兽医成了千万网红",
+      "onboard_time": 1743139041,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122462,
       "num": 230308,
       "word": "药店为KPI求药贩子来套医保",
@@ -931,12 +1051,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121578,
+      "num": 121578,
+      "word": "沈梦辰被大风吹到脸部颤抖",
+      "onboard_time": 1743139401,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121122,
       "num": 244383,
       "word": "马斯克回应特朗普对进口汽车加征关税",
       "onboard_time": 1743116298,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 119905,
+      "num": 119905,
+      "word": "父亲希望全红婵开心过好每一天",
+      "onboard_time": 1743139342,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 118176,
@@ -1043,6 +1179,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99129,
+      "num": 156010,
+      "word": "宣萱回应和古天乐绯闻",
+      "onboard_time": 1743134661,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98366,
+      "num": 168032,
+      "word": "韩报告称儿童像行李一样被送往海外",
+      "onboard_time": 1743138380,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 96913,
       "num": 96913,
       "word": "广州地铁",
@@ -1144,6 +1296,14 @@
       "word": "女孩遭强奸案民警被控渎职不予立案",
       "onboard_time": 1743076521,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84648,
+      "num": 652794,
+      "word": "北京卫视4K超高清频道震撼亮相",
+      "onboard_time": 1743137541,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1259,6 +1419,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 75665,
+      "num": 177519,
+      "word": "四舍五入我也登上过珠峰了",
+      "onboard_time": 1743133941,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70970,
+      "num": 156504,
+      "word": "权志龙为山火灾区捐款",
+      "onboard_time": 1743139342,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70384,
       "num": 70384,
       "word": "TheShy回应Bin喊话",
@@ -1273,6 +1449,14 @@
       "onboard_time": 1743132859,
       "rank": 13,
       "category": "综艺,剧集"
+    },
+    {
+      "raw_hot": 69930,
+      "num": 171285,
+      "word": "全红婵回应成年后是否改变风格",
+      "onboard_time": 1743138323,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 69685,
@@ -1481,6 +1665,14 @@
       "onboard_time": 1743133101,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38679,
+      "num": 137057,
+      "word": "美国高官群聊情景重现",
+      "onboard_time": 1743136163,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37446,

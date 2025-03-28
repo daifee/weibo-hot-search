@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743137004627,
+  "endTime": 1743139512840,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1336762,
+      "num": 1336762,
+      "word": "我以为演员要学历",
+      "onboard_time": 1743135020,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1330027,
       "num": 1330027,
       "word": "郭麒麟正面回应德云社继承人",
@@ -648,14 +656,6 @@
       "word": "跑男真把吴昕喊来了",
       "onboard_time": 1742891781,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1312567,
-      "num": 315541,
-      "word": "我以为演员要学历",
-      "onboard_time": 1743135020,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -705,6 +705,14 @@
       "onboard_time": 1742734284,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1246919,
+      "num": 525031,
+      "word": "陈德容王蓉吵起来了",
+      "onboard_time": 1743138681,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1246238,
@@ -784,6 +792,14 @@
       "word": "温峥嵘我向您道歉",
       "onboard_time": 1742730980,
       "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1176354,
+      "num": 319267,
+      "word": "张睿说新还珠主演除了李晟都有联系",
+      "onboard_time": 1743138802,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -905,6 +921,14 @@
       "onboard_time": 1743007158,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1038692,
+      "num": 1038692,
+      "word": "张继科想参加2029全运会",
+      "onboard_time": 1743136040,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1035695,
@@ -1153,14 +1177,6 @@
       "onboard_time": 1743134181,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 868917,
-      "num": 868917,
-      "word": "张继科想参加2029全运会",
-      "onboard_time": 1743136040,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 867219,
@@ -2497,6 +2513,14 @@
       "onboard_time": 1742814982,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 507779,
+      "num": 177445,
+      "word": "赵露思问爷爷为什么不传手艺",
+      "onboard_time": 1743139101,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 507119,
@@ -4267,6 +4291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319839,
+      "num": 323433,
+      "word": "普京回应特朗普吞并格陵兰岛言论",
+      "onboard_time": 1743135203,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 319359,
       "num": 319359,
       "word": "王星 无限超越班",
@@ -4305,6 +4337,14 @@
       "onboard_time": 1742890102,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317656,
+      "num": 317656,
+      "word": "爆火的瑞士平替成了罪恶的婴儿工厂",
+      "onboard_time": 1743133041,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 316581,
@@ -4857,14 +4897,6 @@
       "onboard_time": 1742870300,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281117,
-      "num": 281117,
-      "word": "爆火的瑞士平替成了罪恶的婴儿工厂",
-      "onboard_time": 1743133041,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 280872,
@@ -5691,20 +5723,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 235723,
+      "num": 172075,
+      "word": "吴宣仪把浪姐当做倒数的舞台",
+      "onboard_time": 1743138263,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235341,
       "num": 235341,
       "word": "JDG首个周冠军",
       "onboard_time": 1742741601,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 234559,
-      "num": 323433,
-      "word": "普京回应特朗普吞并格陵兰岛言论",
-      "onboard_time": 1743135203,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 234395,
@@ -6435,6 +6467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208617,
+      "num": 170520,
+      "word": "杨洋撒羽毛变焦视频",
+      "onboard_time": 1743138681,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208364,
       "num": 208364,
       "word": "法院称解除婚约时应视情况返还彩礼",
@@ -6545,6 +6585,14 @@
       "onboard_time": 1742785221,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206848,
+      "num": 169927,
+      "word": "张杰北京鸟巢限定舞台",
+      "onboard_time": 1743138681,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 206698,
@@ -7123,6 +7171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194843,
+      "num": 174720,
+      "word": "你可以回去但那儿已经没有人了",
+      "onboard_time": 1743138802,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194764,
       "num": 248731,
       "word": "闵熙珍因职场霸凌被罚款",
@@ -7475,6 +7531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187823,
+      "num": 167500,
+      "word": "一问全不熟一查全有仇",
+      "onboard_time": 1743139041,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187697,
       "num": 187697,
       "word": "你好星期六全员为余生有涯剧宣",
@@ -7641,6 +7705,14 @@
       "onboard_time": 1742973981,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185363,
+      "num": 166815,
+      "word": "王俊凯太有节目了",
+      "onboard_time": 1743139462,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 185311,
@@ -7881,6 +7953,14 @@
       "onboard_time": 1743128121,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 179880,
+      "num": 201317,
+      "word": "动画还原船长公海被杀抛尸",
+      "onboard_time": 1743135981,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179606,
@@ -8491,6 +8571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165074,
+      "num": 165074,
+      "word": "浪姐6是一场巨大的callback",
+      "onboard_time": 1743137782,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164798,
       "num": 176437,
       "word": "李艺彤卡琳娜一看就是老二次元了",
@@ -8768,14 +8856,6 @@
       "word": "远光软件股东介入无锡野鸳鸯事件",
       "onboard_time": 1742885362,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161259,
-      "num": 201317,
-      "word": "动画还原船长公海被杀抛尸",
-      "onboard_time": 1743135981,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -9152,6 +9232,14 @@
       "word": "李晟参加浪姐后瘦了10斤",
       "onboard_time": 1743052822,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155975,
+      "num": 155975,
+      "word": "王珞丹长发梦回后会无期",
+      "onboard_time": 1743137782,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -10171,6 +10259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141937,
+      "num": 141937,
+      "word": "张俪有这美貌早该上天庭了",
+      "onboard_time": 1743139401,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141677,
       "num": 141677,
       "word": "老板炸了我的蔬菜沙拉",
@@ -10337,6 +10433,14 @@
       "onboard_time": 1742788701,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139246,
+      "num": 139246,
+      "word": "下一个台风",
+      "onboard_time": 1742833939,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 139246,
@@ -10769,6 +10873,14 @@
       "onboard_time": 1743053903,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134914,
+      "num": 174025,
+      "word": "丈夫长期失联妻子离婚获家务劳动补偿",
+      "onboard_time": 1743137601,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134744,
@@ -11795,6 +11907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122561,
+      "num": 122561,
+      "word": "50岁当20多年兽医成了千万网红",
+      "onboard_time": 1743139041,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122544,
       "num": 122544,
       "word": "棋士128秒把人性扒光",
@@ -11921,6 +12041,14 @@
       "onboard_time": 1742907682,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121578,
+      "num": 121578,
+      "word": "沈梦辰被大风吹到脸部颤抖",
+      "onboard_time": 1743139401,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 121283,
@@ -12065,6 +12193,14 @@
       "onboard_time": 1742878163,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 119905,
+      "num": 119905,
+      "word": "父亲希望全红婵开心过好每一天",
+      "onboard_time": 1743139342,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 119825,
@@ -13859,6 +13995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99129,
+      "num": 156010,
+      "word": "宣萱回应和古天乐绯闻",
+      "onboard_time": 1743134661,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99112,
       "num": 99112,
       "word": "适合春天做的瘦身操",
@@ -13905,6 +14049,14 @@
       "onboard_time": 1742866520,
       "rank": 45,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 98366,
+      "num": 168032,
+      "word": "韩报告称儿童像行李一样被送往海外",
+      "onboard_time": 1743138380,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 98082,
@@ -14595,6 +14747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84648,
+      "num": 652794,
+      "word": "北京卫视4K超高清频道震撼亮相",
+      "onboard_time": 1743137541,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84586,
       "num": 84586,
       "word": "以军炸死哈马斯政治局高层夫妇",
@@ -14995,6 +15155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75665,
+      "num": 177519,
+      "word": "四舍五入我也登上过珠峰了",
+      "onboard_time": 1743133941,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75492,
       "num": 75492,
       "word": "你以为没事实际巨伤眼的行为",
@@ -15195,6 +15363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70970,
+      "num": 156504,
+      "word": "权志龙为山火灾区捐款",
+      "onboard_time": 1743139342,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70715,
       "num": 176928,
       "word": "遇风浪从陵水漂到三亚小孩系疍家人",
@@ -15233,6 +15409,14 @@
       "onboard_time": 1743132859,
       "rank": 13,
       "category": "综艺,剧集"
+    },
+    {
+      "raw_hot": 69930,
+      "num": 171285,
+      "word": "全红婵回应成年后是否改变风格",
+      "onboard_time": 1743138323,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 69685,
@@ -15865,14 +16049,6 @@
       "onboard_time": 1742718621,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 58333,
-      "num": 58333,
-      "word": "下一个台风",
-      "onboard_time": 1742833939,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 58249,
@@ -16801,6 +16977,14 @@
       "onboard_time": 1743133101,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38679,
+      "num": 137057,
+      "word": "美国高官群聊情景重现",
+      "onboard_time": 1743136163,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38340,
