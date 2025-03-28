@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743151469464,
+  "endTime": 1743154052911,
   "band_list": [
     {
       "raw_hot": 15554018,
@@ -771,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1253762,
+      "num": 1253762,
+      "word": "泰国首都曼谷进入紧急状态",
+      "onboard_time": 1743150566,
+      "rank": 30,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1252902,
       "num": 1252902,
       "word": "红双喜",
@@ -1427,6 +1435,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 813441,
+      "num": 813441,
+      "word": "缅甸地震云南建筑晃动扬起巨大灰尘",
+      "onboard_time": 1743149844,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 812812,
       "num": 323181,
       "word": "金秀贤称给金赛纶的信是朋友信之一",
@@ -1729,14 +1745,6 @@
       "onboard_time": 1743119720,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 703735,
-      "num": 703735,
-      "word": "缅甸地震云南建筑晃动扬起巨大灰尘",
-      "onboard_time": 1743149844,
-      "rank": 23,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 703091,
@@ -2073,6 +2081,14 @@
       "onboard_time": 1742730321,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 617260,
+      "num": 617260,
+      "word": "张小婉救场",
+      "onboard_time": 1743150384,
+      "rank": 25,
+      "category": "综艺,电影"
     },
     {
       "raw_hot": 614562,
@@ -2547,14 +2563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 528812,
-      "num": 528812,
-      "word": "张小婉救场",
-      "onboard_time": 1743150384,
-      "rank": 25,
-      "category": "综艺,电影"
-    },
-    {
       "raw_hot": 527605,
       "num": 527605,
       "word": "KiiiKiii出道",
@@ -2569,6 +2577,14 @@
       "onboard_time": 1742977820,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 525613,
+      "num": 525613,
+      "word": "缅甸7.9级地震曼德勒老建筑几乎全塌",
+      "onboard_time": 1743151762,
+      "rank": 20,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 524469,
@@ -3003,6 +3019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471021,
+      "num": 526925,
+      "word": "复活王蓉",
+      "onboard_time": 1743150925,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467850,
       "num": 309013,
       "word": "女生回应花50元租公司卫生间住",
@@ -3161,14 +3185,6 @@
       "onboard_time": 1743148583,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 446649,
-      "num": 703946,
-      "word": "泰国首都曼谷进入紧急状态",
-      "onboard_time": 1743150566,
-      "rank": 30,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 446562,
@@ -4651,6 +4667,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 312590,
+      "num": 244731,
+      "word": "2位顶流化妆师同化一个新娘",
+      "onboard_time": 1743151703,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 312291,
       "num": 359001,
       "word": "小区电梯失控从15楼滑坠至负一楼",
@@ -5323,6 +5347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274637,
+      "num": 243987,
+      "word": "湖南文理学院副教授出轨女学生",
+      "onboard_time": 1743153382,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274335,
       "num": 359117,
       "word": "美涉密群聊内容具体到战机起飞时间",
@@ -5915,6 +5947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241538,
+      "num": 241538,
+      "word": "高校回应副教授出轨女学生",
+      "onboard_time": 1743153382,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241112,
       "num": 241112,
       "word": "王楚钦工作的一天",
@@ -6283,6 +6323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227060,
+      "num": 262408,
+      "word": "黄奕男装撞脸王俊凯",
+      "onboard_time": 1743150444,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227051,
       "num": 227051,
       "word": "鹅鸭杀创始人称非常期待拜访中国",
@@ -6313,6 +6361,14 @@
       "onboard_time": 1742885183,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225884,
+      "num": 225884,
+      "word": "祝绪丹钻进李晟怀里",
+      "onboard_time": 1743152783,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 225720,
@@ -6393,14 +6449,6 @@
       "onboard_time": 1742887522,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222044,
-      "num": 222044,
-      "word": "复活王蓉",
-      "onboard_time": 1743150925,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 221646,
@@ -6643,6 +6691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 214094,
+      "num": 214094,
+      "word": "苦尽柑来遇见你大结局",
+      "onboard_time": 1743152724,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213948,
       "num": 213948,
       "word": "山东一公园马匹撞伤多人有人进ICU",
@@ -6744,14 +6800,6 @@
       "word": "周深周传雄到底谁在开车",
       "onboard_time": 1742901322,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 211447,
-      "num": 211447,
-      "word": "黄奕男装撞脸王俊凯",
-      "onboard_time": 1743150444,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -6953,6 +7001,14 @@
       "onboard_time": 1742963482,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207054,
+      "num": 207054,
+      "word": "别再用这个姿势睡觉了",
+      "onboard_time": 1743151284,
+      "rank": 33,
+      "category": "健康医疗,幽默"
     },
     {
       "raw_hot": 206945,
@@ -7585,14 +7641,6 @@
       "onboard_time": 1743066982,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 196299,
-      "num": 196299,
-      "word": "别再用这个姿势睡觉了",
-      "onboard_time": 1743151284,
-      "rank": 33,
-      "category": "健康医疗,幽默"
     },
     {
       "raw_hot": 196133,
@@ -8483,6 +8531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 180048,
+      "num": 180048,
+      "word": "允儿被臭到",
+      "onboard_time": 1743153924,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179943,
       "num": 179943,
       "word": "下雪",
@@ -8681,6 +8737,14 @@
       "onboard_time": 1743062482,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 175336,
+      "num": 175730,
+      "word": "云南消防迅速集结出动",
+      "onboard_time": 1743151403,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174914,
@@ -9113,6 +9177,14 @@
       "onboard_time": 1743073342,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166330,
+      "num": 166330,
+      "word": "孙恩盛卖衣服",
+      "onboard_time": 1743153741,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 166271,
@@ -12883,6 +12955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119400,
+      "num": 180119,
+      "word": "云南德宏启动四级应急预案",
+      "onboard_time": 1743152003,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 119379,
       "num": 225901,
       "word": "维金斯42分",
@@ -13473,6 +13553,14 @@
       "onboard_time": 1742873720,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111972,
+      "num": 604593,
+      "word": "缅甸7.9级地震亲历者发声",
+      "onboard_time": 1743153023,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 111933,
@@ -14779,6 +14867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97729,
+      "num": 616958,
+      "word": "缅甸地震重灾区进入紧急状态",
+      "onboard_time": 1743152783,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 97676,
       "num": 101141,
       "word": "马龙紧急撤回了一个头",
@@ -14817,6 +14913,14 @@
       "onboard_time": 1742985860,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 97114,
+      "num": 609236,
+      "word": "云南网友称第一次感受到这么强震感",
+      "onboard_time": 1743152663,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96913,
@@ -14929,6 +15033,14 @@
       "onboard_time": 1742823022,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 95573,
+      "num": 612844,
+      "word": "缅甸地震致云南瑞丽2人轻伤",
+      "onboard_time": 1743153563,
+      "rank": 10,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 95483,
@@ -15201,6 +15313,14 @@
       "onboard_time": 1742772137,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90635,
+      "num": 224429,
+      "word": "有一种美叫曹县汉服",
+      "onboard_time": 1743149844,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90574,
@@ -16459,14 +16579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64423,
-      "num": 175730,
-      "word": "云南消防迅速集结出动",
-      "onboard_time": 1743151403,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64342,
       "num": 253472,
       "word": "女子卖有毒减肥产品被抓还装无辜",
@@ -17105,14 +17217,6 @@
       "onboard_time": 1742974041,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 50150,
-      "num": 224429,
-      "word": "有一种美叫曹县汉服",
-      "onboard_time": 1743149844,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50098,
@@ -18139,6 +18243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32833,
+      "num": 612170,
+      "word": "买东西前看检测报告靠谱吗",
+      "onboard_time": 1743152663,
+      "rank": 11,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 32759,
       "num": 167442,
       "word": "郑钦文镜头签",
@@ -18233,6 +18345,14 @@
       "onboard_time": 1742961141,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31633,
+      "num": 603489,
+      "word": "中国花滑男单获冬奥资格",
+      "onboard_time": 1743152482,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 31598,
@@ -19305,6 +19425,14 @@
       "onboard_time": 1743067821,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 14992,
+      "num": 245888,
+      "word": "张凯丽让年轻演员别过度追逐流量",
+      "onboard_time": 1743153203,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 14978,
