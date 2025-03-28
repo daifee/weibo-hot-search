@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743131624392,
+  "endTime": 1743133724152,
   "band_list": [
     {
       "raw_hot": 2004301,
@@ -36,10 +36,18 @@
     },
     {
       "raw_hot": 1267965,
-      "num": 240975,
+      "num": 253591,
       "word": "赵露思问山区小朋友拍过艺术照没",
       "onboard_time": 1743131180,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1005612,
+      "num": 1160898,
+      "word": "宋雨琦在地上躺了四分钟",
+      "onboard_time": 1743129020,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -48,14 +56,6 @@
       "word": "赵露思生病前认为拐杖只是装饰",
       "onboard_time": 1743125001,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 787750,
-      "num": 787750,
-      "word": "宋雨琦在地上躺了四分钟",
-      "onboard_time": 1743129020,
-      "rank": 1,
       "category": "综艺"
     },
     {
@@ -99,12 +99,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 644833,
+      "num": 644833,
+      "word": "兔兔拔萝卜被主人塞回气得用嘴堵洞",
+      "onboard_time": 1743129079,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 640949,
       "num": 298821,
       "word": "任志达和妻子在外吃饭遭遇咸猪手",
       "onboard_time": 1743129439,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 639009,
+      "num": 257433,
+      "word": "雪莉哥哥再发ins控诉金秀贤",
+      "onboard_time": 1743131961,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 499430,
@@ -123,19 +139,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 457451,
+      "num": 457451,
+      "word": "防止DeepSeek乱编文献的方法",
+      "onboard_time": 1743130939,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 452799,
       "num": 452799,
       "word": "昨天穿短袖今天穿羽绒服",
       "onboard_time": 1743123321,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 430665,
-      "num": 278587,
-      "word": "兔兔拔萝卜被主人塞回气得用嘴堵洞",
-      "onboard_time": 1743129079,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -187,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358501,
+      "num": 252723,
+      "word": "王一博赛前素颜随拍",
+      "onboard_time": 1743132621,
+      "rank": 17,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 329245,
       "num": 329245,
       "word": "舒马赫近乎植物人",
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 299884,
-      "num": 199439,
+      "num": 227818,
       "word": "女子吐槽楼上邻居马桶正对自家厨房",
       "onboard_time": 1743128121,
       "rank": 21,
@@ -257,6 +281,14 @@
       "onboard_time": 1743120141,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294045,
+      "num": 294045,
+      "word": "校方回应老师怼家长让孩子上职中",
+      "onboard_time": 1743131599,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285713,
@@ -283,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261760,
+      "num": 261760,
+      "word": "李晟 玄学",
+      "onboard_time": 1743133461,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261233,
       "num": 261233,
       "word": "哪吒2比利时首映一票难求",
@@ -296,6 +336,14 @@
       "word": "把蔡文静的伤痕看成了吻痕",
       "onboard_time": 1743090922,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256851,
+      "num": 250859,
+      "word": "李现拍的公园打鸟照来了",
+      "onboard_time": 1743129500,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -347,12 +395,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219040,
+      "num": 219040,
+      "word": "黄金价格为何不断上涨",
+      "onboard_time": 1743125600,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 218941,
       "num": 218941,
       "word": "my name is jeff 嘟嘟嘟嘟",
       "onboard_time": 1743082703,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217182,
+      "num": 247135,
+      "word": "陈都灵温峥嵘 久久无法出戏的母女",
+      "onboard_time": 1743131900,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217053,
+      "num": 245558,
+      "word": "IU边佑锡辞演新剧",
+      "onboard_time": 1743133580,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 211675,
@@ -371,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 209640,
+      "num": 244736,
+      "word": "全红婵目标是先把体重减下来",
+      "onboard_time": 1743132260,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209064,
       "num": 209064,
       "word": "女人40岁才是人生的开始",
@@ -379,12 +459,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205178,
-      "num": 203263,
-      "word": "李现拍的公园打鸟照来了",
-      "onboard_time": 1743129500,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 203624,
+      "num": 203624,
+      "word": "金饰价飙涨到934元",
+      "onboard_time": 1743131420,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 203223,
+      "num": 203223,
+      "word": "侧卧睡觉两腿间最好夹个枕头",
+      "onboard_time": 1743132621,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201224,
@@ -427,12 +515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190197,
+      "num": 241959,
+      "word": "希林娜依高反差感造型",
+      "onboard_time": 1743131119,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189103,
       "num": 189103,
       "word": "一部电影带你了解无声的世界",
       "onboard_time": 1743129561,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183493,
+      "num": 183493,
+      "word": "梦花廷",
+      "onboard_time": 1743132983,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 182860,
@@ -459,14 +563,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 178117,
-      "num": 178117,
-      "word": "黄金价格为何不断上涨",
-      "onboard_time": 1743125600,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 176013,
       "num": 176013,
       "word": "雷总也没想到SU7Ultra种草了10后",
@@ -483,12 +579,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160537,
-      "num": 160537,
-      "word": "防止DeepSeek乱编文献的方法",
-      "onboard_time": 1743130939,
-      "rank": 44,
-      "category": "互联网"
+      "raw_hot": 158896,
+      "num": 158896,
+      "word": "爆火的瑞士平替成了罪恶的婴儿工厂",
+      "onboard_time": 1743133041,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 157058,
+      "num": 157058,
+      "word": "成也詹姆斯败也詹姆斯",
+      "onboard_time": 1743132859,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 156048,
@@ -515,11 +619,27 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 151393,
+      "num": 151393,
+      "word": "第五人格",
+      "onboard_time": 1743133580,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150081,
       "num": 150081,
       "word": "白鹿唐宫奇案簪花造型",
       "onboard_time": 1743129979,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149534,
+      "num": 149534,
+      "word": "百花杀",
+      "onboard_time": 1743132983,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -553,6 +673,14 @@
       "onboard_time": 1743126019,
       "rank": 43,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 136836,
+      "num": 235055,
+      "word": "原神5.5版本",
+      "onboard_time": 1743131841,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 135170,
@@ -596,7 +724,7 @@
     },
     {
       "raw_hot": 122462,
-      "num": 198957,
+      "num": 230308,
       "word": "药店为KPI求药贩子来套医保",
       "onboard_time": 1743128061,
       "rank": 20,
@@ -641,6 +769,14 @@
       "onboard_time": 1743087922,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114262,
+      "num": 251822,
+      "word": "刘学义演技",
+      "onboard_time": 1743133041,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 113040,
@@ -715,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94711,
+      "num": 249916,
+      "word": "遭职场冷暴力被辞退获赔10万",
+      "onboard_time": 1743131900,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94705,
       "num": 89052,
       "word": "许佳琪少年阮惜文杀青",
@@ -739,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91314,
+      "num": 239106,
+      "word": "马斯克政府效率部成员首度公开亮相",
+      "onboard_time": 1743132200,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89916,
       "num": 80388,
       "word": "明天是全红婵18岁生日",
@@ -753,14 +905,6 @@
       "onboard_time": 1743071480,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87371,
-      "num": 181068,
-      "word": "希林娜依高反差感造型",
-      "onboard_time": 1743131119,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 86666,
@@ -915,6 +1059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 70119,
+      "num": 255780,
+      "word": "霸王茶姬王鹤棣一起好状态",
+      "onboard_time": 1743132859,
+      "rank": 13,
+      "category": "综艺,剧集"
+    },
+    {
       "raw_hot": 69685,
       "num": 92317,
       "word": "今年考研预调剂要注意哪些问题",
@@ -937,6 +1089,14 @@
       "onboard_time": 1743127701,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67785,
+      "num": 222128,
+      "word": "药贩子骄傲称药店怕我们不去",
+      "onboard_time": 1743128061,
+      "rank": 34,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 67374,
@@ -977,14 +1137,6 @@
       "onboard_time": 1743073761,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 59888,
-      "num": 189374,
-      "word": "金饰价飙涨到934元",
-      "onboard_time": 1743131420,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 59539,
@@ -1107,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38971,
+      "num": 255278,
+      "word": "抵制美国货在加拿大成潮流",
+      "onboard_time": 1743133101,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 37446,
       "num": 38046,
       "word": "棋士 黑色幽默",
@@ -1179,12 +1339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23306,
-      "num": 135437,
-      "word": "校方回应老师怼家长让孩子上职中",
-      "onboard_time": 1743131599,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 22243,
+      "num": 240119,
+      "word": "美卫生与公共服务部将裁员万人",
+      "onboard_time": 1743133221,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21420,
@@ -1321,6 +1481,14 @@
       "onboard_time": 1743108314,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9146,
+      "num": 185152,
+      "word": "胡锡进谈长沙人才子女中考单列",
+      "onboard_time": 1743133461,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3748,

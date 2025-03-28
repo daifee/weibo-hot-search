@@ -1,0 +1,410 @@
+{
+  "runTime": 1743133724152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1005612,
+        "num": 1160898,
+        "word": "宋雨琦在地上躺了四分钟",
+        "onboard_time": 1743129020,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 644833,
+        "num": 644833,
+        "word": "兔兔拔萝卜被主人塞回气得用嘴堵洞",
+        "onboard_time": 1743129079,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12288,
+        "num": 522938,
+        "word": "2024中国科学十大进展发布",
+        "onboard_time": 1743046221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 745357,
+        "num": 522370,
+        "word": "女子玩切水果游戏1个月瘦10斤",
+        "onboard_time": 1743120621,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457451,
+        "num": 457451,
+        "word": "防止DeepSeek乱编文献的方法",
+        "onboard_time": 1743130939,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 357623,
+        "num": 357623,
+        "word": "张真源名牌上是奔跑吧所有成员的名字",
+        "onboard_time": 1743124220,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307132,
+        "num": 307132,
+        "word": "吉迪绝杀湖人",
+        "onboard_time": 1743130460,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294045,
+        "num": 294045,
+        "word": "校方回应老师怼家长让孩子上职中",
+        "onboard_time": 1743131599,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261760,
+        "num": 261760,
+        "word": "李晟 玄学",
+        "onboard_time": 1743133461,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258495,
+        "num": 258495,
+        "word": "昨天穿短袖今天穿羽绒服",
+        "onboard_time": 1743123321,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1466800,
+        "num": 258166,
+        "word": "赵露思称不被父母偏爱",
+        "onboard_time": 1743119180,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639009,
+        "num": 257433,
+        "word": "雪莉哥哥再发ins控诉金秀贤",
+        "onboard_time": 1743131961,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501912,
+        "num": 256550,
+        "word": "任志达和妻子在外吃饭遭遇咸猪手",
+        "onboard_time": 1743129439,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70119,
+        "num": 255780,
+        "word": "霸王茶姬王鹤棣一起好状态",
+        "onboard_time": 1743132859,
+        "rank": 13,
+        "category": "综艺,剧集"
+      },
+      {
+        "raw_hot": 38971,
+        "num": 255278,
+        "word": "抵制美国货在加拿大成潮流",
+        "onboard_time": 1743133101,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 254582,
+        "num": 254582,
+        "word": "全校师生仅1800人却花24万买餐盘",
+        "onboard_time": 1743118219,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 971689,
+        "num": 253591,
+        "word": "赵露思问山区小朋友拍过艺术照没",
+        "onboard_time": 1743131180,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358501,
+        "num": 252723,
+        "word": "王一博赛前素颜随拍",
+        "onboard_time": 1743132621,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 114262,
+        "num": 251822,
+        "word": "刘学义演技",
+        "onboard_time": 1743133041,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256851,
+        "num": 250859,
+        "word": "李现拍的公园打鸟照来了",
+        "onboard_time": 1743129500,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94711,
+        "num": 249916,
+        "word": "遭职场冷暴力被辞退获赔10万",
+        "onboard_time": 1743131900,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1245941,
+        "num": 248156,
+        "word": "曝董宇辉下播后险被砸",
+        "onboard_time": 1743125839,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 217182,
+        "num": 247135,
+        "word": "陈都灵温峥嵘 久久无法出戏的母女",
+        "onboard_time": 1743131900,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217053,
+        "num": 245558,
+        "word": "IU边佑锡辞演新剧",
+        "onboard_time": 1743133580,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209640,
+        "num": 244736,
+        "word": "全红婵目标是先把体重减下来",
+        "onboard_time": 1743132260,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199169,
+        "num": 243081,
+        "word": "赵一博回归种地吧3录制",
+        "onboard_time": 1743119720,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190197,
+        "num": 241959,
+        "word": "希林娜依高反差感造型",
+        "onboard_time": 1743131119,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188907,
+        "num": 241320,
+        "word": "新还珠格格重映收视第一",
+        "onboard_time": 1743120141,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22243,
+        "num": 240119,
+        "word": "美卫生与公共服务部将裁员万人",
+        "onboard_time": 1743133221,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91314,
+        "num": 239106,
+        "word": "马斯克政府效率部成员首度公开亮相",
+        "onboard_time": 1743132200,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238287,
+        "num": 238287,
+        "word": "上海对边走边抽烟的游烟族出手了",
+        "onboard_time": 1743089781,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136836,
+        "num": 235055,
+        "word": "原神5.5版本",
+        "onboard_time": 1743131841,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100524,
+        "num": 230308,
+        "word": "药店为KPI求药贩子来套医保",
+        "onboard_time": 1743128061,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 245451,
+        "num": 227818,
+        "word": "女子吐槽楼上邻居马桶正对自家厨房",
+        "onboard_time": 1743128121,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67785,
+        "num": 222128,
+        "word": "药贩子骄傲称药店怕我们不去",
+        "onboard_time": 1743128061,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 219040,
+        "num": 219040,
+        "word": "黄金价格为何不断上涨",
+        "onboard_time": 1743125600,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203624,
+        "num": 203624,
+        "word": "金饰价飙涨到934元",
+        "onboard_time": 1743131420,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203223,
+        "num": 203223,
+        "word": "侧卧睡觉两腿间最好夹个枕头",
+        "onboard_time": 1743132621,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195719,
+        "num": 195719,
+        "word": "央视曝街边高价收药猫腻",
+        "onboard_time": 1743123981,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9146,
+        "num": 185152,
+        "word": "胡锡进谈长沙人才子女中考单列",
+        "onboard_time": 1743133461,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183493,
+        "num": 183493,
+        "word": "梦花廷",
+        "onboard_time": 1743132983,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175561,
+        "num": 175561,
+        "word": "辛云来是男团出身",
+        "onboard_time": 1743128239,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181436,
+        "num": 174550,
+        "word": "医生提醒别拿红霉素软膏当万能药",
+        "onboard_time": 1743124521,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169652,
+        "num": 169652,
+        "word": "雷总也没想到SU7Ultra种草了10后",
+        "onboard_time": 1743129620,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164448,
+        "num": 164448,
+        "word": "保洁员联系间谍盗取偷拍国家秘密",
+        "onboard_time": 1743119720,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158896,
+        "num": 158896,
+        "word": "爆火的瑞士平替成了罪恶的婴儿工厂",
+        "onboard_time": 1743133041,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157058,
+        "num": 157058,
+        "word": "成也詹姆斯败也詹姆斯",
+        "onboard_time": 1743132859,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153978,
+        "num": 153978,
+        "word": "你被二手烟困扰过吗",
+        "onboard_time": 1743093079,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151393,
+        "num": 151393,
+        "word": "第五人格",
+        "onboard_time": 1743133580,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149534,
+        "num": 149534,
+        "word": "百花杀",
+        "onboard_time": 1743132983,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是中国同世界的交往之道#"
+    }
+  }
+}
