@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743131099999,
+  "endTime": 1743131624392,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -3641,6 +3641,14 @@
       "onboard_time": 1741529843,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1267965,
+      "num": 240975,
+      "word": "赵露思问山区小朋友拍过艺术照没",
+      "onboard_time": 1743131180,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1267893,
@@ -8019,6 +8027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 787750,
+      "num": 787750,
+      "word": "宋雨琦在地上躺了四分钟",
+      "onboard_time": 1743129020,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 787720,
       "num": 686741,
       "word": "女子炒黄金第1天就赚2000元报了警",
@@ -10611,6 +10627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 640949,
+      "num": 298821,
+      "word": "任志达和妻子在外吃饭遭遇咸猪手",
+      "onboard_time": 1743129439,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 640338,
       "num": 623126,
       "word": "周也考了芭蕾证书",
@@ -12043,14 +12067,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 580628,
-      "num": 580628,
-      "word": "宋雨琦在地上躺了四分钟",
-      "onboard_time": 1743129020,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 580537,
       "num": 376616,
       "word": "于正回应白鹿告别文错字",
@@ -13417,14 +13433,6 @@
       "onboard_time": 1742907501,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 528816,
-      "num": 298821,
-      "word": "任志达和妻子在外吃饭遭遇咸猪手",
-      "onboard_time": 1743129439,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 528036,
@@ -16624,6 +16632,14 @@
       "word": "广西一男子仅穿内裤跳上车顶猛砸",
       "onboard_time": 1742196563,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430665,
+      "num": 278587,
+      "word": "兔兔拔萝卜被主人塞回气得用嘴堵洞",
+      "onboard_time": 1743129079,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -22371,6 +22387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317791,
+      "num": 317791,
+      "word": "吉迪绝杀湖人",
+      "onboard_time": 1743130460,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317674,
       "num": 334488,
       "word": "订婚案被害人曾明确反对婚前性行为",
@@ -22907,6 +22931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 307234,
+      "num": 307234,
+      "word": "辛云来是男团出身",
+      "onboard_time": 1743128239,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307152,
       "num": 227104,
       "word": "吴磊气血充足的帅",
@@ -23372,19 +23404,11 @@
     },
     {
       "raw_hot": 299884,
-      "num": 198952,
+      "num": 199439,
       "word": "女子吐槽楼上邻居马桶正对自家厨房",
       "onboard_time": 1743128121,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299812,
-      "num": 299812,
-      "word": "辛云来是男团出身",
-      "onboard_time": 1743128239,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 299588,
@@ -26649,14 +26673,6 @@
       "onboard_time": 1742023284,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 259839,
-      "num": 259839,
-      "word": "兔兔拔萝卜被主人塞回气得用嘴堵洞",
-      "onboard_time": 1743129079,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259604,
@@ -33956,7 +33972,7 @@
     },
     {
       "raw_hot": 205178,
-      "num": 200366,
+      "num": 203263,
       "word": "李现拍的公园打鸟照来了",
       "onboard_time": 1743129500,
       "rank": 19,
@@ -35729,14 +35745,6 @@
       "onboard_time": 1741005981,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198536,
-      "num": 198536,
-      "word": "吉迪绝杀湖人",
-      "onboard_time": 1743130460,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 198482,
@@ -41003,6 +41011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178117,
+      "num": 178117,
+      "word": "黄金价格为何不断上涨",
+      "onboard_time": 1743125600,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 178110,
       "num": 274299,
       "word": "小侯七 张宇",
@@ -41481,6 +41497,14 @@
       "onboard_time": 1741318042,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176013,
+      "num": 176013,
+      "word": "雷总也没想到SU7Ultra种草了10后",
+      "onboard_time": 1743129620,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 176012,
@@ -43675,14 +43699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167319,
-      "num": 167319,
-      "word": "雷总也没想到SU7Ultra种草了10后",
-      "onboard_time": 1743129620,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 167280,
       "num": 167280,
       "word": "三大运营商已开展自查",
@@ -44867,14 +44883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163609,
-      "num": 163609,
-      "word": "黄金价格为何不断上涨",
-      "onboard_time": 1743125600,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 163549,
       "num": 163549,
       "word": "山东暴雪大到模糊",
@@ -45857,6 +45865,14 @@
       "onboard_time": 1742459662,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160537,
+      "num": 160537,
+      "word": "防止DeepSeek乱编文献的方法",
+      "onboard_time": 1743130939,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 160518,
@@ -50403,6 +50419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147032,
+      "num": 147032,
+      "word": "陈芋汐给全红婵的生日祝福",
+      "onboard_time": 1743130161,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146995,
       "num": 146995,
       "word": "第五人格赛事",
@@ -51297,14 +51321,6 @@
       "onboard_time": 1741352662,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144581,
-      "num": 144581,
-      "word": "陈芋汐给全红婵的生日祝福",
-      "onboard_time": 1743130161,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 144578,
@@ -53356,7 +53372,7 @@
     },
     {
       "raw_hot": 138904,
-      "num": 131639,
+      "num": 136055,
       "word": "王一博 赛场见",
       "onboard_time": 1743128960,
       "rank": 42,
@@ -55121,6 +55137,14 @@
       "onboard_time": 1742725159,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133726,
+      "num": 133726,
+      "word": "蔡澜弟弟蔡萱病逝",
+      "onboard_time": 1743131060,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 133700,
@@ -58275,14 +58299,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 125056,
-      "num": 125056,
-      "word": "防止DeepSeek乱编文献的方法",
-      "onboard_time": 1743130939,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 125038,
       "num": 125038,
       "word": "林俊杰Vlog",
@@ -59305,6 +59321,14 @@
       "onboard_time": 1742550263,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122462,
+      "num": 198957,
+      "word": "药店为KPI求药贩子来套医保",
+      "onboard_time": 1743128061,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 122452,
@@ -62417,14 +62441,6 @@
       "onboard_time": 1741430961,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 113735,
-      "num": 113735,
-      "word": "蔡澜弟弟蔡萱病逝",
-      "onboard_time": 1743131060,
-      "rank": 49,
-      "category": "读书作家"
     },
     {
       "raw_hot": 113731,
@@ -70619,6 +70635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87371,
+      "num": 181068,
+      "word": "希林娜依高反差感造型",
+      "onboard_time": 1743131119,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87355,
       "num": 87355,
       "word": "这才是我想看的都市家庭剧",
@@ -73001,14 +73025,6 @@
       "onboard_time": 1741854503,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75705,
-      "num": 198957,
-      "word": "药店为KPI求药贩子来套医保",
-      "onboard_time": 1743128061,
-      "rank": 20,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 75674,
@@ -76121,6 +76137,14 @@
       "onboard_time": 1742533163,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59888,
+      "num": 189374,
+      "word": "金饰价飙涨到934元",
+      "onboard_time": 1743131420,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 59784,
@@ -80609,6 +80633,14 @@
       "onboard_time": 1740897620,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41207,
+      "num": 149890,
+      "word": "步行者昨天的郁闷今天宣泄",
+      "onboard_time": 1743131599,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 41189,
@@ -85859,6 +85891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23306,
+      "num": 135437,
+      "word": "校方回应老师怼家长让孩子上职中",
+      "onboard_time": 1743131599,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23298,
       "num": 226286,
       "word": "普京支持俄乌放弃袭击能源设施提议",
@@ -88355,6 +88395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 14115,
+      "num": 179415,
+      "word": "湖人裁掉雷迪什转正古德温",
+      "onboard_time": 1743120380,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14102,
       "num": 54213,
       "word": "以色列对黎巴嫩发动新一轮空袭",
@@ -88385,14 +88433,6 @@
       "onboard_time": 1741811414,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14036,
-      "num": 131712,
-      "word": "湖人裁掉雷迪什转正古德温",
-      "onboard_time": 1743120380,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 13976,

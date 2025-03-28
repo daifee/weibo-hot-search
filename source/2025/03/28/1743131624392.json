@@ -1,0 +1,410 @@
+{
+  "runTime": 1743131624392,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1200984,
+        "num": 1200984,
+        "word": "女子玩切水果游戏1个月瘦10斤",
+        "onboard_time": 1743120621,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 787750,
+        "num": 787750,
+        "word": "宋雨琦在地上躺了四分钟",
+        "onboard_time": 1743129020,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15888,
+        "num": 535547,
+        "word": "2024中国科学十大进展发布",
+        "onboard_time": 1743046221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526796,
+        "num": 526796,
+        "word": "张真源名牌上是奔跑吧所有成员的名字",
+        "onboard_time": 1743124220,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351324,
+        "num": 351324,
+        "word": "央视曝街边高价收药猫腻",
+        "onboard_time": 1743123981,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1483474,
+        "num": 339958,
+        "word": "曝董宇辉下播后险被砸",
+        "onboard_time": 1743125839,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 317791,
+        "num": 317791,
+        "word": "吉迪绝杀湖人",
+        "onboard_time": 1743130460,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307234,
+        "num": 307234,
+        "word": "辛云来是男团出身",
+        "onboard_time": 1743128239,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304986,
+        "num": 304986,
+        "word": "全校师生仅1800人却花24万买餐盘",
+        "onboard_time": 1743118219,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298574,
+        "num": 298574,
+        "word": "上海对边走边抽烟的游烟族出手了",
+        "onboard_time": 1743089781,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288513,
+        "num": 288513,
+        "word": "昨天穿短袖今天穿羽绒服",
+        "onboard_time": 1743123321,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1553285,
+        "num": 288409,
+        "word": "赵露思称不被父母偏爱",
+        "onboard_time": 1743119180,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640949,
+        "num": 284657,
+        "word": "任志达和妻子在外吃饭遭遇咸猪手",
+        "onboard_time": 1743129439,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 430665,
+        "num": 278587,
+        "word": "兔兔拔萝卜被主人塞回气得用嘴堵洞",
+        "onboard_time": 1743129079,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266960,
+        "num": 266960,
+        "word": "全红婵曾说18岁心愿是解锁防沉迷",
+        "onboard_time": 1743123741,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250766,
+        "num": 250766,
+        "word": "赵一博回归种地吧3录制",
+        "onboard_time": 1743119720,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1267965,
+        "num": 240975,
+        "word": "赵露思问山区小朋友拍过艺术照没",
+        "onboard_time": 1743131180,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203263,
+        "num": 203263,
+        "word": "李现拍的公园打鸟照来了",
+        "onboard_time": 1743129500,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200759,
+        "num": 200759,
+        "word": "保洁员联系间谍盗取偷拍国家秘密",
+        "onboard_time": 1743119720,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200193,
+        "num": 200193,
+        "word": "你被二手烟困扰过吗",
+        "onboard_time": 1743093079,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297763,
+        "num": 199439,
+        "word": "女子吐槽楼上邻居马桶正对自家厨房",
+        "onboard_time": 1743128121,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193103,
+        "num": 193103,
+        "word": "医生提醒别拿红霉素软膏当万能药",
+        "onboard_time": 1743124521,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190479,
+        "num": 190479,
+        "word": "湖人vs公牛",
+        "onboard_time": 1743122601,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59888,
+        "num": 189374,
+        "word": "金饰价飙涨到934元",
+        "onboard_time": 1743131420,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188770,
+        "num": 188770,
+        "word": "李现加入公园打鸟大爷队伍",
+        "onboard_time": 1743093079,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186333,
+        "num": 186333,
+        "word": "迪丽热巴生命力大片",
+        "onboard_time": 1743130580,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185020,
+        "num": 185020,
+        "word": "唐嫣拍摄念无双时期的手机屏保",
+        "onboard_time": 1743121642,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122462,
+        "num": 183799,
+        "word": "药店为KPI求药贩子来套医保",
+        "onboard_time": 1743128061,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 175940,
+        "num": 182208,
+        "word": "新还珠格格重映收视第一",
+        "onboard_time": 1743120141,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87371,
+        "num": 181068,
+        "word": "希林娜依高反差感造型",
+        "onboard_time": 1743131119,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14115,
+        "num": 179415,
+        "word": "湖人裁掉雷迪什转正古德温",
+        "onboard_time": 1743120380,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178117,
+        "num": 178117,
+        "word": "黄金价格为何不断上涨",
+        "onboard_time": 1743125600,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176013,
+        "num": 176013,
+        "word": "雷总也没想到SU7Ultra种草了10后",
+        "onboard_time": 1743129620,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174083,
+        "num": 174083,
+        "word": "种地吧直播",
+        "onboard_time": 1743128061,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170767,
+        "num": 170767,
+        "word": "北京下雪",
+        "onboard_time": 1743119961,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160537,
+        "num": 160537,
+        "word": "防止DeepSeek乱编文献的方法",
+        "onboard_time": 1743130939,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160020,
+        "num": 160020,
+        "word": "喝牛奶增加饱腹感算轻断食吗",
+        "onboard_time": 1743128121,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155876,
+        "num": 155876,
+        "word": "男子割肝救妻10个月后妻子去世",
+        "onboard_time": 1743118219,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41207,
+        "num": 149890,
+        "word": "步行者昨天的郁闷今天宣泄",
+        "onboard_time": 1743131599,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30953,
+        "num": 147255,
+        "word": "我的宝藏食谱",
+        "onboard_time": 1743130580,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147032,
+        "num": 147032,
+        "word": "陈芋汐给全红婵的生日祝福",
+        "onboard_time": 1743130161,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143170,
+        "num": 143170,
+        "word": "宋雨琦 受伤",
+        "onboard_time": 1743089061,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136055,
+        "num": 136055,
+        "word": "王一博 赛场见",
+        "onboard_time": 1743128960,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 23306,
+        "num": 135437,
+        "word": "校方回应老师怼家长让孩子上职中",
+        "onboard_time": 1743131599,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134907,
+        "num": 134907,
+        "word": "一部电影带你了解无声的世界",
+        "onboard_time": 1743129561,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133726,
+        "num": 133726,
+        "word": "蔡澜弟弟蔡萱病逝",
+        "onboard_time": 1743131060,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 133283,
+        "num": 133283,
+        "word": "白鹿唐宫奇案簪花造型",
+        "onboard_time": 1743129979,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127062,
+        "num": 127062,
+        "word": "唐山2.5级地震",
+        "onboard_time": 1743120081,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 116622,
+        "num": 116622,
+        "word": "女子为了赌博拐卖3个孩子",
+        "onboard_time": 1743126019,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 114967,
+        "num": 114967,
+        "word": "井胧沈月接机演我见到闺蜜",
+        "onboard_time": 1743129319,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是中国同世界的交往之道#"
+    }
+  }
+}
