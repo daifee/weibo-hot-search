@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743165955917,
+  "endTime": 1743166903083,
   "band_list": [
     {
       "raw_hot": 15554018,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 965561,
+      "num": 965561,
+      "word": "门童曼谷场取消",
+      "onboard_time": 1743156621,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 962902,
       "num": 962902,
       "word": "曼谷一在建高楼地震中坍塌",
@@ -195,8 +203,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 942954,
-      "num": 353420,
+      "raw_hot": 951136,
+      "num": 520121,
       "word": "雪莉拍完real去了精神科",
       "onboard_time": 1743159622,
       "rank": 22,
@@ -251,6 +259,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 812859,
+      "num": 812859,
+      "word": "是中国人来救了我们",
+      "onboard_time": 1743163822,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 811373,
       "num": 811373,
       "word": "列车员给孕妇推销建议买不建议用",
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 768901,
-      "num": 354359,
+      "num": 420665,
       "word": "金秀贤疑似强行加床戏",
       "onboard_time": 1743158062,
       "rank": 25,
@@ -329,14 +345,6 @@
       "onboard_time": 1743119720,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 708501,
-      "num": 708501,
-      "word": "门童曼谷场取消",
-      "onboard_time": 1743156621,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 703091,
@@ -395,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 632113,
+      "num": 507795,
+      "word": "湖南文理学院副教授出轨女学生",
+      "onboard_time": 1743153382,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 617260,
       "num": 617260,
       "word": "张小婉救场",
@@ -435,12 +451,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 575564,
+      "num": 575564,
+      "word": "官方回应缅甸地震没有收到预警",
+      "onboard_time": 1743164902,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 567539,
+      "num": 567539,
+      "word": "邓萃雯看陈德容的表情",
+      "onboard_time": 1743166163,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 539530,
       "num": 539530,
       "word": "山姆必买",
       "onboard_time": 1743154823,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 536305,
+      "num": 536305,
+      "word": "雁回时21集封神",
+      "onboard_time": 1743166163,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 535274,
@@ -465,14 +505,6 @@
       "onboard_time": 1743151762,
       "rank": 20,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 515071,
-      "num": 507795,
-      "word": "湖南文理学院副教授出轨女学生",
-      "onboard_time": 1743153382,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 501197,
@@ -579,6 +611,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 436374,
+      "num": 436374,
+      "word": "陈德容",
+      "onboard_time": 1743165022,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411666,
       "num": 411666,
       "word": "赵一博回归种地吧3录制",
@@ -595,12 +635,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404232,
+      "num": 356536,
+      "word": "雁回时",
+      "onboard_time": 1743067521,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396660,
       "num": 228950,
       "word": "金赛纶写给文彬的信",
       "onboard_time": 1743084742,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 394777,
+      "num": 394777,
+      "word": "星穹铁道演唱会",
+      "onboard_time": 1743165441,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 391175,
@@ -617,14 +673,6 @@
       "onboard_time": 1743159681,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 386598,
-      "num": 386598,
-      "word": "是中国人来救了我们",
-      "onboard_time": 1743163822,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 372288,
@@ -859,14 +907,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 278674,
-      "num": 286148,
-      "word": "雁回时",
-      "onboard_time": 1743067521,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276462,
       "num": 276462,
       "word": "网曝沈阳一井盖飞起砸穿车窗",
@@ -945,14 +985,6 @@
       "onboard_time": 1743119600,
       "rank": 19,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 259620,
-      "num": 297865,
-      "word": "陈德容",
-      "onboard_time": 1743165022,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 258525,
@@ -1052,7 +1084,7 @@
     },
     {
       "raw_hot": 237221,
-      "num": 257574,
+      "num": 279949,
       "word": "雁回时剧情走向",
       "onboard_time": 1743162623,
       "rank": 28,
@@ -1235,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211489,
+      "num": 211489,
+      "word": "夏以昼传说限定",
+      "onboard_time": 1743166342,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210117,
       "num": 210117,
       "word": "普京称俄军会将乌军彻底击溃",
@@ -1289,14 +1329,6 @@
       "onboard_time": 1743149423,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203990,
-      "num": 249099,
-      "word": "星穹铁道演唱会",
-      "onboard_time": 1743165441,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 203624,
@@ -1363,6 +1395,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200020,
+      "num": 275464,
+      "word": "东方卫视电视剧品质盛典",
+      "onboard_time": 1743166101,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200003,
+      "num": 287978,
+      "word": "缅甸地震能量堪比汶川地震",
+      "onboard_time": 1743164421,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 199285,
       "num": 199285,
       "word": "李现交作业回应热搜",
@@ -1385,6 +1433,14 @@
       "onboard_time": 1743143000,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197751,
+      "num": 419340,
+      "word": "曼谷通罗一地标空中走廊断裂",
+      "onboard_time": 1743165562,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 197741,
@@ -1473,6 +1529,14 @@
       "onboard_time": 1743140481,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 193811,
+      "num": 421987,
+      "word": "古驰竹节包",
+      "onboard_time": 1743163641,
+      "rank": 15,
+      "category": "时尚"
     },
     {
       "raw_hot": 193342,
@@ -1587,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185225,
+      "num": 185225,
+      "word": "黄英 和稀泥",
+      "onboard_time": 1743166524,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183493,
       "num": 183493,
       "word": "梦花廷",
@@ -1617,14 +1689,6 @@
       "onboard_time": 1743144143,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 180193,
-      "num": 290341,
-      "word": "古驰竹节包",
-      "onboard_time": 1743163641,
-      "rank": 15,
-      "category": "时尚"
     },
     {
       "raw_hot": 180100,
@@ -1723,6 +1787,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173492,
+      "num": 425376,
+      "word": "市监总局将依法审查长和港口交易",
+      "onboard_time": 1743164001,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 172119,
+      "num": 172119,
+      "word": "戒烟",
+      "onboard_time": 1743164602,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171291,
       "num": 180590,
       "word": "陈梦发博晒美照",
@@ -1803,12 +1883,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164701,
+      "num": 164701,
+      "word": "星穹铁道3.2版本前瞻",
+      "onboard_time": 1743166702,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162199,
       "num": 162199,
       "word": "音乐节阵容这么顶了吗",
       "onboard_time": 1743164061,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161540,
+      "num": 521947,
+      "word": "自3月31日起全面停止收取门诊预交金",
+      "onboard_time": 1743162861,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161252,
@@ -1825,22 +1921,6 @@
       "onboard_time": 1743165261,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159688,
-      "num": 159688,
-      "word": "戒烟",
-      "onboard_time": 1743164602,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 158843,
-      "num": 287978,
-      "word": "缅甸地震能量堪比汶川地震",
-      "onboard_time": 1743164421,
-      "rank": 19,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 158759,
@@ -1889,14 +1969,6 @@
       "onboard_time": 1743157401,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153391,
-      "num": 153391,
-      "word": "自3月31日起全面停止收取门诊预交金",
-      "onboard_time": 1743162861,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153371,
@@ -2017,6 +2089,14 @@
       "onboard_time": 1743136582,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142915,
+      "num": 142915,
+      "word": "张凌赫帅得扑面而来",
+      "onboard_time": 1743166822,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 142723,
@@ -2155,14 +2235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 129494,
-      "num": 258403,
-      "word": "市监总局将依法审查长和港口交易",
-      "onboard_time": 1743164001,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 127946,
       "num": 127946,
       "word": "沈梦辰被大风吹到脸部颤抖",
@@ -2252,7 +2324,7 @@
     },
     {
       "raw_hot": 119828,
-      "num": 289660,
+      "num": 421068,
       "word": "国产车在新能源赛道别太拼了",
       "onboard_time": 1743164782,
       "rank": 16,
@@ -2379,14 +2451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105087,
-      "num": 290735,
-      "word": "官方回应缅甸地震没有收到预警",
-      "onboard_time": 1743164902,
-      "rank": 14,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 103799,
       "num": 103799,
       "word": "念无双 老年宣发",
@@ -2449,14 +2513,6 @@
       "onboard_time": 1743138380,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 98067,
-      "num": 288688,
-      "word": "曼谷通罗一地标空中走廊断裂",
-      "onboard_time": 1743165562,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 97922,
@@ -2555,6 +2611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88351,
+      "num": 1193025,
+      "word": "中国新一代人造太阳又有突破",
+      "onboard_time": 1743155123,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86666,
       "num": 86666,
       "word": "宋茜 喝什么中药一起喝茶吧",
@@ -2625,14 +2689,6 @@
       "onboard_time": 1743140542,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 82797,
-      "num": 1193025,
-      "word": "中国新一代人造太阳又有突破",
-      "onboard_time": 1743155123,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81361,
@@ -3163,6 +3219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36045,
+      "num": 414652,
+      "word": "张凌赫Gucci竹境造型",
+      "onboard_time": 1743165441,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 35181,
       "num": 603489,
       "word": "中国花滑男单获冬奥资格",
@@ -3425,14 +3489,6 @@
       "onboard_time": 1743108314,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11759,
-      "num": 280081,
-      "word": "张凌赫Gucci竹境造型",
-      "onboard_time": 1743165441,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 11349,

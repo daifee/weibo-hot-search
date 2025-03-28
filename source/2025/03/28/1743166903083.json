@@ -1,0 +1,410 @@
+{
+  "runTime": 1743166903083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1693999,
+        "num": 1693999,
+        "word": "缅甸7.9级地震",
+        "onboard_time": 1743143600,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1171442,
+        "num": 1171442,
+        "word": "缅甸地震已超50人死亡",
+        "onboard_time": 1743160941,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 88351,
+        "num": 1014996,
+        "word": "中国新一代人造太阳又有突破",
+        "onboard_time": 1743155123,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 965561,
+        "num": 965561,
+        "word": "门童曼谷场取消",
+        "onboard_time": 1743156621,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 812859,
+        "num": 812859,
+        "word": "是中国人来救了我们",
+        "onboard_time": 1743163822,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 761667,
+        "num": 761667,
+        "word": "乘客呼吸困难说出碱字地铁员工秒懂",
+        "onboard_time": 1743156263,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 575564,
+        "num": 575564,
+        "word": "官方回应缅甸地震没有收到预警",
+        "onboard_time": 1743164902,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 567539,
+        "num": 567539,
+        "word": "邓萃雯看陈德容的表情",
+        "onboard_time": 1743166163,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536305,
+        "num": 536305,
+        "word": "雁回时21集封神",
+        "onboard_time": 1743166163,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161540,
+        "num": 521947,
+        "word": "自3月31日起全面停止收取门诊预交金",
+        "onboard_time": 1743162861,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 951136,
+        "num": 520121,
+        "word": "雪莉拍完real去了精神科",
+        "onboard_time": 1743159622,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508286,
+        "num": 508286,
+        "word": "宋威龙顶级男模",
+        "onboard_time": 1743162262,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 455124,
+        "num": 455124,
+        "word": "长和暂缓卖港口计划",
+        "onboard_time": 1743163822,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 441099,
+        "num": 441099,
+        "word": "泰国首都曼谷进入紧急状态",
+        "onboard_time": 1743150566,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 436374,
+        "num": 436374,
+        "word": "陈德容",
+        "onboard_time": 1743165022,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173492,
+        "num": 425376,
+        "word": "市监总局将依法审查长和港口交易",
+        "onboard_time": 1743164001,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193811,
+        "num": 421987,
+        "word": "古驰竹节包",
+        "onboard_time": 1743163641,
+        "rank": 16,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 89927,
+        "num": 421068,
+        "word": "国产车在新能源赛道别太拼了",
+        "onboard_time": 1743164782,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 420665,
+        "num": 420665,
+        "word": "金秀贤疑似强行加床戏",
+        "onboard_time": 1743158062,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197751,
+        "num": 419340,
+        "word": "曼谷通罗一地标空中走廊断裂",
+        "onboard_time": 1743165562,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36045,
+        "num": 414652,
+        "word": "张凌赫Gucci竹境造型",
+        "onboard_time": 1743165441,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 931609,
+        "num": 407297,
+        "word": "允儿被臭到",
+        "onboard_time": 1743153924,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 757567,
+        "num": 400155,
+        "word": "罗志祥妈妈患阿尔兹海默症",
+        "onboard_time": 1743159141,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582687,
+        "num": 396399,
+        "word": "虞书欣方发文报平安",
+        "onboard_time": 1743148526,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394777,
+        "num": 394777,
+        "word": "星穹铁道演唱会",
+        "onboard_time": 1743165441,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 425863,
+        "num": 389577,
+        "word": "王一博赛车冲出赛道",
+        "onboard_time": 1743141621,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404232,
+        "num": 356536,
+        "word": "雁回时",
+        "onboard_time": 1743157101,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280322,
+        "num": 280322,
+        "word": "刘诗诗选竹笛是因为好看",
+        "onboard_time": 1743159681,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204868,
+        "num": 279949,
+        "word": "雁回时剧情走向",
+        "onboard_time": 1743162623,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200020,
+        "num": 275464,
+        "word": "东方卫视电视剧品质盛典",
+        "onboard_time": 1743166101,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 632113,
+        "num": 272161,
+        "word": "湖南文理学院副教授出轨女学生",
+        "onboard_time": 1743153382,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389914,
+        "num": 269966,
+        "word": "缅甸地震云南建筑晃动扬起巨大灰尘",
+        "onboard_time": 1743149844,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 267540,
+        "num": 267540,
+        "word": "直击缅甸地震",
+        "onboard_time": 1743148883,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 254903,
+        "num": 254903,
+        "word": "恋与深空游戏榜登顶",
+        "onboard_time": 1743165382,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254552,
+        "num": 254552,
+        "word": "男子爱车被开罚单意外发现妻子出轨",
+        "onboard_time": 1743159321,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221659,
+        "num": 221659,
+        "word": "云南震感",
+        "onboard_time": 1743143600,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211489,
+        "num": 211489,
+        "word": "夏以昼传说限定",
+        "onboard_time": 1743166342,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200003,
+        "num": 200003,
+        "word": "缅甸地震能量堪比汶川地震",
+        "onboard_time": 1743164421,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 192318,
+        "num": 192318,
+        "word": "复活王蓉",
+        "onboard_time": 1743150925,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185225,
+        "num": 185225,
+        "word": "黄英 和稀泥",
+        "onboard_time": 1743166524,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174236,
+        "num": 174236,
+        "word": "卫星盐",
+        "onboard_time": 1743165623,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 172119,
+        "num": 172119,
+        "word": "戒烟",
+        "onboard_time": 1743164602,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164701,
+        "num": 164701,
+        "word": "星穹铁道3.2版本前瞻",
+        "onboard_time": 1743166702,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159149,
+        "num": 159149,
+        "word": "山姆必买",
+        "onboard_time": 1743154823,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152276,
+        "num": 152276,
+        "word": "德国一游客在泰国遭摩的司机围殴",
+        "onboard_time": 1743162861,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142915,
+        "num": 142915,
+        "word": "张凌赫帅得扑面而来",
+        "onboard_time": 1743166822,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138292,
+        "num": 138292,
+        "word": "工作室回应王一博平安",
+        "onboard_time": 1743163281,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132040,
+        "num": 132040,
+        "word": "瑞丽一翡翠市场暂时闭市",
+        "onboard_time": 1743163522,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 130958,
+        "num": 130958,
+        "word": "登顶",
+        "onboard_time": 1743162322,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130420,
+        "num": 130420,
+        "word": "音乐节阵容这么顶了吗",
+        "onboard_time": 1743164061,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见孟加拉国临时政府首席顾问尤努斯#"
+    }
+  }
+}
