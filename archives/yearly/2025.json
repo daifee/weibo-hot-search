@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743168701982,
+  "endTime": 1743169397205,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18900626,
+      "num": 18900626,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1738032375,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 18851987,
       "num": 18851987,
       "word": "李明德直播回击",
@@ -137,14 +145,6 @@
       "onboard_time": 1739707158,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16869959,
-      "num": 16869959,
-      "word": "王者荣耀崩了",
-      "onboard_time": 1738032375,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 16802991,

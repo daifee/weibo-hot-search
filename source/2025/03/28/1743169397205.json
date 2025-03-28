@@ -1,0 +1,410 @@
+{
+  "runTime": 1743169397205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 18900626,
+        "num": 18900626,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1743168083,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1912612,
+        "num": 1912612,
+        "word": "缅甸7.9级地震",
+        "onboard_time": 1743143600,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 14796,
+        "num": 1509798,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1743169046,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1272874,
+        "num": 1272874,
+        "word": "门童曼谷场取消",
+        "onboard_time": 1743156621,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 996986,
+        "num": 996986,
+        "word": "陈德容",
+        "onboard_time": 1743165022,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 905156,
+        "num": 905156,
+        "word": "缅甸地震已超50人死亡",
+        "onboard_time": 1743160941,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 862282,
+        "num": 862282,
+        "word": "是中国人来救了我们",
+        "onboard_time": 1743163822,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 829319,
+        "num": 829319,
+        "word": "雁回时21集封神",
+        "onboard_time": 1743166163,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552071,
+        "num": 552071,
+        "word": "女童被碾压身亡案被告人获刑十个月",
+        "onboard_time": 1743167663,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515610,
+        "num": 515610,
+        "word": "乘客呼吸困难说出碱字地铁员工秒懂",
+        "onboard_time": 1743156263,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 686491,
+        "num": 514449,
+        "word": "雪莉拍完real去了精神科",
+        "onboard_time": 1743159622,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479124,
+        "num": 479124,
+        "word": "邓萃雯看陈德容的表情",
+        "onboard_time": 1743166163,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421356,
+        "num": 421356,
+        "word": "黄英 和稀泥",
+        "onboard_time": 1743166524,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399090,
+        "num": 399090,
+        "word": "金秀贤疑似强行加床戏",
+        "onboard_time": 1743158062,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203192,
+        "num": 373669,
+        "word": "缅甸当地居民称情况非常糟糕",
+        "onboard_time": 1743167845,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 369092,
+        "num": 369092,
+        "word": "泰国首都曼谷进入紧急状态",
+        "onboard_time": 1743150566,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 366740,
+        "num": 366740,
+        "word": "长和暂缓卖港口计划",
+        "onboard_time": 1743163822,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 311740,
+        "num": 311740,
+        "word": "陈都灵值得",
+        "onboard_time": 1743167602,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18774,
+        "num": 285573,
+        "word": "震中华人称站在屋子里被上下甩动",
+        "onboard_time": 1743168986,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 273780,
+        "num": 273780,
+        "word": "官方回应缅甸地震没有收到预警",
+        "onboard_time": 1743164902,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 266637,
+        "num": 266637,
+        "word": "26岁北大研究生毕业留校当食堂阿姨",
+        "onboard_time": 1743169106,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690789,
+        "num": 265262,
+        "word": "允儿被臭到",
+        "onboard_time": 1743153924,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622364,
+        "num": 263409,
+        "word": "虞书欣方发文报平安",
+        "onboard_time": 1743148526,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40050,
+        "num": 261147,
+        "word": "张凌赫Gucci竹境造型",
+        "onboard_time": 1743165441,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 515212,
+        "num": 257396,
+        "word": "罗志祥妈妈患阿尔兹海默症",
+        "onboard_time": 1743159141,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63780,
+        "num": 256620,
+        "word": "国产车在新能源赛道别太拼了",
+        "onboard_time": 1743164782,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 383623,
+        "num": 252510,
+        "word": "缅甸地震云南建筑晃动扬起巨大灰尘",
+        "onboard_time": 1743149844,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 304848,
+        "num": 251444,
+        "word": "王一博赛车冲出赛道",
+        "onboard_time": 1743141621,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250148,
+        "num": 250148,
+        "word": "云南震感",
+        "onboard_time": 1743143600,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249775,
+        "num": 249775,
+        "word": "宋威龙顶级男模",
+        "onboard_time": 1743162262,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 516296,
+        "num": 249280,
+        "word": "湖南文理学院副教授出轨女学生",
+        "onboard_time": 1743153382,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246818,
+        "num": 246818,
+        "word": "直击缅甸地震",
+        "onboard_time": 1743148883,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 232413,
+        "num": 232413,
+        "word": "男子爱车被开罚单意外发现妻子出轨",
+        "onboard_time": 1743159321,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107738,
+        "num": 229919,
+        "word": "中国新一代人造太阳又有突破",
+        "onboard_time": 1743155123,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227712,
+        "num": 227712,
+        "word": "戒烟",
+        "onboard_time": 1743164602,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223443,
+        "num": 223443,
+        "word": "李惠利更新微博了",
+        "onboard_time": 1743168868,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212591,
+        "num": 212591,
+        "word": "复活王蓉",
+        "onboard_time": 1743150925,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209622,
+        "num": 209622,
+        "word": "雁回时",
+        "onboard_time": 1743157101,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204978,
+        "num": 204978,
+        "word": "王俊凯说没有人可以影响我",
+        "onboard_time": 1743168565,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206868,
+        "num": 204973,
+        "word": "雁回时热度破29000",
+        "onboard_time": 1743168325,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204937,
+        "num": 204937,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1743167422,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202816,
+        "num": 202816,
+        "word": "甲亢哥对记者贴脸输出",
+        "onboard_time": 1743168506,
+        "rank": 41,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 201853,
+        "num": 201853,
+        "word": "医生说少吃水果能少生很多病",
+        "onboard_time": 1743169227,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201007,
+        "num": 201007,
+        "word": "国家市场监管总局回应长和港口事件",
+        "onboard_time": 1743167724,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197499,
+        "num": 197499,
+        "word": "一诺达成600胜局",
+        "onboard_time": 1743169106,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141491,
+        "num": 176320,
+        "word": "自3月31日起全面停止收取门诊预交金",
+        "onboard_time": 1743162861,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171001,
+        "num": 171001,
+        "word": "刘诗诗选竹笛是因为好看",
+        "onboard_time": 1743159681,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24126,
+        "num": 165030,
+        "word": "Gucci竹节包历经岁月的优雅",
+        "onboard_time": 1743167845,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 159539,
+        "num": 159539,
+        "word": "市监总局将依法审查长和港口交易",
+        "onboard_time": 1743164001,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156742,
+        "num": 156742,
+        "word": "邓萃雯 这辈子什么风浪没见过",
+        "onboard_time": 1743169285,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#与中国同行就是与机遇同行#"
+    }
+  }
+}
