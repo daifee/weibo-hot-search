@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743140570932,
+  "endTime": 1743143617302,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -65,6 +65,14 @@
       "onboard_time": 1743052223,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2730800,
+      "num": 2730800,
+      "word": "缅甸7.7级左右地震",
+      "onboard_time": 1743143600,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 2658214,
@@ -187,11 +195,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2107048,
+      "num": 2107048,
+      "word": "王一博赛车冲出赛道",
+      "onboard_time": 1743141621,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2079294,
       "num": 803604,
       "word": "马拉松亲密事件",
       "onboard_time": 1742956341,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2074052,
+      "num": 2074052,
+      "word": "云南震感",
+      "onboard_time": 1743143600,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 1425116,
-      "num": 525031,
+      "num": 760769,
       "word": "陈德容王蓉吵起来了",
       "onboard_time": 1743138681,
       "rank": 3,
@@ -1339,12 +1363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 815054,
+      "num": 272743,
+      "word": "于正回应白鹿剧扑了",
+      "onboard_time": 1743139642,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 812812,
       "num": 323181,
       "word": "金秀贤称给金赛纶的信是朋友信之一",
       "onboard_time": 1742819962,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 811373,
+      "num": 811373,
+      "word": "列车员给孕妇推销建议买不建议用",
+      "onboard_time": 1743139701,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 808702,
@@ -1873,6 +1913,14 @@
       "onboard_time": 1742859500,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 642160,
+      "num": 270572,
+      "word": "王一博赛车受损",
+      "onboard_time": 1743141621,
+      "rank": 11,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 640949,
@@ -2609,6 +2657,14 @@
       "onboard_time": 1743001462,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 501197,
+      "num": 237335,
+      "word": "陈德容划水",
+      "onboard_time": 1743142641,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 500236,
@@ -4307,6 +4363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319811,
+      "num": 227747,
+      "word": "管乐把侯佩岑邓萃雯抡起来转圈",
+      "onboard_time": 1743141080,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319359,
       "num": 319359,
       "word": "王星 无限超越班",
@@ -4360,14 +4424,6 @@
       "word": "喻恩泰演技",
       "onboard_time": 1743084262,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 316203,
-      "num": 270341,
-      "word": "于正回应白鹿剧扑了",
-      "onboard_time": 1743139642,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -4995,6 +5051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277141,
+      "num": 217222,
+      "word": "赵樱子说提迪幂孟扎是被迫",
+      "onboard_time": 1743142762,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276604,
       "num": 276604,
       "word": "孙颖莎王楚钦驱动乒乓商业革新",
@@ -5219,14 +5283,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 264912,
-      "num": 264912,
-      "word": "列车员给孕妇推销建议买不建议用",
-      "onboard_time": 1743139701,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 264618,
       "num": 278730,
       "word": "吃饭跑步和恋爱",
@@ -5433,6 +5489,14 @@
       "onboard_time": 1742959821,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249640,
+      "num": 249640,
+      "word": "燕云十六声",
+      "onboard_time": 1743123382,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 248998,
@@ -6651,6 +6715,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 206496,
+      "num": 206496,
+      "word": "车银优恭喜你啊你长得像",
+      "onboard_time": 1743141561,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206337,
       "num": 344792,
       "word": "这对姐狗扑面而来的缺氧感",
@@ -7057,6 +7129,14 @@
       "onboard_time": 1742697861,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 199285,
+      "num": 199285,
+      "word": "李现交作业回应热搜",
+      "onboard_time": 1743141080,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 199043,
@@ -7531,6 +7611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189477,
+      "num": 189477,
+      "word": "保安帮业主关窗在保温杯内小便",
+      "onboard_time": 1743142461,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189190,
       "num": 189190,
       "word": "山东一任教31年教师临近退休突遭解聘",
@@ -7561,6 +7649,14 @@
       "onboard_time": 1743046941,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 188904,
+      "num": 194051,
+      "word": "陈丽君向网综发出倡议",
+      "onboard_time": 1743139642,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 188865,
@@ -7657,6 +7753,14 @@
       "onboard_time": 1742995162,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186837,
+      "num": 186837,
+      "word": "95后女孩出租自己1年假结婚七八次",
+      "onboard_time": 1743140661,
+      "rank": 35,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 186705,
@@ -7931,14 +8035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181627,
-      "num": 204029,
-      "word": "燕云十六声",
-      "onboard_time": 1743123382,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 181542,
       "num": 181542,
       "word": "刘耀文Chapter03",
@@ -8033,6 +8129,14 @@
       "onboard_time": 1742700500,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179411,
+      "num": 179411,
+      "word": "甲亢哥中国2场直播近千万人次",
+      "onboard_time": 1743142041,
+      "rank": 36,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 179148,
@@ -8147,14 +8251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176034,
-      "num": 176034,
-      "word": "陈丽君向网综发出倡议",
-      "onboard_time": 1743139642,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176025,
       "num": 176025,
       "word": "妻子的浪漫旅行",
@@ -8169,6 +8265,14 @@
       "onboard_time": 1743129620,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 175903,
+      "num": 175903,
+      "word": "野人居然输了",
+      "onboard_time": 1743142522,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 175529,
@@ -8379,6 +8483,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 171272,
+      "num": 202715,
+      "word": "张婧仪梦花廷片场plog",
+      "onboard_time": 1743143000,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171221,
       "num": 171221,
       "word": "0.03元开通试用后每个月被扣近百元",
@@ -8488,6 +8600,14 @@
       "word": "6年的阿贝贝破烂不堪女孩仍爱不释手",
       "onboard_time": 1742772200,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168853,
+      "num": 199421,
+      "word": "男子20万买法拍房连门都进不去",
+      "onboard_time": 1743141621,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -11491,6 +11611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128121,
+      "num": 277706,
+      "word": "不说话的爱清明档预售第一",
+      "onboard_time": 1743142221,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128044,
       "num": 128044,
       "word": "戚薇李承铉把妻子当换装游戏",
@@ -11505,6 +11633,14 @@
       "onboard_time": 1742903421,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127946,
+      "num": 127946,
+      "word": "沈梦辰被大风吹到脸部颤抖",
+      "onboard_time": 1743139401,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 127798,
@@ -12107,14 +12243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121578,
-      "num": 121578,
-      "word": "沈梦辰被大风吹到脸部颤抖",
-      "onboard_time": 1743139401,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121283,
       "num": 147292,
       "word": "李晟唱功",
@@ -12425,6 +12553,14 @@
       "onboard_time": 1743071182,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117795,
+      "num": 158271,
+      "word": "日本教练说天赋高的球员中国比日本多",
+      "onboard_time": 1743140841,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 117743,
@@ -12809,6 +12945,14 @@
       "onboard_time": 1742659221,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113317,
+      "num": 266202,
+      "word": "网曝沈阳一井盖飞起砸穿车窗",
+      "onboard_time": 1743142341,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113079,
@@ -14828,7 +14972,7 @@
     },
     {
       "raw_hot": 84648,
-      "num": 652794,
+      "num": 2083517,
       "word": "北京卫视4K超高清频道震撼亮相",
       "onboard_time": 1743137541,
       "rank": 2,
@@ -15691,6 +15835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66430,
+      "num": 191699,
+      "word": "绝区零",
+      "onboard_time": 1743143480,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 65890,
       "num": 170416,
       "word": "欧洲多国游客取消赴美选择加拿大",
@@ -16289,6 +16441,14 @@
       "onboard_time": 1742902401,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54500,
+      "num": 269452,
+      "word": "重婚女子被法院判赔抚养费每月80",
+      "onboard_time": 1743142101,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54402,
@@ -17411,6 +17571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 32882,
+      "num": 199329,
+      "word": "全红婵再回应小小巴黎拿捏",
+      "onboard_time": 1743143421,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32848,
       "num": 39302,
       "word": "袁一琦演唱会成都站",
@@ -17465,6 +17633,14 @@
       "onboard_time": 1742789001,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 32010,
+      "num": 262812,
+      "word": "禁烟场所被烟头烫伤女子发声",
+      "onboard_time": 1743143000,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31982,
@@ -17545,6 +17721,14 @@
       "onboard_time": 1743010935,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 31206,
+      "num": 240305,
+      "word": "女子受托雅典买房收280万后玩失踪",
+      "onboard_time": 1743142282,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31195,
@@ -18001,6 +18185,14 @@
       "onboard_time": 1742665936,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25070,
+      "num": 241803,
+      "word": "美媒爆群聊泄密事件更多猛料",
+      "onboard_time": 1743143300,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25060,
