@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743193589770,
+  "endTime": 1743194392538,
   "band_list": [
     {
       "raw_hot": 1473239,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40815,
+      "num": 48382,
+      "word": "气温为啥这么癫",
+      "onboard_time": 1743192854,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39089,
       "num": 40725,
       "word": "周深获年度品质金声",
@@ -547,16 +555,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18027,
-      "num": 48382,
-      "word": "气温为啥这么癫",
-      "onboard_time": 1743192854,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16315,
-      "num": 16969,
+      "raw_hot": 16763,
+      "num": 17233,
       "word": "王楚然我不张嘴就看不到我牙黑",
       "onboard_time": 1743191595,
       "rank": 44,
@@ -569,6 +569,14 @@
       "onboard_time": 1743188053,
       "rank": 38,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11637,
+      "num": 25212,
+      "word": "云南一小学师生迅速撤离到操场",
+      "onboard_time": 1743193273,
+      "rank": 27,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

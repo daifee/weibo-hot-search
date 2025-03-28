@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743193589770,
+  "endTime": 1743194392538,
   "band_list": [
     {
       "raw_hot": 18900626,
@@ -18947,6 +18947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40815,
+      "num": 48382,
+      "word": "气温为啥这么癫",
+      "onboard_time": 1743192854,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40764,
       "num": 227523,
       "word": "马龙林高远击掌",
@@ -20555,14 +20563,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 18027,
-      "num": 48382,
-      "word": "气温为啥这么癫",
-      "onboard_time": 1743192854,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17943,
       "num": 300956,
       "word": "澳大利亚主帅称赞王钰栋",
@@ -20651,6 +20651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16763,
+      "num": 17233,
+      "word": "王楚然我不张嘴就看不到我牙黑",
+      "onboard_time": 1743191595,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16545,
       "num": 29144,
       "word": "F1直播",
@@ -20665,14 +20673,6 @@
       "onboard_time": 1743031700,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 16315,
-      "num": 16969,
-      "word": "王楚然我不张嘴就看不到我牙黑",
-      "onboard_time": 1743191595,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 16244,
@@ -21009,6 +21009,14 @@
       "onboard_time": 1743108314,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11637,
+      "num": 25212,
+      "word": "云南一小学师生迅速撤离到操场",
+      "onboard_time": 1743193273,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11562,

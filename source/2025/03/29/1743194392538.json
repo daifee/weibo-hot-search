@@ -1,0 +1,410 @@
+{
+  "runTime": 1743194392538,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 146305,
+        "num": 146305,
+        "word": "人类的灾难不该拿来调侃",
+        "onboard_time": 1743174264,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 122393,
+        "num": 122393,
+        "word": "门童曼谷场取消",
+        "onboard_time": 1743156621,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13625,
+        "num": 118253,
+        "word": "这样的西藏你见过吗",
+        "onboard_time": 1743171444,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117875,
+        "num": 117875,
+        "word": "缅甸7.9级地震",
+        "onboard_time": 1743143600,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 91244,
+        "num": 91244,
+        "word": "缅甸华人称今晚扛垫子睡路边",
+        "onboard_time": 1743184335,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 89907,
+        "num": 89907,
+        "word": "陈德容",
+        "onboard_time": 1743165022,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76143,
+        "num": 76143,
+        "word": "央妈发了6条王蓉",
+        "onboard_time": 1743175583,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70220,
+        "num": 70220,
+        "word": "李嘉诚4公司市值蒸发超781亿",
+        "onboard_time": 1743176361,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45415,
+        "num": 45415,
+        "word": "麦琳两个月暴瘦20斤",
+        "onboard_time": 1743178162,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45059,
+        "num": 45059,
+        "word": "中国驻泰使馆发布安全提醒",
+        "onboard_time": 1743169585,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 66051,
+        "num": 44684,
+        "word": "妻子举报丈夫出轨上海一财政局副科长",
+        "onboard_time": 1743172824,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65187,
+        "num": 43848,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1743168083,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40815,
+        "num": 40815,
+        "word": "气温为啥这么癫",
+        "onboard_time": 1743192854,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40157,
+        "num": 40157,
+        "word": "缅甸地震已致144人遇难",
+        "onboard_time": 1743170425,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 39790,
+        "num": 39790,
+        "word": "高校教师被曝出轨学生被停职调查",
+        "onboard_time": 1743169884,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37088,
+        "num": 37088,
+        "word": "赵露思综艺",
+        "onboard_time": 1743173663,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34196,
+        "num": 34196,
+        "word": "门童粉丝发长文",
+        "onboard_time": 1743171264,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32094,
+        "num": 32094,
+        "word": "全网能打王者荣耀只有这十个人",
+        "onboard_time": 1743170905,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31913,
+        "num": 31913,
+        "word": "云南震感",
+        "onboard_time": 1743143600,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30064,
+        "num": 30064,
+        "word": "王蓉后空翻被剪",
+        "onboard_time": 1743173364,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43700,
+        "num": 29811,
+        "word": "医生说少吃水果能少生很多病",
+        "onboard_time": 1743169227,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30542,
+        "num": 29656,
+        "word": "虞书欣方发文报平安",
+        "onboard_time": 1743148526,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29380,
+        "num": 29380,
+        "word": "亲姐妹借腹生子反悔起诉争抚养权",
+        "onboard_time": 1743173123,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28949,
+        "num": 28949,
+        "word": "雪莉拍完real去了精神科",
+        "onboard_time": 1743159622,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28813,
+        "num": 28813,
+        "word": "未来高层住宅或将越来越少",
+        "onboard_time": 1743173724,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26865,
+        "num": 26865,
+        "word": "王者荣耀回应崩了",
+        "onboard_time": 1743169644,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25411,
+        "num": 25411,
+        "word": "苦尽甘来遇见你",
+        "onboard_time": 1743177923,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11637,
+        "num": 25212,
+        "word": "云南一小学师生迅速撤离到操场",
+        "onboard_time": 1743193273,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25166,
+        "num": 25166,
+        "word": "成果发视频",
+        "onboard_time": 1743172944,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21390,
+        "num": 25117,
+        "word": "明宰铉wvs更新",
+        "onboard_time": 1743175104,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25111,
+        "num": 25111,
+        "word": "乘客呼吸困难说出碱字地铁员工秒懂",
+        "onboard_time": 1743156263,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 22485,
+        "num": 22485,
+        "word": "泰国首都曼谷进入紧急状态",
+        "onboard_time": 1743150566,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 21668,
+        "num": 21668,
+        "word": "甲亢哥少林寺英语拜师师父听得懂",
+        "onboard_time": 1743191654,
+        "rank": 32,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 19525,
+        "num": 19525,
+        "word": "雁回时",
+        "onboard_time": 1743157101,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19146,
+        "num": 19146,
+        "word": "黄英 和稀泥",
+        "onboard_time": 1743166524,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19102,
+        "num": 19102,
+        "word": "泰国曼谷震感持续数分钟",
+        "onboard_time": 1743190454,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 18814,
+        "num": 18814,
+        "word": "直击缅甸地震",
+        "onboard_time": 1743148883,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 17973,
+        "num": 17973,
+        "word": "10秒开启微信地震预警",
+        "onboard_time": 1743177621,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17946,
+        "num": 17946,
+        "word": "吴宣仪哭了以为自己组赢了",
+        "onboard_time": 1743174084,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17911,
+        "num": 17911,
+        "word": "缅甸地震云南建筑晃动扬起巨大灰尘",
+        "onboard_time": 1743149844,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 17237,
+        "num": 17237,
+        "word": "马嘉祺高会",
+        "onboard_time": 1743175882,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16763,
+        "num": 17233,
+        "word": "王楚然我不张嘴就看不到我牙黑",
+        "onboard_time": 1743191595,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16420,
+        "num": 17232,
+        "word": "周深获年度品质金声",
+        "onboard_time": 1743182777,
+        "rank": 42,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 16288,
+        "num": 17227,
+        "word": "雁回时21集封神",
+        "onboard_time": 1743166163,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15580,
+        "num": 17227,
+        "word": "马龙王安宇在聊什么",
+        "onboard_time": 1743175700,
+        "rank": 44,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 15474,
+        "num": 17223,
+        "word": "中国驻缅甸使馆正在跟进地震情况",
+        "onboard_time": 1743172106,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 15288,
+        "num": 17218,
+        "word": "刘宇宁感谢珠帘玉幕",
+        "onboard_time": 1743190153,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15219,
+        "num": 17213,
+        "word": "允儿被臭到",
+        "onboard_time": 1743153924,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14832,
+        "num": 17211,
+        "word": "AG对战Hero",
+        "onboard_time": 1743185416,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14427,
+        "num": 17207,
+        "word": "刘耀文 进组",
+        "onboard_time": 1743171205,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见孟加拉国临时政府首席顾问尤努斯#"
+    }
+  }
+}
