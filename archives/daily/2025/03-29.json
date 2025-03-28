@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743194392538,
+  "endTime": 1743196949808,
   "band_list": [
     {
       "raw_hot": 1473239,
@@ -427,6 +427,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 65973,
+      "num": 65973,
+      "word": "气温为啥这么癫",
+      "onboard_time": 1743192854,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65526,
       "num": 123092,
       "word": "曼谷倒塌大楼系泰国审计署新办公楼",
@@ -465,14 +473,6 @@
       "onboard_time": 1743157101,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40815,
-      "num": 48382,
-      "word": "气温为啥这么癫",
-      "onboard_time": 1743192854,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39089,
@@ -531,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20132,
+      "num": 40174,
+      "word": "华裔女生讲述亲历缅甸地震",
+      "onboard_time": 1743195313,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 19517,
       "num": 24066,
       "word": "邓佳鑫弹唱明明就",
@@ -571,11 +579,19 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 11637,
+      "raw_hot": 14019,
       "num": 25212,
       "word": "云南一小学师生迅速撤离到操场",
       "onboard_time": 1743193273,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12799,
+      "num": 17106,
+      "word": "北大教授的书房要向读者开放了",
+      "onboard_time": 1743196034,
+      "rank": 34,
       "category": "民生新闻"
     }
   ],
