@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743197793186,
+  "endTime": 1743200584318,
   "band_list": [
     {
       "raw_hot": 1473239,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 65973,
-      "num": 65973,
+      "num": 74169,
       "word": "气温为啥这么癫",
       "onboard_time": 1743192854,
       "rank": 9,
@@ -441,6 +441,14 @@
       "onboard_time": 1743187215,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 61039,
+      "num": 61039,
+      "word": "管乐挟持老年人要挟观众投票",
+      "onboard_time": 1743198314,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 59162,
@@ -475,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47482,
+      "num": 47482,
+      "word": "缅甸7.9级地震感受像车胎爆了",
+      "onboard_time": 1743197712,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 39089,
       "num": 40725,
       "word": "周深获年度品质金声",
@@ -497,6 +513,22 @@
       "onboard_time": 1743188355,
       "rank": 13,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 27617,
+      "num": 28311,
+      "word": "北大教授的书房要向读者开放了",
+      "onboard_time": 1743196034,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27029,
+      "num": 74081,
+      "word": "地震来临她毫不犹豫转身疏散群众",
+      "onboard_time": 1743199155,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26070,
@@ -539,6 +571,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 20083,
+      "num": 25063,
+      "word": "王楚然我不张嘴就看不到我牙黑",
+      "onboard_time": 1743191595,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19517,
       "num": 24066,
       "word": "邓佳鑫弹唱明明就",
@@ -548,7 +588,7 @@
     },
     {
       "raw_hot": 18839,
-      "num": 18839,
+      "num": 25046,
       "word": "刘宇宁感谢珠帘玉幕",
       "onboard_time": 1743190153,
       "rank": 45,
@@ -563,20 +603,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17619,
-      "num": 28311,
-      "word": "北大教授的书房要向读者开放了",
-      "onboard_time": 1743196034,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 17312,
+      "num": 25037,
+      "word": "普京称特朗普真诚希望结束俄乌冲突",
+      "onboard_time": 1743199694,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 16763,
-      "num": 17233,
-      "word": "王楚然我不张嘴就看不到我牙黑",
-      "onboard_time": 1743191595,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 16346,
+      "num": 25029,
+      "word": "震中附近一华人说人没了货也没了",
+      "onboard_time": 1743200114,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14571,
@@ -593,14 +633,6 @@
       "onboard_time": 1743193273,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10914,
-      "num": 16697,
-      "word": "缅甸7.9级地震感受像车胎爆了",
-      "onboard_time": 1743197712,
-      "rank": 37,
-      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [
