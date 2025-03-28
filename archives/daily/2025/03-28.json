@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743133724152,
+  "endTime": 1743136172863,
   "band_list": [
     {
       "raw_hot": 2004301,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1548677,
+      "num": 1548677,
+      "word": "李晟 玄学",
+      "onboard_time": 1743133461,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1470934,
       "num": 270402,
       "word": "宋雨琦 受伤",
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1267965,
-      "num": 253591,
+      "num": 305153,
       "word": "赵露思问山区小朋友拍过艺术照没",
       "onboard_time": 1743131180,
       "rank": 16,
@@ -51,8 +59,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 870003,
+      "num": 307855,
+      "word": "千颂伊 洪海仁",
+      "onboard_time": 1743134181,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 859286,
-      "num": 282959,
+      "num": 298288,
       "word": "赵露思生病前认为拐杖只是装饰",
       "onboard_time": 1743125001,
       "rank": 15,
@@ -64,6 +80,14 @@
       "word": "北京下雪",
       "onboard_time": 1743119961,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 765734,
+      "num": 765734,
+      "word": "兔兔拔萝卜被主人塞回气得用嘴堵洞",
+      "onboard_time": 1743129079,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -91,19 +115,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 668248,
+      "num": 210288,
+      "word": "我以为演员要学历",
+      "onboard_time": 1743135020,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 660498,
       "num": 759082,
       "word": "上海对边走边抽烟的游烟族出手了",
       "onboard_time": 1743089781,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 644833,
-      "num": 644833,
-      "word": "兔兔拔萝卜被主人塞回气得用嘴堵洞",
-      "onboard_time": 1743129079,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 639009,
-      "num": 257433,
+      "num": 300107,
       "word": "雪莉哥哥再发ins控诉金秀贤",
       "onboard_time": 1743131961,
       "rank": 11,
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 358501,
-      "num": 252723,
+      "num": 297053,
       "word": "王一博赛前素颜随拍",
       "onboard_time": 1743132621,
       "rank": 17,
@@ -243,6 +267,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316717,
+      "num": 301288,
+      "word": "张继科想参加2029全运会",
+      "onboard_time": 1743136040,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 314824,
+      "num": 314824,
+      "word": "校方回应老师怼家长让孩子上职中",
+      "onboard_time": 1743131599,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312697,
+      "num": 312697,
+      "word": "浪姐一公",
+      "onboard_time": 1743135502,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 311320,
+      "num": 311320,
+      "word": "童瑶新剧吃到一半发现是自己的席",
+      "onboard_time": 1743134541,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308237,
       "num": 371008,
       "word": "唐山2.5级地震",
@@ -257,6 +313,14 @@
       "onboard_time": 1743128239,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300394,
+      "num": 300394,
+      "word": "IU边佑锡辞演新剧",
+      "onboard_time": 1743133580,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 299884,
@@ -283,20 +347,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 294045,
-      "num": 294045,
-      "word": "校方回应老师怼家长让孩子上职中",
-      "onboard_time": 1743131599,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 285713,
       "num": 285713,
       "word": "你被二手烟困扰过吗",
       "onboard_time": 1743093079,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284222,
+      "num": 272670,
+      "word": "张柏芝穿粉色美我一大跳",
+      "onboard_time": 1743134362,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 276372,
+      "num": 276372,
+      "word": "明日方舟",
+      "onboard_time": 1743134240,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 274205,
@@ -315,12 +387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261760,
-      "num": 261760,
-      "word": "李晟 玄学",
-      "onboard_time": 1743133461,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 264393,
+      "num": 264393,
+      "word": "侧卧睡觉两腿间最好夹个枕头",
+      "onboard_time": 1743132621,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263681,
+      "num": 221903,
+      "word": "爆火的瑞士平替成了罪恶的婴儿工厂",
+      "onboard_time": 1743133041,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 261233,
@@ -371,6 +451,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227941,
+      "num": 227941,
+      "word": "药贩子骄傲称药店怕我们不去",
+      "onboard_time": 1743128061,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 223741,
+      "num": 251822,
+      "word": "刘学义演技",
+      "onboard_time": 1743133041,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223051,
       "num": 223051,
       "word": "赵露思生病前和家人几乎不联系",
@@ -419,14 +515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217053,
-      "num": 245558,
-      "word": "IU边佑锡辞演新剧",
-      "onboard_time": 1743133580,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211675,
       "num": 211675,
       "word": "大鹅多处被烤熟仍不离开被烧死同伴",
@@ -441,6 +529,14 @@
       "onboard_time": 1743119000,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 209686,
+      "num": 209686,
+      "word": "白敬亭章若楠cp粉好努力",
+      "onboard_time": 1743135440,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 209640,
@@ -467,12 +563,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 203223,
-      "num": 203223,
-      "word": "侧卧睡觉两腿间最好夹个枕头",
-      "onboard_time": 1743132621,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 203333,
+      "num": 203333,
+      "word": "那你真笨",
+      "onboard_time": 1743134002,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202532,
+      "num": 202532,
+      "word": "灵笼第二季定档",
+      "onboard_time": 1743135081,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 201224,
@@ -531,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188176,
+      "num": 188176,
+      "word": "普京回应特朗普吞并格陵兰岛言论",
+      "onboard_time": 1743135203,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 183493,
       "num": 183493,
       "word": "梦花廷",
@@ -571,6 +683,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 171071,
+      "num": 171071,
+      "word": "未定事件簿",
+      "onboard_time": 1743134661,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 168164,
+      "num": 221380,
+      "word": "电视剧品质盛典好剧扎堆",
+      "onboard_time": 1743135801,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166074,
       "num": 146670,
       "word": "王嘉尔直播庆生party",
@@ -579,16 +707,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158896,
-      "num": 158896,
-      "word": "爆火的瑞士平替成了罪恶的婴儿工厂",
-      "onboard_time": 1743133041,
-      "rank": 45,
-      "category": "海外新闻"
+      "raw_hot": 158759,
+      "num": 158759,
+      "word": "孟子义何与时尚芭莎大片",
+      "onboard_time": 1743135259,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 157058,
-      "num": 157058,
+      "num": 237977,
       "word": "成也詹姆斯败也詹姆斯",
       "onboard_time": 1743132859,
       "rank": 46,
@@ -641,6 +769,14 @@
       "onboard_time": 1743132983,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149030,
+      "num": 149030,
+      "word": "林更新扮美人鱼尴尬的是赵又廷",
+      "onboard_time": 1743134061,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 147032,
@@ -715,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127007,
+      "num": 214637,
+      "word": "上官正义称代孕中介反侦查意识强",
+      "onboard_time": 1743134240,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126153,
       "num": 126153,
       "word": "爸爸去世女儿被判和4个姑姑平分遗产",
@@ -771,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114262,
-      "num": 251822,
-      "word": "刘学义演技",
-      "onboard_time": 1743133041,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113040,
       "num": 125590,
       "word": "小婉管乐连睡觉都分不开",
@@ -825,6 +961,14 @@
       "onboard_time": 1743084262,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101056,
+      "num": 310338,
+      "word": "内蒙古女孩在杭州写乡愁把老师感动哭了",
+      "onboard_time": 1743134961,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99376,
@@ -1060,7 +1204,7 @@
     },
     {
       "raw_hot": 70119,
-      "num": 255780,
+      "num": 304290,
       "word": "霸王茶姬王鹤棣一起好状态",
       "onboard_time": 1743132859,
       "rank": 13,
@@ -1091,14 +1235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67785,
-      "num": 222128,
-      "word": "药贩子骄傲称药店怕我们不去",
-      "onboard_time": 1743128061,
-      "rank": 34,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 67374,
       "num": 67374,
       "word": "小女孩一句不痛听得眼泪下来了",
@@ -1113,6 +1249,14 @@
       "onboard_time": 1743083663,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65750,
+      "num": 212699,
+      "word": "李现一生要出片的中国男人",
+      "onboard_time": 1743133340,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 65432,
@@ -1235,6 +1379,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 43746,
+      "num": 218331,
+      "word": "欧盟拟打击美国服务出口",
+      "onboard_time": 1743134541,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42690,
       "num": 184284,
       "word": "萨巴伦卡阳光双赛背靠背进决赛",
@@ -1329,6 +1481,14 @@
       "onboard_time": 1743096855,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24734,
+      "num": 189474,
+      "word": "泸州街头美食",
+      "onboard_time": 1743136101,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 23748,
@@ -1505,6 +1665,9 @@
     },
     {
       "word": "#这是中国同世界的交往之道#"
+    },
+    {
+      "word": "#这一新时代的徙木立信之举改变中国#"
     }
   ]
 }
