@@ -1,30 +1,30 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743143617302,
+  "endTime": 1743144484783,
   "band_list": [
     {
-      "raw_hot": 2730800,
-      "num": 2730800,
+      "raw_hot": 11898853,
+      "num": 13148853,
       "word": "缅甸7.7级左右地震",
       "onboard_time": 1743143600,
       "rank": 0,
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 2107048,
-      "num": 2107048,
-      "word": "王一博赛车冲出赛道",
-      "onboard_time": 1743141621,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2074052,
-      "num": 2074052,
+      "raw_hot": 8423438,
+      "num": 8423438,
       "word": "云南震感",
       "onboard_time": 1743143600,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2276376,
+      "num": 2276376,
+      "word": "王一博赛车冲出赛道",
+      "onboard_time": 1743141621,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2023764,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 815054,
-      "num": 272743,
+      "num": 514530,
       "word": "于正回应白鹿剧扑了",
       "onboard_time": 1743139642,
       "rank": 13,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 790010,
-      "num": 286462,
+      "num": 499391,
       "word": "赵露思问爷爷为什么不传手艺",
       "onboard_time": 1743139101,
       "rank": 14,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 642160,
-      "num": 270572,
+      "num": 563470,
       "word": "王一博赛车受损",
       "onboard_time": 1743141621,
       "rank": 11,
@@ -235,8 +235,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 568700,
+      "num": 568700,
+      "word": "泰国震感",
+      "onboard_time": 1743144083,
+      "rank": 7,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 501197,
-      "num": 237335,
+      "num": 410189,
       "word": "陈德容划水",
       "onboard_time": 1743142641,
       "rank": 20,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 319811,
-      "num": 227747,
+      "num": 264739,
       "word": "管乐把侯佩岑邓萃雯抡起来转圈",
       "onboard_time": 1743141080,
       "rank": 22,
@@ -492,11 +500,19 @@
     },
     {
       "raw_hot": 277141,
-      "num": 217222,
+      "num": 247936,
       "word": "赵樱子说提迪幂孟扎是被迫",
       "onboard_time": 1743142762,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276462,
+      "num": 276462,
+      "word": "网曝沈阳一井盖飞起砸穿车窗",
+      "onboard_time": 1743142341,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276372,
@@ -643,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219374,
+      "num": 161296,
+      "word": "侯佩岑组第一",
+      "onboard_time": 1743144304,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219360,
       "num": 209686,
       "word": "白敬亭章若楠cp粉好努力",
@@ -673,6 +697,14 @@
       "onboard_time": 1743131900,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213512,
+      "num": 213512,
+      "word": "保安帮业主关窗在保温杯内小便",
+      "onboard_time": 1743142461,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211826,
@@ -723,8 +755,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206496,
-      "num": 206496,
+      "raw_hot": 207692,
+      "num": 207692,
       "word": "车银优恭喜你啊你长得像",
       "onboard_time": 1743141561,
       "rank": 27,
@@ -785,6 +817,22 @@
       "onboard_time": 1743084383,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198764,
+      "num": 202715,
+      "word": "张婧仪梦花廷片场plog",
+      "onboard_time": 1743143000,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198437,
+      "num": 515065,
+      "word": "甲亢哥中国2场直播近千万人次",
+      "onboard_time": 1743142041,
+      "rank": 36,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 196761,
@@ -851,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189477,
-      "num": 189477,
-      "word": "保安帮业主关窗在保温杯内小便",
-      "onboard_time": 1743142461,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189103,
       "num": 189103,
       "word": "一部电影带你了解无声的世界",
@@ -915,6 +955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 180071,
+      "num": 199421,
+      "word": "男子20万买法拍房连门都进不去",
+      "onboard_time": 1743141621,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179880,
       "num": 201317,
       "word": "动画还原船长公海被杀抛尸",
@@ -923,12 +971,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179411,
-      "num": 179411,
-      "word": "甲亢哥中国2场直播近千万人次",
-      "onboard_time": 1743142041,
-      "rank": 36,
-      "category": "民生新闻,网红"
+      "raw_hot": 179570,
+      "num": 208260,
+      "word": "田柾国向山火灾区捐款10亿韩元",
+      "onboard_time": 1743144143,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 176025,
@@ -955,28 +1003,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171272,
-      "num": 202715,
-      "word": "张婧仪梦花廷片场plog",
-      "onboard_time": 1743143000,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171071,
       "num": 171071,
       "word": "未定事件簿",
       "onboard_time": 1743134661,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 168853,
-      "num": 199421,
-      "word": "男子20万买法拍房连门都进不去",
-      "onboard_time": 1743141621,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167637,
@@ -1067,6 +1099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150399,
+      "num": 150399,
+      "word": "燕云十六声问题修复仍未完成",
+      "onboard_time": 1743143964,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150081,
       "num": 150081,
       "word": "白鹿唐宫奇案簪花造型",
@@ -1105,6 +1145,14 @@
       "onboard_time": 1743130161,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146525,
+      "num": 146525,
+      "word": "杨幂超现实棱镜",
+      "onboard_time": 1743143841,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 143658,
@@ -1155,6 +1203,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 137673,
+      "num": 277706,
+      "word": "不说话的爱清明档预售第一",
+      "onboard_time": 1743142221,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136836,
       "num": 235055,
       "word": "原神5.5版本",
@@ -1201,14 +1257,6 @@
       "onboard_time": 1743139281,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 128121,
-      "num": 277706,
-      "word": "不说话的爱清明档预售第一",
-      "onboard_time": 1743142221,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 127946,
@@ -1307,20 +1355,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115000,
+      "num": 115000,
+      "word": "王嘉尔新歌说唱",
+      "onboard_time": 1743143662,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 114890,
       "num": 114890,
       "word": "中式梦核",
       "onboard_time": 1743140062,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 113317,
-      "num": 266202,
-      "word": "网曝沈阳一井盖飞起砸穿车窗",
-      "onboard_time": 1743142341,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113040,
@@ -1377,6 +1425,14 @@
       "onboard_time": 1743084262,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102075,
+      "num": 2540082,
+      "word": "北京卫视4K超高清频道震撼亮相",
+      "onboard_time": 1743137541,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101056,
@@ -1523,14 +1579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84648,
-      "num": 2083517,
-      "word": "北京卫视4K超高清频道震撼亮相",
-      "onboard_time": 1743137541,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84489,
       "num": 202729,
       "word": "权志龙为山火灾区捐款",
@@ -1569,6 +1617,14 @@
       "onboard_time": 1743140542,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82389,
+      "num": 199681,
+      "word": "中国最胖的省是河北",
+      "onboard_time": 1743144143,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 81361,
@@ -1732,7 +1788,7 @@
     },
     {
       "raw_hot": 66430,
-      "num": 191699,
+      "num": 209344,
       "word": "绝区零",
       "onboard_time": 1743143480,
       "rank": 33,
@@ -1755,11 +1811,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65562,
+      "num": 261663,
+      "word": "全红婵再回应小小巴黎拿捏",
+      "onboard_time": 1743143421,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65432,
       "num": 86649,
       "word": "儿子给腰突父亲买40小时硬座票",
       "onboard_time": 1743049462,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62620,
+      "num": 317935,
+      "word": "禁烟场所被烟头烫伤女子发声",
+      "onboard_time": 1743143000,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1931,6 +2003,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 37684,
+      "num": 260891,
+      "word": "美媒爆群聊泄密事件更多猛料",
+      "onboard_time": 1743143300,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37446,
       "num": 38046,
       "word": "棋士 黑色幽默",
@@ -1947,23 +2027,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 32882,
-      "num": 199329,
-      "word": "全红婵再回应小小巴黎拿捏",
-      "onboard_time": 1743143421,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 32010,
-      "num": 262812,
-      "word": "禁烟场所被烟头烫伤女子发声",
-      "onboard_time": 1743143000,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31206,
+      "raw_hot": 33704,
       "num": 240305,
       "word": "女子受托雅典买房收280万后玩失踪",
       "onboard_time": 1743142282,
@@ -2025,14 +2089,6 @@
       "onboard_time": 1743096855,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25070,
-      "num": 241803,
-      "word": "美媒爆群聊泄密事件更多猛料",
-      "onboard_time": 1743143300,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23748,
