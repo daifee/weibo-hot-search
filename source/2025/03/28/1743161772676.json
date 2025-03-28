@@ -1,0 +1,410 @@
+{
+  "runTime": 1743161772676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5474274,
+        "num": 5474274,
+        "word": "缅甸7.9级地震",
+        "onboard_time": 1743143600,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1473034,
+        "num": 1473034,
+        "word": "乘客呼吸困难说出碱字地铁员工秒懂",
+        "onboard_time": 1743156263,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 61721,
+        "num": 1193025,
+        "word": "中国新一代人造太阳又有突破",
+        "onboard_time": 1743155123,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1158185,
+        "num": 1158185,
+        "word": "缅甸地震已超50人死亡",
+        "onboard_time": 1743160941,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 826114,
+        "num": 826114,
+        "word": "罗志祥妈妈患阿尔兹海默症",
+        "onboard_time": 1743159141,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623387,
+        "num": 623387,
+        "word": "虞书欣方发文报平安",
+        "onboard_time": 1743148526,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464777,
+        "num": 464777,
+        "word": "直击缅甸地震",
+        "onboard_time": 1743148883,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 452364,
+        "num": 452364,
+        "word": "泰国首都曼谷进入紧急状态",
+        "onboard_time": 1743150566,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 448486,
+        "num": 448486,
+        "word": "缅甸华人称有几十栋酒店倒塌",
+        "onboard_time": 1743158002,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 390433,
+        "num": 390433,
+        "word": "刘诗诗选竹笛是因为好看",
+        "onboard_time": 1743159681,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1408950,
+        "num": 386932,
+        "word": "允儿被臭到",
+        "onboard_time": 1743153924,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 806041,
+        "num": 379456,
+        "word": "王一博赛车冲出赛道",
+        "onboard_time": 1743141621,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54851,
+        "num": 363839,
+        "word": "古驰竹节手袋展",
+        "onboard_time": 1743159802,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 749223,
+        "num": 354359,
+        "word": "金秀贤疑似强行加床戏",
+        "onboard_time": 1743158062,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75549,
+        "num": 345888,
+        "word": "起猛了看见上海人用卡车送奶茶",
+        "onboard_time": 1743159681,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434661,
+        "num": 327184,
+        "word": "雪莉拍完real去了精神科",
+        "onboard_time": 1743159622,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326384,
+        "num": 326384,
+        "word": "山姆必买",
+        "onboard_time": 1743154823,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 321964,
+        "num": 321964,
+        "word": "湖南文理学院副教授出轨女学生",
+        "onboard_time": 1743153382,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35548,
+        "num": 304798,
+        "word": "棋士微博追剧团",
+        "onboard_time": 1743160581,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298920,
+        "num": 298920,
+        "word": "甲亢哥 少林寺",
+        "onboard_time": 1743149303,
+        "rank": 19,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 554775,
+        "num": 295424,
+        "word": "缅甸地震云南建筑晃动扬起巨大灰尘",
+        "onboard_time": 1743149844,
+        "rank": 20,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 153828,
+        "num": 288917,
+        "word": "花傲天 华晨宇偷拍照",
+        "onboard_time": 1743157401,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287506,
+        "num": 287506,
+        "word": "雪莉遗属要求金秀贤回应",
+        "onboard_time": 1743154040,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262981,
+        "num": 262981,
+        "word": "云南震感",
+        "onboard_time": 1743143600,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258682,
+        "num": 258682,
+        "word": "雁回时",
+        "onboard_time": 1743157101,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255632,
+        "num": 255632,
+        "word": "陈德容王蓉吵起来了",
+        "onboard_time": 1743138681,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221418,
+        "num": 221418,
+        "word": "门童曼谷场取消",
+        "onboard_time": 1743156621,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220197,
+        "num": 220197,
+        "word": "董力阿诺把接吻当惩罚",
+        "onboard_time": 1743160941,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106064,
+        "num": 215148,
+        "word": "Gucci竹系少年",
+        "onboard_time": 1743157041,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 68191,
+        "num": 215058,
+        "word": "李沁文淇竹系美人",
+        "onboard_time": 1743159802,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37900,
+        "num": 207133,
+        "word": "文淇好绝一GucciGirl",
+        "onboard_time": 1743157460,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 255404,
+        "num": 201841,
+        "word": "男子爱车被开罚单意外发现妻子出轨",
+        "onboard_time": 1743159321,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246027,
+        "num": 197513,
+        "word": "泰国因地震倒塌高楼已致3死",
+        "onboard_time": 1743149243,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 194833,
+        "num": 194833,
+        "word": "赵露思聊生病打乱人生计划",
+        "onboard_time": 1743157281,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183316,
+        "num": 183316,
+        "word": "大熊猫优优去世",
+        "onboard_time": 1743154461,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181374,
+        "num": 181374,
+        "word": "金赛纶 细思极恐",
+        "onboard_time": 1743155123,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162118,
+        "num": 162118,
+        "word": "云南瑞丽已组织救援人员集结",
+        "onboard_time": 1743149483,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 161518,
+        "num": 161518,
+        "word": "复活王蓉",
+        "onboard_time": 1743150925,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160341,
+        "num": 160341,
+        "word": "缅甸7.9级地震曼德勒老建筑几乎全塌",
+        "onboard_time": 1743151762,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 11349,
+        "num": 154752,
+        "word": "曼谷在建高楼倒塌全过程",
+        "onboard_time": 1743161542,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154110,
+        "num": 154110,
+        "word": "于正回应白鹿剧扑了",
+        "onboard_time": 1743139642,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147639,
+        "num": 147639,
+        "word": "恨我不是广西人",
+        "onboard_time": 1743160522,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 8636,
+        "num": 146195,
+        "word": "Gucci竹节展男明星状态",
+        "onboard_time": 1743161542,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145902,
+        "num": 145902,
+        "word": "中国人造太阳电子温度已达1.6亿度",
+        "onboard_time": 1743156203,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143939,
+        "num": 143939,
+        "word": "宋妍霏让C位",
+        "onboard_time": 1743156322,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134440,
+        "num": 134440,
+        "word": "昆明大理震感强烈",
+        "onboard_time": 1743145043,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 128245,
+        "num": 128245,
+        "word": "黄奕男装撞脸王俊凯",
+        "onboard_time": 1743150444,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123046,
+        "num": 123046,
+        "word": "甲亢哥中国2场直播近千万人次",
+        "onboard_time": 1743142041,
+        "rank": 47,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 37097,
+        "num": 118709,
+        "word": "寺庙旅行",
+        "onboard_time": 1743160462,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 115168,
+        "num": 115168,
+        "word": "张小婉救场",
+        "onboard_time": 1743150384,
+        "rank": 49,
+        "category": "综艺,电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见孟加拉国临时政府首席顾问尤努斯#"
+    }
+  }
+}
