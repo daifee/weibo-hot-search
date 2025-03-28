@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743154850514,
+  "endTime": 1743157563230,
   "band_list": [
     {
       "raw_hot": 15554018,
@@ -233,6 +233,14 @@
       "onboard_time": 1742956341,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2048296,
+      "num": 971057,
+      "word": "允儿被臭到",
+      "onboard_time": 1743153924,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 2047103,
@@ -1363,6 +1371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 838316,
+      "num": 838316,
+      "word": "乘客呼吸困难说出碱字地铁员工秒懂",
+      "onboard_time": 1743156263,
+      "rank": 5,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 832520,
       "num": 832520,
       "word": "马拉松亲密事件拍摄者道歉",
@@ -1571,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 767215,
+      "num": 523151,
+      "word": "雪莉遗属要求金秀贤回应",
+      "onboard_time": 1743154040,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 766152,
       "num": 766152,
       "word": "赵露思素颜录综艺",
@@ -1641,14 +1665,6 @@
       "onboard_time": 1742951600,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 740683,
-      "num": 740683,
-      "word": "允儿被臭到",
-      "onboard_time": 1743153924,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 740142,
@@ -2056,6 +2072,14 @@
       "word": "张新成到底换了多少套衣服捏粘土",
       "onboard_time": 1742978061,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 633058,
+      "num": 515551,
+      "word": "金赛纶 细思极恐",
+      "onboard_time": 1743155123,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -2563,6 +2587,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 528881,
+      "num": 528881,
+      "word": "山姆必买",
+      "onboard_time": 1743154823,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 528845,
       "num": 528845,
       "word": "国足0比2澳大利亚",
@@ -2713,6 +2745,14 @@
       "onboard_time": 1742814982,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 507795,
+      "num": 507795,
+      "word": "湖南文理学院副教授出轨女学生",
+      "onboard_time": 1743153382,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 507119,
@@ -2947,14 +2987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 481793,
-      "num": 481793,
-      "word": "雪莉遗属要求金秀贤回应",
-      "onboard_time": 1743154040,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 480710,
       "num": 528519,
       "word": "云南瑞丽已组织救援人员集结",
@@ -3033,6 +3065,14 @@
       "onboard_time": 1742816723,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471584,
+      "num": 471584,
+      "word": "大熊猫优优去世",
+      "onboard_time": 1743154461,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471021,
@@ -3801,14 +3841,6 @@
       "onboard_time": 1743067581,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 384045,
-      "num": 384045,
-      "word": "湖南文理学院副教授出轨女学生",
-      "onboard_time": 1743153382,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 381275,
@@ -5587,6 +5619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 262784,
+      "num": 353860,
+      "word": "宋妍霏让C位",
+      "onboard_time": 1743156322,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262279,
       "num": 262279,
       "word": "世界上最严丝合缝的东西出现了",
@@ -5737,6 +5777,14 @@
       "onboard_time": 1743144304,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252875,
+      "num": 252875,
+      "word": "门童曼谷场取消",
+      "onboard_time": 1743156621,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 251471,
@@ -7739,14 +7787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 194817,
-      "num": 194817,
-      "word": "大熊猫优优去世",
-      "onboard_time": 1743154461,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194764,
       "num": 248731,
       "word": "闵熙珍因职场霸凌被罚款",
@@ -7849,6 +7889,14 @@
       "onboard_time": 1743149782,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193198,
+      "num": 193198,
+      "word": "王一博将驾驶备用车16号",
+      "onboard_time": 1743156382,
+      "rank": 27,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 193139,
@@ -8105,6 +8153,14 @@
       "onboard_time": 1742785641,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 188818,
+      "num": 188818,
+      "word": "给没到27岁的人一个浪漫建议",
+      "onboard_time": 1743155181,
+      "rank": 29,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 188775,
@@ -8787,6 +8843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 175396,
+      "num": 175396,
+      "word": "卢靖姗管理家庭开支用excel",
+      "onboard_time": 1743154403,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175336,
       "num": 175730,
       "word": "云南消防迅速集结出动",
@@ -9113,6 +9177,14 @@
       "onboard_time": 1742772200,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168585,
+      "num": 168585,
+      "word": "李晟我就是命好同款壁纸",
+      "onboard_time": 1743155962,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 168429,
@@ -9755,14 +9827,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 158755,
-      "num": 158755,
-      "word": "卢靖姗管理家庭开支用excel",
-      "onboard_time": 1743154403,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158440,
       "num": 158440,
       "word": "秦彻 喧嚣时速",
@@ -10251,12 +10315,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151838,
+      "num": 151838,
+      "word": "赵露思聊生病打乱人生计划",
+      "onboard_time": 1743157281,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151733,
       "num": 267194,
       "word": "孙颖莎解锁拍照新动作",
       "onboard_time": 1743066201,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151699,
+      "num": 151699,
+      "word": "中国人造太阳电子温度已达1.6亿度",
+      "onboard_time": 1743156203,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151604,
@@ -12035,14 +12115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129990,
-      "num": 129990,
-      "word": "山姆必买",
-      "onboard_time": 1743154823,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 129832,
       "num": 178914,
       "word": "苦尽柑来遇见你",
@@ -13657,6 +13729,14 @@
       "onboard_time": 1742713640,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111885,
+      "num": 174838,
+      "word": "经历汶川地震女子又遇缅甸地震",
+      "onboard_time": 1743157460,
+      "rank": 34,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 111876,
@@ -15763,6 +15843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81263,
+      "num": 987249,
+      "word": "中国新一代人造太阳又有突破",
+      "onboard_time": 1743155123,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80787,
       "num": 309252,
       "word": "申裕斌心中最强正手是孙颖莎",
@@ -16883,6 +16971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59764,
+      "num": 129513,
+      "word": "Gucci竹系少年",
+      "onboard_time": 1743157041,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 59750,
       "num": 110031,
       "word": "春日故宫玉兰壁纸上新",
@@ -16921,6 +17017,14 @@
       "onboard_time": 1742741663,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59325,
+      "num": 174905,
+      "word": "周翊然复古Gucci感大片",
+      "onboard_time": 1743155181,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 59258,
@@ -18067,6 +18171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37068,
+      "num": 133466,
+      "word": "缅甸7.9级地震原因分析",
+      "onboard_time": 1743156502,
+      "rank": 45,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 36972,
       "num": 107277,
       "word": "订婚强奸案女方被曝有两次相亲经历",
@@ -18457,6 +18569,14 @@
       "onboard_time": 1743010935,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 31227,
+      "num": 404836,
+      "word": "缅甸曼德勒一清真寺坍塌10人丧生",
+      "onboard_time": 1743157101,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 31195,
@@ -19587,6 +19707,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 13744,
+      "num": 372866,
+      "word": "缅甸地震或引发局部海啸",
+      "onboard_time": 1743148703,
+      "rank": 16,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 13729,
       "num": 252520,
       "word": "为什么现在过敏的人越来越多了",
@@ -19825,6 +19953,14 @@
       "onboard_time": 1743061703,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9121,
+      "num": 174856,
+      "word": "文淇好绝一GucciGirl",
+      "onboard_time": 1743157460,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 8279,
