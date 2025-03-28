@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743189627964,
+  "endTime": 1743190568261,
   "band_list": [
     {
       "raw_hot": 1473239,
@@ -483,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27721,
+      "num": 65877,
+      "word": "一个镜头记录云南居民避震瞬间",
+      "onboard_time": 1743188355,
+      "rank": 13,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 23885,
       "num": 33525,
       "word": "AG对战Hero",
@@ -499,20 +507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20549,
-      "num": 65877,
-      "word": "一个镜头记录云南居民避震瞬间",
-      "onboard_time": 1743188355,
-      "rank": 13,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 19517,
       "num": 24066,
       "word": "邓佳鑫弹唱明明就",
       "onboard_time": 1743188535,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18839,
+      "num": 18839,
+      "word": "刘宇宁感谢珠帘玉幕",
+      "onboard_time": 1743190153,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 18610,
@@ -523,12 +531,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13769,
-      "num": 25299,
+      "raw_hot": 14489,
+      "num": 43783,
       "word": "的哥徒手破窗一晚连救4人",
       "onboard_time": 1743188053,
       "rank": 38,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12539,
+      "num": 24048,
+      "word": "泰国曼谷震感持续数分钟",
+      "onboard_time": 1743190454,
+      "rank": 36,
+      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [
