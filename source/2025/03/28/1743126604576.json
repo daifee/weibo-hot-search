@@ -1,0 +1,410 @@
+{
+  "runTime": 1743126604576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1597298,
+        "num": 1597298,
+        "word": "女子玩切水果游戏1个月瘦10斤",
+        "onboard_time": 1743120621,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 786220,
+        "num": 786220,
+        "word": "北京下雪",
+        "onboard_time": 1743119961,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13566,
+        "num": 721802,
+        "word": "2024中国科学十大进展发布",
+        "onboard_time": 1743046221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 708682,
+        "num": 708682,
+        "word": "保洁员联系间谍盗取偷拍国家秘密",
+        "onboard_time": 1743119720,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 675453,
+        "num": 675453,
+        "word": "张真源名牌上是奔跑吧所有成员的名字",
+        "onboard_time": 1743124220,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530267,
+        "num": 530267,
+        "word": "上海对边走边抽烟的游烟族出手了",
+        "onboard_time": 1743089781,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419440,
+        "num": 419440,
+        "word": "曝董宇辉下播后险被砸",
+        "onboard_time": 1743125839,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 411666,
+        "num": 411666,
+        "word": "赵一博回归种地吧3录制",
+        "onboard_time": 1743119720,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377618,
+        "num": 377618,
+        "word": "昨天穿短袖今天穿羽绒服",
+        "onboard_time": 1743123321,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308237,
+        "num": 371008,
+        "word": "唐山2.5级地震",
+        "onboard_time": 1743120081,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2004301,
+        "num": 370711,
+        "word": "赵露思称不被父母偏爱",
+        "onboard_time": 1743119180,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499430,
+        "num": 370527,
+        "word": "男子割肝救妻10个月后妻子去世",
+        "onboard_time": 1743118219,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370260,
+        "num": 370260,
+        "word": "李现加入公园打鸟大爷队伍",
+        "onboard_time": 1743093079,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365819,
+        "num": 365819,
+        "word": "全校师生仅1800人却花24万买餐盘",
+        "onboard_time": 1743118219,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285713,
+        "num": 285713,
+        "word": "你被二手烟困扰过吗",
+        "onboard_time": 1743093079,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 770925,
+        "num": 282959,
+        "word": "赵露思生病前认为拐杖只是装饰",
+        "onboard_time": 1743125001,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270402,
+        "num": 270402,
+        "word": "宋雨琦 受伤",
+        "onboard_time": 1743089061,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269335,
+        "num": 269335,
+        "word": "金价",
+        "onboard_time": 1743076161,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 263538,
+        "num": 263538,
+        "word": "舒马赫近乎植物人",
+        "onboard_time": 1743081261,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261233,
+        "num": 261233,
+        "word": "哪吒2比利时首映一票难求",
+        "onboard_time": 1743119600,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 298668,
+        "num": 259621,
+        "word": "新还珠格格重映收视第一",
+        "onboard_time": 1743120141,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237370,
+        "num": 237370,
+        "word": "医生提醒别拿红霉素软膏当万能药",
+        "onboard_time": 1743124521,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220905,
+        "num": 220905,
+        "word": "唐嫣拍摄念无双时期的手机屏保",
+        "onboard_time": 1743121642,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210117,
+        "num": 210117,
+        "word": "普京称俄军会将乌军彻底击溃",
+        "onboard_time": 1743119000,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181627,
+        "num": 204029,
+        "word": "燕云十六声",
+        "onboard_time": 1743123382,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198606,
+        "num": 198606,
+        "word": "央视曝街边高价收药猫腻",
+        "onboard_time": 1743123981,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191919,
+        "num": 191919,
+        "word": "金赛纶写给文彬的信",
+        "onboard_time": 1743084742,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180756,
+        "num": 180756,
+        "word": "张馨予说管不住嘴就看钟楚曦",
+        "onboard_time": 1743080241,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130648,
+        "num": 179375,
+        "word": "王宝强新剧78秒8个假动作",
+        "onboard_time": 1743082822,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129832,
+        "num": 178914,
+        "word": "苦尽柑来遇见你",
+        "onboard_time": 1743118219,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178605,
+        "num": 178605,
+        "word": "全红婵曾说18岁心愿是解锁防沉迷",
+        "onboard_time": 1743123741,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153371,
+        "num": 153371,
+        "word": "雷军发文纪念小米SU7上市一周年",
+        "onboard_time": 1743122482,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137925,
+        "num": 137925,
+        "word": "黄金价格为何不断上涨",
+        "onboard_time": 1743125600,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136907,
+        "num": 136907,
+        "word": "公司回应加班10晚可帮缴社保个人部分",
+        "onboard_time": 1743090681,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124522,
+        "num": 124522,
+        "word": "泪点低其实是大脑太发达",
+        "onboard_time": 1743090141,
+        "rank": 34,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 112914,
+        "num": 112914,
+        "word": "李昀锐收工照",
+        "onboard_time": 1743121340,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112565,
+        "num": 112565,
+        "word": "冰箱贴是年轻人的到此一游",
+        "onboard_time": 1743078622,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109127,
+        "num": 109127,
+        "word": "女人40岁才是人生的开始",
+        "onboard_time": 1743093617,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108186,
+        "num": 108186,
+        "word": "舒马赫或永远不再公开露面",
+        "onboard_time": 1743120861,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99069,
+        "num": 99069,
+        "word": "陈都灵喻恩泰对峙戏",
+        "onboard_time": 1743122421,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96913,
+        "num": 96913,
+        "word": "广州地铁",
+        "onboard_time": 1743123201,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69685,
+        "num": 92317,
+        "word": "今年考研预调剂要注意哪些问题",
+        "onboard_time": 1743125600,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88509,
+        "num": 88509,
+        "word": "宋雨琦发博报平安",
+        "onboard_time": 1743126441,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86257,
+        "num": 86257,
+        "word": "女子为了赌博拐卖3个孩子",
+        "onboard_time": 1743126019,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 86234,
+        "num": 86234,
+        "word": "人民网评古偶失灵",
+        "onboard_time": 1743084383,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85955,
+        "num": 85955,
+        "word": "凌晨3点被2位大哥暖到了",
+        "onboard_time": 1743126019,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84374,
+        "num": 84374,
+        "word": "全红婵从东京到巴黎心路历程",
+        "onboard_time": 1743126499,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83871,
+        "num": 83871,
+        "word": "雷军第40次健身房打卡",
+        "onboard_time": 1743125720,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 80079,
+        "num": 80079,
+        "word": "国家出台方案支持重点群体就业",
+        "onboard_time": 1743123080,
+        "rank": 48,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 78537,
+        "num": 78537,
+        "word": "林俊杰武汉音乐节官宣",
+        "onboard_time": 1743122060,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#留得清气满乾坤#"
+    }
+  }
+}
