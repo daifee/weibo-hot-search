@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743179405663,
+  "endTime": 1743180321353,
   "band_list": [
     {
       "raw_hot": 1473239,
@@ -67,19 +67,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 486562,
+      "num": 486562,
+      "word": "麦琳两个月暴瘦20斤",
+      "onboard_time": 1743178162,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481924,
       "num": 481924,
       "word": "成果发视频",
       "onboard_time": 1743172944,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 437105,
-      "num": 437105,
-      "word": "麦琳两个月暴瘦20斤",
-      "onboard_time": 1743178162,
-      "rank": 8,
       "category": "艺人"
     },
     {
@@ -97,6 +97,14 @@
       "onboard_time": 1743173663,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 392875,
+      "num": 392875,
+      "word": "中国驻泰使馆发布安全提醒",
+      "onboard_time": 1743169585,
+      "rank": 16,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 369696,
@@ -129,14 +137,6 @@
       "onboard_time": 1743173123,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 313786,
-      "num": 313786,
-      "word": "中国驻泰使馆发布安全提醒",
-      "onboard_time": 1743169585,
-      "rank": 16,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 311899,
@@ -243,8 +243,8 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 146223,
-      "num": 146223,
+      "raw_hot": 153081,
+      "num": 153081,
       "word": "云南震感",
       "onboard_time": 1743143600,
       "rank": 32,
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135543,
+      "num": 135543,
+      "word": "高校教师被曝出轨学生被停职调查",
+      "onboard_time": 1743169884,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133642,
       "num": 133642,
       "word": "全网能打王者荣耀只有这十个人",
@@ -283,20 +291,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128476,
-      "num": 128476,
-      "word": "高校教师被曝出轨学生被停职调查",
-      "onboard_time": 1743169884,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120041,
       "num": 120041,
       "word": "刘耀文 进组",
       "onboard_time": 1743171205,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113646,
+      "num": 113646,
+      "word": "记者说金秀贤喜欢初中生",
+      "onboard_time": 1743178461,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 112581,
@@ -331,16 +339,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107708,
-      "num": 107708,
-      "word": "记者说金秀贤喜欢初中生",
-      "onboard_time": 1743178461,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 106984,
+      "num": 106984,
+      "word": "乘风2025微博喜爱度",
+      "onboard_time": 1743179182,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 100724,
-      "num": 85657,
+      "num": 90379,
       "word": "金秀贤疑似强行加床戏",
       "onboard_time": 1743158062,
       "rank": 48,
@@ -363,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91999,
-      "num": 86527,
-      "word": "乘风2025微博喜爱度",
-      "onboard_time": 1743179182,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 88885,
       "num": 941425,
       "word": "这样的西藏你见过吗",
@@ -379,8 +379,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86652,
-      "num": 86652,
+      "raw_hot": 87461,
+      "num": 87461,
       "word": "直击缅甸地震",
       "onboard_time": 1743148883,
       "rank": 46,
@@ -393,6 +393,22 @@
       "onboard_time": 1743179360,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77014,
+      "num": 77014,
+      "word": "于适问蒋欣在哪里",
+      "onboard_time": 1743174982,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 72062,
+      "num": 72062,
+      "word": "中国驻缅甸使馆正在跟进地震情况",
+      "onboard_time": 1743172106,
+      "rank": 49,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 36595,
