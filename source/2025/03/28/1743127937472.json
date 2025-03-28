@@ -1,0 +1,410 @@
+{
+  "runTime": 1743127937472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1933644,
+        "num": 1933644,
+        "word": "曝董宇辉下播后险被砸",
+        "onboard_time": 1743125839,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1378802,
+        "num": 1378802,
+        "word": "女子玩切水果游戏1个月瘦10斤",
+        "onboard_time": 1743120621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16587,
+        "num": 1047507,
+        "word": "2024中国科学十大进展发布",
+        "onboard_time": 1743046221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 718187,
+        "num": 718187,
+        "word": "张真源名牌上是奔跑吧所有成员的名字",
+        "onboard_time": 1743124220,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489931,
+        "num": 489931,
+        "word": "北京下雪",
+        "onboard_time": 1743119961,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487150,
+        "num": 487150,
+        "word": "保洁员联系间谍盗取偷拍国家秘密",
+        "onboard_time": 1743119720,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 452799,
+        "num": 452799,
+        "word": "昨天穿短袖今天穿羽绒服",
+        "onboard_time": 1743123321,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414157,
+        "num": 414157,
+        "word": "上海对边走边抽烟的游烟族出手了",
+        "onboard_time": 1743089781,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386304,
+        "num": 386304,
+        "word": "赵一博回归种地吧3录制",
+        "onboard_time": 1743119720,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269675,
+        "num": 355906,
+        "word": "央视曝街边高价收药猫腻",
+        "onboard_time": 1743123981,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1728686,
+        "num": 355056,
+        "word": "赵露思称不被父母偏爱",
+        "onboard_time": 1743119180,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352344,
+        "num": 352344,
+        "word": "男子割肝救妻10个月后妻子去世",
+        "onboard_time": 1743118219,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307286,
+        "num": 307286,
+        "word": "全校师生仅1800人却花24万买餐盘",
+        "onboard_time": 1743118219,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285591,
+        "num": 285591,
+        "word": "你被二手烟困扰过吗",
+        "onboard_time": 1743093079,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135170,
+        "num": 276620,
+        "word": "天津下雪",
+        "onboard_time": 1743127460,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 859286,
+        "num": 275263,
+        "word": "赵露思生病前认为拐杖只是装饰",
+        "onboard_time": 1743125001,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272836,
+        "num": 272836,
+        "word": "李现加入公园打鸟大爷队伍",
+        "onboard_time": 1743093079,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260738,
+        "num": 260738,
+        "word": "宋雨琦 受伤",
+        "onboard_time": 1743089061,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246741,
+        "num": 246741,
+        "word": "全红婵曾说18岁心愿是解锁防沉迷",
+        "onboard_time": 1743123741,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237207,
+        "num": 237207,
+        "word": "唐山2.5级地震",
+        "onboard_time": 1743120081,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 323482,
+        "num": 236034,
+        "word": "医生提醒别拿红霉素软膏当万能药",
+        "onboard_time": 1743124521,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270611,
+        "num": 235731,
+        "word": "新还珠格格重映收视第一",
+        "onboard_time": 1743120141,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234630,
+        "num": 234630,
+        "word": "金价",
+        "onboard_time": 1743076161,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201569,
+        "num": 201569,
+        "word": "哪吒2比利时首映一票难求",
+        "onboard_time": 1743119600,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 192163,
+        "num": 192163,
+        "word": "唐嫣拍摄念无双时期的手机屏保",
+        "onboard_time": 1743121642,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176938,
+        "num": 176938,
+        "word": "舒马赫近乎植物人",
+        "onboard_time": 1743081261,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107653,
+        "num": 176177,
+        "word": "陈都灵喻恩泰对峙戏",
+        "onboard_time": 1743122421,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103556,
+        "num": 172744,
+        "word": "女人40岁才是人生的开始",
+        "onboard_time": 1743093617,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68055,
+        "num": 169076,
+        "word": "18岁全红婵已获三块奥运金牌",
+        "onboard_time": 1743127701,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96764,
+        "num": 166492,
+        "word": "苦尽柑来遇见你",
+        "onboard_time": 1743118219,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164649,
+        "num": 164649,
+        "word": "金赛纶写给文彬的信",
+        "onboard_time": 1743084742,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157180,
+        "num": 157180,
+        "word": "黄金价格为何不断上涨",
+        "onboard_time": 1743125600,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154572,
+        "num": 154572,
+        "word": "燕云十六声",
+        "onboard_time": 1743123382,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144756,
+        "num": 144756,
+        "word": "普京称俄军会将乌军彻底击溃",
+        "onboard_time": 1743119000,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138596,
+        "num": 138596,
+        "word": "女子为了赌博拐卖3个孩子",
+        "onboard_time": 1743126019,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 138054,
+        "num": 138054,
+        "word": "张馨予说管不住嘴就看钟楚曦",
+        "onboard_time": 1743080241,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107295,
+        "num": 107295,
+        "word": "冰箱贴是年轻人的到此一游",
+        "onboard_time": 1743078622,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99376,
+        "num": 99376,
+        "word": "官方回应2千名师生买8千多个餐盘",
+        "onboard_time": 1743126740,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99237,
+        "num": 99237,
+        "word": "公司回应加班10晚可帮缴社保个人部分",
+        "onboard_time": 1743090681,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96743,
+        "num": 96743,
+        "word": "泪点低其实是大脑太发达",
+        "onboard_time": 1743090141,
+        "rank": 39,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 94973,
+        "num": 94973,
+        "word": "宋雨琦发博报平安",
+        "onboard_time": 1743126441,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94150,
+        "num": 94150,
+        "word": "王宝强新剧78秒8个假动作",
+        "onboard_time": 1743082822,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93215,
+        "num": 93215,
+        "word": "舒马赫或永远不再公开露面",
+        "onboard_time": 1743120861,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88989,
+        "num": 88989,
+        "word": "李昀锐收工照",
+        "onboard_time": 1743121340,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85918,
+        "num": 85918,
+        "word": "人民网评古偶失灵",
+        "onboard_time": 1743084383,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82211,
+        "num": 82211,
+        "word": "全红婵从东京到巴黎心路历程",
+        "onboard_time": 1743126499,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80228,
+        "num": 80228,
+        "word": "官方回应小学近3万买除颤器只值1万1",
+        "onboard_time": 1743120562,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42690,
+        "num": 79344,
+        "word": "萨巴伦卡阳光双赛背靠背进决赛",
+        "onboard_time": 1743122363,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78755,
+        "num": 78755,
+        "word": "全红婵谢思埸同一天生日",
+        "onboard_time": 1743127162,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75998,
+        "num": 78493,
+        "word": "车企齐贺小米汽车上市1周年",
+        "onboard_time": 1743126619,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#留得清气满乾坤#"
+    }
+  }
+}

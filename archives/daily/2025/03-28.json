@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743126604576,
+  "endTime": 1743127937472,
   "band_list": [
     {
       "raw_hot": 2004301,
@@ -9,6 +9,14 @@
       "onboard_time": 1743119180,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1933644,
+      "num": 1933644,
+      "word": "曝董宇辉下播后险被砸",
+      "onboard_time": 1743125839,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 1597298,
@@ -27,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 859286,
+      "num": 282959,
+      "word": "赵露思生病前认为拐杖只是装饰",
+      "onboard_time": 1743125001,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 786220,
       "num": 786220,
       "word": "北京下雪",
@@ -35,11 +51,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 770925,
-      "num": 282959,
-      "word": "赵露思生病前认为拐杖只是装饰",
-      "onboard_time": 1743125001,
-      "rank": 15,
+      "raw_hot": 718187,
+      "num": 718187,
+      "word": "张真源名牌上是奔跑吧所有成员的名字",
+      "onboard_time": 1743124220,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -57,14 +73,6 @@
       "onboard_time": 1743089002,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 675453,
-      "num": 675453,
-      "word": "张真源名牌上是奔跑吧所有成员的名字",
-      "onboard_time": 1743124220,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 660498,
@@ -91,12 +99,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 419440,
-      "num": 419440,
-      "word": "曝董宇辉下播后险被砸",
-      "onboard_time": 1743125839,
-      "rank": 6,
-      "category": "互联网"
+      "raw_hot": 452799,
+      "num": 452799,
+      "word": "昨天穿短袖今天穿羽绒服",
+      "onboard_time": 1743123321,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 411666,
@@ -131,14 +139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 377618,
-      "num": 377618,
-      "word": "昨天穿短袖今天穿羽绒服",
-      "onboard_time": 1743123321,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 365819,
       "num": 365819,
       "word": "全校师生仅1800人却花24万买餐盘",
@@ -161,6 +161,14 @@
       "onboard_time": 1743097695,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323482,
+      "num": 237370,
+      "word": "医生提醒别拿红霉素软膏当万能药",
+      "onboard_time": 1743124521,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 308237,
@@ -192,6 +200,14 @@
       "word": "佛山一公司要求员工每月加班10晚以上",
       "onboard_time": 1743087381,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269675,
+      "num": 355906,
+      "word": "央视曝街边高价收药猫腻",
+      "onboard_time": 1743123981,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -227,20 +243,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246741,
+      "num": 246741,
+      "word": "全红婵曾说18岁心愿是解锁防沉迷",
+      "onboard_time": 1743123741,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246002,
       "num": 246002,
       "word": "张馨予说管不住嘴就看钟楚曦",
       "onboard_time": 1743080241,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 237370,
-      "num": 237370,
-      "word": "医生提醒别拿红霉素软膏当万能药",
-      "onboard_time": 1743124521,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 223051,
@@ -307,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198606,
-      "num": 198606,
-      "word": "央视曝街边高价收药猫腻",
-      "onboard_time": 1743123981,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194502,
       "num": 194502,
       "word": "公司回应加班10晚可帮缴社保个人部分",
@@ -347,20 +355,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178605,
-      "num": 178605,
-      "word": "全红婵曾说18岁心愿是解锁防沉迷",
-      "onboard_time": 1743123741,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166074,
       "num": 146670,
       "word": "王嘉尔直播庆生party",
       "onboard_time": 1743093678,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157180,
+      "num": 157180,
+      "word": "黄金价格为何不断上涨",
+      "onboard_time": 1743125600,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 153371,
@@ -387,12 +395,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137925,
-      "num": 137925,
-      "word": "黄金价格为何不断上涨",
-      "onboard_time": 1743125600,
-      "rank": 32,
-      "category": "财经"
+      "raw_hot": 138596,
+      "num": 138596,
+      "word": "女子为了赌博拐卖3个孩子",
+      "onboard_time": 1743126019,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 135170,
+      "num": 276620,
+      "word": "天津下雪",
+      "onboard_time": 1743127460,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129832,
@@ -459,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107653,
+      "num": 176177,
+      "word": "陈都灵喻恩泰对峙戏",
+      "onboard_time": 1743122421,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103799,
       "num": 103799,
       "word": "念无双 老年宣发",
@@ -475,12 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99069,
-      "num": 99069,
-      "word": "陈都灵喻恩泰对峙戏",
-      "onboard_time": 1743122421,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 99376,
+      "num": 99376,
+      "word": "官方回应2千名师生买8千多个餐盘",
+      "onboard_time": 1743126740,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96913,
@@ -489,6 +513,14 @@
       "onboard_time": 1743123201,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94973,
+      "num": 94973,
+      "word": "宋雨琦发博报平安",
+      "onboard_time": 1743126441,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 94705,
@@ -531,28 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88509,
-      "num": 88509,
-      "word": "宋雨琦发博报平安",
-      "onboard_time": 1743126441,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 86666,
       "num": 86666,
       "word": "宋茜 喝什么中药一起喝茶吧",
       "onboard_time": 1743085222,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86257,
-      "num": 86257,
-      "word": "女子为了赌博拐卖3个孩子",
-      "onboard_time": 1743126019,
-      "rank": 43,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 85955,
@@ -611,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80228,
+      "num": 80228,
+      "word": "官方回应小学近3万买除颤器只值1万1",
+      "onboard_time": 1743120562,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80079,
       "num": 80079,
       "word": "国家出台方案支持重点群体就业",
@@ -625,6 +649,14 @@
       "onboard_time": 1743080482,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78755,
+      "num": 78755,
+      "word": "全红婵谢思埸同一天生日",
+      "onboard_time": 1743127162,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 78673,
@@ -667,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75998,
+      "num": 78493,
+      "word": "车企齐贺小米汽车上市1周年",
+      "onboard_time": 1743126619,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 70384,
       "num": 70384,
       "word": "TheShy回应Bin喊话",
@@ -688,6 +728,14 @@
       "word": "周琦受伤",
       "onboard_time": 1743090859,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68055,
+      "num": 169076,
+      "word": "18岁全红婵已获三块奥运金牌",
+      "onboard_time": 1743127701,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -827,6 +875,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 42690,
+      "num": 79344,
+      "word": "萨巴伦卡阳光双赛背靠背进决赛",
+      "onboard_time": 1743122363,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39276,
       "num": 39276,
       "word": "羽衣甘蓝奶茶减肥是智商税",
@@ -939,6 +995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16587,
+      "num": 1047507,
+      "word": "2024中国科学十大进展发布",
+      "onboard_time": 1743046221,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16071,
       "num": 21776,
       "word": "浪姐",
@@ -977,14 +1041,6 @@
       "onboard_time": 1743097276,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 13566,
-      "num": 721802,
-      "word": "2024中国科学十大进展发布",
-      "onboard_time": 1743046221,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12938,
