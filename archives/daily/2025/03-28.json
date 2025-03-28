@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743154052911,
+  "endTime": 1743154850514,
   "band_list": [
     {
       "raw_hot": 15554018,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1395919,
+      "num": 1395919,
+      "word": "泰国首都曼谷进入紧急状态",
+      "onboard_time": 1743150566,
+      "rank": 30,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1337817,
       "num": 1337817,
       "word": "曼谷在建高楼倒塌1人死亡43人失踪",
@@ -129,14 +137,6 @@
       "onboard_time": 1743131180,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1253762,
-      "num": 1253762,
-      "word": "泰国首都曼谷进入紧急状态",
-      "onboard_time": 1743150566,
-      "rank": 30,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1105703,
@@ -249,6 +249,14 @@
       "onboard_time": 1743129079,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 740683,
+      "num": 740683,
+      "word": "允儿被臭到",
+      "onboard_time": 1743153924,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 718187,
@@ -387,8 +395,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 481793,
+      "num": 481793,
+      "word": "雪莉遗属要求金秀贤回应",
+      "onboard_time": 1743154040,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 480710,
-      "num": 480710,
+      "num": 528519,
       "word": "云南瑞丽已组织救援人员集结",
       "onboard_time": 1743149483,
       "rank": 21,
@@ -483,6 +499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 384045,
+      "num": 384045,
+      "word": "湖南文理学院副教授出轨女学生",
+      "onboard_time": 1743153382,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372288,
       "num": 372288,
       "word": "央视曝街边高价收药猫腻",
@@ -513,6 +537,14 @@
       "onboard_time": 1743137601,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349054,
+      "num": 349054,
+      "word": "泰国因地震倒塌高楼已致3死",
+      "onboard_time": 1743149243,
+      "rank": 22,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 343922,
@@ -604,7 +636,7 @@
     },
     {
       "raw_hot": 312590,
-      "num": 244731,
+      "num": 260751,
       "word": "2位顶流化妆师同化一个新娘",
       "onboard_time": 1743151703,
       "rank": 30,
@@ -715,19 +747,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 274637,
-      "num": 243987,
-      "word": "湖南文理学院副教授出轨女学生",
-      "onboard_time": 1743153382,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 274205,
       "num": 122146,
       "word": "佛山一公司要求员工每月加班10晚以上",
       "onboard_time": 1743087381,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269765,
+      "num": 269765,
+      "word": "高校回应副教授出轨女学生",
+      "onboard_time": 1743153382,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -841,14 +873,6 @@
       "onboard_time": 1743145043,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241538,
-      "num": 241538,
-      "word": "高校回应副教授出轨女学生",
-      "onboard_time": 1743153382,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235723,
@@ -1163,6 +1187,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 197039,
+      "num": 197039,
+      "word": "孙恩盛卖衣服",
+      "onboard_time": 1743153741,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 196761,
       "num": 196761,
       "word": "Ariana Grande",
@@ -1179,12 +1211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195688,
+      "num": 616958,
+      "word": "缅甸地震重灾区进入紧急状态",
+      "onboard_time": 1743152783,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 194843,
       "num": 251335,
       "word": "你可以回去但那儿已经没有人了",
       "onboard_time": 1743138802,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194817,
+      "num": 194817,
+      "word": "大熊猫优优去世",
+      "onboard_time": 1743154461,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194502,
@@ -1267,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187167,
+      "num": 187167,
+      "word": "张婧仪新剧 烂漫和温婉",
+      "onboard_time": 1743154282,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186837,
       "num": 186837,
       "word": "95后女孩出租自己1年假结婚七八次",
@@ -1329,14 +1385,6 @@
       "onboard_time": 1743128121,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 180048,
-      "num": 180048,
-      "word": "允儿被臭到",
-      "onboard_time": 1743153924,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 179943,
@@ -1443,14 +1491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166330,
-      "num": 166330,
-      "word": "孙恩盛卖衣服",
-      "onboard_time": 1743153741,
-      "rank": 45,
-      "category": "网红"
-    },
-    {
       "raw_hot": 166074,
       "num": 146670,
       "word": "王嘉尔直播庆生party",
@@ -1481,6 +1521,14 @@
       "onboard_time": 1743135259,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 158755,
+      "num": 158755,
+      "word": "卢靖姗管理家庭开支用excel",
+      "onboard_time": 1743154403,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 157058,
@@ -1521,6 +1569,14 @@
       "onboard_time": 1743122482,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 153261,
+      "num": 153261,
+      "word": "缅甸曼德勒多栋房屋倒塌",
+      "onboard_time": 1743154762,
+      "rank": 44,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 152762,
@@ -1627,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139846,
+      "num": 612844,
+      "word": "缅甸地震致云南瑞丽2人轻伤",
+      "onboard_time": 1743153563,
+      "rank": 10,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 139246,
       "num": 139246,
       "word": "下一个台风",
@@ -1699,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129990,
+      "num": 129990,
+      "word": "山姆必买",
+      "onboard_time": 1743154823,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129832,
       "num": 178914,
       "word": "苦尽柑来遇见你",
@@ -1769,6 +1841,14 @@
       "onboard_time": 1743129860,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121300,
+      "num": 604593,
+      "word": "缅甸7.9级地震亲历者发声",
+      "onboard_time": 1743153023,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 121122,
@@ -1875,14 +1955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111972,
-      "num": 604593,
-      "word": "缅甸7.9级地震亲历者发声",
-      "onboard_time": 1743153023,
-      "rank": 13,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 108337,
       "num": 108337,
       "word": "金秀贤韩国粉丝俱乐部没了",
@@ -1971,14 +2043,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 97729,
-      "num": 616958,
-      "word": "缅甸地震重灾区进入紧急状态",
-      "onboard_time": 1743152783,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 97114,
       "num": 609236,
       "word": "云南网友称第一次感受到这么强震感",
@@ -1993,14 +2057,6 @@
       "onboard_time": 1743123201,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95573,
-      "num": 612844,
-      "word": "缅甸地震致云南瑞丽2人轻伤",
-      "onboard_time": 1743153563,
-      "rank": 10,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 94973,
@@ -2499,12 +2555,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 47071,
+      "num": 384072,
+      "word": "曼谷华人称三次躲进卫生间避险",
+      "onboard_time": 1743154040,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 46258,
       "num": 137057,
       "word": "美国高官群聊情景重现",
       "onboard_time": 1743136163,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43768,
+      "num": 245888,
+      "word": "张凯丽让年轻演员别过度追逐流量",
+      "onboard_time": 1743153203,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 43746,
@@ -2587,6 +2659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35181,
+      "num": 603489,
+      "word": "中国花滑男单获冬奥资格",
+      "onboard_time": 1743152482,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33952,
       "num": 320988,
       "word": "智搜称7.9级地震属于极高强度地震",
@@ -2617,14 +2697,6 @@
       "onboard_time": 1743152663,
       "rank": 11,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 31633,
-      "num": 603489,
-      "word": "中国花滑男单获冬奥资格",
-      "onboard_time": 1743152482,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 29472,
@@ -2777,14 +2849,6 @@
       "onboard_time": 1743114136,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 14992,
-      "num": 245888,
-      "word": "张凯丽让年轻演员别过度追逐流量",
-      "onboard_time": 1743153203,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 14967,

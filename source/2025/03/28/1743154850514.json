@@ -1,0 +1,410 @@
+{
+  "runTime": 1743154850514,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7507550,
+        "num": 7507550,
+        "word": "缅甸7.9级地震",
+        "onboard_time": 1743143600,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1690393,
+        "num": 1690393,
+        "word": "虞书欣方发文报平安",
+        "onboard_time": 1743148526,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21773,
+        "num": 1513568,
+        "word": "春日经济花样缤纷活力迸发",
+        "onboard_time": 1743137123,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1395919,
+        "num": 1395919,
+        "word": "泰国首都曼谷进入紧急状态",
+        "onboard_time": 1743150566,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1268814,
+        "num": 1268814,
+        "word": "王一博赛车冲出赛道",
+        "onboard_time": 1743141621,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 975447,
+        "num": 975447,
+        "word": "直击缅甸地震",
+        "onboard_time": 1743148883,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 740683,
+        "num": 740683,
+        "word": "允儿被臭到",
+        "onboard_time": 1743153924,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585466,
+        "num": 585466,
+        "word": "缅甸地震云南建筑晃动扬起巨大灰尘",
+        "onboard_time": 1743149844,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 533665,
+        "num": 533665,
+        "word": "陈德容王蓉吵起来了",
+        "onboard_time": 1743138681,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380959,
+        "num": 528519,
+        "word": "云南瑞丽已组织救援人员集结",
+        "onboard_time": 1743149483,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 526685,
+        "num": 526685,
+        "word": "张小婉救场",
+        "onboard_time": 1743150384,
+        "rank": 10,
+        "category": "综艺,电影"
+      },
+      {
+        "raw_hot": 481793,
+        "num": 481793,
+        "word": "雪莉遗属要求金秀贤回应",
+        "onboard_time": 1743154040,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439984,
+        "num": 439984,
+        "word": "甲亢哥 少林寺",
+        "onboard_time": 1743149303,
+        "rank": 12,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 139846,
+        "num": 435775,
+        "word": "缅甸地震致云南瑞丽2人轻伤",
+        "onboard_time": 1743153563,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 35181,
+        "num": 434605,
+        "word": "中国花滑男单获冬奥资格",
+        "onboard_time": 1743152482,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434496,
+        "num": 434496,
+        "word": "缅甸7.9级地震曼德勒老建筑几乎全塌",
+        "onboard_time": 1743151762,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 121300,
+        "num": 418518,
+        "word": "缅甸7.9级地震亲历者发声",
+        "onboard_time": 1743153023,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 414842,
+        "num": 414842,
+        "word": "西安震感",
+        "onboard_time": 1743147324,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 359373,
+        "num": 386915,
+        "word": "复活王蓉",
+        "onboard_time": 1743150925,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47071,
+        "num": 384072,
+        "word": "曼谷华人称三次躲进卫生间避险",
+        "onboard_time": 1743154040,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 384045,
+        "num": 384045,
+        "word": "湖南文理学院副教授出轨女学生",
+        "onboard_time": 1743153382,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383857,
+        "num": 383857,
+        "word": "云南震感",
+        "onboard_time": 1743143600,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349054,
+        "num": 349054,
+        "word": "泰国因地震倒塌高楼已致3死",
+        "onboard_time": 1743149243,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 269765,
+        "num": 269765,
+        "word": "高校回应副教授出轨女学生",
+        "onboard_time": 1743153382,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264138,
+        "num": 264138,
+        "word": "昆明大理震感强烈",
+        "onboard_time": 1743145043,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 260751,
+        "num": 260751,
+        "word": "2位顶流化妆师同化一个新娘",
+        "onboard_time": 1743151703,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 253313,
+        "num": 253313,
+        "word": "95后国企干部为伪装贪腐借贷生活",
+        "onboard_time": 1743148583,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250067,
+        "num": 250067,
+        "word": "张睿说新还珠主演除了李晟都有联系",
+        "onboard_time": 1743138802,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 525528,
+        "num": 246640,
+        "word": "曼谷一在建高楼地震中坍塌",
+        "onboard_time": 1743147384,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 43768,
+        "num": 241506,
+        "word": "张凯丽让年轻演员别过度追逐流量",
+        "onboard_time": 1743153203,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237612,
+        "num": 237612,
+        "word": "于正回应白鹿剧扑了",
+        "onboard_time": 1743139642,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197039,
+        "num": 197039,
+        "word": "孙恩盛卖衣服",
+        "onboard_time": 1743153741,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196520,
+        "num": 196520,
+        "word": "苦尽柑来遇见你大结局",
+        "onboard_time": 1743152724,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195688,
+        "num": 195688,
+        "word": "缅甸地震重灾区进入紧急状态",
+        "onboard_time": 1743152783,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 194817,
+        "num": 194817,
+        "word": "大熊猫优优去世",
+        "onboard_time": 1743154461,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187167,
+        "num": 187167,
+        "word": "张婧仪新剧 烂漫和温婉",
+        "onboard_time": 1743154282,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181698,
+        "num": 181698,
+        "word": "全球今年以来最大的地震",
+        "onboard_time": 1743146843,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 180615,
+        "num": 180615,
+        "word": "列车员给孕妇推销建议买不建议用",
+        "onboard_time": 1743139701,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64824,
+        "num": 179546,
+        "word": "有一种美叫曹县汉服",
+        "onboard_time": 1743149844,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179424,
+        "num": 179424,
+        "word": "黄奕男装撞脸王俊凯",
+        "onboard_time": 1743150444,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177476,
+        "num": 177476,
+        "word": "赵露思问爷爷为什么不传手艺",
+        "onboard_time": 1743139101,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177449,
+        "num": 177449,
+        "word": "祝绪丹钻进李晟怀里",
+        "onboard_time": 1743152783,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172859,
+        "num": 172859,
+        "word": "别再用这个姿势睡觉了",
+        "onboard_time": 1743151284,
+        "rank": 42,
+        "category": "健康医疗,幽默"
+      },
+      {
+        "raw_hot": 158755,
+        "num": 158755,
+        "word": "卢靖姗管理家庭开支用excel",
+        "onboard_time": 1743154403,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153261,
+        "num": 153261,
+        "word": "缅甸曼德勒多栋房屋倒塌",
+        "onboard_time": 1743154762,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 141022,
+        "num": 141022,
+        "word": "甲亢哥中国2场直播近千万人次",
+        "onboard_time": 1743142041,
+        "rank": 45,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 139584,
+        "num": 139584,
+        "word": "一件衣服穿三季是什么体验",
+        "onboard_time": 1743148643,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136523,
+        "num": 136523,
+        "word": "缅甸又发生6.4级地震",
+        "onboard_time": 1743146784,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 132035,
+        "num": 132035,
+        "word": "王一博赛车受损",
+        "onboard_time": 1743141621,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 129990,
+        "num": 129990,
+        "word": "山姆必买",
+        "onboard_time": 1743154823,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#与中国同行就是与机遇同行#"
+    }
+  }
+}
