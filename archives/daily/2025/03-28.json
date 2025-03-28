@@ -1,6 +1,6 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743127937472,
+  "endTime": 1743131099999,
   "band_list": [
     {
       "raw_hot": 2004301,
@@ -83,6 +83,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 580628,
+      "num": 580628,
+      "word": "宋雨琦在地上躺了四分钟",
+      "onboard_time": 1743129020,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 528816,
+      "num": 298821,
+      "word": "任志达和妻子在外吃饭遭遇咸猪手",
+      "onboard_time": 1743129439,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 499430,
       "num": 370527,
       "word": "男子割肝救妻10个月后妻子去世",
@@ -139,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 372288,
+      "num": 372288,
+      "word": "央视曝街边高价收药猫腻",
+      "onboard_time": 1743123981,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365819,
       "num": 365819,
       "word": "全校师生仅1800人却花24万买餐盘",
@@ -179,6 +203,30 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 299884,
+      "num": 198952,
+      "word": "女子吐槽楼上邻居马桶正对自家厨房",
+      "onboard_time": 1743128121,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299812,
+      "num": 299812,
+      "word": "辛云来是男团出身",
+      "onboard_time": 1743128239,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 299083,
+      "num": 299083,
+      "word": "全红婵曾说18岁心愿是解锁防沉迷",
+      "onboard_time": 1743123741,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298668,
       "num": 259621,
       "word": "新还珠格格重映收视第一",
@@ -203,14 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 269675,
-      "num": 355906,
-      "word": "央视曝街边高价收药猫腻",
-      "onboard_time": 1743123981,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268720,
       "num": 268720,
       "word": "冰箱贴是年轻人的到此一游",
@@ -227,6 +267,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 259839,
+      "num": 259839,
+      "word": "兔兔拔萝卜被主人塞回气得用嘴堵洞",
+      "onboard_time": 1743129079,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257748,
       "num": 184090,
       "word": "把蔡文静的伤痕看成了吻痕",
@@ -235,20 +283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251471,
+      "num": 251471,
+      "word": "湖人vs公牛",
+      "onboard_time": 1743122601,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247325,
       "num": 118759,
       "word": "唐嫣 你的兵来了",
       "onboard_time": 1743076823,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246741,
-      "num": 246741,
-      "word": "全红婵曾说18岁心愿是解锁防沉迷",
-      "onboard_time": 1743123741,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 246002,
@@ -315,12 +363,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205178,
+      "num": 200366,
+      "word": "李现拍的公园打鸟照来了",
+      "onboard_time": 1743129500,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201224,
+      "num": 201224,
+      "word": "迪丽热巴生命力大片",
+      "onboard_time": 1743130580,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 199094,
       "num": 199094,
       "word": "人民网评古偶失灵",
       "onboard_time": 1743084383,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198536,
+      "num": 198536,
+      "word": "吉迪绝杀湖人",
+      "onboard_time": 1743130460,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 194502,
@@ -339,6 +411,22 @@
       "category": "健康医疗,美妆"
     },
     {
+      "raw_hot": 191777,
+      "num": 191777,
+      "word": "种地吧直播",
+      "onboard_time": 1743128061,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189103,
+      "num": 189103,
+      "word": "一部电影带你了解无声的世界",
+      "onboard_time": 1743129561,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182860,
       "num": 182860,
       "word": "雁回时热度",
@@ -355,6 +443,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180100,
+      "num": 180100,
+      "word": "喝牛奶增加饱腹感算轻断食吗",
+      "onboard_time": 1743128121,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 167319,
+      "num": 167319,
+      "word": "雷总也没想到SU7Ultra种草了10后",
+      "onboard_time": 1743129620,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 166074,
       "num": 146670,
       "word": "王嘉尔直播庆生party",
@@ -363,12 +467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157180,
-      "num": 157180,
+      "raw_hot": 163609,
+      "num": 163609,
       "word": "黄金价格为何不断上涨",
       "onboard_time": 1743125600,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156048,
+      "num": 156048,
+      "word": "王一博宁波赛车场应援",
+      "onboard_time": 1743129979,
+      "rank": 36,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 153371,
@@ -387,12 +499,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 150081,
+      "num": 150081,
+      "word": "白鹿唐宫奇案簪花造型",
+      "onboard_time": 1743129979,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144581,
+      "num": 144581,
+      "word": "陈芋汐给全红婵的生日祝福",
+      "onboard_time": 1743130161,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142723,
       "num": 142723,
       "word": "金赛纶和朋友的聊天记录公开",
       "onboard_time": 1743086062,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138904,
+      "num": 131639,
+      "word": "王一博 赛场见",
+      "onboard_time": 1743128960,
+      "rank": 42,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 138596,
@@ -411,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133102,
+      "num": 133102,
+      "word": "井胧沈月接机演我见到闺蜜",
+      "onboard_time": 1743129319,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129832,
       "num": 178914,
       "word": "苦尽柑来遇见你",
@@ -425,6 +569,22 @@
       "onboard_time": 1743056242,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125056,
+      "num": 125056,
+      "word": "防止DeepSeek乱编文献的方法",
+      "onboard_time": 1743130939,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 122150,
+      "num": 122150,
+      "word": "步行者狂轰162分",
+      "onboard_time": 1743129860,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 121122,
@@ -443,12 +603,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116235,
+      "num": 116235,
+      "word": "苏醒沈梦辰被贴脸开大",
+      "onboard_time": 1743129860,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115226,
       "num": 115226,
       "word": "4岁双胞胎捐髓救妈妈",
       "onboard_time": 1743087922,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113735,
+      "num": 113735,
+      "word": "蔡澜弟弟蔡萱病逝",
+      "onboard_time": 1743131060,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 113040,
@@ -707,6 +883,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 75705,
+      "num": 198957,
+      "word": "药店为KPI求药贩子来套医保",
+      "onboard_time": 1743128061,
+      "rank": 20,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 70384,
       "num": 70384,
       "word": "TheShy回应Bin喊话",
@@ -876,7 +1060,7 @@
     },
     {
       "raw_hot": 42690,
-      "num": 79344,
+      "num": 184284,
       "word": "萨巴伦卡阳光双赛背靠背进决赛",
       "onboard_time": 1743122363,
       "rank": 47,
@@ -897,6 +1081,14 @@
       "onboard_time": 1743085942,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33891,
+      "num": 145531,
+      "word": "我的宝藏食谱",
+      "onboard_time": 1743130580,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 29472,
@@ -1033,6 +1225,14 @@
       "onboard_time": 1743102254,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14036,
+      "num": 131712,
+      "word": "湖人裁掉雷迪什转正古德温",
+      "onboard_time": 1743120380,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 13885,
