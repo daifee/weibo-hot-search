@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743196949808,
+  "endTime": 1743197793186,
   "band_list": [
     {
       "raw_hot": 1473239,
@@ -563,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17619,
+      "num": 28311,
+      "word": "北大教授的书房要向读者开放了",
+      "onboard_time": 1743196034,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16763,
       "num": 17233,
       "word": "王楚然我不张嘴就看不到我牙黑",
@@ -587,12 +595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12799,
-      "num": 17106,
-      "word": "北大教授的书房要向读者开放了",
-      "onboard_time": 1743196034,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 10914,
+      "num": 16697,
+      "word": "缅甸7.9级地震感受像车胎爆了",
+      "onboard_time": 1743197712,
+      "rank": 37,
+      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [
