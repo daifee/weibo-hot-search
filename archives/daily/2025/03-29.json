@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743190568261,
+  "endTime": 1743193589770,
   "band_list": [
     {
       "raw_hot": 1473239,
@@ -491,6 +491,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 26070,
+      "num": 26070,
+      "word": "甲亢哥少林寺英语拜师师父听得懂",
+      "onboard_time": 1743191654,
+      "rank": 27,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 24141,
+      "num": 24141,
+      "word": "泰国曼谷震感持续数分钟",
+      "onboard_time": 1743190454,
+      "rank": 36,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 23885,
       "num": 33525,
       "word": "AG对战Hero",
@@ -531,20 +547,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14489,
+      "raw_hot": 18027,
+      "num": 48382,
+      "word": "气温为啥这么癫",
+      "onboard_time": 1743192854,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16315,
+      "num": 16969,
+      "word": "王楚然我不张嘴就看不到我牙黑",
+      "onboard_time": 1743191595,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14571,
       "num": 43783,
       "word": "的哥徒手破窗一晚连救4人",
       "onboard_time": 1743188053,
       "rank": 38,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 12539,
-      "num": 24048,
-      "word": "泰国曼谷震感持续数分钟",
-      "onboard_time": 1743190454,
-      "rank": 36,
-      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [
