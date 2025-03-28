@@ -1,7 +1,15 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743144484783,
+  "endTime": 1743146645392,
   "band_list": [
+    {
+      "raw_hot": 15554018,
+      "num": 15554018,
+      "word": "缅甸7.9级地震",
+      "onboard_time": 1743143600,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 11898853,
       "num": 13148853,
@@ -1371,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 814274,
+      "num": 814274,
+      "word": "昆明大理震感强烈",
+      "onboard_time": 1743145043,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 812812,
       "num": 323181,
       "word": "金秀贤称给金赛纶的信是朋友信之一",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1742953281,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 801113,
+      "num": 801113,
+      "word": "泰国震感",
+      "onboard_time": 1743144083,
+      "rank": 7,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 800043,
@@ -2211,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 577713,
+      "num": 577713,
+      "word": "南宁震感",
+      "onboard_time": 1743145043,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 576758,
       "num": 326980,
       "word": "短剧阵容这么顶了吗",
@@ -2249,14 +2281,6 @@
       "onboard_time": 1742813241,
       "rank": 17,
       "category": "网红"
-    },
-    {
-      "raw_hot": 568700,
-      "num": 568700,
-      "word": "泰国震感",
-      "onboard_time": 1743144083,
-      "rank": 7,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 564718,
@@ -2795,6 +2819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485419,
+      "num": 485419,
+      "word": "韩庚女儿接电话先要爸爸",
+      "onboard_time": 1743145584,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485256,
       "num": 457432,
       "word": "湖南14岁少年疑校内遭围殴致死",
@@ -2864,6 +2896,14 @@
       "word": "北京大风",
       "onboard_time": 1742856977,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 473367,
+      "num": 473367,
+      "word": "保安帮业主关窗在保温杯内小便",
+      "onboard_time": 1743142461,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -4571,6 +4611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305282,
+      "num": 305282,
+      "word": "赵樱子说提迪幂孟扎是被迫",
+      "onboard_time": 1743142762,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304953,
       "num": 304953,
       "word": "李羲承舞台",
@@ -4835,6 +4883,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 288002,
+      "num": 2540082,
+      "word": "北京卫视4K超高清频道震撼亮相",
+      "onboard_time": 1743137541,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287716,
       "num": 172823,
       "word": "爷爷拔萝卜小兔子在一旁躺着吃",
@@ -5056,14 +5112,6 @@
       "word": "杨洋和妈妈去美发店",
       "onboard_time": 1742795962,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 277141,
-      "num": 247936,
-      "word": "赵樱子说提迪幂孟扎是被迫",
-      "onboard_time": 1743142762,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -5513,6 +5561,14 @@
       "onboard_time": 1743123382,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 249172,
+      "num": 515065,
+      "word": "甲亢哥中国2场直播近千万人次",
+      "onboard_time": 1743142041,
+      "rank": 36,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 248998,
@@ -6075,6 +6131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226817,
+      "num": 226817,
+      "word": "车银优恭喜你啊你长得像",
+      "onboard_time": 1743141561,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226435,
       "num": 226435,
       "word": "王嘉尔练习生时期恋爱被罚写检讨",
@@ -6113,6 +6177,14 @@
       "onboard_time": 1742778321,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224421,
+      "num": 224421,
+      "word": "侯佩岑组第一",
+      "onboard_time": 1743144304,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 224345,
@@ -6209,14 +6281,6 @@
       "onboard_time": 1742960421,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 219374,
-      "num": 161296,
-      "word": "侯佩岑组第一",
-      "onboard_time": 1743144304,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 219360,
@@ -6411,12 +6475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213512,
-      "num": 213512,
-      "word": "保安帮业主关窗在保温杯内小便",
-      "onboard_time": 1743142461,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 213731,
+      "num": 213731,
+      "word": "燕云十六声补偿",
+      "onboard_time": 1743145043,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 213287,
@@ -6673,14 +6737,6 @@
       "onboard_time": 1743046522,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207692,
-      "num": 207692,
-      "word": "车银优恭喜你啊你长得像",
-      "onboard_time": 1743141561,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 207686,
@@ -7091,6 +7147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200641,
+      "num": 200641,
+      "word": "李承铉洋相还得洋人出",
+      "onboard_time": 1743145883,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200483,
       "num": 200483,
       "word": "张元英宝格丽新闻图",
@@ -7185,14 +7249,6 @@
       "onboard_time": 1743143000,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198437,
-      "num": 515065,
-      "word": "甲亢哥中国2场直播近千万人次",
-      "onboard_time": 1743142041,
-      "rank": 36,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 198361,
@@ -7577,6 +7633,14 @@
       "onboard_time": 1742706021,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 191496,
+      "num": 199421,
+      "word": "男子20万买法拍房连门都进不去",
+      "onboard_time": 1743141621,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191042,
@@ -8011,6 +8075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183486,
+      "num": 214900,
+      "word": "燕云十六声问题修复仍未完成",
+      "onboard_time": 1743143964,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183107,
       "num": 183107,
       "word": "白桃星座",
@@ -8065,6 +8137,14 @@
       "onboard_time": 1743052342,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181789,
+      "num": 199681,
+      "word": "中国最胖的省是河北",
+      "onboard_time": 1743144143,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 181778,
@@ -8153,14 +8233,6 @@
       "onboard_time": 1743128121,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 180071,
-      "num": 199421,
-      "word": "男子20万买法拍房连门都进不去",
-      "onboard_time": 1743141621,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179880,
@@ -8296,6 +8368,14 @@
       "word": "梳理山西订婚强奸案始末",
       "onboard_time": 1742871141,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176256,
+      "num": 176256,
+      "word": "瑞丽一高楼受地震影响掉砖石",
+      "onboard_time": 1743146304,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -8771,6 +8851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166115,
+      "num": 166115,
+      "word": "吴宣仪cha了李羲承进行曲",
+      "onboard_time": 1743145944,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166074,
       "num": 146670,
       "word": "王嘉尔直播庆生party",
@@ -8889,6 +8977,14 @@
       "onboard_time": 1742693240,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 163708,
+      "num": 163708,
+      "word": "中国可控核聚变技术再突破",
+      "onboard_time": 1743146064,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163699,
@@ -9169,6 +9265,14 @@
       "onboard_time": 1742699060,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160284,
+      "num": 160284,
+      "word": "下雪",
+      "onboard_time": 1743146184,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160227,
@@ -9867,14 +9971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150399,
-      "num": 150399,
-      "word": "燕云十六声问题修复仍未完成",
-      "onboard_time": 1743143964,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 150396,
       "num": 150396,
       "word": "雷军曾拒绝武大办雷军班",
@@ -10257,6 +10353,14 @@
       "onboard_time": 1742657121,
       "rank": 23,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 145598,
+      "num": 145598,
+      "word": "张继科没拿过全运会男单冠军",
+      "onboard_time": 1743145224,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 145581,
@@ -10697,6 +10801,14 @@
       "onboard_time": 1742959341,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139021,
+      "num": 139021,
+      "word": "管乐舞台恐怖分子",
+      "onboard_time": 1743144864,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 138904,
@@ -12971,6 +13083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113654,
+      "num": 320815,
+      "word": "高空泳池地震时变瀑布",
+      "onboard_time": 1743145826,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 113605,
       "num": 113605,
       "word": "嘘国王在冬眠",
@@ -13995,14 +14115,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 102075,
-      "num": 2540082,
-      "word": "北京卫视4K超高清频道震撼亮相",
-      "onboard_time": 1743137541,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101776,
       "num": 287574,
       "word": "T1回应Zeus转会风波",
@@ -14795,6 +14907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90892,
+      "num": 199545,
+      "word": "一医院招病人演员要求演技在线",
+      "onboard_time": 1743145765,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90574,
       "num": 114692,
       "word": "钟楚曦春游",
@@ -15153,14 +15273,6 @@
       "onboard_time": 1743036982,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82389,
-      "num": 199681,
-      "word": "中国最胖的省是河北",
-      "onboard_time": 1743144143,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 81868,
@@ -15553,6 +15665,14 @@
       "onboard_time": 1742986880,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73001,
+      "num": 274857,
+      "word": "韩国山火伤亡人数升至65人",
+      "onboard_time": 1743145106,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72907,
@@ -16033,6 +16153,14 @@
       "onboard_time": 1742907921,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 64510,
+      "num": 133500,
+      "word": "看贾冰吃烧烤超爽啊",
+      "onboard_time": 1743146005,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 64342,
@@ -17203,6 +17331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40967,
+      "num": 200667,
+      "word": "缅甸附近地震不会对我国沿岸造成影响",
+      "onboard_time": 1743146425,
+      "rank": 27,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 40913,
       "num": 221442,
       "word": "中央气象台预警三连",
@@ -17449,6 +17585,14 @@
       "onboard_time": 1742969302,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 36857,
+      "num": 163964,
+      "word": "泰国震感明显行人街头逃窜",
+      "onboard_time": 1743145883,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 36797,
@@ -18123,6 +18267,14 @@
       "category": "运动健身,体育"
     },
     {
+      "raw_hot": 26902,
+      "num": 2782290,
+      "word": "春日经济花样缤纷活力迸发",
+      "onboard_time": 1743137123,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26754,
       "num": 291075,
       "word": "大多数金包银产品缺斤短两",
@@ -18217,6 +18369,14 @@
       "onboard_time": 1742851574,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25538,
+      "num": 198158,
+      "word": "Gucci选男明星眼光",
+      "onboard_time": 1743145584,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 25521,
@@ -18633,6 +18793,14 @@
       "onboard_time": 1742668935,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18137,
+      "num": 199532,
+      "word": "90后代祭扫基础套餐定价300元",
+      "onboard_time": 1743146485,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18050,

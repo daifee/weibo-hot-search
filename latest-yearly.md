@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/03/28 14:48:04
+本榜单时间：2025/01/01 00:26:38 ~ 2025/03/28 15:24:05
 </p>
 </blockquote>
 <p>
@@ -155,6 +155,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%81%93%E6%AD%89%23" target="weibo">
 鹿晗道歉（热度：16088904）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B87.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+缅甸7.9级地震（热度：15554018）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%80%83%E7%A0%94%E4%B8%93%E4%B8%9A%E8%AF%BE10%E5%88%86%23" target="weibo">
 上海大学回应女生考研专业课10分（热度：2779346）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%20%E9%A9%AC%E9%A0%94%23" target="weibo">
-李纯 马頔（热度：2773326）
 </a>
 </li>
 
