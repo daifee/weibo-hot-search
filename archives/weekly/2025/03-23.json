@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743139512840,
+  "endTime": 1743140570932,
   "band_list": [
     {
       "raw_hot": 4090841,
@@ -217,6 +217,14 @@
       "onboard_time": 1743084742,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2023764,
+      "num": 2023764,
+      "word": "张睿说新还珠主演除了李晟都有联系",
+      "onboard_time": 1743138802,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 2007019,
@@ -547,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1425116,
+      "num": 525031,
+      "word": "陈德容王蓉吵起来了",
+      "onboard_time": 1743138681,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1410461,
       "num": 1410461,
       "word": "被传患病网红夫妇质疑就餐后商场消杀",
@@ -707,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1246919,
-      "num": 525031,
-      "word": "陈德容王蓉吵起来了",
-      "onboard_time": 1743138681,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1246238,
       "num": 1246238,
       "word": "又贵又难吃的羽衣甘蓝被疯抢",
@@ -792,14 +800,6 @@
       "word": "温峥嵘我向您道歉",
       "onboard_time": 1742730980,
       "rank": 1,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1176354,
-      "num": 319267,
-      "word": "张睿说新还珠主演除了李晟都有联系",
-      "onboard_time": 1743138802,
-      "rank": 6,
       "category": "剧集"
     },
     {
@@ -1401,6 +1401,14 @@
       "onboard_time": 1742860461,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 790010,
+      "num": 286462,
+      "word": "赵露思问爷爷为什么不传手艺",
+      "onboard_time": 1743139101,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 786220,
@@ -2513,14 +2521,6 @@
       "onboard_time": 1742814982,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 507779,
-      "num": 177445,
-      "word": "赵露思问爷爷为什么不传手艺",
-      "onboard_time": 1743139101,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 507119,
@@ -3867,6 +3867,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 358392,
+      "num": 358392,
+      "word": "丈夫长期失联妻子离婚获家务劳动补偿",
+      "onboard_time": 1743137601,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357594,
       "num": 357594,
       "word": "警方通报高铁脱鞋放脚打人男被行拘",
@@ -4179,6 +4187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327851,
+      "num": 327851,
+      "word": "普京回应特朗普吞并格陵兰岛言论",
+      "onboard_time": 1743135203,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 327375,
       "num": 289476,
       "word": "金秀贤方否认至今为止的一切",
@@ -4291,14 +4307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 319839,
-      "num": 323433,
-      "word": "普京回应特朗普吞并格陵兰岛言论",
-      "onboard_time": 1743135203,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 319359,
       "num": 319359,
       "word": "王星 无限超越班",
@@ -4355,6 +4363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316203,
+      "num": 270341,
+      "word": "于正回应白鹿剧扑了",
+      "onboard_time": 1743139642,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315883,
       "num": 346559,
       "word": "小小的勇气定档",
@@ -4369,6 +4385,14 @@
       "onboard_time": 1743068782,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 315268,
+      "num": 265077,
+      "word": "宋妍霏受伤",
+      "onboard_time": 1743139822,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 315033,
@@ -4688,6 +4712,14 @@
       "word": "辛云来疯子",
       "onboard_time": 1743005779,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 291643,
+      "num": 264987,
+      "word": "张俪有这美貌早该上天庭了",
+      "onboard_time": 1743139401,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -5185,6 +5217,14 @@
       "onboard_time": 1742891180,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 264912,
+      "num": 264912,
+      "word": "列车员给孕妇推销建议买不建议用",
+      "onboard_time": 1743139701,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 264618,
@@ -5761,6 +5801,14 @@
       "onboard_time": 1742878463,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 233860,
+      "num": 233860,
+      "word": "张杰北京鸟巢限定舞台",
+      "onboard_time": 1743138681,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 233819,
@@ -6468,7 +6516,7 @@
     },
     {
       "raw_hot": 208617,
-      "num": 170520,
+      "num": 180663,
       "word": "杨洋撒羽毛变焦视频",
       "onboard_time": 1743138681,
       "rank": 25,
@@ -6585,14 +6633,6 @@
       "onboard_time": 1742785221,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206848,
-      "num": 169927,
-      "word": "张杰北京鸟巢限定舞台",
-      "onboard_time": 1743138681,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 206698,
@@ -6832,6 +6872,14 @@
       "word": "白鹿北上婚纱9宫格",
       "onboard_time": 1742887042,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202403,
+      "num": 202403,
+      "word": "一问全不熟一查全有仇",
+      "onboard_time": 1743139041,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -7091,6 +7139,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196761,
+      "num": 196761,
+      "word": "Ariana Grande",
+      "onboard_time": 1743139882,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 196627,
+      "num": 196627,
+      "word": "白敬亭章若楠粉丝全自动安排工作",
+      "onboard_time": 1743140302,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196619,
       "num": 196619,
       "word": "中国女子冰壶队直通米兰",
@@ -7172,7 +7236,7 @@
     },
     {
       "raw_hot": 194843,
-      "num": 174720,
+      "num": 251335,
       "word": "你可以回去但那儿已经没有人了",
       "onboard_time": 1743138802,
       "rank": 18,
@@ -7225,6 +7289,14 @@
       "onboard_time": 1742738542,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194370,
+      "num": 194370,
+      "word": "杨幂wallpaper四月刊封面",
+      "onboard_time": 1743140481,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 194345,
@@ -7531,14 +7603,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187823,
-      "num": 167500,
-      "word": "一问全不熟一查全有仇",
-      "onboard_time": 1743139041,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187697,
       "num": 187697,
       "word": "你好星期六全员为余生有涯剧宣",
@@ -7708,7 +7772,7 @@
     },
     {
       "raw_hot": 185363,
-      "num": 166815,
+      "num": 179847,
       "word": "王俊凯太有节目了",
       "onboard_time": 1743139462,
       "rank": 31,
@@ -8081,6 +8145,14 @@
       "onboard_time": 1742871141,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176034,
+      "num": 176034,
+      "word": "陈丽君向网综发出倡议",
+      "onboard_time": 1743139642,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 176025,
@@ -8481,6 +8553,14 @@
       "onboard_time": 1742711541,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167637,
+      "num": 196678,
+      "word": "50岁当20多年兽医成了千万网红",
+      "onboard_time": 1743139041,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167201,
@@ -10259,14 +10339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141937,
-      "num": 141937,
-      "word": "张俪有这美貌早该上天庭了",
-      "onboard_time": 1743139401,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141677,
       "num": 141677,
       "word": "老板炸了我的蔬菜沙拉",
@@ -10875,14 +10947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134914,
-      "num": 174025,
-      "word": "丈夫长期失联妻子离婚获家务劳动补偿",
-      "onboard_time": 1743137601,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134744,
       "num": 134744,
       "word": "腾讯视频2025待播大剧片单",
@@ -11289,6 +11353,14 @@
       "onboard_time": 1742887642,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129629,
+      "num": 129629,
+      "word": "刘耀文Chapter04",
+      "onboard_time": 1743139281,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 129620,
@@ -11905,14 +11977,6 @@
       "onboard_time": 1742956341,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122561,
-      "num": 122561,
-      "word": "50岁当20多年兽医成了千万网红",
-      "onboard_time": 1743139041,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122544,
@@ -12579,6 +12643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114890,
+      "num": 114890,
+      "word": "中式梦核",
+      "onboard_time": 1743140062,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114867,
       "num": 114867,
       "word": "英菲尼迪起诉王力宏西东音乐",
@@ -13153,6 +13225,14 @@
       "onboard_time": 1742729300,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108337,
+      "num": 108337,
+      "word": "金秀贤韩国粉丝俱乐部没了",
+      "onboard_time": 1743140542,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 108336,
@@ -14763,6 +14843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 84489,
+      "num": 202729,
+      "word": "权志龙为山火灾区捐款",
+      "onboard_time": 1743139342,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84374,
       "num": 84374,
       "word": "全红婵从东京到巴黎心路历程",
@@ -14841,6 +14929,14 @@
       "onboard_time": 1742715200,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83166,
+      "num": 155692,
+      "word": "谁给张予曦递个大女主修仙剧本",
+      "onboard_time": 1743140542,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 82979,
@@ -15363,14 +15459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70970,
-      "num": 156504,
-      "word": "权志龙为山火灾区捐款",
-      "onboard_time": 1743139342,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70715,
       "num": 176928,
       "word": "遇风浪从陵水漂到三亚小孩系疍家人",
@@ -15505,6 +15593,14 @@
       "onboard_time": 1743127701,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68015,
+      "num": 209874,
+      "word": "任天堂新游戏",
+      "onboard_time": 1743139521,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 67893,
@@ -16515,6 +16611,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 46258,
+      "num": 137057,
+      "word": "美国高官群聊情景重现",
+      "onboard_time": 1743136163,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46171,
       "num": 312730,
       "word": "DeepSeek分析武汉最好吃的夜市",
@@ -16977,14 +17081,6 @@
       "onboard_time": 1743133101,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 38679,
-      "num": 137057,
-      "word": "美国高官群聊情景重现",
-      "onboard_time": 1743136163,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 38340,

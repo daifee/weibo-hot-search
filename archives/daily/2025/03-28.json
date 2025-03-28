@@ -1,7 +1,15 @@
 {
   "startTime": 1743093083168,
-  "endTime": 1743139512840,
+  "endTime": 1743140570932,
   "band_list": [
+    {
+      "raw_hot": 2023764,
+      "num": 2023764,
+      "word": "张睿说新还珠主演除了李晟都有联系",
+      "onboard_time": 1743138802,
+      "rank": 6,
+      "category": "剧集"
+    },
     {
       "raw_hot": 2004301,
       "num": 370711,
@@ -43,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1425116,
+      "num": 525031,
+      "word": "陈德容王蓉吵起来了",
+      "onboard_time": 1743138681,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1336762,
       "num": 1336762,
       "word": "我以为演员要学历",
@@ -57,22 +73,6 @@
       "onboard_time": 1743131180,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1246919,
-      "num": 525031,
-      "word": "陈德容王蓉吵起来了",
-      "onboard_time": 1743138681,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1176354,
-      "num": 319267,
-      "word": "张睿说新还珠主演除了李晟都有联系",
-      "onboard_time": 1743138802,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 1038692,
@@ -104,6 +104,14 @@
       "word": "赵露思生病前认为拐杖只是装饰",
       "onboard_time": 1743125001,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 790010,
+      "num": 286462,
+      "word": "赵露思问爷爷为什么不传手艺",
+      "onboard_time": 1743139101,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -176,14 +184,6 @@
       "word": "浪姐一公",
       "onboard_time": 1743135502,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 507779,
-      "num": 177445,
-      "word": "赵露思问爷爷为什么不传手艺",
-      "onboard_time": 1743139101,
-      "rank": 14,
       "category": "综艺"
     },
     {
@@ -283,6 +283,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 358392,
+      "num": 358392,
+      "word": "丈夫长期失联妻子离婚获家务劳动补偿",
+      "onboard_time": 1743137601,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329245,
       "num": 329245,
       "word": "舒马赫近乎植物人",
@@ -299,20 +307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327851,
+      "num": 327851,
+      "word": "普京回应特朗普吞并格陵兰岛言论",
+      "onboard_time": 1743135203,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 323482,
       "num": 237370,
       "word": "医生提醒别拿红霉素软膏当万能药",
       "onboard_time": 1743124521,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 319839,
-      "num": 323433,
-      "word": "普京回应特朗普吞并格陵兰岛言论",
-      "onboard_time": 1743135203,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 317791,
@@ -329,6 +337,22 @@
       "onboard_time": 1743133041,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 316203,
+      "num": 270341,
+      "word": "于正回应白鹿剧扑了",
+      "onboard_time": 1743139642,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 315268,
+      "num": 265077,
+      "word": "宋妍霏受伤",
+      "onboard_time": 1743139822,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 314824,
@@ -387,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291643,
+      "num": 264987,
+      "word": "张俪有这美貌早该上天庭了",
+      "onboard_time": 1743139401,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285713,
       "num": 285713,
       "word": "你被二手烟困扰过吗",
@@ -425,6 +457,14 @@
       "onboard_time": 1743078622,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264912,
+      "num": 264912,
+      "word": "列车员给孕妇推销建议买不建议用",
+      "onboard_time": 1743139701,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 264393,
@@ -489,6 +529,14 @@
       "onboard_time": 1743138263,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233860,
+      "num": 233860,
+      "word": "张杰北京鸟巢限定舞台",
+      "onboard_time": 1743138681,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 227941,
@@ -604,19 +652,11 @@
     },
     {
       "raw_hot": 208617,
-      "num": 170520,
+      "num": 180663,
       "word": "杨洋撒羽毛变焦视频",
       "onboard_time": 1743138681,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206848,
-      "num": 169927,
-      "word": "张杰北京鸟巢限定舞台",
-      "onboard_time": 1743138681,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 203624,
@@ -643,6 +683,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 202403,
+      "num": 202403,
+      "word": "一问全不熟一查全有仇",
+      "onboard_time": 1743139041,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201224,
       "num": 201224,
       "word": "迪丽热巴生命力大片",
@@ -659,8 +707,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196761,
+      "num": 196761,
+      "word": "Ariana Grande",
+      "onboard_time": 1743139882,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 196627,
+      "num": 196627,
+      "word": "白敬亭章若楠粉丝全自动安排工作",
+      "onboard_time": 1743140302,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194843,
-      "num": 174720,
+      "num": 251335,
       "word": "你可以回去但那儿已经没有人了",
       "onboard_time": 1743138802,
       "rank": 18,
@@ -673,6 +737,14 @@
       "onboard_time": 1743090681,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194370,
+      "num": 194370,
+      "word": "杨幂wallpaper四月刊封面",
+      "onboard_time": 1743140481,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192103,
@@ -707,16 +779,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187823,
-      "num": 167500,
-      "word": "一问全不熟一查全有仇",
-      "onboard_time": 1743139041,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185363,
-      "num": 166815,
+      "num": 179847,
       "word": "王俊凯太有节目了",
       "onboard_time": 1743139462,
       "rank": 31,
@@ -763,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176034,
+      "num": 176034,
+      "word": "陈丽君向网综发出倡议",
+      "onboard_time": 1743139642,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176025,
       "num": 176025,
       "word": "妻子的浪漫旅行",
@@ -785,6 +857,14 @@
       "onboard_time": 1743134661,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167637,
+      "num": 196678,
+      "word": "50岁当20多年兽医成了千万网红",
+      "onboard_time": 1743139041,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166074,
@@ -931,14 +1011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141937,
-      "num": 141937,
-      "word": "张俪有这美貌早该上天庭了",
-      "onboard_time": 1743139401,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139246,
       "num": 139246,
       "word": "下一个台风",
@@ -979,14 +1051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134914,
-      "num": 174025,
-      "word": "丈夫长期失联妻子离婚获家务劳动补偿",
-      "onboard_time": 1743137601,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133726,
       "num": 133726,
       "word": "蔡澜弟弟蔡萱病逝",
@@ -1011,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129629,
+      "num": 129629,
+      "word": "刘耀文Chapter04",
+      "onboard_time": 1743139281,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127007,
       "num": 214637,
       "word": "上官正义称代孕中介反侦查意识强",
@@ -1024,14 +1096,6 @@
       "word": "爸爸去世女儿被判和4个姑姑平分遗产",
       "onboard_time": 1743056242,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122561,
-      "num": 122561,
-      "word": "50岁当20多年兽医成了千万网红",
-      "onboard_time": 1743139041,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1107,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114890,
+      "num": 114890,
+      "word": "中式梦核",
+      "onboard_time": 1743140062,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113040,
       "num": 125590,
       "word": "小婉管乐连睡觉都分不开",
@@ -1121,6 +1193,14 @@
       "onboard_time": 1743121340,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108337,
+      "num": 108337,
+      "word": "金秀贤韩国粉丝俱乐部没了",
+      "onboard_time": 1743140542,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 108186,
@@ -1307,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84489,
+      "num": 202729,
+      "word": "权志龙为山火灾区捐款",
+      "onboard_time": 1743139342,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84374,
       "num": 84374,
       "word": "全红婵从东京到巴黎心路历程",
@@ -1329,6 +1417,14 @@
       "onboard_time": 1743080422,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83166,
+      "num": 155692,
+      "word": "谁给张予曦递个大女主修仙剧本",
+      "onboard_time": 1743140542,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 81361,
@@ -1427,14 +1523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70970,
-      "num": 156504,
-      "word": "权志龙为山火灾区捐款",
-      "onboard_time": 1743139342,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70384,
       "num": 70384,
       "word": "TheShy回应Bin喊话",
@@ -1481,6 +1569,14 @@
       "onboard_time": 1743127701,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68015,
+      "num": 209874,
+      "word": "任天堂新游戏",
+      "onboard_time": 1743139521,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 67374,
@@ -1627,6 +1723,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 46258,
+      "num": 137057,
+      "word": "美国高官群聊情景重现",
+      "onboard_time": 1743136163,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43746,
       "num": 218331,
       "word": "欧盟拟打击美国服务出口",
@@ -1665,14 +1769,6 @@
       "onboard_time": 1743133101,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 38679,
-      "num": 137057,
-      "word": "美国高官群聊情景重现",
-      "onboard_time": 1743136163,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37446,
