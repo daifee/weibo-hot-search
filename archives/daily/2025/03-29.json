@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743241025993,
+  "endTime": 1743243897229,
   "band_list": [
     {
       "raw_hot": 4621424,
@@ -99,6 +99,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1345882,
+      "num": 1345882,
+      "word": "王一博亚军",
+      "onboard_time": 1743240441,
+      "rank": 17,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1332626,
       "num": 1332626,
       "word": "哪吒2冲TOP4",
@@ -179,12 +187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 932983,
+      "num": 932983,
+      "word": "韩国扑救山火消防员的盒饭",
+      "onboard_time": 1743237682,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 930862,
       "num": 930862,
       "word": "门童曼谷场取消",
       "onboard_time": 1743156621,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 925378,
+      "num": 510729,
+      "word": "女子游泳被教练偷拍发网上宣传",
+      "onboard_time": 1743239601,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 923177,
@@ -243,14 +267,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 666007,
-      "num": 666007,
-      "word": "韩国扑救山火消防员的盒饭",
-      "onboard_time": 1743237682,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 659936,
       "num": 659936,
       "word": "缅甸7.9级地震",
@@ -283,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 602663,
+      "num": 602663,
+      "word": "孙颖莎代言红旗",
+      "onboard_time": 1743242541,
+      "rank": 4,
+      "category": "汽车,体育"
+    },
+    {
       "raw_hot": 596162,
       "num": 596162,
       "word": "李嘉诚4公司市值蒸发超781亿",
@@ -307,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 580599,
+      "num": 580599,
+      "word": "世界上最大的宫殿在地震中坍塌",
+      "onboard_time": 1743242482,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 553147,
       "num": 553147,
       "word": "金明脸上毛细血管破裂",
@@ -329,14 +361,6 @@
       "onboard_time": 1743207740,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 510729,
-      "num": 510729,
-      "word": "女子游泳被教练偷拍发网上宣传",
-      "onboard_time": 1743239601,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 506344,
@@ -459,6 +483,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 369084,
+      "num": 334728,
+      "word": "郑雅贤开球",
+      "onboard_time": 1743239301,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366751,
       "num": 318208,
       "word": "伊能静想知道孟子义李昀锐在一起了没",
@@ -499,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334728,
-      "num": 334728,
-      "word": "郑雅贤开球",
-      "onboard_time": 1743239301,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 330422,
       "num": 636723,
       "word": "缅甸一大楼倒塌4楼以下全被埋",
@@ -529,6 +553,14 @@
       "onboard_time": 1743205039,
       "rank": 8,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 321536,
+      "num": 321536,
+      "word": "雁回时",
+      "onboard_time": 1743157101,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 317302,
@@ -563,14 +595,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 304633,
-      "num": 304633,
-      "word": "王一博亚军",
-      "onboard_time": 1743240441,
-      "rank": 17,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 304334,
       "num": 304334,
       "word": "门童粉丝发长文",
@@ -603,6 +627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294689,
+      "num": 294689,
+      "word": "胖东来要投资70亿开梦之城",
+      "onboard_time": 1743241582,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291634,
       "num": 291634,
       "word": "演唱会天价门票都被谁买走了",
@@ -617,6 +649,14 @@
       "onboard_time": 1743226882,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287489,
+      "num": 287489,
+      "word": "她甚至动了我都还以为是洋娃娃",
+      "onboard_time": 1743241523,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 273309,
@@ -705,6 +745,14 @@
       "onboard_time": 1743221542,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223675,
+      "num": 223675,
+      "word": "王一博开香槟最慢",
+      "onboard_time": 1743242602,
+      "rank": 25,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 223412,
@@ -875,6 +923,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 188922,
+      "num": 188922,
+      "word": "王子异朱正廷合体",
+      "onboard_time": 1743243321,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187464,
       "num": 261880,
       "word": "曹贵人扮演者回应卖假包",
@@ -1043,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171272,
+      "num": 171272,
+      "word": "中方决定向缅甸派出两支救援队",
+      "onboard_time": 1743242423,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 170578,
       "num": 170578,
       "word": "缅甸华人称今晚扛垫子睡路边",
@@ -1081,6 +1145,14 @@
       "onboard_time": 1743166163,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161692,
+      "num": 161692,
+      "word": "甲亢哥开通微博",
+      "onboard_time": 1743240983,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 161471,
@@ -1145,6 +1217,14 @@
       "onboard_time": 1743223763,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158849,
+      "num": 158849,
+      "word": "孟子义你这样让宋妍霏好有面子",
+      "onboard_time": 1743238462,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 158315,
@@ -1217,6 +1297,22 @@
       "onboard_time": 1743235161,
       "rank": 34,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 154605,
+      "num": 409884,
+      "word": "泰国一公寓天桥因强震断裂",
+      "onboard_time": 1743242482,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 154032,
+      "num": 154032,
+      "word": "武汉一幼儿园上课70%时间在巡山",
+      "onboard_time": 1743243381,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153081,
@@ -1313,6 +1409,22 @@
       "onboard_time": 1743175882,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145732,
+      "num": 145732,
+      "word": "碾压5岁女童致死车主当庭表示上诉",
+      "onboard_time": 1743242482,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145538,
+      "num": 145538,
+      "word": "缅甸政府向国际求援",
+      "onboard_time": 1743243381,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 143760,
@@ -1523,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127638,
+      "num": 127638,
+      "word": "中国超级跑车锦标赛",
+      "onboard_time": 1743243681,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127461,
       "num": 127461,
       "word": "缅甸7.9级地震感受像车胎爆了",
@@ -1561,6 +1681,14 @@
       "onboard_time": 1743240862,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123525,
+      "num": 123525,
+      "word": "什么是脑雾反应",
+      "onboard_time": 1743241523,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 123441,
@@ -1655,6 +1783,14 @@
       "num": 116538,
       "word": "珊瑚海 rap",
       "onboard_time": 1743237381,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115461,
+      "num": 115461,
+      "word": "李嘉琦浪姐回应角色争议",
+      "onboard_time": 1743243201,
       "rank": 48,
       "category": "综艺"
     },
@@ -1859,14 +1995,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 105451,
-      "num": 105451,
-      "word": "甲亢哥开通微博",
-      "onboard_time": 1743240983,
-      "rank": 48,
-      "category": "网红"
-    },
-    {
       "raw_hot": 104875,
       "num": 346229,
       "word": "专家解读曼谷像素大楼震时明显晃动",
@@ -2001,6 +2129,14 @@
       "onboard_time": 1743226940,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89199,
+      "num": 146073,
+      "word": "蓝盈莹直播赶猪大赛",
+      "onboard_time": 1743242541,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 87461,
@@ -2179,12 +2315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52751,
-      "num": 52751,
-      "word": "雁回时",
-      "onboard_time": 1743157101,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 54821,
+      "num": 151872,
+      "word": "Gucci史上第一个爆款包包",
+      "onboard_time": 1743240501,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 50615,
@@ -2201,6 +2337,22 @@
       "onboard_time": 1743196034,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47840,
+      "num": 145631,
+      "word": "健身中心称教练偷拍顾客后背不属侵权",
+      "onboard_time": 1743243863,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47715,
+      "num": 312958,
+      "word": "美副总统鼓动格陵兰脱离丹麦",
+      "onboard_time": 1743242602,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46726,
@@ -2435,20 +2587,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19028,
+      "num": 809230,
+      "word": "当AI遇上广西三月三",
+      "onboard_time": 1743171326,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18610,
       "num": 24057,
       "word": "刘宇宁电视剧品质盛典彩排花絮",
       "onboard_time": 1743188834,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16486,
-      "num": 135010,
-      "word": "Gucci史上第一个爆款包包",
-      "onboard_time": 1743240501,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 14571,
@@ -2497,14 +2649,6 @@
       "onboard_time": 1743217341,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 5008,
-      "num": 748589,
-      "word": "当AI遇上广西三月三",
-      "onboard_time": 1743171326,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2516,6 +2660,9 @@
     },
     {
       "word": "#与中国同行就是与机遇同行#"
+    },
+    {
+      "word": "#中国是有利于外资企业投资兴业的一方沃土#"
     }
   ]
 }
