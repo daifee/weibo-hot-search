@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743232889941,
+  "endTime": 1743233750531,
   "band_list": [
     {
       "raw_hot": 18900626,
@@ -241,6 +241,14 @@
       "onboard_time": 1743049462,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2105701,
+      "num": 2105701,
+      "word": "中国政府决定向缅甸提供1亿元",
+      "onboard_time": 1743231862,
+      "rank": 8,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 2098085,
@@ -1419,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 923177,
+      "num": 906516,
+      "word": "彭小苒房琪起争执",
+      "onboard_time": 1743230481,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 922290,
       "num": 448149,
       "word": "茶百道",
@@ -1441,14 +1457,6 @@
       "onboard_time": 1743078622,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 906516,
-      "num": 906516,
-      "word": "彭小苒房琪起争执",
-      "onboard_time": 1743230481,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 903591,
@@ -2251,14 +2259,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 668280,
-      "num": 668280,
-      "word": "中国政府决定向缅甸提供1亿元",
-      "onboard_time": 1743231862,
-      "rank": 8,
-      "category": "国内时政,国际时政"
-    },
-    {
       "raw_hot": 660498,
       "num": 759082,
       "word": "上海对边走边抽烟的游烟族出手了",
@@ -2457,6 +2457,14 @@
       "onboard_time": 1742989400,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 621404,
+      "num": 520163,
+      "word": "彭小苒 没拍戏",
+      "onboard_time": 1743231382,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 621306,
@@ -3081,14 +3089,6 @@
       "onboard_time": 1743061822,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 520163,
-      "num": 520163,
-      "word": "彭小苒 没拍戏",
-      "onboard_time": 1743231382,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 518193,
@@ -5596,7 +5596,7 @@
     },
     {
       "raw_hot": 299558,
-      "num": 259178,
+      "num": 273246,
       "word": "赵一博说交不到朋友不是性格问题",
       "onboard_time": 1743229160,
       "rank": 24,
@@ -5792,6 +5792,14 @@
       "word": "辛云来粉底液避雷",
       "onboard_time": 1742992222,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 288543,
+      "num": 288543,
+      "word": "Real原导演发声",
+      "onboard_time": 1743232400,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -8115,6 +8123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205501,
+      "num": 205501,
+      "word": "nctwish 中国",
+      "onboard_time": 1743232942,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205361,
       "num": 205361,
       "word": "王俊凯拼接皮衣",
@@ -9675,6 +9691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184169,
+      "num": 184169,
+      "word": "女子一次次给骗子送钱一次次失败",
+      "onboard_time": 1743231201,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183970,
       "num": 183970,
       "word": "国防部批驳七国集团",
@@ -10017,14 +10041,6 @@
       "onboard_time": 1742946741,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178354,
-      "num": 178354,
-      "word": "女子一次次给骗子送钱一次次失败",
-      "onboard_time": 1743231201,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178084,
@@ -11219,14 +11235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159994,
-      "num": 159994,
-      "word": "Real原导演发声",
-      "onboard_time": 1743232400,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159852,
       "num": 159852,
       "word": "曹笑天疯了",
@@ -12257,6 +12265,14 @@
       "onboard_time": 1742796022,
       "rank": 35,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 147986,
+      "num": 147986,
+      "word": "IU朴宝剑新剧豆瓣涨至9.5分",
+      "onboard_time": 1743232882,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 147965,
@@ -13939,6 +13955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129461,
+      "num": 129461,
+      "word": "唐嫣新剧一集复活三次",
+      "onboard_time": 1743232882,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129251,
       "num": 230792,
       "word": "王楚钦澳门世界杯见啦",
@@ -13956,7 +13980,7 @@
     },
     {
       "raw_hot": 128932,
-      "num": 128932,
+      "num": 184381,
       "word": "3只搜救犬随队驰援缅甸",
       "onboard_time": 1743231142,
       "rank": 39,
@@ -14875,12 +14899,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120560,
+      "num": 259520,
+      "word": "香港银发族涌向深圳买房养老",
+      "onboard_time": 1743231862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120525,
       "num": 120525,
       "word": "门童同担比自担靠谱",
       "onboard_time": 1743229701,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120524,
+      "num": 120524,
+      "word": "全员加速中2025猎人招募",
+      "onboard_time": 1743233121,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 120506,
@@ -15593,6 +15633,14 @@
       "onboard_time": 1742718201,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112413,
+      "num": 112413,
+      "word": "管乐浪姐有自己的春晚邓超",
+      "onboard_time": 1743232702,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 112401,
@@ -17363,14 +17411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 93994,
-      "num": 93994,
-      "word": "管乐浪姐有自己的春晚邓超",
-      "onboard_time": 1743232702,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93992,
       "num": 398081,
       "word": "德总理被解职",
@@ -17425,6 +17465,14 @@
       "onboard_time": 1743080002,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92947,
+      "num": 92947,
+      "word": "缅甸地震泰国高楼不断出现新裂缝",
+      "onboard_time": 1743233302,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 92874,
@@ -19523,14 +19571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53559,
-      "num": 259520,
-      "word": "香港银发族涌向深圳买房养老",
-      "onboard_time": 1743231862,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53328,
       "num": 200293,
       "word": "对AI的回答要保持质疑",
@@ -19945,6 +19985,14 @@
       "onboard_time": 1743046762,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 45144,
+      "num": 325463,
+      "word": "瑞丽边检闪电疏散旅客",
+      "onboard_time": 1743231862,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45055,
@@ -21945,14 +21993,6 @@
       "onboard_time": 1743099194,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19158,
-      "num": 325463,
-      "word": "瑞丽边检闪电疏散旅客",
-      "onboard_time": 1743231862,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19127,

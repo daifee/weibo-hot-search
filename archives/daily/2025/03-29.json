@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743232889941,
+  "endTime": 1743233750531,
   "band_list": [
     {
       "raw_hot": 4133800,
@@ -9,6 +9,14 @@
       "onboard_time": 1743220402,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2105701,
+      "num": 2105701,
+      "word": "中国政府决定向缅甸提供1亿元",
+      "onboard_time": 1743231862,
+      "rank": 8,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 2017591,
@@ -163,7 +171,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 906516,
+      "raw_hot": 923177,
       "num": 906516,
       "word": "彭小苒房琪起争执",
       "onboard_time": 1743230481,
@@ -211,14 +219,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 668280,
-      "num": 668280,
-      "word": "中国政府决定向缅甸提供1亿元",
-      "onboard_time": 1743231862,
-      "rank": 8,
-      "category": "国内时政,国际时政"
-    },
-    {
       "raw_hot": 659936,
       "num": 659936,
       "word": "缅甸7.9级地震",
@@ -241,6 +241,14 @@
       "onboard_time": 1743215421,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 621404,
+      "num": 520163,
+      "word": "彭小苒 没拍戏",
+      "onboard_time": 1743231382,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 596162,
@@ -273,14 +281,6 @@
       "onboard_time": 1743222023,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 520163,
-      "num": 520163,
-      "word": "彭小苒 没拍戏",
-      "onboard_time": 1743231382,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 515344,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 299558,
-      "num": 259178,
+      "num": 273246,
       "word": "赵一博说交不到朋友不是性格问题",
       "onboard_time": 1743229160,
       "rank": 24,
@@ -521,6 +521,14 @@
       "onboard_time": 1743209420,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 288543,
+      "num": 288543,
+      "word": "Real原导演发声",
+      "onboard_time": 1743232400,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 288243,
@@ -651,6 +659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 205501,
+      "num": 205501,
+      "word": "nctwish 中国",
+      "onboard_time": 1743232942,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204715,
       "num": 204715,
       "word": "王俊凯开口以为是鸡汤没想到是砒霜",
@@ -779,6 +795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 184169,
+      "num": 184169,
+      "word": "女子一次次给骗子送钱一次次失败",
+      "onboard_time": 1743231201,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182944,
       "num": 182944,
       "word": "为什么春天比夏天更容易晒黑",
@@ -817,14 +841,6 @@
       "onboard_time": 1743229101,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178354,
-      "num": 178354,
-      "word": "女子一次次给骗子送钱一次次失败",
-      "onboard_time": 1743231201,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176966,
@@ -963,14 +979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159994,
-      "num": 159994,
-      "word": "Real原导演发声",
-      "onboard_time": 1743232400,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159740,
       "num": 159740,
       "word": "专八答案",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1743221661,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147986,
+      "num": 147986,
+      "word": "IU朴宝剑新剧豆瓣涨至9.5分",
+      "onboard_time": 1743232882,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 146772,
@@ -1259,8 +1275,16 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 129461,
+      "num": 129461,
+      "word": "唐嫣新剧一集复活三次",
+      "onboard_time": 1743232882,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128932,
-      "num": 128932,
+      "num": 184381,
       "word": "3只搜救犬随队驰援缅甸",
       "onboard_time": 1743231142,
       "rank": 39,
@@ -1339,12 +1363,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120560,
+      "num": 259520,
+      "word": "香港银发族涌向深圳买房养老",
+      "onboard_time": 1743231862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120525,
       "num": 120525,
       "word": "门童同担比自担靠谱",
       "onboard_time": 1743229701,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120524,
+      "num": 120524,
+      "word": "全员加速中2025猎人招募",
+      "onboard_time": 1743233121,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 120041,
@@ -1409,6 +1449,14 @@
       "onboard_time": 1743229042,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112413,
+      "num": 112413,
+      "word": "管乐浪姐有自己的春晚邓超",
+      "onboard_time": 1743232702,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 111267,
@@ -1595,12 +1643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93994,
-      "num": 93994,
-      "word": "管乐浪姐有自己的春晚邓超",
-      "onboard_time": 1743232702,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 92947,
+      "num": 92947,
+      "word": "缅甸地震泰国高楼不断出现新裂缝",
+      "onboard_time": 1743233302,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 91658,
@@ -1787,14 +1835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53559,
-      "num": 259520,
-      "word": "香港银发族涌向深圳买房养老",
-      "onboard_time": 1743231862,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52751,
       "num": 52751,
       "word": "雁回时",
@@ -1808,6 +1848,14 @@
       "word": "北大教授的书房要向读者开放了",
       "onboard_time": 1743196034,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45144,
+      "num": 325463,
+      "word": "瑞丽边检闪电疏散旅客",
+      "onboard_time": 1743231862,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2017,14 +2065,6 @@
       "onboard_time": 1743190153,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19158,
-      "num": 325463,
-      "word": "瑞丽边检闪电疏散旅客",
-      "onboard_time": 1743231862,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18610,

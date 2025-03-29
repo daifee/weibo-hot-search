@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743232889941,
+  "endTime": 1743233750531,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1225,6 +1225,14 @@
       "onboard_time": 1742476523,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2105701,
+      "num": 2105701,
+      "word": "中国政府决定向缅甸提供1亿元",
+      "onboard_time": 1743231862,
+      "rank": 8,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 2104944,
@@ -6707,6 +6715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 923177,
+      "num": 906516,
+      "word": "彭小苒房琪起争执",
+      "onboard_time": 1743230481,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 922575,
       "num": 584287,
       "word": "泽连斯基称愿以辞职换乌进北约",
@@ -6872,14 +6888,6 @@
       "word": "韩国举办15岁以下女团选秀",
       "onboard_time": 1741837646,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 906516,
-      "num": 906516,
-      "word": "彭小苒房琪起争执",
-      "onboard_time": 1743230481,
-      "rank": 39,
       "category": "综艺"
     },
     {
@@ -10691,14 +10699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 668280,
-      "num": 668280,
-      "word": "中国政府决定向缅甸提供1亿元",
-      "onboard_time": 1743231862,
-      "rank": 8,
-      "category": "国内时政,国际时政"
-    },
-    {
       "raw_hot": 668172,
       "num": 668172,
       "word": "政协委员冯远征用DeepSeek写剧本",
@@ -11649,6 +11649,14 @@
       "onboard_time": 1741144718,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 621404,
+      "num": 520163,
+      "word": "彭小苒 没拍戏",
+      "onboard_time": 1743231382,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 621306,
@@ -14385,14 +14393,6 @@
       "onboard_time": 1741420282,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 520163,
-      "num": 520163,
-      "word": "彭小苒 没拍戏",
-      "onboard_time": 1743231382,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 519945,
@@ -24588,7 +24588,7 @@
     },
     {
       "raw_hot": 299558,
-      "num": 259178,
+      "num": 273246,
       "word": "赵一博说交不到朋友不是性格问题",
       "onboard_time": 1743229160,
       "rank": 24,
@@ -25489,6 +25489,14 @@
       "onboard_time": 1741516399,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 288543,
+      "num": 288543,
+      "word": "Real原导演发声",
+      "onboard_time": 1743232400,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 288395,
@@ -35555,6 +35563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205501,
+      "num": 205501,
+      "word": "nctwish 中国",
+      "onboard_time": 1743232942,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205499,
       "num": 205499,
       "word": "王一博探索新境裸上身",
@@ -41811,6 +41827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184169,
+      "num": 184169,
+      "word": "女子一次次给骗子送钱一次次失败",
+      "onboard_time": 1743231201,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184091,
       "num": 343844,
       "word": "马斯克宣布向特朗普团队再捐1亿美元",
@@ -43241,14 +43265,6 @@
       "onboard_time": 1742946741,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178354,
-      "num": 178354,
-      "word": "女子一次次给骗子送钱一次次失败",
-      "onboard_time": 1743231201,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178336,
@@ -48563,14 +48579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159994,
-      "num": 159994,
-      "word": "Real原导演发声",
-      "onboard_time": 1743232400,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159974,
       "num": 250464,
       "word": "Manus为何一夜爆火",
@@ -52777,6 +52785,14 @@
       "onboard_time": 1742351841,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147986,
+      "num": 147986,
+      "word": "IU朴宝剑新剧豆瓣涨至9.5分",
+      "onboard_time": 1743232882,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 147965,
@@ -59467,6 +59483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129461,
+      "num": 129461,
+      "word": "唐嫣新剧一集复活三次",
+      "onboard_time": 1743232882,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129459,
       "num": 234105,
       "word": "十四届全国人大三次会议第二次全体会议",
@@ -59644,7 +59668,7 @@
     },
     {
       "raw_hot": 128932,
-      "num": 128932,
+      "num": 184381,
       "word": "3只搜救犬随队驰援缅甸",
       "onboard_time": 1743231142,
       "rank": 39,
@@ -63251,6 +63275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120560,
+      "num": 259520,
+      "word": "香港银发族涌向深圳买房养老",
+      "onboard_time": 1743231862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120549,
       "num": 120549,
       "word": "LESSERAFIM回归成绩",
@@ -63265,6 +63297,14 @@
       "onboard_time": 1743229701,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120524,
+      "num": 120524,
+      "word": "全员加速中2025猎人招募",
+      "onboard_time": 1743233121,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 120506,
@@ -66089,6 +66129,14 @@
       "onboard_time": 1741320384,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112413,
+      "num": 112413,
+      "word": "管乐浪姐有自己的春晚邓超",
+      "onboard_time": 1743232702,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 112404,
@@ -72507,14 +72555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93994,
-      "num": 93994,
-      "word": "管乐浪姐有自己的春晚邓超",
-      "onboard_time": 1743232702,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93992,
       "num": 398081,
       "word": "德总理被解职",
@@ -72753,6 +72793,14 @@
       "onboard_time": 1741791686,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 92947,
+      "num": 92947,
+      "word": "缅甸地震泰国高楼不断出现新裂缝",
+      "onboard_time": 1743233302,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 92939,
@@ -81347,14 +81395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53559,
-      "num": 259520,
-      "word": "香港银发族涌向深圳买房养老",
-      "onboard_time": 1743231862,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53532,
       "num": 141208,
       "word": "Crew10任务飞船成功接驳国际空间站",
@@ -83352,6 +83392,14 @@
       "word": "汉马赛道起点全是樱花",
       "onboard_time": 1742533581,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45144,
+      "num": 325463,
+      "word": "瑞丽边检闪电疏散旅客",
+      "onboard_time": 1743231862,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -91241,14 +91289,6 @@
       "onboard_time": 1743099194,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19158,
-      "num": 325463,
-      "word": "瑞丽边检闪电疏散旅客",
-      "onboard_time": 1743231862,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19134,

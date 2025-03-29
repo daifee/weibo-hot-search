@@ -1,0 +1,410 @@
+{
+  "runTime": 1743233750531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2105701,
+        "num": 2105701,
+        "word": "中国政府决定向缅甸提供1亿元",
+        "onboard_time": 1743231862,
+        "rank": 0,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 1343224,
+        "num": 1343224,
+        "word": "事业编 开除小王",
+        "onboard_time": 1743225203,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23948,
+        "num": 1158126,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 982776,
+        "num": 982776,
+        "word": "叶童三公 跳楼机",
+        "onboard_time": 1743230602,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 828718,
+        "num": 828718,
+        "word": "胖东来店长平均月薪78058元",
+        "onboard_time": 1743225382,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 946715,
+        "num": 827487,
+        "word": "面筋哥去世",
+        "onboard_time": 1743220402,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 923177,
+        "num": 810105,
+        "word": "彭小苒房琪起争执",
+        "onboard_time": 1743230481,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 782417,
+        "num": 782417,
+        "word": "荷兰警方发现中国留学生罗生门遗体",
+        "onboard_time": 1743226281,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 721738,
+        "num": 721738,
+        "word": "缅甸地震致1002死2376伤",
+        "onboard_time": 1743224842,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 525601,
+        "num": 525601,
+        "word": "乐事薯片被曝含致癌添加剂",
+        "onboard_time": 1743205938,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 474405,
+        "num": 474405,
+        "word": "哪吒2冲TOP4",
+        "onboard_time": 1743223401,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 621404,
+        "num": 459867,
+        "word": "彭小苒 没拍戏",
+        "onboard_time": 1743231382,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401412,
+        "num": 401412,
+        "word": "门童成员发文",
+        "onboard_time": 1743203959,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 391814,
+        "num": 391814,
+        "word": "2岁女孩走失38年已成残疾单身妈妈",
+        "onboard_time": 1743227721,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288543,
+        "num": 288543,
+        "word": "Real原导演发声",
+        "onboard_time": 1743232400,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273246,
+        "num": 273246,
+        "word": "赵一博说交不到朋友不是性格问题",
+        "onboard_time": 1743229160,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266678,
+        "num": 266678,
+        "word": "刘耀文腹肌",
+        "onboard_time": 1743227841,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240013,
+        "num": 240013,
+        "word": "胖东来基层员工平均月薪9886元",
+        "onboard_time": 1743219860,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217323,
+        "num": 217323,
+        "word": "事业编",
+        "onboard_time": 1743221961,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 57867,
+        "num": 212786,
+        "word": "辛选主播蛋蛋这次火到韩国了",
+        "onboard_time": 1743230481,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 261464,
+        "num": 212440,
+        "word": "王一博轮胎离地起飞",
+        "onboard_time": 1743222504,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 210969,
+        "num": 210969,
+        "word": "色狼拍空姐她拍色狼",
+        "onboard_time": 1743218239,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 205501,
+        "num": 205501,
+        "word": "nctwish 中国",
+        "onboard_time": 1743232942,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196428,
+        "num": 196428,
+        "word": "男子长期被妻子责骂偷住邻居家被抓",
+        "onboard_time": 1743226882,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45144,
+        "num": 185077,
+        "word": "瑞丽边检闪电疏散旅客",
+        "onboard_time": 1743231862,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104755,
+        "num": 184381,
+        "word": "3只搜救犬随队驰援缅甸",
+        "onboard_time": 1743231142,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 184169,
+        "num": 184169,
+        "word": "女子一次次给骗子送钱一次次失败",
+        "onboard_time": 1743231201,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170006,
+        "num": 170006,
+        "word": "李晟住过300元一个月的地下室",
+        "onboard_time": 1743223103,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120560,
+        "num": 159025,
+        "word": "香港银发族涌向深圳买房养老",
+        "onboard_time": 1743231862,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153753,
+        "num": 153753,
+        "word": "中国救援队赴缅实施国际救援",
+        "onboard_time": 1743223462,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148632,
+        "num": 148632,
+        "word": "王大陆当兵表现良好放假",
+        "onboard_time": 1743228201,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147986,
+        "num": 147986,
+        "word": "IU朴宝剑新剧豆瓣涨至9.5分",
+        "onboard_time": 1743232882,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140763,
+        "num": 140763,
+        "word": "金明脸上毛细血管破裂",
+        "onboard_time": 1743222023,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136502,
+        "num": 136502,
+        "word": "王一博85号竹叶青蛇再次出征",
+        "onboard_time": 1743232340,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 129461,
+        "num": 129461,
+        "word": "唐嫣新剧一集复活三次",
+        "onboard_time": 1743232882,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120524,
+        "num": 120524,
+        "word": "全员加速中2025猎人招募",
+        "onboard_time": 1743233121,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100789,
+        "num": 119233,
+        "word": "曹贵人扮演者回应卖假包",
+        "onboard_time": 1743227482,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118387,
+        "num": 118387,
+        "word": "王者荣耀补偿力度",
+        "onboard_time": 1743213500,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113874,
+        "num": 113874,
+        "word": "缅甸地震",
+        "onboard_time": 1743231621,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112413,
+        "num": 112413,
+        "word": "管乐浪姐有自己的春晚邓超",
+        "onboard_time": 1743232702,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112341,
+        "num": 112341,
+        "word": "王安宇穿拖鞋长沙录新综",
+        "onboard_time": 1743231983,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111484,
+        "num": 111484,
+        "word": "清明五一档电影超20部",
+        "onboard_time": 1743219561,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103525,
+        "num": 103525,
+        "word": "地震时护士用身体护住宝宝",
+        "onboard_time": 1743215421,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 101392,
+        "num": 101392,
+        "word": "辛云来想带陈都灵一起来桃花坞",
+        "onboard_time": 1743230841,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97990,
+        "num": 97990,
+        "word": "地震后缅甸人大都在马路上过夜",
+        "onboard_time": 1743228321,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 92947,
+        "num": 92947,
+        "word": "缅甸地震泰国高楼不断出现新裂缝",
+        "onboard_time": 1743233302,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89840,
+        "num": 89840,
+        "word": "王宝强说拍棋士每天心里憋着火",
+        "onboard_time": 1743231382,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85354,
+        "num": 85354,
+        "word": "职测答案",
+        "onboard_time": 1743229160,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 82439,
+        "num": 85200,
+        "word": "詹姆斯愿降薪助湖人补强",
+        "onboard_time": 1743229042,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45586,
+        "num": 85079,
+        "word": "光与夜之恋",
+        "onboard_time": 1743227362,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#与中国同行就是与机遇同行#"
+    }
+  }
+}
