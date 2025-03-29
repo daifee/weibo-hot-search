@@ -1,10 +1,10 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743212936648,
+  "endTime": 1743214231522,
   "band_list": [
     {
       "raw_hot": 2017591,
-      "num": 711007,
+      "num": 808330,
       "word": "乐事薯片被曝含致癌添加剂",
       "onboard_time": 1743205938,
       "rank": 3,
@@ -19,20 +19,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 1070736,
-      "num": 1171317,
-      "word": "美国网红甲亢哥没想到来真的",
-      "onboard_time": 1743205639,
-      "rank": 0,
-      "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 1059610,
+      "raw_hot": 1167442,
       "num": 311132,
       "word": "赵露思脑雾反应",
       "onboard_time": 1743210320,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1147601,
+      "num": 1183616,
+      "word": "美国网红甲亢哥没想到来真的",
+      "onboard_time": 1743205639,
+      "rank": 0,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1058414,
@@ -41,6 +41,14 @@
       "onboard_time": 1743168083,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1030897,
+      "num": 1030897,
+      "word": "缅甸地震相当于上千个原子弹爆炸",
+      "onboard_time": 1743209841,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 973502,
@@ -59,20 +67,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 800705,
+      "num": 309751,
+      "word": "门童成员发文",
+      "onboard_time": 1743203959,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 791110,
       "num": 424885,
       "word": "妻子举报丈夫出轨上海一财政局副科长",
       "onboard_time": 1743172824,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 757274,
-      "num": 309751,
-      "word": "门童成员发文",
-      "onboard_time": 1743203959,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 733991,
@@ -137,14 +145,6 @@
       "onboard_time": 1743172944,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 469517,
-      "num": 469517,
-      "word": "缅甸地震相当于上千个原子弹爆炸",
-      "onboard_time": 1743209841,
-      "rank": 7,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 424710,
@@ -235,20 +235,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298989,
+      "num": 298989,
+      "word": "王者荣耀",
+      "onboard_time": 1743209420,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 273309,
       "num": 273309,
       "word": "发现大爷贴小广告卖猫片差点报警",
       "onboard_time": 1743206779,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 270323,
-      "num": 270323,
-      "word": "王者荣耀",
-      "onboard_time": 1743209420,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 265208,
@@ -265,6 +265,14 @@
       "onboard_time": 1743173364,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245904,
+      "num": 309057,
+      "word": "缅甸余震最高震级为7.5级",
+      "onboard_time": 1743210440,
+      "rank": 12,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 238339,
@@ -291,6 +299,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 217549,
+      "num": 217549,
+      "word": "王者荣耀补偿力度",
+      "onboard_time": 1743213500,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209072,
       "num": 209072,
       "word": "中方愿尽己所能向缅方提供救援支持",
@@ -299,12 +315,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 204521,
+      "num": 204521,
+      "word": "伊能静想知道孟子义李昀锐在一起了没",
+      "onboard_time": 1743211461,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199099,
       "num": 199099,
       "word": "曼谷一起重机受震下坠砸中高速路",
       "onboard_time": 1743209961,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 191458,
+      "num": 222837,
+      "word": "IU演技",
+      "onboard_time": 1743213261,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 191190,
@@ -363,6 +395,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 172625,
+      "num": 172625,
+      "word": "Doinb开团RNG",
+      "onboard_time": 1743213560,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 171807,
+      "num": 171807,
+      "word": "爱奇艺官博删了楠丁格尔先生官宣博",
+      "onboard_time": 1743213382,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170578,
       "num": 170578,
       "word": "缅甸华人称今晚扛垫子睡路边",
@@ -387,14 +435,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 164533,
-      "num": 164533,
-      "word": "伊能静想知道孟子义李昀锐在一起了没",
-      "onboard_time": 1743211461,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164531,
       "num": 164531,
       "word": "雁回时21集封神",
@@ -403,8 +443,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161371,
-      "num": 161371,
+      "raw_hot": 162454,
+      "num": 162454,
+      "word": "曹贵人扮演者被网友质疑卖假包",
+      "onboard_time": 1743212061,
+      "rank": 41,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 161471,
+      "num": 161471,
       "word": "曼谷倒塌高楼有117人失踪",
       "onboard_time": 1743210201,
       "rank": 32,
@@ -515,6 +563,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 125098,
+      "num": 125098,
+      "word": "缅甸强震已致曼谷10人遇难",
+      "onboard_time": 1743213861,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 121237,
       "num": 172901,
       "word": "李晟在新还珠前跑了十年龙套",
@@ -531,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114197,
-      "num": 309057,
-      "word": "缅甸余震最高震级为7.5级",
-      "onboard_time": 1743210440,
-      "rank": 12,
-      "category": "突发/灾害"
+      "raw_hot": 114517,
+      "num": 127574,
+      "word": "韩国山火复燃",
+      "onboard_time": 1743204199,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 113646,
@@ -579,28 +635,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107728,
-      "num": 107728,
-      "word": "曹贵人扮演者被网友质疑卖假包",
-      "onboard_time": 1743212061,
-      "rank": 41,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 107423,
       "num": 107423,
       "word": "武汉文旅能帮忙把樱花粘回去吗",
       "onboard_time": 1743208400,
       "rank": 42,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 107132,
-      "num": 127574,
-      "word": "韩国山火复燃",
-      "onboard_time": 1743204199,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 106984,
@@ -633,6 +673,14 @@
       "onboard_time": 1743205039,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98747,
+      "num": 98747,
+      "word": "俄网坛女将转籍澳大利亚",
+      "onboard_time": 1743213382,
+      "rank": 48,
+      "category": "体育,国际时政"
     },
     {
       "raw_hot": 97731,
@@ -689,6 +737,14 @@
       "onboard_time": 1743148883,
       "rank": 46,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 86207,
+      "num": 166908,
+      "word": "在泰读研女生以为地震头晕是低血糖",
+      "onboard_time": 1743214040,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84250,

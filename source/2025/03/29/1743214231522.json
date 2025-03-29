@@ -1,0 +1,410 @@
+{
+  "runTime": 1743214231522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1147601,
+        "num": 1183616,
+        "word": "美国网红甲亢哥没想到来真的",
+        "onboard_time": 1743205639,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1030897,
+        "num": 1030897,
+        "word": "缅甸地震相当于上千个原子弹爆炸",
+        "onboard_time": 1743209841,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77215,
+        "num": 832369,
+        "word": "这样的西藏你见过吗",
+        "onboard_time": 1743171444,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1721432,
+        "num": 808330,
+        "word": "乐事薯片被曝含致癌添加剂",
+        "onboard_time": 1743205938,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 666247,
+        "num": 666247,
+        "word": "央妈发了6条王蓉",
+        "onboard_time": 1743175583,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577539,
+        "num": 577539,
+        "word": "林生斌请求依法追究宋祖德刑责",
+        "onboard_time": 1743210201,
+        "rank": 5,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 435073,
+        "num": 435073,
+        "word": "庄语迟 假死",
+        "onboard_time": 1743207740,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391995,
+        "num": 391995,
+        "word": "缅甸7.9级地震",
+        "onboard_time": 1743143600,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 316251,
+        "num": 316251,
+        "word": "中国云南救援医疗队包机赶赴缅甸震区",
+        "onboard_time": 1743205039,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 298989,
+        "num": 298989,
+        "word": "王者荣耀",
+        "onboard_time": 1743209420,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1167442,
+        "num": 297500,
+        "word": "赵露思脑雾反应",
+        "onboard_time": 1743210320,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 800705,
+        "num": 290152,
+        "word": "门童成员发文",
+        "onboard_time": 1743203959,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 528095,
+        "num": 287356,
+        "word": "2岁男童吃奶酪棒卡喉身亡",
+        "onboard_time": 1743206720,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334234,
+        "num": 282035,
+        "word": "妻子举报丈夫出轨上海一财政局副科长",
+        "onboard_time": 1743172824,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280757,
+        "num": 280757,
+        "word": "亲姐妹借腹生子反悔起诉争抚养权",
+        "onboard_time": 1743173123,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245947,
+        "num": 245947,
+        "word": "李嘉诚4公司市值蒸发超781亿",
+        "onboard_time": 1743176361,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245904,
+        "num": 245904,
+        "word": "缅甸余震最高震级为7.5级",
+        "onboard_time": 1743210440,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 236139,
+        "num": 236139,
+        "word": "门童曼谷场取消",
+        "onboard_time": 1743156621,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228194,
+        "num": 228194,
+        "word": "发现大爷贴小广告卖猫片差点报警",
+        "onboard_time": 1743206779,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191458,
+        "num": 222837,
+        "word": "IU演技",
+        "onboard_time": 1743213261,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361356,
+        "num": 221715,
+        "word": "医生说少吃水果能少生很多病",
+        "onboard_time": 1743169227,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217549,
+        "num": 217549,
+        "word": "王者荣耀补偿力度",
+        "onboard_time": 1743213500,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215941,
+        "num": 215941,
+        "word": "金秀贤让高二的金赛纶别回家",
+        "onboard_time": 1743209360,
+        "rank": 22,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 204521,
+        "num": 204521,
+        "word": "伊能静想知道孟子义李昀锐在一起了没",
+        "onboard_time": 1743211461,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172625,
+        "num": 172625,
+        "word": "Doinb开团RNG",
+        "onboard_time": 1743213560,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171807,
+        "num": 171807,
+        "word": "爱奇艺官博删了楠丁格尔先生官宣博",
+        "onboard_time": 1743213382,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86207,
+        "num": 166908,
+        "word": "在泰读研女生以为地震头晕是低血糖",
+        "onboard_time": 1743214040,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166887,
+        "num": 166887,
+        "word": "气温为啥这么癫",
+        "onboard_time": 1743192854,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159124,
+        "num": 165819,
+        "word": "麦琳两个月暴瘦20斤",
+        "onboard_time": 1743178162,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141813,
+        "num": 165298,
+        "word": "王蓉后空翻被剪",
+        "onboard_time": 1743173364,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164960,
+        "num": 164960,
+        "word": "曼谷一起重机受震下坠砸中高速路",
+        "onboard_time": 1743209961,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163720,
+        "num": 163720,
+        "word": "直播时遇地震泰国女演员当场吓哭",
+        "onboard_time": 1743210800,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162454,
+        "num": 162454,
+        "word": "曹贵人扮演者被网友质疑卖假包",
+        "onboard_time": 1743212061,
+        "rank": 32,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 161471,
+        "num": 161471,
+        "word": "曼谷倒塌高楼有117人失踪",
+        "onboard_time": 1743210201,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 125677,
+        "num": 142946,
+        "word": "侯佩岑说老命也是一条命",
+        "onboard_time": 1743210320,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132893,
+        "num": 132893,
+        "word": "乐事薯片回应网传含致癌添加剂",
+        "onboard_time": 1743208881,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132640,
+        "num": 132640,
+        "word": "中国一37人医疗队赴缅震区",
+        "onboard_time": 1743203777,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130793,
+        "num": 130793,
+        "word": "高校教师被曝出轨学生被停职调查",
+        "onboard_time": 1743169884,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125164,
+        "num": 125164,
+        "word": "缅甸地震已致144人遇难",
+        "onboard_time": 1743170425,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 125098,
+        "num": 125098,
+        "word": "缅甸强震已致曼谷10人遇难",
+        "onboard_time": 1743213861,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 123018,
+        "num": 123018,
+        "word": "计算机二级",
+        "onboard_time": 1743211941,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117481,
+        "num": 117481,
+        "word": "中方愿尽己所能向缅方提供救援支持",
+        "onboard_time": 1743206060,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116523,
+        "num": 116523,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1743168083,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114517,
+        "num": 114517,
+        "word": "韩国山火复燃",
+        "onboard_time": 1743204199,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112060,
+        "num": 112060,
+        "word": "金秀贤撒谎说替身不在",
+        "onboard_time": 1743208041,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111739,
+        "num": 111739,
+        "word": "李晟在新还珠前跑了十年龙套",
+        "onboard_time": 1743207920,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111600,
+        "num": 111600,
+        "word": "陈德容",
+        "onboard_time": 1743165022,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110409,
+        "num": 110409,
+        "word": "赵露思综艺",
+        "onboard_time": 1743173663,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98747,
+        "num": 98747,
+        "word": "俄网坛女将转籍澳大利亚",
+        "onboard_time": 1743213382,
+        "rank": 48,
+        "category": "体育,国际时政"
+      },
+      {
+        "raw_hot": 98112,
+        "num": 98112,
+        "word": "王一博练习赛plog",
+        "onboard_time": 1743211161,
+        "rank": 49,
+        "category": "艺人,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见孟加拉国临时政府首席顾问尤努斯#"
+    }
+  }
+}
