@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743220046067,
+  "endTime": 1743222566871,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1737857357,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4133800,
+      "num": 4133800,
+      "word": "面筋哥去世",
+      "onboard_time": 1743220402,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 4127605,
@@ -2392,14 +2400,6 @@
       "word": "所以呢 不是钱吗",
       "onboard_time": 1738974861,
       "rank": 0,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 2783311,
-      "num": 2783311,
-      "word": "贾玲 你的强回来了",
-      "onboard_time": 1737686297,
-      "rank": 18,
       "category": "电影"
     }
   ],

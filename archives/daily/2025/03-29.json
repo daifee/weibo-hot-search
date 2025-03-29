@@ -1,7 +1,15 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743220046067,
+  "endTime": 1743222566871,
   "band_list": [
+    {
+      "raw_hot": 4133800,
+      "num": 4133800,
+      "word": "面筋哥去世",
+      "onboard_time": 1743220402,
+      "rank": 0,
+      "category": "网红"
+    },
     {
       "raw_hot": 2017591,
       "num": 993148,
@@ -75,7 +83,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 994831,
+      "raw_hot": 1036840,
       "num": 618557,
       "word": "门童成员发文",
       "onboard_time": 1743203959,
@@ -147,6 +155,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 613671,
+      "num": 613671,
+      "word": "事业编",
+      "onboard_time": 1743221961,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 596162,
       "num": 596162,
       "word": "李嘉诚4公司市值蒸发超781亿",
@@ -168,6 +184,14 @@
       "word": "2岁男童吃奶酪棒卡喉身亡",
       "onboard_time": 1743206720,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557005,
+      "num": 557005,
+      "word": "胖东来基层员工平均月薪9886元",
+      "onboard_time": 1743219860,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -243,6 +267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 370086,
+      "num": 573174,
+      "word": "清明五一档电影超20部",
+      "onboard_time": 1743219561,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 369696,
       "num": 369696,
       "word": "缅甸地震已致144人遇难",
@@ -273,6 +305,14 @@
       "onboard_time": 1743165022,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330422,
+      "num": 636723,
+      "word": "缅甸一大楼倒塌4楼以下全被埋",
+      "onboard_time": 1743218481,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 324248,
@@ -323,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303183,
+      "num": 303183,
+      "word": "光与夜之恋",
+      "onboard_time": 1743221961,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298989,
       "num": 298989,
       "word": "王者荣耀",
@@ -355,20 +403,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 264400,
-      "num": 573174,
-      "word": "清明五一档电影超20部",
-      "onboard_time": 1743219561,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 261419,
       "num": 261419,
       "word": "男子吃烧烤签子投反扎进好友大腿",
       "onboard_time": 1743216621,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250843,
+      "num": 250843,
+      "word": "金明脸上毛细血管破裂",
+      "onboard_time": 1743222023,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 250345,
@@ -403,6 +451,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233204,
+      "num": 233204,
+      "word": "王一博轮胎离地起飞",
+      "onboard_time": 1743222504,
+      "rank": 27,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 214828,
+      "num": 214828,
+      "word": "北京高校老师把花粉过敏孩子送三亚",
+      "onboard_time": 1743218600,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209072,
       "num": 209072,
       "word": "中方愿尽己所能向缅方提供救援支持",
@@ -411,12 +475,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 200960,
-      "num": 200960,
-      "word": "北京高校老师把花粉过敏孩子送三亚",
-      "onboard_time": 1743218600,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 205956,
+      "num": 205956,
+      "word": "我和英专离婚了",
+      "onboard_time": 1743220102,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 200537,
@@ -443,20 +507,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 197323,
+      "num": 197323,
+      "word": "红果果回应没去浪姐",
+      "onboard_time": 1743219621,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193594,
+      "num": 222990,
+      "word": "无限超越班开播",
+      "onboard_time": 1743221542,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191190,
       "num": 191190,
       "word": "唧唧的猫",
       "onboard_time": 1743176661,
       "rank": 24,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 188109,
-      "num": 636723,
-      "word": "缅甸一大楼倒塌4楼以下全被埋",
-      "onboard_time": 1743218481,
-      "rank": 23,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 187371,
@@ -675,12 +747,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149650,
-      "num": 149650,
-      "word": "红果果回应没去浪姐",
-      "onboard_time": 1743219621,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 150999,
+      "num": 150999,
+      "word": "厦门曙光救援队驰援缅甸震区",
+      "onboard_time": 1743222383,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148897,
@@ -707,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143456,
+      "num": 143456,
+      "word": "Sask力挺Uzi",
+      "onboard_time": 1743222023,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143165,
       "num": 143165,
       "word": "缅甸地震云南建筑晃动扬起巨大灰尘",
@@ -729,6 +809,14 @@
       "onboard_time": 1743177923,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137654,
+      "num": 137654,
+      "word": "灵笼2从小孩桌到大人桌",
+      "onboard_time": 1743221120,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 135408,
@@ -771,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129692,
+      "num": 597837,
+      "word": "甲亢哥给国外年轻人开了全景天窗",
+      "onboard_time": 1743219320,
+      "rank": 35,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 128284,
       "num": 128284,
       "word": "管乐挟持老年人要挟观众投票",
@@ -795,11 +891,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122615,
+      "num": 550698,
+      "word": "潘展乐新身份曝光",
+      "onboard_time": 1743219379,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121237,
       "num": 172901,
       "word": "李晟在新还珠前跑了十年龙套",
       "onboard_time": 1743207920,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121086,
+      "num": 121086,
+      "word": "父母相爱就是最好的家庭教育",
+      "onboard_time": 1743222023,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -811,19 +923,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119106,
-      "num": 550698,
-      "word": "潘展乐新身份曝光",
-      "onboard_time": 1743219379,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 118033,
+      "num": 118033,
+      "word": "新老员工的区别一下就体现出来了",
+      "onboard_time": 1743222443,
+      "rank": 48,
+      "category": "幽默"
     },
     {
-      "raw_hot": 118047,
-      "num": 118047,
-      "word": "胖东来基层员工平均月薪9886元",
-      "onboard_time": 1743219860,
-      "rank": 44,
+      "raw_hot": 116888,
+      "num": 116888,
+      "word": "河北一公交公司取消老年人免费乘车",
+      "onboard_time": 1743222264,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -931,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99437,
+      "num": 393395,
+      "word": "女子回应找23年未联系侄女还两套房",
+      "onboard_time": 1743221661,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99037,
       "num": 99037,
       "word": "拍特朗普遇刺照记者被禁止进入白宫",
@@ -960,6 +1080,14 @@
       "word": "五月天成军日",
       "onboard_time": 1743211702,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97371,
+      "num": 352766,
+      "word": "徐冬冬尹子维情侣装同框",
+      "onboard_time": 1743220640,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1009,14 +1137,6 @@
       "onboard_time": 1743179360,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 78534,
-      "num": 597837,
-      "word": "甲亢哥给国外年轻人开了全景天窗",
-      "onboard_time": 1743219320,
-      "rank": 35,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 77014,
@@ -1115,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50501,
+      "num": 553523,
+      "word": "美国拖欠WTO会费2570万美元",
+      "onboard_time": 1743221601,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 50160,
       "num": 50160,
       "word": "北大教授的书房要向读者开放了",
@@ -1163,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39529,
+      "num": 346229,
+      "word": "专家解读曼谷像素大楼震时明显晃动",
+      "onboard_time": 1743221661,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39089,
       "num": 40725,
       "word": "周深获年度品质金声",
@@ -1193,6 +1329,14 @@
       "onboard_time": 1743188355,
       "rank": 13,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 27655,
+      "num": 825719,
+      "word": "2025中国网络媒体论坛",
+      "onboard_time": 1743221722,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27521,
@@ -1337,6 +1481,9 @@
     },
     {
       "word": "#习近平会见国际工商界代表#"
+    },
+    {
+      "word": "#与中国同行就是与机遇同行#"
     }
   ]
 }
