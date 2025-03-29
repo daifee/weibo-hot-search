@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743273808335,
+  "endTime": 1743276007761,
   "band_list": [
     {
       "raw_hot": 1925246,
@@ -411,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85222,
+      "num": 108123,
+      "word": "苹果首席工程师孔龙自美归国",
+      "onboard_time": 1743272296,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 84347,
       "num": 84347,
       "word": "能不能加rap周杰伦还不知道吗",
@@ -457,14 +465,6 @@
       "onboard_time": 1743256823,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74125,
-      "num": 108123,
-      "word": "苹果首席工程师孔龙自美归国",
-      "onboard_time": 1743272296,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 65866,
@@ -531,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28188,
+      "num": 30706,
+      "word": "12306上真的可以免费换火车票",
+      "onboard_time": 1743273495,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28018,
       "num": 28018,
       "word": "鹭卓 你最懂我失落",
@@ -539,20 +547,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20120,
-      "num": 30706,
-      "word": "12306上真的可以免费换火车票",
-      "onboard_time": 1743273495,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16987,
-      "num": 30750,
+      "raw_hot": 24819,
+      "num": 48634,
       "word": "美副总统抵达格陵兰吐槽天气飙脏话",
       "onboard_time": 1743273556,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21798,
+      "num": 24658,
+      "word": "周深风吹过的晨曦首唱舞台",
+      "onboard_time": 1743275594,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 21578,
+      "num": 24656,
+      "word": "虞书欣国王收官18宫格",
+      "onboard_time": 1743274694,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 12872,
+      "num": 28184,
+      "word": "缅甸大地震威力有多大",
+      "onboard_time": 1743275895,
+      "rank": 34,
+      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [
