@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743222566871,
+  "endTime": 1743223467355,
   "band_list": [
     {
       "raw_hot": 4133800,
@@ -25,6 +25,14 @@
       "onboard_time": 1743218301,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1484333,
+      "num": 1484333,
+      "word": "事业编",
+      "onboard_time": 1743221961,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 1473239,
@@ -155,14 +163,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 613671,
-      "num": 613671,
-      "word": "事业编",
-      "onboard_time": 1743221961,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 596162,
       "num": 596162,
       "word": "李嘉诚4公司市值蒸发超781亿",
@@ -187,8 +187,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 557005,
-      "num": 557005,
+      "raw_hot": 581757,
+      "num": 581757,
       "word": "胖东来基层员工平均月薪9886元",
       "onboard_time": 1743219860,
       "rank": 44,
@@ -241,6 +241,14 @@
       "onboard_time": 1743159622,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409286,
+      "num": 336738,
+      "word": "金明脸上毛细血管破裂",
+      "onboard_time": 1743222023,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 400194,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331307,
+      "num": 316224,
+      "word": "王一博轮胎离地起飞",
+      "onboard_time": 1743222504,
+      "rank": 27,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 330422,
       "num": 636723,
       "word": "缅甸一大楼倒塌4楼以下全被埋",
@@ -363,8 +379,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303183,
-      "num": 303183,
+      "raw_hot": 303785,
+      "num": 303785,
       "word": "光与夜之恋",
       "onboard_time": 1743221961,
       "rank": 23,
@@ -377,6 +393,14 @@
       "onboard_time": 1743209420,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 280473,
+      "num": 280473,
+      "word": "哪吒2冲TOP4",
+      "onboard_time": 1743223401,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 273309,
@@ -411,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250843,
-      "num": 250843,
-      "word": "金明脸上毛细血管破裂",
-      "onboard_time": 1743222023,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 260264,
+      "num": 280767,
+      "word": "厦门曙光救援队驰援缅甸震区",
+      "onboard_time": 1743222383,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250345,
@@ -451,16 +475,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233204,
-      "num": 233204,
-      "word": "王一博轮胎离地起飞",
-      "onboard_time": 1743222504,
-      "rank": 27,
-      "category": "艺人,体育"
+      "raw_hot": 224320,
+      "num": 224320,
+      "word": "无限超越班开播",
+      "onboard_time": 1743221542,
+      "rank": 29,
+      "category": "综艺"
     },
     {
-      "raw_hot": 214828,
-      "num": 214828,
+      "raw_hot": 218983,
+      "num": 218983,
       "word": "北京高校老师把花粉过敏孩子送三亚",
       "onboard_time": 1743218600,
       "rank": 31,
@@ -475,8 +499,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 205956,
-      "num": 205956,
+      "raw_hot": 207603,
+      "num": 207603,
       "word": "我和英专离婚了",
       "onboard_time": 1743220102,
       "rank": 33,
@@ -515,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193594,
-      "num": 222990,
-      "word": "无限超越班开播",
-      "onboard_time": 1743221542,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191190,
       "num": 191190,
       "word": "唧唧的猫",
@@ -537,6 +553,14 @@
       "onboard_time": 1743192854,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185688,
+      "num": 185688,
+      "word": "李晟住过300元一个月的地下室",
+      "onboard_time": 1743223103,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 182944,
@@ -715,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156829,
+      "num": 156829,
+      "word": "河北一公交公司取消老年人免费乘车",
+      "onboard_time": 1743222264,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156737,
       "num": 156737,
       "word": "10秒开启微信地震预警",
@@ -747,20 +779,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150999,
-      "num": 150999,
-      "word": "厦门曙光救援队驰援缅甸震区",
-      "onboard_time": 1743222383,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148897,
       "num": 173123,
       "word": "侯佩岑说老命也是一条命",
       "onboard_time": 1743210320,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148770,
+      "num": 393395,
+      "word": "女子回应找23年未联系侄女还两套房",
+      "onboard_time": 1743221661,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146398,
@@ -817,6 +849,14 @@
       "onboard_time": 1743221120,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 135887,
+      "num": 135887,
+      "word": "唐嫣姬谭音反套路神女",
+      "onboard_time": 1743222922,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 135408,
@@ -891,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123441,
+      "num": 123441,
+      "word": "父母相爱就是最好的家庭教育",
+      "onboard_time": 1743222023,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122615,
       "num": 550698,
       "word": "潘展乐新身份曝光",
@@ -904,14 +952,6 @@
       "word": "李晟在新还珠前跑了十年龙套",
       "onboard_time": 1743207920,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 121086,
-      "num": 121086,
-      "word": "父母相爱就是最好的家庭教育",
-      "onboard_time": 1743222023,
-      "rank": 47,
       "category": "综艺"
     },
     {
@@ -931,20 +971,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116888,
-      "num": 116888,
-      "word": "河北一公交公司取消老年人免费乘车",
-      "onboard_time": 1743222264,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114517,
       "num": 127574,
       "word": "韩国山火复燃",
       "onboard_time": 1743204199,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 113978,
+      "num": 553523,
+      "word": "美国拖欠WTO会费2570万美元",
+      "onboard_time": 1743221601,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113688,
@@ -1003,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108160,
+      "num": 352766,
+      "word": "徐冬冬尹子维情侣装同框",
+      "onboard_time": 1743220640,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107423,
       "num": 107423,
       "word": "武汉文旅能帮忙把樱花粘回去吗",
@@ -1027,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104875,
+      "num": 346229,
+      "word": "专家解读曼谷像素大楼震时明显晃动",
+      "onboard_time": 1743221661,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103866,
       "num": 103866,
       "word": "王一博练习赛plog",
@@ -1041,14 +1097,6 @@
       "onboard_time": 1743158062,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99437,
-      "num": 393395,
-      "word": "女子回应找23年未联系侄女还两套房",
-      "onboard_time": 1743221661,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99037,
@@ -1080,14 +1128,6 @@
       "word": "五月天成军日",
       "onboard_time": 1743211702,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 97371,
-      "num": 352766,
-      "word": "徐冬冬尹子维情侣装同框",
-      "onboard_time": 1743220640,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1195,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61431,
+      "num": 157204,
+      "word": "费启鸣镜头下的老烟",
+      "onboard_time": 1743222922,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59162,
       "num": 59162,
       "word": "惊蛰无声阵容",
@@ -1233,14 +1281,6 @@
       "onboard_time": 1743157101,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 50501,
-      "num": 553523,
-      "word": "美国拖欠WTO会费2570万美元",
-      "onboard_time": 1743221601,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 50160,
@@ -1291,14 +1331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39529,
-      "num": 346229,
-      "word": "专家解读曼谷像素大楼震时明显晃动",
-      "onboard_time": 1743221661,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39089,
       "num": 40725,
       "word": "周深获年度品质金声",
@@ -1323,20 +1355,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34523,
+      "num": 839217,
+      "word": "2025中国网络媒体论坛",
+      "onboard_time": 1743221722,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27721,
       "num": 65877,
       "word": "一个镜头记录云南居民避震瞬间",
       "onboard_time": 1743188355,
       "rank": 13,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 27655,
-      "num": 825719,
-      "word": "2025中国网络媒体论坛",
-      "onboard_time": 1743221722,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27521,
