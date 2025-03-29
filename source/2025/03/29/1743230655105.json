@@ -1,0 +1,410 @@
+{
+  "runTime": 1743230655105,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1920732,
+        "num": 1920732,
+        "word": "事业编 开除小王",
+        "onboard_time": 1743225203,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1120203,
+        "num": 1120203,
+        "word": "胖东来店长平均月薪78058元",
+        "onboard_time": 1743225382,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33383,
+        "num": 1095482,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1469278,
+        "num": 1094844,
+        "word": "荷兰警方发现中国留学生罗生门遗体",
+        "onboard_time": 1743226281,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1071542,
+        "num": 1071542,
+        "word": "缅甸地震致1002死2376伤",
+        "onboard_time": 1743224842,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1299990,
+        "num": 1032111,
+        "word": "面筋哥去世",
+        "onboard_time": 1743220402,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 811641,
+        "num": 811641,
+        "word": "哪吒2冲TOP4",
+        "onboard_time": 1743223401,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 795295,
+        "num": 795295,
+        "word": "乐事薯片被曝含致癌添加剂",
+        "onboard_time": 1743205938,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 426591,
+        "num": 426591,
+        "word": "胖东来基层员工平均月薪9886元",
+        "onboard_time": 1743219860,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414466,
+        "num": 414466,
+        "word": "2岁女孩走失38年已成残疾单身妈妈",
+        "onboard_time": 1743227721,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451728,
+        "num": 396920,
+        "word": "门童成员发文",
+        "onboard_time": 1743203959,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 377350,
+        "num": 377350,
+        "word": "地震后缅甸人大都在马路上过夜",
+        "onboard_time": 1743228321,
+        "rank": 11,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 365413,
+        "num": 365413,
+        "word": "李晟住过300元一个月的地下室",
+        "onboard_time": 1743223103,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332805,
+        "num": 332805,
+        "word": "色狼拍空姐她拍色狼",
+        "onboard_time": 1743218239,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 317302,
+        "num": 317302,
+        "word": "刘耀文腹肌",
+        "onboard_time": 1743227841,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301080,
+        "num": 301080,
+        "word": "王一博轮胎离地起飞",
+        "onboard_time": 1743222504,
+        "rank": 15,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 295053,
+        "num": 295053,
+        "word": "事业编",
+        "onboard_time": 1743221961,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136956,
+        "num": 271915,
+        "word": "清明五一档电影超20部",
+        "onboard_time": 1743219561,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259178,
+        "num": 259178,
+        "word": "赵一博说交不到朋友不是性格问题",
+        "onboard_time": 1743229160,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288243,
+        "num": 255523,
+        "word": "男子长期被妻子责骂偷住邻居家被抓",
+        "onboard_time": 1743226882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239622,
+        "num": 239622,
+        "word": "金明脸上毛细血管破裂",
+        "onboard_time": 1743222023,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220516,
+        "num": 220516,
+        "word": "中国救援队赴缅实施国际救援",
+        "onboard_time": 1743223462,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211600,
+        "num": 211600,
+        "word": "叶童三公 跳楼机",
+        "onboard_time": 1743230602,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186478,
+        "num": 186478,
+        "word": "王大陆当兵表现良好放假",
+        "onboard_time": 1743228201,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184458,
+        "num": 184458,
+        "word": "邝玲玲给地震灾区粉丝发食物",
+        "onboard_time": 1743225982,
+        "rank": 24,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 173278,
+        "num": 173278,
+        "word": "王者荣耀补偿力度",
+        "onboard_time": 1743213500,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164224,
+        "num": 164224,
+        "word": "地震时老师冷静指挥学生撤离",
+        "onboard_time": 1743227602,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160789,
+        "num": 160789,
+        "word": "宋妍霏组那么多全景的含金量",
+        "onboard_time": 1743230060,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86129,
+        "num": 158191,
+        "word": "春天就要穿着汉服逛吃曹县",
+        "onboard_time": 1743226940,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156462,
+        "num": 156462,
+        "word": "怒水西流姐弟线全是钩子",
+        "onboard_time": 1743229942,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156446,
+        "num": 156446,
+        "word": "段奕宏在模仿段奕宏比赛中获得第二名",
+        "onboard_time": 1743229101,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152069,
+        "num": 152069,
+        "word": "地震时护士用身体护住宝宝",
+        "onboard_time": 1743215421,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 34023,
+        "num": 147873,
+        "word": "曹县人的凡尔赛瞬间",
+        "onboard_time": 1743226882,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146772,
+        "num": 146772,
+        "word": "侯佩岑宝娟我的嗓子",
+        "onboard_time": 1743230240,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140063,
+        "num": 140063,
+        "word": "庞博发千字长文告别最强大脑",
+        "onboard_time": 1743229342,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80824,
+        "num": 139639,
+        "word": "辛选主播蛋蛋这次火到韩国了",
+        "onboard_time": 1743230481,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139622,
+        "num": 139622,
+        "word": "曹贵人扮演者回应卖假包",
+        "onboard_time": 1743227482,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134712,
+        "num": 134712,
+        "word": "面筋哥留给大家的祝福",
+        "onboard_time": 1743224723,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36134,
+        "num": 133294,
+        "word": "医生解读乐事薯片添加剂危害",
+        "onboard_time": 1743230540,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132588,
+        "num": 132588,
+        "word": "彭小苒房琪起争执",
+        "onboard_time": 1743230481,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132244,
+        "num": 132244,
+        "word": "职测答案",
+        "onboard_time": 1743229160,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126249,
+        "num": 126249,
+        "word": "詹姆斯愿降薪助湖人补强",
+        "onboard_time": 1743229042,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120864,
+        "num": 120864,
+        "word": "富二代逐梦演艺圈的正确打开方式",
+        "onboard_time": 1743230120,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118830,
+        "num": 118830,
+        "word": "庄语迟 假死",
+        "onboard_time": 1743207740,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115087,
+        "num": 115087,
+        "word": "王一博不是速度过快是艺高人胆大",
+        "onboard_time": 1743228982,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113826,
+        "num": 113826,
+        "word": "美国网红甲亢哥没想到来真的",
+        "onboard_time": 1743205639,
+        "rank": 45,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 112535,
+        "num": 112535,
+        "word": "大学生踩车顶变形车主定损9505元",
+        "onboard_time": 1743229042,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70957,
+        "num": 109711,
+        "word": "侯佩岑一公vlog",
+        "onboard_time": 1743229042,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107085,
+        "num": 107085,
+        "word": "门童同担比自担靠谱",
+        "onboard_time": 1743229701,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84763,
+        "num": 106567,
+        "word": "第五人格七周年",
+        "onboard_time": 1743229342,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#与中国同行就是与机遇同行#"
+    }
+  }
+}
