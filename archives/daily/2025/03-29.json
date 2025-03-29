@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743254836340,
+  "endTime": 1743255519536,
   "band_list": [
     {
       "raw_hot": 4621424,
@@ -99,8 +99,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 1371417,
-      "num": 1371417,
+      "raw_hot": 1399898,
+      "num": 1399898,
       "word": "何泓姗澄清",
       "onboard_time": 1743249863,
       "rank": 3,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1342967,
-      "num": 521214,
+      "num": 526608,
       "word": "曝金秀贤曾和著名女演员交往",
       "onboard_time": 1743250522,
       "rank": 10,
@@ -275,8 +275,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 859712,
-      "num": 859712,
+      "raw_hot": 871229,
+      "num": 871229,
       "word": "用户吐槽小米su7ultra试驾雷军秒道歉",
       "onboard_time": 1743252923,
       "rank": 37,
@@ -305,6 +305,14 @@
       "onboard_time": 1743213500,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 783146,
+      "num": 783146,
+      "word": "浪姐聊天记录",
+      "onboard_time": 1743254303,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 759885,
@@ -353,6 +361,14 @@
       "onboard_time": 1743237983,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 684133,
+      "num": 684133,
+      "word": "缅甸震中华人目睹12楼变3楼",
+      "onboard_time": 1743251783,
+      "rank": 17,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 676643,
@@ -425,14 +441,6 @@
       "onboard_time": 1743212061,
       "rank": 41,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 591411,
-      "num": 591411,
-      "word": "缅甸震中华人目睹12楼变3楼",
-      "onboard_time": 1743251783,
-      "rank": 17,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 582786,
@@ -667,14 +675,6 @@
       "category": "艺人,海外新闻"
     },
     {
-      "raw_hot": 363098,
-      "num": 363098,
-      "word": "浪姐聊天记录",
-      "onboard_time": 1743254303,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 362360,
       "num": 362360,
       "word": "IU演技",
@@ -907,20 +907,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249456,
+      "num": 249456,
+      "word": "门童多位粉丝失联",
+      "onboard_time": 1743251304,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245904,
       "num": 309057,
       "word": "缅甸余震最高震级为7.5级",
       "onboard_time": 1743210440,
       "rank": 12,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 242719,
-      "num": 242719,
-      "word": "门童多位粉丝失联",
-      "onboard_time": 1743251304,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 239734,
@@ -1075,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206330,
+      "num": 211959,
+      "word": "你好星期六预告",
+      "onboard_time": 1743254483,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205501,
       "num": 205501,
       "word": "nctwish 中国",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1743225023,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202995,
+      "num": 202995,
+      "word": "女子嫌头发被剪太丑当场报警",
+      "onboard_time": 1743251063,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202640,
@@ -1179,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195802,
+      "num": 195802,
+      "word": "玉渊潭",
+      "onboard_time": 1743252026,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 194997,
       "num": 194997,
       "word": "章昊你好星期六",
@@ -1211,12 +1235,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192060,
-      "num": 192060,
-      "word": "女子嫌头发被剪太丑当场报警",
-      "onboard_time": 1743251063,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 192852,
+      "num": 192852,
+      "word": "TOP周边",
+      "onboard_time": 1743255083,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191190,
@@ -1225,14 +1249,6 @@
       "onboard_time": 1743176661,
       "rank": 24,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 190166,
-      "num": 190166,
-      "word": "玉渊潭",
-      "onboard_time": 1743252026,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 189102,
@@ -1248,6 +1264,14 @@
       "word": "王子异朱正廷合体",
       "onboard_time": 1743243321,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187502,
+      "num": 187502,
+      "word": "单依纯济南",
+      "onboard_time": 1743254664,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1313,6 +1337,14 @@
       "onboard_time": 1743203777,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180621,
+      "num": 180621,
+      "word": "大雁甚至都怀疑自己飞错方向了",
+      "onboard_time": 1743253704,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 180160,
@@ -1387,14 +1419,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 175268,
-      "num": 175268,
-      "word": "你好星期六预告",
-      "onboard_time": 1743254483,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175164,
       "num": 175164,
       "word": "起猛了陈楚生坐我座位了",
@@ -1451,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171711,
+      "num": 171711,
+      "word": "范玮琪演唱会",
+      "onboard_time": 1743254065,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170578,
       "num": 170578,
       "word": "缅甸华人称今晚扛垫子睡路边",
@@ -1459,11 +1491,27 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 170455,
+      "num": 170455,
+      "word": "日本偶遇宋小宝",
+      "onboard_time": 1743255202,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168953,
       "num": 168953,
       "word": "虞书欣方发文报平安",
       "onboard_time": 1743148526,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168753,
+      "num": 168753,
+      "word": "李佳航收工直奔网吧",
+      "onboard_time": 1743255202,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1481,6 +1529,14 @@
       "onboard_time": 1743224723,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 168097,
+      "num": 168097,
+      "word": "孟子义亮钻开衩红裙",
+      "onboard_time": 1743254723,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 167606,
@@ -1513,14 +1569,6 @@
       "onboard_time": 1743166163,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163271,
-      "num": 163271,
-      "word": "范玮琪演唱会",
-      "onboard_time": 1743254065,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 162743,
@@ -1643,14 +1691,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 157158,
-      "num": 157158,
-      "word": "单依纯济南",
-      "onboard_time": 1743254664,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157149,
       "num": 157149,
       "word": "王智不愧是参加过浪姐的人",
@@ -1731,14 +1771,6 @@
       "category": "互联网,汽车"
     },
     {
-      "raw_hot": 154241,
-      "num": 154241,
-      "word": "大雁甚至都怀疑自己飞错方向了",
-      "onboard_time": 1743253704,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153081,
       "num": 153081,
       "word": "云南震感",
@@ -1769,14 +1801,6 @@
       "onboard_time": 1743199155,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151274,
-      "num": 151274,
-      "word": "孟子义亮钻开衩红裙",
-      "onboard_time": 1743254723,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 150902,
@@ -2033,6 +2057,14 @@
       "onboard_time": 1743170905,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133063,
+      "num": 342955,
+      "word": "梅州客家3比4山东泰山",
+      "onboard_time": 1743254904,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 132244,
@@ -2635,12 +2667,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91461,
+      "num": 522021,
+      "word": "3年赚70万司机分享人生故事",
+      "onboard_time": 1743254303,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90644,
       "num": 186701,
       "word": "春天就要穿着汉服逛吃曹县",
       "onboard_time": 1743226940,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90370,
+      "num": 171977,
+      "word": "胡兵担任中国国际时装周全球推广大使",
+      "onboard_time": 1743251603,
+      "rank": 40,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 89199,
@@ -2707,11 +2755,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 79618,
-      "num": 522021,
-      "word": "3年赚70万司机分享人生故事",
-      "onboard_time": 1743254303,
-      "rank": 9,
+      "raw_hot": 80483,
+      "num": 497311,
+      "word": "人形机器人日薪超10000",
+      "onboard_time": 1743253344,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2731,12 +2779,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75648,
-      "num": 171977,
-      "word": "胡兵担任中国国际时装周全球推广大使",
-      "onboard_time": 1743251603,
-      "rank": 40,
-      "category": "时尚,艺人"
+      "raw_hot": 75527,
+      "num": 211684,
+      "word": "TES全胜晋级登峰组",
+      "onboard_time": 1743254964,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 75039,
@@ -2761,14 +2809,6 @@
       "onboard_time": 1743239661,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 71634,
-      "num": 497311,
-      "word": "人形机器人日薪超10000",
-      "onboard_time": 1743253344,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70992,
@@ -2923,6 +2963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49191,
+      "num": 448104,
+      "word": "部分中国民间救援队自驾前往震中",
+      "onboard_time": 1743254483,
+      "rank": 17,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 46726,
       "num": 150682,
       "word": "JDG对战情久",
@@ -2953,6 +3001,14 @@
       "onboard_time": 1743199694,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44633,
+      "num": 181603,
+      "word": "缅甸地震致1644死3408伤",
+      "onboard_time": 1743255443,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 43031,
@@ -3211,14 +3267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13424,
-      "num": 448104,
-      "word": "部分中国民间救援队自驾前往震中",
-      "onboard_time": 1743254483,
-      "rank": 17,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 11813,
       "num": 31036,
       "word": "云南临沧连续2个3.0级地震",
@@ -3249,6 +3297,14 @@
       "onboard_time": 1743217341,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 7299,
+      "num": 171750,
+      "word": "甲亢哥郑州挑战伏羲山天梯",
+      "onboard_time": 1743255443,
+      "rank": 44,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743254836340,
+  "endTime": 1743255519536,
   "band_list": [
     {
       "raw_hot": 18900626,
@@ -779,6 +779,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1399898,
+      "num": 1399898,
+      "word": "何泓姗澄清",
+      "onboard_time": 1743249863,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1395919,
       "num": 1395919,
       "word": "泰国首都曼谷进入紧急状态",
@@ -835,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1371417,
-      "num": 1371417,
-      "word": "何泓姗澄清",
-      "onboard_time": 1743249863,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1364299,
       "num": 1364299,
       "word": "夫妻不信儿子已死40年后一家终团聚",
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 1342967,
-      "num": 521214,
+      "num": 526608,
       "word": "曝金秀贤曾和著名女演员交往",
       "onboard_time": 1743250522,
       "rank": 10,
@@ -1619,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 871229,
+      "num": 871229,
+      "word": "用户吐槽小米su7ultra试驾雷军秒道歉",
+      "onboard_time": 1743252923,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 871024,
       "num": 826114,
       "word": "罗志祥妈妈患阿尔兹海默症",
@@ -1665,14 +1673,6 @@
       "onboard_time": 1743046462,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 859712,
-      "num": 859712,
-      "word": "用户吐槽小米su7ultra试驾雷军秒道歉",
-      "onboard_time": 1743252923,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 859286,
@@ -1960,6 +1960,14 @@
       "word": "浪姐6黑马",
       "onboard_time": 1742892621,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 783146,
+      "num": 783146,
+      "word": "浪姐聊天记录",
+      "onboard_time": 1743254303,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -2297,6 +2305,14 @@
       "onboard_time": 1743042560,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 684133,
+      "num": 684133,
+      "word": "缅甸震中华人目睹12楼变3楼",
+      "onboard_time": 1743251783,
+      "rank": 17,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 683600,
@@ -2817,14 +2833,6 @@
       "onboard_time": 1742707041,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 591411,
-      "num": 591411,
-      "word": "缅甸震中华人目睹12楼变3楼",
-      "onboard_time": 1743251783,
-      "rank": 17,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 590670,
@@ -4963,14 +4971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 363098,
-      "num": 363098,
-      "word": "浪姐聊天记录",
-      "onboard_time": 1743254303,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 362360,
       "num": 362360,
       "word": "IU演技",
@@ -6939,6 +6939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 249456,
+      "num": 249456,
+      "word": "门童多位粉丝失联",
+      "onboard_time": 1743251304,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249245,
       "num": 272474,
       "word": "马苏说杨紫演技很厉害",
@@ -7089,14 +7097,6 @@
       "onboard_time": 1743145043,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 242719,
-      "num": 242719,
-      "word": "门童多位粉丝失联",
-      "onboard_time": 1743251304,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 242684,
@@ -8491,6 +8491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206330,
+      "num": 211959,
+      "word": "你好星期六预告",
+      "onboard_time": 1743254483,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206170,
       "num": 206170,
       "word": "Doinb确定明年不打LPL",
@@ -8713,6 +8721,14 @@
       "onboard_time": 1742980642,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 202995,
+      "num": 202995,
+      "word": "女子嫌头发被剪太丑当场报警",
+      "onboard_time": 1743251063,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202963,
@@ -9307,6 +9323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195802,
+      "num": 195802,
+      "word": "玉渊潭",
+      "onboard_time": 1743252026,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 195688,
       "num": 195688,
       "word": "安悦溪用AI设计卫生巾",
@@ -9539,6 +9563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192852,
+      "num": 192852,
+      "word": "TOP周边",
+      "onboard_time": 1743255083,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192289,
       "num": 201094,
       "word": "雁回时坠马初吻",
@@ -9593,14 +9625,6 @@
       "onboard_time": 1743090141,
       "rank": 27,
       "category": "健康医疗,美妆"
-    },
-    {
-      "raw_hot": 192060,
-      "num": 192060,
-      "word": "女子嫌头发被剪太丑当场报警",
-      "onboard_time": 1743251063,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191939,
@@ -9747,14 +9771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190166,
-      "num": 190166,
-      "word": "玉渊潭",
-      "onboard_time": 1743252026,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 189797,
       "num": 189797,
       "word": "唐嫣单眼落泪破碎感",
@@ -9889,6 +9905,14 @@
       "onboard_time": 1742700620,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187502,
+      "num": 187502,
+      "word": "单依纯济南",
+      "onboard_time": 1743254664,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 187486,
@@ -10395,6 +10419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180621,
+      "num": 180621,
+      "word": "大雁甚至都怀疑自己飞错方向了",
+      "onboard_time": 1743253704,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180365,
       "num": 180365,
       "word": "念无双热度",
@@ -10715,14 +10747,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 175268,
-      "num": 175268,
-      "word": "你好星期六预告",
-      "onboard_time": 1743254483,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175164,
       "num": 175164,
       "word": "起猛了陈楚生坐我座位了",
@@ -10955,6 +10979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 171711,
+      "num": 171711,
+      "word": "范玮琪演唱会",
+      "onboard_time": 1743254065,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171291,
       "num": 180590,
       "word": "陈梦发博晒美照",
@@ -11043,6 +11075,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 170455,
+      "num": 170455,
+      "word": "日本偶遇宋小宝",
+      "onboard_time": 1743255202,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170429,
       "num": 170429,
       "word": "男子为骗女主播将1元转账P成6500万",
@@ -11123,6 +11163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168753,
+      "num": 168753,
+      "word": "李佳航收工直奔网吧",
+      "onboard_time": 1743255202,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168585,
       "num": 168585,
       "word": "李晟我就是命好同款壁纸",
@@ -11193,6 +11241,14 @@
       "onboard_time": 1743224723,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 168097,
+      "num": 168097,
+      "word": "孟子义亮钻开衩红裙",
+      "onboard_time": 1743254723,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 167935,
@@ -11449,14 +11505,6 @@
       "onboard_time": 1743079462,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163271,
-      "num": 163271,
-      "word": "范玮琪演唱会",
-      "onboard_time": 1743254065,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 163036,
@@ -12019,14 +12067,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 157158,
-      "num": 157158,
-      "word": "单依纯济南",
-      "onboard_time": 1743254664,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157149,
       "num": 157149,
       "word": "王智不愧是参加过浪姐的人",
@@ -12355,14 +12395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154241,
-      "num": 154241,
-      "word": "大雁甚至都怀疑自己飞错方向了",
-      "onboard_time": 1743253704,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154229,
       "num": 154229,
       "word": "晋江小说疑似抄袭明日方舟",
@@ -12649,14 +12681,6 @@
       "onboard_time": 1742906002,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151274,
-      "num": 151274,
-      "word": "孟子义亮钻开衩红裙",
-      "onboard_time": 1743254723,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 151112,
@@ -14369,6 +14393,14 @@
       "onboard_time": 1742711719,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133063,
+      "num": 342955,
+      "word": "梅州客家3比4山东泰山",
+      "onboard_time": 1743254904,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 132903,
@@ -18507,6 +18539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91461,
+      "num": 522021,
+      "word": "3年赚70万司机分享人生故事",
+      "onboard_time": 1743254303,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91441,
       "num": 1162304,
       "word": "中国火箭排队上天",
@@ -18561,6 +18601,14 @@
       "onboard_time": 1742882421,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90370,
+      "num": 171977,
+      "word": "胡兵担任中国国际时装周全球推广大使",
+      "onboard_time": 1743251603,
+      "rank": 40,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 89916,
@@ -19019,6 +19067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80483,
+      "num": 497311,
+      "word": "人形机器人日薪超10000",
+      "onboard_time": 1743253344,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80228,
       "num": 80228,
       "word": "官方回应小学近3万买除颤器只值1万1",
@@ -19048,14 +19104,6 @@
       "word": "女子吐槽楼道摄像头对着自家门口",
       "onboard_time": 1743149543,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79618,
-      "num": 522021,
-      "word": "3年赚70万司机分享人生故事",
-      "onboard_time": 1743254303,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -19299,12 +19347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75648,
-      "num": 171977,
-      "word": "胡兵担任中国国际时装周全球推广大使",
-      "onboard_time": 1743251603,
-      "rank": 40,
-      "category": "时尚,艺人"
+      "raw_hot": 75527,
+      "num": 211684,
+      "word": "TES全胜晋级登峰组",
+      "onboard_time": 1743254964,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 75492,
@@ -19521,14 +19569,6 @@
       "onboard_time": 1742986942,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71634,
-      "num": 497311,
-      "word": "人形机器人日薪超10000",
-      "onboard_time": 1743253344,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71437,
@@ -20827,6 +20867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49191,
+      "num": 448104,
+      "word": "部分中国民间救援队自驾前往震中",
+      "onboard_time": 1743254483,
+      "rank": 17,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 49072,
       "num": 258982,
       "word": "94%受访者支持食安犯罪最高判死刑",
@@ -21081,6 +21129,14 @@
       "onboard_time": 1742907501,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44633,
+      "num": 181603,
+      "word": "缅甸地震致1644死3408伤",
+      "onboard_time": 1743255443,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 44605,
@@ -23475,14 +23531,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 13424,
-      "num": 448104,
-      "word": "部分中国民间救援队自驾前往震中",
-      "onboard_time": 1743254483,
-      "rank": 17,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 13284,
       "num": 14309,
       "word": "汪苏泷杨千嬅合唱人情世故",
@@ -23785,6 +23833,14 @@
       "onboard_time": 1743217341,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 7299,
+      "num": 171750,
+      "word": "甲亢哥郑州挑战伏羲山天梯",
+      "onboard_time": 1743255443,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6820,
