@@ -1,7 +1,15 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743233750531,
+  "endTime": 1743236929288,
   "band_list": [
+    {
+      "raw_hot": 4621424,
+      "num": 459315,
+      "word": "bnd粉丝去世",
+      "onboard_time": 1743235701,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 4133800,
       "num": 4133800,
@@ -379,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384108,
+      "num": 384108,
+      "word": "Real原导演发声",
+      "onboard_time": 1743232400,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377350,
       "num": 377350,
       "word": "地震后缅甸人大都在马路上过夜",
@@ -523,14 +539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 288543,
-      "num": 288543,
-      "word": "Real原导演发声",
-      "onboard_time": 1743232400,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288243,
       "num": 275933,
       "word": "男子长期被妻子责骂偷住邻居家被抓",
@@ -643,6 +651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 210229,
+      "num": 210229,
+      "word": "张本智和无缘男单八强",
+      "onboard_time": 1743233842,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209072,
       "num": 209072,
       "word": "中方愿尽己所能向缅方提供救援支持",
@@ -681,6 +697,14 @@
       "onboard_time": 1743225023,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202472,
+      "num": 156449,
+      "word": "上过班的才知道那种根本不现实",
+      "onboard_time": 1743236542,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 202466,
@@ -747,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193568,
+      "num": 193568,
+      "word": "北京大风天也人人人人挤人人人人",
+      "onboard_time": 1743236542,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191190,
       "num": 191190,
       "word": "唧唧的猫",
@@ -785,6 +817,14 @@
       "onboard_time": 1743229342,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185225,
+      "num": 185225,
+      "word": "中式教育终于在此刻走出闭环",
+      "onboard_time": 1743234681,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 184295,
@@ -849,6 +889,14 @@
       "onboard_time": 1743227602,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175280,
+      "num": 175280,
+      "word": "缅甸地震泰国高楼不断出现新裂缝",
+      "onboard_time": 1743233302,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 174974,
@@ -1059,12 +1107,28 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 155872,
+      "num": 155872,
+      "word": "京东副总裁喊话雷军工厂尽快扩容",
+      "onboard_time": 1743235161,
+      "rank": 34,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 153081,
       "num": 153081,
       "word": "云南震感",
       "onboard_time": 1743143600,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152369,
+      "num": 152369,
+      "word": "IU朴宝剑新剧豆瓣涨至9.5分",
+      "onboard_time": 1743232882,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 152316,
@@ -1099,14 +1163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147986,
-      "num": 147986,
-      "word": "IU朴宝剑新剧豆瓣涨至9.5分",
-      "onboard_time": 1743232882,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146772,
       "num": 146772,
       "word": "侯佩岑宝娟我的嗓子",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1743215961,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146198,
+      "num": 146198,
+      "word": "卢森堡用倪夏莲名字命名一条街",
+      "onboard_time": 1743235761,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 145896,
@@ -1139,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143707,
+      "num": 143707,
+      "word": "唐嫣新剧一集复活三次",
+      "onboard_time": 1743232882,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143456,
       "num": 143456,
       "word": "Sask力挺Uzi",
@@ -1152,6 +1224,14 @@
       "word": "缅甸地震云南建筑晃动扬起巨大灰尘",
       "onboard_time": 1743149844,
       "rank": 34,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 142629,
+      "num": 142629,
+      "word": "缅甸华人说废墟下有很多求救声",
+      "onboard_time": 1743234381,
+      "rank": 40,
       "category": "突发/灾害"
     },
     {
@@ -1169,6 +1249,14 @@
       "onboard_time": 1743177923,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139753,
+      "num": 155990,
+      "word": "面筋哥病时体重从160斤降到70斤",
+      "onboard_time": 1743233961,
+      "rank": 33,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 137654,
@@ -1209,6 +1297,14 @@
       "onboard_time": 1743214821,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134227,
+      "num": 134227,
+      "word": "姜尘谈李晟",
+      "onboard_time": 1743231621,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 134130,
@@ -1275,12 +1371,12 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 129461,
-      "num": 129461,
-      "word": "唐嫣新剧一集复活三次",
-      "onboard_time": 1743232882,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 129471,
+      "num": 129471,
+      "word": "蒋梦婕在玩aespa的cosplay",
+      "onboard_time": 1743234740,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 128932,
@@ -1313,6 +1409,14 @@
       "onboard_time": 1743197712,
       "rank": 37,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 126906,
+      "num": 126906,
+      "word": "林一直播",
+      "onboard_time": 1743234022,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 126745,
@@ -1411,12 +1515,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 114336,
+      "num": 114336,
+      "word": "芒果审美",
+      "onboard_time": 1743235701,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113978,
       "num": 553523,
       "word": "美国拖欠WTO会费2570万美元",
       "onboard_time": 1743221601,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113878,
+      "num": 103479,
+      "word": "蒋梦婕女团味",
+      "onboard_time": 1743236902,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 113688,
@@ -1499,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108907,
+      "num": 211900,
+      "word": "演唱会天价门票都被谁买走了",
+      "onboard_time": 1743235880,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108495,
       "num": 108495,
       "word": "浪姐",
@@ -1539,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106676,
+      "num": 106676,
+      "word": "马龙说要跟丁宁打混双",
+      "onboard_time": 1743235761,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105994,
       "num": 105994,
       "word": "张宥浩怎么做到又乖又痞的",
@@ -1561,6 +1697,14 @@
       "onboard_time": 1743221661,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104872,
+      "num": 104872,
+      "word": "王一博排位赛结束下车",
+      "onboard_time": 1743230960,
+      "rank": 48,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 103866,
@@ -1641,14 +1785,6 @@
       "onboard_time": 1743166524,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92947,
-      "num": 92947,
-      "word": "缅甸地震泰国高楼不断出现新裂缝",
-      "onboard_time": 1743233302,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 91658,
@@ -1843,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50615,
+      "num": 156195,
+      "word": "潘展乐穿上三条纹",
+      "onboard_time": 1743236362,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50160,
       "num": 50160,
       "word": "北大教授的书房要向读者开放了",
@@ -1888,6 +2032,14 @@
       "word": "重庆一街道办强拆鱼塘被判赔380万",
       "onboard_time": 1743204978,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41443,
+      "num": 459739,
+      "word": "300万扶贫款当诱饵骗6旬大爷洗钱",
+      "onboard_time": 1743235941,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1961,6 +2113,14 @@
       "onboard_time": 1743202577,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32160,
+      "num": 392871,
+      "word": "美国家庭年支出将多出1200美元",
+      "onboard_time": 1743236001,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27721,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1743236929288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1912542,
+        "num": 1912542,
+        "word": "中国政府决定向缅甸提供1亿元",
+        "onboard_time": 1743231862,
+        "rank": 0,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 1060880,
+        "num": 1060880,
+        "word": "事业编 开除小王",
+        "onboard_time": 1743225203,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 22142,
+        "num": 821830,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 757775,
+        "num": 757775,
+        "word": "叶童三公 跳楼机",
+        "onboard_time": 1743230602,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 683747,
+        "num": 683747,
+        "word": "缅甸地震致1002死2376伤",
+        "onboard_time": 1743224842,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 775471,
+        "num": 680616,
+        "word": "面筋哥去世",
+        "onboard_time": 1743220402,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 585634,
+        "num": 585634,
+        "word": "胖东来店长平均月薪78058元",
+        "onboard_time": 1743225382,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530907,
+        "num": 530907,
+        "word": "彭小苒房琪起争执",
+        "onboard_time": 1743230481,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467748,
+        "num": 467748,
+        "word": "乐事薯片被曝含致癌添加剂",
+        "onboard_time": 1743205938,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 41443,
+        "num": 459739,
+        "word": "300万扶贫款当诱饵骗6旬大爷洗钱",
+        "onboard_time": 1743235941,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4621424,
+        "num": 459315,
+        "word": "bnd粉丝去世",
+        "onboard_time": 1743235701,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458138,
+        "num": 458138,
+        "word": "门童成员发文",
+        "onboard_time": 1743203959,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 486527,
+        "num": 449112,
+        "word": "彭小苒 没拍戏",
+        "onboard_time": 1743231382,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437061,
+        "num": 437061,
+        "word": "荷兰警方发现中国留学生罗生门遗体",
+        "onboard_time": 1743226281,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32160,
+        "num": 392871,
+        "word": "美国家庭年支出将多出1200美元",
+        "onboard_time": 1743236001,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 384108,
+        "num": 384108,
+        "word": "Real原导演发声",
+        "onboard_time": 1743232400,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376970,
+        "num": 376970,
+        "word": "哪吒2冲TOP4",
+        "onboard_time": 1743223401,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307639,
+        "num": 307639,
+        "word": "2岁女孩走失38年已成残疾单身妈妈",
+        "onboard_time": 1743227721,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216987,
+        "num": 216987,
+        "word": "胖东来基层员工平均月薪9886元",
+        "onboard_time": 1743219860,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108907,
+        "num": 211900,
+        "word": "演唱会天价门票都被谁买走了",
+        "onboard_time": 1743235880,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210229,
+        "num": 210229,
+        "word": "张本智和无缘男单八强",
+        "onboard_time": 1743233842,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200190,
+        "num": 200190,
+        "word": "王一博轮胎离地起飞",
+        "onboard_time": 1743222504,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 196591,
+        "num": 196591,
+        "word": "赵一博说交不到朋友不是性格问题",
+        "onboard_time": 1743229160,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194558,
+        "num": 194558,
+        "word": "色狼拍空姐她拍色狼",
+        "onboard_time": 1743218239,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 193568,
+        "num": 193568,
+        "word": "北京大风天也人人人人挤人人人人",
+        "onboard_time": 1743236542,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185225,
+        "num": 185225,
+        "word": "中式教育终于在此刻走出闭环",
+        "onboard_time": 1743234681,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185061,
+        "num": 185061,
+        "word": "事业编",
+        "onboard_time": 1743221961,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175280,
+        "num": 175280,
+        "word": "缅甸地震泰国高楼不断出现新裂缝",
+        "onboard_time": 1743233302,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168515,
+        "num": 168515,
+        "word": "刘耀文腹肌",
+        "onboard_time": 1743227841,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156585,
+        "num": 156585,
+        "word": "nctwish 中国",
+        "onboard_time": 1743232942,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202472,
+        "num": 156449,
+        "word": "上过班的才知道那种根本不现实",
+        "onboard_time": 1743236542,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157427,
+        "num": 156251,
+        "word": "男子长期被妻子责骂偷住邻居家被抓",
+        "onboard_time": 1743226882,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50615,
+        "num": 156195,
+        "word": "潘展乐穿上三条纹",
+        "onboard_time": 1743236362,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139753,
+        "num": 155990,
+        "word": "面筋哥病时体重从160斤降到70斤",
+        "onboard_time": 1743233961,
+        "rank": 33,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 155872,
+        "num": 155872,
+        "word": "京东副总裁喊话雷军工厂尽快扩容",
+        "onboard_time": 1743235161,
+        "rank": 34,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 152369,
+        "num": 152369,
+        "word": "IU朴宝剑新剧豆瓣涨至9.5分",
+        "onboard_time": 1743232882,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148450,
+        "num": 148450,
+        "word": "缅甸地震",
+        "onboard_time": 1743231621,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146709,
+        "num": 146709,
+        "word": "中国救援队赴缅实施国际救援",
+        "onboard_time": 1743223462,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146198,
+        "num": 146198,
+        "word": "卢森堡用倪夏莲名字命名一条街",
+        "onboard_time": 1743235761,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143707,
+        "num": 143707,
+        "word": "唐嫣新剧一集复活三次",
+        "onboard_time": 1743232882,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142629,
+        "num": 142629,
+        "word": "缅甸华人说废墟下有很多求救声",
+        "onboard_time": 1743234381,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 138952,
+        "num": 138952,
+        "word": "女子一次次给骗子送钱一次次失败",
+        "onboard_time": 1743231201,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136876,
+        "num": 136876,
+        "word": "海南航空回应空姐被乘客偷拍",
+        "onboard_time": 1743223763,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134227,
+        "num": 134227,
+        "word": "姜尘谈李晟",
+        "onboard_time": 1743231621,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129471,
+        "num": 129471,
+        "word": "蒋梦婕在玩aespa的cosplay",
+        "onboard_time": 1743234740,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126906,
+        "num": 126906,
+        "word": "林一直播",
+        "onboard_time": 1743234022,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114336,
+        "num": 114336,
+        "word": "芒果审美",
+        "onboard_time": 1743235701,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106676,
+        "num": 106676,
+        "word": "马龙说要跟丁宁打混双",
+        "onboard_time": 1743235761,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104872,
+        "num": 104872,
+        "word": "王一博排位赛结束下车",
+        "onboard_time": 1743230960,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 113878,
+        "num": 103479,
+        "word": "蒋梦婕女团味",
+        "onboard_time": 1743236902,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#与中国同行就是与机遇同行#"
+    }
+  }
+}
