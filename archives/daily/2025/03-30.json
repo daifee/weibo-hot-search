@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743276007761,
+  "endTime": 1743276967891,
   "band_list": [
     {
       "raw_hot": 1925246,
@@ -411,7 +411,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 85222,
+      "raw_hot": 86562,
       "num": 108123,
       "word": "苹果首席工程师孔龙自美归国",
       "onboard_time": 1743272296,
@@ -515,6 +515,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32900,
+      "num": 60608,
+      "word": "缅甸大地震威力有多大",
+      "onboard_time": 1743275895,
+      "rank": 34,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 30931,
+      "num": 48634,
+      "word": "美副总统抵达格陵兰吐槽天气飙脏话",
+      "onboard_time": 1743273556,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29083,
       "num": 33143,
       "word": "九义人",
@@ -547,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24819,
-      "num": 48634,
-      "word": "美副总统抵达格陵兰吐槽天气飙脏话",
-      "onboard_time": 1743273556,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21798,
       "num": 24658,
       "word": "周深风吹过的晨曦首唱舞台",
@@ -569,14 +577,6 @@
       "onboard_time": 1743274694,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12872,
-      "num": 28184,
-      "word": "缅甸大地震威力有多大",
-      "onboard_time": 1743275895,
-      "rank": 34,
-      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [

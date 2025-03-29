@@ -1,0 +1,410 @@
+{
+  "runTime": 1743276967891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 99825,
+        "num": 99825,
+        "word": "云南天空惊现血红太阳",
+        "onboard_time": 1743258084,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86562,
+        "num": 86562,
+        "word": "苹果首席工程师孔龙自美归国",
+        "onboard_time": 1743272296,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18538,
+        "num": 75391,
+        "word": "中国资产已成为当下世界潮流",
+        "onboard_time": 1743256583,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90076,
+        "num": 73591,
+        "word": "安静公主长了一个肿瘤",
+        "onboard_time": 1743258084,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 71753,
+        "num": 71753,
+        "word": "云南曲靖4.4级地震",
+        "onboard_time": 1743246564,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 65520,
+        "num": 65520,
+        "word": "华人称地震当日缅甸放假救了很多人",
+        "onboard_time": 1743266599,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 62241,
+        "num": 62241,
+        "word": "武汉小伙靠写字7年还清2000万巨债",
+        "onboard_time": 1743264022,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60784,
+        "num": 60784,
+        "word": "雁回时站内热度破30000",
+        "onboard_time": 1743259944,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60673,
+        "num": 60673,
+        "word": "浪姐聊天记录",
+        "onboard_time": 1743254303,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32900,
+        "num": 60608,
+        "word": "缅甸大地震威力有多大",
+        "onboard_time": 1743275895,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 261252,
+        "num": 58873,
+        "word": "谢婉婷",
+        "onboard_time": 1743262883,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130245,
+        "num": 56409,
+        "word": "门童多位粉丝失联",
+        "onboard_time": 1743251304,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61032,
+        "num": 55061,
+        "word": "赵露思穿了手艺人爷爷做的鞋",
+        "onboard_time": 1743260904,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53518,
+        "num": 53518,
+        "word": "曝金秀贤曾和著名女演员交往",
+        "onboard_time": 1743250522,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53048,
+        "num": 53048,
+        "word": "缅甸地震致1644死3408伤",
+        "onboard_time": 1743255443,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 48622,
+        "num": 48622,
+        "word": "用户吐槽小米su7ultra试驾雷军秒道歉",
+        "onboard_time": 1743252923,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 43250,
+        "num": 43250,
+        "word": "陈都灵大女主",
+        "onboard_time": 1743260065,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37722,
+        "num": 37722,
+        "word": "权志龙太权威了",
+        "onboard_time": 1743258204,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35940,
+        "num": 35940,
+        "word": "雁回时好像疯走了",
+        "onboard_time": 1743249803,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35256,
+        "num": 35256,
+        "word": "wbb退出",
+        "onboard_time": 1743261742,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 265163,
+        "num": 34102,
+        "word": "bnd粉丝去世",
+        "onboard_time": 1743235701,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129395,
+        "num": 33748,
+        "word": "失联中国留学生罗生门遗体被找到",
+        "onboard_time": 1743257844,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32072,
+        "num": 32072,
+        "word": "张翰时隔三年再发微博",
+        "onboard_time": 1743250282,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31990,
+        "num": 31990,
+        "word": "何泓姗澄清",
+        "onboard_time": 1743249863,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31767,
+        "num": 31767,
+        "word": "缅甸震中华人目睹12楼变3楼",
+        "onboard_time": 1743251783,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 30931,
+        "num": 30931,
+        "word": "美副总统抵达格陵兰吐槽天气飙脏话",
+        "onboard_time": 1743273556,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30854,
+        "num": 30854,
+        "word": "南部战区发言人发表谈话",
+        "onboard_time": 1743269718,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30332,
+        "num": 30332,
+        "word": "云南4.4级地震初步分析为缅甸地震触发",
+        "onboard_time": 1743262702,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 29631,
+        "num": 29631,
+        "word": "雁回时",
+        "onboard_time": 1743242423,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27445,
+        "num": 27445,
+        "word": "曼谷中国女孩讲述25楼逃生经历",
+        "onboard_time": 1743261324,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 27180,
+        "num": 27180,
+        "word": "戚薇二胎产子画面",
+        "onboard_time": 1743239362,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26542,
+        "num": 26542,
+        "word": "缅甸7.9级地震前后对比",
+        "onboard_time": 1743252502,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26331,
+        "num": 26331,
+        "word": "减脂期需要避雷的6种食物",
+        "onboard_time": 1743260485,
+        "rank": 32,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 25130,
+        "num": 25130,
+        "word": "曼谷便利店为防哄抢关闭",
+        "onboard_time": 1743267318,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24207,
+        "num": 24207,
+        "word": "12306上真的可以免费换火车票",
+        "onboard_time": 1743273495,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23956,
+        "num": 23956,
+        "word": "彭昱畅怎么帅成这样了",
+        "onboard_time": 1743243981,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23877,
+        "num": 23877,
+        "word": "身体5个表现提示肝病了",
+        "onboard_time": 1743251724,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23216,
+        "num": 23216,
+        "word": "权志龙演唱会",
+        "onboard_time": 1743244823,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22661,
+        "num": 22661,
+        "word": "林一发长文告别国王",
+        "onboard_time": 1743256823,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22315,
+        "num": 22315,
+        "word": "中国救援队抵达缅甸",
+        "onboard_time": 1743244582,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 22104,
+        "num": 22104,
+        "word": "珊瑚海",
+        "onboard_time": 1743262162,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21767,
+        "num": 21767,
+        "word": "资本从美国撤出后正加速流向中国",
+        "onboard_time": 1743260004,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21738,
+        "num": 21738,
+        "word": "韩国扑救山火消防员的盒饭",
+        "onboard_time": 1743237682,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21723,
+        "num": 21723,
+        "word": "缅甸强震已致曼谷13人死亡",
+        "onboard_time": 1743265401,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 20750,
+        "num": 21722,
+        "word": "缅甸地震云南多地受影响",
+        "onboard_time": 1743239301,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 20355,
+        "num": 21721,
+        "word": "爸爸没事就对女儿装的监控喊两句",
+        "onboard_time": 1743262941,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20213,
+        "num": 21719,
+        "word": "能不能加rap周杰伦还不知道吗",
+        "onboard_time": 1743255864,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19490,
+        "num": 21716,
+        "word": "祝福中国救援队平安归来",
+        "onboard_time": 1743245362,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 18375,
+        "num": 21715,
+        "word": "童瑶李泽锋cp还是老的香",
+        "onboard_time": 1743264624,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18275,
+        "num": 21713,
+        "word": "杭州小伙短租网红相机半年创收50万",
+        "onboard_time": 1743261983,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国是有利于外资企业投资兴业的一方沃土#"
+    }
+  }
+}
