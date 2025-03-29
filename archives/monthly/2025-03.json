@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743276967891,
+  "endTime": 1743279845721,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -75723,6 +75723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 86705,
+      "num": 86705,
+      "word": "缅甸大地震威力有多大",
+      "onboard_time": 1743275895,
+      "rank": 34,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 86695,
       "num": 120140,
       "word": "新家甲醛超标20倍装修公司赔10万",
@@ -81465,6 +81473,14 @@
       "onboard_time": 1743115457,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59538,
+      "num": 59538,
+      "word": "孔龙自美归国",
+      "onboard_time": 1743277275,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59519,
@@ -88627,14 +88643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32900,
-      "num": 60608,
-      "word": "缅甸大地震威力有多大",
-      "onboard_time": 1743275895,
-      "rank": 34,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 32885,
       "num": 310779,
       "word": "从ICU到冠军领奖台",
@@ -93259,6 +93267,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 18100,
+      "num": 18100,
+      "word": "乡村爱情赵玉田带货厂家承认造假",
+      "onboard_time": 1743279254,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18092,
       "num": 25035,
       "word": "政策原来可以这样讲",
@@ -93361,6 +93377,14 @@
       "onboard_time": 1742408474,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17752,
+      "num": 36631,
+      "word": "卫星照片显示内比都机场塔台倒塌",
+      "onboard_time": 1743278834,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 17748,
@@ -94433,6 +94457,14 @@
       "onboard_time": 1742499914,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13862,
+      "num": 17526,
+      "word": "在缅华人称中国公民正组织自救",
+      "onboard_time": 1743278534,
+      "rank": 44,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 13754,
