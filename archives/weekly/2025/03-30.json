@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743268816965,
+  "endTime": 1743269843001,
   "band_list": [
     {
       "raw_hot": 1925246,
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59103,
+      "num": 97511,
+      "word": "美国网红甲亢哥来河南学习中国功夫",
+      "onboard_time": 1743268518,
+      "rank": 23,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 51889,
       "num": 54018,
       "word": "李荣浩演唱会",
@@ -467,7 +475,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 36343,
+      "raw_hot": 51268,
+      "num": 51268,
+      "word": "白敬亭直播",
+      "onboard_time": 1743268998,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 48853,
       "num": 243706,
       "word": "官方通报云南会泽4.4级地震",
       "onboard_time": 1743265282,
@@ -475,12 +491,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 35368,
-      "num": 97511,
-      "word": "美国网红甲亢哥来河南学习中国功夫",
-      "onboard_time": 1743268518,
-      "rank": 23,
-      "category": "民生新闻,网红"
+      "raw_hot": 30091,
+      "num": 67825,
+      "word": "南部战区发言人发表谈话",
+      "onboard_time": 1743269718,
+      "rank": 33,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
