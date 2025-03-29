@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743244929711,
+  "endTime": 1743247188631,
   "band_list": [
     {
       "raw_hot": 4621424,
@@ -187,12 +187,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 983523,
+      "num": 859173,
+      "word": "李国祥去世",
+      "onboard_time": 1743244882,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 973502,
       "num": 973502,
       "word": "央妈发了6条王蓉",
       "onboard_time": 1743175583,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 957611,
+      "num": 957611,
+      "word": "世界上最大的宫殿在地震中坍塌",
+      "onboard_time": 1743242482,
+      "rank": 5,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 930862,
@@ -219,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 892938,
+      "num": 434987,
+      "word": "彭昱畅怎么帅成这样了",
+      "onboard_time": 1743243981,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 791110,
       "num": 424885,
       "word": "妻子举报丈夫出轨上海一财政局副科长",
@@ -233,14 +257,6 @@
       "onboard_time": 1743213500,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 747252,
-      "num": 747252,
-      "word": "世界上最大的宫殿在地震中坍塌",
-      "onboard_time": 1743242482,
-      "rank": 5,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 733991,
@@ -305,6 +321,14 @@
       "onboard_time": 1743231382,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 617095,
+      "num": 617095,
+      "word": "中国救援队抵达缅甸",
+      "onboard_time": 1743244582,
+      "rank": 15,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 602663,
@@ -427,6 +451,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 431425,
+      "num": 431425,
+      "word": "权志龙演唱会",
+      "onboard_time": 1743244823,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 424710,
       "num": 424710,
       "word": "雪莉拍完real去了精神科",
@@ -451,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397887,
+      "num": 397887,
+      "word": "她甚至动了我都还以为是洋娃娃",
+      "onboard_time": 1743241523,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 392875,
       "num": 392875,
       "word": "中国驻泰使馆发布安全提醒",
@@ -473,14 +513,6 @@
       "onboard_time": 1743223462,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 383682,
-      "num": 383682,
-      "word": "她甚至动了我都还以为是洋娃娃",
-      "onboard_time": 1743241523,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 377350,
@@ -555,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 333440,
-      "num": 333440,
-      "word": "彭昱畅怎么帅成这样了",
-      "onboard_time": 1743243981,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 330422,
       "num": 636723,
       "word": "缅甸一大楼倒塌4楼以下全被埋",
@@ -577,6 +601,14 @@
       "onboard_time": 1743169884,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323595,
+      "num": 265393,
+      "word": "云南曲靖4.1级地震",
+      "onboard_time": 1743246263,
+      "rank": 30,
+      "category": "民生新闻,民生新闻"
     },
     {
       "raw_hot": 323436,
@@ -675,12 +707,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290352,
+      "num": 290352,
+      "word": "武汉一幼儿园上课70%时间在巡山",
+      "onboard_time": 1743243381,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288243,
       "num": 275933,
       "word": "男子长期被妻子责骂偷住邻居家被抓",
       "onboard_time": 1743226882,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279796,
+      "num": 279796,
+      "word": "曼谷中国超市免费提供矿泉水等物资",
+      "onboard_time": 1743245544,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 273309,
@@ -705,14 +753,6 @@
       "onboard_time": 1743169644,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 265184,
-      "num": 265184,
-      "word": "武汉一幼儿园上课70%时间在巡山",
-      "onboard_time": 1743243381,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261419,
@@ -809,6 +849,22 @@
       "onboard_time": 1743224123,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 211741,
+      "num": 211741,
+      "word": "祝福中国救援队平安归来",
+      "onboard_time": 1743245362,
+      "rank": 34,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 209937,
+      "num": 209937,
+      "word": "缅甸地震致瑞丽458户房屋受损",
+      "onboard_time": 1743246323,
+      "rank": 35,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 209072,
@@ -923,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197172,
+      "num": 265865,
+      "word": "王珞丹把李晟往前推",
+      "onboard_time": 1743246624,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194997,
       "num": 194997,
       "word": "章昊你好星期六",
@@ -961,6 +1025,14 @@
       "onboard_time": 1743176661,
       "rank": 24,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 189102,
+      "num": 265681,
+      "word": "原来我早就认识蒋一侨",
+      "onboard_time": 1743246443,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 188922,
@@ -1107,6 +1179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 174792,
+      "num": 174792,
+      "word": "TES战胜NIP",
+      "onboard_time": 1743246742,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173990,
       "num": 173990,
       "word": "辛云来演技",
@@ -1155,6 +1235,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168397,
+      "num": 450117,
+      "word": "曲靖4.4级地震",
+      "onboard_time": 1743246564,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 168393,
+      "num": 168393,
+      "word": "日知名综艺恶意剪辑中国人爱吃乌鸦",
+      "onboard_time": 1743246383,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168099,
       "num": 285865,
       "word": "面筋哥留给大家的祝福",
@@ -1193,6 +1289,14 @@
       "onboard_time": 1743244221,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161789,
+      "num": 161789,
+      "word": "徐冬冬发自己高清怼脸生图",
+      "onboard_time": 1743246323,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 161692,
@@ -1289,6 +1393,14 @@
       "onboard_time": 1743215361,
       "rank": 30,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 157149,
+      "num": 157149,
+      "word": "王智不愧是参加过浪姐的人",
+      "onboard_time": 1743246443,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 156985,
@@ -1595,14 +1707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 132522,
-      "num": 128952,
-      "word": "权志龙演唱会",
-      "onboard_time": 1743244823,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 132244,
       "num": 132244,
       "word": "职测答案",
@@ -1691,6 +1795,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 127089,
+      "num": 127089,
+      "word": "美食时间",
+      "onboard_time": 1743246443,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 126906,
       "num": 126906,
       "word": "林一直播",
@@ -1731,14 +1843,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 123510,
-      "num": 123400,
-      "word": "李国祥去世",
-      "onboard_time": 1743244882,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123441,
       "num": 123441,
       "word": "父母相爱就是最好的家庭教育",
@@ -1761,6 +1865,22 @@
       "onboard_time": 1743219379,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122005,
+      "num": 122005,
+      "word": "高层住宅为什么不好卖了",
+      "onboard_time": 1743245603,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121623,
+      "num": 121623,
+      "word": "李昀锐撑伞骑马",
+      "onboard_time": 1743245122,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 121237,
@@ -1945,14 +2065,6 @@
       "onboard_time": 1743153924,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109632,
-      "num": 394323,
-      "word": "中国救援队抵达缅甸",
-      "onboard_time": 1743244582,
-      "rank": 15,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 109464,
@@ -2209,6 +2321,14 @@
       "onboard_time": 1743179360,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81858,
+      "num": 117187,
+      "word": "雷军3个感谢",
+      "onboard_time": 1743245242,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 81817,
@@ -2555,6 +2675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27410,
+      "num": 298904,
+      "word": "加沙战火为何反复",
+      "onboard_time": 1743246202,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26415,
       "num": 181141,
       "word": "中国云南救援医疗队出征赴缅",
@@ -2571,11 +2699,19 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 25645,
-      "num": 855531,
+      "raw_hot": 25988,
+      "num": 871783,
       "word": "当AI遇上广西三月三",
       "onboard_time": 1743171326,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25603,
+      "num": 399757,
+      "word": "捐书北大教授还将捐出部分手稿",
+      "onboard_time": 1743246142,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2719,6 +2855,9 @@
     },
     {
       "word": "#中国是有利于外资企业投资兴业的一方沃土#"
+    },
+    {
+      "word": "#习近平向缅甸领导人致慰问电#"
     }
   ]
 }

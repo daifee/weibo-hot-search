@@ -1,0 +1,410 @@
+{
+  "runTime": 1743247188631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1217094,
+        "num": 1217094,
+        "word": "王一博亚军",
+        "onboard_time": 1743240441,
+        "rank": 0,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 957611,
+        "num": 957611,
+        "word": "世界上最大的宫殿在地震中坍塌",
+        "onboard_time": 1743242482,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 25988,
+        "num": 871783,
+        "word": "当AI遇上广西三月三",
+        "onboard_time": 1743171326,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 983523,
+        "num": 859173,
+        "word": "李国祥去世",
+        "onboard_time": 1743244882,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 803100,
+        "num": 803100,
+        "word": "韩国扑救山火消防员的盒饭",
+        "onboard_time": 1743237682,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 617095,
+        "num": 617095,
+        "word": "中国救援队抵达缅甸",
+        "onboard_time": 1743244582,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 598916,
+        "num": 598916,
+        "word": "缅甸地震致1002死2376伤",
+        "onboard_time": 1743224842,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 571524,
+        "num": 571524,
+        "word": "中国政府决定向缅甸提供1亿元",
+        "onboard_time": 1743231862,
+        "rank": 7,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 454307,
+        "num": 454307,
+        "word": "事业编 开除小王",
+        "onboard_time": 1743225203,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168397,
+        "num": 450117,
+        "word": "曲靖4.4级地震",
+        "onboard_time": 1743246564,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2602034,
+        "num": 443613,
+        "word": "bnd粉丝去世",
+        "onboard_time": 1743235701,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1104143,
+        "num": 439338,
+        "word": "戚薇二胎产子画面",
+        "onboard_time": 1743239362,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 892938,
+        "num": 434987,
+        "word": "彭昱畅怎么帅成这样了",
+        "onboard_time": 1743243981,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431425,
+        "num": 431425,
+        "word": "权志龙演唱会",
+        "onboard_time": 1743244823,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25603,
+        "num": 399757,
+        "word": "捐书北大教授还将捐出部分手稿",
+        "onboard_time": 1743246142,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397887,
+        "num": 397887,
+        "word": "她甚至动了我都还以为是洋娃娃",
+        "onboard_time": 1743241523,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381418,
+        "num": 381418,
+        "word": "胖东来店长平均月薪78058元",
+        "onboard_time": 1743225382,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358203,
+        "num": 358203,
+        "word": "雁回时",
+        "onboard_time": 1743242423,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307895,
+        "num": 307895,
+        "word": "叶童三公 跳楼机",
+        "onboard_time": 1743230602,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27410,
+        "num": 298904,
+        "word": "加沙战火为何反复",
+        "onboard_time": 1743246202,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 343011,
+        "num": 298715,
+        "word": "女子游泳被教练偷拍发网上宣传",
+        "onboard_time": 1743239601,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296420,
+        "num": 296420,
+        "word": "乐事薯片被曝含致癌添加剂",
+        "onboard_time": 1743205938,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 290352,
+        "num": 290352,
+        "word": "武汉一幼儿园上课70%时间在巡山",
+        "onboard_time": 1743243381,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279796,
+        "num": 279796,
+        "word": "曼谷中国超市免费提供矿泉水等物资",
+        "onboard_time": 1743245544,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 271623,
+        "num": 271623,
+        "word": "门童成员发文",
+        "onboard_time": 1743203959,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271270,
+        "num": 271270,
+        "word": "胖东来要投资70亿开梦之城",
+        "onboard_time": 1743241582,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265979,
+        "num": 265979,
+        "word": "缅甸地震云南多地受影响",
+        "onboard_time": 1743239301,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 197172,
+        "num": 265865,
+        "word": "王珞丹把李晟往前推",
+        "onboard_time": 1743246624,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189102,
+        "num": 265681,
+        "word": "原来我早就认识蒋一侨",
+        "onboard_time": 1743246443,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185475,
+        "num": 265561,
+        "word": "彭小苒房琪起争执",
+        "onboard_time": 1743230481,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323595,
+        "num": 265393,
+        "word": "云南曲靖4.1级地震",
+        "onboard_time": 1743246263,
+        "rank": 30,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 265252,
+        "num": 265252,
+        "word": "泰国一公寓天桥因强震断裂",
+        "onboard_time": 1743242482,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 261351,
+        "num": 261351,
+        "word": "面筋哥去世",
+        "onboard_time": 1743220402,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 224959,
+        "num": 224959,
+        "word": "缅甸政府向国际求援",
+        "onboard_time": 1743243381,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 211741,
+        "num": 211741,
+        "word": "祝福中国救援队平安归来",
+        "onboard_time": 1743245362,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 209937,
+        "num": 209937,
+        "word": "缅甸地震致瑞丽458户房屋受损",
+        "onboard_time": 1743246323,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 174792,
+        "num": 174792,
+        "word": "TES战胜NIP",
+        "onboard_time": 1743246742,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168393,
+        "num": 168393,
+        "word": "日知名综艺恶意剪辑中国人爱吃乌鸦",
+        "onboard_time": 1743246383,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161789,
+        "num": 161789,
+        "word": "徐冬冬发自己高清怼脸生图",
+        "onboard_time": 1743246323,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157149,
+        "num": 157149,
+        "word": "王智不愧是参加过浪姐的人",
+        "onboard_time": 1743246443,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145118,
+        "num": 145118,
+        "word": "荷兰警方发现中国留学生罗生门遗体",
+        "onboard_time": 1743226281,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142727,
+        "num": 142727,
+        "word": "哪吒2冲TOP4",
+        "onboard_time": 1743223401,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141176,
+        "num": 141176,
+        "word": "郑雅贤开球",
+        "onboard_time": 1743239301,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127308,
+        "num": 127308,
+        "word": "王一博开香槟最慢",
+        "onboard_time": 1743242602,
+        "rank": 43,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 127089,
+        "num": 127089,
+        "word": "美食时间",
+        "onboard_time": 1743246443,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125845,
+        "num": 125845,
+        "word": "玫瑰 我想一个人生活",
+        "onboard_time": 1743237983,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 122005,
+        "num": 122005,
+        "word": "高层住宅为什么不好卖了",
+        "onboard_time": 1743245603,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121623,
+        "num": 121623,
+        "word": "李昀锐撑伞骑马",
+        "onboard_time": 1743245122,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93835,
+        "num": 117698,
+        "word": "什么是脑雾反应",
+        "onboard_time": 1743241523,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81858,
+        "num": 117187,
+        "word": "雷军3个感谢",
+        "onboard_time": 1743245242,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向缅甸领导人致慰问电#"
+    }
+  }
+}
