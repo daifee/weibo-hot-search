@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743252135829,
+  "endTime": 1743253059214,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -3811,6 +3811,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1294139,
+      "num": 444720,
+      "word": "曝金秀贤曾和著名女演员交往",
+      "onboard_time": 1743250522,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1287402,
       "num": 1287402,
       "word": "胖东来红内裤当事人道歉",
@@ -5003,6 +5011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1125118,
+      "num": 1180018,
+      "word": "何泓姗澄清",
+      "onboard_time": 1743249863,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1121767,
       "num": 659194,
       "word": "陶喆方大同",
@@ -5497,14 +5513,6 @@
       "onboard_time": 1742502074,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1052770,
-      "num": 444720,
-      "word": "曝金秀贤曾和著名女演员交往",
-      "onboard_time": 1743250522,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1052270,
@@ -6865,14 +6873,6 @@
       "onboard_time": 1741952662,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 914903,
-      "num": 829746,
-      "word": "何泓姗澄清",
-      "onboard_time": 1743249863,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 914702,
@@ -9604,7 +9604,7 @@
     },
     {
       "raw_hot": 729211,
-      "num": 623864,
+      "num": 675558,
       "word": "张翰时隔三年再发微博",
       "onboard_time": 1743250282,
       "rank": 6,
@@ -9705,6 +9705,14 @@
       "onboard_time": 1742271925,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 726509,
+      "num": 676508,
+      "word": "雁回时好像疯走了",
+      "onboard_time": 1743249803,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 726376,
@@ -10331,14 +10339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 688369,
-      "num": 568969,
-      "word": "雁回时好像疯走了",
-      "onboard_time": 1743249803,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 688223,
       "num": 236936,
       "word": "喝咖啡与不喝咖啡身体的差距",
@@ -10609,6 +10609,14 @@
       "onboard_time": 1743077182,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 676643,
+      "num": 676643,
+      "word": "三年赚70万网约车司机发声",
+      "onboard_time": 1743248842,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 676629,
@@ -11040,14 +11048,6 @@
       "word": "东方集团涉嫌重大财务造假",
       "onboard_time": 1740750979,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 653450,
-      "num": 653450,
-      "word": "三年赚70万网约车司机发声",
-      "onboard_time": 1743248842,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -23747,6 +23747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 317308,
+      "num": 317308,
+      "word": "K总第二场婚礼",
+      "onboard_time": 1743249503,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 317302,
       "num": 317302,
       "word": "刘耀文腹肌",
@@ -23793,6 +23801,14 @@
       "onboard_time": 1741326564,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316423,
+      "num": 316423,
+      "word": "身体5个表现提示肝病了",
+      "onboard_time": 1743251724,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 316095,
@@ -24144,6 +24160,14 @@
       "word": "缅甸政府向国际求援",
       "onboard_time": 1743243381,
       "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 309905,
+      "num": 363803,
+      "word": "缅甸震中华人目睹12楼变3楼",
+      "onboard_time": 1743251783,
+      "rank": 17,
       "category": "突发/灾害"
     },
     {
@@ -25729,14 +25753,6 @@
       "onboard_time": 1740886340,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289404,
-      "num": 289404,
-      "word": "K总第二场婚礼",
-      "onboard_time": 1743249503,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 289206,
@@ -31339,6 +31355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231128,
+      "num": 231128,
+      "word": "门童多位粉丝失联",
+      "onboard_time": 1743251304,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230975,
       "num": 230975,
       "word": "孟子义李昀锐同款战损妆",
@@ -31697,6 +31721,14 @@
       "onboard_time": 1741661782,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228155,
+      "num": 300304,
+      "word": "尹子维看秀时还在教徐冬冬英文",
+      "onboard_time": 1743251182,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 228092,
@@ -34291,6 +34323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 212614,
+      "num": 212614,
+      "word": "白敬亭流浪鞋",
+      "onboard_time": 1743251963,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212492,
       "num": 326123,
       "word": "徐若晗一条一条给粉丝回信",
@@ -35635,6 +35675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206653,
+      "num": 206653,
+      "word": "棋士俗手本手妙手",
+      "onboard_time": 1743252204,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206639,
       "num": 201852,
       "word": "烽影燃梅香",
@@ -36025,14 +36073,6 @@
       "onboard_time": 1741187239,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 205004,
-      "num": 205004,
-      "word": "门童多位粉丝失联",
-      "onboard_time": 1743251304,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 204978,
@@ -38017,6 +38057,14 @@
       "onboard_time": 1741933162,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198399,
+      "num": 198399,
+      "word": "周深墨尔本上座率",
+      "onboard_time": 1743252625,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 198380,
@@ -41531,6 +41579,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 186649,
+      "num": 186649,
+      "word": "用户吐槽小米su7ultra试驾雷军秒道歉",
+      "onboard_time": 1743252923,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 186612,
       "num": 204734,
       "word": "SEVENTEEN出演罗PD新综艺",
@@ -44691,14 +44747,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 174398,
-      "num": 174398,
-      "word": "身体5个表现提示肝病了",
-      "onboard_time": 1743251724,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 174397,
       "num": 304182,
       "word": "植树节发微博会发芽",
@@ -45339,6 +45387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 171581,
+      "num": 171581,
+      "word": "玉渊潭",
+      "onboard_time": 1743252026,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 171540,
       "num": 171540,
       "word": "北上乱成一锅粥了快喝了吧",
@@ -45584,14 +45640,6 @@
       "word": "Sia离婚",
       "onboard_time": 1742447423,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 170818,
-      "num": 300304,
-      "word": "尹子维看秀时还在教徐冬冬英文",
-      "onboard_time": 1743251182,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -55419,6 +55467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142549,
+      "num": 316754,
+      "word": "尹子维徐冬冬真情侣果然好嗑",
+      "onboard_time": 1743252443,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142539,
       "num": 142539,
       "word": "A勒布伦期待与樊振东再次交手",
@@ -60099,6 +60155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129572,
+      "num": 129572,
+      "word": "女子嫌头发被剪太丑当场报警",
+      "onboard_time": 1743251063,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129533,
       "num": 129533,
       "word": "沙溢刚刚发文回应美黑",
@@ -60617,14 +60681,6 @@
       "onboard_time": 1742209944,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128245,
-      "num": 128245,
-      "word": "白敬亭流浪鞋",
-      "onboard_time": 1743251963,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 128238,
@@ -62473,14 +62529,6 @@
       "onboard_time": 1742204363,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 123853,
-      "num": 123853,
-      "word": "玉渊潭",
-      "onboard_time": 1743252026,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 123851,
@@ -70483,14 +70531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103003,
-      "num": 307688,
-      "word": "缅甸震中华人目睹12楼变3楼",
-      "onboard_time": 1743251783,
-      "rank": 17,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 102986,
       "num": 102986,
       "word": "奔跑吧13出发图",
@@ -77475,6 +77515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75648,
+      "num": 171977,
+      "word": "胡兵担任中国国际时装周全球推广大使",
+      "onboard_time": 1743251603,
+      "rank": 40,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 75628,
       "num": 396328,
       "word": "内娱苦中年演员扮嫩久矣",
@@ -77769,6 +77817,14 @@
       "onboard_time": 1741147100,
       "rank": 18,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 73886,
+      "num": 391091,
+      "word": "缅甸7.9级地震前后对比",
+      "onboard_time": 1743252502,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 73869,
@@ -86763,14 +86819,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 36803,
-      "num": 157357,
-      "word": "胡兵担任中国国际时装周全球推广大使",
-      "onboard_time": 1743251603,
-      "rank": 40,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 36797,
       "num": 250604,
       "word": "丹麦政府将坚决抵制美国压力",
@@ -92801,6 +92849,14 @@
       "onboard_time": 1740989538,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 17129,
+      "num": 316566,
+      "word": "震后仰光到曼德勒需11小时车程",
+      "onboard_time": 1743252443,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 17105,

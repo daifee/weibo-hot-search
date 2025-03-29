@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743252135829,
+  "endTime": 1743253059214,
   "band_list": [
     {
       "raw_hot": 4621424,
@@ -123,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1294139,
+      "num": 444720,
+      "word": "曝金秀贤曾和著名女演员交往",
+      "onboard_time": 1743250522,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1167442,
       "num": 618259,
       "word": "赵露思脑雾反应",
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1125118,
+      "num": 1180018,
+      "word": "何泓姗澄清",
+      "onboard_time": 1743249863,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1085454,
       "num": 1085454,
       "word": "专八",
@@ -169,14 +185,6 @@
       "onboard_time": 1743168083,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1052770,
-      "num": 444720,
-      "word": "曝金秀贤曾和著名女演员交往",
-      "onboard_time": 1743250522,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1036840,
@@ -259,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 914903,
-      "num": 829746,
-      "word": "何泓姗澄清",
-      "onboard_time": 1743249863,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 897425,
       "num": 897425,
       "word": "曲靖4.4级地震",
@@ -308,11 +308,19 @@
     },
     {
       "raw_hot": 729211,
-      "num": 623864,
+      "num": 675558,
       "word": "张翰时隔三年再发微博",
       "onboard_time": 1743250282,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 726509,
+      "num": 676508,
+      "word": "雁回时好像疯走了",
+      "onboard_time": 1743249803,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 704518,
@@ -339,12 +347,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 688369,
-      "num": 568969,
-      "word": "雁回时好像疯走了",
-      "onboard_time": 1743249803,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 676643,
+      "num": 676643,
+      "word": "三年赚70万网约车司机发声",
+      "onboard_time": 1743248842,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 659936,
@@ -360,14 +368,6 @@
       "word": "胖东来基层员工平均月薪9886元",
       "onboard_time": 1743219860,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 653450,
-      "num": 653450,
-      "word": "三年赚70万网约车司机发声",
-      "onboard_time": 1743248842,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -699,12 +699,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317308,
+      "num": 317308,
+      "word": "K总第二场婚礼",
+      "onboard_time": 1743249503,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 317302,
       "num": 317302,
       "word": "刘耀文腹肌",
       "onboard_time": 1743227841,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316423,
+      "num": 316423,
+      "word": "身体5个表现提示肝病了",
+      "onboard_time": 1743251724,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 315902,
@@ -728,6 +744,14 @@
       "word": "缅甸政府向国际求援",
       "onboard_time": 1743243381,
       "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 309905,
+      "num": 363803,
+      "word": "缅甸震中华人目睹12楼变3楼",
+      "onboard_time": 1743251783,
+      "rank": 17,
       "category": "突发/灾害"
     },
     {
@@ -793,14 +817,6 @@
       "onboard_time": 1743243381,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289404,
-      "num": 289404,
-      "word": "K总第二场婚礼",
-      "onboard_time": 1743249503,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 288243,
@@ -899,6 +915,22 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 231128,
+      "num": 231128,
+      "word": "门童多位粉丝失联",
+      "onboard_time": 1743251304,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 228155,
+      "num": 300304,
+      "word": "尹子维看秀时还在教徐冬冬英文",
+      "onboard_time": 1743251182,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224320,
       "num": 224320,
       "word": "无限超越班开播",
@@ -947,6 +979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 212614,
+      "num": 212614,
+      "word": "白敬亭流浪鞋",
+      "onboard_time": 1743251963,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211741,
       "num": 211741,
       "word": "祝福中国救援队平安归来",
@@ -971,6 +1011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 208907,
+      "num": 208907,
+      "word": "雁回时热度",
+      "onboard_time": 1743251724,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207603,
       "num": 207603,
       "word": "我和英专离婚了",
@@ -979,20 +1027,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 206653,
+      "num": 206653,
+      "word": "棋士俗手本手妙手",
+      "onboard_time": 1743252204,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205501,
       "num": 205501,
       "word": "nctwish 中国",
       "onboard_time": 1743232942,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 205004,
-      "num": 205004,
-      "word": "门童多位粉丝失联",
-      "onboard_time": 1743251304,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 204715,
@@ -1073,6 +1121,14 @@
       "onboard_time": 1743217220,
       "rank": 25,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 198399,
+      "num": 198399,
+      "word": "周深墨尔本上座率",
+      "onboard_time": 1743252625,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 197407,
@@ -1161,6 +1217,14 @@
       "onboard_time": 1743192854,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186649,
+      "num": 186649,
+      "word": "用户吐槽小米su7ultra试驾雷军秒道歉",
+      "onboard_time": 1743252923,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 186384,
@@ -1307,14 +1371,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 174398,
-      "num": 174398,
-      "word": "身体5个表现提示肝病了",
-      "onboard_time": 1743251724,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 173990,
       "num": 173990,
       "word": "辛云来演技",
@@ -1347,12 +1403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170818,
-      "num": 300304,
-      "word": "尹子维看秀时还在教徐冬冬英文",
-      "onboard_time": 1743251182,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 171581,
+      "num": 171581,
+      "word": "玉渊潭",
+      "onboard_time": 1743252026,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 170578,
@@ -1385,14 +1441,6 @@
       "onboard_time": 1743224723,
       "rank": 17,
       "category": "网红"
-    },
-    {
-      "raw_hot": 167967,
-      "num": 167967,
-      "word": "雁回时热度",
-      "onboard_time": 1743251724,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 167606,
@@ -1787,6 +1835,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 142549,
+      "num": 316754,
+      "word": "尹子维徐冬冬真情侣果然好嗑",
+      "onboard_time": 1743252443,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142085,
       "num": 142085,
       "word": "金秀贤撒谎说替身不在",
@@ -1947,6 +2003,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 129572,
+      "num": 129572,
+      "word": "女子嫌头发被剪太丑当场报警",
+      "onboard_time": 1743251063,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129471,
       "num": 129471,
       "word": "蒋梦婕在玩aespa的cosplay",
@@ -1969,14 +2033,6 @@
       "onboard_time": 1743198314,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128245,
-      "num": 128245,
-      "word": "白敬亭流浪鞋",
-      "onboard_time": 1743251963,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 128238,
@@ -2057,14 +2113,6 @@
       "onboard_time": 1743240862,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123853,
-      "num": 123853,
-      "word": "玉渊潭",
-      "onboard_time": 1743252026,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 123525,
@@ -2411,14 +2459,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 103003,
-      "num": 307688,
-      "word": "缅甸震中华人目睹12楼变3楼",
-      "onboard_time": 1743251783,
-      "rank": 17,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 102324,
       "num": 106567,
       "word": "第五人格七周年",
@@ -2611,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75648,
+      "num": 171977,
+      "word": "胡兵担任中国国际时装周全球推广大使",
+      "onboard_time": 1743251603,
+      "rank": 40,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 75039,
       "num": 75039,
       "word": "震中附近一华人说人没了货也没了",
@@ -2633,6 +2681,14 @@
       "onboard_time": 1743239661,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 73886,
+      "num": 391091,
+      "word": "缅甸7.9级地震前后对比",
+      "onboard_time": 1743252502,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 70957,
@@ -2875,14 +2931,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 36803,
-      "num": 157357,
-      "word": "胡兵担任中国国际时装周全球推广大使",
-      "onboard_time": 1743251603,
-      "rank": 40,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 36595,
       "num": 424972,
       "word": "国际工商界代表来到人民大会堂",
@@ -3049,6 +3097,14 @@
       "onboard_time": 1743188834,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17129,
+      "num": 316566,
+      "word": "震后仰光到曼德勒需11小时车程",
+      "onboard_time": 1743252443,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 14571,
