@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743283287391,
+  "endTime": 1743284159325,
   "band_list": [
     {
       "raw_hot": 1925246,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126087,
+      "num": 176858,
+      "word": "孔龙自美归国",
+      "onboard_time": 1743277275,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122367,
       "num": 122367,
       "word": "南部战区发言人发表谈话",
@@ -313,14 +321,6 @@
       "onboard_time": 1743244582,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 104588,
-      "num": 127845,
-      "word": "孔龙自美归国",
-      "onboard_time": 1743277275,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 104270,
@@ -539,6 +539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 32676,
+      "num": 32676,
+      "word": "乡村爱情赵玉田带货厂家承认造假",
+      "onboard_time": 1743279254,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30931,
       "num": 48634,
       "word": "美副总统抵达格陵兰吐槽天气飙脏话",
@@ -579,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23400,
-      "num": 26446,
-      "word": "乡村爱情赵玉田带货厂家承认造假",
-      "onboard_time": 1743279254,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 21798,
       "num": 24658,
       "word": "周深风吹过的晨曦首唱舞台",
@@ -603,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19304,
+      "num": 34891,
+      "word": "缅甸地震救援在一线",
+      "onboard_time": 1743282374,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 18321,
       "num": 27712,
       "word": "在缅华人称中国公民正组织自救",
@@ -611,7 +619,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 16514,
+      "raw_hot": 16541,
       "num": 17775,
       "word": "生命树",
       "onboard_time": 1743280333,
@@ -619,7 +627,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14636,
+      "raw_hot": 15831,
       "num": 16512,
       "word": "缅甸强震遇难人数升至1002人",
       "onboard_time": 1743280934,
@@ -627,12 +635,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 12242,
-      "num": 34891,
-      "word": "缅甸地震救援在一线",
-      "onboard_time": 1743282374,
-      "rank": 9,
-      "category": "突发/灾害"
+      "raw_hot": 12563,
+      "num": 33513,
+      "word": "荷兰警方正调查清华学生罗生门死因",
+      "onboard_time": 1743283694,
+      "rank": 11,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
