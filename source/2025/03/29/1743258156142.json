@@ -1,0 +1,410 @@
+{
+  "runTime": 1743258156142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1573983,
+        "num": 1573983,
+        "word": "缅甸地震致1644死3408伤",
+        "onboard_time": 1743255443,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 915386,
+        "num": 915386,
+        "word": "何泓姗澄清",
+        "onboard_time": 1743249863,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110960,
+        "num": 910043,
+        "word": "中国资产已成为当下世界潮流",
+        "onboard_time": 1743256583,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1702295,
+        "num": 909923,
+        "word": "浪姐聊天记录",
+        "onboard_time": 1743254303,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 908816,
+        "num": 908816,
+        "word": "用户吐槽小米su7ultra试驾雷军秒道歉",
+        "onboard_time": 1743252923,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 620052,
+        "num": 620052,
+        "word": "缅甸震中华人目睹12楼变3楼",
+        "onboard_time": 1743251783,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 647127,
+        "num": 609308,
+        "word": "雁回时好像疯走了",
+        "onboard_time": 1743249803,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 594125,
+        "num": 594125,
+        "word": "云南曲靖4.4级地震",
+        "onboard_time": 1743246564,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 535379,
+        "num": 535379,
+        "word": "王一博亚军",
+        "onboard_time": 1743240441,
+        "rank": 8,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 397564,
+        "num": 397564,
+        "word": "缅甸7.9级地震前后对比",
+        "onboard_time": 1743252502,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 875212,
+        "num": 395827,
+        "word": "曝金秀贤曾和著名女演员交往",
+        "onboard_time": 1743250522,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504666,
+        "num": 387145,
+        "word": "你好星期六下期有哪吒敖丙",
+        "onboard_time": 1743256583,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495145,
+        "num": 377621,
+        "word": "安静公主长了一个肿瘤",
+        "onboard_time": 1743258084,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 493151,
+        "num": 370357,
+        "word": "戚薇二胎产子画面",
+        "onboard_time": 1743239362,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86526,
+        "num": 367072,
+        "word": "华人称曼德勒仿佛成了孤岛",
+        "onboard_time": 1743256764,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 415640,
+        "num": 360536,
+        "word": "彭昱畅怎么帅成这样了",
+        "onboard_time": 1743243981,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353504,
+        "num": 353504,
+        "word": "宋亚轩刘耀文冷战过",
+        "onboard_time": 1743253163,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334025,
+        "num": 334025,
+        "word": "女子嫌头发被剪太丑当场报警",
+        "onboard_time": 1743251063,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330251,
+        "num": 330251,
+        "word": "张翰时隔三年再发微博",
+        "onboard_time": 1743250282,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248144,
+        "num": 248144,
+        "word": "三年赚70万网约车司机发声",
+        "onboard_time": 1743248842,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2268226,
+        "num": 246567,
+        "word": "bnd粉丝去世",
+        "onboard_time": 1743235701,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 312812,
+        "num": 243830,
+        "word": "李国祥去世",
+        "onboard_time": 1743244882,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312425,
+        "num": 238702,
+        "word": "身体5个表现提示肝病了",
+        "onboard_time": 1743251724,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 286888,
+        "num": 234143,
+        "word": "门童多位粉丝失联",
+        "onboard_time": 1743251304,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86946,
+        "num": 229737,
+        "word": "教育一直具有前瞻性",
+        "onboard_time": 1743256823,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 228864,
+        "num": 228864,
+        "word": "中国救援队抵达缅甸",
+        "onboard_time": 1743244582,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 276490,
+        "num": 225997,
+        "word": "能不能加rap周杰伦还不知道吗",
+        "onboard_time": 1743255864,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217975,
+        "num": 217975,
+        "word": "范玮琪演唱会",
+        "onboard_time": 1743254065,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217021,
+        "num": 217021,
+        "word": "权志龙演唱会",
+        "onboard_time": 1743244823,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210614,
+        "num": 210614,
+        "word": "雁回时",
+        "onboard_time": 1743242423,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209562,
+        "num": 209562,
+        "word": "林一发长文告别国王",
+        "onboard_time": 1743256823,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210506,
+        "num": 209429,
+        "word": "雁回时热度",
+        "onboard_time": 1743251724,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208445,
+        "num": 208445,
+        "word": "云南天空惊现血红太阳",
+        "onboard_time": 1743258084,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193701,
+        "num": 193701,
+        "word": "缅甸地震云南多地受影响",
+        "onboard_time": 1743239301,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 186127,
+        "num": 186127,
+        "word": "祝绪丹一定经常用这个表情包吧",
+        "onboard_time": 1743256764,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185314,
+        "num": 185314,
+        "word": "韩国扑救山火消防员的盒饭",
+        "onboard_time": 1743237682,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172519,
+        "num": 172519,
+        "word": "武汉一幼儿园上课70%时间在巡山",
+        "onboard_time": 1743243381,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171733,
+        "num": 171733,
+        "word": "奔跑吧第十三季首录战报",
+        "onboard_time": 1743257304,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170693,
+        "num": 170693,
+        "word": "李佳航收工直奔网吧",
+        "onboard_time": 1743255202,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163482,
+        "num": 163482,
+        "word": "李嘉诚卖港口交易暂缓",
+        "onboard_time": 1743256705,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45225,
+        "num": 158169,
+        "word": "3年赚70万司机分享人生故事",
+        "onboard_time": 1743254303,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157554,
+        "num": 157554,
+        "word": "大雁甚至都怀疑自己飞错方向了",
+        "onboard_time": 1743253704,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152892,
+        "num": 152892,
+        "word": "失联中国留学生罗生门遗体被找到",
+        "onboard_time": 1743257844,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83211,
+        "num": 152020,
+        "word": "祝福中国救援队平安归来",
+        "onboard_time": 1743245362,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 666899,
+        "num": 151960,
+        "word": "世界上最大的宫殿在地震中坍塌",
+        "onboard_time": 1743242482,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 151217,
+        "num": 151217,
+        "word": "一天吃300多包薯片才可能致命",
+        "onboard_time": 1743250763,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147433,
+        "num": 150158,
+        "word": "在无限超越班发现另一个丁真",
+        "onboard_time": 1743256104,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150156,
+        "num": 150156,
+        "word": "日本偶遇宋小宝",
+        "onboard_time": 1743255202,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148165,
+        "num": 148165,
+        "word": "玉渊潭",
+        "onboard_time": 1743252026,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147796,
+        "num": 147796,
+        "word": "部分中国民间救援队自驾前往震中",
+        "onboard_time": 1743254483,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国是有利于外资企业投资兴业的一方沃土#"
+    }
+  }
+}

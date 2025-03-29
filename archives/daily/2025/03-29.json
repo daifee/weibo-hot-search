@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743255519536,
+  "endTime": 1743258156142,
   "band_list": [
     {
       "raw_hot": 4621424,
@@ -67,12 +67,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1702295,
+      "num": 909923,
+      "word": "浪姐聊天记录",
+      "onboard_time": 1743254303,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1585854,
       "num": 1174008,
       "word": "荷兰警方发现中国留学生罗生门遗体",
       "onboard_time": 1743226281,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1573983,
+      "num": 1573983,
+      "word": "缅甸地震致1644死3408伤",
+      "onboard_time": 1743255443,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1508110,
@@ -267,20 +283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 908816,
+      "num": 908816,
+      "word": "用户吐槽小米su7ultra试驾雷军秒道歉",
+      "onboard_time": 1743252923,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 897425,
       "num": 897425,
       "word": "曲靖4.4级地震",
       "onboard_time": 1743246564,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 871229,
-      "num": 871229,
-      "word": "用户吐槽小米su7ultra试驾雷军秒道歉",
-      "onboard_time": 1743252923,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 824226,
@@ -305,14 +321,6 @@
       "onboard_time": 1743213500,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 783146,
-      "num": 783146,
-      "word": "浪姐聊天记录",
-      "onboard_time": 1743254303,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 759885,
@@ -497,6 +505,22 @@
       "onboard_time": 1743216141,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 504666,
+      "num": 387145,
+      "word": "你好星期六下期有哪吒敖丙",
+      "onboard_time": 1743256583,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 495145,
+      "num": 377621,
+      "word": "安静公主长了一个肿瘤",
+      "onboard_time": 1743258084,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 486562,
@@ -699,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334025,
+      "num": 334025,
+      "word": "女子嫌头发被剪太丑当场报警",
+      "onboard_time": 1743251063,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330422,
       "num": 636723,
       "word": "缅甸一大楼倒塌4楼以下全被埋",
@@ -859,6 +891,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286888,
+      "num": 249456,
+      "word": "门童多位粉丝失联",
+      "onboard_time": 1743251304,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 276490,
+      "num": 225997,
+      "word": "能不能加rap周杰伦还不知道吗",
+      "onboard_time": 1743255864,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273309,
       "num": 273309,
       "word": "发现大爷贴小广告卖猫片差点报警",
@@ -905,14 +953,6 @@
       "onboard_time": 1743173364,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249456,
-      "num": 249456,
-      "word": "门童多位粉丝失联",
-      "onboard_time": 1743251304,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 245904,
@@ -1019,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217975,
+      "num": 217975,
+      "word": "范玮琪演唱会",
+      "onboard_time": 1743254065,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 212644,
       "num": 212644,
       "word": "职测",
@@ -1051,12 +1099,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 209562,
+      "num": 209562,
+      "word": "林一发长文告别国王",
+      "onboard_time": 1743256823,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209072,
       "num": 209072,
       "word": "中方愿尽己所能向缅方提供救援支持",
       "onboard_time": 1743206060,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 208445,
+      "num": 208445,
+      "word": "云南天空惊现血红太阳",
+      "onboard_time": 1743258084,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207603,
@@ -1113,14 +1177,6 @@
       "onboard_time": 1743225023,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202995,
-      "num": 202995,
-      "word": "女子嫌头发被剪太丑当场报警",
-      "onboard_time": 1743251063,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202640,
@@ -1299,6 +1355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 186127,
+      "num": 186127,
+      "word": "祝绪丹一定经常用这个表情包吧",
+      "onboard_time": 1743256764,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185803,
       "num": 185803,
       "word": "庞博发千字长文告别最强大脑",
@@ -1475,12 +1539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171711,
-      "num": 171711,
-      "word": "范玮琪演唱会",
-      "onboard_time": 1743254065,
-      "rank": 40,
-      "category": "演出"
+      "raw_hot": 171733,
+      "num": 171733,
+      "word": "奔跑吧第十三季首录战报",
+      "onboard_time": 1743257304,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170693,
+      "num": 170693,
+      "word": "李佳航收工直奔网吧",
+      "onboard_time": 1743255202,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 170578,
@@ -1504,14 +1576,6 @@
       "word": "虞书欣方发文报平安",
       "onboard_time": 1743148526,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 168753,
-      "num": 168753,
-      "word": "李佳航收工直奔网吧",
-      "onboard_time": 1743255202,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1569,6 +1633,14 @@
       "onboard_time": 1743166163,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163482,
+      "num": 163482,
+      "word": "李嘉诚卖港口交易暂缓",
+      "onboard_time": 1743256705,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 162743,
@@ -1779,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152892,
+      "num": 152892,
+      "word": "失联中国留学生罗生门遗体被找到",
+      "onboard_time": 1743257844,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152463,
       "num": 152463,
       "word": "房琪哭了",
@@ -1849,6 +1929,22 @@
       "onboard_time": 1743245603,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147796,
+      "num": 448104,
+      "word": "部分中国民间救援队自驾前往震中",
+      "onboard_time": 1743254483,
+      "rank": 17,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 147433,
+      "num": 150158,
+      "word": "在无限超越班发现另一个丁真",
+      "onboard_time": 1743256104,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 146772,
@@ -2427,6 +2523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110960,
+      "num": 910043,
+      "word": "中国资产已成为当下世界潮流",
+      "onboard_time": 1743256583,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110140,
       "num": 110140,
       "word": "周深把黄玫瑰寄给刘亦菲",
@@ -2715,6 +2819,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 86946,
+      "num": 229737,
+      "word": "教育一直具有前瞻性",
+      "onboard_time": 1743256823,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 86526,
+      "num": 367072,
+      "word": "华人称曼德勒仿佛成了孤岛",
+      "onboard_time": 1743256764,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 84250,
       "num": 84250,
       "word": "沙尘暴3集看谁都像凶手",
@@ -2963,14 +3083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49191,
-      "num": 448104,
-      "word": "部分中国民间救援队自驾前往震中",
-      "onboard_time": 1743254483,
-      "rank": 17,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 46726,
       "num": 150682,
       "word": "JDG对战情久",
@@ -3001,14 +3113,6 @@
       "onboard_time": 1743199694,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 44633,
-      "num": 181603,
-      "word": "缅甸地震致1644死3408伤",
-      "onboard_time": 1743255443,
-      "rank": 39,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 43031,

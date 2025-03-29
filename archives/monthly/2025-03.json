@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743255519536,
+  "endTime": 1743258156142,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2203,6 +2203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1702295,
+      "num": 909923,
+      "word": "浪姐聊天记录",
+      "onboard_time": 1743254303,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1701183,
       "num": 717238,
       "word": "西安震感",
@@ -2617,6 +2625,14 @@
       "onboard_time": 1742045374,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1573983,
+      "num": 1573983,
+      "word": "缅甸地震致1644死3408伤",
+      "onboard_time": 1743255443,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1572195,
@@ -6955,6 +6971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 908816,
+      "num": 908816,
+      "word": "用户吐槽小米su7ultra试驾雷军秒道歉",
+      "onboard_time": 1743252923,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 908753,
       "num": 908753,
       "word": "小伙忘锁公共自行车担心贷款还车费",
@@ -7441,14 +7465,6 @@
       "onboard_time": 1742360484,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 871229,
-      "num": 871229,
-      "word": "用户吐槽小米su7ultra试驾雷军秒道歉",
-      "onboard_time": 1743252923,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 871024,
@@ -8697,14 +8713,6 @@
       "onboard_time": 1740893659,
       "rank": 30,
       "category": "汽车,数码"
-    },
-    {
-      "raw_hot": 783146,
-      "num": 783146,
-      "word": "浪姐聊天记录",
-      "onboard_time": 1743254303,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 782004,
@@ -15027,6 +15035,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 504666,
+      "num": 387145,
+      "word": "你好星期六下期有哪吒敖丙",
+      "onboard_time": 1743256583,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 504490,
       "num": 568627,
       "word": "哪吒2破五",
@@ -15401,6 +15417,14 @@
       "onboard_time": 1741312761,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 495145,
+      "num": 377621,
+      "word": "安静公主长了一个肿瘤",
+      "onboard_time": 1743258084,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 495112,
@@ -22659,6 +22683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334025,
+      "num": 334025,
+      "word": "女子嫌头发被剪太丑当场报警",
+      "onboard_time": 1743251063,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333945,
       "num": 300274,
       "word": "迪丽热巴同时登上时装男女刊封面",
@@ -25947,6 +25979,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 286888,
+      "num": 249456,
+      "word": "门童多位粉丝失联",
+      "onboard_time": 1743251304,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286886,
       "num": 748071,
       "word": "上百万买的藏品只有一件是真品",
@@ -26793,6 +26833,14 @@
       "onboard_time": 1740767773,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 276490,
+      "num": 225997,
+      "word": "能不能加rap周杰伦还不知道吗",
+      "onboard_time": 1743255864,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 276462,
@@ -29281,14 +29329,6 @@
       "onboard_time": 1742097383,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 249456,
-      "num": 249456,
-      "word": "门童多位粉丝失联",
-      "onboard_time": 1743251304,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 249352,
@@ -33451,6 +33491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217975,
+      "num": 217975,
+      "word": "范玮琪演唱会",
+      "onboard_time": 1743254065,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 217954,
       "num": 217954,
       "word": "借贷宝成都总部大门已被贴封条",
@@ -34923,6 +34971,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 209562,
+      "num": 209562,
+      "word": "林一发长文告别国王",
+      "onboard_time": 1743256823,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209529,
       "num": 328908,
       "word": "丁真和粉色适配度好高",
@@ -35185,6 +35241,14 @@
       "onboard_time": 1741926806,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 208445,
+      "num": 208445,
+      "word": "云南天空惊现血红太阳",
+      "onboard_time": 1743258084,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208435,
@@ -36697,14 +36761,6 @@
       "onboard_time": 1741591341,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202995,
-      "num": 202995,
-      "word": "女子嫌头发被剪太丑当场报警",
-      "onboard_time": 1743251063,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202985,
@@ -41819,6 +41875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186127,
+      "num": 186127,
+      "word": "祝绪丹一定经常用这个表情包吧",
+      "onboard_time": 1743256764,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186120,
       "num": 216831,
       "word": "谁教李宛妲这么穿搭的",
@@ -45427,12 +45491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171711,
-      "num": 171711,
-      "word": "范玮琪演唱会",
-      "onboard_time": 1743254065,
-      "rank": 40,
-      "category": "演出"
+      "raw_hot": 171733,
+      "num": 171733,
+      "word": "奔跑吧第十三季首录战报",
+      "onboard_time": 1743257304,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 171679,
@@ -45753,6 +45817,14 @@
       "onboard_time": 1740801798,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 170693,
+      "num": 170693,
+      "word": "李佳航收工直奔网吧",
+      "onboard_time": 1743255202,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 170637,
@@ -46265,14 +46337,6 @@
       "onboard_time": 1741744762,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 168753,
-      "num": 168753,
-      "word": "李佳航收工直奔网吧",
-      "onboard_time": 1743255202,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 168744,
@@ -48001,6 +48065,14 @@
       "onboard_time": 1741493481,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 163482,
+      "num": 163482,
+      "word": "李嘉诚卖港口交易暂缓",
+      "onboard_time": 1743256705,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 163465,
@@ -51731,6 +51803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152892,
+      "num": 152892,
+      "word": "失联中国留学生罗生门遗体被找到",
+      "onboard_time": 1743257844,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152874,
       "num": 162932,
       "word": "福州冰雹",
@@ -53587,6 +53667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147796,
+      "num": 448104,
+      "word": "部分中国民间救援队自驾前往震中",
+      "onboard_time": 1743254483,
+      "rank": 17,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 147778,
       "num": 147778,
       "word": "PCL",
@@ -53729,6 +53817,14 @@
       "onboard_time": 1741410321,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147433,
+      "num": 150158,
+      "word": "在无限超越班发现另一个丁真",
+      "onboard_time": 1743256104,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 147419,
@@ -67563,6 +67659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110960,
+      "num": 910043,
+      "word": "中国资产已成为当下世界潮流",
+      "onboard_time": 1743256583,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110938,
       "num": 110938,
       "word": "郑钦文收获65分和60400美元",
@@ -75267,6 +75371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86946,
+      "num": 229737,
+      "word": "教育一直具有前瞻性",
+      "onboard_time": 1743256823,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 86928,
       "num": 290587,
       "word": "叙利亚国防部宣布军事行动已结束",
@@ -75361,6 +75473,14 @@
       "onboard_time": 1742301083,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86526,
+      "num": 367072,
+      "word": "华人称曼德勒仿佛成了孤岛",
+      "onboard_time": 1743256764,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 86515,
@@ -83635,14 +83755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49191,
-      "num": 448104,
-      "word": "部分中国民间救援队自驾前往震中",
-      "onboard_time": 1743254483,
-      "rank": 17,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 49138,
       "num": 290537,
       "word": "12种冒牌DeepSeekAPP收割消费者",
@@ -84641,14 +84753,6 @@
       "onboard_time": 1741249881,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 44633,
-      "num": 181603,
-      "word": "缅甸地震致1644死3408伤",
-      "onboard_time": 1743255443,
-      "rank": 39,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 44605,
