@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743219403542,
+  "endTime": 1743220046067,
   "band_list": [
     {
       "raw_hot": 2017591,
@@ -9,6 +9,14 @@
       "onboard_time": 1743205938,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1508110,
+      "num": 1508110,
+      "word": "缅甸地震已致694人死亡",
+      "onboard_time": 1743218301,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1473239,
@@ -43,6 +51,22 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 1141075,
+      "num": 621619,
+      "word": "色狼拍空姐她拍色狼",
+      "onboard_time": 1743218239,
+      "rank": 12,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1085454,
+      "num": 1085454,
+      "word": "专八",
+      "onboard_time": 1743218060,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1058414,
       "num": 940613,
       "word": "王者荣耀崩了",
@@ -51,24 +75,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1031609,
-      "num": 1031609,
-      "word": "缅甸地震已致694人死亡",
-      "onboard_time": 1743218301,
-      "rank": 1,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 982105,
-      "num": 982105,
-      "word": "专八",
-      "onboard_time": 1743218060,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 978881,
-      "num": 591582,
+      "raw_hot": 994831,
+      "num": 618557,
       "word": "门童成员发文",
       "onboard_time": 1743203959,
       "rank": 31,
@@ -123,14 +131,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 671866,
-      "num": 587214,
-      "word": "色狼拍空姐她拍色狼",
-      "onboard_time": 1743218239,
-      "rank": 12,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 659936,
       "num": 659936,
       "word": "缅甸7.9级地震",
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 515344,
-      "num": 515344,
+      "num": 559190,
       "word": "庄语迟 假死",
       "onboard_time": 1743207740,
       "rank": 5,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 478377,
-      "num": 631815,
+      "num": 703083,
       "word": "王一博年度最佳救车",
       "onboard_time": 1743214701,
       "rank": 6,
@@ -339,12 +339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269271,
+      "num": 269271,
+      "word": "专八 写不完",
+      "onboard_time": 1743218180,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 265208,
       "num": 265208,
       "word": "王者荣耀回应崩了",
       "onboard_time": 1743169644,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 264400,
+      "num": 573174,
+      "word": "清明五一档电影超20部",
+      "onboard_time": 1743219561,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 261419,
@@ -379,14 +395,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 235225,
-      "num": 235225,
-      "word": "专八 写不完",
-      "onboard_time": 1743218180,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 233556,
       "num": 233556,
       "word": "未来高层住宅或将越来越少",
@@ -403,8 +411,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 200960,
+      "num": 200960,
+      "word": "北京高校老师把花粉过敏孩子送三亚",
+      "onboard_time": 1743218600,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200537,
-      "num": 200537,
+      "num": 219712,
       "word": "王一博赛车服出场",
       "onboard_time": 1743218600,
       "rank": 26,
@@ -433,6 +449,14 @@
       "onboard_time": 1743176661,
       "rank": 24,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 188109,
+      "num": 636723,
+      "word": "缅甸一大楼倒塌4楼以下全被埋",
+      "onboard_time": 1743218481,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 187371,
@@ -468,19 +492,11 @@
     },
     {
       "raw_hot": 179638,
-      "num": 289344,
+      "num": 531861,
       "word": "美的人一起种树",
       "onboard_time": 1743217101,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 177333,
-      "num": 177333,
-      "word": "北京高校老师把花粉过敏孩子送三亚",
-      "onboard_time": 1743218600,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174974,
@@ -580,7 +596,7 @@
     },
     {
       "raw_hot": 160011,
-      "num": 189537,
+      "num": 218969,
       "word": "侯佩岑和航司播音适配度100%",
       "onboard_time": 1743217641,
       "rank": 36,
@@ -657,6 +673,14 @@
       "onboard_time": 1743199155,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149650,
+      "num": 149650,
+      "word": "红果果回应没去浪姐",
+      "onboard_time": 1743219621,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 148897,
@@ -739,14 +763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 130763,
-      "num": 237299,
-      "word": "缅甸一大楼倒塌4楼以下全被埋",
-      "onboard_time": 1743218481,
-      "rank": 23,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 129970,
       "num": 129970,
       "word": "马嘉祺 深夜放毒",
@@ -793,6 +809,22 @@
       "onboard_time": 1743171205,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119106,
+      "num": 550698,
+      "word": "潘展乐新身份曝光",
+      "onboard_time": 1743219379,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118047,
+      "num": 118047,
+      "word": "胖东来基层员工平均月薪9886元",
+      "onboard_time": 1743219860,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114517,
@@ -849,6 +881,14 @@
       "onboard_time": 1743153924,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109464,
+      "num": 109464,
+      "word": "孟子义窦昭站内角色热度破亿",
+      "onboard_time": 1743219681,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 107423,
@@ -971,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78534,
+      "num": 597837,
+      "word": "甲亢哥给国外年轻人开了全景天窗",
+      "onboard_time": 1743219320,
+      "rank": 35,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 77014,
       "num": 77014,
       "word": "于适问蒋欣在哪里",
@@ -1025,14 +1073,6 @@
       "onboard_time": 1743191595,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 62822,
-      "num": 159900,
-      "word": "甲亢哥给国外年轻人开了全景天窗",
-      "onboard_time": 1743219320,
-      "rank": 35,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 59162,
@@ -1155,6 +1195,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 27521,
+      "num": 122252,
+      "word": "卡芙卡新衣服太好看了",
+      "onboard_time": 1743218301,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26070,
       "num": 26070,
       "word": "甲亢哥少林寺英语拜师师父听得懂",
@@ -1187,12 +1235,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 23207,
-      "num": 122252,
-      "word": "卡芙卡新衣服太好看了",
-      "onboard_time": 1743218301,
-      "rank": 41,
-      "category": "游戏"
+      "raw_hot": 22698,
+      "num": 499209,
+      "word": "瑞丽居民自述到现在不敢回家",
+      "onboard_time": 1743219379,
+      "rank": 44,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 22398,
@@ -1267,14 +1315,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 10889,
-      "num": 116850,
-      "word": "瑞丽居民自述到现在不敢回家",
-      "onboard_time": 1743219379,
-      "rank": 44,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 9432,
       "num": 110647,
       "word": "胡萝卜酱鸡蛋灌饼",
@@ -1289,14 +1329,6 @@
       "onboard_time": 1743217341,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 5383,
-      "num": 121545,
-      "word": "潘展乐新身份曝光",
-      "onboard_time": 1743219379,
-      "rank": 42,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
