@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743290543141,
+  "endTime": 1743291456643,
   "band_list": [
     {
       "raw_hot": 1925246,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598475,
+      "num": 913273,
+      "word": "孔龙自美归国",
+      "onboard_time": 1743277275,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 592324,
       "num": 530299,
       "word": "失联中国留学生罗生门遗体被找到",
@@ -49,14 +57,6 @@
       "onboard_time": 1743259944,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 534129,
-      "num": 786866,
-      "word": "孔龙自美归国",
-      "onboard_time": 1743277275,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 531522,
@@ -171,12 +171,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238640,
-      "num": 238640,
+      "raw_hot": 252840,
+      "num": 252840,
       "word": "乡村爱情赵玉田带货厂家承认造假",
       "onboard_time": 1743279254,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246089,
+      "num": 246089,
+      "word": "华人称缅甸超3层房子或裂缝或倒塌",
+      "onboard_time": 1743289696,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 228684,
@@ -211,19 +219,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198478,
+      "num": 198478,
+      "word": "华人称地震当日缅甸放假救了很多人",
+      "onboard_time": 1743266599,
+      "rank": 49,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 186090,
       "num": 186090,
       "word": "缅甸震中华人目睹12楼变3楼",
       "onboard_time": 1743251783,
       "rank": 25,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 175893,
-      "num": 175893,
-      "word": "华人称地震当日缅甸放假救了很多人",
-      "onboard_time": 1743266599,
-      "rank": 49,
       "category": "突发/灾害"
     },
     {
@@ -243,20 +251,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158871,
+      "num": 158871,
+      "word": "缅甸7.9级地震前后对比",
+      "onboard_time": 1743252502,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152205,
       "num": 141953,
       "word": "身体5个表现提示肝病了",
       "onboard_time": 1743251724,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 149147,
-      "num": 149147,
-      "word": "缅甸7.9级地震前后对比",
-      "onboard_time": 1743252502,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 142078,
@@ -297,6 +305,14 @@
       "onboard_time": 1743256583,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115145,
+      "num": 115145,
+      "word": "苹果首席工程师孔龙自美归国",
+      "onboard_time": 1743272296,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 113630,
@@ -371,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97858,
-      "num": 108123,
-      "word": "苹果首席工程师孔龙自美归国",
-      "onboard_time": 1743272296,
-      "rank": 9,
-      "category": "数码"
+      "raw_hot": 99378,
+      "num": 185300,
+      "word": "120名一把手配偶观看落马官员忏悔",
+      "onboard_time": 1743289576,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92024,
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83886,
+      "num": 83886,
+      "word": "刘慈欣称DeepSeek完全可能替代人类作家",
+      "onboard_time": 1743289576,
+      "rank": 31,
+      "category": "互联网,读书作家"
+    },
+    {
       "raw_hot": 81349,
       "num": 81349,
       "word": "虞书欣校园枝惊喜返场",
@@ -507,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62254,
-      "num": 62254,
-      "word": "刘慈欣称DeepSeek完全可能替代人类作家",
-      "onboard_time": 1743289576,
-      "rank": 31,
-      "category": "互联网,读书作家"
-    },
-    {
       "raw_hot": 62078,
       "num": 49839,
       "word": "中考单列高层次人才子女违背公平",
@@ -537,14 +553,6 @@
       "onboard_time": 1743278834,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 55260,
-      "num": 55260,
-      "word": "120名一把手配偶观看落马官员忏悔",
-      "onboard_time": 1743289576,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51889,
@@ -571,36 +579,36 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 46774,
+      "num": 46774,
+      "word": "12306上真的可以免费换火车票",
+      "onboard_time": 1743273495,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45943,
-      "num": 45943,
+      "num": 46030,
       "word": "雁回时",
       "onboard_time": 1743242423,
       "rank": 29,
       "category": "剧集"
     },
     {
-      "raw_hot": 36773,
-      "num": 158457,
-      "word": "华人称缅甸超3层房子或裂缝或倒塌",
-      "onboard_time": 1743289696,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 36121,
-      "num": 38372,
-      "word": "生命树",
-      "onboard_time": 1743280333,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 34623,
+      "raw_hot": 37662,
       "num": 61487,
       "word": "蓝天救援队跨国驰援缅甸",
       "onboard_time": 1743286034,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 37305,
+      "num": 46158,
+      "word": "生命树",
+      "onboard_time": 1743280333,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 30931,
@@ -609,14 +617,6 @@
       "onboard_time": 1743273556,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 30387,
-      "num": 38348,
-      "word": "12306上真的可以免费换火车票",
-      "onboard_time": 1743273495,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29083,
