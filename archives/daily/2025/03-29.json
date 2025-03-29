@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743230655105,
+  "endTime": 1743232889941,
   "band_list": [
     {
       "raw_hot": 4133800,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1014095,
+      "num": 1014095,
+      "word": "叶童三公 跳楼机",
+      "onboard_time": 1743230602,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 973502,
       "num": 973502,
       "word": "央妈发了6条王蓉",
@@ -153,6 +161,14 @@
       "onboard_time": 1743156621,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 906516,
+      "num": 906516,
+      "word": "彭小苒房琪起争执",
+      "onboard_time": 1743230481,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 791110,
@@ -193,6 +209,14 @@
       "onboard_time": 1743210201,
       "rank": 4,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 668280,
+      "num": 668280,
+      "word": "中国政府决定向缅甸提供1亿元",
+      "onboard_time": 1743231862,
+      "rank": 8,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 659936,
@@ -249,6 +273,14 @@
       "onboard_time": 1743222023,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 520163,
+      "num": 520163,
+      "word": "彭小苒 没拍戏",
+      "onboard_time": 1743231382,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 515344,
@@ -475,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 299558,
+      "num": 259178,
+      "word": "赵一博说交不到朋友不是性格问题",
+      "onboard_time": 1743229160,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298989,
       "num": 298989,
       "word": "王者荣耀",
@@ -529,14 +569,6 @@
       "onboard_time": 1743222383,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 259178,
-      "num": 259178,
-      "word": "赵一博说交不到朋友不是性格问题",
-      "onboard_time": 1743229160,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 250345,
@@ -603,14 +635,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 211600,
-      "num": 211600,
-      "word": "叶童三公 跳楼机",
-      "onboard_time": 1743230602,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209072,
       "num": 209072,
       "word": "中方愿尽己所能向缅方提供救援支持",
@@ -643,11 +667,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202466,
+      "num": 202466,
+      "word": "王大陆当兵表现良好放假",
+      "onboard_time": 1743228201,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200537,
       "num": 219712,
       "word": "王一博赛车服出场",
       "onboard_time": 1743218600,
       "rank": 26,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 199306,
+      "num": 199306,
+      "word": "王一博85号竹叶青蛇再次出征",
+      "onboard_time": 1743232340,
+      "rank": 27,
       "category": "艺人,体育"
     },
     {
@@ -700,7 +740,7 @@
     },
     {
       "raw_hot": 187464,
-      "num": 187464,
+      "num": 261880,
       "word": "曹贵人扮演者回应卖假包",
       "onboard_time": 1743227482,
       "rank": 25,
@@ -713,14 +753,6 @@
       "onboard_time": 1743192854,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186478,
-      "num": 186478,
-      "word": "王大陆当兵表现良好放假",
-      "onboard_time": 1743228201,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 186384,
@@ -737,6 +769,14 @@
       "onboard_time": 1743229342,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184295,
+      "num": 184295,
+      "word": "缅甸地震",
+      "onboard_time": 1743231621,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 182944,
@@ -777,6 +817,14 @@
       "onboard_time": 1743229101,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178354,
+      "num": 178354,
+      "word": "女子一次次给骗子送钱一次次失败",
+      "onboard_time": 1743231201,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176966,
@@ -913,6 +961,14 @@
       "onboard_time": 1743217641,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159994,
+      "num": 159994,
+      "word": "Real原导演发声",
+      "onboard_time": 1743232400,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 159740,
@@ -1059,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143760,
+      "num": 143760,
+      "word": "王安宇穿拖鞋长沙录新综",
+      "onboard_time": 1743231983,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143456,
       "num": 143456,
       "word": "Sask力挺Uzi",
@@ -1107,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135482,
+      "num": 135482,
+      "word": "王宝强说拍棋士每天心里憋着火",
+      "onboard_time": 1743231382,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135408,
       "num": 135408,
       "word": "章若楠年度突破表演剧星",
@@ -1131,20 +1203,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 133908,
+      "num": 133908,
+      "word": "辛云来想带陈都灵一起来桃花坞",
+      "onboard_time": 1743230841,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133642,
       "num": 133642,
       "word": "全网能打王者荣耀只有这十个人",
       "onboard_time": 1743170905,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 132588,
-      "num": 132588,
-      "word": "彭小苒房琪起争执",
-      "onboard_time": 1743230481,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 132244,
@@ -1185,6 +1257,14 @@
       "onboard_time": 1743219320,
       "rank": 35,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 128932,
+      "num": 128932,
+      "word": "3只搜救犬随队驰援缅甸",
+      "onboard_time": 1743231142,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 128284,
@@ -1515,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93994,
+      "num": 93994,
+      "word": "管乐浪姐有自己的春晚邓超",
+      "onboard_time": 1743232702,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91658,
       "num": 1003816,
       "word": "这样的西藏你见过吗",
@@ -1548,7 +1636,7 @@
     },
     {
       "raw_hot": 80824,
-      "num": 139639,
+      "num": 263870,
       "word": "辛选主播蛋蛋这次火到韩国了",
       "onboard_time": 1743230481,
       "rank": 35,
@@ -1659,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58005,
+      "num": 81126,
+      "word": "可能引起脑雾的6个原因",
+      "onboard_time": 1743232041,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 57098,
       "num": 1162112,
       "word": "2025中国网络媒体论坛",
@@ -1689,6 +1785,14 @@
       "onboard_time": 1743180619,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53559,
+      "num": 259520,
+      "word": "香港银发族涌向深圳买房养老",
+      "onboard_time": 1743231862,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52751,
@@ -1827,6 +1931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26415,
+      "num": 181141,
+      "word": "中国云南救援医疗队出征赴缅",
+      "onboard_time": 1743231142,
+      "rank": 29,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 26070,
       "num": 26070,
       "word": "甲亢哥少林寺英语拜师师父听得懂",
@@ -1905,6 +2017,14 @@
       "onboard_time": 1743190153,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19158,
+      "num": 325463,
+      "word": "瑞丽边检闪电疏散旅客",
+      "onboard_time": 1743231862,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18610,

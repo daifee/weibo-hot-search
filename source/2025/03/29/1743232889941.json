@@ -1,0 +1,410 @@
+{
+  "runTime": 1743232889941,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1465914,
+        "num": 1465914,
+        "word": "事业编 开除小王",
+        "onboard_time": 1743225203,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1128844,
+        "num": 1128844,
+        "word": "胖东来店长平均月薪78058元",
+        "onboard_time": 1743225382,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23054,
+        "num": 1095262,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1085269,
+        "num": 1085269,
+        "word": "荷兰警方发现中国留学生罗生门遗体",
+        "onboard_time": 1743226281,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1014095,
+        "num": 1014095,
+        "word": "叶童三公 跳楼机",
+        "onboard_time": 1743230602,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 978181,
+        "num": 978181,
+        "word": "面筋哥去世",
+        "onboard_time": 1743220402,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 906516,
+        "num": 906516,
+        "word": "彭小苒房琪起争执",
+        "onboard_time": 1743230481,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 780533,
+        "num": 780533,
+        "word": "缅甸地震致1002死2376伤",
+        "onboard_time": 1743224842,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 668280,
+        "num": 668280,
+        "word": "中国政府决定向缅甸提供1亿元",
+        "onboard_time": 1743231862,
+        "rank": 8,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 553517,
+        "num": 553517,
+        "word": "哪吒2冲TOP4",
+        "onboard_time": 1743223401,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 547736,
+        "num": 547736,
+        "word": "乐事薯片被曝含致癌添加剂",
+        "onboard_time": 1743205938,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 520163,
+        "num": 520163,
+        "word": "彭小苒 没拍戏",
+        "onboard_time": 1743231382,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403163,
+        "num": 403163,
+        "word": "门童成员发文",
+        "onboard_time": 1743203959,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 395626,
+        "num": 395626,
+        "word": "2岁女孩走失38年已成残疾单身妈妈",
+        "onboard_time": 1743227721,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19158,
+        "num": 325463,
+        "word": "瑞丽边检闪电疏散旅客",
+        "onboard_time": 1743231862,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306489,
+        "num": 306489,
+        "word": "刘耀文腹肌",
+        "onboard_time": 1743227841,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267048,
+        "num": 267048,
+        "word": "胖东来基层员工平均月薪9886元",
+        "onboard_time": 1743219860,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69484,
+        "num": 263870,
+        "word": "辛选主播蛋蛋这次火到韩国了",
+        "onboard_time": 1743230481,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 88158,
+        "num": 261880,
+        "word": "曹贵人扮演者回应卖假包",
+        "onboard_time": 1743227482,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53559,
+        "num": 259520,
+        "word": "香港银发族涌向深圳买房养老",
+        "onboard_time": 1743231862,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299558,
+        "num": 255314,
+        "word": "赵一博说交不到朋友不是性格问题",
+        "onboard_time": 1743229160,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270203,
+        "num": 251693,
+        "word": "王一博轮胎离地起飞",
+        "onboard_time": 1743222504,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 250608,
+        "num": 250608,
+        "word": "男子长期被妻子责骂偷住邻居家被抓",
+        "onboard_time": 1743226882,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244697,
+        "num": 244697,
+        "word": "色狼拍空姐她拍色狼",
+        "onboard_time": 1743218239,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 226352,
+        "num": 226352,
+        "word": "李晟住过300元一个月的地下室",
+        "onboard_time": 1743223103,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220689,
+        "num": 220689,
+        "word": "事业编",
+        "onboard_time": 1743221961,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202466,
+        "num": 202466,
+        "word": "王大陆当兵表现良好放假",
+        "onboard_time": 1743228201,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199306,
+        "num": 199306,
+        "word": "王一博85号竹叶青蛇再次出征",
+        "onboard_time": 1743232340,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 184295,
+        "num": 184295,
+        "word": "缅甸地震",
+        "onboard_time": 1743231621,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26415,
+        "num": 181141,
+        "word": "中国云南救援医疗队出征赴缅",
+        "onboard_time": 1743231142,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 178354,
+        "num": 178354,
+        "word": "女子一次次给骗子送钱一次次失败",
+        "onboard_time": 1743231201,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168425,
+        "num": 168425,
+        "word": "金明脸上毛细血管破裂",
+        "onboard_time": 1743222023,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163547,
+        "num": 163547,
+        "word": "中国救援队赴缅实施国际救援",
+        "onboard_time": 1743223462,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159994,
+        "num": 159994,
+        "word": "Real原导演发声",
+        "onboard_time": 1743232400,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155994,
+        "num": 155994,
+        "word": "地震后缅甸人大都在马路上过夜",
+        "onboard_time": 1743228321,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 149308,
+        "num": 149308,
+        "word": "清明五一档电影超20部",
+        "onboard_time": 1743219561,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143760,
+        "num": 143760,
+        "word": "王安宇穿拖鞋长沙录新综",
+        "onboard_time": 1743231983,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135482,
+        "num": 135482,
+        "word": "王宝强说拍棋士每天心里憋着火",
+        "onboard_time": 1743231382,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133908,
+        "num": 133908,
+        "word": "辛云来想带陈都灵一起来桃花坞",
+        "onboard_time": 1743230841,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128932,
+        "num": 128932,
+        "word": "3只搜救犬随队驰援缅甸",
+        "onboard_time": 1743231142,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 127002,
+        "num": 127002,
+        "word": "王者荣耀补偿力度",
+        "onboard_time": 1743213500,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119929,
+        "num": 119929,
+        "word": "地震时护士用身体护住宝宝",
+        "onboard_time": 1743215421,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 93994,
+        "num": 93994,
+        "word": "管乐浪姐有自己的春晚邓超",
+        "onboard_time": 1743232702,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93225,
+        "num": 93225,
+        "word": "地震时老师冷静指挥学生撤离",
+        "onboard_time": 1743227602,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92711,
+        "num": 92711,
+        "word": "詹姆斯愿降薪助湖人补强",
+        "onboard_time": 1743229042,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91448,
+        "num": 91448,
+        "word": "美国网红甲亢哥没想到来真的",
+        "onboard_time": 1743205639,
+        "rank": 45,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 91295,
+        "num": 91295,
+        "word": "职测答案",
+        "onboard_time": 1743229160,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 84990,
+        "num": 84990,
+        "word": "邝玲玲给地震灾区粉丝发食物",
+        "onboard_time": 1743225982,
+        "rank": 47,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 81963,
+        "num": 81963,
+        "word": "专八",
+        "onboard_time": 1743218060,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 58005,
+        "num": 81126,
+        "word": "可能引起脑雾的6个原因",
+        "onboard_time": 1743232041,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#与中国同行就是与机遇同行#"
+    }
+  }
+}
