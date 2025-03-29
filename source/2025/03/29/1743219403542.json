@@ -1,0 +1,410 @@
+{
+  "runTime": 1743219403542,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1101203,
+        "num": 1176192,
+        "word": "缅甸地震相当于上千个原子弹爆炸",
+        "onboard_time": 1743209841,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1031609,
+        "num": 1031609,
+        "word": "缅甸地震已致694人死亡",
+        "onboard_time": 1743218301,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 87512,
+        "num": 1003816,
+        "word": "这样的西藏你见过吗",
+        "onboard_time": 1743171444,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1352314,
+        "num": 993148,
+        "word": "乐事薯片被曝含致癌添加剂",
+        "onboard_time": 1743205938,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 982105,
+        "num": 982105,
+        "word": "专八",
+        "onboard_time": 1743218060,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 758258,
+        "num": 758258,
+        "word": "王者荣耀补偿力度",
+        "onboard_time": 1743213500,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 711621,
+        "num": 711621,
+        "word": "美国网红甲亢哥没想到来真的",
+        "onboard_time": 1743205639,
+        "rank": 6,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 441216,
+        "num": 639948,
+        "word": "央妈发了6条王蓉",
+        "onboard_time": 1743175583,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432193,
+        "num": 631815,
+        "word": "王一博年度最佳救车",
+        "onboard_time": 1743214701,
+        "rank": 8,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 628802,
+        "num": 628802,
+        "word": "地震时护士用身体护住宝宝",
+        "onboard_time": 1743215421,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 997222,
+        "num": 618259,
+        "word": "赵露思脑雾反应",
+        "onboard_time": 1743210320,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 978881,
+        "num": 591582,
+        "word": "门童成员发文",
+        "onboard_time": 1743203959,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 671866,
+        "num": 587214,
+        "word": "色狼拍空姐她拍色狼",
+        "onboard_time": 1743218239,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 558179,
+        "num": 558179,
+        "word": "曹贵人扮演者被网友质疑卖假包",
+        "onboard_time": 1743212061,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 488690,
+        "num": 488690,
+        "word": "缅甸一酒店坍塌华人称有中国人入住",
+        "onboard_time": 1743216141,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354118,
+        "num": 354118,
+        "word": "2岁男童吃奶酪棒卡喉身亡",
+        "onboard_time": 1743206720,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305553,
+        "num": 305553,
+        "word": "金秀贤让高二的金赛纶别回家",
+        "onboard_time": 1743209360,
+        "rank": 16,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 257701,
+        "num": 292927,
+        "word": "庄语迟 假死",
+        "onboard_time": 1743207740,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253192,
+        "num": 289557,
+        "word": "IU演技",
+        "onboard_time": 1743213261,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112615,
+        "num": 289344,
+        "word": "美的人一起种树",
+        "onboard_time": 1743217101,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 289303,
+        "num": 289303,
+        "word": "林生斌请求依法追究宋祖德刑责",
+        "onboard_time": 1743210201,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 263816,
+        "num": 263816,
+        "word": "伊能静想知道孟子义李昀锐在一起了没",
+        "onboard_time": 1743211461,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261419,
+        "num": 261419,
+        "word": "男子吃烧烤签子投反扎进好友大腿",
+        "onboard_time": 1743216621,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130763,
+        "num": 237299,
+        "word": "缅甸一大楼倒塌4楼以下全被埋",
+        "onboard_time": 1743218481,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 235225,
+        "num": 235225,
+        "word": "专八 写不完",
+        "onboard_time": 1743218180,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214040,
+        "num": 214040,
+        "word": "门童曼谷场取消",
+        "onboard_time": 1743156621,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200537,
+        "num": 200537,
+        "word": "王一博赛车服出场",
+        "onboard_time": 1743218600,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 167665,
+        "num": 191059,
+        "word": "今夕赫夕",
+        "onboard_time": 1743216621,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160011,
+        "num": 189537,
+        "word": "侯佩岑和航司播音适配度100%",
+        "onboard_time": 1743217641,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146914,
+        "num": 188202,
+        "word": "你好星期六全员人鱼登陆",
+        "onboard_time": 1743214940,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188112,
+        "num": 188112,
+        "word": "医生说少吃水果能少生很多病",
+        "onboard_time": 1743169227,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177333,
+        "num": 177333,
+        "word": "北京高校老师把花粉过敏孩子送三亚",
+        "onboard_time": 1743218600,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171834,
+        "num": 171834,
+        "word": "中国云南救援医疗队包机赶赴缅甸震区",
+        "onboard_time": 1743205039,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 161454,
+        "num": 161454,
+        "word": "妻子举报丈夫出轨上海一财政局副科长",
+        "onboard_time": 1743172824,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160086,
+        "num": 160086,
+        "word": "为什么春天比夏天更容易晒黑",
+        "onboard_time": 1743217101,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62822,
+        "num": 159900,
+        "word": "甲亢哥给国外年轻人开了全景天窗",
+        "onboard_time": 1743219320,
+        "rank": 35,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 159740,
+        "num": 159740,
+        "word": "专八答案",
+        "onboard_time": 1743218841,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139750,
+        "num": 139750,
+        "word": "Doinb开团RNG",
+        "onboard_time": 1743213560,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135408,
+        "num": 135408,
+        "word": "章若楠年度突破表演剧星",
+        "onboard_time": 1743218239,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129970,
+        "num": 129970,
+        "word": "马嘉祺 深夜放毒",
+        "onboard_time": 1743218301,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125113,
+        "num": 125113,
+        "word": "气温为啥这么癫",
+        "onboard_time": 1743192854,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23207,
+        "num": 122252,
+        "word": "卡芙卡新衣服太好看了",
+        "onboard_time": 1743218301,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 5383,
+        "num": 121545,
+        "word": "潘展乐新身份曝光",
+        "onboard_time": 1743219379,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121490,
+        "num": 121490,
+        "word": "爱奇艺官博删了楠丁格尔先生官宣博",
+        "onboard_time": 1743213382,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10889,
+        "num": 116850,
+        "word": "瑞丽居民自述到现在不敢回家",
+        "onboard_time": 1743219379,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 116825,
+        "num": 116825,
+        "word": "李嘉诚4公司市值蒸发超781亿",
+        "onboard_time": 1743176361,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114765,
+        "num": 114765,
+        "word": "中国首班救援航班抵达缅甸",
+        "onboard_time": 1743215961,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113135,
+        "num": 113135,
+        "word": "金宣虎酒窝",
+        "onboard_time": 1743214821,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108359,
+        "num": 108359,
+        "word": "王者荣耀",
+        "onboard_time": 1743209420,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107494,
+        "num": 107494,
+        "word": "乐事薯片回应网传含致癌添加剂",
+        "onboard_time": 1743208881,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见孟加拉国临时政府首席顾问尤努斯#"
+    }
+  }
+}
