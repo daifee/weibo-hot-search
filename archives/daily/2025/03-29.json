@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743226745428,
+  "endTime": 1743229881548,
   "band_list": [
     {
       "raw_hot": 4133800,
@@ -19,12 +19,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1959099,
+      "num": 1959099,
+      "word": "事业编 开除小王",
+      "onboard_time": 1743225203,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1842483,
       "num": 1842483,
       "word": "缅甸地震致1002死2376伤",
       "onboard_time": 1743224842,
       "rank": 3,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1585854,
+      "num": 1174008,
+      "word": "荷兰警方发现中国留学生罗生门遗体",
+      "onboard_time": 1743226281,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1508110,
@@ -91,6 +107,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1133980,
+      "num": 1133980,
+      "word": "胖东来店长平均月薪78058元",
+      "onboard_time": 1743225382,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1085454,
       "num": 1085454,
       "word": "专八",
@@ -113,14 +137,6 @@
       "onboard_time": 1743203959,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 998470,
-      "num": 998470,
-      "word": "事业编 开除小王",
-      "onboard_time": 1743225203,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 973502,
@@ -203,14 +219,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 624079,
-      "num": 624079,
-      "word": "胖东来店长平均月薪78058元",
-      "onboard_time": 1743225382,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 596162,
       "num": 596162,
       "word": "李嘉诚4公司市值蒸发超781亿",
@@ -265,6 +273,14 @@
       "onboard_time": 1743178162,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 482481,
+      "num": 379665,
+      "word": "2岁女孩走失38年已成残疾单身妈妈",
+      "onboard_time": 1743227721,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 481924,
@@ -355,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363930,
+      "num": 363930,
+      "word": "邝玲玲给地震灾区粉丝发食物",
+      "onboard_time": 1743225982,
+      "rank": 17,
+      "category": "艺人,海外新闻"
+    },
+    {
       "raw_hot": 362360,
       "num": 362360,
       "word": "IU演技",
@@ -441,6 +465,22 @@
       "onboard_time": 1743209420,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 296047,
+      "num": 276543,
+      "word": "刘耀文腹肌",
+      "onboard_time": 1743227841,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 275933,
+      "num": 275933,
+      "word": "男子长期被妻子责骂偷住邻居家被抓",
+      "onboard_time": 1743226882,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273309,
@@ -539,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215841,
-      "num": 215841,
-      "word": "邝玲玲给地震灾区粉丝发食物",
-      "onboard_time": 1743225982,
-      "rank": 17,
-      "category": "艺人,海外新闻"
-    },
-    {
       "raw_hot": 212644,
       "num": 212644,
       "word": "职测",
@@ -561,14 +593,6 @@
       "onboard_time": 1743206060,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 207765,
-      "num": 207765,
-      "word": "荷兰警方发现中国留学生罗生门遗体",
-      "onboard_time": 1743226281,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 207603,
@@ -619,6 +643,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 198039,
+      "num": 198039,
+      "word": "赵一博说交不到朋友不是性格问题",
+      "onboard_time": 1743229160,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197323,
       "num": 197323,
       "word": "红果果回应没去浪姐",
@@ -651,12 +683,44 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 187464,
+      "num": 187464,
+      "word": "曹贵人扮演者回应卖假包",
+      "onboard_time": 1743227482,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187371,
       "num": 187371,
       "word": "气温为啥这么癫",
       "onboard_time": 1743192854,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186384,
+      "num": 186384,
+      "word": "王一博不是速度过快是艺高人胆大",
+      "onboard_time": 1743228982,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 185803,
+      "num": 185803,
+      "word": "庞博发千字长文告别最强大脑",
+      "onboard_time": 1743229342,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183153,
+      "num": 183153,
+      "word": "王大陆当兵表现良好放假",
+      "onboard_time": 1743228201,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 182944,
@@ -689,6 +753,22 @@
       "onboard_time": 1743217101,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 178606,
+      "num": 178606,
+      "word": "段奕宏在模仿段奕宏比赛中获得第二名",
+      "onboard_time": 1743229101,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176966,
+      "num": 380983,
+      "word": "地震时老师冷静指挥学生撤离",
+      "onboard_time": 1743227602,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174974,
@@ -753,6 +833,14 @@
       "onboard_time": 1743148526,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168099,
+      "num": 285865,
+      "word": "面筋哥留给大家的祝福",
+      "onboard_time": 1743224723,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 167089,
@@ -881,6 +969,14 @@
       "onboard_time": 1743143600,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152704,
+      "num": 361949,
+      "word": "地震后缅甸人大都在马路上过夜",
+      "onboard_time": 1743228321,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 152316,
@@ -1019,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130252,
+      "num": 130252,
+      "word": "职测答案",
+      "onboard_time": 1743229160,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 130024,
       "num": 130024,
       "word": "重返未来1999",
@@ -1035,14 +1139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129846,
-      "num": 285865,
-      "word": "面筋哥留给大家的祝福",
-      "onboard_time": 1743224723,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
       "raw_hot": 129692,
       "num": 597837,
       "word": "甲亢哥给国外年轻人开了全景天窗",
@@ -1057,6 +1153,14 @@
       "onboard_time": 1743198314,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128238,
+      "num": 128238,
+      "word": "詹姆斯愿降薪助湖人补强",
+      "onboard_time": 1743229042,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 127461,
@@ -1105,6 +1209,14 @@
       "onboard_time": 1743207920,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120525,
+      "num": 120525,
+      "word": "门童同担比自担靠谱",
+      "onboard_time": 1743229701,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 120041,
@@ -1179,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110112,
+      "num": 110112,
+      "word": "大学生踩车顶变形车主定损9505元",
+      "onboard_time": 1743229042,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109964,
       "num": 109964,
       "word": "允儿被臭到",
@@ -1243,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105994,
+      "num": 105994,
+      "word": "张宥浩怎么做到又乖又痞的",
+      "onboard_time": 1743228441,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105821,
       "num": 105821,
       "word": "如何用Deepseek自动生成PPT",
@@ -1265,6 +1393,14 @@
       "onboard_time": 1743211161,
       "rank": 45,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 102324,
+      "num": 102324,
+      "word": "第五人格七周年",
+      "onboard_time": 1743229342,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 100724,
@@ -1336,6 +1472,14 @@
       "word": "这样的西藏你见过吗",
       "onboard_time": 1743171444,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90644,
+      "num": 186701,
+      "word": "春天就要穿着汉服逛吃曹县",
+      "onboard_time": 1743226940,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1411,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61547,
+      "num": 1177824,
+      "word": "印象广西",
+      "onboard_time": 1743226462,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61431,
       "num": 157204,
       "word": "费启鸣镜头下的老烟",
@@ -1433,6 +1585,14 @@
       "onboard_time": 1743181339,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 58008,
+      "num": 277121,
+      "word": "为追求健身效果不少人成药罐子",
+      "onboard_time": 1743228141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57098,
@@ -1563,6 +1723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35267,
+      "num": 158512,
+      "word": "曹县人的凡尔赛瞬间",
+      "onboard_time": 1743226882,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34808,
       "num": 37268,
       "word": "玄武湖鸭子头顶蓬松爆炸头",
@@ -1681,14 +1849,6 @@
       "onboard_time": 1743188053,
       "rank": 38,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 14492,
-      "num": 1173969,
-      "word": "印象广西",
-      "onboard_time": 1743226462,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14019,

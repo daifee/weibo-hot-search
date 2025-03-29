@@ -1,0 +1,410 @@
+{
+  "runTime": 1743229881548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1959099,
+        "num": 1959099,
+        "word": "事业编 开除小王",
+        "onboard_time": 1743225203,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1228027,
+        "num": 1228027,
+        "word": "缅甸地震致1002死2376伤",
+        "onboard_time": 1743224842,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 61547,
+        "num": 1177824,
+        "word": "印象广西",
+        "onboard_time": 1743226462,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1585854,
+        "num": 1174008,
+        "word": "荷兰警方发现中国留学生罗生门遗体",
+        "onboard_time": 1743226281,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1133980,
+        "num": 1133980,
+        "word": "胖东来店长平均月薪78058元",
+        "onboard_time": 1743225382,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1479229,
+        "num": 1112284,
+        "word": "面筋哥去世",
+        "onboard_time": 1743220402,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 920104,
+        "num": 920104,
+        "word": "乐事薯片被曝含致癌添加剂",
+        "onboard_time": 1743205938,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 899138,
+        "num": 899138,
+        "word": "哪吒2冲TOP4",
+        "onboard_time": 1743223401,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 427693,
+        "num": 427693,
+        "word": "胖东来基层员工平均月薪9886元",
+        "onboard_time": 1743219860,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176966,
+        "num": 380983,
+        "word": "地震时老师冷静指挥学生撤离",
+        "onboard_time": 1743227602,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509260,
+        "num": 380467,
+        "word": "门童成员发文",
+        "onboard_time": 1743203959,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 482481,
+        "num": 379665,
+        "word": "2岁女孩走失38年已成残疾单身妈妈",
+        "onboard_time": 1743227721,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378778,
+        "num": 378778,
+        "word": "李晟住过300元一个月的地下室",
+        "onboard_time": 1743223103,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363930,
+        "num": 363930,
+        "word": "邝玲玲给地震灾区粉丝发食物",
+        "onboard_time": 1743225982,
+        "rank": 13,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 152704,
+        "num": 361949,
+        "word": "地震后缅甸人大都在马路上过夜",
+        "onboard_time": 1743228321,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 361628,
+        "num": 361628,
+        "word": "事业编",
+        "onboard_time": 1743221961,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 326757,
+        "num": 326757,
+        "word": "王一博轮胎离地起飞",
+        "onboard_time": 1743222504,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 282941,
+        "num": 282941,
+        "word": "金明脸上毛细血管破裂",
+        "onboard_time": 1743222023,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343387,
+        "num": 282635,
+        "word": "色狼拍空姐她拍色狼",
+        "onboard_time": 1743218239,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 58008,
+        "num": 277121,
+        "word": "为追求健身效果不少人成药罐子",
+        "onboard_time": 1743228141,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296047,
+        "num": 276543,
+        "word": "刘耀文腹肌",
+        "onboard_time": 1743227841,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275933,
+        "num": 275933,
+        "word": "男子长期被妻子责骂偷住邻居家被抓",
+        "onboard_time": 1743226882,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245355,
+        "num": 245355,
+        "word": "中国救援队赴缅实施国际救援",
+        "onboard_time": 1743223462,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198919,
+        "num": 198919,
+        "word": "王者荣耀补偿力度",
+        "onboard_time": 1743213500,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198039,
+        "num": 198039,
+        "word": "赵一博说交不到朋友不是性格问题",
+        "onboard_time": 1743229160,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187464,
+        "num": 187464,
+        "word": "曹贵人扮演者回应卖假包",
+        "onboard_time": 1743227482,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90644,
+        "num": 186701,
+        "word": "春天就要穿着汉服逛吃曹县",
+        "onboard_time": 1743226940,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186384,
+        "num": 186384,
+        "word": "王一博不是速度过快是艺高人胆大",
+        "onboard_time": 1743228982,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185803,
+        "num": 185803,
+        "word": "庞博发千字长文告别最强大脑",
+        "onboard_time": 1743229342,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183153,
+        "num": 183153,
+        "word": "王大陆当兵表现良好放假",
+        "onboard_time": 1743228201,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178606,
+        "num": 178606,
+        "word": "段奕宏在模仿段奕宏比赛中获得第二名",
+        "onboard_time": 1743229101,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168099,
+        "num": 168099,
+        "word": "面筋哥留给大家的祝福",
+        "onboard_time": 1743224723,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35267,
+        "num": 158512,
+        "word": "曹县人的凡尔赛瞬间",
+        "onboard_time": 1743226882,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155807,
+        "num": 155807,
+        "word": "清明五一档电影超20部",
+        "onboard_time": 1743219561,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140812,
+        "num": 140812,
+        "word": "地震时护士用身体护住宝宝",
+        "onboard_time": 1743215421,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 134398,
+        "num": 134398,
+        "word": "职测",
+        "onboard_time": 1743224123,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132384,
+        "num": 132384,
+        "word": "庄语迟 假死",
+        "onboard_time": 1743207740,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130252,
+        "num": 130252,
+        "word": "职测答案",
+        "onboard_time": 1743229160,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128238,
+        "num": 128238,
+        "word": "詹姆斯愿降薪助湖人补强",
+        "onboard_time": 1743229042,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126563,
+        "num": 126563,
+        "word": "北京高校老师把花粉过敏孩子送三亚",
+        "onboard_time": 1743218600,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124789,
+        "num": 124789,
+        "word": "王俊凯开口以为是鸡汤没想到是砒霜",
+        "onboard_time": 1743225023,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124598,
+        "num": 124598,
+        "word": "美国网红甲亢哥没想到来真的",
+        "onboard_time": 1743205639,
+        "rank": 41,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 120525,
+        "num": 120525,
+        "word": "门童同担比自担靠谱",
+        "onboard_time": 1743229701,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119856,
+        "num": 119856,
+        "word": "海南航空回应空姐被乘客偷拍",
+        "onboard_time": 1743223763,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117004,
+        "num": 117004,
+        "word": "光与夜之恋",
+        "onboard_time": 1743227362,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115635,
+        "num": 115635,
+        "word": "专八",
+        "onboard_time": 1743218060,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112053,
+        "num": 112053,
+        "word": "李艺彤徒手接眼泪",
+        "onboard_time": 1743223583,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110112,
+        "num": 110112,
+        "word": "大学生踩车顶变形车主定损9505元",
+        "onboard_time": 1743229042,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105994,
+        "num": 105994,
+        "word": "张宥浩怎么做到又乖又痞的",
+        "onboard_time": 1743228441,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102324,
+        "num": 102324,
+        "word": "第五人格七周年",
+        "onboard_time": 1743229342,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#与中国同行就是与机遇同行#"
+    }
+  }
+}
