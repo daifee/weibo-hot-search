@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743236929288,
+  "endTime": 1743237731828,
   "band_list": [
     {
       "raw_hot": 4621424,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404081,
+      "num": 404081,
+      "word": "Real原导演发声",
+      "onboard_time": 1743232400,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400194,
       "num": 400194,
       "word": "赵露思综艺",
@@ -385,14 +393,6 @@
       "onboard_time": 1743223462,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 384108,
-      "num": 384108,
-      "word": "Real原导演发声",
-      "onboard_time": 1743232400,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 377350,
@@ -539,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 291634,
+      "num": 291634,
+      "word": "演唱会天价门票都被谁买走了",
+      "onboard_time": 1743235880,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288243,
       "num": 275933,
       "word": "男子长期被妻子责骂偷住邻居家被抓",
@@ -585,6 +593,14 @@
       "onboard_time": 1743222383,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255151,
+      "num": 156449,
+      "word": "上过班的才知道那种根本不现实",
+      "onboard_time": 1743236542,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 250345,
@@ -635,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223412,
+      "num": 223412,
+      "word": "张本智和无缘男单八强",
+      "onboard_time": 1743233842,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218983,
       "num": 218983,
       "word": "北京高校老师把花粉过敏孩子送三亚",
@@ -649,14 +673,6 @@
       "onboard_time": 1743224123,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 210229,
-      "num": 210229,
-      "word": "张本智和无缘男单八强",
-      "onboard_time": 1743233842,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 209072,
@@ -699,12 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202472,
-      "num": 156449,
-      "word": "上过班的才知道那种根本不现实",
+      "raw_hot": 202640,
+      "num": 202640,
+      "word": "北京大风天也人人人人挤人人人人",
       "onboard_time": 1743236542,
-      "rank": 30,
-      "category": "幽默"
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202466,
@@ -771,12 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193568,
-      "num": 193568,
-      "word": "北京大风天也人人人人挤人人人人",
-      "onboard_time": 1743236542,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 192941,
+      "num": 192941,
+      "word": "中式教育终于在此刻走出闭环",
+      "onboard_time": 1743234681,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 191190,
@@ -817,14 +833,6 @@
       "onboard_time": 1743229342,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185225,
-      "num": 185225,
-      "word": "中式教育终于在此刻走出闭环",
-      "onboard_time": 1743234681,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 184295,
@@ -1091,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156642,
+      "num": 156642,
+      "word": "王一博排位赛结束下车",
+      "onboard_time": 1743230960,
+      "rank": 48,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 156462,
       "num": 156462,
       "word": "怒水西流姐弟线全是钩子",
@@ -1123,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152463,
+      "num": 152463,
+      "word": "房琪哭了",
+      "onboard_time": 1743232460,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152369,
       "num": 152369,
       "word": "IU朴宝剑新剧豆瓣涨至9.5分",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1743223822,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 150496,
+      "num": 150496,
+      "word": "卢森堡用倪夏莲名字命名一条街",
+      "onboard_time": 1743235761,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 148897,
@@ -1177,14 +1209,6 @@
       "onboard_time": 1743215961,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146198,
-      "num": 146198,
-      "word": "卢森堡用倪夏莲名字命名一条街",
-      "onboard_time": 1743235761,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 145896,
@@ -1243,20 +1267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142068,
+      "num": 155990,
+      "word": "面筋哥病时体重从160斤降到70斤",
+      "onboard_time": 1743233961,
+      "rank": 33,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 141965,
       "num": 141965,
       "word": "苦尽甘来遇见你",
       "onboard_time": 1743177923,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139753,
-      "num": 155990,
-      "word": "面筋哥病时体重从160斤降到70斤",
-      "onboard_time": 1743233961,
-      "rank": 33,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 137654,
@@ -1443,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122945,
+      "num": 122945,
+      "word": "芒果审美",
+      "onboard_time": 1743235701,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122615,
       "num": 550698,
       "word": "潘展乐新身份曝光",
@@ -1515,14 +1547,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 114336,
-      "num": 114336,
-      "word": "芒果审美",
-      "onboard_time": 1743235701,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113978,
       "num": 553523,
       "word": "美国拖欠WTO会费2570万美元",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1743174863,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 112574,
+      "num": 112574,
+      "word": "不说话的爱",
+      "onboard_time": 1743237501,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 112535,
@@ -1619,14 +1651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108907,
-      "num": 211900,
-      "word": "演唱会天价门票都被谁买走了",
-      "onboard_time": 1743235880,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108495,
       "num": 108495,
       "word": "浪姐",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1743208400,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 107380,
+      "num": 459739,
+      "word": "300万扶贫款当诱饵骗6旬大爷洗钱",
+      "onboard_time": 1743235941,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107159,
@@ -1683,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105917,
+      "num": 105917,
+      "word": "珊瑚海 rap",
+      "onboard_time": 1743237381,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105821,
       "num": 105821,
       "word": "如何用Deepseek自动生成PPT",
@@ -1699,12 +1739,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104872,
-      "num": 104872,
-      "word": "王一博排位赛结束下车",
-      "onboard_time": 1743230960,
-      "rank": 48,
-      "category": "艺人,体育"
+      "raw_hot": 104095,
+      "num": 104095,
+      "word": "宋亚轩湿发氧气感",
+      "onboard_time": 1743237622,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 103866,
@@ -1995,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45269,
+      "num": 401420,
+      "word": "美国家庭年支出将多出1200美元",
+      "onboard_time": 1743236001,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45144,
       "num": 325463,
       "word": "瑞丽边检闪电疏散旅客",
@@ -2032,14 +2080,6 @@
       "word": "重庆一街道办强拆鱼塘被判赔380万",
       "onboard_time": 1743204978,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41443,
-      "num": 459739,
-      "word": "300万扶贫款当诱饵骗6旬大爷洗钱",
-      "onboard_time": 1743235941,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2113,14 +2153,6 @@
       "onboard_time": 1743202577,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32160,
-      "num": 392871,
-      "word": "美国家庭年支出将多出1200美元",
-      "onboard_time": 1743236001,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27721,
@@ -2272,6 +2304,14 @@
       "word": "德媒曝美高级安全官使用俄罗斯邮箱",
       "onboard_time": 1743217341,
       "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 6811,
+      "num": 127436,
+      "word": "韩国扑救山火消防员的盒饭",
+      "onboard_time": 1743237682,
+      "rank": 40,
       "category": "海外新闻"
     }
   ],
