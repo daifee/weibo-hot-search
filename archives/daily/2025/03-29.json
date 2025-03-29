@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743225735916,
+  "endTime": 1743226745428,
   "band_list": [
     {
       "raw_hot": 4133800,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 2017591,
-      "num": 1037902,
+      "num": 1060618,
       "word": "乐事薯片被曝含致癌添加剂",
       "onboard_time": 1743205938,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1842483,
+      "num": 1842483,
+      "word": "缅甸地震致1002死2376伤",
+      "onboard_time": 1743224842,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1508110,
@@ -51,8 +59,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1252935,
-      "num": 1252935,
+      "raw_hot": 1332626,
+      "num": 1332626,
       "word": "哪吒2冲TOP4",
       "onboard_time": 1743223401,
       "rank": 23,
@@ -91,14 +99,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1082176,
-      "num": 1082176,
-      "word": "缅甸地震致1002死2376伤",
-      "onboard_time": 1743224842,
-      "rank": 3,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 1058414,
       "num": 940613,
       "word": "王者荣耀崩了",
@@ -113,6 +113,14 @@
       "onboard_time": 1743203959,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 998470,
+      "num": 998470,
+      "word": "事业编 开除小王",
+      "onboard_time": 1743225203,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 973502,
@@ -193,6 +201,14 @@
       "onboard_time": 1743215421,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 624079,
+      "num": 624079,
+      "word": "胖东来店长平均月薪78058元",
+      "onboard_time": 1743225382,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 596162,
@@ -347,14 +363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 343586,
-      "num": 343586,
-      "word": "事业编 开除小王",
-      "onboard_time": 1743225203,
-      "rank": 15,
-      "category": "教育"
-    },
-    {
       "raw_hot": 339032,
       "num": 339032,
       "word": "陈德容",
@@ -491,6 +499,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 239734,
+      "num": 274228,
+      "word": "李艺彤徒手接眼泪",
+      "onboard_time": 1743223583,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238339,
       "num": 238339,
       "word": "马龙王安宇在聊什么",
@@ -523,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215841,
+      "num": 215841,
+      "word": "邝玲玲给地震灾区粉丝发食物",
+      "onboard_time": 1743225982,
+      "rank": 17,
+      "category": "艺人,海外新闻"
+    },
+    {
       "raw_hot": 212644,
       "num": 212644,
       "word": "职测",
@@ -537,6 +561,14 @@
       "onboard_time": 1743206060,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 207765,
+      "num": 207765,
+      "word": "荷兰警方发现中国留学生罗生门遗体",
+      "onboard_time": 1743226281,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 207603,
@@ -593,6 +625,22 @@
       "onboard_time": 1743219621,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194551,
+      "num": 194551,
+      "word": "综应",
+      "onboard_time": 1743225861,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 194542,
+      "num": 194542,
+      "word": "王一博出镜活泼版",
+      "onboard_time": 1743226162,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 191190,
@@ -707,14 +755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167192,
-      "num": 274228,
-      "word": "李艺彤徒手接眼泪",
-      "onboard_time": 1743223583,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167089,
       "num": 167089,
       "word": "乘客呼吸困难说出碱字地铁员工秒懂",
@@ -775,14 +815,6 @@
       "num": 159449,
       "word": "乐事薯片回应网传含致癌添加剂",
       "onboard_time": 1743208881,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159283,
-      "num": 159283,
-      "word": "胖东来店长平均月薪78058元",
-      "onboard_time": 1743225382,
       "rank": 33,
       "category": "民生新闻"
     },
@@ -857,6 +889,14 @@
       "onboard_time": 1743199155,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150902,
+      "num": 150902,
+      "word": "减脂人有自己的替身文学",
+      "onboard_time": 1743223822,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 148897,
@@ -963,14 +1003,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 133864,
-      "num": 133864,
-      "word": "减脂人有自己的替身文学",
-      "onboard_time": 1743223822,
-      "rank": 41,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 133642,
       "num": 133642,
       "word": "全网能打王者荣耀只有这十个人",
@@ -980,7 +1012,7 @@
     },
     {
       "raw_hot": 130862,
-      "num": 130862,
+      "num": 212435,
       "word": "盒猫赚走所有人的眼泪",
       "onboard_time": 1743224723,
       "rank": 42,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1743197712,
       "rank": 37,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 126745,
+      "num": 126745,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1743226400,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 125507,
@@ -1155,6 +1195,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109038,
+      "num": 109038,
+      "word": "胖东来店长年收入近百万",
+      "onboard_time": 1743225622,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108495,
+      "num": 108495,
+      "word": "浪姐",
+      "onboard_time": 1743226642,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108160,
       "num": 352766,
       "word": "徐冬冬尹子维情侣装同框",
@@ -1187,12 +1243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106571,
-      "num": 106571,
-      "word": "胖东来店长年收入近百万",
-      "onboard_time": 1743225622,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 105821,
+      "num": 105821,
+      "word": "如何用Deepseek自动生成PPT",
+      "onboard_time": 1743226041,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 104875,
@@ -1363,12 +1419,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60143,
+      "num": 181587,
+      "word": "于适王雷错过一个梗会怎么样",
+      "onboard_time": 1743225802,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59162,
       "num": 59162,
       "word": "惊蛰无声阵容",
       "onboard_time": 1743181339,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 57098,
+      "num": 1162112,
+      "word": "2025中国网络媒体论坛",
+      "onboard_time": 1743221722,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56552,
@@ -1451,12 +1523,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39206,
+      "num": 271643,
+      "word": "老人花4998给MCN想带货稳赚秒被骗",
+      "onboard_time": 1743224662,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 39089,
       "num": 40725,
       "word": "周深获年度品质金声",
       "onboard_time": 1743182777,
       "rank": 49,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 38234,
+      "num": 359446,
+      "word": "律师解读INS新乐园烟头事件",
+      "onboard_time": 1743224602,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37655,
+      "num": 108765,
+      "word": "盘点Gucci的经典元素",
+      "onboard_time": 1743225742,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 36595,
@@ -1472,30 +1568,6 @@
       "word": "玄武湖鸭子头顶蓬松爆炸头",
       "onboard_time": 1743202577,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34523,
-      "num": 1162112,
-      "word": "2025中国网络媒体论坛",
-      "onboard_time": 1743221722,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33158,
-      "num": 271643,
-      "word": "老人花4998给MCN想带货稳赚秒被骗",
-      "onboard_time": 1743224662,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 31527,
-      "num": 359446,
-      "word": "律师解读INS新乐园烟头事件",
-      "onboard_time": 1743224602,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1609,6 +1681,14 @@
       "onboard_time": 1743188053,
       "rank": 38,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 14492,
+      "num": 1173969,
+      "word": "印象广西",
+      "onboard_time": 1743226462,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14019,
