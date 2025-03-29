@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743266653716,
+  "endTime": 1743268816965,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -16483,6 +16483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 465188,
+      "num": 324912,
+      "word": "门童多位粉丝失联",
+      "onboard_time": 1743251304,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464764,
       "num": 394636,
       "word": "医生提醒每天睡眠少于6.5h需警惕",
@@ -16593,14 +16601,6 @@
       "onboard_time": 1741081823,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 462020,
-      "num": 324912,
-      "word": "门童多位粉丝失联",
-      "onboard_time": 1743251304,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 461885,
@@ -40003,6 +40003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192773,
+      "num": 175088,
+      "word": "武汉小伙靠写字7年还清2000万巨债",
+      "onboard_time": 1743264022,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192709,
       "num": 155876,
       "word": "真心建议你常吃抗炎食物",
@@ -45193,14 +45201,6 @@
       "onboard_time": 1742463382,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 173762,
-      "num": 173762,
-      "word": "武汉小伙靠写字7年还清2000万巨债",
-      "onboard_time": 1743264022,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173726,
@@ -73843,6 +73843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94143,
+      "num": 94143,
+      "word": "华人称地震当日缅甸放假救了很多人",
+      "onboard_time": 1743266599,
+      "rank": 49,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 94128,
       "num": 94128,
       "word": "余华英被执行死刑",
@@ -74417,6 +74425,14 @@
       "onboard_time": 1742020583,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92024,
+      "num": 92024,
+      "word": "曼谷便利店为防哄抢关闭",
+      "onboard_time": 1743267318,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 91997,
@@ -79507,14 +79523,6 @@
       "category": "国内时政,健康医疗"
     },
     {
-      "raw_hot": 68322,
-      "num": 76282,
-      "word": "华人称地震当日缅甸放假救了很多人",
-      "onboard_time": 1743266599,
-      "rank": 49,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 68265,
       "num": 201557,
       "word": "manus到底是什么",
@@ -80041,6 +80049,14 @@
       "onboard_time": 1740798498,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65866,
+      "num": 65866,
+      "word": "檀健次猎罪图鉴历史完播率第一",
+      "onboard_time": 1743267560,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 65848,
@@ -83313,6 +83329,14 @@
       "onboard_time": 1742814381,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51889,
+      "num": 54018,
+      "word": "李荣浩演唱会",
+      "onboard_time": 1743268218,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 51847,
@@ -87761,6 +87785,14 @@
       "onboard_time": 1742987301,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 35368,
+      "num": 97511,
+      "word": "美国网红甲亢哥来河南学习中国功夫",
+      "onboard_time": 1743268518,
+      "rank": 23,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 35360,

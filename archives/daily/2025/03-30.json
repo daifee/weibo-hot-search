@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743266653716,
+  "endTime": 1743268816965,
   "band_list": [
     {
       "raw_hot": 1925246,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 592324,
+      "num": 530299,
+      "word": "失联中国留学生罗生门遗体被找到",
+      "onboard_time": 1743257844,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 557054,
       "num": 557054,
       "word": "雁回时站内热度破30000",
@@ -51,14 +59,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 530299,
-      "num": 530299,
-      "word": "失联中国留学生罗生门遗体被找到",
-      "onboard_time": 1743257844,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 481378,
       "num": 436014,
       "word": "安静公主长了一个肿瘤",
@@ -67,7 +67,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 462020,
+      "raw_hot": 465188,
       "num": 324912,
       "word": "门童多位粉丝失联",
       "onboard_time": 1743251304,
@@ -187,20 +187,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192773,
+      "num": 175088,
+      "word": "武汉小伙靠写字7年还清2000万巨债",
+      "onboard_time": 1743264022,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186090,
       "num": 186090,
       "word": "缅甸震中华人目睹12楼变3楼",
       "onboard_time": 1743251783,
       "rank": 25,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 173762,
-      "num": 173762,
-      "word": "武汉小伙靠写字7年还清2000万巨债",
-      "onboard_time": 1743264022,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171342,
@@ -299,6 +299,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 104270,
+      "num": 104270,
+      "word": "雁回时好像疯走了",
+      "onboard_time": 1743249803,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103780,
       "num": 103780,
       "word": "缅甸地震云南多地受影响",
@@ -329,6 +337,22 @@
       "onboard_time": 1743256583,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94143,
+      "num": 94143,
+      "word": "华人称地震当日缅甸放假救了很多人",
+      "onboard_time": 1743266599,
+      "rank": 49,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 92024,
+      "num": 92024,
+      "word": "曼谷便利店为防哄抢关闭",
+      "onboard_time": 1743267318,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 90825,
@@ -427,12 +451,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68322,
-      "num": 76282,
-      "word": "华人称地震当日缅甸放假救了很多人",
-      "onboard_time": 1743266599,
+      "raw_hot": 65866,
+      "num": 65866,
+      "word": "檀健次猎罪图鉴历史完播率第一",
+      "onboard_time": 1743267560,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 51889,
+      "num": 54018,
+      "word": "李荣浩演唱会",
+      "onboard_time": 1743268218,
       "rank": 49,
-      "category": "突发/灾害"
+      "category": "演出"
     },
     {
       "raw_hot": 36343,
@@ -441,6 +473,14 @@
       "onboard_time": 1743265282,
       "rank": 16,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 35368,
+      "num": 97511,
+      "word": "美国网红甲亢哥来河南学习中国功夫",
+      "onboard_time": 1743268518,
+      "rank": 23,
+      "category": "民生新闻,网红"
     }
   ],
   "hotgov_list": [
