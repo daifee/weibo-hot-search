@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743284159325,
+  "endTime": 1743286912080,
   "band_list": [
     {
       "raw_hot": 1925246,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190375,
+      "num": 375616,
+      "word": "孔龙自美归国",
+      "onboard_time": 1743277275,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 186090,
       "num": 186090,
       "word": "缅甸震中华人目睹12楼变3楼",
@@ -249,14 +257,6 @@
       "onboard_time": 1743250282,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126087,
-      "num": 176858,
-      "word": "孔龙自美归国",
-      "onboard_time": 1743277275,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 122367,
@@ -345,6 +345,14 @@
       "onboard_time": 1743261324,
       "rank": 38,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 102804,
+      "num": 60722,
+      "word": "乡村爱情赵玉田带货厂家承认造假",
+      "onboard_time": 1743279254,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 101307,
@@ -483,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72226,
+      "num": 72226,
+      "word": "荷兰警方正调查清华学生罗生门死因",
+      "onboard_time": 1743283694,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65866,
       "num": 65866,
       "word": "檀健次猎罪图鉴历史完播率第一",
@@ -539,14 +555,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 32676,
-      "num": 32676,
-      "word": "乡村爱情赵玉田带货厂家承认造假",
-      "onboard_time": 1743279254,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 30931,
       "num": 48634,
       "word": "美副总统抵达格陵兰吐槽天气飙脏话",
@@ -587,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21804,
+      "num": 21804,
+      "word": "中考单列高层次人才子女违背公平",
+      "onboard_time": 1743283154,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 21798,
       "num": 24658,
       "word": "周深风吹过的晨曦首唱舞台",
@@ -600,6 +616,22 @@
       "word": "虞书欣国王收官18宫格",
       "onboard_time": 1743274694,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 20438,
+      "num": 20438,
+      "word": "通信技术试验卫星十六号发射成功",
+      "onboard_time": 1743284233,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 19996,
+      "num": 20438,
+      "word": "生命树",
+      "onboard_time": 1743280333,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -619,28 +651,28 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 16541,
-      "num": 17775,
-      "word": "生命树",
-      "onboard_time": 1743280333,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 17891,
+      "num": 20435,
+      "word": "记者赶赴缅甸震中",
+      "onboard_time": 1743283633,
+      "rank": 44,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 15831,
-      "num": 16512,
+      "num": 20431,
       "word": "缅甸强震遇难人数升至1002人",
       "onboard_time": 1743280934,
       "rank": 48,
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 12563,
-      "num": 33513,
-      "word": "荷兰警方正调查清华学生罗生门死因",
-      "onboard_time": 1743283694,
-      "rank": 11,
-      "category": "国际时政"
+      "raw_hot": 11909,
+      "num": 61487,
+      "word": "蓝天救援队跨国驰援缅甸",
+      "onboard_time": 1743286034,
+      "rank": 9,
+      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [
