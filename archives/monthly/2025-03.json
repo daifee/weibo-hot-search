@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743279845721,
+  "endTime": 1743280631962,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -75587,6 +75587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87251,
+      "num": 87251,
+      "word": "缅甸大地震威力有多大",
+      "onboard_time": 1743275895,
+      "rank": 34,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 87241,
       "num": 120757,
       "word": "惹怒虞书欣只需要一个林一",
@@ -75721,14 +75729,6 @@
       "onboard_time": 1741834883,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 86705,
-      "num": 86705,
-      "word": "缅甸大地震威力有多大",
-      "onboard_time": 1743275895,
-      "rank": 34,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 86695,
@@ -79467,6 +79467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68809,
+      "num": 68809,
+      "word": "孔龙自美归国",
+      "onboard_time": 1743277275,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 68761,
       "num": 236211,
       "word": "第2场部长通道",
@@ -81473,14 +81481,6 @@
       "onboard_time": 1743115457,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59538,
-      "num": 59538,
-      "word": "孔龙自美归国",
-      "onboard_time": 1743277275,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59519,
@@ -88139,6 +88139,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 34463,
+      "num": 36631,
+      "word": "卫星照片显示内比都机场塔台倒塌",
+      "onboard_time": 1743278834,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 34461,
       "num": 170632,
       "word": "骑士联盟首支锁定季后赛球队",
@@ -93187,6 +93195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 18321,
+      "num": 27712,
+      "word": "在缅华人称中国公民正组织自救",
+      "onboard_time": 1743278534,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 18267,
       "num": 249539,
       "word": "基南卡尔金奥斯卡最佳男配",
@@ -93201,6 +93217,14 @@
       "onboard_time": 1740768972,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18262,
+      "num": 18262,
+      "word": "乡村爱情赵玉田带货厂家承认造假",
+      "onboard_time": 1743279254,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 18258,
@@ -93265,14 +93289,6 @@
       "onboard_time": 1741431742,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 18100,
-      "num": 18100,
-      "word": "乡村爱情赵玉田带货厂家承认造假",
-      "onboard_time": 1743279254,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 18092,
@@ -93377,14 +93393,6 @@
       "onboard_time": 1742408474,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17752,
-      "num": 36631,
-      "word": "卫星照片显示内比都机场塔台倒塌",
-      "onboard_time": 1743278834,
-      "rank": 12,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 17748,
@@ -94457,14 +94465,6 @@
       "onboard_time": 1742499914,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13862,
-      "num": 17526,
-      "word": "在缅华人称中国公民正组织自救",
-      "onboard_time": 1743278534,
-      "rank": 44,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 13754,

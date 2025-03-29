@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743279845721,
+  "endTime": 1743280631962,
   "band_list": [
     {
       "raw_hot": 1925246,
@@ -395,20 +395,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87251,
+      "num": 87251,
+      "word": "缅甸大地震威力有多大",
+      "onboard_time": 1743275895,
+      "rank": 34,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 87215,
       "num": 79901,
       "word": "虞书欣是林一见过最E的人",
       "onboard_time": 1743259583,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86705,
-      "num": 86705,
-      "word": "缅甸大地震威力有多大",
-      "onboard_time": 1743275895,
-      "rank": 34,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 86615,
@@ -475,20 +475,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68809,
+      "num": 68809,
+      "word": "孔龙自美归国",
+      "onboard_time": 1743277275,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65866,
       "num": 65866,
       "word": "檀健次猎罪图鉴历史完播率第一",
       "onboard_time": 1743267560,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59538,
-      "num": 59538,
-      "word": "孔龙自美归国",
-      "onboard_time": 1743277275,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59103,
@@ -529,6 +529,14 @@
       "onboard_time": 1743242423,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34463,
+      "num": 36631,
+      "word": "卫星照片显示内比都机场塔台倒塌",
+      "onboard_time": 1743278834,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 30931,
@@ -587,28 +595,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18100,
-      "num": 18100,
+      "raw_hot": 18321,
+      "num": 27712,
+      "word": "在缅华人称中国公民正组织自救",
+      "onboard_time": 1743278534,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 18262,
+      "num": 18262,
       "word": "乡村爱情赵玉田带货厂家承认造假",
       "onboard_time": 1743279254,
       "rank": 42,
       "category": "艺人"
     },
     {
-      "raw_hot": 17752,
-      "num": 36631,
-      "word": "卫星照片显示内比都机场塔台倒塌",
-      "onboard_time": 1743278834,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 13862,
-      "num": 17526,
-      "word": "在缅华人称中国公民正组织自救",
-      "onboard_time": 1743278534,
-      "rank": 44,
-      "category": "突发/灾害"
+      "raw_hot": 16059,
+      "num": 17775,
+      "word": "生命树",
+      "onboard_time": 1743280333,
+      "rank": 46,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
