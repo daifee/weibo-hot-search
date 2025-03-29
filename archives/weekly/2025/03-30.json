@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743273021377,
+  "endTime": 1743273808335,
   "band_list": [
     {
       "raw_hot": 1925246,
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74125,
+      "num": 108123,
+      "word": "苹果首席工程师孔龙自美归国",
+      "onboard_time": 1743272296,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 65866,
       "num": 65866,
       "word": "檀健次猎罪图鉴历史完播率第一",
@@ -523,12 +531,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28295,
-      "num": 108123,
-      "word": "苹果首席工程师孔龙自美归国",
-      "onboard_time": 1743272296,
-      "rank": 9,
-      "category": "数码"
+      "raw_hot": 28018,
+      "num": 28018,
+      "word": "鹭卓 你最懂我失落",
+      "onboard_time": 1743273135,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 20120,
+      "num": 30706,
+      "word": "12306上真的可以免费换火车票",
+      "onboard_time": 1743273495,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16987,
+      "num": 30750,
+      "word": "美副总统抵达格陵兰吐槽天气飙脏话",
+      "onboard_time": 1743273556,
+      "rank": 37,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
