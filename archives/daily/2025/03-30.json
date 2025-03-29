@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743286912080,
+  "endTime": 1743287937079,
   "band_list": [
     {
       "raw_hot": 1925246,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251983,
+      "num": 473720,
+      "word": "孔龙自美归国",
+      "onboard_time": 1743277275,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 228684,
       "num": 228684,
       "word": "资本从美国撤出后正加速流向中国",
@@ -193,14 +201,6 @@
       "onboard_time": 1743264022,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190375,
-      "num": 375616,
-      "word": "孔龙自美归国",
-      "onboard_time": 1743277275,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 186090,
@@ -249,6 +249,14 @@
       "onboard_time": 1743264624,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139543,
+      "num": 60722,
+      "word": "乡村爱情赵玉田带货厂家承认造假",
+      "onboard_time": 1743279254,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 137087,
@@ -347,14 +355,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 102804,
-      "num": 60722,
-      "word": "乡村爱情赵玉田带货厂家承认造假",
-      "onboard_time": 1743279254,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101307,
       "num": 101307,
       "word": "缅甸7.9级地震前后对比",
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87057,
+      "num": 87057,
+      "word": "荷兰警方正调查清华学生罗生门死因",
+      "onboard_time": 1743283694,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86615,
       "num": 86615,
       "word": "权志龙演唱会",
@@ -489,14 +497,6 @@
       "onboard_time": 1743256823,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72226,
-      "num": 72226,
-      "word": "荷兰警方正调查清华学生罗生门死因",
-      "onboard_time": 1743283694,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 65866,
@@ -563,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29400,
+      "num": 61487,
+      "word": "蓝天救援队跨国驰援缅甸",
+      "onboard_time": 1743286034,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 29083,
       "num": 33143,
       "word": "九义人",
@@ -595,12 +603,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21804,
-      "num": 21804,
+      "raw_hot": 26367,
+      "num": 26367,
       "word": "中考单列高层次人才子女违背公平",
       "onboard_time": 1743283154,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 24246,
+      "num": 24246,
+      "word": "生命树",
+      "onboard_time": 1743280333,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 21798,
@@ -620,19 +636,11 @@
     },
     {
       "raw_hot": 20438,
-      "num": 20438,
+      "num": 24100,
       "word": "通信技术试验卫星十六号发射成功",
       "onboard_time": 1743284233,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 19996,
-      "num": 20438,
-      "word": "生命树",
-      "onboard_time": 1743280333,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 19304,
@@ -667,10 +675,10 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 11909,
-      "num": 61487,
-      "word": "蓝天救援队跨国驰援缅甸",
-      "onboard_time": 1743286034,
+      "raw_hot": 11005,
+      "num": 56111,
+      "word": "缅甸地震最新情况汇总",
+      "onboard_time": 1743286755,
       "rank": 9,
       "category": "突发/灾害"
     }
