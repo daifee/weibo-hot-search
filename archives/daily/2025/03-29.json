@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743248171957,
+  "endTime": 1743252135829,
   "band_list": [
     {
       "raw_hot": 4621424,
@@ -171,6 +171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1052770,
+      "num": 444720,
+      "word": "曝金秀贤曾和著名女演员交往",
+      "onboard_time": 1743250522,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1036840,
       "num": 618557,
       "word": "门童成员发文",
@@ -251,11 +259,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 914903,
+      "num": 829746,
+      "word": "何泓姗澄清",
+      "onboard_time": 1743249863,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 897425,
       "num": 897425,
       "word": "曲靖4.4级地震",
       "onboard_time": 1743246564,
       "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 824226,
+      "num": 824226,
+      "word": "云南曲靖4.4级地震",
+      "onboard_time": 1743246564,
+      "rank": 4,
       "category": "突发/灾害"
     },
     {
@@ -283,6 +307,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 729211,
+      "num": 623864,
+      "word": "张翰时隔三年再发微博",
+      "onboard_time": 1743250282,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 704518,
       "num": 704518,
       "word": "李晟住过300元一个月的地下室",
@@ -307,6 +339,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 688369,
+      "num": 568969,
+      "word": "雁回时好像疯走了",
+      "onboard_time": 1743249803,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 659936,
       "num": 659936,
       "word": "缅甸7.9级地震",
@@ -320,6 +360,14 @@
       "word": "胖东来基层员工平均月薪9886元",
       "onboard_time": 1743219860,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 653450,
+      "num": 653450,
+      "word": "三年赚70万网约车司机发声",
+      "onboard_time": 1743248842,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -691,6 +739,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 304680,
+      "num": 304680,
+      "word": "曼谷中国超市免费提供矿泉水等物资",
+      "onboard_time": 1743245544,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 304334,
       "num": 304334,
       "word": "门童粉丝发长文",
@@ -732,11 +788,19 @@
     },
     {
       "raw_hot": 290352,
-      "num": 290352,
+      "num": 454207,
       "word": "武汉一幼儿园上课70%时间在巡山",
       "onboard_time": 1743243381,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289404,
+      "num": 289404,
+      "word": "K总第二场婚礼",
+      "onboard_time": 1743249503,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 288243,
@@ -745,14 +809,6 @@
       "onboard_time": 1743226882,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 279796,
-      "num": 279796,
-      "word": "曼谷中国超市免费提供矿泉水等物资",
-      "onboard_time": 1743245544,
-      "rank": 23,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 273309,
@@ -835,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232176,
+      "num": 232176,
+      "word": "刘亦菲惊喜四个男主发来贺电",
+      "onboard_time": 1743248603,
+      "rank": 25,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 224320,
       "num": 224320,
       "word": "无限超越班开播",
@@ -857,6 +921,14 @@
       "onboard_time": 1743233842,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219085,
+      "num": 219085,
+      "word": "去看权志龙演唱会的明星",
+      "onboard_time": 1743250225,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 218983,
@@ -913,6 +985,14 @@
       "onboard_time": 1743232942,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205004,
+      "num": 205004,
+      "word": "门童多位粉丝失联",
+      "onboard_time": 1743251304,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 204715,
@@ -993,6 +1073,14 @@
       "onboard_time": 1743217220,
       "rank": 25,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 197407,
+      "num": 197407,
+      "word": "一天吃300多包薯片才可能致命",
+      "onboard_time": 1743250763,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 197323,
@@ -1163,6 +1251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177028,
+      "num": 177028,
+      "word": "终于有剧能躲开迎面而来的巴掌了",
+      "onboard_time": 1743248424,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176966,
       "num": 380983,
       "word": "地震时老师冷静指挥学生撤离",
@@ -1187,6 +1283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 175164,
+      "num": 175164,
+      "word": "起猛了陈楚生坐我座位了",
+      "onboard_time": 1743251363,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174974,
       "num": 174974,
       "word": "吴宣仪哭了以为自己组赢了",
@@ -1201,6 +1305,14 @@
       "onboard_time": 1743210800,
       "rank": 26,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 174398,
+      "num": 174398,
+      "word": "身体5个表现提示肝病了",
+      "onboard_time": 1743251724,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 173990,
@@ -1235,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170818,
+      "num": 300304,
+      "word": "尹子维看秀时还在教徐冬冬英文",
+      "onboard_time": 1743251182,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170578,
       "num": 170578,
       "word": "缅甸华人称今晚扛垫子睡路边",
@@ -1267,6 +1387,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 167967,
+      "num": 167967,
+      "word": "雁回时热度",
+      "onboard_time": 1743251724,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167606,
+      "num": 167606,
+      "word": "我周震南来这就是为了第一名",
+      "onboard_time": 1743248303,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167089,
       "num": 167089,
       "word": "乘客呼吸困难说出碱字地铁员工秒懂",
@@ -1297,6 +1433,14 @@
       "onboard_time": 1743244221,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162208,
+      "num": 162208,
+      "word": "王一博靠边停车",
+      "onboard_time": 1743251063,
+      "rank": 38,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 161789,
@@ -1411,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157063,
+      "num": 157063,
+      "word": "比白磷还易燃的姐妹出现了",
+      "onboard_time": 1743251242,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156985,
       "num": 188202,
       "word": "你好星期六全员人鱼登陆",
@@ -1433,6 +1585,14 @@
       "onboard_time": 1743177621,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156721,
+      "num": 156721,
+      "word": "华侨称缅甸曼德勒最高温近40度",
+      "onboard_time": 1743249803,
+      "rank": 42,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 156642,
@@ -1577,6 +1737,14 @@
       "onboard_time": 1743242482,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144311,
+      "num": 144311,
+      "word": "翔霖",
+      "onboard_time": 1743248723,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 143760,
@@ -1755,6 +1923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129982,
+      "num": 129982,
+      "word": "赵丽颖造城者杀青了",
+      "onboard_time": 1743249023,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129970,
       "num": 129970,
       "word": "马嘉祺 深夜放毒",
@@ -1793,6 +1969,14 @@
       "onboard_time": 1743198314,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128245,
+      "num": 128245,
+      "word": "白敬亭流浪鞋",
+      "onboard_time": 1743251963,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 128238,
@@ -1873,6 +2057,14 @@
       "onboard_time": 1743240862,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123853,
+      "num": 123853,
+      "word": "玉渊潭",
+      "onboard_time": 1743252026,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 123525,
@@ -2217,6 +2409,14 @@
       "onboard_time": 1743211161,
       "rank": 45,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 103003,
+      "num": 307688,
+      "word": "缅甸震中华人目睹12楼变3楼",
+      "onboard_time": 1743251783,
+      "rank": 17,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 102324,
@@ -2673,6 +2873,14 @@
       "onboard_time": 1743225742,
       "rank": 46,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 36803,
+      "num": 157357,
+      "word": "胡兵担任中国国际时装周全球推广大使",
+      "onboard_time": 1743251603,
+      "rank": 40,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 36595,

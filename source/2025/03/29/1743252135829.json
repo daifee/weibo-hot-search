@@ -1,0 +1,410 @@
+{
+  "runTime": 1743252135829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1026527,
+        "num": 1164244,
+        "word": "王一博亚军",
+        "onboard_time": 1743240441,
+        "rank": 0,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 848957,
+        "num": 848957,
+        "word": "世界上最大的宫殿在地震中坍塌",
+        "onboard_time": 1743242482,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 20643,
+        "num": 831293,
+        "word": "当AI遇上广西三月三",
+        "onboard_time": 1743171326,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 914903,
+        "num": 829746,
+        "word": "何泓姗澄清",
+        "onboard_time": 1743249863,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 824226,
+        "num": 824226,
+        "word": "云南曲靖4.4级地震",
+        "onboard_time": 1743246564,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 653450,
+        "num": 653450,
+        "word": "三年赚70万网约车司机发声",
+        "onboard_time": 1743248842,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729211,
+        "num": 623864,
+        "word": "张翰时隔三年再发微博",
+        "onboard_time": 1743250282,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688369,
+        "num": 568969,
+        "word": "雁回时好像疯走了",
+        "onboard_time": 1743249803,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455898,
+        "num": 455898,
+        "word": "中国政府决定向缅甸提供1亿元",
+        "onboard_time": 1743231862,
+        "rank": 8,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 216688,
+        "num": 454207,
+        "word": "武汉一幼儿园上课70%时间在巡山",
+        "onboard_time": 1743243381,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1052770,
+        "num": 444720,
+        "word": "曝金秀贤曾和著名女演员交往",
+        "onboard_time": 1743250522,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737017,
+        "num": 430515,
+        "word": "戚薇二胎产子画面",
+        "onboard_time": 1743239362,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567315,
+        "num": 426091,
+        "word": "李国祥去世",
+        "onboard_time": 1743244882,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529461,
+        "num": 412015,
+        "word": "彭昱畅怎么帅成这样了",
+        "onboard_time": 1743243981,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410205,
+        "num": 410205,
+        "word": "韩国扑救山火消防员的盒饭",
+        "onboard_time": 1743237682,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 366720,
+        "num": 366720,
+        "word": "王珞丹把李晟往前推",
+        "onboard_time": 1743246624,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341530,
+        "num": 341530,
+        "word": "权志龙演唱会",
+        "onboard_time": 1743244823,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103003,
+        "num": 307688,
+        "word": "缅甸震中华人目睹12楼变3楼",
+        "onboard_time": 1743251783,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 304680,
+        "num": 304680,
+        "word": "曼谷中国超市免费提供矿泉水等物资",
+        "onboard_time": 1743245544,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 170818,
+        "num": 300304,
+        "word": "尹子维看秀时还在教徐冬冬英文",
+        "onboard_time": 1743251182,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2339478,
+        "num": 299874,
+        "word": "bnd粉丝去世",
+        "onboard_time": 1743235701,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 297336,
+        "num": 297336,
+        "word": "缅甸地震致1002死2376伤",
+        "onboard_time": 1743224842,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 289404,
+        "num": 289404,
+        "word": "K总第二场婚礼",
+        "onboard_time": 1743249503,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 266965,
+        "num": 266965,
+        "word": "中国救援队抵达缅甸",
+        "onboard_time": 1743244582,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 241605,
+        "num": 241605,
+        "word": "事业编 开除小王",
+        "onboard_time": 1743225203,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232176,
+        "num": 232176,
+        "word": "刘亦菲惊喜四个男主发来贺电",
+        "onboard_time": 1743248603,
+        "rank": 25,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 219085,
+        "num": 219085,
+        "word": "去看权志龙演唱会的明星",
+        "onboard_time": 1743250225,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206570,
+        "num": 206570,
+        "word": "雁回时",
+        "onboard_time": 1743242423,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205004,
+        "num": 205004,
+        "word": "门童多位粉丝失联",
+        "onboard_time": 1743251304,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199534,
+        "num": 199534,
+        "word": "缅甸地震云南多地受影响",
+        "onboard_time": 1743239301,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 197407,
+        "num": 197407,
+        "word": "一天吃300多包薯片才可能致命",
+        "onboard_time": 1743250763,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186312,
+        "num": 186312,
+        "word": "胖东来店长平均月薪78058元",
+        "onboard_time": 1743225382,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179885,
+        "num": 179885,
+        "word": "胖东来要投资70亿开梦之城",
+        "onboard_time": 1743241582,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177028,
+        "num": 177028,
+        "word": "终于有剧能躲开迎面而来的巴掌了",
+        "onboard_time": 1743248424,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175164,
+        "num": 175164,
+        "word": "起猛了陈楚生坐我座位了",
+        "onboard_time": 1743251363,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174398,
+        "num": 174398,
+        "word": "身体5个表现提示肝病了",
+        "onboard_time": 1743251724,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167967,
+        "num": 167967,
+        "word": "雁回时热度",
+        "onboard_time": 1743251724,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167606,
+        "num": 167606,
+        "word": "我周震南来这就是为了第一名",
+        "onboard_time": 1743248303,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162208,
+        "num": 162208,
+        "word": "王一博靠边停车",
+        "onboard_time": 1743251063,
+        "rank": 38,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 157711,
+        "num": 157711,
+        "word": "叶童三公 跳楼机",
+        "onboard_time": 1743230602,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36803,
+        "num": 157357,
+        "word": "胡兵担任中国国际时装周全球推广大使",
+        "onboard_time": 1743251603,
+        "rank": 40,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 157063,
+        "num": 157063,
+        "word": "比白磷还易燃的姐妹出现了",
+        "onboard_time": 1743251242,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156721,
+        "num": 156721,
+        "word": "华侨称缅甸曼德勒最高温近40度",
+        "onboard_time": 1743249803,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 144311,
+        "num": 144311,
+        "word": "翔霖",
+        "onboard_time": 1743248723,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139549,
+        "num": 139549,
+        "word": "彭小苒房琪起争执",
+        "onboard_time": 1743230481,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129982,
+        "num": 129982,
+        "word": "赵丽颖造城者杀青了",
+        "onboard_time": 1743249023,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128245,
+        "num": 128245,
+        "word": "白敬亭流浪鞋",
+        "onboard_time": 1743251963,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127932,
+        "num": 127932,
+        "word": "乐事薯片被曝含致癌添加剂",
+        "onboard_time": 1743205938,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 125648,
+        "num": 125648,
+        "word": "面筋哥去世",
+        "onboard_time": 1743220402,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123853,
+        "num": 123853,
+        "word": "玉渊潭",
+        "onboard_time": 1743252026,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国是有利于外资企业投资兴业的一方沃土#"
+    }
+  }
+}
