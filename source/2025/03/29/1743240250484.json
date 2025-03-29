@@ -1,0 +1,410 @@
+{
+  "runTime": 1743240250484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1226678,
+        "num": 1226678,
+        "word": "中国政府决定向缅甸提供1亿元",
+        "onboard_time": 1743231862,
+        "rank": 0,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 767641,
+        "num": 767641,
+        "word": "事业编 开除小王",
+        "onboard_time": 1743225203,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 3625,
+        "num": 748589,
+        "word": "当AI遇上广西三月三",
+        "onboard_time": 1743171326,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 747657,
+        "num": 747657,
+        "word": "缅甸地震致1002死2376伤",
+        "onboard_time": 1743224842,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 700713,
+        "num": 700713,
+        "word": "玫瑰 我想一个人生活",
+        "onboard_time": 1743237983,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 604343,
+        "num": 604343,
+        "word": "胖东来店长平均月薪78058元",
+        "onboard_time": 1743225382,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580918,
+        "num": 580918,
+        "word": "面筋哥去世",
+        "onboard_time": 1743220402,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 520497,
+        "num": 520497,
+        "word": "叶童三公 跳楼机",
+        "onboard_time": 1743230602,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488356,
+        "num": 488356,
+        "word": "乐事薯片被曝含致癌添加剂",
+        "onboard_time": 1743205938,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 333053,
+        "num": 468817,
+        "word": "缅甸地震云南多地受影响",
+        "onboard_time": 1743239301,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 10297,
+        "num": 451379,
+        "word": "AI导游带你玩转广西",
+        "onboard_time": 1743239962,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3112776,
+        "num": 438202,
+        "word": "bnd粉丝去世",
+        "onboard_time": 1743235701,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1806189,
+        "num": 419515,
+        "word": "戚薇二胎产子画面",
+        "onboard_time": 1743239362,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409271,
+        "num": 409271,
+        "word": "荷兰警方发现中国留学生罗生门遗体",
+        "onboard_time": 1743226281,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34989,
+        "num": 385685,
+        "word": "女子游泳被教练偷拍发网上宣传",
+        "onboard_time": 1743239601,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382821,
+        "num": 382821,
+        "word": "韩国扑救山火消防员的盒饭",
+        "onboard_time": 1743237682,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 379879,
+        "num": 379879,
+        "word": "门童成员发文",
+        "onboard_time": 1743203959,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 319565,
+        "num": 319565,
+        "word": "哪吒2冲TOP4",
+        "onboard_time": 1743223401,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272652,
+        "num": 272652,
+        "word": "彭小苒 没拍戏",
+        "onboard_time": 1743231382,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19959,
+        "num": 268553,
+        "word": "中国游客讲述地震后从曼谷回国经历",
+        "onboard_time": 1743239661,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 343179,
+        "num": 268278,
+        "word": "上过班的才知道那种根本不现实",
+        "onboard_time": 1743236542,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267862,
+        "num": 267862,
+        "word": "王一博轮胎离地起飞",
+        "onboard_time": 1743222504,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 213647,
+        "num": 213647,
+        "word": "Real原导演发声",
+        "onboard_time": 1743232400,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206584,
+        "num": 206584,
+        "word": "2岁女孩走失38年已成残疾单身妈妈",
+        "onboard_time": 1743227721,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204633,
+        "num": 204633,
+        "word": "权志龙彩排",
+        "onboard_time": 1743239301,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199178,
+        "num": 199178,
+        "word": "郑雅贤开球",
+        "onboard_time": 1743239301,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171433,
+        "num": 171433,
+        "word": "胖东来基层员工平均月薪9886元",
+        "onboard_time": 1743219860,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161835,
+        "num": 161835,
+        "word": "毛子一家生活点滴",
+        "onboard_time": 1743239002,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153722,
+        "num": 153722,
+        "word": "色狼拍空姐她拍色狼",
+        "onboard_time": 1743218239,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 46726,
+        "num": 150682,
+        "word": "JDG对战情久",
+        "onboard_time": 1743239243,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149566,
+        "num": 149566,
+        "word": "林高远诠释中式美学",
+        "onboard_time": 1743239301,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147807,
+        "num": 147807,
+        "word": "刘耀文腹肌",
+        "onboard_time": 1743227841,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31117,
+        "num": 143293,
+        "word": "潘展乐穿上三条纹",
+        "onboard_time": 1743236362,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142517,
+        "num": 142517,
+        "word": "事业编",
+        "onboard_time": 1743221961,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142089,
+        "num": 142089,
+        "word": "演唱会天价门票都被谁买走了",
+        "onboard_time": 1743235880,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131225,
+        "num": 131225,
+        "word": "IU朴宝剑新剧豆瓣涨至9.5分",
+        "onboard_time": 1743232882,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130420,
+        "num": 130420,
+        "word": "北京大风天也人人人人挤人人人人",
+        "onboard_time": 1743236542,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129608,
+        "num": 129608,
+        "word": "张本智和无缘男单八强",
+        "onboard_time": 1743233842,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129199,
+        "num": 129199,
+        "word": "中式教育终于在此刻走出闭环",
+        "onboard_time": 1743234681,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126199,
+        "num": 126199,
+        "word": "中国救援队赴缅实施国际救援",
+        "onboard_time": 1743223462,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51657,
+        "num": 124030,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123840,
+        "num": 123840,
+        "word": "缅甸华人说废墟下有很多求救声",
+        "onboard_time": 1743234381,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 119893,
+        "num": 119893,
+        "word": "吴宣仪你的兵来了",
+        "onboard_time": 1743239422,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115908,
+        "num": 115908,
+        "word": "男子长期被妻子责骂偷住邻居家被抓",
+        "onboard_time": 1743226882,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115401,
+        "num": 115401,
+        "word": "何瑞贤新剧虐文女主的泪眼",
+        "onboard_time": 1743238101,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100220,
+        "num": 100220,
+        "word": "唐嫣新剧一集复活三次",
+        "onboard_time": 1743232882,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99199,
+        "num": 99199,
+        "word": "370秒隔空指导救回窒息婴儿",
+        "onboard_time": 1743238281,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96755,
+        "num": 96755,
+        "word": "谭薇代表儿童主持出战乘风",
+        "onboard_time": 1743240142,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359506,
+        "num": 96706,
+        "word": "彭小苒房琪起争执",
+        "onboard_time": 1743230481,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96465,
+        "num": 96465,
+        "word": "京东副总裁喊话雷军工厂尽快扩容",
+        "onboard_time": 1743235161,
+        "rank": 49,
+        "category": "互联网,汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#与中国同行就是与机遇同行#"
+    }
+  }
+}
