@@ -1,6 +1,6 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743253059214,
+  "endTime": 1743254836340,
   "band_list": [
     {
       "raw_hot": 4621424,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1964167,
-      "num": 489002,
+      "num": 521208,
       "word": "戚薇二胎产子画面",
       "onboard_time": 1743239362,
       "rank": 12,
@@ -99,6 +99,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1371417,
+      "num": 1371417,
+      "word": "何泓姗澄清",
+      "onboard_time": 1743249863,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1356943,
       "num": 1356943,
       "word": "缅甸地震相当于上千个原子弹爆炸",
@@ -115,20 +123,20 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1342967,
+      "num": 521214,
+      "word": "曝金秀贤曾和著名女演员交往",
+      "onboard_time": 1743250522,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1332626,
       "num": 1332626,
       "word": "哪吒2冲TOP4",
       "onboard_time": 1743223401,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1294139,
-      "num": 444720,
-      "word": "曝金秀贤曾和著名女演员交往",
-      "onboard_time": 1743250522,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1167442,
@@ -161,14 +169,6 @@
       "onboard_time": 1743225382,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1125118,
-      "num": 1180018,
-      "word": "何泓姗澄清",
-      "onboard_time": 1743249863,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1085454,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 922109,
-      "num": 434987,
+      "num": 439796,
       "word": "彭昱畅怎么帅成这样了",
       "onboard_time": 1743243981,
       "rank": 19,
@@ -273,6 +273,14 @@
       "onboard_time": 1743246564,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 859712,
+      "num": 859712,
+      "word": "用户吐槽小米su7ultra试驾雷军秒道歉",
+      "onboard_time": 1743252923,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 824226,
@@ -299,6 +307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 759885,
+      "num": 759885,
+      "word": "雁回时好像疯走了",
+      "onboard_time": 1743249803,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 733991,
       "num": 249493,
       "word": "大批缅甸商户涌入瑞丽口岸回缅",
@@ -313,14 +329,6 @@
       "onboard_time": 1743250282,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 726509,
-      "num": 676508,
-      "word": "雁回时好像疯走了",
-      "onboard_time": 1743249803,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 704518,
@@ -419,6 +427,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 591411,
+      "num": 591411,
+      "word": "缅甸震中华人目睹12楼变3楼",
+      "onboard_time": 1743251783,
+      "rank": 17,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 582786,
       "num": 354118,
       "word": "2岁男童吃奶酪棒卡喉身亡",
@@ -441,6 +457,14 @@
       "onboard_time": 1743222023,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 520192,
+      "num": 520192,
+      "word": "宋亚轩刘耀文冷战过",
+      "onboard_time": 1743253163,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 518474,
@@ -489,6 +513,14 @@
       "onboard_time": 1743172944,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 481586,
+      "num": 481586,
+      "word": "缅甸7.9级地震前后对比",
+      "onboard_time": 1743252502,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 479880,
@@ -635,6 +667,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 363098,
+      "num": 363098,
+      "word": "浪姐聊天记录",
+      "onboard_time": 1743254303,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362360,
       "num": 362360,
       "word": "IU演技",
@@ -665,6 +705,14 @@
       "onboard_time": 1743218481,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 328939,
+      "num": 328939,
+      "word": "身体5个表现提示肝病了",
+      "onboard_time": 1743251724,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 324248,
@@ -715,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 316423,
-      "num": 316423,
-      "word": "身体5个表现提示肝病了",
-      "onboard_time": 1743251724,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 315902,
       "num": 315902,
       "word": "亲姐妹借腹生子反悔起诉争抚养权",
@@ -744,14 +784,6 @@
       "word": "缅甸政府向国际求援",
       "onboard_time": 1743243381,
       "rank": 40,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 309905,
-      "num": 363803,
-      "word": "缅甸震中华人目睹12楼变3楼",
-      "onboard_time": 1743251783,
-      "rank": 17,
       "category": "突发/灾害"
     },
     {
@@ -883,6 +915,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 242719,
+      "num": 242719,
+      "word": "门童多位粉丝失联",
+      "onboard_time": 1743251304,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239734,
       "num": 274228,
       "word": "李艺彤徒手接眼泪",
@@ -913,14 +953,6 @@
       "onboard_time": 1743248603,
       "rank": 25,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 231128,
-      "num": 231128,
-      "word": "门童多位粉丝失联",
-      "onboard_time": 1743251304,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 228155,
@@ -955,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223263,
+      "num": 223263,
+      "word": "一天吃300多包薯片才可能致命",
+      "onboard_time": 1743250763,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 219085,
       "num": 219085,
       "word": "去看权志龙演唱会的明星",
@@ -969,6 +1009,14 @@
       "onboard_time": 1743218600,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218960,
+      "num": 218960,
+      "word": "雁回时热度",
+      "onboard_time": 1743251724,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 212644,
@@ -1009,14 +1057,6 @@
       "onboard_time": 1743206060,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 208907,
-      "num": 208907,
-      "word": "雁回时热度",
-      "onboard_time": 1743251724,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 207603,
@@ -1131,14 +1171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197407,
-      "num": 197407,
-      "word": "一天吃300多包薯片才可能致命",
-      "onboard_time": 1743250763,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 197323,
       "num": 197323,
       "word": "红果果回应没去浪姐",
@@ -1179,12 +1211,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192060,
+      "num": 192060,
+      "word": "女子嫌头发被剪太丑当场报警",
+      "onboard_time": 1743251063,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191190,
       "num": 191190,
       "word": "唧唧的猫",
       "onboard_time": 1743176661,
       "rank": 24,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 190166,
+      "num": 190166,
+      "word": "玉渊潭",
+      "onboard_time": 1743252026,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 189102,
@@ -1217,14 +1265,6 @@
       "onboard_time": 1743192854,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186649,
-      "num": 186649,
-      "word": "用户吐槽小米su7ultra试驾雷军秒道歉",
-      "onboard_time": 1743252923,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 186384,
@@ -1347,6 +1387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 175268,
+      "num": 175268,
+      "word": "你好星期六预告",
+      "onboard_time": 1743254483,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175164,
       "num": 175164,
       "word": "起猛了陈楚生坐我座位了",
@@ -1401,14 +1449,6 @@
       "onboard_time": 1743213382,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171581,
-      "num": 171581,
-      "word": "玉渊潭",
-      "onboard_time": 1743252026,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 170578,
@@ -1473,6 +1513,14 @@
       "onboard_time": 1743166163,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163271,
+      "num": 163271,
+      "word": "范玮琪演唱会",
+      "onboard_time": 1743254065,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 162743,
@@ -1595,6 +1643,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 157158,
+      "num": 157158,
+      "word": "单依纯济南",
+      "onboard_time": 1743254664,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157149,
       "num": 157149,
       "word": "王智不愧是参加过浪姐的人",
@@ -1675,6 +1731,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 154241,
+      "num": 154241,
+      "word": "大雁甚至都怀疑自己飞错方向了",
+      "onboard_time": 1743253704,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153081,
       "num": 153081,
       "word": "云南震感",
@@ -1705,6 +1769,14 @@
       "onboard_time": 1743199155,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151274,
+      "num": 151274,
+      "word": "孟子义亮钻开衩红裙",
+      "onboard_time": 1743254723,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 150902,
@@ -1867,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137826,
+      "num": 137826,
+      "word": "蛋蛋和李多海在韩国吃烤肉",
+      "onboard_time": 1743254783,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137654,
       "num": 137654,
       "word": "灵笼2从小孩桌到大人桌",
@@ -2001,14 +2081,6 @@
       "onboard_time": 1743219320,
       "rank": 35,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 129572,
-      "num": 129572,
-      "word": "女子嫌头发被剪太丑当场报警",
-      "onboard_time": 1743251063,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129471,
@@ -2635,6 +2707,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 79618,
+      "num": 522021,
+      "word": "3年赚70万司机分享人生故事",
+      "onboard_time": 1743254303,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77014,
       "num": 77014,
       "word": "于适问蒋欣在哪里",
@@ -2683,12 +2763,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 73886,
-      "num": 391091,
-      "word": "缅甸7.9级地震前后对比",
-      "onboard_time": 1743252502,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 71634,
+      "num": 497311,
+      "word": "人形机器人日薪超10000",
+      "onboard_time": 1743253344,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70992,
+      "num": 441076,
+      "word": "王宝强12句台词7个心眼",
+      "onboard_time": 1743253883,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 70957,
@@ -2963,6 +3051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33091,
+      "num": 998584,
+      "word": "当AI遇上广西三月三",
+      "onboard_time": 1743171326,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32854,
       "num": 298904,
       "word": "加沙战火为何反复",
@@ -3009,14 +3105,6 @@
       "onboard_time": 1743191654,
       "rank": 27,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 25988,
-      "num": 998584,
-      "word": "当AI遇上广西三月三",
-      "onboard_time": 1743171326,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25275,
@@ -3121,6 +3209,14 @@
       "onboard_time": 1743193273,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13424,
+      "num": 448104,
+      "word": "部分中国民间救援队自驾前往震中",
+      "onboard_time": 1743254483,
+      "rank": 17,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 11813,
