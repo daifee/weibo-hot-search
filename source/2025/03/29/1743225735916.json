@@ -1,0 +1,410 @@
+{
+  "runTime": 1743225735916,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1412522,
+        "num": 1412522,
+        "word": "事业编",
+        "onboard_time": 1743221961,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1252935,
+        "num": 1252935,
+        "word": "哪吒2冲TOP4",
+        "onboard_time": 1743223401,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30590,
+        "num": 1162112,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1082176,
+        "num": 1082176,
+        "word": "缅甸地震致1002死2376伤",
+        "onboard_time": 1743224842,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1037902,
+        "num": 1037902,
+        "word": "乐事薯片被曝含致癌添加剂",
+        "onboard_time": 1743205938,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 2842871,
+        "num": 1018365,
+        "word": "面筋哥去世",
+        "onboard_time": 1743220402,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 704518,
+        "num": 704518,
+        "word": "李晟住过300元一个月的地下室",
+        "onboard_time": 1743223103,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 659089,
+        "num": 659089,
+        "word": "胖东来基层员工平均月薪9886元",
+        "onboard_time": 1743219860,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553147,
+        "num": 553147,
+        "word": "金明脸上毛细血管破裂",
+        "onboard_time": 1743222023,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463779,
+        "num": 463779,
+        "word": "王者荣耀补偿力度",
+        "onboard_time": 1743213500,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 788626,
+        "num": 457981,
+        "word": "门童成员发文",
+        "onboard_time": 1743203959,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 571172,
+        "num": 453789,
+        "word": "色狼拍空姐她拍色狼",
+        "onboard_time": 1743218239,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 447900,
+        "num": 447900,
+        "word": "王一博轮胎离地起飞",
+        "onboard_time": 1743222504,
+        "rank": 12,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 390739,
+        "num": 390739,
+        "word": "中国救援队赴缅实施国际救援",
+        "onboard_time": 1743223462,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31527,
+        "num": 359446,
+        "word": "律师解读INS新乐园烟头事件",
+        "onboard_time": 1743224602,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343586,
+        "num": 343586,
+        "word": "事业编 开除小王",
+        "onboard_time": 1743225203,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 320717,
+        "num": 320717,
+        "word": "清明五一档电影超20部",
+        "onboard_time": 1743219561,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129846,
+        "num": 285865,
+        "word": "面筋哥留给大家的祝福",
+        "onboard_time": 1743224723,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 167192,
+        "num": 274228,
+        "word": "李艺彤徒手接眼泪",
+        "onboard_time": 1743223583,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33158,
+        "num": 271643,
+        "word": "老人花4998给MCN想带货稳赚秒被骗",
+        "onboard_time": 1743224662,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 269593,
+        "num": 269593,
+        "word": "地震时护士用身体护住宝宝",
+        "onboard_time": 1743215421,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 254339,
+        "num": 254339,
+        "word": "美国网红甲亢哥没想到来真的",
+        "onboard_time": 1743205639,
+        "rank": 21,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 238479,
+        "num": 238479,
+        "word": "央妈发了6条王蓉",
+        "onboard_time": 1743175583,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212644,
+        "num": 212644,
+        "word": "职测",
+        "onboard_time": 1743224123,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211917,
+        "num": 211917,
+        "word": "金秀贤让高二的金赛纶别回家",
+        "onboard_time": 1743209360,
+        "rank": 24,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 204715,
+        "num": 204715,
+        "word": "王俊凯开口以为是鸡汤没想到是砒霜",
+        "onboard_time": 1743225023,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203422,
+        "num": 203422,
+        "word": "吴宣仪贴脸开唱祝绪丹进行曲",
+        "onboard_time": 1743225023,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202373,
+        "num": 202373,
+        "word": "王一博年度最佳救车",
+        "onboard_time": 1743214701,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 200616,
+        "num": 200616,
+        "word": "无限超越班开播",
+        "onboard_time": 1743221542,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196242,
+        "num": 196242,
+        "word": "庄语迟 假死",
+        "onboard_time": 1743207740,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189127,
+        "num": 189127,
+        "word": "专八",
+        "onboard_time": 1743218060,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162919,
+        "num": 162919,
+        "word": "北京高校老师把花粉过敏孩子送三亚",
+        "onboard_time": 1743218600,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160170,
+        "num": 160170,
+        "word": "光与夜之恋 齐司礼",
+        "onboard_time": 1743224001,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159283,
+        "num": 159283,
+        "word": "胖东来店长平均月薪78058元",
+        "onboard_time": 1743225382,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158888,
+        "num": 158888,
+        "word": "海南航空回应空姐被乘客偷拍",
+        "onboard_time": 1743223763,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156150,
+        "num": 156150,
+        "word": "厦门曙光救援队驰援缅甸震区",
+        "onboard_time": 1743222383,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155437,
+        "num": 155437,
+        "word": "缅甸一大楼倒塌4楼以下全被埋",
+        "onboard_time": 1743218481,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 154448,
+        "num": 154448,
+        "word": "门童曼谷场取消",
+        "onboard_time": 1743156621,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140123,
+        "num": 140123,
+        "word": "河北一公交公司取消老年人免费乘车",
+        "onboard_time": 1743222264,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139752,
+        "num": 139752,
+        "word": "我和英专离婚了",
+        "onboard_time": 1743220102,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136603,
+        "num": 136603,
+        "word": "2岁男童吃奶酪棒卡喉身亡",
+        "onboard_time": 1743206720,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133864,
+        "num": 133864,
+        "word": "减脂人有自己的替身文学",
+        "onboard_time": 1743223822,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 130862,
+        "num": 130862,
+        "word": "盒猫赚走所有人的眼泪",
+        "onboard_time": 1743224723,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130024,
+        "num": 130024,
+        "word": "重返未来1999",
+        "onboard_time": 1743224543,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114984,
+        "num": 114984,
+        "word": "伊能静想知道孟子义李昀锐在一起了没",
+        "onboard_time": 1743211461,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111030,
+        "num": 111030,
+        "word": "林生斌请求依法追究宋祖德刑责",
+        "onboard_time": 1743210201,
+        "rank": 45,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 108527,
+        "num": 108527,
+        "word": "光与夜之恋",
+        "onboard_time": 1743221961,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107833,
+        "num": 107833,
+        "word": "男子吃烧烤签子投反扎进好友大腿",
+        "onboard_time": 1743216621,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106571,
+        "num": 106571,
+        "word": "胖东来店长年收入近百万",
+        "onboard_time": 1743225622,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102383,
+        "num": 102383,
+        "word": "医生说少吃水果能少生很多病",
+        "onboard_time": 1743169227,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#与中国同行就是与机遇同行#"
+    }
+  }
+}
