@@ -1,21 +1,21 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743265742444,
+  "endTime": 1743266653716,
   "band_list": [
+    {
+      "raw_hot": 1925246,
+      "num": 333055,
+      "word": "谢婉婷",
+      "onboard_time": 1743262883,
+      "rank": 10,
+      "category": "演出"
+    },
     {
       "raw_hot": 1888650,
       "num": 244244,
       "word": "bnd粉丝去世",
       "onboard_time": 1743235701,
       "rank": 20,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 1592334,
-      "num": 333055,
-      "word": "谢婉婷",
-      "onboard_time": 1743262883,
-      "rank": 10,
       "category": "演出"
     },
     {
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 481378,
-      "num": 377857,
+      "num": 436014,
       "word": "安静公主长了一个肿瘤",
       "onboard_time": 1743258084,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 462020,
+      "num": 324912,
+      "word": "门童多位粉丝失联",
+      "onboard_time": 1743251304,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 443398,
@@ -75,8 +83,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 379020,
-      "num": 379020,
+      "raw_hot": 396224,
+      "num": 396224,
       "word": "云南4.4级地震初步分析为缅甸地震触发",
       "onboard_time": 1743262702,
       "rank": 5,
@@ -89,14 +97,6 @@
       "onboard_time": 1743246564,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 356808,
-      "num": 324912,
-      "word": "门童多位粉丝失联",
-      "onboard_time": 1743251304,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 354782,
@@ -113,6 +113,14 @@
       "onboard_time": 1743255443,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 318415,
+      "num": 318415,
+      "word": "爸爸没事就对女儿装的监控喊两句",
+      "onboard_time": 1743262941,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317680,
@@ -145,14 +153,6 @@
       "onboard_time": 1743262162,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245657,
-      "num": 245657,
-      "word": "爸爸没事就对女儿装的监控喊两句",
-      "onboard_time": 1743262941,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228684,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113630,
+      "num": 320643,
+      "word": "祝福中国救援队平安归来",
+      "onboard_time": 1743245362,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 111757,
       "num": 111757,
       "word": "王一博亚军",
@@ -283,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106694,
+      "num": 106694,
+      "word": "中国救援队抵达缅甸",
+      "onboard_time": 1743244582,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 103780,
       "num": 103780,
       "word": "缅甸地震云南多地受影响",
@@ -296,14 +312,6 @@
       "word": "曼谷中国女孩讲述25楼逃生经历",
       "onboard_time": 1743261324,
       "rank": 38,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 101609,
-      "num": 101609,
-      "word": "中国救援队抵达缅甸",
-      "onboard_time": 1743244582,
-      "rank": 39,
       "category": "突发/灾害"
     },
     {
@@ -339,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88331,
+      "num": 88331,
+      "word": "缅甸强震已致曼谷13人死亡",
+      "onboard_time": 1743265401,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 87905,
       "num": 87905,
       "word": "虞书欣嘘国王在冬眠收官发文",
@@ -363,12 +379,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80802,
-      "num": 80802,
+      "raw_hot": 84347,
+      "num": 84347,
       "word": "能不能加rap周杰伦还不知道吗",
       "onboard_time": 1743255864,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81349,
+      "num": 81349,
+      "word": "虞书欣校园枝惊喜返场",
+      "onboard_time": 1743266420,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 79904,
@@ -395,11 +419,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57245,
-      "num": 320643,
-      "word": "祝福中国救援队平安归来",
-      "onboard_time": 1743245362,
-      "rank": 14,
+      "raw_hot": 75467,
+      "num": 76284,
+      "word": "林一发长文告别国王",
+      "onboard_time": 1743256823,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 68322,
+      "num": 76282,
+      "word": "华人称地震当日缅甸放假救了很多人",
+      "onboard_time": 1743266599,
+      "rank": 49,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 36343,
+      "num": 243706,
+      "word": "官方通报云南会泽4.4级地震",
+      "onboard_time": 1743265282,
+      "rank": 16,
       "category": "突发/灾害"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743265742444,
+  "endTime": 1743266653716,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1611,6 +1611,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1925246,
+      "num": 333055,
+      "word": "谢婉婷",
+      "onboard_time": 1743262883,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1925151,
       "num": 1362939,
       "word": "何凯文 周思成",
@@ -2569,14 +2577,6 @@
       "onboard_time": 1743120621,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1592334,
-      "num": 333055,
-      "word": "谢婉婷",
-      "onboard_time": 1743262883,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 1591428,
@@ -16595,6 +16595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 462020,
+      "num": 324912,
+      "word": "门童多位粉丝失联",
+      "onboard_time": 1743251304,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461885,
       "num": 461885,
       "word": "谷爱凌锁骨受伤",
@@ -19347,6 +19355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396224,
+      "num": 396224,
+      "word": "云南4.4级地震初步分析为缅甸地震触发",
+      "onboard_time": 1743262702,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 395747,
       "num": 446205,
       "word": "浪姐6二公结果",
@@ -20209,14 +20225,6 @@
       "onboard_time": 1742459543,
       "rank": 32,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 379020,
-      "num": 379020,
-      "word": "云南4.4级地震初步分析为缅甸地震触发",
-      "onboard_time": 1743262702,
-      "rank": 5,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 378890,
@@ -21457,14 +21465,6 @@
       "onboard_time": 1742029044,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 356808,
-      "num": 324912,
-      "word": "门童多位粉丝失联",
-      "onboard_time": 1743251304,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 356793,
@@ -23833,6 +23833,14 @@
       "onboard_time": 1740968479,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318415,
+      "num": 318415,
+      "word": "爸爸没事就对女儿装的监控喊两句",
+      "onboard_time": 1743262941,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318410,
@@ -29832,14 +29840,6 @@
       "word": "晒工资条能泄漏什么核心机密呢",
       "onboard_time": 1742998283,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245657,
-      "num": 245657,
-      "word": "爸爸没事就对女儿装的监控喊两句",
-      "onboard_time": 1743262941,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -75339,6 +75339,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 88331,
+      "num": 88331,
+      "word": "缅甸强震已致曼谷13人死亡",
+      "onboard_time": 1743265401,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 88325,
       "num": 250481,
       "word": "拔智齿有多疼来个人形容下",
@@ -76905,6 +76913,14 @@
       "onboard_time": 1740962000,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81349,
+      "num": 81349,
+      "word": "虞书欣校园枝惊喜返场",
+      "onboard_time": 1743266420,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 81281,
@@ -79489,6 +79505,14 @@
       "onboard_time": 1741238299,
       "rank": 20,
       "category": "国内时政,健康医疗"
+    },
+    {
+      "raw_hot": 68322,
+      "num": 76282,
+      "word": "华人称地震当日缅甸放假救了很多人",
+      "onboard_time": 1743266599,
+      "rank": 49,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 68265,
@@ -87481,6 +87505,14 @@
       "onboard_time": 1741597522,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36343,
+      "num": 243706,
+      "word": "官方通报云南会泽4.4级地震",
+      "onboard_time": 1743265282,
+      "rank": 16,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 36340,
