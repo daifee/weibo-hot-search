@@ -1,0 +1,410 @@
+{
+  "runTime": 1743241025993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1139357,
+        "num": 1182297,
+        "word": "中国政府决定向缅甸提供1亿元",
+        "onboard_time": 1743231862,
+        "rank": 0,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 770508,
+        "num": 770508,
+        "word": "事业编 开除小王",
+        "onboard_time": 1743225203,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 5008,
+        "num": 693833,
+        "word": "当AI遇上广西三月三",
+        "onboard_time": 1743171326,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 666007,
+        "num": 666007,
+        "word": "韩国扑救山火消防员的盒饭",
+        "onboard_time": 1743237682,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 613136,
+        "num": 613136,
+        "word": "缅甸地震致1002死2376伤",
+        "onboard_time": 1743224842,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 555982,
+        "num": 555982,
+        "word": "面筋哥去世",
+        "onboard_time": 1743220402,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 541626,
+        "num": 541626,
+        "word": "乐事薯片被曝含致癌添加剂",
+        "onboard_time": 1743205938,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 535068,
+        "num": 535068,
+        "word": "玫瑰 我想一个人生活",
+        "onboard_time": 1743237983,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 518474,
+        "num": 518474,
+        "word": "缅甸地震云南多地受影响",
+        "onboard_time": 1743239301,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 510729,
+        "num": 510729,
+        "word": "女子游泳被教练偷拍发网上宣传",
+        "onboard_time": 1743239601,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3129168,
+        "num": 503693,
+        "word": "bnd粉丝去世",
+        "onboard_time": 1743235701,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1964167,
+        "num": 489002,
+        "word": "戚薇二胎产子画面",
+        "onboard_time": 1743239362,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473864,
+        "num": 473864,
+        "word": "胖东来店长平均月薪78058元",
+        "onboard_time": 1743225382,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473601,
+        "num": 473601,
+        "word": "叶童三公 跳楼机",
+        "onboard_time": 1743230602,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352489,
+        "num": 352489,
+        "word": "门童成员发文",
+        "onboard_time": 1743203959,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 344037,
+        "num": 344037,
+        "word": "彭小苒房琪起争执",
+        "onboard_time": 1743230481,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334728,
+        "num": 334728,
+        "word": "郑雅贤开球",
+        "onboard_time": 1743239301,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304633,
+        "num": 304633,
+        "word": "王一博亚军",
+        "onboard_time": 1743240441,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 284039,
+        "num": 284039,
+        "word": "哪吒2冲TOP4",
+        "onboard_time": 1743223401,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74150,
+        "num": 271585,
+        "word": "中国游客讲述地震后从曼谷回国经历",
+        "onboard_time": 1743239661,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 323838,
+        "num": 267118,
+        "word": "上过班的才知道那种根本不现实",
+        "onboard_time": 1743236542,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321728,
+        "num": 266043,
+        "word": "荷兰警方发现中国留学生罗生门遗体",
+        "onboard_time": 1743226281,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 262326,
+        "num": 262326,
+        "word": "彭小苒 没拍戏",
+        "onboard_time": 1743231382,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205341,
+        "num": 205341,
+        "word": "王一博轮胎离地起飞",
+        "onboard_time": 1743222504,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 194997,
+        "num": 194997,
+        "word": "章昊你好星期六",
+        "onboard_time": 1743240262,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185170,
+        "num": 185170,
+        "word": "权志龙彩排",
+        "onboard_time": 1743239301,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179306,
+        "num": 179306,
+        "word": "毛子一家生活点滴",
+        "onboard_time": 1743239002,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176018,
+        "num": 176018,
+        "word": "童瑶新剧三天没吃一口饭",
+        "onboard_time": 1743240379,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167290,
+        "num": 167290,
+        "word": "2岁女孩走失38年已成残疾单身妈妈",
+        "onboard_time": 1743227721,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161024,
+        "num": 161024,
+        "word": "胖东来基层员工平均月薪9886元",
+        "onboard_time": 1743219860,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146934,
+        "num": 146934,
+        "word": "Real原导演发声",
+        "onboard_time": 1743232400,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140508,
+        "num": 140508,
+        "word": "事业编",
+        "onboard_time": 1743221961,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95014,
+        "num": 139950,
+        "word": "地震时老师为守护学生最后离开",
+        "onboard_time": 1743240802,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139567,
+        "num": 139567,
+        "word": "刘耀文腹肌",
+        "onboard_time": 1743227841,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16486,
+        "num": 135010,
+        "word": "Gucci史上第一个爆款包包",
+        "onboard_time": 1743240501,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 131164,
+        "num": 131164,
+        "word": "IU朴宝剑新剧豆瓣涨至9.5分",
+        "onboard_time": 1743232882,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128321,
+        "num": 128321,
+        "word": "中国救援队赴缅实施国际救援",
+        "onboard_time": 1743223462,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128186,
+        "num": 128186,
+        "word": "男子长期被妻子责骂偷住邻居家被抓",
+        "onboard_time": 1743226882,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124843,
+        "num": 124843,
+        "word": "念无双",
+        "onboard_time": 1743240862,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120690,
+        "num": 120690,
+        "word": "北京大风天也人人人人挤人人人人",
+        "onboard_time": 1743236542,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28102,
+        "num": 120570,
+        "word": "潘展乐穿上三条纹",
+        "onboard_time": 1743236362,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120501,
+        "num": 120501,
+        "word": "色狼拍空姐她拍色狼",
+        "onboard_time": 1743218239,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 117497,
+        "num": 117497,
+        "word": "中式教育终于在此刻走出闭环",
+        "onboard_time": 1743234681,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116538,
+        "num": 116538,
+        "word": "珊瑚海 rap",
+        "onboard_time": 1743237381,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116148,
+        "num": 116148,
+        "word": "吴宣仪你的兵来了",
+        "onboard_time": 1743239422,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110514,
+        "num": 110514,
+        "word": "演唱会天价门票都被谁买走了",
+        "onboard_time": 1743235880,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107383,
+        "num": 107383,
+        "word": "大胆去见你想见的人",
+        "onboard_time": 1743239061,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106619,
+        "num": 106619,
+        "word": "缅甸华人说废墟下有很多求救声",
+        "onboard_time": 1743234381,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 105451,
+        "num": 105451,
+        "word": "甲亢哥开通微博",
+        "onboard_time": 1743240983,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 102602,
+        "num": 102602,
+        "word": "张本智和无缘男单八强",
+        "onboard_time": 1743233842,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#与中国同行就是与机遇同行#"
+    }
+  }
+}

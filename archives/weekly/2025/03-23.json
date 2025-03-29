@@ -1,6 +1,6 @@
 {
   "startTime": 1742660821372,
-  "endTime": 1743240250484,
+  "endTime": 1743241025993,
   "band_list": [
     {
       "raw_hot": 18900626,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 4621424,
-      "num": 459315,
+      "num": 503693,
       "word": "bnd粉丝去世",
       "onboard_time": 1743235701,
       "rank": 10,
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1964167,
+      "num": 489002,
+      "word": "戚薇二胎产子画面",
+      "onboard_time": 1743239362,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1959099,
       "num": 1959099,
       "word": "事业编 开除小王",
@@ -393,14 +401,6 @@
       "onboard_time": 1743224842,
       "rank": 3,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1806189,
-      "num": 419515,
-      "word": "戚薇二胎产子画面",
-      "onboard_time": 1743239362,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1804485,
@@ -2283,6 +2283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 666007,
+      "num": 666007,
+      "word": "韩国扑救山火消防员的盒饭",
+      "onboard_time": 1743237682,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 660498,
       "num": 759082,
       "word": "上海对边走边抽烟的游烟族出手了",
@@ -3115,6 +3123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 518474,
+      "num": 518474,
+      "word": "缅甸地震云南多地受影响",
+      "onboard_time": 1743239301,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 518193,
       "num": 518193,
       "word": "湖南卫视重映新还珠格格",
@@ -3177,6 +3193,14 @@
       "onboard_time": 1742734584,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 510729,
+      "num": 510729,
+      "word": "女子游泳被教练偷拍发网上宣传",
+      "onboard_time": 1743239601,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 510232,
@@ -4443,14 +4467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 382821,
-      "num": 382821,
-      "word": "韩国扑救山火消防员的盒饭",
-      "onboard_time": 1743237682,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 381630,
       "num": 381630,
       "word": "王蓉后空翻被剪",
@@ -5091,12 +5107,12 @@
       "category": "民生新闻,民生新闻"
     },
     {
-      "raw_hot": 333053,
-      "num": 468817,
-      "word": "缅甸地震云南多地受影响",
+      "raw_hot": 334728,
+      "num": 334728,
+      "word": "郑雅贤开球",
       "onboard_time": 1743239301,
-      "rank": 9,
-      "category": "突发/灾害"
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 332326,
@@ -5577,6 +5593,14 @@
       "onboard_time": 1742689218,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 304633,
+      "num": 304633,
+      "word": "王一博亚军",
+      "onboard_time": 1743240441,
+      "rank": 17,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 303785,
@@ -8731,14 +8755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199178,
-      "num": 199178,
-      "word": "郑雅贤开球",
-      "onboard_time": 1743239301,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199099,
       "num": 199099,
       "word": "曼谷一起重机受震下坠砸中高速路",
@@ -9009,6 +9025,14 @@
       "onboard_time": 1742729361,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 194997,
+      "num": 194997,
+      "word": "章昊你好星期六",
+      "onboard_time": 1743240262,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 194921,
@@ -10091,6 +10115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179306,
+      "num": 179306,
+      "word": "毛子一家生活点滴",
+      "onboard_time": 1743239002,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 179148,
       "num": 271448,
       "word": "国足六主力缺席",
@@ -10233,6 +10265,14 @@
       "onboard_time": 1743136401,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176018,
+      "num": 176018,
+      "word": "童瑶新剧三天没吃一口饭",
+      "onboard_time": 1743240379,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 176013,
@@ -11137,14 +11177,6 @@
       "onboard_time": 1742896520,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161835,
-      "num": 161835,
-      "word": "毛子一家生活点滴",
-      "onboard_time": 1743239002,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 161619,
@@ -15451,6 +15483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116538,
+      "num": 116538,
+      "word": "珊瑚海 rap",
+      "onboard_time": 1743237381,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116436,
       "num": 116436,
       "word": "阿根廷晋级2026世界杯",
@@ -16467,6 +16507,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 107383,
+      "num": 107383,
+      "word": "大胆去见你想见的人",
+      "onboard_time": 1743239061,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107380,
       "num": 459739,
       "word": "300万扶贫款当诱饵骗6旬大爷洗钱",
@@ -16667,14 +16715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 105917,
-      "num": 105917,
-      "word": "珊瑚海 rap",
-      "onboard_time": 1743237381,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105821,
       "num": 105821,
       "word": "如何用Deepseek自动生成PPT",
@@ -16729,6 +16769,14 @@
       "onboard_time": 1743057142,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 105451,
+      "num": 105451,
+      "word": "甲亢哥开通微博",
+      "onboard_time": 1743240983,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 105087,
@@ -17600,6 +17648,14 @@
       "word": "小女孩弄倒潮玩店门口摆件赔2600元",
       "onboard_time": 1742929395,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95014,
+      "num": 139950,
+      "word": "地震时老师为守护学生最后离开",
+      "onboard_time": 1743240802,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -18649,6 +18705,14 @@
       "onboard_time": 1742912723,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74150,
+      "num": 271585,
+      "word": "中国游客讲述地震后从曼谷回国经历",
+      "onboard_time": 1743239661,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 73661,
@@ -21083,14 +21147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34989,
-      "num": 385685,
-      "word": "女子游泳被教练偷拍发网上宣传",
-      "onboard_time": 1743239601,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34940,
       "num": 176356,
       "word": "男童被打死案起诉书披露殴打经过",
@@ -22235,14 +22291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19959,
-      "num": 268553,
-      "word": "中国游客讲述地震后从曼谷回国经历",
-      "onboard_time": 1743239661,
-      "rank": 19,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 19517,
       "num": 24066,
       "word": "邓佳鑫弹唱明明就",
@@ -22473,6 +22521,14 @@
       "onboard_time": 1743031700,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 16486,
+      "num": 135010,
+      "word": "Gucci史上第一个爆款包包",
+      "onboard_time": 1743240501,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 16244,
@@ -23019,7 +23075,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 3625,
+      "raw_hot": 5008,
       "num": 748589,
       "word": "当AI遇上广西三月三",
       "onboard_time": 1743171326,

@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743240250484,
+  "endTime": 1743241025993,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 4621424,
-      "num": 459315,
+      "num": 503693,
       "word": "bnd粉丝去世",
       "onboard_time": 1743235701,
       "rank": 10,
@@ -1555,6 +1555,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1964167,
+      "num": 489002,
+      "word": "戚薇二胎产子画面",
+      "onboard_time": 1743239362,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1962100,
       "num": 1962100,
       "word": "温以凡 许沁",
@@ -1921,14 +1929,6 @@
       "onboard_time": 1742269524,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1806189,
-      "num": 419515,
-      "word": "戚薇二胎产子画面",
-      "onboard_time": 1743239362,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1804485,
@@ -10747,6 +10747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666007,
+      "num": 666007,
+      "word": "韩国扑救山火消防员的盒饭",
+      "onboard_time": 1743237682,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 665796,
       "num": 665796,
       "word": "男子拿100克金钞以690元1克变现",
@@ -14443,6 +14451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 518474,
+      "num": 518474,
+      "word": "缅甸地震云南多地受影响",
+      "onboard_time": 1743239301,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 518193,
       "num": 518193,
       "word": "湖南卫视重映新还珠格格",
@@ -14609,6 +14625,14 @@
       "onboard_time": 1740798678,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 510729,
+      "num": 510729,
+      "word": "女子游泳被教练偷拍发网上宣传",
+      "onboard_time": 1743239601,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 510699,
@@ -19683,14 +19707,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 382821,
-      "num": 382821,
-      "word": "韩国扑救山火消防员的盒饭",
-      "onboard_time": 1743237682,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 382787,
       "num": 384313,
       "word": "今年是台湾光复80周年",
@@ -22435,6 +22451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 334728,
+      "num": 334728,
+      "word": "郑雅贤开球",
+      "onboard_time": 1743239301,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 334702,
       "num": 264342,
       "word": "蒋敦豪说参加恋综已做了充足准备",
@@ -22505,14 +22529,6 @@
       "onboard_time": 1741134859,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 333053,
-      "num": 468817,
-      "word": "缅甸地震云南多地受影响",
-      "onboard_time": 1743239301,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 332844,
@@ -24329,6 +24345,14 @@
       "onboard_time": 1741917861,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 304633,
+      "num": 304633,
+      "word": "王一博亚军",
+      "onboard_time": 1743240441,
+      "rank": 17,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 304591,
@@ -37571,14 +37595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199178,
-      "num": 199178,
-      "word": "郑雅贤开球",
-      "onboard_time": 1743239301,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199111,
       "num": 199111,
       "word": "也门遭袭已致13死",
@@ -38705,6 +38721,14 @@
       "onboard_time": 1741874543,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 194997,
+      "num": 194997,
+      "word": "章昊你好星期六",
+      "onboard_time": 1743240262,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 194995,
@@ -43091,6 +43115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179306,
+      "num": 179306,
+      "word": "毛子一家生活点滴",
+      "onboard_time": 1743239002,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 179295,
       "num": 323964,
       "word": "蜜雪冰城员工称不敢喝自家柠檬水",
@@ -43881,6 +43913,14 @@
       "onboard_time": 1741170858,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176018,
+      "num": 176018,
+      "word": "童瑶新剧三天没吃一口饭",
+      "onboard_time": 1743240379,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 176015,
@@ -48065,14 +48105,6 @@
       "onboard_time": 1742896520,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161835,
-      "num": 161835,
-      "word": "毛子一家生活点滴",
-      "onboard_time": 1743239002,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 161808,
@@ -64883,6 +64915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116538,
+      "num": 116538,
+      "word": "珊瑚海 rap",
+      "onboard_time": 1743237381,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116436,
       "num": 116436,
       "word": "阿根廷晋级2026世界杯",
@@ -68323,6 +68363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107383,
+      "num": 107383,
+      "word": "大胆去见你想见的人",
+      "onboard_time": 1743239061,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107382,
       "num": 175074,
       "word": "林志玲扛住了外媒镜头",
@@ -68931,14 +68979,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 105917,
-      "num": 105917,
-      "word": "珊瑚海 rap",
-      "onboard_time": 1743237381,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105904,
       "num": 105904,
       "word": "育儿补贴会有直接惠民措施",
@@ -69105,6 +69145,14 @@
       "onboard_time": 1743057142,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 105451,
+      "num": 105451,
+      "word": "甲亢哥开通微博",
+      "onboard_time": 1743240983,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 105444,
@@ -72545,6 +72593,14 @@
       "onboard_time": 1741157719,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 95014,
+      "num": 139950,
+      "word": "地震时老师为守护学生最后离开",
+      "onboard_time": 1743240802,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94988,
@@ -77145,6 +77201,14 @@
       "onboard_time": 1741831823,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74150,
+      "num": 271585,
+      "word": "中国游客讲述地震后从曼谷回国经历",
+      "onboard_time": 1743239661,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 74125,
@@ -86699,14 +86763,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 34989,
-      "num": 385685,
-      "word": "女子游泳被教练偷拍发网上宣传",
-      "onboard_time": 1743239601,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34988,
       "num": 35186,
       "word": "获客",
@@ -91331,14 +91387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19959,
-      "num": 268553,
-      "word": "中国游客讲述地震后从曼谷回国经历",
-      "onboard_time": 1743239661,
-      "rank": 19,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 19942,
       "num": 355242,
       "word": "亲友回忆因救人溺亡的19岁女孩",
@@ -92401,6 +92449,14 @@
       "onboard_time": 1743031700,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 16486,
+      "num": 135010,
+      "word": "Gucci史上第一个爆款包包",
+      "onboard_time": 1743240501,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 16476,
@@ -94411,7 +94467,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3625,
+      "raw_hot": 5008,
       "num": 748589,
       "word": "当AI遇上广西三月三",
       "onboard_time": 1743171326,
