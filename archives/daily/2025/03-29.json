@@ -1,10 +1,10 @@
 {
   "startTime": 1743179405663,
-  "endTime": 1743247188631,
+  "endTime": 1743248171957,
   "band_list": [
     {
       "raw_hot": 4621424,
-      "num": 503693,
+      "num": 553169,
       "word": "bnd粉丝去世",
       "onboard_time": 1743235701,
       "rank": 10,
@@ -25,6 +25,14 @@
       "onboard_time": 1743231862,
       "rank": 8,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 2037122,
+      "num": 493536,
+      "word": "芒果剪掉赵露思争议片段",
+      "onboard_time": 1743247223,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 2017591,
@@ -171,12 +179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1032432,
+      "num": 1032432,
+      "word": "世界上最大的宫殿在地震中坍塌",
+      "onboard_time": 1743242482,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1014095,
       "num": 1014095,
       "word": "叶童三公 跳楼机",
       "onboard_time": 1743230602,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 996406,
+      "num": 996406,
+      "word": "李国祥去世",
+      "onboard_time": 1743244882,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 989134,
@@ -187,28 +211,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 983523,
-      "num": 859173,
-      "word": "李国祥去世",
-      "onboard_time": 1743244882,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 973502,
       "num": 973502,
       "word": "央妈发了6条王蓉",
       "onboard_time": 1743175583,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 957611,
-      "num": 957611,
-      "word": "世界上最大的宫殿在地震中坍塌",
-      "onboard_time": 1743242482,
-      "rank": 5,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 930862,
@@ -235,12 +243,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 892938,
+      "raw_hot": 922109,
       "num": 434987,
       "word": "彭昱畅怎么帅成这样了",
       "onboard_time": 1743243981,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 897425,
+      "num": 897425,
+      "word": "曲靖4.4级地震",
+      "onboard_time": 1743246564,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 791110,
@@ -363,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 577919,
+      "num": 577919,
+      "word": "权志龙演唱会",
+      "onboard_time": 1743244823,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 553147,
       "num": 553147,
       "word": "金明脸上毛细血管破裂",
@@ -451,14 +475,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 431425,
-      "num": 431425,
-      "word": "权志龙演唱会",
-      "onboard_time": 1743244823,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 424710,
       "num": 424710,
       "word": "雪莉拍完real去了精神科",
@@ -489,6 +505,14 @@
       "onboard_time": 1743241523,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 394669,
+      "num": 394669,
+      "word": "王珞丹把李晟往前推",
+      "onboard_time": 1743246624,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 392875,
@@ -979,14 +1003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197172,
-      "num": 265865,
-      "word": "王珞丹把李晟往前推",
-      "onboard_time": 1743246624,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194997,
       "num": 194997,
       "word": "章昊你好星期六",
@@ -1139,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177140,
+      "num": 177140,
+      "word": "TES战胜NIP",
+      "onboard_time": 1743246742,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176966,
       "num": 380983,
       "word": "地震时老师冷静指挥学生撤离",
@@ -1177,14 +1201,6 @@
       "onboard_time": 1743210800,
       "rank": 26,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 174792,
-      "num": 174792,
-      "word": "TES战胜NIP",
-      "onboard_time": 1743246742,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 173990,
@@ -1233,14 +1249,6 @@
       "onboard_time": 1743148526,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168397,
-      "num": 450117,
-      "word": "曲靖4.4级地震",
-      "onboard_time": 1743246564,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 168393,
@@ -1531,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148096,
+      "num": 148096,
+      "word": "高层住宅为什么不好卖了",
+      "onboard_time": 1743245603,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146772,
       "num": 146772,
       "word": "侯佩岑宝娟我的嗓子",
@@ -1641,6 +1657,14 @@
       "onboard_time": 1743242602,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137002,
+      "num": 137002,
+      "word": "地震致泰国曼谷10死101人失联",
+      "onboard_time": 1743245003,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 135887,
@@ -1795,6 +1819,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 127328,
+      "num": 341481,
+      "word": "分不清徐冬冬尹子维谁是大佬",
+      "onboard_time": 1743247523,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127089,
       "num": 127089,
       "word": "美食时间",
@@ -1809,6 +1841,14 @@
       "onboard_time": 1743234022,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126753,
+      "num": 126753,
+      "word": "缅甸首都内比都发生5.1级地震",
+      "onboard_time": 1743245723,
+      "rank": 43,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 126745,
@@ -1865,14 +1905,6 @@
       "onboard_time": 1743219379,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122005,
-      "num": 122005,
-      "word": "高层住宅为什么不好卖了",
-      "onboard_time": 1743245603,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121623,
@@ -2307,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88760,
+      "num": 108105,
+      "word": "斗破苍穹",
+      "onboard_time": 1743247703,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 87461,
       "num": 87461,
       "word": "直击缅甸地震",
@@ -2409,6 +2449,14 @@
       "onboard_time": 1743150566,
       "rank": 39,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 65848,
+      "num": 149146,
+      "word": "红旗新代言人难道是她",
+      "onboard_time": 1743247583,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 65526,
@@ -2659,6 +2707,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32854,
+      "num": 298904,
+      "word": "加沙战火为何反复",
+      "onboard_time": 1743246202,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 28332,
+      "num": 399757,
+      "word": "捐书北大教授还将捐出部分手稿",
+      "onboard_time": 1743246142,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27721,
       "num": 65877,
       "word": "一个镜头记录云南居民避震瞬间",
@@ -2673,14 +2737,6 @@
       "onboard_time": 1743218301,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27410,
-      "num": 298904,
-      "word": "加沙战火为何反复",
-      "onboard_time": 1743246202,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 26415,
@@ -2700,18 +2756,10 @@
     },
     {
       "raw_hot": 25988,
-      "num": 871783,
+      "num": 998584,
       "word": "当AI遇上广西三月三",
       "onboard_time": 1743171326,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25603,
-      "num": 399757,
-      "word": "捐书北大教授还将捐出部分手稿",
-      "onboard_time": 1743246142,
-      "rank": 14,
       "category": "民生新闻"
     },
     {

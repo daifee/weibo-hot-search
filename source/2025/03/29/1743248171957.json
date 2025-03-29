@@ -1,0 +1,410 @@
+{
+  "runTime": 1743248171957,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1305476,
+        "num": 1305476,
+        "word": "王一博亚军",
+        "onboard_time": 1743240441,
+        "rank": 0,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1032432,
+        "num": 1032432,
+        "word": "世界上最大的宫殿在地震中坍塌",
+        "onboard_time": 1743242482,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 19626,
+        "num": 998584,
+        "word": "当AI遇上广西三月三",
+        "onboard_time": 1743171326,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 996406,
+        "num": 996406,
+        "word": "李国祥去世",
+        "onboard_time": 1743244882,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 897425,
+        "num": 897425,
+        "word": "曲靖4.4级地震",
+        "onboard_time": 1743246564,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 720757,
+        "num": 720757,
+        "word": "韩国扑救山火消防员的盒饭",
+        "onboard_time": 1743237682,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 605968,
+        "num": 605968,
+        "word": "中国政府决定向缅甸提供1亿元",
+        "onboard_time": 1743231862,
+        "rank": 6,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 577919,
+        "num": 577919,
+        "word": "权志龙演唱会",
+        "onboard_time": 1743244823,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 557829,
+        "num": 557829,
+        "word": "中国救援队抵达缅甸",
+        "onboard_time": 1743244582,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 554196,
+        "num": 554196,
+        "word": "缅甸地震致1002死2376伤",
+        "onboard_time": 1743224842,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2492213,
+        "num": 553169,
+        "word": "bnd粉丝去世",
+        "onboard_time": 1743235701,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2037122,
+        "num": 493536,
+        "word": "芒果剪掉赵露思争议片段",
+        "onboard_time": 1743247223,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 995122,
+        "num": 458206,
+        "word": "戚薇二胎产子画面",
+        "onboard_time": 1743239362,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 922109,
+        "num": 419869,
+        "word": "彭昱畅怎么帅成这样了",
+        "onboard_time": 1743243981,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408094,
+        "num": 408094,
+        "word": "事业编 开除小王",
+        "onboard_time": 1743225203,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 394669,
+        "num": 394669,
+        "word": "王珞丹把李晟往前推",
+        "onboard_time": 1743246624,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392785,
+        "num": 392785,
+        "word": "她甚至动了我都还以为是洋娃娃",
+        "onboard_time": 1743241523,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348293,
+        "num": 348293,
+        "word": "雁回时",
+        "onboard_time": 1743242423,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346180,
+        "num": 346180,
+        "word": "胖东来店长平均月薪78058元",
+        "onboard_time": 1743225382,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127328,
+        "num": 341481,
+        "word": "分不清徐冬冬尹子维谁是大佬",
+        "onboard_time": 1743247523,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337115,
+        "num": 337115,
+        "word": "叶童三公 跳楼机",
+        "onboard_time": 1743230602,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260608,
+        "num": 260608,
+        "word": "武汉一幼儿园上课70%时间在巡山",
+        "onboard_time": 1743243381,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251347,
+        "num": 251347,
+        "word": "缅甸地震云南多地受影响",
+        "onboard_time": 1743239301,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 28332,
+        "num": 237740,
+        "word": "捐书北大教授还将捐出部分手稿",
+        "onboard_time": 1743246142,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233781,
+        "num": 233781,
+        "word": "曼谷中国超市免费提供矿泉水等物资",
+        "onboard_time": 1743245544,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 233009,
+        "num": 233009,
+        "word": "胖东来要投资70亿开梦之城",
+        "onboard_time": 1743241582,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221026,
+        "num": 221026,
+        "word": "面筋哥去世",
+        "onboard_time": 1743220402,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 217912,
+        "num": 217912,
+        "word": "乐事薯片被曝含致癌添加剂",
+        "onboard_time": 1743205938,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 217529,
+        "num": 217529,
+        "word": "女子游泳被教练偷拍发网上宣传",
+        "onboard_time": 1743239601,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172347,
+        "num": 209749,
+        "word": "彭小苒房琪起争执",
+        "onboard_time": 1743230481,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209000,
+        "num": 209000,
+        "word": "缅甸政府向国际求援",
+        "onboard_time": 1743243381,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 202440,
+        "num": 202440,
+        "word": "祝福中国救援队平安归来",
+        "onboard_time": 1743245362,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 177140,
+        "num": 177140,
+        "word": "TES战胜NIP",
+        "onboard_time": 1743246742,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32854,
+        "num": 165073,
+        "word": "加沙战火为何反复",
+        "onboard_time": 1743246202,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156264,
+        "num": 156264,
+        "word": "门童成员发文",
+        "onboard_time": 1743203959,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156247,
+        "num": 156247,
+        "word": "日知名综艺恶意剪辑中国人爱吃乌鸦",
+        "onboard_time": 1743246383,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153219,
+        "num": 153219,
+        "word": "泰国一公寓天桥因强震断裂",
+        "onboard_time": 1743242482,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 65848,
+        "num": 149146,
+        "word": "红旗新代言人难道是她",
+        "onboard_time": 1743247583,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148096,
+        "num": 148096,
+        "word": "高层住宅为什么不好卖了",
+        "onboard_time": 1743245603,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142919,
+        "num": 142919,
+        "word": "王智不愧是参加过浪姐的人",
+        "onboard_time": 1743246443,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137002,
+        "num": 137002,
+        "word": "地震致泰国曼谷10死101人失联",
+        "onboard_time": 1743245003,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 136269,
+        "num": 136269,
+        "word": "原来我早就认识蒋一侨",
+        "onboard_time": 1743246443,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131790,
+        "num": 131790,
+        "word": "徐冬冬发自己高清怼脸生图",
+        "onboard_time": 1743246323,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126753,
+        "num": 126753,
+        "word": "缅甸首都内比都发生5.1级地震",
+        "onboard_time": 1743245723,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 123297,
+        "num": 123297,
+        "word": "王一博开香槟最慢",
+        "onboard_time": 1743242602,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 121020,
+        "num": 121020,
+        "word": "荷兰警方发现中国留学生罗生门遗体",
+        "onboard_time": 1743226281,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115567,
+        "num": 115567,
+        "word": "哪吒2冲TOP4",
+        "onboard_time": 1743223401,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114100,
+        "num": 114100,
+        "word": "郑雅贤开球",
+        "onboard_time": 1743239301,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109585,
+        "num": 109585,
+        "word": "缅甸地震致瑞丽458户房屋受损",
+        "onboard_time": 1743246323,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 88760,
+        "num": 108105,
+        "word": "斗破苍穹",
+        "onboard_time": 1743247703,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国是有利于外资企业投资兴业的一方沃土#"
+    }
+  }
+}
