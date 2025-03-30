@@ -1,0 +1,410 @@
+{
+  "runTime": 1743299852426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 688055,
+        "num": 1110088,
+        "word": "缅甸震中最高温达40摄氏度",
+        "onboard_time": 1743292457,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 617220,
+        "num": 617220,
+        "word": "雁回时口碑逆跌",
+        "onboard_time": 1743292457,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14028,
+        "num": 481496,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 452444,
+        "num": 452444,
+        "word": "缅甸地震被埋压近40小时老人获救",
+        "onboard_time": 1743295641,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 426522,
+        "num": 426522,
+        "word": "上海最窄人行道仅10厘米宽",
+        "onboard_time": 1743293299,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422252,
+        "num": 422252,
+        "word": "王一博抛媚眼给瞎子看",
+        "onboard_time": 1743296481,
+        "rank": 5,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 333594,
+        "num": 333594,
+        "word": "雁回时全员升咖",
+        "onboard_time": 1743297021,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313689,
+        "num": 313689,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1743298699,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250496,
+        "num": 250496,
+        "word": "武汉小伙靠写字7年还清2000万巨债",
+        "onboard_time": 1743264022,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180317,
+        "num": 250415,
+        "word": "孔龙自美归国",
+        "onboard_time": 1743277275,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 748272,
+        "num": 249529,
+        "word": "谢婉婷",
+        "onboard_time": 1743262883,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 594124,
+        "num": 247765,
+        "word": "120名一把手配偶观看落马官员忏悔",
+        "onboard_time": 1743289576,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390911,
+        "num": 246902,
+        "word": "云南曲靖4.4级地震",
+        "onboard_time": 1743246564,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 355705,
+        "num": 246406,
+        "word": "Makiyo谈小S近况",
+        "onboard_time": 1743291498,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350306,
+        "num": 245571,
+        "word": "赵露思穿了手艺人爷爷做的鞋",
+        "onboard_time": 1743260904,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277906,
+        "num": 244106,
+        "word": "男子健身房练腿时地震只能往外爬",
+        "onboard_time": 1743297500,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261204,
+        "num": 243427,
+        "word": "王一博发烧了",
+        "onboard_time": 1743293299,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242820,
+        "num": 242820,
+        "word": "中国救援队抵缅甸席地而睡",
+        "onboard_time": 1743297800,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224636,
+        "num": 224636,
+        "word": "范闲 张若昀又为你拿奖了",
+        "onboard_time": 1743296720,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217870,
+        "num": 217870,
+        "word": "曝金秀贤曾和著名女演员交往",
+        "onboard_time": 1743250522,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 689696,
+        "num": 216829,
+        "word": "bnd粉丝去世",
+        "onboard_time": 1743235701,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 331063,
+        "num": 213071,
+        "word": "云南天空惊现血红太阳",
+        "onboard_time": 1743258084,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253071,
+        "num": 210305,
+        "word": "失联中国留学生罗生门遗体被找到",
+        "onboard_time": 1743257844,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106398,
+        "num": 208119,
+        "word": "3月就快过去了",
+        "onboard_time": 1743295340,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205669,
+        "num": 205669,
+        "word": "减脂期需要避雷的6种食物",
+        "onboard_time": 1743260485,
+        "rank": 24,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 194060,
+        "num": 194060,
+        "word": "4种食物堪比天然防晒霜",
+        "onboard_time": 1743297200,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178256,
+        "num": 178256,
+        "word": "旅行青蛙",
+        "onboard_time": 1743294799,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163821,
+        "num": 176865,
+        "word": "柯淳被杨天真质疑哭戏第一人",
+        "onboard_time": 1743299301,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158967,
+        "num": 172482,
+        "word": "王宝宝 爱水水",
+        "onboard_time": 1743297260,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 152986,
+        "num": 171121,
+        "word": "缅甸震中城市至今仍断电断网",
+        "onboard_time": 1743297740,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196672,
+        "num": 165758,
+        "word": "俄乌以1比21交换遗体",
+        "onboard_time": 1743299120,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164721,
+        "num": 164721,
+        "word": "刘慈欣称DeepSeek完全可能替代人类作家",
+        "onboard_time": 1743289576,
+        "rank": 31,
+        "category": "互联网,读书作家"
+      },
+      {
+        "raw_hot": 144533,
+        "num": 144533,
+        "word": "专家称大众对食品添加剂可能有误解",
+        "onboard_time": 1743299540,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135220,
+        "num": 135220,
+        "word": "爸爸没事就对女儿装的监控喊两句",
+        "onboard_time": 1743262941,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132360,
+        "num": 132360,
+        "word": "用户吐槽小米su7ultra试驾雷军秒道歉",
+        "onboard_time": 1743252923,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130614,
+        "num": 130614,
+        "word": "缅甸7.9级地震前后对比",
+        "onboard_time": 1743252502,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127670,
+        "num": 127670,
+        "word": "一不小心闯入现实版莫奈花园",
+        "onboard_time": 1743293899,
+        "rank": 36,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 121370,
+        "num": 121370,
+        "word": "张丹峰以为来无限超越班是当监制的",
+        "onboard_time": 1743260543,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120340,
+        "num": 120340,
+        "word": "门童多位粉丝失联",
+        "onboard_time": 1743251304,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9658,
+        "num": 116160,
+        "word": "希拉里称特朗普团队愚蠢至极",
+        "onboard_time": 1743299421,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112824,
+        "num": 112824,
+        "word": "福彩工作人员谈AI预测彩票中奖号码",
+        "onboard_time": 1743297380,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109997,
+        "num": 109997,
+        "word": "浪姐聊天记录",
+        "onboard_time": 1743254303,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109286,
+        "num": 109286,
+        "word": "安静公主长了一个肿瘤",
+        "onboard_time": 1743258084,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107274,
+        "num": 107274,
+        "word": "中国资产已成为当下世界潮流",
+        "onboard_time": 1743256583,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105613,
+        "num": 105613,
+        "word": "苹果首席工程师孔龙自美归国",
+        "onboard_time": 1743272296,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105229,
+        "num": 105229,
+        "word": "闫妮怎么干农活也微醺啊",
+        "onboard_time": 1743296000,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104016,
+        "num": 104016,
+        "word": "官方通报女子追骂他人称是司法局的",
+        "onboard_time": 1743298819,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99983,
+        "num": 99983,
+        "word": "赵晓卉雷军单向奔赴",
+        "onboard_time": 1743299360,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97636,
+        "num": 97636,
+        "word": "韩国消防员吃的比犯人还差",
+        "onboard_time": 1743297140,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97323,
+        "num": 97323,
+        "word": "中国救援队的睡姿让人心疼",
+        "onboard_time": 1743299780,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席向全球工商界发出真诚邀约#"
+    }
+  }
+}
