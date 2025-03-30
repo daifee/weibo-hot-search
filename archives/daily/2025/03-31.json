@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743366318017,
+  "endTime": 1743367108113,
   "band_list": [
     {
       "raw_hot": 972290,
@@ -283,20 +283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82594,
+      "num": 82594,
+      "word": "赴缅甸中国公羊救援队发声",
+      "onboard_time": 1743359954,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 81416,
       "num": 81416,
       "word": "淮水竹亭",
       "onboard_time": 1743331522,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80798,
-      "num": 80798,
-      "word": "赴缅甸中国公羊救援队发声",
-      "onboard_time": 1743359954,
-      "rank": 23,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 78510,
@@ -507,12 +507,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14798,
-      "num": 14798,
+      "raw_hot": 15624,
+      "num": 15624,
+      "word": "实探地震后的瑞丽珠宝玉石市场",
+      "onboard_time": 1743364214,
+      "rank": 43,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 15448,
+      "num": 15447,
       "word": "缅甸大学生感谢中国救援队第一个赶来",
       "onboard_time": 1743363074,
       "rank": 38,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 14498,
+      "num": 18499,
+      "word": "海空卫士王伟烈士墓前放满战机模型",
+      "onboard_time": 1743364273,
+      "rank": 24,
+      "category": "军事"
     },
     {
       "raw_hot": 14281,
@@ -523,28 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13981,
-      "num": 13981,
-      "word": "实探地震后的瑞丽珠宝玉石市场",
-      "onboard_time": 1743364214,
-      "rank": 43,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 13282,
-      "num": 15454,
+      "num": 15538,
       "word": "直击缅甸震中救援",
       "onboard_time": 1743364814,
       "rank": 34,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 12638,
-      "num": 18499,
-      "word": "海空卫士王伟烈士墓前放满战机模型",
-      "onboard_time": 1743364273,
-      "rank": 24,
-      "category": "军事"
     },
     {
       "raw_hot": 12596,
@@ -552,6 +552,22 @@
       "word": "缅甸震后救援存在3大难点",
       "onboard_time": 1743363195,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10658,
+      "num": 15141,
+      "word": "在缅中国人称震后联系家人手在抖",
+      "onboard_time": 1743366913,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 9080,
+      "num": 15448,
+      "word": "故宫红墙黄瓦映春日新绿",
+      "onboard_time": 1743366793,
+      "rank": 36,
       "category": "民生新闻"
     },
     {

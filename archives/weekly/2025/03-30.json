@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743366318017,
+  "endTime": 1743367108113,
   "band_list": [
     {
       "raw_hot": 3126539,
@@ -3115,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82594,
+      "num": 82594,
+      "word": "赴缅甸中国公羊救援队发声",
+      "onboard_time": 1743359954,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 81349,
       "num": 81349,
       "word": "虞书欣校园枝惊喜返场",
@@ -3128,14 +3136,6 @@
       "word": "缅甸华人希望获得中国救援队帮助",
       "onboard_time": 1743333923,
       "rank": 16,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 80798,
-      "num": 80798,
-      "word": "赴缅甸中国公羊救援队发声",
-      "onboard_time": 1743359954,
-      "rank": 23,
       "category": "突发/灾害"
     },
     {
@@ -3707,12 +3707,28 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 14798,
-      "num": 14798,
+      "raw_hot": 15624,
+      "num": 15624,
+      "word": "实探地震后的瑞丽珠宝玉石市场",
+      "onboard_time": 1743364214,
+      "rank": 43,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 15448,
+      "num": 15447,
       "word": "缅甸大学生感谢中国救援队第一个赶来",
       "onboard_time": 1743363074,
       "rank": 38,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 14498,
+      "num": 18499,
+      "word": "海空卫士王伟烈士墓前放满战机模型",
+      "onboard_time": 1743364273,
+      "rank": 24,
+      "category": "军事"
     },
     {
       "raw_hot": 14281,
@@ -3721,14 +3737,6 @@
       "onboard_time": 1743355876,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13981,
-      "num": 13981,
-      "word": "实探地震后的瑞丽珠宝玉石市场",
-      "onboard_time": 1743364214,
-      "rank": 43,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 13778,
@@ -3740,19 +3748,11 @@
     },
     {
       "raw_hot": 13282,
-      "num": 15454,
+      "num": 15538,
       "word": "直击缅甸震中救援",
       "onboard_time": 1743364814,
       "rank": 34,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 12638,
-      "num": 18499,
-      "word": "海空卫士王伟烈士墓前放满战机模型",
-      "onboard_time": 1743364273,
-      "rank": 24,
-      "category": "军事"
     },
     {
       "raw_hot": 12596,
@@ -3779,12 +3779,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 10658,
+      "num": 15141,
+      "word": "在缅中国人称震后联系家人手在抖",
+      "onboard_time": 1743366913,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 9658,
       "num": 116160,
       "word": "希拉里称特朗普团队愚蠢至极",
       "onboard_time": 1743299421,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9080,
+      "num": 15448,
+      "word": "故宫红墙黄瓦映春日新绿",
+      "onboard_time": 1743366793,
+      "rank": 36,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
