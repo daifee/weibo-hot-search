@@ -1,0 +1,410 @@
+{
+  "runTime": 1743339474780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 682684,
+        "num": 1109229,
+        "word": "缅甸多名华人护照被埋无法自由行动",
+        "onboard_time": 1743334103,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 662209,
+        "num": 662209,
+        "word": "淮水竹亭",
+        "onboard_time": 1743331522,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20115,
+        "num": 585996,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 519183,
+        "num": 519183,
+        "word": "陈都灵 金枝",
+        "onboard_time": 1743334762,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442353,
+        "num": 442353,
+        "word": "缅甸地震已致1700人死亡",
+        "onboard_time": 1743320839,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 403881,
+        "num": 403881,
+        "word": "全红婵跳水世界杯只报一项",
+        "onboard_time": 1743336502,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456727,
+        "num": 386646,
+        "word": "成龙御用反派去世",
+        "onboard_time": 1743338123,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349791,
+        "num": 349791,
+        "word": "大使馆回应多名中国人护照被埋",
+        "onboard_time": 1743330981,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 347647,
+        "num": 347647,
+        "word": "苦尽柑来遇见你 张家界",
+        "onboard_time": 1743323122,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229927,
+        "num": 336716,
+        "word": "缅甸幸存者握母亲冰冷的手含泪告别",
+        "onboard_time": 1743336800,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 540187,
+        "num": 336147,
+        "word": "黄轩晒与女友牵手照",
+        "onboard_time": 1743333923,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489024,
+        "num": 334029,
+        "word": "双胞胎当了1年朋友才发现是亲姐妹",
+        "onboard_time": 1743312868,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331854,
+        "num": 331854,
+        "word": "偶遇李现买汉堡",
+        "onboard_time": 1743335302,
+        "rank": 12,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 325868,
+        "num": 325868,
+        "word": "日本第11轮核污染水排海结束",
+        "onboard_time": 1743326901,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 275286,
+        "num": 275286,
+        "word": "汤加地震",
+        "onboard_time": 1743338962,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 270997,
+        "num": 270997,
+        "word": "美的已清仓小米股票",
+        "onboard_time": 1743332721,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 266080,
+        "num": 266080,
+        "word": "偶遇俞灏明王晓晨穿着情侣装吃饭",
+        "onboard_time": 1743334822,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244435,
+        "num": 244435,
+        "word": "玉渊谭偶遇宋轶",
+        "onboard_time": 1743338482,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241165,
+        "num": 241165,
+        "word": "张本美和女单夺冠",
+        "onboard_time": 1743338903,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210247,
+        "num": 210247,
+        "word": "迪丽热巴网宣组发文",
+        "onboard_time": 1743330741,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205443,
+        "num": 205443,
+        "word": "傅云夕完全变成庄寒雁的狗了",
+        "onboard_time": 1743334942,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189271,
+        "num": 189271,
+        "word": "余宇涵古装白发",
+        "onboard_time": 1743338360,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186009,
+        "num": 186009,
+        "word": "王智 百亿影帝严选",
+        "onboard_time": 1743335962,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182953,
+        "num": 182953,
+        "word": "汤加群岛7.3级地震",
+        "onboard_time": 1743339381,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 181656,
+        "num": 181656,
+        "word": "AG对战TTG",
+        "onboard_time": 1743338182,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174916,
+        "num": 174916,
+        "word": "AJ贴脸开团Doinb",
+        "onboard_time": 1743338603,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129150,
+        "num": 163154,
+        "word": "蔡文静发文告别燃罪",
+        "onboard_time": 1743339323,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33207,
+        "num": 154073,
+        "word": "中国男队挺进三人篮球亚洲杯决赛",
+        "onboard_time": 1743339262,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153749,
+        "num": 153749,
+        "word": "雁回时 吕秀才",
+        "onboard_time": 1743337462,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149212,
+        "num": 149212,
+        "word": "创造营亚洲",
+        "onboard_time": 1743335541,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191011,
+        "num": 149180,
+        "word": "台媒称中国驰援缅甸有3大黑科技",
+        "onboard_time": 1743337882,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148380,
+        "num": 148380,
+        "word": "首款无激素男性避孕药或将问世",
+        "onboard_time": 1743320301,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145102,
+        "num": 145102,
+        "word": "权志龙演唱会",
+        "onboard_time": 1743332902,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138382,
+        "num": 138382,
+        "word": "运动半小时以上才能分解脂肪",
+        "onboard_time": 1743338243,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127735,
+        "num": 127735,
+        "word": "棋士第8集封神",
+        "onboard_time": 1743334522,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127636,
+        "num": 127636,
+        "word": "机器人为三月三练上山歌了",
+        "onboard_time": 1743337822,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124354,
+        "num": 124354,
+        "word": "刘亦菲说能和观众共鸣是非常幸福的事",
+        "onboard_time": 1743338423,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123703,
+        "num": 123703,
+        "word": "aespaWhiplash开麦舞台",
+        "onboard_time": 1743339141,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121606,
+        "num": 121606,
+        "word": "儿子被父亲送进精神病院17年",
+        "onboard_time": 1743332422,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121003,
+        "num": 121003,
+        "word": "米卡送了欧阳娜娜黑皮kitty",
+        "onboard_time": 1743331761,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22654,
+        "num": 120992,
+        "word": "狼队轮换状态",
+        "onboard_time": 1743338061,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120985,
+        "num": 120985,
+        "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
+        "onboard_time": 1743320839,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117421,
+        "num": 117421,
+        "word": "韩安冉回应与婆婆矛盾",
+        "onboard_time": 1743323721,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115851,
+        "num": 115851,
+        "word": "iPhone截图的隐藏功能",
+        "onboard_time": 1743317902,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114508,
+        "num": 114508,
+        "word": "邓萃雯没有功劳也有苦劳",
+        "onboard_time": 1743335722,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113816,
+        "num": 113816,
+        "word": "Gumayusi说Tian太菜了",
+        "onboard_time": 1743330082,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112913,
+        "num": 112913,
+        "word": "乙肝治疗将进入功能性治愈时代",
+        "onboard_time": 1743323780,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102813,
+        "num": 102813,
+        "word": "选手吐槽武当山越野赛发临期食品",
+        "onboard_time": 1743335962,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102650,
+        "num": 102650,
+        "word": "雁回时",
+        "onboard_time": 1743330021,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99590,
+        "num": 99590,
+        "word": "宋亚轩发博庆单曲破纪录",
+        "onboard_time": 1743336863,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}
