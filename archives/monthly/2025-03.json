@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743326575474,
+  "endTime": 1743327377409,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -6051,6 +6051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1006462,
+      "num": 1161033,
+      "word": "苦尽柑来遇见你 张家界",
+      "onboard_time": 1743323122,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1005612,
       "num": 1160898,
       "word": "宋雨琦在地上躺了四分钟",
@@ -6537,14 +6545,6 @@
       "onboard_time": 1742307503,
       "rank": 21,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 960225,
-      "num": 1153636,
-      "word": "苦尽柑来遇见你 张家界",
-      "onboard_time": 1743323122,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 959520,
@@ -11859,12 +11859,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 629943,
+      "num": 324437,
+      "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
+      "onboard_time": 1743320839,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 629599,
       "num": 275901,
       "word": "赵丽颖掌公主回归",
       "onboard_time": 1741332021,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 628855,
+      "num": 309030,
+      "word": "韩安冉回应与婆婆矛盾",
+      "onboard_time": 1743323721,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 628836,
@@ -12193,14 +12209,6 @@
       "onboard_time": 1741677440,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 614823,
-      "num": 324437,
-      "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
-      "onboard_time": 1743320839,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 614587,
@@ -12833,14 +12841,6 @@
       "onboard_time": 1740834983,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 593525,
-      "num": 309030,
-      "word": "韩安冉回应与婆婆矛盾",
-      "onboard_time": 1743323721,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 593139,
@@ -15113,6 +15113,14 @@
       "onboard_time": 1742535682,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 512635,
+      "num": 512635,
+      "word": "乙肝治疗将进入功能性治愈时代",
+      "onboard_time": 1743323780,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 512042,
@@ -18947,6 +18955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 410669,
+      "num": 293170,
+      "word": "首款无激素男性避孕药或将问世",
+      "onboard_time": 1743320301,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 410585,
       "num": 269984,
       "word": "3人冒充孙子4天骗了50万",
@@ -20161,14 +20177,6 @@
       "onboard_time": 1741693044,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 387246,
-      "num": 387246,
-      "word": "乙肝治疗将进入功能性治愈时代",
-      "onboard_time": 1743323780,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 387149,
@@ -21811,14 +21819,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 357207,
-      "num": 293170,
-      "word": "首款无激素男性避孕药或将问世",
-      "onboard_time": 1743320301,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 357205,
       "num": 195018,
       "word": "男子一家族9口人患癌症8人离世",
@@ -23171,6 +23171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334309,
+      "num": 334309,
+      "word": "金玟庭后台试音没关麦",
+      "onboard_time": 1743323660,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 334110,
       "num": 345441,
       "word": "关晓彤王子奇新剧开机",
@@ -23769,14 +23777,6 @@
       "onboard_time": 1740834263,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 326627,
-      "num": 326627,
-      "word": "金玟庭后台试音没关麦",
-      "onboard_time": 1743323660,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 326545,
@@ -25353,6 +25353,14 @@
       "onboard_time": 1742049392,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301107,
+      "num": 233201,
+      "word": "新秀 喾逸",
+      "onboard_time": 1743326000,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 300948,
@@ -35371,6 +35379,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 211544,
+      "num": 211544,
+      "word": "王珞丹8年前的熊猫套装正中眉心",
+      "onboard_time": 1743326062,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211542,
       "num": 181588,
       "word": "银行错给客户存81万亿美元",
@@ -42985,14 +43001,6 @@
       "onboard_time": 1742980881,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185246,
-      "num": 185246,
-      "word": "新秀 喾逸",
-      "onboard_time": 1743326000,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 185243,
@@ -52171,6 +52179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154679,
+      "num": 325976,
+      "word": "缅甸强震中受伤中国公民升至14人",
+      "onboard_time": 1743325461,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 154612,
       "num": 154612,
       "word": "每一个人都是主角",
@@ -56435,6 +56451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143870,
+      "num": 174603,
+      "word": "黄旭华92岁离休第二天又拄着拐出现",
+      "onboard_time": 1743325880,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143868,
       "num": 164482,
       "word": "冰湖重生首发预告",
@@ -57233,6 +57257,14 @@
       "onboard_time": 1742812761,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141579,
+      "num": 141579,
+      "word": "中国救援队吃上了到达缅甸的第一顿饭",
+      "onboard_time": 1743324621,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141550,
@@ -58795,6 +58827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137597,
+      "num": 146671,
+      "word": "王宝强棋士信息量好大",
+      "onboard_time": 1743326481,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137560,
       "num": 137560,
       "word": "檀健次和哪吒梦幻联动",
@@ -59531,6 +59571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135426,
+      "num": 135426,
+      "word": "天津 起猛了",
+      "onboard_time": 1743324080,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135422,
       "num": 139589,
       "word": "华晨宇把AI聊到叹气",
@@ -59865,14 +59913,6 @@
       "onboard_time": 1742697680,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134658,
-      "num": 134658,
-      "word": "中国救援队吃上了到达缅甸的第一顿饭",
-      "onboard_time": 1743324621,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134639,
@@ -66427,14 +66467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118599,
-      "num": 118599,
-      "word": "王珞丹8年前的熊猫套装正中眉心",
-      "onboard_time": 1743326062,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118590,
       "num": 118590,
       "word": "王栎鑫累吐了",
@@ -66840,6 +66872,14 @@
       "word": "杭州场外国足球迷祝福太有梗了",
       "onboard_time": 1742893822,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117460,
+      "num": 117460,
+      "word": "林钟勋申裕斌混双夺冠",
+      "onboard_time": 1743326961,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -68969,6 +69009,14 @@
       "onboard_time": 1742820022,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111658,
+      "num": 111658,
+      "word": "大麦bug",
+      "onboard_time": 1743326722,
+      "rank": 38,
+      "category": "互联网,演出"
     },
     {
       "raw_hot": 111643,
@@ -71579,6 +71627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 105185,
+      "num": 105185,
+      "word": "张家界落叶",
+      "onboard_time": 1743327080,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 105177,
       "num": 276910,
       "word": "NASA回应滞留太空宇航员获多少报酬",
@@ -72875,6 +72931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101202,
+      "num": 101202,
+      "word": "日本第11轮核污染水排海结束",
+      "onboard_time": 1743326901,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101193,
       "num": 132075,
       "word": "袁立文学",
@@ -73577,14 +73641,6 @@
       "onboard_time": 1743304530,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99300,
-      "num": 99300,
-      "word": "天津 起猛了",
-      "onboard_time": 1743324080,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 99265,
@@ -76539,14 +76595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89658,
-      "num": 89658,
-      "word": "黄旭华92岁离休第二天又拄着拐出现",
-      "onboard_time": 1743325880,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89632,
       "num": 73308,
       "word": "给国足算分",
@@ -77505,14 +77553,6 @@
       "onboard_time": 1742986161,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85516,
-      "num": 85516,
-      "word": "王宝强棋士信息量好大",
-      "onboard_time": 1743326481,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 85490,
@@ -78833,14 +78873,6 @@
       "onboard_time": 1743045081,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79167,
-      "num": 325976,
-      "word": "缅甸强震中受伤中国公民升至14人",
-      "onboard_time": 1743325461,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 79138,
@@ -81873,6 +81905,14 @@
       "onboard_time": 1742006661,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64752,
+      "num": 144994,
+      "word": "狼队对战LGDNBW",
+      "onboard_time": 1743327201,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 64747,
@@ -91011,6 +91051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30292,
+      "num": 144600,
+      "word": "国乒出发仁川冠军赛",
+      "onboard_time": 1743327258,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30277,
       "num": 249885,
       "word": "刘诗诗V中文版开季刊",
@@ -94411,6 +94459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19660,
+      "num": 114969,
+      "word": "Gucci那些年的时尚革新",
+      "onboard_time": 1743326000,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 19610,
       "num": 123606,
       "word": "空中架起2000多公里电力高速",
@@ -94433,14 +94489,6 @@
       "onboard_time": 1742290281,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19551,
-      "num": 99603,
-      "word": "Gucci那些年的时尚革新",
-      "onboard_time": 1743326000,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 19517,

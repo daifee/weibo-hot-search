@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743326575474,
+  "endTime": 1743327377409,
   "band_list": [
     {
       "raw_hot": 2920421,
@@ -83,20 +83,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1006462,
+      "num": 1161033,
+      "word": "苦尽柑来遇见你 张家界",
+      "onboard_time": 1743323122,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1004976,
       "num": 1004976,
       "word": "翡翠摊主回应地震瞬间拿起高货就跑",
       "onboard_time": 1743301221,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 960225,
-      "num": 1153636,
-      "word": "苦尽柑来遇见你 张家界",
-      "onboard_time": 1743323122,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 859809,
@@ -203,6 +203,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 629943,
+      "num": 324437,
+      "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
+      "onboard_time": 1743320839,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 628855,
+      "num": 309030,
+      "word": "韩安冉回应与婆婆矛盾",
+      "onboard_time": 1743323721,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 624559,
       "num": 624559,
       "word": "雁回时口碑逆跌",
@@ -217,14 +233,6 @@
       "onboard_time": 1743302909,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 614823,
-      "num": 324437,
-      "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
-      "onboard_time": 1743320839,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 610043,
@@ -257,14 +265,6 @@
       "onboard_time": 1743289576,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 593525,
-      "num": 309030,
-      "word": "韩安冉回应与婆婆矛盾",
-      "onboard_time": 1743323721,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 592324,
@@ -337,6 +337,14 @@
       "onboard_time": 1743318620,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 512635,
+      "num": 512635,
+      "word": "乙肝治疗将进入功能性治愈时代",
+      "onboard_time": 1743323780,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 494068,
@@ -435,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 410669,
+      "num": 293170,
+      "word": "首款无激素男性避孕药或将问世",
+      "onboard_time": 1743320301,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 400602,
       "num": 400602,
       "word": "云南曲靖4.4级地震",
@@ -449,14 +465,6 @@
       "onboard_time": 1743262702,
       "rank": 5,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 387246,
-      "num": 387246,
-      "word": "乙肝治疗将进入功能性治愈时代",
-      "onboard_time": 1743323780,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 376959,
@@ -481,14 +489,6 @@
       "onboard_time": 1743312029,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 357207,
-      "num": 293170,
-      "word": "首款无激素男性避孕药或将问世",
-      "onboard_time": 1743320301,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 355705,
@@ -523,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 334309,
+      "num": 334309,
+      "word": "金玟庭后台试音没关麦",
+      "onboard_time": 1743323660,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 333594,
       "num": 333594,
       "word": "雁回时全员升咖",
@@ -537,14 +545,6 @@
       "onboard_time": 1743255443,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 326627,
-      "num": 326627,
-      "word": "金玟庭后台试音没关麦",
-      "onboard_time": 1743323660,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 318415,
@@ -577,6 +577,14 @@
       "onboard_time": 1743312570,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301107,
+      "num": 233201,
+      "word": "新秀 喾逸",
+      "onboard_time": 1743326000,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 288103,
@@ -779,6 +787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 211544,
+      "num": 211544,
+      "word": "王珞丹8年前的熊猫套装正中眉心",
+      "onboard_time": 1743326062,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211193,
       "num": 255901,
       "word": "王琳54岁的走秀状态",
@@ -953,14 +969,6 @@
       "onboard_time": 1743319281,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185246,
-      "num": 185246,
-      "word": "新秀 喾逸",
-      "onboard_time": 1743326000,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 184290,
@@ -1147,6 +1155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154679,
+      "num": 325976,
+      "word": "缅甸强震中受伤中国公民升至14人",
+      "onboard_time": 1743325461,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 154111,
       "num": 154111,
       "word": "男子吃增肌药3个月后性格大变",
@@ -1267,6 +1283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 143870,
+      "num": 174603,
+      "word": "黄旭华92岁离休第二天又拄着拐出现",
+      "onboard_time": 1743325880,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143483,
       "num": 154036,
       "word": "一不小心闯入现实版莫奈花园",
@@ -1307,11 +1331,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141579,
+      "num": 141579,
+      "word": "中国救援队吃上了到达缅甸的第一顿饭",
+      "onboard_time": 1743324621,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137780,
       "num": 137780,
       "word": "虞书欣说新剧的演戏方式和以前不一样",
       "onboard_time": 1743315380,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137597,
+      "num": 146671,
+      "word": "王宝强棋士信息量好大",
+      "onboard_time": 1743326481,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1339,12 +1379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134658,
-      "num": 134658,
-      "word": "中国救援队吃上了到达缅甸的第一顿饭",
-      "onboard_time": 1743324621,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 135426,
+      "num": 135426,
+      "word": "天津 起猛了",
+      "onboard_time": 1743324080,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 130910,
@@ -1499,14 +1539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118599,
-      "num": 118599,
-      "word": "王珞丹8年前的熊猫套装正中眉心",
-      "onboard_time": 1743326062,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118545,
       "num": 118545,
       "word": "何泓姗澄清",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1743302069,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117460,
+      "num": 117460,
+      "word": "林钟勋申裕斌混双夺冠",
+      "onboard_time": 1743326961,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 116822,
@@ -1593,6 +1633,14 @@
       "onboard_time": 1743240441,
       "rank": 34,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 111658,
+      "num": 111658,
+      "word": "大麦bug",
+      "onboard_time": 1743326722,
+      "rank": 38,
+      "category": "互联网,演出"
     },
     {
       "raw_hot": 111430,
@@ -1699,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105185,
+      "num": 105185,
+      "word": "张家界落叶",
+      "onboard_time": 1743327080,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 104270,
       "num": 115719,
       "word": "雁回时好像疯走了",
@@ -1739,12 +1795,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 102421,
+      "num": 102421,
+      "word": "种地吧",
+      "onboard_time": 1743327201,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102359,
       "num": 105564,
       "word": "尤长靖最后那个回音太顶了",
       "onboard_time": 1743303330,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101202,
+      "num": 101202,
+      "word": "日本第11轮核污染水排海结束",
+      "onboard_time": 1743326901,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 101169,
@@ -1761,14 +1833,6 @@
       "onboard_time": 1743304530,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99300,
-      "num": 99300,
-      "word": "天津 起猛了",
-      "onboard_time": 1743324080,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 99130,
@@ -1867,14 +1931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89658,
-      "num": 89658,
-      "word": "黄旭华92岁离休第二天又拄着拐出现",
-      "onboard_time": 1743325880,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89551,
       "num": 89551,
       "word": "薛凯琪说我会一天比一天更有力气",
@@ -1955,14 +2011,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 85516,
-      "num": 85516,
-      "word": "王宝强棋士信息量好大",
-      "onboard_time": 1743326481,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85355,
       "num": 318394,
       "word": "华人在缅甸震中抱团自救",
@@ -2011,14 +2059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79167,
-      "num": 325976,
-      "word": "缅甸强震中受伤中国公民升至14人",
-      "onboard_time": 1743325461,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 78337,
       "num": 185235,
       "word": "周末就要多做反差大的事",
@@ -2065,6 +2105,14 @@
       "onboard_time": 1743267560,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64752,
+      "num": 144994,
+      "word": "狼队对战LGDNBW",
+      "onboard_time": 1743327201,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 62078,
@@ -2227,6 +2275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30292,
+      "num": 144600,
+      "word": "国乒出发仁川冠军赛",
+      "onboard_time": 1743327258,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29083,
       "num": 33143,
       "word": "九义人",
@@ -2291,8 +2347,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19551,
-      "num": 99603,
+      "raw_hot": 19660,
+      "num": 114969,
       "word": "Gucci那些年的时尚革新",
       "onboard_time": 1743326000,
       "rank": 38,
