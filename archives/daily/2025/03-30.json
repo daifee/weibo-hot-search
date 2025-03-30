@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743323295326,
+  "endTime": 1743324076857,
   "band_list": [
     {
       "raw_hot": 2920421,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528841,
+      "num": 337430,
+      "word": "门童 出卡",
+      "onboard_time": 1743318620,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494068,
       "num": 494068,
       "word": "叠纸 价格",
@@ -329,14 +337,6 @@
       "onboard_time": 1743303930,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 466152,
-      "num": 337430,
-      "word": "门童 出卡",
-      "onboard_time": 1743318620,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 465188,
@@ -403,12 +403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413673,
+      "num": 413673,
+      "word": "殡葬管理招新要接触遗体176人报考",
+      "onboard_time": 1743321741,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400602,
       "num": 400602,
       "word": "云南曲靖4.4级地震",
       "onboard_time": 1743246564,
       "rank": 8,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 399231,
+      "num": 324437,
+      "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
+      "onboard_time": 1743320839,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 396224,
@@ -523,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303867,
+      "num": 303867,
+      "word": "苦尽柑来遇见你 张家界",
+      "onboard_time": 1743323122,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288103,
       "num": 288103,
       "word": "音律联觉",
@@ -547,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283576,
+      "num": 283576,
+      "word": "甲亢哥翻译",
+      "onboard_time": 1743318741,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 279834,
       "num": 279834,
       "word": "五月天直播",
@@ -561,14 +593,6 @@
       "onboard_time": 1743252923,
       "rank": 16,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 276652,
-      "num": 276652,
-      "word": "甲亢哥翻译",
-      "onboard_time": 1743318741,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 275862,
@@ -635,12 +659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252673,
+      "num": 215416,
+      "word": "首款无激素男性避孕药或将问世",
+      "onboard_time": 1743320301,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 246089,
       "num": 246089,
       "word": "华人称缅甸超3层房子或裂缝或倒塌",
       "onboard_time": 1743289696,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 246074,
+      "num": 215615,
+      "word": "祝绪丹学舞经历全国统一",
+      "onboard_time": 1743322461,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 245674,
@@ -683,14 +723,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 227254,
-      "num": 215615,
-      "word": "祝绪丹学舞经历全国统一",
-      "onboard_time": 1743322461,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226250,
       "num": 226250,
       "word": "叠纸心意",
@@ -707,28 +739,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222132,
-      "num": 215416,
-      "word": "首款无激素男性避孕药或将问世",
-      "onboard_time": 1743320301,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 218739,
       "num": 218739,
       "word": "旅行青蛙",
       "onboard_time": 1743294799,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 214954,
-      "num": 214954,
-      "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
-      "onboard_time": 1743320839,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212676,
@@ -835,14 +851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199558,
-      "num": 286451,
-      "word": "殡葬管理招新要接触遗体176人报考",
-      "onboard_time": 1743321741,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198478,
       "num": 198478,
       "word": "华人称地震当日缅甸放假救了很多人",
@@ -921,6 +929,14 @@
       "onboard_time": 1743308790,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 174760,
+      "num": 174760,
+      "word": "乙肝治疗将进入功能性治愈时代",
+      "onboard_time": 1743323780,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 174381,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1743252502,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 158609,
+      "num": 158609,
+      "word": "韩安冉回应与婆婆矛盾",
+      "onboard_time": 1743323721,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 158069,
@@ -1259,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139419,
+      "num": 139419,
+      "word": "金玟庭后台试音没关麦",
+      "onboard_time": 1743323660,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 137780,
       "num": 137780,
       "word": "虞书欣说新剧的演戏方式和以前不一样",
@@ -1324,7 +1356,7 @@
     },
     {
       "raw_hot": 125995,
-      "num": 125995,
+      "num": 299484,
       "word": "公羊救援队救出缅甸少年不幸去世",
       "onboard_time": 1743319641,
       "rank": 37,
@@ -1371,12 +1403,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121873,
+      "num": 121873,
+      "word": "周震南选队友一分钟啧了七次",
+      "onboard_time": 1743320960,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121675,
       "num": 121675,
       "word": "韩国消防员吃的比犯人还差",
       "onboard_time": 1743297140,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 121628,
+      "num": 121628,
+      "word": "赛车手王一博的一天",
+      "onboard_time": 1743323841,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 121479,
@@ -1451,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118069,
+      "num": 118069,
+      "word": "正常人的减脂餐",
+      "onboard_time": 1743322999,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 116822,
       "num": 116822,
       "word": "叶童听不懂王珞丹的广东话",
@@ -1499,28 +1555,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 112004,
-      "num": 112004,
-      "word": "苦尽柑来遇见你 张家界",
-      "onboard_time": 1743323122,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111757,
       "num": 111757,
       "word": "王一博亚军",
       "onboard_time": 1743240441,
       "rank": 34,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 111702,
-      "num": 111702,
-      "word": "周震南选队友一分钟啧了七次",
-      "onboard_time": 1743320960,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 111430,
@@ -1545,6 +1585,14 @@
       "onboard_time": 1743295340,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110033,
+      "num": 107806,
+      "word": "邓为不争先争的是滔滔不绝",
+      "onboard_time": 1743323061,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 108091,
@@ -1691,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97192,
+      "num": 97192,
+      "word": "丁程鑫孩子静悄悄必定在作妖",
+      "onboard_time": 1743323721,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96625,
       "num": 96625,
       "word": "陈都灵的扛剧能力",
@@ -1715,28 +1771,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94323,
-      "num": 94323,
-      "word": "正常人的减脂餐",
-      "onboard_time": 1743322999,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 92455,
-      "num": 92455,
-      "word": "邓为不争先争的是滔滔不绝",
-      "onboard_time": 1743323061,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92024,
       "num": 92024,
       "word": "曼谷便利店为防哄抢关闭",
       "onboard_time": 1743267318,
       "rank": 26,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91919,
+      "num": 91919,
+      "word": "KSG锁定第三轮A组",
+      "onboard_time": 1743324020,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 91411,
@@ -1825,6 +1873,14 @@
       "onboard_time": 1743244823,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86539,
+      "num": 86539,
+      "word": "倪虹洁 一见都熟一问都不记得",
+      "onboard_time": 1743323841,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 85815,
