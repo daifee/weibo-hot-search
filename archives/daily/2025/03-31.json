@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743352079113,
+  "endTime": 1743353045467,
   "band_list": [
     {
       "raw_hot": 972290,
@@ -9,6 +9,14 @@
       "onboard_time": 1743344963,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 868295,
+      "num": 868295,
+      "word": "第四代住宅来了",
+      "onboard_time": 1743348802,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 853140,
@@ -25,14 +33,6 @@
       "onboard_time": 1743341363,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 666599,
-      "num": 666599,
-      "word": "第四代住宅来了",
-      "onboard_time": 1743348802,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 454305,
@@ -57,6 +57,14 @@
       "onboard_time": 1743344303,
       "rank": 13,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 292621,
+      "num": 292621,
+      "word": "甲亢哥尊重科比拒绝抽象",
+      "onboard_time": 1743348921,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 291223,
@@ -105,14 +113,6 @@
       "onboard_time": 1743345863,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 210571,
-      "num": 210571,
-      "word": "甲亢哥尊重科比拒绝抽象",
-      "onboard_time": 1743348921,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 209850,
@@ -243,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86129,
+      "num": 86129,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1743352218,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85818,
       "num": 85818,
       "word": "广东高州3.0级地震",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 69776,
-      "num": 69776,
+      "num": 84777,
       "word": "傅云夕完全变成庄寒雁的狗了",
       "onboard_time": 1743334942,
       "rank": 42,
@@ -387,6 +395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 57898,
+      "num": 57898,
+      "word": "被小西天的极繁美学震撼到",
+      "onboard_time": 1743352519,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 56346,
       "num": 228968,
       "word": "幸存者在废墟外呼唤被困亲人名字",
@@ -396,10 +412,18 @@
     },
     {
       "raw_hot": 39206,
-      "num": 501236,
+      "num": 507923,
       "word": "4分钟感受广西的好嘢",
       "onboard_time": 1743342023,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39046,
+      "num": 187421,
+      "word": "中国救援队已到缅甸曼德勒",
+      "onboard_time": 1743352159,
+      "rank": 9,
       "category": "民生新闻"
     }
   ],
