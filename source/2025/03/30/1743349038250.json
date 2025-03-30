@@ -1,0 +1,410 @@
+{
+  "runTime": 1743349038250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1270870,
+        "num": 1270870,
+        "word": "汤加群岛7.3级地震",
+        "onboard_time": 1743339381,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 774107,
+        "num": 774107,
+        "word": "小米造出了我15年前想要的相机",
+        "onboard_time": 1743340342,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 52744,
+        "num": 597210,
+        "word": "4分钟感受广西的好嘢",
+        "onboard_time": 1743342023,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1730563,
+        "num": 566621,
+        "word": "吴彦祖发文谴责飞机上光脚踩座椅乘客",
+        "onboard_time": 1743344963,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532082,
+        "num": 532082,
+        "word": "广东高州地震监控画面",
+        "onboard_time": 1743344303,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 399256,
+        "num": 399256,
+        "word": "缅甸华人称一家五口仅2孩子逃生",
+        "onboard_time": 1743343885,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 382750,
+        "num": 382750,
+        "word": "湖南卫视连发20条迪丽热巴",
+        "onboard_time": 1743340761,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381863,
+        "num": 381863,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1743345863,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377420,
+        "num": 377420,
+        "word": "全国下周统一发放正常春天",
+        "onboard_time": 1743342563,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239299,
+        "num": 376686,
+        "word": "陈都灵 金枝",
+        "onboard_time": 1743334762,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1128876,
+        "num": 349761,
+        "word": "祝绪丹忍得很辛苦吧",
+        "onboard_time": 1743341363,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608662,
+        "num": 326431,
+        "word": "李惠利 与世界逆行的女人",
+        "onboard_time": 1743346222,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 434931,
+        "num": 320384,
+        "word": "贾乃亮甜馨逛三亚夜市vlog",
+        "onboard_time": 1743343463,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303977,
+        "num": 303977,
+        "word": "双胞胎当了1年朋友才发现是亲姐妹",
+        "onboard_time": 1743312868,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301547,
+        "num": 301547,
+        "word": "金秀贤将召开记者会",
+        "onboard_time": 1743345202,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266966,
+        "num": 266966,
+        "word": "朱志鑫 单人照",
+        "onboard_time": 1743344543,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215493,
+        "num": 215493,
+        "word": "张本美和女单夺冠",
+        "onboard_time": 1743338903,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183832,
+        "num": 203724,
+        "word": "成龙御用反派去世",
+        "onboard_time": 1743338123,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195101,
+        "num": 195101,
+        "word": "一全职妈妈离婚获2万元经济补偿",
+        "onboard_time": 1743346643,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59052,
+        "num": 193758,
+        "word": "成龙悼念理查德诺顿",
+        "onboard_time": 1743348082,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269736,
+        "num": 193472,
+        "word": "金赛纶雪莉具荷拉的共同点",
+        "onboard_time": 1743347003,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192936,
+        "num": 192936,
+        "word": "缅甸地震已致1700人死亡",
+        "onboard_time": 1743320839,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 48592,
+        "num": 175069,
+        "word": "各地中学生二手烟暴露率",
+        "onboard_time": 1743347124,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169502,
+        "num": 169502,
+        "word": "今天的记录是给未来的礼物",
+        "onboard_time": 1743347003,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36803,
+        "num": 164447,
+        "word": "中国男子三人篮球创造历史",
+        "onboard_time": 1743347902,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161171,
+        "num": 161171,
+        "word": "广东高州3.0级地震",
+        "onboard_time": 1743339861,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 158969,
+        "num": 158969,
+        "word": "单依纯演唱会上的高定造型",
+        "onboard_time": 1743342684,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154064,
+        "num": 154064,
+        "word": "雁回时之魔童降世",
+        "onboard_time": 1743343223,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68595,
+        "num": 150659,
+        "word": "新疆库车市3.7级地震",
+        "onboard_time": 1743340642,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 144244,
+        "num": 148419,
+        "word": "胡兵 陈楚生站哥",
+        "onboard_time": 1743347061,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160927,
+        "num": 148032,
+        "word": "汤加群岛地震可能引发海啸",
+        "onboard_time": 1743340222,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 147258,
+        "num": 147258,
+        "word": "减脂食谱里为什么永远有西兰花",
+        "onboard_time": 1743346521,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139048,
+        "num": 139048,
+        "word": "苦尽柑来遇见你 张家界",
+        "onboard_time": 1743323122,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133885,
+        "num": 133885,
+        "word": "张萌说九重紫爽雁回时刺激",
+        "onboard_time": 1743347362,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131976,
+        "num": 131976,
+        "word": "Faye曼谷见面会",
+        "onboard_time": 1743347543,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127935,
+        "num": 127935,
+        "word": "不建议去死水游泳馆里游泳的原因",
+        "onboard_time": 1743340701,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 120584,
+        "num": 120584,
+        "word": "淮水竹亭",
+        "onboard_time": 1743331522,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118285,
+        "num": 118285,
+        "word": "金秀贤记者会不回答问题",
+        "onboard_time": 1743348621,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117845,
+        "num": 117845,
+        "word": "姚晨新剧句句有回应事事不答应",
+        "onboard_time": 1743348201,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22438,
+        "num": 117637,
+        "word": "中国救援队派16人先遣队展开侦查",
+        "onboard_time": 1743348742,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117600,
+        "num": 117600,
+        "word": "甲亢哥尊重科比拒绝抽象",
+        "onboard_time": 1743348921,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116039,
+        "num": 116039,
+        "word": "入室抢婴贩卖案受害者家属发声",
+        "onboard_time": 1743345263,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112816,
+        "num": 112816,
+        "word": "徐梦桃夺银",
+        "onboard_time": 1743345563,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108305,
+        "num": 108305,
+        "word": "爱思 点菜",
+        "onboard_time": 1743342684,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107119,
+        "num": 107119,
+        "word": "台媒称中国驰援缅甸有3大黑科技",
+        "onboard_time": 1743337882,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106693,
+        "num": 106693,
+        "word": "周深为了卡点定时了",
+        "onboard_time": 1743348201,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104499,
+        "num": 104499,
+        "word": "黄轩晒与女友牵手照",
+        "onboard_time": 1743333923,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101116,
+        "num": 101116,
+        "word": "马拉松经济开始入侵县城",
+        "onboard_time": 1743342924,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101071,
+        "num": 101071,
+        "word": "第四代住宅来了",
+        "onboard_time": 1743348802,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98912,
+        "num": 98912,
+        "word": "淮水竹亭配角全员升咖",
+        "onboard_time": 1743342084,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}
