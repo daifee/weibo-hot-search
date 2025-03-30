@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743349038250,
+  "endTime": 1743352079113,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -11208,6 +11208,14 @@
       "word": "中国女游客在斯里兰卡火车上探身坠落",
       "onboard_time": 1741600103,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 666599,
+      "num": 666599,
+      "word": "第四代住宅来了",
+      "onboard_time": 1743348802,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -26475,6 +26483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 291223,
+      "num": 291223,
+      "word": "一全职妈妈离婚获2万元经济补偿",
+      "onboard_time": 1743346643,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291208,
       "num": 228074,
       "word": "伊能静开始向往六十岁的自己",
@@ -34267,6 +34283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220273,
+      "num": 220273,
+      "word": "减脂食谱里为什么永远有西兰花",
+      "onboard_time": 1743346521,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 220197,
       "num": 220197,
       "word": "董力阿诺把接吻当惩罚",
@@ -34681,14 +34705,6 @@
       "onboard_time": 1742037384,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217851,
-      "num": 195101,
-      "word": "一全职妈妈离婚获2万元经济补偿",
-      "onboard_time": 1743346643,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217848,
@@ -35979,6 +35995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210571,
+      "num": 210571,
+      "word": "甲亢哥尊重科比拒绝抽象",
+      "onboard_time": 1743348921,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210552,
       "num": 210552,
       "word": "建议教育和引导青少年远离网红诱惑",
@@ -36081,6 +36105,14 @@
       "onboard_time": 1743246323,
       "rank": 35,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 209850,
+      "num": 225911,
+      "word": "甲亢哥到成都了",
+      "onboard_time": 1743349339,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 209822,
@@ -55795,14 +55827,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 147258,
-      "num": 147258,
-      "word": "减脂食谱里为什么永远有西兰花",
-      "onboard_time": 1743346521,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 147235,
       "num": 472944,
       "word": "郭新娃陈芳卉首夺全英冠军",
@@ -58161,6 +58185,14 @@
       "onboard_time": 1741400901,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141115,
+      "num": 124686,
+      "word": "金秀贤记者会不回答问题",
+      "onboard_time": 1743348621,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 141102,
@@ -67499,14 +67531,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 118285,
-      "num": 118285,
-      "word": "金秀贤记者会不回答问题",
-      "onboard_time": 1743348621,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118267,
       "num": 118267,
       "word": "脑综把清华脑王整破防了",
@@ -67761,14 +67785,6 @@
       "onboard_time": 1740996318,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 117600,
-      "num": 117600,
-      "word": "甲亢哥尊重科比拒绝抽象",
-      "onboard_time": 1743348921,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 117560,
@@ -71563,6 +71579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107511,
+      "num": 107511,
+      "word": "胡烨韬 我要把名字刻在C位上",
+      "onboard_time": 1743350422,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107472,
       "num": 487688,
       "word": "政府工作报告里的KPI",
@@ -73929,14 +73953,6 @@
       "onboard_time": 1740905720,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101071,
-      "num": 101071,
-      "word": "第四代住宅来了",
-      "onboard_time": 1743348802,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101056,
@@ -76577,6 +76593,14 @@
       "onboard_time": 1741421660,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 93072,
+      "num": 105315,
+      "word": "创亚2总决赛歌单有twice",
+      "onboard_time": 1743349041,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 93024,
@@ -80059,6 +80083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78510,
+      "num": 78510,
+      "word": "张桂源养狗了",
+      "onboard_time": 1743350780,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78504,
       "num": 78504,
       "word": "虞书欣 剧粉大人们我们努力了",
@@ -81185,6 +81217,14 @@
       "onboard_time": 1742906782,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72900,
+      "num": 72900,
+      "word": "宁艺卓清唱甜蜜蜜",
+      "onboard_time": 1743351680,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 72880,
@@ -83307,6 +83347,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 63426,
+      "num": 63426,
+      "word": "鸿蒙微信重磅更新",
+      "onboard_time": 1743349581,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 63399,
       "num": 1192696,
       "word": "当中国古建邂逅春光",
@@ -83537,6 +83585,14 @@
       "onboard_time": 1742214384,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62529,
+      "num": 62529,
+      "word": "广西不止有山水和螺蛳粉",
+      "onboard_time": 1743350120,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 62472,
@@ -84945,6 +85001,14 @@
       "onboard_time": 1741325664,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 56346,
+      "num": 228968,
+      "word": "幸存者在废墟外呼唤被困亲人名字",
+      "onboard_time": 1743349222,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56344,
