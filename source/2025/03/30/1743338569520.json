@@ -1,0 +1,410 @@
+{
+  "runTime": 1743338569520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1785432,
+        "num": 1785432,
+        "word": "央视入股爱奇艺",
+        "onboard_time": 1743334762,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 646855,
+        "num": 646855,
+        "word": "淮水竹亭",
+        "onboard_time": 1743331522,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24406,
+        "num": 623769,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 610370,
+        "num": 610370,
+        "word": "陈都灵 金枝",
+        "onboard_time": 1743334762,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420193,
+        "num": 420193,
+        "word": "大使馆回应多名中国人护照被埋",
+        "onboard_time": 1743330981,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 353179,
+        "num": 353179,
+        "word": "缅甸多名华人护照被埋无法自由行动",
+        "onboard_time": 1743334103,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 348571,
+        "num": 348571,
+        "word": "日本第11轮核污染水排海结束",
+        "onboard_time": 1743326901,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 341491,
+        "num": 341491,
+        "word": "苦尽柑来遇见你 张家界",
+        "onboard_time": 1743323122,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331320,
+        "num": 331320,
+        "word": "缅甸地震已致1700人死亡",
+        "onboard_time": 1743320839,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 64432,
+        "num": 325377,
+        "word": "机器人为三月三练上山歌了",
+        "onboard_time": 1743337822,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596517,
+        "num": 323448,
+        "word": "黄轩晒与女友牵手照",
+        "onboard_time": 1743333923,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494256,
+        "num": 318888,
+        "word": "双胞胎当了1年朋友才发现是亲姐妹",
+        "onboard_time": 1743312868,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398515,
+        "num": 310174,
+        "word": "偶遇俞灏明王晓晨穿着情侣装吃饭",
+        "onboard_time": 1743334822,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345428,
+        "num": 307287,
+        "word": "偶遇李现买汉堡",
+        "onboard_time": 1743335302,
+        "rank": 13,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 301314,
+        "num": 301314,
+        "word": "美的已清仓小米股票",
+        "onboard_time": 1743332721,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 266330,
+        "num": 266330,
+        "word": "全红婵跳水世界杯只报一项",
+        "onboard_time": 1743336502,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229768,
+        "num": 229768,
+        "word": "迪丽热巴网宣组发文",
+        "onboard_time": 1743330741,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204255,
+        "num": 216977,
+        "word": "成龙御用反派去世",
+        "onboard_time": 1743338123,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187674,
+        "num": 215561,
+        "word": "余宇涵古装白发",
+        "onboard_time": 1743338360,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25147,
+        "num": 214614,
+        "word": "狼队轮换状态",
+        "onboard_time": 1743338061,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214527,
+        "num": 214527,
+        "word": "缅甸幸存者握母亲冰冷的手含泪告别",
+        "onboard_time": 1743336800,
+        "rank": 20,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 200641,
+        "num": 200641,
+        "word": "王智 百亿影帝严选",
+        "onboard_time": 1743335962,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183030,
+        "num": 183030,
+        "word": "傅云夕完全变成庄寒雁的狗了",
+        "onboard_time": 1743334942,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170508,
+        "num": 170508,
+        "word": "权志龙演唱会",
+        "onboard_time": 1743332902,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169441,
+        "num": 169441,
+        "word": "AG对战TTG",
+        "onboard_time": 1743338182,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169007,
+        "num": 169007,
+        "word": "雁回时 吕秀才",
+        "onboard_time": 1743337462,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165022,
+        "num": 165022,
+        "word": "创造营亚洲",
+        "onboard_time": 1743335541,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158926,
+        "num": 158926,
+        "word": "首款无激素男性避孕药或将问世",
+        "onboard_time": 1743320301,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156467,
+        "num": 156467,
+        "word": "米卡送了欧阳娜娜黑皮kitty",
+        "onboard_time": 1743331761,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147363,
+        "num": 147363,
+        "word": "辣目洋子辣眼版还珠格格",
+        "onboard_time": 1743330500,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183608,
+        "num": 147230,
+        "word": "台媒称中国驰援缅甸有3大黑科技",
+        "onboard_time": 1743337882,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145956,
+        "num": 145956,
+        "word": "儿子被父亲送进精神病院17年",
+        "onboard_time": 1743332422,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137323,
+        "num": 137323,
+        "word": "宋亚轩发博庆单曲破纪录",
+        "onboard_time": 1743336863,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135637,
+        "num": 135637,
+        "word": "选手吐槽武当山越野赛发临期食品",
+        "onboard_time": 1743335962,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135397,
+        "num": 135397,
+        "word": "棋士第8集封神",
+        "onboard_time": 1743334522,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133196,
+        "num": 133196,
+        "word": "邓萃雯没有功劳也有苦劳",
+        "onboard_time": 1743335722,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132303,
+        "num": 132303,
+        "word": "张小婉送给管乐的礼物是来时路照片",
+        "onboard_time": 1743334221,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127331,
+        "num": 127331,
+        "word": "iPhone截图的隐藏功能",
+        "onboard_time": 1743317902,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127093,
+        "num": 127093,
+        "word": "谁说CP不火剧就爆不了",
+        "onboard_time": 1743333742,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126760,
+        "num": 126760,
+        "word": "乙肝治疗将进入功能性治愈时代",
+        "onboard_time": 1743323780,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121982,
+        "num": 121982,
+        "word": "多个互联网大厂明天发年终奖",
+        "onboard_time": 1743331702,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121734,
+        "num": 121734,
+        "word": "Gumayusi说Tian太菜了",
+        "onboard_time": 1743330082,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119705,
+        "num": 119705,
+        "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
+        "onboard_time": 1743320839,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119643,
+        "num": 119643,
+        "word": "雁回时",
+        "onboard_time": 1743330021,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118380,
+        "num": 118380,
+        "word": "韩安冉回应与婆婆矛盾",
+        "onboard_time": 1743323721,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 110397,
+        "num": 110397,
+        "word": "运动半小时以上才能分解脂肪",
+        "onboard_time": 1743338243,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 107953,
+        "num": 107953,
+        "word": "玉渊谭偶遇宋轶",
+        "onboard_time": 1743338482,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102012,
+        "num": 102012,
+        "word": "刘亦菲说能和观众共鸣是非常幸福的事",
+        "onboard_time": 1743338423,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101136,
+        "num": 101136,
+        "word": "林钟勋申裕斌混双夺冠",
+        "onboard_time": 1743326961,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64674,
+        "num": 100755,
+        "word": "乌克兰计划组建太空部队",
+        "onboard_time": 1743336381,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}
