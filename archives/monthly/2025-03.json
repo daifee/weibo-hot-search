@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743355234222,
+  "endTime": 1743356280478,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -88091,6 +88091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43840,
+      "num": 43840,
+      "word": "金枝",
+      "onboard_time": 1743354797,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43819,
       "num": 455950,
       "word": "王艺迪vs徐孝元",
@@ -90433,14 +90441,6 @@
       "onboard_time": 1741597522,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36441,
-      "num": 36441,
-      "word": "金枝",
-      "onboard_time": 1743354797,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 36340,
@@ -97281,6 +97281,14 @@
       "onboard_time": 1741719014,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14281,
+      "num": 39822,
+      "word": "中国国际救援队118人紧急集结赴缅甸",
+      "onboard_time": 1743355876,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14170,
