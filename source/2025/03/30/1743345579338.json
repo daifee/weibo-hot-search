@@ -1,0 +1,410 @@
+{
+  "runTime": 1743345579338,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1993962,
+        "num": 1993962,
+        "word": "汤加群岛7.3级地震",
+        "onboard_time": 1743339381,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 957375,
+        "num": 957375,
+        "word": "小米造出了我15年前想要的相机",
+        "onboard_time": 1743340342,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 66529,
+        "num": 820815,
+        "word": "4分钟感受广西的好嘢",
+        "onboard_time": 1743342023,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716897,
+        "num": 716897,
+        "word": "湖南卫视连发20条迪丽热巴",
+        "onboard_time": 1743340761,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 667926,
+        "num": 667926,
+        "word": "广东高州地震监控画面",
+        "onboard_time": 1743344303,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 632251,
+        "num": 632251,
+        "word": "广东高州3.0级地震",
+        "onboard_time": 1743339861,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 467988,
+        "num": 467988,
+        "word": "张本美和女单夺冠",
+        "onboard_time": 1743338903,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378530,
+        "num": 378530,
+        "word": "成龙御用反派去世",
+        "onboard_time": 1743338123,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308721,
+        "num": 308721,
+        "word": "汤加群岛地震可能引发海啸",
+        "onboard_time": 1743340222,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 206346,
+        "num": 308594,
+        "word": "全国下周统一发放正常春天",
+        "onboard_time": 1743342563,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1788431,
+        "num": 307973,
+        "word": "祝绪丹忍得很辛苦吧",
+        "onboard_time": 1743341363,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 765367,
+        "num": 307536,
+        "word": "贾乃亮甜馨逛三亚夜市vlog",
+        "onboard_time": 1743343463,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425102,
+        "num": 307194,
+        "word": "双胞胎当了1年朋友才发现是亲姐妹",
+        "onboard_time": 1743312868,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354747,
+        "num": 307020,
+        "word": "雁回时之魔童降世",
+        "onboard_time": 1743343223,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306667,
+        "num": 306667,
+        "word": "吴彦祖发文谴责飞机上光脚踩座椅乘客",
+        "onboard_time": 1743344963,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289375,
+        "num": 289375,
+        "word": "马拉松经济开始入侵县城",
+        "onboard_time": 1743342924,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285433,
+        "num": 285433,
+        "word": "缅甸地震已致1700人死亡",
+        "onboard_time": 1743320839,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 278578,
+        "num": 278578,
+        "word": "爱思 点菜",
+        "onboard_time": 1743342684,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 259519,
+        "num": 259519,
+        "word": "陈都灵 金枝",
+        "onboard_time": 1743334762,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46578,
+        "num": 253268,
+        "word": "入室抢婴贩卖案受害者家属发声",
+        "onboard_time": 1743345263,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275476,
+        "num": 253139,
+        "word": "朱志鑫 单人照",
+        "onboard_time": 1743344543,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251240,
+        "num": 251240,
+        "word": "单依纯演唱会上的高定造型",
+        "onboard_time": 1743342684,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248188,
+        "num": 248188,
+        "word": "苦尽柑来遇见你 张家界",
+        "onboard_time": 1743323122,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243949,
+        "num": 243949,
+        "word": "不建议去死水游泳馆里游泳的原因",
+        "onboard_time": 1743340701,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 69952,
+        "num": 238203,
+        "word": "街道办强拆试剂厂被判赔506万后续",
+        "onboard_time": 1743343703,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233623,
+        "num": 233623,
+        "word": "金秀贤将召开记者会",
+        "onboard_time": 1743345202,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221815,
+        "num": 221815,
+        "word": "缅甸华人称一家五口仅2孩子逃生",
+        "onboard_time": 1743343885,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 206413,
+        "num": 206413,
+        "word": "玉渊潭偶遇宋轶",
+        "onboard_time": 1743338482,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202731,
+        "num": 202731,
+        "word": "迪士尼偶遇戚薇李承铉一家三口",
+        "onboard_time": 1743344003,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181051,
+        "num": 181051,
+        "word": "淮水竹亭",
+        "onboard_time": 1743331522,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179268,
+        "num": 179268,
+        "word": "黄轩晒与女友牵手照",
+        "onboard_time": 1743333923,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153508,
+        "num": 153508,
+        "word": "台媒称中国驰援缅甸有3大黑科技",
+        "onboard_time": 1743337882,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151217,
+        "num": 151217,
+        "word": "淮水竹亭配角全员升咖",
+        "onboard_time": 1743342084,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147632,
+        "num": 147632,
+        "word": "运动半小时以上才能分解脂肪",
+        "onboard_time": 1743338243,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 141667,
+        "num": 141667,
+        "word": "雁回时苗贵妃自缢",
+        "onboard_time": 1743342443,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138072,
+        "num": 138072,
+        "word": "王一博赛车断层登顶微指",
+        "onboard_time": 1743341662,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137027,
+        "num": 137027,
+        "word": "缅甸多名华人护照被埋无法自由行动",
+        "onboard_time": 1743334103,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 136307,
+        "num": 136307,
+        "word": "LGD春季赛第五周冠军",
+        "onboard_time": 1743345083,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132144,
+        "num": 132144,
+        "word": "刘忻的裙子是用衣服做的吗",
+        "onboard_time": 1743342983,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131503,
+        "num": 131503,
+        "word": "全红婵跳水世界杯只报一项",
+        "onboard_time": 1743336502,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129566,
+        "num": 129566,
+        "word": "陈哲远 看我行不行",
+        "onboard_time": 1743341903,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129407,
+        "num": 129407,
+        "word": "吴宣仪王权醉横屏剧照",
+        "onboard_time": 1743344782,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128755,
+        "num": 128755,
+        "word": "男子被拉布拉多毫无预兆咬一口",
+        "onboard_time": 1743339563,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123168,
+        "num": 123168,
+        "word": "2架运20飞赴缅甸",
+        "onboard_time": 1743341662,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 122199,
+        "num": 122199,
+        "word": "缅甸幸存者握母亲冰冷的手含泪告别",
+        "onboard_time": 1743336800,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 120474,
+        "num": 120474,
+        "word": "姚晨侯雯元对手戏",
+        "onboard_time": 1743345323,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119678,
+        "num": 119678,
+        "word": "日本第11轮核污染水排海结束",
+        "onboard_time": 1743326901,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117676,
+        "num": 117676,
+        "word": "结婚前求婚是必要的吗",
+        "onboard_time": 1743339923,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117572,
+        "num": 117572,
+        "word": "权志龙演唱会",
+        "onboard_time": 1743332902,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115149,
+        "num": 115149,
+        "word": "AJ贴脸开团Doinb",
+        "onboard_time": 1743338603,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}
