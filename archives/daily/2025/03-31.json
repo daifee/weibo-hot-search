@@ -1,7 +1,15 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743374343784,
+  "endTime": 1743376970457,
   "band_list": [
+    {
+      "raw_hot": 1064378,
+      "num": 1064378,
+      "word": "第四代住宅来了",
+      "onboard_time": 1743348802,
+      "rank": 1,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 972290,
       "num": 487250,
@@ -9,14 +17,6 @@
       "onboard_time": 1743344963,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 868295,
-      "num": 868295,
-      "word": "第四代住宅来了",
-      "onboard_time": 1743348802,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 853140,
@@ -33,6 +33,14 @@
       "onboard_time": 1743341363,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 574283,
+      "num": 574283,
+      "word": "赴缅甸中国公羊救援队发声",
+      "onboard_time": 1743359954,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 454305,
@@ -73,14 +81,6 @@
       "onboard_time": 1743346643,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 269969,
-      "num": 269969,
-      "word": "赴缅甸中国公羊救援队发声",
-      "onboard_time": 1743359954,
-      "rank": 23,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 254999,
@@ -131,6 +131,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 176589,
+      "num": 176589,
+      "word": "金秀贤记者会不回答问题",
+      "onboard_time": 1743348621,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168848,
+      "num": 168848,
+      "word": "李梦可以一天三顿都吃老友粉",
+      "onboard_time": 1743368353,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161003,
       "num": 161003,
       "word": "陈都灵 金枝",
@@ -168,14 +184,6 @@
       "word": "朱志鑫 单人照",
       "onboard_time": 1743344543,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 141115,
-      "num": 124686,
-      "word": "金秀贤记者会不回答问题",
-      "onboard_time": 1743348621,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -227,12 +235,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 98859,
-      "num": 98859,
+      "raw_hot": 101365,
+      "num": 101365,
       "word": "张本美和女单夺冠",
       "onboard_time": 1743338903,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97920,
+      "num": 97920,
+      "word": "雪雪雪成都雪雪雪",
+      "onboard_time": 1743373635,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94119,
@@ -243,20 +259,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93730,
-      "num": 58286,
-      "word": "李梦可以一天三顿都吃老友粉",
-      "onboard_time": 1743368353,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93072,
       "num": 105315,
       "word": "创亚2总决赛歌单有twice",
       "onboard_time": 1743349041,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91428,
+      "num": 176901,
+      "word": "特朗普威胁轰炸伊朗",
+      "onboard_time": 1743376157,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88871,
@@ -273,6 +289,14 @@
       "onboard_time": 1743339861,
       "rank": 33,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 84930,
+      "num": 102552,
+      "word": "父母恩爱的孩子恋爱观更清醒",
+      "onboard_time": 1743371294,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 84327,
@@ -331,6 +355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 73857,
+      "num": 73857,
+      "word": "全职妈妈离婚获2万元经济补偿",
+      "onboard_time": 1743354737,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73847,
       "num": 73847,
       "word": "缅籍华人父母被埋哽咽受访",
@@ -364,11 +396,19 @@
     },
     {
       "raw_hot": 69776,
-      "num": 84777,
+      "num": 93643,
       "word": "傅云夕完全变成庄寒雁的狗了",
       "onboard_time": 1743334942,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69728,
+      "num": 69728,
+      "word": "缅籍华人哽咽说救援人员太少了",
+      "onboard_time": 1743374897,
+      "rank": 34,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 69495,
@@ -427,12 +467,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 62049,
+      "num": 98186,
+      "word": "美国被曝长期全方位介入俄乌冲突",
+      "onboard_time": 1743376698,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 60083,
+      "num": 94400,
+      "word": "念无双有效播放量破5000万",
+      "onboard_time": 1743362834,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57898,
       "num": 57898,
       "word": "被小西天的极繁美学震撼到",
       "onboard_time": 1743352519,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 56380,
+      "num": 94782,
+      "word": "中国救援队救出一被困近60小时女性",
+      "onboard_time": 1743376637,
+      "rank": 24,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 56346,
@@ -443,6 +507,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54694,
+      "num": 61385,
+      "word": "缅甸一少年被埋获救送医途中去世",
+      "onboard_time": 1743358755,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 53945,
+      "num": 53945,
+      "word": "3月最后一天",
+      "onboard_time": 1743376698,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52620,
+      "num": 138696,
+      "word": "中国人在缅甸受灾最严重地区救人",
+      "onboard_time": 1743376397,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 52613,
       "num": 52613,
       "word": "爱思 点菜",
@@ -451,11 +539,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 49277,
-      "num": 61385,
-      "word": "缅甸一少年被埋获救送医途中去世",
-      "onboard_time": 1743358755,
-      "rank": 9,
+      "raw_hot": 50621,
+      "num": 93954,
+      "word": "我的后半生开播",
+      "onboard_time": 1743339743,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 49485,
+      "num": 49485,
+      "word": "实探地震后的瑞丽珠宝玉石市场",
+      "onboard_time": 1743364214,
+      "rank": 43,
       "category": "突发/灾害"
     },
     {
@@ -491,44 +587,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36052,
-      "num": 36052,
-      "word": "全职妈妈离婚获2万元经济补偿",
-      "onboard_time": 1743354737,
+      "raw_hot": 34131,
+      "num": 49241,
+      "word": "PCL2025",
+      "onboard_time": 1743376758,
       "rank": 45,
-      "category": "民生新闻"
+      "category": "电竞"
     },
     {
-      "raw_hot": 32984,
-      "num": 50787,
-      "word": "父母恩爱的孩子恋爱观更清醒",
-      "onboard_time": 1743371294,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 30288,
+      "num": 49139,
+      "word": "伊朗拒绝与美国直接谈判",
+      "onboard_time": 1743376939,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 31996,
-      "num": 38009,
-      "word": "念无双有效播放量破5000万",
-      "onboard_time": 1743362834,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 29666,
-      "num": 29666,
-      "word": "实探地震后的瑞丽珠宝玉石市场",
-      "onboard_time": 1743364214,
-      "rank": 43,
+      "raw_hot": 30269,
+      "num": 49107,
+      "word": "缅甸大学生感谢中国救援队第一个赶来",
+      "onboard_time": 1743363074,
+      "rank": 38,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 25187,
-      "num": 29639,
-      "word": "雪雪雪成都雪雪雪",
-      "onboard_time": 1743373635,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22961,
@@ -536,14 +616,6 @@
       "word": "在缅中国人称震后联系家人手在抖",
       "onboard_time": 1743366913,
       "rank": 39,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 20615,
-      "num": 29628,
-      "word": "缅甸大学生感谢中国救援队第一个赶来",
-      "onboard_time": 1743363074,
-      "rank": 38,
       "category": "突发/灾害"
     },
     {
@@ -603,8 +675,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 4597,
-      "num": 185259,
+      "raw_hot": 5923,
+      "num": 331510,
       "word": "2025中国网络媒体论坛",
       "onboard_time": 1743221722,
       "rank": 2,

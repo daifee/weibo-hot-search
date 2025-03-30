@@ -1,0 +1,410 @@
+{
+  "runTime": 1743376970457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1064378,
+        "num": 1064378,
+        "word": "第四代住宅来了",
+        "onboard_time": 1743348802,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 574283,
+        "num": 574283,
+        "word": "赴缅甸中国公羊救援队发声",
+        "onboard_time": 1743359954,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 5923,
+        "num": 331510,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 758167,
+        "num": 322730,
+        "word": "吴彦祖发文谴责飞机上光脚踩座椅乘客",
+        "onboard_time": 1743344963,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256734,
+        "num": 256734,
+        "word": "汤加群岛7.3级地震",
+        "onboard_time": 1743339381,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 203806,
+        "num": 203806,
+        "word": "缅甸华人称一家五口仅2孩子逃生",
+        "onboard_time": 1743343885,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 201694,
+        "num": 201694,
+        "word": "一全职妈妈离婚获2万元经济补偿",
+        "onboard_time": 1743346643,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184953,
+        "num": 184953,
+        "word": "减脂食谱里为什么永远有西兰花",
+        "onboard_time": 1743346521,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106391,
+        "num": 178690,
+        "word": "湖南卫视连发20条迪丽热巴",
+        "onboard_time": 1743340761,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91428,
+        "num": 176901,
+        "word": "特朗普威胁轰炸伊朗",
+        "onboard_time": 1743376157,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 389399,
+        "num": 176820,
+        "word": "祝绪丹忍得很辛苦吧",
+        "onboard_time": 1743341363,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176589,
+        "num": 176589,
+        "word": "金秀贤记者会不回答问题",
+        "onboard_time": 1743348621,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168848,
+        "num": 168848,
+        "word": "李梦可以一天三顿都吃老友粉",
+        "onboard_time": 1743368353,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160079,
+        "num": 160079,
+        "word": "甲亢哥尊重科比拒绝抽象",
+        "onboard_time": 1743348921,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52620,
+        "num": 138696,
+        "word": "中国人在缅甸受灾最严重地区救人",
+        "onboard_time": 1743376397,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 137129,
+        "num": 137129,
+        "word": "贾乃亮甜馨逛三亚夜市vlog",
+        "onboard_time": 1743343463,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119921,
+        "num": 119921,
+        "word": "李惠利 与世界逆行的女人",
+        "onboard_time": 1743346222,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117151,
+        "num": 117151,
+        "word": "小米造出了我15年前想要的相机",
+        "onboard_time": 1743340342,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84930,
+        "num": 102552,
+        "word": "父母恩爱的孩子恋爱观更清醒",
+        "onboard_time": 1743371294,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77597,
+        "num": 101935,
+        "word": "胡烨韬 我要把名字刻在C位上",
+        "onboard_time": 1743350422,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101365,
+        "num": 101365,
+        "word": "张本美和女单夺冠",
+        "onboard_time": 1743338903,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62049,
+        "num": 98186,
+        "word": "美国被曝长期全方位介入俄乌冲突",
+        "onboard_time": 1743376698,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97920,
+        "num": 97920,
+        "word": "雪雪雪成都雪雪雪",
+        "onboard_time": 1743373635,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94969,
+        "num": 94969,
+        "word": "不建议去死水游泳馆里游泳的原因",
+        "onboard_time": 1743340701,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 56380,
+        "num": 94782,
+        "word": "中国救援队救出一被困近60小时女性",
+        "onboard_time": 1743376637,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 68331,
+        "num": 94743,
+        "word": "甲亢哥到成都了",
+        "onboard_time": 1743349339,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 60083,
+        "num": 94400,
+        "word": "念无双有效播放量破5000万",
+        "onboard_time": 1743362834,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57414,
+        "num": 94274,
+        "word": "成龙御用反派去世",
+        "onboard_time": 1743338123,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50621,
+        "num": 93954,
+        "word": "我的后半生开播",
+        "onboard_time": 1743339743,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49045,
+        "num": 93643,
+        "word": "傅云夕完全变成庄寒雁的狗了",
+        "onboard_time": 1743334942,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93625,
+        "num": 93625,
+        "word": "全国下周统一发放正常春天",
+        "onboard_time": 1743342563,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75008,
+        "num": 75008,
+        "word": "双胞胎当了1年朋友才发现是亲姐妹",
+        "onboard_time": 1743312868,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73857,
+        "num": 73857,
+        "word": "全职妈妈离婚获2万元经济补偿",
+        "onboard_time": 1743354737,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71281,
+        "num": 71281,
+        "word": "广东高州地震监控画面",
+        "onboard_time": 1743344303,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 69728,
+        "num": 69728,
+        "word": "缅籍华人哽咽说救援人员太少了",
+        "onboard_time": 1743374897,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 65191,
+        "num": 65191,
+        "word": "缅甸地震已致1700人死亡",
+        "onboard_time": 1743320839,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 61565,
+        "num": 61565,
+        "word": "台媒称中国驰援缅甸有3大黑科技",
+        "onboard_time": 1743337882,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56749,
+        "num": 56749,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1743345863,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54694,
+        "num": 54694,
+        "word": "缅甸一少年被埋获救送医途中去世",
+        "onboard_time": 1743358755,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 53945,
+        "num": 53945,
+        "word": "3月最后一天",
+        "onboard_time": 1743376698,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49485,
+        "num": 49485,
+        "word": "实探地震后的瑞丽珠宝玉石市场",
+        "onboard_time": 1743364214,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 41570,
+        "num": 49445,
+        "word": "金赛纶雪莉具荷拉的共同点",
+        "onboard_time": 1743347003,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38040,
+        "num": 49418,
+        "word": "被小西天的极繁美学震撼到",
+        "onboard_time": 1743352519,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 37218,
+        "num": 49349,
+        "word": "广东高州3.0级地震",
+        "onboard_time": 1743339861,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 34210,
+        "num": 49316,
+        "word": "AJ贴脸开团Doinb",
+        "onboard_time": 1743338603,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34131,
+        "num": 49241,
+        "word": "PCL2025",
+        "onboard_time": 1743376758,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33113,
+        "num": 49210,
+        "word": "汤加群岛地震可能引发海啸",
+        "onboard_time": 1743340222,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 30288,
+        "num": 49139,
+        "word": "伊朗拒绝与美国直接谈判",
+        "onboard_time": 1743376939,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30269,
+        "num": 49107,
+        "word": "缅甸大学生感谢中国救援队第一个赶来",
+        "onboard_time": 1743363074,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 29630,
+        "num": 49027,
+        "word": "陈都灵 金枝",
+        "onboard_time": 1743334762,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}
