@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743345579338,
+  "endTime": 1743348220104,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2345,6 +2345,14 @@
       "onboard_time": 1741408161,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1679566,
+      "num": 602919,
+      "word": "吴彦祖发文谴责飞机上光脚踩座椅乘客",
+      "onboard_time": 1743344963,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1678045,
@@ -14355,6 +14363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 546338,
+      "num": 243899,
+      "word": "李惠利 与世界逆行的女人",
+      "onboard_time": 1743346222,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 545958,
       "num": 381300,
       "word": "张雅琪官宣入职湖南卫视",
@@ -16841,6 +16857,14 @@
       "onboard_time": 1740752182,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 469007,
+      "num": 469007,
+      "word": "缅甸华人称一家五口仅2孩子逃生",
+      "onboard_time": 1743343885,
+      "rank": 29,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 468668,
@@ -19483,6 +19507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404231,
+      "num": 404231,
+      "word": "全国下周统一发放正常春天",
+      "onboard_time": 1743342563,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404225,
       "num": 404225,
       "word": "江西公积金中心光纤被接连挖断3次",
@@ -19881,6 +19913,14 @@
       "onboard_time": 1741857624,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 396838,
+      "num": 349071,
+      "word": "白桃星座一周运势",
+      "onboard_time": 1742137584,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 396777,
@@ -22507,20 +22547,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 349365,
+      "num": 233623,
+      "word": "金秀贤将召开记者会",
+      "onboard_time": 1743345202,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349100,
       "num": 451531,
       "word": "杨紫家业三次开机",
       "onboard_time": 1742341943,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 349071,
-      "num": 349071,
-      "word": "白桃星座一周运势",
-      "onboard_time": 1742137584,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 349054,
@@ -25227,14 +25267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 306667,
-      "num": 306667,
-      "word": "吴彦祖发文谴责飞机上光脚踩座椅乘客",
-      "onboard_time": 1743344963,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 306633,
       "num": 612366,
       "word": "315当晚9省市连夜执法",
@@ -27224,6 +27256,14 @@
       "word": "赛琳娜低价出售男友送的钻戒",
       "onboard_time": 1742101523,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281787,
+      "num": 221195,
+      "word": "金赛纶雪莉具荷拉的共同点",
+      "onboard_time": 1743347003,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -32179,14 +32219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233623,
-      "num": 233623,
-      "word": "金秀贤将召开记者会",
-      "onboard_time": 1743345202,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233599,
       "num": 226752,
       "word": "房琪在浪姐接私活",
@@ -34019,14 +34051,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 221815,
-      "num": 221815,
-      "word": "缅甸华人称一家五口仅2孩子逃生",
-      "onboard_time": 1743343885,
-      "rank": 29,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 221646,
       "num": 221646,
       "word": "减肥管不住嘴试试这个方法",
@@ -34657,6 +34681,14 @@
       "onboard_time": 1742037384,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217851,
+      "num": 181876,
+      "word": "一全职妈妈离婚获2万元经济补偿",
+      "onboard_time": 1743346643,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217848,
@@ -37033,14 +37065,6 @@
       "onboard_time": 1742015364,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206346,
-      "num": 308594,
-      "word": "全国下周统一发放正常春天",
-      "onboard_time": 1743342563,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206337,
@@ -41849,6 +41873,14 @@
       "onboard_time": 1742459543,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 190297,
+      "num": 190297,
+      "word": "胡兵 陈楚生站哥",
+      "onboard_time": 1743347061,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 190280,
@@ -47609,6 +47641,14 @@
       "onboard_time": 1741788445,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 169528,
+      "num": 249411,
+      "word": "今天的记录是给未来的礼物",
+      "onboard_time": 1743347003,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 169523,
@@ -54227,6 +54267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151228,
+      "num": 253268,
+      "word": "入室抢婴贩卖案受害者家属发声",
+      "onboard_time": 1743345263,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151212,
       "num": 151212,
       "word": "中国新一代电磁枪曝光",
@@ -56195,6 +56243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146023,
+      "num": 146023,
+      "word": "Faye曼谷见面会",
+      "onboard_time": 1743347543,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146006,
       "num": 146006,
       "word": "问界新M5Ultra价格",
@@ -56507,6 +56563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145430,
+      "num": 145430,
+      "word": "张萌说九重紫爽雁回时刺激",
+      "onboard_time": 1743347362,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145410,
       "num": 145410,
       "word": "瞿颖送胡兵的生日礼物终于兑现了",
@@ -56625,6 +56689,14 @@
       "onboard_time": 1742464763,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144994,
+      "num": 144994,
+      "word": "减脂食谱里为什么永远有西兰花",
+      "onboard_time": 1743346521,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144990,
@@ -61505,6 +61577,14 @@
       "onboard_time": 1741607005,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132207,
+      "num": 132207,
+      "word": "徐梦桃夺银",
+      "onboard_time": 1743345563,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 132191,
@@ -74963,6 +75043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 97935,
+      "num": 145597,
+      "word": "林一我没时间跟你闹了",
+      "onboard_time": 1743346762,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97922,
       "num": 547231,
       "word": "缅甸曼德勒一清真寺坍塌10人丧生",
@@ -75603,6 +75691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96322,
+      "num": 96322,
+      "word": "入室抢婴贩卖案孩子奶奶发声",
+      "onboard_time": 1743348023,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96316,
       "num": 96316,
       "word": "杨紫在千岛湖开心下班",
@@ -75641,6 +75737,14 @@
       "onboard_time": 1741568482,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 96069,
+      "num": 96069,
+      "word": "姚晨新剧句句有回应事事不答应",
+      "onboard_time": 1743348201,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 96067,
@@ -76281,6 +76385,14 @@
       "onboard_time": 1741336582,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 93776,
+      "num": 93776,
+      "word": "周深为了卡点定时了",
+      "onboard_time": 1743348201,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 93775,
@@ -84531,6 +84643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57244,
+      "num": 191534,
+      "word": "中国男子三人篮球创造历史",
+      "onboard_time": 1743347902,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57230,
       "num": 159052,
       "word": "在河南郑州把烧烤吃到爽",
@@ -87179,14 +87299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46578,
-      "num": 253268,
-      "word": "入室抢婴贩卖案受害者家属发声",
-      "onboard_time": 1743345263,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46577,
       "num": 227316,
       "word": "巴萨3比1本菲卡",
@@ -88121,6 +88233,14 @@
       "onboard_time": 1741577721,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42925,
+      "num": 180571,
+      "word": "成龙悼念理查德诺顿",
+      "onboard_time": 1743348082,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 42916,
@@ -90145,6 +90265,14 @@
       "onboard_time": 1741561217,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36580,
+      "num": 235371,
+      "word": "各地中学生二手烟暴露率",
+      "onboard_time": 1743347124,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36576,

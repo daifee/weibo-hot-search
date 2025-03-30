@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743345579338,
+  "endTime": 1743348220104,
   "band_list": [
     {
       "raw_hot": 3126539,
@@ -73,6 +73,14 @@
       "onboard_time": 1743312868,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1679566,
+      "num": 602919,
+      "word": "吴彦祖发文谴责飞机上光脚踩座椅乘客",
+      "onboard_time": 1743344963,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1674202,
@@ -451,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 546338,
+      "num": 243899,
+      "word": "李惠利 与世界逆行的女人",
+      "onboard_time": 1743346222,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 539116,
       "num": 407954,
       "word": "辛巴疑似怒怼韦雪",
@@ -529,6 +545,14 @@
       "onboard_time": 1743303930,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 469007,
+      "num": 469007,
+      "word": "缅甸华人称一家五口仅2孩子逃生",
+      "onboard_time": 1743343885,
+      "rank": 29,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 465188,
@@ -635,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404231,
+      "num": 404231,
+      "word": "全国下周统一发放正常春天",
+      "onboard_time": 1743342563,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 403881,
       "num": 403881,
       "word": "全红婵跳水世界杯只报一项",
@@ -665,6 +697,14 @@
       "onboard_time": 1743334822,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396838,
+      "num": 236080,
+      "word": "白桃星座一周运势",
+      "onboard_time": 1743345863,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 396224,
@@ -771,6 +811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 349365,
+      "num": 233623,
+      "word": "金秀贤将召开记者会",
+      "onboard_time": 1743345202,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348387,
       "num": 348387,
       "word": "辣目洋子辣眼版还珠格格",
@@ -851,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306667,
-      "num": 306667,
-      "word": "吴彦祖发文谴责飞机上光脚踩座椅乘客",
-      "onboard_time": 1743344963,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304490,
       "num": 261636,
       "word": "珊瑚海姐学时间线",
@@ -929,6 +969,14 @@
       "onboard_time": 1743318741,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 281787,
+      "num": 221195,
+      "word": "金赛纶雪莉具荷拉的共同点",
+      "onboard_time": 1743347003,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 279834,
@@ -1115,14 +1163,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 233623,
-      "num": 233623,
-      "word": "金秀贤将召开记者会",
-      "onboard_time": 1743345202,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233032,
       "num": 233032,
       "word": "起猛了以为张国立上恋综了",
@@ -1179,20 +1219,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 221815,
-      "num": 221815,
-      "word": "缅甸华人称一家五口仅2孩子逃生",
-      "onboard_time": 1743343885,
-      "rank": 29,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 218739,
       "num": 218739,
       "word": "旅行青蛙",
       "onboard_time": 1743294799,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217851,
+      "num": 181876,
+      "word": "一全职妈妈离婚获2万元经济补偿",
+      "onboard_time": 1743346643,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217404,
@@ -1323,14 +1363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 206346,
-      "num": 308594,
-      "word": "全国下周统一发放正常春天",
-      "onboard_time": 1743342563,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206145,
       "num": 206145,
       "word": "减脂期需要避雷的6种食物",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1743341662,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190297,
+      "num": 190297,
+      "word": "胡兵 陈楚生站哥",
+      "onboard_time": 1743347061,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 189893,
@@ -1625,6 +1665,14 @@
       "onboard_time": 1743324621,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169528,
+      "num": 249411,
+      "word": "今天的记录是给未来的礼物",
+      "onboard_time": 1743347003,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 168463,
@@ -1899,6 +1947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 151228,
+      "num": 253268,
+      "word": "入室抢婴贩卖案受害者家属发声",
+      "onboard_time": 1743345263,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150760,
       "num": 150760,
       "word": "陈哲远 看我行不行",
@@ -1955,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146023,
+      "num": 146023,
+      "word": "Faye曼谷见面会",
+      "onboard_time": 1743347543,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145781,
       "num": 145781,
       "word": "何泓姗满38减20",
@@ -1963,12 +2027,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145430,
+      "num": 145430,
+      "word": "张萌说九重紫爽雁回时刺激",
+      "onboard_time": 1743347362,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145226,
       "num": 195682,
       "word": "12名中国公民在缅甸地震中受伤",
       "onboard_time": 1743306329,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144994,
+      "num": 144994,
+      "word": "减脂食谱里为什么永远有西兰花",
+      "onboard_time": 1743346521,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144699,
@@ -2153,6 +2233,14 @@
       "onboard_time": 1743334221,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132207,
+      "num": 132207,
+      "word": "徐梦桃夺银",
+      "onboard_time": 1743345563,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 131390,
@@ -2715,6 +2803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97935,
+      "num": 145597,
+      "word": "林一我没时间跟你闹了",
+      "onboard_time": 1743346762,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97670,
       "num": 97670,
       "word": "2025男子冰壶世锦赛",
@@ -2747,6 +2843,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 96322,
+      "num": 96322,
+      "word": "入室抢婴贩卖案孩子奶奶发声",
+      "onboard_time": 1743348023,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96069,
+      "num": 96069,
+      "word": "姚晨新剧句句有回应事事不答应",
+      "onboard_time": 1743348201,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95024,
       "num": 95024,
       "word": "尤长靖扯领带这一下好拽",
@@ -2777,6 +2889,14 @@
       "onboard_time": 1743325101,
       "rank": 40,
       "category": "作品衍生,作品衍生"
+    },
+    {
+      "raw_hot": 93776,
+      "num": 93776,
+      "word": "周深为了卡点定时了",
+      "onboard_time": 1743348201,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 92024,
@@ -3099,6 +3219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57244,
+      "num": 191534,
+      "word": "中国男子三人篮球创造历史",
+      "onboard_time": 1743347902,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56113,
       "num": 56113,
       "word": "卫星照片显示内比都机场塔台倒塌",
@@ -3147,14 +3275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46578,
-      "num": 253268,
-      "word": "入室抢婴贩卖案受害者家属发声",
-      "onboard_time": 1743345263,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45231,
       "num": 216013,
       "word": "缅甸救灾面临电信中断等多重挑战",
@@ -3169,6 +3289,14 @@
       "onboard_time": 1743329720,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42925,
+      "num": 180571,
+      "word": "成龙悼念理查德诺顿",
+      "onboard_time": 1743348082,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 37940,
@@ -3209,6 +3337,14 @@
       "onboard_time": 1743316101,
       "rank": 22,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 36580,
+      "num": 235371,
+      "word": "各地中学生二手烟暴露率",
+      "onboard_time": 1743347124,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35353,
