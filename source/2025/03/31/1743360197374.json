@@ -1,0 +1,410 @@
+{
+  "runTime": 1743360197374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 255841,
+        "num": 255841,
+        "word": "第四代住宅来了",
+        "onboard_time": 1743348802,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141787,
+        "num": 141787,
+        "word": "汤加群岛7.3级地震",
+        "onboard_time": 1743339381,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 3338,
+        "num": 77703,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179003,
+        "num": 76213,
+        "word": "吴彦祖发文谴责飞机上光脚踩座椅乘客",
+        "onboard_time": 1743344963,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73847,
+        "num": 73847,
+        "word": "缅籍华人父母被埋哽咽受访",
+        "onboard_time": 1743357555,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73689,
+        "num": 73689,
+        "word": "小米造出了我15年前想要的相机",
+        "onboard_time": 1743340342,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72042,
+        "num": 72042,
+        "word": "胡烨韬 我要把名字刻在C位上",
+        "onboard_time": 1743350422,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64473,
+        "num": 64473,
+        "word": "甲亢哥尊重科比拒绝抽象",
+        "onboard_time": 1743348921,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53772,
+        "num": 53772,
+        "word": "缅甸华人称一家五口仅2孩子逃生",
+        "onboard_time": 1743343885,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 50826,
+        "num": 50826,
+        "word": "一全职妈妈离婚获2万元经济补偿",
+        "onboard_time": 1743346643,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169064,
+        "num": 50646,
+        "word": "祝绪丹忍得很辛苦吧",
+        "onboard_time": 1743341363,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78937,
+        "num": 50630,
+        "word": "李惠利 与世界逆行的女人",
+        "onboard_time": 1743346222,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49965,
+        "num": 49965,
+        "word": "广东高州地震监控画面",
+        "onboard_time": 1743344303,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 47352,
+        "num": 47352,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1743352218,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46545,
+        "num": 46545,
+        "word": "贾乃亮甜馨逛三亚夜市vlog",
+        "onboard_time": 1743343463,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42889,
+        "num": 42889,
+        "word": "缅甸一少年被埋获救送医途中去世",
+        "onboard_time": 1743358755,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 41479,
+        "num": 41479,
+        "word": "缅甸地震已致1700人死亡",
+        "onboard_time": 1743320839,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 41362,
+        "num": 41362,
+        "word": "减脂食谱里为什么永远有西兰花",
+        "onboard_time": 1743346521,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40150,
+        "num": 40150,
+        "word": "湖南卫视连发20条迪丽热巴",
+        "onboard_time": 1743340761,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37348,
+        "num": 37348,
+        "word": "陈都灵 金枝",
+        "onboard_time": 1743334762,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34307,
+        "num": 34307,
+        "word": "不建议去死水游泳馆里游泳的原因",
+        "onboard_time": 1743340701,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 34213,
+        "num": 34213,
+        "word": "全国下周统一发放正常春天",
+        "onboard_time": 1743342563,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34016,
+        "num": 34016,
+        "word": "金秀贤将召开记者会",
+        "onboard_time": 1743345202,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11990,
+        "num": 30644,
+        "word": "赴缅甸中国公羊救援队发声",
+        "onboard_time": 1743359954,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 28062,
+        "num": 28062,
+        "word": "广东高州3.0级地震",
+        "onboard_time": 1743339861,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 27882,
+        "num": 27882,
+        "word": "权志龙演唱会",
+        "onboard_time": 1743332902,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27798,
+        "num": 27798,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1743345863,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27554,
+        "num": 27554,
+        "word": "金赛纶雪莉具荷拉的共同点",
+        "onboard_time": 1743347003,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25349,
+        "num": 26217,
+        "word": "甲亢哥到成都了",
+        "onboard_time": 1743349339,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24135,
+        "num": 25707,
+        "word": "成龙御用反派去世",
+        "onboard_time": 1743338123,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25627,
+        "num": 25627,
+        "word": "汤加群岛地震可能引发海啸",
+        "onboard_time": 1743340222,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 25316,
+        "num": 25316,
+        "word": "双胞胎当了1年朋友才发现是亲姐妹",
+        "onboard_time": 1743312868,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23749,
+        "num": 23749,
+        "word": "张本美和女单夺冠",
+        "onboard_time": 1743338903,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23363,
+        "num": 23363,
+        "word": "金秀贤记者会不回答问题",
+        "onboard_time": 1743348621,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23145,
+        "num": 23145,
+        "word": "爱思 点菜",
+        "onboard_time": 1743342684,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22252,
+        "num": 22252,
+        "word": "全职妈妈离婚获2万元经济补偿",
+        "onboard_time": 1743354737,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21572,
+        "num": 21572,
+        "word": "金枝",
+        "onboard_time": 1743354797,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21510,
+        "num": 21510,
+        "word": "AJ贴脸开团Doinb",
+        "onboard_time": 1743338603,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21482,
+        "num": 21482,
+        "word": "沈月淮水竹亭剧照",
+        "onboard_time": 1743354977,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21445,
+        "num": 21445,
+        "word": "台媒称中国驰援缅甸有3大黑科技",
+        "onboard_time": 1743337882,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20845,
+        "num": 20845,
+        "word": "中国救援队已到缅甸曼德勒",
+        "onboard_time": 1743352159,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19765,
+        "num": 19765,
+        "word": "淮水竹亭",
+        "onboard_time": 1743331522,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19544,
+        "num": 19544,
+        "word": "单依纯演唱会上的高定造型",
+        "onboard_time": 1743342684,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18524,
+        "num": 18524,
+        "word": "朱志鑫 单人照",
+        "onboard_time": 1743344543,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18127,
+        "num": 18127,
+        "word": "黄轩晒与女友牵手照",
+        "onboard_time": 1743333923,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18125,
+        "num": 18125,
+        "word": "宁艺卓清唱甜蜜蜜",
+        "onboard_time": 1743351680,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17648,
+        "num": 18124,
+        "word": "Faye曼谷见面会",
+        "onboard_time": 1743347543,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17604,
+        "num": 18123,
+        "word": "傅云夕完全变成庄寒雁的狗了",
+        "onboard_time": 1743334942,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17250,
+        "num": 18121,
+        "word": "张桂源养狗了",
+        "onboard_time": 1743350780,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17201,
+        "num": 18117,
+        "word": "幸存者在废墟外呼唤被困亲人名字",
+        "onboard_time": 1743349222,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为何说这一关必须要过#"
+    }
+  }
+}

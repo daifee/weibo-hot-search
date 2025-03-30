@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743359412499,
+  "endTime": 1743360197374,
   "band_list": [
     {
       "raw_hot": 972290,
@@ -315,6 +315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 73847,
+      "num": 73847,
+      "word": "缅籍华人父母被埋哽咽受访",
+      "onboard_time": 1743357555,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 72900,
       "num": 72900,
       "word": "宁艺卓清唱甜蜜蜜",
@@ -369,14 +377,6 @@
       "onboard_time": 1743323122,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 65516,
-      "num": 65516,
-      "word": "缅籍华人父母被埋哽咽受访",
-      "onboard_time": 1743357555,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 63935,
@@ -451,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42889,
+      "num": 61385,
+      "word": "缅甸一少年被埋获救送医途中去世",
+      "onboard_time": 1743358755,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 41866,
       "num": 41866,
       "word": "沈月淮水竹亭剧照",
@@ -483,11 +491,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12607,
-      "num": 61385,
-      "word": "缅甸一少年被埋获救送医途中去世",
-      "onboard_time": 1743358755,
-      "rank": 9,
+      "raw_hot": 11990,
+      "num": 30644,
+      "word": "赴缅甸中国公羊救援队发声",
+      "onboard_time": 1743359954,
+      "rank": 23,
       "category": "突发/灾害"
     },
     {
