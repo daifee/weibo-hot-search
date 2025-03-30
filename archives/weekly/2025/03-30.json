@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743308976021,
+  "endTime": 1743309848440,
   "band_list": [
     {
       "raw_hot": 1925246,
@@ -35,8 +35,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1041024,
-      "num": 1041024,
+      "raw_hot": 1146781,
+      "num": 1146781,
+      "word": "王星回应是否会与嘉嘉结婚",
+      "onboard_time": 1743308130,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1079170,
+      "num": 1079170,
       "word": "赴缅甸中国救援队全员服用霍乱疫苗",
       "onboard_time": 1743305189,
       "rank": 6,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 622961,
-      "num": 396813,
+      "num": 402446,
       "word": "门童大粉宣布停更",
       "onboard_time": 1743302909,
       "rank": 12,
@@ -121,14 +129,6 @@
       "onboard_time": 1743302308,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 600124,
-      "num": 600124,
-      "word": "王星回应是否会与嘉嘉结婚",
-      "onboard_time": 1743308130,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 598475,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 471514,
+      "num": 402346,
+      "word": "金秀贤联系雪莉母亲",
+      "onboard_time": 1743308671,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465188,
       "num": 324912,
       "word": "门童多位粉丝失联",
@@ -243,6 +251,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 415460,
+      "num": 415460,
+      "word": "李嘉琦情商",
+      "onboard_time": 1743306570,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 400602,
+      "num": 400602,
+      "word": "云南曲靖4.4级地震",
+      "onboard_time": 1743246564,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 396224,
       "num": 396224,
       "word": "云南4.4级地震初步分析为缅甸地震触发",
@@ -251,12 +275,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 393789,
-      "num": 393789,
-      "word": "云南曲靖4.4级地震",
-      "onboard_time": 1743246564,
-      "rank": 8,
-      "category": "突发/灾害"
+      "raw_hot": 369353,
+      "num": 369353,
+      "word": "女子戴隐形赏花后视力骤降至0.5",
+      "onboard_time": 1743307890,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 355705,
@@ -323,12 +347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 312444,
-      "num": 312444,
-      "word": "李嘉琦情商",
-      "onboard_time": 1743306570,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 288103,
+      "num": 288103,
+      "word": "音律联觉",
+      "onboard_time": 1743308369,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 284501,
@@ -395,12 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257156,
-      "num": 257156,
-      "word": "女子戴隐形赏花后视力骤降至0.5",
-      "onboard_time": 1743307890,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 254406,
+      "num": 398548,
+      "word": "专家称缅甸震后疾病防控不容乐观",
+      "onboard_time": 1743307950,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 252840,
@@ -435,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238438,
+      "num": 238438,
+      "word": "韦雪要签前夫",
+      "onboard_time": 1743309269,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 233032,
       "num": 233032,
       "word": "起猛了以为张国立上恋综了",
@@ -451,14 +483,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 222482,
-      "num": 222482,
-      "word": "音律联觉",
-      "onboard_time": 1743308369,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 218739,
       "num": 218739,
       "word": "旅行青蛙",
@@ -473,6 +497,14 @@
       "onboard_time": 1743297200,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 211193,
+      "num": 255901,
+      "word": "王琳54岁的走秀状态",
+      "onboard_time": 1743307470,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210360,
@@ -497,6 +529,14 @@
       "onboard_time": 1743299540,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206840,
+      "num": 206840,
+      "word": "明日方舟",
+      "onboard_time": 1743309389,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 206145,
@@ -531,6 +571,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 189893,
+      "num": 187808,
+      "word": "唐嫣神女舞鞭好飒",
+      "onboard_time": 1743308310,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188125,
+      "num": 188125,
+      "word": "张佳宁新剧纯恨女主",
+      "onboard_time": 1743309209,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186558,
       "num": 186558,
       "word": "为什么海边特别容易晒黑",
@@ -547,12 +603,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 182847,
-      "num": 253560,
-      "word": "王琳54岁的走秀状态",
-      "onboard_time": 1743307470,
-      "rank": 18,
-      "category": "作品衍生"
+      "raw_hot": 175340,
+      "num": 175340,
+      "word": "陈志朋把还珠格格播出时间写错了",
+      "onboard_time": 1743309389,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 171342,
@@ -560,14 +616,6 @@
       "word": "彭昱畅怎么帅成这样了",
       "onboard_time": 1743243981,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 168824,
-      "num": 168824,
-      "word": "金秀贤联系雪莉母亲",
-      "onboard_time": 1743308671,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -585,6 +633,14 @@
       "onboard_time": 1743300919,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163885,
+      "num": 163885,
+      "word": "沈月晒与徐志胜合照",
+      "onboard_time": 1743309269,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 163661,
@@ -619,12 +675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159225,
+      "num": 159225,
+      "word": "马克定食",
+      "onboard_time": 1743308490,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 158871,
       "num": 158871,
       "word": "缅甸7.9级地震前后对比",
       "onboard_time": 1743252502,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 158103,
+      "num": 158103,
+      "word": "河北承德2.8级地震",
+      "onboard_time": 1743309331,
+      "rank": 36,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 158069,
@@ -651,12 +723,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 153374,
-      "num": 163688,
-      "word": "唐嫣神女舞鞭好飒",
-      "onboard_time": 1743308310,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 153370,
+      "num": 153370,
+      "word": "盒猫兄弟团为陈赫热搜豁出去了",
+      "onboard_time": 1743309031,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 153289,
@@ -689,6 +761,14 @@
       "onboard_time": 1743300441,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146430,
+      "num": 146430,
+      "word": "梁朝伟新片国内诈骗国外花",
+      "onboard_time": 1743309510,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 145226,
@@ -747,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130910,
+      "num": 252470,
+      "word": "小学副课老师像筋疲力尽的乙方",
+      "onboard_time": 1743307890,
+      "rank": 19,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 129920,
       "num": 129920,
       "word": "赵晓卉雷军单向奔赴",
@@ -756,7 +844,7 @@
     },
     {
       "raw_hot": 128698,
-      "num": 128698,
+      "num": 402538,
       "word": "美国群聊泄密事件持续发酵",
       "onboard_time": 1743305250,
       "rank": 36,
@@ -793,14 +881,6 @@
       "onboard_time": 1743297140,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 121403,
-      "num": 398548,
-      "word": "专家称缅甸震后疾病防控不容乐观",
-      "onboard_time": 1743307950,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 121370,
@@ -849,6 +929,14 @@
       "onboard_time": 1743272296,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 113744,
+      "num": 113744,
+      "word": "周杰伦邹市明合唱龙拳",
+      "onboard_time": 1743308610,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 113630,
@@ -921,14 +1009,6 @@
       "onboard_time": 1743244582,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 105290,
-      "num": 252470,
-      "word": "小学副课老师像筋疲力尽的乙方",
-      "onboard_time": 1743307890,
-      "rank": 19,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 105229,
@@ -1203,6 +1283,22 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 57251,
+      "num": 1111983,
+      "word": "外资高管畅谈爱上中国的理由",
+      "onboard_time": 1743308430,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 56921,
+      "num": 147768,
+      "word": "韩国志愿者说救援物资被老太偷走了",
+      "onboard_time": 1743308790,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 56113,
       "num": 56113,
       "word": "卫星照片显示内比都机场塔台倒塌",
@@ -1331,14 +1427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27299,
-      "num": 1080596,
-      "word": "外资高管畅谈爱上中国的理由",
-      "onboard_time": 1743308430,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 21798,
       "num": 24658,
       "word": "周深风吹过的晨曦首唱舞台",
@@ -1401,14 +1489,6 @@
       "onboard_time": 1743299421,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 8356,
-      "num": 120191,
-      "word": "韩国志愿者说救援物资被老太偷走了",
-      "onboard_time": 1743308790,
-      "rank": 39,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
