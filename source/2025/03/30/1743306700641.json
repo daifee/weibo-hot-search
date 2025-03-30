@@ -1,0 +1,410 @@
+{
+  "runTime": 1743306700641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1466725,
+        "num": 1466725,
+        "word": "俄乌以1比21交换遗体",
+        "onboard_time": 1743299120,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 936842,
+        "num": 936842,
+        "word": "老人假扮少女乞讨被识破破口大骂",
+        "onboard_time": 1743304231,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28295,
+        "num": 742445,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 741995,
+        "num": 741995,
+        "word": "翡翠摊主回应地震瞬间拿起高货就跑",
+        "onboard_time": 1743301221,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532039,
+        "num": 532039,
+        "word": "Jennie红色抹胸裙",
+        "onboard_time": 1743302308,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 478111,
+        "num": 478111,
+        "word": "收到一箱海鲜打开是100万现金",
+        "onboard_time": 1743303930,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448854,
+        "num": 448854,
+        "word": "赴缅甸中国救援队全员服用霍乱疫苗",
+        "onboard_time": 1743305189,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 431734,
+        "num": 431734,
+        "word": "缅甸地震如同一把巨刀切入地球",
+        "onboard_time": 1743305010,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 412555,
+        "num": 412555,
+        "word": "柯淳被杨天真质疑哭戏第一人",
+        "onboard_time": 1743299301,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375307,
+        "num": 375307,
+        "word": "缅甸震中最高温达40摄氏度",
+        "onboard_time": 1743292457,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 622961,
+        "num": 368191,
+        "word": "门童大粉宣布停更",
+        "onboard_time": 1743302909,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433531,
+        "num": 362108,
+        "word": "谢婉婷",
+        "onboard_time": 1743262883,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352045,
+        "num": 352045,
+        "word": "张小婉7岁出道",
+        "onboard_time": 1743305010,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310798,
+        "num": 310798,
+        "word": "云南曲靖4.4级地震",
+        "onboard_time": 1743246564,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 298914,
+        "num": 298914,
+        "word": "aespa红毯",
+        "onboard_time": 1743301999,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 278560,
+        "num": 278560,
+        "word": "赵露思穿了手艺人爷爷做的鞋",
+        "onboard_time": 1743260904,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228779,
+        "num": 228779,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1743298699,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266395,
+        "num": 228277,
+        "word": "李晟回复张小婉",
+        "onboard_time": 1743304231,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211060,
+        "num": 211060,
+        "word": "吴宣仪我又初恋了又破千万了",
+        "onboard_time": 1743306149,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208069,
+        "num": 208069,
+        "word": "女孩因病毁容被汪东城鼓励探望",
+        "onboard_time": 1743295459,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652854,
+        "num": 205390,
+        "word": "王一博抛媚眼给瞎子看",
+        "onboard_time": 1743296481,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 145226,
+        "num": 195682,
+        "word": "12名中国公民在缅甸地震中受伤",
+        "onboard_time": 1743306329,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 321072,
+        "num": 195631,
+        "word": "bnd粉丝去世",
+        "onboard_time": 1743235701,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192606,
+        "num": 192606,
+        "word": "雁回时口碑逆跌",
+        "onboard_time": 1743292457,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191999,
+        "num": 191999,
+        "word": "缅甸地震被埋压近40小时老人获救",
+        "onboard_time": 1743295641,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186558,
+        "num": 186558,
+        "word": "为什么海边特别容易晒黑",
+        "onboard_time": 1743306030,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163912,
+        "num": 163912,
+        "word": "虞书欣发长文告别国王",
+        "onboard_time": 1743300919,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159392,
+        "num": 159392,
+        "word": "雁回时全员升咖",
+        "onboard_time": 1743297021,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159282,
+        "num": 159282,
+        "word": "一人推荐一部看了走不出来的电视剧",
+        "onboard_time": 1743305609,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154582,
+        "num": 154582,
+        "word": "范闲 张若昀又为你拿奖了",
+        "onboard_time": 1743296720,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140493,
+        "num": 140493,
+        "word": "黄龄全开麦唱免我蹉跎苦",
+        "onboard_time": 1743303868,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135288,
+        "num": 135288,
+        "word": "李嘉琦情商",
+        "onboard_time": 1743306570,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129842,
+        "num": 129842,
+        "word": "上海最窄人行道仅10厘米宽",
+        "onboard_time": 1743293299,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128237,
+        "num": 128237,
+        "word": "4种食物堪比天然防晒霜",
+        "onboard_time": 1743297200,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117686,
+        "num": 117686,
+        "word": "如何看待北大硕士当食堂阿姨",
+        "onboard_time": 1743300441,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111775,
+        "num": 111775,
+        "word": "时代少年团五周年单人海报",
+        "onboard_time": 1743302069,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109861,
+        "num": 109861,
+        "word": "美国群聊泄密事件持续发酵",
+        "onboard_time": 1743305250,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108551,
+        "num": 108551,
+        "word": "5岁男孩确诊糖尿病保险公司拒赔",
+        "onboard_time": 1743306270,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126789,
+        "num": 108479,
+        "word": "官方通报女子追骂他人称是司法局的",
+        "onboard_time": 1743298819,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107956,
+        "num": 107956,
+        "word": "女子疑因遭职场霸凌婚前轻生",
+        "onboard_time": 1743301280,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107671,
+        "num": 107671,
+        "word": "哪吒敖丙快闪好六街开店",
+        "onboard_time": 1743306389,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102891,
+        "num": 102891,
+        "word": "Makiyo谈小S近况",
+        "onboard_time": 1743291498,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99326,
+        "num": 99326,
+        "word": "新能源汽车维修工月薪或达2万元",
+        "onboard_time": 1743304530,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98340,
+        "num": 98340,
+        "word": "男子健身房练腿时地震只能往外爬",
+        "onboard_time": 1743297500,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97001,
+        "num": 97001,
+        "word": "王一博发烧了",
+        "onboard_time": 1743293299,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96625,
+        "num": 96625,
+        "word": "陈都灵的扛剧能力",
+        "onboard_time": 1743306510,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96440,
+        "num": 96440,
+        "word": "赵今麦骄阳似我杀青",
+        "onboard_time": 1743302550,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96428,
+        "num": 96428,
+        "word": "失联中国留学生罗生门遗体被找到",
+        "onboard_time": 1743257844,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96372,
+        "num": 96372,
+        "word": "韩国消防员吃的比犯人还差",
+        "onboard_time": 1743297140,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93444,
+        "num": 93444,
+        "word": "湖人战胜灰熊",
+        "onboard_time": 1743303449,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}

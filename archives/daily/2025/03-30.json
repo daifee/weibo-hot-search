@@ -1,10 +1,10 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743305158198,
+  "endTime": 1743306700641,
   "band_list": [
     {
       "raw_hot": 1925246,
-      "num": 333055,
+      "num": 362108,
       "word": "谢婉婷",
       "onboard_time": 1743262883,
       "rank": 10,
@@ -32,6 +32,14 @@
       "word": "翡翠摊主回应地震瞬间拿起高货就跑",
       "onboard_time": 1743301221,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 936842,
+      "num": 936842,
+      "word": "老人假扮少女乞讨被识破破口大骂",
+      "onboard_time": 1743304231,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -73,6 +81,14 @@
       "onboard_time": 1743292457,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 622961,
+      "num": 368191,
+      "word": "门童大粉宣布停更",
+      "onboard_time": 1743302909,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 610043,
@@ -139,20 +155,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 506633,
-      "num": 320270,
-      "word": "门童大粉宣布停更",
-      "onboard_time": 1743302909,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 481378,
       "num": 436014,
       "word": "安静公主长了一个肿瘤",
       "onboard_time": 1743258084,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 478111,
+      "num": 478111,
+      "word": "收到一箱海鲜打开是100万现金",
+      "onboard_time": 1743303930,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 465188,
@@ -179,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448854,
+      "num": 448854,
+      "word": "赴缅甸中国救援队全员服用霍乱疫苗",
+      "onboard_time": 1743305189,
+      "rank": 6,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 443398,
       "num": 376675,
       "word": "陈都灵大女主",
       "onboard_time": 1743260065,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 431734,
+      "num": 431734,
+      "word": "缅甸地震如同一把巨刀切入地球",
+      "onboard_time": 1743305010,
+      "rank": 22,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 426522,
@@ -227,20 +259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352045,
+      "num": 352045,
+      "word": "张小婉7岁出道",
+      "onboard_time": 1743305010,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351622,
       "num": 319209,
       "word": "aespa红毯",
       "onboard_time": 1743301999,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 341895,
-      "num": 341895,
-      "word": "收到一箱海鲜打开是100万现金",
-      "onboard_time": 1743303930,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 333594,
@@ -299,20 +331,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 275640,
-      "num": 275640,
-      "word": "老人假扮少女乞讨被识破破口大骂",
-      "onboard_time": 1743304231,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269153,
       "num": 269153,
       "word": "权志龙太权威了",
       "onboard_time": 1743258204,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 266395,
+      "num": 228277,
+      "word": "李晟回复张小婉",
+      "onboard_time": 1743304231,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 264010,
@@ -387,12 +419,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 211060,
+      "num": 211060,
+      "word": "吴宣仪我又初恋了又破千万了",
+      "onboard_time": 1743306149,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210360,
       "num": 210360,
       "word": "戚薇二胎产子画面",
       "onboard_time": 1743239362,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208069,
+      "num": 208069,
+      "word": "女孩因病毁容被汪东城鼓励探望",
+      "onboard_time": 1743295459,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207385,
@@ -403,28 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207350,
-      "num": 207350,
-      "word": "缅甸地震如同一把巨刀切入地球",
-      "onboard_time": 1743305010,
-      "rank": 22,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 206145,
       "num": 206145,
       "word": "减脂期需要避雷的6种食物",
       "onboard_time": 1743260485,
       "rank": 23,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 201292,
-      "num": 201292,
-      "word": "女孩因病毁容被汪东城鼓励探望",
-      "onboard_time": 1743295459,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199656,
@@ -443,12 +475,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 194872,
-      "num": 194872,
-      "word": "李晟回复张小婉",
-      "onboard_time": 1743304231,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 186558,
+      "num": 186558,
+      "word": "为什么海边特别容易晒黑",
+      "onboard_time": 1743306030,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 186090,
@@ -457,14 +489,6 @@
       "onboard_time": 1743251783,
       "rank": 25,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 183126,
-      "num": 174745,
-      "word": "张小婉7岁出道",
-      "onboard_time": 1743305010,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 171342,
@@ -481,6 +505,14 @@
       "onboard_time": 1743289576,
       "rank": 31,
       "category": "互联网,读书作家"
+    },
+    {
+      "raw_hot": 163912,
+      "num": 163912,
+      "word": "虞书欣发长文告别国王",
+      "onboard_time": 1743300919,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 163661,
@@ -505,6 +537,14 @@
       "onboard_time": 1743261983,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159282,
+      "num": 159282,
+      "word": "一人推荐一部看了走不出来的电视剧",
+      "onboard_time": 1743305609,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 158871,
@@ -547,20 +587,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 148540,
-      "num": 148540,
-      "word": "虞书欣发长文告别国王",
-      "onboard_time": 1743300919,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148004,
       "num": 148004,
       "word": "如何看待北大硕士当食堂阿姨",
       "onboard_time": 1743300441,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145226,
+      "num": 195682,
+      "word": "12名中国公民在缅甸地震中受伤",
+      "onboard_time": 1743306329,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 144680,
@@ -609,6 +649,14 @@
       "onboard_time": 1743303690,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135288,
+      "num": 135288,
+      "word": "李嘉琦情商",
+      "onboard_time": 1743306570,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 129920,
@@ -731,12 +779,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109861,
+      "num": 109861,
+      "word": "美国群聊泄密事件持续发酵",
+      "onboard_time": 1743305250,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 108551,
+      "num": 108551,
+      "word": "5岁男孩确诊糖尿病保险公司拒赔",
+      "onboard_time": 1743306270,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108091,
       "num": 108091,
       "word": "女子嫌头发被剪太丑当场报警",
       "onboard_time": 1743251063,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107671,
+      "num": 107671,
+      "word": "哪吒敖丙快闪好六街开店",
+      "onboard_time": 1743306389,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 107274,
@@ -811,6 +883,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99326,
+      "num": 313572,
+      "word": "新能源汽车维修工月薪或达2万元",
+      "onboard_time": 1743304530,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96625,
+      "num": 96625,
+      "word": "陈都灵的扛剧能力",
+      "onboard_time": 1743306510,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95024,
       "num": 95024,
       "word": "尤长靖扯领带这一下好拽",
@@ -865,14 +953,6 @@
       "onboard_time": 1743261443,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87521,
-      "num": 313572,
-      "word": "新能源汽车维修工月薪或达2万元",
-      "onboard_time": 1743304530,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87251,
@@ -1193,6 +1273,9 @@
     },
     {
       "word": "#习主席向全球工商界发出真诚邀约#"
+    },
+    {
+      "word": "#外资企业是中国式现代化的重要参与者#"
     }
   ]
 }
