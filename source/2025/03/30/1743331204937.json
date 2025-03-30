@@ -1,0 +1,410 @@
+{
+  "runTime": 1743331204937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 764175,
+        "num": 1122268,
+        "word": "苦尽柑来遇见你 张家界",
+        "onboard_time": 1743323122,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520205,
+        "num": 520205,
+        "word": "黄旭华92岁离休第二天又拄着拐出现",
+        "onboard_time": 1743325880,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67717,
+        "num": 440658,
+        "word": "算法向上向善",
+        "onboard_time": 1743315921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 436486,
+        "num": 436486,
+        "word": "雁回时",
+        "onboard_time": 1743330021,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408191,
+        "num": 408191,
+        "word": "日本第11轮核污染水排海结束",
+        "onboard_time": 1743326901,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356987,
+        "num": 356987,
+        "word": "缅甸地震已致1700人死亡",
+        "onboard_time": 1743320839,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 280311,
+        "num": 280311,
+        "word": "乙肝治疗将进入功能性治愈时代",
+        "onboard_time": 1743323780,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 273425,
+        "num": 273425,
+        "word": "种地吧",
+        "onboard_time": 1743327201,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256226,
+        "num": 256226,
+        "word": "沈月是快大2第一期总导演",
+        "onboard_time": 1743316580,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43267,
+        "num": 256089,
+        "word": "华人志愿者带药品卫生巾奔赴震区",
+        "onboard_time": 1743329720,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1515753,
+        "num": 256042,
+        "word": "王宝宝出轨",
+        "onboard_time": 1743328760,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 573587,
+        "num": 255797,
+        "word": "双胞胎当了1年朋友才发现是亲姐妹",
+        "onboard_time": 1743312868,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318281,
+        "num": 255738,
+        "word": "韩安冉回应与婆婆矛盾",
+        "onboard_time": 1743323721,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 298369,
+        "num": 255486,
+        "word": "3位自杀女星均与金秀贤公司有关联",
+        "onboard_time": 1743330560,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285880,
+        "num": 255391,
+        "word": "吃上了浪姐的第一口好饭",
+        "onboard_time": 1743329421,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276867,
+        "num": 255185,
+        "word": "迪丽热巴网宣组发文",
+        "onboard_time": 1743330741,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268589,
+        "num": 255111,
+        "word": "首款无激素男性避孕药或将问世",
+        "onboard_time": 1743320301,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 254991,
+        "num": 254991,
+        "word": "金玟庭后台试音没关麦",
+        "onboard_time": 1743323660,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249713,
+        "num": 249713,
+        "word": "iPhone截图的隐藏功能",
+        "onboard_time": 1743317902,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94705,
+        "num": 247106,
+        "word": "中国公羊救援队确认3名幸存者",
+        "onboard_time": 1743329540,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 372747,
+        "num": 246899,
+        "word": "田曦薇接",
+        "onboard_time": 1743327921,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246606,
+        "num": 246606,
+        "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
+        "onboard_time": 1743320839,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228352,
+        "num": 228352,
+        "word": "莫离 白鹿丞磊",
+        "onboard_time": 1743328222,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217404,
+        "num": 217404,
+        "word": "中国多名玉石商被困缅甸重灾区",
+        "onboard_time": 1743329121,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 209819,
+        "num": 209819,
+        "word": "新秀 喾逸",
+        "onboard_time": 1743326000,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206180,
+        "num": 206180,
+        "word": "泰国女子见到中国救援队后泪目",
+        "onboard_time": 1743316820,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 200726,
+        "num": 200726,
+        "word": "陈哲远状态这么好奖励一部现偶",
+        "onboard_time": 1743330141,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199613,
+        "num": 199613,
+        "word": "Gumayusi说Tian太菜了",
+        "onboard_time": 1743330082,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199263,
+        "num": 199263,
+        "word": "宋妍霏下腰",
+        "onboard_time": 1743330741,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187670,
+        "num": 187670,
+        "word": "辣目洋子辣眼版还珠格格",
+        "onboard_time": 1743330500,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186536,
+        "num": 186536,
+        "word": "门童 出卡",
+        "onboard_time": 1743318620,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159999,
+        "num": 159999,
+        "word": "大麦bug",
+        "onboard_time": 1743326722,
+        "rank": 31,
+        "category": "互联网,演出"
+      },
+      {
+        "raw_hot": 156114,
+        "num": 156114,
+        "word": "王宝强新剧拿稳黑莲花剧本",
+        "onboard_time": 1743330082,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151492,
+        "num": 151492,
+        "word": "叠纸 价格",
+        "onboard_time": 1743317122,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147664,
+        "num": 147664,
+        "word": "彭小苒何泓姗房琪训练室无剪辑记录",
+        "onboard_time": 1743313529,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146431,
+        "num": 146431,
+        "word": "偶遇赵露思谈工作",
+        "onboard_time": 1743314480,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137293,
+        "num": 137293,
+        "word": "广东事业编",
+        "onboard_time": 1743327801,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130462,
+        "num": 130462,
+        "word": "中国救援队吃上了到达缅甸的第一顿饭",
+        "onboard_time": 1743324621,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122390,
+        "num": 122390,
+        "word": "王宝强棋士信息量好大",
+        "onboard_time": 1743326481,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116523,
+        "num": 116523,
+        "word": "林钟勋申裕斌混双夺冠",
+        "onboard_time": 1743326961,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114210,
+        "num": 114210,
+        "word": "缅甸一中企用汶川地震知识成功避险",
+        "onboard_time": 1743318260,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 111066,
+        "num": 111066,
+        "word": "韩媒批消防员吃这么差怎么灭火",
+        "onboard_time": 1743325280,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104006,
+        "num": 104006,
+        "word": "金秀贤联系雪莉母亲",
+        "onboard_time": 1743308671,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100395,
+        "num": 100395,
+        "word": "正常人的减脂餐",
+        "onboard_time": 1743322999,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100003,
+        "num": 100003,
+        "word": "陈哲远这次是wink不是weak",
+        "onboard_time": 1743330861,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93682,
+        "num": 93682,
+        "word": "大使馆回应多名中国人护照被埋",
+        "onboard_time": 1743330981,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 93074,
+        "num": 93074,
+        "word": "四家国有大行定增方案落地",
+        "onboard_time": 1743328940,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89317,
+        "num": 89317,
+        "word": "张家界落叶",
+        "onboard_time": 1743327080,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 88790,
+        "num": 88790,
+        "word": "日本又排放约7800吨核污染水",
+        "onboard_time": 1743330260,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88165,
+        "num": 88165,
+        "word": "姚晨新剧高配得感女主",
+        "onboard_time": 1743327980,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}

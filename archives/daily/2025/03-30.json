@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743330211811,
+  "endTime": 1743331204937,
   "band_list": [
     {
       "raw_hot": 2920421,
@@ -49,6 +49,14 @@
       "onboard_time": 1743299120,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1515753,
+      "num": 278530,
+      "word": "王宝宝出轨",
+      "onboard_time": 1743328760,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1304138,
@@ -129,14 +137,6 @@
       "onboard_time": 1743309389,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 757982,
-      "num": 278530,
-      "word": "王宝宝出轨",
-      "onboard_time": 1743328760,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 756096,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436486,
+      "num": 436486,
+      "word": "雁回时",
+      "onboard_time": 1743242423,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426522,
       "num": 426522,
       "word": "上海最窄人行道仅10厘米宽",
@@ -619,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298369,
+      "num": 255486,
+      "word": "3位自杀女星均与金秀贤公司有关联",
+      "onboard_time": 1743330560,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288103,
       "num": 288103,
       "word": "音律联觉",
@@ -633,6 +649,14 @@
       "onboard_time": 1743317902,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 285880,
+      "num": 255391,
+      "word": "吃上了浪姐的第一口好饭",
+      "onboard_time": 1743329421,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 284501,
@@ -667,20 +691,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 278650,
-      "num": 278650,
-      "word": "雁回时",
-      "onboard_time": 1743242423,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 278147,
       "num": 278147,
       "word": "种地吧",
       "onboard_time": 1743327201,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276867,
+      "num": 255185,
+      "word": "迪丽热巴网宣组发文",
+      "onboard_time": 1743330741,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 275862,
@@ -843,6 +867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217404,
+      "num": 277280,
+      "word": "中国多名玉石商被困缅甸重灾区",
+      "onboard_time": 1743329121,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 212676,
       "num": 212676,
       "word": "4种食物堪比天然防晒霜",
@@ -856,14 +888,6 @@
       "word": "王珞丹8年前的熊猫套装正中眉心",
       "onboard_time": 1743326062,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 211464,
-      "num": 211464,
-      "word": "吃上了浪姐的第一口好饭",
-      "onboard_time": 1743329421,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -971,12 +995,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200726,
+      "num": 200726,
+      "word": "陈哲远状态这么好奖励一部现偶",
+      "onboard_time": 1743330141,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199656,
       "num": 199656,
       "word": "wbb退出",
       "onboard_time": 1743261742,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199613,
+      "num": 199613,
+      "word": "Gumayusi说Tian太菜了",
+      "onboard_time": 1743330082,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 199263,
+      "num": 199263,
+      "word": "宋妍霏下腰",
+      "onboard_time": 1743330741,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 198478,
@@ -1017,6 +1065,14 @@
       "onboard_time": 1743309209,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187670,
+      "num": 187670,
+      "word": "辣目洋子辣眼版还珠格格",
+      "onboard_time": 1743330500,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186957,
@@ -1240,6 +1296,14 @@
       "word": "我的后半生今日开播",
       "onboard_time": 1743306750,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156114,
+      "num": 156114,
+      "word": "王宝强新剧拿稳黑莲花剧本",
+      "onboard_time": 1743330082,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1587,14 +1651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121625,
-      "num": 121625,
-      "word": "Gumayusi说Tian太菜了",
-      "onboard_time": 1743330082,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 121479,
       "num": 121479,
       "word": "缅甸首都路面裂缝有一米宽",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1743317600,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111066,
+      "num": 111066,
+      "word": "韩媒批消防员吃这么差怎么灭火",
+      "onboard_time": 1743325280,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110560,
@@ -1907,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100003,
+      "num": 100003,
+      "word": "陈哲远这次是wink不是weak",
+      "onboard_time": 1743330861,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99326,
       "num": 313572,
       "word": "新能源汽车维修工月薪或达2万元",
@@ -1947,20 +2019,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95623,
-      "num": 95623,
-      "word": "陈哲远状态这么好奖励一部现偶",
-      "onboard_time": 1743330141,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95024,
       "num": 95024,
       "word": "尤长靖扯领带这一下好拽",
       "onboard_time": 1743305070,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94705,
+      "num": 261380,
+      "word": "中国公羊救援队确认3名幸存者",
+      "onboard_time": 1743329540,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 94440,
@@ -1977,6 +2049,14 @@
       "onboard_time": 1743325101,
       "rank": 40,
       "category": "作品衍生,作品衍生"
+    },
+    {
+      "raw_hot": 93682,
+      "num": 93682,
+      "word": "大使馆回应多名中国人护照被埋",
+      "onboard_time": 1743330981,
+      "rank": 45,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 92024,
@@ -2027,6 +2107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88790,
+      "num": 88790,
+      "word": "日本又排放约7800吨核污染水",
+      "onboard_time": 1743330260,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88331,
       "num": 88331,
       "word": "缅甸强震已致曼谷13人死亡",
@@ -2041,14 +2129,6 @@
       "onboard_time": 1743261443,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87390,
-      "num": 87390,
-      "word": "韩媒批消防员吃这么差怎么灭火",
-      "onboard_time": 1743325280,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 87251,
@@ -2275,28 +2355,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 51614,
-      "num": 261380,
-      "word": "中国公羊救援队确认3名幸存者",
-      "onboard_time": 1743329540,
-      "rank": 19,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 51268,
       "num": 51268,
       "word": "白敬亭直播",
       "onboard_time": 1743268998,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49503,
-      "num": 277280,
-      "word": "中国多名玉石商被困缅甸重灾区",
-      "onboard_time": 1743329121,
-      "rank": 14,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 48853,
@@ -2321,6 +2385,14 @@
       "onboard_time": 1743321860,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 43267,
+      "num": 277651,
+      "word": "华人志愿者带药品卫生巾奔赴震区",
+      "onboard_time": 1743329720,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37940,
@@ -2489,14 +2561,6 @@
       "onboard_time": 1743283633,
       "rank": 44,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 16136,
-      "num": 277651,
-      "word": "华人志愿者带药品卫生巾奔赴震区",
-      "onboard_time": 1743329720,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15831,
