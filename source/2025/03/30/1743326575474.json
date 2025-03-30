@@ -1,0 +1,410 @@
+{
+  "runTime": 1743326575474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 960225,
+        "num": 1153636,
+        "word": "苦尽柑来遇见你 张家界",
+        "onboard_time": 1743323122,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536112,
+        "num": 536112,
+        "word": "缅甸地震已致1700人死亡",
+        "onboard_time": 1743320839,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 75771,
+        "num": 400333,
+        "word": "算法向上向善",
+        "onboard_time": 1743315921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2035981,
+        "num": 399022,
+        "word": "新秀王安冉离婚",
+        "onboard_time": 1743319822,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387246,
+        "num": 387246,
+        "word": "乙肝治疗将进入功能性治愈时代",
+        "onboard_time": 1743323780,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 344598,
+        "num": 344598,
+        "word": "殡葬管理招新要接触遗体176人报考",
+        "onboard_time": 1743321741,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352611,
+        "num": 341082,
+        "word": "沈月是快大2第一期总导演",
+        "onboard_time": 1743316580,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335215,
+        "num": 335215,
+        "word": "iPhone截图的隐藏功能",
+        "onboard_time": 1743317902,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 326627,
+        "num": 326627,
+        "word": "金玟庭后台试音没关麦",
+        "onboard_time": 1743323660,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 79167,
+        "num": 325976,
+        "word": "缅甸强震中受伤中国公民升至14人",
+        "onboard_time": 1743325461,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 614823,
+        "num": 318731,
+        "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
+        "onboard_time": 1743320839,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593525,
+        "num": 309030,
+        "word": "韩安冉回应与婆婆矛盾",
+        "onboard_time": 1743323721,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 590813,
+        "num": 305723,
+        "word": "双胞胎当了1年朋友才发现是亲姐妹",
+        "onboard_time": 1743312868,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507827,
+        "num": 301086,
+        "word": "门童 出卡",
+        "onboard_time": 1743318620,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357207,
+        "num": 293170,
+        "word": "首款无激素男性避孕药或将问世",
+        "onboard_time": 1743320301,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 290576,
+        "num": 290576,
+        "word": "叠纸 价格",
+        "onboard_time": 1743317122,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235939,
+        "num": 235939,
+        "word": "缅甸一中企用汶川地震知识成功避险",
+        "onboard_time": 1743318260,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 235818,
+        "num": 235818,
+        "word": "彭小苒何泓姗房琪训练室无剪辑记录",
+        "onboard_time": 1743313529,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232367,
+        "num": 232367,
+        "word": "金秀贤联系雪莉母亲",
+        "onboard_time": 1743308671,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27915,
+        "num": 221272,
+        "word": "特朗普称不解雇涉群聊泄密事件人员",
+        "onboard_time": 1743324982,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209598,
+        "num": 217188,
+        "word": "美元也无法避险了",
+        "onboard_time": 1743322402,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217186,
+        "num": 217186,
+        "word": "泰国女子见到中国救援队后泪目",
+        "onboard_time": 1743316820,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 185246,
+        "num": 185246,
+        "word": "新秀 喾逸",
+        "onboard_time": 1743326000,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154308,
+        "num": 154308,
+        "word": "抢车位吵架女子叫嚣是正军级",
+        "onboard_time": 1743317301,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147475,
+        "num": 147475,
+        "word": "偶遇赵露思谈工作",
+        "onboard_time": 1743314480,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145197,
+        "num": 145197,
+        "word": "王星回应是否会与嘉嘉结婚",
+        "onboard_time": 1743308130,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143889,
+        "num": 143889,
+        "word": "甲亢哥翻译",
+        "onboard_time": 1743318741,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139359,
+        "num": 139359,
+        "word": "祝绪丹学舞经历全国统一",
+        "onboard_time": 1743322461,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137104,
+        "num": 137104,
+        "word": "正常人的减脂餐",
+        "onboard_time": 1743322999,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131654,
+        "num": 135146,
+        "word": "陈志朋把还珠格格播出时间写错了",
+        "onboard_time": 1743309389,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134658,
+        "num": 134658,
+        "word": "中国救援队吃上了到达缅甸的第一顿饭",
+        "onboard_time": 1743324621,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127768,
+        "num": 127768,
+        "word": "缅甸地震如同一把巨刀切入地球",
+        "onboard_time": 1743305010,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 124674,
+        "num": 124674,
+        "word": "魏大勋张含韵唱送你一朵小红花",
+        "onboard_time": 1743310889,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118599,
+        "num": 118599,
+        "word": "王珞丹8年前的熊猫套装正中眉心",
+        "onboard_time": 1743326062,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1042703,
+        "num": 113995,
+        "word": "重庆女孩去缅甸做珠宝直播震中遇难",
+        "onboard_time": 1743318260,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 106894,
+        "num": 106894,
+        "word": "英国成唯一无法生产钢铁发达国家",
+        "onboard_time": 1743325280,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101429,
+        "num": 101429,
+        "word": "珊瑚海姐学时间线",
+        "onboard_time": 1743312570,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100319,
+        "num": 100319,
+        "word": "女子戴隐形赏花后视力骤降至0.5",
+        "onboard_time": 1743307890,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19551,
+        "num": 99603,
+        "word": "Gucci那些年的时尚革新",
+        "onboard_time": 1743326000,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 99300,
+        "num": 99300,
+        "word": "天津 起猛了",
+        "onboard_time": 1743324080,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93924,
+        "num": 93924,
+        "word": "刘耀文油画照",
+        "onboard_time": 1743325101,
+        "rank": 40,
+        "category": "作品衍生,作品衍生"
+      },
+      {
+        "raw_hot": 93080,
+        "num": 93080,
+        "word": "云南曲靖4.4级地震",
+        "onboard_time": 1743246564,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 89658,
+        "num": 89658,
+        "word": "黄旭华92岁离休第二天又拄着拐出现",
+        "onboard_time": 1743325880,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89219,
+        "num": 89219,
+        "word": "周震南选队友一分钟啧了七次",
+        "onboard_time": 1743320960,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89091,
+        "num": 89091,
+        "word": "中国救援队彻夜赶路坐着睡着了",
+        "onboard_time": 1743318741,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 85516,
+        "num": 85516,
+        "word": "王宝强棋士信息量好大",
+        "onboard_time": 1743326481,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84903,
+        "num": 84903,
+        "word": "36件重724克玳瑁手镯入境被查",
+        "onboard_time": 1743325940,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83052,
+        "num": 83052,
+        "word": "公羊救援队救出缅甸少年不幸去世",
+        "onboard_time": 1743319641,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 79904,
+        "num": 79904,
+        "word": "猫 讨厌没有边界感的小狗",
+        "onboard_time": 1743319281,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53996,
+        "num": 79684,
+        "word": "韩媒批消防员吃这么差怎么灭火",
+        "onboard_time": 1743325280,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}

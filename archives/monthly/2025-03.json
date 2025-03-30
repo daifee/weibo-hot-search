@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743324076857,
+  "endTime": 1743326575474,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -6539,6 +6539,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 960225,
+      "num": 1153636,
+      "word": "苦尽柑来遇见你 张家界",
+      "onboard_time": 1743323122,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 959520,
       "num": 1581246,
       "word": "多个卫生巾品牌直播间停播",
@@ -12187,6 +12195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 614823,
+      "num": 324437,
+      "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
+      "onboard_time": 1743320839,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 614587,
       "num": 304413,
       "word": "冯小刚全女阵容",
@@ -12817,6 +12833,14 @@
       "onboard_time": 1740834983,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 593525,
+      "num": 309030,
+      "word": "韩安冉回应与婆婆矛盾",
+      "onboard_time": 1743323721,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 593139,
@@ -19483,14 +19507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 399231,
-      "num": 324437,
-      "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
-      "onboard_time": 1743320839,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 399005,
       "num": 352276,
       "word": "医生称机洗内裤比手洗干净",
@@ -20145,6 +20161,14 @@
       "onboard_time": 1741693044,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 387246,
+      "num": 387246,
+      "word": "乙肝治疗将进入功能性治愈时代",
+      "onboard_time": 1743323780,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 387149,
@@ -21785,6 +21809,14 @@
       "onboard_time": 1741424300,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 357207,
+      "num": 293170,
+      "word": "首款无激素男性避孕药或将问世",
+      "onboard_time": 1743320301,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 357205,
@@ -23739,6 +23771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 326627,
+      "num": 326627,
+      "word": "金玟庭后台试音没关麦",
+      "onboard_time": 1743323660,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 326545,
       "num": 326545,
       "word": "梁田很久没约会过了",
@@ -25145,14 +25185,6 @@
       "onboard_time": 1740879497,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 303867,
-      "num": 303867,
-      "word": "苦尽柑来遇见你 张家界",
-      "onboard_time": 1743323122,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 303798,
@@ -29633,14 +29665,6 @@
       "onboard_time": 1742428341,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252673,
-      "num": 215416,
-      "word": "首款无激素男性避孕药或将问世",
-      "onboard_time": 1743320301,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 252663,
@@ -35657,6 +35681,14 @@
       "onboard_time": 1743132260,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209598,
+      "num": 217188,
+      "word": "美元也无法避险了",
+      "onboard_time": 1743322402,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 209574,
@@ -42955,6 +42987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185246,
+      "num": 185246,
+      "word": "新秀 喾逸",
+      "onboard_time": 1743326000,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185243,
       "num": 185243,
       "word": "卡琳娜cos陆光的原因找到了",
@@ -45593,14 +45633,6 @@
       "onboard_time": 1742542341,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174760,
-      "num": 174760,
-      "word": "乙肝治疗将进入功能性治愈时代",
-      "onboard_time": 1743323780,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 174733,
@@ -50721,14 +50753,6 @@
       "onboard_time": 1741503381,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158609,
-      "num": 158609,
-      "word": "韩安冉回应与婆婆矛盾",
-      "onboard_time": 1743323721,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 158602,
@@ -58099,14 +58123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139419,
-      "num": 139419,
-      "word": "金玟庭后台试音没关麦",
-      "onboard_time": 1743323660,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 139397,
       "num": 179458,
       "word": "孙颖莎练着练着就抠上手了",
@@ -58969,6 +58985,14 @@
       "onboard_time": 1742135906,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137104,
+      "num": 137104,
+      "word": "正常人的减脂餐",
+      "onboard_time": 1743322999,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 137087,
@@ -59841,6 +59865,14 @@
       "onboard_time": 1742697680,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134658,
+      "num": 134658,
+      "word": "中国救援队吃上了到达缅甸的第一顿饭",
+      "onboard_time": 1743324621,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134639,
@@ -66395,6 +66427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118599,
+      "num": 118599,
+      "word": "王珞丹8年前的熊猫套装正中眉心",
+      "onboard_time": 1743326062,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118590,
       "num": 118590,
       "word": "王栎鑫累吐了",
@@ -66633,14 +66673,6 @@
       "onboard_time": 1742195481,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118069,
-      "num": 118069,
-      "word": "正常人的减脂餐",
-      "onboard_time": 1743322999,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 118049,
@@ -70883,6 +70915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106894,
+      "num": 106894,
+      "word": "英国成唯一无法生产钢铁发达国家",
+      "onboard_time": 1743325280,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 106893,
       "num": 112360,
       "word": "韩代总统下令部署所有可用资源灭山火",
@@ -73539,6 +73579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99300,
+      "num": 99300,
+      "word": "天津 起猛了",
+      "onboard_time": 1743324080,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99265,
       "num": 99265,
       "word": "国产手机系统和iOS差距还大吗",
@@ -75291,6 +75339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93924,
+      "num": 93924,
+      "word": "刘耀文油画照",
+      "onboard_time": 1743325101,
+      "rank": 40,
+      "category": "作品衍生,作品衍生"
+    },
+    {
       "raw_hot": 93854,
       "num": 93854,
       "word": "7家中国俱乐部入选EWCF俱乐部计划",
@@ -76483,6 +76539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89658,
+      "num": 89658,
+      "word": "黄旭华92岁离休第二天又拄着拐出现",
+      "onboard_time": 1743325880,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89632,
       "num": 73308,
       "word": "给国足算分",
@@ -77443,6 +77507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85516,
+      "num": 85516,
+      "word": "王宝强棋士信息量好大",
+      "onboard_time": 1743326481,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85490,
       "num": 195845,
       "word": "AL对战TES",
@@ -77625,6 +77697,14 @@
       "onboard_time": 1741310840,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84903,
+      "num": 84903,
+      "word": "36件重724克玳瑁手镯入境被查",
+      "onboard_time": 1743325940,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84815,
@@ -78753,6 +78833,14 @@
       "onboard_time": 1743045081,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79167,
+      "num": 325976,
+      "word": "缅甸强震中受伤中国公民升至14人",
+      "onboard_time": 1743325461,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 79138,
@@ -84289,6 +84377,14 @@
       "onboard_time": 1742202503,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 53996,
+      "num": 79684,
+      "word": "韩媒批消防员吃这么差怎么灭火",
+      "onboard_time": 1743325280,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 53978,
@@ -91691,6 +91787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27915,
+      "num": 221272,
+      "word": "特朗普称不解雇涉群聊泄密事件人员",
+      "onboard_time": 1743324982,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27911,
       "num": 274446,
       "word": "先做自己的女王再被世界加冕",
@@ -94329,6 +94433,14 @@
       "onboard_time": 1742290281,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 19551,
+      "num": 99603,
+      "word": "Gucci那些年的时尚革新",
+      "onboard_time": 1743326000,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 19517,
