@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743341269093,
+  "endTime": 1743341936241,
   "band_list": [
     {
       "raw_hot": 3126539,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1577571,
+      "num": 383789,
+      "word": "祝绪丹忍得很辛苦吧",
+      "onboard_time": 1743341363,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1304138,
       "num": 1304138,
       "word": "王星回应是否会与嘉嘉结婚",
@@ -121,6 +129,14 @@
       "onboard_time": 1743301221,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 996970,
+      "num": 707400,
+      "word": "广东高州3.0级地震",
+      "onboard_time": 1743339861,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 918319,
@@ -171,12 +187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 789059,
-      "num": 570013,
-      "word": "广东高州3.0级地震",
-      "onboard_time": 1743339861,
-      "rank": 3,
-      "category": "突发/灾害"
+      "raw_hot": 773311,
+      "num": 773311,
+      "word": "张本美和女单夺冠",
+      "onboard_time": 1743338903,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 756096,
@@ -219,14 +235,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 726209,
-      "num": 726209,
-      "word": "张本美和女单夺冠",
-      "onboard_time": 1743338903,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 713225,
       "num": 713225,
       "word": "缅甸地震已致1700人死亡",
@@ -257,6 +265,14 @@
       "onboard_time": 1743306149,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 655583,
+      "num": 655583,
+      "word": "小米造出了我15年前想要的相机",
+      "onboard_time": 1743340342,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 643588,
@@ -643,12 +659,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 381141,
-      "num": 381141,
-      "word": "小米造出了我15年前想要的相机",
-      "onboard_time": 1743340342,
-      "rank": 13,
-      "category": "数码"
+      "raw_hot": 384026,
+      "num": 384026,
+      "word": "汤加群岛地震可能引发海啸",
+      "onboard_time": 1743340222,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 376959,
@@ -657,6 +673,14 @@
       "onboard_time": 1743309269,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 369865,
+      "num": 369865,
+      "word": "玉渊潭偶遇宋轶",
+      "onboard_time": 1743338482,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 369353,
@@ -705,14 +729,6 @@
       "onboard_time": 1743301999,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 350932,
-      "num": 383561,
-      "word": "汤加群岛地震可能引发海啸",
-      "onboard_time": 1743340222,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 348387,
@@ -769,14 +785,6 @@
       "onboard_time": 1743255443,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 319054,
-      "num": 319054,
-      "word": "玉渊潭偶遇宋轶",
-      "onboard_time": 1743338482,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 318415,
@@ -1067,12 +1075,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224592,
+      "num": 239024,
+      "word": "湖南卫视连发20条迪丽热巴",
+      "onboard_time": 1743340761,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 224174,
       "num": 345447,
       "word": "抢车位吵架女子叫嚣是正军级",
       "onboard_time": 1743317301,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223955,
+      "num": 223955,
+      "word": "为什么次子的脑仁小",
+      "onboard_time": 1743341662,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 218739,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1743333620,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214065,
+      "num": 214065,
+      "word": "运动半小时以上才能分解脂肪",
+      "onboard_time": 1743338243,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 212676,
@@ -1219,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204887,
+      "num": 234792,
+      "word": "不愧是一诺的公孙离",
+      "onboard_time": 1743341422,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202114,
       "num": 202114,
       "word": "分手后才求婚算什么人啊",
@@ -1291,12 +1331,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193271,
-      "num": 193271,
-      "word": "运动半小时以上才能分解脂肪",
-      "onboard_time": 1743338243,
-      "rank": 45,
-      "category": "运动健身"
+      "raw_hot": 191380,
+      "num": 156140,
+      "word": "不建议去死水游泳馆里游泳的原因",
+      "onboard_time": 1743340701,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 189893,
@@ -1379,6 +1419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182422,
+      "num": 182422,
+      "word": "新疆库车市3.7级地震",
+      "onboard_time": 1743340642,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 181656,
       "num": 181656,
       "word": "AG对战TTG",
@@ -1411,14 +1459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175599,
-      "num": 156140,
-      "word": "不建议去死水游泳馆里游泳的原因",
-      "onboard_time": 1743340701,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 174916,
       "num": 174916,
       "word": "AJ贴脸开团Doinb",
@@ -1433,6 +1473,14 @@
       "onboard_time": 1743316041,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171598,
+      "num": 245378,
+      "word": "结婚前求婚是必要的吗",
+      "onboard_time": 1743339923,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 171534,
@@ -1611,14 +1659,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 158955,
-      "num": 158955,
-      "word": "新疆库车市3.7级地震",
-      "onboard_time": 1743340642,
-      "rank": 28,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 158871,
       "num": 158871,
       "word": "缅甸7.9级地震前后对比",
@@ -1755,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147738,
+      "num": 147738,
+      "word": "蒋一侨人心中的成见是一座大山",
+      "onboard_time": 1743341123,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147110,
       "num": 147110,
       "word": "贾静雯我的初代白月光",
@@ -1859,20 +1907,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141732,
-      "num": 141732,
-      "word": "湖南卫视连发20条迪丽热巴",
-      "onboard_time": 1743340761,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 137780,
       "num": 137780,
       "word": "虞书欣说新剧的演戏方式和以前不一样",
       "onboard_time": 1743315380,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137658,
+      "num": 137658,
+      "word": "王一博赛车断层登顶微指",
+      "onboard_time": 1743341662,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 137597,
@@ -1961,14 +2009,6 @@
       "onboard_time": 1743334221,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132229,
-      "num": 245378,
-      "word": "结婚前求婚是必要的吗",
-      "onboard_time": 1743339923,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 131067,
@@ -2145,6 +2185,14 @@
       "onboard_time": 1743299780,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119100,
+      "num": 137748,
+      "word": "2架运20飞赴缅甸",
+      "onboard_time": 1743341662,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119030,
@@ -2371,6 +2419,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 105388,
+      "num": 105388,
+      "word": "贾静雯以美之名出场就被砸鸡蛋",
+      "onboard_time": 1743341903,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105229,
       "num": 105229,
       "word": "闫妮怎么干农活也微醺啊",
@@ -2521,14 +2577,6 @@
       "onboard_time": 1743333861,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 96319,
-      "num": 96319,
-      "word": "蒋一侨人心中的成见是一座大山",
-      "onboard_time": 1743341123,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 95024,
@@ -2761,6 +2809,14 @@
       "onboard_time": 1743253163,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75970,
+      "num": 138868,
+      "word": "陈哲远 看我行不行",
+      "onboard_time": 1743341903,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 75467,

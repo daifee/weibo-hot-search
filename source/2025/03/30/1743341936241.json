@@ -1,0 +1,410 @@
+{
+  "runTime": 1743341936241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2884695,
+        "num": 2884695,
+        "word": "汤加群岛7.3级地震",
+        "onboard_time": 1743339381,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 773311,
+        "num": 773311,
+        "word": "张本美和女单夺冠",
+        "onboard_time": 1743338903,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18942,
+        "num": 712057,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 996970,
+        "num": 707400,
+        "word": "广东高州3.0级地震",
+        "onboard_time": 1743339861,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 655583,
+        "num": 655583,
+        "word": "小米造出了我15年前想要的相机",
+        "onboard_time": 1743340342,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 506423,
+        "num": 506423,
+        "word": "成龙御用反派去世",
+        "onboard_time": 1743338123,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412135,
+        "num": 412135,
+        "word": "陈都灵 金枝",
+        "onboard_time": 1743334762,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402656,
+        "num": 402656,
+        "word": "缅甸地震已致1700人死亡",
+        "onboard_time": 1743320839,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 398594,
+        "num": 398594,
+        "word": "缅甸多名华人护照被埋无法自由行动",
+        "onboard_time": 1743334103,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 384026,
+        "num": 384026,
+        "word": "汤加群岛地震可能引发海啸",
+        "onboard_time": 1743340222,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1577571,
+        "num": 383789,
+        "word": "祝绪丹忍得很辛苦吧",
+        "onboard_time": 1743341363,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405212,
+        "num": 382912,
+        "word": "双胞胎当了1年朋友才发现是亲姐妹",
+        "onboard_time": 1743312868,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391665,
+        "num": 382094,
+        "word": "黄轩晒与女友牵手照",
+        "onboard_time": 1743333923,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380714,
+        "num": 380714,
+        "word": "全红婵跳水世界杯只报一项",
+        "onboard_time": 1743336502,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369865,
+        "num": 369865,
+        "word": "玉渊潭偶遇宋轶",
+        "onboard_time": 1743338482,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352059,
+        "num": 352059,
+        "word": "缅甸幸存者握母亲冰冷的手含泪告别",
+        "onboard_time": 1743336800,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 343264,
+        "num": 343264,
+        "word": "苦尽柑来遇见你 张家界",
+        "onboard_time": 1743323122,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309832,
+        "num": 309832,
+        "word": "淮水竹亭",
+        "onboard_time": 1743331522,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224592,
+        "num": 239024,
+        "word": "湖南卫视连发20条迪丽热巴",
+        "onboard_time": 1743340761,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204887,
+        "num": 234792,
+        "word": "不愧是一诺的公孙离",
+        "onboard_time": 1743341422,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232320,
+        "num": 232320,
+        "word": "日本第11轮核污染水排海结束",
+        "onboard_time": 1743326901,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229342,
+        "num": 229342,
+        "word": "偶遇李现买汉堡",
+        "onboard_time": 1743335302,
+        "rank": 21,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 223955,
+        "num": 223955,
+        "word": "为什么次子的脑仁小",
+        "onboard_time": 1743341662,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214357,
+        "num": 214357,
+        "word": "台媒称中国驰援缅甸有3大黑科技",
+        "onboard_time": 1743337882,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214065,
+        "num": 214065,
+        "word": "运动半小时以上才能分解脂肪",
+        "onboard_time": 1743338243,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 182838,
+        "num": 182838,
+        "word": "aespaWhiplash开麦舞台",
+        "onboard_time": 1743339141,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182422,
+        "num": 182422,
+        "word": "新疆库车市3.7级地震",
+        "onboard_time": 1743340642,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 179771,
+        "num": 179771,
+        "word": "雁回时 吕秀才",
+        "onboard_time": 1743337462,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171598,
+        "num": 171598,
+        "word": "结婚前求婚是必要的吗",
+        "onboard_time": 1743339923,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159419,
+        "num": 159419,
+        "word": "傅云夕完全变成庄寒雁的狗了",
+        "onboard_time": 1743334942,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191380,
+        "num": 154288,
+        "word": "不建议去死水游泳馆里游泳的原因",
+        "onboard_time": 1743340701,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 163241,
+        "num": 153801,
+        "word": "AJ贴脸开团Doinb",
+        "onboard_time": 1743338603,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147859,
+        "num": 147859,
+        "word": "男子被拉布拉多毫无预兆咬一口",
+        "onboard_time": 1743339563,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147837,
+        "num": 147837,
+        "word": "迪丽热巴网宣组发文",
+        "onboard_time": 1743330741,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147738,
+        "num": 147738,
+        "word": "蒋一侨人心中的成见是一座大山",
+        "onboard_time": 1743341123,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141934,
+        "num": 141934,
+        "word": "大使馆回应多名中国人护照被埋",
+        "onboard_time": 1743330981,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 141632,
+        "num": 141632,
+        "word": "AG对战TTG",
+        "onboard_time": 1743338182,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75970,
+        "num": 138868,
+        "word": "陈哲远 看我行不行",
+        "onboard_time": 1743341903,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119100,
+        "num": 137748,
+        "word": "2架运20飞赴缅甸",
+        "onboard_time": 1743341662,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137658,
+        "num": 137658,
+        "word": "王一博赛车断层登顶微指",
+        "onboard_time": 1743341662,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131162,
+        "num": 131162,
+        "word": "权志龙演唱会",
+        "onboard_time": 1743332902,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123440,
+        "num": 123440,
+        "word": "美的已清仓小米股票",
+        "onboard_time": 1743332721,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122067,
+        "num": 122067,
+        "word": "首款无激素男性避孕药或将问世",
+        "onboard_time": 1743320301,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117488,
+        "num": 117488,
+        "word": "雁回时",
+        "onboard_time": 1743330021,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113544,
+        "num": 113544,
+        "word": "韩安冉回应与婆婆矛盾",
+        "onboard_time": 1743323721,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112449,
+        "num": 112449,
+        "word": "王智 百亿影帝严选",
+        "onboard_time": 1743335962,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111296,
+        "num": 111296,
+        "word": "偶遇俞灏明王晓晨穿着情侣装吃饭",
+        "onboard_time": 1743334822,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107115,
+        "num": 107115,
+        "word": "创造营亚洲",
+        "onboard_time": 1743335541,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105775,
+        "num": 105775,
+        "word": "乙肝治疗将进入功能性治愈时代",
+        "onboard_time": 1743323780,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105388,
+        "num": 105388,
+        "word": "贾静雯以美之名出场就被砸鸡蛋",
+        "onboard_time": 1743341903,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}

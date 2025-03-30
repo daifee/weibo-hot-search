@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743341269093,
+  "endTime": 1743341936241,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2697,6 +2697,14 @@
       "onboard_time": 1742045374,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1577571,
+      "num": 383789,
+      "word": "祝绪丹忍得很辛苦吧",
+      "onboard_time": 1743341363,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1573983,
@@ -6203,6 +6211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 996970,
+      "num": 707400,
+      "word": "广东高州3.0级地震",
+      "onboard_time": 1743339861,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 996406,
       "num": 996406,
       "word": "李国祥去世",
@@ -8827,14 +8843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 789059,
-      "num": 570013,
-      "word": "广东高州3.0级地震",
-      "onboard_time": 1743339861,
-      "rank": 3,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 788451,
       "num": 788451,
       "word": "浪莎下架所有一次性内裤产品",
@@ -9033,6 +9041,14 @@
       "onboard_time": 1741251262,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 773311,
+      "num": 773311,
+      "word": "张本美和女单夺冠",
+      "onboard_time": 1743338903,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 773244,
@@ -9993,14 +10009,6 @@
       "onboard_time": 1741151239,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 726209,
-      "num": 726209,
-      "word": "张本美和女单夺冠",
-      "onboard_time": 1743338903,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 726173,
@@ -11337,6 +11345,14 @@
       "onboard_time": 1743306149,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 655583,
+      "num": 655583,
+      "word": "小米造出了我15年前想要的相机",
+      "onboard_time": 1743340342,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 655474,
@@ -20499,6 +20515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384026,
+      "num": 384026,
+      "word": "汤加群岛地震可能引发海啸",
+      "onboard_time": 1743340222,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 383563,
       "num": 383563,
       "word": "欧阳娜娜看娣娣舞台破防了",
@@ -20609,14 +20633,6 @@
       "onboard_time": 1742646922,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 381141,
-      "num": 381141,
-      "word": "小米造出了我15年前想要的相机",
-      "onboard_time": 1743340342,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 381110,
@@ -21233,6 +21249,14 @@
       "onboard_time": 1741334841,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369865,
+      "num": 369865,
+      "word": "玉渊潭偶遇宋轶",
+      "onboard_time": 1743338482,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 369758,
@@ -22385,14 +22409,6 @@
       "onboard_time": 1741683503,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 350932,
-      "num": 383561,
-      "word": "汤加群岛地震可能引发海啸",
-      "onboard_time": 1743340222,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 350330,
@@ -24449,14 +24465,6 @@
       "onboard_time": 1740996618,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 319054,
-      "num": 319054,
-      "word": "玉渊潭偶遇宋轶",
-      "onboard_time": 1743338482,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 318852,
@@ -33339,6 +33347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224592,
+      "num": 239024,
+      "word": "湖南卫视连发20条迪丽热巴",
+      "onboard_time": 1743340761,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 224578,
       "num": 313804,
       "word": "30万的车遇重大事故未弹安全气囊",
@@ -33521,6 +33537,14 @@
       "onboard_time": 1741442841,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 223955,
+      "num": 223955,
+      "word": "为什么次子的脑仁小",
+      "onboard_time": 1743341662,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 223913,
@@ -35185,6 +35209,14 @@
       "onboard_time": 1743152724,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214065,
+      "num": 214065,
+      "word": "运动半小时以上才能分解脂肪",
+      "onboard_time": 1743338243,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 214049,
@@ -37297,6 +37329,14 @@
       "onboard_time": 1741614325,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204887,
+      "num": 234792,
+      "word": "不愧是一诺的公孙离",
+      "onboard_time": 1743341422,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 204836,
@@ -40867,14 +40907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193271,
-      "num": 193271,
-      "word": "运动半小时以上才能分解脂肪",
-      "onboard_time": 1743338243,
-      "rank": 45,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 193251,
       "num": 193251,
       "word": "欧冠",
@@ -41449,6 +41481,14 @@
       "onboard_time": 1741323983,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 191380,
+      "num": 156140,
+      "word": "不建议去死水游泳馆里游泳的原因",
+      "onboard_time": 1743340701,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 191270,
@@ -44155,6 +44195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182422,
+      "num": 182422,
+      "word": "新疆库车市3.7级地震",
+      "onboard_time": 1743340642,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 182404,
       "num": 273647,
       "word": "今年妇女节不避讳谈这些话题了",
@@ -45779,14 +45827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175599,
-      "num": 156140,
-      "word": "不建议去死水游泳馆里游泳的原因",
-      "onboard_time": 1743340701,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 175548,
       "num": 175548,
       "word": "CBA",
@@ -46849,6 +46889,14 @@
       "onboard_time": 1741084881,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 171598,
+      "num": 245378,
+      "word": "结婚前求婚是必要的吗",
+      "onboard_time": 1743339923,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 171540,
@@ -51123,14 +51171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158955,
-      "num": 158955,
-      "word": "新疆库车市3.7级地震",
-      "onboard_time": 1743340642,
-      "rank": 28,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 158951,
       "num": 158951,
       "word": "爱你的编剧是真上过班",
@@ -55339,6 +55379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147738,
+      "num": 147738,
+      "word": "蒋一侨人心中的成见是一座大山",
+      "onboard_time": 1743341123,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147734,
       "num": 196730,
       "word": "如何看待无效劝阻餐馆二手烟事件频发",
@@ -57707,14 +57755,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 141732,
-      "num": 141732,
-      "word": "湖南卫视连发20条迪丽热巴",
-      "onboard_time": 1743340761,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 141731,
       "num": 141731,
       "word": "全国文旅用一张机票转场",
@@ -59297,6 +59337,14 @@
       "onboard_time": 1743142221,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137658,
+      "num": 137658,
+      "word": "王一博赛车断层登顶微指",
+      "onboard_time": 1743341662,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 137654,
@@ -61289,14 +61337,6 @@
       "onboard_time": 1743229160,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 132229,
-      "num": 245378,
-      "word": "结婚前求婚是必要的吗",
-      "onboard_time": 1743339923,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 132218,
@@ -66883,6 +66923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119100,
+      "num": 137748,
+      "word": "2架运20飞赴缅甸",
+      "onboard_time": 1743341662,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119030,
       "num": 289831,
       "word": "上手后才知道华为PuraX有多香",
@@ -72155,6 +72203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105388,
+      "num": 105388,
+      "word": "贾静雯以美之名出场就被砸鸡蛋",
+      "onboard_time": 1743341903,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105359,
       "num": 274423,
       "word": "教资科二答案",
@@ -75377,14 +75433,6 @@
       "onboard_time": 1742861241,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96319,
-      "num": 96319,
-      "word": "蒋一侨人心中的成见是一座大山",
-      "onboard_time": 1743341123,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 96316,
@@ -80225,6 +80273,14 @@
       "onboard_time": 1743126619,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 75970,
+      "num": 138868,
+      "word": "陈哲远 看我行不行",
+      "onboard_time": 1743341903,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 75943,
