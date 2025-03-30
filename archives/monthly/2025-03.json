@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743327377409,
+  "endTime": 1743330211811,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -9331,6 +9331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 757982,
+      "num": 278530,
+      "word": "王宝宝出轨",
+      "onboard_time": 1743328760,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 757458,
       "num": 757458,
       "word": "金价开跌",
@@ -12963,6 +12971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 588743,
+      "num": 588743,
+      "word": "黄旭华92岁离休第二天又拄着拐出现",
+      "onboard_time": 1743325880,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 587688,
       "num": 587688,
       "word": "普京表示俄罗斯同意停火30天",
@@ -16241,6 +16257,14 @@
       "onboard_time": 1742041469,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 480718,
+      "num": 480718,
+      "word": "日本第11轮核污染水排海结束",
+      "onboard_time": 1743326901,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 480710,
@@ -20217,6 +20241,14 @@
       "onboard_time": 1742650822,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 385760,
+      "num": 261346,
+      "word": "田曦薇接",
+      "onboard_time": 1743327921,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 385530,
@@ -25356,7 +25388,7 @@
     },
     {
       "raw_hot": 301107,
-      "num": 233201,
+      "num": 258168,
       "word": "新秀 喾逸",
       "onboard_time": 1743326000,
       "rank": 22,
@@ -30099,6 +30131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248243,
+      "num": 248243,
+      "word": "莫离 白鹿丞磊",
+      "onboard_time": 1743328222,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248200,
       "num": 235290,
       "word": "全智贤巴黎时装周直拍",
@@ -30625,6 +30665,14 @@
       "onboard_time": 1741142777,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 243974,
+      "num": 243974,
+      "word": "林钟勋申裕斌混双夺冠",
+      "onboard_time": 1743326961,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 243961,
@@ -35411,6 +35459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211464,
+      "num": 211464,
+      "word": "吃上了浪姐的第一口好饭",
+      "onboard_time": 1743329421,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211461,
       "num": 1235428,
       "word": "吐槽洗衣机售后深夜被邀约下楼谈谈",
@@ -36073,6 +36129,14 @@
       "onboard_time": 1741060158,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208232,
+      "num": 208232,
+      "word": "大麦bug",
+      "onboard_time": 1743326722,
+      "rank": 38,
+      "category": "互联网,演出"
     },
     {
       "raw_hot": 208215,
@@ -46875,6 +46939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170128,
+      "num": 170128,
+      "word": "中国救援队吃上了到达缅甸的第一顿饭",
+      "onboard_time": 1743324621,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170127,
       "num": 170127,
       "word": "恋爱兄妹全员直播超好嗑",
@@ -48289,6 +48361,14 @@
       "onboard_time": 1741761684,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 165830,
+      "num": 165830,
+      "word": "广东事业编",
+      "onboard_time": 1743327801,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 165793,
@@ -56451,14 +56531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143870,
-      "num": 174603,
-      "word": "黄旭华92岁离休第二天又拄着拐出现",
-      "onboard_time": 1743325880,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143868,
       "num": 164482,
       "word": "冰湖重生首发预告",
@@ -57257,14 +57329,6 @@
       "onboard_time": 1742812761,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141579,
-      "num": 141579,
-      "word": "中国救援队吃上了到达缅甸的第一顿饭",
-      "onboard_time": 1743324621,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141550,
@@ -58828,7 +58892,7 @@
     },
     {
       "raw_hot": 137597,
-      "num": 146671,
+      "num": 265124,
       "word": "王宝强棋士信息量好大",
       "onboard_time": 1743326481,
       "rank": 45,
@@ -60313,6 +60377,14 @@
       "onboard_time": 1742022322,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 133639,
+      "num": 133639,
+      "word": "姚晨新剧高配得感女主",
+      "onboard_time": 1743327980,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 133605,
@@ -65219,6 +65291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121625,
+      "num": 121625,
+      "word": "Gumayusi说Tian太菜了",
+      "onboard_time": 1743330082,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121623,
       "num": 121623,
       "word": "李昀锐撑伞骑马",
@@ -65817,6 +65897,14 @@
       "onboard_time": 1742184743,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 120235,
+      "num": 120235,
+      "word": "四家国有大行定增方案落地",
+      "onboard_time": 1743328940,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 120175,
@@ -66872,14 +66960,6 @@
       "word": "杭州场外国足球迷祝福太有梗了",
       "onboard_time": 1742893822,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 117460,
-      "num": 117460,
-      "word": "林钟勋申裕斌混双夺冠",
-      "onboard_time": 1743326961,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -69009,14 +69089,6 @@
       "onboard_time": 1742820022,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111658,
-      "num": 111658,
-      "word": "大麦bug",
-      "onboard_time": 1743326722,
-      "rank": 38,
-      "category": "互联网,演出"
     },
     {
       "raw_hot": 111643,
@@ -72571,6 +72643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102517,
+      "num": 102517,
+      "word": "郑州真该是世界顶流吧",
+      "onboard_time": 1743329001,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 102481,
       "num": 570645,
       "word": "工程师2万5代办职称只有名字是真的",
@@ -72929,14 +73009,6 @@
       "onboard_time": 1741416263,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101202,
-      "num": 101202,
-      "word": "日本第11轮核污染水排海结束",
-      "onboard_time": 1743326901,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101193,
@@ -74929,6 +75001,14 @@
       "onboard_time": 1742627361,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95623,
+      "num": 95623,
+      "word": "陈哲远状态这么好奖励一部现偶",
+      "onboard_time": 1743330141,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 95610,
@@ -77041,6 +77121,14 @@
       "onboard_time": 1742971281,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87390,
+      "num": 87390,
+      "word": "韩媒批消防员吃这么差怎么灭火",
+      "onboard_time": 1743325280,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 87355,
@@ -81851,6 +81939,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 65125,
+      "num": 178648,
+      "word": "男子救助野猫反被咬持续高烧1月",
+      "onboard_time": 1743328642,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65119,
       "num": 213348,
       "word": "Manus研发团队谢绝来访",
@@ -84419,14 +84515,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 53996,
-      "num": 79684,
-      "word": "韩媒批消防员吃这么差怎么灭火",
-      "onboard_time": 1743325280,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 53978,
       "num": 815177,
       "word": "在云南万物皆可咖",
@@ -85083,6 +85171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51614,
+      "num": 261380,
+      "word": "中国公羊救援队确认3名幸存者",
+      "onboard_time": 1743329540,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 51609,
       "num": 51609,
       "word": "向华强发offer不像演的",
@@ -85673,6 +85769,14 @@
       "onboard_time": 1741869564,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49503,
+      "num": 277280,
+      "word": "中国多名玉石商被困缅甸重灾区",
+      "onboard_time": 1743329121,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 49462,
@@ -92883,6 +92987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24913,
+      "num": 89816,
+      "word": "记者赴缅甸震中探访最新情况",
+      "onboard_time": 1743328161,
+      "rank": 47,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 24899,
       "num": 24899,
       "word": "汪苏泷演唱会",
@@ -95529,6 +95641,14 @@
       "onboard_time": 1742027903,
       "rank": 30,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 16136,
+      "num": 277651,
+      "word": "华人志愿者带药品卫生巾奔赴震区",
+      "onboard_time": 1743329720,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16106,

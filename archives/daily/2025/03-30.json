@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743327377409,
+  "endTime": 1743330211811,
   "band_list": [
     {
       "raw_hot": 2920421,
@@ -129,6 +129,14 @@
       "onboard_time": 1743309389,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 757982,
+      "num": 278530,
+      "word": "王宝宝出轨",
+      "onboard_time": 1743328760,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 756096,
@@ -275,6 +283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 588743,
+      "num": 588743,
+      "word": "黄旭华92岁离休第二天又拄着拐出现",
+      "onboard_time": 1743325880,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 584375,
       "num": 584375,
       "word": "缅甸一中企用汶川地震知识成功避险",
@@ -361,6 +377,14 @@
       "onboard_time": 1743258084,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 480718,
+      "num": 480718,
+      "word": "日本第11轮核污染水排海结束",
+      "onboard_time": 1743326901,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 478111,
@@ -465,6 +489,14 @@
       "onboard_time": 1743262702,
       "rank": 5,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 385760,
+      "num": 261346,
+      "word": "田曦薇接",
+      "onboard_time": 1743327921,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 376959,
@@ -580,7 +612,7 @@
     },
     {
       "raw_hot": 301107,
-      "num": 233201,
+      "num": 258168,
       "word": "新秀 喾逸",
       "onboard_time": 1743326000,
       "rank": 22,
@@ -633,6 +665,22 @@
       "onboard_time": 1743252923,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 278650,
+      "num": 278650,
+      "word": "雁回时",
+      "onboard_time": 1743242423,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 278147,
+      "num": 278147,
+      "word": "种地吧",
+      "onboard_time": 1743327201,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 275862,
@@ -699,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248243,
+      "num": 248243,
+      "word": "莫离 白鹿丞磊",
+      "onboard_time": 1743328222,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246089,
       "num": 246089,
       "word": "华人称缅甸超3层房子或裂缝或倒塌",
@@ -729,6 +785,14 @@
       "onboard_time": 1743298819,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243974,
+      "num": 243974,
+      "word": "林钟勋申裕斌混双夺冠",
+      "onboard_time": 1743326961,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 233032,
@@ -795,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211464,
+      "num": 211464,
+      "word": "吃上了浪姐的第一口好饭",
+      "onboard_time": 1743329421,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211193,
       "num": 255901,
       "word": "王琳54岁的走秀状态",
@@ -833,6 +905,14 @@
       "onboard_time": 1743318741,
       "rank": 38,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 208232,
+      "num": 208232,
+      "word": "大麦bug",
+      "onboard_time": 1743326722,
+      "rank": 38,
+      "category": "互联网,演出"
     },
     {
       "raw_hot": 208069,
@@ -1011,6 +1091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170128,
+      "num": 170128,
+      "word": "中国救援队吃上了到达缅甸的第一顿饭",
+      "onboard_time": 1743324621,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168463,
       "num": 181585,
       "word": "张佳宁新剧被牺牲的一生",
@@ -1033,6 +1121,14 @@
       "onboard_time": 1743314721,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 165830,
+      "num": 165830,
+      "word": "广东事业编",
+      "onboard_time": 1743327801,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 164721,
@@ -1283,14 +1379,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 143870,
-      "num": 174603,
-      "word": "黄旭华92岁离休第二天又拄着拐出现",
-      "onboard_time": 1743325880,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143483,
       "num": 154036,
       "word": "一不小心闯入现实版莫奈花园",
@@ -1331,14 +1419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141579,
-      "num": 141579,
-      "word": "中国救援队吃上了到达缅甸的第一顿饭",
-      "onboard_time": 1743324621,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137780,
       "num": 137780,
       "word": "虞书欣说新剧的演戏方式和以前不一样",
@@ -1348,7 +1428,7 @@
     },
     {
       "raw_hot": 137597,
-      "num": 146671,
+      "num": 265124,
       "word": "王宝强棋士信息量好大",
       "onboard_time": 1743326481,
       "rank": 45,
@@ -1385,6 +1465,14 @@
       "onboard_time": 1743324080,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133639,
+      "num": 133639,
+      "word": "姚晨新剧高配得感女主",
+      "onboard_time": 1743327980,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 130910,
@@ -1499,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121625,
+      "num": 121625,
+      "word": "Gumayusi说Tian太菜了",
+      "onboard_time": 1743330082,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121479,
       "num": 121479,
       "word": "缅甸首都路面裂缝有一米宽",
@@ -1513,6 +1609,14 @@
       "onboard_time": 1743260543,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120235,
+      "num": 120235,
+      "word": "四家国有大行定增方案落地",
+      "onboard_time": 1743328940,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 120082,
@@ -1571,14 +1675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117460,
-      "num": 117460,
-      "word": "林钟勋申裕斌混双夺冠",
-      "onboard_time": 1743326961,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116822,
       "num": 116822,
       "word": "叶童听不懂王珞丹的广东话",
@@ -1633,14 +1729,6 @@
       "onboard_time": 1743240441,
       "rank": 34,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 111658,
-      "num": 111658,
-      "word": "大麦bug",
-      "onboard_time": 1743326722,
-      "rank": 38,
-      "category": "互联网,演出"
     },
     {
       "raw_hot": 111430,
@@ -1795,12 +1883,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 102421,
-      "num": 102421,
-      "word": "种地吧",
-      "onboard_time": 1743327201,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 102517,
+      "num": 102517,
+      "word": "郑州真该是世界顶流吧",
+      "onboard_time": 1743329001,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 102359,
@@ -1809,14 +1897,6 @@
       "onboard_time": 1743303330,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 101202,
-      "num": 101202,
-      "word": "日本第11轮核污染水排海结束",
-      "onboard_time": 1743326901,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101169,
@@ -1863,6 +1943,14 @@
       "num": 96625,
       "word": "陈都灵的扛剧能力",
       "onboard_time": 1743306510,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 95623,
+      "num": 95623,
+      "word": "陈哲远状态这么好奖励一部现偶",
+      "onboard_time": 1743330141,
       "rank": 45,
       "category": "剧集"
     },
@@ -1953,6 +2041,14 @@
       "onboard_time": 1743261443,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87390,
+      "num": 87390,
+      "word": "韩媒批消防员吃这么差怎么灭火",
+      "onboard_time": 1743325280,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 87251,
@@ -2107,6 +2203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65125,
+      "num": 178648,
+      "word": "男子救助野猫反被咬持续高烧1月",
+      "onboard_time": 1743328642,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64752,
       "num": 144994,
       "word": "狼队对战LGDNBW",
@@ -2155,14 +2259,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 53996,
-      "num": 79684,
-      "word": "韩媒批消防员吃这么差怎么灭火",
-      "onboard_time": 1743325280,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 52583,
       "num": 141376,
       "word": "为健身有突破一周吃5种药注射3种针",
@@ -2179,12 +2275,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51614,
+      "num": 261380,
+      "word": "中国公羊救援队确认3名幸存者",
+      "onboard_time": 1743329540,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 51268,
       "num": 51268,
       "word": "白敬亭直播",
       "onboard_time": 1743268998,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49503,
+      "num": 277280,
+      "word": "中国多名玉石商被困缅甸重灾区",
+      "onboard_time": 1743329121,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 48853,
@@ -2201,14 +2313,6 @@
       "onboard_time": 1743273495,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45943,
-      "num": 46030,
-      "word": "雁回时",
-      "onboard_time": 1743242423,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 45231,
@@ -2331,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24913,
+      "num": 89816,
+      "word": "记者赴缅甸震中探访最新情况",
+      "onboard_time": 1743328161,
+      "rank": 47,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 21798,
       "num": 24658,
       "word": "周深风吹过的晨曦首唱舞台",
@@ -2377,6 +2489,14 @@
       "onboard_time": 1743283633,
       "rank": 44,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 16136,
+      "num": 277651,
+      "word": "华人志愿者带药品卫生巾奔赴震区",
+      "onboard_time": 1743329720,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15831,
