@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743320152443,
+  "endTime": 1743323295326,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -504,6 +504,14 @@
       "word": "唐九洲 抄袭",
       "onboard_time": 1742647761,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2920421,
+      "num": 2920421,
+      "word": "新秀王安冉离婚",
+      "onboard_time": 1743319822,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -4609,6 +4617,14 @@
       "onboard_time": 1742477303,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1184826,
+      "num": 1184826,
+      "word": "重庆女孩去缅甸做珠宝直播震中遇难",
+      "onboard_time": 1743318260,
+      "rank": 16,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1184290,
@@ -9571,6 +9587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 741373,
+      "num": 741373,
+      "word": "iPhone截图的隐藏功能",
+      "onboard_time": 1743317902,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 741103,
       "num": 741103,
       "word": "王楚钦倒地正手爆冲",
@@ -10153,6 +10177,14 @@
       "onboard_time": 1742485882,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 713225,
+      "num": 713225,
+      "word": "缅甸地震已致1700人死亡",
+      "onboard_time": 1743320839,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 712863,
@@ -12155,14 +12187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 615152,
-      "num": 440782,
-      "word": "重庆女孩去缅甸做珠宝直播震中遇难",
-      "onboard_time": 1743318260,
-      "rank": 16,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 614587,
       "num": 304413,
       "word": "冯小刚全女阵容",
@@ -12715,14 +12739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 595138,
-      "num": 595138,
-      "word": "iPhone截图的隐藏功能",
-      "onboard_time": 1743317902,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
       "raw_hot": 594776,
       "num": 308358,
       "word": "日本7岁女童被水泥封尸母亲失踪",
@@ -13033,6 +13049,14 @@
       "onboard_time": 1740783793,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 584375,
+      "num": 584375,
+      "word": "缅甸一中企用汶川地震知识成功避险",
+      "onboard_time": 1743318260,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 584271,
@@ -16699,6 +16723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 466152,
+      "num": 337430,
+      "word": "门童 出卡",
+      "onboard_time": 1743318620,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465988,
       "num": 465988,
       "word": "李佳航超话 给李晟投票",
@@ -17617,14 +17649,6 @@
       "onboard_time": 1741443442,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 439907,
-      "num": 439907,
-      "word": "缅甸一中企用汶川地震知识成功避险",
-      "onboard_time": 1743318260,
-      "rank": 13,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 439794,
@@ -24003,14 +24027,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 320976,
-      "num": 320976,
-      "word": "新秀王安冉离婚",
-      "onboard_time": 1743319822,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 320895,
       "num": 320895,
       "word": "胖东来要投资70亿开梦之城",
@@ -27281,6 +27297,14 @@
       "onboard_time": 1742181802,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276652,
+      "num": 276652,
+      "word": "甲亢哥翻译",
+      "onboard_time": 1743318741,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 276605,
@@ -32523,6 +32547,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 227254,
+      "num": 215615,
+      "word": "祝绪丹学舞经历全国统一",
+      "onboard_time": 1743322461,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227231,
       "num": 227231,
       "word": "4岁双胞胎捐髓救妈妈",
@@ -33091,6 +33123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224174,
+      "num": 345447,
+      "word": "抢车位吵架女子叫嚣是正军级",
+      "onboard_time": 1743317301,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224164,
       "num": 224164,
       "word": "黑暗荣耀编剧金银淑的含金量",
@@ -33449,6 +33489,14 @@
       "onboard_time": 1741527323,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222132,
+      "num": 215416,
+      "word": "首款无激素男性避孕药或将问世",
+      "onboard_time": 1743320301,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 222092,
@@ -34603,6 +34651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214954,
+      "num": 214954,
+      "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
+      "onboard_time": 1743320839,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214912,
       "num": 239936,
       "word": "祁煜大天使",
@@ -34865,14 +34921,6 @@
       "onboard_time": 1742128764,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213567,
-      "num": 213567,
-      "word": "甲亢哥翻译",
-      "onboard_time": 1743318741,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 213551,
@@ -35889,6 +35937,14 @@
       "onboard_time": 1742014344,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 208404,
+      "num": 208404,
+      "word": "中国救援队彻夜赶路坐着睡着了",
+      "onboard_time": 1743318741,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 208364,
@@ -38539,6 +38595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199558,
+      "num": 286451,
+      "word": "殡葬管理招新要接触遗体176人报考",
+      "onboard_time": 1743321741,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199528,
       "num": 240754,
       "word": "奥斯卡提名",
@@ -38993,6 +39057,14 @@
       "onboard_time": 1743049943,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197910,
+      "num": 197910,
+      "word": "王曼昱拟获全国先进工作者表彰",
+      "onboard_time": 1743322100,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 197903,
@@ -42897,14 +42969,6 @@
       "onboard_time": 1741506981,
       "rank": 9,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 185217,
-      "num": 185217,
-      "word": "门童 出卡",
-      "onboard_time": 1743318620,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 185159,
@@ -47147,14 +47211,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 168771,
-      "num": 168771,
-      "word": "抢车位吵架女子叫嚣是正军级",
-      "onboard_time": 1743317301,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168744,
       "num": 460913,
       "word": "特朗普对欧盟发威胁",
@@ -48905,6 +48961,14 @@
       "onboard_time": 1740999978,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163579,
+      "num": 202790,
+      "word": "KSG对战DRG",
+      "onboard_time": 1740828142,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 163549,
@@ -53889,14 +53953,6 @@
       "onboard_time": 1742275643,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149763,
-      "num": 163271,
-      "word": "中国救援队彻夜赶路坐着睡着了",
-      "onboard_time": 1743318741,
-      "rank": 38,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 149760,
@@ -62603,6 +62659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127157,
+      "num": 127157,
+      "word": "尚雯婕靠跳舞减脂",
+      "onboard_time": 1743322220,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127114,
       "num": 127114,
       "word": "管乐侯佩岑把邓萃雯逼成什么样了",
@@ -66243,6 +66307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118664,
+      "num": 118664,
+      "word": "樊振东拟获全国先进工作者表彰",
+      "onboard_time": 1743321380,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118653,
       "num": 178627,
       "word": "82年到底生产了几瓶拉菲",
@@ -66441,6 +66513,14 @@
       "onboard_time": 1742112981,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 118239,
+      "num": 118239,
+      "word": "黑神话悟空正向世界传播中国文化",
+      "onboard_time": 1743322040,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 118236,
@@ -68659,6 +68739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112004,
+      "num": 112004,
+      "word": "苦尽柑来遇见你 张家界",
+      "onboard_time": 1743323122,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111933,
       "num": 111933,
       "word": "章若楠双眼wink",
@@ -68793,6 +68881,14 @@
       "onboard_time": 1740996079,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111702,
+      "num": 111702,
+      "word": "周震南选队友一分钟啧了七次",
+      "onboard_time": 1743320960,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 111685,
@@ -70164,7 +70260,7 @@
     },
     {
       "raw_hot": 108071,
-      "num": 727184,
+      "num": 878534,
       "word": "算法向上向善",
       "onboard_time": 1743315921,
       "rank": 2,
@@ -70793,6 +70889,14 @@
       "onboard_time": 1742793744,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 106734,
+      "num": 106734,
+      "word": "猫 讨厌没有边界感的小狗",
+      "onboard_time": 1743319281,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 106680,
@@ -73083,14 +73187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99938,
-      "num": 99938,
-      "word": "猫 讨厌没有边界感的小狗",
-      "onboard_time": 1743319281,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 99876,
       "num": 99876,
       "word": "虞书欣最适配卫枝的一集",
@@ -75035,6 +75131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 94323,
+      "num": 94323,
+      "word": "正常人的减脂餐",
+      "onboard_time": 1743322999,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 94291,
       "num": 202735,
       "word": "金价持续飙涨",
@@ -75489,6 +75593,14 @@
       "onboard_time": 1742857457,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92455,
+      "num": 92455,
+      "word": "邓为不争先争的是滔滔不绝",
+      "onboard_time": 1743323061,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 92452,
@@ -83139,14 +83251,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 57923,
-      "num": 202790,
-      "word": "KSG对战DRG",
-      "onboard_time": 1740828142,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 57882,
       "num": 368279,
       "word": "起底专销国内的洋品牌",
@@ -86289,6 +86393,14 @@
       "onboard_time": 1742533581,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45231,
+      "num": 216013,
+      "word": "缅甸救灾面临电信中断等多重挑战",
+      "onboard_time": 1743321860,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 45144,

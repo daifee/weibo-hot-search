@@ -1,7 +1,15 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743320152443,
+  "endTime": 1743323295326,
   "band_list": [
+    {
+      "raw_hot": 2920421,
+      "num": 2920421,
+      "word": "新秀王安冉离婚",
+      "onboard_time": 1743319822,
+      "rank": 15,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2042923,
       "num": 2042923,
@@ -57,6 +65,14 @@
       "onboard_time": 1743304231,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1184826,
+      "num": 1184826,
+      "word": "重庆女孩去缅甸做珠宝直播震中遇难",
+      "onboard_time": 1743318260,
+      "rank": 16,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1079170,
@@ -115,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 741373,
+      "num": 741373,
+      "word": "iPhone截图的隐藏功能",
+      "onboard_time": 1743317902,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 732831,
       "num": 732831,
       "word": "沈月是快大2第一期总导演",
@@ -136,6 +160,14 @@
       "word": "缅甸震中最高温达40摄氏度",
       "onboard_time": 1743292457,
       "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 713225,
+      "num": 713225,
+      "word": "缅甸地震已致1700人死亡",
+      "onboard_time": 1743320839,
+      "rank": 4,
       "category": "突发/灾害"
     },
     {
@@ -179,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 615152,
-      "num": 440782,
-      "word": "重庆女孩去缅甸做珠宝直播震中遇难",
-      "onboard_time": 1743318260,
-      "rank": 16,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 610043,
       "num": 610043,
       "word": "柯淳被杨天真质疑哭戏第一人",
@@ -211,14 +235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 595138,
-      "num": 595138,
-      "word": "iPhone截图的隐藏功能",
-      "onboard_time": 1743317902,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
       "raw_hot": 594124,
       "num": 247765,
       "word": "120名一把手配偶观看落马官员忏悔",
@@ -233,6 +249,14 @@
       "onboard_time": 1743257844,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 584375,
+      "num": 584375,
+      "word": "缅甸一中企用汶川地震知识成功避险",
+      "onboard_time": 1743318260,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 580168,
@@ -307,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 466152,
+      "num": 337430,
+      "word": "门童 出卡",
+      "onboard_time": 1743318620,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465188,
       "num": 324912,
       "word": "门童多位粉丝失联",
@@ -345,14 +377,6 @@
       "onboard_time": 1743260065,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 439907,
-      "num": 439907,
-      "word": "缅甸一中企用汶川地震知识成功避险",
-      "onboard_time": 1743318260,
-      "rank": 13,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 426522,
@@ -467,14 +491,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 320976,
-      "num": 320976,
-      "word": "新秀王安冉离婚",
-      "onboard_time": 1743319822,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 318415,
       "num": 318415,
       "word": "爸爸没事就对女儿装的监控喊两句",
@@ -545,6 +561,14 @@
       "onboard_time": 1743252923,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 276652,
+      "num": 276652,
+      "word": "甲亢哥翻译",
+      "onboard_time": 1743318741,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 275862,
@@ -659,12 +683,36 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 227254,
+      "num": 215615,
+      "word": "祝绪丹学舞经历全国统一",
+      "onboard_time": 1743322461,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226250,
       "num": 226250,
       "word": "叠纸心意",
       "onboard_time": 1743312570,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 224174,
+      "num": 345447,
+      "word": "抢车位吵架女子叫嚣是正军级",
+      "onboard_time": 1743317301,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222132,
+      "num": 215416,
+      "word": "首款无激素男性避孕药或将问世",
+      "onboard_time": 1743320301,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 218739,
@@ -675,12 +723,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 213567,
-      "num": 213567,
-      "word": "甲亢哥翻译",
-      "onboard_time": 1743318741,
-      "rank": 27,
-      "category": "网红"
+      "raw_hot": 214954,
+      "num": 214954,
+      "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
+      "onboard_time": 1743320839,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212676,
@@ -713,6 +761,14 @@
       "onboard_time": 1743239362,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208404,
+      "num": 208404,
+      "word": "中国救援队彻夜赶路坐着睡着了",
+      "onboard_time": 1743318741,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 208069,
@@ -779,6 +835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199558,
+      "num": 286451,
+      "word": "殡葬管理招新要接触遗体176人报考",
+      "onboard_time": 1743321741,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198478,
       "num": 198478,
       "word": "华人称地震当日缅甸放假救了很多人",
@@ -793,6 +857,14 @@
       "onboard_time": 1743315380,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197910,
+      "num": 197910,
+      "word": "王曼昱拟获全国先进工作者表彰",
+      "onboard_time": 1743322100,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 189893,
@@ -843,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185217,
-      "num": 185217,
-      "word": "门童 出卡",
-      "onboard_time": 1743318620,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184290,
       "num": 184290,
       "word": "韩国志愿者说救援物资被老太偷走了",
@@ -889,14 +953,6 @@
       "onboard_time": 1743314480,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168771,
-      "num": 168771,
-      "word": "抢车位吵架女子叫嚣是正军级",
-      "onboard_time": 1743317301,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168463,
@@ -961,6 +1017,14 @@
       "onboard_time": 1743297260,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 163579,
+      "num": 163579,
+      "word": "KSG对战DRG",
+      "onboard_time": 1743322522,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 163277,
@@ -1097,14 +1161,6 @@
       "onboard_time": 1743312690,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 149763,
-      "num": 163271,
-      "word": "中国救援队彻夜赶路坐着睡着了",
-      "onboard_time": 1743318741,
-      "rank": 38,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 148004,
@@ -1251,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127157,
+      "num": 127157,
+      "word": "尚雯婕靠跳舞减脂",
+      "onboard_time": 1743322220,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126168,
       "num": 126168,
       "word": "赵今麦骄阳似我杀青",
@@ -1347,6 +1411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 118664,
+      "num": 118664,
+      "word": "樊振东拟获全国先进工作者表彰",
+      "onboard_time": 1743321380,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118545,
       "num": 118545,
       "word": "何泓姗澄清",
@@ -1361,6 +1433,14 @@
       "onboard_time": 1743314541,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118239,
+      "num": 118239,
+      "word": "黑神话悟空正向世界传播中国文化",
+      "onboard_time": 1743322040,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 118098,
@@ -1419,12 +1499,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 112004,
+      "num": 112004,
+      "word": "苦尽柑来遇见你 张家界",
+      "onboard_time": 1743323122,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111757,
       "num": 111757,
       "word": "王一博亚军",
       "onboard_time": 1743240441,
       "rank": 34,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 111702,
+      "num": 111702,
+      "word": "周震南选队友一分钟啧了七次",
+      "onboard_time": 1743320960,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 111430,
@@ -1460,7 +1556,7 @@
     },
     {
       "raw_hot": 108071,
-      "num": 727184,
+      "num": 878534,
       "word": "算法向上向善",
       "onboard_time": 1743315921,
       "rank": 2,
@@ -1489,6 +1585,14 @@
       "onboard_time": 1743304108,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106734,
+      "num": 106734,
+      "word": "猫 讨厌没有边界感的小狗",
+      "onboard_time": 1743319281,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 106694,
@@ -1563,14 +1667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99938,
-      "num": 99938,
-      "word": "猫 讨厌没有边界感的小狗",
-      "onboard_time": 1743319281,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 99326,
       "num": 313572,
       "word": "新能源汽车维修工月薪或达2万元",
@@ -1616,6 +1712,22 @@
       "word": "雁回时破三万的意义",
       "onboard_time": 1743304650,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 94323,
+      "num": 94323,
+      "word": "正常人的减脂餐",
+      "onboard_time": 1743322999,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 92455,
+      "num": 92455,
+      "word": "邓为不争先争的是滔滔不绝",
+      "onboard_time": 1743323061,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1897,6 +2009,14 @@
       "onboard_time": 1743242423,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45231,
+      "num": 216013,
+      "word": "缅甸救灾面临电信中断等多重挑战",
+      "onboard_time": 1743321860,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 37940,
