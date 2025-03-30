@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743309848440,
+  "endTime": 1743312148101,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -3835,6 +3835,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1304138,
+      "num": 1304138,
+      "word": "王星回应是否会与嘉嘉结婚",
+      "onboard_time": 1743308130,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1299926,
       "num": 375521,
       "word": "蒋敦豪说请大家坚定的选择十个勤天",
@@ -4937,14 +4945,6 @@
       "onboard_time": 1743205639,
       "rank": 0,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 1146781,
-      "num": 1146781,
-      "word": "王星回应是否会与嘉嘉结婚",
-      "onboard_time": 1743308130,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1145835,
@@ -8387,6 +8387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 811922,
+      "num": 402346,
+      "word": "金秀贤联系雪莉母亲",
+      "onboard_time": 1743308671,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 811373,
       "num": 811373,
       "word": "列车员给孕妇推销建议买不建议用",
@@ -9449,6 +9457,14 @@
       "onboard_time": 1742951600,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 746684,
+      "num": 746684,
+      "word": "陈志朋把还珠格格播出时间写错了",
+      "onboard_time": 1743309389,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 746668,
@@ -15323,6 +15339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502731,
+      "num": 377243,
+      "word": "辛巴疑似怒怼韦雪",
+      "onboard_time": 1743310351,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 502691,
       "num": 502691,
       "word": "白鹿演技",
@@ -16441,14 +16465,6 @@
       "onboard_time": 1743154461,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 471514,
-      "num": 402346,
-      "word": "金秀贤联系雪莉母亲",
-      "onboard_time": 1743308671,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 471477,
@@ -20539,6 +20555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376959,
+      "num": 376959,
+      "word": "韦雪要签前夫",
+      "onboard_time": 1743309269,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 376797,
       "num": 376797,
       "word": "杭州女童坠亡案雇主被保姆女儿起诉",
@@ -20697,6 +20721,14 @@
       "onboard_time": 1742364621,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 373393,
+      "num": 399102,
+      "word": "河北承德2.8级地震",
+      "onboard_time": 1743309331,
+      "rank": 36,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 373283,
@@ -30961,14 +30993,6 @@
       "onboard_time": 1742800343,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 238438,
-      "num": 238438,
-      "word": "韦雪要签前夫",
-      "onboard_time": 1743309269,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 238430,
@@ -44811,6 +44835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176694,
+      "num": 176694,
+      "word": "韩国志愿者说救援物资被老太偷走了",
+      "onboard_time": 1743308790,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 176632,
       "num": 235280,
       "word": "谁懂欧豪北上下跪这一下",
@@ -45145,14 +45177,6 @@
       "onboard_time": 1742124804,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175340,
-      "num": 175340,
-      "word": "陈志朋把还珠格格播出时间写错了",
-      "onboard_time": 1743309389,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 175336,
@@ -46184,6 +46208,14 @@
       "word": "蓝盈莹饭撒在真诚面前一文不值",
       "onboard_time": 1741092260,
       "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 171250,
+      "num": 270054,
+      "word": "魏大勋张含韵唱送你一朵小红花",
+      "onboard_time": 1743310889,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -47337,6 +47369,14 @@
       "onboard_time": 1741592960,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 167447,
+      "num": 167447,
+      "word": "蒋一侨确诊榴莲型人格",
+      "onboard_time": 1743311011,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 167439,
@@ -48545,6 +48585,14 @@
       "onboard_time": 1742693240,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 163739,
+      "num": 402538,
+      "word": "美国群聊泄密事件持续发酵",
+      "onboard_time": 1743305250,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 163726,
@@ -50579,14 +50627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158103,
-      "num": 158103,
-      "word": "河北承德2.8级地震",
-      "onboard_time": 1743309331,
-      "rank": 36,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 158069,
       "num": 158069,
       "word": "刘端端念无双插曲飒MV",
@@ -51739,6 +51779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154756,
+      "num": 161885,
+      "word": "梁朝伟新片国内诈骗国外花",
+      "onboard_time": 1743309510,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154700,
       "num": 154700,
       "word": "王一博的歌声侠气满满",
@@ -52217,6 +52265,14 @@
       "onboard_time": 1741946364,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153579,
+      "num": 153579,
+      "word": "星穹铁道",
+      "onboard_time": 1743311551,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 153577,
@@ -54891,14 +54947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146430,
-      "num": 146430,
-      "word": "梁朝伟新片国内诈骗国外花",
-      "onboard_time": 1743309510,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 146398,
       "num": 146398,
       "word": "中国首班救援航班抵达缅甸",
@@ -55627,6 +55675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144699,
+      "num": 144699,
+      "word": "缅甸地震破裂尺度达数百公里",
+      "onboard_time": 1743311069,
+      "rank": 33,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 144692,
       "num": 171155,
       "word": "王楚钦聊体测",
@@ -56153,6 +56209,14 @@
       "onboard_time": 1742881642,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143317,
+      "num": 143317,
+      "word": "陈奕迅说我的洞已经补好了",
+      "onboard_time": 1743309870,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 143232,
@@ -58625,6 +58689,14 @@
       "onboard_time": 1742208024,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136726,
+      "num": 143365,
+      "word": "周杰伦着急下班的原因找到了",
+      "onboard_time": 1743312029,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 136700,
@@ -61529,14 +61601,6 @@
       "onboard_time": 1741428022,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 128698,
-      "num": 402538,
-      "word": "美国群聊泄密事件持续发酵",
-      "onboard_time": 1743305250,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 128696,
@@ -64729,6 +64793,14 @@
       "onboard_time": 1742457981,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 121479,
+      "num": 121479,
+      "word": "缅甸首都路面裂缝有一米宽",
+      "onboard_time": 1743310650,
+      "rank": 42,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 121474,
@@ -72073,6 +72145,14 @@
       "onboard_time": 1742267062,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101875,
+      "num": 267434,
+      "word": "上手后才知道华为PuraX有多香",
+      "onboard_time": 1743311129,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 101843,
@@ -82907,14 +82987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56921,
-      "num": 147768,
-      "word": "韩国志愿者说救援物资被老太偷走了",
-      "onboard_time": 1743308790,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 56912,
       "num": 84927,
       "word": "7种享受春光的方式",
@@ -93233,6 +93305,14 @@
       "onboard_time": 1742826743,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21049,
+      "num": 392410,
+      "word": "记者问马斯克夜不能寐的问题是什么",
+      "onboard_time": 1743311190,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21045,

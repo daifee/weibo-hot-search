@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743309848440,
+  "endTime": 1743312148101,
   "band_list": [
     {
       "raw_hot": 1925246,
@@ -27,20 +27,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1304138,
+      "num": 1304138,
+      "word": "王星回应是否会与嘉嘉结婚",
+      "onboard_time": 1743308130,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1243253,
       "num": 1243253,
       "word": "老人假扮少女乞讨被识破破口大骂",
       "onboard_time": 1743304231,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1146781,
-      "num": 1146781,
-      "word": "王星回应是否会与嘉嘉结婚",
-      "onboard_time": 1743308130,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1079170,
@@ -65,6 +65,22 @@
       "onboard_time": 1743296481,
       "rank": 5,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 811922,
+      "num": 402346,
+      "word": "金秀贤联系雪莉母亲",
+      "onboard_time": 1743308671,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 746684,
+      "num": 746684,
+      "word": "陈志朋把还珠格格播出时间写错了",
+      "onboard_time": 1743309389,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 732458,
@@ -187,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502731,
+      "num": 377243,
+      "word": "辛巴疑似怒怼韦雪",
+      "onboard_time": 1743310351,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 481378,
       "num": 436014,
       "word": "安静公主长了一个肿瘤",
@@ -201,14 +225,6 @@
       "onboard_time": 1743303930,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 471514,
-      "num": 402346,
-      "word": "金秀贤联系雪莉母亲",
-      "onboard_time": 1743308671,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 465188,
@@ -272,6 +288,22 @@
       "word": "云南4.4级地震初步分析为缅甸地震触发",
       "onboard_time": 1743262702,
       "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 376959,
+      "num": 376959,
+      "word": "韦雪要签前夫",
+      "onboard_time": 1743309269,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 373393,
+      "num": 399102,
+      "word": "河北承德2.8级地震",
+      "onboard_time": 1743309331,
+      "rank": 36,
       "category": "突发/灾害"
     },
     {
@@ -459,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238438,
-      "num": 238438,
-      "word": "韦雪要签前夫",
-      "onboard_time": 1743309269,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 233032,
       "num": 233032,
       "word": "起猛了以为张国立上恋综了",
@@ -488,6 +512,14 @@
       "word": "旅行青蛙",
       "onboard_time": 1743294799,
       "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 218261,
+      "num": 218261,
+      "word": "恋与深空",
+      "onboard_time": 1743311430,
+      "rank": 24,
       "category": "游戏"
     },
     {
@@ -603,12 +635,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 175340,
-      "num": 175340,
-      "word": "陈志朋把还珠格格播出时间写错了",
-      "onboard_time": 1743309389,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 176694,
+      "num": 176694,
+      "word": "韩国志愿者说救援物资被老太偷走了",
+      "onboard_time": 1743308790,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 171342,
@@ -616,6 +648,22 @@
       "word": "彭昱畅怎么帅成这样了",
       "onboard_time": 1743243981,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171250,
+      "num": 270054,
+      "word": "魏大勋张含韵唱送你一朵小红花",
+      "onboard_time": 1743310889,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 167447,
+      "num": 167447,
+      "word": "蒋一侨确诊榴莲型人格",
+      "onboard_time": 1743311011,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -641,6 +689,14 @@
       "onboard_time": 1743309269,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163739,
+      "num": 402538,
+      "word": "美国群聊泄密事件持续发酵",
+      "onboard_time": 1743305250,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 163661,
@@ -691,14 +747,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 158103,
-      "num": 158103,
-      "word": "河北承德2.8级地震",
-      "onboard_time": 1743309331,
-      "rank": 36,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 158069,
       "num": 158069,
       "word": "刘端端念无双插曲飒MV",
@@ -715,12 +763,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154756,
+      "num": 161885,
+      "word": "梁朝伟新片国内诈骗国外花",
+      "onboard_time": 1743309510,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153958,
       "num": 153958,
       "word": "黄龄全开麦唱免我蹉跎苦",
       "onboard_time": 1743303868,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153579,
+      "num": 153579,
+      "word": "星穹铁道",
+      "onboard_time": 1743311551,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 153370,
@@ -763,20 +827,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146430,
-      "num": 146430,
-      "word": "梁朝伟新片国内诈骗国外花",
-      "onboard_time": 1743309510,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 145226,
       "num": 195682,
       "word": "12名中国公民在缅甸地震中受伤",
       "onboard_time": 1743306329,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144699,
+      "num": 144699,
+      "word": "缅甸地震破裂尺度达数百公里",
+      "onboard_time": 1743311069,
+      "rank": 33,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 144680,
@@ -793,6 +857,14 @@
       "onboard_time": 1743293899,
       "rank": 36,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 143317,
+      "num": 143317,
+      "word": "陈奕迅说我的洞已经补好了",
+      "onboard_time": 1743309870,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 142091,
@@ -819,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136726,
+      "num": 143365,
+      "word": "周杰伦着急下班的原因找到了",
+      "onboard_time": 1743312029,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136051,
       "num": 136051,
       "word": "湖人vs灰熊",
@@ -841,14 +921,6 @@
       "onboard_time": 1743299360,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128698,
-      "num": 402538,
-      "word": "美国群聊泄密事件持续发酵",
-      "onboard_time": 1743305250,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 126168,
@@ -881,6 +953,14 @@
       "onboard_time": 1743297140,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 121479,
+      "num": 121479,
+      "word": "缅甸首都路面裂缝有一米宽",
+      "onboard_time": 1743310650,
+      "rank": 42,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 121370,
@@ -945,6 +1025,14 @@
       "onboard_time": 1743245362,
       "rank": 14,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 112369,
+      "num": 112369,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1743311310,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 111757,
@@ -1057,6 +1145,14 @@
       "onboard_time": 1743303330,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101875,
+      "num": 267434,
+      "word": "上手后才知道华为PuraX有多香",
+      "onboard_time": 1743311129,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 101169,
@@ -1291,14 +1387,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 56921,
-      "num": 147768,
-      "word": "韩国志愿者说救援物资被老太偷走了",
-      "onboard_time": 1743308790,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 56113,
       "num": 56113,
       "word": "卫星照片显示内比都机场塔台倒塌",
@@ -1441,6 +1529,14 @@
       "onboard_time": 1743274694,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21049,
+      "num": 392410,
+      "word": "记者问马斯克夜不能寐的问题是什么",
+      "onboard_time": 1743311190,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19304,
