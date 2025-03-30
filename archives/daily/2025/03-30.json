@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743341936241,
+  "endTime": 1743344517933,
   "band_list": [
     {
       "raw_hot": 3126539,
@@ -24,6 +24,14 @@
       "word": "门童",
       "onboard_time": 1743315500,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2010482,
+      "num": 383789,
+      "word": "祝绪丹忍得很辛苦吧",
+      "onboard_time": 1743341363,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -75,14 +83,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1577571,
-      "num": 383789,
-      "word": "祝绪丹忍得很辛苦吧",
-      "onboard_time": 1743341363,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1304138,
       "num": 1304138,
       "word": "王星回应是否会与嘉嘉结婚",
@@ -113,6 +113,14 @@
       "onboard_time": 1743305189,
       "rank": 6,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1066150,
+      "num": 1066150,
+      "word": "小米造出了我15年前想要的相机",
+      "onboard_time": 1743340342,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 1006462,
@@ -235,6 +243,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 723521,
+      "num": 723521,
+      "word": "湖南卫视连发20条迪丽热巴",
+      "onboard_time": 1743340761,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 713225,
       "num": 713225,
       "word": "缅甸地震已致1700人死亡",
@@ -265,14 +281,6 @@
       "onboard_time": 1743306149,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 655583,
-      "num": 655583,
-      "word": "小米造出了我15年前想要的相机",
-      "onboard_time": 1743340342,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 643588,
@@ -345,6 +353,14 @@
       "onboard_time": 1743330981,
       "rank": 45,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 599505,
+      "num": 312630,
+      "word": "贾乃亮甜馨逛三亚夜市vlog",
+      "onboard_time": 1743343463,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 598475,
@@ -587,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 412598,
+      "num": 412598,
+      "word": "汤加群岛地震可能引发海啸",
+      "onboard_time": 1743340222,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 410669,
       "num": 293170,
       "word": "首款无激素男性避孕药或将问世",
@@ -659,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 384026,
-      "num": 384026,
-      "word": "汤加群岛地震可能引发海啸",
-      "onboard_time": 1743340222,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 376959,
       "num": 376959,
       "word": "韦雪要签前夫",
@@ -699,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 355958,
+      "num": 278558,
+      "word": "不建议去死水游泳馆里游泳的原因",
+      "onboard_time": 1743340701,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 355705,
       "num": 246406,
       "word": "Makiyo谈小S近况",
@@ -729,6 +753,14 @@
       "onboard_time": 1743301999,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 350945,
+      "num": 350945,
+      "word": "广东高州地震监控画面",
+      "onboard_time": 1743344303,
+      "rank": 8,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 348387,
@@ -851,6 +883,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 284587,
+      "num": 284587,
+      "word": "爱思 点菜",
+      "onboard_time": 1743342684,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 284501,
       "num": 224967,
       "word": "范闲 张若昀又为你拿奖了",
@@ -881,6 +921,14 @@
       "onboard_time": 1743252923,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 278555,
+      "num": 278555,
+      "word": "单依纯演唱会上的高定造型",
+      "onboard_time": 1743342684,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 278147,
@@ -945,6 +993,14 @@
       "onboard_time": 1743293299,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259625,
+      "num": 259625,
+      "word": "雁回时之魔童降世",
+      "onboard_time": 1743343223,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 254406,
@@ -1075,14 +1131,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 224592,
-      "num": 239024,
-      "word": "湖南卫视连发20条迪丽热巴",
-      "onboard_time": 1743340761,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 224174,
       "num": 345447,
       "word": "抢车位吵架女子叫嚣是正军级",
@@ -1153,6 +1201,14 @@
       "onboard_time": 1743307470,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211099,
+      "num": 297528,
+      "word": "马拉松经济开始入侵县城",
+      "onboard_time": 1743342924,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210400,
@@ -1331,12 +1387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191380,
-      "num": 156140,
-      "word": "不建议去死水游泳馆里游泳的原因",
-      "onboard_time": 1743340701,
-      "rank": 30,
-      "category": "科学科普"
+      "raw_hot": 196552,
+      "num": 196552,
+      "word": "2架运20飞赴缅甸",
+      "onboard_time": 1743341662,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189893,
@@ -1459,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174963,
+      "num": 174963,
+      "word": "淮水竹亭配角全员升咖",
+      "onboard_time": 1743342084,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174916,
       "num": 174916,
       "word": "AJ贴脸开团Doinb",
@@ -1505,6 +1569,14 @@
       "onboard_time": 1743314480,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170553,
+      "num": 170553,
+      "word": "全国下周统一发放正常春天",
+      "onboard_time": 1743342563,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170128,
@@ -1635,6 +1707,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 161339,
+      "num": 161339,
+      "word": "刘忻的裙子是用衣服做的吗",
+      "onboard_time": 1743342983,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 160726,
+      "num": 168787,
+      "word": "雁回时苗贵妃自缢",
+      "onboard_time": 1743342443,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160160,
       "num": 160160,
       "word": "来个人把陈楚生网线拔了",
@@ -1681,6 +1769,14 @@
       "onboard_time": 1743306750,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156440,
+      "num": 172085,
+      "word": "缅甸华人称一家五口仅2孩子逃生",
+      "onboard_time": 1743343885,
+      "rank": 29,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 156114,
@@ -1769,6 +1865,14 @@
       "onboard_time": 1743251724,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 150760,
+      "num": 150760,
+      "word": "陈哲远 看我行不行",
+      "onboard_time": 1743341903,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 150433,
@@ -1907,20 +2011,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141054,
+      "num": 141054,
+      "word": "王一博赛车断层登顶微指",
+      "onboard_time": 1743341662,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137780,
       "num": 137780,
       "word": "虞书欣说新剧的演戏方式和以前不一样",
       "onboard_time": 1743315380,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137658,
-      "num": 137658,
-      "word": "王一博赛车断层登顶微指",
-      "onboard_time": 1743341662,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 137597,
@@ -2011,6 +2115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131390,
+      "num": 131390,
+      "word": "贾静雯以美之名出场就被砸鸡蛋",
+      "onboard_time": 1743341903,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131067,
       "num": 131067,
       "word": "钱是在外打工人最大的底气",
@@ -2065,6 +2177,14 @@
       "onboard_time": 1743322220,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126210,
+      "num": 126210,
+      "word": "EDGM锁定第三轮S组",
+      "onboard_time": 1743344184,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 126168,
@@ -2185,14 +2305,6 @@
       "onboard_time": 1743299780,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 119100,
-      "num": 137748,
-      "word": "2架运20飞赴缅甸",
-      "onboard_time": 1743341662,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119030,
@@ -2347,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109419,
+      "num": 109419,
+      "word": "陈楚生演唱会",
+      "onboard_time": 1743342622,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108091,
       "num": 108091,
       "word": "女子嫌头发被剪太丑当场报警",
@@ -2417,14 +2537,6 @@
       "onboard_time": 1743244582,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 105388,
-      "num": 105388,
-      "word": "贾静雯以美之名出场就被砸鸡蛋",
-      "onboard_time": 1743341903,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 105229,
@@ -2811,14 +2923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75970,
-      "num": 138868,
-      "word": "陈哲远 看我行不行",
-      "onboard_time": 1743341903,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 75467,
       "num": 76284,
       "word": "林一发长文告别国王",
@@ -2849,6 +2953,14 @@
       "onboard_time": 1743284233,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 70206,
+      "num": 814150,
+      "word": "4分钟感受广西的好嘢",
+      "onboard_time": 1743342023,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66410,
@@ -2955,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49539,
+      "num": 278560,
+      "word": "街道办强拆试剂厂被判赔506万后续",
+      "onboard_time": 1743343703,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48853,
       "num": 243706,
       "word": "官方通报云南会泽4.4级地震",
@@ -2985,6 +3105,14 @@
       "onboard_time": 1743329720,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42592,
+      "num": 278565,
+      "word": "迪士尼偶遇戚薇李承铉一家三口",
+      "onboard_time": 1743344003,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 37940,
