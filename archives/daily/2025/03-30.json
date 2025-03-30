@@ -1,7 +1,15 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743316326595,
+  "endTime": 1743317127696,
   "band_list": [
+    {
+      "raw_hot": 2042923,
+      "num": 2042923,
+      "word": "门童",
+      "onboard_time": 1743315500,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1925246,
       "num": 362108,
@@ -51,14 +59,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1100739,
-      "num": 1176118,
-      "word": "门童",
-      "onboard_time": 1743315500,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1079170,
       "num": 1079170,
       "word": "赴缅甸中国救援队全员服用霍乱疫苗",
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 756096,
+      "num": 463740,
+      "word": "彭小苒何泓姗房琪训练室无剪辑记录",
+      "onboard_time": 1743313529,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 732458,
       "num": 897471,
       "word": "云南天空惊现血红太阳",
@@ -113,14 +121,6 @@
       "onboard_time": 1743292457,
       "rank": 0,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 716961,
-      "num": 393629,
-      "word": "彭小苒何泓姗房琪训练室无剪辑记录",
-      "onboard_time": 1743313529,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 655659,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 635367,
-      "num": 393495,
+      "num": 420564,
       "word": "百万网红孜罗拉离婚",
       "onboard_time": 1743313761,
       "rank": 7,
@@ -283,6 +283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 457647,
+      "num": 457647,
+      "word": "缅甸反政府武装宣布停火两周",
+      "onboard_time": 1743313050,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 454377,
       "num": 454377,
       "word": "蔡徐坤ins",
@@ -329,14 +337,6 @@
       "onboard_time": 1743246564,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 397910,
-      "num": 397910,
-      "word": "缅甸反政府武装宣布停火两周",
-      "onboard_time": 1743313050,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 396224,
@@ -435,12 +435,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305092,
+      "raw_hot": 317532,
       "num": 305092,
       "word": "偶遇赵露思谈工作",
       "onboard_time": 1743314480,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304490,
+      "num": 261636,
+      "word": "珊瑚海姐学时间线",
+      "onboard_time": 1743312570,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 288103,
@@ -515,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261636,
-      "num": 261636,
-      "word": "珊瑚海姐学时间线",
-      "onboard_time": 1743312570,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 261204,
       "num": 243427,
       "word": "王一博发烧了",
@@ -587,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 228658,
+      "num": 370092,
+      "word": "缅甸强震已致曼谷17死32伤",
+      "onboard_time": 1743315260,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 226250,
       "num": 226250,
       "word": "叠纸心意",
@@ -643,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207214,
+      "num": 207214,
+      "word": "李晟如果有时光机想在北京买房",
+      "onboard_time": 1743315801,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206840,
       "num": 206840,
       "word": "明日方舟",
@@ -675,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200796,
+      "num": 200796,
+      "word": "沈月是快大2第一期总导演",
+      "onboard_time": 1743316580,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199656,
       "num": 199656,
       "word": "wbb退出",
@@ -691,8 +715,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 196814,
-      "num": 196814,
+      "raw_hot": 197998,
+      "num": 197998,
       "word": "何广智把周扬青钓成翘嘴了",
       "onboard_time": 1743315380,
       "rank": 27,
@@ -739,6 +763,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 174381,
+      "num": 174381,
+      "word": "王艳说给周如音一点时间",
+      "onboard_time": 1743316041,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171534,
+      "num": 171534,
+      "word": "代号鸢",
+      "onboard_time": 1743315741,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171342,
       "num": 171342,
       "word": "彭昱畅怎么帅成这样了",
@@ -777,6 +817,14 @@
       "onboard_time": 1743311011,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165961,
+      "num": 165961,
+      "word": "缅甸地震引发土壤液化",
+      "onboard_time": 1743314721,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 164721,
@@ -891,14 +939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 154450,
-      "num": 154450,
-      "word": "王艳说给周如音一点时间",
-      "onboard_time": 1743316041,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153958,
       "num": 153958,
       "word": "黄龄全开麦唱免我蹉跎苦",
@@ -979,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145279,
-      "num": 145279,
-      "word": "李晟如果有时光机想在北京买房",
-      "onboard_time": 1743315801,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145226,
       "num": 195682,
       "word": "12名中国公民在缅甸地震中受伤",
@@ -1035,14 +1067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142589,
-      "num": 142589,
-      "word": "缅甸地震引发土壤液化",
-      "onboard_time": 1743314721,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 142228,
       "num": 142228,
       "word": "网传薛之谦加盟天赐的声音",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1743264624,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141979,
-      "num": 370092,
-      "word": "缅甸强震已致曼谷17死32伤",
-      "onboard_time": 1743315260,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 137780,
@@ -1099,14 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135249,
-      "num": 135249,
-      "word": "代号鸢",
-      "onboard_time": 1743315741,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 130910,
       "num": 252470,
       "word": "小学副课老师像筋疲力尽的乙方",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1743302550,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125957,
+      "num": 125957,
+      "word": "A勒布伦右手植入钢钉",
+      "onboard_time": 1743316761,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 123323,
@@ -1217,6 +1233,14 @@
       "onboard_time": 1743302069,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116822,
+      "num": 116822,
+      "word": "叶童听不懂王珞丹的广东话",
+      "onboard_time": 1743316641,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 116311,
@@ -1427,12 +1451,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 91411,
+      "num": 135113,
+      "word": "王锵新剧又当舅又当爸",
+      "onboard_time": 1743317060,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90825,
       "num": 90825,
       "word": "韩国扑救山火消防员的盒饭",
       "onboard_time": 1743237682,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90047,
+      "num": 163982,
+      "word": "李现国色芳华片场库存",
+      "onboard_time": 1743314060,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 89551,
@@ -1539,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78337,
+      "num": 185235,
+      "word": "周末就要多做反差大的事",
+      "onboard_time": 1743315260,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76100,
       "num": 79895,
       "word": "宋亚轩刘耀文冷战过",
@@ -1563,12 +1611,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66864,
+      "num": 188488,
+      "word": "海归女硕士婚前轻生单位被判无责",
+      "onboard_time": 1743315921,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66198,
+      "num": 207576,
+      "word": "泰国女子见到中国救援队后泪目",
+      "onboard_time": 1743316820,
+      "rank": 20,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 65866,
       "num": 65866,
       "word": "檀健次猎罪图鉴历史完播率第一",
       "onboard_time": 1743267560,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63502,
+      "num": 478790,
+      "word": "算法向上向善",
+      "onboard_time": 1743315921,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62078,
@@ -1643,14 +1715,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 47447,
-      "num": 185235,
-      "word": "周末就要多做反差大的事",
-      "onboard_time": 1743315260,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 46774,
       "num": 46774,
       "word": "12306上真的可以免费换火车票",
@@ -1667,12 +1731,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41389,
-      "num": 188488,
-      "word": "海归女硕士婚前轻生单位被判无责",
-      "onboard_time": 1743315921,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 37940,
+      "num": 239163,
+      "word": "中国商贩讲述曼德勒现状",
+      "onboard_time": 1743315801,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 37894,
@@ -1697,6 +1761,14 @@
       "onboard_time": 1743280333,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37246,
+      "num": 232978,
+      "word": "空中直击震中曼德勒救援现场",
+      "onboard_time": 1743316101,
+      "rank": 22,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 35353,
@@ -1747,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26623,
-      "num": 239163,
-      "word": "中国商贩讲述曼德勒现状",
-      "onboard_time": 1743315801,
-      "rank": 19,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 21798,
       "num": 24658,
       "word": "周深风吹过的晨曦首唱舞台",
@@ -1776,14 +1840,6 @@
       "word": "缅甸地震救援在一线",
       "onboard_time": 1743282374,
       "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 18661,
-      "num": 216227,
-      "word": "空中直击震中曼德勒救援现场",
-      "onboard_time": 1743316101,
-      "rank": 22,
       "category": "突发/灾害"
     },
     {
@@ -1809,14 +1865,6 @@
       "onboard_time": 1743280934,
       "rank": 48,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 15824,
-      "num": 478790,
-      "word": "算法向上向善",
-      "onboard_time": 1743315921,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11005,
