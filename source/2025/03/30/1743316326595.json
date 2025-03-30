@@ -1,0 +1,410 @@
+{
+  "runTime": 1743316326595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1100739,
+        "num": 1176118,
+        "word": "门童",
+        "onboard_time": 1743315500,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491365,
+        "num": 491365,
+        "word": "俄乌以1比21交换遗体",
+        "onboard_time": 1743299120,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15824,
+        "num": 478790,
+        "word": "算法向上向善",
+        "onboard_time": 1743315921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 885718,
+        "num": 478783,
+        "word": "王星回应是否会与嘉嘉结婚",
+        "onboard_time": 1743308130,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478769,
+        "num": 478769,
+        "word": "缅甸地震如同一把巨刀切入地球",
+        "onboard_time": 1743305010,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 397910,
+        "num": 397910,
+        "word": "缅甸反政府武装宣布停火两周",
+        "onboard_time": 1743313050,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 716961,
+        "num": 393629,
+        "word": "彭小苒何泓姗房琪训练室无剪辑记录",
+        "onboard_time": 1743313529,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635367,
+        "num": 393495,
+        "word": "百万网红孜罗拉离婚",
+        "onboard_time": 1743313761,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 383948,
+        "num": 383948,
+        "word": "河北承德2.8级地震",
+        "onboard_time": 1743309331,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 141979,
+        "num": 370092,
+        "word": "缅甸强震已致曼谷17死32伤",
+        "onboard_time": 1743315260,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1741150,
+        "num": 356039,
+        "word": "双胞胎当了1年朋友才发现是亲姐妹",
+        "onboard_time": 1743312868,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495685,
+        "num": 351552,
+        "word": "金秀贤联系雪莉母亲",
+        "onboard_time": 1743308671,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438608,
+        "num": 337074,
+        "word": "陈志朋把还珠格格播出时间写错了",
+        "onboard_time": 1743309389,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325028,
+        "num": 325028,
+        "word": "赴缅甸中国救援队全员服用霍乱疫苗",
+        "onboard_time": 1743305189,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 315199,
+        "num": 315199,
+        "word": "周杰伦着急下班的原因找到了",
+        "onboard_time": 1743312029,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86704,
+        "num": 305672,
+        "word": "使馆协助数十位中国公民找到亲友",
+        "onboard_time": 1743314541,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 305092,
+        "num": 305092,
+        "word": "偶遇赵露思谈工作",
+        "onboard_time": 1743314480,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261636,
+        "num": 261636,
+        "word": "珊瑚海姐学时间线",
+        "onboard_time": 1743312570,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239874,
+        "num": 239874,
+        "word": "老人假扮少女乞讨被识破破口大骂",
+        "onboard_time": 1743304231,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26623,
+        "num": 239163,
+        "word": "中国商贩讲述曼德勒现状",
+        "onboard_time": 1743315801,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 238968,
+        "num": 238968,
+        "word": "五月天直播",
+        "onboard_time": 1743312868,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222558,
+        "num": 222558,
+        "word": "恋与深空",
+        "onboard_time": 1743311430,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18661,
+        "num": 216227,
+        "word": "空中直击震中曼德勒救援现场",
+        "onboard_time": 1743316101,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 213801,
+        "num": 213801,
+        "word": "门童大粉宣布停更",
+        "onboard_time": 1743302909,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202862,
+        "num": 202862,
+        "word": "Jennie红色抹胸裙",
+        "onboard_time": 1743302308,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202114,
+        "num": 202114,
+        "word": "分手后才求婚算什么人啊",
+        "onboard_time": 1743313882,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198660,
+        "num": 198660,
+        "word": "云南曲靖4.4级地震",
+        "onboard_time": 1743246564,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 196814,
+        "num": 196814,
+        "word": "何广智把周扬青钓成翘嘴了",
+        "onboard_time": 1743315380,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41389,
+        "num": 188488,
+        "word": "海归女硕士婚前轻生单位被判无责",
+        "onboard_time": 1743315921,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47447,
+        "num": 185235,
+        "word": "周末就要多做反差大的事",
+        "onboard_time": 1743315260,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183547,
+        "num": 183547,
+        "word": "女子戴隐形赏花后视力骤降至0.5",
+        "onboard_time": 1743307890,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170577,
+        "num": 170577,
+        "word": "没有人可以真正做到感同身受",
+        "onboard_time": 1743314480,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161930,
+        "num": 161930,
+        "word": "中国14颗卫星助力缅甸震后救援",
+        "onboard_time": 1743312269,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 159146,
+        "num": 159146,
+        "word": "韦雪要签前夫",
+        "onboard_time": 1743309269,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154450,
+        "num": 154450,
+        "word": "王艳说给周如音一点时间",
+        "onboard_time": 1743316041,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153199,
+        "num": 153199,
+        "word": "叠纸心意",
+        "onboard_time": 1743312570,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152628,
+        "num": 152628,
+        "word": "男子吃增肌药3个月后性格大变",
+        "onboard_time": 1743314360,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147110,
+        "num": 147110,
+        "word": "贾静雯我的初代白月光",
+        "onboard_time": 1743315560,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118321,
+        "num": 145596,
+        "word": "五月天成团日演唱会",
+        "onboard_time": 1743314541,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145279,
+        "num": 145279,
+        "word": "李晟如果有时光机想在北京买房",
+        "onboard_time": 1743315801,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142589,
+        "num": 142589,
+        "word": "缅甸地震引发土壤液化",
+        "onboard_time": 1743314721,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142228,
+        "num": 142228,
+        "word": "网传薛之谦加盟天赐的声音",
+        "onboard_time": 1743316160,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34429,
+        "num": 139658,
+        "word": "外资高管畅谈爱上中国的理由",
+        "onboard_time": 1743308430,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138749,
+        "num": 138749,
+        "word": "吴宣仪我又初恋了又破千万了",
+        "onboard_time": 1743306149,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137780,
+        "num": 137780,
+        "word": "虞书欣说新剧的演戏方式和以前不一样",
+        "onboard_time": 1743315380,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135249,
+        "num": 135249,
+        "word": "代号鸢",
+        "onboard_time": 1743315741,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130665,
+        "num": 130665,
+        "word": "41岁全职爸爸早5晚12脚不沾地",
+        "onboard_time": 1743306930,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123264,
+        "num": 123264,
+        "word": "Jennie获奖感言",
+        "onboard_time": 1743312690,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117780,
+        "num": 117780,
+        "word": "韩国志愿者说救援物资被老太偷走了",
+        "onboard_time": 1743308790,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 10714,
+        "num": 115878,
+        "word": "沉浸一场关于竹子的艺术之旅",
+        "onboard_time": 1743314541,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}
