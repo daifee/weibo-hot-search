@@ -1,0 +1,410 @@
+{
+  "runTime": 1743301174182,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 728732,
+        "num": 1116597,
+        "word": "缅甸震中最高温达40摄氏度",
+        "onboard_time": 1743292457,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 624559,
+        "num": 624559,
+        "word": "雁回时口碑逆跌",
+        "onboard_time": 1743292457,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19152,
+        "num": 548931,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 546422,
+        "num": 546422,
+        "word": "男子健身房练腿时地震只能往外爬",
+        "onboard_time": 1743297500,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464649,
+        "num": 464649,
+        "word": "缅甸地震被埋压近40小时老人获救",
+        "onboard_time": 1743295641,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 532808,
+        "num": 455310,
+        "word": "王一博抛媚眼给瞎子看",
+        "onboard_time": 1743296481,
+        "rank": 5,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 529605,
+        "num": 452180,
+        "word": "柯淳被杨天真质疑哭戏第一人",
+        "onboard_time": 1743299301,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415087,
+        "num": 415087,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1743298699,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338455,
+        "num": 338455,
+        "word": "上海最窄人行道仅10厘米宽",
+        "onboard_time": 1743293299,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245674,
+        "num": 245674,
+        "word": "中国救援队抵缅甸席地而睡",
+        "onboard_time": 1743297800,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 728439,
+        "num": 244512,
+        "word": "谢婉婷",
+        "onboard_time": 1743262883,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 636651,
+        "num": 240264,
+        "word": "俄乌以1比21交换遗体",
+        "onboard_time": 1743299120,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418885,
+        "num": 236473,
+        "word": "120名一把手配偶观看落马官员忏悔",
+        "onboard_time": 1743289576,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356295,
+        "num": 232378,
+        "word": "赵露思穿了手艺人爷爷做的鞋",
+        "onboard_time": 1743260904,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351289,
+        "num": 231238,
+        "word": "云南曲靖4.4级地震",
+        "onboard_time": 1743246564,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 329924,
+        "num": 225947,
+        "word": "雁回时全员升咖",
+        "onboard_time": 1743297021,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284501,
+        "num": 224967,
+        "word": "范闲 张若昀又为你拿奖了",
+        "onboard_time": 1743296720,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265911,
+        "num": 220638,
+        "word": "Makiyo谈小S近况",
+        "onboard_time": 1743291498,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218739,
+        "num": 218739,
+        "word": "旅行青蛙",
+        "onboard_time": 1743294799,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59114,
+        "num": 213525,
+        "word": "合肥警方通报群治集中安葬点遭破坏",
+        "onboard_time": 1743300321,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 722720,
+        "num": 213206,
+        "word": "bnd粉丝去世",
+        "onboard_time": 1743235701,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212676,
+        "num": 212676,
+        "word": "4种食物堪比天然防晒霜",
+        "onboard_time": 1743297200,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210688,
+        "num": 210688,
+        "word": "失联中国留学生罗生门遗体被找到",
+        "onboard_time": 1743257844,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 207385,
+        "num": 207385,
+        "word": "专家称大众对食品添加剂可能有误解",
+        "onboard_time": 1743299540,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203581,
+        "num": 203581,
+        "word": "武汉小伙靠写字7年还清2000万巨债",
+        "onboard_time": 1743264022,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198359,
+        "num": 198359,
+        "word": "减脂期需要避雷的6种食物",
+        "onboard_time": 1743260485,
+        "rank": 25,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 196862,
+        "num": 196862,
+        "word": "云南天空惊现血红太阳",
+        "onboard_time": 1743258084,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196646,
+        "num": 196646,
+        "word": "王一博发烧了",
+        "onboard_time": 1743293299,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144174,
+        "num": 171960,
+        "word": "官方通报女子追骂他人称是司法局的",
+        "onboard_time": 1743298819,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163661,
+        "num": 163661,
+        "word": "王宝宝 爱水水",
+        "onboard_time": 1743297260,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143483,
+        "num": 154036,
+        "word": "一不小心闯入现实版莫奈花园",
+        "onboard_time": 1743293899,
+        "rank": 30,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 101169,
+        "num": 151362,
+        "word": "詹姆斯42000分",
+        "onboard_time": 1743300981,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148956,
+        "num": 148956,
+        "word": "曝金秀贤曾和著名女演员交往",
+        "onboard_time": 1743250522,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148623,
+        "num": 148623,
+        "word": "爸爸没事就对女儿装的监控喊两句",
+        "onboard_time": 1743262941,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72538,
+        "num": 130224,
+        "word": "通信技术试验卫星十六号发射成功",
+        "onboard_time": 1743284233,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129920,
+        "num": 129920,
+        "word": "赵晓卉雷军单向奔赴",
+        "onboard_time": 1743299360,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123323,
+        "num": 123323,
+        "word": "福彩工作人员谈AI预测彩票中奖号码",
+        "onboard_time": 1743297380,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121675,
+        "num": 121675,
+        "word": "韩国消防员吃的比犯人还差",
+        "onboard_time": 1743297140,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118325,
+        "num": 118325,
+        "word": "张丹峰以为来无限超越班是当监制的",
+        "onboard_time": 1743260543,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115781,
+        "num": 115781,
+        "word": "缅甸震中城市至今仍断电断网",
+        "onboard_time": 1743297740,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115160,
+        "num": 115160,
+        "word": "安静公主长了一个肿瘤",
+        "onboard_time": 1743258084,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 113496,
+        "num": 113496,
+        "word": "孔龙自美归国",
+        "onboard_time": 1743277275,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112381,
+        "num": 112381,
+        "word": "刘慈欣称DeepSeek完全可能替代人类作家",
+        "onboard_time": 1743289576,
+        "rank": 42,
+        "category": "互联网,读书作家"
+      },
+      {
+        "raw_hot": 112251,
+        "num": 112251,
+        "word": "缅甸7.9级地震前后对比",
+        "onboard_time": 1743252502,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111069,
+        "num": 111069,
+        "word": "如何看待北大硕士当食堂阿姨",
+        "onboard_time": 1743300441,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110560,
+        "num": 110560,
+        "word": "3月就快过去了",
+        "onboard_time": 1743295340,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109827,
+        "num": 109827,
+        "word": "中国救援队的睡姿让人心疼",
+        "onboard_time": 1743299780,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 100151,
+        "num": 100151,
+        "word": "雁回时站内热度破30000",
+        "onboard_time": 1743259944,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100107,
+        "num": 100107,
+        "word": "浪姐聊天记录",
+        "onboard_time": 1743254303,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99681,
+        "num": 99681,
+        "word": "闫妮怎么干农活也微醺啊",
+        "onboard_time": 1743296000,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国是有利于外资企业投资兴业的一方沃土#"
+    }
+  }
+}
