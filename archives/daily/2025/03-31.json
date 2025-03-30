@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743360197374,
+  "endTime": 1743362324259,
   "band_list": [
     {
       "raw_hot": 972290,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78031,
+      "num": 78031,
+      "word": "赴缅甸中国公羊救援队发声",
+      "onboard_time": 1743359954,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 77986,
       "num": 77986,
       "word": "胡兵 陈楚生站哥",
@@ -435,6 +443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 49277,
+      "num": 61385,
+      "word": "缅甸一少年被埋获救送医途中去世",
+      "onboard_time": 1743358755,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 43840,
       "num": 43840,
       "word": "金枝",
@@ -449,14 +465,6 @@
       "onboard_time": 1743352159,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42889,
-      "num": 61385,
-      "word": "缅甸一少年被埋获救送医途中去世",
-      "onboard_time": 1743358755,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 41866,
@@ -489,14 +497,6 @@
       "onboard_time": 1743355876,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11990,
-      "num": 30644,
-      "word": "赴缅甸中国公羊救援队发声",
-      "onboard_time": 1743359954,
-      "rank": 23,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 4423,
