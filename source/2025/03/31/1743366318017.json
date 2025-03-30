@@ -1,0 +1,410 @@
+{
+  "runTime": 1743366318017,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 128841,
+        "num": 128841,
+        "word": "第四代住宅来了",
+        "onboard_time": 1743348802,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80798,
+        "num": 80798,
+        "word": "赴缅甸中国公羊救援队发声",
+        "onboard_time": 1743359954,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2782,
+        "num": 70666,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100979,
+        "num": 70369,
+        "word": "吴彦祖发文谴责飞机上光脚踩座椅乘客",
+        "onboard_time": 1743344963,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68777,
+        "num": 68777,
+        "word": "汤加群岛7.3级地震",
+        "onboard_time": 1743339381,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 40285,
+        "num": 40285,
+        "word": "缅甸华人称一家五口仅2孩子逃生",
+        "onboard_time": 1743343885,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 32641,
+        "num": 32641,
+        "word": "一全职妈妈离婚获2万元经济补偿",
+        "onboard_time": 1743346643,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31711,
+        "num": 31711,
+        "word": "甲亢哥尊重科比拒绝抽象",
+        "onboard_time": 1743348921,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29219,
+        "num": 29219,
+        "word": "小米造出了我15年前想要的相机",
+        "onboard_time": 1743340342,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 28473,
+        "num": 28473,
+        "word": "念无双有效播放量破5000万",
+        "onboard_time": 1743362834,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67712,
+        "num": 28341,
+        "word": "祝绪丹忍得很辛苦吧",
+        "onboard_time": 1743341363,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31420,
+        "num": 28240,
+        "word": "贾乃亮甜馨逛三亚夜市vlog",
+        "onboard_time": 1743343463,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31395,
+        "num": 27125,
+        "word": "李惠利 与世界逆行的女人",
+        "onboard_time": 1743346222,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25766,
+        "num": 25766,
+        "word": "缅甸一少年被埋获救送医途中去世",
+        "onboard_time": 1743358755,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 24537,
+        "num": 24537,
+        "word": "胡烨韬 我要把名字刻在C位上",
+        "onboard_time": 1743350422,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24391,
+        "num": 24391,
+        "word": "广东高州地震监控画面",
+        "onboard_time": 1743344303,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 23724,
+        "num": 23724,
+        "word": "减脂食谱里为什么永远有西兰花",
+        "onboard_time": 1743346521,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23268,
+        "num": 23268,
+        "word": "缅甸地震已致1700人死亡",
+        "onboard_time": 1743320839,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 20197,
+        "num": 20197,
+        "word": "湖南卫视连发20条迪丽热巴",
+        "onboard_time": 1743340761,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15892,
+        "num": 19757,
+        "word": "权志龙演唱会",
+        "onboard_time": 1743332902,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21438,
+        "num": 19583,
+        "word": "金赛纶雪莉具荷拉的共同点",
+        "onboard_time": 1743347003,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19397,
+        "num": 19397,
+        "word": "不建议去死水游泳馆里游泳的原因",
+        "onboard_time": 1743340701,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 19072,
+        "num": 19072,
+        "word": "全国下周统一发放正常春天",
+        "onboard_time": 1743342563,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18505,
+        "num": 18505,
+        "word": "金秀贤记者会不回答问题",
+        "onboard_time": 1743348621,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12638,
+        "num": 18499,
+        "word": "海空卫士王伟烈士墓前放满战机模型",
+        "onboard_time": 1743364273,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 18498,
+        "num": 18498,
+        "word": "汤加群岛地震可能引发海啸",
+        "onboard_time": 1743340222,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 16300,
+        "num": 16300,
+        "word": "张本美和女单夺冠",
+        "onboard_time": 1743338903,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15038,
+        "num": 16297,
+        "word": "成龙御用反派去世",
+        "onboard_time": 1743338123,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14802,
+        "num": 16286,
+        "word": "甲亢哥到成都了",
+        "onboard_time": 1743349339,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 13302,
+        "num": 16285,
+        "word": "陈都灵 金枝",
+        "onboard_time": 1743334762,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16687,
+        "num": 16275,
+        "word": "全职妈妈离婚获2万元经济补偿",
+        "onboard_time": 1743354737,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16271,
+        "num": 16271,
+        "word": "受害者奶奶曾认为孩子被拐是自己的错",
+        "onboard_time": 1743362416,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15874,
+        "num": 15874,
+        "word": "被小西天的极繁美学震撼到",
+        "onboard_time": 1743352519,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 15617,
+        "num": 15617,
+        "word": "台媒称中国驰援缅甸有3大黑科技",
+        "onboard_time": 1743337882,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13282,
+        "num": 15454,
+        "word": "直击缅甸震中救援",
+        "onboard_time": 1743364814,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 15449,
+        "num": 15449,
+        "word": "幸存者在废墟外呼唤被困亲人名字",
+        "onboard_time": 1743349222,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15095,
+        "num": 15095,
+        "word": "缅籍华人父母被埋哽咽受访",
+        "onboard_time": 1743357555,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14899,
+        "num": 14899,
+        "word": "广东高州3.0级地震",
+        "onboard_time": 1743339861,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 14798,
+        "num": 14798,
+        "word": "缅甸大学生感谢中国救援队第一个赶来",
+        "onboard_time": 1743363074,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 14634,
+        "num": 14634,
+        "word": "AJ贴脸开团Doinb",
+        "onboard_time": 1743338603,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14589,
+        "num": 14589,
+        "word": "金秀贤将召开记者会",
+        "onboard_time": 1743345202,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14524,
+        "num": 14524,
+        "word": "爱思 点菜",
+        "onboard_time": 1743342684,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14123,
+        "num": 14123,
+        "word": "双胞胎当了1年朋友才发现是亲姐妹",
+        "onboard_time": 1743312868,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13981,
+        "num": 13981,
+        "word": "实探地震后的瑞丽珠宝玉石市场",
+        "onboard_time": 1743364214,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 13949,
+        "num": 13949,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1743345863,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13182,
+        "num": 13948,
+        "word": "傅云夕完全变成庄寒雁的狗了",
+        "onboard_time": 1743334942,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13175,
+        "num": 13945,
+        "word": "中国救援队已到缅甸曼德勒",
+        "onboard_time": 1743352159,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13072,
+        "num": 13943,
+        "word": "今天的记录是给未来的礼物",
+        "onboard_time": 1743347003,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12769,
+        "num": 13942,
+        "word": "黄轩晒与女友牵手照",
+        "onboard_time": 1743333923,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12596,
+        "num": 13940,
+        "word": "缅甸震后救援存在3大难点",
+        "onboard_time": 1743363195,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}
