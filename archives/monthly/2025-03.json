@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743304263027,
+  "endTime": 1743305158198,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2315,6 +2315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1674202,
+      "num": 1674202,
+      "word": "俄乌以1比21交换遗体",
+      "onboard_time": 1743299120,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1671944,
       "num": 1671944,
       "word": "德克士道歉",
@@ -2417,14 +2425,6 @@
       "onboard_time": 1741830562,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1631816,
-      "num": 1631816,
-      "word": "俄乌以1比21交换遗体",
-      "onboard_time": 1743299120,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 1629524,
@@ -6003,6 +6003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1004976,
+      "num": 1004976,
+      "word": "翡翠摊主回应地震瞬间拿起高货就跑",
+      "onboard_time": 1743301221,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1004305,
       "num": 570025,
       "word": "白敬亭怎么就越演越干净",
@@ -8003,12 +8011,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 834488,
-      "num": 834488,
-      "word": "翡翠摊主回应地震瞬间拿起高货就跑",
-      "onboard_time": 1743301221,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 834306,
+      "num": 481016,
+      "word": "王一博抛媚眼给瞎子看",
+      "onboard_time": 1743296481,
+      "rank": 5,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 833072,
@@ -8129,14 +8137,6 @@
       "onboard_time": 1742889502,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 826483,
-      "num": 481016,
-      "word": "王一博抛媚眼给瞎子看",
-      "onboard_time": 1743296481,
-      "rank": 5,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 826058,
@@ -12340,7 +12340,7 @@
     },
     {
       "raw_hot": 605605,
-      "num": 474186,
+      "num": 600845,
       "word": "Jennie红色抹胸裙",
       "onboard_time": 1743302308,
       "rank": 6,
@@ -15121,6 +15121,14 @@
       "onboard_time": 1742534302,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 506633,
+      "num": 320270,
+      "word": "门童大粉宣布停更",
+      "onboard_time": 1743302909,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 506556,
@@ -21587,14 +21595,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 356630,
-      "num": 320270,
-      "word": "门童大粉宣布停更",
-      "onboard_time": 1743302909,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 356625,
       "num": 283292,
       "word": "花非花雾非雾",
@@ -22529,6 +22529,14 @@
       "onboard_time": 1742037565,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341895,
+      "num": 341895,
+      "word": "收到一箱海鲜打开是100万现金",
+      "onboard_time": 1743303930,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 341741,
@@ -27129,6 +27137,14 @@
       "onboard_time": 1741508180,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 275640,
+      "num": 275640,
+      "word": "老人假扮少女乞讨被识破破口大骂",
+      "onboard_time": 1743304231,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275629,
@@ -35867,6 +35883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207350,
+      "num": 207350,
+      "word": "缅甸地震如同一把巨刀切入地球",
+      "onboard_time": 1743305010,
+      "rank": 22,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 207298,
       "num": 154391,
       "word": "柯洁 SU7Ultra",
@@ -39507,6 +39531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194872,
+      "num": 194872,
+      "word": "李晟回复张小婉",
+      "onboard_time": 1743304231,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194863,
       "num": 246529,
       "word": "孟佳公路文女主有脸了",
@@ -43017,6 +43049,14 @@
       "onboard_time": 1742278103,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 183126,
+      "num": 174745,
+      "word": "张小婉7岁出道",
+      "onboard_time": 1743305010,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 183110,
@@ -48547,6 +48587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163277,
+      "num": 322434,
+      "word": "断臂小伙用智能仿生手弹奏大鱼",
+      "onboard_time": 1743303210,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163154,
       "num": 287286,
       "word": "过度使用电子产品致性早熟影响身高",
@@ -51771,14 +51819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154008,
-      "num": 154008,
-      "word": "收到一箱海鲜打开是100万现金",
-      "onboard_time": 1743303930,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154006,
       "num": 154006,
       "word": "白敬亭卫衣",
@@ -51801,6 +51841,14 @@
       "onboard_time": 1742474181,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153958,
+      "num": 153958,
+      "word": "黄龄全开麦唱免我蹉跎苦",
+      "onboard_time": 1743303868,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 153926,
@@ -52057,6 +52105,14 @@
       "onboard_time": 1741744940,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 153289,
+      "num": 153289,
+      "word": "王一博开到粉丝前面特意放慢速度",
+      "onboard_time": 1743304169,
+      "rank": 31,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 153278,
@@ -53803,6 +53859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148540,
+      "num": 148540,
+      "word": "虞书欣发长文告别国王",
+      "onboard_time": 1743300919,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148484,
       "num": 148484,
       "word": "赵露思说是最幸福的小孩Rooooosy",
@@ -54025,6 +54089,14 @@
       "onboard_time": 1742351841,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 148004,
+      "num": 148004,
+      "word": "如何看待北大硕士当食堂阿姨",
+      "onboard_time": 1743300441,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147965,
@@ -56291,6 +56363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142091,
+      "num": 142091,
+      "word": "女子疑因遭职场霸凌婚前轻生",
+      "onboard_time": 1743301280,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142085,
       "num": 142085,
       "word": "金秀贤撒谎说替身不在",
@@ -56947,14 +57027,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 140477,
-      "num": 140477,
-      "word": "王一博开到粉丝前面特意放慢速度",
-      "onboard_time": 1743304169,
-      "rank": 31,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 140467,
       "num": 299975,
       "word": "缅甸领导人访问俄罗斯",
@@ -56969,14 +57041,6 @@
       "onboard_time": 1740900918,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140370,
-      "num": 140370,
-      "word": "如何看待北大硕士当食堂阿姨",
-      "onboard_time": 1743300441,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140367,
@@ -57201,14 +57265,6 @@
       "onboard_time": 1740980059,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139907,
-      "num": 139907,
-      "word": "女子疑因遭职场霸凌婚前轻生",
-      "onboard_time": 1743301280,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139885,
@@ -59857,14 +59913,6 @@
       "onboard_time": 1741944145,
       "rank": 24,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 132504,
-      "num": 132504,
-      "word": "虞书欣发长文告别国王",
-      "onboard_time": 1743300919,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 132478,
@@ -65971,14 +66019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117543,
-      "num": 117543,
-      "word": "李晟回复张小婉",
-      "onboard_time": 1743304231,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117503,
       "num": 131134,
       "word": "恋与深空打击各类违规行为",
@@ -66073,14 +66113,6 @@
       "onboard_time": 1742012062,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 117167,
-      "num": 117167,
-      "word": "黄龄全开麦唱免我蹉跎苦",
-      "onboard_time": 1743303868,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 117147,
@@ -67963,14 +67995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111969,
-      "num": 322434,
-      "word": "断臂小伙用智能仿生手弹奏大鱼",
-      "onboard_time": 1743303210,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111933,
       "num": 111933,
       "word": "章若楠双眼wink",
@@ -68729,14 +68753,6 @@
       "onboard_time": 1741764323,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 110006,
-      "num": 110006,
-      "word": "老人假扮少女乞讨被识破破口大骂",
-      "onboard_time": 1743304231,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110004,
@@ -74043,6 +74059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95024,
+      "num": 95024,
+      "word": "尤长靖扯领带这一下好拽",
+      "onboard_time": 1743305070,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 95014,
       "num": 139950,
       "word": "地震时老师为守护学生最后离开",
@@ -74233,6 +74257,14 @@
       "onboard_time": 1743085762,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94440,
+      "num": 94440,
+      "word": "雁回时破三万的意义",
+      "onboard_time": 1743304650,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 94373,
@@ -75963,6 +75995,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 87521,
+      "num": 313572,
+      "word": "新能源汽车维修工月薪或达2万元",
+      "onboard_time": 1743304530,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87455,
       "num": 278358,
       "word": "陪爬泰山小伙一天能接七八单",
@@ -76529,6 +76569,14 @@
       "onboard_time": 1742558422,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85355,
+      "num": 318394,
+      "word": "华人在缅甸震中抱团自救",
+      "onboard_time": 1743303868,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85332,
@@ -82865,14 +82913,6 @@
       "onboard_time": 1742684836,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55869,
-      "num": 318394,
-      "word": "华人在缅甸震中抱团自救",
-      "onboard_time": 1743303868,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 55863,
