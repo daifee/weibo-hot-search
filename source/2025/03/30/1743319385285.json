@@ -1,0 +1,410 @@
+{
+  "runTime": 1743319385285,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1828253,
+        "num": 1828253,
+        "word": "门童",
+        "onboard_time": 1743315500,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789019,
+        "num": 789019,
+        "word": "泰国女子见到中国救援队后泪目",
+        "onboard_time": 1743316820,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 95409,
+        "num": 727184,
+        "word": "算法向上向善",
+        "onboard_time": 1743315921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 704484,
+        "num": 704484,
+        "word": "沈月是快大2第一期总导演",
+        "onboard_time": 1743316580,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459795,
+        "num": 459795,
+        "word": "叠纸 价格",
+        "onboard_time": 1743317122,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 410735,
+        "num": 410735,
+        "word": "缅甸地震如同一把巨刀切入地球",
+        "onboard_time": 1743305010,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 683750,
+        "num": 410145,
+        "word": "百万网红孜罗拉离婚",
+        "onboard_time": 1743313761,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 622659,
+        "num": 409607,
+        "word": "彭小苒何泓姗房琪训练室无剪辑记录",
+        "onboard_time": 1743313529,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381258,
+        "num": 408451,
+        "word": "俄乌以1比21交换遗体",
+        "onboard_time": 1743299120,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45438,
+        "num": 407417,
+        "word": "中国救援队继续挺进缅甸重灾区",
+        "onboard_time": 1743318501,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1170957,
+        "num": 406048,
+        "word": "双胞胎当了1年朋友才发现是亲姐妹",
+        "onboard_time": 1743312868,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473271,
+        "num": 405971,
+        "word": "iPhone截图的隐藏功能",
+        "onboard_time": 1743317902,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 405043,
+        "num": 405043,
+        "word": "金秀贤联系雪莉母亲",
+        "onboard_time": 1743308671,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207822,
+        "num": 393583,
+        "word": "缅甸一中企用汶川地震知识成功避险",
+        "onboard_time": 1743318260,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 25627,
+        "num": 389990,
+        "word": "吴艳妮说我失去的一定要拿回来",
+        "onboard_time": 1743317840,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387991,
+        "num": 387991,
+        "word": "王星回应是否会与嘉嘉结婚",
+        "onboard_time": 1743308130,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298077,
+        "num": 298077,
+        "word": "重庆女孩去缅甸做珠宝直播震中遇难",
+        "onboard_time": 1743318260,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 272411,
+        "num": 272411,
+        "word": "偶遇赵露思谈工作",
+        "onboard_time": 1743314480,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55578,
+        "num": 268355,
+        "word": "缅甸华人废墟上徒手搬钢筋水泥救人",
+        "onboard_time": 1743318021,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 221289,
+        "num": 265353,
+        "word": "缅甸部分震区因战乱埋有地雷",
+        "onboard_time": 1743317902,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 264402,
+        "num": 264402,
+        "word": "陈志朋把还珠格格播出时间写错了",
+        "onboard_time": 1743309389,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260164,
+        "num": 260164,
+        "word": "缅甸反政府武装宣布停火两周",
+        "onboard_time": 1743313050,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244113,
+        "num": 244113,
+        "word": "珊瑚海姐学时间线",
+        "onboard_time": 1743312570,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203544,
+        "num": 203544,
+        "word": "河北承德2.8级地震",
+        "onboard_time": 1743309331,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 196482,
+        "num": 196482,
+        "word": "魏大勋张含韵唱送你一朵小红花",
+        "onboard_time": 1743310889,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195319,
+        "num": 195319,
+        "word": "李晟如果有时光机想在北京买房",
+        "onboard_time": 1743315801,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186541,
+        "num": 186541,
+        "word": "赴缅甸中国救援队全员服用霍乱疫苗",
+        "onboard_time": 1743305189,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 177578,
+        "num": 177578,
+        "word": "甲亢哥翻译",
+        "onboard_time": 1743318741,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 172955,
+        "num": 172955,
+        "word": "云南曲靖4.4级地震",
+        "onboard_time": 1743246564,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 168771,
+        "num": 168771,
+        "word": "抢车位吵架女子叫嚣是正军级",
+        "onboard_time": 1743317301,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166079,
+        "num": 166079,
+        "word": "缅甸地震引发土壤液化",
+        "onboard_time": 1743314721,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161202,
+        "num": 161202,
+        "word": "何广智把周扬青钓成翘嘴了",
+        "onboard_time": 1743315380,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158525,
+        "num": 158525,
+        "word": "门童 出卡",
+        "onboard_time": 1743318620,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154111,
+        "num": 154111,
+        "word": "男子吃增肌药3个月后性格大变",
+        "onboard_time": 1743314360,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146990,
+        "num": 146990,
+        "word": "门童粉丝互助文档负责人发声",
+        "onboard_time": 1743318260,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145987,
+        "num": 145987,
+        "word": "女子戴隐形赏花后视力骤降至0.5",
+        "onboard_time": 1743307890,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144124,
+        "num": 144124,
+        "word": "周杰伦着急下班的原因找到了",
+        "onboard_time": 1743312029,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140650,
+        "num": 140650,
+        "word": "老人假扮少女乞讨被识破破口大骂",
+        "onboard_time": 1743304231,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136855,
+        "num": 136855,
+        "word": "中国救援队彻夜赶路坐着睡着了",
+        "onboard_time": 1743318741,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 125544,
+        "num": 125544,
+        "word": "Jennie红色抹胸裙",
+        "onboard_time": 1743302308,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125132,
+        "num": 125132,
+        "word": "海归女硕士婚前轻生单位被判无责",
+        "onboard_time": 1743315921,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122327,
+        "num": 122327,
+        "word": "门童大粉宣布停更",
+        "onboard_time": 1743302909,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115791,
+        "num": 115791,
+        "word": "2024愚人节站姐团建女明星",
+        "onboard_time": 1743317781,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114756,
+        "num": 114756,
+        "word": "WTT",
+        "onboard_time": 1743319281,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112119,
+        "num": 112119,
+        "word": "NCTWISH上海试听会",
+        "onboard_time": 1743319039,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111413,
+        "num": 111413,
+        "word": "胡冰卿书卷美人具象化",
+        "onboard_time": 1743317600,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108370,
+        "num": 108370,
+        "word": "五月天直播",
+        "onboard_time": 1743312868,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102897,
+        "num": 102897,
+        "word": "中国女子在缅甸地震中脚筋断裂",
+        "onboard_time": 1743317419,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 101590,
+        "num": 101590,
+        "word": "虞书欣说新剧的演戏方式和以前不一样",
+        "onboard_time": 1743315380,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99345,
+        "num": 99345,
+        "word": "猫 讨厌没有边界感的小狗",
+        "onboard_time": 1743319281,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}
