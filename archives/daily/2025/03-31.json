@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743353045467,
+  "endTime": 1743355234222,
   "band_list": [
     {
       "raw_hot": 972290,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131708,
+      "num": 131708,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1743352218,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125142,
       "num": 125142,
       "word": "缅甸地震已致1700人死亡",
@@ -243,20 +251,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86129,
-      "num": 86129,
-      "word": "太湖湾音乐节",
-      "onboard_time": 1743352218,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 85818,
       "num": 85818,
       "word": "广东高州3.0级地震",
       "onboard_time": 1743339861,
       "rank": 33,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 84327,
+      "num": 84327,
+      "word": "王一珩和二哥童哥怒骑自行车15公里回后陡门",
+      "onboard_time": 1743353418,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 84058,
@@ -411,6 +419,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52613,
+      "num": 52613,
+      "word": "爱思 点菜",
+      "onboard_time": 1743342684,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 42973,
+      "num": 187421,
+      "word": "中国救援队已到缅甸曼德勒",
+      "onboard_time": 1743352159,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41866,
+      "num": 41866,
+      "word": "沈月淮水竹亭剧照",
+      "onboard_time": 1743354977,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39206,
       "num": 507923,
       "word": "4分钟感受广西的好嘢",
@@ -419,17 +451,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39046,
-      "num": 187421,
-      "word": "中国救援队已到缅甸曼德勒",
-      "onboard_time": 1743352159,
-      "rank": 9,
+      "raw_hot": 36441,
+      "num": 36441,
+      "word": "金枝",
+      "onboard_time": 1743354797,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 36052,
+      "num": 36052,
+      "word": "全职妈妈离婚获2万元经济补偿",
+      "onboard_time": 1743354737,
+      "rank": 45,
       "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平为何说这一关必须要过#"
+    },
+    {
+      "word": "#外资企业是中国式现代化的重要参与者#"
     }
   ]
 }
