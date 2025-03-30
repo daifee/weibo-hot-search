@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743333598725,
+  "endTime": 1743334552727,
   "band_list": [
     {
       "raw_hot": 2920421,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 918319,
+      "num": 1146931,
+      "word": "淮水竹亭",
+      "onboard_time": 1743331522,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 859809,
       "num": 1137569,
       "word": "泰国女子见到中国救援队后泪目",
@@ -131,20 +139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 810777,
+      "num": 255486,
+      "word": "3位自杀女星均与金秀贤公司有关联",
+      "onboard_time": 1743330560,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 795868,
       "num": 746684,
       "word": "陈志朋把还珠格格播出时间写错了",
       "onboard_time": 1743309389,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 783372,
-      "num": 255486,
-      "word": "3位自杀女星均与金秀贤公司有关联",
-      "onboard_time": 1743330560,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 756096,
@@ -211,14 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 649469,
-      "num": 445713,
-      "word": "淮水竹亭",
-      "onboard_time": 1743331522,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 643588,
       "num": 327475,
       "word": "赵露思穿了手艺人爷爷做的鞋",
@@ -273,6 +273,14 @@
       "onboard_time": 1743302308,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 603374,
+      "num": 603374,
+      "word": "大使馆回应多名中国人护照被埋",
+      "onboard_time": 1743330981,
+      "rank": 45,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 598475,
@@ -419,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 474117,
-      "num": 474117,
-      "word": "大使馆回应多名中国人护照被埋",
-      "onboard_time": 1743330981,
-      "rank": 45,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 465188,
       "num": 324912,
       "word": "门童多位粉丝失联",
@@ -521,6 +521,14 @@
       "onboard_time": 1743329421,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401150,
+      "num": 336950,
+      "word": "米卡送了欧阳娜娜黑皮kitty",
+      "onboard_time": 1743331761,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 400602,
@@ -633,14 +641,6 @@
       "onboard_time": 1743323660,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 333889,
-      "num": 237810,
-      "word": "米卡送了欧阳娜娜黑皮kitty",
-      "onboard_time": 1743331761,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 333594,
@@ -803,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254656,
+      "num": 219912,
+      "word": "黄轩晒与女友牵手照",
+      "onboard_time": 1743333923,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254406,
       "num": 398548,
       "word": "专家称缅甸震后疾病防控不容乐观",
@@ -915,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225593,
+      "num": 225593,
+      "word": "美的已清仓小米股票",
+      "onboard_time": 1743332721,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 224174,
       "num": 345447,
       "word": "抢车位吵架女子叫嚣是正军级",
@@ -937,6 +953,14 @@
       "onboard_time": 1743329121,
       "rank": 14,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 216987,
+      "num": 216987,
+      "word": "新秀歌词",
+      "onboard_time": 1743333620,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 212676,
@@ -1107,14 +1131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195619,
-      "num": 195619,
-      "word": "美的已清仓小米股票",
-      "onboard_time": 1743332721,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 189893,
       "num": 187808,
       "word": "唐嫣神女舞鞭好飒",
@@ -1171,12 +1187,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 183389,
-      "num": 183389,
+      "raw_hot": 183741,
+      "num": 183741,
       "word": "仙逆",
       "onboard_time": 1743331402,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 180349,
+      "num": 189888,
+      "word": "权志龙演唱会",
+      "onboard_time": 1743244823,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 177847,
+      "num": 177847,
+      "word": "儿子被父亲送进精神病院17年",
+      "onboard_time": 1743332422,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174381,
@@ -1217,14 +1249,6 @@
       "onboard_time": 1743324621,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168809,
-      "num": 184560,
-      "word": "权志龙演唱会",
-      "onboard_time": 1743244823,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 168463,
@@ -1313,6 +1337,14 @@
       "onboard_time": 1743303210,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163079,
+      "num": 186491,
+      "word": "谁说CP不火剧就爆不了",
+      "onboard_time": 1743333742,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 162837,
@@ -1465,14 +1497,6 @@
       "onboard_time": 1743312690,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 150367,
-      "num": 150367,
-      "word": "儿子被父亲送进精神病院17年",
-      "onboard_time": 1743332422,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149845,
@@ -1747,6 +1771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122071,
+      "num": 122071,
+      "word": "张小婉送给管乐的礼物是来时路照片",
+      "onboard_time": 1743334221,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121873,
       "num": 121873,
       "word": "周震南选队友一分钟啧了七次",
@@ -1849,6 +1881,14 @@
       "onboard_time": 1743302069,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117766,
+      "num": 117766,
+      "word": "竟然在蒋梦婕的脸上看到了野心",
+      "onboard_time": 1743332782,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 116822,
@@ -2035,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104198,
+      "num": 104198,
+      "word": "庄寒雁给傅云夕写休书",
+      "onboard_time": 1743334221,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103866,
       "num": 103866,
       "word": "雁回时高能反转预告",
@@ -2091,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100233,
+      "num": 183460,
+      "word": "父亲送儿子进精神病院17年不愿接出",
+      "onboard_time": 1743332422,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100003,
       "num": 100003,
       "word": "陈哲远这次是wink不是weak",
@@ -2131,12 +2187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96950,
+      "num": 96950,
+      "word": "棋士第8集封神",
+      "onboard_time": 1743334522,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96625,
       "num": 96625,
       "word": "陈都灵的扛剧能力",
       "onboard_time": 1743306510,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96591,
+      "num": 96591,
+      "word": "广东统考 难",
+      "onboard_time": 1743333861,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 95024,
@@ -2323,20 +2395,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81897,
-      "num": 183460,
-      "word": "父亲送儿子进精神病院17年不愿接出",
-      "onboard_time": 1743332422,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81349,
       "num": 81349,
       "word": "虞书欣校园枝惊喜返场",
       "onboard_time": 1743266420,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81319,
+      "num": 218714,
+      "word": "缅甸华人希望获得中国救援队帮助",
+      "onboard_time": 1743333923,
+      "rank": 16,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 79904,
@@ -2387,12 +2459,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 74145,
+      "num": 233492,
+      "word": "缅甸华人华侨建群互救互助",
+      "onboard_time": 1743332662,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 72538,
       "num": 130224,
       "word": "通信技术试验卫星十六号发射成功",
       "onboard_time": 1743284233,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 66410,
+      "num": 239176,
+      "word": "012642一家三口一个警号",
+      "onboard_time": 1743332841,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 65866,
@@ -2587,6 +2675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29766,
+      "num": 206318,
+      "word": "萨巴伦卡夺冠感谢中国球迷",
+      "onboard_time": 1743334162,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29083,
       "num": 33143,
       "word": "九义人",
@@ -2625,22 +2721,6 @@
       "onboard_time": 1743324982,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 26390,
-      "num": 233492,
-      "word": "缅甸华人华侨建群互救互助",
-      "onboard_time": 1743332662,
-      "rank": 19,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 25894,
-      "num": 239176,
-      "word": "012642一家三口一个警号",
-      "onboard_time": 1743332841,
-      "rank": 14,
-      "category": "正能量"
     },
     {
       "raw_hot": 25627,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1743334552727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 918319,
+        "num": 1146931,
+        "word": "淮水竹亭",
+        "onboard_time": 1743331522,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 603374,
+        "num": 603374,
+        "word": "大使馆回应多名中国人护照被埋",
+        "onboard_time": 1743330981,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 21821,
+        "num": 510899,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 497725,
+        "num": 497725,
+        "word": "苦尽柑来遇见你 张家界",
+        "onboard_time": 1743323122,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405426,
+        "num": 405426,
+        "word": "日本第11轮核污染水排海结束",
+        "onboard_time": 1743326901,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 350262,
+        "num": 350262,
+        "word": "缅甸地震已致1700人死亡",
+        "onboard_time": 1743320839,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 407294,
+        "num": 342335,
+        "word": "吃上了浪姐的第一口好饭",
+        "onboard_time": 1743329421,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401150,
+        "num": 336950,
+        "word": "米卡送了欧阳娜娜黑皮kitty",
+        "onboard_time": 1743331761,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 330685,
+        "num": 330685,
+        "word": "多个互联网大厂明天发年终奖",
+        "onboard_time": 1743331702,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225593,
+        "num": 225593,
+        "word": "美的已清仓小米股票",
+        "onboard_time": 1743332721,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1723826,
+        "num": 224681,
+        "word": "王宝宝出轨",
+        "onboard_time": 1743328760,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 810777,
+        "num": 224274,
+        "word": "3位自杀女星均与金秀贤公司有关联",
+        "onboard_time": 1743330560,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457974,
+        "num": 222384,
+        "word": "双胞胎当了1年朋友才发现是亲姐妹",
+        "onboard_time": 1743312868,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402793,
+        "num": 222240,
+        "word": "迪丽热巴网宣组发文",
+        "onboard_time": 1743330741,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66410,
+        "num": 221000,
+        "word": "012642一家三口一个警号",
+        "onboard_time": 1743332841,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 254656,
+        "num": 219912,
+        "word": "黄轩晒与女友牵手照",
+        "onboard_time": 1743333923,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81319,
+        "num": 218714,
+        "word": "缅甸华人希望获得中国救援队帮助",
+        "onboard_time": 1743333923,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 240536,
+        "num": 217277,
+        "word": "辣目洋子辣眼版还珠格格",
+        "onboard_time": 1743330500,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216987,
+        "num": 216987,
+        "word": "新秀歌词",
+        "onboard_time": 1743333620,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29766,
+        "num": 206318,
+        "word": "萨巴伦卡夺冠感谢中国球迷",
+        "onboard_time": 1743334162,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205238,
+        "num": 205238,
+        "word": "宋妍霏下腰",
+        "onboard_time": 1743330741,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204705,
+        "num": 204705,
+        "word": "周震南正式确诊为啧震南",
+        "onboard_time": 1743331281,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204586,
+        "num": 204586,
+        "word": "黄旭华92岁离休第二天又拄着拐出现",
+        "onboard_time": 1743325880,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198646,
+        "num": 198646,
+        "word": "田曦薇接",
+        "onboard_time": 1743327921,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197474,
+        "num": 197474,
+        "word": "首款无激素男性避孕药或将问世",
+        "onboard_time": 1743320301,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190312,
+        "num": 190312,
+        "word": "iPhone截图的隐藏功能",
+        "onboard_time": 1743317902,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180349,
+        "num": 189888,
+        "word": "权志龙演唱会",
+        "onboard_time": 1743332902,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168932,
+        "num": 187957,
+        "word": "雁回时",
+        "onboard_time": 1743330021,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163079,
+        "num": 186491,
+        "word": "谁说CP不火剧就爆不了",
+        "onboard_time": 1743333742,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147179,
+        "num": 185232,
+        "word": "莫离 白鹿丞磊",
+        "onboard_time": 1743328222,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74145,
+        "num": 184128,
+        "word": "缅甸华人华侨建群互救互助",
+        "onboard_time": 1743332662,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 183741,
+        "num": 183741,
+        "word": "仙逆",
+        "onboard_time": 1743331402,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 177847,
+        "num": 177847,
+        "word": "儿子被父亲送进精神病院17年",
+        "onboard_time": 1743332422,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268035,
+        "num": 170380,
+        "word": "孙颖莎 OPPO",
+        "onboard_time": 1743332482,
+        "rank": 33,
+        "category": "体育,数码"
+      },
+      {
+        "raw_hot": 162181,
+        "num": 162181,
+        "word": "Gumayusi说Tian太菜了",
+        "onboard_time": 1743330082,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153407,
+        "num": 153407,
+        "word": "乙肝治疗将进入功能性治愈时代",
+        "onboard_time": 1743323780,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142069,
+        "num": 142069,
+        "word": "韩安冉回应与婆婆矛盾",
+        "onboard_time": 1743323721,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139207,
+        "num": 139207,
+        "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
+        "onboard_time": 1743320839,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128272,
+        "num": 128272,
+        "word": "何泓姗满38减20",
+        "onboard_time": 1743331582,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125511,
+        "num": 125511,
+        "word": "泰国女子见到中国救援队后泪目",
+        "onboard_time": 1743316820,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 124203,
+        "num": 124203,
+        "word": "叠纸 价格",
+        "onboard_time": 1743317122,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122071,
+        "num": 122071,
+        "word": "张小婉送给管乐的礼物是来时路照片",
+        "onboard_time": 1743334221,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120686,
+        "num": 120686,
+        "word": "沈月是快大2第一期总导演",
+        "onboard_time": 1743316580,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117766,
+        "num": 117766,
+        "word": "竟然在蒋梦婕的脸上看到了野心",
+        "onboard_time": 1743332782,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115113,
+        "num": 115113,
+        "word": "偶遇赵露思谈工作",
+        "onboard_time": 1743314480,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105637,
+        "num": 105637,
+        "word": "新秀 喾逸",
+        "onboard_time": 1743326000,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104198,
+        "num": 104198,
+        "word": "庄寒雁给傅云夕写休书",
+        "onboard_time": 1743334221,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100233,
+        "num": 100233,
+        "word": "父亲送儿子进精神病院17年不愿接出",
+        "onboard_time": 1743332422,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96950,
+        "num": 96950,
+        "word": "棋士第8集封神",
+        "onboard_time": 1743334522,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96591,
+        "num": 96591,
+        "word": "广东统考 难",
+        "onboard_time": 1743333861,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}
