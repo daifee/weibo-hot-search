@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743312148101,
+  "endTime": 1743313160387,
   "band_list": [
     {
       "raw_hot": 1925246,
@@ -68,14 +68,14 @@
     },
     {
       "raw_hot": 811922,
-      "num": 402346,
+      "num": 409215,
       "word": "金秀贤联系雪莉母亲",
       "onboard_time": 1743308671,
       "rank": 28,
       "category": "艺人"
     },
     {
-      "raw_hot": 746684,
+      "raw_hot": 795868,
       "num": 746684,
       "word": "陈志朋把还珠格格播出时间写错了",
       "onboard_time": 1743309389,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 553450,
+      "num": 553450,
+      "word": "河北承德2.8级地震",
+      "onboard_time": 1743309331,
+      "rank": 36,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 546422,
       "num": 546422,
       "word": "男子健身房练腿时地震只能往外爬",
@@ -195,20 +203,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 539116,
+      "num": 407954,
+      "word": "辛巴疑似怒怼韦雪",
+      "onboard_time": 1743310351,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 531522,
       "num": 531522,
       "word": "浪姐聊天记录",
       "onboard_time": 1743254303,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 502731,
-      "num": 377243,
-      "word": "辛巴疑似怒怼韦雪",
-      "onboard_time": 1743310351,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 481378,
@@ -267,12 +275,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 415997,
+      "num": 415997,
+      "word": "恋与深空",
+      "onboard_time": 1743311430,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 415460,
       "num": 415460,
       "word": "李嘉琦情商",
       "onboard_time": 1743306570,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406327,
+      "num": 406327,
+      "word": "双胞胎当了1年朋友才发现是亲姐妹",
+      "onboard_time": 1743312868,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 400602,
@@ -299,20 +323,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 373393,
-      "num": 399102,
-      "word": "河北承德2.8级地震",
-      "onboard_time": 1743309331,
-      "rank": 36,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 369353,
       "num": 369353,
       "word": "女子戴隐形赏花后视力骤降至0.5",
       "onboard_time": 1743307890,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366648,
+      "num": 366648,
+      "word": "周杰伦着急下班的原因找到了",
+      "onboard_time": 1743312029,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 355705,
@@ -393,6 +417,14 @@
       "onboard_time": 1743296720,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279834,
+      "num": 279834,
+      "word": "五月天直播",
+      "onboard_time": 1743312868,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 279545,
@@ -507,19 +539,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 226250,
+      "num": 226250,
+      "word": "叠纸心意",
+      "onboard_time": 1743312570,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218739,
       "num": 218739,
       "word": "旅行青蛙",
       "onboard_time": 1743294799,
       "rank": 26,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 218261,
-      "num": 218261,
-      "word": "恋与深空",
-      "onboard_time": 1743311430,
-      "rank": 24,
       "category": "游戏"
     },
     {
@@ -635,8 +667,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 176694,
-      "num": 176694,
+      "raw_hot": 184290,
+      "num": 184290,
       "word": "韩国志愿者说救援物资被老太偷走了",
       "onboard_time": 1743308790,
       "rank": 39,
@@ -657,6 +689,14 @@
       "onboard_time": 1743310889,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168463,
+      "num": 181585,
+      "word": "张佳宁新剧被牺牲的一生",
+      "onboard_time": 1743312269,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 167447,
@@ -819,6 +859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 150433,
+      "num": 150433,
+      "word": "Jennie获奖感言",
+      "onboard_time": 1743312690,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 148004,
       "num": 148004,
       "word": "如何看待北大硕士当食堂阿姨",
@@ -849,6 +897,22 @@
       "onboard_time": 1743303449,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144496,
+      "num": 392410,
+      "word": "记者问马斯克夜不能寐的问题是什么",
+      "onboard_time": 1743311190,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143655,
+      "num": 410280,
+      "word": "中国14颗卫星助力缅甸震后救援",
+      "onboard_time": 1743312269,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 143483,
@@ -891,12 +955,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136726,
-      "num": 143365,
-      "word": "周杰伦着急下班的原因找到了",
-      "onboard_time": 1743312029,
+      "raw_hot": 136811,
+      "num": 136811,
+      "word": "珊瑚海姐学时间线",
+      "onboard_time": 1743312570,
       "rank": 35,
-      "category": "演出"
+      "category": "综艺"
     },
     {
       "raw_hot": 136051,
@@ -939,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122943,
+      "num": 122943,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1743311310,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122367,
       "num": 122367,
       "word": "南部战区发言人发表谈话",
@@ -977,6 +1049,14 @@
       "onboard_time": 1743299780,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119030,
+      "num": 289831,
+      "word": "上手后才知道华为PuraX有多香",
+      "onboard_time": 1743311129,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 118545,
@@ -1025,14 +1105,6 @@
       "onboard_time": 1743245362,
       "rank": 14,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 112369,
-      "num": 112369,
-      "word": "崩坏星穹铁道",
-      "onboard_time": 1743311310,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 111757,
@@ -1099,6 +1171,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 106123,
+      "num": 106123,
+      "word": "缅甸反政府武装宣布停火两周",
+      "onboard_time": 1743313050,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105229,
       "num": 105229,
       "word": "闫妮怎么干农活也微醺啊",
@@ -1145,14 +1225,6 @@
       "onboard_time": 1743303330,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 101875,
-      "num": 267434,
-      "word": "上手后才知道华为PuraX有多香",
-      "onboard_time": 1743311129,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 101169,
@@ -1529,14 +1601,6 @@
       "onboard_time": 1743274694,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21049,
-      "num": 392410,
-      "word": "记者问马斯克夜不能寐的问题是什么",
-      "onboard_time": 1743311190,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 19304,

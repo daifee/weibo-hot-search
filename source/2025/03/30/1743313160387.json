@@ -1,0 +1,410 @@
+{
+  "runTime": 1743313160387,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1244650,
+        "num": 1244650,
+        "word": "王星回应是否会与嘉嘉结婚",
+        "onboard_time": 1743308130,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 785649,
+        "num": 785649,
+        "word": "俄乌以1比21交换遗体",
+        "onboard_time": 1743299120,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41426,
+        "num": 668415,
+        "word": "外资高管畅谈爱上中国的理由",
+        "onboard_time": 1743308430,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 795868,
+        "num": 645184,
+        "word": "陈志朋把还珠格格播出时间写错了",
+        "onboard_time": 1743309389,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553450,
+        "num": 553450,
+        "word": "河北承德2.8级地震",
+        "onboard_time": 1743309331,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 476517,
+        "num": 476517,
+        "word": "赴缅甸中国救援队全员服用霍乱疫苗",
+        "onboard_time": 1743305189,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 466347,
+        "num": 466347,
+        "word": "缅甸地震如同一把巨刀切入地球",
+        "onboard_time": 1743305010,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 434101,
+        "num": 434101,
+        "word": "老人假扮少女乞讨被识破破口大骂",
+        "onboard_time": 1743304231,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415997,
+        "num": 415997,
+        "word": "恋与深空",
+        "onboard_time": 1743311430,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143655,
+        "num": 410280,
+        "word": "中国14颗卫星助力缅甸震后救援",
+        "onboard_time": 1743312269,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 753152,
+        "num": 409215,
+        "word": "金秀贤联系雪莉母亲",
+        "onboard_time": 1743308671,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539116,
+        "num": 407954,
+        "word": "辛巴疑似怒怼韦雪",
+        "onboard_time": 1743310351,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 406327,
+        "num": 406327,
+        "word": "双胞胎当了1年朋友才发现是亲姐妹",
+        "onboard_time": 1743312868,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366648,
+        "num": 366648,
+        "word": "周杰伦着急下班的原因找到了",
+        "onboard_time": 1743312029,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 336116,
+        "num": 336116,
+        "word": "Jennie红色抹胸裙",
+        "onboard_time": 1743302308,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 327445,
+        "num": 327445,
+        "word": "韦雪要签前夫",
+        "onboard_time": 1743309269,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 323620,
+        "num": 323620,
+        "word": "门童大粉宣布停更",
+        "onboard_time": 1743302909,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303025,
+        "num": 303025,
+        "word": "吴宣仪我又初恋了又破千万了",
+        "onboard_time": 1743306149,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290968,
+        "num": 290968,
+        "word": "女子戴隐形赏花后视力骤降至0.5",
+        "onboard_time": 1743307890,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119030,
+        "num": 289831,
+        "word": "上手后才知道华为PuraX有多香",
+        "onboard_time": 1743311129,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 289670,
+        "num": 289670,
+        "word": "云南曲靖4.4级地震",
+        "onboard_time": 1743246564,
+        "rank": 20,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 279834,
+        "num": 279834,
+        "word": "五月天直播",
+        "onboard_time": 1743312868,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226250,
+        "num": 226250,
+        "word": "叠纸心意",
+        "onboard_time": 1743312570,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222319,
+        "num": 222319,
+        "word": "41岁全职爸爸早5晚12脚不沾地",
+        "onboard_time": 1743306930,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196085,
+        "num": 196085,
+        "word": "收到一箱海鲜打开是100万现金",
+        "onboard_time": 1743303930,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188138,
+        "num": 188138,
+        "word": "王一博抛媚眼给瞎子看",
+        "onboard_time": 1743296481,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 184290,
+        "num": 184290,
+        "word": "韩国志愿者说救援物资被老太偷走了",
+        "onboard_time": 1743308790,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168463,
+        "num": 181585,
+        "word": "张佳宁新剧被牺牲的一生",
+        "onboard_time": 1743312269,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181073,
+        "num": 181073,
+        "word": "缅甸震中最高温达40摄氏度",
+        "onboard_time": 1743292457,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 150433,
+        "num": 150433,
+        "word": "Jennie获奖感言",
+        "onboard_time": 1743312690,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161468,
+        "num": 150212,
+        "word": "李嘉琦情商",
+        "onboard_time": 1743306570,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149420,
+        "num": 149420,
+        "word": "星穹铁道",
+        "onboard_time": 1743311551,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144496,
+        "num": 144496,
+        "word": "记者问马斯克夜不能寐的问题是什么",
+        "onboard_time": 1743311190,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137829,
+        "num": 137829,
+        "word": "梁朝伟新片国内诈骗国外花",
+        "onboard_time": 1743309510,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137514,
+        "num": 137514,
+        "word": "翡翠摊主回应地震瞬间拿起高货就跑",
+        "onboard_time": 1743301221,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136811,
+        "num": 136811,
+        "word": "珊瑚海姐学时间线",
+        "onboard_time": 1743312570,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135410,
+        "num": 135410,
+        "word": "aespa红毯",
+        "onboard_time": 1743301999,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133406,
+        "num": 133406,
+        "word": "雁回时全员升咖",
+        "onboard_time": 1743297021,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131499,
+        "num": 131499,
+        "word": "马克定食",
+        "onboard_time": 1743308490,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122943,
+        "num": 122943,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1743311310,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122817,
+        "num": 122817,
+        "word": "沈月晒与徐志胜合照",
+        "onboard_time": 1743309269,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121604,
+        "num": 121604,
+        "word": "5岁男孩确诊糖尿病保险公司拒赔",
+        "onboard_time": 1743306270,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120429,
+        "num": 120429,
+        "word": "陈奕迅说我的洞已经补好了",
+        "onboard_time": 1743309870,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110961,
+        "num": 110961,
+        "word": "美国群聊泄密事件持续发酵",
+        "onboard_time": 1743305250,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107990,
+        "num": 107990,
+        "word": "缅甸地震破裂尺度达数百公里",
+        "onboard_time": 1743311069,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 106123,
+        "num": 106123,
+        "word": "缅甸反政府武装宣布停火两周",
+        "onboard_time": 1743313050,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105155,
+        "num": 105155,
+        "word": "柯淳被杨天真质疑哭戏第一人",
+        "onboard_time": 1743299301,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104222,
+        "num": 104222,
+        "word": "王琳54岁的走秀状态",
+        "onboard_time": 1743307470,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101695,
+        "num": 101695,
+        "word": "张佳宁新剧纯恨女主",
+        "onboard_time": 1743309209,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100948,
+        "num": 100948,
+        "word": "蒋一侨确诊榴莲型人格",
+        "onboard_time": 1743311011,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}
