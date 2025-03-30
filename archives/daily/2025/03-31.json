@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743362324259,
+  "endTime": 1743363351321,
   "band_list": [
     {
       "raw_hot": 972290,
@@ -491,11 +491,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29647,
+      "num": 29647,
+      "word": "念无双有效播放量破5000万",
+      "onboard_time": 1743362834,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14281,
       "num": 39822,
       "word": "中国国际救援队118人紧急集结赴缅甸",
       "onboard_time": 1743355876,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13513,
+      "num": 15891,
+      "word": "受害者奶奶曾认为孩子被拐是自己的错",
+      "onboard_time": 1743362416,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9783,
+      "num": 18012,
+      "word": "缅甸震后救援存在3大难点",
+      "onboard_time": 1743363195,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
