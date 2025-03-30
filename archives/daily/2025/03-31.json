@@ -1,10 +1,10 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743376970457,
+  "endTime": 1743377846372,
   "band_list": [
     {
-      "raw_hot": 1064378,
-      "num": 1064378,
+      "raw_hot": 1231445,
+      "num": 1231445,
       "word": "第四代住宅来了",
       "onboard_time": 1743348802,
       "rank": 1,
@@ -35,8 +35,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 574283,
-      "num": 574283,
+      "raw_hot": 654976,
+      "num": 654976,
       "word": "赴缅甸中国公羊救援队发声",
       "onboard_time": 1743359954,
       "rank": 23,
@@ -131,20 +131,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 176589,
-      "num": 176589,
+      "raw_hot": 194026,
+      "num": 194026,
+      "word": "李梦可以一天三顿都吃老友粉",
+      "onboard_time": 1743368353,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192942,
+      "num": 192942,
       "word": "金秀贤记者会不回答问题",
       "onboard_time": 1743348621,
       "rank": 24,
       "category": "艺人"
     },
     {
-      "raw_hot": 168848,
-      "num": 168848,
-      "word": "李梦可以一天三顿都吃老友粉",
-      "onboard_time": 1743368353,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 170501,
+      "num": 176901,
+      "word": "特朗普威胁轰炸伊朗",
+      "onboard_time": 1743376157,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 161003,
@@ -153,6 +161,14 @@
       "onboard_time": 1743334762,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160682,
+      "num": 216819,
+      "word": "特朗普称对普京感到愤怒",
+      "onboard_time": 1743376999,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 159025,
@@ -187,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141611,
+      "num": 220134,
+      "word": "美国被曝长期全方位介入俄乌冲突",
+      "onboard_time": 1743376698,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140737,
       "num": 140737,
       "word": "太湖湾音乐节",
@@ -211,6 +235,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 123848,
+      "num": 123848,
+      "word": "Tian致歉Gumayusi",
+      "onboard_time": 1743377419,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 110623,
+      "num": 138696,
+      "word": "中国人在缅甸受灾最严重地区救人",
+      "onboard_time": 1743376397,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 110109,
       "num": 110109,
       "word": "不建议去死水游泳馆里游泳的原因",
@@ -219,8 +259,16 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 109179,
+      "num": 73857,
+      "word": "全职妈妈离婚获2万元经济补偿",
+      "onboard_time": 1743354737,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107511,
-      "num": 107511,
+      "num": 109282,
       "word": "胡烨韬 我要把名字刻在C位上",
       "onboard_time": 1743350422,
       "rank": 26,
@@ -235,12 +283,28 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 101365,
-      "num": 101365,
+      "raw_hot": 103571,
+      "num": 103571,
+      "word": "中国救援队救出一被困近60小时女性",
+      "onboard_time": 1743376637,
+      "rank": 24,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 103019,
+      "num": 103019,
       "word": "张本美和女单夺冠",
       "onboard_time": 1743338903,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98907,
+      "num": 149861,
+      "word": "父母恩爱的孩子恋爱观更清醒",
+      "onboard_time": 1743371294,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 97920,
@@ -252,7 +316,7 @@
     },
     {
       "raw_hot": 94119,
-      "num": 105827,
+      "num": 106030,
       "word": "成龙御用反派去世",
       "onboard_time": 1743338123,
       "rank": 27,
@@ -267,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91428,
-      "num": 176901,
-      "word": "特朗普威胁轰炸伊朗",
-      "onboard_time": 1743376157,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 90718,
+      "num": 90718,
+      "word": "为什么医生总建议晚上10点入睡",
+      "onboard_time": 1743350900,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 88871,
@@ -291,12 +355,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 84930,
-      "num": 102552,
-      "word": "父母恩爱的孩子恋爱观更清醒",
-      "onboard_time": 1743371294,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 85795,
+      "num": 108011,
+      "word": "SM新男团预告",
+      "onboard_time": 1743376999,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 84327,
@@ -355,14 +419,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 73857,
-      "num": 73857,
-      "word": "全职妈妈离婚获2万元经济补偿",
-      "onboard_time": 1743354737,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73847,
       "num": 73847,
       "word": "缅籍华人父母被埋哽咽受访",
@@ -377,6 +433,14 @@
       "onboard_time": 1743351680,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71998,
+      "num": 71998,
+      "word": "缅籍华人哽咽说救援人员太少了",
+      "onboard_time": 1743374897,
+      "rank": 34,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 71526,
@@ -403,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69728,
-      "num": 69728,
-      "word": "缅籍华人哽咽说救援人员太少了",
-      "onboard_time": 1743374897,
-      "rank": 34,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 69495,
       "num": 69495,
       "word": "Faye曼谷见面会",
@@ -435,12 +491,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64409,
+      "num": 64409,
+      "word": "科研人员复原1.6万年前人类面貌",
+      "onboard_time": 1743377419,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 63935,
       "num": 63935,
       "word": "AJ贴脸开团Doinb",
       "onboard_time": 1743338603,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 63818,
+      "num": 63818,
+      "word": "台媒称中国驰援缅甸有3大黑科技",
+      "onboard_time": 1743337882,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63426,
@@ -451,14 +523,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 62738,
-      "num": 62738,
-      "word": "台媒称中国驰援缅甸有3大黑科技",
-      "onboard_time": 1743337882,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 62529,
       "num": 62529,
       "word": "广西不止有山水和螺蛳粉",
@@ -467,20 +531,36 @@
       "category": "美食"
     },
     {
-      "raw_hot": 62049,
-      "num": 98186,
-      "word": "美国被曝长期全方位介入俄乌冲突",
-      "onboard_time": 1743376698,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 60083,
-      "num": 94400,
+      "num": 104456,
       "word": "念无双有效播放量破5000万",
       "onboard_time": 1743362834,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59991,
+      "num": 59991,
+      "word": "2025LPL",
+      "onboard_time": 1743377419,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 59977,
+      "num": 61385,
+      "word": "缅甸一少年被埋获救送医途中去世",
+      "onboard_time": 1743358755,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 59558,
+      "num": 59558,
+      "word": "用deepseek生成Excel表格的方法",
+      "onboard_time": 1743377419,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 57898,
@@ -491,12 +571,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 56380,
-      "num": 94782,
-      "word": "中国救援队救出一被困近60小时女性",
-      "onboard_time": 1743376637,
-      "rank": 24,
-      "category": "突发/灾害"
+      "raw_hot": 57722,
+      "num": 57722,
+      "word": "3月最后一天",
+      "onboard_time": 1743376698,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56346,
@@ -507,28 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54694,
-      "num": 61385,
-      "word": "缅甸一少年被埋获救送医途中去世",
-      "onboard_time": 1743358755,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 53945,
-      "num": 53945,
-      "word": "3月最后一天",
-      "onboard_time": 1743376698,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52620,
-      "num": 138696,
-      "word": "中国人在缅甸受灾最严重地区救人",
-      "onboard_time": 1743376397,
-      "rank": 14,
-      "category": "正能量"
+      "raw_hot": 56191,
+      "num": 93954,
+      "word": "我的后半生开播",
+      "onboard_time": 1743339743,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 52613,
@@ -539,20 +603,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 50621,
-      "num": 93954,
-      "word": "我的后半生开播",
-      "onboard_time": 1743339743,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 49485,
       "num": 49485,
       "word": "实探地震后的瑞丽珠宝玉石市场",
       "onboard_time": 1743364214,
       "rank": 43,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 47662,
+      "num": 63886,
+      "word": "金价又双叒涨啦",
+      "onboard_time": 1743377780,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 43840,
@@ -595,6 +659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30383,
+      "num": 138147,
+      "word": "甲亢哥高铁全程2K直播不掉线",
+      "onboard_time": 1743377057,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 30288,
       "num": 49139,
       "word": "伊朗拒绝与美国直接谈判",
@@ -619,6 +691,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 22461,
+      "num": 134112,
+      "word": "缅甸最高余震7.5级",
+      "onboard_time": 1743377538,
+      "rank": 21,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 17690,
       "num": 29617,
       "word": "受害者奶奶曾认为孩子被拐是自己的错",
@@ -633,6 +713,14 @@
       "onboard_time": 1743368413,
       "rank": 20,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 15963,
+      "num": 186312,
+      "word": "汤加地震当地华人讲述经过",
+      "onboard_time": 1743377178,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 15414,
@@ -675,7 +763,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 5923,
+      "raw_hot": 6688,
       "num": 331510,
       "word": "2025中国网络媒体论坛",
       "onboard_time": 1743221722,
