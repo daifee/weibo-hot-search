@@ -1,7 +1,15 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743339474780,
+  "endTime": 1743341269093,
   "band_list": [
+    {
+      "raw_hot": 3126539,
+      "num": 3253079,
+      "word": "汤加群岛7.3级地震",
+      "onboard_time": 1743339381,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 2920421,
       "num": 2920421,
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 789059,
+      "num": 570013,
+      "word": "广东高州3.0级地震",
+      "onboard_time": 1743339861,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 756096,
       "num": 472045,
       "word": "彭小苒何泓姗房琪训练室无剪辑记录",
@@ -201,6 +217,14 @@
       "onboard_time": 1743292457,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 726209,
+      "num": 726209,
+      "word": "张本美和女单夺冠",
+      "onboard_time": 1743338903,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 713225,
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 596517,
-      "num": 336147,
+      "num": 383184,
       "word": "黄轩晒与女友牵手照",
       "onboard_time": 1743333923,
       "rank": 15,
@@ -411,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 526330,
+      "num": 526330,
+      "word": "成龙御用反派去世",
+      "onboard_time": 1743338123,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 512635,
       "num": 512635,
       "word": "乙肝治疗将进入功能性治愈时代",
@@ -481,14 +513,6 @@
       "onboard_time": 1743313050,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 456727,
-      "num": 386646,
-      "word": "成龙御用反派去世",
-      "onboard_time": 1743338123,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 454377,
@@ -603,12 +627,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 391274,
+      "num": 391274,
+      "word": "缅甸幸存者握母亲冰冷的手含泪告别",
+      "onboard_time": 1743336800,
+      "rank": 20,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 385760,
       "num": 261346,
       "word": "田曦薇接",
       "onboard_time": 1743327921,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381141,
+      "num": 381141,
+      "word": "小米造出了我15年前想要的相机",
+      "onboard_time": 1743340342,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 376959,
@@ -667,6 +707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 350932,
+      "num": 383561,
+      "word": "汤加群岛地震可能引发海啸",
+      "onboard_time": 1743340222,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 348387,
       "num": 348387,
       "word": "辣目洋子辣眼版还珠格格",
@@ -721,6 +769,14 @@
       "onboard_time": 1743255443,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 319054,
+      "num": 319054,
+      "word": "玉渊潭偶遇宋轶",
+      "onboard_time": 1743338482,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 318415,
@@ -963,12 +1019,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 241165,
-      "num": 241165,
-      "word": "张本美和女单夺冠",
-      "onboard_time": 1743338903,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 237497,
+      "num": 237497,
+      "word": "台媒称中国驰援缅甸有3大黑科技",
+      "onboard_time": 1743337882,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 233032,
@@ -977,14 +1033,6 @@
       "onboard_time": 1743306989,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 229927,
-      "num": 336716,
-      "word": "缅甸幸存者握母亲冰冷的手含泪告别",
-      "onboard_time": 1743336800,
-      "rank": 20,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 228684,
@@ -1097,6 +1145,14 @@
       "onboard_time": 1743322402,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 208554,
+      "num": 208554,
+      "word": "雁回时 吕秀才",
+      "onboard_time": 1743337462,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 208404,
@@ -1235,12 +1291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191011,
-      "num": 149180,
-      "word": "台媒称中国驰援缅甸有3大黑科技",
-      "onboard_time": 1743337882,
-      "rank": 30,
-      "category": "国内时政"
+      "raw_hot": 193271,
+      "num": 193271,
+      "word": "运动半小时以上才能分解脂肪",
+      "onboard_time": 1743338243,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 189893,
@@ -1315,12 +1371,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 182953,
-      "num": 182953,
-      "word": "汤加群岛7.3级地震",
-      "onboard_time": 1743339381,
-      "rank": 23,
-      "category": "突发/灾害"
+      "raw_hot": 182995,
+      "num": 182995,
+      "word": "aespaWhiplash开麦舞台",
+      "onboard_time": 1743339141,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 181656,
@@ -1339,12 +1395,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179514,
+      "num": 179514,
+      "word": "王鹤棣高能量男生的月记录",
+      "onboard_time": 1743340222,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177847,
       "num": 177847,
       "word": "儿子被父亲送进精神病院17年",
       "onboard_time": 1743332422,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175599,
+      "num": 156140,
+      "word": "不建议去死水游泳馆里游泳的原因",
+      "onboard_time": 1743340701,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 174916,
@@ -1393,14 +1465,6 @@
       "onboard_time": 1743324621,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169007,
-      "num": 169007,
-      "word": "雁回时 吕秀才",
-      "onboard_time": 1743337462,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 168463,
@@ -1547,6 +1611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 158955,
+      "num": 158955,
+      "word": "新疆库车市3.7级地震",
+      "onboard_time": 1743340642,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 158871,
       "num": 158871,
       "word": "缅甸7.9级地震前后对比",
@@ -1593,6 +1665,14 @@
       "onboard_time": 1743325461,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 154560,
+      "num": 154560,
+      "word": "男子被拉布拉多毫无预兆咬一口",
+      "onboard_time": 1743339563,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154111,
@@ -1779,12 +1859,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138382,
-      "num": 138382,
-      "word": "运动半小时以上才能分解脂肪",
-      "onboard_time": 1743338243,
-      "rank": 45,
-      "category": "运动健身"
+      "raw_hot": 141732,
+      "num": 141732,
+      "word": "湖南卫视连发20条迪丽热巴",
+      "onboard_time": 1743340761,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137780,
@@ -1883,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132229,
+      "num": 245378,
+      "word": "结婚前求婚是必要的吗",
+      "onboard_time": 1743339923,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131067,
       "num": 131067,
       "word": "钱是在外打工人最大的底气",
@@ -1977,14 +2065,6 @@
       "onboard_time": 1743338423,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 123703,
-      "num": 123703,
-      "word": "aespaWhiplash开麦舞台",
-      "onboard_time": 1743339141,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 123323,
@@ -2243,6 +2323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107439,
+      "num": 107439,
+      "word": "我的后半生开播",
+      "onboard_time": 1743339743,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107274,
       "num": 533638,
       "word": "中国资产已成为当下世界潮流",
@@ -2433,6 +2521,14 @@
       "onboard_time": 1743333861,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 96319,
+      "num": 96319,
+      "word": "蒋一侨人心中的成见是一座大山",
+      "onboard_time": 1743341123,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 95024,
@@ -3084,6 +3180,9 @@
     },
     {
       "word": "#外资企业是中国式现代化的重要参与者#"
+    },
+    {
+      "word": "#习近平为何说这一关必须要过#"
     }
   ]
 }

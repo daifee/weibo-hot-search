@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743339474780,
+  "endTime": 1743341269093,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1779,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3126539,
+      "num": 3253079,
+      "word": "汤加群岛7.3级地震",
+      "onboard_time": 1743339381,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 3123367,
       "num": 628056,
       "word": "范思哲取关",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740547998,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2799293,
-      "num": 217177,
-      "word": "李明德老先生们我尽力了",
-      "onboard_time": 1736077046,
-      "rank": 21,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
