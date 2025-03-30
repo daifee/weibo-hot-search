@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743331204937,
+  "endTime": 1743333598725,
   "band_list": [
     {
       "raw_hot": 2920421,
@@ -27,6 +27,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1905988,
+      "num": 278530,
+      "word": "王宝宝出轨",
+      "onboard_time": 1743328760,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1888650,
       "num": 244244,
       "word": "bnd粉丝去世",
@@ -49,14 +57,6 @@
       "onboard_time": 1743299120,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1515753,
-      "num": 278530,
-      "word": "王宝宝出轨",
-      "onboard_time": 1743328760,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1304138,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 783372,
+      "num": 255486,
+      "word": "3位自杀女星均与金秀贤公司有关联",
+      "onboard_time": 1743330560,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 756096,
       "num": 472045,
       "word": "彭小苒何泓姗房琪训练室无剪辑记录",
@@ -201,6 +209,14 @@
       "onboard_time": 1743306149,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 649469,
+      "num": 445713,
+      "word": "淮水竹亭",
+      "onboard_time": 1743331522,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 643588,
@@ -371,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 481443,
+      "num": 255185,
+      "word": "迪丽热巴网宣组发文",
+      "onboard_time": 1743330741,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481378,
       "num": 436014,
       "word": "安静公主长了一个肿瘤",
@@ -393,6 +417,14 @@
       "onboard_time": 1743303930,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474117,
+      "num": 474117,
+      "word": "大使馆回应多名中国人护照被埋",
+      "onboard_time": 1743330981,
+      "rank": 45,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 465188,
@@ -483,6 +515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 409193,
+      "num": 409193,
+      "word": "吃上了浪姐的第一口好饭",
+      "onboard_time": 1743329421,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400602,
       "num": 400602,
       "word": "云南曲靖4.4级地震",
@@ -563,12 +603,44 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 348387,
+      "num": 348387,
+      "word": "辣目洋子辣眼版还珠格格",
+      "onboard_time": 1743330500,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 347795,
+      "num": 347795,
+      "word": "多个互联网大厂明天发年终奖",
+      "onboard_time": 1743331702,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336170,
+      "num": 231419,
+      "word": "孙颖莎 OPPO",
+      "onboard_time": 1743332482,
+      "rank": 20,
+      "category": "体育,数码"
+    },
+    {
       "raw_hot": 334309,
       "num": 334309,
       "word": "金玟庭后台试音没关麦",
       "onboard_time": 1743323660,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 333889,
+      "num": 237810,
+      "word": "米卡送了欧阳娜娜黑皮kitty",
+      "onboard_time": 1743331761,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 333594,
@@ -627,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298369,
-      "num": 255486,
-      "word": "3位自杀女星均与金秀贤公司有关联",
-      "onboard_time": 1743330560,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288103,
       "num": 288103,
       "word": "音律联觉",
@@ -649,14 +713,6 @@
       "onboard_time": 1743317902,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 285880,
-      "num": 255391,
-      "word": "吃上了浪姐的第一口好饭",
-      "onboard_time": 1743329421,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 284501,
@@ -697,14 +753,6 @@
       "onboard_time": 1743327201,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 276867,
-      "num": 255185,
-      "word": "迪丽热巴网宣组发文",
-      "onboard_time": 1743330741,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 275862,
@@ -769,6 +817,14 @@
       "onboard_time": 1743279254,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249942,
+      "num": 235736,
+      "word": "宋妍霏下腰",
+      "onboard_time": 1743330741,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 248243,
@@ -841,6 +897,14 @@
       "onboard_time": 1743315260,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 228182,
+      "num": 228182,
+      "word": "周震南正式确诊为啧震南",
+      "onboard_time": 1743331281,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 226250,
@@ -1019,14 +1083,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199263,
-      "num": 199263,
-      "word": "宋妍霏下腰",
-      "onboard_time": 1743330741,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198478,
       "num": 198478,
       "word": "华人称地震当日缅甸放假救了很多人",
@@ -1051,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195619,
+      "num": 195619,
+      "word": "美的已清仓小米股票",
+      "onboard_time": 1743332721,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 189893,
       "num": 187808,
       "word": "唐嫣神女舞鞭好飒",
@@ -1065,14 +1129,6 @@
       "onboard_time": 1743309209,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187670,
-      "num": 187670,
-      "word": "辣目洋子辣眼版还珠格格",
-      "onboard_time": 1743330500,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 186957,
@@ -1115,6 +1171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 183389,
+      "num": 183389,
+      "word": "仙逆",
+      "onboard_time": 1743331402,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 174381,
       "num": 174381,
       "word": "王艳说给周如音一点时间",
@@ -1153,6 +1217,14 @@
       "onboard_time": 1743324621,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168809,
+      "num": 184560,
+      "word": "权志龙演唱会",
+      "onboard_time": 1743244823,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 168463,
@@ -1257,6 +1329,14 @@
       "onboard_time": 1743312269,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 160160,
+      "num": 160160,
+      "word": "来个人把陈楚生网线拔了",
+      "onboard_time": 1743332360,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 159282,
@@ -1387,6 +1467,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150367,
+      "num": 150367,
+      "word": "儿子被父亲送进精神病院17年",
+      "onboard_time": 1743332422,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149845,
+      "num": 149845,
+      "word": "一句话让HR内耗一天",
+      "onboard_time": 1743333261,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148004,
       "num": 148004,
       "word": "如何看待北大硕士当食堂阿姨",
@@ -1409,6 +1505,14 @@
       "onboard_time": 1743318260,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145781,
+      "num": 145781,
+      "word": "何泓姗满38减20",
+      "onboard_time": 1743331582,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 145226,
@@ -1457,6 +1561,14 @@
       "onboard_time": 1743309870,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142596,
+      "num": 142596,
+      "word": "让何老师破防只需要一个张若昀",
+      "onboard_time": 1743333082,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 142228,
@@ -1536,6 +1648,14 @@
       "word": "姚晨新剧高配得感女主",
       "onboard_time": 1743327980,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131067,
+      "num": 131067,
+      "word": "钱是在外打工人最大的底气",
+      "onboard_time": 1743332360,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -2051,14 +2171,6 @@
       "category": "作品衍生,作品衍生"
     },
     {
-      "raw_hot": 93682,
-      "num": 93682,
-      "word": "大使馆回应多名中国人护照被埋",
-      "onboard_time": 1743330981,
-      "rank": 45,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 92024,
       "num": 92024,
       "word": "曼谷便利店为防哄抢关闭",
@@ -2155,20 +2267,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86724,
+      "num": 234135,
+      "word": "张云龙新剧打戏身痛哭戏心痛",
+      "onboard_time": 1743332902,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86704,
       "num": 305672,
       "word": "使馆协助数十位中国公民找到亲友",
       "onboard_time": 1743314541,
       "rank": 15,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 86615,
-      "num": 86615,
-      "word": "权志龙演唱会",
-      "onboard_time": 1743244823,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 86539,
@@ -2209,6 +2321,14 @@
       "onboard_time": 1743255864,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81897,
+      "num": 183460,
+      "word": "父亲送儿子进精神病院17年不愿接出",
+      "onboard_time": 1743332422,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81349,
@@ -2443,6 +2563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34047,
+      "num": 183943,
+      "word": "渔船疑遭海盗攻击3名中国公民失踪",
+      "onboard_time": 1743332002,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 30931,
       "num": 48634,
       "word": "美副总统抵达格陵兰吐槽天气飙脏话",
@@ -2497,6 +2625,22 @@
       "onboard_time": 1743324982,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26390,
+      "num": 233492,
+      "word": "缅甸华人华侨建群互救互助",
+      "onboard_time": 1743332662,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 25894,
+      "num": 239176,
+      "word": "012642一家三口一个警号",
+      "onboard_time": 1743332841,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 25627,
@@ -2569,6 +2713,14 @@
       "onboard_time": 1743280934,
       "rank": 48,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 13778,
+      "num": 146385,
+      "word": "曼谷泳池地震时拍摄者报平安",
+      "onboard_time": 1743332542,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11005,
