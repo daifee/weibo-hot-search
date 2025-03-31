@@ -1,0 +1,410 @@
+{
+  "runTime": 1743416839894,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 704126,
+        "num": 1656968,
+        "word": "疑似一种新病毒在俄罗斯蔓延",
+        "onboard_time": 1743403341,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6084643,
+        "num": 6084643,
+        "word": "金秀贤记者会直播",
+        "onboard_time": 1743406100,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14498,
+        "num": 979475,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 811332,
+        "num": 811332,
+        "word": "何泓姗硬刚浪姐",
+        "onboard_time": 1743406882,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670240,
+        "num": 670240,
+        "word": "唐艺昕辟谣和张若昀因为追尾认识",
+        "onboard_time": 1743411445,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479385,
+        "num": 479385,
+        "word": "10元盒饭姐喊话浪费顾客一辈子别来",
+        "onboard_time": 1743411145,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390600,
+        "num": 390600,
+        "word": "日本特大地震若发生或致近30万人死亡",
+        "onboard_time": 1743407423,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 366755,
+        "num": 366755,
+        "word": "甲亢哥成都行直播",
+        "onboard_time": 1743407121,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 326985,
+        "num": 326985,
+        "word": "疑似沈月亚洲最美面孔脱敏训练",
+        "onboard_time": 1743414202,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269787,
+        "num": 269787,
+        "word": "慎买带有QS标志产品",
+        "onboard_time": 1743413244,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2499876,
+        "num": 269119,
+        "word": "金秀贤起诉金赛纶家属赔偿120亿",
+        "onboard_time": 1743411324,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 740665,
+        "num": 265726,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1743404000,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599864,
+        "num": 263476,
+        "word": "韩国庄仕洋",
+        "onboard_time": 1743413604,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497426,
+        "num": 260021,
+        "word": "男子肝癌晚期只打一针获新生",
+        "onboard_time": 1743400582,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51847,
+        "num": 257947,
+        "word": "缅甸男子求助中国救援队探测出生命",
+        "onboard_time": 1743415882,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 320065,
+        "num": 253517,
+        "word": "甲亢哥被喷火表演吓到尖叫",
+        "onboard_time": 1743415043,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 279484,
+        "num": 250850,
+        "word": "影帝",
+        "onboard_time": 1743409044,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278018,
+        "num": 248772,
+        "word": "IU说雪莉是最漂亮的人",
+        "onboard_time": 1743403341,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277807,
+        "num": 246645,
+        "word": "黄奕女儿都这么大了",
+        "onboard_time": 1743413964,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65236,
+        "num": 244105,
+        "word": "流水的T恤铁打的真维斯",
+        "onboard_time": 1743413722,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 241757,
+        "num": 241757,
+        "word": "妹妹刷缅甸救援视频认出姐姐的手",
+        "onboard_time": 1743405021,
+        "rank": 20,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 401630,
+        "num": 241152,
+        "word": "50万竟然买了4辆宝马",
+        "onboard_time": 1743415223,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268779,
+        "num": 239277,
+        "word": "by2十六年后再穿出道战衣",
+        "onboard_time": 1743415223,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237240,
+        "num": 237240,
+        "word": "黄子韬徐艺洋睡觉前要对暗号",
+        "onboard_time": 1743407121,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203257,
+        "num": 203257,
+        "word": "房琪 彭小苒",
+        "onboard_time": 1743406942,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18020,
+        "num": 198367,
+        "word": "有人撤离曼德勒后仍不敢睡觉坐一宿",
+        "onboard_time": 1743416603,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 195026,
+        "num": 195026,
+        "word": "朴成训 来财",
+        "onboard_time": 1743416123,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193473,
+        "num": 193473,
+        "word": "头像玄学",
+        "onboard_time": 1743405681,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185749,
+        "num": 185749,
+        "word": "在单位上班一定要沉得住气",
+        "onboard_time": 1743409764,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173426,
+        "num": 173426,
+        "word": "清明档预售前三名",
+        "onboard_time": 1743408384,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72199,
+        "num": 162879,
+        "word": "王者荣耀奇迹司",
+        "onboard_time": 1743415583,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162009,
+        "num": 162009,
+        "word": "番茄小说崩了",
+        "onboard_time": 1743411925,
+        "rank": 31,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 153814,
+        "num": 153814,
+        "word": "眼泪女王",
+        "onboard_time": 1743410664,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152690,
+        "num": 152690,
+        "word": "留几手斥责当侯佩岑面提周杰伦",
+        "onboard_time": 1743408924,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149772,
+        "num": 149772,
+        "word": "店主接到近8吨毛肚订单直接报警",
+        "onboard_time": 1743385821,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149523,
+        "num": 149523,
+        "word": "一直对月薪三万没概念直到换算成天",
+        "onboard_time": 1743382162,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69807,
+        "num": 147575,
+        "word": "王者荣耀全新英雄团",
+        "onboard_time": 1743416782,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118012,
+        "num": 146831,
+        "word": "2025国家助学贷款免息",
+        "onboard_time": 1743416123,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146805,
+        "num": 146805,
+        "word": "李现又去公园打鸟了",
+        "onboard_time": 1743416362,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7164,
+        "num": 144543,
+        "word": "少吃水果少生很多病不具有普遍性",
+        "onboard_time": 1743416723,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143573,
+        "num": 143573,
+        "word": "张家界回应因台词又在韩国爆火",
+        "onboard_time": 1743412764,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138527,
+        "num": 138527,
+        "word": "一诺FMVP皮肤即将上线",
+        "onboard_time": 1743416723,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135272,
+        "num": 135272,
+        "word": "魔鬼鱼",
+        "onboard_time": 1743411145,
+        "rank": 42,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 135085,
+        "num": 135085,
+        "word": "南京推出公积金全家桶政策助力买房",
+        "onboard_time": 1743411685,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134905,
+        "num": 134905,
+        "word": "中共中央政治局3月31日召开会议",
+        "onboard_time": 1743406100,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52709,
+        "num": 134313,
+        "word": "泰国女子剖腹产遇地震室外成功分娩",
+        "onboard_time": 1743414863,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 134128,
+        "num": 134128,
+        "word": "红果崩了",
+        "onboard_time": 1743413302,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125219,
+        "num": 125219,
+        "word": "美防长声称要用日本应对中国",
+        "onboard_time": 1743413365,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123172,
+        "num": 123172,
+        "word": "iPhone17Pro十大升级",
+        "onboard_time": 1743398002,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117813,
+        "num": 117813,
+        "word": "男婴被4人入室抢走主犯竟是邻居",
+        "onboard_time": 1743409885,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们要建成的科技强国#"
+    }
+  }
+}

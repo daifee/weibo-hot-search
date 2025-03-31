@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743414056003,
+  "endTime": 1743416839894,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1594507,
-      "num": 678631,
+      "num": 811332,
       "word": "何泓姗硬刚浪姐",
       "onboard_time": 1743406882,
       "rank": 3,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1227205,
-      "num": 1227205,
+      "num": 1656968,
       "word": "疑似一种新病毒在俄罗斯蔓延",
       "onboard_time": 1743403341,
       "rank": 43,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 670240,
+      "num": 670240,
+      "word": "唐艺昕辟谣和张若昀因为追尾认识",
+      "onboard_time": 1743411445,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 654976,
       "num": 654976,
       "word": "赴缅甸中国公羊救援队发声",
@@ -288,14 +296,6 @@
       "word": "颜安和张丹峰儿子是同学",
       "onboard_time": 1743390982,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 620007,
-      "num": 461244,
-      "word": "唐艺昕辟谣和张若昀因为追尾认识",
-      "onboard_time": 1743411445,
-      "rank": 6,
       "category": "综艺"
     },
     {
@@ -313,6 +313,14 @@
       "onboard_time": 1743407423,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 599864,
+      "num": 263476,
+      "word": "韩国庄仕洋",
+      "onboard_time": 1743413604,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 595094,
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 479385,
+      "num": 479385,
+      "word": "10元盒饭姐喊话浪费顾客一辈子别来",
+      "onboard_time": 1743411145,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472712,
       "num": 710424,
       "word": "指鼠为鸭局长已调离",
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 451252,
-      "num": 339324,
+      "num": 366755,
       "word": "甲亢哥成都行直播",
       "onboard_time": 1743407121,
       "rank": 22,
@@ -499,6 +515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 401630,
+      "num": 241152,
+      "word": "50万竟然买了4辆宝马",
+      "onboard_time": 1743415223,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398650,
       "num": 398650,
       "word": "枭起青壤",
@@ -555,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326985,
+      "num": 326985,
+      "word": "疑似沈月亚洲最美面孔脱敏训练",
+      "onboard_time": 1743414202,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325989,
       "num": 291239,
       "word": "清明档预售前三名",
@@ -577,6 +609,14 @@
       "onboard_time": 1743380960,
       "rank": 8,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 320065,
+      "num": 253517,
+      "word": "甲亢哥被喷火表演吓到尖叫",
+      "onboard_time": 1743415043,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 314233,
@@ -651,19 +691,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 277807,
+      "num": 246645,
+      "word": "黄奕女儿都这么大了",
+      "onboard_time": 1743413964,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275749,
       "num": 673791,
       "word": "去年此时金价还在500元区间徘徊",
       "onboard_time": 1743399862,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275382,
-      "num": 309762,
-      "word": "10元盒饭姐喊话浪费顾客一辈子别来",
-      "onboard_time": 1743411145,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -683,12 +723,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269787,
+      "num": 309990,
+      "word": "慎买带有QS标志产品",
+      "onboard_time": 1743413244,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269727,
       "num": 317184,
       "word": "为什么现在老师都不敢管学生了",
       "onboard_time": 1743392001,
       "rank": 19,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 268779,
+      "num": 239277,
+      "word": "by2十六年后再穿出道战衣",
+      "onboard_time": 1743415223,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 256970,
@@ -867,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212334,
-      "num": 212334,
-      "word": "韩国庄仕洋",
-      "onboard_time": 1743413604,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211724,
       "num": 211724,
       "word": "减肥一直没效果的原因找到了",
@@ -977,6 +1025,14 @@
       "onboard_time": 1743395121,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195026,
+      "num": 195026,
+      "word": "朴成训 来财",
+      "onboard_time": 1743416123,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194026,
@@ -1323,14 +1379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149506,
-      "num": 149506,
-      "word": "黄奕女儿都这么大了",
-      "onboard_time": 1743413964,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148866,
       "num": 245938,
       "word": "雁回时全靠两位陪嫁家才没散",
@@ -1361,6 +1409,14 @@
       "onboard_time": 1743413544,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146805,
+      "num": 146805,
+      "word": "李现又去公园打鸟了",
+      "onboard_time": 1743416362,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 145925,
@@ -1467,6 +1523,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 138527,
+      "num": 138527,
+      "word": "一诺FMVP皮肤即将上线",
+      "onboard_time": 1743416723,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136960,
       "num": 136960,
       "word": "黄霄雲 原创",
@@ -1563,8 +1627,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 133042,
-      "num": 133042,
+      "raw_hot": 134128,
+      "num": 134128,
       "word": "红果崩了",
       "onboard_time": 1743413302,
       "rank": 49,
@@ -1643,6 +1707,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 125219,
+      "num": 309804,
+      "word": "美防长声称要用日本应对中国",
+      "onboard_time": 1743413365,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125142,
       "num": 125142,
       "word": "缅甸地震已致1700人死亡",
@@ -1665,14 +1737,6 @@
       "onboard_time": 1743377419,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 123743,
-      "num": 309990,
-      "word": "慎买带有QS标志产品",
-      "onboard_time": 1743413244,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122130,
@@ -1721,6 +1785,14 @@
       "onboard_time": 1743393020,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118012,
+      "num": 146831,
+      "word": "2025国家助学贷款免息",
+      "onboard_time": 1743416123,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 115210,
@@ -2115,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72199,
+      "num": 162879,
+      "word": "王者荣耀奇迹司",
+      "onboard_time": 1743415583,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 71998,
       "num": 71998,
       "word": "缅籍华人哽咽说救援人员太少了",
@@ -2137,6 +2217,14 @@
       "onboard_time": 1743342084,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69807,
+      "num": 147575,
+      "word": "王者荣耀全新英雄团",
+      "onboard_time": 1743416782,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 69776,
@@ -2201,6 +2289,14 @@
       "onboard_time": 1743387380,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65236,
+      "num": 309823,
+      "word": "流水的T恤铁打的真维斯",
+      "onboard_time": 1743413722,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 64362,
@@ -2331,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52709,
+      "num": 134313,
+      "word": "泰国女子剖腹产遇地震室外成功分娩",
+      "onboard_time": 1743414863,
+      "rank": 45,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 52613,
       "num": 52613,
       "word": "爱思 点菜",
@@ -2339,20 +2443,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52294,
-      "num": 309823,
-      "word": "流水的T恤铁打的真维斯",
-      "onboard_time": 1743413722,
-      "rank": 17,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 52227,
       "num": 340406,
       "word": "重庆市政协副主席段成刚被查",
       "onboard_time": 1743412465,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51847,
+      "num": 257947,
+      "word": "缅甸男子求助中国救援队探测出生命",
+      "onboard_time": 1743415882,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 50824,
@@ -2385,14 +2489,6 @@
       "onboard_time": 1743385941,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45069,
-      "num": 309804,
-      "word": "美防长声称要用日本应对中国",
-      "onboard_time": 1743413365,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 44625,
@@ -2548,7 +2644,7 @@
     },
     {
       "raw_hot": 23399,
-      "num": 917301,
+      "num": 979475,
       "word": "2025中国网络媒体论坛",
       "onboard_time": 1743221722,
       "rank": 2,
@@ -2601,6 +2697,14 @@
       "onboard_time": 1743406221,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18020,
+      "num": 198367,
+      "word": "有人撤离曼德勒后仍不敢睡觉坐一宿",
+      "onboard_time": 1743416603,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 17690,
@@ -2681,6 +2785,14 @@
       "onboard_time": 1743366793,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7164,
+      "num": 144543,
+      "word": "少吃水果少生很多病不具有普遍性",
+      "onboard_time": 1743416723,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 3484,
