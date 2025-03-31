@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743432189541,
+  "endTime": 1743434800334,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -81,6 +81,14 @@
       "onboard_time": 1743400582,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1625813,
+      "num": 315844,
+      "word": "心理师锐评赵露思新综艺",
+      "onboard_time": 1743430524,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1601186,
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 962686,
+      "num": 445114,
+      "word": "王艳发了赤脚鬼",
+      "onboard_time": 1743431003,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 932582,
       "num": 1149213,
       "word": "iPhone17Pro十大升级",
@@ -291,22 +307,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 809463,
-      "num": 315844,
-      "word": "心理师锐评赵露思新综艺",
-      "onboard_time": 1743430524,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 777455,
-      "num": 445114,
-      "word": "王艳发了赤脚鬼",
-      "onboard_time": 1743431003,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 768473,
       "num": 1122955,
       "word": "10元盒饭姐喊话浪费顾客一辈子别来",
@@ -361,6 +361,14 @@
       "onboard_time": 1743407121,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 681915,
+      "num": 1109106,
+      "word": "山姆客服称水果中吃出虫是正常情况",
+      "onboard_time": 1743428243,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 670240,
@@ -475,14 +483,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 525302,
-      "num": 525302,
-      "word": "山姆客服称水果中吃出虫是正常情况",
-      "onboard_time": 1743428243,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 500905,
       "num": 306032,
       "word": "雪莉曾和名牌大学高材生庭外和解",
@@ -595,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434302,
+      "num": 312030,
+      "word": "李现的微博逐渐奇怪",
+      "onboard_time": 1743429082,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433989,
       "num": 433989,
       "word": "浙江小百花越剧院发声明",
@@ -699,11 +707,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367496,
+      "num": 367496,
+      "word": "甲亢哥针灸正骨后已老实",
+      "onboard_time": 1743431784,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 366624,
       "num": 366624,
       "word": "甲亢哥被喷火表演吓到尖叫",
       "onboard_time": 1743415043,
       "rank": 15,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 363039,
+      "num": 318532,
+      "word": "中医把脉称甲亢哥没有甲亢",
+      "onboard_time": 1743429204,
+      "rank": 9,
       "category": "网红"
     },
     {
@@ -755,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 322601,
+      "num": 270452,
+      "word": "乘风2025四公帮唱组队征集",
+      "onboard_time": 1743430644,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321586,
       "num": 321586,
       "word": "胡静给所有女生的建议",
@@ -771,20 +803,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 320995,
+      "num": 318589,
+      "word": "时代少年团 录播",
+      "onboard_time": 1743431064,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320084,
       "num": 320084,
       "word": "国家标准住宅项目规范发布",
       "onboard_time": 1743422304,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 318589,
-      "num": 318589,
-      "word": "时代少年团 录播",
-      "onboard_time": 1743431064,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 314322,
@@ -817,14 +849,6 @@
       "onboard_time": 1743406100,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 312030,
-      "num": 312030,
-      "word": "李现的微博逐渐奇怪",
-      "onboard_time": 1743429082,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 310083,
@@ -979,6 +1003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 267846,
+      "num": 242485,
+      "word": "站姐愚人节团建预告",
+      "onboard_time": 1743425964,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256970,
       "num": 278260,
       "word": "留几手斥责当侯佩岑面提周杰伦",
@@ -1025,14 +1057,6 @@
       "onboard_time": 1743416723,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 247678,
-      "num": 247678,
-      "word": "乘风2025四公帮唱组队征集",
-      "onboard_time": 1743430644,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 244433,
@@ -1171,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220483,
+      "num": 220483,
+      "word": "宇露君沾",
+      "onboard_time": 1743432143,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220442,
       "num": 735354,
       "word": "北影节天坛奖官宣评委倪妮",
@@ -1193,6 +1225,14 @@
       "onboard_time": 1743409764,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 214728,
+      "num": 214728,
+      "word": "女装啥时候能回归正常审美",
+      "onboard_time": 1743432503,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 214060,
@@ -1251,20 +1291,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206358,
+      "num": 206358,
+      "word": "陈昊宇陈丽君四公帮唱",
+      "onboard_time": 1743434662,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206245,
       "num": 206245,
       "word": "王曼昱小岱FocusStar四月刊预告",
       "onboard_time": 1743420022,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 205894,
-      "num": 205894,
-      "word": "站姐愚人节团建预告",
-      "onboard_time": 1743425964,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 205755,
@@ -1281,14 +1321,6 @@
       "onboard_time": 1743391521,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203275,
-      "num": 203275,
-      "word": "宇露君沾",
-      "onboard_time": 1743432143,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 201004,
@@ -1587,14 +1619,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 174902,
-      "num": 318532,
-      "word": "中医把脉称甲亢哥没有甲亢",
-      "onboard_time": 1743429204,
-      "rank": 9,
-      "category": "网红"
-    },
-    {
       "raw_hot": 174513,
       "num": 171077,
       "word": "虞书欣黄裙大片",
@@ -1673,6 +1697,14 @@
       "onboard_time": 1743390860,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167983,
+      "num": 313659,
+      "word": "零公摊时代真的要来了吗",
+      "onboard_time": 1743431544,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167440,
@@ -1843,14 +1875,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 156017,
-      "num": 156017,
-      "word": "甲亢哥针灸正骨后已老实",
-      "onboard_time": 1743431784,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 156004,
       "num": 156004,
       "word": "马龙说全运会后还想参加比赛",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1743430344,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151469,
+      "num": 184272,
+      "word": "男子赠妻子闺蜜7万被判全额返还加利息",
+      "onboard_time": 1743431364,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150646,
@@ -2387,12 +2419,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 123968,
+      "num": 205914,
+      "word": "吴柳芳发博过三月三",
+      "onboard_time": 1743429804,
+      "rank": 29,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 123848,
       "num": 123848,
       "word": "Tian致歉Gumayusi",
       "onboard_time": 1743377419,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122755,
+      "num": 122755,
+      "word": "黄霄雲方回应翻唱争议",
+      "onboard_time": 1743432623,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 122130,
@@ -2449,6 +2497,22 @@
       "onboard_time": 1743393020,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117070,
+      "num": 317438,
+      "word": "缅甸地震已遇难2065人",
+      "onboard_time": 1743431724,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 115705,
+      "num": 115705,
+      "word": "佳霏猫",
+      "onboard_time": 1743434602,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 115210,
@@ -2563,6 +2627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108063,
+      "num": 108063,
+      "word": "蓝色监狱 洁世一",
+      "onboard_time": 1743433402,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 107511,
       "num": 109282,
       "word": "胡烨韬 我要把名字刻在C位上",
@@ -2651,14 +2723,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 100868,
-      "num": 184272,
-      "word": "男子赠妻子闺蜜7万被判全额返还加利息",
-      "onboard_time": 1743431364,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100576,
       "num": 100576,
       "word": "张若昀唐艺昕在朋友聚会认识",
@@ -2689,6 +2753,14 @@
       "onboard_time": 1743371294,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98678,
+      "num": 255726,
+      "word": "淘宝推出首个AI机器人带货主播",
+      "onboard_time": 1743433282,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97920,
@@ -2779,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87473,
+      "num": 87473,
+      "word": "领克08",
+      "onboard_time": 1743434781,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 85818,
       "num": 85818,
       "word": "广东高州3.0级地震",
@@ -2851,14 +2931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76530,
-      "num": 313659,
-      "word": "零公摊时代真的要来了吗",
-      "onboard_time": 1743431544,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76373,
       "num": 149906,
       "word": "金价又创新高还能买吗",
@@ -2889,14 +2961,6 @@
       "onboard_time": 1743342684,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 75176,
-      "num": 205914,
-      "word": "吴柳芳发博过三月三",
-      "onboard_time": 1743429804,
-      "rank": 29,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 74879,
@@ -2937,6 +3001,14 @@
       "onboard_time": 1743415583,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 72000,
+      "num": 128829,
+      "word": "司马南偷税到底该谁担责",
+      "onboard_time": 1743432803,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71998,
@@ -3051,6 +3123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64301,
+      "num": 207261,
+      "word": "CBA排名",
+      "onboard_time": 1743431604,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63935,
       "num": 63935,
       "word": "AJ贴脸开团Doinb",
@@ -3088,14 +3168,6 @@
       "word": "女子在废墟外苦守被困好友三日",
       "onboard_time": 1743418042,
       "rank": 38,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 60134,
-      "num": 317438,
-      "word": "缅甸地震已遇难2065人",
-      "onboard_time": 1743431724,
-      "rank": 9,
       "category": "突发/灾害"
     },
     {
@@ -3283,6 +3355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45194,
+      "num": 257756,
+      "word": "坍塌旅馆靠4瓶水存活女孩谈获救经历",
+      "onboard_time": 1743433642,
+      "rank": 13,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 44625,
       "num": 231233,
       "word": "夏以昼八百个心眼子",
@@ -3361,6 +3441,14 @@
       "onboard_time": 1743401782,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39685,
+      "num": 261310,
+      "word": "中国咖啡98%来自云南",
+      "onboard_time": 1743434362,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 39206,
