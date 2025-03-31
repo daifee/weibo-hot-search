@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743405914003,
+  "endTime": 1743406676227,
   "band_list": [
     {
       "raw_hot": 2503187,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1565283,
+      "num": 291071,
+      "word": "金秀贤记者会直播",
+      "onboard_time": 1743406100,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1412446,
       "num": 1412446,
       "word": "陈德容",
@@ -67,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1227205,
+      "num": 1227205,
+      "word": "疑似一种新病毒在俄罗斯蔓延",
+      "onboard_time": 1743403341,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1160305,
       "num": 398755,
       "word": "李惠利拒绝给劣迹艺人鼓掌",
@@ -81,14 +97,6 @@
       "onboard_time": 1743397223,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1055752,
-      "num": 1168920,
-      "word": "疑似一种新病毒在俄罗斯蔓延",
-      "onboard_time": 1743403341,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1053410,
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 541766,
+      "num": 541766,
+      "word": "妹妹刷缅甸救援视频认出姐姐的手",
+      "onboard_time": 1743405021,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 531211,
       "num": 531211,
       "word": "缅甸强震已致1名中国公民遇难",
@@ -435,11 +451,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337064,
+      "num": 480285,
+      "word": "马斯克称火星将是美国的一部分",
+      "onboard_time": 1743403222,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 333821,
       "num": 333821,
       "word": "祝绪丹挑男友的方式很小众",
       "onboard_time": 1743391882,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 321586,
+      "num": 321586,
+      "word": "胡静给所有女生的建议",
+      "onboard_time": 1743404781,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -465,6 +497,14 @@
       "onboard_time": 1743389720,
       "rank": 39,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 308366,
+      "num": 216332,
+      "word": "头像玄学",
+      "onboard_time": 1743405681,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 302545,
@@ -539,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253925,
+      "num": 253925,
+      "word": "三月三上巳节是春游的节日",
+      "onboard_time": 1743401601,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 242821,
       "num": 242821,
       "word": "杨紫张挺 合作",
@@ -555,36 +603,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 239399,
-      "num": 239399,
-      "word": "三月三上巳节是春游的节日",
-      "onboard_time": 1743401601,
-      "rank": 48,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 239318,
       "num": 239318,
       "word": "减脂食谱里为什么永远有西兰花",
       "onboard_time": 1743346521,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 239202,
-      "num": 239202,
-      "word": "胡静给所有女生的建议",
-      "onboard_time": 1743404781,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 238620,
-      "num": 480285,
-      "word": "马斯克称火星将是美国的一部分",
-      "onboard_time": 1743403222,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 236403,
@@ -641,6 +665,14 @@
       "onboard_time": 1743390982,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226321,
+      "num": 226321,
+      "word": "男子离婚3年发现女儿非亲生",
+      "onboard_time": 1743405381,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222387,
@@ -705,6 +737,14 @@
       "onboard_time": 1743404302,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 208592,
+      "num": 208592,
+      "word": "女子称女儿遭建行领导霸凌后自尽",
+      "onboard_time": 1743405861,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205755,
@@ -804,7 +844,7 @@
     },
     {
       "raw_hot": 191100,
-      "num": 191100,
+      "num": 226009,
       "word": "女子整理旧衣柜后确诊霉菌性肺炎",
       "onboard_time": 1743403701,
       "rank": 29,
@@ -817,14 +857,6 @@
       "onboard_time": 1743404662,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 183407,
-      "num": 183407,
-      "word": "女子称女儿遭建行领导霸凌后自尽",
-      "onboard_time": 1743405861,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183257,
@@ -1051,14 +1083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 151767,
-      "num": 478117,
-      "word": "妹妹刷缅甸救援视频认出姐姐的手",
-      "onboard_time": 1743405021,
-      "rank": 14,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 150646,
       "num": 110784,
       "word": "特朗普威胁对俄石油征收2级关税",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1743393863,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 146055,
-      "num": 146055,
-      "word": "男子离婚3年发现女儿非亲生",
-      "onboard_time": 1743405381,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145925,
@@ -1139,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142184,
+      "num": 476464,
+      "word": "找到罗一舟气血充足的原因了",
+      "onboard_time": 1743403701,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141998,
       "num": 141998,
       "word": "500万买的绿地洋房成坟景房",
@@ -1163,12 +1187,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 139812,
-      "num": 476464,
-      "word": "找到罗一舟气血充足的原因了",
-      "onboard_time": 1743403701,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 140308,
+      "num": 140308,
+      "word": "经济学家谈比亚迪激动落泪",
+      "onboard_time": 1743405861,
+      "rank": 44,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 136661,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1743391161,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135659,
+      "num": 135659,
+      "word": "门童返韩后才通知粉丝取消演唱会",
+      "onboard_time": 1743406281,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 135503,
@@ -1275,12 +1307,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 126795,
-      "num": 126795,
-      "word": "头像玄学",
-      "onboard_time": 1743405681,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 128266,
+      "num": 128266,
+      "word": "中共中央政治局3月31日召开会议",
+      "onboard_time": 1743406100,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 127803,
+      "num": 127803,
+      "word": "陈都灵4月6个商务拍摄",
+      "onboard_time": 1743403462,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 125871,
@@ -1336,14 +1376,6 @@
       "word": "白客想和沈腾HE",
       "onboard_time": 1743391281,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 120799,
-      "num": 120799,
-      "word": "陈都灵4月6个商务拍摄",
-      "onboard_time": 1743403462,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1473,14 +1505,6 @@
       "onboard_time": 1743350422,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105091,
-      "num": 120857,
-      "word": "经济学家谈比亚迪激动落泪",
-      "onboard_time": 1743405861,
-      "rank": 44,
-      "category": "财经,汽车"
     },
     {
       "raw_hot": 105051,
@@ -1923,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53984,
+      "num": 476008,
+      "word": "女子在废墟中扒开钢筋自救成功",
+      "onboard_time": 1743405441,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 52613,
       "num": 52613,
       "word": "爱思 点菜",
@@ -2043,6 +2075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31565,
+      "num": 232997,
+      "word": "偶遇王安宇逛公园",
+      "onboard_time": 1743406459,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30288,
       "num": 49139,
       "word": "伊朗拒绝与美国直接谈判",
@@ -2056,14 +2096,6 @@
       "word": "缅甸大学生感谢中国救援队第一个赶来",
       "onboard_time": 1743363074,
       "rank": 38,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 29785,
-      "num": 476008,
-      "word": "女子在废墟中扒开钢筋自救成功",
-      "onboard_time": 1743405441,
-      "rank": 19,
       "category": "突发/灾害"
     },
     {
@@ -2120,6 +2152,22 @@
       "word": "如何走出AI知识幻觉",
       "onboard_time": 1743395662,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18899,
+      "num": 268291,
+      "word": "门童粉丝讲述震后回国历程",
+      "onboard_time": 1743406221,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 18113,
+      "num": 558388,
+      "word": "云岭天路春潮涌",
+      "onboard_time": 1743406221,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
