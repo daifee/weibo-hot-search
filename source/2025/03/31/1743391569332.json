@@ -1,0 +1,410 @@
+{
+  "runTime": 1743391569332,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1560332,
+        "num": 1560332,
+        "word": "店主接到近8吨毛肚订单直接报警",
+        "onboard_time": 1743385821,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 916477,
+        "num": 916477,
+        "word": "哪吒2距全球第4就差10亿了",
+        "onboard_time": 1743385641,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14164,
+        "num": 727742,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 641233,
+        "num": 641233,
+        "word": "雷军把车的价格打下来后网友破防了",
+        "onboard_time": 1743385821,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 639586,
+        "num": 639586,
+        "word": "颜安同学是张丹峰的儿子",
+        "onboard_time": 1743390982,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 613906,
+        "num": 613906,
+        "word": "金价",
+        "onboard_time": 1743386120,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 559545,
+        "num": 559545,
+        "word": "三月三是什么节",
+        "onboard_time": 1743386360,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433989,
+        "num": 433989,
+        "word": "浙江小百花越剧院发声明",
+        "onboard_time": 1743387020,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406628,
+        "num": 406628,
+        "word": "湖南商人撤离曼德勒途中遇持枪收费",
+        "onboard_time": 1743388279,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115288,
+        "num": 406404,
+        "word": "中国救援队在缅最新救援画面",
+        "onboard_time": 1743389720,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1225997,
+        "num": 406195,
+        "word": "一直对月薪三万没概念直到换算成天",
+        "onboard_time": 1743382162,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 782515,
+        "num": 406101,
+        "word": "雪莉恨自己长得漂亮",
+        "onboard_time": 1743385520,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540825,
+        "num": 405706,
+        "word": "赵露思综艺",
+        "onboard_time": 1743381561,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405695,
+        "num": 405695,
+        "word": "虞书欣到泰国七天请了三次客",
+        "onboard_time": 1743379460,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69682,
+        "num": 402590,
+        "word": "云南瑞丽全市所有学校已正常开展教学",
+        "onboard_time": 1743390440,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 401527,
+        "num": 401527,
+        "word": "新秀王安冉离婚原因",
+        "onboard_time": 1743387560,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322893,
+        "num": 322893,
+        "word": "李惠利拒绝给劣迹艺人鼓掌",
+        "onboard_time": 1743381981,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397065,
+        "num": 317912,
+        "word": "赵露思4月两场线下活动",
+        "onboard_time": 1743389060,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265959,
+        "num": 265959,
+        "word": "缅甸坍塌酒店被困女孩靠4瓶水存活",
+        "onboard_time": 1743380660,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64362,
+        "num": 248266,
+        "word": "公共场所的游烟何时不呛人",
+        "onboard_time": 1743389781,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239298,
+        "num": 239298,
+        "word": "爸爸坚持带重度孤独症孩子出门13年后",
+        "onboard_time": 1743388821,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233476,
+        "num": 233476,
+        "word": "行程图",
+        "onboard_time": 1743387981,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228495,
+        "num": 228495,
+        "word": "三月三",
+        "onboard_time": 1743382341,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186430,
+        "num": 226868,
+        "word": "枭起青壤",
+        "onboard_time": 1743385160,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173987,
+        "num": 224289,
+        "word": "杜兰特受伤",
+        "onboard_time": 1743390982,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181531,
+        "num": 221062,
+        "word": "藏海传杀青即将上线",
+        "onboard_time": 1743384623,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169165,
+        "num": 217895,
+        "word": "李昀锐四月三个商务拍摄",
+        "onboard_time": 1743390860,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153347,
+        "num": 215198,
+        "word": "清明档",
+        "onboard_time": 1743390620,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135766,
+        "num": 212297,
+        "word": "向阳花",
+        "onboard_time": 1743391161,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95337,
+        "num": 209293,
+        "word": "韩最严重山火涉事嫌疑人拒绝认罪",
+        "onboard_time": 1743390801,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1365473,
+        "num": 206069,
+        "word": "李惠利不鼓掌事件后被换角",
+        "onboard_time": 1743387800,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204156,
+        "num": 204156,
+        "word": "实用主义者的爱情官宣陈飞宇孙千",
+        "onboard_time": 1743391521,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193289,
+        "num": 193289,
+        "word": "金价冲上3100美元",
+        "onboard_time": 1743391521,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182286,
+        "num": 182286,
+        "word": "德约科维奇无缘第100冠",
+        "onboard_time": 1743391521,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171315,
+        "num": 171315,
+        "word": "距深圳市约170公里发现1亿吨油田",
+        "onboard_time": 1743377840,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162924,
+        "num": 162924,
+        "word": "南京全面取消商品住房限售",
+        "onboard_time": 1743387621,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161929,
+        "num": 161929,
+        "word": "大学生模仿春晚机器人跳舞获一等奖",
+        "onboard_time": 1743384740,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159094,
+        "num": 159094,
+        "word": "一条plog告别三月",
+        "onboard_time": 1743391401,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158910,
+        "num": 158910,
+        "word": "中国救援队救出一被埋60小时孩子",
+        "onboard_time": 1743378079,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 157001,
+        "num": 157001,
+        "word": "金饰价格跌回935元",
+        "onboard_time": 1743390499,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141998,
+        "num": 141998,
+        "word": "500万买的绿地洋房成坟景房",
+        "onboard_time": 1743387200,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131723,
+        "num": 131723,
+        "word": "吴彦祖发文谴责飞机上光脚踩座椅乘客",
+        "onboard_time": 1743344963,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126064,
+        "num": 126064,
+        "word": "缅甸29岁姑娘被中国救援队救出",
+        "onboard_time": 1743388101,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125871,
+        "num": 125871,
+        "word": "德约科维奇0比2门希克",
+        "onboard_time": 1743391521,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125646,
+        "num": 125646,
+        "word": "音乐节 网红",
+        "onboard_time": 1743379822,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121288,
+        "num": 121288,
+        "word": "为什么医生总建议晚上10点入睡",
+        "onboard_time": 1743350900,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121252,
+        "num": 121252,
+        "word": "白客想和沈腾HE",
+        "onboard_time": 1743391281,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116758,
+        "num": 116758,
+        "word": "A股",
+        "onboard_time": 1743385821,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117554,
+        "num": 116753,
+        "word": "肖战蓝色格纹睡衣",
+        "onboard_time": 1743391460,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116745,
+        "num": 116745,
+        "word": "郑州火烧店的招财猫都有KPI了",
+        "onboard_time": 1743391521,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}

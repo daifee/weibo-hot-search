@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743390614481,
+  "endTime": 1743391569332,
   "band_list": [
     {
       "raw_hot": 3126539,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2503187,
-      "num": 402026,
+      "num": 406195,
       "word": "一直对月薪三万没概念直到换算成天",
       "onboard_time": 1743382162,
       "rank": 10,
@@ -107,7 +107,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1313665,
+      "raw_hot": 1365473,
       "num": 406162,
       "word": "李惠利不鼓掌事件后被换角",
       "onboard_time": 1743387800,
@@ -211,8 +211,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 916477,
+      "num": 916477,
+      "word": "哪吒2距全球第4就差10亿了",
+      "onboard_time": 1743385641,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 890964,
-      "num": 399883,
+      "num": 406101,
       "word": "雪莉恨自己长得漂亮",
       "onboard_time": 1743385520,
       "rank": 12,
@@ -281,14 +289,6 @@
       "onboard_time": 1743343463,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 757304,
-      "num": 757304,
-      "word": "哪吒2距全球第4就差10亿了",
-      "onboard_time": 1743385641,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 756096,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 639586,
+      "num": 639586,
+      "word": "颜安同学是张丹峰的儿子",
+      "onboard_time": 1743390982,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 629943,
       "num": 324437,
       "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
@@ -433,6 +441,14 @@
       "onboard_time": 1743302909,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 613906,
+      "num": 613906,
+      "word": "金价",
+      "onboard_time": 1743386120,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 610370,
@@ -531,20 +547,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 583213,
-      "num": 583213,
-      "word": "金价",
-      "onboard_time": 1743386120,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 580168,
       "num": 580168,
       "word": "缅甸地震如同一把巨刀切入地球",
       "onboard_time": 1743305010,
       "rank": 22,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 559545,
+      "num": 559545,
+      "word": "三月三是什么节",
+      "onboard_time": 1743386360,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 557054,
@@ -617,14 +633,6 @@
       "onboard_time": 1743317122,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 489839,
-      "num": 489839,
-      "word": "三月三是什么节",
-      "onboard_time": 1743386360,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 487719,
@@ -724,11 +732,19 @@
     },
     {
       "raw_hot": 434696,
-      "num": 396378,
+      "num": 401527,
       "word": "新秀王安冉离婚原因",
       "onboard_time": 1743387560,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433989,
+      "num": 433989,
+      "word": "浙江小百花越剧院发声明",
+      "onboard_time": 1743387020,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 433336,
@@ -803,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 406276,
-      "num": 406276,
-      "word": "浙江小百花越剧院发声明",
-      "onboard_time": 1743387020,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 404231,
       "num": 404231,
       "word": "全国下周统一发放正常春天",
@@ -856,6 +864,14 @@
       "word": "偶遇俞灏明王晓晨穿着情侣装吃饭",
       "onboard_time": 1743334822,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 397065,
+      "num": 317912,
+      "word": "赵露思4月两场线下活动",
+      "onboard_time": 1743389060,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -1089,14 +1105,6 @@
       "onboard_time": 1743312570,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 303586,
-      "num": 246571,
-      "word": "赵露思4月两场线下活动",
-      "onboard_time": 1743389060,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 302545,
@@ -1387,8 +1395,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 237668,
-      "num": 237668,
+      "raw_hot": 239298,
+      "num": 239298,
       "word": "爸爸坚持带重度孤独症孩子出门13年后",
       "onboard_time": 1743388821,
       "rank": 22,
@@ -1635,6 +1643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204156,
+      "num": 204156,
+      "word": "实用主义者的爱情官宣陈飞宇孙千",
+      "onboard_time": 1743391521,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202731,
       "num": 278565,
       "word": "迪士尼偶遇戚薇李承铉一家三口",
@@ -1737,6 +1753,14 @@
       "onboard_time": 1743368353,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193289,
+      "num": 193289,
+      "word": "金价冲上3100美元",
+      "onboard_time": 1743391521,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 192942,
@@ -1843,6 +1867,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 182286,
+      "num": 182286,
+      "word": "德约科维奇无缘第100冠",
+      "onboard_time": 1743391521,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181656,
       "num": 181656,
       "word": "AG对战TTG",
@@ -1897,6 +1929,14 @@
       "onboard_time": 1743316041,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173987,
+      "num": 224289,
+      "word": "杜兰特受伤",
+      "onboard_time": 1743390982,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 172373,
@@ -1977,6 +2017,14 @@
       "onboard_time": 1743347003,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169165,
+      "num": 217895,
+      "word": "李昀锐四月三个商务拍摄",
+      "onboard_time": 1743390860,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 168463,
@@ -2083,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162924,
+      "num": 162924,
+      "word": "南京全面取消商品住房限售",
+      "onboard_time": 1743387621,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162837,
       "num": 162837,
       "word": "杭州小伙短租网红相机半年创收50万",
@@ -2139,14 +2195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 159472,
-      "num": 159472,
-      "word": "南京全面取消商品住房限售",
-      "onboard_time": 1743387621,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159282,
       "num": 159282,
       "word": "一人推荐一部看了走不出来的电视剧",
@@ -2161,6 +2209,14 @@
       "onboard_time": 1743308490,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 159094,
+      "num": 159094,
+      "word": "一条plog告别三月",
+      "onboard_time": 1743391401,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158871,
@@ -2185,6 +2241,14 @@
       "onboard_time": 1743306750,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157001,
+      "num": 157001,
+      "word": "金饰价格跌回935元",
+      "onboard_time": 1743390499,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 156114,
@@ -2257,6 +2321,14 @@
       "onboard_time": 1743309031,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153347,
+      "num": 215198,
+      "word": "清明档",
+      "onboard_time": 1743390620,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 153289,
@@ -2459,6 +2531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141998,
+      "num": 141998,
+      "word": "500万买的绿地洋房成坟景房",
+      "onboard_time": 1743387200,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141611,
       "num": 220134,
       "word": "美国被曝长期全方位介入俄乌冲突",
@@ -2507,14 +2587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 137113,
-      "num": 137113,
-      "word": "500万买的绿地洋房成坟景房",
-      "onboard_time": 1743387200,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137104,
       "num": 137104,
       "word": "正常人的减脂餐",
@@ -2561,6 +2633,14 @@
       "onboard_time": 1743303690,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135766,
+      "num": 212297,
+      "word": "向阳花",
+      "onboard_time": 1743391161,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 135637,
@@ -2731,6 +2811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125871,
+      "num": 125871,
+      "word": "德约科维奇0比2门希克",
+      "onboard_time": 1743391521,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125465,
       "num": 138147,
       "word": "甲亢哥高铁全程2K直播不掉线",
@@ -2827,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121252,
+      "num": 121252,
+      "word": "白客想和沈腾HE",
+      "onboard_time": 1743391281,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120474,
       "num": 120474,
       "word": "姚晨侯雯元对手戏",
@@ -2840,14 +2936,6 @@
       "word": "四家国有大行定增方案落地",
       "onboard_time": 1743328940,
       "rank": 36,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 120192,
-      "num": 120192,
-      "word": "金饰价格跌回935元",
-      "onboard_time": 1743390499,
-      "rank": 35,
       "category": "财经"
     },
     {
@@ -2931,12 +3019,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117554,
+      "num": 116753,
+      "word": "肖战蓝色格纹睡衣",
+      "onboard_time": 1743391460,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 116822,
       "num": 116822,
       "word": "叶童听不懂王珞丹的广东话",
       "onboard_time": 1743316641,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116745,
+      "num": 116745,
+      "word": "郑州火烧店的招财猫都有KPI了",
+      "onboard_time": 1743391521,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116311,
@@ -2948,7 +3052,7 @@
     },
     {
       "raw_hot": 115608,
-      "num": 115608,
+      "num": 406404,
       "word": "中国救援队在缅最新救援画面",
       "onboard_time": 1743389720,
       "rank": 39,
@@ -3435,6 +3539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95337,
+      "num": 209293,
+      "word": "韩最严重山火涉事嫌疑人拒绝认罪",
+      "onboard_time": 1743390801,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95024,
       "num": 95024,
       "word": "尤长靖扯领带这一下好拽",
@@ -3787,6 +3899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69682,
+      "num": 402590,
+      "word": "云南瑞丽全市所有学校已正常开展教学",
+      "onboard_time": 1743390440,
+      "rank": 33,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 66410,
       "num": 239176,
       "word": "012642一家三口一个警号",
@@ -3833,6 +3953,14 @@
       "onboard_time": 1743336381,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 64362,
+      "num": 248266,
+      "word": "公共场所的游烟何时不呛人",
+      "onboard_time": 1743389781,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63426,
@@ -3969,14 +4097,6 @@
       "onboard_time": 1743268218,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 51817,
-      "num": 127669,
-      "word": "云南瑞丽全市所有学校已正常开展教学",
-      "onboard_time": 1743390440,
-      "rank": 33,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 51268,
@@ -4145,14 +4265,6 @@
       "onboard_time": 1743332002,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 33786,
-      "num": 246723,
-      "word": "公共场所的游烟何时不呛人",
-      "onboard_time": 1743389781,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33207,
