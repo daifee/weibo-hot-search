@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743426238889,
+  "endTime": 1743428013487,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1601128,
-      "num": 264359,
+      "num": 276215,
       "word": "金秀贤拍的金赛纶睡觉照片",
       "onboard_time": 1743425363,
       "rank": 15,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 749628,
-      "num": 434919,
+      "num": 446911,
       "word": "张檬称月子要坐满100天",
       "onboard_time": 1743423144,
       "rank": 3,
@@ -459,6 +459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 486996,
+      "num": 486996,
+      "word": "乌尔善发文",
+      "onboard_time": 1743422423,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 482290,
       "num": 439144,
       "word": "房琪 彭小苒",
@@ -489,6 +497,14 @@
       "onboard_time": 1743411925,
       "rank": 5,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 459090,
+      "num": 356062,
+      "word": "李昀锐好标准的体育生下楼梯",
+      "onboard_time": 1743423747,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 458900,
@@ -531,12 +547,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 441764,
-      "num": 441764,
-      "word": "乌尔善发文",
-      "onboard_time": 1743422423,
-      "rank": 4,
-      "category": "电影"
+      "raw_hot": 441131,
+      "num": 441131,
+      "word": "横店变竖店了",
+      "onboard_time": 1743422661,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 434696,
@@ -643,20 +659,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371629,
+      "num": 250862,
+      "word": "梁洁造型师",
+      "onboard_time": 1743425123,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366624,
       "num": 366624,
       "word": "甲亢哥被喷火表演吓到尖叫",
       "onboard_time": 1743415043,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 356062,
-      "num": 356062,
-      "word": "李昀锐好标准的体育生下楼梯",
-      "onboard_time": 1743423747,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 342132,
@@ -683,14 +699,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 333942,
-      "num": 333942,
-      "word": "横店变竖店了",
-      "onboard_time": 1743422661,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 333874,
       "num": 333874,
       "word": "王者荣耀",
@@ -713,14 +721,6 @@
       "onboard_time": 1743408384,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 321640,
-      "num": 182131,
-      "word": "梁洁造型师",
-      "onboard_time": 1743425123,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 321586,
@@ -795,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296257,
+      "num": 296257,
+      "word": "雁回时反转",
+      "onboard_time": 1743423443,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295995,
       "num": 295995,
       "word": "行程图",
@@ -816,6 +824,14 @@
       "word": "一全职妈妈离婚获2万元经济补偿",
       "onboard_time": 1743346643,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290155,
+      "num": 290155,
+      "word": "4层及以上住宅设电梯",
+      "onboard_time": 1743423865,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -867,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274747,
+      "num": 274747,
+      "word": "真正的智能座舱从不挑手机品牌",
+      "onboard_time": 1743426382,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 274688,
       "num": 231427,
       "word": "赤脚鬼",
@@ -897,14 +921,6 @@
       "onboard_time": 1743415223,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 266671,
-      "num": 266671,
-      "word": "雁回时反转",
-      "onboard_time": 1743423443,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 256970,
@@ -1171,14 +1187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201014,
-      "num": 201014,
-      "word": "4层及以上住宅设电梯",
-      "onboard_time": 1743423865,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201004,
       "num": 232935,
       "word": "檀健次官宣加盟北影节",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1743420562,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199339,
+      "num": 199339,
+      "word": "第一次看到这么真实的短剧",
+      "onboard_time": 1743427103,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 199302,
@@ -1249,6 +1265,14 @@
       "onboard_time": 1743395121,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195095,
+      "num": 269114,
+      "word": "newjeans是高层内斗的牺牲品吗",
+      "onboard_time": 1743427463,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 195026,
@@ -1331,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188116,
+      "num": 223598,
+      "word": "林孝埈每天主打一个快乐",
+      "onboard_time": 1743425424,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185280,
       "num": 185280,
       "word": "侯佩岑好会爱人",
@@ -1388,11 +1420,19 @@
     },
     {
       "raw_hot": 182007,
-      "num": 182007,
+      "num": 260813,
       "word": "申请过国家助学贷款的同学注意了",
       "onboard_time": 1743418281,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180990,
+      "num": 180990,
+      "word": "站姐愚人节团建预告",
+      "onboard_time": 1743425964,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 179497,
@@ -1491,6 +1531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 169898,
+      "num": 169898,
+      "word": "有你的时光里是三十而已前传",
+      "onboard_time": 1743426923,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169395,
       "num": 169395,
       "word": "下月起这些区域禁止安装监控设备",
@@ -1529,14 +1577,6 @@
       "onboard_time": 1743396741,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165245,
-      "num": 165245,
-      "word": "林孝埈每天主打一个快乐",
-      "onboard_time": 1743425424,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 163321,
@@ -1705,6 +1745,22 @@
       "onboard_time": 1743412764,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151430,
+      "num": 259532,
+      "word": "男子篡改好友专升本志愿致其落榜获刑",
+      "onboard_time": 1743426382,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151266,
+      "num": 151266,
+      "word": "甲亢哥吃皮蛋",
+      "onboard_time": 1743425424,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 150646,
@@ -1979,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135343,
+      "num": 135343,
+      "word": "汪苏泷我想念鸟巢限定版",
+      "onboard_time": 1743426623,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135193,
       "num": 135193,
       "word": "用seventeen的歌来表达一周的心情",
@@ -2057,6 +2121,22 @@
       "onboard_time": 1743402681,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132405,
+      "num": 132405,
+      "word": "愚人节文案",
+      "onboard_time": 1743425243,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 131586,
+      "num": 131586,
+      "word": "章昊好权威的脸",
+      "onboard_time": 1743426623,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131480,
@@ -2155,6 +2235,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 121466,
+      "num": 121466,
+      "word": "乘风2025最新排名",
+      "onboard_time": 1743427703,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121252,
       "num": 121252,
       "word": "白客想和沈腾HE",
@@ -2177,6 +2265,14 @@
       "onboard_time": 1743410725,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 120781,
+      "num": 120781,
+      "word": "QQ音乐 内涵",
+      "onboard_time": 1743427943,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 119514,
@@ -2219,22 +2315,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 114459,
-      "num": 114459,
-      "word": "愚人节文案",
-      "onboard_time": 1743425243,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 114395,
-      "num": 114395,
-      "word": "站姐愚人节团建预告",
-      "onboard_time": 1743425964,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114084,
       "num": 114084,
       "word": "苹果被曝正在开发AI医生",
@@ -2257,6 +2337,14 @@
       "onboard_time": 1743399321,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113648,
+      "num": 113648,
+      "word": "bjd娃娃",
+      "onboard_time": 1743422241,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 111668,
@@ -2433,14 +2521,6 @@
       "onboard_time": 1743371294,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98873,
-      "num": 98873,
-      "word": "bjd娃娃",
-      "onboard_time": 1743422241,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 97920,
@@ -2659,14 +2739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72376,
-      "num": 128289,
-      "word": "甲亢哥吃皮蛋",
-      "onboard_time": 1743425424,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 72199,
       "num": 162879,
       "word": "王者荣耀奇迹司",
@@ -2777,6 +2849,14 @@
       "onboard_time": 1743413722,
       "rank": 17,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 64697,
+      "num": 448868,
+      "word": "沉浸式感受广西三月三",
+      "onboard_time": 1743426863,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64362,
@@ -3171,6 +3251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25767,
+      "num": 277614,
+      "word": "多方回应网传地震造成翡翠价格上涨",
+      "onboard_time": 1743426323,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 25123,
       "num": 231712,
       "word": "有人撤离曼德勒后仍不敢睡觉坐一宿",
@@ -3225,6 +3313,14 @@
       "onboard_time": 1743377538,
       "rank": 21,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 22332,
+      "num": 120698,
+      "word": "胡塞武装为啥难打",
+      "onboard_time": 1743427463,
+      "rank": 39,
+      "category": "军事,国际时政"
     },
     {
       "raw_hot": 22083,
