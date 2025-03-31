@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743398685146,
+  "endTime": 1743399683487,
   "band_list": [
     {
       "raw_hot": 2503187,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1412446,
+      "num": 1412446,
+      "word": "陈德容",
+      "onboard_time": 1743396444,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1365473,
       "num": 406162,
       "word": "李惠利不鼓掌事件后被换角",
@@ -51,12 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1123655,
-      "num": 1123655,
-      "word": "陈德容",
-      "onboard_time": 1743396444,
-      "rank": 1,
-      "category": "综艺"
+      "raw_hot": 1080005,
+      "num": 274243,
+      "word": "门童泰国事件",
+      "onboard_time": 1743397223,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1053410,
@@ -155,6 +163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 698734,
+      "num": 698734,
+      "word": "iPhone17Pro十大升级",
+      "onboard_time": 1743398002,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 654976,
       "num": 654976,
       "word": "赴缅甸中国公羊救援队发声",
@@ -169,14 +185,6 @@
       "onboard_time": 1743390982,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 624600,
-      "num": 267069,
-      "word": "门童泰国事件",
-      "onboard_time": 1743397223,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 613906,
@@ -243,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458900,
+      "num": 269334,
+      "word": "男子身上发痒检查后确诊肝癌",
+      "onboard_time": 1743396682,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 454305,
       "num": 454305,
       "word": "小米造出了我15年前想要的相机",
@@ -300,19 +316,11 @@
     },
     {
       "raw_hot": 416044,
-      "num": 308107,
+      "num": 402306,
       "word": "复活王蓉",
       "onboard_time": 1743396561,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 414312,
-      "num": 241482,
-      "word": "男子身上发痒检查后确诊肝癌",
-      "onboard_time": 1743396682,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 411310,
@@ -321,14 +329,6 @@
       "onboard_time": 1743388279,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 403753,
-      "num": 229663,
-      "word": "iPhone17Pro十大升级",
-      "onboard_time": 1743398002,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 398650,
@@ -443,6 +443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 272518,
+      "num": 170912,
+      "word": "乘客开门杀致人死亡网约车司机获刑",
+      "onboard_time": 1743399561,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269727,
       "num": 317184,
       "word": "为什么现在老师都不敢管学生了",
@@ -491,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232778,
+      "num": 232778,
+      "word": "泫雅时隔四个月晒与龙俊亨合照",
+      "onboard_time": 1743397822,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232373,
       "num": 232373,
       "word": "为什么医生总建议晚上10点入睡",
@@ -507,12 +523,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 229370,
+      "num": 229370,
+      "word": "比伯晒抱儿子照片",
+      "onboard_time": 1743398121,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229046,
       "num": 229046,
       "word": "杜兰特受伤",
       "onboard_time": 1743390982,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225393,
+      "num": 294818,
+      "word": "缅甸泰国华人互助接力",
+      "onboard_time": 1743397402,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 216235,
@@ -555,28 +587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205130,
-      "num": 294818,
-      "word": "缅甸泰国华人互助接力",
-      "onboard_time": 1743397402,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 204156,
       "num": 204156,
       "word": "实用主义者的爱情官宣陈飞宇孙千",
       "onboard_time": 1743391521,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203415,
-      "num": 203415,
-      "word": "比伯晒抱儿子照片",
-      "onboard_time": 1743398121,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 197349,
@@ -593,6 +609,14 @@
       "onboard_time": 1743385821,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 195228,
+      "num": 195228,
+      "word": "乔欣晒和姐姐香港游vlog",
+      "onboard_time": 1743396142,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 195147,
@@ -635,12 +659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185022,
-      "num": 185022,
-      "word": "泫雅时隔四个月晒与龙俊亨合照",
-      "onboard_time": 1743397822,
+      "raw_hot": 182857,
+      "num": 170674,
+      "word": "俄罗斯",
+      "onboard_time": 1743398841,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 180655,
+      "num": 170537,
+      "word": "全职丈夫起诉妻子给丈母娘转122万",
+      "onboard_time": 1743399501,
       "rank": 32,
-      "category": "艺人"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178078,
@@ -659,12 +691,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177568,
-      "num": 177568,
-      "word": "乔欣晒和姐姐香港游vlog",
-      "onboard_time": 1743396142,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 174513,
+      "num": 171077,
+      "word": "虞书欣黄裙大片",
+      "onboard_time": 1743399020,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172373,
@@ -689,6 +721,14 @@
       "onboard_time": 1743383481,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171138,
+      "num": 171138,
+      "word": "念无双",
+      "onboard_time": 1743398962,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 170501,
@@ -955,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134868,
+      "num": 134868,
+      "word": "孟子义四月行程图",
+      "onboard_time": 1743399380,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134479,
       "num": 209293,
       "word": "韩最严重山火涉事嫌疑人拒绝认罪",
@@ -988,7 +1036,7 @@
     },
     {
       "raw_hot": 125871,
-      "num": 125871,
+      "num": 226963,
       "word": "德约科维奇0比2门希克",
       "onboard_time": 1743391521,
       "rank": 43,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1743397642,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 113748,
+      "num": 113748,
+      "word": "念无双新浪扫楼",
+      "onboard_time": 1743399321,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 111668,

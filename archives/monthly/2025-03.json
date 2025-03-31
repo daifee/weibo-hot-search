@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743398685146,
+  "endTime": 1743399683487,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -3387,6 +3387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1412446,
+      "num": 1412446,
+      "word": "陈德容",
+      "onboard_time": 1743165022,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1411300,
       "num": 1411300,
       "word": "小米生态链总经理删除不做卫生巾微博",
@@ -5211,14 +5219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1123655,
-      "num": 1123655,
-      "word": "陈德容",
-      "onboard_time": 1743165022,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1121767,
       "num": 659194,
       "word": "陶喆方大同",
@@ -5561,6 +5561,14 @@
       "onboard_time": 1741136240,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1080005,
+      "num": 274243,
+      "word": "门童泰国事件",
+      "onboard_time": 1743397223,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1079863,
@@ -10643,6 +10651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 698734,
+      "num": 698734,
+      "word": "iPhone17Pro十大升级",
+      "onboard_time": 1743398002,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 697178,
       "num": 697178,
       "word": "315晚会总导演爆料晚会看点",
@@ -12257,14 +12273,6 @@
       "onboard_time": 1742221464,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 624600,
-      "num": 267069,
-      "word": "门童泰国事件",
-      "onboard_time": 1743397223,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 624559,
@@ -17387,6 +17395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 458900,
+      "num": 269334,
+      "word": "男子身上发痒检查后确诊肝癌",
+      "onboard_time": 1743396682,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458863,
       "num": 458863,
       "word": "汪苏泷说今天温以凡在台下",
@@ -19235,14 +19251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 414312,
-      "num": 241482,
-      "word": "男子身上发痒检查后确诊肝癌",
-      "onboard_time": 1743396682,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 413673,
       "num": 413673,
       "word": "殡葬管理招新要接触遗体176人报考",
@@ -19801,14 +19809,6 @@
       "onboard_time": 1742132964,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 403753,
-      "num": 229663,
-      "word": "iPhone17Pro十大升级",
-      "onboard_time": 1743398002,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 403670,
@@ -28451,6 +28451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 272518,
+      "num": 170912,
+      "word": "乘客开门杀致人死亡网约车司机获刑",
+      "onboard_time": 1743399561,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272205,
       "num": 272205,
       "word": "郑钦文vs阿扎伦卡",
@@ -32755,6 +32763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232778,
+      "num": 232778,
+      "word": "泫雅时隔四个月晒与龙俊亨合照",
+      "onboard_time": 1743397822,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232769,
       "num": 232769,
       "word": "上海偶遇董力老婆阿诺",
@@ -33121,6 +33137,14 @@
       "onboard_time": 1742131285,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 229370,
+      "num": 229370,
+      "word": "比伯晒抱儿子照片",
+      "onboard_time": 1743398121,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 229298,
@@ -33713,6 +33737,14 @@
       "onboard_time": 1742896520,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 225393,
+      "num": 294818,
+      "word": "缅甸泰国华人互助接力",
+      "onboard_time": 1743397402,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 225376,
@@ -37843,14 +37875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205130,
-      "num": 294818,
-      "word": "缅甸泰国华人互助接力",
-      "onboard_time": 1743397402,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 205073,
       "num": 205073,
       "word": "王安宇王玉雯新剧18年爱情长跑",
@@ -38361,14 +38385,6 @@
       "onboard_time": 1743225023,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203415,
-      "num": 203415,
-      "word": "比伯晒抱儿子照片",
-      "onboard_time": 1743398121,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 203397,
@@ -40889,6 +40905,14 @@
       "onboard_time": 1742380642,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195228,
+      "num": 195228,
+      "word": "乔欣晒和姐姐香港游vlog",
+      "onboard_time": 1743396142,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 195197,
@@ -44139,14 +44163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185022,
-      "num": 185022,
-      "word": "泫雅时隔四个月晒与龙俊亨合照",
-      "onboard_time": 1743397822,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185004,
       "num": 185004,
       "word": "过路司机递来一瓶瓶矿泉水灭火",
@@ -44665,6 +44681,14 @@
       "onboard_time": 1743203777,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182857,
+      "num": 170674,
+      "word": "俄罗斯",
+      "onboard_time": 1743398841,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 182851,
@@ -45233,6 +45257,14 @@
       "onboard_time": 1742731041,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180655,
+      "num": 170537,
+      "word": "全职丈夫起诉妻子给丈母娘转122万",
+      "onboard_time": 1743399501,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180650,
@@ -46051,14 +46083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177568,
-      "num": 177568,
-      "word": "乔欣晒和姐姐香港游vlog",
-      "onboard_time": 1743396142,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177549,
       "num": 161131,
       "word": "微信与QQ月活账户相差超8亿",
@@ -46857,6 +46881,14 @@
       "onboard_time": 1741618166,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174513,
+      "num": 171077,
+      "word": "虞书欣黄裙大片",
+      "onboard_time": 1743399020,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174505,
@@ -61371,6 +61403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 134868,
+      "num": 134868,
+      "word": "孟子义四月行程图",
+      "onboard_time": 1743399380,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134866,
       "num": 134866,
       "word": "Manus邀请码",
@@ -64980,7 +65020,7 @@
     },
     {
       "raw_hot": 125871,
-      "num": 125871,
+      "num": 226963,
       "word": "德约科维奇0比2门希克",
       "onboard_time": 1743391521,
       "rank": 43,
@@ -69969,6 +70009,14 @@
       "onboard_time": 1741430961,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 113748,
+      "num": 113748,
+      "word": "念无双新浪扫楼",
+      "onboard_time": 1743399321,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 113744,
