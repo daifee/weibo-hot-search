@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743413268519,
+  "endTime": 1743414056003,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -611,6 +611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 296891,
+      "num": 296891,
+      "word": "在单位上班一定要沉得住气",
+      "onboard_time": 1743409764,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295995,
       "num": 295995,
       "word": "行程图",
@@ -651,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275382,
+      "num": 309762,
+      "word": "10元盒饭姐喊话浪费顾客一辈子别来",
+      "onboard_time": 1743411145,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275012,
       "num": 275012,
       "word": "男子离婚3年发现女儿非亲生",
@@ -667,28 +683,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270196,
-      "num": 305472,
-      "word": "10元盒饭姐喊话浪费顾客一辈子别来",
-      "onboard_time": 1743411145,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269727,
       "num": 317184,
       "word": "为什么现在老师都不敢管学生了",
       "onboard_time": 1743392001,
       "rank": 19,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 264612,
-      "num": 264612,
-      "word": "在单位上班一定要沉得住气",
-      "onboard_time": 1743409764,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 256970,
@@ -843,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215210,
+      "num": 215210,
+      "word": "日本再发特大地震风险评估",
+      "onboard_time": 1743409764,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 214060,
       "num": 269821,
       "word": "刘国正妻子谈王楚钦",
@@ -857,6 +865,14 @@
       "onboard_time": 1743402741,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212334,
+      "num": 212334,
+      "word": "韩国庄仕洋",
+      "onboard_time": 1743413604,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 211724,
@@ -1049,14 +1065,6 @@
       "onboard_time": 1743396981,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177905,
-      "num": 177905,
-      "word": "日本再发特大地震风险评估",
-      "onboard_time": 1743409764,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 177663,
@@ -1291,6 +1299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151838,
+      "num": 151838,
+      "word": "张家界回应因台词又在韩国爆火",
+      "onboard_time": 1743412764,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150646,
       "num": 110784,
       "word": "特朗普威胁对俄石油征收2级关税",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1743407063,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149506,
+      "num": 149506,
+      "word": "黄奕女儿都这么大了",
+      "onboard_time": 1743413964,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 148866,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1743412403,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 148039,
+      "num": 148039,
+      "word": "丁程鑫还回家吃饭吗",
+      "onboard_time": 1743413544,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 145925,
@@ -1363,19 +1395,19 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 144801,
+      "num": 144801,
+      "word": "苏新皓拍摄剪辑翻跳全包了",
+      "onboard_time": 1743413845,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144228,
       "num": 363906,
       "word": "在家门口装摄像头也可能涉侵权",
       "onboard_time": 1743392541,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143746,
-      "num": 143746,
-      "word": "张家界回应因台词又在韩国爆火",
-      "onboard_time": 1743412764,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1433,6 +1465,14 @@
       "onboard_time": 1743405861,
       "rank": 44,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 136960,
+      "num": 136960,
+      "word": "黄霄雲 原创",
+      "onboard_time": 1743410545,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 136661,
@@ -1523,6 +1563,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 133042,
+      "num": 133042,
+      "word": "红果崩了",
+      "onboard_time": 1743413302,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 132880,
       "num": 132880,
       "word": "双胞胎当了1年朋友才发现是亲姐妹",
@@ -1545,14 +1593,6 @@
       "onboard_time": 1743401180,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132651,
-      "num": 132651,
-      "word": "黄霄雲 原创",
-      "onboard_time": 1743410545,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 132474,
@@ -1625,6 +1665,14 @@
       "onboard_time": 1743377419,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123743,
+      "num": 309990,
+      "word": "慎买带有QS标志产品",
+      "onboard_time": 1743413244,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122130,
@@ -1931,14 +1979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86591,
-      "num": 182672,
-      "word": "慎买带有QS标志产品",
-      "onboard_time": 1743413244,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85818,
       "num": 85818,
       "word": "广东高州3.0级地震",
@@ -2009,6 +2049,22 @@
       "onboard_time": 1743394521,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76373,
+      "num": 149906,
+      "word": "金价又创新高还能买吗",
+      "onboard_time": 1743414024,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 75937,
+      "num": 339933,
+      "word": "A股交易时间缩短30分钟为假消息",
+      "onboard_time": 1743412584,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 75595,
@@ -2283,12 +2339,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52051,
-      "num": 339933,
-      "word": "A股交易时间缩短30分钟为假消息",
-      "onboard_time": 1743412584,
-      "rank": 13,
-      "category": "财经"
+      "raw_hot": 52294,
+      "num": 309823,
+      "word": "流水的T恤铁打的真维斯",
+      "onboard_time": 1743413722,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 52227,
+      "num": 340406,
+      "word": "重庆市政协副主席段成刚被查",
+      "onboard_time": 1743412465,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50824,
@@ -2321,6 +2385,14 @@
       "onboard_time": 1743385941,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45069,
+      "num": 309804,
+      "word": "美防长声称要用日本应对中国",
+      "onboard_time": 1743413365,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44625,
@@ -2377,6 +2449,14 @@
       "onboard_time": 1743354977,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41106,
+      "num": 223606,
+      "word": "起底信用卡网贷延期还协商陷阱",
+      "onboard_time": 1743412704,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 41054,
@@ -2451,14 +2531,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 28789,
-      "num": 340406,
-      "word": "重庆市政协副主席段成刚被查",
-      "onboard_time": 1743412465,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27869,
       "num": 253882,
       "word": "成本30元阿胶4980元卖老人",
@@ -2489,14 +2561,6 @@
       "onboard_time": 1743366913,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 22618,
-      "num": 223606,
-      "word": "起底信用卡网贷延期还协商陷阱",
-      "onboard_time": 1743412704,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 22461,
@@ -2636,6 +2700,9 @@
     },
     {
       "word": "#党的作风关系人心向背#"
+    },
+    {
+      "word": "#这是我们要建成的科技强国#"
     }
   ]
 }

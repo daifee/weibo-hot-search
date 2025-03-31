@@ -1,0 +1,410 @@
+{
+  "runTime": 1743414056003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7095252,
+        "num": 7095252,
+        "word": "金秀贤记者会直播",
+        "onboard_time": 1743406100,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 659318,
+        "num": 659318,
+        "word": "疑似一种新病毒在俄罗斯蔓延",
+        "onboard_time": 1743403341,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15464,
+        "num": 556785,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 917693,
+        "num": 532269,
+        "word": "何泓姗硬刚浪姐",
+        "onboard_time": 1743406882,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487749,
+        "num": 487749,
+        "word": "日本特大地震若发生或致近30万人死亡",
+        "onboard_time": 1743407423,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 354096,
+        "num": 354096,
+        "word": "番茄小说崩了",
+        "onboard_time": 1743411925,
+        "rank": 5,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 598744,
+        "num": 353753,
+        "word": "唐艺昕辟谣和张若昀因为追尾认识",
+        "onboard_time": 1743411445,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374459,
+        "num": 344955,
+        "word": "黄子韬徐艺洋睡觉前要对暗号",
+        "onboard_time": 1743407121,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310309,
+        "num": 310309,
+        "word": "中共中央政治局3月31日召开会议",
+        "onboard_time": 1743406100,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52227,
+        "num": 310272,
+        "word": "重庆市政协副主席段成刚被查",
+        "onboard_time": 1743412465,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6386564,
+        "num": 6386564,
+        "word": "金秀贤起诉金赛纶家属赔偿120亿",
+        "onboard_time": 1743411324,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 891807,
+        "num": 310198,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1743404000,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530610,
+        "num": 310130,
+        "word": "影帝",
+        "onboard_time": 1743409044,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75937,
+        "num": 310074,
+        "word": "A股交易时间缩短30分钟为假消息",
+        "onboard_time": 1743412584,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123743,
+        "num": 309990,
+        "word": "慎买带有QS标志产品",
+        "onboard_time": 1743413244,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362115,
+        "num": 309944,
+        "word": "甲亢哥成都行直播",
+        "onboard_time": 1743407121,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 336995,
+        "num": 309886,
+        "word": "房琪 彭小苒",
+        "onboard_time": 1743406942,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52294,
+        "num": 309823,
+        "word": "流水的T恤铁打的真维斯",
+        "onboard_time": 1743413722,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 45069,
+        "num": 309804,
+        "word": "美防长声称要用日本应对中国",
+        "onboard_time": 1743413365,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 275382,
+        "num": 309762,
+        "word": "10元盒饭姐喊话浪费顾客一辈子别来",
+        "onboard_time": 1743411145,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309707,
+        "num": 309707,
+        "word": "头像玄学",
+        "onboard_time": 1743405681,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426198,
+        "num": 308947,
+        "word": "男子肝癌晚期只打一针获新生",
+        "onboard_time": 1743400582,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296891,
+        "num": 296891,
+        "word": "在单位上班一定要沉得住气",
+        "onboard_time": 1743409764,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290692,
+        "num": 290692,
+        "word": "IU说雪莉是最漂亮的人",
+        "onboard_time": 1743403341,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274652,
+        "num": 274652,
+        "word": "妹妹刷缅甸救援视频认出姐姐的手",
+        "onboard_time": 1743405021,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 258085,
+        "num": 258085,
+        "word": "清明档预售前三名",
+        "onboard_time": 1743408384,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256660,
+        "num": 256660,
+        "word": "眼泪女王",
+        "onboard_time": 1743410664,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215210,
+        "num": 215210,
+        "word": "日本再发特大地震风险评估",
+        "onboard_time": 1743409764,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126668,
+        "num": 213624,
+        "word": "孟晚舟华为年报致辞",
+        "onboard_time": 1743411805,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 41106,
+        "num": 212652,
+        "word": "起底信用卡网贷延期还协商陷阱",
+        "onboard_time": 1743412704,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 212334,
+        "num": 212334,
+        "word": "韩国庄仕洋",
+        "onboard_time": 1743413604,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200631,
+        "num": 200631,
+        "word": "赵雅芝儿子",
+        "onboard_time": 1743409646,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197313,
+        "num": 197313,
+        "word": "店主接到近8吨毛肚订单直接报警",
+        "onboard_time": 1743385821,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194365,
+        "num": 194365,
+        "word": "男婴被4人入室抢走主犯竟是邻居",
+        "onboard_time": 1743409885,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192853,
+        "num": 192853,
+        "word": "留几手斥责当侯佩岑面提周杰伦",
+        "onboard_time": 1743408924,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180224,
+        "num": 180224,
+        "word": "一直对月薪三万没概念直到换算成天",
+        "onboard_time": 1743382162,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159322,
+        "num": 159322,
+        "word": "iPhone17Pro十大升级",
+        "onboard_time": 1743398002,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156812,
+        "num": 156812,
+        "word": "门童泰国事件",
+        "onboard_time": 1743397223,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151838,
+        "num": 151838,
+        "word": "张家界回应因台词又在韩国爆火",
+        "onboard_time": 1743412764,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76373,
+        "num": 149906,
+        "word": "金价又创新高还能买吗",
+        "onboard_time": 1743414024,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149506,
+        "num": 149506,
+        "word": "黄奕女儿都这么大了",
+        "onboard_time": 1743413964,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148494,
+        "num": 148494,
+        "word": "乔欣31岁了",
+        "onboard_time": 1743410365,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148039,
+        "num": 148039,
+        "word": "丁程鑫还回家吃饭吗",
+        "onboard_time": 1743413544,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146772,
+        "num": 146772,
+        "word": "南京推出公积金全家桶政策助力买房",
+        "onboard_time": 1743411685,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144801,
+        "num": 144801,
+        "word": "苏新皓拍摄剪辑翻跳全包了",
+        "onboard_time": 1743413845,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142837,
+        "num": 142837,
+        "word": "比尔盖茨称10年内AI将影响两大职业",
+        "onboard_time": 1743412285,
+        "rank": 45,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 141074,
+        "num": 141074,
+        "word": "男子离婚3年发现女儿非亲生",
+        "onboard_time": 1743405381,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137809,
+        "num": 137809,
+        "word": "魔鬼鱼",
+        "onboard_time": 1743411145,
+        "rank": 47,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 136960,
+        "num": 136960,
+        "word": "黄霄雲 原创",
+        "onboard_time": 1743410545,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133042,
+        "num": 133042,
+        "word": "红果崩了",
+        "onboard_time": 1743413302,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们要建成的科技强国#"
+    }
+  }
+}
