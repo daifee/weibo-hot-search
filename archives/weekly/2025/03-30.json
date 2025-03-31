@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743442778824,
+  "endTime": 1743446020084,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -6891,6 +6891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23381,
+      "num": 52459,
+      "word": "泰高空走廊被震断男子奋力跳向对面",
+      "onboard_time": 1743444615,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 22961,
       "num": 29625,
       "word": "在缅中国人称震后联系家人手在抖",
@@ -6953,6 +6961,14 @@
       "onboard_time": 1743392181,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20511,
+      "num": 52293,
+      "word": "挖野菜",
+      "onboard_time": 1743443295,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 20323,

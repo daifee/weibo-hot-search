@@ -1,0 +1,410 @@
+{
+  "runTime": 1743446020084,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 87583,
+        "num": 145419,
+        "word": "愚人节文案",
+        "onboard_time": 1743425243,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63432,
+        "num": 63432,
+        "word": "河南一枯井发现近百名烈士遗骸",
+        "onboard_time": 1743419122,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16081,
+        "num": 62433,
+        "word": "沉浸式感受广西三月三",
+        "onboard_time": 1743426863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72634,
+        "num": 62136,
+        "word": "王艳发了赤脚鬼",
+        "onboard_time": 1743431003,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61464,
+        "num": 61464,
+        "word": "甲亢哥针灸正骨后已老实",
+        "onboard_time": 1743431784,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 53105,
+        "num": 59922,
+        "word": "山姆客服称水果中吃出虫是正常情况",
+        "onboard_time": 1743428243,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59643,
+        "num": 59643,
+        "word": "陈昊宇陈丽君四公帮唱",
+        "onboard_time": 1743434662,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57812,
+        "num": 57812,
+        "word": "乘风2025最新排名",
+        "onboard_time": 1743427703,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47297,
+        "num": 57561,
+        "word": "4月一起加油",
+        "onboard_time": 1743436700,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43370,
+        "num": 57392,
+        "word": "好房子的新标准来了",
+        "onboard_time": 1743422304,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584349,
+        "num": 57046,
+        "word": "愚人节站姐团建",
+        "onboard_time": 1743438619,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225158,
+        "num": 56878,
+        "word": "金秀贤和未成年金赛纶约会视频",
+        "onboard_time": 1743422722,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203792,
+        "num": 56466,
+        "word": "心理师锐评赵露思新综艺",
+        "onboard_time": 1743430524,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117756,
+        "num": 56110,
+        "word": "2024的愚人节勇士站姐",
+        "onboard_time": 1743437241,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62674,
+        "num": 55966,
+        "word": "找工作不要限制于招聘app",
+        "onboard_time": 1743421164,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113775,
+        "num": 55615,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1743404000,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101844,
+        "num": 55151,
+        "word": "金秀贤记者会最起鸡皮疙瘩的一句话",
+        "onboard_time": 1743439038,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55089,
+        "num": 55089,
+        "word": "女装啥时候能回归正常审美",
+        "onboard_time": 1743432503,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52996,
+        "num": 52996,
+        "word": "李现的微博逐渐奇怪",
+        "onboard_time": 1743429082,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44874,
+        "num": 52966,
+        "word": "李昀锐好标准的体育生下楼梯",
+        "onboard_time": 1743423747,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39931,
+        "num": 52961,
+        "word": "日本对中国人民负有严重历史罪责",
+        "onboard_time": 1743441797,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36286,
+        "num": 52924,
+        "word": "男子肝癌晚期只打一针获新生",
+        "onboard_time": 1743400582,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34878,
+        "num": 52899,
+        "word": "檀健次当评委了",
+        "onboard_time": 1743435442,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33069,
+        "num": 52873,
+        "word": "中国咖啡98%来自云南",
+        "onboard_time": 1743434362,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 32509,
+        "num": 52831,
+        "word": "来自假惺惺的你",
+        "onboard_time": 1743442335,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31065,
+        "num": 52790,
+        "word": "男子赠妻子闺蜜7万被判全额返还加利息",
+        "onboard_time": 1743431364,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29498,
+        "num": 52790,
+        "word": "横店变竖店了",
+        "onboard_time": 1743422661,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29451,
+        "num": 52759,
+        "word": "韩国庄仕洋",
+        "onboard_time": 1743413604,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27338,
+        "num": 52711,
+        "word": "男子发现打工养了7年的女儿非亲生",
+        "onboard_time": 1743439341,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26728,
+        "num": 52694,
+        "word": "为什么每年都会怀念张国荣",
+        "onboard_time": 1743440297,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72024,
+        "num": 52657,
+        "word": "钟南山提醒剩饭剩菜别强吃",
+        "onboard_time": 1743441017,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47630,
+        "num": 52641,
+        "word": "QQ音乐 内涵",
+        "onboard_time": 1743427943,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26951,
+        "num": 52608,
+        "word": "甲亢哥成都行直播",
+        "onboard_time": 1743407121,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 26070,
+        "num": 52557,
+        "word": "站姐愚人节团建预告",
+        "onboard_time": 1743425964,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25173,
+        "num": 52529,
+        "word": "BLACKPINK未公开的物料",
+        "onboard_time": 1743420501,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25030,
+        "num": 52518,
+        "word": "李现又去公园打鸟了",
+        "onboard_time": 1743416362,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24349,
+        "num": 52485,
+        "word": "黄霄雲方回应翻唱争议",
+        "onboard_time": 1743432623,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23381,
+        "num": 52459,
+        "word": "泰高空走廊被震断男子奋力跳向对面",
+        "onboard_time": 1743444615,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 23117,
+        "num": 52409,
+        "word": "宇露君沾",
+        "onboard_time": 1743432143,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23024,
+        "num": 52397,
+        "word": "国家标准住宅项目规范发布",
+        "onboard_time": 1743422304,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21454,
+        "num": 52367,
+        "word": "想和你去四月的春天里坐坐",
+        "onboard_time": 1743436521,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21209,
+        "num": 52342,
+        "word": "乌尔善发文",
+        "onboard_time": 1743422423,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20511,
+        "num": 52293,
+        "word": "挖野菜",
+        "onboard_time": 1743443295,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17979,
+        "num": 52269,
+        "word": "佳霏猫",
+        "onboard_time": 1743434602,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17868,
+        "num": 52241,
+        "word": "4层及以上住宅设电梯",
+        "onboard_time": 1743423865,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17696,
+        "num": 52212,
+        "word": "春日壁纸",
+        "onboard_time": 1743438142,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17572,
+        "num": 52184,
+        "word": "乘风2025四公帮唱组队征集",
+        "onboard_time": 1743430644,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17369,
+        "num": 52169,
+        "word": "难哄3月全网播放冠军",
+        "onboard_time": 1743435861,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17070,
+        "num": 52135,
+        "word": "时代少年团 录播",
+        "onboard_time": 1743431064,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15246,
+        "num": 52103,
+        "word": "马龙说全运会后还想参加比赛",
+        "onboard_time": 1743429444,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们要建成的科技强国#"
+    }
+  }
+}
