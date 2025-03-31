@@ -1,0 +1,410 @@
+{
+  "runTime": 1743410001710,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12282801,
+        "num": 12282801,
+        "word": "金秀贤记者会直播",
+        "onboard_time": 1743406100,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 969942,
+        "num": 969942,
+        "word": "疑似一种新病毒在俄罗斯蔓延",
+        "onboard_time": 1743403341,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25509,
+        "num": 685768,
+        "word": "云岭天路春潮涌",
+        "onboard_time": 1743406221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1594507,
+        "num": 678631,
+        "word": "何泓姗硬刚浪姐",
+        "onboard_time": 1743406882,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571754,
+        "num": 571754,
+        "word": "妹妹刷缅甸救援视频认出姐姐的手",
+        "onboard_time": 1743405021,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 540593,
+        "num": 540593,
+        "word": "头像玄学",
+        "onboard_time": 1743405681,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 704853,
+        "num": 539343,
+        "word": "黄子韬徐艺洋睡觉前要对暗号",
+        "onboard_time": 1743407121,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533554,
+        "num": 533554,
+        "word": "日本特大地震若发生或致近30万人死亡",
+        "onboard_time": 1743407423,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 323385,
+        "num": 323385,
+        "word": "店主接到近8吨毛肚订单直接报警",
+        "onboard_time": 1743385821,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282486,
+        "num": 282486,
+        "word": "清明档预售前三名",
+        "onboard_time": 1743408384,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2996189,
+        "num": 282035,
+        "word": "金秀贤仍否认与金赛纶未成年时交往",
+        "onboard_time": 1743409705,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1534651,
+        "num": 281948,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1743404000,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607309,
+        "num": 281194,
+        "word": "男子肝癌晚期只打一针获新生",
+        "onboard_time": 1743400582,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22498,
+        "num": 280558,
+        "word": "便宜的盲盒真能开出高端数码产品吗",
+        "onboard_time": 1743409583,
+        "rank": 13,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 55085,
+        "num": 280201,
+        "word": "国乒备战WTT仁川冠军赛",
+        "onboard_time": 1743408564,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531161,
+        "num": 279487,
+        "word": "影帝",
+        "onboard_time": 1743409044,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54678,
+        "num": 279055,
+        "word": "一万种春天",
+        "onboard_time": 1743408204,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256970,
+        "num": 278260,
+        "word": "留几手斥责当侯佩岑面提周杰伦",
+        "onboard_time": 1743408924,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35582,
+        "num": 278067,
+        "word": "员工称拒绝店长安排后被针对",
+        "onboard_time": 1743408985,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56964,
+        "num": 277301,
+        "word": "梁靖崑谈为何总能逆转",
+        "onboard_time": 1743408624,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494949,
+        "num": 277003,
+        "word": "IU说雪莉是最漂亮的人",
+        "onboard_time": 1743403341,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482290,
+        "num": 276087,
+        "word": "房琪 彭小苒",
+        "onboard_time": 1743406942,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451252,
+        "num": 275560,
+        "word": "甲亢哥成都行直播",
+        "onboard_time": 1743407121,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 334352,
+        "num": 275192,
+        "word": "一直对月薪三万没概念直到换算成天",
+        "onboard_time": 1743382162,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275012,
+        "num": 275012,
+        "word": "男子离婚3年发现女儿非亲生",
+        "onboard_time": 1743405381,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266051,
+        "num": 266051,
+        "word": "iPhone17Pro十大升级",
+        "onboard_time": 1743398002,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 256134,
+        "num": 256134,
+        "word": "门童泰国事件",
+        "onboard_time": 1743397223,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239975,
+        "num": 239975,
+        "word": "虞书欣往导演头上泼水",
+        "onboard_time": 1743392719,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207208,
+        "num": 207208,
+        "word": "马斯克称火星将是美国的一部分",
+        "onboard_time": 1743403222,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193487,
+        "num": 193487,
+        "word": "男子身上发痒检查后确诊肝癌",
+        "onboard_time": 1743396682,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189754,
+        "num": 189754,
+        "word": "辛云来雁回时婚前婚后",
+        "onboard_time": 1743409163,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185280,
+        "num": 185280,
+        "word": "侯佩岑好会爱人",
+        "onboard_time": 1743409344,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120540,
+        "num": 183215,
+        "word": "经济学家谈比亚迪激动落泪",
+        "onboard_time": 1743405861,
+        "rank": 32,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 181485,
+        "num": 181485,
+        "word": "乘客开门杀致人死亡网约车司机获刑",
+        "onboard_time": 1743399561,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168144,
+        "num": 168144,
+        "word": "洗头排期表",
+        "onboard_time": 1743404662,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 165338,
+        "num": 165338,
+        "word": "中共中央政治局3月31日召开会议",
+        "onboard_time": 1743406100,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151315,
+        "num": 151315,
+        "word": "赵雅芝儿子",
+        "onboard_time": 1743409646,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47187,
+        "num": 150825,
+        "word": "男婴被4人入室抢走主犯竟是邻居",
+        "onboard_time": 1743409885,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150821,
+        "num": 150821,
+        "word": "在单位上班一定要沉得住气",
+        "onboard_time": 1743409764,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15574,
+        "num": 150231,
+        "word": "这火箭坠毁拍的好唯美",
+        "onboard_time": 1743409764,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149817,
+        "num": 149817,
+        "word": "我就说一集吵一架的剧好看吧",
+        "onboard_time": 1743407063,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146691,
+        "num": 146691,
+        "word": "雪莉曾和名牌大学高材生庭外和解",
+        "onboard_time": 1743394883,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143684,
+        "num": 143684,
+        "word": "宋茜复刻金发梦回Victoria",
+        "onboard_time": 1743393620,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138875,
+        "num": 138875,
+        "word": "哪吒2距全球第4就差10亿了",
+        "onboard_time": 1743385641,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137879,
+        "num": 137879,
+        "word": "缅甸地震脚筋断裂被救女子发声",
+        "onboard_time": 1743400222,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134194,
+        "num": 134194,
+        "word": "门童返韩后才通知粉丝取消演唱会",
+        "onboard_time": 1743406281,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133047,
+        "num": 133047,
+        "word": "海棠花",
+        "onboard_time": 1743407001,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132673,
+        "num": 132673,
+        "word": "日本再发特大地震风险评估",
+        "onboard_time": 1743409764,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129737,
+        "num": 129737,
+        "word": "姚晨新剧上来就美我一大跳",
+        "onboard_time": 1743409404,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122364,
+        "num": 122364,
+        "word": "胡静给所有女生的建议",
+        "onboard_time": 1743404781,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}

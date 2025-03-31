@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743406676227,
+  "endTime": 1743410001710,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -297,6 +297,14 @@
       "onboard_time": 1738069185,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12282801,
+      "num": 12282801,
+      "word": "金秀贤记者会直播",
+      "onboard_time": 1743406100,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 12270044,
@@ -1971,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2996189,
+      "num": 282035,
+      "word": "金秀贤仍否认与金赛纶未成年时交往",
+      "onboard_time": 1743409705,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2992374,
       "num": 2992374,
       "word": "王曼昱亚洲杯冠军",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1741394541,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2805587,
-      "num": 285887,
-      "word": "陈乔恩称艾特去世是谋杀案",
-      "onboard_time": 1737351738,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2799685,
-      "num": 511273,
-      "word": "男友去世女子想生遗腹子被公婆劝阻",
-      "onboard_time": 1740547998,
-      "rank": 22,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

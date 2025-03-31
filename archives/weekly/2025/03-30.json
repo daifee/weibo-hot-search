@@ -1,7 +1,15 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743406676227,
+  "endTime": 1743410001710,
   "band_list": [
+    {
+      "raw_hot": 12282801,
+      "num": 12282801,
+      "word": "金秀贤记者会直播",
+      "onboard_time": 1743406100,
+      "rank": 11,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3126539,
       "num": 3253079,
@@ -9,6 +17,14 @@
       "onboard_time": 1743339381,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 2996189,
+      "num": 282035,
+      "word": "金秀贤仍否认与金赛纶未成年时交往",
+      "onboard_time": 1743409705,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2920421,
@@ -131,12 +147,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1565283,
-      "num": 291071,
-      "word": "金秀贤记者会直播",
-      "onboard_time": 1743406100,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 1594507,
+      "num": 678631,
+      "word": "何泓姗硬刚浪姐",
+      "onboard_time": 1743406882,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1412446,
@@ -483,6 +499,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 704853,
+      "num": 539343,
+      "word": "黄子韬徐艺洋睡觉前要对暗号",
+      "onboard_time": 1743407121,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 683750,
       "num": 492696,
       "word": "百万网红孜罗拉离婚",
@@ -691,6 +715,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 571754,
+      "num": 571754,
+      "word": "妹妹刷缅甸救援视频认出姐姐的手",
+      "onboard_time": 1743405021,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 559545,
       "num": 735880,
       "word": "三月三是什么节",
@@ -723,12 +755,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 541766,
-      "num": 541766,
-      "word": "妹妹刷缅甸救援视频认出姐姐的手",
-      "onboard_time": 1743405021,
-      "rank": 14,
-      "category": "突发/灾害"
+      "raw_hot": 540593,
+      "num": 540593,
+      "word": "头像玄学",
+      "onboard_time": 1743405681,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 539116,
@@ -737,6 +769,14 @@
       "onboard_time": 1743310351,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 533554,
+      "num": 533554,
+      "word": "日本特大地震若发生或致近30万人死亡",
+      "onboard_time": 1743407423,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 531522,
@@ -753,6 +793,14 @@
       "onboard_time": 1743393681,
       "rank": 5,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 531161,
+      "num": 279487,
+      "word": "影帝",
+      "onboard_time": 1743409044,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 528841,
@@ -801,6 +849,14 @@
       "onboard_time": 1743380660,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 482290,
+      "num": 276087,
+      "word": "房琪 彭小苒",
+      "onboard_time": 1743406942,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 481443,
@@ -897,6 +953,14 @@
       "onboard_time": 1743298699,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451252,
+      "num": 275560,
+      "word": "甲亢哥成都行直播",
+      "onboard_time": 1743407121,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 443398,
@@ -1347,14 +1411,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 308366,
-      "num": 216332,
-      "word": "头像玄学",
-      "onboard_time": 1743405681,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 304490,
       "num": 261636,
       "word": "珊瑚海姐学时间线",
@@ -1459,6 +1515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 282486,
+      "num": 282486,
+      "word": "清明档预售前三名",
+      "onboard_time": 1743408384,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 281875,
       "num": 281875,
       "word": "张杰鸟巢演唱会抢票",
@@ -1539,6 +1603,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 275012,
+      "num": 275012,
+      "word": "男子离婚3年发现女儿非亲生",
+      "onboard_time": 1743405381,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274706,
       "num": 274706,
       "word": "41岁全职爸爸早5晚12脚不沾地",
@@ -1584,6 +1656,14 @@
       "word": "王一博发烧了",
       "onboard_time": 1743293299,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256970,
+      "num": 278260,
+      "word": "留几手斥责当侯佩岑面提周杰伦",
+      "onboard_time": 1743408924,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1785,14 +1865,6 @@
       "onboard_time": 1743331281,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226321,
-      "num": 226321,
-      "word": "男子离婚3年发现女儿非亲生",
-      "onboard_time": 1743405381,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226250,
@@ -2251,6 +2323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189754,
+      "num": 189754,
+      "word": "辛云来雁回时婚前婚后",
+      "onboard_time": 1743409163,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189271,
       "num": 215561,
       "word": "余宇涵古装白发",
@@ -2297,6 +2377,14 @@
       "onboard_time": 1743319281,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185280,
+      "num": 185280,
+      "word": "侯佩岑好会爱人",
+      "onboard_time": 1743409344,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 184290,
@@ -2577,6 +2665,14 @@
       "onboard_time": 1743396741,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165338,
+      "num": 165338,
+      "word": "中共中央政治局3月31日召开会议",
+      "onboard_time": 1743406100,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 165022,
@@ -2907,12 +3003,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 151315,
+      "num": 151315,
+      "word": "赵雅芝儿子",
+      "onboard_time": 1743409646,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151228,
       "num": 253268,
       "word": "入室抢婴贩卖案受害者家属发声",
       "onboard_time": 1743345263,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150821,
+      "num": 150821,
+      "word": "在单位上班一定要沉得住气",
+      "onboard_time": 1743409764,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 150760,
@@ -2945,6 +3057,14 @@
       "onboard_time": 1743333261,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149817,
+      "num": 149817,
+      "word": "我就说一集吵一架的剧好看吧",
+      "onboard_time": 1743407063,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 148866,
@@ -3180,7 +3300,7 @@
     },
     {
       "raw_hot": 140308,
-      "num": 140308,
+      "num": 183215,
       "word": "经济学家谈比亚迪激动落泪",
       "onboard_time": 1743405861,
       "rank": 44,
@@ -3363,12 +3483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133047,
+      "num": 133047,
+      "word": "海棠花",
+      "onboard_time": 1743407001,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 132741,
       "num": 132741,
       "word": "苦尽柑来遇见你评分上升至9.6",
       "onboard_time": 1743401180,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132673,
+      "num": 132673,
+      "word": "日本再发特大地震风险评估",
+      "onboard_time": 1743409764,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 132474,
@@ -3427,6 +3563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129737,
+      "num": 129737,
+      "word": "姚晨新剧上来就美我一大跳",
+      "onboard_time": 1743409404,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129407,
       "num": 129407,
       "word": "吴宣仪王权醉横屏剧照",
@@ -3449,14 +3593,6 @@
       "onboard_time": 1743395302,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 128266,
-      "num": 128266,
-      "word": "中共中央政治局3月31日召开会议",
-      "onboard_time": 1743406100,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 128117,
@@ -4859,6 +4995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56964,
+      "num": 277301,
+      "word": "梁靖崑谈为何总能逆转",
+      "onboard_time": 1743408624,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56346,
       "num": 228968,
       "word": "幸存者在废墟外呼唤被困亲人名字",
@@ -4873,6 +5017,22 @@
       "onboard_time": 1743278834,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 55085,
+      "num": 280201,
+      "word": "国乒备战WTT仁川冠军赛",
+      "onboard_time": 1743408564,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54678,
+      "num": 279055,
+      "word": "一万种春天",
+      "onboard_time": 1743408204,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53984,
@@ -4944,6 +5104,14 @@
       "word": "各地中学生二手烟暴露率",
       "onboard_time": 1743347124,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47187,
+      "num": 150825,
+      "word": "男婴被4人入室抢走主犯竟是邻居",
+      "onboard_time": 1743409885,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -5083,6 +5251,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 35582,
+      "num": 278067,
+      "word": "员工称拒绝店长安排后被针对",
+      "onboard_time": 1743408985,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35353,
       "num": 917301,
       "word": "2025中国网络媒体论坛",
@@ -5219,6 +5395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25509,
+      "num": 685768,
+      "word": "云岭天路春潮涌",
+      "onboard_time": 1743406221,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25147,
       "num": 214614,
       "word": "狼队轮换状态",
@@ -5241,6 +5425,14 @@
       "onboard_time": 1743366913,
       "rank": 39,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 22498,
+      "num": 280558,
+      "word": "便宜的盲盒真能开出高端数码产品吗",
+      "onboard_time": 1743409583,
+      "rank": 13,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 22461,
@@ -5331,14 +5523,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 18113,
-      "num": 558388,
-      "word": "云岭天路春潮涌",
-      "onboard_time": 1743406221,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17891,
       "num": 20435,
       "word": "记者赶赴缅甸震中",
@@ -5377,6 +5561,14 @@
       "onboard_time": 1743280934,
       "rank": 48,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 15574,
+      "num": 150231,
+      "word": "这火箭坠毁拍的好唯美",
+      "onboard_time": 1743409764,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 15414,
