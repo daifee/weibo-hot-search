@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743402905039,
+  "endTime": 1743403698393,
   "band_list": [
     {
       "raw_hot": 3126539,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 932582,
+      "num": 1149213,
+      "word": "iPhone17Pro十大升级",
+      "onboard_time": 1743398002,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 918319,
       "num": 1146931,
       "word": "淮水竹亭",
@@ -313,14 +321,6 @@
       "onboard_time": 1743316820,
       "rank": 20,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 842333,
-      "num": 842333,
-      "word": "iPhone17Pro十大升级",
-      "onboard_time": 1743398002,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 834306,
@@ -401,6 +401,14 @@
       "onboard_time": 1743385821,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 737056,
+      "num": 640211,
+      "word": "俄罗斯",
+      "onboard_time": 1743398841,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 732831,
@@ -489,14 +497,6 @@
       "onboard_time": 1743260904,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 640211,
-      "num": 640211,
-      "word": "俄罗斯",
-      "onboard_time": 1743398841,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 630600,
@@ -827,6 +827,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 464048,
+      "num": 407636,
+      "word": "全职丈夫起诉妻子给丈母娘转122万",
+      "onboard_time": 1743399501,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458900,
       "num": 320649,
       "word": "男子身上发痒检查后确诊肝癌",
@@ -977,14 +985,6 @@
       "onboard_time": 1743329421,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 407636,
-      "num": 407636,
-      "word": "全职丈夫起诉妻子给丈母娘转122万",
-      "onboard_time": 1743399501,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 404231,
@@ -1291,6 +1291,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 309899,
+      "num": 232646,
+      "word": "IU说雪莉是最漂亮的人",
+      "onboard_time": 1743403341,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304490,
       "num": 261636,
       "word": "珊瑚海姐学时间线",
@@ -1448,6 +1456,14 @@
       "word": "武汉小伙靠写字7年还清2000万巨债",
       "onboard_time": 1743264022,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275749,
+      "num": 673791,
+      "word": "去年此时金价还在500元区间徘徊",
+      "onboard_time": 1743399862,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -1651,6 +1667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 232099,
+      "num": 294818,
+      "word": "缅甸泰国华人互助接力",
+      "onboard_time": 1743397402,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 229370,
       "num": 664716,
       "word": "比伯晒抱儿子照片",
@@ -1699,27 +1723,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 225393,
-      "num": 294818,
-      "word": "缅甸泰国华人互助接力",
-      "onboard_time": 1743397402,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 224174,
       "num": 345447,
       "word": "抢车位吵架女子叫嚣是正军级",
       "onboard_time": 1743317301,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223974,
-      "num": 673791,
-      "word": "去年此时金价还在500元区间徘徊",
-      "onboard_time": 1743399862,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -1737,6 +1745,14 @@
       "onboard_time": 1743400340,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220442,
+      "num": 735354,
+      "word": "北影节天坛奖官宣评委倪妮",
+      "onboard_time": 1743400582,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 218739,
@@ -1777,6 +1793,14 @@
       "onboard_time": 1743393560,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213247,
+      "num": 219405,
+      "word": "双轨导演回复",
+      "onboard_time": 1743402741,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 212676,
@@ -1953,6 +1977,14 @@
       "onboard_time": 1743313882,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201004,
+      "num": 232935,
+      "word": "檀健次官宣加盟北影节",
+      "onboard_time": 1743402260,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 200911,
@@ -2275,6 +2307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174469,
+      "num": 174469,
+      "word": "马斯克称火星将是美国的一部分",
+      "onboard_time": 1743403222,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174381,
       "num": 174381,
       "word": "王艳说给周如音一点时间",
@@ -2500,7 +2540,7 @@
     },
     {
       "raw_hot": 163265,
-      "num": 163265,
+      "num": 221084,
       "word": "王安冉孕期被婆婆多次辱骂",
       "onboard_time": 1743400282,
       "rank": 32,
@@ -2755,14 +2795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 152252,
-      "num": 219405,
-      "word": "双轨导演回复",
-      "onboard_time": 1743402741,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152205,
       "num": 141953,
       "word": "身体5个表现提示肝病了",
@@ -2891,6 +2923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145298,
+      "num": 145298,
+      "word": "张杰5418平方米屏幕创纪录",
+      "onboard_time": 1743403161,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145289,
       "num": 293557,
       "word": "多颗国产遥感卫星传回缅甸灾区影像",
@@ -2955,6 +2995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142881,
+      "num": 142881,
+      "word": "青岛即墨古城一小区发生爆炸",
+      "onboard_time": 1743400822,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 142596,
       "num": 142596,
       "word": "让何老师破防只需要一个张若昀",
@@ -3000,6 +3048,14 @@
       "word": "美国被曝长期全方位介入俄乌冲突",
       "onboard_time": 1743376698,
       "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 141138,
+      "num": 133451,
+      "word": "疑似一种新病毒在俄罗斯蔓延",
+      "onboard_time": 1743403341,
+      "rank": 43,
       "category": "国际时政"
     },
     {
@@ -3057,14 +3113,6 @@
       "onboard_time": 1743250282,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136771,
-      "num": 735354,
-      "word": "北影节天坛奖官宣评委倪妮",
-      "onboard_time": 1743400582,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 136661,
@@ -3201,14 +3249,6 @@
       "onboard_time": 1743345563,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131430,
-      "num": 131430,
-      "word": "青岛即墨古城一小区发生爆炸",
-      "onboard_time": 1743400822,
-      "rank": 40,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 131390,
@@ -3563,6 +3603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117704,
+      "num": 117704,
+      "word": "陈都灵4月6个商务拍摄",
+      "onboard_time": 1743403462,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116822,
       "num": 116822,
       "word": "叶童听不懂王珞丹的广东话",
@@ -3868,7 +3916,7 @@
     },
     {
       "raw_hot": 104651,
-      "num": 104651,
+      "num": 211319,
       "word": "三月三上巳节是春游的节日",
       "onboard_time": 1743401601,
       "rank": 48,
@@ -4339,6 +4387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81847,
+      "num": 143380,
+      "word": "张婧仪紫色下眼影",
+      "onboard_time": 1743403041,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81349,
       "num": 81349,
       "word": "虞书欣校园枝惊喜返场",
@@ -4512,6 +4568,14 @@
       "word": "檀健次猎罪图鉴历史完播率第一",
       "onboard_time": 1743267560,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65789,
+      "num": 140498,
+      "word": "黄婷婷新剧在满身淤青里长出倒刺",
+      "onboard_time": 1743403401,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -4700,7 +4764,7 @@
     },
     {
       "raw_hot": 50824,
-      "num": 131474,
+      "num": 140205,
       "word": "免费会员就是香",
       "onboard_time": 1743400881,
       "rank": 39,
@@ -4713,6 +4777,14 @@
       "onboard_time": 1743364214,
       "rank": 43,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 49421,
+      "num": 708428,
+      "word": "对话05后殡仪专业学生",
+      "onboard_time": 1743402440,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48853,
@@ -4897,14 +4969,6 @@
       "onboard_time": 1743339262,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32654,
-      "num": 708428,
-      "word": "对话05后殡仪专业学生",
-      "onboard_time": 1743402440,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30931,

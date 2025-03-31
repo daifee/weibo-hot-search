@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743402905039,
+  "endTime": 1743403698393,
   "band_list": [
     {
       "raw_hot": 2503187,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 932582,
+      "num": 1149213,
+      "word": "iPhone17Pro十大升级",
+      "onboard_time": 1743398002,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 916477,
       "num": 916477,
       "word": "哪吒2距全球第4就差10亿了",
@@ -163,14 +171,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 842333,
-      "num": 842333,
-      "word": "iPhone17Pro十大升级",
-      "onboard_time": 1743398002,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 759979,
       "num": 255119,
       "word": "祝绪丹忍得很辛苦吧",
@@ -195,20 +195,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 737056,
+      "num": 640211,
+      "word": "俄罗斯",
+      "onboard_time": 1743398841,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 654976,
       "num": 654976,
       "word": "赴缅甸中国公羊救援队发声",
       "onboard_time": 1743359954,
       "rank": 23,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 640211,
-      "num": 640211,
-      "word": "俄罗斯",
-      "onboard_time": 1743398841,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 630600,
@@ -280,6 +280,14 @@
       "word": "指鼠为鸭局长已调离",
       "onboard_time": 1743394702,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 464048,
+      "num": 407636,
+      "word": "全职丈夫起诉妻子给丈母娘转122万",
+      "onboard_time": 1743399501,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -363,14 +371,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 407636,
-      "num": 407636,
-      "word": "全职丈夫起诉妻子给丈母娘转122万",
-      "onboard_time": 1743399501,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 398650,
       "num": 398650,
       "word": "枭起青壤",
@@ -443,6 +443,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 309899,
+      "num": 232646,
+      "word": "IU说雪莉是最漂亮的人",
+      "onboard_time": 1743403341,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302545,
       "num": 302545,
       "word": "音乐节 网红",
@@ -481,6 +489,14 @@
       "onboard_time": 1743393921,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 275749,
+      "num": 673791,
+      "word": "去年此时金价还在500元区间徘徊",
+      "onboard_time": 1743399862,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269727,
@@ -547,6 +563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 232099,
+      "num": 294818,
+      "word": "缅甸泰国华人互助接力",
+      "onboard_time": 1743397402,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 230080,
       "num": 230080,
       "word": "缅甸华人称一家五口仅2孩子逃生",
@@ -571,28 +595,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225393,
-      "num": 294818,
-      "word": "缅甸泰国华人互助接力",
-      "onboard_time": 1743397402,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 223974,
-      "num": 673791,
-      "word": "去年此时金价还在500元区间徘徊",
-      "onboard_time": 1743399862,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222387,
       "num": 222387,
       "word": "文章带女友去德云社看演出",
       "onboard_time": 1743400340,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220442,
+      "num": 735354,
+      "word": "北影节天坛奖官宣评委倪妮",
+      "onboard_time": 1743400582,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 216235,
@@ -609,6 +625,14 @@
       "onboard_time": 1743393560,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213247,
+      "num": 219405,
+      "word": "双轨导演回复",
+      "onboard_time": 1743402741,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 211724,
@@ -641,6 +665,14 @@
       "onboard_time": 1743391521,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201004,
+      "num": 232935,
+      "word": "檀健次官宣加盟北影节",
+      "onboard_time": 1743402260,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 199302,
@@ -747,6 +779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174469,
+      "num": 174469,
+      "word": "马斯克称火星将是美国的一部分",
+      "onboard_time": 1743403222,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172373,
       "num": 172373,
       "word": "花花是春天的最强气氛组",
@@ -820,7 +860,7 @@
     },
     {
       "raw_hot": 163265,
-      "num": 163265,
+      "num": 221084,
       "word": "王安冉孕期被婆婆多次辱骂",
       "onboard_time": 1743400282,
       "rank": 32,
@@ -939,14 +979,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 152252,
-      "num": 219405,
-      "word": "双轨导演回复",
-      "onboard_time": 1743402741,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150646,
       "num": 110784,
       "word": "特朗普威胁对俄石油征收2级关税",
@@ -979,6 +1011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145298,
+      "num": 145298,
+      "word": "张杰5418平方米屏幕创纪录",
+      "onboard_time": 1743403161,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145289,
       "num": 293557,
       "word": "多颗国产遥感卫星传回缅甸灾区影像",
@@ -1003,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142881,
+      "num": 142881,
+      "word": "青岛即墨古城一小区发生爆炸",
+      "onboard_time": 1743400822,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 141998,
       "num": 141998,
       "word": "500万买的绿地洋房成坟景房",
@@ -1019,20 +1067,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141138,
+      "num": 133451,
+      "word": "疑似一种新病毒在俄罗斯蔓延",
+      "onboard_time": 1743403341,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140737,
       "num": 140737,
       "word": "太湖湾音乐节",
       "onboard_time": 1743352218,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 136771,
-      "num": 735354,
-      "word": "北影节天坛奖官宣评委倪妮",
-      "onboard_time": 1743400582,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 136661,
@@ -1105,14 +1153,6 @@
       "onboard_time": 1743401180,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131430,
-      "num": 131430,
-      "word": "青岛即墨古城一小区发生爆炸",
-      "onboard_time": 1743400822,
-      "rank": 40,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 128862,
@@ -1201,6 +1241,14 @@
       "onboard_time": 1743393020,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117704,
+      "num": 117704,
+      "word": "陈都灵4月6个商务拍摄",
+      "onboard_time": 1743403462,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 115210,
@@ -1324,7 +1372,7 @@
     },
     {
       "raw_hot": 104651,
-      "num": 104651,
+      "num": 211319,
       "word": "三月三上巳节是春游的节日",
       "onboard_time": 1743401601,
       "rank": 48,
@@ -1507,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81847,
+      "num": 143380,
+      "word": "张婧仪紫色下眼影",
+      "onboard_time": 1743403041,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81416,
       "num": 81416,
       "word": "淮水竹亭",
@@ -1643,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65789,
+      "num": 140498,
+      "word": "黄婷婷新剧在满身淤青里长出倒刺",
+      "onboard_time": 1743403401,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65590,
       "num": 175237,
       "word": "被广西三月三民族风萌娃萌化了",
@@ -1756,7 +1820,7 @@
     },
     {
       "raw_hot": 50824,
-      "num": 131474,
+      "num": 140205,
       "word": "免费会员就是香",
       "onboard_time": 1743400881,
       "rank": 39,
@@ -1769,6 +1833,14 @@
       "onboard_time": 1743364214,
       "rank": 43,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 49421,
+      "num": 708428,
+      "word": "对话05后殡仪专业学生",
+      "onboard_time": 1743402440,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46481,
@@ -1859,14 +1931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 32654,
-      "num": 708428,
-      "word": "对话05后殡仪专业学生",
-      "onboard_time": 1743402440,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30288,
       "num": 49139,
       "word": "伊朗拒绝与美国直接谈判",
@@ -1889,6 +1953,14 @@
       "onboard_time": 1743392421,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23399,
+      "num": 917301,
+      "word": "2025中国网络媒体论坛",
+      "onboard_time": 1743221722,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22961,
@@ -1929,14 +2001,6 @@
       "onboard_time": 1743395662,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18760,
-      "num": 917301,
-      "word": "2025中国网络媒体论坛",
-      "onboard_time": 1743221722,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17690,
