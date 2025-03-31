@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743396214925,
+  "endTime": 1743398685146,
   "band_list": [
     {
       "raw_hot": 3126539,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1123655,
+      "num": 1123655,
+      "word": "陈德容",
+      "onboard_time": 1743396444,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1079170,
       "num": 1079170,
       "word": "赴缅甸中国救援队全员服用霍乱疫苗",
@@ -227,20 +235,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 963319,
+      "num": 917228,
+      "word": "虞书欣往导演头上泼水",
+      "onboard_time": 1743392719,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 918319,
       "num": 1146931,
       "word": "淮水竹亭",
       "onboard_time": 1743331522,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 917228,
-      "num": 917228,
-      "word": "虞书欣往导演头上泼水",
-      "onboard_time": 1743392719,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 916477,
@@ -467,6 +475,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 624600,
+      "num": 267069,
+      "word": "门童泰国事件",
+      "onboard_time": 1743397223,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624559,
       "num": 624559,
       "word": "雁回时口碑逆跌",
@@ -683,6 +699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 500905,
+      "num": 306032,
+      "word": "雪莉曾和名牌大学高材生庭外和解",
+      "onboard_time": 1743394883,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494068,
       "num": 494068,
       "word": "叠纸 价格",
@@ -728,6 +752,14 @@
       "word": "收到一箱海鲜打开是100万现金",
       "onboard_time": 1743303930,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 472712,
+      "num": 472712,
+      "word": "指鼠为鸭局长已调离",
+      "onboard_time": 1743394702,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -819,12 +851,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422654,
+      "num": 398750,
+      "word": "门童粉丝",
+      "onboard_time": 1743394942,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421429,
       "num": 421429,
       "word": "爸爸坚持带重度孤独症孩子出门13年后",
       "onboard_time": 1743388821,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416044,
+      "num": 308107,
+      "word": "复活王蓉",
+      "onboard_time": 1743396561,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 415997,
@@ -841,6 +889,14 @@
       "onboard_time": 1743306570,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 414312,
+      "num": 241482,
+      "word": "男子身上发痒检查后确诊肝癌",
+      "onboard_time": 1743396682,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 413673,
@@ -899,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403753,
+      "num": 229663,
+      "word": "iPhone17Pro十大升级",
+      "onboard_time": 1743398002,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 401150,
       "num": 336950,
       "word": "米卡送了欧阳娜娜黑皮kitty",
@@ -913,14 +977,6 @@
       "onboard_time": 1743246564,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 398750,
-      "num": 398750,
-      "word": "门童粉丝",
-      "onboard_time": 1743394942,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 398650,
@@ -1025,14 +1081,6 @@
       "onboard_time": 1743312029,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 356867,
-      "num": 306032,
-      "word": "雪莉曾和名牌大学高材生庭外和解",
-      "onboard_time": 1743394883,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 355958,
@@ -1651,14 +1699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213553,
-      "num": 213553,
-      "word": "指鼠为鸭局长已调离",
-      "onboard_time": 1743394702,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 212676,
       "num": 212676,
       "word": "4种食物堪比天然防晒霜",
@@ -1803,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205130,
+      "num": 294818,
+      "word": "缅甸泰国华人互助接力",
+      "onboard_time": 1743397402,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 204887,
       "num": 234792,
       "word": "不愧是一诺的公孙离",
@@ -1817,6 +1865,14 @@
       "onboard_time": 1743391521,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203415,
+      "num": 203415,
+      "word": "比伯晒抱儿子照片",
+      "onboard_time": 1743398121,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 202731,
@@ -2027,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185022,
+      "num": 185022,
+      "word": "泫雅时隔四个月晒与龙俊亨合照",
+      "onboard_time": 1743397822,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184290,
       "num": 184290,
       "word": "韩国志愿者说救援物资被老太偷走了",
@@ -2083,12 +2147,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178078,
+      "num": 178078,
+      "word": "雪姨走秀",
+      "onboard_time": 1743396981,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177847,
       "num": 177847,
       "word": "儿子被父亲送进精神病院17年",
       "onboard_time": 1743332422,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177663,
+      "num": 177663,
+      "word": "甲亢哥保镖",
+      "onboard_time": 1743397943,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177568,
+      "num": 177568,
+      "word": "乔欣晒和姐姐香港游vlog",
+      "onboard_time": 1743396142,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 174963,
@@ -2241,6 +2329,14 @@
       "onboard_time": 1743327801,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 165744,
+      "num": 165744,
+      "word": "半熟恋人",
+      "onboard_time": 1743396741,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 165022,
@@ -2475,6 +2571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 154836,
+      "num": 224782,
+      "word": "黄小蕾新剧求财不求爱",
+      "onboard_time": 1743396922,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154756,
       "num": 161885,
       "word": "梁朝伟新片国内诈骗国外花",
@@ -2657,6 +2761,14 @@
       "onboard_time": 1743347543,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145925,
+      "num": 145925,
+      "word": "周深墨尔本控场七分钟",
+      "onboard_time": 1743397161,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 145781,
@@ -2915,14 +3027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134706,
-      "num": 134706,
-      "word": "乔欣晒和姐姐香港游vlog",
-      "onboard_time": 1743396142,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134479,
       "num": 209293,
       "word": "韩最严重山火涉事嫌疑人拒绝认罪",
@@ -3147,6 +3251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122130,
+      "num": 122130,
+      "word": "龚俊吃花椒夹心巧克力",
+      "onboard_time": 1743398542,
+      "rank": 42,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 121873,
       "num": 121873,
       "word": "周震南选队友一分钟啧了七次",
@@ -3353,6 +3465,14 @@
       "onboard_time": 1743388589,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 113796,
+      "num": 113796,
+      "word": "火影忍者",
+      "onboard_time": 1743397642,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 113744,
@@ -4099,6 +4219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77799,
+      "num": 301212,
+      "word": "肖战春夏清爽居家大片",
+      "onboard_time": 1743394521,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76100,
       "num": 79895,
       "word": "宋亚轩刘耀文冷战过",
@@ -4169,14 +4297,6 @@
       "onboard_time": 1743374897,
       "rank": 34,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 70778,
-      "num": 301212,
-      "word": "肖战春夏清爽居家大片",
-      "onboard_time": 1743394521,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 70206,
@@ -4449,6 +4569,14 @@
       "onboard_time": 1743321860,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 44625,
+      "num": 231233,
+      "word": "夏以昼八百个心眼子",
+      "onboard_time": 1743397461,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 43840,

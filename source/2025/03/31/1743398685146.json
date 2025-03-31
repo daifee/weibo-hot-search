@@ -1,0 +1,410 @@
+{
+  "runTime": 1743398685146,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1212321,
+        "num": 1212321,
+        "word": "店主接到近8吨毛肚订单直接报警",
+        "onboard_time": 1743385821,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1123655,
+        "num": 1123655,
+        "word": "陈德容",
+        "onboard_time": 1743396444,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10608,
+        "num": 540783,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516569,
+        "num": 516569,
+        "word": "哪吒2距全球第4就差10亿了",
+        "onboard_time": 1743385641,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 472712,
+        "num": 472712,
+        "word": "指鼠为鸭局长已调离",
+        "onboard_time": 1743394702,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320446,
+        "num": 320446,
+        "word": "雷军把车的价格打下来后网友破防了",
+        "onboard_time": 1743385821,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 498022,
+        "num": 314676,
+        "word": "宋茜复刻金发梦回Victoria",
+        "onboard_time": 1743393620,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 416044,
+        "num": 308107,
+        "word": "复活王蓉",
+        "onboard_time": 1743396561,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685230,
+        "num": 304086,
+        "word": "官方辟谣指鼠为鸭局长升职",
+        "onboard_time": 1743392301,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 205130,
+        "num": 294818,
+        "word": "缅甸泰国华人互助接力",
+        "onboard_time": 1743397402,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1264278,
+        "num": 289713,
+        "word": "一直对月薪三万没概念直到换算成天",
+        "onboard_time": 1743382162,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1239654,
+        "num": 281474,
+        "word": "白敬亭宋轶都去看了樱花",
+        "onboard_time": 1743393081,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 963319,
+        "num": 274779,
+        "word": "虞书欣往导演头上泼水",
+        "onboard_time": 1743392719,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624600,
+        "num": 267069,
+        "word": "门童泰国事件",
+        "onboard_time": 1743397223,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500905,
+        "num": 259394,
+        "word": "雪莉曾和名牌大学高材生庭外和解",
+        "onboard_time": 1743394883,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428163,
+        "num": 249773,
+        "word": "李惠利拒绝给劣迹艺人鼓掌",
+        "onboard_time": 1743381981,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422654,
+        "num": 244255,
+        "word": "门童粉丝",
+        "onboard_time": 1743394942,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241492,
+        "num": 241492,
+        "word": "缅甸强震已致1名中国公民遇难",
+        "onboard_time": 1743393681,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 414312,
+        "num": 241482,
+        "word": "男子身上发痒检查后确诊肝癌",
+        "onboard_time": 1743396682,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77799,
+        "num": 239593,
+        "word": "肖战春夏清爽居家大片",
+        "onboard_time": 1743394521,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431508,
+        "num": 237626,
+        "word": "雪莉恨自己长得漂亮",
+        "onboard_time": 1743385520,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196383,
+        "num": 236737,
+        "word": "张杰鸟巢演唱会抢票",
+        "onboard_time": 1743393921,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178247,
+        "num": 235019,
+        "word": "三月三是什么节",
+        "onboard_time": 1743386360,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174963,
+        "num": 232649,
+        "word": "爸爸坚持带重度孤独症孩子出门13年后",
+        "onboard_time": 1743388821,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44625,
+        "num": 231233,
+        "word": "夏以昼八百个心眼子",
+        "onboard_time": 1743397461,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 403753,
+        "num": 229663,
+        "word": "iPhone17Pro十大升级",
+        "onboard_time": 1743398002,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 69770,
+        "num": 228637,
+        "word": "新款问界M9又开始圈粉明星",
+        "onboard_time": 1743394942,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 40700,
+        "num": 227176,
+        "word": "袁娅维张远柳爽温奕心合唱向往",
+        "onboard_time": 1743394883,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154836,
+        "num": 224782,
+        "word": "黄小蕾新剧求财不求爱",
+        "onboard_time": 1743396922,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360861,
+        "num": 224112,
+        "word": "颜安和张丹峰儿子是同学",
+        "onboard_time": 1743390982,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223148,
+        "num": 223148,
+        "word": "为什么现在老师都不敢管学生了",
+        "onboard_time": 1743392001,
+        "rank": 30,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 203415,
+        "num": 203415,
+        "word": "比伯晒抱儿子照片",
+        "onboard_time": 1743398121,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185022,
+        "num": 185022,
+        "word": "泫雅时隔四个月晒与龙俊亨合照",
+        "onboard_time": 1743397822,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178078,
+        "num": 178078,
+        "word": "雪姨走秀",
+        "onboard_time": 1743396981,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177663,
+        "num": 177663,
+        "word": "甲亢哥保镖",
+        "onboard_time": 1743397943,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177568,
+        "num": 177568,
+        "word": "乔欣晒和姐姐香港游vlog",
+        "onboard_time": 1743396142,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165744,
+        "num": 165744,
+        "word": "半熟恋人",
+        "onboard_time": 1743396741,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155808,
+        "num": 155808,
+        "word": "浙江小百花越剧院发声明",
+        "onboard_time": 1743387020,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153112,
+        "num": 153112,
+        "word": "赵露思4月两场线下活动",
+        "onboard_time": 1743389060,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145925,
+        "num": 145925,
+        "word": "周深墨尔本控场七分钟",
+        "onboard_time": 1743397161,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140418,
+        "num": 140418,
+        "word": "新秀王安冉离婚原因",
+        "onboard_time": 1743387560,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137447,
+        "num": 137447,
+        "word": "减肥一直没效果的原因找到了",
+        "onboard_time": 1743391579,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 122130,
+        "num": 122130,
+        "word": "龚俊吃花椒夹心巧克力",
+        "onboard_time": 1743398542,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 120832,
+        "num": 120832,
+        "word": "雁回时全靠两位陪嫁家才没散",
+        "onboard_time": 1743395962,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119460,
+        "num": 119460,
+        "word": "伊朗各地导弹已装入发射器",
+        "onboard_time": 1743392719,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118230,
+        "num": 118230,
+        "word": "沈腾抢马丽火腿肠",
+        "onboard_time": 1743391822,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115473,
+        "num": 115473,
+        "word": "优时颜 马柏全张康乐",
+        "onboard_time": 1743391941,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114831,
+        "num": 114831,
+        "word": "刘国正妻子谈王楚钦",
+        "onboard_time": 1743393560,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102827,
+        "num": 113885,
+        "word": "一条plog告别三月",
+        "onboard_time": 1743391401,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113796,
+        "num": 113796,
+        "word": "火影忍者",
+        "onboard_time": 1743397642,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的作风关系人心向背#"
+    }
+  }
+}

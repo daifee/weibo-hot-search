@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743396214925,
+  "endTime": 1743398685146,
   "band_list": [
     {
       "raw_hot": 2503187,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1123655,
+      "num": 1123655,
+      "word": "陈德容",
+      "onboard_time": 1743396444,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1053410,
       "num": 811271,
       "word": "赵露思综艺",
@@ -83,7 +91,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 917228,
+      "raw_hot": 963319,
       "num": 917228,
       "word": "虞书欣往导演头上泼水",
       "onboard_time": 1743392719,
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 624600,
+      "num": 267069,
+      "word": "门童泰国事件",
+      "onboard_time": 1743397223,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 613906,
       "num": 613906,
       "word": "金价",
@@ -203,12 +219,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 500905,
+      "num": 306032,
+      "word": "雪莉曾和名牌大学高材生庭外和解",
+      "onboard_time": 1743394883,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487719,
       "num": 487719,
       "word": "缅甸坍塌酒店被困女孩靠4瓶水存活",
       "onboard_time": 1743380660,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 472712,
+      "num": 472712,
+      "word": "指鼠为鸭局长已调离",
+      "onboard_time": 1743394702,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 454305,
@@ -251,11 +283,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422654,
+      "num": 398750,
+      "word": "门童粉丝",
+      "onboard_time": 1743394942,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421429,
       "num": 421429,
       "word": "爸爸坚持带重度孤独症孩子出门13年后",
       "onboard_time": 1743388821,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416044,
+      "num": 308107,
+      "word": "复活王蓉",
+      "onboard_time": 1743396561,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 414312,
+      "num": 241482,
+      "word": "男子身上发痒检查后确诊肝癌",
+      "onboard_time": 1743396682,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -267,12 +323,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 398750,
-      "num": 398750,
-      "word": "门童粉丝",
-      "onboard_time": 1743394942,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 403753,
+      "num": 229663,
+      "word": "iPhone17Pro十大升级",
+      "onboard_time": 1743398002,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 398650,
@@ -305,14 +361,6 @@
       "onboard_time": 1743391822,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 356867,
-      "num": 306032,
-      "word": "雪莉曾和名牌大学高材生庭外和解",
-      "onboard_time": 1743394883,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 342132,
@@ -483,14 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213553,
-      "num": 213553,
-      "word": "指鼠为鸭局长已调离",
-      "onboard_time": 1743394702,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 211724,
       "num": 211724,
       "word": "减肥一直没效果的原因找到了",
@@ -515,12 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205130,
+      "num": 294818,
+      "word": "缅甸泰国华人互助接力",
+      "onboard_time": 1743397402,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 204156,
       "num": 204156,
       "word": "实用主义者的爱情官宣陈飞宇孙千",
       "onboard_time": 1743391521,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203415,
+      "num": 203415,
+      "word": "比伯晒抱儿子照片",
+      "onboard_time": 1743398121,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 197349,
@@ -579,6 +635,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185022,
+      "num": 185022,
+      "word": "泫雅时隔四个月晒与龙俊亨合照",
+      "onboard_time": 1743397822,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178078,
+      "num": 178078,
+      "word": "雪姨走秀",
+      "onboard_time": 1743396981,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177663,
+      "num": 177663,
+      "word": "甲亢哥保镖",
+      "onboard_time": 1743397943,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177568,
+      "num": 177568,
+      "word": "乔欣晒和姐姐香港游vlog",
+      "onboard_time": 1743396142,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172373,
       "num": 172373,
       "word": "花花是春天的最强气氛组",
@@ -625,6 +713,14 @@
       "onboard_time": 1743390860,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165744,
+      "num": 165744,
+      "word": "半熟恋人",
+      "onboard_time": 1743396741,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 163321,
@@ -723,6 +819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 154836,
+      "num": 224782,
+      "word": "黄小蕾新剧求财不求爱",
+      "onboard_time": 1743396922,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153493,
       "num": 153493,
       "word": "金赛纶雪莉具荷拉的共同点",
@@ -761,6 +865,14 @@
       "onboard_time": 1743393863,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145925,
+      "num": 145925,
+      "word": "周深墨尔本控场七分钟",
+      "onboard_time": 1743397161,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 145289,
@@ -843,14 +955,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 134706,
-      "num": 134706,
-      "word": "乔欣晒和姐姐香港游vlog",
-      "onboard_time": 1743396142,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134479,
       "num": 209293,
       "word": "韩最严重山火涉事嫌疑人拒绝认罪",
@@ -915,6 +1019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122130,
+      "num": 122130,
+      "word": "龚俊吃花椒夹心巧克力",
+      "onboard_time": 1743398542,
+      "rank": 42,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 121252,
       "num": 121252,
       "word": "白客想和沈腾HE",
@@ -969,6 +1081,14 @@
       "onboard_time": 1743388589,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 113796,
+      "num": 113796,
+      "word": "火影忍者",
+      "onboard_time": 1743397642,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 111668,
@@ -1243,6 +1363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77799,
+      "num": 301212,
+      "word": "肖战春夏清爽居家大片",
+      "onboard_time": 1743394521,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75595,
       "num": 282423,
       "word": "韩庚工作室辟谣",
@@ -1297,14 +1425,6 @@
       "onboard_time": 1743342084,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70778,
-      "num": 301212,
-      "word": "肖战春夏清爽居家大片",
-      "onboard_time": 1743394521,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 69776,
@@ -1473,6 +1593,14 @@
       "onboard_time": 1743385941,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44625,
+      "num": 231233,
+      "word": "夏以昼八百个心眼子",
+      "onboard_time": 1743397461,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 43840,
