@@ -1,0 +1,410 @@
+{
+  "runTime": 1743393038406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1426375,
+        "num": 1426375,
+        "word": "店主接到近8吨毛肚订单直接报警",
+        "onboard_time": 1743385821,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1010856,
+        "num": 1010856,
+        "word": "颜安同学是张丹峰的儿子",
+        "onboard_time": 1743390982,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14715,
+        "num": 765945,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 681074,
+        "num": 681074,
+        "word": "哪吒2距全球第4就差10亿了",
+        "onboard_time": 1743385641,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 476011,
+        "num": 476011,
+        "word": "雷军把车的价格打下来后网友破防了",
+        "onboard_time": 1743385821,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 421429,
+        "num": 421429,
+        "word": "爸爸坚持带重度孤独症孩子出门13年后",
+        "onboard_time": 1743388821,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394968,
+        "num": 394968,
+        "word": "金价",
+        "onboard_time": 1743386120,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 393199,
+        "num": 393199,
+        "word": "三月三是什么节",
+        "onboard_time": 1743386360,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387284,
+        "num": 387284,
+        "word": "沈腾抢马丽火腿肠",
+        "onboard_time": 1743391822,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90587,
+        "num": 386485,
+        "word": "官方辟谣指鼠为鸭局长升职",
+        "onboard_time": 1743392301,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1487692,
+        "num": 386432,
+        "word": "一直对月薪三万没概念直到换算成天",
+        "onboard_time": 1743382162,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 670492,
+        "num": 386277,
+        "word": "雪莉恨自己长得漂亮",
+        "onboard_time": 1743385520,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386051,
+        "num": 386051,
+        "word": "浙江小百花越剧院发声明",
+        "onboard_time": 1743387020,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47619,
+        "num": 365203,
+        "word": "伊朗各地导弹已装入发射器",
+        "onboard_time": 1743392719,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37281,
+        "num": 363906,
+        "word": "在家门口装摄像头也可能涉侵权",
+        "onboard_time": 1743392541,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363849,
+        "num": 363849,
+        "word": "虞书欣到泰国七天请了三次客",
+        "onboard_time": 1743379460,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354228,
+        "num": 354228,
+        "word": "赵露思4月两场线下活动",
+        "onboard_time": 1743389060,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333821,
+        "num": 333821,
+        "word": "祝绪丹挑男友的方式很小众",
+        "onboard_time": 1743391882,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101118,
+        "num": 320302,
+        "word": "动手能力成为AI分水岭",
+        "onboard_time": 1743392359,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78018,
+        "num": 317184,
+        "word": "为什么现在老师都不敢管学生了",
+        "onboard_time": 1743392001,
+        "rank": 19,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 314205,
+        "num": 314205,
+        "word": "中国救援队在缅最新救援画面",
+        "onboard_time": 1743389720,
+        "rank": 20,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 304210,
+        "num": 304210,
+        "word": "湖南商人撤离曼德勒途中遇持枪收费",
+        "onboard_time": 1743388279,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 303963,
+        "num": 303963,
+        "word": "李惠利拒绝给劣迹艺人鼓掌",
+        "onboard_time": 1743381981,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293299,
+        "num": 293299,
+        "word": "新秀王安冉离婚原因",
+        "onboard_time": 1743387560,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205755,
+        "num": 289033,
+        "word": "德约科维奇无缘第100冠",
+        "onboard_time": 1743391521,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284769,
+        "num": 284769,
+        "word": "虞书欣往导演头上泼水",
+        "onboard_time": 1743392719,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256503,
+        "num": 256503,
+        "word": "佟大为新剧太下饭了",
+        "onboard_time": 1743392120,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197349,
+        "num": 254135,
+        "word": "优时颜 马柏全张康乐",
+        "onboard_time": 1743391941,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191459,
+        "num": 253944,
+        "word": "傅首尔隔空喊话邓萃雯",
+        "onboard_time": 1743392601,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27869,
+        "num": 253882,
+        "word": "成本30元阿胶4980元卖老人",
+        "onboard_time": 1743392421,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253877,
+        "num": 253877,
+        "word": "缅甸坍塌酒店被困女孩靠4瓶水存活",
+        "onboard_time": 1743380660,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229046,
+        "num": 229046,
+        "word": "杜兰特受伤",
+        "onboard_time": 1743390982,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188494,
+        "num": 188494,
+        "word": "刘涛听粉丝的选了红色的车",
+        "onboard_time": 1743392961,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176086,
+        "num": 176086,
+        "word": "行程图",
+        "onboard_time": 1743387981,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154178,
+        "num": 154178,
+        "word": "一条plog告别三月",
+        "onboard_time": 1743391401,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150774,
+        "num": 150774,
+        "word": "减肥一直没效果的原因找到了",
+        "onboard_time": 1743391579,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 149639,
+        "num": 149639,
+        "word": "距深圳市约170公里发现1亿吨油田",
+        "onboard_time": 1743377840,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137980,
+        "num": 137980,
+        "word": "藏海传杀青即将上线",
+        "onboard_time": 1743384623,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134479,
+        "num": 134479,
+        "word": "韩最严重山火涉事嫌疑人拒绝认罪",
+        "onboard_time": 1743390801,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20515,
+        "num": 134273,
+        "word": "甲亢哥学武术有板有眼的",
+        "onboard_time": 1743392181,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134142,
+        "num": 134142,
+        "word": "缅甸29岁姑娘被中国救援队救出",
+        "onboard_time": 1743388101,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127610,
+        "num": 127610,
+        "word": "500万买的绿地洋房成坟景房",
+        "onboard_time": 1743387200,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125066,
+        "num": 126516,
+        "word": "实用主义者的爱情官宣陈飞宇孙千",
+        "onboard_time": 1743391521,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136246,
+        "num": 126375,
+        "word": "肖战蓝色格纹睡衣",
+        "onboard_time": 1743391460,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125677,
+        "num": 125677,
+        "word": "清明档",
+        "onboard_time": 1743390620,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125148,
+        "num": 125148,
+        "word": "金价冲上3100美元",
+        "onboard_time": 1743391521,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121973,
+        "num": 121973,
+        "word": "枭起青壤",
+        "onboard_time": 1743385160,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119514,
+        "num": 119514,
+        "word": "郑州火烧店的招财猫都有KPI了",
+        "onboard_time": 1743391521,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118146,
+        "num": 118146,
+        "word": "梅婷家庭剧统治区",
+        "onboard_time": 1743393020,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115620,
+        "num": 115620,
+        "word": "金饰价格跌回935元",
+        "onboard_time": 1743390499,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为何说这一关必须要过#"
+    }
+  }
+}

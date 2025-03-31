@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743391569332,
+  "endTime": 1743393038406,
   "band_list": [
     {
       "raw_hot": 2503187,
@@ -48,6 +48,14 @@
       "word": "赵露思综艺",
       "onboard_time": 1743381561,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1010856,
+      "num": 1010856,
+      "word": "颜安同学是张丹峰的儿子",
+      "onboard_time": 1743390982,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -113,14 +121,6 @@
       "onboard_time": 1743359954,
       "rank": 23,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 639586,
-      "num": 639586,
-      "word": "颜安同学是张丹峰的儿子",
-      "onboard_time": 1743390982,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 613906,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 421429,
+      "num": 421429,
+      "word": "爸爸坚持带重度孤独症孩子出门13年后",
+      "onboard_time": 1743388821,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411310,
       "num": 411310,
       "word": "湖南商人撤离曼德勒途中遇持枪收费",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 397065,
-      "num": 317912,
+      "num": 354228,
       "word": "赵露思4月两场线下活动",
       "onboard_time": 1743389060,
       "rank": 20,
@@ -227,12 +235,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 387284,
+      "num": 387284,
+      "word": "沈腾抢马丽火腿肠",
+      "onboard_time": 1743391822,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342132,
       "num": 342132,
       "word": "藏海传杀青即将上线",
       "onboard_time": 1743384623,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333821,
+      "num": 333821,
+      "word": "祝绪丹挑男友的方式很小众",
+      "onboard_time": 1743391882,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 321055,
@@ -248,6 +272,14 @@
       "word": "广东高州地震监控画面",
       "onboard_time": 1743344303,
       "rank": 13,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 314205,
+      "num": 406404,
+      "word": "中国救援队在缅最新救援画面",
+      "onboard_time": 1743389720,
+      "rank": 39,
       "category": "突发/灾害"
     },
     {
@@ -283,6 +315,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284769,
+      "num": 284769,
+      "word": "虞书欣往导演头上泼水",
+      "onboard_time": 1743392719,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256503,
+      "num": 256503,
+      "word": "佟大为新剧太下饭了",
+      "onboard_time": 1743392120,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254999,
       "num": 218813,
       "word": "贾乃亮甜馨逛三亚夜市vlog",
@@ -297,14 +345,6 @@
       "onboard_time": 1743346521,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 239298,
-      "num": 239298,
-      "word": "爸爸坚持带重度孤独症孩子出门13年后",
-      "onboard_time": 1743388821,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236403,
@@ -331,6 +371,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 229046,
+      "num": 229046,
+      "word": "杜兰特受伤",
+      "onboard_time": 1743390982,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216235,
       "num": 216235,
       "word": "白桃星座一周运势",
@@ -347,12 +395,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 205755,
+      "num": 289033,
+      "word": "德约科维奇无缘第100冠",
+      "onboard_time": 1743391521,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204156,
       "num": 204156,
       "word": "实用主义者的爱情官宣陈飞宇孙千",
       "onboard_time": 1743391521,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197349,
+      "num": 254135,
+      "word": "优时颜 马柏全张康乐",
+      "onboard_time": 1743391941,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 196877,
@@ -387,20 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182286,
-      "num": 182286,
-      "word": "德约科维奇无缘第100冠",
-      "onboard_time": 1743391521,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 191459,
+      "num": 253944,
+      "word": "傅首尔隔空喊话邓萃雯",
+      "onboard_time": 1743392601,
+      "rank": 28,
+      "category": "综艺"
     },
     {
-      "raw_hot": 173987,
-      "num": 224289,
-      "word": "杜兰特受伤",
-      "onboard_time": 1743390982,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 188494,
+      "num": 188494,
+      "word": "刘涛听粉丝的选了红色的车",
+      "onboard_time": 1743392961,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 172373,
@@ -531,6 +595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150774,
+      "num": 150774,
+      "word": "减肥一直没效果的原因找到了",
+      "onboard_time": 1743391579,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 150646,
       "num": 110784,
       "word": "特朗普威胁对俄石油征收2级关税",
@@ -587,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136246,
+      "num": 126375,
+      "word": "肖战蓝色格纹睡衣",
+      "onboard_time": 1743391460,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 135766,
       "num": 212297,
       "word": "向阳花",
@@ -595,20 +675,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134479,
+      "num": 209293,
+      "word": "韩最严重山火涉事嫌疑人拒绝认罪",
+      "onboard_time": 1743390801,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 134142,
+      "num": 134142,
+      "word": "缅甸29岁姑娘被中国救援队救出",
+      "onboard_time": 1743388101,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 132880,
       "num": 132880,
       "word": "双胞胎当了1年朋友才发现是亲姐妹",
       "onboard_time": 1743312868,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127610,
-      "num": 127610,
-      "word": "缅甸29岁姑娘被中国救援队救出",
-      "onboard_time": 1743388101,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 125871,
@@ -651,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119514,
+      "num": 119514,
+      "word": "郑州火烧店的招财猫都有KPI了",
+      "onboard_time": 1743391521,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118353,
       "num": 145523,
       "word": "虞书欣何与双轨杀青路透",
@@ -659,28 +755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117554,
-      "num": 116753,
-      "word": "肖战蓝色格纹睡衣",
-      "onboard_time": 1743391460,
+      "raw_hot": 118146,
+      "num": 118146,
+      "word": "梅婷家庭剧统治区",
+      "onboard_time": 1743393020,
       "rank": 48,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 116745,
-      "num": 116745,
-      "word": "郑州火烧店的招财猫都有KPI了",
-      "onboard_time": 1743391521,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115608,
-      "num": 406404,
-      "word": "中国救援队在缅最新救援画面",
-      "onboard_time": 1743389720,
-      "rank": 39,
-      "category": "突发/灾害"
+      "category": "剧集"
     },
     {
       "raw_hot": 115210,
@@ -803,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101118,
+      "num": 320302,
+      "word": "动手能力成为AI分水岭",
+      "onboard_time": 1743392359,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 100567,
       "num": 108011,
       "word": "SM新男团预告",
@@ -851,14 +939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95337,
-      "num": 209293,
-      "word": "韩最严重山火涉事嫌疑人拒绝认罪",
-      "onboard_time": 1743390801,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 94782,
       "num": 94782,
       "word": "3月最后一天",
@@ -889,6 +969,14 @@
       "onboard_time": 1743377780,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90587,
+      "num": 386485,
+      "word": "官方辟谣指鼠为鸭局长升职",
+      "onboard_time": 1743392301,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 88871,
@@ -953,6 +1041,14 @@
       "onboard_time": 1743350780,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78018,
+      "num": 317184,
+      "word": "为什么现在老师都不敢管学生了",
+      "onboard_time": 1743392001,
+      "rank": 19,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 77986,
@@ -1171,6 +1267,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 47619,
+      "num": 365203,
+      "word": "伊朗各地导弹已装入发射器",
+      "onboard_time": 1743392719,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46481,
       "num": 166489,
       "word": "男子冰壶世锦赛中国队两连胜",
@@ -1227,6 +1331,14 @@
       "category": "互联网,教育"
     },
     {
+      "raw_hot": 37281,
+      "num": 363906,
+      "word": "在家门口装摄像头也可能涉侵权",
+      "onboard_time": 1743392541,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34131,
       "num": 49241,
       "word": "PCL2025",
@@ -1251,6 +1363,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 27869,
+      "num": 253882,
+      "word": "成本30元阿胶4980元卖老人",
+      "onboard_time": 1743392421,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22961,
       "num": 29625,
       "word": "在缅中国人称震后联系家人手在抖",
@@ -1265,6 +1385,14 @@
       "onboard_time": 1743377538,
       "rank": 21,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 20515,
+      "num": 134273,
+      "word": "甲亢哥学武术有板有眼的",
+      "onboard_time": 1743392181,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18482,

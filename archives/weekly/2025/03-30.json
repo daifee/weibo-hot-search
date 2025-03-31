@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743391569332,
+  "endTime": 1743393038406,
   "band_list": [
     {
       "raw_hot": 3126539,
@@ -176,6 +176,14 @@
       "word": "赵露思综艺",
       "onboard_time": 1743381561,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1010856,
+      "num": 1010856,
+      "word": "颜安同学是张丹峰的儿子",
+      "onboard_time": 1743390982,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -401,14 +409,6 @@
       "onboard_time": 1743260904,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 639586,
-      "num": 639586,
-      "word": "颜安同学是张丹峰的儿子",
-      "onboard_time": 1743390982,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 629943,
@@ -763,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 421429,
+      "num": 421429,
+      "word": "爸爸坚持带重度孤独症孩子出门13年后",
+      "onboard_time": 1743388821,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415997,
       "num": 415997,
       "word": "恋与深空",
@@ -868,7 +876,7 @@
     },
     {
       "raw_hot": 397065,
-      "num": 317912,
+      "num": 354228,
       "word": "赵露思4月两场线下活动",
       "onboard_time": 1743389060,
       "rank": 20,
@@ -905,6 +913,14 @@
       "onboard_time": 1743378079,
       "rank": 6,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 387284,
+      "num": 387284,
+      "word": "沈腾抢马丽火腿肠",
+      "onboard_time": 1743391822,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 385760,
@@ -1051,6 +1067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 333821,
+      "num": 333821,
+      "word": "祝绪丹挑男友的方式很小众",
+      "onboard_time": 1743391882,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333594,
       "num": 333594,
       "word": "雁回时全员升咖",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1743314480,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314205,
+      "num": 406404,
+      "word": "中国救援队在缅最新救援画面",
+      "onboard_time": 1743389720,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 304490,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1743317902,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 284769,
+      "num": 284769,
+      "word": "虞书欣往导演头上泼水",
+      "onboard_time": 1743392719,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 284587,
@@ -1307,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256503,
+      "num": 256503,
+      "word": "佟大为新剧太下饭了",
+      "onboard_time": 1743392120,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254406,
       "num": 398548,
       "word": "专家称缅甸震后疾病防控不容乐观",
@@ -1395,14 +1443,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 239298,
-      "num": 239298,
-      "word": "爸爸坚持带重度孤独症孩子出门13年后",
-      "onboard_time": 1743388821,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 237497,
       "num": 237497,
       "word": "台媒称中国驰援缅甸有3大黑科技",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1743350900,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 229046,
+      "num": 229046,
+      "word": "杜兰特受伤",
+      "onboard_time": 1743390982,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 228684,
@@ -1627,6 +1675,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 205755,
+      "num": 289033,
+      "word": "德约科维奇无缘第100冠",
+      "onboard_time": 1743391521,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205443,
       "num": 205443,
       "word": "傅云夕完全变成庄寒雁的狗了",
@@ -1731,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197349,
+      "num": 254135,
+      "word": "优时颜 马柏全张康乐",
+      "onboard_time": 1743391941,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196877,
       "num": 196877,
       "word": "A股",
@@ -1771,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191459,
+      "num": 253944,
+      "word": "傅首尔隔空喊话邓萃雯",
+      "onboard_time": 1743392601,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190297,
       "num": 190297,
       "word": "胡兵 陈楚生站哥",
@@ -1793,6 +1865,14 @@
       "onboard_time": 1743338360,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188494,
+      "num": 188494,
+      "word": "刘涛听粉丝的选了红色的车",
+      "onboard_time": 1743392961,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 188125,
@@ -1867,14 +1947,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 182286,
-      "num": 182286,
-      "word": "德约科维奇无缘第100冠",
-      "onboard_time": 1743391521,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181656,
       "num": 181656,
       "word": "AG对战TTG",
@@ -1929,14 +2001,6 @@
       "onboard_time": 1743316041,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173987,
-      "num": 224289,
-      "word": "杜兰特受伤",
-      "onboard_time": 1743390982,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 172373,
@@ -2363,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150774,
+      "num": 150774,
+      "word": "减肥一直没效果的原因找到了",
+      "onboard_time": 1743391579,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 150760,
       "num": 150760,
       "word": "陈哲远 看我行不行",
@@ -2627,6 +2699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136246,
+      "num": 126375,
+      "word": "肖战蓝色格纹睡衣",
+      "onboard_time": 1743391460,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136051,
       "num": 136051,
       "word": "湖人vs灰熊",
@@ -2665,6 +2745,22 @@
       "onboard_time": 1743334522,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134479,
+      "num": 209293,
+      "word": "韩最严重山火涉事嫌疑人拒绝认罪",
+      "onboard_time": 1743390801,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 134142,
+      "num": 134142,
+      "word": "缅甸29岁姑娘被中国救援队救出",
+      "onboard_time": 1743388101,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 133639,
@@ -2761,14 +2857,6 @@
       "onboard_time": 1743337822,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127610,
-      "num": 127610,
-      "word": "缅甸29岁姑娘被中国救援队救出",
-      "onboard_time": 1743388101,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 127157,
@@ -2947,6 +3035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 119514,
+      "num": 119514,
+      "word": "郑州火烧店的招财猫都有KPI了",
+      "onboard_time": 1743391521,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119030,
       "num": 289831,
       "word": "上手后才知道华为PuraX有多香",
@@ -2995,6 +3091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118146,
+      "num": 118146,
+      "word": "梅婷家庭剧统治区",
+      "onboard_time": 1743393020,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118098,
       "num": 118098,
       "word": "时代少年团五周年单人海报",
@@ -3019,14 +3123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117554,
-      "num": 116753,
-      "word": "肖战蓝色格纹睡衣",
-      "onboard_time": 1743391460,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 116822,
       "num": 116822,
       "word": "叶童听不懂王珞丹的广东话",
@@ -3035,28 +3131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116745,
-      "num": 116745,
-      "word": "郑州火烧店的招财猫都有KPI了",
-      "onboard_time": 1743391521,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116311,
       "num": 116311,
       "word": "你好星期六下期有哪吒敖丙",
       "onboard_time": 1743256583,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115608,
-      "num": 406404,
-      "word": "中国救援队在缅最新救援画面",
-      "onboard_time": 1743389720,
-      "rank": 39,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 115210,
@@ -3411,6 +3491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101118,
+      "num": 320302,
+      "word": "动手能力成为AI分水岭",
+      "onboard_time": 1743392359,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 100567,
       "num": 108011,
       "word": "SM新男团预告",
@@ -3539,14 +3627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95337,
-      "num": 209293,
-      "word": "韩最严重山火涉事嫌疑人拒绝认罪",
-      "onboard_time": 1743390801,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 95024,
       "num": 95024,
       "word": "尤长靖扯领带这一下好拽",
@@ -3633,6 +3713,14 @@
       "onboard_time": 1743377780,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90587,
+      "num": 386485,
+      "word": "官方辟谣指鼠为鸭局长升职",
+      "onboard_time": 1743392301,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 90047,
@@ -3817,6 +3905,14 @@
       "onboard_time": 1743315260,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78018,
+      "num": 317184,
+      "word": "为什么现在老师都不敢管学生了",
+      "onboard_time": 1743392001,
+      "rank": 19,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 76100,
@@ -4131,6 +4227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47619,
+      "num": 365203,
+      "word": "伊朗各地导弹已装入发射器",
+      "onboard_time": 1743392719,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46774,
       "num": 46774,
       "word": "12306上真的可以免费换火车票",
@@ -4233,6 +4337,14 @@
       "onboard_time": 1743280333,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37281,
+      "num": 363906,
+      "word": "在家门口装摄像头也可能涉侵权",
+      "onboard_time": 1743392541,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37246,
@@ -4355,6 +4467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27869,
+      "num": 253882,
+      "word": "成本30元阿胶4980元卖老人",
+      "onboard_time": 1743392421,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25627,
       "num": 389990,
       "word": "吴艳妮说我失去的一定要拿回来",
@@ -4417,6 +4537,14 @@
       "onboard_time": 1743274694,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20515,
+      "num": 134273,
+      "word": "甲亢哥学武术有板有眼的",
+      "onboard_time": 1743392181,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19660,
