@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743435656072,
+  "endTime": 1743438647417,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -272,6 +272,14 @@
       "word": "李惠利拒绝给劣迹艺人鼓掌",
       "onboard_time": 1743381981,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1147297,
+      "num": 242485,
+      "word": "站姐愚人节团建预告",
+      "onboard_time": 1743425964,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -595,6 +603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 717168,
+      "num": 163648,
+      "word": "2024的愚人节勇士站姐",
+      "onboard_time": 1743437241,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 713225,
       "num": 713225,
       "word": "缅甸地震已致1700人死亡",
@@ -849,6 +865,14 @@
       "onboard_time": 1743305010,
       "rank": 22,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 575286,
+      "num": 857670,
+      "word": "愚人节文案",
+      "onboard_time": 1743425243,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 571754,
@@ -1387,14 +1411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380640,
-      "num": 242485,
-      "word": "站姐愚人节团建预告",
-      "onboard_time": 1743425964,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 376959,
       "num": 376959,
       "word": "韦雪要签前夫",
@@ -1457,6 +1473,14 @@
       "onboard_time": 1743429204,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 357025,
+      "num": 162258,
+      "word": "愚人节站姐团建",
+      "onboard_time": 1743438619,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 355958,
@@ -1555,6 +1579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 336752,
+      "num": 214728,
+      "word": "女装啥时候能回归正常审美",
+      "onboard_time": 1743432503,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 336170,
       "num": 231419,
       "word": "孙颖莎 OPPO",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1743255443,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 329031,
+      "num": 329031,
+      "word": "陈昊宇陈丽君四公帮唱",
+      "onboard_time": 1743434662,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 325989,
@@ -2203,14 +2243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233113,
-      "num": 233113,
-      "word": "陈昊宇陈丽君四公帮唱",
-      "onboard_time": 1743434662,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233032,
       "num": 233032,
       "word": "起猛了以为张国立上恋综了",
@@ -2395,14 +2427,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 214728,
-      "num": 214728,
-      "word": "女装啥时候能回归正常审美",
-      "onboard_time": 1743432503,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 214065,
       "num": 214065,
       "word": "运动半小时以上才能分解脂肪",
@@ -2449,14 +2473,6 @@
       "onboard_time": 1743326062,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211485,
-      "num": 265666,
-      "word": "愚人节文案",
-      "onboard_time": 1743425243,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 211193,
@@ -4123,6 +4139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141740,
+      "num": 141740,
+      "word": "4月一起加油",
+      "onboard_time": 1743436700,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141611,
       "num": 220134,
       "word": "美国被曝长期全方位介入俄乌冲突",
@@ -4297,6 +4321,14 @@
       "onboard_time": 1743335962,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135625,
+      "num": 135625,
+      "word": "檀健次当评委了",
+      "onboard_time": 1743435442,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 135503,
@@ -5387,14 +5419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99258,
-      "num": 88661,
-      "word": "檀健次当评委了",
-      "onboard_time": 1743435442,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 99130,
       "num": 99130,
       "word": "快乐的大人2",
@@ -5771,6 +5795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80831,
+      "num": 165312,
+      "word": "想和你去四月的春天里坐坐",
+      "onboard_time": 1743436521,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79904,
       "num": 79904,
       "word": "苏醒在武汉穿上了樱花粉",
@@ -5931,6 +5963,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 70980,
+      "num": 70980,
+      "word": "难哄3月全网播放冠军",
+      "onboard_time": 1743435861,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70206,
       "num": 820815,
       "word": "4分钟感受广西的好嘢",
@@ -6001,6 +6041,14 @@
       "onboard_time": 1743387380,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65469,
+      "num": 65469,
+      "word": "春日壁纸",
+      "onboard_time": 1743438142,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 65236,
@@ -6137,6 +6185,14 @@
       "onboard_time": 1743348082,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58627,
+      "num": 58627,
+      "word": "封神2将从影院下映",
+      "onboard_time": 1743433102,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 57898,

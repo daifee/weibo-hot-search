@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/03/30 00:29:02 ~ 2025/03/31 23:40:56
+本榜单时间：2025/03/30 00:29:02 ~ 2025/04/01 00:30:47
 </p>
 </blockquote>
 <p>
@@ -215,6 +215,12 @@ QQ音乐 内涵（热度：1355439）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%A0%E5%88%A9%E6%8B%92%E7%BB%9D%E7%BB%99%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA%E9%BC%93%E6%8E%8C%23" target="weibo">
 李惠利拒绝给劣迹艺人鼓掌（热度：1160305）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%99%E5%A7%90%E6%84%9A%E4%BA%BA%E8%8A%82%E5%9B%A2%E5%BB%BA%E9%A2%84%E5%91%8A%23" target="weibo">
+站姐愚人节团建预告（热度：1147297）
 </a>
 </li>
 
@@ -459,6 +465,12 @@ iPhone截图的隐藏功能（热度：741373）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232024%E7%9A%84%E6%84%9A%E4%BA%BA%E8%8A%82%E5%8B%87%E5%A3%AB%E7%AB%99%E5%A7%90%23" target="weibo">
+2024的愚人节勇士站姐（热度：717168）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B41700%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 缅甸地震已致1700人死亡（热度：713225）
 </a>
@@ -647,6 +659,12 @@ Jennie红色抹胸裙（热度：605605）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E5%9C%B0%E9%9C%87%E5%A6%82%E5%90%8C%E4%B8%80%E6%8A%8A%E5%B7%A8%E5%88%80%E5%88%87%E5%85%A5%E5%9C%B0%E7%90%83%23" target="weibo">
 缅甸地震如同一把巨刀切入地球（热度：580168）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%9A%E4%BA%BA%E8%8A%82%E6%96%87%E6%A1%88%23" target="weibo">
+愚人节文案（热度：575286）
 </a>
 </li>
 
@@ -1053,12 +1071,6 @@ Jennie红色抹胸裙（热度：605605）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%99%E5%A7%90%E6%84%9A%E4%BA%BA%E8%8A%82%E5%9B%A2%E5%BB%BA%E9%A2%84%E5%91%8A%23" target="weibo">
-站姐愚人节团建预告（热度：380640）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E9%9B%AA%E8%A6%81%E7%AD%BE%E5%89%8D%E5%A4%AB%23" target="weibo">
 韦雪要签前夫（热度：376959）
 </a>
@@ -1103,6 +1115,12 @@ Jennie红色抹胸裙（热度：605605）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E6%8A%8A%E8%84%89%E7%A7%B0%E7%94%B2%E4%BA%A2%E5%93%A5%E6%B2%A1%E6%9C%89%E7%94%B2%E4%BA%A2%23" target="weibo">
 中医把脉称甲亢哥没有甲亢（热度：363039）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%9A%E4%BA%BA%E8%8A%82%E7%AB%99%E5%A7%90%E5%9B%A2%E5%BB%BA%23" target="weibo">
+愚人节站姐团建（热度：357025）
 </a>
 </li>
 
@@ -1179,6 +1197,12 @@ aespa红毯（热度：351622）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E5%95%A5%E6%97%B6%E5%80%99%E8%83%BD%E5%9B%9E%E5%BD%92%E6%AD%A3%E5%B8%B8%E5%AE%A1%E7%BE%8E%23" target="weibo">
+女装啥时候能回归正常审美（热度：336752）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%20OPPO%23" target="weibo">
 孙颖莎 OPPO（热度：336170）
 </a>
@@ -1217,6 +1241,12 @@ aespa红毯（热度：351622）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E5%9C%B0%E9%9C%87%E8%87%B41644%E6%AD%BB3408%E4%BC%A4%23" target="weibo">
 缅甸地震致1644死3408伤（热度：333516）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%8A%E5%AE%87%E9%99%88%E4%B8%BD%E5%90%9B%E5%9B%9B%E5%85%AC%E5%B8%AE%E5%94%B1%23" target="weibo">
+陈昊宇陈丽君四公帮唱（热度：329031）
 </a>
 </li>
 
@@ -1665,12 +1695,6 @@ newjeans是高层内斗的牺牲品吗（热度：244433）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%8A%E5%AE%87%E9%99%88%E4%B8%BD%E5%90%9B%E5%9B%9B%E5%85%AC%E5%B8%AE%E5%94%B1%23" target="weibo">
-陈昊宇陈丽君四公帮唱（热度：233113）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E4%BB%A5%E4%B8%BA%E5%BC%A0%E5%9B%BD%E7%AB%8B%E4%B8%8A%E6%81%8B%E7%BB%BC%E4%BA%86%23" target="weibo">
 起猛了以为张国立上恋综了（热度：233032）
 </a>
@@ -1809,12 +1833,6 @@ newjeans是高层内斗的牺牲品吗（热度：244433）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E5%95%A5%E6%97%B6%E5%80%99%E8%83%BD%E5%9B%9E%E5%BD%92%E6%AD%A3%E5%B8%B8%E5%AE%A1%E7%BE%8E%23" target="weibo">
-女装啥时候能回归正常审美（热度：214728）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%90%E5%8A%A8%E5%8D%8A%E5%B0%8F%E6%97%B6%E4%BB%A5%E4%B8%8A%E6%89%8D%E8%83%BD%E5%88%86%E8%A7%A3%E8%84%82%E8%82%AA%23" target="weibo">
 运动半小时以上才能分解脂肪（热度：214065）
 </a>
@@ -1847,12 +1865,6 @@ newjeans是高层内斗的牺牲品吗（热度：244433）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8F%9E%E4%B8%B98%E5%B9%B4%E5%89%8D%E7%9A%84%E7%86%8A%E7%8C%AB%E5%A5%97%E8%A3%85%E6%AD%A3%E4%B8%AD%E7%9C%89%E5%BF%83%23" target="weibo">
 王珞丹8年前的熊猫套装正中眉心（热度：211544）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%84%9A%E4%BA%BA%E8%8A%82%E6%96%87%E6%A1%88%23" target="weibo">
-愚人节文案（热度：211485）
 </a>
 </li>
 
@@ -3105,6 +3117,12 @@ Faye曼谷见面会（热度：146023）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%234%E6%9C%88%E4%B8%80%E8%B5%B7%E5%8A%A0%E6%B2%B9%23" target="weibo">
+4月一起加油（热度：141740）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E9%95%BF%E6%9C%9F%E5%85%A8%E6%96%B9%E4%BD%8D%E4%BB%8B%E5%85%A5%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%23" target="weibo">
 美国被曝长期全方位介入俄乌冲突（热度：141611）
 </a>
@@ -3233,6 +3251,12 @@ LGD春季赛第五周冠军（热度：136307）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%89%E6%89%8B%E5%90%90%E6%A7%BD%E6%AD%A6%E5%BD%93%E5%B1%B1%E8%B6%8A%E9%87%8E%E8%B5%9B%E5%8F%91%E4%B8%B4%E6%9C%9F%E9%A3%9F%E5%93%81%23" target="weibo">
 选手吐槽武当山越野赛发临期食品（热度：135637）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%BD%93%E8%AF%84%E5%A7%94%E4%BA%86%23" target="weibo">
+檀健次当评委了（热度：135625）
 </a>
 </li>
 
@@ -4053,12 +4077,6 @@ SM新男团预告（热度：100567）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%BD%93%E8%AF%84%E5%A7%94%E4%BA%86%23" target="weibo">
-檀健次当评委了（热度：99258）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E7%9A%84%E5%A4%A7%E4%BA%BA2%23" target="weibo">
 快乐的大人2（热度：99130）
 </a>
@@ -4341,6 +4359,12 @@ KSG锁定第三轮A组（热度：91919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%92%8C%E4%BD%A0%E5%8E%BB%E5%9B%9B%E6%9C%88%E7%9A%84%E6%98%A5%E5%A4%A9%E9%87%8C%E5%9D%90%E5%9D%90%23" target="weibo">
+想和你去四月的春天里坐坐（热度：80831）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E5%9C%A8%E6%AD%A6%E6%B1%89%E7%A9%BF%E4%B8%8A%E4%BA%86%E6%A8%B1%E8%8A%B1%E7%B2%89%23" target="weibo">
 苏醒在武汉穿上了樱花粉（热度：79904）
 </a>
@@ -4461,6 +4485,12 @@ A股交易时间缩短30分钟为假消息（热度：75937）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%843%E6%9C%88%E5%85%A8%E7%BD%91%E6%92%AD%E6%94%BE%E5%86%A0%E5%86%9B%23" target="weibo">
+难哄3月全网播放冠军（热度：70980）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%234%E5%88%86%E9%92%9F%E6%84%9F%E5%8F%97%E5%B9%BF%E8%A5%BF%E7%9A%84%E5%A5%BD%E5%98%A2%23" target="weibo">
 4分钟感受广西的好嘢（热度：70206）
 </a>
@@ -4511,6 +4541,12 @@ A股交易时间缩短30分钟为假消息（热度：75937）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%B9%BF%E8%A5%BF%E4%B8%89%E6%9C%88%E4%B8%89%E6%B0%91%E6%97%8F%E9%A3%8E%E8%90%8C%E5%A8%83%E8%90%8C%E5%8C%96%E4%BA%86%23" target="weibo">
 被广西三月三民族风萌娃萌化了（热度：65590）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%97%A5%E5%A3%81%E7%BA%B8%23" target="weibo">
+春日壁纸（热度：65469）
 </a>
 </li>
 
@@ -4613,6 +4649,12 @@ CBA排名（热度：64301）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%E6%82%BC%E5%BF%B5%E7%90%86%E6%9F%A5%E5%BE%B7%E8%AF%BA%E9%A1%BF%23" target="weibo">
 成龙悼念理查德诺顿（热度：59052）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E2%E5%B0%86%E4%BB%8E%E5%BD%B1%E9%99%A2%E4%B8%8B%E6%98%A0%23" target="weibo">
+封神2将从影院下映（热度：58627）
 </a>
 </li>
 
