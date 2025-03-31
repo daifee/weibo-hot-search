@@ -1,14 +1,22 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743386156134,
+  "endTime": 1743387490385,
   "band_list": [
     {
       "raw_hot": 2503187,
-      "num": 302148,
+      "num": 396344,
       "word": "一直对月薪三万没概念直到换算成天",
       "onboard_time": 1743382162,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1601186,
+      "num": 1601186,
+      "word": "店主接到近8吨毛肚订单直接报警",
+      "onboard_time": 1743385821,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1231445,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1160305,
-      "num": 301930,
+      "num": 394062,
       "word": "李惠利拒绝给劣迹艺人鼓掌",
       "onboard_time": 1743381981,
       "rank": 11,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1053410,
-      "num": 501821,
+      "num": 811271,
       "word": "赵露思综艺",
       "onboard_time": 1743381561,
       "rank": 3,
@@ -40,6 +48,14 @@
       "word": "吴彦祖发文谴责飞机上光脚踩座椅乘客",
       "onboard_time": 1743344963,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 890964,
+      "num": 391786,
+      "word": "雪莉恨自己长得漂亮",
+      "onboard_time": 1743385520,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -67,6 +83,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 738421,
+      "num": 738421,
+      "word": "雷军把车的价格打下来后网友破防了",
+      "onboard_time": 1743385821,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 706003,
+      "num": 706003,
+      "word": "哪吒2距全球第4就差10亿了",
+      "onboard_time": 1743385641,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 654976,
       "num": 654976,
       "word": "赴缅甸中国公羊救援队发声",
@@ -89,14 +121,6 @@
       "onboard_time": 1743380660,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 465890,
-      "num": 301405,
-      "word": "雪莉恨自己长得漂亮",
-      "onboard_time": 1743385520,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 454305,
@@ -123,19 +147,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 366117,
-      "num": 366117,
+      "raw_hot": 398650,
+      "num": 398650,
+      "word": "枭起青壤",
+      "onboard_time": 1743385160,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 390298,
+      "num": 390298,
       "word": "中国救援队救出一被埋60小时孩子",
       "onboard_time": 1743378079,
       "rank": 6,
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 333553,
-      "num": 333553,
-      "word": "枭起青壤",
-      "onboard_time": 1743385160,
-      "rank": 7,
+      "raw_hot": 342132,
+      "num": 342132,
+      "word": "藏海传杀青即将上线",
+      "onboard_time": 1743384623,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -163,14 +195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 299471,
-      "num": 299471,
-      "word": "藏海传杀青即将上线",
-      "onboard_time": 1743384623,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 292621,
       "num": 292621,
       "word": "甲亢哥尊重科比拒绝抽象",
@@ -193,6 +217,14 @@
       "onboard_time": 1743343463,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249636,
+      "num": 249636,
+      "word": "三月三是什么节",
+      "onboard_time": 1743386360,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239318,
@@ -219,20 +251,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 232129,
+      "num": 232129,
+      "word": "金价",
+      "onboard_time": 1743386120,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 230080,
       "num": 230080,
       "word": "缅甸华人称一家五口仅2孩子逃生",
       "onboard_time": 1743343885,
       "rank": 7,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 222269,
-      "num": 222269,
-      "word": "店主接到近8吨毛肚订单直接报警",
-      "onboard_time": 1743385821,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216235,
@@ -249,14 +281,6 @@
       "onboard_time": 1743349339,
       "rank": 9,
       "category": "网红"
-    },
-    {
-      "raw_hot": 208757,
-      "num": 226841,
-      "word": "哪吒2距全球第4就差10亿了",
-      "onboard_time": 1743385641,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 196877,
@@ -291,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171420,
+      "num": 171420,
+      "word": "开斋节",
+      "onboard_time": 1743383481,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170501,
       "num": 176901,
       "word": "特朗普威胁轰炸伊朗",
@@ -304,6 +336,14 @@
       "word": "大学生模仿春晚机器人跳舞获一等奖",
       "onboard_time": 1743384740,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161352,
+      "num": 156387,
+      "word": "北京交警解读掉头要不要等红灯",
+      "onboard_time": 1743384982,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -329,22 +369,6 @@
       "onboard_time": 1743342563,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156387,
-      "num": 156387,
-      "word": "北京交警解读掉头要不要等红灯",
-      "onboard_time": 1743384982,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156079,
-      "num": 156079,
-      "word": "雷军把车的价格打下来后网友破防了",
-      "onboard_time": 1743385821,
-      "rank": 32,
-      "category": "汽车"
     },
     {
       "raw_hot": 155788,
@@ -403,8 +427,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138175,
+      "num": 138175,
+      "word": "浙江小百花越剧院发声明",
+      "onboard_time": 1743387020,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136661,
-      "num": 167897,
+      "num": 180823,
       "word": "甲亢哥刚到成都就被贴脸开大",
       "onboard_time": 1743382820,
       "rank": 28,
@@ -451,27 +483,27 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117764,
-      "num": 117764,
+      "raw_hot": 118353,
+      "num": 145523,
       "word": "虞书欣何与双轨杀青路透",
       "onboard_time": 1743384260,
       "rank": 37,
       "category": "剧集"
     },
     {
-      "raw_hot": 114847,
-      "num": 114847,
+      "raw_hot": 115210,
+      "num": 115210,
       "word": "科研人员复原1.6万年前人类面貌",
       "onboard_time": 1743377419,
       "rank": 40,
       "category": "科学科普"
     },
     {
-      "raw_hot": 112544,
-      "num": 112544,
-      "word": "开斋节",
-      "onboard_time": 1743383481,
-      "rank": 39,
+      "raw_hot": 114505,
+      "num": 114505,
+      "word": "500万买的绿地洋房成坟景房",
+      "onboard_time": 1743387200,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -539,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103899,
+      "num": 103899,
+      "word": "围棋子竟然是手工滴出来的",
+      "onboard_time": 1743386840,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103571,
       "num": 103571,
       "word": "中国救援队救出一被困近60小时女性",
@@ -555,7 +595,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99945,
+      "raw_hot": 100567,
       "num": 108011,
       "word": "SM新男团预告",
       "onboard_time": 1743376999,
@@ -587,6 +627,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96681,
+      "num": 96681,
+      "word": "王鹤棣重启健身计划",
+      "onboard_time": 1743386241,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95577,
+      "num": 95577,
+      "word": "念无双黑莲花爱上治愈系神女",
+      "onboard_time": 1743387441,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94119,
       "num": 106030,
       "word": "成龙御用反派去世",
@@ -603,19 +659,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91681,
+      "num": 398571,
+      "word": "周一广西人继续放假过三月三",
+      "onboard_time": 1743386662,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90666,
       "num": 90666,
       "word": "金价又双叒涨啦",
       "onboard_time": 1743377780,
       "rank": 41,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 89203,
-      "num": 89203,
-      "word": "金价",
-      "onboard_time": 1743386120,
-      "rank": 48,
       "category": "财经"
     },
     {
@@ -771,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65590,
+      "num": 175237,
+      "word": "被广西三月三民族风萌娃萌化了",
+      "onboard_time": 1743387380,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63935,
       "num": 63935,
       "word": "AJ贴脸开团Doinb",
@@ -923,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38004,
+      "num": 197817,
+      "word": "四大银行合计拟募资5200亿",
+      "onboard_time": 1743381981,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 34131,
       "num": 49241,
       "word": "PCL2025",
@@ -964,7 +1036,7 @@
     },
     {
       "raw_hot": 18482,
-      "num": 513322,
+      "num": 813487,
       "word": "2025中国网络媒体论坛",
       "onboard_time": 1743221722,
       "rank": 2,
