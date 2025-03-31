@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743416839894,
+  "endTime": 1743417911156,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -48,6 +48,14 @@
       "word": "白敬亭宋轶都去看了樱花",
       "onboard_time": 1743393081,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1690705,
+      "num": 243349,
+      "word": "金秀贤一边哭一边喝水",
+      "onboard_time": 1743417862,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -387,20 +395,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 482448,
+      "num": 482448,
+      "word": "10元盒饭姐喊话浪费顾客一辈子别来",
+      "onboard_time": 1743411145,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 482290,
       "num": 439144,
       "word": "房琪 彭小苒",
       "onboard_time": 1743406942,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 479385,
-      "num": 479385,
-      "word": "10元盒饭姐喊话浪费顾客一辈子别来",
-      "onboard_time": 1743411145,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 472712,
@@ -555,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342919,
+      "num": 326985,
+      "word": "疑似沈月亚洲最美面孔脱敏训练",
+      "onboard_time": 1743414202,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342132,
       "num": 342132,
       "word": "藏海传杀青即将上线",
@@ -577,14 +593,6 @@
       "onboard_time": 1743391882,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 326985,
-      "num": 326985,
-      "word": "疑似沈月亚洲最美面孔脱敏训练",
-      "onboard_time": 1743414202,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 325989,
@@ -617,6 +625,14 @@
       "onboard_time": 1743415043,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 314322,
+      "num": 314322,
+      "word": "慎买带有QS标志产品",
+      "onboard_time": 1743413244,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 314233,
@@ -691,6 +707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 278229,
+      "num": 224107,
+      "word": "王者荣耀",
+      "onboard_time": 1743416903,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 277807,
       "num": 246645,
       "word": "黄奕女儿都这么大了",
@@ -723,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269787,
-      "num": 309990,
-      "word": "慎买带有QS标志产品",
-      "onboard_time": 1743413244,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269727,
       "num": 317184,
       "word": "为什么现在老师都不敢管学生了",
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 268779,
-      "num": 239277,
+      "num": 242872,
       "word": "by2十六年后再穿出道战衣",
       "onboard_time": 1743415223,
       "rank": 22,
@@ -777,6 +793,14 @@
       "onboard_time": 1743401601,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 251112,
+      "num": 251112,
+      "word": "一诺FMVP皮肤即将上线",
+      "onboard_time": 1743416723,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 242821,
@@ -1011,6 +1035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 195986,
+      "num": 195986,
+      "word": "苹果演唱会模式",
+      "onboard_time": 1743416843,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 195228,
       "num": 195228,
       "word": "乔欣晒和姐姐香港游vlog",
@@ -1035,6 +1067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194063,
+      "num": 211072,
+      "word": "郭德纲说我演不过秦霄贤",
+      "onboard_time": 1743417262,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194026,
       "num": 194026,
       "word": "李梦可以一天三顿都吃老友粉",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1743391521,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 193084,
+      "num": 257947,
+      "word": "缅甸男子求助中国救援队探测出生命",
+      "onboard_time": 1743415882,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 192942,
@@ -1083,12 +1131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188143,
+      "num": 210158,
+      "word": "雁回时",
+      "onboard_time": 1743417023,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185280,
       "num": 185280,
       "word": "侯佩岑好会爱人",
       "onboard_time": 1743409344,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185004,
+      "num": 185004,
+      "word": "原神爱可菲",
+      "onboard_time": 1743417382,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 183607,
@@ -1113,6 +1177,14 @@
       "onboard_time": 1743412285,
       "rank": 38,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 179497,
+      "num": 179497,
+      "word": "李现又去公园打鸟了",
+      "onboard_time": 1743416362,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 178078,
@@ -1379,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148874,
+      "num": 148874,
+      "word": "2025国家助学贷款免息",
+      "onboard_time": 1743416123,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 148866,
       "num": 245938,
       "word": "雁回时全靠两位陪嫁家才没散",
@@ -1409,14 +1489,6 @@
       "onboard_time": 1743413544,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146805,
-      "num": 146805,
-      "word": "李现又去公园打鸟了",
-      "onboard_time": 1743416362,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 145925,
@@ -1523,12 +1595,12 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 138527,
-      "num": 138527,
-      "word": "一诺FMVP皮肤即将上线",
-      "onboard_time": 1743416723,
-      "rank": 41,
-      "category": "电竞"
+      "raw_hot": 138671,
+      "num": 138671,
+      "word": "原神",
+      "onboard_time": 1743417623,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 136960,
@@ -1785,14 +1857,6 @@
       "onboard_time": 1743393020,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118012,
-      "num": 146831,
-      "word": "2025国家助学贷款免息",
-      "onboard_time": 1743416123,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 115210,
@@ -2220,7 +2284,7 @@
     },
     {
       "raw_hot": 69807,
-      "num": 147575,
+      "num": 225272,
       "word": "王者荣耀全新英雄团",
       "onboard_time": 1743416782,
       "rank": 36,
@@ -2451,14 +2515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51847,
-      "num": 257947,
-      "word": "缅甸男子求助中国救援队探测出生命",
-      "onboard_time": 1743415882,
-      "rank": 14,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 50824,
       "num": 140205,
       "word": "免费会员就是香",
@@ -2643,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25123,
+      "num": 231712,
+      "word": "有人撤离曼德勒后仍不敢睡觉坐一宿",
+      "onboard_time": 1743416603,
+      "rank": 25,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 23399,
       "num": 979475,
       "word": "2025中国网络媒体论坛",
@@ -2683,6 +2747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20046,
+      "num": 243943,
+      "word": "学校配专人监控喊话下课",
+      "onboard_time": 1743416962,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19176,
       "num": 248368,
       "word": "如何走出AI知识幻觉",
@@ -2699,19 +2771,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18020,
-      "num": 198367,
-      "word": "有人撤离曼德勒后仍不敢睡觉坐一宿",
-      "onboard_time": 1743416603,
-      "rank": 25,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 17690,
       "num": 29617,
       "word": "受害者奶奶曾认为孩子被拐是自己的错",
       "onboard_time": 1743362416,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17293,
+      "num": 249872,
+      "word": "男子用非遗茶杯吹奏广西民歌",
+      "onboard_time": 1743417262,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2753,6 +2825,14 @@
       "onboard_time": 1743355876,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12702,
+      "num": 153461,
+      "word": "大阪世博会吉祥物的捷克亲兄弟",
+      "onboard_time": 1743417803,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 12596,
@@ -2815,6 +2895,9 @@
     },
     {
       "word": "#这是我们要建成的科技强国#"
+    },
+    {
+      "word": "#中共中央政治局召开会议#"
     }
   ]
 }
