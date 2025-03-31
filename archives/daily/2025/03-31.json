@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743425336596,
+  "endTime": 1743426238889,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -89,6 +89,14 @@
       "onboard_time": 1743385821,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1601128,
+      "num": 264359,
+      "word": "金秀贤拍的金赛纶睡觉照片",
+      "onboard_time": 1743425363,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1594507,
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 749628,
+      "num": 434919,
+      "word": "张檬称月子要坐满100天",
+      "onboard_time": 1743423144,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 742816,
       "num": 742816,
       "word": "缅甸地震脚筋断裂被救女子发声",
@@ -385,14 +401,6 @@
       "onboard_time": 1743379460,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 585388,
-      "num": 434919,
-      "word": "张檬称月子要坐满100天",
-      "onboard_time": 1743423144,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 571754,
@@ -523,6 +531,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 441764,
+      "num": 441764,
+      "word": "乌尔善发文",
+      "onboard_time": 1743422423,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 434696,
       "num": 401527,
       "word": "新秀王安冉离婚原因",
@@ -545,14 +561,6 @@
       "onboard_time": 1743377840,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 431028,
-      "num": 431028,
-      "word": "乌尔善发文",
-      "onboard_time": 1743422423,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 422654,
@@ -643,6 +651,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 356062,
+      "num": 356062,
+      "word": "李昀锐好标准的体育生下楼梯",
+      "onboard_time": 1743423747,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342132,
       "num": 342132,
       "word": "藏海传杀青即将上线",
@@ -665,6 +681,14 @@
       "onboard_time": 1743419542,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 333942,
+      "num": 333942,
+      "word": "横店变竖店了",
+      "onboard_time": 1743422661,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333874,
@@ -691,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 321640,
+      "num": 182131,
+      "word": "梁洁造型师",
+      "onboard_time": 1743425123,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321586,
       "num": 321586,
       "word": "胡静给所有女生的建议",
@@ -705,6 +737,14 @@
       "onboard_time": 1743380960,
       "rank": 8,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 320084,
+      "num": 320084,
+      "word": "国家标准住宅项目规范发布",
+      "onboard_time": 1743422304,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 314322,
@@ -779,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283145,
+      "num": 283145,
+      "word": "入室抢婴案奶奶因自责12年独自过春节",
+      "onboard_time": 1743422481,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281875,
       "num": 281875,
       "word": "张杰鸟巢演唱会抢票",
@@ -835,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272188,
-      "num": 272188,
-      "word": "入室抢婴案奶奶因自责12年独自过春节",
-      "onboard_time": 1743422481,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269727,
       "num": 317184,
       "word": "为什么现在老师都不敢管学生了",
@@ -859,12 +899,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 259705,
-      "num": 259705,
-      "word": "李昀锐好标准的体育生下楼梯",
-      "onboard_time": 1743423747,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 266671,
+      "num": 266671,
+      "word": "雁回时反转",
+      "onboard_time": 1743423443,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 256970,
@@ -897,14 +937,6 @@
       "onboard_time": 1743401601,
       "rank": 48,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 253030,
-      "num": 253030,
-      "word": "横店变竖店了",
-      "onboard_time": 1743422661,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 251350,
@@ -947,14 +979,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 237619,
-      "num": 237619,
-      "word": "国家标准住宅项目规范发布",
-      "onboard_time": 1743422304,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236920,
       "num": 236920,
       "word": "赵雅芝儿子",
@@ -995,6 +1019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 231473,
+      "num": 231473,
+      "word": "找工作不要限制于招聘app",
+      "onboard_time": 1743421164,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230080,
       "num": 230080,
       "word": "缅甸华人称一家五口仅2孩子逃生",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1743418641,
       "rank": 30,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 223194,
-      "num": 223194,
-      "word": "雁回时反转",
-      "onboard_time": 1743423443,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 222387,
@@ -1147,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201014,
+      "num": 201014,
+      "word": "4层及以上住宅设电梯",
+      "onboard_time": 1743423865,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201004,
       "num": 232935,
       "word": "檀健次官宣加盟北影节",
@@ -1193,6 +1225,14 @@
       "onboard_time": 1743385821,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 196648,
+      "num": 196648,
+      "word": "辽宁男篮vs山东男篮",
+      "onboard_time": 1743425363,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 195228,
@@ -1273,14 +1313,6 @@
       "onboard_time": 1743403701,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190508,
-      "num": 190508,
-      "word": "找工作不要限制于招聘app",
-      "onboard_time": 1743421164,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 189754,
@@ -1403,14 +1435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 174763,
-      "num": 174763,
-      "word": "4层及以上住宅设电梯",
-      "onboard_time": 1743423865,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174513,
       "num": 171077,
       "word": "虞书欣黄裙大片",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1743396741,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165245,
+      "num": 165245,
+      "word": "林孝埈每天主打一个快乐",
+      "onboard_time": 1743425424,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 163321,
@@ -1787,14 +1819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144009,
-      "num": 144009,
-      "word": "梁洁造型师",
-      "onboard_time": 1743425123,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143662,
       "num": 143662,
       "word": "海棠花",
@@ -1849,6 +1873,14 @@
       "onboard_time": 1743376698,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 141267,
+      "num": 141267,
+      "word": "宋旻浩承认服役期间擅自离岗",
+      "onboard_time": 1743425183,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 140737,
@@ -2187,6 +2219,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 114459,
+      "num": 114459,
+      "word": "愚人节文案",
+      "onboard_time": 1743425243,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 114395,
+      "num": 114395,
+      "word": "站姐愚人节团建预告",
+      "onboard_time": 1743425964,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114084,
       "num": 114084,
       "word": "苹果被曝正在开发AI医生",
@@ -2281,14 +2329,6 @@
       "onboard_time": 1743350422,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107017,
-      "num": 107017,
-      "word": "宋旻浩承认服役期间擅自离岗",
-      "onboard_time": 1743425183,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 105051,
@@ -2393,6 +2433,14 @@
       "onboard_time": 1743371294,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98873,
+      "num": 98873,
+      "word": "bjd娃娃",
+      "onboard_time": 1743422241,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 97920,
@@ -2609,6 +2657,14 @@
       "onboard_time": 1743351680,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72376,
+      "num": 128289,
+      "word": "甲亢哥吃皮蛋",
+      "onboard_time": 1743425424,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 72199,
@@ -3083,6 +3139,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 29854,
+      "num": 155531,
+      "word": "专家称不排除金价有高位回落风险",
+      "onboard_time": 1743425003,
+      "rank": 29,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 27869,
       "num": 253882,
       "word": "成本30元阿胶4980元卖老人",
@@ -3129,6 +3193,14 @@
       "onboard_time": 1743423322,
       "rank": 43,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 23822,
+      "num": 183547,
+      "word": "GALA多项数据小组赛第一",
+      "onboard_time": 1743424404,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 23399,
@@ -3187,6 +3259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19799,
+      "num": 184270,
+      "word": "澳门世界杯倒计时两周",
+      "onboard_time": 1743424346,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19176,
       "num": 248368,
       "word": "如何走出AI知识幻觉",
@@ -3201,22 +3281,6 @@
       "onboard_time": 1743406221,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18851,
-      "num": 155531,
-      "word": "专家称不排除金价有高位回落风险",
-      "onboard_time": 1743425003,
-      "rank": 29,
-      "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 18422,
-      "num": 183547,
-      "word": "GALA多项数据小组赛第一",
-      "onboard_time": 1743424404,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 17690,
@@ -3289,14 +3353,6 @@
       "onboard_time": 1743363195,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12281,
-      "num": 184270,
-      "word": "澳门世界杯倒计时两周",
-      "onboard_time": 1743424346,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 10363,

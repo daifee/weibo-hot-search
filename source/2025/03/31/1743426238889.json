@@ -1,0 +1,410 @@
+{
+  "runTime": 1743426238889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 889957,
+        "num": 1142393,
+        "word": "河南一枯井发现近百名烈士遗骸",
+        "onboard_time": 1743419122,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441764,
+        "num": 441764,
+        "word": "乌尔善发文",
+        "onboard_time": 1743422423,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13979,
+        "num": 425738,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 749628,
+        "num": 418763,
+        "word": "张檬称月子要坐满100天",
+        "onboard_time": 1743423144,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411210,
+        "num": 411210,
+        "word": "10元盒饭姐喊话浪费顾客一辈子别来",
+        "onboard_time": 1743411145,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397349,
+        "num": 397349,
+        "word": "好房子的新标准来了",
+        "onboard_time": 1743422304,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356062,
+        "num": 356062,
+        "word": "李昀锐好标准的体育生下楼梯",
+        "onboard_time": 1743423747,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333942,
+        "num": 333942,
+        "word": "横店变竖店了",
+        "onboard_time": 1743422661,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324674,
+        "num": 324674,
+        "word": "甲亢哥成都行直播",
+        "onboard_time": 1743407121,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 320084,
+        "num": 320084,
+        "word": "国家标准住宅项目规范发布",
+        "onboard_time": 1743422304,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7986837,
+        "num": 7986837,
+        "word": "金秀贤和未成年金赛纶约会视频",
+        "onboard_time": 1743422722,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754539,
+        "num": 309985,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1743404000,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407361,
+        "num": 304000,
+        "word": "男子肝癌晚期只打一针获新生",
+        "onboard_time": 1743400582,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283145,
+        "num": 283145,
+        "word": "入室抢婴案奶奶因自责12年独自过春节",
+        "onboard_time": 1743422481,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266671,
+        "num": 266671,
+        "word": "雁回时反转",
+        "onboard_time": 1743423443,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1601128,
+        "num": 264359,
+        "word": "金秀贤拍的金赛纶睡觉照片",
+        "onboard_time": 1743425363,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255803,
+        "num": 255803,
+        "word": "韩国庄仕洋",
+        "onboard_time": 1743413604,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231473,
+        "num": 231473,
+        "word": "找工作不要限制于招聘app",
+        "onboard_time": 1743421164,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201014,
+        "num": 201014,
+        "word": "4层及以上住宅设电梯",
+        "onboard_time": 1743423865,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196648,
+        "num": 196648,
+        "word": "辽宁男篮vs山东男篮",
+        "onboard_time": 1743425363,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321640,
+        "num": 182131,
+        "word": "梁洁造型师",
+        "onboard_time": 1743425123,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165245,
+        "num": 165245,
+        "word": "林孝埈每天主打一个快乐",
+        "onboard_time": 1743425424,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155840,
+        "num": 155840,
+        "word": "提高墙体楼板隔声性能",
+        "onboard_time": 1743422602,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146038,
+        "num": 146038,
+        "word": "疑似沈月亚洲最美面孔脱敏训练",
+        "onboard_time": 1743414202,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152651,
+        "num": 144196,
+        "word": "日本特大地震若发生或致近30万人死亡",
+        "onboard_time": 1743407423,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141267,
+        "num": 141267,
+        "word": "宋旻浩承认服役期间擅自离岗",
+        "onboard_time": 1743425183,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138765,
+        "num": 138765,
+        "word": "黄子韬徐艺洋睡觉前要对暗号",
+        "onboard_time": 1743407121,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129733,
+        "num": 129733,
+        "word": "雁回时你要我哭死吗",
+        "onboard_time": 1743422661,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29854,
+        "num": 128657,
+        "word": "专家称不排除金价有高位回落风险",
+        "onboard_time": 1743425003,
+        "rank": 28,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 72376,
+        "num": 128289,
+        "word": "甲亢哥吃皮蛋",
+        "onboard_time": 1743425424,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128149,
+        "num": 128149,
+        "word": "CBA",
+        "onboard_time": 1743424703,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128085,
+        "num": 128085,
+        "word": "时代少年团直播",
+        "onboard_time": 1743422902,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126921,
+        "num": 126921,
+        "word": "马吟吟被宋妍霏迷成胚胎了",
+        "onboard_time": 1743423923,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125234,
+        "num": 125234,
+        "word": "50万竟然买了4辆宝马",
+        "onboard_time": 1743415223,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124968,
+        "num": 124968,
+        "word": "房琪 彭小苒",
+        "onboard_time": 1743406942,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117000,
+        "num": 117000,
+        "word": "BLACKPINK未公开的物料",
+        "onboard_time": 1743420501,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116655,
+        "num": 116655,
+        "word": "公孙离FMVP皮肤",
+        "onboard_time": 1743419243,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116456,
+        "num": 116456,
+        "word": "960以身试范不要随便摆摊创业",
+        "onboard_time": 1743424463,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114463,
+        "num": 114463,
+        "word": "缅甸地震已致2056人死亡",
+        "onboard_time": 1743419542,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 114459,
+        "num": 114459,
+        "word": "愚人节文案",
+        "onboard_time": 1743425243,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114395,
+        "num": 114395,
+        "word": "站姐愚人节团建预告",
+        "onboard_time": 1743425964,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23822,
+        "num": 109852,
+        "word": "GALA多项数据小组赛第一",
+        "onboard_time": 1743424404,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108278,
+        "num": 108278,
+        "word": "苹果演唱会模式",
+        "onboard_time": 1743416843,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102056,
+        "num": 102056,
+        "word": "清明档预售前三名",
+        "onboard_time": 1743408384,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98894,
+        "num": 98894,
+        "word": "月亮",
+        "onboard_time": 1743424823,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98873,
+        "num": 98873,
+        "word": "bjd娃娃",
+        "onboard_time": 1743422241,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19799,
+        "num": 98443,
+        "word": "澳门世界杯倒计时两周",
+        "onboard_time": 1743424346,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98133,
+        "num": 98133,
+        "word": "周雨彤去冰岛了",
+        "onboard_time": 1743422062,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97087,
+        "num": 97087,
+        "word": "赤脚鬼",
+        "onboard_time": 1743419062,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93115,
+        "num": 93115,
+        "word": "头像玄学",
+        "onboard_time": 1743405681,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
