@@ -1,0 +1,410 @@
+{
+  "runTime": 1743395350911,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1571591,
+        "num": 1571591,
+        "word": "店主接到近8吨毛肚订单直接报警",
+        "onboard_time": 1743385821,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 989252,
+        "num": 989252,
+        "word": "官方辟谣指鼠为鸭局长升职",
+        "onboard_time": 1743392301,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 18760,
+        "num": 878515,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 860592,
+        "num": 860592,
+        "word": "刘涛听粉丝的选了红色的车",
+        "onboard_time": 1743392961,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776725,
+        "num": 776725,
+        "word": "虞书欣往导演头上泼水",
+        "onboard_time": 1743392719,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531211,
+        "num": 531211,
+        "word": "缅甸强震已致1名中国公民遇难",
+        "onboard_time": 1743393681,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 695918,
+        "num": 531084,
+        "word": "哪吒2距全球第4就差10亿了",
+        "onboard_time": 1743385641,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 530579,
+        "num": 530579,
+        "word": "颜安和张丹峰儿子是同学",
+        "onboard_time": 1743390982,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477184,
+        "num": 477184,
+        "word": "雷军把车的价格打下来后网友破防了",
+        "onboard_time": 1743385821,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 321936,
+        "num": 321936,
+        "word": "爸爸坚持带重度孤独症孩子出门13年后",
+        "onboard_time": 1743388821,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1676441,
+        "num": 320833,
+        "word": "白敬亭宋轶都去看了樱花",
+        "onboard_time": 1743393081,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1204984,
+        "num": 320689,
+        "word": "一直对月薪三万没概念直到换算成天",
+        "onboard_time": 1743382162,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 703582,
+        "num": 319269,
+        "word": "雪莉恨自己长得漂亮",
+        "onboard_time": 1743385520,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489273,
+        "num": 317093,
+        "word": "宋茜复刻金发梦回Victoria",
+        "onboard_time": 1743393620,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 98052,
+        "num": 316528,
+        "word": "淘宝预测2035有望吃上猛犸象肉",
+        "onboard_time": 1743393681,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 464042,
+        "num": 315629,
+        "word": "李惠利拒绝给劣迹艺人鼓掌",
+        "onboard_time": 1743381981,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314597,
+        "num": 314597,
+        "word": "沈腾抢马丽火腿肠",
+        "onboard_time": 1743391822,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65287,
+        "num": 301212,
+        "word": "肖战春夏清爽居家大片",
+        "onboard_time": 1743394521,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89492,
+        "num": 294914,
+        "word": "动手能力成为AI分水岭",
+        "onboard_time": 1743392359,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 59384,
+        "num": 293557,
+        "word": "多颗国产遥感卫星传回缅甸灾区影像",
+        "onboard_time": 1743394281,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 293407,
+        "num": 293407,
+        "word": "虞书欣到泰国七天请了三次客",
+        "onboard_time": 1743379460,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291544,
+        "num": 291544,
+        "word": "雪莉曾和名牌大学高材生庭外和解",
+        "onboard_time": 1743394883,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276448,
+        "num": 276448,
+        "word": "浙江小百花越剧院发声明",
+        "onboard_time": 1743387020,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273583,
+        "num": 273583,
+        "word": "三月三是什么节",
+        "onboard_time": 1743386360,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214060,
+        "num": 269821,
+        "word": "刘国正妻子谈王楚钦",
+        "onboard_time": 1743393560,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156417,
+        "num": 269771,
+        "word": "新款问界M9又开始圈粉明星",
+        "onboard_time": 1743394942,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 43312,
+        "num": 269746,
+        "word": "袁娅维张远柳爽温奕心合唱向往",
+        "onboard_time": 1743394883,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 269727,
+        "num": 269727,
+        "word": "为什么现在老师都不敢管学生了",
+        "onboard_time": 1743392001,
+        "rank": 27,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 148494,
+        "num": 268061,
+        "word": "黄奕 花朵裙",
+        "onboard_time": 1743393863,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22083,
+        "num": 267063,
+        "word": "传销陷阱诱捕娱乐圈底层牛马",
+        "onboard_time": 1743394040,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266747,
+        "num": 266747,
+        "word": "赵露思4月两场线下活动",
+        "onboard_time": 1743389060,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260916,
+        "num": 260916,
+        "word": "祝绪丹挑男友的方式很小众",
+        "onboard_time": 1743391882,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239681,
+        "num": 239681,
+        "word": "伊朗各地导弹已装入发射器",
+        "onboard_time": 1743392719,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237200,
+        "num": 237200,
+        "word": "门童粉丝",
+        "onboard_time": 1743394942,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229049,
+        "num": 229049,
+        "word": "张杰鸟巢演唱会抢票",
+        "onboard_time": 1743393921,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211724,
+        "num": 211724,
+        "word": "减肥一直没效果的原因找到了",
+        "onboard_time": 1743391579,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 191321,
+        "num": 191321,
+        "word": "新秀王安冉离婚原因",
+        "onboard_time": 1743387560,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180739,
+        "num": 180739,
+        "word": "优时颜 马柏全张康乐",
+        "onboard_time": 1743391941,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169395,
+        "num": 169395,
+        "word": "下月起这些区域禁止安装监控设备",
+        "onboard_time": 1743393982,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163771,
+        "num": 163771,
+        "word": "缅甸坍塌酒店被困女孩靠4瓶水存活",
+        "onboard_time": 1743380660,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96491,
+        "num": 163476,
+        "word": "特朗普称若不达成核协议将轰炸伊朗",
+        "onboard_time": 1743395302,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163321,
+        "num": 163321,
+        "word": "面向近3000万聋人的沉默骗局",
+        "onboard_time": 1743394222,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162421,
+        "num": 162421,
+        "word": "佟大为新剧太下饭了",
+        "onboard_time": 1743392120,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161010,
+        "num": 161010,
+        "word": "中国救援队在缅最新救援画面",
+        "onboard_time": 1743389720,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 158944,
+        "num": 158944,
+        "word": "杜兰特受伤",
+        "onboard_time": 1743390982,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151724,
+        "num": 151724,
+        "word": "指鼠为鸭局长已调离",
+        "onboard_time": 1743394702,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147231,
+        "num": 147231,
+        "word": "马吟吟学女团表情belike品如点痣",
+        "onboard_time": 1743395121,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147206,
+        "num": 147206,
+        "word": "距深圳市约170公里发现1亿吨油田",
+        "onboard_time": 1743377840,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144228,
+        "num": 144228,
+        "word": "在家门口装摄像头也可能涉侵权",
+        "onboard_time": 1743392541,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139801,
+        "num": 139801,
+        "word": "藏海传杀青即将上线",
+        "onboard_time": 1743384623,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的作风关系人心向背#"
+    }
+  }
+}
