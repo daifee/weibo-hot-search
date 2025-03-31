@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743446818979,
+  "endTime": 1743448830929,
   "band_list": [
     {
       "raw_hot": 2163339,
@@ -499,6 +499,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19314,
+      "num": 27207,
+      "word": "4月1日含义是81192",
+      "onboard_time": 1743447134,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17187,
+      "num": 28489,
+      "word": "美国又有一架飞机坠毁",
+      "onboard_time": 1743447015,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 15817,
       "num": 52103,
       "word": "马龙说全运会后还想参加比赛",
@@ -513,6 +529,14 @@
       "onboard_time": 1743446474,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11331,
+      "num": 27107,
+      "word": "湖南通报耒水流域铊浓度恢复正常",
+      "onboard_time": 1743447076,
+      "rank": 38,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
