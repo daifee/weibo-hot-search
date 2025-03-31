@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743410001710,
+  "endTime": 1743410784592,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3541216,
+      "num": 306479,
+      "word": "金秀贤仍否认与金赛纶未成年时交往",
+      "onboard_time": 1743409705,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3126539,
       "num": 3253079,
       "word": "汤加群岛7.3级地震",
       "onboard_time": 1743339381,
       "rank": 23,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 2996189,
-      "num": 282035,
-      "word": "金秀贤仍否认与金赛纶未成年时交往",
-      "onboard_time": 1743409705,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2920421,
@@ -249,6 +249,14 @@
       "onboard_time": 1743381561,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1021631,
+      "num": 301397,
+      "word": "影帝",
+      "onboard_time": 1743409044,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1010856,
@@ -635,6 +643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 604574,
+      "num": 604574,
+      "word": "日本特大地震若发生或致近30万人死亡",
+      "onboard_time": 1743407423,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 603374,
       "num": 603374,
       "word": "大使馆回应多名中国人护照被埋",
@@ -771,14 +787,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 533554,
-      "num": 533554,
-      "word": "日本特大地震若发生或致近30万人死亡",
-      "onboard_time": 1743407423,
-      "rank": 7,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 531522,
       "num": 531522,
       "word": "浪姐聊天记录",
@@ -793,14 +801,6 @@
       "onboard_time": 1743393681,
       "rank": 5,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 531161,
-      "num": 279487,
-      "word": "影帝",
-      "onboard_time": 1743409044,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 528841,
@@ -852,7 +852,7 @@
     },
     {
       "raw_hot": 482290,
-      "num": 276087,
+      "num": 439144,
       "word": "房琪 彭小苒",
       "onboard_time": 1743406942,
       "rank": 21,
@@ -956,7 +956,7 @@
     },
     {
       "raw_hot": 451252,
-      "num": 275560,
+      "num": 293535,
       "word": "甲亢哥成都行直播",
       "onboard_time": 1743407121,
       "rank": 22,
@@ -1363,6 +1363,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 325989,
+      "num": 282486,
+      "word": "清明档预售前三名",
+      "onboard_time": 1743408384,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 321586,
       "num": 321586,
       "word": "胡静给所有女生的建议",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1743318741,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 282486,
-      "num": 282486,
-      "word": "清明档预售前三名",
-      "onboard_time": 1743408384,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 281875,
@@ -1793,6 +1793,22 @@
       "onboard_time": 1743337882,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 236920,
+      "num": 236920,
+      "word": "赵雅芝儿子",
+      "onboard_time": 1743409646,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 236293,
+      "num": 236293,
+      "word": "在单位上班一定要沉得住气",
+      "onboard_time": 1743409764,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 233032,
@@ -2339,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188343,
+      "num": 284771,
+      "word": "中共中央政治局3月31日召开会议",
+      "onboard_time": 1743406100,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 188125,
       "num": 188125,
       "word": "张佳宁新剧纯恨女主",
@@ -2665,14 +2689,6 @@
       "onboard_time": 1743396741,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165338,
-      "num": 165338,
-      "word": "中共中央政治局3月31日召开会议",
-      "onboard_time": 1743406100,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 165022,
@@ -3003,28 +3019,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 151315,
-      "num": 151315,
-      "word": "赵雅芝儿子",
-      "onboard_time": 1743409646,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151228,
       "num": 253268,
       "word": "入室抢婴贩卖案受害者家属发声",
       "onboard_time": 1743345263,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150821,
-      "num": 150821,
-      "word": "在单位上班一定要沉得住气",
-      "onboard_time": 1743409764,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 150760,
@@ -3049,6 +3049,14 @@
       "onboard_time": 1743312690,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150116,
+      "num": 150116,
+      "word": "日本再发特大地震风险评估",
+      "onboard_time": 1743409764,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 149845,
@@ -3211,6 +3219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143662,
+      "num": 143662,
+      "word": "海棠花",
+      "onboard_time": 1743407001,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 143483,
       "num": 154036,
       "word": "一不小心闯入现实版莫奈花园",
@@ -3233,6 +3249,14 @@
       "onboard_time": 1743333082,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142494,
+      "num": 142494,
+      "word": "乔欣31岁了",
+      "onboard_time": 1743410365,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 142228,
@@ -3273,6 +3297,14 @@
       "onboard_time": 1743387200,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141858,
+      "num": 141858,
+      "word": "眼泪女王",
+      "onboard_time": 1743410664,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 141611,
@@ -3451,6 +3483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134708,
+      "num": 134708,
+      "word": "谁说三个人的友谊会拥挤了",
+      "onboard_time": 1743410365,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134479,
       "num": 209293,
       "word": "韩最严重山火涉事嫌疑人拒绝认罪",
@@ -3483,12 +3523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133047,
-      "num": 133047,
-      "word": "海棠花",
-      "onboard_time": 1743407001,
-      "rank": 46,
-      "category": "旅游"
+      "raw_hot": 132880,
+      "num": 132880,
+      "word": "华为2024年净利润626亿元",
+      "onboard_time": 1743410725,
+      "rank": 44,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 132741,
@@ -3499,12 +3539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132673,
-      "num": 132673,
-      "word": "日本再发特大地震风险评估",
-      "onboard_time": 1743409764,
-      "rank": 47,
-      "category": "海外新闻"
+      "raw_hot": 132651,
+      "num": 132651,
+      "word": "黄霄雲 原创",
+      "onboard_time": 1743410545,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 132474,
@@ -3785,6 +3825,14 @@
       "onboard_time": 1743391281,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120844,
+      "num": 120844,
+      "word": "华为发布2024年年报",
+      "onboard_time": 1743410725,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 120474,
@@ -4715,6 +4763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78194,
+      "num": 296125,
+      "word": "男婴被4人入室抢走主犯竟是邻居",
+      "onboard_time": 1743409885,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77799,
       "num": 301212,
       "word": "肖战春夏清爽居家大片",
@@ -4779,6 +4835,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 73105,
+      "num": 281795,
+      "word": "员工称拒绝店长安排后被针对",
+      "onboard_time": 1743408985,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72900,
       "num": 72900,
       "word": "宁艺卓清唱甜蜜蜜",
@@ -4825,6 +4889,14 @@
       "onboard_time": 1743390440,
       "rank": 33,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 67005,
+      "num": 287123,
+      "word": "一万种春天",
+      "onboard_time": 1743408204,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66410,
@@ -5027,14 +5099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54678,
-      "num": 279055,
-      "word": "一万种春天",
-      "onboard_time": 1743408204,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53984,
       "num": 476008,
       "word": "女子在废墟中扒开钢筋自救成功",
@@ -5107,14 +5171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47187,
-      "num": 150825,
-      "word": "男婴被4人入室抢走主犯竟是邻居",
-      "onboard_time": 1743409885,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46774,
       "num": 46774,
       "word": "12306上真的可以免费换火车票",
@@ -5153,6 +5209,14 @@
       "onboard_time": 1743354797,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43816,
+      "num": 296895,
+      "word": "便宜的盲盒真能开出高端数码产品吗",
+      "onboard_time": 1743409583,
+      "rank": 13,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 43312,
@@ -5251,20 +5315,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 35582,
-      "num": 278067,
-      "word": "员工称拒绝店长安排后被针对",
-      "onboard_time": 1743408985,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35353,
       "num": 917301,
       "word": "2025中国网络媒体论坛",
       "onboard_time": 1743221722,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34175,
+      "num": 150231,
+      "word": "这火箭坠毁拍的好唯美",
+      "onboard_time": 1743409764,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34131,
@@ -5387,20 +5451,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25851,
+      "num": 685768,
+      "word": "云岭天路春潮涌",
+      "onboard_time": 1743406221,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25627,
       "num": 389990,
       "word": "吴艳妮说我失去的一定要拿回来",
       "onboard_time": 1743317840,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25509,
-      "num": 685768,
-      "word": "云岭天路春潮涌",
-      "onboard_time": 1743406221,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25147,
@@ -5425,14 +5489,6 @@
       "onboard_time": 1743366913,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 22498,
-      "num": 280558,
-      "word": "便宜的盲盒真能开出高端数码产品吗",
-      "onboard_time": 1743409583,
-      "rank": 13,
-      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 22461,
@@ -5563,14 +5619,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 15574,
-      "num": 150231,
-      "word": "这火箭坠毁拍的好唯美",
-      "onboard_time": 1743409764,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 15414,
       "num": 29604,
       "word": "直击缅甸震中救援",
@@ -5641,6 +5689,14 @@
       "onboard_time": 1743299421,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9472,
+      "num": 152573,
+      "word": "机票代理水有多深",
+      "onboard_time": 1743410664,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9080,
