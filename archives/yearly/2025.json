@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743410784592,
+  "endTime": 1743413268519,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -631,6 +631,14 @@
       "num": 7927387,
       "word": "汪小菲说大S是我的家人",
       "onboard_time": 1738584151,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7905022,
+      "num": 7905022,
+      "word": "金秀贤起诉金赛纶家属赔偿120亿",
+      "onboard_time": 1743411324,
       "rank": 10,
       "category": "艺人"
     },
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740707118,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 2805866,
-      "num": 1016965,
-      "word": "何凯文实际成绩71分",
-      "onboard_time": 1741394541,
-      "rank": 3,
-      "category": "教育"
     }
   ],
   "hotgov_list": [
