@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743421073247,
+  "endTime": 1743425336596,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -616,6 +616,14 @@
       "word": "具俊晔回应大S去世",
       "onboard_time": 1738563392,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 8210554,
+      "num": 8210554,
+      "word": "金秀贤和未成年金赛纶约会视频",
+      "onboard_time": 1743422722,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740114501,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2810111,
-      "num": 2810111,
-      "word": "金价大跳水了",
-      "onboard_time": 1740707118,
-      "rank": 5,
-      "category": "财经"
     }
   ],
   "hotgov_list": [
