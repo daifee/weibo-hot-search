@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743420043127,
+  "endTime": 1743421073247,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1547,6 +1547,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 2012976,
+      "num": 277246,
+      "word": "金秀贤公开录音证据",
+      "onboard_time": 1743420622,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2010482,
       "num": 383789,
       "word": "祝绪丹忍得很辛苦吧",
@@ -2364,7 +2372,7 @@
     },
     {
       "raw_hot": 1690705,
-      "num": 243349,
+      "num": 258956,
       "word": "金秀贤一边哭一边喝水",
       "onboard_time": 1743417862,
       "rank": 15,
@@ -6961,6 +6969,14 @@
       "onboard_time": 1741541237,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 941753,
+      "num": 1150680,
+      "word": "河南一枯井发现近百名烈士遗骸",
+      "onboard_time": 1743419122,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 941249,
@@ -13076,7 +13092,7 @@
     },
     {
       "raw_hot": 599864,
-      "num": 263476,
+      "num": 265907,
       "word": "韩国庄仕洋",
       "onboard_time": 1743413604,
       "rank": 30,
@@ -14809,6 +14825,14 @@
       "onboard_time": 1741836383,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 542017,
+      "num": 542017,
+      "word": "王文也男友求婚成功",
+      "onboard_time": 1743419723,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 541526,
@@ -23771,14 +23795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 338322,
-      "num": 338322,
-      "word": "河南一枯井发现近百名烈士遗骸",
-      "onboard_time": 1743419122,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 338221,
       "num": 197747,
       "word": "男子拆快递眼球扎进几十根玻璃细刺",
@@ -23953,6 +23969,14 @@
       "onboard_time": 1741618404,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335667,
+      "num": 335667,
+      "word": "缅甸地震已致2056人死亡",
+      "onboard_time": 1743419542,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 335659,
@@ -27971,6 +27995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280859,
+      "num": 280859,
+      "word": "公孙离FMVP皮肤",
+      "onboard_time": 1743419243,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280821,
       "num": 216260,
       "word": "赵丽颖 大象新闻",
@@ -30819,6 +30851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251350,
+      "num": 251350,
+      "word": "苹果演唱会模式",
+      "onboard_time": 1743416843,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 251294,
       "num": 233034,
       "word": "李想回应没上大学",
@@ -32289,14 +32329,6 @@
       "onboard_time": 1742809701,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239434,
-      "num": 239434,
-      "word": "苹果演唱会模式",
-      "onboard_time": 1743416843,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 239318,
@@ -37987,6 +38019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206245,
+      "num": 206245,
+      "word": "王曼昱小岱FocusStar四月刊预告",
+      "onboard_time": 1743420022,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 206235,
       "num": 206235,
       "word": "爱吃草莓和芹菜的都沉默了",
@@ -39809,6 +39849,14 @@
       "onboard_time": 1743079283,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200482,
+      "num": 200482,
+      "word": "孙颖莎拿到驾照了",
+      "onboard_time": 1743420562,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 200460,
@@ -44595,14 +44643,6 @@
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 185164,
-      "num": 185164,
-      "word": "公孙离FMVP皮肤",
-      "onboard_time": 1743419243,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 185159,
       "num": 196232,
       "word": "王俊凯小时候同款小嘚瑟",
@@ -44729,6 +44769,14 @@
       "onboard_time": 1741159819,
       "rank": 32,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 184690,
+      "num": 228154,
+      "word": "张杰发博庆祝破纪录",
+      "onboard_time": 1743419723,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 184675,
@@ -46865,6 +46913,14 @@
       "onboard_time": 1741571240,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176579,
+      "num": 176579,
+      "word": "BLACKPINK未公开的物料",
+      "onboard_time": 1743420501,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 176552,
@@ -52443,14 +52499,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 159253,
-      "num": 159253,
-      "word": "王文也男友求婚成功",
-      "onboard_time": 1743419723,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 159232,
       "num": 162429,
       "word": "丁禹兮深夜allblack上班",
@@ -53185,14 +53233,6 @@
       "onboard_time": 1741673662,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 157237,
-      "num": 228154,
-      "word": "张杰发博庆祝破纪录",
-      "onboard_time": 1743419723,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 157223,
@@ -54633,14 +54673,6 @@
       "onboard_time": 1742269405,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153536,
-      "num": 239336,
-      "word": "缅甸地震已致2056人死亡",
-      "onboard_time": 1743419542,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 153531,
@@ -59115,6 +59147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142454,
+      "num": 142454,
+      "word": "人为什么非要找人托底",
+      "onboard_time": 1743420262,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142440,
       "num": 177437,
       "word": "孙颖莎回应对手比自己小一轮",
@@ -63443,6 +63483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131480,
+      "num": 131480,
+      "word": "全圆佑直播",
+      "onboard_time": 1743420742,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131460,
       "num": 441463,
       "word": "俄罗斯一架直升机坠毁",
@@ -66171,14 +66219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125130,
-      "num": 125130,
-      "word": "王曼昱小岱FocusStar四月刊预告",
-      "onboard_time": 1743420022,
-      "rank": 43,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 125120,
       "num": 162970,
       "word": "王嘉尔带speed吃火锅",
@@ -66457,6 +66497,14 @@
       "onboard_time": 1743338423,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124344,
+      "num": 144543,
+      "word": "少吃水果少生很多病不具有普遍性",
+      "onboard_time": 1743416723,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 124338,
@@ -71955,14 +72003,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 110724,
-      "num": 144543,
-      "word": "少吃水果少生很多病不具有普遍性",
-      "onboard_time": 1743416723,
-      "rank": 39,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 110692,
       "num": 136522,
       "word": "黄霄雲不语只一味从地北唱回天南",
@@ -75131,6 +75171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 102910,
+      "num": 102910,
+      "word": "缅甸地震仍有270人失踪",
+      "onboard_time": 1743420863,
+      "rank": 45,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 102897,
       "num": 102897,
       "word": "中国女子在缅甸地震中脚筋断裂",
@@ -75889,6 +75937,14 @@
       "onboard_time": 1741590799,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100576,
+      "num": 100576,
+      "word": "张若昀唐艺昕在朋友聚会认识",
+      "onboard_time": 1743420383,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 100567,
@@ -91827,6 +91883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38853,
+      "num": 239286,
+      "word": "唐嫣刘学义合体直播",
+      "onboard_time": 1743419963,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38794,
       "num": 149779,
       "word": "周云杰在海尔干了37年",
@@ -93195,6 +93259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34388,
+      "num": 177042,
+      "word": "张凌赫设计的竹节包什么样",
+      "onboard_time": 1743419002,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 34369,
       "num": 266579,
       "word": "华为PuraX首发搭载全新AI小艺",
@@ -93329,14 +93401,6 @@
       "onboard_time": 1741667244,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 33855,
-      "num": 130820,
-      "word": "唐嫣刘学义合体直播",
-      "onboard_time": 1743419963,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 33849,
@@ -95425,14 +95489,6 @@
       "onboard_time": 1742761513,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 27477,
-      "num": 177042,
-      "word": "张凌赫设计的竹节包什么样",
-      "onboard_time": 1743419002,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 27472,
