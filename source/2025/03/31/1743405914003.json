@@ -1,0 +1,410 @@
+{
+  "runTime": 1743405914003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1055752,
+        "num": 1168920,
+        "word": "疑似一种新病毒在俄罗斯蔓延",
+        "onboard_time": 1743403341,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 876695,
+        "num": 876695,
+        "word": "IU说雪莉是最漂亮的人",
+        "onboard_time": 1743403341,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19118,
+        "num": 728827,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592615,
+        "num": 592615,
+        "word": "iPhone17Pro十大升级",
+        "onboard_time": 1743398002,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 574506,
+        "num": 574506,
+        "word": "缅甸地震脚筋断裂被救女子发声",
+        "onboard_time": 1743400222,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 482159,
+        "num": 482159,
+        "word": "店主接到近8吨毛肚订单直接报警",
+        "onboard_time": 1743385821,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404650,
+        "num": 481951,
+        "word": "陈德容",
+        "onboard_time": 1743396444,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355587,
+        "num": 481291,
+        "word": "哪吒2距全球第4就差10亿了",
+        "onboard_time": 1743385641,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260754,
+        "num": 480899,
+        "word": "三月三是什么节",
+        "onboard_time": 1743386360,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238620,
+        "num": 480285,
+        "word": "马斯克称火星将是美国的一部分",
+        "onboard_time": 1743403222,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2246808,
+        "num": 479934,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1743404000,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1208924,
+        "num": 479647,
+        "word": "男子肝癌晚期只打一针获新生",
+        "onboard_time": 1743400582,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 665075,
+        "num": 478839,
+        "word": "一直对月薪三万没概念直到换算成天",
+        "onboard_time": 1743382162,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 594959,
+        "num": 478560,
+        "word": "俄罗斯",
+        "onboard_time": 1743398841,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151767,
+        "num": 478117,
+        "word": "妹妹刷缅甸救援视频认出姐姐的手",
+        "onboard_time": 1743405021,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 508199,
+        "num": 477190,
+        "word": "乘客开门杀致人死亡网约车司机获刑",
+        "onboard_time": 1743399561,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477177,
+        "num": 477177,
+        "word": "白敬亭宋轶都去看了樱花",
+        "onboard_time": 1743393081,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139812,
+        "num": 476464,
+        "word": "找到罗一舟气血充足的原因了",
+        "onboard_time": 1743403701,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251169,
+        "num": 476012,
+        "word": "去年此时金价还在500元区间徘徊",
+        "onboard_time": 1743399862,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29785,
+        "num": 476008,
+        "word": "女子在废墟中扒开钢筋自救成功",
+        "onboard_time": 1743405441,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 476004,
+        "num": 476004,
+        "word": "虞书欣往导演头上泼水",
+        "onboard_time": 1743392719,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422244,
+        "num": 422244,
+        "word": "门童泰国事件",
+        "onboard_time": 1743397223,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 351249,
+        "num": 351249,
+        "word": "全职丈夫起诉妻子给丈母娘转122万",
+        "onboard_time": 1743399501,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259718,
+        "num": 259718,
+        "word": "宋茜复刻金发梦回Victoria",
+        "onboard_time": 1743393620,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 247383,
+        "num": 247383,
+        "word": "男子身上发痒检查后确诊肝癌",
+        "onboard_time": 1743396682,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242821,
+        "num": 242821,
+        "word": "杨紫张挺 合作",
+        "onboard_time": 1743404961,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239399,
+        "num": 239399,
+        "word": "三月三上巳节是春游的节日",
+        "onboard_time": 1743401601,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 239202,
+        "num": 239202,
+        "word": "胡静给所有女生的建议",
+        "onboard_time": 1743404781,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209100,
+        "num": 209100,
+        "word": "金价大涨三大原因",
+        "onboard_time": 1743404302,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191100,
+        "num": 191100,
+        "word": "女子整理旧衣柜后确诊霉菌性肺炎",
+        "onboard_time": 1743403701,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183607,
+        "num": 183607,
+        "word": "洗头排期表",
+        "onboard_time": 1743404662,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 183407,
+        "num": 183407,
+        "word": "女子称女儿遭建行领导霸凌后自尽",
+        "onboard_time": 1743405861,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177036,
+        "num": 177036,
+        "word": "王安冉孕期被婆婆多次辱骂",
+        "onboard_time": 1743400282,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168339,
+        "num": 168339,
+        "word": "比伯晒抱儿子照片",
+        "onboard_time": 1743398121,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146055,
+        "num": 146055,
+        "word": "男子离婚3年发现女儿非亲生",
+        "onboard_time": 1743405381,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145416,
+        "num": 145416,
+        "word": "青岛即墨古城一小区发生爆炸",
+        "onboard_time": 1743400822,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 137230,
+        "num": 137230,
+        "word": "缅甸泰国华人互助接力",
+        "onboard_time": 1743397402,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135503,
+        "num": 135503,
+        "word": "于正夸苦尽柑来遇见你",
+        "onboard_time": 1743403760,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135193,
+        "num": 135193,
+        "word": "用seventeen的歌来表达一周的心情",
+        "onboard_time": 1743404842,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132474,
+        "num": 132474,
+        "word": "2只流浪狗车流中救回被撞伤小狗",
+        "onboard_time": 1743402681,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128925,
+        "num": 128925,
+        "word": "雪莉曾和名牌大学高材生庭外和解",
+        "onboard_time": 1743394883,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128911,
+        "num": 128911,
+        "word": "泫雅时隔四个月晒与龙俊亨合照",
+        "onboard_time": 1743397822,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128471,
+        "num": 128471,
+        "word": "北影节天坛奖官宣评委倪妮",
+        "onboard_time": 1743400582,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126795,
+        "num": 126795,
+        "word": "头像玄学",
+        "onboard_time": 1743405681,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105091,
+        "num": 120857,
+        "word": "经济学家谈比亚迪激动落泪",
+        "onboard_time": 1743405861,
+        "rank": 44,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 120799,
+        "num": 120799,
+        "word": "陈都灵4月6个商务拍摄",
+        "onboard_time": 1743403462,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118222,
+        "num": 118222,
+        "word": "双轨导演回复",
+        "onboard_time": 1743402741,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118067,
+        "num": 118067,
+        "word": "赵露思4月两场线下活动",
+        "onboard_time": 1743389060,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120512,
+        "num": 118064,
+        "word": "李惠利拒绝给劣迹艺人鼓掌",
+        "onboard_time": 1743381981,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118059,
+        "num": 118059,
+        "word": "甲亢哥保镖",
+        "onboard_time": 1743397943,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#外资企业是中国式现代化的重要参与者#"
+    }
+  }
+}

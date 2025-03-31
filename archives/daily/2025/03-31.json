@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743403698393,
+  "endTime": 1743405914003,
   "band_list": [
     {
       "raw_hot": 2503187,
@@ -9,6 +9,14 @@
       "onboard_time": 1743382162,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2246808,
+      "num": 479934,
+      "word": "白敬亭 宋轶",
+      "onboard_time": 1743404000,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1746342,
@@ -73,6 +81,14 @@
       "onboard_time": 1743397223,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1055752,
+      "num": 1168920,
+      "word": "疑似一种新病毒在俄罗斯蔓延",
+      "onboard_time": 1743403341,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1053410,
@@ -144,6 +160,14 @@
       "word": "雪莉恨自己长得漂亮",
       "onboard_time": 1743385520,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 876695,
+      "num": 876695,
+      "word": "IU说雪莉是最漂亮的人",
+      "onboard_time": 1743403341,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -443,14 +467,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 309899,
-      "num": 232646,
-      "word": "IU说雪莉是最漂亮的人",
-      "onboard_time": 1743403341,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 302545,
       "num": 302545,
       "word": "音乐节 网红",
@@ -523,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242821,
+      "num": 242821,
+      "word": "杨紫张挺 合作",
+      "onboard_time": 1743404961,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239681,
       "num": 365203,
       "word": "伊朗各地导弹已装入发射器",
@@ -531,12 +555,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 239399,
+      "num": 239399,
+      "word": "三月三上巳节是春游的节日",
+      "onboard_time": 1743401601,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 239318,
       "num": 239318,
       "word": "减脂食谱里为什么永远有西兰花",
       "onboard_time": 1743346521,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 239202,
+      "num": 239202,
+      "word": "胡静给所有女生的建议",
+      "onboard_time": 1743404781,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 238620,
+      "num": 480285,
+      "word": "马斯克称火星将是美国的一部分",
+      "onboard_time": 1743403222,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 236403,
@@ -651,6 +699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 209100,
+      "num": 209100,
+      "word": "金价大涨三大原因",
+      "onboard_time": 1743404302,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 205755,
       "num": 289033,
       "word": "德约科维奇无缘第100冠",
@@ -747,6 +803,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191100,
+      "num": 191100,
+      "word": "女子整理旧衣柜后确诊霉菌性肺炎",
+      "onboard_time": 1743403701,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183607,
+      "num": 183607,
+      "word": "洗头排期表",
+      "onboard_time": 1743404662,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 183407,
+      "num": 183407,
+      "word": "女子称女儿遭建行领导霸凌后自尽",
+      "onboard_time": 1743405861,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183257,
       "num": 666931,
       "word": "唐嫣在线回复她的兵",
@@ -771,20 +851,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177036,
+      "num": 221084,
+      "word": "王安冉孕期被婆婆多次辱骂",
+      "onboard_time": 1743400282,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174513,
       "num": 171077,
       "word": "虞书欣黄裙大片",
       "onboard_time": 1743399020,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174469,
-      "num": 174469,
-      "word": "马斯克称火星将是美国的一部分",
-      "onboard_time": 1743403222,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 172373,
@@ -857,14 +937,6 @@
       "onboard_time": 1743394222,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 163265,
-      "num": 221084,
-      "word": "王安冉孕期被婆婆多次辱骂",
-      "onboard_time": 1743400282,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 162924,
@@ -979,6 +1051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151767,
+      "num": 478117,
+      "word": "妹妹刷缅甸救援视频认出姐姐的手",
+      "onboard_time": 1743405021,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 150646,
       "num": 110784,
       "word": "特朗普威胁对俄石油征收2级关税",
@@ -1003,12 +1083,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146055,
+      "num": 146055,
+      "word": "男子离婚3年发现女儿非亲生",
+      "onboard_time": 1743405381,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145925,
       "num": 145925,
       "word": "周深墨尔本控场七分钟",
       "onboard_time": 1743397161,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145416,
+      "num": 145416,
+      "word": "青岛即墨古城一小区发生爆炸",
+      "onboard_time": 1743400822,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 145298,
@@ -1043,14 +1139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142881,
-      "num": 142881,
-      "word": "青岛即墨古城一小区发生爆炸",
-      "onboard_time": 1743400822,
-      "rank": 40,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 141998,
       "num": 141998,
       "word": "500万买的绿地洋房成坟景房",
@@ -1067,20 +1155,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 141138,
-      "num": 133451,
-      "word": "疑似一种新病毒在俄罗斯蔓延",
-      "onboard_time": 1743403341,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 140737,
       "num": 140737,
       "word": "太湖湾音乐节",
       "onboard_time": 1743352218,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139812,
+      "num": 476464,
+      "word": "找到罗一舟气血充足的原因了",
+      "onboard_time": 1743403701,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 136661,
@@ -1113,6 +1201,22 @@
       "onboard_time": 1743391161,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135503,
+      "num": 135503,
+      "word": "于正夸苦尽柑来遇见你",
+      "onboard_time": 1743403760,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135193,
+      "num": 135193,
+      "word": "用seventeen的歌来表达一周的心情",
+      "onboard_time": 1743404842,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 134868,
@@ -1155,12 +1259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132474,
+      "num": 132474,
+      "word": "2只流浪狗车流中救回被撞伤小狗",
+      "onboard_time": 1743402681,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128862,
       "num": 248930,
       "word": "特朗普称若不达成核协议将轰炸伊朗",
       "onboard_time": 1743395302,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126795,
+      "num": 126795,
+      "word": "头像玄学",
+      "onboard_time": 1743405681,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 125871,
@@ -1219,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120799,
+      "num": 120799,
+      "word": "陈都灵4月6个商务拍摄",
+      "onboard_time": 1743403462,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119514,
       "num": 119514,
       "word": "郑州火烧店的招财猫都有KPI了",
@@ -1241,14 +1369,6 @@
       "onboard_time": 1743393020,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117704,
-      "num": 117704,
-      "word": "陈都灵4月6个商务拍摄",
-      "onboard_time": 1743403462,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 115210,
@@ -1355,12 +1475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106213,
-      "num": 106213,
-      "word": "2只流浪狗车流中救回被撞伤小狗",
-      "onboard_time": 1743402681,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 105091,
+      "num": 120857,
+      "word": "经济学家谈比亚迪激动落泪",
+      "onboard_time": 1743405861,
+      "rank": 44,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 105051,
@@ -1369,14 +1489,6 @@
       "onboard_time": 1743340222,
       "rank": 30,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 104651,
-      "num": 211319,
-      "word": "三月三上巳节是春游的节日",
-      "onboard_time": 1743401601,
-      "rank": 48,
-      "category": "正能量"
     },
     {
       "raw_hot": 104361,
@@ -1944,6 +2056,14 @@
       "word": "缅甸大学生感谢中国救援队第一个赶来",
       "onboard_time": 1743363074,
       "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 29785,
+      "num": 476008,
+      "word": "女子在废墟中扒开钢筋自救成功",
+      "onboard_time": 1743405441,
+      "rank": 19,
       "category": "突发/灾害"
     },
     {
