@@ -1,0 +1,410 @@
+{
+  "runTime": 1743459881861,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 195050,
+        "num": 391208,
+        "word": "日本对中国人民负有严重历史罪责",
+        "onboard_time": 1743441797,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93947,
+        "num": 93947,
+        "word": "河南一枯井发现近百名烈士遗骸",
+        "onboard_time": 1743419122,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18981,
+        "num": 85943,
+        "word": "沉浸式感受广西三月三",
+        "onboard_time": 1743426863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135190,
+        "num": 85407,
+        "word": "王艳发了赤脚鬼",
+        "onboard_time": 1743431003,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79614,
+        "num": 79614,
+        "word": "男子赠妻子闺蜜7万被判全额返还加利息",
+        "onboard_time": 1743431364,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73510,
+        "num": 73510,
+        "word": "甲亢哥针灸正骨后已老实",
+        "onboard_time": 1743431784,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70404,
+        "num": 70404,
+        "word": "山姆客服称水果中吃出虫是正常情况",
+        "onboard_time": 1743428243,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65410,
+        "num": 65410,
+        "word": "檀健次当评委了",
+        "onboard_time": 1743435442,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48819,
+        "num": 48819,
+        "word": "好房子的新标准来了",
+        "onboard_time": 1743422304,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42476,
+        "num": 42476,
+        "word": "4月一起加油",
+        "onboard_time": 1743436700,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416641,
+        "num": 42233,
+        "word": "愚人节站姐团建",
+        "onboard_time": 1743438619,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193147,
+        "num": 42091,
+        "word": "心理师锐评赵露思新综艺",
+        "onboard_time": 1743430524,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127566,
+        "num": 41357,
+        "word": "女装啥时候能回归正常审美",
+        "onboard_time": 1743432503,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125776,
+        "num": 41167,
+        "word": "金秀贤和未成年金赛纶约会视频",
+        "onboard_time": 1743422722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66673,
+        "num": 40843,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1743404000,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59839,
+        "num": 40388,
+        "word": "男子肝癌晚期只打一针获新生",
+        "onboard_time": 1743400582,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58142,
+        "num": 40175,
+        "word": "男子发现打工养了7年的女儿非亲生",
+        "onboard_time": 1743439341,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52466,
+        "num": 39523,
+        "word": "李现的微博逐渐奇怪",
+        "onboard_time": 1743429082,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100082,
+        "num": 39215,
+        "word": "金秀贤记者会最起鸡皮疙瘩的一句话",
+        "onboard_time": 1743439038,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39029,
+        "num": 39029,
+        "word": "2024的愚人节勇士站姐",
+        "onboard_time": 1743437241,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37793,
+        "num": 37793,
+        "word": "横店变竖店了",
+        "onboard_time": 1743422661,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36353,
+        "num": 36353,
+        "word": "泰高空走廊被震断男子奋力跳向对面",
+        "onboard_time": 1743444615,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 35902,
+        "num": 35902,
+        "word": "深圳混血小孩哥用AI把爷爷忽悠成厨子",
+        "onboard_time": 1743457574,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31502,
+        "num": 31502,
+        "word": "陈昊宇陈丽君四公帮唱",
+        "onboard_time": 1743434662,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30348,
+        "num": 30348,
+        "word": "年级主任多次让学生砸手机手表",
+        "onboard_time": 1743450254,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27797,
+        "num": 27797,
+        "word": "李昀锐好标准的体育生下楼梯",
+        "onboard_time": 1743423747,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24574,
+        "num": 27623,
+        "word": "为什么每年都会怀念张国荣",
+        "onboard_time": 1743440297,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22737,
+        "num": 27327,
+        "word": "乘风2025最新排名",
+        "onboard_time": 1743427703,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22531,
+        "num": 26670,
+        "word": "乘风2025四公帮唱组队征集",
+        "onboard_time": 1743430644,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21383,
+        "num": 26377,
+        "word": "王一博启程出发洛杉矶",
+        "onboard_time": 1743458534,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93597,
+        "num": 25615,
+        "word": "钟南山提醒剩饭剩菜别强吃",
+        "onboard_time": 1743441017,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28623,
+        "num": 25331,
+        "word": "4月1日含义是81192",
+        "onboard_time": 1743447134,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25148,
+        "num": 25148,
+        "word": "大克重金饰销量随金价上涨下滑",
+        "onboard_time": 1743450734,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23991,
+        "num": 23991,
+        "word": "国家标准住宅项目规范发布",
+        "onboard_time": 1743422304,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23727,
+        "num": 23727,
+        "word": "4层及以上住宅设电梯",
+        "onboard_time": 1743423865,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23169,
+        "num": 23169,
+        "word": "重新定义39岁不着调的中年女性",
+        "onboard_time": 1743452593,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22190,
+        "num": 23169,
+        "word": "想和你去四月的春天里坐坐",
+        "onboard_time": 1743436521,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21494,
+        "num": 23168,
+        "word": "找工作不要限制于招聘app",
+        "onboard_time": 1743421164,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20319,
+        "num": 23166,
+        "word": "韩国庄仕洋",
+        "onboard_time": 1743413604,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19110,
+        "num": 23165,
+        "word": "愚人节文案",
+        "onboard_time": 1743425243,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18730,
+        "num": 23164,
+        "word": "中国咖啡98%来自云南",
+        "onboard_time": 1743434362,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 18727,
+        "num": 23162,
+        "word": "QQ音乐 内涵",
+        "onboard_time": 1743427943,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18507,
+        "num": 23161,
+        "word": "美国又有一架飞机坠毁",
+        "onboard_time": 1743447015,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18348,
+        "num": 23161,
+        "word": "挖野菜",
+        "onboard_time": 1743443295,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17860,
+        "num": 23158,
+        "word": "黄霄雲方回应翻唱争议",
+        "onboard_time": 1743432623,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15350,
+        "num": 23157,
+        "word": "你的存在本身就是另一种答案",
+        "onboard_time": 1743454933,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15309,
+        "num": 23157,
+        "word": "站姐愚人节团建预告",
+        "onboard_time": 1743425964,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15191,
+        "num": 23156,
+        "word": "马龙说全运会后还想参加比赛",
+        "onboard_time": 1743429444,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15047,
+        "num": 23155,
+        "word": "甲亢哥成都行直播",
+        "onboard_time": 1743407121,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 13942,
+        "num": 23152,
+        "word": "多图直击缅甸震中救援现场",
+        "onboard_time": 1743453134,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025是推进巡视全覆盖的关键一年#"
+    }
+  }
+}
