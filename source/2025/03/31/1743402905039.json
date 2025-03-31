@@ -1,0 +1,410 @@
+{
+  "runTime": 1743402905039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 893579,
+        "num": 1142972,
+        "word": "陈德容",
+        "onboard_time": 1743396444,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 842333,
+        "num": 842333,
+        "word": "iPhone17Pro十大升级",
+        "onboard_time": 1743398002,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18689,
+        "num": 753226,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742816,
+        "num": 742816,
+        "word": "缅甸地震脚筋断裂被救女子发声",
+        "onboard_time": 1743400222,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 527985,
+        "num": 742517,
+        "word": "店主接到近8吨毛肚订单直接报警",
+        "onboard_time": 1743385821,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336571,
+        "num": 741022,
+        "word": "宋茜复刻金发梦回Victoria",
+        "onboard_time": 1743393620,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 331982,
+        "num": 739296,
+        "word": "哪吒2距全球第4就差10亿了",
+        "onboard_time": 1743385641,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296791,
+        "num": 737485,
+        "word": "复活王蓉",
+        "onboard_time": 1743396561,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292187,
+        "num": 735880,
+        "word": "三月三是什么节",
+        "onboard_time": 1743386360,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136771,
+        "num": 735354,
+        "word": "北影节天坛奖官宣评委倪妮",
+        "onboard_time": 1743400582,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1631083,
+        "num": 733694,
+        "word": "男子肝癌晚期只打一针获新生",
+        "onboard_time": 1743400582,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 964056,
+        "num": 732857,
+        "word": "乘客开门杀致人死亡网约车司机获刑",
+        "onboard_time": 1743399561,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 731563,
+        "num": 731563,
+        "word": "一直对月薪三万没概念直到换算成天",
+        "onboard_time": 1743382162,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237896,
+        "num": 710424,
+        "word": "指鼠为鸭局长已调离",
+        "onboard_time": 1743394702,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32654,
+        "num": 708428,
+        "word": "对话05后殡仪专业学生",
+        "onboard_time": 1743402440,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 707455,
+        "num": 707455,
+        "word": "白敬亭宋轶都去看了樱花",
+        "onboard_time": 1743393081,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223974,
+        "num": 673791,
+        "word": "去年此时金价还在500元区间徘徊",
+        "onboard_time": 1743399862,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183257,
+        "num": 666931,
+        "word": "唐嫣在线回复她的兵",
+        "onboard_time": 1743401782,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174176,
+        "num": 664716,
+        "word": "比伯晒抱儿子照片",
+        "onboard_time": 1743398121,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663865,
+        "num": 663865,
+        "word": "门童泰国事件",
+        "onboard_time": 1743397223,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 640645,
+        "num": 640645,
+        "word": "虞书欣往导演头上泼水",
+        "onboard_time": 1743392719,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640211,
+        "num": 640211,
+        "word": "俄罗斯",
+        "onboard_time": 1743398841,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 407636,
+        "num": 407636,
+        "word": "全职丈夫起诉妻子给丈母娘转122万",
+        "onboard_time": 1743399501,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320649,
+        "num": 320649,
+        "word": "男子身上发痒检查后确诊肝癌",
+        "onboard_time": 1743396682,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74879,
+        "num": 279397,
+        "word": "梁靖崑进校园演讲",
+        "onboard_time": 1743402382,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262165,
+        "num": 262165,
+        "word": "李惠利拒绝给劣迹艺人鼓掌",
+        "onboard_time": 1743381981,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222387,
+        "num": 222387,
+        "word": "文章带女友去德云社看演出",
+        "onboard_time": 1743400340,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152252,
+        "num": 219405,
+        "word": "双轨导演回复",
+        "onboard_time": 1743402741,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219291,
+        "num": 219291,
+        "word": "缅甸泰国华人互助接力",
+        "onboard_time": 1743397402,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41054,
+        "num": 204073,
+        "word": "中国救援队再救出一名5岁孩子",
+        "onboard_time": 1743401782,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202177,
+        "num": 202177,
+        "word": "雪莉曾和名牌大学高材生庭外和解",
+        "onboard_time": 1743394883,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199302,
+        "num": 199302,
+        "word": "42岁金莎古装状态",
+        "onboard_time": 1743401722,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163265,
+        "num": 163265,
+        "word": "王安冉孕期被婆婆多次辱骂",
+        "onboard_time": 1743400282,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162991,
+        "num": 162991,
+        "word": "甲亢哥保镖",
+        "onboard_time": 1743397943,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140084,
+        "num": 140084,
+        "word": "虞书欣黄裙大片",
+        "onboard_time": 1743399020,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174146,
+        "num": 139584,
+        "word": "雪莉恨自己长得漂亮",
+        "onboard_time": 1743385520,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132741,
+        "num": 132741,
+        "word": "苦尽柑来遇见你评分上升至9.6",
+        "onboard_time": 1743401180,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132618,
+        "num": 132618,
+        "word": "泫雅时隔四个月晒与龙俊亨合照",
+        "onboard_time": 1743397822,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10363,
+        "num": 131544,
+        "word": "对比缅甸震前震后卫星图像",
+        "onboard_time": 1743402501,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 50824,
+        "num": 131474,
+        "word": "免费会员就是香",
+        "onboard_time": 1743400881,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131430,
+        "num": 131430,
+        "word": "青岛即墨古城一小区发生爆炸",
+        "onboard_time": 1743400822,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 125077,
+        "num": 125077,
+        "word": "赵露思4月两场线下活动",
+        "onboard_time": 1743389060,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76082,
+        "num": 124878,
+        "word": "念无双新浪扫楼",
+        "onboard_time": 1743399321,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124793,
+        "num": 124793,
+        "word": "赵丽颖高月香孤身闯贼窝",
+        "onboard_time": 1743401902,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121806,
+        "num": 121806,
+        "word": "雷军把车的价格打下来后网友破防了",
+        "onboard_time": 1743385821,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 119150,
+        "num": 119150,
+        "word": "缅甸强震已致1名中国公民遇难",
+        "onboard_time": 1743393681,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 110151,
+        "num": 110151,
+        "word": "浙江小百花越剧院发声明",
+        "onboard_time": 1743387020,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106213,
+        "num": 106213,
+        "word": "2只流浪狗车流中救回被撞伤小狗",
+        "onboard_time": 1743402681,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104651,
+        "num": 104651,
+        "word": "三月三上巳节是春游的节日",
+        "onboard_time": 1743401601,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 100457,
+        "num": 100457,
+        "word": "为什么现在老师都不敢管学生了",
+        "onboard_time": 1743392001,
+        "rank": 49,
+        "category": "幽默,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的作风关系人心向背#"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743399683487,
+  "endTime": 1743402905039,
   "band_list": [
     {
       "raw_hot": 2503187,
-      "num": 406195,
+      "num": 731563,
       "word": "一直对月薪三万没概念直到换算成天",
       "onboard_time": 1743382162,
       "rank": 10,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1746342,
-      "num": 398765,
+      "num": 707455,
       "word": "白敬亭宋轶都去看了樱花",
       "onboard_time": 1743393081,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1631083,
+      "num": 733694,
+      "word": "男子肝癌晚期只打一针获新生",
+      "onboard_time": 1743400582,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1601186,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1080005,
-      "num": 274243,
+      "num": 663865,
       "word": "门童泰国事件",
       "onboard_time": 1743397223,
       "rank": 13,
@@ -97,6 +105,14 @@
       "onboard_time": 1743344963,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 964056,
+      "num": 732857,
+      "word": "乘客开门杀致人死亡网约车司机获刑",
+      "onboard_time": 1743399561,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 963319,
@@ -147,12 +163,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 842333,
+      "num": 842333,
+      "word": "iPhone17Pro十大升级",
+      "onboard_time": 1743398002,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 759979,
       "num": 255119,
       "word": "祝绪丹忍得很辛苦吧",
       "onboard_time": 1743341363,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 742816,
+      "num": 742816,
+      "word": "缅甸地震脚筋断裂被救女子发声",
+      "onboard_time": 1743400222,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 738421,
@@ -163,20 +195,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 698734,
-      "num": 698734,
-      "word": "iPhone17Pro十大升级",
-      "onboard_time": 1743398002,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 654976,
       "num": 654976,
       "word": "赴缅甸中国公羊救援队发声",
       "onboard_time": 1743359954,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 640211,
+      "num": 640211,
+      "word": "俄罗斯",
+      "onboard_time": 1743398841,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 630600,
@@ -196,7 +228,7 @@
     },
     {
       "raw_hot": 595094,
-      "num": 444770,
+      "num": 741022,
       "word": "宋茜复刻金发梦回Victoria",
       "onboard_time": 1743393620,
       "rank": 13,
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 559545,
-      "num": 559545,
+      "num": 735880,
       "word": "三月三是什么节",
       "onboard_time": 1743386360,
       "rank": 17,
@@ -244,7 +276,7 @@
     },
     {
       "raw_hot": 472712,
-      "num": 472712,
+      "num": 710424,
       "word": "指鼠为鸭局长已调离",
       "onboard_time": 1743394702,
       "rank": 45,
@@ -252,7 +284,7 @@
     },
     {
       "raw_hot": 458900,
-      "num": 269334,
+      "num": 320649,
       "word": "男子身上发痒检查后确诊肝癌",
       "onboard_time": 1743396682,
       "rank": 18,
@@ -316,7 +348,7 @@
     },
     {
       "raw_hot": 416044,
-      "num": 402306,
+      "num": 737485,
       "word": "复活王蓉",
       "onboard_time": 1743396561,
       "rank": 7,
@@ -329,6 +361,14 @@
       "onboard_time": 1743388279,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 407636,
+      "num": 407636,
+      "word": "全职丈夫起诉妻子给丈母娘转122万",
+      "onboard_time": 1743399501,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 398650,
@@ -443,14 +483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 272518,
-      "num": 170912,
-      "word": "乘客开门杀致人死亡网约车司机获刑",
-      "onboard_time": 1743399561,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269727,
       "num": 317184,
       "word": "为什么现在老师都不敢管学生了",
@@ -524,7 +556,7 @@
     },
     {
       "raw_hot": 229370,
-      "num": 229370,
+      "num": 664716,
       "word": "比伯晒抱儿子照片",
       "onboard_time": 1743398121,
       "rank": 31,
@@ -545,6 +577,22 @@
       "onboard_time": 1743397402,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 223974,
+      "num": 673791,
+      "word": "去年此时金价还在500元区间徘徊",
+      "onboard_time": 1743399862,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222387,
+      "num": 222387,
+      "word": "文章带女友去德云社看演出",
+      "onboard_time": 1743400340,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 216235,
@@ -593,6 +641,14 @@
       "onboard_time": 1743391521,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199302,
+      "num": 199302,
+      "word": "42岁金莎古装状态",
+      "onboard_time": 1743401722,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 197349,
@@ -659,20 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182857,
-      "num": 170674,
-      "word": "俄罗斯",
-      "onboard_time": 1743398841,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 180655,
-      "num": 170537,
-      "word": "全职丈夫起诉妻子给丈母娘转122万",
-      "onboard_time": 1743399501,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 183257,
+      "num": 666931,
+      "word": "唐嫣在线回复她的兵",
+      "onboard_time": 1743401782,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 178078,
@@ -769,6 +817,14 @@
       "onboard_time": 1743394222,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163265,
+      "num": 163265,
+      "word": "王安冉孕期被婆婆多次辱骂",
+      "onboard_time": 1743400282,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 162924,
@@ -883,6 +939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152252,
+      "num": 219405,
+      "word": "双轨导演回复",
+      "onboard_time": 1743402741,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150646,
       "num": 110784,
       "word": "特朗普威胁对俄石油征收2级关税",
@@ -963,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136771,
+      "num": 735354,
+      "word": "北影节天坛奖官宣评委倪妮",
+      "onboard_time": 1743400582,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136661,
       "num": 180823,
       "word": "甲亢哥刚到成都就被贴脸开大",
@@ -1027,6 +1099,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132741,
+      "num": 132741,
+      "word": "苦尽柑来遇见你评分上升至9.6",
+      "onboard_time": 1743401180,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131430,
+      "num": 131430,
+      "word": "青岛即墨古城一小区发生爆炸",
+      "onboard_time": 1743400822,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 128862,
       "num": 248930,
       "word": "特朗普称若不达成核协议将轰炸伊朗",
@@ -1057,6 +1145,14 @@
       "onboard_time": 1743320839,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 124793,
+      "num": 124793,
+      "word": "赵丽颖高月香孤身闯贼窝",
+      "onboard_time": 1743401902,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 123848,
@@ -1140,7 +1236,7 @@
     },
     {
       "raw_hot": 113748,
-      "num": 113748,
+      "num": 124878,
       "word": "念无双新浪扫楼",
       "onboard_time": 1743399321,
       "rank": 45,
@@ -1211,12 +1307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106213,
+      "num": 106213,
+      "word": "2只流浪狗车流中救回被撞伤小狗",
+      "onboard_time": 1743402681,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105051,
       "num": 105051,
       "word": "汤加群岛地震可能引发海啸",
       "onboard_time": 1743340222,
       "rank": 30,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 104651,
+      "num": 104651,
+      "word": "三月三上巳节是春游的节日",
+      "onboard_time": 1743401601,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 104361,
@@ -1443,6 +1555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 74879,
+      "num": 279397,
+      "word": "梁靖崑进校园演讲",
+      "onboard_time": 1743402382,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73847,
       "num": 73847,
       "word": "缅籍华人父母被埋哽咽受访",
@@ -1635,6 +1755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50824,
+      "num": 131474,
+      "word": "免费会员就是香",
+      "onboard_time": 1743400881,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 49485,
       "num": 49485,
       "word": "实探地震后的瑞丽珠宝玉石市场",
@@ -1691,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41054,
+      "num": 204073,
+      "word": "中国救援队再救出一名5岁孩子",
+      "onboard_time": 1743401782,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39206,
       "num": 507923,
       "word": "4分钟感受广西的好嘢",
@@ -1721,6 +1857,14 @@
       "onboard_time": 1743376758,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 32654,
+      "num": 708428,
+      "word": "对话05后殡仪专业学生",
+      "onboard_time": 1743402440,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30288,
@@ -1849,6 +1993,14 @@
       "onboard_time": 1743363195,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10363,
+      "num": 131544,
+      "word": "对比缅甸震前震后卫星图像",
+      "onboard_time": 1743402501,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 9080,
