@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743428013487,
+  "endTime": 1743428706877,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -955,6 +955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 486298,
+      "num": 486298,
+      "word": "横店变竖店了",
+      "onboard_time": 1743422661,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 482290,
       "num": 439144,
       "word": "房琪 彭小苒",
@@ -1044,7 +1052,7 @@
     },
     {
       "raw_hot": 459090,
-      "num": 356062,
+      "num": 423659,
       "word": "李昀锐好标准的体育生下楼梯",
       "onboard_time": 1743423747,
       "rank": 8,
@@ -1097,14 +1105,6 @@
       "onboard_time": 1743260065,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 441131,
-      "num": 441131,
-      "word": "横店变竖店了",
-      "onboard_time": 1743422661,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 436486,
@@ -1627,6 +1627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 310083,
+      "num": 310083,
+      "word": "雁回时反转",
+      "onboard_time": 1743423443,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304490,
       "num": 261636,
       "word": "珊瑚海姐学时间线",
@@ -1665,14 +1673,6 @@
       "onboard_time": 1743409764,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 296257,
-      "num": 296257,
-      "word": "雁回时反转",
-      "onboard_time": 1743423443,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 295995,
@@ -2059,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244120,
+      "num": 178674,
+      "word": "QQ音乐 内涵",
+      "onboard_time": 1743427943,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 243974,
       "num": 243974,
       "word": "林钟勋申裕斌混双夺冠",
@@ -2273,6 +2281,14 @@
       "onboard_time": 1743409764,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 214589,
+      "num": 269114,
+      "word": "newjeans是高层内斗的牺牲品吗",
+      "onboard_time": 1743427463,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 214065,
@@ -2539,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199844,
+      "num": 199844,
+      "word": "站姐愚人节团建预告",
+      "onboard_time": 1743425964,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199656,
       "num": 199656,
       "word": "wbb退出",
@@ -2651,14 +2675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195095,
-      "num": 269114,
-      "word": "newjeans是高层内斗的牺牲品吗",
-      "onboard_time": 1743427463,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195026,
       "num": 195026,
       "word": "朴成训 来财",
@@ -2705,6 +2721,14 @@
       "onboard_time": 1743348621,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191990,
+      "num": 191990,
+      "word": "乘风2025最新排名",
+      "onboard_time": 1743427703,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 191459,
@@ -2769,6 +2793,14 @@
       "onboard_time": 1743425424,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187100,
+      "num": 259532,
+      "word": "男子篡改好友专升本志愿致其落榜获刑",
+      "onboard_time": 1743426382,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186957,
@@ -2892,7 +2924,7 @@
     },
     {
       "raw_hot": 182007,
-      "num": 260813,
+      "num": 283565,
       "word": "申请过国家助学贷款的同学注意了",
       "onboard_time": 1743418281,
       "rank": 34,
@@ -2905,14 +2937,6 @@
       "onboard_time": 1743338182,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 180990,
-      "num": 180990,
-      "word": "站姐愚人节团建预告",
-      "onboard_time": 1743425964,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 180349,
@@ -2937,6 +2961,14 @@
       "onboard_time": 1743416362,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179115,
+      "num": 179115,
+      "word": "甲亢哥吃皮蛋",
+      "onboard_time": 1743425424,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 178078,
@@ -3089,6 +3121,14 @@
       "onboard_time": 1743376157,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170180,
+      "num": 170180,
+      "word": "愚人节文案",
+      "onboard_time": 1743425243,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 170128,
@@ -3427,6 +3467,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156248,
+      "num": 156248,
+      "word": "雁回时叔婶是好人",
+      "onboard_time": 1743428183,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156114,
       "num": 156114,
       "word": "王宝强新剧拿稳黑莲花剧本",
@@ -3561,22 +3609,6 @@
       "onboard_time": 1743412764,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151430,
-      "num": 259532,
-      "word": "男子篡改好友专升本志愿致其落榜获刑",
-      "onboard_time": 1743426382,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151266,
-      "num": 151266,
-      "word": "甲亢哥吃皮蛋",
-      "onboard_time": 1743425424,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 151228,
@@ -3987,6 +4019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137143,
+      "num": 137143,
+      "word": "山姆客服称水果中吃出虫是正常情况",
+      "onboard_time": 1743428243,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137104,
       "num": 137104,
       "word": "正常人的减脂餐",
@@ -4193,14 +4233,6 @@
       "onboard_time": 1743402681,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132405,
-      "num": 132405,
-      "word": "愚人节文案",
-      "onboard_time": 1743425243,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 132303,
@@ -4491,14 +4523,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 121466,
-      "num": 121466,
-      "word": "乘风2025最新排名",
-      "onboard_time": 1743427703,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121370,
       "num": 121370,
       "word": "张丹峰以为来无限超越班是当监制的",
@@ -4529,14 +4553,6 @@
       "onboard_time": 1743410725,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 120781,
-      "num": 120781,
-      "word": "QQ音乐 内涵",
-      "onboard_time": 1743427943,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 120474,
@@ -5075,6 +5091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101423,
+      "num": 101423,
+      "word": "雷军摄影夜校迎来首批毕业生",
+      "onboard_time": 1743428544,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 101169,
       "num": 151362,
       "word": "詹姆斯42000分",
@@ -5321,6 +5345,14 @@
       "onboard_time": 1743377780,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90100,
+      "num": 448868,
+      "word": "沉浸式感受广西三月三",
+      "onboard_time": 1743426863,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90047,
@@ -5731,14 +5763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 64697,
-      "num": 448868,
-      "word": "沉浸式感受广西三月三",
-      "onboard_time": 1743426863,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 64674,
       "num": 100755,
       "word": "乌克兰计划组建太空部队",
@@ -5873,6 +5897,14 @@
       "onboard_time": 1743408624,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56648,
+      "num": 251873,
+      "word": "4人入室抢婴案妈妈索赔600多万",
+      "onboard_time": 1743428243,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56346,
@@ -6291,6 +6323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28936,
+      "num": 108051,
+      "word": "缅甸华商称救援只能徒手挖废墟",
+      "onboard_time": 1743428663,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 28656,
       "num": 33138,
       "word": "蒋梦婕一公舞台",
@@ -6507,6 +6547,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 19376,
+      "num": 236667,
+      "word": "甲亢哥直播打破外网的单向认知",
+      "onboard_time": 1743428544,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 19304,
       "num": 34891,
       "word": "缅甸地震救援在一线",
@@ -6704,6 +6752,9 @@
     },
     {
       "word": "#中共中央政治局召开会议#"
+    },
+    {
+      "word": "#2025是推进巡视全覆盖的关键一年#"
     }
   ]
 }

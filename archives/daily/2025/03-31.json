@@ -1,6 +1,6 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743428013487,
+  "endTime": 1743428706877,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -467,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 486298,
+      "num": 486298,
+      "word": "横店变竖店了",
+      "onboard_time": 1743422661,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 482290,
       "num": 439144,
       "word": "房琪 彭小苒",
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 459090,
-      "num": 356062,
+      "num": 423659,
       "word": "李昀锐好标准的体育生下楼梯",
       "onboard_time": 1743423747,
       "rank": 8,
@@ -545,14 +553,6 @@
       "onboard_time": 1743407121,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 441131,
-      "num": 441131,
-      "word": "横店变竖店了",
-      "onboard_time": 1743422661,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 434696,
@@ -779,6 +779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 310083,
+      "num": 310083,
+      "word": "雁回时反转",
+      "onboard_time": 1743423443,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302545,
       "num": 302545,
       "word": "音乐节 网红",
@@ -793,14 +801,6 @@
       "onboard_time": 1743409764,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 296257,
-      "num": 296257,
-      "word": "雁回时反转",
-      "onboard_time": 1743423443,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 295995,
@@ -971,6 +971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 244120,
+      "num": 178674,
+      "word": "QQ音乐 内涵",
+      "onboard_time": 1743427943,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 242821,
       "num": 242821,
       "word": "杨紫张挺 合作",
@@ -1115,6 +1123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 214589,
+      "num": 269114,
+      "word": "newjeans是高层内斗的牺牲品吗",
+      "onboard_time": 1743427463,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214060,
       "num": 269821,
       "word": "刘国正妻子谈王楚钦",
@@ -1203,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199844,
+      "num": 199844,
+      "word": "站姐愚人节团建预告",
+      "onboard_time": 1743425964,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199339,
       "num": 199339,
       "word": "第一次看到这么真实的短剧",
@@ -1267,14 +1291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195095,
-      "num": 269114,
-      "word": "newjeans是高层内斗的牺牲品吗",
-      "onboard_time": 1743427463,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195026,
       "num": 195026,
       "word": "朴成训 来财",
@@ -1323,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191990,
+      "num": 191990,
+      "word": "乘风2025最新排名",
+      "onboard_time": 1743427703,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191459,
       "num": 253944,
       "word": "傅首尔隔空喊话邓萃雯",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1743425424,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187100,
+      "num": 259532,
+      "word": "男子篡改好友专升本志愿致其落榜获刑",
+      "onboard_time": 1743426382,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185280,
@@ -1420,19 +1452,11 @@
     },
     {
       "raw_hot": 182007,
-      "num": 260813,
+      "num": 283565,
       "word": "申请过国家助学贷款的同学注意了",
       "onboard_time": 1743418281,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180990,
-      "num": 180990,
-      "word": "站姐愚人节团建预告",
-      "onboard_time": 1743425964,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 179497,
@@ -1441,6 +1465,14 @@
       "onboard_time": 1743416362,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179115,
+      "num": 179115,
+      "word": "甲亢哥吃皮蛋",
+      "onboard_time": 1743425424,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 178078,
@@ -1529,6 +1561,14 @@
       "onboard_time": 1743376157,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170180,
+      "num": 170180,
+      "word": "愚人节文案",
+      "onboard_time": 1743425243,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 169898,
@@ -1683,6 +1723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156248,
+      "num": 156248,
+      "word": "雁回时叔婶是好人",
+      "onboard_time": 1743428183,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155788,
       "num": 155788,
       "word": "金秀贤将召开记者会",
@@ -1745,22 +1793,6 @@
       "onboard_time": 1743412764,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151430,
-      "num": 259532,
-      "word": "男子篡改好友专升本志愿致其落榜获刑",
-      "onboard_time": 1743426382,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151266,
-      "num": 151266,
-      "word": "甲亢哥吃皮蛋",
-      "onboard_time": 1743425424,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 150646,
@@ -1979,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137143,
+      "num": 137143,
+      "word": "山姆客服称水果中吃出虫是正常情况",
+      "onboard_time": 1743428243,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136960,
       "num": 136960,
       "word": "黄霄雲 原创",
@@ -2123,14 +2163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132405,
-      "num": 132405,
-      "word": "愚人节文案",
-      "onboard_time": 1743425243,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 131586,
       "num": 131586,
       "word": "章昊好权威的脸",
@@ -2235,14 +2267,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 121466,
-      "num": 121466,
-      "word": "乘风2025最新排名",
-      "onboard_time": 1743427703,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121252,
       "num": 121252,
       "word": "白客想和沈腾HE",
@@ -2265,14 +2289,6 @@
       "onboard_time": 1743410725,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 120781,
-      "num": 120781,
-      "word": "QQ音乐 内涵",
-      "onboard_time": 1743427943,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 119514,
@@ -2483,6 +2499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101423,
+      "num": 101423,
+      "word": "雷军摄影夜校迎来首批毕业生",
+      "onboard_time": 1743428544,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 101118,
       "num": 320302,
       "word": "动手能力成为AI分水岭",
@@ -2585,6 +2609,14 @@
       "onboard_time": 1743377780,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90100,
+      "num": 448868,
+      "word": "沉浸式感受广西三月三",
+      "onboard_time": 1743426863,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 88871,
@@ -2851,14 +2883,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 64697,
-      "num": 448868,
-      "word": "沉浸式感受广西三月三",
-      "onboard_time": 1743426863,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 64362,
       "num": 248266,
       "word": "公共场所的游烟何时不呛人",
@@ -2953,6 +2977,14 @@
       "onboard_time": 1743408624,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56648,
+      "num": 251873,
+      "word": "4人入室抢婴案妈妈索赔600多万",
+      "onboard_time": 1743428243,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56346,
@@ -3227,6 +3259,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 28936,
+      "num": 108051,
+      "word": "缅甸华商称救援只能徒手挖废墟",
+      "onboard_time": 1743428663,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 27869,
       "num": 253882,
       "word": "成本30元阿胶4980元卖老人",
@@ -3361,6 +3401,14 @@
       "onboard_time": 1743424346,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19376,
+      "num": 236667,
+      "word": "甲亢哥直播打破外网的单向认知",
+      "onboard_time": 1743428544,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 19176,
@@ -3498,6 +3546,9 @@
     },
     {
       "word": "#中共中央政治局召开会议#"
+    },
+    {
+      "word": "#2025是推进巡视全覆盖的关键一年#"
     }
   ]
 }
