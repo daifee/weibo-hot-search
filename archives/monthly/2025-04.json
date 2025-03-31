@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743456205012,
+  "endTime": 1743457068696,
   "band_list": [
     {
       "raw_hot": 2163339,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88561,
+      "num": 177520,
+      "word": "日本对中国人民负有严重历史罪责",
+      "onboard_time": 1743441797,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 83304,
       "num": 134337,
       "word": "乘风2025四公帮唱组队征集",
@@ -313,14 +321,6 @@
       "onboard_time": 1743416362,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71289,
-      "num": 128142,
-      "word": "日本对中国人民负有严重历史罪责",
-      "onboard_time": 1743441797,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 71106,
@@ -491,7 +491,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 23321,
+      "raw_hot": 23480,
       "num": 27207,
       "word": "4月1日含义是81192",
       "onboard_time": 1743447134,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 16493,
-      "num": 19466,
+      "num": 20999,
       "word": "年级主任多次让学生砸手机手表",
       "onboard_time": 1743450254,
       "rank": 27,
@@ -532,35 +532,35 @@
     },
     {
       "raw_hot": 14758,
-      "num": 19485,
+      "num": 20975,
       "word": "大克重金饰销量随金价上涨下滑",
       "onboard_time": 1743450734,
       "rank": 34,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13264,
-      "num": 19449,
+      "raw_hot": 14620,
+      "num": 20957,
       "word": "重新定义39岁不着调的中年女性",
       "onboard_time": 1743452593,
       "rank": 48,
       "category": "幽默"
     },
     {
-      "raw_hot": 12721,
-      "num": 19425,
-      "word": "你的存在本身就是另一种答案",
-      "onboard_time": 1743454933,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 12444,
+      "raw_hot": 13990,
       "num": 24989,
       "word": "多图直击缅甸震中救援现场",
       "onboard_time": 1743453134,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12721,
+      "num": 20786,
+      "word": "你的存在本身就是另一种答案",
+      "onboard_time": 1743454933,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 11762,
@@ -571,12 +571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11643,
+      "raw_hot": 11648,
       "num": 49043,
       "word": "这是我们要建成的科技强国",
       "onboard_time": 1743446474,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11360,
+      "num": 20721,
+      "word": "法国极右翼领导人勒庞被定罪",
+      "onboard_time": 1743453015,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11331,
@@ -585,14 +593,6 @@
       "onboard_time": 1743447076,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11318,
-      "num": 19147,
-      "word": "法国极右翼领导人勒庞被定罪",
-      "onboard_time": 1743453015,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 11246,
