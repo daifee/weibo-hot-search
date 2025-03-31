@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/01 02:33:40
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/01 02:46:58
 </p>
 </blockquote>
 <p>
@@ -376,19 +376,25 @@ BLACKPINK未公开的物料（热度：65132）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E9%AB%98%E7%A9%BA%E8%B5%B0%E5%BB%8A%E8%A2%AB%E9%9C%87%E6%96%AD%E7%94%B7%E5%AD%90%E5%A5%8B%E5%8A%9B%E8%B7%B3%E5%90%91%E5%AF%B9%E9%9D%A2%23" target="weibo">
-泰高空走廊被震断男子奋力跳向对面（热度：23381）
+泰高空走廊被震断男子奋力跳向对面（热度：25238）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8C%96%E9%87%8E%E8%8F%9C%23" target="weibo">
-挖野菜（热度：20511）
+挖野菜（热度：22973）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AF%B4%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%8E%E8%BF%98%E6%83%B3%E5%8F%82%E5%8A%A0%E6%AF%94%E8%B5%9B%23" target="weibo">
-马龙说全运会后还想参加比赛（热度：15246）
+马龙说全运会后还想参加比赛（热度：15817）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E6%88%91%E4%BB%AC%E8%A6%81%E5%BB%BA%E6%88%90%E7%9A%84%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%23" target="weibo">
+这是我们要建成的科技强国（热度：11484）
 </a>
 </li>
 
