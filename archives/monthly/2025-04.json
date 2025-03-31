@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743449785902,
+  "endTime": 1743452852026,
   "band_list": [
     {
       "raw_hot": 2163339,
@@ -507,12 +507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17503,
+      "raw_hot": 17698,
       "num": 28489,
       "word": "美国又有一架飞机坠毁",
       "onboard_time": 1743447015,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 16493,
+      "num": 17188,
+      "word": "年级主任多次让学生砸手机手表",
+      "onboard_time": 1743450254,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15817,
@@ -523,7 +531,23 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11631,
+      "raw_hot": 14464,
+      "num": 17170,
+      "word": "大克重金饰销量随金价上涨下滑",
+      "onboard_time": 1743450734,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11762,
+      "num": 17148,
+      "word": "耒水水质已全线恢复正常",
+      "onboard_time": 1743449834,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11643,
       "num": 49043,
       "word": "这是我们要建成的科技强国",
       "onboard_time": 1743446474,
@@ -536,6 +560,22 @@
       "word": "湖南通报耒水流域铊浓度恢复正常",
       "onboard_time": 1743447076,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10907,
+      "num": 17138,
+      "word": "重新定义39岁不着调的中年女性",
+      "onboard_time": 1743452593,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 9414,
+      "num": 17180,
+      "word": "如何让企业更有获得感",
+      "onboard_time": 1743451034,
+      "rank": 30,
       "category": "民生新闻"
     }
   ],
