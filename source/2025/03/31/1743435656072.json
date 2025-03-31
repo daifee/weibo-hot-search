@@ -1,0 +1,410 @@
+{
+  "runTime": 1743435656072,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 616596,
+        "num": 1098655,
+        "word": "山姆客服称水果中吃出虫是正常情况",
+        "onboard_time": 1743428243,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483319,
+        "num": 483319,
+        "word": "河南一枯井发现近百名烈士遗骸",
+        "onboard_time": 1743419122,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70535,
+        "num": 393918,
+        "word": "沉浸式感受广西三月三",
+        "onboard_time": 1743426863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 847535,
+        "num": 390296,
+        "word": "王艳发了赤脚鬼",
+        "onboard_time": 1743431003,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350261,
+        "num": 350261,
+        "word": "甲亢哥针灸正骨后已老实",
+        "onboard_time": 1743431784,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 293084,
+        "num": 293084,
+        "word": "横店变竖店了",
+        "onboard_time": 1743422661,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304422,
+        "num": 289778,
+        "word": "乘风2025四公帮唱组队征集",
+        "onboard_time": 1743430644,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294530,
+        "num": 285629,
+        "word": "时代少年团 录播",
+        "onboard_time": 1743431064,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267348,
+        "num": 267348,
+        "word": "好房子的新标准来了",
+        "onboard_time": 1743422304,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156461,
+        "num": 265666,
+        "word": "愚人节文案",
+        "onboard_time": 1743425243,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2118332,
+        "num": 263404,
+        "word": "金秀贤和未成年金赛纶约会视频",
+        "onboard_time": 1743422722,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1484981,
+        "num": 258784,
+        "word": "心理师锐评赵露思新综艺",
+        "onboard_time": 1743430524,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 723515,
+        "num": 256850,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1743404000,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255090,
+        "num": 255090,
+        "word": "男子肝癌晚期只打一针获新生",
+        "onboard_time": 1743400582,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54201,
+        "num": 253866,
+        "word": "淘宝推出首个AI机器人带货主播",
+        "onboard_time": 1743433282,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113250,
+        "num": 250059,
+        "word": "中国咖啡98%来自云南",
+        "onboard_time": 1743434362,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 628414,
+        "num": 245453,
+        "word": "金秀贤公开录音证据",
+        "onboard_time": 1743420622,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397979,
+        "num": 243658,
+        "word": "李现的微博逐渐奇怪",
+        "onboard_time": 1743429082,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380640,
+        "num": 237500,
+        "word": "站姐愚人节团建预告",
+        "onboard_time": 1743425964,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277101,
+        "num": 234107,
+        "word": "中医把脉称甲亢哥没有甲亢",
+        "onboard_time": 1743429204,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 233113,
+        "num": 233113,
+        "word": "陈昊宇陈丽君四公帮唱",
+        "onboard_time": 1743434662,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210119,
+        "num": 210119,
+        "word": "女装啥时候能回归正常审美",
+        "onboard_time": 1743432503,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208990,
+        "num": 208990,
+        "word": "李昀锐好标准的体育生下楼梯",
+        "onboard_time": 1743423747,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192762,
+        "num": 192762,
+        "word": "宇露君沾",
+        "onboard_time": 1743432143,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176528,
+        "num": 176528,
+        "word": "韩国庄仕洋",
+        "onboard_time": 1743413604,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145955,
+        "num": 145955,
+        "word": "坍塌旅馆靠4瓶水存活女孩谈获救经历",
+        "onboard_time": 1743433642,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 135066,
+        "num": 145820,
+        "word": "乘风2025最新排名",
+        "onboard_time": 1743427703,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119709,
+        "num": 145538,
+        "word": "黄霄雲方回应翻唱争议",
+        "onboard_time": 1743432623,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102213,
+        "num": 145511,
+        "word": "姚安娜带华为手机参加活动",
+        "onboard_time": 1743430824,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 88957,
+        "num": 145247,
+        "word": "吴柳芳发博过三月三",
+        "onboard_time": 1743429804,
+        "rank": 29,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 166310,
+        "num": 144886,
+        "word": "佳霏猫",
+        "onboard_time": 1743434602,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144885,
+        "num": 144885,
+        "word": "男子赠妻子闺蜜7万被判全额返还加利息",
+        "onboard_time": 1743431364,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565134,
+        "num": 142293,
+        "word": "QQ音乐 内涵",
+        "onboard_time": 1743427943,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149531,
+        "num": 140143,
+        "word": "找工作不要限制于招聘app",
+        "onboard_time": 1743421164,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136384,
+        "num": 136384,
+        "word": "零公摊时代真的要来了吗",
+        "onboard_time": 1743431544,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123170,
+        "num": 123170,
+        "word": "国家标准住宅项目规范发布",
+        "onboard_time": 1743422304,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118536,
+        "num": 118536,
+        "word": "美股",
+        "onboard_time": 1743431842,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115989,
+        "num": 115989,
+        "word": "甲亢哥成都行直播",
+        "onboard_time": 1743407121,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 110846,
+        "num": 110846,
+        "word": "梁洁造型师",
+        "onboard_time": 1743425123,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107887,
+        "num": 107887,
+        "word": "檀健次 帕拉丁",
+        "onboard_time": 1743430223,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98217,
+        "num": 98217,
+        "word": "4层及以上住宅设电梯",
+        "onboard_time": 1743423865,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96057,
+        "num": 96057,
+        "word": "雁回时反转",
+        "onboard_time": 1743423443,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89633,
+        "num": 89633,
+        "word": "BLACKPINK未公开的物料",
+        "onboard_time": 1743420501,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88748,
+        "num": 88748,
+        "word": "黄子韬徐艺洋睡觉前要对暗号",
+        "onboard_time": 1743407121,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99258,
+        "num": 88661,
+        "word": "檀健次当评委了",
+        "onboard_time": 1743435442,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88082,
+        "num": 88082,
+        "word": "李现又去公园打鸟了",
+        "onboard_time": 1743416362,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86360,
+        "num": 86360,
+        "word": "领克08",
+        "onboard_time": 1743434781,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 85596,
+        "num": 85596,
+        "word": "缅甸地震已遇难2065人",
+        "onboard_time": 1743431724,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 81225,
+        "num": 81225,
+        "word": "周一的救星",
+        "onboard_time": 1743432324,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80773,
+        "num": 80773,
+        "word": "newjeans是高层内斗的牺牲品吗",
+        "onboard_time": 1743427463,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025是推进巡视全覆盖的关键一年#"
+    }
+  }
+}
