@@ -1,0 +1,410 @@
+{
+  "runTime": 1743432189541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 768918,
+        "num": 1123026,
+        "word": "河南一枯井发现近百名烈士遗骸",
+        "onboard_time": 1743419122,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525302,
+        "num": 525302,
+        "word": "山姆客服称水果中吃出虫是正常情况",
+        "onboard_time": 1743428243,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91256,
+        "num": 448816,
+        "word": "沉浸式感受广西三月三",
+        "onboard_time": 1743426863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 777455,
+        "num": 445114,
+        "word": "王艳发了赤脚鬼",
+        "onboard_time": 1743431003,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427437,
+        "num": 427437,
+        "word": "横店变竖店了",
+        "onboard_time": 1743422661,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372837,
+        "num": 372837,
+        "word": "李昀锐好标准的体育生下楼梯",
+        "onboard_time": 1743423747,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364744,
+        "num": 364744,
+        "word": "好房子的新标准来了",
+        "onboard_time": 1743422304,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318589,
+        "num": 318589,
+        "word": "时代少年团 录播",
+        "onboard_time": 1743431064,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174902,
+        "num": 318532,
+        "word": "中医把脉称甲亢哥没有甲亢",
+        "onboard_time": 1743429204,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 60134,
+        "num": 317438,
+        "word": "缅甸地震已遇难2065人",
+        "onboard_time": 1743431724,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 5219537,
+        "num": 316457,
+        "word": "金秀贤和未成年金赛纶约会视频",
+        "onboard_time": 1743422722,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 809463,
+        "num": 315844,
+        "word": "心理师锐评赵露思新综艺",
+        "onboard_time": 1743430524,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632816,
+        "num": 314616,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1743404000,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350650,
+        "num": 314134,
+        "word": "男子肝癌晚期只打一针获新生",
+        "onboard_time": 1743400582,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76530,
+        "num": 313659,
+        "word": "零公摊时代真的要来了吗",
+        "onboard_time": 1743431544,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 769017,
+        "num": 312325,
+        "word": "金秀贤拍的金赛纶睡觉照片",
+        "onboard_time": 1743425363,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312030,
+        "num": 312030,
+        "word": "李现的微博逐渐奇怪",
+        "onboard_time": 1743429082,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284780,
+        "num": 284780,
+        "word": "韩国庄仕洋",
+        "onboard_time": 1743413604,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247678,
+        "num": 247678,
+        "word": "乘风2025四公帮唱组队征集",
+        "onboard_time": 1743430644,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45577,
+        "num": 227550,
+        "word": "室友电动车燃爆烧伤大学生案新进展",
+        "onboard_time": 1743431183,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192459,
+        "num": 219953,
+        "word": "4层及以上住宅设电梯",
+        "onboard_time": 1743423865,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276621,
+        "num": 218956,
+        "word": "李现又去公园打鸟了",
+        "onboard_time": 1743416362,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215469,
+        "num": 215469,
+        "word": "雁回时反转",
+        "onboard_time": 1743423443,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205920,
+        "num": 205920,
+        "word": "甲亢哥成都行直播",
+        "onboard_time": 1743407121,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 203275,
+        "num": 203275,
+        "word": "宇露君沾",
+        "onboard_time": 1743432143,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196364,
+        "num": 196364,
+        "word": "乘风2025最新排名",
+        "onboard_time": 1743427703,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186669,
+        "num": 186669,
+        "word": "找工作不要限制于招聘app",
+        "onboard_time": 1743421164,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185712,
+        "num": 185712,
+        "word": "梁洁造型师",
+        "onboard_time": 1743425123,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100868,
+        "num": 184272,
+        "word": "男子赠妻子闺蜜7万被判全额返还加利息",
+        "onboard_time": 1743431364,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75176,
+        "num": 182937,
+        "word": "吴柳芳发博过三月三",
+        "onboard_time": 1743429804,
+        "rank": 29,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 182865,
+        "num": 182865,
+        "word": "newjeans是高层内斗的牺牲品吗",
+        "onboard_time": 1743427463,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1180757,
+        "num": 182010,
+        "word": "QQ音乐 内涵",
+        "onboard_time": 1743427943,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177322,
+        "num": 177322,
+        "word": "站姐愚人节团建预告",
+        "onboard_time": 1743425964,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173719,
+        "num": 173719,
+        "word": "国家标准住宅项目规范发布",
+        "onboard_time": 1743422304,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165384,
+        "num": 165384,
+        "word": "美股",
+        "onboard_time": 1743431842,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 555975,
+        "num": 165144,
+        "word": "张檬称月子要坐满100天",
+        "onboard_time": 1743423144,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162176,
+        "num": 162176,
+        "word": "乌尔善发文",
+        "onboard_time": 1743422423,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51956,
+        "num": 159583,
+        "word": "四川男篮vs广东男篮",
+        "onboard_time": 1743432084,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158697,
+        "num": 158697,
+        "word": "姚安娜带华为手机参加活动",
+        "onboard_time": 1743430824,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161746,
+        "num": 157575,
+        "word": "愚人节文案",
+        "onboard_time": 1743425243,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156017,
+        "num": 156017,
+        "word": "甲亢哥针灸正骨后已老实",
+        "onboard_time": 1743431784,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 161786,
+        "num": 150519,
+        "word": "乌尔善说期待未来在作品中再相聚",
+        "onboard_time": 1743429082,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139823,
+        "num": 139823,
+        "word": "檀健次 帕拉丁",
+        "onboard_time": 1743430223,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137709,
+        "num": 137709,
+        "word": "4人入室抢婴案妈妈索赔600多万",
+        "onboard_time": 1743428243,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137599,
+        "num": 137599,
+        "word": "CBA季后赛对阵",
+        "onboard_time": 1743430344,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136142,
+        "num": 136142,
+        "word": "雁回时叔婶是好人",
+        "onboard_time": 1743428183,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134493,
+        "num": 134493,
+        "word": "10元盒饭姐喊话浪费顾客一辈子别来",
+        "onboard_time": 1743411145,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131901,
+        "num": 131901,
+        "word": "黄子韬徐艺洋睡觉前要对暗号",
+        "onboard_time": 1743407121,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118974,
+        "num": 118974,
+        "word": "马龙说全运会后还想参加比赛",
+        "onboard_time": 1743429444,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107603,
+        "num": 107603,
+        "word": "50万竟然买了4辆宝马",
+        "onboard_time": 1743415223,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025是推进巡视全覆盖的关键一年#"
+    }
+  }
+}
