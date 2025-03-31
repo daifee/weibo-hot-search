@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1743428706877,
+  "endTime": 1743431064269,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -3769,6 +3769,14 @@
       "onboard_time": 1743209841,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1355439,
+      "num": 205904,
+      "word": "QQ音乐 内涵",
+      "onboard_time": 1743427943,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 1355394,
@@ -13116,7 +13124,7 @@
     },
     {
       "raw_hot": 599864,
-      "num": 265907,
+      "num": 267992,
       "word": "韩国庄仕洋",
       "onboard_time": 1743413604,
       "rank": 30,
@@ -14648,6 +14656,14 @@
       "word": "核物理学家刘畅从美回国",
       "onboard_time": 1741740502,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548915,
+      "num": 548915,
+      "word": "横店变竖店了",
+      "onboard_time": 1743422661,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -16643,14 +16659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 486298,
-      "num": 486298,
-      "word": "横店变竖店了",
-      "onboard_time": 1743422661,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 486194,
       "num": 626764,
       "word": "警方通报复旦一学生失联后死亡",
@@ -17636,7 +17644,7 @@
     },
     {
       "raw_hot": 459090,
-      "num": 423659,
+      "num": 441305,
       "word": "李昀锐好标准的体育生下楼梯",
       "onboard_time": 1743423747,
       "rank": 8,
@@ -19681,6 +19689,14 @@
       "onboard_time": 1742795542,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 410791,
+      "num": 410791,
+      "word": "山姆客服称水果中吃出虫是正常情况",
+      "onboard_time": 1743428243,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 410775,
@@ -26915,6 +26931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294611,
+      "num": 294611,
+      "word": "李现又去公园打鸟了",
+      "onboard_time": 1743416362,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294555,
       "num": 294555,
       "word": "吴艳妮新造型酷似阿丽塔战斗天使",
@@ -27332,7 +27356,7 @@
     },
     {
       "raw_hot": 290155,
-      "num": 290155,
+      "num": 292600,
       "word": "4层及以上住宅设电梯",
       "onboard_time": 1743423865,
       "rank": 21,
@@ -29587,6 +29611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 265194,
+      "num": 237842,
+      "word": "心理师锐评赵露思新综艺",
+      "onboard_time": 1743430524,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265157,
       "num": 274108,
       "word": "约基奇恐怖三双历史第一人",
@@ -31803,6 +31835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244433,
+      "num": 269114,
+      "word": "newjeans是高层内斗的牺牲品吗",
+      "onboard_time": 1743427463,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244425,
       "num": 244425,
       "word": "奔跑吧终于等来周传雄",
@@ -31841,14 +31881,6 @@
       "onboard_time": 1742993061,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 244120,
-      "num": 178674,
-      "word": "QQ音乐 内涵",
-      "onboard_time": 1743427943,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 244079,
@@ -32961,6 +32993,14 @@
       "onboard_time": 1741510762,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 234686,
+      "num": 234686,
+      "word": "李现的微博逐渐奇怪",
+      "onboard_time": 1743429082,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 234630,
@@ -34209,6 +34249,14 @@
       "onboard_time": 1741778128,
       "rank": 9,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 226002,
+      "num": 226002,
+      "word": "乘风2025最新排名",
+      "onboard_time": 1743427703,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 225936,
@@ -36211,14 +36259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 214589,
-      "num": 269114,
-      "word": "newjeans是高层内斗的牺牲品吗",
-      "onboard_time": 1743427463,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214534,
       "num": 277220,
       "word": "尤长靖你好好唱歌拍戏我另有人选",
@@ -36881,6 +36921,14 @@
       "onboard_time": 1743166342,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211485,
+      "num": 211485,
+      "word": "愚人节文案",
+      "onboard_time": 1743425243,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 211461,
@@ -38241,6 +38289,14 @@
       "onboard_time": 1742531782,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205894,
+      "num": 205894,
+      "word": "站姐愚人节团建预告",
+      "onboard_time": 1743180619,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 205880,
@@ -40153,14 +40209,6 @@
       "onboard_time": 1741489462,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199844,
-      "num": 199844,
-      "word": "站姐愚人节团建预告",
-      "onboard_time": 1743180619,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 199836,
@@ -42643,14 +42691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 191990,
-      "num": 191990,
-      "word": "乘风2025最新排名",
-      "onboard_time": 1743427703,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191939,
       "num": 191939,
       "word": "平越南输中国韩国球迷怒了",
@@ -43353,6 +43393,14 @@
       "onboard_time": 1741274422,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 189490,
+      "num": 189490,
+      "word": "檀健次 帕拉丁",
+      "onboard_time": 1743430223,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 189459,
@@ -44265,6 +44313,14 @@
       "onboard_time": 1741061060,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186841,
+      "num": 186841,
+      "word": "乘风2025四公帮唱组队征集",
+      "onboard_time": 1743430644,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 186837,
@@ -46291,14 +46347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179497,
-      "num": 226863,
-      "word": "李现又去公园打鸟了",
-      "onboard_time": 1743416362,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179460,
       "num": 217790,
       "word": "桑延温以凡同居像异地恋",
@@ -46401,6 +46449,14 @@
       "onboard_time": 1740827662,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179204,
+      "num": 179204,
+      "word": "CBA季后赛对阵",
+      "onboard_time": 1743430344,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 179188,
@@ -48865,14 +48921,6 @@
       "onboard_time": 1740834142,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 170180,
-      "num": 170180,
-      "word": "愚人节文案",
-      "onboard_time": 1743425243,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 170165,
@@ -52043,6 +52091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161165,
+      "num": 161165,
+      "word": "雁回时叔婶是好人",
+      "onboard_time": 1743428183,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161160,
       "num": 181925,
       "word": "王楚钦拍公式照",
@@ -52729,6 +52785,14 @@
       "onboard_time": 1741360342,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 159249,
+      "num": 251873,
+      "word": "4人入室抢婴案妈妈索赔600多万",
+      "onboard_time": 1743428243,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159232,
@@ -53883,14 +53947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156248,
-      "num": 156248,
-      "word": "雁回时叔婶是好人",
-      "onboard_time": 1743428183,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156222,
       "num": 156222,
       "word": "李晨周深孟子义走红毯",
@@ -53977,6 +54033,14 @@
       "onboard_time": 1741231037,
       "rank": 14,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 156004,
+      "num": 156004,
+      "word": "马龙说全运会后还想参加比赛",
+      "onboard_time": 1743429444,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 155990,
@@ -54193,6 +54257,14 @@
       "onboard_time": 1740922340,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155419,
+      "num": 236667,
+      "word": "甲亢哥直播打破外网的单向认知",
+      "onboard_time": 1743428544,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 155384,
@@ -61523,14 +61595,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 137143,
-      "num": 137143,
-      "word": "山姆客服称水果中吃出虫是正常情况",
-      "onboard_time": 1743428243,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137137,
       "num": 137137,
       "word": "张新成喂鸡vlog",
@@ -63731,6 +63795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131655,
+      "num": 131655,
+      "word": "乌尔善说期待未来在作品中再相聚",
+      "onboard_time": 1743429082,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131598,
       "num": 131598,
       "word": "男孩为躲脱缰宠物狗追逐遭车祸致残",
@@ -64089,6 +64161,14 @@
       "onboard_time": 1740785056,
       "rank": 16,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 130541,
+      "num": 130541,
+      "word": "王艳发了赤脚鬼",
+      "onboard_time": 1743431003,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 130540,
@@ -80011,6 +80091,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 89097,
+      "num": 287743,
+      "word": "中医把脉称甲亢哥没有甲亢",
+      "onboard_time": 1743429204,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 89077,
       "num": 120391,
       "word": "卓沅又做了一件有结果的事",
@@ -81361,6 +81449,14 @@
       "onboard_time": 1741090340,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83575,
+      "num": 128333,
+      "word": "姚安娜带华为手机参加活动",
+      "onboard_time": 1743430824,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 83570,
@@ -86531,6 +86627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 59756,
+      "num": 205914,
+      "word": "吴柳芳发博过三月三",
+      "onboard_time": 1743429804,
+      "rank": 29,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 59750,
       "num": 110031,
       "word": "春日故宫玉兰壁纸上新",
@@ -87395,14 +87499,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 56648,
-      "num": 251873,
-      "word": "4人入室抢婴案妈妈索赔600多万",
-      "onboard_time": 1743428243,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56643,
       "num": 227088,
       "word": "夏以昼和我共鸣",
@@ -87449,6 +87545,14 @@
       "onboard_time": 1742989702,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 56396,
+      "num": 243515,
+      "word": "12306回应有人光脚踩座椅怎么办",
+      "onboard_time": 1743429505,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56371,
@@ -89955,6 +90059,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 46414,
+      "num": 261046,
+      "word": "直播卖所谓降糖食品误导消费者停药",
+      "onboard_time": 1743429383,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 46401,
       "num": 209748,
       "word": "蔡康永说平静大于快乐",
@@ -91401,6 +91513,14 @@
       "onboard_time": 1742999303,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 41421,
+      "num": 207106,
+      "word": "特朗普称乌克兰永远无法加入北约",
+      "onboard_time": 1743429804,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41411,
@@ -95107,6 +95227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29562,
+      "num": 241981,
+      "word": "WTT仁川冠军赛首轮赛程",
+      "onboard_time": 1743429564,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29554,
       "num": 30750,
       "word": "一些金包银首饰效果只有几个月",
@@ -98571,14 +98699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19376,
-      "num": 236667,
-      "word": "甲亢哥直播打破外网的单向认知",
-      "onboard_time": 1743428544,
-      "rank": 22,
-      "category": "网红"
-    },
-    {
       "raw_hot": 19373,
       "num": 170463,
       "word": "堀与宫村好伟大的脸",
@@ -101281,6 +101401,14 @@
       "onboard_time": 1742237235,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10179,
+      "num": 159425,
+      "word": "特朗普对俄乌和谈心态完全改变",
+      "onboard_time": 1743430644,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10106,
