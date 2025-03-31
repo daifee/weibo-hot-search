@@ -1,10 +1,10 @@
 {
   "startTime": 1743352079113,
-  "endTime": 1743387490385,
+  "endTime": 1743390614481,
   "band_list": [
     {
       "raw_hot": 2503187,
-      "num": 396344,
+      "num": 402026,
       "word": "一直对月薪三万没概念直到换算成天",
       "onboard_time": 1743382162,
       "rank": 10,
@@ -19,6 +19,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1313665,
+      "num": 406162,
+      "word": "李惠利不鼓掌事件后被换角",
+      "onboard_time": 1743387800,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1231445,
       "num": 1231445,
       "word": "第四代住宅来了",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1160305,
-      "num": 394062,
+      "num": 395373,
       "word": "李惠利拒绝给劣迹艺人鼓掌",
       "onboard_time": 1743381981,
       "rank": 11,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 890964,
-      "num": 391786,
+      "num": 399883,
       "word": "雪莉恨自己长得漂亮",
       "onboard_time": 1743385520,
       "rank": 12,
@@ -83,20 +91,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 757304,
+      "num": 757304,
+      "word": "哪吒2距全球第4就差10亿了",
+      "onboard_time": 1743385641,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 738421,
       "num": 738421,
       "word": "雷军把车的价格打下来后网友破防了",
       "onboard_time": 1743385821,
       "rank": 32,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 706003,
-      "num": 706003,
-      "word": "哪吒2距全球第4就差10亿了",
-      "onboard_time": 1743385641,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 654976,
@@ -113,6 +121,22 @@
       "onboard_time": 1743379460,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 583213,
+      "num": 583213,
+      "word": "金价",
+      "onboard_time": 1743386120,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 489839,
+      "num": 489839,
+      "word": "三月三是什么节",
+      "onboard_time": 1743386360,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 487719,
@@ -139,11 +163,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 434696,
+      "num": 396378,
+      "word": "新秀王安冉离婚原因",
+      "onboard_time": 1743387560,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433336,
       "num": 433336,
       "word": "距深圳市约170公里发现1亿吨油田",
       "onboard_time": 1743377840,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 411310,
+      "num": 411310,
+      "word": "湖南商人撤离曼德勒途中遇持枪收费",
+      "onboard_time": 1743388279,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 406276,
+      "num": 406276,
+      "word": "浙江小百花越剧院发声明",
+      "onboard_time": 1743387020,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -187,12 +235,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 303586,
+      "num": 246571,
+      "word": "赵露思4月两场线下活动",
+      "onboard_time": 1743389060,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302545,
       "num": 302545,
       "word": "音乐节 网红",
       "onboard_time": 1743379822,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 295995,
+      "num": 295995,
+      "word": "行程图",
+      "onboard_time": 1743387981,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 292621,
@@ -219,20 +283,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249636,
-      "num": 249636,
-      "word": "三月三是什么节",
-      "onboard_time": 1743386360,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 239318,
       "num": 239318,
       "word": "减脂食谱里为什么永远有西兰花",
       "onboard_time": 1743346521,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 237668,
+      "num": 237668,
+      "word": "爸爸坚持带重度孤独症孩子出门13年后",
+      "onboard_time": 1743388821,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236403,
@@ -249,14 +313,6 @@
       "onboard_time": 1743350900,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 232129,
-      "num": 232129,
-      "word": "金价",
-      "onboard_time": 1743386120,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 230080,
@@ -315,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171563,
+      "num": 171563,
+      "word": "大学生模仿春晚机器人跳舞获一等奖",
+      "onboard_time": 1743384740,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171420,
       "num": 171420,
       "word": "开斋节",
@@ -329,14 +393,6 @@
       "onboard_time": 1743376157,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 166144,
-      "num": 166144,
-      "word": "大学生模仿春晚机器人跳舞获一等奖",
-      "onboard_time": 1743384740,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161352,
@@ -361,6 +417,14 @@
       "onboard_time": 1743376999,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159472,
+      "num": 159472,
+      "word": "南京全面取消商品住房限售",
+      "onboard_time": 1743387621,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159025,
@@ -427,11 +491,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 138175,
-      "num": 138175,
-      "word": "浙江小百花越剧院发声明",
-      "onboard_time": 1743387020,
-      "rank": 36,
+      "raw_hot": 137113,
+      "num": 137113,
+      "word": "500万买的绿地洋房成坟景房",
+      "onboard_time": 1743387200,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -459,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127610,
+      "num": 127610,
+      "word": "缅甸29岁姑娘被中国救援队救出",
+      "onboard_time": 1743388101,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 125465,
       "num": 138147,
       "word": "甲亢哥高铁全程2K直播不掉线",
@@ -483,12 +555,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120192,
+      "num": 120192,
+      "word": "金饰价格跌回935元",
+      "onboard_time": 1743390499,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 118353,
       "num": 145523,
       "word": "虞书欣何与双轨杀青路透",
       "onboard_time": 1743384260,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115608,
+      "num": 115608,
+      "word": "中国救援队在缅最新救援画面",
+      "onboard_time": 1743389720,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 115210,
@@ -499,11 +587,27 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 114505,
-      "num": 114505,
-      "word": "500万买的绿地洋房成坟景房",
-      "onboard_time": 1743387200,
+      "raw_hot": 115042,
+      "num": 115042,
+      "word": "特朗普称泽连斯基希望退出矿产协议",
+      "onboard_time": 1743389240,
       "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 114084,
+      "num": 114084,
+      "word": "苹果被曝正在开发AI医生",
+      "onboard_time": 1743388589,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 111668,
+      "num": 398571,
+      "word": "周一广西人继续放假过三月三",
+      "onboard_time": 1743386662,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -643,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94782,
+      "num": 94782,
+      "word": "3月最后一天",
+      "onboard_time": 1743376698,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94119,
       "num": 106030,
       "word": "成龙御用反派去世",
@@ -657,14 +769,6 @@
       "onboard_time": 1743349041,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91681,
-      "num": 398571,
-      "word": "周一广西人继续放假过三月三",
-      "onboard_time": 1743386662,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90666,
@@ -907,14 +1011,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 57722,
-      "num": 57722,
-      "word": "3月最后一天",
-      "onboard_time": 1743376698,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56346,
       "num": 228968,
       "word": "幸存者在废墟外呼唤被困亲人名字",
@@ -937,6 +1033,14 @@
       "onboard_time": 1743342684,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 51817,
+      "num": 127669,
+      "word": "云南瑞丽全市所有学校已正常开展教学",
+      "onboard_time": 1743390440,
+      "rank": 33,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 49485,
@@ -995,12 +1099,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 37720,
+      "num": 196534,
+      "word": "Deepseek50个高级润色指令",
+      "onboard_time": 1743390141,
+      "rank": 24,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 34131,
       "num": 49241,
       "word": "PCL2025",
       "onboard_time": 1743376758,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33786,
+      "num": 246723,
+      "word": "公共场所的游烟何时不呛人",
+      "onboard_time": 1743389781,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30288,
