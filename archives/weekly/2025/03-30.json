@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743395350911,
+  "endTime": 1743396214925,
   "band_list": [
     {
       "raw_hot": 3126539,
@@ -75,6 +75,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1746342,
+      "num": 398765,
+      "word": "白敬亭宋轶都去看了樱花",
+      "onboard_time": 1743393081,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1741150,
       "num": 455337,
       "word": "双胞胎当了1年朋友才发现是亲姐妹",
@@ -88,14 +96,6 @@
       "word": "吴彦祖发文谴责飞机上光脚踩座椅乘客",
       "onboard_time": 1743344963,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1676441,
-      "num": 320833,
-      "word": "白敬亭宋轶都去看了樱花",
-      "onboard_time": 1743393081,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1160305,
-      "num": 395373,
+      "num": 398755,
       "word": "李惠利拒绝给劣迹艺人鼓掌",
       "onboard_time": 1743381981,
       "rank": 11,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 917228,
+      "num": 917228,
+      "word": "虞书欣往导演头上泼水",
+      "onboard_time": 1743392719,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 916477,
       "num": 916477,
       "word": "哪吒2距全球第4就差10亿了",
@@ -305,14 +313,6 @@
       "onboard_time": 1743309389,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 776725,
-      "num": 776725,
-      "word": "虞书欣往导演头上泼水",
-      "onboard_time": 1743392719,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 773311,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 630600,
+      "num": 530579,
+      "word": "颜安和张丹峰儿子是同学",
+      "onboard_time": 1743390982,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 629943,
       "num": 324437,
       "word": "杭州大伯被蛇咬用嘴吸毒液紧急入院",
@@ -537,6 +545,14 @@
       "onboard_time": 1743333923,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 595094,
+      "num": 444770,
+      "word": "宋茜复刻金发梦回Victoria",
+      "onboard_time": 1743393620,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 594124,
@@ -643,14 +659,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 530579,
-      "num": 530579,
-      "word": "颜安和张丹峰儿子是同学",
-      "onboard_time": 1743390982,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 528841,
       "num": 337430,
       "word": "门童 出卡",
@@ -681,14 +689,6 @@
       "onboard_time": 1743317122,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 489273,
-      "num": 317093,
-      "word": "宋茜复刻金发梦回Victoria",
-      "onboard_time": 1743393620,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 487719,
@@ -915,6 +915,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 398750,
+      "num": 398750,
+      "word": "门童粉丝",
+      "onboard_time": 1743394942,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398650,
       "num": 398650,
       "word": "枭起青壤",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1743312029,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 356867,
+      "num": 306032,
+      "word": "雪莉曾和名牌大学高材生庭外和解",
+      "onboard_time": 1743394883,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 355958,
@@ -1235,14 +1251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 291544,
-      "num": 291544,
-      "word": "雪莉曾和名牌大学高材生庭外和解",
-      "onboard_time": 1743394883,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 291223,
       "num": 291223,
       "word": "一全职妈妈离婚获2万元经济补偿",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1743318741,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 281875,
+      "num": 281875,
+      "word": "张杰鸟巢演唱会抢票",
+      "onboard_time": 1743393921,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 281787,
@@ -1523,14 +1539,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 237200,
-      "num": 237200,
-      "word": "门童粉丝",
-      "onboard_time": 1743394942,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233032,
       "num": 233032,
       "word": "起猛了以为张国立上恋综了",
@@ -1545,14 +1553,6 @@
       "onboard_time": 1743350900,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 229049,
-      "num": 229049,
-      "word": "张杰鸟巢演唱会抢票",
-      "onboard_time": 1743393921,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 229046,
@@ -1649,6 +1649,14 @@
       "onboard_time": 1743393560,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213553,
+      "num": 213553,
+      "word": "指鼠为鸭局长已调离",
+      "onboard_time": 1743394702,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212676,
@@ -1913,6 +1921,14 @@
       "onboard_time": 1743341662,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195147,
+      "num": 195147,
+      "word": "马吟吟学女团表情belike品如点痣",
+      "onboard_time": 1743395121,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 194026,
@@ -2388,7 +2404,7 @@
     },
     {
       "raw_hot": 159094,
-      "num": 159094,
+      "num": 398770,
       "word": "一条plog告别三月",
       "onboard_time": 1743391401,
       "rank": 37,
@@ -2441,6 +2457,14 @@
       "onboard_time": 1743330082,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155222,
+      "num": 155222,
+      "word": "谁给齐思钧做的发型",
+      "onboard_time": 1743396023,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 154915,
@@ -2539,14 +2563,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 151724,
-      "num": 151724,
-      "word": "指鼠为鸭局长已调离",
-      "onboard_time": 1743394702,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151228,
       "num": 253268,
       "word": "入室抢婴贩卖案受害者家属发声",
@@ -2587,6 +2603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148866,
+      "num": 245938,
+      "word": "雁回时全靠两位陪嫁家才没散",
+      "onboard_time": 1743395962,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148494,
       "num": 268061,
       "word": "黄奕 花朵裙",
@@ -2608,14 +2632,6 @@
       "word": "蒋一侨人心中的成见是一座大山",
       "onboard_time": 1743341123,
       "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 147231,
-      "num": 147231,
-      "word": "马吟吟学女团表情belike品如点痣",
-      "onboard_time": 1743395121,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -2657,6 +2673,14 @@
       "onboard_time": 1743347362,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145289,
+      "num": 293557,
+      "word": "多颗国产遥感卫星传回缅甸灾区影像",
+      "onboard_time": 1743394281,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 145226,
@@ -2891,6 +2915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134706,
+      "num": 134706,
+      "word": "乔欣晒和姐姐香港游vlog",
+      "onboard_time": 1743396142,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134479,
       "num": 209293,
       "word": "韩最严重山火涉事嫌疑人拒绝认罪",
@@ -2985,6 +3017,14 @@
       "onboard_time": 1743339323,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128862,
+      "num": 248930,
+      "word": "特朗普称若不达成核协议将轰炸伊朗",
+      "onboard_time": 1743395302,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128117,
@@ -3236,7 +3276,7 @@
     },
     {
       "raw_hot": 118146,
-      "num": 118146,
+      "num": 241466,
       "word": "梅婷家庭剧统治区",
       "onboard_time": 1743393020,
       "rank": 48,
@@ -3401,6 +3441,14 @@
       "onboard_time": 1743376397,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 110571,
+      "num": 398751,
+      "word": "淘宝预测2035有望吃上猛犸象肉",
+      "onboard_time": 1743393681,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 110560,
@@ -3667,6 +3715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99484,
+      "num": 246642,
+      "word": "黎深茉法少女",
+      "onboard_time": 1743393863,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99326,
       "num": 313572,
       "word": "新能源汽车维修工月薪或达2万元",
@@ -3689,14 +3745,6 @@
       "onboard_time": 1743371294,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98052,
-      "num": 316528,
-      "word": "淘宝预测2035有望吃上猛犸象肉",
-      "onboard_time": 1743393681,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 97935,
@@ -3761,14 +3809,6 @@
       "onboard_time": 1743333861,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 96491,
-      "num": 163476,
-      "word": "特朗普称若不达成核协议将轰炸伊朗",
-      "onboard_time": 1743395302,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 96322,
@@ -4067,6 +4107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75595,
+      "num": 282423,
+      "word": "韩庚工作室辟谣",
+      "onboard_time": 1743395902,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75467,
       "num": 76284,
       "word": "林一发长文告别国王",
@@ -4123,6 +4171,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 70778,
+      "num": 301212,
+      "word": "肖战春夏清爽居家大片",
+      "onboard_time": 1743394521,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70206,
       "num": 820815,
       "word": "4分钟感受广西的好嘢",
@@ -4169,14 +4225,6 @@
       "onboard_time": 1743387380,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65287,
-      "num": 301212,
-      "word": "肖战春夏清爽居家大片",
-      "onboard_time": 1743394521,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 65125,
@@ -4265,14 +4313,6 @@
       "onboard_time": 1743377419,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 59384,
-      "num": 293557,
-      "word": "多颗国产遥感卫星传回缅甸灾区影像",
-      "onboard_time": 1743394281,
-      "rank": 19,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 59114,
@@ -4508,7 +4548,7 @@
     },
     {
       "raw_hot": 35353,
-      "num": 878515,
+      "num": 917301,
       "word": "2025中国网络媒体论坛",
       "onboard_time": 1743221722,
       "rank": 2,
@@ -4721,6 +4761,14 @@
       "onboard_time": 1743282374,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 19176,
+      "num": 248368,
+      "word": "如何走出AI知识幻觉",
+      "onboard_time": 1743395662,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18321,

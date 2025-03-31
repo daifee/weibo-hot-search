@@ -1,0 +1,410 @@
+{
+  "runTime": 1743396214925,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1564067,
+        "num": 1564067,
+        "word": "店主接到近8吨毛肚订单直接报警",
+        "onboard_time": 1743385821,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 957083,
+        "num": 957083,
+        "word": "官方辟谣指鼠为鸭局长升职",
+        "onboard_time": 1743392301,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 11854,
+        "num": 917301,
+        "word": "2025中国网络媒体论坛",
+        "onboard_time": 1743221722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 917228,
+        "num": 917228,
+        "word": "虞书欣往导演头上泼水",
+        "onboard_time": 1743392719,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652976,
+        "num": 652976,
+        "word": "哪吒2距全球第4就差10亿了",
+        "onboard_time": 1743385641,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 467743,
+        "num": 467743,
+        "word": "雷军把车的价格打下来后网友破防了",
+        "onboard_time": 1743385821,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 630600,
+        "num": 446154,
+        "word": "颜安和张丹峰儿子是同学",
+        "onboard_time": 1743390982,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595094,
+        "num": 444770,
+        "word": "宋茜复刻金发梦回Victoria",
+        "onboard_time": 1743393620,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 398772,
+        "num": 398772,
+        "word": "缅甸强震已致1名中国公民遇难",
+        "onboard_time": 1743393681,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 118754,
+        "num": 398770,
+        "word": "一条plog告别三月",
+        "onboard_time": 1743391401,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1746342,
+        "num": 398765,
+        "word": "白敬亭宋轶都去看了樱花",
+        "onboard_time": 1743393081,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1256908,
+        "num": 398763,
+        "word": "一直对月薪三万没概念直到换算成天",
+        "onboard_time": 1743382162,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 668059,
+        "num": 398760,
+        "word": "雪莉恨自己长得漂亮",
+        "onboard_time": 1743385520,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491521,
+        "num": 398755,
+        "word": "李惠利拒绝给劣迹艺人鼓掌",
+        "onboard_time": 1743381981,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110571,
+        "num": 398751,
+        "word": "淘宝预测2035有望吃上猛犸象肉",
+        "onboard_time": 1743393681,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 398750,
+        "num": 398750,
+        "word": "门童粉丝",
+        "onboard_time": 1743394942,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316567,
+        "num": 316567,
+        "word": "爸爸坚持带重度孤独症孩子出门13年后",
+        "onboard_time": 1743388821,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356867,
+        "num": 306032,
+        "word": "雪莉曾和名牌大学高材生庭外和解",
+        "onboard_time": 1743394883,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70778,
+        "num": 292876,
+        "word": "肖战春夏清爽居家大片",
+        "onboard_time": 1743394521,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75048,
+        "num": 291156,
+        "word": "动手能力成为AI分水岭",
+        "onboard_time": 1743392359,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 290863,
+        "num": 290863,
+        "word": "沈腾抢马丽火腿肠",
+        "onboard_time": 1743391822,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75595,
+        "num": 282423,
+        "word": "韩庚工作室辟谣",
+        "onboard_time": 1743395902,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3484,
+        "num": 282030,
+        "word": "算法向上向善",
+        "onboard_time": 1743315921,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281875,
+        "num": 281875,
+        "word": "张杰鸟巢演唱会抢票",
+        "onboard_time": 1743393921,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38692,
+        "num": 261531,
+        "word": "袁娅维张远柳爽温奕心合唱向往",
+        "onboard_time": 1743394883,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112153,
+        "num": 255091,
+        "word": "新款问界M9又开始圈粉明星",
+        "onboard_time": 1743394942,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 254546,
+        "num": 254546,
+        "word": "虞书欣到泰国七天请了三次客",
+        "onboard_time": 1743379460,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249263,
+        "num": 249263,
+        "word": "三月三是什么节",
+        "onboard_time": 1743386360,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128862,
+        "num": 248930,
+        "word": "特朗普称若不达成核协议将轰炸伊朗",
+        "onboard_time": 1743395302,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19176,
+        "num": 248368,
+        "word": "如何走出AI知识幻觉",
+        "onboard_time": 1743395662,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99484,
+        "num": 246642,
+        "word": "黎深茉法少女",
+        "onboard_time": 1743393863,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148866,
+        "num": 245938,
+        "word": "雁回时全靠两位陪嫁家才没散",
+        "onboard_time": 1743395962,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145289,
+        "num": 245673,
+        "word": "多颗国产遥感卫星传回缅甸灾区影像",
+        "onboard_time": 1743394281,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 244857,
+        "num": 244857,
+        "word": "浙江小百花越剧院发声明",
+        "onboard_time": 1743387020,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65746,
+        "num": 241466,
+        "word": "梅婷家庭剧统治区",
+        "onboard_time": 1743393020,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194212,
+        "num": 241066,
+        "word": "刘国正妻子谈王楚钦",
+        "onboard_time": 1743393560,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240805,
+        "num": 240805,
+        "word": "赵露思4月两场线下活动",
+        "onboard_time": 1743389060,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235801,
+        "num": 235801,
+        "word": "为什么现在老师都不敢管学生了",
+        "onboard_time": 1743392001,
+        "rank": 37,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 219281,
+        "num": 219281,
+        "word": "祝绪丹挑男友的方式很小众",
+        "onboard_time": 1743391882,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213553,
+        "num": 213553,
+        "word": "指鼠为鸭局长已调离",
+        "onboard_time": 1743394702,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207557,
+        "num": 207557,
+        "word": "伊朗各地导弹已装入发射器",
+        "onboard_time": 1743392719,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196089,
+        "num": 196089,
+        "word": "减肥一直没效果的原因找到了",
+        "onboard_time": 1743391579,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 195147,
+        "num": 195147,
+        "word": "马吟吟学女团表情belike品如点痣",
+        "onboard_time": 1743395121,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178587,
+        "num": 178587,
+        "word": "新秀王安冉离婚原因",
+        "onboard_time": 1743387560,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170122,
+        "num": 170122,
+        "word": "优时颜 马柏全张康乐",
+        "onboard_time": 1743391941,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157365,
+        "num": 157365,
+        "word": "下月起这些区域禁止安装监控设备",
+        "onboard_time": 1743393982,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610661,
+        "num": 157249,
+        "word": "刘涛听粉丝的选了红色的车",
+        "onboard_time": 1743392961,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155222,
+        "num": 155222,
+        "word": "谁给齐思钧做的发型",
+        "onboard_time": 1743396023,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150348,
+        "num": 150348,
+        "word": "杜兰特受伤",
+        "onboard_time": 1743390982,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134706,
+        "num": 134706,
+        "word": "乔欣晒和姐姐香港游vlog",
+        "onboard_time": 1743396142,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的作风关系人心向背#"
+    }
+  }
+}
