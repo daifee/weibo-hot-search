@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743543447800,
+  "endTime": 1743546214721,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1244,7 +1244,7 @@
     },
     {
       "raw_hot": 233423,
-      "num": 233423,
+      "num": 387647,
       "word": "马斯克首次公开回应第13个孩子",
       "onboard_time": 1743516805,
       "rank": 34,
@@ -3067,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88936,
+      "num": 186293,
+      "word": "解放军喊话台舰最新现场视频",
+      "onboard_time": 1743525499,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87961,
       "num": 322830,
       "word": "95后家长AI问诊致孩子病情延误",
@@ -3145,14 +3153,6 @@
       "onboard_time": 1743407121,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 77670,
-      "num": 186293,
-      "word": "解放军喊话台舰最新现场视频",
-      "onboard_time": 1743525499,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 76272,
@@ -3409,6 +3409,14 @@
       "onboard_time": 1743525320,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55548,
+      "num": 55548,
+      "word": "买家捆姜甲儒睡觉谎称怕冻肚子",
+      "onboard_time": 1743542353,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55503,
@@ -3691,6 +3699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29153,
+      "num": 29178,
+      "word": "被这一刻的日照金山治愈了",
+      "onboard_time": 1743524419,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 28769,
       "num": 35917,
       "word": "千秋令",
@@ -3707,12 +3723,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28477,
+      "num": 29304,
+      "word": "美2名宇航员回地球后首次开发布会",
+      "onboard_time": 1743533474,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 26012,
       "num": 275460,
       "word": "王艺迪vs郑怡静",
       "onboard_time": 1743503244,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25989,
+      "num": 42623,
+      "word": "中俄对表重要纪念活动",
+      "onboard_time": 1743530895,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25572,
@@ -3729,14 +3761,6 @@
       "onboard_time": 1743449834,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23931,
-      "num": 42623,
-      "word": "中俄对表重要纪念活动",
-      "onboard_time": 1743530895,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22129,
@@ -3795,14 +3819,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 18308,
-      "num": 29178,
-      "word": "被这一刻的日照金山治愈了",
-      "onboard_time": 1743524419,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 18004,
       "num": 24920,
       "word": "你的存在本身就是另一种答案",
@@ -3811,15 +3827,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 17262,
-      "num": 29304,
-      "word": "美2名宇航员回地球后首次开发布会",
-      "onboard_time": 1743533474,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 16005,
+      "num": 29114,
+      "word": "专家不建议跟风买黄金",
+      "onboard_time": 1743545417,
+      "rank": 46,
+      "category": "财经"
     },
     {
-      "raw_hot": 15503,
+      "raw_hot": 15828,
       "num": 42474,
       "word": "古人一只杯子有满满巧思",
       "onboard_time": 1743527597,
@@ -3873,14 +3889,6 @@
       "onboard_time": 1743453134,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 13935,
-      "num": 25526,
-      "word": "买家捆姜甲儒睡觉谎称怕冻肚子",
-      "onboard_time": 1743542353,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12871,

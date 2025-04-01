@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743543447800,
+  "endTime": 1743546214721,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -73,6 +73,14 @@
       "onboard_time": 1743516986,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203937,
+      "num": 387647,
+      "word": "马斯克首次公开回应第13个孩子",
+      "onboard_time": 1743516805,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 194847,
@@ -171,14 +179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103693,
-      "num": 177798,
-      "word": "马斯克首次公开回应第13个孩子",
-      "onboard_time": 1743516805,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 98081,
       "num": 98081,
       "word": "金泰亨站姐拍的张婧仪",
@@ -217,6 +217,14 @@
       "onboard_time": 1743521663,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88936,
+      "num": 186293,
+      "word": "解放军喊话台舰最新现场视频",
+      "onboard_time": 1743525499,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85635,
@@ -267,14 +275,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 77670,
-      "num": 186293,
-      "word": "解放军喊话台舰最新现场视频",
-      "onboard_time": 1743525499,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 76467,
       "num": 76467,
       "word": "TVB女演员陈思齐摆摊卖鸡爪",
@@ -305,6 +305,14 @@
       "onboard_time": 1743519387,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73119,
+      "num": 73119,
+      "word": "金价狂飙有金店称每天都要调价",
+      "onboard_time": 1743518427,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 71686,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55548,
+      "num": 55548,
+      "word": "买家捆姜甲儒睡觉谎称怕冻肚子",
+      "onboard_time": 1743542353,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55254,
       "num": 55254,
       "word": "沈腾看时代少年团都像儿子",
@@ -427,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35853,
-      "num": 35893,
-      "word": "金价狂飙有金店称每天都要调价",
-      "onboard_time": 1743518427,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 34947,
       "num": 34947,
       "word": "傅云夕还活着吗",
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29153,
+      "num": 29178,
+      "word": "被这一刻的日照金山治愈了",
+      "onboard_time": 1743524419,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 28769,
       "num": 35917,
       "word": "千秋令",
@@ -459,15 +475,23 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25572,
-      "num": 48633,
-      "word": "消费者质疑网红面包店有阴阳价格",
-      "onboard_time": 1743532275,
-      "rank": 36,
+      "raw_hot": 28477,
+      "num": 29304,
+      "word": "美2名宇航员回地球后首次开发布会",
+      "onboard_time": 1743533474,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 28273,
+      "num": 42624,
+      "word": "客服回应盒马16.9元一片面包",
+      "onboard_time": 1743518245,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23931,
+      "raw_hot": 25989,
       "num": 42623,
       "word": "中俄对表重要纪念活动",
       "onboard_time": 1743530895,
@@ -475,11 +499,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22573,
-      "num": 42624,
-      "word": "客服回应盒马16.9元一片面包",
-      "onboard_time": 1743518245,
-      "rank": 39,
+      "raw_hot": 25572,
+      "num": 48633,
+      "word": "消费者质疑网红面包店有阴阳价格",
+      "onboard_time": 1743532275,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -507,23 +531,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18308,
-      "num": 29178,
-      "word": "被这一刻的日照金山治愈了",
-      "onboard_time": 1743524419,
-      "rank": 48,
-      "category": "旅游"
+      "raw_hot": 16005,
+      "num": 29114,
+      "word": "专家不建议跟风买黄金",
+      "onboard_time": 1743545417,
+      "rank": 46,
+      "category": "财经"
     },
     {
-      "raw_hot": 17262,
-      "num": 29304,
-      "word": "美2名宇航员回地球后首次开发布会",
-      "onboard_time": 1743533474,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 15503,
+      "raw_hot": 15828,
       "num": 42474,
       "word": "古人一只杯子有满满巧思",
       "onboard_time": 1743527597,
@@ -553,14 +569,6 @@
       "onboard_time": 1743535333,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13935,
-      "num": 25526,
-      "word": "买家捆姜甲儒睡觉谎称怕冻肚子",
-      "onboard_time": 1743542353,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10524,
