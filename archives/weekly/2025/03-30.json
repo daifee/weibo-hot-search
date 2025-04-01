@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743464244331,
+  "endTime": 1743472941130,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -25,6 +25,14 @@
       "onboard_time": 1743411324,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3701138,
+      "num": 4402276,
+      "word": "东部战区进逼",
+      "onboard_time": 1743465321,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3541216,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 2163339,
-      "num": 169631,
+      "num": 421759,
       "word": "愚人节站姐团建",
       "onboard_time": 1743438619,
       "rank": 17,
@@ -115,6 +123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1888812,
+      "num": 433892,
+      "word": "金秀贤舌头",
+      "onboard_time": 1743467424,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1888650,
       "num": 244244,
       "word": "bnd粉丝去世",
@@ -153,6 +169,14 @@
       "onboard_time": 1743344963,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1713566,
+      "num": 544340,
+      "word": "愚人节",
+      "onboard_time": 1743464480,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1690705,
@@ -291,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1118402,
+      "num": 419595,
+      "word": "夫妻俩备孕无果到烈士陵园求子",
+      "onboard_time": 1743466643,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1105084,
       "num": 235795,
       "word": "金秀贤粉底液",
@@ -329,6 +361,14 @@
       "onboard_time": 1743381561,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1040725,
+      "num": 1040725,
+      "word": "台湾",
+      "onboard_time": 1743471503,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1021631,
@@ -435,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 911127,
+      "num": 409045,
+      "word": "杜淳妻子网购遭客服拿地址威胁",
+      "onboard_time": 1743470965,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 890964,
       "num": 406101,
       "word": "雪莉恨自己长得漂亮",
@@ -505,6 +553,14 @@
       "onboard_time": 1743309389,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 782426,
+      "num": 782426,
+      "word": "走路10分钟身体就发生了变化",
+      "onboard_time": 1743467243,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 773311,
@@ -611,6 +667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 722155,
+      "num": 534909,
+      "word": "张国荣",
+      "onboard_time": 1743465921,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 717168,
       "num": 163648,
       "word": "2024的愚人节勇士站姐",
@@ -691,6 +755,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 652080,
+      "num": 407026,
+      "word": "马斯克宣布将辞去美国政府效率部职务",
+      "onboard_time": 1743465921,
+      "rank": 16,
+      "category": "国际时政,国际时政"
+    },
+    {
       "raw_hot": 643588,
       "num": 327475,
       "word": "赵露思穿了手艺人爷爷做的鞋",
@@ -745,6 +817,14 @@
       "onboard_time": 1743386120,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 610967,
+      "num": 400469,
+      "word": "金秀贤把鼻子上的妆抹掉了",
+      "onboard_time": 1743470842,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 610370,
@@ -915,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 553466,
+      "num": 553466,
+      "word": "唐鹤德 谁能代替你地位",
+      "onboard_time": 1743467783,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553450,
       "num": 553450,
       "word": "河北承德2.8级地震",
@@ -1003,12 +1091,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 511356,
+      "num": 856584,
+      "word": "4月1日含义是81192",
+      "onboard_time": 1743447134,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500905,
       "num": 306032,
       "word": "雪莉曾和名牌大学高材生庭外和解",
       "onboard_time": 1743394883,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 495904,
+      "num": 428127,
+      "word": "东部战区降妖除魔",
+      "onboard_time": 1743468504,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 494068,
@@ -1219,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 431297,
+      "num": 431297,
+      "word": "解放军台岛周边开展联合演训",
+      "onboard_time": 1743464240,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 426522,
       "num": 426522,
       "word": "上海最窄人行道仅10厘米宽",
@@ -1379,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397259,
+      "num": 397259,
+      "word": "这是对台独的严重警告和有力遏制",
+      "onboard_time": 1743464361,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 397065,
       "num": 354228,
       "word": "赵露思4月两场线下活动",
@@ -1425,6 +1545,14 @@
       "onboard_time": 1743391822,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387264,
+      "num": 387264,
+      "word": "张予曦站姐拍的杨幂",
+      "onboard_time": 1743467003,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 385760,
@@ -1492,7 +1620,7 @@
     },
     {
       "raw_hot": 365551,
-      "num": 148263,
+      "num": 175109,
       "word": "钟南山提醒剩饭剩菜别强吃",
       "onboard_time": 1743441017,
       "rank": 31,
@@ -1771,6 +1899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 311781,
+      "num": 311781,
+      "word": "男子1.5万机票款退票被扣1.4万",
+      "onboard_time": 1743464300,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310083,
       "num": 310083,
       "word": "雁回时反转",
@@ -1843,19 +1979,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292330,
+      "num": 292330,
+      "word": "成毅站姐做的迪丽热巴贺思慕海报",
+      "onboard_time": 1743465742,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291223,
       "num": 291223,
       "word": "一全职妈妈离婚获2万元经济补偿",
       "onboard_time": 1743346643,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 291155,
-      "num": 856584,
-      "word": "4月1日含义是81192",
-      "onboard_time": 1743447134,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -2059,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271615,
+      "num": 271615,
+      "word": "男子送货途中水库用鞭炮炸鱼身亡",
+      "onboard_time": 1743465921,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269727,
       "num": 317184,
       "word": "为什么现在老师都不敢管学生了",
@@ -2104,6 +2248,14 @@
       "word": "王一博发烧了",
       "onboard_time": 1743293299,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 259087,
+      "num": 259087,
+      "word": "罗渽民站姐发了19年星光大赏的鹿晗",
+      "onboard_time": 1743472161,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -2771,6 +2923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198849,
+      "num": 198849,
+      "word": "成毅站姐发任嘉伦",
+      "onboard_time": 1743469403,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198478,
       "num": 198478,
       "word": "华人称地震当日缅甸放假救了很多人",
@@ -2803,6 +2963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197483,
+      "num": 197483,
+      "word": "他唯一吃过的苦就是淋这场雨",
+      "onboard_time": 1743471321,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197349,
       "num": 254135,
       "word": "优时颜 马柏全张康乐",
@@ -2833,6 +3001,14 @@
       "onboard_time": 1743341662,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195414,
+      "num": 195414,
+      "word": "各家站姐拍的张凌赫",
+      "onboard_time": 1743470483,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 195228,
@@ -2896,6 +3072,14 @@
       "word": "金秀贤记者会不回答问题",
       "onboard_time": 1743348621,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192906,
+      "num": 192906,
+      "word": "昀牵孟绕",
+      "onboard_time": 1743464480,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -3033,6 +3217,14 @@
       "onboard_time": 1743419723,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184373,
+      "num": 184373,
+      "word": "四月第一天",
+      "onboard_time": 1743472581,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184290,
@@ -3179,6 +3371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176710,
+      "num": 193451,
+      "word": "站姐团建发的85花",
+      "onboard_time": 1743470842,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176579,
       "num": 176579,
       "word": "BLACKPINK未公开的物料",
@@ -3265,6 +3465,14 @@
       "onboard_time": 1743383481,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171378,
+      "num": 171378,
+      "word": "东部战区发布动漫壳",
+      "onboard_time": 1743469163,
+      "rank": 33,
+      "category": "军事,动漫"
     },
     {
       "raw_hot": 171342,
@@ -4091,6 +4299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144019,
+      "num": 144019,
+      "word": "如鸢",
+      "onboard_time": 1743472221,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143662,
       "num": 143662,
       "word": "海棠花",
@@ -4243,6 +4459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138672,
+      "num": 138672,
+      "word": "CBA技术台骂人",
+      "onboard_time": 1743469523,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138671,
       "num": 138671,
       "word": "原神",
@@ -4355,6 +4579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135911,
+      "num": 135911,
+      "word": "别家站姐拍的鞠婧祎",
+      "onboard_time": 1743466822,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135766,
       "num": 212297,
       "word": "向阳花",
@@ -4465,6 +4697,14 @@
       "onboard_time": 1743413302,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 134062,
+      "num": 134062,
+      "word": "东部战区位台岛周边联演",
+      "onboard_time": 1743468385,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133639,
@@ -4803,6 +5043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121603,
+      "num": 121603,
+      "word": "苏新皓站姐发了好多cp",
+      "onboard_time": 1743463579,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121479,
       "num": 121479,
       "word": "缅甸首都路面裂缝有一米宽",
@@ -4827,12 +5075,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121039,
+      "num": 121039,
+      "word": "朱志鑫站姐拍的赵丽颖",
+      "onboard_time": 1743471803,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120881,
       "num": 120881,
       "word": "周雨彤去冰岛了",
       "onboard_time": 1743422062,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120864,
+      "num": 120864,
+      "word": "为什么韩国人喜欢去张家界",
+      "onboard_time": 1743469463,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 120857,
+      "num": 120857,
+      "word": "丁禹兮被野人追路透",
+      "onboard_time": 1743467664,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 120844,
@@ -4947,6 +5219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 117867,
+      "num": 117867,
+      "word": "4月十二星座注意事项",
+      "onboard_time": 1743470901,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117845,
       "num": 117845,
       "word": "姚晨新剧句句有回应事事不答应",
@@ -5011,6 +5291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 114234,
+      "num": 114234,
+      "word": "呼叫81192",
+      "onboard_time": 1743464300,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114084,
       "num": 114084,
       "word": "苹果被曝正在开发AI医生",
@@ -5067,12 +5355,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 113010,
+      "num": 113010,
+      "word": "短发张艺凡",
+      "onboard_time": 1743472762,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 112119,
       "num": 112119,
       "word": "NCTWISH上海试听会",
       "onboard_time": 1743319039,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112046,
+      "num": 112046,
+      "word": "四月是你的谎言",
+      "onboard_time": 1743470901,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 111757,
@@ -5113,6 +5417,14 @@
       "onboard_time": 1743317600,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111310,
+      "num": 111310,
+      "word": "特朗普将于4月2日决定最终关税政策",
+      "onboard_time": 1743465382,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111066,
@@ -5433,6 +5745,14 @@
       "onboard_time": 1743392359,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100773,
+      "num": 100773,
+      "word": "女子自救成功后说不想告诉妈妈",
+      "onboard_time": 1743472100,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 100576,
@@ -5915,14 +6235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77211,
-      "num": 77211,
-      "word": "苏新皓站姐发了好多cp",
-      "onboard_time": 1743463579,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76373,
       "num": 149906,
       "word": "金价又创新高还能买吗",
@@ -6129,6 +6441,14 @@
       "onboard_time": 1743438142,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 65316,
+      "num": 902385,
+      "word": "中国园林有朵石做的云",
+      "onboard_time": 1743426743,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65236,
@@ -6363,6 +6683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54048,
+      "num": 434097,
+      "word": "国台办谈解放军联合演训",
+      "onboard_time": 1743471922,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53984,
       "num": 476008,
       "word": "女子在废墟中扒开钢筋自救成功",
@@ -6401,6 +6729,14 @@
       "onboard_time": 1743302429,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52369,
+      "num": 437696,
+      "word": "尹锡悦弹劾案4月4日11时宣判",
+      "onboard_time": 1743472462,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 52227,
