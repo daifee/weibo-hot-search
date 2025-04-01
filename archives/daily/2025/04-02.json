@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743526005832,
+  "endTime": 1743528195789,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -27,7 +27,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 380849,
+      "raw_hot": 603326,
       "num": 216399,
       "word": "盲人按摩店男员工杀女老板后服毒身亡",
       "onboard_time": 1743523522,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187902,
+      "num": 160191,
+      "word": "雁回时oe",
+      "onboard_time": 1743524603,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177187,
       "num": 177187,
       "word": "雁回时大结局",
@@ -131,20 +139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156800,
+      "num": 156800,
+      "word": "男子违规获取酒店房卡侵犯女住客",
+      "onboard_time": 1743521964,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147759,
       "num": 147759,
       "word": "鹿晗站姐发了双杨cp",
       "onboard_time": 1743512784,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133088,
-      "num": 133088,
-      "word": "雁回时oe",
-      "onboard_time": 1743524603,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 125738,
@@ -155,19 +163,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111990,
+      "raw_hot": 117643,
       "num": 188543,
       "word": "00后女生大学毕业职业代扫墓",
       "onboard_time": 1743523702,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111237,
-      "num": 111237,
-      "word": "男子违规获取酒店房卡侵犯女住客",
-      "onboard_time": 1743521964,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -257,6 +257,14 @@
       "onboard_time": 1743504862,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 77670,
+      "num": 186293,
+      "word": "解放军喊话台舰最新现场视频",
+      "onboard_time": 1743525499,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76467,
@@ -371,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54704,
+      "num": 53294,
+      "word": "现在的假睫毛已经发展成纸质了吗",
+      "onboard_time": 1743519505,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 52537,
       "num": 52537,
       "word": "1人摔伤后要求施救同事赔偿",
@@ -387,12 +403,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37156,
-      "num": 186293,
-      "word": "解放军喊话台舰最新现场视频",
-      "onboard_time": 1743525499,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 37306,
+      "num": 37306,
+      "word": "国产剧绝望的狠女上新了",
+      "onboard_time": 1743527896,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 34947,
+      "num": 34947,
+      "word": "傅云夕还活着吗",
+      "onboard_time": 1743518666,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 21097,
@@ -401,11 +425,22 @@
       "onboard_time": 1743512724,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20927,
+      "num": 104588,
+      "word": "台湾当归也必归",
+      "onboard_time": 1743527778,
+      "rank": 16,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平同印度总统互致贺电#"
+    },
+    {
+      "word": "#总书记两次讲话传递鲜明信息#"
     }
   ]
 }

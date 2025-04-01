@@ -1,0 +1,410 @@
+{
+  "runTime": 1743528195789,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 204084,
+        "num": 466056,
+        "word": "雁回时删了6集",
+        "onboard_time": 1743511164,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166467,
+        "num": 166467,
+        "word": "黄油与面包回应标价15元收款19元",
+        "onboard_time": 1743507383,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16869,
+        "num": 161129,
+        "word": "春天是藏在公园的诗情画意",
+        "onboard_time": 1743512724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603326,
+        "num": 160643,
+        "word": "盲人按摩店男员工杀女老板后服毒身亡",
+        "onboard_time": 1743523522,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 187902,
+        "num": 160191,
+        "word": "雁回时oe",
+        "onboard_time": 1743524603,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156800,
+        "num": 156800,
+        "word": "男子违规获取酒店房卡侵犯女住客",
+        "onboard_time": 1743521964,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117643,
+        "num": 117643,
+        "word": "00后女生大学毕业职业代扫墓",
+        "onboard_time": 1743523702,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117497,
+        "num": 117497,
+        "word": "宋妍霏组 三公第一",
+        "onboard_time": 1743518847,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116740,
+        "num": 116740,
+        "word": "中国搜救犬在缅甸吃冰降温",
+        "onboard_time": 1743516624,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107785,
+        "num": 107785,
+        "word": "鹿晗站姐发了双杨cp",
+        "onboard_time": 1743512784,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3746828,
+        "num": 107569,
+        "word": "雷军回应",
+        "onboard_time": 1743517885,
+        "rank": 10,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 509986,
+        "num": 107190,
+        "word": "小米汽车回应",
+        "onboard_time": 1743517885,
+        "rank": 11,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 363015,
+        "num": 106424,
+        "word": "孙子被抢走爷爷一天抽五六盒烟去世",
+        "onboard_time": 1743517584,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150953,
+        "num": 106164,
+        "word": "男子误入洗浴中心女宾区致顾客走光",
+        "onboard_time": 1743516443,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144236,
+        "num": 105704,
+        "word": "任时完取关金秀贤",
+        "onboard_time": 1743516986,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116347,
+        "num": 105424,
+        "word": "何济霆",
+        "onboard_time": 1743520645,
+        "rank": 15,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 20927,
+        "num": 104588,
+        "word": "台湾当归也必归",
+        "onboard_time": 1743527778,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104527,
+        "num": 104527,
+        "word": "吴宣仪三公分数",
+        "onboard_time": 1743512304,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103638,
+        "num": 103638,
+        "word": "雁回时大结局",
+        "onboard_time": 1743501922,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112968,
+        "num": 103375,
+        "word": "医生解读网友关注金秀贤舌头",
+        "onboard_time": 1743513804,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99308,
+        "num": 99308,
+        "word": "TFBOYS团站愚人节复活",
+        "onboard_time": 1743520765,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82471,
+        "num": 82471,
+        "word": "00后小伙嚼槟榔8年变大方脸",
+        "onboard_time": 1743521663,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77670,
+        "num": 77670,
+        "word": "解放军喊话台舰最新现场视频",
+        "onboard_time": 1743525499,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73423,
+        "num": 73423,
+        "word": "马斯克首次公开回应第13个孩子",
+        "onboard_time": 1743516805,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 68499,
+        "num": 68499,
+        "word": "王者荣耀",
+        "onboard_time": 1743508403,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 66564,
+        "num": 66564,
+        "word": "白鹿王星越唐宫奇案吻戏",
+        "onboard_time": 1743523640,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60977,
+        "num": 60977,
+        "word": "听潮阁徐来 结婚",
+        "onboard_time": 1743504862,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 57130,
+        "num": 57130,
+        "word": "鹿晗工怍室",
+        "onboard_time": 1743500302,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56665,
+        "num": 56665,
+        "word": "国羽何济霆疑被未婚妻爆料赌球",
+        "onboard_time": 1743510503,
+        "rank": 28,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 53625,
+        "num": 53625,
+        "word": "TVB女演员陈思齐摆摊卖鸡爪",
+        "onboard_time": 1743511702,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54704,
+        "num": 53294,
+        "word": "现在的假睫毛已经发展成纸质了吗",
+        "onboard_time": 1743519505,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 52782,
+        "num": 52782,
+        "word": "金泰亨站姐拍的张婧仪",
+        "onboard_time": 1743522802,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51186,
+        "num": 51186,
+        "word": "政法大学教授谈肖央新片社会意义",
+        "onboard_time": 1743525799,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48398,
+        "num": 48398,
+        "word": "韩国游客喊话张艺兴你的家乡太棒了",
+        "onboard_time": 1743517044,
+        "rank": 33,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 47770,
+        "num": 47770,
+        "word": "警方通报盲人按摩店男员工杀女老板",
+        "onboard_time": 1743519505,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 46857,
+        "num": 46857,
+        "word": "白玉兰奖报名截止",
+        "onboard_time": 1743522982,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46489,
+        "num": 46489,
+        "word": "马丽说沈腾去浪姐她就去",
+        "onboard_time": 1743519387,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45466,
+        "num": 45466,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44407,
+        "num": 44407,
+        "word": "浪姐6三公结果",
+        "onboard_time": 1743513984,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44320,
+        "num": 44320,
+        "word": "女枪庄寒雁",
+        "onboard_time": 1743525320,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43834,
+        "num": 43834,
+        "word": "缅甸两女孩废墟里教科书式自救成功",
+        "onboard_time": 1743509963,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43743,
+        "num": 43743,
+        "word": "真姐夫",
+        "onboard_time": 1743506123,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41522,
+        "num": 41522,
+        "word": "半熟4体育生杀死了比赛",
+        "onboard_time": 1743518245,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41127,
+        "num": 41127,
+        "word": "金价",
+        "onboard_time": 1743519987,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 40947,
+        "num": 40947,
+        "word": "何济霆 一醒",
+        "onboard_time": 1743521903,
+        "rank": 44,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 40736,
+        "num": 40736,
+        "word": "坚持零容忍让卫生巾真正卫生起来",
+        "onboard_time": 1743519987,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37306,
+        "num": 37306,
+        "word": "国产剧绝望的狠女上新了",
+        "onboard_time": 1743527896,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36799,
+        "num": 36799,
+        "word": "多次军演会不会曝光对台战术",
+        "onboard_time": 1743520285,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36483,
+        "num": 36483,
+        "word": "田曦薇愚人节站姐团建",
+        "onboard_time": 1743521903,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34947,
+        "num": 34947,
+        "word": "傅云夕还活着吗",
+        "onboard_time": 1743518666,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记两次讲话传递鲜明信息#"
+    }
+  }
+}
