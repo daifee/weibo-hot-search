@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743500462801,
+  "endTime": 1743503263954,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1521569,
-      "num": 271189,
+      "num": 319558,
       "word": "鹿晗站姐",
       "onboard_time": 1743495022,
       "rank": 12,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1350769,
-      "num": 281939,
+      "num": 312513,
       "word": "金秀贤 迪士尼",
       "onboard_time": 1743492083,
       "rank": 22,
@@ -337,6 +337,14 @@
       "onboard_time": 1743476602,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1271455,
+      "num": 1271455,
+      "word": "雁回时大结局",
+      "onboard_time": 1743501922,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1258284,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 1138029,
-      "num": 641997,
+      "num": 720658,
       "word": "小米集团午后跌超4%",
       "onboard_time": 1743489204,
       "rank": 28,
@@ -644,7 +652,7 @@
     },
     {
       "raw_hot": 855241,
-      "num": 242660,
+      "num": 302777,
       "word": "谁家站姐这么勇",
       "onboard_time": 1743496461,
       "rank": 13,
@@ -652,7 +660,7 @@
     },
     {
       "raw_hot": 852671,
-      "num": 237607,
+      "num": 295920,
       "word": "羽毛球",
       "onboard_time": 1743498984,
       "rank": 20,
@@ -729,6 +737,14 @@
       "onboard_time": 1743411145,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 767207,
+      "num": 767207,
+      "word": "鹿晗工怍室",
+      "onboard_time": 1743500302,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 765367,
@@ -1083,6 +1099,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 590870,
+      "num": 590870,
+      "word": "快递员弄丢客户2.9公斤金饰吓傻",
+      "onboard_time": 1743497424,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 588743,
       "num": 588743,
       "word": "黄旭华92岁离休第二天又拄着拐出现",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1743405021,
       "rank": 14,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 562236,
-      "num": 562236,
-      "word": "快递员弄丢客户2.9公斤金饰吓傻",
-      "onboard_time": 1743497424,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 559545,
@@ -1795,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 382947,
+      "num": 382947,
+      "word": "白玉兰预测",
+      "onboard_time": 1743500003,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 378011,
       "num": 378011,
       "word": "金饰价格涨到953元",
@@ -2067,12 +2091,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 332735,
+      "num": 281506,
+      "word": "橘子娱乐 离职前做一次朱志鑫站姐",
+      "onboard_time": 1743501442,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331750,
       "num": 146286,
       "word": "金秀贤记者会最起鸡皮疙瘩的一句话",
       "onboard_time": 1743439038,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329519,
+      "num": 329519,
+      "word": "甲亢哥",
+      "onboard_time": 1743501323,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 329031,
@@ -2459,6 +2499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 279751,
+      "num": 279751,
+      "word": "喜茶被疑抄袭",
+      "onboard_time": 1743499702,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 279545,
       "num": 279545,
       "word": "用户吐槽小米su7ultra试驾雷军秒道歉",
@@ -2473,6 +2521,14 @@
       "onboard_time": 1743342684,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 278365,
+      "num": 278365,
+      "word": "人贩子抢走8个月婴儿还顺走奶粉",
+      "onboard_time": 1743501083,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278147,
@@ -2979,6 +3035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230506,
+      "num": 230506,
+      "word": "陈紫函 戴向宇你算菀菀吧",
+      "onboard_time": 1743502043,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229370,
       "num": 664716,
       "word": "比伯晒抱儿子照片",
@@ -3171,14 +3235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 217962,
-      "num": 217962,
-      "word": "白玉兰预测",
-      "onboard_time": 1743500003,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 217404,
       "num": 277280,
       "word": "中国多名玉石商被困缅甸重灾区",
@@ -3273,6 +3329,14 @@
       "onboard_time": 1743326062,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211476,
+      "num": 211476,
+      "word": "苦尽柑来遇见你 三代女性托举",
+      "onboard_time": 1743500302,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 211193,
@@ -3523,20 +3587,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202486,
+      "num": 202486,
+      "word": "带你一键穿越花花花花花海",
+      "onboard_time": 1743501623,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202114,
       "num": 202114,
       "word": "分手后才求婚算什么人啊",
       "onboard_time": 1743313882,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201815,
-      "num": 201815,
-      "word": "喜茶被疑抄袭",
-      "onboard_time": 1743499702,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 201004,
@@ -4115,6 +4179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179326,
+      "num": 179326,
+      "word": "Melody胜诉后发文",
+      "onboard_time": 1743501143,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179204,
       "num": 179204,
       "word": "CBA季后赛对阵",
@@ -4513,14 +4585,6 @@
       "onboard_time": 1743335541,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164805,
-      "num": 164805,
-      "word": "鹿晗工怍室",
-      "onboard_time": 1743500302,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 164721,
@@ -5523,6 +5587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141251,
+      "num": 141251,
+      "word": "樊振东杭州",
+      "onboard_time": 1743503064,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141054,
       "num": 141054,
       "word": "王一博赛车断层登顶微指",
@@ -5592,6 +5664,14 @@
       "word": "男子发现打工养了7年的女儿非亲生",
       "onboard_time": 1743439341,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138222,
+      "num": 213297,
+      "word": "男子偷走寺庙功德箱里20万现金",
+      "onboard_time": 1743499822,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -5713,6 +5793,14 @@
       "onboard_time": 1743391161,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135674,
+      "num": 135674,
+      "word": "余宇涵躲C位失败",
+      "onboard_time": 1743503122,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 135659,
@@ -6387,12 +6475,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 119996,
-      "num": 119996,
-      "word": "苦尽柑来遇见你 三代女性托举",
-      "onboard_time": 1743500302,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 119763,
+      "num": 119763,
+      "word": "西安WE春季赛淘汰",
+      "onboard_time": 1743503003,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 119514,
@@ -6577,6 +6665,14 @@
       "onboard_time": 1743388589,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 113984,
+      "num": 113984,
+      "word": "庄寒雁第一次击鼓救母第二次救夫",
+      "onboard_time": 1743501682,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 113796,
@@ -7043,14 +7139,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 101346,
-      "num": 213297,
-      "word": "男子偷走寺庙功德箱里20万现金",
-      "onboard_time": 1743499822,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101169,
       "num": 151362,
       "word": "詹姆斯42000分",
@@ -7316,7 +7404,7 @@
     },
     {
       "raw_hot": 92155,
-      "num": 132217,
+      "num": 149386,
       "word": "欢迎更多外国朋友走进春天里的中国",
       "onboard_time": 1743495923,
       "rank": 42,
@@ -7561,6 +7649,14 @@
       "onboard_time": 1743440297,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81394,
+      "num": 154402,
+      "word": "无限超越班3云监制已到场",
+      "onboard_time": 1743503183,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 81349,
@@ -7995,6 +8091,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 60420,
+      "num": 150771,
+      "word": "中国救援队伍在缅救出8人",
+      "onboard_time": 1743501204,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60083,
       "num": 104456,
       "word": "念无双有效播放量破5000万",
@@ -8411,6 +8515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41928,
+      "num": 113921,
+      "word": "入室抢婴案嫌犯见到家主亲热叫叔",
+      "onboard_time": 1743501262,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41866,
       "num": 41866,
       "word": "沈月淮水竹亭剧照",
@@ -8625,6 +8737,14 @@
       "onboard_time": 1743406459,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31560,
+      "num": 155456,
+      "word": "无期迷途鸭宝又入侵",
+      "onboard_time": 1743503122,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 31522,
@@ -8979,6 +9099,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 19264,
+      "num": 142905,
+      "word": "小鹏第一季度新势力销量第一",
+      "onboard_time": 1743503122,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 19176,
       "num": 248368,
       "word": "如何走出AI知识幻觉",
@@ -9257,6 +9385,14 @@
       "onboard_time": 1743366793,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6254,
+      "num": 141843,
+      "word": "王艺迪vs郑怡静",
+      "onboard_time": 1743503244,
+      "rank": 39,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

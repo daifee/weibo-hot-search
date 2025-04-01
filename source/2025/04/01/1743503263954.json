@@ -1,0 +1,410 @@
+{
+  "runTime": 1743503263954,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1271455,
+        "num": 1271455,
+        "word": "雁回时大结局",
+        "onboard_time": 1743501922,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 924164,
+        "num": 924164,
+        "word": "东部战区慑封",
+        "onboard_time": 1743495683,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12846,
+        "num": 825267,
+        "word": "算法向上向善",
+        "onboard_time": 1743315921,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 797496,
+        "num": 797496,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 767207,
+        "num": 767207,
+        "word": "鹿晗工怍室",
+        "onboard_time": 1743500302,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720658,
+        "num": 720658,
+        "word": "小米集团午后跌超4%",
+        "onboard_time": 1743489204,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 590870,
+        "num": 590870,
+        "word": "快递员弄丢客户2.9公斤金饰吓傻",
+        "onboard_time": 1743497424,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436227,
+        "num": 436227,
+        "word": "快递员因同一人连收100个包裹报警了",
+        "onboard_time": 1743478282,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382947,
+        "num": 382947,
+        "word": "白玉兰预测",
+        "onboard_time": 1743500003,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329519,
+        "num": 329519,
+        "word": "甲亢哥",
+        "onboard_time": 1743501323,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 8368909,
+        "num": 8368909,
+        "word": "小米SU7高速碰撞爆燃事件细节",
+        "onboard_time": 1743484044,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799672,
+        "num": 319558,
+        "word": "鹿晗站姐",
+        "onboard_time": 1743495022,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 793968,
+        "num": 312513,
+        "word": "金秀贤 迪士尼",
+        "onboard_time": 1743492083,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702349,
+        "num": 302777,
+        "word": "谁家站姐这么勇",
+        "onboard_time": 1743496461,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438028,
+        "num": 295920,
+        "word": "羽毛球",
+        "onboard_time": 1743498984,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332735,
+        "num": 281506,
+        "word": "橘子娱乐 离职前做一次朱志鑫站姐",
+        "onboard_time": 1743501442,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279751,
+        "num": 279751,
+        "word": "喜茶被疑抄袭",
+        "onboard_time": 1743499702,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 278365,
+        "num": 278365,
+        "word": "人贩子抢走8个月婴儿还顺走奶粉",
+        "onboard_time": 1743501083,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273332,
+        "num": 273332,
+        "word": "37岁曹璐签新公司再闯韩娱",
+        "onboard_time": 1743496403,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230506,
+        "num": 230506,
+        "word": "陈紫函 戴向宇你算菀菀吧",
+        "onboard_time": 1743502043,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211476,
+        "num": 211476,
+        "word": "苦尽柑来遇见你 三代女性托举",
+        "onboard_time": 1743500302,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202486,
+        "num": 202486,
+        "word": "带你一键穿越花花花花花海",
+        "onboard_time": 1743501623,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195816,
+        "num": 195816,
+        "word": "利路修正式退圈",
+        "onboard_time": 1743481226,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188462,
+        "num": 188462,
+        "word": "台湾",
+        "onboard_time": 1743471503,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179326,
+        "num": 179326,
+        "word": "Melody胜诉后发文",
+        "onboard_time": 1743501143,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172902,
+        "num": 172902,
+        "word": "女儿遭男孩按入水中母亲反击被判赔",
+        "onboard_time": 1743496223,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166576,
+        "num": 166576,
+        "word": "李美越",
+        "onboard_time": 1743495744,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158269,
+        "num": 158269,
+        "word": "EXO周年直播没通知cbx",
+        "onboard_time": 1743496044,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156789,
+        "num": 156789,
+        "word": "愚人节站姐团建",
+        "onboard_time": 1743438619,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31560,
+        "num": 155456,
+        "word": "无期迷途鸭宝又入侵",
+        "onboard_time": 1743503122,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81394,
+        "num": 154402,
+        "word": "无限超越班3云监制已到场",
+        "onboard_time": 1743503183,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60420,
+        "num": 150771,
+        "word": "中国救援队伍在缅救出8人",
+        "onboard_time": 1743501204,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80368,
+        "num": 149386,
+        "word": "欢迎更多外国朋友走进春天里的中国",
+        "onboard_time": 1743495923,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148383,
+        "num": 148383,
+        "word": "健身房偶遇吴谨言",
+        "onboard_time": 1743497002,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147338,
+        "num": 147338,
+        "word": "愚人节",
+        "onboard_time": 1743464480,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26957,
+        "num": 144141,
+        "word": "陈茵媺回应和陈豪像父女恋",
+        "onboard_time": 1743492323,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143594,
+        "num": 143594,
+        "word": "夫妻3胎喜得女儿发10万个鸡蛋庆祝",
+        "onboard_time": 1743489982,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19264,
+        "num": 142905,
+        "word": "小鹏第一季度新势力销量第一",
+        "onboard_time": 1743503122,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142551,
+        "num": 142551,
+        "word": "空军战机围岛进逼",
+        "onboard_time": 1743499462,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6254,
+        "num": 141843,
+        "word": "王艺迪vs郑怡静",
+        "onboard_time": 1743503244,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141251,
+        "num": 141251,
+        "word": "樊振东杭州",
+        "onboard_time": 1743503064,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138222,
+        "num": 138222,
+        "word": "男子偷走寺庙功德箱里20万现金",
+        "onboard_time": 1743499822,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137839,
+        "num": 137839,
+        "word": "韩国最应该申遗的是韩剧",
+        "onboard_time": 1743499163,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135674,
+        "num": 135674,
+        "word": "余宇涵躲C位失败",
+        "onboard_time": 1743503122,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132102,
+        "num": 132102,
+        "word": "愚人节表白",
+        "onboard_time": 1743499403,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131898,
+        "num": 131898,
+        "word": "鞠婧祎刘宇宁 万花世界",
+        "onboard_time": 1743498803,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121830,
+        "num": 121830,
+        "word": "医生建议想减肥的人早晚分别称体重",
+        "onboard_time": 1743492744,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119763,
+        "num": 119763,
+        "word": "西安WE春季赛淘汰",
+        "onboard_time": 1743503003,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113984,
+        "num": 113984,
+        "word": "庄寒雁第一次击鼓救母第二次救夫",
+        "onboard_time": 1743501682,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41928,
+        "num": 113921,
+        "word": "入室抢婴案嫌犯见到家主亲热叫叔",
+        "onboard_time": 1743501262,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025是推进巡视全覆盖的关键一年#"
+    }
+  }
+}
