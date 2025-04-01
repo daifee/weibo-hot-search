@@ -1,0 +1,410 @@
+{
+  "runTime": 1743511798061,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1584542,
+        "num": 1584542,
+        "word": "真姐夫",
+        "onboard_time": 1743506123,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445634,
+        "num": 445634,
+        "word": "张继科说信我是哥们不信我是敌人",
+        "onboard_time": 1743506244,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9325,
+        "num": 436740,
+        "word": "算法向上向善",
+        "onboard_time": 1743315921,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 779507,
+        "num": 434142,
+        "word": "雁回时大结局",
+        "onboard_time": 1743501922,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430419,
+        "num": 430419,
+        "word": "公孙离新皮肤",
+        "onboard_time": 1743505945,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 410309,
+        "num": 410309,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 641293,
+        "num": 399242,
+        "word": "鹿晗工怍室",
+        "onboard_time": 1743500302,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554934,
+        "num": 391079,
+        "word": "Songha公开",
+        "onboard_time": 1743507563,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 373903,
+        "num": 373903,
+        "word": "缅甸两女孩废墟里教科书式自救成功",
+        "onboard_time": 1743509963,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108382,
+        "num": 370768,
+        "word": "外交部回应市场监管总局审查长和港口交易",
+        "onboard_time": 1743510384,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 368259,
+        "num": 368259,
+        "word": "快递员弄丢客户2.9公斤金饰吓傻",
+        "onboard_time": 1743497424,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353160,
+        "num": 353160,
+        "word": "谁家站姐这么勇",
+        "onboard_time": 1743496461,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301045,
+        "num": 301045,
+        "word": "抗癌网红宝炫是冠军去世",
+        "onboard_time": 1743504862,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291729,
+        "num": 291729,
+        "word": "蓝莓包",
+        "onboard_time": 1743508585,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 265566,
+        "num": 265566,
+        "word": "听潮阁徐来 结婚",
+        "onboard_time": 1743504862,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 243907,
+        "num": 243907,
+        "word": "TVB女演员陈思齐摆摊卖鸡爪",
+        "onboard_time": 1743511702,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234366,
+        "num": 234366,
+        "word": "王者荣耀",
+        "onboard_time": 1743508403,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230997,
+        "num": 230997,
+        "word": "首饰金价已接近千元心理线",
+        "onboard_time": 1743506064,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 227641,
+        "num": 227641,
+        "word": "侯明昊一本正经的胡说八道",
+        "onboard_time": 1743510564,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208159,
+        "num": 208159,
+        "word": "值得爱定档",
+        "onboard_time": 1743510744,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199655,
+        "num": 199655,
+        "word": "SMTR25单人预告",
+        "onboard_time": 1743510685,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198664,
+        "num": 198664,
+        "word": "东部战区慑封",
+        "onboard_time": 1743495683,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169748,
+        "num": 169748,
+        "word": "朋友间送过最珍贵的是什么",
+        "onboard_time": 1743511103,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167054,
+        "num": 167054,
+        "word": "黄油与面包回应标价15元收款19元",
+        "onboard_time": 1743507383,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163706,
+        "num": 163706,
+        "word": "鹿晗站姐",
+        "onboard_time": 1743495022,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160173,
+        "num": 160173,
+        "word": "快递员因同一人连收100个包裹报警了",
+        "onboard_time": 1743478282,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156533,
+        "num": 156533,
+        "word": "人贩子抢走8个月婴儿还顺走奶粉",
+        "onboard_time": 1743501083,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152944,
+        "num": 152944,
+        "word": "甲亢哥",
+        "onboard_time": 1743501323,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149344,
+        "num": 149344,
+        "word": "PsyP发diss",
+        "onboard_time": 1743511343,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146560,
+        "num": 146560,
+        "word": "永和九年 abandon",
+        "onboard_time": 1743507624,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144243,
+        "num": 144243,
+        "word": "人间的四月天打开4月",
+        "onboard_time": 1743504862,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1110257,
+        "num": 143248,
+        "word": "留几手称雷军被推太高不是好事",
+        "onboard_time": 1743505884,
+        "rank": 31,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 149509,
+        "num": 142781,
+        "word": "甲亢哥中国行展现了没有滤镜的中国",
+        "onboard_time": 1743509244,
+        "rank": 32,
+        "category": "国内时政,网红"
+      },
+      {
+        "raw_hot": 140997,
+        "num": 140997,
+        "word": "愚人节",
+        "onboard_time": 1743464480,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136774,
+        "num": 136774,
+        "word": "Nicholas首位公开",
+        "onboard_time": 1743511462,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129820,
+        "num": 129820,
+        "word": "卢昱晓茉莉花",
+        "onboard_time": 1743506903,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120528,
+        "num": 120528,
+        "word": "国羽何济霆疑被未婚妻爆料赌球",
+        "onboard_time": 1743510503,
+        "rank": 36,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 117004,
+        "num": 117004,
+        "word": "丁程鑫时代峰峻最不真实的地方",
+        "onboard_time": 1743507203,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114290,
+        "num": 114290,
+        "word": "孙千替我去了失约的布达拉宫",
+        "onboard_time": 1743509542,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113634,
+        "num": 113634,
+        "word": "赵露思ins更新和小狗合照",
+        "onboard_time": 1743503482,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112149,
+        "num": 112149,
+        "word": "yushi一键毕业",
+        "onboard_time": 1743510204,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111200,
+        "num": 111200,
+        "word": "国际乒联回顾孙颖莎夺冠历程",
+        "onboard_time": 1743504682,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110785,
+        "num": 110785,
+        "word": "白玉兰预测",
+        "onboard_time": 1743500003,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102145,
+        "num": 102145,
+        "word": "李嘉琦浪姐挑染脏辫造型",
+        "onboard_time": 1743511402,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101940,
+        "num": 101940,
+        "word": "樊振东用乒乓球拍投篮7中4",
+        "onboard_time": 1743511462,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99865,
+        "num": 99865,
+        "word": "女子烧纸引燃9辆车被刑拘",
+        "onboard_time": 1743509782,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99632,
+        "num": 99632,
+        "word": "夫妻3胎喜得女儿发10万个鸡蛋庆祝",
+        "onboard_time": 1743489982,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99572,
+        "num": 99572,
+        "word": "卓沅不欢迎脸颊肉",
+        "onboard_time": 1743510984,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98806,
+        "num": 98806,
+        "word": "李永钦solo初一位",
+        "onboard_time": 1743511103,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96644,
+        "num": 96644,
+        "word": "EXO周年直播没通知cbx",
+        "onboard_time": 1743496044,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025是推进巡视全覆盖的关键一年#"
+    }
+  }
+}
