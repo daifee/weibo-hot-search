@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743522122049,
+  "endTime": 1743526005832,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -788,7 +788,7 @@
     },
     {
       "raw_hot": 825264,
-      "num": 601477,
+      "num": 700149,
       "word": "雁回时删了6集",
       "onboard_time": 1743511164,
       "rank": 7,
@@ -2017,6 +2017,14 @@
       "onboard_time": 1743510744,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380849,
+      "num": 216399,
+      "word": "盲人按摩店男员工杀女老板后服毒身亡",
+      "onboard_time": 1743523522,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 378011,
@@ -6651,6 +6659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133088,
+      "num": 133088,
+      "word": "雁回时oe",
+      "onboard_time": 1743524603,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133013,
       "num": 367169,
       "word": "藏漂大叔厨房里藏着云南的春天",
@@ -6913,6 +6929,14 @@
       "onboard_time": 1743391521,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125738,
+      "num": 125738,
+      "word": "白鹿王星越唐宫奇案吻戏",
+      "onboard_time": 1743523640,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 125710,
@@ -7539,6 +7563,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 111990,
+      "num": 188543,
+      "word": "00后女生大学毕业职业代扫墓",
+      "onboard_time": 1743523702,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111757,
       "num": 111757,
       "word": "王一博亚军",
@@ -7585,6 +7617,14 @@
       "onboard_time": 1743465382,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 111237,
+      "num": 151447,
+      "word": "男子违规获取酒店房卡侵犯女住客",
+      "onboard_time": 1743521964,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111066,
@@ -8091,6 +8131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98081,
+      "num": 98081,
+      "word": "金泰亨站姐拍的张婧仪",
+      "onboard_time": 1743522802,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97935,
       "num": 145597,
       "word": "林一我没时间跟你闹了",
@@ -8177,6 +8225,14 @@
       "onboard_time": 1743348023,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96174,
+      "num": 96174,
+      "word": "白玉兰奖报名截止",
+      "onboard_time": 1743522982,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 95577,
@@ -8297,6 +8353,14 @@
       "onboard_time": 1743377780,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90418,
+      "num": 90418,
+      "word": "00后小伙嚼槟榔8年变大方脸",
+      "onboard_time": 1743521663,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90047,
@@ -8433,14 +8497,6 @@
       "onboard_time": 1743323841,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85979,
-      "num": 85979,
-      "word": "00后小伙嚼槟榔8年变大方脸",
-      "onboard_time": 1743521663,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85815,
@@ -8835,6 +8891,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 66061,
+      "num": 66061,
+      "word": "政法大学教授谈肖央新片社会意义",
+      "onboard_time": 1743525799,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 65866,
       "num": 65866,
       "word": "檀健次猎罪图鉴历史完播率第一",
@@ -9139,6 +9203,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 55586,
+      "num": 55586,
+      "word": "女枪庄寒雁",
+      "onboard_time": 1743525320,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 55254,
+      "num": 55254,
+      "word": "沈腾看时代少年团都像儿子",
+      "onboard_time": 1743522202,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55164,
       "num": 77159,
       "word": "年级主任多次让学生砸手机手表",
@@ -9211,6 +9291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52537,
+      "num": 183763,
+      "word": "1人摔伤后要求施救同事赔偿",
+      "onboard_time": 1743521844,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52369,
       "num": 437696,
       "word": "尹锡悦弹劾案4月4日11时宣判",
@@ -9265,14 +9353,6 @@
       "onboard_time": 1743400881,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 49887,
-      "num": 151447,
-      "word": "男子违规获取酒店房卡侵犯女住客",
-      "onboard_time": 1743521964,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49485,
@@ -9569,6 +9649,14 @@
       "onboard_time": 1743316101,
       "rank": 22,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 37156,
+      "num": 186293,
+      "word": "解放军喊话台舰最新现场视频",
+      "onboard_time": 1743525499,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36229,
@@ -10136,14 +10224,6 @@
       "word": "男子用非遗茶杯吹奏广西民歌",
       "onboard_time": 1743417262,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17174,
-      "num": 183763,
-      "word": "1人摔伤后要求施救同事赔偿",
-      "onboard_time": 1743521844,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
