@@ -1,0 +1,410 @@
+{
+  "runTime": 1743496355300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1058096,
+        "num": 1169295,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 623783,
+        "num": 623783,
+        "word": "快递员因同一人连收100个包裹报警了",
+        "onboard_time": 1743478282,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18520,
+        "num": 532462,
+        "word": "国家标准住宅项目规范发布",
+        "onboard_time": 1743422304,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 836276,
+        "num": 525346,
+        "word": "小米集团午后跌超4%",
+        "onboard_time": 1743489204,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 503978,
+        "num": 503978,
+        "word": "黄旭熙宣布台湾出道",
+        "onboard_time": 1743486742,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378011,
+        "num": 378011,
+        "word": "金饰价格涨到953元",
+        "onboard_time": 1743491124,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 323515,
+        "num": 323515,
+        "word": "利路修正式退圈",
+        "onboard_time": 1743481226,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281998,
+        "num": 281998,
+        "word": "东部战区慑封",
+        "onboard_time": 1743495683,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87493,
+        "num": 274982,
+        "word": "官方回应中学被投诉强制女生剪短发",
+        "onboard_time": 1743494963,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274915,
+        "num": 274915,
+        "word": "10元盒饭姐因浪费气得不想出摊",
+        "onboard_time": 1743487161,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9402701,
+        "num": 9402701,
+        "word": "小米SU7高速碰撞爆燃事件细节",
+        "onboard_time": 1743484044,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1350769,
+        "num": 272991,
+        "word": "金秀贤 迪士尼",
+        "onboard_time": 1743492083,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1130843,
+        "num": 271189,
+        "word": "鹿晗站姐",
+        "onboard_time": 1743495022,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249338,
+        "num": 269934,
+        "word": "曲曲大女人偷税被罚",
+        "onboard_time": 1743493223,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 28756,
+        "num": 268591,
+        "word": "白宫称对群聊门的调查已结束",
+        "onboard_time": 1743495022,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 267494,
+        "num": 267494,
+        "word": "杨幂站姐拍的迪丽热巴",
+        "onboard_time": 1743494663,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125913,
+        "num": 264978,
+        "word": "李泽锋说这次在剧里绝对不出轨",
+        "onboard_time": 1743494843,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17574,
+        "num": 262080,
+        "word": "4人入室抢婴案妈妈说寻子曾被人打",
+        "onboard_time": 1743495982,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85589,
+        "num": 259929,
+        "word": "金价1个月每克最高涨了71元",
+        "onboard_time": 1743495083,
+        "rank": 18,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 106429,
+        "num": 256741,
+        "word": "张本智和3比1罗伯勒斯",
+        "onboard_time": 1743495442,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255142,
+        "num": 255142,
+        "word": "蓝莓便宜了",
+        "onboard_time": 1743487944,
+        "rank": 20,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 286196,
+        "num": 251335,
+        "word": "夫妻3胎喜得女儿发10万个鸡蛋庆祝",
+        "onboard_time": 1743489982,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264050,
+        "num": 250018,
+        "word": "医生建议想减肥的人早晚分别称体重",
+        "onboard_time": 1743492744,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244045,
+        "num": 244045,
+        "word": "张艺凡瘦成这样",
+        "onboard_time": 1743476602,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224433,
+        "num": 224433,
+        "word": "孙坚 我是唐嫣的兵",
+        "onboard_time": 1743493342,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222822,
+        "num": 222822,
+        "word": "李美越",
+        "onboard_time": 1743495744,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 215145,
+        "num": 215145,
+        "word": "台湾",
+        "onboard_time": 1743471503,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208602,
+        "num": 208602,
+        "word": "愚人节站姐团建",
+        "onboard_time": 1743438619,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206601,
+        "num": 206601,
+        "word": "华晨宇对接斥侵权行为",
+        "onboard_time": 1743495803,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49738,
+        "num": 198045,
+        "word": "被抢婴母亲称6000万不敌17年苦",
+        "onboard_time": 1743495142,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190893,
+        "num": 190893,
+        "word": "孟子义站姐发了李昀锐和秦霄贤",
+        "onboard_time": 1743481645,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183449,
+        "num": 183449,
+        "word": "愚人节",
+        "onboard_time": 1743464480,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182853,
+        "num": 182853,
+        "word": "字节招聘年限放宽",
+        "onboard_time": 1743495083,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78658,
+        "num": 180795,
+        "word": "齐司礼之恋",
+        "onboard_time": 1743489384,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179419,
+        "num": 179419,
+        "word": "丁程鑫愚人节搞抽象",
+        "onboard_time": 1743496102,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165082,
+        "num": 165082,
+        "word": "东部战区",
+        "onboard_time": 1743491063,
+        "rank": 35,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 172305,
+        "num": 165023,
+        "word": "愚人节各大品牌发癫团建",
+        "onboard_time": 1743494663,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164908,
+        "num": 164908,
+        "word": "金秀贤把鼻子上的妆抹掉了",
+        "onboard_time": 1743470842,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64970,
+        "num": 164397,
+        "word": "儿童精神科诊室里沉默的父亲们",
+        "onboard_time": 1743496284,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64183,
+        "num": 164107,
+        "word": "郑钦文W中文版封面人物",
+        "onboard_time": 1743494963,
+        "rank": 39,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 164105,
+        "num": 164105,
+        "word": "EXO周年直播没通知cbx",
+        "onboard_time": 1743496044,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161487,
+        "num": 161487,
+        "word": "租客体检多处异常怀疑房子发霉所致",
+        "onboard_time": 1743494603,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159887,
+        "num": 159887,
+        "word": "731部队大本营旧址发现大量人骨",
+        "onboard_time": 1743495863,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157920,
+        "num": 157920,
+        "word": "英雄联盟改名大乱斗联盟",
+        "onboard_time": 1743479004,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153972,
+        "num": 153972,
+        "word": "东部战区再发布海报慑封",
+        "onboard_time": 1743494663,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132886,
+        "num": 132886,
+        "word": "女儿遭男孩按入水中母亲反击被判赔",
+        "onboard_time": 1743496223,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132674,
+        "num": 132674,
+        "word": "电视剧千秋令定档",
+        "onboard_time": 1743492923,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127055,
+        "num": 127055,
+        "word": "大家好我是徐俊大",
+        "onboard_time": 1743494363,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124232,
+        "num": 124232,
+        "word": "中国将进一步扩容免签朋友圈",
+        "onboard_time": 1743495923,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119890,
+        "num": 119890,
+        "word": "洪小铃孕肚照",
+        "onboard_time": 1743489204,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技强则国家强#"
+    }
+  }
+}
