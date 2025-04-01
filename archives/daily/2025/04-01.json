@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743521219179,
+  "endTime": 1743522122049,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -113,6 +113,14 @@
       "onboard_time": 1743506123,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1780438,
+      "num": 385838,
+      "word": "小米回应为何不联系家属",
+      "onboard_time": 1743519627,
+      "rank": 8,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 1575434,
@@ -243,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1116917,
+      "num": 247480,
+      "word": "SU7爆燃遇难者母亲希望雷军说到做到",
+      "onboard_time": 1743520285,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1110257,
       "num": 408790,
       "word": "留几手称雷军被推太高不是好事",
@@ -257,14 +273,6 @@
       "onboard_time": 1743477144,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 982644,
-      "num": 385838,
-      "word": "小米回应为何不联系家属",
-      "onboard_time": 1743519627,
-      "rank": 8,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 911127,
@@ -457,14 +465,6 @@
       "onboard_time": 1743441797,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 562849,
-      "num": 247480,
-      "word": "SU7爆燃遇难者母亲希望雷军说到做到",
-      "onboard_time": 1743520285,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 554934,
@@ -979,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279861,
+      "num": 279861,
+      "word": "TFBOYS团站愚人节复活",
+      "onboard_time": 1743520765,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279751,
       "num": 279751,
       "word": "喜茶被疑抄袭",
@@ -1140,7 +1148,7 @@
     },
     {
       "raw_hot": 246934,
-      "num": 246934,
+      "num": 327852,
       "word": "警方通报盲人按摩店男员工杀女老板",
       "onboard_time": 1743519505,
       "rank": 22,
@@ -1153,6 +1161,14 @@
       "onboard_time": 1743484104,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240994,
+      "num": 240994,
+      "word": "何济霆",
+      "onboard_time": 1743520645,
+      "rank": 23,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 239667,
@@ -1233,14 +1249,6 @@
       "onboard_time": 1743477443,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 232215,
-      "num": 232215,
-      "word": "何济霆",
-      "onboard_time": 1743520645,
-      "rank": 23,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 230506,
@@ -1707,14 +1715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183284,
-      "num": 183284,
-      "word": "TFBOYS团站愚人节复活",
-      "onboard_time": 1743520765,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182853,
       "num": 182853,
       "word": "字节招聘年限放宽",
@@ -1963,6 +1963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162878,
+      "num": 162878,
+      "word": "半熟4体育生杀死了比赛",
+      "onboard_time": 1743518245,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162502,
       "num": 324520,
       "word": "被抢男婴长大后出庭直面人贩",
@@ -2027,14 +2035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157733,
-      "num": 157733,
-      "word": "半熟4体育生杀死了比赛",
-      "onboard_time": 1743518245,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157571,
       "num": 157571,
       "word": "唐嫣说一日为师终身为师",
@@ -2049,6 +2049,14 @@
       "onboard_time": 1743486024,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155919,
+      "num": 381221,
+      "word": "坚持零容忍让卫生巾真正卫生起来",
+      "onboard_time": 1743519987,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154914,
@@ -2611,6 +2619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120981,
+      "num": 348357,
+      "word": "多次军演会不会曝光对台战术",
+      "onboard_time": 1743520285,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120864,
       "num": 120864,
       "word": "为什么韩国人喜欢去张家界",
@@ -2819,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101693,
+      "num": 113225,
+      "word": "粉丝cos经纪人账号被陈哲远回复",
+      "onboard_time": 1743519087,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101593,
       "num": 101593,
       "word": "想听女朋友说什么就自己剪",
@@ -2843,6 +2867,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100625,
+      "num": 100625,
+      "word": "金价",
+      "onboard_time": 1743519987,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 100135,
       "num": 134598,
       "word": "佳霏猫",
@@ -2857,14 +2889,6 @@
       "onboard_time": 1743474142,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 99723,
-      "num": 113225,
-      "word": "粉丝cos经纪人账号被陈哲远回复",
-      "onboard_time": 1743519087,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 99572,
@@ -2923,14 +2947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95468,
-      "num": 95468,
-      "word": "金价",
-      "onboard_time": 1743519987,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 93334,
       "num": 134447,
       "word": "宇露君沾",
@@ -2953,14 +2969,6 @@
       "onboard_time": 1743495923,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 91212,
-      "num": 381221,
-      "word": "坚持零容忍让卫生巾真正卫生起来",
-      "onboard_time": 1743519987,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89892,
@@ -2987,6 +2995,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 88985,
+      "num": 88985,
+      "word": "田曦薇愚人节站姐团建",
+      "onboard_time": 1743521903,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87961,
       "num": 322830,
       "word": "95后家长AI问诊致孩子病情延误",
@@ -3003,12 +3019,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85979,
+      "num": 85979,
+      "word": "00后小伙嚼槟榔8年变大方脸",
+      "onboard_time": 1743521663,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85277,
       "num": 320990,
       "word": "参照样板房装修被认定违建",
       "onboard_time": 1743481586,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85202,
+      "num": 85202,
+      "word": "何济霆 一醒",
+      "onboard_time": 1743521903,
+      "rank": 49,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 84526,
@@ -3049,14 +3081,6 @@
       "onboard_time": 1743407121,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 76942,
-      "num": 348357,
-      "word": "多次军演会不会曝光对台战术",
-      "onboard_time": 1743520285,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 76272,
@@ -3355,6 +3379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49887,
+      "num": 151447,
+      "word": "男子违规获取酒店房卡侵犯女住客",
+      "onboard_time": 1743521964,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48732,
       "num": 134449,
       "word": "国际爱鸟日",
@@ -3601,6 +3633,14 @@
       "onboard_time": 1743454933,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 17174,
+      "num": 183763,
+      "word": "1人摔伤后要求施救同事赔偿",
+      "onboard_time": 1743521844,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14964,

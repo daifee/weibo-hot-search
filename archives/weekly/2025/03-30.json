@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743521219179,
+  "endTime": 1743522122049,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -233,6 +233,14 @@
       "onboard_time": 1743334762,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1780438,
+      "num": 385838,
+      "word": "小米回应为何不联系家属",
+      "onboard_time": 1743519627,
+      "rank": 8,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 1746342,
@@ -507,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1116917,
+      "num": 247480,
+      "word": "SU7爆燃遇难者母亲希望雷军说到做到",
+      "onboard_time": 1743520285,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1110257,
       "num": 408790,
       "word": "留几手称雷军被推太高不是好事",
@@ -617,14 +633,6 @@
       "onboard_time": 1743419122,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 982644,
-      "num": 385838,
-      "word": "小米回应为何不联系家属",
-      "onboard_time": 1743519627,
-      "rank": 8,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 964056,
@@ -1297,14 +1305,6 @@
       "onboard_time": 1743405021,
       "rank": 14,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 562849,
-      "num": 247480,
-      "word": "SU7爆燃遇难者母亲希望雷军说到做到",
-      "onboard_time": 1743520285,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 559545,
@@ -2779,6 +2779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279861,
+      "num": 279861,
+      "word": "TFBOYS团站愚人节复活",
+      "onboard_time": 1743520765,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279834,
       "num": 279834,
       "word": "五月天直播",
@@ -3156,7 +3164,7 @@
     },
     {
       "raw_hot": 246934,
-      "num": 246934,
+      "num": 327852,
       "word": "警方通报盲人按摩店男员工杀女老板",
       "onboard_time": 1743519505,
       "rank": 22,
@@ -3233,6 +3241,14 @@
       "onboard_time": 1743404961,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240994,
+      "num": 240994,
+      "word": "何济霆",
+      "onboard_time": 1743520645,
+      "rank": 23,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 239681,
@@ -3353,14 +3369,6 @@
       "onboard_time": 1743350900,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 232215,
-      "num": 232215,
-      "word": "何济霆",
-      "onboard_time": 1743520645,
-      "rank": 23,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 232099,
@@ -4563,14 +4571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183284,
-      "num": 183284,
-      "word": "TFBOYS团站愚人节复活",
-      "onboard_time": 1743520765,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183257,
       "num": 666931,
       "word": "唐嫣在线回复她的兵",
@@ -5235,6 +5235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162878,
+      "num": 162878,
+      "word": "半熟4体育生杀死了比赛",
+      "onboard_time": 1743518245,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162837,
       "num": 162837,
       "word": "杭州小伙短租网红相机半年创收50万",
@@ -5451,14 +5459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157733,
-      "num": 157733,
-      "word": "半熟4体育生杀死了比赛",
-      "onboard_time": 1743518245,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157571,
       "num": 157571,
       "word": "唐嫣说一日为师终身为师",
@@ -5513,6 +5513,14 @@
       "onboard_time": 1743429444,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155919,
+      "num": 381221,
+      "word": "坚持零容忍让卫生巾真正卫生起来",
+      "onboard_time": 1743519987,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155419,
@@ -7147,6 +7155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120981,
+      "num": 348357,
+      "word": "多次军演会不会曝光对台战术",
+      "onboard_time": 1743520285,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120881,
       "num": 120881,
       "word": "周雨彤去冰岛了",
@@ -7915,6 +7931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101693,
+      "num": 113225,
+      "word": "粉丝cos经纪人账号被陈哲远回复",
+      "onboard_time": 1743519087,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101593,
       "num": 101593,
       "word": "想听女朋友说什么就自己剪",
@@ -8000,14 +8024,6 @@
       "word": "陈哲远这次是wink不是weak",
       "onboard_time": 1743330861,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 99723,
-      "num": 113225,
-      "word": "粉丝cos经纪人账号被陈哲远回复",
-      "onboard_time": 1743519087,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -8267,14 +8283,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 91212,
-      "num": 381221,
-      "word": "坚持零容忍让卫生巾真正卫生起来",
-      "onboard_time": 1743519987,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90825,
       "num": 90825,
       "word": "韩国扑救山火消防员的盒饭",
@@ -8313,6 +8321,14 @@
       "onboard_time": 1743489504,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 88985,
+      "num": 88985,
+      "word": "田曦薇愚人节站姐团建",
+      "onboard_time": 1743521903,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 88790,
@@ -8419,6 +8435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85979,
+      "num": 85979,
+      "word": "00后小伙嚼槟榔8年变大方脸",
+      "onboard_time": 1743521663,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85815,
       "num": 466127,
       "word": "中国救援队继续挺进缅甸重灾区",
@@ -8441,6 +8465,14 @@
       "onboard_time": 1743481586,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85202,
+      "num": 85202,
+      "word": "何济霆 一醒",
+      "onboard_time": 1743521903,
+      "rank": 49,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 84903,
@@ -8561,14 +8593,6 @@
       "onboard_time": 1743394521,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76942,
-      "num": 348357,
-      "word": "多次军演会不会曝光对台战术",
-      "onboard_time": 1743520285,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 76373,
@@ -9241,6 +9265,14 @@
       "onboard_time": 1743400881,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 49887,
+      "num": 151447,
+      "word": "男子违规获取酒店房卡侵犯女住客",
+      "onboard_time": 1743521964,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49485,
@@ -10104,6 +10136,14 @@
       "word": "男子用非遗茶杯吹奏广西民歌",
       "onboard_time": 1743417262,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17174,
+      "num": 183763,
+      "word": "1人摔伤后要求施救同事赔偿",
+      "onboard_time": 1743521844,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
