@@ -1,0 +1,410 @@
+{
+  "runTime": 1743482690999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1835969,
+        "num": 1835969,
+        "word": "快递员因同一人连收100个包裹报警了",
+        "onboard_time": 1743478282,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1354746,
+        "num": 1354746,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50704,
+        "num": 946654,
+        "word": "国家标准住宅项目规范发布",
+        "onboard_time": 1743422304,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 917646,
+        "num": 917646,
+        "word": "利路修正式退圈",
+        "onboard_time": 1743481226,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 855707,
+        "num": 855707,
+        "word": "台湾",
+        "onboard_time": 1743471503,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 892877,
+        "num": 849442,
+        "word": "张国荣",
+        "onboard_time": 1743465921,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 807089,
+        "num": 807089,
+        "word": "英雄联盟改名大乱斗联盟",
+        "onboard_time": 1743479004,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 503208,
+        "num": 503208,
+        "word": "4月1日含义是81192",
+        "onboard_time": 1743447134,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 851465,
+        "num": 487142,
+        "word": "利路修退圈前最后一次采访",
+        "onboard_time": 1743480324,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337891,
+        "num": 337891,
+        "word": "光遇",
+        "onboard_time": 1743481106,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1348033,
+        "num": 337645,
+        "word": "愚人节站姐团建",
+        "onboard_time": 1743438619,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 932767,
+        "num": 334773,
+        "word": "夫妻俩备孕无果到烈士陵园求子",
+        "onboard_time": 1743466643,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 608425,
+        "num": 333845,
+        "word": "金秀贤把鼻子上的妆抹掉了",
+        "onboard_time": 1743470842,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83759,
+        "num": 331173,
+        "word": "孙颖莎对红旗是真爱",
+        "onboard_time": 1743480204,
+        "rank": 13,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 232405,
+        "num": 330655,
+        "word": "发条微博致敬王伟烈士",
+        "onboard_time": 1743477443,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 587759,
+        "num": 328791,
+        "word": "张艺凡瘦成这样",
+        "onboard_time": 1743476602,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569425,
+        "num": 325918,
+        "word": "孟子义站姐发了李昀锐和秦霄贤",
+        "onboard_time": 1743481645,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220218,
+        "num": 325760,
+        "word": "蜘蛛侠4定档",
+        "onboard_time": 1743481406,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87961,
+        "num": 322830,
+        "word": "95后家长AI问诊致孩子病情延误",
+        "onboard_time": 1743480984,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85277,
+        "num": 320990,
+        "word": "参照样板房装修被认定违建",
+        "onboard_time": 1743481586,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473570,
+        "num": 320481,
+        "word": "马斯克宣布将辞去美国政府效率部职务",
+        "onboard_time": 1743465921,
+        "rank": 20,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 399612,
+        "num": 317671,
+        "word": "愚人节",
+        "onboard_time": 1743464480,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395513,
+        "num": 316751,
+        "word": "杜淳妻子网购遭客服拿地址威胁",
+        "onboard_time": 1743470965,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371366,
+        "num": 313935,
+        "word": "薛之谦 愚人节",
+        "onboard_time": 1743481826,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222442,
+        "num": 312951,
+        "word": "湖人vs火箭",
+        "onboard_time": 1743482125,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269513,
+        "num": 311243,
+        "word": "门童成员愚人节营业",
+        "onboard_time": 1743481106,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216616,
+        "num": 308844,
+        "word": "唐鹤德 谁能代替你地位",
+        "onboard_time": 1743467783,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308547,
+        "num": 308547,
+        "word": "站姐拍的娜扎张云龙",
+        "onboard_time": 1743479483,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108659,
+        "num": 284808,
+        "word": "赵丽颖四月行程有电影配音",
+        "onboard_time": 1743480745,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116174,
+        "num": 278377,
+        "word": "被困在留学申请中的985学生",
+        "onboard_time": 1743481886,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274932,
+        "num": 274932,
+        "word": "deepseek对许嵩作词甘拜下风",
+        "onboard_time": 1743479303,
+        "rank": 30,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 229575,
+        "num": 267991,
+        "word": "台湾女教师因批评台独遭台当局约谈",
+        "onboard_time": 1743477203,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267715,
+        "num": 267715,
+        "word": "27岁女生用12年从专科到留学硕士",
+        "onboard_time": 1743480565,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 243792,
+        "num": 243792,
+        "word": "黄金",
+        "onboard_time": 1743480204,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 243758,
+        "num": 243758,
+        "word": "金秀贤还画了下眼线",
+        "onboard_time": 1743477503,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235006,
+        "num": 235006,
+        "word": "海警按一个中国原则环台岛执法管控",
+        "onboard_time": 1743475822,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230061,
+        "num": 230061,
+        "word": "这届年轻人大大方方省了很多钱",
+        "onboard_time": 1743479064,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218245,
+        "num": 218245,
+        "word": "解放军台岛周边开展联合演训",
+        "onboard_time": 1743464240,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207077,
+        "num": 207077,
+        "word": "专家称本次演练没有代号因为已是常态",
+        "onboard_time": 1743477862,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204331,
+        "num": 204331,
+        "word": "78个货到付款快递被拒签小哥报警后获奖励",
+        "onboard_time": 1743478702,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200229,
+        "num": 200229,
+        "word": "周雨说孙颖莎影响力太大了",
+        "onboard_time": 1743476661,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199083,
+        "num": 199083,
+        "word": "愚人节站姐发的肖战",
+        "onboard_time": 1743481586,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195879,
+        "num": 195879,
+        "word": "别家站姐拍的赵露思",
+        "onboard_time": 1743475942,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189139,
+        "num": 189139,
+        "word": "香港旅游",
+        "onboard_time": 1743480145,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 188410,
+        "num": 188410,
+        "word": "蒋一侨回应和落跑甜心女主角撞脸",
+        "onboard_time": 1743479784,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168327,
+        "num": 168327,
+        "word": "终于有人把大学专业说清楚了",
+        "onboard_time": 1743475462,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158582,
+        "num": 158582,
+        "word": "迪丽热巴繁花行程图",
+        "onboard_time": 1743476782,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155961,
+        "num": 155961,
+        "word": "你敲了五声我听见了",
+        "onboard_time": 1743479604,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 150632,
+        "num": 150632,
+        "word": "张予曦站姐拍的杨幂",
+        "onboard_time": 1743467003,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143659,
+        "num": 143659,
+        "word": "宋亚轩15岁少年直拍",
+        "onboard_time": 1743482664,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025是推进巡视全覆盖的关键一年#"
+    }
+  }
+}

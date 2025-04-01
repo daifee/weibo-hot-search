@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743481858856,
+  "endTime": 1743482690999,
   "band_list": [
     {
       "raw_hot": 4078541,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1296635,
-      "num": 325072,
+      "num": 328791,
       "word": "张艺凡瘦成这样",
       "onboard_time": 1743476602,
       "rank": 11,
@@ -99,11 +99,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 917646,
+      "num": 917646,
+      "word": "利路修正式退圈",
+      "onboard_time": 1743481226,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 911127,
       "num": 409045,
       "word": "杜淳妻子网购遭客服拿地址威胁",
       "onboard_time": 1743470965,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 892877,
+      "num": 849442,
+      "word": "张国荣",
+      "onboard_time": 1743465921,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -115,10 +131,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 815664,
-      "num": 734791,
-      "word": "张国荣",
-      "onboard_time": 1743465921,
+      "raw_hot": 851465,
+      "num": 627096,
+      "word": "利路修退圈前最后一次采访",
+      "onboard_time": 1743480324,
       "rank": 6,
       "category": "艺人"
     },
@@ -163,14 +179,6 @@
       "category": "国际时政,国际时政"
     },
     {
-      "raw_hot": 627096,
-      "num": 627096,
-      "word": "利路修退圈前最后一次采访",
-      "onboard_time": 1743480324,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 610967,
       "num": 400469,
       "word": "金秀贤把鼻子上的妆抹掉了",
@@ -193,6 +201,14 @@
       "onboard_time": 1743441797,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 569425,
+      "num": 325918,
+      "word": "孟子义站姐发了李昀锐和秦霄贤",
+      "onboard_time": 1743481645,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 552985,
@@ -300,10 +316,18 @@
     },
     {
       "raw_hot": 372177,
-      "num": 299486,
+      "num": 308547,
       "word": "站姐拍的娜扎张云龙",
       "onboard_time": 1743479483,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 371366,
+      "num": 313935,
+      "word": "薛之谦 愚人节",
+      "onboard_time": 1743481826,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -321,14 +345,6 @@
       "onboard_time": 1743441017,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 356879,
-      "num": 305400,
-      "word": "利路修正式退圈",
-      "onboard_time": 1743481226,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 348299,
@@ -467,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269513,
+      "num": 311243,
+      "word": "门童成员愚人节营业",
+      "onboard_time": 1743481106,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264338,
       "num": 264338,
       "word": "黄金",
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 262534,
-      "num": 262534,
+      "num": 267991,
       "word": "台湾女教师因批评台独遭台当局约谈",
       "onboard_time": 1743477203,
       "rank": 36,
@@ -547,8 +571,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 227758,
-      "num": 305422,
+      "raw_hot": 232405,
+      "num": 330655,
       "word": "发条微博致敬王伟烈士",
       "onboard_time": 1743477443,
       "rank": 40,
@@ -579,12 +603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 223682,
-      "num": 304286,
-      "word": "门童成员愚人节营业",
-      "onboard_time": 1743481106,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 222442,
+      "num": 312951,
+      "word": "湖人vs火箭",
+      "onboard_time": 1743482125,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 220218,
+      "num": 325760,
+      "word": "蜘蛛侠4定档",
+      "onboard_time": 1743481406,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 218866,
@@ -611,6 +643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 207077,
+      "num": 305442,
+      "word": "专家称本次演练没有代号因为已是常态",
+      "onboard_time": 1743477862,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 206869,
       "num": 301423,
       "word": "沈月给快乐的大人嘉宾拍照",
@@ -635,16 +675,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201479,
-      "num": 201479,
-      "word": "孟子义站姐发了李昀锐和秦霄贤",
-      "onboard_time": 1743481645,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 199461,
-      "num": 199461,
+      "raw_hot": 204331,
+      "num": 204331,
       "word": "78个货到付款快递被拒签小哥报警后获奖励",
       "onboard_time": 1743478702,
       "rank": 41,
@@ -667,14 +699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 195112,
-      "num": 305442,
-      "word": "专家称本次演练没有代号因为已是常态",
-      "onboard_time": 1743477862,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 193174,
       "num": 193174,
       "word": "影视剧难哄",
@@ -688,14 +712,6 @@
       "word": "昀牵孟绕",
       "onboard_time": 1743464480,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 189448,
-      "num": 189448,
-      "word": "薛之谦 愚人节",
-      "onboard_time": 1743481826,
-      "rank": 47,
       "category": "艺人"
     },
     {
@@ -849,6 +865,14 @@
       "onboard_time": 1743472221,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143659,
+      "num": 143659,
+      "word": "宋亚轩15岁少年直拍",
+      "onboard_time": 1743482664,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 143553,
@@ -1011,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116174,
+      "num": 278377,
+      "word": "被困在留学申请中的985学生",
+      "onboard_time": 1743481886,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112046,
       "num": 112046,
       "word": "四月是你的谎言",
@@ -1124,7 +1156,7 @@
     },
     {
       "raw_hot": 90789,
-      "num": 305466,
+      "num": 331173,
       "word": "孙颖莎对红旗是真爱",
       "onboard_time": 1743480204,
       "rank": 12,
@@ -1145,6 +1177,22 @@
       "onboard_time": 1743432623,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87961,
+      "num": 322830,
+      "word": "95后家长AI问诊致孩子病情延误",
+      "onboard_time": 1743480984,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85277,
+      "num": 320990,
+      "word": "参照样板房装修被认定违建",
+      "onboard_time": 1743481586,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83304,
@@ -1291,14 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58695,
-      "num": 305384,
-      "word": "95后家长AI问诊致孩子病情延误",
-      "onboard_time": 1743480984,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58627,
       "num": 134326,
       "word": "封神2将从影院下映",
@@ -1392,14 +1432,6 @@
       "word": "云南地震",
       "onboard_time": 1743463639,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44192,
-      "num": 303452,
-      "word": "参照样板房装修被认定违建",
-      "onboard_time": 1743481586,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
