@@ -1,0 +1,410 @@
+{
+  "runTime": 1743550679913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 590770,
+        "num": 912040,
+        "word": "买家捆姜甲儒睡觉谎称怕冻肚子",
+        "onboard_time": 1743542353,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353098,
+        "num": 353098,
+        "word": "无限超越班再现墨雨云间",
+        "onboard_time": 1743549500,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28585,
+        "num": 259672,
+        "word": "春天是藏在公园的诗情画意",
+        "onboard_time": 1743512724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 630380,
+        "num": 250397,
+        "word": "盲人按摩店男员工杀女老板后服毒身亡",
+        "onboard_time": 1743523522,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 233743,
+        "num": 233743,
+        "word": "中国搜救犬在缅甸吃冰降温",
+        "onboard_time": 1743516624,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214622,
+        "num": 214622,
+        "word": "金价狂飙有金店称每天都要调价",
+        "onboard_time": 1743518427,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183025,
+        "num": 183025,
+        "word": "半熟4体育生杀死了比赛",
+        "onboard_time": 1743518245,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180461,
+        "num": 180461,
+        "word": "韩国游客喊话张艺兴你的家乡太棒了",
+        "onboard_time": 1743517044,
+        "rank": 7,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 178918,
+        "num": 178918,
+        "word": "解放军喊话台舰最新现场视频",
+        "onboard_time": 1743525499,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29443,
+        "num": 175159,
+        "word": "俄美正筹备新一轮会谈",
+        "onboard_time": 1743550281,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3058849,
+        "num": 166414,
+        "word": "雷军回应",
+        "onboard_time": 1743517885,
+        "rank": 10,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 860564,
+        "num": 165660,
+        "word": "孙子被抢走爷爷一天抽五六盒烟去世",
+        "onboard_time": 1743517584,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507668,
+        "num": 153145,
+        "word": "男子误入洗浴中心女宾区致顾客走光",
+        "onboard_time": 1743516443,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152555,
+        "num": 152555,
+        "word": "客服回应盒马16.9元一片面包",
+        "onboard_time": 1743518245,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402218,
+        "num": 150037,
+        "word": "小米汽车回应",
+        "onboard_time": 1743517885,
+        "rank": 14,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 337470,
+        "num": 144507,
+        "word": "医生解读网友关注金秀贤舌头",
+        "onboard_time": 1743513804,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315684,
+        "num": 142703,
+        "word": "男子违规获取酒店房卡侵犯女住客",
+        "onboard_time": 1743521964,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311469,
+        "num": 135816,
+        "word": "TVB女演员陈思齐摆摊卖鸡爪",
+        "onboard_time": 1743511702,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135716,
+        "num": 135716,
+        "word": "雁回时oe",
+        "onboard_time": 1743524603,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115026,
+        "num": 115026,
+        "word": "王嘉尔说没有粉丝自己什么都不是",
+        "onboard_time": 1743530656,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120894,
+        "num": 114848,
+        "word": "00后小伙嚼槟榔8年变大方脸",
+        "onboard_time": 1743521663,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114056,
+        "num": 114056,
+        "word": "黄油与面包回应标价15元收款19元",
+        "onboard_time": 1743507383,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96838,
+        "num": 96838,
+        "word": "宋妍霏组 三公第一",
+        "onboard_time": 1743518847,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91349,
+        "num": 91349,
+        "word": "湖南一男子花4元中了1242万元",
+        "onboard_time": 1743550038,
+        "rank": 23,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 89885,
+        "num": 89885,
+        "word": "任时完取关金秀贤",
+        "onboard_time": 1743516986,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89339,
+        "num": 89339,
+        "word": "金价",
+        "onboard_time": 1743519987,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88153,
+        "num": 88153,
+        "word": "专家不建议跟风买黄金",
+        "onboard_time": 1743545417,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85231,
+        "num": 85231,
+        "word": "雁回时删了6集",
+        "onboard_time": 1743511164,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75434,
+        "num": 84950,
+        "word": "杨超越名下公司被限制高消费",
+        "onboard_time": 1743529996,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72779,
+        "num": 84805,
+        "word": "鹿晗站姐发了双杨cp",
+        "onboard_time": 1743512784,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85838,
+        "num": 84801,
+        "word": "缅甸两女孩废墟里教科书式自救成功",
+        "onboard_time": 1743509963,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84755,
+        "num": 84755,
+        "word": "皇马4比4皇家社会",
+        "onboard_time": 1743550038,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83933,
+        "num": 83933,
+        "word": "费启鸣别没事拔鼻毛",
+        "onboard_time": 1743549500,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63806,
+        "num": 83931,
+        "word": "王者荣耀",
+        "onboard_time": 1743508403,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61002,
+        "num": 83929,
+        "word": "马丽说沈腾去浪姐她就去",
+        "onboard_time": 1743519387,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60717,
+        "num": 83921,
+        "word": "白鹿王星越唐宫奇案吻戏",
+        "onboard_time": 1743523640,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60240,
+        "num": 83917,
+        "word": "特朗普分别威胁乌俄",
+        "onboard_time": 1743548058,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57194,
+        "num": 83917,
+        "word": "多次军演会不会曝光对台战术",
+        "onboard_time": 1743520285,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52092,
+        "num": 83911,
+        "word": "美2名宇航员回地球后首次开发布会",
+        "onboard_time": 1743533474,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51926,
+        "num": 83909,
+        "word": "被这一刻的日照金山治愈了",
+        "onboard_time": 1743524419,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 50496,
+        "num": 83903,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48844,
+        "num": 83901,
+        "word": "何济霆",
+        "onboard_time": 1743520645,
+        "rank": 41,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 46423,
+        "num": 83895,
+        "word": "前TVB女演员回应摆摊卖鸡爪",
+        "onboard_time": 1743549258,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46036,
+        "num": 83891,
+        "word": "00后女生大学毕业职业代扫墓",
+        "onboard_time": 1743523702,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44101,
+        "num": 83885,
+        "word": "台湾当归也必归",
+        "onboard_time": 1743527778,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43332,
+        "num": 83883,
+        "word": "雁回时大结局",
+        "onboard_time": 1743501922,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41696,
+        "num": 83880,
+        "word": "浪姐6三公结果",
+        "onboard_time": 1743513984,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41400,
+        "num": 83877,
+        "word": "警方通报盲人按摩店男员工杀女老板",
+        "onboard_time": 1743519505,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 40091,
+        "num": 83873,
+        "word": "吴宣仪三公分数",
+        "onboard_time": 1743512304,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38186,
+        "num": 83866,
+        "word": "国羽何济霆疑被未婚妻爆料赌球",
+        "onboard_time": 1743510503,
+        "rank": 49,
+        "category": "体育,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度总统互致贺电#"
+    }
+  }
+}
