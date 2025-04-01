@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743499680010,
+  "endTime": 1743500462801,
   "band_list": [
     {
       "raw_hot": 11838630,
@@ -140,11 +140,19 @@
     },
     {
       "raw_hot": 1138029,
-      "num": 632455,
+      "num": 641997,
       "word": "小米集团午后跌超4%",
       "onboard_time": 1743489204,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1131073,
+      "num": 1180971,
+      "word": "东部战区慑封",
+      "onboard_time": 1743495683,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1118402,
@@ -153,14 +161,6 @@
       "onboard_time": 1743466643,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1098272,
-      "num": 1175723,
-      "word": "东部战区慑封",
-      "onboard_time": 1743495683,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1094163,
@@ -203,12 +203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 854714,
-      "num": 229289,
+      "raw_hot": 855241,
+      "num": 242660,
       "word": "谁家站姐这么勇",
       "onboard_time": 1743496461,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 852671,
+      "num": 237607,
+      "word": "羽毛球",
+      "onboard_time": 1743498984,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 851465,
@@ -361,14 +369,6 @@
       "onboard_time": 1743475942,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 472450,
-      "num": 200196,
-      "word": "羽毛球",
-      "onboard_time": 1743498984,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 440685,
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 282640,
-      "num": 196565,
+      "num": 214879,
       "word": "健身房偶遇吴谨言",
       "onboard_time": 1743497002,
       "rank": 39,
@@ -835,6 +835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 225960,
+      "num": 225960,
+      "word": "PH试纸碰他一下就变黑了 太碱了",
+      "onboard_time": 1743498622,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225853,
       "num": 225853,
       "word": "赵奕欢的裙子上是古代仕女图",
@@ -899,6 +907,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 217962,
+      "num": 217962,
+      "word": "白玉兰预测",
+      "onboard_time": 1743500003,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216570,
       "num": 239357,
       "word": "张若昀站姐拍的刘亦菲",
@@ -913,14 +929,6 @@
       "onboard_time": 1743464300,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 214248,
-      "num": 214248,
-      "word": "PH试纸碰他一下就变黑了 太碱了",
-      "onboard_time": 1743498622,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 211735,
@@ -953,6 +961,14 @@
       "onboard_time": 1743477862,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 206981,
+      "num": 206981,
+      "word": "愚人节表白",
+      "onboard_time": 1743499403,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 206869,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1743483323,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201815,
+      "num": 201815,
+      "word": "喜茶被疑抄袭",
+      "onboard_time": 1743499702,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 199977,
@@ -1129,6 +1153,14 @@
       "onboard_time": 1743495863,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181653,
+      "num": 263945,
+      "word": "空军战机围岛进逼",
+      "onboard_time": 1743499462,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179959,
@@ -1275,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164805,
+      "num": 164805,
+      "word": "鹿晗工怍室",
+      "onboard_time": 1743500302,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164577,
       "num": 149244,
       "word": "找工作不要限制于招聘app",
@@ -1313,14 +1353,6 @@
       "onboard_time": 1743489384,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159747,
-      "num": 192990,
-      "word": "空军战机围岛进逼",
-      "onboard_time": 1743499462,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 159610,
@@ -1387,6 +1419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153506,
+      "num": 153506,
+      "word": "姐姐打你骂你不耽误爱你",
+      "onboard_time": 1743500062,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153085,
       "num": 153085,
       "word": "夹竹桃 中毒",
@@ -1395,12 +1435,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 151794,
+      "num": 201066,
+      "word": "鄱阳湖退水大量鱼搁浅",
+      "onboard_time": 1743498202,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150793,
       "num": 150793,
       "word": "徐正溪站姐拍的迪丽热巴",
       "onboard_time": 1743488963,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149917,
+      "num": 153228,
+      "word": "韩国最应该申遗的是韩剧",
+      "onboard_time": 1743499163,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 148549,
@@ -1441,14 +1497,6 @@
       "onboard_time": 1743494963,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145153,
-      "num": 145153,
-      "word": "愚人节表白",
-      "onboard_time": 1743499403,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 144019,
@@ -1555,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137392,
+      "num": 137392,
+      "word": "门童",
+      "onboard_time": 1743500302,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136228,
       "num": 136228,
       "word": "于正晒娜扎剧照",
@@ -1644,7 +1700,7 @@
     },
     {
       "raw_hot": 133013,
-      "num": 205252,
+      "num": 215901,
       "word": "藏漂大叔厨房里藏着云南的春天",
       "onboard_time": 1743498742,
       "rank": 16,
@@ -1699,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124062,
+      "num": 124062,
+      "word": "电视是00后的家庭氛围组",
+      "onboard_time": 1743499702,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122402,
       "num": 122402,
       "word": "让孙颖莎头疼的事出现了",
@@ -1739,11 +1803,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119227,
-      "num": 119227,
-      "word": "韩国最应该申遗的是韩剧",
-      "onboard_time": 1743499163,
-      "rank": 46,
+      "raw_hot": 119996,
+      "num": 119996,
+      "word": "苦尽柑来遇见你 三代女性托举",
+      "onboard_time": 1743500302,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -1865,6 +1929,14 @@
       "onboard_time": 1743464480,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101346,
+      "num": 213297,
+      "word": "男子偷走寺庙功德箱里20万现金",
+      "onboard_time": 1743499822,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100773,
@@ -2040,14 +2112,6 @@
       "word": "4层及以上住宅设电梯",
       "onboard_time": 1743423865,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74802,
-      "num": 201066,
-      "word": "鄱阳湖退水大量鱼搁浅",
-      "onboard_time": 1743498202,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2315,6 +2379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41684,
+      "num": 202372,
+      "word": "郑钦文下一个目标是大满贯冠军",
+      "onboard_time": 1743498863,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41044,
       "num": 134282,
       "word": "黄子韬徐艺洋睡觉前要对暗号",
@@ -2411,14 +2483,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 24678,
-      "num": 202372,
-      "word": "郑钦文下一个目标是大满贯冠军",
-      "onboard_time": 1743498863,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 24676,
       "num": 56478,
       "word": "耒水水质已全线恢复正常",
@@ -2433,6 +2497,14 @@
       "onboard_time": 1743491663,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19636,
+      "num": 152801,
+      "word": "为宠物打官司的人",
+      "onboard_time": 1743499822,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18812,
@@ -2459,6 +2531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 14650,
+      "num": 186113,
+      "word": "未来或为枯井近百遗骸启动烈士认定",
+      "onboard_time": 1743499223,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13990,
       "num": 24989,
       "word": "多图直击缅甸震中救援现场",
@@ -2467,20 +2547,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 12871,
+      "num": 718182,
+      "word": "算法向上向善",
+      "onboard_time": 1743315921,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11648,
       "num": 49043,
       "word": "这是我们要建成的科技强国",
       "onboard_time": 1743446474,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11477,
-      "num": 186113,
-      "word": "未来或为枯井近百遗骸启动烈士认定",
-      "onboard_time": 1743499223,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11360,
@@ -2521,14 +2601,6 @@
       "onboard_time": 1743477684,
       "rank": 19,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 10813,
-      "num": 639656,
-      "word": "算法向上向善",
-      "onboard_time": 1743315921,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9529,

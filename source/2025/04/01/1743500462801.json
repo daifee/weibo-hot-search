@@ -1,0 +1,410 @@
+{
+  "runTime": 1743500462801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1131073,
+        "num": 1180971,
+        "word": "东部战区慑封",
+        "onboard_time": 1743495683,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 809770,
+        "num": 809770,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12871,
+        "num": 718182,
+        "word": "算法向上向善",
+        "onboard_time": 1743315921,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641997,
+        "num": 641997,
+        "word": "小米集团午后跌超4%",
+        "onboard_time": 1743489204,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 541875,
+        "num": 541875,
+        "word": "快递员弄丢客户2.9公斤金饰吓傻",
+        "onboard_time": 1743497424,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440970,
+        "num": 440970,
+        "word": "37岁曹璐签新公司再闯韩娱",
+        "onboard_time": 1743496403,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350801,
+        "num": 350801,
+        "word": "快递员因同一人连收100个包裹报警了",
+        "onboard_time": 1743478282,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274173,
+        "num": 274173,
+        "word": "利路修正式退圈",
+        "onboard_time": 1743481226,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265569,
+        "num": 265569,
+        "word": "台湾",
+        "onboard_time": 1743471503,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181653,
+        "num": 263945,
+        "word": "空军战机围岛进逼",
+        "onboard_time": 1743499462,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8390832,
+        "num": 8390832,
+        "word": "小米SU7高速碰撞爆燃事件细节",
+        "onboard_time": 1743484044,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1165708,
+        "num": 246796,
+        "word": "鹿晗站姐",
+        "onboard_time": 1743495022,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 855241,
+        "num": 242660,
+        "word": "谁家站姐这么勇",
+        "onboard_time": 1743496461,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 852671,
+        "num": 237607,
+        "word": "羽毛球",
+        "onboard_time": 1743498984,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 773428,
+        "num": 229104,
+        "word": "金秀贤 迪士尼",
+        "onboard_time": 1743492083,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225960,
+        "num": 225960,
+        "word": "PH试纸碰他一下就变黑了 太碱了",
+        "onboard_time": 1743498622,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217962,
+        "num": 217962,
+        "word": "白玉兰预测",
+        "onboard_time": 1743500003,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95335,
+        "num": 215901,
+        "word": "藏漂大叔厨房里藏着云南的春天",
+        "onboard_time": 1743498742,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240321,
+        "num": 214879,
+        "word": "健身房偶遇吴谨言",
+        "onboard_time": 1743497002,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101346,
+        "num": 213297,
+        "word": "男子偷走寺庙功德箱里20万现金",
+        "onboard_time": 1743499822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305661,
+        "num": 209711,
+        "word": "李美越",
+        "onboard_time": 1743495744,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 243657,
+        "num": 208785,
+        "word": "女儿遭男孩按入水中母亲反击被判赔",
+        "onboard_time": 1743496223,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206981,
+        "num": 206981,
+        "word": "愚人节表白",
+        "onboard_time": 1743499403,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201815,
+        "num": 201815,
+        "word": "喜茶被疑抄袭",
+        "onboard_time": 1743499702,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188221,
+        "num": 188221,
+        "word": "鞠婧祎刘宇宁 万花世界",
+        "onboard_time": 1743498803,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164805,
+        "num": 164805,
+        "word": "鹿晗工怍室",
+        "onboard_time": 1743500302,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153506,
+        "num": 153506,
+        "word": "姐姐打你骂你不耽误爱你",
+        "onboard_time": 1743500062,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149917,
+        "num": 153228,
+        "word": "韩国最应该申遗的是韩剧",
+        "onboard_time": 1743499163,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14650,
+        "num": 153031,
+        "word": "未来或为枯井近百遗骸启动烈士认定",
+        "onboard_time": 1743499223,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19636,
+        "num": 152801,
+        "word": "为宠物打官司的人",
+        "onboard_time": 1743499822,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200624,
+        "num": 152214,
+        "word": "EXO周年直播没通知cbx",
+        "onboard_time": 1743496044,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188969,
+        "num": 151801,
+        "word": "夫妻3胎喜得女儿发10万个鸡蛋庆祝",
+        "onboard_time": 1743489982,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151794,
+        "num": 151794,
+        "word": "鄱阳湖退水大量鱼搁浅",
+        "onboard_time": 1743498202,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148502,
+        "num": 148502,
+        "word": "愚人节",
+        "onboard_time": 1743464480,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146093,
+        "num": 146093,
+        "word": "吉克隽逸怎么穿得春夏秋冬的",
+        "onboard_time": 1743499103,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143176,
+        "num": 143176,
+        "word": "蓝莓便宜了",
+        "onboard_time": 1743487944,
+        "rank": 35,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 140467,
+        "num": 140467,
+        "word": "杨幂站姐拍的迪丽热巴",
+        "onboard_time": 1743494663,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140179,
+        "num": 140179,
+        "word": "愚人节站姐团建",
+        "onboard_time": 1743438619,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140015,
+        "num": 140015,
+        "word": "731部队大本营旧址发现大量人骨",
+        "onboard_time": 1743495863,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27220,
+        "num": 138690,
+        "word": "博主谈智能驾驶和辅助驾驶",
+        "onboard_time": 1743499403,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137392,
+        "num": 137392,
+        "word": "门童",
+        "onboard_time": 1743500302,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136664,
+        "num": 136664,
+        "word": "黄旭熙宣布台湾出道",
+        "onboard_time": 1743486742,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134732,
+        "num": 134732,
+        "word": "医生建议想减肥的人早晚分别称体重",
+        "onboard_time": 1743492744,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41684,
+        "num": 131173,
+        "word": "郑钦文下一个目标是大满贯冠军",
+        "onboard_time": 1743498863,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127622,
+        "num": 127622,
+        "word": "金饰价格涨到953元",
+        "onboard_time": 1743491124,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126798,
+        "num": 126798,
+        "word": "孙坚 我是唐嫣的兵",
+        "onboard_time": 1743493342,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125387,
+        "num": 125387,
+        "word": "中国将进一步扩容免签朋友圈",
+        "onboard_time": 1743495923,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124062,
+        "num": 124062,
+        "word": "电视是00后的家庭氛围组",
+        "onboard_time": 1743499702,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119996,
+        "num": 119996,
+        "word": "苦尽柑来遇见你 三代女性托举",
+        "onboard_time": 1743500302,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115264,
+        "num": 115264,
+        "word": "华晨宇对接斥侵权行为",
+        "onboard_time": 1743495803,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025是推进巡视全覆盖的关键一年#"
+    }
+  }
+}
