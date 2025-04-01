@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743489341665,
+  "endTime": 1743490169142,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1258284,
+      "num": 1258284,
+      "word": "黄旭熙宣布台湾出道",
+      "onboard_time": 1743486742,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1243253,
       "num": 1243253,
       "word": "老人假扮少女乞讨被识破破口大骂",
@@ -376,14 +384,6 @@
       "word": "站姐愚人节团建预告",
       "onboard_time": 1743425964,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1122204,
-      "num": 562755,
-      "word": "黄旭熙宣布台湾出道",
-      "onboard_time": 1743486742,
-      "rank": 3,
       "category": "艺人"
     },
     {
@@ -1763,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369111,
+      "num": 332209,
+      "word": "小米集团午后跌超4%",
+      "onboard_time": 1743489204,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 367496,
       "num": 367496,
       "word": "甲亢哥针灸正骨后已老实",
@@ -1785,6 +1793,14 @@
       "onboard_time": 1743415043,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 366240,
+      "num": 366240,
+      "word": "10元盒饭姐因浪费气得不想出摊",
+      "onboard_time": 1743487161,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365551,
@@ -2147,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299496,
+      "num": 195351,
+      "word": "洪小铃孕肚照",
+      "onboard_time": 1743489204,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297104,
       "num": 297104,
       "word": "成毅站姐做的迪丽热巴贺思慕海报",
@@ -2249,14 +2273,6 @@
       "onboard_time": 1743317902,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 285749,
-      "num": 285749,
-      "word": "10元盒饭姐因浪费气得不想出摊",
-      "onboard_time": 1743487161,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 284587,
@@ -2449,6 +2465,14 @@
       "onboard_time": 1743410664,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271960,
+      "num": 271960,
+      "word": "公摊面积最大的蔬菜",
+      "onboard_time": 1743485905,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 271615,
@@ -2691,14 +2715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242874,
-      "num": 242874,
-      "word": "公摊面积最大的蔬菜",
-      "onboard_time": 1743485905,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242821,
       "num": 242821,
       "word": "杨紫张挺 合作",
@@ -2856,6 +2872,14 @@
       "word": "男婴被4人入室抢走主犯竟是邻居",
       "onboard_time": 1743409885,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227184,
+      "num": 227184,
+      "word": "夫妻3胎喜得女儿发10万个鸡蛋庆祝",
+      "onboard_time": 1743489982,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -3051,6 +3075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 211735,
+      "num": 211735,
+      "word": "中国救援队员枕着路基睡着了",
+      "onboard_time": 1743486382,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 211724,
       "num": 211724,
       "word": "减肥一直没效果的原因找到了",
@@ -3113,6 +3145,14 @@
       "onboard_time": 1743322402,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 209483,
+      "num": 209483,
+      "word": "赴山海",
+      "onboard_time": 1743485063,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 209100,
@@ -3387,6 +3427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198786,
+      "num": 265559,
+      "word": "樊振东在古茗鲜活的一天",
+      "onboard_time": 1743489924,
+      "rank": 18,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 198478,
       "num": 198478,
       "word": "华人称地震当日缅甸放假救了很多人",
@@ -3507,14 +3555,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 193273,
-      "num": 201039,
-      "word": "赴山海",
-      "onboard_time": 1743485063,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193174,
       "num": 193174,
       "word": "影视剧难哄",
@@ -3529,14 +3569,6 @@
       "onboard_time": 1743415882,
       "rank": 14,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 193023,
-      "num": 193023,
-      "word": "中国救援队员枕着路基睡着了",
-      "onboard_time": 1743486382,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 192942,
@@ -3612,7 +3644,7 @@
     },
     {
       "raw_hot": 189019,
-      "num": 194113,
+      "num": 200128,
       "word": "天赐的声音6首录直播",
       "onboard_time": 1743487764,
       "rank": 27,
@@ -4603,6 +4635,14 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 153888,
+      "num": 210111,
+      "word": "小乔秘证寻踪新皮肤",
+      "onboard_time": 1743485184,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153670,
       "num": 153670,
       "word": "南京推出公积金全家桶政策助力买房",
@@ -4681,14 +4721,6 @@
       "onboard_time": 1743430344,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151301,
-      "num": 203898,
-      "word": "小乔秘证寻踪新皮肤",
-      "onboard_time": 1743485184,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 151228,
@@ -4833,14 +4865,6 @@
       "onboard_time": 1743472762,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 146100,
-      "num": 146100,
-      "word": "洪小铃孕肚照",
-      "onboard_time": 1743489204,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 146023,
@@ -5131,6 +5155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140807,
+      "num": 140807,
+      "word": "檀健次站姐发了相柳未公开图",
+      "onboard_time": 1743486742,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140737,
       "num": 140737,
       "word": "太湖湾音乐节",
@@ -5153,6 +5185,14 @@
       "onboard_time": 1743423923,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139924,
+      "num": 139924,
+      "word": "齐司礼之恋",
+      "onboard_time": 1743489384,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 138872,
@@ -5249,6 +5289,14 @@
       "onboard_time": 1743382820,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 136581,
+      "num": 136581,
+      "word": "税务总局去年对网络主播查补收入8.99亿",
+      "onboard_time": 1743489384,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136481,
@@ -5396,7 +5444,7 @@
     },
     {
       "raw_hot": 134730,
-      "num": 234341,
+      "num": 262028,
       "word": "EXO出道13周年直播预告",
       "onboard_time": 1743488963,
       "rank": 19,
@@ -5417,6 +5465,14 @@
       "onboard_time": 1743390801,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 134297,
+      "num": 134297,
+      "word": "各家站姐分享的迪丽热巴",
+      "onboard_time": 1743489323,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 134192,
@@ -5563,14 +5619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129900,
-      "num": 193289,
-      "word": "小米集团午后跌超4%",
-      "onboard_time": 1743489204,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 129737,
       "num": 129737,
       "word": "姚晨新剧上来就美我一大跳",
@@ -5633,6 +5681,14 @@
       "onboard_time": 1743337822,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127627,
+      "num": 156342,
+      "word": "吴宣仪今天当倪虹洁站姐",
+      "onboard_time": 1743489924,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 127157,
@@ -5753,14 +5809,6 @@
       "onboard_time": 1743429804,
       "rank": 29,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 123918,
-      "num": 123918,
-      "word": "各家站姐分享的迪丽热巴",
-      "onboard_time": 1743489323,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 123848,
@@ -6001,6 +6049,14 @@
       "onboard_time": 1743302069,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118032,
+      "num": 357975,
+      "word": "缅甸地震2719人遇难",
+      "onboard_time": 1743489384,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 117969,
@@ -6644,7 +6700,7 @@
     },
     {
       "raw_hot": 98929,
-      "num": 193109,
+      "num": 196489,
       "word": "尹锡悦核心亲信被调查期间身亡",
       "onboard_time": 1743486564,
       "rank": 29,
@@ -6881,6 +6937,14 @@
       "onboard_time": 1743261802,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89230,
+      "num": 197626,
+      "word": "抛弃中产后越南房价暴涨",
+      "onboard_time": 1743489504,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88790,
@@ -8617,6 +8681,14 @@
       "onboard_time": 1743366793,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7115,
+      "num": 161117,
+      "word": "文淇谈传承与创新",
+      "onboard_time": 1743489982,
+      "rank": 34,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
