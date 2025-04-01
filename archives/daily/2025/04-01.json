@@ -1,7 +1,15 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743518622259,
+  "endTime": 1743521219179,
   "band_list": [
+    {
+      "raw_hot": 18929817,
+      "num": 18929817,
+      "word": "雷军回应",
+      "onboard_time": 1743517885,
+      "rank": 0,
+      "category": "辟谣/通报,汽车"
+    },
     {
       "raw_hot": 14691299,
       "num": 14691299,
@@ -9,14 +17,6 @@
       "onboard_time": 1743504622,
       "rank": 0,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 14018750,
-      "num": 14018750,
-      "word": "雷军回应",
-      "onboard_time": 1743517885,
-      "rank": 0,
-      "category": "辟谣/通报,汽车"
     },
     {
       "raw_hot": 11838630,
@@ -41,6 +41,14 @@
       "onboard_time": 1743473781,
       "rank": 3,
       "category": "舆论监督,汽车"
+    },
+    {
+      "raw_hot": 2731549,
+      "num": 2731549,
+      "word": "小米汽车回应",
+      "onboard_time": 1743517885,
+      "rank": 1,
+      "category": "辟谣/通报,汽车"
     },
     {
       "raw_hot": 2163339,
@@ -131,14 +139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1510423,
-      "num": 1510423,
-      "word": "小米汽车回应",
-      "onboard_time": 1743517885,
-      "rank": 1,
-      "category": "辟谣/通报,汽车"
-    },
-    {
       "raw_hot": 1352189,
       "num": 164732,
       "word": "金秀贤和未成年金赛纶约会视频",
@@ -161,6 +161,14 @@
       "onboard_time": 1743483627,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1299402,
+      "num": 1299402,
+      "word": "孙子被抢走爷爷一天抽五六盒烟去世",
+      "onboard_time": 1743517584,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1296635,
@@ -251,6 +259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 982644,
+      "num": 385838,
+      "word": "小米回应为何不联系家属",
+      "onboard_time": 1743519627,
+      "rank": 8,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 911127,
       "num": 409045,
       "word": "杜淳妻子网购遭客服拿地址威胁",
@@ -299,20 +315,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 852576,
+      "num": 378878,
+      "word": "小米称事故车起火并非自燃",
+      "onboard_time": 1743518847,
+      "rank": 10,
+      "category": "辟谣/通报,汽车"
+    },
+    {
       "raw_hot": 851465,
       "num": 627096,
       "word": "利路修退圈前最后一次采访",
       "onboard_time": 1743480324,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 836905,
-      "num": 836905,
-      "word": "孙子被抢走爷爷一天抽五六盒烟去世",
-      "onboard_time": 1743517584,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 825264,
@@ -395,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600651,
+      "num": 369344,
+      "word": "男子误入洗浴中心女宾区致顾客走光",
+      "onboard_time": 1743516443,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 600639,
       "num": 371368,
       "word": "浪姐6三公结果",
@@ -433,6 +457,14 @@
       "onboard_time": 1743441797,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 562849,
+      "num": 247480,
+      "word": "SU7爆燃遇难者母亲希望雷军说到做到",
+      "onboard_time": 1743520285,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 554934,
@@ -595,8 +627,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 391852,
-      "num": 391852,
+      "raw_hot": 395270,
+      "num": 395270,
       "word": "黄油与面包回应标价15元收款19元",
       "onboard_time": 1743507383,
       "rank": 23,
@@ -747,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337642,
+      "num": 337642,
+      "word": "宋妍霏组 三公第一",
+      "onboard_time": 1743518847,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334731,
       "num": 334731,
       "word": "周雨说孙颖莎影响力太大了",
@@ -809,6 +849,14 @@
       "onboard_time": 1743464300,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306496,
+      "num": 211987,
+      "word": "小米否认事故车辆拉回北京",
+      "onboard_time": 1743519746,
+      "rank": 27,
+      "category": "辟谣/通报,汽车"
     },
     {
       "raw_hot": 306174,
@@ -1043,16 +1091,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 262336,
-      "num": 262336,
-      "word": "男子误入洗浴中心女宾区致顾客走光",
-      "onboard_time": 1743516443,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 257488,
-      "num": 230362,
+      "num": 248161,
       "word": "医生解读网友关注金秀贤舌头",
       "onboard_time": 1743513804,
       "rank": 33,
@@ -1097,6 +1137,14 @@
       "onboard_time": 1743477503,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246934,
+      "num": 246934,
+      "word": "警方通报盲人按摩店男员工杀女老板",
+      "onboard_time": 1743519505,
+      "rank": 22,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 243465,
@@ -1185,6 +1233,14 @@
       "onboard_time": 1743477443,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 232215,
+      "num": 232215,
+      "word": "何济霆",
+      "onboard_time": 1743520645,
+      "rank": 23,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 230506,
@@ -1483,6 +1539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194942,
+      "num": 194942,
+      "word": "傅云夕还活着吗",
+      "onboard_time": 1743518666,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193984,
       "num": 152375,
       "word": "雁回时 双洁党",
@@ -1627,11 +1691,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184354,
+      "num": 248055,
+      "word": "马丽说沈腾去浪姐她就去",
+      "onboard_time": 1743519387,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183615,
       "num": 324685,
       "word": "片场捕捉野生文淇",
       "onboard_time": 1743476661,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183284,
+      "num": 183284,
+      "word": "TFBOYS团站愚人节复活",
+      "onboard_time": 1743520765,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1827,6 +1907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 168191,
+      "num": 196727,
+      "word": "金价狂飙有金店称每天都要调价",
+      "onboard_time": 1743518427,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167557,
       "num": 167557,
       "word": "为什么此时发起联合演训",
@@ -1939,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157733,
+      "num": 157733,
+      "word": "半熟4体育生杀死了比赛",
+      "onboard_time": 1743518245,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157571,
       "num": 157571,
       "word": "唐嫣说一日为师终身为师",
@@ -2043,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149771,
+      "num": 149771,
+      "word": "马柏全张康乐的小秘密",
+      "onboard_time": 1743519806,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148549,
       "num": 148549,
       "word": "悉尼妹分手",
@@ -2057,6 +2161,14 @@
       "onboard_time": 1743512363,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147887,
+      "num": 147887,
+      "word": "王安宇新剧从08年帅到25年",
+      "onboard_time": 1743520526,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 147528,
@@ -2467,6 +2579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122316,
+      "num": 122316,
+      "word": "客服回应盒马16.9元一片面包",
+      "onboard_time": 1743518245,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121603,
       "num": 121603,
       "word": "苏新皓站姐发了好多cp",
@@ -2611,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113193,
+      "num": 113193,
+      "word": "宋雨琦新歌预告",
+      "onboard_time": 1743521064,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 113178,
       "num": 113178,
       "word": "TES挺进A组",
@@ -2731,6 +2859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99723,
+      "num": 113225,
+      "word": "粉丝cos经纪人账号被陈哲远回复",
+      "onboard_time": 1743519087,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99572,
       "num": 99572,
       "word": "卓沅不欢迎脸颊肉",
@@ -2787,6 +2923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95468,
+      "num": 95468,
+      "word": "金价",
+      "onboard_time": 1743519987,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 93334,
       "num": 134447,
       "word": "宇露君沾",
@@ -2809,6 +2953,14 @@
       "onboard_time": 1743495923,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91212,
+      "num": 381221,
+      "word": "坚持零容忍让卫生巾真正卫生起来",
+      "onboard_time": 1743519987,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89892,
@@ -2899,6 +3051,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 76942,
+      "num": 348357,
+      "word": "多次军演会不会曝光对台战术",
+      "onboard_time": 1743520285,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76272,
       "num": 134350,
       "word": "4层及以上住宅设电梯",
@@ -2953,14 +3113,6 @@
       "onboard_time": 1743518487,
       "rank": 31,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 71568,
-      "num": 196727,
-      "word": "金价狂飙有金店称每天都要调价",
-      "onboard_time": 1743518427,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 70980,
@@ -3041,6 +3193,14 @@
       "onboard_time": 1743505582,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64307,
+      "num": 247725,
+      "word": "抢婴案母亲将带爷爷遗像质问人贩子",
+      "onboard_time": 1743519567,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64298,
@@ -3276,7 +3436,7 @@
     },
     {
       "raw_hot": 36229,
-      "num": 1318557,
+      "num": 1658063,
       "word": "春天是藏在公园的诗情画意",
       "onboard_time": 1743512724,
       "rank": 2,
@@ -3305,6 +3465,14 @@
       "onboard_time": 1743497063,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34202,
+      "num": 202545,
+      "word": "乘客欲强开舱门致客机返航",
+      "onboard_time": 1743519865,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 33583,

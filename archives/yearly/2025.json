@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743518622259,
+  "endTime": 1743521219179,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -89,6 +89,14 @@
       "onboard_time": 1740807827,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18929817,
+      "num": 18929817,
+      "word": "雷军回应",
+      "onboard_time": 1743517885,
+      "rank": 0,
+      "category": "辟谣/通报,汽车"
     },
     {
       "raw_hot": 18900626,
@@ -249,14 +257,6 @@
       "onboard_time": 1738985241,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14018750,
-      "num": 14018750,
-      "word": "雷军回应",
-      "onboard_time": 1743517885,
-      "rank": 0,
-      "category": "辟谣/通报,汽车"
     },
     {
       "raw_hot": 13952184,
