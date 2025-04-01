@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743485079595,
+  "endTime": 1743486105841,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -345,6 +345,14 @@
       "onboard_time": 1743143600,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 11838630,
+      "num": 11838630,
+      "word": "小米SU7高速碰撞爆燃事件细节",
+      "onboard_time": 1743484044,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11696179,
@@ -769,14 +777,6 @@
       "onboard_time": 1741756765,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6670417,
-      "num": 6670417,
-      "word": "小米SU7高速碰撞爆燃事件细节",
-      "onboard_time": 1743484044,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6585357,

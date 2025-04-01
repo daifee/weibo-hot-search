@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743485079595,
+  "endTime": 1743486105841,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -9,6 +9,14 @@
       "onboard_time": 1743406100,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11838630,
+      "num": 11838630,
+      "word": "小米SU7高速碰撞爆燃事件细节",
+      "onboard_time": 1743484044,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8210554,
@@ -25,14 +33,6 @@
       "onboard_time": 1743411324,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6670417,
-      "num": 6670417,
-      "word": "小米SU7高速碰撞爆燃事件细节",
-      "onboard_time": 1743484044,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4078541,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1879403,
+      "num": 403078,
+      "word": "警方回应小米SU7高速车祸致3死",
+      "onboard_time": 1743484224,
+      "rank": 10,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 1842360,
       "num": 544340,
       "word": "愚人节",
@@ -225,14 +233,6 @@
       "onboard_time": 1743299120,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1655896,
-      "num": 291574,
-      "word": "警方回应小米SU7高速车祸致3死",
-      "onboard_time": 1743484224,
-      "rank": 10,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 1631083,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 864707,
-      "num": 325918,
+      "num": 402858,
       "word": "孟子义站姐发了李昀锐和秦霄贤",
       "onboard_time": 1743481645,
       "rank": 43,
@@ -851,6 +851,14 @@
       "category": "国际时政,国际时政"
     },
     {
+      "raw_hot": 647696,
+      "num": 647696,
+      "word": "这不是愚人节 这是情人节",
+      "onboard_time": 1743483627,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 643588,
       "num": 327475,
       "word": "赵露思穿了手艺人爷爷做的鞋",
@@ -892,7 +900,7 @@
     },
     {
       "raw_hot": 624310,
-      "num": 286212,
+      "num": 400709,
       "word": "邓为站姐发了fx",
       "onboard_time": 1743483985,
       "rank": 16,
@@ -1204,7 +1212,7 @@
     },
     {
       "raw_hot": 498494,
-      "num": 313935,
+      "num": 399341,
       "word": "薛之谦 愚人节",
       "onboard_time": 1743481826,
       "rank": 47,
@@ -1385,14 +1393,6 @@
       "onboard_time": 1743407121,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 444194,
-      "num": 444194,
-      "word": "这不是愚人节 这是情人节",
-      "onboard_time": 1743483627,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 443398,
@@ -2819,6 +2819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226889,
+      "num": 187887,
+      "word": "公摊面积最大的蔬菜",
+      "onboard_time": 1743485905,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226778,
       "num": 226778,
       "word": "缅甸强震已致3名中国公民遇难",
@@ -3571,12 +3579,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187662,
+      "num": 276703,
+      "word": "一个好演员眼睛也是会说话的",
+      "onboard_time": 1743484763,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187100,
       "num": 259532,
       "word": "男子篡改好友专升本志愿致其落榜获刑",
       "onboard_time": 1743426382,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187042,
+      "num": 196063,
+      "word": "赴山海",
+      "onboard_time": 1743485063,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 186957,
@@ -3723,14 +3747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181965,
-      "num": 276703,
-      "word": "一个好演员眼睛也是会说话的",
-      "onboard_time": 1743484763,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 181656,
       "num": 181656,
       "word": "AG对战TTG",
@@ -3745,6 +3761,14 @@
       "onboard_time": 1743244823,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 179959,
+      "num": 179959,
+      "word": "女子潜水被鲨鱼咬残水下未配安全员",
+      "onboard_time": 1743482964,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179514,
@@ -3939,6 +3963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171186,
+      "num": 171186,
+      "word": "上海一彩民守号2个月中1000.9万",
+      "onboard_time": 1743485844,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171138,
       "num": 171138,
       "word": "念无双",
@@ -4008,6 +4040,14 @@
       "word": "李昀锐四月三个商务拍摄",
       "onboard_time": 1743390860,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168602,
+      "num": 168602,
+      "word": "烟霄昀散",
+      "onboard_time": 1743485723,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -4283,6 +4323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159610,
+      "num": 159610,
+      "word": "天赐的声音",
+      "onboard_time": 1743485663,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159368,
       "num": 161006,
       "word": "提高墙体楼板隔声性能",
@@ -4387,6 +4435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156356,
+      "num": 152993,
+      "word": "标准道歉全过程vs眼泪的金秀贤",
+      "onboard_time": 1743486024,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156114,
       "num": 156114,
       "word": "王宝强新剧拿稳黑莲花剧本",
@@ -4483,6 +4539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153920,
+      "num": 331173,
+      "word": "孙颖莎对红旗是真爱",
+      "onboard_time": 1743480204,
+      "rank": 12,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 153670,
       "num": 153670,
       "word": "南京推出公积金全家桶政策助力买房",
@@ -4561,6 +4625,22 @@
       "onboard_time": 1743430344,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151610,
+      "num": 151610,
+      "word": "夫妻自如租房5年妻子多项指标异常",
+      "onboard_time": 1743485905,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151301,
+      "num": 151301,
+      "word": "小乔秘证寻踪新皮肤",
+      "onboard_time": 1743485184,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 151228,
@@ -4835,6 +4915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143644,
+      "num": 143644,
+      "word": "未定事件簿",
+      "onboard_time": 1743485004,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143553,
       "num": 143553,
       "word": "泰高空走廊被震断男子奋力跳向对面",
@@ -4913,6 +5001,14 @@
       "onboard_time": 1743264624,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142044,
+      "num": 403772,
+      "word": "反制针对台独绝非针对广大台湾同胞",
+      "onboard_time": 1743485124,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142016,
@@ -5187,14 +5283,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 134977,
-      "num": 134977,
-      "word": "赴山海",
-      "onboard_time": 1743485063,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134868,
       "num": 134868,
       "word": "孟子义四月行程图",
@@ -5329,14 +5417,6 @@
       "onboard_time": 1743420742,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131399,
-      "num": 134305,
-      "word": "女子潜水被鲨鱼咬残水下未配安全员",
-      "onboard_time": 1743482964,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131390,
@@ -5595,14 +5675,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 121999,
-      "num": 331173,
-      "word": "孙颖莎对红旗是真爱",
-      "onboard_time": 1743480204,
-      "rank": 12,
-      "category": "体育,汽车"
-    },
-    {
       "raw_hot": 121873,
       "num": 121873,
       "word": "周震南选队友一分钟啧了七次",
@@ -5833,6 +5905,14 @@
       "onboard_time": 1743431724,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 116996,
+      "num": 166023,
+      "word": "武艺跟papi分享给贴膜师傅开房的经历",
+      "onboard_time": 1743485063,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 116822,
@@ -6883,14 +6963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76832,
-      "num": 166023,
-      "word": "武艺跟papi分享给贴膜师傅开房的经历",
-      "onboard_time": 1743485063,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76373,
       "num": 149906,
       "word": "金价又创新高还能买吗",
@@ -7051,6 +7123,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 69631,
+      "num": 283657,
+      "word": "流量经济下的未成年网红乱象",
+      "onboard_time": 1743484044,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 67160,
       "num": 1256149,
       "word": "中国园林有朵石做的云",
@@ -7129,6 +7209,14 @@
       "onboard_time": 1743327201,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 64720,
+      "num": 273928,
+      "word": "杨幂卡点发文和蜜蜂庆生",
+      "onboard_time": 1743485243,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 64674,
@@ -7561,14 +7649,6 @@
       "onboard_time": 1743463639,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44100,
-      "num": 283657,
-      "word": "流量经济下的未成年网红乱象",
-      "onboard_time": 1743484044,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 43840,
@@ -8137,6 +8217,14 @@
       "onboard_time": 1743406221,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18812,
+      "num": 272513,
+      "word": "女子1人分饰3角诈骗270余万元",
+      "onboard_time": 1743485485,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18507,
