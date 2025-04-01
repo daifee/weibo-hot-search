@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743515144363,
+  "endTime": 1743517479185,
   "band_list": [
     {
       "raw_hot": 14691299,
@@ -299,6 +299,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1575434,
+      "num": 353799,
+      "word": "小米集团市值一天缩水800亿",
+      "onboard_time": 1743514824,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1569417,
+      "num": 1569417,
+      "word": "吴宣仪三公分数",
+      "onboard_time": 1743512304,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1521569,
       "num": 333479,
       "word": "鹿晗站姐",
@@ -363,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1260017,
-      "num": 580825,
-      "word": "吴宣仪三公分数",
-      "onboard_time": 1743512304,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1258284,
       "num": 1258284,
       "word": "黄旭熙宣布台湾出道",
@@ -425,6 +433,14 @@
       "onboard_time": 1743381981,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1157623,
+      "num": 249424,
+      "word": "女子女宾区全裸涂身体乳时男子进入",
+      "onboard_time": 1743516624,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1147297,
@@ -1099,6 +1115,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 600639,
+      "num": 353523,
+      "word": "浪姐6三公结果",
+      "onboard_time": 1743513984,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 599864,
       "num": 284780,
       "word": "韩国庄仕洋",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1743447134,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 505473,
+      "num": 351984,
+      "word": "鹿晗站姐发了双杨cp",
+      "onboard_time": 1743512784,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 500905,
@@ -1796,7 +1828,7 @@
     },
     {
       "raw_hot": 399114,
-      "num": 348592,
+      "num": 351817,
       "word": "TVB女演员陈思齐摆摊卖鸡爪",
       "onboard_time": 1743511702,
       "rank": 15,
@@ -1937,6 +1969,14 @@
       "onboard_time": 1743495744,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 372231,
+      "num": 372231,
+      "word": "黄油与面包回应标价15元收款19元",
+      "onboard_time": 1743507383,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 372177,
@@ -2091,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349241,
+      "num": 349241,
+      "word": "女子烧纸引燃9辆车被刑拘",
+      "onboard_time": 1743509782,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348387,
       "num": 348387,
       "word": "辣目洋子辣眼版还珠格格",
@@ -2123,14 +2171,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 346951,
-      "num": 346951,
-      "word": "浪姐6三公结果",
-      "onboard_time": 1743513984,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 346363,
       "num": 346363,
       "word": "杜小华提出公布入室抢婴案嫌犯照片",
@@ -2161,14 +2201,6 @@
       "onboard_time": 1743384623,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 338276,
-      "num": 338276,
-      "word": "鹿晗站姐发了双杨cp",
-      "onboard_time": 1743512784,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 337064,
@@ -2267,14 +2299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 326476,
-      "num": 326476,
-      "word": "小米集团市值一天缩水800亿",
-      "onboard_time": 1743514824,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 325989,
       "num": 291239,
       "word": "清明档预售前三名",
@@ -2289,6 +2313,14 @@
       "onboard_time": 1743478524,
       "rank": 20,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 324119,
+      "num": 236450,
+      "word": "任时完取关金秀贤",
+      "onboard_time": 1743516986,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 322601,
@@ -2467,12 +2499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 300191,
-      "num": 300191,
-      "word": "女子烧纸引燃9辆车被刑拘",
-      "onboard_time": 1743509782,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 298045,
+      "num": 253955,
+      "word": "马丽拿刘耀文当亲儿子",
+      "onboard_time": 1743513383,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 297104,
@@ -2923,12 +2955,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261134,
-      "num": 363844,
-      "word": "黄油与面包回应标价15元收款19元",
-      "onboard_time": 1743507383,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 257488,
+      "num": 216898,
+      "word": "医生解读网友关注金秀贤舌头",
+      "onboard_time": 1743513804,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 257282,
@@ -2969,14 +3001,6 @@
       "onboard_time": 1743307950,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 253955,
-      "num": 253955,
-      "word": "马丽拿刘耀文当亲儿子",
-      "onboard_time": 1743513383,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 253925,
@@ -3475,14 +3499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216898,
-      "num": 216898,
-      "word": "医生解读网友关注金秀贤舌头",
-      "onboard_time": 1743513804,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216570,
       "num": 239357,
       "word": "张若昀站姐拍的刘亦菲",
@@ -3883,6 +3899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200351,
+      "num": 200351,
+      "word": "拖4年没交房销售称要先买地下室",
+      "onboard_time": 1743515605,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199977,
       "num": 199977,
       "word": "SMTR25",
@@ -4083,12 +4107,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193984,
+      "num": 152375,
+      "word": "雁回时 双洁党",
+      "onboard_time": 1743510864,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193607,
       "num": 193607,
       "word": "鞠婧祎刘宇宁 万花世界",
       "onboard_time": 1743498803,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193579,
+      "num": 193579,
+      "word": "当普通人第一次去吃和平饭店",
+      "onboard_time": 1743513024,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 193289,
@@ -4137,6 +4177,14 @@
       "onboard_time": 1743498442,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191681,
+      "num": 263224,
+      "word": "林高远3比1格罗特",
+      "onboard_time": 1743516505,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 191459,
@@ -4225,6 +4273,14 @@
       "onboard_time": 1743425424,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188049,
+      "num": 355241,
+      "word": "中国搜救犬在缅甸吃冰降温",
+      "onboard_time": 1743516624,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187662,
@@ -4547,6 +4603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177743,
+      "num": 177743,
+      "word": "韩国游客喊话张艺兴你的家乡太棒了",
+      "onboard_time": 1743517044,
+      "rank": 28,
+      "category": "艺人,旅游"
+    },
+    {
       "raw_hot": 177663,
       "num": 177663,
       "word": "甲亢哥保镖",
@@ -4739,14 +4803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170929,
-      "num": 170929,
-      "word": "当普通人第一次去吃和平饭店",
-      "onboard_time": 1743513024,
-      "rank": 37,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 170577,
       "num": 170577,
       "word": "没有人可以真正做到感同身受",
@@ -4907,6 +4963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165434,
+      "num": 165434,
+      "word": "一阳",
+      "onboard_time": 1743516624,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165384,
       "num": 165384,
       "word": "美股",
@@ -4929,6 +4993,14 @@
       "onboard_time": 1743289576,
       "rank": 31,
       "category": "互联网,读书作家"
+    },
+    {
+      "raw_hot": 164673,
+      "num": 164673,
+      "word": "马斯克首次公开回应第13个孩子",
+      "onboard_time": 1743516805,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 163912,
@@ -5363,6 +5435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 153960,
+      "num": 153960,
+      "word": "刘亦菲在逃公主具象化",
+      "onboard_time": 1743515244,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153958,
       "num": 153958,
       "word": "黄龄全开麦唱免我蹉跎苦",
@@ -5572,7 +5652,7 @@
     },
     {
       "raw_hot": 148545,
-      "num": 148545,
+      "num": 221472,
       "word": "林依晨夫妇新婚时期旧照",
       "onboard_time": 1743512363,
       "rank": 32,
@@ -5865,6 +5945,14 @@
       "onboard_time": 1743293899,
       "rank": 36,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 143408,
+      "num": 143408,
+      "word": "婚礼上一不小心就会出丑照的行为",
+      "onboard_time": 1743514464,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 143317,
@@ -6473,6 +6561,14 @@
       "onboard_time": 1743505824,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130747,
+      "num": 176072,
+      "word": "男子误入洗浴中心女宾区致顾客走光",
+      "onboard_time": 1743516443,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130390,
@@ -7155,6 +7251,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 113778,
+      "num": 113778,
+      "word": "奥运冠军抵达延安",
+      "onboard_time": 1743516624,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113748,
       "num": 124878,
       "word": "念无双新浪扫楼",
@@ -7313,6 +7417,14 @@
       "onboard_time": 1743295340,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110222,
+      "num": 110222,
+      "word": "李羲承换小时候照片当头像",
+      "onboard_time": 1743517344,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 110033,
@@ -9137,6 +9249,14 @@
       "onboard_time": 1743419963,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38316,
+      "num": 350194,
+      "word": "挪用数百万公款牵出非法套现504亿大案",
+      "onboard_time": 1743516505,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38004,
