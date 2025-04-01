@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743474323395,
+  "endTime": 1743477519308,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -57,6 +57,14 @@
       "onboard_time": 1743319822,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2808853,
+      "num": 945444,
+      "word": "小米回应SU7高速上碰撞爆燃",
+      "onboard_time": 1743473781,
+      "rank": 3,
+      "category": "舆论监督,汽车"
     },
     {
       "raw_hot": 2503187,
@@ -299,6 +307,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1182633,
+      "num": 1182633,
+      "word": "台湾",
+      "onboard_time": 1743471503,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1160305,
       "num": 398755,
       "word": "李惠利拒绝给劣迹艺人鼓掌",
@@ -361,14 +377,6 @@
       "onboard_time": 1743381561,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1043042,
-      "num": 1043042,
-      "word": "台湾",
-      "onboard_time": 1743471503,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1021631,
@@ -451,14 +459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 945444,
-      "num": 945444,
-      "word": "小米回应SU7高速上碰撞爆燃",
-      "onboard_time": 1743473781,
-      "rank": 3,
-      "category": "舆论监督,汽车"
-    },
-    {
       "raw_hot": 932582,
       "num": 1149213,
       "word": "iPhone17Pro十大升级",
@@ -496,6 +496,14 @@
       "word": "雪莉恨自己长得漂亮",
       "onboard_time": 1743385520,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 885282,
+      "num": 324039,
+      "word": "张艺凡瘦成这样",
+      "onboard_time": 1743476602,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1155,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 481520,
+      "num": 321066,
+      "word": "别家站姐拍的赵露思",
+      "onboard_time": 1743475942,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481443,
       "num": 255185,
       "word": "迪丽热巴网宣组发文",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1743377840,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 429625,
+      "num": 429625,
+      "word": "海警按一个中国原则环台岛执法管控",
+      "onboard_time": 1743475822,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 426522,
@@ -1587,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370792,
+      "num": 370792,
+      "word": "黑龙江省考成绩",
+      "onboard_time": 1743475462,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 369865,
       "num": 369865,
       "word": "玉渊潭偶遇宋轶",
@@ -1819,6 +1851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 324729,
+      "num": 324729,
+      "word": "海警舰艇按一个中国原则执法管控",
+      "onboard_time": 1743475942,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 322601,
       "num": 289778,
       "word": "乘风2025四公帮唱组队征集",
@@ -1921,6 +1961,14 @@
       "onboard_time": 1743423443,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305766,
+      "num": 305766,
+      "word": "华晨宇 黄霄雲",
+      "onboard_time": 1743477144,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 304490,
@@ -2371,6 +2419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245137,
+      "num": 248892,
+      "word": "终于有人把大学专业说清楚了",
+      "onboard_time": 1743475462,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244521,
       "num": 244521,
       "word": "官方通报女子追骂他人称是司法局的",
@@ -2425,6 +2481,14 @@
       "onboard_time": 1743346521,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 237630,
+      "num": 237630,
+      "word": "周雨说孙颖莎影响力太大了",
+      "onboard_time": 1743476661,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 237497,
@@ -2555,6 +2619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225853,
+      "num": 225853,
+      "word": "赵奕欢的裙子上是古代仕女图",
+      "onboard_time": 1743475942,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224951,
       "num": 331999,
       "word": "各家站姐拍的张凌赫",
@@ -2641,6 +2713,22 @@
       "onboard_time": 1743333620,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216570,
+      "num": 237354,
+      "word": "张若昀站姐拍的刘亦菲",
+      "onboard_time": 1743475942,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216332,
+      "num": 216332,
+      "word": "呼叫81192",
+      "onboard_time": 1743464300,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 215210,
@@ -2737,6 +2825,14 @@
       "onboard_time": 1743322402,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 209346,
+      "num": 209346,
+      "word": "金秀贤还画了下眼线",
+      "onboard_time": 1743477503,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 209100,
@@ -2939,6 +3035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199303,
+      "num": 199303,
+      "word": "台湾女教师因批评台独遭台当局约谈",
+      "onboard_time": 1743477203,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 199302,
       "num": 199302,
       "word": "42岁金莎古装状态",
@@ -3027,6 +3131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195193,
+      "num": 195193,
+      "word": "光与夜之恋",
+      "onboard_time": 1743475521,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195147,
       "num": 195147,
       "word": "马吟吟学女团表情belike品如点痣",
@@ -3065,6 +3177,14 @@
       "onboard_time": 1743391521,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 193219,
+      "num": 193219,
+      "word": "迪丽热巴繁花行程图",
+      "onboard_time": 1743476782,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 193174,
@@ -3507,6 +3627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170684,
+      "num": 170684,
+      "word": "发条微博致敬王伟烈士",
+      "onboard_time": 1743477443,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 170577,
       "num": 170577,
       "word": "没有人可以真正做到感同身受",
@@ -3577,6 +3705,14 @@
       "onboard_time": 1743431544,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167557,
+      "num": 167557,
+      "word": "为什么此时发起联合演训",
+      "onboard_time": 1743474923,
+      "rank": 41,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 167447,
@@ -3787,6 +3923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161010,
+      "num": 161010,
+      "word": "吴敬平晒樊振东昔日训练录像",
+      "onboard_time": 1743475462,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160726,
       "num": 168787,
       "word": "雁回时苗贵妃自缢",
@@ -3881,14 +4025,6 @@
       "onboard_time": 1743469523,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158191,
-      "num": 158191,
-      "word": "呼叫81192",
-      "onboard_time": 1743464300,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 158069,
@@ -4659,6 +4795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135534,
+      "num": 135534,
+      "word": "张真源站姐拍的许嵩",
+      "onboard_time": 1743475161,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135503,
       "num": 135503,
       "word": "于正夸苦尽柑来遇见你",
@@ -4913,6 +5057,14 @@
       "onboard_time": 1743322220,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126831,
+      "num": 249539,
+      "word": "张国荣时装男士四月刊封面",
+      "onboard_time": 1743477264,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126210,
@@ -5297,6 +5449,14 @@
       "onboard_time": 1743431724,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 116923,
+      "num": 322089,
+      "word": "片场捕捉野生文淇",
+      "onboard_time": 1743476661,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 116822,
