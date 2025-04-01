@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743479815327,
+  "endTime": 1743481858856,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2088034,
+      "num": 2088034,
+      "word": "快递员因同一人连收100个包裹报警了",
+      "onboard_time": 1743478282,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2042923,
       "num": 2042923,
       "word": "门童",
@@ -152,14 +160,6 @@
       "word": "愚人节",
       "onboard_time": 1743464480,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1794122,
-      "num": 1794122,
-      "word": "快递员因同一人连收100个包裹报警了",
-      "onboard_time": 1743478282,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -563,6 +563,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 815664,
+      "num": 734791,
+      "word": "张国荣",
+      "onboard_time": 1743465921,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 811922,
       "num": 409215,
       "word": "金秀贤联系雪莉母亲",
@@ -577,6 +585,14 @@
       "onboard_time": 1743330560,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 809729,
+      "num": 809729,
+      "word": "英雄联盟改名大乱斗联盟",
+      "onboard_time": 1743479004,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 795868,
@@ -632,14 +648,6 @@
       "word": "张檬称月子要坐满100天",
       "onboard_time": 1743423144,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 743778,
-      "num": 553002,
-      "word": "张国荣",
-      "onboard_time": 1743465921,
-      "rank": 6,
       "category": "艺人"
     },
     {
@@ -833,6 +841,14 @@
       "onboard_time": 1743323721,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 627096,
+      "num": 627096,
+      "word": "利路修退圈前最后一次采访",
+      "onboard_time": 1743480324,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 624559,
@@ -1427,6 +1443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 415777,
+      "num": 415777,
+      "word": "光遇",
+      "onboard_time": 1743441136,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 415460,
       "num": 415460,
       "word": "李嘉琦情商",
@@ -1595,14 +1619,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 387520,
-      "num": 318812,
-      "word": "英雄联盟改名大乱斗联盟",
-      "onboard_time": 1743479004,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 387284,
       "num": 387284,
       "word": "沈腾抢马丽火腿肠",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1743309269,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 372177,
+      "num": 299486,
+      "word": "站姐拍的娜扎张云龙",
+      "onboard_time": 1743479483,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 371629,
@@ -1705,6 +1729,14 @@
       "onboard_time": 1743429204,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 356879,
+      "num": 305400,
+      "word": "利路修正式退圈",
+      "onboard_time": 1743481226,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 355958,
@@ -1932,7 +1964,7 @@
     },
     {
       "raw_hot": 320084,
-      "num": 320084,
+      "num": 1134985,
       "word": "国家标准住宅项目规范发布",
       "onboard_time": 1743422304,
       "rank": 14,
@@ -2011,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305320,
+      "num": 305320,
+      "word": "光夜王者强强联合",
+      "onboard_time": 1743479363,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 304490,
       "num": 261636,
       "word": "珊瑚海姐学时间线",
@@ -2059,6 +2099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296729,
+      "num": 296729,
+      "word": "香港旅游",
+      "onboard_time": 1743480145,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 295995,
       "num": 295995,
       "word": "行程图",
@@ -2073,6 +2121,14 @@
       "onboard_time": 1743416362,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294331,
+      "num": 294331,
+      "word": "deepseek对许嵩作词甘拜下风",
+      "onboard_time": 1743479303,
+      "rank": 30,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 292621,
@@ -2115,6 +2171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287854,
+      "num": 287854,
+      "word": "27岁女生用12年从专科到留学硕士",
+      "onboard_time": 1743480565,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 287462,
       "num": 287462,
       "word": "缅甸部分震区因战乱埋有地雷",
@@ -2152,6 +2216,14 @@
       "word": "入室抢婴案奶奶因自责12年独自过春节",
       "onboard_time": 1743422481,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282611,
+      "num": 282611,
+      "word": "这届年轻人大大方方省了很多钱",
+      "onboard_time": 1743479064,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -2331,12 +2403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264873,
-      "num": 264873,
-      "word": "deepseek对许嵩作词甘拜下风",
-      "onboard_time": 1743479303,
-      "rank": 30,
-      "category": "互联网,艺人"
+      "raw_hot": 264338,
+      "num": 264338,
+      "word": "黄金",
+      "onboard_time": 1743480204,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 264010,
@@ -2531,6 +2603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 239667,
+      "num": 315691,
+      "word": "你敲了五声我听见了",
+      "onboard_time": 1743479604,
+      "rank": 22,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 239318,
       "num": 239318,
       "word": "减脂食谱里为什么永远有西兰花",
@@ -2561,6 +2641,14 @@
       "onboard_time": 1743409646,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234528,
+      "num": 305332,
+      "word": "蒋一侨回应和落跑甜心女主角撞脸",
+      "onboard_time": 1743479784,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 233032,
@@ -2611,14 +2699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229215,
-      "num": 229215,
-      "word": "这届年轻人大大方方省了很多钱",
-      "onboard_time": 1743479064,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229046,
       "num": 229046,
       "word": "杜兰特受伤",
@@ -2652,7 +2732,7 @@
     },
     {
       "raw_hot": 227758,
-      "num": 227758,
+      "num": 305422,
       "word": "发条微博致敬王伟烈士",
       "onboard_time": 1743477443,
       "rank": 40,
@@ -2731,11 +2811,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 222459,
-      "num": 222459,
-      "word": "站姐拍的娜扎张云龙",
-      "onboard_time": 1743479483,
-      "rank": 35,
+      "raw_hot": 223682,
+      "num": 304286,
+      "word": "门童成员愚人节营业",
+      "onboard_time": 1743481106,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -2971,6 +3051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206869,
+      "num": 301423,
+      "word": "沈月给快乐的大人嘉宾拍照",
+      "onboard_time": 1743481166,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206840,
       "num": 206840,
       "word": "明日方舟",
@@ -2993,6 +3081,14 @@
       "onboard_time": 1743260485,
       "rank": 23,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 205973,
+      "num": 205973,
+      "word": "愚人节站姐发的肖战",
+      "onboard_time": 1743481586,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 205755,
@@ -3051,6 +3147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201479,
+      "num": 201479,
+      "word": "孟子义站姐发了李昀锐和秦霄贤",
+      "onboard_time": 1743481645,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201004,
       "num": 232935,
       "word": "檀健次官宣加盟北影节",
@@ -3105,6 +3209,14 @@
       "onboard_time": 1743330082,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199461,
+      "num": 199461,
+      "word": "78个货到付款快递被拒签小哥报警后获奖励",
+      "onboard_time": 1743478702,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199339,
@@ -3219,6 +3331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195112,
+      "num": 305442,
+      "word": "专家称本次演练没有代号因为已是常态",
+      "onboard_time": 1743477862,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 195026,
       "num": 195026,
       "word": "朴成训 来财",
@@ -3328,6 +3448,14 @@
       "word": "檀健次 帕拉丁",
       "onboard_time": 1743430223,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189448,
+      "num": 189448,
+      "word": "薛之谦 愚人节",
+      "onboard_time": 1743481826,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -3531,6 +3659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179385,
+      "num": 297630,
+      "word": "赵丽颖四月行程有电影配音",
+      "onboard_time": 1743480745,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179204,
       "num": 179204,
       "word": "CBA季后赛对阵",
@@ -3625,14 +3761,6 @@
       "onboard_time": 1743338603,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 174713,
-      "num": 174713,
-      "word": "78个货到付款快递被拒签小哥报警后获奖励",
-      "onboard_time": 1743478702,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174513,
@@ -3825,14 +3953,6 @@
       "onboard_time": 1743424283,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 167282,
-      "num": 167282,
-      "word": "光夜王者强强联合",
-      "onboard_time": 1743479363,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 166310,
@@ -4049,14 +4169,6 @@
       "onboard_time": 1743423203,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 160183,
-      "num": 160183,
-      "word": "蒋一侨回应和落跑甜心女主角撞脸",
-      "onboard_time": 1743479784,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 160160,
@@ -4777,14 +4889,6 @@
       "onboard_time": 1743439341,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138120,
-      "num": 138120,
-      "word": "专家称本次演练没有代号因为已是常态",
-      "onboard_time": 1743477862,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 137780,
@@ -5795,6 +5899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109194,
+      "num": 273160,
+      "word": "棋士反套路",
+      "onboard_time": 1743481765,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109179,
       "num": 73857,
       "word": "全职妈妈离婚获2万元经济补偿",
@@ -6355,6 +6467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 90789,
+      "num": 305466,
+      "word": "孙颖莎对红旗是真爱",
+      "onboard_time": 1743480204,
+      "rank": 12,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 90666,
       "num": 90666,
       "word": "金价又双叒涨啦",
@@ -6731,14 +6851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69977,
-      "num": 315691,
-      "word": "你敲了五声我听见了",
-      "onboard_time": 1743479604,
-      "rank": 22,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 69952,
       "num": 278560,
       "word": "街道办强拆试剂厂被判赔506万后续",
@@ -6969,6 +7081,14 @@
       "onboard_time": 1743348082,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58695,
+      "num": 305384,
+      "word": "95后家长AI问诊致孩子病情延误",
+      "onboard_time": 1743480984,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58627,
@@ -7267,6 +7387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44192,
+      "num": 303452,
+      "word": "参照样板房装修被认定违建",
+      "onboard_time": 1743481586,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43840,
       "num": 43840,
       "word": "金枝",
@@ -7409,14 +7537,6 @@
       "onboard_time": 1743316101,
       "rank": 22,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 35801,
-      "num": 92603,
-      "word": "光遇",
-      "onboard_time": 1743441136,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 35578,
