@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743528195789,
+  "endTime": 1743529198769,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -3299,6 +3299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237820,
+      "num": 383207,
+      "word": "雁回时oe",
+      "onboard_time": 1743524603,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237497,
       "num": 237497,
       "word": "台媒称中国驰援缅甸有3大黑科技",
@@ -4417,14 +4425,6 @@
       "onboard_time": 1743425424,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187902,
-      "num": 160191,
-      "word": "雁回时oe",
-      "onboard_time": 1743524603,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 187662,
@@ -9179,6 +9179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56893,
+      "num": 104588,
+      "word": "台湾当归也必归",
+      "onboard_time": 1743527778,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56809,
       "num": 76608,
       "word": "深圳混血小孩哥用AI把爷爷忽悠成厨子",
@@ -9595,6 +9603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 40181,
+      "num": 40181,
+      "word": "国产剧绝望的狠女上新了",
+      "onboard_time": 1743527896,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38853,
       "num": 239286,
       "word": "唐嫣刘学义合体直播",
@@ -9649,14 +9665,6 @@
       "onboard_time": 1743286034,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 37306,
-      "num": 37306,
-      "word": "国产剧绝望的狠女上新了",
-      "onboard_time": 1743527896,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 37305,
@@ -9899,6 +9907,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 28769,
+      "num": 35917,
+      "word": "千秋令",
+      "onboard_time": 1743528736,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28756,
       "num": 268591,
       "word": "白宫称对群聊门的调查已结束",
@@ -10105,14 +10121,6 @@
       "onboard_time": 1743274694,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20927,
-      "num": 104588,
-      "word": "台湾当归也必归",
-      "onboard_time": 1743527778,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20630,

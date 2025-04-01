@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743528195789,
+  "endTime": 1743529198769,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -40,6 +40,14 @@
       "word": "雁回时删了6集",
       "onboard_time": 1743511164,
       "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 237820,
+      "num": 383207,
+      "word": "雁回时oe",
+      "onboard_time": 1743524603,
+      "rank": 20,
       "category": "剧集"
     },
     {
@@ -89,14 +97,6 @@
       "onboard_time": 1743520765,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187902,
-      "num": 160191,
-      "word": "雁回时oe",
-      "onboard_time": 1743524603,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 177187,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56893,
+      "num": 104588,
+      "word": "台湾当归也必归",
+      "onboard_time": 1743527778,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55586,
       "num": 55586,
       "word": "女枪庄寒雁",
@@ -403,8 +411,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37306,
-      "num": 37306,
+      "raw_hot": 40181,
+      "num": 40181,
       "word": "国产剧绝望的狠女上新了",
       "onboard_time": 1743527896,
       "rank": 46,
@@ -419,20 +427,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28769,
+      "num": 35917,
+      "word": "千秋令",
+      "onboard_time": 1743528736,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25752,
+      "num": 35893,
+      "word": "金价狂飙有金店称每天都要调价",
+      "onboard_time": 1743518427,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 21097,
       "num": 216951,
       "word": "春天是藏在公园的诗情画意",
       "onboard_time": 1743512724,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20927,
-      "num": 104588,
-      "word": "台湾当归也必归",
-      "onboard_time": 1743527778,
-      "rank": 16,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
