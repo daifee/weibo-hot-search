@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743547267489,
+  "endTime": 1743549815371,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -19,7 +19,7 @@
       "category": "辟谣/通报,汽车"
     },
     {
-      "raw_hot": 658920,
+      "raw_hot": 774210,
       "num": 180832,
       "word": "孙子被抢走爷爷一天抽五六盒烟去世",
       "onboard_time": 1743517584,
@@ -27,20 +27,52 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 603326,
-      "num": 216399,
+      "raw_hot": 683322,
+      "num": 244964,
       "word": "盲人按摩店男员工杀女老板后服毒身亡",
       "onboard_time": 1743523522,
       "rank": 3,
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 296955,
+      "raw_hot": 600074,
       "num": 491957,
       "word": "马斯克首次公开回应第13个孩子",
       "onboard_time": 1743516805,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 473614,
+      "num": 177868,
+      "word": "男子误入洗浴中心女宾区致顾客走光",
+      "onboard_time": 1743516443,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 435474,
+      "num": 785109,
+      "word": "买家捆姜甲儒睡觉谎称怕冻肚子",
+      "onboard_time": 1743542353,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312373,
+      "num": 164669,
+      "word": "医生解读网友关注金秀贤舌头",
+      "onboard_time": 1743513804,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 300103,
+      "num": 163157,
+      "word": "TVB女演员陈思齐摆摊卖鸡爪",
+      "onboard_time": 1743511702,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 292167,
@@ -51,20 +83,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280401,
+      "num": 280401,
+      "word": "男子违规获取酒店房卡侵犯女住客",
+      "onboard_time": 1743521964,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243364,
+      "num": 243364,
+      "word": "无限超越班再现墨雨云间",
+      "onboard_time": 1743549500,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237820,
       "num": 383207,
       "word": "雁回时oe",
       "onboard_time": 1743524603,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234384,
-      "num": 177868,
-      "word": "男子误入洗浴中心女宾区致顾客走光",
-      "onboard_time": 1743516443,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 220660,
@@ -99,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190032,
+      "num": 190032,
+      "word": "金价狂飙有金店称每天都要调价",
+      "onboard_time": 1743518427,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 189077,
       "num": 189077,
       "word": "TFBOYS团站愚人节复活",
@@ -107,12 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178128,
-      "num": 178128,
-      "word": "男子违规获取酒店房卡侵犯女住客",
-      "onboard_time": 1743521964,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 188330,
+      "num": 188330,
+      "word": "解放军喊话台舰最新现场视频",
+      "onboard_time": 1743525499,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 177187,
@@ -131,7 +179,7 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 167860,
+      "raw_hot": 171826,
       "num": 202626,
       "word": "中国搜救犬在缅甸吃冰降温",
       "onboard_time": 1743516624,
@@ -139,12 +187,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161103,
-      "num": 159454,
-      "word": "医生解读网友关注金秀贤舌头",
-      "onboard_time": 1743513804,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 170071,
+      "num": 170071,
+      "word": "韩国游客喊话张艺兴你的家乡太棒了",
+      "onboard_time": 1743517044,
+      "rank": 39,
+      "category": "艺人,旅游"
+    },
+    {
+      "raw_hot": 162579,
+      "num": 162579,
+      "word": "半熟4体育生杀死了比赛",
+      "onboard_time": 1743518245,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 160298,
@@ -163,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130317,
-      "num": 130317,
-      "word": "买家捆姜甲儒睡觉谎称怕冻肚子",
-      "onboard_time": 1743542353,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125738,
       "num": 125738,
       "word": "白鹿王星越唐宫奇案吻戏",
@@ -179,27 +227,35 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125444,
-      "num": 186293,
-      "word": "解放军喊话台舰最新现场视频",
-      "onboard_time": 1743525499,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 122066,
-      "num": 76467,
-      "word": "TVB女演员陈思齐摆摊卖鸡爪",
-      "onboard_time": 1743511702,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117643,
       "num": 188543,
       "word": "00后女生大学毕业职业代扫墓",
       "onboard_time": 1743523702,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109357,
+      "num": 102220,
+      "word": "00后小伙嚼槟榔8年变大方脸",
+      "onboard_time": 1743521663,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108650,
+      "num": 101730,
+      "word": "现在的假睫毛已经发展成纸质了吗",
+      "onboard_time": 1743519505,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 104023,
+      "num": 104023,
+      "word": "客服回应盒马16.9元一片面包",
+      "onboard_time": 1743518245,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -227,12 +283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95154,
-      "num": 95154,
-      "word": "金价狂飙有金店称每天都要调价",
-      "onboard_time": 1743518427,
-      "rank": 49,
-      "category": "财经"
+      "raw_hot": 93997,
+      "num": 93997,
+      "word": "王嘉尔说没有粉丝自己什么都不是",
+      "onboard_time": 1743530656,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 93828,
@@ -243,20 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90418,
-      "num": 90418,
-      "word": "00后小伙嚼槟榔8年变大方脸",
-      "onboard_time": 1743521663,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86563,
-      "num": 86563,
-      "word": "韩国游客喊话张艺兴你的家乡太棒了",
-      "onboard_time": 1743517044,
-      "rank": 39,
-      "category": "艺人,旅游"
+      "raw_hot": 86398,
+      "num": 86398,
+      "word": "专家不建议跟风买黄金",
+      "onboard_time": 1743545417,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 85635,
@@ -275,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85005,
+      "num": 85005,
+      "word": "缅甸两女孩废墟里教科书式自救成功",
+      "onboard_time": 1743509963,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 84977,
       "num": 84977,
       "word": "国羽何济霆疑被未婚妻爆料赌球",
@@ -288,14 +344,6 @@
       "word": "田曦薇愚人节站姐团建",
       "onboard_time": 1743521903,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 81690,
-      "num": 47913,
-      "word": "王嘉尔说没有粉丝自己什么都不是",
-      "onboard_time": 1743530656,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -315,14 +363,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 74838,
-      "num": 74838,
-      "word": "半熟4体育生杀死了比赛",
-      "onboard_time": 1743518245,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 73742,
       "num": 73742,
       "word": "马丽说沈腾去浪姐她就去",
@@ -332,7 +372,7 @@
     },
     {
       "raw_hot": 71686,
-      "num": 71686,
+      "num": 73636,
       "word": "王者荣耀",
       "onboard_time": 1743508403,
       "rank": 38,
@@ -340,7 +380,7 @@
     },
     {
       "raw_hot": 66245,
-      "num": 66245,
+      "num": 73630,
       "word": "东部战区进逼",
       "onboard_time": 1743465321,
       "rank": 40,
@@ -356,19 +396,11 @@
     },
     {
       "raw_hot": 61254,
-      "num": 61254,
+      "num": 73637,
       "word": "多次军演会不会曝光对台战术",
       "onboard_time": 1743520285,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 60069,
-      "num": 60069,
-      "word": "缅甸两女孩废墟里教科书式自救成功",
-      "onboard_time": 1743509963,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 59628,
@@ -380,19 +412,19 @@
     },
     {
       "raw_hot": 59437,
-      "num": 59437,
+      "num": 73632,
       "word": "浪姐6三公结果",
       "onboard_time": 1743513984,
       "rank": 45,
       "category": "综艺"
     },
     {
-      "raw_hot": 57688,
-      "num": 53294,
-      "word": "现在的假睫毛已经发展成纸质了吗",
-      "onboard_time": 1743519505,
-      "rank": 30,
-      "category": "美妆"
+      "raw_hot": 58962,
+      "num": 85199,
+      "word": "杨超越名下公司被限制高消费",
+      "onboard_time": 1743529996,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 56893,
@@ -411,12 +443,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55400,
+      "num": 73637,
+      "word": "特朗普分别威胁乌俄",
+      "onboard_time": 1743548058,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55254,
       "num": 55254,
       "word": "沈腾看时代少年团都像儿子",
       "onboard_time": 1743522202,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54172,
+      "num": 73635,
+      "word": "费启鸣别没事拔鼻毛",
+      "onboard_time": 1743549500,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 53511,
+      "num": 73635,
+      "word": "被这一刻的日照金山治愈了",
+      "onboard_time": 1743524419,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 52537,
@@ -435,12 +491,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41455,
-      "num": 42624,
-      "word": "客服回应盒马16.9元一片面包",
-      "onboard_time": 1743518245,
+      "raw_hot": 49481,
+      "num": 73635,
+      "word": "前TVB女演员回应摆摊卖鸡爪",
+      "onboard_time": 1743549258,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 48059,
+      "num": 73634,
+      "word": "美2名宇航员回地球后首次开发布会",
+      "onboard_time": 1743533474,
       "rank": 39,
-      "category": "民生新闻"
+      "category": "海外新闻"
     },
     {
       "raw_hot": 40181,
@@ -451,14 +515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37957,
-      "num": 42874,
-      "word": "杨超越名下公司被限制高消费",
-      "onboard_time": 1743529996,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 34947,
       "num": 34947,
       "word": "傅云夕还活着吗",
@@ -467,28 +523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 34504,
-      "num": 38492,
-      "word": "专家不建议跟风买黄金",
-      "onboard_time": 1743545417,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 34450,
-      "num": 38490,
-      "word": "被这一刻的日照金山治愈了",
-      "onboard_time": 1743524419,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 32812,
-      "num": 38490,
-      "word": "美2名宇航员回地球后首次开发布会",
-      "onboard_time": 1743533474,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 32917,
+      "num": 73629,
+      "word": "站姐团建发的王一博",
+      "onboard_time": 1743543554,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 29819,
@@ -505,6 +545,14 @@
       "onboard_time": 1743528736,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26910,
+      "num": 245668,
+      "word": "春天是藏在公园的诗情画意",
+      "onboard_time": 1743512724,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25572,
@@ -531,28 +579,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 21097,
-      "num": 216951,
-      "word": "春天是藏在公园的诗情画意",
-      "onboard_time": 1743512724,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20673,
       "num": 42506,
       "word": "jeff是真的 贪也是真的",
       "onboard_time": 1743531374,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18907,
-      "num": 38474,
-      "word": "站姐团建发的王一博",
-      "onboard_time": 1743543554,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 15828,
