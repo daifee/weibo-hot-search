@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743477519308,
+  "endTime": 1743478251147,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1296635,
+      "num": 324039,
+      "word": "张艺凡瘦成这样",
+      "onboard_time": 1743476602,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1243253,
       "num": 1243253,
       "word": "老人假扮少女乞讨被识破破口大骂",
@@ -299,20 +307,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1189214,
+      "num": 1189214,
+      "word": "台湾",
+      "onboard_time": 1743471503,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1184826,
       "num": 1184826,
       "word": "重庆女孩去缅甸做珠宝直播震中遇难",
       "onboard_time": 1743318260,
       "rank": 16,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1182633,
-      "num": 1182633,
-      "word": "台湾",
-      "onboard_time": 1743471503,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1160305,
@@ -345,6 +353,14 @@
       "onboard_time": 1743419662,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1094163,
+      "num": 305766,
+      "word": "华晨宇 黄霄雲",
+      "onboard_time": 1743477144,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 1080005,
@@ -496,14 +512,6 @@
       "word": "雪莉恨自己长得漂亮",
       "onboard_time": 1743385520,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 885282,
-      "num": 324039,
-      "word": "张艺凡瘦成这样",
-      "onboard_time": 1743476602,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1099,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 519490,
+      "num": 519490,
+      "word": "海警按一个中国原则环台岛执法管控",
+      "onboard_time": 1743475822,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 512635,
       "num": 512635,
       "word": "乙肝治疗将进入功能性治愈时代",
@@ -1355,14 +1371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 429625,
-      "num": 429625,
-      "word": "海警按一个中国原则环台岛执法管控",
-      "onboard_time": 1743475822,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 426522,
       "num": 426522,
       "word": "上海最窄人行道仅10厘米宽",
@@ -1425,6 +1433,14 @@
       "onboard_time": 1743321741,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 413225,
+      "num": 324729,
+      "word": "海警舰艇按一个中国原则执法管控",
+      "onboard_time": 1743475942,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 412598,
@@ -1851,14 +1867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 324729,
-      "num": 324729,
-      "word": "海警舰艇按一个中国原则执法管控",
-      "onboard_time": 1743475942,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 322601,
       "num": 289778,
       "word": "乘风2025四公帮唱组队征集",
@@ -1963,14 +1971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305766,
-      "num": 305766,
-      "word": "华晨宇 黄霄雲",
-      "onboard_time": 1743477144,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 304490,
       "num": 261636,
       "word": "珊瑚海姐学时间线",
@@ -2041,6 +2041,14 @@
       "onboard_time": 1743348921,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291516,
+      "num": 291516,
+      "word": "终于有人把大学专业说清楚了",
+      "onboard_time": 1743475462,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 291223,
@@ -2129,6 +2137,14 @@
       "onboard_time": 1743347003,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280940,
+      "num": 296923,
+      "word": "周雨说孙颖莎影响力太大了",
+      "onboard_time": 1743476661,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 280859,
@@ -2307,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262534,
+      "num": 262534,
+      "word": "台湾女教师因批评台独遭台当局约谈",
+      "onboard_time": 1743477203,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 261204,
       "num": 243427,
       "word": "王一博发烧了",
@@ -2419,14 +2443,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 245137,
-      "num": 248892,
-      "word": "终于有人把大学专业说清楚了",
-      "onboard_time": 1743475462,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 244521,
       "num": 244521,
       "word": "官方通报女子追骂他人称是司法局的",
@@ -2483,12 +2499,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 237630,
-      "num": 237630,
-      "word": "周雨说孙颖莎影响力太大了",
-      "onboard_time": 1743476661,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 239040,
+      "num": 239040,
+      "word": "迪丽热巴繁花行程图",
+      "onboard_time": 1743476782,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 237497,
@@ -2497,6 +2513,14 @@
       "onboard_time": 1743337882,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 237475,
+      "num": 237475,
+      "word": "金秀贤还画了下眼线",
+      "onboard_time": 1743477503,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 236920,
@@ -2585,6 +2609,14 @@
       "onboard_time": 1743331281,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227758,
+      "num": 227758,
+      "word": "发条微博致敬王伟烈士",
+      "onboard_time": 1743477443,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 227439,
@@ -2716,7 +2748,7 @@
     },
     {
       "raw_hot": 216570,
-      "num": 237354,
+      "num": 239357,
       "word": "张若昀站姐拍的刘亦菲",
       "onboard_time": 1743475942,
       "rank": 27,
@@ -2825,14 +2857,6 @@
       "onboard_time": 1743322402,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 209346,
-      "num": 209346,
-      "word": "金秀贤还画了下眼线",
-      "onboard_time": 1743477503,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 209100,
@@ -3035,14 +3059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199303,
-      "num": 199303,
-      "word": "台湾女教师因批评台独遭台当局约谈",
-      "onboard_time": 1743477203,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 199302,
       "num": 199302,
       "word": "42岁金莎古装状态",
@@ -3177,14 +3193,6 @@
       "onboard_time": 1743391521,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 193219,
-      "num": 193219,
-      "word": "迪丽热巴繁花行程图",
-      "onboard_time": 1743476782,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 193174,
@@ -3377,6 +3385,14 @@
       "onboard_time": 1743331402,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 183615,
+      "num": 322089,
+      "word": "片场捕捉野生文淇",
+      "onboard_time": 1743476661,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 183607,
@@ -3625,14 +3641,6 @@
       "onboard_time": 1743398962,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170684,
-      "num": 170684,
-      "word": "发条微博致敬王伟烈士",
-      "onboard_time": 1743477443,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 170577,
@@ -4137,6 +4145,14 @@
       "onboard_time": 1743339563,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154440,
+      "num": 293134,
+      "word": "张国荣时装男士四月刊封面",
+      "onboard_time": 1743477264,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 154111,
@@ -4667,6 +4683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138120,
+      "num": 138120,
+      "word": "专家称本次演练没有代号因为已是常态",
+      "onboard_time": 1743477862,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137780,
       "num": 137780,
       "word": "虞书欣说新剧的演戏方式和以前不一样",
@@ -4899,6 +4923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133539,
+      "num": 228934,
+      "word": "黄金涨至新纪录高位",
+      "onboard_time": 1743474862,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 133196,
       "num": 133196,
       "word": "邓萃雯没有功劳也有苦劳",
@@ -5057,14 +5089,6 @@
       "onboard_time": 1743322220,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126831,
-      "num": 249539,
-      "word": "张国荣时装男士四月刊封面",
-      "onboard_time": 1743477264,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126210,
@@ -5449,14 +5473,6 @@
       "onboard_time": 1743431724,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 116923,
-      "num": 322089,
-      "word": "片场捕捉野生文淇",
-      "onboard_time": 1743476661,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 116822,
@@ -6723,12 +6739,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64298,
+      "num": 273592,
+      "word": "帮助劫匪逃脱警方追捕的法律后果",
+      "onboard_time": 1743478044,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63426,
       "num": 63426,
       "word": "鸿蒙微信重磅更新",
       "onboard_time": 1743349581,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 63027,
+      "num": 198736,
+      "word": "你平均一天走多少步",
+      "onboard_time": 1743477983,
+      "rank": 39,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 62529,
@@ -7833,6 +7865,14 @@
       "onboard_time": 1743453434,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11119,
+      "num": 292552,
+      "word": "逼疯翻译组的动画名场面",
+      "onboard_time": 1743477684,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 11005,

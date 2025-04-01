@@ -1,0 +1,410 @@
+{
+  "runTime": 1743478251147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1952238,
+        "num": 1952238,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1189214,
+        "num": 1189214,
+        "word": "台湾",
+        "onboard_time": 1743471503,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55446,
+        "num": 835468,
+        "word": "中国园林有朵石做的云",
+        "onboard_time": 1743426743,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519490,
+        "num": 519490,
+        "word": "海警按一个中国原则环台岛执法管控",
+        "onboard_time": 1743475822,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 387555,
+        "num": 387555,
+        "word": "4月1日含义是81192",
+        "onboard_time": 1743447134,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384110,
+        "num": 384110,
+        "word": "唐鹤德 谁能代替你地位",
+        "onboard_time": 1743467783,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360420,
+        "num": 360420,
+        "word": "张国荣",
+        "onboard_time": 1743465921,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333264,
+        "num": 333264,
+        "word": "黑龙江省考成绩",
+        "onboard_time": 1743475462,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 297329,
+        "num": 297329,
+        "word": "解放军台岛周边开展联合演训",
+        "onboard_time": 1743464240,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280940,
+        "num": 296923,
+        "word": "周雨说孙颖莎影响力太大了",
+        "onboard_time": 1743476661,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1296635,
+        "num": 296801,
+        "word": "张艺凡瘦成这样",
+        "onboard_time": 1743476602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1205439,
+        "num": 296275,
+        "word": "愚人节站姐团建",
+        "onboard_time": 1743438619,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 902041,
+        "num": 295738,
+        "word": "夫妻俩备孕无果到烈士陵园求子",
+        "onboard_time": 1743466643,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1094163,
+        "num": 295310,
+        "word": "华晨宇 黄霄雲",
+        "onboard_time": 1743477144,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183615,
+        "num": 294883,
+        "word": "片场捕捉野生文淇",
+        "onboard_time": 1743476661,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563253,
+        "num": 294302,
+        "word": "杜淳妻子网购遭客服拿地址威胁",
+        "onboard_time": 1743470965,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557730,
+        "num": 294073,
+        "word": "愚人节",
+        "onboard_time": 1743464480,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556563,
+        "num": 293444,
+        "word": "马斯克宣布将辞去美国政府效率部职务",
+        "onboard_time": 1743465921,
+        "rank": 17,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 154440,
+        "num": 293134,
+        "word": "张国荣时装男士四月刊封面",
+        "onboard_time": 1743477264,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 11119,
+        "num": 292552,
+        "word": "逼疯翻译组的动画名场面",
+        "onboard_time": 1743477684,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 530996,
+        "num": 292154,
+        "word": "金秀贤把鼻子上的妆抹掉了",
+        "onboard_time": 1743470842,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400942,
+        "num": 291882,
+        "word": "别家站姐拍的赵露思",
+        "onboard_time": 1743475942,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291516,
+        "num": 291516,
+        "word": "终于有人把大学专业说清楚了",
+        "onboard_time": 1743475462,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289927,
+        "num": 289927,
+        "word": "张予曦站姐拍的杨幂",
+        "onboard_time": 1743467003,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64298,
+        "num": 273592,
+        "word": "帮助劫匪逃脱警方追捕的法律后果",
+        "onboard_time": 1743478044,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262534,
+        "num": 262534,
+        "word": "台湾女教师因批评台独遭台当局约谈",
+        "onboard_time": 1743477203,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250059,
+        "num": 250059,
+        "word": "恋与深空",
+        "onboard_time": 1743476062,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240065,
+        "num": 240065,
+        "word": "东部战区降妖除魔",
+        "onboard_time": 1743468504,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180798,
+        "num": 239357,
+        "word": "张若昀站姐拍的刘亦菲",
+        "onboard_time": 1743475942,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171656,
+        "num": 239183,
+        "word": "淮水竹亭",
+        "onboard_time": 1743475584,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239040,
+        "num": 239040,
+        "word": "迪丽热巴繁花行程图",
+        "onboard_time": 1743476782,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237475,
+        "num": 237475,
+        "word": "金秀贤还画了下眼线",
+        "onboard_time": 1743477503,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133539,
+        "num": 228934,
+        "word": "黄金涨至新纪录高位",
+        "onboard_time": 1743474862,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 227758,
+        "num": 227758,
+        "word": "发条微博致敬王伟烈士",
+        "onboard_time": 1743477443,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220321,
+        "num": 220321,
+        "word": "这是对台独的严重警告和有力遏制",
+        "onboard_time": 1743464361,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 217273,
+        "num": 217273,
+        "word": "男子1.5万机票款退票被扣1.4万",
+        "onboard_time": 1743464300,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93602,
+        "num": 215867,
+        "word": "四月第一天",
+        "onboard_time": 1743472581,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214532,
+        "num": 214532,
+        "word": "成毅站姐做的迪丽热巴贺思慕海报",
+        "onboard_time": 1743465742,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198938,
+        "num": 198938,
+        "word": "呼叫81192",
+        "onboard_time": 1743464300,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63027,
+        "num": 198736,
+        "word": "你平均一天走多少步",
+        "onboard_time": 1743477983,
+        "rank": 39,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 198566,
+        "num": 198566,
+        "word": "赵奕欢的裙子上是古代仕女图",
+        "onboard_time": 1743475942,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167192,
+        "num": 167192,
+        "word": "男子送货途中水库用鞭炮炸鱼身亡",
+        "onboard_time": 1743465921,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166288,
+        "num": 166288,
+        "word": "罗渽民站姐发了19年星光大赏的鹿晗",
+        "onboard_time": 1743472161,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413225,
+        "num": 154902,
+        "word": "海警舰艇按一个中国原则执法管控",
+        "onboard_time": 1743475942,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138120,
+        "num": 138120,
+        "word": "专家称本次演练没有代号因为已是常态",
+        "onboard_time": 1743477862,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136850,
+        "num": 136850,
+        "word": "钟南山提醒剩饭剩菜别强吃",
+        "onboard_time": 1743441017,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136225,
+        "num": 136225,
+        "word": "他唯一吃过的苦就是淋这场雨",
+        "onboard_time": 1743471321,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123795,
+        "num": 123795,
+        "word": "各家站姐拍的张凌赫",
+        "onboard_time": 1743470483,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120833,
+        "num": 120833,
+        "word": "成毅站姐发任嘉伦",
+        "onboard_time": 1743469403,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120142,
+        "num": 120142,
+        "word": "张真源站姐拍的许嵩",
+        "onboard_time": 1743475161,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025是推进巡视全覆盖的关键一年#"
+    }
+  }
+}
