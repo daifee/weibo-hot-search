@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743496355300,
+  "endTime": 1743497160732,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1521569,
+      "num": 271189,
+      "word": "鹿晗站姐",
+      "onboard_time": 1743495022,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1412446,
       "num": 1412446,
       "word": "陈德容",
@@ -396,19 +404,11 @@
     },
     {
       "raw_hot": 1138029,
-      "num": 539077,
+      "num": 564049,
       "word": "小米集团午后跌超4%",
       "onboard_time": 1743489204,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1130843,
-      "num": 271189,
-      "word": "鹿晗站姐",
-      "onboard_time": 1743495022,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1118402,
@@ -1131,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 555493,
+      "num": 555493,
+      "word": "东部战区慑封",
+      "onboard_time": 1743495683,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 553450,
       "num": 553450,
       "word": "河北承德2.8级地震",
@@ -1521,6 +1529,14 @@
       "onboard_time": 1743422304,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 417209,
+      "num": 229289,
+      "word": "谁家站姐这么勇",
+      "onboard_time": 1743496461,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 416044,
@@ -2211,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298827,
+      "num": 298827,
+      "word": "李美越",
+      "onboard_time": 1743495744,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 297104,
       "num": 297104,
       "word": "成毅站姐做的迪丽热巴贺思慕海报",
@@ -2353,14 +2377,6 @@
       "onboard_time": 1743479064,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281998,
-      "num": 281998,
-      "word": "东部战区慑封",
-      "onboard_time": 1743495683,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 281953,
@@ -2561,6 +2577,14 @@
       "onboard_time": 1743415223,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 268395,
+      "num": 216769,
+      "word": "女儿遭男孩按入水中母亲反击被判赔",
+      "onboard_time": 1743496223,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267494,
@@ -3003,6 +3027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225340,
+      "num": 225340,
+      "word": "EXO周年直播没通知cbx",
+      "onboard_time": 1743496044,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224951,
       "num": 331999,
       "word": "各家站姐拍的张凌赫",
@@ -3041,14 +3073,6 @@
       "onboard_time": 1743341662,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 222822,
-      "num": 222822,
-      "word": "李美越",
-      "onboard_time": 1743495744,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 222442,
@@ -3875,6 +3899,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 183628,
+      "num": 222607,
+      "word": "37岁曹璐签新公司再闯韩娱",
+      "onboard_time": 1743496403,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183615,
       "num": 324685,
       "word": "片场捕捉野生文淇",
@@ -3937,6 +3969,14 @@
       "onboard_time": 1743340642,
       "rank": 28,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 182184,
+      "num": 182184,
+      "word": "731部队大本营旧址发现大量人骨",
+      "onboard_time": 1743495863,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182007,
@@ -4145,6 +4185,14 @@
       "onboard_time": 1743494663,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171797,
+      "num": 171797,
+      "word": "50岁追星奶 我和时代峰峻的十年",
+      "onboard_time": 1743496703,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 171598,
@@ -4387,14 +4435,6 @@
       "category": "互联网,读书作家"
     },
     {
-      "raw_hot": 164105,
-      "num": 164105,
-      "word": "EXO周年直播没通知cbx",
-      "onboard_time": 1743496044,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163912,
       "num": 163912,
       "word": "虞书欣发长文告别国王",
@@ -4569,14 +4609,6 @@
       "onboard_time": 1743332360,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 159887,
-      "num": 159887,
-      "word": "731部队大本营旧址发现大量人骨",
-      "onboard_time": 1743495863,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159813,
@@ -5035,6 +5067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147075,
+      "num": 259929,
+      "word": "金价1个月每克最高涨了71元",
+      "onboard_time": 1743495083,
+      "rank": 18,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 146990,
       "num": 146990,
       "word": "门童粉丝互助文档负责人发声",
@@ -5089,6 +5129,14 @@
       "onboard_time": 1743331582,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145739,
+      "num": 274982,
+      "word": "官方回应中学被投诉强制女生剪短发",
+      "onboard_time": 1743494963,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145430,
@@ -5355,6 +5403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140760,
+      "num": 140760,
+      "word": "健身房偶遇吴谨言",
+      "onboard_time": 1743497002,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140737,
       "num": 140737,
       "word": "太湖湾音乐节",
@@ -5380,7 +5436,7 @@
     },
     {
       "raw_hot": 139924,
-      "num": 180795,
+      "num": 203120,
       "word": "齐司礼之恋",
       "onboard_time": 1743489384,
       "rank": 40,
@@ -5723,14 +5779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132886,
-      "num": 132886,
-      "word": "女儿遭男孩按入水中母亲反击被判赔",
-      "onboard_time": 1743496223,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132880,
       "num": 132880,
       "word": "华为2024年净利润626亿元",
@@ -5923,20 +5971,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 125980,
+      "num": 264978,
+      "word": "李泽锋说这次在剧里绝对不出轨",
+      "onboard_time": 1743494843,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125957,
       "num": 125957,
       "word": "A勒布伦右手植入钢钉",
       "onboard_time": 1743316761,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125913,
-      "num": 264978,
-      "word": "李泽锋说这次在剧里绝对不出轨",
-      "onboard_time": 1743494843,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 125871,
@@ -6057,6 +6105,14 @@
       "onboard_time": 1743432623,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122402,
+      "num": 122402,
+      "word": "让孙颖莎头疼的事出现了",
+      "onboard_time": 1743496641,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 122367,
@@ -6427,6 +6483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112992,
+      "num": 182336,
+      "word": "陈都灵绝密物料",
+      "onboard_time": 1743497063,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112119,
       "num": 112119,
       "word": "NCTWISH上海试听会",
@@ -6713,6 +6777,14 @@
       "onboard_time": 1743383603,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104353,
+      "num": 182192,
+      "word": "儿童精神科诊室里沉默的父亲们",
+      "onboard_time": 1743496284,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104270,
@@ -7211,14 +7283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87493,
-      "num": 274982,
-      "word": "官方回应中学被投诉强制女生剪短发",
-      "onboard_time": 1743494963,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87473,
       "num": 87473,
       "word": "领克08",
@@ -7281,14 +7345,6 @@
       "onboard_time": 1743318501,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 85589,
-      "num": 259929,
-      "word": "金价1个月每克最高涨了71元",
-      "onboard_time": 1743495083,
-      "rank": 18,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 85355,
@@ -7523,6 +7579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 72364,
+      "num": 198045,
+      "word": "被抢婴母亲称6000万不敌17年苦",
+      "onboard_time": 1743495142,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72199,
       "num": 162879,
       "word": "王者荣耀奇迹司",
@@ -7664,14 +7728,6 @@
       "word": "男子救助野猫反被咬持续高烧1月",
       "onboard_time": 1743328642,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64970,
-      "num": 164397,
-      "word": "儿童精神科诊室里沉默的父亲们",
-      "onboard_time": 1743496284,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -8027,14 +8083,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 49738,
-      "num": 198045,
-      "word": "被抢婴母亲称6000万不敌17年苦",
-      "onboard_time": 1743495142,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49485,
       "num": 49485,
       "word": "实探地震后的瑞丽珠宝玉石市场",
@@ -8267,6 +8315,14 @@
       "category": "互联网,教育"
     },
     {
+      "raw_hot": 37714,
+      "num": 262080,
+      "word": "4人入室抢婴案妈妈说寻子曾被人打",
+      "onboard_time": 1743495982,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37662,
       "num": 61487,
       "word": "蓝天救援队跨国驰援缅甸",
@@ -8313,6 +8369,14 @@
       "onboard_time": 1743443295,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34736,
+      "num": 177635,
+      "word": "国内航线燃油附加费4月5日下调",
+      "onboard_time": 1743497063,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34388,
@@ -8784,14 +8848,6 @@
       "word": "受害者奶奶曾认为孩子被拐是自己的错",
       "onboard_time": 1743362416,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17574,
-      "num": 262080,
-      "word": "4人入室抢婴案妈妈说寻子曾被人打",
-      "onboard_time": 1743495982,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
