@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743503263954,
+  "endTime": 1743504272585,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -137,6 +137,14 @@
       "onboard_time": 1743262883,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1906715,
+      "num": 1906715,
+      "word": "雁回时大结局",
+      "onboard_time": 1743501922,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1905988,
@@ -339,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1271455,
-      "num": 1271455,
-      "word": "雁回时大结局",
-      "onboard_time": 1743501922,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1258284,
       "num": 1258284,
       "word": "黄旭熙宣布台湾出道",
@@ -488,6 +488,14 @@
       "word": "影帝",
       "onboard_time": 1743409044,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1021008,
+      "num": 767207,
+      "word": "鹿晗工怍室",
+      "onboard_time": 1743500302,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -737,14 +745,6 @@
       "onboard_time": 1743411145,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 767207,
-      "num": 767207,
-      "word": "鹿晗工怍室",
-      "onboard_time": 1743500302,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 765367,
@@ -2011,6 +2011,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 344760,
+      "num": 329519,
+      "word": "甲亢哥",
+      "onboard_time": 1743501323,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 342132,
       "num": 342132,
       "word": "藏海传杀青即将上线",
@@ -2091,7 +2099,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 332735,
+      "raw_hot": 333135,
       "num": 281506,
       "word": "橘子娱乐 离职前做一次朱志鑫站姐",
       "onboard_time": 1743501442,
@@ -2105,14 +2113,6 @@
       "onboard_time": 1743439038,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329519,
-      "num": 329519,
-      "word": "甲亢哥",
-      "onboard_time": 1743501323,
-      "rank": 9,
-      "category": "网红"
     },
     {
       "raw_hot": 329031,
@@ -2387,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288229,
+      "num": 288229,
+      "word": "人贩子抢走8个月婴儿还顺走奶粉",
+      "onboard_time": 1743501083,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288103,
       "num": 288103,
       "word": "音律联觉",
@@ -2521,14 +2529,6 @@
       "onboard_time": 1743342684,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 278365,
-      "num": 278365,
-      "word": "人贩子抢走8个月婴儿还顺走奶粉",
-      "onboard_time": 1743501083,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 278147,
@@ -2673,6 +2673,14 @@
       "onboard_time": 1743415223,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 268222,
+      "num": 268222,
+      "word": "赵露思ins更新和小狗合照",
+      "onboard_time": 1743503482,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 267494,
@@ -3763,12 +3771,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195875,
+      "num": 195875,
+      "word": "余宇涵躲C位失败",
+      "onboard_time": 1743503122,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195228,
       "num": 195228,
       "word": "乔欣晒和姐姐香港游vlog",
       "onboard_time": 1743396142,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195220,
+      "num": 159196,
+      "word": "小鹏第一季度新势力销量第一",
+      "onboard_time": 1743503122,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 195193,
@@ -4209,6 +4233,14 @@
       "onboard_time": 1743425424,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 178653,
+      "num": 193694,
+      "word": "樊振东杭州",
+      "onboard_time": 1743503064,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 178078,
@@ -5419,6 +5451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144055,
+      "num": 144055,
+      "word": "原神伊法",
+      "onboard_time": 1743503902,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144019,
       "num": 144019,
       "word": "如鸢",
@@ -5585,14 +5625,6 @@
       "onboard_time": 1743425183,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141251,
-      "num": 141251,
-      "word": "樊振东杭州",
-      "onboard_time": 1743503064,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 141054,
@@ -5793,14 +5825,6 @@
       "onboard_time": 1743391161,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 135674,
-      "num": 135674,
-      "word": "余宇涵躲C位失败",
-      "onboard_time": 1743503122,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 135659,
@@ -6723,6 +6747,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 113178,
+      "num": 113178,
+      "word": "TES挺进A组",
+      "onboard_time": 1743503302,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112119,
       "num": 112119,
       "word": "NCTWISH上海试听会",
@@ -7121,6 +7153,14 @@
       "onboard_time": 1743303330,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101593,
+      "num": 101593,
+      "word": "想听女朋友说什么就自己剪",
+      "onboard_time": 1743503482,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 101423,
@@ -7619,6 +7659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84526,
+      "num": 277246,
+      "word": "无限超越班3云监制已到场",
+      "onboard_time": 1743503183,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84347,
       "num": 84347,
       "word": "能不能加rap周杰伦还不知道吗",
@@ -7649,14 +7697,6 @@
       "onboard_time": 1743440297,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81394,
-      "num": 154402,
-      "word": "无限超越班3云监制已到场",
-      "onboard_time": 1743503183,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 81349,
@@ -7945,6 +7985,14 @@
       "onboard_time": 1743332841,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 65892,
+      "num": 283495,
+      "word": "外交部回应海外网红博主来华旅游",
+      "onboard_time": 1743503662,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65866,
@@ -8377,6 +8425,14 @@
       "onboard_time": 1743265282,
       "rank": 16,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 48732,
+      "num": 134449,
+      "word": "国际爱鸟日",
+      "onboard_time": 1743504202,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48592,
@@ -8899,6 +8955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26012,
+      "num": 275460,
+      "word": "王艺迪vs郑怡静",
+      "onboard_time": 1743503244,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25851,
       "num": 685768,
       "word": "云岭天路春潮涌",
@@ -9097,14 +9161,6 @@
       "onboard_time": 1743282374,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 19264,
-      "num": 142905,
-      "word": "小鹏第一季度新势力销量第一",
-      "onboard_time": 1743503122,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 19176,
@@ -9347,6 +9403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 9953,
+      "num": 134324,
+      "word": "韩执政党前议员张济元意外身亡",
+      "onboard_time": 1743503902,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 9658,
       "num": 116160,
       "word": "希拉里称特朗普团队愚蠢至极",
@@ -9385,14 +9449,6 @@
       "onboard_time": 1743366793,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6254,
-      "num": 141843,
-      "word": "王艺迪vs郑怡静",
-      "onboard_time": 1743503244,
-      "rank": 39,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
