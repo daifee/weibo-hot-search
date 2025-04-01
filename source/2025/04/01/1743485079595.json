@@ -1,0 +1,410 @@
+{
+  "runTime": 1743485079595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6670417,
+        "num": 6670417,
+        "word": "小米SU7高速碰撞爆燃事件细节",
+        "onboard_time": 1743484044,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1105711,
+        "num": 1105711,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34880,
+        "num": 1070871,
+        "word": "国家标准住宅项目规范发布",
+        "onboard_time": 1743422304,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1884402,
+        "num": 1068398,
+        "word": "利路修正式退圈",
+        "onboard_time": 1743481226,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1060751,
+        "num": 1060751,
+        "word": "快递员因同一人连收100个包裹报警了",
+        "onboard_time": 1743478282,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723402,
+        "num": 723402,
+        "word": "张国荣",
+        "onboard_time": 1743465921,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612578,
+        "num": 612578,
+        "word": "台湾",
+        "onboard_time": 1743471503,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 559190,
+        "num": 559190,
+        "word": "英雄联盟改名大乱斗联盟",
+        "onboard_time": 1743479004,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 444194,
+        "num": 444194,
+        "word": "这不是愚人节 这是情人节",
+        "onboard_time": 1743483627,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292156,
+        "num": 292156,
+        "word": "4月1日含义是81192",
+        "onboard_time": 1743447134,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1655896,
+        "num": 291574,
+        "word": "警方回应小米SU7高速车祸致3死",
+        "onboard_time": 1743484224,
+        "rank": 10,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 890397,
+        "num": 290674,
+        "word": "愚人节站姐团建",
+        "onboard_time": 1743438619,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121999,
+        "num": 290119,
+        "word": "孙颖莎对红旗是真爱",
+        "onboard_time": 1743480204,
+        "rank": 12,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 864707,
+        "num": 288978,
+        "word": "孟子义站姐发了李昀锐和秦霄贤",
+        "onboard_time": 1743481645,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202938,
+        "num": 288423,
+        "word": "台岛周边联合演训现场画面",
+        "onboard_time": 1743483323,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 705038,
+        "num": 286656,
+        "word": "夫妻俩备孕无果到烈士陵园求子",
+        "onboard_time": 1743466643,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 624310,
+        "num": 286212,
+        "word": "邓为站姐发了fx",
+        "onboard_time": 1743483985,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498494,
+        "num": 285545,
+        "word": "薛之谦 愚人节",
+        "onboard_time": 1743481826,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483465,
+        "num": 284289,
+        "word": "金秀贤把鼻子上的妆抹掉了",
+        "onboard_time": 1743470842,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44100,
+        "num": 283657,
+        "word": "流量经济下的未成年网红乱象",
+        "onboard_time": 1743484044,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 439204,
+        "num": 282721,
+        "word": "张艺凡瘦成这样",
+        "onboard_time": 1743476602,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321822,
+        "num": 281858,
+        "word": "马斯克宣布将辞去美国政府效率部职务",
+        "onboard_time": 1743465921,
+        "rank": 21,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 281138,
+        "num": 281138,
+        "word": "杜淳妻子网购遭客服拿地址威胁",
+        "onboard_time": 1743470965,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277790,
+        "num": 277790,
+        "word": "门童韩泰山",
+        "onboard_time": 1743482964,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43376,
+        "num": 277481,
+        "word": "考古王楚钦17岁的直播",
+        "onboard_time": 1743476483,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181965,
+        "num": 276703,
+        "word": "一个好演员眼睛也是会说话的",
+        "onboard_time": 1743484763,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243465,
+        "num": 276317,
+        "word": "黄小蕾新剧螳螂女",
+        "onboard_time": 1743484104,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218209,
+        "num": 275778,
+        "word": "利路修退圈前最后一次采访",
+        "onboard_time": 1743480324,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210343,
+        "num": 275266,
+        "word": "谁又把我的中药换成冰美式了",
+        "onboard_time": 1743483085,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275003,
+        "num": 275003,
+        "word": "这届年轻人大大方方省了很多钱",
+        "onboard_time": 1743479064,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261686,
+        "num": 261686,
+        "word": "解放军台岛周边开展联合演训",
+        "onboard_time": 1743464240,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204371,
+        "num": 204371,
+        "word": "27岁女生用12年从专科到留学硕士",
+        "onboard_time": 1743480565,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199977,
+        "num": 199977,
+        "word": "SMTR25",
+        "onboard_time": 1743484402,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171024,
+        "num": 171024,
+        "word": "女孩一年帮300位老人洗澡练出麒麟臂",
+        "onboard_time": 1743484464,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167658,
+        "num": 167658,
+        "word": "金秀贤还画了下眼线",
+        "onboard_time": 1743477503,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76832,
+        "num": 166023,
+        "word": "武艺跟papi分享给贴膜师傅开房的经历",
+        "onboard_time": 1743485063,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148594,
+        "num": 165198,
+        "word": "台湾女教师因批评台独遭台当局约谈",
+        "onboard_time": 1743477203,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164535,
+        "num": 164535,
+        "word": "deepseek对许嵩作词甘拜下风",
+        "onboard_time": 1743479303,
+        "rank": 37,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 161381,
+        "num": 161381,
+        "word": "蜘蛛侠4定档",
+        "onboard_time": 1743481406,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159087,
+        "num": 159087,
+        "word": "黄金",
+        "onboard_time": 1743480204,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160322,
+        "num": 158702,
+        "word": "别家站姐拍的赵露思",
+        "onboard_time": 1743475942,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155799,
+        "num": 155799,
+        "word": "发条微博致敬王伟烈士",
+        "onboard_time": 1743477443,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153226,
+        "num": 153226,
+        "word": "站姐拍的娜扎张云龙",
+        "onboard_time": 1743479483,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153085,
+        "num": 153085,
+        "word": "夹竹桃 中毒",
+        "onboard_time": 1743482785,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 63063,
+        "num": 139696,
+        "word": "东部战区参演兵力全向出动",
+        "onboard_time": 1743484645,
+        "rank": 44,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 134977,
+        "num": 134977,
+        "word": "赴山海",
+        "onboard_time": 1743485063,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134854,
+        "num": 134854,
+        "word": "东部战区降妖除魔",
+        "onboard_time": 1743468504,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131399,
+        "num": 134305,
+        "word": "女子潜水被鲨鱼咬残水下未配安全员",
+        "onboard_time": 1743482964,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134192,
+        "num": 134192,
+        "word": "KPL",
+        "onboard_time": 1743483985,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133496,
+        "num": 133496,
+        "word": "唐鹤德 谁能代替你地位",
+        "onboard_time": 1743467783,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025是推进巡视全覆盖的关键一年#"
+    }
+  }
+}
