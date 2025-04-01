@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743478251147,
+  "endTime": 1743479815327,
   "band_list": [
     {
       "raw_hot": 4078541,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1794122,
+      "num": 1794122,
+      "word": "快递员因同一人连收100个包裹报警了",
+      "onboard_time": 1743478282,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1352189,
       "num": 164732,
       "word": "金秀贤和未成年金赛纶约会视频",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1296635,
-      "num": 324039,
+      "num": 325072,
       "word": "张艺凡瘦成这样",
       "onboard_time": 1743476602,
       "rank": 11,
@@ -251,6 +259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 387520,
+      "num": 318812,
+      "word": "英雄联盟改名大乱斗联盟",
+      "onboard_time": 1743479004,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 387494,
       "num": 162358,
       "word": "金秀贤公开录音证据",
@@ -291,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334731,
+      "num": 334731,
+      "word": "周雨说孙颖莎影响力太大了",
+      "onboard_time": 1743476661,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331750,
       "num": 146286,
       "word": "金秀贤记者会最起鸡皮疙瘩的一句话",
@@ -305,6 +329,22 @@
       "onboard_time": 1743434662,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324205,
+      "num": 324205,
+      "word": "黄誉博愚人节玩了把大的",
+      "onboard_time": 1743478524,
+      "rank": 20,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 312382,
+      "num": 312382,
+      "word": "终于有人把大学专业说清楚了",
+      "onboard_time": 1743475462,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 311781,
@@ -331,28 +371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291516,
-      "num": 291516,
-      "word": "终于有人把大学专业说清楚了",
-      "onboard_time": 1743475462,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 288461,
       "num": 271476,
       "word": "河南一枯井发现近百名烈士遗骸",
       "onboard_time": 1743419122,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 280940,
-      "num": 296923,
-      "word": "周雨说孙颖莎影响力太大了",
-      "onboard_time": 1743476661,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 278476,
@@ -369,6 +393,14 @@
       "onboard_time": 1743465921,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264873,
+      "num": 264873,
+      "word": "deepseek对许嵩作词甘拜下风",
+      "onboard_time": 1743479303,
+      "rank": 30,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 263673,
@@ -403,19 +435,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247106,
+      "num": 247106,
+      "word": "金秀贤还画了下眼线",
+      "onboard_time": 1743477503,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239040,
       "num": 239040,
       "word": "迪丽热巴繁花行程图",
       "onboard_time": 1743476782,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 237475,
-      "num": 237475,
-      "word": "金秀贤还画了下眼线",
-      "onboard_time": 1743477503,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -425,6 +457,14 @@
       "onboard_time": 1743431784,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 229215,
+      "num": 229215,
+      "word": "这届年轻人大大方方省了很多钱",
+      "onboard_time": 1743479064,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227758,
@@ -459,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222459,
+      "num": 222459,
+      "word": "站姐拍的娜扎张云龙",
+      "onboard_time": 1743479483,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218866,
       "num": 147445,
       "word": "6名员工幸存只有她还埋在废墟下",
@@ -481,6 +529,14 @@
       "onboard_time": 1743464300,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 205493,
+      "num": 312506,
+      "word": "光与夜之恋愚人节",
+      "onboard_time": 1743478344,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 198849,
@@ -524,7 +580,7 @@
     },
     {
       "raw_hot": 184703,
-      "num": 239183,
+      "num": 279033,
       "word": "淮水竹亭",
       "onboard_time": 1743475584,
       "rank": 29,
@@ -540,7 +596,7 @@
     },
     {
       "raw_hot": 183615,
-      "num": 322089,
+      "num": 324685,
       "word": "片场捕捉野生文淇",
       "onboard_time": 1743476661,
       "rank": 16,
@@ -553,6 +609,30 @@
       "onboard_time": 1743470842,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175414,
+      "num": 175414,
+      "word": "iOS18.4支持5.5G网络",
+      "onboard_time": 1743479363,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 175275,
+      "num": 175275,
+      "word": "王者策划愚人节爆料",
+      "onboard_time": 1743479303,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 174713,
+      "num": 174713,
+      "word": "78个货到付款快递被拒签小哥报警后获奖励",
+      "onboard_time": 1743478702,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172739,
@@ -577,6 +657,14 @@
       "onboard_time": 1743474923,
       "rank": 41,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 167282,
+      "num": 167282,
+      "word": "光夜王者强强联合",
+      "onboard_time": 1743479363,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 165439,
@@ -609,6 +697,14 @@
       "onboard_time": 1743475462,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160183,
+      "num": 160183,
+      "word": "蒋一侨回应和落跑甜心女主角撞脸",
+      "onboard_time": 1743479784,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 158259,
@@ -731,6 +827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128860,
+      "num": 325258,
+      "word": "做堂堂正正的中国人",
+      "onboard_time": 1743478404,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125710,
       "num": 125710,
       "word": "站姐团建 经典回味",
@@ -819,6 +923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104896,
+      "num": 161939,
+      "word": "考古王楚钦17岁的直播",
+      "onboard_time": 1743476483,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101422,
       "num": 101422,
       "word": "人民海军76周年",
@@ -889,6 +1001,14 @@
       "onboard_time": 1743432143,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93102,
+      "num": 270501,
+      "word": "日本知名餐饮连锁接连发现老鼠蟑螂",
+      "onboard_time": 1743478462,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 89892,
@@ -979,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69977,
+      "num": 315691,
+      "word": "你敲了五声我听见了",
+      "onboard_time": 1743479604,
+      "rank": 22,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 67532,
       "num": 134420,
       "word": "乌尔善发文",
@@ -988,7 +1116,7 @@
     },
     {
       "raw_hot": 67160,
-      "num": 989775,
+      "num": 1256149,
       "word": "中国园林有朵石做的云",
       "onboard_time": 1743426743,
       "rank": 2,
@@ -1012,7 +1140,7 @@
     },
     {
       "raw_hot": 64298,
-      "num": 273592,
+      "num": 324391,
       "word": "帮助劫匪逃脱警方追捕的法律后果",
       "onboard_time": 1743478044,
       "rank": 24,
@@ -1081,6 +1209,14 @@
       "onboard_time": 1743450254,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54634,
+      "num": 324214,
+      "word": "一口气说清缅甸震中的真实情况",
+      "onboard_time": 1743479363,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 54479,
@@ -1264,6 +1400,14 @@
       "word": "关于健全社会信用体系的意见",
       "onboard_time": 1743453434,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11161,
+      "num": 175299,
+      "word": "胡锡进为胖东来给员工涨工资点赞",
+      "onboard_time": 1743479303,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
