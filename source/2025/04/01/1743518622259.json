@@ -1,0 +1,410 @@
+{
+  "runTime": 1743518622259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14018750,
+        "num": 14018750,
+        "word": "雷军回应",
+        "onboard_time": 1743517885,
+        "rank": 0,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 1510423,
+        "num": 1510423,
+        "word": "小米汽车回应",
+        "onboard_time": 1743517885,
+        "rank": 1,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 36229,
+        "num": 1318557,
+        "word": "春天是藏在公园的诗情画意",
+        "onboard_time": 1743512724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1229167,
+        "num": 1229167,
+        "word": "吴宣仪三公分数",
+        "onboard_time": 1743512304,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 857116,
+        "num": 857116,
+        "word": "真姐夫",
+        "onboard_time": 1743506123,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 836905,
+        "num": 836905,
+        "word": "孙子被抢走爷爷一天抽五六盒烟去世",
+        "onboard_time": 1743517584,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601477,
+        "num": 601477,
+        "word": "雁回时删了6集",
+        "onboard_time": 1743511164,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 589357,
+        "num": 589357,
+        "word": "鹿晗工怍室",
+        "onboard_time": 1743500302,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562844,
+        "num": 562844,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391852,
+        "num": 391852,
+        "word": "黄油与面包回应标价15元收款19元",
+        "onboard_time": 1743507383,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1553325,
+        "num": 383797,
+        "word": "小米集团市值一天缩水800亿",
+        "onboard_time": 1743514824,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 707836,
+        "num": 380772,
+        "word": "任时完取关金秀贤",
+        "onboard_time": 1743516986,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548523,
+        "num": 371368,
+        "word": "浪姐6三公结果",
+        "onboard_time": 1743513984,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480545,
+        "num": 357935,
+        "word": "鹿晗站姐发了双杨cp",
+        "onboard_time": 1743512784,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351751,
+        "num": 351751,
+        "word": "雁回时大结局",
+        "onboard_time": 1743501922,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348934,
+        "num": 348934,
+        "word": "缅甸两女孩废墟里教科书式自救成功",
+        "onboard_time": 1743509963,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 316985,
+        "num": 316985,
+        "word": "中国搜救犬在缅甸吃冰降温",
+        "onboard_time": 1743516624,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279429,
+        "num": 279429,
+        "word": "TVB女演员陈思齐摆摊卖鸡爪",
+        "onboard_time": 1743511702,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184671,
+        "num": 269403,
+        "word": "雷军代表小米承诺不会回避",
+        "onboard_time": 1743518306,
+        "rank": 18,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 262738,
+        "num": 262738,
+        "word": "快递员弄丢客户2.9公斤金饰吓傻",
+        "onboard_time": 1743497424,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 988978,
+        "num": 262637,
+        "word": "女子女宾区全裸涂身体乳时男子进入",
+        "onboard_time": 1743516624,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 262757,
+        "num": 262533,
+        "word": "听潮阁徐来 结婚",
+        "onboard_time": 1743504862,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 262336,
+        "num": 262336,
+        "word": "男子误入洗浴中心女宾区致顾客走光",
+        "onboard_time": 1743516443,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252743,
+        "num": 252743,
+        "word": "马丽拿刘耀文当亲儿子",
+        "onboard_time": 1743513383,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233423,
+        "num": 233423,
+        "word": "马斯克首次公开回应第13个孩子",
+        "onboard_time": 1743516805,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232648,
+        "num": 232648,
+        "word": "女子烧纸引燃9辆车被刑拘",
+        "onboard_time": 1743509782,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230362,
+        "num": 230362,
+        "word": "医生解读网友关注金秀贤舌头",
+        "onboard_time": 1743513804,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71996,
+        "num": 211931,
+        "word": "奥运冠军抵达延安",
+        "onboard_time": 1743516624,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21704,
+        "num": 210447,
+        "word": "枯井无名遗骸系三冀阻击战牺牲将士",
+        "onboard_time": 1743518427,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209756,
+        "num": 209756,
+        "word": "谁家站姐这么勇",
+        "onboard_time": 1743496461,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207719,
+        "num": 207719,
+        "word": "韩国游客喊话张艺兴你的家乡太棒了",
+        "onboard_time": 1743517044,
+        "rank": 30,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 71911,
+        "num": 199964,
+        "word": "24年我们从未忘记81192",
+        "onboard_time": 1743518487,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 71568,
+        "num": 196727,
+        "word": "金价狂飙有金店称每天都要调价",
+        "onboard_time": 1743518427,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195667,
+        "num": 195667,
+        "word": "甲亢哥中国行展现了没有滤镜的中国",
+        "onboard_time": 1743509244,
+        "rank": 33,
+        "category": "国内时政,网红"
+      },
+      {
+        "raw_hot": 182351,
+        "num": 182351,
+        "word": "愚人节",
+        "onboard_time": 1743464480,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179042,
+        "num": 179042,
+        "word": "国际乒联回顾孙颖莎夺冠历程",
+        "onboard_time": 1743504682,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188941,
+        "num": 178815,
+        "word": "李羲承红发",
+        "onboard_time": 1743517464,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187659,
+        "num": 176946,
+        "word": "不敢想刘宇宁张碧晨合唱有多好听",
+        "onboard_time": 1743517524,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172717,
+        "num": 176665,
+        "word": "挪用数百万公款牵出非法套现504亿大案",
+        "onboard_time": 1743516505,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14964,
+        "num": 175087,
+        "word": "物理防晒和化学防晒怎么选",
+        "onboard_time": 1743518547,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 174832,
+        "num": 174832,
+        "word": "拖4年没交房销售称要先买地下室",
+        "onboard_time": 1743515605,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165916,
+        "num": 165916,
+        "word": "李羲承换小时候照片当头像",
+        "onboard_time": 1743517344,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159766,
+        "num": 159766,
+        "word": "当普通人第一次去吃和平饭店",
+        "onboard_time": 1743513024,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 152382,
+        "num": 152382,
+        "word": "一阳",
+        "onboard_time": 1743516624,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150221,
+        "num": 150221,
+        "word": "国羽何济霆疑被未婚妻爆料赌球",
+        "onboard_time": 1743510503,
+        "rank": 44,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 137867,
+        "num": 137867,
+        "word": "刘亦菲在逃公主具象化",
+        "onboard_time": 1743515244,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135342,
+        "num": 135342,
+        "word": "王者荣耀",
+        "onboard_time": 1743508403,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124271,
+        "num": 124271,
+        "word": "王文也",
+        "onboard_time": 1743512245,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118797,
+        "num": 118797,
+        "word": "值得爱定档",
+        "onboard_time": 1743510744,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113411,
+        "num": 113411,
+        "word": "Songha公开",
+        "onboard_time": 1743507563,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度总统互致贺电#"
+    }
+  }
+}

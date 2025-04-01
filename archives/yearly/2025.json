@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743517479185,
+  "endTime": 1743518622259,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -249,6 +249,14 @@
       "onboard_time": 1738985241,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14018750,
+      "num": 14018750,
+      "word": "雷军回应",
+      "onboard_time": 1743517885,
+      "rank": 0,
+      "category": "辟谣/通报,汽车"
     },
     {
       "raw_hot": 13952184,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736237362,
       "rank": 4,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 2820074,
-      "num": 1540415,
-      "word": "男子服刑期感染艾滋病监狱被判赔偿",
-      "onboard_time": 1740019700,
-      "rank": 42,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
