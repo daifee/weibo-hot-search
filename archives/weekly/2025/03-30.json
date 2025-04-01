@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743490169142,
+  "endTime": 1743492318130,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -441,6 +441,14 @@
       "onboard_time": 1743381561,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1040367,
+      "num": 531353,
+      "word": "小米集团午后跌超4%",
+      "onboard_time": 1743489204,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 1021631,
@@ -1715,6 +1723,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384312,
+      "num": 384312,
+      "word": "10元盒饭姐因浪费气得不想出摊",
+      "onboard_time": 1743487161,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 383600,
+      "num": 242287,
+      "word": "夫妻3胎喜得女儿发10万个鸡蛋庆祝",
+      "onboard_time": 1743489982,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376959,
       "num": 376959,
       "word": "韦雪要签前夫",
@@ -1763,14 +1787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 369111,
-      "num": 332209,
-      "word": "小米集团午后跌超4%",
-      "onboard_time": 1743489204,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 367496,
       "num": 367496,
       "word": "甲亢哥针灸正骨后已老实",
@@ -1793,14 +1809,6 @@
       "onboard_time": 1743415043,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 366240,
-      "num": 366240,
-      "word": "10元盒饭姐因浪费气得不想出摊",
-      "onboard_time": 1743487161,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 365551,
@@ -2123,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306911,
+      "num": 306911,
+      "word": "蓝莓便宜了",
+      "onboard_time": 1743487944,
+      "rank": 31,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 305320,
       "num": 305320,
       "word": "光夜王者强强联合",
@@ -2147,6 +2163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 302123,
+      "num": 302123,
+      "word": "洪小铃孕肚照",
+      "onboard_time": 1743489204,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301314,
       "num": 301314,
       "word": "美的已清仓小米股票",
@@ -2160,14 +2184,6 @@
       "word": "新秀 喾逸",
       "onboard_time": 1743326000,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 299496,
-      "num": 195351,
-      "word": "洪小铃孕肚照",
-      "onboard_time": 1743489204,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -2571,12 +2587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256536,
+      "num": 256536,
+      "word": "金饰价格涨到953元",
+      "onboard_time": 1743491124,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 256503,
       "num": 256503,
       "word": "佟大为新剧太下饭了",
       "onboard_time": 1743392120,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255506,
+      "num": 357975,
+      "word": "缅甸地震2719人遇难",
+      "onboard_time": 1743489384,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 254406,
@@ -2771,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236306,
+      "num": 279865,
+      "word": "樊振东在古茗鲜活的一天",
+      "onboard_time": 1743489924,
+      "rank": 18,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 234528,
       "num": 305332,
       "word": "蒋一侨回应和落跑甜心女主角撞脸",
@@ -2872,14 +2912,6 @@
       "word": "男婴被4人入室抢走主犯竟是邻居",
       "onboard_time": 1743409885,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227184,
-      "num": 227184,
-      "word": "夫妻3胎喜得女儿发10万个鸡蛋庆祝",
-      "onboard_time": 1743489982,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -3016,6 +3048,14 @@
       "word": "新秀歌词",
       "onboard_time": 1743333620,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216729,
+      "num": 216729,
+      "word": "金秀贤 迪士尼",
+      "onboard_time": 1743492083,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -3419,20 +3459,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199081,
+      "num": 199081,
+      "word": "东部战区",
+      "onboard_time": 1743491063,
+      "rank": 23,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 198849,
       "num": 198849,
       "word": "成毅站姐发任嘉伦",
       "onboard_time": 1743469403,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198786,
-      "num": 265559,
-      "word": "樊振东在古茗鲜活的一天",
-      "onboard_time": 1743489924,
-      "rank": 18,
-      "category": "体育,美食"
     },
     {
       "raw_hot": 198478,
@@ -3907,14 +3947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177093,
-      "num": 177093,
-      "word": "蓝莓便宜了",
-      "onboard_time": 1743487944,
-      "rank": 31,
-      "category": "财经,美食"
-    },
-    {
       "raw_hot": 177036,
       "num": 221084,
       "word": "王安冉孕期被婆婆多次辱骂",
@@ -4203,6 +4235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 165982,
+      "num": 178519,
+      "word": "檀健次站姐发了相柳未公开图",
+      "onboard_time": 1743486742,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165830,
       "num": 165830,
       "word": "广东事业编",
@@ -4216,6 +4256,14 @@
       "word": "半熟恋人",
       "onboard_time": 1743396741,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165692,
+      "num": 177124,
+      "word": "赵晓卉 文明人不适合做领导",
+      "onboard_time": 1743490703,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -4795,6 +4843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148549,
+      "num": 148549,
+      "word": "悉尼妹分手",
+      "onboard_time": 1743491303,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148494,
       "num": 268061,
       "word": "黄奕 花朵裙",
@@ -4841,6 +4897,14 @@
       "onboard_time": 1743315560,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147073,
+      "num": 155706,
+      "word": "税务总局去年对网络主播查补收入8.99亿",
+      "onboard_time": 1743489384,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146990,
@@ -4993,6 +5057,14 @@
       "onboard_time": 1743472221,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143833,
+      "num": 156342,
+      "word": "吴宣仪今天当倪虹洁站姐",
+      "onboard_time": 1743489924,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 143662,
@@ -5155,14 +5227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140807,
-      "num": 140807,
-      "word": "檀健次站姐发了相柳未公开图",
-      "onboard_time": 1743486742,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140737,
       "num": 140737,
       "word": "太湖湾音乐节",
@@ -5289,14 +5353,6 @@
       "onboard_time": 1743382820,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 136581,
-      "num": 136581,
-      "word": "税务总局去年对网络主播查补收入8.99亿",
-      "onboard_time": 1743489384,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136481,
@@ -5523,6 +5579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133538,
+      "num": 133538,
+      "word": "剑网3",
+      "onboard_time": 1743491543,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133196,
       "num": 133196,
       "word": "邓萃雯没有功劳也有苦劳",
@@ -5681,14 +5745,6 @@
       "onboard_time": 1743337822,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127627,
-      "num": 156342,
-      "word": "吴宣仪今天当倪虹洁站姐",
-      "onboard_time": 1743489924,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 127157,
@@ -6049,14 +6105,6 @@
       "onboard_time": 1743302069,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118032,
-      "num": 357975,
-      "word": "缅甸地震2719人遇难",
-      "onboard_time": 1743489384,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 117969,
@@ -7243,6 +7291,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 74066,
+      "num": 119979,
+      "word": "詹姆斯金鸡独立式三分命中",
+      "onboard_time": 1743490764,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73847,
       "num": 73847,
       "word": "缅籍华人父母被埋哽咽受访",
@@ -7856,6 +7912,14 @@
       "word": "夏以昼八百个心眼子",
       "onboard_time": 1743397461,
       "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 44404,
+      "num": 179104,
+      "word": "李泽言解压玩具",
+      "onboard_time": 1743486145,
+      "rank": 26,
       "category": "游戏"
     },
     {
@@ -8651,12 +8715,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 10064,
+      "num": 119518,
+      "word": "张凌赫Gucci展览现场梦回何苏叶",
+      "onboard_time": 1743491663,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 9658,
       "num": 116160,
       "word": "希拉里称特朗普团队愚蠢至极",
       "onboard_time": 1743299421,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9529,
+      "num": 161432,
+      "word": "文淇谈传承与创新",
+      "onboard_time": 1743489982,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 9472,
@@ -8681,14 +8761,6 @@
       "onboard_time": 1743366793,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7115,
-      "num": 161117,
-      "word": "文淇谈传承与创新",
-      "onboard_time": 1743489982,
-      "rank": 34,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
