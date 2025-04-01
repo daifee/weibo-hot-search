@@ -1,0 +1,410 @@
+{
+  "runTime": 1743493123963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1009386,
+        "num": 1161501,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 605143,
+        "num": 605143,
+        "word": "快递员因同一人连收100个包裹报警了",
+        "onboard_time": 1743478282,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20578,
+        "num": 576120,
+        "word": "国家标准住宅项目规范发布",
+        "onboard_time": 1743422304,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1138029,
+        "num": 539077,
+        "word": "小米集团午后跌超4%",
+        "onboard_time": 1743489204,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 999599,
+        "num": 495579,
+        "word": "黄旭熙宣布台湾出道",
+        "onboard_time": 1743486742,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658954,
+        "num": 428655,
+        "word": "这不是愚人节 这是情人节",
+        "onboard_time": 1743483627,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416519,
+        "num": 416519,
+        "word": "利路修正式退圈",
+        "onboard_time": 1743481226,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399588,
+        "num": 399588,
+        "word": "10元盒饭姐因浪费气得不想出摊",
+        "onboard_time": 1743487161,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347868,
+        "num": 347868,
+        "word": "蓝莓便宜了",
+        "onboard_time": 1743487944,
+        "rank": 8,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 159813,
+        "num": 287510,
+        "word": "税务总局去年对网络主播查补收入8.99亿",
+        "onboard_time": 1743489384,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9615598,
+        "num": 9615598,
+        "word": "小米SU7高速碰撞爆燃事件细节",
+        "onboard_time": 1743484044,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 896481,
+        "num": 281939,
+        "word": "金秀贤 迪士尼",
+        "onboard_time": 1743492083,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266801,
+        "num": 266801,
+        "word": "金饰价格涨到953元",
+        "onboard_time": 1743491124,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 251427,
+        "num": 251427,
+        "word": "孟子义站姐发了李昀锐和秦霄贤",
+        "onboard_time": 1743481645,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251399,
+        "num": 251399,
+        "word": "张艺凡瘦成这样",
+        "onboard_time": 1743476602,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221579,
+        "num": 248591,
+        "word": "樊振东在古茗鲜活的一天",
+        "onboard_time": 1743489924,
+        "rank": 15,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 290866,
+        "num": 248166,
+        "word": "金秀贤把鼻子上的妆抹掉了",
+        "onboard_time": 1743470842,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247190,
+        "num": 247190,
+        "word": "愚人节站姐团建",
+        "onboard_time": 1743438619,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238602,
+        "num": 238602,
+        "word": "电视剧千秋令定档",
+        "onboard_time": 1743492923,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231947,
+        "num": 231947,
+        "word": "洪小铃孕肚照",
+        "onboard_time": 1743489204,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365111,
+        "num": 231868,
+        "word": "夫妻3胎喜得女儿发10万个鸡蛋庆祝",
+        "onboard_time": 1743489982,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231720,
+        "num": 231720,
+        "word": "北京骑手回应缴五险一金后月收入",
+        "onboard_time": 1743486742,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230526,
+        "num": 230526,
+        "word": "台湾",
+        "onboard_time": 1743471503,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197419,
+        "num": 197419,
+        "word": "邓为站姐发了fx",
+        "onboard_time": 1743483985,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48225,
+        "num": 194257,
+        "word": "李泽言解压玩具",
+        "onboard_time": 1743486145,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192449,
+        "num": 192449,
+        "word": "东部战区",
+        "onboard_time": 1743491063,
+        "rank": 25,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 179150,
+        "num": 191912,
+        "word": "檀健次站姐发了相柳未公开图",
+        "onboard_time": 1743486742,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144678,
+        "num": 190950,
+        "word": "赴山海",
+        "onboard_time": 1743485063,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130592,
+        "num": 188425,
+        "word": "赵晓卉 文明人不适合做领导",
+        "onboard_time": 1743490703,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31522,
+        "num": 186647,
+        "word": "电车遇事故如何应急开车门",
+        "onboard_time": 1743492383,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186497,
+        "num": 186497,
+        "word": "缅甸地震2719人遇难",
+        "onboard_time": 1743489384,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 179322,
+        "num": 179322,
+        "word": "愚人节",
+        "onboard_time": 1743464480,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8586,
+        "num": 171672,
+        "word": "文淇谈传承与创新",
+        "onboard_time": 1743489982,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171467,
+        "num": 171467,
+        "word": "医生建议想减肥的人早晚分别称体重",
+        "onboard_time": 1743492744,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163681,
+        "num": 163681,
+        "word": "英雄联盟改名大乱斗联盟",
+        "onboard_time": 1743479004,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162990,
+        "num": 162990,
+        "word": "薛之谦 愚人节",
+        "onboard_time": 1743481826,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159026,
+        "num": 159026,
+        "word": "夫妻自如租房5年妻子多项指标异常",
+        "onboard_time": 1743485905,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156134,
+        "num": 156134,
+        "word": "公摊面积最大的蔬菜",
+        "onboard_time": 1743485905,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140882,
+        "num": 140882,
+        "word": "吴宣仪今天当倪虹洁站姐",
+        "onboard_time": 1743489924,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134740,
+        "num": 134740,
+        "word": "中国救援队员枕着路基睡着了",
+        "onboard_time": 1743486382,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131493,
+        "num": 131493,
+        "word": "解放军台岛周边开展联合演训",
+        "onboard_time": 1743464240,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129531,
+        "num": 129531,
+        "word": "张国荣",
+        "onboard_time": 1743465921,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122248,
+        "num": 122248,
+        "word": "各家站姐分享的迪丽热巴",
+        "onboard_time": 1743489323,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119870,
+        "num": 119870,
+        "word": "悉尼妹分手",
+        "onboard_time": 1743491303,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116913,
+        "num": 116913,
+        "word": "陈茵媺回应和陈豪像父女恋",
+        "onboard_time": 1743492323,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20630,
+        "num": 115171,
+        "word": "张凌赫Gucci展览现场梦回何苏叶",
+        "onboard_time": 1743491663,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114572,
+        "num": 114572,
+        "word": "贺峻霖站姐拍的杨紫",
+        "onboard_time": 1743487284,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108155,
+        "num": 108155,
+        "word": "女子潜水被鲨鱼咬残水下未配安全员",
+        "onboard_time": 1743482964,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104320,
+        "num": 104320,
+        "word": "上海一彩民守号2个月中1000.9万",
+        "onboard_time": 1743485844,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103908,
+        "num": 103908,
+        "word": "剑网3",
+        "onboard_time": 1743491543,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技强则国家强#"
+    }
+  }
+}

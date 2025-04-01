@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743492318130,
+  "endTime": 1743493123963,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1138029,
+      "num": 539077,
+      "word": "小米集团午后跌超4%",
+      "onboard_time": 1743489204,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1118402,
       "num": 419595,
       "word": "夫妻俩备孕无果到烈士陵园求子",
@@ -441,14 +449,6 @@
       "onboard_time": 1743381561,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1040367,
-      "num": 531353,
-      "word": "小米集团午后跌超4%",
-      "onboard_time": 1743489204,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 1021631,
@@ -560,6 +560,14 @@
       "word": "杜淳妻子网购遭客服拿地址威胁",
       "onboard_time": 1743470965,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 896481,
+      "num": 281939,
+      "word": "金秀贤 迪士尼",
+      "onboard_time": 1743492083,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1635,6 +1643,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 399588,
+      "num": 399588,
+      "word": "10元盒饭姐因浪费气得不想出摊",
+      "onboard_time": 1743487161,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398650,
       "num": 398650,
       "word": "枭起青壤",
@@ -1721,14 +1737,6 @@
       "onboard_time": 1743327921,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 384312,
-      "num": 384312,
-      "word": "10元盒饭姐因浪费气得不想出摊",
-      "onboard_time": 1743487161,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 383600,
@@ -1889,6 +1897,14 @@
       "onboard_time": 1743330500,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 347868,
+      "num": 347868,
+      "word": "蓝莓便宜了",
+      "onboard_time": 1743487944,
+      "rank": 31,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 347795,
@@ -2129,14 +2145,6 @@
       "onboard_time": 1743423443,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 306911,
-      "num": 306911,
-      "word": "蓝莓便宜了",
-      "onboard_time": 1743487944,
-      "rank": 31,
-      "category": "财经,美食"
     },
     {
       "raw_hot": 305320,
@@ -2531,6 +2539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 266801,
+      "num": 266801,
+      "word": "金饰价格涨到953元",
+      "onboard_time": 1743491124,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 266395,
       "num": 228277,
       "word": "李晟回复张小婉",
@@ -2585,14 +2601,6 @@
       "onboard_time": 1743408924,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256536,
-      "num": 256536,
-      "word": "金饰价格涨到953元",
-      "onboard_time": 1743491124,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 256503,
@@ -2785,6 +2793,14 @@
       "onboard_time": 1743476782,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238602,
+      "num": 238602,
+      "word": "电视剧千秋令定档",
+      "onboard_time": 1743492923,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 237497,
@@ -3048,14 +3064,6 @@
       "word": "新秀歌词",
       "onboard_time": 1743333620,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 216729,
-      "num": 216729,
-      "word": "金秀贤 迪士尼",
-      "onboard_time": 1743492083,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -3915,6 +3923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179150,
+      "num": 191912,
+      "word": "檀健次站姐发了相柳未公开图",
+      "onboard_time": 1743486742,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179115,
       "num": 179115,
       "word": "甲亢哥吃皮蛋",
@@ -4065,6 +4081,14 @@
       "onboard_time": 1743315741,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171467,
+      "num": 171467,
+      "word": "医生建议想减肥的人早晚分别称体重",
+      "onboard_time": 1743492744,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171420,
@@ -4235,14 +4259,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 165982,
-      "num": 178519,
-      "word": "檀健次站姐发了相柳未公开图",
-      "onboard_time": 1743486742,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165830,
       "num": 165830,
       "word": "广东事业编",
@@ -4260,7 +4276,7 @@
     },
     {
       "raw_hot": 165692,
-      "num": 177124,
+      "num": 188425,
       "word": "赵晓卉 文明人不适合做领导",
       "onboard_time": 1743490703,
       "rank": 28,
@@ -4457,6 +4473,14 @@
       "onboard_time": 1743332360,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159813,
+      "num": 287510,
+      "word": "税务总局去年对网络主播查补收入8.99亿",
+      "onboard_time": 1743489384,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159610,
@@ -4897,14 +4921,6 @@
       "onboard_time": 1743315560,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147073,
-      "num": 155706,
-      "word": "税务总局去年对网络主播查补收入8.99亿",
-      "onboard_time": 1743489384,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146990,
@@ -6152,6 +6168,14 @@
       "word": "武艺跟papi分享给贴膜师傅开房的经历",
       "onboard_time": 1743485063,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116913,
+      "num": 116913,
+      "word": "陈茵媺回应和陈豪像父女恋",
+      "onboard_time": 1743492323,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -7867,6 +7891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48225,
+      "num": 194257,
+      "word": "李泽言解压玩具",
+      "onboard_time": 1743486145,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 46774,
       "num": 46774,
       "word": "12306上真的可以免费换火车票",
@@ -7912,14 +7944,6 @@
       "word": "夏以昼八百个心眼子",
       "onboard_time": 1743397461,
       "rank": 24,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 44404,
-      "num": 179104,
-      "word": "李泽言解压玩具",
-      "onboard_time": 1743486145,
-      "rank": 26,
       "category": "游戏"
     },
     {
@@ -8169,6 +8193,14 @@
       "onboard_time": 1743406459,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31522,
+      "num": 186647,
+      "word": "电车遇事故如何应急开车门",
+      "onboard_time": 1743492383,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30931,
@@ -8433,6 +8465,14 @@
       "onboard_time": 1743274694,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20630,
+      "num": 119518,
+      "word": "张凌赫Gucci展览现场梦回何苏叶",
+      "onboard_time": 1743491663,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 20515,
@@ -8715,14 +8755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 10064,
-      "num": 119518,
-      "word": "张凌赫Gucci展览现场梦回何苏叶",
-      "onboard_time": 1743491663,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 9658,
       "num": 116160,
       "word": "希拉里称特朗普团队愚蠢至极",
@@ -8732,7 +8764,7 @@
     },
     {
       "raw_hot": 9529,
-      "num": 161432,
+      "num": 171672,
       "word": "文淇谈传承与创新",
       "onboard_time": 1743489982,
       "rank": 34,
