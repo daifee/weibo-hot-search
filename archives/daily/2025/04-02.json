@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743546214721,
+  "endTime": 1743547267489,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -35,6 +35,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 296955,
+      "num": 491957,
+      "word": "马斯克首次公开回应第13个孩子",
+      "onboard_time": 1743516805,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 292167,
       "num": 700149,
       "word": "雁回时删了6集",
@@ -49,6 +57,14 @@
       "onboard_time": 1743524603,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234384,
+      "num": 177868,
+      "word": "男子误入洗浴中心女宾区致顾客走光",
+      "onboard_time": 1743516443,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220660,
@@ -75,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203937,
-      "num": 387647,
-      "word": "马斯克首次公开回应第13个孩子",
-      "onboard_time": 1743516805,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 194847,
       "num": 194847,
       "word": "宋妍霏组 三公第一",
@@ -91,20 +99,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194481,
-      "num": 177868,
-      "word": "男子误入洗浴中心女宾区致顾客走光",
-      "onboard_time": 1743516443,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189077,
       "num": 189077,
       "word": "TFBOYS团站愚人节复活",
       "onboard_time": 1743520765,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178128,
+      "num": 178128,
+      "word": "男子违规获取酒店房卡侵犯女住客",
+      "onboard_time": 1743521964,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177187,
@@ -131,15 +139,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160298,
-      "num": 160298,
-      "word": "何济霆",
-      "onboard_time": 1743520645,
-      "rank": 17,
-      "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 159454,
+      "raw_hot": 161103,
       "num": 159454,
       "word": "医生解读网友关注金秀贤舌头",
       "onboard_time": 1743513804,
@@ -147,12 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156800,
-      "num": 156800,
-      "word": "男子违规获取酒店房卡侵犯女住客",
-      "onboard_time": 1743521964,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 160298,
+      "num": 160298,
+      "word": "何济霆",
+      "onboard_time": 1743520645,
+      "rank": 17,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 147759,
@@ -163,12 +163,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130317,
+      "num": 130317,
+      "word": "买家捆姜甲儒睡觉谎称怕冻肚子",
+      "onboard_time": 1743542353,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125738,
       "num": 125738,
       "word": "白鹿王星越唐宫奇案吻戏",
       "onboard_time": 1743523640,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125444,
+      "num": 186293,
+      "word": "解放军喊话台舰最新现场视频",
+      "onboard_time": 1743525499,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 122066,
+      "num": 76467,
+      "word": "TVB女演员陈思齐摆摊卖鸡爪",
+      "onboard_time": 1743511702,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 117643,
@@ -203,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95154,
+      "num": 95154,
+      "word": "金价狂飙有金店称每天都要调价",
+      "onboard_time": 1743518427,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 93828,
       "num": 93828,
       "word": "鹿晗工怍室",
@@ -219,12 +251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88936,
-      "num": 186293,
-      "word": "解放军喊话台舰最新现场视频",
-      "onboard_time": 1743525499,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 86563,
+      "num": 86563,
+      "word": "韩国游客喊话张艺兴你的家乡太棒了",
+      "onboard_time": 1743517044,
+      "rank": 39,
+      "category": "艺人,旅游"
     },
     {
       "raw_hot": 85635,
@@ -260,7 +292,7 @@
     },
     {
       "raw_hot": 81690,
-      "num": 46241,
+      "num": 47913,
       "word": "王嘉尔说没有粉丝自己什么都不是",
       "onboard_time": 1743530656,
       "rank": 17,
@@ -273,14 +305,6 @@
       "onboard_time": 1743504862,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 76467,
-      "num": 76467,
-      "word": "TVB女演员陈思齐摆摊卖鸡爪",
-      "onboard_time": 1743511702,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 75076,
@@ -307,28 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73119,
-      "num": 73119,
-      "word": "金价狂飙有金店称每天都要调价",
-      "onboard_time": 1743518427,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 71686,
       "num": 71686,
       "word": "王者荣耀",
       "onboard_time": 1743508403,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 67393,
-      "num": 67393,
-      "word": "韩国游客喊话张艺兴你的家乡太棒了",
-      "onboard_time": 1743517044,
-      "rank": 39,
-      "category": "艺人,旅游"
     },
     {
       "raw_hot": 66245,
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57688,
+      "num": 53294,
+      "word": "现在的假睫毛已经发展成纸质了吗",
+      "onboard_time": 1743519505,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 56893,
       "num": 104588,
       "word": "台湾当归也必归",
@@ -395,28 +411,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55548,
-      "num": 55548,
-      "word": "买家捆姜甲儒睡觉谎称怕冻肚子",
-      "onboard_time": 1743542353,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55254,
       "num": 55254,
       "word": "沈腾看时代少年团都像儿子",
       "onboard_time": 1743522202,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54704,
-      "num": 53294,
-      "word": "现在的假睫毛已经发展成纸质了吗",
-      "onboard_time": 1743519505,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 52537,
@@ -435,12 +435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41455,
+      "num": 42624,
+      "word": "客服回应盒马16.9元一片面包",
+      "onboard_time": 1743518245,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40181,
       "num": 40181,
       "word": "国产剧绝望的狠女上新了",
       "onboard_time": 1743527896,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37957,
+      "num": 42874,
+      "word": "杨超越名下公司被限制高消费",
+      "onboard_time": 1743529996,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 34947,
@@ -451,20 +467,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33089,
-      "num": 42874,
-      "word": "杨超越名下公司被限制高消费",
-      "onboard_time": 1743529996,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 34504,
+      "num": 38492,
+      "word": "专家不建议跟风买黄金",
+      "onboard_time": 1743545417,
+      "rank": 46,
+      "category": "财经"
     },
     {
-      "raw_hot": 29153,
-      "num": 29178,
+      "raw_hot": 34450,
+      "num": 38490,
       "word": "被这一刻的日照金山治愈了",
       "onboard_time": 1743524419,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 32812,
+      "num": 38490,
+      "word": "美2名宇航员回地球后首次开发布会",
+      "onboard_time": 1743533474,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29819,
+      "num": 42623,
+      "word": "中俄对表重要纪念活动",
+      "onboard_time": 1743530895,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28769,
@@ -475,30 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28477,
-      "num": 29304,
-      "word": "美2名宇航员回地球后首次开发布会",
-      "onboard_time": 1743533474,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 28273,
-      "num": 42624,
-      "word": "客服回应盒马16.9元一片面包",
-      "onboard_time": 1743518245,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25989,
-      "num": 42623,
-      "word": "中俄对表重要纪念活动",
-      "onboard_time": 1743530895,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 25572,
       "num": 48633,
       "word": "消费者质疑网红面包店有阴阳价格",
@@ -507,12 +515,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22129,
+      "raw_hot": 22455,
       "num": 42602,
       "word": "福建海警闽南语喊话中国台湾巡逻船",
       "onboard_time": 1743522683,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21336,
+      "num": 38477,
+      "word": "张峻豪新歌卫冕",
+      "onboard_time": 1743546375,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 21097,
@@ -531,12 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16005,
-      "num": 29114,
-      "word": "专家不建议跟风买黄金",
-      "onboard_time": 1743545417,
-      "rank": 46,
-      "category": "财经"
+      "raw_hot": 18907,
+      "num": 38474,
+      "word": "站姐团建发的王一博",
+      "onboard_time": 1743543554,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 15828,
