@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743539250125,
+  "endTime": 1743540037400,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -3811,20 +3811,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 16757,
+      "num": 29178,
+      "word": "被这一刻的日照金山治愈了",
+      "onboard_time": 1743524419,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 15503,
       "num": 42474,
       "word": "古人一只杯子有满满巧思",
       "onboard_time": 1743527597,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15239,
-      "num": 29178,
-      "word": "被这一刻的日照金山治愈了",
-      "onboard_time": 1743524419,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 15174,
@@ -3851,20 +3851,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14023,
+      "num": 31624,
+      "word": "外交部回应解放军联合演训",
+      "onboard_time": 1743535333,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13990,
       "num": 24989,
       "word": "多图直击缅甸震中救援现场",
       "onboard_time": 1743453134,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 13429,
-      "num": 31624,
-      "word": "外交部回应解放军联合演训",
-      "onboard_time": 1743535333,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12871,
