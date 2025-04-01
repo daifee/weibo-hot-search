@@ -1,0 +1,410 @@
+{
+  "runTime": 1743507387931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1545161,
+        "num": 1545161,
+        "word": "雁回时大结局",
+        "onboard_time": 1743501922,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 577963,
+        "num": 577963,
+        "word": "公孙离新皮肤",
+        "onboard_time": 1743505945,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9500,
+        "num": 487594,
+        "word": "算法向上向善",
+        "onboard_time": 1743315921,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14691299,
+        "num": 14691299,
+        "word": "SU7爆燃遇难者父亲称小米仍没来联系",
+        "onboard_time": 1743504622,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 592065,
+        "num": 474182,
+        "word": "真姐夫",
+        "onboard_time": 1743506123,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464422,
+        "num": 464422,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 408790,
+        "num": 408790,
+        "word": "留几手称雷军被推太高不是好事",
+        "onboard_time": 1743505884,
+        "rank": 6,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 405404,
+        "num": 405404,
+        "word": "快递员弄丢客户2.9公斤金饰吓傻",
+        "onboard_time": 1743497424,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360468,
+        "num": 360468,
+        "word": "东部战区慑封",
+        "onboard_time": 1743495683,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318631,
+        "num": 318631,
+        "word": "张继科说信我是哥们不信我是敌人",
+        "onboard_time": 1743506244,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1120674,
+        "num": 317908,
+        "word": "鹿晗工怍室",
+        "onboard_time": 1743500302,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 877390,
+        "num": 314788,
+        "word": "小米集团午后跌超4%",
+        "onboard_time": 1743489204,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 680878,
+        "num": 311664,
+        "word": "金秀贤 迪士尼",
+        "onboard_time": 1743492083,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195538,
+        "num": 307825,
+        "word": "国际乒联回顾孙颖莎夺冠历程",
+        "onboard_time": 1743504682,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30478,
+        "num": 305135,
+        "word": "藏漂大叔厨房里藏着云南的春天",
+        "onboard_time": 1743505283,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539258,
+        "num": 302556,
+        "word": "谁家站姐这么勇",
+        "onboard_time": 1743496461,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340677,
+        "num": 300502,
+        "word": "听潮阁徐来 结婚",
+        "onboard_time": 1743504862,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299529,
+        "num": 299529,
+        "word": "人贩子抢走8个月婴儿还顺走奶粉",
+        "onboard_time": 1743501083,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297052,
+        "num": 297052,
+        "word": "甲亢哥",
+        "onboard_time": 1743501323,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 41571,
+        "num": 268266,
+        "word": "买进口红酒未贴中文标起诉索赔2万",
+        "onboard_time": 1743505762,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267737,
+        "num": 267737,
+        "word": "阿芝是不是亲生的",
+        "onboard_time": 1743505404,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252269,
+        "num": 252269,
+        "word": "鹿晗站姐",
+        "onboard_time": 1743495022,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249584,
+        "num": 249584,
+        "word": "抗癌网红宝炫是冠军去世",
+        "onboard_time": 1743504862,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128586,
+        "num": 248997,
+        "word": "首饰金价已接近千元心理线",
+        "onboard_time": 1743506064,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 248861,
+        "num": 248861,
+        "word": "快递员因同一人连收100个包裹报警了",
+        "onboard_time": 1743478282,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64590,
+        "num": 219031,
+        "word": "64岁倪夏莲冲击第7次奥运",
+        "onboard_time": 1743505582,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218577,
+        "num": 218577,
+        "word": "橘子娱乐 离职前做一次朱志鑫站姐",
+        "onboard_time": 1743501442,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196752,
+        "num": 196752,
+        "word": "白玉兰预测",
+        "onboard_time": 1743500003,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158424,
+        "num": 158424,
+        "word": "陈紫函 戴向宇你算菀菀吧",
+        "onboard_time": 1743502043,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133949,
+        "num": 155646,
+        "word": "被马伯骞叼签子钓成翘嘴了",
+        "onboard_time": 1743506423,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181626,
+        "num": 155510,
+        "word": "外交部回应海外网红博主来华旅游",
+        "onboard_time": 1743503662,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213851,
+        "num": 155324,
+        "word": "赵露思ins更新和小狗合照",
+        "onboard_time": 1743503482,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153093,
+        "num": 153093,
+        "word": "夫妻3胎喜得女儿发10万个鸡蛋庆祝",
+        "onboard_time": 1743489982,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114134,
+        "num": 142201,
+        "word": "小鹏第一季度新势力销量第一",
+        "onboard_time": 1743503122,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129975,
+        "num": 138661,
+        "word": "韩泰山 韩后山",
+        "onboard_time": 1743505824,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136797,
+        "num": 136797,
+        "word": "愚人节",
+        "onboard_time": 1743464480,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132642,
+        "num": 132642,
+        "word": "女儿遭男孩按入水中母亲反击被判赔",
+        "onboard_time": 1743496223,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129447,
+        "num": 129447,
+        "word": "卢昱晓茉莉花",
+        "onboard_time": 1743506903,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127796,
+        "num": 127796,
+        "word": "EXO周年直播没通知cbx",
+        "onboard_time": 1743496044,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11032,
+        "num": 124949,
+        "word": "守望相助永远是灾难来临时的中国答案",
+        "onboard_time": 1743507024,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 123916,
+        "num": 123916,
+        "word": "苦尽柑来遇见你 三代女性托举",
+        "onboard_time": 1743500302,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120059,
+        "num": 120059,
+        "word": "喜茶被疑抄袭",
+        "onboard_time": 1743499702,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118792,
+        "num": 118792,
+        "word": "丁程鑫时代峰峻最不真实的地方",
+        "onboard_time": 1743507203,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117440,
+        "num": 117440,
+        "word": "人间的四月天打开4月",
+        "onboard_time": 1743504862,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113918,
+        "num": 113918,
+        "word": "医生建议想减肥的人早晚分别称体重",
+        "onboard_time": 1743492744,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110537,
+        "num": 110537,
+        "word": "台湾",
+        "onboard_time": 1743471503,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105438,
+        "num": 105438,
+        "word": "樊振东杭州",
+        "onboard_time": 1743503064,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104112,
+        "num": 104112,
+        "word": "原神伊法",
+        "onboard_time": 1743503902,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103645,
+        "num": 103645,
+        "word": "利路修正式退圈",
+        "onboard_time": 1743481226,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100121,
+        "num": 100121,
+        "word": "带你一键穿越花花花花花海",
+        "onboard_time": 1743501623,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025是推进巡视全覆盖的关键一年#"
+    }
+  }
+}
