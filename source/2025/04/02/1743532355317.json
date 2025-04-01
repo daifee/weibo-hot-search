@@ -1,0 +1,410 @@
+{
+  "runTime": 1743532355317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 171542,
+        "num": 171542,
+        "word": "雁回时oe",
+        "onboard_time": 1743524603,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98850,
+        "num": 98850,
+        "word": "黄油与面包回应标价15元收款19元",
+        "onboard_time": 1743507383,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15497,
+        "num": 78473,
+        "word": "春天是藏在公园的诗情画意",
+        "onboard_time": 1743512724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267989,
+        "num": 77314,
+        "word": "盲人按摩店男员工杀女老板后服毒身亡",
+        "onboard_time": 1743523522,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 71385,
+        "num": 71385,
+        "word": "男子违规获取酒店房卡侵犯女住客",
+        "onboard_time": 1743521964,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64913,
+        "num": 64913,
+        "word": "雁回时删了6集",
+        "onboard_time": 1743511164,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61144,
+        "num": 61144,
+        "word": "解放军喊话台舰最新现场视频",
+        "onboard_time": 1743525499,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61082,
+        "num": 61082,
+        "word": "中国搜救犬在缅甸吃冰降温",
+        "onboard_time": 1743516624,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54726,
+        "num": 54726,
+        "word": "鹿晗站姐发了双杨cp",
+        "onboard_time": 1743512784,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53753,
+        "num": 53753,
+        "word": "宋妍霏组 三公第一",
+        "onboard_time": 1743518847,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1169160,
+        "num": 53512,
+        "word": "雷军回应",
+        "onboard_time": 1743517885,
+        "rank": 10,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 188269,
+        "num": 52284,
+        "word": "小米汽车回应",
+        "onboard_time": 1743517885,
+        "rank": 11,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 185949,
+        "num": 51131,
+        "word": "孙子被抢走爷爷一天抽五六盒烟去世",
+        "onboard_time": 1743517584,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87308,
+        "num": 50082,
+        "word": "男子误入洗浴中心女宾区致顾客走光",
+        "onboard_time": 1743516443,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83860,
+        "num": 49206,
+        "word": "任时完取关金秀贤",
+        "onboard_time": 1743516986,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48815,
+        "num": 48815,
+        "word": "雁回时大结局",
+        "onboard_time": 1743501922,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48704,
+        "num": 48704,
+        "word": "王者荣耀",
+        "onboard_time": 1743508403,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45622,
+        "num": 45622,
+        "word": "王嘉尔说没有粉丝自己什么都不是",
+        "onboard_time": 1743530656,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42996,
+        "num": 42996,
+        "word": "马斯克首次公开回应第13个孩子",
+        "onboard_time": 1743516805,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57790,
+        "num": 42987,
+        "word": "医生解读网友关注金秀贤舌头",
+        "onboard_time": 1743513804,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39204,
+        "num": 42967,
+        "word": "何济霆",
+        "onboard_time": 1743520645,
+        "rank": 20,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 37678,
+        "num": 42959,
+        "word": "00后女生大学毕业职业代扫墓",
+        "onboard_time": 1743523702,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37208,
+        "num": 42932,
+        "word": "吴宣仪三公分数",
+        "onboard_time": 1743512304,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35363,
+        "num": 42912,
+        "word": "00后小伙嚼槟榔8年变大方脸",
+        "onboard_time": 1743521663,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34398,
+        "num": 42905,
+        "word": "听潮阁徐来 结婚",
+        "onboard_time": 1743504862,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33089,
+        "num": 42874,
+        "word": "杨超越名下公司被限制高消费",
+        "onboard_time": 1743529996,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33056,
+        "num": 42864,
+        "word": "TFBOYS团站愚人节复活",
+        "onboard_time": 1743520765,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30043,
+        "num": 42846,
+        "word": "台湾当归也必归",
+        "onboard_time": 1743527778,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29306,
+        "num": 42834,
+        "word": "TVB女演员陈思齐摆摊卖鸡爪",
+        "onboard_time": 1743511702,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27806,
+        "num": 42813,
+        "word": "国羽何济霆疑被未婚妻爆料赌球",
+        "onboard_time": 1743510503,
+        "rank": 29,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 32164,
+        "num": 42796,
+        "word": "现在的假睫毛已经发展成纸质了吗",
+        "onboard_time": 1743519505,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 27034,
+        "num": 42776,
+        "word": "真姐夫",
+        "onboard_time": 1743506123,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25758,
+        "num": 42760,
+        "word": "缅甸两女孩废墟里教科书式自救成功",
+        "onboard_time": 1743509963,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25620,
+        "num": 42735,
+        "word": "浪姐6三公结果",
+        "onboard_time": 1743513984,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24791,
+        "num": 42716,
+        "word": "白鹿王星越唐宫奇案吻戏",
+        "onboard_time": 1743523640,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24024,
+        "num": 42698,
+        "word": "鹿晗工怍室",
+        "onboard_time": 1743500302,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12294,
+        "num": 42684,
+        "word": "消费者质疑网红面包店有阴阳价格",
+        "onboard_time": 1743532275,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23770,
+        "num": 42672,
+        "word": "韩国游客喊话张艺兴你的家乡太棒了",
+        "onboard_time": 1743517044,
+        "rank": 37,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 22976,
+        "num": 42652,
+        "word": "多次军演会不会曝光对台战术",
+        "onboard_time": 1743520285,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22573,
+        "num": 42624,
+        "word": "客服回应盒马16.9元一片面包",
+        "onboard_time": 1743518245,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22549,
+        "num": 42623,
+        "word": "中俄对表重要纪念活动",
+        "onboard_time": 1743530895,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22129,
+        "num": 42602,
+        "word": "福建海警闽南语喊话中国台湾巡逻船",
+        "onboard_time": 1743522683,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21628,
+        "num": 42573,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21050,
+        "num": 42571,
+        "word": "女枪庄寒雁",
+        "onboard_time": 1743525320,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20823,
+        "num": 42552,
+        "word": "马丽说沈腾去浪姐她就去",
+        "onboard_time": 1743519387,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20487,
+        "num": 42529,
+        "word": "半熟4体育生杀死了比赛",
+        "onboard_time": 1743518245,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18867,
+        "num": 42506,
+        "word": "jeff是真的 贪也是真的",
+        "onboard_time": 1743531374,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18432,
+        "num": 42484,
+        "word": "金泰亨站姐拍的张婧仪",
+        "onboard_time": 1743522802,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15503,
+        "num": 42474,
+        "word": "古人一只杯子有满满巧思",
+        "onboard_time": 1743527597,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17845,
+        "num": 42455,
+        "word": "金价",
+        "onboard_time": 1743519987,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度总统互致贺电#"
+    }
+  }
+}
