@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743514473108,
+  "endTime": 1743515144363,
   "band_list": [
     {
       "raw_hot": 14691299,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1260017,
+      "num": 580825,
+      "word": "吴宣仪三公分数",
+      "onboard_time": 1743512304,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1258284,
       "num": 1258284,
       "word": "黄旭熙宣布台湾出道",
@@ -169,14 +177,6 @@
       "onboard_time": 1743489204,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1134564,
-      "num": 550681,
-      "word": "吴宣仪三公分数",
-      "onboard_time": 1743512304,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 1131073,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 825264,
+      "num": 459085,
+      "word": "雁回时删了6集",
+      "onboard_time": 1743511164,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 809729,
       "num": 809729,
       "word": "英雄联盟改名大乱斗联盟",
@@ -299,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 714195,
-      "num": 378005,
-      "word": "雁回时删了6集",
-      "onboard_time": 1743511164,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 693434,
+      "num": 693434,
+      "word": "缅甸两女孩废墟里教科书式自救成功",
+      "onboard_time": 1743509963,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 661013,
@@ -321,14 +329,6 @@
       "onboard_time": 1743465921,
       "rank": 16,
       "category": "国际时政,国际时政"
-    },
-    {
-      "raw_hot": 649481,
-      "num": 649481,
-      "word": "缅甸两女孩废墟里教科书式自救成功",
-      "onboard_time": 1743509963,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 624310,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 451597,
-      "num": 322471,
+      "num": 351226,
       "word": "听潮阁徐来 结婚",
       "onboard_time": 1743504862,
       "rank": 18,
@@ -513,6 +513,14 @@
       "onboard_time": 1743487161,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399114,
+      "num": 348592,
+      "word": "TVB女演员陈思齐摆摊卖鸡爪",
+      "onboard_time": 1743511702,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 397259,
@@ -579,14 +587,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 372923,
-      "num": 314393,
-      "word": "TVB女演员陈思齐摆摊卖鸡爪",
-      "onboard_time": 1743511702,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 372177,
       "num": 308547,
       "word": "站姐拍的娜扎张云龙",
@@ -619,6 +619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 357704,
+      "num": 357704,
+      "word": "甲亢哥中国行展现了没有滤镜的中国",
+      "onboard_time": 1743509244,
+      "rank": 32,
+      "category": "国内时政,网红"
+    },
+    {
       "raw_hot": 348299,
       "num": 348299,
       "word": "山姆客服称水果中吃出虫是正常情况",
@@ -643,12 +651,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 346951,
+      "num": 346951,
+      "word": "浪姐6三公结果",
+      "onboard_time": 1743513984,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 346363,
+      "num": 346363,
+      "word": "杜小华提出公布入室抢婴案嫌犯照片",
+      "onboard_time": 1743512724,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346203,
       "num": 346203,
       "word": "人贩子抢走8个月婴儿还顺走奶粉",
       "onboard_time": 1743501083,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338276,
+      "num": 338276,
+      "word": "鹿晗站姐发了双杨cp",
+      "onboard_time": 1743512784,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 334731,
@@ -683,12 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 327274,
-      "num": 327274,
-      "word": "甲亢哥中国行展现了没有滤镜的中国",
-      "onboard_time": 1743509244,
-      "rank": 32,
-      "category": "国内时政,网红"
+      "raw_hot": 326476,
+      "num": 326476,
+      "word": "小米集团市值一天缩水800亿",
+      "onboard_time": 1743514824,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 324205,
@@ -697,14 +729,6 @@
       "onboard_time": 1743478524,
       "rank": 20,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 319652,
-      "num": 296257,
-      "word": "杜小华提出公布入室抢婴案嫌犯照片",
-      "onboard_time": 1743512724,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312382,
@@ -763,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300191,
+      "num": 300191,
+      "word": "女子烧纸引燃9辆车被刑拘",
+      "onboard_time": 1743509782,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297104,
       "num": 297104,
       "word": "成毅站姐做的迪丽热巴贺思慕海报",
@@ -793,14 +825,6 @@
       "onboard_time": 1743496223,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 290525,
-      "num": 290525,
-      "word": "鹿晗站姐发了双杨cp",
-      "onboard_time": 1743512784,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 288461,
@@ -955,12 +979,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 261134,
+      "num": 363844,
+      "word": "黄油与面包回应标价15元收款19元",
+      "onboard_time": 1743507383,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257282,
+      "num": 257282,
+      "word": "王文也",
+      "onboard_time": 1743512245,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255506,
       "num": 357975,
       "word": "缅甸地震2719人遇难",
       "onboard_time": 1743489384,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 253955,
+      "num": 253955,
+      "word": "马丽拿刘耀文当亲儿子",
+      "onboard_time": 1743513383,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 250720,
@@ -1017,14 +1065,6 @@
       "onboard_time": 1743492923,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 238520,
-      "num": 363844,
-      "word": "黄油与面包回应标价15元收款19元",
-      "onboard_time": 1743507383,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 237443,
@@ -1155,20 +1195,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 218967,
-      "num": 218967,
-      "word": "王文也",
-      "onboard_time": 1743512245,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218866,
       "num": 147445,
       "word": "6名员工幸存只有她还埋在废墟下",
       "onboard_time": 1743462318,
       "rank": 31,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 216898,
+      "num": 216898,
+      "word": "医生解读网友关注金秀贤舌头",
+      "onboard_time": 1743513804,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 216570,
@@ -1201,14 +1241,6 @@
       "onboard_time": 1743500302,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210865,
-      "num": 210865,
-      "word": "浪姐6三公结果",
-      "onboard_time": 1743513984,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 210343,
@@ -1339,14 +1371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198539,
-      "num": 198539,
-      "word": "马丽拿刘耀文当亲儿子",
-      "onboard_time": 1743513383,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198088,
       "num": 307825,
       "word": "国际乒联回顾孙颖莎夺冠历程",
@@ -1443,6 +1467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185580,
+      "num": 355094,
+      "word": "入室抢婴案4名被告均有前科",
+      "onboard_time": 1743514884,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185319,
       "num": 185319,
       "word": "好房子的新标准来了",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1743503662,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 180577,
+      "num": 180577,
+      "word": "国羽何济霆疑被未婚妻爆料赌球",
+      "onboard_time": 1743510503,
+      "rank": 36,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 179959,
@@ -1587,14 +1627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173232,
-      "num": 173232,
-      "word": "国羽何济霆疑被未婚妻爆料赌球",
-      "onboard_time": 1743510503,
-      "rank": 36,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 172739,
       "num": 149275,
       "word": "男子肝癌晚期只打一针获新生",
@@ -1643,12 +1675,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170142,
-      "num": 170142,
-      "word": "女子烧纸引燃9辆车被刑拘",
-      "onboard_time": 1743509782,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 170929,
+      "num": 170929,
+      "word": "当普通人第一次去吃和平饭店",
+      "onboard_time": 1743513024,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 169748,
@@ -1699,14 +1731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162702,
-      "num": 162702,
-      "word": "医生解读网友关注金秀贤舌头",
-      "onboard_time": 1743513804,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162502,
       "num": 324520,
       "word": "被抢男婴长大后出庭直面人贩",
@@ -1755,12 +1779,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159163,
+      "num": 159163,
+      "word": "音律设定",
+      "onboard_time": 1743514884,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 158259,
       "num": 158259,
       "word": "CBA技术台骂人",
       "onboard_time": 1743469523,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157571,
+      "num": 157571,
+      "word": "唐嫣说一日为师终身为师",
+      "onboard_time": 1743513746,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 156356,
@@ -1827,22 +1867,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 152012,
-      "num": 152012,
-      "word": "当普通人第一次去吃和平饭店",
-      "onboard_time": 1743513024,
-      "rank": 37,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 152010,
-      "num": 152010,
-      "word": "唐嫣说一日为师终身为师",
-      "onboard_time": 1743513746,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151794,
       "num": 201066,
       "word": "鄱阳湖退水大量鱼搁浅",
@@ -1872,6 +1896,14 @@
       "word": "悉尼妹分手",
       "onboard_time": 1743491303,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148545,
+      "num": 148545,
+      "word": "林依晨夫妇新婚时期旧照",
+      "onboard_time": 1743512363,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1987,6 +2019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140021,
+      "num": 140021,
+      "word": "被陈哲远耍了",
+      "onboard_time": 1743513922,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139924,
       "num": 203120,
       "word": "齐司礼之恋",
@@ -2025,14 +2065,6 @@
       "onboard_time": 1743499822,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137858,
-      "num": 137858,
-      "word": "林依晨夫妇新婚时期旧照",
-      "onboard_time": 1743512363,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 137763,
@@ -2172,7 +2204,7 @@
     },
     {
       "raw_hot": 130390,
-      "num": 170794,
+      "num": 176653,
       "word": "吉利银河3月销量暴增290%",
       "onboard_time": 1743512603,
       "rank": 49,
@@ -2240,14 +2272,6 @@
       "word": "孙千替我去了失约的布达拉宫",
       "onboard_time": 1743509542,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 125271,
-      "num": 125271,
-      "word": "被陈哲远耍了",
-      "onboard_time": 1743513922,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -2331,6 +2355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119328,
+      "num": 119328,
+      "word": "乔杨医生do脸也渡人",
+      "onboard_time": 1743515064,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118792,
       "num": 118792,
       "word": "丁程鑫时代峰峻最不真实的地方",
@@ -2385,6 +2417,14 @@
       "onboard_time": 1743492323,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116424,
+      "num": 116424,
+      "word": "第42届中国洛阳牡丹文化节开幕",
+      "onboard_time": 1743515064,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 116174,
@@ -3060,7 +3100,7 @@
     },
     {
       "raw_hot": 35520,
-      "num": 552987,
+      "num": 584819,
       "word": "春天是藏在公园的诗情画意",
       "onboard_time": 1743512724,
       "rank": 2,
