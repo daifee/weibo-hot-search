@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743511798061,
+  "endTime": 1743512681245,
   "band_list": [
     {
       "raw_hot": 14691299,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1804535,
+      "num": 1804535,
+      "word": "真姐夫",
+      "onboard_time": 1743506123,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1785432,
       "num": 1785432,
       "word": "央视入股爱奇艺",
@@ -289,14 +297,6 @@
       "onboard_time": 1743406882,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1584542,
-      "num": 1584542,
-      "word": "真姐夫",
-      "onboard_time": 1743506123,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 1521569,
@@ -1212,7 +1212,7 @@
     },
     {
       "raw_hot": 554934,
-      "num": 391079,
+      "num": 404454,
       "word": "Songha公开",
       "onboard_time": 1743507563,
       "rank": 7,
@@ -1321,6 +1321,14 @@
       "onboard_time": 1743475822,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 516600,
+      "num": 516600,
+      "word": "缅甸两女孩废墟里教科书式自救成功",
+      "onboard_time": 1743509963,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 512635,
@@ -1867,6 +1875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 382244,
+      "num": 363608,
+      "word": "值得爱定档",
+      "onboard_time": 1743510744,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378011,
       "num": 378011,
       "word": "金饰价格涨到953元",
@@ -1889,14 +1905,6 @@
       "onboard_time": 1743495744,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 373903,
-      "num": 373903,
-      "word": "缅甸两女孩废墟里教科书式自救成功",
-      "onboard_time": 1743509963,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 372177,
@@ -1977,6 +1985,14 @@
       "onboard_time": 1743429204,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 359334,
+      "num": 359334,
+      "word": "蓝莓包",
+      "onboard_time": 1743508585,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 355958,
@@ -2387,6 +2403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299418,
+      "num": 299418,
+      "word": "TVB女演员陈思齐摆摊卖鸡爪",
+      "onboard_time": 1743511702,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297104,
       "num": 297104,
       "word": "成毅站姐做的迪丽热巴贺思慕海报",
@@ -2441,14 +2465,6 @@
       "onboard_time": 1743348921,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 291729,
-      "num": 291729,
-      "word": "蓝莓包",
-      "onboard_time": 1743508585,
-      "rank": 13,
-      "category": "美食"
     },
     {
       "raw_hot": 291223,
@@ -3003,14 +3019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243907,
-      "num": 243907,
-      "word": "TVB女演员陈思齐摆摊卖鸡爪",
-      "onboard_time": 1743511702,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243465,
       "num": 276317,
       "word": "黄小蕾新剧螳螂女",
@@ -3073,6 +3081,14 @@
       "onboard_time": 1743337882,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 237443,
+      "num": 248997,
+      "word": "首饰金价已接近千元心理线",
+      "onboard_time": 1743506064,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 236920,
@@ -3145,14 +3161,6 @@
       "onboard_time": 1743421164,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 230997,
-      "num": 248997,
-      "word": "首饰金价已接近千元心理线",
-      "onboard_time": 1743506064,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 230506,
@@ -3523,6 +3531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209410,
+      "num": 209410,
+      "word": "Nicholas首位公开",
+      "onboard_time": 1743511462,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209100,
       "num": 209100,
       "word": "金价大涨三大原因",
@@ -3561,14 +3577,6 @@
       "onboard_time": 1743326722,
       "rank": 38,
       "category": "互联网,演出"
-    },
-    {
-      "raw_hot": 208159,
-      "num": 208159,
-      "word": "值得爱定档",
-      "onboard_time": 1743510744,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 208069,
@@ -3761,6 +3769,14 @@
       "onboard_time": 1743330141,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200708,
+      "num": 200708,
+      "word": "吴宣仪三公分数",
+      "onboard_time": 1743512304,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 200641,
@@ -4131,6 +4147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187121,
+      "num": 187121,
+      "word": "PsyP发diss",
+      "onboard_time": 1743511343,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187100,
       "num": 259532,
       "word": "男子篡改好友专升本志愿致其落榜获刑",
@@ -4177,6 +4201,14 @@
       "onboard_time": 1743409344,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185253,
+      "num": 363844,
+      "word": "黄油与面包回应标价15元收款19元",
+      "onboard_time": 1743507383,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185004,
@@ -4297,6 +4329,14 @@
       "onboard_time": 1743418281,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181766,
+      "num": 181766,
+      "word": "甲亢哥中国行展现了没有滤镜的中国",
+      "onboard_time": 1743509244,
+      "rank": 32,
+      "category": "国内时政,网红"
     },
     {
       "raw_hot": 181656,
@@ -4729,14 +4769,6 @@
       "onboard_time": 1743424283,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 167054,
-      "num": 167054,
-      "word": "黄油与面包回应标价15元收款19元",
-      "onboard_time": 1743507383,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166310,
@@ -5395,22 +5427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149509,
-      "num": 142781,
-      "word": "甲亢哥中国行展现了没有滤镜的中国",
-      "onboard_time": 1743509244,
-      "rank": 32,
-      "category": "国内时政,网红"
-    },
-    {
-      "raw_hot": 149344,
-      "num": 149344,
-      "word": "PsyP发diss",
-      "onboard_time": 1743511343,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 148874,
       "num": 148874,
       "word": "2025国家助学贷款免息",
@@ -5473,6 +5489,14 @@
       "onboard_time": 1743341123,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147528,
+      "num": 370768,
+      "word": "外交部回应市场监管总局审查长和港口交易",
+      "onboard_time": 1743510384,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 147110,
@@ -5899,6 +5923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137858,
+      "num": 137858,
+      "word": "林依晨夫妇新婚时期旧照",
+      "onboard_time": 1743512363,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137780,
       "num": 137780,
       "word": "虞书欣说新剧的演戏方式和以前不一样",
@@ -5953,14 +5985,6 @@
       "onboard_time": 1743410545,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136774,
-      "num": 136774,
-      "word": "Nicholas首位公开",
-      "onboard_time": 1743511462,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 136661,
@@ -6251,6 +6275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132433,
+      "num": 132433,
+      "word": "女子烧纸引燃9辆车被刑拘",
+      "onboard_time": 1743509782,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132303,
       "num": 132303,
       "word": "张小婉送给管乐的礼物是来时路照片",
@@ -6264,6 +6296,14 @@
       "word": "徐梦桃夺银",
       "onboard_time": 1743345563,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131941,
+      "num": 189188,
+      "word": "樊振东用乒乓球拍投篮7中4",
+      "onboard_time": 1743511462,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -6459,6 +6499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125748,
+      "num": 125748,
+      "word": "王文也",
+      "onboard_time": 1743512245,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125710,
       "num": 125710,
       "word": "站姐团建 经典回味",
@@ -6473,6 +6521,14 @@
       "onboard_time": 1743488603,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125551,
+      "num": 125551,
+      "word": "孙千替我去了失约的布达拉宫",
+      "onboard_time": 1743509542,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 125465,
@@ -6537,6 +6593,14 @@
       "onboard_time": 1743416723,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 124199,
+      "num": 124199,
+      "word": "国羽何济霆疑被未婚妻爆料赌球",
+      "onboard_time": 1743510503,
+      "rank": 36,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 124062,
@@ -6643,6 +6707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121578,
+      "num": 121578,
+      "word": "李嘉琦浪姐挑染脏辫造型",
+      "onboard_time": 1743511402,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121479,
       "num": 121479,
       "word": "缅甸首都路面裂缝有一米宽",
@@ -6705,14 +6777,6 @@
       "onboard_time": 1743410725,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 120528,
-      "num": 120528,
-      "word": "国羽何济霆疑被未婚妻爆料赌球",
-      "onboard_time": 1743510503,
-      "rank": 36,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 120474,
@@ -6929,14 +6993,6 @@
       "onboard_time": 1743389240,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 114290,
-      "num": 114290,
-      "word": "孙千替我去了失约的布达拉宫",
-      "onboard_time": 1743509542,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 114084,
@@ -7169,14 +7225,6 @@
       "onboard_time": 1743424524,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108382,
-      "num": 370768,
-      "word": "外交部回应市场监管总局审查长和港口交易",
-      "onboard_time": 1743510384,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 108091,
@@ -7435,22 +7483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 102145,
-      "num": 102145,
-      "word": "李嘉琦浪姐挑染脏辫造型",
-      "onboard_time": 1743511402,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 101940,
-      "num": 101940,
-      "word": "樊振东用乒乓球拍投篮7中4",
-      "onboard_time": 1743511462,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 101593,
       "num": 101593,
       "word": "想听女朋友说什么就自己剪",
@@ -7537,14 +7569,6 @@
       "onboard_time": 1743330861,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99865,
-      "num": 99865,
-      "word": "女子烧纸引燃9辆车被刑拘",
-      "onboard_time": 1743509782,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99572,
@@ -8067,6 +8091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79200,
+      "num": 90388,
+      "word": "吉利银河3月销量暴增290%",
+      "onboard_time": 1743512603,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 78510,
       "num": 78510,
       "word": "张桂源养狗了",
@@ -8457,6 +8489,14 @@
       "onboard_time": 1743283154,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 61404,
+      "num": 324520,
+      "word": "被抢男婴长大后出庭直面人贩",
+      "onboard_time": 1743512003,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61295,
@@ -9792,6 +9832,14 @@
       "word": "故宫红墙黄瓦映春日新绿",
       "onboard_time": 1743366793,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5690,
+      "num": 490498,
+      "word": "健全社会信用体系23条公布",
+      "onboard_time": 1743512544,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
