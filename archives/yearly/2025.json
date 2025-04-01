@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743472941130,
+  "endTime": 1743474323395,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1131,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4078541,
+      "num": 5157082,
+      "word": "东部战区进逼",
+      "onboard_time": 1743465321,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 4071194,
       "num": 4071194,
       "word": "护舒宝声明",
@@ -1273,14 +1281,6 @@
       "onboard_time": 1738813524,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 3701138,
-      "num": 4402276,
-      "word": "东部战区进逼",
-      "onboard_time": 1743465321,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 3690143,

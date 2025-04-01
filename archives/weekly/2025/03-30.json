@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743472941130,
+  "endTime": 1743474323395,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3701138,
-      "num": 4402276,
+      "raw_hot": 4078541,
+      "num": 5157082,
       "word": "东部战区进逼",
       "onboard_time": 1743465321,
       "rank": 0,
@@ -139,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1842360,
+      "num": 544340,
+      "word": "愚人节",
+      "onboard_time": 1743464480,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1785432,
       "num": 1785432,
       "word": "央视入股爱奇艺",
@@ -169,14 +177,6 @@
       "onboard_time": 1743344963,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1713566,
-      "num": 544340,
-      "word": "愚人节",
-      "onboard_time": 1743464480,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1690705,
@@ -363,8 +363,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1040725,
-      "num": 1040725,
+      "raw_hot": 1043042,
+      "num": 1043042,
       "word": "台湾",
       "onboard_time": 1743471503,
       "rank": 1,
@@ -449,6 +449,14 @@
       "onboard_time": 1743431003,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 945444,
+      "num": 945444,
+      "word": "小米回应SU7高速上碰撞爆燃",
+      "onboard_time": 1743473781,
+      "rank": 3,
+      "category": "舆论监督,汽车"
     },
     {
       "raw_hot": 932582,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 743778,
+      "num": 553002,
+      "word": "张国荣",
+      "onboard_time": 1743465921,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 742816,
       "num": 742816,
       "word": "缅甸地震脚筋断裂被救女子发声",
@@ -667,14 +683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 722155,
-      "num": 534909,
-      "word": "张国荣",
-      "onboard_time": 1743465921,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 717168,
       "num": 163648,
       "word": "2024的愚人节勇士站姐",
@@ -737,6 +745,14 @@
       "onboard_time": 1743344303,
       "rank": 8,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 661013,
+      "num": 553466,
+      "word": "唐鹤德 谁能代替你地位",
+      "onboard_time": 1743467783,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 655659,
@@ -993,14 +1009,6 @@
       "onboard_time": 1743259944,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 553466,
-      "num": 553466,
-      "word": "唐鹤德 谁能代替你地位",
-      "onboard_time": 1743467783,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 553450,
@@ -1283,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440685,
+      "num": 440685,
+      "word": "解放军台岛周边开展联合演训",
+      "onboard_time": 1743464240,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 436486,
       "num": 436486,
       "word": "雁回时",
@@ -1321,14 +1337,6 @@
       "onboard_time": 1743377840,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 431297,
-      "num": 431297,
-      "word": "解放军台岛周边开展联合演训",
-      "onboard_time": 1743464240,
-      "rank": 11,
-      "category": "国内时政"
     },
     {
       "raw_hot": 426522,
@@ -1947,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297104,
+      "num": 297104,
+      "word": "成毅站姐做的迪丽热巴贺思慕海报",
+      "onboard_time": 1743465742,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296891,
       "num": 296891,
       "word": "在单位上班一定要沉得住气",
@@ -1977,14 +1993,6 @@
       "onboard_time": 1743348921,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 292330,
-      "num": 292330,
-      "word": "成毅站姐做的迪丽热巴贺思慕海报",
-      "onboard_time": 1743465742,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 291223,
@@ -2243,19 +2251,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263673,
+      "num": 332102,
+      "word": "罗渽民站姐发了19年星光大赏的鹿晗",
+      "onboard_time": 1743472161,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261204,
       "num": 243427,
       "word": "王一博发烧了",
       "onboard_time": 1743293299,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 259087,
-      "num": 259087,
-      "word": "罗渽民站姐发了19年星光大赏的鹿晗",
-      "onboard_time": 1743472161,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -2313,6 +2321,14 @@
       "onboard_time": 1743416723,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 250720,
+      "num": 250720,
+      "word": "他唯一吃过的苦就是淋这场雨",
+      "onboard_time": 1743471321,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 249942,
@@ -2537,6 +2553,14 @@
       "onboard_time": 1743427703,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224951,
+      "num": 331999,
+      "word": "各家站姐拍的张凌赫",
+      "onboard_time": 1743470483,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 224926,
@@ -2963,14 +2987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197483,
-      "num": 197483,
-      "word": "他唯一吃过的苦就是淋这场雨",
-      "onboard_time": 1743471321,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 197349,
       "num": 254135,
       "word": "优时颜 马柏全张康乐",
@@ -3001,14 +3017,6 @@
       "onboard_time": 1743341662,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195414,
-      "num": 195414,
-      "word": "各家站姐拍的张凌赫",
-      "onboard_time": 1743470483,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 195228,
@@ -3057,6 +3065,14 @@
       "onboard_time": 1743391521,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 193174,
+      "num": 193174,
+      "word": "影视剧难哄",
+      "onboard_time": 1743474021,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 193084,
@@ -3220,7 +3236,7 @@
     },
     {
       "raw_hot": 184373,
-      "num": 184373,
+      "num": 331948,
       "word": "四月第一天",
       "onboard_time": 1743472581,
       "rank": 31,
@@ -3859,6 +3875,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 158259,
+      "num": 158259,
+      "word": "CBA技术台骂人",
+      "onboard_time": 1743469523,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158191,
+      "num": 158191,
+      "word": "呼叫81192",
+      "onboard_time": 1743464300,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 158069,
       "num": 158069,
       "word": "刘端端念无双插曲飒MV",
@@ -4179,6 +4211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146187,
+      "num": 178707,
+      "word": "短发张艺凡",
+      "onboard_time": 1743472762,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146023,
       "num": 146023,
       "word": "Faye曼谷见面会",
@@ -4323,6 +4363,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 143504,
+      "num": 143504,
+      "word": "欣欣和她的男主们",
+      "onboard_time": 1743473361,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143483,
       "num": 154036,
       "word": "一不小心闯入现实版莫奈花园",
@@ -4457,14 +4505,6 @@
       "onboard_time": 1743423923,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138672,
-      "num": 138672,
-      "word": "CBA技术台骂人",
-      "onboard_time": 1743469523,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 138671,
@@ -4915,6 +4955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125710,
+      "num": 125710,
+      "word": "站姐团建 经典回味",
+      "onboard_time": 1743472942,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125465,
       "num": 138147,
       "word": "甲亢哥高铁全程2K直播不掉线",
@@ -5291,14 +5339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 114234,
-      "num": 114234,
-      "word": "呼叫81192",
-      "onboard_time": 1743464300,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 114084,
       "num": 114084,
       "word": "苹果被曝正在开发AI医生",
@@ -5353,14 +5393,6 @@
       "onboard_time": 1743434362,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 113010,
-      "num": 113010,
-      "word": "短发张艺凡",
-      "onboard_time": 1743472762,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 112119,
@@ -5731,6 +5763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 101422,
+      "num": 101422,
+      "word": "人民海军76周年",
+      "onboard_time": 1743464480,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 101169,
       "num": 151362,
       "word": "詹姆斯42000分",
@@ -5777,6 +5817,14 @@
       "onboard_time": 1743332422,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100110,
+      "num": 100110,
+      "word": "第五人格",
+      "onboard_time": 1743474142,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 100003,
@@ -5851,6 +5899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97549,
+      "num": 434097,
+      "word": "国台办谈解放军联合演训",
+      "onboard_time": 1743471922,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 97192,
       "num": 97192,
       "word": "丁程鑫孩子静悄悄必定在作妖",
@@ -5889,6 +5945,14 @@
       "onboard_time": 1743333861,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 96435,
+      "num": 96435,
+      "word": "杨博文站姐发了TFBOYS",
+      "onboard_time": 1743474261,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 96322,
@@ -6395,6 +6459,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 67160,
+      "num": 989775,
+      "word": "中国园林有朵石做的云",
+      "onboard_time": 1743426743,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67005,
       "num": 287123,
       "word": "一万种春天",
@@ -6441,14 +6513,6 @@
       "onboard_time": 1743438142,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65316,
-      "num": 902385,
-      "word": "中国园林有朵石做的云",
-      "onboard_time": 1743426743,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65236,
@@ -6681,14 +6745,6 @@
       "onboard_time": 1743458534,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54048,
-      "num": 434097,
-      "word": "国台办谈解放军联合演训",
-      "onboard_time": 1743471922,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 53984,
