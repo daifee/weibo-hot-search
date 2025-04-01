@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743486105841,
+  "endTime": 1743489341665,
   "band_list": [
     {
       "raw_hot": 12282801,
@@ -299,6 +299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1342089,
+      "num": 1342089,
+      "word": "这不是愚人节 这是情人节",
+      "onboard_time": 1743483627,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1304138,
       "num": 1304138,
       "word": "王星回应是否会与嘉嘉结婚",
@@ -368,6 +376,14 @@
       "word": "站姐愚人节团建预告",
       "onboard_time": 1743425964,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1122204,
+      "num": 562755,
+      "word": "黄旭熙宣布台湾出道",
+      "onboard_time": 1743486742,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -851,14 +867,6 @@
       "category": "国际时政,国际时政"
     },
     {
-      "raw_hot": 647696,
-      "num": 647696,
-      "word": "这不是愚人节 这是情人节",
-      "onboard_time": 1743483627,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 643588,
       "num": 327475,
       "word": "赵露思穿了手艺人爷爷做的鞋",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1743318620,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 527118,
+      "num": 527118,
+      "word": "北京骑手回应缴五险一金后月收入",
+      "onboard_time": 1743486742,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 526330,
@@ -2235,6 +2251,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 285749,
+      "num": 285749,
+      "word": "10元盒饭姐因浪费气得不想出摊",
+      "onboard_time": 1743487161,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284587,
       "num": 284587,
       "word": "爱思 点菜",
@@ -2272,6 +2296,14 @@
       "word": "这届年轻人大大方方省了很多钱",
       "onboard_time": 1743479064,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281953,
+      "num": 281953,
+      "word": "夫妻自如租房5年妻子多项指标异常",
+      "onboard_time": 1743485905,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -2659,6 +2691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242874,
+      "num": 242874,
+      "word": "公摊面积最大的蔬菜",
+      "onboard_time": 1743485905,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242821,
       "num": 242821,
       "word": "杨紫张挺 合作",
@@ -2817,14 +2857,6 @@
       "onboard_time": 1743409885,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226889,
-      "num": 187887,
-      "word": "公摊面积最大的蔬菜",
-      "onboard_time": 1743485905,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 226778,
@@ -3475,6 +3507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 193273,
+      "num": 201039,
+      "word": "赴山海",
+      "onboard_time": 1743485063,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193174,
       "num": 193174,
       "word": "影视剧难哄",
@@ -3489,6 +3529,14 @@
       "onboard_time": 1743415882,
       "rank": 14,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 193023,
+      "num": 193023,
+      "word": "中国救援队员枕着路基睡着了",
+      "onboard_time": 1743486382,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 192942,
@@ -3563,6 +3611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189019,
+      "num": 194113,
+      "word": "天赐的声音6首录直播",
+      "onboard_time": 1743487764,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188125,
       "num": 188125,
       "word": "张佳宁新剧纯恨女主",
@@ -3593,14 +3649,6 @@
       "onboard_time": 1743426382,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187042,
-      "num": 196063,
-      "word": "赴山海",
-      "onboard_time": 1743485063,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 186957,
@@ -3827,6 +3875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177093,
+      "num": 177093,
+      "word": "蓝莓便宜了",
+      "onboard_time": 1743487944,
+      "rank": 31,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 177036,
       "num": 221084,
       "word": "王安冉孕期被婆婆多次辱骂",
@@ -3849,6 +3905,14 @@
       "onboard_time": 1743420501,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175725,
+      "num": 175725,
+      "word": "烟霄昀散",
+      "onboard_time": 1743485723,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 175414,
@@ -4040,14 +4104,6 @@
       "word": "李昀锐四月三个商务拍摄",
       "onboard_time": 1743390860,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 168602,
-      "num": 168602,
-      "word": "烟霄昀散",
-      "onboard_time": 1743485723,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -4627,16 +4683,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151610,
-      "num": 151610,
-      "word": "夫妻自如租房5年妻子多项指标异常",
-      "onboard_time": 1743485905,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151301,
-      "num": 151301,
+      "num": 203898,
       "word": "小乔秘证寻踪新皮肤",
       "onboard_time": 1743485184,
       "rank": 43,
@@ -4649,6 +4697,14 @@
       "onboard_time": 1743345263,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150793,
+      "num": 150793,
+      "word": "徐正溪站姐拍的迪丽热巴",
+      "onboard_time": 1743488963,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 150760,
@@ -4763,12 +4819,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146479,
+      "num": 146479,
+      "word": "贺峻霖站姐拍的杨紫",
+      "onboard_time": 1743487284,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146187,
       "num": 178707,
       "word": "短发张艺凡",
       "onboard_time": 1743472762,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146100,
+      "num": 146100,
+      "word": "洪小铃孕肚照",
+      "onboard_time": 1743489204,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 146023,
@@ -5083,6 +5155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138872,
+      "num": 273928,
+      "word": "杨幂卡点发文和蜜蜂庆生",
+      "onboard_time": 1743485243,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138671,
       "num": 138671,
       "word": "原神",
@@ -5113,6 +5193,14 @@
       "onboard_time": 1743315380,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137763,
+      "num": 137763,
+      "word": "EXO将进行13周年直播",
+      "onboard_time": 1743486203,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 137597,
@@ -5185,6 +5273,14 @@
       "onboard_time": 1743391460,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136228,
+      "num": 136228,
+      "word": "于正晒娜扎剧照",
+      "onboard_time": 1743486862,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 136051,
@@ -5288,6 +5384,22 @@
       "word": "孟子义四月行程图",
       "onboard_time": 1743399380,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134787,
+      "num": 134787,
+      "word": "内娱站姐发的权志龙",
+      "onboard_time": 1743487403,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134730,
+      "num": 234341,
+      "word": "EXO出道13周年直播预告",
+      "onboard_time": 1743488963,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -5451,6 +5563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129900,
+      "num": 193289,
+      "word": "小米集团午后跌超4%",
+      "onboard_time": 1743489204,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129737,
       "num": 129737,
       "word": "姚晨新剧上来就美我一大跳",
@@ -5571,6 +5691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125668,
+      "num": 125668,
+      "word": "终于有人把装修讲明白了",
+      "onboard_time": 1743488603,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125465,
       "num": 138147,
       "word": "甲亢哥高铁全程2K直播不掉线",
@@ -5625,6 +5753,14 @@
       "onboard_time": 1743429804,
       "rank": 29,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 123918,
+      "num": 123918,
+      "word": "各家站姐分享的迪丽热巴",
+      "onboard_time": 1743489323,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 123848,
@@ -6283,6 +6419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104566,
+      "num": 145831,
+      "word": "现场感受海军舰艇围岛进逼压迫感",
+      "onboard_time": 1743489084,
+      "rank": 39,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 104361,
       "num": 201548,
       "word": "张本美和世界排名升至第五",
@@ -6497,6 +6641,14 @@
       "onboard_time": 1743306810,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98929,
+      "num": 193109,
+      "word": "尹锡悦核心亲信被调查期间身亡",
+      "onboard_time": 1743486564,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98907,
@@ -7211,14 +7363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 64720,
-      "num": 273928,
-      "word": "杨幂卡点发文和蜜蜂庆生",
-      "onboard_time": 1743485243,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64674,
       "num": 100755,
       "word": "乌克兰计划组建太空部队",
@@ -7585,6 +7729,14 @@
       "onboard_time": 1743347124,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48508,
+      "num": 286922,
+      "word": "三舰齐呼81192让人泪目",
+      "onboard_time": 1743484104,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48415,
@@ -8491,6 +8643,9 @@
     },
     {
       "word": "#2025是推进巡视全覆盖的关键一年#"
+    },
+    {
+      "word": "#科技强则国家强#"
     }
   ]
 }

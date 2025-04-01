@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743486105841,
+  "endTime": 1743489341665,
   "band_list": [
     {
       "raw_hot": 11838630,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1342089,
+      "num": 1342089,
+      "word": "这不是愚人节 这是情人节",
+      "onboard_time": 1743483627,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1296635,
       "num": 328791,
       "word": "张艺凡瘦成这样",
@@ -104,6 +112,14 @@
       "word": "站姐愚人节团建预告",
       "onboard_time": 1743425964,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1122204,
+      "num": 562755,
+      "word": "黄旭熙宣布台湾出道",
+      "onboard_time": 1743486742,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -203,14 +219,6 @@
       "category": "国际时政,国际时政"
     },
     {
-      "raw_hot": 647696,
-      "num": 647696,
-      "word": "这不是愚人节 这是情人节",
-      "onboard_time": 1743483627,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 624310,
       "num": 400709,
       "word": "邓为站姐发了fx",
@@ -249,6 +257,14 @@
       "onboard_time": 1743404000,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 527118,
+      "num": 527118,
+      "word": "北京骑手回应缴五险一金后月收入",
+      "onboard_time": 1743486742,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 519490,
@@ -491,11 +507,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 285749,
+      "num": 285749,
+      "word": "10元盒饭姐因浪费气得不想出摊",
+      "onboard_time": 1743487161,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282611,
       "num": 282611,
       "word": "这届年轻人大大方方省了很多钱",
       "onboard_time": 1743479064,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281953,
+      "num": 281953,
+      "word": "夫妻自如租房5年妻子多项指标异常",
+      "onboard_time": 1743485905,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -587,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242874,
+      "num": 242874,
+      "word": "公摊面积最大的蔬菜",
+      "onboard_time": 1743485905,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239667,
       "num": 315691,
       "word": "你敲了五声我听见了",
@@ -625,14 +665,6 @@
       "onboard_time": 1743477443,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 226889,
-      "num": 187887,
-      "word": "公摊面积最大的蔬菜",
-      "onboard_time": 1743485905,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 225853,
@@ -779,12 +811,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193273,
+      "num": 201039,
+      "word": "赴山海",
+      "onboard_time": 1743485063,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193174,
       "num": 193174,
       "word": "影视剧难哄",
       "onboard_time": 1743474021,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193023,
+      "num": 193023,
+      "word": "中国救援队员枕着路基睡着了",
+      "onboard_time": 1743486382,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 192906,
@@ -795,20 +843,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189019,
+      "num": 194113,
+      "word": "天赐的声音6首录直播",
+      "onboard_time": 1743487764,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187662,
       "num": 276703,
       "word": "一个好演员眼睛也是会说话的",
       "onboard_time": 1743484763,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187042,
-      "num": 196063,
-      "word": "赴山海",
-      "onboard_time": 1743485063,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 185319,
@@ -859,11 +907,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177093,
+      "num": 177093,
+      "word": "蓝莓便宜了",
+      "onboard_time": 1743487944,
+      "rank": 31,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 176710,
       "num": 193451,
       "word": "站姐团建发的85花",
       "onboard_time": 1743470842,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175725,
+      "num": 175725,
+      "word": "烟霄昀散",
+      "onboard_time": 1743485723,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -913,14 +977,6 @@
       "onboard_time": 1743484464,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168602,
-      "num": 168602,
-      "word": "烟霄昀散",
-      "onboard_time": 1743485723,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 167557,
@@ -1011,20 +1067,28 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 151610,
-      "num": 151610,
-      "word": "夫妻自如租房5年妻子多项指标异常",
-      "onboard_time": 1743485905,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151301,
-      "num": 151301,
+      "num": 203898,
       "word": "小乔秘证寻踪新皮肤",
       "onboard_time": 1743485184,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150793,
+      "num": 150793,
+      "word": "徐正溪站姐拍的迪丽热巴",
+      "onboard_time": 1743488963,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146479,
+      "num": 146479,
+      "word": "贺峻霖站姐拍的杨紫",
+      "onboard_time": 1743487284,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 146187,
@@ -1033,6 +1097,14 @@
       "onboard_time": 1743472762,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146100,
+      "num": 146100,
+      "word": "洪小铃孕肚照",
+      "onboard_time": 1743489204,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 144019,
@@ -1091,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138872,
+      "num": 273928,
+      "word": "杨幂卡点发文和蜜蜂庆生",
+      "onboard_time": 1743485243,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138487,
       "num": 138487,
       "word": "明日方舟",
@@ -1105,6 +1185,22 @@
       "onboard_time": 1743439341,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137763,
+      "num": 137763,
+      "word": "EXO将进行13周年直播",
+      "onboard_time": 1743486203,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136228,
+      "num": 136228,
+      "word": "于正晒娜扎剧照",
+      "onboard_time": 1743486862,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 135911,
@@ -1128,6 +1224,22 @@
       "word": "张真源站姐拍的许嵩",
       "onboard_time": 1743475161,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134787,
+      "num": 134787,
+      "word": "内娱站姐发的权志龙",
+      "onboard_time": 1743487403,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134730,
+      "num": 234341,
+      "word": "EXO出道13周年直播预告",
+      "onboard_time": 1743488963,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1155,6 +1267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129900,
+      "num": 193289,
+      "word": "小米集团午后跌超4%",
+      "onboard_time": 1743489204,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128860,
       "num": 325258,
       "word": "做堂堂正正的中国人",
@@ -1168,6 +1288,22 @@
       "word": "站姐团建 经典回味",
       "onboard_time": 1743472942,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125668,
+      "num": 125668,
+      "word": "终于有人把装修讲明白了",
+      "onboard_time": 1743488603,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 123918,
+      "num": 123918,
+      "word": "各家站姐分享的迪丽热巴",
+      "onboard_time": 1743489323,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1283,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104566,
+      "num": 145831,
+      "word": "现场感受海军舰艇围岛进逼压迫感",
+      "onboard_time": 1743489084,
+      "rank": 39,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 101422,
       "num": 101422,
       "word": "人民海军76周年",
@@ -1313,6 +1457,14 @@
       "onboard_time": 1743474142,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98929,
+      "num": 193109,
+      "word": "尹锡悦核心亲信被调查期间身亡",
+      "onboard_time": 1743486564,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98896,
@@ -1507,14 +1659,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 64720,
-      "num": 273928,
-      "word": "杨幂卡点发文和蜜蜂庆生",
-      "onboard_time": 1743485243,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64298,
       "num": 324391,
       "word": "帮助劫匪逃脱警方追捕的法律后果",
@@ -1641,6 +1785,14 @@
       "onboard_time": 1743450734,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48508,
+      "num": 286922,
+      "word": "三舰齐呼81192让人泪目",
+      "onboard_time": 1743484104,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48415,
@@ -1817,6 +1969,9 @@
     },
     {
       "word": "#2025是推进巡视全覆盖的关键一年#"
+    },
+    {
+      "word": "#科技强则国家强#"
     }
   ]
 }
