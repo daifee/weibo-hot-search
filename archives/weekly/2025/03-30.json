@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743535238147,
+  "endTime": 1743536176696,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -10433,6 +10433,14 @@
       "onboard_time": 1743363195,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12221,
+      "num": 31624,
+      "word": "外交部回应解放军联合演训",
+      "onboard_time": 1743535333,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11648,
