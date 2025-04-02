@@ -1,0 +1,410 @@
+{
+  "runTime": 1743575639614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1190883,
+        "num": 1190883,
+        "word": "东部战区海报毁瘫",
+        "onboard_time": 1743562582,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 724565,
+        "num": 724565,
+        "word": "省考成绩",
+        "onboard_time": 1743569963,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 25606,
+        "num": 626136,
+        "word": "春天是藏在公园的诗情画意",
+        "onboard_time": 1743512724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2698485,
+        "num": 621750,
+        "word": "爷爷为夺回孙子被人贩踩出眼珠",
+        "onboard_time": 1743570086,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590444,
+        "num": 590444,
+        "word": "和分手六年的前任破镜重圆了",
+        "onboard_time": 1743571341,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520184,
+        "num": 520184,
+        "word": "孟子义李昀锐合体新综",
+        "onboard_time": 1743574581,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463405,
+        "num": 463405,
+        "word": "深航一空姐被乘客咬",
+        "onboard_time": 1743572902,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410971,
+        "num": 410971,
+        "word": "台湾",
+        "onboard_time": 1743552321,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391596,
+        "num": 391596,
+        "word": "DeepSeek7小时攻克缅甸救灾语言关",
+        "onboard_time": 1743563842,
+        "rank": 8,
+        "category": "海外新闻,互联网"
+      },
+      {
+        "raw_hot": 370176,
+        "num": 370176,
+        "word": "姜甲儒称要亲手为家人讨回公道",
+        "onboard_time": 1743571462,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2163651,
+        "num": 369217,
+        "word": "雷军回应",
+        "onboard_time": 1743517885,
+        "rank": 10,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 1048137,
+        "num": 356379,
+        "word": "金秀贤假惺惺的你已出周边",
+        "onboard_time": 1743571163,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1046063,
+        "num": 333091,
+        "word": "小米客服称SU7电池双供应商随机装",
+        "onboard_time": 1743571642,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 79796,
+        "num": 317310,
+        "word": "香奈儿J12蓝调美学",
+        "onboard_time": 1743573862,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 159780,
+        "num": 310464,
+        "word": "张小泉集团及法人等被执行31.3亿",
+        "onboard_time": 1743568163,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839777,
+        "num": 300380,
+        "word": "龙应台称留给台湾的时间不多了",
+        "onboard_time": 1743571642,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 289123,
+        "num": 289123,
+        "word": "华晨宇方称拒绝音乐版权擦边行为",
+        "onboard_time": 1743565462,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 585777,
+        "num": 288255,
+        "word": "初一女生父亲校门口殴打六年级学生",
+        "onboard_time": 1743569783,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129249,
+        "num": 284632,
+        "word": "值得爱带组进组",
+        "onboard_time": 1743574581,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63763,
+        "num": 282491,
+        "word": "韩国民请愿出台金秀贤防治法",
+        "onboard_time": 1743574942,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533570,
+        "num": 279740,
+        "word": "网文作者涉黄刑期减少六年",
+        "onboard_time": 1743564082,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 823643,
+        "num": 275514,
+        "word": "华晨宇 黄霄雲",
+        "onboard_time": 1743566243,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 483184,
+        "num": 271428,
+        "word": "小米汽车回应",
+        "onboard_time": 1743517885,
+        "rank": 22,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 305713,
+        "num": 270378,
+        "word": "宁德时代称小米SU7用的不是其电池",
+        "onboard_time": 1743562102,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 267809,
+        "num": 267809,
+        "word": "姜甲儒称人贩子必须死刑",
+        "onboard_time": 1743574102,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261215,
+        "num": 261215,
+        "word": "归棹 剧改小说",
+        "onboard_time": 1743574224,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256189,
+        "num": 256189,
+        "word": "解放军说只要一声令下必将消灭台独",
+        "onboard_time": 1743568282,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245395,
+        "num": 245395,
+        "word": "王蓉回应浪姐被淘汰",
+        "onboard_time": 1743560722,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205642,
+        "num": 227558,
+        "word": "赵丽颖褶皱纱家居服",
+        "onboard_time": 1743574581,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203845,
+        "num": 226247,
+        "word": "虞书欣丁禹兮都在海口",
+        "onboard_time": 1743575481,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225419,
+        "num": 225419,
+        "word": "姜甲儒喊了人贩子20多年叔叔",
+        "onboard_time": 1743570923,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138164,
+        "num": 219762,
+        "word": "柯淳说世界上没有段休冥这样的爱人",
+        "onboard_time": 1743573442,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29640,
+        "num": 219681,
+        "word": "加油站中大奖等半年被告知作废",
+        "onboard_time": 1743575361,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14855,
+        "num": 219653,
+        "word": "96岁抗战老兵含泪抚摸牺牲战友墓碑",
+        "onboard_time": 1743575422,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219649,
+        "num": 219649,
+        "word": "迪丽热巴拍照三连biu",
+        "onboard_time": 1743573501,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211958,
+        "num": 211958,
+        "word": "原来逍遥丸吃了这么逍遥",
+        "onboard_time": 1743564622,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183694,
+        "num": 183694,
+        "word": "威少三分犯规",
+        "onboard_time": 1743571944,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182947,
+        "num": 182947,
+        "word": "特斯拉官微称造车首要原则是安全",
+        "onboard_time": 1743574882,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174965,
+        "num": 174965,
+        "word": "彭小苒浪姐比东宫还虐",
+        "onboard_time": 1743575241,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172407,
+        "num": 172407,
+        "word": "约基奇61分三双",
+        "onboard_time": 1743572604,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171899,
+        "num": 171899,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171118,
+        "num": 171118,
+        "word": "一诺金鱼少年光影大片",
+        "onboard_time": 1743575120,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167960,
+        "num": 167960,
+        "word": "安静公主做完手术哽咽落泪",
+        "onboard_time": 1743563842,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158292,
+        "num": 158292,
+        "word": "韩国出土王室专用的中国瓷器",
+        "onboard_time": 1743575422,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155873,
+        "num": 155873,
+        "word": "从苹果换安卓是种什么体验",
+        "onboard_time": 1743572123,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155789,
+        "num": 155789,
+        "word": "第一次在恋综里看到两男争一男",
+        "onboard_time": 1743570503,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147066,
+        "num": 147066,
+        "word": "王安宇王玉雯发火星文",
+        "onboard_time": 1743575481,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144125,
+        "num": 144125,
+        "word": "解放军台湾海峡中部南部演练",
+        "onboard_time": 1743556761,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140249,
+        "num": 140249,
+        "word": "鸿蒙智行报警",
+        "onboard_time": 1743575422,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137827,
+        "num": 137827,
+        "word": "孤独症男孩吹奏好想爱这个世界啊",
+        "onboard_time": 1743558381,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度总统互致贺电#"
+    }
+  }
+}
