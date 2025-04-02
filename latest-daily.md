@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/03 00:32:15 ~ 2025/04/03 03:36:11
+本榜单时间：2025/04/03 00:32:15 ~ 2025/04/03 04:26:44
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ Daniel公开（热度：64402）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B9%B0%E5%88%B0%E5%8F%A4%E9%A9%B0%E5%81%87%E5%8F%A3%E7%BA%A2%E8%A2%AB%E5%BA%97%E5%91%98%E5%B0%8F%E5%8F%B7%E9%AA%82%23" target="weibo">
+女子称买到古驰假口红被店员小号骂（热度：35330）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%80%E6%9C%9F%E5%BE%85%E7%9C%8B%E5%93%AA%E9%83%A8%E5%BE%85%E6%92%AD%E5%89%A7%23" target="weibo">
 你最期待看哪部待播剧（热度：34832）
 </a>
@@ -430,7 +436,13 @@ Switch2日版 自己锁自己（热度：24502）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8E%A8%E7%9A%84%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%E6%98%AF%E5%95%A5%23" target="weibo">
-特朗普力推的对等关税是啥（热度：17773）
+特朗普力推的对等关税是啥（热度：19676）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E6%89%80%E6%9C%89%E5%A4%A7%E9%A5%BC%E5%BA%97%E5%9B%A0%E9%9D%A2%E7%B2%89%E8%80%97%E5%B0%BD%E5%81%9C%E4%B8%9A%23" target="weibo">
+加沙所有大饼店因面粉耗尽停业（热度：10505）
 </a>
 </li>
 

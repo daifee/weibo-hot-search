@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743622571005,
+  "endTime": 1743625604190,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -6747,6 +6747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 35330,
+      "num": 35330,
+      "word": "女子称买到古驰假口红被店员小号骂",
+      "onboard_time": 1743624014,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35216,
       "num": 56652,
       "word": "挖野菜",
@@ -7115,6 +7123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 19676,
+      "num": 43821,
+      "word": "特朗普力推的对等关税是啥",
+      "onboard_time": 1743619635,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19636,
       "num": 152801,
       "word": "为宠物打官司的人",
@@ -7153,14 +7169,6 @@
       "onboard_time": 1743454933,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 17773,
-      "num": 43821,
-      "word": "特朗普力推的对等关税是啥",
-      "onboard_time": 1743619635,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16377,
@@ -7361,6 +7369,14 @@
       "onboard_time": 1743540554,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10505,
+      "num": 36579,
+      "word": "加沙所有大饼店因面粉耗尽停业",
+      "onboard_time": 1743625213,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 9953,
