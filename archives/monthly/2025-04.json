@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743565878621,
+  "endTime": 1743568146341,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1554849,
+      "num": 320840,
+      "word": "网文作者涉黄刑期减少六年",
+      "onboard_time": 1743564082,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1521569,
       "num": 333479,
       "word": "鹿晗站姐",
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1307003,
+      "num": 1307003,
+      "word": "华晨宇方称拒绝音乐版权擦边行为",
+      "onboard_time": 1743565462,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1299402,
       "num": 1299402,
       "word": "孙子被抢走爷爷一天抽五六盒烟去世",
@@ -209,6 +225,14 @@
       "onboard_time": 1743476602,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1286113,
+      "num": 334444,
+      "word": "华晨宇 黄霄雲",
+      "onboard_time": 1743477144,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 1258284,
@@ -313,14 +337,6 @@
       "onboard_time": 1743563842,
       "rank": 1,
       "category": "海外新闻,互联网"
-    },
-    {
-      "raw_hot": 1094163,
-      "num": 305766,
-      "word": "华晨宇 黄霄雲",
-      "onboard_time": 1743477144,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 1064576,
@@ -448,14 +464,6 @@
       "word": "上海有门店卖狗狗麻辣烫25元一斤",
       "onboard_time": 1743560300,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 746345,
-      "num": 265596,
-      "word": "网文作者涉黄刑期减少六年",
-      "onboard_time": 1743564082,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -619,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 543024,
+      "num": 446368,
+      "word": "雁回时大结局 没填坑",
+      "onboard_time": 1743564321,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 529324,
       "num": 529324,
       "word": "解放军台湾海峡中部南部演练",
@@ -691,6 +707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 484686,
+      "num": 305114,
+      "word": "原来逍遥丸吃了这么逍遥",
+      "onboard_time": 1743564622,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 481520,
       "num": 321066,
       "word": "别家站姐拍的赵露思",
@@ -705,14 +729,6 @@
       "onboard_time": 1743504862,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 446368,
-      "num": 446368,
-      "word": "雁回时大结局 没填坑",
-      "onboard_time": 1743564321,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 445634,
@@ -779,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 401950,
-      "num": 262442,
-      "word": "原来逍遥丸吃了这么逍遥",
-      "onboard_time": 1743564622,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 399588,
       "num": 399588,
       "word": "10元盒饭姐因浪费气得不想出摊",
@@ -817,6 +825,14 @@
       "onboard_time": 1743507383,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393079,
+      "num": 311342,
+      "word": "安静公主做完手术哽咽落泪",
+      "onboard_time": 1743563842,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 387494,
@@ -1283,14 +1299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273786,
-      "num": 214285,
-      "word": "安静公主做完手术哽咽落泪",
-      "onboard_time": 1743563842,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 271960,
       "num": 271960,
       "word": "公摊面积最大的蔬菜",
@@ -1380,7 +1388,7 @@
     },
     {
       "raw_hot": 260119,
-      "num": 260119,
+      "num": 302239,
       "word": "虞书欣何与杀青合照",
       "onboard_time": 1743564022,
       "rank": 26,
@@ -1457,6 +1465,14 @@
       "onboard_time": 1743520645,
       "rank": 23,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 240320,
+      "num": 301740,
+      "word": "台军反应迟缓若实战或不战而溃",
+      "onboard_time": 1743566842,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 239667,
@@ -1627,6 +1643,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 217030,
+      "num": 307386,
+      "word": "李胜利闯中",
+      "onboard_time": 1743566545,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216570,
       "num": 239357,
       "word": "张若昀站姐拍的刘亦菲",
@@ -1641,14 +1665,6 @@
       "onboard_time": 1743464300,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 215936,
-      "num": 215936,
-      "word": "华晨宇方称拒绝音乐版权擦边行为",
-      "onboard_time": 1743565462,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 214622,
@@ -1705,6 +1721,14 @@
       "onboard_time": 1743511462,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207900,
+      "num": 207900,
+      "word": "Mandy称不会去曝光孩子",
+      "onboard_time": 1743567563,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 207719,
@@ -1857,6 +1881,14 @@
       "onboard_time": 1743504682,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196259,
+      "num": 296815,
+      "word": "王源天赐初舞台三连期待",
+      "onboard_time": 1743567323,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 195875,
@@ -2652,7 +2684,7 @@
     },
     {
       "raw_hot": 148454,
-      "num": 148454,
+      "num": 264598,
       "word": "台湾从来不是一个国家今后更绝无可能",
       "onboard_time": 1743555081,
       "rank": 31,
@@ -2795,6 +2827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141772,
+      "num": 141772,
+      "word": "在公司看起来很忙的十大法则",
+      "onboard_time": 1743567144,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141740,
       "num": 182144,
       "word": "4月一起加油",
@@ -2809,6 +2849,22 @@
       "onboard_time": 1743555923,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 140911,
+      "num": 140911,
+      "word": "柯淳说短剧是我的一把刀",
+      "onboard_time": 1743567924,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140526,
+      "num": 140526,
+      "word": "姜甲儒希望法庭判人贩子死刑",
+      "onboard_time": 1743564982,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140021,
@@ -2867,6 +2923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138130,
+      "num": 138130,
+      "word": "半熟4左手天花板右手脚底板",
+      "onboard_time": 1743567743,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138003,
       "num": 138003,
       "word": "赵丽颖拔刀戏幕后",
@@ -2897,6 +2961,14 @@
       "onboard_time": 1743486862,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135996,
+      "num": 144748,
+      "word": "杨紫久违的日常",
+      "onboard_time": 1743566782,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 135911,
@@ -3691,6 +3763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88227,
+      "num": 294734,
+      "word": "Gucci抓了好多明星为我读诗",
+      "onboard_time": 1743566663,
+      "rank": 27,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 88153,
       "num": 88153,
       "word": "专家不建议跟风买黄金",
@@ -3883,6 +3963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70690,
+      "num": 225844,
+      "word": "王毅谈到中俄永不为敌",
+      "onboard_time": 1743567983,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69631,
       "num": 283657,
       "word": "流量经济下的未成年网红乱象",
@@ -3945,6 +4033,14 @@
       "onboard_time": 1743420501,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 64876,
+      "num": 140716,
+      "word": "和赵丽颖一起舒适过夏天",
+      "onboard_time": 1743568043,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 64590,
@@ -4017,6 +4113,14 @@
       "onboard_time": 1743505042,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 62719,
+      "num": 299916,
+      "word": "黎深TV动画茉法咪梨咪梨",
+      "onboard_time": 1743567384,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 62024,
@@ -4105,6 +4209,14 @@
       "onboard_time": 1743450254,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54975,
+      "num": 318382,
+      "word": "登陆少年组合新歌",
+      "onboard_time": 1743566663,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 54634,
@@ -4339,6 +4451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33456,
+      "num": 140578,
+      "word": "陈幸同3比1米特兰姆",
+      "onboard_time": 1743566604,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32917,
       "num": 73629,
       "word": "站姐团建发的王一博",
@@ -4513,6 +4633,14 @@
       "onboard_time": 1743485485,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18693,
+      "num": 155560,
+      "word": "博主称最牛的智驾不如新手司机",
+      "onboard_time": 1743567083,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 18507,
