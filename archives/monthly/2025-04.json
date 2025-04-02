@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743586917341,
+  "endTime": 1743589597454,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -219,6 +219,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1358507,
+      "num": 1358507,
+      "word": "浪姐6 变味",
+      "onboard_time": 1743587962,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1352189,
       "num": 164732,
       "word": "金秀贤和未成年金赛纶约会视频",
@@ -385,6 +393,14 @@
       "onboard_time": 1743505884,
       "rank": 23,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 1107507,
+      "num": 1107507,
+      "word": "再见Switch",
+      "onboard_time": 1743587782,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 1104741,
@@ -875,6 +891,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 501123,
+      "num": 501123,
+      "word": "彭小苒发文告别浪姐",
+      "onboard_time": 1743588442,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498494,
       "num": 399341,
       "word": "薛之谦 愚人节",
@@ -889,6 +913,14 @@
       "onboard_time": 1743468504,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 484912,
+      "num": 484912,
+      "word": "孙俪发12个终于预告新剧",
+      "onboard_time": 1743584243,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 484686,
@@ -1339,6 +1371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 317724,
+      "num": 478743,
+      "word": "甲亢哥中国行让谁破防了",
+      "onboard_time": 1743585623,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 315684,
       "num": 280401,
       "word": "男子违规获取酒店房卡侵犯女住客",
@@ -1707,12 +1747,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 264016,
-      "num": 395450,
-      "word": "孙俪发12个终于预告新剧",
-      "onboard_time": 1743584243,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 263771,
+      "num": 263771,
+      "word": "甲亢哥被8D魔都吓到惊呼",
+      "onboard_time": 1743588322,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 263734,
@@ -1745,6 +1785,14 @@
       "onboard_time": 1743477203,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 261231,
+      "num": 261231,
+      "word": "金秀贤恐面临破产危机",
+      "onboard_time": 1743588263,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 261215,
@@ -1963,6 +2011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 230697,
+      "num": 230697,
+      "word": "4人偷了1.6元民警穷追不舍",
+      "onboard_time": 1743587663,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230506,
       "num": 230506,
       "word": "陈紫函 戴向宇你算菀菀吧",
@@ -1972,7 +2028,7 @@
     },
     {
       "raw_hot": 228385,
-      "num": 228385,
+      "num": 366159,
       "word": "自闭症孩子也可能是话痨",
       "onboard_time": 1743586703,
       "rank": 37,
@@ -1993,14 +2049,6 @@
       "onboard_time": 1743510564,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226070,
-      "num": 388945,
-      "word": "甲亢哥中国行让谁破防了",
-      "onboard_time": 1743585623,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 225960,
@@ -2211,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207752,
+      "num": 265275,
+      "word": "清明五一档电影片单发布会赵丽颖VCR",
+      "onboard_time": 1743588082,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207719,
       "num": 207719,
       "word": "韩国游客喊话张艺兴你的家乡太棒了",
@@ -2337,6 +2393,22 @@
       "onboard_time": 1743583521,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203604,
+      "num": 255329,
+      "word": "对智能驾驶的宣传不能再含糊其辞了",
+      "onboard_time": 1743586821,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 203278,
+      "num": 225742,
+      "word": "第一批年轻人已经用AI创业了",
+      "onboard_time": 1743584963,
+      "rank": 41,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 202938,
@@ -2587,14 +2659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193021,
-      "num": 193021,
-      "word": "第一批年轻人已经用AI创业了",
-      "onboard_time": 1743584963,
-      "rank": 41,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 192906,
       "num": 192906,
       "word": "昀牵孟绕",
@@ -2721,6 +2785,14 @@
       "onboard_time": 1743517524,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187598,
+      "num": 410491,
+      "word": "消费者苦女装乱象久矣",
+      "onboard_time": 1743586282,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187121,
@@ -2851,6 +2923,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 182193,
+      "num": 182193,
+      "word": "GEN战胜HLE",
+      "onboard_time": 1743587962,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182184,
       "num": 182184,
       "word": "731部队大本营旧址发现大量人骨",
@@ -2883,12 +2963,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181340,
+      "num": 181340,
+      "word": "浪姐第一季yyds",
+      "onboard_time": 1743589222,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181053,
       "num": 215001,
       "word": "方基默去世享年65岁",
       "onboard_time": 1743570682,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180681,
+      "num": 180681,
+      "word": "缅甸母亲彻夜在废墟寻找女儿遗物",
+      "onboard_time": 1743587422,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 180577,
@@ -3083,6 +3179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171718,
+      "num": 171718,
+      "word": "樱花树下站谁都美",
+      "onboard_time": 1743588682,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 171697,
       "num": 382433,
       "word": "孙俪在把控细节上强得可怕",
@@ -3128,6 +3232,14 @@
       "word": "王安宇王玉雯发火星文",
       "onboard_time": 1743575481,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168426,
+      "num": 168426,
+      "word": "孙俪罗晋二搭新剧破碎尸案",
+      "onboard_time": 1743587481,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -3249,6 +3361,14 @@
       "onboard_time": 1743475462,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160527,
+      "num": 160527,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1743589161,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 160409,
@@ -3419,6 +3539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153229,
+      "num": 364605,
+      "word": "顶流公益秀的主角到底该是谁",
+      "onboard_time": 1743585082,
+      "rank": 19,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 153085,
       "num": 153085,
       "word": "夹竹桃 中毒",
@@ -3432,6 +3560,14 @@
       "word": "苦尽柑来遇见你两代人画报",
       "onboard_time": 1743557901,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151883,
+      "num": 151883,
+      "word": "值得爱情侣亲热被5个室友围观",
+      "onboard_time": 1743589103,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -4051,6 +4187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125745,
+      "num": 357959,
+      "word": "张艺兴听到小孩姐夸他的反应",
+      "onboard_time": 1743589042,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125738,
       "num": 125738,
       "word": "白鹿王星越唐宫奇案吻戏",
@@ -4451,14 +4595,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 108194,
-      "num": 364605,
-      "word": "顶流公益秀的主角到底该是谁",
-      "onboard_time": 1743585082,
-      "rank": 19,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 107577,
       "num": 114388,
       "word": "勇士vs灰熊",
@@ -4643,6 +4779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94257,
+      "num": 685103,
+      "word": "月球上有35个以中国元素命名的地名",
+      "onboard_time": 1743587061,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93334,
       "num": 134447,
       "word": "宇露君沾",
@@ -4825,6 +4969,14 @@
       "onboard_time": 1743407121,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 77341,
+      "num": 180712,
+      "word": "山东舰出扼台东",
+      "onboard_time": 1743588861,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76971,
@@ -5427,6 +5579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38186,
+      "num": 263791,
+      "word": "情久春季赛淘汰",
+      "onboard_time": 1743589222,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 37817,
       "num": 382943,
       "word": "杨幂持续3年探访孤独症康复中心",
@@ -5537,14 +5697,6 @@
       "onboard_time": 1743543554,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 31861,
-      "num": 410491,
-      "word": "消费者苦女装乱象久矣",
-      "onboard_time": 1743586282,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31582,
@@ -5659,6 +5811,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 27344,
+      "num": 180846,
+      "word": "盒饭姐骂浪费顾客后生意更火爆了",
+      "onboard_time": 1743589521,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26269,
+      "num": 472272,
+      "word": "智能驾驶和自动驾驶不能画等号",
+      "onboard_time": 1743589042,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 26012,
       "num": 275460,
       "word": "王艺迪vs郑怡静",
@@ -5729,14 +5897,6 @@
       "onboard_time": 1743571763,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20976,
-      "num": 255329,
-      "word": "对智能驾驶的宣传不能再含糊其辞了",
-      "onboard_time": 1743586821,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 20673,
