@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743550679913,
+  "endTime": 1743558714016,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -241,6 +241,14 @@
       "onboard_time": 1743519627,
       "rank": 8,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 1761022,
+      "num": 1761022,
+      "word": "副区长奢靡成瘾10年网贷781万",
+      "onboard_time": 1743555923,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1746342,
@@ -635,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 975187,
+      "num": 330947,
+      "word": "迪士尼回应金秀贤新剧问题",
+      "onboard_time": 1743556881,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 964056,
       "num": 732857,
       "word": "乘客开门杀致人死亡网约车司机获刑",
@@ -731,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 860898,
+      "num": 327842,
+      "word": "山区孩子为赵露思发声",
+      "onboard_time": 1743551179,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 860592,
       "num": 860592,
       "word": "刘涛听粉丝的选了红色的车",
@@ -777,6 +801,14 @@
       "onboard_time": 1743480324,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 843928,
+      "num": 424992,
+      "word": "吴宣仪晕倒被工作人员抱下台",
+      "onboard_time": 1743552261,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 834306,
@@ -1379,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 547347,
+      "num": 547347,
+      "word": "浪姐三公淘汰",
+      "onboard_time": 1743554303,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546422,
       "num": 546422,
       "word": "男子健身房练腿时地震只能往外爬",
@@ -1497,6 +1537,14 @@
       "onboard_time": 1743481826,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 495927,
+      "num": 264498,
+      "word": "刘丁硕回应巴黎奥运偷笑",
+      "onboard_time": 1743557002,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 495904,
@@ -1681,6 +1729,14 @@
       "onboard_time": 1743407121,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 449642,
+      "num": 449642,
+      "word": "关税",
+      "onboard_time": 1743555923,
+      "rank": 4,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 445634,
@@ -2043,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381563,
+      "num": 381563,
+      "word": "中国搜救犬在缅甸吃冰降温",
+      "onboard_time": 1743516624,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 378011,
       "num": 378011,
       "word": "金饰价格涨到953元",
@@ -2065,6 +2129,14 @@
       "onboard_time": 1743495744,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 375433,
+      "num": 375433,
+      "word": "解放军台湾海峡中部南部演练",
+      "onboard_time": 1743556761,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 372177,
@@ -2291,12 +2363,28 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 344162,
+      "num": 263842,
+      "word": "脖子洗不干净或是身体发出危险信号",
+      "onboard_time": 1743553343,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 342132,
       "num": 342132,
       "word": "藏海传杀青即将上线",
       "onboard_time": 1743384623,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337810,
+      "num": 337810,
+      "word": "广东省考成绩",
+      "onboard_time": 1743557541,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 337642,
@@ -2395,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332030,
+      "num": 301673,
+      "word": "李胜利将在中国探索娱乐事业",
+      "onboard_time": 1743557841,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331750,
       "num": 146286,
       "word": "金秀贤记者会最起鸡皮疙瘩的一句话",
@@ -2489,14 +2585,6 @@
       "onboard_time": 1743314480,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316985,
-      "num": 355241,
-      "word": "中国搜救犬在缅甸吃冰降温",
-      "onboard_time": 1743516624,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 315684,
@@ -2955,6 +3043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274277,
+      "num": 274277,
+      "word": "生命树",
+      "onboard_time": 1743280333,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273315,
       "num": 273315,
       "word": "眼泪女王",
@@ -3137,6 +3233,14 @@
       "onboard_time": 1743401601,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 253365,
+      "num": 253365,
+      "word": "这种口腔溃疡可能是HPV感染",
+      "onboard_time": 1743555081,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 252840,
@@ -4875,6 +4979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175135,
+      "num": 175135,
+      "word": "00后小伙嚼槟榔8年变大方脸",
+      "onboard_time": 1743521663,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174963,
       "num": 174963,
       "word": "淮水竹亭配角全员升咖",
@@ -4913,6 +5025,14 @@
       "onboard_time": 1743411805,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 172942,
+      "num": 172942,
+      "word": "东部战区组织海峡雷霆2025A演练",
+      "onboard_time": 1743553221,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 172717,
@@ -5185,6 +5305,14 @@
       "onboard_time": 1743490703,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165533,
+      "num": 165533,
+      "word": "客服回应盒马16.9元一片面包",
+      "onboard_time": 1743518245,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165434,
@@ -5739,6 +5867,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 153113,
+      "num": 153113,
+      "word": "孤独症男孩吹奏好想爱这个世界啊",
+      "onboard_time": 1743558381,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153085,
       "num": 153085,
       "word": "夹竹桃 中毒",
@@ -5753,14 +5889,6 @@
       "onboard_time": 1743297740,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 152555,
-      "num": 152555,
-      "word": "客服回应盒马16.9元一片面包",
-      "onboard_time": 1743518245,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152205,
@@ -5905,6 +6033,14 @@
       "onboard_time": 1743393863,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148454,
+      "num": 148454,
+      "word": "台湾从来不是一个国家今后更绝无可能",
+      "onboard_time": 1743555081,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 148148,
@@ -6227,6 +6363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142352,
+      "num": 157540,
+      "word": "苦尽柑来遇见你两代人画报",
+      "onboard_time": 1743557901,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142228,
       "num": 142228,
       "word": "网传薛之谦加盟天赐的声音",
@@ -6283,6 +6427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141889,
+      "num": 155228,
+      "word": "叶童三公分数",
+      "onboard_time": 1743557060,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141740,
       "num": 182144,
       "word": "4月一起加油",
@@ -6305,6 +6457,14 @@
       "onboard_time": 1743425183,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141142,
+      "num": 141142,
+      "word": "第4名在立陶宛失踪美士兵遗体找到",
+      "onboard_time": 1743555923,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141054,
@@ -6963,6 +7123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125917,
+      "num": 125917,
+      "word": "解放军联合演训第2天",
+      "onboard_time": 1743551360,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125871,
       "num": 226963,
       "word": "德约科维奇0比2门希克",
@@ -7025,6 +7193,14 @@
       "onboard_time": 1743315921,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124831,
+      "num": 124831,
+      "word": "湖南一男子花4元中了1242万元",
+      "onboard_time": 1743550038,
+      "rank": 23,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 124793,
@@ -7113,6 +7289,14 @@
       "onboard_time": 1743432623,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122634,
+      "num": 337702,
+      "word": "东部战区对台军演新代号意味着什么",
+      "onboard_time": 1743557360,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122402,
@@ -7219,14 +7403,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 120894,
-      "num": 114848,
-      "word": "00后小伙嚼槟榔8年变大方脸",
-      "onboard_time": 1743521663,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120881,
       "num": 120881,
       "word": "周雨彤去冰岛了",
@@ -7257,6 +7433,14 @@
       "onboard_time": 1743410725,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 120541,
+      "num": 120541,
+      "word": "特朗普一系列关税公布后将立即生效",
+      "onboard_time": 1743557302,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120474,
@@ -7417,6 +7601,14 @@
       "onboard_time": 1743523702,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117352,
+      "num": 117352,
+      "word": "勇士摁不住了",
+      "onboard_time": 1743557961,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 117070,
@@ -7659,6 +7851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111318,
+      "num": 111318,
+      "word": "业界人士质疑车企过度宣传智驾",
+      "onboard_time": 1743555024,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 111310,
       "num": 111310,
       "word": "特朗普将于4月2日决定最终关税政策",
@@ -7785,6 +7985,14 @@
       "onboard_time": 1743433402,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 108063,
+      "num": 108063,
+      "word": "金玟庭愚人节神图点赞最高",
+      "onboard_time": 1743557122,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 107671,
@@ -8075,6 +8283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100718,
+      "num": 97641,
+      "word": "吴宣仪方回应晕倒",
+      "onboard_time": 1743554843,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100576,
       "num": 100576,
       "word": "张若昀唐艺昕在朋友聚会认识",
@@ -8227,6 +8443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96991,
+      "num": 96991,
+      "word": "勇士vs灰熊",
+      "onboard_time": 1743558620,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96793,
       "num": 96793,
       "word": "新秀回应离婚",
@@ -8377,14 +8601,6 @@
       "onboard_time": 1743317060,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91349,
-      "num": 91349,
-      "word": "湖南一男子花4元中了1242万元",
-      "onboard_time": 1743550038,
-      "rank": 23,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 91256,
@@ -8585,6 +8801,14 @@
       "onboard_time": 1743521903,
       "rank": 49,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 85025,
+      "num": 321021,
+      "word": "四人入室抢婴案今日开庭",
+      "onboard_time": 1743557181,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84903,
@@ -9761,14 +9985,6 @@
       "onboard_time": 1743286034,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 37305,
-      "num": 46158,
-      "word": "生命树",
-      "onboard_time": 1743280333,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 37246,
