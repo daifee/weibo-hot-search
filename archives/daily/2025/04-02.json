@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743586047679,
+  "endTime": 1743586917341,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -59,20 +59,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1701129,
+      "num": 1701129,
+      "word": "王楚钦考编考研双双上岸",
+      "onboard_time": 1743579743,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1591510,
       "num": 454403,
       "word": "网文作者涉黄刑期减少六年",
       "onboard_time": 1743564082,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1557991,
-      "num": 1557991,
-      "word": "王楚钦考编考研双双上岸",
-      "onboard_time": 1743579743,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1394052,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 796439,
+      "num": 796439,
+      "word": "网约车车祸致女子流产平台被判全责",
+      "onboard_time": 1743583883,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 788032,
       "num": 788032,
       "word": "柯南坦白和小兰在交往",
@@ -265,14 +273,6 @@
       "onboard_time": 1743569963,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 692315,
-      "num": 692315,
-      "word": "网约车车祸致女子流产平台被判全责",
-      "onboard_time": 1743583883,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 683322,
@@ -699,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266733,
+      "num": 621692,
+      "word": "解放军演练武器射程能覆盖台湾岛全境",
+      "onboard_time": 1743584662,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 265533,
       "num": 407476,
       "word": "家族有精神病史有资格做母亲吗",
@@ -707,8 +715,8 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 263212,
-      "num": 263212,
+      "raw_hot": 264016,
+      "num": 395450,
       "word": "孙俪发12个终于预告新剧",
       "onboard_time": 1743584243,
       "rank": 31,
@@ -795,20 +803,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228385,
+      "num": 228385,
+      "word": "自闭症孩子也可能是话痨",
+      "onboard_time": 1743586703,
+      "rank": 37,
+      "category": "民生新闻,母婴育儿"
+    },
+    {
       "raw_hot": 227904,
-      "num": 227904,
+      "num": 407803,
       "word": "74岁TVB老戏骨在狱中求婚成功",
       "onboard_time": 1743584302,
       "rank": 32,
       "category": "艺人"
     },
     {
-      "raw_hot": 222263,
-      "num": 621692,
-      "word": "解放军演练武器射程能覆盖台湾岛全境",
-      "onboard_time": 1743584662,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 226070,
+      "num": 388945,
+      "word": "甲亢哥中国行让谁破防了",
+      "onboard_time": 1743585623,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 220660,
@@ -1004,7 +1020,7 @@
     },
     {
       "raw_hot": 199575,
-      "num": 232582,
+      "num": 393174,
       "word": "王楚钦太优秀了",
       "onboard_time": 1743583223,
       "rank": 32,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1743562221,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 198397,
+      "num": 198397,
+      "word": "一文读懂华晨宇黄霄雲纠纷",
+      "onboard_time": 1743586342,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 197289,
@@ -1041,6 +1065,14 @@
       "onboard_time": 1743567323,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195887,
+      "num": 195887,
+      "word": "LPL",
+      "onboard_time": 1743586282,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 195052,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1743584963,
       "rank": 41,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 192761,
+      "num": 223989,
+      "word": "肖战藏海传大屏",
+      "onboard_time": 1743586821,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 192039,
@@ -1177,14 +1217,6 @@
       "onboard_time": 1743568824,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185869,
-      "num": 185869,
-      "word": "甲亢哥中国行让谁破防了",
-      "onboard_time": 1743585623,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 185865,
@@ -1332,7 +1364,7 @@
     },
     {
       "raw_hot": 172457,
-      "num": 227204,
+      "num": 403241,
       "word": "不说话的爱",
       "onboard_time": 1743585805,
       "rank": 33,
@@ -1819,6 +1851,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 108194,
+      "num": 364605,
+      "word": "顶流公益秀的主角到底该是谁",
+      "onboard_time": 1743585082,
+      "rank": 19,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 107577,
       "num": 114388,
       "word": "勇士vs灰熊",
@@ -2043,6 +2083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 70038,
+      "num": 373455,
+      "word": "缅甸强震后16天大婴儿奇迹生还",
+      "onboard_time": 1743585442,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 67687,
       "num": 402537,
       "word": "马雪阳谭咏雯生女",
@@ -2145,6 +2193,14 @@
       "onboard_time": 1743572063,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 54214,
+      "num": 398903,
+      "word": "有车企智驾培训仅仅是走流程",
+      "onboard_time": 1743586703,
+      "rank": 22,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 53511,
@@ -2299,12 +2355,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33382,
+      "num": 404454,
+      "word": "替台独卖命可耻",
+      "onboard_time": 1743585923,
+      "rank": 35,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 32917,
       "num": 73629,
       "word": "站姐团建发的王一博",
       "onboard_time": 1743543554,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31861,
+      "num": 410491,
+      "word": "消费者苦女装乱象久矣",
+      "onboard_time": 1743586282,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30611,
@@ -2355,12 +2427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28076,
-      "num": 332277,
-      "word": "顶流公益秀的主角到底该是谁",
-      "onboard_time": 1743585082,
-      "rank": 19,
-      "category": "艺人,综艺"
+      "raw_hot": 28014,
+      "num": 406118,
+      "word": "茅必得疑卷款700万跑路",
+      "onboard_time": 1743586224,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27794,
@@ -2395,14 +2467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24137,
-      "num": 271458,
-      "word": "缅甸强震后16天大婴儿奇迹生还",
-      "onboard_time": 1743585442,
-      "rank": 28,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 22455,
       "num": 42602,
       "word": "福建海警闽南语喊话中国台湾巡逻船",
@@ -2425,6 +2489,14 @@
       "onboard_time": 1743571763,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20976,
+      "num": 255329,
+      "word": "对智能驾驶的宣传不能再含糊其辞了",
+      "onboard_time": 1743586821,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 20673,
@@ -2473,6 +2545,14 @@
       "onboard_time": 1743578962,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 14263,
+      "num": 222509,
+      "word": "重庆川普哥请甲亢哥吃麻辣冰淇淋",
+      "onboard_time": 1743586224,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14240,
@@ -2531,12 +2611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8366,
-      "num": 219786,
-      "word": "替台独卖命可耻",
-      "onboard_time": 1743585923,
-      "rank": 35,
-      "category": "国内时政,民生新闻"
+      "raw_hot": 8089,
+      "num": 374292,
+      "word": "驾驶安全要紧握在自己手中",
+      "onboard_time": 1743586703,
+      "rank": 28,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2551,6 +2631,9 @@
     },
     {
       "word": "#这是我们要建成的科技强国#"
+    },
+    {
+      "word": "#跟着总书记领略中华文明#"
     }
   ]
 }
