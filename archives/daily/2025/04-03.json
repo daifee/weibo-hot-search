@@ -1,14 +1,22 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743633654562,
+  "endTime": 1743636162190,
   "band_list": [
     {
       "raw_hot": 1471890,
-      "num": 226377,
+      "num": 340112,
       "word": "孟子坤 家暴",
       "onboard_time": 1743606385,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 883187,
+      "num": 883187,
+      "word": "22岁离世女骑手家属寻目击者定责",
+      "onboard_time": 1743630795,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 771856,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 687985,
-      "num": 224137,
+      "num": 333200,
       "word": "曝王玉雯杨玏已分手",
       "onboard_time": 1743603685,
       "rank": 12,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 617144,
-      "num": 223389,
+      "num": 338730,
       "word": "胡歌 二胎",
       "onboard_time": 1743592222,
       "rank": 13,
@@ -36,11 +44,19 @@
     },
     {
       "raw_hot": 610599,
-      "num": 221787,
+      "num": 323585,
       "word": "鹿晗迪丽热巴8年前的路透",
       "onboard_time": 1743597562,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 561558,
+      "num": 374125,
+      "word": "孟子坤回应",
+      "onboard_time": 1743635659,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 551572,
@@ -57,6 +73,14 @@
       "onboard_time": 1743604406,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 493325,
+      "num": 334560,
+      "word": "华人大妈持菜刀与警方对峙被击毙",
+      "onboard_time": 1743602544,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 472153,
@@ -83,16 +107,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 423736,
-      "num": 512242,
-      "word": "22岁离世女骑手家属寻目击者定责",
-      "onboard_time": 1743630795,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 411619,
-      "num": 220293,
+      "num": 302020,
       "word": "金秀贤否认所有照片",
       "onboard_time": 1743606564,
       "rank": 16,
@@ -116,11 +132,19 @@
     },
     {
       "raw_hot": 371803,
-      "num": 198261,
+      "num": 264192,
       "word": "豆包你现在改名叫邓超",
       "onboard_time": 1743609381,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371790,
+      "num": 371790,
+      "word": "我的女儿张诗琪她来过这个世界",
+      "onboard_time": 1743600503,
+      "rank": 6,
+      "category": "正能量"
     },
     {
       "raw_hot": 367394,
@@ -131,6 +155,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364239,
+      "num": 364239,
+      "word": "特朗普力推的对等关税是啥",
+      "onboard_time": 1743619635,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 351949,
+      "num": 351949,
+      "word": "对等关税",
+      "onboard_time": 1743635780,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 318103,
       "num": 217440,
       "word": "IU向雪莉金赛纶推荐同一心理医生",
@@ -139,12 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 292550,
-      "num": 292550,
-      "word": "我的女儿张诗琪她来过这个世界",
-      "onboard_time": 1743600503,
-      "rank": 6,
-      "category": "正能量"
+      "raw_hot": 305495,
+      "num": 348936,
+      "word": "特朗普宣布实施所谓对等关税",
+      "onboard_time": 1743635298,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 277007,
@@ -155,20 +195,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 266971,
-      "num": 266971,
+      "raw_hot": 275391,
+      "num": 275391,
       "word": "东部战区再发军事行动海报",
       "onboard_time": 1743611659,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 259576,
-      "num": 192011,
-      "word": "华人大妈持菜刀与警方对峙被击毙",
-      "onboard_time": 1743602544,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227796,
@@ -179,20 +211,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221538,
+      "num": 221538,
+      "word": "特朗普宣布国家紧急状态",
+      "onboard_time": 1743636020,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 216655,
       "num": 216655,
       "word": "雷军捐资1亿成立守护资金消息不实",
       "onboard_time": 1743603623,
       "rank": 20,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 201512,
-      "num": 201512,
-      "word": "特朗普力推的对等关税是啥",
-      "onboard_time": 1743619635,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 175633,
@@ -217,6 +249,14 @@
       "onboard_time": 1743517885,
       "rank": 31,
       "category": "辟谣/通报,汽车"
+    },
+    {
+      "raw_hot": 143340,
+      "num": 346552,
+      "word": "李美越5天掉粉14万",
+      "onboard_time": 1743613097,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 131833,
@@ -315,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93881,
+      "num": 93881,
+      "word": "第五人格",
+      "onboard_time": 1743635599,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 91905,
       "num": 227701,
       "word": "东部战区演训雷霆出击",
@@ -331,20 +379,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88913,
+      "num": 113727,
+      "word": "白宫声明称特朗普宣布国家紧急状态",
+      "onboard_time": 1743636020,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86764,
       "num": 86764,
       "word": "刷信用卡买30万黄金转手赚数万",
       "onboard_time": 1743600804,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85488,
-      "num": 79270,
-      "word": "李美越5天掉粉14万",
-      "onboard_time": 1743613097,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 82504,
@@ -387,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68249,
+      "num": 126853,
+      "word": "甲亢哥被重庆甜妹教育了",
+      "onboard_time": 1743600324,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 67919,
       "num": 145334,
       "word": "奚梦瑶爸爸当家录制路透",
@@ -395,20 +451,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67604,
+      "num": 67604,
+      "word": "74岁TVB老戏骨求婚狱中37岁女友",
+      "onboard_time": 1743633376,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66612,
       "num": 82066,
       "word": "棋士",
       "onboard_time": 1743610760,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 65974,
-      "num": 109142,
-      "word": "甲亢哥被重庆甜妹教育了",
-      "onboard_time": 1743600324,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 64751,
@@ -428,7 +484,7 @@
     },
     {
       "raw_hot": 64234,
-      "num": 64234,
+      "num": 67538,
       "word": "战胜焦虑的秘诀其实就是两个字",
       "onboard_time": 1743611899,
       "rank": 45,
@@ -436,15 +492,23 @@
     },
     {
       "raw_hot": 63024,
-      "num": 63024,
+      "num": 67559,
       "word": "缅甸地震已致超3000死",
       "onboard_time": 1743604884,
       "rank": 49,
       "category": "国际时政,国内时政"
     },
     {
+      "raw_hot": 59126,
+      "num": 342999,
+      "word": "美股正在遭到抛售",
+      "onboard_time": 1743635419,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 58568,
-      "num": 102699,
+      "num": 125698,
       "word": "黄磊说为张艺兴的表演骄傲",
       "onboard_time": 1743613338,
       "rank": 18,
@@ -460,7 +524,7 @@
     },
     {
       "raw_hot": 49598,
-      "num": 49598,
+      "num": 67492,
       "word": "加沙所有大饼店因面粉耗尽停业",
       "onboard_time": 1743625213,
       "rank": 14,
@@ -492,7 +556,7 @@
     },
     {
       "raw_hot": 41807,
-      "num": 41807,
+      "num": 67484,
       "word": "女子称买到古驰假口红被店员小号骂",
       "onboard_time": 1743624014,
       "rank": 19,
@@ -571,14 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23102,
-      "num": 37420,
-      "word": "74岁TVB老戏骨求婚狱中37岁女友",
-      "onboard_time": 1743633376,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22589,
       "num": 26531,
       "word": "张极骑车去天津vlog",
@@ -633,6 +689,14 @@
       "onboard_time": 1743626415,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13301,
+      "num": 112696,
+      "word": "黄金逼近3150美元刷新历史高位",
+      "onboard_time": 1743636020,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 11672,

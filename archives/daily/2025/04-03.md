@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/03 00:32:15 ~ 2025/04/03 06:40:54
+本榜单时间：2025/04/03 00:32:15 ~ 2025/04/03 07:22:42
 </p>
 </blockquote>
 <p>
@@ -17,6 +17,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E5%9D%A4%20%E5%AE%B6%E6%9A%B4%23" target="weibo">
 孟子坤 家暴（热度：1471890）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2322%E5%B2%81%E7%A6%BB%E4%B8%96%E5%A5%B3%E9%AA%91%E6%89%8B%E5%AE%B6%E5%B1%9E%E5%AF%BB%E7%9B%AE%E5%87%BB%E8%80%85%E5%AE%9A%E8%B4%A3%23" target="weibo">
+22岁离世女骑手家属寻目击者定责（热度：883187）
 </a>
 </li>
 
@@ -45,6 +51,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E5%9D%A4%E5%9B%9E%E5%BA%94%23" target="weibo">
+孟子坤回应（热度：561558）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E4%B8%8D%E6%84%BF%E7%BB%A7%E7%BB%AD%E7%94%9F%E8%82%B2%E7%A6%BB%E5%A9%9A%E5%90%8E%E8%8E%B7%E8%A1%A5%E5%81%BF35%E4%B8%87%23" target="weibo">
 妻子不愿继续生育离婚后获补偿35万（热度：551572）
 </a>
@@ -53,6 +65,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B9%9D%E5%B7%9E%E5%B2%9B%E9%99%84%E8%BF%916.2%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 日本九州岛附近6.2级地震（热度：519044）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%A4%A7%E5%A6%88%E6%8C%81%E8%8F%9C%E5%88%80%E4%B8%8E%E8%AD%A6%E6%96%B9%E5%AF%B9%E5%B3%99%E8%A2%AB%E5%87%BB%E6%AF%99%23" target="weibo">
+华人大妈持菜刀与警方对峙被击毙（热度：493325）
 </a>
 </li>
 
@@ -71,12 +89,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%89%93%E5%81%87%E9%9B%B7%E5%86%9B%E8%87%B4%E5%85%AC%E4%BC%97%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%23" target="weibo">
 小米打假雷军致公众的一封信（热度：452691）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2322%E5%B2%81%E7%A6%BB%E4%B8%96%E5%A5%B3%E9%AA%91%E6%89%8B%E5%AE%B6%E5%B1%9E%E5%AF%BB%E7%9B%AE%E5%87%BB%E8%80%85%E5%AE%9A%E8%B4%A3%23" target="weibo">
-22岁离世女骑手家属寻目击者定责（热度：423736）
 </a>
 </li>
 
@@ -105,8 +117,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%A5%B3%E5%84%BF%E5%BC%A0%E8%AF%97%E7%90%AA%E5%A5%B9%E6%9D%A5%E8%BF%87%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%23" target="weibo">
+我的女儿张诗琪她来过这个世界（热度：371790）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%AD%9F%E5%AD%90%E5%9D%A4%E5%87%BA%E8%BD%A8%23" target="weibo">
 曝孟子坤出轨（热度：367394）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8E%A8%E7%9A%84%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%E6%98%AF%E5%95%A5%23" target="weibo">
+特朗普力推的对等关税是啥（热度：364239）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%23" target="weibo">
+对等关税（热度：351949）
 </a>
 </li>
 
@@ -117,8 +147,8 @@ IU向雪莉金赛纶推荐同一心理医生（热度：318103）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%A5%B3%E5%84%BF%E5%BC%A0%E8%AF%97%E7%90%AA%E5%A5%B9%E6%9D%A5%E8%BF%87%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%23" target="weibo">
-我的女儿张诗琪她来过这个世界（热度：292550）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%AE%9E%E6%96%BD%E6%89%80%E8%B0%93%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%23" target="weibo">
+特朗普宣布实施所谓对等关税（热度：305495）
 </a>
 </li>
 
@@ -130,13 +160,7 @@ IU向雪莉金赛纶推荐同一心理医生（热度：318103）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%86%8D%E5%8F%91%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E6%B5%B7%E6%8A%A5%23" target="weibo">
-东部战区再发军事行动海报（热度：266971）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%A4%A7%E5%A6%88%E6%8C%81%E8%8F%9C%E5%88%80%E4%B8%8E%E8%AD%A6%E6%96%B9%E5%AF%B9%E5%B3%99%E8%A2%AB%E5%87%BB%E6%AF%99%23" target="weibo">
-华人大妈持菜刀与警方对峙被击毙（热度：259576）
+东部战区再发军事行动海报（热度：275391）
 </a>
 </li>
 
@@ -147,14 +171,14 @@ Switch2价格公布（热度：227796）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%8D%90%E8%B5%841%E4%BA%BF%E6%88%90%E7%AB%8B%E5%AE%88%E6%8A%A4%E8%B5%84%E9%87%91%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E%23" target="weibo">
-雷军捐资1亿成立守护资金消息不实（热度：216655）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23" target="weibo">
+特朗普宣布国家紧急状态（热度：221538）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8E%A8%E7%9A%84%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%E6%98%AF%E5%95%A5%23" target="weibo">
-特朗普力推的对等关税是啥（热度：201512）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%8D%90%E8%B5%841%E4%BA%BF%E6%88%90%E7%AB%8B%E5%AE%88%E6%8A%A4%E8%B5%84%E9%87%91%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E%23" target="weibo">
+雷军捐资1亿成立守护资金消息不实（热度：216655）
 </a>
 </li>
 
@@ -173,6 +197,12 @@ Switch2价格公布（热度：227796）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%23" target="weibo">
 雷军回应（热度：151562）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BE%8E%E8%B6%8A5%E5%A4%A9%E6%8E%89%E7%B2%8914%E4%B8%87%23" target="weibo">
+李美越5天掉粉14万（热度：143340）
 </a>
 </li>
 
@@ -249,6 +279,12 @@ Flamma道歉（热度：123603）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%23" target="weibo">
+第五人格（热度：93881）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E6%BC%94%E8%AE%AD%E9%9B%B7%E9%9C%86%E5%87%BA%E5%87%BB%23" target="weibo">
 东部战区演训雷霆出击（热度：91905）
 </a>
@@ -261,14 +297,14 @@ Flamma道歉（热度：123603）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%B7%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%B9%B030%E4%B8%87%E9%BB%84%E9%87%91%E8%BD%AC%E6%89%8B%E8%B5%9A%E6%95%B0%E4%B8%87%23" target="weibo">
-刷信用卡买30万黄金转手赚数万（热度：86764）
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E5%A3%B0%E6%98%8E%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23" target="weibo">
+白宫声明称特朗普宣布国家紧急状态（热度：88913）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BE%8E%E8%B6%8A5%E5%A4%A9%E6%8E%89%E7%B2%8914%E4%B8%87%23" target="weibo">
-李美越5天掉粉14万（热度：85488）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%B7%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%B9%B030%E4%B8%87%E9%BB%84%E9%87%91%E8%BD%AC%E6%89%8B%E8%B5%9A%E6%95%B0%E4%B8%87%23" target="weibo">
+刷信用卡买30万黄金转手赚数万（热度：86764）
 </a>
 </li>
 
@@ -303,20 +339,26 @@ Switch2直面会（热度：75756）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E8%A2%AB%E9%87%8D%E5%BA%86%E7%94%9C%E5%A6%B9%E6%95%99%E8%82%B2%E4%BA%86%23" target="weibo">
+甲亢哥被重庆甜妹教育了（热度：68249）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%88%B8%E7%88%B8%E5%BD%93%E5%AE%B6%E5%BD%95%E5%88%B6%E8%B7%AF%E9%80%8F%23" target="weibo">
 奚梦瑶爸爸当家录制路透（热度：67919）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A3%8B%E5%A3%AB%23" target="weibo">
-棋士（热度：66612）
+<a href="https://s.weibo.com/weibo?q=%2374%E5%B2%81TVB%E8%80%81%E6%88%8F%E9%AA%A8%E6%B1%82%E5%A9%9A%E7%8B%B1%E4%B8%AD37%E5%B2%81%E5%A5%B3%E5%8F%8B%23" target="weibo">
+74岁TVB老戏骨求婚狱中37岁女友（热度：67604）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E8%A2%AB%E9%87%8D%E5%BA%86%E7%94%9C%E5%A6%B9%E6%95%99%E8%82%B2%E4%BA%86%23" target="weibo">
-甲亢哥被重庆甜妹教育了（热度：65974）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A3%8B%E5%A3%AB%23" target="weibo">
+棋士（热度：66612）
 </a>
 </li>
 
@@ -341,6 +383,12 @@ Daniel公开（热度：64402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E8%B6%853000%E6%AD%BB%23" target="weibo">
 缅甸地震已致超3000死（热度：63024）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E6%AD%A3%E5%9C%A8%E9%81%AD%E5%88%B0%E6%8A%9B%E5%94%AE%23" target="weibo">
+美股正在遭到抛售（热度：59126）
 </a>
 </li>
 
@@ -441,12 +489,6 @@ Switch2日版 自己锁自己（热度：24502）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2374%E5%B2%81TVB%E8%80%81%E6%88%8F%E9%AA%A8%E6%B1%82%E5%A9%9A%E7%8B%B1%E4%B8%AD37%E5%B2%81%E5%A5%B3%E5%8F%8B%23" target="weibo">
-74岁TVB老戏骨求婚狱中37岁女友（热度：23102）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9E%81%E9%AA%91%E8%BD%A6%E5%8E%BB%E5%A4%A9%E6%B4%A5vlog%23" target="weibo">
 张极骑车去天津vlog（热度：22589）
 </a>
@@ -485,6 +527,12 @@ Switch2日版2400元（热度：18967）
 <li>
 <a href="https://s.weibo.com/weibo?q=%234%E4%BA%BA%E5%85%A5%E5%AE%A4%E6%8A%A2%E5%A9%B4%E6%A1%88%E5%BC%80%E5%BA%AD%E5%89%8D%E5%A7%9C%E7%94%B2%E5%84%92%E5%8F%91%E5%A3%B0%23" target="weibo">
 4人入室抢婴案开庭前姜甲儒发声（热度：16270）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E9%80%BC%E8%BF%913150%E7%BE%8E%E5%85%83%E5%88%B7%E6%96%B0%E5%8E%86%E5%8F%B2%E9%AB%98%E4%BD%8D%23" target="weibo">
+黄金逼近3150美元刷新历史高位（热度：13301）
 </a>
 </li>
 
