@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743608525719,
+  "endTime": 1743611535008,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -723,6 +723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 771856,
+      "num": 225076,
+      "word": "霸王茶姬 哪吒",
+      "onboard_time": 1743607404,
+      "rank": 47,
+      "category": "美食,电影"
+    },
+    {
       "raw_hot": 752525,
       "num": 704730,
       "word": "上海有门店卖狗狗麻辣烫25元一斤",
@@ -1003,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551572,
+      "num": 846602,
+      "word": "妻子不愿继续生育离婚后获补偿35万",
+      "onboard_time": 1743606685,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 547347,
       "num": 547347,
       "word": "浪姐三公淘汰",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1743475822,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 515465,
-      "num": 515465,
-      "word": "妻子不愿继续生育离婚后获补偿35万",
-      "onboard_time": 1743606685,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 514768,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1743595403,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 472153,
+      "num": 472153,
+      "word": "何洛洛 生命树",
+      "onboard_time": 1743608361,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 472076,
@@ -1331,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395899,
+      "num": 395899,
+      "word": "心疼小白熊",
+      "onboard_time": 1743608901,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 395270,
       "num": 395270,
       "word": "黄油与面包回应标价15元收款19元",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1743475462,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 369533,
+      "num": 218782,
+      "word": "甲亢哥说中国是被低估的地方",
+      "onboard_time": 1743607762,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365551,
@@ -2193,14 +2225,6 @@
       "onboard_time": 1743493223,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 248410,
-      "num": 198719,
-      "word": "霸王茶姬 哪吒",
-      "onboard_time": 1743607404,
-      "rank": 47,
-      "category": "美食,电影"
     },
     {
       "raw_hot": 247923,
@@ -2985,6 +3009,14 @@
       "onboard_time": 1743586342,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198261,
+      "num": 198261,
+      "word": "豆包你现在改名叫邓超",
+      "onboard_time": 1743609381,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 198088,
@@ -4219,14 +4251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150462,
-      "num": 175949,
-      "word": "何洛洛 生命树",
-      "onboard_time": 1743608361,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150296,
       "num": 150296,
       "word": "解放军联合演训第2天",
@@ -4412,7 +4436,7 @@
     },
     {
       "raw_hot": 144564,
-      "num": 144564,
+      "num": 171395,
       "word": "王安宇抹布文学",
       "onboard_time": 1743608123,
       "rank": 44,
@@ -4801,6 +4825,14 @@
       "onboard_time": 1743511462,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131833,
+      "num": 139207,
+      "word": "外交部回应美欧日等指责中方联合演训",
+      "onboard_time": 1743609262,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 131707,
@@ -5787,6 +5819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83574,
+      "num": 83574,
+      "word": "不要焦虑2小时和8公里以外的事",
+      "onboard_time": 1743611180,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83304,
       "num": 134337,
       "word": "乘风2025四公帮唱组队征集",
@@ -6043,6 +6083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66612,
+      "num": 76170,
+      "word": "棋士",
+      "onboard_time": 1743610760,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66061,
       "num": 66061,
       "word": "政法大学教授谈肖央新片社会意义",
@@ -6073,6 +6121,14 @@
       "onboard_time": 1743582502,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64751,
+      "num": 204534,
+      "word": "3分钟看懂特朗普对等关税始末",
+      "onboard_time": 1743607822,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 64590,
@@ -6315,6 +6371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54441,
+      "num": 227701,
+      "word": "东部战区演训雷霆出击",
+      "onboard_time": 1743610460,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54214,
       "num": 398903,
       "word": "有车企智驾培训仅仅是走流程",
@@ -6385,6 +6449,14 @@
       "onboard_time": 1743549258,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49048,
+      "num": 75765,
+      "word": "美国高官工作中能捅多大篓子",
+      "onboard_time": 1743609501,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 48732,
@@ -6691,28 +6763,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30868,
-      "num": 175727,
-      "word": "甲亢哥说中国是被低估的地方",
-      "onboard_time": 1743607762,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30575,
       "num": 411276,
       "word": "伪造5000份报告非法获利65万获刑",
       "onboard_time": 1743582563,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30563,
-      "num": 204534,
-      "word": "3分钟看懂特朗普对等关税始末",
-      "onboard_time": 1743607822,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30302,
