@@ -1,0 +1,410 @@
+{
+  "runTime": 1743563634413,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1120340,
+        "num": 1179254,
+        "word": "王蓉回应浪姐被淘汰",
+        "onboard_time": 1743560722,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 760528,
+        "num": 760528,
+        "word": "东部战区海报毁瘫",
+        "onboard_time": 1743562582,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20730,
+        "num": 740122,
+        "word": "春天是藏在公园的诗情画意",
+        "onboard_time": 1743512724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 720043,
+        "num": 720043,
+        "word": "副区长奢靡成瘾10年网贷781万",
+        "onboard_time": 1743555923,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 704730,
+        "num": 704730,
+        "word": "上海有门店卖狗狗麻辣烫25元一斤",
+        "onboard_time": 1743560300,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424005,
+        "num": 424005,
+        "word": "解放军台湾海峡中部南部演练",
+        "onboard_time": 1743556761,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 407328,
+        "num": 407328,
+        "word": "彭小苒月亮姐姐 三公淘汰",
+        "onboard_time": 1743561922,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378947,
+        "num": 378947,
+        "word": "孤独症男孩吹奏好想爱这个世界啊",
+        "onboard_time": 1743558381,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356359,
+        "num": 356359,
+        "word": "东部战区模拟对重要港口精确打击",
+        "onboard_time": 1743560300,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327515,
+        "num": 327515,
+        "word": "台湾",
+        "onboard_time": 1743552321,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325456,
+        "num": 326603,
+        "word": "东部战区军事行动主题海报毁瘫",
+        "onboard_time": 1743562703,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3745107,
+        "num": 325049,
+        "word": "雷军回应",
+        "onboard_time": 1743517885,
+        "rank": 11,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 1163965,
+        "num": 323349,
+        "word": "小米汽车回应",
+        "onboard_time": 1743517885,
+        "rank": 12,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 1131544,
+        "num": 323111,
+        "word": "宁德时代称小米SU7用的不是其电池",
+        "onboard_time": 1743562102,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1064576,
+        "num": 321661,
+        "word": "金秀贤被举报偷税漏税",
+        "onboard_time": 1743561081,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641040,
+        "num": 319383,
+        "word": "李胜利将在中国探索娱乐事业",
+        "onboard_time": 1743557841,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533926,
+        "num": 317595,
+        "word": "孙子被抢走爷爷一天抽五六盒烟去世",
+        "onboard_time": 1743517584,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455168,
+        "num": 316945,
+        "word": "山区孩子为赵露思发声",
+        "onboard_time": 1743551179,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105840,
+        "num": 315770,
+        "word": "麦琳分享减脂餐",
+        "onboard_time": 1743562822,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40099,
+        "num": 313740,
+        "word": "美议员连续演讲超过24小时抨击特朗普",
+        "onboard_time": 1743563242,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 666543,
+        "num": 312682,
+        "word": "迪士尼回应金秀贤新剧问题",
+        "onboard_time": 1743556881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350570,
+        "num": 311316,
+        "word": "刘丁硕回应巴黎奥运偷笑",
+        "onboard_time": 1743557002,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310250,
+        "num": 310250,
+        "word": "优时颜 张康乐马柏全",
+        "onboard_time": 1743561442,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270669,
+        "num": 270669,
+        "word": "医生提醒不要频繁做CT",
+        "onboard_time": 1743562943,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240272,
+        "num": 240272,
+        "word": "脖子洗不干净或是身体发出危险信号",
+        "onboard_time": 1743553343,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206244,
+        "num": 239967,
+        "word": "无限超越班再现墨雨云间",
+        "onboard_time": 1743549500,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182002,
+        "num": 238454,
+        "word": "惊天魔盗团3预告",
+        "onboard_time": 1743563062,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175093,
+        "num": 236363,
+        "word": "吴宣仪组小考第一公演倒二",
+        "onboard_time": 1743562763,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161890,
+        "num": 233472,
+        "word": "双轨",
+        "onboard_time": 1743561021,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34189,
+        "num": 231596,
+        "word": "姜甲儒母亲寻子时曾2次险坠悬崖",
+        "onboard_time": 1743563062,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70190,
+        "num": 230789,
+        "word": "皇马绝杀纳达尔兴奋怒吼",
+        "onboard_time": 1743561081,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229781,
+        "num": 229781,
+        "word": "广东省考成绩",
+        "onboard_time": 1743557541,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 198672,
+        "num": 198672,
+        "word": "上海乐高乐园公布票价",
+        "onboard_time": 1743562221,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 195047,
+        "num": 195047,
+        "word": "杨紫樱桃随拍",
+        "onboard_time": 1743562822,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151939,
+        "num": 191613,
+        "word": "浪姐三公淘汰",
+        "onboard_time": 1743554303,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190150,
+        "num": 190150,
+        "word": "王曼昱小岱封面大片",
+        "onboard_time": 1743562881,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158238,
+        "num": 158238,
+        "word": "杨奇刘亦菲合影",
+        "onboard_time": 1743563602,
+        "rank": 36,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 154923,
+        "num": 154923,
+        "word": "范丞丞说沈腾像悲伤蛙",
+        "onboard_time": 1743563421,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150296,
+        "num": 150296,
+        "word": "解放军联合演训第2天",
+        "onboard_time": 1743551360,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55243,
+        "num": 149642,
+        "word": "冰壶",
+        "onboard_time": 1743563602,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172830,
+        "num": 149628,
+        "word": "关税",
+        "onboard_time": 1743555923,
+        "rank": 40,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 149593,
+        "num": 149593,
+        "word": "祭天剧本",
+        "onboard_time": 1743563421,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141819,
+        "num": 141819,
+        "word": "中国搜救犬在缅甸吃冰降温",
+        "onboard_time": 1743516624,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138980,
+        "num": 138980,
+        "word": "这种口腔溃疡可能是HPV感染",
+        "onboard_time": 1743555081,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136062,
+        "num": 136062,
+        "word": "东方神起再续约SM",
+        "onboard_time": 1743561622,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134814,
+        "num": 134814,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134172,
+        "num": 134172,
+        "word": "王一博追风者定档央视一套",
+        "onboard_time": 1743558982,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129057,
+        "num": 129057,
+        "word": "勇士摁不住了",
+        "onboard_time": 1743557961,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128117,
+        "num": 128117,
+        "word": "抖音辟谣张一鸣加入新加坡国籍",
+        "onboard_time": 1743559881,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124967,
+        "num": 124967,
+        "word": "男子误入洗浴中心女宾区致顾客走光",
+        "onboard_time": 1743516443,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度总统互致贺电#"
+    }
+  }
+}

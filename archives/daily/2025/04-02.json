@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743563114070,
+  "endTime": 1743563634413,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -35,16 +35,24 @@
       "category": "辟谣/通报,汽车"
     },
     {
-      "raw_hot": 1102641,
-      "num": 1176422,
+      "raw_hot": 1131544,
+      "num": 323111,
+      "word": "宁德时代称小米SU7用的不是其电池",
+      "onboard_time": 1743562102,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 1120340,
+      "num": 1179254,
       "word": "王蓉回应浪姐被淘汰",
       "onboard_time": 1743560722,
       "rank": 0,
       "category": "综艺"
     },
     {
-      "raw_hot": 1004651,
-      "num": 306048,
+      "raw_hot": 1064576,
+      "num": 321661,
       "word": "金秀贤被举报偷税漏税",
       "onboard_time": 1743561081,
       "rank": 12,
@@ -76,11 +84,19 @@
     },
     {
       "raw_hot": 808392,
-      "num": 305061,
+      "num": 319383,
       "word": "李胜利将在中国探索娱乐事业",
       "onboard_time": 1743557841,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 760528,
+      "num": 760528,
+      "word": "东部战区海报毁瘫",
+      "onboard_time": 1743562582,
+      "rank": 9,
+      "category": "电影,剧集"
     },
     {
       "raw_hot": 728206,
@@ -91,12 +107,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 684346,
-      "num": 299962,
-      "word": "宁德时代称小米SU7用的不是其电池",
-      "onboard_time": 1743562102,
-      "rank": 15,
-      "category": "汽车"
+      "raw_hot": 704730,
+      "num": 704730,
+      "word": "上海有门店卖狗狗麻辣烫25元一斤",
+      "onboard_time": 1743560300,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 683322,
@@ -123,14 +139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 589959,
-      "num": 589959,
-      "word": "上海有门店卖狗狗麻辣烫25元一斤",
-      "onboard_time": 1743560300,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 547347,
       "num": 547347,
       "word": "浪姐三公淘汰",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 524685,
-      "num": 264498,
+      "num": 311316,
       "word": "刘丁硕回应巴黎奥运偷笑",
       "onboard_time": 1743557002,
       "rank": 19,
@@ -179,11 +187,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 407328,
+      "num": 407328,
+      "word": "彭小苒月亮姐姐 三公淘汰",
+      "onboard_time": 1743561922,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381563,
       "num": 381563,
       "word": "中国搜救犬在缅甸吃冰降温",
       "onboard_time": 1743516624,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378947,
+      "num": 378947,
+      "word": "孤独症男孩吹奏好想爱这个世界啊",
+      "onboard_time": 1743558381,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -219,20 +243,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334470,
-      "num": 334470,
-      "word": "孤独症男孩吹奏好想爱这个世界啊",
-      "onboard_time": 1743558381,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 328825,
       "num": 328825,
       "word": "优时颜 张康乐马柏全",
       "onboard_time": 1743561442,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325456,
+      "num": 326603,
+      "word": "东部战区军事行动主题海报毁瘫",
+      "onboard_time": 1743562703,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 315684,
@@ -251,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310085,
-      "num": 310085,
-      "word": "彭小苒月亮姐姐 三公淘汰",
-      "onboard_time": 1743561922,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 292167,
       "num": 700149,
       "word": "雁回时删了6集",
@@ -273,6 +289,14 @@
       "onboard_time": 1743555863,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270669,
+      "num": 270669,
+      "word": "医生提醒不要频繁做CT",
+      "onboard_time": 1743562943,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 253365,
@@ -291,36 +315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236098,
-      "num": 236098,
-      "word": "东部战区军事行动主题海报毁瘫",
-      "onboard_time": 1743562703,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 222452,
-      "num": 222452,
-      "word": "医生提醒不要频繁做CT",
-      "onboard_time": 1743562943,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 220660,
       "num": 220660,
       "word": "黄油与面包回应标价15元收款19元",
       "onboard_time": 1743507383,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220244,
-      "num": 309804,
-      "word": "东部战区海报毁瘫",
-      "onboard_time": 1743562582,
-      "rank": 9,
-      "category": "电影,剧集"
     },
     {
       "raw_hot": 214622,
@@ -361,6 +361,22 @@
       "onboard_time": 1743559341,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198672,
+      "num": 198672,
+      "word": "上海乐高乐园公布票价",
+      "onboard_time": 1743562221,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 195047,
+      "num": 195047,
+      "word": "杨紫樱桃随拍",
+      "onboard_time": 1743562822,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 194847,
@@ -411,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182002,
+      "num": 238454,
+      "word": "惊天魔盗团3预告",
+      "onboard_time": 1743563062,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 180461,
       "num": 180461,
       "word": "韩国游客喊话张艺兴你的家乡太棒了",
@@ -420,19 +444,11 @@
     },
     {
       "raw_hot": 179834,
-      "num": 195545,
+      "num": 233472,
       "word": "双轨",
       "onboard_time": 1743561021,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177615,
-      "num": 177615,
-      "word": "上海乐高乐园公布票价",
-      "onboard_time": 1743562221,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 177187,
@@ -459,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175093,
+      "num": 236363,
+      "word": "吴宣仪组小考第一公演倒二",
+      "onboard_time": 1743562763,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172942,
       "num": 172942,
       "word": "东部战区组织海峡雷霆2025A演练",
@@ -473,14 +497,6 @@
       "onboard_time": 1743518245,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161593,
-      "num": 161593,
-      "word": "惊天魔盗团3预告",
-      "onboard_time": 1743563062,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 161506,
@@ -507,12 +523,20 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 160271,
-      "num": 160271,
-      "word": "杨紫樱桃随拍",
-      "onboard_time": 1743562822,
+      "raw_hot": 158238,
+      "num": 158238,
+      "word": "杨奇刘亦菲合影",
+      "onboard_time": 1743563602,
       "rank": 36,
-      "category": "艺人"
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 154923,
+      "num": 154923,
+      "word": "范丞丞说沈腾像悲伤蛙",
+      "onboard_time": 1743563421,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 151910,
@@ -520,6 +544,22 @@
       "word": "苦尽柑来遇见你两代人画报",
       "onboard_time": 1743557901,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150296,
+      "num": 150296,
+      "word": "解放军联合演训第2天",
+      "onboard_time": 1743551360,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 149593,
+      "num": 149593,
+      "word": "祭天剧本",
+      "onboard_time": 1743563421,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -563,11 +603,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134582,
-      "num": 134582,
-      "word": "解放军联合演训第2天",
-      "onboard_time": 1743551360,
-      "rank": 35,
+      "raw_hot": 134814,
+      "num": 134814,
+      "word": "东部战区进逼",
+      "onboard_time": 1743465321,
+      "rank": 40,
       "category": "国内时政"
     },
     {
@@ -579,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130666,
-      "num": 130666,
-      "word": "吴宣仪组小考第一公演倒二",
-      "onboard_time": 1743562763,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129135,
       "num": 129135,
       "word": "老铺黄金36家店猛赚14.7亿",
@@ -595,20 +627,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 127408,
-      "num": 127408,
-      "word": "抖音辟谣张一鸣加入新加坡国籍",
-      "onboard_time": 1743559881,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 125806,
+      "raw_hot": 129057,
       "num": 148539,
       "word": "勇士摁不住了",
       "onboard_time": 1743557961,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128117,
+      "num": 128117,
+      "word": "抖音辟谣张一鸣加入新加坡国籍",
+      "onboard_time": 1743559881,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 125738,
@@ -625,14 +657,6 @@
       "onboard_time": 1743550038,
       "rank": 23,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 123612,
-      "num": 123612,
-      "word": "东部战区进逼",
-      "onboard_time": 1743465321,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 120541,
@@ -721,6 +745,14 @@
       "onboard_time": 1743558982,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105840,
+      "num": 315770,
+      "word": "麦琳分享减脂餐",
+      "onboard_time": 1743562822,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 100718,
@@ -836,7 +868,7 @@
     },
     {
       "raw_hot": 76971,
-      "num": 184795,
+      "num": 230789,
       "word": "皇马绝杀纳达尔兴奋怒吼",
       "onboard_time": 1743561081,
       "rank": 31,
@@ -939,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55243,
+      "num": 149642,
+      "word": "冰壶",
+      "onboard_time": 1743563602,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53511,
       "num": 83909,
       "word": "被这一刻的日照金山治愈了",
@@ -979,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49351,
-      "num": 268505,
-      "word": "麦琳分享减脂餐",
-      "onboard_time": 1743562822,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 40181,
       "num": 40181,
       "word": "国产剧绝望的狠女上新了",
@@ -995,12 +1027,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40099,
+      "num": 313740,
+      "word": "美议员连续演讲超过24小时抨击特朗普",
+      "onboard_time": 1743563242,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34947,
       "num": 34947,
       "word": "傅云夕还活着吗",
       "onboard_time": 1743518666,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34189,
+      "num": 231596,
+      "word": "姜甲儒母亲寻子时曾2次险坠悬崖",
+      "onboard_time": 1743563062,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32917,
@@ -1017,14 +1065,6 @@
       "onboard_time": 1743530895,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29472,
-      "num": 126989,
-      "word": "姜甲儒母亲寻子时曾2次险坠悬崖",
-      "onboard_time": 1743563062,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29443,
@@ -1044,7 +1084,7 @@
     },
     {
       "raw_hot": 28585,
-      "num": 640599,
+      "num": 740122,
       "word": "春天是藏在公园的诗情画意",
       "onboard_time": 1743512724,
       "rank": 2,
