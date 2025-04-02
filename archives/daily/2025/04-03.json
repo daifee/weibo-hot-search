@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743618822990,
+  "endTime": 1743619614408,
   "band_list": [
     {
       "raw_hot": 1471890,
@@ -499,6 +499,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 26278,
+      "num": 62556,
+      "word": "正告台独势力",
+      "onboard_time": 1743615856,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24502,
       "num": 72367,
       "word": "Switch2日版 自己锁自己",
@@ -523,12 +531,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13488,
-      "num": 62556,
-      "word": "正告台独势力",
-      "onboard_time": 1743615856,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 20528,
+      "num": 23575,
+      "word": "谢谢汉化组",
+      "onboard_time": 1743619274,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 15802,
+      "num": 23577,
+      "word": "五位盲人被公交司机温暖守护20年",
+      "onboard_time": 1743614538,
+      "rank": 43,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
