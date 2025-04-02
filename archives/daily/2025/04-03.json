@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743626414929,
+  "endTime": 1743628979900,
   "band_list": [
     {
       "raw_hot": 1471890,
@@ -427,6 +427,14 @@
       "category": "国际时政,国内时政"
     },
     {
+      "raw_hot": 60406,
+      "num": 60406,
+      "word": "特朗普力推的对等关税是啥",
+      "onboard_time": 1743619635,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58568,
       "num": 102699,
       "word": "黄磊说为张艺兴的表演骄傲",
@@ -467,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41984,
+      "num": 41984,
+      "word": "加沙所有大饼店因面粉耗尽停业",
+      "onboard_time": 1743625213,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40556,
       "num": 479802,
       "word": "联合国点赞中国新能源发展",
@@ -475,19 +491,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40192,
+      "num": 40192,
+      "word": "女子称买到古驰假口红被店员小号骂",
+      "onboard_time": 1743624014,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37245,
       "num": 59991,
       "word": "高颜值孤独症男孩小岱走红背后",
       "onboard_time": 1743620954,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35330,
-      "num": 35330,
-      "word": "女子称买到古驰假口红被店员小号骂",
-      "onboard_time": 1743624014,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -555,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21643,
-      "num": 43821,
-      "word": "特朗普力推的对等关税是啥",
-      "onboard_time": 1743619635,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 20997,
       "num": 26510,
       "word": "海警闽南话喊话台湾船只",
@@ -571,12 +579,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20924,
-      "num": 37760,
-      "word": "加沙所有大饼店因面粉耗尽停业",
-      "onboard_time": 1743625213,
-      "rank": 14,
-      "category": "海外新闻"
+      "raw_hot": 16270,
+      "num": 16270,
+      "word": "4人入室抢婴案开庭前姜甲儒发声",
+      "onboard_time": 1743626415,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14294,
+      "num": 31324,
+      "word": "演练可能还有BCD但不会一直延续",
+      "onboard_time": 1743627134,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11672,
@@ -585,6 +601,22 @@
       "onboard_time": 1743616635,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9783,
+      "num": 17401,
+      "word": "中国救援队伍在缅已救出9名幸存者",
+      "onboard_time": 1743628933,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9347,
+      "num": 17068,
+      "word": "多个商家售卖运动员个人信息被查处",
+      "onboard_time": 1743628815,
+      "rank": 42,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
