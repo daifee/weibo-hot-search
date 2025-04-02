@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743590646796,
+  "endTime": 1743592846745,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -183,6 +183,14 @@
       "num": 383789,
       "word": "祝绪丹忍得很辛苦吧",
       "onboard_time": 1743341363,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1985471,
+      "num": 302889,
+      "word": "胡歌 二胎",
+      "onboard_time": 1743592222,
       "rank": 10,
       "category": "艺人"
     },
@@ -571,6 +579,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1174032,
+      "num": 301987,
+      "word": "男子开车反复碾压他人致其身亡",
+      "onboard_time": 1743590303,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1163740,
       "num": 1163740,
       "word": "腾讯会议崩了",
@@ -660,7 +676,7 @@
     },
     {
       "raw_hot": 1107507,
-      "num": 1107507,
+      "num": 1132788,
       "word": "再见Switch",
       "onboard_time": 1743587782,
       "rank": 1,
@@ -977,6 +993,14 @@
       "onboard_time": 1743571642,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 834785,
+      "num": 300349,
+      "word": "PO回应与雪莉恋情",
+      "onboard_time": 1743591142,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 834306,
@@ -1523,6 +1547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 591645,
+      "num": 298775,
+      "word": "金秀贤方公布照片时间否认涉未成年",
+      "onboard_time": 1743592103,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 590870,
       "num": 590870,
       "word": "快递员弄丢客户2.9公斤金饰吓傻",
@@ -1561,6 +1593,14 @@
       "onboard_time": 1743580343,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 587787,
+      "num": 383382,
+      "word": "金秀贤恐面临破产危机",
+      "onboard_time": 1743588263,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 586597,
@@ -1633,6 +1673,14 @@
       "onboard_time": 1743405021,
       "rank": 14,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 570849,
+      "num": 570849,
+      "word": "藏海传40集",
+      "onboard_time": 1743590962,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 559545,
@@ -2001,14 +2049,6 @@
       "onboard_time": 1743568344,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 461719,
-      "num": 383382,
-      "word": "金秀贤恐面临破产危机",
-      "onboard_time": 1743588263,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 461696,
@@ -2507,6 +2547,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 376031,
+      "num": 376031,
+      "word": "盒饭姐骂浪费顾客后生意更火爆了",
+      "onboard_time": 1743589521,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375870,
       "num": 298827,
       "word": "李美越",
@@ -2601,6 +2649,14 @@
       "onboard_time": 1743508585,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 358512,
+      "num": 296791,
+      "word": "华晨宇方强硬表态是对裁缝创作宣战",
+      "onboard_time": 1743591381,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 358381,
@@ -3081,6 +3137,14 @@
       "onboard_time": 1743423443,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307047,
+      "num": 307047,
+      "word": "孤独症男孩因高颜值走红妈妈发声",
+      "onboard_time": 1743590722,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306671,
@@ -4019,6 +4083,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 239646,
+      "num": 227194,
+      "word": "G社是张若昀的站姐吧",
+      "onboard_time": 1743591322,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239318,
       "num": 239318,
       "word": "减脂食谱里为什么永远有西兰花",
@@ -4465,6 +4537,14 @@
       "onboard_time": 1743518427,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 214335,
+      "num": 296265,
+      "word": "赵丽颖这段走身更走心",
+      "onboard_time": 1743592283,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 214247,
@@ -5027,14 +5107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200113,
-      "num": 200113,
-      "word": "男子开车反复碾压他人致其身亡",
-      "onboard_time": 1743590303,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199977,
       "num": 199977,
       "word": "SMTR25",
@@ -5161,6 +5233,14 @@
       "onboard_time": 1743322100,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197449,
+      "num": 294851,
+      "word": "吴彦姝皱纹是时光的勋章",
+      "onboard_time": 1743592222,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 197349,
@@ -5931,6 +6011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180259,
+      "num": 180259,
+      "word": "樱花树下站谁都美",
+      "onboard_time": 1743588682,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 179959,
       "num": 179959,
       "word": "女子潜水被鲨鱼咬残水下未配安全员",
@@ -6217,14 +6305,6 @@
       "onboard_time": 1743496703,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171718,
-      "num": 171718,
-      "word": "樱花树下站谁都美",
-      "onboard_time": 1743588682,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 171697,
@@ -6889,6 +6969,14 @@
       "onboard_time": 1743306750,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157735,
+      "num": 157735,
+      "word": "研究生挂在嘴边的话",
+      "onboard_time": 1743590601,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 157571,
@@ -7987,6 +8075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137163,
+      "num": 720646,
+      "word": "有关部门严厉打击网上体育饭圈问题",
+      "onboard_time": 1743590541,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137104,
       "num": 137104,
       "word": "正常人的减脂餐",
@@ -8379,14 +8475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131304,
-      "num": 720646,
-      "word": "有关部门严厉打击网上体育饭圈问题",
-      "onboard_time": 1743590541,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131110,
       "num": 409817,
       "word": "山东舰航母编队参加演练",
@@ -8537,14 +8625,6 @@
       "onboard_time": 1743576083,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 128089,
-      "num": 128089,
-      "word": "研究生挂在嘴边的话",
-      "onboard_time": 1743590601,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 127803,
@@ -8739,6 +8819,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 124343,
+      "num": 124343,
+      "word": "CBA常规赛最佳阵容",
+      "onboard_time": 1743592581,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124062,
       "num": 124062,
       "word": "电视是00后的家庭氛围组",
@@ -8769,6 +8857,14 @@
       "onboard_time": 1743297380,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123080,
+      "num": 123080,
+      "word": "看吃相就知道小狗是男是女",
+      "onboard_time": 1743592824,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 122755,
@@ -9193,6 +9289,14 @@
       "onboard_time": 1743481886,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115850,
+      "num": 229731,
+      "word": "多家车企宣传时曾展示双手脱离方向盘",
+      "onboard_time": 1743591921,
+      "rank": 28,
+      "category": "舆论监督,汽车"
     },
     {
       "raw_hot": 115233,
@@ -10171,6 +10275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91267,
+      "num": 123376,
+      "word": "依法严惩拉踩引战和攻击谩骂等行为",
+      "onboard_time": 1743584483,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91256,
       "num": 448868,
       "word": "沉浸式感受广西三月三",
@@ -11049,14 +11161,6 @@
       "onboard_time": 1743548058,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 60196,
-      "num": 350120,
-      "word": "盒饭姐骂浪费顾客后生意更火爆了",
-      "onboard_time": 1743589521,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60083,
@@ -12275,6 +12379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23240,
+      "num": 188151,
+      "word": "李沁Gucci竹节展超强姐感",
+      "onboard_time": 1743591201,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 22961,
       "num": 29625,
       "word": "在缅中国人称震后联系家人手在抖",
@@ -12667,6 +12779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13103,
+      "num": 227504,
+      "word": "野良神第三季2028年播",
+      "onboard_time": 1743592042,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 12702,
       "num": 153461,
       "word": "大阪世博会吉祥物的捷克亲兄弟",
@@ -12833,6 +12953,14 @@
       "onboard_time": 1743451034,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9398,
+      "num": 170679,
+      "word": "日本老龄消防队",
+      "onboard_time": 1743592703,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 9080,
