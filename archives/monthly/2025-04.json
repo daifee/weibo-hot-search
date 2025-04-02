@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743576451034,
+  "endTime": 1743578647956,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -25,6 +25,14 @@
       "onboard_time": 1743484044,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4924233,
+      "num": 4924233,
+      "word": "王楚钦北大拟录取",
+      "onboard_time": 1743576981,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 4078541,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1808298,
-      "num": 456006,
+      "num": 552495,
       "word": "华晨宇 黄霄雲",
       "onboard_time": 1743477144,
       "rank": 20,
@@ -209,6 +217,14 @@
       "onboard_time": 1743492083,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1350471,
+      "num": 862340,
+      "word": "深航一空姐被乘客咬",
+      "onboard_time": 1743572902,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1342089,
@@ -347,6 +363,14 @@
       "category": "海外新闻,互联网"
     },
     {
+      "raw_hot": 1072131,
+      "num": 780852,
+      "word": "金秀贤假惺惺的你已出周边",
+      "onboard_time": 1743571163,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1064576,
       "num": 440756,
       "word": "金秀贤被举报偷税漏税",
@@ -355,28 +379,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1048137,
-      "num": 397075,
-      "word": "金秀贤假惺惺的你已出周边",
-      "onboard_time": 1743571163,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1046063,
-      "num": 393577,
+      "num": 776730,
       "word": "小米客服称SU7电池双供应商随机装",
       "onboard_time": 1743571642,
       "rank": 16,
       "category": "汽车"
     },
     {
-      "raw_hot": 930141,
-      "num": 506647,
-      "word": "深航一空姐被乘客咬",
-      "onboard_time": 1743572902,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 1020807,
+      "num": 1020807,
+      "word": "东部战区锁控",
+      "onboard_time": 1743575902,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 911127,
@@ -459,8 +475,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 841629,
+      "num": 841629,
+      "word": "李晟第一名",
+      "onboard_time": 1743577283,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 839777,
-      "num": 385089,
+      "num": 429748,
       "word": "龙应台称留给台湾的时间不多了",
       "onboard_time": 1743571642,
       "rank": 26,
@@ -489,6 +513,14 @@
       "onboard_time": 1743557841,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 788032,
+      "num": 788032,
+      "word": "柯南坦白和小兰在交往",
+      "onboard_time": 1743577283,
+      "rank": 7,
+      "category": "动漫"
     },
     {
       "raw_hot": 782426,
@@ -620,7 +652,7 @@
     },
     {
       "raw_hot": 590444,
-      "num": 590444,
+      "num": 787276,
       "word": "和分手六年的前任破镜重圆了",
       "onboard_time": 1743571341,
       "rank": 43,
@@ -628,7 +660,7 @@
     },
     {
       "raw_hot": 585777,
-      "num": 348809,
+      "num": 424591,
       "word": "初一女生父亲校门口殴打六年级学生",
       "onboard_time": 1743569783,
       "rank": 22,
@@ -1051,12 +1083,28 @@
       "category": "国内时政,网红"
     },
     {
+      "raw_hot": 356736,
+      "num": 356736,
+      "word": "网友曝小米汽车车主驾驶中睡着",
+      "onboard_time": 1743578482,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353098,
       "num": 353098,
       "word": "无限超越班再现墨雨云间",
       "onboard_time": 1743549500,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351428,
+      "num": 785490,
+      "word": "东部战区海报锁控",
+      "onboard_time": 1743575842,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 349241,
@@ -1116,7 +1164,7 @@
     },
     {
       "raw_hot": 338105,
-      "num": 461082,
+      "num": 581941,
       "word": "张小泉集团及法人等被执行31.3亿",
       "onboard_time": 1743568163,
       "rank": 14,
@@ -1153,6 +1201,14 @@
       "onboard_time": 1743501442,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332772,
+      "num": 332772,
+      "word": "五问小米SU7高速爆燃事故",
+      "onboard_time": 1743577822,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331750,
@@ -1227,8 +1283,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311536,
+      "num": 442074,
+      "word": "彭小苒浪姐比东宫还虐",
+      "onboard_time": 1743575241,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311393,
-      "num": 380754,
+      "num": 425250,
       "word": "虞书欣丁禹兮都在海口",
       "onboard_time": 1743575481,
       "rank": 29,
@@ -1323,6 +1387,14 @@
       "category": "互联网,艺人"
     },
     {
+      "raw_hot": 292637,
+      "num": 317409,
+      "word": "解放军说只要一声令下必将消灭台独",
+      "onboard_time": 1743568282,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 291582,
       "num": 270669,
       "word": "医生提醒不要频繁做CT",
@@ -1353,14 +1425,6 @@
       "onboard_time": 1743480565,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 287709,
-      "num": 317409,
-      "word": "解放军说只要一声令下必将消灭台独",
-      "onboard_time": 1743568282,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 282640,
@@ -1435,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273759,
+      "num": 426357,
+      "word": "刘畊宏回应cos海王被强制关播",
+      "onboard_time": 1743577882,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271960,
       "num": 271960,
       "word": "公摊面积最大的蔬菜",
@@ -1457,6 +1529,14 @@
       "onboard_time": 1743481106,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269437,
+      "num": 269437,
+      "word": "王曼昱关注星星的孩子",
+      "onboard_time": 1743577161,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 267809,
@@ -1563,6 +1643,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 254728,
+      "num": 254728,
+      "word": "韩国出土王室专用的中国瓷器",
+      "onboard_time": 1743575422,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 253365,
       "num": 253365,
       "word": "这种口腔溃疡可能是HPV感染",
@@ -1609,14 +1697,6 @@
       "onboard_time": 1743519505,
       "rank": 22,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 245229,
-      "num": 245229,
-      "word": "韩国出土王室专用的中国瓷器",
-      "onboard_time": 1743575422,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 243465,
@@ -1763,14 +1843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227469,
-      "num": 317302,
-      "word": "彭小苒浪姐比东宫还虐",
-      "onboard_time": 1743575241,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225960,
       "num": 225960,
       "word": "PH试纸碰他一下就变黑了 太碱了",
@@ -1897,6 +1969,22 @@
       "onboard_time": 1743518427,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 214043,
+      "num": 214043,
+      "word": "上班是最好的医丑",
+      "onboard_time": 1743576863,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 211881,
+      "num": 211881,
+      "word": "北大回应王楚钦拟录取",
+      "onboard_time": 1743578302,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 211735,
@@ -2075,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200315,
+      "num": 429752,
+      "word": "张艺兴直播",
+      "onboard_time": 1743578242,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199977,
       "num": 199977,
       "word": "SMTR25",
@@ -2251,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192039,
+      "num": 192039,
+      "word": "A股",
+      "onboard_time": 1743577101,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 191681,
       "num": 263224,
       "word": "林高远3比1格罗特",
@@ -2289,14 +2393,6 @@
       "onboard_time": 1743570682,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189590,
-      "num": 189590,
-      "word": "东部战区海报锁控",
-      "onboard_time": 1743575842,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 189239,
@@ -3003,14 +3099,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 151975,
-      "num": 407789,
-      "word": "东部战区锁控",
-      "onboard_time": 1743575902,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 151910,
       "num": 191632,
       "word": "苦尽柑来遇见你两代人画报",
@@ -3491,6 +3579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131110,
+      "num": 409817,
+      "word": "山东舰航母编队参加演练",
+      "onboard_time": 1743575842,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130885,
       "num": 200302,
       "word": "韩泰山 韩后山",
@@ -3649,6 +3745,14 @@
       "onboard_time": 1743499702,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124027,
+      "num": 124027,
+      "word": "大张伟玩梗夹带私货",
+      "onboard_time": 1743578602,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 122402,
@@ -4163,6 +4267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95697,
+      "num": 777242,
+      "word": "香奈儿J12蓝调美学",
+      "onboard_time": 1743573862,
+      "rank": 13,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 93334,
       "num": 134447,
       "word": "宇露君沾",
@@ -4185,14 +4297,6 @@
       "onboard_time": 1743495923,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 91074,
-      "num": 403892,
-      "word": "香奈儿J12蓝调美学",
-      "onboard_time": 1743573862,
-      "rank": 13,
-      "category": "时尚"
     },
     {
       "raw_hot": 89892,
@@ -4627,14 +4731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 58101,
-      "num": 409817,
-      "word": "山东舰航母编队参加演练",
-      "onboard_time": 1743575842,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 56893,
       "num": 104588,
       "word": "台湾当归也必归",
@@ -4649,6 +4745,14 @@
       "onboard_time": 1743457574,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56077,
+      "num": 274785,
+      "word": "南京二手房挂牌量激增322%",
+      "onboard_time": 1743578423,
+      "rank": 29,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 55586,
@@ -5297,6 +5401,14 @@
       "onboard_time": 1743564803,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12146,
+      "num": 177556,
+      "word": "甲亢哥在成都街头斗舞",
+      "onboard_time": 1743578062,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11648,

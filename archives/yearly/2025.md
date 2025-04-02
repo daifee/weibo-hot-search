@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/02 14:47:31
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/02 15:24:07
 </p>
 </blockquote>
 <p>
@@ -665,6 +665,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BD%A9%E6%85%88%E5%8C%BB%E9%99%A2%E9%80%81%E5%A4%A7S%E6%9C%80%E5%90%8E%E4%B8%80%E7%A8%8B%23" target="weibo">
 吴佩慈医院送大S最后一程（热度：5151427）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8C%97%E5%A4%A7%E6%8B%9F%E5%BD%95%E5%8F%96%23" target="weibo">
+王楚钦北大拟录取（热度：4924233）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%AB%98%E4%BA%AE%E5%8E%BB%E4%B8%96%23" target="weibo">
 演员高亮去世（热度：2831846）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B8%9D%E6%B0%91%E8%BF%9E%E5%8F%9120%E6%9D%A1%E6%82%BC%E5%BF%B5%E5%A4%A7S%23" target="weibo">
-周渝民连发20条悼念大S（热度：2829105）
 </a>
 </li>
 
