@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743558714016,
+  "endTime": 1743560030824,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1206281,
+      "num": 330947,
+      "word": "迪士尼回应金秀贤新剧问题",
+      "onboard_time": 1743556881,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1189214,
       "num": 1189214,
       "word": "台湾",
@@ -283,14 +291,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 975187,
-      "num": 330947,
-      "word": "迪士尼回应金秀贤新剧问题",
-      "onboard_time": 1743556881,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 911127,
       "num": 409045,
       "word": "杜淳妻子网购遭客服拿地址威胁",
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 843928,
-      "num": 424992,
+      "num": 468969,
       "word": "吴宣仪晕倒被工作人员抱下台",
       "onboard_time": 1743552261,
       "rank": 5,
@@ -385,6 +385,14 @@
       "onboard_time": 1743479004,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 808392,
+      "num": 301673,
+      "word": "李胜利将在中国探索娱乐事业",
+      "onboard_time": 1743557841,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 782426,
@@ -563,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524685,
+      "num": 264498,
+      "word": "刘丁硕回应巴黎奥运偷笑",
+      "onboard_time": 1743557002,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 519490,
       "num": 519490,
       "word": "海警按一个中国原则环台岛执法管控",
@@ -587,20 +603,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504166,
+      "num": 504166,
+      "word": "关税",
+      "onboard_time": 1743555923,
+      "rank": 4,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 498494,
       "num": 399341,
       "word": "薛之谦 愚人节",
       "onboard_time": 1743481826,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 495927,
-      "num": 264498,
-      "word": "刘丁硕回应巴黎奥运偷笑",
-      "onboard_time": 1743557002,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 495904,
@@ -627,14 +643,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 449642,
-      "num": 449642,
-      "word": "关税",
-      "onboard_time": 1743555923,
-      "rank": 4,
-      "category": "国际时政,财经"
-    },
-    {
       "raw_hot": 445634,
       "num": 445634,
       "word": "张继科说信我是哥们不信我是敌人",
@@ -649,6 +657,14 @@
       "onboard_time": 1743464240,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 437223,
+      "num": 437223,
+      "word": "广东省考成绩",
+      "onboard_time": 1743557541,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 435494,
@@ -891,14 +907,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 337810,
-      "num": 337810,
-      "word": "广东省考成绩",
-      "onboard_time": 1743557541,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 337642,
       "num": 337642,
       "word": "宋妍霏组 三公第一",
@@ -928,14 +936,6 @@
       "word": "橘子娱乐 离职前做一次朱志鑫站姐",
       "onboard_time": 1743501442,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 332030,
-      "num": 301673,
-      "word": "李胜利将在中国探索娱乐事业",
-      "onboard_time": 1743557841,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1009,6 +1009,14 @@
       "onboard_time": 1743479363,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 303365,
+      "num": 303365,
+      "word": "孤独症男孩吹奏好想爱这个世界啊",
+      "onboard_time": 1743558381,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303154,
@@ -1523,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211412,
+      "num": 211412,
+      "word": "王一博追风者定档央视一套",
+      "onboard_time": 1743558982,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210343,
       "num": 275266,
       "word": "谁又把我的中药换成冰美式了",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1743501623,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202411,
+      "num": 199032,
+      "word": "澳门世界杯2025",
+      "onboard_time": 1743559341,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 200351,
@@ -1817,6 +1841,14 @@
       "onboard_time": 1743511343,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185608,
+      "num": 185608,
+      "word": "乐道总裁艾铁成离任",
+      "onboard_time": 1743559821,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 185580,
@@ -2163,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161506,
+      "num": 337702,
+      "word": "东部战区对台军演新代号意味着什么",
+      "onboard_time": 1743557360,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 161487,
       "num": 161487,
       "word": "租客体检多处异常怀疑房子发霉所致",
@@ -2291,20 +2331,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153113,
-      "num": 153113,
-      "word": "孤独症男孩吹奏好想爱这个世界啊",
-      "onboard_time": 1743558381,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153085,
       "num": 153085,
       "word": "夹竹桃 中毒",
       "onboard_time": 1743482785,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 151910,
+      "num": 191632,
+      "word": "苦尽柑来遇见你两代人画报",
+      "onboard_time": 1743557901,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 151794,
@@ -2475,12 +2515,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142352,
-      "num": 157540,
-      "word": "苦尽柑来遇见你两代人画报",
-      "onboard_time": 1743557901,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 142822,
+      "num": 155228,
+      "word": "叶童三公分数",
+      "onboard_time": 1743557060,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 142044,
@@ -2489,14 +2529,6 @@
       "onboard_time": 1743485124,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 141889,
-      "num": 155228,
-      "word": "叶童三公分数",
-      "onboard_time": 1743557060,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 141740,
@@ -2529,6 +2561,14 @@
       "onboard_time": 1743489384,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139223,
+      "num": 139223,
+      "word": "金玟庭愚人节神图点赞最高",
+      "onboard_time": 1743557122,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 138872,
@@ -2723,6 +2763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129135,
+      "num": 129135,
+      "word": "老铺黄金36家店猛赚14.7亿",
+      "onboard_time": 1743559341,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128860,
       "num": 325258,
       "word": "做堂堂正正的中国人",
@@ -2819,14 +2867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122634,
-      "num": 337702,
-      "word": "东部战区对台军演新代号意味着什么",
-      "onboard_time": 1743557360,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 122402,
       "num": 122402,
       "word": "让孙颖莎头疼的事出现了",
@@ -2884,11 +2924,27 @@
     },
     {
       "raw_hot": 120541,
-      "num": 120541,
+      "num": 122158,
       "word": "特朗普一系列关税公布后将立即生效",
       "onboard_time": 1743557302,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120102,
+      "num": 120102,
+      "word": "韩汶栩生病",
+      "onboard_time": 1743559282,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119837,
+      "num": 321021,
+      "word": "四人入室抢婴案今日开庭",
+      "onboard_time": 1743557181,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119763,
@@ -2905,6 +2961,14 @@
       "onboard_time": 1743515064,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119231,
+      "num": 148539,
+      "word": "勇士摁不住了",
+      "onboard_time": 1743557961,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 118792,
@@ -2947,20 +3011,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117352,
-      "num": 117352,
-      "word": "勇士摁不住了",
-      "onboard_time": 1743557961,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117058,
       "num": 134563,
       "word": "横店变竖店了",
       "onboard_time": 1743422661,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117029,
+      "num": 117029,
+      "word": "抖音辟谣张一鸣加入新加坡国籍",
+      "onboard_time": 1743559881,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 116996,
@@ -3001,6 +3065,22 @@
       "onboard_time": 1743530656,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114419,
+      "num": 114419,
+      "word": "一线城市约50%人口在租房",
+      "onboard_time": 1743559341,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114384,
+      "num": 114384,
+      "word": "什么是海峡雷霆",
+      "onboard_time": 1743558921,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113984,
@@ -3051,6 +3131,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 111613,
+      "num": 111613,
+      "word": "北京自动驾驶新规今起实施",
+      "onboard_time": 1743559581,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 111318,
       "num": 111318,
       "word": "业界人士质疑车企过度宣传智驾",
@@ -3091,12 +3179,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 108063,
-      "num": 108063,
-      "word": "金玟庭愚人节神图点赞最高",
-      "onboard_time": 1743557122,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 107577,
+      "num": 114388,
+      "word": "勇士vs灰熊",
+      "onboard_time": 1743558620,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106534,
+      "num": 106534,
+      "word": "库里半场32分",
+      "onboard_time": 1743558982,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 106429,
@@ -3243,14 +3339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 96991,
-      "num": 96991,
-      "word": "勇士vs灰熊",
-      "onboard_time": 1743558620,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96910,
       "num": 134417,
       "word": "中国咖啡98%来自云南",
@@ -3369,14 +3457,6 @@
       "onboard_time": 1743521903,
       "rank": 49,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 85025,
-      "num": 321021,
-      "word": "四人入室抢婴案今日开庭",
-      "onboard_time": 1743557181,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84755,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1743560030824,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1605478,
+        "num": 1605478,
+        "word": "副区长奢靡成瘾10年网贷781万",
+        "onboard_time": 1743555923,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 570503,
+        "num": 570503,
+        "word": "台湾",
+        "onboard_time": 1743552321,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23363,
+        "num": 526764,
+        "word": "春天是藏在公园的诗情画意",
+        "onboard_time": 1743512724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504166,
+        "num": 504166,
+        "word": "关税",
+        "onboard_time": 1743555923,
+        "rank": 3,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 480738,
+        "num": 480738,
+        "word": "浪姐三公淘汰",
+        "onboard_time": 1743554303,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658331,
+        "num": 468969,
+        "word": "吴宣仪晕倒被工作人员抱下台",
+        "onboard_time": 1743552261,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437223,
+        "num": 437223,
+        "word": "广东省考成绩",
+        "onboard_time": 1743557541,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 354711,
+        "num": 354711,
+        "word": "中国搜救犬在缅甸吃冰降温",
+        "onboard_time": 1743516624,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322944,
+        "num": 322944,
+        "word": "解放军台湾海峡中部南部演练",
+        "onboard_time": 1743556761,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 303365,
+        "num": 303365,
+        "word": "孤独症男孩吹奏好想爱这个世界啊",
+        "onboard_time": 1743558381,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3947801,
+        "num": 302966,
+        "word": "雷军回应",
+        "onboard_time": 1743517885,
+        "rank": 10,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 1206281,
+        "num": 294016,
+        "word": "迪士尼回应金秀贤新剧问题",
+        "onboard_time": 1743556881,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 816076,
+        "num": 286112,
+        "word": "小米汽车回应",
+        "onboard_time": 1743517885,
+        "rank": 12,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 808392,
+        "num": 278668,
+        "word": "李胜利将在中国探索娱乐事业",
+        "onboard_time": 1743557841,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 684415,
+        "num": 272061,
+        "word": "孙子被抢走爷爷一天抽五六盒烟去世",
+        "onboard_time": 1743517584,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 675994,
+        "num": 262307,
+        "word": "山区孩子为赵露思发声",
+        "onboard_time": 1743551179,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524685,
+        "num": 253587,
+        "word": "刘丁硕回应巴黎奥运偷笑",
+        "onboard_time": 1743557002,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253527,
+        "num": 253527,
+        "word": "无限超越班再现墨雨云间",
+        "onboard_time": 1743549500,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211412,
+        "num": 211412,
+        "word": "王一博追风者定档央视一套",
+        "onboard_time": 1743558982,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201626,
+        "num": 201626,
+        "word": "生命树",
+        "onboard_time": 1743555863,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278573,
+        "num": 200691,
+        "word": "脖子洗不干净或是身体发出危险信号",
+        "onboard_time": 1743553343,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232516,
+        "num": 199881,
+        "word": "男子误入洗浴中心女宾区致顾客走光",
+        "onboard_time": 1743516443,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202411,
+        "num": 199032,
+        "word": "澳门世界杯2025",
+        "onboard_time": 1743559341,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197744,
+        "num": 197744,
+        "word": "这种口腔溃疡可能是HPV感染",
+        "onboard_time": 1743555081,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151910,
+        "num": 191632,
+        "word": "苦尽柑来遇见你两代人画报",
+        "onboard_time": 1743557901,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185608,
+        "num": 185608,
+        "word": "乐道总裁艾铁成离任",
+        "onboard_time": 1743559821,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 161506,
+        "num": 161506,
+        "word": "东部战区对台军演新代号意味着什么",
+        "onboard_time": 1743557360,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119231,
+        "num": 148539,
+        "word": "勇士摁不住了",
+        "onboard_time": 1743557961,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142822,
+        "num": 142822,
+        "word": "叶童三公分数",
+        "onboard_time": 1743557060,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141981,
+        "num": 141981,
+        "word": "00后小伙嚼槟榔8年变大方脸",
+        "onboard_time": 1743521663,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139223,
+        "num": 139223,
+        "word": "金玟庭愚人节神图点赞最高",
+        "onboard_time": 1743557122,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138142,
+        "num": 138142,
+        "word": "台湾从来不是一个国家今后更绝无可能",
+        "onboard_time": 1743555081,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132634,
+        "num": 132634,
+        "word": "医生解读网友关注金秀贤舌头",
+        "onboard_time": 1743513804,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129135,
+        "num": 129135,
+        "word": "老铺黄金36家店猛赚14.7亿",
+        "onboard_time": 1743559341,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99592,
+        "num": 122158,
+        "word": "特朗普一系列关税公布后将立即生效",
+        "onboard_time": 1743557302,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120813,
+        "num": 120813,
+        "word": "解放军联合演训第2天",
+        "onboard_time": 1743551360,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120102,
+        "num": 120102,
+        "word": "韩汶栩生病",
+        "onboard_time": 1743559282,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120006,
+        "num": 120006,
+        "word": "半熟4体育生杀死了比赛",
+        "onboard_time": 1743518245,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119837,
+        "num": 119837,
+        "word": "四人入室抢婴案今日开庭",
+        "onboard_time": 1743557181,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119686,
+        "num": 119686,
+        "word": "第4名在立陶宛失踪美士兵遗体找到",
+        "onboard_time": 1743555923,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117029,
+        "num": 117029,
+        "word": "抖音辟谣张一鸣加入新加坡国籍",
+        "onboard_time": 1743559881,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114419,
+        "num": 114419,
+        "word": "一线城市约50%人口在租房",
+        "onboard_time": 1743559341,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107577,
+        "num": 114388,
+        "word": "勇士vs灰熊",
+        "onboard_time": 1743558620,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114384,
+        "num": 114384,
+        "word": "什么是海峡雷霆",
+        "onboard_time": 1743558921,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113273,
+        "num": 113273,
+        "word": "黄油与面包回应标价15元收款19元",
+        "onboard_time": 1743507383,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112281,
+        "num": 112281,
+        "word": "何济霆",
+        "onboard_time": 1743520645,
+        "rank": 45,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 111613,
+        "num": 111613,
+        "word": "北京自动驾驶新规今起实施",
+        "onboard_time": 1743559581,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106534,
+        "num": 106534,
+        "word": "库里半场32分",
+        "onboard_time": 1743558982,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106458,
+        "num": 106458,
+        "word": "客服回应盒马16.9元一片面包",
+        "onboard_time": 1743518245,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94453,
+        "num": 105766,
+        "word": "韩国游客喊话张艺兴你的家乡太棒了",
+        "onboard_time": 1743517044,
+        "rank": 49,
+        "category": "艺人,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记两次讲话传递鲜明信息#"
+    }
+  }
+}
