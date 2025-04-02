@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743589597454,
+  "endTime": 1743590646796,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -299,6 +299,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 683152,
+      "num": 683152,
+      "word": "彭小苒发文告别浪姐",
+      "onboard_time": 1743588442,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 670494,
       "num": 670494,
       "word": "IU说李钟硕没时间看苦尽柑来",
@@ -419,12 +427,12 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 501123,
-      "num": 501123,
-      "word": "彭小苒发文告别浪姐",
-      "onboard_time": 1743588442,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 490275,
+      "num": 478743,
+      "word": "甲亢哥中国行让谁破防了",
+      "onboard_time": 1743585623,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 484912,
@@ -449,6 +457,14 @@
       "onboard_time": 1743568344,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 461719,
+      "num": 383382,
+      "word": "金秀贤恐面临破产危机",
+      "onboard_time": 1743588263,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 442599,
@@ -595,14 +611,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 317724,
-      "num": 478743,
-      "word": "甲亢哥中国行让谁破防了",
-      "onboard_time": 1743585623,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 315684,
       "num": 280401,
       "word": "男子违规获取酒店房卡侵犯女住客",
@@ -633,6 +641,14 @@
       "onboard_time": 1743575481,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306671,
+      "num": 306671,
+      "word": "4人偷了1.6元民警穷追不舍",
+      "onboard_time": 1743587663,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296864,
@@ -763,14 +779,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 261231,
-      "num": 261231,
-      "word": "金秀贤恐面临破产危机",
-      "onboard_time": 1743588263,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261215,
       "num": 261215,
       "word": "归棹 剧改小说",
@@ -835,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235519,
+      "num": 407803,
+      "word": "74岁TVB老戏骨在狱中求婚成功",
+      "onboard_time": 1743584302,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235036,
       "num": 383759,
       "word": "柯淳说短剧是我的一把刀",
@@ -851,28 +867,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230697,
-      "num": 230697,
-      "word": "4人偷了1.6元民警穷追不舍",
-      "onboard_time": 1743587663,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228385,
       "num": 366159,
       "word": "自闭症孩子也可能是话痨",
       "onboard_time": 1743586703,
       "rank": 37,
       "category": "民生新闻,母婴育儿"
-    },
-    {
-      "raw_hot": 227904,
-      "num": 407803,
-      "word": "74岁TVB老戏骨在狱中求婚成功",
-      "onboard_time": 1743584302,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 220660,
@@ -897,6 +897,14 @@
       "onboard_time": 1743568163,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 216841,
+      "num": 216841,
+      "word": "浪姐第一季yyds",
+      "onboard_time": 1743589222,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 214826,
@@ -1011,6 +1019,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206456,
+      "num": 206456,
+      "word": "藏海传下证",
+      "onboard_time": 1743590362,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205796,
+      "num": 205796,
+      "word": "全圆佑cover了tomboy",
+      "onboard_time": 1743590362,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205642,
       "num": 227558,
       "word": "赵丽颖褶皱纱家居服",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1743575662,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 200113,
+      "num": 200113,
+      "word": "男子开车反复碾压他人致其身亡",
+      "onboard_time": 1743590303,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199575,
@@ -1315,6 +1347,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 184210,
+      "num": 184210,
+      "word": "网友劝甲亢哥别在重庆的1楼后空翻",
+      "onboard_time": 1743590062,
+      "rank": 38,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 183025,
       "num": 183025,
       "word": "半熟4体育生杀死了比赛",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1743563062,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 181340,
-      "num": 181340,
-      "word": "浪姐第一季yyds",
-      "onboard_time": 1743589222,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 181053,
@@ -1491,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171308,
+      "num": 171308,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1743589161,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169081,
       "num": 271958,
       "word": "王安宇王玉雯发火星文",
@@ -1537,14 +1577,6 @@
       "onboard_time": 1743557360,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 160527,
-      "num": 160527,
-      "word": "崩坏星穹铁道",
-      "onboard_time": 1743589161,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 160409,
@@ -1648,6 +1680,14 @@
       "word": "解放军联合演训第2天",
       "onboard_time": 1743551360,
       "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 148326,
+      "num": 180712,
+      "word": "山东舰出扼台东",
+      "onboard_time": 1743588861,
+      "rank": 39,
       "category": "国内时政"
     },
     {
@@ -1787,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135910,
+      "num": 135910,
+      "word": "萨卡兹的无终奇语",
+      "onboard_time": 1743590181,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133327,
       "num": 267436,
       "word": "张碧晨爱的史诗交响演唱会",
@@ -1800,6 +1848,14 @@
       "word": "一线城市约50%人口在租房",
       "onboard_time": 1743559341,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131304,
+      "num": 720646,
+      "word": "有关部门严厉打击网上体育饭圈问题",
+      "onboard_time": 1743590541,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1849,6 +1905,14 @@
       "onboard_time": 1743576083,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 128089,
+      "num": 128089,
+      "word": "研究生挂在嘴边的话",
+      "onboard_time": 1743590601,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 125745,
@@ -1947,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115233,
+      "num": 274406,
+      "word": "Switch2",
+      "onboard_time": 1743589762,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115026,
       "num": 115026,
       "word": "王嘉尔说没有粉丝自己什么都不是",
@@ -1960,6 +2032,14 @@
       "word": "什么是海峡雷霆",
       "onboard_time": 1743558921,
       "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 114130,
+      "num": 685103,
+      "word": "月球上有35个以中国元素命名的地名",
+      "onboard_time": 1743587061,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -2041,14 +2121,6 @@
       "onboard_time": 1743522982,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94257,
-      "num": 685103,
-      "word": "月球上有35个以中国元素命名的地名",
-      "onboard_time": 1743587061,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 93828,
@@ -2163,14 +2235,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 77341,
-      "num": 180712,
-      "word": "山东舰出扼台东",
-      "onboard_time": 1743588861,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 76971,
       "num": 230789,
       "word": "皇马绝杀纳达尔兴奋怒吼",
@@ -2243,6 +2307,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 69678,
+      "num": 472272,
+      "word": "智能驾驶和自动驾驶不能画等号",
+      "onboard_time": 1743589042,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 67687,
       "num": 402537,
       "word": "马雪阳谭咏雯生女",
@@ -2291,12 +2363,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60196,
+      "num": 350120,
+      "word": "盒饭姐骂浪费顾客后生意更火爆了",
+      "onboard_time": 1743589521,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59628,
       "num": 59628,
       "word": "入室抢婴案4名被告均有前科",
       "onboard_time": 1743514884,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59525,
+      "num": 191505,
+      "word": "王楚钦采访名场面看一次乐一次",
+      "onboard_time": 1743590541,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 59437,
@@ -2595,22 +2683,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 27344,
-      "num": 180846,
-      "word": "盒饭姐骂浪费顾客后生意更火爆了",
-      "onboard_time": 1743589521,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26269,
-      "num": 472272,
-      "word": "智能驾驶和自动驾驶不能画等号",
-      "onboard_time": 1743589042,
-      "rank": 11,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 25572,
       "num": 48633,
       "word": "消费者质疑网红面包店有阴阳价格",
@@ -2632,6 +2704,14 @@
       "word": "申军良说姜甲儒案比申聪案更加恶劣",
       "onboard_time": 1743565823,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23382,
+      "num": 351274,
+      "word": "网购大海参收货发现比筷子还细",
+      "onboard_time": 1743589883,
+      "rank": 18,
       "category": "民生新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1743590646796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1248536,
+        "num": 1248536,
+        "word": "浪姐6 变味",
+        "onboard_time": 1743587962,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1044367,
+        "num": 1044367,
+        "word": "再见Switch",
+        "onboard_time": 1743587782,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131304,
+        "num": 720646,
+        "word": "有关部门严厉打击网上体育饭圈问题",
+        "onboard_time": 1743590541,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 683152,
+        "num": 683152,
+        "word": "彭小苒发文告别浪姐",
+        "onboard_time": 1743588442,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384500,
+        "num": 384500,
+        "word": "网约车车祸致女子流产平台被判全责",
+        "onboard_time": 1743583883,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2125639,
+        "num": 384387,
+        "word": "网友曝小米汽车车主驾驶中睡着",
+        "onboard_time": 1743578482,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1439547,
+        "num": 384345,
+        "word": "王楚钦考编考研双双上岸",
+        "onboard_time": 1743579743,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490275,
+        "num": 384230,
+        "word": "甲亢哥中国行让谁破防了",
+        "onboard_time": 1743585623,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 436778,
+        "num": 384053,
+        "word": "孙俪发12个终于预告新剧",
+        "onboard_time": 1743584243,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69678,
+        "num": 383957,
+        "word": "智能驾驶和自动驾驶不能画等号",
+        "onboard_time": 1743589042,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1322857,
+        "num": 383837,
+        "word": "雷军回应",
+        "onboard_time": 1743517885,
+        "rank": 10,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 721621,
+        "num": 383699,
+        "word": "爷爷为夺回孙子被人贩踩出眼珠",
+        "onboard_time": 1743570086,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114130,
+        "num": 383487,
+        "word": "月球上有35个以中国元素命名的地名",
+        "onboard_time": 1743587061,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 461719,
+        "num": 383382,
+        "word": "金秀贤恐面临破产危机",
+        "onboard_time": 1743588263,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434011,
+        "num": 383308,
+        "word": "王安宇王玉雯娱乐圈人缘",
+        "onboard_time": 1743580343,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383177,
+        "num": 383177,
+        "word": "小米汽车回应",
+        "onboard_time": 1743517885,
+        "rank": 15,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 371435,
+        "num": 371435,
+        "word": "IU说李钟硕没时间看苦尽柑来",
+        "onboard_time": 1743579442,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363733,
+        "num": 363733,
+        "word": "李晟第一名",
+        "onboard_time": 1743577283,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23382,
+        "num": 351274,
+        "word": "网购大海参收货发现比筷子还细",
+        "onboard_time": 1743589883,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60196,
+        "num": 350120,
+        "word": "盒饭姐骂浪费顾客后生意更火爆了",
+        "onboard_time": 1743589521,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640257,
+        "num": 349584,
+        "word": "王楚钦不占普通学生名额",
+        "onboard_time": 1743582682,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349043,
+        "num": 349043,
+        "word": "五问小米SU7高速爆燃事故",
+        "onboard_time": 1743577822,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337445,
+        "num": 337445,
+        "word": "金秀贤假惺惺的你已出周边",
+        "onboard_time": 1743571163,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306671,
+        "num": 306671,
+        "word": "4人偷了1.6元民警穷追不舍",
+        "onboard_time": 1743587663,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115233,
+        "num": 274406,
+        "word": "Switch2",
+        "onboard_time": 1743589762,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253779,
+        "num": 253779,
+        "word": "柯南坦白和小兰在交往",
+        "onboard_time": 1743577283,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 235519,
+        "num": 235519,
+        "word": "74岁TVB老戏骨在狱中求婚成功",
+        "onboard_time": 1743584302,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222081,
+        "num": 222081,
+        "word": "小米客服称SU7电池双供应商随机装",
+        "onboard_time": 1743571642,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 216841,
+        "num": 216841,
+        "word": "浪姐第一季yyds",
+        "onboard_time": 1743589222,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201808,
+        "num": 208659,
+        "word": "甲亢哥被8D魔都吓到惊呼",
+        "onboard_time": 1743588322,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 208468,
+        "num": 208468,
+        "word": "腾讯会议崩了",
+        "onboard_time": 1743580703,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206456,
+        "num": 206456,
+        "word": "藏海传下证",
+        "onboard_time": 1743590362,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205796,
+        "num": 205796,
+        "word": "全圆佑cover了tomboy",
+        "onboard_time": 1743590362,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204017,
+        "num": 204017,
+        "word": "减肥跳绳是先瘦肚子再瘦腿",
+        "onboard_time": 1743580163,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 200113,
+        "num": 200113,
+        "word": "男子开车反复碾压他人致其身亡",
+        "onboard_time": 1743590303,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59525,
+        "num": 191505,
+        "word": "王楚钦采访名场面看一次乐一次",
+        "onboard_time": 1743590541,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190365,
+        "num": 190365,
+        "word": "东部战区锁控",
+        "onboard_time": 1743575902,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186573,
+        "num": 186573,
+        "word": "对智能驾驶的宣传不能再含糊其辞了",
+        "onboard_time": 1743586821,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 184210,
+        "num": 184210,
+        "word": "网友劝甲亢哥别在重庆的1楼后空翻",
+        "onboard_time": 1743590062,
+        "rank": 38,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 173816,
+        "num": 173816,
+        "word": "王楚钦北大拟录取",
+        "onboard_time": 1743576981,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171308,
+        "num": 171308,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1743589161,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167144,
+        "num": 167144,
+        "word": "樱花树下站谁都美",
+        "onboard_time": 1743588682,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 157658,
+        "num": 157658,
+        "word": "龙应台称留给台湾的时间不多了",
+        "onboard_time": 1743571642,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150397,
+        "num": 150397,
+        "word": "第一批年轻人已经用AI创业了",
+        "onboard_time": 1743584963,
+        "rank": 43,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 148326,
+        "num": 148326,
+        "word": "山东舰出扼台东",
+        "onboard_time": 1743588861,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135910,
+        "num": 135910,
+        "word": "萨卡兹的无终奇语",
+        "onboard_time": 1743590181,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135756,
+        "num": 135756,
+        "word": "孙俪罗晋二搭新剧破碎尸案",
+        "onboard_time": 1743587481,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135659,
+        "num": 135659,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132048,
+        "num": 132048,
+        "word": "消费者苦女装乱象久矣",
+        "onboard_time": 1743586282,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128089,
+        "num": 128089,
+        "word": "研究生挂在嘴边的话",
+        "onboard_time": 1743590601,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记领略中华文明#"
+    }
+  }
+}
