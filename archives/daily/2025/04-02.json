@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743568146341,
+  "endTime": 1743569041063,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -19,6 +19,14 @@
       "category": "电影,剧集"
     },
     {
+      "raw_hot": 1808298,
+      "num": 385144,
+      "word": "华晨宇 黄霄雲",
+      "onboard_time": 1743566243,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1761022,
       "num": 1761022,
       "word": "副区长奢靡成瘾10年网贷781万",
@@ -27,8 +35,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1554849,
-      "num": 320840,
+      "raw_hot": 1591510,
+      "num": 384982,
       "word": "网文作者涉黄刑期减少六年",
       "onboard_time": 1743564082,
       "rank": 16,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1394052,
-      "num": 323111,
+      "num": 384494,
       "word": "宁德时代称小米SU7用的不是其电池",
       "onboard_time": 1743562102,
       "rank": 15,
@@ -51,14 +59,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1286113,
-      "num": 334444,
-      "word": "华晨宇 黄霄雲",
-      "onboard_time": 1743566243,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1206281,
       "num": 330947,
       "word": "迪士尼回应金秀贤新剧问题",
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1192614,
-      "num": 325286,
+      "num": 384615,
       "word": "小米汽车回应",
       "onboard_time": 1743517885,
       "rank": 11,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1064576,
-      "num": 321661,
+      "num": 384226,
       "word": "金秀贤被举报偷税漏税",
       "onboard_time": 1743561081,
       "rank": 12,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 860898,
-      "num": 327842,
+      "num": 356666,
       "word": "山区孩子为赵露思发声",
       "onboard_time": 1743551179,
       "rank": 12,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 860564,
-      "num": 318412,
+      "num": 381866,
       "word": "孙子被抢走爷爷一天抽五六盒烟去世",
       "onboard_time": 1743517584,
       "rank": 12,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 581815,
+      "num": 384046,
+      "word": "安静公主做完手术哽咽落泪",
+      "onboard_time": 1743563842,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547347,
       "num": 547347,
       "word": "浪姐三公淘汰",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 543024,
-      "num": 446368,
+      "num": 481694,
       "word": "雁回时大结局 没填坑",
       "onboard_time": 1743564321,
       "rank": 4,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 484686,
-      "num": 305114,
+      "num": 382013,
       "word": "原来逍遥丸吃了这么逍遥",
       "onboard_time": 1743564622,
       "rank": 22,
@@ -243,12 +251,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 393079,
-      "num": 311342,
-      "word": "安静公主做完手术哽咽落泪",
-      "onboard_time": 1743563842,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 396396,
+      "num": 396396,
+      "word": "孤独症男孩吹奏好想爱这个世界啊",
+      "onboard_time": 1743558381,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 385711,
+      "num": 385711,
+      "word": "东部战区模拟对重要港口精确打击",
+      "onboard_time": 1743560300,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 381563,
@@ -257,22 +273,6 @@
       "onboard_time": 1743516624,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 378947,
-      "num": 378947,
-      "word": "孤独症男孩吹奏好想爱这个世界啊",
-      "onboard_time": 1743558381,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 362404,
-      "num": 362404,
-      "word": "东部战区模拟对重要港口精确打击",
-      "onboard_time": 1743560300,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 353098,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295898,
+      "num": 307386,
+      "word": "李胜利闯中",
+      "onboard_time": 1743566545,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292167,
       "num": 700149,
       "word": "雁回时删了6集",
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 260119,
-      "num": 302239,
+      "num": 383245,
       "word": "虞书欣何与杀青合照",
       "onboard_time": 1743564022,
       "rank": 26,
@@ -395,6 +403,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235036,
+      "num": 383759,
+      "word": "柯淳说短剧是我的一把刀",
+      "onboard_time": 1743567924,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225784,
+      "num": 383661,
+      "word": "一部悬疑剧凑齐四个狠女",
+      "onboard_time": 1743568344,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225746,
+      "num": 225746,
+      "word": "解放军说只要一声令下必将消灭台独",
+      "onboard_time": 1743568282,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 220660,
       "num": 220660,
       "word": "黄油与面包回应标价15元收款19元",
@@ -403,11 +435,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217030,
-      "num": 307386,
-      "word": "李胜利闯中",
-      "onboard_time": 1743566545,
-      "rank": 19,
+      "raw_hot": 219008,
+      "num": 383431,
+      "word": "赵丽颖主动要求再来一条",
+      "onboard_time": 1743568163,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 214777,
+      "num": 214777,
+      "word": "Mandy称不会去曝光孩子",
+      "onboard_time": 1743567563,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -433,14 +473,6 @@
       "onboard_time": 1743558982,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207900,
-      "num": 207900,
-      "word": "Mandy称不会去曝光孩子",
-      "onboard_time": 1743567563,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 207237,
@@ -579,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175441,
+      "num": 175441,
+      "word": "神童自曝去年4月分手",
+      "onboard_time": 1743568824,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175369,
       "num": 175369,
       "word": "警方通报盲人按摩店男员工杀女老板",
@@ -609,6 +649,14 @@
       "onboard_time": 1743553221,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 171697,
+      "num": 382433,
+      "word": "孙俪在把控细节上强得可怕",
+      "onboard_time": 1743568944,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 167904,
@@ -691,19 +739,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151190,
+      "num": 264598,
+      "word": "台湾从来不是一个国家今后更绝无可能",
+      "onboard_time": 1743555081,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 150296,
       "num": 150296,
       "word": "解放军联合演训第2天",
       "onboard_time": 1743551360,
       "rank": 35,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 148454,
-      "num": 264598,
-      "word": "台湾从来不是一个国家今后更绝无可能",
-      "onboard_time": 1743555081,
-      "rank": 31,
       "category": "国内时政"
     },
     {
@@ -713,6 +761,14 @@
       "onboard_time": 1743512784,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146171,
+      "num": 146171,
+      "word": "在公司看起来很忙的十大法则",
+      "onboard_time": 1743567144,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 145442,
@@ -731,28 +787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141772,
-      "num": 141772,
-      "word": "在公司看起来很忙的十大法则",
-      "onboard_time": 1743567144,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 141142,
       "num": 141142,
       "word": "第4名在立陶宛失踪美士兵遗体找到",
       "onboard_time": 1743555923,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 140911,
-      "num": 140911,
-      "word": "柯淳说短剧是我的一把刀",
-      "onboard_time": 1743567924,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 140526,
@@ -793,6 +833,14 @@
       "onboard_time": 1743566782,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134591,
+      "num": 384742,
+      "word": "张小泉集团及法人等被执行31.3亿",
+      "onboard_time": 1743568163,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132852,
@@ -841,6 +889,14 @@
       "onboard_time": 1743550038,
       "rank": 23,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 122128,
+      "num": 385586,
+      "word": "王毅谈到中俄永不为敌",
+      "onboard_time": 1743567983,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120541,
@@ -987,8 +1043,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 88423,
+      "num": 382800,
+      "word": "阿维塔07三月销量翻倍",
+      "onboard_time": 1743568464,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 88227,
-      "num": 294734,
+      "num": 382550,
       "word": "Gucci抓了好多明星为我读诗",
       "onboard_time": 1743566663,
       "rank": 27,
@@ -1091,6 +1155,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 74320,
+      "num": 147251,
+      "word": "和赵丽颖一起舒适过夏天",
+      "onboard_time": 1743568043,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73742,
       "num": 83929,
       "word": "马丽说沈腾去浪姐她就去",
@@ -1107,28 +1179,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 70690,
-      "num": 225844,
-      "word": "王毅谈到中俄永不为敌",
-      "onboard_time": 1743567983,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 66061,
       "num": 66061,
       "word": "政法大学教授谈肖央新片社会意义",
       "onboard_time": 1743525799,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 64876,
-      "num": 140716,
-      "word": "和赵丽颖一起舒适过夏天",
-      "onboard_time": 1743568043,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 62719,
@@ -1204,7 +1260,7 @@
     },
     {
       "raw_hot": 54975,
-      "num": 318382,
+      "num": 385478,
       "word": "登陆少年组合新歌",
       "onboard_time": 1743566663,
       "rank": 12,
@@ -1259,12 +1315,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47128,
+      "num": 383044,
+      "word": "祁煜晚安我的人鱼新娘",
+      "onboard_time": 1743568703,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 40181,
       "num": 40181,
       "word": "国产剧绝望的狠女上新了",
       "onboard_time": 1743527896,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37817,
+      "num": 382943,
+      "word": "杨幂持续3年探访孤独症康复中心",
+      "onboard_time": 1743568824,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 37162,
+      "num": 383892,
+      "word": "电动自行车保险超90%车主没听说过",
+      "onboard_time": 1743568224,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34947,
@@ -1299,20 +1379,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 30386,
+      "num": 1063197,
+      "word": "春天是藏在公园的诗情画意",
+      "onboard_time": 1743512724,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29819,
       "num": 42623,
       "word": "中俄对表重要纪念活动",
       "onboard_time": 1743530895,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29794,
-      "num": 1063197,
-      "word": "春天是藏在公园的诗情画意",
-      "onboard_time": 1743512724,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29443,
@@ -1329,6 +1409,14 @@
       "onboard_time": 1743528736,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27794,
+      "num": 382245,
+      "word": "印度海军用瑜伽训练官兵",
+      "onboard_time": 1743568224,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 25572,
@@ -1377,6 +1465,14 @@
       "onboard_time": 1743567083,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 16377,
+      "num": 221197,
+      "word": "直男财经现场呈现缅甸震中救援",
+      "onboard_time": 1743568824,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 15828,
