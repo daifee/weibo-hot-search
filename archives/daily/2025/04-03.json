@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743636162190,
+  "endTime": 1743637006394,
   "band_list": [
     {
       "raw_hot": 1471890,
@@ -11,8 +11,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 883187,
-      "num": 883187,
+      "raw_hot": 1346923,
+      "num": 1346923,
+      "word": "特朗普宣布国家紧急状态",
+      "onboard_time": 1743636020,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 992763,
+      "num": 580469,
+      "word": "孟子坤回应",
+      "onboard_time": 1743635659,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 883730,
+      "num": 883730,
       "word": "22岁离世女骑手家属寻目击者定责",
       "onboard_time": 1743630795,
       "rank": 0,
@@ -51,14 +67,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 561558,
-      "num": 374125,
-      "word": "孟子坤回应",
-      "onboard_time": 1743635659,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 551572,
       "num": 846602,
       "word": "妻子不愿继续生育离婚后获补偿35万",
@@ -75,7 +83,15 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 493325,
+      "raw_hot": 504874,
+      "num": 504874,
+      "word": "特朗普宣布实施所谓对等关税",
+      "onboard_time": 1743635298,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 494177,
       "num": 334560,
       "word": "华人大妈持菜刀与警方对峙被击毙",
       "onboard_time": 1743602544,
@@ -89,6 +105,14 @@
       "onboard_time": 1743608361,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 462244,
+      "num": 462244,
+      "word": "对等关税",
+      "onboard_time": 1743635780,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 459865,
@@ -113,6 +137,14 @@
       "onboard_time": 1743606564,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406674,
+      "num": 406674,
+      "word": "特朗普力推的对等关税是啥",
+      "onboard_time": 1743619635,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 395899,
@@ -155,36 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364239,
-      "num": 364239,
-      "word": "特朗普力推的对等关税是啥",
-      "onboard_time": 1743619635,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 351949,
-      "num": 351949,
-      "word": "对等关税",
-      "onboard_time": 1743635780,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 318103,
       "num": 217440,
       "word": "IU向雪莉金赛纶推荐同一心理医生",
       "onboard_time": 1743599783,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305495,
-      "num": 348936,
-      "word": "特朗普宣布实施所谓对等关税",
-      "onboard_time": 1743635298,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 277007,
@@ -211,14 +219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 221538,
-      "num": 221538,
-      "word": "特朗普宣布国家紧急状态",
-      "onboard_time": 1743636020,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 216655,
       "num": 216655,
       "word": "雷军捐资1亿成立守护资金消息不实",
@@ -243,20 +243,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 151739,
+      "num": 346552,
+      "word": "李美越5天掉粉14万",
+      "onboard_time": 1743613097,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 151562,
       "num": 151562,
       "word": "雷军回应",
       "onboard_time": 1743517885,
       "rank": 31,
       "category": "辟谣/通报,汽车"
-    },
-    {
-      "raw_hot": 143340,
-      "num": 346552,
-      "word": "李美越5天掉粉14万",
-      "onboard_time": 1743613097,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 131833,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118419,
+      "num": 342999,
+      "word": "美股正在遭到抛售",
+      "onboard_time": 1743635419,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108834,
       "num": 108834,
       "word": "我交了个星朋友",
@@ -331,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102577,
+      "num": 102577,
+      "word": "第五人格",
+      "onboard_time": 1743635599,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100726,
       "num": 100726,
       "word": "战机与台湾中央山脉同框",
@@ -355,14 +371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93881,
-      "num": 93881,
-      "word": "第五人格",
-      "onboard_time": 1743635599,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 91905,
       "num": 227701,
       "word": "东部战区演训雷霆出击",
@@ -377,6 +385,14 @@
       "onboard_time": 1743603685,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90152,
+      "num": 90152,
+      "word": "美股盘后大跌",
+      "onboard_time": 1743636500,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 88913,
@@ -395,12 +411,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82504,
-      "num": 82504,
+      "raw_hot": 86477,
+      "num": 86477,
       "word": "为什么说人永远赚不到认知以外的钱",
       "onboard_time": 1743602544,
       "rank": 42,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 85615,
+      "num": 126853,
+      "word": "甲亢哥被重庆甜妹教育了",
+      "onboard_time": 1743600324,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 80195,
+      "num": 80195,
+      "word": "既是节气又是节日只有清明",
+      "onboard_time": 1743636802,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79096,
@@ -419,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74770,
+      "num": 74770,
+      "word": "74岁TVB老戏骨求婚狱中37岁女友",
+      "onboard_time": 1743633376,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74478,
       "num": 74478,
       "word": "山东入室抢婴案受害者讲述庭审细节",
@@ -435,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68249,
-      "num": 126853,
-      "word": "甲亢哥被重庆甜妹教育了",
-      "onboard_time": 1743600324,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 67919,
       "num": 145334,
       "word": "奚梦瑶爸爸当家录制路透",
@@ -451,12 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67604,
-      "num": 67604,
-      "word": "74岁TVB老戏骨求婚狱中37岁女友",
-      "onboard_time": 1743633376,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 67018,
+      "num": 67018,
+      "word": "美股",
+      "onboard_time": 1743636741,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 66612,
@@ -497,14 +529,6 @@
       "onboard_time": 1743604884,
       "rank": 49,
       "category": "国际时政,国内时政"
-    },
-    {
-      "raw_hot": 59126,
-      "num": 342999,
-      "word": "美股正在遭到抛售",
-      "onboard_time": 1743635419,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 58568,
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 40556,
-      "num": 479802,
+      "num": 585550,
       "word": "联合国点赞中国新能源发展",
       "onboard_time": 1743604164,
       "rank": 2,
@@ -625,6 +649,14 @@
       "onboard_time": 1743606804,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24429,
+      "num": 119225,
+      "word": "黄金逼近3150美元刷新历史高位",
+      "onboard_time": 1743636020,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 23946,
@@ -691,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13301,
-      "num": 112696,
-      "word": "黄金逼近3150美元刷新历史高位",
-      "onboard_time": 1743636020,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 11672,
       "num": 14313,
       "word": "向阳花",
@@ -721,6 +745,14 @@
       "onboard_time": 1743628815,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7262,
+      "num": 120005,
+      "word": "郑钦文vs萨卡里",
+      "onboard_time": 1743553283,
+      "rank": 28,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

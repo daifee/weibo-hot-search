@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743636162190,
+  "endTime": 1743637006394,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1346923,
+      "num": 1346923,
+      "word": "特朗普宣布国家紧急状态",
+      "onboard_time": 1743636020,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1342089,
       "num": 1342089,
       "word": "这不是愚人节 这是情人节",
@@ -883,6 +891,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 992763,
+      "num": 580469,
+      "word": "孟子坤回应",
+      "onboard_time": 1743635659,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 989252,
       "num": 989252,
       "word": "官方辟谣指鼠为鸭局长升职",
@@ -995,8 +1011,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 883187,
-      "num": 883187,
+      "raw_hot": 883730,
+      "num": 883730,
       "word": "22岁离世女骑手家属寻目击者定责",
       "onboard_time": 1743630795,
       "rank": 0,
@@ -1835,14 +1851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 561558,
-      "num": 374125,
-      "word": "孟子坤回应",
-      "onboard_time": 1743635659,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 559545,
       "num": 735880,
       "word": "三月三是什么节",
@@ -2075,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504874,
+      "num": 504874,
+      "word": "特朗普宣布实施所谓对等关税",
+      "onboard_time": 1743635298,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 504166,
       "num": 504166,
       "word": "关税",
@@ -2281,6 +2297,14 @@
       "onboard_time": 1743399501,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 462244,
+      "num": 462244,
+      "word": "对等关税",
+      "onboard_time": 1743635780,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 461752,
@@ -2577,6 +2601,14 @@
       "onboard_time": 1743561922,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406674,
+      "num": 406674,
+      "word": "特朗普力推的对等关税是啥",
+      "onboard_time": 1743619635,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 404231,
@@ -2907,14 +2939,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 364239,
-      "num": 364239,
-      "word": "特朗普力推的对等关税是啥",
-      "onboard_time": 1743619635,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 363039,
       "num": 318532,
       "word": "中医把脉称甲亢哥没有甲亢",
@@ -3001,14 +3025,6 @@
       "onboard_time": 1743305010,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 351949,
-      "num": 351949,
-      "word": "对等关税",
-      "onboard_time": 1743635780,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 351622,
@@ -3473,14 +3489,6 @@
       "onboard_time": 1743593902,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 305495,
-      "num": 348936,
-      "word": "特朗普宣布实施所谓对等关税",
-      "onboard_time": 1743635298,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 305320,
@@ -4801,14 +4809,6 @@
       "onboard_time": 1743400340,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221538,
-      "num": 221538,
-      "word": "特朗普宣布国家紧急状态",
-      "onboard_time": 1743636020,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 220483,
@@ -7883,6 +7883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151739,
+      "num": 346552,
+      "word": "李美越5天掉粉14万",
+      "onboard_time": 1743613097,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 151228,
       "num": 253268,
       "word": "入室抢婴贩卖案受害者家属发声",
@@ -8417,14 +8425,6 @@
       "onboard_time": 1743599783,
       "rank": 28,
       "category": "军事"
-    },
-    {
-      "raw_hot": 143340,
-      "num": 346552,
-      "word": "李美越5天掉粉14万",
-      "onboard_time": 1743613097,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 143317,
@@ -9891,6 +9891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118419,
+      "num": 342999,
+      "word": "美股正在遭到抛售",
+      "onboard_time": 1743635419,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 118353,
       "num": 145523,
       "word": "虞书欣何与双轨杀青路透",
@@ -10635,6 +10643,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 102577,
+      "num": 102577,
+      "word": "第五人格",
+      "onboard_time": 1743474142,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102517,
       "num": 102517,
       "word": "郑州真该是世界顶流吧",
@@ -10745,14 +10761,6 @@
       "onboard_time": 1743332422,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100110,
-      "num": 100110,
-      "word": "第五人格",
-      "onboard_time": 1743474142,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 100003,
@@ -11064,6 +11072,14 @@
       "word": "金价又双叒涨啦",
       "onboard_time": 1743377780,
       "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 90152,
+      "num": 90152,
+      "word": "美股盘后大跌",
+      "onboard_time": 1743636500,
+      "rank": 36,
       "category": "财经"
     },
     {
@@ -11403,6 +11419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80195,
+      "num": 80195,
+      "word": "既是节气又是节日只有清明",
+      "onboard_time": 1743636802,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79904,
       "num": 79904,
       "word": "苏醒在武汉穿上了樱花粉",
@@ -11521,6 +11545,14 @@
       "onboard_time": 1743402382,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74770,
+      "num": 74770,
+      "word": "74岁TVB老戏骨求婚狱中37岁女友",
+      "onboard_time": 1743633376,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 74478,
@@ -11761,14 +11793,6 @@
       "onboard_time": 1743579263,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67604,
-      "num": 67604,
-      "word": "74岁TVB老戏骨求婚狱中37岁女友",
-      "onboard_time": 1743633376,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 67160,
@@ -12089,14 +12113,6 @@
       "onboard_time": 1743590541,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59126,
-      "num": 342999,
-      "word": "美股正在遭到抛售",
-      "onboard_time": 1743635419,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 59114,
@@ -13411,6 +13427,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 24429,
+      "num": 119225,
+      "word": "黄金逼近3150美元刷新历史高位",
+      "onboard_time": 1743636020,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 24385,
       "num": 138879,
       "word": "申军良说姜甲儒案比申聪案更加恶劣",
@@ -13915,14 +13939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13301,
-      "num": 112696,
-      "word": "黄金逼近3150美元刷新历史高位",
-      "onboard_time": 1743636020,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 13103,
       "num": 227504,
       "word": "野良神第三季2028年播",
@@ -14145,6 +14161,14 @@
       "onboard_time": 1743598943,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7262,
+      "num": 120005,
+      "word": "郑钦文vs萨卡里",
+      "onboard_time": 1743553283,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 5690,
