@@ -1,0 +1,410 @@
+{
+  "runTime": 1743586047679,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3119493,
+        "num": 3119493,
+        "word": "网友曝小米汽车车主驾驶中睡着",
+        "onboard_time": 1743578482,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1557991,
+        "num": 1557991,
+        "word": "王楚钦考编考研双双上岸",
+        "onboard_time": 1743579743,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43414,
+        "num": 1346197,
+        "word": "致敬缅怀奋进",
+        "onboard_time": 1743584842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1242569,
+        "num": 1242569,
+        "word": "王楚钦不占普通学生名额",
+        "onboard_time": 1743582682,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 840222,
+        "num": 840222,
+        "word": "王楚钦北大拟录取",
+        "onboard_time": 1743576981,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 692315,
+        "num": 692315,
+        "word": "网约车车祸致女子流产平台被判全责",
+        "onboard_time": 1743583883,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682967,
+        "num": 682967,
+        "word": "李晟第一名",
+        "onboard_time": 1743577283,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635489,
+        "num": 635489,
+        "word": "IU说李钟硕没时间看苦尽柑来",
+        "onboard_time": 1743579442,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 629647,
+        "num": 629647,
+        "word": "腾讯会议崩了",
+        "onboard_time": 1743580703,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 222263,
+        "num": 621692,
+        "word": "解放军演练武器射程能覆盖台湾岛全境",
+        "onboard_time": 1743584662,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2450866,
+        "num": 618176,
+        "word": "雷军回应",
+        "onboard_time": 1743517885,
+        "rank": 10,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 1372820,
+        "num": 605468,
+        "word": "爷爷为夺回孙子被人贩踩出眼珠",
+        "onboard_time": 1743570086,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690558,
+        "num": 595131,
+        "word": "小米汽车回应",
+        "onboard_time": 1743517885,
+        "rank": 12,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 588588,
+        "num": 588588,
+        "word": "王安宇王玉雯娱乐圈人缘",
+        "onboard_time": 1743580343,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554326,
+        "num": 554326,
+        "word": "五问小米SU7高速爆燃事故",
+        "onboard_time": 1743577822,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436294,
+        "num": 436294,
+        "word": "4名人贩子在法庭抖腿毫无忏悔之意",
+        "onboard_time": 1743578901,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432656,
+        "num": 432656,
+        "word": "金秀贤假惺惺的你已出周边",
+        "onboard_time": 1743571163,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285019,
+        "num": 423031,
+        "word": "华晨宇黄霄雲双方未能达成有效共识",
+        "onboard_time": 1743584542,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422941,
+        "num": 422941,
+        "word": "柯南坦白和小兰在交往",
+        "onboard_time": 1743577283,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 28076,
+        "num": 332277,
+        "word": "顶流公益秀的主角到底该是谁",
+        "onboard_time": 1743585082,
+        "rank": 19,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 321896,
+        "num": 321896,
+        "word": "东部战区锁控",
+        "onboard_time": 1743575902,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307172,
+        "num": 307172,
+        "word": "小米客服称SU7电池双供应商随机装",
+        "onboard_time": 1743571642,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 296059,
+        "num": 296059,
+        "word": "李美越回应",
+        "onboard_time": 1743580523,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 290370,
+        "num": 290370,
+        "word": "减肥跳绳是先瘦肚子再瘦腿",
+        "onboard_time": 1743580163,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 120324,
+        "num": 279301,
+        "word": "咏春在南昌大学具象化了",
+        "onboard_time": 1743584903,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 277854,
+        "num": 277854,
+        "word": "东部战区的彩dan是实弹",
+        "onboard_time": 1743583823,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 262854,
+        "num": 276452,
+        "word": "甲亢哥重庆直播",
+        "onboard_time": 1743579563,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234290,
+        "num": 272600,
+        "word": "刘畊宏回应cos海王被强制关播",
+        "onboard_time": 1743577882,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24137,
+        "num": 271458,
+        "word": "缅甸强震后16天大婴儿奇迹生还",
+        "onboard_time": 1743585442,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 29537,
+        "num": 268061,
+        "word": "入室抢婴案嫌犯曾因强奸盗窃入狱",
+        "onboard_time": 1743584723,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265533,
+        "num": 265533,
+        "word": "家族有精神病史有资格做母亲吗",
+        "onboard_time": 1743582623,
+        "rank": 30,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 263212,
+        "num": 263212,
+        "word": "孙俪发12个终于预告新剧",
+        "onboard_time": 1743584243,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227904,
+        "num": 227904,
+        "word": "74岁TVB老戏骨在狱中求婚成功",
+        "onboard_time": 1743584302,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172457,
+        "num": 227204,
+        "word": "不说话的爱",
+        "onboard_time": 1743585805,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226958,
+        "num": 226958,
+        "word": "龙应台称留给台湾的时间不多了",
+        "onboard_time": 1743571642,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8366,
+        "num": 219786,
+        "word": "替台独卖命可耻",
+        "onboard_time": 1743585923,
+        "rank": 35,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 214247,
+        "num": 214247,
+        "word": "无意识控血糖的5个小习惯",
+        "onboard_time": 1743580104,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206934,
+        "num": 206934,
+        "word": "韩泰山",
+        "onboard_time": 1743584243,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204160,
+        "num": 204160,
+        "word": "LPL第二赛段组内赛赛程",
+        "onboard_time": 1743585741,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203815,
+        "num": 203815,
+        "word": "徐若晗古装丧服路透",
+        "onboard_time": 1743583521,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201101,
+        "num": 201101,
+        "word": "和分手六年的前任破镜重圆了",
+        "onboard_time": 1743571341,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193021,
+        "num": 193021,
+        "word": "第一批年轻人已经用AI创业了",
+        "onboard_time": 1743584963,
+        "rank": 41,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 185869,
+        "num": 185869,
+        "word": "甲亢哥中国行让谁破防了",
+        "onboard_time": 1743585623,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 181587,
+        "num": 181587,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179940,
+        "num": 179940,
+        "word": "北大回应王楚钦拟录取",
+        "onboard_time": 1743578302,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173975,
+        "num": 173975,
+        "word": "台湾",
+        "onboard_time": 1743552321,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168876,
+        "num": 168876,
+        "word": "上海总部调查gucci假口红事件",
+        "onboard_time": 1743581241,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156026,
+        "num": 156026,
+        "word": "赵露思在追值得爱",
+        "onboard_time": 1743580583,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150680,
+        "num": 150680,
+        "word": "华晨宇 黄霄雲",
+        "onboard_time": 1743566243,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143427,
+        "num": 143427,
+        "word": "男子回应卖掉金条变现73.2万",
+        "onboard_time": 1743582922,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们要建成的科技强国#"
+    }
+  }
+}

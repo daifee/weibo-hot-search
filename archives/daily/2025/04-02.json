@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743583584203,
+  "endTime": 1743586047679,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -67,8 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1490054,
-      "num": 1490054,
+      "raw_hot": 1557991,
+      "num": 1557991,
       "word": "王楚钦考编考研双双上岸",
       "onboard_time": 1743579743,
       "rank": 3,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1242569,
+      "num": 1242569,
+      "word": "王楚钦不占普通学生名额",
+      "onboard_time": 1743582682,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1206281,
       "num": 330947,
       "word": "迪士尼回应金秀贤新剧问题",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1192614,
-      "num": 492622,
+      "num": 595131,
       "word": "小米汽车回应",
       "onboard_time": 1743517885,
       "rank": 11,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 803280,
-      "num": 545329,
+      "num": 554326,
       "word": "五问小米SU7高速爆燃事故",
       "onboard_time": 1743577822,
       "rank": 27,
@@ -257,6 +265,14 @@
       "onboard_time": 1743569963,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 692315,
+      "num": 692315,
+      "word": "网约车车祸致女子流产平台被判全责",
+      "onboard_time": 1743583883,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 683322,
@@ -307,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 588588,
+      "num": 588588,
+      "word": "王安宇王玉雯娱乐圈人缘",
+      "onboard_time": 1743580343,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 585777,
       "num": 424591,
       "word": "初一女生父亲校门口殴打六年级学生",
@@ -321,14 +345,6 @@
       "onboard_time": 1743563842,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 567521,
-      "num": 567521,
-      "word": "王楚钦不占普通学生名额",
-      "onboard_time": 1743582682,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 547347,
@@ -417,14 +433,6 @@
       "onboard_time": 1743557541,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 412986,
-      "num": 526720,
-      "word": "王安宇王玉雯娱乐圈人缘",
-      "onboard_time": 1743580343,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 411763,
@@ -595,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296059,
+      "num": 296059,
+      "word": "李美越回应",
+      "onboard_time": 1743580523,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 295898,
       "num": 307386,
       "word": "李胜利闯中",
@@ -625,6 +641,30 @@
       "onboard_time": 1743562943,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 290370,
+      "num": 290370,
+      "word": "减肥跳绳是先瘦肚子再瘦腿",
+      "onboard_time": 1743580163,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 285019,
+      "num": 423031,
+      "word": "华晨宇黄霄雲双方未能达成有效共识",
+      "onboard_time": 1743584542,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 277854,
+      "num": 277854,
+      "word": "东部战区的彩dan是实弹",
+      "onboard_time": 1743583823,
+      "rank": 25,
+      "category": "军事"
     },
     {
       "raw_hot": 275659,
@@ -659,12 +699,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267288,
-      "num": 267288,
-      "word": "李美越回应",
-      "onboard_time": 1743580523,
-      "rank": 28,
-      "category": "网红"
+      "raw_hot": 265533,
+      "num": 407476,
+      "word": "家族有精神病史有资格做母亲吗",
+      "onboard_time": 1743582623,
+      "rank": 36,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 263212,
+      "num": 263212,
+      "word": "孙俪发12个终于预告新剧",
+      "onboard_time": 1743584243,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 261215,
@@ -747,12 +795,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234293,
-      "num": 234293,
-      "word": "减肥跳绳是先瘦肚子再瘦腿",
-      "onboard_time": 1743580163,
-      "rank": 45,
-      "category": "运动健身"
+      "raw_hot": 227904,
+      "num": 227904,
+      "word": "74岁TVB老戏骨在狱中求婚成功",
+      "onboard_time": 1743584302,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222263,
+      "num": 621692,
+      "word": "解放军演练武器射程能覆盖台湾岛全境",
+      "onboard_time": 1743584662,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 220660,
@@ -803,6 +859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 214247,
+      "num": 214247,
+      "word": "无意识控血糖的5个小习惯",
+      "onboard_time": 1743580104,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 214043,
       "num": 214043,
       "word": "上班是最好的医丑",
@@ -817,14 +881,6 @@
       "onboard_time": 1743512304,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211729,
-      "num": 211729,
-      "word": "无意识控血糖的5个小习惯",
-      "onboard_time": 1743580104,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 211412,
@@ -867,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206934,
+      "num": 206934,
+      "word": "韩泰山",
+      "onboard_time": 1743584243,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206892,
       "num": 206892,
       "word": "王楚钦以奥运冠军身份申请上北大",
@@ -897,6 +961,22 @@
       "onboard_time": 1743578242,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204160,
+      "num": 204160,
+      "word": "LPL第二赛段组内赛赛程",
+      "onboard_time": 1743585741,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 203815,
+      "num": 203815,
+      "word": "徐若晗古装丧服路透",
+      "onboard_time": 1743583521,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 202411,
@@ -1011,6 +1091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193021,
+      "num": 193021,
+      "word": "第一批年轻人已经用AI创业了",
+      "onboard_time": 1743584963,
+      "rank": 41,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 192039,
       "num": 192039,
       "word": "A股",
@@ -1089,6 +1177,14 @@
       "onboard_time": 1743568824,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185869,
+      "num": 185869,
+      "word": "甲亢哥中国行让谁破防了",
+      "onboard_time": 1743585623,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 185865,
@@ -1235,6 +1331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172457,
+      "num": 227204,
+      "word": "不说话的爱",
+      "onboard_time": 1743585805,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172407,
       "num": 172407,
       "word": "约基奇61分三双",
@@ -1329,14 +1433,6 @@
       "onboard_time": 1743570022,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159420,
-      "num": 159420,
-      "word": "徐若晗古装丧服路透",
-      "onboard_time": 1743583521,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 158238,
@@ -1617,6 +1713,14 @@
       "onboard_time": 1743557302,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120324,
+      "num": 279301,
+      "word": "咏春在南昌大学具象化了",
+      "onboard_time": 1743584903,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 120102,
@@ -1955,14 +2059,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 65414,
-      "num": 407476,
-      "word": "家族有精神病史有资格做母亲吗",
-      "onboard_time": 1743582623,
-      "rank": 36,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 64845,
       "num": 408226,
       "word": "交警多次提醒勿盲目信任辅助驾驶",
@@ -2115,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43414,
+      "num": 1346197,
+      "word": "致敬缅怀奋进",
+      "onboard_time": 1743584842,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40345,
       "num": 407163,
       "word": "1604要维修结果修了1704",
@@ -2227,6 +2331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29537,
+      "num": 268061,
+      "word": "入室抢婴案嫌犯曾因强奸盗窃入狱",
+      "onboard_time": 1743584723,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29443,
       "num": 175159,
       "word": "俄美正筹备新一轮会谈",
@@ -2241,6 +2353,14 @@
       "onboard_time": 1743528736,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28076,
+      "num": 332277,
+      "word": "顶流公益秀的主角到底该是谁",
+      "onboard_time": 1743585082,
+      "rank": 19,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 27794,
@@ -2273,6 +2393,14 @@
       "onboard_time": 1743565823,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24137,
+      "num": 271458,
+      "word": "缅甸强震后16天大婴儿奇迹生还",
+      "onboard_time": 1743585442,
+      "rank": 28,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 22455,
@@ -2401,6 +2529,14 @@
       "onboard_time": 1743540554,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8366,
+      "num": 219786,
+      "word": "替台独卖命可耻",
+      "onboard_time": 1743585923,
+      "rank": 35,
+      "category": "国内时政,民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2412,6 +2548,9 @@
     },
     {
       "word": "#投资中国是更优选择#"
+    },
+    {
+      "word": "#这是我们要建成的科技强国#"
     }
   ]
 }
