@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743621621287,
+  "endTime": 1743622571005,
   "band_list": [
     {
       "raw_hot": 1471890,
@@ -475,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37245,
+      "num": 59991,
+      "word": "高颜值孤独症男孩小岱走红背后",
+      "onboard_time": 1743620954,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34832,
       "num": 34832,
       "word": "你最期待看哪部待播剧",
@@ -547,12 +555,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11453,
-      "num": 59991,
-      "word": "高颜值孤独症男孩小岱走红背后",
-      "onboard_time": 1743620954,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 17773,
+      "num": 43821,
+      "word": "特朗普力推的对等关税是啥",
+      "onboard_time": 1743619635,
+      "rank": 19,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
