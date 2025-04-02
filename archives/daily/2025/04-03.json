@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743625604190,
+  "endTime": 1743626414929,
   "band_list": [
     {
       "raw_hot": 1471890,
@@ -555,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21643,
+      "num": 43821,
+      "word": "特朗普力推的对等关税是啥",
+      "onboard_time": 1743619635,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20997,
       "num": 26510,
       "word": "海警闽南话喊话台湾船只",
@@ -563,20 +571,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19676,
-      "num": 43821,
-      "word": "特朗普力推的对等关税是啥",
-      "onboard_time": 1743619635,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 10505,
-      "num": 36579,
+      "raw_hot": 20924,
+      "num": 37760,
       "word": "加沙所有大饼店因面粉耗尽停业",
       "onboard_time": 1743625213,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 11672,
+      "num": 14313,
+      "word": "向阳花",
+      "onboard_time": 1743616635,
+      "rank": 48,
+      "category": "电影"
     }
   ],
   "hotgov_list": [

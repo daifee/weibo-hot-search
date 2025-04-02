@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743625604190,
+  "endTime": 1743626414929,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -7075,6 +7075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21643,
+      "num": 43821,
+      "word": "特朗普力推的对等关税是啥",
+      "onboard_time": 1743619635,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21336,
       "num": 38477,
       "word": "张峻豪新歌卫冕",
@@ -7107,6 +7115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20924,
+      "num": 37760,
+      "word": "加沙所有大饼店因面粉耗尽停业",
+      "onboard_time": 1743625213,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 20673,
       "num": 42506,
       "word": "jeff是真的 贪也是真的",
@@ -7121,14 +7137,6 @@
       "onboard_time": 1743491663,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 19676,
-      "num": 43821,
-      "word": "特朗普力推的对等关税是啥",
-      "onboard_time": 1743619635,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19636,
@@ -7307,6 +7315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11672,
+      "num": 14313,
+      "word": "向阳花",
+      "onboard_time": 1743616635,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 11648,
       "num": 49043,
       "word": "这是我们要建成的科技强国",
@@ -7369,14 +7385,6 @@
       "onboard_time": 1743540554,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10505,
-      "num": 36579,
-      "word": "加沙所有大饼店因面粉耗尽停业",
-      "onboard_time": 1743625213,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 9953,
