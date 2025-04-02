@@ -1,0 +1,410 @@
+{
+  "runTime": 1743601494707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 792952,
+        "num": 1126872,
+        "word": "孤独症男孩因高颜值走红妈妈发声",
+        "onboard_time": 1743590722,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563320,
+        "num": 563320,
+        "word": "常州惊现200平1.5万元纸豪宅",
+        "onboard_time": 1743597082,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76677,
+        "num": 467969,
+        "word": "月球上有35个以中国元素命名的地名",
+        "onboard_time": 1743587061,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 396726,
+        "num": 396726,
+        "word": "Daniel公开",
+        "onboard_time": 1743595163,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 387556,
+        "num": 387556,
+        "word": "宋茜唐艺昕张佳宁又约上了",
+        "onboard_time": 1743595403,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 377821,
+        "num": 377821,
+        "word": "Switch2直面会",
+        "onboard_time": 1743598702,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 370683,
+        "num": 370683,
+        "word": "华晨宇方强硬表态是对裁缝创作宣战",
+        "onboard_time": 1743591381,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 351050,
+        "num": 351050,
+        "word": "战机与台湾中央山脉同框",
+        "onboard_time": 1743595344,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56187,
+        "num": 348160,
+        "word": "Switch2发售日",
+        "onboard_time": 1743600623,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29778,
+        "num": 328925,
+        "word": "Switch2手柄语音功能",
+        "onboard_time": 1743600744,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2457971,
+        "num": 320064,
+        "word": "胡歌 二胎",
+        "onboard_time": 1743592222,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1617305,
+        "num": 308695,
+        "word": "鹿晗迪丽热巴8年前的路透",
+        "onboard_time": 1743597562,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1119377,
+        "num": 288718,
+        "word": "小米打假雷军致公众的一封信",
+        "onboard_time": 1743595885,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69619,
+        "num": 277990,
+        "word": "95后女孩入行三年设计130块墓碑",
+        "onboard_time": 1743600082,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44495,
+        "num": 257772,
+        "word": "Switch2支持120帧",
+        "onboard_time": 1743600983,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253161,
+        "num": 253161,
+        "word": "我的女儿张诗琪她来过这个世界",
+        "onboard_time": 1743600503,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1041446,
+        "num": 248163,
+        "word": "IU向雪莉金赛纶推荐同一心理医生",
+        "onboard_time": 1743599783,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 819573,
+        "num": 241935,
+        "word": "王楚钦考编考研双双上岸",
+        "onboard_time": 1743579743,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229448,
+        "num": 229448,
+        "word": "OPPO发布凝光影像",
+        "onboard_time": 1743597444,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55738,
+        "num": 226856,
+        "word": "OPPO聚齐手机影像全壁江山",
+        "onboard_time": 1743599063,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 694022,
+        "num": 224105,
+        "word": "胡歌老婆",
+        "onboard_time": 1743595403,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580676,
+        "num": 222307,
+        "word": "爷爷为夺回孙子被人贩踩出眼珠",
+        "onboard_time": 1743570086,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550406,
+        "num": 219265,
+        "word": "小米SU7高速碰撞爆燃事件细节",
+        "onboard_time": 1743484044,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392706,
+        "num": 217551,
+        "word": "孟子坤 原来是晶哥",
+        "onboard_time": 1743596364,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378920,
+        "num": 215312,
+        "word": "长期睡眠不足的人长什么样",
+        "onboard_time": 1743595344,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244105,
+        "num": 212121,
+        "word": "张小斐没骗人",
+        "onboard_time": 1743597203,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210177,
+        "num": 210177,
+        "word": "入室抢婴案邻居5次供述均未认罪",
+        "onboard_time": 1743599604,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195285,
+        "num": 209539,
+        "word": "拉夫劳伦活动",
+        "onboard_time": 1743595224,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184993,
+        "num": 209003,
+        "word": "甲亢哥被重庆甜妹教育了",
+        "onboard_time": 1743600324,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 183137,
+        "num": 208372,
+        "word": "甲亢哥中国行让谁破防了",
+        "onboard_time": 1743585623,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 323449,
+        "num": 207531,
+        "word": "向太抓大鹅上瘾了",
+        "onboard_time": 1743599063,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307768,
+        "num": 207130,
+        "word": "男子开车反复碾压他人致其身亡",
+        "onboard_time": 1743590303,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206659,
+        "num": 206659,
+        "word": "雷军回应",
+        "onboard_time": 1743517885,
+        "rank": 32,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 196425,
+        "num": 196425,
+        "word": "控制欲强的人有3个心理特点",
+        "onboard_time": 1743597023,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195078,
+        "num": 195078,
+        "word": "刷信用卡买30万黄金转手赚数万",
+        "onboard_time": 1743600804,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178925,
+        "num": 178925,
+        "word": "马柏全打卡双人大屏",
+        "onboard_time": 1743597863,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177702,
+        "num": 177702,
+        "word": "Switch2",
+        "onboard_time": 1743589762,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170170,
+        "num": 170170,
+        "word": "金秀贤方公布照片时间否认涉未成年",
+        "onboard_time": 1743592103,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165451,
+        "num": 165451,
+        "word": "再见Switch",
+        "onboard_time": 1743587782,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 9705,
+        "num": 164208,
+        "word": "红十字照明无人机点亮曼德勒夜空",
+        "onboard_time": 1743601344,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 55478,
+        "num": 164006,
+        "word": "小岱妈妈说不喜欢高颜值自闭症标签",
+        "onboard_time": 1743600082,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106320,
+        "num": 164001,
+        "word": "久哲又又又轮换了",
+        "onboard_time": 1743600082,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163996,
+        "num": 163996,
+        "word": "藏海传40集",
+        "onboard_time": 1743590962,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161600,
+        "num": 161600,
+        "word": "念无双口碑",
+        "onboard_time": 1743597624,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161522,
+        "num": 161522,
+        "word": "减肥跳绳是先瘦肚子再瘦腿",
+        "onboard_time": 1743580163,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 160199,
+        "num": 160199,
+        "word": "郑秀晶卷发",
+        "onboard_time": 1743601104,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149291,
+        "num": 149291,
+        "word": "XIUMIN跳了TFBOYS的爱出发",
+        "onboard_time": 1743598163,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147402,
+        "num": 147402,
+        "word": "IU说李钟硕没时间看苦尽柑来",
+        "onboard_time": 1743579442,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144632,
+        "num": 144632,
+        "word": "如果古树会说话",
+        "onboard_time": 1743597683,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143364,
+        "num": 143364,
+        "word": "台独作妖引天火",
+        "onboard_time": 1743599783,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记领略中华文明#"
+    }
+  }
+}
