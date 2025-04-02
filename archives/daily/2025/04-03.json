@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743612488094,
+  "endTime": 1743614501497,
   "band_list": [
     {
       "raw_hot": 1471890,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371803,
+      "num": 198261,
+      "word": "豆包你现在改名叫邓超",
+      "onboard_time": 1743609381,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367394,
       "num": 217828,
       "word": "曝孟子坤出轨",
@@ -139,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 266971,
+      "num": 266971,
+      "word": "东部战区再发军事行动海报",
+      "onboard_time": 1743611659,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 227796,
       "num": 227796,
       "word": "Switch2价格公布",
@@ -153,14 +169,6 @@
       "onboard_time": 1743603623,
       "rank": 20,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 204456,
-      "num": 198261,
-      "word": "豆包你现在改名叫邓超",
-      "onboard_time": 1743609381,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 192011,
@@ -331,12 +339,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 78850,
+      "num": 78850,
+      "word": "李美越5天掉粉14万",
+      "onboard_time": 1743613097,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 75756,
       "num": 75756,
       "word": "Switch2直面会",
       "onboard_time": 1743598702,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 74478,
+      "num": 74478,
+      "word": "山东入室抢婴案受害者讲述庭审细节",
+      "onboard_time": 1743612138,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72762,
@@ -371,14 +395,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 64795,
-      "num": 213572,
-      "word": "东部战区再发军事行动海报",
-      "onboard_time": 1743611659,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 64751,
       "num": 64751,
       "word": "3分钟看懂特朗普对等关税始末",
@@ -411,6 +427,14 @@
       "category": "国际时政,国内时政"
     },
     {
+      "raw_hot": 58568,
+      "num": 102699,
+      "word": "黄磊说为张艺兴的表演骄傲",
+      "onboard_time": 1743613338,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 49048,
       "num": 75765,
       "word": "美国高官工作中能捅多大篓子",
@@ -419,12 +443,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43342,
+      "num": 48863,
+      "word": "虞书欣说这次杀青我没有大哭",
+      "onboard_time": 1743612558,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40556,
       "num": 479802,
       "word": "联合国点赞中国新能源发展",
       "onboard_time": 1743604164,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32814,
+      "num": 37607,
+      "word": "国台办回应解放军联合演训",
+      "onboard_time": 1743614236,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 21207,
+      "num": 106926,
+      "word": "中方救援队又发现1名幸存者",
+      "onboard_time": 1743614056,
+      "rank": 13,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
