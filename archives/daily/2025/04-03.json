@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743614501497,
+  "endTime": 1743615578528,
   "band_list": [
     {
       "raw_hot": 1471890,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 43342,
-      "num": 48863,
+      "num": 71611,
       "word": "虞书欣说这次杀青我没有大哭",
       "onboard_time": 1743612558,
       "rank": 39,
@@ -459,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34832,
+      "num": 34832,
+      "word": "你最期待看哪部待播剧",
+      "onboard_time": 1743615137,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32814,
       "num": 37607,
       "word": "国台办回应解放军联合演训",
@@ -467,12 +475,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21207,
+      "raw_hot": 30101,
       "num": 106926,
       "word": "中方救援队又发现1名幸存者",
       "onboard_time": 1743614056,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24502,
+      "num": 72367,
+      "word": "Switch2日版 自己锁自己",
+      "onboard_time": 1743606804,
+      "rank": 24,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
