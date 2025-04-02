@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743603842103,
+  "endTime": 1743604979595,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1685128,
+      "num": 286499,
+      "word": "曝王玉雯杨玏已分手",
+      "onboard_time": 1743603685,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1617305,
       "num": 308695,
       "word": "鹿晗迪丽热巴8年前的路透",
@@ -120,6 +128,14 @@
       "word": "华晨宇方称拒绝音乐版权擦边行为",
       "onboard_time": 1743565462,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1299327,
+      "num": 285216,
+      "word": "曝孟子坤出轨",
+      "onboard_time": 1743604345,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -251,6 +267,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 966972,
+      "num": 1154715,
+      "word": "日本九州岛附近6.2级地震",
+      "onboard_time": 1743604406,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 943778,
+      "num": 298355,
+      "word": "孟子坤 原来是晶哥",
+      "onboard_time": 1743596364,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 916266,
+      "num": 916266,
+      "word": "我的女儿张诗琪她来过这个世界",
+      "onboard_time": 1743600503,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 902534,
+      "num": 499204,
+      "word": "华晨宇方强硬表态是对裁缝创作宣战",
+      "onboard_time": 1743591381,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 860898,
       "num": 356666,
       "word": "山区孩子为赵露思发声",
@@ -336,6 +384,14 @@
       "word": "上海有门店卖狗狗麻辣烫25元一斤",
       "onboard_time": 1743560300,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 738805,
+      "num": 283795,
+      "word": "华人大妈持菜刀与警方对峙被击毙",
+      "onboard_time": 1743602544,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -523,6 +579,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 514768,
+      "num": 514768,
+      "word": "Switch2直面会",
+      "onboard_time": 1743598702,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 511816,
+      "num": 283101,
+      "word": "雷军捐资1亿成立守护资金消息不实",
+      "onboard_time": 1743603623,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 507668,
       "num": 259707,
       "word": "男子误入洗浴中心女宾区致顾客走光",
@@ -571,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 478613,
+      "num": 478613,
+      "word": "刷信用卡买30万黄金转手赚数万",
+      "onboard_time": 1743600804,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 475178,
       "num": 475178,
       "word": "宋茜唐艺昕张佳宁又约上了",
@@ -587,14 +667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 443909,
-      "num": 298355,
-      "word": "孟子坤 原来是晶哥",
-      "onboard_time": 1743596364,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 442599,
       "num": 857341,
       "word": "4名人贩子在法庭抖腿毫无忏悔之意",
@@ -609,14 +681,6 @@
       "onboard_time": 1743557541,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 412411,
-      "num": 412411,
-      "word": "华晨宇方强硬表态是对裁缝创作宣战",
-      "onboard_time": 1743591381,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 411763,
@@ -667,14 +731,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 377821,
-      "num": 377821,
-      "word": "Switch2直面会",
-      "onboard_time": 1743598702,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 376031,
       "num": 376031,
       "word": "盒饭姐骂浪费顾客后生意更火爆了",
@@ -688,6 +744,14 @@
       "word": "第一次在恋综里看到两男争一男",
       "onboard_time": 1743570503,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 357846,
+      "num": 357846,
+      "word": "奚梦瑶爸爸当家录制路透",
+      "onboard_time": 1743602724,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -764,7 +828,7 @@
     },
     {
       "raw_hot": 323449,
-      "num": 289724,
+      "num": 315256,
       "word": "向太抓大鹅上瘾了",
       "onboard_time": 1743599063,
       "rank": 9,
@@ -907,6 +971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 287435,
+      "num": 287435,
+      "word": "Switch2价格公布",
+      "onboard_time": 1743604406,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285019,
       "num": 423031,
       "word": "华晨宇黄霄雲双方未能达成有效共识",
@@ -1019,14 +1091,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 253161,
-      "num": 253161,
-      "word": "我的女儿张诗琪她来过这个世界",
-      "onboard_time": 1743600503,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252332,
       "num": 284449,
       "word": "DeepSeek一句话让赵牧辰脸红",
@@ -1075,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236768,
+      "num": 278325,
+      "word": "儿子拒付赡养费还将九旬母亲房门焊死",
+      "onboard_time": 1743601404,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235519,
       "num": 407803,
       "word": "74岁TVB老戏骨在狱中求婚成功",
@@ -1121,6 +1193,14 @@
       "onboard_time": 1743586703,
       "rank": 37,
       "category": "民生新闻,母婴育儿"
+    },
+    {
+      "raw_hot": 223014,
+      "num": 223014,
+      "word": "减肥建议不要长期跳绳",
+      "onboard_time": 1743602904,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 220660,
@@ -1235,6 +1315,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 209150,
+      "num": 209150,
+      "word": "为什么说人永远赚不到认知以外的钱",
+      "onboard_time": 1743602544,
+      "rank": 33,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 208686,
       "num": 208686,
       "word": "赵露思在追值得爱",
@@ -1305,6 +1393,14 @@
       "onboard_time": 1743574581,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204497,
+      "num": 274406,
+      "word": "Switch2",
+      "onboard_time": 1743589762,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 204452,
@@ -1403,20 +1499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198777,
-      "num": 274406,
-      "word": "Switch2",
-      "onboard_time": 1743589762,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 198672,
       "num": 198672,
       "word": "上海乐高乐园公布票价",
       "onboard_time": 1743562221,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 198502,
+      "num": 278190,
+      "word": "甲亢哥被重庆甜妹教育了",
+      "onboard_time": 1743600324,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 198397,
@@ -1441,6 +1537,14 @@
       "onboard_time": 1743575963,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197092,
+      "num": 281117,
+      "word": "姜甲儒妈妈刚走出法庭就晕倒了",
+      "onboard_time": 1743603685,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196511,
@@ -1473,14 +1577,6 @@
       "onboard_time": 1743586282,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 195078,
-      "num": 195078,
-      "word": "刷信用卡买30万黄金转手赚数万",
-      "onboard_time": 1743600804,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195052,
@@ -1545,6 +1641,14 @@
       "onboard_time": 1743577101,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 191231,
+      "num": 191231,
+      "word": "发现同事每天上班都很快乐的秘诀",
+      "onboard_time": 1743603685,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 190551,
@@ -1627,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187339,
+      "num": 187339,
+      "word": "王者荣耀 优衣库",
+      "onboard_time": 1743602365,
+      "rank": 38,
+      "category": "游戏,时尚"
+    },
+    {
       "raw_hot": 186615,
       "num": 316956,
       "word": "国色芳华2025微博爆款剧集",
@@ -1667,14 +1779,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 184993,
-      "num": 209003,
-      "word": "甲亢哥被重庆甜妹教育了",
-      "onboard_time": 1743600324,
-      "rank": 45,
-      "category": "网红"
-    },
-    {
       "raw_hot": 184210,
       "num": 184210,
       "word": "网友劝甲亢哥别在重庆的1楼后空翻",
@@ -1692,7 +1796,7 @@
     },
     {
       "raw_hot": 184065,
-      "num": 184065,
+      "num": 276708,
       "word": "何超莲三姐妹罕见同框",
       "onboard_time": 1743597624,
       "rank": 32,
@@ -1939,6 +2043,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162603,
+      "num": 162603,
+      "word": "清明谷雨手伤",
+      "onboard_time": 1743602843,
+      "rank": 42,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 162232,
+      "num": 277474,
+      "word": "念无双",
+      "onboard_time": 1743603565,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161786,
       "num": 161786,
       "word": "福建省考成绩",
@@ -2131,6 +2251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147607,
+      "num": 166955,
+      "word": "王安宇值得爱确实值得爱",
+      "onboard_time": 1743604164,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147274,
       "num": 446123,
       "word": "登陆少年组合新歌",
@@ -2169,6 +2297,14 @@
       "onboard_time": 1743599783,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 143155,
+      "num": 143155,
+      "word": "FS社新作公开",
+      "onboard_time": 1743604526,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 142822,
@@ -2291,12 +2427,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 131282,
+      "num": 131282,
+      "word": "沈阳一建筑突发火灾楼顶有多人被困",
+      "onboard_time": 1743604645,
+      "rank": 47,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 131110,
       "num": 409817,
       "word": "山东舰航母编队参加演练",
       "onboard_time": 1743575842,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 130696,
+      "num": 130696,
+      "word": "长大才明白庄心妍歌词的意义",
+      "onboard_time": 1743603144,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 129249,
@@ -2699,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83049,
+      "num": 188761,
+      "word": "于洋退役仪式",
+      "onboard_time": 1743604944,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81836,
       "num": 285696,
       "word": "中国大模型首次用于地震救援",
@@ -2859,6 +3019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60311,
+      "num": 280171,
+      "word": "不说话的爱手语无障碍直播",
+      "onboard_time": 1743604706,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60240,
       "num": 83917,
       "word": "特朗普分别威胁乌俄",
@@ -2872,6 +3040,14 @@
       "word": "入室抢婴案4名被告均有前科",
       "onboard_time": 1743514884,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59586,
+      "num": 197325,
+      "word": "高颜值孤独症男孩妈妈发博回应走红",
+      "onboard_time": 1743602483,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -2995,6 +3171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47327,
+      "num": 183769,
+      "word": "缅甸地震已致超3000死",
+      "onboard_time": 1743604884,
+      "rank": 39,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 47270,
       "num": 200436,
       "word": "陈幸同vs米特兰姆",
@@ -3105,6 +3289,14 @@
       "onboard_time": 1743568224,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36956,
+      "num": 763986,
+      "word": "联合国点赞中国新能源发展",
+      "onboard_time": 1743604164,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36792,
