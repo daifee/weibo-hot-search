@@ -1,0 +1,410 @@
+{
+  "runTime": 1743572549037,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1152673,
+        "num": 1207497,
+        "word": "东部战区海报毁瘫",
+        "onboard_time": 1743562582,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3422427,
+        "num": 1172322,
+        "word": "爷爷为夺回孙子被人贩踩出眼珠",
+        "onboard_time": 1743570086,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18602,
+        "num": 919189,
+        "word": "春天是藏在公园的诗情画意",
+        "onboard_time": 1743512724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 807811,
+        "num": 807811,
+        "word": "华晨宇方称拒绝音乐版权擦边行为",
+        "onboard_time": 1743565462,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 635974,
+        "num": 635974,
+        "word": "省考成绩",
+        "onboard_time": 1743569963,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 557913,
+        "num": 557913,
+        "word": "DeepSeek7小时攻克缅甸救灾语言关",
+        "onboard_time": 1743563842,
+        "rank": 5,
+        "category": "海外新闻,互联网"
+      },
+      {
+        "raw_hot": 451507,
+        "num": 451507,
+        "word": "台湾",
+        "onboard_time": 1743552321,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 397297,
+        "num": 397297,
+        "word": "一部悬疑剧凑齐四个狠女",
+        "onboard_time": 1743568344,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335884,
+        "num": 335884,
+        "word": "张小泉集团及法人等被执行31.3亿",
+        "onboard_time": 1743568163,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54755,
+        "num": 335634,
+        "word": "缅甸强震已致2886死4639伤",
+        "onboard_time": 1743572063,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2700149,
+        "num": 334657,
+        "word": "雷军回应",
+        "onboard_time": 1743517885,
+        "rank": 10,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 1324962,
+        "num": 333909,
+        "word": "华晨宇 黄霄雲",
+        "onboard_time": 1743566243,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 894135,
+        "num": 332603,
+        "word": "网文作者涉黄刑期减少六年",
+        "onboard_time": 1743564082,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73469,
+        "num": 332251,
+        "word": "羽毛球涨幅超黄金",
+        "onboard_time": 1743568583,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766829,
+        "num": 331420,
+        "word": "小米汽车回应",
+        "onboard_time": 1743517885,
+        "rank": 14,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 330847,
+        "num": 330847,
+        "word": "和分手六年的前任破镜重圆了",
+        "onboard_time": 1743571341,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 683963,
+        "num": 330238,
+        "word": "小米客服称SU7电池双供应商随机装",
+        "onboard_time": 1743571642,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 42797,
+        "num": 329337,
+        "word": "和赵丽颖一起舒适过夏天",
+        "onboard_time": 1743568043,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172121,
+        "num": 329112,
+        "word": "神童自曝去年4月分手",
+        "onboard_time": 1743568824,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36792,
+        "num": 328301,
+        "word": "宽带2年未使用却被多扣9360元",
+        "onboard_time": 1743571763,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147274,
+        "num": 327386,
+        "word": "登陆少年组合新歌",
+        "onboard_time": 1743566663,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 656088,
+        "num": 326485,
+        "word": "宁德时代称小米SU7用的不是其电池",
+        "onboard_time": 1743562102,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 563457,
+        "num": 325320,
+        "word": "金秀贤假惺惺的你已出周边",
+        "onboard_time": 1743571163,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529670,
+        "num": 324733,
+        "word": "初一女生父亲校门口殴打六年级学生",
+        "onboard_time": 1743569783,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122238,
+        "num": 324111,
+        "word": "王曼昱小岱封面大片",
+        "onboard_time": 1743562881,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529468,
+        "num": 323001,
+        "word": "王蓉回应浪姐被淘汰",
+        "onboard_time": 1743560722,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484128,
+        "num": 322532,
+        "word": "龙应台称留给台湾的时间不多了",
+        "onboard_time": 1743571642,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 429316,
+        "num": 321349,
+        "word": "安静公主做完手术哽咽落泪",
+        "onboard_time": 1743563842,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259601,
+        "num": 320658,
+        "word": "雁回时大结局 没填坑",
+        "onboard_time": 1743564321,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20977,
+        "num": 320168,
+        "word": "医生讲解自闭症的4大误区",
+        "onboard_time": 1743571763,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359712,
+        "num": 319415,
+        "word": "金秀贤被举报偷税漏税",
+        "onboard_time": 1743561081,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64001,
+        "num": 317959,
+        "word": "阿维塔07三月销量翻倍",
+        "onboard_time": 1743568464,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 274398,
+        "num": 317409,
+        "word": "解放军说只要一声令下必将消灭台独",
+        "onboard_time": 1743568282,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186615,
+        "num": 316956,
+        "word": "国色芳华2025微博爆款剧集",
+        "onboard_time": 1743571582,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358381,
+        "num": 315659,
+        "word": "第一次在恋综里看到两男争一男",
+        "onboard_time": 1743570503,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315391,
+        "num": 315391,
+        "word": "原来逍遥丸吃了这么逍遥",
+        "onboard_time": 1743564622,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275659,
+        "num": 275659,
+        "word": "姜甲儒喊了人贩子20多年叔叔",
+        "onboard_time": 1743570923,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239858,
+        "num": 239858,
+        "word": "威少三分犯规",
+        "onboard_time": 1743571944,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231299,
+        "num": 231299,
+        "word": "姜甲儒称要亲手为家人讨回公道",
+        "onboard_time": 1743571462,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215888,
+        "num": 215888,
+        "word": "孤独症男孩吹奏好想爱这个世界啊",
+        "onboard_time": 1743558381,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214826,
+        "num": 214826,
+        "word": "森林狼vs掘金",
+        "onboard_time": 1743571642,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213530,
+        "num": 213530,
+        "word": "东部战区模拟对重要港口精确打击",
+        "onboard_time": 1743560300,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119504,
+        "num": 202345,
+        "word": "姚晨 江湖人称锅芙蓉",
+        "onboard_time": 1743572482,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201151,
+        "num": 201151,
+        "word": "李胜利闯中",
+        "onboard_time": 1743566545,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183869,
+        "num": 183869,
+        "word": "山区孩子为赵露思发声",
+        "onboard_time": 1743551179,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120014,
+        "num": 183140,
+        "word": "国货挤破头创新为啥年轻人不买单",
+        "onboard_time": 1743570443,
+        "rank": 45,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 182976,
+        "num": 182976,
+        "word": "掘金vs森林狼",
+        "onboard_time": 1743572363,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178467,
+        "num": 178467,
+        "word": "孙子被抢走爷爷一天抽五六盒烟去世",
+        "onboard_time": 1743517584,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176867,
+        "num": 176867,
+        "word": "乌云之上定档",
+        "onboard_time": 1743570804,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172355,
+        "num": 172355,
+        "word": "创亚2总决赛嘉宾阵容",
+        "onboard_time": 1743571462,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度总统互致贺电#"
+    }
+  }
+}

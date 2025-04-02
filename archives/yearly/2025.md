@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/02 13:25:37
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/02 13:42:29
 </p>
 </blockquote>
 <p>
@@ -1161,6 +1161,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E4%B8%BA%E5%A4%BA%E5%9B%9E%E5%AD%99%E5%AD%90%E8%A2%AB%E4%BA%BA%E8%B4%A9%E8%B8%A9%E5%87%BA%E7%9C%BC%E7%8F%A0%23" target="weibo">
+爷爷为夺回孙子被人贩踩出眼珠（热度：3422427）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%AF%BC%E6%BC%94%E9%A9%AC%E8%BF%9B%E5%BC%BA%E5%A5%B8%E8%A2%AB%E5%88%A4%E5%88%91%23" target="weibo">
 曝导演马进强奸被判刑（热度：3422281）
 </a>
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B8%9D%E6%B0%91%E8%BF%9E%E5%8F%9120%E6%9D%A1%E6%82%BC%E5%BF%B5%E5%A4%A7S%23" target="weibo">
 周渝民连发20条悼念大S（热度：2829105）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%AE%9A%E6%97%A5%E5%8E%BF%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B495%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
-西藏定日县地震已致95人遇难（热度：2828414）
 </a>
 </li>
 
