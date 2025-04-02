@@ -1,0 +1,410 @@
+{
+  "runTime": 1743576451034,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1120131,
+        "num": 1179220,
+        "word": "东部战区海报毁瘫",
+        "onboard_time": 1743562582,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 621777,
+        "num": 621777,
+        "word": "省考成绩",
+        "onboard_time": 1743569963,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30611,
+        "num": 518570,
+        "word": "春天是藏在公园的诗情画意",
+        "onboard_time": 1743512724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2501784,
+        "num": 511869,
+        "word": "爷爷为夺回孙子被人贩踩出眼珠",
+        "onboard_time": 1743570086,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 930141,
+        "num": 506647,
+        "word": "深航一空姐被乘客咬",
+        "onboard_time": 1743572902,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489732,
+        "num": 489732,
+        "word": "和分手六年的前任破镜重圆了",
+        "onboard_time": 1743571341,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 475777,
+        "num": 475777,
+        "word": "孟子义李昀锐合体新综",
+        "onboard_time": 1743574581,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411763,
+        "num": 411763,
+        "word": "姜甲儒称要亲手为家人讨回公道",
+        "onboard_time": 1743571462,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58101,
+        "num": 409817,
+        "word": "山东舰航母编队参加演练",
+        "onboard_time": 1743575842,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151975,
+        "num": 407789,
+        "word": "东部战区锁控",
+        "onboard_time": 1743575902,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91074,
+        "num": 403892,
+        "word": "香奈儿J12蓝调美学",
+        "onboard_time": 1743573862,
+        "rank": 10,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 2217905,
+        "num": 398254,
+        "word": "雷军回应",
+        "onboard_time": 1743517885,
+        "rank": 11,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 1025291,
+        "num": 397075,
+        "word": "金秀贤假惺惺的你已出周边",
+        "onboard_time": 1743571163,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 995705,
+        "num": 393577,
+        "word": "小米客服称SU7电池双供应商随机装",
+        "onboard_time": 1743571642,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144732,
+        "num": 390815,
+        "word": "张小泉集团及法人等被执行31.3亿",
+        "onboard_time": 1743568163,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 823169,
+        "num": 385089,
+        "word": "龙应台称留给台湾的时间不多了",
+        "onboard_time": 1743571642,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 384425,
+        "num": 384425,
+        "word": "台湾",
+        "onboard_time": 1743552321,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 311393,
+        "num": 380754,
+        "word": "虞书欣丁禹兮都在海口",
+        "onboard_time": 1743575481,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46427,
+        "num": 374196,
+        "word": "加油站中大奖等半年被告知作废",
+        "onboard_time": 1743575361,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110418,
+        "num": 366869,
+        "word": "韩国民请愿出台金秀贤防治法",
+        "onboard_time": 1743574942,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 762171,
+        "num": 359625,
+        "word": "华晨宇 黄霄雲",
+        "onboard_time": 1743566243,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 572466,
+        "num": 348809,
+        "word": "初一女生父亲校门口殴打六年级学生",
+        "onboard_time": 1743569783,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506366,
+        "num": 343161,
+        "word": "网文作者涉黄刑期减少六年",
+        "onboard_time": 1743564082,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495701,
+        "num": 332915,
+        "word": "小米汽车回应",
+        "onboard_time": 1743517885,
+        "rank": 23,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 190080,
+        "num": 326719,
+        "word": "一诺金鱼少年光影大片",
+        "onboard_time": 1743575120,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 321864,
+        "num": 321864,
+        "word": "DeepSeek7小时攻克缅甸救灾语言关",
+        "onboard_time": 1743563842,
+        "rank": 25,
+        "category": "海外新闻,互联网"
+      },
+      {
+        "raw_hot": 227469,
+        "num": 317302,
+        "word": "彭小苒浪姐比东宫还虐",
+        "onboard_time": 1743575241,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219199,
+        "num": 311337,
+        "word": "华晨宇方称拒绝音乐版权擦边行为",
+        "onboard_time": 1743565462,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197289,
+        "num": 306597,
+        "word": "凤凰传奇官宣6场鸟巢演唱会",
+        "onboard_time": 1743575963,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25509,
+        "num": 295757,
+        "word": "96岁抗战老兵含泪抚摸牺牲战友墓碑",
+        "onboard_time": 1743575422,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128096,
+        "num": 292357,
+        "word": "李宇春隐世英姿光影大片",
+        "onboard_time": 1743576083,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 287709,
+        "num": 287709,
+        "word": "解放军说只要一声令下必将消灭台独",
+        "onboard_time": 1743568282,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169081,
+        "num": 271958,
+        "word": "王安宇王玉雯发火星文",
+        "onboard_time": 1743575481,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266344,
+        "num": 266344,
+        "word": "宁德时代称小米SU7用的不是其电池",
+        "onboard_time": 1743562102,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 245229,
+        "num": 245229,
+        "word": "韩国出土王室专用的中国瓷器",
+        "onboard_time": 1743575422,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230009,
+        "num": 230009,
+        "word": "归棹 剧改小说",
+        "onboard_time": 1743574224,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219211,
+        "num": 219211,
+        "word": "迪丽热巴拍照三连biu",
+        "onboard_time": 1743573501,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221537,
+        "num": 218963,
+        "word": "王蓉回应浪姐被淘汰",
+        "onboard_time": 1743560722,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216105,
+        "num": 216105,
+        "word": "姜甲儒称人贩子必须死刑",
+        "onboard_time": 1743574102,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215366,
+        "num": 215366,
+        "word": "姜甲儒喊了人贩子20多年叔叔",
+        "onboard_time": 1743570923,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87289,
+        "num": 215001,
+        "word": "方基默去世享年65岁",
+        "onboard_time": 1743570682,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214961,
+        "num": 214961,
+        "word": "原来逍遥丸吃了这么逍遥",
+        "onboard_time": 1743564622,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201557,
+        "num": 201557,
+        "word": "山东舰航母编队位台岛以东演练",
+        "onboard_time": 1743575662,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189239,
+        "num": 191781,
+        "word": "虞书欣姜暮清冷感镜头",
+        "onboard_time": 1743575781,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189590,
+        "num": 189590,
+        "word": "东部战区海报锁控",
+        "onboard_time": 1743575842,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185812,
+        "num": 185812,
+        "word": "特斯拉官微称造车首要原则是安全",
+        "onboard_time": 1743574882,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165264,
+        "num": 165264,
+        "word": "赵丽颖褶皱纱家居服",
+        "onboard_time": 1743574581,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160312,
+        "num": 160312,
+        "word": "从苹果换安卓是种什么体验",
+        "onboard_time": 1743572123,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 157584,
+        "num": 157584,
+        "word": "约基奇61分三双",
+        "onboard_time": 1743572604,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153292,
+        "num": 153292,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记两次讲话传递鲜明信息#"
+    }
+  }
+}
