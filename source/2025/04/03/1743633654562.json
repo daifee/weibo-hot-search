@@ -1,0 +1,410 @@
+{
+  "runTime": 1743633654562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 423736,
+        "num": 512242,
+        "word": "22岁离世女骑手家属寻目击者定责",
+        "onboard_time": 1743630795,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267778,
+        "num": 267778,
+        "word": "妻子不愿继续生育离婚后获补偿35万",
+        "onboard_time": 1743606685,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24170,
+        "num": 215399,
+        "word": "联合国点赞中国新能源发展",
+        "onboard_time": 1743604164,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201512,
+        "num": 201512,
+        "word": "特朗普力推的对等关税是啥",
+        "onboard_time": 1743619635,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197491,
+        "num": 197491,
+        "word": "甲亢哥说中国是被低估的地方",
+        "onboard_time": 1743607762,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181176,
+        "num": 181176,
+        "word": "我的女儿张诗琪她来过这个世界",
+        "onboard_time": 1743600503,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 177530,
+        "num": 177530,
+        "word": "东部战区再发军事行动海报",
+        "onboard_time": 1743611659,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132022,
+        "num": 132022,
+        "word": "日本九州岛附近6.2级地震",
+        "onboard_time": 1743604406,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 90069,
+        "num": 90069,
+        "word": "外交部回应美欧日等指责中方联合演训",
+        "onboard_time": 1743609262,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79270,
+        "num": 79270,
+        "word": "李美越5天掉粉14万",
+        "onboard_time": 1743613097,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299292,
+        "num": 79074,
+        "word": "孟子坤 家暴",
+        "onboard_time": 1743606385,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276665,
+        "num": 78792,
+        "word": "胡歌 二胎",
+        "onboard_time": 1743592222,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259576,
+        "num": 78510,
+        "word": "华人大妈持菜刀与警方对峙被击毙",
+        "onboard_time": 1743602544,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174354,
+        "num": 78123,
+        "word": "金秀贤否认所有照片",
+        "onboard_time": 1743606564,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171955,
+        "num": 78047,
+        "word": "鹿晗迪丽热巴8年前的路透",
+        "onboard_time": 1743597562,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152061,
+        "num": 77742,
+        "word": "豆包你现在改名叫邓超",
+        "onboard_time": 1743609381,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135245,
+        "num": 77481,
+        "word": "曝王玉雯杨玏已分手",
+        "onboard_time": 1743603685,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96908,
+        "num": 76963,
+        "word": "IU向雪莉金赛纶推荐同一心理医生",
+        "onboard_time": 1743599783,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76904,
+        "num": 76904,
+        "word": "曝孟子坤出轨",
+        "onboard_time": 1743604345,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59450,
+        "num": 68091,
+        "word": "极挑男人帮张艺兴新片首映合体",
+        "onboard_time": 1743605124,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82617,
+        "num": 68085,
+        "word": "长期睡眠不足的人长什么样",
+        "onboard_time": 1743595344,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67969,
+        "num": 67969,
+        "word": "雷军捐资1亿成立守护资金消息不实",
+        "onboard_time": 1743603623,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 62750,
+        "num": 62750,
+        "word": "男子开车反复碾压他人致其身亡",
+        "onboard_time": 1743590303,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55235,
+        "num": 62562,
+        "word": "何洛洛 生命树",
+        "onboard_time": 1743608361,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52846,
+        "num": 62087,
+        "word": "浪姐第一季全是真的姐",
+        "onboard_time": 1743605486,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44769,
+        "num": 61877,
+        "word": "黄磊说为张艺兴的表演骄傲",
+        "onboard_time": 1743613338,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41191,
+        "num": 61736,
+        "word": "向太抓大鹅上瘾了",
+        "onboard_time": 1743599063,
+        "rank": 26,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 30816,
+        "num": 61319,
+        "word": "宋茜唐艺昕张佳宁又约上了",
+        "onboard_time": 1743595403,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 30287,
+        "num": 61043,
+        "word": "王安宇抹布文学",
+        "onboard_time": 1743608123,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28639,
+        "num": 60666,
+        "word": "甲亢哥被重庆甜妹教育了",
+        "onboard_time": 1743600324,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 60419,
+        "num": 60419,
+        "word": "孤独症男孩因高颜值走红妈妈发声",
+        "onboard_time": 1743590722,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59168,
+        "num": 59168,
+        "word": "胡歌老婆",
+        "onboard_time": 1743595403,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52802,
+        "num": 52802,
+        "word": "战机与台湾中央山脉同框",
+        "onboard_time": 1743595344,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52643,
+        "num": 52643,
+        "word": "爷爷为夺回孙子被人贩踩出眼珠",
+        "onboard_time": 1743570086,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52132,
+        "num": 52132,
+        "word": "心疼小白熊",
+        "onboard_time": 1743608901,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49746,
+        "num": 49746,
+        "word": "不要焦虑2小时和8公里以外的事",
+        "onboard_time": 1743611180,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48061,
+        "num": 48061,
+        "word": "Switch2价格公布",
+        "onboard_time": 1743604406,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 42571,
+        "num": 42571,
+        "word": "为什么说人永远赚不到认知以外的钱",
+        "onboard_time": 1743602544,
+        "rank": 37,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 42152,
+        "num": 42152,
+        "word": "刷信用卡买30万黄金转手赚数万",
+        "onboard_time": 1743600804,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41455,
+        "num": 41455,
+        "word": "加沙所有大饼店因面粉耗尽停业",
+        "onboard_time": 1743625213,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37462,
+        "num": 37462,
+        "word": "战胜焦虑的秘诀其实就是两个字",
+        "onboard_time": 1743611899,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27728,
+        "num": 37452,
+        "word": "女子称买到古驰假口红被店员小号骂",
+        "onboard_time": 1743624014,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23837,
+        "num": 37435,
+        "word": "中方救援队又发现1名幸存者",
+        "onboard_time": 1743614056,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23102,
+        "num": 37420,
+        "word": "74岁TVB老戏骨求婚狱中37岁女友",
+        "onboard_time": 1743633376,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22701,
+        "num": 37409,
+        "word": "正告台独势力",
+        "onboard_time": 1743615856,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21157,
+        "num": 37395,
+        "word": "缅甸地震已致超3000死",
+        "onboard_time": 1743604884,
+        "rank": 45,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 21109,
+        "num": 37370,
+        "word": "高颜值孤独症男孩小岱走红背后",
+        "onboard_time": 1743620954,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20948,
+        "num": 37356,
+        "word": "东部战区演训雷霆出击",
+        "onboard_time": 1743610460,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19654,
+        "num": 37338,
+        "word": "Flamma道歉",
+        "onboard_time": 1743607705,
+        "rank": 48,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 18858,
+        "num": 37333,
+        "word": "双轨杀青",
+        "onboard_time": 1743633618,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#自觉遵规守纪大胆干事创业#"
+    }
+  }
+}

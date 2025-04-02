@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743632613704,
+  "endTime": 1743633654562,
   "band_list": [
     {
       "raw_hot": 1471890,
@@ -83,6 +83,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 423736,
+      "num": 512242,
+      "word": "22岁离世女骑手家属寻目击者定责",
+      "onboard_time": 1743630795,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411619,
       "num": 220293,
       "word": "金秀贤否认所有照片",
@@ -155,11 +163,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 255202,
-      "num": 395849,
-      "word": "22岁离世女骑手家属寻目击者定责",
-      "onboard_time": 1743630795,
-      "rank": 0,
+      "raw_hot": 259576,
+      "num": 192011,
+      "word": "华人大妈持菜刀与警方对峙被击毙",
+      "onboard_time": 1743602544,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -179,12 +187,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 192011,
-      "num": 192011,
-      "word": "华人大妈持菜刀与警方对峙被击毙",
-      "onboard_time": 1743602544,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 201512,
+      "num": 201512,
+      "word": "特朗普力推的对等关税是啥",
+      "onboard_time": 1743619635,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175633,
@@ -201,14 +209,6 @@
       "onboard_time": 1743595344,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 157160,
-      "num": 157160,
-      "word": "特朗普力推的对等关税是啥",
-      "onboard_time": 1743619635,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 151562,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 85488,
-      "num": 78850,
+      "num": 79270,
       "word": "李美越5天掉粉14万",
       "onboard_time": 1743613097,
       "rank": 26,
@@ -571,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23102,
+      "num": 37420,
+      "word": "74岁TVB老戏骨求婚狱中37岁女友",
+      "onboard_time": 1743633376,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22589,
       "num": 26531,
       "word": "张极骑车去天津vlog",
@@ -601,6 +609,14 @@
       "onboard_time": 1743632056,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18858,
+      "num": 37333,
+      "word": "双轨杀青",
+      "onboard_time": 1743633618,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 18620,

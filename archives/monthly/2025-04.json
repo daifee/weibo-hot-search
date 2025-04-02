@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743632613704,
+  "endTime": 1743633654562,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1283,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423736,
+      "num": 512242,
+      "word": "22岁离世女骑手家属寻目击者定责",
+      "onboard_time": 1743630795,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415777,
       "num": 415777,
       "word": "光遇",
@@ -2203,14 +2211,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 255202,
-      "num": 395849,
-      "word": "22岁离世女骑手家属寻目击者定责",
-      "onboard_time": 1743630795,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 254728,
       "num": 361228,
       "word": "韩国出土王室专用的中国瓷器",
@@ -2945,6 +2945,14 @@
       "onboard_time": 1743575662,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 201512,
+      "num": 201512,
+      "word": "特朗普力推的对等关税是啥",
+      "onboard_time": 1743619635,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 200541,
@@ -4113,14 +4121,6 @@
       "onboard_time": 1743513746,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157160,
-      "num": 157160,
-      "word": "特朗普力推的对等关税是啥",
-      "onboard_time": 1743619635,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 156356,
@@ -5812,7 +5812,7 @@
     },
     {
       "raw_hot": 85488,
-      "num": 78850,
+      "num": 79270,
       "word": "李美越5天掉粉14万",
       "onboard_time": 1743613097,
       "rank": 26,
@@ -7075,6 +7075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23102,
+      "num": 37420,
+      "word": "74岁TVB老戏骨求婚狱中37岁女友",
+      "onboard_time": 1743633376,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22589,
       "num": 26531,
       "word": "张极骑车去天津vlog",
@@ -7169,6 +7177,14 @@
       "onboard_time": 1743632056,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18858,
+      "num": 37333,
+      "word": "双轨杀青",
+      "onboard_time": 1743633618,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 18812,
