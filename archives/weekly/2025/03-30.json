@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743607589715,
+  "endTime": 1743608525719,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -211,6 +211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1921906,
+      "num": 276665,
+      "word": "孟子坤 家暴",
+      "onboard_time": 1743606385,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1906715,
       "num": 1906715,
       "word": "雁回时大结局",
@@ -328,14 +336,6 @@
       "word": "吴彦祖发文谴责飞机上光脚踩座椅乘客",
       "onboard_time": 1743344963,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1702066,
-      "num": 276665,
-      "word": "孟子坤 家暴",
-      "onboard_time": 1743606385,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -569,6 +569,14 @@
       "onboard_time": 1743486742,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1243325,
+      "num": 1243325,
+      "word": "小米SU7事故遇难者家属回应进展",
+      "onboard_time": 1743605843,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1243253,
@@ -1907,6 +1915,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 534960,
+      "num": 534960,
+      "word": "浪姐第一季全是真的姐",
+      "onboard_time": 1743605486,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531522,
       "num": 531522,
       "word": "浪姐聊天记录",
@@ -1937,14 +1953,6 @@
       "onboard_time": 1743318620,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 527430,
-      "num": 527430,
-      "word": "浪姐第一季全是真的姐",
-      "onboard_time": 1743605486,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 527118,
@@ -1987,6 +1995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 515465,
+      "num": 515465,
+      "word": "妻子不愿继续生育离婚后获补偿35万",
+      "onboard_time": 1743606685,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514768,
       "num": 514768,
       "word": "Switch2直面会",
@@ -2017,6 +2033,14 @@
       "onboard_time": 1743447134,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 508724,
+      "num": 270068,
+      "word": "金秀贤否认所有照片",
+      "onboard_time": 1743606564,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 505473,
@@ -2265,14 +2289,6 @@
       "onboard_time": 1743313050,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 456081,
-      "num": 456081,
-      "word": "小米SU7事故遇难者家属回应进展",
-      "onboard_time": 1743605843,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 454377,
@@ -3081,14 +3097,6 @@
       "onboard_time": 1743419542,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 335658,
-      "num": 270068,
-      "word": "金秀贤否认所有照片",
-      "onboard_time": 1743606564,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 334731,
@@ -4193,6 +4201,14 @@
       "onboard_time": 1743493223,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 248410,
+      "num": 198719,
+      "word": "霸王茶姬 哪吒",
+      "onboard_time": 1743607404,
+      "rank": 47,
+      "category": "美食,电影"
     },
     {
       "raw_hot": 248243,
@@ -5521,6 +5537,14 @@
       "onboard_time": 1743562221,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 198592,
+      "num": 198592,
+      "word": "丁程鑫跳了火力全开",
+      "onboard_time": 1743608063,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 198502,
@@ -7219,14 +7243,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 161499,
-      "num": 275429,
-      "word": "妻子不愿继续生育离婚后获补偿35万",
-      "onboard_time": 1743606685,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161487,
       "num": 161487,
       "word": "租客体检多处异常怀疑房子发霉所致",
@@ -7819,6 +7835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150462,
+      "num": 175949,
+      "word": "何洛洛 生命树",
+      "onboard_time": 1743608361,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150433,
       "num": 150433,
       "word": "Jennie获奖感言",
@@ -8201,6 +8225,14 @@
       "onboard_time": 1743303449,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144564,
+      "num": 144564,
+      "word": "王安宇抹布文学",
+      "onboard_time": 1743608123,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 144496,
@@ -9020,7 +9052,7 @@
     },
     {
       "raw_hot": 131282,
-      "num": 131282,
+      "num": 206204,
       "word": "沈阳一建筑突发火灾楼顶有多人被困",
       "onboard_time": 1743604645,
       "rank": 47,
@@ -9187,6 +9219,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 127917,
+      "num": 127917,
+      "word": "Flamma道歉",
+      "onboard_time": 1743607705,
+      "rank": 46,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 127803,
       "num": 127803,
       "word": "陈都灵4月6个商务拍摄",
@@ -9321,6 +9361,14 @@
       "onboard_time": 1743413365,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125212,
+      "num": 277011,
+      "word": "我交了个星朋友",
+      "onboard_time": 1743606863,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125132,
@@ -10163,14 +10211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110473,
-      "num": 110473,
-      "word": "霸王茶姬 哪吒",
-      "onboard_time": 1743607404,
-      "rank": 47,
-      "category": "美食,电影"
-    },
-    {
       "raw_hot": 110418,
       "num": 366869,
       "word": "韩国民请愿出台金秀贤防治法",
@@ -10723,14 +10763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 97463,
-      "num": 277011,
-      "word": "我交了个星朋友",
-      "onboard_time": 1743606863,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97192,
       "num": 97192,
       "word": "丁程鑫孩子静悄悄必定在作妖",
@@ -10961,6 +10993,14 @@
       "onboard_time": 1743330260,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88494,
+      "num": 199377,
+      "word": "孙佳俊说我们永远在路上",
+      "onboard_time": 1743607822,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 88423,
@@ -11500,7 +11540,7 @@
     },
     {
       "raw_hot": 70472,
-      "num": 763986,
+      "num": 813423,
       "word": "联合国点赞中国新能源发展",
       "onboard_time": 1743604164,
       "rank": 2,
@@ -11793,6 +11833,14 @@
       "onboard_time": 1743350120,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 62115,
+      "num": 276695,
+      "word": "头发长短与学习成绩无必然联系",
+      "onboard_time": 1743607163,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62078,
@@ -12747,14 +12795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31624,
-      "num": 276695,
-      "word": "头发长短与学习成绩无必然联系",
-      "onboard_time": 1743607163,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31582,
       "num": 92491,
       "word": "徐明浩就这样蹦迪",
@@ -12795,12 +12835,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30868,
+      "num": 175727,
+      "word": "甲亢哥说中国是被低估的地方",
+      "onboard_time": 1743607762,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30575,
       "num": 411276,
       "word": "伪造5000份报告非法获利65万获刑",
       "onboard_time": 1743582563,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30563,
+      "num": 204534,
+      "word": "3分钟看懂特朗普对等关税始末",
+      "onboard_time": 1743607822,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30302,
@@ -12929,6 +12985,14 @@
       "onboard_time": 1743495022,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28696,
+      "num": 191432,
+      "word": "34年前杀人犯出狱后称冤枉提起上诉",
+      "onboard_time": 1743608483,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28656,
@@ -13409,6 +13473,14 @@
       "onboard_time": 1743527597,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15512,
+      "num": 191781,
+      "word": "美专家说美对等关税难以实施",
+      "onboard_time": 1743608302,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15414,
