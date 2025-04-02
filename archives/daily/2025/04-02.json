@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743582757772,
+  "endTime": 1743583584203,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -67,8 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1430390,
-      "num": 1430390,
+      "raw_hot": 1490054,
+      "num": 1490054,
       "word": "王楚钦考编考研双双上岸",
       "onboard_time": 1743579743,
       "rank": 3,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 803280,
+      "num": 545329,
+      "word": "五问小米SU7高速爆燃事故",
+      "onboard_time": 1743577822,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 788032,
       "num": 788032,
       "word": "柯南坦白和小兰在交往",
@@ -232,14 +240,6 @@
       "word": "上海有门店卖狗狗麻辣烫25元一斤",
       "onboard_time": 1743560300,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 746381,
-      "num": 545329,
-      "word": "五问小米SU7高速爆燃事故",
-      "onboard_time": 1743577822,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -321,6 +321,14 @@
       "onboard_time": 1743563842,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 567521,
+      "num": 567521,
+      "word": "王楚钦不占普通学生名额",
+      "onboard_time": 1743582682,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 547347,
@@ -411,6 +419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 412986,
+      "num": 526720,
+      "word": "王安宇王玉雯娱乐圈人缘",
+      "onboard_time": 1743580343,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411763,
       "num": 411763,
       "word": "姜甲儒称要亲手为家人讨回公道",
@@ -473,14 +489,6 @@
       "onboard_time": 1743575842,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 350286,
-      "num": 526720,
-      "word": "王安宇王玉雯娱乐圈人缘",
-      "onboard_time": 1743580343,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 344162,
@@ -579,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296864,
+      "num": 539123,
+      "word": "上海总部调查gucci假口红事件",
+      "onboard_time": 1743581241,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295898,
       "num": 307386,
       "word": "李胜利闯中",
@@ -643,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267288,
+      "num": 267288,
+      "word": "李美越回应",
+      "onboard_time": 1743580523,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 261215,
       "num": 261215,
       "word": "归棹 剧改小说",
@@ -681,14 +705,6 @@
       "onboard_time": 1743570804,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244883,
-      "num": 539123,
-      "word": "上海总部调查gucci假口红事件",
-      "onboard_time": 1743581241,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 240320,
@@ -731,12 +747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221164,
-      "num": 221164,
-      "word": "李美越回应",
-      "onboard_time": 1743580523,
-      "rank": 28,
-      "category": "网红"
+      "raw_hot": 234293,
+      "num": 234293,
+      "word": "减肥跳绳是先瘦肚子再瘦腿",
+      "onboard_time": 1743580163,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 220660,
@@ -803,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211729,
+      "num": 211729,
+      "word": "无意识控血糖的5个小习惯",
+      "onboard_time": 1743580104,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 211412,
       "num": 211412,
       "word": "王一博追风者定档央视一套",
@@ -819,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208686,
+      "num": 208686,
+      "word": "赵露思在追值得爱",
+      "onboard_time": 1743580583,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207237,
       "num": 180179,
       "word": "任时完取关金秀贤",
@@ -833,6 +865,14 @@
       "onboard_time": 1743571462,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206892,
+      "num": 206892,
+      "word": "王楚钦以奥运冠军身份申请上北大",
+      "onboard_time": 1743583100,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 205642,
@@ -859,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203019,
-      "num": 203019,
-      "word": "赵露思在追值得爱",
-      "onboard_time": 1743580583,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202411,
       "num": 199032,
       "word": "澳门世界杯2025",
@@ -889,6 +921,14 @@
       "onboard_time": 1743575662,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 199575,
+      "num": 232582,
+      "word": "王楚钦太优秀了",
+      "onboard_time": 1743583223,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 198672,
@@ -1131,14 +1171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179349,
-      "num": 175505,
-      "word": "王楚钦不占普通学生名额",
-      "onboard_time": 1743582682,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177187,
       "num": 177187,
       "word": "雁回时大结局",
@@ -1179,12 +1211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173795,
-      "num": 173795,
-      "word": "减肥跳绳是先瘦肚子再瘦腿",
-      "onboard_time": 1743580163,
-      "rank": 45,
-      "category": "运动健身"
+      "raw_hot": 174870,
+      "num": 174870,
+      "word": "男子回应卖掉金条变现73.2万",
+      "onboard_time": 1743582922,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173270,
@@ -1219,20 +1251,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171188,
-      "num": 171188,
-      "word": "无意识控血糖的5个小习惯",
-      "onboard_time": 1743580104,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 169081,
       "num": 271958,
       "word": "王安宇王玉雯发火星文",
       "onboard_time": 1743575481,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168405,
+      "num": 218101,
+      "word": "男子遭3次拐卖被人贩迫害致聋哑",
+      "onboard_time": 1743581542,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165533,
@@ -1299,12 +1331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159420,
+      "num": 159420,
+      "word": "徐若晗古装丧服路透",
+      "onboard_time": 1743583521,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158238,
       "num": 158238,
       "word": "杨奇刘亦菲合影",
       "onboard_time": 1743563602,
       "rank": 36,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 155707,
+      "num": 445018,
+      "word": "救命到底哪些卫生巾安全",
+      "onboard_time": 1743581003,
+      "rank": 19,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 154923,
@@ -1395,14 +1443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141924,
-      "num": 218101,
-      "word": "男子遭3次拐卖被人贩迫害致聋哑",
-      "onboard_time": 1743581542,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141142,
       "num": 141142,
       "word": "第4名在立陶宛失踪美士兵遗体找到",
@@ -1483,12 +1523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134806,
-      "num": 445018,
-      "word": "救命到底哪些卫生巾安全",
-      "onboard_time": 1743581003,
-      "rank": 19,
-      "category": "健康医疗,民生新闻"
+      "raw_hot": 133327,
+      "num": 267436,
+      "word": "张碧晨爱的史诗交响演唱会",
+      "onboard_time": 1743583342,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 132852,
@@ -1779,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85396,
+      "num": 409666,
+      "word": "Switch2价格预测",
+      "onboard_time": 1743583162,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84977,
       "num": 84977,
       "word": "国羽何济霆疑被未婚妻爆料赌球",
@@ -1907,6 +1955,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 65414,
+      "num": 407476,
+      "word": "家族有精神病史有资格做母亲吗",
+      "onboard_time": 1743582623,
+      "rank": 36,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 64845,
+      "num": 408226,
+      "word": "交警多次提醒勿盲目信任辅助驾驶",
+      "onboard_time": 1743582502,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62719,
       "num": 299916,
       "word": "黎深TV动画茉法咪梨咪梨",
@@ -2027,14 +2091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49103,
-      "num": 200505,
-      "word": "家族有精神病史有资格做母亲吗",
-      "onboard_time": 1743582623,
-      "rank": 36,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 47270,
       "num": 200436,
       "word": "陈幸同vs米特兰姆",
@@ -2059,11 +2115,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41999,
-      "num": 259132,
-      "word": "交警多次提醒勿盲目信任辅助驾驶",
-      "onboard_time": 1743582502,
-      "rank": 25,
+      "raw_hot": 40345,
+      "num": 407163,
+      "word": "1604要维修结果修了1704",
+      "onboard_time": 1743582803,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2155,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30575,
+      "num": 411276,
+      "word": "伪造5000份报告非法获利65万获刑",
+      "onboard_time": 1743582563,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29819,
       "num": 42623,
       "word": "中俄对表重要纪念活动",
@@ -2208,14 +2272,6 @@
       "word": "申军良说姜甲儒案比申聪案更加恶劣",
       "onboard_time": 1743565823,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24202,
-      "num": 253201,
-      "word": "伪造5000份报告非法获利65万获刑",
-      "onboard_time": 1743582563,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
