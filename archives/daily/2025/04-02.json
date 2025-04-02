@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743599023137,
+  "endTime": 1743600815792,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -81,6 +81,14 @@
       "onboard_time": 1743564082,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1517149,
+      "num": 303081,
+      "word": "鹿晗迪丽热巴8年前的路透",
+      "onboard_time": 1743597562,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1394052,
@@ -169,14 +177,6 @@
       "onboard_time": 1743560722,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1112623,
-      "num": 303081,
-      "word": "鹿晗迪丽热巴8年前的路透",
-      "onboard_time": 1743597562,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1107507,
@@ -321,6 +321,14 @@
       "onboard_time": 1743577283,
       "rank": 7,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 787189,
+      "num": 286674,
+      "word": "IU向雪莉金赛纶推荐同一心理医生",
+      "onboard_time": 1743599783,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 752525,
@@ -563,6 +571,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 470124,
+      "num": 470124,
+      "word": "常州惊现200平1.5万元纸豪宅",
+      "onboard_time": 1743597082,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 461752,
       "num": 461752,
       "word": "一部悬疑剧凑齐四个狠女",
@@ -593,14 +609,6 @@
       "onboard_time": 1743557541,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 425382,
-      "num": 425382,
-      "word": "常州惊现200平1.5万元纸豪宅",
-      "onboard_time": 1743597082,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 412411,
@@ -731,6 +739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 325425,
+      "num": 325425,
+      "word": "Switch2直面会",
+      "onboard_time": 1743598702,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 323497,
       "num": 555255,
       "word": "刘畊宏回应cos海王被强制关播",
@@ -843,6 +859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 292572,
+      "num": 292572,
+      "word": "战机与台湾中央山脉同框",
+      "onboard_time": 1743595344,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 292167,
       "num": 700149,
       "word": "雁回时删了6集",
@@ -873,6 +897,14 @@
       "onboard_time": 1743592283,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 289724,
+      "num": 289724,
+      "word": "向太抓大鹅上瘾了",
+      "onboard_time": 1743599063,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 285019,
@@ -1081,14 +1113,6 @@
       "onboard_time": 1743586703,
       "rank": 37,
       "category": "民生新闻,母婴育儿"
-    },
-    {
-      "raw_hot": 223378,
-      "num": 223378,
-      "word": "战机与台湾中央山脉同框",
-      "onboard_time": 1743595344,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 220660,
@@ -1347,12 +1371,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 200541,
+      "num": 200541,
+      "word": "控制欲强的人有3个心理特点",
+      "onboard_time": 1743597023,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199575,
       "num": 393174,
       "word": "王楚钦太优秀了",
       "onboard_time": 1743583223,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198777,
+      "num": 274406,
+      "word": "Switch2",
+      "onboard_time": 1743589762,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 198672,
@@ -1433,14 +1473,6 @@
       "onboard_time": 1743562822,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195046,
-      "num": 223554,
-      "word": "Switch2直面会",
-      "onboard_time": 1743598702,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 195027,
@@ -1867,12 +1899,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168179,
+      "num": 198891,
+      "word": "我的女儿张诗琪她来过这个世界",
+      "onboard_time": 1743600503,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165533,
       "num": 165533,
       "word": "客服回应盒马16.9元一片面包",
       "onboard_time": 1743518245,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165205,
+      "num": 165205,
+      "word": "甲亢哥被重庆甜妹教育了",
+      "onboard_time": 1743600324,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 161786,
@@ -1939,14 +1987,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 155860,
-      "num": 155860,
-      "word": "控制欲强的人有3个心理特点",
-      "onboard_time": 1743597023,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 155707,
       "num": 445018,
       "word": "救命到底哪些卫生巾安全",
@@ -1969,6 +2009,14 @@
       "onboard_time": 1743585082,
       "rank": 19,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 152453,
+      "num": 152453,
+      "word": "警方通报车主碾压他人致其身亡",
+      "onboard_time": 1743598763,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151910,
@@ -2259,14 +2307,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 126731,
-      "num": 274406,
-      "word": "Switch2",
-      "onboard_time": 1743589762,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 125745,
       "num": 357959,
       "word": "张艺兴听到小孩姐夸他的反应",
@@ -2289,14 +2329,6 @@
       "onboard_time": 1743550038,
       "rank": 23,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 124394,
-      "num": 124394,
-      "word": "警方通报车主碾压他人致其身亡",
-      "onboard_time": 1743598763,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124343,
@@ -2571,6 +2603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 85952,
+      "num": 228655,
+      "word": "台独作妖引天火",
+      "onboard_time": 1743599783,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 85838,
       "num": 85005,
       "word": "缅甸两女孩废墟里教科书式自救成功",
@@ -2643,6 +2683,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 77261,
+      "num": 210488,
+      "word": "清明五一档电影片单发布",
+      "onboard_time": 1743593663,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 76971,
       "num": 230789,
       "word": "皇马绝杀纳达尔兴奋怒吼",
@@ -2699,6 +2747,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 72222,
+      "num": 282735,
+      "word": "OPPO聚齐手机影像全壁江山",
+      "onboard_time": 1743599063,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 71686,
       "num": 83931,
       "word": "王者荣耀",
@@ -2747,6 +2803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63632,
+      "num": 280312,
+      "word": "久哲又又又轮换了",
+      "onboard_time": 1743600082,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 62719,
       "num": 299916,
       "word": "黎深TV动画茉法咪梨咪梨",
@@ -2761,6 +2825,14 @@
       "onboard_time": 1743520285,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 61095,
+      "num": 280995,
+      "word": "入室抢婴案邻居5次供述均未认罪",
+      "onboard_time": 1743599604,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60240,
@@ -2875,14 +2947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51382,
-      "num": 210488,
-      "word": "清明五一档电影片单发布",
-      "onboard_time": 1743593663,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 49481,
       "num": 83895,
       "word": "前TVB女演员回应摆摊卖鸡爪",
@@ -2897,6 +2961,14 @@
       "onboard_time": 1743565583,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47254,
+      "num": 225869,
+      "word": "卡士酸奶被指内有霉斑吃了又吐又拉",
+      "onboard_time": 1743599424,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47128,
@@ -2915,12 +2987,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44957,
+      "num": 275455,
+      "word": "3月A股新开户数307万户",
+      "onboard_time": 1743599663,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 43414,
       "num": 1346197,
       "word": "致敬缅怀奋进",
       "onboard_time": 1743584842,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41062,
+      "num": 225398,
+      "word": "小岱妈妈说不喜欢高颜值自闭症标签",
+      "onboard_time": 1743600082,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40345,
@@ -3043,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30542,
+      "num": 285541,
+      "word": "95后女孩入行三年设计130块墓碑",
+      "onboard_time": 1743600082,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29819,
       "num": 42623,
       "word": "中俄对表重要纪念活动",
@@ -3065,6 +3161,14 @@
       "onboard_time": 1743550281,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28888,
+      "num": 214375,
+      "word": "Switch2发售日",
+      "onboard_time": 1743600623,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 28769,
@@ -3297,6 +3401,14 @@
       "onboard_time": 1743598943,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 6827,
+      "num": 168529,
+      "word": "Switch2手柄语音功能",
+      "onboard_time": 1743600744,
+      "rank": 43,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
