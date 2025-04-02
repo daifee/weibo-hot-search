@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/02 15:37:50
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/02 16:32:37
 </p>
 </blockquote>
 <p>
@@ -1275,6 +1275,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%9B%9D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%BD%A6%E4%B8%BB%E9%A9%BE%E9%A9%B6%E4%B8%AD%E7%9D%A1%E7%9D%80%23" target="weibo">
+网友曝小米汽车车主驾驶中睡着（热度：3284922）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F%E8%BD%AC%E5%8F%91%E6%BC%94%E5%91%98%E6%98%9F%E6%98%9F%E5%A4%B1%E8%81%94%E6%B6%88%E6%81%AF%23" target="weibo">
 多位明星转发演员星星失联消息（热度：3281821）
 </a>
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E6%83%B3%E6%8A%B1%E7%9D%80%E6%9C%AA%E6%88%90%E5%B9%B4%E7%9A%84%E9%87%91%E8%B5%9B%E7%BA%B6%E7%9D%A1%E8%A7%89%23" target="weibo">
 金秀贤想抱着未成年的金赛纶睡觉（热度：2838286）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%AB%98%E4%BA%AE%E5%8E%BB%E4%B8%96%23" target="weibo">
-演员高亮去世（热度：2831846）
 </a>
 </li>
 

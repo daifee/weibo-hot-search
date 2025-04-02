@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743579470785,
+  "endTime": 1743582757772,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -24,6 +24,14 @@
       "word": "爷爷为夺回孙子被人贩踩出眼珠",
       "onboard_time": 1743570086,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3284922,
+      "num": 3284922,
+      "word": "网友曝小米汽车车主驾驶中睡着",
+      "onboard_time": 1743578482,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -59,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1430390,
+      "num": 1430390,
+      "word": "王楚钦考编考研双双上岸",
+      "onboard_time": 1743579743,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1394052,
       "num": 450475,
       "word": "宁德时代称小米SU7用的不是其电池",
@@ -92,11 +108,19 @@
     },
     {
       "raw_hot": 1192614,
-      "num": 452643,
+      "num": 492622,
       "word": "小米汽车回应",
       "onboard_time": 1743517885,
       "rank": 11,
       "category": "辟谣/通报,汽车"
+    },
+    {
+      "raw_hot": 1163740,
+      "num": 1163740,
+      "word": "腾讯会议崩了",
+      "onboard_time": 1743580703,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 1120340,
@@ -113,14 +137,6 @@
       "onboard_time": 1743563842,
       "rank": 1,
       "category": "海外新闻,互联网"
-    },
-    {
-      "raw_hot": 1093057,
-      "num": 1093057,
-      "word": "网友曝小米汽车车主驾驶中睡着",
-      "onboard_time": 1743578482,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1072131,
@@ -219,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 746381,
+      "num": 545329,
+      "word": "五问小米SU7高速爆燃事故",
+      "onboard_time": 1743577822,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 728206,
       "num": 728206,
       "word": "台湾",
@@ -241,6 +265,14 @@
       "onboard_time": 1743523522,
       "rank": 3,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 670494,
+      "num": 670494,
+      "word": "IU说李钟硕没时间看苦尽柑来",
+      "onboard_time": 1743579442,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 643831,
@@ -297,14 +329,6 @@
       "onboard_time": 1743554303,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 545329,
-      "num": 545329,
-      "word": "五问小米SU7高速爆燃事故",
-      "onboard_time": 1743577822,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 543024,
@@ -369,6 +393,14 @@
       "onboard_time": 1743568344,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 442599,
+      "num": 857341,
+      "word": "4名人贩子在法庭抖腿毫无忏悔之意",
+      "onboard_time": 1743578901,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 437223,
@@ -443,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 350286,
+      "num": 526720,
+      "word": "王安宇王玉雯娱乐圈人缘",
+      "onboard_time": 1743580343,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344162,
       "num": 263842,
       "word": "脖子洗不干净或是身体发出危险信号",
@@ -465,14 +505,6 @@
       "onboard_time": 1743513804,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 333142,
-      "num": 333142,
-      "word": "IU说李钟硕没时间看苦尽柑来",
-      "onboard_time": 1743579442,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 328825,
@@ -505,6 +537,14 @@
       "onboard_time": 1743563421,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318273,
+      "num": 508820,
+      "word": "甲亢哥重庆直播",
+      "onboard_time": 1743579563,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 315684,
@@ -643,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244883,
+      "num": 539123,
+      "word": "上海总部调查gucci假口红事件",
+      "onboard_time": 1743581241,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240320,
       "num": 301740,
       "word": "台军反应迟缓若实战或不战而溃",
@@ -681,6 +729,14 @@
       "onboard_time": 1743569664,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221164,
+      "num": 221164,
+      "word": "李美越回应",
+      "onboard_time": 1743580523,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 220660,
@@ -755,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209787,
+      "num": 209787,
+      "word": "金秀贤曾为韩国国税厅宣传大使",
+      "onboard_time": 1743580523,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207237,
       "num": 180179,
       "word": "任时完取关金秀贤",
@@ -795,12 +859,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203019,
+      "num": 203019,
+      "word": "赵露思在追值得爱",
+      "onboard_time": 1743580583,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202411,
       "num": 199032,
       "word": "澳门世界杯2025",
       "onboard_time": 1743559341,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202029,
+      "num": 455064,
+      "word": "辛云来雁回时笑比哭悲",
+      "onboard_time": 1743581902,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 201557,
@@ -859,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195027,
+      "num": 195027,
+      "word": "修理工借来的8000块改变儿子一生",
+      "onboard_time": 1743581783,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194847,
       "num": 194847,
       "word": "宋妍霏组 三公第一",
@@ -873,6 +961,14 @@
       "onboard_time": 1743562881,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193338,
+      "num": 193338,
+      "word": "HLE对战GEN",
+      "onboard_time": 1743582083,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 192039,
@@ -955,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185865,
+      "num": 185865,
+      "word": "孙俪上半年有2部新剧播出",
+      "onboard_time": 1743579505,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185812,
       "num": 185812,
       "word": "特斯拉官微称造车首要原则是安全",
@@ -987,20 +1091,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182813,
+      "num": 182813,
+      "word": "东部战区进逼",
+      "onboard_time": 1743465321,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182002,
       "num": 238454,
       "word": "惊天魔盗团3预告",
       "onboard_time": 1743563062,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 181942,
-      "num": 181942,
-      "word": "东部战区进逼",
-      "onboard_time": 1743465321,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 181053,
@@ -1027,12 +1131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179349,
+      "num": 175505,
+      "word": "王楚钦不占普通学生名额",
+      "onboard_time": 1743582682,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177187,
       "num": 177187,
       "word": "雁回时大结局",
       "onboard_time": 1743501922,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175735,
+      "num": 175735,
+      "word": "王楚钦巴黎奥运会前完成毕业答辩",
+      "onboard_time": 1743581362,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 175369,
@@ -1059,6 +1179,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173795,
+      "num": 173795,
+      "word": "减肥跳绳是先瘦肚子再瘦腿",
+      "onboard_time": 1743580163,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 173270,
+      "num": 522842,
+      "word": "深圳航空回应乘客咬伤空姐",
+      "onboard_time": 1743581183,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172942,
       "num": 172942,
       "word": "东部战区组织海峡雷霆2025A演练",
@@ -1081,6 +1217,14 @@
       "onboard_time": 1743568944,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171188,
+      "num": 171188,
+      "word": "无意识控血糖的5个小习惯",
+      "onboard_time": 1743580104,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 169081,
@@ -1195,6 +1339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148298,
+      "num": 205930,
+      "word": "高中推行双休的真正目的是什么",
+      "onboard_time": 1743581123,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 147759,
       "num": 147759,
       "word": "鹿晗站姐发了双杨cp",
@@ -1241,6 +1393,14 @@
       "onboard_time": 1743557060,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141924,
+      "num": 218101,
+      "word": "男子遭3次拐卖被人贩迫害致聋哑",
+      "onboard_time": 1743581542,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141142,
@@ -1321,6 +1481,14 @@
       "onboard_time": 1743566782,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134806,
+      "num": 445018,
+      "word": "救命到底哪些卫生巾安全",
+      "onboard_time": 1743581003,
+      "rank": 19,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 132852,
@@ -1473,14 +1641,6 @@
       "onboard_time": 1743558921,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113756,
-      "num": 857341,
-      "word": "4名人贩子在法庭抖腿毫无忏悔之意",
-      "onboard_time": 1743578901,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111613,
@@ -1867,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49103,
+      "num": 200505,
+      "word": "家族有精神病史有资格做母亲吗",
+      "onboard_time": 1743582623,
+      "rank": 36,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 47270,
       "num": 200436,
       "word": "陈幸同vs米特兰姆",
@@ -1891,12 +2059,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41999,
+      "num": 259132,
+      "word": "交警多次提醒勿盲目信任辅助驾驶",
+      "onboard_time": 1743582502,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40181,
       "num": 40181,
       "word": "国产剧绝望的狠女上新了",
       "onboard_time": 1743527896,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39522,
+      "num": 156662,
+      "word": "抢婴案嫌犯家距受害者家步行仅3分钟",
+      "onboard_time": 1743580644,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38996,
@@ -1964,7 +2148,7 @@
     },
     {
       "raw_hot": 30611,
-      "num": 1126741,
+      "num": 2291623,
       "word": "春天是藏在公园的诗情画意",
       "onboard_time": 1743512724,
       "rank": 2,
@@ -2024,6 +2208,14 @@
       "word": "申军良说姜甲儒案比申聪案更加恶劣",
       "onboard_time": 1743565823,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24202,
+      "num": 253201,
+      "word": "伪造5000份报告非法获利65万获刑",
+      "onboard_time": 1743582563,
+      "rank": 26,
       "category": "民生新闻"
     },
     {

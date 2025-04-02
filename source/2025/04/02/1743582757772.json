@@ -1,0 +1,410 @@
+{
+  "runTime": 1743582757772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5828743,
+        "num": 5828743,
+        "word": "王楚钦北大拟录取",
+        "onboard_time": 1743576981,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3284922,
+        "num": 3284922,
+        "word": "网友曝小米汽车车主驾驶中睡着",
+        "onboard_time": 1743578482,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19562,
+        "num": 2291623,
+        "word": "春天是藏在公园的诗情画意",
+        "onboard_time": 1743512724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1430390,
+        "num": 1430390,
+        "word": "王楚钦考编考研双双上岸",
+        "onboard_time": 1743579743,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1163740,
+        "num": 1163740,
+        "word": "腾讯会议崩了",
+        "onboard_time": 1743580703,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 672372,
+        "num": 672372,
+        "word": "李晟第一名",
+        "onboard_time": 1743577283,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1052481,
+        "num": 671437,
+        "word": "爷爷为夺回孙子被人贩踩出眼珠",
+        "onboard_time": 1743570086,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670494,
+        "num": 670494,
+        "word": "IU说李钟硕没时间看苦尽柑来",
+        "onboard_time": 1743579442,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 626624,
+        "num": 626624,
+        "word": "北大回应王楚钦拟录取",
+        "onboard_time": 1743578302,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244883,
+        "num": 539123,
+        "word": "上海总部调查gucci假口红事件",
+        "onboard_time": 1743581241,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2202697,
+        "num": 538746,
+        "word": "雷军回应",
+        "onboard_time": 1743517885,
+        "rank": 10,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 746381,
+        "num": 536844,
+        "word": "五问小米SU7高速爆燃事故",
+        "onboard_time": 1743577822,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533539,
+        "num": 533539,
+        "word": "金秀贤假惺惺的你已出周边",
+        "onboard_time": 1743571163,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350286,
+        "num": 526720,
+        "word": "王安宇王玉雯娱乐圈人缘",
+        "onboard_time": 1743580343,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173270,
+        "num": 522842,
+        "word": "深圳航空回应乘客咬伤空姐",
+        "onboard_time": 1743581183,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318273,
+        "num": 508820,
+        "word": "甲亢哥重庆直播",
+        "onboard_time": 1743579563,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 293166,
+        "num": 499373,
+        "word": "刘畊宏回应cos海王被强制关播",
+        "onboard_time": 1743577882,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492622,
+        "num": 492622,
+        "word": "小米汽车回应",
+        "onboard_time": 1743517885,
+        "rank": 17,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 202029,
+        "num": 455064,
+        "word": "辛云来雁回时笑比哭悲",
+        "onboard_time": 1743581902,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134806,
+        "num": 445018,
+        "word": "救命到底哪些卫生巾安全",
+        "onboard_time": 1743581003,
+        "rank": 19,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 442599,
+        "num": 442599,
+        "word": "4名人贩子在法庭抖腿毫无忏悔之意",
+        "onboard_time": 1743578901,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438075,
+        "num": 438075,
+        "word": "柯南坦白和小兰在交往",
+        "onboard_time": 1743577283,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 424058,
+        "num": 424058,
+        "word": "东部战区锁控",
+        "onboard_time": 1743575902,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318337,
+        "num": 318337,
+        "word": "深航一空姐被乘客咬",
+        "onboard_time": 1743572902,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299438,
+        "num": 299438,
+        "word": "小米客服称SU7电池双供应商随机装",
+        "onboard_time": 1743571642,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 41999,
+        "num": 259132,
+        "word": "交警多次提醒勿盲目信任辅助驾驶",
+        "onboard_time": 1743582502,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24202,
+        "num": 253201,
+        "word": "伪造5000份报告非法获利65万获刑",
+        "onboard_time": 1743582563,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252184,
+        "num": 252184,
+        "word": "龙应台称留给台湾的时间不多了",
+        "onboard_time": 1743571642,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221164,
+        "num": 221164,
+        "word": "李美越回应",
+        "onboard_time": 1743580523,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141924,
+        "num": 218101,
+        "word": "男子遭3次拐卖被人贩迫害致聋哑",
+        "onboard_time": 1743581542,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216922,
+        "num": 216922,
+        "word": "华晨宇 黄霄雲",
+        "onboard_time": 1743566243,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209787,
+        "num": 209787,
+        "word": "金秀贤曾为韩国国税厅宣传大使",
+        "onboard_time": 1743580523,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208909,
+        "num": 208909,
+        "word": "解放军说只要一声令下必将消灭台独",
+        "onboard_time": 1743568282,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148298,
+        "num": 205930,
+        "word": "高中推行双休的真正目的是什么",
+        "onboard_time": 1743581123,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203387,
+        "num": 203387,
+        "word": "台湾",
+        "onboard_time": 1743552321,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203019,
+        "num": 203019,
+        "word": "赵露思在追值得爱",
+        "onboard_time": 1743580583,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49103,
+        "num": 200505,
+        "word": "家族有精神病史有资格做母亲吗",
+        "onboard_time": 1743582623,
+        "rank": 36,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 199058,
+        "num": 199058,
+        "word": "东部战区海报毁瘫",
+        "onboard_time": 1743562582,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195027,
+        "num": 195027,
+        "word": "修理工借来的8000块改变儿子一生",
+        "onboard_time": 1743581783,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193338,
+        "num": 193338,
+        "word": "HLE对战GEN",
+        "onboard_time": 1743582083,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185865,
+        "num": 185865,
+        "word": "孙俪上半年有2部新剧播出",
+        "onboard_time": 1743579505,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182813,
+        "num": 182813,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182804,
+        "num": 182804,
+        "word": "省考成绩",
+        "onboard_time": 1743569963,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175735,
+        "num": 175735,
+        "word": "王楚钦巴黎奥运会前完成毕业答辩",
+        "onboard_time": 1743581362,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179349,
+        "num": 175505,
+        "word": "王楚钦不占普通学生名额",
+        "onboard_time": 1743582682,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173795,
+        "num": 173795,
+        "word": "减肥跳绳是先瘦肚子再瘦腿",
+        "onboard_time": 1743580163,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 171188,
+        "num": 171188,
+        "word": "无意识控血糖的5个小习惯",
+        "onboard_time": 1743580104,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139548,
+        "num": 159589,
+        "word": "孟子义李昀锐合体新综",
+        "onboard_time": 1743574581,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127388,
+        "num": 157151,
+        "word": "和分手六年的前任破镜重圆了",
+        "onboard_time": 1743571341,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39522,
+        "num": 156662,
+        "word": "抢婴案嫌犯家距受害者家步行仅3分钟",
+        "onboard_time": 1743580644,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#投资中国是更优选择#"
+    }
+  }
+}
