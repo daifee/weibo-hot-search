@@ -1,0 +1,410 @@
+{
+  "runTime": 1743607589715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1417463,
+        "num": 1417463,
+        "word": "日本九州岛附近6.2级地震",
+        "onboard_time": 1743604406,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 785029,
+        "num": 785029,
+        "word": "我的女儿张诗琪她来过这个世界",
+        "onboard_time": 1743600503,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 70472,
+        "num": 643924,
+        "word": "联合国点赞中国新能源发展",
+        "onboard_time": 1743604164,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 598234,
+        "num": 598234,
+        "word": "极挑男人帮张艺兴新片首映合体",
+        "onboard_time": 1743605124,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 527430,
+        "num": 527430,
+        "word": "浪姐第一季全是真的姐",
+        "onboard_time": 1743605486,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472076,
+        "num": 472076,
+        "word": "Switch2价格公布",
+        "onboard_time": 1743604406,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 456081,
+        "num": 456081,
+        "word": "小米SU7事故遇难者家属回应进展",
+        "onboard_time": 1743605843,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388531,
+        "num": 388531,
+        "word": "孤独症男孩因高颜值走红妈妈发声",
+        "onboard_time": 1743590722,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277064,
+        "num": 277064,
+        "word": "刷信用卡买30万黄金转手赚数万",
+        "onboard_time": 1743600804,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97463,
+        "num": 277011,
+        "word": "我交了个星朋友",
+        "onboard_time": 1743606863,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2201552,
+        "num": 276969,
+        "word": "曝孟子坤出轨",
+        "onboard_time": 1743604345,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1679112,
+        "num": 276897,
+        "word": "曝王玉雯杨玏已分手",
+        "onboard_time": 1743603685,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1357999,
+        "num": 276836,
+        "word": "胡歌 二胎",
+        "onboard_time": 1743592222,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1023860,
+        "num": 276797,
+        "word": "鹿晗迪丽热巴8年前的路透",
+        "onboard_time": 1743597562,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31624,
+        "num": 276695,
+        "word": "头发长短与学习成绩无必然联系",
+        "onboard_time": 1743607163,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1702066,
+        "num": 276665,
+        "word": "孟子坤 家暴",
+        "onboard_time": 1743606385,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276606,
+        "num": 276606,
+        "word": "奚梦瑶爸爸当家录制路透",
+        "onboard_time": 1743602724,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 765932,
+        "num": 276586,
+        "word": "小米打假雷军致公众的一封信",
+        "onboard_time": 1743595885,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 641300,
+        "num": 275835,
+        "word": "华人大妈持菜刀与警方对峙被击毙",
+        "onboard_time": 1743602544,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161499,
+        "num": 275429,
+        "word": "妻子不愿继续生育离婚后获补偿35万",
+        "onboard_time": 1743606685,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565380,
+        "num": 274952,
+        "word": "IU向雪莉金赛纶推荐同一心理医生",
+        "onboard_time": 1743599783,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407256,
+        "num": 274109,
+        "word": "爷爷为夺回孙子被人贩踩出眼珠",
+        "onboard_time": 1743570086,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398682,
+        "num": 273603,
+        "word": "雷军捐资1亿成立守护资金消息不实",
+        "onboard_time": 1743603623,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 204082,
+        "num": 273299,
+        "word": "宋茜唐艺昕张佳宁又约上了",
+        "onboard_time": 1743595403,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 88061,
+        "num": 272929,
+        "word": "一股民操纵多只股票被罚没3.96亿",
+        "onboard_time": 1743604045,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194932,
+        "num": 272310,
+        "word": "戚薇陈丽君聊的直扑腾",
+        "onboard_time": 1743605904,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192331,
+        "num": 271811,
+        "word": "张艺兴被女儿木木现场表白",
+        "onboard_time": 1743606385,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181974,
+        "num": 271195,
+        "word": "向太抓大鹅上瘾了",
+        "onboard_time": 1743599063,
+        "rank": 27,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 164834,
+        "num": 270580,
+        "word": "爸爸当家",
+        "onboard_time": 1743606444,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335658,
+        "num": 270068,
+        "word": "金秀贤否认所有照片",
+        "onboard_time": 1743606564,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270013,
+        "num": 270013,
+        "word": "长期睡眠不足的人长什么样",
+        "onboard_time": 1743595344,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247923,
+        "num": 247923,
+        "word": "发现同事每天上班都很快乐的秘诀",
+        "onboard_time": 1743603685,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237930,
+        "num": 237930,
+        "word": "胡歌老婆",
+        "onboard_time": 1743595403,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232245,
+        "num": 232245,
+        "word": "Switch2直面会",
+        "onboard_time": 1743598702,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220919,
+        "num": 220919,
+        "word": "减肥建议不要长期跳绳",
+        "onboard_time": 1743602904,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 205830,
+        "num": 205830,
+        "word": "雷军回应",
+        "onboard_time": 1743517885,
+        "rank": 35,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 182339,
+        "num": 182339,
+        "word": "王者荣耀 优衣库",
+        "onboard_time": 1743602365,
+        "rank": 36,
+        "category": "游戏,时尚"
+      },
+      {
+        "raw_hot": 176945,
+        "num": 176945,
+        "word": "为什么说人永远赚不到认知以外的钱",
+        "onboard_time": 1743602544,
+        "rank": 37,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 172188,
+        "num": 172188,
+        "word": "男子开车反复碾压他人致其身亡",
+        "onboard_time": 1743590303,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146529,
+        "num": 146529,
+        "word": "缅甸地震已致超3000死",
+        "onboard_time": 1743604884,
+        "rank": 39,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 137804,
+        "num": 137804,
+        "word": "战机与台湾中央山脉同框",
+        "onboard_time": 1743595344,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136038,
+        "num": 136038,
+        "word": "姜甲儒妈妈刚走出法庭就晕倒了",
+        "onboard_time": 1743603685,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135557,
+        "num": 135557,
+        "word": "甲亢哥被重庆甜妹教育了",
+        "onboard_time": 1743600324,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 124762,
+        "num": 124762,
+        "word": "4人入室抢婴贩卖案择期宣判",
+        "onboard_time": 1743605065,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118679,
+        "num": 118679,
+        "word": "儿子拒付赡养费还将九旬母亲房门焊死",
+        "onboard_time": 1743601404,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113194,
+        "num": 113194,
+        "word": "清明谷雨手伤",
+        "onboard_time": 1743602843,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 112974,
+        "num": 112974,
+        "word": "Switch2日版 自己锁自己",
+        "onboard_time": 1743606804,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110473,
+        "num": 110473,
+        "word": "霸王茶姬 哪吒",
+        "onboard_time": 1743607404,
+        "rank": 47,
+        "category": "美食,电影"
+      },
+      {
+        "raw_hot": 110440,
+        "num": 110440,
+        "word": "Daniel公开",
+        "onboard_time": 1743595163,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107897,
+        "num": 107897,
+        "word": "Switch2",
+        "onboard_time": 1743589762,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#自觉遵规守纪大胆干事创业#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743604979595,
+  "endTime": 1743607589715,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -51,6 +51,14 @@
       "category": "电影,剧集"
     },
     {
+      "raw_hot": 2201552,
+      "num": 285216,
+      "word": "曝孟子坤出轨",
+      "onboard_time": 1743604345,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1808298,
       "num": 552495,
       "word": "华晨宇 黄霄雲",
@@ -65,6 +73,14 @@
       "onboard_time": 1743555923,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1702066,
+      "num": 276665,
+      "word": "孟子坤 家暴",
+      "onboard_time": 1743606385,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1701129,
@@ -99,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1417463,
+      "num": 1417463,
+      "word": "日本九州岛附近6.2级地震",
+      "onboard_time": 1743604406,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1394052,
       "num": 450475,
       "word": "宁德时代称小米SU7用的不是其电池",
@@ -128,14 +152,6 @@
       "word": "华晨宇方称拒绝音乐版权擦边行为",
       "onboard_time": 1743565462,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1299327,
-      "num": 285216,
-      "word": "曝孟子坤出轨",
-      "onboard_time": 1743604345,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -265,14 +281,6 @@
       "onboard_time": 1743595403,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 966972,
-      "num": 1154715,
-      "word": "日本九州岛附近6.2级地震",
-      "onboard_time": 1743604406,
-      "rank": 0,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 943778,
@@ -475,6 +483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 598234,
+      "num": 598234,
+      "word": "极挑男人帮张艺兴新片首映合体",
+      "onboard_time": 1743605124,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 590770,
       "num": 912040,
       "word": "买家捆姜甲儒睡觉谎称怕冻肚子",
@@ -561,6 +577,14 @@
       "onboard_time": 1743556761,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 527430,
+      "num": 527430,
+      "word": "浪姐第一季全是真的姐",
+      "onboard_time": 1743605486,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 524685,
@@ -659,12 +683,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 472076,
+      "num": 472076,
+      "word": "Switch2价格公布",
+      "onboard_time": 1743604406,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 461752,
       "num": 461752,
       "word": "一部悬疑剧凑齐四个狠女",
       "onboard_time": 1743568344,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456081,
+      "num": 456081,
+      "word": "小米SU7事故遇难者家属回应进展",
+      "onboard_time": 1743605843,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 442599,
@@ -800,6 +840,14 @@
       "word": "医生解读网友关注金秀贤舌头",
       "onboard_time": 1743513804,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 335658,
+      "num": 270068,
+      "word": "金秀贤否认所有照片",
+      "onboard_time": 1743606564,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -971,14 +1019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 287435,
-      "num": 287435,
-      "word": "Switch2价格公布",
-      "onboard_time": 1743604406,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 285019,
       "num": 423031,
       "word": "华晨宇黄霄雲双方未能达成有效共识",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1743570804,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247923,
+      "num": 247923,
+      "word": "发现同事每天上班都很快乐的秘诀",
+      "onboard_time": 1743603685,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 240320,
@@ -1603,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194932,
+      "num": 272310,
+      "word": "戚薇陈丽君聊的直扑腾",
+      "onboard_time": 1743605904,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194847,
       "num": 194847,
       "word": "宋妍霏组 三公第一",
@@ -1635,20 +1691,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192331,
+      "num": 271811,
+      "word": "张艺兴被女儿木木现场表白",
+      "onboard_time": 1743606385,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192039,
       "num": 192039,
       "word": "A股",
       "onboard_time": 1743577101,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 191231,
-      "num": 191231,
-      "word": "发现同事每天上班都很快乐的秘诀",
-      "onboard_time": 1743603685,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 190551,
@@ -2043,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164834,
+      "num": 270580,
+      "word": "爸爸当家",
+      "onboard_time": 1743606444,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162603,
       "num": 162603,
       "word": "清明谷雨手伤",
@@ -2073,6 +2137,14 @@
       "onboard_time": 1743557360,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 161499,
+      "num": 275429,
+      "word": "妻子不愿继续生育离婚后获补偿35万",
+      "onboard_time": 1743606685,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160409,
@@ -2265,6 +2337,14 @@
       "onboard_time": 1743566663,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 146529,
+      "num": 183769,
+      "word": "缅甸地震已致超3000死",
+      "onboard_time": 1743604884,
+      "rank": 39,
+      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 146171,
@@ -2515,6 +2595,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 124762,
+      "num": 124762,
+      "word": "4人入室抢婴贩卖案择期宣判",
+      "onboard_time": 1743605065,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124343,
       "num": 124343,
       "word": "CBA常规赛最佳阵容",
@@ -2659,6 +2747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112974,
+      "num": 112974,
+      "word": "Switch2日版 自己锁自己",
+      "onboard_time": 1743606804,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111613,
       "num": 111613,
       "word": "北京自动驾驶新规今起实施",
@@ -2673,6 +2769,14 @@
       "onboard_time": 1743555024,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 110473,
+      "num": 110473,
+      "word": "霸王茶姬 哪吒",
+      "onboard_time": 1743607404,
+      "rank": 47,
+      "category": "美食,电影"
     },
     {
       "raw_hot": 110418,
@@ -2729,6 +2833,14 @@
       "onboard_time": 1743522802,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97463,
+      "num": 277011,
+      "word": "我交了个星朋友",
+      "onboard_time": 1743606863,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96430,
@@ -2792,6 +2904,14 @@
       "word": "专家不建议跟风买黄金",
       "onboard_time": 1743545417,
       "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 88061,
+      "num": 272929,
+      "word": "一股民操纵多只股票被罚没3.96亿",
+      "onboard_time": 1743604045,
+      "rank": 24,
       "category": "财经"
     },
     {
@@ -2953,6 +3073,14 @@
       "onboard_time": 1743508403,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 70472,
+      "num": 763986,
+      "word": "联合国点赞中国新能源发展",
+      "onboard_time": 1743604164,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 70038,
@@ -3171,14 +3299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47327,
-      "num": 183769,
-      "word": "缅甸地震已致超3000死",
-      "onboard_time": 1743604884,
-      "rank": 39,
-      "category": "国际时政,国内时政"
-    },
-    {
       "raw_hot": 47270,
       "num": 200436,
       "word": "陈幸同vs米特兰姆",
@@ -3291,14 +3411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36956,
-      "num": 763986,
-      "word": "联合国点赞中国新能源发展",
-      "onboard_time": 1743604164,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 36792,
       "num": 328301,
       "word": "宽带2年未使用却被多扣9360元",
@@ -3345,6 +3457,14 @@
       "onboard_time": 1743543554,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31624,
+      "num": 276695,
+      "word": "头发长短与学习成绩无必然联系",
+      "onboard_time": 1743607163,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30611,
@@ -3650,6 +3770,9 @@
     },
     {
       "word": "#跟着总书记领略中华文明#"
+    },
+    {
+      "word": "#自觉遵规守纪大胆干事创业#"
     }
   ]
 }
