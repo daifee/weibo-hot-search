@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743563634413,
+  "endTime": 1743565878621,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -49,6 +49,14 @@
       "onboard_time": 1743517885,
       "rank": 1,
       "category": "辟谣/通报,汽车"
+    },
+    {
+      "raw_hot": 2233469,
+      "num": 2233469,
+      "word": "东部战区海报毁瘫",
+      "onboard_time": 1743562582,
+      "rank": 9,
+      "category": "电影,剧集"
     },
     {
       "raw_hot": 2163339,
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1394052,
+      "num": 323111,
+      "word": "宁德时代称小米SU7用的不是其电池",
+      "onboard_time": 1743562102,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1352189,
       "num": 164732,
       "word": "金秀贤和未成年金赛纶约会视频",
@@ -243,14 +259,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1131544,
-      "num": 323111,
-      "word": "宁德时代称小米SU7用的不是其电池",
-      "onboard_time": 1743562102,
-      "rank": 15,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 1131073,
       "num": 1180971,
       "word": "东部战区慑封",
@@ -297,6 +305,14 @@
       "onboard_time": 1743505884,
       "rank": 23,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 1104741,
+      "num": 1104741,
+      "word": "DeepSeek7小时攻克缅甸救灾语言关",
+      "onboard_time": 1743563842,
+      "rank": 1,
+      "category": "海外新闻,互联网"
     },
     {
       "raw_hot": 1094163,
@@ -427,12 +443,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 760528,
-      "num": 760528,
-      "word": "东部战区海报毁瘫",
-      "onboard_time": 1743562582,
-      "rank": 9,
-      "category": "电影,剧集"
+      "raw_hot": 752525,
+      "num": 704730,
+      "word": "上海有门店卖狗狗麻辣烫25元一斤",
+      "onboard_time": 1743560300,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 746345,
+      "num": 265596,
+      "word": "网文作者涉黄刑期减少六年",
+      "onboard_time": 1743564082,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 717168,
@@ -449,14 +473,6 @@
       "onboard_time": 1743516986,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 704730,
-      "num": 704730,
-      "word": "上海有门店卖狗狗麻辣烫25元一斤",
-      "onboard_time": 1743560300,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 693434,
@@ -691,6 +707,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 446368,
+      "num": 446368,
+      "word": "雁回时大结局 没填坑",
+      "onboard_time": 1743564321,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445634,
       "num": 445634,
       "word": "张继科说信我是哥们不信我是敌人",
@@ -753,6 +777,14 @@
       "onboard_time": 1743561922,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401950,
+      "num": 262442,
+      "word": "原来逍遥丸吃了这么逍遥",
+      "onboard_time": 1743564622,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 399588,
@@ -1043,6 +1075,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 323100,
+      "num": 323100,
+      "word": "祭天剧本",
+      "onboard_time": 1743563421,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315684,
       "num": 280401,
       "word": "男子违规获取酒店房卡侵犯女住客",
@@ -1147,6 +1187,14 @@
       "category": "互联网,艺人"
     },
     {
+      "raw_hot": 291582,
+      "num": 270669,
+      "word": "医生提醒不要频繁做CT",
+      "onboard_time": 1743562943,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 290535,
       "num": 216769,
       "word": "女儿遭男孩按入水中母亲反击被判赔",
@@ -1235,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273786,
+      "num": 214285,
+      "word": "安静公主做完手术哽咽落泪",
+      "onboard_time": 1743563842,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271960,
       "num": 271960,
       "word": "公摊面积最大的蔬菜",
@@ -1249,14 +1305,6 @@
       "onboard_time": 1743465921,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 270669,
-      "num": 270669,
-      "word": "医生提醒不要频繁做CT",
-      "onboard_time": 1743562943,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 269513,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1743477203,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260119,
+      "num": 260119,
+      "word": "虞书欣何与杀青合照",
+      "onboard_time": 1743564022,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 257282,
@@ -1587,6 +1643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 215936,
+      "num": 215936,
+      "word": "华晨宇方称拒绝音乐版权擦边行为",
+      "onboard_time": 1743565462,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214622,
       "num": 214622,
       "word": "金价狂飙有金店称每天都要调价",
@@ -1697,6 +1761,14 @@
       "onboard_time": 1743478344,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204452,
+      "num": 264498,
+      "word": "2025Q1微博爆款剧集",
+      "onboard_time": 1743565402,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 204331,
@@ -1921,6 +1993,14 @@
       "onboard_time": 1743525499,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 187739,
+      "num": 315770,
+      "word": "麦琳分享减脂餐",
+      "onboard_time": 1743562822,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 187662,
@@ -2323,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161786,
+      "num": 161786,
+      "word": "福建省考成绩",
+      "onboard_time": 1743564082,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 161506,
       "num": 337702,
       "word": "东部战区对台军演新代号意味着什么",
@@ -2353,6 +2441,14 @@
       "onboard_time": 1743561622,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160330,
+      "num": 138869,
+      "word": "雁回时 张康乐",
+      "onboard_time": 1743564203,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 159813,
@@ -2539,14 +2635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149593,
-      "num": 149593,
-      "word": "祭天剧本",
-      "onboard_time": 1743563421,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148549,
       "num": 148549,
       "word": "悉尼妹分手",
@@ -2625,6 +2713,14 @@
       "onboard_time": 1743494963,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145442,
+      "num": 145442,
+      "word": "玩转关键帧",
+      "onboard_time": 1743565583,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 144019,
@@ -2769,6 +2865,14 @@
       "onboard_time": 1743499822,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138003,
+      "num": 138003,
+      "word": "赵丽颖拔刀戏幕后",
+      "onboard_time": 1743564681,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 137763,
@@ -3147,6 +3251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119003,
+      "num": 313740,
+      "word": "美议员连续演讲超过24小时抨击特朗普",
+      "onboard_time": 1743563242,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118792,
       "num": 118792,
       "word": "丁程鑫时代峰峻最不真实的地方",
@@ -3361,14 +3473,6 @@
       "onboard_time": 1743495442,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105840,
-      "num": 315770,
-      "word": "麦琳分享减脂餐",
-      "onboard_time": 1743562822,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 104896,
@@ -3657,6 +3761,14 @@
       "onboard_time": 1743430644,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81836,
+      "num": 285696,
+      "word": "中国大模型首次用于地震救援",
+      "onboard_time": 1743565344,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81657,
@@ -4107,6 +4219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 47270,
+      "num": 200436,
+      "word": "陈幸同vs米特兰姆",
+      "onboard_time": 1743565583,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44400,
       "num": 76699,
       "word": "云南地震",
@@ -4153,14 +4273,6 @@
       "onboard_time": 1743527896,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40099,
-      "num": 313740,
-      "word": "美议员连续演讲超过24小时抨击特朗普",
-      "onboard_time": 1743563242,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37714,
@@ -4339,6 +4451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24385,
+      "num": 138879,
+      "word": "申军良说姜甲儒案比申聪案更加恶劣",
+      "onboard_time": 1743565823,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22455,
       "num": 42602,
       "word": "福建海警闽南语喊话中国台湾巡逻船",
@@ -4467,12 +4587,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 13379,
+      "num": 191200,
+      "word": "萨卡复出破门",
+      "onboard_time": 1743565222,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12871,
       "num": 825267,
       "word": "算法向上向善",
       "onboard_time": 1743315921,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12306,
+      "num": 139863,
+      "word": "纳达尔观战皇马国王杯",
+      "onboard_time": 1743564803,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 11648,
