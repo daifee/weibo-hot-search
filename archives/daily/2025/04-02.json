@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743560030824,
+  "endTime": 1743563114070,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -24,6 +24,30 @@
       "word": "迪士尼回应金秀贤新剧问题",
       "onboard_time": 1743556881,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1192614,
+      "num": 325286,
+      "word": "小米汽车回应",
+      "onboard_time": 1743517885,
+      "rank": 11,
+      "category": "辟谣/通报,汽车"
+    },
+    {
+      "raw_hot": 1102641,
+      "num": 1176422,
+      "word": "王蓉回应浪姐被淘汰",
+      "onboard_time": 1743560722,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1004651,
+      "num": 306048,
+      "word": "金秀贤被举报偷税漏税",
+      "onboard_time": 1743561081,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -51,16 +75,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 840376,
-      "num": 325286,
-      "word": "小米汽车回应",
-      "onboard_time": 1743517885,
-      "rank": 11,
-      "category": "辟谣/通报,汽车"
-    },
-    {
       "raw_hot": 808392,
-      "num": 301673,
+      "num": 305061,
       "word": "李胜利将在中国探索娱乐事业",
       "onboard_time": 1743557841,
       "rank": 17,
@@ -73,6 +89,14 @@
       "onboard_time": 1743552321,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 684346,
+      "num": 299962,
+      "word": "宁德时代称小米SU7用的不是其电池",
+      "onboard_time": 1743562102,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 683322,
@@ -99,12 +123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 589959,
+      "num": 589959,
+      "word": "上海有门店卖狗狗麻辣烫25元一斤",
+      "onboard_time": 1743560300,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 547347,
       "num": 547347,
       "word": "浪姐三公淘汰",
       "onboard_time": 1743554303,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 529324,
+      "num": 529324,
+      "word": "解放军台湾海峡中部南部演练",
+      "onboard_time": 1743556761,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 524685,
@@ -147,11 +187,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 375433,
-      "num": 375433,
-      "word": "解放军台湾海峡中部南部演练",
-      "onboard_time": 1743556761,
-      "rank": 7,
+      "raw_hot": 362404,
+      "num": 362404,
+      "word": "东部战区模拟对重要港口精确打击",
+      "onboard_time": 1743560300,
+      "rank": 5,
       "category": "国内时政"
     },
     {
@@ -179,6 +219,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334470,
+      "num": 334470,
+      "word": "孤独症男孩吹奏好想爱这个世界啊",
+      "onboard_time": 1743558381,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328825,
+      "num": 328825,
+      "word": "优时颜 张康乐马柏全",
+      "onboard_time": 1743561442,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315684,
       "num": 280401,
       "word": "男子违规获取酒店房卡侵犯女住客",
@@ -195,12 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303365,
-      "num": 303365,
-      "word": "孤独症男孩吹奏好想爱这个世界啊",
-      "onboard_time": 1743558381,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 310085,
+      "num": 310085,
+      "word": "彭小苒月亮姐姐 三公淘汰",
+      "onboard_time": 1743561922,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 292167,
@@ -235,12 +291,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236098,
+      "num": 236098,
+      "word": "东部战区军事行动主题海报毁瘫",
+      "onboard_time": 1743562703,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 222452,
+      "num": 222452,
+      "word": "医生提醒不要频繁做CT",
+      "onboard_time": 1743562943,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 220660,
       "num": 220660,
       "word": "黄油与面包回应标价15元收款19元",
       "onboard_time": 1743507383,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220244,
+      "num": 309804,
+      "word": "东部战区海报毁瘫",
+      "onboard_time": 1743562582,
+      "rank": 9,
+      "category": "电影,剧集"
     },
     {
       "raw_hot": 214622,
@@ -291,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193786,
+      "num": 193786,
+      "word": "王曼昱小岱封面大片",
+      "onboard_time": 1743562881,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189077,
       "num": 189077,
       "word": "TFBOYS团站愚人节复活",
@@ -329,6 +417,22 @@
       "onboard_time": 1743517044,
       "rank": 39,
       "category": "艺人,旅游"
+    },
+    {
+      "raw_hot": 179834,
+      "num": 195545,
+      "word": "双轨",
+      "onboard_time": 1743561021,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177615,
+      "num": 177615,
+      "word": "上海乐高乐园公布票价",
+      "onboard_time": 1743562221,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 177187,
@@ -371,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161593,
+      "num": 161593,
+      "word": "惊天魔盗团3预告",
+      "onboard_time": 1743563062,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161506,
       "num": 337702,
       "word": "东部战区对台军演新代号意味着什么",
@@ -379,12 +491,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 160409,
+      "num": 193917,
+      "word": "东方神起再续约SM",
+      "onboard_time": 1743561622,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160298,
       "num": 160298,
       "word": "何济霆",
       "onboard_time": 1743520645,
       "rank": 17,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 160271,
+      "num": 160271,
+      "word": "杨紫樱桃随拍",
+      "onboard_time": 1743562822,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 151910,
@@ -435,6 +563,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134582,
+      "num": 134582,
+      "word": "解放军联合演训第2天",
+      "onboard_time": 1743551360,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 132852,
+      "num": 132852,
+      "word": "一线城市约50%人口在租房",
+      "onboard_time": 1743559341,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130666,
+      "num": 130666,
+      "word": "吴宣仪组小考第一公演倒二",
+      "onboard_time": 1743562763,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129135,
       "num": 129135,
       "word": "老铺黄金36家店猛赚14.7亿",
@@ -443,12 +595,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 125917,
-      "num": 125917,
-      "word": "解放军联合演训第2天",
-      "onboard_time": 1743551360,
-      "rank": 35,
-      "category": "国内时政"
+      "raw_hot": 127408,
+      "num": 127408,
+      "word": "抖音辟谣张一鸣加入新加坡国籍",
+      "onboard_time": 1743559881,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 125806,
+      "num": 148539,
+      "word": "勇士摁不住了",
+      "onboard_time": 1743557961,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 125738,
@@ -467,8 +627,8 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 122470,
-      "num": 122470,
+      "raw_hot": 123612,
+      "num": 123612,
       "word": "东部战区进逼",
       "onboard_time": 1743465321,
       "rank": 40,
@@ -499,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119231,
-      "num": 148539,
-      "word": "勇士摁不住了",
-      "onboard_time": 1743557961,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117643,
       "num": 188543,
       "word": "00后女生大学毕业职业代扫墓",
@@ -515,28 +667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117029,
-      "num": 117029,
-      "word": "抖音辟谣张一鸣加入新加坡国籍",
-      "onboard_time": 1743559881,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 115026,
       "num": 115026,
       "word": "王嘉尔说没有粉丝自己什么都不是",
       "onboard_time": 1743530656,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114419,
-      "num": 114419,
-      "word": "一线城市约50%人口在租房",
-      "onboard_time": 1743559341,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114384,
@@ -580,7 +716,7 @@
     },
     {
       "raw_hot": 106534,
-      "num": 106534,
+      "num": 128527,
       "word": "库里半场32分",
       "onboard_time": 1743558982,
       "rank": 47,
@@ -697,6 +833,14 @@
       "onboard_time": 1743504862,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 76971,
+      "num": 184795,
+      "word": "皇马绝杀纳达尔兴奋怒吼",
+      "onboard_time": 1743561081,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 75434,
@@ -835,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49351,
+      "num": 268505,
+      "word": "麦琳分享减脂餐",
+      "onboard_time": 1743562822,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40181,
       "num": 40181,
       "word": "国产剧绝望的狠女上新了",
@@ -867,6 +1019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29472,
+      "num": 126989,
+      "word": "姜甲儒母亲寻子时曾2次险坠悬崖",
+      "onboard_time": 1743563062,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29443,
       "num": 175159,
       "word": "俄美正筹备新一轮会谈",
@@ -884,7 +1044,7 @@
     },
     {
       "raw_hot": 28585,
-      "num": 600270,
+      "num": 640599,
       "word": "春天是藏在公园的诗情画意",
       "onboard_time": 1743512724,
       "rank": 2,
