@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743593788922,
+  "endTime": 1743598125142,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1279382,
+      "num": 304914,
+      "word": "小米打假雷军致公众的一封信",
+      "onboard_time": 1743595885,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1258284,
       "num": 1258284,
       "word": "黄旭熙宣布台湾出道",
@@ -467,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1019916,
+      "num": 303124,
+      "word": "胡歌老婆",
+      "onboard_time": 1743595403,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 911127,
       "num": 409045,
       "word": "杜淳妻子网购遭客服拿地址威胁",
@@ -595,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 802897,
+      "num": 1128463,
+      "word": "孤独症男孩因高颜值走红妈妈发声",
+      "onboard_time": 1743590722,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 796439,
       "num": 796439,
       "word": "网约车车祸致女子流产平台被判全责",
@@ -705,6 +729,14 @@
       "onboard_time": 1743578302,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 626903,
+      "num": 626903,
+      "word": "Daniel公开",
+      "onboard_time": 1743595163,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 624310,
@@ -883,12 +915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 531867,
-      "num": 531867,
-      "word": "孤独症男孩因高颜值走红妈妈发声",
-      "onboard_time": 1743590722,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 540635,
+      "num": 303081,
+      "word": "鹿晗迪丽热巴8年前的路透",
+      "onboard_time": 1743597562,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 529324,
@@ -1003,12 +1035,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468578,
+      "num": 468578,
+      "word": "宋茜唐艺昕张佳宁又约上了",
+      "onboard_time": 1743595403,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 461752,
       "num": 461752,
       "word": "一部悬疑剧凑齐四个狠女",
       "onboard_time": 1743568344,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 460705,
+      "num": 300521,
+      "word": "长期睡眠不足的人长什么样",
+      "onboard_time": 1743595344,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 451597,
@@ -1107,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402110,
+      "num": 298355,
+      "word": "孟子坤 原来是晶哥",
+      "onboard_time": 1743596364,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399588,
       "num": 399588,
       "word": "10元盒饭姐因浪费气得不想出摊",
@@ -1201,6 +1257,14 @@
       "onboard_time": 1743516624,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379804,
+      "num": 309021,
+      "word": "拉夫劳伦活动",
+      "onboard_time": 1743595224,
+      "rank": 7,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 378011,
@@ -1515,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305921,
+      "num": 305921,
+      "word": "解放军圆满完成位台岛周边演训",
+      "onboard_time": 1743593902,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 305320,
       "num": 305320,
       "word": "光夜王者强强联合",
@@ -1536,6 +1608,14 @@
       "word": "洪小铃孕肚照",
       "onboard_time": 1743489204,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 301667,
+      "num": 301667,
+      "word": "张小斐没骗人",
+      "onboard_time": 1743597203,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -2091,6 +2171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234317,
+      "num": 303709,
+      "word": "警方通报男子在校门口扇学生耳光",
+      "onboard_time": 1743593123,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233341,
       "num": 233341,
       "word": "甲亢哥针灸正骨后已老实",
@@ -2113,6 +2201,14 @@
       "onboard_time": 1743502043,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229275,
+      "num": 305645,
+      "word": "如果古树会说话",
+      "onboard_time": 1743597683,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228385,
@@ -2240,6 +2336,14 @@
       "word": "呼叫81192",
       "onboard_time": 1743464300,
       "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 215485,
+      "num": 215485,
+      "word": "战机与台湾中央山脉同框",
+      "onboard_time": 1743595344,
+      "rank": 31,
       "category": "国内时政"
     },
     {
@@ -2539,6 +2643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202541,
+      "num": 302055,
+      "word": "常州惊现200平1.5万元纸豪宅",
+      "onboard_time": 1743597082,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202486,
       "num": 202486,
       "word": "带你一键穿越花花花花花海",
@@ -2569,6 +2681,14 @@
       "onboard_time": 1743575662,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 200587,
+      "num": 302590,
+      "word": "OPPO发布凝光影像",
+      "onboard_time": 1743597444,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 200351,
@@ -2859,6 +2979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189357,
+      "num": 216716,
+      "word": "Haruta公开",
+      "onboard_time": 1743595163,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189239,
       "num": 191781,
       "word": "虞书欣姜暮清冷感镜头",
@@ -3027,6 +3155,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 184065,
+      "num": 184065,
+      "word": "何超莲三姐妹罕见同框",
+      "onboard_time": 1743597624,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183615,
       "num": 324685,
       "word": "片场捕捉野生文淇",
@@ -3065,6 +3201,14 @@
       "onboard_time": 1743590601,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182575,
+      "num": 176039,
+      "word": "上海张园偶遇张柏芝",
+      "onboard_time": 1743595463,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 182193,
@@ -3187,12 +3331,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177836,
+      "num": 177836,
+      "word": "念无双口碑",
+      "onboard_time": 1743597624,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176710,
       "num": 193451,
       "word": "站姐团建发的85花",
       "onboard_time": 1743470842,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176075,
+      "num": 176075,
+      "word": "男童被电诈盗刷3万多后9分钟追回",
+      "onboard_time": 1743595282,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175829,
+      "num": 175829,
+      "word": "王鸥明侦嫡长女的地位还在上升",
+      "onboard_time": 1743595463,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 175735,
@@ -3265,6 +3433,14 @@
       "onboard_time": 1743553221,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 172900,
+      "num": 303951,
+      "word": "成都一女子小区电梯内被狗咬伤",
+      "onboard_time": 1743593663,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172739,
@@ -3355,6 +3531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170675,
+      "num": 170675,
+      "word": "马柏全打卡双人大屏",
+      "onboard_time": 1743597863,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169748,
       "num": 169748,
       "word": "朋友间送过最珍贵的是什么",
@@ -3441,6 +3625,14 @@
       "onboard_time": 1743516624,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164841,
+      "num": 164841,
+      "word": "章若楠从未否认自己是赛文",
+      "onboard_time": 1743595344,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 164577,
@@ -3731,6 +3923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 150262,
+      "num": 720646,
+      "word": "有关部门严厉打击网上体育饭圈问题",
+      "onboard_time": 1743590541,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149917,
       "num": 153228,
       "word": "韩国最应该申遗的是韩剧",
@@ -3785,6 +3985,14 @@
       "onboard_time": 1743581123,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 148272,
+      "num": 148272,
+      "word": "控制欲强的人有3个心理特点",
+      "onboard_time": 1743597023,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 148126,
@@ -3960,14 +4168,6 @@
       "word": "4月一起加油",
       "onboard_time": 1743436700,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141355,
-      "num": 720646,
-      "word": "有关部门严厉打击网上体育饭圈问题",
-      "onboard_time": 1743590541,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -4251,6 +4451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131707,
+      "num": 131707,
+      "word": "鞠婧祎红秀封面",
+      "onboard_time": 1743597742,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 131110,
       "num": 409817,
       "word": "山东舰航母编队参加演练",
@@ -4459,6 +4667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121955,
+      "num": 321765,
+      "word": "月嫂机构员工卖了4万条新生儿信息",
+      "onboard_time": 1743593363,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121885,
       "num": 229731,
       "word": "多家车企宣传时曾展示双手脱离方向盘",
@@ -4611,6 +4827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118286,
+      "num": 215529,
+      "word": "张柏芝和老钱风的适配度",
+      "onboard_time": 1743595403,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 117969,
       "num": 117969,
       "word": "甲亢哥一眼认出大张伟头像",
@@ -4689,14 +4913,6 @@
       "onboard_time": 1743530656,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114532,
-      "num": 114532,
-      "word": "成都一女子小区电梯内被狗咬伤",
-      "onboard_time": 1743593663,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114384,
@@ -6049,14 +6265,6 @@
       "onboard_time": 1743568224,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 26972,
-      "num": 321765,
-      "word": "月嫂机构员工卖了4万条新生儿信息",
-      "onboard_time": 1743593363,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26012,
