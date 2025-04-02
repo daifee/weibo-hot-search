@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743598125142,
+  "endTime": 1743599023137,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -673,6 +673,14 @@
       "onboard_time": 1743520285,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1112623,
+      "num": 303081,
+      "word": "鹿晗迪丽热巴8年前的路透",
+      "onboard_time": 1743597562,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1110257,
@@ -1795,14 +1803,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 540635,
-      "num": 303081,
-      "word": "鹿晗迪丽热巴8年前的路透",
-      "onboard_time": 1743597562,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 540593,
       "num": 540593,
       "word": "头像玄学",
@@ -1947,6 +1947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 495153,
+      "num": 300521,
+      "word": "长期睡眠不足的人长什么样",
+      "onboard_time": 1743595344,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 494068,
       "num": 494068,
       "word": "叠纸 价格",
@@ -2043,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 475178,
+      "num": 475178,
+      "word": "宋茜唐艺昕张佳宁又约上了",
+      "onboard_time": 1743595403,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 472712,
       "num": 710424,
       "word": "指鼠为鸭局长已调离",
@@ -2057,14 +2073,6 @@
       "onboard_time": 1743343885,
       "rank": 29,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 468578,
-      "num": 468578,
-      "word": "宋茜唐艺昕张佳宁又约上了",
-      "onboard_time": 1743595403,
-      "rank": 3,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 465188,
@@ -2105,14 +2113,6 @@
       "onboard_time": 1743411925,
       "rank": 5,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 460705,
-      "num": 300521,
-      "word": "长期睡眠不足的人长什么样",
-      "onboard_time": 1743595344,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 459090,
@@ -2177,6 +2177,14 @@
       "onboard_time": 1743506244,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 443909,
+      "num": 298355,
+      "word": "孟子坤 原来是晶哥",
+      "onboard_time": 1743596364,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 443398,
@@ -2256,6 +2264,14 @@
       "word": "上海最窄人行道仅10厘米宽",
       "onboard_time": 1743293299,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425382,
+      "num": 425382,
+      "word": "常州惊现200平1.5万元纸豪宅",
+      "onboard_time": 1743597082,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2409,14 +2425,6 @@
       "onboard_time": 1743336502,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 402110,
-      "num": 298355,
-      "word": "孟子坤 原来是晶哥",
-      "onboard_time": 1743596364,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 401630,
@@ -2604,7 +2612,7 @@
     },
     {
       "raw_hot": 379804,
-      "num": 309021,
+      "num": 337525,
       "word": "拉夫劳伦活动",
       "onboard_time": 1743595224,
       "rank": 7,
@@ -3171,6 +3179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 313310,
+      "num": 301667,
+      "word": "张小斐没骗人",
+      "onboard_time": 1743597203,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312382,
       "num": 312382,
       "word": "终于有人把大学专业说清楚了",
@@ -3272,14 +3288,6 @@
       "word": "洪小铃孕肚照",
       "onboard_time": 1743489204,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 301667,
-      "num": 301667,
-      "word": "张小斐没骗人",
-      "onboard_time": 1743597203,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -3739,6 +3747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 271853,
+      "num": 302590,
+      "word": "OPPO发布凝光影像",
+      "onboard_time": 1743597444,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 271615,
       "num": 271615,
       "word": "男子送货途中水库用鞭炮炸鱼身亡",
@@ -4179,6 +4195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239478,
+      "num": 214755,
+      "word": "马柏全打卡双人大屏",
+      "onboard_time": 1743597863,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239318,
       "num": 239318,
       "word": "减脂食谱里为什么永远有西兰花",
@@ -4499,6 +4523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223378,
+      "num": 223378,
+      "word": "战机与台湾中央山脉同框",
+      "onboard_time": 1743595344,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 222442,
       "num": 312951,
       "word": "湖人vs火箭",
@@ -4608,14 +4640,6 @@
       "word": "呼叫81192",
       "onboard_time": 1743464300,
       "rank": 43,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 215485,
-      "num": 215485,
-      "word": "战机与台湾中央山脉同框",
-      "onboard_time": 1743595344,
-      "rank": 31,
       "category": "国内时政"
     },
     {
@@ -5139,14 +5163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202541,
-      "num": 302055,
-      "word": "常州惊现200平1.5万元纸豪宅",
-      "onboard_time": 1743597082,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202486,
       "num": 202486,
       "word": "带你一键穿越花花花花花海",
@@ -5217,14 +5233,6 @@
       "onboard_time": 1743335962,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 200587,
-      "num": 302590,
-      "word": "OPPO发布凝光影像",
-      "onboard_time": 1743597444,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 200482,
@@ -5435,6 +5443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196231,
+      "num": 212828,
+      "word": "念无双口碑",
+      "onboard_time": 1743597624,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195887,
       "num": 195887,
       "word": "LPL",
@@ -5497,6 +5513,14 @@
       "onboard_time": 1743562822,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195046,
+      "num": 223554,
+      "word": "Switch2直面会",
+      "onboard_time": 1743598702,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 195027,
@@ -5665,6 +5689,14 @@
       "onboard_time": 1743504862,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 190551,
+      "num": 190551,
+      "word": "XIUMIN跳了TFBOYS的爱出发",
+      "onboard_time": 1743598163,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 190338,
@@ -6203,6 +6235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179437,
+      "num": 179437,
+      "word": "章若楠从未否认自己是赛文",
+      "onboard_time": 1743595344,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179419,
       "num": 179419,
       "word": "丁程鑫愚人节搞抽象",
@@ -6273,14 +6313,6 @@
       "onboard_time": 1743332422,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177836,
-      "num": 177836,
-      "word": "念无双口碑",
-      "onboard_time": 1743597624,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 177663,
@@ -6587,14 +6619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170675,
-      "num": 170675,
-      "word": "马柏全打卡双人大屏",
-      "onboard_time": 1743597863,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170577,
       "num": 170577,
       "word": "没有人可以真正做到感同身受",
@@ -6817,14 +6841,6 @@
       "onboard_time": 1743335541,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164841,
-      "num": 164841,
-      "word": "章若楠从未否认自己是赛文",
-      "onboard_time": 1743595344,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 164721,
@@ -7243,6 +7259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155860,
+      "num": 155860,
+      "word": "控制欲强的人有3个心理特点",
+      "onboard_time": 1743597023,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155707,
       "num": 445018,
       "word": "救命到底哪些卫生巾安全",
@@ -7595,6 +7619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149649,
+      "num": 149649,
+      "word": "甲亢哥被重庆街边15元快剪理发店吸引",
+      "onboard_time": 1743598163,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 148905,
       "num": 148905,
       "word": "檀健次工作室包场赵丽颖向阳花",
@@ -7657,14 +7689,6 @@
       "onboard_time": 1743581123,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 148272,
-      "num": 148272,
-      "word": "控制欲强的人有3个心理特点",
-      "onboard_time": 1743597023,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 148148,
@@ -8891,6 +8915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126731,
+      "num": 274406,
+      "word": "Switch2",
+      "onboard_time": 1743589762,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126210,
       "num": 126210,
       "word": "EDGM锁定第三轮S组",
@@ -9033,6 +9065,14 @@
       "onboard_time": 1743505343,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124394,
+      "num": 124394,
+      "word": "警方通报车主碾压他人致其身亡",
+      "onboard_time": 1743598763,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124354,
@@ -9553,14 +9593,6 @@
       "onboard_time": 1743481886,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115233,
-      "num": 274406,
-      "word": "Switch2",
-      "onboard_time": 1743589762,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 115210,
@@ -13241,6 +13273,14 @@
       "onboard_time": 1743586703,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8033,
+      "num": 152504,
+      "word": "特朗普马斯克关系崩了吗",
+      "onboard_time": 1743598943,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 5690,

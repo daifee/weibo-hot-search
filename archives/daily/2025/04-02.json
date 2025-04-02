@@ -1,6 +1,6 @@
 {
   "startTime": 1743526005832,
-  "endTime": 1743598125142,
+  "endTime": 1743599023137,
   "band_list": [
     {
       "raw_hot": 7210845,
@@ -169,6 +169,14 @@
       "onboard_time": 1743560722,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1112623,
+      "num": 303081,
+      "word": "鹿晗迪丽热巴8年前的路透",
+      "onboard_time": 1743597562,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1107507,
@@ -379,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 625180,
+      "num": 318136,
+      "word": "小米SU7高速碰撞爆燃事件细节",
+      "onboard_time": 1743484044,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 600699,
       "num": 324462,
       "word": "金秀贤方公布照片时间否认涉未成年",
@@ -451,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 554094,
-      "num": 318136,
-      "word": "小米SU7高速碰撞爆燃事件细节",
-      "onboard_time": 1743484044,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 547347,
       "num": 547347,
       "word": "浪姐三公淘汰",
@@ -473,14 +481,6 @@
       "onboard_time": 1743564321,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 540635,
-      "num": 303081,
-      "word": "鹿晗迪丽热巴8年前的路透",
-      "onboard_time": 1743597562,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 529324,
@@ -523,6 +523,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 495153,
+      "num": 300521,
+      "word": "长期睡眠不足的人长什么样",
+      "onboard_time": 1743595344,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 490275,
       "num": 478743,
       "word": "甲亢哥中国行让谁破防了",
@@ -547,8 +555,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 468578,
-      "num": 468578,
+      "raw_hot": 475178,
+      "num": 475178,
       "word": "宋茜唐艺昕张佳宁又约上了",
       "onboard_time": 1743595403,
       "rank": 3,
@@ -563,12 +571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 460705,
-      "num": 300521,
-      "word": "长期睡眠不足的人长什么样",
-      "onboard_time": 1743595344,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 443909,
+      "num": 298355,
+      "word": "孟子坤 原来是晶哥",
+      "onboard_time": 1743596364,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 442599,
@@ -585,6 +593,14 @@
       "onboard_time": 1743557541,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 425382,
+      "num": 425382,
+      "word": "常州惊现200平1.5万元纸豪宅",
+      "onboard_time": 1743597082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 412411,
@@ -609,14 +625,6 @@
       "onboard_time": 1743561922,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 402110,
-      "num": 298355,
-      "word": "孟子坤 原来是晶哥",
-      "onboard_time": 1743596364,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 396396,
@@ -644,7 +652,7 @@
     },
     {
       "raw_hot": 379804,
-      "num": 309021,
+      "num": 337525,
       "word": "拉夫劳伦活动",
       "onboard_time": 1743595224,
       "rank": 7,
@@ -755,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313310,
+      "num": 301667,
+      "word": "张小斐没骗人",
+      "onboard_time": 1743597203,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311536,
       "num": 442074,
       "word": "彭小苒浪姐比东宫还虐",
@@ -793,14 +809,6 @@
       "onboard_time": 1743593902,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 301667,
-      "num": 301667,
-      "word": "张小斐没骗人",
-      "onboard_time": 1743597203,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 296864,
@@ -897,6 +905,14 @@
       "onboard_time": 1743555863,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271853,
+      "num": 302590,
+      "word": "OPPO发布凝光影像",
+      "onboard_time": 1743597444,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 269437,
@@ -1003,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239478,
+      "num": 214755,
+      "word": "马柏全打卡双人大屏",
+      "onboard_time": 1743597863,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237820,
       "num": 383207,
       "word": "雁回时oe",
@@ -1059,6 +1083,14 @@
       "category": "民生新闻,母婴育儿"
     },
     {
+      "raw_hot": 223378,
+      "num": 223378,
+      "word": "战机与台湾中央山脉同框",
+      "onboard_time": 1743595344,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 220660,
       "num": 220660,
       "word": "黄油与面包回应标价15元收款19元",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1743589222,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215485,
-      "num": 215485,
-      "word": "战机与台湾中央山脉同框",
-      "onboard_time": 1743595344,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 214826,
@@ -1299,14 +1323,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 202541,
-      "num": 302055,
-      "word": "常州惊现200平1.5万元纸豪宅",
-      "onboard_time": 1743597082,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202411,
       "num": 199032,
       "word": "澳门世界杯2025",
@@ -1329,14 +1345,6 @@
       "onboard_time": 1743575662,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 200587,
-      "num": 302590,
-      "word": "OPPO发布凝光影像",
-      "onboard_time": 1743597444,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 199575,
@@ -1395,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196231,
+      "num": 212828,
+      "word": "念无双口碑",
+      "onboard_time": 1743597624,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195887,
       "num": 195887,
       "word": "LPL",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1743562822,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195046,
+      "num": 223554,
+      "word": "Switch2直面会",
+      "onboard_time": 1743598702,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 195027,
@@ -1465,6 +1489,14 @@
       "onboard_time": 1743577101,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190551,
+      "num": 190551,
+      "word": "XIUMIN跳了TFBOYS的爱出发",
+      "onboard_time": 1743598163,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 190338,
@@ -1683,11 +1715,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177836,
-      "num": 177836,
-      "word": "念无双口碑",
-      "onboard_time": 1743597624,
-      "rank": 33,
+      "raw_hot": 179437,
+      "num": 179437,
+      "word": "章若楠从未否认自己是赛文",
+      "onboard_time": 1743595344,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1811,14 +1843,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170675,
-      "num": 170675,
-      "word": "马柏全打卡双人大屏",
-      "onboard_time": 1743597863,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169081,
       "num": 271958,
       "word": "王安宇王玉雯发火星文",
@@ -1849,14 +1873,6 @@
       "onboard_time": 1743518245,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164841,
-      "num": 164841,
-      "word": "章若楠从未否认自己是赛文",
-      "onboard_time": 1743595344,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 161786,
@@ -1923,6 +1939,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 155860,
+      "num": 155860,
+      "word": "控制欲强的人有3个心理特点",
+      "onboard_time": 1743597023,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155707,
       "num": 445018,
       "word": "救命到底哪些卫生巾安全",
@@ -1987,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149649,
+      "num": 149649,
+      "word": "甲亢哥被重庆街边15元快剪理发店吸引",
+      "onboard_time": 1743598163,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 148905,
       "num": 148905,
       "word": "檀健次工作室包场赵丽颖向阳花",
@@ -2009,14 +2041,6 @@
       "onboard_time": 1743581123,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 148272,
-      "num": 148272,
-      "word": "控制欲强的人有3个心理特点",
-      "onboard_time": 1743597023,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 148126,
@@ -2235,6 +2259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 126731,
+      "num": 274406,
+      "word": "Switch2",
+      "onboard_time": 1743589762,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125745,
       "num": 357959,
       "word": "张艺兴听到小孩姐夸他的反应",
@@ -2257,6 +2289,14 @@
       "onboard_time": 1743550038,
       "rank": 23,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 124394,
+      "num": 124394,
+      "word": "警方通报车主碾压他人致其身亡",
+      "onboard_time": 1743598763,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124343,
@@ -2377,14 +2417,6 @@
       "onboard_time": 1743523702,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115233,
-      "num": 274406,
-      "word": "Switch2",
-      "onboard_time": 1743589762,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 115026,
@@ -3257,6 +3289,14 @@
       "onboard_time": 1743586703,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8033,
+      "num": 152504,
+      "word": "特朗普马斯克关系崩了吗",
+      "onboard_time": 1743598943,
+      "rank": 39,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
