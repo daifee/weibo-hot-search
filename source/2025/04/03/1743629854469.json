@@ -1,0 +1,410 @@
+{
+  "runTime": 1743629854469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 87156,
+        "num": 177295,
+        "word": "甲亢哥说中国是被低估的地方",
+        "onboard_time": 1743607762,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75987,
+        "num": 75987,
+        "word": "妻子不愿继续生育离婚后获补偿35万",
+        "onboard_time": 1743606685,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13860,
+        "num": 69743,
+        "word": "联合国点赞中国新能源发展",
+        "onboard_time": 1743604164,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68530,
+        "num": 68530,
+        "word": "特朗普力推的对等关税是啥",
+        "onboard_time": 1743619635,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66706,
+        "num": 66706,
+        "word": "东部战区再发军事行动海报",
+        "onboard_time": 1743611659,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64601,
+        "num": 64601,
+        "word": "我的女儿张诗琪她来过这个世界",
+        "onboard_time": 1743600503,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 49557,
+        "num": 49557,
+        "word": "日本九州岛附近6.2级地震",
+        "onboard_time": 1743604406,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 48211,
+        "num": 48211,
+        "word": "浪姐第一季全是真的姐",
+        "onboard_time": 1743605486,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43340,
+        "num": 43340,
+        "word": "加沙所有大饼店因面粉耗尽停业",
+        "onboard_time": 1743625213,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26365,
+        "num": 43319,
+        "word": "李美越5天掉粉14万",
+        "onboard_time": 1743613097,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 103200,
+        "num": 42837,
+        "word": "孟子坤 家暴",
+        "onboard_time": 1743606385,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83988,
+        "num": 42479,
+        "word": "胡歌 二胎",
+        "onboard_time": 1743592222,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56456,
+        "num": 42307,
+        "word": "金秀贤否认所有照片",
+        "onboard_time": 1743606564,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56068,
+        "num": 42024,
+        "word": "鹿晗迪丽热巴8年前的路透",
+        "onboard_time": 1743597562,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41807,
+        "num": 41807,
+        "word": "女子称买到古驰假口红被店员小号骂",
+        "onboard_time": 1743624014,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42335,
+        "num": 41203,
+        "word": "曝孟子坤出轨",
+        "onboard_time": 1743604345,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40239,
+        "num": 40239,
+        "word": "曝王玉雯杨玏已分手",
+        "onboard_time": 1743603685,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39285,
+        "num": 39285,
+        "word": "华人大妈持菜刀与警方对峙被击毙",
+        "onboard_time": 1743602544,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37574,
+        "num": 37574,
+        "word": "IU向雪莉金赛纶推荐同一心理医生",
+        "onboard_time": 1743599783,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21260,
+        "num": 36145,
+        "word": "何洛洛 生命树",
+        "onboard_time": 1743608361,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35758,
+        "num": 35758,
+        "word": "豆包你现在改名叫邓超",
+        "onboard_time": 1743609381,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28236,
+        "num": 28236,
+        "word": "心疼小白熊",
+        "onboard_time": 1743608901,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27892,
+        "num": 27892,
+        "word": "长期睡眠不足的人长什么样",
+        "onboard_time": 1743595344,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27701,
+        "num": 27701,
+        "word": "雷军捐资1亿成立守护资金消息不实",
+        "onboard_time": 1743603623,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 25767,
+        "num": 25767,
+        "word": "外交部回应美欧日等指责中方联合演训",
+        "onboard_time": 1743609262,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19900,
+        "num": 25757,
+        "word": "极挑男人帮张艺兴新片首映合体",
+        "onboard_time": 1743605124,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16163,
+        "num": 25743,
+        "word": "黄磊说为张艺兴的表演骄傲",
+        "onboard_time": 1743613338,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15913,
+        "num": 25730,
+        "word": "王安宇抹布文学",
+        "onboard_time": 1743608123,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15550,
+        "num": 25726,
+        "word": "向太抓大鹅上瘾了",
+        "onboard_time": 1743599063,
+        "rank": 28,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 15038,
+        "num": 25716,
+        "word": "甲亢哥被重庆甜妹教育了",
+        "onboard_time": 1743600324,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25706,
+        "num": 25706,
+        "word": "男子开车反复碾压他人致其身亡",
+        "onboard_time": 1743590303,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10075,
+        "num": 23779,
+        "word": "中方救援队再救出1人",
+        "onboard_time": 1743629654,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23422,
+        "num": 23422,
+        "word": "战机与台湾中央山脉同框",
+        "onboard_time": 1743595344,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23297,
+        "num": 23297,
+        "word": "孤独症男孩因高颜值走红妈妈发声",
+        "onboard_time": 1743590722,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21139,
+        "num": 21139,
+        "word": "Flamma道歉",
+        "onboard_time": 1743607705,
+        "rank": 34,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 20784,
+        "num": 20784,
+        "word": "Switch2价格公布",
+        "onboard_time": 1743604406,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 9889,
+        "num": 20551,
+        "word": "中国救援队伍在缅已救出9名幸存者",
+        "onboard_time": 1743628933,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20393,
+        "num": 20393,
+        "word": "刷信用卡买30万黄金转手赚数万",
+        "onboard_time": 1743600804,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20021,
+        "num": 20021,
+        "word": "不要焦虑2小时和8公里以外的事",
+        "onboard_time": 1743611180,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19568,
+        "num": 19568,
+        "word": "爷爷为夺回孙子被人贩踩出眼珠",
+        "onboard_time": 1743570086,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18620,
+        "num": 18620,
+        "word": "演练可能还有BCD但不会一直延续",
+        "onboard_time": 1743627134,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18441,
+        "num": 18441,
+        "word": "胡歌老婆",
+        "onboard_time": 1743595403,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18111,
+        "num": 18111,
+        "word": "为什么说人永远赚不到认知以外的钱",
+        "onboard_time": 1743602544,
+        "rank": 42,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 17710,
+        "num": 17710,
+        "word": "东部战区演训雷霆出击",
+        "onboard_time": 1743610460,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17707,
+        "num": 17707,
+        "word": "战胜焦虑的秘诀其实就是两个字",
+        "onboard_time": 1743611899,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16549,
+        "num": 16549,
+        "word": "缅甸地震已致超3000死",
+        "onboard_time": 1743604884,
+        "rank": 45,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 14994,
+        "num": 16549,
+        "word": "高颜值孤独症男孩小岱走红背后",
+        "onboard_time": 1743620954,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14932,
+        "num": 16548,
+        "word": "正告台独势力",
+        "onboard_time": 1743615856,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14906,
+        "num": 16548,
+        "word": "中方救援队又发现1名幸存者",
+        "onboard_time": 1743614056,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14379,
+        "num": 16548,
+        "word": "宋茜唐艺昕张佳宁又约上了",
+        "onboard_time": 1743595403,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#自觉遵规守纪大胆干事创业#"
+    }
+  }
+}

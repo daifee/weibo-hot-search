@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743628979900,
+  "endTime": 1743629854469,
   "band_list": [
     {
       "raw_hot": 1471890,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68530,
+      "num": 68530,
+      "word": "特朗普力推的对等关税是啥",
+      "onboard_time": 1743619635,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67919,
       "num": 145334,
       "word": "奚梦瑶爸爸当家录制路透",
@@ -427,14 +435,6 @@
       "category": "国际时政,国内时政"
     },
     {
-      "raw_hot": 60406,
-      "num": 60406,
-      "word": "特朗普力推的对等关税是啥",
-      "onboard_time": 1743619635,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 58568,
       "num": 102699,
       "word": "黄磊说为张艺兴的表演骄傲",
@@ -475,12 +475,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41984,
-      "num": 41984,
+      "raw_hot": 43340,
+      "num": 43340,
       "word": "加沙所有大饼店因面粉耗尽停业",
       "onboard_time": 1743625213,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 41807,
+      "num": 41807,
+      "word": "女子称买到古驰假口红被店员小号骂",
+      "onboard_time": 1743624014,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40556,
@@ -489,14 +497,6 @@
       "onboard_time": 1743604164,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 40192,
-      "num": 40192,
-      "word": "女子称买到古驰假口红被店员小号骂",
-      "onboard_time": 1743624014,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37245,
@@ -579,20 +579,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18620,
+      "num": 31324,
+      "word": "演练可能还有BCD但不会一直延续",
+      "onboard_time": 1743627134,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16270,
       "num": 16270,
       "word": "4人入室抢婴案开庭前姜甲儒发声",
       "onboard_time": 1743626415,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14294,
-      "num": 31324,
-      "word": "演练可能还有BCD但不会一直延续",
-      "onboard_time": 1743627134,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11672,
@@ -603,8 +603,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 9783,
-      "num": 17401,
+      "raw_hot": 10075,
+      "num": 23779,
+      "word": "中方救援队再救出1人",
+      "onboard_time": 1743629654,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9889,
+      "num": 20551,
       "word": "中国救援队伍在缅已救出9名幸存者",
       "onboard_time": 1743628933,
       "rank": 40,
