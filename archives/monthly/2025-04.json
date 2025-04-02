@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743592846745,
+  "endTime": 1743593788922,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3377057,
+      "num": 340173,
+      "word": "胡歌 二胎",
+      "onboard_time": 1743592222,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3284922,
       "num": 3284922,
       "word": "网友曝小米汽车车主驾驶中睡着",
@@ -97,14 +105,6 @@
       "onboard_time": 1743478282,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1985471,
-      "num": 302889,
-      "word": "胡歌 二胎",
-      "onboard_time": 1743592222,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1906715,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1174032,
-      "num": 301987,
+      "num": 332804,
       "word": "男子开车反复碾压他人致其身亡",
       "onboard_time": 1743590303,
       "rank": 34,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 1107507,
-      "num": 1132788,
+      "num": 1135441,
       "word": "再见Switch",
       "onboard_time": 1743587782,
       "rank": 1,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 834785,
-      "num": 300349,
+      "num": 324790,
       "word": "PO回应与雪莉恋情",
       "onboard_time": 1743591142,
       "rank": 13,
@@ -723,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600699,
+      "num": 324462,
+      "word": "金秀贤方公布照片时间否认涉未成年",
+      "onboard_time": 1743592103,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 600651,
       "num": 369344,
       "word": "男子误入洗浴中心女宾区致顾客走光",
@@ -745,14 +753,6 @@
       "onboard_time": 1743516805,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 591645,
-      "num": 298775,
-      "word": "金秀贤方公布照片时间否认涉未成年",
-      "onboard_time": 1743592103,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 590870,
@@ -811,6 +811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 583338,
+      "num": 583338,
+      "word": "藏海传40集",
+      "onboard_time": 1743590962,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 581815,
       "num": 444312,
       "word": "安静公主做完手术哽咽落泪",
@@ -833,14 +841,6 @@
       "onboard_time": 1743441797,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 570849,
-      "num": 570849,
-      "word": "藏海传40集",
-      "onboard_time": 1743590962,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 554934,
@@ -881,6 +881,14 @@
       "onboard_time": 1743564321,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 531867,
+      "num": 531867,
+      "word": "孤独症男孩因高颜值走红妈妈发声",
+      "onboard_time": 1743590722,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 529324,
@@ -1067,6 +1075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 412411,
+      "num": 412411,
+      "word": "华晨宇方强硬表态是对裁缝创作宣战",
+      "onboard_time": 1743591381,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 411763,
       "num": 411763,
       "word": "姜甲儒称要亲手为家人讨回公道",
@@ -1241,14 +1257,6 @@
       "onboard_time": 1743508585,
       "rank": 13,
       "category": "美食"
-    },
-    {
-      "raw_hot": 358512,
-      "num": 296791,
-      "word": "华晨宇方强硬表态是对裁缝创作宣战",
-      "onboard_time": 1743591381,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 358381,
@@ -1483,14 +1491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307047,
-      "num": 307047,
-      "word": "孤独症男孩因高颜值走红妈妈发声",
-      "onboard_time": 1743590722,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 306671,
       "num": 306671,
       "word": "4人偷了1.6元民警穷追不舍",
@@ -1633,6 +1633,14 @@
       "onboard_time": 1743580163,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 290211,
+      "num": 328988,
+      "word": "赵丽颖这段走身更走心",
+      "onboard_time": 1743592283,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 288461,
@@ -2259,14 +2267,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 214335,
-      "num": 296265,
-      "word": "赵丽颖这段走身更走心",
-      "onboard_time": 1743592283,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 214247,
       "num": 214247,
       "word": "无意识控血糖的5个小习惯",
@@ -2337,6 +2337,14 @@
       "onboard_time": 1743511462,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209363,
+      "num": 209363,
+      "word": "樱花树下站谁都美",
+      "onboard_time": 1743588682,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 208686,
@@ -2473,6 +2481,14 @@
       "onboard_time": 1743578242,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204425,
+      "num": 204425,
+      "word": "蔡依林新专辑五月发行",
+      "onboard_time": 1743593183,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 204331,
@@ -2628,7 +2644,7 @@
     },
     {
       "raw_hot": 197449,
-      "num": 294851,
+      "num": 328330,
       "word": "吴彦姝皱纹是时光的勋章",
       "onboard_time": 1743592222,
       "rank": 20,
@@ -3043,6 +3059,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 182811,
+      "num": 182811,
+      "word": "研究生挂在嘴边的话",
+      "onboard_time": 1743590601,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182193,
       "num": 182193,
       "word": "GEN战胜HLE",
@@ -3105,14 +3129,6 @@
       "onboard_time": 1743510503,
       "rank": 36,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 180259,
-      "num": 180259,
-      "word": "樱花树下站谁都美",
-      "onboard_time": 1743588682,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 179959,
@@ -3555,14 +3571,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 157735,
-      "num": 157735,
-      "word": "研究生挂在嘴边的话",
-      "onboard_time": 1743590601,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 157571,
       "num": 157571,
       "word": "唐嫣说一日为师终身为师",
@@ -3739,6 +3747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148905,
+      "num": 148905,
+      "word": "檀健次工作室包场赵丽颖向阳花",
+      "onboard_time": 1743592942,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148549,
       "num": 148549,
       "word": "悉尼妹分手",
@@ -3769,6 +3785,14 @@
       "onboard_time": 1743581123,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 148126,
+      "num": 148126,
+      "word": "浪姐1",
+      "onboard_time": 1743593063,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 147887,
@@ -3939,6 +3963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141355,
+      "num": 720646,
+      "word": "有关部门严厉打击网上体育饭圈问题",
+      "onboard_time": 1743590541,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141142,
       "num": 141142,
       "word": "第4名在立陶宛失踪美士兵遗体找到",
@@ -4073,14 +4105,6 @@
       "onboard_time": 1743500302,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137163,
-      "num": 720646,
-      "word": "有关部门严厉打击网上体育饭圈问题",
-      "onboard_time": 1743590541,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136228,
@@ -4435,6 +4459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121885,
+      "num": 229731,
+      "word": "多家车企宣传时曾展示双手脱离方向盘",
+      "onboard_time": 1743591921,
+      "rank": 28,
+      "category": "舆论监督,汽车"
+    },
+    {
       "raw_hot": 121603,
       "num": 121603,
       "word": "苏新皓站姐发了好多cp",
@@ -4448,6 +4480,14 @@
       "word": "李嘉琦浪姐挑染脏辫造型",
       "onboard_time": 1743511402,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121401,
+      "num": 121401,
+      "word": "李嘉琦的分享好浓的班味儿",
+      "onboard_time": 1743592942,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -4635,14 +4675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115850,
-      "num": 229731,
-      "word": "多家车企宣传时曾展示双手脱离方向盘",
-      "onboard_time": 1743591921,
-      "rank": 28,
-      "category": "舆论监督,汽车"
-    },
-    {
       "raw_hot": 115233,
       "num": 274406,
       "word": "Switch2",
@@ -4657,6 +4689,14 @@
       "onboard_time": 1743530656,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114532,
+      "num": 114532,
+      "word": "成都一女子小区电梯内被狗咬伤",
+      "onboard_time": 1743593663,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114384,
@@ -4988,7 +5028,7 @@
     },
     {
       "raw_hot": 91267,
-      "num": 123376,
+      "num": 148990,
       "word": "依法严惩拉踩引战和攻击谩骂等行为",
       "onboard_time": 1743584483,
       "rank": 47,
@@ -5627,6 +5667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51382,
+      "num": 210488,
+      "word": "清明五一档电影片单发布",
+      "onboard_time": 1743593663,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 49481,
       "num": 83895,
       "word": "前TVB女演员回应摆摊卖鸡爪",
@@ -6003,6 +6051,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 26972,
+      "num": 321765,
+      "word": "月嫂机构员工卖了4万条新生儿信息",
+      "onboard_time": 1743593363,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26012,
       "num": 275460,
       "word": "王艺迪vs郑怡静",
@@ -6043,20 +6099,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23893,
+      "num": 188151,
+      "word": "李沁Gucci竹节展超强姐感",
+      "onboard_time": 1743591201,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23382,
       "num": 351274,
       "word": "网购大海参收货发现比筷子还细",
       "onboard_time": 1743589883,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23240,
-      "num": 188151,
-      "word": "李沁Gucci竹节展超强姐感",
-      "onboard_time": 1743591201,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 22455,
@@ -6081,6 +6137,14 @@
       "onboard_time": 1743546375,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21306,
+      "num": 170679,
+      "word": "日本老龄消防队",
+      "onboard_time": 1743592703,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 20977,
@@ -6361,14 +6425,6 @@
       "onboard_time": 1743451034,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9398,
-      "num": 170679,
-      "word": "日本老龄消防队",
-      "onboard_time": 1743592703,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 8089,

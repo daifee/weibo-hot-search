@@ -1,0 +1,410 @@
+{
+  "runTime": 1743593788922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 846508,
+        "num": 1135441,
+        "word": "再见Switch",
+        "onboard_time": 1743587782,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 583338,
+        "num": 583338,
+        "word": "藏海传40集",
+        "onboard_time": 1743590962,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141355,
+        "num": 537954,
+        "word": "有关部门严厉打击网上体育饭圈问题",
+        "onboard_time": 1743590541,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531867,
+        "num": 531867,
+        "word": "孤独症男孩因高颜值走红妈妈发声",
+        "onboard_time": 1743590722,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412411,
+        "num": 412411,
+        "word": "华晨宇方强硬表态是对裁缝创作宣战",
+        "onboard_time": 1743591381,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 857117,
+        "num": 409546,
+        "word": "王楚钦考编考研双双上岸",
+        "onboard_time": 1743579743,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405534,
+        "num": 405534,
+        "word": "甲亢哥中国行让谁破防了",
+        "onboard_time": 1743585623,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 624512,
+        "num": 394240,
+        "word": "浪姐6 变味",
+        "onboard_time": 1743587962,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573511,
+        "num": 375639,
+        "word": "彭小苒发文告别浪姐",
+        "onboard_time": 1743588442,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340576,
+        "num": 340576,
+        "word": "盒饭姐骂浪费顾客后生意更火爆了",
+        "onboard_time": 1743589521,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3377057,
+        "num": 340173,
+        "word": "胡歌 二胎",
+        "onboard_time": 1743592222,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1439299,
+        "num": 337129,
+        "word": "网友曝小米汽车车主驾驶中睡着",
+        "onboard_time": 1743578482,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1030098,
+        "num": 335349,
+        "word": "雷军回应",
+        "onboard_time": 1743517885,
+        "rank": 12,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 1028400,
+        "num": 332804,
+        "word": "男子开车反复碾压他人致其身亡",
+        "onboard_time": 1743590303,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227697,
+        "num": 331487,
+        "word": "柯南坦白和小兰在交往",
+        "onboard_time": 1743577283,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 290211,
+        "num": 328988,
+        "word": "赵丽颖这段走身更走心",
+        "onboard_time": 1743592283,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187307,
+        "num": 328330,
+        "word": "吴彦姝皱纹是时光的勋章",
+        "onboard_time": 1743592222,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713097,
+        "num": 324790,
+        "word": "PO回应与雪莉恋情",
+        "onboard_time": 1743591142,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600699,
+        "num": 324462,
+        "word": "金秀贤方公布照片时间否认涉未成年",
+        "onboard_time": 1743592103,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26972,
+        "num": 321765,
+        "word": "月嫂机构员工卖了4万条新生儿信息",
+        "onboard_time": 1743593363,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584723,
+        "num": 319896,
+        "word": "爷爷为夺回孙子被人贩踩出眼珠",
+        "onboard_time": 1743570086,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554094,
+        "num": 318136,
+        "word": "小米SU7高速碰撞爆燃事件细节",
+        "onboard_time": 1743484044,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316645,
+        "num": 316645,
+        "word": "王楚钦不占普通学生名额",
+        "onboard_time": 1743582682,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383988,
+        "num": 310612,
+        "word": "金秀贤恐面临破产危机",
+        "onboard_time": 1743588263,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178991,
+        "num": 301618,
+        "word": "东部战区进逼",
+        "onboard_time": 1743465321,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300146,
+        "num": 300146,
+        "word": "4人偷了1.6元民警穷追不舍",
+        "onboard_time": 1743587663,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240399,
+        "num": 240399,
+        "word": "王安宇王玉雯娱乐圈人缘",
+        "onboard_time": 1743580343,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213218,
+        "num": 213218,
+        "word": "李晟第一名",
+        "onboard_time": 1743577283,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286398,
+        "num": 211945,
+        "word": "小米汽车回应",
+        "onboard_time": 1743517885,
+        "rank": 28,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 51382,
+        "num": 210488,
+        "word": "清明五一档电影片单发布",
+        "onboard_time": 1743593663,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224285,
+        "num": 210463,
+        "word": "G社是张若昀的站姐吧",
+        "onboard_time": 1743591322,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209363,
+        "num": 209363,
+        "word": "樱花树下站谁都美",
+        "onboard_time": 1743588682,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 204425,
+        "num": 204425,
+        "word": "蔡依林新专辑五月发行",
+        "onboard_time": 1743593183,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182811,
+        "num": 182811,
+        "word": "研究生挂在嘴边的话",
+        "onboard_time": 1743590601,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121885,
+        "num": 175233,
+        "word": "多家车企宣传时曾展示双手脱离方向盘",
+        "onboard_time": 1743591921,
+        "rank": 34,
+        "category": "舆论监督,汽车"
+      },
+      {
+        "raw_hot": 23893,
+        "num": 174749,
+        "word": "李沁Gucci竹节展超强姐感",
+        "onboard_time": 1743591201,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174447,
+        "num": 174447,
+        "word": "IU说李钟硕没时间看苦尽柑来",
+        "onboard_time": 1743579442,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167642,
+        "num": 167642,
+        "word": "减肥跳绳是先瘦肚子再瘦腿",
+        "onboard_time": 1743580163,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 162980,
+        "num": 162980,
+        "word": "74岁TVB老戏骨在狱中求婚成功",
+        "onboard_time": 1743584302,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21306,
+        "num": 150124,
+        "word": "日本老龄消防队",
+        "onboard_time": 1743592703,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79476,
+        "num": 148990,
+        "word": "依法严惩拉踩引战和攻击谩骂等行为",
+        "onboard_time": 1743584483,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148905,
+        "num": 148905,
+        "word": "檀健次工作室包场赵丽颖向阳花",
+        "onboard_time": 1743592942,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148126,
+        "num": 148126,
+        "word": "浪姐1",
+        "onboard_time": 1743593063,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143441,
+        "num": 143441,
+        "word": "龙应台称留给台湾的时间不多了",
+        "onboard_time": 1743571642,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142106,
+        "num": 142106,
+        "word": "自闭症孩子也可能是话痨",
+        "onboard_time": 1743586703,
+        "rank": 44,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 131398,
+        "num": 131398,
+        "word": "甲亢哥被8D魔都吓到惊呼",
+        "onboard_time": 1743588322,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121401,
+        "num": 121401,
+        "word": "李嘉琦的分享好浓的班味儿",
+        "onboard_time": 1743592942,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120540,
+        "num": 120540,
+        "word": "孙俪上半年有2部新剧播出",
+        "onboard_time": 1743579505,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115957,
+        "num": 115957,
+        "word": "东部战区锁控",
+        "onboard_time": 1743575902,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114532,
+        "num": 114532,
+        "word": "成都一女子小区电梯内被狗咬伤",
+        "onboard_time": 1743593663,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记领略中华文明#"
+    }
+  }
+}
