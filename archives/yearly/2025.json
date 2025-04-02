@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743578647956,
+  "endTime": 1743579470785,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -819,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6115383,
+      "num": 6115383,
+      "word": "王楚钦北大拟录取",
+      "onboard_time": 1743576981,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6007866,
       "num": 6007866,
       "word": "赵露思长文谈抑郁症",
@@ -873,14 +881,6 @@
       "onboard_time": 1738577307,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4924233,
-      "num": 4924233,
-      "word": "王楚钦北大拟录取",
-      "onboard_time": 1743576981,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 4918196,
