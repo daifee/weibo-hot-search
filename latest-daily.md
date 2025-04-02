@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/03 00:32:15 ~ 2025/04/03 02:46:54
+本榜单时间：2025/04/03 00:32:15 ~ 2025/04/03 03:20:21
 </p>
 </blockquote>
 <p>
@@ -381,6 +381,12 @@ Daniel公开（热度：64402）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E6%B1%89%E5%8C%96%E7%BB%84%23" target="weibo">
+谢谢汉化组（热度：31618）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E6%95%91%E6%8F%B4%E9%98%9F%E5%8F%88%E5%8F%91%E7%8E%B01%E5%90%8D%E5%B9%B8%E5%AD%98%E8%80%85%23" target="weibo">
 中方救援队又发现1名幸存者（热度：30101）
 </a>
@@ -399,6 +405,12 @@ Switch2日版 自己锁自己（热度：24502）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%BD%8D%E7%9B%B2%E4%BA%BA%E8%A2%AB%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%B8%A9%E6%9A%96%E5%AE%88%E6%8A%A420%E5%B9%B4%23" target="weibo">
+五位盲人被公交司机温暖守护20年（热度：23946）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9E%81%E9%AA%91%E8%BD%A6%E5%8E%BB%E5%A4%A9%E6%B4%A5vlog%23" target="weibo">
 张极骑车去天津vlog（热度：22589）
 </a>
@@ -411,14 +423,8 @@ Switch2日版 自己锁自己（热度：24502）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E6%B1%89%E5%8C%96%E7%BB%84%23" target="weibo">
-谢谢汉化组（热度：20528）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%BD%8D%E7%9B%B2%E4%BA%BA%E8%A2%AB%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%B8%A9%E6%9A%96%E5%AE%88%E6%8A%A420%E5%B9%B4%23" target="weibo">
-五位盲人被公交司机温暖守护20年（热度：15802）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%A2%9C%E5%80%BC%E5%AD%A4%E7%8B%AC%E7%97%87%E7%94%B7%E5%AD%A9%E5%B0%8F%E5%B2%B1%E8%B5%B0%E7%BA%A2%E8%83%8C%E5%90%8E%23" target="weibo">
+高颜值孤独症男孩小岱走红背后（热度：11453）
 </a>
 </li>
 

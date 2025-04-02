@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743619614408,
+  "endTime": 1743621621287,
   "band_list": [
     {
       "raw_hot": 1471890,
@@ -491,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31618,
+      "num": 31618,
+      "word": "谢谢汉化组",
+      "onboard_time": 1743619274,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30101,
       "num": 106926,
       "word": "中方救援队又发现1名幸存者",
@@ -515,6 +523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 23946,
+      "num": 23946,
+      "word": "五位盲人被公交司机温暖守护20年",
+      "onboard_time": 1743614538,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22589,
       "num": 26531,
       "word": "张极骑车去天津vlog",
@@ -531,19 +547,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20528,
-      "num": 23575,
-      "word": "谢谢汉化组",
-      "onboard_time": 1743619274,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 15802,
-      "num": 23577,
-      "word": "五位盲人被公交司机温暖守护20年",
-      "onboard_time": 1743614538,
-      "rank": 43,
+      "raw_hot": 11453,
+      "num": 59991,
+      "word": "高颜值孤独症男孩小岱走红背后",
+      "onboard_time": 1743620954,
+      "rank": 9,
       "category": "民生新闻"
     }
   ],
