@@ -1,22 +1,30 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743637006394,
+  "endTime": 1743645023014,
   "band_list": [
     {
       "raw_hot": 1471890,
-      "num": 340112,
+      "num": 341214,
       "word": "孟子坤 家暴",
       "onboard_time": 1743606385,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1346923,
-      "num": 1346923,
+      "raw_hot": 1415002,
+      "num": 1415002,
       "word": "特朗普宣布国家紧急状态",
       "onboard_time": 1743636020,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1171568,
+      "num": 1171568,
+      "word": "黄金",
+      "onboard_time": 1743638302,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 992763,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 687985,
-      "num": 333200,
+      "num": 351638,
       "word": "曝王玉雯杨玏已分手",
       "onboard_time": 1743603685,
       "rank": 12,
@@ -65,6 +73,14 @@
       "onboard_time": 1743597562,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 568057,
+      "num": 348627,
+      "word": "小狗coco去世",
+      "onboard_time": 1743639503,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 551572,
@@ -97,6 +113,14 @@
       "onboard_time": 1743602544,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 489556,
+      "num": 489556,
+      "word": "我的女儿张诗琪她来过这个世界",
+      "onboard_time": 1743600503,
+      "rank": 6,
+      "category": "正能量"
     },
     {
       "raw_hot": 472153,
@@ -147,6 +171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 396163,
+      "num": 396163,
+      "word": "甲亢哥空着脖子来挂着辣椒走了",
+      "onboard_time": 1743640763,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 395899,
       "num": 395899,
       "word": "心疼小白熊",
@@ -171,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371790,
-      "num": 371790,
-      "word": "我的女儿张诗琪她来过这个世界",
-      "onboard_time": 1743600503,
-      "rank": 6,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 367394,
       "num": 217828,
       "word": "曝孟子坤出轨",
@@ -187,11 +211,67 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361521,
+      "num": 361521,
+      "word": "白宫回应马斯克辞职",
+      "onboard_time": 1743641363,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 335195,
+      "num": 335195,
+      "word": "既是节气又是节日只有清明",
+      "onboard_time": 1743636802,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328978,
+      "num": 328978,
+      "word": "美对贸易伙伴设10%最低基准关税",
+      "onboard_time": 1743642802,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 324284,
+      "num": 324284,
+      "word": "老人因缺水一辈子只洗3次脸",
+      "onboard_time": 1743638062,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321245,
+      "num": 321245,
+      "word": "罗志祥宣传张艺兴新片",
+      "onboard_time": 1743637820,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318103,
       "num": 217440,
       "word": "IU向雪莉金赛纶推荐同一心理医生",
       "onboard_time": 1743599783,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 306324,
+      "num": 324535,
+      "word": "以美之名 干啥呢王一博来了",
+      "onboard_time": 1743642202,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 292268,
+      "num": 292268,
+      "word": "胡歌老婆是他前助理",
+      "onboard_time": 1743643641,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -227,6 +307,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 206337,
+      "num": 206337,
+      "word": "金价再起飞",
+      "onboard_time": 1743640043,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 194806,
+      "num": 194806,
+      "word": "74岁老戏骨狱中求婚与女友相差36岁",
+      "onboard_time": 1743639442,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175633,
       "num": 175633,
       "word": "爷爷为夺回孙子被人贩踩出眼珠",
@@ -241,6 +337,30 @@
       "onboard_time": 1743595344,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 173063,
+      "num": 173063,
+      "word": "研究生不语只是一味的共鸣",
+      "onboard_time": 1743639082,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 156033,
+      "num": 156033,
+      "word": "俄军1轰炸机坠毁1名飞行员死亡",
+      "onboard_time": 1743644362,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 153333,
+      "num": 153333,
+      "word": "俄罗斯不在美国对等关税名单",
+      "onboard_time": 1743639742,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151739,
@@ -259,6 +379,22 @@
       "category": "辟谣/通报,汽车"
     },
     {
+      "raw_hot": 143816,
+      "num": 143816,
+      "word": "公孙离fmvp皮肤",
+      "onboard_time": 1743640343,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 139579,
+      "num": 211023,
+      "word": "黄轩宋仲基同框",
+      "onboard_time": 1743642623,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 131833,
       "num": 139207,
       "word": "外交部回应美欧日等指责中方联合演训",
@@ -273,6 +409,14 @@
       "onboard_time": 1743608123,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130919,
+      "num": 210923,
+      "word": "戚薇郑秀晶同框",
+      "onboard_time": 1743641183,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123603,
@@ -307,6 +451,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 110487,
+      "num": 110487,
+      "word": "缅甸地震已致3003死4515伤",
+      "onboard_time": 1743642142,
+      "rank": 39,
+      "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 110378,
+      "num": 110378,
+      "word": "小猫把小狗脑袋扶正了",
+      "onboard_time": 1743639982,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108834,
       "num": 108834,
       "word": "我交了个星朋友",
@@ -337,6 +497,14 @@
       "onboard_time": 1743611180,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103157,
+      "num": 103868,
+      "word": "乘风2025四公分组",
+      "onboard_time": 1743644899,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 102577,
@@ -427,14 +595,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 80195,
-      "num": 80195,
-      "word": "既是节气又是节日只有清明",
-      "onboard_time": 1743636802,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79096,
       "num": 79096,
       "word": "减肥建议不要长期跳绳",
@@ -449,6 +609,14 @@
       "onboard_time": 1743598702,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 75436,
+      "num": 344200,
+      "word": "最像周五的周四",
+      "onboard_time": 1743643880,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74770,
@@ -473,6 +641,14 @@
       "onboard_time": 1743606444,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71721,
+      "num": 220536,
+      "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+      "onboard_time": 1743644780,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67919,
@@ -523,6 +699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63891,
+      "num": 749591,
+      "word": "联合国点赞中国新能源发展",
+      "onboard_time": 1743604164,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63024,
       "num": 67559,
       "word": "缅甸地震已致超3000死",
@@ -563,6 +747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48416,
+      "num": 346074,
+      "word": "A股",
+      "onboard_time": 1743577101,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 43564,
       "num": 43564,
       "word": "东部战区今天对台演练为何公布代号",
@@ -585,14 +777,6 @@
       "onboard_time": 1743624014,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40556,
-      "num": 585550,
-      "word": "联合国点赞中国新能源发展",
-      "onboard_time": 1743604164,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37245,
@@ -633,6 +817,22 @@
       "onboard_time": 1743614056,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 27766,
+      "num": 220537,
+      "word": "Switch2日版2400元",
+      "onboard_time": 1743632056,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 27544,
+      "num": 110429,
+      "word": "郑秀晶宋仲基同框",
+      "onboard_time": 1743644962,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 26278,
@@ -689,14 +889,6 @@
       "onboard_time": 1743629654,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18967,
-      "num": 26826,
-      "word": "Switch2日版2400元",
-      "onboard_time": 1743632056,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 18858,

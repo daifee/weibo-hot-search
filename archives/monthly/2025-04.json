@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743637006394,
+  "endTime": 1743645023014,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1921906,
-      "num": 340112,
+      "num": 341214,
       "word": "孟子坤 家暴",
       "onboard_time": 1743606385,
       "rank": 15,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1685128,
-      "num": 333200,
+      "num": 351638,
       "word": "曝王玉雯杨玏已分手",
       "onboard_time": 1743603685,
       "rank": 11,
@@ -259,6 +259,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1415002,
+      "num": 1415002,
+      "word": "特朗普宣布国家紧急状态",
+      "onboard_time": 1743636020,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1394052,
       "num": 450475,
       "word": "宁德时代称小米SU7用的不是其电池",
@@ -297,14 +305,6 @@
       "onboard_time": 1743572902,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1346923,
-      "num": 1346923,
-      "word": "特朗普宣布国家紧急状态",
-      "onboard_time": 1743636020,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1342089,
@@ -393,6 +393,14 @@
       "onboard_time": 1743590303,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1171568,
+      "num": 1171568,
+      "word": "黄金",
+      "onboard_time": 1743480204,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 1163740,
@@ -1003,6 +1011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 568057,
+      "num": 348627,
+      "word": "小狗coco去世",
+      "onboard_time": 1743639503,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 563320,
       "num": 563320,
       "word": "常州惊现200平1.5万元纸豪宅",
@@ -1403,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 396163,
+      "num": 396163,
+      "word": "甲亢哥空着脖子来挂着辣椒走了",
+      "onboard_time": 1743640763,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 395899,
       "num": 395899,
       "word": "心疼小白熊",
@@ -1537,6 +1561,14 @@
       "onboard_time": 1743441017,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 361521,
+      "num": 361521,
+      "word": "白宫回应马斯克辞职",
+      "onboard_time": 1743641363,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 359334,
@@ -1675,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335195,
+      "num": 335195,
+      "word": "既是节气又是节日只有清明",
+      "onboard_time": 1743636802,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334731,
       "num": 334731,
       "word": "周雨说孙颖莎影响力太大了",
@@ -1707,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328978,
+      "num": 328978,
+      "word": "美对贸易伙伴设10%最低基准关税",
+      "onboard_time": 1743642802,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 328825,
       "num": 328825,
       "word": "优时颜 张康乐马柏全",
@@ -1721,6 +1769,14 @@
       "onboard_time": 1743562703,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 324284,
+      "num": 324284,
+      "word": "老人因缺水一辈子只洗3次脸",
+      "onboard_time": 1743638062,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 324205,
@@ -1753,6 +1809,14 @@
       "onboard_time": 1743563421,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321245,
+      "num": 321245,
+      "word": "罗志祥宣传张艺兴新片",
+      "onboard_time": 1743637820,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 318273,
@@ -1825,6 +1889,14 @@
       "onboard_time": 1743519746,
       "rank": 27,
       "category": "辟谣/通报,汽车"
+    },
+    {
+      "raw_hot": 306324,
+      "num": 324535,
+      "word": "以美之名 干啥呢王一博来了",
+      "onboard_time": 1743642202,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 306174,
@@ -1937,6 +2009,14 @@
       "onboard_time": 1743568282,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 292268,
+      "num": 292268,
+      "word": "胡歌老婆是他前助理",
+      "onboard_time": 1743643641,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 291582,
@@ -2161,14 +2241,6 @@
       "onboard_time": 1743582623,
       "rank": 36,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 264338,
-      "num": 264338,
-      "word": "黄金",
-      "onboard_time": 1743480204,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 264050,
@@ -2843,6 +2915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206337,
+      "num": 206337,
+      "word": "金价再起飞",
+      "onboard_time": 1743640043,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 205973,
       "num": 205973,
       "word": "愚人节站姐发的肖战",
@@ -3203,6 +3283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194806,
+      "num": 194806,
+      "word": "74岁老戏骨狱中求婚与女友相差36岁",
+      "onboard_time": 1743639442,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193984,
       "num": 152375,
       "word": "雁回时 双洁党",
@@ -3284,7 +3372,7 @@
     },
     {
       "raw_hot": 192039,
-      "num": 192039,
+      "num": 346074,
       "word": "A股",
       "onboard_time": 1743577101,
       "rank": 37,
@@ -3795,6 +3883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173063,
+      "num": 173063,
+      "word": "研究生不语只是一味的共鸣",
+      "onboard_time": 1743639082,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172942,
       "num": 172942,
       "word": "东部战区组织海峡雷霆2025A演练",
@@ -4163,6 +4259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156033,
+      "num": 156033,
+      "word": "俄军1轰炸机坠毁1名飞行员死亡",
+      "onboard_time": 1743644362,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155919,
       "num": 381221,
       "word": "坚持零容忍让卫生巾真正卫生起来",
@@ -4241,6 +4345,14 @@
       "onboard_time": 1743500062,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153333,
+      "num": 153333,
+      "word": "俄罗斯不在美国对等关税名单",
+      "onboard_time": 1743639742,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 153229,
@@ -4531,6 +4643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143816,
+      "num": 143816,
+      "word": "公孙离fmvp皮肤",
+      "onboard_time": 1743640343,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143659,
       "num": 143659,
       "word": "宋亚轩15岁少年直拍",
@@ -4665,6 +4785,14 @@
       "onboard_time": 1743489384,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139579,
+      "num": 211023,
+      "word": "黄轩宋仲基同框",
+      "onboard_time": 1743642623,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139223,
@@ -4921,6 +5049,14 @@
       "onboard_time": 1743575842,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 130919,
+      "num": 210923,
+      "word": "戚薇郑秀晶同框",
+      "onboard_time": 1743641183,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130885,
@@ -5499,12 +5635,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110487,
+      "num": 110487,
+      "word": "缅甸地震已致3003死4515伤",
+      "onboard_time": 1743642142,
+      "rank": 39,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 110418,
       "num": 366869,
       "word": "韩国民请愿出台金秀贤防治法",
       "onboard_time": 1743574942,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110378,
+      "num": 110378,
+      "word": "小猫把小狗脑袋扶正了",
+      "onboard_time": 1743639982,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 109194,
@@ -5593,6 +5745,14 @@
       "onboard_time": 1743496284,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103157,
+      "num": 103868,
+      "word": "乘风2025四公分组",
+      "onboard_time": 1743644899,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 102577,
@@ -5963,14 +6123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80195,
-      "num": 80195,
-      "word": "既是节气又是节日只有清明",
-      "onboard_time": 1743636802,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80112,
       "num": 134481,
       "word": "甲亢哥成都行直播",
@@ -6000,6 +6152,14 @@
       "word": "4层及以上住宅设电梯",
       "onboard_time": 1743423865,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75436,
+      "num": 344200,
+      "word": "最像周五的周四",
+      "onboard_time": 1743643880,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -6105,6 +6265,14 @@
       "onboard_time": 1743518487,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 71721,
+      "num": 220536,
+      "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+      "onboard_time": 1743644780,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 70980,
@@ -7075,6 +7243,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 27766,
+      "num": 220537,
+      "word": "Switch2日版2400元",
+      "onboard_time": 1743632056,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 27544,
+      "num": 110429,
+      "word": "郑秀晶宋仲基同框",
+      "onboard_time": 1743644962,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 26278,
       "num": 62556,
       "word": "正告台独势力",
@@ -7241,14 +7425,6 @@
       "onboard_time": 1743629654,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18967,
-      "num": 26826,
-      "word": "Switch2日版2400元",
-      "onboard_time": 1743632056,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 18858,
