@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743712016153,
+  "endTime": 1743712804008,
   "band_list": [
     {
       "raw_hot": 1569796,
@@ -435,8 +435,8 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 62114,
-      "num": 62943,
+      "raw_hot": 65128,
+      "num": 65128,
       "word": "一人一句缅怀先烈",
       "onboard_time": 1743702797,
       "rank": 48,
@@ -515,16 +515,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14270,
-      "num": 14270,
+      "raw_hot": 15111,
+      "num": 15111,
       "word": "官方通报出逃黑熊已找到",
       "onboard_time": 1743710414,
       "rank": 47,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12628,
-      "num": 14270,
+      "raw_hot": 13144,
+      "num": 14536,
       "word": "朝雪录井底埋尸单元预告",
       "onboard_time": 1743710954,
       "rank": 49,
