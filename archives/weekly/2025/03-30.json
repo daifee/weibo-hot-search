@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743720015629,
+  "endTime": 1743722689214,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1899,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622652,
+      "num": 622652,
+      "word": "中国第一胖718.8斤刷新纪录",
+      "onboard_time": 1743700037,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 615841,
       "num": 350245,
       "word": "德国女孩被印度免费导游设局强奸",
@@ -2456,14 +2464,6 @@
       "word": "北京骑手回应缴五险一金后月收入",
       "onboard_time": 1743486742,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 526368,
-      "num": 526368,
-      "word": "中国第一胖718.8斤刷新纪录",
-      "onboard_time": 1743700037,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -4091,6 +4091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 327869,
+      "num": 327869,
+      "word": "RedVelvet 解散",
+      "onboard_time": 1743721997,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327288,
       "num": 327288,
       "word": "倪妮瑞士被偶遇",
@@ -4889,6 +4897,14 @@
       "onboard_time": 1743252923,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 278966,
+      "num": 278966,
+      "word": "国际金价高位跳水了",
+      "onboard_time": 1743703576,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 278555,
@@ -5753,6 +5769,14 @@
       "onboard_time": 1743502043,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230184,
+      "num": 230184,
+      "word": "哪吒",
+      "onboard_time": 1743713114,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 229370,
@@ -7683,14 +7707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184751,
-      "num": 184751,
-      "word": "国际金价高位跳水了",
-      "onboard_time": 1743703576,
-      "rank": 10,
-      "category": "财经"
-    },
-    {
       "raw_hot": 184690,
       "num": 228154,
       "word": "张杰发博庆祝破纪录",
@@ -7945,6 +7961,14 @@
       "onboard_time": 1743510503,
       "rank": 36,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 180506,
+      "num": 180506,
+      "word": "清明节",
+      "onboard_time": 1743722358,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180389,
@@ -8707,14 +8731,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 165811,
-      "num": 165811,
-      "word": "哪吒",
-      "onboard_time": 1743713114,
-      "rank": 1,
-      "category": "电影"
-    },
-    {
       "raw_hot": 165744,
       "num": 165744,
       "word": "半熟恋人",
@@ -9089,6 +9105,14 @@
       "onboard_time": 1743485663,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159540,
+      "num": 159540,
+      "word": "永远记住你",
+      "onboard_time": 1743702735,
+      "rank": 45,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 159368,
@@ -11619,14 +11643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125057,
-      "num": 125057,
-      "word": "永远记住你",
-      "onboard_time": 1743702735,
-      "rank": 45,
-      "category": "国内时政,民生新闻"
-    },
-    {
       "raw_hot": 124831,
       "num": 124831,
       "word": "湖南一男子花4元中了1242万元",
@@ -11884,7 +11900,7 @@
     },
     {
       "raw_hot": 121392,
-      "num": 98239,
+      "num": 114873,
       "word": "韩国紧急戒严风波123天",
       "onboard_time": 1743715875,
       "rank": 47,
@@ -13475,6 +13491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93149,
+      "num": 93149,
+      "word": "郑钦文晋级查尔斯顿赛八强",
+      "onboard_time": 1743722298,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93102,
       "num": 270501,
       "word": "日本知名餐饮连锁接连发现老鼠蟑螂",
@@ -13907,6 +13931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83917,
+      "num": 83917,
+      "word": "柳智敏角膜撕裂",
+      "onboard_time": 1743721877,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83687,
       "num": 91685,
       "word": "那就给大家重新介绍下PS5吧",
@@ -14067,6 +14099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 76344,
+      "num": 76344,
+      "word": "马航MH370搜救预计年底重启",
+      "onboard_time": 1743703096,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 76100,
       "num": 79895,
       "word": "宋亚轩刘耀文冷战过",
@@ -14113,6 +14153,14 @@
       "onboard_time": 1743318021,
       "rank": 18,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 75250,
+      "num": 84535,
+      "word": "特朗普关税乱拳开打",
+      "onboard_time": 1743717975,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74879,
@@ -14395,12 +14443,12 @@
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 68364,
-      "num": 68364,
-      "word": "马航MH370搜救预计年底重启",
-      "onboard_time": 1743703096,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 67948,
+      "num": 77231,
+      "word": "YERI泡泡发文",
+      "onboard_time": 1743722118,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 67757,
@@ -14627,6 +14675,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 63237,
+      "num": 63237,
+      "word": "重庆一交通事故致7死1伤",
+      "onboard_time": 1743715394,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63063,
       "num": 139696,
       "word": "东部战区参演兵力全向出动",
@@ -14825,6 +14881,14 @@
       "onboard_time": 1743613338,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 58526,
+      "num": 58526,
+      "word": "粉丝递来粽子甲亢哥连粽叶都吃",
+      "onboard_time": 1743720196,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 57898,
@@ -15115,6 +15179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51488,
+      "num": 51488,
+      "word": "又到清明我还是很想你",
+      "onboard_time": 1743721877,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51268,
       "num": 51268,
       "word": "白敬亭直播",
@@ -15148,7 +15220,7 @@
     },
     {
       "raw_hot": 50313,
-      "num": 43984,
+      "num": 44889,
       "word": "U17亚洲杯",
       "onboard_time": 1743705855,
       "rank": 22,
@@ -15192,14 +15264,6 @@
       "word": "美国高官工作中能捅多大篓子",
       "onboard_time": 1743609501,
       "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 48999,
-      "num": 84535,
-      "word": "特朗普关税乱拳开打",
-      "onboard_time": 1743717975,
-      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -15331,12 +15395,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45880,
+      "num": 45880,
+      "word": "唐嫣哄娃",
+      "onboard_time": 1743706395,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45577,
       "num": 227550,
       "word": "室友电动车燃爆烧伤大学生案新进展",
       "onboard_time": 1743431183,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45534,
+      "num": 45534,
+      "word": "邓超5G冲浪实锤了",
+      "onboard_time": 1743701896,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 45265,
@@ -15393,14 +15473,6 @@
       "onboard_time": 1743463639,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44235,
-      "num": 44235,
-      "word": "邓超5G冲浪实锤了",
-      "onboard_time": 1743701896,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 43840,
@@ -15600,14 +15672,6 @@
       "word": "抢婴案嫌犯家距受害者家步行仅3分钟",
       "onboard_time": 1743580644,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39081,
-      "num": 39081,
-      "word": "重庆一交通事故致7死1伤",
-      "onboard_time": 1743715394,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -15883,6 +15947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33453,
+      "num": 44826,
+      "word": "英国拟对美超8000类商品征税",
+      "onboard_time": 1743701836,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33382,
       "num": 404454,
       "word": "替台独卖命可耻",
@@ -16155,14 +16227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29046,
-      "num": 29046,
-      "word": "英国拟对美超8000类商品征税",
-      "onboard_time": 1743701836,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28936,
       "num": 108051,
       "word": "缅甸华商称救援只能徒手挖废墟",
@@ -16257,14 +16321,6 @@
       "onboard_time": 1743632056,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26940,
-      "num": 26940,
-      "word": "唐嫣哄娃",
-      "onboard_time": 1743706395,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 26693,
@@ -16593,6 +16649,14 @@
       "onboard_time": 1743571763,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20929,
+      "num": 117953,
+      "word": "美一波音客机在空中着火",
+      "onboard_time": 1743722358,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 20673,
