@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743675966126,
+  "endTime": 1743677025462,
   "band_list": [
     {
       "raw_hot": 4382418,
@@ -23,6 +23,14 @@
       "num": 1114768,
       "word": "提醒甲亢哥不文明行为的女生回应了",
       "onboard_time": 1743650542,
+      "rank": 1,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 2145932,
+      "num": 954140,
+      "word": "千万网红刀小刀被查",
+      "onboard_time": 1743674721,
       "rank": 1,
       "category": "民生新闻,网红"
     },
@@ -89,14 +97,6 @@
       "onboard_time": 1743636020,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1269210,
-      "num": 885776,
-      "word": "千万网红刀小刀被查",
-      "onboard_time": 1743674721,
-      "rank": 1,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1238367,
@@ -297,6 +297,14 @@
       "onboard_time": 1743592222,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 615841,
+      "num": 217069,
+      "word": "德国女孩被印度免费导游设局强奸",
+      "onboard_time": 1743674662,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 613907,
@@ -545,14 +553,6 @@
       "onboard_time": 1743673881,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 425928,
-      "num": 217069,
-      "word": "德国女孩被印度免费导游设局强奸",
-      "onboard_time": 1743674662,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 424774,
@@ -835,6 +835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 299000,
+      "num": 200176,
+      "word": "给老婆保管工资离婚后要索回全部",
+      "onboard_time": 1743675020,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297623,
       "num": 297623,
       "word": "原来凤凰传奇只有一个人会骑马",
@@ -857,6 +865,14 @@
       "onboard_time": 1743667641,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293672,
+      "num": 293672,
+      "word": "陈都灵 妈妈的保镖来啦",
+      "onboard_time": 1743674242,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 286972,
@@ -907,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250191,
+      "num": 250191,
+      "word": "红发GISELLE",
+      "onboard_time": 1743675441,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 248566,
       "num": 236231,
       "word": "全国文旅喊话李现来打鸟",
@@ -947,14 +971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 225996,
-      "num": 225996,
-      "word": "陈都灵 妈妈的保镖来啦",
-      "onboard_time": 1743674242,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220864,
       "num": 291262,
       "word": "颜安柯淳 安淳蛋",
@@ -977,14 +993,6 @@
       "onboard_time": 1743603623,
       "rank": 20,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 215462,
-      "num": 215462,
-      "word": "红发GISELLE",
-      "onboard_time": 1743675441,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 213727,
@@ -1043,12 +1051,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200176,
-      "num": 200176,
-      "word": "给老婆保管工资离婚后要索回全部",
-      "onboard_time": 1743675020,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 201464,
+      "num": 201464,
+      "word": "iPhone17Pro最强长焦",
+      "onboard_time": 1743674782,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 195721,
@@ -1065,6 +1073,14 @@
       "onboard_time": 1743639442,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193651,
+      "num": 193651,
+      "word": "鞠婧祎小号安慰粉丝",
+      "onboard_time": 1743675864,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 193514,
@@ -1171,6 +1187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177424,
+      "num": 165337,
+      "word": "滴滴崩了",
+      "onboard_time": 1743674182,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 176319,
       "num": 176319,
       "word": "守护甜心几斗亲了亚梦",
@@ -1259,28 +1283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166708,
-      "num": 166708,
-      "word": "iPhone17Pro最强长焦",
-      "onboard_time": 1743674782,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 165378,
       "num": 165378,
       "word": "徐志胜一番大男主",
       "onboard_time": 1743660383,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165337,
-      "num": 165337,
-      "word": "滴滴崩了",
-      "onboard_time": 1743674182,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 164370,
@@ -1297,6 +1305,14 @@
       "onboard_time": 1743670341,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162379,
+      "num": 218284,
+      "word": "拼多多宣布投1000亿扶持商家",
+      "onboard_time": 1743674782,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 161229,
@@ -1339,6 +1355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 155688,
+      "num": 155688,
+      "word": "金智媛唱跳我们家",
+      "onboard_time": 1743676221,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155004,
       "num": 155004,
       "word": "国产剧破案题材女主只打高端局",
@@ -1356,7 +1380,7 @@
     },
     {
       "raw_hot": 153789,
-      "num": 153789,
+      "num": 207094,
       "word": "泰国公主诗琳通访华",
       "onboard_time": 1743669381,
       "rank": 48,
@@ -1465,6 +1489,14 @@
       "onboard_time": 1743675142,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145416,
+      "num": 183675,
+      "word": "暖阳两个号都买了一诺的皮肤",
+      "onboard_time": 1743675683,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 145322,
@@ -1643,14 +1675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130547,
-      "num": 218284,
-      "word": "拼多多宣布投1000亿扶持商家",
-      "onboard_time": 1743674782,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 129444,
       "num": 143068,
       "word": "蔚来智驾强行变道致后车追尾",
@@ -1739,14 +1763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 122873,
-      "num": 122873,
-      "word": "鞠婧祎小号安慰粉丝",
-      "onboard_time": 1743675864,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122120,
       "num": 122120,
       "word": "孤独症男孩因高颜值走红妈妈发声",
@@ -1769,14 +1785,6 @@
       "onboard_time": 1743590303,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120239,
-      "num": 120239,
-      "word": "暖阳两个号都买了一诺的皮肤",
-      "onboard_time": 1743675683,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 119542,
@@ -1841,6 +1849,14 @@
       "onboard_time": 1743650002,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111054,
+      "num": 111054,
+      "word": "金钟仁新歌MV",
+      "onboard_time": 1743676642,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 110828,
@@ -1947,6 +1963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102394,
+      "num": 372763,
+      "word": "这位国务卿先生为什么睁眼说瞎话",
+      "onboard_time": 1743669621,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100726,
       "num": 100726,
       "word": "战机与台湾中央山脉同框",
@@ -1977,6 +2001,22 @@
       "onboard_time": 1743597683,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96524,
+      "num": 96524,
+      "word": "不是前任是前途工具人",
+      "onboard_time": 1743677000,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 94689,
+      "num": 94689,
+      "word": "孙俪乌云之上哭破音了",
+      "onboard_time": 1743676762,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 94114,
@@ -2067,6 +2107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 83687,
+      "num": 91685,
+      "word": "那就给大家重新介绍下PS5吧",
+      "onboard_time": 1743676642,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79096,
       "num": 79096,
       "word": "减肥建议不要长期跳绳",
@@ -2115,12 +2163,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 68461,
-      "num": 372763,
-      "word": "这位国务卿先生为什么睁眼说瞎话",
-      "onboard_time": 1743669621,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 69973,
+      "num": 165501,
+      "word": "多地新政要求顺风车不以营利为目的",
+      "onboard_time": 1743675381,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67919,
@@ -2185,6 +2233,14 @@
       "onboard_time": 1743604164,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 63686,
+      "num": 146868,
+      "word": "清明当天不能洗头没有科学依据",
+      "onboard_time": 1743676102,
+      "rank": 28,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 63024,
@@ -2347,14 +2403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40064,
-      "num": 165501,
-      "word": "多地新政要求顺风车不以营利为目的",
-      "onboard_time": 1743675381,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38641,
       "num": 179212,
       "word": "任天堂股价跌了",
@@ -2481,6 +2529,14 @@
       "onboard_time": 1743615856,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25576,
+      "num": 198561,
+      "word": "饮酒后被撞身亡共饮者是否该担责",
+      "onboard_time": 1743676221,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24502,

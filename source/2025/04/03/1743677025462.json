@@ -1,0 +1,410 @@
+{
+  "runTime": 1743677025462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 101401,
+        "num": 1016224,
+        "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+        "onboard_time": 1743644780,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2145932,
+        "num": 954140,
+        "word": "千万网红刀小刀被查",
+        "onboard_time": 1743674721,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 23055,
+        "num": 766051,
+        "word": "青春华章恰同学少年",
+        "onboard_time": 1743672323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 686814,
+        "num": 686814,
+        "word": "张家界邀请苦尽柑来遇见你剧组",
+        "onboard_time": 1743672501,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427081,
+        "num": 427081,
+        "word": "江泽民故居面向社会公众开放",
+        "onboard_time": 1743672564,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409893,
+        "num": 409893,
+        "word": "金店员工称黄金一天一个价看傻了",
+        "onboard_time": 1743673881,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388852,
+        "num": 388852,
+        "word": "黄霄雲方再回应翻唱争议",
+        "onboard_time": 1743670762,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325369,
+        "num": 325369,
+        "word": "清明节其实融合了三个节",
+        "onboard_time": 1743663381,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310016,
+        "num": 310016,
+        "word": "杨幂赵又廷 二搭",
+        "onboard_time": 1743661823,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293672,
+        "num": 293672,
+        "word": "陈都灵 妈妈的保镖来啦",
+        "onboard_time": 1743674242,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390929,
+        "num": 291393,
+        "word": "门童台湾",
+        "onboard_time": 1743656542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365834,
+        "num": 279029,
+        "word": "甜馨否认签约乐华",
+        "onboard_time": 1743670042,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316746,
+        "num": 264215,
+        "word": "刘维伟出轨",
+        "onboard_time": 1743650963,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315313,
+        "num": 258251,
+        "word": "今年来已有多名艺人宣布退圈",
+        "onboard_time": 1743664342,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250191,
+        "num": 250191,
+        "word": "红发GISELLE",
+        "onboard_time": 1743675441,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231975,
+        "num": 231975,
+        "word": "金子涵微博已全部清空",
+        "onboard_time": 1743647601,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42628,
+        "num": 207094,
+        "word": "泰国公主诗琳通访华",
+        "onboard_time": 1743669381,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201464,
+        "num": 201464,
+        "word": "iPhone17Pro最强长焦",
+        "onboard_time": 1743674782,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162379,
+        "num": 200463,
+        "word": "拼多多宣布投1000亿扶持商家",
+        "onboard_time": 1743674782,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25576,
+        "num": 198561,
+        "word": "饮酒后被撞身亡共饮者是否该担责",
+        "onboard_time": 1743676221,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615841,
+        "num": 197426,
+        "word": "德国女孩被印度免费导游设局强奸",
+        "onboard_time": 1743674662,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 358273,
+        "num": 194342,
+        "word": "27岁男子当了27年黑户",
+        "onboard_time": 1743671063,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193651,
+        "num": 193651,
+        "word": "鞠婧祎小号安慰粉丝",
+        "onboard_time": 1743675864,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299000,
+        "num": 189649,
+        "word": "给老婆保管工资离婚后要索回全部",
+        "onboard_time": 1743675020,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145416,
+        "num": 183675,
+        "word": "暖阳两个号都买了一诺的皮肤",
+        "onboard_time": 1743675683,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183381,
+        "num": 183381,
+        "word": "阿诺一胎早产董力又哭又笑",
+        "onboard_time": 1743664041,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183023,
+        "num": 183023,
+        "word": "朝雪录 敖瑞鹏",
+        "onboard_time": 1743668541,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155688,
+        "num": 155688,
+        "word": "金智媛唱跳我们家",
+        "onboard_time": 1743676221,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 63686,
+        "num": 146868,
+        "word": "清明当天不能洗头没有科学依据",
+        "onboard_time": 1743676102,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 69973,
+        "num": 145897,
+        "word": "多地新政要求顺风车不以营利为目的",
+        "onboard_time": 1743675381,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177424,
+        "num": 145895,
+        "word": "滴滴崩了",
+        "onboard_time": 1743674182,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145198,
+        "num": 145198,
+        "word": "蒋一侨回应内娱真千金title",
+        "onboard_time": 1743675142,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144284,
+        "num": 144284,
+        "word": "孟子坤回应",
+        "onboard_time": 1743635659,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140990,
+        "num": 140990,
+        "word": "提醒甲亢哥不文明行为的女生回应了",
+        "onboard_time": 1743650542,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115685,
+        "num": 115685,
+        "word": "王安宇像剥了皮的荔枝",
+        "onboard_time": 1743671422,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113607,
+        "num": 113607,
+        "word": "男子被关精神病院出院后查出没患病",
+        "onboard_time": 1743663802,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111054,
+        "num": 111054,
+        "word": "金钟仁新歌MV",
+        "onboard_time": 1743676642,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110718,
+        "num": 110718,
+        "word": "金秀贤方晒real分镜脚本",
+        "onboard_time": 1743659122,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 108949,
+        "num": 108949,
+        "word": "还有什么是虞书欣不会的",
+        "onboard_time": 1743673341,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107486,
+        "num": 107486,
+        "word": "孙俪单手倒车入库",
+        "onboard_time": 1743653723,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102394,
+        "num": 102394,
+        "word": "这位国务卿先生为什么睁眼说瞎话",
+        "onboard_time": 1743669621,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99505,
+        "num": 99505,
+        "word": "国产剧破案题材女主只打高端局",
+        "onboard_time": 1743675201,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97428,
+        "num": 97428,
+        "word": "浪姐被低估的神级舞台",
+        "onboard_time": 1743670341,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97106,
+        "num": 97106,
+        "word": "肖战说张艺兴不说话的爱值得被更多人看见",
+        "onboard_time": 1743658463,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96524,
+        "num": 96524,
+        "word": "不是前任是前途工具人",
+        "onboard_time": 1743677000,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95020,
+        "num": 95020,
+        "word": "鞠婧祎月鳞绮纪杀青",
+        "onboard_time": 1743675081,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268580,
+        "num": 95011,
+        "word": "成都一地被曝发现大量流浪猫",
+        "onboard_time": 1743667282,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94689,
+        "num": 94689,
+        "word": "孙俪乌云之上哭破音了",
+        "onboard_time": 1743676762,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92355,
+        "num": 92355,
+        "word": "日本首相对美加征关税非常失望",
+        "onboard_time": 1743673941,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83687,
+        "num": 91685,
+        "word": "那就给大家重新介绍下PS5吧",
+        "onboard_time": 1743676642,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

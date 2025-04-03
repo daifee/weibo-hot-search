@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743675966126,
+  "endTime": 1743677025462,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -193,6 +193,14 @@
       "onboard_time": 1743438619,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2145932,
+      "num": 954140,
+      "word": "千万网红刀小刀被查",
+      "onboard_time": 1743674721,
+      "rank": 1,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 2091013,
@@ -641,14 +649,6 @@
       "onboard_time": 1743595885,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1269210,
-      "num": 885776,
-      "word": "千万网红刀小刀被查",
-      "onboard_time": 1743674721,
-      "rank": 1,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1258284,
@@ -1803,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 615841,
+      "num": 217069,
+      "word": "德国女孩被印度免费导游设局强奸",
+      "onboard_time": 1743674662,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 613907,
       "num": 432459,
       "word": "温如也向周雨彤道歉",
@@ -2881,14 +2889,6 @@
       "onboard_time": 1743293299,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 425928,
-      "num": 217069,
-      "word": "德国女孩被印度免费导游设局强奸",
-      "onboard_time": 1743674662,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 424774,
@@ -4187,6 +4187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299000,
+      "num": 200176,
+      "word": "给老婆保管工资离婚后要索回全部",
+      "onboard_time": 1743675020,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298045,
       "num": 253955,
       "word": "马丽拿刘耀文当亲儿子",
@@ -4289,6 +4297,14 @@
       "onboard_time": 1743479303,
       "rank": 30,
       "category": "互联网,艺人"
+    },
+    {
+      "raw_hot": 293672,
+      "num": 293672,
+      "word": "陈都灵 妈妈的保镖来啦",
+      "onboard_time": 1743674242,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 292637,
@@ -4963,6 +4979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250191,
+      "num": 250191,
+      "word": "红发GISELLE",
+      "onboard_time": 1743675441,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249942,
       "num": 235736,
       "word": "宋妍霏下腰",
@@ -5435,14 +5459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225996,
-      "num": 225996,
-      "word": "陈都灵 妈妈的保镖来啦",
-      "onboard_time": 1743674242,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 225960,
       "num": 225960,
       "word": "PH试纸碰他一下就变黑了 太碱了",
@@ -5641,14 +5657,6 @@
       "onboard_time": 1743464300,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 215462,
-      "num": 215462,
-      "word": "红发GISELLE",
-      "onboard_time": 1743675441,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 215210,
@@ -6283,6 +6291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 201464,
+      "num": 201464,
+      "word": "iPhone17Pro最强长焦",
+      "onboard_time": 1743674782,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 201004,
       "num": 232935,
       "word": "檀健次官宣加盟北影节",
@@ -6336,14 +6352,6 @@
       "word": "拖4年没交房销售称要先买地下室",
       "onboard_time": 1743515605,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200176,
-      "num": 200176,
-      "word": "给老婆保管工资离婚后要索回全部",
-      "onboard_time": 1743675020,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -6713,6 +6721,14 @@
       "onboard_time": 1743562881,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193651,
+      "num": 193651,
+      "word": "鞠婧祎小号安慰粉丝",
+      "onboard_time": 1743675864,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 193607,
@@ -7579,6 +7595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177424,
+      "num": 165337,
+      "word": "滴滴崩了",
+      "onboard_time": 1743674182,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 177036,
       "num": 221084,
       "word": "王安冉孕期被婆婆多次辱骂",
@@ -8091,14 +8115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166708,
-      "num": 166708,
-      "word": "iPhone17Pro最强长焦",
-      "onboard_time": 1743674782,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 166310,
       "num": 144886,
       "word": "佳霏猫",
@@ -8177,14 +8193,6 @@
       "onboard_time": 1743660383,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165337,
-      "num": 165337,
-      "word": "滴滴崩了",
-      "onboard_time": 1743674182,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 165022,
@@ -8321,6 +8329,14 @@
       "onboard_time": 1743512003,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162379,
+      "num": 218284,
+      "word": "拼多多宣布投1000亿扶持商家",
+      "onboard_time": 1743674782,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 161930,
@@ -8699,6 +8715,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 155688,
+      "num": 155688,
+      "word": "金智媛唱跳我们家",
+      "onboard_time": 1743676221,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155419,
       "num": 236667,
       "word": "甲亢哥直播打破外网的单向认知",
@@ -8844,7 +8868,7 @@
     },
     {
       "raw_hot": 153789,
-      "num": 153789,
+      "num": 207094,
       "word": "泰国公主诗琳通访华",
       "onboard_time": 1743669381,
       "rank": 48,
@@ -9441,6 +9465,14 @@
       "onboard_time": 1743400822,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 145416,
+      "num": 183675,
+      "word": "暖阳两个号都买了一诺的皮肤",
+      "onboard_time": 1743675683,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 145322,
@@ -10531,14 +10563,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130547,
-      "num": 218284,
-      "word": "拼多多宣布投1000亿扶持商家",
-      "onboard_time": 1743674782,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 130390,
       "num": 176653,
       "word": "吉利银河3月销量暴增290%",
@@ -11003,14 +11027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122873,
-      "num": 122873,
-      "word": "鞠婧祎小号安慰粉丝",
-      "onboard_time": 1743675864,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122755,
       "num": 145538,
       "word": "黄霄雲方回应翻唱争议",
@@ -11217,14 +11233,6 @@
       "onboard_time": 1743584903,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 120239,
-      "num": 120239,
-      "word": "暖阳两个号都买了一诺的皮肤",
-      "onboard_time": 1743675683,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 120235,
@@ -11787,6 +11795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 111054,
+      "num": 111054,
+      "word": "金钟仁新歌MV",
+      "onboard_time": 1743676642,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 111021,
       "num": 111021,
       "word": "金秀贤仅宣读立场声明",
@@ -12235,6 +12251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102394,
+      "num": 372763,
+      "word": "这位国务卿先生为什么睁眼说瞎话",
+      "onboard_time": 1743669621,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102359,
       "num": 105564,
       "word": "尤长靖最后那个回音太顶了",
@@ -12491,6 +12515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 96524,
+      "num": 96524,
+      "word": "不是前任是前途工具人",
+      "onboard_time": 1743677000,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96435,
       "num": 96435,
       "word": "杨博文站姐发了TFBOYS",
@@ -12545,6 +12577,14 @@
       "onboard_time": 1743329540,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 94689,
+      "num": 94689,
+      "word": "孙俪乌云之上哭破音了",
+      "onboard_time": 1743676762,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 94440,
@@ -12963,6 +13003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83687,
+      "num": 91685,
+      "word": "那就给大家重新介绍下PS5吧",
+      "onboard_time": 1743676642,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 83049,
       "num": 188761,
       "word": "于洋退役仪式",
@@ -13331,6 +13379,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 69973,
+      "num": 165501,
+      "word": "多地新政要求顺风车不以营利为目的",
+      "onboard_time": 1743675381,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69952,
       "num": 278560,
       "word": "街道办强拆试剂厂被判赔506万后续",
@@ -13385,14 +13441,6 @@
       "onboard_time": 1743498984,
       "rank": 13,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 68461,
-      "num": 372763,
-      "word": "这位国务卿先生为什么睁眼说瞎话",
-      "onboard_time": 1743669621,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 67757,
@@ -13593,6 +13641,14 @@
       "onboard_time": 1743494963,
       "rank": 39,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 63686,
+      "num": 146868,
+      "word": "清明当天不能洗头没有科学依据",
+      "onboard_time": 1743676102,
+      "rank": 28,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 63426,
@@ -14499,14 +14555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40064,
-      "num": 165501,
-      "word": "多地新政要求顺风车不以营利为目的",
-      "onboard_time": 1743675381,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39522,
       "num": 156662,
       "word": "抢婴案嫌犯家距受害者家步行仅3分钟",
@@ -15161,6 +15209,14 @@
       "onboard_time": 1743317840,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25576,
+      "num": 198561,
+      "word": "饮酒后被撞身亡共饮者是否该担责",
+      "onboard_time": 1743676221,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25572,
