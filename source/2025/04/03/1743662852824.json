@@ -1,0 +1,410 @@
+{
+  "runTime": 1743662852824,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 287911,
+        "num": 1046065,
+        "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+        "onboard_time": 1743644780,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1746638,
+        "num": 999752,
+        "word": "戚薇 确认过了是亲生的",
+        "onboard_time": 1743660203,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74496,
+        "num": 921513,
+        "word": "一组图教你怎么把花拍好看",
+        "onboard_time": 1743654323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 860340,
+        "num": 860340,
+        "word": "提醒甲亢哥不文明行为的女生回应了",
+        "onboard_time": 1743650542,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 436094,
+        "num": 436094,
+        "word": "金价冲向1000元",
+        "onboard_time": 1743645380,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 682118,
+        "num": 414779,
+        "word": "甜馨时隔十年再发新曲",
+        "onboard_time": 1743658042,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 644886,
+        "num": 385618,
+        "word": "杨幂赵又廷 二搭",
+        "onboard_time": 1743661823,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506969,
+        "num": 380816,
+        "word": "肖战说张艺兴不说话的爱值得被更多人看见",
+        "onboard_time": 1743658463,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 350797,
+        "num": 350797,
+        "word": "我国抓获3名菲律宾间谍",
+        "onboard_time": 1743649822,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123023,
+        "num": 350786,
+        "word": "挤满海豹的无人岛被美国加征关税",
+        "onboard_time": 1743662002,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1069142,
+        "num": 350206,
+        "word": "门童台湾",
+        "onboard_time": 1743656542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 810915,
+        "num": 349544,
+        "word": "金秀贤方晒real分镜脚本",
+        "onboard_time": 1743659122,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 776394,
+        "num": 349070,
+        "word": "刘维伟出轨",
+        "onboard_time": 1743650963,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532533,
+        "num": 348415,
+        "word": "金子涵微博已全部清空",
+        "onboard_time": 1743647601,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491855,
+        "num": 347875,
+        "word": "阿诺产后抑郁",
+        "onboard_time": 1743660922,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455733,
+        "num": 347352,
+        "word": "杨鸣",
+        "onboard_time": 1743655823,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452859,
+        "num": 347155,
+        "word": "李现手持7斤镜头拍稳每一只鸟",
+        "onboard_time": 1743656783,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434591,
+        "num": 346264,
+        "word": "白敬亭申请强制执行致歉义务",
+        "onboard_time": 1743649941,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372555,
+        "num": 345968,
+        "word": "赵天宇官宣恋情",
+        "onboard_time": 1743651202,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345743,
+        "num": 345743,
+        "word": "特朗普宣布国家紧急状态",
+        "onboard_time": 1743636020,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 364711,
+        "num": 332025,
+        "word": "哪吒2超155亿了",
+        "onboard_time": 1743656662,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311597,
+        "num": 311597,
+        "word": "老人在养老院遭粗暴对待多处骨折",
+        "onboard_time": 1743660982,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307470,
+        "num": 307470,
+        "word": "Last Dance 浪姐舞台冤案",
+        "onboard_time": 1743661582,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279687,
+        "num": 279687,
+        "word": "微信引用回复功能更新",
+        "onboard_time": 1743659181,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128249,
+        "num": 262455,
+        "word": "一诺说强的不是我是阿离",
+        "onboard_time": 1743656902,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 262173,
+        "num": 262173,
+        "word": "孟子坤前女友公布聊天记录",
+        "onboard_time": 1743654444,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258741,
+        "num": 258741,
+        "word": "刘维伟 辛莎莎",
+        "onboard_time": 1743653841,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236729,
+        "num": 253331,
+        "word": "马龙与马伊琍同框飙戏",
+        "onboard_time": 1743661582,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250758,
+        "num": 250758,
+        "word": "清明档电影预售超5000万",
+        "onboard_time": 1743660082,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220046,
+        "num": 248676,
+        "word": "肖战包场支持张艺兴",
+        "onboard_time": 1743661161,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248366,
+        "num": 248366,
+        "word": "贾乃亮换头像为甜馨新单曲打call",
+        "onboard_time": 1743660683,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247091,
+        "num": 247091,
+        "word": "不良人第七季第一刀",
+        "onboard_time": 1743662122,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 221914,
+        "num": 221914,
+        "word": "孙俪单手倒车入库",
+        "onboard_time": 1743653723,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221780,
+        "num": 221780,
+        "word": "孟子坤回应",
+        "onboard_time": 1743635659,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221301,
+        "num": 221301,
+        "word": "特朗普竟对中国征收34%对等关税",
+        "onboard_time": 1743648801,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185480,
+        "num": 185480,
+        "word": "美国经济陷入衰退概率升至40%",
+        "onboard_time": 1743654923,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177570,
+        "num": 177570,
+        "word": "多人在健身房组织卖淫最高判5年半",
+        "onboard_time": 1743647601,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221103,
+        "num": 175912,
+        "word": "孟子坤 家暴",
+        "onboard_time": 1743606385,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165378,
+        "num": 165378,
+        "word": "徐志胜一番大男主",
+        "onboard_time": 1743660383,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151839,
+        "num": 151839,
+        "word": "托运的行李箱多出条丝袜获赔4500元",
+        "onboard_time": 1743654022,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156113,
+        "num": 149476,
+        "word": "淮水竹亭",
+        "onboard_time": 1743656362,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146600,
+        "num": 146600,
+        "word": "林更新毛晓彤演我和我的犟种男友",
+        "onboard_time": 1743662241,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141294,
+        "num": 141294,
+        "word": "淮水竹亭看似4个人实到10个人",
+        "onboard_time": 1743658763,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137617,
+        "num": 137617,
+        "word": "有效存钱15年竟然能多赚60万",
+        "onboard_time": 1743650662,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131804,
+        "num": 131804,
+        "word": "哈尔滨亚冬会遭境外攻击27万次",
+        "onboard_time": 1743645141,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129830,
+        "num": 129830,
+        "word": "小猫看见家里淹水急得站了起来",
+        "onboard_time": 1743659843,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126124,
+        "num": 126124,
+        "word": "我知道祝绪丹跳舞像谁了",
+        "onboard_time": 1743654923,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124556,
+        "num": 124556,
+        "word": "特朗普声称让美国再次富有",
+        "onboard_time": 1743659242,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119210,
+        "num": 119210,
+        "word": "摆摊卖大锅卤菜月入10万靠谱吗",
+        "onboard_time": 1743660321,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117306,
+        "num": 117306,
+        "word": "义乌商家谈美国加征关税",
+        "onboard_time": 1743662303,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记缅怀英烈#"
+    }
+  }
+}
