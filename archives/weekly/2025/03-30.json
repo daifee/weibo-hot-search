@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743701958945,
+  "endTime": 1743705171939,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -14163,6 +14163,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 73110,
+      "num": 60197,
+      "word": "国际金价高位跳水了",
+      "onboard_time": 1743703576,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73105,
       "num": 281795,
       "word": "员工称拒绝店长安排后被针对",
@@ -14657,6 +14665,14 @@
       "onboard_time": 1743501204,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60312,
+      "num": 60312,
+      "word": "马航MH370搜救预计年底重启",
+      "onboard_time": 1743703096,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60311,
@@ -16163,6 +16179,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27546,
+      "num": 27546,
+      "word": "永远记住你",
+      "onboard_time": 1743702735,
+      "rank": 45,
+      "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 26764,
+      "num": 26764,
+      "word": "英国拟对美超8000类商品征税",
+      "onboard_time": 1743701836,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26693,
       "num": 249868,
       "word": "美国对等关税损人不利己",
@@ -16185,6 +16217,14 @@
       "onboard_time": 1743615856,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26215,
+      "num": 26215,
+      "word": "一人一句缅怀先烈",
+      "onboard_time": 1743702797,
+      "rank": 48,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 26012,
