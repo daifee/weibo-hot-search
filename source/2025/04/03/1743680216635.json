@@ -1,0 +1,410 @@
+{
+  "runTime": 1743680216635,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 87068,
+        "num": 1013930,
+        "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+        "onboard_time": 1743644780,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1719165,
+        "num": 972603,
+        "word": "千万网红刀小刀被查",
+        "onboard_time": 1743674721,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 23338,
+        "num": 837665,
+        "word": "青春华章恰同学少年",
+        "onboard_time": 1743672323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 726197,
+        "num": 726197,
+        "word": "TVB男演员陈键锋学厨以第一名毕业",
+        "onboard_time": 1743678080,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545834,
+        "num": 545834,
+        "word": "金店员工称黄金一天一个价看傻了",
+        "onboard_time": 1743673881,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528411,
+        "num": 528411,
+        "word": "iPhone17Pro最强长焦",
+        "onboard_time": 1743674782,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 434735,
+        "num": 434735,
+        "word": "折腰",
+        "onboard_time": 1743679281,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433963,
+        "num": 433963,
+        "word": "周深亮相外交部双语宣传短片",
+        "onboard_time": 1743678380,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396650,
+        "num": 396650,
+        "word": "杨幂赵又廷 二搭",
+        "onboard_time": 1743661823,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98495,
+        "num": 386203,
+        "word": "模型测算台湾被封锁能撑多久",
+        "onboard_time": 1743678022,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 452064,
+        "num": 384264,
+        "word": "鞠婧祎小号安慰粉丝",
+        "onboard_time": 1743675864,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381955,
+        "num": 381955,
+        "word": "门童台湾",
+        "onboard_time": 1743656542,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319039,
+        "num": 319039,
+        "word": "滴滴崩了",
+        "onboard_time": 1743674182,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 304147,
+        "num": 304147,
+        "word": "张家界邀请苦尽柑来遇见你剧组",
+        "onboard_time": 1743672501,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298194,
+        "num": 298194,
+        "word": "八点后的盒马 穷鬼天堂",
+        "onboard_time": 1743678981,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293448,
+        "num": 293448,
+        "word": "陈都灵 妈妈的保镖来啦",
+        "onboard_time": 1743674242,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285315,
+        "num": 285315,
+        "word": "清明当天不能洗头没有科学依据",
+        "onboard_time": 1743676102,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 281031,
+        "num": 281031,
+        "word": "红发GISELLE",
+        "onboard_time": 1743675441,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18254,
+        "num": 280557,
+        "word": "山寨明星产业链有多疯狂",
+        "onboard_time": 1743679761,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72613,
+        "num": 275442,
+        "word": "曝美政府禁止驻华人员与中国公民恋爱",
+        "onboard_time": 1743679641,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22830,
+        "num": 274312,
+        "word": "CT查出骨折急诊医生说没骨折",
+        "onboard_time": 1743679822,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547810,
+        "num": 271042,
+        "word": "德国女孩被印度免费导游设局强奸",
+        "onboard_time": 1743674662,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 268548,
+        "num": 268548,
+        "word": "清明节其实融合了三个节",
+        "onboard_time": 1743663381,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239726,
+        "num": 239726,
+        "word": "华晨宇西安城墙骑行直播",
+        "onboard_time": 1743677540,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238297,
+        "num": 238297,
+        "word": "甜馨否认签约乐华",
+        "onboard_time": 1743670042,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230967,
+        "num": 230967,
+        "word": "给老婆保管工资离婚后要索回全部",
+        "onboard_time": 1743675020,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218732,
+        "num": 218732,
+        "word": "江泽民故居面向社会公众开放",
+        "onboard_time": 1743672564,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206278,
+        "num": 206278,
+        "word": "十二年前的陈都灵",
+        "onboard_time": 1743678981,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201566,
+        "num": 201566,
+        "word": "夫妻吃凉拌皮蛋中毒住院6天",
+        "onboard_time": 1743677960,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173960,
+        "num": 173960,
+        "word": "黄霄雲方再回应翻唱争议",
+        "onboard_time": 1743670762,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173619,
+        "num": 173619,
+        "word": "张本智和vs林昀儒",
+        "onboard_time": 1743678922,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165354,
+        "num": 165354,
+        "word": "艰难的制造下证",
+        "onboard_time": 1743678862,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162946,
+        "num": 162946,
+        "word": "青团",
+        "onboard_time": 1743679882,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161026,
+        "num": 161026,
+        "word": "今年来已有多名艺人宣布退圈",
+        "onboard_time": 1743664342,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145468,
+        "num": 145468,
+        "word": "越南面临美方46%高额关税",
+        "onboard_time": 1743677960,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144669,
+        "num": 144669,
+        "word": "纯净水汤底22元",
+        "onboard_time": 1743678262,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143534,
+        "num": 143534,
+        "word": "金子涵微博已全部清空",
+        "onboard_time": 1743647601,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136110,
+        "num": 136110,
+        "word": "27岁男子当了27年黑户",
+        "onboard_time": 1743671063,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135006,
+        "num": 135006,
+        "word": "不可能存在方的鸡",
+        "onboard_time": 1743678801,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133490,
+        "num": 133490,
+        "word": "金智媛唱跳我们家",
+        "onboard_time": 1743676221,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328384,
+        "num": 133403,
+        "word": "刘维伟出轨",
+        "onboard_time": 1743650963,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132961,
+        "num": 132961,
+        "word": "29岁叶紫薇破格晋升教授",
+        "onboard_time": 1743677421,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126322,
+        "num": 126322,
+        "word": "井胧袁一琦唱跳楼机",
+        "onboard_time": 1743679701,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122448,
+        "num": 122448,
+        "word": "他们说我画的是卫生巾",
+        "onboard_time": 1743676701,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104092,
+        "num": 104092,
+        "word": "阿诺一胎早产董力又哭又笑",
+        "onboard_time": 1743664041,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102967,
+        "num": 102967,
+        "word": "朝雪录 敖瑞鹏",
+        "onboard_time": 1743668541,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101723,
+        "num": 101723,
+        "word": "提醒甲亢哥不文明行为的女生回应了",
+        "onboard_time": 1743650542,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 95367,
+        "num": 95367,
+        "word": "日本首相对美加征关税非常失望",
+        "onboard_time": 1743673941,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94485,
+        "num": 94485,
+        "word": "当同一个色号在冷白皮和黄黑皮上",
+        "onboard_time": 1743680121,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 93032,
+        "num": 93032,
+        "word": "念无双",
+        "onboard_time": 1743679462,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
