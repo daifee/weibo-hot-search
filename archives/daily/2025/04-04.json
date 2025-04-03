@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743715375167,
+  "endTime": 1743716225761,
   "band_list": [
     {
       "raw_hot": 1569796,
@@ -259,20 +259,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 106417,
+      "num": 106417,
+      "word": "哪吒",
+      "onboard_time": 1743713114,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101510,
       "num": 101510,
       "word": "侯佩岑还播过自己和周杰伦的新闻",
       "onboard_time": 1743691342,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 100991,
-      "num": 100991,
-      "word": "哪吒",
-      "onboard_time": 1743713114,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 98809,
@@ -379,8 +379,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 78126,
-      "num": 75194,
+      "raw_hot": 78313,
+      "num": 78313,
       "word": "国际金价高位跳水了",
       "onboard_time": 1743703576,
       "rank": 10,
@@ -515,20 +515,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25635,
+      "num": 25635,
+      "word": "还没参加青春有你2的金子涵",
+      "onboard_time": 1743714015,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20676,
       "num": 20676,
       "word": "唐嫣哄娃",
       "onboard_time": 1743706395,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20325,
-      "num": 25311,
-      "word": "还没参加青春有你2的金子涵",
-      "onboard_time": 1743714015,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 18670,
@@ -539,20 +539,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 15451,
-      "num": 15451,
+      "raw_hot": 18237,
+      "num": 18237,
       "word": "多数美国人认为关税政策损美经济",
       "onboard_time": 1743714373,
       "rank": 45,
       "category": "国际时政"
     },
     {
-      "raw_hot": 15217,
-      "num": 15217,
+      "raw_hot": 15388,
+      "num": 15388,
       "word": "官方通报出逃黑熊已找到",
       "onboard_time": 1743710414,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14033,
+      "num": 15387,
+      "word": "韩国紧急戒严风波123天",
+      "onboard_time": 1743715875,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13144,

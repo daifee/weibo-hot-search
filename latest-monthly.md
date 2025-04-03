@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/04 05:22:55
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/04 05:37:05
 </p>
 </blockquote>
 <p>
@@ -5955,6 +5955,12 @@ KPL春季赛第三轮赛程公布（热度：108349）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%23" target="weibo">
+哪吒（热度：106417）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%93%B2%E5%8F%88%E5%8F%88%E5%8F%88%E8%BD%AE%E6%8D%A2%E4%BA%86%23" target="weibo">
 久哲又又又轮换了（热度：106320）
 </a>
@@ -6005,12 +6011,6 @@ KPL春季赛第三轮赛程公布（热度：108349）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%23" target="weibo">
 第五人格（热度：102577）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BD%8D%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%85%88%E7%94%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9D%81%E7%9C%BC%E8%AF%B4%E7%9E%8E%E8%AF%9D%23" target="weibo">
-这位国务卿先生为什么睁眼说瞎话（热度：102394）
 </a>
 </li>
 

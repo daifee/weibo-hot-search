@@ -1,0 +1,410 @@
+{
+  "runTime": 1743716225761,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 211261,
+        "num": 211261,
+        "word": "重庆一交通事故致6死1伤",
+        "onboard_time": 1743690562,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106417,
+        "num": 106417,
+        "word": "哪吒",
+        "onboard_time": 1743713114,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16050,
+        "num": 95837,
+        "word": "清明美食图鉴上新了",
+        "onboard_time": 1743688282,
+        "rank": 2,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 94990,
+        "num": 94990,
+        "word": "中国第一胖718.8斤刷新纪录",
+        "onboard_time": 1743700037,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78313,
+        "num": 78313,
+        "word": "国际金价高位跳水了",
+        "onboard_time": 1743703576,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 68976,
+        "num": 68976,
+        "word": "孙俪工作室回复邓超",
+        "onboard_time": 1743692422,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67412,
+        "num": 67412,
+        "word": "永远记住你",
+        "onboard_time": 1743702735,
+        "rank": 6,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 61938,
+        "num": 61938,
+        "word": "一人一句缅怀先烈",
+        "onboard_time": 1743702797,
+        "rank": 7,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 59891,
+        "num": 59891,
+        "word": "订婚强奸案被告母亲请求追责办案人",
+        "onboard_time": 1743694161,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48400,
+        "num": 48400,
+        "word": "中方已向日方严正交涉",
+        "onboard_time": 1743682702,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45696,
+        "num": 45696,
+        "word": "黄继光牺牲后母亲立下了一条家规",
+        "onboard_time": 1743691583,
+        "rank": 10,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 44922,
+        "num": 44922,
+        "word": "美国小伙杰克获中国永居证",
+        "onboard_time": 1743694342,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44793,
+        "num": 44793,
+        "word": "刀小刀拖欠解约赔偿金400多万",
+        "onboard_time": 1743691643,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39908,
+        "num": 39908,
+        "word": "马航MH370搜救预计年底重启",
+        "onboard_time": 1743703096,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38692,
+        "num": 38692,
+        "word": "热烈重映 宋祖儿戏份",
+        "onboard_time": 1743685343,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38183,
+        "num": 38183,
+        "word": "关税",
+        "onboard_time": 1743688101,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34644,
+        "num": 34644,
+        "word": "千万网红刀小刀被查",
+        "onboard_time": 1743674721,
+        "rank": 16,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 33345,
+        "num": 33345,
+        "word": "关税将让美国家庭每年多花3.6万元",
+        "onboard_time": 1743692663,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28834,
+        "num": 33164,
+        "word": "甲亢哥让外国人疯狂种草中国",
+        "onboard_time": 1743681081,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 27958,
+        "num": 32480,
+        "word": "杨洋章若楠 二搭",
+        "onboard_time": 1743692782,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51325,
+        "num": 31821,
+        "word": "德国女孩被印度免费导游设局强奸",
+        "onboard_time": 1743674662,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35762,
+        "num": 31619,
+        "word": "养了10年的狗跳起来咬向主人喉咙",
+        "onboard_time": 1743684022,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31132,
+        "num": 31132,
+        "word": "美股",
+        "onboard_time": 1743690022,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30062,
+        "num": 30062,
+        "word": "家长建议取消学校义工站岗",
+        "onboard_time": 1743682702,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27847,
+        "num": 27847,
+        "word": "17岁女孩曾字母都记不全如今保送北大",
+        "onboard_time": 1743694161,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27185,
+        "num": 27185,
+        "word": "同济医学院称每年都出不录取名单",
+        "onboard_time": 1743695122,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26959,
+        "num": 26959,
+        "word": "华晨宇 郑楠编曲",
+        "onboard_time": 1743694641,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26424,
+        "num": 26424,
+        "word": "4人卖鞋亏损后转卖保健品骗了超10亿",
+        "onboard_time": 1743690621,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25635,
+        "num": 25635,
+        "word": "还没参加青春有你2的金子涵",
+        "onboard_time": 1743714015,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25181,
+        "num": 25411,
+        "word": "电影热烈重映开了个party",
+        "onboard_time": 1743696622,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25226,
+        "num": 25226,
+        "word": "U17亚洲杯",
+        "onboard_time": 1743705855,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24083,
+        "num": 24083,
+        "word": "王楚钦食堂打饭",
+        "onboard_time": 1743691643,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22292,
+        "num": 22292,
+        "word": "侯佩岑还播过自己和周杰伦的新闻",
+        "onboard_time": 1743691342,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21052,
+        "num": 21052,
+        "word": "给老婆保管工资离婚后要索回全部",
+        "onboard_time": 1743675020,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20693,
+        "num": 20693,
+        "word": "缅甸地震已致4名中国人遇难",
+        "onboard_time": 1743696021,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19734,
+        "num": 19734,
+        "word": "美国吹灭别人的灯自己不会更光明",
+        "onboard_time": 1743697221,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19526,
+        "num": 19526,
+        "word": "英国拟对美超8000类商品征税",
+        "onboard_time": 1743701836,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18979,
+        "num": 18979,
+        "word": "Uzi妻子宣布胜诉",
+        "onboard_time": 1743687864,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18664,
+        "num": 18664,
+        "word": "又喜欢熬夜又喜欢睡觉",
+        "onboard_time": 1743705374,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18388,
+        "num": 18388,
+        "word": "我会永远永远永远的保佑好我",
+        "onboard_time": 1743712934,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18237,
+        "num": 18237,
+        "word": "多数美国人认为关税政策损美经济",
+        "onboard_time": 1743714373,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17240,
+        "num": 17240,
+        "word": "宁夏一退役老兵佩戴军功章祭奠战友",
+        "onboard_time": 1743697701,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16512,
+        "num": 16512,
+        "word": "邓超5G冲浪实锤了",
+        "onboard_time": 1743701896,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15977,
+        "num": 15977,
+        "word": "值得爱",
+        "onboard_time": 1743689363,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15670,
+        "num": 15670,
+        "word": "库克套现1.75亿",
+        "onboard_time": 1743700037,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15388,
+        "num": 15388,
+        "word": "官方通报出逃黑熊已找到",
+        "onboard_time": 1743710414,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14849,
+        "num": 15388,
+        "word": "王心凌拔智齿",
+        "onboard_time": 1743692543,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14033,
+        "num": 15387,
+        "word": "韩国紧急戒严风波123天",
+        "onboard_time": 1743715875,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13989,
+        "num": 15386,
+        "word": "十二年前的陈都灵",
+        "onboard_time": 1743678981,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13748,
+        "num": 15386,
+        "word": "鸡柳年糕薯条",
+        "onboard_time": 1743686003,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
