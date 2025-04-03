@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743655462096,
+  "endTime": 1743657840970,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1921906,
-      "num": 375332,
+      "num": 437219,
       "word": "孟子坤 家暴",
       "onboard_time": 1743606385,
       "rank": 15,
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 967276,
+      "num": 442462,
+      "word": "门童台湾",
+      "onboard_time": 1743656542,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 943778,
       "num": 298355,
       "word": "孟子坤 原来是晶哥",
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 639986,
-      "num": 345785,
+      "num": 439532,
       "word": "刘维伟 辛莎莎",
       "onboard_time": 1743653841,
       "rank": 19,
@@ -996,7 +1004,7 @@
     },
     {
       "raw_hot": 613907,
-      "num": 342330,
+      "num": 432459,
       "word": "温如也向周雨彤道歉",
       "onboard_time": 1743652283,
       "rank": 15,
@@ -1283,6 +1291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 514810,
+      "num": 514810,
+      "word": "美国经济陷入衰退概率升至40%",
+      "onboard_time": 1743654923,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 514768,
       "num": 514768,
       "word": "Switch2直面会",
@@ -1467,12 +1483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 445328,
+      "num": 445328,
+      "word": "孟子坤前女友公布聊天记录",
+      "onboard_time": 1743654444,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 442599,
       "num": 857341,
       "word": "4名人贩子在法庭抖腿毫无忏悔之意",
       "onboard_time": 1743578901,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 441020,
+      "num": 441020,
+      "word": "我知道祝绪丹跳舞像谁了",
+      "onboard_time": 1743654923,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 440685,
@@ -1489,6 +1521,14 @@
       "onboard_time": 1743557541,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 436002,
+      "num": 436002,
+      "word": "杨鸣",
+      "onboard_time": 1743655823,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 435494,
@@ -1963,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332443,
+      "num": 433280,
+      "word": "淮水竹亭",
+      "onboard_time": 1743475584,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331750,
       "num": 146286,
       "word": "金秀贤记者会最起鸡皮疙瘩的一句话",
@@ -2001,6 +2049,14 @@
       "onboard_time": 1743646700,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 326115,
+      "num": 444264,
+      "word": "托运的行李箱多出条丝袜获赔4500元",
+      "onboard_time": 1743654022,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 325456,
@@ -2209,6 +2265,14 @@
       "onboard_time": 1743504862,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300931,
+      "num": 432603,
+      "word": "哪吒2超155亿了",
+      "onboard_time": 1743656662,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 298045,
@@ -2499,6 +2563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 266148,
+      "num": 436900,
+      "word": "李现手持7斤镜头拍稳每一只鸟",
+      "onboard_time": 1743656783,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265533,
       "num": 407476,
       "word": "家族有精神病史有资格做母亲吗",
@@ -2537,14 +2609,6 @@
       "onboard_time": 1743472161,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263379,
-      "num": 263379,
-      "word": "托运的行李箱多出条丝袜获赔4500元",
-      "onboard_time": 1743654022,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262837,
@@ -2592,14 +2656,6 @@
       "word": "王文也",
       "onboard_time": 1743512245,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 256863,
-      "num": 332146,
-      "word": "孟子坤前女友公布聊天记录",
-      "onboard_time": 1743654444,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -3555,6 +3611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195721,
+      "num": 295851,
+      "word": "姚晨贾静雯也没逃过李羲承进行曲",
+      "onboard_time": 1743657442,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195220,
       "num": 167260,
       "word": "小鹏第一季度新势力销量第一",
@@ -3731,6 +3795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191151,
+      "num": 191151,
+      "word": "张本美和心中孙颖莎三项最佳",
+      "onboard_time": 1743655884,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190787,
       "num": 190787,
       "word": "人间的四月天打开4月",
@@ -3769,6 +3841,14 @@
       "onboard_time": 1743570682,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189491,
+      "num": 189491,
+      "word": "原来凤凰传奇只有一个人会骑马",
+      "onboard_time": 1743657262,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 189357,
@@ -3883,14 +3963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186445,
-      "num": 271078,
-      "word": "我知道祝绪丹跳舞像谁了",
-      "onboard_time": 1743654923,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186313,
       "num": 329112,
       "word": "神童自曝去年4月分手",
@@ -3937,14 +4009,6 @@
       "onboard_time": 1743422304,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184703,
-      "num": 279033,
-      "word": "淮水竹亭",
-      "onboard_time": 1743475584,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 184671,
@@ -4385,6 +4449,14 @@
       "onboard_time": 1743589161,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171191,
+      "num": 171191,
+      "word": "中医建议多和喜欢的人散步",
+      "onboard_time": 1743654742,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171186,
@@ -5427,6 +5499,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135468,
+      "num": 135468,
+      "word": "种地吧",
+      "onboard_time": 1743655763,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135194,
+      "num": 135194,
+      "word": "一诺说强的不是我是阿离",
+      "onboard_time": 1743656902,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134787,
       "num": 134787,
       "word": "内娱站姐发的权志龙",
@@ -5457,14 +5545,6 @@
       "onboard_time": 1743483985,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 134089,
-      "num": 134089,
-      "word": "中医建议多和喜欢的人散步",
-      "onboard_time": 1743654742,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 134062,
@@ -5739,6 +5819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125214,
+      "num": 125214,
+      "word": "骄阳似我领衔主演宋威龙赵今麦",
+      "onboard_time": 1743657684,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125212,
       "num": 277011,
       "word": "我交了个星朋友",
@@ -5937,6 +6025,14 @@
       "onboard_time": 1743503003,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119542,
+      "num": 439198,
+      "word": "哪吒联名一出我就管不住我的手",
+      "onboard_time": 1743655643,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119504,
@@ -6387,6 +6483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99846,
+      "num": 438172,
+      "word": "郑钦文为低排名球员发声",
+      "onboard_time": 1743656963,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99572,
       "num": 99572,
       "word": "卓沅不欢迎脸颊肉",
@@ -6611,6 +6715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85791,
+      "num": 986642,
+      "word": "一组图教你怎么把花拍好看",
+      "onboard_time": 1743654323,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85396,
       "num": 409666,
       "word": "Switch2价格预测",
@@ -6825,14 +6937,6 @@
       "onboard_time": 1743599063,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 71983,
-      "num": 371106,
-      "word": "美国经济陷入衰退概率升至40%",
-      "onboard_time": 1743654923,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 71911,
@@ -7131,14 +7235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59137,
-      "num": 986642,
-      "word": "一组图教你怎么把花拍好看",
-      "onboard_time": 1743654323,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58627,
       "num": 134326,
       "word": "封神2将从影院下映",
@@ -7219,6 +7315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55240,
+      "num": 438877,
+      "word": "Switch2值不值得买",
+      "onboard_time": 1743657083,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 55164,
       "num": 77159,
       "word": "年级主任多次让学生砸手机手表",
@@ -7257,6 +7361,14 @@
       "onboard_time": 1743586703,
       "rank": 22,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 53987,
+      "num": 441002,
+      "word": "缅甸地震遇难人数升至3085受伤4715",
+      "onboard_time": 1743656483,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 53595,
