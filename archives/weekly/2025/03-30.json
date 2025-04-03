@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743705171939,
+  "endTime": 1743705983189,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -13987,6 +13987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78126,
+      "num": 62926,
+      "word": "国际金价高位跳水了",
+      "onboard_time": 1743703576,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 78098,
       "num": 78098,
       "word": "宁夏一退役老兵佩戴军功章祭奠战友",
@@ -14161,14 +14169,6 @@
       "onboard_time": 1743578423,
       "rank": 29,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 73110,
-      "num": 60197,
-      "word": "国际金价高位跳水了",
-      "onboard_time": 1743703576,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 73105,
@@ -14371,6 +14371,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 68364,
+      "num": 68364,
+      "word": "马航MH370搜救预计年底重启",
+      "onboard_time": 1743703096,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 67757,
       "num": 322830,
       "word": "花开时节遇见最美城市",
@@ -14385,6 +14393,14 @@
       "onboard_time": 1743579263,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67455,
+      "num": 67455,
+      "word": "永远记住你",
+      "onboard_time": 1743702735,
+      "rank": 45,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 67160,
@@ -14667,14 +14683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60312,
-      "num": 60312,
-      "word": "马航MH370搜救预计年底重启",
-      "onboard_time": 1743703096,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 60311,
       "num": 280171,
       "word": "不说话的爱手语无障碍直播",
@@ -14769,6 +14777,14 @@
       "onboard_time": 1743348082,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58999,
+      "num": 62943,
+      "word": "一人一句缅怀先烈",
+      "onboard_time": 1743702797,
+      "rank": 48,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 58877,
@@ -15113,6 +15129,14 @@
       "onboard_time": 1743617055,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 50313,
+      "num": 42919,
+      "word": "U17亚洲杯",
+      "onboard_time": 1743705855,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 49598,
@@ -16131,6 +16155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28057,
+      "num": 28057,
+      "word": "又喜欢熬夜又喜欢睡觉",
+      "onboard_time": 1743705374,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28018,
       "num": 28018,
       "word": "鹭卓 你最懂我失落",
@@ -16179,14 +16211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 27546,
-      "num": 27546,
-      "word": "永远记住你",
-      "onboard_time": 1743702735,
-      "rank": 45,
-      "category": "国内时政,民生新闻"
-    },
-    {
       "raw_hot": 26764,
       "num": 26764,
       "word": "英国拟对美超8000类商品征税",
@@ -16217,14 +16241,6 @@
       "onboard_time": 1743615856,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26215,
-      "num": 26215,
-      "word": "一人一句缅怀先烈",
-      "onboard_time": 1743702797,
-      "rank": 48,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 26012,
