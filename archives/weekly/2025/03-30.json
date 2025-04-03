@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743693844082,
+  "endTime": 1743694785300,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 2259616,
-      "num": 923651,
+      "num": 972500,
       "word": "重庆一交通事故致6死1伤",
       "onboard_time": 1743690562,
       "rank": 19,
@@ -1187,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 903650,
+      "num": 903650,
+      "word": "刀小刀拖欠解约赔偿金400多万",
+      "onboard_time": 1743691643,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 902534,
       "num": 499204,
       "word": "华晨宇方强硬表态是对裁缝创作宣战",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1743682702,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 835794,
-      "num": 835794,
-      "word": "刀小刀拖欠解约赔偿金400多万",
-      "onboard_time": 1743691643,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 834785,
@@ -2201,6 +2201,14 @@
       "onboard_time": 1743652943,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 576088,
+      "num": 494335,
+      "word": "孙俪工作室回复邓超",
+      "onboard_time": 1743692422,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 575286,
@@ -3091,6 +3099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419245,
+      "num": 389533,
+      "word": "杨洋章若楠 二搭",
+      "onboard_time": 1743692782,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 417257,
       "num": 417257,
       "word": "好房子的新标准来了",
@@ -3369,6 +3385,14 @@
       "onboard_time": 1743507383,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393436,
+      "num": 393436,
+      "word": "关税将让美国家庭每年多花3.6万元",
+      "onboard_time": 1743692663,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 391274,
@@ -4243,14 +4267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 314985,
-      "num": 314985,
-      "word": "孙俪工作室回复邓超",
-      "onboard_time": 1743692422,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 314322,
       "num": 314322,
       "word": "慎买带有QS标志产品",
@@ -4353,14 +4369,6 @@
       "onboard_time": 1743660082,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 307303,
-      "num": 307303,
-      "word": "杨洋章若楠 二搭",
-      "onboard_time": 1743692782,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 306671,
@@ -4713,6 +4721,14 @@
       "onboard_time": 1743663802,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285669,
+      "num": 285669,
+      "word": "王心凌拔智齿",
+      "onboard_time": 1743692543,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 285315,
@@ -5113,6 +5129,14 @@
       "onboard_time": 1743304231,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265870,
+      "num": 265870,
+      "word": "玫瑰公主孟子义",
+      "onboard_time": 1743692782,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 265533,
@@ -5547,14 +5571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237737,
-      "num": 237737,
-      "word": "王心凌拔智齿",
-      "onboard_time": 1743692543,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237497,
       "num": 237497,
       "word": "台媒称中国驰援缅甸有3大黑科技",
@@ -5704,14 +5720,6 @@
       "word": "陈紫函 戴向宇你算菀菀吧",
       "onboard_time": 1743502043,
       "rank": 19,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 229635,
-      "num": 229635,
-      "word": "玫瑰公主孟子义",
-      "onboard_time": 1743692782,
-      "rank": 25,
       "category": "作品衍生"
     },
     {
@@ -5881,6 +5889,14 @@
       "onboard_time": 1743341662,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223744,
+      "num": 223744,
+      "word": "黄继光牺牲后母亲立下了一条家规",
+      "onboard_time": 1743691583,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 223014,
@@ -7139,6 +7155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193766,
+      "num": 193766,
+      "word": "明宰铉中文发言",
+      "onboard_time": 1743693982,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193607,
       "num": 193607,
       "word": "鞠婧祎刘宇宁 万花世界",
@@ -7497,14 +7521,6 @@
       "onboard_time": 1743586282,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187598,
-      "num": 187598,
-      "word": "黄继光牺牲后母亲立下了一条家规",
-      "onboard_time": 1743691583,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 187339,
@@ -9115,6 +9131,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 158175,
+      "num": 158175,
+      "word": "订婚强奸案被告母亲请求追责办案人",
+      "onboard_time": 1743694161,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158069,
       "num": 158069,
       "word": "刘端端念无双插曲飒MV",
@@ -9609,6 +9633,14 @@
       "onboard_time": 1743312690,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150409,
+      "num": 150409,
+      "word": "土象星座的信任只有一次",
+      "onboard_time": 1743692002,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 150296,
@@ -10353,6 +10385,14 @@
       "onboard_time": 1743376698,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 141464,
+      "num": 141464,
+      "word": "17岁女孩曾字母都记不全如今保送北大",
+      "onboard_time": 1743694161,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141294,
@@ -11171,20 +11211,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 130354,
+      "num": 130354,
+      "word": "美国小伙杰克获中国永居证",
+      "onboard_time": 1743694342,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130113,
       "num": 130113,
       "word": "百事可乐 登陆少年",
       "onboard_time": 1743512663,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130076,
-      "num": 130076,
-      "word": "土象星座的信任只有一次",
-      "onboard_time": 1743692002,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 129920,
@@ -12875,6 +12915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104064,
+      "num": 104064,
+      "word": "华晨宇 郑楠编曲",
+      "onboard_time": 1743694641,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104031,
       "num": 186750,
       "word": "刘学义白风衣",
@@ -12937,14 +12985,6 @@
       "onboard_time": 1743317419,
       "rank": 47,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 102625,
-      "num": 322782,
-      "word": "关税将让美国家庭每年多花3.6万元",
-      "onboard_time": 1743692663,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 102577,
@@ -14307,6 +14347,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 66294,
+      "num": 231825,
+      "word": "王安宇王玉雯还原戒指糖求婚戏",
+      "onboard_time": 1743694102,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66061,
       "num": 66061,
       "word": "政法大学教授谈肖央新片社会意义",
@@ -15059,6 +15107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48224,
+      "num": 287056,
+      "word": "男子航空账号突然多出8人10张机票",
+      "onboard_time": 1743693442,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47314,
       "num": 262976,
       "word": "白宫回应对等关税名单没有俄罗斯",
@@ -15555,6 +15611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35275,
+      "num": 172607,
+      "word": "男子捡到手机索酬不成怒摔泄愤",
+      "onboard_time": 1743694281,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35216,
       "num": 56652,
       "word": "挖野菜",
@@ -15689,14 +15753,6 @@
       "onboard_time": 1743614236,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32448,
-      "num": 287056,
-      "word": "男子航空账号突然多出8人10张机票",
-      "onboard_time": 1743693442,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32447,

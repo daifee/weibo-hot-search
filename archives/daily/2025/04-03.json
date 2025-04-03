@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743693844082,
+  "endTime": 1743694785300,
   "band_list": [
     {
       "raw_hot": 4382418,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2259616,
-      "num": 923651,
+      "num": 972500,
       "word": "重庆一交通事故致6死1伤",
       "onboard_time": 1743690562,
       "rank": 19,
@@ -227,6 +227,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 903650,
+      "num": 903650,
+      "word": "刀小刀拖欠解约赔偿金400多万",
+      "onboard_time": 1743691643,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 883730,
       "num": 883730,
       "word": "22岁离世女骑手家属寻目击者定责",
@@ -265,14 +273,6 @@
       "onboard_time": 1743682702,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 835794,
-      "num": 835794,
-      "word": "刀小刀拖欠解约赔偿金400多万",
-      "onboard_time": 1743691643,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 819020,
@@ -449,6 +449,14 @@
       "onboard_time": 1743652943,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 576088,
+      "num": 494335,
+      "word": "孙俪工作室回复邓超",
+      "onboard_time": 1743692422,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 574775,
@@ -747,6 +755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 419245,
+      "num": 389533,
+      "word": "杨洋章若楠 二搭",
+      "onboard_time": 1743692782,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 415786,
       "num": 415786,
       "word": "4人卖鞋亏损后转卖保健品骗了超10亿",
@@ -801,6 +817,14 @@
       "onboard_time": 1743608901,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 393436,
+      "num": 393436,
+      "word": "关税将让美国家庭每年多花3.6万元",
+      "onboard_time": 1743692663,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 392087,
@@ -1059,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 314985,
-      "num": 314985,
-      "word": "孙俪工作室回复邓超",
-      "onboard_time": 1743692422,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 313057,
       "num": 313057,
       "word": "朝雪录 敖瑞鹏",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1743660082,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 307303,
-      "num": 307303,
-      "word": "杨洋章若楠 二搭",
-      "onboard_time": 1743692782,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 306324,
@@ -1195,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285669,
+      "num": 285669,
+      "word": "王心凌拔智齿",
+      "onboard_time": 1743692543,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285315,
       "num": 285315,
       "word": "清明当天不能洗头没有科学依据",
@@ -1251,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265870,
+      "num": 265870,
+      "word": "玫瑰公主孟子义",
+      "onboard_time": 1743692782,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 258693,
       "num": 295808,
       "word": "朝雪录",
@@ -1291,14 +1315,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 237737,
-      "num": 237737,
-      "word": "王心凌拔智齿",
-      "onboard_time": 1743692543,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 236729,
       "num": 253331,
       "word": "马龙与马伊琍同框飙戏",
@@ -1315,14 +1331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 229635,
-      "num": 229635,
-      "word": "玫瑰公主孟子义",
-      "onboard_time": 1743692782,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 227796,
       "num": 227796,
       "word": "Switch2价格公布",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1743684022,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223744,
+      "num": 223744,
+      "word": "黄继光牺牲后母亲立下了一条家规",
+      "onboard_time": 1743691583,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 220864,
@@ -1499,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193766,
+      "num": 193766,
+      "word": "明宰铉中文发言",
+      "onboard_time": 1743693982,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193514,
       "num": 193514,
       "word": "忽然发现跳舞可以旺自己",
@@ -1577,14 +1601,6 @@
       "onboard_time": 1743647601,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 187598,
-      "num": 187598,
-      "word": "黄继光牺牲后母亲立下了一条家规",
-      "onboard_time": 1743691583,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 185220,
@@ -1859,6 +1875,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 158175,
+      "num": 158175,
+      "word": "订婚强奸案被告母亲请求追责办案人",
+      "onboard_time": 1743694161,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157561,
       "num": 220492,
       "word": "一诺FMVP云诺千山定晴雨",
@@ -1969,6 +1993,14 @@
       "onboard_time": 1743681142,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150409,
+      "num": 150409,
+      "word": "土象星座的信任只有一次",
+      "onboard_time": 1743692002,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 150046,
@@ -2113,6 +2145,14 @@
       "onboard_time": 1743649822,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141464,
+      "num": 141464,
+      "word": "17岁女孩曾字母都记不全如今保送北大",
+      "onboard_time": 1743694161,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141294,
@@ -2291,12 +2331,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130076,
-      "num": 130076,
-      "word": "土象星座的信任只有一次",
-      "onboard_time": 1743692002,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 130354,
+      "num": 130354,
+      "word": "美国小伙杰克获中国永居证",
+      "onboard_time": 1743694342,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129444,
@@ -2683,12 +2723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102625,
-      "num": 322782,
-      "word": "关税将让美国家庭每年多花3.6万元",
-      "onboard_time": 1743692663,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 104064,
+      "num": 104064,
+      "word": "华晨宇 郑楠编曲",
+      "onboard_time": 1743694641,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 102577,
@@ -3027,6 +3067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66294,
+      "num": 231825,
+      "word": "王安宇王玉雯还原戒指糖求婚戏",
+      "onboard_time": 1743694102,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64751,
       "num": 64751,
       "word": "3分钟看懂特朗普对等关税始末",
@@ -3153,6 +3201,14 @@
       "onboard_time": 1743577101,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 48224,
+      "num": 287056,
+      "word": "男子航空账号突然多出8人10张机票",
+      "onboard_time": 1743693442,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47314,
@@ -3283,6 +3339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35275,
+      "num": 172607,
+      "word": "男子捡到手机索酬不成怒摔泄愤",
+      "onboard_time": 1743694281,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34832,
       "num": 34832,
       "word": "你最期待看哪部待播剧",
@@ -3313,14 +3377,6 @@
       "onboard_time": 1743614236,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32448,
-      "num": 287056,
-      "word": "男子航空账号突然多出8人10张机票",
-      "onboard_time": 1743693442,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31862,
