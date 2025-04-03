@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743658844187,
+  "endTime": 1743662057980,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -249,6 +249,14 @@
       "onboard_time": 1743597562,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1603817,
+      "num": 1003534,
+      "word": "戚薇 确认过了是亲生的",
+      "onboard_time": 1743660203,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1591510,
@@ -657,6 +665,14 @@
       "onboard_time": 1743645800,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 920763,
+      "num": 310021,
+      "word": "金秀贤方晒real分镜脚本",
+      "onboard_time": 1743659122,
+      "rank": 11,
+      "category": "动漫"
     },
     {
       "raw_hot": 916266,
@@ -1243,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 540671,
+      "num": 358960,
+      "word": "肖战说张艺兴不说话的爱值得被更多人看见",
+      "onboard_time": 1743658463,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 534960,
       "num": 534960,
       "word": "浪姐第一季全是真的姐",
@@ -1395,6 +1419,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 487044,
+      "num": 439200,
+      "word": "李现手持7斤镜头拍稳每一只鸟",
+      "onboard_time": 1743656783,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484912,
       "num": 484912,
       "word": "孙俪发12个终于预告新剧",
@@ -1459,6 +1491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 466805,
+      "num": 455512,
+      "word": "杨鸣",
+      "onboard_time": 1743655823,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 462244,
       "num": 462244,
       "word": "对等关税",
@@ -1481,14 +1521,6 @@
       "onboard_time": 1743607762,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 455512,
-      "num": 455512,
-      "word": "杨鸣",
-      "onboard_time": 1743655823,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 451597,
@@ -1531,20 +1563,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 439200,
-      "num": 439200,
-      "word": "李现手持7斤镜头拍稳每一只鸟",
-      "onboard_time": 1743656783,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 437223,
       "num": 437223,
       "word": "广东省考成绩",
       "onboard_time": 1743557541,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 436535,
+      "num": 309075,
+      "word": "阿诺产后抑郁",
+      "onboard_time": 1743660922,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 435494,
@@ -1971,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340108,
+      "num": 308136,
+      "word": "杨幂赵又廷 二搭",
+      "onboard_time": 1743661823,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338105,
       "num": 620741,
       "word": "张小泉集团及法人等被执行31.3亿",
@@ -2211,6 +2251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307849,
+      "num": 307849,
+      "word": "清明档电影预售超5000万",
+      "onboard_time": 1743660082,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 306671,
       "num": 306671,
       "word": "4人偷了1.6元民警穷追不舍",
@@ -2449,6 +2497,22 @@
       "onboard_time": 1743485905,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281614,
+      "num": 281614,
+      "word": "贾乃亮换头像为甜馨新单曲打call",
+      "onboard_time": 1743660683,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 280354,
+      "num": 280354,
+      "word": "微信引用回复功能更新",
+      "onboard_time": 1743659181,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 279861,
@@ -3355,14 +3419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 205283,
-      "num": 205283,
-      "word": "肖战说张艺兴不说话的爱值得被更多人看见",
-      "onboard_time": 1743658463,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 204497,
       "num": 274406,
       "word": "Switch2",
@@ -4027,6 +4083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185076,
+      "num": 185076,
+      "word": "Last Dance 浪姐舞台冤案",
+      "onboard_time": 1743661582,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184671,
       "num": 269403,
       "word": "雷军代表小米承诺不会回避",
@@ -4435,6 +4499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171975,
+      "num": 171975,
+      "word": "肖战包场支持张艺兴",
+      "onboard_time": 1743661161,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171797,
       "num": 171797,
       "word": "50岁追星奶 我和时代峰峻的十年",
@@ -4585,6 +4657,14 @@
       "onboard_time": 1743516624,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164930,
+      "num": 164930,
+      "word": "徐志胜一番大男主",
+      "onboard_time": 1743660383,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 164834,
@@ -5179,6 +5259,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145322,
+      "num": 145322,
+      "word": "小猫看见家里淹水急得站了起来",
+      "onboard_time": 1743659843,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 145035,
+      "num": 308431,
+      "word": "特朗普声称让美国再次富有",
+      "onboard_time": 1743659242,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144564,
       "num": 171395,
       "word": "王安宇抹布文学",
@@ -5467,12 +5563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137621,
+      "num": 137621,
+      "word": "马龙与马伊琍同框飙戏",
+      "onboard_time": 1743661582,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137392,
       "num": 137392,
       "word": "门童",
       "onboard_time": 1743500302,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136536,
+      "num": 136536,
+      "word": "淮水竹亭看似4个人实到10个人",
+      "onboard_time": 1743658763,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 136507,
@@ -5697,14 +5809,6 @@
       "onboard_time": 1743505824,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130702,
-      "num": 130702,
-      "word": "淮水竹亭看似4个人实到10个人",
-      "onboard_time": 1743658763,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 130696,
@@ -6097,6 +6201,14 @@
       "onboard_time": 1743515064,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119322,
+      "num": 119322,
+      "word": "张杰演唱会",
+      "onboard_time": 1743660863,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 119003,
@@ -6843,12 +6955,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81813,
+      "num": 135510,
+      "word": "挤满海豹的无人岛被美国加征关税",
+      "onboard_time": 1743662002,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81657,
       "num": 92995,
       "word": "为什么每年都会怀念张国荣",
       "onboard_time": 1743440297,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80880,
+      "num": 308626,
+      "word": "老人在养老院遭粗暴对待多处骨折",
+      "onboard_time": 1743660982,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80831,
@@ -6881,6 +7009,14 @@
       "onboard_time": 1743561081,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76748,
+      "num": 308879,
+      "word": "摆摊卖大锅卤菜月入10万靠谱吗",
+      "onboard_time": 1743660321,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76272,

@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743658844187,
+  "endTime": 1743662057980,
   "band_list": [
     {
       "raw_hot": 2429717,
@@ -33,6 +33,14 @@
       "onboard_time": 1743656542,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1603817,
+      "num": 1003534,
+      "word": "戚薇 确认过了是亲生的",
+      "onboard_time": 1743660203,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1581927,
@@ -121,6 +129,14 @@
       "onboard_time": 1743645800,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 920763,
+      "num": 310021,
+      "word": "金秀贤方晒real分镜脚本",
+      "onboard_time": 1743659122,
+      "rank": 11,
+      "category": "动漫"
     },
     {
       "raw_hot": 883730,
@@ -259,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 540671,
+      "num": 358960,
+      "word": "肖战说张艺兴不说话的爱值得被更多人看见",
+      "onboard_time": 1743658463,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 520574,
       "num": 298258,
       "word": "黑龙江重大运输事故处理43人",
@@ -307,6 +331,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 487044,
+      "num": 439200,
+      "word": "李现手持7斤镜头拍稳每一只鸟",
+      "onboard_time": 1743656783,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482007,
       "num": 482007,
       "word": "孟子坤前女友公布聊天记录",
@@ -321,6 +353,14 @@
       "onboard_time": 1743608361,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 466805,
+      "num": 455512,
+      "word": "杨鸣",
+      "onboard_time": 1743655823,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 462244,
@@ -339,14 +379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 455512,
-      "num": 455512,
-      "word": "杨鸣",
-      "onboard_time": 1743655823,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 452691,
       "num": 221614,
       "word": "小米打假雷军致公众的一封信",
@@ -363,12 +395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 439200,
-      "num": 439200,
-      "word": "李现手持7斤镜头拍稳每一只鸟",
-      "onboard_time": 1743656783,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 436535,
+      "num": 309075,
+      "word": "阿诺产后抑郁",
+      "onboard_time": 1743660922,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 424774,
@@ -507,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340108,
+      "num": 308136,
+      "word": "杨幂赵又廷 二搭",
+      "onboard_time": 1743661823,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335195,
       "num": 335195,
       "word": "既是节气又是节日只有清明",
@@ -595,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307849,
+      "num": 307849,
+      "word": "清明档电影预售超5000万",
+      "onboard_time": 1743660082,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 306324,
       "num": 324535,
       "word": "以美之名 干啥呢王一博来了",
@@ -625,6 +673,22 @@
       "onboard_time": 1743654143,
       "rank": 26,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 281614,
+      "num": 281614,
+      "word": "贾乃亮换头像为甜馨新单曲打call",
+      "onboard_time": 1743660683,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 280354,
+      "num": 280354,
+      "word": "微信引用回复功能更新",
+      "onboard_time": 1743659181,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 277007,
@@ -715,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205283,
-      "num": 205283,
-      "word": "肖战说张艺兴不说话的爱值得被更多人看见",
-      "onboard_time": 1743658463,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 195721,
       "num": 295851,
       "word": "姚晨贾静雯也没逃过李羲承进行曲",
@@ -777,6 +833,14 @@
       "onboard_time": 1743647601,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 185076,
+      "num": 185076,
+      "word": "Last Dance 浪姐舞台冤案",
+      "onboard_time": 1743661582,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 180980,
@@ -843,6 +907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171975,
+      "num": 171975,
+      "word": "肖战包场支持张艺兴",
+      "onboard_time": 1743661161,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171191,
       "num": 171191,
       "word": "中医建议多和喜欢的人散步",
@@ -857,6 +929,14 @@
       "onboard_time": 1743649462,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 164930,
+      "num": 164930,
+      "word": "徐志胜一番大男主",
+      "onboard_time": 1743660383,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 164370,
@@ -955,6 +1035,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145322,
+      "num": 145322,
+      "word": "小猫看见家里淹水急得站了起来",
+      "onboard_time": 1743659843,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 145035,
+      "num": 308431,
+      "word": "特朗普声称让美国再次富有",
+      "onboard_time": 1743659242,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 143816,
       "num": 143816,
       "word": "公孙离fmvp皮肤",
@@ -1009,6 +1105,22 @@
       "onboard_time": 1743651442,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137621,
+      "num": 137621,
+      "word": "马龙与马伊琍同框飙戏",
+      "onboard_time": 1743661582,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136536,
+      "num": 136536,
+      "word": "淮水竹亭看似4个人实到10个人",
+      "onboard_time": 1743658763,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 136507,
@@ -1067,14 +1179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130702,
-      "num": 130702,
-      "word": "淮水竹亭看似4个人实到10个人",
-      "onboard_time": 1743658763,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129186,
       "num": 284579,
       "word": "全红婵跳水世界杯热身",
@@ -1129,6 +1233,14 @@
       "onboard_time": 1743655643,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119322,
+      "num": 119322,
+      "word": "张杰演唱会",
+      "onboard_time": 1743660863,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 118419,
@@ -1347,12 +1459,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 81813,
+      "num": 135510,
+      "word": "挤满海豹的无人岛被美国加征关税",
+      "onboard_time": 1743662002,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 80880,
+      "num": 308626,
+      "word": "老人在养老院遭粗暴对待多处骨折",
+      "onboard_time": 1743660982,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79096,
       "num": 79096,
       "word": "减肥建议不要长期跳绳",
       "onboard_time": 1743602904,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 76748,
+      "num": 308879,
+      "word": "摆摊卖大锅卤菜月入10万靠谱吗",
+      "onboard_time": 1743660321,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75756,
