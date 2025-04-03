@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743697804546,
+  "endTime": 1743698796273,
   "band_list": [
     {
       "raw_hot": 1569796,
@@ -83,8 +83,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 241178,
-      "num": 241178,
+      "raw_hot": 247225,
+      "num": 247225,
       "word": "订婚强奸案被告母亲请求追责办案人",
       "onboard_time": 1743694161,
       "rank": 12,
@@ -96,6 +96,14 @@
       "word": "华晨宇 郑楠编曲",
       "onboard_time": 1743694641,
       "rank": 13,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 222866,
+      "num": 222866,
+      "word": "明宰铉中文发言",
+      "onboard_time": 1743693982,
+      "rank": 17,
       "category": "演出"
     },
     {
@@ -129,14 +137,6 @@
       "onboard_time": 1743690621,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178373,
-      "num": 178373,
-      "word": "明宰铉中文发言",
-      "onboard_time": 1743693982,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 177433,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130232,
+      "num": 130232,
+      "word": "同济医学院称每年都出不录取名单",
+      "onboard_time": 1743695122,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118900,
       "num": 118900,
       "word": "美国小伙杰克获中国永居证",
@@ -219,19 +227,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114182,
-      "num": 114182,
-      "word": "同济医学院称每年都出不录取名单",
-      "onboard_time": 1743695122,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113978,
       "num": 113978,
       "word": "鞠婧祎小号安慰粉丝",
       "onboard_time": 1743675864,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110856,
+      "num": 110856,
+      "word": "小婉训狗",
+      "onboard_time": 1743695900,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -241,14 +249,6 @@
       "onboard_time": 1743681081,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 108532,
-      "num": 108532,
-      "word": "小婉训狗",
-      "onboard_time": 1743695900,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 101510,
@@ -297,6 +297,14 @@
       "onboard_time": 1743675020,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90367,
+      "num": 272280,
+      "word": "美国吹灭别人的灯自己不会更光明",
+      "onboard_time": 1743697221,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85543,
@@ -355,12 +363,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 78098,
+      "num": 78098,
+      "word": "宁夏一退役老兵佩戴军功章祭奠战友",
+      "onboard_time": 1743697701,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76848,
       "num": 76848,
       "word": "美股",
       "onboard_time": 1743690022,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74104,
+      "num": 74104,
+      "word": "jayjay呢",
+      "onboard_time": 1743686783,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 72356,
@@ -371,20 +395,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68847,
-      "num": 68847,
-      "word": "宁夏一退役老兵佩戴军功章祭奠战友",
-      "onboard_time": 1743697701,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 68046,
+      "num": 68046,
+      "word": "值得爱",
+      "onboard_time": 1743689363,
+      "rank": 46,
+      "category": "剧集"
     },
     {
-      "raw_hot": 68173,
-      "num": 68173,
-      "word": "jayjay呢",
-      "onboard_time": 1743686783,
+      "raw_hot": 58877,
+      "num": 58877,
+      "word": "震耳欲聋",
+      "onboard_time": 1743694940,
       "rank": 49,
-      "category": "艺人"
+      "category": "电影"
     },
     {
       "raw_hot": 44783,
@@ -393,14 +417,6 @@
       "onboard_time": 1743688282,
       "rank": 2,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 36982,
-      "num": 272280,
-      "word": "美国吹灭别人的灯自己不会更光明",
-      "onboard_time": 1743697221,
-      "rank": 9,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
