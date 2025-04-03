@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743684512310,
+  "endTime": 1743685395112,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -643,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1296098,
+      "num": 1009970,
+      "word": "甜馨说有个名额就来啦",
+      "onboard_time": 1743681323,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1279382,
       "num": 304914,
       "word": "小米打假雷军致公众的一封信",
@@ -713,14 +721,6 @@
       "onboard_time": 1743556881,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1201974,
-      "num": 1009970,
-      "word": "甜馨说有个名额就来啦",
-      "onboard_time": 1743681323,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1189214,
@@ -929,6 +929,14 @@
       "onboard_time": 1743561081,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1060587,
+      "num": 946302,
+      "word": "家长建议取消学校义工站岗",
+      "onboard_time": 1743682702,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1057584,
@@ -1915,6 +1923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 605537,
+      "num": 605537,
+      "word": "邓超gogogo出发喽",
+      "onboard_time": 1743683662,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 604574,
       "num": 604574,
       "word": "日本特大地震若发生或致近30万人死亡",
@@ -1961,6 +1977,14 @@
       "onboard_time": 1743513984,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 600102,
+      "num": 600102,
+      "word": "杭州东站",
+      "onboard_time": 1743681922,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 600074,
@@ -2148,7 +2172,7 @@
     },
     {
       "raw_hot": 574775,
-      "num": 401558,
+      "num": 493599,
       "word": "八点后的盒马 穷鬼天堂",
       "onboard_time": 1743678981,
       "rank": 32,
@@ -2883,6 +2907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 445317,
+      "num": 445317,
+      "word": "周深亮相外交部双语宣传短片",
+      "onboard_time": 1743678380,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443398,
       "num": 376675,
       "word": "陈都灵大女主",
@@ -2953,14 +2985,6 @@
       "onboard_time": 1743387020,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 433963,
-      "num": 433963,
-      "word": "周深亮相外交部双语宣传短片",
-      "onboard_time": 1743678380,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 433336,
@@ -3163,14 +3187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 401656,
-      "num": 401656,
-      "word": "家长建议取消学校义工站岗",
-      "onboard_time": 1743682702,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 401630,
       "num": 241152,
       "word": "50万竟然买了4辆宝马",
@@ -3193,14 +3209,6 @@
       "onboard_time": 1743246564,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 400597,
-      "num": 400597,
-      "word": "杭州东站",
-      "onboard_time": 1743681922,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 399588,
@@ -3513,6 +3521,14 @@
       "onboard_time": 1743431784,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 366843,
+      "num": 256590,
+      "word": "养了10年的狗跳起来咬向主人喉咙",
+      "onboard_time": 1743684022,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 366648,
@@ -5043,14 +5059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256590,
-      "num": 256590,
-      "word": "养了10年的狗跳起来咬向主人喉咙",
-      "onboard_time": 1743684022,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256503,
       "num": 256503,
       "word": "佟大为新剧太下饭了",
@@ -5168,14 +5176,6 @@
       "word": "莫离 白鹿丞磊",
       "onboard_time": 1743328222,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 248148,
-      "num": 340522,
-      "word": "邓超gogogo出发喽",
-      "onboard_time": 1743683662,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -5595,6 +5595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227103,
+      "num": 288786,
+      "word": "九尾要喷Cat",
+      "onboard_time": 1743684022,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 226778,
       "num": 226778,
       "word": "缅甸强震已致3名中国公民遇难",
@@ -5969,6 +5977,14 @@
       "onboard_time": 1743307470,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210455,
+      "num": 210455,
+      "word": "刘诗诗和好友们一起闪现",
+      "onboard_time": 1743684862,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 210400,
@@ -6595,6 +6611,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 198897,
+      "num": 281127,
+      "word": "hamin还不公开",
+      "onboard_time": 1743684262,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198849,
       "num": 198849,
       "word": "成毅站姐发任嘉伦",
@@ -6889,14 +6913,6 @@
       "onboard_time": 1743510864,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193890,
-      "num": 281127,
-      "word": "hamin还不公开",
-      "onboard_time": 1743684262,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 193786,
@@ -7659,6 +7675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180262,
+      "num": 180262,
+      "word": "念无双 水中贵族",
+      "onboard_time": 1743684501,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179959,
       "num": 179959,
       "word": "女子潜水被鲨鱼咬残水下未配安全员",
@@ -7753,6 +7777,14 @@
       "onboard_time": 1743683962,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178084,
+      "num": 178084,
+      "word": "棋士反转",
+      "onboard_time": 1743683962,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 178078,
@@ -8185,14 +8217,6 @@
       "onboard_time": 1743347003,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 169456,
-      "num": 288786,
-      "word": "九尾要喷Cat",
-      "onboard_time": 1743684022,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 169395,
@@ -11507,6 +11531,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 120569,
+      "num": 355981,
+      "word": "SUV开启整车终身质保时代",
+      "onboard_time": 1743684082,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 120541,
       "num": 122158,
       "word": "特朗普一系列关税公布后将立即生效",
@@ -11601,6 +11633,14 @@
       "onboard_time": 1743572482,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119395,
+      "num": 310460,
+      "word": "吴艳妮气血很足的美",
+      "onboard_time": 1743684082,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 119328,
@@ -11801,6 +11841,14 @@
       "onboard_time": 1743316641,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116675,
+      "num": 116675,
+      "word": "王安宇王玉雯现场跳九万字",
+      "onboard_time": 1743684501,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 116424,
@@ -12059,6 +12107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 111510,
+      "num": 111510,
+      "word": "林昀儒3比1张本智和",
+      "onboard_time": 1743682222,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111430,
       "num": 111430,
       "word": "范玮琪唱我爱你中国",
@@ -12089,14 +12145,6 @@
       "onboard_time": 1743465382,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 111267,
-      "num": 355981,
-      "word": "SUV开启整车终身质保时代",
-      "onboard_time": 1743684082,
-      "rank": 16,
-      "category": "汽车"
     },
     {
       "raw_hot": 111066,
@@ -12137,6 +12185,14 @@
       "onboard_time": 1743376397,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 110590,
+      "num": 110590,
+      "word": "热烈重映 宋祖儿戏份",
+      "onboard_time": 1743685343,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 110571,
@@ -12184,6 +12240,14 @@
       "word": "邓为不争先争的是滔滔不绝",
       "onboard_time": 1743323061,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109748,
+      "num": 109748,
+      "word": "孙俪新剧再往前走一步就剧终了",
+      "onboard_time": 1743685162,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -12705,6 +12769,14 @@
       "onboard_time": 1743393863,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99356,
+      "num": 602683,
+      "word": "中学生徒步108里祭英烈",
+      "onboard_time": 1743684322,
+      "rank": 25,
+      "category": "正能量"
     },
     {
       "raw_hot": 99326,
@@ -14459,14 +14531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52142,
-      "num": 310460,
-      "word": "吴艳妮气血很足的美",
-      "onboard_time": 1743684082,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 52092,
       "num": 83911,
       "word": "美2名宇航员回地球后首次开发布会",
@@ -14577,14 +14641,6 @@
       "onboard_time": 1743265282,
       "rank": 16,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 48771,
-      "num": 316737,
-      "word": "中学生徒步108里祭英烈",
-      "onboard_time": 1743684322,
-      "rank": 25,
-      "category": "正能量"
     },
     {
       "raw_hot": 48732,
@@ -15451,6 +15507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 29116,
+      "num": 996749,
+      "word": "青春华章恰同学少年",
+      "onboard_time": 1743672323,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29083,
       "num": 33143,
       "word": "九义人",
@@ -15665,14 +15729,6 @@
       "onboard_time": 1743418582,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 24695,
-      "num": 996749,
-      "word": "青春华章恰同学少年",
-      "onboard_time": 1743672323,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24676,
