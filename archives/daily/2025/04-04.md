@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/04 00:30:04 ~ 2025/04/04 05:37:05
+本榜单时间：2025/04/04 00:30:04 ~ 2025/04/04 06:22:50
 </p>
 </blockquote>
 <p>
@@ -141,6 +141,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%AB%98%E4%BD%8D%E8%B7%B3%E6%B0%B4%E4%BA%86%23" target="weibo">
+国际金价高位跳水了（热度：151775）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85gogogo%E5%87%BA%E5%8F%91%E5%96%BD%23" target="weibo">
 邓超gogogo出发喽（热度：149182）
 </a>
@@ -149,6 +155,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%20%E9%BE%99%E6%B8%AF%23" target="weibo">
 蔡徐坤 龙港（热度：146895）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%23" target="weibo">
+哪吒（热度：146530）
 </a>
 </li>
 
@@ -207,12 +219,6 @@ SM新男团（热度：115600）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%23" target="weibo">
-哪吒（热度：106417）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E4%BD%A9%E5%B2%91%E8%BF%98%E6%92%AD%E8%BF%87%E8%87%AA%E5%B7%B1%E5%92%8C%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%9A%84%E6%96%B0%E9%97%BB%23" target="weibo">
 侯佩岑还播过自己和周杰伦的新闻（热度：101510）
 </a>
@@ -261,6 +267,12 @@ Uzi妻子宣布胜诉（热度：94361）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E8%AE%B0%E4%BD%8F%E4%BD%A0%23" target="weibo">
+永远记住你（热度：84855）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%91%9E%E5%A3%AB%E8%A2%AB%E5%81%B6%E9%81%87%23" target="weibo">
 倪妮瑞士被偶遇（热度：83607）
 </a>
@@ -293,12 +305,6 @@ Uzi妻子宣布胜诉（热度：94361）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone17Pro%E6%9C%80%E5%BC%BA%E9%95%BF%E7%84%A6%23" target="weibo">
 iPhone17Pro最强长焦（热度：78512）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%AB%98%E4%BD%8D%E8%B7%B3%E6%B0%B4%E4%BA%86%23" target="weibo">
-国际金价高位跳水了（热度：78313）
 </a>
 </li>
 
@@ -339,14 +345,14 @@ jayjay呢（热度：74104）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E8%AE%B0%E4%BD%8F%E4%BD%A0%23" target="weibo">
-永远记住你（热度：67455）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E7%BC%85%E6%80%80%E5%85%88%E7%83%88%23" target="weibo">
+一人一句缅怀先烈（热度：65128）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E7%BC%85%E6%80%80%E5%85%88%E7%83%88%23" target="weibo">
-一人一句缅怀先烈（热度：65128）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%B4%A7%E6%80%A5%E6%88%92%E4%B8%A5%E9%A3%8E%E6%B3%A2123%E5%A4%A9%23" target="weibo">
+韩国紧急戒严风波123天（热度：62099）
 </a>
 </li>
 
@@ -387,8 +393,20 @@ U17亚洲杯（热度：50313）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%B2%A1%E5%8F%82%E5%8A%A0%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A02%E7%9A%84%E9%87%91%E5%AD%90%E6%B6%B5%23" target="weibo">
+还没参加青春有你2的金子涵（热度：38099）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%88%E5%96%9C%E6%AC%A2%E7%86%AC%E5%A4%9C%E5%8F%88%E5%96%9C%E6%AC%A2%E7%9D%A1%E8%A7%89%23" target="weibo">
 又喜欢熬夜又喜欢睡觉（热度：32831）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%87%B47%E6%AD%BB1%E4%BC%A4%23" target="weibo">
+重庆一交通事故致7死1伤（热度：29260）
 </a>
 </li>
 
@@ -399,38 +417,32 @@ U17亚洲杯（热度：50313）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%B2%A1%E5%8F%82%E5%8A%A0%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A02%E7%9A%84%E9%87%91%E5%AD%90%E6%B6%B5%23" target="weibo">
-还没参加青春有你2的金子涵（热度：25635）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E4%B9%B1%E6%8B%B3%E5%BC%80%E6%89%93%23" target="weibo">
+特朗普关税乱拳开打（热度：22420）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E5%93%84%E5%A8%83%23" target="weibo">
-唐嫣哄娃（热度：20676）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BC%9A%E6%B0%B8%E8%BF%9C%E6%B0%B8%E8%BF%9C%E6%B0%B8%E8%BF%9C%E7%9A%84%E4%BF%9D%E4%BD%91%E5%A5%BD%E6%88%91%23" target="weibo">
-我会永远永远永远的保佑好我（热度：18670）
+唐嫣哄娃（热度：21136）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%95%B0%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%AE%A4%E4%B8%BA%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E6%8D%9F%E7%BE%8E%E7%BB%8F%E6%B5%8E%23" target="weibo">
-多数美国人认为关税政策损美经济（热度：18237）
+多数美国人认为关税政策损美经济（热度：20297）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BC%9A%E6%B0%B8%E8%BF%9C%E6%B0%B8%E8%BF%9C%E6%B0%B8%E8%BF%9C%E7%9A%84%E4%BF%9D%E4%BD%91%E5%A5%BD%E6%88%91%23" target="weibo">
+我会永远永远永远的保佑好我（热度：19655）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%87%BA%E9%80%83%E9%BB%91%E7%86%8A%E5%B7%B2%E6%89%BE%E5%88%B0%23" target="weibo">
 官方通报出逃黑熊已找到（热度：15388）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%B4%A7%E6%80%A5%E6%88%92%E4%B8%A5%E9%A3%8E%E6%B3%A2123%E5%A4%A9%23" target="weibo">
-韩国紧急戒严风波123天（热度：14033）
 </a>
 </li>
 

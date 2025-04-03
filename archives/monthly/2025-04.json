@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743716225761,
+  "endTime": 1743718970682,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -6003,6 +6003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151775,
+      "num": 151775,
+      "word": "国际金价高位跳水了",
+      "onboard_time": 1743703576,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151739,
       "num": 346552,
       "word": "李美越5天掉粉14万",
@@ -6249,6 +6257,14 @@
       "onboard_time": 1743507624,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146530,
+      "num": 146530,
+      "word": "哪吒",
+      "onboard_time": 1743713114,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 146529,
@@ -7923,14 +7939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106417,
-      "num": 106417,
-      "word": "哪吒",
-      "onboard_time": 1743713114,
-      "rank": 1,
-      "category": "电影"
-    },
-    {
       "raw_hot": 106320,
       "num": 280312,
       "word": "久哲又又又轮换了",
@@ -8443,6 +8451,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 84855,
+      "num": 84855,
+      "word": "永远记住你",
+      "onboard_time": 1743702735,
+      "rank": 45,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 84755,
       "num": 84755,
       "word": "皇马4比4皇家社会",
@@ -8529,14 +8545,6 @@
       "onboard_time": 1743407121,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 78313,
-      "num": 78313,
-      "word": "国际金价高位跳水了",
-      "onboard_time": 1743703576,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 78098,
@@ -8819,14 +8827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 67455,
-      "num": 67455,
-      "word": "永远记住你",
-      "onboard_time": 1743702735,
-      "rank": 45,
-      "category": "国内时政,民生新闻"
-    },
-    {
       "raw_hot": 67160,
       "num": 1256149,
       "word": "中国园林有朵石做的云",
@@ -8993,6 +8993,14 @@
       "onboard_time": 1743607163,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62099,
+      "num": 62099,
+      "word": "韩国紧急戒严风波123天",
+      "onboard_time": 1743715875,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62024,
@@ -9603,6 +9611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38099,
+      "num": 38099,
+      "word": "还没参加青春有你2的金子涵",
+      "onboard_time": 1743714015,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37817,
       "num": 382943,
       "word": "杨幂持续3年探访孤独症康复中心",
@@ -9931,6 +9947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 29260,
+      "num": 29260,
+      "word": "重庆一交通事故致7死1伤",
+      "onboard_time": 1743715394,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29116,
       "num": 996749,
       "word": "青春华章恰同学少年",
@@ -10017,14 +10041,6 @@
       "onboard_time": 1743503244,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25635,
-      "num": 25635,
-      "word": "还没参加青春有你2的金子涵",
-      "onboard_time": 1743714015,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 25576,
@@ -10147,6 +10163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22420,
+      "num": 84535,
+      "word": "特朗普关税乱拳开打",
+      "onboard_time": 1743717975,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21704,
       "num": 210447,
       "word": "枯井无名遗骸系三冀阻击战牺牲将士",
@@ -10171,6 +10195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21136,
+      "num": 21136,
+      "word": "唐嫣哄娃",
+      "onboard_time": 1743706395,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20997,
       "num": 26510,
       "word": "海警闽南话喊话台湾船只",
@@ -10187,14 +10219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20676,
-      "num": 20676,
-      "word": "唐嫣哄娃",
-      "onboard_time": 1743706395,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 20673,
       "num": 42506,
       "word": "jeff是真的 贪也是真的",
@@ -10209,6 +10233,22 @@
       "onboard_time": 1743491663,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20297,
+      "num": 20988,
+      "word": "多数美国人认为关税政策损美经济",
+      "onboard_time": 1743714373,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 19655,
+      "num": 20985,
+      "word": "我会永远永远永远的保佑好我",
+      "onboard_time": 1743712934,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 19636,
@@ -10259,14 +10299,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 18670,
-      "num": 18670,
-      "word": "我会永远永远永远的保佑好我",
-      "onboard_time": 1743712934,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 18620,
       "num": 31324,
       "word": "演练可能还有BCD但不会一直延续",
@@ -10297,14 +10329,6 @@
       "onboard_time": 1743679761,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18237,
-      "num": 18237,
-      "word": "多数美国人认为关税政策损美经济",
-      "onboard_time": 1743714373,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18004,
@@ -10424,14 +10448,6 @@
       "word": "胡塞称击落美军价值2亿元战机",
       "onboard_time": 1743579022,
       "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 14033,
-      "num": 15387,
-      "word": "韩国紧急戒严风波123天",
-      "onboard_time": 1743715875,
-      "rank": 47,
       "category": "国际时政"
     },
     {

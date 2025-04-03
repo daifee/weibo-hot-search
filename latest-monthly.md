@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/04 05:37:05
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/04 06:22:50
 </p>
 </blockquote>
 <p>
@@ -4515,6 +4515,12 @@ CBA技术台骂人（热度：158259）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%AB%98%E4%BD%8D%E8%B7%B3%E6%B0%B4%E4%BA%86%23" target="weibo">
+国际金价高位跳水了（热度：151775）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BE%8E%E8%B6%8A5%E5%A4%A9%E6%8E%89%E7%B2%8914%E4%B8%87%23" target="weibo">
 李美越5天掉粉14万（热度：151739）
 </a>
@@ -4697,6 +4703,12 @@ CBA技术台骂人（热度：158259）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%92%8C%E4%B9%9D%E5%B9%B4%20abandon%23" target="weibo">
 永和九年 abandon（热度：146560）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%23" target="weibo">
+哪吒（热度：146530）
 </a>
 </li>
 
@@ -5955,12 +5967,6 @@ KPL春季赛第三轮赛程公布（热度：108349）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%23" target="weibo">
-哪吒（热度：106417）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%93%B2%E5%8F%88%E5%8F%88%E5%8F%88%E8%BD%AE%E6%8D%A2%E4%BA%86%23" target="weibo">
 久哲又又又轮换了（热度：106320）
 </a>
@@ -6005,12 +6011,6 @@ KPL春季赛第三轮赛程公布（热度：108349）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E7%B2%BE%E7%A5%9E%E7%A7%91%E8%AF%8A%E5%AE%A4%E9%87%8C%E6%B2%89%E9%BB%98%E7%9A%84%E7%88%B6%E4%BA%B2%E4%BB%AC%23" target="weibo">
 儿童精神科诊室里沉默的父亲们（热度：104353）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%23" target="weibo">
-第五人格（热度：102577）
 </a>
 </li>
 

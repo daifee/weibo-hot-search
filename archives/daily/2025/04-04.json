@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743716225761,
+  "endTime": 1743718970682,
   "band_list": [
     {
       "raw_hot": 1569796,
@@ -171,6 +171,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 151775,
+      "num": 151775,
+      "word": "国际金价高位跳水了",
+      "onboard_time": 1743703576,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 149182,
       "num": 149182,
       "word": "邓超gogogo出发喽",
@@ -185,6 +193,14 @@
       "onboard_time": 1743687864,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146530,
+      "num": 146530,
+      "word": "哪吒",
+      "onboard_time": 1743713114,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 142555,
@@ -259,14 +275,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 106417,
-      "num": 106417,
-      "word": "哪吒",
-      "onboard_time": 1743713114,
-      "rank": 1,
-      "category": "电影"
-    },
-    {
       "raw_hot": 101510,
       "num": 101510,
       "word": "侯佩岑还播过自己和周杰伦的新闻",
@@ -331,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84855,
+      "num": 84855,
+      "word": "永远记住你",
+      "onboard_time": 1743702735,
+      "rank": 45,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 83607,
       "num": 83607,
       "word": "倪妮瑞士被偶遇",
@@ -377,14 +393,6 @@
       "onboard_time": 1743674782,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 78313,
-      "num": 78313,
-      "word": "国际金价高位跳水了",
-      "onboard_time": 1743703576,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 78098,
@@ -435,20 +443,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67455,
-      "num": 67455,
-      "word": "永远记住你",
-      "onboard_time": 1743702735,
-      "rank": 45,
-      "category": "国内时政,民生新闻"
-    },
-    {
       "raw_hot": 65128,
       "num": 65128,
       "word": "一人一句缅怀先烈",
       "onboard_time": 1743702797,
       "rank": 48,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 62099,
+      "num": 62099,
+      "word": "韩国紧急戒严风波123天",
+      "onboard_time": 1743715875,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 61551,
@@ -499,12 +507,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38099,
+      "num": 38099,
+      "word": "还没参加青春有你2的金子涵",
+      "onboard_time": 1743714015,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32831,
       "num": 32831,
       "word": "又喜欢熬夜又喜欢睡觉",
       "onboard_time": 1743705374,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 29260,
+      "num": 29260,
+      "word": "重庆一交通事故致7死1伤",
+      "onboard_time": 1743715394,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26764,
@@ -515,36 +539,36 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25635,
-      "num": 25635,
-      "word": "还没参加青春有你2的金子涵",
-      "onboard_time": 1743714015,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 22420,
+      "num": 84535,
+      "word": "特朗普关税乱拳开打",
+      "onboard_time": 1743717975,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 20676,
-      "num": 20676,
+      "raw_hot": 21136,
+      "num": 21136,
       "word": "唐嫣哄娃",
       "onboard_time": 1743706395,
       "rank": 43,
       "category": "剧集"
     },
     {
-      "raw_hot": 18670,
-      "num": 18670,
-      "word": "我会永远永远永远的保佑好我",
-      "onboard_time": 1743712934,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 18237,
-      "num": 18237,
+      "raw_hot": 20297,
+      "num": 20988,
       "word": "多数美国人认为关税政策损美经济",
       "onboard_time": 1743714373,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19655,
+      "num": 20985,
+      "word": "我会永远永远永远的保佑好我",
+      "onboard_time": 1743712934,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 15388,
@@ -553,14 +577,6 @@
       "onboard_time": 1743710414,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14033,
-      "num": 15387,
-      "word": "韩国紧急戒严风波123天",
-      "onboard_time": 1743715875,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13144,
