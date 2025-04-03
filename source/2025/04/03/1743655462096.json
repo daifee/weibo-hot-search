@@ -1,0 +1,410 @@
+{
+  "runTime": 1743655462096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 673051,
+        "num": 1107688,
+        "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+        "onboard_time": 1743644780,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1716565,
+        "num": 1059411,
+        "word": "提醒甲亢哥不文明行为的女生回应了",
+        "onboard_time": 1743650542,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 59137,
+        "num": 856196,
+        "word": "一组图教你怎么把花拍好看",
+        "onboard_time": 1743654323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839705,
+        "num": 839705,
+        "word": "孙俪单手倒车入库",
+        "onboard_time": 1743653723,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 813177,
+        "num": 813177,
+        "word": "金价冲向1000元",
+        "onboard_time": 1743645380,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 629998,
+        "num": 629998,
+        "word": "特朗普宣布国家紧急状态",
+        "onboard_time": 1743636020,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 580088,
+        "num": 580088,
+        "word": "扶弟魔背后有个吸姐鬼",
+        "onboard_time": 1743652943,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 547105,
+        "num": 547105,
+        "word": "我国抓获3名菲律宾间谍",
+        "onboard_time": 1743649822,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 372014,
+        "num": 372014,
+        "word": "特朗普不停加关税目的是啥",
+        "onboard_time": 1743651442,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71983,
+        "num": 371106,
+        "word": "美国经济陷入衰退概率升至40%",
+        "onboard_time": 1743654923,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1386218,
+        "num": 366235,
+        "word": "赵天宇官宣恋情",
+        "onboard_time": 1743651202,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1334498,
+        "num": 363034,
+        "word": "刘维伟出轨",
+        "onboard_time": 1743650963,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1059520,
+        "num": 355890,
+        "word": "金子涵微博已全部清空",
+        "onboard_time": 1743647601,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 991794,
+        "num": 352653,
+        "word": "特朗普竟对中国征收34%对等关税",
+        "onboard_time": 1743648801,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 685482,
+        "num": 350901,
+        "word": "白敬亭申请强制执行致歉义务",
+        "onboard_time": 1743649941,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639986,
+        "num": 345785,
+        "word": "刘维伟 辛莎莎",
+        "onboard_time": 1743653841,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592351,
+        "num": 342330,
+        "word": "温如也向周雨彤道歉",
+        "onboard_time": 1743652283,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548804,
+        "num": 335445,
+        "word": "孟子坤 家暴",
+        "onboard_time": 1743606385,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256863,
+        "num": 332146,
+        "word": "孟子坤前女友公布聊天记录",
+        "onboard_time": 1743654444,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86935,
+        "num": 327129,
+        "word": "辅警给不法KTV通风报信获刑",
+        "onboard_time": 1743654624,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373279,
+        "num": 324654,
+        "word": "有效存钱15年竟然能多赚60万",
+        "onboard_time": 1743650662,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322165,
+        "num": 322165,
+        "word": "刘诗诗吴宣仪hi6上班路透",
+        "onboard_time": 1743652043,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387003,
+        "num": 319735,
+        "word": "孟子坤回应",
+        "onboard_time": 1743635659,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296001,
+        "num": 296001,
+        "word": "台湾台南4.2级地震",
+        "onboard_time": 1743654143,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 251924,
+        "num": 295808,
+        "word": "朝雪录",
+        "onboard_time": 1743652823,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250234,
+        "num": 293928,
+        "word": "重庆不齐舞团给甲亢哥表演科目三",
+        "onboard_time": 1743653421,
+        "rank": 25,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 206185,
+        "num": 292239,
+        "word": "西村力 金发",
+        "onboard_time": 1743654385,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193096,
+        "num": 291262,
+        "word": "颜安柯淳 安淳蛋",
+        "onboard_time": 1743652405,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290908,
+        "num": 290908,
+        "word": "多人在健身房组织卖淫最高判5年半",
+        "onboard_time": 1743647601,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186445,
+        "num": 271078,
+        "word": "我知道祝绪丹跳舞像谁了",
+        "onboard_time": 1743654923,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263379,
+        "num": 263379,
+        "word": "托运的行李箱多出条丝袜获赔4500元",
+        "onboard_time": 1743654022,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262920,
+        "num": 262920,
+        "word": "特朗普宣布实施所谓对等关税",
+        "onboard_time": 1743635298,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244220,
+        "num": 244220,
+        "word": "哈尔滨亚冬会遭境外攻击27万次",
+        "onboard_time": 1743645141,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192065,
+        "num": 192065,
+        "word": "罗晋这一段头皮发麻",
+        "onboard_time": 1743654265,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189416,
+        "num": 189416,
+        "word": "王安宇是个尤物",
+        "onboard_time": 1743653363,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186732,
+        "num": 186732,
+        "word": "老人上坟引发山火烧死66只羊无钱赔",
+        "onboard_time": 1743645141,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184220,
+        "num": 184220,
+        "word": "杭州的天才房东",
+        "onboard_time": 1743652222,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183176,
+        "num": 183176,
+        "word": "骄阳似我",
+        "onboard_time": 1743647420,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176158,
+        "num": 176158,
+        "word": "老人因缺水一辈子只洗3次脸",
+        "onboard_time": 1743638062,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174795,
+        "num": 174795,
+        "word": "爱奇艺4月待播剧综",
+        "onboard_time": 1743654444,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174075,
+        "num": 174075,
+        "word": "所谓美国解放日实则美国衰退日",
+        "onboard_time": 1743646700,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171553,
+        "num": 171553,
+        "word": "你和赵天宇爱过吗",
+        "onboard_time": 1743645800,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170480,
+        "num": 170480,
+        "word": "女大学生求职被要求3年不婚5年不育",
+        "onboard_time": 1743651562,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166652,
+        "num": 166652,
+        "word": "这顿饭牛都得就着健胃消食片吃",
+        "onboard_time": 1743652222,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164370,
+        "num": 164370,
+        "word": "全圆佑入伍",
+        "onboard_time": 1743655223,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155396,
+        "num": 155396,
+        "word": "曝王玉雯杨玏已分手",
+        "onboard_time": 1743603685,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153095,
+        "num": 153095,
+        "word": "明日方舟",
+        "onboard_time": 1743650662,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148899,
+        "num": 148899,
+        "word": "经人提醒认出我是撒贝宁",
+        "onboard_time": 1743653905,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145182,
+        "num": 145182,
+        "word": "既是节气又是节日只有清明",
+        "onboard_time": 1743636802,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134089,
+        "num": 134089,
+        "word": "中医建议多和喜欢的人散步",
+        "onboard_time": 1743654742,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记缅怀英烈#"
+    }
+  }
+}
