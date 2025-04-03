@@ -1,0 +1,410 @@
+{
+  "runTime": 1743687860421,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 60461,
+        "num": 1009673,
+        "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+        "onboard_time": 1743644780,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1347558,
+        "num": 858431,
+        "word": "家长建议取消学校义工站岗",
+        "onboard_time": 1743682702,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25102,
+        "num": 685534,
+        "word": "青春华章恰同学少年",
+        "onboard_time": 1743672323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1103106,
+        "num": 684287,
+        "word": "邓超gogogo出发喽",
+        "onboard_time": 1743683662,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 657010,
+        "num": 657010,
+        "word": "中方已向日方严正交涉",
+        "onboard_time": 1743682702,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1399559,
+        "num": 645106,
+        "word": "甜馨说有个名额就来啦",
+        "onboard_time": 1743681323,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 884903,
+        "num": 640758,
+        "word": "折腰",
+        "onboard_time": 1743679281,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 659198,
+        "num": 632981,
+        "word": "热烈重映 宋祖儿戏份",
+        "onboard_time": 1743685343,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 615533,
+        "num": 615533,
+        "word": "千万网红刀小刀被查",
+        "onboard_time": 1743674721,
+        "rank": 8,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 266704,
+        "num": 266704,
+        "word": "鸡柳年糕薯条",
+        "onboard_time": 1743686003,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 374881,
+        "num": 266581,
+        "word": "周深亮相外交部双语宣传短片",
+        "onboard_time": 1743678380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279183,
+        "num": 266520,
+        "word": "jayjay呢",
+        "onboard_time": 1743686783,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267295,
+        "num": 266398,
+        "word": "官方回应杭州东站大面积晚点",
+        "onboard_time": 1743681922,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266244,
+        "num": 266244,
+        "word": "CT查出骨折急诊医生说没骨折",
+        "onboard_time": 1743679822,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292557,
+        "num": 265602,
+        "word": "八点后的盒马 穷鬼天堂",
+        "onboard_time": 1743678981,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252761,
+        "num": 252761,
+        "word": "甲亢哥让外国人疯狂种草中国",
+        "onboard_time": 1743681081,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 246358,
+        "num": 246358,
+        "word": "吴艳妮气血很足的美",
+        "onboard_time": 1743684082,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225236,
+        "num": 225236,
+        "word": "TVB男演员陈键锋学厨以第一名毕业",
+        "onboard_time": 1743678080,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224593,
+        "num": 224593,
+        "word": "SM新男团",
+        "onboard_time": 1743686962,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94592,
+        "num": 210908,
+        "word": "SUV开启整车终身质保时代",
+        "onboard_time": 1743684082,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 358522,
+        "num": 210457,
+        "word": "德国女孩被印度免费导游设局强奸",
+        "onboard_time": 1743674662,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 301451,
+        "num": 207391,
+        "word": "养了10年的狗跳起来咬向主人喉咙",
+        "onboard_time": 1743684022,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200487,
+        "num": 200487,
+        "word": "鞠婧祎小号安慰粉丝",
+        "onboard_time": 1743675864,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167637,
+        "num": 191129,
+        "word": "亲人去世后微信号找不回",
+        "onboard_time": 1743685942,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120661,
+        "num": 187994,
+        "word": "杭州南站附近接触网故障",
+        "onboard_time": 1743683962,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187235,
+        "num": 187235,
+        "word": "国产AI称金秀贤痛哭大概率是表演",
+        "onboard_time": 1743685886,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185125,
+        "num": 185125,
+        "word": "乔兮 一诺",
+        "onboard_time": 1743686483,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176736,
+        "num": 176736,
+        "word": "hanbi公开",
+        "onboard_time": 1743680421,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172709,
+        "num": 172709,
+        "word": "给老婆保管工资离婚后要索回全部",
+        "onboard_time": 1743675020,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24701,
+        "num": 169692,
+        "word": "交学费买摆摊秘籍被骗",
+        "onboard_time": 1743686124,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168659,
+        "num": 168659,
+        "word": "清明节其实融合了三个节",
+        "onboard_time": 1743663381,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167814,
+        "num": 167814,
+        "word": "iPhone17Pro最强长焦",
+        "onboard_time": 1743674782,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163658,
+        "num": 163658,
+        "word": "冬去春来 杨洋章若楠",
+        "onboard_time": 1743687202,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163208,
+        "num": 163208,
+        "word": "老人百年祖宅被拆后维权7年",
+        "onboard_time": 1743685703,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151148,
+        "num": 151148,
+        "word": "十二年前的陈都灵",
+        "onboard_time": 1743678981,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149215,
+        "num": 149215,
+        "word": "九尾要喷Cat",
+        "onboard_time": 1743684022,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136017,
+        "num": 136017,
+        "word": "金店员工称黄金一天一个价看傻了",
+        "onboard_time": 1743673881,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118988,
+        "num": 118988,
+        "word": "刘诗诗和好友们一起闪现",
+        "onboard_time": 1743684862,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118359,
+        "num": 118359,
+        "word": "棋士反转",
+        "onboard_time": 1743683962,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117445,
+        "num": 117445,
+        "word": "甜馨否认签约乐华",
+        "onboard_time": 1743670042,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116608,
+        "num": 116608,
+        "word": "中学生徒步108里祭英烈",
+        "onboard_time": 1743684322,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 112811,
+        "num": 112811,
+        "word": "曝金秀贤公司后续或将裁员",
+        "onboard_time": 1743681862,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112141,
+        "num": 112141,
+        "word": "走夜路要特别警惕老旧小区",
+        "onboard_time": 1743683841,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111888,
+        "num": 111888,
+        "word": "夫妻吃凉拌皮蛋中毒住院6天",
+        "onboard_time": 1743677960,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111455,
+        "num": 111455,
+        "word": "流星",
+        "onboard_time": 1743682581,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110043,
+        "num": 110043,
+        "word": "念无双 水中贵族",
+        "onboard_time": 1743684501,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97485,
+        "num": 97485,
+        "word": "曝美政府禁止驻华人员与中国公民恋爱",
+        "onboard_time": 1743679641,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92990,
+        "num": 92990,
+        "word": "上一个挑衅监控的罪犯还是张克寒",
+        "onboard_time": 1743687683,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91711,
+        "num": 91711,
+        "word": "今年来已有多名艺人宣布退圈",
+        "onboard_time": 1743664342,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91051,
+        "num": 91051,
+        "word": "看得出孙俪很想给邓超一枪",
+        "onboard_time": 1743687503,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

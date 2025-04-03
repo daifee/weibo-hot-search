@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743687172604,
+  "endTime": 1743687860421,
   "band_list": [
     {
       "raw_hot": 4382418,
@@ -323,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 659198,
+      "num": 632981,
+      "word": "热烈重映 宋祖儿戏份",
+      "onboard_time": 1743685343,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 645109,
       "num": 645109,
       "word": "黄霄雲方再回应翻唱争议",
@@ -433,14 +441,6 @@
       "onboard_time": 1743606685,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 548336,
-      "num": 548336,
-      "word": "热烈重映 宋祖儿戏份",
-      "onboard_time": 1743685343,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 546315,
@@ -1059,6 +1059,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 279183,
+      "num": 266520,
+      "word": "jayjay呢",
+      "onboard_time": 1743686783,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277007,
       "num": 277007,
       "word": "极挑男人帮张艺兴新片首映合体",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1743611659,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 266704,
+      "num": 266704,
+      "word": "鸡柳年糕薯条",
+      "onboard_time": 1743686003,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 265347,
@@ -1123,6 +1139,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 246358,
+      "num": 310460,
+      "word": "吴艳妮气血很足的美",
+      "onboard_time": 1743684082,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236729,
       "num": 253331,
       "word": "马龙与马伊琍同框飙戏",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1743684022,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224593,
+      "num": 224593,
+      "word": "SM新男团",
+      "onboard_time": 1743686962,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 220864,
@@ -1201,14 +1233,6 @@
       "onboard_time": 1743673761,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 210926,
-      "num": 310460,
-      "word": "吴艳妮气血很足的美",
-      "onboard_time": 1743684082,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 210455,
@@ -1265,14 +1289,6 @@
       "onboard_time": 1743662303,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 201066,
-      "num": 201066,
-      "word": "jayjay呢",
-      "onboard_time": 1743686783,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 199966,
@@ -1395,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185125,
+      "num": 185125,
+      "word": "乔兮 一诺",
+      "onboard_time": 1743686483,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182540,
       "num": 182540,
       "word": "唐嫣这幕好帅但为什么扛着大葱",
@@ -1428,7 +1452,7 @@
     },
     {
       "raw_hot": 178491,
-      "num": 178491,
+      "num": 187994,
       "word": "杭州南站附近接触网故障",
       "onboard_time": 1743683962,
       "rank": 38,
@@ -1451,28 +1475,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 176610,
-      "num": 176610,
-      "word": "鸡柳年糕薯条",
-      "onboard_time": 1743686003,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 176319,
       "num": 176319,
       "word": "守护甜心几斗亲了亚梦",
       "onboard_time": 1743645141,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 175956,
-      "num": 175956,
-      "word": "乔兮 一诺",
-      "onboard_time": 1743686483,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 175633,
@@ -1571,6 +1579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167637,
+      "num": 239896,
+      "word": "亲人去世后微信号找不回",
+      "onboard_time": 1743685942,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166942,
       "num": 280534,
       "word": "当地回应拟取消老年人免费公交",
@@ -1603,12 +1619,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163658,
+      "num": 163658,
+      "word": "冬去春来 杨洋章若楠",
+      "onboard_time": 1743687202,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163550,
       "num": 173225,
       "word": "浪姐被低估的神级舞台",
       "onboard_time": 1743670341,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163208,
+      "num": 205622,
+      "word": "老人百年祖宅被拆后维权7年",
+      "onboard_time": 1743685703,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162946,
@@ -1633,14 +1665,6 @@
       "onboard_time": 1743646160,
       "rank": 36,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 160528,
-      "num": 160528,
-      "word": "SM新男团",
-      "onboard_time": 1743686962,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 157561,
@@ -2507,12 +2531,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92990,
+      "num": 92990,
+      "word": "上一个挑衅监控的罪犯还是张克寒",
+      "onboard_time": 1743687683,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91905,
       "num": 227701,
       "word": "东部战区演训雷霆出击",
       "onboard_time": 1743610460,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91051,
+      "num": 91051,
+      "word": "看得出孙俪很想给邓超一枪",
+      "onboard_time": 1743687503,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 90806,
@@ -2593,14 +2633,6 @@
       "onboard_time": 1743600324,
       "rank": 29,
       "category": "网红"
-    },
-    {
-      "raw_hot": 84573,
-      "num": 205622,
-      "word": "老人百年祖宅被拆后维权7年",
-      "onboard_time": 1743685703,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83687,
@@ -2809,14 +2841,6 @@
       "onboard_time": 1743617055,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 49650,
-      "num": 239896,
-      "word": "亲人去世后微信号找不回",
-      "onboard_time": 1743685942,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49598,
@@ -3083,6 +3107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24701,
+      "num": 176658,
+      "word": "交学费买摆摊秘籍被骗",
+      "onboard_time": 1743686124,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24502,
       "num": 72367,
       "word": "Switch2日版 自己锁自己",
@@ -3129,14 +3161,6 @@
       "onboard_time": 1743618134,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22270,
-      "num": 176658,
-      "word": "交学费买摆摊秘籍被骗",
-      "onboard_time": 1743686124,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20997,
