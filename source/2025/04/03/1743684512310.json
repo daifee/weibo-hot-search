@@ -1,0 +1,410 @@
+{
+  "runTime": 1743684512310,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 70053,
+        "num": 1011208,
+        "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+        "onboard_time": 1743644780,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1201974,
+        "num": 1009970,
+        "word": "甜馨说有个名额就来啦",
+        "onboard_time": 1743681323,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24695,
+        "num": 996749,
+        "word": "青春华章恰同学少年",
+        "onboard_time": 1743672323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 989111,
+        "num": 989111,
+        "word": "千万网红刀小刀被查",
+        "onboard_time": 1743674721,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 836565,
+        "num": 836565,
+        "word": "中方已向日方严正交涉",
+        "onboard_time": 1743682702,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1092220,
+        "num": 783912,
+        "word": "折腰",
+        "onboard_time": 1743679281,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 716484,
+        "num": 716484,
+        "word": "女子烧纸祭祖烧了邻居的保时捷",
+        "onboard_time": 1743681983,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496781,
+        "num": 496781,
+        "word": "CT查出骨折急诊医生说没骨折",
+        "onboard_time": 1743679822,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426528,
+        "num": 426528,
+        "word": "TVB男演员陈键锋学厨以第一名毕业",
+        "onboard_time": 1743678080,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401656,
+        "num": 401656,
+        "word": "家长建议取消学校义工站岗",
+        "onboard_time": 1743682702,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 574775,
+        "num": 401558,
+        "word": "八点后的盒马 穷鬼天堂",
+        "onboard_time": 1743678981,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 468837,
+        "num": 401484,
+        "word": "hanbi公开",
+        "onboard_time": 1743680421,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400597,
+        "num": 400597,
+        "word": "杭州东站",
+        "onboard_time": 1743681922,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382422,
+        "num": 382422,
+        "word": "周深亮相外交部双语宣传短片",
+        "onboard_time": 1743678380,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68956,
+        "num": 378506,
+        "word": "拼多多宣布投1000亿扶持商家",
+        "onboard_time": 1743681682,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 377340,
+        "num": 377340,
+        "word": "曝美政府禁止驻华人员与中国公民恋爱",
+        "onboard_time": 1743679641,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111267,
+        "num": 355981,
+        "word": "SUV开启整车终身质保时代",
+        "onboard_time": 1743684082,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 33361,
+        "num": 352238,
+        "word": "带货主播月入过万已成挑战",
+        "onboard_time": 1743683363,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96108,
+        "num": 350926,
+        "word": "分手后男子起诉相亲对象返还彩礼",
+        "onboard_time": 1743682882,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350835,
+        "num": 350835,
+        "word": "杨幂赵又廷 二搭",
+        "onboard_time": 1743661823,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390230,
+        "num": 350245,
+        "word": "德国女孩被印度免费导游设局强奸",
+        "onboard_time": 1743674662,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 248148,
+        "num": 340522,
+        "word": "邓超gogogo出发喽",
+        "onboard_time": 1743683662,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215717,
+        "num": 333851,
+        "word": "十二年前的陈都灵",
+        "onboard_time": 1743678981,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69062,
+        "num": 326817,
+        "word": "钟表与奇迹香奈儿腕表",
+        "onboard_time": 1743681801,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 43559,
+        "num": 319597,
+        "word": "对程序化交易实行实时监控",
+        "onboard_time": 1743678380,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48771,
+        "num": 316737,
+        "word": "中学生徒步108里祭英烈",
+        "onboard_time": 1743684322,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 52142,
+        "num": 310460,
+        "word": "吴艳妮气血很足的美",
+        "onboard_time": 1743684082,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77730,
+        "num": 303953,
+        "word": "职业女哭灵人半个月连哭16场",
+        "onboard_time": 1743682702,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45265,
+        "num": 295003,
+        "word": "四川已为川菜立法",
+        "onboard_time": 1743682943,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169456,
+        "num": 288786,
+        "word": "九尾要喷Cat",
+        "onboard_time": 1743684022,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193890,
+        "num": 281127,
+        "word": "hamin还不公开",
+        "onboard_time": 1743684262,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279998,
+        "num": 279998,
+        "word": "鞠婧祎小号安慰粉丝",
+        "onboard_time": 1743675864,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265347,
+        "num": 265347,
+        "word": "甲亢哥让外国人疯狂种草中国",
+        "onboard_time": 1743681081,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 256590,
+        "num": 256590,
+        "word": "养了10年的狗跳起来咬向主人喉咙",
+        "onboard_time": 1743684022,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199966,
+        "num": 255433,
+        "word": "走夜路要特别警惕老旧小区",
+        "onboard_time": 1743683841,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254354,
+        "num": 254354,
+        "word": "iPhone17Pro最强长焦",
+        "onboard_time": 1743674782,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208076,
+        "num": 208076,
+        "word": "给老婆保管工资离婚后要索回全部",
+        "onboard_time": 1743675020,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192621,
+        "num": 192621,
+        "word": "清明节其实融合了三个节",
+        "onboard_time": 1743663381,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178491,
+        "num": 178491,
+        "word": "杭州南站附近接触网故障",
+        "onboard_time": 1743683962,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172410,
+        "num": 172410,
+        "word": "金店员工称黄金一天一个价看傻了",
+        "onboard_time": 1743673881,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168587,
+        "num": 168587,
+        "word": "深圳家长建议取消学校义工站岗",
+        "onboard_time": 1743684022,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156354,
+        "num": 156354,
+        "word": "甜馨否认签约乐华",
+        "onboard_time": 1743670042,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154326,
+        "num": 154326,
+        "word": "曝金秀贤公司后续或将裁员",
+        "onboard_time": 1743681862,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151128,
+        "num": 151128,
+        "word": "高铁晚点",
+        "onboard_time": 1743681142,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147569,
+        "num": 147569,
+        "word": "夫妻吃凉拌皮蛋中毒住院6天",
+        "onboard_time": 1743677960,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140625,
+        "num": 140625,
+        "word": "流星",
+        "onboard_time": 1743682581,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136663,
+        "num": 136663,
+        "word": "青团",
+        "onboard_time": 1743679882,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136010,
+        "num": 136010,
+        "word": "清明当天不能洗头没有科学依据",
+        "onboard_time": 1743676102,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 135746,
+        "num": 135746,
+        "word": "张家界邀请苦尽柑来遇见你剧组",
+        "onboard_time": 1743672501,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134140,
+        "num": 134140,
+        "word": "无忧渡",
+        "onboard_time": 1743681263,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
