@@ -1,0 +1,410 @@
+{
+  "runTime": 1743652244490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 635652,
+        "num": 1125524,
+        "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+        "onboard_time": 1743644780,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2429717,
+        "num": 1114768,
+        "word": "提醒甲亢哥不文明行为的女生回应了",
+        "onboard_time": 1743650542,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 30746,
+        "num": 1109649,
+        "word": "联合国点赞中国新能源发展",
+        "onboard_time": 1743604164,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1276858,
+        "num": 1084404,
+        "word": "赵天宇官宣恋情",
+        "onboard_time": 1743651202,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1254645,
+        "num": 1071660,
+        "word": "金价冲向1000元",
+        "onboard_time": 1743645380,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1070655,
+        "num": 1070655,
+        "word": "特朗普宣布国家紧急状态",
+        "onboard_time": 1743636020,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 850873,
+        "num": 850873,
+        "word": "我国抓获3名菲律宾间谍",
+        "onboard_time": 1743649822,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 419551,
+        "num": 805696,
+        "word": "甲亢哥空着脖子来挂着辣椒走了",
+        "onboard_time": 1743640763,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 772201,
+        "num": 772201,
+        "word": "特朗普竟对中国征收34%对等关税",
+        "onboard_time": 1743648801,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126972,
+        "num": 706005,
+        "word": "特朗普不停加关税目的是啥",
+        "onboard_time": 1743651442,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1597116,
+        "num": 705444,
+        "word": "金子涵微博已全部清空",
+        "onboard_time": 1743647601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1099266,
+        "num": 702470,
+        "word": "白敬亭申请强制执行致歉义务",
+        "onboard_time": 1743649941,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692151,
+        "num": 692151,
+        "word": "刘维伟出轨",
+        "onboard_time": 1743650963,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547209,
+        "num": 547209,
+        "word": "孟子坤回应",
+        "onboard_time": 1743635659,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117488,
+        "num": 512552,
+        "word": "纽约股市主要股指期货暴跌",
+        "onboard_time": 1743650482,
+        "rank": 14,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 488364,
+        "num": 488364,
+        "word": "你和赵天宇爱过吗",
+        "onboard_time": 1743645800,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417960,
+        "num": 417960,
+        "word": "多人在健身房组织卖淫最高判5年半",
+        "onboard_time": 1743647601,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409272,
+        "num": 409272,
+        "word": "骄阳似我",
+        "onboard_time": 1743647420,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115245,
+        "num": 399181,
+        "word": "好友称王玉雯单身",
+        "onboard_time": 1743651622,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39688,
+        "num": 387531,
+        "word": "女大学生求职被要求3年不婚5年不育",
+        "onboard_time": 1743651562,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546697,
+        "num": 375332,
+        "word": "孟子坤 家暴",
+        "onboard_time": 1743606385,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411687,
+        "num": 345316,
+        "word": "有效存钱15年竟然能多赚60万",
+        "onboard_time": 1743650662,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342915,
+        "num": 342915,
+        "word": "哈尔滨亚冬会遭境外攻击27万次",
+        "onboard_time": 1743645141,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303477,
+        "num": 303477,
+        "word": "明日方舟",
+        "onboard_time": 1743650662,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265686,
+        "num": 265686,
+        "word": "刘诗诗吴宣仪hi6上班路透",
+        "onboard_time": 1743652043,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254884,
+        "num": 254884,
+        "word": "山西怀仁3.6级地震",
+        "onboard_time": 1743646101,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 249914,
+        "num": 249914,
+        "word": "曝王玉雯杨玏已分手",
+        "onboard_time": 1743603685,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246995,
+        "num": 246995,
+        "word": "所谓美国解放日实则美国衰退日",
+        "onboard_time": 1743646700,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181086,
+        "num": 233240,
+        "word": "戚薇宋仲基同框",
+        "onboard_time": 1743648262,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170156,
+        "num": 229256,
+        "word": "侯佩岑否认整容",
+        "onboard_time": 1743645981,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226156,
+        "num": 226156,
+        "word": "老人上坟引发山火烧死66只羊无钱赔",
+        "onboard_time": 1743645141,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157561,
+        "num": 220492,
+        "word": "一诺FMVP云诺千山定晴雨",
+        "onboard_time": 1743652163,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35875,
+        "num": 219242,
+        "word": "多国及国际组织反击美关税胁迫",
+        "onboard_time": 1743652163,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219051,
+        "num": 219051,
+        "word": "黑龙江重大运输事故处理43人",
+        "onboard_time": 1743647601,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 211227,
+        "num": 211227,
+        "word": "特朗普宣布实施所谓对等关税",
+        "onboard_time": 1743635298,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196708,
+        "num": 196708,
+        "word": "老人因缺水一辈子只洗3次脸",
+        "onboard_time": 1743638062,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193508,
+        "num": 193508,
+        "word": "吴磊工作室取证告黑",
+        "onboard_time": 1743650482,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188221,
+        "num": 188221,
+        "word": "低价黄金手机贴换算克价竟过万元",
+        "onboard_time": 1743647481,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38641,
+        "num": 179212,
+        "word": "任天堂股价跌了",
+        "onboard_time": 1743652222,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11947,
+        "num": 177785,
+        "word": "甲亢哥体验自动驾驶",
+        "onboard_time": 1743652103,
+        "rank": 39,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 113739,
+        "num": 177708,
+        "word": "骄阳似我杀青",
+        "onboard_time": 1743650002,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177671,
+        "num": 177671,
+        "word": "我国成功发射天平三号A星02星",
+        "onboard_time": 1743651562,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169119,
+        "num": 169119,
+        "word": "美国自绝于全球自由贸易之外",
+        "onboard_time": 1743649462,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162138,
+        "num": 162138,
+        "word": "既是节气又是节日只有清明",
+        "onboard_time": 1743636802,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158696,
+        "num": 158696,
+        "word": "杭州的天才房东",
+        "onboard_time": 1743652222,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154177,
+        "num": 154177,
+        "word": "大同震感",
+        "onboard_time": 1743646160,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 146331,
+        "num": 146331,
+        "word": "这顿饭牛都得就着健胃消食片吃",
+        "onboard_time": 1743652222,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21225,
+        "num": 142653,
+        "word": "如何判断一款包的收藏价值",
+        "onboard_time": 1743647481,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142529,
+        "num": 142529,
+        "word": "00后本科毕业生打三份工的一天",
+        "onboard_time": 1743649822,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138276,
+        "num": 138276,
+        "word": "72块钱3个苹果变两万",
+        "onboard_time": 1743651442,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#自觉遵规守纪大胆干事创业#"
+    }
+  }
+}
