@@ -1,7 +1,23 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743646372129,
+  "endTime": 1743649438242,
   "band_list": [
+    {
+      "raw_hot": 2038143,
+      "num": 350013,
+      "word": "金子涵微博已全部清空",
+      "onboard_time": 1743647601,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1941198,
+      "num": 1941198,
+      "word": "金价冲向1000元",
+      "onboard_time": 1743645380,
+      "rank": 14,
+      "category": "财经"
+    },
     {
       "raw_hot": 1471890,
       "num": 365715,
@@ -43,12 +59,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 928481,
+      "num": 345777,
+      "word": "你和赵天宇爱过吗",
+      "onboard_time": 1743645800,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 883730,
       "num": 883730,
       "word": "22岁离世女骑手家属寻目击者定责",
       "onboard_time": 1743630795,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 819020,
+      "num": 819020,
+      "word": "黑龙江12·20重大运输事故处理43人",
+      "onboard_time": 1743647601,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 771856,
@@ -107,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 546315,
+      "num": 322850,
+      "word": "多人在健身房组织卖淫最高判5年半",
+      "onboard_time": 1743647601,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 519044,
       "num": 519044,
       "word": "日本九州岛附近6.2级地震",
@@ -121,6 +161,14 @@
       "onboard_time": 1743635298,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 496987,
+      "num": 496987,
+      "word": "骄阳似我",
+      "onboard_time": 1743647420,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 494177,
@@ -195,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 405688,
+      "num": 405688,
+      "word": "大同震感",
+      "onboard_time": 1743646160,
+      "rank": 7,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 395899,
       "num": 395899,
       "word": "心疼小白熊",
@@ -209,6 +265,14 @@
       "onboard_time": 1743605486,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376428,
+      "num": 376428,
+      "word": "低价黄金手机贴换算克价竟过万元",
+      "onboard_time": 1743647481,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 371803,
@@ -227,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357584,
+      "num": 357584,
+      "word": "商务部回应美方宣布对等关税",
+      "onboard_time": 1743646520,
+      "rank": 9,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 335195,
       "num": 335195,
       "word": "既是节气又是节日只有清明",
@@ -240,6 +312,14 @@
       "word": "罗志祥宣传张艺兴新片",
       "onboard_time": 1743637820,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 332389,
+      "num": 164108,
+      "word": "戚薇宋仲基同框",
+      "onboard_time": 1743648262,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -273,6 +353,22 @@
       "onboard_time": 1743599783,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310974,
+      "num": 310974,
+      "word": "所谓美国解放日实则美国衰退日",
+      "onboard_time": 1743646700,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 308936,
+      "num": 308936,
+      "word": "侯佩岑否认整容",
+      "onboard_time": 1743645981,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 308097,
@@ -315,28 +411,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 271950,
-      "num": 319245,
-      "word": "你和赵天宇爱过吗",
-      "onboard_time": 1743645800,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263606,
-      "num": 263606,
+      "num": 616065,
       "word": "哈尔滨亚冬会遭境外攻击27万次",
       "onboard_time": 1743645141,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 248964,
-      "num": 368153,
-      "word": "金价冲向1000元",
-      "onboard_time": 1743645380,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 227796,
@@ -369,6 +449,14 @@
       "onboard_time": 1743639442,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177483,
+      "num": 335451,
+      "word": "商务部谈美方宣布对等关税",
+      "onboard_time": 1743647601,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 176319,
@@ -409,14 +497,6 @@
       "onboard_time": 1743639082,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 168194,
-      "num": 226002,
-      "word": "侯佩岑否认整容",
-      "onboard_time": 1743645981,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 161229,
@@ -475,6 +555,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142709,
+      "num": 142709,
+      "word": "一个小绵羊可以集齐男人帮",
+      "onboard_time": 1743648083,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 141534,
+      "num": 141534,
+      "word": "知名华裔教授王晓峰疑失联两周",
+      "onboard_time": 1743648201,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141083,
       "num": 224428,
       "word": "乘风2025四公分组",
@@ -489,6 +585,14 @@
       "onboard_time": 1743642623,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133343,
+      "num": 133343,
+      "word": "张佳宁新剧10秒演出5种情绪",
+      "onboard_time": 1743646640,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 131833,
@@ -513,6 +617,14 @@
       "onboard_time": 1743641183,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124726,
+      "num": 160821,
+      "word": "曾黎对话竹刻非遗传承人",
+      "onboard_time": 1743649282,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 123603,
@@ -547,6 +659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 113962,
+      "num": 113962,
+      "word": "特朗普竟对中国征收34%对等关税",
+      "onboard_time": 1743648801,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 110487,
       "num": 110487,
       "word": "缅甸地震已致3003死4515伤",
@@ -561,6 +681,14 @@
       "onboard_time": 1743639982,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110135,
+      "num": 110135,
+      "word": "特朗普关税政策刺激美股指期货暴跌",
+      "onboard_time": 1743648982,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108834,
@@ -601,6 +729,14 @@
       "onboard_time": 1743611180,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105215,
+      "num": 105215,
+      "word": "马斯克砸数千万美元助选失败",
+      "onboard_time": 1743648441,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102577,
@@ -787,6 +923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63193,
+      "num": 284579,
+      "word": "全红婵跳水世界杯热身",
+      "onboard_time": 1743648622,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63024,
       "num": 67559,
       "word": "缅甸地震已致超3000死",
@@ -857,6 +1001,14 @@
       "onboard_time": 1743624014,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41367,
+      "num": 142069,
+      "word": "如何判断一款包的收藏价值",
+      "onboard_time": 1743647481,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 37245,
