@@ -1,0 +1,410 @@
+{
+  "runTime": 1743669130083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 162297,
+        "num": 1025967,
+        "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+        "onboard_time": 1743644780,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1013459,
+        "num": 1013459,
+        "word": "月薪4千搬运工瞒家人买454万保险",
+        "onboard_time": 1743663682,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18706,
+        "num": 720326,
+        "word": "我国新能源行业将步入市场化新阶段",
+        "onboard_time": 1743654084,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536899,
+        "num": 536899,
+        "word": "提醒甲亢哥不文明行为的女生回应了",
+        "onboard_time": 1743650542,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 447427,
+        "num": 447427,
+        "word": "清明节其实融合了三个节",
+        "onboard_time": 1743663381,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425299,
+        "num": 425299,
+        "word": "杨幂赵又廷 二搭",
+        "onboard_time": 1743661823,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417642,
+        "num": 417642,
+        "word": "阿诺一胎早产董力又哭又笑",
+        "onboard_time": 1743664041,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387480,
+        "num": 387480,
+        "word": "世界最小蛇类只有雌性也能繁殖",
+        "onboard_time": 1743664282,
+        "rank": 7,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 278578,
+        "num": 278578,
+        "word": "成都一地被曝发现大量流浪猫",
+        "onboard_time": 1743667282,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246852,
+        "num": 246852,
+        "word": "河北邯郸一动物园有熊出逃",
+        "onboard_time": 1743667641,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1311464,
+        "num": 245293,
+        "word": "甜馨 出道",
+        "onboard_time": 1743669022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525456,
+        "num": 242573,
+        "word": "一计害七贤",
+        "onboard_time": 1743665422,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 417804,
+        "num": 238178,
+        "word": "门童台湾",
+        "onboard_time": 1743656542,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248566,
+        "num": 236231,
+        "word": "全国文旅喊话李现来打鸟",
+        "onboard_time": 1743666742,
+        "rank": 13,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 405588,
+        "num": 233123,
+        "word": "刘维伟出轨",
+        "onboard_time": 1743650963,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402039,
+        "num": 230859,
+        "word": "今年来已有多名艺人宣布退圈",
+        "onboard_time": 1743664342,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342421,
+        "num": 224801,
+        "word": "金子涵微博已全部清空",
+        "onboard_time": 1743647601,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224482,
+        "num": 224482,
+        "word": "陈卓璇说感谢小鬼推了自己一把",
+        "onboard_time": 1743667942,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120841,
+        "num": 220728,
+        "word": "孟子坤说自己不是正经人",
+        "onboard_time": 1743667822,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105109,
+        "num": 214557,
+        "word": "甲骨文藏着河南姓氏图腾",
+        "onboard_time": 1743667401,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289869,
+        "num": 207801,
+        "word": "金秀贤方晒real分镜脚本",
+        "onboard_time": 1743659122,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 28751,
+        "num": 196436,
+        "word": "白宫回应对等关税名单没有俄罗斯",
+        "onboard_time": 1743668842,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 286972,
+        "num": 188762,
+        "word": "男子被关精神病院出院后查出没患病",
+        "onboard_time": 1743663802,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227426,
+        "num": 180750,
+        "word": "孟子坤回应",
+        "onboard_time": 1743635659,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175387,
+        "num": 175387,
+        "word": "赵丽颖工作室海报审美",
+        "onboard_time": 1743667581,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162512,
+        "num": 175371,
+        "word": "Last Dance 浪姐舞台冤案",
+        "onboard_time": 1743661582,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162185,
+        "num": 175309,
+        "word": "哪吒2超155亿了",
+        "onboard_time": 1743656662,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161859,
+        "num": 175245,
+        "word": "唐嫣这幕好帅但为什么扛着大葱",
+        "onboard_time": 1743664941,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151610,
+        "num": 175154,
+        "word": "肖战说张艺兴不说话的爱值得被更多人看见",
+        "onboard_time": 1743658463,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36636,
+        "num": 175153,
+        "word": "韩国人为何钟爱张家界山水",
+        "onboard_time": 1743668782,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 29889,
+        "num": 175052,
+        "word": "男子持械打砸汽车销售店被刑拘",
+        "onboard_time": 1743669022,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176690,
+        "num": 175030,
+        "word": "朝雪录 敖瑞鹏",
+        "onboard_time": 1743668541,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174980,
+        "num": 174980,
+        "word": "我国抓获3名菲律宾间谍",
+        "onboard_time": 1743649822,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169117,
+        "num": 169117,
+        "word": "金价冲向1000元",
+        "onboard_time": 1743645380,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2716729,
+        "num": 160783,
+        "word": "甜馨签约乐华了",
+        "onboard_time": 1743664221,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150677,
+        "num": 150677,
+        "word": "义乌商家谈美国加征关税",
+        "onboard_time": 1743662303,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33473,
+        "num": 148609,
+        "word": "林业局回应动物园有熊出逃",
+        "onboard_time": 1743669022,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147383,
+        "num": 147383,
+        "word": "忽然发现跳舞可以旺自己",
+        "onboard_time": 1743663741,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118313,
+        "num": 143068,
+        "word": "蔚来智驾强行变道致后车追尾",
+        "onboard_time": 1743664102,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142656,
+        "num": 142656,
+        "word": "刘维伟 辛莎莎",
+        "onboard_time": 1743653841,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142089,
+        "num": 142089,
+        "word": "微信引用回复功能更新",
+        "onboard_time": 1743659181,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 126691,
+        "num": 126691,
+        "word": "一诺灵儿携雨踏云大片",
+        "onboard_time": 1743666202,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126357,
+        "num": 126357,
+        "word": "特朗普竟对中国征收34%对等关税",
+        "onboard_time": 1743648801,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125681,
+        "num": 125681,
+        "word": "甲亢哥安利诡秘之主动画",
+        "onboard_time": 1743667341,
+        "rank": 43,
+        "category": "网红,动漫"
+      },
+      {
+        "raw_hot": 123418,
+        "num": 123418,
+        "word": "孙俪单手倒车入库",
+        "onboard_time": 1743653723,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123275,
+        "num": 123275,
+        "word": "外交部回应美国所谓对等关税",
+        "onboard_time": 1743665783,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121799,
+        "num": 121799,
+        "word": "特朗普宣布国家紧急状态",
+        "onboard_time": 1743636020,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120224,
+        "num": 120224,
+        "word": "悬疑剧都卷成案中案了",
+        "onboard_time": 1743669082,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116276,
+        "num": 116276,
+        "word": "白敬亭申请强制执行致歉义务",
+        "onboard_time": 1743649941,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115209,
+        "num": 115209,
+        "word": "庄寒雁坐拥千万家产无痛当妈",
+        "onboard_time": 1743668603,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记缅怀英烈#"
+    }
+  }
+}

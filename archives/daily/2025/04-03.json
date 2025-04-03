@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743665844739,
+  "endTime": 1743669130083,
   "band_list": [
     {
       "raw_hot": 4382418,
@@ -83,6 +83,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1311464,
+      "num": 245293,
+      "word": "甜馨 出道",
+      "onboard_time": 1743669022,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1238367,
       "num": 772201,
       "word": "特朗普竟对中国征收34%对等关税",
@@ -113,6 +121,14 @@
       "onboard_time": 1743649941,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1013459,
+      "num": 1013459,
+      "word": "月薪4千搬运工瞒家人买454万保险",
+      "onboard_time": 1743663682,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 992763,
@@ -169,14 +185,6 @@
       "onboard_time": 1743653723,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 823832,
-      "num": 823832,
-      "word": "月薪4千搬运工瞒家人买454万保险",
-      "onboard_time": 1743663682,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 819020,
@@ -305,6 +313,14 @@
       "onboard_time": 1743658463,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 525456,
+      "num": 242573,
+      "word": "一计害七贤",
+      "onboard_time": 1743665422,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 520574,
@@ -491,6 +507,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 402039,
+      "num": 273455,
+      "word": "今年来已有多名艺人宣布退圈",
+      "onboard_time": 1743664342,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395899,
       "num": 395899,
       "word": "心疼小白熊",
@@ -505,6 +529,14 @@
       "onboard_time": 1743605486,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387480,
+      "num": 387480,
+      "word": "世界最小蛇类只有雌性也能繁殖",
+      "onboard_time": 1743664282,
+      "rank": 37,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 378795,
@@ -723,6 +755,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 286972,
+      "num": 269754,
+      "word": "男子被关精神病院出院后查出没患病",
+      "onboard_time": 1743663802,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281614,
       "num": 281614,
       "word": "贾乃亮换头像为甜馨新单曲打call",
@@ -737,6 +777,14 @@
       "onboard_time": 1743659181,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 278578,
+      "num": 278578,
+      "word": "成都一地被曝发现大量流浪猫",
+      "onboard_time": 1743667282,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277007,
@@ -755,14 +803,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 269754,
-      "num": 269754,
-      "word": "男子被关精神病院出院后查出没患病",
-      "onboard_time": 1743663802,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258693,
       "num": 295808,
       "word": "朝雪录",
@@ -771,12 +811,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248566,
+      "num": 236231,
+      "word": "全国文旅喊话李现来打鸟",
+      "onboard_time": 1743666742,
+      "rank": 13,
+      "category": "旅游,艺人"
+    },
+    {
       "raw_hot": 247091,
       "num": 247091,
       "word": "不良人第七季第一刀",
       "onboard_time": 1743662122,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 246852,
+      "num": 246852,
+      "word": "河北邯郸一动物园有熊出逃",
+      "onboard_time": 1743667641,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236729,
@@ -801,6 +857,14 @@
       "onboard_time": 1743604406,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 224482,
+      "num": 224482,
+      "word": "陈卓璇说感谢小鬼推了自己一把",
+      "onboard_time": 1743667942,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 220864,
@@ -833,14 +897,6 @@
       "onboard_time": 1743649282,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213075,
-      "num": 213075,
-      "word": "世界最小蛇类只有雌性也能繁殖",
-      "onboard_time": 1743664282,
-      "rank": 37,
-      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 209000,
@@ -904,14 +960,6 @@
       "word": "吴磊工作室取证告黑",
       "onboard_time": 1743650482,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 193120,
-      "num": 273455,
-      "word": "今年来已有多名艺人宣布退圈",
-      "onboard_time": 1743664342,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -979,6 +1027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 176690,
+      "num": 175030,
+      "word": "朝雪录 敖瑞鹏",
+      "onboard_time": 1743668541,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176319,
       "num": 176319,
       "word": "守护甜心几斗亲了亚梦",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1743643880,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175387,
+      "num": 175387,
+      "word": "赵丽颖工作室海报审美",
+      "onboard_time": 1743667581,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 173736,
@@ -1129,14 +1193,6 @@
       "onboard_time": 1743648201,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149821,
-      "num": 149821,
-      "word": "一计害七贤",
-      "onboard_time": 1743665422,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 148899,
@@ -1331,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126691,
+      "num": 126691,
+      "word": "一诺灵儿携雨踏云大片",
+      "onboard_time": 1743666202,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126256,
       "num": 126256,
       "word": "浓眉绝杀老鹰",
@@ -1339,12 +1403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125681,
+      "num": 125681,
+      "word": "甲亢哥安利诡秘之主动画",
+      "onboard_time": 1743667341,
+      "rank": 43,
+      "category": "网红,动漫"
+    },
+    {
       "raw_hot": 123603,
       "num": 123603,
       "word": "Flamma道歉",
       "onboard_time": 1743607705,
       "rank": 32,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 123275,
+      "num": 186266,
+      "word": "外交部回应美国所谓对等关税",
+      "onboard_time": 1743665783,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122120,
@@ -1361,6 +1441,22 @@
       "onboard_time": 1743590303,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120841,
+      "num": 220728,
+      "word": "孟子坤说自己不是正经人",
+      "onboard_time": 1743667822,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120224,
+      "num": 120224,
+      "word": "悬疑剧都卷成案中案了",
+      "onboard_time": 1743669082,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 119542,
@@ -1395,6 +1491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118313,
+      "num": 143068,
+      "word": "蔚来智驾强行变道致后车追尾",
+      "onboard_time": 1743664102,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117488,
       "num": 512552,
       "word": "纽约股市主要股指期货暴跌",
@@ -1417,6 +1521,14 @@
       "onboard_time": 1743651622,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115209,
+      "num": 115209,
+      "word": "庄寒雁坐拥千万家产无痛当妈",
+      "onboard_time": 1743668603,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 113739,
@@ -1489,6 +1601,14 @@
       "onboard_time": 1743648441,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105109,
+      "num": 214557,
+      "word": "甲骨文藏着河南姓氏图腾",
+      "onboard_time": 1743667401,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102577,
@@ -1747,14 +1867,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 50388,
-      "num": 186266,
-      "word": "外交部回应美国所谓对等关税",
-      "onboard_time": 1743665783,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 49598,
       "num": 67492,
       "word": "加沙所有大饼店因面粉耗尽停业",
@@ -1835,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36636,
+      "num": 175153,
+      "word": "韩国人为何钟爱张家界山水",
+      "onboard_time": 1743668782,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 35875,
       "num": 219242,
       "word": "多国及国际组织反击美关税胁迫",
@@ -1857,6 +1977,14 @@
       "onboard_time": 1743653363,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 33473,
+      "num": 148609,
+      "word": "林业局回应动物园有熊出逃",
+      "onboard_time": 1743669022,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32814,
@@ -1899,12 +2027,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29889,
+      "num": 175052,
+      "word": "男子持械打砸汽车销售店被刑拘",
+      "onboard_time": 1743669022,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29273,
       "num": 384015,
       "word": "多品牌金饰3天涨幅超20元",
       "onboard_time": 1743664462,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 28751,
+      "num": 196436,
+      "word": "白宫回应对等关税名单没有俄罗斯",
+      "onboard_time": 1743668842,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27766,
@@ -1964,7 +2108,7 @@
     },
     {
       "raw_hot": 23867,
-      "num": 278030,
+      "num": 720326,
       "word": "我国新能源行业将步入市场化新阶段",
       "onboard_time": 1743654084,
       "rank": 23,
