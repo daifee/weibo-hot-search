@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/04 00:30:04 ~ 2025/04/04 01:21:46
+本榜单时间：2025/04/04 00:30:04 ~ 2025/04/04 01:39:18
 </p>
 </blockquote>
 <p>
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E8%83%96718.8%E6%96%A4%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95%23" target="weibo">
-中国第一胖718.8斤刷新纪录（热度：425252）
+中国第一胖718.8斤刷新纪录（热度：526368）
 </a>
 </li>
 
@@ -334,13 +334,19 @@ jayjay呢（热度：74104）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%8C%E5%B9%B4%E5%89%8D%E7%9A%84%E9%99%88%E9%83%BD%E7%81%B5%23" target="weibo">
-十二年前的陈都灵（热度：46500）
+十二年前的陈都灵（热度：51824）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E7%BE%8E%E9%A3%9F%E5%9B%BE%E9%89%B4%E4%B8%8A%E6%96%B0%E4%BA%86%23" target="weibo">
 清明美食图鉴上新了（热度：44783）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%855G%E5%86%B2%E6%B5%AA%E5%AE%9E%E9%94%A4%E4%BA%86%23" target="weibo">
+邓超5G冲浪实锤了（热度：44235）
 </a>
 </li>
 

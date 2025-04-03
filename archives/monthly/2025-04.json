@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743700906090,
+  "endTime": 1743701958945,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1539,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 526368,
+      "num": 526368,
+      "word": "中国第一胖718.8斤刷新纪录",
+      "onboard_time": 1743700037,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 525456,
       "num": 242573,
       "word": "一计害七贤",
@@ -1921,14 +1929,6 @@
       "onboard_time": 1743431003,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 425252,
-      "num": 425252,
-      "word": "中国第一胖718.8斤刷新纪录",
-      "onboard_time": 1743700037,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 424774,
@@ -9385,6 +9385,14 @@
       "onboard_time": 1743463639,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44235,
+      "num": 44235,
+      "word": "邓超5G冲浪实锤了",
+      "onboard_time": 1743701896,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 43564,

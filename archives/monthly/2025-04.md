@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/04 01:21:46
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/04 01:39:18
 </p>
 </blockquote>
 <p>
@@ -1167,6 +1167,12 @@ iPhone17Pro最强长焦（热度：528411）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E8%83%96718.8%E6%96%A4%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95%23" target="weibo">
+中国第一胖718.8斤刷新纪录（热度：526368）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AE%A1%E5%AE%B3%E4%B8%83%E8%B4%A4%23" target="weibo">
 一计害七贤（热度：525456）
 </a>
@@ -1451,12 +1457,6 @@ hanbi公开（热度：468837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%B3%E5%8F%91%E4%BA%86%E8%B5%A4%E8%84%9A%E9%AC%BC%23" target="weibo">
 王艳发了赤脚鬼（热度：435494）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E8%83%96718.8%E6%96%A4%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95%23" target="weibo">
-中国第一胖718.8斤刷新纪录（热度：425252）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743700906090,
+  "endTime": 1743701958945,
   "band_list": [
     {
       "raw_hot": 1569796,
@@ -27,8 +27,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 425252,
-      "num": 425252,
+      "raw_hot": 526368,
+      "num": 526368,
       "word": "中国第一胖718.8斤刷新纪录",
       "onboard_time": 1743700037,
       "rank": 1,
@@ -427,8 +427,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 46500,
-      "num": 46500,
+      "raw_hot": 51824,
+      "num": 51824,
       "word": "十二年前的陈都灵",
       "onboard_time": 1743678981,
       "rank": 47,
@@ -441,6 +441,14 @@
       "onboard_time": 1743688282,
       "rank": 2,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 44235,
+      "num": 44235,
+      "word": "邓超5G冲浪实锤了",
+      "onboard_time": 1743701896,
+      "rank": 44,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
