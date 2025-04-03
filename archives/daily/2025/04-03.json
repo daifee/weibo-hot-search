@@ -1,7 +1,15 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743662852824,
+  "endTime": 1743665072201,
   "band_list": [
+    {
+      "raw_hot": 2518015,
+      "num": 685448,
+      "word": "甜馨签约乐华了",
+      "onboard_time": 1743664221,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2429717,
       "num": 1114768,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 920763,
-      "num": 349544,
+      "num": 389085,
       "word": "金秀贤方晒real分镜脚本",
       "onboard_time": 1743659122,
       "rank": 11,
@@ -179,6 +187,14 @@
       "category": "美食,电影"
     },
     {
+      "raw_hot": 751323,
+      "num": 751323,
+      "word": "杨幂赵又廷 二搭",
+      "onboard_time": 1743661823,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 687985,
       "num": 387584,
       "word": "曝王玉雯杨玏已分手",
@@ -193,14 +209,6 @@
       "onboard_time": 1743644780,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 644886,
-      "num": 385618,
-      "word": "杨幂赵又廷 二搭",
-      "onboard_time": 1743661823,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 639986,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 540671,
-      "num": 380816,
+      "num": 396860,
       "word": "肖战说张艺兴不说话的爱值得被更多人看见",
       "onboard_time": 1743658463,
       "rank": 33,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 491855,
-      "num": 347875,
+      "num": 366181,
       "word": "阿诺产后抑郁",
       "onboard_time": 1743660922,
       "rank": 16,
@@ -369,6 +377,14 @@
       "onboard_time": 1743608361,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471467,
+      "num": 471467,
+      "word": "清明节其实融合了三个节",
+      "onboard_time": 1743663381,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 466805,
@@ -409,6 +425,14 @@
       "onboard_time": 1743654923,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 437885,
+      "num": 437885,
+      "word": "月薪4千搬运工瞒家人买454万保险",
+      "onboard_time": 1743663682,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 424774,
@@ -491,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372494,
+      "num": 372494,
+      "word": "Last Dance 浪姐舞台冤案",
+      "onboard_time": 1743661582,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372014,
       "num": 706005,
       "word": "特朗普不停加关税目的是啥",
@@ -513,6 +545,22 @@
       "onboard_time": 1743604345,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 364518,
+      "num": 278289,
+      "word": "阿诺一胎早产董力又哭又笑",
+      "onboard_time": 1743664041,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 359221,
+      "num": 359221,
+      "word": "老人在养老院遭粗暴对待多处骨折",
+      "onboard_time": 1743660982,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357584,
@@ -619,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311597,
-      "num": 311597,
-      "word": "老人在养老院遭粗暴对待多处骨折",
-      "onboard_time": 1743660982,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 308936,
       "num": 308936,
       "word": "侯佩岑否认整容",
@@ -649,14 +689,6 @@
       "onboard_time": 1743660082,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 307470,
-      "num": 307470,
-      "word": "Last Dance 浪姐舞台冤案",
-      "onboard_time": 1743661582,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 306324,
@@ -721,6 +753,14 @@
       "onboard_time": 1743611659,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 269754,
+      "num": 269754,
+      "word": "男子被关精神病院出院后查出没患病",
+      "onboard_time": 1743663802,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258693,
@@ -875,6 +915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184316,
+      "num": 184316,
+      "word": "忽然发现跳舞可以旺自己",
+      "onboard_time": 1743663741,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180980,
       "num": 180980,
       "word": "爱奇艺4月待播剧综",
@@ -921,6 +969,14 @@
       "onboard_time": 1743643880,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174547,
+      "num": 174547,
+      "word": "世界最小蛇类只有雌性也能繁殖",
+      "onboard_time": 1743664282,
+      "rank": 37,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 173736,
@@ -987,6 +1043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156872,
+      "num": 350786,
+      "word": "挤满海豹的无人岛被美国加征关税",
+      "onboard_time": 1743662002,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156411,
       "num": 183230,
       "word": "张艺兴的手语练成肌肉记忆了",
@@ -1001,6 +1065,14 @@
       "onboard_time": 1743644362,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153854,
+      "num": 153854,
+      "word": "林更新毛晓彤演我和我的犟种男友",
+      "onboard_time": 1743662241,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 153333,
@@ -1059,12 +1131,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 146600,
-      "num": 146600,
-      "word": "林更新毛晓彤演我和我的犟种男友",
-      "onboard_time": 1743662241,
-      "rank": 41,
+      "raw_hot": 146998,
+      "num": 190554,
+      "word": "今年来已有多名艺人宣布退圈",
+      "onboard_time": 1743664342,
+      "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146096,
+      "num": 146096,
+      "word": "甲亢哥换上学中国功夫手机壳",
+      "onboard_time": 1743663563,
+      "rank": 44,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 145322,
@@ -1211,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127243,
+      "num": 396338,
+      "word": "义乌商家谈美国加征关税",
+      "onboard_time": 1743662303,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127104,
       "num": 438172,
       "word": "郑钦文为低排名球员发声",
@@ -1235,14 +1323,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 123023,
-      "num": 350786,
-      "word": "挤满海豹的无人岛被美国加征关税",
-      "onboard_time": 1743662002,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 122120,
       "num": 122120,
       "word": "孤独症男孩因高颜值走红妈妈发声",
@@ -1257,6 +1337,14 @@
       "onboard_time": 1743590303,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120424,
+      "num": 120424,
+      "word": "唐嫣这幕好帅但为什么扛着大葱",
+      "onboard_time": 1743664941,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 119542,
@@ -1297,14 +1385,6 @@
       "onboard_time": 1743650482,
       "rank": 14,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 117306,
-      "num": 117306,
-      "word": "义乌商家谈美国加征关税",
-      "onboard_time": 1743662303,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 116346,
@@ -1619,6 +1699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57892,
+      "num": 337914,
+      "word": "你想生活在怎样的世界",
+      "onboard_time": 1743664581,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55240,
       "num": 438877,
       "word": "Switch2值不值得买",
@@ -1851,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21312,
+      "num": 384015,
+      "word": "多品牌金饰3天涨幅超20元",
+      "onboard_time": 1743664462,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 20997,
       "num": 26510,
       "word": "海警闽南话喊话台湾船只",
@@ -1881,6 +1977,14 @@
       "onboard_time": 1743627134,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18347,
+      "num": 204203,
+      "word": "古驰竹节包展览加场",
+      "onboard_time": 1743664462,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 16270,
@@ -1945,6 +2049,14 @@
       "onboard_time": 1743553283,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5681,
+      "num": 153829,
+      "word": "甲亢哥摄影师",
+      "onboard_time": 1743665003,
+      "rank": 41,
+      "category": "网红,民生新闻"
     }
   ],
   "hotgov_list": [
