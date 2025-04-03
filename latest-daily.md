@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/04 00:30:04 ~ 2025/04/04 06:22:50
+本榜单时间：2025/04/04 00:30:04 ~ 2025/04/04 06:40:15
 </p>
 </blockquote>
 <p>
@@ -117,6 +117,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%AB%98%E4%BD%8D%E8%B7%B3%E6%B0%B4%E4%BA%86%23" target="weibo">
+国际金价高位跳水了（热度：184751）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%234%E4%BA%BA%E5%8D%96%E9%9E%8B%E4%BA%8F%E6%8D%9F%E5%90%8E%E8%BD%AC%E5%8D%96%E4%BF%9D%E5%81%A5%E5%93%81%E9%AA%97%E4%BA%86%E8%B6%8510%E4%BA%BF%23" target="weibo">
 4人卖鞋亏损后转卖保健品骗了超10亿（热度：181719）
 </a>
@@ -135,14 +141,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%9F%B3%E5%B9%B4%E7%B3%95%E8%96%AF%E6%9D%A1%23" target="weibo">
-鸡柳年糕薯条（热度：156430）
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%23" target="weibo">
+哪吒（热度：165811）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%AB%98%E4%BD%8D%E8%B7%B3%E6%B0%B4%E4%BA%86%23" target="weibo">
-国际金价高位跳水了（热度：151775）
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%9F%B3%E5%B9%B4%E7%B3%95%E8%96%AF%E6%9D%A1%23" target="weibo">
+鸡柳年糕薯条（热度：156430）
 </a>
 </li>
 
@@ -155,12 +161,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%20%E9%BE%99%E6%B8%AF%23" target="weibo">
 蔡徐坤 龙港（热度：146895）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%23" target="weibo">
-哪吒（热度：146530）
 </a>
 </li>
 
@@ -179,6 +179,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E6%B5%8E%E5%8C%BB%E5%AD%A6%E9%99%A2%E7%A7%B0%E6%AF%8F%E5%B9%B4%E9%83%BD%E5%87%BA%E4%B8%8D%E5%BD%95%E5%8F%96%E5%90%8D%E5%8D%95%23" target="weibo">
 同济医学院称每年都出不录取名单（热度：135081）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E8%AE%B0%E4%BD%8F%E4%BD%A0%23" target="weibo">
+永远记住你（热度：125057）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%B4%A7%E6%80%A5%E6%88%92%E4%B8%A5%E9%A3%8E%E6%B3%A2123%E5%A4%A9%23" target="weibo">
+韩国紧急戒严风波123天（热度：121392）
 </a>
 </li>
 
@@ -267,12 +279,6 @@ Uzi妻子宣布胜诉（热度：94361）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E8%AE%B0%E4%BD%8F%E4%BD%A0%23" target="weibo">
-永远记住你（热度：84855）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%91%9E%E5%A3%AB%E8%A2%AB%E5%81%B6%E9%81%87%23" target="weibo">
 倪妮瑞士被偶遇（热度：83607）
 </a>
@@ -351,12 +357,6 @@ jayjay呢（热度：74104）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%B4%A7%E6%80%A5%E6%88%92%E4%B8%A5%E9%A3%8E%E6%B3%A2123%E5%A4%A9%23" target="weibo">
-韩国紧急戒严风波123天（热度：62099）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E5%A5%97%E7%8E%B01.75%E4%BA%BF%23" target="weibo">
 库克套现1.75亿（热度：61551）
 </a>
@@ -381,6 +381,18 @@ U17亚洲杯（热度：50313）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E4%B9%B1%E6%8B%B3%E5%BC%80%E6%89%93%23" target="weibo">
+特朗普关税乱拳开打（热度：48999）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%B2%A1%E5%8F%82%E5%8A%A0%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A02%E7%9A%84%E9%87%91%E5%AD%90%E6%B6%B5%23" target="weibo">
+还没参加青春有你2的金子涵（热度：45167）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E7%BE%8E%E9%A3%9F%E5%9B%BE%E9%89%B4%E4%B8%8A%E6%96%B0%E4%BA%86%23" target="weibo">
 清明美食图鉴上新了（热度：44783）
 </a>
@@ -393,8 +405,8 @@ U17亚洲杯（热度：50313）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%B2%A1%E5%8F%82%E5%8A%A0%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A02%E7%9A%84%E9%87%91%E5%AD%90%E6%B6%B5%23" target="weibo">
-还没参加青春有你2的金子涵（热度：38099）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%87%B47%E6%AD%BB1%E4%BC%A4%23" target="weibo">
+重庆一交通事故致7死1伤（热度：39081）
 </a>
 </li>
 
@@ -405,32 +417,20 @@ U17亚洲杯（热度：50313）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%87%B47%E6%AD%BB1%E4%BC%A4%23" target="weibo">
-重庆一交通事故致7死1伤（热度：29260）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E6%8B%9F%E5%AF%B9%E7%BE%8E%E8%B6%858000%E7%B1%BB%E5%95%86%E5%93%81%E5%BE%81%E7%A8%8E%23" target="weibo">
-英国拟对美超8000类商品征税（热度：26764）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E4%B9%B1%E6%8B%B3%E5%BC%80%E6%89%93%23" target="weibo">
-特朗普关税乱拳开打（热度：22420）
+英国拟对美超8000类商品征税（热度：29046）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E5%93%84%E5%A8%83%23" target="weibo">
-唐嫣哄娃（热度：21136）
+唐嫣哄娃（热度：26940）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%95%B0%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%AE%A4%E4%B8%BA%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E6%8D%9F%E7%BE%8E%E7%BB%8F%E6%B5%8E%23" target="weibo">
-多数美国人认为关税政策损美经济（热度：20297）
+多数美国人认为关税政策损美经济（热度：24248）
 </a>
 </li>
 

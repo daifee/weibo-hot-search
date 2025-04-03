@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743718970682,
+  "endTime": 1743720015629,
   "band_list": [
     {
       "raw_hot": 1569796,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184751,
+      "num": 184751,
+      "word": "国际金价高位跳水了",
+      "onboard_time": 1743703576,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 181719,
       "num": 181719,
       "word": "4人卖鞋亏损后转卖保健品骗了超10亿",
@@ -163,20 +171,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 165811,
+      "num": 165811,
+      "word": "哪吒",
+      "onboard_time": 1743713114,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156430,
       "num": 156430,
       "word": "鸡柳年糕薯条",
       "onboard_time": 1743686003,
       "rank": 19,
       "category": "美食"
-    },
-    {
-      "raw_hot": 151775,
-      "num": 151775,
-      "word": "国际金价高位跳水了",
-      "onboard_time": 1743703576,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 149182,
@@ -193,14 +201,6 @@
       "onboard_time": 1743687864,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 146530,
-      "num": 146530,
-      "word": "哪吒",
-      "onboard_time": 1743713114,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 142555,
@@ -225,6 +225,22 @@
       "onboard_time": 1743695122,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125057,
+      "num": 125057,
+      "word": "永远记住你",
+      "onboard_time": 1743702735,
+      "rank": 45,
+      "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 121392,
+      "num": 98239,
+      "word": "韩国紧急戒严风波123天",
+      "onboard_time": 1743715875,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118900,
@@ -339,14 +355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84855,
-      "num": 84855,
-      "word": "永远记住你",
-      "onboard_time": 1743702735,
-      "rank": 45,
-      "category": "国内时政,民生新闻"
-    },
-    {
       "raw_hot": 83607,
       "num": 83607,
       "word": "倪妮瑞士被偶遇",
@@ -451,14 +459,6 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 62099,
-      "num": 62099,
-      "word": "韩国紧急戒严风波123天",
-      "onboard_time": 1743715875,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 61551,
       "num": 61551,
       "word": "库克套现1.75亿",
@@ -491,6 +491,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48999,
+      "num": 84535,
+      "word": "特朗普关税乱拳开打",
+      "onboard_time": 1743717975,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 45167,
+      "num": 48669,
+      "word": "还没参加青春有你2的金子涵",
+      "onboard_time": 1743714015,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44783,
       "num": 438441,
       "word": "清明美食图鉴上新了",
@@ -507,12 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38099,
-      "num": 38099,
-      "word": "还没参加青春有你2的金子涵",
-      "onboard_time": 1743714015,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 39081,
+      "num": 39081,
+      "word": "重庆一交通事故致7死1伤",
+      "onboard_time": 1743715394,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32831,
@@ -523,40 +539,24 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 29260,
-      "num": 29260,
-      "word": "重庆一交通事故致7死1伤",
-      "onboard_time": 1743715394,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26764,
-      "num": 26764,
+      "raw_hot": 29046,
+      "num": 29046,
       "word": "英国拟对美超8000类商品征税",
       "onboard_time": 1743701836,
       "rank": 46,
       "category": "国际时政"
     },
     {
-      "raw_hot": 22420,
-      "num": 84535,
-      "word": "特朗普关税乱拳开打",
-      "onboard_time": 1743717975,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 21136,
-      "num": 21136,
+      "raw_hot": 26940,
+      "num": 26940,
       "word": "唐嫣哄娃",
       "onboard_time": 1743706395,
       "rank": 43,
       "category": "剧集"
     },
     {
-      "raw_hot": 20297,
-      "num": 20988,
+      "raw_hot": 24248,
+      "num": 26811,
       "word": "多数美国人认为关税政策损美经济",
       "onboard_time": 1743714373,
       "rank": 45,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 19655,
-      "num": 20985,
+      "num": 26799,
       "word": "我会永远永远永远的保佑好我",
       "onboard_time": 1743712934,
       "rank": 40,

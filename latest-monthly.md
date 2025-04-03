@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/04 06:22:50
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/04 06:40:15
 </p>
 </blockquote>
 <p>
@@ -3675,6 +3675,12 @@ PsyP发diss（热度：187121）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%AB%98%E4%BD%8D%E8%B7%B3%E6%B0%B4%E4%BA%86%23" target="weibo">
+国际金价高位跳水了（热度：184751）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E4%BB%A3%E8%A1%A8%E5%B0%8F%E7%B1%B3%E6%89%BF%E8%AF%BA%E4%B8%8D%E4%BC%9A%E5%9B%9E%E9%81%BF%23" target="weibo">
 雷军代表小米承诺不会回避（热度：184671）
 </a>
@@ -4161,6 +4167,12 @@ iOS18.4支持5.5G网络（热度：175414）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%23" target="weibo">
+哪吒（热度：165811）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%99%93%E5%8D%89%20%E6%96%87%E6%98%8E%E4%BA%BA%E4%B8%8D%E9%80%82%E5%90%88%E5%81%9A%E9%A2%86%E5%AF%BC%23" target="weibo">
 赵晓卉 文明人不适合做领导（热度：165692）
 </a>
@@ -4515,12 +4527,6 @@ CBA技术台骂人（热度：158259）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%AB%98%E4%BD%8D%E8%B7%B3%E6%B0%B4%E4%BA%86%23" target="weibo">
-国际金价高位跳水了（热度：151775）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BE%8E%E8%B6%8A5%E5%A4%A9%E6%8E%89%E7%B2%8914%E4%B8%87%23" target="weibo">
 李美越5天掉粉14万（热度：151739）
 </a>
@@ -4703,12 +4709,6 @@ CBA技术台骂人（热度：158259）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%92%8C%E4%B9%9D%E5%B9%B4%20abandon%23" target="weibo">
 永和九年 abandon（热度：146560）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%23" target="weibo">
-哪吒（热度：146530）
 </a>
 </li>
 
@@ -5445,6 +5445,12 @@ Flamma道歉（热度：127917）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E8%AE%B0%E4%BD%8F%E4%BD%A0%23" target="weibo">
+永远记住你（热度：125057）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E7%94%B7%E5%AD%90%E8%8A%B14%E5%85%83%E4%B8%AD%E4%BA%861242%E4%B8%87%E5%85%83%23" target="weibo">
 湖南一男子花4元中了1242万元（热度：124831）
 </a>
@@ -5555,6 +5561,12 @@ Ning被cat气红温（热度：121655）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E7%90%A6%E7%9A%84%E5%88%86%E4%BA%AB%E5%A5%BD%E6%B5%93%E7%9A%84%E7%8F%AD%E5%91%B3%E5%84%BF%23" target="weibo">
 李嘉琦的分享好浓的班味儿（热度：121401）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%B4%A7%E6%80%A5%E6%88%92%E4%B8%A5%E9%A3%8E%E6%B3%A2123%E5%A4%A9%23" target="weibo">
+韩国紧急戒严风波123天（热度：121392）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ KPL春季赛第三轮赛程公布（热度：108349）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E7%8E%8B%E6%A5%9A%E9%92%A617%E5%B2%81%E7%9A%84%E7%9B%B4%E6%92%AD%23" target="weibo">
 考古王楚钦17岁的直播（热度：104896）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%BA%E6%84%9F%E5%8F%97%E6%B5%B7%E5%86%9B%E8%88%B0%E8%89%87%E5%9B%B4%E5%B2%9B%E8%BF%9B%E9%80%BC%E5%8E%8B%E8%BF%AB%E6%84%9F%23" target="weibo">
-现场感受海军舰艇围岛进逼压迫感（热度：104566）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E7%B2%BE%E7%A5%9E%E7%A7%91%E8%AF%8A%E5%AE%A4%E9%87%8C%E6%B2%89%E9%BB%98%E7%9A%84%E7%88%B6%E4%BA%B2%E4%BB%AC%23" target="weibo">
-儿童精神科诊室里沉默的父亲们（热度：104353）
 </a>
 </li>
 
