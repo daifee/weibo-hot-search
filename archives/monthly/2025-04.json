@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743712804008,
+  "endTime": 1743715375167,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -8027,6 +8027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 100991,
+      "num": 100991,
+      "word": "哪吒",
+      "onboard_time": 1743713114,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100773,
       "num": 100773,
       "word": "女子自救成功后说不想告诉妈妈",
@@ -8524,7 +8532,7 @@
     },
     {
       "raw_hot": 78126,
-      "num": 62926,
+      "num": 75194,
       "word": "国际金价高位跳水了",
       "onboard_time": 1743703576,
       "rank": 10,
@@ -10195,6 +10203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20325,
+      "num": 25311,
+      "word": "还没参加青春有你2的金子涵",
+      "onboard_time": 1743714015,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19636,
       "num": 152801,
       "word": "为宠物打官司的人",
@@ -10241,6 +10257,14 @@
       "onboard_time": 1743567083,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 18670,
+      "num": 18670,
+      "word": "我会永远永远永远的保佑好我",
+      "onboard_time": 1743712934,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 18620,
@@ -10331,20 +10355,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15451,
+      "num": 15451,
+      "word": "多数美国人认为关税政策损美经济",
+      "onboard_time": 1743714373,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 15217,
+      "num": 15217,
+      "word": "官方通报出逃黑熊已找到",
+      "onboard_time": 1743710414,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15174,
       "num": 29225,
       "word": "何济霆 任翔宇",
       "onboard_time": 1743533533,
       "rank": 44,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 15111,
-      "num": 15111,
-      "word": "官方通报出逃黑熊已找到",
-      "onboard_time": 1743710414,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14964,
