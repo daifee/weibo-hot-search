@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/04 00:46:36
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/04 01:21:46
 </p>
 </blockquote>
 <p>
@@ -1451,6 +1451,12 @@ hanbi公开（热度：468837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%B3%E5%8F%91%E4%BA%86%E8%B5%A4%E8%84%9A%E9%AC%BC%23" target="weibo">
 王艳发了赤脚鬼（热度：435494）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E8%83%96718.8%E6%96%A4%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95%23" target="weibo">
+中国第一胖718.8斤刷新纪录（热度：425252）
 </a>
 </li>
 
@@ -5103,6 +5109,12 @@ EXO将进行13周年直播（热度：137763）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E6%B5%8E%E5%8C%BB%E5%AD%A6%E9%99%A2%E7%A7%B0%E6%AF%8F%E5%B9%B4%E9%83%BD%E5%87%BA%E4%B8%8D%E5%BD%95%E5%8F%96%E5%90%8D%E5%8D%95%23" target="weibo">
+同济医学院称每年都出不录取名单（热度：135081）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%AD%98%E5%9C%A8%E6%96%B9%E7%9A%84%E9%B8%A1%23" target="weibo">
 不可能存在方的鸡（热度：135006）
 </a>
@@ -5255,12 +5267,6 @@ KPL（热度：134192）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%8F%E4%BC%99%E6%9D%B0%E5%85%8B%E8%8E%B7%E4%B8%AD%E5%9B%BD%E6%B0%B8%E5%B1%85%E8%AF%81%23" target="weibo">
 美国小伙杰克获中国永居证（热度：130354）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E6%B5%8E%E5%8C%BB%E5%AD%A6%E9%99%A2%E7%A7%B0%E6%AF%8F%E5%B9%B4%E9%83%BD%E5%87%BA%E4%B8%8D%E5%BD%95%E5%8F%96%E5%90%8D%E5%8D%95%23" target="weibo">
-同济医学院称每年都出不录取名单（热度：130232）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ KPL春季赛第三轮赛程公布（热度：108349）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BD%8D%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%85%88%E7%94%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9D%81%E7%9C%BC%E8%AF%B4%E7%9E%8E%E8%AF%9D%23" target="weibo">
 这位国务卿先生为什么睁眼说瞎话（热度：102394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9Dcos%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%B4%A6%E5%8F%B7%E8%A2%AB%E9%99%88%E5%93%B2%E8%BF%9C%E5%9B%9E%E5%A4%8D%23" target="weibo">
-粉丝cos经纪人账号被陈哲远回复（热度：101693）
 </a>
 </li>
 

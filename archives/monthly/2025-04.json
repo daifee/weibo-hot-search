@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743698796273,
+  "endTime": 1743700906090,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1921,6 +1921,14 @@
       "onboard_time": 1743431003,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425252,
+      "num": 425252,
+      "word": "中国第一胖718.8斤刷新纪录",
+      "onboard_time": 1743700037,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 424774,
@@ -6787,6 +6795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135081,
+      "num": 135081,
+      "word": "同济医学院称每年都出不录取名单",
+      "onboard_time": 1743695122,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135006,
       "num": 135006,
       "word": "不可能存在方的鸡",
@@ -6992,14 +7008,6 @@
       "word": "美国小伙杰克获中国永居证",
       "onboard_time": 1743694342,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130232,
-      "num": 130232,
-      "word": "同济医学院称每年都出不录取名单",
-      "onboard_time": 1743695122,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -8953,6 +8961,14 @@
       "onboard_time": 1743423443,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61551,
+      "num": 61551,
+      "word": "库克套现1.75亿",
+      "onboard_time": 1743700037,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 60420,

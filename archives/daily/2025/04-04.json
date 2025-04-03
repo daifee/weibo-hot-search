@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743698796273,
+  "endTime": 1743700906090,
   "band_list": [
     {
       "raw_hot": 1569796,
@@ -25,6 +25,14 @@
       "onboard_time": 1743691643,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 425252,
+      "num": 425252,
+      "word": "中国第一胖718.8斤刷新纪录",
+      "onboard_time": 1743700037,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 405292,
@@ -195,8 +203,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130232,
-      "num": 130232,
+      "raw_hot": 135081,
+      "num": 135081,
       "word": "同济医学院称每年都出不录取名单",
       "onboard_time": 1743695122,
       "rank": 29,
@@ -403,12 +411,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61551,
+      "num": 61551,
+      "word": "库克套现1.75亿",
+      "onboard_time": 1743700037,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 58877,
       "num": 58877,
       "word": "震耳欲聋",
       "onboard_time": 1743694940,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 46500,
+      "num": 46500,
+      "word": "十二年前的陈都灵",
+      "onboard_time": 1743678981,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 44783,
@@ -422,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#习近平参加首都义务植树活动#"
+    },
+    {
+      "word": "#家国永念致敬英雄#"
     }
   ]
 }
