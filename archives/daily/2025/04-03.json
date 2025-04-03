@@ -1,10 +1,10 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743645023014,
+  "endTime": 1743646372129,
   "band_list": [
     {
       "raw_hot": 1471890,
-      "num": 341214,
+      "num": 365715,
       "word": "孟子坤 家暴",
       "onboard_time": 1743606385,
       "rank": 10,
@@ -25,6 +25,14 @@
       "onboard_time": 1743638302,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1143523,
+      "num": 1143523,
+      "word": "山西怀仁3.6级地震",
+      "onboard_time": 1743646101,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 992763,
@@ -52,15 +60,23 @@
     },
     {
       "raw_hot": 687985,
-      "num": 351638,
+      "num": 387584,
       "word": "曝王玉雯杨玏已分手",
       "onboard_time": 1743603685,
       "rank": 12,
       "category": "艺人"
     },
     {
+      "raw_hot": 638069,
+      "num": 638069,
+      "word": "甲亢哥空着脖子来挂着辣椒走了",
+      "onboard_time": 1743640763,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 617144,
-      "num": 338730,
+      "num": 361679,
       "word": "胡歌 二胎",
       "onboard_time": 1743592222,
       "rank": 13,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 568057,
-      "num": 348627,
+      "num": 383786,
       "word": "小狗coco去世",
       "onboard_time": 1743639503,
       "rank": 12,
@@ -155,6 +171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 412598,
+      "num": 412598,
+      "word": "白宫回应马斯克辞职",
+      "onboard_time": 1743641363,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 411619,
       "num": 302020,
       "word": "金秀贤否认所有照片",
@@ -171,14 +195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 396163,
-      "num": 396163,
-      "word": "甲亢哥空着脖子来挂着辣椒走了",
-      "onboard_time": 1743640763,
-      "rank": 5,
-      "category": "网红"
-    },
-    {
       "raw_hot": 395899,
       "num": 395899,
       "word": "心疼小白熊",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 392087,
-      "num": 392087,
+      "num": 405059,
       "word": "浪姐第一季全是真的姐",
       "onboard_time": 1743605486,
       "rank": 5,
@@ -211,20 +227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 361521,
-      "num": 361521,
-      "word": "白宫回应马斯克辞职",
-      "onboard_time": 1743641363,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 335195,
       "num": 335195,
       "word": "既是节气又是节日只有清明",
       "onboard_time": 1743636802,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333558,
+      "num": 333558,
+      "word": "罗志祥宣传张艺兴新片",
+      "onboard_time": 1743637820,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 328978,
@@ -243,12 +259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321245,
-      "num": 321245,
-      "word": "罗志祥宣传张艺兴新片",
-      "onboard_time": 1743637820,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 318565,
+      "num": 318565,
+      "word": "老人上坟引发山火烧死66只羊无钱赔",
+      "onboard_time": 1743645141,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318103,
@@ -256,6 +272,14 @@
       "word": "IU向雪莉金赛纶推荐同一心理医生",
       "onboard_time": 1743599783,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 308097,
+      "num": 308097,
+      "word": "胡歌老婆是他前助理",
+      "onboard_time": 1743643641,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -267,12 +291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 292268,
-      "num": 292268,
-      "word": "胡歌老婆是他前助理",
-      "onboard_time": 1743643641,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 300289,
+      "num": 398161,
+      "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+      "onboard_time": 1743644780,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 277007,
@@ -289,6 +313,30 @@
       "onboard_time": 1743611659,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 271950,
+      "num": 319245,
+      "word": "你和赵天宇爱过吗",
+      "onboard_time": 1743645800,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 263606,
+      "num": 263606,
+      "word": "哈尔滨亚冬会遭境外攻击27万次",
+      "onboard_time": 1743645141,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248964,
+      "num": 368153,
+      "word": "金价冲向1000元",
+      "onboard_time": 1743645380,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 227796,
@@ -323,11 +371,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176319,
+      "num": 176319,
+      "word": "守护甜心几斗亲了亚梦",
+      "onboard_time": 1743645141,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 175633,
       "num": 175633,
       "word": "爷爷为夺回孙子被人贩踩出眼珠",
       "onboard_time": 1743570086,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175491,
+      "num": 344200,
+      "word": "最像周五的周四",
+      "onboard_time": 1743643880,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -345,6 +409,22 @@
       "onboard_time": 1743639082,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168194,
+      "num": 226002,
+      "word": "侯佩岑否认整容",
+      "onboard_time": 1743645981,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161229,
+      "num": 161229,
+      "word": "大同地震",
+      "onboard_time": 1743646160,
+      "rank": 36,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 156033,
@@ -379,12 +459,28 @@
       "category": "辟谣/通报,汽车"
     },
     {
+      "raw_hot": 148075,
+      "num": 169354,
+      "word": "郑秀晶宋仲基同框",
+      "onboard_time": 1743644962,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143816,
       "num": 143816,
       "word": "公孙离fmvp皮肤",
       "onboard_time": 1743640343,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141083,
+      "num": 224428,
+      "word": "乘风2025四公分组",
+      "onboard_time": 1743644899,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 139579,
@@ -475,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108777,
+      "num": 108777,
+      "word": "陈都灵月鳞绮纪黑衣造型路透",
+      "onboard_time": 1743646220,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108327,
       "num": 161418,
       "word": "宋茜唐艺昕张佳宁又约上了",
@@ -497,14 +601,6 @@
       "onboard_time": 1743611180,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103157,
-      "num": 103868,
-      "word": "乘风2025四公分组",
-      "onboard_time": 1743644899,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 102577,
@@ -611,14 +707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 75436,
-      "num": 344200,
-      "word": "最像周五的周四",
-      "onboard_time": 1743643880,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74770,
       "num": 74770,
       "word": "74岁TVB老戏骨求婚狱中37岁女友",
@@ -641,14 +729,6 @@
       "onboard_time": 1743606444,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71721,
-      "num": 220536,
-      "word": "哈尔滨亚冬会遭17万次来自美国网攻",
-      "onboard_time": 1743644780,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 67919,
@@ -700,7 +780,7 @@
     },
     {
       "raw_hot": 63891,
-      "num": 749591,
+      "num": 1064819,
       "word": "联合国点赞中国新能源发展",
       "onboard_time": 1743604164,
       "rank": 2,
@@ -811,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31283,
+      "num": 318729,
+      "word": "郑钦文回应战胜萨卡里",
+      "onboard_time": 1743645920,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30101,
       "num": 106926,
       "word": "中方救援队又发现1名幸存者",
@@ -825,14 +913,6 @@
       "onboard_time": 1743632056,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27544,
-      "num": 110429,
-      "word": "郑秀晶宋仲基同框",
-      "onboard_time": 1743644962,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 26278,

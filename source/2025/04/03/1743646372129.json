@@ -1,0 +1,410 @@
+{
+  "runTime": 1743646372129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1245436,
+        "num": 1245436,
+        "word": "特朗普宣布国家紧急状态",
+        "onboard_time": 1743636020,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1143523,
+        "num": 1143523,
+        "word": "山西怀仁3.6级地震",
+        "onboard_time": 1743646101,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 58940,
+        "num": 1064819,
+        "word": "联合国点赞中国新能源发展",
+        "onboard_time": 1743604164,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1021399,
+        "num": 1021399,
+        "word": "黄金",
+        "onboard_time": 1743638302,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 638069,
+        "num": 638069,
+        "word": "甲亢哥空着脖子来挂着辣椒走了",
+        "onboard_time": 1743640763,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 412598,
+        "num": 412598,
+        "word": "白宫回应马斯克辞职",
+        "onboard_time": 1743641363,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 412423,
+        "num": 412423,
+        "word": "我的女儿张诗琪她来过这个世界",
+        "onboard_time": 1743600503,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 405284,
+        "num": 405284,
+        "word": "妻子不愿继续生育离婚后获补偿35万",
+        "onboard_time": 1743606685,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288725,
+        "num": 405059,
+        "word": "浪姐第一季全是真的姐",
+        "onboard_time": 1743605486,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300289,
+        "num": 398161,
+        "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+        "onboard_time": 1743644780,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 946784,
+        "num": 390939,
+        "word": "孟子坤回应",
+        "onboard_time": 1743635659,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548754,
+        "num": 387584,
+        "word": "曝王玉雯杨玏已分手",
+        "onboard_time": 1743603685,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496631,
+        "num": 383786,
+        "word": "小狗coco去世",
+        "onboard_time": 1743639503,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 381160,
+        "num": 381160,
+        "word": "特朗普宣布实施所谓对等关税",
+        "onboard_time": 1743635298,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248964,
+        "num": 368153,
+        "word": "金价冲向1000元",
+        "onboard_time": 1743645380,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 694180,
+        "num": 365715,
+        "word": "孟子坤 家暴",
+        "onboard_time": 1743606385,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361679,
+        "num": 361679,
+        "word": "胡歌 二胎",
+        "onboard_time": 1743592222,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333558,
+        "num": 333558,
+        "word": "罗志祥宣传张艺兴新片",
+        "onboard_time": 1743637820,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271950,
+        "num": 319245,
+        "word": "你和赵天宇爱过吗",
+        "onboard_time": 1743645800,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31283,
+        "num": 318729,
+        "word": "郑钦文回应战胜萨卡里",
+        "onboard_time": 1743645920,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318565,
+        "num": 318565,
+        "word": "老人上坟引发山火烧死66只羊无钱赔",
+        "onboard_time": 1743645141,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308097,
+        "num": 308097,
+        "word": "胡歌老婆是他前助理",
+        "onboard_time": 1743643641,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277925,
+        "num": 277925,
+        "word": "老人因缺水一辈子只洗3次脸",
+        "onboard_time": 1743638062,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263606,
+        "num": 263606,
+        "word": "哈尔滨亚冬会遭境外攻击27万次",
+        "onboard_time": 1743645141,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257336,
+        "num": 257336,
+        "word": "22岁离世女骑手家属寻目击者定责",
+        "onboard_time": 1743630795,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244408,
+        "num": 244408,
+        "word": "日本九州岛附近6.2级地震",
+        "onboard_time": 1743604406,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 240672,
+        "num": 240672,
+        "word": "既是节气又是节日只有清明",
+        "onboard_time": 1743636802,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223097,
+        "num": 228512,
+        "word": "以美之名 干啥呢王一博来了",
+        "onboard_time": 1743642202,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168194,
+        "num": 226002,
+        "word": "侯佩岑否认整容",
+        "onboard_time": 1743645981,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141083,
+        "num": 224428,
+        "word": "乘风2025四公分组",
+        "onboard_time": 1743644899,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223802,
+        "num": 223802,
+        "word": "美对贸易伙伴设10%最低基准关税",
+        "onboard_time": 1743642802,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189641,
+        "num": 189641,
+        "word": "鹿晗迪丽热巴8年前的路透",
+        "onboard_time": 1743597562,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176319,
+        "num": 176319,
+        "word": "守护甜心几斗亲了亚梦",
+        "onboard_time": 1743645141,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 175491,
+        "num": 175491,
+        "word": "最像周五的周四",
+        "onboard_time": 1743643880,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148075,
+        "num": 169354,
+        "word": "郑秀晶宋仲基同框",
+        "onboard_time": 1743644962,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165990,
+        "num": 165990,
+        "word": "金价再起飞",
+        "onboard_time": 1743640043,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161229,
+        "num": 161229,
+        "word": "大同地震",
+        "onboard_time": 1743646160,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 157468,
+        "num": 157468,
+        "word": "特朗普力推的对等关税是啥",
+        "onboard_time": 1743619635,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157409,
+        "num": 157409,
+        "word": "豆包你现在改名叫邓超",
+        "onboard_time": 1743609381,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153372,
+        "num": 153372,
+        "word": "金秀贤否认所有照片",
+        "onboard_time": 1743606564,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137620,
+        "num": 137620,
+        "word": "俄军1轰炸机坠毁1名飞行员死亡",
+        "onboard_time": 1743644362,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134530,
+        "num": 134530,
+        "word": "74岁老戏骨狱中求婚与女友相差36岁",
+        "onboard_time": 1743639442,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127113,
+        "num": 127113,
+        "word": "戚薇郑秀晶同框",
+        "onboard_time": 1743641183,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127050,
+        "num": 127050,
+        "word": "俄罗斯不在美国对等关税名单",
+        "onboard_time": 1743639742,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125261,
+        "num": 125261,
+        "word": "研究生不语只是一味的共鸣",
+        "onboard_time": 1743639082,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118039,
+        "num": 118039,
+        "word": "黄轩宋仲基同框",
+        "onboard_time": 1743642623,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112565,
+        "num": 112565,
+        "word": "公孙离fmvp皮肤",
+        "onboard_time": 1743640343,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108777,
+        "num": 108777,
+        "word": "陈都灵月鳞绮纪黑衣造型路透",
+        "onboard_time": 1743646220,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98437,
+        "num": 98437,
+        "word": "长期睡眠不足的人长什么样",
+        "onboard_time": 1743595344,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93228,
+        "num": 95346,
+        "word": "王安宇抹布文学",
+        "onboard_time": 1743608123,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#自觉遵规守纪大胆干事创业#"
+    }
+  }
+}
