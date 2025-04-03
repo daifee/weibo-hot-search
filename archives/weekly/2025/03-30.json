@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743665072201,
+  "endTime": 1743665844739,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -57,6 +57,14 @@
       "onboard_time": 1743576981,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4382418,
+      "num": 685448,
+      "word": "甜馨签约乐华了",
+      "onboard_time": 1743664221,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 4078541,
@@ -129,14 +137,6 @@
       "onboard_time": 1743517885,
       "rank": 1,
       "category": "辟谣/通报,汽车"
-    },
-    {
-      "raw_hot": 2518015,
-      "num": 685448,
-      "word": "甜馨签约乐华了",
-      "onboard_time": 1743664221,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 2503187,
@@ -1068,7 +1068,7 @@
     },
     {
       "raw_hot": 920763,
-      "num": 389085,
+      "num": 425260,
       "word": "金秀贤方晒real分镜脚本",
       "onboard_time": 1743659122,
       "rank": 11,
@@ -1273,6 +1273,14 @@
       "onboard_time": 1743511164,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 823832,
+      "num": 823832,
+      "word": "月薪4千搬运工瞒家人买454万保险",
+      "onboard_time": 1743663682,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 819020,
@@ -1588,7 +1596,7 @@
     },
     {
       "raw_hot": 673051,
-      "num": 1125524,
+      "num": 1226788,
       "word": "哈尔滨亚冬会遭17万次来自美国网攻",
       "onboard_time": 1743644780,
       "rank": 25,
@@ -2475,6 +2483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 481268,
+      "num": 481268,
+      "word": "阿诺一胎早产董力又哭又笑",
+      "onboard_time": 1743664041,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 480718,
       "num": 480718,
       "word": "日本第11轮核污染水排海结束",
@@ -2507,6 +2523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 473145,
+      "num": 473145,
+      "word": "清明节其实融合了三个节",
+      "onboard_time": 1743663381,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472712,
       "num": 710424,
       "word": "指鼠为鸭局长已调离",
@@ -2529,14 +2553,6 @@
       "onboard_time": 1743604406,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 471467,
-      "num": 471467,
-      "word": "清明节其实融合了三个节",
-      "onboard_time": 1743663381,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 469007,
@@ -2705,14 +2721,6 @@
       "onboard_time": 1743464240,
       "rank": 11,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 437885,
-      "num": 437885,
-      "word": "月薪4千搬运工瞒家人买454万保险",
-      "onboard_time": 1743663682,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 437223,
@@ -3297,14 +3305,6 @@
       "onboard_time": 1743441017,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 364518,
-      "num": 278289,
-      "word": "阿诺一胎早产董力又哭又笑",
-      "onboard_time": 1743664041,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 363039,
@@ -5571,6 +5571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213075,
+      "num": 213075,
+      "word": "世界最小蛇类只有雌性也能繁殖",
+      "onboard_time": 1743664282,
+      "rank": 37,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 212676,
       "num": 212676,
       "word": "4种食物堪比天然防晒霜",
@@ -6099,6 +6107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 201545,
+      "num": 427757,
+      "word": "义乌商家谈美国加征关税",
+      "onboard_time": 1743662303,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 201004,
       "num": 232935,
       "word": "檀健次官宣加盟北影节",
@@ -6539,6 +6555,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 193514,
+      "num": 193514,
+      "word": "忽然发现跳舞可以旺自己",
+      "onboard_time": 1743663741,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193508,
       "num": 193508,
       "word": "吴磊工作室取证告黑",
@@ -6569,6 +6593,14 @@
       "onboard_time": 1743474021,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193120,
+      "num": 273455,
+      "word": "今年来已有多名艺人宣布退圈",
+      "onboard_time": 1743664342,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 193084,
@@ -6995,14 +7027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184316,
-      "num": 184316,
-      "word": "忽然发现跳舞可以旺自己",
-      "onboard_time": 1743663741,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 184290,
       "num": 184290,
       "word": "韩国志愿者说救援物资被老太偷走了",
@@ -7121,6 +7145,14 @@
       "onboard_time": 1743595463,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182540,
+      "num": 182540,
+      "word": "唐嫣这幕好帅但为什么扛着大葱",
+      "onboard_time": 1743664941,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 182422,
@@ -7481,14 +7513,6 @@
       "onboard_time": 1743582922,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174547,
-      "num": 174547,
-      "word": "世界最小蛇类只有雌性也能繁殖",
-      "onboard_time": 1743664282,
-      "rank": 37,
-      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 174513,
@@ -8795,6 +8819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149821,
+      "num": 149821,
+      "word": "一计害七贤",
+      "onboard_time": 1743665422,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149817,
       "num": 149817,
       "word": "我就说一集吵一架的剧好看吧",
@@ -8993,14 +9025,6 @@
       "onboard_time": 1743495083,
       "rank": 18,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 146998,
-      "num": 190554,
-      "word": "今年来已有多名艺人宣布退圈",
-      "onboard_time": 1743664342,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 146990,
@@ -10299,6 +10323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 127973,
+      "num": 127973,
+      "word": "吒儿还在向前冲",
+      "onboard_time": 1743659541,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127917,
       "num": 127917,
       "word": "Flamma道歉",
@@ -10321,14 +10353,6 @@
       "onboard_time": 1743337822,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127243,
-      "num": 396338,
-      "word": "义乌商家谈美国加征关税",
-      "onboard_time": 1743662303,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 127157,
@@ -10776,14 +10800,6 @@
       "word": "姚晨侯雯元对手戏",
       "onboard_time": 1743345323,
       "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 120424,
-      "num": 120424,
-      "word": "唐嫣这幕好帅但为什么扛着大葱",
-      "onboard_time": 1743664941,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -13587,6 +13603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50388,
+      "num": 186266,
+      "word": "外交部回应美国所谓对等关税",
+      "onboard_time": 1743665783,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49598,
       "num": 67492,
       "word": "加沙所有大饼店因面粉耗尽停业",
@@ -14419,6 +14443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29273,
+      "num": 384015,
+      "word": "多品牌金饰3天涨幅超20元",
+      "onboard_time": 1743664462,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 29083,
       "num": 33143,
       "word": "九义人",
@@ -14643,6 +14675,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 24468,
+      "num": 205332,
+      "word": "古驰竹节包展览加场",
+      "onboard_time": 1743664462,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 24429,
       "num": 119225,
       "word": "黄金逼近3150美元刷新历史高位",
@@ -14785,14 +14825,6 @@
       "onboard_time": 1743546375,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 21312,
-      "num": 384015,
-      "word": "多品牌金饰3天涨幅超20元",
-      "onboard_time": 1743664462,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 21306,
@@ -14955,12 +14987,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 18347,
-      "num": 204203,
-      "word": "古驰竹节包展览加场",
-      "onboard_time": 1743664462,
-      "rank": 29,
-      "category": "时尚"
+      "raw_hot": 18446,
+      "num": 163872,
+      "word": "甲亢哥摄影师",
+      "onboard_time": 1743665003,
+      "rank": 41,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 18321,
@@ -15433,14 +15465,6 @@
       "onboard_time": 1743512544,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5681,
-      "num": 153829,
-      "word": "甲亢哥摄影师",
-      "onboard_time": 1743665003,
-      "rank": 41,
-      "category": "网红,民生新闻"
     }
   ],
   "hotgov_list": [

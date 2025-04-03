@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/03 15:24:32
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/03 15:37:24
 </p>
 </blockquote>
 <p>
@@ -779,6 +779,12 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E4%BA%86%E6%9D%89%E8%8F%9C%23" target="weibo">
 再见了杉菜（热度：4416500）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E7%AD%BE%E7%BA%A6%E4%B9%90%E5%8D%8E%E4%BA%86%23" target="weibo">
+甜馨签约乐华了（热度：4382418）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%AF%B4%E8%A2%AB%E8%BF%AB%E6%8E%A5%E5%8F%97%E4%BA%86%E4%B8%A4%E4%B8%89%E5%A4%A9%E8%AF%88%E9%AA%97%E5%9F%B9%E8%AE%AD%23" target="weibo">
 王星说被迫接受了两三天诈骗培训（热度：2840520）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E8%97%8F%E6%A3%AE%E6%9E%97%23" target="weibo">
-半藏森林（热度：2839319）
 </a>
 </li>
 

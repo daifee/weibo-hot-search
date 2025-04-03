@@ -1,0 +1,410 @@
+{
+  "runTime": 1743665844739,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 204945,
+        "num": 1226788,
+        "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+        "onboard_time": 1743644780,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 823832,
+        "num": 823832,
+        "word": "月薪4千搬运工瞒家人买454万保险",
+        "onboard_time": 1743663682,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68051,
+        "num": 686085,
+        "word": "一组图教你怎么把花拍好看",
+        "onboard_time": 1743654323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4382418,
+        "num": 681802,
+        "word": "甜馨签约乐华了",
+        "onboard_time": 1743664221,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654695,
+        "num": 654695,
+        "word": "提醒甲亢哥不文明行为的女生回应了",
+        "onboard_time": 1743650542,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1245102,
+        "num": 636236,
+        "word": "戚薇 确认过了是亲生的",
+        "onboard_time": 1743660203,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 710505,
+        "num": 599827,
+        "word": "杨幂赵又廷 二搭",
+        "onboard_time": 1743661823,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481268,
+        "num": 481268,
+        "word": "阿诺一胎早产董力又哭又笑",
+        "onboard_time": 1743664041,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473145,
+        "num": 473145,
+        "word": "清明节其实融合了三个节",
+        "onboard_time": 1743663381,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201545,
+        "num": 427757,
+        "word": "义乌商家谈美国加征关税",
+        "onboard_time": 1743662303,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 637830,
+        "num": 426906,
+        "word": "门童台湾",
+        "onboard_time": 1743656542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602329,
+        "num": 426549,
+        "word": "刘维伟出轨",
+        "onboard_time": 1743650963,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425260,
+        "num": 425260,
+        "word": "金秀贤方晒real分镜脚本",
+        "onboard_time": 1743659122,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 386015,
+        "num": 386015,
+        "word": "金子涵微博已全部清空",
+        "onboard_time": 1743647601,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29273,
+        "num": 353829,
+        "word": "多品牌金饰3天涨幅超20元",
+        "onboard_time": 1743664462,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 351761,
+        "num": 351761,
+        "word": "金价冲向1000元",
+        "onboard_time": 1743645380,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 310162,
+        "num": 310162,
+        "word": "肖战说张艺兴不说话的爱值得被更多人看见",
+        "onboard_time": 1743658463,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 308997,
+        "num": 308997,
+        "word": "Last Dance 浪姐舞台冤案",
+        "onboard_time": 1743661582,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193120,
+        "num": 273455,
+        "word": "今年来已有多名艺人宣布退圈",
+        "onboard_time": 1743664342,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54925,
+        "num": 273177,
+        "word": "你想生活在怎样的世界",
+        "onboard_time": 1743664581,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273135,
+        "num": 273135,
+        "word": "白敬亭申请强制执行致歉义务",
+        "onboard_time": 1743649941,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263591,
+        "num": 263591,
+        "word": "男子被关精神病院出院后查出没患病",
+        "onboard_time": 1743663802,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261481,
+        "num": 261481,
+        "word": "老人在养老院遭粗暴对待多处骨折",
+        "onboard_time": 1743660982,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261326,
+        "num": 261326,
+        "word": "阿诺产后抑郁",
+        "onboard_time": 1743660922,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230830,
+        "num": 230830,
+        "word": "贾乃亮换头像为甜馨新单曲打call",
+        "onboard_time": 1743660683,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218442,
+        "num": 218442,
+        "word": "我国抓获3名菲律宾间谍",
+        "onboard_time": 1743649822,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216295,
+        "num": 216295,
+        "word": "微信引用回复功能更新",
+        "onboard_time": 1743659181,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 213075,
+        "num": 213075,
+        "word": "世界最小蛇类只有雌性也能繁殖",
+        "onboard_time": 1743664282,
+        "rank": 27,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 209681,
+        "num": 209681,
+        "word": "孟子坤回应",
+        "onboard_time": 1743635659,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24468,
+        "num": 205332,
+        "word": "古驰竹节包展览加场",
+        "onboard_time": 1743664462,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 203064,
+        "num": 203064,
+        "word": "刘维伟 辛莎莎",
+        "onboard_time": 1743653841,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197119,
+        "num": 197119,
+        "word": "特朗普竟对中国征收34%对等关税",
+        "onboard_time": 1743648801,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195407,
+        "num": 195407,
+        "word": "哪吒2超155亿了",
+        "onboard_time": 1743656662,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193514,
+        "num": 193514,
+        "word": "忽然发现跳舞可以旺自己",
+        "onboard_time": 1743663741,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50388,
+        "num": 186266,
+        "word": "外交部回应美国所谓对等关税",
+        "onboard_time": 1743665783,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182540,
+        "num": 182540,
+        "word": "唐嫣这幕好帅但为什么扛着大葱",
+        "onboard_time": 1743664941,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176458,
+        "num": 176458,
+        "word": "清明档电影预售超5000万",
+        "onboard_time": 1743660082,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170862,
+        "num": 170862,
+        "word": "李现手持7斤镜头拍稳每一只鸟",
+        "onboard_time": 1743656783,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170747,
+        "num": 170747,
+        "word": "杨鸣",
+        "onboard_time": 1743655823,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18446,
+        "num": 163872,
+        "word": "甲亢哥摄影师",
+        "onboard_time": 1743665003,
+        "rank": 39,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 161704,
+        "num": 161704,
+        "word": "特朗普宣布国家紧急状态",
+        "onboard_time": 1743636020,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161518,
+        "num": 161518,
+        "word": "马龙与马伊琍同框飙戏",
+        "onboard_time": 1743661582,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156370,
+        "num": 156370,
+        "word": "赵天宇官宣恋情",
+        "onboard_time": 1743651202,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149821,
+        "num": 149821,
+        "word": "一计害七贤",
+        "onboard_time": 1743665422,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147023,
+        "num": 147023,
+        "word": "林更新毛晓彤演我和我的犟种男友",
+        "onboard_time": 1743662241,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137154,
+        "num": 137154,
+        "word": "甲亢哥换上学中国功夫手机壳",
+        "onboard_time": 1743663563,
+        "rank": 45,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 134699,
+        "num": 134699,
+        "word": "孟子坤 家暴",
+        "onboard_time": 1743606385,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130628,
+        "num": 130628,
+        "word": "多人在健身房组织卖淫最高判5年半",
+        "onboard_time": 1743647601,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129408,
+        "num": 129408,
+        "word": "孟子坤前女友公布聊天记录",
+        "onboard_time": 1743654444,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127973,
+        "num": 127973,
+        "word": "吒儿还在向前冲",
+        "onboard_time": 1743659541,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#以优良的党风带动民风社风#"
+    }
+  }
+}

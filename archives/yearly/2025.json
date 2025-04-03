@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743665072201,
+  "endTime": 1743665844739,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1738552467,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 4382418,
+      "num": 685448,
+      "word": "甜馨签约乐华了",
+      "onboard_time": 1743664221,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 4374487,
@@ -2392,14 +2400,6 @@
       "word": "王星说被迫接受了两三天诈骗培训",
       "onboard_time": 1736319203,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2839319,
-      "num": 409513,
-      "word": "半藏森林",
-      "onboard_time": 1739506162,
-      "rank": 10,
       "category": "艺人"
     }
   ],
