@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/04 00:30:04 ~ 2025/04/04 03:36:22
+本榜单时间：2025/04/04 00:30:04 ~ 2025/04/04 04:26:56
 </p>
 </blockquote>
 <p>
@@ -395,6 +395,18 @@ U17亚洲杯（热度：50313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E5%93%84%E5%A8%83%23" target="weibo">
 唐嫣哄娃（热度：20676）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%87%BA%E9%80%83%E9%BB%91%E7%86%8A%E5%B7%B2%E6%89%BE%E5%88%B0%23" target="weibo">
+官方通报出逃黑熊已找到（热度：14270）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%9B%AA%E5%BD%95%E4%BA%95%E5%BA%95%E5%9F%8B%E5%B0%B8%E5%8D%95%E5%85%83%E9%A2%84%E5%91%8A%23" target="weibo">
+朝雪录井底埋尸单元预告（热度：12628）
 </a>
 </li>
 
