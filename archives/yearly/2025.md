@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/03 16:32:10
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/03 16:45:19
 </p>
 </blockquote>
 <p>
@@ -1707,6 +1707,12 @@ DeepSeek（热度：3038517）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%20%E5%87%BA%E9%81%93%23" target="weibo">
+甜馨 出道（热度：2920672）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%A7%80%E7%8E%8B%E5%AE%89%E5%86%89%E7%A6%BB%E5%A9%9A%23" target="weibo">
 新秀王安冉离婚（热度：2920421）
 </a>
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E5%85%AC%E5%B8%83%E7%8E%8B%E6%98%9F%E8%A2%AB%E9%AA%97%E8%87%B3%E7%BC%85%E7%94%B8%E7%BB%86%E8%8A%82%23" target="weibo">
 公安机关公布王星被骗至缅甸细节（热度：2842832）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%AF%B4%E8%A2%AB%E8%BF%AB%E6%8E%A5%E5%8F%97%E4%BA%86%E4%B8%A4%E4%B8%89%E5%A4%A9%E8%AF%88%E9%AA%97%E5%9F%B9%E8%AE%AD%23" target="weibo">
-王星说被迫接受了两三天诈骗培训（热度：2840520）
 </a>
 </li>
 

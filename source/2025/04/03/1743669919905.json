@@ -1,0 +1,410 @@
+{
+  "runTime": 1743669919905,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 139626,
+        "num": 1022340,
+        "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+        "onboard_time": 1743644780,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 818554,
+        "num": 818554,
+        "word": "月薪4千搬运工瞒家人买454万保险",
+        "onboard_time": 1743663682,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31974,
+        "num": 582860,
+        "word": "我国新能源行业将步入市场化新阶段",
+        "onboard_time": 1743654084,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540619,
+        "num": 540619,
+        "word": "提醒甲亢哥不文明行为的女生回应了",
+        "onboard_time": 1743650542,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 433034,
+        "num": 433034,
+        "word": "成都一地被曝发现大量流浪猫",
+        "onboard_time": 1743667282,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390581,
+        "num": 390581,
+        "word": "世界最小蛇类只有雌性也能繁殖",
+        "onboard_time": 1743664282,
+        "rank": 5,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 383247,
+        "num": 383247,
+        "word": "清明节其实融合了三个节",
+        "onboard_time": 1743663381,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380247,
+        "num": 380247,
+        "word": "杨幂赵又廷 二搭",
+        "onboard_time": 1743661823,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360097,
+        "num": 360097,
+        "word": "阿诺一胎早产董力又哭又笑",
+        "onboard_time": 1743664041,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294537,
+        "num": 294537,
+        "word": "河北邯郸一动物园有熊出逃",
+        "onboard_time": 1743667641,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2920672,
+        "num": 287525,
+        "word": "甜馨 出道",
+        "onboard_time": 1743669022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427668,
+        "num": 284538,
+        "word": "门童台湾",
+        "onboard_time": 1743656542,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387682,
+        "num": 277927,
+        "word": "今年来已有多名艺人宣布退圈",
+        "onboard_time": 1743664342,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384072,
+        "num": 266720,
+        "word": "刘维伟出轨",
+        "onboard_time": 1743650963,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47314,
+        "num": 262976,
+        "word": "白宫回应对等关税名单没有俄罗斯",
+        "onboard_time": 1743668842,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 257204,
+        "num": 257204,
+        "word": "陈卓璇说感谢小鬼推了自己一把",
+        "onboard_time": 1743667942,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246414,
+        "num": 246414,
+        "word": "朝雪录 敖瑞鹏",
+        "onboard_time": 1743668541,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85267,
+        "num": 244012,
+        "word": "甲骨文藏着河南姓氏图腾",
+        "onboard_time": 1743667401,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31046,
+        "num": 236712,
+        "word": "男子持械打砸汽车销售店被刑拘",
+        "onboard_time": 1743669022,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40521,
+        "num": 223748,
+        "word": "林业局回应动物园有熊出逃",
+        "onboard_time": 1743669022,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323209,
+        "num": 218424,
+        "word": "一计害七贤",
+        "onboard_time": 1743665422,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315022,
+        "num": 210534,
+        "word": "金子涵微博已全部清空",
+        "onboard_time": 1743647601,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145284,
+        "num": 203198,
+        "word": "孟子坤说自己不是正经人",
+        "onboard_time": 1743667822,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283033,
+        "num": 192277,
+        "word": "金秀贤方晒real分镜脚本",
+        "onboard_time": 1743659122,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 191234,
+        "num": 191234,
+        "word": "赵丽颖工作室海报审美",
+        "onboard_time": 1743667581,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188967,
+        "num": 188967,
+        "word": "悬疑剧都卷成案中案了",
+        "onboard_time": 1743669082,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163718,
+        "num": 163718,
+        "word": "哪吒2超155亿了",
+        "onboard_time": 1743656662,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162453,
+        "num": 162453,
+        "word": "孙俪单手倒车入库",
+        "onboard_time": 1743653723,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59100,
+        "num": 160237,
+        "word": "韩国人为何钟爱张家界山水",
+        "onboard_time": 1743668782,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 61413,
+        "num": 158880,
+        "word": "谢浩男妈妈落泪回应争议",
+        "onboard_time": 1743669202,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243885,
+        "num": 155174,
+        "word": "男子被关精神病院出院后查出没患病",
+        "onboard_time": 1743663802,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219917,
+        "num": 154293,
+        "word": "孟子坤回应",
+        "onboard_time": 1743635659,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207188,
+        "num": 150613,
+        "word": "全国文旅喊话李现来打鸟",
+        "onboard_time": 1743666742,
+        "rank": 32,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 189223,
+        "num": 147996,
+        "word": "鞠婧祎逆应援",
+        "onboard_time": 1743669562,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147168,
+        "num": 147168,
+        "word": "唐嫣这幕好帅但为什么扛着大葱",
+        "onboard_time": 1743664941,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142881,
+        "num": 142881,
+        "word": "肖战说张艺兴不说话的爱值得被更多人看见",
+        "onboard_time": 1743658463,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142282,
+        "num": 142282,
+        "word": "金价冲向1000元",
+        "onboard_time": 1743645380,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141553,
+        "num": 141553,
+        "word": "我国抓获3名菲律宾间谍",
+        "onboard_time": 1743649822,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136336,
+        "num": 136336,
+        "word": "刘维伟 辛莎莎",
+        "onboard_time": 1743653841,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31862,
+        "num": 136304,
+        "word": "张柏芝绸缎衬衫拖地裙",
+        "onboard_time": 1743669741,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136283,
+        "num": 136283,
+        "word": "微信引用回复功能更新",
+        "onboard_time": 1743659181,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135777,
+        "num": 135777,
+        "word": "忽然发现跳舞可以旺自己",
+        "onboard_time": 1743663741,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134243,
+        "num": 134243,
+        "word": "谢娜开玩笑的错误动作",
+        "onboard_time": 1743669681,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72670,
+        "num": 134176,
+        "word": "向阳花片尾曲野子",
+        "onboard_time": 1743669863,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 460139,
+        "num": 134174,
+        "word": "贾乃亮换头像为甜馨新单曲打call",
+        "onboard_time": 1743660683,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134172,
+        "num": 134172,
+        "word": "Last Dance 浪姐舞台冤案",
+        "onboard_time": 1743661582,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129444,
+        "num": 129444,
+        "word": "蔚来智驾强行变道致后车追尾",
+        "onboard_time": 1743664102,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128115,
+        "num": 128115,
+        "word": "特朗普竟对中国征收34%对等关税",
+        "onboard_time": 1743648801,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126748,
+        "num": 126748,
+        "word": "泰国公主诗琳通访华",
+        "onboard_time": 1743669381,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126345,
+        "num": 126345,
+        "word": "第一次见歌手这样开嗓的",
+        "onboard_time": 1743669863,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#以优良的党风带动民风社风#"
+    }
+  }
+}
