@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743652244490,
+  "endTime": 1743654577523,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1581927,
+      "num": 1084404,
+      "word": "赵天宇官宣恋情",
+      "onboard_time": 1743651202,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1575434,
       "num": 383797,
       "word": "小米集团市值一天缩水800亿",
@@ -273,6 +281,14 @@
       "onboard_time": 1743495022,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1473440,
+      "num": 692151,
+      "word": "刘维伟出轨",
+      "onboard_time": 1743650963,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1417463,
@@ -371,14 +387,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1276858,
-      "num": 1084404,
-      "word": "赵天宇官宣恋情",
-      "onboard_time": 1743651202,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1258284,
       "num": 1258284,
       "word": "黄旭熙宣布台湾出道",
@@ -401,6 +409,14 @@
       "onboard_time": 1743582682,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1238367,
+      "num": 772201,
+      "word": "特朗普竟对中国征收34%对等关税",
+      "onboard_time": 1743648801,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1206281,
@@ -827,14 +843,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 772201,
-      "num": 772201,
-      "word": "特朗普竟对中国征收34%对等关税",
-      "onboard_time": 1743648801,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 771856,
       "num": 225076,
       "word": "霸王茶姬 哪吒",
@@ -891,14 +899,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 692151,
-      "num": 692151,
-      "word": "刘维伟出轨",
-      "onboard_time": 1743650963,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 683322,
       "num": 250397,
       "word": "盲人按摩店男员工杀女老板后服毒身亡",
@@ -931,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 653109,
+      "num": 1125524,
+      "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+      "onboard_time": 1743644780,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 652080,
       "num": 407026,
       "word": "马斯克宣布将辞去美国政府效率部职务",
@@ -955,14 +963,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 635652,
-      "num": 1125524,
-      "word": "哈尔滨亚冬会遭17万次来自美国网攻",
-      "onboard_time": 1743644780,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 626903,
       "num": 626903,
       "word": "Daniel公开",
@@ -976,6 +976,14 @@
       "word": "邓为站姐发了fx",
       "onboard_time": 1743483985,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 613907,
+      "num": 328045,
+      "word": "温如也向周雨彤道歉",
+      "onboard_time": 1743652283,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1177,6 +1185,14 @@
       "onboard_time": 1743554303,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546496,
+      "num": 320322,
+      "word": "孙俪单手倒车入库",
+      "onboard_time": 1743653723,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 546315,
@@ -1491,19 +1507,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 411942,
+      "num": 345316,
+      "word": "有效存钱15年竟然能多赚60万",
+      "onboard_time": 1743650662,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411763,
       "num": 411763,
       "word": "姜甲儒称要亲手为家人讨回公道",
       "onboard_time": 1743571462,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 411687,
-      "num": 345316,
-      "word": "有效存钱15年竟然能多赚60万",
-      "onboard_time": 1743650662,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -1643,12 +1659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381300,
+      "num": 381300,
+      "word": "扶弟魔背后有个吸姐鬼",
+      "onboard_time": 1743652943,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379804,
       "num": 337525,
       "word": "拉夫劳伦活动",
       "onboard_time": 1743595224,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 378795,
+      "num": 378795,
+      "word": "刘诗诗吴宣仪hi6上班路透",
+      "onboard_time": 1743652043,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 378011,
@@ -1707,6 +1739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 366726,
+      "num": 706005,
+      "word": "特朗普不停加关税目的是啥",
+      "onboard_time": 1743651442,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 365551,
       "num": 175109,
       "word": "钟南山提醒剩饭剩菜别强吃",
@@ -1753,6 +1793,14 @@
       "onboard_time": 1743646520,
       "rank": 9,
       "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 356700,
+      "num": 356700,
+      "word": "重庆不齐舞团给甲亢哥表演科目三",
+      "onboard_time": 1743653421,
+      "rank": 9,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 353098,
@@ -2033,6 +2081,14 @@
       "onboard_time": 1743475462,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 312196,
+      "num": 312196,
+      "word": "刘维伟 辛莎莎",
+      "onboard_time": 1743653841,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 311781,
@@ -2435,14 +2491,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 265686,
-      "num": 265686,
-      "word": "刘诗诗吴宣仪hi6上班路透",
-      "onboard_time": 1743652043,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265533,
       "num": 407476,
       "word": "家族有精神病史有资格做母亲吗",
@@ -2483,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263458,
+      "num": 263458,
+      "word": "台湾台南4.2级地震",
+      "onboard_time": 1743654143,
+      "rank": 26,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 262837,
       "num": 134520,
       "word": "QQ音乐 内涵",
@@ -2512,6 +2568,14 @@
       "word": "虞书欣何与杀青合照",
       "onboard_time": 1743564022,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 258693,
+      "num": 258693,
+      "word": "朝雪录",
+      "onboard_time": 1743652823,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -2755,6 +2819,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 233049,
+      "num": 233049,
+      "word": "杭州的天才房东",
+      "onboard_time": 1743652222,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232405,
       "num": 330655,
       "word": "发条微博致敬王伟烈士",
@@ -2857,6 +2929,14 @@
       "onboard_time": 1743482125,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220864,
+      "num": 267677,
+      "word": "颜安柯淳 安淳蛋",
+      "onboard_time": 1743652405,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 220218,
@@ -3041,6 +3121,14 @@
       "onboard_time": 1743602544,
       "rank": 33,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 209000,
+      "num": 258876,
+      "word": "王安宇是个尤物",
+      "onboard_time": 1743653363,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 208686,
@@ -3305,6 +3393,14 @@
       "onboard_time": 1743484402,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199670,
+      "num": 199670,
+      "word": "托运的行李箱多出条丝袜获赔4500元",
+      "onboard_time": 1743654022,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199655,
@@ -3699,6 +3795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187700,
+      "num": 387531,
+      "word": "女大学生求职被要求3年不婚5年不育",
+      "onboard_time": 1743651562,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187662,
       "num": 276703,
       "word": "一个好演员眼睛也是会说话的",
@@ -3947,6 +4051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180980,
+      "num": 180980,
+      "word": "爱奇艺4月待播剧综",
+      "onboard_time": 1743654444,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180681,
       "num": 180681,
       "word": "缅甸母亲彻夜在废墟寻找女儿遗物",
@@ -3961,6 +4073,14 @@
       "onboard_time": 1743510503,
       "rank": 36,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 180389,
+      "num": 180389,
+      "word": "这顿饭牛都得就着健胃消食片吃",
+      "onboard_time": 1743652222,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 179959,
@@ -4499,14 +4619,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 158696,
-      "num": 158696,
-      "word": "杭州的天才房东",
-      "onboard_time": 1743652222,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 158259,
       "num": 158259,
       "word": "CBA技术台骂人",
@@ -4593,6 +4705,14 @@
       "onboard_time": 1743499103,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154802,
+      "num": 154802,
+      "word": "罗晋这一段头皮发麻",
+      "onboard_time": 1743654265,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 154440,
@@ -4889,14 +5009,6 @@
       "onboard_time": 1743487284,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146331,
-      "num": 146331,
-      "word": "这顿饭牛都得就着健胃消食片吃",
-      "onboard_time": 1743652222,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 146187,
@@ -5208,6 +5320,14 @@
       "word": "EXO将进行13周年直播",
       "onboard_time": 1743486203,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137404,
+      "num": 137404,
+      "word": "西村力 金发",
+      "onboard_time": 1743654385,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -5523,12 +5643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126972,
-      "num": 706005,
-      "word": "特朗普不停加关税目的是啥",
-      "onboard_time": 1743651442,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 126256,
+      "num": 126256,
+      "word": "浓眉绝杀老鹰",
+      "onboard_time": 1743652702,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 125980,
@@ -6859,6 +6979,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 63824,
+      "num": 260185,
+      "word": "孟子坤前女友公布聊天记录",
+      "onboard_time": 1743654444,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63063,
       "num": 139696,
       "word": "东部战区参演兵力全向出动",
@@ -7323,6 +7451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40819,
+      "num": 182024,
+      "word": "白宫称这是美现代史最重要的日子之一",
+      "onboard_time": 1743652763,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40345,
       "num": 407163,
       "word": "1604要维修结果修了1704",
@@ -7337,14 +7473,6 @@
       "onboard_time": 1743527896,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 39688,
-      "num": 387531,
-      "word": "女大学生求职被要求3年不婚5年不育",
-      "onboard_time": 1743651562,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39522,
@@ -7467,6 +7595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34521,
+      "num": 202566,
+      "word": "梁建章谈人与AI本质有何不同",
+      "onboard_time": 1743653363,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 34202,
       "num": 202545,
       "word": "乘客欲强开舱门致客机返航",
@@ -7561,6 +7697,14 @@
       "onboard_time": 1743645920,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31266,
+      "num": 212135,
+      "word": "张集骏给粉丝手写24张明信片",
+      "onboard_time": 1743653303,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 30575,
@@ -7753,6 +7897,14 @@
       "onboard_time": 1743591201,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23867,
+      "num": 278030,
+      "word": "我国新能源行业将步入市场化新阶段",
+      "onboard_time": 1743654084,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23382,
@@ -8115,6 +8267,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 10528,
+      "num": 986642,
+      "word": "一组图教你怎么把花拍好看",
+      "onboard_time": 1743654323,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10524,
       "num": 25118,
       "word": "驻日使馆发布旅游安全提示",
@@ -8238,6 +8398,9 @@
     },
     {
       "word": "#自觉遵规守纪大胆干事创业#"
+    },
+    {
+      "word": "#以优良的党风带动民风社风#"
     }
   ]
 }
