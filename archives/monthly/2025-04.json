@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743690233414,
+  "endTime": 1743691356271,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 1397916,
-      "num": 946302,
+      "num": 1003685,
       "word": "家长建议取消学校义工站岗",
       "onboard_time": 1743682702,
       "rank": 9,
@@ -803,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 882646,
+      "num": 882646,
+      "word": "热烈重映 宋祖儿戏份",
+      "onboard_time": 1743685343,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 864707,
       "num": 402858,
       "word": "孟子义站姐发了李昀锐和秦霄贤",
@@ -993,14 +1001,6 @@
       "onboard_time": 1743661823,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 749968,
-      "num": 749968,
-      "word": "热烈重映 宋祖儿戏份",
-      "onboard_time": 1743685343,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 741691,
@@ -1435,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 545067,
+      "num": 437855,
+      "word": "蔡徐坤 龙港",
+      "onboard_time": 1743687864,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 543024,
       "num": 481694,
       "word": "雁回时大结局 没填坑",
@@ -1587,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 505608,
-      "num": 347376,
-      "word": "蔡徐坤 龙港",
-      "onboard_time": 1743687864,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 505473,
       "num": 357935,
       "word": "鹿晗站姐发了双杨cp",
@@ -1641,6 +1641,14 @@
       "onboard_time": 1743595344,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 491910,
+      "num": 491910,
+      "word": "SM新男团",
+      "onboard_time": 1743686962,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 491855,
@@ -1881,14 +1889,6 @@
       "onboard_time": 1743656662,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 423596,
-      "num": 423596,
-      "word": "SM新男团",
-      "onboard_time": 1743686962,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 415777,
@@ -2188,7 +2188,7 @@
     },
     {
       "raw_hot": 366843,
-      "num": 261299,
+      "num": 275449,
       "word": "养了10年的狗跳起来咬向主人喉咙",
       "onboard_time": 1743684022,
       "rank": 33,
@@ -2363,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341626,
+      "num": 341626,
+      "word": "Uzi妻子宣布胜诉",
+      "onboard_time": 1743687864,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 338105,
       "num": 620741,
       "word": "张小泉集团及法人等被执行31.3亿",
@@ -2523,12 +2531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 321212,
-      "num": 321212,
-      "word": "Uzi妻子宣布胜诉",
-      "onboard_time": 1743687864,
-      "rank": 12,
-      "category": "电竞"
+      "raw_hot": 320820,
+      "num": 320820,
+      "word": "冬去春来 杨洋章若楠",
+      "onboard_time": 1743687202,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 319039,
@@ -2553,14 +2561,6 @@
       "onboard_time": 1743579563,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 317562,
-      "num": 317562,
-      "word": "冬去春来 杨洋章若楠",
-      "onboard_time": 1743687202,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 316182,
@@ -2835,6 +2835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 291911,
+      "num": 291911,
+      "word": "美股",
+      "onboard_time": 1743431842,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 291582,
       "num": 270669,
       "word": "医生提醒不要频繁做CT",
@@ -2865,6 +2873,14 @@
       "onboard_time": 1743592283,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 288923,
+      "num": 288923,
+      "word": "久酷十五分钟纪录片",
+      "onboard_time": 1743690322,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 288785,
@@ -3187,6 +3203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257526,
+      "num": 257526,
+      "word": "谷爱凌晒与张若昀合照",
+      "onboard_time": 1743688883,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 257282,
       "num": 257282,
       "word": "王文也",
@@ -3403,6 +3427,14 @@
       "category": "体育,美食"
     },
     {
+      "raw_hot": 235935,
+      "num": 235935,
+      "word": "倪妮瑞士被偶遇",
+      "onboard_time": 1743689242,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235519,
       "num": 407803,
       "word": "74岁TVB老戏骨在狱中求婚成功",
@@ -3513,14 +3545,6 @@
       "onboard_time": 1743684022,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 226387,
-      "num": 226387,
-      "word": "倪妮瑞士被偶遇",
-      "onboard_time": 1743689242,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 225960,
@@ -3707,14 +3731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213778,
-      "num": 213778,
-      "word": "谷爱凌晒与张若昀合照",
-      "onboard_time": 1743688883,
-      "rank": 24,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 213727,
       "num": 288268,
       "word": "曾黎对话竹刻非遗传承人",
@@ -3833,6 +3849,14 @@
       "onboard_time": 1743580583,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208093,
+      "num": 289330,
+      "word": "重庆一交通事故致6死1伤",
+      "onboard_time": 1743690562,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207752,
@@ -5011,6 +5035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 176830,
+      "num": 188654,
+      "word": "2025清明奇妙游直播",
+      "onboard_time": 1743690262,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176710,
       "num": 193451,
       "word": "站姐团建发的85花",
@@ -5265,14 +5297,6 @@
       "onboard_time": 1743511103,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169516,
-      "num": 169516,
-      "word": "美股",
-      "onboard_time": 1743431842,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 169119,
@@ -7435,6 +7459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115823,
+      "num": 115823,
+      "word": "罗晋原声台词含金量",
+      "onboard_time": 1743691163,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115245,
       "num": 399181,
       "word": "好友称王玉雯单身",
@@ -7619,6 +7651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109541,
+      "num": 109541,
+      "word": "侯佩岑还播过自己和周杰伦的新闻",
+      "onboard_time": 1743691342,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109194,
       "num": 273160,
       "word": "棋士反套路",
@@ -7705,6 +7745,14 @@
       "onboard_time": 1743600082,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105992,
+      "num": 439480,
+      "word": "缅甸地震已致3145人死亡",
+      "onboard_time": 1743690262,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 105269,
@@ -8131,6 +8179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87358,
+      "num": 316582,
+      "word": "女子用1角5角硬币支付租房纠纷执行款",
+      "onboard_time": 1743689303,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86935,
       "num": 327129,
       "word": "辅警给不法KTV通风报信获刑",
@@ -8201,6 +8257,14 @@
       "onboard_time": 1743676642,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83471,
+      "num": 305959,
+      "word": "4人卖鞋亏损后转卖保健品骗了超10亿",
+      "onboard_time": 1743690621,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83304,
@@ -8435,6 +8499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69729,
+      "num": 925403,
+      "word": "清明美食图鉴上新了",
+      "onboard_time": 1743688282,
+      "rank": 2,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 69678,
       "num": 472272,
       "word": "智能驾驶和自动驾驶不能画等号",
@@ -8457,14 +8529,6 @@
       "onboard_time": 1743600082,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69300,
-      "num": 886943,
-      "word": "清明美食图鉴上新了",
-      "onboard_time": 1743688282,
-      "rank": 2,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 69062,
@@ -8817,6 +8881,14 @@
       "onboard_time": 1743450254,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54978,
+      "num": 289984,
+      "word": "值得爱剧组直播氛围",
+      "onboard_time": 1743690503,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 54755,
@@ -9211,6 +9283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38293,
+      "num": 249499,
+      "word": "胡兵再次在上海走秀",
+      "onboard_time": 1743691223,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 38186,
       "num": 263791,
       "word": "情久春季赛淘汰",
@@ -9259,12 +9339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36479,
-      "num": 316582,
-      "word": "女子用1角5角硬币支付租房纠纷执行款",
-      "onboard_time": 1743689303,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 36432,
+      "num": 245895,
+      "word": "向鹏3比1张禹珍",
+      "onboard_time": 1743690441,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 36229,
@@ -9635,6 +9715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25151,
+      "num": 236792,
+      "word": "学白事前途如何",
+      "onboard_time": 1743689843,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 24701,
       "num": 176658,
       "word": "交学费买摆摊秘籍被骗",
@@ -9905,14 +9993,6 @@
       "onboard_time": 1743527597,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15527,
-      "num": 179894,
-      "word": "学白事前途如何",
-      "onboard_time": 1743689843,
-      "rank": 29,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 15512,

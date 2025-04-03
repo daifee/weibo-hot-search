@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743690233414,
+  "endTime": 1743691356271,
   "band_list": [
     {
       "raw_hot": 4382418,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1397916,
-      "num": 946302,
+      "num": 1003685,
       "word": "家长建议取消学校义工站岗",
       "onboard_time": 1743682702,
       "rank": 9,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 882646,
+      "num": 882646,
+      "word": "热烈重映 宋祖儿戏份",
+      "onboard_time": 1743685343,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 850873,
       "num": 850873,
       "word": "我国抓获3名菲律宾间谍",
@@ -273,14 +281,6 @@
       "onboard_time": 1743661823,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 749968,
-      "num": 749968,
-      "word": "热烈重映 宋祖儿戏份",
-      "onboard_time": 1743685343,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 741691,
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 545067,
+      "num": 437855,
+      "word": "蔡徐坤 龙港",
+      "onboard_time": 1743687864,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 540671,
       "num": 396860,
       "word": "肖战说张艺兴不说话的爱值得被更多人看见",
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 528602,
-      "num": 361386,
+      "num": 427027,
       "word": "关税",
       "onboard_time": 1743688101,
       "rank": 10,
@@ -531,14 +539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 505608,
-      "num": 347376,
-      "word": "蔡徐坤 龙港",
-      "onboard_time": 1743687864,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 504874,
       "num": 504874,
       "word": "特朗普宣布实施所谓对等关税",
@@ -561,6 +561,14 @@
       "onboard_time": 1743602544,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 491910,
+      "num": 491910,
+      "word": "SM新男团",
+      "onboard_time": 1743686962,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 491855,
@@ -707,14 +715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 423596,
-      "num": 423596,
-      "word": "SM新男团",
-      "onboard_time": 1743686962,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 412598,
       "num": 412598,
       "word": "白宫回应马斯克辞职",
@@ -852,7 +852,7 @@
     },
     {
       "raw_hot": 366843,
-      "num": 261299,
+      "num": 275449,
       "word": "养了10年的狗跳起来咬向主人喉咙",
       "onboard_time": 1743684022,
       "rank": 33,
@@ -905,6 +905,14 @@
       "onboard_time": 1743645141,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341626,
+      "num": 341626,
+      "word": "Uzi妻子宣布胜诉",
+      "onboard_time": 1743687864,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 335195,
@@ -963,12 +971,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321212,
-      "num": 321212,
-      "word": "Uzi妻子宣布胜诉",
-      "onboard_time": 1743687864,
-      "rank": 12,
-      "category": "电竞"
+      "raw_hot": 320820,
+      "num": 320820,
+      "word": "冬去春来 杨洋章若楠",
+      "onboard_time": 1743687202,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 319039,
@@ -993,14 +1001,6 @@
       "onboard_time": 1743599783,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317562,
-      "num": 317562,
-      "word": "冬去春来 杨洋章若楠",
-      "onboard_time": 1743687202,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 316182,
@@ -1099,6 +1099,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291911,
+      "num": 291911,
+      "word": "美股",
+      "onboard_time": 1743636741,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 288923,
+      "num": 288923,
+      "word": "久酷十五分钟纪录片",
+      "onboard_time": 1743690322,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 288785,
       "num": 288785,
       "word": "红发GISELLE",
@@ -1179,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257526,
+      "num": 257526,
+      "word": "谷爱凌晒与张若昀合照",
+      "onboard_time": 1743688883,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 257204,
       "num": 257204,
       "word": "陈卓璇说感谢小鬼推了自己一把",
@@ -1211,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235935,
+      "num": 235935,
+      "word": "倪妮瑞士被偶遇",
+      "onboard_time": 1743689242,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233049,
       "num": 233049,
       "word": "杭州的天才房东",
@@ -1233,14 +1265,6 @@
       "onboard_time": 1743684022,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 226387,
-      "num": 226387,
-      "word": "倪妮瑞士被偶遇",
-      "onboard_time": 1743689242,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 220864,
@@ -1275,14 +1299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 213778,
-      "num": 213778,
-      "word": "谷爱凌晒与张若昀合照",
-      "onboard_time": 1743688883,
-      "rank": 24,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 213727,
       "num": 288268,
       "word": "曾黎对话竹刻非遗传承人",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1743653363,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208093,
+      "num": 289330,
+      "word": "重庆一交通事故致6死1伤",
+      "onboard_time": 1743690562,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206337,
@@ -1555,6 +1579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 176830,
+      "num": 188654,
+      "word": "2025清明奇妙游直播",
+      "onboard_time": 1743690262,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176319,
       "num": 176319,
       "word": "守护甜心几斗亲了亚梦",
@@ -1625,14 +1657,6 @@
       "onboard_time": 1743654742,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 169516,
-      "num": 169516,
-      "word": "美股",
-      "onboard_time": 1743636741,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 169119,
@@ -2379,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115823,
+      "num": 115823,
+      "word": "罗晋原声台词含金量",
+      "onboard_time": 1743691163,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115245,
       "num": 399181,
       "word": "好友称王玉雯单身",
@@ -2451,6 +2483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109541,
+      "num": 109541,
+      "word": "侯佩岑还播过自己和周杰伦的新闻",
+      "onboard_time": 1743691342,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 108834,
       "num": 108834,
       "word": "我交了个星朋友",
@@ -2505,6 +2545,14 @@
       "onboard_time": 1743595403,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105992,
+      "num": 439480,
+      "word": "缅甸地震已致3145人死亡",
+      "onboard_time": 1743690262,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 105269,
@@ -2699,6 +2747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87358,
+      "num": 316582,
+      "word": "女子用1角5角硬币支付租房纠纷执行款",
+      "onboard_time": 1743689303,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86935,
       "num": 327129,
       "word": "辅警给不法KTV通风报信获刑",
@@ -2745,6 +2801,14 @@
       "onboard_time": 1743676642,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83471,
+      "num": 305959,
+      "word": "4人卖鞋亏损后转卖保健品骗了超10亿",
+      "onboard_time": 1743690621,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79096,
@@ -2811,8 +2875,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69300,
-      "num": 886943,
+      "raw_hot": 69729,
+      "num": 925403,
       "word": "清明美食图鉴上新了",
       "onboard_time": 1743688282,
       "rank": 2,
@@ -2921,6 +2985,14 @@
       "onboard_time": 1743657083,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 54978,
+      "num": 289984,
+      "word": "值得爱剧组直播氛围",
+      "onboard_time": 1743690503,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 53987,
@@ -3067,6 +3139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38293,
+      "num": 249499,
+      "word": "胡兵再次在上海走秀",
+      "onboard_time": 1743691223,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 37245,
       "num": 59991,
       "word": "高颜值孤独症男孩小岱走红背后",
@@ -3075,12 +3155,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36479,
-      "num": 316582,
-      "word": "女子用1角5角硬币支付租房纠纷执行款",
-      "onboard_time": 1743689303,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 36432,
+      "num": 245895,
+      "word": "向鹏3比1张禹珍",
+      "onboard_time": 1743690441,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 35875,
@@ -3219,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25151,
+      "num": 236792,
+      "word": "学白事前途如何",
+      "onboard_time": 1743689843,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 24701,
       "num": 176658,
       "word": "交学费买摆摊秘籍被骗",
@@ -3353,14 +3441,6 @@
       "onboard_time": 1743626415,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15527,
-      "num": 179894,
-      "word": "学白事前途如何",
-      "onboard_time": 1743689843,
-      "rank": 29,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 12829,
