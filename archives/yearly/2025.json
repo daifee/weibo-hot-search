@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743669919905,
+  "endTime": 1743672381928,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1987,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3045867,
+      "num": 287525,
+      "word": "甜馨 出道",
+      "onboard_time": 1743669022,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3045584,
       "num": 3045584,
       "word": "肖战比嘘",
@@ -2257,14 +2265,6 @@
       "onboard_time": 1736606010,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2920672,
-      "num": 287525,
-      "word": "甜馨 出道",
-      "onboard_time": 1743669022,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2920421,

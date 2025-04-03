@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743669919905,
+  "endTime": 1743672381928,
   "band_list": [
     {
       "raw_hot": 4382418,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2920672,
+      "raw_hot": 3045867,
       "num": 287525,
       "word": "甜馨 出道",
       "onboard_time": 1743669022,
@@ -147,11 +147,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 954849,
+      "num": 954849,
+      "word": "河北一地拟取消老年人免费乘公交",
+      "onboard_time": 1743670762,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 928481,
       "num": 488364,
       "word": "你和赵天宇爱过吗",
       "onboard_time": 1743645800,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 920787,
+      "num": 262936,
+      "word": "甜馨否认签约乐华",
+      "onboard_time": 1743670042,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -209,6 +225,14 @@
       "onboard_time": 1743661823,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 688859,
+      "num": 263656,
+      "word": "27岁男子当了27年黑户",
+      "onboard_time": 1743671063,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 687985,
@@ -331,6 +355,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 519278,
+      "num": 519278,
+      "word": "成都一地被曝发现大量流浪猫",
+      "onboard_time": 1743667282,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 519044,
       "num": 519044,
       "word": "日本九州岛附近6.2级地震",
@@ -419,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470572,
+      "num": 277927,
+      "word": "今年来已有多名艺人宣布退圈",
+      "onboard_time": 1743664342,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466805,
       "num": 455512,
       "word": "杨鸣",
@@ -467,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 433034,
-      "num": 433034,
-      "word": "成都一地被曝发现大量流浪猫",
-      "onboard_time": 1743667282,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 431626,
+      "num": 431626,
+      "word": "黄霄雲方再回应翻唱争议",
+      "onboard_time": 1743670762,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 424774,
@@ -521,14 +561,6 @@
       "onboard_time": 1743646160,
       "rank": 7,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 402039,
-      "num": 277927,
-      "word": "今年来已有多名艺人宣布退圈",
-      "onboard_time": 1743664342,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 395899,
@@ -795,6 +827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 279518,
+      "num": 279518,
+      "word": "朝雪录 敖瑞鹏",
+      "onboard_time": 1743668541,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277007,
       "num": 277007,
       "word": "极挑男人帮张艺兴新片首映合体",
@@ -841,14 +881,6 @@
       "onboard_time": 1743662122,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 246414,
-      "num": 246414,
-      "word": "朝雪录 敖瑞鹏",
-      "onboard_time": 1743668541,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 236729,
@@ -1083,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174939,
+      "num": 220728,
+      "word": "孟子坤说自己不是正经人",
+      "onboard_time": 1743667822,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173736,
       "num": 173736,
       "word": "长期睡眠不足的人长什么样",
@@ -1113,6 +1153,14 @@
       "onboard_time": 1743649462,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 167942,
+      "num": 167942,
+      "word": "震耳欲聋开通官博",
+      "onboard_time": 1743671662,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 165378,
@@ -1179,12 +1227,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153789,
+      "num": 153789,
+      "word": "泰国公主诗琳通访华",
+      "onboard_time": 1743669381,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153333,
       "num": 153333,
       "word": "俄罗斯不在美国对等关税名单",
       "onboard_time": 1743639742,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152338,
+      "num": 158880,
+      "word": "谢浩男妈妈落泪回应争议",
+      "onboard_time": 1743669202,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151739,
@@ -1201,6 +1265,14 @@
       "onboard_time": 1743517885,
       "rank": 31,
       "category": "辟谣/通报,汽车"
+    },
+    {
+      "raw_hot": 150477,
+      "num": 150477,
+      "word": "浪姐被低估的神级舞台",
+      "onboard_time": 1743670341,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 150046,
@@ -1251,14 +1323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145284,
-      "num": 220728,
-      "word": "孟子坤说自己不是正经人",
-      "onboard_time": 1743667822,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145035,
       "num": 308431,
       "word": "特朗普声称让美国再次富有",
@@ -1307,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140663,
+      "num": 140663,
+      "word": "猫耳崩了",
+      "onboard_time": 1743671422,
+      "rank": 36,
+      "category": "动漫,互联网"
+    },
+    {
       "raw_hot": 140452,
       "num": 140452,
       "word": "骄阳似我领衔主演宋威龙赵今麦",
@@ -1329,6 +1401,14 @@
       "onboard_time": 1743651442,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137110,
+      "num": 137110,
+      "word": "谢娜开玩笑的错误动作",
+      "onboard_time": 1743669681,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 136507,
@@ -1355,20 +1435,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 134243,
-      "num": 134243,
-      "word": "谢娜开玩笑的错误动作",
-      "onboard_time": 1743669681,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134158,
       "num": 134158,
       "word": "赵露思综艺播出时间调整",
       "onboard_time": 1743658583,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132846,
+      "num": 132846,
+      "word": "王安宇像剥了皮的荔枝",
+      "onboard_time": 1743671422,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 131833,
@@ -1427,14 +1507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126748,
-      "num": 126748,
-      "word": "泰国公主诗琳通访华",
-      "onboard_time": 1743669381,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 126691,
       "num": 126691,
       "word": "一诺灵儿携雨踏云大片",
@@ -1483,12 +1555,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122329,
+      "num": 122329,
+      "word": "庄寒雁坐拥千万家产无痛当妈",
+      "onboard_time": 1743668603,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122120,
       "num": 122120,
       "word": "孤独症男孩因高颜值走红妈妈发声",
       "onboard_time": 1743590722,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121655,
+      "num": 121655,
+      "word": "Ning被cat气红温",
+      "onboard_time": 1743670341,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 120985,
@@ -1555,20 +1643,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115209,
-      "num": 115209,
-      "word": "庄寒雁坐拥千万家产无痛当妈",
-      "onboard_time": 1743668603,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113739,
       "num": 177708,
       "word": "骄阳似我杀青",
       "onboard_time": 1743650002,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111880,
+      "num": 111880,
+      "word": "钟睒睒炮轰互联网平台",
+      "onboard_time": 1743671901,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 110487,
@@ -1675,6 +1763,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 98025,
+      "num": 168216,
+      "word": "马斯克说辞职是假新闻",
+      "onboard_time": 1743671422,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96663,
       "num": 96663,
       "word": "如果古树会说话",
@@ -1771,6 +1867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74884,
+      "num": 280534,
+      "word": "当地回应拟取消老年人免费公交",
+      "onboard_time": 1743672023,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74770,
       "num": 74770,
       "word": "74岁TVB老戏骨求婚狱中37岁女友",
@@ -1819,6 +1923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 66638,
+      "num": 151022,
+      "word": "清明念英烈",
+      "onboard_time": 1743671962,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66612,
       "num": 82066,
       "word": "棋士",
@@ -1865,14 +1977,6 @@
       "onboard_time": 1743604884,
       "rank": 49,
       "category": "国际时政,国内时政"
-    },
-    {
-      "raw_hot": 61413,
-      "num": 158880,
-      "word": "谢浩男妈妈落泪回应争议",
-      "onboard_time": 1743669202,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59100,
@@ -1955,6 +2059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45967,
+      "num": 720326,
+      "word": "我国新能源行业将步入市场化新阶段",
+      "onboard_time": 1743654084,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43564,
       "num": 43564,
       "word": "东部战区今天对台演练为何公布代号",
@@ -2019,6 +2131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36874,
+      "num": 253954,
+      "word": "养老院回应院内八旬老人多处烧伤",
+      "onboard_time": 1743671063,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35875,
       "num": 219242,
       "word": "多国及国际组织反击美关税胁迫",
@@ -2049,14 +2169,6 @@
       "onboard_time": 1743614236,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 31974,
-      "num": 720326,
-      "word": "我国新能源行业将步入市场化新阶段",
-      "onboard_time": 1743654084,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31862,
@@ -2227,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15182,
+      "num": 167948,
+      "word": "全球经济动荡下金价还要疯多久",
+      "onboard_time": 1743672023,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 12829,
       "num": 320535,
       "word": "顾客拔火罐被烧伤店家说无理取闹",
@@ -2281,6 +2401,14 @@
       "onboard_time": 1743553283,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5745,
+      "num": 677205,
+      "word": "青春华章恰同学少年",
+      "onboard_time": 1743672323,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
