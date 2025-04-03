@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743657840970,
+  "endTime": 1743658844187,
   "band_list": [
     {
       "raw_hot": 2429717,
@@ -25,6 +25,14 @@
       "onboard_time": 1743645380,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1795716,
+      "num": 475335,
+      "word": "门童台湾",
+      "onboard_time": 1743656542,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1581927,
@@ -99,12 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 967276,
-      "num": 442462,
-      "word": "门童台湾",
-      "onboard_time": 1743656542,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 969690,
+      "num": 969690,
+      "word": "甜馨时隔十年再发新曲",
+      "onboard_time": 1743658042,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 928481,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 639986,
-      "num": 439532,
+      "num": 459021,
       "word": "刘维伟 辛莎莎",
       "onboard_time": 1743653841,
       "rank": 19,
@@ -299,6 +307,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 482007,
+      "num": 482007,
+      "word": "孟子坤前女友公布聊天记录",
+      "onboard_time": 1743654444,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472153,
       "num": 472153,
       "word": "何洛洛 生命树",
@@ -323,20 +339,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 455512,
+      "num": 455512,
+      "word": "杨鸣",
+      "onboard_time": 1743655823,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 452691,
       "num": 221614,
       "word": "小米打假雷军致公众的一封信",
       "onboard_time": 1743595885,
       "rank": 15,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 445328,
-      "num": 445328,
-      "word": "孟子坤前女友公布聊天记录",
-      "onboard_time": 1743654444,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 441020,
@@ -347,12 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 436002,
-      "num": 436002,
-      "word": "杨鸣",
-      "onboard_time": 1743655823,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 439200,
+      "num": 439200,
+      "word": "李现手持7斤镜头拍稳每一只鸟",
+      "onboard_time": 1743656783,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 424774,
+      "num": 479848,
+      "word": "哪吒2超155亿了",
+      "onboard_time": 1743656662,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 412598,
@@ -587,11 +611,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 300931,
-      "num": 432603,
-      "word": "哪吒2超155亿了",
-      "onboard_time": 1743656662,
-      "rank": 26,
+      "raw_hot": 297623,
+      "num": 297623,
+      "word": "原来凤凰传奇只有一个人会骑马",
+      "onboard_time": 1743657262,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -617,14 +641,6 @@
       "onboard_time": 1743611659,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 266148,
-      "num": 436900,
-      "word": "李现手持7斤镜头拍稳每一只鸟",
-      "onboard_time": 1743656783,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 258693,
@@ -699,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205283,
+      "num": 205283,
+      "word": "肖战说张艺兴不说话的爱值得被更多人看见",
+      "onboard_time": 1743658463,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195721,
       "num": 295851,
       "word": "姚晨贾静雯也没逃过李羲承进行曲",
@@ -737,14 +761,6 @@
       "onboard_time": 1743655884,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189491,
-      "num": 189491,
-      "word": "原来凤凰传奇只有一个人会骑马",
-      "onboard_time": 1743657262,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 187700,
@@ -923,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148425,
+      "num": 148425,
+      "word": "晒一个月忘收的衣服被小鸟下蛋了",
+      "onboard_time": 1743657923,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148075,
       "num": 169354,
       "word": "郑秀晶宋仲基同框",
@@ -961,6 +985,14 @@
       "onboard_time": 1743644899,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140452,
+      "num": 140452,
+      "word": "骄阳似我领衔主演宋威龙赵今麦",
+      "onboard_time": 1743657684,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 139579,
@@ -1003,6 +1035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134158,
+      "num": 134158,
+      "word": "赵露思综艺播出时间调整",
+      "onboard_time": 1743658583,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131833,
       "num": 139207,
       "word": "外交部回应美欧日等指责中方联合演训",
@@ -1027,10 +1067,26 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130702,
+      "num": 130702,
+      "word": "淮水竹亭看似4个人实到10个人",
+      "onboard_time": 1743658763,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129186,
       "num": 284579,
       "word": "全红婵跳水世界杯热身",
       "onboard_time": 1743648622,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127104,
+      "num": 438172,
+      "word": "郑钦文为低排名球员发声",
+      "onboard_time": 1743656963,
       "rank": 19,
       "category": "体育"
     },
@@ -1041,14 +1097,6 @@
       "onboard_time": 1743652702,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125214,
-      "num": 125214,
-      "word": "骄阳似我领衔主演宋威龙赵今麦",
-      "onboard_time": 1743657684,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 123603,
@@ -1203,12 +1251,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 99846,
-      "num": 438172,
-      "word": "郑钦文为低排名球员发声",
-      "onboard_time": 1743656963,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 100653,
+      "num": 215859,
+      "word": "孙俪胡曼黎莞莞类卿具像化",
+      "onboard_time": 1743658703,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 99070,
@@ -1284,7 +1332,7 @@
     },
     {
       "raw_hot": 85791,
-      "num": 986642,
+      "num": 998050,
       "word": "一组图教你怎么把花拍好看",
       "onboard_time": 1743654323,
       "rank": 2,
@@ -1587,6 +1635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26693,
+      "num": 249868,
+      "word": "美国对等关税损人不利己",
+      "onboard_time": 1743657982,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26278,
       "num": 62556,
       "word": "正告台独势力",
@@ -1672,6 +1728,14 @@
       "word": "4人入室抢婴案开庭前姜甲儒发声",
       "onboard_time": 1743626415,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12829,
+      "num": 320535,
+      "word": "顾客拔火罐被烧伤店家说无理取闹",
+      "onboard_time": 1743658583,
+      "rank": 25,
       "category": "民生新闻"
     },
     {

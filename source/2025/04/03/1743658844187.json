@@ -1,0 +1,410 @@
+{
+  "runTime": 1743658844187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 379640,
+        "num": 1060742,
+        "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+        "onboard_time": 1743644780,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1334558,
+        "num": 1057268,
+        "word": "提醒甲亢哥不文明行为的女生回应了",
+        "onboard_time": 1743650542,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 83789,
+        "num": 998050,
+        "word": "一组图教你怎么把花拍好看",
+        "onboard_time": 1743654323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 969690,
+        "num": 969690,
+        "word": "甜馨时隔十年再发新曲",
+        "onboard_time": 1743658042,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 632745,
+        "num": 632745,
+        "word": "孙俪单手倒车入库",
+        "onboard_time": 1743653723,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 549216,
+        "num": 549216,
+        "word": "特朗普宣布国家紧急状态",
+        "onboard_time": 1743636020,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 525053,
+        "num": 525053,
+        "word": "金价冲向1000元",
+        "onboard_time": 1743645380,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 482007,
+        "num": 482007,
+        "word": "孟子坤前女友公布聊天记录",
+        "onboard_time": 1743654444,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481111,
+        "num": 481111,
+        "word": "美国经济陷入衰退概率升至40%",
+        "onboard_time": 1743654923,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 424774,
+        "num": 479848,
+        "word": "哪吒2超155亿了",
+        "onboard_time": 1743656662,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1795716,
+        "num": 475335,
+        "word": "门童台湾",
+        "onboard_time": 1743656542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1261017,
+        "num": 470478,
+        "word": "刘维伟出轨",
+        "onboard_time": 1743650963,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 844525,
+        "num": 466873,
+        "word": "金子涵微博已全部清空",
+        "onboard_time": 1743647601,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767044,
+        "num": 463813,
+        "word": "赵天宇官宣恋情",
+        "onboard_time": 1743651202,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510850,
+        "num": 461124,
+        "word": "白敬亭申请强制执行致歉义务",
+        "onboard_time": 1743649941,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509703,
+        "num": 459021,
+        "word": "刘维伟 辛莎莎",
+        "onboard_time": 1743653841,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455512,
+        "num": 455512,
+        "word": "杨鸣",
+        "onboard_time": 1743655823,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439200,
+        "num": 439200,
+        "word": "李现手持7斤镜头拍稳每一只鸟",
+        "onboard_time": 1743656783,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437751,
+        "num": 437751,
+        "word": "特朗普竟对中国征收34%对等关税",
+        "onboard_time": 1743648801,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96908,
+        "num": 430111,
+        "word": "哪吒联名一出我就管不住我的手",
+        "onboard_time": 1743655643,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428522,
+        "num": 428522,
+        "word": "孟子坤 家暴",
+        "onboard_time": 1743606385,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352164,
+        "num": 352164,
+        "word": "扶弟魔背后有个吸姐鬼",
+        "onboard_time": 1743652943,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340746,
+        "num": 340746,
+        "word": "我知道祝绪丹跳舞像谁了",
+        "onboard_time": 1743654923,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332086,
+        "num": 332086,
+        "word": "温如也向周雨彤道歉",
+        "onboard_time": 1743652283,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326141,
+        "num": 326141,
+        "word": "我国抓获3名菲律宾间谍",
+        "onboard_time": 1743649822,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12829,
+        "num": 320535,
+        "word": "顾客拔火罐被烧伤店家说无理取闹",
+        "onboard_time": 1743658583,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316994,
+        "num": 316994,
+        "word": "托运的行李箱多出条丝袜获赔4500元",
+        "onboard_time": 1743654022,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297623,
+        "num": 297623,
+        "word": "原来凤凰传奇只有一个人会骑马",
+        "onboard_time": 1743657262,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279805,
+        "num": 279805,
+        "word": "淮水竹亭",
+        "onboard_time": 1743656362,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26693,
+        "num": 249868,
+        "word": "美国对等关税损人不利己",
+        "onboard_time": 1743657982,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247344,
+        "num": 247344,
+        "word": "孟子坤回应",
+        "onboard_time": 1743635659,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240107,
+        "num": 240107,
+        "word": "多人在健身房组织卖淫最高判5年半",
+        "onboard_time": 1743647601,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100653,
+        "num": 215859,
+        "word": "孙俪胡曼黎莞莞类卿具像化",
+        "onboard_time": 1743658703,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205283,
+        "num": 205283,
+        "word": "肖战说张艺兴不说话的爱值得被更多人看见",
+        "onboard_time": 1743658463,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187684,
+        "num": 187684,
+        "word": "特朗普不停加关税目的是啥",
+        "onboard_time": 1743651442,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186295,
+        "num": 186295,
+        "word": "有效存钱15年竟然能多赚60万",
+        "onboard_time": 1743650662,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170200,
+        "num": 170200,
+        "word": "张本美和心中孙颖莎三项最佳",
+        "onboard_time": 1743655884,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166162,
+        "num": 166162,
+        "word": "哈尔滨亚冬会遭境外攻击27万次",
+        "onboard_time": 1743645141,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158165,
+        "num": 158165,
+        "word": "中医建议多和喜欢的人散步",
+        "onboard_time": 1743654742,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156127,
+        "num": 156127,
+        "word": "姚晨贾静雯也没逃过李羲承进行曲",
+        "onboard_time": 1743657442,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151635,
+        "num": 151635,
+        "word": "朝雪录",
+        "onboard_time": 1743652823,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148425,
+        "num": 148425,
+        "word": "晒一个月忘收的衣服被小鸟下蛋了",
+        "onboard_time": 1743657923,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140452,
+        "num": 140452,
+        "word": "骄阳似我领衔主演宋威龙赵今麦",
+        "onboard_time": 1743657684,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138623,
+        "num": 138623,
+        "word": "台湾台南4.2级地震",
+        "onboard_time": 1743654143,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 136250,
+        "num": 136250,
+        "word": "老人上坟引发山火烧死66只羊无钱赔",
+        "onboard_time": 1743645141,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134158,
+        "num": 134158,
+        "word": "赵露思综艺播出时间调整",
+        "onboard_time": 1743658583,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130702,
+        "num": 130702,
+        "word": "淮水竹亭看似4个人实到10个人",
+        "onboard_time": 1743658763,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130259,
+        "num": 130259,
+        "word": "特朗普宣布实施所谓对等关税",
+        "onboard_time": 1743635298,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127104,
+        "num": 127104,
+        "word": "郑钦文为低排名球员发声",
+        "onboard_time": 1743656963,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126810,
+        "num": 126810,
+        "word": "杭州的天才房东",
+        "onboard_time": 1743652222,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记缅怀英烈#"
+    }
+  }
+}

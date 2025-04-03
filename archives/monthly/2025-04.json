@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743657840970,
+  "endTime": 1743658844187,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -201,6 +201,14 @@
       "onboard_time": 1743506123,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1795716,
+      "num": 475335,
+      "word": "门童台湾",
+      "onboard_time": 1743656542,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1780438,
@@ -627,12 +635,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 967276,
-      "num": 442462,
-      "word": "门童台湾",
-      "onboard_time": 1743656542,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 969690,
+      "num": 969690,
+      "word": "甜馨时隔十年再发新曲",
+      "onboard_time": 1743658042,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 943778,
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 639986,
-      "num": 439532,
+      "num": 459021,
       "word": "刘维伟 辛莎莎",
       "onboard_time": 1743653841,
       "rank": 19,
@@ -1403,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 482007,
+      "num": 482007,
+      "word": "孟子坤前女友公布聊天记录",
+      "onboard_time": 1743654444,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481520,
       "num": 321066,
       "word": "别家站姐拍的赵露思",
@@ -1467,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 455512,
+      "num": 455512,
+      "word": "杨鸣",
+      "onboard_time": 1743655823,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451597,
       "num": 351226,
       "word": "听潮阁徐来 结婚",
@@ -1481,14 +1505,6 @@
       "onboard_time": 1743506244,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 445328,
-      "num": 445328,
-      "word": "孟子坤前女友公布聊天记录",
-      "onboard_time": 1743654444,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 442599,
@@ -1515,6 +1531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 439200,
+      "num": 439200,
+      "word": "李现手持7斤镜头拍稳每一只鸟",
+      "onboard_time": 1743656783,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437223,
       "num": 437223,
       "word": "广东省考成绩",
@@ -1523,20 +1547,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 436002,
-      "num": 436002,
-      "word": "杨鸣",
-      "onboard_time": 1743655823,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 435494,
       "num": 329535,
       "word": "王艳发了赤脚鬼",
       "onboard_time": 1743431003,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 424774,
+      "num": 479848,
+      "word": "哪吒2超155亿了",
+      "onboard_time": 1743656662,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 415777,
@@ -2267,20 +2291,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 300931,
-      "num": 432603,
-      "word": "哪吒2超155亿了",
-      "onboard_time": 1743656662,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 298045,
       "num": 253955,
       "word": "马丽拿刘耀文当亲儿子",
       "onboard_time": 1743513383,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297623,
+      "num": 297623,
+      "word": "原来凤凰传奇只有一个人会骑马",
+      "onboard_time": 1743657262,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 297104,
@@ -2561,14 +2585,6 @@
       "onboard_time": 1743584662,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 266148,
-      "num": 436900,
-      "word": "李现手持7斤镜头拍稳每一只鸟",
-      "onboard_time": 1743656783,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 265533,
@@ -3339,6 +3355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205283,
+      "num": 205283,
+      "word": "肖战说张艺兴不说话的爱值得被更多人看见",
+      "onboard_time": 1743658463,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204497,
       "num": 274406,
       "word": "Switch2",
@@ -3841,14 +3865,6 @@
       "onboard_time": 1743570682,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189491,
-      "num": 189491,
-      "word": "原来凤凰传奇只有一个人会骑马",
-      "onboard_time": 1743657262,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 189357,
@@ -5027,6 +5043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148425,
+      "num": 148425,
+      "word": "晒一个月忘收的衣服被小鸟下蛋了",
+      "onboard_time": 1743657923,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148326,
       "num": 180712,
       "word": "山东舰出扼台东",
@@ -5323,6 +5347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140452,
+      "num": 140452,
+      "word": "骄阳似我领衔主演宋威龙赵今麦",
+      "onboard_time": 1743657684,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140249,
       "num": 140249,
       "word": "鸿蒙智行报警",
@@ -5547,6 +5579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134158,
+      "num": 134158,
+      "word": "赵露思综艺播出时间调整",
+      "onboard_time": 1743658583,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134062,
       "num": 134062,
       "word": "东部战区位台岛周边联演",
@@ -5659,6 +5699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130702,
+      "num": 130702,
+      "word": "淮水竹亭看似4个人实到10个人",
+      "onboard_time": 1743658763,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130696,
       "num": 130696,
       "word": "长大才明白庄心妍歌词的意义",
@@ -5755,6 +5803,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 127104,
+      "num": 438172,
+      "word": "郑钦文为低排名球员发声",
+      "onboard_time": 1743656963,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127055,
       "num": 127055,
       "word": "大家好我是徐俊大",
@@ -5817,14 +5873,6 @@
       "onboard_time": 1743509542,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125214,
-      "num": 125214,
-      "word": "骄阳似我领衔主演宋威龙赵今麦",
-      "onboard_time": 1743657684,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 125212,
@@ -6467,6 +6515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100653,
+      "num": 215859,
+      "word": "孙俪胡曼黎莞莞类卿具像化",
+      "onboard_time": 1743658703,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100625,
       "num": 100625,
       "word": "金价",
@@ -6481,14 +6537,6 @@
       "onboard_time": 1743434602,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99846,
-      "num": 438172,
-      "word": "郑钦文为低排名球员发声",
-      "onboard_time": 1743656963,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 99572,
@@ -6716,7 +6764,7 @@
     },
     {
       "raw_hot": 85791,
-      "num": 986642,
+      "num": 998050,
       "word": "一组图教你怎么把花拍好看",
       "onboard_time": 1743654323,
       "rank": 2,
@@ -7995,6 +8043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26693,
+      "num": 249868,
+      "word": "美国对等关税损人不利己",
+      "onboard_time": 1743657982,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26278,
       "num": 62556,
       "word": "正告台独势力",
@@ -8344,6 +8400,14 @@
       "word": "算法向上向善",
       "onboard_time": 1743315921,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12829,
+      "num": 320535,
+      "word": "顾客拔火罐被烧伤店家说无理取闹",
+      "onboard_time": 1743658583,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
