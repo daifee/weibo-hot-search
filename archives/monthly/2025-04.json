@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743705983189,
+  "endTime": 1743708022110,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -8979,6 +8979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62114,
+      "num": 62943,
+      "word": "一人一句缅怀先烈",
+      "onboard_time": 1743702797,
+      "rank": 48,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 62024,
       "num": 134315,
       "word": "雁回时反转",
@@ -9041,14 +9049,6 @@
       "onboard_time": 1743668782,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 58999,
-      "num": 62943,
-      "word": "一人一句缅怀先烈",
-      "onboard_time": 1743702797,
-      "rank": 48,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 58877,
@@ -9276,7 +9276,7 @@
     },
     {
       "raw_hot": 50313,
-      "num": 42919,
+      "num": 43769,
       "word": "U17亚洲杯",
       "onboard_time": 1743705855,
       "rank": 22,
@@ -9835,6 +9835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30692,
+      "num": 28501,
+      "word": "又喜欢熬夜又喜欢睡觉",
+      "onboard_time": 1743705374,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30575,
       "num": 411276,
       "word": "伪造5000份报告非法获利65万获刑",
@@ -9945,14 +9953,6 @@
       "onboard_time": 1743608483,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28057,
-      "num": 28057,
-      "word": "又喜欢熬夜又喜欢睡觉",
-      "onboard_time": 1743705374,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 28014,
@@ -10169,6 +10169,14 @@
       "onboard_time": 1743571763,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20676,
+      "num": 20676,
+      "word": "唐嫣哄娃",
+      "onboard_time": 1743706395,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 20673,
