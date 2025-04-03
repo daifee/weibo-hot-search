@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743677025462,
+  "endTime": 1743679371038,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1108,11 +1108,19 @@
     },
     {
       "raw_hot": 615841,
-      "num": 217069,
+      "num": 251499,
       "word": "德国女孩被印度免费导游设局强奸",
       "onboard_time": 1743674662,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 614393,
+      "num": 614393,
+      "word": "金店员工称黄金一天一个价看傻了",
+      "onboard_time": 1743673881,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 613907,
@@ -1643,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 466289,
+      "num": 466289,
+      "word": "TVB男演员陈键锋学厨以第一名毕业",
+      "onboard_time": 1743678080,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 462244,
       "num": 462244,
       "word": "对等关税",
@@ -1673,6 +1689,14 @@
       "onboard_time": 1743607762,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 458330,
+      "num": 324230,
+      "word": "鞠婧祎小号安慰粉丝",
+      "onboard_time": 1743675864,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 451597,
@@ -1731,14 +1755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 432841,
-      "num": 432841,
-      "word": "金店员工称黄金一天一个价看傻了",
-      "onboard_time": 1743673881,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 424774,
       "num": 479848,
       "word": "哪吒2超155亿了",
@@ -1785,6 +1801,14 @@
       "onboard_time": 1743571462,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 411744,
+      "num": 411744,
+      "word": "iPhone17Pro最强长焦",
+      "onboard_time": 1743674782,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 408111,
@@ -2083,6 +2107,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 354641,
+      "num": 354641,
+      "word": "陈都灵 妈妈的保镖来啦",
+      "onboard_time": 1743674242,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353098,
       "num": 353098,
       "word": "无限超越班再现墨雨云间",
@@ -2217,6 +2249,14 @@
       "onboard_time": 1743476661,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334173,
+      "num": 334173,
+      "word": "周深亮相外交部双语宣传短片",
+      "onboard_time": 1743678380,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 333558,
@@ -2475,6 +2515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 305913,
+      "num": 236376,
+      "word": "给老婆保管工资离婚后要索回全部",
+      "onboard_time": 1743675020,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305320,
       "num": 305320,
       "word": "光夜王者强强联合",
@@ -2512,14 +2560,6 @@
       "word": "抗癌网红宝炫是冠军去世",
       "onboard_time": 1743504862,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299000,
-      "num": 200176,
-      "word": "给老婆保管工资离婚后要索回全部",
-      "onboard_time": 1743675020,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -2603,14 +2643,6 @@
       "category": "互联网,艺人"
     },
     {
-      "raw_hot": 293672,
-      "num": 293672,
-      "word": "陈都灵 妈妈的保镖来啦",
-      "onboard_time": 1743674242,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 292637,
       "num": 317409,
       "word": "解放军说只要一声令下必将消灭台独",
@@ -2649,6 +2681,22 @@
       "onboard_time": 1743592283,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 288785,
+      "num": 288785,
+      "word": "红发GISELLE",
+      "onboard_time": 1743675441,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288734,
+      "num": 288734,
+      "word": "滴滴崩了",
+      "onboard_time": 1743674182,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 288461,
@@ -2753,6 +2801,14 @@
       "onboard_time": 1743482964,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276389,
+      "num": 276389,
+      "word": "华晨宇西安城墙骑行直播",
+      "onboard_time": 1743677540,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 275659,
@@ -2939,6 +2995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257279,
+      "num": 257279,
+      "word": "清明当天不能洗头没有科学依据",
+      "onboard_time": 1743676102,
+      "rank": 28,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 257204,
       "num": 257204,
       "word": "陈卓璇说感谢小鬼推了自己一把",
@@ -2985,14 +3049,6 @@
       "onboard_time": 1743471321,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 250191,
-      "num": 250191,
-      "word": "红发GISELLE",
-      "onboard_time": 1743675441,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 249338,
@@ -3803,12 +3859,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 201464,
-      "num": 201464,
-      "word": "iPhone17Pro最强长焦",
-      "onboard_time": 1743674782,
-      "rank": 28,
-      "category": "数码"
+      "raw_hot": 201314,
+      "num": 201314,
+      "word": "夫妻吃凉拌皮蛋中毒住院6天",
+      "onboard_time": 1743677960,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200541,
@@ -4057,14 +4113,6 @@
       "onboard_time": 1743562881,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193651,
-      "num": 193651,
-      "word": "鞠婧祎小号安慰粉丝",
-      "onboard_time": 1743675864,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 193607,
@@ -4403,6 +4451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185220,
+      "num": 237802,
+      "word": "29岁叶紫薇破格晋升教授",
+      "onboard_time": 1743677421,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184671,
       "num": 269403,
       "word": "雷军代表小米承诺不会回避",
@@ -4649,14 +4705,6 @@
       "onboard_time": 1743651562,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 177424,
-      "num": 165337,
-      "word": "滴滴崩了",
-      "onboard_time": 1743674182,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 176710,
@@ -4955,6 +5003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167752,
+      "num": 167752,
+      "word": "金智媛唱跳我们家",
+      "onboard_time": 1743676221,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167557,
       "num": 167557,
       "word": "为什么此时发起联合演训",
@@ -4969,6 +5025,14 @@
       "onboard_time": 1743672023,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166793,
+      "num": 166793,
+      "word": "艰难的制造下证",
+      "onboard_time": 1743678862,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 165916,
@@ -5235,6 +5299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156795,
+      "num": 156795,
+      "word": "十二年前的陈都灵",
+      "onboard_time": 1743678981,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156411,
       "num": 183230,
       "word": "张艺兴的手语练成肌肉记忆了",
@@ -5273,14 +5345,6 @@
       "onboard_time": 1743581003,
       "rank": 19,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 155688,
-      "num": 155688,
-      "word": "金智媛唱跳我们家",
-      "onboard_time": 1743676221,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 155004,
@@ -5393,6 +5457,14 @@
       "onboard_time": 1743482785,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 152464,
+      "num": 152464,
+      "word": "八点后的盒马 穷鬼天堂",
+      "onboard_time": 1743678981,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 152453,
@@ -5763,6 +5835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143855,
+      "num": 143855,
+      "word": "张本智和vs林昀儒",
+      "onboard_time": 1743678922,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143833,
       "num": 156342,
       "word": "吴宣仪今天当倪虹洁站姐",
@@ -5833,6 +5913,14 @@
       "onboard_time": 1743604526,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143054,
+      "num": 143054,
+      "word": "越南面临美方46%高额关税",
+      "onboard_time": 1743677960,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142822,
@@ -6899,6 +6987,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116045,
+      "num": 116045,
+      "word": "纯净水汤底22元",
+      "onboard_time": 1743678262,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 116017,
+      "num": 116017,
+      "word": "ADOR仍向NewJeans支付结算金",
+      "onboard_time": 1743677181,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115245,
       "num": 399181,
       "word": "好友称王玉雯单身",
@@ -6945,6 +7049,14 @@
       "onboard_time": 1743516624,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113775,
+      "num": 113775,
+      "word": "折腰",
+      "onboard_time": 1743679281,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 113739,
@@ -7059,6 +7171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109919,
+      "num": 109919,
+      "word": "他们说我画的是卫生巾",
+      "onboard_time": 1743676701,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109194,
       "num": 273160,
       "word": "棋士反套路",
@@ -7089,6 +7209,14 @@
       "onboard_time": 1743519505,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 108349,
+      "num": 108349,
+      "word": "KPL春季赛第三轮赛程公布",
+      "onboard_time": 1743677960,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 107577,
@@ -7275,6 +7403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98997,
+      "num": 98997,
+      "word": "终于明白了什么是无痛上班",
+      "onboard_time": 1743678201,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98929,
       "num": 196489,
       "word": "尹锡悦核心亲信被调查期间身亡",
@@ -7289,6 +7425,14 @@
       "onboard_time": 1743413604,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98889,
+      "num": 98889,
+      "word": "不可能存在方的鸡",
+      "onboard_time": 1743678801,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 98806,
@@ -7979,14 +8123,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 63686,
-      "num": 146868,
-      "word": "清明当天不能洗头没有科学依据",
-      "onboard_time": 1743676102,
-      "rank": 28,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 63063,
       "num": 139696,
       "word": "东部战区参演兵力全向出动",
@@ -8041,6 +8177,14 @@
       "onboard_time": 1743423443,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61474,
+      "num": 114484,
+      "word": "模型测算台湾被封锁能撑多久",
+      "onboard_time": 1743678022,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 60420,
@@ -9035,6 +9179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23213,
+      "num": 213834,
+      "word": "816个大学专业到底该选哪个",
+      "onboard_time": 1743678561,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 22589,
       "num": 26531,
       "word": "张极骑车去天津vlog",
@@ -9193,6 +9345,14 @@
       "onboard_time": 1743672801,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16915,
+      "num": 167245,
+      "word": "业内称宠物殡葬师证书多是中介割韭菜",
+      "onboard_time": 1743677662,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16377,
