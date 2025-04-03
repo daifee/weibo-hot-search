@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743694785300,
+  "endTime": 1743697804546,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2259616,
-      "num": 972500,
+      "num": 1569796,
       "word": "重庆一交通事故致6死1伤",
       "onboard_time": 1743690562,
       "rank": 19,
@@ -712,6 +712,14 @@
       "word": "孟子坤回应",
       "onboard_time": 1743635659,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 985868,
+      "num": 494335,
+      "word": "孙俪工作室回复邓超",
+      "onboard_time": 1743692422,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1369,14 +1377,6 @@
       "onboard_time": 1743652943,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 576088,
-      "num": 494335,
-      "word": "孙俪工作室回复邓超",
-      "onboard_time": 1743692422,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 575286,
@@ -3011,6 +3011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284464,
+      "num": 272172,
+      "word": "玫瑰公主孟子义",
+      "onboard_time": 1743692782,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282801,
       "num": 282801,
       "word": "亲人去世后微信号找不回",
@@ -3123,6 +3131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273317,
+      "num": 273317,
+      "word": "黄继光牺牲后母亲立下了一条家规",
+      "onboard_time": 1743691583,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 271960,
       "num": 271960,
       "word": "公摊面积最大的蔬菜",
@@ -3201,14 +3217,6 @@
       "onboard_time": 1743584662,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 265870,
-      "num": 265870,
-      "word": "玫瑰公主孟子义",
-      "onboard_time": 1743692782,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 265533,
@@ -3411,6 +3419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241178,
+      "num": 241178,
+      "word": "订婚强奸案被告母亲请求追责办案人",
+      "onboard_time": 1743694161,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240994,
       "num": 240994,
       "word": "何济霆",
@@ -3489,6 +3505,14 @@
       "onboard_time": 1743506064,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 236855,
+      "num": 236855,
+      "word": "华晨宇 郑楠编曲",
+      "onboard_time": 1743694641,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 236768,
@@ -3673,14 +3697,6 @@
       "onboard_time": 1743493342,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223744,
-      "num": 223744,
-      "word": "黄继光牺牲后母亲立下了一条家规",
-      "onboard_time": 1743691583,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 223014,
@@ -5755,14 +5771,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 158175,
-      "num": 158175,
-      "word": "订婚强奸案被告母亲请求追责办案人",
-      "onboard_time": 1743694161,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157571,
       "num": 157571,
       "word": "唐嫣说一日为师终身为师",
@@ -6448,6 +6456,14 @@
       "word": "一个小绵羊可以集齐男人帮",
       "onboard_time": 1743648083,
       "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 142555,
+      "num": 142555,
+      "word": "电影热烈重映开了个party",
+      "onboard_time": 1743696622,
+      "rank": 24,
       "category": "电影"
     },
     {
@@ -7643,6 +7659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 114182,
+      "num": 114182,
+      "word": "同济医学院称每年都出不录取名单",
+      "onboard_time": 1743695122,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114130,
       "num": 685103,
       "word": "月球上有35个以中国元素命名的地名",
@@ -7835,6 +7859,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 108532,
+      "num": 108532,
+      "word": "小婉训狗",
+      "onboard_time": 1743695900,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108349,
       "num": 108349,
       "word": "KPL春季赛第三轮赛程公布",
@@ -7945,14 +7977,6 @@
       "onboard_time": 1743496284,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104064,
-      "num": 104064,
-      "word": "华晨宇 郑楠编曲",
-      "onboard_time": 1743694641,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 102577,
@@ -8163,6 +8187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93851,
+      "num": 149642,
+      "word": "冰壶",
+      "onboard_time": 1743563602,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93334,
       "num": 134447,
       "word": "宇露君沾",
@@ -8353,6 +8385,14 @@
       "onboard_time": 1743654323,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85543,
+      "num": 85543,
+      "word": "直播弹幕暗藏神秘交易信息",
+      "onboard_time": 1743696741,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 85396,
@@ -8595,6 +8635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72356,
+      "num": 72356,
+      "word": "缅甸地震已致4名中国人遇难",
+      "onboard_time": 1743696021,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72222,
       "num": 282735,
       "word": "OPPO聚齐手机影像全壁江山",
@@ -8697,6 +8745,14 @@
       "onboard_time": 1743498984,
       "rank": 13,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 68847,
+      "num": 68847,
+      "word": "宁夏一退役老兵佩戴军功章祭奠战友",
+      "onboard_time": 1743697701,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67757,
@@ -9017,14 +9073,6 @@
       "onboard_time": 1743522202,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 55243,
-      "num": 149642,
-      "word": "冰壶",
-      "onboard_time": 1743563602,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 55240,
@@ -9497,6 +9545,14 @@
       "onboard_time": 1743568224,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36982,
+      "num": 272280,
+      "word": "美国吹灭别人的灯自己不会更光明",
+      "onboard_time": 1743697221,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36792,
