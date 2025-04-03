@@ -1,0 +1,410 @@
+{
+  "runTime": 1743690233414,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 46121,
+        "num": 1007379,
+        "word": "哈尔滨亚冬会遭17万次来自美国网攻",
+        "onboard_time": 1743644780,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1158733,
+        "num": 941803,
+        "word": "家长建议取消学校义工站岗",
+        "onboard_time": 1743682702,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69300,
+        "num": 886943,
+        "word": "清明美食图鉴上新了",
+        "onboard_time": 1743688282,
+        "rank": 2,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 875183,
+        "num": 875183,
+        "word": "邓超gogogo出发喽",
+        "onboard_time": 1743683662,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 749968,
+        "num": 749968,
+        "word": "热烈重映 宋祖儿戏份",
+        "onboard_time": 1743685343,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 737475,
+        "num": 737475,
+        "word": "鸡柳年糕薯条",
+        "onboard_time": 1743686003,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 628862,
+        "num": 628862,
+        "word": "千万网红刀小刀被查",
+        "onboard_time": 1743674721,
+        "rank": 6,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 477399,
+        "num": 477399,
+        "word": "中方已向日方严正交涉",
+        "onboard_time": 1743682702,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 423596,
+        "num": 423596,
+        "word": "SM新男团",
+        "onboard_time": 1743686962,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369317,
+        "num": 369317,
+        "word": "吴艳妮气血很足的美",
+        "onboard_time": 1743684082,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 528602,
+        "num": 361386,
+        "word": "关税",
+        "onboard_time": 1743688101,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 505608,
+        "num": 347376,
+        "word": "蔡徐坤 龙港",
+        "onboard_time": 1743687864,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321212,
+        "num": 321212,
+        "word": "Uzi妻子宣布胜诉",
+        "onboard_time": 1743687864,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 317562,
+        "num": 317562,
+        "word": "冬去春来 杨洋章若楠",
+        "onboard_time": 1743687202,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36479,
+        "num": 316582,
+        "word": "女子用1角5角硬币支付租房纠纷执行款",
+        "onboard_time": 1743689303,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316182,
+        "num": 316182,
+        "word": "jayjay呢",
+        "onboard_time": 1743686783,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300776,
+        "num": 300776,
+        "word": "甲亢哥让外国人疯狂种草中国",
+        "onboard_time": 1743681081,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 292442,
+        "num": 292442,
+        "word": "周深亮相外交部双语宣传短片",
+        "onboard_time": 1743678380,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282801,
+        "num": 282801,
+        "word": "亲人去世后微信号找不回",
+        "onboard_time": 1743685942,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270765,
+        "num": 270765,
+        "word": "看得出孙俪很想给邓超一枪",
+        "onboard_time": 1743687503,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375885,
+        "num": 266546,
+        "word": "德国女孩被印度免费导游设局强奸",
+        "onboard_time": 1743674662,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 275537,
+        "num": 261299,
+        "word": "养了10年的狗跳起来咬向主人喉咙",
+        "onboard_time": 1743684022,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246352,
+        "num": 246352,
+        "word": "CT查出骨折急诊医生说没骨折",
+        "onboard_time": 1743679822,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226387,
+        "num": 226387,
+        "word": "倪妮瑞士被偶遇",
+        "onboard_time": 1743689242,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213778,
+        "num": 213778,
+        "word": "谷爱凌晒与张若昀合照",
+        "onboard_time": 1743688883,
+        "rank": 24,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 205117,
+        "num": 205117,
+        "word": "何秋亊直播",
+        "onboard_time": 1743689123,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192169,
+        "num": 192169,
+        "word": "值得爱",
+        "onboard_time": 1743689363,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185142,
+        "num": 185142,
+        "word": "iPhone17Pro最强长焦",
+        "onboard_time": 1743674782,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185024,
+        "num": 185024,
+        "word": "给老婆保管工资离婚后要索回全部",
+        "onboard_time": 1743675020,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15527,
+        "num": 179894,
+        "word": "学白事前途如何",
+        "onboard_time": 1743689843,
+        "rank": 29,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 176103,
+        "num": 176103,
+        "word": "鞠婧祎小号安慰粉丝",
+        "onboard_time": 1743675864,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169516,
+        "num": 169516,
+        "word": "美股",
+        "onboard_time": 1743690022,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151149,
+        "num": 151149,
+        "word": "莫雷加德大赞王楚钦",
+        "onboard_time": 1743688282,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150470,
+        "num": 150470,
+        "word": "清明节其实融合了三个节",
+        "onboard_time": 1743663381,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148471,
+        "num": 148471,
+        "word": "张远成都演唱会嘉宾是王心凌",
+        "onboard_time": 1743687864,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140369,
+        "num": 140369,
+        "word": "刘学义新剧痛失编制",
+        "onboard_time": 1743689783,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136656,
+        "num": 136656,
+        "word": "十二年前的陈都灵",
+        "onboard_time": 1743678981,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131733,
+        "num": 131733,
+        "word": "TVB男演员陈键锋学厨以第一名毕业",
+        "onboard_time": 1743678080,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130785,
+        "num": 130785,
+        "word": "乔兮 一诺",
+        "onboard_time": 1743686483,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129176,
+        "num": 129176,
+        "word": "金店员工称黄金一天一个价看傻了",
+        "onboard_time": 1743673881,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128360,
+        "num": 128360,
+        "word": "杭州南站附近接触网故障",
+        "onboard_time": 1743683962,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127774,
+        "num": 127774,
+        "word": "棋士反转",
+        "onboard_time": 1743683962,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125627,
+        "num": 125627,
+        "word": "国产AI称金秀贤痛哭大概率是表演",
+        "onboard_time": 1743685886,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123566,
+        "num": 123566,
+        "word": "苹果公司市值蒸发2550亿美元",
+        "onboard_time": 1743689483,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123010,
+        "num": 123010,
+        "word": "夫妻吃凉拌皮蛋中毒住院6天",
+        "onboard_time": 1743677960,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115214,
+        "num": 115214,
+        "word": "甜馨否认签约乐华",
+        "onboard_time": 1743670042,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110644,
+        "num": 110644,
+        "word": "快速分辨春天的花花花花花",
+        "onboard_time": 1743688642,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102543,
+        "num": 102543,
+        "word": "九尾要喷Cat",
+        "onboard_time": 1743684022,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96046,
+        "num": 96046,
+        "word": "曝金秀贤公司后续或将裁员",
+        "onboard_time": 1743681862,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95487,
+        "num": 95487,
+        "word": "江泽民故居面向社会公众开放",
+        "onboard_time": 1743672564,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

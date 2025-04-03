@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743687860421,
+  "endTime": 1743690233414,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 1121691,
-      "num": 815303,
+      "num": 875183,
       "word": "邓超gogogo出发喽",
       "onboard_time": 1743683662,
       "rank": 21,
@@ -995,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 749968,
+      "num": 749968,
+      "word": "热烈重映 宋祖儿戏份",
+      "onboard_time": 1743685343,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 741691,
       "num": 741691,
       "word": "张家界邀请苦尽柑来遇见你剧组",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1743602544,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 737475,
+      "num": 737475,
+      "word": "鸡柳年糕薯条",
+      "onboard_time": 1743686003,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 726197,
@@ -1105,14 +1121,6 @@
       "onboard_time": 1743467783,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 659198,
-      "num": 632981,
-      "word": "热烈重映 宋祖儿戏份",
-      "onboard_time": 1743685343,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 652080,
@@ -1467,6 +1475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 528602,
+      "num": 504166,
+      "word": "关税",
+      "onboard_time": 1743555923,
+      "rank": 4,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 528411,
       "num": 528411,
       "word": "iPhone17Pro最强长焦",
@@ -1571,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 505608,
+      "num": 347376,
+      "word": "蔡徐坤 龙港",
+      "onboard_time": 1743687864,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 505473,
       "num": 357935,
       "word": "鹿晗站姐发了双杨cp",
@@ -1585,14 +1609,6 @@
       "onboard_time": 1743635298,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 504166,
-      "num": 504166,
-      "word": "关税",
-      "onboard_time": 1743555923,
-      "rank": 4,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 498494,
@@ -1865,6 +1881,14 @@
       "onboard_time": 1743656662,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 423596,
+      "num": 423596,
+      "word": "SM新男团",
+      "onboard_time": 1743686962,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 415777,
@@ -2155,8 +2179,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 369317,
+      "num": 369317,
+      "word": "吴艳妮气血很足的美",
+      "onboard_time": 1743684082,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366843,
-      "num": 256590,
+      "num": 261299,
       "word": "养了10年的狗跳起来咬向主人喉咙",
       "onboard_time": 1743684022,
       "rank": 33,
@@ -2491,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321212,
+      "num": 321212,
+      "word": "Uzi妻子宣布胜诉",
+      "onboard_time": 1743687864,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 319039,
       "num": 319039,
       "word": "滴滴崩了",
@@ -2513,6 +2553,22 @@
       "onboard_time": 1743579563,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 317562,
+      "num": 317562,
+      "word": "冬去春来 杨洋章若楠",
+      "onboard_time": 1743687202,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 316182,
+      "num": 316182,
+      "word": "jayjay呢",
+      "onboard_time": 1743686783,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 315684,
@@ -2683,6 +2739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300776,
+      "num": 300776,
+      "word": "甲亢哥让外国人疯狂种草中国",
+      "onboard_time": 1743681081,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 298045,
       "num": 253955,
       "word": "马丽拿刘耀文当亲儿子",
@@ -2851,6 +2915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282801,
+      "num": 282801,
+      "word": "亲人去世后微信号找不回",
+      "onboard_time": 1743685942,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282640,
       "num": 214879,
       "word": "健身房偶遇吴谨言",
@@ -2897,14 +2969,6 @@
       "onboard_time": 1743499702,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 279183,
-      "num": 266520,
-      "word": "jayjay呢",
-      "onboard_time": 1743686783,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 278476,
@@ -2987,6 +3051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270765,
+      "num": 270765,
+      "word": "看得出孙俪很想给邓超一枪",
+      "onboard_time": 1743687503,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269513,
       "num": 311243,
       "word": "门童成员愚人节营业",
@@ -3035,28 +3107,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 266704,
-      "num": 266704,
-      "word": "鸡柳年糕薯条",
-      "onboard_time": 1743686003,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 265533,
       "num": 407476,
       "word": "家族有精神病史有资格做母亲吗",
       "onboard_time": 1743582623,
       "rank": 36,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 265347,
-      "num": 265347,
-      "word": "甲亢哥让外国人疯狂种草中国",
-      "onboard_time": 1743681081,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 264050,
@@ -3233,14 +3289,6 @@
       "onboard_time": 1743519505,
       "rank": 22,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 246358,
-      "num": 310460,
-      "word": "吴艳妮气血很足的美",
-      "onboard_time": 1743684082,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 243465,
@@ -3467,6 +3515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 226387,
+      "num": 226387,
+      "word": "倪妮瑞士被偶遇",
+      "onboard_time": 1743689242,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225960,
       "num": 225960,
       "word": "PH试纸碰他一下就变黑了 太碱了",
@@ -3505,14 +3561,6 @@
       "onboard_time": 1743431364,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224593,
-      "num": 224593,
-      "word": "SM新男团",
-      "onboard_time": 1743686962,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 224433,
@@ -3657,6 +3705,14 @@
       "onboard_time": 1743576863,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213778,
+      "num": 213778,
+      "word": "谷爱凌晒与张若昀合照",
+      "onboard_time": 1743688883,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 213727,
@@ -3905,6 +3961,14 @@
       "onboard_time": 1743478344,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205117,
+      "num": 205117,
+      "word": "何秋亊直播",
+      "onboard_time": 1743689123,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 204685,
@@ -4393,6 +4457,14 @@
       "onboard_time": 1743606385,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192169,
+      "num": 192169,
+      "word": "值得爱",
+      "onboard_time": 1743689363,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 192065,
@@ -5195,6 +5267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169516,
+      "num": 169516,
+      "word": "美股",
+      "onboard_time": 1743431842,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169119,
       "num": 304884,
       "word": "美国自绝于全球自由贸易之外",
@@ -5257,14 +5337,6 @@
       "onboard_time": 1743676221,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 167637,
-      "num": 239896,
-      "word": "亲人去世后微信号找不回",
-      "onboard_time": 1743685942,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167557,
@@ -5361,14 +5433,6 @@
       "onboard_time": 1743655223,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163658,
-      "num": 163658,
-      "word": "冬去春来 杨洋章若楠",
-      "onboard_time": 1743687202,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 163550,
@@ -5795,6 +5859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 151149,
+      "num": 151149,
+      "word": "莫雷加德大赞王楚钦",
+      "onboard_time": 1743688282,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151128,
       "num": 151128,
       "word": "高铁晚点",
@@ -5897,6 +5969,14 @@
       "onboard_time": 1743512363,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148471,
+      "num": 148471,
+      "word": "张远成都演唱会嘉宾是王心凌",
+      "onboard_time": 1743687864,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 148425,
@@ -6304,6 +6384,14 @@
       "word": "骄阳似我领衔主演宋威龙赵今麦",
       "onboard_time": 1743657684,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140369,
+      "num": 140369,
+      "word": "刘学义新剧痛失编制",
+      "onboard_time": 1743689783,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -6987,6 +7075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123566,
+      "num": 123566,
+      "word": "苹果公司市值蒸发2550亿美元",
+      "onboard_time": 1743689483,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123275,
       "num": 186266,
       "word": "外交部回应美国所谓对等关税",
@@ -7483,6 +7579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110644,
+      "num": 110644,
+      "word": "快速分辨春天的花花花花花",
+      "onboard_time": 1743688642,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110487,
       "num": 110487,
       "word": "缅甸地震已致3003死4515伤",
@@ -7905,14 +8009,6 @@
       "onboard_time": 1743584483,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91051,
-      "num": 91051,
-      "word": "看得出孙俪很想给邓超一枪",
-      "onboard_time": 1743687503,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 90802,
@@ -8363,6 +8459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69300,
+      "num": 886943,
+      "word": "清明美食图鉴上新了",
+      "onboard_time": 1743688282,
+      "rank": 2,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 69062,
       "num": 326817,
       "word": "钟表与奇迹香奈儿腕表",
@@ -8409,14 +8513,6 @@
       "onboard_time": 1743426743,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67018,
-      "num": 134297,
-      "word": "美股",
-      "onboard_time": 1743431842,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 66638,
@@ -9163,6 +9259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36479,
+      "num": 316582,
+      "word": "女子用1角5角硬币支付租房纠纷执行款",
+      "onboard_time": 1743689303,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36229,
       "num": 2291623,
       "word": "春天是藏在公园的诗情画意",
@@ -9801,6 +9905,14 @@
       "onboard_time": 1743527597,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15527,
+      "num": 179894,
+      "word": "学白事前途如何",
+      "onboard_time": 1743689843,
+      "rank": 29,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 15512,

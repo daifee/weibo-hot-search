@@ -1,6 +1,6 @@
 {
   "startTime": 1743611535008,
-  "endTime": 1743687860421,
+  "endTime": 1743690233414,
   "band_list": [
     {
       "raw_hot": 4382418,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1121691,
-      "num": 815303,
+      "num": 875183,
       "word": "邓超gogogo出发喽",
       "onboard_time": 1743683662,
       "rank": 21,
@@ -275,12 +275,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 749968,
+      "num": 749968,
+      "word": "热烈重映 宋祖儿戏份",
+      "onboard_time": 1743685343,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 741691,
       "num": 741691,
       "word": "张家界邀请苦尽柑来遇见你剧组",
       "onboard_time": 1743672501,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 737475,
+      "num": 737475,
+      "word": "鸡柳年糕薯条",
+      "onboard_time": 1743686003,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 726197,
@@ -321,14 +337,6 @@
       "onboard_time": 1743644780,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 659198,
-      "num": 632981,
-      "word": "热烈重映 宋祖儿戏份",
-      "onboard_time": 1743685343,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 645109,
@@ -467,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 528602,
+      "num": 361386,
+      "word": "关税",
+      "onboard_time": 1743688101,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 528411,
       "num": 528411,
       "word": "iPhone17Pro最强长焦",
@@ -513,6 +529,14 @@
       "onboard_time": 1743654923,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 505608,
+      "num": 347376,
+      "word": "蔡徐坤 龙港",
+      "onboard_time": 1743687864,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 504874,
@@ -683,6 +707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 423596,
+      "num": 423596,
+      "word": "SM新男团",
+      "onboard_time": 1743686962,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412598,
       "num": 412598,
       "word": "白宫回应马斯克辞职",
@@ -803,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369317,
+      "num": 369317,
+      "word": "吴艳妮气血很足的美",
+      "onboard_time": 1743684082,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 367394,
       "num": 217828,
       "word": "曝孟子坤出轨",
@@ -812,7 +852,7 @@
     },
     {
       "raw_hot": 366843,
-      "num": 256590,
+      "num": 261299,
       "word": "养了10年的狗跳起来咬向主人喉咙",
       "onboard_time": 1743684022,
       "rank": 33,
@@ -923,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321212,
+      "num": 321212,
+      "word": "Uzi妻子宣布胜诉",
+      "onboard_time": 1743687864,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 319039,
       "num": 319039,
       "word": "滴滴崩了",
@@ -944,6 +992,22 @@
       "word": "IU向雪莉金赛纶推荐同一心理医生",
       "onboard_time": 1743599783,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 317562,
+      "num": 317562,
+      "word": "冬去春来 杨洋章若楠",
+      "onboard_time": 1743687202,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 316182,
+      "num": 316182,
+      "word": "jayjay呢",
+      "onboard_time": 1743686783,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1003,6 +1067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300776,
+      "num": 300776,
+      "word": "甲亢哥让外国人疯狂种草中国",
+      "onboard_time": 1743681081,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 297623,
       "num": 297623,
       "word": "原来凤凰传奇只有一个人会骑马",
@@ -1051,20 +1123,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 282801,
+      "num": 282801,
+      "word": "亲人去世后微信号找不回",
+      "onboard_time": 1743685942,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280354,
       "num": 280354,
       "word": "微信引用回复功能更新",
       "onboard_time": 1743659181,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 279183,
-      "num": 266520,
-      "word": "jayjay呢",
-      "onboard_time": 1743686783,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 277007,
@@ -1091,20 +1163,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 266704,
-      "num": 266704,
-      "word": "鸡柳年糕薯条",
-      "onboard_time": 1743686003,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 265347,
-      "num": 265347,
-      "word": "甲亢哥让外国人疯狂种草中国",
-      "onboard_time": 1743681081,
-      "rank": 32,
-      "category": "网红"
+      "raw_hot": 270765,
+      "num": 270765,
+      "word": "看得出孙俪很想给邓超一枪",
+      "onboard_time": 1743687503,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 258693,
@@ -1139,14 +1203,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 246358,
-      "num": 310460,
-      "word": "吴艳妮气血很足的美",
-      "onboard_time": 1743684082,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 236729,
       "num": 253331,
       "word": "马龙与马伊琍同框飙戏",
@@ -1179,11 +1235,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 224593,
-      "num": 224593,
-      "word": "SM新男团",
-      "onboard_time": 1743686962,
-      "rank": 33,
+      "raw_hot": 226387,
+      "num": 226387,
+      "word": "倪妮瑞士被偶遇",
+      "onboard_time": 1743689242,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1217,6 +1273,14 @@
       "onboard_time": 1743678981,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213778,
+      "num": 213778,
+      "word": "谷爱凌晒与张若昀合照",
+      "onboard_time": 1743688883,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 213727,
@@ -1264,6 +1328,14 @@
       "word": "西村力 金发",
       "onboard_time": 1743654385,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205117,
+      "num": 205117,
+      "word": "何秋亊直播",
+      "onboard_time": 1743689123,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -1345,6 +1417,14 @@
       "onboard_time": 1743650482,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192169,
+      "num": 192169,
+      "word": "值得爱",
+      "onboard_time": 1743689363,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 192065,
@@ -1547,6 +1627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169516,
+      "num": 169516,
+      "word": "美股",
+      "onboard_time": 1743636741,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169119,
       "num": 304884,
       "word": "美国自绝于全球自由贸易之外",
@@ -1579,14 +1667,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 167637,
-      "num": 239896,
-      "word": "亲人去世后微信号找不回",
-      "onboard_time": 1743685942,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166942,
       "num": 280534,
       "word": "当地回应拟取消老年人免费公交",
@@ -1617,14 +1697,6 @@
       "onboard_time": 1743655223,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163658,
-      "num": 163658,
-      "word": "冬去春来 杨洋章若楠",
-      "onboard_time": 1743687202,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 163550,
@@ -1763,6 +1835,14 @@
       "category": "辟谣/通报,汽车"
     },
     {
+      "raw_hot": 151149,
+      "num": 151149,
+      "word": "莫雷加德大赞王楚钦",
+      "onboard_time": 1743688282,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151128,
       "num": 151128,
       "word": "高铁晚点",
@@ -1793,6 +1873,14 @@
       "onboard_time": 1743653905,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148471,
+      "num": 148471,
+      "word": "张远成都演唱会嘉宾是王心凌",
+      "onboard_time": 1743687864,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 148425,
@@ -1944,6 +2032,14 @@
       "word": "骄阳似我领衔主演宋威龙赵今麦",
       "onboard_time": 1743657684,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140369,
+      "num": 140369,
+      "word": "刘学义新剧痛失编制",
+      "onboard_time": 1743689783,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -2163,6 +2259,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 123566,
+      "num": 123566,
+      "word": "苹果公司市值蒸发2550亿美元",
+      "onboard_time": 1743689483,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123275,
       "num": 186266,
       "word": "外交部回应美国所谓对等关税",
@@ -2313,6 +2417,14 @@
       "onboard_time": 1743673941,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110644,
+      "num": 110644,
+      "word": "快速分辨春天的花花花花花",
+      "onboard_time": 1743688642,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110487,
@@ -2547,14 +2659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 91051,
-      "num": 91051,
-      "word": "看得出孙俪很想给邓超一枪",
-      "onboard_time": 1743687503,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90806,
       "num": 90806,
       "word": "发现同事每天上班都很快乐的秘诀",
@@ -2707,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69300,
+      "num": 886943,
+      "word": "清明美食图鉴上新了",
+      "onboard_time": 1743688282,
+      "rank": 2,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 69062,
       "num": 326817,
       "word": "钟表与奇迹香奈儿腕表",
@@ -2721,14 +2833,6 @@
       "onboard_time": 1743602724,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67018,
-      "num": 67018,
-      "word": "美股",
-      "onboard_time": 1743636741,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 66638,
@@ -2968,6 +3072,14 @@
       "word": "高颜值孤独症男孩小岱走红背后",
       "onboard_time": 1743620954,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36479,
+      "num": 316582,
+      "word": "女子用1角5角硬币支付租房纠纷执行款",
+      "onboard_time": 1743689303,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3241,6 +3353,14 @@
       "onboard_time": 1743626415,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15527,
+      "num": 179894,
+      "word": "学白事前途如何",
+      "onboard_time": 1743689843,
+      "rank": 29,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 12829,
