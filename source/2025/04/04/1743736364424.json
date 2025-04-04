@@ -1,0 +1,410 @@
+{
+  "runTime": 1743736364424,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2168183,
+        "num": 2168183,
+        "word": "尹锡悦被罢免总统职务",
+        "onboard_time": 1743733702,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1330810,
+        "num": 1330810,
+        "word": "RedVelvet 解散",
+        "onboard_time": 1743721997,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154395,
+        "num": 968286,
+        "word": "体育比赛为何会遭到美国网攻",
+        "onboard_time": 1743730040,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722608,
+        "num": 722608,
+        "word": "尹锡悦弹劾案宣判",
+        "onboard_time": 1743733401,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 578796,
+        "num": 578796,
+        "word": "全红婵要签名照兴奋到搓手",
+        "onboard_time": 1743729441,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 845790,
+        "num": 575423,
+        "word": "张檬孕37周腹膜内剖腹产",
+        "onboard_time": 1743723439,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555507,
+        "num": 555507,
+        "word": "清明节",
+        "onboard_time": 1743722358,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547193,
+        "num": 547193,
+        "word": "手机曲面屏为什么消失了",
+        "onboard_time": 1743730040,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 484731,
+        "num": 484731,
+        "word": "特朗普因对中国征收关税被起诉",
+        "onboard_time": 1743730401,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 461873,
+        "num": 461873,
+        "word": "尹锡悦成韩国第二位被罢免总统",
+        "onboard_time": 1743734362,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 438475,
+        "num": 438475,
+        "word": "李金铭 真人秀中没有人伤害我",
+        "onboard_time": 1743723799,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322066,
+        "num": 322066,
+        "word": "疑似周周小可爱怀孕",
+        "onboard_time": 1743724699,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 302875,
+        "num": 302875,
+        "word": "YERI和Wendy离开SM",
+        "onboard_time": 1743730040,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300220,
+        "num": 300220,
+        "word": "NewJeans父母出现分歧",
+        "onboard_time": 1743735020,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288384,
+        "num": 288384,
+        "word": "孟子坤 未成年",
+        "onboard_time": 1743725179,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257266,
+        "num": 257266,
+        "word": "718斤小伙因情绪问题一顿吃25个包子",
+        "onboard_time": 1743730581,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214673,
+        "num": 214673,
+        "word": "余承东不再担任华为车BU董事长",
+        "onboard_time": 1743730040,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212381,
+        "num": 212381,
+        "word": "沈梦辰和女网红撞衫",
+        "onboard_time": 1743725301,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207458,
+        "num": 207458,
+        "word": "清明思念如青草漫过山野",
+        "onboard_time": 1743733943,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197065,
+        "num": 197065,
+        "word": "男女主写的不是情书是遗书",
+        "onboard_time": 1743735321,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136508,
+        "num": 184202,
+        "word": "韩国须在60天内大选",
+        "onboard_time": 1743734661,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231009,
+        "num": 182118,
+        "word": "原来爱有滞后性是真的",
+        "onboard_time": 1743730939,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179607,
+        "num": 179607,
+        "word": "车银优我是素人",
+        "onboard_time": 1743723859,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179470,
+        "num": 179470,
+        "word": "尹锡悦宣布紧急戒严违反戒严法",
+        "onboard_time": 1743733880,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170158,
+        "num": 170158,
+        "word": "向阳花今日公映",
+        "onboard_time": 1743734661,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68227,
+        "num": 165312,
+        "word": "历史上韩国总统们的命运",
+        "onboard_time": 1743736219,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160878,
+        "num": 160878,
+        "word": "陈星旭卢昱晓轧戏吻戏",
+        "onboard_time": 1743729142,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129783,
+        "num": 157483,
+        "word": "清明手绘壁纸",
+        "onboard_time": 1743734060,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154318,
+        "num": 154318,
+        "word": "张艺兴不说话的爱单日票房超哪吒2",
+        "onboard_time": 1743724281,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40010,
+        "num": 153255,
+        "word": "钱天一vs王艺迪",
+        "onboard_time": 1743735740,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153160,
+        "num": 153160,
+        "word": "萨摩耶把猫猫的头含进嘴里",
+        "onboard_time": 1743732261,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42885,
+        "num": 150473,
+        "word": "尹锡悦刑期或创新高",
+        "onboard_time": 1743736219,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149573,
+        "num": 149573,
+        "word": "痞幼与小袁同学约会",
+        "onboard_time": 1743730522,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141946,
+        "num": 141946,
+        "word": "74岁大爷骑车80公里找网恋女友复合",
+        "onboard_time": 1743734661,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138689,
+        "num": 138689,
+        "word": "孙俪工作室回复邓超",
+        "onboard_time": 1743692422,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135590,
+        "num": 135590,
+        "word": "原来猫猫失重的第一反应也是闭眼睛",
+        "onboard_time": 1743735020,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40002,
+        "num": 128766,
+        "word": "踏青寻春色",
+        "onboard_time": 1743736281,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75545,
+        "num": 126038,
+        "word": "全红婵陈芋汐10米台进决赛",
+        "onboard_time": 1743731061,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124616,
+        "num": 124616,
+        "word": "吴敬平晒10岁樊振东反手技术",
+        "onboard_time": 1743728061,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122790,
+        "num": 122790,
+        "word": "山东姑娘考公到阿勒泰当警察",
+        "onboard_time": 1743727040,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121785,
+        "num": 121785,
+        "word": "韩国总统",
+        "onboard_time": 1743735140,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117560,
+        "num": 117560,
+        "word": "向阳花",
+        "onboard_time": 1743727402,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115071,
+        "num": 115071,
+        "word": "买完衣服的这种袋子不要再扔了",
+        "onboard_time": 1743723439,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 111648,
+        "num": 111648,
+        "word": "韩国月租1600的房子",
+        "onboard_time": 1743727221,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107998,
+        "num": 107998,
+        "word": "中国快递协会发布严正声明",
+        "onboard_time": 1743734362,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103799,
+        "num": 103799,
+        "word": "举报副教授前夫出轨女学生女子再发声",
+        "onboard_time": 1743724821,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103616,
+        "num": 103616,
+        "word": "Wendy泡泡发长文",
+        "onboard_time": 1743736341,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102169,
+        "num": 102169,
+        "word": "韩安冉否认因妈妈经历上变形计",
+        "onboard_time": 1743732922,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100948,
+        "num": 100948,
+        "word": "甜馨说不当女团",
+        "onboard_time": 1743728841,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100036,
+        "num": 100036,
+        "word": "国际金价高位跳水了",
+        "onboard_time": 1743703576,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加首都义务植树活动#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743735830982,
+  "endTime": 1743736364424,
   "band_list": [
     {
       "raw_hot": 2404409,
@@ -75,8 +75,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 713427,
-      "num": 713427,
+      "raw_hot": 722608,
+      "num": 722608,
       "word": "尹锡悦弹劾案宣判",
       "onboard_time": 1743733401,
       "rank": 3,
@@ -123,12 +123,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 468272,
-      "num": 468272,
+      "raw_hot": 547193,
+      "num": 547193,
       "word": "手机曲面屏为什么消失了",
       "onboard_time": 1743730040,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 461873,
+      "num": 461873,
+      "word": "尹锡悦成韩国第二位被罢免总统",
+      "onboard_time": 1743734362,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 426493,
@@ -203,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 331994,
-      "num": 456911,
-      "word": "尹锡悦成韩国第二位被罢免总统",
-      "onboard_time": 1743734362,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 330527,
       "num": 330527,
       "word": "国际金价高位跳水了",
@@ -243,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300220,
+      "num": 300220,
+      "word": "NewJeans父母出现分歧",
+      "onboard_time": 1743735020,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284464,
       "num": 272172,
       "word": "玫瑰公主孟子义",
@@ -273,14 +281,6 @@
       "onboard_time": 1743730581,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255654,
-      "num": 255654,
-      "word": "NewJeans父母出现分歧",
-      "onboard_time": 1743735020,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 252354,
@@ -371,6 +371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 207458,
+      "num": 207458,
+      "word": "清明思念如青草漫过山野",
+      "onboard_time": 1743733943,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198667,
       "num": 198667,
       "word": "萨摩耶把猫猫的头含进嘴里",
@@ -379,12 +387,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194782,
-      "num": 206059,
-      "word": "清明思念如青草漫过山野",
-      "onboard_time": 1743733943,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 197065,
+      "num": 197065,
+      "word": "男女主写的不是情书是遗书",
+      "onboard_time": 1743735321,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 192117,
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 159959,
-      "num": 927468,
+      "num": 968286,
       "word": "体育比赛为何会遭到美国网攻",
       "onboard_time": 1743730040,
       "rank": 2,
@@ -515,20 +523,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 140408,
-      "num": 140408,
-      "word": "男女主写的不是情书是遗书",
-      "onboard_time": 1743735321,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137429,
       "num": 137429,
       "word": "17岁女孩曾字母都记不全如今保送北大",
       "onboard_time": 1743694161,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136508,
+      "num": 280272,
+      "word": "韩国须在60天内大选",
+      "onboard_time": 1743734661,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 135590,
+      "num": 135590,
+      "word": "原来猫猫失重的第一反应也是闭眼睛",
+      "onboard_time": 1743735020,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 135081,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 134007,
-      "num": 134007,
+      "num": 157483,
       "word": "清明手绘壁纸",
       "onboard_time": 1743734060,
       "rank": 36,
@@ -627,22 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117627,
-      "num": 117627,
-      "word": "原来猫猫失重的第一反应也是闭眼睛",
-      "onboard_time": 1743735020,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 115672,
-      "num": 280272,
-      "word": "韩国须在60天内大选",
-      "onboard_time": 1743734661,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 115600,
       "num": 115600,
       "word": "SM新男团",
@@ -705,6 +705,14 @@
       "onboard_time": 1743702797,
       "rank": 48,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 103616,
+      "num": 103616,
+      "word": "Wendy泡泡发长文",
+      "onboard_time": 1743736341,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 103102,
@@ -971,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68227,
+      "num": 165312,
+      "word": "历史上韩国总统们的命运",
+      "onboard_time": 1743736219,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68046,
       "num": 68046,
       "word": "值得爱",
@@ -1067,6 +1083,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42885,
+      "num": 150473,
+      "word": "尹锡悦刑期或创新高",
+      "onboard_time": 1743736219,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 40010,
+      "num": 162510,
+      "word": "钱天一vs王艺迪",
+      "onboard_time": 1743735740,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40002,
+      "num": 128766,
+      "word": "踏青寻春色",
+      "onboard_time": 1743736281,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35773,
       "num": 44843,
       "word": "拼多多宣布投1000亿扶持商家",
@@ -1105,14 +1145,6 @@
       "onboard_time": 1743714373,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21156,
-      "num": 162510,
-      "word": "钱天一vs王艺迪",
-      "onboard_time": 1743735740,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 19655,

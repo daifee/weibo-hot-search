@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743735830982,
+  "endTime": 1743736364424,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1115,6 +1115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 722608,
+      "num": 722608,
+      "word": "尹锡悦弹劾案宣判",
+      "onboard_time": 1743733401,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 717168,
       "num": 163648,
       "word": "2024的愚人节勇士站姐",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1743681983,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 713427,
-      "num": 713427,
-      "word": "尹锡悦弹劾案宣判",
-      "onboard_time": 1743733401,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 707836,
@@ -1555,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 547193,
+      "num": 547193,
+      "word": "手机曲面屏为什么消失了",
+      "onboard_time": 1743730040,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 546315,
       "num": 417960,
       "word": "多人在健身房组织卖淫最高判5年半",
@@ -1907,14 +1915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 468272,
-      "num": 468272,
-      "word": "手机曲面屏为什么消失了",
-      "onboard_time": 1743730040,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 466805,
       "num": 455512,
       "word": "杨鸣",
@@ -1929,6 +1929,14 @@
       "onboard_time": 1743635780,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 461873,
+      "num": 461873,
+      "word": "尹锡悦成韩国第二位被罢免总统",
+      "onboard_time": 1743734362,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 461752,
@@ -2651,14 +2659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331994,
-      "num": 456911,
-      "word": "尹锡悦成韩国第二位被罢免总统",
-      "onboard_time": 1743734362,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 331750,
       "num": 146286,
       "word": "金秀贤记者会最起鸡皮疙瘩的一句话",
@@ -3001,6 +3001,14 @@
       "onboard_time": 1743681081,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 300220,
+      "num": 300220,
+      "word": "NewJeans父母出现分歧",
+      "onboard_time": 1743735020,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 298045,
@@ -3513,14 +3521,6 @@
       "onboard_time": 1743667942,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255654,
-      "num": 255654,
-      "word": "NewJeans父母出现分歧",
-      "onboard_time": 1743735020,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 255506,
@@ -4219,6 +4219,14 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 207458,
+      "num": 207458,
+      "word": "清明思念如青草漫过山野",
+      "onboard_time": 1743733943,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207212,
       "num": 207212,
       "word": "创亚2总决赛嘉宾阵容",
@@ -4627,6 +4635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197065,
+      "num": 197065,
+      "word": "男女主写的不是情书是遗书",
+      "onboard_time": 1743735321,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197054,
       "num": 197054,
       "word": "国产AI称金秀贤痛哭大概率是表演",
@@ -4744,14 +4760,6 @@
       "word": "74岁老戏骨狱中求婚与女友相差36岁",
       "onboard_time": 1743639442,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194782,
-      "num": 206059,
-      "word": "清明思念如青草漫过山野",
-      "onboard_time": 1743733943,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -6020,7 +6028,7 @@
     },
     {
       "raw_hot": 159959,
-      "num": 927468,
+      "num": 968286,
       "word": "体育比赛为何会遭到美国网攻",
       "onboard_time": 1743730040,
       "rank": 2,
@@ -6891,14 +6899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140408,
-      "num": 140408,
-      "word": "男女主写的不是情书是遗书",
-      "onboard_time": 1743735321,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140369,
       "num": 140369,
       "word": "刘学义新剧痛失编制",
@@ -7043,6 +7043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136508,
+      "num": 280272,
+      "word": "韩国须在60天内大选",
+      "onboard_time": 1743734661,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136507,
       "num": 136507,
       "word": "张佳宁新剧10秒演出5种情绪",
@@ -7097,6 +7105,14 @@
       "onboard_time": 1743435442,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135590,
+      "num": 135590,
+      "word": "原来猫猫失重的第一反应也是闭眼睛",
+      "onboard_time": 1743735020,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 135534,
@@ -7204,7 +7220,7 @@
     },
     {
       "raw_hot": 134007,
-      "num": 134007,
+      "num": 157483,
       "word": "清明手绘壁纸",
       "onboard_time": 1743734060,
       "rank": 36,
@@ -7971,14 +7987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117627,
-      "num": 117627,
-      "word": "原来猫猫失重的第一反应也是闭眼睛",
-      "onboard_time": 1743735020,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 117488,
       "num": 512552,
       "word": "纽约股市主要股指期货暴跌",
@@ -8057,14 +8065,6 @@
       "onboard_time": 1743691163,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115672,
-      "num": 280272,
-      "word": "韩国须在60天内大选",
-      "onboard_time": 1743734661,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 115245,
@@ -8425,6 +8425,14 @@
       "onboard_time": 1743702797,
       "rank": 48,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 103616,
+      "num": 103616,
+      "word": "Wendy泡泡发长文",
+      "onboard_time": 1743736341,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 103102,
@@ -9331,6 +9339,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 68227,
+      "num": 165312,
+      "word": "历史上韩国总统们的命运",
+      "onboard_time": 1743736219,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67757,
       "num": 322830,
       "word": "花开时节遇见最美城市",
@@ -10043,6 +10059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42885,
+      "num": 150473,
+      "word": "尹锡悦刑期或创新高",
+      "onboard_time": 1743736219,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41928,
       "num": 113921,
       "word": "入室抢婴案嫌犯见到家主亲热叫叔",
@@ -10121,6 +10145,22 @@
       "onboard_time": 1743527896,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40010,
+      "num": 162510,
+      "word": "钱天一vs王艺迪",
+      "onboard_time": 1743735740,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40002,
+      "num": 128766,
+      "word": "踏青寻春色",
+      "onboard_time": 1743736281,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 39522,
@@ -10737,14 +10777,6 @@
       "onboard_time": 1743592703,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 21156,
-      "num": 162510,
-      "word": "钱天一vs王艺迪",
-      "onboard_time": 1743735740,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 20997,
