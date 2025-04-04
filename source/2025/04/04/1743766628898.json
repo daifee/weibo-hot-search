@@ -1,0 +1,410 @@
+{
+  "runTime": 1743766628898,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1680407,
+        "num": 1680407,
+        "word": "对原产美国所有进口商品加征34%关税",
+        "onboard_time": 1743761781,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1361490,
+        "num": 1361490,
+        "word": "关税",
+        "onboard_time": 1743762921,
+        "rank": 1,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 5366,
+        "num": 1064053,
+        "word": "清明祭扫务必筑牢防火墙",
+        "onboard_time": 1743766523,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 968032,
+        "num": 968032,
+        "word": "阿条姐登顶世界第一",
+        "onboard_time": 1743761541,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 541813,
+        "num": 541813,
+        "word": "甲亢哥让合影小孩哥接爸爸电话",
+        "onboard_time": 1743756861,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1106850,
+        "num": 537221,
+        "word": "jayjay公开",
+        "onboard_time": 1743765561,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497593,
+        "num": 497593,
+        "word": "赵丽颖演技",
+        "onboard_time": 1743763941,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 398002,
+        "num": 398002,
+        "word": "对中重稀土相关物项实施出口管制",
+        "onboard_time": 1743763102,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 484861,
+        "num": 390117,
+        "word": "和出轨老公坚持丧偶式婚姻",
+        "onboard_time": 1743758242,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375011,
+        "num": 375011,
+        "word": "向阳花票房",
+        "onboard_time": 1743763461,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 963523,
+        "num": 372534,
+        "word": "金子涵 乐华",
+        "onboard_time": 1743764542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379534,
+        "num": 372458,
+        "word": "李金铭十年前剩饭保留至今",
+        "onboard_time": 1743739761,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363268,
+        "num": 363268,
+        "word": "暂停6家美涉事企业产品输华资质",
+        "onboard_time": 1743762981,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33598,
+        "num": 349437,
+        "word": "体育比赛为何会遭到美国网攻",
+        "onboard_time": 1743730040,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346700,
+        "num": 346700,
+        "word": "中方在世贸组织起诉美对等关税措施",
+        "onboard_time": 1743762862,
+        "rank": 14,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 131646,
+        "num": 328517,
+        "word": "特朗普说美股大跌因为美国病入膏肓",
+        "onboard_time": 1743761001,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 323641,
+        "num": 323641,
+        "word": "尹锡悦被罢免总统职务",
+        "onboard_time": 1743733702,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 287863,
+        "num": 287863,
+        "word": "房琪鼓励张含韵的那句话",
+        "onboard_time": 1743765982,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245422,
+        "num": 287436,
+        "word": "之后会火IU 冷门歌手孙燕姿",
+        "onboard_time": 1743760221,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237522,
+        "num": 284915,
+        "word": "叶童一公排名",
+        "onboard_time": 1743758181,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1041940,
+        "num": 282405,
+        "word": "芭乐 酸梅粉",
+        "onboard_time": 1743758723,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 309061,
+        "num": 278991,
+        "word": "何老师50岁的体力",
+        "onboard_time": 1743759261,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277729,
+        "num": 277729,
+        "word": "王珞丹 体面人",
+        "onboard_time": 1743763223,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252367,
+        "num": 252367,
+        "word": "男子祭祖上香呛了一口烟救自己一命",
+        "onboard_time": 1743747681,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238995,
+        "num": 238995,
+        "word": "18岁禁毒战士的葬礼全场被马赛克",
+        "onboard_time": 1743755841,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228944,
+        "num": 228944,
+        "word": "将11家美企列入不可靠实体清单",
+        "onboard_time": 1743762201,
+        "rank": 25,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 226124,
+        "num": 226124,
+        "word": "清明节",
+        "onboard_time": 1743722358,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205095,
+        "num": 205095,
+        "word": "小猫 请苍天辨忠奸",
+        "onboard_time": 1743762321,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200859,
+        "num": 200859,
+        "word": "章昊第一章回国第二章进货",
+        "onboard_time": 1743756982,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196979,
+        "num": 196979,
+        "word": "章昊过安检牛奶被没收破防了",
+        "onboard_time": 1743766523,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193354,
+        "num": 193354,
+        "word": "德布劳内宣布将离开曼城",
+        "onboard_time": 1743766461,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188089,
+        "num": 188089,
+        "word": "身上多处被烤熟的鹅坚强已能进食",
+        "onboard_time": 1743751040,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187938,
+        "num": 187938,
+        "word": "小伙患抑郁暴食2年长近百斤",
+        "onboard_time": 1743763461,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159956,
+        "num": 159956,
+        "word": "请不要和孩子算经济账",
+        "onboard_time": 1743758060,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159002,
+        "num": 159002,
+        "word": "向阳花口碑",
+        "onboard_time": 1743755841,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150803,
+        "num": 154873,
+        "word": "毛晓彤羊毛卷小甜椒",
+        "onboard_time": 1743765262,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152790,
+        "num": 152790,
+        "word": "对16家美国实体列入出口管制管控",
+        "onboard_time": 1743762141,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146647,
+        "num": 146647,
+        "word": "德布劳内宣布离开曼城",
+        "onboard_time": 1743766402,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145300,
+        "num": 145300,
+        "word": "中方反制措施来了",
+        "onboard_time": 1743764421,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144294,
+        "num": 144294,
+        "word": "浪姐精准淘汰有能力的人",
+        "onboard_time": 1743764122,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127914,
+        "num": 127914,
+        "word": "身体缺维B的人易情绪暴躁",
+        "onboard_time": 1743765381,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138541,
+        "num": 127631,
+        "word": "楚后 陈都灵",
+        "onboard_time": 1743756921,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124958,
+        "num": 124958,
+        "word": "官方回应1.5万元天价纸别墅",
+        "onboard_time": 1743763223,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124578,
+        "num": 124578,
+        "word": "enhypen出发科切拉",
+        "onboard_time": 1743764661,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123350,
+        "num": 123350,
+        "word": "人体真正需要的7种休息",
+        "onboard_time": 1743753681,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118362,
+        "num": 118362,
+        "word": "房琪情商",
+        "onboard_time": 1743752420,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113974,
+        "num": 113974,
+        "word": "一秒钟 张凌赫",
+        "onboard_time": 1743755301,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109741,
+        "num": 109741,
+        "word": "张艺兴孤注二掷",
+        "onboard_time": 1743763823,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103869,
+        "num": 103869,
+        "word": "对原产于美印的医用CT球管反倾销调查",
+        "onboard_time": 1743763223,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99700,
+        "num": 99700,
+        "word": "尚雯婕又去选人了",
+        "onboard_time": 1743764782,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平总书记这些深情话语#"
+    }
+  }
+}

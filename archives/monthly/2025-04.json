@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743765705392,
+  "endTime": 1743766628898,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1361490,
+      "num": 1361490,
+      "word": "关税",
+      "onboard_time": 1743555923,
+      "rank": 4,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 1358507,
       "num": 1358507,
       "word": "浪姐6 变味",
@@ -473,14 +481,6 @@
       "onboard_time": 1743572902,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1342169,
-      "num": 1342169,
-      "word": "关税",
-      "onboard_time": 1743555923,
-      "rank": 4,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 1342089,
@@ -707,6 +707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1106850,
+      "num": 537221,
+      "word": "jayjay公开",
+      "onboard_time": 1743765561,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1104741,
       "num": 1104741,
       "word": "DeepSeek7小时攻克缅甸救灾语言关",
@@ -849,6 +857,14 @@
       "onboard_time": 1743658042,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 963523,
+      "num": 581351,
+      "word": "金子涵 乐华",
+      "onboard_time": 1743764542,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 954849,
@@ -1611,14 +1627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 581351,
-      "num": 581351,
-      "word": "金子涵 乐华",
-      "onboard_time": 1743764542,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 580088,
       "num": 580088,
       "word": "扶弟魔背后有个吸姐鬼",
@@ -1961,6 +1969,14 @@
       "onboard_time": 1743481826,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497593,
+      "num": 497593,
+      "word": "赵丽颖演技",
+      "onboard_time": 1743763941,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 496781,
@@ -2451,14 +2467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 397759,
-      "num": 397759,
-      "word": "赵丽颖演技",
-      "onboard_time": 1743763941,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 397259,
       "num": 397259,
       "word": "这是对台独的严重警告和有力遏制",
@@ -2745,6 +2753,14 @@
       "onboard_time": 1743441017,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 363268,
+      "num": 416236,
+      "word": "暂停6家美涉事企业产品输华资质",
+      "onboard_time": 1743762981,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 362122,
@@ -3571,6 +3587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 287863,
+      "num": 287863,
+      "word": "房琪鼓励张含韵的那句话",
+      "onboard_time": 1743765982,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287854,
       "num": 287854,
       "word": "27岁女生用12年从专科到留学硕士",
@@ -3713,6 +3737,14 @@
       "onboard_time": 1743482964,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277729,
+      "num": 277729,
+      "word": "王珞丹 体面人",
+      "onboard_time": 1743763223,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 276389,
@@ -4187,14 +4219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237868,
-      "num": 237868,
-      "word": "王珞丹 体面人",
-      "onboard_time": 1743763223,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237820,
       "num": 383207,
       "word": "雁回时oe",
@@ -4345,6 +4369,14 @@
       "onboard_time": 1743597683,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228944,
+      "num": 576285,
+      "word": "将11家美企列入不可靠实体清单",
+      "onboard_time": 1743762201,
+      "rank": 34,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 228385,
@@ -4851,28 +4883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206731,
-      "num": 576285,
-      "word": "将11家美企列入不可靠实体清单",
-      "onboard_time": 1743762201,
-      "rank": 34,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 206601,
       "num": 206601,
       "word": "华晨宇对接斥侵权行为",
       "onboard_time": 1743495803,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206525,
-      "num": 416236,
-      "word": "暂停6家美涉事企业产品输华资质",
-      "onboard_time": 1743762981,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 206500,
@@ -5299,6 +5315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196979,
+      "num": 196979,
+      "word": "章昊过安检牛奶被没收破防了",
+      "onboard_time": 1743766523,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196511,
       "num": 196511,
       "word": "海峡雷霆实弹射击画面",
@@ -5457,6 +5481,14 @@
       "onboard_time": 1743650482,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193354,
+      "num": 193354,
+      "word": "德布劳内宣布将离开曼城",
+      "onboard_time": 1743766461,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 193338,
@@ -5697,6 +5729,14 @@
       "onboard_time": 1743746480,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187938,
+      "num": 187938,
+      "word": "小伙患抑郁暴食2年长近百斤",
+      "onboard_time": 1743763461,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187739,
@@ -6331,14 +6371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172837,
-      "num": 172837,
-      "word": "jayjay公开",
-      "onboard_time": 1743765561,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 172739,
       "num": 149275,
       "word": "男子肝癌晚期只打一针获新生",
@@ -6676,7 +6708,7 @@
     },
     {
       "raw_hot": 163811,
-      "num": 163811,
+      "num": 328517,
       "word": "特朗普说美股大跌因为美国病入膏肓",
       "onboard_time": 1743761001,
       "rank": 28,
@@ -7211,6 +7243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150803,
+      "num": 154873,
+      "word": "毛晓彤羊毛卷小甜椒",
+      "onboard_time": 1743765262,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150793,
       "num": 150793,
       "word": "徐正溪站姐拍的迪丽热巴",
@@ -7465,6 +7505,14 @@
       "onboard_time": 1743495083,
       "rank": 18,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 146647,
+      "num": 146647,
+      "word": "德布劳内宣布离开曼城",
+      "onboard_time": 1743766402,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 146560,
@@ -8515,6 +8563,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 127914,
+      "num": 181930,
+      "word": "身体缺维B的人易情绪暴躁",
+      "onboard_time": 1743765381,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 127608,
       "num": 127608,
       "word": "张小婉的五官李嘉琦来守护",
@@ -8563,14 +8619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127005,
-      "num": 127005,
-      "word": "毛晓彤羊毛卷小甜椒",
-      "onboard_time": 1743765262,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126936,
       "num": 126936,
       "word": "中国快递协会发布严正声明",
@@ -8601,14 +8649,6 @@
       "onboard_time": 1743762501,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126458,
-      "num": 126458,
-      "word": "小伙患抑郁暴食2年长近百斤",
-      "onboard_time": 1743763461,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126345,
@@ -8704,6 +8744,14 @@
       "word": "我交了个星朋友",
       "onboard_time": 1743606863,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124958,
+      "num": 124958,
+      "word": "官方回应1.5万元天价纸别墅",
+      "onboard_time": 1743763223,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -9193,14 +9241,6 @@
       "onboard_time": 1743759560,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115425,
-      "num": 115425,
-      "word": "官方回应1.5万元天价纸别墅",
-      "onboard_time": 1743763223,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115369,
@@ -10817,14 +10857,6 @@
       "onboard_time": 1743607822,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 64671,
-      "num": 181930,
-      "word": "身体缺维B的人易情绪暴躁",
-      "onboard_time": 1743765381,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 64643,
@@ -12799,6 +12831,14 @@
       "num": 490498,
       "word": "健全社会信用体系23条公布",
       "onboard_time": 1743512544,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5366,
+      "num": 1064053,
+      "word": "清明祭扫务必筑牢防火墙",
+      "onboard_time": 1743766523,
       "rank": 2,
       "category": "民生新闻"
     }
