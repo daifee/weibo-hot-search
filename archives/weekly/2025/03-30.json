@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743788353677,
+  "endTime": 1743791546748,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -11227,6 +11227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150549,
+      "num": 128282,
+      "word": "特朗普说永远不会改变政策",
+      "onboard_time": 1743781941,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 150433,
       "num": 150433,
       "word": "Jennie获奖感言",
@@ -13129,14 +13137,6 @@
       "onboard_time": 1743512603,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 130378,
-      "num": 128282,
-      "word": "特朗普说永远不会改变政策",
-      "onboard_time": 1743781941,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 130354,
@@ -16587,6 +16587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 76212,
+      "num": 76212,
+      "word": "王蓉盼了浪姐6年",
+      "onboard_time": 1743786737,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76100,
       "num": 79895,
       "word": "宋亚轩刘耀文冷战过",
@@ -17587,14 +17595,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 54650,
-      "num": 54650,
-      "word": "王蓉盼了浪姐6年",
-      "onboard_time": 1743786737,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 54634,
       "num": 324214,
       "word": "一口气说清缅甸震中的真实情况",
@@ -18531,6 +18531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34661,
+      "num": 34661,
+      "word": "美股七姐妹大跌",
+      "onboard_time": 1743788656,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 34521,
       "num": 202566,
       "word": "梁建章谈人与AI本质有何不同",
@@ -18825,6 +18833,14 @@
       "onboard_time": 1743363074,
       "rank": 38,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 30162,
+      "num": 30162,
+      "word": "檀健次将回归Hi6录制",
+      "onboard_time": 1743790276,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 30101,
@@ -19577,6 +19593,14 @@
       "onboard_time": 1743362416,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17673,
+      "num": 24314,
+      "word": "何浩楠清明新歌梨雪飞",
+      "onboard_time": 1743790936,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 17615,
