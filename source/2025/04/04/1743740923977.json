@@ -1,0 +1,410 @@
+{
+  "runTime": 1743740923977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1622962,
+        "num": 1622962,
+        "word": "李金铭十年前剩饭保留至今",
+        "onboard_time": 1743739761,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646346,
+        "num": 646346,
+        "word": "尹锡悦被罢免总统职务",
+        "onboard_time": 1743733702,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8094,
+        "num": 458612,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1743672202,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1790523,
+        "num": 453316,
+        "word": "网红田姥姥在亡夫墓前痛哭",
+        "onboard_time": 1743738621,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 435385,
+        "num": 435385,
+        "word": "手机曲面屏为什么消失了",
+        "onboard_time": 1743730040,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 429444,
+        "num": 429444,
+        "word": "清明节",
+        "onboard_time": 1743722358,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23835,
+        "num": 405133,
+        "word": "树载千秋同根同祖",
+        "onboard_time": 1743738981,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1303362,
+        "num": 404822,
+        "word": "RedVelvet 解散",
+        "onboard_time": 1743721997,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 830506,
+        "num": 402963,
+        "word": "金子涵 意难平",
+        "onboard_time": 1743736760,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383185,
+        "num": 383185,
+        "word": "AI复原出22岁烈士的模样",
+        "onboard_time": 1743738201,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445407,
+        "num": 365767,
+        "word": "林栋哲岳父变亲爸了",
+        "onboard_time": 1743738862,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441374,
+        "num": 357989,
+        "word": "麦琳分享瘦44斤方法",
+        "onboard_time": 1743737181,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328871,
+        "num": 328871,
+        "word": "尹锡悦弹劾案宣判",
+        "onboard_time": 1743733401,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313906,
+        "num": 313906,
+        "word": "尹锡悦成韩国第二位被罢免总统",
+        "onboard_time": 1743734362,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 309521,
+        "num": 309521,
+        "word": "Wendy泡泡发长文",
+        "onboard_time": 1743736341,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283554,
+        "num": 283554,
+        "word": "特朗普因对中国征收关税被起诉",
+        "onboard_time": 1743730401,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 282174,
+        "num": 282174,
+        "word": "全红婵要签名照兴奋到搓手",
+        "onboard_time": 1743729441,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239539,
+        "num": 239539,
+        "word": "韩国富豪董事长的营养早餐",
+        "onboard_time": 1743737960,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231550,
+        "num": 231550,
+        "word": "甲亢哥中国行效果好到爆",
+        "onboard_time": 1743737481,
+        "rank": 18,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 170039,
+        "num": 230915,
+        "word": "疑似周周小可爱陈泽领证",
+        "onboard_time": 1743737841,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 489880,
+        "num": 228327,
+        "word": "张檬孕37周腹膜内剖腹产",
+        "onboard_time": 1743723439,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 705626,
+        "num": 226922,
+        "word": "疯狂动物城2",
+        "onboard_time": 1743738260,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358388,
+        "num": 224910,
+        "word": "幸好我是汉族贵族也太累了",
+        "onboard_time": 1743736880,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265544,
+        "num": 223636,
+        "word": "李金铭 真人秀中没有人伤害我",
+        "onboard_time": 1743723799,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198928,
+        "num": 222670,
+        "word": "我的世界",
+        "onboard_time": 1743740482,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221451,
+        "num": 221451,
+        "word": "涂毓麟孙乐言哄娃睡觉变苦命鸳鸯",
+        "onboard_time": 1743739761,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199909,
+        "num": 199909,
+        "word": "清明档",
+        "onboard_time": 1743739821,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167315,
+        "num": 198264,
+        "word": "樊振东获上海市青年五四奖章",
+        "onboard_time": 1743739462,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197737,
+        "num": 197737,
+        "word": "原来洛阳真有比脸还大的牡丹",
+        "onboard_time": 1743740362,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 18291,
+        "num": 186258,
+        "word": "遗嘱库里封存的真实遗愿清单",
+        "onboard_time": 1743740601,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184913,
+        "num": 184913,
+        "word": "原来爱有滞后性是真的",
+        "onboard_time": 1743730939,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176909,
+        "num": 176909,
+        "word": "NewJeans父母出现分歧",
+        "onboard_time": 1743735020,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168024,
+        "num": 168024,
+        "word": "孟子坤 未成年",
+        "onboard_time": 1743725179,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158249,
+        "num": 158249,
+        "word": "去年一年直播带货投诉举报案超40万件",
+        "onboard_time": 1743739581,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157010,
+        "num": 157010,
+        "word": "疑似周周小可爱怀孕",
+        "onboard_time": 1743724699,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156244,
+        "num": 156244,
+        "word": "93岁爷爷攒钱1年半给孙女买金镯子",
+        "onboard_time": 1743739522,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145565,
+        "num": 145565,
+        "word": "向阳花",
+        "onboard_time": 1743727402,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138292,
+        "num": 138292,
+        "word": "詹姆斯三分",
+        "onboard_time": 1743740121,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111023,
+        "num": 137357,
+        "word": "王艺迪3比2钱天一",
+        "onboard_time": 1743740901,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137022,
+        "num": 137022,
+        "word": "我的世界大电影今日上映",
+        "onboard_time": 1743740542,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131590,
+        "num": 131590,
+        "word": "尹锡悦刑期或创新高",
+        "onboard_time": 1743736219,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129712,
+        "num": 129712,
+        "word": "718斤小伙因情绪问题一顿吃25个包子",
+        "onboard_time": 1743730581,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122571,
+        "num": 127610,
+        "word": "清明思念如青草漫过山野",
+        "onboard_time": 1743733943,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22022,
+        "num": 127609,
+        "word": "找到烈士父亲73岁老人哭得像个孩子",
+        "onboard_time": 1743740901,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127608,
+        "num": 127608,
+        "word": "张小婉的五官李嘉琦来守护",
+        "onboard_time": 1743740362,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126546,
+        "num": 126546,
+        "word": "王安宇演出了打工人的千薪万苦",
+        "onboard_time": 1743740662,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123166,
+        "num": 123166,
+        "word": "向阳花今日公映",
+        "onboard_time": 1743734661,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121508,
+        "num": 121508,
+        "word": "边牧为了一口奶请来了狗语翻译",
+        "onboard_time": 1743736942,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117039,
+        "num": 117039,
+        "word": "YERI和Wendy离开SM",
+        "onboard_time": 1743730040,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114893,
+        "num": 114893,
+        "word": "韩国总统",
+        "onboard_time": 1743735140,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

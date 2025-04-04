@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743738508537,
+  "endTime": 1743740923977,
   "band_list": [
     {
       "raw_hot": 2404409,
@@ -9,6 +9,22 @@
       "onboard_time": 1743733702,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1790523,
+      "num": 453316,
+      "word": "网红田姥姥在亡夫墓前痛哭",
+      "onboard_time": 1743738621,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1622962,
+      "num": 1622962,
+      "word": "李金铭十年前剩饭保留至今",
+      "onboard_time": 1743739761,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1601334,
@@ -91,6 +107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 705626,
+      "num": 226922,
+      "word": "疯狂动物城2",
+      "onboard_time": 1743738260,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 657688,
       "num": 528480,
       "word": "特朗普因对中国征收关税被起诉",
@@ -147,6 +171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 445407,
+      "num": 365767,
+      "word": "林栋哲岳父变亲爸了",
+      "onboard_time": 1743738862,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443955,
       "num": 420264,
       "word": "麦琳分享瘦44斤方法",
@@ -195,6 +227,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 383185,
+      "num": 383185,
+      "word": "AI复原出22岁烈士的模样",
+      "onboard_time": 1743738201,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 378301,
       "num": 378301,
       "word": "余承东不再担任华为车BU董事长",
@@ -225,6 +265,14 @@
       "onboard_time": 1743725179,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358388,
+      "num": 267249,
+      "word": "幸好我是汉族贵族也太累了",
+      "onboard_time": 1743736880,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 348876,
@@ -299,14 +347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 267249,
-      "num": 267249,
-      "word": "幸好我是汉族贵族也太累了",
-      "onboard_time": 1743736880,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 267155,
       "num": 267155,
       "word": "718斤小伙因情绪问题一顿吃25个包子",
@@ -355,8 +395,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239512,
-      "num": 160649,
+      "raw_hot": 239539,
+      "num": 239539,
       "word": "韩国富豪董事长的营养早餐",
       "onboard_time": 1743737960,
       "rank": 30,
@@ -369,6 +409,14 @@
       "onboard_time": 1743694641,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 231550,
+      "num": 231550,
+      "word": "甲亢哥中国行效果好到爆",
+      "onboard_time": 1743737481,
+      "rank": 39,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 225663,
@@ -387,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 221451,
+      "num": 221451,
+      "word": "涂毓麟孙乐言哄娃睡觉变苦命鸳鸯",
+      "onboard_time": 1743739761,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219213,
       "num": 219213,
       "word": "王心凌拔智齿",
@@ -401,14 +457,6 @@
       "onboard_time": 1743727040,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214982,
-      "num": 214982,
-      "word": "疯狂动物城2",
-      "onboard_time": 1743738260,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 210494,
@@ -435,12 +483,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199909,
+      "num": 199909,
+      "word": "清明档",
+      "onboard_time": 1743739821,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 198928,
+      "num": 222670,
+      "word": "我的世界",
+      "onboard_time": 1743740482,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198667,
       "num": 198667,
       "word": "萨摩耶把猫猫的头含进嘴里",
       "onboard_time": 1743732261,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197737,
+      "num": 197737,
+      "word": "原来洛阳真有比脸还大的牡丹",
+      "onboard_time": 1743740362,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 197065,
@@ -475,14 +547,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 186592,
-      "num": 186592,
-      "word": "AI复原出22岁烈士的模样",
-      "onboard_time": 1743738201,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181719,
       "num": 181719,
       "word": "4人卖鞋亏损后转卖保健品骗了超10亿",
@@ -507,12 +571,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 170039,
+      "num": 230915,
+      "word": "疑似周周小可爱陈泽领证",
+      "onboard_time": 1743737841,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 168975,
       "num": 1148945,
       "word": "体育比赛为何会遭到美国网攻",
       "onboard_time": 1743730040,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167315,
+      "num": 198264,
+      "word": "樊振东获上海市青年五四奖章",
+      "onboard_time": 1743739462,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 167168,
@@ -547,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159756,
-      "num": 159756,
-      "word": "疑似周周小可爱陈泽领证",
-      "onboard_time": 1743737841,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 159540,
       "num": 159540,
       "word": "永远记住你",
@@ -563,12 +635,28 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 158249,
+      "num": 158249,
+      "word": "去年一年直播带货投诉举报案超40万件",
+      "onboard_time": 1743739581,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156430,
       "num": 156430,
       "word": "鸡柳年糕薯条",
       "onboard_time": 1743686003,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 156244,
+      "num": 156244,
+      "word": "93岁爷爷攒钱1年半给孙女买金镯子",
+      "onboard_time": 1743739522,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150407,
@@ -611,6 +699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145565,
+      "num": 145565,
+      "word": "向阳花",
+      "onboard_time": 1743727402,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143917,
       "num": 143917,
       "word": "边牧为了一口奶请来了狗语翻译",
@@ -643,12 +739,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 138292,
+      "num": 138292,
+      "word": "詹姆斯三分",
+      "onboard_time": 1743740121,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137429,
       "num": 137429,
       "word": "17岁女孩曾字母都记不全如今保送北大",
       "onboard_time": 1743694161,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137022,
+      "num": 137022,
+      "word": "我的世界大电影今日上映",
+      "onboard_time": 1743740542,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 136508,
@@ -691,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127608,
+      "num": 127608,
+      "word": "张小婉的五官李嘉琦来守护",
+      "onboard_time": 1743740362,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126936,
       "num": 126936,
       "word": "中国快递协会发布严正声明",
@@ -699,12 +819,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125744,
-      "num": 124904,
-      "word": "向阳花",
-      "onboard_time": 1743727402,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 126546,
+      "num": 126546,
+      "word": "王安宇演出了打工人的千薪万苦",
+      "onboard_time": 1743740662,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 125686,
@@ -801,6 +921,14 @@
       "onboard_time": 1743734960,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111023,
+      "num": 137357,
+      "word": "王艺迪3比2钱天一",
+      "onboard_time": 1743740901,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 110856,
@@ -1059,14 +1187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78657,
-      "num": 124975,
-      "word": "甲亢哥中国行效果好到爆",
-      "onboard_time": 1743737481,
-      "rank": 39,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 78512,
       "num": 78512,
       "word": "iPhone17Pro最强长焦",
@@ -1259,12 +1379,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23835,
+      "num": 405133,
+      "word": "树载千秋同根同祖",
+      "onboard_time": 1743738981,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22022,
+      "num": 127609,
+      "word": "找到烈士父亲73岁老人哭得像个孩子",
+      "onboard_time": 1743740901,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19655,
       "num": 26799,
       "word": "我会永远永远永远的保佑好我",
       "onboard_time": 1743712934,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18291,
+      "num": 186258,
+      "word": "遗嘱库里封存的真实遗愿清单",
+      "onboard_time": 1743740601,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16320,
@@ -1297,6 +1441,14 @@
       "onboard_time": 1743738441,
       "rank": 43,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 8094,
+      "num": 458612,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1743672202,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

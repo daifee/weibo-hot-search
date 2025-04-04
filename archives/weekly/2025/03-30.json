@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743738508537,
+  "endTime": 1743740923977,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1790523,
+      "num": 453316,
+      "word": "网红田姥姥在亡夫墓前痛哭",
+      "onboard_time": 1743738621,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1785432,
       "num": 1785432,
       "word": "央视入股爱奇艺",
@@ -464,6 +472,14 @@
       "word": "心理师锐评赵露思新综艺",
       "onboard_time": 1743430524,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1622962,
+      "num": 1622962,
+      "word": "李金铭十年前剩饭保留至今",
+      "onboard_time": 1743739761,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -1737,6 +1753,14 @@
       "onboard_time": 1743516986,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 705626,
+      "num": 226922,
+      "word": "疯狂动物城2",
+      "onboard_time": 1743738260,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 704853,
@@ -3099,6 +3123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 445407,
+      "num": 365767,
+      "word": "林栋哲岳父变亲爸了",
+      "onboard_time": 1743738862,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445317,
       "num": 445317,
       "word": "周深亮相外交部双语宣传短片",
@@ -3611,6 +3643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383185,
+      "num": 383185,
+      "word": "AI复原出22岁烈士的模样",
+      "onboard_time": 1743738201,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 382947,
       "num": 449496,
       "word": "白玉兰预测",
@@ -3865,6 +3905,14 @@
       "onboard_time": 1743660982,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358388,
+      "num": 267249,
+      "word": "幸好我是汉族贵族也太累了",
+      "onboard_time": 1743736880,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 358381,
@@ -5347,14 +5395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267249,
-      "num": 267249,
-      "word": "幸好我是汉族贵族也太累了",
-      "onboard_time": 1743736880,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 267155,
       "num": 267155,
       "word": "718斤小伙因情绪问题一顿吃25个包子",
@@ -5811,8 +5851,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239512,
-      "num": 160649,
+      "raw_hot": 239539,
+      "num": 239539,
       "word": "韩国富豪董事长的营养早餐",
       "onboard_time": 1743737960,
       "rank": 30,
@@ -6001,6 +6041,14 @@
       "onboard_time": 1743397402,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 231550,
+      "num": 231550,
+      "word": "甲亢哥中国行效果好到爆",
+      "onboard_time": 1743737481,
+      "rank": 39,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 231473,
@@ -6227,6 +6275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221451,
+      "num": 221451,
+      "word": "涂毓麟孙乐言哄娃睡觉变苦命鸳鸯",
+      "onboard_time": 1743739761,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220864,
       "num": 291262,
       "word": "颜安柯淳 安淳蛋",
@@ -6361,14 +6417,6 @@
       "onboard_time": 1743727040,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214982,
-      "num": 214982,
-      "word": "疯狂动物城2",
-      "onboard_time": 1743738260,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 214826,
@@ -7107,6 +7155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199909,
+      "num": 215198,
+      "word": "清明档",
+      "onboard_time": 1743390620,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199656,
       "num": 199656,
       "word": "wbb退出",
@@ -7161,6 +7217,14 @@
       "onboard_time": 1743491063,
       "rank": 23,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 198928,
+      "num": 222670,
+      "word": "我的世界",
+      "onboard_time": 1743740482,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 198897,
@@ -7257,6 +7321,14 @@
       "onboard_time": 1743322100,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197737,
+      "num": 197737,
+      "word": "原来洛阳真有比脸还大的牡丹",
+      "onboard_time": 1743740362,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 197449,
@@ -7921,14 +7993,6 @@
       "onboard_time": 1743571582,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186592,
-      "num": 186592,
-      "word": "AI复原出22岁烈士的模样",
-      "onboard_time": 1743738201,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186558,
@@ -8835,6 +8899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170039,
+      "num": 230915,
+      "word": "疑似周周小可爱陈泽领证",
+      "onboard_time": 1743737841,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 169898,
       "num": 169898,
       "word": "有你的时光里是三十而已前传",
@@ -8993,6 +9065,14 @@
       "onboard_time": 1743424283,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167315,
+      "num": 198264,
+      "word": "樊振东获上海市青年五四奖章",
+      "onboard_time": 1743739462,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 167168,
@@ -9451,14 +9531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159756,
-      "num": 159756,
-      "word": "疑似周周小可爱陈泽领证",
-      "onboard_time": 1743737841,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 159610,
       "num": 159610,
       "word": "天赐的声音",
@@ -9547,6 +9619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158249,
+      "num": 158249,
+      "word": "去年一年直播带货投诉举报案超40万件",
+      "onboard_time": 1743739581,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158238,
       "num": 158238,
       "word": "杨奇刘亦菲合影",
@@ -9633,6 +9713,14 @@
       "onboard_time": 1743486024,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156244,
+      "num": 156244,
+      "word": "93岁爷爷攒钱1年半给孙女买金镯子",
+      "onboard_time": 1743739522,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156114,
@@ -9865,14 +9953,6 @@
       "onboard_time": 1743309031,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153347,
-      "num": 215198,
-      "word": "清明档",
-      "onboard_time": 1743390620,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 153333,
@@ -10449,6 +10529,14 @@
       "onboard_time": 1743494963,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145565,
+      "num": 212297,
+      "word": "向阳花",
+      "onboard_time": 1743391161,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 145468,
@@ -11059,6 +11147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138292,
+      "num": 138292,
+      "word": "詹姆斯三分",
+      "onboard_time": 1743740121,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138276,
       "num": 138276,
       "word": "72块钱3个苹果变两万",
@@ -11163,6 +11259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137022,
+      "num": 137022,
+      "word": "我的世界大电影今日上映",
+      "onboard_time": 1743740542,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136960,
       "num": 136960,
       "word": "黄霄雲 原创",
@@ -11257,14 +11361,6 @@
       "onboard_time": 1743590181,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135766,
-      "num": 212297,
-      "word": "向阳花",
-      "onboard_time": 1743391161,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 135659,
@@ -11891,6 +11987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127608,
+      "num": 127608,
+      "word": "张小婉的五官李嘉琦来守护",
+      "onboard_time": 1743740362,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127157,
       "num": 127157,
       "word": "尚雯婕靠跳舞减脂",
@@ -11929,6 +12033,14 @@
       "onboard_time": 1743666202,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126546,
+      "num": 126546,
+      "word": "王安宇演出了打工人的千薪万苦",
+      "onboard_time": 1743740662,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 126345,
@@ -13089,6 +13201,14 @@
       "onboard_time": 1743676642,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 111023,
+      "num": 137357,
+      "word": "王艺迪3比2钱天一",
+      "onboard_time": 1743740901,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 111021,
@@ -14633,14 +14753,6 @@
       "onboard_time": 1743262702,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 78657,
-      "num": 124975,
-      "word": "甲亢哥中国行效果好到爆",
-      "onboard_time": 1743737481,
-      "rank": 39,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 78510,
@@ -17123,6 +17235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 23835,
+      "num": 405133,
+      "word": "树载千秋同根同祖",
+      "onboard_time": 1743738981,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23822,
       "num": 183547,
       "word": "GALA多项数据小组赛第一",
@@ -17201,6 +17321,14 @@
       "onboard_time": 1743394040,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22022,
+      "num": 127609,
+      "word": "找到烈士父亲73岁老人哭得像个孩子",
+      "onboard_time": 1743740901,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21798,
@@ -17425,6 +17553,14 @@
       "onboard_time": 1743278534,
       "rank": 44,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 18291,
+      "num": 186258,
+      "word": "遗嘱库里封存的真实遗愿清单",
+      "onboard_time": 1743740601,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18254,
@@ -17912,6 +18048,14 @@
       "word": "实地探访一个人的小学",
       "onboard_time": 1743675562,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8094,
+      "num": 458612,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1743672202,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
