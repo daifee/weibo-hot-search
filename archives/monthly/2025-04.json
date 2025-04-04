@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743759590713,
+  "endTime": 1743762371041,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -403,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1414591,
+      "num": 1112798,
+      "word": "芭乐 酸梅粉",
+      "onboard_time": 1743758723,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1397916,
       "num": 1003685,
       "word": "家长建议取消学校义工站岗",
@@ -793,6 +801,14 @@
       "onboard_time": 1743692422,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 981886,
+      "num": 1157101,
+      "word": "甲亢哥让合影小孩哥接爸爸电话",
+      "onboard_time": 1743756861,
+      "rank": 8,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 972027,
@@ -1267,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 679237,
+      "num": 679237,
+      "word": "和出轨老公坚持丧偶式婚姻",
+      "onboard_time": 1743758242,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 673051,
       "num": 1226788,
       "word": "哈尔滨亚冬会遭17万次来自美国网攻",
@@ -1641,14 +1665,6 @@
       "onboard_time": 1743404000,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 552672,
-      "num": 552672,
-      "word": "甲亢哥让合影小孩哥接爸爸电话",
-      "onboard_time": 1743756861,
-      "rank": 8,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 551572,
@@ -2161,6 +2177,14 @@
       "onboard_time": 1743504862,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 448374,
+      "num": 448374,
+      "word": "叶童一公排名",
+      "onboard_time": 1743758181,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 445634,
@@ -2683,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361298,
+      "num": 318357,
+      "word": "18岁禁毒战士的葬礼全场被马赛克",
+      "onboard_time": 1743755841,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359334,
       "num": 359334,
       "word": "蓝莓包",
@@ -2841,6 +2873,14 @@
       "onboard_time": 1743501083,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344443,
+      "num": 344443,
+      "word": "章昊第一章回国第二章进货",
+      "onboard_time": 1743756982,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 344162,
@@ -3033,14 +3073,6 @@
       "onboard_time": 1743478524,
       "rank": 20,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 323810,
-      "num": 318357,
-      "word": "18岁禁毒战士的葬礼全场被马赛克",
-      "onboard_time": 1743755841,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 323497,
@@ -3451,14 +3483,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 288911,
-      "num": 288911,
-      "word": "芭乐 酸梅粉",
-      "onboard_time": 1743758723,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 288785,
       "num": 288785,
       "word": "红发GISELLE",
@@ -3633,6 +3657,14 @@
       "onboard_time": 1743570923,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275476,
+      "num": 275476,
+      "word": "何老师50岁的体力",
+      "onboard_time": 1743759261,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 275391,
@@ -4019,14 +4051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241105,
-      "num": 201174,
-      "word": "章昊第一章回国第二章进货",
-      "onboard_time": 1743756982,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240994,
       "num": 240994,
       "word": "何济霆",
@@ -4211,14 +4235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 232451,
-      "num": 232451,
-      "word": "和出轨老公坚持丧偶式婚姻",
-      "onboard_time": 1743758242,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 232405,
       "num": 330655,
       "word": "发条微博致敬王伟烈士",
@@ -4344,6 +4360,14 @@
       "word": "孙坚 我是唐嫣的兵",
       "onboard_time": 1743493342,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224131,
+      "num": 203353,
+      "word": "之后会火IU 冷门歌手孙燕姿",
+      "onboard_time": 1743760221,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -4643,6 +4667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208667,
+      "num": 303871,
+      "word": "对原产美国所有进口商品加征34%关税",
+      "onboard_time": 1743761781,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 207752,
       "num": 265275,
       "word": "清明五一档电影片单发布会赵丽颖VCR",
@@ -4721,6 +4753,14 @@
       "onboard_time": 1743481166,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206676,
+      "num": 206676,
+      "word": "阿条姐登顶世界第一",
+      "onboard_time": 1743761541,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 206601,
@@ -5321,6 +5361,14 @@
       "onboard_time": 1743582083,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193232,
+      "num": 193232,
+      "word": "董力追着阿诺猛亲",
+      "onboard_time": 1743758962,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 193174,
@@ -6123,6 +6171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173499,
+      "num": 173499,
+      "word": "热烈",
+      "onboard_time": 1743761722,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173270,
       "num": 522842,
       "word": "深圳航空回应乘客咬伤空姐",
@@ -6451,14 +6507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164962,
-      "num": 164962,
-      "word": "叶童一公排名",
-      "onboard_time": 1743758181,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164834,
       "num": 270580,
       "word": "爸爸当家",
@@ -6593,6 +6641,14 @@
       "onboard_time": 1743646160,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 161107,
+      "num": 161107,
+      "word": "特朗普说美股大跌因为美国病入膏肓",
+      "onboard_time": 1743761001,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 161010,
@@ -6787,6 +6843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155816,
+      "num": 155816,
+      "word": "赵丽颖的姐感",
+      "onboard_time": 1743759861,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155707,
       "num": 445018,
       "word": "救命到底哪些卫生巾安全",
@@ -6865,14 +6929,6 @@
       "onboard_time": 1743480204,
       "rank": 12,
       "category": "体育,汽车"
-    },
-    {
-      "raw_hot": 153895,
-      "num": 153895,
-      "word": "董力追着阿诺猛亲",
-      "onboard_time": 1743758962,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 153888,
@@ -8331,6 +8387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127158,
+      "num": 127158,
+      "word": "丁程鑫太乙真人步",
+      "onboard_time": 1743761001,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127104,
       "num": 438172,
       "word": "郑钦文为低排名球员发声",
@@ -8619,14 +8683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121644,
-      "num": 121644,
-      "word": "何老师50岁的体力",
-      "onboard_time": 1743759261,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121603,
       "num": 121603,
       "word": "苏新皓站姐发了好多cp",
@@ -8907,6 +8963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116451,
+      "num": 116451,
+      "word": "孟美岐出发创造营总决赛",
+      "onboard_time": 1743760342,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116424,
       "num": 116424,
       "word": "第42届中国洛阳牡丹文化节开幕",
@@ -8944,6 +9008,14 @@
       "word": "罗晋原声台词含金量",
       "onboard_time": 1743691163,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 115739,
+      "num": 115739,
+      "word": "马伯骞新剧一上线就难崩",
+      "onboard_time": 1743759560,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -9211,6 +9283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109530,
+      "num": 109530,
+      "word": "一诺所诺皆成",
+      "onboard_time": 1743760941,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109194,
       "num": 273160,
       "word": "棋士反套路",
@@ -9459,6 +9539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101496,
+      "num": 101496,
+      "word": "赵露思清明节致敬先烈",
+      "onboard_time": 1743760882,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101422,
       "num": 101422,
       "word": "人民海军76周年",
@@ -9547,6 +9635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99119,
+      "num": 99119,
+      "word": "清明档新片票房破1亿",
+      "onboard_time": 1743760342,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98997,
       "num": 98997,
       "word": "终于明白了什么是无痛上班",
@@ -9585,6 +9681,14 @@
       "onboard_time": 1743678022,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 98457,
+      "num": 98457,
+      "word": "小猫 请苍天辨忠奸",
+      "onboard_time": 1743762321,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 98081,
@@ -9681,14 +9785,6 @@
       "onboard_time": 1743731361,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96072,
-      "num": 96072,
-      "word": "马伯骞新剧一上线就难崩",
-      "onboard_time": 1743759560,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 94689,
@@ -9897,6 +9993,14 @@
       "onboard_time": 1743759560,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88811,
+      "num": 158191,
+      "word": "对16家美国实体列入出口管制管控",
+      "onboard_time": 1743762141,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88502,
@@ -10345,6 +10449,14 @@
       "onboard_time": 1743427463,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70604,
+      "num": 128679,
+      "word": "将11家美企列入不可靠实体清单",
+      "onboard_time": 1743762201,
+      "rank": 34,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 70472,
@@ -11256,6 +11368,14 @@
       "word": "1604要维修结果修了1704",
       "onboard_time": 1743582803,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40332,
+      "num": 98640,
+      "word": "致敬公安英雄",
+      "onboard_time": 1743761062,
+      "rank": 48,
       "category": "民生新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743759590713,
+  "endTime": 1743762371041,
   "band_list": [
     {
       "raw_hot": 3529783,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1414591,
+      "num": 1112798,
+      "word": "芭乐 酸梅粉",
+      "onboard_time": 1743758723,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1364965,
       "num": 1189429,
       "word": "辣目洋子暴瘦20斤",
@@ -89,6 +97,14 @@
       "onboard_time": 1743692422,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 981886,
+      "num": 1157101,
+      "word": "甲亢哥让合影小孩哥接爸爸电话",
+      "onboard_time": 1743756861,
+      "rank": 8,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 972027,
@@ -171,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 679237,
+      "num": 679237,
+      "word": "和出轨老公坚持丧偶式婚姻",
+      "onboard_time": 1743758242,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 657688,
       "num": 528480,
       "word": "特朗普因对中国征收关税被起诉",
@@ -225,14 +249,6 @@
       "onboard_time": 1743722358,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 552672,
-      "num": 552672,
-      "word": "甲亢哥让合影小孩哥接爸爸电话",
-      "onboard_time": 1743756861,
-      "rank": 8,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 551247,
@@ -321,6 +337,14 @@
       "onboard_time": 1743749602,
       "rank": 12,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 448374,
+      "num": 448374,
+      "word": "叶童一公排名",
+      "onboard_time": 1743758181,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 445407,
@@ -467,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361298,
+      "num": 318357,
+      "word": "18岁禁毒战士的葬礼全场被马赛克",
+      "onboard_time": 1743755841,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358388,
       "num": 267249,
       "word": "幸好我是汉族贵族也太累了",
@@ -481,6 +513,14 @@
       "onboard_time": 1743724821,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344443,
+      "num": 344443,
+      "word": "章昊第一章回国第二章进货",
+      "onboard_time": 1743756982,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 335273,
@@ -505,14 +545,6 @@
       "onboard_time": 1743725360,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 323810,
-      "num": 318357,
-      "word": "18岁禁毒战士的葬礼全场被马赛克",
-      "onboard_time": 1743755841,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 321628,
@@ -555,14 +587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 288911,
-      "num": 288911,
-      "word": "芭乐 酸梅粉",
-      "onboard_time": 1743758723,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 284464,
       "num": 272172,
       "word": "玫瑰公主孟子义",
@@ -585,6 +609,14 @@
       "onboard_time": 1743737481,
       "rank": 39,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 275476,
+      "num": 275476,
+      "word": "何老师50岁的体力",
+      "onboard_time": 1743759261,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 273317,
@@ -683,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241105,
-      "num": 201174,
-      "word": "章昊第一章回国第二章进货",
-      "onboard_time": 1743756982,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 236855,
       "num": 236855,
       "word": "华晨宇 郑楠编曲",
@@ -705,14 +729,6 @@
       "onboard_time": 1743749961,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232451,
-      "num": 232451,
-      "word": "和出轨老公坚持丧偶式婚姻",
-      "onboard_time": 1743758242,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 230176,
@@ -745,6 +761,14 @@
       "onboard_time": 1743724281,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 224131,
+      "num": 203353,
+      "word": "之后会火IU 冷门歌手孙燕姿",
+      "onboard_time": 1743760221,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 222866,
@@ -811,6 +835,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 208667,
+      "num": 303871,
+      "word": "对原产美国所有进口商品加征34%关税",
+      "onboard_time": 1743761781,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 207458,
       "num": 423486,
       "word": "清明思念如青草漫过山野",
@@ -825,6 +857,14 @@
       "onboard_time": 1743746960,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206676,
+      "num": 206676,
+      "word": "阿条姐登顶世界第一",
+      "onboard_time": 1743761541,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 206083,
@@ -897,6 +937,14 @@
       "onboard_time": 1743735321,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193232,
+      "num": 193232,
+      "word": "董力追着阿诺猛亲",
+      "onboard_time": 1743758962,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 192117,
@@ -987,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173499,
+      "num": 173499,
+      "word": "热烈",
+      "onboard_time": 1743761722,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172589,
       "num": 172589,
       "word": "中方已向日方严正交涉",
@@ -1043,14 +1099,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164962,
-      "num": 164962,
-      "word": "叶童一公排名",
-      "onboard_time": 1743758181,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164437,
       "num": 164437,
       "word": "节气里的大美中国",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1743737600,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161107,
+      "num": 161107,
+      "word": "特朗普说美股大跌因为美国病入膏肓",
+      "onboard_time": 1743761001,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 159540,
@@ -1123,20 +1179,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155816,
+      "num": 155816,
+      "word": "赵丽颖的姐感",
+      "onboard_time": 1743759861,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155118,
       "num": 155118,
       "word": "赵丽颖替边缘人群发声",
       "onboard_time": 1743742640,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 153895,
-      "num": 153895,
-      "word": "董力追着阿诺猛亲",
-      "onboard_time": 1743758962,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 153477,
@@ -1435,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127158,
+      "num": 127158,
+      "word": "丁程鑫太乙真人步",
+      "onboard_time": 1743761001,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126936,
       "num": 126936,
       "word": "中国快递协会发布严正声明",
@@ -1483,14 +1547,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 121644,
-      "num": 121644,
-      "word": "何老师50岁的体力",
-      "onboard_time": 1743759261,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121392,
       "num": 114873,
       "word": "韩国紧急戒严风波123天",
@@ -1529,6 +1585,22 @@
       "onboard_time": 1743725360,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116451,
+      "num": 116451,
+      "word": "孟美岐出发创造营总决赛",
+      "onboard_time": 1743760342,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115739,
+      "num": 115739,
+      "word": "马伯骞新剧一上线就难崩",
+      "onboard_time": 1743759560,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 115600,
@@ -1651,6 +1723,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 109530,
+      "num": 109530,
+      "word": "一诺所诺皆成",
+      "onboard_time": 1743760941,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108701,
       "num": 108701,
       "word": "张月铭退团",
@@ -1731,6 +1811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 101496,
+      "num": 101496,
+      "word": "赵露思清明节致敬先烈",
+      "onboard_time": 1743760882,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101033,
       "num": 101033,
       "word": "峰哥取代徐静雨与美娜再续前缘",
@@ -1763,12 +1851,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99119,
+      "num": 99119,
+      "word": "清明档新片票房破1亿",
+      "onboard_time": 1743760342,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98809,
       "num": 98809,
       "word": "千万网红刀小刀被查",
       "onboard_time": 1743674721,
       "rank": 34,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 98457,
+      "num": 98457,
+      "word": "小猫 请苍天辨忠奸",
+      "onboard_time": 1743762321,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 98035,
@@ -1817,14 +1921,6 @@
       "onboard_time": 1743731361,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96072,
-      "num": 96072,
-      "word": "马伯骞新剧一上线就难崩",
-      "onboard_time": 1743759560,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 94361,
@@ -1913,6 +2009,14 @@
       "onboard_time": 1743759560,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88811,
+      "num": 158191,
+      "word": "对16家美国实体列入出口管制管控",
+      "onboard_time": 1743762141,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88502,
@@ -2075,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70604,
+      "num": 128679,
+      "word": "将11家美企列入不可靠实体清单",
+      "onboard_time": 1743762201,
+      "rank": 34,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 68046,
       "num": 68046,
       "word": "值得爱",
@@ -2224,6 +2336,14 @@
       "word": "和想念的人说一声我想你了",
       "onboard_time": 1743745761,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40332,
+      "num": 98640,
+      "word": "致敬公安英雄",
+      "onboard_time": 1743761062,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
