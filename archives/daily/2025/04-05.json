@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743784167565,
+  "endTime": 1743785149296,
   "band_list": [
     {
       "raw_hot": 1230915,
@@ -43,7 +43,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 326219,
+      "raw_hot": 448804,
       "num": 298927,
       "word": "赵丽颖没法看电影里自己跟孩子的那一段",
       "onboard_time": 1743782840,
@@ -123,20 +123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198651,
+      "num": 198651,
+      "word": "加拿大就美国关税向WTO申诉",
+      "onboard_time": 1743782420,
+      "rank": 18,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 193847,
       "num": 139605,
       "word": "赵丽颖演技",
       "onboard_time": 1743763941,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 180468,
-      "num": 180468,
-      "word": "加拿大就美国关税向WTO申诉",
-      "onboard_time": 1743782420,
-      "rank": 18,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 176195,
@@ -227,6 +227,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105822,
+      "num": 133951,
+      "word": "王楚钦幽默调侃徐瑛彬",
+      "onboard_time": 1743783140,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105692,
+      "num": 105692,
+      "word": "尹锡悦被罢免总统职务",
+      "onboard_time": 1743733702,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105591,
       "num": 105591,
       "word": "被妻子供上博士后的中年男教师",
@@ -251,12 +267,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 87694,
-      "num": 133951,
-      "word": "王楚钦幽默调侃徐瑛彬",
-      "onboard_time": 1743783140,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 94398,
+      "num": 94398,
+      "word": "程潇大银幕表现",
+      "onboard_time": 1743781340,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 86346,
@@ -267,12 +283,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83333,
-      "num": 83333,
-      "word": "尹锡悦被罢免总统职务",
-      "onboard_time": 1743733702,
-      "rank": 36,
-      "category": "国际时政"
+      "raw_hot": 83438,
+      "num": 302985,
+      "word": "郑钦文vs亚历山德洛娃",
+      "onboard_time": 1743783079,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 80120,
@@ -315,14 +331,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 64653,
-      "num": 302985,
-      "word": "郑钦文vs亚历山德洛娃",
-      "onboard_time": 1743783079,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64221,
       "num": 64221,
       "word": "中国舞协主席冯双白被查",
@@ -355,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59488,
+      "num": 59488,
+      "word": "六公主评王一博热烈",
+      "onboard_time": 1743780562,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 59073,
       "num": 59073,
       "word": "华晨宇乐园演唱会从早蹦到晚",
@@ -379,20 +395,52 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56603,
-      "num": 56603,
-      "word": "六公主评王一博热烈",
-      "onboard_time": 1743780562,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 56574,
       "num": 56574,
       "word": "对美加征关税采取反制措施",
       "onboard_time": 1743762862,
       "rank": 49,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 48827,
+      "num": 55575,
+      "word": "王珞丹一公排名",
+      "onboard_time": 1743785059,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 48192,
+      "num": 54999,
+      "word": "赵小童伴着最后的晚樱夜骑",
+      "onboard_time": 1743784339,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 48047,
+      "num": 54802,
+      "word": "重庆知名地产大佬被立案调查",
+      "onboard_time": 1743774502,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46846,
+      "num": 54651,
+      "word": "李金铭十年前剩饭保留至今",
+      "onboard_time": 1743739761,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24632,
+      "num": 83845,
+      "word": "古人把玉变成一整个极简美学",
+      "onboard_time": 1743782301,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5724,
