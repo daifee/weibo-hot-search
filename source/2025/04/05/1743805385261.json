@@ -1,0 +1,410 @@
+{
+  "runTime": 1743805385261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 116757,
+        "num": 368750,
+        "word": "对原产美国所有进口商品加征34%关税",
+        "onboard_time": 1743761781,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87699,
+        "num": 87699,
+        "word": "欧盟称已准备好回应美方加税",
+        "onboard_time": 1743799873,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3841,
+        "num": 82487,
+        "word": "清明念英烈",
+        "onboard_time": 1743671962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82201,
+        "num": 82201,
+        "word": "赵丽颖没法看电影里自己跟孩子的那一段",
+        "onboard_time": 1743782840,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82098,
+        "num": 82098,
+        "word": "中方在世贸组织起诉美对等关税措施",
+        "onboard_time": 1743762862,
+        "rank": 4,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 262773,
+        "num": 81821,
+        "word": "特朗普说永远不会改变政策",
+        "onboard_time": 1743781941,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80561,
+        "num": 80561,
+        "word": "中方反制措施来了",
+        "onboard_time": 1743764421,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41758,
+        "num": 69464,
+        "word": "VaVa 灰原哀",
+        "onboard_time": 1743768863,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21253,
+        "num": 64096,
+        "word": "春节后首个小长假点燃春游热潮",
+        "onboard_time": 1743773303,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61123,
+        "num": 61123,
+        "word": "尹锡悦被罢免总统职务",
+        "onboard_time": 1743733702,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56134,
+        "num": 56134,
+        "word": "江西4名男子盗窃1.6元被刑拘",
+        "onboard_time": 1743775463,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53854,
+        "num": 53854,
+        "word": "原来假期最好的休息不是睡觉",
+        "onboard_time": 1743775763,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47256,
+        "num": 47256,
+        "word": "美媒曝白宫至少拉了20个群聊机密",
+        "onboard_time": 1743775042,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38560,
+        "num": 38560,
+        "word": "黄明昊 Justin",
+        "onboard_time": 1743768682,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37485,
+        "num": 37485,
+        "word": "阿Sa井柏然宋仲基黄轩合照",
+        "onboard_time": 1743776422,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36999,
+        "num": 36999,
+        "word": "美股七姐妹大跌",
+        "onboard_time": 1743788656,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34404,
+        "num": 34404,
+        "word": "三个动作疏肝理气",
+        "onboard_time": 1743781880,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31372,
+        "num": 31372,
+        "word": "房琪鼓励张含韵的那句话",
+        "onboard_time": 1743765982,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28460,
+        "num": 31301,
+        "word": "李晟感谢49位朋友的支持",
+        "onboard_time": 1743775463,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27802,
+        "num": 31151,
+        "word": "丁禹兮 晋江式演技",
+        "onboard_time": 1743771143,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124283,
+        "num": 30853,
+        "word": "甲亢哥评价中国行城市体验排名",
+        "onboard_time": 1743776602,
+        "rank": 20,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 73517,
+        "num": 30651,
+        "word": "和出轨老公坚持丧偶式婚姻",
+        "onboard_time": 1743758242,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30631,
+        "num": 30631,
+        "word": "中国舞协主席冯双白被查",
+        "onboard_time": 1743779423,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30598,
+        "num": 30598,
+        "word": "王楚钦幽默调侃徐瑛彬",
+        "onboard_time": 1743783140,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30314,
+        "num": 30314,
+        "word": "被妻子供上博士后的中年男教师",
+        "onboard_time": 1743768682,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26981,
+        "num": 26981,
+        "word": "金子涵 乐华",
+        "onboard_time": 1743764542,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25543,
+        "num": 25543,
+        "word": "杜邦被立案调查",
+        "onboard_time": 1743768922,
+        "rank": 26,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 25485,
+        "num": 25485,
+        "word": "甲亢哥香港行最好的22分钟",
+        "onboard_time": 1743774203,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25271,
+        "num": 25271,
+        "word": "郑钦文vs亚历山德洛娃",
+        "onboard_time": 1743783079,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24630,
+        "num": 24923,
+        "word": "鞠婧祎躺在陈都灵怀里",
+        "onboard_time": 1743771442,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68725,
+        "num": 24903,
+        "word": "在缅华人视频通话时目睹妻儿被掩埋",
+        "onboard_time": 1743800354,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 24751,
+        "num": 24751,
+        "word": "当地回应4名男子盗窃1.6元被刑拘",
+        "onboard_time": 1743800655,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24713,
+        "num": 24713,
+        "word": "小伙患抑郁暴食2年长近百斤",
+        "onboard_time": 1743763461,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24401,
+        "num": 24401,
+        "word": "谢娜齐思钧补刀",
+        "onboard_time": 1743803833,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23844,
+        "num": 23844,
+        "word": "向阳花票房",
+        "onboard_time": 1743763461,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23709,
+        "num": 23709,
+        "word": "重庆知名地产大佬被立案调查",
+        "onboard_time": 1743774502,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23307,
+        "num": 23307,
+        "word": "唐嫣古代四方步",
+        "onboard_time": 1743787036,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22861,
+        "num": 22861,
+        "word": "阿条姐登顶世界第一",
+        "onboard_time": 1743761541,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22303,
+        "num": 22303,
+        "word": "孙俪演技",
+        "onboard_time": 1743778341,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22207,
+        "num": 22207,
+        "word": "加拿大就美国关税向WTO申诉",
+        "onboard_time": 1743782420,
+        "rank": 39,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 22046,
+        "num": 22046,
+        "word": "SM新男团 撞名",
+        "onboard_time": 1743768442,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20718,
+        "num": 22044,
+        "word": "对美加征关税采取反制措施",
+        "onboard_time": 1743762862,
+        "rank": 41,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 19353,
+        "num": 22042,
+        "word": "程潇大银幕表现",
+        "onboard_time": 1743781340,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18482,
+        "num": 22039,
+        "word": "樊振东十年铁血一单",
+        "onboard_time": 1743769702,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17186,
+        "num": 22037,
+        "word": "刀小刀经纪公司声明",
+        "onboard_time": 1743777863,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 16883,
+        "num": 22037,
+        "word": "杜邦",
+        "onboard_time": 1743770722,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16633,
+        "num": 22032,
+        "word": "赵丽颖演技",
+        "onboard_time": 1743763941,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16458,
+        "num": 22030,
+        "word": "Speed甲亢哥安利国产动画超能立方",
+        "onboard_time": 1743804494,
+        "rank": 47,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 15005,
+        "num": 22028,
+        "word": "眼前有山河心中有家国",
+        "onboard_time": 1743787757,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 14820,
+        "num": 22028,
+        "word": "广东湛江农村百万中式婚礼酒席",
+        "onboard_time": 1743803775,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#红色基因是砥砺前行的力量#"
+    }
+  }
+}
