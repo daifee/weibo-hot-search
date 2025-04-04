@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743749223074,
+  "endTime": 1743751438760,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3529783,
+      "num": 3018562,
+      "word": "叶童怼房琪",
+      "onboard_time": 1743748041,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3422427,
       "num": 1837461,
       "word": "爷爷为夺回孙子被人贩踩出眼珠",
@@ -121,14 +129,6 @@
       "onboard_time": 1743669022,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3018562,
-      "num": 3018562,
-      "word": "叶童怼房琪",
-      "onboard_time": 1743748041,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 2920421,
@@ -1203,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 936931,
+      "num": 1149909,
+      "word": "全国最能生娃省份排名出炉",
+      "onboard_time": 1743746120,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 932582,
       "num": 1149213,
       "word": "iPhone17Pro十大升级",
@@ -1401,6 +1409,14 @@
       "onboard_time": 1743649822,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 849044,
+      "num": 849044,
+      "word": "辣目洋子暴瘦20斤",
+      "onboard_time": 1743750441,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 843928,
@@ -1681,6 +1697,14 @@
       "onboard_time": 1743398841,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 735675,
+      "num": 308799,
+      "word": "吴启华金巧巧分手22年后演夫妻",
+      "onboard_time": 1743750562,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 732831,
@@ -2368,14 +2392,6 @@
       "word": "清明节",
       "onboard_time": 1743722358,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 578139,
-      "num": 578139,
-      "word": "全国最能生娃省份排名出炉",
-      "onboard_time": 1743746120,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -3155,6 +3171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453598,
+      "num": 289893,
+      "word": "陈泽",
+      "onboard_time": 1743749602,
+      "rank": 12,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 452567,
       "num": 326985,
       "word": "疑似沈月亚洲最美面孔脱敏训练",
@@ -3348,7 +3372,7 @@
     },
     {
       "raw_hot": 417396,
-      "num": 319070,
+      "num": 331464,
       "word": "加拿大正在印度化",
       "onboard_time": 1743744980,
       "rank": 33,
@@ -3633,6 +3657,14 @@
       "onboard_time": 1743507383,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 394649,
+      "num": 289667,
+      "word": "何泓姗淘汰房琪觉得很抱歉",
+      "onboard_time": 1743747681,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 393436,
@@ -4369,14 +4401,6 @@
       "onboard_time": 1743439038,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 331000,
-      "num": 268792,
-      "word": "何泓姗淘汰房琪觉得很抱歉",
-      "onboard_time": 1743747681,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 330527,
@@ -5763,6 +5787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249600,
+      "num": 249600,
+      "word": "许嵩身上痒就去洗澡",
+      "onboard_time": 1743749661,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249338,
       "num": 269934,
       "word": "曲曲大女人偷税被罚",
@@ -6683,6 +6715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211125,
+      "num": 211125,
+      "word": "VaVa为了陪卡琳娜灭吴宣仪的灯",
+      "onboard_time": 1743749781,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210455,
       "num": 210455,
       "word": "刘诗诗和好友们一起闪现",
@@ -7321,6 +7361,14 @@
       "onboard_time": 1743390620,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199718,
+      "num": 290502,
+      "word": "特朗普回应美股大跌",
+      "onboard_time": 1743749961,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 199656,
@@ -8043,6 +8091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188443,
+      "num": 178045,
+      "word": "吴宣仪表达",
+      "onboard_time": 1743749961,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188330,
       "num": 188330,
       "word": "解放军喊话台舰最新现场视频",
@@ -8313,6 +8369,14 @@
       "onboard_time": 1743590062,
       "rank": 38,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 184097,
+      "num": 184097,
+      "word": "张靓颖喊谭维维老公",
+      "onboard_time": 1743750082,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 184065,
@@ -8849,6 +8913,14 @@
       "onboard_time": 1743582922,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174596,
+      "num": 174596,
+      "word": "叶童张小婉这段好虐",
+      "onboard_time": 1743749300,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 174513,
@@ -11611,6 +11683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136053,
+      "num": 136053,
+      "word": "身上多处被烤熟的鹅坚强已能进食",
+      "onboard_time": 1743751040,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136051,
       "num": 136051,
       "word": "湖人vs灰熊",
@@ -13859,6 +13939,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 105362,
+      "num": 105362,
+      "word": "梁田处理方式堪称半熟恋爱范本",
+      "onboard_time": 1743750741,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105269,
       "num": 105269,
       "word": "不要焦虑2小时和8公里以外的事",
@@ -14240,6 +14328,14 @@
       "word": "新能源汽车维修工月薪或达2万元",
       "onboard_time": 1743304530,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99238,
+      "num": 114367,
+      "word": "烈士骸骨和树根长在了一起",
+      "onboard_time": 1743749602,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -14777,6 +14873,14 @@
       "onboard_time": 1743604045,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88060,
+      "num": 88060,
+      "word": "医生解读明星热衷的腹膜外剖宫产",
+      "onboard_time": 1743750141,
+      "rank": 48,
+      "category": "健康医疗,艺人"
     },
     {
       "raw_hot": 87961,
@@ -16201,6 +16305,14 @@
       "onboard_time": 1743411805,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52781,
+      "num": 217231,
+      "word": "林高远vs奥恰洛夫",
+      "onboard_time": 1743751101,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 52709,
@@ -18065,6 +18177,14 @@
       "onboard_time": 1743626415,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16128,
+      "num": 178896,
+      "word": "李在明是最热门的韩国总统人选",
+      "onboard_time": 1743751221,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16022,

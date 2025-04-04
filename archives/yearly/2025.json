@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1743749223074,
+  "endTime": 1743751438760,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1475,6 +1475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 3529783,
+      "num": 3018562,
+      "word": "叶童怼房琪",
+      "onboard_time": 1743748041,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3521332,
       "num": 332117,
       "word": "大S财产第一继承人",
@@ -2033,14 +2041,6 @@
       "onboard_time": 1736072185,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 3018562,
-      "num": 3018562,
-      "word": "叶童怼房琪",
-      "onboard_time": 1743748041,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 3015707,
