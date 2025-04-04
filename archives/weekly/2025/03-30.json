@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743741838056,
+  "endTime": 1743744278643,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -2675,6 +2675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 514539,
+      "num": 441548,
+      "word": "刀小刀回应被警察带走",
+      "onboard_time": 1743741201,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 512635,
       "num": 512635,
       "word": "乙肝治疗将进入功能性治愈时代",
@@ -2721,6 +2729,14 @@
       "onboard_time": 1743635298,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 504683,
+      "num": 441018,
+      "word": "speed 香港",
+      "onboard_time": 1743741261,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 500905,
@@ -3241,6 +3257,14 @@
       "onboard_time": 1743730522,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 425768,
+      "num": 425768,
+      "word": "沈阳一楼发生火灾2名消防员牺牲",
+      "onboard_time": 1743741261,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 424774,
@@ -5483,14 +5507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263046,
-      "num": 263046,
-      "word": "刀小刀回应被警察带走",
-      "onboard_time": 1743741201,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 262534,
       "num": 267991,
       "word": "台湾女教师因批评台独遭台当局约谈",
@@ -5803,14 +5819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244073,
-      "num": 244073,
-      "word": "speed 香港",
-      "onboard_time": 1743741261,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243974,
       "num": 243974,
       "word": "林钟勋申裕斌混双夺冠",
@@ -5833,6 +5841,14 @@
       "onboard_time": 1743404961,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241892,
+      "num": 241892,
+      "word": "洪小铃得女",
+      "onboard_time": 1743741381,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 240994,
@@ -7137,6 +7153,14 @@
       "onboard_time": 1743306270,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200775,
+      "num": 183044,
+      "word": "何丹彤回应与刘亦菲同框",
+      "onboard_time": 1743744082,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 200726,
@@ -8683,14 +8707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175035,
-      "num": 175035,
-      "word": "洪小铃得女",
-      "onboard_time": 1743741381,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174963,
       "num": 174963,
       "word": "淮水竹亭配角全员升咖",
@@ -9131,6 +9147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167145,
+      "num": 167145,
+      "word": "浪姐更新",
+      "onboard_time": 1743742222,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166942,
       "num": 280534,
       "word": "当地回应拟取消老年人免费公交",
@@ -9145,6 +9169,14 @@
       "onboard_time": 1743678862,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166486,
+      "num": 166486,
+      "word": "勇士vs湖人",
+      "onboard_time": 1743743781,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 166360,
@@ -9827,6 +9859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155118,
+      "num": 155118,
+      "word": "赵丽颖替边缘人群发声",
+      "onboard_time": 1743742640,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155004,
       "num": 155004,
       "word": "国产剧破案题材女主只打高端局",
@@ -10491,14 +10531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146828,
-      "num": 146828,
-      "word": "沈阳一楼发生火灾2名消防员牺牲",
-      "onboard_time": 1743741261,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146560,
       "num": 146560,
       "word": "永和九年 abandon",
@@ -10689,6 +10721,14 @@
       "onboard_time": 1743659242,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145000,
+      "num": 145000,
+      "word": "33岁初代网红小霸王生女",
+      "onboard_time": 1743742941,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 144801,
@@ -10971,6 +11011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141894,
+      "num": 141894,
+      "word": "詹姆斯三分",
+      "onboard_time": 1743740121,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141740,
       "num": 182144,
       "word": "4月一起加油",
@@ -11115,6 +11163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140087,
+      "num": 144459,
+      "word": "GAI布瑞吉十年还是我们俩",
+      "onboard_time": 1743743061,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140021,
       "num": 140021,
       "word": "被陈哲远耍了",
@@ -11179,6 +11235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138756,
+      "num": 138756,
+      "word": "刀小刀前男友父亲回应",
+      "onboard_time": 1743741922,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 138671,
       "num": 138671,
       "word": "原神",
@@ -11209,14 +11273,6 @@
       "onboard_time": 1743740542,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138292,
-      "num": 138292,
-      "word": "詹姆斯三分",
-      "onboard_time": 1743740121,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 138276,
@@ -11928,6 +11984,14 @@
       "word": "吴宣仪王权醉横屏剧照",
       "onboard_time": 1743344782,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129282,
+      "num": 129282,
+      "word": "闺蜜被害未报警反成下个受害者",
+      "onboard_time": 1743744021,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -12987,6 +13051,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 115150,
+      "num": 115150,
+      "word": "杜琪峰最新港剧内地先播",
+      "onboard_time": 1743743961,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115145,
       "num": 115145,
       "word": "苹果首席工程师孔龙自美归国",
@@ -13089,6 +13161,14 @@
       "onboard_time": 1743650002,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113658,
+      "num": 113658,
+      "word": "巴特勒三分",
+      "onboard_time": 1743743061,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 113648,
@@ -13795,6 +13875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102230,
+      "num": 102230,
+      "word": "许昕被叫许许叔叔",
+      "onboard_time": 1743744261,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101693,
       "num": 113225,
       "word": "粉丝cos经纪人账号被陈哲远回复",
@@ -13929,6 +14017,14 @@
       "onboard_time": 1743731061,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99444,
+      "num": 418680,
+      "word": "既是节气又是节日的清明",
+      "onboard_time": 1743741080,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99326,
@@ -15899,14 +15995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52478,
-      "num": 418680,
-      "word": "既是节气又是节日的清明",
-      "onboard_time": 1743741080,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52369,
       "num": 437696,
       "word": "尹锡悦弹劾案4月4日11时宣判",
@@ -17363,6 +17451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 23195,
+      "num": 129109,
+      "word": "头一回见这样的哄娃方式",
+      "onboard_time": 1743743302,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22961,
       "num": 29625,
       "word": "在缅中国人称震后联系家人手在抖",
@@ -18035,7 +18131,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10411,
+      "raw_hot": 10453,
       "num": 458612,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1743672202,
