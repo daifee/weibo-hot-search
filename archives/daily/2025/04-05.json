@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743806438774,
+  "endTime": 1743808978282,
   "band_list": [
     {
       "raw_hot": 1230915,
@@ -35,6 +35,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 485118,
+      "num": 165069,
+      "word": "特朗普说永远不会改变政策",
+      "onboard_time": 1743781941,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 451609,
       "num": 852535,
       "word": "原来假期最好的休息不是睡觉",
@@ -51,14 +59,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 330021,
-      "num": 128282,
-      "word": "特朗普说永远不会改变政策",
-      "onboard_time": 1743781941,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 322733,
       "num": 322733,
       "word": "中方反制措施来了",
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 308380,
-      "num": 469724,
+      "num": 753071,
       "word": "对原产美国所有进口商品加征34%关税",
       "onboard_time": 1743761781,
       "rank": 6,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225131,
+      "num": 152217,
+      "word": "在缅华人视频通话时目睹妻儿被掩埋",
+      "onboard_time": 1743800354,
+      "rank": 30,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 223640,
       "num": 223640,
       "word": "SM新男团 撞名",
@@ -161,6 +169,14 @@
       "onboard_time": 1743758242,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146151,
+      "num": 146151,
+      "word": "尹锡悦被罢免总统职务",
+      "onboard_time": 1743733702,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140522,
@@ -211,14 +227,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 123454,
-      "num": 30935,
-      "word": "在缅华人视频通话时目睹妻儿被掩埋",
-      "onboard_time": 1743800354,
-      "rank": 30,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 123135,
       "num": 123135,
       "word": "jayjay公开",
@@ -235,6 +243,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112419,
+      "num": 112419,
+      "word": "欧盟称已准备好回应美方加税",
+      "onboard_time": 1743799873,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 110248,
+      "num": 110248,
+      "word": "江西4名男子盗窃1.6元被刑拘",
+      "onboard_time": 1743775463,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110072,
       "num": 110072,
       "word": "阿条姐登顶世界第一",
@@ -243,20 +267,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105692,
-      "num": 105692,
-      "word": "尹锡悦被罢免总统职务",
-      "onboard_time": 1743733702,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 105591,
       "num": 105591,
       "word": "被妻子供上博士后的中年男教师",
       "onboard_time": 1743768682,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99243,
+      "num": 156557,
+      "word": "郑钦文0比2亚历山德洛娃",
+      "onboard_time": 1743805575,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 95874,
@@ -275,14 +299,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 94575,
-      "num": 94575,
-      "word": "欧盟称已准备好回应美方加税",
-      "onboard_time": 1743799873,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 94398,
       "num": 94398,
       "word": "程潇大银幕表现",
@@ -291,12 +307,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87833,
+      "num": 87833,
+      "word": "谢娜齐思钧补刀",
+      "onboard_time": 1743803833,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86346,
       "num": 86346,
       "word": "祝绪丹一公第二",
       "onboard_time": 1743767721,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86165,
+      "num": 86165,
+      "word": "美股七姐妹大跌",
+      "onboard_time": 1743788656,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 83438,
@@ -337,14 +369,6 @@
       "onboard_time": 1743777863,
       "rank": 39,
       "category": "网红"
-    },
-    {
-      "raw_hot": 71031,
-      "num": 71031,
-      "word": "江西4名男子盗窃1.6元被刑拘",
-      "onboard_time": 1743775463,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70290,
@@ -419,6 +443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57559,
+      "num": 50734,
+      "word": "广东湛江农村百万中式婚礼酒席",
+      "onboard_time": 1743803775,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57472,
       "num": 305234,
       "word": "春节后首个小长假点燃春游热潮",
@@ -435,12 +467,20 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 50919,
-      "num": 50919,
-      "word": "美股七姐妹大跌",
-      "onboard_time": 1743788656,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 53391,
+      "num": 53391,
+      "word": "唐嫣古代四方步",
+      "onboard_time": 1743787036,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 50875,
+      "num": 50875,
+      "word": "向阳花票房",
+      "onboard_time": 1743763461,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 48192,
@@ -475,36 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43627,
-      "num": 43627,
-      "word": "唐嫣古代四方步",
-      "onboard_time": 1743787036,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 37742,
-      "num": 37742,
-      "word": "向阳花票房",
-      "onboard_time": 1743763461,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 37039,
-      "num": 30852,
-      "word": "谢娜齐思钧补刀",
-      "onboard_time": 1743803833,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 36314,
-      "num": 36314,
-      "word": "郑钦文0比2亚历山德洛娃",
-      "onboard_time": 1743805575,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 44756,
+      "num": 47004,
+      "word": "Speed甲亢哥安利国产动画超能立方",
+      "onboard_time": 1743804494,
+      "rank": 47,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 36009,
@@ -515,20 +531,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33953,
+      "num": 46933,
+      "word": "杜邦",
+      "onboard_time": 1743770722,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30162,
       "num": 30162,
       "word": "檀健次将回归Hi6录制",
       "onboard_time": 1743790276,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27790,
-      "num": 27790,
-      "word": "广东湛江农村百万中式婚礼酒席",
-      "onboard_time": 1743803775,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 25806,
@@ -555,12 +571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23602,
-      "num": 25668,
-      "word": "Speed甲亢哥安利国产动画超能立方",
-      "onboard_time": 1743804494,
-      "rank": 47,
-      "category": "民生新闻,网红"
+      "raw_hot": 23696,
+      "num": 46888,
+      "word": "尹锡悦失去总统退休金等待遇",
+      "onboard_time": 1743808337,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 22324,
+      "num": 46884,
+      "word": "胡梅尔斯退役",
+      "onboard_time": 1743808518,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 22269,
@@ -569,14 +593,6 @@
       "onboard_time": 1743792314,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 20298,
-      "num": 25627,
-      "word": "杜邦",
-      "onboard_time": 1743770722,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17673,

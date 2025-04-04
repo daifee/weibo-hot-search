@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/05 06:40:38
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/05 07:22:58
 </p>
 </blockquote>
 <p>
@@ -1629,6 +1629,12 @@ SM新男团（热度：491910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E6%94%B9%E5%8F%98%E6%94%BF%E7%AD%96%23" target="weibo">
+特朗普说永远不会改变政策（热度：485118）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%8F%9112%E4%B8%AA%E7%BB%88%E4%BA%8E%E9%A2%84%E5%91%8A%E6%96%B0%E5%89%A7%23" target="weibo">
 孙俪发12个终于预告新剧（热度：484912）
 </a>
@@ -2447,12 +2453,6 @@ Uzi妻子宣布胜诉（热度：341626）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%AB%98%E4%BD%8D%E8%B7%B3%E6%B0%B4%E4%BA%86%23" target="weibo">
 国际金价高位跳水了（热度：330527）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E6%94%B9%E5%8F%98%E6%94%BF%E7%AD%96%23" target="weibo">
-特朗普说永远不会改变政策（热度：330021）
 </a>
 </li>
 
@@ -3509,6 +3509,12 @@ PH试纸碰他一下就变黑了 太碱了（热度：225960）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E5%91%A8%E5%B9%B4%E7%9B%B4%E6%92%AD%E6%B2%A1%E9%80%9A%E7%9F%A5cbx%23" target="weibo">
 EXO周年直播没通知cbx（热度：225340）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%BC%85%E5%8D%8E%E4%BA%BA%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D%E6%97%B6%E7%9B%AE%E7%9D%B9%E5%A6%BB%E5%84%BF%E8%A2%AB%E6%8E%A9%E5%9F%8B%23" target="weibo">
+在缅华人视频通话时目睹妻儿被掩埋（热度：225131）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ smtr25（热度：148510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E9%9D%A2%E4%B8%B4%E7%BE%8E%E6%96%B946%25%E9%AB%98%E9%A2%9D%E5%85%B3%E7%A8%8E%23" target="weibo">
 越南面临美方46%高额关税（热度：145468）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E4%B8%80%E4%BE%A8%E5%9B%9E%E5%BA%94%E5%86%85%E5%A8%B1%E7%9C%9F%E5%8D%83%E9%87%91title%23" target="weibo">
-蒋一侨回应内娱真千金title（热度：145467）
 </a>
 </li>
 
