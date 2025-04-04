@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743758771934,
+  "endTime": 1743759590713,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1308,7 +1308,7 @@
     },
     {
       "raw_hot": 900523,
-      "num": 299516,
+      "num": 389776,
       "word": "房琪情商",
       "onboard_time": 1743752420,
       "rank": 10,
@@ -2036,7 +2036,7 @@
     },
     {
       "raw_hot": 625676,
-      "num": 237347,
+      "num": 237656,
       "word": "男子祭祖上香呛了一口烟救自己一命",
       "onboard_time": 1743747681,
       "rank": 20,
@@ -2499,6 +2499,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 552672,
+      "num": 552672,
+      "word": "甲亢哥让合影小孩哥接爸爸电话",
+      "onboard_time": 1743756861,
+      "rank": 8,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 551572,
       "num": 846602,
       "word": "妻子不愿继续生育离婚后获补偿35万",
@@ -2841,6 +2849,14 @@
       "onboard_time": 1743394883,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499559,
+      "num": 499559,
+      "word": "楚后 陈都灵",
+      "onboard_time": 1743756921,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 498494,
@@ -3739,14 +3755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 391379,
-      "num": 391379,
-      "word": "楚后 陈都灵",
-      "onboard_time": 1743756921,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 391274,
       "num": 391274,
       "word": "缅甸幸存者握母亲冰冷的手含泪告别",
@@ -4065,6 +4073,14 @@
       "onboard_time": 1743429204,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 362122,
+      "num": 362122,
+      "word": "殡仪行业工资达地方平均工资3倍",
+      "onboard_time": 1743757581,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361851,
@@ -4572,7 +4588,7 @@
     },
     {
       "raw_hot": 323810,
-      "num": 273102,
+      "num": 318357,
       "word": "18岁禁毒战士的葬礼全场被马赛克",
       "onboard_time": 1743755841,
       "rank": 21,
@@ -4761,14 +4777,6 @@
       "onboard_time": 1743668541,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 313036,
-      "num": 313036,
-      "word": "甲亢哥让合影小孩哥接爸爸电话",
-      "onboard_time": 1743756861,
-      "rank": 8,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 312382,
@@ -5171,6 +5179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 288911,
+      "num": 288911,
+      "word": "芭乐 酸梅粉",
+      "onboard_time": 1743758723,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 288785,
       "num": 288785,
       "word": "红发GISELLE",
@@ -5257,6 +5273,14 @@
       "onboard_time": 1743692782,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 284318,
+      "num": 232667,
+      "word": "请不要和孩子算经济账",
+      "onboard_time": 1743758060,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 283576,
@@ -5995,14 +6019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 245527,
-      "num": 201714,
-      "word": "请不要和孩子算经济账",
-      "onboard_time": 1743758060,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 245020,
       "num": 245020,
       "word": "车银优我是素人",
@@ -6041,6 +6057,14 @@
       "onboard_time": 1743326961,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243833,
+      "num": 243833,
+      "word": "大帅 一诺",
+      "onboard_time": 1743757640,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 243465,
@@ -6289,6 +6313,14 @@
       "onboard_time": 1743397822,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232451,
+      "num": 232451,
+      "word": "和出轨老公坚持丧偶式婚姻",
+      "onboard_time": 1743758242,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 232405,
@@ -7433,14 +7465,6 @@
       "onboard_time": 1743306270,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200794,
-      "num": 200794,
-      "word": "大帅 一诺",
-      "onboard_time": 1743757640,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 200726,
@@ -9603,6 +9627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164962,
+      "num": 164962,
+      "word": "叶童一公排名",
+      "onboard_time": 1743758181,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164834,
       "num": 270580,
       "word": "爸爸当家",
@@ -10339,6 +10371,14 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 153895,
+      "num": 153895,
+      "word": "董力追着阿诺猛亲",
+      "onboard_time": 1743758962,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153888,
       "num": 210111,
       "word": "小乔秘证寻踪新皮肤",
@@ -10667,12 +10707,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 149572,
+      "num": 240614,
+      "word": "虎跳峡长满了东南亚人",
+      "onboard_time": 1743757821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149216,
       "num": 149216,
       "word": "苹果账户凌晨被盗刷162笔",
       "onboard_time": 1743727100,
       "rank": 30,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 149128,
+      "num": 149128,
+      "word": "湖北高校门口一小米汽车撞损护栏",
+      "onboard_time": 1743758242,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148905,
@@ -11283,14 +11339,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142920,
-      "num": 142920,
-      "word": "和出轨老公坚持丧偶式婚姻",
-      "onboard_time": 1743758242,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142822,
       "num": 155228,
       "word": "叶童三公分数",
@@ -11393,6 +11441,14 @@
       "onboard_time": 1743387200,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141929,
+      "num": 141929,
+      "word": "戚薇不做家务是因为灰尘过敏",
+      "onboard_time": 1743758780,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 141894,
@@ -11699,14 +11755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138086,
-      "num": 138086,
-      "word": "叶童一公排名",
-      "onboard_time": 1743758181,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138003,
       "num": 138003,
       "word": "赵丽颖拔刀戏幕后",
@@ -11849,6 +11897,14 @@
       "onboard_time": 1743486862,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136096,
+      "num": 136096,
+      "word": "陈德容因为王蓉淘汰感到内疚",
+      "onboard_time": 1743758181,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 136094,
@@ -12547,6 +12603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127396,
+      "num": 127396,
+      "word": "赵丽颖现身向阳花首映礼",
+      "onboard_time": 1743759082,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127350,
       "num": 127350,
       "word": "红着脸说愿意红着眼说不愿意",
@@ -12601,14 +12665,6 @@
       "onboard_time": 1743666202,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126630,
-      "num": 126630,
-      "word": "湖北高校门口一小米汽车撞损护栏",
-      "onboard_time": 1743758242,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126345,
@@ -13009,6 +13065,14 @@
       "onboard_time": 1743670341,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121644,
+      "num": 121644,
+      "word": "何老师50岁的体力",
+      "onboard_time": 1743759261,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 121628,
@@ -13497,14 +13561,6 @@
       "onboard_time": 1743691163,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115516,
-      "num": 115516,
-      "word": "陈德容因为王蓉淘汰感到内疚",
-      "onboard_time": 1743758181,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 115369,
@@ -14580,7 +14636,7 @@
     },
     {
       "raw_hot": 99238,
-      "num": 114367,
+      "num": 243017,
       "word": "烈士骸骨和树根长在了一起",
       "onboard_time": 1743749602,
       "rank": 36,
@@ -14803,12 +14859,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95842,
-      "num": 95842,
-      "word": "芭乐 酸梅粉",
-      "onboard_time": 1743758723,
-      "rank": 45,
-      "category": "美食"
+      "raw_hot": 96072,
+      "num": 96072,
+      "word": "马伯骞新剧一上线就难崩",
+      "onboard_time": 1743759560,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 95577,
@@ -14921,14 +14977,6 @@
       "onboard_time": 1743687683,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92748,
-      "num": 259236,
-      "word": "殡仪行业工资达地方平均工资3倍",
-      "onboard_time": 1743757581,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92459,
@@ -15113,6 +15161,14 @@
       "onboard_time": 1743636020,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88864,
+      "num": 88864,
+      "word": "王耀庆全英文采访",
+      "onboard_time": 1743759560,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 88790,
@@ -15609,14 +15665,6 @@
       "onboard_time": 1743253163,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76076,
-      "num": 202415,
-      "word": "虎跳峡长满了东南亚人",
-      "onboard_time": 1743757821,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75937,
@@ -17235,6 +17283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39514,
+      "num": 534327,
+      "word": "他们化作山河星辰我们永远记得",
+      "onboard_time": 1743733943,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38996,
       "num": 287334,
       "word": "祁煜真害羞啦",
@@ -17600,14 +17656,6 @@
       "word": "国台办回应解放军联合演训",
       "onboard_time": 1743614236,
       "rank": 49,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 32793,
-      "num": 534327,
-      "word": "他们化作山河星辰我们永远记得",
-      "onboard_time": 1743733943,
-      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -18635,6 +18683,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 14380,
+      "num": 110772,
+      "word": "致敬逆行英烈",
+      "onboard_time": 1743758661,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 14281,
       "num": 39822,
       "word": "中国国际救援队118人紧急集结赴缅甸",
@@ -18889,14 +18945,6 @@
       "onboard_time": 1743628933,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9706,
-      "num": 108003,
-      "word": "致敬逆行英烈",
-      "onboard_time": 1743758661,
-      "rank": 39,
-      "category": "正能量"
     },
     {
       "raw_hot": 9705,
