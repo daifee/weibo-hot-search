@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743787298322,
+  "endTime": 1743788353677,
   "band_list": [
     {
       "raw_hot": 1230915,
@@ -179,7 +179,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128282,
+      "raw_hot": 130378,
       "num": 128282,
       "word": "特朗普说永远不会改变政策",
       "onboard_time": 1743781941,
@@ -411,6 +411,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 54650,
+      "num": 54650,
+      "word": "王蓉盼了浪姐6年",
+      "onboard_time": 1743786737,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48192,
       "num": 54999,
       "word": "赵小童伴着最后的晚樱夜骑",
@@ -443,20 +451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43341,
-      "num": 43341,
+      "raw_hot": 43627,
+      "num": 43627,
       "word": "唐嫣古代四方步",
       "onboard_time": 1743787036,
       "rank": 43,
       "category": "剧集"
     },
     {
-      "raw_hot": 37727,
-      "num": 38903,
-      "word": "王蓉盼了浪姐6年",
-      "onboard_time": 1743786737,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 37742,
+      "num": 37742,
+      "word": "向阳花票房",
+      "onboard_time": 1743763461,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 24632,
@@ -465,6 +473,14 @@
       "onboard_time": 1743782301,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17615,
+      "num": 77260,
+      "word": "眼前有山河心中有家国",
+      "onboard_time": 1743787757,
+      "rank": 18,
+      "category": "正能量"
     },
     {
       "raw_hot": 5724,
@@ -478,6 +494,9 @@
   "hotgov_list": [
     {
       "word": "#红色基因是砥砺前行的力量#"
+    },
+    {
+      "word": "#家国永念致敬英雄#"
     }
   ]
 }
