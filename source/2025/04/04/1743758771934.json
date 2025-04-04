@@ -1,0 +1,410 @@
+{
+  "runTime": 1743758771934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 737726,
+        "num": 1118036,
+        "word": "身上多处被烤熟的鹅坚强已能进食",
+        "onboard_time": 1743751040,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545387,
+        "num": 545387,
+        "word": "00后葬礼主持人工作后开始害怕死亡",
+        "onboard_time": 1743752960,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32793,
+        "num": 534327,
+        "word": "他们化作山河星辰我们永远记得",
+        "onboard_time": 1743733943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 531715,
+        "num": 531715,
+        "word": "向阳花口碑",
+        "onboard_time": 1743755841,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 505463,
+        "num": 505463,
+        "word": "一秒钟 张凌赫",
+        "onboard_time": 1743755301,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446308,
+        "num": 446308,
+        "word": "人体真正需要的7种休息",
+        "onboard_time": 1743753681,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 475734,
+        "num": 419798,
+        "word": "吴启华金巧巧分手22年后演夫妻",
+        "onboard_time": 1743750562,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391379,
+        "num": 391379,
+        "word": "楚后 陈都灵",
+        "onboard_time": 1743756921,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313036,
+        "num": 313036,
+        "word": "甲亢哥让合影小孩哥接爸爸电话",
+        "onboard_time": 1743756861,
+        "rank": 8,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 303274,
+        "num": 303274,
+        "word": "尹锡悦被罢免总统职务",
+        "onboard_time": 1743733702,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 763149,
+        "num": 299516,
+        "word": "房琪情商",
+        "onboard_time": 1743752420,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478513,
+        "num": 285432,
+        "word": "李金铭十年前剩饭保留至今",
+        "onboard_time": 1743739761,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378643,
+        "num": 282291,
+        "word": "小谢称赵露思真的很好",
+        "onboard_time": 1743753020,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323810,
+        "num": 273102,
+        "word": "18岁禁毒战士的葬礼全场被马赛克",
+        "onboard_time": 1743755841,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92748,
+        "num": 259236,
+        "word": "殡仪行业工资达地方平均工资3倍",
+        "onboard_time": 1743757581,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256802,
+        "num": 256802,
+        "word": "当了27年黑户男子有户口了",
+        "onboard_time": 1743755421,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223315,
+        "num": 223315,
+        "word": "清明节",
+        "onboard_time": 1743722358,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204101,
+        "num": 204101,
+        "word": "多哈世乒赛赛程",
+        "onboard_time": 1743758060,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202764,
+        "num": 202764,
+        "word": "RedVelvet 解散",
+        "onboard_time": 1743721997,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76076,
+        "num": 202415,
+        "word": "虎跳峡长满了东南亚人",
+        "onboard_time": 1743757821,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334378,
+        "num": 202224,
+        "word": "男子祭祖上香呛了一口烟救自己一命",
+        "onboard_time": 1743747681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245527,
+        "num": 201714,
+        "word": "请不要和孩子算经济账",
+        "onboard_time": 1743758060,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241105,
+        "num": 201174,
+        "word": "章昊第一章回国第二章进货",
+        "onboard_time": 1743756982,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201063,
+        "num": 201063,
+        "word": "何泓姗淘汰房琪觉得很抱歉",
+        "onboard_time": 1743747681,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200794,
+        "num": 200794,
+        "word": "大帅 一诺",
+        "onboard_time": 1743757640,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199434,
+        "num": 199434,
+        "word": "周杰伦董宇辉录的节目终于要播了",
+        "onboard_time": 1743757220,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163430,
+        "num": 163430,
+        "word": "尹锡悦弹劾案宣判",
+        "onboard_time": 1743733401,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156762,
+        "num": 156762,
+        "word": "疯狂动物城2",
+        "onboard_time": 1743738260,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142920,
+        "num": 142920,
+        "word": "和出轨老公坚持丧偶式婚姻",
+        "onboard_time": 1743758242,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138086,
+        "num": 138086,
+        "word": "叶童一公排名",
+        "onboard_time": 1743758181,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126630,
+        "num": 126630,
+        "word": "湖北高校门口一小米汽车撞损护栏",
+        "onboard_time": 1743758242,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124325,
+        "num": 124325,
+        "word": "抢labubu",
+        "onboard_time": 1743757220,
+        "rank": 31,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 120640,
+        "num": 120640,
+        "word": "人人人人栈桥人人人人",
+        "onboard_time": 1743753861,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 115516,
+        "num": 115516,
+        "word": "陈德容因为王蓉淘汰感到内疚",
+        "onboard_time": 1743758181,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115369,
+        "num": 115369,
+        "word": "蒋一侨回应撞脸蒋璐霞",
+        "onboard_time": 1743756681,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115338,
+        "num": 115338,
+        "word": "浪姐一公排名",
+        "onboard_time": 1743753201,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112285,
+        "num": 112285,
+        "word": "女子花500元找人代祭扫被骗",
+        "onboard_time": 1743746238,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110323,
+        "num": 110323,
+        "word": "韩庚 情绪价值",
+        "onboard_time": 1743756500,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108419,
+        "num": 108419,
+        "word": "speed 香港",
+        "onboard_time": 1743741261,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9706,
+        "num": 108003,
+        "word": "致敬逆行英烈",
+        "onboard_time": 1743758661,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 107862,
+        "num": 107862,
+        "word": "甲亢哥在香港街头不停飙重庆话",
+        "onboard_time": 1743752000,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106991,
+        "num": 106991,
+        "word": "李现 花鸟使",
+        "onboard_time": 1743753140,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101050,
+        "num": 101050,
+        "word": "许嵩身上痒就去洗澡",
+        "onboard_time": 1743749661,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100393,
+        "num": 100393,
+        "word": "沈阳一楼发生火灾2名消防员牺牲",
+        "onboard_time": 1743741261,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100153,
+        "num": 100153,
+        "word": "Angelababy女王权杖",
+        "onboard_time": 1743745160,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 95842,
+        "num": 95842,
+        "word": "芭乐 酸梅粉",
+        "onboard_time": 1743758723,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 93698,
+        "num": 93698,
+        "word": "手机曲面屏为什么消失了",
+        "onboard_time": 1743730040,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 52618,
+        "num": 93616,
+        "word": "8位在韩志愿军烈士身份被确认",
+        "onboard_time": 1743756560,
+        "rank": 47,
+        "category": "民生新闻,军事"
+      },
+      {
+        "raw_hot": 93611,
+        "num": 93611,
+        "word": "日本金融股崩了",
+        "onboard_time": 1743754641,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91565,
+        "num": 91565,
+        "word": "谢娜抓马名场面来啦",
+        "onboard_time": 1743758361,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#种一棵树最好的时间是十年前更是现在#"
+    }
+  }
+}

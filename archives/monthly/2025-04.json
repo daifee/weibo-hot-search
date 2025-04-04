@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743756285181,
+  "endTime": 1743758771934,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -900,7 +900,7 @@
     },
     {
       "raw_hot": 900523,
-      "num": 261296,
+      "num": 299516,
       "word": "房琪情商",
       "onboard_time": 1743752420,
       "rank": 10,
@@ -1683,6 +1683,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 545387,
+      "num": 545387,
+      "word": "00后葬礼主持人工作后开始害怕死亡",
+      "onboard_time": 1743752960,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 545067,
       "num": 437855,
       "word": "蔡徐坤 龙港",
@@ -1721,6 +1729,14 @@
       "onboard_time": 1743605486,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 531715,
+      "num": 531715,
+      "word": "向阳花口碑",
+      "onboard_time": 1743755841,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 529324,
@@ -1865,6 +1881,14 @@
       "onboard_time": 1743512784,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 505463,
+      "num": 505463,
+      "word": "一秒钟 张凌赫",
+      "onboard_time": 1743755301,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 504874,
@@ -2393,6 +2417,14 @@
       "onboard_time": 1743692663,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 391379,
+      "num": 391379,
+      "word": "楚后 陈都灵",
+      "onboard_time": 1743756921,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 390581,
@@ -2987,6 +3019,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 323810,
+      "num": 273102,
+      "word": "18岁禁毒战士的葬礼全场被马赛克",
+      "onboard_time": 1743755841,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323497,
       "num": 555255,
       "word": "刘畊宏回应cos海王被强制关播",
@@ -3081,6 +3121,14 @@
       "onboard_time": 1743668541,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313036,
+      "num": 313036,
+      "word": "甲亢哥让合影小孩哥接爸爸电话",
+      "onboard_time": 1743756861,
+      "rank": 8,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 312382,
@@ -3779,6 +3827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256802,
+      "num": 256802,
+      "word": "当了27年黑户男子有户口了",
+      "onboard_time": 1743755421,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255506,
       "num": 357975,
       "word": "缅甸地震2719人遇难",
@@ -3907,6 +3963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245527,
+      "num": 201714,
+      "word": "请不要和孩子算经济账",
+      "onboard_time": 1743758060,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245020,
       "num": 245020,
       "word": "车银优我是素人",
@@ -3928,6 +3992,14 @@
       "word": "洪小铃得女",
       "onboard_time": 1743741381,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 241105,
+      "num": 201174,
+      "word": "章昊第一章回国第二章进货",
+      "onboard_time": 1743756982,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -3977,14 +4049,6 @@
       "onboard_time": 1743597863,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239214,
-      "num": 239214,
-      "word": "一秒钟 张凌赫",
-      "onboard_time": 1743755301,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 239040,
@@ -4185,14 +4249,6 @@
       "onboard_time": 1743684022,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 226801,
-      "num": 226801,
-      "word": "00后葬礼主持人工作后开始害怕死亡",
-      "onboard_time": 1743752960,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225960,
@@ -4779,6 +4835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204101,
+      "num": 204101,
+      "word": "多哈世乒赛赛程",
+      "onboard_time": 1743758060,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203815,
       "num": 203815,
       "word": "徐若晗古装丧服路透",
@@ -4867,6 +4931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200794,
+      "num": 200794,
+      "word": "大帅 一诺",
+      "onboard_time": 1743757640,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200541,
       "num": 200541,
       "word": "控制欲强的人有3个心理特点",
@@ -4921,6 +4993,14 @@
       "onboard_time": 1743583223,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199434,
+      "num": 199434,
+      "word": "周杰伦董宇辉录的节目终于要播了",
+      "onboard_time": 1743757220,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 199081,
@@ -5729,14 +5809,6 @@
       "onboard_time": 1743503662,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 181490,
-      "num": 181490,
-      "word": "18岁禁毒战士的葬礼全场被马赛克",
-      "onboard_time": 1743755841,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181053,
@@ -7379,6 +7451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142920,
+      "num": 142920,
+      "word": "和出轨老公坚持丧偶式婚姻",
+      "onboard_time": 1743758242,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142822,
       "num": 155228,
       "word": "叶童三公分数",
@@ -7656,6 +7736,14 @@
       "word": "半熟4左手天花板右手脚底板",
       "onboard_time": 1743567743,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138086,
+      "num": 138086,
+      "word": "叶童一公排名",
+      "onboard_time": 1743758181,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -8219,6 +8307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126630,
+      "num": 126630,
+      "word": "湖北高校门口一小米汽车撞损护栏",
+      "onboard_time": 1743758242,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126345,
       "num": 126345,
       "word": "第一次见歌手这样开嗓的",
@@ -8361,6 +8457,14 @@
       "onboard_time": 1743592581,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124325,
+      "num": 124325,
+      "word": "抢labubu",
+      "onboard_time": 1743757220,
+      "rank": 31,
+      "category": "休闲"
     },
     {
       "raw_hot": 124324,
@@ -8587,14 +8691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 119724,
-      "num": 119724,
-      "word": "向阳花口碑",
-      "onboard_time": 1743755841,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 119542,
       "num": 439198,
       "word": "哪吒联名一出我就管不住我的手",
@@ -8785,6 +8881,30 @@
       "onboard_time": 1743691163,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115516,
+      "num": 115516,
+      "word": "陈德容因为王蓉淘汰感到内疚",
+      "onboard_time": 1743758181,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115369,
+      "num": 115369,
+      "word": "蒋一侨回应撞脸蒋璐霞",
+      "onboard_time": 1743756681,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115338,
+      "num": 115338,
+      "word": "浪姐一公排名",
+      "onboard_time": 1743753201,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 115245,
@@ -9017,6 +9137,14 @@
       "onboard_time": 1743639982,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110323,
+      "num": 110323,
+      "word": "韩庚 情绪价值",
+      "onboard_time": 1743756500,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 109748,
@@ -9499,6 +9627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95842,
+      "num": 95842,
+      "word": "芭乐 酸梅粉",
+      "onboard_time": 1743758723,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 94689,
       "num": 94689,
       "word": "孙俪乌云之上哭破音了",
@@ -9563,6 +9699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92748,
+      "num": 259236,
+      "word": "殡仪行业工资达地方平均工资3倍",
+      "onboard_time": 1743757581,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92459,
       "num": 92459,
       "word": "曝特朗普即将轰炸伊朗",
@@ -9593,6 +9737,14 @@
       "onboard_time": 1743610460,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91565,
+      "num": 91565,
+      "word": "谢娜抓马名场面来啦",
+      "onboard_time": 1743758361,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 91267,
@@ -9992,6 +10144,14 @@
       "word": "4层及以上住宅设电梯",
       "onboard_time": 1743423865,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76076,
+      "num": 202415,
+      "word": "虎跳峡长满了东南亚人",
+      "onboard_time": 1743757821,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -10563,14 +10723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 55857,
-      "num": 231201,
-      "word": "当了27年黑户男子有户口了",
-      "onboard_time": 1743755421,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55586,
       "num": 55586,
       "word": "女枪庄寒雁",
@@ -10689,6 +10841,14 @@
       "onboard_time": 1743524419,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 52618,
+      "num": 93616,
+      "word": "8位在韩志愿军烈士身份被确认",
+      "onboard_time": 1743756560,
+      "rank": 47,
+      "category": "民生新闻,军事"
     },
     {
       "raw_hot": 52537,
@@ -11347,6 +11507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32793,
+      "num": 534327,
+      "word": "他们化作山河星辰我们永远记得",
+      "onboard_time": 1743733943,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31862,
       "num": 136304,
       "word": "张柏芝绸缎衬衫拖地裙",
@@ -11681,14 +11849,6 @@
       "onboard_time": 1743591201,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 23691,
-      "num": 510984,
-      "word": "他们化作山河星辰我们永远记得",
-      "onboard_time": 1743733943,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23382,
@@ -12187,6 +12347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9706,
+      "num": 108003,
+      "word": "致敬逆行英烈",
+      "onboard_time": 1743758661,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 9705,
       "num": 164208,
       "word": "红十字照明无人机点亮曼德勒夜空",
@@ -12312,6 +12480,9 @@
     },
     {
       "word": "#重温习近平总书记这些深情话语#"
+    },
+    {
+      "word": "#种一棵树最好的时间是十年前更是现在#"
     }
   ]
 }
