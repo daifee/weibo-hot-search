@@ -1,7 +1,15 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743748429064,
+  "endTime": 1743749223074,
   "band_list": [
+    {
+      "raw_hot": 3018562,
+      "num": 3018562,
+      "word": "叶童怼房琪",
+      "onboard_time": 1743748041,
+      "rank": 12,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2404409,
       "num": 2404409,
@@ -139,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 625676,
+      "num": 237347,
+      "word": "男子祭祖上香呛了一口烟救自己一命",
+      "onboard_time": 1743747681,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 593316,
       "num": 410042,
       "word": "Angelababy女王权杖",
@@ -171,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 578139,
+      "num": 578139,
+      "word": "全国最能生娃省份排名出炉",
+      "onboard_time": 1743746120,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551247,
       "num": 382805,
       "word": "韩国月租1600的房子",
@@ -195,22 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 499626,
-      "num": 332804,
-      "word": "叶童怼房琪",
-      "onboard_time": 1743748041,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 477803,
-      "num": 237347,
-      "word": "男子祭祖上香呛了一口烟救自己一命",
-      "onboard_time": 1743747681,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 468553,
       "num": 468553,
       "word": "沈阳一楼发生火灾2名消防员牺牲",
@@ -225,14 +233,6 @@
       "onboard_time": 1743734362,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 459940,
-      "num": 459940,
-      "word": "全国最能生娃省份排名出炉",
-      "onboard_time": 1743746120,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 445407,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417396,
+      "num": 319070,
+      "word": "加拿大正在印度化",
+      "onboard_time": 1743744980,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 405292,
       "num": 295377,
       "word": "热烈重映 宋祖儿戏份",
@@ -297,6 +305,14 @@
       "onboard_time": 1743738201,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 381371,
+      "num": 317746,
+      "word": "倒挂",
+      "onboard_time": 1743744980,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 378301,
@@ -355,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331000,
+      "num": 268792,
+      "word": "何泓姗淘汰房琪觉得很抱歉",
+      "onboard_time": 1743747681,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330527,
       "num": 330527,
       "word": "国际金价高位跳水了",
@@ -377,22 +401,6 @@
       "onboard_time": 1743730939,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 319070,
-      "num": 319070,
-      "word": "加拿大正在印度化",
-      "onboard_time": 1743744980,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 317746,
-      "num": 317746,
-      "word": "倒挂",
-      "onboard_time": 1743744980,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 315520,
@@ -521,14 +529,6 @@
       "onboard_time": 1743694641,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 236236,
-      "num": 236236,
-      "word": "何泓姗淘汰房琪觉得很抱歉",
-      "onboard_time": 1743747681,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 230176,
@@ -867,6 +867,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156134,
+      "num": 156134,
+      "word": "吴宣仪卡琳娜友情",
+      "onboard_time": 1743745580,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155825,
+      "num": 234113,
+      "word": "张艺兴旁白讲述不能被遗忘的人",
+      "onboard_time": 1743748701,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155118,
       "num": 155118,
       "word": "赵丽颖替边缘人群发声",
@@ -939,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143625,
+      "num": 143625,
+      "word": "何泓姗淘汰",
+      "onboard_time": 1743748161,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142555,
       "num": 142555,
       "word": "电影热烈重映开了个party",
@@ -969,14 +993,6 @@
       "onboard_time": 1743743061,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 139480,
-      "num": 139480,
-      "word": "吴宣仪卡琳娜友情",
-      "onboard_time": 1743745580,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 139045,
@@ -1011,6 +1027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137455,
+      "num": 137455,
+      "word": "李晟找不到密码把保险箱搬走了",
+      "onboard_time": 1743748401,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137429,
       "num": 137429,
       "word": "17岁女孩曾字母都记不全如今保送北大",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1743695122,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134448,
+      "num": 129374,
+      "word": "邓萃雯 你们不要小看港女",
+      "onboard_time": 1743747621,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 134007,
@@ -1129,14 +1161,6 @@
       "onboard_time": 1743728961,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120736,
-      "num": 120736,
-      "word": "邓萃雯 你们不要小看港女",
-      "onboard_time": 1743747621,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 119530,
@@ -1259,6 +1283,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 108701,
+      "num": 108701,
+      "word": "张月铭退团",
+      "onboard_time": 1743748281,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105152,
+      "num": 105152,
+      "word": "刘学义一部剧换一个护工",
+      "onboard_time": 1743746361,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103982,
       "num": 103982,
       "word": "一人一句缅怀先烈",
@@ -1299,12 +1339,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 100592,
-      "num": 100592,
-      "word": "张月铭退团",
-      "onboard_time": 1743748281,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 101033,
+      "num": 101033,
+      "word": "峰哥取代徐静雨与美娜再续前缘",
+      "onboard_time": 1743745580,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 100190,
@@ -1321,14 +1361,6 @@
       "onboard_time": 1743731061,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99418,
-      "num": 99418,
-      "word": "何泓姗淘汰",
-      "onboard_time": 1743748161,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 98809,
@@ -1369,22 +1401,6 @@
       "onboard_time": 1743731361,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95268,
-      "num": 95268,
-      "word": "刘学义一部剧换一个护工",
-      "onboard_time": 1743746361,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 94835,
-      "num": 94835,
-      "word": "李晟找不到密码把保险箱搬走了",
-      "onboard_time": 1743748401,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 94361,
@@ -1457,6 +1473,14 @@
       "onboard_time": 1743696741,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85231,
+      "num": 85231,
+      "word": "福建舰海试大片震撼",
+      "onboard_time": 1743749122,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 84569,
@@ -1715,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37475,
+      "num": 171910,
+      "word": "专家辟谣抗生素洗头治疗脱发",
+      "onboard_time": 1743747501,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36549,
       "num": 251594,
       "word": "十字路口小区楼道成焚烧纸钱重灾区",
@@ -1767,14 +1799,6 @@
       "num": 227297,
       "word": "遗嘱库里封存的真实遗愿清单",
       "onboard_time": 1743740601,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30222,
-      "num": 171910,
-      "word": "专家辟谣抗生素洗头治疗脱发",
-      "onboard_time": 1743747501,
       "rank": 29,
       "category": "民生新闻"
     },

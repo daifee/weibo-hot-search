@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743748429064,
+  "endTime": 1743749223074,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -81,6 +81,14 @@
       "onboard_time": 1743669022,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3018562,
+      "num": 3018562,
+      "word": "叶童怼房琪",
+      "onboard_time": 1743748041,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 2808853,
@@ -1307,6 +1315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 625676,
+      "num": 237347,
+      "word": "男子祭祖上香呛了一口烟救自己一命",
+      "onboard_time": 1743747681,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 624310,
       "num": 400709,
       "word": "邓为站姐发了fx",
@@ -1520,6 +1536,14 @@
       "word": "清明节",
       "onboard_time": 1743722358,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 578139,
+      "num": 578139,
+      "word": "全国最能生娃省份排名出炉",
+      "onboard_time": 1743746120,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -1819,14 +1843,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 499626,
-      "num": 332804,
-      "word": "叶童怼房琪",
-      "onboard_time": 1743748041,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 498494,
       "num": 399341,
       "word": "薛之谦 愚人节",
@@ -1939,14 +1955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 477803,
-      "num": 237347,
-      "word": "男子祭祖上香呛了一口烟救自己一命",
-      "onboard_time": 1743747681,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 475178,
       "num": 475178,
       "word": "宋茜唐艺昕张佳宁又约上了",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1743660683,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 459940,
-      "num": 459940,
-      "word": "全国最能生娃省份排名出炉",
-      "onboard_time": 1743746120,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 459865,
@@ -2177,6 +2177,14 @@
       "onboard_time": 1743692782,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 417396,
+      "num": 319070,
+      "word": "加拿大正在印度化",
+      "onboard_time": 1743744980,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 415786,
@@ -2393,6 +2401,14 @@
       "onboard_time": 1743516624,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 381371,
+      "num": 317746,
+      "word": "倒挂",
+      "onboard_time": 1743744980,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 379804,
@@ -2811,6 +2827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331000,
+      "num": 268792,
+      "word": "何泓姗淘汰房琪觉得很抱歉",
+      "onboard_time": 1743747681,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330527,
       "num": 330527,
       "word": "国际金价高位跳水了",
@@ -2939,14 +2963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 319070,
-      "num": 319070,
-      "word": "加拿大正在印度化",
-      "onboard_time": 1743744980,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 319039,
       "num": 319039,
       "word": "滴滴崩了",
@@ -2969,14 +2985,6 @@
       "onboard_time": 1743579563,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 317746,
-      "num": 317746,
-      "word": "倒挂",
-      "onboard_time": 1743744980,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 316182,
@@ -3961,14 +3969,6 @@
       "onboard_time": 1743489924,
       "rank": 18,
       "category": "体育,美食"
-    },
-    {
-      "raw_hot": 236236,
-      "num": 236236,
-      "word": "何泓姗淘汰房琪觉得很抱歉",
-      "onboard_time": 1743747681,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 235519,
@@ -6515,6 +6515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156134,
+      "num": 156134,
+      "word": "吴宣仪卡琳娜友情",
+      "onboard_time": 1743745580,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156033,
       "num": 156033,
       "word": "俄军1轰炸机坠毁1名飞行员死亡",
@@ -6529,6 +6537,14 @@
       "onboard_time": 1743519987,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155825,
+      "num": 234113,
+      "word": "张艺兴旁白讲述不能被遗忘的人",
+      "onboard_time": 1743748701,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 155707,
@@ -7163,6 +7179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143625,
+      "num": 143625,
+      "word": "何泓姗淘汰",
+      "onboard_time": 1743748161,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143553,
       "num": 143553,
       "word": "泰高空走廊被震断男子奋力跳向对面",
@@ -7395,14 +7419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139480,
-      "num": 139480,
-      "word": "吴宣仪卡琳娜友情",
-      "onboard_time": 1743745580,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139223,
       "num": 139223,
       "word": "金玟庭愚人节神图点赞最高",
@@ -7505,6 +7521,14 @@
       "onboard_time": 1743486203,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137455,
+      "num": 137455,
+      "word": "李晟找不到密码把保险箱搬走了",
+      "onboard_time": 1743748401,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 137392,
@@ -7657,6 +7681,14 @@
       "onboard_time": 1743671422,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134448,
+      "num": 129374,
+      "word": "邓萃雯 你们不要小看港女",
+      "onboard_time": 1743747621,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 134297,
@@ -8323,14 +8355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120736,
-      "num": 120736,
-      "word": "邓萃雯 你们不要小看港女",
-      "onboard_time": 1743747621,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120569,
       "num": 355981,
       "word": "SUV开启整车终身质保时代",
@@ -8843,6 +8867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108701,
+      "num": 108701,
+      "word": "张月铭退团",
+      "onboard_time": 1743748281,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108650,
       "num": 101730,
       "word": "现在的假睫毛已经发展成纸质了吗",
@@ -8929,6 +8961,14 @@
       "onboard_time": 1743648441,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105152,
+      "num": 105152,
+      "word": "刘学义一部剧换一个护工",
+      "onboard_time": 1743746361,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 105109,
@@ -9035,6 +9075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101033,
+      "num": 101033,
+      "word": "峰哥取代徐静雨与美娜再续前缘",
+      "onboard_time": 1743745580,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100773,
       "num": 100773,
       "word": "女子自救成功后说不想告诉妈妈",
@@ -9067,14 +9115,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 100592,
-      "num": 100592,
-      "word": "张月铭退团",
-      "onboard_time": 1743748281,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100190,
       "num": 100190,
       "word": "一个树碑宠物墓地超万元",
@@ -9105,14 +9145,6 @@
       "onboard_time": 1743731061,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99418,
-      "num": 99418,
-      "word": "何泓姗淘汰",
-      "onboard_time": 1743748161,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 98997,
@@ -9233,22 +9265,6 @@
       "onboard_time": 1743731361,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95268,
-      "num": 95268,
-      "word": "刘学义一部剧换一个护工",
-      "onboard_time": 1743746361,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 94835,
-      "num": 94835,
-      "word": "李晟找不到密码把保险箱搬走了",
-      "onboard_time": 1743748401,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 94689,
@@ -9537,6 +9553,14 @@
       "onboard_time": 1743481586,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85231,
+      "num": 85231,
+      "word": "福建舰海试大片震撼",
+      "onboard_time": 1743749122,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 85202,
@@ -10811,6 +10835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37475,
+      "num": 171910,
+      "word": "专家辟谣抗生素洗头治疗脱发",
+      "onboard_time": 1743747501,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37245,
       "num": 59991,
       "word": "高颜值孤独症男孩小岱走红背后",
@@ -11096,14 +11128,6 @@
       "word": "博主谈智能驾驶和辅助驾驶",
       "onboard_time": 1743499403,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30222,
-      "num": 171910,
-      "word": "专家辟谣抗生素洗头治疗脱发",
-      "onboard_time": 1743747501,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
