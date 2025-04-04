@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743723536738,
+  "endTime": 1743731420721,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -321,6 +321,14 @@
       "onboard_time": 1743512304,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1551232,
+      "num": 1551232,
+      "word": "RedVelvet 解散",
+      "onboard_time": 1743721997,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1521569,
@@ -723,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 972027,
+      "num": 630769,
+      "word": "张檬孕37周腹膜内剖腹产",
+      "onboard_time": 1743723439,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 969690,
       "num": 969690,
       "word": "甜馨时隔十年再发新曲",
@@ -785,6 +801,14 @@
       "onboard_time": 1743470965,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 904564,
+      "num": 904564,
+      "word": "全红婵要签名照兴奋到搓手",
+      "onboard_time": 1743729441,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 903650,
@@ -963,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 805847,
+      "num": 403187,
+      "word": "YERI和Wendy离开SM",
+      "onboard_time": 1743730040,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 803280,
       "num": 554326,
       "word": "五问小米SU7高速爆燃事故",
@@ -1027,12 +1059,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 743786,
-      "num": 630769,
-      "word": "张檬孕37周腹膜内剖腹产",
-      "onboard_time": 1743723439,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 743836,
+      "num": 399711,
+      "word": "李金铭 真人秀中没有人伤害我",
+      "onboard_time": 1743723799,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 741691,
@@ -1057,14 +1089,6 @@
       "onboard_time": 1743686003,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 736622,
-      "num": 736622,
-      "word": "RedVelvet 解散",
-      "onboard_time": 1743721997,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 726197,
@@ -1171,6 +1195,14 @@
       "category": "国际时政,国际时政"
     },
     {
+      "raw_hot": 647973,
+      "num": 627660,
+      "word": "中国第一胖718.8斤刷新纪录",
+      "onboard_time": 1743700037,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 645109,
       "num": 645109,
       "word": "黄霄雲方再回应翻唱争议",
@@ -1201,14 +1233,6 @@
       "onboard_time": 1743640763,
       "rank": 5,
       "category": "网红"
-    },
-    {
-      "raw_hot": 627660,
-      "num": 627660,
-      "word": "中国第一胖718.8斤刷新纪录",
-      "onboard_time": 1743700037,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 626903,
@@ -1361,6 +1385,14 @@
       "onboard_time": 1743588263,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 587221,
+      "num": 405684,
+      "word": "重庆一交通事故致7死1伤",
+      "onboard_time": 1743715394,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 585777,
@@ -1633,6 +1665,14 @@
       "onboard_time": 1743598702,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 514161,
+      "num": 382805,
+      "word": "韩国月租1600的房子",
+      "onboard_time": 1743727221,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 511816,
@@ -1955,6 +1995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 419911,
+      "num": 378447,
+      "word": "沈梦辰和女网红撞衫",
+      "onboard_time": 1743725301,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419245,
       "num": 389533,
       "word": "杨洋章若楠 二搭",
@@ -2008,6 +2056,14 @@
       "word": "姜甲儒称要亲手为家人讨回公道",
       "onboard_time": 1743571462,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 409324,
+      "num": 409324,
+      "word": "清明节",
+      "onboard_time": 1743722358,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -2179,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378301,
+      "num": 378301,
+      "word": "余承东不再担任华为车BU董事长",
+      "onboard_time": 1743730040,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 378011,
       "num": 378011,
       "word": "金饰价格涨到953元",
@@ -2193,6 +2257,14 @@
       "onboard_time": 1743679641,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 376636,
+      "num": 376636,
+      "word": "疑似周周小可爱怀孕",
+      "onboard_time": 1743724699,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 376428,
@@ -2291,6 +2363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 361851,
+      "num": 361851,
+      "word": "孟子坤 未成年",
+      "onboard_time": 1743725179,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359334,
       "num": 359334,
       "word": "蓝莓包",
@@ -2363,14 +2443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351966,
-      "num": 351966,
-      "word": "清明节",
-      "onboard_time": 1743722358,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 351428,
       "num": 785490,
       "word": "东部战区海报锁控",
@@ -2400,6 +2472,14 @@
       "word": "女子烧纸引燃9辆车被刑拘",
       "onboard_time": 1743509782,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348876,
+      "num": 348876,
+      "word": "举报副教授前夫出轨女学生女子再发声",
+      "onboard_time": 1743724821,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2585,6 +2665,14 @@
       "onboard_time": 1743689242,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326541,
+      "num": 397232,
+      "word": "特朗普将在未来几周发放金卡签证",
+      "onboard_time": 1743725360,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 326115,
@@ -3467,12 +3555,36 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 245965,
+      "num": 245965,
+      "word": "陈星旭卢昱晓轧戏吻戏",
+      "onboard_time": 1743729142,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 245020,
+      "num": 245020,
+      "word": "车银优我是素人",
+      "onboard_time": 1743723859,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243465,
       "num": 276317,
       "word": "黄小蕾新剧螳螂女",
       "onboard_time": 1743484104,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241893,
+      "num": 241893,
+      "word": "痞幼与小袁同学约会",
+      "onboard_time": 1743730522,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 240994,
@@ -3699,6 +3811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 226391,
+      "num": 391883,
+      "word": "特朗普因对中国征收关税被起诉",
+      "onboard_time": 1743730401,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 225960,
       "num": 225960,
       "word": "PH试纸碰他一下就变黑了 太碱了",
@@ -3713,6 +3833,14 @@
       "onboard_time": 1743475942,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225663,
+      "num": 225663,
+      "word": "张艺兴不说话的爱单日票房超哪吒2",
+      "onboard_time": 1743724281,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 225340,
@@ -3849,6 +3977,14 @@
       "onboard_time": 1743678981,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215147,
+      "num": 215147,
+      "word": "山东姑娘考公到阿勒泰当警察",
+      "onboard_time": 1743727040,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214826,
@@ -4651,6 +4787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192117,
+      "num": 192117,
+      "word": "买完衣服的这种袋子不要再扔了",
+      "onboard_time": 1743723439,
+      "rank": 24,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 192065,
       "num": 192065,
       "word": "罗晋这一段头皮发麻",
@@ -4665,6 +4809,14 @@
       "onboard_time": 1743577101,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 191767,
+      "num": 191767,
+      "word": "手机曲面屏为什么消失了",
+      "onboard_time": 1743730040,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 191681,
@@ -5539,6 +5691,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 167168,
+      "num": 167168,
+      "word": "吴敬平晒10岁樊振东反手技术",
+      "onboard_time": 1743728061,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166942,
       "num": 280534,
       "word": "当地回应拟取消老年人免费公交",
@@ -6153,6 +6313,14 @@
       "onboard_time": 1743598163,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 149216,
+      "num": 149216,
+      "word": "苹果账户凌晨被盗刷162笔",
+      "onboard_time": 1743727100,
+      "rank": 30,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 148905,
@@ -6947,6 +7115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133433,
+      "num": 133433,
+      "word": "甜馨说不当女团",
+      "onboard_time": 1743728841,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133327,
       "num": 267436,
       "word": "张碧晨爱的史诗交响演唱会",
@@ -7467,6 +7643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120742,
+      "num": 120742,
+      "word": "NBA警告勇士灰熊",
+      "onboard_time": 1743728961,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120569,
       "num": 355981,
       "word": "SUV开启整车终身质保时代",
@@ -7731,20 +7915,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 114328,
+      "num": 114328,
+      "word": "提醒甲亢哥的女生柔中带刚",
+      "onboard_time": 1743725240,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 114130,
       "num": 685103,
       "word": "月球上有35个以中国元素命名的地名",
       "onboard_time": 1743587061,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 114128,
-      "num": 114128,
-      "word": "买完衣服的这种袋子不要再扔了",
-      "onboard_time": 1743723439,
-      "rank": 24,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 113984,
@@ -7769,6 +7953,14 @@
       "onboard_time": 1743650002,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113208,
+      "num": 517564,
+      "word": "体育比赛为何会遭到美国网攻",
+      "onboard_time": 1743730040,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113193,
@@ -7817,6 +8009,14 @@
       "onboard_time": 1743559581,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 111517,
+      "num": 111517,
+      "word": "人间四月春风起正清明",
+      "onboard_time": 1743725360,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111510,
@@ -8051,6 +8251,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103982,
+      "num": 103982,
+      "word": "一人一句缅怀先烈",
+      "onboard_time": 1743702797,
+      "rank": 48,
+      "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 103015,
+      "num": 103015,
+      "word": "柳智敏角膜撕裂",
+      "onboard_time": 1743721877,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102577,
       "num": 102577,
       "word": "第五人格",
@@ -8123,6 +8339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 100190,
+      "num": 100190,
+      "word": "一个树碑宠物墓地超万元",
+      "onboard_time": 1743730939,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100135,
       "num": 134598,
       "word": "佳霏猫",
@@ -8137,6 +8361,14 @@
       "onboard_time": 1743510984,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99451,
+      "num": 99451,
+      "word": "全红婵陈芋汐10米台进决赛",
+      "onboard_time": 1743731061,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 98997,
@@ -8299,12 +8531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92712,
-      "num": 93235,
-      "word": "柳智敏角膜撕裂",
-      "onboard_time": 1743721877,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 92459,
+      "num": 92459,
+      "word": "曝特朗普即将轰炸伊朗",
+      "onboard_time": 1743725660,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92201,
@@ -8369,6 +8601,14 @@
       "onboard_time": 1743636500,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 89975,
+      "num": 89975,
+      "word": "清明祭祖用GPS定位器找祖坟",
+      "onboard_time": 1743725480,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89892,
@@ -8593,6 +8833,14 @@
       "onboard_time": 1743440297,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81298,
+      "num": 81298,
+      "word": "在每个不用早起的日子",
+      "onboard_time": 1743731361,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 81045,
@@ -8947,14 +9195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 65986,
-      "num": 156739,
-      "word": "重庆一交通事故致7死1伤",
-      "onboard_time": 1743715394,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65469,
       "num": 134461,
       "word": "春日壁纸",
@@ -8969,14 +9209,6 @@
       "onboard_time": 1743420501,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 65128,
-      "num": 65128,
-      "word": "一人一句缅怀先烈",
-      "onboard_time": 1743702797,
-      "rank": 48,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 64845,
@@ -9657,6 +9889,14 @@
       "onboard_time": 1743407121,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40960,
+      "num": 376839,
+      "word": "尹锡悦弹劾案结果将如何",
+      "onboard_time": 1743730461,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 40819,
@@ -10457,6 +10697,14 @@
       "onboard_time": 1743568824,
       "rank": 39,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 16320,
+      "num": 197900,
+      "word": "标普500指数抹去近2万亿美元市值",
+      "onboard_time": 1743731002,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 16270,
