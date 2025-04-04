@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743745259463,
+  "endTime": 1743748429064,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1179,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 948213,
+      "num": 1151714,
+      "word": "没有队长选陈德容",
+      "onboard_time": 1743746419,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 943778,
       "num": 298355,
       "word": "孟子坤 原来是晶哥",
@@ -2187,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 593316,
+      "num": 410042,
+      "word": "Angelababy女王权杖",
+      "onboard_time": 1743745160,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 592324,
       "num": 530299,
       "word": "失联中国留学生罗生门遗体被找到",
@@ -2747,6 +2763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499626,
+      "num": 332804,
+      "word": "叶童怼房琪",
+      "onboard_time": 1743748041,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498494,
       "num": 399341,
       "word": "薛之谦 愚人节",
@@ -2923,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 477803,
+      "num": 237347,
+      "word": "男子祭祖上香呛了一口烟救自己一命",
+      "onboard_time": 1743747681,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 475178,
       "num": 475178,
       "word": "宋茜唐艺昕张佳宁又约上了",
@@ -3065,6 +3097,14 @@
       "onboard_time": 1743660683,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459940,
+      "num": 459940,
+      "word": "全国最能生娃省份排名出炉",
+      "onboard_time": 1743746120,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 459865,
@@ -4227,6 +4267,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 335273,
+      "num": 335273,
+      "word": "女子花500元找人代祭扫被骗",
+      "onboard_time": 1743746238,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335195,
       "num": 335195,
       "word": "既是节气又是节日只有清明",
@@ -4483,6 +4531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319070,
+      "num": 319070,
+      "word": "加拿大正在印度化",
+      "onboard_time": 1743744980,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 319039,
       "num": 319039,
       "word": "滴滴崩了",
@@ -4513,6 +4569,14 @@
       "onboard_time": 1743579563,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 317746,
+      "num": 317746,
+      "word": "倒挂",
+      "onboard_time": 1743744980,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 317680,
@@ -5612,7 +5676,7 @@
     },
     {
       "raw_hot": 254338,
-      "num": 197336,
+      "num": 237379,
       "word": "陈卓璇五年前的回旋镖正中眉心",
       "onboard_time": 1743744321,
       "rank": 21,
@@ -6001,6 +6065,14 @@
       "onboard_time": 1743489924,
       "rank": 18,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 236236,
+      "num": 236236,
+      "word": "何泓姗淘汰房琪觉得很抱歉",
+      "onboard_time": 1743747681,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 235519,
@@ -6819,6 +6891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207213,
+      "num": 207213,
+      "word": "王蓉淘汰",
+      "onboard_time": 1743746960,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207212,
       "num": 207212,
       "word": "创亚2总决赛嘉宾阵容",
@@ -6921,6 +7001,14 @@
       "onboard_time": 1743260485,
       "rank": 23,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 206083,
+      "num": 334705,
+      "word": "AI复原8位烈士集体答到看到泪目",
+      "onboard_time": 1743746480,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205973,
@@ -7459,14 +7547,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 196666,
-      "num": 196666,
-      "word": "Angelababy女王权杖",
-      "onboard_time": 1743745160,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 196648,
       "num": 196648,
       "word": "辽宁男篮vs山东男篮",
@@ -7993,6 +8073,14 @@
       "onboard_time": 1743425424,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188112,
+      "num": 222951,
+      "word": "尹锡悦被罢免后发表讲话",
+      "onboard_time": 1743746480,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 187739,
@@ -8875,14 +8963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171811,
-      "num": 147416,
-      "word": "倒挂",
-      "onboard_time": 1743744980,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 171797,
       "num": 171797,
       "word": "50岁追星奶 我和时代峰峻的十年",
@@ -8921,6 +9001,14 @@
       "onboard_time": 1743315741,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171467,
+      "num": 171467,
+      "word": "李晟我也是你俩play的一环么",
+      "onboard_time": 1743745700,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 171420,
@@ -9761,6 +9849,14 @@
       "onboard_time": 1743306750,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157698,
+      "num": 157698,
+      "word": "抢不到门票的二次元有多抽象",
+      "onboard_time": 1743747501,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 157571,
@@ -10643,14 +10739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145863,
-      "num": 145863,
-      "word": "加拿大正在印度化",
-      "onboard_time": 1743744980,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 145781,
       "num": 145781,
       "word": "何泓姗满38减20",
@@ -11251,6 +11339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139480,
+      "num": 139480,
+      "word": "吴宣仪卡琳娜友情",
+      "onboard_time": 1743745580,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139223,
       "num": 139223,
       "word": "金玟庭愚人节神图点赞最高",
@@ -11273,6 +11369,14 @@
       "onboard_time": 1743485243,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138808,
+      "num": 138808,
+      "word": "朱雨玲3比2早田希娜",
+      "onboard_time": 1743746419,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 138756,
@@ -12715,6 +12819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120736,
+      "num": 120736,
+      "word": "邓萃雯 你们不要小看港女",
+      "onboard_time": 1743747621,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120569,
       "num": 355981,
       "word": "SUV开启整车终身质保时代",
@@ -13212,7 +13324,7 @@
     },
     {
       "raw_hot": 113658,
-      "num": 113658,
+      "num": 220957,
       "word": "巴特勒三分",
       "onboard_time": 1743743061,
       "rank": 46,
@@ -14011,6 +14123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100592,
+      "num": 100592,
+      "word": "张月铭退团",
+      "onboard_time": 1743748281,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100576,
       "num": 100576,
       "word": "张若昀唐艺昕在朋友聚会认识",
@@ -14073,6 +14193,14 @@
       "onboard_time": 1743731061,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99418,
+      "num": 99418,
+      "word": "何泓姗淘汰",
+      "onboard_time": 1743748161,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 99326,
@@ -14291,12 +14419,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95268,
+      "num": 95268,
+      "word": "刘学义一部剧换一个护工",
+      "onboard_time": 1743746361,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95024,
       "num": 95024,
       "word": "尤长靖扯领带这一下好拽",
       "onboard_time": 1743305070,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94835,
+      "num": 94835,
+      "word": "李晟找不到密码把保险箱搬走了",
+      "onboard_time": 1743748401,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 94782,
@@ -17099,6 +17243,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 30222,
+      "num": 171910,
+      "word": "专家辟谣抗生素洗头治疗脱发",
+      "onboard_time": 1743747501,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30101,
       "num": 106926,
       "word": "中方救援队又发现1名幸存者",
@@ -17849,6 +18001,14 @@
       "onboard_time": 1743672801,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16995,
+      "num": 116791,
+      "word": "甲亢哥和田一鸣史诗级会面",
+      "onboard_time": 1743747921,
+      "rank": 39,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 16915,

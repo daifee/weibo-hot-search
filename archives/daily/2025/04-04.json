@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743745259463,
+  "endTime": 1743748429064,
   "band_list": [
     {
       "raw_hot": 2404409,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 948213,
+      "num": 1151714,
+      "word": "没有队长选陈德容",
+      "onboard_time": 1743746419,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 805847,
       "num": 403187,
       "word": "YERI和Wendy离开SM",
@@ -131,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 593316,
+      "num": 410042,
+      "word": "Angelababy女王权杖",
+      "onboard_time": 1743745160,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 587221,
       "num": 405684,
       "word": "重庆一交通事故致7死1伤",
@@ -179,6 +195,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499626,
+      "num": 332804,
+      "word": "叶童怼房琪",
+      "onboard_time": 1743748041,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 477803,
+      "num": 237347,
+      "word": "男子祭祖上香呛了一口烟救自己一命",
+      "onboard_time": 1743747681,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 468553,
       "num": 468553,
       "word": "沈阳一楼发生火灾2名消防员牺牲",
@@ -193,6 +225,14 @@
       "onboard_time": 1743734362,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 459940,
+      "num": 459940,
+      "word": "全国最能生娃省份排名出炉",
+      "onboard_time": 1743746120,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 445407,
@@ -307,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335273,
+      "num": 335273,
+      "word": "女子花500元找人代祭扫被骗",
+      "onboard_time": 1743746238,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330527,
       "num": 330527,
       "word": "国际金价高位跳水了",
@@ -329,6 +377,22 @@
       "onboard_time": 1743730939,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 319070,
+      "num": 319070,
+      "word": "加拿大正在印度化",
+      "onboard_time": 1743744980,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 317746,
+      "num": 317746,
+      "word": "倒挂",
+      "onboard_time": 1743744980,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 315520,
@@ -396,7 +460,7 @@
     },
     {
       "raw_hot": 254338,
-      "num": 197336,
+      "num": 237379,
       "word": "陈卓璇五年前的回旋镖正中眉心",
       "onboard_time": 1743744321,
       "rank": 21,
@@ -457,6 +521,14 @@
       "onboard_time": 1743694641,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 236236,
+      "num": 236236,
+      "word": "何泓姗淘汰房琪觉得很抱歉",
+      "onboard_time": 1743747681,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 230176,
@@ -547,6 +619,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207213,
+      "num": 207213,
+      "word": "王蓉淘汰",
+      "onboard_time": 1743746960,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206083,
+      "num": 334705,
+      "word": "AI复原8位烈士集体答到看到泪目",
+      "onboard_time": 1743746480,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203490,
       "num": 203490,
       "word": "樊振东获上海市青年五四奖章",
@@ -595,14 +683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196666,
-      "num": 196666,
-      "word": "Angelababy女王权杖",
-      "onboard_time": 1743745160,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 192117,
       "num": 192117,
       "word": "买完衣服的这种袋子不要再扔了",
@@ -633,6 +713,14 @@
       "onboard_time": 1743744021,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188112,
+      "num": 222951,
+      "word": "尹锡悦被罢免后发表讲话",
+      "onboard_time": 1743746480,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 181740,
@@ -675,12 +763,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 171811,
-      "num": 147416,
-      "word": "倒挂",
-      "onboard_time": 1743744980,
+      "raw_hot": 171467,
+      "num": 171467,
+      "word": "李晟我也是你俩play的一环么",
+      "onboard_time": 1743745700,
       "rank": 30,
-      "category": "电影"
+      "category": "综艺"
     },
     {
       "raw_hot": 168975,
@@ -755,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157698,
+      "num": 157698,
+      "word": "抢不到门票的二次元有多抽象",
+      "onboard_time": 1743747501,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 156430,
       "num": 156430,
       "word": "鸡柳年糕薯条",
@@ -827,14 +923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145863,
-      "num": 145863,
-      "word": "加拿大正在印度化",
-      "onboard_time": 1743744980,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 145000,
       "num": 145000,
       "word": "33岁初代网红小霸王生女",
@@ -883,12 +971,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139480,
+      "num": 139480,
+      "word": "吴宣仪卡琳娜友情",
+      "onboard_time": 1743745580,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139045,
       "num": 165312,
       "word": "历史上韩国总统们的命运",
       "onboard_time": 1743736219,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 138808,
+      "num": 138808,
+      "word": "朱雨玲3比2早田希娜",
+      "onboard_time": 1743746419,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 138756,
@@ -1027,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120736,
+      "num": 120736,
+      "word": "邓萃雯 你们不要小看港女",
+      "onboard_time": 1743747621,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119530,
       "num": 252936,
       "word": "美股",
@@ -1100,7 +1212,7 @@
     },
     {
       "raw_hot": 113658,
-      "num": 113658,
+      "num": 220957,
       "word": "巴特勒三分",
       "onboard_time": 1743743061,
       "rank": 46,
@@ -1187,6 +1299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100592,
+      "num": 100592,
+      "word": "张月铭退团",
+      "onboard_time": 1743748281,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100190,
       "num": 100190,
       "word": "一个树碑宠物墓地超万元",
@@ -1201,6 +1321,14 @@
       "onboard_time": 1743731061,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99418,
+      "num": 99418,
+      "word": "何泓姗淘汰",
+      "onboard_time": 1743748161,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 98809,
@@ -1241,6 +1369,22 @@
       "onboard_time": 1743731361,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95268,
+      "num": 95268,
+      "word": "刘学义一部剧换一个护工",
+      "onboard_time": 1743746361,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 94835,
+      "num": 94835,
+      "word": "李晟找不到密码把保险箱搬走了",
+      "onboard_time": 1743748401,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 94361,
@@ -1627,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30222,
+      "num": 171910,
+      "word": "专家辟谣抗生素洗头治疗脱发",
+      "onboard_time": 1743747501,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26259,
       "num": 420136,
       "word": "树载千秋同根同祖",
@@ -1665,6 +1817,14 @@
       "onboard_time": 1743712934,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16995,
+      "num": 116791,
+      "word": "甲亢哥和田一鸣史诗级会面",
+      "onboard_time": 1743747921,
+      "rank": 39,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 16320,
