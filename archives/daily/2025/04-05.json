@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743791546748,
+  "endTime": 1743792352006,
   "band_list": [
     {
       "raw_hot": 1230915,
@@ -155,7 +155,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150549,
+      "raw_hot": 156092,
       "num": 128282,
       "word": "特朗普说永远不会改变政策",
       "onboard_time": 1743781941,
@@ -467,7 +467,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 35056,
+      "raw_hot": 36009,
       "num": 34648,
       "word": "棋士",
       "onboard_time": 1743788418,
@@ -497,6 +497,22 @@
       "onboard_time": 1743782301,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22269,
+      "num": 24401,
+      "word": "野子和向阳花适配度",
+      "onboard_time": 1743792314,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 17805,
+      "num": 24409,
+      "word": "吴宣仪 选人环节",
+      "onboard_time": 1743790755,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 17673,
