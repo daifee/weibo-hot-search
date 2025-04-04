@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/04 23:25:56
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/04 23:41:40
 </p>
 </blockquote>
 <p>
@@ -159,6 +159,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E6%98%93%E5%90%89%E6%88%96%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23" target="weibo">
+路易吉或被判死刑（热度：1921865）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%81%E5%9B%9E%E6%97%B6%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 雁回时大结局（热度：1906715）
 </a>
@@ -233,12 +239,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%20%E7%A1%AE%E8%AE%A4%E8%BF%87%E4%BA%86%E6%98%AF%E4%BA%B2%E7%94%9F%E7%9A%84%23" target="weibo">
 戚薇 确认过了是亲生的（热度：1746638）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E6%98%93%E5%90%89%E6%88%96%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23" target="weibo">
-路易吉或被判死刑（热度：1724165）
 </a>
 </li>
 
@@ -963,6 +963,12 @@ YERI和Wendy离开SM（热度：805847）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E8%AF%84%E4%BB%B7%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%9F%8E%E5%B8%82%E4%BD%93%E9%AA%8C%E6%8E%92%E5%90%8D%23" target="weibo">
+甲亢哥评价中国行城市体验排名（热度：750965）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%20%E7%9C%9F%E4%BA%BA%E7%A7%80%E4%B8%AD%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%A4%E5%AE%B3%E6%88%91%23" target="weibo">
 李金铭 真人秀中没有人伤害我（热度：743836）
 </a>
@@ -1055,12 +1061,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E6%B5%AA%E5%A7%90%23" target="weibo">
 彭小苒发文告别浪姐（热度：683152）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E8%AF%84%E4%BB%B7%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%9F%8E%E5%B8%82%E4%BD%93%E9%AA%8C%E6%8E%92%E5%90%8D%23" target="weibo">
-甲亢哥评价中国行城市体验排名（热度：683148）
 </a>
 </li>
 
@@ -1419,6 +1419,12 @@ Songha公开（热度：554934）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%81%87%E6%9C%9F%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BC%91%E6%81%AF%E4%B8%8D%E6%98%AF%E7%9D%A1%E8%A7%89%23" target="weibo">
+原来假期最好的休息不是睡觉（热度：541678）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E5%BC%A0%E8%89%BA%E5%85%B4%E4%B8%8D%E8%AF%B4%E8%AF%9D%E7%9A%84%E7%88%B1%E5%80%BC%E5%BE%97%E8%A2%AB%E6%9B%B4%E5%A4%9A%E4%BA%BA%E7%9C%8B%E8%A7%81%23" target="weibo">
 肖战说张艺兴不说话的爱值得被更多人看见（热度：540671）
 </a>
@@ -1661,12 +1667,6 @@ SM新男团（热度：491910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%B7%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%B9%B030%E4%B8%87%E9%BB%84%E9%87%91%E8%BD%AC%E6%89%8B%E8%B5%9A%E6%95%B0%E4%B8%87%23" target="weibo">
 刷信用卡买30万黄金转手赚数万（热度：478613）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%81%87%E6%9C%9F%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BC%91%E6%81%AF%E4%B8%8D%E6%98%AF%E7%9D%A1%E8%A7%89%23" target="weibo">
-原来假期最好的休息不是睡觉（热度：478125）
 </a>
 </li>
 
@@ -3771,6 +3771,12 @@ Nicholas首位公开（热度：209410）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%98%B3%E8%8A%B1%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%E7%8E%8B%E8%8F%8A%23" target="weibo">
+向阳花没认出来王菊（热度：208985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%9C%A8%E8%BF%BD%E5%80%BC%E5%BE%97%E7%88%B1%23" target="weibo">
 赵露思在追值得爱（热度：208686）
 </a>
@@ -4091,6 +4097,12 @@ SMTR25单人预告（热度：199655）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%23" target="weibo">
 我的世界（热度：198928）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%84%9F%E8%B0%A2%E4%B8%BA%E6%88%91%E5%8C%85%E5%9C%BA%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%23" target="weibo">
+赵丽颖感谢为我包场的朋友们（热度：198914）
 </a>
 </li>
 
@@ -5313,12 +5325,6 @@ iOS18.4支持5.5G网络（热度：175414）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%98%B3%E8%8A%B1%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%E7%8E%8B%E8%8F%8A%23" target="weibo">
-向阳花没认出来王菊（热度：162808）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E8%B0%B7%E9%9B%A8%E6%89%8B%E4%BC%A4%23" target="weibo">
 清明谷雨手伤（热度：162603）
 </a>
@@ -5877,6 +5883,12 @@ smtr25（热度：148510）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%81%93%E6%8C%87%E6%9A%B4%E8%B7%8C1600%E7%82%B9%E8%BF%9B%E5%85%A5%E5%9B%9E%E8%B0%83%23" target="weibo">
+道指暴跌1600点进入回调（热度：147590）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E4%BA%91%E4%B9%8B%E4%B8%8A%23" target="weibo">
 乌云之上（热度：147546）
 </a>
@@ -5999,18 +6011,6 @@ smtr25（热度：148510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E7%9C%8B%E8%A7%81%E5%AE%B6%E9%87%8C%E6%B7%B9%E6%B0%B4%E6%80%A5%E5%BE%97%E7%AB%99%E4%BA%86%E8%B5%B7%E6%9D%A5%23" target="weibo">
 小猫看见家里淹水急得站了起来（热度：145322）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A3%B0%E7%A7%B0%E8%AE%A9%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%AF%8C%E6%9C%89%23" target="weibo">
-特朗普声称让美国再次富有（热度：145035）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2333%E5%B2%81%E5%88%9D%E4%BB%A3%E7%BD%91%E7%BA%A2%E5%B0%8F%E9%9C%B8%E7%8E%8B%E7%94%9F%E5%A5%B3%23" target="weibo">
-33岁初代网红小霸王生女（热度：145000）
 </a>
 </li>
 
