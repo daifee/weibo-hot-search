@@ -1,0 +1,410 @@
+{
+  "runTime": 1743732754182,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1601334,
+        "num": 1601334,
+        "word": "RedVelvet 解散",
+        "onboard_time": 1743721997,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1001509,
+        "num": 1001509,
+        "word": "全红婵要签名照兴奋到搓手",
+        "onboard_time": 1743729441,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145184,
+        "num": 927468,
+        "word": "体育比赛为何会遭到美国网攻",
+        "onboard_time": 1743730040,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 910785,
+        "num": 910785,
+        "word": "张檬孕37周腹膜内剖腹产",
+        "onboard_time": 1743723439,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380552,
+        "num": 380552,
+        "word": "清明节",
+        "onboard_time": 1743722358,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657688,
+        "num": 379377,
+        "word": "特朗普因对中国征收关税被起诉",
+        "onboard_time": 1743730401,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 698179,
+        "num": 378399,
+        "word": "YERI和Wendy离开SM",
+        "onboard_time": 1743730040,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680472,
+        "num": 377137,
+        "word": "李金铭 真人秀中没有人伤害我",
+        "onboard_time": 1743723799,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494834,
+        "num": 376962,
+        "word": "重庆一交通事故致7死1伤",
+        "onboard_time": 1743715394,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80836,
+        "num": 375633,
+        "word": "家国永念致敬英雄",
+        "onboard_time": 1743685642,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374600,
+        "num": 374600,
+        "word": "余承东不再担任华为车BU董事长",
+        "onboard_time": 1743730040,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 551247,
+        "num": 351039,
+        "word": "韩国月租1600的房子",
+        "onboard_time": 1743727221,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426493,
+        "num": 346491,
+        "word": "痞幼与小袁同学约会",
+        "onboard_time": 1743730522,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 386338,
+        "num": 341049,
+        "word": "疑似周周小可爱怀孕",
+        "onboard_time": 1743724699,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 316134,
+        "num": 316134,
+        "word": "孟子坤 未成年",
+        "onboard_time": 1743725179,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294800,
+        "num": 294800,
+        "word": "沈梦辰和女网红撞衫",
+        "onboard_time": 1743725301,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239677,
+        "num": 239677,
+        "word": "陈星旭卢昱晓轧戏吻戏",
+        "onboard_time": 1743729142,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232334,
+        "num": 232334,
+        "word": "举报副教授前夫出轨女学生女子再发声",
+        "onboard_time": 1743724821,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211762,
+        "num": 211762,
+        "word": "车银优我是素人",
+        "onboard_time": 1743723859,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202102,
+        "num": 202102,
+        "word": "特朗普将在未来几周发放金卡签证",
+        "onboard_time": 1743725360,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 321628,
+        "num": 202067,
+        "word": "原来爱有滞后性是真的",
+        "onboard_time": 1743730939,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197194,
+        "num": 197194,
+        "word": "山东姑娘考公到阿勒泰当警察",
+        "onboard_time": 1743727040,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196654,
+        "num": 196654,
+        "word": "手机曲面屏为什么消失了",
+        "onboard_time": 1743730040,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184216,
+        "num": 184216,
+        "word": "张艺兴不说话的爱单日票房超哪吒2",
+        "onboard_time": 1743724281,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172271,
+        "num": 172271,
+        "word": "买完衣服的这种袋子不要再扔了",
+        "onboard_time": 1743723439,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 171129,
+        "num": 171129,
+        "word": "国际金价高位跳水了",
+        "onboard_time": 1743703576,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159154,
+        "num": 159154,
+        "word": "吴敬平晒10岁樊振东反手技术",
+        "onboard_time": 1743728061,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143354,
+        "num": 143354,
+        "word": "孙俪工作室回复邓超",
+        "onboard_time": 1743692422,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127740,
+        "num": 127740,
+        "word": "刀小刀拖欠解约赔偿金400多万",
+        "onboard_time": 1743691643,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 122382,
+        "num": 122382,
+        "word": "甜馨说不当女团",
+        "onboard_time": 1743728841,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118849,
+        "num": 118849,
+        "word": "萨摩耶把猫猫的头含进嘴里",
+        "onboard_time": 1743732261,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118071,
+        "num": 118071,
+        "word": "人间四月春风起正清明",
+        "onboard_time": 1743725360,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109914,
+        "num": 109914,
+        "word": "养了10年的狗跳起来咬向主人喉咙",
+        "onboard_time": 1743684022,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107404,
+        "num": 107404,
+        "word": "订婚强奸案被告母亲请求追责办案人",
+        "onboard_time": 1743694161,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106558,
+        "num": 106558,
+        "word": "黄继光牺牲后母亲立下了一条家规",
+        "onboard_time": 1743691583,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 105699,
+        "num": 105699,
+        "word": "NBA警告勇士灰熊",
+        "onboard_time": 1743728961,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104037,
+        "num": 104037,
+        "word": "永远记住你",
+        "onboard_time": 1743702735,
+        "rank": 36,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 103102,
+        "num": 103102,
+        "word": "湖勇大战",
+        "onboard_time": 1743732141,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471833,
+        "num": 102832,
+        "word": "中国第一胖718.8斤刷新纪录",
+        "onboard_time": 1743700037,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102012,
+        "num": 102012,
+        "word": "一人一句缅怀先烈",
+        "onboard_time": 1743702797,
+        "rank": 39,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 100616,
+        "num": 100616,
+        "word": "苹果账户凌晨被盗刷162笔",
+        "onboard_time": 1743727100,
+        "rank": 40,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 97080,
+        "num": 97080,
+        "word": "这是他们离开后的第5个清明节",
+        "onboard_time": 1743731661,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96076,
+        "num": 96076,
+        "word": "在每个不用早起的日子",
+        "onboard_time": 1743731361,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95893,
+        "num": 95893,
+        "word": "柳智敏角膜撕裂",
+        "onboard_time": 1743721877,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90519,
+        "num": 90519,
+        "word": "哪吒",
+        "onboard_time": 1743713114,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89580,
+        "num": 89580,
+        "word": "一个树碑宠物墓地超万元",
+        "onboard_time": 1743730939,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84285,
+        "num": 84285,
+        "word": "宁夏一退役老兵佩戴军功章祭奠战友",
+        "onboard_time": 1743697701,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82796,
+        "num": 82796,
+        "word": "澳门世界杯倒计时10天",
+        "onboard_time": 1743732500,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82653,
+        "num": 82653,
+        "word": "向阳花",
+        "onboard_time": 1743727402,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81627,
+        "num": 81627,
+        "word": "尹锡悦弹劾案结果将如何",
+        "onboard_time": 1743730461,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

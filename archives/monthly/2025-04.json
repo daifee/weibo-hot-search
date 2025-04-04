@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743731420721,
+  "endTime": 1743732754182,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -291,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1601334,
+      "num": 1601334,
+      "word": "RedVelvet 解散",
+      "onboard_time": 1743721997,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1591510,
       "num": 454403,
       "word": "网文作者涉黄刑期减少六年",
@@ -321,14 +329,6 @@
       "onboard_time": 1743512304,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1551232,
-      "num": 1551232,
-      "word": "RedVelvet 解散",
-      "onboard_time": 1743721997,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1521569,
@@ -715,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1001509,
+      "num": 1001509,
+      "word": "全红婵要签名照兴奋到搓手",
+      "onboard_time": 1743729441,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 992763,
       "num": 580469,
       "word": "孟子坤回应",
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 972027,
-      "num": 630769,
+      "num": 910785,
       "word": "张檬孕37周腹膜内剖腹产",
       "onboard_time": 1743723439,
       "rank": 3,
@@ -801,14 +809,6 @@
       "onboard_time": 1743470965,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 904564,
-      "num": 904564,
-      "word": "全红婵要签名照兴奋到搓手",
-      "onboard_time": 1743729441,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 903650,
@@ -1187,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 657688,
+      "num": 391883,
+      "word": "特朗普因对中国征收关税被起诉",
+      "onboard_time": 1743730401,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 652080,
       "num": 407026,
       "word": "马斯克宣布将辞去美国政府效率部职务",
@@ -1507,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551247,
+      "num": 382805,
+      "word": "韩国月租1600的房子",
+      "onboard_time": 1743727221,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 547347,
       "num": 547347,
       "word": "浪姐三公淘汰",
@@ -1665,14 +1681,6 @@
       "onboard_time": 1743598702,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 514161,
-      "num": 382805,
-      "word": "韩国月租1600的房子",
-      "onboard_time": 1743727221,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 511816,
@@ -1987,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 426493,
+      "num": 346491,
+      "word": "痞幼与小袁同学约会",
+      "onboard_time": 1743730522,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 424774,
       "num": 479848,
       "word": "哪吒2超155亿了",
@@ -2179,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386338,
+      "num": 376636,
+      "word": "疑似周周小可爱怀孕",
+      "onboard_time": 1743724699,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 385711,
       "num": 385711,
       "word": "东部战区模拟对重要港口精确打击",
@@ -2257,14 +2281,6 @@
       "onboard_time": 1743679641,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 376636,
-      "num": 376636,
-      "word": "疑似周周小可爱怀孕",
-      "onboard_time": 1743724699,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 376428,
@@ -2729,6 +2745,14 @@
       "onboard_time": 1743563421,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321628,
+      "num": 202067,
+      "word": "原来爱有滞后性是真的",
+      "onboard_time": 1743730939,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 320820,
@@ -3579,14 +3603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241893,
-      "num": 241893,
-      "word": "痞幼与小袁同学约会",
-      "onboard_time": 1743730522,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 240994,
       "num": 240994,
       "word": "何济霆",
@@ -3809,14 +3825,6 @@
       "onboard_time": 1743684022,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 226391,
-      "num": 391883,
-      "word": "特朗普因对中国征收关税被起诉",
-      "onboard_time": 1743730401,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 225960,
@@ -4571,6 +4579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196654,
+      "num": 196654,
+      "word": "手机曲面屏为什么消失了",
+      "onboard_time": 1743730040,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196511,
       "num": 196511,
       "word": "海峡雷霆实弹射击画面",
@@ -4809,14 +4825,6 @@
       "onboard_time": 1743577101,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 191767,
-      "num": 191767,
-      "word": "手机曲面屏为什么消失了",
-      "onboard_time": 1743730040,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 191681,
@@ -6555,6 +6563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145184,
+      "num": 927468,
+      "word": "体育比赛为何会遭到美国网攻",
+      "onboard_time": 1743730040,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145035,
       "num": 308431,
       "word": "特朗普声称让美国再次富有",
@@ -7755,6 +7771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118849,
+      "num": 118849,
+      "word": "萨摩耶把猫猫的头含进嘴里",
+      "onboard_time": 1743732261,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118792,
       "num": 118792,
       "word": "丁程鑫时代峰峻最不真实的地方",
@@ -7785,6 +7809,14 @@
       "onboard_time": 1743595403,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 118071,
+      "num": 118071,
+      "word": "人间四月春风起正清明",
+      "onboard_time": 1743725360,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117969,
@@ -7955,14 +7987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113208,
-      "num": 517564,
-      "word": "体育比赛为何会遭到美国网攻",
-      "onboard_time": 1743730040,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113193,
       "num": 113193,
       "word": "宋雨琦新歌预告",
@@ -8009,14 +8033,6 @@
       "onboard_time": 1743559581,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 111517,
-      "num": 111517,
-      "word": "人间四月春风起正清明",
-      "onboard_time": 1743725360,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111510,
@@ -8259,6 +8275,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 103102,
+      "num": 103102,
+      "word": "湖勇大战",
+      "onboard_time": 1743732141,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103015,
       "num": 103015,
       "word": "柳智敏角膜撕裂",
@@ -8427,6 +8451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97080,
+      "num": 97080,
+      "word": "这是他们离开后的第5个清明节",
+      "onboard_time": 1743731661,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96910,
       "num": 134417,
       "word": "中国咖啡98%来自云南",
@@ -8473,6 +8505,14 @@
       "onboard_time": 1743682882,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96076,
+      "num": 96076,
+      "word": "在每个不用早起的日子",
+      "onboard_time": 1743731361,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 94689,
@@ -8580,7 +8620,7 @@
     },
     {
       "raw_hot": 90710,
-      "num": 90710,
+      "num": 375633,
       "word": "家国永念致敬英雄",
       "onboard_time": 1743685642,
       "rank": 49,
@@ -8779,6 +8819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84285,
+      "num": 84285,
+      "word": "宁夏一退役老兵佩戴军功章祭奠战友",
+      "onboard_time": 1743697701,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83933,
       "num": 83933,
       "word": "费启鸣别没事拔鼻毛",
@@ -8811,6 +8859,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82796,
+      "num": 82796,
+      "word": "澳门世界杯倒计时10天",
+      "onboard_time": 1743732500,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82653,
+      "num": 82653,
+      "word": "向阳花",
+      "onboard_time": 1743616635,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 82641,
       "num": 208828,
       "word": "抗震英雄的妹妹用半生兑现承诺",
@@ -8835,12 +8899,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81298,
-      "num": 81298,
-      "word": "在每个不用早起的日子",
-      "onboard_time": 1743731361,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 81627,
+      "num": 376839,
+      "word": "尹锡悦弹劾案结果将如何",
+      "onboard_time": 1743730461,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81045,
@@ -8865,14 +8929,6 @@
       "onboard_time": 1743407121,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 78098,
-      "num": 78098,
-      "word": "宁夏一退役老兵佩戴军功章祭奠战友",
-      "onboard_time": 1743697701,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77730,
@@ -9891,14 +9947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40960,
-      "num": 376839,
-      "word": "尹锡悦弹劾案结果将如何",
-      "onboard_time": 1743730461,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 40819,
       "num": 182024,
       "word": "白宫称这是美现代史最重要的日子之一",
@@ -10873,14 +10921,6 @@
       "onboard_time": 1743652103,
       "rank": 39,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 11672,
-      "num": 14313,
-      "word": "向阳花",
-      "onboard_time": 1743616635,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 11648,

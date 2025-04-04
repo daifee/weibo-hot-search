@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743731420721,
+  "endTime": 1743732754182,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -467,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1601334,
+      "num": 1601334,
+      "word": "RedVelvet 解散",
+      "onboard_time": 1743721997,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1601186,
       "num": 1601186,
       "word": "店主接到近8吨毛肚订单直接报警",
@@ -521,14 +529,6 @@
       "onboard_time": 1743512304,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1551232,
-      "num": 1551232,
-      "word": "RedVelvet 解散",
-      "onboard_time": 1743721997,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1521569,
@@ -1051,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1001509,
+      "num": 1001509,
+      "word": "全红婵要签名照兴奋到搓手",
+      "onboard_time": 1743729441,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 996970,
       "num": 707400,
       "word": "广东高州3.0级地震",
@@ -1092,7 +1100,7 @@
     },
     {
       "raw_hot": 972027,
-      "num": 630769,
+      "num": 910785,
       "word": "张檬孕37周腹膜内剖腹产",
       "onboard_time": 1743723439,
       "rank": 3,
@@ -1209,14 +1217,6 @@
       "onboard_time": 1743470965,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 904564,
-      "num": 904564,
-      "word": "全红婵要签名照兴奋到搓手",
-      "onboard_time": 1743729441,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 903650,
@@ -1819,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 657688,
+      "num": 391883,
+      "word": "特朗普因对中国征收关税被起诉",
+      "onboard_time": 1743730401,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 655659,
       "num": 655659,
       "word": "吴宣仪我又初恋了又破千万了",
@@ -2363,6 +2371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551247,
+      "num": 382805,
+      "word": "韩国月租1600的房子",
+      "onboard_time": 1743727221,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 548915,
       "num": 548915,
       "word": "横店变竖店了",
@@ -2593,14 +2609,6 @@
       "onboard_time": 1743598702,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 514161,
-      "num": 382805,
-      "word": "韩国月租1600的房子",
-      "onboard_time": 1743727221,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 512635,
@@ -3139,6 +3147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 426493,
+      "num": 346491,
+      "word": "痞幼与小袁同学约会",
+      "onboard_time": 1743730522,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 424774,
       "num": 479848,
       "word": "哪吒2超155亿了",
@@ -3515,6 +3531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386338,
+      "num": 376636,
+      "word": "疑似周周小可爱怀孕",
+      "onboard_time": 1743724699,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 385760,
       "num": 261346,
       "word": "田曦薇接",
@@ -3608,14 +3632,6 @@
       "word": "韦雪要签前夫",
       "onboard_time": 1743309269,
       "rank": 23,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 376636,
-      "num": 376636,
-      "word": "疑似周周小可爱怀孕",
-      "onboard_time": 1743724699,
-      "rank": 15,
       "category": "网红"
     },
     {
@@ -4289,6 +4305,14 @@
       "onboard_time": 1743430644,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321628,
+      "num": 202067,
+      "word": "原来爱有滞后性是真的",
+      "onboard_time": 1743730939,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 321586,
@@ -5651,14 +5675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241893,
-      "num": 241893,
-      "word": "痞幼与小袁同学约会",
-      "onboard_time": 1743730522,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 240994,
       "num": 240994,
       "word": "何济霆",
@@ -5993,14 +6009,6 @@
       "onboard_time": 1743418641,
       "rank": 30,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 226391,
-      "num": 391883,
-      "word": "特朗普因对中国征收关税被起诉",
-      "onboard_time": 1743730401,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 226250,
@@ -7179,6 +7187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 196654,
+      "num": 196654,
+      "word": "手机曲面屏为什么消失了",
+      "onboard_time": 1743730040,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196648,
       "num": 196648,
       "word": "辽宁男篮vs山东男篮",
@@ -7489,14 +7505,6 @@
       "onboard_time": 1743654265,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191767,
-      "num": 191767,
-      "word": "手机曲面屏为什么消失了",
-      "onboard_time": 1743730040,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 191681,
@@ -10331,6 +10339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 145184,
+      "num": 927468,
+      "word": "体育比赛为何会遭到美国网攻",
+      "onboard_time": 1743730040,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145035,
       "num": 308431,
       "word": "特朗普声称让美国再次富有",
@@ -12307,6 +12323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118849,
+      "num": 118849,
+      "word": "萨摩耶把猫猫的头含进嘴里",
+      "onboard_time": 1743732261,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118792,
       "num": 118792,
       "word": "丁程鑫时代峰峻最不真实的地方",
@@ -12385,6 +12409,14 @@
       "onboard_time": 1743302069,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118071,
+      "num": 118071,
+      "word": "人间四月春风起正清明",
+      "onboard_time": 1743725360,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117969,
@@ -12667,14 +12699,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 113208,
-      "num": 517564,
-      "word": "体育比赛为何会遭到美国网攻",
-      "onboard_time": 1743730040,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113193,
       "num": 113193,
       "word": "宋雨琦新歌预告",
@@ -12753,14 +12777,6 @@
       "onboard_time": 1743559581,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 111517,
-      "num": 111517,
-      "word": "人间四月春风起正清明",
-      "onboard_time": 1743725360,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111510,
@@ -13267,6 +13283,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 103102,
+      "num": 103102,
+      "word": "湖勇大战",
+      "onboard_time": 1743732141,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103022,
       "num": 103022,
       "word": "曼谷中国女孩讲述25楼逃生经历",
@@ -13587,6 +13611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97080,
+      "num": 97080,
+      "word": "这是他们离开后的第5个清明节",
+      "onboard_time": 1743731661,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96793,
       "num": 96793,
       "word": "新秀回应离婚",
@@ -13665,6 +13697,14 @@
       "onboard_time": 1743682882,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96076,
+      "num": 96076,
+      "word": "在每个不用早起的日子",
+      "onboard_time": 1743731361,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 95577,
@@ -13860,7 +13900,7 @@
     },
     {
       "raw_hot": 90710,
-      "num": 90710,
+      "num": 375633,
       "word": "家国永念致敬英雄",
       "onboard_time": 1743685642,
       "rank": 49,
@@ -14195,6 +14235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84285,
+      "num": 84285,
+      "word": "宁夏一退役老兵佩戴军功章祭奠战友",
+      "onboard_time": 1743697701,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83933,
       "num": 83933,
       "word": "费启鸣别没事拔鼻毛",
@@ -14216,6 +14264,14 @@
       "word": "于洋退役仪式",
       "onboard_time": 1743604944,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82796,
+      "num": 82796,
+      "word": "澳门世界杯倒计时10天",
+      "onboard_time": 1743732500,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -14251,6 +14307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81627,
+      "num": 376839,
+      "word": "尹锡悦弹劾案结果将如何",
+      "onboard_time": 1743730461,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81349,
       "num": 81349,
       "word": "虞书欣校园枝惊喜返场",
@@ -14265,14 +14329,6 @@
       "onboard_time": 1743333923,
       "rank": 16,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 81298,
-      "num": 81298,
-      "word": "在每个不用早起的日子",
-      "onboard_time": 1743731361,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 81225,
@@ -14329,14 +14385,6 @@
       "onboard_time": 1743315260,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78098,
-      "num": 78098,
-      "word": "宁夏一退役老兵佩戴军功章祭奠战友",
-      "onboard_time": 1743697701,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77799,
@@ -15897,14 +15945,6 @@
       "onboard_time": 1743401782,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 40960,
-      "num": 376839,
-      "word": "尹锡悦弹劾案结果将如何",
-      "onboard_time": 1743730461,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 40819,
