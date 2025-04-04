@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743763397762,
+  "endTime": 1743765705392,
   "band_list": [
     {
       "raw_hot": 3529783,
@@ -35,6 +35,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1689739,
+      "num": 1689739,
+      "word": "对原产美国所有进口商品加征34%关税",
+      "onboard_time": 1743761781,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1601334,
       "num": 1601334,
       "word": "RedVelvet 解散",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1546550,
-      "num": 1112798,
+      "num": 1252919,
       "word": "芭乐 酸梅粉",
       "onboard_time": 1743758723,
       "rank": 45,
@@ -67,20 +75,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1342169,
+      "num": 1342169,
+      "word": "关税",
+      "onboard_time": 1743688101,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1207845,
+      "num": 1207845,
+      "word": "阿条姐登顶世界第一",
+      "onboard_time": 1743761541,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1140320,
       "num": 1140320,
       "word": "金子涵 意难平",
       "onboard_time": 1743736760,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1128783,
-      "num": 1180605,
-      "word": "对原产美国所有进口商品加征34%关税",
-      "onboard_time": 1743761781,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1098033,
@@ -203,14 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 660308,
-      "num": 660308,
-      "word": "阿条姐登顶世界第一",
-      "onboard_time": 1743761541,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 657688,
       "num": 528480,
       "word": "特朗普因对中国征收关税被起诉",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 625676,
-      "num": 249915,
+      "num": 255451,
       "word": "男子祭祖上香呛了一口烟救自己一命",
       "onboard_time": 1743747681,
       "rank": 20,
@@ -259,20 +267,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 581351,
+      "num": 581351,
+      "word": "金子涵 乐华",
+      "onboard_time": 1743764542,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578666,
       "num": 578666,
       "word": "清明节",
       "onboard_time": 1743722358,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 575808,
-      "num": 575808,
-      "word": "关税",
-      "onboard_time": 1743688101,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 551247,
@@ -387,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441813,
+      "num": 441813,
+      "word": "对中重稀土相关物项实施出口管制",
+      "onboard_time": 1743763102,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 426493,
       "num": 346491,
       "word": "痞幼与小袁同学约会",
@@ -427,11 +443,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 407461,
+      "num": 407461,
+      "word": "向阳花票房",
+      "onboard_time": 1743763461,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 405292,
       "num": 295377,
       "word": "热烈重映 宋祖儿戏份",
       "onboard_time": 1743685343,
       "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 397759,
+      "num": 397759,
+      "word": "赵丽颖演技",
+      "onboard_time": 1743763941,
+      "rank": 12,
       "category": "电影"
     },
     {
@@ -465,6 +497,14 @@
       "onboard_time": 1743738201,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382984,
+      "num": 382984,
+      "word": "中方在世贸组织起诉美对等关税措施",
+      "onboard_time": 1743762862,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 381371,
@@ -531,12 +571,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 350171,
-      "num": 350171,
-      "word": "中方在世贸组织起诉美对等关税措施",
-      "onboard_time": 1743762862,
-      "rank": 12,
-      "category": "国内时政"
+      "raw_hot": 358036,
+      "num": 358036,
+      "word": "何老师50岁的体力",
+      "onboard_time": 1743759261,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 350106,
@@ -561,14 +601,6 @@
       "onboard_time": 1743746238,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 330752,
-      "num": 330752,
-      "word": "何老师50岁的体力",
-      "onboard_time": 1743759261,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 330527,
@@ -601,6 +633,14 @@
       "onboard_time": 1743691643,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304881,
+      "num": 304881,
+      "word": "之后会火IU 冷门歌手孙燕姿",
+      "onboard_time": 1743760221,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 300220,
@@ -691,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253353,
+      "num": 253353,
+      "word": "小猫 请苍天辨忠奸",
+      "onboard_time": 1743762321,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252354,
       "num": 252354,
       "word": "哪吒",
@@ -747,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237868,
+      "num": 237868,
+      "word": "王珞丹 体面人",
+      "onboard_time": 1743763223,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236855,
       "num": 236855,
       "word": "华晨宇 郑楠编曲",
@@ -795,14 +851,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 224934,
-      "num": 252586,
-      "word": "之后会火IU 冷门歌手孙燕姿",
-      "onboard_time": 1743760221,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222866,
       "num": 222866,
       "word": "明宰铉中文发言",
@@ -827,12 +875,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217310,
-      "num": 217310,
-      "word": "对中重稀土相关物项实施出口管制",
-      "onboard_time": 1743763102,
-      "rank": 24,
-      "category": "国内时政"
+      "raw_hot": 218315,
+      "num": 273256,
+      "word": "张艺兴孤注二掷",
+      "onboard_time": 1743763823,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 215147,
@@ -865,6 +913,14 @@
       "onboard_time": 1743682702,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209733,
+      "num": 209733,
+      "word": "enhypen出发科切拉",
+      "onboard_time": 1743764661,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 209123,
@@ -907,8 +963,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206731,
+      "num": 576285,
+      "word": "将11家美企列入不可靠实体清单",
+      "onboard_time": 1743762201,
+      "rank": 34,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 206525,
-      "num": 206525,
+      "num": 416236,
       "word": "暂停6家美涉事企业产品输华资质",
       "onboard_time": 1743762981,
       "rank": 27,
@@ -937,14 +1001,6 @@
       "onboard_time": 1743739462,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201630,
-      "num": 201630,
-      "word": "小猫 请苍天辨忠奸",
-      "onboard_time": 1743762321,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 199909,
@@ -1019,14 +1075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 190830,
-      "num": 576285,
-      "word": "将11家美企列入不可靠实体清单",
-      "onboard_time": 1743762201,
-      "rank": 34,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 190229,
       "num": 190229,
       "word": "尹锡悦宣布紧急戒严违反戒严法",
@@ -1075,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178765,
+      "num": 178765,
+      "word": "尚雯婕又去选人了",
+      "onboard_time": 1743764782,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177433,
       "num": 152625,
       "word": "养了10年的狗跳起来咬向主人喉咙",
@@ -1091,6 +1147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 174973,
+      "num": 174973,
+      "word": "中方反制措施来了",
+      "onboard_time": 1743764421,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 174596,
       "num": 174596,
       "word": "叶童张小婉这段好虐",
@@ -1105,6 +1169,14 @@
       "onboard_time": 1743761722,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172837,
+      "num": 172837,
+      "word": "jayjay公开",
+      "onboard_time": 1743765561,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 172589,
@@ -1124,7 +1196,7 @@
     },
     {
       "raw_hot": 168975,
-      "num": 1148945,
+      "num": 1282677,
       "word": "体育比赛为何会遭到美国网攻",
       "onboard_time": 1743730040,
       "rank": 2,
@@ -1195,14 +1267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160958,
-      "num": 160958,
-      "word": "王珞丹 体面人",
-      "onboard_time": 1743763223,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159540,
       "num": 159540,
       "word": "永远记住你",
@@ -1265,6 +1329,14 @@
       "onboard_time": 1743759861,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 155412,
+      "num": 155412,
+      "word": "浪姐精准淘汰有能力的人",
+      "onboard_time": 1743764122,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 155118,
@@ -1587,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127005,
+      "num": 127005,
+      "word": "毛晓彤羊毛卷小甜椒",
+      "onboard_time": 1743765262,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126936,
       "num": 126936,
       "word": "中国快递协会发布严正声明",
@@ -1609,6 +1689,14 @@
       "onboard_time": 1743762501,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126458,
+      "num": 126458,
+      "word": "小伙患抑郁暴食2年长近百斤",
+      "onboard_time": 1743763461,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125686,
@@ -1659,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119683,
+      "num": 119683,
+      "word": "对原产于美印的医用CT球管反倾销调查",
+      "onboard_time": 1743763223,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119530,
       "num": 252936,
       "word": "美股",
@@ -1697,6 +1793,14 @@
       "onboard_time": 1743686962,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115425,
+      "num": 115425,
+      "word": "官方回应1.5万元天价纸别墅",
+      "onboard_time": 1743763223,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115369,
@@ -1811,14 +1915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109985,
-      "num": 109985,
-      "word": "对原产于美印的医用CT球管反倾销调查",
-      "onboard_time": 1743763223,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 109674,
       "num": 139873,
       "word": "甲亢哥让外国人疯狂种草中国",
@@ -1841,6 +1937,14 @@
       "onboard_time": 1743748281,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107817,
+      "num": 107817,
+      "word": "念无双",
+      "onboard_time": 1743764722,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 107807,
@@ -1881,14 +1985,6 @@
       "onboard_time": 1743702797,
       "rank": 48,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 103579,
-      "num": 103579,
-      "word": "官方回应1.5万元天价纸别墅",
-      "onboard_time": 1743763223,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103207,
@@ -1985,6 +2081,14 @@
       "onboard_time": 1743674721,
       "rank": 34,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 98224,
+      "num": 98224,
+      "word": "宋妍霏初见面的回旋镖正中眉心",
+      "onboard_time": 1743764182,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 98035,
@@ -2289,6 +2393,14 @@
       "onboard_time": 1743689363,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64671,
+      "num": 181930,
+      "word": "身体缺维B的人易情绪暴躁",
+      "onboard_time": 1743765381,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 64643,
