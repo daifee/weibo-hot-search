@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743777709926,
+  "endTime": 1743780356665,
   "band_list": [
     {
       "raw_hot": 3529783,
@@ -33,6 +33,14 @@
       "onboard_time": 1743738621,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1724165,
+      "num": 1724165,
+      "word": "路易吉或被判死刑",
+      "onboard_time": 1743776302,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1689739,
@@ -291,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 683148,
+      "num": 683148,
+      "word": "甲亢哥评价中国行城市体验排名",
+      "onboard_time": 1743776602,
+      "rank": 25,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 657688,
       "num": 528480,
       "word": "特朗普因对中国征收关税被起诉",
@@ -313,6 +329,14 @@
       "onboard_time": 1743747681,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 603395,
+      "num": 603395,
+      "word": "李晟感谢49位朋友的支持",
+      "onboard_time": 1743775463,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 593316,
@@ -451,6 +475,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 478125,
+      "num": 478125,
+      "word": "原来假期最好的休息不是睡觉",
+      "onboard_time": 1743775763,
+      "rank": 14,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 476971,
+      "num": 476971,
+      "word": "阿Sa井柏然宋仲基黄轩合照",
+      "onboard_time": 1743776422,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468553,
       "num": 468553,
       "word": "沈阳一楼发生火灾2名消防员牺牲",
@@ -473,14 +513,6 @@
       "onboard_time": 1743734362,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 460999,
-      "num": 422514,
-      "word": "李晟感谢49位朋友的支持",
-      "onboard_time": 1743775463,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 453598,
@@ -643,14 +675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 379119,
-      "num": 379119,
-      "word": "阿Sa井柏然宋仲基黄轩合照",
-      "onboard_time": 1743776422,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 378301,
       "num": 378301,
       "word": "余承东不再担任华为车BU董事长",
@@ -707,14 +731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 358576,
-      "num": 358576,
-      "word": "路易吉或被判死刑",
-      "onboard_time": 1743776302,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 358388,
       "num": 267249,
       "word": "幸好我是汉族贵族也太累了",
@@ -753,14 +769,6 @@
       "onboard_time": 1743724821,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 347259,
-      "num": 397093,
-      "word": "原来假期最好的休息不是睡觉",
-      "onboard_time": 1743775763,
-      "rank": 14,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 343429,
@@ -1001,14 +1009,6 @@
       "onboard_time": 1743757640,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 243524,
-      "num": 243524,
-      "word": "甲亢哥评价中国行城市体验排名",
-      "onboard_time": 1743776602,
-      "rank": 25,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 241892,
@@ -1427,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183799,
+      "num": 171377,
+      "word": "刀小刀经纪公司声明",
+      "onboard_time": 1743777863,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 181740,
       "num": 181740,
       "word": "王安宇演出了打工人的千薪万苦",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1743745700,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171076,
+      "num": 171076,
+      "word": "孙俪演技",
+      "onboard_time": 1743778341,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 168975,
@@ -1601,6 +1617,14 @@
       "onboard_time": 1743773782,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162808,
+      "num": 175688,
+      "word": "向阳花没认出来王菊",
+      "onboard_time": 1743779543,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 162380,
@@ -1707,6 +1731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154557,
+      "num": 154557,
+      "word": "黄金",
+      "onboard_time": 1743779842,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153477,
       "num": 153477,
       "word": "风象星座看了找不到退出键的剧",
@@ -1801,6 +1833,14 @@
       "onboard_time": 1743766402,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146222,
+      "num": 100973,
+      "word": "兰西雅 亮眼",
+      "onboard_time": 1743780202,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 145902,
@@ -2035,8 +2075,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 130565,
+      "num": 130565,
+      "word": "中方组合拳回应美对等关税",
+      "onboard_time": 1743778403,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129769,
-      "num": 129769,
+      "num": 172995,
       "word": "赵睿受伤",
       "onboard_time": 1743777382,
       "rank": 38,
@@ -2049,6 +2097,14 @@
       "onboard_time": 1743775463,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129061,
+      "num": 129061,
+      "word": "冯小刚担心观众的承受能力",
+      "onboard_time": 1743776783,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 127608,
@@ -2171,14 +2227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120135,
-      "num": 120135,
-      "word": "冯小刚担心观众的承受能力",
-      "onboard_time": 1743776783,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 119683,
       "num": 119683,
       "word": "对原产于美印的医用CT球管反倾销调查",
@@ -2211,12 +2259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118727,
+      "num": 118727,
+      "word": "甲亢哥香港行最好的22分钟",
+      "onboard_time": 1743774203,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 118071,
       "num": 118071,
       "word": "人间四月春风起正清明",
       "onboard_time": 1743725360,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118034,
+      "num": 118034,
+      "word": "杜邦股价暴跌",
+      "onboard_time": 1743777743,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 115739,
@@ -2232,6 +2296,14 @@
       "word": "SM新男团",
       "onboard_time": 1743686962,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115557,
+      "num": 115557,
+      "word": "李现的教养都体现在细节里",
+      "onboard_time": 1743779543,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -2323,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111563,
+      "num": 111563,
+      "word": "中国舞协主席冯双白被查",
+      "onboard_time": 1743779423,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111099,
       "num": 111099,
       "word": "麦琪的礼物被拍进剧",
@@ -2393,6 +2473,14 @@
       "onboard_time": 1743763102,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107556,
+      "num": 107556,
+      "word": "梦龙杭州演唱会",
+      "onboard_time": 1743778943,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 106827,
@@ -2737,6 +2825,14 @@
       "onboard_time": 1743697701,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83814,
+      "num": 307729,
+      "word": "道指暴跌1600点进入回调",
+      "onboard_time": 1743779242,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 83607,
@@ -3153,6 +3249,14 @@
       "onboard_time": 1743743302,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 21324,
+      "num": 163526,
+      "word": "官方辟谣千元可考入殓师证月薪上万",
+      "onboard_time": 1743779181,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21250,
