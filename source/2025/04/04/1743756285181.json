@@ -1,0 +1,410 @@
+{
+  "runTime": 1743756285181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1098033,
+        "num": 1175685,
+        "word": "身上多处被烤熟的鹅坚强已能进食",
+        "onboard_time": 1743751040,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 621559,
+        "num": 621559,
+        "word": "吴启华金巧巧分手22年后演夫妻",
+        "onboard_time": 1743750562,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23691,
+        "num": 510984,
+        "word": "他们化作山河星辰我们永远记得",
+        "onboard_time": 1743733943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 467851,
+        "num": 467851,
+        "word": "人体真正需要的7种休息",
+        "onboard_time": 1743753681,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268694,
+        "num": 268694,
+        "word": "清明节",
+        "onboard_time": 1743722358,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1313843,
+        "num": 266002,
+        "word": "辣目洋子暴瘦20斤",
+        "onboard_time": 1743750441,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446684,
+        "num": 261781,
+        "word": "全国最能生娃省份排名出炉",
+        "onboard_time": 1743746120,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418577,
+        "num": 259788,
+        "word": "小谢称赵露思真的很好",
+        "onboard_time": 1743753020,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55314,
+        "num": 251291,
+        "word": "一组数据看清明假期消费新趋势",
+        "onboard_time": 1743754401,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251260,
+        "num": 251260,
+        "word": "尹锡悦被罢免总统职务",
+        "onboard_time": 1743733702,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 900523,
+        "num": 246098,
+        "word": "房琪情商",
+        "onboard_time": 1743752420,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549237,
+        "num": 244405,
+        "word": "李金铭十年前剩饭保留至今",
+        "onboard_time": 1743739761,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407332,
+        "num": 244211,
+        "word": "特朗普回应美股大跌",
+        "onboard_time": 1743749961,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239214,
+        "num": 239214,
+        "word": "一秒钟 张凌赫",
+        "onboard_time": 1743755301,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55857,
+        "num": 231201,
+        "word": "当了27年黑户男子有户口了",
+        "onboard_time": 1743755421,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226801,
+        "num": 226801,
+        "word": "00后葬礼主持人工作后开始害怕死亡",
+        "onboard_time": 1743752960,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213004,
+        "num": 213004,
+        "word": "RedVelvet 解散",
+        "onboard_time": 1743721997,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201910,
+        "num": 201910,
+        "word": "许嵩身上痒就去洗澡",
+        "onboard_time": 1743749661,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198125,
+        "num": 198125,
+        "word": "何泓姗淘汰房琪觉得很抱歉",
+        "onboard_time": 1743747681,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192584,
+        "num": 192584,
+        "word": "女子花500元找人代祭扫被骗",
+        "onboard_time": 1743746238,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381744,
+        "num": 191897,
+        "word": "男子祭祖上香呛了一口烟救自己一命",
+        "onboard_time": 1743747681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181490,
+        "num": 181490,
+        "word": "18岁禁毒战士的葬礼全场被马赛克",
+        "onboard_time": 1743755841,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181368,
+        "num": 181368,
+        "word": "吴宣仪表达",
+        "onboard_time": 1743749961,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180089,
+        "num": 180089,
+        "word": "人人人人栈桥人人人人",
+        "onboard_time": 1743753861,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 174725,
+        "num": 174725,
+        "word": "疯狂动物城2",
+        "onboard_time": 1743738260,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156017,
+        "num": 156017,
+        "word": "尹锡悦弹劾案宣判",
+        "onboard_time": 1743733401,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155927,
+        "num": 155927,
+        "word": "手机曲面屏为什么消失了",
+        "onboard_time": 1743730040,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148068,
+        "num": 148068,
+        "word": "李现 花鸟使",
+        "onboard_time": 1743753140,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135823,
+        "num": 135823,
+        "word": "日本金融股崩了",
+        "onboard_time": 1743754641,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134640,
+        "num": 134640,
+        "word": "尹锡悦支持者反对者悲喜两重天",
+        "onboard_time": 1743753620,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78181,
+        "num": 134316,
+        "word": "沈阳消防通报2名消防员牺牲",
+        "onboard_time": 1743751821,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167031,
+        "num": 134274,
+        "word": "沈阳一楼发生火灾2名消防员牺牲",
+        "onboard_time": 1743741261,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134164,
+        "num": 134164,
+        "word": "Angelababy女王权杖",
+        "onboard_time": 1743745160,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120918,
+        "num": 120918,
+        "word": "尹锡悦成韩国第二位被罢免总统",
+        "onboard_time": 1743734362,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119724,
+        "num": 119724,
+        "word": "向阳花口碑",
+        "onboard_time": 1743755841,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116100,
+        "num": 116100,
+        "word": "VaVa为了陪卡琳娜灭吴宣仪的灯",
+        "onboard_time": 1743749781,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112464,
+        "num": 112464,
+        "word": "金子涵 意难平",
+        "onboard_time": 1743736760,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106191,
+        "num": 106191,
+        "word": "甲亢哥在香港街头不停飙重庆话",
+        "onboard_time": 1743752000,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105409,
+        "num": 105409,
+        "word": "speed 香港",
+        "onboard_time": 1743741261,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103351,
+        "num": 103351,
+        "word": "向阳花今日公映",
+        "onboard_time": 1743734661,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97623,
+        "num": 97623,
+        "word": "孙俪李小冉新剧纯恨姐妹变纯爱",
+        "onboard_time": 1743752420,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97831,
+        "num": 96860,
+        "word": "向阳花",
+        "onboard_time": 1743727402,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93201,
+        "num": 93201,
+        "word": "艺术家撒1000粒黄金米请观众淘金",
+        "onboard_time": 1743754941,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90651,
+        "num": 90651,
+        "word": "风象星座看了找不到退出键的剧",
+        "onboard_time": 1743754342,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89702,
+        "num": 89702,
+        "word": "刀小刀回应被警察带走",
+        "onboard_time": 1743741201,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 88966,
+        "num": 88966,
+        "word": "不止李金铭还有秋瓷炫和黄圣依",
+        "onboard_time": 1743754881,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83255,
+        "num": 83255,
+        "word": "医生解读明星热衷的腹膜外剖宫产",
+        "onboard_time": 1743750141,
+        "rank": 46,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 82107,
+        "num": 82107,
+        "word": "麦琳分享瘦44斤方法",
+        "onboard_time": 1743737181,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81515,
+        "num": 81515,
+        "word": "清明思念如青草漫过山野",
+        "onboard_time": 1743733943,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79102,
+        "num": 79102,
+        "word": "林栋哲岳父变亲爸了",
+        "onboard_time": 1743738862,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平总书记这些深情话语#"
+    }
+  }
+}
