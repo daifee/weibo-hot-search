@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743752239560,
+  "endTime": 1743755496758,
   "band_list": [
     {
       "raw_hot": 3529783,
@@ -51,7 +51,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1183931,
+      "raw_hot": 1364965,
       "num": 1189429,
       "word": "辣目洋子暴瘦20斤",
       "onboard_time": 1743750441,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 983790,
+      "num": 1157406,
+      "word": "身上多处被烤熟的鹅坚强已能进食",
+      "onboard_time": 1743751040,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 972027,
       "num": 910785,
       "word": "张檬孕37周腹膜内剖腹产",
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 818886,
+      "num": 261296,
+      "word": "房琪情商",
+      "onboard_time": 1743752420,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 805847,
       "num": 403187,
       "word": "YERI和Wendy离开SM",
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 768937,
-      "num": 308799,
+      "num": 470491,
       "word": "吴启华金巧巧分手22年后演夫妻",
       "onboard_time": 1743750562,
       "rank": 6,
@@ -283,6 +299,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 423708,
+      "num": 423708,
+      "word": "特朗普回应美股大跌",
+      "onboard_time": 1743749961,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 422663,
+      "num": 422663,
+      "word": "人体真正需要的7种休息",
+      "onboard_time": 1743753681,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 419911,
       "num": 378447,
       "word": "沈梦辰和女网红撞衫",
@@ -411,6 +443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 328563,
+      "num": 328563,
+      "word": "小谢称赵露思真的很好",
+      "onboard_time": 1743753020,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326541,
       "num": 397232,
       "word": "特朗普将在未来几周发放金卡签证",
@@ -467,28 +507,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 281668,
-      "num": 290502,
-      "word": "特朗普回应美股大跌",
-      "onboard_time": 1743749961,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 280081,
       "num": 280081,
       "word": "甲亢哥中国行效果好到爆",
       "onboard_time": 1743737481,
       "rank": 39,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 278207,
-      "num": 278207,
-      "word": "身上多处被烤熟的鹅坚强已能进食",
-      "onboard_time": 1743751040,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 273317,
@@ -579,6 +603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 233129,
+      "num": 233129,
+      "word": "吴宣仪表达",
+      "onboard_time": 1743749961,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230176,
       "num": 197136,
       "word": "何丹彤回应与刘亦菲同框",
@@ -593,6 +625,14 @@
       "onboard_time": 1743741502,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225669,
+      "num": 225669,
+      "word": "人人人人栈桥人人人人",
+      "onboard_time": 1743753861,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 225663,
@@ -633,14 +673,6 @@
       "onboard_time": 1743727040,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213599,
-      "num": 213599,
-      "word": "吴宣仪表达",
-      "onboard_time": 1743749961,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 211125,
@@ -769,6 +801,14 @@
       "onboard_time": 1743733880,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 188371,
+      "num": 188371,
+      "word": "00后葬礼主持人工作后开始害怕死亡",
+      "onboard_time": 1743752960,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188322,
@@ -971,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153477,
+      "num": 153477,
+      "word": "风象星座看了找不到退出键的剧",
+      "onboard_time": 1743754342,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150407,
       "num": 150407,
       "word": "韩国总统",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1743748161,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143163,
+      "num": 143163,
+      "word": "李现 花鸟使",
+      "onboard_time": 1743753140,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 142555,
@@ -1131,6 +1187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 136094,
+      "num": 136094,
+      "word": "日本金融股崩了",
+      "onboard_time": 1743754641,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 135081,
       "num": 135081,
       "word": "同济医学院称每年都出不录取名单",
@@ -1169,6 +1233,14 @@
       "onboard_time": 1743733521,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132403,
+      "num": 132403,
+      "word": "甲亢哥在香港街头不停飙重庆话",
+      "onboard_time": 1743752000,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 127608,
@@ -1403,6 +1475,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 103207,
+      "num": 103207,
+      "word": "沈阳消防通报2名消防员牺牲",
+      "onboard_time": 1743751821,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103102,
       "num": 103102,
       "word": "湖勇大战",
@@ -1443,28 +1523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100283,
-      "num": 100283,
-      "word": "沈阳消防通报2名消防员牺牲",
-      "onboard_time": 1743751821,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100190,
       "num": 100190,
       "word": "一个树碑宠物墓地超万元",
       "onboard_time": 1743730939,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100063,
-      "num": 100063,
-      "word": "甲亢哥在香港街头不停飙重庆话",
-      "onboard_time": 1743752000,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 99451,
@@ -1489,6 +1553,22 @@
       "onboard_time": 1743674721,
       "rank": 34,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 98035,
+      "num": 98035,
+      "word": "医生解读明星热衷的腹膜外剖宫产",
+      "onboard_time": 1743750141,
+      "rank": 48,
+      "category": "健康医疗,艺人"
+    },
+    {
+      "raw_hot": 97320,
+      "num": 97320,
+      "word": "一秒钟 张凌赫",
+      "onboard_time": 1743755301,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 97080,
@@ -1531,6 +1611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93981,
+      "num": 126687,
+      "word": "尹锡悦支持者反对者悲喜两重天",
+      "onboard_time": 1743753620,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93851,
       "num": 93851,
       "word": "冰壶",
@@ -1545,14 +1633,6 @@
       "onboard_time": 1743675020,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92664,
-      "num": 92664,
-      "word": "医生解读明星热衷的腹膜外剖宫产",
-      "onboard_time": 1743750141,
-      "rank": 48,
-      "category": "健康医疗,艺人"
     },
     {
       "raw_hot": 92459,
@@ -1603,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85573,
+      "num": 85573,
+      "word": "艺术家撒1000粒黄金米请观众淘金",
+      "onboard_time": 1743754941,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85543,
       "num": 85543,
       "word": "直播弹幕暗藏神秘交易信息",
@@ -1617,6 +1705,14 @@
       "onboard_time": 1743749122,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 84672,
+      "num": 84672,
+      "word": "不止李金铭还有秋瓷炫和黄圣依",
+      "onboard_time": 1743754881,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 84569,
@@ -1867,6 +1963,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43937,
+      "num": 128850,
+      "word": "一位特殊清洁员见证的1500种死亡",
+      "onboard_time": 1743753921,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40371,
+      "num": 104092,
+      "word": "和想念的人说一声我想你了",
+      "onboard_time": 1743745761,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40010,
       "num": 162510,
       "word": "钱天一vs王艺迪",
@@ -1883,11 +1995,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39820,
+      "num": 261571,
+      "word": "一组数据看清明假期消费新趋势",
+      "onboard_time": 1743754401,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37475,
       "num": 171910,
       "word": "专家辟谣抗生素洗头治疗脱发",
       "onboard_time": 1743747501,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36564,
+      "num": 434336,
+      "word": "清明具有节气与节日双重身份",
+      "onboard_time": 1743754581,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1937,6 +2065,14 @@
       "onboard_time": 1743705374,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31586,
+      "num": 103635,
+      "word": "当了27年黑户男子有户口了",
+      "onboard_time": 1743755421,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30521,
@@ -2044,6 +2180,9 @@
     },
     {
       "word": "#义务植树要一代接着一代干下去#"
+    },
+    {
+      "word": "#重温习近平总书记这些深情话语#"
     }
   ]
 }
