@@ -1,0 +1,410 @@
+{
+  "runTime": 1743738508537,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1764127,
+        "num": 1764127,
+        "word": "尹锡悦被罢免总统职务",
+        "onboard_time": 1743733702,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1368440,
+        "num": 1368440,
+        "word": "RedVelvet 解散",
+        "onboard_time": 1743721997,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168975,
+        "num": 1148945,
+        "word": "体育比赛为何会遭到美国网攻",
+        "onboard_time": 1743730040,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1140320,
+        "num": 1140320,
+        "word": "金子涵 意难平",
+        "onboard_time": 1743736760,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584760,
+        "num": 584760,
+        "word": "手机曲面屏为什么消失了",
+        "onboard_time": 1743730040,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 554923,
+        "num": 554923,
+        "word": "清明节",
+        "onboard_time": 1743722358,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 757694,
+        "num": 517214,
+        "word": "张檬孕37周腹膜内剖腹产",
+        "onboard_time": 1743723439,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458863,
+        "num": 458863,
+        "word": "李金铭 真人秀中没有人伤害我",
+        "onboard_time": 1743723799,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442663,
+        "num": 442663,
+        "word": "全红婵要签名照兴奋到搓手",
+        "onboard_time": 1743729441,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189552,
+        "num": 423486,
+        "word": "清明思念如青草漫过山野",
+        "onboard_time": 1743733943,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443955,
+        "num": 420264,
+        "word": "麦琳分享瘦44斤方法",
+        "onboard_time": 1743737181,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416200,
+        "num": 416200,
+        "word": "尹锡悦成韩国第二位被罢免总统",
+        "onboard_time": 1743734362,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 413617,
+        "num": 413617,
+        "word": "尹锡悦弹劾案宣判",
+        "onboard_time": 1743733401,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 401648,
+        "num": 401648,
+        "word": "特朗普因对中国征收关税被起诉",
+        "onboard_time": 1743730401,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 369749,
+        "num": 369749,
+        "word": "Wendy泡泡发长文",
+        "onboard_time": 1743736341,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284463,
+        "num": 284463,
+        "word": "原来爱有滞后性是真的",
+        "onboard_time": 1743730939,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279312,
+        "num": 279312,
+        "word": "孟子坤 未成年",
+        "onboard_time": 1743725179,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272183,
+        "num": 272183,
+        "word": "NewJeans父母出现分歧",
+        "onboard_time": 1743735020,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267249,
+        "num": 267249,
+        "word": "幸好我是汉族贵族也太累了",
+        "onboard_time": 1743736880,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204032,
+        "num": 251531,
+        "word": "718斤小伙因情绪问题一顿吃25个包子",
+        "onboard_time": 1743730581,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249113,
+        "num": 249113,
+        "word": "疑似周周小可爱怀孕",
+        "onboard_time": 1743724699,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 246629,
+        "num": 246629,
+        "word": "尹锡悦刑期或创新高",
+        "onboard_time": 1743736219,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214982,
+        "num": 214982,
+        "word": "疯狂动物城2",
+        "onboard_time": 1743738260,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186592,
+        "num": 186592,
+        "word": "AI复原出22岁烈士的模样",
+        "onboard_time": 1743738201,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171339,
+        "num": 171339,
+        "word": "YERI和Wendy离开SM",
+        "onboard_time": 1743730040,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165625,
+        "num": 165625,
+        "word": "沈梦辰和女网红撞衫",
+        "onboard_time": 1743725301,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165107,
+        "num": 165107,
+        "word": "赵丽颖兼任向阳花出品人",
+        "onboard_time": 1743736942,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164437,
+        "num": 164437,
+        "word": "节气里的大美中国",
+        "onboard_time": 1743738201,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161656,
+        "num": 161656,
+        "word": "姚晨爱女的含金量还在上升",
+        "onboard_time": 1743737600,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161246,
+        "num": 161246,
+        "word": "萨摩耶把猫猫的头含进嘴里",
+        "onboard_time": 1743732261,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239512,
+        "num": 160649,
+        "word": "韩国富豪董事长的营养早餐",
+        "onboard_time": 1743737960,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159756,
+        "num": 159756,
+        "word": "疑似周周小可爱陈泽领证",
+        "onboard_time": 1743737841,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143917,
+        "num": 143917,
+        "word": "边牧为了一口奶请来了狗语翻译",
+        "onboard_time": 1743736942,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141650,
+        "num": 141650,
+        "word": "余承东不再担任华为车BU董事长",
+        "onboard_time": 1743730040,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 140831,
+        "num": 140831,
+        "word": "原来猫猫失重的第一反应也是闭眼睛",
+        "onboard_time": 1743735020,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139045,
+        "num": 139045,
+        "word": "历史上韩国总统们的命运",
+        "onboard_time": 1743736219,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138958,
+        "num": 138958,
+        "word": "车银优我是素人",
+        "onboard_time": 1743723859,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127618,
+        "num": 127618,
+        "word": "向阳花今日公映",
+        "onboard_time": 1743734661,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125686,
+        "num": 125686,
+        "word": "不说话的爱",
+        "onboard_time": 1743737721,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78657,
+        "num": 124975,
+        "word": "甲亢哥中国行效果好到爆",
+        "onboard_time": 1743737481,
+        "rank": 39,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 125744,
+        "num": 124904,
+        "word": "向阳花",
+        "onboard_time": 1743727402,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124737,
+        "num": 124737,
+        "word": "张艺兴不说话的爱单日票房超哪吒2",
+        "onboard_time": 1743724281,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121386,
+        "num": 121386,
+        "word": "山东姑娘考公到阿勒泰当警察",
+        "onboard_time": 1743727040,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11867,
+        "num": 110227,
+        "word": "缅甸地震已致5名中国公民遇难",
+        "onboard_time": 1743738441,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 109708,
+        "num": 109708,
+        "word": "尹锡悦宣布紧急戒严违反戒严法",
+        "onboard_time": 1743733880,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108256,
+        "num": 108256,
+        "word": "永远记住你",
+        "onboard_time": 1743702735,
+        "rank": 45,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 106845,
+        "num": 106845,
+        "word": "陈星旭卢昱晓轧戏吻戏",
+        "onboard_time": 1743729142,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88502,
+        "num": 104758,
+        "word": "NBA",
+        "onboard_time": 1743736821,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104702,
+        "num": 104702,
+        "word": "孙俪工作室回复邓超",
+        "onboard_time": 1743692422,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104386,
+        "num": 104386,
+        "word": "吴敬平晒10岁樊振东反手技术",
+        "onboard_time": 1743728061,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
