@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743799175423,
+  "endTime": 1743801752186,
   "band_list": [
     {
       "raw_hot": 1230915,
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31200,
+      "num": 31200,
+      "word": "欧盟称已准备好回应美方加税",
+      "onboard_time": 1743799873,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30162,
       "num": 30162,
       "word": "檀健次将回归Hi6录制",
@@ -513,6 +521,14 @@
       "onboard_time": 1743792314,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19014,
+      "num": 17081,
+      "word": "在缅华人视频通话时目睹妻儿被掩埋",
+      "onboard_time": 1743800354,
+      "rank": 30,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 17673,
@@ -552,6 +568,14 @@
       "word": "柳絮来了",
       "onboard_time": 1743789256,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12457,
+      "num": 16546,
+      "word": "当地回应4名男子盗窃1.6元被刑拘",
+      "onboard_time": 1743800655,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
