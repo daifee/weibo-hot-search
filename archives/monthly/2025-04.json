@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743766628898,
+  "endTime": 1743770818860,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1318444,
+      "num": 415610,
+      "word": "黄明昊 Justin",
+      "onboard_time": 1743768682,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1307003,
       "num": 1307003,
       "word": "华晨宇方称拒绝音乐版权擦边行为",
@@ -555,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1234903,
+      "num": 1100308,
+      "word": "jayjay公开",
+      "onboard_time": 1743765561,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1207845,
       "num": 1207845,
       "word": "阿条姐登顶世界第一",
@@ -617,6 +633,14 @@
       "onboard_time": 1743425964,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1145769,
+      "num": 1183323,
+      "word": "VaVa 灰原哀",
+      "onboard_time": 1743768863,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1143523,
@@ -691,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1113490,
+      "num": 1113490,
+      "word": "中方反制措施来了",
+      "onboard_time": 1743764421,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1110257,
       "num": 408790,
       "word": "留几手称雷军被推太高不是好事",
@@ -705,14 +737,6 @@
       "onboard_time": 1743587782,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1106850,
-      "num": 537221,
-      "word": "jayjay公开",
-      "onboard_time": 1743765561,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 1104741,
@@ -860,7 +884,7 @@
     },
     {
       "raw_hot": 963523,
-      "num": 581351,
+      "num": 589147,
       "word": "金子涵 乐华",
       "onboard_time": 1743764542,
       "rank": 5,
@@ -936,6 +960,14 @@
       "word": "杜淳妻子网购遭客服拿地址威胁",
       "onboard_time": 1743470965,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 910464,
+      "num": 418369,
+      "word": "SM新男团 撞名",
+      "onboard_time": 1743768442,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -1217,6 +1249,14 @@
       "onboard_time": 1743672501,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 740477,
+      "num": 740477,
+      "word": "杜邦被立案调查",
+      "onboard_time": 1743768922,
+      "rank": 5,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 738805,
@@ -1529,6 +1569,14 @@
       "onboard_time": 1743745160,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 592082,
+      "num": 414656,
+      "word": "房琪鼓励张含韵的那句话",
+      "onboard_time": 1743765982,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 591704,
@@ -1931,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 508722,
+      "num": 497593,
+      "word": "赵丽颖演技",
+      "onboard_time": 1743763941,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 505473,
       "num": 357935,
       "word": "鹿晗站姐发了双杨cp",
@@ -1969,14 +2025,6 @@
       "onboard_time": 1743481826,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 497593,
-      "num": 497593,
-      "word": "赵丽颖演技",
-      "onboard_time": 1743763941,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 496781,
@@ -2393,6 +2441,14 @@
       "onboard_time": 1743641363,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 412135,
+      "num": 412135,
+      "word": "边牧在墓区偷吃供品胖成百斤",
+      "onboard_time": 1743769883,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 411942,
@@ -2867,6 +2923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354229,
+      "num": 416556,
+      "word": "杜邦涉嫌违反反垄断法",
+      "onboard_time": 1743769164,
+      "rank": 9,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 353098,
       "num": 353098,
       "word": "无限超越班再现墨雨云间",
@@ -2969,6 +3033,14 @@
       "onboard_time": 1743553343,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 343429,
+      "num": 343429,
+      "word": "祝绪丹一公第二",
+      "onboard_time": 1743767721,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 342915,
@@ -3587,14 +3659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 287863,
-      "num": 287863,
-      "word": "房琪鼓励张含韵的那句话",
-      "onboard_time": 1743765982,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 287854,
       "num": 287854,
       "word": "27岁女生用12年从专科到留学硕士",
@@ -3819,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270523,
+      "num": 252855,
+      "word": "tata公开",
+      "onboard_time": 1743768500,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269513,
       "num": 311243,
       "word": "门童成员愚人节营业",
@@ -3987,6 +4059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255573,
+      "num": 255573,
+      "word": "缅甸地震3301死4792伤",
+      "onboard_time": 1743768141,
+      "rank": 18,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 255506,
       "num": 357975,
       "word": "缅甸地震2719人遇难",
@@ -4025,6 +4105,14 @@
       "onboard_time": 1743762321,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252460,
+      "num": 252460,
+      "word": "被妻子供上博士后的中年男教师",
+      "onboard_time": 1743768682,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 252354,
@@ -4659,6 +4747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 211742,
+      "num": 211742,
+      "word": "樊振东十年铁血一单",
+      "onboard_time": 1743769702,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211735,
       "num": 211735,
       "word": "中国救援队员枕着路基睡着了",
@@ -4697,6 +4793,14 @@
       "onboard_time": 1743749781,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210798,
+      "num": 210798,
+      "word": "肖战藏海传补妆路透",
+      "onboard_time": 1743769762,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 210455,
@@ -4969,6 +5073,14 @@
       "onboard_time": 1743689123,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204894,
+      "num": 204894,
+      "word": "王楚钦备战中",
+      "onboard_time": 1743770061,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 204685,
@@ -6091,6 +6203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179817,
+      "num": 179817,
+      "word": "在念无双里跟唐嫣学仪态",
+      "onboard_time": 1743769822,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179437,
       "num": 179437,
       "word": "章若楠从未否认自己是赛文",
@@ -6283,14 +6403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174973,
-      "num": 174973,
-      "word": "中方反制措施来了",
-      "onboard_time": 1743764421,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 174939,
       "num": 220728,
       "word": "孟子坤说自己不是正经人",
@@ -6471,6 +6583,14 @@
       "num": 171024,
       "word": "女孩一年帮300位老人洗澡练出麒麟臂",
       "onboard_time": 1743484464,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169958,
+      "num": 169958,
+      "word": "杜邦",
+      "onboard_time": 1743770722,
       "rank": 33,
       "category": "民生新闻"
     },
@@ -6659,6 +6779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165184,
+      "num": 165184,
+      "word": "王心凌给伴舞做了一次伴舞",
+      "onboard_time": 1743770242,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165107,
       "num": 165107,
       "word": "赵丽颖兼任向阳花出品人",
@@ -6817,6 +6945,14 @@
       "onboard_time": 1743646160,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 161212,
+      "num": 181930,
+      "word": "身体缺维B的人易情绪暴躁",
+      "onboard_time": 1743765381,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 161010,
@@ -7163,6 +7299,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 153121,
+      "num": 153121,
+      "word": "多国对美国关税制定反制措施",
+      "onboard_time": 1743767063,
+      "rank": 37,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 153085,
       "num": 153085,
       "word": "夹竹桃 中毒",
@@ -7384,6 +7528,14 @@
       "word": "林依晨夫妇新婚时期旧照",
       "onboard_time": 1743512363,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148510,
+      "num": 148510,
+      "word": "smtr25",
+      "onboard_time": 1743767362,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -7633,6 +7785,14 @@
       "onboard_time": 1743742941,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 144857,
+      "num": 144857,
+      "word": "SMTR25练习生颜值",
+      "onboard_time": 1743770423,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 144669,
@@ -7955,6 +8115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139531,
+      "num": 139531,
+      "word": "曼城",
+      "onboard_time": 1743769461,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139223,
       "num": 139223,
       "word": "金玟庭愚人节神图点赞最高",
@@ -8089,6 +8257,14 @@
       "onboard_time": 1743669681,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136891,
+      "num": 136891,
+      "word": "美指期货应声下跌",
+      "onboard_time": 1743767063,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 136685,
@@ -8561,14 +8737,6 @@
       "onboard_time": 1743607705,
       "rank": 46,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 127914,
-      "num": 181930,
-      "word": "身体缺维B的人易情绪暴躁",
-      "onboard_time": 1743765381,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 127608,
@@ -11665,6 +11833,14 @@
       "onboard_time": 1743652222,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38386,
+      "num": 215520,
+      "word": "WTT仁川赛黄牌满天飞",
+      "onboard_time": 1743761241,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 38293,
