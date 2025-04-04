@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743785149296,
+  "endTime": 1743787298322,
   "band_list": [
     {
       "raw_hot": 1230915,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 448804,
-      "num": 298927,
+      "num": 508002,
       "word": "赵丽颖没法看电影里自己跟孩子的那一段",
       "onboard_time": 1743782840,
       "rank": 11,
@@ -179,8 +179,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127539,
-      "num": 121116,
+      "raw_hot": 128282,
+      "num": 128282,
       "word": "特朗普说永远不会改变政策",
       "onboard_time": 1743781941,
       "rank": 30,
@@ -219,19 +219,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112975,
+      "num": 133951,
+      "word": "王楚钦幽默调侃徐瑛彬",
+      "onboard_time": 1743783140,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110072,
       "num": 110072,
       "word": "阿条姐登顶世界第一",
       "onboard_time": 1743761541,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 105822,
-      "num": 133951,
-      "word": "王楚钦幽默调侃徐瑛彬",
-      "onboard_time": 1743783140,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -371,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 59096,
+      "num": 59096,
+      "word": "王珞丹一公排名",
+      "onboard_time": 1743785059,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59073,
       "num": 59073,
       "word": "华晨宇乐园演唱会从早蹦到晚",
@@ -403,14 +411,6 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 48827,
-      "num": 55575,
-      "word": "王珞丹一公排名",
-      "onboard_time": 1743785059,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 48192,
       "num": 54999,
       "word": "赵小童伴着最后的晚樱夜骑",
@@ -427,11 +427,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47456,
+      "num": 47456,
+      "word": "樊振东十年铁血一单",
+      "onboard_time": 1743769702,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46846,
       "num": 54651,
       "word": "李金铭十年前剩饭保留至今",
       "onboard_time": 1743739761,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43341,
+      "num": 43341,
+      "word": "唐嫣古代四方步",
+      "onboard_time": 1743787036,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 37727,
+      "num": 38903,
+      "word": "王蓉盼了浪姐6年",
+      "onboard_time": 1743786737,
+      "rank": 47,
       "category": "综艺"
     },
     {
