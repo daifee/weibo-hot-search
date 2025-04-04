@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743744278643,
+  "endTime": 1743745259463,
   "band_list": [
     {
       "raw_hot": 2404409,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1790523,
-      "num": 453316,
+      "num": 474047,
       "word": "网红田姥姥在亡夫墓前痛哭",
       "onboard_time": 1743738621,
       "rank": 3,
@@ -163,7 +163,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 514539,
+      "raw_hot": 546044,
       "num": 441548,
       "word": "刀小刀回应被警察带走",
       "onboard_time": 1743741201,
@@ -171,12 +171,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 504683,
+      "raw_hot": 517066,
       "num": 441018,
       "word": "speed 香港",
       "onboard_time": 1743741261,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468553,
+      "num": 468553,
+      "word": "沈阳一楼发生火灾2名消防员牺牲",
+      "onboard_time": 1743741261,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 461873,
@@ -209,14 +217,6 @@
       "onboard_time": 1743730522,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 425768,
-      "num": 425768,
-      "word": "沈阳一楼发生火灾2名消防员牺牲",
-      "onboard_time": 1743741261,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 419911,
@@ -395,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254338,
+      "num": 197336,
+      "word": "陈卓璇五年前的回旋镖正中眉心",
+      "onboard_time": 1743744321,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252354,
       "num": 252354,
       "word": "哪吒",
@@ -449,6 +457,14 @@
       "onboard_time": 1743694641,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230176,
+      "num": 197136,
+      "word": "何丹彤回应与刘亦菲同框",
+      "onboard_time": 1743744082,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 227270,
@@ -539,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200775,
-      "num": 183044,
-      "word": "何丹彤回应与刘亦菲同框",
-      "onboard_time": 1743744082,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199909,
       "num": 199909,
       "word": "清明档",
@@ -587,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196666,
+      "num": 196666,
+      "word": "Angelababy女王权杖",
+      "onboard_time": 1743745160,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 192117,
       "num": 192117,
       "word": "买完衣服的这种袋子不要再扔了",
@@ -609,6 +625,14 @@
       "onboard_time": 1743733880,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 188322,
+      "num": 162555,
+      "word": "闺蜜被害未报警反成下个受害者",
+      "onboard_time": 1743744021,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 181740,
@@ -649,6 +673,14 @@
       "onboard_time": 1743682702,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 171811,
+      "num": 147416,
+      "word": "倒挂",
+      "onboard_time": 1743744980,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 168975,
@@ -795,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145863,
+      "num": 145863,
+      "word": "加拿大正在印度化",
+      "onboard_time": 1743744980,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 145000,
       "num": 145000,
       "word": "33岁初代网红小霸王生女",
@@ -836,7 +876,7 @@
     },
     {
       "raw_hot": 140087,
-      "num": 144459,
+      "num": 153894,
       "word": "GAI布瑞吉十年还是我们俩",
       "onboard_time": 1743743061,
       "rank": 34,
@@ -915,14 +955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129282,
-      "num": 129282,
-      "word": "闺蜜被害未报警反成下个受害者",
-      "onboard_time": 1743744021,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127608,
       "num": 127608,
       "word": "张小婉的五官李嘉琦来守护",
@@ -931,11 +963,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127350,
+      "num": 127350,
+      "word": "红着脸说愿意红着眼说不愿意",
+      "onboard_time": 1743744980,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126936,
       "num": 126936,
       "word": "中国快递协会发布严正声明",
       "onboard_time": 1743734362,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126865,
+      "num": 418680,
+      "word": "既是节气又是节日的清明",
+      "onboard_time": 1743741080,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1019,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114779,
+      "num": 114779,
+      "word": "人间的四月天打开4月",
+      "onboard_time": 1743744442,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 114328,
       "num": 114328,
       "word": "提醒甲亢哥的女生柔中带刚",
@@ -1048,6 +1104,14 @@
       "word": "巴特勒三分",
       "onboard_time": 1743743061,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112632,
+      "num": 112632,
+      "word": "湖人主场高喊库里MVP",
+      "onboard_time": 1743744860,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1137,14 +1201,6 @@
       "onboard_time": 1743731061,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99444,
-      "num": 418680,
-      "word": "既是节气又是节日的清明",
-      "onboard_time": 1743741080,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98809,
@@ -1257,6 +1313,14 @@
       "onboard_time": 1743696741,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84569,
+      "num": 198374,
+      "word": "全球资本市场遭遇黑色星期四",
+      "onboard_time": 1743744321,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 84285,
@@ -1425,6 +1489,14 @@
       "onboard_time": 1743714015,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57200,
+      "num": 152508,
+      "word": "陪诊师半天收费300元",
+      "onboard_time": 1743744561,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56784,
@@ -1628,7 +1700,7 @@
     },
     {
       "raw_hot": 10453,
-      "num": 458612,
+      "num": 475009,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1743672202,
       "rank": 2,

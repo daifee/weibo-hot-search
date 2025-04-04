@@ -1,0 +1,410 @@
+{
+  "runTime": 1743745259463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 803897,
+        "num": 1128623,
+        "word": "RedVelvet 解散",
+        "onboard_time": 1743721997,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536369,
+        "num": 536369,
+        "word": "手机曲面屏为什么消失了",
+        "onboard_time": 1743730040,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 9720,
+        "num": 475009,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1743672202,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1043593,
+        "num": 474047,
+        "word": "网红田姥姥在亡夫墓前痛哭",
+        "onboard_time": 1743738621,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 468553,
+        "num": 468553,
+        "word": "沈阳一楼发生火灾2名消防员牺牲",
+        "onboard_time": 1743741261,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354193,
+        "num": 354193,
+        "word": "清明节",
+        "onboard_time": 1743722358,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546044,
+        "num": 350876,
+        "word": "刀小刀回应被警察带走",
+        "onboard_time": 1743741201,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 517066,
+        "num": 349975,
+        "word": "speed 香港",
+        "onboard_time": 1743741261,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342131,
+        "num": 342131,
+        "word": "尹锡悦被罢免总统职务",
+        "onboard_time": 1743733702,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284354,
+        "num": 284354,
+        "word": "尹锡悦弹劾案宣判",
+        "onboard_time": 1743733401,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1711482,
+        "num": 278803,
+        "word": "李金铭十年前剩饭保留至今",
+        "onboard_time": 1743739761,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312800,
+        "num": 275600,
+        "word": "林栋哲岳父变亲爸了",
+        "onboard_time": 1743738862,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304375,
+        "num": 266918,
+        "word": "金子涵 意难平",
+        "onboard_time": 1743736760,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298996,
+        "num": 261313,
+        "word": "麦琳分享瘦44斤方法",
+        "onboard_time": 1743737181,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254458,
+        "num": 254458,
+        "word": "甲亢哥中国行效果好到爆",
+        "onboard_time": 1743737481,
+        "rank": 14,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 235483,
+        "num": 235483,
+        "word": "洪小铃得女",
+        "onboard_time": 1743741381,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228662,
+        "num": 228662,
+        "word": "特朗普因对中国征收关税被起诉",
+        "onboard_time": 1743730401,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206485,
+        "num": 206485,
+        "word": "AI复原出22岁烈士的模样",
+        "onboard_time": 1743738201,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198593,
+        "num": 198593,
+        "word": "尹锡悦成韩国第二位被罢免总统",
+        "onboard_time": 1743734362,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84569,
+        "num": 198374,
+        "word": "全球资本市场遭遇黑色星期四",
+        "onboard_time": 1743744321,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 365234,
+        "num": 198063,
+        "word": "疯狂动物城2",
+        "onboard_time": 1743738260,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254338,
+        "num": 197336,
+        "word": "陈卓璇五年前的回旋镖正中眉心",
+        "onboard_time": 1743744321,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230176,
+        "num": 197136,
+        "word": "何丹彤回应与刘亦菲同框",
+        "onboard_time": 1743744082,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196666,
+        "num": 196666,
+        "word": "Angelababy女王权杖",
+        "onboard_time": 1743745160,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163795,
+        "num": 163795,
+        "word": "全红婵要签名照兴奋到搓手",
+        "onboard_time": 1743729441,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188322,
+        "num": 162555,
+        "word": "闺蜜被害未报警反成下个受害者",
+        "onboard_time": 1743744021,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184565,
+        "num": 160333,
+        "word": "清明档观后感",
+        "onboard_time": 1743741201,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182188,
+        "num": 157375,
+        "word": "王玉雯有股经济上行的美",
+        "onboard_time": 1743741502,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105553,
+        "num": 153894,
+        "word": "GAI布瑞吉十年还是我们俩",
+        "onboard_time": 1743743061,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57200,
+        "num": 152508,
+        "word": "陪诊师半天收费300元",
+        "onboard_time": 1743744561,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171811,
+        "num": 147416,
+        "word": "倒挂",
+        "onboard_time": 1743744980,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147402,
+        "num": 147402,
+        "word": "原来洛阳真有比脸还大的牡丹",
+        "onboard_time": 1743740362,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 146994,
+        "num": 146994,
+        "word": "勇士vs湖人",
+        "onboard_time": 1743743781,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145863,
+        "num": 145863,
+        "word": "加拿大正在印度化",
+        "onboard_time": 1743744980,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145480,
+        "num": 145480,
+        "word": "樊振东获上海市青年五四奖章",
+        "onboard_time": 1743739462,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135677,
+        "num": 135677,
+        "word": "疑似周周小可爱陈泽领证",
+        "onboard_time": 1743737841,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134487,
+        "num": 134487,
+        "word": "93岁爷爷攒钱1年半给孙女买金镯子",
+        "onboard_time": 1743739522,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127350,
+        "num": 127350,
+        "word": "红着脸说愿意红着眼说不愿意",
+        "onboard_time": 1743744980,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126865,
+        "num": 126865,
+        "word": "既是节气又是节日的清明",
+        "onboard_time": 1743741080,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123481,
+        "num": 123481,
+        "word": "33岁初代网红小霸王生女",
+        "onboard_time": 1743742941,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 110277,
+        "num": 123082,
+        "word": "节气里的大美中国",
+        "onboard_time": 1743738201,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122831,
+        "num": 122831,
+        "word": "浪姐更新",
+        "onboard_time": 1743742222,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119026,
+        "num": 119026,
+        "word": "Wendy泡泡发长文",
+        "onboard_time": 1743736341,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81863,
+        "num": 118272,
+        "word": "清明手绘壁纸",
+        "onboard_time": 1743734060,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118252,
+        "num": 118252,
+        "word": "刀小刀前男友父亲回应",
+        "onboard_time": 1743741922,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114779,
+        "num": 114779,
+        "word": "人间的四月天打开4月",
+        "onboard_time": 1743744442,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113952,
+        "num": 113952,
+        "word": "向阳花",
+        "onboard_time": 1743727402,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113509,
+        "num": 113509,
+        "word": "涂毓麟孙乐言哄娃睡觉变苦命鸳鸯",
+        "onboard_time": 1743739761,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112689,
+        "num": 112689,
+        "word": "幸好我是汉族贵族也太累了",
+        "onboard_time": 1743736880,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112632,
+        "num": 112632,
+        "word": "湖人主场高喊库里MVP",
+        "onboard_time": 1743744860,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

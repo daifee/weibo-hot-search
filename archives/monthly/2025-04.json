@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743744278643,
+  "endTime": 1743745259463,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 1790523,
-      "num": 453316,
+      "num": 474047,
       "word": "网红田姥姥在亡夫墓前痛哭",
       "onboard_time": 1743738621,
       "rank": 3,
@@ -1603,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 546044,
+      "num": 441548,
+      "word": "刀小刀回应被警察带走",
+      "onboard_time": 1743741201,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 545067,
       "num": 437855,
       "word": "蔡徐坤 龙港",
@@ -1723,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 517066,
+      "num": 441018,
+      "word": "speed 香港",
+      "onboard_time": 1743741261,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516225,
       "num": 516225,
       "word": "李羲承cha别叫我达芬奇",
@@ -1745,14 +1761,6 @@
       "onboard_time": 1743598702,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 514539,
-      "num": 441548,
-      "word": "刀小刀回应被警察带走",
-      "onboard_time": 1743741201,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 511816,
@@ -1793,14 +1801,6 @@
       "onboard_time": 1743635298,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 504683,
-      "num": 441018,
-      "word": "speed 香港",
-      "onboard_time": 1743741261,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 498494,
@@ -1963,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468553,
+      "num": 468553,
+      "word": "沈阳一楼发生火灾2名消防员牺牲",
+      "onboard_time": 1743741261,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 466805,
       "num": 455512,
       "word": "杨鸣",
@@ -2105,14 +2113,6 @@
       "onboard_time": 1743730522,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 425768,
-      "num": 425768,
-      "word": "沈阳一楼发生火灾2名消防员牺牲",
-      "onboard_time": 1743741261,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 424774,
@@ -3651,6 +3651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 254338,
+      "num": 197336,
+      "word": "陈卓璇五年前的回旋镖正中眉心",
+      "onboard_time": 1743744321,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253365,
       "num": 253365,
       "word": "这种口腔溃疡可能是HPV感染",
@@ -3969,6 +3977,14 @@
       "onboard_time": 1743502043,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230176,
+      "num": 197136,
+      "word": "何丹彤回应与刘亦菲同框",
+      "onboard_time": 1743744082,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 229275,
@@ -4651,14 +4667,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200775,
-      "num": 183044,
-      "word": "何丹彤回应与刘亦菲同框",
-      "onboard_time": 1743744082,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200541,
       "num": 200541,
       "word": "控制欲强的人有3个心理特点",
@@ -4841,6 +4849,14 @@
       "onboard_time": 1743685886,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196666,
+      "num": 196666,
+      "word": "Angelababy女王权杖",
+      "onboard_time": 1743745160,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196511,
@@ -5217,6 +5233,14 @@
       "onboard_time": 1743525499,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 188322,
+      "num": 162555,
+      "word": "闺蜜被害未报警反成下个受害者",
+      "onboard_time": 1743744021,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 187739,
@@ -5849,6 +5873,14 @@
       "onboard_time": 1743494663,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171811,
+      "num": 147416,
+      "word": "倒挂",
+      "onboard_time": 1743744980,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 171797,
@@ -6899,6 +6931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145863,
+      "num": 145863,
+      "word": "加拿大正在印度化",
+      "onboard_time": 1743744980,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 145739,
       "num": 274982,
       "word": "官方回应中学被投诉强制女生剪短发",
@@ -7228,7 +7268,7 @@
     },
     {
       "raw_hot": 140087,
-      "num": 144459,
+      "num": 153894,
       "word": "GAI布瑞吉十年还是我们俩",
       "onboard_time": 1743743061,
       "rank": 34,
@@ -7739,14 +7779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129282,
-      "num": 129282,
-      "word": "闺蜜被害未报警反成下个受害者",
-      "onboard_time": 1743744021,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129249,
       "num": 284632,
       "word": "值得爱带组进组",
@@ -7827,6 +7859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127350,
+      "num": 127350,
+      "word": "红着脸说愿意红着眼说不愿意",
+      "onboard_time": 1743744980,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127104,
       "num": 438172,
       "word": "郑钦文为低排名球员发声",
@@ -7848,6 +7888,14 @@
       "word": "中国快递协会发布严正声明",
       "onboard_time": 1743734362,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126865,
+      "num": 418680,
+      "word": "既是节气又是节日的清明",
+      "onboard_time": 1743741080,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -8523,6 +8571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112632,
+      "num": 112632,
+      "word": "湖人主场高喊库里MVP",
+      "onboard_time": 1743744860,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112149,
       "num": 112149,
       "word": "yushi一键毕业",
@@ -8929,14 +8985,6 @@
       "onboard_time": 1743731061,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99444,
-      "num": 418680,
-      "word": "既是节气又是节日的清明",
-      "onboard_time": 1743741080,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98997,
@@ -9361,6 +9409,14 @@
       "onboard_time": 1743550038,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84569,
+      "num": 198374,
+      "word": "全球资本市场遭遇黑色星期四",
+      "onboard_time": 1743744321,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 84526,
@@ -10033,6 +10089,14 @@
       "onboard_time": 1743664581,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 57200,
+      "num": 152508,
+      "word": "陪诊师半天收费300元",
+      "onboard_time": 1743744561,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56893,
@@ -11604,7 +11668,7 @@
     },
     {
       "raw_hot": 10453,
-      "num": 458612,
+      "num": 475009,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1743672202,
       "rank": 2,
