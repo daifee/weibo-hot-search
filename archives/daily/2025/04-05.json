@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743805385261,
+  "endTime": 1743806438774,
   "band_list": [
     {
       "raw_hot": 1230915,
@@ -51,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 330021,
+      "num": 128282,
+      "word": "特朗普说永远不会改变政策",
+      "onboard_time": 1743781941,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 322733,
       "num": 322733,
       "word": "中方反制措施来了",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 308380,
-      "num": 368750,
+      "num": 469724,
       "word": "对原产美国所有进口商品加征34%关税",
       "onboard_time": 1743761781,
       "rank": 6,
@@ -89,14 +97,6 @@
       "onboard_time": 1743762862,
       "rank": 13,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 262773,
-      "num": 128282,
-      "word": "特朗普说永远不会改变政策",
-      "onboard_time": 1743781941,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 258563,
@@ -211,6 +211,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 123454,
+      "num": 30935,
+      "word": "在缅华人视频通话时目睹妻儿被掩埋",
+      "onboard_time": 1743800354,
+      "rank": 30,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 123135,
       "num": 123135,
       "word": "jayjay公开",
@@ -267,20 +275,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94575,
+      "num": 94575,
+      "word": "欧盟称已准备好回应美方加税",
+      "onboard_time": 1743799873,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94398,
       "num": 94398,
       "word": "程潇大银幕表现",
       "onboard_time": 1743781340,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 87699,
-      "num": 87699,
-      "word": "欧盟称已准备好回应美方加税",
-      "onboard_time": 1743799873,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 86346,
@@ -331,20 +339,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 71031,
+      "num": 71031,
+      "word": "江西4名男子盗窃1.6元被刑拘",
+      "onboard_time": 1743775463,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70290,
       "num": 70290,
       "word": "金善禹 发型",
       "onboard_time": 1743770962,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68725,
-      "num": 24903,
-      "word": "在缅华人视频通话时目睹妻儿被掩埋",
-      "onboard_time": 1743800354,
-      "rank": 30,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 67927,
@@ -377,14 +385,6 @@
       "onboard_time": 1743776783,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 61054,
-      "num": 61054,
-      "word": "江西4名男子盗窃1.6元被刑拘",
-      "onboard_time": 1743775463,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59488,
@@ -435,6 +435,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 50919,
+      "num": 50919,
+      "word": "美股七姐妹大跌",
+      "onboard_time": 1743788656,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 48192,
       "num": 54999,
       "word": "赵小童伴着最后的晚樱夜骑",
@@ -475,20 +483,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39678,
-      "num": 39678,
-      "word": "美股七姐妹大跌",
-      "onboard_time": 1743788656,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 37742,
       "num": 37742,
       "word": "向阳花票房",
       "onboard_time": 1743763461,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 37039,
+      "num": 30852,
+      "word": "谢娜齐思钧补刀",
+      "onboard_time": 1743803833,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 36314,
+      "num": 36314,
+      "word": "郑钦文0比2亚历山德洛娃",
+      "onboard_time": 1743805575,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 36009,
@@ -507,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27790,
+      "num": 27790,
+      "word": "广东湛江农村百万中式婚礼酒席",
+      "onboard_time": 1743803775,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 25806,
       "num": 25806,
       "word": "吴宣仪 选人环节",
@@ -516,7 +540,7 @@
     },
     {
       "raw_hot": 24751,
-      "num": 24751,
+      "num": 25636,
       "word": "当地回应4名男子盗窃1.6元被刑拘",
       "onboard_time": 1743800655,
       "rank": 32,
@@ -531,12 +555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24401,
-      "num": 24401,
-      "word": "谢娜齐思钧补刀",
-      "onboard_time": 1743803833,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 23602,
+      "num": 25668,
+      "word": "Speed甲亢哥安利国产动画超能立方",
+      "onboard_time": 1743804494,
+      "rank": 47,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 22269,
@@ -545,6 +569,14 @@
       "onboard_time": 1743792314,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 20298,
+      "num": 25627,
+      "word": "杜邦",
+      "onboard_time": 1743770722,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17673,
@@ -563,22 +595,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 16883,
-      "num": 22037,
-      "word": "杜邦",
-      "onboard_time": 1743770722,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16458,
-      "num": 22030,
-      "word": "Speed甲亢哥安利国产动画超能立方",
-      "onboard_time": 1743804494,
-      "rank": 47,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 15543,
       "num": 19849,
       "word": "敦促美方立即纠正错误做法",
@@ -593,14 +609,6 @@
       "onboard_time": 1743789256,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14820,
-      "num": 22028,
-      "word": "广东湛江农村百万中式婚礼酒席",
-      "onboard_time": 1743803775,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 12190,
