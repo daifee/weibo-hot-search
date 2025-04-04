@@ -1,0 +1,410 @@
+{
+  "runTime": 1743774209290,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1073448,
+        "num": 1171751,
+        "word": "中方反制措施来了",
+        "onboard_time": 1743764421,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 945854,
+        "num": 945854,
+        "word": "VaVa 灰原哀",
+        "onboard_time": 1743768863,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12894,
+        "num": 912984,
+        "word": "清明念英烈",
+        "onboard_time": 1743671962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 897529,
+        "num": 897529,
+        "word": "SM新男团 撞名",
+        "onboard_time": 1743768442,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 866934,
+        "num": 866934,
+        "word": "杜邦被立案调查",
+        "onboard_time": 1743768922,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 770608,
+        "num": 770608,
+        "word": "对原产美国所有进口商品加征34%关税",
+        "onboard_time": 1743761781,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20439,
+        "num": 663578,
+        "word": "体育比赛为何会遭到美国网攻",
+        "onboard_time": 1743730040,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 619145,
+        "num": 619145,
+        "word": "丁禹兮 晋江式演技",
+        "onboard_time": 1743771143,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33746,
+        "num": 558575,
+        "word": "春节后首个小长假点燃春游热潮",
+        "onboard_time": 1743773303,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 863713,
+        "num": 558075,
+        "word": "jayjay公开",
+        "onboard_time": 1743765561,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1319747,
+        "num": 557113,
+        "word": "黄明昊 Justin",
+        "onboard_time": 1743768682,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555497,
+        "num": 555497,
+        "word": "樊振东十年铁血一单",
+        "onboard_time": 1743769702,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 523079,
+        "num": 523079,
+        "word": "鞠婧祎躺在陈都灵怀里",
+        "onboard_time": 1743771442,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495446,
+        "num": 495446,
+        "word": "赵丽颖演技",
+        "onboard_time": 1743763941,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 365699,
+        "num": 365699,
+        "word": "甲亢哥最喜欢在少林寺那期直播",
+        "onboard_time": 1743772162,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 360827,
+        "num": 360827,
+        "word": "房琪鼓励张含韵的那句话",
+        "onboard_time": 1743765982,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352230,
+        "num": 352230,
+        "word": "杜邦",
+        "onboard_time": 1743770722,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345881,
+        "num": 345881,
+        "word": "中方在世贸组织起诉美对等关税措施",
+        "onboard_time": 1743762862,
+        "rank": 17,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 296749,
+        "num": 296749,
+        "word": "阿条姐登顶世界第一",
+        "onboard_time": 1743761541,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215767,
+        "num": 215767,
+        "word": "清明节",
+        "onboard_time": 1743722358,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98847,
+        "num": 215613,
+        "word": "赵丽颖现场唱了手语版感恩的心",
+        "onboard_time": 1743772942,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 319601,
+        "num": 215177,
+        "word": "金子涵 乐华",
+        "onboard_time": 1743764542,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1395165,
+        "num": 214704,
+        "word": "边牧在墓区偷吃供品胖成百斤",
+        "onboard_time": 1743769883,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90960,
+        "num": 214298,
+        "word": "演员陈喜莲裸捐所有财产",
+        "onboard_time": 1743765861,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152168,
+        "num": 213925,
+        "word": "樊振东是首位超级金满贯得主",
+        "onboard_time": 1743773662,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309072,
+        "num": 213845,
+        "word": "和出轨老公坚持丧偶式婚姻",
+        "onboard_time": 1743758242,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349201,
+        "num": 213203,
+        "word": "甲亢哥让合影小孩哥接爸爸电话",
+        "onboard_time": 1743756861,
+        "rank": 26,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 238106,
+        "num": 212847,
+        "word": "被妻子供上博士后的中年男教师",
+        "onboard_time": 1743768682,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212782,
+        "num": 212782,
+        "word": "关税",
+        "onboard_time": 1743762921,
+        "rank": 28,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 228235,
+        "num": 210089,
+        "word": "向阳花票房",
+        "onboard_time": 1743763461,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215582,
+        "num": 208444,
+        "word": "18岁禁毒战士的葬礼全场被马赛克",
+        "onboard_time": 1743755841,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198902,
+        "num": 198902,
+        "word": "对美加征关税采取反制措施",
+        "onboard_time": 1743762862,
+        "rank": 31,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 190959,
+        "num": 190959,
+        "word": "罗晋 男版纯元",
+        "onboard_time": 1743773243,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183773,
+        "num": 183773,
+        "word": "多国对美国关税制定反制措施",
+        "onboard_time": 1743767063,
+        "rank": 33,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 172145,
+        "num": 172145,
+        "word": "祝绪丹一公第二",
+        "onboard_time": 1743767721,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167470,
+        "num": 167470,
+        "word": "金善禹 发型",
+        "onboard_time": 1743770962,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162874,
+        "num": 162874,
+        "word": "为监视出轨老公收买公司前台",
+        "onboard_time": 1743773782,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162374,
+        "num": 162374,
+        "word": "尹锡悦被罢免总统职务",
+        "onboard_time": 1743733702,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158997,
+        "num": 158997,
+        "word": "杜邦涉嫌违反反垄断法",
+        "onboard_time": 1743769164,
+        "rank": 38,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 155494,
+        "num": 155494,
+        "word": "王楚钦备战中",
+        "onboard_time": 1743770061,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154326,
+        "num": 154326,
+        "word": "请不要和孩子算经济账",
+        "onboard_time": 1743758060,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151224,
+        "num": 151224,
+        "word": "tata公开",
+        "onboard_time": 1743768500,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150877,
+        "num": 150877,
+        "word": "李金铭十年前剩饭保留至今",
+        "onboard_time": 1743739761,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150633,
+        "num": 150633,
+        "word": "男子祭祖上香呛了一口烟救自己一命",
+        "onboard_time": 1743747681,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149565,
+        "num": 149565,
+        "word": "王心凌给伴舞做了一次伴舞",
+        "onboard_time": 1743770242,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144919,
+        "num": 144919,
+        "word": "小伙患抑郁暴食2年长近百斤",
+        "onboard_time": 1743763461,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140900,
+        "num": 140900,
+        "word": "T1战胜DRX",
+        "onboard_time": 1743773962,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138426,
+        "num": 138426,
+        "word": "书卷一梦",
+        "onboard_time": 1743772403,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132715,
+        "num": 132715,
+        "word": "将11家美企列入不可靠实体清单",
+        "onboard_time": 1743762201,
+        "rank": 48,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 129680,
+        "num": 129680,
+        "word": "张艺兴谈从偶像到演员",
+        "onboard_time": 1743771023,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

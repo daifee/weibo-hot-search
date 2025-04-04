@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743773552693,
+  "endTime": 1743774209290,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1395165,
+      "num": 966698,
+      "word": "边牧在墓区偷吃供品胖成百斤",
+      "onboard_time": 1743769883,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1394052,
       "num": 450475,
       "word": "宁德时代称小米SU7用的不是其电池",
@@ -529,14 +537,6 @@
       "onboard_time": 1743595885,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1259616,
-      "num": 966698,
-      "word": "边牧在墓区偷吃供品胖成百斤",
-      "onboard_time": 1743769883,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1258284,
@@ -1747,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 555497,
+      "num": 555497,
+      "word": "樊振东十年铁血一单",
+      "onboard_time": 1743769702,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554934,
       "num": 404454,
       "word": "Songha公开",
@@ -1867,14 +1875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 531377,
-      "num": 531377,
-      "word": "樊振东十年铁血一单",
-      "onboard_time": 1743769702,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 529324,
       "num": 529324,
       "word": "解放军台湾海峡中部南部演练",
@@ -1913,6 +1913,14 @@
       "onboard_time": 1743557002,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 523079,
+      "num": 523079,
+      "word": "鞠婧祎躺在陈都灵怀里",
+      "onboard_time": 1743771442,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 520574,
@@ -2627,14 +2635,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 384517,
-      "num": 369994,
-      "word": "鞠婧祎躺在陈都灵怀里",
-      "onboard_time": 1743771442,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 383600,
       "num": 251335,
       "word": "夫妻3胎喜得女儿发10万个鸡蛋庆祝",
@@ -2827,6 +2827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365699,
+      "num": 365699,
+      "word": "甲亢哥最喜欢在少林寺那期直播",
+      "onboard_time": 1743772162,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 365551,
       "num": 175109,
       "word": "钟南山提醒剩饭剩菜别强吃",
@@ -2961,6 +2969,14 @@
       "onboard_time": 1743549500,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352230,
+      "num": 352230,
+      "word": "杜邦",
+      "onboard_time": 1743770722,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 351428,
@@ -3129,14 +3145,6 @@
       "onboard_time": 1743476661,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 333999,
-      "num": 226344,
-      "word": "甲亢哥最喜欢在少林寺那期直播",
-      "onboard_time": 1743772162,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 333558,
@@ -4041,14 +4049,6 @@
       "onboard_time": 1743574224,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261000,
-      "num": 261000,
-      "word": "杜邦",
-      "onboard_time": 1743770722,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 260119,
@@ -5771,6 +5771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190959,
+      "num": 190959,
+      "word": "罗晋 男版纯元",
+      "onboard_time": 1743773243,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190787,
       "num": 190787,
       "word": "人间的四月天打开4月",
@@ -6747,6 +6755,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 167470,
+      "num": 167470,
+      "word": "金善禹 发型",
+      "onboard_time": 1743770962,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167168,
       "num": 167168,
       "word": "吴敬平晒10岁樊振东反手技术",
@@ -6921,6 +6937,14 @@
       "onboard_time": 1743679882,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 162874,
+      "num": 162874,
+      "word": "为监视出轨老公收买公司前台",
+      "onboard_time": 1743773782,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 162603,
@@ -7377,6 +7401,14 @@
       "onboard_time": 1743669202,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152168,
+      "num": 213925,
+      "word": "樊振东是首位超级金满贯得主",
+      "onboard_time": 1743773662,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 151910,
@@ -8051,6 +8083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140900,
+      "num": 140900,
+      "word": "T1战胜DRX",
+      "onboard_time": 1743773962,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140831,
       "num": 140831,
       "word": "原来猫猫失重的第一反应也是闭眼睛",
@@ -8201,14 +8241,6 @@
       "onboard_time": 1743741922,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 138709,
-      "num": 138709,
-      "word": "金善禹 发型",
-      "onboard_time": 1743770962,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 138394,
@@ -8707,6 +8739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129680,
+      "num": 268629,
+      "word": "张艺兴谈从偶像到演员",
+      "onboard_time": 1743771023,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129444,
       "num": 143068,
       "word": "蔚来智驾强行变道致后车追尾",
@@ -8889,14 +8929,6 @@
       "onboard_time": 1743652702,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126162,
-      "num": 126162,
-      "word": "罗晋 男版纯元",
-      "onboard_time": 1743773243,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 125980,
@@ -10147,6 +10179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98847,
+      "num": 230652,
+      "word": "赵丽颖现场唱了手语版感恩的心",
+      "onboard_time": 1743772942,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98806,
       "num": 98806,
       "word": "李永钦solo初一位",
@@ -10385,6 +10425,14 @@
       "onboard_time": 1743584483,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90960,
+      "num": 228451,
+      "word": "演员陈喜莲裸捐所有财产",
+      "onboard_time": 1743765861,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 90802,
@@ -10739,14 +10787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80823,
-      "num": 230652,
-      "word": "赵丽颖现场唱了手语版感恩的心",
-      "onboard_time": 1743772942,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 80112,
       "num": 134481,
       "word": "甲亢哥成都行直播",
@@ -11044,7 +11084,7 @@
     },
     {
       "raw_hot": 66638,
-      "num": 151022,
+      "num": 912984,
       "word": "清明念英烈",
       "onboard_time": 1743671962,
       "rank": 34,
@@ -11587,14 +11627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49414,
-      "num": 228451,
-      "word": "演员陈喜莲裸捐所有财产",
-      "onboard_time": 1743765861,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 49048,
       "num": 75765,
       "word": "美国高官工作中能捅多大篓子",
@@ -11963,14 +11995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37484,
-      "num": 268629,
-      "word": "张艺兴谈从偶像到演员",
-      "onboard_time": 1743771023,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 37475,
       "num": 171910,
       "word": "专家辟谣抗生素洗头治疗脱发",
@@ -12104,6 +12128,14 @@
       "word": "姜甲儒母亲寻子时曾2次险坠悬崖",
       "onboard_time": 1743563062,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33746,
+      "num": 558575,
+      "word": "春节后首个小长假点燃春游热潮",
+      "onboard_time": 1743773303,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -12849,14 +12881,6 @@
       "onboard_time": 1743538754,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14137,
-      "num": 223743,
-      "word": "春节后首个小长假点燃春游热潮",
-      "onboard_time": 1743773303,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14108,

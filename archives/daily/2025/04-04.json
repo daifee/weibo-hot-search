@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743773552693,
+  "endTime": 1743774209290,
   "band_list": [
     {
       "raw_hot": 3529783,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1395165,
+      "num": 966698,
+      "word": "边牧在墓区偷吃供品胖成百斤",
+      "onboard_time": 1743769883,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1364965,
       "num": 1189429,
       "word": "辣目洋子暴瘦20斤",
@@ -89,14 +97,6 @@
       "onboard_time": 1743688101,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1259616,
-      "num": 966698,
-      "word": "边牧在墓区偷吃供品胖成百斤",
-      "onboard_time": 1743769883,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1248586,
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 555497,
+      "num": 555497,
+      "word": "樊振东十年铁血一单",
+      "onboard_time": 1743769702,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 551247,
       "num": 382805,
       "word": "韩国月租1600的房子",
@@ -387,12 +395,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 531377,
-      "num": 531377,
-      "word": "樊振东十年铁血一单",
-      "onboard_time": 1743769702,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 523079,
+      "num": 523079,
+      "word": "鞠婧祎躺在陈都灵怀里",
+      "onboard_time": 1743771442,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 517066,
@@ -571,14 +579,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 384517,
-      "num": 369994,
-      "word": "鞠婧祎躺在陈都灵怀里",
-      "onboard_time": 1743771442,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 383185,
       "num": 383185,
       "word": "AI复原出22岁烈士的模样",
@@ -625,6 +625,14 @@
       "onboard_time": 1743736341,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365699,
+      "num": 365699,
+      "word": "甲亢哥最喜欢在少林寺那期直播",
+      "onboard_time": 1743772162,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 363268,
@@ -683,6 +691,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 352230,
+      "num": 352230,
+      "word": "杜邦",
+      "onboard_time": 1743770722,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350106,
       "num": 350106,
       "word": "章昊第一章回国第二章进货",
@@ -713,14 +729,6 @@
       "onboard_time": 1743746238,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 333999,
-      "num": 226344,
-      "word": "甲亢哥最喜欢在少林寺那期直播",
-      "onboard_time": 1743772162,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 330527,
@@ -848,14 +856,6 @@
       "word": "718斤小伙因情绪问题一顿吃25个包子",
       "onboard_time": 1743730581,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 261000,
-      "num": 261000,
-      "word": "杜邦",
-      "onboard_time": 1743770722,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1267,6 +1267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190959,
+      "num": 190959,
+      "word": "罗晋 男版纯元",
+      "onboard_time": 1743773243,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190229,
       "num": 190229,
       "word": "尹锡悦宣布紧急戒严违反戒严法",
@@ -1419,6 +1427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 167470,
+      "num": 167470,
+      "word": "金善禹 发型",
+      "onboard_time": 1743770962,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167168,
       "num": 167168,
       "word": "吴敬平晒10岁樊振东反手技术",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1743761001,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162874,
+      "num": 162874,
+      "word": "为监视出轨老公收买公司前台",
+      "onboard_time": 1743773782,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 162380,
@@ -1577,6 +1601,14 @@
       "onboard_time": 1743754342,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152168,
+      "num": 213925,
+      "word": "樊振东是首位超级金满贯得主",
+      "onboard_time": 1743773662,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 150803,
@@ -1723,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140900,
+      "num": 140900,
+      "word": "T1战胜DRX",
+      "onboard_time": 1743773962,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140831,
       "num": 140831,
       "word": "原来猫猫失重的第一反应也是闭眼睛",
@@ -1769,14 +1809,6 @@
       "onboard_time": 1743741922,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 138709,
-      "num": 138709,
-      "word": "金善禹 发型",
-      "onboard_time": 1743770962,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 138347,
@@ -1899,6 +1931,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 129680,
+      "num": 268629,
+      "word": "张艺兴谈从偶像到演员",
+      "onboard_time": 1743771023,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127608,
       "num": 127608,
       "word": "张小婉的五官李嘉琦来守护",
@@ -1952,14 +1992,6 @@
       "word": "乌云之上是我第一次get现代孙俪",
       "onboard_time": 1743762501,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 126162,
-      "num": 126162,
-      "word": "罗晋 男版纯元",
-      "onboard_time": 1743773243,
-      "rank": 46,
       "category": "剧集"
     },
     {
@@ -2355,6 +2387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98847,
+      "num": 230652,
+      "word": "赵丽颖现场唱了手语版感恩的心",
+      "onboard_time": 1743772942,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98809,
       "num": 98809,
       "word": "千万网红刀小刀被查",
@@ -2483,6 +2523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90960,
+      "num": 228451,
+      "word": "演员陈喜莲裸捐所有财产",
+      "onboard_time": 1743765861,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90367,
       "num": 272280,
       "word": "美国吹灭别人的灯自己不会更光明",
@@ -2609,14 +2657,6 @@
       "onboard_time": 1743685642,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80823,
-      "num": 230652,
-      "word": "赵丽颖现场唱了手语版感恩的心",
-      "onboard_time": 1743772942,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 80736,
@@ -2803,14 +2843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49414,
-      "num": 228451,
-      "word": "演员陈喜莲裸捐所有财产",
-      "onboard_time": 1743765861,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 45880,
       "num": 45880,
       "word": "唐嫣哄娃",
@@ -2875,14 +2907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37484,
-      "num": 268629,
-      "word": "张艺兴谈从偶像到演员",
-      "onboard_time": 1743771023,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 37475,
       "num": 171910,
       "word": "专家辟谣抗生素洗头治疗脱发",
@@ -2913,6 +2937,14 @@
       "onboard_time": 1743681682,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 33746,
+      "num": 558575,
+      "word": "春节后首个小长假点燃春游热潮",
+      "onboard_time": 1743773303,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33453,
@@ -3035,20 +3067,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 14137,
-      "num": 223743,
-      "word": "春节后首个小长假点燃春游热潮",
-      "onboard_time": 1743773303,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13144,
       "num": 14536,
       "word": "朝雪录井底埋尸单元预告",
       "onboard_time": 1743710954,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12894,
+      "num": 912984,
+      "word": "清明念英烈",
+      "onboard_time": 1743671962,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11867,
