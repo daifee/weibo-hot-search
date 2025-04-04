@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743770818860,
+  "endTime": 1743771731287,
   "band_list": [
     {
       "raw_hot": 3529783,
@@ -67,6 +67,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1497991,
+      "num": 567591,
+      "word": "黄明昊 Justin",
+      "onboard_time": 1743768682,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1364965,
       "num": 1189429,
       "word": "辣目洋子暴瘦20斤",
@@ -83,12 +91,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1318444,
-      "num": 415610,
-      "word": "黄明昊 Justin",
-      "onboard_time": 1743768682,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 1248586,
+      "num": 1248586,
+      "word": "中方反制措施来了",
+      "onboard_time": 1743764421,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1234903,
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1212430,
+      "num": 1212430,
+      "word": "VaVa 灰原哀",
+      "onboard_time": 1743768863,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1207845,
       "num": 1207845,
       "word": "阿条姐登顶世界第一",
@@ -107,28 +123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1145769,
-      "num": 1183323,
-      "word": "VaVa 灰原哀",
-      "onboard_time": 1743768863,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1140320,
       "num": 1140320,
       "word": "金子涵 意难平",
       "onboard_time": 1743736760,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1113490,
-      "num": 1113490,
-      "word": "中方反制措施来了",
-      "onboard_time": 1743764421,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1098033,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 966698,
+      "num": 966698,
+      "word": "边牧在墓区偷吃供品胖成百斤",
+      "onboard_time": 1743769883,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 963523,
       "num": 589147,
       "word": "金子涵 乐华",
@@ -195,8 +203,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 919793,
+      "num": 919793,
+      "word": "杜邦被立案调查",
+      "onboard_time": 1743768922,
+      "rank": 5,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 910464,
-      "num": 418369,
+      "num": 571779,
       "word": "SM新男团 撞名",
       "onboard_time": 1743768442,
       "rank": 8,
@@ -241,14 +257,6 @@
       "onboard_time": 1743723799,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 740477,
-      "num": 740477,
-      "word": "杜邦被立案调查",
-      "onboard_time": 1743768922,
-      "rank": 5,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 722608,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 592082,
-      "num": 414656,
+      "num": 566690,
       "word": "房琪鼓励张含韵的那句话",
       "onboard_time": 1743765982,
       "rank": 17,
@@ -507,14 +515,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 412135,
-      "num": 412135,
-      "word": "边牧在墓区偷吃供品胖成百斤",
-      "onboard_time": 1743769883,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 407461,
       "num": 407461,
       "word": "向阳花票房",
@@ -553,6 +553,14 @@
       "onboard_time": 1743724699,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 385916,
+      "num": 385916,
+      "word": "樊振东十年铁血一单",
+      "onboard_time": 1743769702,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 383185,
@@ -652,7 +660,7 @@
     },
     {
       "raw_hot": 354229,
-      "num": 416556,
+      "num": 567821,
       "word": "杜邦涉嫌违反反垄断法",
       "onboard_time": 1743769164,
       "rank": 9,
@@ -817,6 +825,14 @@
       "onboard_time": 1743730581,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266936,
+      "num": 266936,
+      "word": "丁禹兮 晋江式演技",
+      "onboard_time": 1743771143,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 256802,
@@ -1011,14 +1027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211742,
-      "num": 211742,
-      "word": "樊振东十年铁血一单",
-      "onboard_time": 1743769702,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 211246,
       "num": 578618,
       "word": "对16家美国实体列入出口管制管控",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1743749781,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210900,
+      "num": 210900,
+      "word": "杜邦",
+      "onboard_time": 1743770722,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210798,
@@ -1251,6 +1267,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186238,
+      "num": 186238,
+      "word": "SMTR25练习生颜值",
+      "onboard_time": 1743770423,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185675,
+      "num": 185675,
+      "word": "王心凌给伴舞做了一次伴舞",
+      "onboard_time": 1743770242,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184097,
       "num": 184097,
       "word": "张靓颖喊谭维维老公",
@@ -1339,20 +1371,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169958,
-      "num": 169958,
-      "word": "杜邦",
-      "onboard_time": 1743770722,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168975,
       "num": 1282677,
       "word": "体育比赛为何会遭到美国网攻",
       "onboard_time": 1743730040,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168714,
+      "num": 181930,
+      "word": "身体缺维B的人易情绪暴躁",
+      "onboard_time": 1743765381,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 167168,
@@ -1377,14 +1409,6 @@
       "onboard_time": 1743743781,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165184,
-      "num": 165184,
-      "word": "王心凌给伴舞做了一次伴舞",
-      "onboard_time": 1743770242,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 165107,
@@ -1419,20 +1443,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162380,
+      "num": 162380,
+      "word": "科切拉",
+      "onboard_time": 1743770842,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161656,
       "num": 161656,
       "word": "姚晨爱女的含金量还在上升",
       "onboard_time": 1743737600,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161212,
-      "num": 181930,
-      "word": "身体缺维B的人易情绪暴躁",
-      "onboard_time": 1743765381,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 159540,
@@ -1635,12 +1659,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 144857,
-      "num": 144857,
-      "word": "SMTR25练习生颜值",
-      "onboard_time": 1743770423,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 144381,
+      "num": 144381,
+      "word": "鞠婧祎躺在陈都灵怀里",
+      "onboard_time": 1743771442,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 143917,
@@ -1729,6 +1753,14 @@
       "onboard_time": 1743741922,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 138709,
+      "num": 138709,
+      "word": "金善禹 发型",
+      "onboard_time": 1743770962,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 138347,
@@ -1979,6 +2011,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118964,
+      "num": 118964,
+      "word": "drx对战t1",
+      "onboard_time": 1743771323,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118900,
       "num": 118900,
       "word": "美国小伙杰克获中国永居证",
@@ -2073,6 +2113,14 @@
       "onboard_time": 1743675864,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113927,
+      "num": 113927,
+      "word": "怎么会有这么正常的电影",
+      "onboard_time": 1743771681,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 113658,
@@ -2785,6 +2833,14 @@
       "onboard_time": 1743761241,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37484,
+      "num": 268629,
+      "word": "张艺兴谈从偶像到演员",
+      "onboard_time": 1743771023,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 37475,

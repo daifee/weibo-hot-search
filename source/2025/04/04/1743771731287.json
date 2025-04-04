@@ -1,0 +1,410 @@
+{
+  "runTime": 1743771731287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1248586,
+        "num": 1248586,
+        "word": "中方反制措施来了",
+        "onboard_time": 1743764421,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1212430,
+        "num": 1212430,
+        "word": "VaVa 灰原哀",
+        "onboard_time": 1743768863,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13749,
+        "num": 1069717,
+        "word": "体育比赛为何会遭到美国网攻",
+        "onboard_time": 1743730040,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1220098,
+        "num": 1041819,
+        "word": "jayjay公开",
+        "onboard_time": 1743765561,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 966698,
+        "num": 966698,
+        "word": "边牧在墓区偷吃供品胖成百斤",
+        "onboard_time": 1743769883,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 919793,
+        "num": 919793,
+        "word": "杜邦被立案调查",
+        "onboard_time": 1743768922,
+        "rank": 5,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 885430,
+        "num": 885430,
+        "word": "对原产美国所有进口商品加征34%关税",
+        "onboard_time": 1743761781,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 572839,
+        "num": 572839,
+        "word": "金子涵 乐华",
+        "onboard_time": 1743764542,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 907138,
+        "num": 571779,
+        "word": "SM新男团 撞名",
+        "onboard_time": 1743768442,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313489,
+        "num": 567821,
+        "word": "杜邦涉嫌违反反垄断法",
+        "onboard_time": 1743769164,
+        "rank": 9,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 1497991,
+        "num": 567591,
+        "word": "黄明昊 Justin",
+        "onboard_time": 1743768682,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566690,
+        "num": 566690,
+        "word": "房琪鼓励张含韵的那句话",
+        "onboard_time": 1743765982,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489856,
+        "num": 489856,
+        "word": "赵丽颖演技",
+        "onboard_time": 1743763941,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385916,
+        "num": 385916,
+        "word": "樊振东十年铁血一单",
+        "onboard_time": 1743769702,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367102,
+        "num": 367102,
+        "word": "甲亢哥让合影小孩哥接爸爸电话",
+        "onboard_time": 1743756861,
+        "rank": 14,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 357669,
+        "num": 357669,
+        "word": "阿条姐登顶世界第一",
+        "onboard_time": 1743761541,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281395,
+        "num": 281395,
+        "word": "祝绪丹一公第二",
+        "onboard_time": 1743767721,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276737,
+        "num": 276737,
+        "word": "关税",
+        "onboard_time": 1743762921,
+        "rank": 17,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 246622,
+        "num": 271239,
+        "word": "18岁禁毒战士的葬礼全场被马赛克",
+        "onboard_time": 1743755841,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37484,
+        "num": 268629,
+        "word": "张艺兴谈从偶像到演员",
+        "onboard_time": 1743771023,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 432914,
+        "num": 268491,
+        "word": "和出轨老公坚持丧偶式婚姻",
+        "onboard_time": 1743758242,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266936,
+        "num": 266936,
+        "word": "丁禹兮 晋江式演技",
+        "onboard_time": 1743771143,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265841,
+        "num": 265841,
+        "word": "向阳花票房",
+        "onboard_time": 1743763461,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249840,
+        "num": 249840,
+        "word": "被妻子供上博士后的中年男教师",
+        "onboard_time": 1743768682,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221251,
+        "num": 221251,
+        "word": "李金铭十年前剩饭保留至今",
+        "onboard_time": 1743739761,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210900,
+        "num": 210900,
+        "word": "杜邦",
+        "onboard_time": 1743770722,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207352,
+        "num": 207352,
+        "word": "tata公开",
+        "onboard_time": 1743768500,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194641,
+        "num": 194641,
+        "word": "男子祭祖上香呛了一口烟救自己一命",
+        "onboard_time": 1743747681,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193674,
+        "num": 193674,
+        "word": "对中重稀土相关物项实施出口管制",
+        "onboard_time": 1743763102,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192971,
+        "num": 192971,
+        "word": "清明节",
+        "onboard_time": 1743722358,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191085,
+        "num": 191085,
+        "word": "王楚钦备战中",
+        "onboard_time": 1743770061,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186238,
+        "num": 186238,
+        "word": "SMTR25练习生颜值",
+        "onboard_time": 1743770423,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185675,
+        "num": 185675,
+        "word": "王心凌给伴舞做了一次伴舞",
+        "onboard_time": 1743770242,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178197,
+        "num": 178197,
+        "word": "缅甸地震3301死4792伤",
+        "onboard_time": 1743768141,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 176157,
+        "num": 176157,
+        "word": "尹锡悦被罢免总统职务",
+        "onboard_time": 1743733702,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168714,
+        "num": 168714,
+        "word": "身体缺维B的人易情绪暴躁",
+        "onboard_time": 1743765381,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162380,
+        "num": 162380,
+        "word": "科切拉",
+        "onboard_time": 1743770842,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159579,
+        "num": 159579,
+        "word": "小伙患抑郁暴食2年长近百斤",
+        "onboard_time": 1743763461,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153782,
+        "num": 153782,
+        "word": "请不要和孩子算经济账",
+        "onboard_time": 1743758060,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144999,
+        "num": 144999,
+        "word": "将11家美企列入不可靠实体清单",
+        "onboard_time": 1743762201,
+        "rank": 39,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 144381,
+        "num": 144381,
+        "word": "鞠婧祎躺在陈都灵怀里",
+        "onboard_time": 1743771442,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143154,
+        "num": 143154,
+        "word": "多国对美国关税制定反制措施",
+        "onboard_time": 1743767063,
+        "rank": 41,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 140850,
+        "num": 140850,
+        "word": "身上多处被烤熟的鹅坚强已能进食",
+        "onboard_time": 1743751040,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138709,
+        "num": 138709,
+        "word": "金善禹 发型",
+        "onboard_time": 1743770962,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131352,
+        "num": 131352,
+        "word": "肖战藏海传补妆路透",
+        "onboard_time": 1743769762,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118964,
+        "num": 118964,
+        "word": "drx对战t1",
+        "onboard_time": 1743771323,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115974,
+        "num": 115974,
+        "word": "德布劳内宣布将离开曼城",
+        "onboard_time": 1743766461,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114268,
+        "num": 114268,
+        "word": "何老师50岁的体力",
+        "onboard_time": 1743759261,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113927,
+        "num": 113927,
+        "word": "怎么会有这么正常的电影",
+        "onboard_time": 1743771681,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113215,
+        "num": 113215,
+        "word": "暂停6家美涉事企业产品输华资质",
+        "onboard_time": 1743762981,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平总书记这些深情话语#"
+    }
+  }
+}

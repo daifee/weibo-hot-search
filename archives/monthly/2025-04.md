@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/04 20:46:58
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/04 21:02:11
 </p>
 </blockquote>
 <p>
@@ -303,6 +303,12 @@ RedVelvet 解散（热度：1601334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%20Justin%23" target="weibo">
+黄明昊 Justin（热度：1497991）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E4%BC%9F%E5%87%BA%E8%BD%A8%23" target="weibo">
 刘维伟出轨（热度：1473440）
 </a>
@@ -381,12 +387,6 @@ RedVelvet 解散（热度：1601334）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%20Justin%23" target="weibo">
-黄明昊 Justin（热度：1318444）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%96%B9%E7%A7%B0%E6%8B%92%E7%BB%9D%E9%9F%B3%E4%B9%90%E7%89%88%E6%9D%83%E6%93%A6%E8%BE%B9%E8%A1%8C%E4%B8%BA%23" target="weibo">
 华晨宇方称拒绝音乐版权擦边行为（热度：1307003）
 </a>
@@ -417,6 +417,12 @@ RedVelvet 解散（热度：1601334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD%E6%9D%A5%E4%BA%86%23" target="weibo">
+中方反制措施来了（热度：1248586）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E8%BF%9B%E5%B1%95%23" target="weibo">
 小米SU7事故遇难者家属回应进展（热度：1243325）
 </a>
@@ -437,6 +443,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23jayjay%E5%85%AC%E5%BC%80%23" target="weibo">
 jayjay公开（热度：1234903）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23VaVa%20%E7%81%B0%E5%8E%9F%E5%93%80%23" target="weibo">
+VaVa 灰原哀（热度：1212430）
 </a>
 </li>
 
@@ -485,12 +497,6 @@ jayjay公开（热度：1234903）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%99%E5%A7%90%E6%84%9A%E4%BA%BA%E8%8A%82%E5%9B%A2%E5%BB%BA%E9%A2%84%E5%91%8A%23" target="weibo">
 站姐愚人节团建预告（热度：1147297）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23VaVa%20%E7%81%B0%E5%8E%9F%E5%93%80%23" target="weibo">
-VaVa 灰原哀（热度：1145769）
 </a>
 </li>
 
@@ -545,12 +551,6 @@ VaVa 灰原哀（热度：1145769）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23SU7%E7%88%86%E7%87%83%E9%81%87%E9%9A%BE%E8%80%85%E6%AF%8D%E4%BA%B2%E5%B8%8C%E6%9C%9B%E9%9B%B7%E5%86%9B%E8%AF%B4%E5%88%B0%E5%81%9A%E5%88%B0%23" target="weibo">
 SU7爆燃遇难者母亲希望雷军说到做到（热度：1116917）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD%E6%9D%A5%E4%BA%86%23" target="weibo">
-中方反制措施来了（热度：1113490）
 </a>
 </li>
 
@@ -675,6 +675,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%B9%E7%89%A7%E5%9C%A8%E5%A2%93%E5%8C%BA%E5%81%B7%E5%90%83%E4%BE%9B%E5%93%81%E8%83%96%E6%88%90%E7%99%BE%E6%96%A4%23" target="weibo">
+边牧在墓区偷吃供品胖成百斤（热度：966698）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%20%E4%B9%90%E5%8D%8E%23" target="weibo">
 金子涵 乐华（热度：963523）
 </a>
@@ -719,6 +725,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E6%96%B9%E6%99%92real%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC%23" target="weibo">
 金秀贤方晒real分镜脚本（热度：920763）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%82%A6%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23" target="weibo">
+杜邦被立案调查（热度：919793）
 </a>
 </li>
 
@@ -947,12 +959,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E9%82%80%E8%AF%B7%E8%8B%A6%E5%B0%BD%E6%9F%91%E6%9D%A5%E9%81%87%E8%A7%81%E4%BD%A0%E5%89%A7%E7%BB%84%23" target="weibo">
 张家界邀请苦尽柑来遇见你剧组（热度：741691）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%82%A6%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23" target="weibo">
-杜邦被立案调查（热度：740477）
 </a>
 </li>
 
@@ -1845,12 +1851,6 @@ hanbi公开（热度：468837）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%B9%E7%89%A7%E5%9C%A8%E5%A2%93%E5%8C%BA%E5%81%B7%E5%90%83%E4%BE%9B%E5%93%81%E8%83%96%E6%88%90%E7%99%BE%E6%96%A4%23" target="weibo">
-边牧在墓区偷吃供品胖成百斤（热度：412135）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%95%88%E5%AD%98%E9%92%B115%E5%B9%B4%E7%AB%9F%E7%84%B6%E8%83%BD%E5%A4%9A%E8%B5%9A60%E4%B8%87%23" target="weibo">
 有效存钱15年竟然能多赚60万（热度：411942）
 </a>
@@ -1961,6 +1961,12 @@ TVB女演员陈思齐摆摊卖鸡爪（热度：399114）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E5%91%A8%E5%91%A8%E5%B0%8F%E5%8F%AF%E7%88%B1%E6%80%80%E5%AD%95%23" target="weibo">
 疑似周周小可爱怀孕（热度：386338）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8D%81%E5%B9%B4%E9%93%81%E8%A1%80%E4%B8%80%E5%8D%95%23" target="weibo">
+樊振东十年铁血一单（热度：385916）
 </a>
 </li>
 
@@ -2967,6 +2973,12 @@ tata公开（热度：270523）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%20%E6%99%8B%E6%B1%9F%E5%BC%8F%E6%BC%94%E6%8A%80%23" target="weibo">
+丁禹兮 晋江式演技（热度：266936）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%BC%94%E7%BB%83%E6%AD%A6%E5%99%A8%E5%B0%84%E7%A8%8B%E8%83%BD%E8%A6%86%E7%9B%96%E5%8F%B0%E6%B9%BE%E5%B2%9B%E5%85%A8%E5%A2%83%23" target="weibo">
 解放军演练武器射程能覆盖台湾岛全境（热度：266733）
 </a>
@@ -3573,12 +3585,6 @@ Mandy称不会去曝光孩子（热度：214777）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8D%81%E5%B9%B4%E9%93%81%E8%A1%80%E4%B8%80%E5%8D%95%23" target="weibo">
-樊振东十年铁血一单（热度：211742）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%95%91%E6%8F%B4%E9%98%9F%E5%91%98%E6%9E%95%E7%9D%80%E8%B7%AF%E5%9F%BA%E7%9D%A1%E7%9D%80%E4%BA%86%23" target="weibo">
 中国救援队员枕着路基睡着了（热度：211735）
 </a>
@@ -3605,6 +3611,12 @@ Mandy称不会去曝光孩子（热度：214777）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23VaVa%E4%B8%BA%E4%BA%86%E9%99%AA%E5%8D%A1%E7%90%B3%E5%A8%9C%E7%81%AD%E5%90%B4%E5%AE%A3%E4%BB%AA%E7%9A%84%E7%81%AF%23" target="weibo">
 VaVa为了陪卡琳娜灭吴宣仪的灯（热度：211125）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%82%A6%23" target="weibo">
+杜邦（热度：210900）
 </a>
 </li>
 
@@ -4461,6 +4473,12 @@ PsyP发diss（热度：187121）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23SMTR25%E7%BB%83%E4%B9%A0%E7%94%9F%E9%A2%9C%E5%80%BC%23" target="weibo">
+SMTR25练习生颜值（热度：186238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%9C%892%E9%83%A8%E6%96%B0%E5%89%A7%E6%92%AD%E5%87%BA%23" target="weibo">
 孙俪上半年有2部新剧播出（热度：185865）
 </a>
@@ -4469,6 +4487,12 @@ PsyP发diss（热度：187121）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%AE%98%E5%BE%AE%E7%A7%B0%E9%80%A0%E8%BD%A6%E9%A6%96%E8%A6%81%E5%8E%9F%E5%88%99%E6%98%AF%E5%AE%89%E5%85%A8%23" target="weibo">
 特斯拉官微称造车首要原则是安全（热度：185812）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E7%BB%99%E4%BC%B4%E8%88%9E%E5%81%9A%E4%BA%86%E4%B8%80%E6%AC%A1%E4%BC%B4%E8%88%9E%23" target="weibo">
+王心凌给伴舞做了一次伴舞（热度：185675）
 </a>
 </li>
 
@@ -4953,12 +4977,6 @@ iOS18.4支持5.5G网络（热度：175414）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%82%A6%23" target="weibo">
-杜邦（热度：169958）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E9%97%B4%E9%80%81%E8%BF%87%E6%9C%80%E7%8F%8D%E8%B4%B5%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
 朋友间送过最珍贵的是什么（热度：169748）
 </a>
@@ -4979,6 +4997,12 @@ iOS18.4支持5.5G网络（热度：175414）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E8%82%B2%E6%AF%94%E8%B5%9B%E4%B8%BA%E4%BD%95%E4%BC%9A%E9%81%AD%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%BD%91%E6%94%BB%23" target="weibo">
 体育比赛为何会遭到美国网攻（热度：168975）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E7%BC%BA%E7%BB%B4B%E7%9A%84%E4%BA%BA%E6%98%93%E6%83%85%E7%BB%AA%E6%9A%B4%E8%BA%81%23" target="weibo">
+身体缺维B的人易情绪暴躁（热度：168714）
 </a>
 </li>
 
@@ -5097,12 +5121,6 @@ iOS18.4支持5.5G网络（热度：175414）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E7%BB%99%E4%BC%B4%E8%88%9E%E5%81%9A%E4%BA%86%E4%B8%80%E6%AC%A1%E4%BC%B4%E8%88%9E%23" target="weibo">
-王心凌给伴舞做了一次伴舞（热度：165184）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%85%BC%E4%BB%BB%E5%90%91%E9%98%B3%E8%8A%B1%E5%87%BA%E5%93%81%E4%BA%BA%23" target="weibo">
 赵丽颖兼任向阳花出品人（热度：165107）
 </a>
@@ -5175,6 +5193,12 @@ iOS18.4支持5.5G网络（热度：175414）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%88%87%E6%8B%89%23" target="weibo">
+科切拉（热度：162380）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%AE%A3%E5%B8%83%E6%8A%951000%E4%BA%BF%E6%89%B6%E6%8C%81%E5%95%86%E5%AE%B6%23" target="weibo">
 拼多多宣布投1000亿扶持商家（热度：162379）
 </a>
@@ -5219,12 +5243,6 @@ iOS18.4支持5.5G网络（热度：175414）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%90%8C%E5%9C%B0%E9%9C%87%23" target="weibo">
 大同地震（热度：161229）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E7%BC%BA%E7%BB%B4B%E7%9A%84%E4%BA%BA%E6%98%93%E6%83%85%E7%BB%AA%E6%9A%B4%E8%BA%81%23" target="weibo">
-身体缺维B的人易情绪暴躁（热度：161212）
 </a>
 </li>
 
@@ -5853,12 +5871,6 @@ smtr25（热度：148510）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23SMTR25%E7%BB%83%E4%B9%A0%E7%94%9F%E9%A2%9C%E5%80%BC%23" target="weibo">
-SMTR25练习生颜值（热度：144857）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%AF%E5%87%80%E6%B0%B4%E6%B1%A4%E5%BA%9522%E5%85%83%23" target="weibo">
 纯净水汤底22元（热度：144669）
 </a>
@@ -5867,6 +5879,12 @@ SMTR25练习生颜值（热度：144857）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E6%8A%B9%E5%B8%83%E6%96%87%E5%AD%A6%23" target="weibo">
 王安宇抹布文学（热度：144564）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%BA%BA%E5%9C%A8%E9%99%88%E9%83%BD%E7%81%B5%E6%80%80%E9%87%8C%23" target="weibo">
+鞠婧祎躺在陈都灵怀里（热度：144381）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ FS社新作公开（热度：143155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%234%E6%9C%88%E4%B8%80%E8%B5%B7%E5%8A%A0%E6%B2%B9%23" target="weibo">
 4月一起加油（热度：141740）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9B%BE%E5%AD%97%E6%AF%8D%E9%83%BD%E8%AE%B0%E4%B8%8D%E5%85%A8%E5%A6%82%E4%BB%8A%E4%BF%9D%E9%80%81%E5%8C%97%E5%A4%A7%23" target="weibo">
-17岁女孩曾字母都记不全如今保送北大（热度：141464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%AE%E6%B0%B4%E7%AB%B9%E4%BA%AD%E7%9C%8B%E4%BC%BC4%E4%B8%AA%E4%BA%BA%E5%AE%9E%E5%88%B010%E4%B8%AA%E4%BA%BA%23" target="weibo">
-淮水竹亭看似4个人实到10个人（热度：141294）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC4%E5%90%8D%E5%9C%A8%E7%AB%8B%E9%99%B6%E5%AE%9B%E5%A4%B1%E8%B8%AA%E7%BE%8E%E5%A3%AB%E5%85%B5%E9%81%97%E4%BD%93%E6%89%BE%E5%88%B0%23" target="weibo">
-第4名在立陶宛失踪美士兵遗体找到（热度：141142）
 </a>
 </li>
 
