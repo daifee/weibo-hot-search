@@ -1,0 +1,410 @@
+{
+  "runTime": 1743741838056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1873302,
+        "num": 1873302,
+        "word": "李金铭十年前剩饭保留至今",
+        "onboard_time": 1743739761,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485296,
+        "num": 485296,
+        "word": "尹锡悦被罢免总统职务",
+        "onboard_time": 1743733702,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10411,
+        "num": 448683,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1743672202,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1742502,
+        "num": 443467,
+        "word": "网红田姥姥在亡夫墓前痛哭",
+        "onboard_time": 1743738621,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 429170,
+        "num": 429170,
+        "word": "清明节",
+        "onboard_time": 1743722358,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420220,
+        "num": 420220,
+        "word": "手机曲面屏为什么消失了",
+        "onboard_time": 1743730040,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26259,
+        "num": 420136,
+        "word": "树载千秋同根同祖",
+        "onboard_time": 1743738981,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1027977,
+        "num": 419779,
+        "word": "RedVelvet 解散",
+        "onboard_time": 1743721997,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648525,
+        "num": 419410,
+        "word": "金子涵 意难平",
+        "onboard_time": 1743736760,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52478,
+        "num": 418680,
+        "word": "既是节气又是节日的清明",
+        "onboard_time": 1743741080,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425436,
+        "num": 418602,
+        "word": "麦琳分享瘦44斤方法",
+        "onboard_time": 1743737181,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418225,
+        "num": 418225,
+        "word": "林栋哲岳父变亲爸了",
+        "onboard_time": 1743738862,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344103,
+        "num": 344103,
+        "word": "AI复原出22岁烈士的模样",
+        "onboard_time": 1743738201,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313771,
+        "num": 313771,
+        "word": "尹锡悦弹劾案宣判",
+        "onboard_time": 1743733401,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33221,
+        "num": 294218,
+        "word": "找到烈士父亲73岁老人哭得像个孩子",
+        "onboard_time": 1743740901,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291582,
+        "num": 291582,
+        "word": "韩国富豪董事长的营养早餐",
+        "onboard_time": 1743737960,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280081,
+        "num": 280081,
+        "word": "甲亢哥中国行效果好到爆",
+        "onboard_time": 1743737481,
+        "rank": 16,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 275773,
+        "num": 275773,
+        "word": "Wendy泡泡发长文",
+        "onboard_time": 1743736341,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263046,
+        "num": 263046,
+        "word": "刀小刀回应被警察带走",
+        "onboard_time": 1743741201,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36549,
+        "num": 251594,
+        "word": "十字路口小区楼道成焚烧纸钱重灾区",
+        "onboard_time": 1743740962,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633446,
+        "num": 248026,
+        "word": "疯狂动物城2",
+        "onboard_time": 1743738260,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 266737,
+        "num": 247521,
+        "word": "特朗普因对中国征收关税被起诉",
+        "onboard_time": 1743730401,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244073,
+        "num": 244073,
+        "word": "speed 香港",
+        "onboard_time": 1743741261,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243890,
+        "num": 243890,
+        "word": "尹锡悦成韩国第二位被罢免总统",
+        "onboard_time": 1743734362,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21250,
+        "num": 242636,
+        "word": "金价",
+        "onboard_time": 1743741441,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242445,
+        "num": 242445,
+        "word": "幸好我是汉族贵族也太累了",
+        "onboard_time": 1743736880,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230357,
+        "num": 230357,
+        "word": "全红婵要签名照兴奋到搓手",
+        "onboard_time": 1743729441,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56784,
+        "num": 227583,
+        "word": "逆水寒纸嫁衣联动",
+        "onboard_time": 1743741321,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30521,
+        "num": 227297,
+        "word": "遗嘱库里封存的真实遗愿清单",
+        "onboard_time": 1743740601,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73706,
+        "num": 227280,
+        "word": "王艺迪3比2钱天一",
+        "onboard_time": 1743740901,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227270,
+        "num": 227270,
+        "word": "王玉雯有股经济上行的美",
+        "onboard_time": 1743741502,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209123,
+        "num": 209123,
+        "word": "清明档观后感",
+        "onboard_time": 1743741201,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203490,
+        "num": 203490,
+        "word": "樊振东获上海市青年五四奖章",
+        "onboard_time": 1743739462,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196846,
+        "num": 196846,
+        "word": "涂毓麟孙乐言哄娃睡觉变苦命鸳鸯",
+        "onboard_time": 1743739761,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193580,
+        "num": 193580,
+        "word": "原来洛阳真有比脸还大的牡丹",
+        "onboard_time": 1743740362,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 181740,
+        "num": 181740,
+        "word": "王安宇演出了打工人的千薪万苦",
+        "onboard_time": 1743740662,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178432,
+        "num": 178432,
+        "word": "李金铭 真人秀中没有人伤害我",
+        "onboard_time": 1743723799,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176130,
+        "num": 176130,
+        "word": "疑似周周小可爱陈泽领证",
+        "onboard_time": 1743737841,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 175035,
+        "num": 175035,
+        "word": "洪小铃得女",
+        "onboard_time": 1743741381,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166103,
+        "num": 166103,
+        "word": "我的世界",
+        "onboard_time": 1743740482,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164528,
+        "num": 164528,
+        "word": "原来爱有滞后性是真的",
+        "onboard_time": 1743730939,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146828,
+        "num": 146828,
+        "word": "沈阳一楼发生火灾2名消防员牺牲",
+        "onboard_time": 1743741261,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145902,
+        "num": 145902,
+        "word": "向阳花",
+        "onboard_time": 1743727402,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142249,
+        "num": 142249,
+        "word": "NewJeans父母出现分歧",
+        "onboard_time": 1743735020,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138347,
+        "num": 138347,
+        "word": "我的世界大电影今日上映",
+        "onboard_time": 1743740542,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135720,
+        "num": 135720,
+        "word": "孟子坤 未成年",
+        "onboard_time": 1743725179,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133495,
+        "num": 133495,
+        "word": "93岁爷爷攒钱1年半给孙女买金镯子",
+        "onboard_time": 1743739522,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126837,
+        "num": 126837,
+        "word": "詹姆斯三分",
+        "onboard_time": 1743740121,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126174,
+        "num": 126174,
+        "word": "疑似周周小可爱怀孕",
+        "onboard_time": 1743724699,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 124289,
+        "num": 124289,
+        "word": "ENHYPEN新歌Loose",
+        "onboard_time": 1743741682,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#义务植树要一代接着一代干下去#"
+    }
+  }
+}

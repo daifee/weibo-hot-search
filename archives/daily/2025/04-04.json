@@ -1,6 +1,6 @@
 {
   "startTime": 1743697804546,
-  "endTime": 1743740923977,
+  "endTime": 1743741838056,
   "band_list": [
     {
       "raw_hot": 2404409,
@@ -11,20 +11,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1873302,
+      "num": 1873302,
+      "word": "李金铭十年前剩饭保留至今",
+      "onboard_time": 1743739761,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1790523,
       "num": 453316,
       "word": "网红田姥姥在亡夫墓前痛哭",
       "onboard_time": 1743738621,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1622962,
-      "num": 1622962,
-      "word": "李金铭十年前剩饭保留至今",
-      "onboard_time": 1743739761,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1601334,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 705626,
-      "num": 226922,
+      "num": 248026,
       "word": "疯狂动物城2",
       "onboard_time": 1743738260,
       "rank": 22,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 445407,
-      "num": 365767,
+      "num": 418225,
       "word": "林栋哲岳父变亲爸了",
       "onboard_time": 1743738862,
       "rank": 10,
@@ -323,12 +323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291582,
+      "num": 291582,
+      "word": "韩国富豪董事长的营养早餐",
+      "onboard_time": 1743737960,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 284464,
       "num": 272172,
       "word": "玫瑰公主孟子义",
       "onboard_time": 1743692782,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 280081,
+      "num": 280081,
+      "word": "甲亢哥中国行效果好到爆",
+      "onboard_time": 1743737481,
+      "rank": 39,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 273317,
@@ -353,6 +369,14 @@
       "onboard_time": 1743730581,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263046,
+      "num": 263046,
+      "word": "刀小刀回应被警察带走",
+      "onboard_time": 1743741201,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 252354,
@@ -395,12 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239539,
-      "num": 239539,
-      "word": "韩国富豪董事长的营养早餐",
-      "onboard_time": 1743737960,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 244073,
+      "num": 244073,
+      "word": "speed 香港",
+      "onboard_time": 1743741261,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 236855,
@@ -411,12 +435,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 231550,
-      "num": 231550,
-      "word": "甲亢哥中国行效果好到爆",
-      "onboard_time": 1743737481,
-      "rank": 39,
-      "category": "民生新闻,网红"
+      "raw_hot": 227270,
+      "num": 227270,
+      "word": "王玉雯有股经济上行的美",
+      "onboard_time": 1743741502,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 225663,
@@ -467,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209123,
+      "num": 209123,
+      "word": "清明档观后感",
+      "onboard_time": 1743741201,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208758,
       "num": 155283,
       "word": "德国女孩被印度免费导游设局强奸",
@@ -481,6 +513,14 @@
       "onboard_time": 1743733943,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203490,
+      "num": 203490,
+      "word": "樊振东获上海市青年五四奖章",
+      "onboard_time": 1743739462,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 199909,
@@ -547,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181740,
+      "num": 181740,
+      "word": "王安宇演出了打工人的千薪万苦",
+      "onboard_time": 1743740662,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181719,
       "num": 181719,
       "word": "4人卖鞋亏损后转卖保健品骗了超10亿",
@@ -563,6 +611,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176130,
+      "num": 230915,
+      "word": "疑似周周小可爱陈泽领证",
+      "onboard_time": 1743737841,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 175035,
+      "num": 175035,
+      "word": "洪小铃得女",
+      "onboard_time": 1743741381,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172589,
       "num": 172589,
       "word": "中方已向日方严正交涉",
@@ -571,28 +635,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 170039,
-      "num": 230915,
-      "word": "疑似周周小可爱陈泽领证",
-      "onboard_time": 1743737841,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 168975,
       "num": 1148945,
       "word": "体育比赛为何会遭到美国网攻",
       "onboard_time": 1743730040,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167315,
-      "num": 198264,
-      "word": "樊振东获上海市青年五四奖章",
-      "onboard_time": 1743739462,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 167168,
@@ -699,8 +747,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 145565,
-      "num": 145565,
+      "raw_hot": 146828,
+      "num": 146828,
+      "word": "沈阳一楼发生火灾2名消防员牺牲",
+      "onboard_time": 1743741261,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145902,
+      "num": 145902,
       "word": "向阳花",
       "onboard_time": 1743727402,
       "rank": 48,
@@ -739,6 +795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 138347,
+      "num": 138347,
+      "word": "我的世界大电影今日上映",
+      "onboard_time": 1743740542,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138292,
       "num": 138292,
       "word": "詹姆斯三分",
@@ -753,14 +817,6 @@
       "onboard_time": 1743694161,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137022,
-      "num": 137022,
-      "word": "我的世界大电影今日上映",
-      "onboard_time": 1743740542,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 136508,
@@ -819,14 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126546,
-      "num": 126546,
-      "word": "王安宇演出了打工人的千薪万苦",
-      "onboard_time": 1743740662,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 125686,
       "num": 125686,
       "word": "不说话的爱",
@@ -841,6 +889,14 @@
       "onboard_time": 1743732922,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124289,
+      "num": 124289,
+      "word": "ENHYPEN新歌Loose",
+      "onboard_time": 1743741682,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 121392,
@@ -924,7 +980,7 @@
     },
     {
       "raw_hot": 111023,
-      "num": 137357,
+      "num": 227280,
       "word": "王艺迪3比2钱天一",
       "onboard_time": 1743740901,
       "rank": 38,
@@ -1275,12 +1331,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56784,
+      "num": 227583,
+      "word": "逆水寒纸嫁衣联动",
+      "onboard_time": 1743741321,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 54014,
       "num": 632386,
       "word": "清明美食图鉴上新了",
       "onboard_time": 1743688282,
       "rank": 2,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 52478,
+      "num": 418680,
+      "word": "既是节气又是节日的清明",
+      "onboard_time": 1743741080,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51824,
@@ -1339,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36549,
+      "num": 251594,
+      "word": "十字路口小区楼道成焚烧纸钱重灾区",
+      "onboard_time": 1743740962,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35773,
       "num": 44843,
       "word": "拼多多宣布投1000亿扶持商家",
@@ -1353,6 +1433,14 @@
       "onboard_time": 1743701836,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33221,
+      "num": 294218,
+      "word": "找到烈士父亲73岁老人哭得像个孩子",
+      "onboard_time": 1743740901,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32903,
@@ -1371,6 +1459,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30521,
+      "num": 227297,
+      "word": "遗嘱库里封存的真实遗愿清单",
+      "onboard_time": 1743740601,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26259,
+      "num": 420136,
+      "word": "树载千秋同根同祖",
+      "onboard_time": 1743738981,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24248,
       "num": 26811,
       "word": "多数美国人认为关税政策损美经济",
@@ -1379,20 +1483,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 23835,
-      "num": 405133,
-      "word": "树载千秋同根同祖",
-      "onboard_time": 1743738981,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22022,
-      "num": 127609,
-      "word": "找到烈士父亲73岁老人哭得像个孩子",
-      "onboard_time": 1743740901,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 21250,
+      "num": 242636,
+      "word": "金价",
+      "onboard_time": 1743741441,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 19655,
@@ -1401,14 +1497,6 @@
       "onboard_time": 1743712934,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18291,
-      "num": 186258,
-      "word": "遗嘱库里封存的真实遗愿清单",
-      "onboard_time": 1743740601,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16320,
@@ -1443,7 +1531,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 8094,
+      "raw_hot": 10411,
       "num": 458612,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1743672202,
@@ -1457,6 +1545,9 @@
     },
     {
       "word": "#家国永念致敬英雄#"
+    },
+    {
+      "word": "#义务植树要一代接着一代干下去#"
     }
   ]
 }
