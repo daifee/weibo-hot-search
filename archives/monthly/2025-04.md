@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/05 07:22:58
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/05 07:37:03
 </p>
 </blockquote>
 <p>
@@ -1343,6 +1343,12 @@ Angelababy女王权杖（热度：593316）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%B7%9E%E6%83%8A%E7%8E%B0200%E5%B9%B31.5%E4%B8%87%E5%85%83%E7%BA%B8%E8%B1%AA%E5%AE%85%23" target="weibo">
 常州惊现200平1.5万元纸豪宅（热度：563320）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%9E%E7%BB%AD%E8%B7%B3%E6%B0%B4%23" target="weibo">
+金价连续跳水（热度：562345）
 </a>
 </li>
 
@@ -2859,6 +2865,12 @@ deepseek对许嵩作词甘拜下风（热度：294331）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%BC%85%E5%8D%8E%E4%BA%BA%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D%E6%97%B6%E7%9B%AE%E7%9D%B9%E5%A6%BB%E5%84%BF%E8%A2%AB%E6%8E%A9%E5%9F%8B%23" target="weibo">
+在缅华人视频通话时目睹妻儿被掩埋（热度：286516）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E6%8B%94%E6%99%BA%E9%BD%BF%23" target="weibo">
 王心凌拔智齿（热度：285669）
 </a>
@@ -3509,12 +3521,6 @@ PH试纸碰他一下就变黑了 太碱了（热度：225960）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E5%91%A8%E5%B9%B4%E7%9B%B4%E6%92%AD%E6%B2%A1%E9%80%9A%E7%9F%A5cbx%23" target="weibo">
 EXO周年直播没通知cbx（热度：225340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%BC%85%E5%8D%8E%E4%BA%BA%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D%E6%97%B6%E7%9B%AE%E7%9D%B9%E5%A6%BB%E5%84%BF%E8%A2%AB%E6%8E%A9%E5%9F%8B%23" target="weibo">
-在缅华人视频通话时目睹妻儿被掩埋（热度：225131）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ smtr25（热度：148510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E8%A2%AB%E6%8A%95%E8%AF%89%E5%BC%BA%E5%88%B6%E5%A5%B3%E7%94%9F%E5%89%AA%E7%9F%AD%E5%8F%91%23" target="weibo">
 官方回应中学被投诉强制女生剪短发（热度：145739）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E9%9D%A2%E4%B8%B4%E7%BE%8E%E6%96%B946%25%E9%AB%98%E9%A2%9D%E5%85%B3%E7%A8%8E%23" target="weibo">
-越南面临美方46%高额关税（热度：145468）
 </a>
 </li>
 

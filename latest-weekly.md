@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/03/30 00:29:02 ~ 2025/04/05 07:22:58
+本榜单时间：2025/03/30 00:29:02 ~ 2025/04/05 07:37:03
 </p>
 </blockquote>
 <p>
@@ -1973,6 +1973,12 @@ Angelababy女王权杖（热度：593316）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%B7%9E%E6%83%8A%E7%8E%B0200%E5%B9%B31.5%E4%B8%87%E5%85%83%E7%BA%B8%E8%B1%AA%E5%AE%85%23" target="weibo">
 常州惊现200平1.5万元纸豪宅（热度：563320）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%9E%E7%BB%AD%E8%B7%B3%E6%B0%B4%23" target="weibo">
+金价连续跳水（热度：562345）
 </a>
 </li>
 
@@ -4161,6 +4167,12 @@ deepseek对许嵩作词甘拜下风（热度：294331）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%BC%85%E5%8D%8E%E4%BA%BA%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D%E6%97%B6%E7%9B%AE%E7%9D%B9%E5%A6%BB%E5%84%BF%E8%A2%AB%E6%8E%A9%E5%9F%8B%23" target="weibo">
+在缅华人视频通话时目睹妻儿被掩埋（热度：286516）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E6%8B%94%E6%99%BA%E9%BD%BF%23" target="weibo">
 王心凌拔智齿（热度：285669）
 </a>
@@ -5159,12 +5171,6 @@ PH试纸碰他一下就变黑了 太碱了（热度：225960）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E5%91%A8%E5%B9%B4%E7%9B%B4%E6%92%AD%E6%B2%A1%E9%80%9A%E7%9F%A5cbx%23" target="weibo">
 EXO周年直播没通知cbx（热度：225340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%BC%85%E5%8D%8E%E4%BA%BA%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D%E6%97%B6%E7%9B%AE%E7%9D%B9%E5%A6%BB%E5%84%BF%E8%A2%AB%E6%8E%A9%E5%9F%8B%23" target="weibo">
-在缅华人视频通话时目睹妻儿被掩埋（热度：225131）
 </a>
 </li>
 
@@ -10101,6 +10107,12 @@ Flamma道歉（热度：127917）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E9%BD%90%E6%80%9D%E9%92%A7%E8%A1%A5%E5%88%80%23" target="weibo">
+谢娜齐思钧补刀（热度：126222）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23EDGM%E9%94%81%E5%AE%9A%E7%AC%AC%E4%B8%89%E8%BD%AES%E7%BB%84%23" target="weibo">
 EDGM锁定第三轮S组（热度：126210）
 </a>
@@ -11325,6 +11337,12 @@ KPL春季赛第三轮赛程公布（热度：108349）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%870%E6%AF%942%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%BE%B7%E6%B4%9B%E5%A8%83%23" target="weibo">
+郑钦文0比2亚历山德洛娃（热度：106453）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C3%E6%AF%941%E7%BD%97%E4%BC%AF%E5%8B%92%E6%96%AF%23" target="weibo">
 张本智和3比1罗伯勒斯（热度：106429）
 </a>
@@ -11651,12 +11669,6 @@ SM新男团预告（热度：100567）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%BB%B4%E4%BF%AE%E5%B7%A5%E6%9C%88%E8%96%AA%E6%88%96%E8%BE%BE2%E4%B8%87%E5%85%83%23" target="weibo">
 新能源汽车维修工月薪或达2万元（热度：99326）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%870%E6%AF%942%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%BE%B7%E6%B4%9B%E5%A8%83%23" target="weibo">
-郑钦文0比2亚历山德洛娃（热度：99243）
 </a>
 </li>
 
@@ -12135,6 +12147,12 @@ Gucci抓了好多明星为我读诗（热度：88227）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E6%94%B6%E7%9B%98%E6%9A%B4%E8%B7%8C%23" target="weibo">
+美股三大股指收盘暴跌（热度：88153）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%82%A1%E6%B0%91%E6%93%8D%E7%BA%B5%E5%A4%9A%E5%8F%AA%E8%82%A1%E7%A5%A8%E8%A2%AB%E7%BD%9A%E6%B2%A13.96%E4%BA%BF%23" target="weibo">
 一股民操纵多只股票被罚没3.96亿（热度：88061）
 </a>
@@ -12155,12 +12173,6 @@ Gucci抓了好多明星为我读诗（热度：88227）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%8B%8F%E8%AF%B4%E6%9D%A8%E7%B4%AB%E6%BC%94%E6%8A%80%E5%BE%88%E5%8E%89%E5%AE%B3%23" target="weibo">
 马苏说杨紫演技很厉害（热度：87881）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E9%BD%90%E6%80%9D%E9%92%A7%E8%A1%A5%E5%88%80%23" target="weibo">
-谢娜齐思钧补刀（热度：87833）
 </a>
 </li>
 
@@ -12287,6 +12299,12 @@ Switch2价格预测（热度：85396）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2336%E4%BB%B6%E9%87%8D724%E5%85%8B%E7%8E%B3%E7%91%81%E6%89%8B%E9%95%AF%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%23" target="weibo">
 36件重724克玳瑁手镯入境被查（热度：84903）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E5%81%9A%E7%BD%91%E7%BA%A2%E7%9A%84%E6%97%B6%E5%80%99%23" target="weibo">
+金子涵做网红的时候（热度：84851）
 </a>
 </li>
 
@@ -12987,6 +13005,12 @@ CBA排名（热度：64301）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F%E5%86%9C%E6%9D%91%E7%99%BE%E4%B8%87%E4%B8%AD%E5%BC%8F%E5%A9%9A%E7%A4%BC%E9%85%92%E5%B8%AD%23" target="weibo">
+广东湛江农村百万中式婚礼酒席（热度：60880）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%95%91%E6%8F%B4%E9%98%9F%E4%BC%8D%E5%9C%A8%E7%BC%85%E6%95%91%E5%87%BA8%E4%BA%BA%23" target="weibo">
 中国救援队伍在缅救出8人（热度：60420）
 </a>
@@ -13115,12 +13139,6 @@ CBA排名（热度：64301）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%83%B3%E7%94%9F%E6%B4%BB%E5%9C%A8%E6%80%8E%E6%A0%B7%E7%9A%84%E4%B8%96%E7%95%8C%23" target="weibo">
 你想生活在怎样的世界（热度：57892）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F%E5%86%9C%E6%9D%91%E7%99%BE%E4%B8%87%E4%B8%AD%E5%BC%8F%E5%A9%9A%E7%A4%BC%E9%85%92%E5%B8%AD%23" target="weibo">
-广东湛江农村百万中式婚礼酒席（热度：57559）
 </a>
 </li>
 
@@ -13991,6 +14009,12 @@ PCL2025（热度：34131）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%94%E8%88%B9%E7%96%91%E9%81%AD%E6%B5%B7%E7%9B%97%E6%94%BB%E5%87%BB3%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%A4%B1%E8%B8%AA%23" target="weibo">
 渔船疑遭海盗攻击3名中国公民失踪（热度：34047）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
+赵露思 音乐节（热度：33790）
 </a>
 </li>
 

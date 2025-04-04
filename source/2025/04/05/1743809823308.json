@@ -1,0 +1,410 @@
+{
+  "runTime": 1743809823308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 562345,
+        "num": 899975,
+        "word": "金价连续跳水",
+        "onboard_time": 1743809178,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 257303,
+        "num": 257303,
+        "word": "对原产美国所有进口商品加征34%关税",
+        "onboard_time": 1743761781,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 4536,
+        "num": 233520,
+        "word": "清明念英烈",
+        "onboard_time": 1743671962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231475,
+        "num": 231475,
+        "word": "赵丽颖没法看电影里自己跟孩子的那一段",
+        "onboard_time": 1743782840,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231266,
+        "num": 231266,
+        "word": "原来假期最好的休息不是睡觉",
+        "onboard_time": 1743775763,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428324,
+        "num": 227403,
+        "word": "特朗普说永远不会改变政策",
+        "onboard_time": 1743781941,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157846,
+        "num": 223957,
+        "word": "王珞丹 体面人",
+        "onboard_time": 1743763223,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222865,
+        "num": 222865,
+        "word": "中方反制措施来了",
+        "onboard_time": 1743764421,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62238,
+        "num": 197560,
+        "word": "春节后首个小长假点燃春游热潮",
+        "onboard_time": 1743773303,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106453,
+        "num": 184159,
+        "word": "郑钦文0比2亚历山德洛娃",
+        "onboard_time": 1743805575,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286516,
+        "num": 184082,
+        "word": "在缅华人视频通话时目睹妻儿被掩埋",
+        "onboard_time": 1743800354,
+        "rank": 10,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 182042,
+        "num": 182042,
+        "word": "中方在世贸组织起诉美对等关税措施",
+        "onboard_time": 1743762862,
+        "rank": 11,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 126222,
+        "num": 126222,
+        "word": "谢娜齐思钧补刀",
+        "onboard_time": 1743803833,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110902,
+        "num": 110902,
+        "word": "欧盟称已准备好回应美方加税",
+        "onboard_time": 1743799873,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107969,
+        "num": 107969,
+        "word": "美媒曝白宫至少拉了20个群聊机密",
+        "onboard_time": 1743775042,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104860,
+        "num": 104860,
+        "word": "江西4名男子盗窃1.6元被刑拘",
+        "onboard_time": 1743775463,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92151,
+        "num": 92151,
+        "word": "丁禹兮 晋江式演技",
+        "onboard_time": 1743771143,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88153,
+        "num": 88153,
+        "word": "美股三大股指收盘暴跌",
+        "onboard_time": 1743809597,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84851,
+        "num": 84851,
+        "word": "金子涵做网红的时候",
+        "onboard_time": 1743809178,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81982,
+        "num": 81982,
+        "word": "黄明昊 Justin",
+        "onboard_time": 1743768682,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325515,
+        "num": 80998,
+        "word": "甲亢哥评价中国行城市体验排名",
+        "onboard_time": 1743776602,
+        "rank": 20,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 155789,
+        "num": 80643,
+        "word": "和出轨老公坚持丧偶式婚姻",
+        "onboard_time": 1743758242,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78042,
+        "num": 78042,
+        "word": "李晟感谢49位朋友的支持",
+        "onboard_time": 1743775463,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63252,
+        "num": 63252,
+        "word": "房琪鼓励张含韵的那句话",
+        "onboard_time": 1743765982,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59864,
+        "num": 59864,
+        "word": "美股七姐妹大跌",
+        "onboard_time": 1743788656,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 59463,
+        "num": 59463,
+        "word": "被妻子供上博士后的中年男教师",
+        "onboard_time": 1743768682,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56935,
+        "num": 56935,
+        "word": "鞠婧祎躺在陈都灵怀里",
+        "onboard_time": 1743771442,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56024,
+        "num": 56024,
+        "word": "甲亢哥香港行最好的22分钟",
+        "onboard_time": 1743774203,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 55969,
+        "num": 55969,
+        "word": "VaVa 灰原哀",
+        "onboard_time": 1743768863,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53735,
+        "num": 53735,
+        "word": "杜邦被立案调查",
+        "onboard_time": 1743768922,
+        "rank": 29,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 60880,
+        "num": 52346,
+        "word": "广东湛江农村百万中式婚礼酒席",
+        "onboard_time": 1743803775,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50034,
+        "num": 50034,
+        "word": "向阳花票房",
+        "onboard_time": 1743763461,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49843,
+        "num": 49843,
+        "word": "小伙患抑郁暴食2年长近百斤",
+        "onboard_time": 1743763461,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49685,
+        "num": 49685,
+        "word": "三个动作疏肝理气",
+        "onboard_time": 1743781880,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48433,
+        "num": 48433,
+        "word": "对美加征关税采取反制措施",
+        "onboard_time": 1743762862,
+        "rank": 34,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 46903,
+        "num": 46903,
+        "word": "金子涵 乐华",
+        "onboard_time": 1743764542,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44467,
+        "num": 44467,
+        "word": "王楚钦幽默调侃徐瑛彬",
+        "onboard_time": 1743783140,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44392,
+        "num": 44392,
+        "word": "唐嫣古代四方步",
+        "onboard_time": 1743787036,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44385,
+        "num": 44385,
+        "word": "阿条姐登顶世界第一",
+        "onboard_time": 1743761541,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43273,
+        "num": 43273,
+        "word": "樊振东十年铁血一单",
+        "onboard_time": 1743769702,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43234,
+        "num": 43234,
+        "word": "SM新男团 撞名",
+        "onboard_time": 1743768442,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42974,
+        "num": 42974,
+        "word": "加拿大就美国关税向WTO申诉",
+        "onboard_time": 1743782420,
+        "rank": 41,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 42846,
+        "num": 42846,
+        "word": "重庆知名地产大佬被立案调查",
+        "onboard_time": 1743774502,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42308,
+        "num": 42308,
+        "word": "Speed甲亢哥安利国产动画超能立方",
+        "onboard_time": 1743804494,
+        "rank": 43,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 38919,
+        "num": 42306,
+        "word": "刀小刀经纪公司声明",
+        "onboard_time": 1743777863,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 37118,
+        "num": 42296,
+        "word": "中国舞协主席冯双白被查",
+        "onboard_time": 1743779423,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34976,
+        "num": 42290,
+        "word": "赵丽颖演技",
+        "onboard_time": 1743763941,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34780,
+        "num": 42284,
+        "word": "杜邦",
+        "onboard_time": 1743770722,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33790,
+        "num": 42276,
+        "word": "赵露思 音乐节",
+        "onboard_time": 1743809718,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31740,
+        "num": 42266,
+        "word": "阿Sa井柏然宋仲基黄轩合照",
+        "onboard_time": 1743776422,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
