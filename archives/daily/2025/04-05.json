@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743837697768,
+  "endTime": 1743838628802,
   "band_list": [
     {
       "raw_hot": 2476139,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1370823,
-      "num": 1370823,
+      "raw_hot": 1371095,
+      "num": 1371095,
       "word": "房琪曾说明出圈金句为引用",
       "onboard_time": 1743835581,
       "rank": 0,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458313,
+      "num": 328084,
+      "word": "甲亢哥深圳直播",
+      "onboard_time": 1743835641,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 451609,
       "num": 852535,
       "word": "原来假期最好的休息不是睡觉",
@@ -419,12 +427,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 328084,
-      "num": 328084,
-      "word": "甲亢哥深圳直播",
-      "onboard_time": 1743835641,
-      "rank": 16,
-      "category": "网红"
+      "raw_hot": 320855,
+      "num": 281362,
+      "word": "BLACKPINK nword",
+      "onboard_time": 1743836661,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 310381,
@@ -545,14 +553,6 @@
       "onboard_time": 1743771442,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228209,
-      "num": 228209,
-      "word": "BLACKPINK nword",
-      "onboard_time": 1743836661,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 226801,
@@ -716,10 +716,18 @@
     },
     {
       "raw_hot": 183866,
-      "num": 153335,
+      "num": 161332,
       "word": "两个恋爱脑谈恋爱就不算恋爱脑",
       "onboard_time": 1743836601,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182671,
+      "num": 171559,
+      "word": "张凌赫田曦薇孔雪儿同框路透",
+      "onboard_time": 1743837982,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -811,6 +819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175312,
+      "num": 350437,
+      "word": "回顾孙颖莎奥运正手一击制胜",
+      "onboard_time": 1743835101,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173851,
       "num": 173851,
       "word": "黄景瑜风驰赛车手上班",
@@ -841,6 +857,14 @@
       "onboard_time": 1743813921,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 170248,
+      "num": 170248,
+      "word": "黄朔唱哭了",
+      "onboard_time": 1743837920,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 167938,
@@ -947,6 +971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154262,
+      "num": 154262,
+      "word": "王安宇吻技going我",
+      "onboard_time": 1743838100,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152309,
       "num": 152309,
       "word": "航海王复播",
@@ -1043,6 +1075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 137659,
+      "num": 137659,
+      "word": "奈夫",
+      "onboard_time": 1743837439,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 136678,
       "num": 136678,
       "word": "白鹿双马尾贝雷帽",
@@ -1075,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133509,
+      "num": 133509,
+      "word": "宋妍霏组舞娘拿到superA",
+      "onboard_time": 1743836121,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133419,
       "num": 133419,
       "word": "原来车身越硬不等于越安全",
@@ -1091,19 +1139,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132421,
+      "num": 132421,
+      "word": "邓佳鑫大屏",
+      "onboard_time": 1743837620,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132181,
       "num": 132181,
       "word": "鹈鹕vs湖人",
       "onboard_time": 1743828861,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 131884,
-      "num": 350437,
-      "word": "回顾孙颖莎奥运正手一击制胜",
-      "onboard_time": 1743835101,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -1219,14 +1267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122883,
-      "num": 122883,
-      "word": "宋妍霏组舞娘拿到superA",
-      "onboard_time": 1743836121,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120757,
       "num": 120757,
       "word": "英国王查尔斯用胡萝卜演奏儿歌",
@@ -1313,6 +1353,22 @@
       "onboard_time": 1743833121,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116002,
+      "num": 116002,
+      "word": "韩庚 吵架的时候不能拥抱",
+      "onboard_time": 1743838461,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115220,
+      "num": 115220,
+      "word": "穆祉丞舞台路透",
+      "onboard_time": 1743837561,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 113290,
@@ -1427,14 +1483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 104155,
-      "num": 104155,
-      "word": "邓佳鑫大屏",
-      "onboard_time": 1743837620,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103960,
       "num": 103960,
       "word": "卡琳娜实力",
@@ -1443,16 +1491,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101233,
-      "num": 101233,
-      "word": "穆祉丞舞台路透",
-      "onboard_time": 1743837561,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 99819,
-      "num": 99819,
+      "num": 170198,
       "word": "中柬云壤港联合保障和训练中心正式运行",
       "onboard_time": 1743834262,
       "rank": 48,
@@ -1465,14 +1505,6 @@
       "onboard_time": 1743816800,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98151,
-      "num": 98151,
-      "word": "奈夫",
-      "onboard_time": 1743837439,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 97853,
@@ -1891,6 +1923,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 38248,
+      "num": 170199,
+      "word": "湖人三核驱动",
+      "onboard_time": 1743832521,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36009,
       "num": 34648,
       "word": "棋士",
@@ -1960,6 +2000,14 @@
       "word": "尹锡悦失去总统退休金等待遇",
       "onboard_time": 1743808337,
       "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23352,
+      "num": 122979,
+      "word": "特朗普展示价值500万移民金卡",
+      "onboard_time": 1743838341,
+      "rank": 39,
       "category": "国际时政"
     },
     {

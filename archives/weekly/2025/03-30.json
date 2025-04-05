@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743837697768,
+  "endTime": 1743838628802,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -691,8 +691,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1370823,
-      "num": 1370823,
+      "raw_hot": 1371095,
+      "num": 1371095,
       "word": "房琪曾说明出圈金句为引用",
       "onboard_time": 1743835581,
       "rank": 0,
@@ -3643,6 +3643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458313,
+      "num": 328084,
+      "word": "甲亢哥深圳直播",
+      "onboard_time": 1743835641,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 457647,
       "num": 457647,
       "word": "缅甸反政府武装宣布停火两周",
@@ -5187,14 +5195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 328084,
-      "num": 328084,
-      "word": "甲亢哥深圳直播",
-      "onboard_time": 1743835641,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 327288,
       "num": 327288,
       "word": "倪妮瑞士被偶遇",
@@ -5313,6 +5313,14 @@
       "onboard_time": 1743431064,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320855,
+      "num": 281362,
+      "word": "BLACKPINK nword",
+      "onboard_time": 1743836661,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 320820,
@@ -7177,14 +7185,6 @@
       "onboard_time": 1743586703,
       "rank": 37,
       "category": "民生新闻,母婴育儿"
-    },
-    {
-      "raw_hot": 228209,
-      "num": 228209,
-      "word": "BLACKPINK nword",
-      "onboard_time": 1743836661,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 228182,
@@ -9628,7 +9628,7 @@
     },
     {
       "raw_hot": 183866,
-      "num": 153335,
+      "num": 161332,
       "word": "两个恋爱脑谈恋爱就不算恋爱脑",
       "onboard_time": 1743836601,
       "rank": 26,
@@ -9721,6 +9721,14 @@
       "onboard_time": 1743590601,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182671,
+      "num": 171559,
+      "word": "张凌赫田曦薇孔雪儿同框路透",
+      "onboard_time": 1743837982,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 182661,
@@ -10211,6 +10219,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 175312,
+      "num": 350437,
+      "word": "回顾孙颖莎奥运正手一击制胜",
+      "onboard_time": 1743835101,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175275,
       "num": 175275,
       "word": "王者策划愚人节爆料",
@@ -10561,6 +10577,14 @@
       "onboard_time": 1743376157,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170248,
+      "num": 170248,
+      "word": "黄朔唱哭了",
+      "onboard_time": 1743837920,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 170128,
@@ -11729,6 +11753,14 @@
       "onboard_time": 1743681862,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154262,
+      "num": 154262,
+      "word": "王安宇吻技going我",
+      "onboard_time": 1743838100,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 154111,
@@ -13315,6 +13347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137659,
+      "num": 137659,
+      "word": "奈夫",
+      "onboard_time": 1743837439,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 137597,
       "num": 265124,
       "word": "王宝强棋士信息量好大",
@@ -13795,6 +13835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133509,
+      "num": 133509,
+      "word": "宋妍霏组舞娘拿到superA",
+      "onboard_time": 1743836121,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133433,
       "num": 133433,
       "word": "甜馨说不当女团",
@@ -13883,6 +13931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132421,
+      "num": 132421,
+      "word": "邓佳鑫大屏",
+      "onboard_time": 1743837620,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132403,
       "num": 132403,
       "word": "甲亢哥在香港街头不停飙重庆话",
@@ -13919,14 +13975,6 @@
       "num": 189188,
       "word": "樊振东用乒乓球拍投篮7中4",
       "onboard_time": 1743511462,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 131884,
-      "num": 350437,
-      "word": "回顾孙颖莎奥运正手一击制胜",
-      "onboard_time": 1743835101,
       "rank": 44,
       "category": "体育"
     },
@@ -14723,14 +14771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122883,
-      "num": 122883,
-      "word": "宋妍霏组舞娘拿到superA",
-      "onboard_time": 1743836121,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122755,
       "num": 145538,
       "word": "黄霄雲方回应翻唱争议",
@@ -15411,6 +15451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116002,
+      "num": 116002,
+      "word": "韩庚 吵架的时候不能拥抱",
+      "onboard_time": 1743838461,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115823,
       "num": 115823,
       "word": "罗晋原声台词含金量",
@@ -15457,6 +15505,14 @@
       "onboard_time": 1743651622,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115220,
+      "num": 115220,
+      "word": "穆祉丞舞台路透",
+      "onboard_time": 1743837561,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 115210,
@@ -16355,14 +16411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104155,
-      "num": 104155,
-      "word": "邓佳鑫大屏",
-      "onboard_time": 1743837620,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104031,
       "num": 186750,
       "word": "刘学义白风衣",
@@ -16555,14 +16603,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 101233,
-      "num": 101233,
-      "word": "穆祉丞舞台路透",
-      "onboard_time": 1743837561,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 101169,
       "num": 151362,
       "word": "詹姆斯42000分",
@@ -16652,7 +16692,7 @@
     },
     {
       "raw_hot": 99819,
-      "num": 99819,
+      "num": 170198,
       "word": "中柬云壤港联合保障和训练中心正式运行",
       "onboard_time": 1743834262,
       "rank": 48,
@@ -16785,14 +16825,6 @@
       "onboard_time": 1743764182,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98151,
-      "num": 98151,
-      "word": "奈夫",
-      "onboard_time": 1743837439,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 98081,
@@ -19747,6 +19779,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 38248,
+      "num": 170199,
+      "word": "湖人三核驱动",
+      "onboard_time": 1743832521,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38186,
       "num": 263791,
       "word": "情久春季赛淘汰",
@@ -20689,6 +20729,14 @@
       "onboard_time": 1743589883,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23352,
+      "num": 122979,
+      "word": "特朗普展示价值500万移民金卡",
+      "onboard_time": 1743838341,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23213,
