@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743891760001,
+  "endTime": 1743892767401,
   "band_list": [
     {
       "raw_hot": 1765989,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 329869,
-      "num": 388147,
+      "num": 481866,
       "word": "美国亿万富翁提醒民众囤货",
       "onboard_time": 1743867021,
       "rank": 5,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42558,
+      "num": 47892,
+      "word": "女生被前男友杀害5年后仍无法安葬",
+      "onboard_time": 1743848301,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41873,
       "num": 41873,
       "word": "江苏发出一张信用修复证明书",
@@ -483,10 +491,10 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37703,
-      "num": 47892,
-      "word": "女生被前男友杀害5年后仍无法安葬",
-      "onboard_time": 1743848301,
+      "raw_hot": 38421,
+      "num": 38421,
+      "word": "夫妻摆摊7年还30多万债务修复信用",
+      "onboard_time": 1743861383,
       "rank": 46,
       "category": "民生新闻"
     },
@@ -505,14 +513,6 @@
       "onboard_time": 1743861503,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30673,
-      "num": 30673,
-      "word": "夫妻摆摊7年还30多万债务修复信用",
-      "onboard_time": 1743861383,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27966,
@@ -539,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25434,
+      "num": 27346,
+      "word": "金饰价格2天大跌32元",
+      "onboard_time": 1743882915,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 25096,
       "num": 29368,
       "word": "哪吒敖丙hi6打卡vlog",
       "onboard_time": 1743877335,
       "rank": 47,
       "category": "综艺,电影"
+    },
+    {
+      "raw_hot": 25095,
+      "num": 27345,
+      "word": "董宇辉 人是被成就感所驱使的动物",
+      "onboard_time": 1743891194,
+      "rank": 46,
+      "category": "互联网,情感"
     },
     {
       "raw_hot": 24671,
@@ -563,48 +579,32 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21056,
-      "num": 21056,
-      "word": "金饰价格2天大跌32元",
-      "onboard_time": 1743882915,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 15970,
-      "num": 19720,
+      "raw_hot": 17206,
+      "num": 27332,
       "word": "娘口三三具像化",
       "onboard_time": 1743886754,
       "rank": 42,
       "category": "幽默"
     },
     {
-      "raw_hot": 14894,
-      "num": 19716,
-      "word": "董宇辉 人是被成就感所驱使的动物",
-      "onboard_time": 1743891194,
-      "rank": 46,
-      "category": "互联网,情感"
-    },
-    {
-      "raw_hot": 14343,
-      "num": 19713,
+      "raw_hot": 15416,
+      "num": 27331,
       "word": "这两天问勇路摆满了鲜花",
       "onboard_time": 1743883094,
       "rank": 31,
       "category": "正能量"
     },
     {
-      "raw_hot": 14084,
-      "num": 19711,
+      "raw_hot": 14268,
+      "num": 27330,
       "word": "PCL2025",
       "onboard_time": 1743877875,
       "rank": 45,
       "category": "电竞"
     },
     {
-      "raw_hot": 3153,
-      "num": 137189,
+      "raw_hot": 3987,
+      "num": 151606,
       "word": "清明上河图奇妙游",
       "onboard_time": 1743816920,
       "rank": 2,
