@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743817722351,
+  "endTime": 1743819031812,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -176,6 +176,14 @@
       "word": "快递员因同一人连收100个包裹报警了",
       "onboard_time": 1743478282,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2037775,
+      "num": 482194,
+      "word": "央视曝色情举牌盯上未成年",
+      "onboard_time": 1743816980,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -819,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1051556,
+      "num": 1168249,
+      "word": "吴宣仪情商",
+      "onboard_time": 1743812721,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1046063,
       "num": 776730,
       "word": "小米客服称SU7电池双供应商随机装",
@@ -833,14 +849,6 @@
       "onboard_time": 1743599783,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1030173,
-      "num": 1164827,
-      "word": "吴宣仪情商",
-      "onboard_time": 1743812721,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1020807,
@@ -932,7 +940,7 @@
     },
     {
       "raw_hot": 955201,
-      "num": 356718,
+      "num": 382770,
       "word": "赵露思 音乐节",
       "onboard_time": 1743809718,
       "rank": 48,
@@ -961,6 +969,14 @@
       "onboard_time": 1743596364,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 940881,
+      "num": 352881,
+      "word": "实习幼师抓伤6岁幼儿脸赔偿4万元",
+      "onboard_time": 1743816800,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 936931,
@@ -1328,14 +1344,6 @@
       "word": "华人大妈持菜刀与警方对峙被击毙",
       "onboard_time": 1743602544,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 737827,
-      "num": 317830,
-      "word": "实习幼师抓伤6岁幼儿脸赔偿4万元",
-      "onboard_time": 1743816800,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -3011,6 +3019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 360493,
+      "num": 360493,
+      "word": "心疼卡琳娜",
+      "onboard_time": 1743816140,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359334,
       "num": 359334,
       "word": "蓝莓包",
@@ -3081,14 +3097,6 @@
       "onboard_time": 1743653421,
       "rank": 9,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 355678,
-      "num": 316811,
-      "word": "心疼卡琳娜",
-      "onboard_time": 1743816140,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 354641,
@@ -3377,6 +3385,14 @@
       "onboard_time": 1743689242,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326597,
+      "num": 326597,
+      "word": "卡琳娜丢蜥蜴误伤祝绪丹",
+      "onboard_time": 1743813500,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 326541,
@@ -4115,14 +4131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268240,
-      "num": 323230,
-      "word": "央视曝色情举牌盯上未成年",
-      "onboard_time": 1743816980,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 267809,
       "num": 267809,
       "word": "姜甲儒称人贩子必须死刑",
@@ -4587,14 +4595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235477,
-      "num": 212689,
-      "word": "卡琳娜丢蜥蜴误伤祝绪丹",
-      "onboard_time": 1743813500,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235036,
       "num": 383759,
       "word": "柯淳说短剧是我的一把刀",
@@ -4811,12 +4811,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224279,
+      "num": 153517,
+      "word": "蒙古国发现汉朝士兵遗骸",
+      "onboard_time": 1743816860,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 223014,
       "num": 223014,
       "word": "减肥建议不要长期跳绳",
       "onboard_time": 1743602904,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 222975,
+      "num": 200008,
+      "word": "姆巴佩停赛1场缓刑1年",
+      "onboard_time": 1743811940,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 222866,
@@ -5545,14 +5561,6 @@
       "onboard_time": 1743515605,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200008,
-      "num": 200008,
-      "word": "姆巴佩停赛1场缓刑1年",
-      "onboard_time": 1743811940,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 199977,
@@ -6683,6 +6691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176810,
+      "num": 176810,
+      "word": "姚晨 没喝中药啥意思",
+      "onboard_time": 1743817460,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176710,
       "num": 193451,
       "word": "站姐团建发的85花",
@@ -7763,6 +7779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152283,
+      "num": 152283,
+      "word": "翟潇闻手机壁纸是红房子",
+      "onboard_time": 1743813860,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151910,
       "num": 191632,
       "word": "苦尽柑来遇见你两代人画报",
@@ -8483,6 +8507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140823,
+      "num": 140823,
+      "word": "巴布亚新几内亚7级地震",
+      "onboard_time": 1743818781,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 140712,
       "num": 143389,
       "word": "张子墨音综弟推人",
@@ -9019,6 +9051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132957,
+      "num": 215138,
+      "word": "这3种网红减肥法卫健委不推荐",
+      "onboard_time": 1743817160,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132852,
       "num": 132852,
       "word": "一线城市约50%人口在租房",
@@ -9081,14 +9121,6 @@
       "onboard_time": 1743604645,
       "rank": 47,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 131116,
-      "num": 131116,
-      "word": "翟潇闻手机壁纸是红房子",
-      "onboard_time": 1743813860,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 131110,
@@ -9433,6 +9465,14 @@
       "onboard_time": 1743488603,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125608,
+      "num": 125608,
+      "word": "金饰价格一夜大跌22元",
+      "onboard_time": 1743818781,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 125551,
@@ -10019,6 +10059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114560,
+      "num": 114560,
+      "word": "把女朋友废话剪掉才发现她这么爱我",
+      "onboard_time": 1743818781,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114384,
       "num": 114384,
       "word": "什么是海峡雷霆",
@@ -10276,7 +10324,7 @@
     },
     {
       "raw_hot": 110278,
-      "num": 110278,
+      "num": 352947,
       "word": "清明上河图奇妙游",
       "onboard_time": 1743816920,
       "rank": 37,
@@ -10401,14 +10449,6 @@
       "onboard_time": 1743558982,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106463,
-      "num": 106463,
-      "word": "姚晨 没喝中药啥意思",
-      "onboard_time": 1743817460,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 106453,
@@ -10667,6 +10707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99725,
+      "num": 99725,
+      "word": "跳水世界杯中国队混团夺金",
+      "onboard_time": 1743818060,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99572,
       "num": 99572,
       "word": "卓沅不欢迎脸颊肉",
@@ -10777,6 +10825,14 @@
       "onboard_time": 1743750141,
       "rank": 48,
       "category": "健康医疗,艺人"
+    },
+    {
+      "raw_hot": 97853,
+      "num": 97853,
+      "word": "AI修复杨靖宇生前影像",
+      "onboard_time": 1743813200,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97709,
@@ -11091,14 +11147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88519,
-      "num": 88519,
-      "word": "AI修复杨靖宇生前影像",
-      "onboard_time": 1743813200,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88502,
       "num": 104758,
       "word": "NBA",
@@ -11347,6 +11395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81813,
+      "num": 81813,
+      "word": "吉克隽逸机场生吃彩椒",
+      "onboard_time": 1743818840,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81657,
       "num": 92995,
       "word": "为什么每年都会怀念张国荣",
@@ -11465,6 +11521,14 @@
       "onboard_time": 1743529996,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75399,
+      "num": 75399,
+      "word": "特斯拉市值一夜蒸发超6500亿元",
+      "onboard_time": 1743817939,
+      "rank": 49,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 75250,
@@ -11681,14 +11745,6 @@
       "onboard_time": 1743498984,
       "rank": 13,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 68695,
-      "num": 105742,
-      "word": "蒙古国发现汉朝士兵遗骸",
-      "onboard_time": 1743816860,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 67927,
@@ -11971,6 +12027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59962,
+      "num": 176916,
+      "word": "王楚钦爆笑调侃队友",
+      "onboard_time": 1743818060,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59718,
       "num": 211534,
       "word": "美股连续两日开盘暴跌",
@@ -12049,14 +12113,6 @@
       "onboard_time": 1743613338,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 58489,
-      "num": 215138,
-      "word": "这3种网红减肥法卫健委不推荐",
-      "onboard_time": 1743817160,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 57892,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1743819031812,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1051556,
+        "num": 1168249,
+        "word": "吴宣仪情商",
+        "onboard_time": 1743812721,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 824867,
+        "num": 824867,
+        "word": "金价连续跳水",
+        "onboard_time": 1743809178,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28193,
+        "num": 549276,
+        "word": "清明念英烈",
+        "onboard_time": 1743671962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2037775,
+        "num": 482194,
+        "word": "央视曝色情举牌盯上未成年",
+        "onboard_time": 1743816980,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1338141,
+        "num": 462239,
+        "word": "金子涵 退圈",
+        "onboard_time": 1743810317,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386850,
+        "num": 386850,
+        "word": "红山动物园都不让大家白来嗷",
+        "onboard_time": 1743812059,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 924426,
+        "num": 382770,
+        "word": "赵露思 音乐节",
+        "onboard_time": 1743809718,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 360493,
+        "num": 360493,
+        "word": "心疼卡琳娜",
+        "onboard_time": 1743816140,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115624,
+        "num": 355703,
+        "word": "春节后首个小长假点燃春游热潮",
+        "onboard_time": 1743773303,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97689,
+        "num": 352947,
+        "word": "清明上河图奇妙游",
+        "onboard_time": 1743816920,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 940881,
+        "num": 352881,
+        "word": "实习幼师抓伤6岁幼儿脸赔偿4万元",
+        "onboard_time": 1743816800,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352730,
+        "num": 352730,
+        "word": "中方反制措施来了",
+        "onboard_time": 1743764421,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 326597,
+        "num": 326597,
+        "word": "卡琳娜丢蜥蜴误伤祝绪丹",
+        "onboard_time": 1743813500,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323908,
+        "num": 323908,
+        "word": "中方在世贸组织起诉美对等关税措施",
+        "onboard_time": 1743762862,
+        "rank": 13,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 293918,
+        "num": 293918,
+        "word": "李晟被叶童选中的反应",
+        "onboard_time": 1743812659,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253526,
+        "num": 253526,
+        "word": "感觉有一亿人在深圳堵山",
+        "onboard_time": 1743810078,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224266,
+        "num": 224266,
+        "word": "特朗普说马斯克或在几个月内离职",
+        "onboard_time": 1743812600,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220711,
+        "num": 220711,
+        "word": "原来假期最好的休息不是睡觉",
+        "onboard_time": 1743775763,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217536,
+        "num": 217536,
+        "word": "美股纳指进入熊市",
+        "onboard_time": 1743809898,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210530,
+        "num": 210530,
+        "word": "美股三大股指收盘暴跌",
+        "onboard_time": 1743809597,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 251199,
+        "num": 205828,
+        "word": "甲亢哥评价中国行城市体验排名",
+        "onboard_time": 1743776602,
+        "rank": 20,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 222975,
+        "num": 197177,
+        "word": "姆巴佩停赛1场缓刑1年",
+        "onboard_time": 1743811940,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186873,
+        "num": 186873,
+        "word": "SM失去了四名最佳主唱",
+        "onboard_time": 1743810138,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184226,
+        "num": 184226,
+        "word": "曾志伟回应艺人收入大减",
+        "onboard_time": 1743810138,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59962,
+        "num": 176916,
+        "word": "王楚钦爆笑调侃队友",
+        "onboard_time": 1743818060,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176810,
+        "num": 176810,
+        "word": "姚晨 没喝中药啥意思",
+        "onboard_time": 1743817460,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155563,
+        "num": 155563,
+        "word": "舍不得睡觉原来是情绪没有被满足",
+        "onboard_time": 1743812960,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154903,
+        "num": 154903,
+        "word": "不体面但0成本看牙的方法",
+        "onboard_time": 1743811038,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154388,
+        "num": 154388,
+        "word": "美股2天暴跌47万亿",
+        "onboard_time": 1743813921,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153702,
+        "num": 153702,
+        "word": "狗狗帮主人清理裤子上的苍耳",
+        "onboard_time": 1743815600,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224279,
+        "num": 153517,
+        "word": "蒙古国发现汉朝士兵遗骸",
+        "onboard_time": 1743816860,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152283,
+        "num": 152283,
+        "word": "翟潇闻手机壁纸是红房子",
+        "onboard_time": 1743813860,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140823,
+        "num": 140823,
+        "word": "巴布亚新几内亚7级地震",
+        "onboard_time": 1743818781,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132957,
+        "num": 132957,
+        "word": "这3种网红减肥法卫健委不推荐",
+        "onboard_time": 1743817160,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125608,
+        "num": 125608,
+        "word": "金饰价格一夜大跌22元",
+        "onboard_time": 1743818781,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119203,
+        "num": 119203,
+        "word": "对原产美国所有进口商品加征34%关税",
+        "onboard_time": 1743761781,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117374,
+        "num": 117374,
+        "word": "原来车身越硬不等于越安全",
+        "onboard_time": 1743817160,
+        "rank": 36,
+        "category": "汽车,科学科普"
+      },
+      {
+        "raw_hot": 117101,
+        "num": 117101,
+        "word": "清明档首日票房1.58亿",
+        "onboard_time": 1743811878,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114560,
+        "num": 114560,
+        "word": "把女朋友废话剪掉才发现她这么爱我",
+        "onboard_time": 1743818781,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116484,
+        "num": 110559,
+        "word": "清明假期第2天",
+        "onboard_time": 1743812059,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105376,
+        "num": 105376,
+        "word": "赵露思演出收益全部捐出去",
+        "onboard_time": 1743816560,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99725,
+        "num": 99725,
+        "word": "跳水世界杯中国队混团夺金",
+        "onboard_time": 1743818060,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97853,
+        "num": 97853,
+        "word": "AI修复杨靖宇生前影像",
+        "onboard_time": 1743813200,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93473,
+        "num": 93473,
+        "word": "故宫将解锁乾隆花园新地图",
+        "onboard_time": 1743816800,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93017,
+        "num": 93017,
+        "word": "河南人的早餐只有两类",
+        "onboard_time": 1743812059,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84034,
+        "num": 84034,
+        "word": "鞠婧祎躺在陈都灵怀里",
+        "onboard_time": 1743771442,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81813,
+        "num": 81813,
+        "word": "吉克隽逸机场生吃彩椒",
+        "onboard_time": 1743818840,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81483,
+        "num": 81483,
+        "word": "18岁禁毒战士与毒贩搏斗坠入瑞丽江",
+        "onboard_time": 1743811399,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78827,
+        "num": 78827,
+        "word": "金子涵做网红的时候",
+        "onboard_time": 1743809178,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75399,
+        "num": 75399,
+        "word": "特斯拉市值一夜蒸发超6500亿元",
+        "onboard_time": 1743817939,
+        "rank": 49,
+        "category": "财经,汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

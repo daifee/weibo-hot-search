@@ -1,7 +1,15 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743817722351,
+  "endTime": 1743819031812,
   "band_list": [
+    {
+      "raw_hot": 2037775,
+      "num": 482194,
+      "word": "央视曝色情举牌盯上未成年",
+      "onboard_time": 1743816980,
+      "rank": 11,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1450859,
       "num": 471189,
@@ -27,8 +35,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1030173,
-      "num": 1164827,
+      "raw_hot": 1051556,
+      "num": 1168249,
       "word": "吴宣仪情商",
       "onboard_time": 1743812721,
       "rank": 0,
@@ -44,15 +52,15 @@
     },
     {
       "raw_hot": 955201,
-      "num": 356718,
+      "num": 382770,
       "word": "赵露思 音乐节",
       "onboard_time": 1743809718,
       "rank": 48,
       "category": "演出"
     },
     {
-      "raw_hot": 737827,
-      "num": 317830,
+      "raw_hot": 940881,
+      "num": 352881,
       "word": "实习幼师抓伤6岁幼儿脸赔偿4万元",
       "onboard_time": 1743816800,
       "rank": 12,
@@ -115,20 +123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360493,
+      "num": 360493,
+      "word": "心疼卡琳娜",
+      "onboard_time": 1743816140,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359377,
       "num": 359377,
       "word": "中方反制措施来了",
       "onboard_time": 1743764421,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 355678,
-      "num": 316811,
-      "word": "心疼卡琳娜",
-      "onboard_time": 1743816140,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 350999,
@@ -145,6 +153,14 @@
       "onboard_time": 1743810078,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326597,
+      "num": 326597,
+      "word": "卡琳娜丢蜥蜴误伤祝绪丹",
+      "onboard_time": 1743813500,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 310381,
@@ -187,14 +203,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 268240,
-      "num": 323230,
-      "word": "央视曝色情举牌盯上未成年",
-      "onboard_time": 1743816980,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258563,
       "num": 258563,
       "word": "丁禹兮 晋江式演技",
@@ -227,14 +235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235477,
-      "num": 212689,
-      "word": "卡琳娜丢蜥蜴误伤祝绪丹",
-      "onboard_time": 1743813500,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226801,
       "num": 226801,
       "word": "美股纳指进入熊市",
@@ -243,12 +243,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 224279,
+      "num": 153517,
+      "word": "蒙古国发现汉朝士兵遗骸",
+      "onboard_time": 1743816860,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 223640,
       "num": 223640,
       "word": "SM新男团 撞名",
       "onboard_time": 1743768442,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222975,
+      "num": 200008,
+      "word": "姆巴佩停赛1场缓刑1年",
+      "onboard_time": 1743811940,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 220796,
@@ -275,14 +291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 200008,
-      "num": 200008,
-      "word": "姆巴佩停赛1场缓刑1年",
-      "onboard_time": 1743811940,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198651,
       "num": 198651,
       "word": "加拿大就美国关税向WTO申诉",
@@ -305,6 +313,14 @@
       "onboard_time": 1743812960,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176810,
+      "num": 176810,
+      "word": "姚晨 没喝中药啥意思",
+      "onboard_time": 1743817460,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 176195,
@@ -363,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152283,
+      "num": 152283,
+      "word": "翟潇闻手机壁纸是红房子",
+      "onboard_time": 1743813860,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147010,
       "num": 147010,
       "word": "清明档首日票房1.58亿",
@@ -377,6 +401,14 @@
       "onboard_time": 1743733702,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 140823,
+      "num": 140823,
+      "word": "巴布亚新几内亚7级地震",
+      "onboard_time": 1743818781,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140522,
@@ -411,12 +443,12 @@
       "category": "汽车,科学科普"
     },
     {
-      "raw_hot": 131116,
-      "num": 131116,
-      "word": "翟潇闻手机壁纸是红房子",
-      "onboard_time": 1743813860,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 132957,
+      "num": 215138,
+      "word": "这3种网红减肥法卫健委不推荐",
+      "onboard_time": 1743817160,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130727,
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 129575,
-      "num": 352107,
+      "num": 355703,
       "word": "春节后首个小长假点燃春游热潮",
       "onboard_time": 1743773303,
       "rank": 8,
@@ -449,6 +481,14 @@
       "onboard_time": 1743803833,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125608,
+      "num": 125608,
+      "word": "金饰价格一夜大跌22元",
+      "onboard_time": 1743818781,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 125113,
@@ -475,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114560,
+      "num": 114560,
+      "word": "把女朋友废话剪掉才发现她这么爱我",
+      "onboard_time": 1743818781,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112975,
       "num": 133951,
       "word": "王楚钦幽默调侃徐瑛彬",
@@ -492,7 +540,7 @@
     },
     {
       "raw_hot": 110278,
-      "num": 110278,
+      "num": 352947,
       "word": "清明上河图奇妙游",
       "onboard_time": 1743816920,
       "rank": 37,
@@ -513,14 +561,6 @@
       "onboard_time": 1743761541,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106463,
-      "num": 106463,
-      "word": "姚晨 没喝中药啥意思",
-      "onboard_time": 1743817460,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 106453,
@@ -547,11 +587,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99725,
+      "num": 99725,
+      "word": "跳水世界杯中国队混团夺金",
+      "onboard_time": 1743818060,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99099,
       "num": 99099,
       "word": "故宫将解锁乾隆花园新地图",
       "onboard_time": 1743816800,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97853,
+      "num": 97853,
+      "word": "AI修复杨靖宇生前影像",
+      "onboard_time": 1743813200,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -577,14 +633,6 @@
       "onboard_time": 1743781340,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 88519,
-      "num": 88519,
-      "word": "AI修复杨靖宇生前影像",
-      "onboard_time": 1743813200,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86346,
@@ -619,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81813,
+      "num": 81813,
+      "word": "吉克隽逸机场生吃彩椒",
+      "onboard_time": 1743818840,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80120,
       "num": 80120,
       "word": "蒋一侨挨着侯佩岑说本草纲目可以",
@@ -651,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75399,
+      "num": 75399,
+      "word": "特斯拉市值一夜蒸发超6500亿元",
+      "onboard_time": 1743817939,
+      "rank": 49,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 73889,
       "num": 73889,
       "word": "小伙患抑郁暴食2年长近百斤",
@@ -681,14 +745,6 @@
       "onboard_time": 1743770962,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68695,
-      "num": 105742,
-      "word": "蒙古国发现汉朝士兵遗骸",
-      "onboard_time": 1743816860,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 67927,
@@ -739,6 +795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59962,
+      "num": 176916,
+      "word": "王楚钦爆笑调侃队友",
+      "onboard_time": 1743818060,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59488,
       "num": 59488,
       "word": "六公主评王一博热烈",
@@ -769,14 +833,6 @@
       "onboard_time": 1743780680,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 58489,
-      "num": 215138,
-      "word": "这3种网红减肥法卫健委不推荐",
-      "onboard_time": 1743817160,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 56574,
@@ -867,8 +923,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27182,
-      "num": 478365,
+      "raw_hot": 28193,
+      "num": 549276,
       "word": "清明念英烈",
       "onboard_time": 1743671962,
       "rank": 2,
