@@ -1,0 +1,410 @@
+{
+  "runTime": 1743874719607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 441848,
+        "num": 441848,
+        "word": "刘奕畅拒演苍兰诀男二",
+        "onboard_time": 1743862343,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248626,
+        "num": 248626,
+        "word": "顾客失联外卖员回药店问是不是救命药",
+        "onboard_time": 1743867021,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23335,
+        "num": 244236,
+        "word": "AI修复抗战英雄的模样",
+        "onboard_time": 1743864084,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240560,
+        "num": 240560,
+        "word": "够了我心疼吴宣仪",
+        "onboard_time": 1743866422,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215242,
+        "num": 215242,
+        "word": "甲亢哥吓出最新表情包",
+        "onboard_time": 1743870439,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 200082,
+        "num": 200082,
+        "word": "减肥误食1份炸鸡怎么办",
+        "onboard_time": 1743868582,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 185413,
+        "num": 185413,
+        "word": "美国亿万富翁提醒民众囤货",
+        "onboard_time": 1743867021,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147551,
+        "num": 147551,
+        "word": "很舒服但很伤身的6个行为",
+        "onboard_time": 1743859102,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135909,
+        "num": 135909,
+        "word": "毛主席嫡孙毛新宇回韶山祭拜爷爷",
+        "onboard_time": 1743847641,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130019,
+        "num": 130019,
+        "word": "鸟鸟听说能骂志胜就来了",
+        "onboard_time": 1743873438,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345431,
+        "num": 129152,
+        "word": "杨超越回复vava道歉",
+        "onboard_time": 1743867562,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281897,
+        "num": 128974,
+        "word": "洪尧回应结婚争议",
+        "onboard_time": 1743870560,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143165,
+        "num": 128746,
+        "word": "南京地铁",
+        "onboard_time": 1743867443,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128185,
+        "num": 128185,
+        "word": "刘奕畅 我的女主",
+        "onboard_time": 1743866783,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125199,
+        "num": 125199,
+        "word": "美媒曝美财长受不了荒谬的对等关税",
+        "onboard_time": 1743853941,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120961,
+        "num": 120961,
+        "word": "华晨宇 我求求你看我一眼",
+        "onboard_time": 1743864623,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119993,
+        "num": 119993,
+        "word": "何济霆 赌博",
+        "onboard_time": 1743859043,
+        "rank": 16,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 93334,
+        "num": 93334,
+        "word": "6家商会发声明回应美加征关税",
+        "onboard_time": 1743820161,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93320,
+        "num": 93320,
+        "word": "美国超市物价暴涨30%",
+        "onboard_time": 1743862763,
+        "rank": 18,
+        "category": "财经,海外新闻"
+      },
+      {
+        "raw_hot": 83578,
+        "num": 83578,
+        "word": "钟丽丽曾因恋情试戏被刷",
+        "onboard_time": 1743862763,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153185,
+        "num": 83253,
+        "word": "导致视力下降的真正原因",
+        "onboard_time": 1743860481,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136750,
+        "num": 83106,
+        "word": "Jennie科切拉",
+        "onboard_time": 1743872718,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109295,
+        "num": 82820,
+        "word": "冯小刚忍痛删掉赵丽颖狠戏",
+        "onboard_time": 1743846500,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82296,
+        "num": 82296,
+        "word": "柯淳片酬",
+        "onboard_time": 1743862343,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78683,
+        "num": 78683,
+        "word": "欧盟称已准备好回应美方加税",
+        "onboard_time": 1743871639,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77692,
+        "num": 77692,
+        "word": "这些食物不适合二次加热",
+        "onboard_time": 1743869900,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74276,
+        "num": 74276,
+        "word": "张元英找镜头速度",
+        "onboard_time": 1743864984,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70846,
+        "num": 70846,
+        "word": "2025男子冰壶世锦赛",
+        "onboard_time": 1743873917,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67621,
+        "num": 67621,
+        "word": "甲亢哥水灵灵地被深圳交警警告了",
+        "onboard_time": 1743848121,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66397,
+        "num": 66397,
+        "word": "袁隆平墓前有一束特别的稻穗",
+        "onboard_time": 1743866302,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65715,
+        "num": 65715,
+        "word": "女生追星冲向车头被撞倒",
+        "onboard_time": 1743863004,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65626,
+        "num": 65626,
+        "word": "邓超gogogo出发喽",
+        "onboard_time": 1743864204,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64575,
+        "num": 64575,
+        "word": "卢伟冰回应雷军近况",
+        "onboard_time": 1743864623,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 58217,
+        "num": 58217,
+        "word": "房琪回复叶童",
+        "onboard_time": 1743850822,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57909,
+        "num": 57909,
+        "word": "敖瑞鹏说自己是白鹿的掌中宝",
+        "onboard_time": 1743873258,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57881,
+        "num": 57881,
+        "word": "杨和苏演唱会",
+        "onboard_time": 1743869002,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56530,
+        "num": 56530,
+        "word": "檀健次 广西老表标配",
+        "onboard_time": 1743860364,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54512,
+        "num": 54512,
+        "word": "伊能静否认与秦昊各过各的",
+        "onboard_time": 1743861324,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50757,
+        "num": 50757,
+        "word": "饿瘦和运动瘦差别",
+        "onboard_time": 1743846981,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 50065,
+        "num": 50065,
+        "word": "vava发博向杨超越道歉",
+        "onboard_time": 1743850100,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48019,
+        "num": 48019,
+        "word": "孙燕姿演唱会",
+        "onboard_time": 1743855622,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47934,
+        "num": 47934,
+        "word": "男子怒砸Manner咖啡柜台",
+        "onboard_time": 1743865284,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43301,
+        "num": 47933,
+        "word": "汪苏泷 怎么能这么萌",
+        "onboard_time": 1743868522,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42739,
+        "num": 47919,
+        "word": "陈奕迅到底在舞台上许了什么愿",
+        "onboard_time": 1743873078,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40729,
+        "num": 47914,
+        "word": "Hyunjun公开",
+        "onboard_time": 1743855982,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40308,
+        "num": 47909,
+        "word": "美国网友称领取食物队伍已爆满",
+        "onboard_time": 1743863662,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35128,
+        "num": 47892,
+        "word": "女生被前男友杀害5年后仍无法安葬",
+        "onboard_time": 1743848301,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34200,
+        "num": 47886,
+        "word": "大张伟直播",
+        "onboard_time": 1743861503,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33957,
+        "num": 47879,
+        "word": "洪尧回应撕掉吴谨言老公标签",
+        "onboard_time": 1743858983,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32921,
+        "num": 47872,
+        "word": "GAI沧海一声笑大合唱程度",
+        "onboard_time": 1743868701,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平总书记这些深情话语#"
+    }
+  }
+}

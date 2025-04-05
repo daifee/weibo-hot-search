@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743873565286,
+  "endTime": 1743874719607,
   "band_list": [
     {
       "raw_hot": 1765989,
@@ -107,6 +107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 281897,
+      "num": 166298,
+      "word": "洪尧回应结婚争议",
+      "onboard_time": 1743870560,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270886,
       "num": 236011,
       "word": "钟丽丽曾因恋情试戏被刷",
@@ -163,12 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216782,
-      "num": 166298,
-      "word": "洪尧回应结婚争议",
-      "onboard_time": 1743870560,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 215242,
+      "num": 234855,
+      "word": "甲亢哥吓出最新表情包",
+      "onboard_time": 1743870439,
+      "rank": 43,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 207722,
@@ -179,20 +187,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 176912,
-      "num": 176912,
+      "raw_hot": 200082,
+      "num": 200082,
       "word": "减肥误食1份炸鸡怎么办",
       "onboard_time": 1743868582,
       "rank": 26,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 174602,
-      "num": 234855,
-      "word": "甲亢哥吓出最新表情包",
-      "onboard_time": 1743870439,
-      "rank": 43,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 168579,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136750,
+      "num": 86714,
+      "word": "Jennie科切拉",
+      "onboard_time": 1743872718,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133065,
       "num": 133065,
       "word": "洪尧回应撕掉吴谨言老公标签",
@@ -241,6 +249,14 @@
       "onboard_time": 1743870860,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130019,
+      "num": 130019,
+      "word": "鸟鸟听说能骂志胜就来了",
+      "onboard_time": 1743873438,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 129416,
@@ -379,14 +395,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 95593,
-      "num": 95593,
-      "word": "鸟鸟听说能骂志胜就来了",
-      "onboard_time": 1743873438,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95504,
       "num": 95504,
       "word": "饿瘦和运动瘦差别",
@@ -401,14 +409,6 @@
       "onboard_time": 1743863662,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 86714,
-      "num": 86714,
-      "word": "Jennie科切拉",
-      "onboard_time": 1743872718,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 85794,
@@ -443,6 +443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70846,
+      "num": 70846,
+      "word": "2025男子冰壶世锦赛",
+      "onboard_time": 1743873917,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69197,
       "num": 69197,
       "word": "陈奕迅到底在舞台上许了什么愿",
@@ -459,8 +467,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57732,
-      "num": 57732,
+      "raw_hot": 57909,
+      "num": 57909,
       "word": "敖瑞鹏说自己是白鹿的掌中宝",
       "onboard_time": 1743873258,
       "rank": 40,
@@ -473,6 +481,22 @@
       "onboard_time": 1743864084,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35128,
+      "num": 47892,
+      "word": "女生被前男友杀害5年后仍无法安葬",
+      "onboard_time": 1743848301,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34200,
+      "num": 47886,
+      "word": "大张伟直播",
+      "onboard_time": 1743861503,
+      "rank": 47,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
