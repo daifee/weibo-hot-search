@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743888944060,
+  "endTime": 1743891760001,
   "band_list": [
     {
       "raw_hot": 1765989,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 329869,
-      "num": 329869,
+      "num": 388147,
       "word": "美国亿万富翁提醒民众囤货",
       "onboard_time": 1743867021,
       "rank": 5,
@@ -507,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30673,
+      "num": 30673,
+      "word": "夫妻摆摊7年还30多万债务修复信用",
+      "onboard_time": 1743861383,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27966,
       "num": 94749,
       "word": "抽查60款网红泡脚包仅2款合格",
@@ -555,40 +563,40 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22540,
-      "num": 22540,
-      "word": "夫妻摆摊7年还30多万债务修复信用",
-      "onboard_time": 1743861383,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16055,
-      "num": 16832,
+      "raw_hot": 21056,
+      "num": 21056,
       "word": "金饰价格2天大跌32元",
       "onboard_time": 1743882915,
       "rank": 46,
       "category": "财经"
     },
     {
-      "raw_hot": 13918,
-      "num": 19575,
-      "word": "这两天问勇路摆满了鲜花",
-      "onboard_time": 1743883094,
-      "rank": 31,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 13636,
-      "num": 14767,
+      "raw_hot": 15970,
+      "num": 19720,
       "word": "娘口三三具像化",
       "onboard_time": 1743886754,
       "rank": 42,
       "category": "幽默"
     },
     {
-      "raw_hot": 12881,
-      "num": 14766,
+      "raw_hot": 14894,
+      "num": 19716,
+      "word": "董宇辉 人是被成就感所驱使的动物",
+      "onboard_time": 1743891194,
+      "rank": 46,
+      "category": "互联网,情感"
+    },
+    {
+      "raw_hot": 14343,
+      "num": 19713,
+      "word": "这两天问勇路摆满了鲜花",
+      "onboard_time": 1743883094,
+      "rank": 31,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 14084,
+      "num": 19711,
       "word": "PCL2025",
       "onboard_time": 1743877875,
       "rank": 45,
