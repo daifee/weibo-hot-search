@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743830621621,
+  "endTime": 1743831608298,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1195,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1026536,
+      "num": 1164245,
+      "word": "房琪文案",
+      "onboard_time": 1743825980,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1021631,
       "num": 340103,
       "word": "影帝",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1743692422,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 983123,
-      "num": 1157299,
-      "word": "房琪文案",
-      "onboard_time": 1743825980,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 981886,
@@ -1540,7 +1540,7 @@
     },
     {
       "raw_hot": 883562,
-      "num": 305210,
+      "num": 343665,
       "word": "李沐宸 刘奕畅",
       "onboard_time": 1743827962,
       "rank": 34,
@@ -1572,7 +1572,7 @@
     },
     {
       "raw_hot": 872047,
-      "num": 669685,
+      "num": 676204,
       "word": "鞠婧祎罗云熙 和离",
       "onboard_time": 1743828981,
       "rank": 3,
@@ -2019,6 +2019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 717978,
+      "num": 717978,
+      "word": "怀疑买到了被洪水泡过的卫生巾",
+      "onboard_time": 1743827302,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 717168,
       "num": 163648,
       "word": "2024的愚人节勇士站姐",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1743730401,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 656163,
-      "num": 656163,
-      "word": "怀疑买到了被洪水泡过的卫生巾",
-      "onboard_time": 1743827302,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 655659,
@@ -2756,7 +2756,7 @@
     },
     {
       "raw_hot": 559747,
-      "num": 405373,
+      "num": 427256,
       "word": "美国运动员下跪拒与跨性别者比赛",
       "onboard_time": 1743825680,
       "rank": 11,
@@ -2832,6 +2832,14 @@
       "word": "横店变竖店了",
       "onboard_time": 1743422661,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548344,
+      "num": 548344,
+      "word": "老教授去世5年多奖学金仍年年到账",
+      "onboard_time": 1743827302,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -2952,14 +2960,6 @@
       "word": "江泽民故居面向社会公众开放",
       "onboard_time": 1743672564,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 536601,
-      "num": 536601,
-      "word": "老教授去世5年多奖学金仍年年到账",
-      "onboard_time": 1743827302,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -3657,6 +3657,14 @@
       "onboard_time": 1743758181,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 448326,
+      "num": 448326,
+      "word": "张檬晒孕肚照",
+      "onboard_time": 1743829402,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 445634,
@@ -4409,14 +4417,6 @@
       "onboard_time": 1743589521,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 376008,
-      "num": 304926,
-      "word": "张檬晒孕肚照",
-      "onboard_time": 1743829402,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 375870,
@@ -6292,11 +6292,19 @@
     },
     {
       "raw_hot": 265090,
-      "num": 265090,
+      "num": 436145,
       "word": "马克龙呼吁欧盟别再天真了",
       "onboard_time": 1743820340,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 264570,
+      "num": 264570,
+      "word": "侯明昊改ID了",
+      "onboard_time": 1743830660,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 264050,
@@ -6745,6 +6753,14 @@
       "onboard_time": 1743404961,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242339,
+      "num": 242339,
+      "word": "李晟小考圣体",
+      "onboard_time": 1743829822,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 241892,
@@ -8875,6 +8891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192798,
+      "num": 192798,
+      "word": "雅漾 樊振东",
+      "onboard_time": 1743831501,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192761,
       "num": 223989,
       "word": "肖战藏海传大屏",
@@ -9128,6 +9152,14 @@
       "word": "李羲承红发",
       "onboard_time": 1743517464,
       "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188916,
+      "num": 188916,
+      "word": "杨紫感受扑面而来的春天",
+      "onboard_time": 1743831562,
+      "rank": 22,
       "category": "作品衍生"
     },
     {
@@ -9835,14 +9867,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 178874,
-      "num": 178874,
-      "word": "李晟小考圣体",
-      "onboard_time": 1743829822,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178765,
       "num": 178765,
       "word": "尚雯婕又去选人了",
@@ -10515,6 +10539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167931,
+      "num": 167931,
+      "word": "全红婵为陈芋汐表现兴奋鼓掌",
+      "onboard_time": 1743829281,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167752,
       "num": 167752,
       "word": "金智媛唱跳我们家",
@@ -10931,6 +10963,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 161788,
+      "num": 161788,
+      "word": "甲亢哥中国行有next level",
+      "onboard_time": 1743828141,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 161786,
       "num": 150519,
       "word": "乌尔善说期待未来在作品中再相聚",
@@ -11091,14 +11131,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 159985,
-      "num": 159985,
-      "word": "全红婵为陈芋汐表现兴奋鼓掌",
-      "onboard_time": 1743829281,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159813,
       "num": 287510,
       "word": "税务总局去年对网络主播查补收入8.99亿",
@@ -11161,6 +11193,14 @@
       "onboard_time": 1743308490,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 159187,
+      "num": 159187,
+      "word": "仁川冠军赛",
+      "onboard_time": 1743830601,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 159163,
@@ -12225,14 +12265,6 @@
       "onboard_time": 1743507624,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146543,
-      "num": 117079,
-      "word": "甲亢哥中国行有next level",
-      "onboard_time": 1743828141,
-      "rank": 37,
-      "category": "网红"
     },
     {
       "raw_hot": 146529,
@@ -14035,6 +14067,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 127902,
+      "num": 127902,
+      "word": "我婚礼转场也请这么拍",
+      "onboard_time": 1743831321,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127803,
       "num": 127803,
       "word": "陈都灵4月6个商务拍摄",
@@ -14433,6 +14473,14 @@
       "onboard_time": 1743429804,
       "rank": 29,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 123921,
+      "num": 123921,
+      "word": "小车撞起火司机昏迷众人破窗救人",
+      "onboard_time": 1743830302,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 123848,
@@ -15035,6 +15083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117244,
+      "num": 117244,
+      "word": "向佐的Tony是有什么心事吗",
+      "onboard_time": 1743830961,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 117070,
       "num": 317438,
       "word": "缅甸地震已遇难2065人",
@@ -15243,6 +15299,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 114232,
+      "num": 114232,
+      "word": "NJZ组合ins改名",
+      "onboard_time": 1743831082,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114130,
       "num": 685103,
       "word": "月球上有35个以中国元素命名的地名",
@@ -15427,6 +15491,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 111887,
+      "num": 111887,
+      "word": "北京一房东偷拍情侣租客被判刑",
+      "onboard_time": 1743831562,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111757,
       "num": 111757,
       "word": "王一博亚军",
@@ -15452,7 +15524,7 @@
     },
     {
       "raw_hot": 111614,
-      "num": 111614,
+      "num": 168796,
       "word": "库里36分",
       "onboard_time": 1743829102,
       "rank": 40,
@@ -15971,20 +16043,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105128,
-      "num": 105128,
-      "word": "小车撞起火司机昏迷众人破窗救人",
-      "onboard_time": 1743830302,
-      "rank": 44,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 105109,
       "num": 244012,
       "word": "甲骨文藏着河南姓氏图腾",
       "onboard_time": 1743667401,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104904,
+      "num": 104904,
+      "word": "时代少年团非去不可揭晓答案",
+      "onboard_time": 1743830420,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 104896,
@@ -16587,14 +16659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96495,
-      "num": 96495,
-      "word": "时代少年团非去不可揭晓答案",
-      "onboard_time": 1743830420,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96458,
       "num": 96458,
       "word": "郑钦文晋级查尔斯顿赛八强",
@@ -16641,14 +16705,6 @@
       "onboard_time": 1743731361,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95619,
-      "num": 95619,
-      "word": "仁川冠军赛",
-      "onboard_time": 1743830601,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 95577,
@@ -17379,6 +17435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81662,
+      "num": 159226,
+      "word": "袜子套装买3送3竟是买3双发3双",
+      "onboard_time": 1743830362,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81657,
       "num": 92995,
       "word": "为什么每年都会怀念张国荣",
@@ -17945,14 +18009,6 @@
       "onboard_time": 1743579263,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67674,
-      "num": 149761,
-      "word": "袜子套装买3送3竟是买3双发3双",
-      "onboard_time": 1743830362,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 67506,
@@ -18704,6 +18760,14 @@
       "word": "救援队员巨响中摔下废墟爬起撤离",
       "onboard_time": 1743411805,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52805,
+      "num": 291057,
+      "word": "火化师不怕遗体怕偏见",
+      "onboard_time": 1743829701,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -19633,14 +19697,6 @@
       "onboard_time": 1743332002,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 34002,
-      "num": 291057,
-      "word": "火化师不怕遗体怕偏见",
-      "onboard_time": 1743829701,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33583,
@@ -21265,6 +21321,14 @@
       "onboard_time": 1743598943,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7939,
+      "num": 114306,
+      "word": "甲亢哥在香港变甲减",
+      "onboard_time": 1743831382,
+      "rank": 39,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 7655,

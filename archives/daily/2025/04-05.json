@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743830621621,
+  "endTime": 1743831608298,
   "band_list": [
     {
       "raw_hot": 2476139,
@@ -83,20 +83,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1026536,
+      "num": 1164245,
+      "word": "房琪文案",
+      "onboard_time": 1743825980,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1002479,
       "num": 1002479,
       "word": "金价连续跳水",
       "onboard_time": 1743809178,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 983123,
-      "num": 1157299,
-      "word": "房琪文案",
-      "onboard_time": 1743825980,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 940881,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 883562,
-      "num": 305210,
+      "num": 343665,
       "word": "李沐宸 刘奕畅",
       "onboard_time": 1743827962,
       "rank": 34,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 872047,
-      "num": 669685,
+      "num": 676204,
       "word": "鞠婧祎罗云熙 和离",
       "onboard_time": 1743828981,
       "rank": 3,
@@ -131,8 +131,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 656163,
-      "num": 656163,
+      "raw_hot": 717978,
+      "num": 717978,
       "word": "怀疑买到了被洪水泡过的卫生巾",
       "onboard_time": 1743827302,
       "rank": 30,
@@ -172,11 +172,19 @@
     },
     {
       "raw_hot": 559747,
-      "num": 405373,
+      "num": 427256,
       "word": "美国运动员下跪拒与跨性别者比赛",
       "onboard_time": 1743825680,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 548344,
+      "num": 548344,
+      "word": "老教授去世5年多奖学金仍年年到账",
+      "onboard_time": 1743827302,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 541426,
@@ -185,14 +193,6 @@
       "onboard_time": 1743825921,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 536601,
-      "num": 536601,
-      "word": "老教授去世5年多奖学金仍年年到账",
-      "onboard_time": 1743827302,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 523674,
@@ -233,6 +233,14 @@
       "onboard_time": 1743782840,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 448326,
+      "num": 448326,
+      "word": "张檬晒孕肚照",
+      "onboard_time": 1743829402,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 440938,
@@ -289,14 +297,6 @@
       "onboard_time": 1743764421,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 376008,
-      "num": 304926,
-      "word": "张檬晒孕肚照",
-      "onboard_time": 1743829402,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 364404,
@@ -388,11 +388,19 @@
     },
     {
       "raw_hot": 265090,
-      "num": 265090,
+      "num": 436145,
       "word": "马克龙呼吁欧盟别再天真了",
       "onboard_time": 1743820340,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 264570,
+      "num": 264570,
+      "word": "侯明昊改ID了",
+      "onboard_time": 1743830660,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 261967,
@@ -433,6 +441,14 @@
       "onboard_time": 1743826521,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242339,
+      "num": 242339,
+      "word": "李晟小考圣体",
+      "onboard_time": 1743829822,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 240097,
@@ -531,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192798,
+      "num": 192798,
+      "word": "雅漾 樊振东",
+      "onboard_time": 1743831501,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190119,
       "num": 190119,
       "word": "赵露思音乐节捐赠百万",
@@ -545,6 +569,14 @@
       "onboard_time": 1743818840,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188916,
+      "num": 188916,
+      "word": "杨紫感受扑面而来的春天",
+      "onboard_time": 1743831562,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186905,
@@ -593,14 +625,6 @@
       "onboard_time": 1743820821,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 178874,
-      "num": 178874,
-      "word": "李晟小考圣体",
-      "onboard_time": 1743829822,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 177132,
@@ -667,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167931,
+      "num": 167931,
+      "word": "全红婵为陈芋汐表现兴奋鼓掌",
+      "onboard_time": 1743829281,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166039,
       "num": 166039,
       "word": "巴布亚新几内亚7级地震",
@@ -683,19 +715,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161788,
+      "num": 161788,
+      "word": "甲亢哥中国行有next level",
+      "onboard_time": 1743828141,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 161764,
       "num": 161764,
       "word": "掘金vs勇士",
       "onboard_time": 1743823880,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 159985,
-      "num": 159985,
-      "word": "全红婵为陈芋汐表现兴奋鼓掌",
-      "onboard_time": 1743829281,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -705,6 +737,14 @@
       "onboard_time": 1743812059,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159187,
+      "num": 159187,
+      "word": "仁川冠军赛",
+      "onboard_time": 1743830601,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 158788,
@@ -785,14 +825,6 @@
       "onboard_time": 1743811878,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 146543,
-      "num": 117079,
-      "word": "甲亢哥中国行有next level",
-      "onboard_time": 1743828141,
-      "rank": 37,
-      "category": "网红"
     },
     {
       "raw_hot": 146151,
@@ -923,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127902,
+      "num": 127902,
+      "word": "我婚礼转场也请这么拍",
+      "onboard_time": 1743831321,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127379,
       "num": 127379,
       "word": "德国考虑从美撤回1200吨黄金储备",
@@ -961,6 +1001,14 @@
       "onboard_time": 1743774203,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 123921,
+      "num": 123921,
+      "word": "小车撞起火司机昏迷众人破窗救人",
+      "onboard_time": 1743830302,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 123135,
@@ -1019,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117244,
+      "num": 117244,
+      "word": "向佐的Tony是有什么心事吗",
+      "onboard_time": 1743830961,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 116859,
       "num": 116859,
       "word": "马嘉祺踏青vlog",
@@ -1033,6 +1089,14 @@
       "onboard_time": 1743828981,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 114232,
+      "num": 114232,
+      "word": "NJZ组合ins改名",
+      "onboard_time": 1743831082,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 113290,
@@ -1059,8 +1123,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111887,
+      "num": 111887,
+      "word": "北京一房东偷拍情侣租客被判刑",
+      "onboard_time": 1743831562,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111614,
-      "num": 111614,
+      "num": 168796,
       "word": "库里36分",
       "onboard_time": 1743829102,
       "rank": 40,
@@ -1107,12 +1179,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 105128,
-      "num": 105128,
-      "word": "小车撞起火司机昏迷众人破窗救人",
-      "onboard_time": 1743830302,
-      "rank": 44,
-      "category": "正能量"
+      "raw_hot": 104904,
+      "num": 104904,
+      "word": "时代少年团非去不可揭晓答案",
+      "onboard_time": 1743830420,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 104539,
@@ -1147,28 +1219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96495,
-      "num": 96495,
-      "word": "时代少年团非去不可揭晓答案",
-      "onboard_time": 1743830420,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95874,
       "num": 95874,
       "word": "杜邦被立案调查",
       "onboard_time": 1743768922,
       "rank": 33,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 95619,
-      "num": 95619,
-      "word": "仁川冠军赛",
-      "onboard_time": 1743830601,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 95502,
@@ -1257,6 +1313,14 @@
       "onboard_time": 1743827241,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81662,
+      "num": 159226,
+      "word": "袜子套装买3送3竟是买3双发3双",
+      "onboard_time": 1743830362,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 80120,
@@ -1361,14 +1425,6 @@
       "onboard_time": 1743782901,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 67674,
-      "num": 149761,
-      "word": "袜子套装买3送3竟是买3双发3双",
-      "onboard_time": 1743830362,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 67506,
@@ -1483,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52805,
+      "num": 291057,
+      "word": "火化师不怕遗体怕偏见",
+      "onboard_time": 1743829701,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50875,
       "num": 50875,
       "word": "向阳花票房",
@@ -1544,14 +1608,6 @@
       "word": "杜邦",
       "onboard_time": 1743770722,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34002,
-      "num": 291057,
-      "word": "火化师不怕遗体怕偏见",
-      "onboard_time": 1743829701,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1705,6 +1761,14 @@
       "onboard_time": 1743797954,
       "rank": 23,
       "category": "民生新闻,军事"
+    },
+    {
+      "raw_hot": 7939,
+      "num": 114306,
+      "word": "甲亢哥在香港变甲减",
+      "onboard_time": 1743831382,
+      "rank": 39,
+      "category": "民生新闻,网红"
     }
   ],
   "hotgov_list": [
