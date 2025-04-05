@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743863896168,
+  "endTime": 1743866572879,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -225,6 +225,14 @@
       "onboard_time": 1743604345,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2199665,
+      "num": 658132,
+      "word": "王星演被绑架",
+      "onboard_time": 1743862284,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 2163339,
@@ -521,14 +529,6 @@
       "onboard_time": 1743603685,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1675891,
-      "num": 658132,
-      "word": "王星演被绑架",
-      "onboard_time": 1743862284,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1674202,
@@ -2379,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 659052,
+      "num": 536804,
+      "word": "钟丽丽曾因恋情试戏被刷",
+      "onboard_time": 1743862763,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 657688,
       "num": 528480,
       "word": "特朗普因对中国征收关税被起诉",
@@ -2820,7 +2828,7 @@
     },
     {
       "raw_hot": 588330,
-      "num": 396541,
+      "num": 444842,
       "word": "柯淳片酬",
       "onboard_time": 1743862343,
       "rank": 6,
@@ -3260,7 +3268,7 @@
     },
     {
       "raw_hot": 527877,
-      "num": 262852,
+      "num": 266145,
       "word": "伊能静否认与秦昊各过各的",
       "onboard_time": 1743861324,
       "rank": 16,
@@ -3417,6 +3425,14 @@
       "onboard_time": 1743763941,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 508506,
+      "num": 452071,
+      "word": "华晨宇 我求求你看我一眼",
+      "onboard_time": 1743864623,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 505473,
@@ -3875,6 +3891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 457036,
+      "num": 457036,
+      "word": "美国超市物价暴涨30%",
+      "onboard_time": 1743862763,
+      "rank": 49,
+      "category": "财经,海外新闻"
+    },
+    {
       "raw_hot": 454377,
       "num": 454377,
       "word": "蔡徐坤ins",
@@ -4321,6 +4345,14 @@
       "onboard_time": 1743388279,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 410855,
+      "num": 188556,
+      "word": "谁能坚持看完刘奕畅自我介绍",
+      "onboard_time": 1743865403,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 410669,
@@ -5723,6 +5755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314908,
+      "num": 260043,
+      "word": "卢伟冰回应雷军近况",
+      "onboard_time": 1743864623,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 314654,
       "num": 303652,
       "word": "父亲住院仨儿子都从上海回来照顾",
@@ -6603,6 +6643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 271875,
+      "num": 271875,
+      "word": "四川乐山一小汽车坠河",
+      "onboard_time": 1743864502,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 271853,
       "num": 302590,
       "word": "OPPO发布凝光影像",
@@ -6875,6 +6923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255989,
+      "num": 188213,
+      "word": "张元英找镜头速度",
+      "onboard_time": 1743864984,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 255573,
       "num": 255573,
       "word": "缅甸地震3301死4792伤",
@@ -6985,6 +7041,14 @@
       "onboard_time": 1743416723,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 250882,
+      "num": 185862,
+      "word": "女生追星冲向车头被撞倒",
+      "onboard_time": 1743863004,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250720,
@@ -7899,14 +7963,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 218846,
-      "num": 218846,
-      "word": "美国超市物价暴涨30%",
-      "onboard_time": 1743862763,
-      "rank": 49,
-      "category": "财经,海外新闻"
-    },
-    {
       "raw_hot": 218739,
       "num": 218739,
       "word": "旅行青蛙",
@@ -7969,6 +8025,14 @@
       "onboard_time": 1743464300,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 216231,
+      "num": 216231,
+      "word": "乔任梁母亲清明悼念儿子",
+      "onboard_time": 1743865344,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 215717,
@@ -8833,6 +8897,14 @@
       "onboard_time": 1743662303,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 201413,
+      "num": 201413,
+      "word": "吴镇宇说李依晓哭的很好",
+      "onboard_time": 1743865583,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 201004,
@@ -10731,6 +10803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175675,
+      "num": 175675,
+      "word": "GAI上海四面台上座率",
+      "onboard_time": 1743865884,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175491,
       "num": 344200,
       "word": "最像周五的周四",
@@ -11179,6 +11259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169225,
+      "num": 178924,
+      "word": "美国网友称领取食物队伍已爆满",
+      "onboard_time": 1743863662,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 169165,
       "num": 217895,
       "word": "李昀锐四月三个商务拍摄",
@@ -11552,6 +11640,14 @@
       "word": "全圆佑入伍",
       "onboard_time": 1743655223,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 164057,
+      "num": 194547,
+      "word": "祝绪丹直播",
+      "onboard_time": 1743864623,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -12147,14 +12243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157143,
-      "num": 157143,
-      "word": "女生追星冲向车头被撞倒",
-      "onboard_time": 1743863004,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157001,
       "num": 157001,
       "word": "金饰价格跌回935元",
@@ -12273,6 +12361,14 @@
       "onboard_time": 1743759861,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 155716,
+      "num": 183555,
+      "word": "AG战胜DRG",
+      "onboard_time": 1743865403,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 155707,
@@ -12441,6 +12537,14 @@
       "onboard_time": 1743314360,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154059,
+      "num": 154059,
+      "word": "王星演技",
+      "onboard_time": 1743863904,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 153972,
@@ -12817,6 +12921,14 @@
       "onboard_time": 1743648201,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149987,
+      "num": 149987,
+      "word": "银河左岸",
+      "onboard_time": 1743866001,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 149917,
@@ -13939,6 +14051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139548,
+      "num": 139548,
+      "word": "许绍洋被骂之后像极了我本人",
+      "onboard_time": 1743864623,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139531,
       "num": 139531,
       "word": "曼城",
@@ -14155,6 +14275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137023,
+      "num": 137023,
+      "word": "一人食18个馒头",
+      "onboard_time": 1743864502,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136960,
       "num": 136960,
       "word": "黄霄雲 原创",
@@ -14275,6 +14403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136039,
+      "num": 141446,
+      "word": "买金饰可优先考虑小克重",
+      "onboard_time": 1743865222,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 135996,
       "num": 144748,
       "word": "杨紫久违的日常",
@@ -14297,6 +14433,14 @@
       "onboard_time": 1743590181,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135774,
+      "num": 176033,
+      "word": "男子怒砸Manner咖啡柜台",
+      "onboard_time": 1743865284,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135751,
@@ -14723,6 +14867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132481,
+      "num": 132481,
+      "word": "袁隆平墓前有一束特别的稻穗",
+      "onboard_time": 1743866302,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132474,
       "num": 132474,
       "word": "2只流浪狗车流中救回被撞伤小狗",
@@ -14953,14 +15105,6 @@
       "onboard_time": 1743512663,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129924,
-      "num": 129924,
-      "word": "美国网友称领取食物队伍已爆满",
-      "onboard_time": 1743863662,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 129920,
@@ -15707,6 +15851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122001,
+      "num": 122001,
+      "word": "被华晨宇在几万人面前贴脸开大了",
+      "onboard_time": 1743864084,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121955,
       "num": 321765,
       "word": "月嫂机构员工卖了4万条新生儿信息",
@@ -15897,6 +16049,14 @@
       "onboard_time": 1743557302,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120523,
+      "num": 120523,
+      "word": "海贼王",
+      "onboard_time": 1743864323,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 120474,
@@ -16393,6 +16553,14 @@
       "onboard_time": 1743759560,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115568,
+      "num": 115568,
+      "word": "够了我心疼吴宣仪",
+      "onboard_time": 1743866422,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 115557,
@@ -20611,6 +20779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45949,
+      "num": 547608,
+      "word": "AI修复抗战英雄的模样",
+      "onboard_time": 1743864084,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45880,
       "num": 45880,
       "word": "唐嫣哄娃",
@@ -22907,6 +23083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 9974,
+      "num": 173793,
+      "word": "柯淳那双眼看酸奶都深情",
+      "onboard_time": 1743866541,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9953,
       "num": 134324,
       "word": "韩执政党前议员张济元意外身亡",
@@ -22969,6 +23153,14 @@
       "onboard_time": 1743628815,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9340,
+      "num": 140456,
+      "word": "恶魔之角日食",
+      "onboard_time": 1743865823,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 9160,
