@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743866572879,
+  "endTime": 1743867410511,
   "band_list": [
     {
       "raw_hot": 2591568,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 613332,
+      "num": 507506,
+      "word": "华晨宇 我求求你看我一眼",
+      "onboard_time": 1743864623,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 601279,
       "num": 320415,
       "word": "叶童说不要放大房琪的话",
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 527877,
-      "num": 266145,
+      "num": 267791,
       "word": "伊能静否认与秦昊各过各的",
       "onboard_time": 1743861324,
       "rank": 16,
@@ -459,20 +467,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 513419,
+      "num": 463079,
+      "word": "刘奕畅 我的女主",
+      "onboard_time": 1743866783,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511680,
       "num": 437302,
       "word": "管乐笑的好勉强",
       "onboard_time": 1743831921,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 508506,
-      "num": 452071,
-      "word": "华晨宇 我求求你看我一眼",
-      "onboard_time": 1743864623,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 503462,
@@ -491,6 +499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 468606,
+      "num": 468606,
+      "word": "美国超市物价暴涨30%",
+      "onboard_time": 1743862763,
+      "rank": 49,
+      "category": "财经,海外新闻"
+    },
+    {
       "raw_hot": 465485,
       "num": 465485,
       "word": "6家商会发声明回应美加征关税",
@@ -505,14 +521,6 @@
       "onboard_time": 1743835641,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 457036,
-      "num": 457036,
-      "word": "美国超市物价暴涨30%",
-      "onboard_time": 1743862763,
-      "rank": 49,
-      "category": "财经,海外新闻"
     },
     {
       "raw_hot": 451609,
@@ -787,8 +795,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 314908,
-      "num": 260043,
+      "raw_hot": 320566,
+      "num": 275950,
       "word": "卢伟冰回应雷军近况",
       "onboard_time": 1743864623,
       "rank": 12,
@@ -843,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302336,
+      "num": 253143,
+      "word": "女孩遭性侵后轻生舍友讲述惊魂之夜",
+      "onboard_time": 1743867083,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297235,
       "num": 297235,
       "word": "VaVa 灰原哀",
@@ -865,6 +881,14 @@
       "onboard_time": 1743800354,
       "rank": 30,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 278924,
+      "num": 225446,
+      "word": "张元英找镜头速度",
+      "onboard_time": 1743864984,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 276648,
@@ -899,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259126,
+      "num": 224280,
+      "word": "女生追星冲向车头被撞倒",
+      "onboard_time": 1743863004,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258563,
       "num": 258563,
       "word": "丁禹兮 晋江式演技",
@@ -907,28 +939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255989,
-      "num": 188213,
-      "word": "张元英找镜头速度",
-      "onboard_time": 1743864984,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 251513,
       "num": 251513,
       "word": "阿Sa井柏然宋仲基黄轩合照",
       "onboard_time": 1743776422,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250882,
-      "num": 185862,
-      "word": "女生追星冲向车头被撞倒",
-      "onboard_time": 1743863004,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 245189,
@@ -1035,12 +1051,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223417,
+      "num": 223417,
+      "word": "乔任梁母亲清明悼念儿子",
+      "onboard_time": 1743865344,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222975,
       "num": 200008,
       "word": "姆巴佩停赛1场缓刑1年",
       "onboard_time": 1743811940,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222795,
+      "num": 222795,
+      "word": "吴镇宇说李依晓哭的很好",
+      "onboard_time": 1743865583,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 220804,
+      "num": 289832,
+      "word": "袁隆平墓前有一束特别的稻穗",
+      "onboard_time": 1743866302,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220796,
@@ -1088,14 +1128,6 @@
       "word": "SM新男团",
       "onboard_time": 1743852382,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 216231,
-      "num": 216231,
-      "word": "乔任梁母亲清明悼念儿子",
-      "onboard_time": 1743865344,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1155,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207163,
+      "num": 207163,
+      "word": "够了我心疼吴宣仪",
+      "onboard_time": 1743866422,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206255,
       "num": 206255,
       "word": "华晨宇演唱会",
@@ -1171,11 +1211,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201413,
-      "num": 201413,
-      "word": "吴镇宇说李依晓哭的很好",
-      "onboard_time": 1743865583,
-      "rank": 16,
+      "raw_hot": 200084,
+      "num": 200084,
+      "word": "王星演技",
+      "onboard_time": 1743863904,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1228,7 +1268,7 @@
     },
     {
       "raw_hot": 193570,
-      "num": 193570,
+      "num": 227489,
       "word": "大张伟直播",
       "onboard_time": 1743861503,
       "rank": 34,
@@ -1331,11 +1371,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182724,
+      "num": 182724,
+      "word": "美国网友称领取食物队伍已爆满",
+      "onboard_time": 1743863662,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 182671,
       "num": 171559,
       "word": "张凌赫田曦薇孔雪儿同框路透",
       "onboard_time": 1743837982,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182403,
+      "num": 182403,
+      "word": "邓超gogogo出发喽",
+      "onboard_time": 1743864204,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1393,14 +1449,6 @@
       "onboard_time": 1743820821,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 178722,
-      "num": 178722,
-      "word": "邓超gogogo出发喽",
-      "onboard_time": 1743864204,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 177132,
@@ -1521,14 +1569,6 @@
       "onboard_time": 1743837920,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169225,
-      "num": 178924,
-      "word": "美国网友称领取食物队伍已爆满",
-      "onboard_time": 1743863662,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 168593,
@@ -1771,14 +1811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154059,
-      "num": 154059,
-      "word": "王星演技",
-      "onboard_time": 1743863904,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153284,
       "num": 153284,
       "word": "宋妍霏说了两遍你是马吟吟",
@@ -1899,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144617,
+      "num": 144617,
+      "word": "许绍洋被骂之后像极了我本人",
+      "onboard_time": 1743864623,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144612,
       "num": 144612,
       "word": "建议身弱之人把人设搞崩",
@@ -1945,14 +1985,6 @@
       "onboard_time": 1743851723,
       "rank": 34,
       "category": "艺人,网红"
-    },
-    {
-      "raw_hot": 139548,
-      "num": 139548,
-      "word": "许绍洋被骂之后像极了我本人",
-      "onboard_time": 1743864623,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 139462,
@@ -2121,14 +2153,6 @@
       "onboard_time": 1743847042,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132481,
-      "num": 132481,
-      "word": "袁隆平墓前有一束特别的稻穗",
-      "onboard_time": 1743866302,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132421,
@@ -2475,20 +2499,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 116747,
+      "num": 121327,
+      "word": "娜俊ig",
+      "onboard_time": 1743866062,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116222,
       "num": 116222,
       "word": "朱雨玲逆转晋级4强",
       "onboard_time": 1743833121,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115568,
-      "num": 115568,
-      "word": "够了我心疼吴宣仪",
-      "onboard_time": 1743866422,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 115487,
@@ -2867,6 +2891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91362,
+      "num": 263593,
+      "word": "美国亿万富翁提醒民众囤货",
+      "onboard_time": 1743867021,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 87135,
       "num": 87135,
       "word": "好六全员化身魔童闹海爱好者",
@@ -3099,6 +3131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69044,
+      "num": 230928,
+      "word": "柯淳那双眼看酸奶都深情",
+      "onboard_time": 1743866541,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68056,
       "num": 159725,
       "word": "三岁女孩报警抓抽烟舅舅",
@@ -3128,6 +3168,14 @@
       "word": "被网友写给烈士的话戳到了",
       "onboard_time": 1743825141,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64581,
+      "num": 228991,
+      "word": "顾客失联外卖员回药店问是不是救命药",
+      "onboard_time": 1743867021,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3307,6 +3355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47071,
+      "num": 182471,
+      "word": "大张伟直播间好会哄人",
+      "onboard_time": 1743867083,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46846,
       "num": 54651,
       "word": "李金铭十年前剩饭保留至今",
@@ -3337,6 +3393,14 @@
       "onboard_time": 1743804494,
       "rank": 47,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 43838,
+      "num": 207909,
+      "word": "或因女子幽闭恐惧症航班紧急备降",
+      "onboard_time": 1743867021,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43791,
@@ -3659,14 +3723,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 9974,
-      "num": 173793,
-      "word": "柯淳那双眼看酸奶都深情",
-      "onboard_time": 1743866541,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 9340,
       "num": 140456,
       "word": "恶魔之角日食",
@@ -3701,6 +3757,9 @@
     },
     {
       "word": "#重温习近平总书记这些深情话语#"
+    },
+    {
+      "word": "#英雄是民族的脊梁#"
     }
   ]
 }
