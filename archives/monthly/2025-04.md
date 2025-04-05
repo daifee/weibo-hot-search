@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/05 18:24:28
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/05 18:40:55
 </p>
 </blockquote>
 <p>
@@ -93,6 +93,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%BB%E5%B8%AD%E5%AB%A1%E5%AD%99%E6%AF%9B%E6%96%B0%E5%AE%87%E5%9B%9E%E9%9F%B6%E5%B1%B1%E7%A5%AD%E6%8B%9C%E7%88%B7%E7%88%B7%23" target="weibo">
+毛主席嫡孙毛新宇回韶山祭拜爷爷（热度：2591568）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%85%AC%E5%BC%80%E6%9D%8E%E6%B2%90%E5%AE%B8%E5%88%98%E5%A5%95%E7%95%85%E6%81%8B%E6%83%85%23" target="weibo">
 于正公开李沐宸刘奕畅恋情（热度：2476139）
 </a>
@@ -101,12 +107,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E7%94%B2%E4%BA%A2%E5%93%A5%E4%B8%8D%E6%96%87%E6%98%8E%E8%A1%8C%E4%B8%BA%E7%9A%84%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E4%BA%86%23" target="weibo">
 提醒甲亢哥不文明行为的女生回应了（热度：2429717）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%BB%E5%B8%AD%E5%AB%A1%E5%AD%99%E6%AF%9B%E6%96%B0%E5%AE%87%E5%9B%9E%E9%9F%B6%E5%B1%B1%E7%A5%AD%E6%8B%9C%E7%88%B7%E7%88%B7%23" target="weibo">
-毛主席嫡孙毛新宇回韶山祭拜爷爷（热度：2423752）
 </a>
 </li>
 
@@ -1017,6 +1017,12 @@ PO回应与雪莉恋情（热度：834785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%B0%8F%E5%88%9A%E5%BF%8D%E7%97%9B%E5%88%A0%E6%8E%89%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8B%A0%E6%88%8F%23" target="weibo">
+冯小刚忍痛删掉赵丽颖狠戏（热度：816804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%94%B9%E5%90%8D%E5%A4%A7%E4%B9%B1%E6%96%97%E8%81%94%E7%9B%9F%23" target="weibo">
 英雄联盟改名大乱斗联盟（热度：809729）
 </a>
@@ -1065,6 +1071,12 @@ YERI和Wendy离开SM（热度：805847）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E5%A4%A7%E5%96%8A%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%81%9A%E5%88%B0%E4%BA%86%23" target="weibo">
+甲亢哥大喊中国制造做到了（热度：777573）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E5%93%AA%E5%90%92%23" target="weibo">
 霸王茶姬 哪吒（热度：771856）
 </a>
@@ -1109,12 +1121,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%80%E7%96%91%E4%B9%B0%E5%88%B0%E4%BA%86%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B3%A1%E8%BF%87%E7%9A%84%E5%8D%AB%E7%94%9F%E5%B7%BE%23" target="weibo">
 怀疑买到了被洪水泡过的卫生巾（热度：749977）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E5%A4%A7%E5%96%8A%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%81%9A%E5%88%B0%E4%BA%86%23" target="weibo">
-甲亢哥大喊中国制造做到了（热度：745130）
 </a>
 </li>
 
@@ -1439,12 +1445,6 @@ Angelababy女王权杖（热度：593316）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%BA%BA%E5%9C%A8%E9%99%88%E9%83%BD%E7%81%B5%E6%80%80%E9%87%8C%23" target="weibo">
 鞠婧祎躺在陈都灵怀里（热度：587086）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%B0%8F%E5%88%9A%E5%BF%8D%E7%97%9B%E5%88%A0%E6%8E%89%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8B%A0%E6%88%8F%23" target="weibo">
-冯小刚忍痛删掉赵丽颖狠戏（热度：586788）
 </a>
 </li>
 
@@ -2193,6 +2193,12 @@ hanbi公开（热度：468837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E6%B0%B4%E7%81%B5%E7%81%B5%E5%9C%B0%E8%A2%AB%E6%B7%B1%E5%9C%B3%E4%BA%A4%E8%AD%A6%E8%AD%A6%E5%91%8A%E4%BA%86%23" target="weibo">
+甲亢哥水灵灵地被深圳交警警告了（热度：409581）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E5%95%A5%E6%97%B6%E5%80%99%E8%83%BD%E5%9B%9E%E5%BD%92%E6%AD%A3%E5%B8%B8%E5%AE%A1%E7%BE%8E%23" target="weibo">
 女装啥时候能回归正常审美（热度：408111）
 </a>
@@ -2751,6 +2757,12 @@ Uzi妻子宣布胜诉（热度：341626）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%23" target="weibo">
+种地吧（热度：335095）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9B%A8%E8%AF%B4%E5%AD%99%E9%A2%96%E8%8E%8E%E5%BD%B1%E5%93%8D%E5%8A%9B%E5%A4%AA%E5%A4%A7%E4%BA%86%23" target="weibo">
 周雨说孙颖莎影响力太大了（热度：334731）
 </a>
@@ -3209,6 +3221,12 @@ deepseek对许嵩作词甘拜下风（热度：294331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E7%94%9F%E7%94%A812%E5%B9%B4%E4%BB%8E%E4%B8%93%E7%A7%91%E5%88%B0%E7%95%99%E5%AD%A6%E7%A1%95%E5%A3%AB%23" target="weibo">
 27岁女生用12年从专科到留学硕士（热度：287854）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E6%9D%80%E5%AE%B35%E5%B9%B4%E5%90%8E%E4%BB%8D%E6%97%A0%E6%B3%95%E5%AE%89%E8%91%AC%23" target="weibo">
+女生被前男友杀害5年后仍无法安葬（热度：287656）
 </a>
 </li>
 
@@ -3837,6 +3855,12 @@ G社是张若昀的站姐吧（热度：239646）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E5%81%9A100%E5%8F%AA%E5%AE%A0%E7%89%A9%E6%A0%87%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23" target="weibo">
+免费做100只宠物标本女子回应争议（热度：229382）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%8F%A4%E6%A0%91%E4%BC%9A%E8%AF%B4%E8%AF%9D%23" target="weibo">
 如果古树会说话（热度：229275）
 </a>
@@ -3935,12 +3959,6 @@ EXO周年直播没通知cbx（热度：225340）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NJZ%E7%BB%84%E5%90%88ins%E6%94%B9%E5%90%8D%23" target="weibo">
 NJZ组合ins改名（热度：224424）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E6%B0%B4%E7%81%B5%E7%81%B5%E5%9C%B0%E8%A2%AB%E6%B7%B1%E5%9C%B3%E4%BA%A4%E8%AD%A6%E8%AD%A6%E5%91%8A%E4%BA%86%23" target="weibo">
-甲亢哥水灵灵地被深圳交警警告了（热度：224405）
 </a>
 </li>
 
@@ -4419,6 +4437,12 @@ AI复原8位烈士集体答到看到泪目（热度：206083）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E7%81%AB%E9%94%85%E5%81%B6%E9%81%87%E9%83%91%E7%A7%80%E6%99%B6%23" target="weibo">
+吃火锅偶遇郑秀晶（热度：204552）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Switch2%23" target="weibo">
 Switch2（热度：204497）
 </a>
@@ -4575,14 +4599,14 @@ SMTR25单人预告（热度：199655）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%91%A3%E5%AE%87%E8%BE%89%E5%BD%95%E7%9A%84%E8%8A%82%E7%9B%AE%E7%BB%88%E4%BA%8E%E8%A6%81%E6%92%AD%E4%BA%86%23" target="weibo">
-周杰伦董宇辉录的节目终于要播了（热度：199434）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B518%E5%B2%81%E5%90%8E%E9%A6%96%E7%A7%80%E5%86%8D%E7%8E%B0%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%23" target="weibo">
+全红婵18岁后首秀再现水花消失术（热度：199482）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%23" target="weibo">
-种地吧（热度：199392）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%91%A3%E5%AE%87%E8%BE%89%E5%BD%95%E7%9A%84%E8%8A%82%E7%9B%AE%E7%BB%88%E4%BA%8E%E8%A6%81%E6%92%AD%E4%BA%86%23" target="weibo">
+周杰伦董宇辉录的节目终于要播了（热度：199434）
 </a>
 </li>
 
@@ -5027,6 +5051,12 @@ Haruta公开（热度：189357）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%84%9F%E5%8F%97%E6%89%91%E9%9D%A2%E8%80%8C%E6%9D%A5%E7%9A%84%E6%98%A5%E5%A4%A9%23" target="weibo">
 杨紫感受扑面而来的春天（热度：188916）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E5%B0%B4%E5%B0%AC%E7%9A%84%E5%8E%9F%E5%94%B1%23" target="weibo">
+第一次见这么尴尬的原唱（热度：188725）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ VaVa卡琳娜隔空蛐蛐赵兆（热度：173058）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%BE%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%A6%81%E9%99%90%E5%88%B6%E4%BA%8E%E6%8B%9B%E8%81%98app%23" target="weibo">
 找工作不要限制于招聘app（热度：164577）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%82%E6%B0%94%E9%87%8C%E7%9A%84%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23" target="weibo">
-节气里的大美中国（热度：164437）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%86%E4%BD%91%E5%85%A5%E4%BC%8D%23" target="weibo">
-全圆佑入伍（热度：164370）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C%E5%9B%A0%E4%B8%BA%E7%BE%8E%E5%9B%BD%E7%97%85%E5%85%A5%E8%86%8F%E8%82%93%23" target="weibo">
-特朗普说美股大跌因为美国病入膏肓（热度：163811）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E7%A5%9E%E7%BA%A7%E8%88%9E%E5%8F%B0%23" target="weibo">
-浪姐被低估的神级舞台（热度：163550）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%99%BE%E5%B9%B4%E7%A5%96%E5%AE%85%E8%A2%AB%E6%8B%86%E5%90%8E%E7%BB%B4%E6%9D%837%E5%B9%B4%23" target="weibo">
-老人百年祖宅被拆后维权7年（热度：163208）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1743849655598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2591568,
+        "num": 2591568,
+        "word": "毛主席嫡孙毛新宇回韶山祭拜爷爷",
+        "onboard_time": 1743847641,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 816804,
+        "num": 816804,
+        "word": "冯小刚忍痛删掉赵丽颖狠戏",
+        "onboard_time": 1743846500,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37243,
+        "num": 782570,
+        "word": "垂直视角看多彩神州大地",
+        "onboard_time": 1743846021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 777573,
+        "num": 777573,
+        "word": "甲亢哥大喊中国制造做到了",
+        "onboard_time": 1743846021,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 406187,
+        "num": 406187,
+        "word": "美国超市中国商品被民众抢购",
+        "onboard_time": 1743833961,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 613746,
+        "num": 393360,
+        "word": "辽宁一地市委书记暗访被拦车",
+        "onboard_time": 1743843921,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 335095,
+        "num": 335095,
+        "word": "种地吧",
+        "onboard_time": 1743848242,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322078,
+        "num": 322078,
+        "word": "官方回应女子遇害因停尸费无法下葬",
+        "onboard_time": 1743844821,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409581,
+        "num": 293977,
+        "word": "甲亢哥水灵灵地被深圳交警警告了",
+        "onboard_time": 1743848121,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 255142,
+        "num": 255142,
+        "word": "女生发现杯中吸管脏成黑芝麻糊",
+        "onboard_time": 1743832220,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1071348,
+        "num": 255101,
+        "word": "女子整理表妹遗物发现老师性侵证据",
+        "onboard_time": 1743840562,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 894104,
+        "num": 254633,
+        "word": "于正公开李沐宸刘奕畅恋情",
+        "onboard_time": 1743824901,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519268,
+        "num": 253783,
+        "word": "第一次见明星收信比粉丝还激动",
+        "onboard_time": 1743843140,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321880,
+        "num": 253294,
+        "word": "第一次见没轨硬出捉奸现场",
+        "onboard_time": 1743839181,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28945,
+        "num": 252752,
+        "word": "华南F3祭祖只有山路水路和没路",
+        "onboard_time": 1743849022,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287656,
+        "num": 252238,
+        "word": "女生被前男友杀害5年后仍无法安葬",
+        "onboard_time": 1743848301,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276300,
+        "num": 251920,
+        "word": "李沐宸 刘奕畅",
+        "onboard_time": 1743827962,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251712,
+        "num": 251712,
+        "word": "她怎么一开口唱歌面相都变了",
+        "onboard_time": 1743842720,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242753,
+        "num": 242753,
+        "word": "王星越 常驻hi6",
+        "onboard_time": 1743833001,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82477,
+        "num": 240597,
+        "word": "王艺迪vs申裕斌",
+        "onboard_time": 1743848543,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240184,
+        "num": 240184,
+        "word": "6家商会发声明回应美加征关税",
+        "onboard_time": 1743820161,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229382,
+        "num": 229382,
+        "word": "免费做100只宠物标本女子回应争议",
+        "onboard_time": 1743847641,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207497,
+        "num": 207497,
+        "word": "40岁王冕退圈备孕遇胎停",
+        "onboard_time": 1743834320,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206249,
+        "num": 206249,
+        "word": "房琪曾说明出圈金句为引用",
+        "onboard_time": 1743835581,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204552,
+        "num": 204552,
+        "word": "吃火锅偶遇郑秀晶",
+        "onboard_time": 1743849443,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199482,
+        "num": 199482,
+        "word": "全红婵18岁后首秀再现水花消失术",
+        "onboard_time": 1743848121,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188725,
+        "num": 188725,
+        "word": "第一次见这么尴尬的原唱",
+        "onboard_time": 1743848902,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172590,
+        "num": 172590,
+        "word": "饿瘦和运动瘦差别",
+        "onboard_time": 1743846981,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 145502,
+        "num": 145502,
+        "word": "鞠婧祎罗云熙 和离",
+        "onboard_time": 1743828981,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142579,
+        "num": 142579,
+        "word": "奈夫",
+        "onboard_time": 1743837439,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139946,
+        "num": 139946,
+        "word": "加州州长公开发声",
+        "onboard_time": 1743839420,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138789,
+        "num": 138789,
+        "word": "沈月迪士尼游客照",
+        "onboard_time": 1743846680,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138520,
+        "num": 138520,
+        "word": "官方通报一职工被强制送医治疗",
+        "onboard_time": 1743847942,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 130824,
+        "num": 130824,
+        "word": "陈小春一句话十个勤天全懵了",
+        "onboard_time": 1743847821,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124016,
+        "num": 124016,
+        "word": "北京一房东偷拍情侣租客被判刑",
+        "onboard_time": 1743831562,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43791,
+        "num": 122472,
+        "word": "中国女足晋级永川女足邀请赛决赛",
+        "onboard_time": 1743849562,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122467,
+        "num": 122467,
+        "word": "韩庚 吵架的时候不能拥抱",
+        "onboard_time": 1743838461,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118182,
+        "num": 118182,
+        "word": "金子涵 退圈",
+        "onboard_time": 1743810317,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118112,
+        "num": 118112,
+        "word": "雅漾 樊振东",
+        "onboard_time": 1743831501,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10120,
+        "num": 118006,
+        "word": "泽连斯基要求俄罗斯支付战争赔偿",
+        "onboard_time": 1743849443,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74292,
+        "num": 117962,
+        "word": "美方关税战踢到钢板了",
+        "onboard_time": 1743843621,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117959,
+        "num": 117959,
+        "word": "乌云之上碎尸案7集5次反转",
+        "onboard_time": 1743847042,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114664,
+        "num": 114664,
+        "word": "苹果公司股价惨遭血洗",
+        "onboard_time": 1743845901,
+        "rank": 42,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 114117,
+        "num": 114117,
+        "word": "美国5美元进口矿泉水约交1美元关税",
+        "onboard_time": 1743849082,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108962,
+        "num": 108962,
+        "word": "陈赫你心里到底想的谁啊",
+        "onboard_time": 1743848361,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108383,
+        "num": 108383,
+        "word": "祝绪丹回应抽卡争议",
+        "onboard_time": 1743846201,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106843,
+        "num": 106843,
+        "word": "BLACKPINK nword",
+        "onboard_time": 1743836661,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101903,
+        "num": 101903,
+        "word": "24岁男生独自一人祭拜父母",
+        "onboard_time": 1743849141,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95726,
+        "num": 95726,
+        "word": "一家6口误食断肠草中毒入院",
+        "onboard_time": 1743848482,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91675,
+        "num": 91675,
+        "word": "女明星会有容貌焦虑吗",
+        "onboard_time": 1743849262,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}
