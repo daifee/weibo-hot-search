@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743870475536,
+  "endTime": 1743871425655,
   "band_list": [
     {
       "raw_hot": 1765989,
@@ -19,20 +19,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 524993,
-      "num": 418412,
-      "word": "够了我心疼吴宣仪",
-      "onboard_time": 1743866422,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 514398,
-      "num": 514398,
+      "raw_hot": 549416,
+      "num": 549416,
       "word": "顾客失联外卖员回药店问是不是救命药",
       "onboard_time": 1743867021,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 524993,
+      "num": 504779,
+      "word": "够了我心疼吴宣仪",
+      "onboard_time": 1743866422,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 409533,
@@ -91,6 +91,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 285185,
+      "num": 228964,
+      "word": "杨超越回复vava道歉",
+      "onboard_time": 1743867562,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284532,
       "num": 217952,
       "word": "冯小刚忍痛删掉赵丽颖狠戏",
@@ -123,6 +131,14 @@
       "category": "财经,海外新闻"
     },
     {
+      "raw_hot": 235973,
+      "num": 235973,
+      "word": "美媒曝美财长受不了荒谬的对等关税",
+      "onboard_time": 1743853941,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 229551,
       "num": 229551,
       "word": "柯淳片酬",
@@ -137,22 +153,6 @@
       "onboard_time": 1743859043,
       "rank": 16,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 222749,
-      "num": 222749,
-      "word": "美媒曝美财长受不了荒谬的对等关税",
-      "onboard_time": 1743853941,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 218319,
-      "num": 218319,
-      "word": "杨超越回复vava道歉",
-      "onboard_time": 1743867562,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 217896,
@@ -217,6 +217,14 @@
       "onboard_time": 1743858983,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130086,
+      "num": 130086,
+      "word": "GAI演唱会再唱张震岳小宇",
+      "onboard_time": 1743870860,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 129416,
@@ -307,6 +315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101802,
+      "num": 101802,
+      "word": "这些食物不适合二次加热",
+      "onboard_time": 1743869900,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 101206,
       "num": 101206,
       "word": "多方回应四川一小汽车坠河",
@@ -320,6 +336,14 @@
       "word": "杨和苏演唱会",
       "onboard_time": 1743869002,
       "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 98259,
+      "num": 98259,
+      "word": "张远点名式挽留歌迷",
+      "onboard_time": 1743870260,
+      "rank": 45,
       "category": "演出"
     },
     {
@@ -337,14 +361,6 @@
       "onboard_time": 1743846981,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 91763,
-      "num": 91763,
-      "word": "张远点名式挽留歌迷",
-      "onboard_time": 1743870260,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 89243,
@@ -371,12 +387,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83960,
-      "num": 83960,
-      "word": "这些食物不适合二次加热",
-      "onboard_time": 1743869900,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 76614,
+      "num": 234855,
+      "word": "甲亢哥吓出最新表情包",
+      "onboard_time": 1743870439,
+      "rank": 43,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 71851,
@@ -387,16 +403,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52539,
-      "num": 95873,
-      "word": "甲亢哥吓出最新表情包",
-      "onboard_time": 1743870439,
-      "rank": 43,
-      "category": "民生新闻,网红"
+      "raw_hot": 71112,
+      "num": 71112,
+      "word": "汪苏泷 怎么能这么萌",
+      "onboard_time": 1743868522,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 66718,
+      "num": 66718,
+      "word": "Hyunjun公开",
+      "onboard_time": 1743855982,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 36727,
-      "num": 424693,
+      "num": 516013,
       "word": "AI修复抗战英雄的模样",
       "onboard_time": 1743864084,
       "rank": 2,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#重温习近平总书记这些深情话语#"
+    },
+    {
+      "word": "#英雄是民族的脊梁#"
     }
   ]
 }

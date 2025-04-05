@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743870475536,
+  "endTime": 1743871425655,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -2235,6 +2235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 549416,
+      "num": 549416,
+      "word": "顾客失联外卖员回药店问是不是救命药",
+      "onboard_time": 1743867021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 548344,
       "num": 548344,
       "word": "老教授去世5年多奖学金仍年年到账",
@@ -2388,7 +2396,7 @@
     },
     {
       "raw_hot": 524993,
-      "num": 418412,
+      "num": 504779,
       "word": "够了我心疼吴宣仪",
       "onboard_time": 1743866422,
       "rank": 49,
@@ -2473,14 +2481,6 @@
       "onboard_time": 1743598702,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 514398,
-      "num": 514398,
-      "word": "顾客失联外卖员回药店问是不是救命药",
-      "onboard_time": 1743867021,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 513419,
@@ -4627,6 +4627,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 285185,
+      "num": 228964,
+      "word": "杨超越回复vava道歉",
+      "onboard_time": 1743867562,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285019,
       "num": 423031,
       "word": "华晨宇黄霄雲双方未能达成有效共识",
@@ -5801,14 +5809,6 @@
       "onboard_time": 1743462318,
       "rank": 31,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 218319,
-      "num": 218319,
-      "word": "杨超越回复vava道歉",
-      "onboard_time": 1743867562,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 218315,
@@ -10947,6 +10947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130086,
+      "num": 130086,
+      "word": "GAI演唱会再唱张震岳小宇",
+      "onboard_time": 1743870860,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129820,
       "num": 129820,
       "word": "卢昱晓茉莉花",
@@ -12795,6 +12803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101802,
+      "num": 101802,
+      "word": "这些食物不适合二次加热",
+      "onboard_time": 1743869900,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 101693,
       "num": 113225,
       "word": "粉丝cos经纪人账号被陈哲远回复",
@@ -13009,6 +13025,14 @@
       "onboard_time": 1743678022,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 98259,
+      "num": 98259,
+      "word": "张远点名式挽留歌迷",
+      "onboard_time": 1743870260,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 98224,
@@ -13305,14 +13329,6 @@
       "onboard_time": 1743859703,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91763,
-      "num": 91763,
-      "word": "张远点名式挽留歌迷",
-      "onboard_time": 1743870260,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 91675,
@@ -13651,14 +13667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83960,
-      "num": 83960,
-      "word": "这些食物不适合二次加热",
-      "onboard_time": 1743869900,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 83933,
       "num": 83933,
       "word": "费启鸣别没事拔鼻毛",
@@ -13875,6 +13883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76614,
+      "num": 234855,
+      "word": "甲亢哥吓出最新表情包",
+      "onboard_time": 1743870439,
+      "rank": 43,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 76272,
       "num": 134350,
       "word": "4层及以上住宅设电梯",
@@ -14073,6 +14089,14 @@
       "onboard_time": 1743866541,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71112,
+      "num": 71112,
+      "word": "汪苏泷 怎么能这么萌",
+      "onboard_time": 1743868522,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 70980,
@@ -14801,14 +14825,6 @@
       "onboard_time": 1743756560,
       "rank": 47,
       "category": "民生新闻,军事"
-    },
-    {
-      "raw_hot": 52539,
-      "num": 95873,
-      "word": "甲亢哥吓出最新表情包",
-      "onboard_time": 1743870439,
-      "rank": 43,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 52537,
