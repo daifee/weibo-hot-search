@@ -1,0 +1,410 @@
+{
+  "runTime": 1743842481484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1101736,
+        "num": 1176277,
+        "word": "女子整理表妹遗物发现老师性侵证据",
+        "onboard_time": 1743840562,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 745728,
+        "num": 745728,
+        "word": "房琪曾说明出圈金句为引用",
+        "onboard_time": 1743835581,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32385,
+        "num": 700025,
+        "word": "他们的牺牲值得永远铭记",
+        "onboard_time": 1743824541,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656891,
+        "num": 656891,
+        "word": "美国超市中国商品被民众抢购",
+        "onboard_time": 1743833961,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 569828,
+        "num": 569828,
+        "word": "加州州长公开发声",
+        "onboard_time": 1743839420,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 431733,
+        "num": 431733,
+        "word": "韩庚 吵架的时候不能拥抱",
+        "onboard_time": 1743838461,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416238,
+        "num": 416238,
+        "word": "女生发现杯中吸管脏成黑芝麻糊",
+        "onboard_time": 1743832220,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344816,
+        "num": 344816,
+        "word": "王星越 常驻hi6",
+        "onboard_time": 1743833001,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291787,
+        "num": 291787,
+        "word": "鞠婧祎罗云熙 和离",
+        "onboard_time": 1743828981,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134083,
+        "num": 291783,
+        "word": "他用13年从太行山背回25具烈士遗骸",
+        "onboard_time": 1743836300,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1352607,
+        "num": 288457,
+        "word": "于正公开李沐宸刘奕畅恋情",
+        "onboard_time": 1743824901,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 897017,
+        "num": 283932,
+        "word": "第一次见没轨硬出捉奸现场",
+        "onboard_time": 1743839181,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503407,
+        "num": 282119,
+        "word": "40岁王冕退圈备孕遇胎停",
+        "onboard_time": 1743834320,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257440,
+        "num": 278527,
+        "word": "6家商会发声明回应美加征关税",
+        "onboard_time": 1743820161,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294291,
+        "num": 276958,
+        "word": "BLACKPINK nword",
+        "onboard_time": 1743836661,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274371,
+        "num": 274371,
+        "word": "金子涵 退圈",
+        "onboard_time": 1743810317,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262237,
+        "num": 262237,
+        "word": "缅甸人哽咽说我们没有古建筑了",
+        "onboard_time": 1743823041,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 260476,
+        "num": 260476,
+        "word": "中方反制措施来了",
+        "onboard_time": 1743764421,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233375,
+        "num": 233375,
+        "word": "特朗普展示价值500万移民金卡",
+        "onboard_time": 1743838341,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19934,
+        "num": 222696,
+        "word": "AI数字复活服务价格几元到几十元不等",
+        "onboard_time": 1743841822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215525,
+        "num": 215525,
+        "word": "李沐宸 刘奕畅",
+        "onboard_time": 1743827962,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214444,
+        "num": 214444,
+        "word": "JDG海洋馆游来游去",
+        "onboard_time": 1743838821,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211151,
+        "num": 211151,
+        "word": "北京一房东偷拍情侣租客被判刑",
+        "onboard_time": 1743831562,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210414,
+        "num": 210414,
+        "word": "雅漾 樊振东",
+        "onboard_time": 1743831501,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166220,
+        "num": 166220,
+        "word": "戚薇 素颜出门必碰熟人",
+        "onboard_time": 1743841701,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163922,
+        "num": 163922,
+        "word": "奈夫",
+        "onboard_time": 1743837439,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155465,
+        "num": 155465,
+        "word": "没带身份证如何坐高铁",
+        "onboard_time": 1743840320,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141822,
+        "num": 141822,
+        "word": "曹颖说蒋梦婕林黛玉倒拔垂杨柳",
+        "onboard_time": 1743842301,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134589,
+        "num": 134589,
+        "word": "向阳花",
+        "onboard_time": 1743840260,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121656,
+        "num": 127868,
+        "word": "林一顶级男模",
+        "onboard_time": 1743834441,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146657,
+        "num": 127862,
+        "word": "北京母女用坚果祭奠八宝山革命公墓英烈",
+        "onboard_time": 1743840681,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127835,
+        "num": 127835,
+        "word": "林高远无缘仁川赛四强",
+        "onboard_time": 1743836240,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118313,
+        "num": 118313,
+        "word": "谢娜礼服里穿毛裤",
+        "onboard_time": 1743840562,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117529,
+        "num": 117529,
+        "word": "种地吧 林更新",
+        "onboard_time": 1743840380,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116821,
+        "num": 116821,
+        "word": "官方辟谣深圳地铁发生踩踏事故",
+        "onboard_time": 1743840320,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 112821,
+        "num": 112821,
+        "word": "iG对战FPX",
+        "onboard_time": 1743842180,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111443,
+        "num": 111443,
+        "word": "徐志胜请尊重一下我的饭碗",
+        "onboard_time": 1743841101,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109347,
+        "num": 109347,
+        "word": "老教授去世5年多奖学金仍年年到账",
+        "onboard_time": 1743827302,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106213,
+        "num": 106213,
+        "word": "王安宇吻技going我",
+        "onboard_time": 1743838100,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104248,
+        "num": 104248,
+        "word": "李昀锐 代言到期",
+        "onboard_time": 1743827061,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101632,
+        "num": 101632,
+        "word": "灯牌",
+        "onboard_time": 1743837141,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101245,
+        "num": 101245,
+        "word": "IZONE解散后崔叡娜首个演唱会",
+        "onboard_time": 1743841999,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100001,
+        "num": 100001,
+        "word": "特朗普去打高尔夫",
+        "onboard_time": 1743842180,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96209,
+        "num": 96209,
+        "word": "刘昊然大年初一骑摩托当闪送",
+        "onboard_time": 1743842301,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95793,
+        "num": 95793,
+        "word": "张檬晒孕肚照",
+        "onboard_time": 1743829402,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92740,
+        "num": 92740,
+        "word": "将台湾标注为国家问题地图入境被查",
+        "onboard_time": 1743824961,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90206,
+        "num": 90206,
+        "word": "小车撞起火司机昏迷众人破窗救人",
+        "onboard_time": 1743830302,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 90109,
+        "num": 90109,
+        "word": "张凌赫田曦薇孔雪儿同框路透",
+        "onboard_time": 1743837982,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89583,
+        "num": 89583,
+        "word": "管乐笑的好勉强",
+        "onboard_time": 1743831921,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89428,
+        "num": 89428,
+        "word": "回顾孙颖莎奥运正手一击制胜",
+        "onboard_time": 1743835101,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#清明念英烈#"
+    }
+  }
+}

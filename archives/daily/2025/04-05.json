@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743841688847,
+  "endTime": 1743842481484,
   "band_list": [
     {
       "raw_hot": 2476139,
@@ -91,6 +91,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1101736,
+      "num": 1176277,
+      "word": "女子整理表妹遗物发现老师性侵证据",
+      "onboard_time": 1743840562,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1051556,
       "num": 1168249,
       "word": "吴宣仪情商",
@@ -131,20 +139,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 897017,
+      "num": 322213,
+      "word": "第一次见没轨硬出捉奸现场",
+      "onboard_time": 1743839181,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 883562,
       "num": 343665,
       "word": "李沐宸 刘奕畅",
       "onboard_time": 1743827962,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 877831,
-      "num": 322213,
-      "word": "第一次见没轨硬出捉奸现场",
-      "onboard_time": 1743839181,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 873983,
@@ -251,14 +259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 539138,
-      "num": 539138,
-      "word": "女子整理表妹遗物发现老师性侵证据",
-      "onboard_time": 1743840562,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 523674,
       "num": 413268,
       "word": "面筋哥生前后悔出名宁做普通人",
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431733,
+      "num": 431733,
+      "word": "韩庚 吵架的时候不能拥抱",
+      "onboard_time": 1743838461,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424816,
       "num": 336777,
       "word": "蒙古国发现汉朝士兵遗骸",
@@ -361,14 +369,6 @@
       "onboard_time": 1743821060,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 396807,
-      "num": 396807,
-      "word": "韩庚 吵架的时候不能拥抱",
-      "onboard_time": 1743838461,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 394893,
@@ -587,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233375,
+      "num": 233375,
+      "word": "特朗普展示价值500万移民金卡",
+      "onboard_time": 1743838341,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 226801,
       "num": 226801,
       "word": "美股纳指进入熊市",
@@ -651,12 +659,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213898,
-      "num": 213898,
-      "word": "特朗普展示价值500万移民金卡",
-      "onboard_time": 1743838341,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 214444,
+      "num": 214444,
+      "word": "JDG海洋馆游来游去",
+      "onboard_time": 1743838821,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 211577,
@@ -923,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166220,
+      "num": 166220,
+      "word": "戚薇 素颜出门必碰熟人",
+      "onboard_time": 1743841701,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166039,
       "num": 166039,
       "word": "巴布亚新几内亚7级地震",
@@ -937,6 +953,14 @@
       "onboard_time": 1743822380,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163922,
+      "num": 163922,
+      "word": "奈夫",
+      "onboard_time": 1743837439,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 162900,
@@ -1011,6 +1035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 155465,
+      "num": 155465,
+      "word": "没带身份证如何坐高铁",
+      "onboard_time": 1743840320,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154262,
       "num": 154262,
       "word": "王安宇吻技going我",
@@ -1051,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148794,
-      "num": 148794,
-      "word": "奈夫",
-      "onboard_time": 1743837439,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 148571,
       "num": 148571,
       "word": "如鸢新密探",
@@ -1083,11 +1107,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 146895,
-      "num": 146895,
-      "word": "没带身份证如何坐高铁",
-      "onboard_time": 1743840320,
-      "rank": 25,
+      "raw_hot": 146657,
+      "num": 127862,
+      "word": "北京母女用坚果祭奠八宝山革命公墓英烈",
+      "onboard_time": 1743840681,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1113,6 +1137,14 @@
       "onboard_time": 1743840260,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141822,
+      "num": 141822,
+      "word": "曹颖说蒋梦婕林黛玉倒拔垂杨柳",
+      "onboard_time": 1743842301,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 140522,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1743825020,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134083,
+      "num": 323711,
+      "word": "他用13年从太行山背回25具烈士遗骸",
+      "onboard_time": 1743836300,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133509,
@@ -1339,14 +1379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122756,
-      "num": 122756,
-      "word": "北京母女用坚果祭奠八宝山革命公墓英烈",
-      "onboard_time": 1743840681,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120757,
       "num": 120757,
       "word": "英国王查尔斯用胡萝卜演奏儿歌",
@@ -1377,6 +1409,14 @@
       "onboard_time": 1743825921,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117529,
+      "num": 117529,
+      "word": "种地吧 林更新",
+      "onboard_time": 1743840380,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 117491,
@@ -1473,6 +1513,14 @@
       "onboard_time": 1743783140,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112821,
+      "num": 112821,
+      "word": "iG对战FPX",
+      "onboard_time": 1743842180,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 112419,
@@ -1579,20 +1627,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103501,
-      "num": 103501,
-      "word": "种地吧 林更新",
-      "onboard_time": 1743840380,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 101245,
+      "num": 101245,
+      "word": "IZONE解散后崔叡娜首个演唱会",
+      "onboard_time": 1743841999,
+      "rank": 41,
+      "category": "演出"
     },
     {
-      "raw_hot": 101376,
-      "num": 323711,
-      "word": "他用13年从太行山背回25具烈士遗骸",
-      "onboard_time": 1743836300,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 100001,
+      "num": 100001,
+      "word": "特朗普去打高尔夫",
+      "onboard_time": 1743842180,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99819,
@@ -1625,6 +1673,14 @@
       "onboard_time": 1743834983,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 96209,
+      "num": 96209,
+      "word": "刘昊然大年初一骑摩托当闪送",
+      "onboard_time": 1743842301,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 95874,
@@ -1745,14 +1801,6 @@
       "onboard_time": 1743830362,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 80952,
-      "num": 147519,
-      "word": "JDG海洋馆游来游去",
-      "onboard_time": 1743838821,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 80120,
@@ -2068,7 +2116,7 @@
     },
     {
       "raw_hot": 34938,
-      "num": 597562,
+      "num": 700025,
       "word": "他们的牺牲值得永远铭记",
       "onboard_time": 1743824541,
       "rank": 2,
@@ -2161,6 +2209,14 @@
       "onboard_time": 1743830781,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19934,
+      "num": 222696,
+      "word": "AI数字复活服务价格几元到几十元不等",
+      "onboard_time": 1743841822,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17673,
