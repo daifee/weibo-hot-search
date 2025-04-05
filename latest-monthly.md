@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/06 06:39:27
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/06 07:23:24
 </p>
 </blockquote>
 <p>
@@ -2031,6 +2031,12 @@ SM新男团（热度：491910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E6%8F%90%E9%86%92%E6%B0%91%E4%BC%97%E5%9B%A4%E8%B4%A7%23" target="weibo">
+美国亿万富翁提醒民众囤货（热度：479456）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%B7%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%B9%B030%E4%B8%87%E9%BB%84%E9%87%91%E8%BD%AC%E6%89%8B%E8%B5%9A%E6%95%B0%E4%B8%87%23" target="weibo">
 刷信用卡买30万黄金转手赚数万（热度：478613）
 </a>
@@ -3015,14 +3021,14 @@ Uzi妻子宣布胜诉（热度：341626）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%AB%98%E4%BD%8D%E8%B7%B3%E6%B0%B4%E4%BA%86%23" target="weibo">
-国际金价高位跳水了（热度：330527）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E5%B0%A7%E5%9B%9E%E5%BA%94%E7%BB%93%E5%A9%9A%E4%BA%89%E8%AE%AE%23" target="weibo">
+洪尧回应结婚争议（热度：331493）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E6%8F%90%E9%86%92%E6%B0%91%E4%BC%97%E5%9B%A4%E8%B4%A7%23" target="weibo">
-美国亿万富翁提醒民众囤货（热度：329869）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%AB%98%E4%BD%8D%E8%B7%B3%E6%B0%B4%E4%BA%86%23" target="weibo">
+国际金价高位跳水了（热度：330527）
 </a>
 </li>
 
@@ -3527,12 +3533,6 @@ deepseek对许嵩作词甘拜下风（热度：294331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E8%87%AA%E5%A6%82%E7%A7%9F%E6%88%BF5%E5%B9%B4%E5%A6%BB%E5%AD%90%E5%A4%9A%E9%A1%B9%E6%8C%87%E6%A0%87%E5%BC%82%E5%B8%B8%23" target="weibo">
 夫妻自如租房5年妻子多项指标异常（热度：281953）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E5%B0%A7%E5%9B%9E%E5%BA%94%E7%BB%93%E5%A9%9A%E4%BA%89%E8%AE%AE%23" target="weibo">
-洪尧回应结婚争议（热度：281897）
 </a>
 </li>
 

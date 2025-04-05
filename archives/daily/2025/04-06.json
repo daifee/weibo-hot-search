@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743892767401,
+  "endTime": 1743895404397,
   "band_list": [
     {
       "raw_hot": 1765989,
@@ -33,6 +33,14 @@
       "onboard_time": 1743866422,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 479456,
+      "num": 785115,
+      "word": "美国亿万富翁提醒民众囤货",
+      "onboard_time": 1743867021,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 426074,
@@ -75,20 +83,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 331493,
+      "num": 166298,
+      "word": "洪尧回应结婚争议",
+      "onboard_time": 1743870560,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331473,
       "num": 303802,
       "word": "刘奕畅 我的女主",
       "onboard_time": 1743866783,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 329869,
-      "num": 481866,
-      "word": "美国亿万富翁提醒民众囤货",
-      "onboard_time": 1743867021,
-      "rank": 5,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 291988,
@@ -105,14 +113,6 @@
       "onboard_time": 1743846500,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 281897,
-      "num": 166298,
-      "word": "洪尧回应结婚争议",
-      "onboard_time": 1743870560,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 270886,
@@ -195,6 +195,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 195599,
+      "num": 145069,
+      "word": "伊能静否认与秦昊各过各的",
+      "onboard_time": 1743861324,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168579,
       "num": 168579,
       "word": "邓超gogogo出发喽",
@@ -217,14 +225,6 @@
       "onboard_time": 1743873438,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145069,
-      "num": 145069,
-      "word": "伊能静否认与秦昊各过各的",
-      "onboard_time": 1743861324,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 140250,
@@ -323,6 +323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 112247,
+      "num": 101802,
+      "word": "这些食物不适合二次加热",
+      "onboard_time": 1743869900,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111669,
       "num": 111669,
       "word": "房琪回复叶童",
@@ -353,14 +361,6 @@
       "onboard_time": 1743868701,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 101802,
-      "num": 101802,
-      "word": "这些食物不适合二次加热",
-      "onboard_time": 1743869900,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 101206,
@@ -435,6 +435,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78747,
+      "num": 78747,
+      "word": "女生被前男友杀害5年后仍无法安葬",
+      "onboard_time": 1743848301,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71930,
+      "num": 71930,
+      "word": "夫妻摆摊7年还30多万债务修复信用",
+      "onboard_time": 1743861383,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71851,
       "num": 217989,
       "word": "柯淳那双眼看酸奶都深情",
@@ -467,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63597,
+      "num": 63597,
+      "word": "胖东来起诉博主两个小段",
+      "onboard_time": 1743894737,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57909,
       "num": 57909,
       "word": "敖瑞鹏说自己是白鹿的掌中宝",
@@ -475,28 +499,52 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42558,
-      "num": 47892,
-      "word": "女生被前男友杀害5年后仍无法安葬",
-      "onboard_time": 1743848301,
+      "raw_hot": 54373,
+      "num": 54373,
+      "word": "健身房更衣室成不法交易地",
+      "onboard_time": 1743857241,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 51034,
+      "num": 51034,
+      "word": "金饰价格2天大跌32元",
+      "onboard_time": 1743882915,
       "rank": 46,
-      "category": "民生新闻"
+      "category": "财经"
+    },
+    {
+      "raw_hot": 50772,
+      "num": 50772,
+      "word": "董宇辉 人是被成就感所驱使的动物",
+      "onboard_time": 1743891194,
+      "rank": 46,
+      "category": "互联网,情感"
+    },
+    {
+      "raw_hot": 47777,
+      "num": 47777,
+      "word": "Ning怒喷Cat",
+      "onboard_time": 1743895217,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 41873,
-      "num": 41873,
+      "num": 46828,
       "word": "江苏发出一张信用修复证明书",
       "onboard_time": 1743880395,
       "rank": 20,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38421,
-      "num": 38421,
-      "word": "夫妻摆摊7年还30多万债务修复信用",
-      "onboard_time": 1743861383,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 37369,
+      "num": 46858,
+      "word": "三里屯偶遇吴宣仪VaVa",
+      "onboard_time": 1743894497,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 36727,
@@ -505,6 +553,14 @@
       "onboard_time": 1743864084,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36718,
+      "num": 46812,
+      "word": "中方反制美方对等关税有理更有力",
+      "onboard_time": 1743893536,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34200,
@@ -539,28 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25434,
-      "num": 27346,
-      "word": "金饰价格2天大跌32元",
-      "onboard_time": 1743882915,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 25096,
       "num": 29368,
       "word": "哪吒敖丙hi6打卡vlog",
       "onboard_time": 1743877335,
       "rank": 47,
       "category": "综艺,电影"
-    },
-    {
-      "raw_hot": 25095,
-      "num": 27345,
-      "word": "董宇辉 人是被成就感所驱使的动物",
-      "onboard_time": 1743891194,
-      "rank": 46,
-      "category": "互联网,情感"
     },
     {
       "raw_hot": 24671,
@@ -577,6 +617,14 @@
       "onboard_time": 1743878355,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23010,
+      "num": 46746,
+      "word": "周子瑜回应网上觉得自己脸变了的传闻",
+      "onboard_time": 1743894796,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 17206,
@@ -603,8 +651,24 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 3987,
-      "num": 151606,
+      "raw_hot": 11780,
+      "num": 92459,
+      "word": "缅甸地震已致3455死4840伤",
+      "onboard_time": 1743894977,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8822,
+      "num": 46764,
+      "word": "美民众担忧物价上涨狂囤大件",
+      "onboard_time": 1743895338,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 7549,
+      "num": 282155,
       "word": "清明上河图奇妙游",
       "onboard_time": 1743816920,
       "rank": 2,
