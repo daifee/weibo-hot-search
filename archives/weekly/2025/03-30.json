@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743835473734,
+  "endTime": 1743837697768,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -691,6 +691,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1370823,
+      "num": 1370823,
+      "word": "房琪曾说明出圈金句为引用",
+      "onboard_time": 1743835581,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1365473,
       "num": 406162,
       "word": "李惠利不鼓掌事件后被换角",
@@ -977,6 +985,14 @@
       "onboard_time": 1743425964,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1145886,
+      "num": 1145886,
+      "word": "女生发现杯中吸管脏成黑芝麻糊",
+      "onboard_time": 1743832220,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1143523,
@@ -1371,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 957342,
+      "num": 390954,
+      "word": "40岁王冕退圈备孕遇胎停",
+      "onboard_time": 1743834320,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 954849,
       "num": 954849,
       "word": "河北一地拟取消老年人免费乘公交",
@@ -1569,6 +1593,14 @@
       "onboard_time": 1743382341,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 873983,
+      "num": 873983,
+      "word": "美国超市中国商品被民众抢购",
+      "onboard_time": 1743833961,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 872047,
@@ -1776,14 +1808,6 @@
       "word": "孤独症男孩因高颜值走红妈妈发声",
       "onboard_time": 1743590722,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 801631,
-      "num": 801631,
-      "word": "女生发现杯中吸管脏成黑芝麻糊",
-      "onboard_time": 1743832220,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -2217,14 +2241,6 @@
       "onboard_time": 1743465921,
       "rank": 16,
       "category": "国际时政,国际时政"
-    },
-    {
-      "raw_hot": 650580,
-      "num": 390954,
-      "word": "40岁王冕退圈备孕遇胎停",
-      "onboard_time": 1743834320,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 647973,
@@ -3321,14 +3337,6 @@
       "onboard_time": 1743422423,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 485610,
-      "num": 485610,
-      "word": "美国超市中国商品被民众抢购",
-      "onboard_time": 1743833961,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 485118,
@@ -4819,6 +4827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 350435,
+      "num": 350435,
+      "word": "林高远无缘仁川赛四强",
+      "onboard_time": 1743836240,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350288,
       "num": 233240,
       "word": "戚薇宋仲基同框",
@@ -4833,6 +4849,14 @@
       "onboard_time": 1743756982,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349413,
+      "num": 349413,
+      "word": "雅漾 樊振东",
+      "onboard_time": 1743831501,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 349365,
@@ -5163,6 +5187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 328084,
+      "num": 328084,
+      "word": "甲亢哥深圳直播",
+      "onboard_time": 1743835641,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 327288,
       "num": 327288,
       "word": "倪妮瑞士被偶遇",
@@ -5409,14 +5441,6 @@
       "onboard_time": 1743475462,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 312302,
-      "num": 312302,
-      "word": "雅漾 樊振东",
-      "onboard_time": 1743831501,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 311781,
@@ -7155,6 +7179,14 @@
       "category": "民生新闻,母婴育儿"
     },
     {
+      "raw_hot": 228209,
+      "num": 228209,
+      "word": "BLACKPINK nword",
+      "onboard_time": 1743836661,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228182,
       "num": 228182,
       "word": "周震南正式确诊为啧震南",
@@ -8843,6 +8875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194717,
+      "num": 157556,
+      "word": "灯牌",
+      "onboard_time": 1743837141,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194063,
       "num": 211072,
       "word": "郭德纲说我演不过秦霄贤",
@@ -9585,6 +9625,14 @@
       "onboard_time": 1743597624,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183866,
+      "num": 153335,
+      "word": "两个恋爱脑谈恋爱就不算恋爱脑",
+      "onboard_time": 1743836601,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 183799,
@@ -11009,6 +11057,14 @@
       "onboard_time": 1743387621,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162900,
+      "num": 162900,
+      "word": "中国对美全面加征关税释放的信号",
+      "onboard_time": 1743833541,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 162874,
@@ -12619,6 +12675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144612,
+      "num": 144612,
+      "word": "建议身弱之人把人设搞崩",
+      "onboard_time": 1743832641,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144564,
       "num": 171395,
       "word": "王安宇抹布文学",
@@ -13089,14 +13153,6 @@
       "onboard_time": 1743489384,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139868,
-      "num": 139868,
-      "word": "建议身弱之人把人设搞崩",
-      "onboard_time": 1743832641,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 139579,
@@ -13867,6 +13923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131884,
+      "num": 350437,
+      "word": "回顾孙颖莎奥运正手一击制胜",
+      "onboard_time": 1743835101,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131833,
       "num": 139207,
       "word": "外交部回应美欧日等指责中方联合演训",
@@ -14121,6 +14185,14 @@
       "onboard_time": 1743559341,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 129116,
+      "num": 129116,
+      "word": "林高远2比4李尚洙",
+      "onboard_time": 1743836542,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 129061,
@@ -14649,6 +14721,14 @@
       "onboard_time": 1743592824,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122883,
+      "num": 122883,
+      "word": "宋妍霏组舞娘拿到superA",
+      "onboard_time": 1743836121,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 122755,
@@ -15443,14 +15523,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 114255,
-      "num": 144475,
-      "word": "中国对美全面加征关税释放的信号",
-      "onboard_time": 1743833541,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 114130,
       "num": 685103,
       "word": "月球上有35个以中国元素命名的地名",
@@ -16163,6 +16235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105194,
+      "num": 105194,
+      "word": "TFING演唱会出图",
+      "onboard_time": 1743835880,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105185,
       "num": 105185,
       "word": "张家界落叶",
@@ -16273,6 +16353,14 @@
       "onboard_time": 1743334221,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104155,
+      "num": 104155,
+      "word": "邓佳鑫大屏",
+      "onboard_time": 1743837620,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 104031,
@@ -16465,6 +16553,14 @@
       "onboard_time": 1743464480,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101233,
+      "num": 101233,
+      "word": "穆祉丞舞台路透",
+      "onboard_time": 1743837561,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 101169,
@@ -16691,6 +16787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98151,
+      "num": 98151,
+      "word": "奈夫",
+      "onboard_time": 1743837439,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 98081,
       "num": 98081,
       "word": "金泰亨站姐拍的张婧仪",
@@ -16761,14 +16865,6 @@
       "onboard_time": 1743471922,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 97383,
-      "num": 97383,
-      "word": "回顾孙颖莎奥运正手一击制胜",
-      "onboard_time": 1743835101,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 97192,
@@ -18308,7 +18404,7 @@
     },
     {
       "raw_hot": 65094,
-      "num": 835000,
+      "num": 988759,
       "word": "被网友写给烈士的话戳到了",
       "onboard_time": 1743825141,
       "rank": 2,
@@ -19241,6 +19337,14 @@
       "onboard_time": 1743273495,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46765,
+      "num": 161253,
+      "word": "钎城黑框眼镜四连拍",
+      "onboard_time": 1743836782,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 46481,
