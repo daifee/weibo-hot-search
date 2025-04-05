@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743849655598,
+  "endTime": 1743851950632,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1003,12 +1003,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 971129,
+      "num": 971129,
+      "word": "冯小刚忍痛删掉赵丽颖狠戏",
+      "onboard_time": 1743846500,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 969690,
       "num": 969690,
       "word": "甜馨时隔十年再发新曲",
       "onboard_time": 1743658042,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 968479,
+      "num": 968479,
+      "word": "vava发博向杨超越道歉",
+      "onboard_time": 1743850100,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 963523,
@@ -1339,14 +1355,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 816804,
-      "num": 816804,
-      "word": "冯小刚忍痛删掉赵丽颖狠戏",
-      "onboard_time": 1743846500,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 809729,
       "num": 809729,
       "word": "英雄联盟改名大乱斗联盟",
@@ -1579,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 694527,
+      "num": 252238,
+      "word": "女生被前男友杀害5年后仍无法安葬",
+      "onboard_time": 1743848301,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 693434,
       "num": 693434,
       "word": "缅甸两女孩废墟里教科书式自救成功",
@@ -1627,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 665224,
+      "num": 335095,
+      "word": "种地吧",
+      "onboard_time": 1743655763,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 661013,
       "num": 553466,
       "word": "唐鹤德 谁能代替你地位",
@@ -1665,6 +1689,14 @@
       "onboard_time": 1743670762,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 644153,
+      "num": 287489,
+      "word": "房琪回复叶童",
+      "onboard_time": 1743850822,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 643831,
@@ -2003,6 +2035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 568957,
+      "num": 233740,
+      "word": "叶童说不要放大房琪的话",
+      "onboard_time": 1743851603,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 568057,
       "num": 383786,
       "word": "小狗coco去世",
@@ -2048,6 +2088,14 @@
       "word": "37岁曹璐签新公司再闯韩娱",
       "onboard_time": 1743496403,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 554020,
+      "num": 231351,
+      "word": "十个勤天直播",
+      "onboard_time": 1743851423,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -2361,6 +2409,14 @@
       "onboard_time": 1743635298,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 503462,
+      "num": 230047,
+      "word": "吃火锅偶遇郑秀晶",
+      "onboard_time": 1743849443,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 499559,
@@ -3659,14 +3715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 335095,
-      "num": 335095,
-      "word": "种地吧",
-      "onboard_time": 1743655763,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 334731,
       "num": 334731,
       "word": "周雨说孙颖莎影响力太大了",
@@ -4281,14 +4329,6 @@
       "onboard_time": 1743480565,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 287656,
-      "num": 252238,
-      "word": "女生被前男友杀害5年后仍无法安葬",
-      "onboard_time": 1743848301,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286972,
@@ -5267,6 +5307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223670,
+      "num": 223670,
+      "word": "全红婵18岁后首秀再现水花消失术",
+      "onboard_time": 1743848121,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223014,
       "num": 223014,
       "word": "减肥建议不要长期跳绳",
@@ -5329,6 +5377,14 @@
       "onboard_time": 1743810138,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220369,
+      "num": 220369,
+      "word": "饿瘦和运动瘦差别",
+      "onboard_time": 1743846981,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 220317,
@@ -5899,14 +5955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204552,
-      "num": 204552,
-      "word": "吃火锅偶遇郑秀晶",
-      "onboard_time": 1743849443,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204497,
       "num": 274406,
       "word": "Switch2",
@@ -6112,14 +6160,6 @@
       "word": "王楚钦太优秀了",
       "onboard_time": 1743583223,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 199482,
-      "num": 199482,
-      "word": "全红婵18岁后首秀再现水花消失术",
-      "onboard_time": 1743848121,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -6329,6 +6369,14 @@
       "onboard_time": 1743657442,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195239,
+      "num": 195239,
+      "word": "周杰伦骑驴上楼梯好像在拍MV",
+      "onboard_time": 1743850942,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 195220,
@@ -7307,6 +7355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178491,
+      "num": 178491,
+      "word": "马思纯费启鸣跳了troublemaker",
+      "onboard_time": 1743850162,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178084,
       "num": 178084,
       "word": "棋士反转",
@@ -7433,14 +7489,6 @@
       "onboard_time": 1743643880,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175469,
-      "num": 175469,
-      "word": "饿瘦和运动瘦差别",
-      "onboard_time": 1743846981,
-      "rank": 22,
-      "category": "运动健身"
     },
     {
       "raw_hot": 175414,
@@ -7891,6 +7939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166452,
+      "num": 166452,
+      "word": "华晨宇今晚cos",
+      "onboard_time": 1743851182,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166360,
       "num": 166360,
       "word": "囚于永夜实体书",
@@ -8251,6 +8307,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 159483,
+      "num": 159483,
+      "word": "时代少年团抵达阿鲁沙",
+      "onboard_time": 1743850581,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159475,
       "num": 159475,
       "word": "清明假期第2天",
@@ -8411,6 +8475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155919,
+      "num": 240085,
+      "word": "官方通报一职工被强制送医治疗",
+      "onboard_time": 1743847942,
+      "rank": 32,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 155825,
       "num": 234113,
       "word": "张艺兴旁白讲述不能被遗忘的人",
@@ -8459,6 +8531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155084,
+      "num": 155084,
+      "word": "蒲熠星音乐节",
+      "onboard_time": 1743850642,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155004,
       "num": 155004,
       "word": "国产剧破案题材女主只打高端局",
@@ -8505,6 +8585,14 @@
       "onboard_time": 1743838100,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154182,
+      "num": 154182,
+      "word": "田曦薇小猫落泪",
+      "onboard_time": 1743851122,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 153972,
@@ -8577,6 +8665,14 @@
       "onboard_time": 1743639742,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153284,
+      "num": 153284,
+      "word": "宋妍霏说了两遍你是马吟吟",
+      "onboard_time": 1743850462,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 153229,
@@ -9499,6 +9595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139671,
+      "num": 139671,
+      "word": "董宇辉用周杰伦歌词科普",
+      "onboard_time": 1743851723,
+      "rank": 34,
+      "category": "艺人,网红"
+    },
+    {
       "raw_hot": 139579,
       "num": 211023,
       "word": "黄轩宋仲基同框",
@@ -9561,14 +9665,6 @@
       "onboard_time": 1743741922,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 138520,
-      "num": 138520,
-      "word": "官方通报一职工被强制送医治疗",
-      "onboard_time": 1743847942,
-      "rank": 32,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 138394,
@@ -9936,6 +10032,14 @@
       "word": "东部战区位台岛周边联演",
       "onboard_time": 1743468385,
       "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 134033,
+      "num": 134033,
+      "word": "台军回应大批战机异常起降",
+      "onboard_time": 1743850283,
+      "rank": 35,
       "category": "国内时政"
     },
     {
@@ -10587,6 +10691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124565,
+      "num": 159051,
+      "word": "iG战胜FPX",
+      "onboard_time": 1743849684,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124343,
       "num": 124343,
       "word": "CBA常规赛最佳阵容",
@@ -10625,6 +10737,14 @@
       "onboard_time": 1743499702,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123976,
+      "num": 123976,
+      "word": "24岁男生独自一人祭拜父母",
+      "onboard_time": 1743849141,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123566,
@@ -10817,6 +10937,14 @@
       "onboard_time": 1743557302,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120499,
+      "num": 120499,
+      "word": "一家6口误食断肠草中毒入院",
+      "onboard_time": 1743848482,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120324,
@@ -11707,6 +11835,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 105777,
+      "num": 240597,
+      "word": "王艺迪vs申裕斌",
+      "onboard_time": 1743848543,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105681,
       "num": 105681,
       "word": "18岁禁毒战士与毒贩搏斗坠入瑞丽江",
@@ -11827,6 +11963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104012,
+      "num": 104012,
+      "word": "劝大家远离4种低质量社交",
+      "onboard_time": 1743851544,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103982,
       "num": 103982,
       "word": "一人一句缅怀先烈",
@@ -11840,6 +11984,14 @@
       "word": "卡琳娜实力",
       "onboard_time": 1743834501,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103687,
+      "num": 103687,
+      "word": "种地吧今晚准备吃烤串儿",
+      "onboard_time": 1743850221,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -11889,14 +12041,6 @@
       "onboard_time": 1743744261,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101903,
-      "num": 101903,
-      "word": "24岁男生独自一人祭拜父母",
-      "onboard_time": 1743849141,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101693,
@@ -12041,6 +12185,14 @@
       "onboard_time": 1743816800,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99099,
+      "num": 221848,
+      "word": "王艺迪4比1申裕斌",
+      "onboard_time": 1743851182,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 98997,
@@ -12225,14 +12377,6 @@
       "onboard_time": 1743731361,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95726,
-      "num": 95726,
-      "word": "一家6口误食断肠草中毒入院",
-      "onboard_time": 1743848482,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94689,
@@ -12745,14 +12889,6 @@
       "onboard_time": 1743692483,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82477,
-      "num": 240597,
-      "word": "王艺迪vs申裕斌",
-      "onboard_time": 1743848543,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 82034,
@@ -14308,7 +14444,7 @@
     },
     {
       "raw_hot": 38094,
-      "num": 782570,
+      "num": 969400,
       "word": "垂直视角看多彩神州大地",
       "onboard_time": 1743846021,
       "rank": 2,
