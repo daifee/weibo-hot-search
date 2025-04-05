@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743838628802,
+  "endTime": 1743841688847,
   "band_list": [
     {
       "raw_hot": 2476139,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 877831,
+      "num": 322213,
+      "word": "第一次见没轨硬出捉奸现场",
+      "onboard_time": 1743839181,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 873983,
       "num": 873983,
       "word": "美国超市中国商品被民众抢购",
@@ -211,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 574361,
+      "num": 574361,
+      "word": "加州州长公开发声",
+      "onboard_time": 1743839420,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 559747,
       "num": 427256,
       "word": "美国运动员下跪拒与跨性别者比赛",
@@ -233,6 +249,14 @@
       "onboard_time": 1743825921,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 539138,
+      "num": 539138,
+      "word": "女子整理表妹遗物发现老师性侵证据",
+      "onboard_time": 1743840562,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 523674,
@@ -339,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 396807,
+      "num": 396807,
+      "word": "韩庚 吵架的时候不能拥抱",
+      "onboard_time": 1743838461,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394893,
       "num": 394893,
       "word": "女儿遇害后男子遭近40万遗体保存费",
@@ -427,8 +459,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 320855,
-      "num": 281362,
+      "raw_hot": 324614,
+      "num": 320853,
       "word": "BLACKPINK nword",
       "onboard_time": 1743836661,
       "rank": 18,
@@ -617,6 +649,14 @@
       "onboard_time": 1743822620,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213898,
+      "num": 213898,
+      "word": "特朗普展示价值500万移民金卡",
+      "onboard_time": 1743838341,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 211577,
@@ -1011,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148794,
+      "num": 148794,
+      "word": "奈夫",
+      "onboard_time": 1743837439,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 148571,
       "num": 148571,
       "word": "如鸢新密探",
@@ -1035,6 +1083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146895,
+      "num": 146895,
+      "word": "没带身份证如何坐高铁",
+      "onboard_time": 1743840320,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146151,
       "num": 146151,
       "word": "尹锡悦被罢免总统职务",
@@ -1049,6 +1105,14 @@
       "onboard_time": 1743832641,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142766,
+      "num": 142766,
+      "word": "向阳花",
+      "onboard_time": 1743840260,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 140522,
@@ -1075,14 +1139,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 137659,
-      "num": 137659,
-      "word": "奈夫",
-      "onboard_time": 1743837439,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 136678,
       "num": 136678,
       "word": "白鹿双马尾贝雷帽",
@@ -1097,6 +1153,14 @@
       "onboard_time": 1743827780,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135331,
+      "num": 135331,
+      "word": "官方辟谣深圳地铁发生踩踏事故",
+      "onboard_time": 1743840320,
+      "rank": 31,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 135205,
@@ -1259,12 +1323,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 123552,
+      "num": 136012,
+      "word": "谢娜礼服里穿毛裤",
+      "onboard_time": 1743840562,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123135,
       "num": 123135,
       "word": "jayjay公开",
       "onboard_time": 1743765561,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122756,
+      "num": 122756,
+      "word": "北京母女用坚果祭奠八宝山革命公墓英烈",
+      "onboard_time": 1743840681,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120757,
@@ -1355,11 +1435,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116002,
-      "num": 116002,
-      "word": "韩庚 吵架的时候不能拥抱",
-      "onboard_time": 1743838461,
-      "rank": 40,
+      "raw_hot": 115487,
+      "num": 115487,
+      "word": "徐志胜请尊重一下我的饭碗",
+      "onboard_time": 1743841101,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1369,6 +1449,14 @@
       "onboard_time": 1743837561,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113392,
+      "num": 113392,
+      "word": "维斯塔潘夺F1日本站杆位",
+      "onboard_time": 1743840860,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 113290,
@@ -1489,6 +1577,22 @@
       "onboard_time": 1743834501,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103501,
+      "num": 103501,
+      "word": "种地吧 林更新",
+      "onboard_time": 1743840380,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101376,
+      "num": 323711,
+      "word": "他用13年从太行山背回25具烈士遗骸",
+      "onboard_time": 1743836300,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99819,
@@ -1619,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82034,
+      "num": 82034,
+      "word": "时代峰峻无限音乐会",
+      "onboard_time": 1743839600,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 81852,
       "num": 305560,
       "word": "南京海关查获12幅问题地图",
@@ -1633,6 +1745,14 @@
       "onboard_time": 1743830362,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 80952,
+      "num": 147519,
+      "word": "JDG海洋馆游来游去",
+      "onboard_time": 1743838821,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 80120,
@@ -1939,6 +2059,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35834,
+      "num": 108972,
+      "word": "甲亢哥体验水上行驶",
+      "onboard_time": 1743840802,
+      "rank": 39,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 34938,
+      "num": 597562,
+      "word": "他们的牺牲值得永远铭记",
+      "onboard_time": 1743824541,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34780,
       "num": 46933,
       "word": "杜邦",
@@ -2000,14 +2136,6 @@
       "word": "尹锡悦失去总统退休金等待遇",
       "onboard_time": 1743808337,
       "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 23352,
-      "num": 122979,
-      "word": "特朗普展示价值500万移民金卡",
-      "onboard_time": 1743838341,
-      "rank": 39,
       "category": "国际时政"
     },
     {
@@ -2096,14 +2224,6 @@
       "word": "时隔50年带戍边战友回家",
       "onboard_time": 1743796694,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10002,
-      "num": 597562,
-      "word": "他们的牺牲值得永远铭记",
-      "onboard_time": 1743824541,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

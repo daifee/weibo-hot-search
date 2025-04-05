@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743838628802,
+  "endTime": 1743841688847,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1579,6 +1579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 877831,
+      "num": 322213,
+      "word": "第一次见没轨硬出捉奸现场",
+      "onboard_time": 1743839181,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 876695,
       "num": 876695,
       "word": "IU说雪莉是最漂亮的人",
@@ -2771,6 +2779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 574361,
+      "num": 574361,
+      "word": "加州州长公开发声",
+      "onboard_time": 1743839420,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 571754,
       "num": 571754,
       "word": "妹妹刷缅甸救援视频认出姐姐的手",
@@ -2985,6 +3001,14 @@
       "onboard_time": 1743773662,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 539138,
+      "num": 539138,
+      "word": "女子整理表妹遗物发现老师性侵证据",
+      "onboard_time": 1743840562,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 539116,
@@ -4227,6 +4251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 396807,
+      "num": 396807,
+      "word": "韩庚 吵架的时候不能拥抱",
+      "onboard_time": 1743838461,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396396,
       "num": 396396,
       "word": "孤独症男孩吹奏好想爱这个世界啊",
@@ -5235,6 +5267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 324614,
+      "num": 320853,
+      "word": "BLACKPINK nword",
+      "onboard_time": 1743836661,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 324284,
       "num": 324284,
       "word": "老人因缺水一辈子只洗3次脸",
@@ -5313,14 +5353,6 @@
       "onboard_time": 1743431064,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320855,
-      "num": 281362,
-      "word": "BLACKPINK nword",
-      "onboard_time": 1743836661,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 320820,
@@ -7649,6 +7681,14 @@
       "onboard_time": 1743576863,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213898,
+      "num": 213898,
+      "word": "特朗普展示价值500万移民金卡",
+      "onboard_time": 1743838341,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 213727,
@@ -12227,6 +12267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148794,
+      "num": 148794,
+      "word": "奈夫",
+      "onboard_time": 1743837439,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 148571,
       "num": 148571,
       "word": "如鸢新密探",
@@ -12457,6 +12505,14 @@
       "onboard_time": 1743318260,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146895,
+      "num": 146895,
+      "word": "没带身份证如何坐高铁",
+      "onboard_time": 1743840320,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146647,
@@ -13347,14 +13403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137659,
-      "num": 137659,
-      "word": "奈夫",
-      "onboard_time": 1743837439,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 137597,
       "num": 265124,
       "word": "王宝强棋士信息量好大",
@@ -13625,6 +13673,14 @@
       "onboard_time": 1743426623,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135331,
+      "num": 135331,
+      "word": "官方辟谣深圳地铁发生踩踏事故",
+      "onboard_time": 1743840320,
+      "rank": 31,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 135205,
@@ -14747,6 +14803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 123552,
+      "num": 136012,
+      "word": "谢娜礼服里穿毛裤",
+      "onboard_time": 1743840562,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123323,
       "num": 123323,
       "word": "福彩工作人员谈AI预测彩票中奖号码",
@@ -14769,6 +14833,14 @@
       "onboard_time": 1743592824,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122756,
+      "num": 122756,
+      "word": "北京母女用坚果祭奠八宝山革命公墓英烈",
+      "onboard_time": 1743840681,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122755,
@@ -15451,14 +15523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116002,
-      "num": 116002,
-      "word": "韩庚 吵架的时候不能拥抱",
-      "onboard_time": 1743838461,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115823,
       "num": 115823,
       "word": "罗晋原声台词含金量",
@@ -15481,6 +15545,14 @@
       "onboard_time": 1743779543,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115487,
+      "num": 115487,
+      "word": "徐志胜请尊重一下我的饭碗",
+      "onboard_time": 1743841101,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 115369,
@@ -15673,6 +15745,14 @@
       "onboard_time": 1743245362,
       "rank": 14,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 113392,
+      "num": 113392,
+      "word": "维斯塔潘夺F1日本站杆位",
+      "onboard_time": 1743840860,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 113290,
@@ -16467,6 +16547,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 103501,
+      "num": 103501,
+      "word": "种地吧 林更新",
+      "onboard_time": 1743840380,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103207,
       "num": 134316,
       "word": "沈阳消防通报2名消防员牺牲",
@@ -16601,6 +16689,14 @@
       "onboard_time": 1743464480,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101376,
+      "num": 323711,
+      "word": "他用13年从太行山背回25具烈士遗骸",
+      "onboard_time": 1743836300,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101169,
@@ -17723,6 +17819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82034,
+      "num": 82034,
+      "word": "时代峰峻无限音乐会",
+      "onboard_time": 1743839600,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 81852,
       "num": 305560,
       "word": "南京海关查获12幅问题地图",
@@ -17801,6 +17905,14 @@
       "onboard_time": 1743722118,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80952,
+      "num": 147519,
+      "word": "JDG海洋馆游来游去",
+      "onboard_time": 1743838821,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 80831,
@@ -19931,6 +20043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35834,
+      "num": 108972,
+      "word": "甲亢哥体验水上行驶",
+      "onboard_time": 1743840802,
+      "rank": 39,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 35578,
       "num": 76204,
       "word": "重新定义39岁不着调的中年女性",
@@ -19961,6 +20081,14 @@
       "onboard_time": 1743443295,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34938,
+      "num": 597562,
+      "word": "他们的牺牲值得永远铭记",
+      "onboard_time": 1743824541,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34832,
@@ -20729,14 +20857,6 @@
       "onboard_time": 1743589883,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23352,
-      "num": 122979,
-      "word": "特朗普展示价值500万移民金卡",
-      "onboard_time": 1743838341,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23213,
@@ -21561,14 +21681,6 @@
       "onboard_time": 1743430644,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 10002,
-      "num": 597562,
-      "word": "他们的牺牲值得永远铭记",
-      "onboard_time": 1743824541,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9953,
