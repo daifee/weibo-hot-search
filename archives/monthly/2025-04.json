@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743860322914,
+  "endTime": 1743862837070,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1965857,
+      "num": 294102,
+      "word": "何济霆 赌博",
+      "onboard_time": 1743859043,
+      "rank": 10,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 1941198,
       "num": 1941198,
       "word": "金价冲向1000元",
@@ -337,14 +345,6 @@
       "onboard_time": 1743579743,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1697641,
-      "num": 294102,
-      "word": "何济霆 赌博",
-      "onboard_time": 1743859043,
-      "rank": 10,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 1689739,
@@ -987,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 989394,
+      "num": 686843,
+      "word": "洪尧回应撕掉吴谨言老公标签",
+      "onboard_time": 1743858983,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 985868,
       "num": 494335,
       "word": "孙俪工作室回复邓超",
@@ -1259,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 862271,
+      "num": 1137963,
+      "word": "杨超越体面",
+      "onboard_time": 1743857183,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 860898,
       "num": 356666,
       "word": "山区孩子为赵露思发声",
@@ -1353,14 +1369,6 @@
       "onboard_time": 1743591142,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 834766,
-      "num": 1133562,
-      "word": "杨超越体面",
-      "onboard_time": 1743857183,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 825264,
@@ -1499,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 763989,
+      "num": 763989,
+      "word": "很舒服但很伤身的6个行为",
+      "onboard_time": 1743859102,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 752525,
       "num": 704730,
       "word": "上海有门店卖狗狗麻辣烫25元一斤",
@@ -1561,6 +1577,14 @@
       "onboard_time": 1743686003,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 735716,
+      "num": 251730,
+      "word": "导致视力下降的真正原因",
+      "onboard_time": 1743860481,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 726197,
@@ -2523,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485660,
+      "num": 396541,
+      "word": "柯淳片酬",
+      "onboard_time": 1743862343,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485118,
       "num": 227403,
       "word": "特朗普说永远不会改变政策",
@@ -2545,14 +2577,6 @@
       "onboard_time": 1743564622,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 484673,
-      "num": 484673,
-      "word": "洪尧回应撕掉吴谨言老公标签",
-      "onboard_time": 1743858983,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 482007,
@@ -2649,6 +2673,14 @@
       "onboard_time": 1743680421,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468709,
+      "num": 388380,
+      "word": "王星演被绑架",
+      "onboard_time": 1743862284,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 468553,
@@ -3033,6 +3065,22 @@
       "onboard_time": 1743571462,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 411616,
+      "num": 263850,
+      "word": "檀健次 广西老表标配",
+      "onboard_time": 1743860364,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 411375,
+      "num": 262852,
+      "word": "伊能静否认与秦昊各过各的",
+      "onboard_time": 1743861324,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 409581,
@@ -3603,6 +3651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352200,
+      "num": 352200,
+      "word": "向鹏7比11雨果",
+      "onboard_time": 1743860902,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351857,
       "num": 297166,
       "word": "国内金饰价格跟跌",
@@ -4001,6 +4057,14 @@
       "onboard_time": 1743674182,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 318671,
+      "num": 240522,
+      "word": "刘奕畅拒演苍兰诀男二",
+      "onboard_time": 1743862343,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 318565,
@@ -4835,14 +4899,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 257384,
-      "num": 257384,
-      "word": "很舒服但很伤身的6个行为",
-      "onboard_time": 1743859102,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 257282,
       "num": 257282,
       "word": "王文也",
@@ -5296,6 +5352,14 @@
       "word": "何丹彤回应与刘亦菲同框",
       "onboard_time": 1743744082,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229786,
+      "num": 285279,
+      "word": "高圆圆赵又廷一起现身机场",
+      "onboard_time": 1743857121,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -6587,14 +6651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 194829,
-      "num": 285279,
-      "word": "高圆圆赵又廷一起现身机场",
-      "onboard_time": 1743857121,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194806,
       "num": 194806,
       "word": "74岁老戏骨狱中求婚与女友相差36岁",
@@ -6649,6 +6705,14 @@
       "onboard_time": 1743513024,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 193570,
+      "num": 193570,
+      "word": "大张伟直播",
+      "onboard_time": 1743861503,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 193514,
@@ -7179,6 +7243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184836,
+      "num": 184836,
+      "word": "孙俪摔倒后想趁腿没肿继续拍",
+      "onboard_time": 1743861083,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184671,
       "num": 269403,
       "word": "雷军代表小米承诺不会回避",
@@ -7419,6 +7491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180299,
+      "num": 242216,
+      "word": "苏新皓对接称录屏内容为假",
+      "onboard_time": 1743859223,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180262,
       "num": 180262,
       "word": "念无双 水中贵族",
@@ -7601,6 +7681,14 @@
       "onboard_time": 1743470842,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176539,
+      "num": 176539,
+      "word": "胡明轩31分",
+      "onboard_time": 1743862524,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 176319,
@@ -7825,6 +7913,14 @@
       "onboard_time": 1743516505,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172535,
+      "num": 172535,
+      "word": "清明档电影票房破2.3亿",
+      "onboard_time": 1743862403,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 172457,
@@ -8179,6 +8275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165586,
+      "num": 165586,
+      "word": "苏新皓录屏",
+      "onboard_time": 1743862582,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165533,
       "num": 165533,
       "word": "客服回应盒马16.9元一片面包",
@@ -8337,14 +8441,6 @@
       "onboard_time": 1743674782,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 162315,
-      "num": 162315,
-      "word": "苏新皓对接称录屏内容为假",
-      "onboard_time": 1743859223,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 162232,
@@ -9427,6 +9523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145882,
+      "num": 145882,
+      "word": "夫妻摆摊7年还30多万债务修复信用",
+      "onboard_time": 1743861383,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145739,
       "num": 274982,
       "word": "官方回应中学被投诉强制女生剪短发",
@@ -10419,6 +10523,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 132313,
+      "num": 132313,
+      "word": "张杰魏大勋你好星期六预告",
+      "onboard_time": 1743860843,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132181,
       "num": 132181,
       "word": "鹈鹕vs湖人",
@@ -10553,6 +10665,14 @@
       "onboard_time": 1743694342,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130118,
+      "num": 130118,
+      "word": "钟丽丽恋情",
+      "onboard_time": 1743862763,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 130113,
@@ -10841,6 +10961,14 @@
       "onboard_time": 1743803833,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126151,
+      "num": 126151,
+      "word": "美国超市物价暴涨30%",
+      "onboard_time": 1743862763,
+      "rank": 49,
+      "category": "财经,海外新闻"
     },
     {
       "raw_hot": 125980,
@@ -13995,6 +14123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60488,
+      "num": 255920,
+      "word": "广西小伙用地图标记25个祖宗墓地",
+      "onboard_time": 1743862164,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60420,
       "num": 150771,
       "word": "中国救援队伍在缅救出8人",
@@ -14275,6 +14411,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 53756,
+      "num": 257286,
+      "word": "陈幸同4比2伊藤美诚",
+      "onboard_time": 1743861924,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53595,
       "num": 329645,
       "word": "沉浸式感受广西三月三",
@@ -14289,6 +14433,14 @@
       "onboard_time": 1743524419,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 53495,
+      "num": 266031,
+      "word": "5岁以下绝症儿童等不来的临终病床",
+      "onboard_time": 1743862224,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53391,
@@ -15019,6 +15171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33422,
+      "num": 690301,
+      "word": "铭记就是最好的纪念",
+      "onboard_time": 1743845781,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33382,
       "num": 404454,
       "word": "替台独卖命可耻",
@@ -15635,6 +15795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20096,
+      "num": 271189,
+      "word": "揭秘藏在节气里的农事密码",
+      "onboard_time": 1743862343,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19934,
       "num": 222696,
       "word": "AI数字复活服务价格几元到几十元不等",
@@ -15992,6 +16160,14 @@
       "word": "顾客拔火罐被烧伤店家说无理取闹",
       "onboard_time": 1743658583,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12346,
+      "num": 236112,
+      "word": "人放假了生物钟却没放假",
+      "onboard_time": 1743862403,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

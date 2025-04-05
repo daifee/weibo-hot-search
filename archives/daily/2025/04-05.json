@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743860322914,
+  "endTime": 1743862837070,
   "band_list": [
     {
       "raw_hot": 2591568,
@@ -27,7 +27,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1697641,
+      "raw_hot": 1965857,
       "num": 294102,
       "word": "何济霆 赌博",
       "onboard_time": 1743859043,
@@ -139,6 +139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 989394,
+      "num": 686843,
+      "word": "洪尧回应撕掉吴谨言老公标签",
+      "onboard_time": 1743858983,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 971129,
       "num": 971129,
       "word": "冯小刚忍痛删掉赵丽颖狠戏",
@@ -219,20 +227,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 862271,
+      "num": 1137963,
+      "word": "杨超越体面",
+      "onboard_time": 1743857183,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 835857,
       "num": 835857,
       "word": "缅甸人哽咽说我们没有古建筑了",
       "onboard_time": 1743823041,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 834766,
-      "num": 1133562,
-      "word": "杨超越体面",
-      "onboard_time": 1743857183,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 822646,
@@ -267,12 +275,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 763989,
+      "num": 763989,
+      "word": "很舒服但很伤身的6个行为",
+      "onboard_time": 1743859102,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 749977,
       "num": 717978,
       "word": "怀疑买到了被洪水泡过的卫生巾",
       "onboard_time": 1743827302,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 735716,
+      "num": 251730,
+      "word": "导致视力下降的真正原因",
+      "onboard_time": 1743860481,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 694527,
@@ -403,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485660,
+      "num": 396541,
+      "word": "柯淳片酬",
+      "onboard_time": 1743862343,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485118,
       "num": 227403,
       "word": "特朗普说永远不会改变政策",
@@ -411,11 +443,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 484673,
-      "num": 484673,
-      "word": "洪尧回应撕掉吴谨言老公标签",
-      "onboard_time": 1743858983,
-      "rank": 26,
+      "raw_hot": 468709,
+      "num": 388380,
+      "word": "王星演被绑架",
+      "onboard_time": 1743862284,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -523,6 +555,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 411616,
+      "num": 263850,
+      "word": "檀健次 广西老表标配",
+      "onboard_time": 1743860364,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 411375,
+      "num": 262852,
+      "word": "伊能静否认与秦昊各过各的",
+      "onboard_time": 1743861324,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409581,
       "num": 378414,
       "word": "甲亢哥水灵灵地被深圳交警警告了",
@@ -619,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352200,
+      "num": 352200,
+      "word": "向鹏7比11雨果",
+      "onboard_time": 1743860902,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351857,
       "num": 297166,
       "word": "国内金饰价格跟跌",
@@ -681,6 +737,14 @@
       "onboard_time": 1743836661,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 318671,
+      "num": 240522,
+      "word": "刘奕畅拒演苍兰诀男二",
+      "onboard_time": 1743862343,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 314654,
@@ -787,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257384,
-      "num": 257384,
-      "word": "很舒服但很伤身的6个行为",
-      "onboard_time": 1743859102,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 251513,
       "num": 251513,
       "word": "阿Sa井柏然宋仲基黄轩合照",
@@ -849,6 +905,14 @@
       "onboard_time": 1743854902,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229786,
+      "num": 285279,
+      "word": "高圆圆赵又廷一起现身机场",
+      "onboard_time": 1743857121,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 229382,
@@ -1027,14 +1091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194829,
-      "num": 285279,
-      "word": "高圆圆赵又廷一起现身机场",
-      "onboard_time": 1743857121,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194717,
       "num": 157556,
       "word": "灯牌",
@@ -1057,6 +1113,14 @@
       "onboard_time": 1743763941,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193570,
+      "num": 193570,
+      "word": "大张伟直播",
+      "onboard_time": 1743861503,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 191400,
@@ -1139,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184836,
+      "num": 184836,
+      "word": "孙俪摔倒后想趁腿没肿继续拍",
+      "onboard_time": 1743861083,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183866,
       "num": 161332,
       "word": "两个恋爱脑谈恋爱就不算恋爱脑",
@@ -1177,6 +1249,14 @@
       "onboard_time": 1743830062,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180299,
+      "num": 242216,
+      "word": "苏新皓对接称录屏内容为假",
+      "onboard_time": 1743859223,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 179989,
@@ -1227,6 +1307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176539,
+      "num": 176539,
+      "word": "胡明轩31分",
+      "onboard_time": 1743862524,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176195,
       "num": 139119,
       "word": "金子涵 乐华",
@@ -1273,6 +1361,14 @@
       "onboard_time": 1743833721,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172535,
+      "num": 172535,
+      "word": "清明档电影票房破2.3亿",
+      "onboard_time": 1743862403,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 171615,
@@ -1363,20 +1459,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165586,
+      "num": 165586,
+      "word": "苏新皓录屏",
+      "onboard_time": 1743862582,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162900,
       "num": 162900,
       "word": "中国对美全面加征关税释放的信号",
       "onboard_time": 1743833541,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 162315,
-      "num": 162315,
-      "word": "苏新皓对接称录屏内容为假",
-      "onboard_time": 1743859223,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 161896,
@@ -1635,6 +1731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145882,
+      "num": 145882,
+      "word": "夫妻摆摊7年还30多万债务修复信用",
+      "onboard_time": 1743861383,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144612,
       "num": 144612,
       "word": "建议身弱之人把人设搞崩",
@@ -1819,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132313,
+      "num": 132313,
+      "word": "张杰魏大勋你好星期六预告",
+      "onboard_time": 1743860843,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132181,
       "num": 132181,
       "word": "鹈鹕vs湖人",
@@ -1865,6 +1977,14 @@
       "onboard_time": 1743819860,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130118,
+      "num": 130118,
+      "word": "钟丽丽恋情",
+      "onboard_time": 1743862763,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 129730,
@@ -1937,6 +2057,14 @@
       "onboard_time": 1743803833,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126151,
+      "num": 126151,
+      "word": "美国超市物价暴涨30%",
+      "onboard_time": 1743862763,
+      "rank": 49,
+      "category": "财经,海外新闻"
     },
     {
       "raw_hot": 125893,
@@ -2827,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60488,
+      "num": 255920,
+      "word": "广西小伙用地图标记25个祖宗墓地",
+      "onboard_time": 1743862164,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59962,
       "num": 176916,
       "word": "王楚钦爆笑调侃队友",
@@ -2887,6 +3023,22 @@
       "num": 345897,
       "word": "有些跑腿代祭竟要4999元一次",
       "onboard_time": 1743823218,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53756,
+      "num": 257286,
+      "word": "陈幸同4比2伊藤美诚",
+      "onboard_time": 1743861924,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53495,
+      "num": 266031,
+      "word": "5岁以下绝症儿童等不来的临终病床",
+      "onboard_time": 1743862224,
       "rank": 14,
       "category": "民生新闻"
     },
@@ -3027,6 +3179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33422,
+      "num": 690301,
+      "word": "铭记就是最好的纪念",
+      "onboard_time": 1743845781,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30162,
       "num": 30162,
       "word": "檀健次将回归Hi6录制",
@@ -3139,6 +3299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 20096,
+      "num": 271189,
+      "word": "揭秘藏在节气里的农事密码",
+      "onboard_time": 1743862343,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19934,
       "num": 222696,
       "word": "AI数字复活服务价格几元到几十元不等",
@@ -3208,6 +3376,14 @@
       "word": "柳絮来了",
       "onboard_time": 1743789256,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12346,
+      "num": 236112,
+      "word": "人放假了生物钟却没放假",
+      "onboard_time": 1743862403,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
