@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743809823308,
+  "endTime": 1743817722351,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -409,6 +409,14 @@
       "onboard_time": 1743650963,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1450859,
+      "num": 471189,
+      "word": "金子涵 退圈",
+      "onboard_time": 1743810317,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1432135,
@@ -827,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1030173,
+      "num": 1164827,
+      "word": "吴宣仪情商",
+      "onboard_time": 1743812721,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1020807,
       "num": 1020807,
       "word": "东部战区锁控",
@@ -849,6 +865,14 @@
       "onboard_time": 1743663682,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1002479,
+      "num": 1002479,
+      "word": "金价连续跳水",
+      "onboard_time": 1743809178,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 1001509,
@@ -905,6 +929,14 @@
       "onboard_time": 1743764542,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 955201,
+      "num": 356718,
+      "word": "赵露思 音乐节",
+      "onboard_time": 1743809718,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 954849,
@@ -1296,6 +1328,14 @@
       "word": "华人大妈持菜刀与警方对峙被击毙",
       "onboard_time": 1743602544,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 737827,
+      "num": 317830,
+      "word": "实习幼师抓伤6岁幼儿脸赔偿4万元",
+      "onboard_time": 1743816800,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -1777,14 +1817,6 @@
       "onboard_time": 1743597082,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 562345,
-      "num": 899975,
-      "word": "金价连续跳水",
-      "onboard_time": 1743809178,
-      "rank": 0,
-      "category": "财经"
     },
     {
       "raw_hot": 555497,
@@ -2619,6 +2651,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 404245,
+      "num": 404245,
+      "word": "红山动物园都不让大家白来嗷",
+      "onboard_time": 1743812059,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 399588,
       "num": 399588,
       "word": "10元盒饭姐因浪费气得不想出摊",
@@ -2931,6 +2971,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 364404,
+      "num": 355639,
+      "word": "李晟被叶童选中的反应",
+      "onboard_time": 1743812659,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363268,
       "num": 416236,
       "word": "暂停6家美涉事企业产品输华资质",
@@ -3033,6 +3081,14 @@
       "onboard_time": 1743653421,
       "rank": 9,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 355678,
+      "num": 316811,
+      "word": "心疼卡琳娜",
+      "onboard_time": 1743816140,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 354641,
@@ -3144,6 +3200,14 @@
       "word": "人贩子抢走8个月婴儿还顺走奶粉",
       "onboard_time": 1743501083,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344340,
+      "num": 344340,
+      "word": "感觉有一亿人在深圳堵山",
+      "onboard_time": 1743810078,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -3481,6 +3545,14 @@
       "onboard_time": 1743575481,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310381,
+      "num": 310381,
+      "word": "特朗普说马斯克或在几个月内离职",
+      "onboard_time": 1743812600,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 308936,
@@ -4043,6 +4115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268240,
+      "num": 323230,
+      "word": "央视曝色情举牌盯上未成年",
+      "onboard_time": 1743816980,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267809,
       "num": 267809,
       "word": "姜甲儒称人贩子必须死刑",
@@ -4347,6 +4427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245189,
+      "num": 245189,
+      "word": "美股三大股指收盘暴跌",
+      "onboard_time": 1743809597,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 245020,
       "num": 245020,
       "word": "车银优我是素人",
@@ -4499,6 +4587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235477,
+      "num": 212689,
+      "word": "卡琳娜丢蜥蜴误伤祝绪丹",
+      "onboard_time": 1743813500,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235036,
       "num": 383759,
       "word": "柯淳说短剧是我的一把刀",
@@ -4635,6 +4731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 226801,
+      "num": 226801,
+      "word": "美股纳指进入熊市",
+      "onboard_time": 1743809898,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 225960,
       "num": 225960,
       "word": "PH试纸碰他一下就变黑了 太碱了",
@@ -4753,6 +4857,14 @@
       "onboard_time": 1743652405,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220796,
+      "num": 220796,
+      "word": "曾志伟回应艺人收入大减",
+      "onboard_time": 1743810138,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 220218,
@@ -4945,6 +5057,14 @@
       "onboard_time": 1743749781,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210903,
+      "num": 210903,
+      "word": "SM失去了四名最佳主唱",
+      "onboard_time": 1743810138,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 210798,
@@ -5219,6 +5339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205762,
+      "num": 205762,
+      "word": "不体面但0成本看牙的方法",
+      "onboard_time": 1743811038,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205642,
       "num": 227558,
       "word": "赵丽颖褶皱纱家居服",
@@ -5417,6 +5545,14 @@
       "onboard_time": 1743515605,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200008,
+      "num": 200008,
+      "word": "姆巴佩停赛1场缓刑1年",
+      "onboard_time": 1743811940,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 199977,
@@ -6371,6 +6507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181541,
+      "num": 181541,
+      "word": "舍不得睡觉原来是情绪没有被满足",
+      "onboard_time": 1743812960,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181053,
       "num": 215001,
       "word": "方基默去世享年65岁",
@@ -6569,6 +6713,14 @@
       "onboard_time": 1743595282,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175921,
+      "num": 175921,
+      "word": "赵露思演出收益全部捐出去",
+      "onboard_time": 1743816560,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 175829,
@@ -6793,6 +6945,14 @@
       "onboard_time": 1743589161,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171299,
+      "num": 171299,
+      "word": "美股2天暴跌47万亿",
+      "onboard_time": 1743813921,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 171191,
@@ -7283,6 +7443,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 159475,
+      "num": 159475,
+      "word": "清明假期第2天",
+      "onboard_time": 1743812059,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159163,
       "num": 159163,
       "word": "音律设定",
@@ -7321,6 +7489,14 @@
       "onboard_time": 1743563602,
       "rank": 36,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 157861,
+      "num": 157861,
+      "word": "狗狗帮主人清理裤子上的苍耳",
+      "onboard_time": 1743815600,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 157698,
@@ -7921,6 +8097,14 @@
       "onboard_time": 1743495083,
       "rank": 18,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 147010,
+      "num": 147010,
+      "word": "清明档首日票房1.58亿",
+      "onboard_time": 1743811878,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 146647,
@@ -8659,6 +8843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135205,
+      "num": 135205,
+      "word": "河南人的早餐只有两类",
+      "onboard_time": 1743812059,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 135194,
       "num": 262455,
       "word": "一诺说强的不是我是阿离",
@@ -8803,6 +8995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133419,
+      "num": 133419,
+      "word": "原来车身越硬不等于越安全",
+      "onboard_time": 1743817160,
+      "rank": 34,
+      "category": "汽车,科学科普"
+    },
+    {
       "raw_hot": 133327,
       "num": 267436,
       "word": "张碧晨爱的史诗交响演唱会",
@@ -8883,6 +9083,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 131116,
+      "num": 131116,
+      "word": "翟潇闻手机壁纸是红房子",
+      "onboard_time": 1743813860,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131110,
       "num": 409817,
       "word": "山东舰航母编队参加演练",
@@ -8961,6 +9169,14 @@
       "onboard_time": 1743777382,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129575,
+      "num": 558575,
+      "word": "春节后首个小长假点燃春游热潮",
+      "onboard_time": 1743773303,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129569,
@@ -9457,14 +9673,6 @@
       "onboard_time": 1743469463,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 120864,
-      "num": 558575,
-      "word": "春节后首个小长假点燃春游热潮",
-      "onboard_time": 1743773303,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120857,
@@ -10067,6 +10275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110278,
+      "num": 110278,
+      "word": "清明上河图奇妙游",
+      "onboard_time": 1743816920,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109748,
       "num": 109748,
       "word": "孙俪新剧再往前走一步就剧终了",
@@ -10187,6 +10403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106463,
+      "num": 106463,
+      "word": "姚晨 没喝中药啥意思",
+      "onboard_time": 1743817460,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106453,
       "num": 184159,
       "word": "郑钦文0比2亚历山德洛娃",
@@ -10217,6 +10441,14 @@
       "onboard_time": 1743690262,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 105681,
+      "num": 105681,
+      "word": "18岁禁毒战士与毒贩搏斗坠入瑞丽江",
+      "onboard_time": 1743811399,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105362,
@@ -10465,6 +10697,14 @@
       "onboard_time": 1743760342,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99099,
+      "num": 99099,
+      "word": "故宫将解锁乾隆花园新地图",
+      "onboard_time": 1743816800,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98997,
@@ -10851,6 +11091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88519,
+      "num": 88519,
+      "word": "AI修复杨靖宇生前影像",
+      "onboard_time": 1743813200,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88502,
       "num": 104758,
       "word": "NBA",
@@ -10889,14 +11137,6 @@
       "onboard_time": 1743545417,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 88153,
-      "num": 88153,
-      "word": "美股三大股指收盘暴跌",
-      "onboard_time": 1743809597,
-      "rank": 17,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 88061,
@@ -11155,6 +11395,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 79058,
+      "num": 79058,
+      "word": "马斯克身价2天缩水310亿美元",
+      "onboard_time": 1743816020,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77730,
       "num": 303953,
       "word": "职业女哭灵人半个月连哭16场",
@@ -11201,6 +11449,14 @@
       "onboard_time": 1743786737,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75706,
+      "num": 75706,
+      "word": "邯郸黑熊出逃后偷吃了养蜂人的蜂蜜",
+      "onboard_time": 1743811038,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75434,
@@ -11281,6 +11537,14 @@
       "onboard_time": 1743425123,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72983,
+      "num": 72983,
+      "word": "王楚钦给队友示范绳梯训练",
+      "onboard_time": 1743815359,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 72973,
@@ -11419,6 +11683,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 68695,
+      "num": 105742,
+      "word": "蒙古国发现汉朝士兵遗骸",
+      "onboard_time": 1743816860,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67927,
       "num": 67927,
       "word": "nctwish香港演唱会",
@@ -11449,6 +11721,14 @@
       "onboard_time": 1743422423,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 67506,
+      "num": 202876,
+      "word": "郑钦文带伤坚持比赛",
+      "onboard_time": 1743816860,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 67160,
@@ -11769,6 +12049,14 @@
       "onboard_time": 1743613338,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 58489,
+      "num": 215138,
+      "word": "这3种网红减肥法卫健委不推荐",
+      "onboard_time": 1743817160,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 57892,
@@ -12577,14 +12865,6 @@
       "onboard_time": 1743563062,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33790,
-      "num": 42276,
-      "word": "赵露思 音乐节",
-      "onboard_time": 1743809718,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 33583,
