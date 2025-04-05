@@ -1,0 +1,410 @@
+{
+  "runTime": 1743852974597,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1402295,
+        "num": 1402295,
+        "word": "毛主席嫡孙毛新宇回韶山祭拜爷爷",
+        "onboard_time": 1743847641,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 904231,
+        "num": 904231,
+        "word": "房琪回复叶童",
+        "onboard_time": 1743850822,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34067,
+        "num": 898732,
+        "word": "垂直视角看多彩神州大地",
+        "onboard_time": 1743846021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 894508,
+        "num": 894508,
+        "word": "vava发博向杨超越道歉",
+        "onboard_time": 1743850100,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334999,
+        "num": 334999,
+        "word": "饿瘦和运动瘦差别",
+        "onboard_time": 1743846981,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 333176,
+        "num": 333176,
+        "word": "美国超市中国商品被民众抢购",
+        "onboard_time": 1743833961,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 797685,
+        "num": 330295,
+        "word": "冯小刚忍痛删掉赵丽颖狠戏",
+        "onboard_time": 1743846500,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 601279,
+        "num": 320415,
+        "word": "叶童说不要放大房琪的话",
+        "onboard_time": 1743851603,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288851,
+        "num": 288851,
+        "word": "中国政府关于反对美国滥施关税的立场",
+        "onboard_time": 1743851962,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285502,
+        "num": 285502,
+        "word": "女生发现杯中吸管脏成黑芝麻糊",
+        "onboard_time": 1743832220,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611773,
+        "num": 281775,
+        "word": "女生被前男友杀害5年后仍无法安葬",
+        "onboard_time": 1743848301,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120560,
+        "num": 278296,
+        "word": "美国5美元进口矿泉水约交1美元关税",
+        "onboard_time": 1743849082,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 592280,
+        "num": 273901,
+        "word": "于正公开李沐宸刘奕畅恋情",
+        "onboard_time": 1743824901,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578499,
+        "num": 264932,
+        "word": "十个勤天直播",
+        "onboard_time": 1743851423,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501894,
+        "num": 262234,
+        "word": "吃火锅偶遇郑秀晶",
+        "onboard_time": 1743849443,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434863,
+        "num": 254972,
+        "word": "种地吧",
+        "onboard_time": 1743848242,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372198,
+        "num": 253044,
+        "word": "甲亢哥大喊中国制造做到了",
+        "onboard_time": 1743846021,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 249260,
+        "num": 249260,
+        "word": "6家商会发声明回应美加征关税",
+        "onboard_time": 1743820161,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214775,
+        "num": 214775,
+        "word": "官方通报一职工被强制送医治疗",
+        "onboard_time": 1743847942,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 204684,
+        "num": 204684,
+        "word": "官方回应女子遇害因停尸费无法下葬",
+        "onboard_time": 1743844821,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193328,
+        "num": 193328,
+        "word": "全红婵18岁后首秀再现水花消失术",
+        "onboard_time": 1743848121,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349322,
+        "num": 192947,
+        "word": "甲亢哥水灵灵地被深圳交警警告了",
+        "onboard_time": 1743848121,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 191839,
+        "num": 191839,
+        "word": "SM新男团",
+        "onboard_time": 1743852382,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186072,
+        "num": 186072,
+        "word": "马思纯费启鸣跳了troublemaker",
+        "onboard_time": 1743850162,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183499,
+        "num": 183499,
+        "word": "李沐宸 刘奕畅",
+        "onboard_time": 1743827962,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164243,
+        "num": 164243,
+        "word": "第一次见明星收信比粉丝还激动",
+        "onboard_time": 1743843140,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158336,
+        "num": 158336,
+        "word": "40岁王冕退圈备孕遇胎停",
+        "onboard_time": 1743834320,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154783,
+        "num": 154783,
+        "word": "要公道不要霸道",
+        "onboard_time": 1743852861,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153830,
+        "num": 153830,
+        "word": "周杰伦骑驴上楼梯好像在拍MV",
+        "onboard_time": 1743850942,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135076,
+        "num": 135076,
+        "word": "第一次见没轨硬出捉奸现场",
+        "onboard_time": 1743839181,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131531,
+        "num": 131531,
+        "word": "田曦薇小猫落泪",
+        "onboard_time": 1743851122,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126276,
+        "num": 126276,
+        "word": "一家6口误食断肠草中毒入院",
+        "onboard_time": 1743848482,
+        "rank": 31,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 126019,
+        "num": 126019,
+        "word": "王星越 常驻hi6",
+        "onboard_time": 1743833001,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124672,
+        "num": 124672,
+        "word": "宋妍霏说了两遍你是马吟吟",
+        "onboard_time": 1743850462,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124436,
+        "num": 124436,
+        "word": "好歹毒的石楠花",
+        "onboard_time": 1743852321,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123215,
+        "num": 123215,
+        "word": "董宇辉用周杰伦歌词科普",
+        "onboard_time": 1743851723,
+        "rank": 35,
+        "category": "艺人,网红"
+      },
+      {
+        "raw_hot": 121056,
+        "num": 121056,
+        "word": "iG战胜FPX",
+        "onboard_time": 1743849684,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119629,
+        "num": 119629,
+        "word": "龚俊cos敖丙公式照",
+        "onboard_time": 1743852620,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118351,
+        "num": 118351,
+        "word": "猫咪突发心脏病求救被主人抢回一命",
+        "onboard_time": 1743852022,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116294,
+        "num": 116294,
+        "word": "劝大家远离4种低质量社交",
+        "onboard_time": 1743851544,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111855,
+        "num": 111855,
+        "word": "中国女足3分钟两球",
+        "onboard_time": 1743852441,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111639,
+        "num": 111639,
+        "word": "台军回应大批战机异常起降",
+        "onboard_time": 1743850283,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111338,
+        "num": 111338,
+        "word": "24岁男生独自一人祭拜父母",
+        "onboard_time": 1743849141,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110596,
+        "num": 110596,
+        "word": "时代少年团抵达阿鲁沙",
+        "onboard_time": 1743850581,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110561,
+        "num": 110561,
+        "word": "奈夫",
+        "onboard_time": 1743837439,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 103740,
+        "num": 103740,
+        "word": "雅漾 樊振东",
+        "onboard_time": 1743831501,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98209,
+        "num": 98209,
+        "word": "沈月迪士尼游客照",
+        "onboard_time": 1743846680,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96994,
+        "num": 96994,
+        "word": "华晨宇今晚cos",
+        "onboard_time": 1743851182,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95185,
+        "num": 95185,
+        "word": "王艺迪4比1申裕斌",
+        "onboard_time": 1743851182,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94652,
+        "num": 94652,
+        "word": "全红婵收到墨西哥陶土乌龟",
+        "onboard_time": 1743851001,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念致敬英雄#"
+    }
+  }
+}

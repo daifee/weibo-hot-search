@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743851950632,
+  "endTime": 1743852974597,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1147,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 904231,
+      "num": 904231,
+      "word": "房琪回复叶童",
+      "onboard_time": 1743850822,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 903650,
       "num": 903650,
       "word": "刀小刀拖欠解约赔偿金400多万",
@@ -1588,7 +1596,7 @@
     },
     {
       "raw_hot": 694527,
-      "num": 252238,
+      "num": 281775,
       "word": "女生被前男友杀害5年后仍无法安葬",
       "onboard_time": 1743848301,
       "rank": 42,
@@ -1689,14 +1697,6 @@
       "onboard_time": 1743670762,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 644153,
-      "num": 287489,
-      "word": "房琪回复叶童",
-      "onboard_time": 1743850822,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 643831,
@@ -1800,6 +1800,14 @@
       "word": "李晟感谢49位朋友的支持",
       "onboard_time": 1743775463,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 601279,
+      "num": 320415,
+      "word": "叶童说不要放大房琪的话",
+      "onboard_time": 1743851603,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -2003,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 578499,
+      "num": 264932,
+      "word": "十个勤天直播",
+      "onboard_time": 1743851423,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 575286,
       "num": 857670,
       "word": "愚人节文案",
@@ -2033,14 +2049,6 @@
       "onboard_time": 1743839420,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 568957,
-      "num": 233740,
-      "word": "叶童说不要放大房琪的话",
-      "onboard_time": 1743851603,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 568057,
@@ -2088,14 +2096,6 @@
       "word": "37岁曹璐签新公司再闯韩娱",
       "onboard_time": 1743496403,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 554020,
-      "num": 231351,
-      "word": "十个勤天直播",
-      "onboard_time": 1743851423,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -2412,7 +2412,7 @@
     },
     {
       "raw_hot": 503462,
-      "num": 230047,
+      "num": 262234,
       "word": "吃火锅偶遇郑秀晶",
       "onboard_time": 1743849443,
       "rank": 24,
@@ -3715,6 +3715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334999,
+      "num": 334999,
+      "word": "饿瘦和运动瘦差别",
+      "onboard_time": 1743846981,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 334731,
       "num": 334731,
       "word": "周雨说孙颖莎影响力太大了",
@@ -4305,6 +4313,14 @@
       "onboard_time": 1743690322,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 288851,
+      "num": 288851,
+      "word": "中国政府关于反对美国滥施关税的立场",
+      "onboard_time": 1743851962,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 288785,
@@ -5379,14 +5395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220369,
-      "num": 220369,
-      "word": "饿瘦和运动瘦差别",
-      "onboard_time": 1743846981,
-      "rank": 22,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 220317,
       "num": 220317,
       "word": "苟芸慧承认离婚",
@@ -5529,6 +5537,14 @@
       "onboard_time": 1743567563,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214775,
+      "num": 240085,
+      "word": "官方通报一职工被强制送医治疗",
+      "onboard_time": 1743847942,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 214622,
@@ -6915,6 +6931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186072,
+      "num": 186072,
+      "word": "马思纯费启鸣跳了troublemaker",
+      "onboard_time": 1743850162,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185865,
       "num": 185865,
       "word": "孙俪上半年有2部新剧播出",
@@ -7353,14 +7377,6 @@
       "onboard_time": 1743683962,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178491,
-      "num": 178491,
-      "word": "马思纯费启鸣跳了troublemaker",
-      "onboard_time": 1743850162,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 178084,
@@ -8475,14 +8491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155919,
-      "num": 240085,
-      "word": "官方通报一职工被强制送医治疗",
-      "onboard_time": 1743847942,
-      "rank": 32,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 155825,
       "num": 234113,
       "word": "张艺兴旁白讲述不能被遗忘的人",
@@ -8561,6 +8569,14 @@
       "onboard_time": 1743499103,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154783,
+      "num": 154783,
+      "word": "要公道不要霸道",
+      "onboard_time": 1743852861,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 154440,
@@ -10555,6 +10571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126276,
+      "num": 126276,
+      "word": "一家6口误食断肠草中毒入院",
+      "onboard_time": 1743848482,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126256,
       "num": 126256,
       "word": "浓眉绝杀老鹰",
@@ -10697,6 +10721,14 @@
       "onboard_time": 1743849684,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124436,
+      "num": 124436,
+      "word": "好歹毒的石楠花",
+      "onboard_time": 1743852321,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 124343,
@@ -10931,20 +10963,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 120560,
+      "num": 278296,
+      "word": "美国5美元进口矿泉水约交1美元关税",
+      "onboard_time": 1743849082,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 120541,
       "num": 122158,
       "word": "特朗普一系列关税公布后将立即生效",
       "onboard_time": 1743557302,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 120499,
-      "num": 120499,
-      "word": "一家6口误食断肠草中毒入院",
-      "onboard_time": 1743848482,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120324,
@@ -11009,6 +11041,14 @@
       "onboard_time": 1743763223,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119629,
+      "num": 119629,
+      "word": "龚俊cos敖丙公式照",
+      "onboard_time": 1743852620,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 119542,
@@ -11089,6 +11129,14 @@
       "onboard_time": 1743635419,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 118351,
+      "num": 118351,
+      "word": "猫咪突发心脏病求救被主人抢回一命",
+      "onboard_time": 1743852022,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118286,
@@ -11259,6 +11307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116294,
+      "num": 116294,
+      "word": "劝大家远离4种低质量社交",
+      "onboard_time": 1743851544,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116222,
       "num": 116222,
       "word": "朱雨玲逆转晋级4强",
@@ -11411,14 +11467,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 114117,
-      "num": 114117,
-      "word": "美国5美元进口矿泉水约交1美元关税",
-      "onboard_time": 1743849082,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 113984,
       "num": 113984,
       "word": "庄寒雁第一次击鼓救母第二次救夫",
@@ -11545,6 +11593,14 @@
       "onboard_time": 1743470901,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 111855,
+      "num": 111855,
+      "word": "中国女足3分钟两球",
+      "onboard_time": 1743852441,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 111614,
@@ -11963,14 +12019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104012,
-      "num": 104012,
-      "word": "劝大家远离4种低质量社交",
-      "onboard_time": 1743851544,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103982,
       "num": 103982,
       "word": "一人一句缅怀先烈",
@@ -12385,6 +12433,14 @@
       "onboard_time": 1743676762,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94652,
+      "num": 94652,
+      "word": "全红婵收到墨西哥陶土乌龟",
+      "onboard_time": 1743851001,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 94485,
