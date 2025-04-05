@@ -1,0 +1,410 @@
+{
+  "runTime": 1743824851225,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1067754,
+        "num": 1170840,
+        "word": "赵露思 音乐节",
+        "onboard_time": 1743809718,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 670228,
+        "num": 670228,
+        "word": "金价连续跳水",
+        "onboard_time": 1743809178,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10002,
+        "num": 597562,
+        "word": "他们的牺牲值得永远铭记",
+        "onboard_time": 1743824541,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1166984,
+        "num": 589527,
+        "word": "金子涵 退圈",
+        "onboard_time": 1743810317,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558294,
+        "num": 558294,
+        "word": "金饰价格一夜大跌22元",
+        "onboard_time": 1743818781,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 413688,
+        "num": 413688,
+        "word": "缅甸人哽咽说我们没有古建筑了",
+        "onboard_time": 1743823041,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 523674,
+        "num": 413268,
+        "word": "面筋哥生前后悔出名宁做普通人",
+        "onboard_time": 1743823281,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 439235,
+        "num": 413043,
+        "word": "卡琳娜丢蜥蜴误伤祝绪丹",
+        "onboard_time": 1743813500,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93903,
+        "num": 412172,
+        "word": "春节后首个小长假点燃春游热潮",
+        "onboard_time": 1743773303,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62855,
+        "num": 411525,
+        "word": "清明上河图奇妙游",
+        "onboard_time": 1743816920,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414509,
+        "num": 411201,
+        "word": "实习幼师抓伤6岁幼儿脸赔偿4万元",
+        "onboard_time": 1743816800,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410712,
+        "num": 410712,
+        "word": "房琪",
+        "onboard_time": 1743821060,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369557,
+        "num": 369557,
+        "word": "6家商会发声明回应美加征关税",
+        "onboard_time": 1743820161,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397892,
+        "num": 368635,
+        "word": "吴宣仪情商",
+        "onboard_time": 1743812721,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56089,
+        "num": 345897,
+        "word": "有些跑腿代祭竟要4999元一次",
+        "onboard_time": 1743823218,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344917,
+        "num": 344917,
+        "word": "中方反制措施来了",
+        "onboard_time": 1743764421,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 336777,
+        "num": 336777,
+        "word": "蒙古国发现汉朝士兵遗骸",
+        "onboard_time": 1743816860,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297729,
+        "num": 297729,
+        "word": "张凌赫急得耳朵都红了",
+        "onboard_time": 1743821060,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292422,
+        "num": 292422,
+        "word": "李艺彤回应不选李晟",
+        "onboard_time": 1743820101,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270228,
+        "num": 270228,
+        "word": "中方在世贸组织起诉美对等关税措施",
+        "onboard_time": 1743762862,
+        "rank": 19,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 265563,
+        "num": 265563,
+        "word": "姚晨 没喝中药啥意思",
+        "onboard_time": 1743817460,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259015,
+        "num": 259015,
+        "word": "出租屋文学穷的真只剩爱了",
+        "onboard_time": 1743822799,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217675,
+        "num": 217675,
+        "word": "马克龙呼吁欧盟别再天真了",
+        "onboard_time": 1743820340,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190119,
+        "num": 190119,
+        "word": "赵露思音乐节捐赠百万",
+        "onboard_time": 1743824121,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182266,
+        "num": 182266,
+        "word": "温如也",
+        "onboard_time": 1743822799,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177266,
+        "num": 177266,
+        "word": "柯淳被尔冬升贴脸开大",
+        "onboard_time": 1743822620,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177132,
+        "num": 177132,
+        "word": "全红婵教科书级跳水让外国选手看呆",
+        "onboard_time": 1743823940,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23464,
+        "num": 164129,
+        "word": "清明念英烈",
+        "onboard_time": 1743671962,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160284,
+        "num": 160284,
+        "word": "美股纳指进入熊市",
+        "onboard_time": 1743809898,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 68056,
+        "num": 159725,
+        "word": "三岁女孩报警抓抽烟舅舅",
+        "onboard_time": 1743823821,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159562,
+        "num": 159562,
+        "word": "凌晨一点钟的养老院",
+        "onboard_time": 1743822380,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158788,
+        "num": 158788,
+        "word": "妈妈回应3岁女儿报警抓抽烟舅舅",
+        "onboard_time": 1743823940,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157038,
+        "num": 157038,
+        "word": "巴菲特打假特朗普",
+        "onboard_time": 1743821240,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152064,
+        "num": 152064,
+        "word": "姆巴佩停赛1场缓刑1年",
+        "onboard_time": 1743811940,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150416,
+        "num": 150416,
+        "word": "国产剧意识到反派死于话多定律",
+        "onboard_time": 1743824541,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148807,
+        "num": 148807,
+        "word": "SM新男团颜值",
+        "onboard_time": 1743824300,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147080,
+        "num": 147080,
+        "word": "广西女子一家背水泥爬30米悬崖祭祖",
+        "onboard_time": 1743819380,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138836,
+        "num": 138836,
+        "word": "红山动物园都不让大家白来嗷",
+        "onboard_time": 1743812059,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131767,
+        "num": 131767,
+        "word": "掘金vs勇士",
+        "onboard_time": 1743823880,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127145,
+        "num": 127145,
+        "word": "白鹿双马尾贝雷帽",
+        "onboard_time": 1743822861,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141661,
+        "num": 127101,
+        "word": "SM失去了四名最佳主唱",
+        "onboard_time": 1743810138,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116262,
+        "num": 116262,
+        "word": "清明假期第2天",
+        "onboard_time": 1743812059,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115012,
+        "num": 115012,
+        "word": "跟着AI玩北京是啥体验",
+        "onboard_time": 1743822201,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109907,
+        "num": 109907,
+        "word": "原来阿条姐还是个高中生",
+        "onboard_time": 1743819860,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109703,
+        "num": 109703,
+        "word": "感觉有一亿人在深圳堵山",
+        "onboard_time": 1743810078,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104324,
+        "num": 104324,
+        "word": "吉克隽逸机场生吃彩椒",
+        "onboard_time": 1743818840,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103348,
+        "num": 103348,
+        "word": "美股三大股指收盘暴跌",
+        "onboard_time": 1743809597,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102964,
+        "num": 102964,
+        "word": "舍不得睡觉原来是情绪没有被满足",
+        "onboard_time": 1743812960,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102412,
+        "num": 102412,
+        "word": "安静公主出院",
+        "onboard_time": 1743821959,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100991,
+        "num": 100991,
+        "word": "甲亢哥评价中国行城市体验排名",
+        "onboard_time": 1743776602,
+        "rank": 49,
+        "category": "网红,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#清明念英烈#"
+    }
+  }
+}
