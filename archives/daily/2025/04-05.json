@@ -1,10 +1,10 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743828118218,
+  "endTime": 1743830621621,
   "band_list": [
     {
       "raw_hot": 2476139,
-      "num": 383433,
+      "num": 449746,
       "word": "于正公开李沐宸刘奕畅恋情",
       "onboard_time": 1743824901,
       "rank": 10,
@@ -32,6 +32,14 @@
       "word": "李昀锐 掉代言",
       "onboard_time": 1743827061,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1231021,
+      "num": 438668,
+      "word": "李昀锐 代言到期",
+      "onboard_time": 1743827061,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -83,12 +91,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 983123,
+      "num": 1157299,
+      "word": "房琪文案",
+      "onboard_time": 1743825980,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 940881,
       "num": 411201,
       "word": "实习幼师抓伤6岁幼儿脸赔偿4万元",
       "onboard_time": 1743816800,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 883562,
+      "num": 305210,
+      "word": "李沐宸 刘奕畅",
+      "onboard_time": 1743827962,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 872047,
+      "num": 669685,
+      "word": "鞠婧祎罗云熙 和离",
+      "onboard_time": 1743828981,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 835857,
@@ -99,12 +131,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 750189,
-      "num": 651319,
-      "word": "房琪文案",
-      "onboard_time": 1743825980,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 656163,
+      "num": 656163,
+      "word": "怀疑买到了被洪水泡过的卫生巾",
+      "onboard_time": 1743827302,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 646819,
@@ -140,7 +172,7 @@
     },
     {
       "raw_hot": 559747,
-      "num": 352138,
+      "num": 405373,
       "word": "美国运动员下跪拒与跨性别者比赛",
       "onboard_time": 1743825680,
       "rank": 11,
@@ -153,6 +185,14 @@
       "onboard_time": 1743825921,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 536601,
+      "num": 536601,
+      "word": "老教授去世5年多奖学金仍年年到账",
+      "onboard_time": 1743827302,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 523674,
@@ -169,6 +209,14 @@
       "onboard_time": 1743781941,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 465485,
+      "num": 465485,
+      "word": "6家商会发声明回应美加征关税",
+      "onboard_time": 1743820161,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 451609,
@@ -235,20 +283,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 391451,
-      "num": 391451,
-      "word": "6家商会发声明回应美加征关税",
-      "onboard_time": 1743820161,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 384224,
       "num": 384224,
       "word": "中方反制措施来了",
       "onboard_time": 1743764421,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 376008,
+      "num": 304926,
+      "word": "张檬晒孕肚照",
+      "onboard_time": 1743829402,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 364404,
@@ -307,14 +355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 308141,
-      "num": 308141,
-      "word": "老教授去世5年多奖学金仍年年到账",
-      "onboard_time": 1743827302,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 307655,
       "num": 307655,
       "word": "李晟感谢49位朋友的支持",
@@ -337,14 +377,6 @@
       "onboard_time": 1743768863,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 296994,
-      "num": 150951,
-      "word": "怀疑买到了被洪水泡过的卫生巾",
-      "onboard_time": 1743827302,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 286516,
@@ -443,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220317,
+      "num": 220317,
+      "word": "苟芸慧承认离婚",
+      "onboard_time": 1743827362,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220085,
       "num": 220085,
       "word": "小鬼李羲承互cha代表作",
@@ -531,6 +571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180658,
+      "num": 180658,
+      "word": "seventeen墨西哥音乐节",
+      "onboard_time": 1743830062,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179703,
       "num": 179703,
       "word": "孙珍妮被放水敖瑞鹏敢怒不敢言",
@@ -545,6 +593,14 @@
       "onboard_time": 1743820821,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178874,
+      "num": 178874,
+      "word": "李晟小考圣体",
+      "onboard_time": 1743829822,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 177132,
@@ -571,20 +627,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176114,
-      "num": 150823,
-      "word": "苟芸慧承认离婚",
-      "onboard_time": 1743827362,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175921,
       "num": 175921,
       "word": "赵露思演出收益全部捐出去",
       "onboard_time": 1743816560,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173851,
+      "num": 173851,
+      "word": "黄景瑜风驰赛车手上班",
+      "onboard_time": 1743830482,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 173089,
@@ -632,6 +688,14 @@
       "word": "掘金vs勇士",
       "onboard_time": 1743823880,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159985,
+      "num": 159985,
+      "word": "全红婵为陈芋汐表现兴奋鼓掌",
+      "onboard_time": 1743829281,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -699,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148571,
+      "num": 148571,
+      "word": "如鸢新密探",
+      "onboard_time": 1743829701,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147080,
       "num": 147080,
       "word": "广西女子一家背水泥爬30米悬崖祭祖",
@@ -715,20 +787,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146543,
+      "num": 117079,
+      "word": "甲亢哥中国行有next level",
+      "onboard_time": 1743828141,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 146151,
       "num": 146151,
       "word": "尹锡悦被罢免总统职务",
       "onboard_time": 1743733702,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 141965,
-      "num": 141965,
-      "word": "李沐宸 刘奕畅",
-      "onboard_time": 1743827962,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 140522,
@@ -803,6 +875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132181,
+      "num": 132181,
+      "word": "鹈鹕vs湖人",
+      "onboard_time": 1743828861,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131785,
       "num": 131785,
       "word": "孙俪最薄的人干最狠的事",
@@ -841,6 +921,14 @@
       "onboard_time": 1743773303,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127379,
+      "num": 127379,
+      "word": "德国考虑从美撤回1200吨黄金储备",
+      "onboard_time": 1743827901,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127267,
@@ -939,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116768,
+      "num": 116768,
+      "word": "labubu隐藏款",
+      "onboard_time": 1743828981,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 113290,
       "num": 411525,
       "word": "清明上河图奇妙游",
@@ -961,6 +1057,14 @@
       "onboard_time": 1743799873,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 111614,
+      "num": 111614,
+      "word": "库里36分",
+      "onboard_time": 1743829102,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 110248,
@@ -1003,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105128,
+      "num": 105128,
+      "word": "小车撞起火司机昏迷众人破窗救人",
+      "onboard_time": 1743830302,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 104539,
       "num": 104539,
       "word": "周柯宇新剧一觉醒来天塌了又塌",
@@ -1035,12 +1147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96495,
+      "num": 96495,
+      "word": "时代少年团非去不可揭晓答案",
+      "onboard_time": 1743830420,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95874,
       "num": 95874,
       "word": "杜邦被立案调查",
       "onboard_time": 1743768922,
       "rank": 33,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 95619,
+      "num": 95619,
+      "word": "仁川冠军赛",
+      "onboard_time": 1743830601,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 95502,
@@ -1072,6 +1200,14 @@
       "word": "比尔怒砍1分",
       "onboard_time": 1743825201,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92562,
+      "num": 92562,
+      "word": "王楚钦笑到模糊",
+      "onboard_time": 1743829942,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1113,6 +1249,14 @@
       "onboard_time": 1743783079,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81852,
+      "num": 305560,
+      "word": "南京海关查获12幅问题地图",
+      "onboard_time": 1743827241,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80120,
@@ -1187,14 +1331,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 73407,
-      "num": 109900,
-      "word": "南京海关查获12幅问题地图",
-      "onboard_time": 1743827241,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72983,
       "num": 72983,
       "word": "王楚钦给队友示范绳梯训练",
@@ -1225,6 +1361,14 @@
       "onboard_time": 1743782901,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 67674,
+      "num": 149761,
+      "word": "袜子套装买3送3竟是买3双发3双",
+      "onboard_time": 1743830362,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 67506,
@@ -1379,14 +1523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45172,
-      "num": 116870,
-      "word": "德国考虑从美撤回1200吨黄金储备",
-      "onboard_time": 1743827901,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 44756,
       "num": 47004,
       "word": "Speed甲亢哥安利国产动画超能立方",
@@ -1408,6 +1544,14 @@
       "word": "杜邦",
       "onboard_time": 1743770722,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34002,
+      "num": 291057,
+      "word": "火化师不怕遗体怕偏见",
+      "onboard_time": 1743829701,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

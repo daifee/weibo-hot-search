@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743828118218,
+  "endTime": 1743830621621,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2476139,
-      "num": 383433,
+      "num": 449746,
       "word": "于正公开李沐宸刘奕畅恋情",
       "onboard_time": 1743824901,
       "rank": 10,
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1231021,
+      "num": 438668,
+      "word": "李昀锐 代言到期",
+      "onboard_time": 1743827061,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1212430,
       "num": 1212430,
       "word": "VaVa 灰原哀",
@@ -939,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 983123,
+      "num": 1157299,
+      "word": "房琪文案",
+      "onboard_time": 1743825980,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 981886,
       "num": 1157101,
       "word": "甲亢哥让合影小孩哥接爸爸电话",
@@ -1115,12 +1131,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 883562,
+      "num": 305210,
+      "word": "李沐宸 刘奕畅",
+      "onboard_time": 1743827962,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 882646,
       "num": 882646,
       "word": "热烈重映 宋祖儿戏份",
       "onboard_time": 1743685343,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 872047,
+      "num": 669685,
+      "word": "鞠婧祎罗云熙 和离",
+      "onboard_time": 1743828981,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 864707,
@@ -1355,14 +1387,6 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 750189,
-      "num": 651319,
-      "word": "房琪文案",
-      "onboard_time": 1743825980,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 743836,
       "num": 458863,
       "word": "李金铭 真人秀中没有人伤害我",
@@ -1521,6 +1545,14 @@
       "onboard_time": 1743730401,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 656163,
+      "num": 656163,
+      "word": "怀疑买到了被洪水泡过的卫生巾",
+      "onboard_time": 1743827302,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 652080,
@@ -1884,7 +1916,7 @@
     },
     {
       "raw_hot": 559747,
-      "num": 352138,
+      "num": 405373,
       "word": "美国运动员下跪拒与跨性别者比赛",
       "onboard_time": 1743825680,
       "rank": 11,
@@ -2024,6 +2056,14 @@
       "word": "江泽民故居面向社会公众开放",
       "onboard_time": 1743672564,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 536601,
+      "num": 536601,
+      "word": "老教授去世5年多奖学金仍年年到账",
+      "onboard_time": 1743827302,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -2425,6 +2465,14 @@
       "onboard_time": 1743655823,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 465485,
+      "num": 465485,
+      "word": "6家商会发声明回应美加征关税",
+      "onboard_time": 1743820161,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 462244,
@@ -2851,14 +2899,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 391451,
-      "num": 391451,
-      "word": "6家商会发声明回应美加征关税",
-      "onboard_time": 1743820161,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 390581,
       "num": 390581,
       "word": "世界最小蛇类只有雌性也能繁殖",
@@ -3017,6 +3057,14 @@
       "onboard_time": 1743589521,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376008,
+      "num": 304926,
+      "word": "张檬晒孕肚照",
+      "onboard_time": 1743829402,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 375870,
@@ -3707,14 +3755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308141,
-      "num": 308141,
-      "word": "老教授去世5年多奖学金仍年年到账",
-      "onboard_time": 1743827302,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 308097,
       "num": 308097,
       "word": "胡歌老婆是他前助理",
@@ -3873,14 +3913,6 @@
       "onboard_time": 1743465742,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296994,
-      "num": 150951,
-      "word": "怀疑买到了被洪水泡过的卫生巾",
-      "onboard_time": 1743827302,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 296864,
@@ -5048,6 +5080,14 @@
       "word": "曾志伟回应艺人收入大减",
       "onboard_time": 1743810138,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220317,
+      "num": 220317,
+      "word": "苟芸慧承认离婚",
+      "onboard_time": 1743827362,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -6763,6 +6803,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 180658,
+      "num": 180658,
+      "word": "seventeen墨西哥音乐节",
+      "onboard_time": 1743830062,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180577,
       "num": 180577,
       "word": "国羽何济霆疑被未婚妻爆料赌球",
@@ -6867,6 +6915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178874,
+      "num": 178874,
+      "word": "李晟小考圣体",
+      "onboard_time": 1743829822,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178765,
       "num": 178765,
       "word": "尚雯婕又去选人了",
@@ -6961,14 +7017,6 @@
       "onboard_time": 1743737841,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 176114,
-      "num": 150823,
-      "word": "苟芸慧承认离婚",
-      "onboard_time": 1743827362,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 176075,
@@ -7081,6 +7129,14 @@
       "onboard_time": 1743672981,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173851,
+      "num": 173851,
+      "word": "黄景瑜风驰赛车手上班",
+      "onboard_time": 1743830482,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 173619,
@@ -7715,6 +7771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159985,
+      "num": 159985,
+      "word": "全红婵为陈芋汐表现兴奋鼓掌",
+      "onboard_time": 1743829281,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159813,
       "num": 287510,
       "word": "税务总局去年对网络主播查补收入8.99亿",
@@ -8283,6 +8347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148571,
+      "num": 148571,
+      "word": "如鸢新密探",
+      "onboard_time": 1743829701,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148549,
       "num": 148549,
       "word": "悉尼妹分手",
@@ -8465,6 +8537,14 @@
       "onboard_time": 1743507624,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146543,
+      "num": 117079,
+      "word": "甲亢哥中国行有next level",
+      "onboard_time": 1743828141,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 146529,
@@ -8753,14 +8833,6 @@
       "onboard_time": 1743485124,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 141965,
-      "num": 141965,
-      "word": "李沐宸 刘奕畅",
-      "onboard_time": 1743827962,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 141929,
@@ -9435,6 +9507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 132181,
+      "num": 132181,
+      "word": "鹈鹕vs湖人",
+      "onboard_time": 1743828861,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131941,
       "num": 189188,
       "word": "樊振东用乒乓球拍投篮7中4",
@@ -9697,6 +9777,14 @@
       "onboard_time": 1743759082,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127379,
+      "num": 127379,
+      "word": "德国考虑从美撤回1200吨黄金储备",
+      "onboard_time": 1743827901,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127350,
@@ -10379,6 +10467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116768,
+      "num": 116768,
+      "word": "labubu隐藏款",
+      "onboard_time": 1743828981,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 116675,
       "num": 116675,
       "word": "王安宇王玉雯现场跳九万字",
@@ -10625,6 +10721,14 @@
       "onboard_time": 1743470901,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 111614,
+      "num": 111614,
+      "word": "库里36分",
+      "onboard_time": 1743829102,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 111613,
@@ -10937,6 +11041,14 @@
       "onboard_time": 1743746361,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105128,
+      "num": 105128,
+      "word": "小车撞起火司机昏迷众人破窗救人",
+      "onboard_time": 1743830302,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 105109,
@@ -11307,6 +11419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96495,
+      "num": 96495,
+      "word": "时代少年团非去不可揭晓答案",
+      "onboard_time": 1743830420,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96458,
       "num": 96458,
       "word": "郑钦文晋级查尔斯顿赛八强",
@@ -11345,6 +11465,14 @@
       "onboard_time": 1743731361,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95619,
+      "num": 95619,
+      "word": "仁川冠军赛",
+      "onboard_time": 1743830601,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 94689,
@@ -11424,6 +11552,14 @@
       "word": "比尔怒砍1分",
       "onboard_time": 1743825201,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92562,
+      "num": 92562,
+      "word": "王楚钦笑到模糊",
+      "onboard_time": 1743829942,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -11827,6 +11963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81852,
+      "num": 305560,
+      "word": "南京海关查获12幅问题地图",
+      "onboard_time": 1743827241,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81836,
       "num": 285696,
       "word": "中国大模型首次用于地震救援",
@@ -12035,14 +12179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73407,
-      "num": 109900,
-      "word": "南京海关查获12幅问题地图",
-      "onboard_time": 1743827241,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73328,
       "num": 403536,
       "word": "南京二手房挂牌量激增322%",
@@ -12233,6 +12369,14 @@
       "onboard_time": 1743579263,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67674,
+      "num": 149761,
+      "word": "袜子套装买3送3竟是买3双发3双",
+      "onboard_time": 1743830362,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 67532,
@@ -12995,14 +13139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45172,
-      "num": 116870,
-      "word": "德国考虑从美撤回1200吨黄金储备",
-      "onboard_time": 1743827901,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 44957,
       "num": 275455,
       "word": "3月A股新开户数307万户",
@@ -13408,6 +13544,14 @@
       "word": "姜甲儒母亲寻子时曾2次险坠悬崖",
       "onboard_time": 1743563062,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34002,
+      "num": 291057,
+      "word": "火化师不怕遗体怕偏见",
+      "onboard_time": 1743829701,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
