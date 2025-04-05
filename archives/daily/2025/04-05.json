@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743822076904,
+  "endTime": 1743822679786,
   "band_list": [
     {
       "raw_hot": 2037775,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1450859,
-      "num": 581307,
+      "num": 613698,
       "word": "金子涵 退圈",
       "onboard_time": 1743810317,
       "rank": 3,
@@ -35,6 +35,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1053248,
+      "num": 1168519,
+      "word": "赵露思 音乐节",
+      "onboard_time": 1743809718,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1051556,
       "num": 1168249,
       "word": "吴宣仪情商",
@@ -49,14 +57,6 @@
       "onboard_time": 1743809178,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 955201,
-      "num": 581138,
-      "word": "赵露思 音乐节",
-      "onboard_time": 1743809718,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 940881,
@@ -91,8 +91,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 580099,
-      "num": 580099,
+      "raw_hot": 583634,
+      "num": 583634,
       "word": "金饰价格一夜大跌22元",
       "onboard_time": 1743818781,
       "rank": 34,
@@ -123,12 +123,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 440938,
+      "num": 329596,
+      "word": "房琪",
+      "onboard_time": 1743821060,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424816,
       "num": 332021,
       "word": "蒙古国发现汉朝士兵遗骸",
       "onboard_time": 1743816860,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 418809,
+      "num": 330528,
+      "word": "姚晨 没喝中药啥意思",
+      "onboard_time": 1743817460,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 404245,
@@ -153,14 +169,6 @@
       "onboard_time": 1743812659,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 360760,
-      "num": 330528,
-      "word": "姚晨 没喝中药啥意思",
-      "onboard_time": 1743817460,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 360493,
@@ -203,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 329596,
-      "num": 329596,
-      "word": "房琪",
-      "onboard_time": 1743821060,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 310381,
       "num": 310381,
       "word": "特朗普说马斯克或在几个月内离职",
@@ -243,12 +243,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292630,
+      "num": 246673,
+      "word": "李艺彤回应不选李晟",
+      "onboard_time": 1743820101,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286516,
       "num": 184082,
       "word": "在缅华人视频通话时目睹妻儿被掩埋",
       "onboard_time": 1743800354,
       "rank": 30,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 265090,
+      "num": 265090,
+      "word": "马克龙呼吁欧盟别再天真了",
+      "onboard_time": 1743820340,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 258563,
@@ -259,20 +275,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252446,
+      "num": 278700,
+      "word": "国内金饰价格跟跌",
+      "onboard_time": 1743821781,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 251513,
       "num": 251513,
       "word": "阿Sa井柏然宋仲基黄轩合照",
       "onboard_time": 1743776422,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246673,
-      "num": 246673,
-      "word": "李艺彤回应不选李晟",
-      "onboard_time": 1743820101,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 245189,
@@ -323,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220748,
-      "num": 220748,
-      "word": "马克龙呼吁欧盟别再天真了",
-      "onboard_time": 1743820340,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 210903,
       "num": 210903,
       "word": "SM失去了四名最佳主唱",
@@ -371,8 +379,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182968,
-      "num": 182968,
+      "raw_hot": 186905,
+      "num": 186905,
       "word": "把女朋友废话剪掉才发现她这么爱我",
       "onboard_time": 1743818781,
       "rank": 38,
@@ -411,19 +419,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173089,
+      "num": 173089,
+      "word": "这大概就是尽兴活过的样子",
+      "onboard_time": 1743822141,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171299,
       "num": 171299,
       "word": "美股2天暴跌47万亿",
       "onboard_time": 1743813921,
       "rank": 29,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 169611,
-      "num": 169611,
-      "word": "国内金饰价格跟跌",
-      "onboard_time": 1743821781,
-      "rank": 26,
       "category": "财经"
     },
     {
@@ -499,12 +507,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 139462,
+      "num": 139462,
+      "word": "跳水世界杯中国队混团夺金",
+      "onboard_time": 1743818060,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138079,
       "num": 138079,
       "word": "三个动作疏肝理气",
       "onboard_time": 1743781880,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 136215,
+      "num": 136215,
+      "word": "巴菲特打假特朗普",
+      "onboard_time": 1743821240,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135205,
@@ -595,12 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121929,
-      "num": 121929,
-      "word": "跳水世界杯中国队混团夺金",
-      "onboard_time": 1743818060,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 116859,
+      "num": 116859,
+      "word": "马嘉祺踏青vlog",
+      "onboard_time": 1743822261,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 113290,
@@ -667,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105431,
+      "num": 187551,
+      "word": "安静公主出院",
+      "onboard_time": 1743821959,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102302,
       "num": 102302,
       "word": "广西女子一家背水泥爬30米悬崖祭祖",
@@ -699,6 +731,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 95829,
+      "num": 95829,
+      "word": "凌晨一点钟的养老院",
+      "onboard_time": 1743822380,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95502,
       "num": 95502,
       "word": "兰西雅 亮眼",
@@ -713,6 +753,22 @@
       "onboard_time": 1743781340,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93792,
+      "num": 93792,
+      "word": "向佐肌肉肚兜",
+      "onboard_time": 1743822560,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 91455,
+      "num": 91455,
+      "word": "柯淳被尔冬升贴脸开大",
+      "onboard_time": 1743822620,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 87135,
@@ -939,14 +995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 50689,
-      "num": 145878,
-      "word": "安静公主出院",
-      "onboard_time": 1743821959,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 48192,
       "num": 54999,
       "word": "赵小童伴着最后的晚樱夜骑",
@@ -969,14 +1017,6 @@
       "onboard_time": 1743769702,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47060,
-      "num": 105237,
-      "word": "巴菲特打假特朗普",
-      "onboard_time": 1743821240,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 46846,
@@ -1020,7 +1060,7 @@
     },
     {
       "raw_hot": 28193,
-      "num": 581501,
+      "num": 617866,
       "word": "清明念英烈",
       "onboard_time": 1743671962,
       "rank": 2,

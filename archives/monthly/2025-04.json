@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743822076904,
+  "endTime": 1743822679786,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 1450859,
-      "num": 581307,
+      "num": 613698,
       "word": "金子涵 退圈",
       "onboard_time": 1743810317,
       "rank": 3,
@@ -827,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1053248,
+      "num": 1168519,
+      "word": "赵露思 音乐节",
+      "onboard_time": 1743809718,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1051556,
       "num": 1168249,
       "word": "吴宣仪情商",
@@ -937,14 +945,6 @@
       "onboard_time": 1743764542,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 955201,
-      "num": 581138,
-      "word": "赵露思 音乐节",
-      "onboard_time": 1743809718,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 954849,
@@ -1755,6 +1755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 583634,
+      "num": 583634,
+      "word": "金饰价格一夜大跌22元",
+      "onboard_time": 1743818781,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 583539,
       "num": 583539,
       "word": "公孙离新皮肤",
@@ -1777,14 +1785,6 @@
       "onboard_time": 1743563842,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 580099,
-      "num": 580099,
-      "word": "金饰价格一夜大跌22元",
-      "onboard_time": 1743818781,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 580088,
@@ -2499,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440938,
+      "num": 329596,
+      "word": "房琪",
+      "onboard_time": 1743821060,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440685,
       "num": 440685,
       "word": "解放军台岛周边开展联合演训",
@@ -2568,6 +2576,14 @@
       "word": "杨洋章若楠 二搭",
       "onboard_time": 1743692782,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 418809,
+      "num": 330528,
+      "word": "姚晨 没喝中药啥意思",
+      "onboard_time": 1743817460,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -3051,14 +3067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 360760,
-      "num": 330528,
-      "word": "姚晨 没喝中药啥意思",
-      "onboard_time": 1743817460,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 360493,
       "num": 360493,
       "word": "心疼卡琳娜",
@@ -3385,14 +3393,6 @@
       "onboard_time": 1743703576,
       "rank": 10,
       "category": "财经"
-    },
-    {
-      "raw_hot": 329596,
-      "num": 329596,
-      "word": "房琪",
-      "onboard_time": 1743821060,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 329031,
@@ -3851,6 +3851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 292630,
+      "num": 246673,
+      "word": "李艺彤回应不选李晟",
+      "onboard_time": 1743820101,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291911,
       "num": 291911,
       "word": "美股",
@@ -4227,6 +4235,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 265090,
+      "num": 265090,
+      "word": "马克龙呼吁欧盟别再天真了",
+      "onboard_time": 1743820340,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 264050,
       "num": 250018,
       "word": "医生建议想减肥的人早晚分别称体重",
@@ -4387,6 +4403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252446,
+      "num": 278700,
+      "word": "国内金饰价格跟跌",
+      "onboard_time": 1743821781,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 252354,
       "num": 252354,
       "word": "哪吒",
@@ -4465,14 +4489,6 @@
       "onboard_time": 1743519505,
       "rank": 22,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 246673,
-      "num": 246673,
-      "word": "李艺彤回应不选李晟",
-      "onboard_time": 1743820101,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 246629,
@@ -4929,14 +4945,6 @@
       "onboard_time": 1743810138,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220748,
-      "num": 220748,
-      "word": "马克龙呼吁欧盟别再天真了",
-      "onboard_time": 1743820340,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 220218,
@@ -6315,6 +6323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186905,
+      "num": 186905,
+      "word": "把女朋友废话剪掉才发现她这么爱我",
+      "onboard_time": 1743818781,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186615,
       "num": 316956,
       "word": "国色芳华2025微博爆款剧集",
@@ -6497,14 +6513,6 @@
       "onboard_time": 1743572363,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182968,
-      "num": 182968,
-      "word": "把女朋友废话剪掉才发现她这么爱我",
-      "onboard_time": 1743818781,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 182853,
@@ -6931,6 +6939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173089,
+      "num": 173089,
+      "word": "这大概就是尽兴活过的样子",
+      "onboard_time": 1743822141,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173063,
       "num": 173063,
       "word": "研究生不语只是一味的共鸣",
@@ -7081,14 +7097,6 @@
       "onboard_time": 1743511103,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169611,
-      "num": 169611,
-      "word": "国内金饰价格跟跌",
-      "onboard_time": 1743821781,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 169119,
@@ -8699,6 +8707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139462,
+      "num": 139462,
+      "word": "跳水世界杯中国队混团夺金",
+      "onboard_time": 1743818060,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139223,
       "num": 139223,
       "word": "金玟庭愚人节神图点赞最高",
@@ -8881,6 +8897,14 @@
       "onboard_time": 1743486862,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136215,
+      "num": 136215,
+      "word": "巴菲特打假特朗普",
+      "onboard_time": 1743821240,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136096,
@@ -9723,14 +9747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121929,
-      "num": 121929,
-      "word": "跳水世界杯中国队混团夺金",
-      "onboard_time": 1743818060,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121885,
       "num": 229731,
       "word": "多家车企宣传时曾展示双手脱离方向盘",
@@ -10040,6 +10056,14 @@
       "word": "陈茵媺回应和陈豪像父女恋",
       "onboard_time": 1743492323,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116859,
+      "num": 116859,
+      "word": "马嘉祺踏青vlog",
+      "onboard_time": 1743822261,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -10571,6 +10595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105431,
+      "num": 187551,
+      "word": "安静公主出院",
+      "onboard_time": 1743821959,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105362,
       "num": 105362,
       "word": "梁田处理方式堪称半熟恋爱范本",
@@ -11003,6 +11035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95829,
+      "num": 95829,
+      "word": "凌晨一点钟的养老院",
+      "onboard_time": 1743822380,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94689,
       "num": 94689,
       "word": "孙俪乌云之上哭破音了",
@@ -11041,6 +11081,14 @@
       "onboard_time": 1743563602,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93792,
+      "num": 93792,
+      "word": "向佐肌肉肚兜",
+      "onboard_time": 1743822560,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 93334,
@@ -11112,6 +11160,14 @@
       "word": "谢娜抓马名场面来啦",
       "onboard_time": 1743758361,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91455,
+      "num": 91455,
+      "word": "柯淳被尔冬升贴脸开大",
+      "onboard_time": 1743822620,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -12443,14 +12499,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 50689,
-      "num": 145878,
-      "word": "安静公主出院",
-      "onboard_time": 1743821959,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50513,
       "num": 50513,
       "word": "无畏契约",
@@ -12569,14 +12617,6 @@
       "onboard_time": 1743568703,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 47060,
-      "num": 105237,
-      "word": "巴菲特打假特朗普",
-      "onboard_time": 1743821240,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 46427,
