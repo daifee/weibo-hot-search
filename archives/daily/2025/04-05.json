@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743834683750,
+  "endTime": 1743835473734,
   "band_list": [
     {
       "raw_hot": 2476139,
@@ -131,12 +131,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 801631,
+      "num": 801631,
+      "word": "女生发现杯中吸管脏成黑芝麻糊",
+      "onboard_time": 1743832220,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 749977,
       "num": 717978,
       "word": "怀疑买到了被洪水泡过的卫生巾",
       "onboard_time": 1743827302,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 650580,
+      "num": 390954,
+      "word": "40岁王冕退圈备孕遇胎停",
+      "onboard_time": 1743834320,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 646819,
@@ -153,6 +169,14 @@
       "onboard_time": 1743776602,
       "rank": 5,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 630557,
+      "num": 630557,
+      "word": "王星越 常驻hi6",
+      "onboard_time": 1743833001,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 591523,
@@ -195,14 +219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 533659,
-      "num": 452376,
-      "word": "王星越 常驻hi6",
-      "onboard_time": 1743833001,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 523674,
       "num": 413268,
       "word": "面筋哥生前后悔出名宁做普通人",
@@ -211,20 +227,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 520948,
-      "num": 520948,
-      "word": "女生发现杯中吸管脏成黑芝麻糊",
-      "onboard_time": 1743832220,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 511680,
       "num": 437302,
       "word": "管乐笑的好勉强",
       "onboard_time": 1743831921,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 485610,
+      "num": 485610,
+      "word": "美国超市中国商品被民众抢购",
+      "onboard_time": 1743833961,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 485118,
@@ -371,12 +387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324801,
-      "num": 303319,
-      "word": "40岁王冕退圈备孕遇胎停",
-      "onboard_time": 1743834320,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 332298,
+      "num": 283540,
+      "word": "北京一房东偷拍情侣租客被判刑",
+      "onboard_time": 1743831562,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312302,
+      "num": 312302,
+      "word": "雅漾 樊振东",
+      "onboard_time": 1743831501,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 310381,
@@ -427,28 +451,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 286961,
-      "num": 286961,
-      "word": "雅漾 樊振东",
-      "onboard_time": 1743831501,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 286516,
       "num": 184082,
       "word": "在缅华人视频通话时目睹妻儿被掩埋",
       "onboard_time": 1743800354,
       "rank": 30,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 283540,
-      "num": 283540,
-      "word": "北京一房东偷拍情侣租客被判刑",
-      "onboard_time": 1743831562,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 265090,
@@ -505,14 +513,6 @@
       "onboard_time": 1743829822,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240597,
-      "num": 303060,
-      "word": "美国超市中国商品被民众抢购",
-      "onboard_time": 1743833961,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 240097,
@@ -587,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211577,
+      "num": 211577,
+      "word": "林一顶级男模",
+      "onboard_time": 1743834441,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210903,
       "num": 210903,
       "word": "SM失去了四名最佳主唱",
@@ -649,14 +657,6 @@
       "onboard_time": 1743831562,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 188545,
-      "num": 188545,
-      "word": "林一顶级男模",
-      "onboard_time": 1743834441,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 186905,
@@ -1235,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114255,
+      "num": 144475,
+      "word": "中国对美全面加征关税释放的信号",
+      "onboard_time": 1743833541,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 113290,
       "num": 411525,
       "word": "清明上河图奇妙游",
@@ -1257,14 +1265,6 @@
       "onboard_time": 1743799873,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 112283,
-      "num": 112283,
-      "word": "中国对美全面加征关税释放的信号",
-      "onboard_time": 1743833541,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111614,
@@ -1323,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104646,
+      "num": 104646,
+      "word": "威少遭遇世界难题",
+      "onboard_time": 1743834620,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104539,
       "num": 104539,
       "word": "周柯宇新剧一觉醒来天塌了又塌",
@@ -1339,8 +1347,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 102217,
-      "num": 102217,
+      "raw_hot": 103960,
+      "num": 103960,
       "word": "卡琳娜实力",
       "onboard_time": 1743834501,
       "rank": 47,
@@ -1369,6 +1377,22 @@
       "onboard_time": 1743813200,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97383,
+      "num": 97383,
+      "word": "回顾孙颖莎奥运正手一击制胜",
+      "onboard_time": 1743835101,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97078,
+      "num": 97078,
+      "word": "但斌回应美股暴跌致产品大幅回撤",
+      "onboard_time": 1743834983,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 95874,
@@ -1419,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92240,
-      "num": 92240,
-      "word": "威少遭遇世界难题",
-      "onboard_time": 1743834620,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87135,
       "num": 87135,
       "word": "好六全员化身魔童闹海爱好者",
@@ -1457,6 +1473,14 @@
       "onboard_time": 1743809178,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84352,
+      "num": 84352,
+      "word": "徐梦洁在壹心年会舞蹈串烧",
+      "onboard_time": 1743835400,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 83438,
