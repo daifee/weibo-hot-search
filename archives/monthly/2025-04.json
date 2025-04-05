@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743888132616,
+  "endTime": 1743888944060,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -16491,6 +16491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16055,
+      "num": 16832,
+      "word": "金饰价格2天大跌32元",
+      "onboard_time": 1743882915,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 15828,
       "num": 42474,
       "word": "古人一只杯子有满满巧思",
@@ -16635,12 +16643,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 13824,
-      "num": 16832,
-      "word": "金饰价格2天大跌32元",
-      "onboard_time": 1743882915,
-      "rank": 46,
-      "category": "财经"
+      "raw_hot": 13636,
+      "num": 14767,
+      "word": "娘口三三具像化",
+      "onboard_time": 1743886754,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 13379,
@@ -16665,6 +16673,14 @@
       "onboard_time": 1743592042,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 12881,
+      "num": 14766,
+      "word": "PCL2025",
+      "onboard_time": 1743877875,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 12871,
