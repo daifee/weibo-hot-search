@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743822679786,
+  "endTime": 1743824249631,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -675,6 +675,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1153351,
+      "num": 1184536,
+      "word": "赵露思 音乐节",
+      "onboard_time": 1743809718,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1147297,
       "num": 164315,
       "word": "站姐愚人节团建预告",
@@ -825,14 +833,6 @@
       "onboard_time": 1743577283,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1053248,
-      "num": 1168519,
-      "word": "赵露思 音乐节",
-      "onboard_time": 1743809718,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 1051556,
@@ -1675,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 591523,
+      "num": 591523,
+      "word": "金饰价格一夜大跌22元",
+      "onboard_time": 1743818781,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 590870,
       "num": 590870,
       "word": "快递员弄丢客户2.9公斤金饰吓傻",
@@ -1753,14 +1761,6 @@
       "onboard_time": 1743730040,
       "rank": 26,
       "category": "数码"
-    },
-    {
-      "raw_hot": 583634,
-      "num": 583634,
-      "word": "金饰价格一夜大跌22元",
-      "onboard_time": 1743818781,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 583539,
@@ -3171,6 +3171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351857,
+      "num": 297166,
+      "word": "国内金饰价格跟跌",
+      "onboard_time": 1743821781,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 351428,
       "num": 785490,
       "word": "东部战区海报锁控",
@@ -3723,6 +3731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302400,
+      "num": 257811,
+      "word": "李艺彤回应不选李晟",
+      "onboard_time": 1743820101,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302123,
       "num": 302123,
       "word": "洪小铃孕肚照",
@@ -3849,14 +3865,6 @@
       "onboard_time": 1743568282,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 292630,
-      "num": 246673,
-      "word": "李艺彤回应不选李晟",
-      "onboard_time": 1743820101,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 291911,
@@ -4291,6 +4299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 261967,
+      "num": 257658,
+      "word": "出租屋文学穷的真只剩爱了",
+      "onboard_time": 1743822799,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261215,
       "num": 261215,
       "word": "归棹 剧改小说",
@@ -4315,6 +4331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258678,
+      "num": 258678,
+      "word": "缅甸人哽咽说我们没有古建筑了",
+      "onboard_time": 1743823041,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 257526,
       "num": 257526,
       "word": "谷爱凌晒与张若昀合照",
@@ -4337,6 +4361,14 @@
       "onboard_time": 1743667942,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257081,
+      "num": 257944,
+      "word": "面筋哥生前后悔出名宁做普通人",
+      "onboard_time": 1743823281,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 256802,
@@ -4401,14 +4433,6 @@
       "onboard_time": 1743768682,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 252446,
-      "num": 278700,
-      "word": "国内金饰价格跟跌",
-      "onboard_time": 1743821781,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 252354,
@@ -5033,6 +5057,14 @@
       "onboard_time": 1743678981,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215384,
+      "num": 215384,
+      "word": "柯淳被尔冬升贴脸开大",
+      "onboard_time": 1743822620,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 215147,
@@ -6771,6 +6803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177541,
+      "num": 177541,
+      "word": "赵露思音乐节捐赠百万",
+      "onboard_time": 1743824121,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176830,
       "num": 188654,
       "word": "2025清明奇妙游直播",
@@ -7251,6 +7291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 165935,
+      "num": 157504,
+      "word": "凌晨一点钟的养老院",
+      "onboard_time": 1743822380,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165916,
       "num": 165916,
       "word": "李羲承换小时候照片当头像",
@@ -7563,6 +7611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159392,
+      "num": 159392,
+      "word": "温如也",
+      "onboard_time": 1743822799,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159163,
       "num": 159163,
       "word": "音律设定",
@@ -7633,6 +7689,14 @@
       "onboard_time": 1743652163,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157475,
+      "num": 157475,
+      "word": "巴菲特打假特朗普",
+      "onboard_time": 1743821240,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156872,
@@ -8195,6 +8259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147374,
+      "num": 147374,
+      "word": "全红婵教科书级跳水让外国选手看呆",
+      "onboard_time": 1743823940,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147290,
       "num": 147290,
       "word": "74岁大爷骑车80公里找网恋女友复合",
@@ -8603,6 +8675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140725,
+      "num": 140725,
+      "word": "掘金vs勇士",
+      "onboard_time": 1743823880,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140712,
       "num": 143389,
       "word": "张子墨音综弟推人",
@@ -8875,6 +8955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136678,
+      "num": 136678,
+      "word": "白鹿双马尾贝雷帽",
+      "onboard_time": 1743822861,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136508,
       "num": 280272,
       "word": "韩国须在60天内大选",
@@ -8897,14 +8985,6 @@
       "onboard_time": 1743486862,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136215,
-      "num": 136215,
-      "word": "巴菲特打假特朗普",
-      "onboard_time": 1743821240,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136096,
@@ -9081,6 +9161,14 @@
       "onboard_time": 1743681263,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134098,
+      "num": 134098,
+      "word": "妈妈回应3岁女儿报警抓抽烟舅舅",
+      "onboard_time": 1743823940,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134062,
@@ -9313,6 +9401,14 @@
       "onboard_time": 1743777382,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129730,
+      "num": 129730,
+      "word": "千香",
+      "onboard_time": 1743822740,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 129575,
@@ -9835,6 +9931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120728,
+      "num": 187551,
+      "word": "安静公主出院",
+      "onboard_time": 1743821959,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120569,
       "num": 355981,
       "word": "SUV开启整车终身质保时代",
@@ -10033,6 +10137,14 @@
       "onboard_time": 1743650482,
       "rank": 14,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 117244,
+      "num": 157529,
+      "word": "跟着AI玩北京是啥体验",
+      "onboard_time": 1743822201,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117058,
@@ -10595,14 +10707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105431,
-      "num": 187551,
-      "word": "安静公主出院",
-      "onboard_time": 1743821959,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105362,
       "num": 105362,
       "word": "梁田处理方式堪称半熟恋爱范本",
@@ -11035,14 +11139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95829,
-      "num": 95829,
-      "word": "凌晨一点钟的养老院",
-      "onboard_time": 1743822380,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94689,
       "num": 94689,
       "word": "孙俪乌云之上哭破音了",
@@ -11160,14 +11256,6 @@
       "word": "谢娜抓马名场面来啦",
       "onboard_time": 1743758361,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 91455,
-      "num": 91455,
-      "word": "柯淳被尔冬升贴脸开大",
-      "onboard_time": 1743822620,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -12947,6 +13035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36825,
+      "num": 289071,
+      "word": "有些跑腿代祭竟要4999元一次",
+      "onboard_time": 1743823218,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36792,
       "num": 328301,
       "word": "宽带2年未使用却被多扣9360元",
@@ -13369,6 +13465,14 @@
       "onboard_time": 1743632056,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 27195,
+      "num": 157628,
+      "word": "三岁女孩报警抓抽烟舅舅",
+      "onboard_time": 1743823821,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26693,

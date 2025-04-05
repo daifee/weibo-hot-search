@@ -1,0 +1,410 @@
+{
+  "runTime": 1743824249631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1153351,
+        "num": 1184536,
+        "word": "赵露思 音乐节",
+        "onboard_time": 1743809718,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 762393,
+        "num": 762393,
+        "word": "金价连续跳水",
+        "onboard_time": 1743809178,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19185,
+        "num": 616538,
+        "word": "清明念英烈",
+        "onboard_time": 1743671962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1169005,
+        "num": 605976,
+        "word": "金子涵 退圈",
+        "onboard_time": 1743810317,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591523,
+        "num": 591523,
+        "word": "金饰价格一夜大跌22元",
+        "onboard_time": 1743818781,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 354348,
+        "num": 354348,
+        "word": "中方反制措施来了",
+        "onboard_time": 1743764421,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 481274,
+        "num": 344270,
+        "word": "吴宣仪情商",
+        "onboard_time": 1743812721,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328894,
+        "num": 328894,
+        "word": "蒙古国发现汉朝士兵遗骸",
+        "onboard_time": 1743816860,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100139,
+        "num": 323020,
+        "word": "春节后首个小长假点燃春游热潮",
+        "onboard_time": 1743773303,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476554,
+        "num": 322995,
+        "word": "卡琳娜丢蜥蜴误伤祝绪丹",
+        "onboard_time": 1743813500,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321733,
+        "num": 321733,
+        "word": "6家商会发声明回应美加征关税",
+        "onboard_time": 1743820161,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459506,
+        "num": 319314,
+        "word": "实习幼师抓伤6岁幼儿脸赔偿4万元",
+        "onboard_time": 1743816800,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389456,
+        "num": 307056,
+        "word": "房琪",
+        "onboard_time": 1743821060,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351857,
+        "num": 297166,
+        "word": "国内金饰价格跟跌",
+        "onboard_time": 1743821781,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36825,
+        "num": 289071,
+        "word": "有些跑腿代祭竟要4999元一次",
+        "onboard_time": 1743823218,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344010,
+        "num": 278831,
+        "word": "张凌赫急得耳朵都红了",
+        "onboard_time": 1743821060,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335804,
+        "num": 269761,
+        "word": "姚晨 没喝中药啥意思",
+        "onboard_time": 1743817460,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268493,
+        "num": 268493,
+        "word": "中方在世贸组织起诉美对等关税措施",
+        "onboard_time": 1743762862,
+        "rank": 17,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 258678,
+        "num": 258678,
+        "word": "缅甸人哽咽说我们没有古建筑了",
+        "onboard_time": 1743823041,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 257081,
+        "num": 257944,
+        "word": "面筋哥生前后悔出名宁做普通人",
+        "onboard_time": 1743823281,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 302400,
+        "num": 257811,
+        "word": "李艺彤回应不选李晟",
+        "onboard_time": 1743820101,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261967,
+        "num": 257658,
+        "word": "出租屋文学穷的真只剩爱了",
+        "onboard_time": 1743822799,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257386,
+        "num": 257386,
+        "word": "马克龙呼吁欧盟别再天真了",
+        "onboard_time": 1743820340,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215384,
+        "num": 215384,
+        "word": "柯淳被尔冬升贴脸开大",
+        "onboard_time": 1743822620,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177541,
+        "num": 177541,
+        "word": "赵露思音乐节捐赠百万",
+        "onboard_time": 1743824121,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161944,
+        "num": 161944,
+        "word": "红山动物园都不让大家白来嗷",
+        "onboard_time": 1743812059,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161791,
+        "num": 161791,
+        "word": "姆巴佩停赛1场缓刑1年",
+        "onboard_time": 1743811940,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159392,
+        "num": 159392,
+        "word": "温如也",
+        "onboard_time": 1743822799,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157916,
+        "num": 157916,
+        "word": "美股纳指进入熊市",
+        "onboard_time": 1743809898,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27195,
+        "num": 157628,
+        "word": "三岁女孩报警抓抽烟舅舅",
+        "onboard_time": 1743823821,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117244,
+        "num": 157529,
+        "word": "跟着AI玩北京是啥体验",
+        "onboard_time": 1743822201,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165935,
+        "num": 157504,
+        "word": "凌晨一点钟的养老院",
+        "onboard_time": 1743822380,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157475,
+        "num": 157475,
+        "word": "巴菲特打假特朗普",
+        "onboard_time": 1743821240,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147374,
+        "num": 147374,
+        "word": "全红婵教科书级跳水让外国选手看呆",
+        "onboard_time": 1743823940,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140725,
+        "num": 140725,
+        "word": "掘金vs勇士",
+        "onboard_time": 1743823880,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137532,
+        "num": 137532,
+        "word": "SM失去了四名最佳主唱",
+        "onboard_time": 1743810138,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136678,
+        "num": 136678,
+        "word": "白鹿双马尾贝雷帽",
+        "onboard_time": 1743822861,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134098,
+        "num": 134098,
+        "word": "妈妈回应3岁女儿报警抓抽烟舅舅",
+        "onboard_time": 1743823940,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134047,
+        "num": 134047,
+        "word": "吉克隽逸机场生吃彩椒",
+        "onboard_time": 1743818840,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129730,
+        "num": 129730,
+        "word": "千香",
+        "onboard_time": 1743822740,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120728,
+        "num": 120728,
+        "word": "安静公主出院",
+        "onboard_time": 1743821959,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116719,
+        "num": 116719,
+        "word": "舍不得睡觉原来是情绪没有被满足",
+        "onboard_time": 1743812960,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115677,
+        "num": 115677,
+        "word": "原来阿条姐还是个高中生",
+        "onboard_time": 1743819860,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113318,
+        "num": 113318,
+        "word": "美股三大股指收盘暴跌",
+        "onboard_time": 1743809597,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109674,
+        "num": 109674,
+        "word": "清明假期第2天",
+        "onboard_time": 1743812059,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107149,
+        "num": 107149,
+        "word": "甲亢哥评价中国行城市体验排名",
+        "onboard_time": 1743776602,
+        "rank": 45,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 108021,
+        "num": 107055,
+        "word": "感觉有一亿人在深圳堵山",
+        "onboard_time": 1743810078,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106909,
+        "num": 106909,
+        "word": "心疼卡琳娜",
+        "onboard_time": 1743816140,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99843,
+        "num": 99843,
+        "word": "跳水世界杯中国队混团夺金",
+        "onboard_time": 1743818060,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95478,
+        "num": 95478,
+        "word": "原来假期最好的休息不是睡觉",
+        "onboard_time": 1743775763,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#红色基因是砥砺前行的力量#"
+    }
+  }
+}
