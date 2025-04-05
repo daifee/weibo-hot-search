@@ -1,0 +1,410 @@
+{
+  "runTime": 1743856918363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 811691,
+        "num": 1129870,
+        "word": "毛主席嫡孙毛新宇回韶山祭拜爷爷",
+        "onboard_time": 1743847641,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 735988,
+        "num": 735988,
+        "word": "美媒曝美财长受不了荒谬的对等关税",
+        "onboard_time": 1743853941,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36159,
+        "num": 433152,
+        "word": "垂直视角看多彩神州大地",
+        "onboard_time": 1743846021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 968513,
+        "num": 431909,
+        "word": "房琪回复叶童",
+        "onboard_time": 1743850822,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415366,
+        "num": 415366,
+        "word": "郑州一游园充气堡被大风刮到马路上",
+        "onboard_time": 1743853523,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 848638,
+        "num": 397496,
+        "word": "vava发博向杨超越道歉",
+        "onboard_time": 1743850100,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378414,
+        "num": 378414,
+        "word": "甲亢哥水灵灵地被深圳交警警告了",
+        "onboard_time": 1743848121,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 371131,
+        "num": 371131,
+        "word": "中国政府关于反对美国滥施关税的立场",
+        "onboard_time": 1743851962,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 338418,
+        "num": 338418,
+        "word": "Hyunjun公开",
+        "onboard_time": 1743855982,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297966,
+        "num": 297966,
+        "word": "美国超市中国商品被民众抢购",
+        "onboard_time": 1743833961,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 756794,
+        "num": 288875,
+        "word": "饿瘦和运动瘦差别",
+        "onboard_time": 1743846981,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 602846,
+        "num": 283564,
+        "word": "女生被前男友杀害5年后仍无法安葬",
+        "onboard_time": 1743848301,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474673,
+        "num": 277531,
+        "word": "于正公开李沐宸刘奕畅恋情",
+        "onboard_time": 1743824901,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332586,
+        "num": 267408,
+        "word": "孙燕姿演唱会",
+        "onboard_time": 1743855622,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 322238,
+        "num": 259479,
+        "word": "吃火锅偶遇郑秀晶",
+        "onboard_time": 1743849443,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310912,
+        "num": 250219,
+        "word": "肖战谍报上不封顶5月开机",
+        "onboard_time": 1743854482,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242903,
+        "num": 242903,
+        "word": "十个勤天直播",
+        "onboard_time": 1743851423,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239681,
+        "num": 239681,
+        "word": "6家商会发声明回应美加征关税",
+        "onboard_time": 1743820161,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89466,
+        "num": 225018,
+        "word": "品牌金饰价格仍在千元左右",
+        "onboard_time": 1743856102,
+        "rank": 18,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 40541,
+        "num": 219578,
+        "word": "王艺迪说很开心能和朱雨玲交手",
+        "onboard_time": 1743856462,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 645670,
+        "num": 218827,
+        "word": "冯小刚忍痛删掉赵丽颖狠戏",
+        "onboard_time": 1743846500,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216606,
+        "num": 216606,
+        "word": "SM新男团",
+        "onboard_time": 1743852382,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206255,
+        "num": 206255,
+        "word": "华晨宇演唱会",
+        "onboard_time": 1743855741,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205381,
+        "num": 205381,
+        "word": "孙燕姿演唱会舞美",
+        "onboard_time": 1743855260,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201451,
+        "num": 201451,
+        "word": "劝大家远离4种低质量社交",
+        "onboard_time": 1743851544,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168341,
+        "num": 168341,
+        "word": "官方回应女子遇害因停尸费无法下葬",
+        "onboard_time": 1743844821,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56677,
+        "num": 162681,
+        "word": "清明首日跨区域流动近2.9亿人次",
+        "onboard_time": 1743856285,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145249,
+        "num": 161979,
+        "word": "扫墓放鞭炮不慎引燃真车烧成空壳",
+        "onboard_time": 1743854902,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161480,
+        "num": 161480,
+        "word": "马思纯费启鸣跳了troublemaker",
+        "onboard_time": 1743850162,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126521,
+        "num": 160524,
+        "word": "遇到这个中国女孩甲亢哥不甲亢了",
+        "onboard_time": 1743856219,
+        "rank": 29,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 160070,
+        "num": 160070,
+        "word": "父亲住院仨儿子都从上海回来照顾",
+        "onboard_time": 1743855082,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159336,
+        "num": 159336,
+        "word": "好歹毒的石楠花",
+        "onboard_time": 1743852321,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157296,
+        "num": 157296,
+        "word": "无限超越班开播",
+        "onboard_time": 1743856102,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152028,
+        "num": 152028,
+        "word": "美国5美元进口矿泉水约交1美元关税",
+        "onboard_time": 1743849082,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137005,
+        "num": 137005,
+        "word": "女生发现杯中吸管脏成黑芝麻糊",
+        "onboard_time": 1743832220,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131950,
+        "num": 131950,
+        "word": "李沐宸 刘奕畅",
+        "onboard_time": 1743827962,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126632,
+        "num": 126632,
+        "word": "要公道不要霸道",
+        "onboard_time": 1743852861,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125893,
+        "num": 125893,
+        "word": "黄英一嗓子把我干emo了",
+        "onboard_time": 1743853941,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120798,
+        "num": 120798,
+        "word": "叶童说不要放大房琪的话",
+        "onboard_time": 1743851603,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19263,
+        "num": 118144,
+        "word": "第一视角记录地震中的缅北普通人",
+        "onboard_time": 1743855982,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 117103,
+        "num": 117103,
+        "word": "贵州凯里 寻梦环游记",
+        "onboard_time": 1743855382,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 112561,
+        "num": 112561,
+        "word": "先提分手的人要喝完1瓶二锅头",
+        "onboard_time": 1743853342,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103760,
+        "num": 103760,
+        "word": "40岁王冕退圈备孕遇胎停",
+        "onboard_time": 1743834320,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102275,
+        "num": 102275,
+        "word": "全红婵18岁后首秀再现水花消失术",
+        "onboard_time": 1743848121,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72914,
+        "num": 101997,
+        "word": "美方关税战踢到钢板了",
+        "onboard_time": 1743843621,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101805,
+        "num": 101805,
+        "word": "官方通报一职工被强制送医治疗",
+        "onboard_time": 1743847942,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 101258,
+        "num": 101258,
+        "word": "猫咪突发心脏病求救被主人抢回一命",
+        "onboard_time": 1743852022,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99472,
+        "num": 99472,
+        "word": "这下真是华晨宇的兵来了",
+        "onboard_time": 1743856822,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97337,
+        "num": 97337,
+        "word": "弗朗西斯卡4比3莫雷加德",
+        "onboard_time": 1743856102,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96926,
+        "num": 96926,
+        "word": "奈夫",
+        "onboard_time": 1743837439,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#永远铭记英烈的英雄事迹#"
+    }
+  }
+}

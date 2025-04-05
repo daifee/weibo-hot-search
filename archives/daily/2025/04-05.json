@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743852974597,
+  "endTime": 1743856918363,
   "band_list": [
     {
       "raw_hot": 2591568,
@@ -139,6 +139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 968513,
+      "num": 904231,
+      "word": "房琪回复叶童",
+      "onboard_time": 1743850822,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 968479,
       "num": 968479,
       "word": "vava发博向杨超越道歉",
@@ -169,14 +177,6 @@
       "onboard_time": 1743816800,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 904231,
-      "num": 904231,
-      "word": "房琪回复叶童",
-      "onboard_time": 1743850822,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 897017,
@@ -235,6 +235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 756794,
+      "num": 334999,
+      "word": "饿瘦和运动瘦差别",
+      "onboard_time": 1743846981,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 749977,
       "num": 717978,
       "word": "怀疑买到了被洪水泡过的卫生巾",
@@ -243,8 +251,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 735988,
+      "num": 735988,
+      "word": "美媒曝美财长受不了荒谬的对等关税",
+      "onboard_time": 1743853941,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 694527,
-      "num": 281775,
+      "num": 283564,
       "word": "女生被前男友杀害5年后仍无法安葬",
       "onboard_time": 1743848301,
       "rank": 42,
@@ -451,8 +467,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 415366,
+      "num": 415366,
+      "word": "郑州一游园充气堡被大风刮到马路上",
+      "onboard_time": 1743853523,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 409581,
-      "num": 293977,
+      "num": 378414,
       "word": "甲亢哥水灵灵地被深圳交警警告了",
       "onboard_time": 1743848121,
       "rank": 15,
@@ -497,6 +521,14 @@
       "onboard_time": 1743842720,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 371131,
+      "num": 371131,
+      "word": "中国政府关于反对美国滥施关税的立场",
+      "onboard_time": 1743851962,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 367130,
@@ -571,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338418,
+      "num": 338418,
+      "word": "Hyunjun公开",
+      "onboard_time": 1743855982,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337566,
       "num": 304134,
       "word": "侯明昊改ID了",
@@ -579,12 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334999,
-      "num": 334999,
-      "word": "饿瘦和运动瘦差别",
-      "onboard_time": 1743846981,
-      "rank": 22,
-      "category": "运动健身"
+      "raw_hot": 332586,
+      "num": 267408,
+      "word": "孙燕姿演唱会",
+      "onboard_time": 1743855622,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 332298,
@@ -601,6 +641,14 @@
       "onboard_time": 1743836661,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 310912,
+      "num": 250219,
+      "word": "肖战谍报上不封顶5月开机",
+      "onboard_time": 1743854482,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 310381,
@@ -649,14 +697,6 @@
       "onboard_time": 1743830302,
       "rank": 44,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 288851,
-      "num": 288851,
-      "word": "中国政府关于反对美国滥施关税的立场",
-      "onboard_time": 1743851962,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 286516,
@@ -811,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216606,
+      "num": 216606,
+      "word": "SM新男团",
+      "onboard_time": 1743852382,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215384,
       "num": 215384,
       "word": "柯淳被尔冬升贴脸开大",
@@ -859,12 +907,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206255,
+      "num": 206255,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1743855741,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205762,
       "num": 205762,
       "word": "不体面但0成本看牙的方法",
       "onboard_time": 1743811038,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205381,
+      "num": 205381,
+      "word": "孙燕姿演唱会舞美",
+      "onboard_time": 1743855260,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 201451,
+      "num": 201451,
+      "word": "劝大家远离4种低质量社交",
+      "onboard_time": 1743851544,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198651,
@@ -897,14 +969,6 @@
       "onboard_time": 1743763941,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 191839,
-      "num": 191839,
-      "word": "SM新男团",
-      "onboard_time": 1743852382,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 191400,
@@ -1227,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160070,
+      "num": 160070,
+      "word": "父亲住院仨儿子都从上海回来照顾",
+      "onboard_time": 1743855082,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159483,
       "num": 159483,
       "word": "时代少年团抵达阿鲁沙",
@@ -1241,6 +1313,14 @@
       "onboard_time": 1743812059,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159336,
+      "num": 159336,
+      "word": "好歹毒的石楠花",
+      "onboard_time": 1743852321,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 159187,
@@ -1281,6 +1361,14 @@
       "onboard_time": 1743821240,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157296,
+      "num": 157296,
+      "word": "无限超越班开播",
+      "onboard_time": 1743856102,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 155465,
@@ -1355,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152028,
+      "num": 278296,
+      "word": "美国5美元进口矿泉水约交1美元关税",
+      "onboard_time": 1743849082,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 150416,
       "num": 150416,
       "word": "国产剧意识到反派死于话多定律",
@@ -1409,6 +1505,14 @@
       "onboard_time": 1743733702,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145249,
+      "num": 161979,
+      "word": "扫墓放鞭炮不慎引燃真车烧成空壳",
+      "onboard_time": 1743854902,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144612,
@@ -1667,6 +1771,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 126521,
+      "num": 160524,
+      "word": "遇到这个中国女孩甲亢哥不甲亢了",
+      "onboard_time": 1743856219,
+      "rank": 29,
+      "category": "民生新闻,幽默"
+    },
+    {
       "raw_hot": 126276,
       "num": 126276,
       "word": "一家6口误食断肠草中毒入院",
@@ -1680,6 +1792,14 @@
       "word": "谢娜齐思钧补刀",
       "onboard_time": 1743803833,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125893,
+      "num": 125893,
+      "word": "黄英一嗓子把我干emo了",
+      "onboard_time": 1743853941,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1705,14 +1825,6 @@
       "onboard_time": 1743849684,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124436,
-      "num": 124436,
-      "word": "好歹毒的石楠花",
-      "onboard_time": 1743852321,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 123976,
@@ -1761,14 +1873,6 @@
       "onboard_time": 1743821959,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120560,
-      "num": 278296,
-      "word": "美国5美元进口矿泉水约交1美元关税",
-      "onboard_time": 1743849082,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 120286,
@@ -1851,6 +1955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 117103,
+      "num": 117103,
+      "word": "贵州凯里 寻梦环游记",
+      "onboard_time": 1743855382,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 116859,
       "num": 116859,
       "word": "马嘉祺踏青vlog",
@@ -1865,14 +1977,6 @@
       "onboard_time": 1743828981,
       "rank": 38,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 116294,
-      "num": 116294,
-      "word": "劝大家远离4种低质量社交",
-      "onboard_time": 1743851544,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116222,
@@ -1945,6 +2049,14 @@
       "onboard_time": 1743842180,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112561,
+      "num": 112561,
+      "word": "先提分手的人要喝完1瓶二锅头",
+      "onboard_time": 1743853342,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 112419,
@@ -2099,6 +2211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 99472,
+      "num": 99472,
+      "word": "这下真是华晨宇的兵来了",
+      "onboard_time": 1743856822,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99099,
       "num": 99099,
       "word": "故宫将解锁乾隆花园新地图",
@@ -2121,6 +2241,14 @@
       "onboard_time": 1743813200,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97337,
+      "num": 97337,
+      "word": "弗朗西斯卡4比3莫雷加德",
+      "onboard_time": 1743856102,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 97078,
@@ -2201,6 +2329,14 @@
       "onboard_time": 1743849262,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89466,
+      "num": 225018,
+      "word": "品牌金饰价格仍在千元左右",
+      "onboard_time": 1743856102,
+      "rank": 18,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 87135,
@@ -2555,6 +2691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 56677,
+      "num": 162681,
+      "word": "清明首日跨区域流动近2.9亿人次",
+      "onboard_time": 1743856285,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56574,
       "num": 56574,
       "word": "对美加征关税采取反制措施",
@@ -2648,6 +2792,14 @@
       "word": "中国女足晋级永川女足邀请赛决赛",
       "onboard_time": 1743849562,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40541,
+      "num": 219578,
+      "word": "王艺迪说很开心能和朱雨玲交手",
+      "onboard_time": 1743856462,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -2809,6 +2961,14 @@
       "onboard_time": 1743841822,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19263,
+      "num": 118144,
+      "word": "第一视角记录地震中的缅北普通人",
+      "onboard_time": 1743855982,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 18193,
