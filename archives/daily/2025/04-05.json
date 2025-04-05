@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743845780294,
+  "endTime": 1743848668747,
   "band_list": [
     {
       "raw_hot": 2476139,
@@ -9,6 +9,14 @@
       "onboard_time": 1743824901,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2423752,
+      "num": 2423752,
+      "word": "毛主席嫡孙毛新宇回韶山祭拜爷爷",
+      "onboard_time": 1743847641,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2037775,
@@ -187,6 +195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 771307,
+      "num": 400817,
+      "word": "辽宁一地市委书记暗访被拦车",
+      "onboard_time": 1743843921,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 749977,
       "num": 717978,
       "word": "怀疑买到了被洪水泡过的卫生巾",
@@ -195,12 +211,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 722788,
-      "num": 242128,
-      "word": "辽宁一地市委书记暗访被拦车",
-      "onboard_time": 1743843921,
-      "rank": 30,
-      "category": "国内时政"
+      "raw_hot": 745130,
+      "num": 745130,
+      "word": "甲亢哥大喊中国制造做到了",
+      "onboard_time": 1743846021,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 646819,
@@ -241,6 +257,14 @@
       "onboard_time": 1743813500,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 586788,
+      "num": 586788,
+      "word": "冯小刚忍痛删掉赵丽颖狠戏",
+      "onboard_time": 1743846500,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 574361,
@@ -417,6 +441,14 @@
       "onboard_time": 1743838341,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 365235,
+      "num": 365235,
+      "word": "官方回应女子遇害因停尸费无法下葬",
+      "onboard_time": 1743844821,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364404,
@@ -635,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224405,
+      "num": 255579,
+      "word": "甲亢哥水灵灵地被深圳交警警告了",
+      "onboard_time": 1743848121,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 223640,
       "num": 223640,
       "word": "SM新男团 撞名",
@@ -729,6 +769,14 @@
       "onboard_time": 1743811038,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199392,
+      "num": 199392,
+      "word": "种地吧",
+      "onboard_time": 1743848242,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 198651,
@@ -915,6 +963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175469,
+      "num": 175469,
+      "word": "饿瘦和运动瘦差别",
+      "onboard_time": 1743846981,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 175312,
       "num": 350437,
       "word": "回顾孙颖莎奥运正手一击制胜",
@@ -1025,6 +1081,14 @@
       "onboard_time": 1743833541,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 161896,
+      "num": 161896,
+      "word": "沈月迪士尼游客照",
+      "onboard_time": 1743846680,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 161788,
@@ -1227,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138205,
+      "num": 138205,
+      "word": "祝绪丹回应抽卡争议",
+      "onboard_time": 1743846201,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138079,
       "num": 138079,
       "word": "三个动作疏肝理气",
@@ -1241,14 +1313,6 @@
       "onboard_time": 1743822861,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 136400,
-      "num": 241565,
-      "word": "官方回应女子遇害因停尸费无法下葬",
-      "onboard_time": 1743844821,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135751,
@@ -1313,6 +1377,14 @@
       "onboard_time": 1743817160,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132903,
+      "num": 132903,
+      "word": "乌云之上碎尸案7集5次反转",
+      "onboard_time": 1743847042,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 132421,
@@ -1433,6 +1505,14 @@
       "onboard_time": 1743774203,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 124226,
+      "num": 124226,
+      "word": "官方通报一职工被强制送医治疗",
+      "onboard_time": 1743847942,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 123552,
@@ -1579,6 +1659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114308,
+      "num": 114308,
+      "word": "1亿花粉过敏患者有救了",
+      "onboard_time": 1743843382,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 113392,
       "num": 113392,
       "word": "维斯塔潘夺F1日本站杆位",
@@ -1601,6 +1689,14 @@
       "onboard_time": 1743783140,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112935,
+      "num": 112935,
+      "word": "苹果公司股价惨遭血洗",
+      "onboard_time": 1743845901,
+      "rank": 35,
+      "category": "财经,数码"
     },
     {
       "raw_hot": 112821,
@@ -1643,12 +1739,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107415,
-      "num": 107415,
-      "word": "1亿花粉过敏患者有救了",
-      "onboard_time": 1743843382,
-      "rank": 41,
-      "category": "健康医疗"
+      "raw_hot": 107570,
+      "num": 256354,
+      "word": "免费做100只宠物标本女子回应争议",
+      "onboard_time": 1743847641,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107142,
+      "num": 107142,
+      "word": "全红婵18岁后首秀再现水花消失术",
+      "onboard_time": 1743848121,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106757,
+      "num": 106757,
+      "word": "陈小春一句话十个勤天全懵了",
+      "onboard_time": 1743847821,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 106453,
@@ -1819,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87935,
+      "num": 87935,
+      "word": "女生被前男友杀害5年后仍无法安葬",
+      "onboard_time": 1743848301,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87135,
       "num": 87135,
       "word": "好六全员化身魔童闹海爱好者",
@@ -1875,12 +1995,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83171,
+      "num": 83171,
+      "word": "陈赫你心里到底想的谁啊",
+      "onboard_time": 1743848361,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82034,
       "num": 82034,
       "word": "时代峰峻无限音乐会",
       "onboard_time": 1743839600,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81894,
+      "num": 81894,
+      "word": "一家6口误食断肠草中毒入院",
+      "onboard_time": 1743848482,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81852,
@@ -1929,6 +2065,22 @@
       "onboard_time": 1743781642,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79637,
+      "num": 79637,
+      "word": "你好星期六",
+      "onboard_time": 1743846562,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 79215,
+      "num": 79215,
+      "word": "胡冰卿带我把所有的花都看了一遍",
+      "onboard_time": 1743848543,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 79058,
@@ -2243,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38094,
+      "num": 661368,
+      "word": "垂直视角看多彩神州大地",
+      "onboard_time": 1743846021,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36009,
       "num": 34648,
       "word": "棋士",
@@ -2329,6 +2489,14 @@
       "onboard_time": 1743782301,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24257,
+      "num": 100985,
+      "word": "王艺迪vs申裕斌",
+      "onboard_time": 1743848543,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 23696,
