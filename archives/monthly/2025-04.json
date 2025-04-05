@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743842481484,
+  "endTime": 1743844980119,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -345,6 +345,14 @@
       "onboard_time": 1743603685,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1637257,
+      "num": 1637257,
+      "word": "女子整理表妹遗物发现老师性侵证据",
+      "onboard_time": 1743840562,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1617305,
@@ -833,14 +841,6 @@
       "onboard_time": 1743563842,
       "rank": 1,
       "category": "海外新闻,互联网"
-    },
-    {
-      "raw_hot": 1101736,
-      "num": 1176277,
-      "word": "女子整理表妹遗物发现老师性侵证据",
-      "onboard_time": 1743840562,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1099266,
@@ -1441,6 +1441,14 @@
       "onboard_time": 1743827302,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 748597,
+      "num": 281017,
+      "word": "第一次见明星收信比粉丝还激动",
+      "onboard_time": 1743843140,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 743836,
@@ -2587,6 +2595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458738,
+      "num": 148658,
+      "word": "辽宁一地市委书记暗访被拦车",
+      "onboard_time": 1743843921,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 458330,
       "num": 384264,
       "word": "鞠婧祎小号安慰粉丝",
@@ -2691,6 +2707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 441512,
+      "num": 441512,
+      "word": "韩庚 吵架的时候不能拥抱",
+      "onboard_time": 1743838461,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441020,
       "num": 441020,
       "word": "我知道祝绪丹跳舞像谁了",
@@ -2729,14 +2753,6 @@
       "onboard_time": 1743431003,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 431733,
-      "num": 431733,
-      "word": "韩庚 吵架的时候不能拥抱",
-      "onboard_time": 1743838461,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 426493,
@@ -3099,6 +3115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 380670,
+      "num": 277264,
+      "word": "她怎么一开口唱歌面相都变了",
+      "onboard_time": 1743842720,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 379804,
       "num": 337525,
       "word": "拉夫劳伦活动",
@@ -3225,6 +3249,14 @@
       "onboard_time": 1743684082,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 367130,
+      "num": 367130,
+      "word": "特朗普展示价值500万移民金卡",
+      "onboard_time": 1743838341,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 366843,
@@ -4987,14 +5019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233375,
-      "num": 233375,
-      "word": "特朗普展示价值500万移民金卡",
-      "onboard_time": 1743838341,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 233341,
       "num": 233341,
       "word": "甲亢哥针灸正骨后已老实",
@@ -5315,6 +5339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216964,
+      "num": 216964,
+      "word": "KiiiKiii初一位",
+      "onboard_time": 1743843801,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216841,
       "num": 216841,
       "word": "浪姐第一季yyds",
@@ -5473,6 +5505,14 @@
       "onboard_time": 1743749781,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211114,
+      "num": 211114,
+      "word": "特朗普去打高尔夫",
+      "onboard_time": 1743842180,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 210903,
@@ -6561,6 +6601,14 @@
       "onboard_time": 1743669562,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189021,
+      "num": 189021,
+      "word": "戚薇 素颜出门必碰熟人",
+      "onboard_time": 1743841701,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 189019,
@@ -7683,6 +7731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167411,
+      "num": 167411,
+      "word": "奈夫",
+      "onboard_time": 1743837439,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 167168,
       "num": 167168,
       "word": "吴敬平晒10岁樊振东反手技术",
@@ -7731,12 +7787,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 166220,
-      "num": 166220,
-      "word": "戚薇 素颜出门必碰熟人",
-      "onboard_time": 1743841701,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 166049,
+      "num": 166049,
+      "word": "王宝强棋士15集发现新ATM机",
+      "onboard_time": 1743844220,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 166039,
@@ -7857,14 +7913,6 @@
       "onboard_time": 1743655223,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163922,
-      "num": 163922,
-      "word": "奈夫",
-      "onboard_time": 1743837439,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 163811,
@@ -8667,6 +8715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148696,
+      "num": 148696,
+      "word": "北京母女用坚果祭奠八宝山革命公墓英烈",
+      "onboard_time": 1743840681,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148571,
       "num": 148571,
       "word": "如鸢新密探",
@@ -8841,14 +8897,6 @@
       "onboard_time": 1743811878,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 146657,
-      "num": 127862,
-      "word": "北京母女用坚果祭奠八宝山革命公墓英烈",
-      "onboard_time": 1743840681,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146647,
@@ -9939,6 +9987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131102,
+      "num": 131102,
+      "word": "张子墨戏腔",
+      "onboard_time": 1743844760,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130919,
       "num": 210923,
       "word": "戚薇郑秀晶同框",
@@ -10465,6 +10521,14 @@
       "onboard_time": 1743592824,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122502,
+      "num": 122502,
+      "word": "蒋一侨我考伯克利都没这么难",
+      "onboard_time": 1743842781,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 122448,
@@ -11683,6 +11747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101336,
+      "num": 101335,
+      "word": "1亿花粉过敏患者有救了",
+      "onboard_time": 1743843382,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 101245,
       "num": 101245,
       "word": "IZONE解散后崔叡娜首个演唱会",
@@ -11745,14 +11817,6 @@
       "onboard_time": 1743434602,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 100001,
-      "num": 100001,
-      "word": "特朗普去打高尔夫",
-      "onboard_time": 1743842180,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 99819,
@@ -12499,6 +12563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81848,
+      "num": 81848,
+      "word": "浪姐最有氛围感的一幕",
+      "onboard_time": 1743842960,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81836,
       "num": 285696,
       "word": "中国大模型首次用于地震救援",
@@ -12547,6 +12619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80669,
+      "num": 80669,
+      "word": "穆勒将结束25年拜仁生涯",
+      "onboard_time": 1743842781,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80120,
       "num": 80120,
       "word": "蒋一侨挨着侯佩岑说本草纲目可以",
@@ -12569,6 +12649,14 @@
       "onboard_time": 1743816020,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78434,
+      "num": 126466,
+      "word": "官方回应女子遇害因停尸费无法下葬",
+      "onboard_time": 1743844821,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77730,
@@ -12601,6 +12689,14 @@
       "onboard_time": 1743561081,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76801,
+      "num": 271504,
+      "word": "缅甸一古城大量古建筑在强震中损毁",
+      "onboard_time": 1743843740,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 76272,
@@ -12857,6 +12953,14 @@
       "onboard_time": 1743600082,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69493,
+      "num": 180983,
+      "word": "无畏海洋馆氛围感大片",
+      "onboard_time": 1743844040,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 69062,
@@ -15091,6 +15195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12088,
+      "num": 179838,
+      "word": "男子拔罐烧伤讨说法老板说关我啥事",
+      "onboard_time": 1743844700,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11947,
       "num": 177785,
       "word": "甲亢哥体验自动驾驶",
@@ -15251,6 +15363,14 @@
       "category": "民生新闻,军事"
     },
     {
+      "raw_hot": 9080,
+      "num": 101338,
+      "word": "新媒体运营那些黑话",
+      "onboard_time": 1743844641,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 8908,
       "num": 129697,
       "word": "实地探访一个人的小学",
@@ -15273,6 +15393,14 @@
       "onboard_time": 1743598943,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7925,
+      "num": 101336,
+      "word": "INS新乐园烟头事件当事人再发声",
+      "onboard_time": 1743844940,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7655,
