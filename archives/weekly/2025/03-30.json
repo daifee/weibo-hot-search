@@ -1,6 +1,6 @@
 {
   "startTime": 1743265742444,
-  "endTime": 1743862837070,
+  "endTime": 1743863896168,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1734417,
+      "num": 1734417,
+      "word": "刘奕畅拒演苍兰诀男二",
+      "onboard_time": 1743862343,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1730563,
       "num": 602919,
       "word": "吴彦祖发文谴责飞机上光脚踩座椅乘客",
@@ -513,6 +521,14 @@
       "onboard_time": 1743603685,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1675891,
+      "num": 658132,
+      "word": "王星演被绑架",
+      "onboard_time": 1743862284,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1674202,
@@ -1291,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1005848,
+      "num": 1005848,
+      "word": "很舒服但很伤身的6个行为",
+      "onboard_time": 1743859102,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1004976,
       "num": 1004976,
       "word": "翡翠摊主回应地震瞬间拿起高货就跑",
@@ -1939,6 +1963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 777684,
+      "num": 251730,
+      "word": "导致视力下降的真正原因",
+      "onboard_time": 1743860481,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 777573,
       "num": 777573,
       "word": "甲亢哥大喊中国制造做到了",
@@ -2001,14 +2033,6 @@
       "onboard_time": 1743343463,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 763989,
-      "num": 763989,
-      "word": "很舒服但很伤身的6个行为",
-      "onboard_time": 1743859102,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 756096,
@@ -2121,14 +2145,6 @@
       "onboard_time": 1743398841,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 735716,
-      "num": 251730,
-      "word": "导致视力下降的真正原因",
-      "onboard_time": 1743860481,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 732831,
@@ -2265,6 +2281,14 @@
       "onboard_time": 1743671063,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 688590,
+      "num": 253304,
+      "word": "钟丽丽恋情",
+      "onboard_time": 1743862763,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 683750,
@@ -2795,6 +2819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 588330,
+      "num": 396541,
+      "word": "柯淳片酬",
+      "onboard_time": 1743862343,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 587787,
       "num": 383382,
       "word": "金秀贤恐面临破产危机",
@@ -3227,6 +3259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 527877,
+      "num": 262852,
+      "word": "伊能静否认与秦昊各过各的",
+      "onboard_time": 1743861324,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 527118,
       "num": 527118,
       "word": "北京骑手回应缴五险一金后月收入",
@@ -3515,14 +3555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 485660,
-      "num": 396541,
-      "word": "柯淳片酬",
-      "onboard_time": 1743862343,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 485118,
       "num": 227403,
       "word": "特朗普说永远不会改变政策",
@@ -3697,14 +3729,6 @@
       "onboard_time": 1743680421,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 468709,
-      "num": 388380,
-      "word": "王星演被绑架",
-      "onboard_time": 1743862284,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 468553,
@@ -4288,14 +4312,6 @@
       "word": "檀健次 广西老表标配",
       "onboard_time": 1743860364,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 411375,
-      "num": 262852,
-      "word": "伊能静否认与秦昊各过各的",
-      "onboard_time": 1743861324,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -5649,14 +5665,6 @@
       "onboard_time": 1743674182,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 318671,
-      "num": 240522,
-      "word": "刘奕畅拒演苍兰诀男二",
-      "onboard_time": 1743862343,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 318565,
@@ -7459,6 +7467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231099,
+      "num": 231099,
+      "word": "苏新皓录屏",
+      "onboard_time": 1743862582,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230506,
       "num": 230506,
       "word": "陈紫函 戴向宇你算菀菀吧",
@@ -7883,6 +7899,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 218846,
+      "num": 218846,
+      "word": "美国超市物价暴涨30%",
+      "onboard_time": 1743862763,
+      "rank": 49,
+      "category": "财经,海外新闻"
+    },
+    {
       "raw_hot": 218739,
       "num": 218739,
       "word": "旅行青蛙",
@@ -7977,6 +8001,14 @@
       "onboard_time": 1743727040,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215062,
+      "num": 250799,
+      "word": "胡明轩31分",
+      "onboard_time": 1743862524,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 214826,
@@ -9297,6 +9329,14 @@
       "onboard_time": 1743639442,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194785,
+      "num": 194785,
+      "word": "向鹏4比1雨果",
+      "onboard_time": 1743863062,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 194717,
@@ -10635,14 +10675,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 176539,
-      "num": 176539,
-      "word": "胡明轩31分",
-      "onboard_time": 1743862524,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176319,
       "num": 176319,
       "word": "守护甜心几斗亲了亚梦",
@@ -11443,14 +11475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 165586,
-      "num": 165586,
-      "word": "苏新皓录屏",
-      "onboard_time": 1743862582,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165533,
       "num": 165533,
       "word": "客服回应盒马16.9元一片面包",
@@ -11600,6 +11624,14 @@
       "word": "断臂小伙用智能仿生手弹奏大鱼",
       "onboard_time": 1743303210,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163216,
+      "num": 266031,
+      "word": "5岁以下绝症儿童等不来的临终病床",
+      "onboard_time": 1743862224,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -12113,6 +12145,14 @@
       "onboard_time": 1743856102,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157143,
+      "num": 157143,
+      "word": "女生追星冲向车头被撞倒",
+      "onboard_time": 1743863004,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157001,
@@ -14331,6 +14371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135358,
+      "num": 249465,
+      "word": "广东男篮1比0上海男篮",
+      "onboard_time": 1743863184,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135343,
       "num": 135343,
       "word": "汪苏泷我想念鸟巢限定版",
@@ -14529,6 +14577,14 @@
       "onboard_time": 1743734060,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134007,
+      "num": 134007,
+      "word": "毛不易来看张惠妹演唱会了",
+      "onboard_time": 1743863662,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 133949,
@@ -14891,20 +14947,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130118,
-      "num": 130118,
-      "word": "钟丽丽恋情",
-      "onboard_time": 1743862763,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130113,
       "num": 130113,
       "word": "百事可乐 登陆少年",
       "onboard_time": 1743512663,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129924,
+      "num": 129924,
+      "word": "美国网友称领取食物队伍已爆满",
+      "onboard_time": 1743863662,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129920,
@@ -15273,14 +15329,6 @@
       "onboard_time": 1743302550,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126151,
-      "num": 126151,
-      "word": "美国超市物价暴涨30%",
-      "onboard_time": 1743862763,
-      "rank": 49,
-      "category": "财经,海外新闻"
     },
     {
       "raw_hot": 125995,
@@ -17417,6 +17465,14 @@
       "onboard_time": 1743850221,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103612,
+      "num": 255920,
+      "word": "广西小伙用地图标记25个祖宗墓地",
+      "onboard_time": 1743862164,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103571,
@@ -19787,14 +19843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60488,
-      "num": 255920,
-      "word": "广西小伙用地图标记25个祖宗墓地",
-      "onboard_time": 1743862164,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60420,
       "num": 150771,
       "word": "中国救援队伍在缅救出8人",
@@ -20217,14 +20265,6 @@
       "onboard_time": 1743418702,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 53495,
-      "num": 266031,
-      "word": "5岁以下绝症儿童等不来的临终病床",
-      "onboard_time": 1743862224,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53391,
@@ -20915,6 +20955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39508,
+      "num": 231638,
+      "word": "假期去瑞士平替的人开始发避雷帖了",
+      "onboard_time": 1743863423,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38996,
       "num": 287334,
       "word": "祁煜真害羞啦",
@@ -21129,6 +21177,14 @@
       "onboard_time": 1743452593,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 35438,
+      "num": 271189,
+      "word": "揭秘藏在节气里的农事密码",
+      "onboard_time": 1743862343,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35353,
@@ -21811,6 +21867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25190,
+      "num": 236112,
+      "word": "人放假了生物钟却没放假",
+      "onboard_time": 1743862403,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25151,
       "num": 236792,
       "word": "学白事前途如何",
@@ -21995,6 +22059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22548,
+      "num": 141696,
+      "word": "传统文化点亮春日文旅",
+      "onboard_time": 1743863844,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22461,
       "num": 134112,
       "word": "缅甸最高余震7.5级",
@@ -22161,14 +22233,6 @@
       "onboard_time": 1743418101,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 20096,
-      "num": 271189,
-      "word": "揭秘藏在节气里的农事密码",
-      "onboard_time": 1743862343,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20046,
@@ -22672,14 +22736,6 @@
       "word": "缅甸震后救援存在3大难点",
       "onboard_time": 1743363195,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12346,
-      "num": 236112,
-      "word": "人放假了生物钟却没放假",
-      "onboard_time": 1743862403,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
