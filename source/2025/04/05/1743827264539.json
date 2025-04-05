@@ -1,0 +1,410 @@
+{
+  "runTime": 1743827264539,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1111464,
+        "num": 1177834,
+        "word": "将台湾标注为国家问题地图入境被查",
+        "onboard_time": 1743824961,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 835857,
+        "num": 835857,
+        "word": "缅甸人哽咽说我们没有古建筑了",
+        "onboard_time": 1743823041,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65094,
+        "num": 835000,
+        "word": "被网友写给烈士的话戳到了",
+        "onboard_time": 1743825141,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 918198,
+        "num": 834928,
+        "word": "金子涵 退圈",
+        "onboard_time": 1743810317,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541426,
+        "num": 834842,
+        "word": "蒯曼0比4张本美和",
+        "onboard_time": 1743825921,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 834813,
+        "num": 834813,
+        "word": "赵露思 音乐节",
+        "onboard_time": 1743809718,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 651319,
+        "num": 651319,
+        "word": "房琪文案",
+        "onboard_time": 1743825980,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453204,
+        "num": 453204,
+        "word": "金价连续跳水",
+        "onboard_time": 1743809178,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 391451,
+        "num": 391451,
+        "word": "6家商会发声明回应美加征关税",
+        "onboard_time": 1743820161,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384224,
+        "num": 384224,
+        "word": "中方反制措施来了",
+        "onboard_time": 1743764421,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2476139,
+        "num": 383433,
+        "word": "于正公开李沐宸刘奕畅恋情",
+        "onboard_time": 1743824901,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559747,
+        "num": 352138,
+        "word": "美国运动员下跪拒与跨性别者比赛",
+        "onboard_time": 1743825680,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427045,
+        "num": 330636,
+        "word": "房琪",
+        "onboard_time": 1743821060,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79239,
+        "num": 317667,
+        "word": "甲亢哥中国行在外媒增长100万关注",
+        "onboard_time": 1743826521,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221621,
+        "num": 310703,
+        "word": "面筋哥生前后悔出名宁做普通人",
+        "onboard_time": 1743823281,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 294017,
+        "num": 294017,
+        "word": "女儿遇害后男子遭近40万遗体保存费",
+        "onboard_time": 1743825860,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285293,
+        "num": 285293,
+        "word": "金饰价格一夜大跌22元",
+        "onboard_time": 1743818781,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273296,
+        "num": 273296,
+        "word": "实习幼师抓伤6岁幼儿脸赔偿4万元",
+        "onboard_time": 1743816800,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258552,
+        "num": 258552,
+        "word": "卡琳娜丢蜥蜴误伤祝绪丹",
+        "onboard_time": 1743813500,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79757,
+        "num": 248749,
+        "word": "农村基层女性沉默的更年期",
+        "onboard_time": 1743826761,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243123,
+        "num": 243123,
+        "word": "李昀锐 掉代言",
+        "onboard_time": 1743827061,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220085,
+        "num": 220085,
+        "word": "小鬼李羲承互cha代表作",
+        "onboard_time": 1743826282,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212342,
+        "num": 212342,
+        "word": "吴宣仪情商",
+        "onboard_time": 1743812721,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204662,
+        "num": 204662,
+        "word": "中方在世贸组织起诉美对等关税措施",
+        "onboard_time": 1743762862,
+        "rank": 23,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 198024,
+        "num": 198024,
+        "word": "蒙古国发现汉朝士兵遗骸",
+        "onboard_time": 1743816860,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185599,
+        "num": 185599,
+        "word": "张凌赫急得耳朵都红了",
+        "onboard_time": 1743821060,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179703,
+        "num": 179703,
+        "word": "孙珍妮被放水敖瑞鹏敢怒不敢言",
+        "onboard_time": 1743825201,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177087,
+        "num": 177087,
+        "word": "SM新男团颜值",
+        "onboard_time": 1743824300,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161764,
+        "num": 161764,
+        "word": "掘金vs勇士",
+        "onboard_time": 1743823880,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152309,
+        "num": 152309,
+        "word": "航海王复播",
+        "onboard_time": 1743825801,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143154,
+        "num": 143154,
+        "word": "李艺彤回应不选李晟",
+        "onboard_time": 1743820101,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142714,
+        "num": 142714,
+        "word": "出租屋文学穷的真只剩爱了",
+        "onboard_time": 1743822799,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139705,
+        "num": 139705,
+        "word": "妈妈回应3岁女儿报警抓抽烟舅舅",
+        "onboard_time": 1743823940,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137048,
+        "num": 137048,
+        "word": "柯淳被尔冬升贴脸开大",
+        "onboard_time": 1743822620,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100187,
+        "num": 134619,
+        "word": "全红婵教科书级跳水让外国选手看呆",
+        "onboard_time": 1743823940,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134253,
+        "num": 134253,
+        "word": "全红婵陈芋汐单人跳也同步",
+        "onboard_time": 1743825020,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131785,
+        "num": 131785,
+        "word": "孙俪最薄的人干最狠的事",
+        "onboard_time": 1743826940,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124480,
+        "num": 124480,
+        "word": "美股纳指进入熊市",
+        "onboard_time": 1743809898,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121902,
+        "num": 121902,
+        "word": "温如也",
+        "onboard_time": 1743822799,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15264,
+        "num": 117885,
+        "word": "漫画还原甲亢哥香港行名场面",
+        "onboard_time": 1743826521,
+        "rank": 39,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 117836,
+        "num": 117836,
+        "word": "冰壶",
+        "onboard_time": 1743825921,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117319,
+        "num": 117319,
+        "word": "于正说可以重新认识一下洪尧",
+        "onboard_time": 1743825321,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112939,
+        "num": 112939,
+        "word": "广西女子一家背水泥爬30米悬崖祭祖",
+        "onboard_time": 1743819380,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73407,
+        "num": 109900,
+        "word": "南京海关查获12幅问题地图",
+        "onboard_time": 1743827241,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109361,
+        "num": 109361,
+        "word": "国产剧意识到反派死于话多定律",
+        "onboard_time": 1743824541,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107506,
+        "num": 107506,
+        "word": "白鹿双马尾贝雷帽",
+        "onboard_time": 1743822861,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74201,
+        "num": 104972,
+        "word": "解锁打开春天的N种方式",
+        "onboard_time": 1743825081,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104539,
+        "num": 104539,
+        "word": "周柯宇新剧一觉醒来天塌了又塌",
+        "onboard_time": 1743825381,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93040,
+        "num": 93040,
+        "word": "清明假期第2天",
+        "onboard_time": 1743812059,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92713,
+        "num": 92713,
+        "word": "比尔怒砍1分",
+        "onboard_time": 1743825201,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#义务植树是全民行动#"
+    }
+  }
+}

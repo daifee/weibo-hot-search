@@ -1,7 +1,15 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743824851225,
+  "endTime": 1743827264539,
   "band_list": [
+    {
+      "raw_hot": 2476139,
+      "num": 383433,
+      "word": "于正公开李沐宸刘奕畅恋情",
+      "onboard_time": 1743824901,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2037775,
       "num": 482194,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1450859,
-      "num": 613698,
+      "num": 834928,
       "word": "金子涵 退圈",
       "onboard_time": 1743810317,
       "rank": 3,
@@ -43,6 +51,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1111464,
+      "num": 1177834,
+      "word": "将台湾标注为国家问题地图入境被查",
+      "onboard_time": 1743824961,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1051556,
       "num": 1168249,
       "word": "吴宣仪情商",
@@ -65,6 +81,22 @@
       "onboard_time": 1743816800,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 835857,
+      "num": 835857,
+      "word": "缅甸人哽咽说我们没有古建筑了",
+      "onboard_time": 1743823041,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 651319,
+      "num": 651319,
+      "word": "房琪文案",
+      "onboard_time": 1743825980,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 646819,
@@ -97,6 +129,22 @@
       "onboard_time": 1743813500,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 559747,
+      "num": 352138,
+      "word": "美国运动员下跪拒与跨性别者比赛",
+      "onboard_time": 1743825680,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 541426,
+      "num": 834842,
+      "word": "蒯曼0比4张本美和",
+      "onboard_time": 1743825921,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 523674,
@@ -155,14 +203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 413688,
-      "num": 413688,
-      "word": "缅甸人哽咽说我们没有古建筑了",
-      "onboard_time": 1743823041,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 404245,
       "num": 404245,
       "word": "红山动物园都不让大家白来嗷",
@@ -179,12 +219,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369557,
-      "num": 369557,
+      "raw_hot": 391451,
+      "num": 391451,
       "word": "6家商会发声明回应美加征关税",
       "onboard_time": 1743820161,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 384224,
+      "num": 384224,
+      "word": "中方反制措施来了",
+      "onboard_time": 1743764421,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 364404,
@@ -201,14 +249,6 @@
       "onboard_time": 1743816140,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 359377,
-      "num": 359377,
-      "word": "中方反制措施来了",
-      "onboard_time": 1743764421,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 351857,
@@ -275,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294017,
+      "num": 294017,
+      "word": "女儿遇害后男子遭近40万遗体保存费",
+      "onboard_time": 1743825860,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286516,
       "num": 184082,
       "word": "在缅华人视频通话时目睹妻儿被掩埋",
@@ -323,6 +371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 243123,
+      "num": 243123,
+      "word": "李昀锐 掉代言",
+      "onboard_time": 1743827061,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240097,
       "num": 240097,
       "word": "鞠婧祎躺在陈都灵怀里",
@@ -361,6 +417,14 @@
       "onboard_time": 1743810138,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220085,
+      "num": 220085,
+      "word": "小鬼李羲承互cha代表作",
+      "onboard_time": 1743826282,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 215384,
@@ -443,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179703,
+      "num": 179703,
+      "word": "孙珍妮被放水敖瑞鹏敢怒不敢言",
+      "onboard_time": 1743825201,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179638,
       "num": 179638,
       "word": "学会上班立人设后我不内耗了",
@@ -457,6 +529,14 @@
       "onboard_time": 1743823940,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177087,
+      "num": 177087,
+      "word": "SM新男团颜值",
+      "onboard_time": 1743824300,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 176195,
@@ -515,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161764,
+      "num": 161764,
+      "word": "掘金vs勇士",
+      "onboard_time": 1743823880,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159475,
       "num": 159475,
       "word": "清明假期第2天",
@@ -555,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 152309,
+      "num": 152309,
+      "word": "航海王复播",
+      "onboard_time": 1743825801,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 152283,
       "num": 152283,
       "word": "翟潇闻手机壁纸是红房子",
@@ -569,14 +665,6 @@
       "onboard_time": 1743824541,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148807,
-      "num": 148807,
-      "word": "SM新男团颜值",
-      "onboard_time": 1743824300,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 147080,
@@ -601,14 +689,6 @@
       "onboard_time": 1743733702,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 140725,
-      "num": 140725,
-      "word": "掘金vs勇士",
-      "onboard_time": 1743823880,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 140522,
@@ -651,6 +731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 134253,
+      "num": 134253,
+      "word": "全红婵陈芋汐单人跳也同步",
+      "onboard_time": 1743825020,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133419,
       "num": 133419,
       "word": "原来车身越硬不等于越安全",
@@ -665,6 +753,14 @@
       "onboard_time": 1743817160,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 131785,
+      "num": 131785,
+      "word": "孙俪最薄的人干最狠的事",
+      "onboard_time": 1743826940,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 130727,
@@ -747,6 +843,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117836,
+      "num": 117836,
+      "word": "冰壶",
+      "onboard_time": 1743825921,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117319,
+      "num": 117319,
+      "word": "于正说可以重新认识一下洪尧",
+      "onboard_time": 1743825321,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117244,
       "num": 157529,
       "word": "跟着AI玩北京是啥体验",
@@ -827,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104539,
+      "num": 104539,
+      "word": "周柯宇新剧一觉醒来天塌了又塌",
+      "onboard_time": 1743825381,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99099,
       "num": 99099,
       "word": "故宫将解锁乾隆花园新地图",
@@ -873,6 +993,14 @@
       "onboard_time": 1743822560,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 92713,
+      "num": 92713,
+      "word": "比尔怒砍1分",
+      "onboard_time": 1743825201,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 87135,
@@ -923,6 +1051,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79757,
+      "num": 248749,
+      "word": "农村基层女性沉默的更年期",
+      "onboard_time": 1743826761,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79239,
+      "num": 317667,
+      "word": "甲亢哥中国行在外媒增长100万关注",
+      "onboard_time": 1743826521,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79058,
       "num": 79058,
       "word": "马斯克身价2天缩水310亿美元",
@@ -955,6 +1099,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 74201,
+      "num": 104972,
+      "word": "解锁打开春天的N种方式",
+      "onboard_time": 1743825081,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73889,
       "num": 73889,
       "word": "小伙患抑郁暴食2年长近百斤",
@@ -969,6 +1121,14 @@
       "onboard_time": 1743777863,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 73407,
+      "num": 109900,
+      "word": "南京海关查获12幅问题地图",
+      "onboard_time": 1743827241,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72983,
@@ -1009,6 +1169,14 @@
       "onboard_time": 1743816860,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65094,
+      "num": 835000,
+      "word": "被网友写给烈士的话戳到了",
+      "onboard_time": 1743825141,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64221,
@@ -1259,6 +1427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15264,
+      "num": 117885,
+      "word": "漫画还原甲亢哥香港行名场面",
+      "onboard_time": 1743826521,
+      "rank": 39,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 14936,
       "num": 16156,
       "word": "柳絮来了",
@@ -1316,6 +1492,9 @@
     },
     {
       "word": "#清明念英烈#"
+    },
+    {
+      "word": "#义务植树是全民行动#"
     }
   ]
 }
