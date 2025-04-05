@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743884635491,
+  "endTime": 1743885439282,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -16627,20 +16627,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 13609,
-      "num": 16832,
-      "word": "金饰价格2天大跌32元",
-      "onboard_time": 1743882915,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 13425,
+      "raw_hot": 13918,
       "num": 19575,
       "word": "这两天问勇路摆满了鲜花",
       "onboard_time": 1743883094,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 13824,
+      "num": 16832,
+      "word": "金饰价格2天大跌32元",
+      "onboard_time": 1743882915,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 13379,
