@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743831608298,
+  "endTime": 1743834683750,
   "band_list": [
     {
       "raw_hot": 2476139,
@@ -131,7 +131,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 717978,
+      "raw_hot": 749977,
       "num": 717978,
       "word": "怀疑买到了被洪水泡过的卫生巾",
       "onboard_time": 1743827302,
@@ -195,12 +195,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 533659,
+      "num": 452376,
+      "word": "王星越 常驻hi6",
+      "onboard_time": 1743833001,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523674,
       "num": 413268,
       "word": "面筋哥生前后悔出名宁做普通人",
       "onboard_time": 1743823281,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 520948,
+      "num": 520948,
+      "word": "女生发现杯中吸管脏成黑芝麻糊",
+      "onboard_time": 1743832220,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 511680,
+      "num": 437302,
+      "word": "管乐笑的好勉强",
+      "onboard_time": 1743831921,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 485118,
@@ -339,6 +363,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337566,
+      "num": 304134,
+      "word": "侯明昊改ID了",
+      "onboard_time": 1743830660,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 324801,
+      "num": 303319,
+      "word": "40岁王冕退圈备孕遇胎停",
+      "onboard_time": 1743834320,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310381,
       "num": 310381,
       "word": "特朗普说马斯克或在几个月内离职",
@@ -379,6 +419,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296727,
+      "num": 296727,
+      "word": "小车撞起火司机昏迷众人破窗救人",
+      "onboard_time": 1743830302,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 286961,
+      "num": 286961,
+      "word": "雅漾 樊振东",
+      "onboard_time": 1743831501,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286516,
       "num": 184082,
       "word": "在缅华人视频通话时目睹妻儿被掩埋",
@@ -387,20 +443,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 283540,
+      "num": 283540,
+      "word": "北京一房东偷拍情侣租客被判刑",
+      "onboard_time": 1743831562,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265090,
       "num": 436145,
       "word": "马克龙呼吁欧盟别再天真了",
       "onboard_time": 1743820340,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 264570,
-      "num": 264570,
-      "word": "侯明昊改ID了",
-      "onboard_time": 1743830660,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 261967,
@@ -451,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240597,
+      "num": 303060,
+      "word": "美国超市中国商品被民众抢购",
+      "onboard_time": 1743833961,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 240097,
       "num": 240097,
       "word": "鞠婧祎躺在陈都灵怀里",
@@ -465,6 +529,14 @@
       "onboard_time": 1743809898,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 224424,
+      "num": 224424,
+      "word": "NJZ组合ins改名",
+      "onboard_time": 1743831082,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 223640,
@@ -547,12 +619,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 192798,
-      "num": 192798,
-      "word": "雅漾 樊振东",
-      "onboard_time": 1743831501,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 191400,
+      "num": 191400,
+      "word": "吴宣仪 在学了在学了",
+      "onboard_time": 1743832581,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 190119,
@@ -579,12 +651,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188545,
+      "num": 188545,
+      "word": "林一顶级男模",
+      "onboard_time": 1743834441,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186905,
       "num": 186905,
       "word": "把女朋友废话剪掉才发现她这么爱我",
       "onboard_time": 1743818781,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185534,
+      "num": 185534,
+      "word": "卢靖姗以前没想过要孩子",
+      "onboard_time": 1743833601,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 182266,
@@ -611,6 +699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179989,
+      "num": 179989,
+      "word": "春和景明",
+      "onboard_time": 1743832461,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179703,
       "num": 179703,
       "word": "孙珍妮被放水敖瑞鹏敢怒不敢言",
@@ -633,6 +729,14 @@
       "onboard_time": 1743823940,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177101,
+      "num": 177101,
+      "word": "这部双女主剧治好了我的容貌焦虑",
+      "onboard_time": 1743833541,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 177087,
@@ -673,6 +777,14 @@
       "onboard_time": 1743822141,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173058,
+      "num": 173058,
+      "word": "VaVa卡琳娜隔空蛐蛐赵兆",
+      "onboard_time": 1743833721,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 171299,
@@ -803,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148936,
+      "num": 304639,
+      "word": "朱雨玲4比2大藤沙月",
+      "onboard_time": 1743833421,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148571,
       "num": 148571,
       "word": "如鸢新密探",
@@ -841,6 +961,14 @@
       "onboard_time": 1743775042,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139868,
+      "num": 139868,
+      "word": "建议身弱之人把人设搞崩",
+      "onboard_time": 1743832641,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 139462,
@@ -979,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126868,
+      "num": 126868,
+      "word": "甲亢哥在香港变甲减",
+      "onboard_time": 1743831382,
+      "rank": 39,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 126222,
       "num": 126222,
       "word": "谢娜齐思钧补刀",
@@ -1003,20 +1139,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 123921,
-      "num": 123921,
-      "word": "小车撞起火司机昏迷众人破窗救人",
-      "onboard_time": 1743830302,
-      "rank": 44,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 123135,
       "num": 123135,
       "word": "jayjay公开",
       "onboard_time": 1743765561,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120757,
+      "num": 120757,
+      "word": "英国王查尔斯用胡萝卜演奏儿歌",
+      "onboard_time": 1743832461,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120728,
@@ -1091,12 +1227,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 114232,
-      "num": 114232,
-      "word": "NJZ组合ins改名",
-      "onboard_time": 1743831082,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 116222,
+      "num": 116222,
+      "word": "朱雨玲逆转晋级4强",
+      "onboard_time": 1743833121,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 113290,
@@ -1123,12 +1259,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 111887,
-      "num": 111887,
-      "word": "北京一房东偷拍情侣租客被判刑",
-      "onboard_time": 1743831562,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 112283,
+      "num": 112283,
+      "word": "中国对美全面加征关税释放的信号",
+      "onboard_time": 1743833541,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111614,
@@ -1203,6 +1339,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102217,
+      "num": 102217,
+      "word": "卡琳娜实力",
+      "onboard_time": 1743834501,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99819,
+      "num": 99819,
+      "word": "中柬云壤港联合保障和训练中心正式运行",
+      "onboard_time": 1743834262,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 99099,
       "num": 99099,
       "word": "故宫将解锁乾隆花园新地图",
@@ -1264,6 +1416,14 @@
       "word": "王楚钦笑到模糊",
       "onboard_time": 1743829942,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92240,
+      "num": 92240,
+      "word": "威少遭遇世界难题",
+      "onboard_time": 1743834620,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1457,6 +1617,14 @@
       "onboard_time": 1743782721,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 62232,
+      "num": 303655,
+      "word": "贸易战没有赢家保护主义不是出路",
+      "onboard_time": 1743833421,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 61796,
@@ -1683,6 +1851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22054,
+      "num": 122981,
+      "word": "蒯曼无缘仁川赛四强",
+      "onboard_time": 1743830781,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17673,
       "num": 24314,
       "word": "何浩楠清明新歌梨雪飞",
@@ -1761,14 +1937,6 @@
       "onboard_time": 1743797954,
       "rank": 23,
       "category": "民生新闻,军事"
-    },
-    {
-      "raw_hot": 7939,
-      "num": 114306,
-      "word": "甲亢哥在香港变甲减",
-      "onboard_time": 1743831382,
-      "rank": 39,
-      "category": "民生新闻,网红"
     }
   ],
   "hotgov_list": [
