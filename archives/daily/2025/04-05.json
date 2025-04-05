@@ -1,6 +1,6 @@
 {
   "startTime": 1743784167565,
-  "endTime": 1743827264539,
+  "endTime": 1743828118218,
   "band_list": [
     {
       "raw_hot": 2476139,
@@ -24,6 +24,14 @@
       "word": "金子涵 退圈",
       "onboard_time": 1743810317,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1360919,
+      "num": 344776,
+      "word": "李昀锐 掉代言",
+      "onboard_time": 1743827061,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -91,7 +99,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 651319,
+      "raw_hot": 750189,
       "num": 651319,
       "word": "房琪文案",
       "onboard_time": 1743825980,
@@ -219,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394893,
+      "num": 394893,
+      "word": "女儿遇害后男子遭近40万遗体保存费",
+      "onboard_time": 1743825860,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 391451,
       "num": 391451,
       "word": "6家商会发声明回应美加征关税",
@@ -291,6 +307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 308141,
+      "num": 308141,
+      "word": "老教授去世5年多奖学金仍年年到账",
+      "onboard_time": 1743827302,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307655,
       "num": 307655,
       "word": "李晟感谢49位朋友的支持",
@@ -315,12 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294017,
-      "num": 294017,
-      "word": "女儿遇害后男子遭近40万遗体保存费",
-      "onboard_time": 1743825860,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 296994,
+      "num": 150951,
+      "word": "怀疑买到了被洪水泡过的卫生巾",
+      "onboard_time": 1743827302,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 286516,
@@ -371,12 +395,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 243123,
-      "num": 243123,
-      "word": "李昀锐 掉代言",
-      "onboard_time": 1743827061,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 245022,
+      "num": 323374,
+      "word": "甲亢哥中国行在外媒增长100万关注",
+      "onboard_time": 1743826521,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240097,
@@ -547,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176114,
+      "num": 150823,
+      "word": "苟芸慧承认离婚",
+      "onboard_time": 1743827362,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175921,
       "num": 175921,
       "word": "赵露思演出收益全部捐出去",
@@ -691,6 +723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141965,
+      "num": 141965,
+      "word": "李沐宸 刘奕畅",
+      "onboard_time": 1743827962,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140522,
       "num": 140522,
       "word": "美媒曝白宫至少拉了20个群聊机密",
@@ -723,6 +763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135751,
+      "num": 135751,
+      "word": "你好星期六全员cos天气预报转场",
+      "onboard_time": 1743827780,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135205,
       "num": 135205,
       "word": "河南人的早餐只有两类",
@@ -732,7 +780,7 @@
     },
     {
       "raw_hot": 134253,
-      "num": 134253,
+      "num": 164579,
       "word": "全红婵陈芋汐单人跳也同步",
       "onboard_time": 1743825020,
       "rank": 35,
@@ -843,12 +891,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120286,
+      "num": 120286,
+      "word": "这么活人感的妆造进入内娱",
+      "onboard_time": 1743827483,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117836,
       "num": 117836,
       "word": "冰壶",
       "onboard_time": 1743825921,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117491,
+      "num": 248749,
+      "word": "农村基层女性沉默的更年期",
+      "onboard_time": 1743826761,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117319,
@@ -945,6 +1009,14 @@
       "onboard_time": 1743825381,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104522,
+      "num": 104522,
+      "word": "向阳花赵丽颖怒砸恶人片段",
+      "onboard_time": 1743827542,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 99099,
@@ -1051,22 +1123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79757,
-      "num": 248749,
-      "word": "农村基层女性沉默的更年期",
-      "onboard_time": 1743826761,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79239,
-      "num": 317667,
-      "word": "甲亢哥中国行在外媒增长100万关注",
-      "onboard_time": 1743826521,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79058,
       "num": 79058,
       "word": "马斯克身价2天缩水310亿美元",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1743811038,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75462,
+      "num": 151185,
+      "word": "超级战队50周年",
+      "onboard_time": 1743827302,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 75399,
@@ -1315,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45172,
+      "num": 116870,
+      "word": "德国考虑从美撤回1200吨黄金储备",
+      "onboard_time": 1743827901,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44756,
       "num": 47004,
       "word": "Speed甲亢哥安利国产动画超能立方",
@@ -1361,6 +1433,14 @@
       "onboard_time": 1743790755,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25414,
+      "num": 115260,
+      "word": "2女儿起诉母亲不告诉其父安葬地",
+      "onboard_time": 1743828024,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24751,
