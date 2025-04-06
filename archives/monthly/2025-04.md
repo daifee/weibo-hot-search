@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/06 19:36:15
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/06 20:42:18
 </p>
 </blockquote>
 <p>
@@ -687,6 +687,12 @@ VaVa 灰原哀（热度：1212430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AE%89%E9%9D%99%E7%9A%84%E4%BB%B7%E6%A0%BC%E8%BF%99%E4%B9%88%E8%B4%B5%23" target="weibo">
+原来安静的价格这么贵（热度：1119427）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E4%BF%A9%E5%A4%87%E5%AD%95%E6%97%A0%E6%9E%9C%E5%88%B0%E7%83%88%E5%A3%AB%E9%99%B5%E5%9B%AD%E6%B1%82%E5%AD%90%23" target="weibo">
 夫妻俩备孕无果到烈士陵园求子（热度：1118402）
 </a>
@@ -995,6 +1001,12 @@ vava发博向杨超越道歉（热度：968479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23SM%E6%96%B0%E7%94%B7%E5%9B%A2%20%E6%92%9E%E5%90%8D%23" target="weibo">
 SM新男团 撞名（热度：910464）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%B9%8F%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B%23" target="weibo">
+向鹏男单冠军（热度：907017）
 </a>
 </li>
 
@@ -1607,6 +1619,12 @@ Daniel公开（热度：626903）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%20%E6%88%91%E6%B1%82%E6%B1%82%E4%BD%A0%E7%9C%8B%E6%88%91%E4%B8%80%E7%9C%BC%23" target="weibo">
 华晨宇 我求求你看我一眼（热度：613332）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%80%BC%E5%BE%97%E7%88%B111%E9%9B%86%E5%81%9A%E6%81%A8%23" target="weibo">
+值得爱11集做恨（热度：612731）
 </a>
 </li>
 
@@ -2261,6 +2279,12 @@ SM新男团（热度：491910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E6%94%B9%E5%8F%98%E6%94%BF%E7%AD%96%23" target="weibo">
 特朗普说永远不会改变政策（热度：485118）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B315%E5%91%A8%E5%B9%B4%23" target="weibo">
+小米15周年（热度：485000）
 </a>
 </li>
 
@@ -4407,6 +4431,12 @@ DeepSeek一句话让赵牧辰脸红（热度：252332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%9A%E7%9D%A1%E6%99%9A%E8%B5%B7%E4%BD%86%E7%9D%A1%E5%A4%9F8%E5%B0%8F%E6%97%B6%E8%BF%98%E4%BC%A4%E8%BA%AB%E5%90%97%23" target="weibo">
+晚睡晚起但睡够8小时还伤身吗（热度：246798）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E5%88%91%E6%9C%9F%E6%88%96%E5%88%9B%E6%96%B0%E9%AB%98%23" target="weibo">
 尹锡悦刑期或创新高（热度：246629）
 </a>
@@ -4815,6 +4845,12 @@ NJZ组合ins改名（热度：224424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E8%B1%AA%E5%9C%A8%E5%88%9B%E9%80%A0%E8%90%A5%E5%B8%85%E5%9B%9E%E4%B8%BB%E5%9C%BA%E4%BA%86%23" target="weibo">
+任豪在创造营帅回主场了（热度：221516）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%82%E6%AF%93%E9%BA%9F%E5%AD%99%E4%B9%90%E8%A8%80%E5%93%84%E5%A8%83%E7%9D%A1%E8%A7%89%E5%8F%98%E8%8B%A6%E5%91%BD%E9%B8%B3%E9%B8%AF%23" target="weibo">
 涂毓麟孙乐言哄娃睡觉变苦命鸳鸯（热度：221451）
 </a>
@@ -4865,12 +4901,6 @@ NJZ组合ins改名（热度：224424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8C%85%E5%9C%BA%E6%94%AF%E6%8C%81%E5%BC%A0%E8%89%BA%E5%85%B4%23" target="weibo">
 肖战包场支持张艺兴（热度：220046）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%80%BC%E5%BE%97%E7%88%B111%E9%9B%86%E5%81%9A%E6%81%A8%23" target="weibo">
-值得爱11集做恨（热度：219904）
 </a>
 </li>
 
@@ -5553,6 +5583,12 @@ SMTR25单人预告（热度：199655）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E6%96%B0%E5%89%A7%E6%BC%94%E5%8F%8D%E6%B4%BEboss%23" target="weibo">
+李小冉新剧演反派boss（热度：198909）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23hamin%E8%BF%98%E4%B8%8D%E5%85%AC%E5%BC%80%23" target="weibo">
 hamin还不公开（热度：198897）
 </a>
@@ -5645,6 +5681,12 @@ hamin还不公开（热度：198897）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7AI%E7%A7%B0%E9%87%91%E7%A7%80%E8%B4%A4%E7%97%9B%E5%93%AD%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E8%A1%A8%E6%BC%94%23" target="weibo">
 国产AI称金秀贤痛哭大概率是表演（热度：197054）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23SMTR25%E5%9B%A2%E4%BD%93%E9%A2%84%E5%91%8A%23" target="weibo">
+SMTR25团体预告（热度：196994）
 </a>
 </li>
 
@@ -5775,6 +5817,12 @@ LPL（热度：195887）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%AD%A3%E5%BB%B7%E5%87%BA%E9%81%93%E4%B8%83%E5%91%A8%E5%B9%B4%E7%9B%B4%E6%92%AD%23" target="weibo">
+朱正廷出道七周年直播（热度：194037）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%81%E5%9B%9E%E6%97%B6%20%E5%8F%8C%E6%B4%81%E5%85%9A%23" target="weibo">
 雁回时 双洁党（热度：193984）
 </a>
@@ -5853,6 +5901,12 @@ HLE对战GEN（热度：193338）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23GEN%E6%88%98%E8%83%9CT1%23" target="weibo">
+GEN战胜T1（热度：193198）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E5%89%A7%E9%9A%BE%E5%93%84%23" target="weibo">
 影视剧难哄（热度：193174）
 </a>
@@ -5879,6 +5933,12 @@ HLE对战GEN（热度：193338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%A2%AB%E5%A5%B3%E5%84%BF%E6%9C%A8%E6%9C%A8%E7%8E%B0%E5%9C%BA%E8%A1%A8%E7%99%BD%23" target="weibo">
 张艺兴被女儿木木现场表白（热度：192331）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%B2%A4%E5%86%8D%E8%B7%B3%E4%BD%A0%E6%9C%80%E6%9C%80%E6%9C%80%E9%87%8D%E8%A6%81%23" target="weibo">
+赵粤再跳你最最最重要（热度：192316）
 </a>
 </li>
 
@@ -5951,66 +6011,6 @@ A股（热度：192039）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8D%AB%E8%A1%A3look%23" target="weibo">
 王一博卫衣look（热度：190731）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8Cvs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
-陈幸同vs张本美和（热度：190674）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23XIUMIN%E8%B7%B3%E4%BA%86TFBOYS%E7%9A%84%E7%88%B1%E5%87%BA%E5%8F%91%23" target="weibo">
-XIUMIN跳了TFBOYS的爱出发（热度：190551）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E4%BA%91%E4%B9%8B%E4%B8%8A%E5%AE%9A%E6%A1%A3%23" target="weibo">
-乌云之上定档（热度：190338）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%BC%80%E5%A7%8B%E6%8F%90%E5%89%8D%E5%A4%84%E7%90%86%E6%95%B0%E5%AD%97%E9%81%97%E4%BA%A7%23" target="weibo">
-00后开始提前处理数字遗产（热度：190338）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E5%AE%A3%E5%B8%83%E7%B4%A7%E6%80%A5%E6%88%92%E4%B8%A5%E8%BF%9D%E5%8F%8D%E6%88%92%E4%B8%A5%E6%B3%95%23" target="weibo">
-尹锡悦宣布紧急戒严违反戒严法（热度：190229）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%9F%B3%E4%B9%90%E8%8A%82%E6%8D%90%E8%B5%A0%E7%99%BE%E4%B8%87%23" target="weibo">
-赵露思音乐节捐赠百万（热度：190119）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E9%87%91%E9%B1%BC%E5%B0%91%E5%B9%B4%E5%85%89%E5%BD%B1%E5%A4%A7%E7%89%87%23" target="weibo">
-一诺金鱼少年光影大片（热度：190080）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E6%9C%BA%E5%9C%BA%E7%94%9F%E5%90%83%E5%BD%A9%E6%A4%92%23" target="weibo">
-吉克隽逸机场生吃彩椒（热度：189978）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E4%B8%91%E8%B6%8A%E5%A4%9A%20%E6%88%90%E9%95%BF%E8%B6%8A%E5%BF%AB%23" target="weibo">
-出丑越多 成长越快（热度：189772）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E9%A5%AD%E8%B7%91%E6%AD%A5%E5%92%8C%E6%81%8B%E7%88%B1%E5%AE%9A%E6%A1%A3%23" target="weibo">
-吃饭跑步和恋爱定档（热度：189618）
 </a>
 </li>
 

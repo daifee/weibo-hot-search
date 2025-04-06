@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743939375816,
+  "endTime": 1743943338069,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -899,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1119427,
+      "num": 246504,
+      "word": "原来安静的价格这么贵",
+      "onboard_time": 1743939381,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1118402,
       "num": 419595,
       "word": "夫妻俩备孕无果到烈士陵园求子",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1743768442,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 907017,
+      "num": 1145122,
+      "word": "向鹏男单冠军",
+      "onboard_time": 1743941062,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 903650,
@@ -2129,6 +2145,14 @@
       "onboard_time": 1743864623,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 612731,
+      "num": 612731,
+      "word": "值得爱11集做恨",
+      "onboard_time": 1743938421,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 610967,
@@ -3001,6 +3025,14 @@
       "onboard_time": 1743781941,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 485000,
+      "num": 485000,
+      "word": "小米15周年",
+      "onboard_time": 1743909620,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 484912,
@@ -5859,6 +5891,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 246798,
+      "num": 193498,
+      "word": "晚睡晚起但睡够8小时还伤身吗",
+      "onboard_time": 1743938180,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 246629,
       "num": 246629,
       "word": "尹锡悦刑期或创新高",
@@ -6403,6 +6443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221516,
+      "num": 221516,
+      "word": "任豪在创造营帅回主场了",
+      "onboard_time": 1743940223,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221451,
       "num": 221451,
       "word": "涂毓麟孙乐言哄娃睡觉变苦命鸳鸯",
@@ -6473,14 +6521,6 @@
       "onboard_time": 1743661161,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 219904,
-      "num": 224158,
-      "word": "值得爱11集做恨",
-      "onboard_time": 1743938421,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 219649,
@@ -7387,6 +7427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198909,
+      "num": 198909,
+      "word": "李小冉新剧演反派boss",
+      "onboard_time": 1743942561,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198897,
       "num": 281127,
       "word": "hamin还不公开",
@@ -7512,6 +7560,14 @@
       "word": "国产AI称金秀贤痛哭大概率是表演",
       "onboard_time": 1743685886,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196994,
+      "num": 196994,
+      "word": "SMTR25团体预告",
+      "onboard_time": 1743941601,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -7683,6 +7739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194037,
+      "num": 194037,
+      "word": "朱正廷出道七周年直播",
+      "onboard_time": 1743941661,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193984,
       "num": 152375,
       "word": "雁回时 双洁党",
@@ -7787,6 +7851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193198,
+      "num": 193198,
+      "word": "GEN战胜T1",
+      "onboard_time": 1743943280,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193174,
       "num": 193174,
       "word": "影视剧难哄",
@@ -7825,6 +7897,14 @@
       "onboard_time": 1743606385,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192316,
+      "num": 192316,
+      "word": "赵粤再跳你最最最重要",
+      "onboard_time": 1743943223,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 192169,
@@ -8257,6 +8337,14 @@
       "onboard_time": 1743850162,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185961,
+      "num": 185961,
+      "word": "王艺迪挽救4赛点惊天逆转",
+      "onboard_time": 1743941422,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 185865,
@@ -10243,6 +10331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155171,
+      "num": 155171,
+      "word": "美国普通人担心关税让钱包受伤",
+      "onboard_time": 1743941301,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155118,
       "num": 155118,
       "word": "赵丽颖替边缘人群发声",
@@ -10667,6 +10763,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 149588,
+      "num": 149588,
+      "word": "任豪主题曲串烧秒回创2019",
+      "onboard_time": 1743942260,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149572,
       "num": 240614,
       "word": "虎跳峡长满了东南亚人",
@@ -10721,6 +10825,14 @@
       "onboard_time": 1743840681,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148618,
+      "num": 148618,
+      "word": "棋士",
+      "onboard_time": 1743610760,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 148571,
@@ -11531,12 +11643,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 138689,
-      "num": 138689,
-      "word": "晚睡晚起但睡够8小时还伤身吗",
-      "onboard_time": 1743938180,
-      "rank": 45,
-      "category": "健康医疗"
+      "raw_hot": 138706,
+      "num": 138706,
+      "word": "王心凌把星星穿在身上",
+      "onboard_time": 1743939922,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 138394,
@@ -11841,6 +11953,14 @@
       "onboard_time": 1743656902,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135135,
+      "num": 202883,
+      "word": "向鹏vs李尚洙",
+      "onboard_time": 1743933321,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 135081,
@@ -12449,14 +12569,6 @@
       "onboard_time": 1743938001,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 128701,
-      "num": 128701,
-      "word": "小米15周年",
-      "onboard_time": 1743909620,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 128117,
@@ -13915,6 +14027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111682,
+      "num": 111682,
+      "word": "仙逆王林李慕婉",
+      "onboard_time": 1743940881,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 111614,
       "num": 168796,
       "word": "库里36分",
@@ -14089,6 +14209,14 @@
       "onboard_time": 1743760941,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109269,
+      "num": 109269,
+      "word": "孟美岐街头女战士",
+      "onboard_time": 1743941661,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 109194,
@@ -14995,6 +15123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 93747,
+      "num": 256229,
+      "word": "增强有效应对美关税冲击的信心",
+      "onboard_time": 1743942322,
+      "rank": 9,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 93334,
       "num": 134447,
       "word": "宇露君沾",
@@ -15025,14 +15161,6 @@
       "onboard_time": 1743687683,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92904,
-      "num": 202883,
-      "word": "向鹏vs李尚洙",
-      "onboard_time": 1743933321,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 92713,
@@ -15779,6 +15907,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 75267,
+      "num": 258467,
+      "word": "集中精力办好自己的事",
+      "onboard_time": 1743942741,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75250,
       "num": 84535,
       "word": "特朗普关税乱拳开打",
@@ -16139,14 +16275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66612,
-      "num": 82066,
-      "word": "棋士",
-      "onboard_time": 1743610760,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 66294,
       "num": 231825,
       "word": "王安宇王玉雯还原戒指糖求婚戏",
@@ -16201,6 +16329,14 @@
       "onboard_time": 1743582502,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64768,
+      "num": 143117,
+      "word": "因画作遭特朗普批评画家生意受损",
+      "onboard_time": 1743941362,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 64751,
@@ -17531,6 +17667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34684,
+      "num": 144870,
+      "word": "00后女孩为母亲购买AI复活外公",
+      "onboard_time": 1743943223,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34521,
       "num": 202566,
       "word": "梁建章谈人与AI本质有何不同",
@@ -18321,6 +18465,14 @@
       "onboard_time": 1743499822,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19471,
+      "num": 487517,
+      "word": "中国坚定不移维护多边主义",
+      "onboard_time": 1743942922,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19438,
