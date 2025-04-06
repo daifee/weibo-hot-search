@@ -1,6 +1,6 @@
 {
   "startTime": 1743956845609,
-  "endTime": 1743978114521,
+  "endTime": 1743979151910,
   "band_list": [
     {
       "raw_hot": 816434,
@@ -51,6 +51,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 474457,
+      "num": 509316,
+      "word": "八旬老人拆掉养护院护栏跳下坠亡",
+      "onboard_time": 1743956838,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377194,
       "num": 232393,
       "word": "朱正廷因频繁戴隐形得了干眼症",
@@ -64,14 +72,6 @@
       "word": "青岛文旅局回应孤独的树成网红景点",
       "onboard_time": 1743949343,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 341794,
-      "num": 399843,
-      "word": "八旬老人拆掉养护院护栏跳下坠亡",
-      "onboard_time": 1743956838,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -121,6 +121,14 @@
       "onboard_time": 1743945202,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 212912,
+      "num": 84049,
+      "word": "半夜醒来发现才是凌晨2点半",
+      "onboard_time": 1743973093,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 201086,
@@ -227,20 +235,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121412,
-      "num": 65075,
-      "word": "半夜醒来发现才是凌晨2点半",
-      "onboard_time": 1743973093,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 120076,
       "num": 102034,
       "word": "贺峻霖你好胡萝卜不能在这洗澡",
       "onboard_time": 1743956959,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110307,
+      "num": 81341,
+      "word": "身体各处的警告",
+      "onboard_time": 1743975315,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108489,
@@ -403,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75473,
+      "num": 138295,
+      "word": "村委会称去世驴友吃完面突然倒地",
+      "onboard_time": 1743956599,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74179,
       "num": 61527,
       "word": "u17国足vs乌兹别克斯坦u17",
@@ -451,6 +467,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63487,
+      "num": 63487,
+      "word": "老人被从养护院带走后以2万元卖了房",
+      "onboard_time": 1743958037,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62246,
+      "num": 62246,
+      "word": "浙江自然博物院发布情况说明",
+      "onboard_time": 1743964395,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60411,
       "num": 60411,
       "word": "朱婷留洋第六季",
@@ -459,12 +491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56265,
-      "num": 138295,
-      "word": "村委会称去世驴友吃完面突然倒地",
-      "onboard_time": 1743956599,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 57800,
+      "num": 57800,
+      "word": "董力把家人气得打电话兴师问罪",
+      "onboard_time": 1743943940,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 54169,
@@ -475,36 +507,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52538,
-      "num": 52538,
-      "word": "老人被从养护院带走后以2万元卖了房",
-      "onboard_time": 1743958037,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 49172,
+      "num": 49172,
+      "word": "iPhone17Air新机模曝光",
+      "onboard_time": 1743977655,
+      "rank": 46,
+      "category": "数码"
     },
     {
-      "raw_hot": 50216,
-      "num": 50216,
-      "word": "身体各处的警告",
-      "onboard_time": 1743975315,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 50180,
-      "num": 50180,
-      "word": "浙江自然博物院发布情况说明",
-      "onboard_time": 1743964395,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39958,
-      "num": 39461,
-      "word": "董力把家人气得打电话兴师问罪",
-      "onboard_time": 1743943940,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 39572,
+      "num": 39572,
+      "word": "潘玮柏重回颜值巅峰",
+      "onboard_time": 1743960376,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 39524,
@@ -523,12 +539,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 36021,
-      "num": 36021,
-      "word": "潘玮柏重回颜值巅峰",
-      "onboard_time": 1743960376,
-      "rank": 41,
-      "category": "演出"
+      "raw_hot": 32056,
+      "num": 32056,
+      "word": "钓鱼晒成炭黑大爷走红后朋友发声",
+      "onboard_time": 1743964514,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30842,
@@ -539,24 +555,24 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24830,
-      "num": 24830,
+      "raw_hot": 27960,
+      "num": 27960,
+      "word": "捷豹路虎计划暂停对美出口汽车",
+      "onboard_time": 1743975374,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 26933,
+      "num": 26933,
       "word": "演戏卖假货骗了3万多名老人",
       "onboard_time": 1743948683,
       "rank": 39,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23585,
-      "num": 23585,
-      "word": "钓鱼晒成炭黑大爷走红后朋友发声",
-      "onboard_time": 1743964514,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23116,
-      "num": 23116,
+      "num": 26903,
       "word": "消防员跑步式劝大家别上山烧纸",
       "onboard_time": 1743975674,
       "rank": 39,
@@ -579,20 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19118,
-      "num": 22157,
-      "word": "捷豹路虎计划暂停对美出口汽车",
-      "onboard_time": 1743975374,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 18917,
-      "num": 22132,
-      "word": "iPhone17Air新机模曝光",
-      "onboard_time": 1743977655,
-      "rank": 46,
-      "category": "数码"
+      "raw_hot": 19187,
+      "num": 26899,
+      "word": "泰国缴获200多万颗疯药",
+      "onboard_time": 1743967933,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 16838,
@@ -601,14 +609,6 @@
       "onboard_time": 1743962416,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16651,
-      "num": 22096,
-      "word": "泰国缴获200多万颗疯药",
-      "onboard_time": 1743967933,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 14624,

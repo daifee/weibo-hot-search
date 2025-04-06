@@ -1,0 +1,410 @@
+{
+  "runTime": 1743979151910,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 474457,
+        "num": 509316,
+        "word": "八旬老人拆掉养护院护栏跳下坠亡",
+        "onboard_time": 1743956838,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304858,
+        "num": 304858,
+        "word": "美国关税政策引发全球反击",
+        "onboard_time": 1743952642,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25925,
+        "num": 268021,
+        "word": "集中精力办好自己的事",
+        "onboard_time": 1743942741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233721,
+        "num": 233721,
+        "word": "陈奕迅连发11个感叹号说重庆了不得",
+        "onboard_time": 1743954440,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200233,
+        "num": 200233,
+        "word": "网红李美越致歉",
+        "onboard_time": 1743947303,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133035,
+        "num": 133035,
+        "word": "青岛文旅局回应孤独的树成网红景点",
+        "onboard_time": 1743949343,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146918,
+        "num": 132673,
+        "word": "锤娜丽莎 减肥不快乐都滚",
+        "onboard_time": 1743947123,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135091,
+        "num": 132016,
+        "word": "潘玮柏减重20斤等于减龄20岁",
+        "onboard_time": 1743950063,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130048,
+        "num": 130048,
+        "word": "全红婵正面回应体重变化影响动作",
+        "onboard_time": 1743943460,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89142,
+        "num": 89142,
+        "word": "美国有人开始囤货了",
+        "onboard_time": 1743945202,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212912,
+        "num": 84049,
+        "word": "半夜醒来发现才是凌晨2点半",
+        "onboard_time": 1743973093,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114451,
+        "num": 81774,
+        "word": "景区狗狗被关进狼舍吓得呜咽",
+        "onboard_time": 1743958217,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110307,
+        "num": 81341,
+        "word": "身体各处的警告",
+        "onboard_time": 1743975315,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 78700,
+        "num": 78700,
+        "word": "谢娜刚刚录完三公",
+        "onboard_time": 1743956838,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77831,
+        "num": 77831,
+        "word": "耐克等品牌或将被迫提价",
+        "onboard_time": 1743945802,
+        "rank": 14,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 75473,
+        "num": 75473,
+        "word": "村委会称去世驴友吃完面突然倒地",
+        "onboard_time": 1743956599,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69727,
+        "num": 69727,
+        "word": "网红李美越被打码",
+        "onboard_time": 1743949462,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66575,
+        "num": 66575,
+        "word": "女儿癌症去世后妈妈15年种树2万亩",
+        "onboard_time": 1743948385,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63487,
+        "num": 63487,
+        "word": "老人被从养护院带走后以2万元卖了房",
+        "onboard_time": 1743958037,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62246,
+        "num": 62246,
+        "word": "浙江自然博物院发布情况说明",
+        "onboard_time": 1743964395,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99243,
+        "num": 60541,
+        "word": "专家建议洗头后自然风干",
+        "onboard_time": 1743947182,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 58498,
+        "num": 58498,
+        "word": "以为病了其实是衰老的表现",
+        "onboard_time": 1743945802,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 57800,
+        "num": 57800,
+        "word": "董力把家人气得打电话兴师问罪",
+        "onboard_time": 1743943940,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54823,
+        "num": 54823,
+        "word": "2岁娃烧伤婆婆给儿媳下跪自责痛哭",
+        "onboard_time": 1743943460,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53625,
+        "num": 53625,
+        "word": "金价暴涨还适合买三金吗",
+        "onboard_time": 1743947663,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 53475,
+        "num": 53475,
+        "word": "晚睡晚起但睡够8小时还伤身吗",
+        "onboard_time": 1743938180,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 49675,
+        "num": 49675,
+        "word": "朱正廷因频繁戴隐形得了干眼症",
+        "onboard_time": 1743944722,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49172,
+        "num": 49172,
+        "word": "iPhone17Air新机模曝光",
+        "onboard_time": 1743977655,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 46995,
+        "num": 46995,
+        "word": "电影热烈重映票房破1000万",
+        "onboard_time": 1743949583,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46914,
+        "num": 46914,
+        "word": "祝绪丹体重80斤",
+        "onboard_time": 1743955340,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45015,
+        "num": 45015,
+        "word": "创造营亚洲2排名",
+        "onboard_time": 1743949643,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43231,
+        "num": 43231,
+        "word": "朝鲜平壤国际马拉松现场画面",
+        "onboard_time": 1743949522,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42305,
+        "num": 42305,
+        "word": "Bin",
+        "onboard_time": 1743953900,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40959,
+        "num": 40959,
+        "word": "抗议者要求特朗普下台",
+        "onboard_time": 1743961817,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39572,
+        "num": 39572,
+        "word": "潘玮柏重回颜值巅峰",
+        "onboard_time": 1743960376,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38825,
+        "num": 38825,
+        "word": "美关税政策或重创亚洲服装纺织业",
+        "onboard_time": 1743947480,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37246,
+        "num": 37246,
+        "word": "贺峻霖你好胡萝卜不能在这洗澡",
+        "onboard_time": 1743956959,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32475,
+        "num": 32475,
+        "word": "胡烨韬我已经没有下一个四年了",
+        "onboard_time": 1743944300,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32276,
+        "num": 32276,
+        "word": "宁艺卓即将大学毕业",
+        "onboard_time": 1743947182,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32056,
+        "num": 32056,
+        "word": "钓鱼晒成炭黑大爷走红后朋友发声",
+        "onboard_time": 1743964514,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29698,
+        "num": 29698,
+        "word": "陈梦去踏青了",
+        "onboard_time": 1743955041,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28410,
+        "num": 28410,
+        "word": "陈都灵包场支持向阳花",
+        "onboard_time": 1743957320,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27960,
+        "num": 27960,
+        "word": "捷豹路虎计划暂停对美出口汽车",
+        "onboard_time": 1743975374,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 26933,
+        "num": 26933,
+        "word": "演戏卖假货骗了3万多名老人",
+        "onboard_time": 1743948683,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24192,
+        "num": 26933,
+        "word": "向阳花总票房破8000万",
+        "onboard_time": 1743948744,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23083,
+        "num": 26925,
+        "word": "2000多年前中国人就开始吸猫",
+        "onboard_time": 1743947545,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22716,
+        "num": 26921,
+        "word": "孟美岐跳创造101主题曲",
+        "onboard_time": 1743943520,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20758,
+        "num": 26914,
+        "word": "时代峰峻 女练习生",
+        "onboard_time": 1743937642,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20411,
+        "num": 26903,
+        "word": "消防员跑步式劝大家别上山烧纸",
+        "onboard_time": 1743975674,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19187,
+        "num": 26899,
+        "word": "泰国缴获200多万颗疯药",
+        "onboard_time": 1743967933,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#践行绿色发展理念弘扬生态文化#"
+    }
+  }
+}

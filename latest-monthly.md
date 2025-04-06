@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/07 06:21:54
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/07 06:39:11
 </p>
 </blockquote>
 <p>
@@ -2451,6 +2451,12 @@ SM新男团（热度：491910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%E6%8B%86%E6%8E%89%E5%85%BB%E6%8A%A4%E9%99%A2%E6%8A%A4%E6%A0%8F%E8%B7%B3%E4%B8%8B%E5%9D%A0%E4%BA%A1%23" target="weibo">
+八旬老人拆掉养护院护栏跳下坠亡（热度：474457）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E8%8A%82%E5%85%B6%E5%AE%9E%E8%9E%8D%E5%90%88%E4%BA%86%E4%B8%89%E4%B8%AA%E8%8A%82%23" target="weibo">
 清明节其实融合了三个节（热度：473145）
 </a>
@@ -3467,12 +3473,6 @@ Wendy泡泡发长文（热度：369749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%BA%9A%E5%86%AC%E4%BC%9A%E9%81%AD%E5%A2%83%E5%A4%96%E6%94%BB%E5%87%BB27%E4%B8%87%E6%AC%A1%23" target="weibo">
 哈尔滨亚冬会遭境外攻击27万次（热度：342915）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%E6%8B%86%E6%8E%89%E5%85%BB%E6%8A%A4%E9%99%A2%E6%8A%A4%E6%A0%8F%E8%B7%B3%E4%B8%8B%E5%9D%A0%E4%BA%A1%23" target="weibo">
-八旬老人拆掉养护院护栏跳下坠亡（热度：341794）
 </a>
 </li>
 
@@ -5295,6 +5295,12 @@ JDG海洋馆游来游去（热度：214444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E9%86%92%E6%9D%A5%E5%8F%91%E7%8E%B0%E6%89%8D%E6%98%AF%E5%87%8C%E6%99%A82%E7%82%B9%E5%8D%8A%23" target="weibo">
+半夜醒来发现才是凌晨2点半（热度：212912）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A7%E4%BA%86%E4%B8%80%E8%AF%BA%E7%A9%BF%E7%9D%80%E7%99%BD%E8%89%B2%E5%85%A5%E9%95%9C%23" target="weibo">
 巧了一诺穿着白色入镜（热度：211855）
 </a>
@@ -6005,12 +6011,6 @@ LPL（热度：195887）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%AE%E7%90%86%E5%B7%A5%E5%80%9F%E6%9D%A5%E7%9A%848000%E5%9D%97%E6%94%B9%E5%8F%98%E5%84%BF%E5%AD%90%E4%B8%80%E7%94%9F%23" target="weibo">
 修理工借来的8000块改变儿子一生（热度：195027）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%98%B3%E8%8A%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B48000%E4%B8%87%23" target="weibo">
-向阳花总票房破8000万（热度：194998）
 </a>
 </li>
 
