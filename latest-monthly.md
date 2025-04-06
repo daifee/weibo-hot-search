@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/07 00:42:48
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/07 01:20:10
 </p>
 </blockquote>
 <p>
@@ -3873,6 +3873,12 @@ jayjay呢（热度：316182）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%E6%8B%86%E6%8E%89%E5%85%BB%E6%8A%A4%E9%99%A2%E6%8A%A4%E6%A0%8F%E8%B7%B3%E4%B8%8B%E5%9D%A0%E4%BA%A1%23" target="weibo">
+八旬老人拆掉养护院护栏跳下坠亡（热度：304132）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98%23" target="weibo">
 特朗普回应股市崩盘（热度：303734）
 </a>
@@ -4799,12 +4805,6 @@ G社是张若昀的站姐吧（热度：239646）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E5%90%91%E5%B1%B1%E7%81%AB%E7%81%BE%E5%8C%BA%E6%8D%90%E6%AC%BE1%E4%BA%BF%E9%9F%A9%E5%85%83%23" target="weibo">
 吴世勋向山火灾区捐款1亿韩元（热度：234962）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%E6%8B%86%E6%8E%89%E5%85%BB%E6%8A%A4%E9%99%A2%E6%8A%A4%E6%A0%8F%E8%B7%B3%E4%B8%8B%E5%9D%A0%E4%BA%A1%23" target="weibo">
-八旬老人拆掉养护院护栏跳下坠亡（热度：234602）
 </a>
 </li>
 
