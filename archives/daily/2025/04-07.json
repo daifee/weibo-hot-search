@@ -1,0 +1,411 @@
+{
+  "startTime": 1743956845609,
+  "endTime": 1743956845609,
+  "band_list": [
+    {
+      "raw_hot": 796253,
+      "num": 922469,
+      "word": "陈奕迅连发11个感叹号说重庆了不得",
+      "onboard_time": 1743954440,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 688087,
+      "num": 688087,
+      "word": "中核招聘回应收到百万份简历",
+      "onboard_time": 1743954142,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 660117,
+      "num": 660117,
+      "word": "潘玮柏减重20斤等于减龄20岁",
+      "onboard_time": 1743950063,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 557886,
+      "num": 337300,
+      "word": "锤娜丽莎 减肥不快乐都滚",
+      "onboard_time": 1743947123,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 521478,
+      "num": 521478,
+      "word": "Bin",
+      "onboard_time": 1743953900,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 489931,
+      "num": 323685,
+      "word": "网红李美越致歉",
+      "onboard_time": 1743947303,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 377194,
+      "num": 214931,
+      "word": "朱正廷因频繁戴隐形得了干眼症",
+      "onboard_time": 1743944722,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362079,
+      "num": 362079,
+      "word": "青岛文旅局回应孤独的树成网红景点",
+      "onboard_time": 1743949343,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305927,
+      "num": 305927,
+      "word": "美国关税政策引发全球反击",
+      "onboard_time": 1743952642,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 299044,
+      "num": 212180,
+      "word": "创造营亚洲2排名",
+      "onboard_time": 1743949643,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 262819,
+      "num": 208154,
+      "word": "时代峰峻 女练习生",
+      "onboard_time": 1743937642,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237544,
+      "num": 202034,
+      "word": "宁艺卓即将大学毕业",
+      "onboard_time": 1743947182,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219594,
+      "num": 107464,
+      "word": "专家建议洗头后自然风干",
+      "onboard_time": 1743947182,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 217012,
+      "num": 217012,
+      "word": "美国有人开始囤货了",
+      "onboard_time": 1743945202,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 201086,
+      "num": 201086,
+      "word": "全红婵正面回应体重变化影响动作",
+      "onboard_time": 1743943460,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189834,
+      "num": 189834,
+      "word": "耐克等品牌或将被迫提价",
+      "onboard_time": 1743945802,
+      "rank": 15,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 177211,
+      "num": 104577,
+      "word": "晚睡晚起但睡够8小时还伤身吗",
+      "onboard_time": 1743938180,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168257,
+      "num": 168257,
+      "word": "胡烨韬我已经没有下一个四年了",
+      "onboard_time": 1743944300,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162019,
+      "num": 162019,
+      "word": "女儿癌症去世后妈妈15年种树2万亩",
+      "onboard_time": 1743948385,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152985,
+      "num": 103121,
+      "word": "梁咏琪说张远唱的巨好听",
+      "onboard_time": 1743955521,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147203,
+      "num": 101091,
+      "word": "金价暴涨还适合买三金吗",
+      "onboard_time": 1743947663,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 146872,
+      "num": 100140,
+      "word": "2岁娃烧伤婆婆给儿媳下跪自责痛哭",
+      "onboard_time": 1743943460,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142065,
+      "num": 99261,
+      "word": "祝绪丹体重80斤",
+      "onboard_time": 1743955340,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134612,
+      "num": 134612,
+      "word": "冰冻文",
+      "onboard_time": 1743950723,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 126625,
+      "num": 98430,
+      "word": "网红李美越被打码",
+      "onboard_time": 1743949462,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108489,
+      "num": 108489,
+      "word": "白桃星座",
+      "onboard_time": 1743950963,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 103405,
+      "num": 95859,
+      "word": "以为病了其实是衰老的表现",
+      "onboard_time": 1743945802,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100423,
+      "num": 100423,
+      "word": "陈梦去踏青了",
+      "onboard_time": 1743955041,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95324,
+      "num": 95324,
+      "word": "向阳花总票房破8000万",
+      "onboard_time": 1743948744,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 94567,
+      "num": 94567,
+      "word": "2000多年前中国人就开始吸猫",
+      "onboard_time": 1743947545,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91830,
+      "num": 91830,
+      "word": "BLG对战IG",
+      "onboard_time": 1743949643,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 90346,
+      "num": 90346,
+      "word": "任豪赵粤双人舞",
+      "onboard_time": 1743954440,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 89326,
+      "num": 89326,
+      "word": "水果中的高糖刺客",
+      "onboard_time": 1743948503,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 87471,
+      "num": 87471,
+      "word": "虎扑崩了",
+      "onboard_time": 1743955160,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 87270,
+      "num": 87270,
+      "word": "念无双26集封神",
+      "onboard_time": 1743944781,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 87089,
+      "num": 87089,
+      "word": "黄景瑜黄明昊林一3A景区",
+      "onboard_time": 1743950843,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 86481,
+      "num": 86481,
+      "word": "鹭卓吃的好撑干的好满",
+      "onboard_time": 1743955640,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 85187,
+      "num": 85187,
+      "word": "风衣的正确穿法",
+      "onboard_time": 1743952872,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 84215,
+      "num": 84215,
+      "word": "华晨宇的衣服是穿反了吗",
+      "onboard_time": 1743950543,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 83975,
+      "num": 83975,
+      "word": "这就是elk",
+      "onboard_time": 1743953961,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 83020,
+      "num": 83020,
+      "word": "孟美岐跳创造101主题曲",
+      "onboard_time": 1743943520,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 81235,
+      "num": 81235,
+      "word": "张惠妹鸟巢",
+      "onboard_time": 1743951622,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 77020,
+      "num": 77020,
+      "word": "电影热烈重映票房破1000万",
+      "onboard_time": 1743949583,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 75957,
+      "num": 96365,
+      "word": "古人餐具自带您吃好弹幕提示",
+      "onboard_time": 1743955401,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73151,
+      "num": 73151,
+      "word": "朝鲜平壤国际马拉松现场画面",
+      "onboard_time": 1743949522,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69679,
+      "num": 69679,
+      "word": "美关税政策或重创亚洲服装纺织业",
+      "onboard_time": 1743947480,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 69373,
+      "num": 69373,
+      "word": "记者暗访弱精症检测治疗套路",
+      "onboard_time": 1743948203,
+      "rank": 48,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 66480,
+      "num": 69372,
+      "word": "时代峰峻辟谣招募女练习生",
+      "onboard_time": 1743956120,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39524,
+      "num": 672693,
+      "word": "集中精力办好自己的事",
+      "onboard_time": 1743942741,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 33763,
+      "num": 97468,
+      "word": "村委会称去世驴友吃完面突然倒地",
+      "onboard_time": 1743956599,
+      "rank": 28,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#践行绿色发展理念弘扬生态文化#"
+    }
+  ]
+}

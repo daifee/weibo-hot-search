@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/06 23:36:52
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/07 00:27:25
 </p>
 </blockquote>
 <p>
@@ -1305,6 +1305,12 @@ YERI和Wendy离开SM（热度：805847）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E8%BF%9E%E5%8F%9111%E4%B8%AA%E6%84%9F%E5%8F%B9%E5%8F%B7%E8%AF%B4%E9%87%8D%E5%BA%86%E4%BA%86%E4%B8%8D%E5%BE%97%23" target="weibo">
+陈奕迅连发11个感叹号说重庆了不得（热度：796253）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E5%86%85%E5%A8%B1%E5%8F%B2%E5%AE%98%23" target="weibo">
 杨幂 内娱史官（热度：788545）
 </a>
@@ -1523,6 +1529,12 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E4%B8%BD%E4%B8%BD%E6%81%8B%E6%83%85%23" target="weibo">
 钟丽丽恋情（热度：688590）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%A0%B8%E6%8B%9B%E8%81%98%E5%9B%9E%E5%BA%94%E6%94%B6%E5%88%B0%E7%99%BE%E4%B8%87%E4%BB%BD%E7%AE%80%E5%8E%86%23" target="weibo">
+中核招聘回应收到百万份简历（热度：688087）
 </a>
 </li>
 
@@ -2153,6 +2165,12 @@ iPhone17Pro最强长焦（热度：528411）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%A2%E7%AD%8B%E5%93%A5%E7%94%9F%E5%89%8D%E5%90%8E%E6%82%94%E5%87%BA%E5%90%8D%E5%AE%81%E5%81%9A%E6%99%AE%E9%80%9A%E4%BA%BA%23" target="weibo">
 面筋哥生前后悔出名宁做普通人（热度：523674）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Bin%23" target="weibo">
+Bin（热度：521478）
 </a>
 </li>
 
@@ -3821,6 +3839,12 @@ jayjay呢（热度：316182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%9A%84%E5%BE%AE%E5%8D%9A%E9%80%90%E6%B8%90%E5%A5%87%E6%80%AA%23" target="weibo">
 李现的微博逐渐奇怪（热度：306174）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E5%BC%95%E5%8F%91%E5%85%A8%E7%90%83%E5%8F%8D%E5%87%BB%23" target="weibo">
+美国关税政策引发全球反击（热度：305927）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ LPL（热度：195887）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E4%BA%91%E5%A4%95%E8%BF%98%E6%B4%BB%E7%9D%80%E5%90%97%23" target="weibo">
 傅云夕还活着吗（热度：194942）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E9%99%88%E4%B8%BD%E5%90%9B%E8%81%8A%E7%9A%84%E7%9B%B4%E6%89%91%E8%85%BE%23" target="weibo">
-戚薇陈丽君聊的直扑腾（热度：194932）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2374%E5%B2%81%E8%80%81%E6%88%8F%E9%AA%A8%E7%8B%B1%E4%B8%AD%E6%B1%82%E5%A9%9A%E4%B8%8E%E5%A5%B3%E5%8F%8B%E7%9B%B8%E5%B7%AE36%E5%B2%81%23" target="weibo">
-74岁老戏骨狱中求婚与女友相差36岁（热度：194806）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%B9%8F4%E6%AF%941%E9%9B%A8%E6%9E%9C%23" target="weibo">
-向鹏4比1雨果（热度：194785）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%81%AF%E7%89%8C%23" target="weibo">
-灯牌（热度：194717）
 </a>
 </li>
 

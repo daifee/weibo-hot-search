@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743953812980,
+  "endTime": 1743956845609,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -259,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 796253,
+      "num": 922469,
+      "word": "陈奕迅连发11个感叹号说重庆了不得",
+      "onboard_time": 1743954440,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 788545,
       "num": 556249,
       "word": "杨幂 内娱史官",
@@ -329,6 +337,14 @@
       "onboard_time": 1743896238,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 688087,
+      "num": 688087,
+      "word": "中核招聘回应收到百万份简历",
+      "onboard_time": 1743954142,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 668428,
@@ -473,6 +489,14 @@
       "onboard_time": 1743866422,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 521478,
+      "num": 521478,
+      "word": "Bin",
+      "onboard_time": 1743953900,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 520527,
@@ -841,6 +865,14 @@
       "onboard_time": 1743901400,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 305927,
+      "num": 388310,
+      "word": "美国关税政策引发全球反击",
+      "onboard_time": 1743952642,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 303734,
@@ -1907,6 +1939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152985,
+      "num": 103121,
+      "word": "梁咏琪说张远唱的巨好听",
+      "onboard_time": 1743955521,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151542,
       "num": 151542,
       "word": "AG司马光出道夜舞台",
@@ -2001,6 +2041,14 @@
       "onboard_time": 1743942322,
       "rank": 9,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 142065,
+      "num": 99261,
+      "word": "祝绪丹体重80斤",
+      "onboard_time": 1743955340,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 140837,
@@ -2337,14 +2385,6 @@
       "onboard_time": 1743919341,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121323,
-      "num": 388310,
-      "word": "美国关税政策引发全球反击",
-      "onboard_time": 1743952642,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121240,
@@ -2827,6 +2867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100423,
+      "num": 100423,
+      "word": "陈梦去踏青了",
+      "onboard_time": 1743955041,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100022,
       "num": 100022,
       "word": "明日方舟",
@@ -2923,6 +2971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90346,
+      "num": 90346,
+      "word": "任豪赵粤双人舞",
+      "onboard_time": 1743954440,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89828,
       "num": 168520,
       "word": "大张伟回应与甲亢哥合作",
@@ -2955,12 +3011,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87471,
+      "num": 87471,
+      "word": "虎扑崩了",
+      "onboard_time": 1743955160,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 87049,
       "num": 87049,
       "word": "大张伟透露和甲亢哥有个安排",
       "onboard_time": 1743904341,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86481,
+      "num": 86481,
+      "word": "鹭卓吃的好撑干的好满",
+      "onboard_time": 1743955640,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 85794,
@@ -2985,6 +3057,14 @@
       "onboard_time": 1743865583,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83975,
+      "num": 83975,
+      "word": "这就是elk",
+      "onboard_time": 1743953961,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 83809,
@@ -3033,6 +3113,14 @@
       "onboard_time": 1743926660,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 75957,
+      "num": 96365,
+      "word": "古人餐具自带您吃好弹幕提示",
+      "onboard_time": 1743955401,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72131,
@@ -3095,6 +3183,14 @@
       "num": 66718,
       "word": "Hyunjun公开",
       "onboard_time": 1743855982,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 66480,
+      "num": 69372,
+      "word": "时代峰峻辟谣招募女练习生",
+      "onboard_time": 1743956120,
       "rank": 49,
       "category": "艺人"
     },
@@ -3289,6 +3385,14 @@
       "onboard_time": 1743861503,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33763,
+      "num": 97468,
+      "word": "村委会称去世驴友吃完面突然倒地",
+      "onboard_time": 1743956599,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31971,
