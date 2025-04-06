@@ -1,6 +1,6 @@
 {
   "startTime": 1743956845609,
-  "endTime": 1743971896796,
+  "endTime": 1743974493022,
   "band_list": [
     {
       "raw_hot": 816434,
@@ -547,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18842,
+      "num": 17903,
+      "word": "半夜醒来发现才是凌晨2点半",
+      "onboard_time": 1743973093,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18267,
       "num": 18618,
       "word": "钓鱼晒成炭黑大爷走红后朋友发声",
@@ -563,6 +571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 14433,
+      "num": 14433,
+      "word": "泰国缴获200多万颗疯药",
+      "onboard_time": 1743967933,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 14266,
       "num": 17096,
       "word": "刘宇宁说目前一个剧都没接",
@@ -571,20 +587,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13731,
-      "num": 13731,
-      "word": "泰国缴获200多万颗疯药",
-      "onboard_time": 1743967933,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 13437,
+      "raw_hot": 13531,
       "num": 15528,
       "word": "假期结束",
       "onboard_time": 1743962416,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12549,
+      "num": 13144,
+      "word": "景区回应动物园内狗和狼被关一起",
+      "onboard_time": 1743971893,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12291,
