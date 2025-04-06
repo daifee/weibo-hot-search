@@ -1,6 +1,6 @@
 {
   "startTime": 1743956845609,
-  "endTime": 1743964212111,
+  "endTime": 1743965003799,
   "band_list": [
     {
       "raw_hot": 816434,
@@ -537,6 +537,22 @@
       "onboard_time": 1743963855,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17434,
+      "num": 18618,
+      "word": "钓鱼晒成炭黑大爷走红后朋友发声",
+      "onboard_time": 1743964514,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16643,
+      "num": 18615,
+      "word": "浙江自然博物院发布情况说明",
+      "onboard_time": 1743964395,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8853,
