@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743979151910,
+  "endTime": 1743981718373,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -435,6 +435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 590839,
+      "num": 795940,
+      "word": "美国关税政策引发全球反击",
+      "onboard_time": 1743952642,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 582549,
       "num": 582549,
       "word": "爱情公寓的转场方式还是太超前了",
@@ -577,6 +585,14 @@
       "onboard_time": 1743956838,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 462708,
+      "num": 223975,
+      "word": "半夜醒来发现才是凌晨2点半",
+      "onboard_time": 1743973093,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 442270,
@@ -875,14 +891,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 305927,
-      "num": 388310,
-      "word": "美国关税政策引发全球反击",
-      "onboard_time": 1743952642,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 303734,
       "num": 320293,
       "word": "特朗普回应股市崩盘",
@@ -953,6 +961,22 @@
       "onboard_time": 1743918080,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278472,
+      "num": 278472,
+      "word": "iPhone17Air新机模曝光",
+      "onboard_time": 1743977655,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 278210,
+      "num": 278210,
+      "word": "身体各处的警告",
+      "onboard_time": 1743975315,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 276390,
@@ -1267,14 +1291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 212912,
-      "num": 84049,
-      "word": "半夜醒来发现才是凌晨2点半",
-      "onboard_time": 1743973093,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 209609,
       "num": 209609,
       "word": "TES投诉LPL导播镜头",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1743916641,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202193,
+      "num": 202193,
+      "word": "景区狗狗被关进狼舍吓得呜咽",
+      "onboard_time": 1743958217,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201172,
@@ -1523,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185969,
+      "num": 185969,
+      "word": "村委会称去世驴友吃完面突然倒地",
+      "onboard_time": 1743956599,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185961,
       "num": 185961,
       "word": "王艺迪挽救4赛点惊天逆转",
@@ -1636,7 +1668,7 @@
     },
     {
       "raw_hot": 179017,
-      "num": 137077,
+      "num": 145459,
       "word": "谢娜刚刚录完三公",
       "onboard_time": 1743956838,
       "rank": 30,
@@ -1665,14 +1697,6 @@
       "onboard_time": 1743916821,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177397,
-      "num": 101125,
-      "word": "景区狗狗被关进狼舍吓得呜咽",
-      "onboard_time": 1743958217,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177160,
@@ -2739,14 +2763,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 110307,
-      "num": 81341,
-      "word": "身体各处的警告",
-      "onboard_time": 1743975315,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 109269,
       "num": 109269,
       "word": "孟美岐街头女战士",
@@ -2865,6 +2881,14 @@
       "onboard_time": 1743914540,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103244,
+      "num": 103244,
+      "word": "老人被从养护院带走后以2万元卖了房",
+      "onboard_time": 1743958037,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102660,
@@ -3083,6 +3107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86485,
+      "num": 86485,
+      "word": "买黄金一定不能图便宜",
+      "onboard_time": 1743980659,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 86481,
       "num": 86481,
       "word": "鹭卓吃的好撑干的好满",
@@ -3171,19 +3203,19 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 76196,
+      "num": 76196,
+      "word": "浙江自然博物院发布情况说明",
+      "onboard_time": 1743964395,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75957,
       "num": 96365,
       "word": "古人餐具自带您吃好弹幕提示",
       "onboard_time": 1743955401,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75473,
-      "num": 138295,
-      "word": "村委会称去世驴友吃完面突然倒地",
-      "onboard_time": 1743956599,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -3227,6 +3259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71040,
+      "num": 71040,
+      "word": "湖人战胜雷霆",
+      "onboard_time": 1743981319,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70148,
       "num": 1122437,
       "word": "中国坚定不移维护多边主义",
@@ -3257,6 +3297,14 @@
       "onboard_time": 1743895217,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 67900,
+      "num": 67900,
+      "word": "捷豹路虎计划暂停对美出口汽车",
+      "onboard_time": 1743975374,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 66718,
@@ -3291,11 +3339,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 63487,
-      "num": 63487,
-      "word": "老人被从养护院带走后以2万元卖了房",
-      "onboard_time": 1743958037,
-      "rank": 34,
+      "raw_hot": 64343,
+      "num": 64343,
+      "word": "钓鱼晒成炭黑大爷走红后朋友发声",
+      "onboard_time": 1743964514,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -3313,14 +3361,6 @@
       "onboard_time": 1743882915,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 62246,
-      "num": 62246,
-      "word": "浙江自然博物院发布情况说明",
-      "onboard_time": 1743964395,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61026,
@@ -3363,6 +3403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 54082,
+      "num": 54082,
+      "word": "潘玮柏重回颜值巅峰",
+      "onboard_time": 1743960376,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 53927,
       "num": 263834,
       "word": "00后女孩为母亲购买AI复活外公",
@@ -3379,12 +3427,12 @@
       "category": "互联网,情感"
     },
     {
-      "raw_hot": 49172,
-      "num": 49172,
-      "word": "iPhone17Air新机模曝光",
-      "onboard_time": 1743977655,
-      "rank": 46,
-      "category": "数码"
+      "raw_hot": 48129,
+      "num": 48129,
+      "word": "制作人回应孙燕姿隐退传言",
+      "onboard_time": 1743980418,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 47974,
@@ -3435,6 +3483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43398,
+      "num": 43398,
+      "word": "孟子义何与百花杀路透",
+      "onboard_time": 1743981559,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43218,
       "num": 116440,
       "word": "抗议浪潮席卷全美国",
@@ -3465,14 +3521,6 @@
       "onboard_time": 1743895338,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 39572,
-      "num": 39572,
-      "word": "潘玮柏重回颜值巅峰",
-      "onboard_time": 1743960376,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 39546,
@@ -3523,14 +3571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32056,
-      "num": 32056,
-      "word": "钓鱼晒成炭黑大爷走红后朋友发声",
-      "onboard_time": 1743964514,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31971,
       "num": 523163,
       "word": "龙马乘组天宫TV再上新",
@@ -3577,14 +3617,6 @@
       "onboard_time": 1743876976,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 27960,
-      "num": 27960,
-      "word": "捷豹路虎计划暂停对美出口汽车",
-      "onboard_time": 1743975374,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 27683,
@@ -3697,6 +3729,14 @@
       "onboard_time": 1743967933,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18730,
+      "num": 93987,
+      "word": "朝鲜时隔6年再办国际马拉松",
+      "onboard_time": 1743980597,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 18686,
