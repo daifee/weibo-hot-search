@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/06 00:27:55 ~ 2025/04/07 01:38:37
+本榜单时间：2025/04/06 00:27:55 ~ 2025/04/07 02:30:12
 </p>
 </blockquote>
 <p>
@@ -2241,6 +2241,12 @@ JDG剧本杀全员老实人（热度：101258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E8%AE%AE%E8%80%85%E8%A6%81%E6%B1%82%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E5%8F%B0%23" target="weibo">
+抗议者要求特朗普下台（热度：94790）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E4%B8%AD%E7%9A%84%E9%AB%98%E7%B3%96%E5%88%BA%E5%AE%A2%23" target="weibo">
 水果中的高糖刺客（热度：93424）
 </a>
@@ -2709,8 +2715,20 @@ susu福福（热度：26824）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%9B%E4%BA%9A2%E5%9B%A2%E5%90%8DNexT1DE%23" target="weibo">
+创亚2团名NexT1DE（热度：19831）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%98%B3%E8%8A%B1%E7%A1%AC%E5%88%9A%E6%B1%A1%E8%94%91%E7%89%87%E6%AE%B5%23" target="weibo">
 向阳花硬刚污蔑片段（热度：19673）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E9%A5%AD%E8%B7%91%E6%AD%A5%E5%92%8C%E6%81%8B%E7%88%B1OST%E9%98%B5%E5%AE%B9%23" target="weibo">
+吃饭跑步和恋爱OST阵容（热度：19557）
 </a>
 </li>
 

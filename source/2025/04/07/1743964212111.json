@@ -1,0 +1,410 @@
+{
+  "runTime": 1743964212111,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 189017,
+        "num": 189017,
+        "word": "陈奕迅连发11个感叹号说重庆了不得",
+        "onboard_time": 1743954440,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124292,
+        "num": 124292,
+        "word": "八旬老人拆掉养护院护栏跳下坠亡",
+        "onboard_time": 1743956838,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18218,
+        "num": 101708,
+        "word": "集中精力办好自己的事",
+        "onboard_time": 1743942741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127423,
+        "num": 99577,
+        "word": "潘玮柏减重20斤等于减龄20岁",
+        "onboard_time": 1743950063,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94790,
+        "num": 94790,
+        "word": "抗议者要求特朗普下台",
+        "onboard_time": 1743961817,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89130,
+        "num": 89130,
+        "word": "Bin",
+        "onboard_time": 1743953900,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127388,
+        "num": 87090,
+        "word": "网红李美越致歉",
+        "onboard_time": 1743947303,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 96562,
+        "num": 79963,
+        "word": "锤娜丽莎 减肥不快乐都滚",
+        "onboard_time": 1743947123,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72214,
+        "num": 72214,
+        "word": "美国关税政策引发全球反击",
+        "onboard_time": 1743952642,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53829,
+        "num": 67934,
+        "word": "全红婵正面回应体重变化影响动作",
+        "onboard_time": 1743943460,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108140,
+        "num": 67383,
+        "word": "景区狗狗被关进狼舍吓得呜咽",
+        "onboard_time": 1743958217,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77610,
+        "num": 67258,
+        "word": "朱正廷因频繁戴隐形得了干眼症",
+        "onboard_time": 1743944722,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66728,
+        "num": 66728,
+        "word": "谢娜刚刚录完三公",
+        "onboard_time": 1743956838,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66033,
+        "num": 66033,
+        "word": "美国有人开始囤货了",
+        "onboard_time": 1743945202,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57017,
+        "num": 57017,
+        "word": "创造营亚洲2排名",
+        "onboard_time": 1743949643,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55238,
+        "num": 55238,
+        "word": "宁艺卓即将大学毕业",
+        "onboard_time": 1743947182,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39634,
+        "num": 39634,
+        "word": "耐克等品牌或将被迫提价",
+        "onboard_time": 1743945802,
+        "rank": 16,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 38256,
+        "num": 38256,
+        "word": "青岛文旅局回应孤独的树成网红景点",
+        "onboard_time": 1743949343,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36681,
+        "num": 36681,
+        "word": "2000多年前中国人就开始吸猫",
+        "onboard_time": 1743947545,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33027,
+        "num": 33027,
+        "word": "冰冻文",
+        "onboard_time": 1743950723,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 56399,
+        "num": 32884,
+        "word": "晚睡晚起但睡够8小时还伤身吗",
+        "onboard_time": 1743938180,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48042,
+        "num": 32758,
+        "word": "专家建议洗头后自然风干",
+        "onboard_time": 1743947182,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43171,
+        "num": 32560,
+        "word": "胡烨韬我已经没有下一个四年了",
+        "onboard_time": 1743944300,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40775,
+        "num": 32448,
+        "word": "金价暴涨还适合买三金吗",
+        "onboard_time": 1743947663,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 40287,
+        "num": 32139,
+        "word": "祝绪丹体重80斤",
+        "onboard_time": 1743955340,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40101,
+        "num": 32046,
+        "word": "2岁娃烧伤婆婆给儿媳下跪自责痛哭",
+        "onboard_time": 1743943460,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36808,
+        "num": 31943,
+        "word": "网红李美越被打码",
+        "onboard_time": 1743949462,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36092,
+        "num": 31756,
+        "word": "贺峻霖你好胡萝卜不能在这洗澡",
+        "onboard_time": 1743956959,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31584,
+        "num": 31584,
+        "word": "老人被从养护院带走后以2万元卖了房",
+        "onboard_time": 1743958037,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31079,
+        "num": 31079,
+        "word": "陈都灵包场支持向阳花",
+        "onboard_time": 1743957320,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30129,
+        "num": 30129,
+        "word": "这就是elk",
+        "onboard_time": 1743953961,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30049,
+        "num": 30049,
+        "word": "时代峰峻 女练习生",
+        "onboard_time": 1743937642,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29456,
+        "num": 29456,
+        "word": "潘玮柏重回颜值巅峰",
+        "onboard_time": 1743960376,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172779,
+        "num": 28715,
+        "word": "中核招聘回应收到百万份简历",
+        "onboard_time": 1743954142,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27063,
+        "num": 27063,
+        "word": "以为病了其实是衰老的表现",
+        "onboard_time": 1743945802,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27004,
+        "num": 27004,
+        "word": "孟美岐跳创造101主题曲",
+        "onboard_time": 1743943520,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26935,
+        "num": 26935,
+        "word": "女儿癌症去世后妈妈15年种树2万亩",
+        "onboard_time": 1743948385,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25966,
+        "num": 25966,
+        "word": "董力把家人气得打电话兴师问罪",
+        "onboard_time": 1743943940,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24993,
+        "num": 24993,
+        "word": "念无双26集封神",
+        "onboard_time": 1743944781,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24830,
+        "num": 24830,
+        "word": "演戏卖假货骗了3万多名老人",
+        "onboard_time": 1743948683,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24693,
+        "num": 24693,
+        "word": "向阳花总票房破8000万",
+        "onboard_time": 1743948744,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23909,
+        "num": 23909,
+        "word": "朝鲜平壤国际马拉松现场画面",
+        "onboard_time": 1743949522,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23902,
+        "num": 23902,
+        "word": "华晨宇的衣服是穿反了吗",
+        "onboard_time": 1743950543,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22119,
+        "num": 22119,
+        "word": "村委会称去世驴友吃完面突然倒地",
+        "onboard_time": 1743956599,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20792,
+        "num": 20792,
+        "word": "美关税政策或重创亚洲服装纺织业",
+        "onboard_time": 1743947480,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20198,
+        "num": 20198,
+        "word": "BLG对战IG",
+        "onboard_time": 1743949643,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19831,
+        "num": 19831,
+        "word": "创亚2团名NexT1DE",
+        "onboard_time": 1743956000,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19557,
+        "num": 19557,
+        "word": "吃饭跑步和恋爱OST阵容",
+        "onboard_time": 1743963855,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18916,
+        "num": 19556,
+        "word": "陈梦去踏青了",
+        "onboard_time": 1743955041,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18184,
+        "num": 19554,
+        "word": "Bin塞恩",
+        "onboard_time": 1743957438,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#践行绿色发展理念弘扬生态文化#"
+    }
+  }
+}
