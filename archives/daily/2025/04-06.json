@@ -1,7 +1,15 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743909350611,
+  "endTime": 1743911299266,
   "band_list": [
+    {
+      "raw_hot": 2576443,
+      "num": 2576443,
+      "word": "李昀锐双胞胎哥哥探班",
+      "onboard_time": 1743908421,
+      "rank": 6,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1765989,
       "num": 240307,
@@ -27,16 +35,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1392370,
-      "num": 1392370,
-      "word": "李昀锐双胞胎哥哥探班",
-      "onboard_time": 1743908421,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1333815,
-      "num": 283849,
+      "num": 285874,
       "word": "曝金秀贤与金赛纶的通话录音",
       "onboard_time": 1743898939,
       "rank": 10,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 992995,
-      "num": 251146,
+      "num": 296884,
       "word": "中核招聘",
       "onboard_time": 1743906500,
       "rank": 10,
@@ -81,6 +81,14 @@
       "onboard_time": 1743905240,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 858817,
+      "num": 292172,
+      "word": "李昀锐哥哥",
+      "onboard_time": 1743909920,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 707811,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597026,
+      "num": 597026,
+      "word": "雷军谈小米15年",
+      "onboard_time": 1743909201,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 549416,
       "num": 549416,
       "word": "顾客失联外卖员回药店问是不是救命药",
@@ -131,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459605,
+      "num": 459605,
+      "word": "李现打鸟获生态环境部认可",
+      "onboard_time": 1743907760,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426074,
       "num": 275102,
       "word": "杨超越回复vava道歉",
@@ -153,14 +177,6 @@
       "onboard_time": 1743859102,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 407590,
-      "num": 407590,
-      "word": "李现打鸟获生态环境部认可",
-      "onboard_time": 1743907760,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 400052,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 334880,
-      "num": 178189,
+      "num": 180817,
       "word": "空少裸辞航司楼下卖烧烤月入两三万",
       "onboard_time": 1743906980,
       "rank": 20,
@@ -291,12 +307,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 273057,
+      "num": 273057,
+      "word": "李斯丹妮浪姐唯一四千万直拍",
+      "onboard_time": 1743910161,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270886,
       "num": 236011,
       "word": "钟丽丽曾因恋情试戏被刷",
       "onboard_time": 1743862763,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266834,
+      "num": 266834,
+      "word": "张峻豪求粉丝关灯牌",
+      "onboard_time": 1743910041,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 260366,
+      "num": 179469,
+      "word": "男子扫墓时刮彩票中万元大奖",
+      "onboard_time": 1743908000,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257289,
@@ -337,6 +377,14 @@
       "onboard_time": 1743862763,
       "rank": 9,
       "category": "财经,海外新闻"
+    },
+    {
+      "raw_hot": 241724,
+      "num": 178700,
+      "word": "蓝莓怎么这么便宜了",
+      "onboard_time": 1743910882,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235973,
@@ -427,6 +475,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 195374,
+      "num": 178570,
+      "word": "虞书欣新代言剪影",
+      "onboard_time": 1743911181,
+      "rank": 25,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 190731,
       "num": 164131,
       "word": "王一博卫衣look",
@@ -443,12 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189108,
-      "num": 164123,
-      "word": "男子扫墓时刮彩票中万元大奖",
-      "onboard_time": 1743908000,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 188609,
+      "num": 177896,
+      "word": "这样切水果不脏手又好看",
+      "onboard_time": 1743906741,
+      "rank": 27,
+      "category": "休闲"
     },
     {
       "raw_hot": 185704,
@@ -475,12 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176119,
-      "num": 164451,
-      "word": "这样切水果不脏手又好看",
-      "onboard_time": 1743906741,
-      "rank": 27,
-      "category": "休闲"
+      "raw_hot": 177160,
+      "num": 177160,
+      "word": "刘涛 我的梦中情师",
+      "onboard_time": 1743909081,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 174363,
@@ -523,8 +579,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162887,
-      "num": 162887,
+      "raw_hot": 165061,
+      "num": 165061,
       "word": "何炅说秦洗头继续营业",
       "onboard_time": 1743908061,
       "rank": 33,
@@ -547,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157724,
+      "num": 157724,
+      "word": "雁回时热度",
+      "onboard_time": 1743909680,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155049,
       "num": 155049,
       "word": "陈芋汐全红婵断层包揽金银",
@@ -555,20 +619,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154500,
-      "num": 154500,
-      "word": "雷军谈小米15年",
-      "onboard_time": 1743909201,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 152283,
       "num": 152283,
       "word": "花少南 中国boy",
       "onboard_time": 1743908360,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 145769,
+      "num": 145769,
+      "word": "罗永浩回应余承东人人买得起",
+      "onboard_time": 1743910882,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 140392,
+      "num": 140392,
+      "word": "雷军停更5日来首次发声",
+      "onboard_time": 1743911000,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 140250,
@@ -619,12 +691,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128402,
-      "num": 128402,
-      "word": "刘涛 我的梦中情师",
-      "onboard_time": 1743909081,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 128701,
+      "num": 128701,
+      "word": "小米15周年",
+      "onboard_time": 1743909620,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 127632,
+      "num": 127632,
+      "word": "甲亢哥你笔没还人家啊",
+      "onboard_time": 1743907581,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 127460,
@@ -731,6 +811,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 113699,
+      "num": 113699,
+      "word": "女性不是红袖添香的调味品",
+      "onboard_time": 1743910942,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113186,
       "num": 113186,
       "word": "东部战区视频为了这个省",
@@ -763,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108110,
+      "num": 108110,
+      "word": "全球股市累计蒸发近5万亿美元",
+      "onboard_time": 1743910822,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 106308,
       "num": 106308,
       "word": "中国政府关于反对美国滥施关税的立场",
@@ -777,6 +873,14 @@
       "onboard_time": 1743904281,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104580,
+      "num": 104580,
+      "word": "艾热新专辑歌曲越做越少",
+      "onboard_time": 1743910281,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 102660,
@@ -801,14 +905,6 @@
       "onboard_time": 1743869002,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 99573,
-      "num": 99573,
-      "word": "甲亢哥你笔没还人家啊",
-      "onboard_time": 1743907581,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 99247,
