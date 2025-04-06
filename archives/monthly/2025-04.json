@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743896175595,
+  "endTime": 1743904576524,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -603,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1333815,
+      "num": 283849,
+      "word": "曝金秀贤与金赛纶的通话录音",
+      "onboard_time": 1743898939,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1307003,
       "num": 1307003,
       "word": "华晨宇方称拒绝音乐版权擦边行为",
@@ -737,6 +745,14 @@
       "onboard_time": 1743480204,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1171087,
+      "num": 1187373,
+      "word": "陈芋汐世界杯冠军",
+      "onboard_time": 1743895938,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 1163740,
@@ -1659,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 707811,
+      "num": 283400,
+      "word": "从前车马很慢所以丑事也传得慢",
+      "onboard_time": 1743896238,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 705626,
       "num": 248026,
       "word": "疯狂动物城2",
@@ -1761,6 +1785,14 @@
       "onboard_time": 1743862763,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 658061,
+      "num": 283261,
+      "word": "机场回应粉丝扑向艺人车辆被刮倒",
+      "onboard_time": 1743898460,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 657688,
@@ -3028,7 +3060,7 @@
     },
     {
       "raw_hot": 426074,
-      "num": 228964,
+      "num": 275102,
       "word": "杨超越回复vava道歉",
       "onboard_time": 1743867562,
       "rank": 18,
@@ -3587,6 +3619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365760,
+      "num": 207666,
+      "word": "出轨率最低的三个星座男",
+      "onboard_time": 1743896419,
+      "rank": 21,
+      "category": "情感,剧集"
+    },
+    {
       "raw_hot": 365551,
       "num": 175109,
       "word": "钟南山提醒剩饭剩菜别强吃",
@@ -3609,6 +3649,14 @@
       "onboard_time": 1743812659,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364304,
+      "num": 207661,
+      "word": "全家喝五指毛桃煲鸡汤中毒2人进ICU",
+      "onboard_time": 1743898819,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 363268,
@@ -3803,6 +3851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350333,
+      "num": 350333,
+      "word": "男子路遇雪豹尸体疑遭车辆撞击",
+      "onboard_time": 1743895697,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350288,
       "num": 233240,
       "word": "戚薇宋仲基同框",
@@ -3936,6 +3992,14 @@
       "word": "宋妍霏组 三公第一",
       "onboard_time": 1743518847,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 337632,
+      "num": 309790,
+      "word": "王星称曾拒绝翻拍自己的经历",
+      "onboard_time": 1743896780,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -4155,6 +4219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320845,
+      "num": 307285,
+      "word": "NINEPERCENT七周年",
+      "onboard_time": 1743896657,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320820,
       "num": 320820,
       "word": "冬去春来 杨洋章若楠",
@@ -4241,6 +4313,14 @@
       "onboard_time": 1743475462,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 312167,
+      "num": 312167,
+      "word": "金价",
+      "onboard_time": 1743519987,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 311781,
@@ -4531,6 +4611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 292192,
+      "num": 292192,
+      "word": "全红婵世界杯银牌",
+      "onboard_time": 1743896238,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291911,
       "num": 291911,
       "word": "美股",
@@ -4665,6 +4753,14 @@
       "onboard_time": 1743758060,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 283019,
+      "num": 283019,
+      "word": "甲亢哥一句句OMG击碎老外偏见",
+      "onboard_time": 1743897139,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 282801,
@@ -5033,6 +5129,14 @@
       "onboard_time": 1743688883,
       "rank": 24,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 257289,
+      "num": 257289,
+      "word": "李美越8天掉粉超28万",
+      "onboard_time": 1743898039,
+      "rank": 15,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 257282,
@@ -5755,6 +5859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220264,
+      "num": 220264,
+      "word": "胖东来起诉博主两个小段",
+      "onboard_time": 1743894737,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220218,
       "num": 325760,
       "word": "蜘蛛侠4定档",
@@ -5817,6 +5929,14 @@
       "onboard_time": 1743462318,
       "rank": 31,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 218426,
+      "num": 218426,
+      "word": "假期最后1天",
+      "onboard_time": 1743895637,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218315,
@@ -6171,6 +6291,14 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 207678,
+      "num": 207678,
+      "word": "刘亦菲早期穿搭",
+      "onboard_time": 1743896597,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 207458,
       "num": 423486,
       "word": "清明思念如青草漫过山野",
@@ -6385,6 +6513,14 @@
       "onboard_time": 1743593183,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204407,
+      "num": 207675,
+      "word": "Jennie科切拉",
+      "onboard_time": 1743872718,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 204331,
@@ -7419,6 +7555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185454,
+      "num": 185454,
+      "word": "九尾太自律了",
+      "onboard_time": 1743903620,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185319,
       "num": 185319,
       "word": "好房子的新标准来了",
@@ -8179,6 +8323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171619,
+      "num": 171619,
+      "word": "老人离世留财产给保姆要求操办海葬",
+      "onboard_time": 1743900620,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171615,
       "num": 171615,
       "word": "王宝强棋士15集发现新ATM机",
@@ -8649,6 +8801,14 @@
       "onboard_time": 1743602843,
       "rank": 42,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 162510,
+      "num": 169841,
+      "word": "于正承认自己鲁莽了",
+      "onboard_time": 1743899960,
+      "rank": 27,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 162502,
@@ -10411,14 +10571,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 136750,
-      "num": 86714,
-      "word": "Jennie科切拉",
-      "onboard_time": 1743872718,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 136685,
       "num": 136685,
       "word": "孟美岐出发创造营总决赛",
@@ -10521,6 +10673,14 @@
       "onboard_time": 1743827780,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135701,
+      "num": 135701,
+      "word": "加沙人手机录下生命最后一刻的枪声",
+      "onboard_time": 1743903980,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135638,
@@ -10769,6 +10929,14 @@
       "onboard_time": 1743583342,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133015,
+      "num": 169351,
+      "word": "全炫茂BoA醉酒直播",
+      "onboard_time": 1743899600,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 133013,
@@ -11219,6 +11387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126814,
+      "num": 126814,
+      "word": "陈芋汐407C三个10分",
+      "onboard_time": 1743898819,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126691,
       "num": 126691,
       "word": "一诺灵儿携雨踏云大片",
@@ -11289,6 +11465,14 @@
       "onboard_time": 1743853941,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125771,
+      "num": 125771,
+      "word": "鞠婧祎陈都灵杀青合照",
+      "onboard_time": 1743902061,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 125745,
@@ -11449,6 +11633,14 @@
       "onboard_time": 1743741682,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 124187,
+      "num": 124187,
+      "word": "长期用吸管喝水会影响健康",
+      "onboard_time": 1743898699,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 124062,
@@ -11971,6 +12163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 117171,
+      "num": 117171,
+      "word": "郭涛儿子石头晒自拍",
+      "onboard_time": 1743902660,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117058,
       "num": 134563,
       "word": "横店变竖店了",
@@ -12257,6 +12457,14 @@
       "onboard_time": 1743521064,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113186,
+      "num": 113186,
+      "word": "东部战区视频为了这个省",
+      "onboard_time": 1743896479,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113178,
@@ -12939,14 +13147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100625,
-      "num": 242636,
-      "word": "金价",
-      "onboard_time": 1743519987,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 100190,
       "num": 100190,
       "word": "一个树碑宠物墓地超万元",
@@ -13043,6 +13243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98874,
+      "num": 115502,
+      "word": "警方回应男子路遇雪豹尸体",
+      "onboard_time": 1743895817,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 98847,
       "num": 230652,
       "word": "赵丽颖现场唱了手语版感恩的心",
@@ -13081,14 +13289,6 @@
       "onboard_time": 1743764182,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98112,
-      "num": 98112,
-      "word": "胖东来起诉博主两个小段",
-      "onboard_time": 1743894737,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98081,
@@ -13289,6 +13489,14 @@
       "onboard_time": 1743822560,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 93495,
+      "num": 284381,
+      "word": "多地将出现30摄氏度气温",
+      "onboard_time": 1743901159,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93334,
@@ -13611,6 +13819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86526,
+      "num": 86526,
+      "word": "大张伟透露和甲亢哥有个安排",
+      "onboard_time": 1743904341,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86165,
       "num": 86165,
       "word": "美股七姐妹大跌",
@@ -13731,6 +13947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83809,
+      "num": 83809,
+      "word": "深圳人为姥爷拍了拍23个地铁站名",
+      "onboard_time": 1743898819,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 83687,
       "num": 91685,
       "word": "那就给大家重新介绍下PS5吧",
@@ -13745,6 +13969,14 @@
       "onboard_time": 1743783079,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83349,
+      "num": 83349,
+      "word": "中方反制美方对等关税有理更有力",
+      "onboard_time": 1743893536,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83304,
@@ -13785,6 +14017,14 @@
       "onboard_time": 1743839600,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 82021,
+      "num": 82021,
+      "word": "柯淳短剧日薪2万",
+      "onboard_time": 1743897558,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 81852,
@@ -14147,14 +14387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 71029,
-      "num": 71029,
-      "word": "陈芋汐世界杯冠军",
-      "onboard_time": 1743895938,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 70980,
       "num": 134376,
       "word": "难哄3月全网播放冠军",
@@ -14331,14 +14563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66813,
-      "num": 66813,
-      "word": "男子路遇雪豹尸体疑遭车辆撞击",
-      "onboard_time": 1743895697,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66638,
       "num": 912984,
       "word": "清明念英烈",
@@ -14353,14 +14577,6 @@
       "onboard_time": 1743610760,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 66586,
-      "num": 115502,
-      "word": "警方回应男子路遇雪豹尸体",
-      "onboard_time": 1743895817,
-      "rank": 13,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 66294,
@@ -14385,14 +14601,6 @@
       "onboard_time": 1743438142,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65276,
-      "num": 65276,
-      "word": "假期最后1天",
-      "onboard_time": 1743895637,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65132,
@@ -14577,6 +14785,14 @@
       "onboard_time": 1743423443,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61939,
+      "num": 169195,
+      "word": "陈艺文陈芋汐说混团对我们很轻松",
+      "onboard_time": 1743904281,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 61551,
@@ -15107,6 +15323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47974,
+      "num": 207671,
+      "word": "王宗源世界杯3米板金牌",
+      "onboard_time": 1743904281,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47314,
       "num": 262976,
       "word": "白宫回应对等关税名单没有俄罗斯",
@@ -15569,14 +15793,6 @@
       "onboard_time": 1743571763,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36718,
-      "num": 46812,
-      "word": "中方反制美方对等关税有理更有力",
-      "onboard_time": 1743893536,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 36564,
