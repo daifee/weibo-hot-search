@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743944253110,
+  "endTime": 1743946099049,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -27,6 +27,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1592126,
+      "num": 1592126,
+      "word": "你的工资不能低于这个数字",
+      "onboard_time": 1743933500,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1499968,
       "num": 346247,
       "word": "殷世航自曝被一位明星偷过手表",
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1428320,
-      "num": 353574,
+      "num": 419106,
       "word": "时代峰峻 女练习生",
       "onboard_time": 1743937642,
       "rank": 13,
@@ -75,20 +83,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1125116,
+      "num": 861448,
+      "word": "女子突发不适驾车失控致1死3伤",
+      "onboard_time": 1743943520,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1119427,
       "num": 246504,
       "word": "原来安静的价格这么贵",
       "onboard_time": 1743939381,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1103821,
-      "num": 576481,
-      "word": "女子突发不适驾车失控致1死3伤",
-      "onboard_time": 1743943520,
-      "rank": 3,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1053889,
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 927810,
+      "num": 1143882,
+      "word": "孟美岐跳创造101主题曲",
+      "onboard_time": 1743943520,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 913006,
       "num": 430144,
       "word": "减肥黑名单",
@@ -163,14 +179,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 899263,
-      "num": 1143882,
-      "word": "孟美岐跳创造101主题曲",
-      "onboard_time": 1743943520,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 898123,
       "num": 1143699,
       "word": "小米",
@@ -184,6 +192,14 @@
       "word": "李昀锐哥哥",
       "onboard_time": 1743909920,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 857664,
+      "num": 857664,
+      "word": "朱正廷因频繁戴隐形得了干眼症",
+      "onboard_time": 1743944722,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -267,14 +283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 681609,
-      "num": 485634,
-      "word": "你的工资不能低于这个数字",
-      "onboard_time": 1743933500,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 668428,
       "num": 452668,
       "word": "kissoflife一夜掉粉20万",
@@ -289,6 +297,14 @@
       "onboard_time": 1743898460,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 645961,
+      "num": 516297,
+      "word": "胡烨韬我已经没有下一个四年了",
+      "onboard_time": 1743944300,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 633645,
@@ -643,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335430,
+      "num": 335430,
+      "word": "SM查理呢",
+      "onboard_time": 1743943460,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334880,
       "num": 205460,
       "word": "空少裸辞航司楼下卖烧烤月入两三万",
@@ -675,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 325458,
-      "num": 325458,
-      "word": "SM查理呢",
-      "onboard_time": 1743943460,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 319856,
       "num": 558729,
       "word": "全红婵世界杯银牌",
@@ -700,11 +716,19 @@
     },
     {
       "raw_hot": 311995,
-      "num": 186376,
+      "num": 244410,
       "word": "全红婵正面回应体重变化影响动作",
       "onboard_time": 1743943460,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 310072,
+      "num": 310072,
+      "word": "创造营亚洲2",
+      "onboard_time": 1743936321,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 303734,
@@ -859,6 +883,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 256199,
+      "num": 256199,
+      "word": "美国普通人担心关税让钱包受伤",
+      "onboard_time": 1743941301,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 251866,
       "num": 251866,
       "word": "孙俪眼神戏像真看见20万了",
@@ -889,6 +921,14 @@
       "onboard_time": 1743920540,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247503,
+      "num": 456707,
+      "word": "美国有人开始囤货了",
+      "onboard_time": 1743945202,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 242188,
@@ -963,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221792,
+      "num": 221792,
+      "word": "以为病了其实是衰老的表现",
+      "onboard_time": 1743945802,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 220264,
       "num": 220264,
       "word": "胖东来起诉博主两个小段",
@@ -1019,14 +1067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 210940,
-      "num": 222225,
-      "word": "创造营亚洲2",
-      "onboard_time": 1743936321,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209609,
       "num": 209609,
       "word": "TES投诉LPL导播镜头",
@@ -1065,6 +1105,22 @@
       "onboard_time": 1743916641,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205432,
+      "num": 205432,
+      "word": "念无双26集封神",
+      "onboard_time": 1743944781,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201172,
+      "num": 201172,
+      "word": "刘宇宁辟谣与鞠婧祎合作万花世界",
+      "onboard_time": 1743944122,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 201146,
@@ -1177,14 +1233,6 @@
       "onboard_time": 1743905660,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189981,
-      "num": 189981,
-      "word": "刘宇宁辟谣与鞠婧祎合作万花世界",
-      "onboard_time": 1743944122,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 189772,
@@ -1323,6 +1371,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 180621,
+      "num": 180621,
+      "word": "耐克等品牌或将被迫提价",
+      "onboard_time": 1743945802,
+      "rank": 30,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 179604,
       "num": 179604,
       "word": "LPL",
@@ -1435,12 +1491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167375,
-      "num": 167375,
-      "word": "美国普通人担心关税让钱包受伤",
-      "onboard_time": 1743941301,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 167539,
+      "num": 167539,
+      "word": "刘学义演技爆发力",
+      "onboard_time": 1743945322,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 167067,
@@ -1539,6 +1595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 157548,
+      "num": 157548,
+      "word": "创系六代同台开场秀音乐一起秒哭",
+      "onboard_time": 1743945082,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157409,
       "num": 157409,
       "word": "白敬亭海棠花vlog",
@@ -1555,12 +1619,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 156006,
+      "num": 156006,
+      "word": "念无双 爸妈要打架被孩子一脚踹停",
+      "onboard_time": 1743944062,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155401,
       "num": 155401,
       "word": "陈芋汐夺冠全红婵狂竖大拇指",
       "onboard_time": 1743914360,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155372,
+      "num": 155372,
+      "word": "米卡再跳创4主题曲",
+      "onboard_time": 1743945082,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 155049,
@@ -1585,6 +1665,14 @@
       "onboard_time": 1743929301,
       "rank": 2,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 150312,
+      "num": 150312,
+      "word": "华晨宇人生第一次穿一整身豹纹",
+      "onboard_time": 1743945683,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 150094,
@@ -1633,6 +1721,14 @@
       "onboard_time": 1743910882,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 145485,
+      "num": 145485,
+      "word": "董力把家人气得打电话兴师问罪",
+      "onboard_time": 1743943940,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 144295,
@@ -1699,14 +1795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135219,
-      "num": 135219,
-      "word": "董力把家人气得打电话兴师问罪",
-      "onboard_time": 1743943940,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135135,
       "num": 202883,
       "word": "向鹏vs李尚洙",
@@ -1727,6 +1815,14 @@
       "num": 133800,
       "word": "Bin放话TheShy",
       "onboard_time": 1743916701,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 133156,
+      "num": 133156,
+      "word": "AG司马光出道夜舞台",
+      "onboard_time": 1743945381,
       "rank": 40,
       "category": "电竞"
     },
@@ -1873,6 +1969,14 @@
       "onboard_time": 1743902061,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124519,
+      "num": 337949,
+      "word": "四川萨武雪山一驴友登山下撤后离世",
+      "onboard_time": 1743945022,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124187,
@@ -2059,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115618,
+      "num": 180673,
+      "word": "向鹏王艺迪冠军自拍",
+      "onboard_time": 1743944002,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115409,
       "num": 115409,
       "word": "王琳凯在偶练群里发了想大家",
@@ -2112,14 +2224,6 @@
       "word": "女性不是红袖添香的调味品",
       "onboard_time": 1743910942,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 113473,
-      "num": 108281,
-      "word": "念无双 爸妈要打架被孩子一脚踹停",
-      "onboard_time": 1743944062,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -2339,6 +2443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100841,
+      "num": 126389,
+      "word": "北京东路的孩子后来去了哪",
+      "onboard_time": 1743945022,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 100796,
       "num": 100796,
       "word": "黄子弘凡舔一下嘴会被自己毒死",
@@ -2532,7 +2644,7 @@
     },
     {
       "raw_hot": 75267,
-      "num": 592067,
+      "num": 861554,
       "word": "集中精力办好自己的事",
       "onboard_time": 1743942741,
       "rank": 8,
@@ -2561,6 +2673,14 @@
       "onboard_time": 1743868522,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 70148,
+      "num": 487517,
+      "word": "中国坚定不移维护多边主义",
+      "onboard_time": 1743942922,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 69982,
@@ -2657,14 +2777,6 @@
       "onboard_time": 1743943223,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52932,
-      "num": 487517,
-      "word": "中国坚定不移维护多边主义",
-      "onboard_time": 1743942922,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 50772,
@@ -2867,12 +2979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21918,
-      "num": 180673,
-      "word": "向鹏王艺迪冠军自拍",
-      "onboard_time": 1743944002,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 23107,
+      "num": 255864,
+      "word": "刘恋也曾有讨好型人格",
+      "onboard_time": 1743944542,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 19673,
