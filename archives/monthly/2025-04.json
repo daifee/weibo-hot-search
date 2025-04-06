@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743956845609,
+  "endTime": 1743957768670,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1659,6 +1659,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 816434,
+      "num": 922469,
+      "word": "陈奕迅连发11个感叹号说重庆了不得",
+      "onboard_time": 1743954440,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 815121,
       "num": 575489,
       "word": "宁艺卓即将大学毕业",
@@ -1721,14 +1729,6 @@
       "onboard_time": 1743583883,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 796253,
-      "num": 922469,
-      "word": "陈奕迅连发11个感叹号说重庆了不得",
-      "onboard_time": 1743954440,
-      "rank": 0,
-      "category": "演出"
     },
     {
       "raw_hot": 788545,
@@ -1947,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 715789,
+      "num": 715789,
+      "word": "中核招聘回应收到百万份简历",
+      "onboard_time": 1743954142,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 711417,
       "num": 371108,
       "word": "原来一根头发可以分叉这么多",
@@ -2025,14 +2033,6 @@
       "onboard_time": 1743862763,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 688087,
-      "num": 688087,
-      "word": "中核招聘回应收到百万份简历",
-      "onboard_time": 1743954142,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 683322,
@@ -6385,6 +6385,14 @@
       "onboard_time": 1743569664,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234602,
+      "num": 234602,
+      "word": "八旬老人拆掉养护院护栏跳下坠亡",
+      "onboard_time": 1743956838,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234528,
@@ -10755,6 +10763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155307,
+      "num": 84373,
+      "word": "谢娜刚刚录完三公",
+      "onboard_time": 1743956838,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155198,
       "num": 155198,
       "word": "LGDNBW对战狼队",
@@ -11828,7 +11844,7 @@
     },
     {
       "raw_hot": 142065,
-      "num": 99261,
+      "num": 104778,
       "word": "祝绪丹体重80斤",
       "onboard_time": 1743955340,
       "rank": 26,
@@ -13832,6 +13848,14 @@
       "word": "韩汶栩生病",
       "onboard_time": 1743559282,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120076,
+      "num": 102034,
+      "word": "贺峻霖你好胡萝卜不能在这洗澡",
+      "onboard_time": 1743956959,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -16243,6 +16267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84389,
+      "num": 84389,
+      "word": "这就是elk",
+      "onboard_time": 1743953961,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 84352,
       "num": 84352,
       "word": "徐梦洁在壹心年会舞蹈串烧",
@@ -16257,14 +16289,6 @@
       "onboard_time": 1743697701,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83975,
-      "num": 83975,
-      "word": "这就是elk",
-      "onboard_time": 1743953961,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 83933,
@@ -16737,6 +16761,14 @@
       "onboard_time": 1743518487,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 71892,
+      "num": 71892,
+      "word": "陈都灵包场支持向阳花",
+      "onboard_time": 1743957320,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 71851,
@@ -17235,6 +17267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60411,
+      "num": 60411,
+      "word": "朱婷留洋第六季",
+      "onboard_time": 1743957738,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60311,
       "num": 280171,
       "word": "不说话的爱手语无障碍直播",
@@ -17505,6 +17545,14 @@
       "onboard_time": 1743586703,
       "rank": 22,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 54169,
+      "num": 103290,
+      "word": "Bin塞恩",
+      "onboard_time": 1743957438,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 53987,
