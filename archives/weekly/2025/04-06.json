@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743952981846,
+  "endTime": 1743953812980,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1081109,
-      "num": 515171,
+      "num": 1171711,
       "word": "潘玮柏减重20斤等于减龄20岁",
       "onboard_time": 1743950063,
       "rank": 32,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 421658,
-      "num": 349223,
+      "num": 387030,
       "word": "创造营亚洲2排名",
       "onboard_time": 1743949643,
       "rank": 46,
@@ -667,20 +667,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 392376,
+      "num": 392376,
+      "word": "女儿癌症去世后妈妈15年种树2万亩",
+      "onboard_time": 1743948385,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384383,
       "num": 384383,
       "word": "王不染拍的章若楠",
       "onboard_time": 1743914420,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 374087,
-      "num": 374087,
-      "word": "女儿癌症去世后妈妈15年种树2万亩",
-      "onboard_time": 1743948385,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 369188,
@@ -1443,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187965,
+      "num": 187965,
+      "word": "冰冻文",
+      "onboard_time": 1743950723,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 187787,
       "num": 187787,
       "word": "李尚洙4比2林昀儒",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1743924620,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 186903,
+      "num": 186903,
+      "word": "男团版TWICE金曲也太火热了",
+      "onboard_time": 1743953061,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 185961,
@@ -1507,14 +1523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184133,
-      "num": 184133,
-      "word": "冰冻文",
-      "onboard_time": 1743950723,
-      "rank": 25,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 183291,
       "num": 367231,
       "word": "缅甸一地900多古建筑80%被毁",
@@ -1561,6 +1569,14 @@
       "onboard_time": 1743937521,
       "rank": 14,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 180761,
+      "num": 224156,
+      "word": "9岁男孩回乡过三月三失联多日",
+      "onboard_time": 1743951741,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179604,
@@ -1672,6 +1688,14 @@
       "word": "邓超gogogo出发喽",
       "onboard_time": 1743864204,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168244,
+      "num": 168244,
+      "word": "闫桉写给粉丝的一封信",
+      "onboard_time": 1743952702,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -2315,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121323,
+      "num": 388310,
+      "word": "美国关税政策引发全球反击",
+      "onboard_time": 1743952642,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121240,
       "num": 121240,
       "word": "皇马vs瓦伦西亚",
@@ -2425,14 +2457,6 @@
       "onboard_time": 1743902660,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116774,
-      "num": 116774,
-      "word": "闫桉写给粉丝的一封信",
-      "onboard_time": 1743952702,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 116716,
@@ -2867,6 +2891,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93424,
+      "num": 93424,
+      "word": "水果中的高糖刺客",
+      "onboard_time": 1743948503,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 92008,
+      "num": 192802,
+      "word": "风衣的正确穿法",
+      "onboard_time": 1743952872,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 91893,
       "num": 91893,
       "word": "房琪在浪姐的表现",
@@ -2945,14 +2985,6 @@
       "onboard_time": 1743865583,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84171,
-      "num": 224156,
-      "word": "9岁男孩回乡过三月三失联多日",
-      "onboard_time": 1743951741,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83809,
@@ -3139,14 +3171,6 @@
       "category": "互联网,情感"
     },
     {
-      "raw_hot": 49540,
-      "num": 165432,
-      "word": "美国关税政策引发全球反击",
-      "onboard_time": 1743952642,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 47974,
       "num": 207671,
       "word": "王宗源世界杯3米板金牌",
@@ -3161,6 +3185,14 @@
       "onboard_time": 1743914601,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 45468,
+      "num": 168547,
+      "word": "缅甸强震已致该国3564人遇难",
+      "onboard_time": 1743953242,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 44396,
@@ -3249,14 +3281,6 @@
       "onboard_time": 1743864084,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35091,
-      "num": 147947,
-      "word": "风衣的正确穿法",
-      "onboard_time": 1743952872,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 34200,
