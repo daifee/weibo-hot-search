@@ -1,0 +1,410 @@
+{
+  "runTime": 1743917953779,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 882705,
+        "num": 1141232,
+        "word": "美国50万人游行要求特朗普住手",
+        "onboard_time": 1743905300,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 710715,
+        "num": 710715,
+        "word": "胖东来起诉经济学家宋清辉索赔百万",
+        "onboard_time": 1743915801,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34895,
+        "num": 671741,
+        "word": "清明节气的春耕气象密码",
+        "onboard_time": 1743912021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652700,
+        "num": 652700,
+        "word": "人的身高70%取决于父母",
+        "onboard_time": 1743905240,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 586166,
+        "num": 586166,
+        "word": "全红婵一次性发了30张照片",
+        "onboard_time": 1743912801,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 563656,
+        "num": 563656,
+        "word": "祝绪丹超话断签也会崩溃",
+        "onboard_time": 1743911481,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459087,
+        "num": 459087,
+        "word": "小鬼在偶练大群发想你们了",
+        "onboard_time": 1743906441,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386560,
+        "num": 386560,
+        "word": "雷军谈小米15年",
+        "onboard_time": 1743909201,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 384383,
+        "num": 384383,
+        "word": "王不染拍的章若楠",
+        "onboard_time": 1743914420,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355325,
+        "num": 355325,
+        "word": "考生虚构考研成绩还带着家人闹",
+        "onboard_time": 1743916161,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 711417,
+        "num": 344733,
+        "word": "原来一根头发可以分叉这么多",
+        "onboard_time": 1743915441,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 669716,
+        "num": 331398,
+        "word": "李昀锐哥哥",
+        "onboard_time": 1743909920,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426845,
+        "num": 314187,
+        "word": "曝金秀贤与金赛纶的通话录音",
+        "onboard_time": 1743898939,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356299,
+        "num": 307290,
+        "word": "杜华晒与赵丽颖合照",
+        "onboard_time": 1743904940,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107057,
+        "num": 286236,
+        "word": "官方回应家长称双休影响考好大学",
+        "onboard_time": 1743916701,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276630,
+        "num": 276630,
+        "word": "清明假期最后1天你有什么安排",
+        "onboard_time": 1743912561,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222725,
+        "num": 222725,
+        "word": "李现打鸟获生态环境部认可",
+        "onboard_time": 1743907760,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213448,
+        "num": 213448,
+        "word": "孙颖莎说应该研究日本选手",
+        "onboard_time": 1743916641,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194618,
+        "num": 194618,
+        "word": "陈幸同11比5张本美和",
+        "onboard_time": 1743916641,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183291,
+        "num": 194477,
+        "word": "缅甸一地900多古建筑80%被毁",
+        "onboard_time": 1743916701,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1611938,
+        "num": 194331,
+        "word": "李昀锐双胞胎哥哥探班",
+        "onboard_time": 1743908421,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470662,
+        "num": 194194,
+        "word": "雷军停更5日来首次发声",
+        "onboard_time": 1743911000,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 281351,
+        "num": 194047,
+        "word": "蓝莓怎么这么便宜了",
+        "onboard_time": 1743910882,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202198,
+        "num": 193960,
+        "word": "男子扫墓时刮彩票中万元大奖",
+        "onboard_time": 1743908000,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192602,
+        "num": 193688,
+        "word": "李斯丹妮浪姐唯一四千万直拍",
+        "onboard_time": 1743910161,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192087,
+        "num": 193616,
+        "word": "周也一瓯春妆造",
+        "onboard_time": 1743916761,
+        "rank": 25,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 116014,
+        "num": 193367,
+        "word": "seventeen在墨西哥吃火锅",
+        "onboard_time": 1743917721,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193306,
+        "num": 193306,
+        "word": "李美越8天掉粉超28万",
+        "onboard_time": 1743898039,
+        "rank": 27,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 169524,
+        "num": 169524,
+        "word": "孩子太早懂事是不是好事",
+        "onboard_time": 1743916401,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47675,
+        "num": 169208,
+        "word": "女子早退1分钟遭辞退公司被判违法",
+        "onboard_time": 1743917061,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217420,
+        "num": 169191,
+        "word": "对金银细软有了更深刻的理解",
+        "onboard_time": 1743916102,
+        "rank": 30,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 177706,
+        "num": 169128,
+        "word": "cpf万能嗑糖公式",
+        "onboard_time": 1743916821,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169017,
+        "num": 169017,
+        "word": "猛男到底有多喜欢粉色",
+        "onboard_time": 1743916641,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160260,
+        "num": 160260,
+        "word": "办公室减脂餐",
+        "onboard_time": 1743917241,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158146,
+        "num": 158146,
+        "word": "陈芋汐世界杯冠军",
+        "onboard_time": 1743895938,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155401,
+        "num": 155401,
+        "word": "陈芋汐夺冠全红婵狂竖大拇指",
+        "onboard_time": 1743914360,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152195,
+        "num": 152195,
+        "word": "NINEPERCENT七周年",
+        "onboard_time": 1743896657,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 824848,
+        "num": 151874,
+        "word": "中核招聘",
+        "onboard_time": 1743906500,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149967,
+        "num": 149967,
+        "word": "出轨率最低的三个星座男",
+        "onboard_time": 1743896419,
+        "rank": 38,
+        "category": "情感,剧集"
+      },
+      {
+        "raw_hot": 11035,
+        "num": 145237,
+        "word": "美国3救灾人员缅甸救援时被解雇",
+        "onboard_time": 1743917480,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144225,
+        "num": 144225,
+        "word": "这样切水果不脏手又好看",
+        "onboard_time": 1743906741,
+        "rank": 40,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 140473,
+        "num": 140473,
+        "word": "全家喝五指毛桃煲鸡汤中毒2人进ICU",
+        "onboard_time": 1743898819,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139323,
+        "num": 139323,
+        "word": "无限暖暖",
+        "onboard_time": 1743917300,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136021,
+        "num": 136021,
+        "word": "陈妍希杨丞琳潘玮柏合影",
+        "onboard_time": 1743915921,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129964,
+        "num": 129964,
+        "word": "刘奕畅讲述与虞书欣吵架始末",
+        "onboard_time": 1743906380,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129914,
+        "num": 129914,
+        "word": "陈幸同vs张本美和",
+        "onboard_time": 1743912201,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127910,
+        "num": 127910,
+        "word": "空少裸辞航司楼下卖烧烤月入两三万",
+        "onboard_time": 1743906980,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125166,
+        "num": 125166,
+        "word": "Bin放话TheShy",
+        "onboard_time": 1743916701,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122240,
+        "num": 122240,
+        "word": "徐若晗女友报备vlog",
+        "onboard_time": 1743917841,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120676,
+        "num": 120676,
+        "word": "恋与深空",
+        "onboard_time": 1743917421,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#永远铭记英烈的英雄事迹#"
+    }
+  }
+}

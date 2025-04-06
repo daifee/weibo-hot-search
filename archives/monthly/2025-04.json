@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743916964995,
+  "endTime": 1743917953779,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1731,6 +1731,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 711417,
+      "num": 371108,
+      "word": "原来一根头发可以分叉这么多",
+      "onboard_time": 1743915441,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 710715,
+      "num": 710715,
+      "word": "胖东来起诉经济学家宋清辉索赔百万",
+      "onboard_time": 1743915801,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 707836,
       "num": 380772,
       "word": "任时完取关金秀贤",
@@ -2329,14 +2345,6 @@
       "onboard_time": 1743507563,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 554903,
-      "num": 554903,
-      "word": "胖东来起诉经济学家宋清辉索赔百万",
-      "onboard_time": 1743915801,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 554731,
@@ -3499,14 +3507,6 @@
       "category": "民生新闻,科学科普"
     },
     {
-      "raw_hot": 387714,
-      "num": 371108,
-      "word": "原来一根头发可以分叉这么多",
-      "onboard_time": 1743915441,
-      "rank": 11,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 387494,
       "num": 162358,
       "word": "金秀贤公开录音证据",
@@ -3545,6 +3545,14 @@
       "onboard_time": 1743560300,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 384383,
+      "num": 384383,
+      "word": "王不染拍的章若楠",
+      "onboard_time": 1743914420,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 383600,
@@ -3673,14 +3681,6 @@
       "onboard_time": 1743495744,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 373555,
-      "num": 373555,
-      "word": "王不染拍的章若楠",
-      "onboard_time": 1743914420,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 372494,
@@ -3937,6 +3937,14 @@
       "onboard_time": 1743857241,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 355325,
+      "num": 355325,
+      "word": "考生虚构考研成绩还带着家人闹",
+      "onboard_time": 1743916161,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 354641,
@@ -5691,14 +5699,6 @@
       "category": "体育,美食"
     },
     {
-      "raw_hot": 236256,
-      "num": 200753,
-      "word": "考生虚构考研成绩还带着家人闹",
-      "onboard_time": 1743916161,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235519,
       "num": 407803,
       "word": "74岁TVB老戏骨在狱中求婚成功",
@@ -6147,6 +6147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217420,
+      "num": 169191,
+      "word": "对金银细软有了更深刻的理解",
+      "onboard_time": 1743916102,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 216964,
       "num": 216964,
       "word": "KiiiKiii初一位",
@@ -6297,6 +6305,14 @@
       "onboard_time": 1743649282,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213448,
+      "num": 213448,
+      "word": "孙颖莎说应该研究日本选手",
+      "onboard_time": 1743916641,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 211855,
@@ -6612,7 +6628,7 @@
     },
     {
       "raw_hot": 206447,
-      "num": 163862,
+      "num": 194618,
       "word": "陈幸同11比5张本美和",
       "onboard_time": 1743916641,
       "rank": 33,
@@ -7947,6 +7963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183291,
+      "num": 367231,
+      "word": "缅甸一地900多古建筑80%被毁",
+      "onboard_time": 1743916701,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 183025,
       "num": 183025,
       "word": "半熟4体育生杀死了比赛",
@@ -8281,6 +8305,14 @@
       "onboard_time": 1743691342,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177706,
+      "num": 169128,
+      "word": "cpf万能嗑糖公式",
+      "onboard_time": 1743916821,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 177671,
@@ -8739,6 +8771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169524,
+      "num": 169524,
+      "word": "孩子太早懂事是不是好事",
+      "onboard_time": 1743916401,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169119,
       "num": 304884,
       "word": "美国自绝于全球自由贸易之外",
@@ -8753,6 +8793,14 @@
       "onboard_time": 1743575481,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169017,
+      "num": 169017,
+      "word": "猛男到底有多喜欢粉色",
+      "onboard_time": 1743916641,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 168975,
@@ -9107,14 +9155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163095,
-      "num": 163095,
-      "word": "孙颖莎说应该研究日本选手",
-      "onboard_time": 1743916641,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162946,
       "num": 162946,
       "word": "青团",
@@ -9313,6 +9353,14 @@
       "onboard_time": 1743908960,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160260,
+      "num": 160260,
+      "word": "办公室减脂餐",
+      "onboard_time": 1743917241,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 160199,
@@ -9593,6 +9641,14 @@
       "onboard_time": 1743764122,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155401,
+      "num": 155401,
+      "word": "陈芋汐夺冠全红婵狂竖大拇指",
+      "onboard_time": 1743914360,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 155118,
@@ -9889,14 +9945,6 @@
       "onboard_time": 1743681142,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150944,
-      "num": 150944,
-      "word": "陈芋汐夺冠全红婵狂竖大拇指",
-      "onboard_time": 1743914360,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 150803,
@@ -10785,6 +10833,14 @@
       "onboard_time": 1743818060,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139323,
+      "num": 139323,
+      "word": "无限暖暖",
+      "onboard_time": 1743917300,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 139223,
@@ -12131,6 +12187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122240,
+      "num": 122240,
+      "word": "徐若晗女友报备vlog",
+      "onboard_time": 1743917841,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122128,
       "num": 385586,
       "word": "王毅谈到中俄永不为敌",
@@ -12299,14 +12363,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 120462,
-      "num": 120462,
-      "word": "cpf万能嗑糖公式",
-      "onboard_time": 1743916821,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120324,
       "num": 279301,
       "word": "咏春在南昌大学具象化了",
@@ -12393,14 +12449,6 @@
       "onboard_time": 1743572482,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119392,
-      "num": 119392,
-      "word": "猛男到底有多喜欢粉色",
-      "onboard_time": 1743916641,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 119328,
@@ -12712,6 +12760,14 @@
       "word": "ADOR仍向NewJeans支付结算金",
       "onboard_time": 1743677181,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116014,
+      "num": 193367,
+      "word": "seventeen在墨西哥吃火锅",
+      "onboard_time": 1743917721,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -13275,6 +13331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107057,
+      "num": 286236,
+      "word": "官方回应家长称双休影响考好大学",
+      "onboard_time": 1743916701,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106910,
       "num": 106910,
       "word": "体育健儿们的追梦3月",
@@ -13481,14 +13545,6 @@
       "onboard_time": 1743496284,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104054,
-      "num": 103289,
-      "word": "孩子太早懂事是不是好事",
-      "onboard_time": 1743916401,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 103982,
@@ -15875,6 +15931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47675,
+      "num": 169208,
+      "word": "女子早退1分钟遭辞退公司被判违法",
+      "onboard_time": 1743917061,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47314,
       "num": 262976,
       "word": "白宫回应对等关税名单没有俄罗斯",
@@ -17051,14 +17115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 24218,
-      "num": 198074,
-      "word": "官方回应家长称双休影响考好大学",
-      "onboard_time": 1743916701,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23946,
       "num": 23946,
       "word": "五位盲人被公交司机温暖守护20年",
@@ -17579,14 +17635,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 13387,
-      "num": 367231,
-      "word": "缅甸一地900多古建筑80%被毁",
-      "onboard_time": 1743916701,
-      "rank": 14,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 13379,
       "num": 191200,
       "word": "萨卡复出破门",
@@ -17729,6 +17777,14 @@
       "onboard_time": 1743477684,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 11035,
+      "num": 145237,
+      "word": "美国3救灾人员缅甸救援时被解雇",
+      "onboard_time": 1743917480,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11032,
