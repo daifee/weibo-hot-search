@@ -1,0 +1,410 @@
+{
+  "runTime": 1743949278154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1856109,
+        "num": 1856109,
+        "word": "你的工资不能低于这个数字",
+        "onboard_time": 1743933500,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1150950,
+        "num": 1150950,
+        "word": "耐克等品牌或将被迫提价",
+        "onboard_time": 1743945802,
+        "rank": 1,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 62271,
+        "num": 1122437,
+        "word": "中国坚定不移维护多边主义",
+        "onboard_time": 1743942922,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1114104,
+        "num": 1114104,
+        "word": "锤娜丽莎 减肥不快乐都滚",
+        "onboard_time": 1743947123,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 864178,
+        "num": 864178,
+        "word": "网红李美越致歉",
+        "onboard_time": 1743947303,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 544511,
+        "num": 544511,
+        "word": "美国有人开始囤货了",
+        "onboard_time": 1743945202,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 844197,
+        "num": 542700,
+        "word": "朱正廷因频繁戴隐形得了干眼症",
+        "onboard_time": 1743944722,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 815121,
+        "num": 532981,
+        "word": "宁艺卓即将大学毕业",
+        "onboard_time": 1743947182,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103835,
+        "num": 528425,
+        "word": "集中精力办好自己的事",
+        "onboard_time": 1743942741,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184644,
+        "num": 518179,
+        "word": "2000多年前中国人就开始吸猫",
+        "onboard_time": 1743947545,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661864,
+        "num": 511496,
+        "word": "胡烨韬我已经没有下一个四年了",
+        "onboard_time": 1743944300,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635892,
+        "num": 501844,
+        "word": "时代峰峻 女练习生",
+        "onboard_time": 1743937642,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498169,
+        "num": 498169,
+        "word": "孟美岐跳创造101主题曲",
+        "onboard_time": 1743943520,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339867,
+        "num": 339867,
+        "word": "美关税政策或重创亚洲服装纺织业",
+        "onboard_time": 1743947480,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 321432,
+        "num": 321432,
+        "word": "女儿癌症去世后妈妈15年种树2万亩",
+        "onboard_time": 1743948385,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357549,
+        "num": 310772,
+        "word": "胡烨韬第三名",
+        "onboard_time": 1743947663,
+        "rank": 15,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 260878,
+        "num": 260878,
+        "word": "美媒称iPhone最高或涨至1.6万元",
+        "onboard_time": 1743929242,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 253443,
+        "num": 253443,
+        "word": "黄英只有不到80斤了",
+        "onboard_time": 1743925221,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236731,
+        "num": 236731,
+        "word": "北京东路的孩子后来去了哪",
+        "onboard_time": 1743945022,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 56516,
+        "num": 235782,
+        "word": "记者暗访弱精症检测治疗套路",
+        "onboard_time": 1743948203,
+        "rank": 19,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 469426,
+        "num": 235661,
+        "word": "专家建议洗头后自然风干",
+        "onboard_time": 1743947182,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 399813,
+        "num": 233910,
+        "word": "2岁娃烧伤婆婆给儿媳下跪自责痛哭",
+        "onboard_time": 1743943460,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313594,
+        "num": 233288,
+        "word": "金价暴涨还适合买三金吗",
+        "onboard_time": 1743947663,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 232478,
+        "num": 232478,
+        "word": "祝绪丹你的童年我的童年好像都一样",
+        "onboard_time": 1743947242,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 925382,
+        "num": 231943,
+        "word": "女子突发不适驾车失控致1死3伤",
+        "onboard_time": 1743943520,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 300835,
+        "num": 230492,
+        "word": "全红婵正面回应体重变化影响动作",
+        "onboard_time": 1743943460,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258239,
+        "num": 230324,
+        "word": "以为病了其实是衰老的表现",
+        "onboard_time": 1743945802,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248967,
+        "num": 229094,
+        "word": "创造营亚洲2",
+        "onboard_time": 1743936321,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86054,
+        "num": 228015,
+        "word": "胡定欣回应恋情",
+        "onboard_time": 1743943581,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14531,
+        "num": 226732,
+        "word": "捷豹路虎因关税问题暂停对美出口",
+        "onboard_time": 1743948863,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 226496,
+        "num": 226496,
+        "word": "向鹏男单冠军",
+        "onboard_time": 1743941062,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208118,
+        "num": 208118,
+        "word": "念无双26集封神",
+        "onboard_time": 1743944781,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203724,
+        "num": 203724,
+        "word": "晚睡晚起但睡够8小时还伤身吗",
+        "onboard_time": 1743938180,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199390,
+        "num": 199390,
+        "word": "西湖猝鱼",
+        "onboard_time": 1743929481,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183373,
+        "num": 183373,
+        "word": "SM查理呢",
+        "onboard_time": 1743943460,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169729,
+        "num": 169729,
+        "word": "李昀锐双胞胎哥哥探班",
+        "onboard_time": 1743908421,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167756,
+        "num": 167756,
+        "word": "向阳花总票房破8000万",
+        "onboard_time": 1743948744,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148912,
+        "num": 148912,
+        "word": "董力把家人气得打电话兴师问罪",
+        "onboard_time": 1743943940,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139163,
+        "num": 139163,
+        "word": "刘宇宁辟谣与鞠婧祎合作万花世界",
+        "onboard_time": 1743944122,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8188,
+        "num": 135272,
+        "word": "墓养犬",
+        "onboard_time": 1743948982,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134226,
+        "num": 134226,
+        "word": "王鹤棣假期出游",
+        "onboard_time": 1743947545,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127955,
+        "num": 127955,
+        "word": "演戏卖假货骗了3万多名老人",
+        "onboard_time": 1743948683,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126788,
+        "num": 126788,
+        "word": "美国普通人担心关税让钱包受伤",
+        "onboard_time": 1743941301,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126626,
+        "num": 126626,
+        "word": "2000多年前古人就爱吃瓜",
+        "onboard_time": 1743949224,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126116,
+        "num": 126116,
+        "word": "华晨宇咬手套going我",
+        "onboard_time": 1743948923,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125503,
+        "num": 125503,
+        "word": "值得爱11集做恨",
+        "onboard_time": 1743938421,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123069,
+        "num": 123069,
+        "word": "四川萨武雪山一驴友登山下撤后离世",
+        "onboard_time": 1743945022,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118066,
+        "num": 118066,
+        "word": "清明档新片票房超3亿",
+        "onboard_time": 1743948744,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115126,
+        "num": 115126,
+        "word": "罗晋一个笑容脑补出一篇be文",
+        "onboard_time": 1743948444,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110789,
+        "num": 110789,
+        "word": "Hamin公开",
+        "onboard_time": 1743938961,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于绿化祖国总书记这样说#"
+    }
+  }
+}
