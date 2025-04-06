@@ -1,0 +1,410 @@
+{
+  "runTime": 1743950316849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1670374,
+        "num": 1670374,
+        "word": "你的工资不能低于这个数字",
+        "onboard_time": 1743933500,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1140356,
+        "num": 1140356,
+        "word": "锤娜丽莎 减肥不快乐都滚",
+        "onboard_time": 1743947123,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60806,
+        "num": 1002168,
+        "word": "中国坚定不移维护多边主义",
+        "onboard_time": 1743942922,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 931967,
+        "num": 931967,
+        "word": "耐克等品牌或将被迫提价",
+        "onboard_time": 1743945802,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 863977,
+        "num": 863977,
+        "word": "网红李美越致歉",
+        "onboard_time": 1743947303,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 630721,
+        "num": 630721,
+        "word": "记者暗访弱精症检测治疗套路",
+        "onboard_time": 1743948203,
+        "rank": 5,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 790198,
+        "num": 575489,
+        "word": "宁艺卓即将大学毕业",
+        "onboard_time": 1743947182,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 744196,
+        "num": 571004,
+        "word": "朱正廷因频繁戴隐形得了干眼症",
+        "onboard_time": 1743944722,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99518,
+        "num": 465005,
+        "word": "集中精力办好自己的事",
+        "onboard_time": 1743942741,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 444141,
+        "num": 444141,
+        "word": "美国有人开始囤货了",
+        "onboard_time": 1743945202,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 577710,
+        "num": 388225,
+        "word": "时代峰峻 女练习生",
+        "onboard_time": 1743937642,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516157,
+        "num": 373397,
+        "word": "胡烨韬我已经没有下一个四年了",
+        "onboard_time": 1743944300,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319693,
+        "num": 319693,
+        "word": "全红婵正面回应体重变化影响动作",
+        "onboard_time": 1743943460,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307413,
+        "num": 307413,
+        "word": "女儿癌症去世后妈妈15年种树2万亩",
+        "onboard_time": 1743948385,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275795,
+        "num": 275795,
+        "word": "美关税政策或重创亚洲服装纺织业",
+        "onboard_time": 1743947480,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236226,
+        "num": 236226,
+        "word": "美媒称iPhone最高或涨至1.6万元",
+        "onboard_time": 1743929242,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 420549,
+        "num": 230558,
+        "word": "胡烨韬第三名",
+        "onboard_time": 1743947663,
+        "rank": 16,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 221347,
+        "num": 221347,
+        "word": "念无双26集封神",
+        "onboard_time": 1743944781,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204190,
+        "num": 204190,
+        "word": "北京东路的孩子后来去了哪",
+        "onboard_time": 1743945022,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203835,
+        "num": 203835,
+        "word": "黄英只有不到80斤了",
+        "onboard_time": 1743925221,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469888,
+        "num": 203714,
+        "word": "专家建议洗头后自然风干",
+        "onboard_time": 1743947182,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69043,
+        "num": 203360,
+        "word": "胡定欣回应恋情",
+        "onboard_time": 1743943581,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391414,
+        "num": 203159,
+        "word": "孟美岐跳创造101主题曲",
+        "onboard_time": 1743943520,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369507,
+        "num": 202697,
+        "word": "2岁娃烧伤婆婆给儿媳下跪自责痛哭",
+        "onboard_time": 1743943460,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257782,
+        "num": 202638,
+        "word": "金价暴涨还适合买三金吗",
+        "onboard_time": 1743947663,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 243405,
+        "num": 202160,
+        "word": "晚睡晚起但睡够8小时还伤身吗",
+        "onboard_time": 1743938180,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210128,
+        "num": 202040,
+        "word": "以为病了其实是衰老的表现",
+        "onboard_time": 1743945802,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201844,
+        "num": 201844,
+        "word": "BLG对战IG",
+        "onboard_time": 1743949643,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194998,
+        "num": 194998,
+        "word": "向阳花总票房破8000万",
+        "onboard_time": 1743948744,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40564,
+        "num": 176103,
+        "word": "捷豹路虎因关税问题暂停对美出口",
+        "onboard_time": 1743948863,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167958,
+        "num": 167958,
+        "word": "演戏卖假货骗了3万多名老人",
+        "onboard_time": 1743948683,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166173,
+        "num": 166173,
+        "word": "向鹏男单冠军",
+        "onboard_time": 1743941062,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164176,
+        "num": 164176,
+        "word": "潘玮柏减重20斤等于减龄20岁",
+        "onboard_time": 1743950063,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160910,
+        "num": 160910,
+        "word": "2000多年前古人就爱吃瓜",
+        "onboard_time": 1743949224,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156706,
+        "num": 156706,
+        "word": "2000多年前中国人就开始吸猫",
+        "onboard_time": 1743947545,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156196,
+        "num": 156196,
+        "word": "李昀锐双胞胎哥哥探班",
+        "onboard_time": 1743908421,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155626,
+        "num": 155626,
+        "word": "青岛文旅局回应孤独的树成网红景点",
+        "onboard_time": 1743949343,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148220,
+        "num": 148220,
+        "word": "华晨宇咬手套going我",
+        "onboard_time": 1743948923,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83544,
+        "num": 143276,
+        "word": "俄称几乎没经贸关系所以没上美清单",
+        "onboard_time": 1743946583,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136589,
+        "num": 142832,
+        "word": "祝绪丹你的童年我的童年好像都一样",
+        "onboard_time": 1743947242,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142502,
+        "num": 142502,
+        "word": "SM查理呢",
+        "onboard_time": 1743943460,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136985,
+        "num": 136985,
+        "word": "董力把家人气得打电话兴师问罪",
+        "onboard_time": 1743943940,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130029,
+        "num": 130029,
+        "word": "西湖猝鱼",
+        "onboard_time": 1743929481,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125477,
+        "num": 125477,
+        "word": "王鹤棣假期出游",
+        "onboard_time": 1743947545,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120257,
+        "num": 120257,
+        "word": "电影热烈重映票房破1000万",
+        "onboard_time": 1743949583,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117811,
+        "num": 117811,
+        "word": "朝鲜平壤国际马拉松现场画面",
+        "onboard_time": 1743949522,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408490,
+        "num": 117401,
+        "word": "创造营亚洲2排名",
+        "onboard_time": 1743949643,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114035,
+        "num": 114035,
+        "word": "刘宇宁辟谣与鞠婧祎合作万花世界",
+        "onboard_time": 1743944122,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111175,
+        "num": 111175,
+        "word": "富勒姆vs利物浦",
+        "onboard_time": 1743949822,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110938,
+        "num": 110938,
+        "word": "上海海港1比1上海申花",
+        "onboard_time": 1743950183,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于绿化祖国总书记这样说#"
+    }
+  }
+}

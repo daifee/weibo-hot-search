@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743949278154,
+  "endTime": 1743950316849,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -91,6 +91,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 1140356,
+      "num": 1140356,
+      "word": "锤娜丽莎 减肥不快乐都滚",
+      "onboard_time": 1743947123,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1125116,
       "num": 861448,
       "word": "女子突发不适驾车失控致1死3伤",
@@ -105,14 +113,6 @@
       "onboard_time": 1743939381,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1114104,
-      "num": 1114104,
-      "word": "锤娜丽莎 减肥不快乐都滚",
-      "onboard_time": 1743947123,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1053889,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 815121,
-      "num": 532981,
+      "num": 575489,
       "word": "宁艺卓即将大学毕业",
       "onboard_time": 1743947182,
       "rank": 7,
@@ -345,6 +345,14 @@
       "onboard_time": 1743904940,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 630721,
+      "num": 630721,
+      "word": "记者暗访弱精症检测治疗套路",
+      "onboard_time": 1743948203,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 612731,
@@ -515,7 +523,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 469426,
+      "raw_hot": 469888,
       "num": 235661,
       "word": "专家建议洗头后自然风干",
       "onboard_time": 1743947182,
@@ -563,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420549,
+      "num": 310772,
+      "word": "胡烨韬第三名",
+      "onboard_time": 1743947663,
+      "rank": 15,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 418864,
       "num": 364571,
       "word": "朱正廷说一直都有在联系",
@@ -585,6 +601,14 @@
       "onboard_time": 1743859102,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 408490,
+      "num": 117401,
+      "word": "创造营亚洲2排名",
+      "onboard_time": 1743949643,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 401246,
@@ -652,7 +676,7 @@
     },
     {
       "raw_hot": 365328,
-      "num": 268585,
+      "num": 319693,
       "word": "全红婵正面回应体重变化影响动作",
       "onboard_time": 1743943460,
       "rank": 30,
@@ -697,14 +721,6 @@
       "onboard_time": 1743935241,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357549,
-      "num": 310772,
-      "word": "胡烨韬第三名",
-      "onboard_time": 1743947663,
-      "rank": 15,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 350333,
@@ -1211,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201844,
+      "num": 201844,
+      "word": "BLG对战IG",
+      "onboard_time": 1743949643,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201172,
       "num": 201172,
       "word": "刘宇宁辟谣与鞠婧祎合作万花世界",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1743911181,
       "rank": 25,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 194998,
+      "num": 194998,
+      "word": "向阳花总票房破8000万",
+      "onboard_time": 1743948744,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 194335,
@@ -1603,20 +1635,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167958,
+      "num": 167958,
+      "word": "演戏卖假货骗了3万多名老人",
+      "onboard_time": 1743948683,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167758,
       "num": 167758,
       "word": "vava发博向杨超越道歉",
       "onboard_time": 1743850100,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167756,
-      "num": 167756,
-      "word": "向阳花总票房破8000万",
-      "onboard_time": 1743948744,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 167539,
@@ -1657,6 +1689,14 @@
       "onboard_time": 1743908061,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164176,
+      "num": 164176,
+      "word": "潘玮柏减重20斤等于减龄20岁",
+      "onboard_time": 1743950063,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 164105,
@@ -1707,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160910,
+      "num": 160910,
+      "word": "2000多年前古人就爱吃瓜",
+      "onboard_time": 1743949224,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160276,
       "num": 160276,
       "word": "种地吧直播",
@@ -1753,6 +1801,14 @@
       "onboard_time": 1743944062,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155626,
+      "num": 155626,
+      "word": "青岛文旅局回应孤独的树成网红景点",
+      "onboard_time": 1743949343,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155401,
@@ -1833,6 +1889,14 @@
       "onboard_time": 1743941901,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148220,
+      "num": 148220,
+      "word": "华晨宇咬手套going我",
+      "onboard_time": 1743948923,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 147562,
@@ -2083,14 +2147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127955,
-      "num": 127955,
-      "word": "演戏卖假货骗了3万多名老人",
-      "onboard_time": 1743948683,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127632,
       "num": 127632,
       "word": "甲亢哥你笔没还人家啊",
@@ -2115,28 +2171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126626,
-      "num": 126626,
-      "word": "2000多年前古人就爱吃瓜",
-      "onboard_time": 1743949224,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126501,
       "num": 126501,
       "word": "鞠婧祎陈都灵杀青合照",
       "onboard_time": 1743902061,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126116,
-      "num": 126116,
-      "word": "华晨宇咬手套going我",
-      "onboard_time": 1743948923,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 124187,
@@ -2243,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120257,
+      "num": 120257,
+      "word": "电影热烈重映票房破1000万",
+      "onboard_time": 1743949583,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120143,
       "num": 120143,
       "word": "丁禹兮白衬衣海边路透",
@@ -2273,6 +2321,14 @@
       "onboard_time": 1743948744,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117811,
+      "num": 117811,
+      "word": "朝鲜平壤国际马拉松现场画面",
+      "onboard_time": 1743949522,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 117629,
@@ -2467,12 +2523,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111175,
+      "num": 111175,
+      "word": "富勒姆vs利物浦",
+      "onboard_time": 1743949822,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111097,
       "num": 111097,
       "word": "王玉雯千禧年plog恋爱博主",
       "onboard_time": 1743928700,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110938,
+      "num": 110938,
+      "word": "上海海港1比1上海申花",
+      "onboard_time": 1743950183,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110585,
@@ -2947,14 +3019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56516,
-      "num": 235782,
-      "word": "记者暗访弱精症检测治疗套路",
-      "onboard_time": 1743948203,
-      "rank": 19,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 54373,
       "num": 54373,
       "word": "健身房更衣室成不法交易地",
@@ -3033,6 +3097,14 @@
       "onboard_time": 1743880395,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40564,
+      "num": 226732,
+      "word": "捷豹路虎因关税问题暂停对美出口",
+      "onboard_time": 1743948863,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 39605,
@@ -3233,14 +3305,6 @@
       "onboard_time": 1743883094,
       "rank": 31,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 14531,
-      "num": 226732,
-      "word": "捷豹路虎因关税问题暂停对美出口",
-      "onboard_time": 1743948863,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 14268,

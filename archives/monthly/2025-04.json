@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743949278154,
+  "endTime": 1743950316849,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -867,6 +867,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1140356,
+      "num": 1140356,
+      "word": "锤娜丽莎 减肥不快乐都滚",
+      "onboard_time": 1743947123,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1140320,
       "num": 1140320,
       "word": "金子涵 意难平",
@@ -945,14 +953,6 @@
       "onboard_time": 1743520285,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1114104,
-      "num": 1114104,
-      "word": "锤娜丽莎 减肥不快乐都滚",
-      "onboard_time": 1743947123,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1111464,
@@ -1652,7 +1652,7 @@
     },
     {
       "raw_hot": 815121,
-      "num": 532981,
+      "num": 575489,
       "word": "宁艺卓即将大学毕业",
       "onboard_time": 1743947182,
       "rank": 7,
@@ -2145,6 +2145,14 @@
       "onboard_time": 1743904940,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 630721,
+      "num": 630721,
+      "word": "记者暗访弱精症检测治疗套路",
+      "onboard_time": 1743948203,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 630557,
@@ -3227,7 +3235,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469426,
+      "raw_hot": 469888,
       "num": 235661,
       "word": "专家建议洗头后自然风干",
       "onboard_time": 1743947182,
@@ -3571,6 +3579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420549,
+      "num": 310772,
+      "word": "胡烨韬第三名",
+      "onboard_time": 1743947663,
+      "rank": 15,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 419911,
       "num": 378447,
       "word": "沈梦辰和女网红撞衫",
@@ -3713,6 +3729,14 @@
       "onboard_time": 1743848121,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 408490,
+      "num": 117401,
+      "word": "创造营亚洲2排名",
+      "onboard_time": 1743949643,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 408111,
@@ -4172,7 +4196,7 @@
     },
     {
       "raw_hot": 365328,
-      "num": 268585,
+      "num": 319693,
       "word": "全红婵正面回应体重变化影响动作",
       "onboard_time": 1743943460,
       "rank": 30,
@@ -4337,14 +4361,6 @@
       "onboard_time": 1743646520,
       "rank": 9,
       "category": "国际时政,国内时政"
-    },
-    {
-      "raw_hot": 357549,
-      "num": 310772,
-      "word": "胡烨韬第三名",
-      "onboard_time": 1743947663,
-      "rank": 15,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 356700,
@@ -7499,6 +7515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201844,
+      "num": 201844,
+      "word": "BLG对战IG",
+      "onboard_time": 1743949643,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201566,
       "num": 201566,
       "word": "夫妻吃凉拌皮蛋中毒住院6天",
@@ -7897,6 +7921,14 @@
       "onboard_time": 1743581783,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194998,
+      "num": 194998,
+      "word": "向阳花总票房破8000万",
+      "onboard_time": 1743948744,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 194942,
@@ -9731,6 +9763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 167958,
+      "num": 167958,
+      "word": "演戏卖假货骗了3万多名老人",
+      "onboard_time": 1743948683,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167942,
       "num": 167942,
       "word": "震耳欲聋开通官博",
@@ -9745,14 +9785,6 @@
       "onboard_time": 1743829281,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167756,
-      "num": 167756,
-      "word": "向阳花总票房破8000万",
-      "onboard_time": 1743948744,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 167752,
@@ -9995,6 +10027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164176,
+      "num": 164176,
+      "word": "潘玮柏减重20斤等于减龄20岁",
+      "onboard_time": 1743950063,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164105,
       "num": 164105,
       "word": "陈妍希杨丞琳潘玮柏合影",
@@ -10225,6 +10265,14 @@
       "onboard_time": 1743475462,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160910,
+      "num": 160910,
+      "word": "2000多年前古人就爱吃瓜",
+      "onboard_time": 1743949224,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160409,
@@ -10569,6 +10617,14 @@
       "onboard_time": 1743581003,
       "rank": 19,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 155626,
+      "num": 155626,
+      "word": "青岛文旅局回应孤独的树成网红景点",
+      "onboard_time": 1743949343,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155465,
@@ -11177,6 +11233,14 @@
       "onboard_time": 1743581123,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 148220,
+      "num": 148220,
+      "word": "华晨宇咬手套going我",
+      "onboard_time": 1743948923,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 148126,
@@ -12915,14 +12979,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127955,
-      "num": 127955,
-      "word": "演戏卖假货骗了3万多名老人",
-      "onboard_time": 1743948683,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127917,
       "num": 127917,
       "word": "Flamma道歉",
@@ -13043,14 +13099,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126626,
-      "num": 126626,
-      "word": "2000多年前古人就爱吃瓜",
-      "onboard_time": 1743949224,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126519,
       "num": 126519,
       "word": "乌云之上是我第一次get现代孙俪",
@@ -13105,14 +13153,6 @@
       "onboard_time": 1743803833,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126116,
-      "num": 126116,
-      "word": "华晨宇咬手套going我",
-      "onboard_time": 1743948923,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 125980,
@@ -13619,6 +13659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120257,
+      "num": 120257,
+      "word": "电影热烈重映票房破1000万",
+      "onboard_time": 1743949583,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120143,
       "num": 120143,
       "word": "丁禹兮白衬衣海边路透",
@@ -13848,6 +13896,14 @@
       "word": "冰壶",
       "onboard_time": 1743563602,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117811,
+      "num": 117811,
+      "word": "朝鲜平壤国际马拉松现场画面",
+      "onboard_time": 1743949522,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -14467,6 +14523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111175,
+      "num": 111175,
+      "word": "富勒姆vs利物浦",
+      "onboard_time": 1743949822,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111099,
       "num": 111099,
       "word": "麦琪的礼物被拍进剧",
@@ -14496,6 +14560,14 @@
       "word": "王艺迪3比2钱天一",
       "onboard_time": 1743740901,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110938,
+      "num": 110938,
+      "word": "上海海港1比1上海申花",
+      "onboard_time": 1743950183,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -17099,14 +17171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56516,
-      "num": 235782,
-      "word": "记者暗访弱精症检测治疗套路",
-      "onboard_time": 1743948203,
-      "rank": 19,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 56187,
       "num": 348160,
       "word": "Switch2发售日",
@@ -17753,6 +17817,14 @@
       "onboard_time": 1743858801,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40564,
+      "num": 226732,
+      "word": "捷豹路虎因关税问题暂停对美出口",
+      "onboard_time": 1743948863,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 40521,
@@ -19177,14 +19249,6 @@
       "onboard_time": 1743499223,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14531,
-      "num": 226732,
-      "word": "捷豹路虎因关税问题暂停对美出口",
-      "onboard_time": 1743948863,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 14380,
