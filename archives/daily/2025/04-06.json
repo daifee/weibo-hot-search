@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743943338069,
+  "endTime": 1743944253110,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1428320,
-      "num": 316870,
+      "num": 353574,
       "word": "时代峰峻 女练习生",
       "onboard_time": 1743937642,
       "rank": 13,
@@ -81,6 +81,14 @@
       "onboard_time": 1743939381,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1103821,
+      "num": 576481,
+      "word": "女子突发不适驾车失控致1死3伤",
+      "onboard_time": 1743943520,
+      "rank": 3,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1053889,
@@ -153,6 +161,14 @@
       "onboard_time": 1743926300,
       "rank": 11,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 899263,
+      "num": 1143882,
+      "word": "孟美岐跳创造101主题曲",
+      "onboard_time": 1743943520,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 898123,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 681609,
-      "num": 269652,
+      "num": 485634,
       "word": "你的工资不能低于这个数字",
       "onboard_time": 1743933500,
       "rank": 20,
@@ -419,6 +435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 494130,
+      "num": 263131,
+      "word": "2岁娃烧伤婆婆给儿媳下跪自责痛哭",
+      "onboard_time": 1743943460,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 485000,
       "num": 485000,
       "word": "小米15周年",
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 442270,
-      "num": 307776,
+      "num": 342993,
       "word": "Hamin公开",
       "onboard_time": 1743938961,
       "rank": 13,
@@ -651,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325458,
+      "num": 325458,
+      "word": "SM查理呢",
+      "onboard_time": 1743943460,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319856,
       "num": 558729,
       "word": "全红婵世界杯银牌",
@@ -665,6 +697,14 @@
       "onboard_time": 1743901400,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 311995,
+      "num": 186376,
+      "word": "全红婵正面回应体重变化影响动作",
+      "onboard_time": 1743943460,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 303734,
@@ -747,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270392,
+      "num": 261204,
+      "word": "晚睡晚起但睡够8小时还伤身吗",
+      "onboard_time": 1743938180,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 266834,
       "num": 306229,
       "word": "张峻豪求粉丝关灯牌",
@@ -761,6 +809,14 @@
       "onboard_time": 1743908000,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264634,
+      "num": 264634,
+      "word": "李小冉新剧演反派boss",
+      "onboard_time": 1743942561,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 260424,
@@ -819,20 +875,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249496,
+      "num": 264552,
+      "word": "任豪在创造营帅回主场了",
+      "onboard_time": 1743940223,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248397,
       "num": 248397,
       "word": "杨天真聊艺人官宣恋情被骂原因",
       "onboard_time": 1743920540,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246798,
-      "num": 193498,
-      "word": "晚睡晚起但睡够8小时还伤身吗",
-      "onboard_time": 1743938180,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 242188,
@@ -891,20 +947,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 227072,
+      "num": 227072,
+      "word": "赵粤再跳你最最最重要",
+      "onboard_time": 1743943223,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226831,
       "num": 226831,
       "word": "迪丽热巴早期随拍",
       "onboard_time": 1743927980,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221516,
-      "num": 221516,
-      "word": "任豪在创造营帅回主场了",
-      "onboard_time": 1743940223,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 220264,
@@ -979,6 +1035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 208449,
+      "num": 208449,
+      "word": "罗晋版消失的他",
+      "onboard_time": 1743943520,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207722,
       "num": 207722,
       "word": "张元英找镜头速度",
@@ -1017,14 +1081,6 @@
       "onboard_time": 1743868582,
       "rank": 26,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 198909,
-      "num": 198909,
-      "word": "李小冉新剧演反派boss",
-      "onboard_time": 1743942561,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 197589,
@@ -1099,14 +1155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192316,
-      "num": 192316,
-      "word": "赵粤再跳你最最最重要",
-      "onboard_time": 1743943223,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190731,
       "num": 164131,
       "word": "王一博卫衣look",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1743905660,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189981,
+      "num": 189981,
+      "word": "刘宇宁辟谣与鞠婧祎合作万花世界",
+      "onboard_time": 1743944122,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 189772,
@@ -1267,6 +1323,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 179604,
+      "num": 179604,
+      "word": "LPL",
+      "onboard_time": 1743943280,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178852,
       "num": 179397,
       "word": "家属称38万元停尸费已全部减免",
@@ -1305,14 +1369,6 @@
       "onboard_time": 1743927741,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175631,
-      "num": 175631,
-      "word": "LPL",
-      "onboard_time": 1743943280,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 174363,
@@ -1377,6 +1433,14 @@
       "onboard_time": 1743850100,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167375,
+      "num": 167375,
+      "word": "美国普通人担心关税让钱包受伤",
+      "onboard_time": 1743941301,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 167067,
@@ -1499,14 +1563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155171,
-      "num": 155171,
-      "word": "美国普通人担心关税让钱包受伤",
-      "onboard_time": 1743941301,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 155049,
       "num": 155049,
       "word": "陈芋汐全红婵断层包揽金银",
@@ -1579,6 +1635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 144295,
+      "num": 357699,
+      "word": "增强有效应对美关税冲击的信心",
+      "onboard_time": 1743942322,
+      "rank": 9,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 140837,
       "num": 140837,
       "word": "甲亢哥保镖一直在吃东西",
@@ -1635,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135219,
+      "num": 135219,
+      "word": "董力把家人气得打电话兴师问罪",
+      "onboard_time": 1743943940,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135135,
       "num": 202883,
       "word": "向鹏vs李尚洙",
@@ -1672,6 +1744,14 @@
       "word": "全炫茂BoA醉酒直播",
       "onboard_time": 1743899600,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132965,
+      "num": 132965,
+      "word": "胡定欣回应恋情",
+      "onboard_time": 1743943581,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1987,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115399,
+      "num": 115399,
+      "word": "念无双",
+      "onboard_time": 1743939322,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114829,
       "num": 200131,
       "word": "贾一凡vlog更新",
@@ -2027,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113473,
+      "num": 108281,
+      "word": "念无双 爸妈要打架被孩子一脚踹停",
+      "onboard_time": 1743944062,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113217,
       "num": 426617,
       "word": "带娃出门成了父母的地狱模式",
@@ -2041,14 +2137,6 @@
       "onboard_time": 1743896479,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112659,
-      "num": 112659,
-      "word": "念无双",
-      "onboard_time": 1743939322,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 112247,
@@ -2323,20 +2411,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93747,
-      "num": 256229,
-      "word": "增强有效应对美关税冲击的信心",
-      "onboard_time": 1743942322,
-      "rank": 9,
-      "category": "国内时政,国际时政"
-    },
-    {
       "raw_hot": 91893,
       "num": 91893,
       "word": "房琪在浪姐的表现",
       "onboard_time": 1743906320,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91238,
+      "num": 262480,
+      "word": "原来是晶哥回应诈骗传闻",
+      "onboard_time": 1743943100,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 89828,
@@ -2444,7 +2532,7 @@
     },
     {
       "raw_hot": 75267,
-      "num": 258467,
+      "num": 592067,
       "word": "集中精力办好自己的事",
       "onboard_time": 1743942741,
       "rank": 8,
@@ -2563,6 +2651,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53927,
+      "num": 263834,
+      "word": "00后女孩为母亲购买AI复活外公",
+      "onboard_time": 1743943223,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52932,
+      "num": 487517,
+      "word": "中国坚定不移维护多边主义",
+      "onboard_time": 1743942922,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50772,
       "num": 50772,
       "word": "董宇辉 人是被成就感所驱使的动物",
@@ -2667,14 +2771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34684,
-      "num": 144870,
-      "word": "00后女孩为母亲购买AI复活外公",
-      "onboard_time": 1743943223,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34200,
       "num": 47886,
       "word": "大张伟直播",
@@ -2689,6 +2785,14 @@
       "onboard_time": 1743919641,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31298,
+      "num": 334161,
+      "word": "200元一箱的初牛奶被卖到6000元",
+      "onboard_time": 1743943581,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29930,
@@ -2763,20 +2867,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21918,
+      "num": 180673,
+      "word": "向鹏王艺迪冠军自拍",
+      "onboard_time": 1743944002,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19673,
       "num": 100243,
       "word": "向阳花硬刚污蔑片段",
       "onboard_time": 1743935841,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 19471,
-      "num": 487517,
-      "word": "中国坚定不移维护多边主义",
-      "onboard_time": 1743942922,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19438,
@@ -2801,6 +2905,14 @@
       "onboard_time": 1743886754,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15980,
+      "num": 191651,
+      "word": "向鹏说没想到能拿冠军",
+      "onboard_time": 1743944002,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 15416,
