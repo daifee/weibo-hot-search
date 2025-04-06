@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743922020059,
+  "endTime": 1743924093769,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -43,20 +43,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1290624,
+      "num": 1290624,
+      "word": "甲亢哥扫货被提醒后细心放好手机",
+      "onboard_time": 1743919101,
+      "rank": 10,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 1171087,
       "num": 1187373,
       "word": "陈芋汐世界杯冠军",
       "onboard_time": 1743895938,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1124732,
-      "num": 1179957,
-      "word": "甲亢哥扫货被提醒后细心放好手机",
-      "onboard_time": 1743919101,
-      "rank": 10,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1053889,
@@ -96,6 +96,14 @@
       "word": "李昀锐哥哥",
       "onboard_time": 1743909920,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 788545,
+      "num": 528464,
+      "word": "杨幂 内娱史官",
+      "onboard_time": 1743920721,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -211,8 +219,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 454942,
-      "num": 454942,
+      "raw_hot": 510454,
+      "num": 510454,
       "word": "家长称高中双休影响孩子考好大学",
       "onboard_time": 1743919821,
       "rank": 9,
@@ -241,6 +249,14 @@
       "onboard_time": 1743910882,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 417223,
+      "num": 224552,
+      "word": "雪梨以设计师身份参加综艺",
+      "onboard_time": 1743922341,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 415549,
@@ -291,14 +307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 367190,
-      "num": 367190,
-      "word": "杨幂 内娱史官",
-      "onboard_time": 1743920721,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 365760,
       "num": 217713,
       "word": "出轨率最低的三个星座男",
@@ -313,6 +321,14 @@
       "onboard_time": 1743898819,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361401,
+      "num": 361401,
+      "word": "张峻豪演唱会",
+      "onboard_time": 1743921141,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 358786,
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276390,
+      "num": 276390,
+      "word": "叶童短裙造型",
+      "onboard_time": 1743919459,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270886,
       "num": 236011,
       "word": "钟丽丽曾因恋情试戏被刷",
@@ -515,20 +539,20 @@
       "category": "财经,海外新闻"
     },
     {
-      "raw_hot": 236450,
-      "num": 236450,
-      "word": "叶童短裙造型",
-      "onboard_time": 1743919459,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235973,
       "num": 235973,
       "word": "美媒曝美财长受不了荒谬的对等关税",
       "onboard_time": 1743853941,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 233566,
+      "num": 233566,
+      "word": "车主晒SU7一年保值率91%",
+      "onboard_time": 1743922820,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 232486,
@@ -603,8 +627,8 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 208906,
-      "num": 208906,
+      "raw_hot": 214769,
+      "num": 214769,
       "word": "突然发现6月到9月没有假期",
       "onboard_time": 1743921021,
       "rank": 36,
@@ -635,14 +659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205070,
-      "num": 205070,
-      "word": "张峻豪演唱会",
-      "onboard_time": 1743921141,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 200082,
       "num": 200082,
       "word": "减肥误食1份炸鸡怎么办",
@@ -665,6 +681,14 @@
       "onboard_time": 1743913940,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193254,
+      "num": 193254,
+      "word": "向鹏11比9弗朗西斯卡",
+      "onboard_time": 1743922881,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 190731,
@@ -721,6 +745,14 @@
       "onboard_time": 1743921021,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185768,
+      "num": 185768,
+      "word": "陈德容越鼓励越支棱",
+      "onboard_time": 1743923122,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 185704,
@@ -795,6 +827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 173360,
+      "num": 173360,
+      "word": "出丑越多 成长越快",
+      "onboard_time": 1743921800,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172874,
       "num": 190853,
       "word": "彩色的黑是吉克隽逸的养老保险",
@@ -867,6 +907,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 166865,
+      "num": 166865,
+      "word": "全女电影",
+      "onboard_time": 1743921740,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165061,
       "num": 165061,
       "word": "何炅说秦洗头继续营业",
@@ -881,6 +929,14 @@
       "onboard_time": 1743915921,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163130,
+      "num": 163130,
+      "word": "万岁山景区致歉",
+      "onboard_time": 1743921380,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162840,
@@ -971,6 +1027,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 140837,
+      "num": 140837,
+      "word": "甲亢哥保镖一直在吃东西",
+      "onboard_time": 1743920480,
+      "rank": 39,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 140250,
       "num": 140250,
       "word": "女生追星冲向车头被撞倒",
@@ -985,22 +1049,6 @@
       "onboard_time": 1743917300,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138406,
-      "num": 138406,
-      "word": "万岁山景区致歉",
-      "onboard_time": 1743921380,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138135,
-      "num": 138135,
-      "word": "全女电影",
-      "onboard_time": 1743921740,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 133800,
@@ -1059,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130438,
+      "num": 320293,
+      "word": "特朗普回应股市崩盘",
+      "onboard_time": 1743923059,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130086,
       "num": 130086,
       "word": "GAI演唱会再唱张震岳小宇",
@@ -1081,6 +1137,14 @@
       "onboard_time": 1743896117,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129096,
+      "num": 129096,
+      "word": "向阳花豆瓣开分6.6",
+      "onboard_time": 1743922341,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 128701,
@@ -1121,14 +1185,6 @@
       "onboard_time": 1743902061,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124931,
-      "num": 124931,
-      "word": "出丑越多 成长越快",
-      "onboard_time": 1743921800,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 124187,
@@ -1243,12 +1299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114956,
-      "num": 131111,
-      "word": "甲亢哥保镖一直在吃东西",
-      "onboard_time": 1743920480,
-      "rank": 39,
-      "category": "民生新闻,网红"
+      "raw_hot": 114080,
+      "num": 114080,
+      "word": "浪姐选人选曲",
+      "onboard_time": 1743922461,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 114063,
@@ -1307,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110468,
+      "num": 110468,
+      "word": "多哈世乒赛",
+      "onboard_time": 1743921620,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109019,
       "num": 109019,
       "word": "檀健次 广西老表标配",
@@ -1363,6 +1427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103801,
+      "num": 103801,
+      "word": "2025F1日本大奖赛",
+      "onboard_time": 1743923720,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103293,
       "num": 103293,
       "word": "南宁动物园卡大象",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1743868701,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101258,
+      "num": 101258,
+      "word": "JDG剧本杀全员老实人",
+      "onboard_time": 1743923420,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 101206,
@@ -1611,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51522,
+      "num": 178459,
+      "word": "租房甲醛超标女子想退租被中介骂",
+      "onboard_time": 1743923241,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 50772,
       "num": 50772,
       "word": "董宇辉 人是被成就感所驱使的动物",
@@ -1688,6 +1776,14 @@
       "word": "AI修复抗战英雄的模样",
       "onboard_time": 1743864084,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35370,
+      "num": 268707,
+      "word": "平台回应4999元代祭扫由品牌部采买",
+      "onboard_time": 1743923059,
+      "rank": 14,
       "category": "民生新闻"
     },
     {

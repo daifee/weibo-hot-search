@@ -1,0 +1,410 @@
+{
+  "runTime": 1743924093769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1290624,
+        "num": 1290624,
+        "word": "甲亢哥扫货被提醒后细心放好手机",
+        "onboard_time": 1743919101,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 566225,
+        "num": 566225,
+        "word": "人的身高70%取决于父母",
+        "onboard_time": 1743905240,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 29471,
+        "num": 533950,
+        "word": "清明节气的春耕气象密码",
+        "onboard_time": 1743912021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 788545,
+        "num": 528464,
+        "word": "杨幂 内娱史官",
+        "onboard_time": 1743920721,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518543,
+        "num": 518543,
+        "word": "美国50万人游行要求特朗普住手",
+        "onboard_time": 1743905300,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 510454,
+        "num": 510454,
+        "word": "家长称高中双休影响孩子考好大学",
+        "onboard_time": 1743919821,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455631,
+        "num": 455631,
+        "word": "爱情公寓的转场方式还是太超前了",
+        "onboard_time": 1743918380,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361401,
+        "num": 361401,
+        "word": "张峻豪演唱会",
+        "onboard_time": 1743921141,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 333176,
+        "num": 333176,
+        "word": "胖东来起诉经济学家宋清辉索赔百万",
+        "onboard_time": 1743915801,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130438,
+        "num": 320293,
+        "word": "特朗普回应股市崩盘",
+        "onboard_time": 1743923059,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 438858,
+        "num": 315234,
+        "word": "原来一根头发可以分叉这么多",
+        "onboard_time": 1743915441,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308874,
+        "num": 308874,
+        "word": "雷军谈小米15年",
+        "onboard_time": 1743909201,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 276390,
+        "num": 276390,
+        "word": "叶童短裙造型",
+        "onboard_time": 1743919459,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271254,
+        "num": 271254,
+        "word": "李昀锐哥哥",
+        "onboard_time": 1743909920,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35370,
+        "num": 268707,
+        "word": "平台回应4999元代祭扫由品牌部采买",
+        "onboard_time": 1743923059,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266613,
+        "num": 266613,
+        "word": "曝金秀贤与金赛纶的通话录音",
+        "onboard_time": 1743898939,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244080,
+        "num": 244080,
+        "word": "全红婵一次性发了30张照片",
+        "onboard_time": 1743912801,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242709,
+        "num": 242709,
+        "word": "考生虚构考研成绩还带着家人闹",
+        "onboard_time": 1743916161,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237617,
+        "num": 237617,
+        "word": "小鬼在偶练大群发想你们了",
+        "onboard_time": 1743906441,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233566,
+        "num": 233566,
+        "word": "车主晒SU7一年保值率91%",
+        "onboard_time": 1743922820,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1005587,
+        "num": 225765,
+        "word": "李昀锐双胞胎哥哥探班",
+        "onboard_time": 1743908421,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417223,
+        "num": 224552,
+        "word": "雪梨以设计师身份参加综艺",
+        "onboard_time": 1743922341,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317145,
+        "num": 224331,
+        "word": "雷军停更5日来首次发声",
+        "onboard_time": 1743911000,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214769,
+        "num": 214769,
+        "word": "突然发现6月到9月没有假期",
+        "onboard_time": 1743921021,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201737,
+        "num": 201737,
+        "word": "宋妍霏真把李斯丹妮梦来浪姐了",
+        "onboard_time": 1743918800,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201162,
+        "num": 201162,
+        "word": "孝敏婚纱照",
+        "onboard_time": 1743918200,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197095,
+        "num": 197095,
+        "word": "孙颖莎说应该研究日本选手",
+        "onboard_time": 1743916641,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193254,
+        "num": 193254,
+        "word": "向鹏11比9弗朗西斯卡",
+        "onboard_time": 1743922881,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185768,
+        "num": 185768,
+        "word": "陈德容越鼓励越支棱",
+        "onboard_time": 1743923122,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51522,
+        "num": 178459,
+        "word": "租房甲醛超标女子想退租被中介骂",
+        "onboard_time": 1743923241,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 173360,
+        "num": 173360,
+        "word": "出丑越多 成长越快",
+        "onboard_time": 1743921800,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166865,
+        "num": 166865,
+        "word": "全女电影",
+        "onboard_time": 1743921740,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164966,
+        "num": 164966,
+        "word": "蓝莓怎么这么便宜了",
+        "onboard_time": 1743910882,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163130,
+        "num": 163130,
+        "word": "万岁山景区致歉",
+        "onboard_time": 1743921380,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162830,
+        "num": 162830,
+        "word": "杜华晒与赵丽颖合照",
+        "onboard_time": 1743904940,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144021,
+        "num": 144021,
+        "word": "女子早退1分钟遭辞退公司被判违法",
+        "onboard_time": 1743917061,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140837,
+        "num": 140837,
+        "word": "甲亢哥保镖一直在吃东西",
+        "onboard_time": 1743920480,
+        "rank": 36,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 139117,
+        "num": 139117,
+        "word": "清明假期最后1天你有什么安排",
+        "onboard_time": 1743912561,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135538,
+        "num": 135538,
+        "word": "杨天真聊艺人官宣恋情被骂原因",
+        "onboard_time": 1743920540,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134275,
+        "num": 134275,
+        "word": "中国boy王嘉尔",
+        "onboard_time": 1743918080,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131621,
+        "num": 131621,
+        "word": "终于又吃上了青春剧细糠",
+        "onboard_time": 1743919879,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129096,
+        "num": 129096,
+        "word": "向阳花豆瓣开分6.6",
+        "onboard_time": 1743922341,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114080,
+        "num": 114080,
+        "word": "浪姐选人选曲",
+        "onboard_time": 1743922461,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110468,
+        "num": 110468,
+        "word": "多哈世乒赛",
+        "onboard_time": 1743921620,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108037,
+        "num": 108037,
+        "word": "男子扫墓时刮彩票中万元大奖",
+        "onboard_time": 1743908000,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103801,
+        "num": 103801,
+        "word": "2025F1日本大奖赛",
+        "onboard_time": 1743923720,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103290,
+        "num": 103290,
+        "word": "王不染拍的章若楠",
+        "onboard_time": 1743914420,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102463,
+        "num": 102463,
+        "word": "这样切水果不脏手又好看",
+        "onboard_time": 1743906741,
+        "rank": 47,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 101258,
+        "num": 101258,
+        "word": "JDG剧本杀全员老实人",
+        "onboard_time": 1743923420,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100708,
+        "num": 100708,
+        "word": "李美越8天掉粉超28万",
+        "onboard_time": 1743898039,
+        "rank": 49,
+        "category": "民生新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#在春风里树木也是树人#"
+    }
+  }
+}
