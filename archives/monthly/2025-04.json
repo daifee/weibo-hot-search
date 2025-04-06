@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743904576524,
+  "endTime": 1743905907650,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -457,6 +457,14 @@
       "onboard_time": 1743495022,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1499968,
+      "num": 346247,
+      "word": "殷世航自曝被一位明星偷过手表",
+      "onboard_time": 1743904880,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1497991,
@@ -3155,6 +3163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 415549,
+      "num": 315064,
+      "word": "NINEPERCENT七周年",
+      "onboard_time": 1743896657,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 413225,
       "num": 324729,
       "word": "海警舰艇按一个中国原则执法管控",
@@ -3620,7 +3636,7 @@
     },
     {
       "raw_hot": 365760,
-      "num": 207666,
+      "num": 215599,
       "word": "出轨率最低的三个星座男",
       "onboard_time": 1743896419,
       "rank": 21,
@@ -3652,7 +3668,7 @@
     },
     {
       "raw_hot": 364304,
-      "num": 207661,
+      "num": 214434,
       "word": "全家喝五指毛桃煲鸡汤中毒2人进ICU",
       "onboard_time": 1743898819,
       "rank": 22,
@@ -3996,7 +4012,7 @@
     },
     {
       "raw_hot": 337632,
-      "num": 309790,
+      "num": 310139,
       "word": "王星称曾拒绝翻拍自己的经历",
       "onboard_time": 1743896780,
       "rank": 5,
@@ -4219,12 +4235,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 320845,
-      "num": 307285,
-      "word": "NINEPERCENT七周年",
-      "onboard_time": 1743896657,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 321581,
+      "num": 321581,
+      "word": "美国50万人游行要求特朗普住手",
+      "onboard_time": 1743905300,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 320820,
@@ -4241,6 +4257,14 @@
       "onboard_time": 1743864623,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 319856,
+      "num": 319856,
+      "word": "全红婵世界杯银牌",
+      "onboard_time": 1743896238,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 319039,
@@ -4361,6 +4385,14 @@
       "onboard_time": 1743812600,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 310192,
+      "num": 271711,
+      "word": "杜华晒与赵丽颖合照",
+      "onboard_time": 1743904940,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 308936,
@@ -4609,14 +4641,6 @@
       "onboard_time": 1743568282,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 292192,
-      "num": 292192,
-      "word": "全红婵世界杯银牌",
-      "onboard_time": 1743896238,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 291911,
@@ -5160,6 +5184,14 @@
       "word": "当了27年黑户男子有户口了",
       "onboard_time": 1743755421,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256329,
+      "num": 256329,
+      "word": "假期最后1天",
+      "onboard_time": 1743895637,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -5931,14 +5963,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 218426,
-      "num": 218426,
-      "word": "假期最后1天",
-      "onboard_time": 1743895637,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 218315,
       "num": 273256,
       "word": "张艺兴孤注二掷",
@@ -5953,6 +5977,14 @@
       "onboard_time": 1743843801,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216918,
+      "num": 216918,
+      "word": "Jennie科切拉",
+      "onboard_time": 1743872718,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 216841,
@@ -6513,14 +6545,6 @@
       "onboard_time": 1743593183,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 204407,
-      "num": 207675,
-      "word": "Jennie科切拉",
-      "onboard_time": 1743872718,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 204331,
@@ -7523,6 +7547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 185704,
+      "num": 185704,
+      "word": "九尾太自律了",
+      "onboard_time": 1743903620,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185675,
       "num": 185675,
       "word": "王心凌给伴舞做了一次伴舞",
@@ -7553,14 +7585,6 @@
       "onboard_time": 1743833601,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185454,
-      "num": 185454,
-      "word": "九尾太自律了",
-      "onboard_time": 1743903620,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 185319,
@@ -7707,6 +7731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182728,
+      "num": 284381,
+      "word": "多地将出现30摄氏度气温",
+      "onboard_time": 1743901159,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182724,
       "num": 182724,
       "word": "美国网友称领取食物队伍已爆满",
@@ -7737,6 +7769,14 @@
       "onboard_time": 1743664941,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182319,
+      "num": 182319,
+      "word": "老人离世留财产给保姆要求操办海葬",
+      "onboard_time": 1743900620,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182266,
@@ -7880,6 +7920,14 @@
       "word": "女子潜水被鲨鱼咬残水下未配安全员",
       "onboard_time": 1743482964,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179915,
+      "num": 179915,
+      "word": "00后开始提前处理数字遗产",
+      "onboard_time": 1743905660,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -8187,6 +8235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174363,
+      "num": 289112,
+      "word": "加沙人手机录下生命最后一刻的枪声",
+      "onboard_time": 1743903980,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 173851,
       "num": 173851,
       "word": "黄景瑜风驰赛车手上班",
@@ -8321,14 +8377,6 @@
       "onboard_time": 1743568944,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171619,
-      "num": 171619,
-      "word": "老人离世留财产给保姆要求操办海葬",
-      "onboard_time": 1743900620,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171615,
@@ -8564,7 +8612,7 @@
     },
     {
       "raw_hot": 167067,
-      "num": 136259,
+      "num": 169081,
       "word": "鸟鸟听说能骂志胜就来了",
       "onboard_time": 1743873438,
       "rank": 26,
@@ -8793,6 +8841,14 @@
       "onboard_time": 1743773782,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162831,
+      "num": 162831,
+      "word": "人的身高70%取决于父母",
+      "onboard_time": 1743905240,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 162603,
@@ -10675,14 +10731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135701,
-      "num": 135701,
-      "word": "加沙人手机录下生命最后一刻的枪声",
-      "onboard_time": 1743903980,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 135638,
       "num": 602683,
       "word": "中学生徒步108里祭英烈",
@@ -11395,6 +11443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126804,
+      "num": 126804,
+      "word": "陈芋汐全红婵断层包揽金银",
+      "onboard_time": 1743905421,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126691,
       "num": 126691,
       "word": "一诺灵儿携雨踏云大片",
@@ -11408,6 +11464,14 @@
       "word": "乌云之上是我第一次get现代孙俪",
       "onboard_time": 1743762501,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126501,
+      "num": 126501,
+      "word": "鞠婧祎陈都灵杀青合照",
+      "onboard_time": 1743902061,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -11465,14 +11529,6 @@
       "onboard_time": 1743853941,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125771,
-      "num": 125771,
-      "word": "鞠婧祎陈都灵杀青合照",
-      "onboard_time": 1743902061,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 125745,
@@ -12859,6 +12915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105373,
+      "num": 169195,
+      "word": "陈艺文陈芋汐说混团对我们很轻松",
+      "onboard_time": 1743904281,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105362,
       "num": 105362,
       "word": "梁田处理方式堪称半熟恋爱范本",
@@ -13491,14 +13555,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 93495,
-      "num": 284381,
-      "word": "多地将出现30摄氏度气温",
-      "onboard_time": 1743901159,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93334,
       "num": 134447,
       "word": "宇露君沾",
@@ -13803,6 +13859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87049,
+      "num": 87049,
+      "word": "大张伟透露和甲亢哥有个安排",
+      "onboard_time": 1743904341,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86935,
       "num": 327129,
       "word": "辅警给不法KTV通风报信获刑",
@@ -13815,14 +13879,6 @@
       "num": 86790,
       "word": "张凌赫3月微博涨粉第一",
       "onboard_time": 1743749362,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 86526,
-      "num": 86526,
-      "word": "大张伟透露和甲亢哥有个安排",
-      "onboard_time": 1743904341,
       "rank": 46,
       "category": "艺人"
     },
@@ -14785,14 +14841,6 @@
       "onboard_time": 1743423443,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61939,
-      "num": 169195,
-      "word": "陈艺文陈芋汐说混团对我们很轻松",
-      "onboard_time": 1743904281,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 61551,

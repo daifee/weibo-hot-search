@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/06 00:27:55 ~ 2025/04/06 09:56:16
+本榜单时间：2025/04/06 00:27:55 ~ 2025/04/06 10:18:27
 </p>
 </blockquote>
 <p>
@@ -17,6 +17,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%80%A7%E4%BE%B5%E5%90%8E%E8%BD%BB%E7%94%9F%E8%88%8D%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%83%8A%E9%AD%82%E4%B9%8B%E5%A4%9C%23" target="weibo">
 女孩遭性侵后轻生舍友讲述惊魂之夜（热度：1765989）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AE%B7%E4%B8%96%E8%88%AA%E8%87%AA%E6%9B%9D%E8%A2%AB%E4%B8%80%E4%BD%8D%E6%98%8E%E6%98%9F%E5%81%B7%E8%BF%87%E6%89%8B%E8%A1%A8%23" target="weibo">
+殷世航自曝被一位明星偷过手表（热度：1499968）
 </a>
 </li>
 
@@ -71,6 +77,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%9B%9E%E5%A4%8Dvava%E9%81%93%E6%AD%89%23" target="weibo">
 杨超越回复vava道歉（热度：426074）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23NINEPERCENT%E4%B8%83%E5%91%A8%E5%B9%B4%23" target="weibo">
+NINEPERCENT七周年（热度：415549）
 </a>
 </li>
 
@@ -135,8 +147,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23NINEPERCENT%E4%B8%83%E5%91%A8%E5%B9%B4%23" target="weibo">
-NINEPERCENT七周年（热度：320845）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD50%E4%B8%87%E4%BA%BA%E6%B8%B8%E8%A1%8C%E8%A6%81%E6%B1%82%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%8F%E6%89%8B%23" target="weibo">
+美国50万人游行要求特朗普住手（热度：321581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%96%E7%95%8C%E6%9D%AF%E9%93%B6%E7%89%8C%23" target="weibo">
+全红婵世界杯银牌（热度：319856）
 </a>
 </li>
 
@@ -147,8 +165,8 @@ NINEPERCENT七周年（热度：320845）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%96%E7%95%8C%E6%9D%AF%E9%93%B6%E7%89%8C%23" target="weibo">
-全红婵世界杯银牌（热度：292192）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E6%99%92%E4%B8%8E%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%90%88%E7%85%A7%23" target="weibo">
+杜华晒与赵丽颖合照（热度：310192）
 </a>
 </li>
 
@@ -179,6 +197,12 @@ NINEPERCENT七周年（热度：320845）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BE%8E%E8%B6%8A8%E5%A4%A9%E6%8E%89%E7%B2%89%E8%B6%8528%E4%B8%87%23" target="weibo">
 李美越8天掉粉超28万（热度：257289）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E1%E5%A4%A9%23" target="weibo">
+假期最后1天（热度：256329）
 </a>
 </li>
 
@@ -225,14 +249,14 @@ NINEPERCENT七周年（热度：320845）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E1%E5%A4%A9%23" target="weibo">
-假期最后1天（热度：218426）
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E9%9A%86%E5%B9%B3%E5%A2%93%E5%89%8D%E6%9C%89%E4%B8%80%E6%9D%9F%E7%89%B9%E5%88%AB%E7%9A%84%E7%A8%BB%E7%A9%97%23" target="weibo">
+袁隆平墓前有一束特别的稻穗（热度：217896）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E9%9A%86%E5%B9%B3%E5%A2%93%E5%89%8D%E6%9C%89%E4%B8%80%E6%9D%9F%E7%89%B9%E5%88%AB%E7%9A%84%E7%A8%BB%E7%A9%97%23" target="weibo">
-袁隆平墓前有一束特别的稻穗（热度：217896）
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E7%A7%91%E5%88%87%E6%8B%89%23" target="weibo">
+Jennie科切拉（热度：216918）
 </a>
 </li>
 
@@ -255,12 +279,6 @@ NINEPERCENT七周年（热度：320845）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie%E7%A7%91%E5%88%87%E6%8B%89%23" target="weibo">
-Jennie科切拉（热度：204407）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E8%AF%AF%E9%A3%9F1%E4%BB%BD%E7%82%B8%E9%B8%A1%E6%80%8E%E4%B9%88%E5%8A%9E%23" target="weibo">
 减肥误食1份炸鸡怎么办（热度：200082）
 </a>
@@ -268,13 +286,31 @@ Jennie科切拉（热度：204407）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE%E5%A4%AA%E8%87%AA%E5%BE%8B%E4%BA%86%23" target="weibo">
-九尾太自律了（热度：185454）
+九尾太自律了（热度：185704）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%B0%86%E5%87%BA%E7%8E%B030%E6%91%84%E6%B0%8F%E5%BA%A6%E6%B0%94%E6%B8%A9%23" target="weibo">
+多地将出现30摄氏度气温（热度：182728）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A6%BB%E4%B8%96%E7%95%99%E8%B4%A2%E4%BA%A7%E7%BB%99%E4%BF%9D%E5%A7%86%E8%A6%81%E6%B1%82%E6%93%8D%E5%8A%9E%E6%B5%B7%E8%91%AC%23" target="weibo">
-老人离世留财产给保姆要求操办海葬（热度：171619）
+老人离世留财产给保姆要求操办海葬（热度：182319）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%BC%80%E5%A7%8B%E6%8F%90%E5%89%8D%E5%A4%84%E7%90%86%E6%95%B0%E5%AD%97%E9%81%97%E4%BA%A7%23" target="weibo">
+00后开始提前处理数字遗产（热度：179915）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%BD%95%E4%B8%8B%E7%94%9F%E5%91%BD%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%E7%9A%84%E6%9E%AA%E5%A3%B0%23" target="weibo">
+加沙人手机录下生命最后一刻的枪声（热度：174363）
 </a>
 </li>
 
@@ -297,6 +333,12 @@ vava发博向杨超越道歉（热度：167758）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%9A%84%E8%BA%AB%E9%AB%9870%25%E5%8F%96%E5%86%B3%E4%BA%8E%E7%88%B6%E6%AF%8D%23" target="weibo">
+人的身高70%取决于父母（热度：162831）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E9%B2%81%E8%8E%BD%E4%BA%86%23" target="weibo">
 于正承认自己鲁莽了（热度：162510）
 </a>
@@ -305,12 +347,6 @@ vava发博向杨超越道歉（热度：167758）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%BF%BD%E6%98%9F%E5%86%B2%E5%90%91%E8%BD%A6%E5%A4%B4%E8%A2%AB%E6%92%9E%E5%80%92%23" target="weibo">
 女生追星冲向车头被撞倒（热度：140250）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%BD%95%E4%B8%8B%E7%94%9F%E5%91%BD%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%E7%9A%84%E6%9E%AA%E5%A3%B0%23" target="weibo">
-加沙人手机录下生命最后一刻的枪声（热度：135701）
 </a>
 </li>
 
@@ -357,8 +393,14 @@ GAI演唱会再唱张震岳小宇（热度：130086）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%96%AD%E5%B1%82%E5%8C%85%E6%8F%BD%E9%87%91%E9%93%B6%23" target="weibo">
+陈芋汐全红婵断层包揽金银（热度：126804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%99%88%E9%83%BD%E7%81%B5%E6%9D%80%E9%9D%92%E5%90%88%E7%85%A7%23" target="weibo">
-鞠婧祎陈都灵杀青合照（热度：125771）
+鞠婧祎陈都灵杀青合照（热度：126501）
 </a>
 </li>
 
@@ -447,6 +489,12 @@ GAI演唱会再唱张震岳小宇（热度：130086）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%89%BA%E6%96%87%E9%99%88%E8%8A%8B%E6%B1%90%E8%AF%B4%E6%B7%B7%E5%9B%A2%E5%AF%B9%E6%88%91%E4%BB%AC%E5%BE%88%E8%BD%BB%E6%9D%BE%23" target="weibo">
+陈艺文陈芋汐说混团对我们很轻松（热度：105373）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23GAI%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91%E5%A4%A7%E5%90%88%E5%94%B1%E7%A8%8B%E5%BA%A6%23" target="weibo">
 GAI沧海一声笑大合唱程度（热度：102660）
 </a>
@@ -495,12 +543,6 @@ GAI沧海一声笑大合唱程度（热度：102660）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%B0%86%E5%87%BA%E7%8E%B030%E6%91%84%E6%B0%8F%E5%BA%A6%E6%B0%94%E6%B8%A9%23" target="weibo">
-多地将出现30摄氏度气温（热度：93495）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E7%A7%B0%E9%A2%86%E5%8F%96%E9%A3%9F%E7%89%A9%E9%98%9F%E4%BC%8D%E5%B7%B2%E7%88%86%E6%BB%A1%23" target="weibo">
 美国网友称领取食物队伍已爆满（热度：89243）
 </a>
@@ -508,7 +550,7 @@ GAI沧海一声笑大合唱程度（热度：102660）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E9%80%8F%E9%9C%B2%E5%92%8C%E7%94%B2%E4%BA%A2%E5%93%A5%E6%9C%89%E4%B8%AA%E5%AE%89%E6%8E%92%23" target="weibo">
-大张伟透露和甲亢哥有个安排（热度：86526）
+大张伟透露和甲亢哥有个安排（热度：87049）
 </a>
 </li>
 
@@ -587,12 +629,6 @@ Hyunjun公开（热度：66718）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC2%E5%A4%A9%E5%A4%A7%E8%B7%8C32%E5%85%83%23" target="weibo">
 金饰价格2天大跌32元（热度：62822）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%89%BA%E6%96%87%E9%99%88%E8%8A%8B%E6%B1%90%E8%AF%B4%E6%B7%B7%E5%9B%A2%E5%AF%B9%E6%88%91%E4%BB%AC%E5%BE%88%E8%BD%BB%E6%9D%BE%23" target="weibo">
-陈艺文陈芋汐说混团对我们很轻松（热度：61939）
 </a>
 </li>
 
@@ -718,7 +754,7 @@ PCL2025（热度：14268）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%BE%E5%A5%87%E5%A6%99%E6%B8%B8%23" target="weibo">
-清明上河图奇妙游（热度：12511）
+清明上河图奇妙游（热度：13254）
 </a>
 </li>
 
