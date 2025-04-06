@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743911299266,
+  "endTime": 1743913772471,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1333815,
-      "num": 285874,
+      "num": 429081,
       "word": "曝金秀贤与金赛纶的通话录音",
       "onboard_time": 1743898939,
       "rank": 10,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 992995,
-      "num": 296884,
+      "num": 463146,
       "word": "中核招聘",
       "onboard_time": 1743906500,
       "rank": 10,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 858817,
-      "num": 292172,
+      "num": 447149,
       "word": "李昀锐哥哥",
       "onboard_time": 1743909920,
       "rank": 11,
@@ -113,6 +113,14 @@
       "onboard_time": 1743904940,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 610426,
+      "num": 297025,
+      "word": "雷军停更5日来首次发声",
+      "onboard_time": 1743911000,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 597026,
@@ -147,11 +155,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 459605,
-      "num": 459605,
+      "raw_hot": 520527,
+      "num": 520527,
       "word": "李现打鸟获生态环境部认可",
       "onboard_time": 1743907760,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 480212,
+      "num": 480212,
+      "word": "祝绪丹超话断签也会崩溃",
+      "onboard_time": 1743911481,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -203,8 +219,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 367633,
+      "num": 275975,
+      "word": "蓝莓怎么这么便宜了",
+      "onboard_time": 1743910882,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365760,
-      "num": 215599,
+      "num": 217268,
       "word": "出轨率最低的三个星座男",
       "onboard_time": 1743896419,
       "rank": 21,
@@ -252,11 +276,19 @@
     },
     {
       "raw_hot": 334880,
-      "num": 180817,
+      "num": 205460,
       "word": "空少裸辞航司楼下卖烧烤月入两三万",
       "onboard_time": 1743906980,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332966,
+      "num": 332966,
+      "word": "李斯丹妮浪姐唯一四千万直拍",
+      "onboard_time": 1743910161,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 331473,
@@ -307,14 +339,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 273057,
-      "num": 273057,
-      "word": "李斯丹妮浪姐唯一四千万直拍",
-      "onboard_time": 1743910161,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 270886,
       "num": 236011,
       "word": "钟丽丽曾因恋情试戏被刷",
@@ -331,8 +355,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260366,
-      "num": 179469,
+      "raw_hot": 265767,
+      "num": 265767,
       "word": "男子扫墓时刮彩票中万元大奖",
       "onboard_time": 1743908000,
       "rank": 31,
@@ -377,14 +401,6 @@
       "onboard_time": 1743862763,
       "rank": 9,
       "category": "财经,海外新闻"
-    },
-    {
-      "raw_hot": 241724,
-      "num": 178700,
-      "word": "蓝莓怎么这么便宜了",
-      "onboard_time": 1743910882,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235973,
@@ -475,6 +491,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 199069,
+      "num": 219946,
+      "word": "全红婵一次性发了30张照片",
+      "onboard_time": 1743912801,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195374,
       "num": 178570,
       "word": "虞书欣新代言剪影",
@@ -497,6 +521,14 @@
       "onboard_time": 1743905660,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189360,
+      "num": 189360,
+      "word": "陈立农七周年同学录问答",
+      "onboard_time": 1743909141,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 188609,
@@ -579,6 +611,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166969,
+      "num": 166969,
+      "word": "花少南 中国boy",
+      "onboard_time": 1743908360,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 166724,
+      "num": 166724,
+      "word": "陈幸同vs张本美和",
+      "onboard_time": 1743912201,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165061,
       "num": 165061,
       "word": "何炅说秦洗头继续营业",
@@ -619,27 +667,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152283,
-      "num": 152283,
-      "word": "花少南 中国boy",
-      "onboard_time": 1743908360,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 145769,
       "num": 145769,
       "word": "罗永浩回应余承东人人买得起",
       "onboard_time": 1743910882,
       "rank": 33,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 140392,
-      "num": 140392,
-      "word": "雷军停更5日来首次发声",
-      "onboard_time": 1743911000,
-      "rank": 34,
       "category": "互联网"
     },
     {
@@ -665,6 +697,14 @@
       "onboard_time": 1743899600,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132631,
+      "num": 132631,
+      "word": "一瓯春定妆路透",
+      "onboard_time": 1743913161,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 130086,
@@ -763,6 +803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118512,
+      "num": 118512,
+      "word": "丁程鑫花仙子造型",
+      "onboard_time": 1743913221,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117629,
       "num": 117629,
       "word": "欧盟称已准备好回应美方加税",
@@ -843,12 +891,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110265,
+      "num": 300683,
+      "word": "特朗普坚称关税是经济革命",
+      "onboard_time": 1743912441,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109019,
       "num": 109019,
       "word": "檀健次 广西老表标配",
       "onboard_time": 1743860364,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108653,
+      "num": 108653,
+      "word": "招行4月9日起停止ATM扫码存款",
+      "onboard_time": 1743911601,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108110,
@@ -907,14 +971,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 99247,
-      "num": 99247,
-      "word": "陈立农七周年同学录问答",
-      "onboard_time": 1743909141,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 98874,
       "num": 115502,
       "word": "警方回应男子路遇雪豹尸体",
@@ -955,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92425,
+      "num": 407081,
+      "word": "依法驱离日非法进入我钓鱼岛领海船只",
+      "onboard_time": 1743911661,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91893,
       "num": 91893,
       "word": "房琪在浪姐的表现",
@@ -977,6 +1041,14 @@
       "onboard_time": 1743863662,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87479,
+      "num": 426617,
+      "word": "带娃出门成了父母的地狱模式",
+      "onboard_time": 1743912502,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 87049,
@@ -1019,6 +1091,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 83486,
+      "num": 287571,
+      "word": "缅甸强震168小时生死营救",
+      "onboard_time": 1743911782,
+      "rank": 21,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 83349,
       "num": 83349,
       "word": "中方反制美方对等关税有理更有力",
@@ -1033,6 +1113,14 @@
       "onboard_time": 1743897558,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75734,
+      "num": 118691,
+      "word": "大张伟回应与甲亢哥合作",
+      "onboard_time": 1743912561,
+      "rank": 42,
+      "category": "艺人,网红"
     },
     {
       "raw_hot": 71851,
@@ -1145,6 +1233,22 @@
       "onboard_time": 1743895338,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39546,
+      "num": 657558,
+      "word": "清明节气的春耕气象密码",
+      "onboard_time": 1743912021,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39026,
+      "num": 474115,
+      "word": "如果能用思念寄张明信片",
+      "onboard_time": 1743912742,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36727,
@@ -1297,6 +1401,9 @@
     },
     {
       "word": "#英雄是民族的脊梁#"
+    },
+    {
+      "word": "#永远铭记英烈的英雄事迹#"
     }
   ]
 }
