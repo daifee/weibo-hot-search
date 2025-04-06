@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743928956315,
+  "endTime": 1743931435196,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1076,7 +1076,7 @@
     },
     {
       "raw_hot": 995124,
-      "num": 995124,
+      "num": 1155507,
       "word": "男子在山姆采购550万元商品遭冒领",
       "onboard_time": 1743924440,
       "rank": 19,
@@ -1211,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 946335,
+      "num": 802985,
+      "word": "亲妹妹只对真姐夫破防",
+      "onboard_time": 1743927201,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 943778,
       "num": 298355,
       "word": "孟子坤 原来是晶哥",
@@ -1276,7 +1284,7 @@
     },
     {
       "raw_hot": 913006,
-      "num": 399788,
+      "num": 430144,
       "word": "减肥黑名单",
       "onboard_time": 1743924500,
       "rank": 31,
@@ -1305,6 +1313,14 @@
       "onboard_time": 1743691643,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 903320,
+      "num": 903320,
+      "word": "香蕉夹",
+      "onboard_time": 1743926300,
+      "rank": 11,
+      "category": "时尚"
     },
     {
       "raw_hot": 902534,
@@ -1731,6 +1747,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 726482,
+      "num": 726482,
+      "word": "印度一男子开床车上路多辆摩托跟拍",
+      "onboard_time": 1743927860,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 726197,
       "num": 726197,
       "word": "TVB男演员陈键锋学厨以第一名毕业",
@@ -1817,14 +1841,6 @@
       "onboard_time": 1743758242,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 701704,
-      "num": 701704,
-      "word": "香蕉夹",
-      "onboard_time": 1743926300,
-      "rank": 11,
-      "category": "时尚"
     },
     {
       "raw_hot": 694527,
@@ -1987,28 +2003,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 632603,
-      "num": 632603,
-      "word": "印度一男子开床车上路多辆摩托跟拍",
-      "onboard_time": 1743927860,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 630557,
       "num": 630557,
       "word": "王星越 常驻hi6",
       "onboard_time": 1743833001,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 628927,
-      "num": 628927,
-      "word": "亲妹妹只对真姐夫破防",
-      "onboard_time": 1743927201,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 626903,
@@ -2049,6 +2049,14 @@
       "onboard_time": 1743673881,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 613910,
+      "num": 452668,
+      "word": "kissoflife一夜掉粉20万",
+      "onboard_time": 1743929000,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 613907,
@@ -2321,6 +2329,14 @@
       "onboard_time": 1743918380,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 582057,
+      "num": 451496,
+      "word": "冯小刚女儿晒与赵丽颖合照",
+      "onboard_time": 1743929961,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 581815,
@@ -3001,6 +3017,14 @@
       "onboard_time": 1743664342,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468857,
+      "num": 468857,
+      "word": "美媒称iPhone最高或涨至1.6万元",
+      "onboard_time": 1743929242,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 468837,
@@ -4267,6 +4291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 341251,
+      "num": 341251,
+      "word": "西湖猝鱼",
+      "onboard_time": 1743929481,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 338105,
       "num": 620741,
       "word": "张小泉集团及法人等被执行31.3亿",
@@ -5017,6 +5049,14 @@
       "onboard_time": 1743480565,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 287498,
+      "num": 287498,
+      "word": "网红阿根廷奇娜去世",
+      "onboard_time": 1743929061,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 286972,
@@ -7547,6 +7587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193261,
+      "num": 193261,
+      "word": "让手机有玩缩力 字体设成楷体",
+      "onboard_time": 1743929361,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193254,
       "num": 193254,
       "word": "向鹏11比9弗朗西斯卡",
@@ -8723,6 +8771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175422,
+      "num": 175422,
+      "word": "雪梨参加综艺被淘汰",
+      "onboard_time": 1743931100,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175414,
       "num": 175414,
       "word": "iOS18.4支持5.5G网络",
@@ -9273,6 +9329,14 @@
       "onboard_time": 1743692483,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 166309,
+      "num": 166309,
+      "word": "张峻豪这粉海",
+      "onboard_time": 1743931100,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 166039,
@@ -10771,6 +10835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145004,
+      "num": 145004,
+      "word": "胡连馨15分钟考完科目二",
+      "onboard_time": 1743931100,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145000,
       "num": 145000,
       "word": "33岁初代网红小霸王生女",
@@ -11899,6 +11971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131034,
+      "num": 812035,
+      "word": "我国消费市场加速升温",
+      "onboard_time": 1743929301,
+      "rank": 2,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 130919,
       "num": 210923,
       "word": "戚薇郑秀晶同框",
@@ -12331,6 +12411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126096,
+      "num": 126096,
+      "word": "孙燕姿从家逃到演唱会",
+      "onboard_time": 1743928942,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125980,
       "num": 264978,
       "word": "李泽锋说这次在剧里绝对不出轨",
@@ -12475,6 +12563,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 124400,
+      "num": 210667,
+      "word": "低息消费贷为啥被叫停",
+      "onboard_time": 1743930141,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124343,
       "num": 124343,
       "word": "CBA常规赛最佳阵容",
@@ -12593,6 +12689,14 @@
       "onboard_time": 1743592824,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122666,
+      "num": 122666,
+      "word": "马吟吟终于被看到了",
+      "onboard_time": 1743930980,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 122502,
@@ -13961,14 +14065,6 @@
       "onboard_time": 1743476483,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104811,
-      "num": 104811,
-      "word": "孙燕姿从家逃到演唱会",
-      "onboard_time": 1743928942,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 104646,
@@ -15723,6 +15819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 65360,
+      "num": 102128,
+      "word": "好想一觉醒来发现是五一",
+      "onboard_time": 1743929841,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 65132,
       "num": 134407,
       "word": "BLACKPINK未公开的物料",
@@ -17171,6 +17275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31971,
+      "num": 523163,
+      "word": "龙马乘组天宫TV再上新",
+      "onboard_time": 1743919641,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31862,
       "num": 136304,
       "word": "张柏芝绸缎衬衫拖地裙",
@@ -17883,6 +17995,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 18686,
+      "num": 175833,
+      "word": "古风祁煜找到你了",
+      "onboard_time": 1743930382,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 18620,
       "num": 31324,
       "word": "演练可能还有BCD但不会一直延续",
@@ -18573,6 +18693,9 @@
     },
     {
       "word": "#在春风里树木也是树人#"
+    },
+    {
+      "word": "#关于绿化祖国总书记这样说#"
     }
   ]
 }
