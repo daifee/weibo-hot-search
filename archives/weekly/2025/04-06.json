@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743965003799,
+  "endTime": 1743967104610,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -3635,6 +3635,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 18731,
+      "num": 48634,
+      "word": "浙江自然博物院发布情况说明",
+      "onboard_time": 1743964395,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18686,
       "num": 175833,
       "word": "古风祁煜找到你了",
@@ -3643,7 +3651,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 17434,
+      "raw_hot": 17454,
       "num": 18618,
       "word": "钓鱼晒成炭黑大爷走红后朋友发声",
       "onboard_time": 1743964514,
@@ -3657,14 +3665,6 @@
       "onboard_time": 1743886754,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16643,
-      "num": 18615,
-      "word": "浙江自然博物院发布情况说明",
-      "onboard_time": 1743964395,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15980,
@@ -3689,6 +3689,14 @@
       "onboard_time": 1743877875,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 14266,
+      "num": 17096,
+      "word": "刘宇宁说目前一个剧都没接",
+      "onboard_time": 1743966734,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 13498,
