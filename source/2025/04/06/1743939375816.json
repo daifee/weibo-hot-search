@@ -1,0 +1,410 @@
+{
+  "runTime": 1743939375816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 898123,
+        "num": 1143699,
+        "word": "小米",
+        "onboard_time": 1743937821,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 781616,
+        "num": 781616,
+        "word": "中国人捡到活的第一件事就是投喂",
+        "onboard_time": 1743931761,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122630,
+        "num": 753268,
+        "word": "我国消费市场加速升温",
+        "onboard_time": 1743929301,
+        "rank": 2,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 731408,
+        "num": 731408,
+        "word": "家人辣评董力",
+        "onboard_time": 1743936561,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573846,
+        "num": 573846,
+        "word": "医生谈网红阿根廷奇娜因低血糖去世",
+        "onboard_time": 1743934582,
+        "rank": 4,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 433036,
+        "num": 433036,
+        "word": "狗子被忘服务区一路狂奔追赶主人",
+        "onboard_time": 1743932301,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410894,
+        "num": 410894,
+        "word": "美媒称iPhone最高或涨至1.6万元",
+        "onboard_time": 1743929242,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 332516,
+        "num": 332516,
+        "word": "徐志胜做梦也想要的发型出现了",
+        "onboard_time": 1743935241,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323064,
+        "num": 323064,
+        "word": "亲妹妹只对真姐夫破防",
+        "onboard_time": 1743927201,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43439,
+        "num": 321679,
+        "word": "王艺迪战胜陈幸同夺冠",
+        "onboard_time": 1743938661,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1428320,
+        "num": 316870,
+        "word": "时代峰峻 女练习生",
+        "onboard_time": 1743937642,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 701435,
+        "num": 312303,
+        "word": "西湖猝鱼",
+        "onboard_time": 1743929481,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 483567,
+        "num": 309362,
+        "word": "BLACKPINK即将五月回归",
+        "onboard_time": 1743934101,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442270,
+        "num": 307776,
+        "word": "Hamin公开",
+        "onboard_time": 1743938961,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183196,
+        "num": 304307,
+        "word": "王艺迪4比3陈幸同",
+        "onboard_time": 1743938661,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397443,
+        "num": 298403,
+        "word": "胡连馨15分钟考完科目二",
+        "onboard_time": 1743931100,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326550,
+        "num": 295978,
+        "word": "王艺迪11比9陈幸同",
+        "onboard_time": 1743939322,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293753,
+        "num": 293753,
+        "word": "朱正廷说一直都有在联系",
+        "onboard_time": 1743935241,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272208,
+        "num": 272208,
+        "word": "雪梨参加综艺被淘汰",
+        "onboard_time": 1743931100,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271138,
+        "num": 271138,
+        "word": "kissoflife一夜掉粉20万",
+        "onboard_time": 1743929000,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34554,
+        "num": 270700,
+        "word": "变脸给世界街舞界亿点点震撼",
+        "onboard_time": 1743932122,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181818,
+        "num": 270107,
+        "word": "为什么感觉假期过得格外快",
+        "onboard_time": 1743937521,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 625765,
+        "num": 269652,
+        "word": "你的工资不能低于这个数字",
+        "onboard_time": 1743933500,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458325,
+        "num": 269086,
+        "word": "李昀锐双胞胎哥哥探班",
+        "onboard_time": 1743908421,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268449,
+        "num": 268449,
+        "word": "甲亢哥扫货被提醒后细心放好手机",
+        "onboard_time": 1743919101,
+        "rank": 24,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 253953,
+        "num": 253953,
+        "word": "黄英只有不到80斤了",
+        "onboard_time": 1743925221,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228023,
+        "num": 228023,
+        "word": "香椿芽",
+        "onboard_time": 1743935001,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 219904,
+        "num": 224158,
+        "word": "值得爱11集做恨",
+        "onboard_time": 1743938421,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177508,
+        "num": 222225,
+        "word": "创造营亚洲2",
+        "onboard_time": 1743936321,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153744,
+        "num": 220737,
+        "word": "闫桉杀青",
+        "onboard_time": 1743937342,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220701,
+        "num": 220701,
+        "word": "印度一男子开床车上路多辆摩托跟拍",
+        "onboard_time": 1743927860,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184677,
+        "num": 184677,
+        "word": "虞书欣周梓倩舞蹈同步率",
+        "onboard_time": 1743937402,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153520,
+        "num": 153520,
+        "word": "杨幂 内娱史官",
+        "onboard_time": 1743920721,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148048,
+        "num": 148048,
+        "word": "家属称38万元停尸费已全部减免",
+        "onboard_time": 1743932602,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138689,
+        "num": 138689,
+        "word": "晚睡晚起但睡够8小时还伤身吗",
+        "onboard_time": 1743938180,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134768,
+        "num": 134768,
+        "word": "减肥黑名单",
+        "onboard_time": 1743924500,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133018,
+        "num": 133018,
+        "word": "美国50万人游行要求特朗普住手",
+        "onboard_time": 1743905300,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128804,
+        "num": 128804,
+        "word": "常见的低血糖也会致人死亡",
+        "onboard_time": 1743938001,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128246,
+        "num": 128246,
+        "word": "白敬亭海棠花vlog",
+        "onboard_time": 1743937161,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146376,
+        "num": 128056,
+        "word": "特朗普是美国经济特效减肥药",
+        "onboard_time": 1743932420,
+        "rank": 39,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 90885,
+        "num": 127763,
+        "word": "向鹏vs李尚洙",
+        "onboard_time": 1743933321,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124062,
+        "num": 127653,
+        "word": "仙逆",
+        "onboard_time": 1743937402,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 127604,
+        "num": 127604,
+        "word": "香蕉夹",
+        "onboard_time": 1743926300,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 126353,
+        "num": 126353,
+        "word": "美国农业将受中国关税最严重打击",
+        "onboard_time": 1743925461,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117324,
+        "num": 117324,
+        "word": "黄芪水",
+        "onboard_time": 1743936261,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116600,
+        "num": 116600,
+        "word": "王艺迪vs陈幸同",
+        "onboard_time": 1743932782,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43218,
+        "num": 116440,
+        "word": "抗议浪潮席卷全美国",
+        "onboard_time": 1743938601,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116429,
+        "num": 116429,
+        "word": "男主一被栽赃女主精神工伤",
+        "onboard_time": 1743938241,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113411,
+        "num": 113411,
+        "word": "T1对战GEN",
+        "onboard_time": 1743931702,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112659,
+        "num": 112659,
+        "word": "念无双",
+        "onboard_time": 1743939322,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于绿化祖国总书记这样说#"
+    }
+  }
+}

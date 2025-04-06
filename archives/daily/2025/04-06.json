@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743938361657,
+  "endTime": 1743939375816,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -33,6 +33,14 @@
       "onboard_time": 1743904880,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1428320,
+      "num": 316870,
+      "word": "时代峰峻 女练习生",
+      "onboard_time": 1743937642,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1333815,
@@ -131,6 +139,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 898123,
+      "num": 1143699,
+      "word": "小米",
+      "onboard_time": 1743937821,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 858817,
       "num": 551204,
       "word": "李昀锐哥哥",
@@ -169,6 +185,14 @@
       "onboard_time": 1743911481,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 731408,
+      "num": 731408,
+      "word": "家人辣评董力",
+      "onboard_time": 1743936561,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 726482,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 681609,
-      "num": 255664,
+      "num": 269652,
       "word": "你的工资不能低于这个数字",
       "onboard_time": 1743933500,
       "rank": 20,
@@ -323,14 +347,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 527254,
-      "num": 269715,
-      "word": "时代峰峻 女练习生",
-      "onboard_time": 1743937642,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 524993,
       "num": 504779,
       "word": "够了我心疼吴宣仪",
@@ -387,12 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 438720,
-      "num": 438720,
-      "word": "家人辣评董力",
-      "onboard_time": 1743936561,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 442270,
+      "num": 307776,
+      "word": "Hamin公开",
+      "onboard_time": 1743938961,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 426074,
@@ -593,6 +609,14 @@
       "onboard_time": 1743866783,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326550,
+      "num": 295978,
+      "word": "王艺迪11比9陈幸同",
+      "onboard_time": 1743939322,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 319856,
@@ -803,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228023,
+      "num": 228023,
+      "word": "香椿芽",
+      "onboard_time": 1743935001,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 227765,
       "num": 227765,
       "word": "何济霆 赌博",
@@ -833,6 +865,14 @@
       "onboard_time": 1743894737,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219904,
+      "num": 224158,
+      "word": "值得爱11集做恨",
+      "onboard_time": 1743938421,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 217896,
@@ -884,7 +924,7 @@
     },
     {
       "raw_hot": 210940,
-      "num": 210940,
+      "num": 222225,
       "word": "创造营亚洲2",
       "onboard_time": 1743936321,
       "rank": 23,
@@ -940,7 +980,7 @@
     },
     {
       "raw_hot": 197589,
-      "num": 197589,
+      "num": 220737,
       "word": "闫桉杀青",
       "onboard_time": 1743937342,
       "rank": 25,
@@ -1099,6 +1139,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 183196,
+      "num": 304307,
+      "word": "王艺迪4比3陈幸同",
+      "onboard_time": 1743938661,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182728,
       "num": 284381,
       "word": "多地将出现30摄氏度气温",
@@ -1123,20 +1171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180390,
-      "num": 180390,
-      "word": "小米",
-      "onboard_time": 1743937821,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 179127,
-      "num": 179127,
-      "word": "香椿芽",
-      "onboard_time": 1743935001,
-      "rank": 48,
-      "category": "美食"
+      "raw_hot": 181818,
+      "num": 270107,
+      "word": "为什么感觉假期过得格外快",
+      "onboard_time": 1743937521,
+      "rank": 14,
+      "category": "科学科普"
     },
     {
       "raw_hot": 178852,
@@ -1459,6 +1499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138689,
+      "num": 138689,
+      "word": "晚睡晚起但睡够8小时还伤身吗",
+      "onboard_time": 1743938180,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 137411,
       "num": 137411,
       "word": "孙燕姿从家逃到演唱会",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1743922341,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128804,
+      "num": 128804,
+      "word": "常见的低血糖也会致人死亡",
+      "onboard_time": 1743938001,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128701,
@@ -1779,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116600,
+      "num": 116600,
+      "word": "王艺迪vs陈幸同",
+      "onboard_time": 1743932782,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116280,
       "num": 116280,
       "word": "男子怒砸Manner咖啡柜台",
@@ -1801,14 +1865,6 @@
       "onboard_time": 1743908240,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114971,
-      "num": 114971,
-      "word": "常见的低血糖也会致人死亡",
-      "onboard_time": 1743938001,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 114829,
@@ -1843,14 +1899,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 113914,
-      "num": 113914,
-      "word": "晚睡晚起但睡够8小时还伤身吗",
-      "onboard_time": 1743938180,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 113699,
       "num": 113699,
       "word": "女性不是红袖添香的调味品",
@@ -1873,6 +1921,14 @@
       "onboard_time": 1743896479,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112659,
+      "num": 112659,
+      "word": "念无双",
+      "onboard_time": 1743939322,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 112247,
@@ -2124,7 +2180,7 @@
     },
     {
       "raw_hot": 94809,
-      "num": 94809,
+      "num": 270700,
       "word": "变脸给世界街舞界亿点点震撼",
       "onboard_time": 1743932122,
       "rank": 49,
@@ -2379,14 +2435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 44816,
-      "num": 268522,
-      "word": "为什么感觉假期过得格外快",
-      "onboard_time": 1743937521,
-      "rank": 14,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 44396,
       "num": 43913,
       "word": "刮肝经让眼睛明亮不发黄",
@@ -2401,6 +2449,22 @@
       "onboard_time": 1743912742,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43439,
+      "num": 321679,
+      "word": "王艺迪战胜陈幸同夺冠",
+      "onboard_time": 1743938661,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43218,
+      "num": 116440,
+      "word": "抗议浪潮席卷全美国",
+      "onboard_time": 1743938601,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41873,
