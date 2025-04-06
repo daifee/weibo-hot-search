@@ -1,0 +1,410 @@
+{
+  "runTime": 1743932210686,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 939312,
+        "num": 1150289,
+        "word": "男子在山姆采购550万元商品遭冒领",
+        "onboard_time": 1743924440,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 817346,
+        "num": 817346,
+        "word": "香蕉夹",
+        "onboard_time": 1743926300,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 149736,
+        "num": 796679,
+        "word": "我国消费市场加速升温",
+        "onboard_time": 1743929301,
+        "rank": 2,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 789030,
+        "num": 789030,
+        "word": "亲妹妹只对真姐夫破防",
+        "onboard_time": 1743927201,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570306,
+        "num": 570306,
+        "word": "印度一男子开床车上路多辆摩托跟拍",
+        "onboard_time": 1743927860,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 541853,
+        "num": 541853,
+        "word": "黄英只有不到80斤了",
+        "onboard_time": 1743925221,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512547,
+        "num": 512547,
+        "word": "甲亢哥扫货被提醒后细心放好手机",
+        "onboard_time": 1743919101,
+        "rank": 6,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 27799,
+        "num": 501395,
+        "word": "龙马乘组天宫TV再上新",
+        "onboard_time": 1743919641,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 500528,
+        "num": 500528,
+        "word": "美媒称iPhone最高或涨至1.6万元",
+        "onboard_time": 1743929242,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 450519,
+        "num": 450519,
+        "word": "蒋一侨 香飘飘千金",
+        "onboard_time": 1743925461,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 823772,
+        "num": 424441,
+        "word": "西湖猝鱼",
+        "onboard_time": 1743929481,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 668428,
+        "num": 404107,
+        "word": "kissoflife一夜掉粉20万",
+        "onboard_time": 1743929000,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580670,
+        "num": 395034,
+        "word": "冯小刚女儿晒与赵丽颖合照",
+        "onboard_time": 1743929961,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379563,
+        "num": 379563,
+        "word": "雪梨参加综艺被淘汰",
+        "onboard_time": 1743931100,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355777,
+        "num": 355777,
+        "word": "减肥黑名单",
+        "onboard_time": 1743924500,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 305257,
+        "num": 305257,
+        "word": "美国农业将受中国关税最严重打击",
+        "onboard_time": 1743925461,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289975,
+        "num": 289975,
+        "word": "网红阿根廷奇娜去世",
+        "onboard_time": 1743929061,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 261273,
+        "num": 261273,
+        "word": "雪梨以设计师身份参加综艺",
+        "onboard_time": 1743922341,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255284,
+        "num": 255284,
+        "word": "胡连馨15分钟考完科目二",
+        "onboard_time": 1743931100,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244498,
+        "num": 244498,
+        "word": "虞书欣练习室跳likejennie",
+        "onboard_time": 1743924500,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 664402,
+        "num": 244174,
+        "word": "李昀锐双胞胎哥哥探班",
+        "onboard_time": 1743908421,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241320,
+        "num": 241320,
+        "word": "美国50万人游行要求特朗普住手",
+        "onboard_time": 1743905300,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201146,
+        "num": 201146,
+        "word": "张峻豪这粉海",
+        "onboard_time": 1743931100,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176494,
+        "num": 176494,
+        "word": "让手机有玩缩力 字体设成楷体",
+        "onboard_time": 1743929361,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159046,
+        "num": 159046,
+        "word": "杨幂 内娱史官",
+        "onboard_time": 1743920721,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158651,
+        "num": 158651,
+        "word": "迪丽热巴早期随拍",
+        "onboard_time": 1743927980,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157727,
+        "num": 157727,
+        "word": "车主晒SU7一年保值率91%",
+        "onboard_time": 1743922820,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153851,
+        "num": 153851,
+        "word": "TES投诉LPL导播镜头",
+        "onboard_time": 1743926781,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153807,
+        "num": 153807,
+        "word": "蓝莓怎么这么便宜了",
+        "onboard_time": 1743910882,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147075,
+        "num": 148707,
+        "word": "低息消费贷为啥被叫停",
+        "onboard_time": 1743930141,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148481,
+        "num": 148481,
+        "word": "雷军谈小米15年",
+        "onboard_time": 1743909201,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147562,
+        "num": 147562,
+        "word": "马吟吟终于被看到了",
+        "onboard_time": 1743930980,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146892,
+        "num": 146892,
+        "word": "雷军停更5日来首次发声",
+        "onboard_time": 1743911000,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146429,
+        "num": 146429,
+        "word": "人的身高70%取决于父母",
+        "onboard_time": 1743905240,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 142147,
+        "num": 142147,
+        "word": "中国人捡到活的第一件事就是投喂",
+        "onboard_time": 1743931761,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138878,
+        "num": 138878,
+        "word": "T1对战GEN",
+        "onboard_time": 1743931702,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137411,
+        "num": 137411,
+        "word": "孙燕姿从家逃到演唱会",
+        "onboard_time": 1743928942,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135448,
+        "num": 135448,
+        "word": "李美越",
+        "onboard_time": 1743924620,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133019,
+        "num": 133019,
+        "word": "清明返程高峰路况",
+        "onboard_time": 1743927501,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13063,
+        "num": 131067,
+        "word": "富士台高层包庇中居正广性侵",
+        "onboard_time": 1743931641,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130997,
+        "num": 130997,
+        "word": "胖东来起诉经济学家宋清辉索赔百万",
+        "onboard_time": 1743915801,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126169,
+        "num": 126169,
+        "word": "清明假期最后1天你有什么安排",
+        "onboard_time": 1743912561,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112977,
+        "num": 112977,
+        "word": "突然发现6月到9月没有假期",
+        "onboard_time": 1743921021,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112030,
+        "num": 112030,
+        "word": "一部全是彩蛋的电影",
+        "onboard_time": 1743931881,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109331,
+        "num": 109331,
+        "word": "李昀锐哥哥",
+        "onboard_time": 1743909920,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104029,
+        "num": 104029,
+        "word": "小鬼在偶练大群发想你们了",
+        "onboard_time": 1743906441,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100796,
+        "num": 100796,
+        "word": "黄子弘凡舔一下嘴会被自己毒死",
+        "onboard_time": 1743932001,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99869,
+        "num": 99869,
+        "word": "张峻豪演唱会",
+        "onboard_time": 1743921141,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95438,
+        "num": 95438,
+        "word": "周洁琼神女下江南",
+        "onboard_time": 1743927741,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94809,
+        "num": 94809,
+        "word": "变脸给世界街舞界亿点点震撼",
+        "onboard_time": 1743932122,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于绿化祖国总书记这样说#"
+    }
+  }
+}

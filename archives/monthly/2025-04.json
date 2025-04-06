@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743931435196,
+  "endTime": 1743932210686,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1531,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 823772,
+      "num": 424441,
+      "word": "西湖猝鱼",
+      "onboard_time": 1743929481,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 822646,
       "num": 1131623,
       "word": "美媒曝美财长受不了荒谬的对等关税",
@@ -1907,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 668428,
+      "num": 452668,
+      "word": "kissoflife一夜掉粉20万",
+      "onboard_time": 1743929000,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 665224,
       "num": 335095,
       "word": "种地吧",
@@ -2049,14 +2065,6 @@
       "onboard_time": 1743673881,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 613910,
-      "num": 452668,
-      "word": "kissoflife一夜掉粉20万",
-      "onboard_time": 1743929000,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 613907,
@@ -2835,6 +2843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500528,
+      "num": 500528,
+      "word": "美媒称iPhone最高或涨至1.6万元",
+      "onboard_time": 1743929242,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 499559,
       "num": 499559,
       "word": "楚后 陈都灵",
@@ -3017,14 +3033,6 @@
       "onboard_time": 1743664342,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 468857,
-      "num": 468857,
-      "word": "美媒称iPhone最高或涨至1.6万元",
-      "onboard_time": 1743929242,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 468837,
@@ -3771,6 +3779,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 379563,
+      "num": 379563,
+      "word": "雪梨参加综艺被淘汰",
+      "onboard_time": 1743931100,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378795,
       "num": 378795,
       "word": "刘诗诗吴宣仪hi6上班路透",
@@ -4289,14 +4305,6 @@
       "onboard_time": 1743687864,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 341251,
-      "num": 341251,
-      "word": "西湖猝鱼",
-      "onboard_time": 1743929481,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 338105,
@@ -5019,6 +5027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289975,
+      "num": 289975,
+      "word": "网红阿根廷奇娜去世",
+      "onboard_time": 1743929061,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 288923,
       "num": 288923,
       "word": "久酷十五分钟纪录片",
@@ -5049,14 +5065,6 @@
       "onboard_time": 1743480565,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 287498,
-      "num": 287498,
-      "word": "网红阿根廷奇娜去世",
-      "onboard_time": 1743929061,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 286972,
@@ -5593,6 +5601,14 @@
       "onboard_time": 1743489384,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 255284,
+      "num": 255284,
+      "word": "胡连馨15分钟考完科目二",
+      "onboard_time": 1743931100,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 254728,
@@ -7121,6 +7137,14 @@
       "onboard_time": 1743662303,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 201146,
+      "num": 201146,
+      "word": "张峻豪这粉海",
+      "onboard_time": 1743931100,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 200541,
@@ -8771,14 +8795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175422,
-      "num": 175422,
-      "word": "雪梨参加综艺被淘汰",
-      "onboard_time": 1743931100,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175414,
       "num": 175414,
       "word": "iOS18.4支持5.5G网络",
@@ -9329,14 +9345,6 @@
       "onboard_time": 1743692483,
       "rank": 33,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 166309,
-      "num": 166309,
-      "word": "张峻豪这粉海",
-      "onboard_time": 1743931100,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 166039,
@@ -10443,6 +10451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149736,
+      "num": 812035,
+      "word": "我国消费市场加速升温",
+      "onboard_time": 1743929301,
+      "rank": 2,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 149708,
       "num": 149708,
       "word": "还有什么是虞书欣不会的",
@@ -10627,6 +10643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147562,
+      "num": 147562,
+      "word": "马吟吟终于被看到了",
+      "onboard_time": 1743930980,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147546,
       "num": 147546,
       "word": "乌云之上",
@@ -10681,6 +10705,14 @@
       "onboard_time": 1743495083,
       "rank": 18,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 147075,
+      "num": 210667,
+      "word": "低息消费贷为啥被叫停",
+      "onboard_time": 1743930141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147010,
@@ -10833,14 +10865,6 @@
       "onboard_time": 1743659242,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 145004,
-      "num": 145004,
-      "word": "胡连馨15分钟考完科目二",
-      "onboard_time": 1743931100,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 145000,
@@ -11032,6 +11056,14 @@
       "word": "00后本科毕业生打三份工的一天",
       "onboard_time": 1743649822,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 142147,
+      "num": 142147,
+      "word": "中国人捡到活的第一件事就是投喂",
+      "onboard_time": 1743931761,
+      "rank": 34,
       "category": "幽默"
     },
     {
@@ -11283,6 +11315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 138878,
+      "num": 138878,
+      "word": "T1对战GEN",
+      "onboard_time": 1743931702,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138872,
       "num": 273928,
       "word": "杨幂卡点发文和蜜蜂庆生",
@@ -11393,6 +11433,14 @@
       "onboard_time": 1743748401,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137411,
+      "num": 137411,
+      "word": "孙燕姿从家逃到演唱会",
+      "onboard_time": 1743928942,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 137392,
@@ -11971,14 +12019,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 131034,
-      "num": 812035,
-      "word": "我国消费市场加速升温",
-      "onboard_time": 1743929301,
-      "rank": 2,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 130919,
       "num": 210923,
       "word": "戚薇郑秀晶同框",
@@ -12411,14 +12451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126096,
-      "num": 126096,
-      "word": "孙燕姿从家逃到演唱会",
-      "onboard_time": 1743928942,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125980,
       "num": 264978,
       "word": "李泽锋说这次在剧里绝对不出轨",
@@ -12563,14 +12595,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 124400,
-      "num": 210667,
-      "word": "低息消费贷为啥被叫停",
-      "onboard_time": 1743930141,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124343,
       "num": 124343,
       "word": "CBA常规赛最佳阵容",
@@ -12689,14 +12713,6 @@
       "onboard_time": 1743592824,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 122666,
-      "num": 122666,
-      "word": "马吟吟终于被看到了",
-      "onboard_time": 1743930980,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 122502,
@@ -13635,6 +13651,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 112030,
+      "num": 112030,
+      "word": "一部全是彩蛋的电影",
+      "onboard_time": 1743931881,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111855,
       "num": 111855,
       "word": "中国女足3分钟两球",
@@ -14291,6 +14315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100796,
+      "num": 100796,
+      "word": "黄子弘凡舔一下嘴会被自己毒死",
+      "onboard_time": 1743932001,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100773,
       "num": 100773,
       "word": "女子自救成功后说不想告诉妈妈",
@@ -14609,6 +14641,14 @@
       "onboard_time": 1743731361,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94809,
+      "num": 94809,
+      "word": "变脸给世界街舞界亿点点震撼",
+      "onboard_time": 1743932122,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94689,
@@ -18297,6 +18337,14 @@
       "onboard_time": 1743592042,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 13063,
+      "num": 131067,
+      "word": "富士台高层包庇中居正广性侵",
+      "onboard_time": 1743931641,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 12871,

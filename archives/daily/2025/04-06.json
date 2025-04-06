@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743931435196,
+  "endTime": 1743932210686,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 823772,
+      "num": 424441,
+      "word": "西湖猝鱼",
+      "onboard_time": 1743929481,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 788545,
       "num": 556249,
       "word": "杨幂 内娱史官",
@@ -187,6 +195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 668428,
+      "num": 452668,
+      "word": "kissoflife一夜掉粉20万",
+      "onboard_time": 1743929000,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 658061,
       "num": 283261,
       "word": "机场回应粉丝扑向艺人车辆被刮倒",
@@ -200,14 +216,6 @@
       "word": "杜华晒与赵丽颖合照",
       "onboard_time": 1743904940,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 613910,
-      "num": 452668,
-      "word": "kissoflife一夜掉粉20万",
-      "onboard_time": 1743929000,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -307,8 +315,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 468857,
-      "num": 468857,
+      "raw_hot": 500528,
+      "num": 500528,
       "word": "美媒称iPhone最高或涨至1.6万元",
       "onboard_time": 1743929242,
       "rank": 9,
@@ -403,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 379563,
+      "num": 379563,
+      "word": "雪梨参加综艺被淘汰",
+      "onboard_time": 1743931100,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369188,
       "num": 369188,
       "word": "车主晒SU7一年保值率91%",
@@ -449,14 +465,6 @@
       "onboard_time": 1743895697,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 341251,
-      "num": 341251,
-      "word": "西湖猝鱼",
-      "onboard_time": 1743929481,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 340687,
@@ -547,8 +555,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 287498,
-      "num": 287498,
+      "raw_hot": 289975,
+      "num": 289975,
       "word": "网红阿根廷奇娜去世",
       "onboard_time": 1743929061,
       "rank": 16,
@@ -649,6 +657,14 @@
       "onboard_time": 1743864623,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 255284,
+      "num": 255284,
+      "word": "胡连馨15分钟考完科目二",
+      "onboard_time": 1743931100,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 251516,
@@ -809,6 +825,14 @@
       "onboard_time": 1743916641,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201146,
+      "num": 201146,
+      "word": "张峻豪这粉海",
+      "onboard_time": 1743931100,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 200082,
@@ -1011,14 +1035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175422,
-      "num": 175422,
-      "word": "雪梨参加综艺被淘汰",
-      "onboard_time": 1743931100,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174363,
       "num": 289112,
       "word": "加沙人手机录下生命最后一刻的枪声",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1743921740,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 166309,
-      "num": 166309,
-      "word": "张峻豪这粉海",
-      "onboard_time": 1743931100,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 165061,
@@ -1227,6 +1235,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149736,
+      "num": 812035,
+      "word": "我国消费市场加速升温",
+      "onboard_time": 1743929301,
+      "rank": 2,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 147562,
+      "num": 147562,
+      "word": "马吟吟终于被看到了",
+      "onboard_time": 1743930980,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147075,
+      "num": 210667,
+      "word": "低息消费贷为啥被叫停",
+      "onboard_time": 1743930141,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145769,
       "num": 145769,
       "word": "罗永浩回应余承东人人买得起",
@@ -1235,12 +1267,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 145004,
-      "num": 145004,
-      "word": "胡连馨15分钟考完科目二",
-      "onboard_time": 1743931100,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 142147,
+      "num": 142147,
+      "word": "中国人捡到活的第一件事就是投喂",
+      "onboard_time": 1743931761,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 140837,
@@ -1273,6 +1305,22 @@
       "onboard_time": 1743917300,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138878,
+      "num": 138878,
+      "word": "T1对战GEN",
+      "onboard_time": 1743931702,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 137411,
+      "num": 137411,
+      "word": "孙燕姿从家逃到演唱会",
+      "onboard_time": 1743928942,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 134758,
@@ -1329,14 +1377,6 @@
       "onboard_time": 1743919400,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 131034,
-      "num": 812035,
-      "word": "我国消费市场加速升温",
-      "onboard_time": 1743929301,
-      "rank": 2,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 130861,
@@ -1427,22 +1467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126096,
-      "num": 126096,
-      "word": "孙燕姿从家逃到演唱会",
-      "onboard_time": 1743928942,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 124400,
-      "num": 210667,
-      "word": "低息消费贷为啥被叫停",
-      "onboard_time": 1743930141,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124187,
       "num": 124187,
       "word": "长期用吸管喝水会影响健康",
@@ -1481,14 +1505,6 @@
       "onboard_time": 1743926901,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 122666,
-      "num": 122666,
-      "word": "马吟吟终于被看到了",
-      "onboard_time": 1743930980,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 121890,
@@ -1667,6 +1683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112030,
+      "num": 112030,
+      "word": "一部全是彩蛋的电影",
+      "onboard_time": 1743931881,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111669,
       "num": 111669,
       "word": "房琪回复叶童",
@@ -1795,6 +1819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100796,
+      "num": 100796,
+      "word": "黄子弘凡舔一下嘴会被自己毒死",
+      "onboard_time": 1743932001,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100022,
       "num": 100022,
       "word": "明日方舟",
@@ -1848,6 +1880,14 @@
       "word": "夫妻摆摊7年还30多万债务修复信用",
       "onboard_time": 1743861383,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94809,
+      "num": 94809,
+      "word": "变脸给世界街舞界亿点点震撼",
+      "onboard_time": 1743932122,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2265,6 +2305,14 @@
       "onboard_time": 1743816920,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13063,
+      "num": 131067,
+      "word": "富士台高层包庇中居正广性侵",
+      "onboard_time": 1743931641,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11970,
