@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743914715477,
+  "endTime": 1743916964995,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 754877,
+      "num": 754877,
+      "word": "祝绪丹超话断签也会崩溃",
+      "onboard_time": 1743911481,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 707811,
       "num": 283400,
       "word": "从前车马很慢所以丑事也传得慢",
@@ -105,14 +113,6 @@
       "onboard_time": 1743898460,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 637156,
-      "num": 637156,
-      "word": "祝绪丹超话断签也会崩溃",
-      "onboard_time": 1743911481,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 633645,
@@ -131,12 +131,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 604427,
+      "num": 604427,
+      "word": "全红婵一次性发了30张照片",
+      "onboard_time": 1743912801,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 597026,
       "num": 597026,
       "word": "雷军谈小米15年",
       "onboard_time": 1743909201,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 554903,
+      "num": 554903,
+      "word": "胖东来起诉经济学家宋清辉索赔百万",
+      "onboard_time": 1743915801,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 549416,
@@ -227,6 +243,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 387714,
+      "num": 371108,
+      "word": "原来一根头发可以分叉这么多",
+      "onboard_time": 1743915441,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 373555,
+      "num": 373555,
+      "word": "王不染拍的章若楠",
+      "onboard_time": 1743914420,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 365760,
       "num": 217713,
       "word": "出轨率最低的三个星座男",
@@ -299,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 327009,
-      "num": 327009,
-      "word": "全红婵一次性发了30张照片",
-      "onboard_time": 1743912801,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 319856,
       "num": 558729,
       "word": "全红婵世界杯银牌",
@@ -321,6 +345,14 @@
       "onboard_time": 1743901400,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 292788,
+      "num": 292788,
+      "word": "清明假期最后1天你有什么安排",
+      "onboard_time": 1743912561,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291988,
@@ -411,6 +443,14 @@
       "category": "财经,海外新闻"
     },
     {
+      "raw_hot": 236256,
+      "num": 200753,
+      "word": "考生虚构考研成绩还带着家人闹",
+      "onboard_time": 1743916161,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235973,
       "num": 235973,
       "word": "美媒曝美财长受不了荒谬的对等关税",
@@ -467,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 216264,
+      "num": 216264,
+      "word": "周也一瓯春妆造",
+      "onboard_time": 1743916761,
+      "rank": 19,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 215242,
       "num": 234855,
       "word": "甲亢哥吓出最新表情包",
@@ -489,6 +537,14 @@
       "onboard_time": 1743896597,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 206447,
+      "num": 163862,
+      "word": "陈幸同11比5张本美和",
+      "onboard_time": 1743916641,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 200082,
@@ -521,6 +577,14 @@
       "onboard_time": 1743908902,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190674,
+      "num": 190674,
+      "word": "陈幸同vs张本美和",
+      "onboard_time": 1743912201,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 190338,
@@ -579,20 +643,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174905,
-      "num": 174905,
-      "word": "王不染拍的章若楠",
-      "onboard_time": 1743914420,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 174363,
       "num": 289112,
       "word": "加沙人手机录下生命最后一刻的枪声",
       "onboard_time": 1743903980,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172874,
+      "num": 190853,
+      "word": "彩色的黑是吉克隽逸的养老保险",
+      "onboard_time": 1743915681,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 169549,
@@ -635,20 +699,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 166724,
-      "num": 166724,
-      "word": "陈幸同vs张本美和",
-      "onboard_time": 1743912201,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165061,
       "num": 165061,
       "word": "何炅说秦洗头继续营业",
       "onboard_time": 1743908061,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164105,
+      "num": 164105,
+      "word": "陈妍希杨丞琳潘玮柏合影",
+      "onboard_time": 1743915921,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 163095,
+      "num": 163095,
+      "word": "孙颖莎说应该研究日本选手",
+      "onboard_time": 1743916641,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 162580,
@@ -683,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150944,
+      "num": 150944,
+      "word": "陈芋汐夺冠全红婵狂竖大拇指",
+      "onboard_time": 1743914360,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150094,
       "num": 300683,
       "word": "特朗普坚称关税是经济革命",
@@ -705,6 +785,14 @@
       "onboard_time": 1743863004,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133800,
+      "num": 133800,
+      "word": "Bin放话TheShy",
+      "onboard_time": 1743916701,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 133065,
@@ -803,14 +891,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 121682,
-      "num": 121682,
-      "word": "陈芋汐夺冠全红婵狂竖大拇指",
-      "onboard_time": 1743914360,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121240,
       "num": 121240,
       "word": "皇马vs瓦伦西亚",
@@ -819,12 +899,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120639,
+      "num": 120639,
+      "word": "蒋一侨活人感",
+      "onboard_time": 1743916460,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120462,
+      "num": 120462,
+      "word": "cpf万能嗑糖公式",
+      "onboard_time": 1743916821,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120429,
       "num": 120429,
       "word": "乔任梁母亲清明悼念儿子",
       "onboard_time": 1743865344,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119392,
+      "num": 119392,
+      "word": "猛男到底有多喜欢粉色",
+      "onboard_time": 1743916641,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 118613,
@@ -955,6 +1059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107429,
+      "num": 107429,
+      "word": "浪姐",
+      "onboard_time": 1743915202,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106308,
       "num": 106308,
       "word": "中国政府关于反对美国滥施关税的立场",
@@ -977,6 +1089,14 @@
       "onboard_time": 1743910281,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 104054,
+      "num": 103289,
+      "word": "孩子太早懂事是不是好事",
+      "onboard_time": 1743916401,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 103293,
@@ -1155,14 +1275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77208,
-      "num": 146138,
-      "word": "清明假期最后1天你有什么安排",
-      "onboard_time": 1743912561,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71851,
       "num": 217989,
       "word": "柯淳那双眼看酸奶都深情",
@@ -1292,7 +1404,7 @@
     },
     {
       "raw_hot": 39546,
-      "num": 657558,
+      "num": 709817,
       "word": "清明节气的春耕气象密码",
       "onboard_time": 1743912021,
       "rank": 2,
@@ -1387,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24218,
+      "num": 198074,
+      "word": "官方回应家长称双休影响考好大学",
+      "onboard_time": 1743916701,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19438,
       "num": 123720,
       "word": "甲亢哥坐飞行汽车吓得学狗叫",
@@ -1427,12 +1547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13387,
+      "num": 367231,
+      "word": "缅甸一地900多古建筑80%被毁",
+      "onboard_time": 1743916701,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 11970,
       "num": 67173,
       "word": "联合国警告贸易战中没有赢家",
       "onboard_time": 1743896059,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10407,
+      "num": 199912,
+      "word": "魔音震楼后上海阿姨改放大悲咒",
+      "onboard_time": 1743916761,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10188,
@@ -1460,6 +1596,9 @@
     },
     {
       "word": "#永远铭记英烈的英雄事迹#"
+    },
+    {
+      "word": "#在春风里树木也是树人#"
     }
   ]
 }
