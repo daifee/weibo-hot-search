@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743950316849,
+  "endTime": 1743952981846,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -868,7 +868,7 @@
     },
     {
       "raw_hot": 1140356,
-      "num": 1140356,
+      "num": 1175066,
       "word": "锤娜丽莎 减肥不快乐都滚",
       "onboard_time": 1743947123,
       "rank": 3,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1743679281,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1081109,
+      "num": 515171,
+      "word": "潘玮柏减重20斤等于减龄20岁",
+      "onboard_time": 1743950063,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 1072131,
@@ -2571,6 +2579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 569240,
+      "num": 569240,
+      "word": "青岛文旅局回应孤独的树成网红景点",
+      "onboard_time": 1743949343,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 568944,
       "num": 430792,
       "word": "BLACKPINK即将五月回归",
@@ -3195,6 +3211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476286,
+      "num": 235661,
+      "word": "专家建议洗头后自然风干",
+      "onboard_time": 1743947182,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 475178,
       "num": 475178,
       "word": "宋茜唐艺昕张佳宁又约上了",
@@ -3233,14 +3257,6 @@
       "onboard_time": 1743664342,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 469888,
-      "num": 235661,
-      "word": "专家建议洗头后自然风干",
-      "onboard_time": 1743947182,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 468837,
@@ -3579,6 +3595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421658,
+      "num": 349223,
+      "word": "创造营亚洲2排名",
+      "onboard_time": 1743949643,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420549,
       "num": 310772,
       "word": "胡烨韬第三名",
@@ -3729,14 +3753,6 @@
       "onboard_time": 1743848121,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 408490,
-      "num": 117401,
-      "word": "创造营亚洲2排名",
-      "onboard_time": 1743949643,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 408111,
@@ -4083,6 +4099,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 374087,
+      "num": 374087,
+      "word": "女儿癌症去世后妈妈15年种树2万亩",
+      "onboard_time": 1743948385,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372494,
       "num": 372494,
       "word": "Last Dance 浪姐舞台冤案",
@@ -4196,7 +4220,7 @@
     },
     {
       "raw_hot": 365328,
-      "num": 319693,
+      "num": 338230,
       "word": "全红婵正面回应体重变化影响动作",
       "onboard_time": 1743943460,
       "rank": 30,
@@ -4667,6 +4691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333498,
+      "num": 233288,
+      "word": "金价暴涨还适合买三金吗",
+      "onboard_time": 1743947663,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 333135,
       "num": 281506,
       "word": "橘子娱乐 离职前做一次朱志鑫站姐",
@@ -4851,14 +4883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 321432,
-      "num": 321432,
-      "word": "女儿癌症去世后妈妈15年种树2万亩",
-      "onboard_time": 1743948385,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 320820,
       "num": 320820,
       "word": "冬去春来 杨洋章若楠",
@@ -4929,14 +4953,6 @@
       "onboard_time": 1743855082,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 313594,
-      "num": 233288,
-      "word": "金价暴涨还适合买三金吗",
-      "onboard_time": 1743947663,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 313310,
@@ -5385,6 +5401,14 @@
       "onboard_time": 1743800354,
       "rank": 30,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 286283,
+      "num": 286283,
+      "word": "BLG对战IG",
+      "onboard_time": 1743949643,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 285669,
@@ -5955,6 +5979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253664,
+      "num": 253664,
+      "word": "白桃星座",
+      "onboard_time": 1743950963,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 253365,
       "num": 253365,
       "word": "这种口腔溃疡可能是HPV感染",
@@ -6521,6 +6553,14 @@
       "onboard_time": 1743809898,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 226698,
+      "num": 226698,
+      "word": "网红李美越被打码",
+      "onboard_time": 1743949462,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 225960,
@@ -7513,14 +7553,6 @@
       "onboard_time": 1743581902,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201844,
-      "num": 201844,
-      "word": "BLG对战IG",
-      "onboard_time": 1743949643,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 201566,
@@ -8753,6 +8785,14 @@
       "onboard_time": 1743590062,
       "rank": 38,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 184133,
+      "num": 184133,
+      "word": "冰冻文",
+      "onboard_time": 1743950723,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 184097,
@@ -10027,14 +10067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164176,
-      "num": 164176,
-      "word": "潘玮柏减重20斤等于减龄20岁",
-      "onboard_time": 1743950063,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 164105,
       "num": 164105,
       "word": "陈妍希杨丞琳潘玮柏合影",
@@ -10273,6 +10305,14 @@
       "onboard_time": 1743949224,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160542,
+      "num": 160542,
+      "word": "华晨宇跳舞",
+      "onboard_time": 1743951622,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 160409,
@@ -10571,6 +10611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156027,
+      "num": 156027,
+      "word": "黄景瑜黄明昊林一3A景区",
+      "onboard_time": 1743950843,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156006,
       "num": 156006,
       "word": "念无双 爸妈要打架被孩子一脚踹停",
@@ -10617,14 +10665,6 @@
       "onboard_time": 1743581003,
       "rank": 19,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 155626,
-      "num": 155626,
-      "word": "青岛文旅局回应孤独的树成网红景点",
-      "onboard_time": 1743949343,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155465,
@@ -11867,6 +11907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140264,
+      "num": 140264,
+      "word": "陈奕迅重庆",
+      "onboard_time": 1743950603,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140249,
       "num": 140249,
       "word": "鸿蒙智行报警",
@@ -11897,6 +11945,14 @@
       "onboard_time": 1743573862,
       "rank": 13,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 139940,
+      "num": 139940,
+      "word": "张惠妹鸟巢",
+      "onboard_time": 1743951622,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 139924,
@@ -12089,6 +12145,14 @@
       "onboard_time": 1743486203,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137542,
+      "num": 137542,
+      "word": "华晨宇的衣服是穿反了吗",
+      "onboard_time": 1743950543,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 137455,
@@ -12337,6 +12401,14 @@
       "onboard_time": 1743678801,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 134895,
+      "num": 134895,
+      "word": "朝鲜平壤国际马拉松现场画面",
+      "onboard_time": 1743949522,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 134787,
@@ -13291,6 +13363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124495,
+      "num": 124495,
+      "word": "乌云之上编剧自己送走自己",
+      "onboard_time": 1743951803,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124444,
       "num": 124444,
       "word": "贵州凯里 寻梦环游记",
@@ -13899,14 +13979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117811,
-      "num": 117811,
-      "word": "朝鲜平壤国际马拉松现场画面",
-      "onboard_time": 1743949522,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117643,
       "num": 188543,
       "word": "00后女生大学毕业职业代扫墓",
@@ -14017,6 +14089,14 @@
       "onboard_time": 1743822261,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116774,
+      "num": 116774,
+      "word": "闫桉写给粉丝的一封信",
+      "onboard_time": 1743952702,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 116768,
@@ -14857,6 +14937,14 @@
       "onboard_time": 1743848543,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105734,
+      "num": 105734,
+      "word": "女子称被企业家丈夫长期家暴虐待",
+      "onboard_time": 1743951143,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105681,
@@ -16056,6 +16144,14 @@
       "word": "宁夏一退役老兵佩戴军功章祭奠战友",
       "onboard_time": 1743697701,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84171,
+      "num": 224156,
+      "word": "9岁男孩回乡过三月三失联多日",
+      "onboard_time": 1743951741,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -17443,6 +17539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 49540,
+      "num": 165432,
+      "word": "美国关税政策引发全球反击",
+      "onboard_time": 1743952642,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49481,
       "num": 83895,
       "word": "前TVB女演员回应摆摊卖鸡爪",
@@ -18121,6 +18225,14 @@
       "onboard_time": 1743443295,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 35091,
+      "num": 147947,
+      "word": "风衣的正确穿法",
+      "onboard_time": 1743952872,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 34938,
@@ -19744,6 +19856,9 @@
     },
     {
       "word": "#关于绿化祖国总书记这样说#"
+    },
+    {
+      "word": "#践行绿色发展理念弘扬生态文化#"
     }
   ]
 }
