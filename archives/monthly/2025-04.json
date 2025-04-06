@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743908894932,
+  "endTime": 1743909350611,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -547,6 +547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1392370,
+      "num": 1392370,
+      "word": "李昀锐双胞胎哥哥探班",
+      "onboard_time": 1743908421,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1371095,
       "num": 1371095,
       "word": "房琪曾说明出圈金句为引用",
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 1053889,
-      "num": 720610,
+      "num": 1018456,
       "word": "小鬼在偶练大群发想你们了",
       "onboard_time": 1743906441,
       "rank": 3,
@@ -1051,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 992995,
+      "num": 251146,
+      "word": "中核招聘",
+      "onboard_time": 1743906500,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 992763,
       "num": 580469,
       "word": "孟子坤回应",
@@ -1123,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 965729,
+      "num": 965729,
+      "word": "人的身高70%取决于父母",
+      "onboard_time": 1743905240,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 963523,
       "num": 589147,
       "word": "金子涵 乐华",
@@ -1185,22 +1209,6 @@
       "onboard_time": 1743746120,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 931083,
-      "num": 246096,
-      "word": "中核招聘",
-      "onboard_time": 1743906500,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 928693,
-      "num": 928693,
-      "word": "人的身高70%取决于父母",
-      "onboard_time": 1743905240,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 928481,
@@ -1891,6 +1899,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 633645,
+      "num": 624865,
+      "word": "杜华晒与赵丽颖合照",
+      "onboard_time": 1743904940,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 630557,
       "num": 630557,
       "word": "王星越 常驻hi6",
@@ -1913,14 +1929,6 @@
       "onboard_time": 1743747681,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 624865,
-      "num": 624865,
-      "word": "杜华晒与赵丽颖合照",
-      "onboard_time": 1743904940,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 624310,
@@ -1961,14 +1969,6 @@
       "onboard_time": 1743864623,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 611226,
-      "num": 546829,
-      "word": "李昀锐双胞胎哥哥探班",
-      "onboard_time": 1743908421,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 610967,
@@ -3291,6 +3291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 407590,
+      "num": 407590,
+      "word": "李现打鸟获生态环境部认可",
+      "onboard_time": 1743907760,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407461,
       "num": 407461,
       "word": "向阳花票房",
@@ -4523,14 +4531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 305306,
-      "num": 240080,
-      "word": "李现打鸟获生态环境部认可",
-      "onboard_time": 1743907760,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304881,
       "num": 304881,
       "word": "之后会火IU 冷门歌手孙燕姿",
@@ -5324,7 +5324,7 @@
     },
     {
       "raw_hot": 251516,
-      "num": 234440,
+      "num": 242470,
       "word": "春来定风波定档",
       "onboard_time": 1743907820,
       "rank": 15,
@@ -7315,6 +7315,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 190731,
+      "num": 164131,
+      "word": "王一博卫衣look",
+      "onboard_time": 1743908902,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190551,
       "num": 190551,
       "word": "XIUMIN跳了TFBOYS的爱出发",
@@ -7401,6 +7409,14 @@
       "onboard_time": 1743669562,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189108,
+      "num": 164123,
+      "word": "男子扫墓时刮彩票中万元大奖",
+      "onboard_time": 1743908000,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189021,
@@ -8171,6 +8187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 176119,
+      "num": 164451,
+      "word": "这样切水果不脏手又好看",
+      "onboard_time": 1743906741,
+      "rank": 27,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 176075,
       "num": 176075,
       "word": "男童被电诈盗刷3万多后9分钟追回",
@@ -8539,6 +8563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169549,
+      "num": 163943,
+      "word": "狗狗把猫咪舔成芒果核了",
+      "onboard_time": 1743907280,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169119,
       "num": 304884,
       "word": "美国自绝于全球自由贸易之外",
@@ -8827,14 +8859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164451,
-      "num": 164451,
-      "word": "这样切水果不脏手又好看",
-      "onboard_time": 1743906741,
-      "rank": 27,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 164437,
       "num": 164437,
       "word": "节气里的大美中国",
@@ -8905,6 +8929,14 @@
       "onboard_time": 1743833541,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 162887,
+      "num": 162887,
+      "word": "何炅说秦洗头继续营业",
+      "onboard_time": 1743908061,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 162874,
@@ -9073,6 +9105,14 @@
       "onboard_time": 1743570022,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160276,
+      "num": 160276,
+      "word": "种地吧直播",
+      "onboard_time": 1743908960,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 160199,
@@ -9371,6 +9411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155049,
+      "num": 155049,
+      "word": "陈芋汐全红婵断层包揽金银",
+      "onboard_time": 1743905421,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155004,
       "num": 155004,
       "word": "国产剧破案题材女主只打高端局",
@@ -9401,6 +9449,14 @@
       "onboard_time": 1743852861,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 154500,
+      "num": 154500,
+      "word": "雷军谈小米15年",
+      "onboard_time": 1743909201,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 154440,
@@ -9577,6 +9633,14 @@
       "onboard_time": 1743813860,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152283,
+      "num": 152283,
+      "word": "花少南 中国boy",
+      "onboard_time": 1743908360,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 152028,
@@ -10435,14 +10499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140373,
-      "num": 136961,
-      "word": "狗狗把猫咪舔成芒果核了",
-      "onboard_time": 1743907280,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140369,
       "num": 140369,
       "word": "刘学义新剧痛失编制",
@@ -10785,14 +10841,6 @@
       "onboard_time": 1743590181,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135776,
-      "num": 135776,
-      "word": "男子扫墓时刮彩票中万元大奖",
-      "onboard_time": 1743908000,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135774,
@@ -11307,14 +11355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129678,
-      "num": 129678,
-      "word": "何炅说秦洗头继续营业",
-      "onboard_time": 1743908061,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129575,
       "num": 558575,
       "word": "春节后首个小长假点燃春游热潮",
@@ -11401,6 +11441,14 @@
       "onboard_time": 1743478404,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128402,
+      "num": 128402,
+      "word": "刘涛 我的梦中情师",
+      "onboard_time": 1743909081,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 128117,
@@ -11528,14 +11576,6 @@
       "word": "陈芋汐407C三个10分",
       "onboard_time": 1743898819,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 126804,
-      "num": 126804,
-      "word": "陈芋汐全红婵断层包揽金银",
-      "onboard_time": 1743905421,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -11841,14 +11881,6 @@
       "onboard_time": 1743842781,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122472,
-      "num": 122472,
-      "word": "花少南 中国boy",
-      "onboard_time": 1743908360,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 122448,
@@ -12451,6 +12483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115409,
+      "num": 115409,
+      "word": "王琳凯在偶练群里发了想大家",
+      "onboard_time": 1743908240,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115369,
       "num": 115369,
       "word": "蒋一侨回应撞脸蒋璐霞",
@@ -12596,7 +12636,7 @@
     },
     {
       "raw_hot": 113290,
-      "num": 771278,
+      "num": 1169156,
       "word": "清明上河图奇妙游",
       "onboard_time": 1743816920,
       "rank": 37,
@@ -12681,14 +12721,6 @@
       "onboard_time": 1743510204,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 112087,
-      "num": 112087,
-      "word": "王琳凯在偶练群里发了想大家",
-      "onboard_time": 1743908240,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 112046,
@@ -13339,6 +13371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 99573,
+      "num": 99573,
+      "word": "甲亢哥你笔没还人家啊",
+      "onboard_time": 1743907581,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 99572,
       "num": 99572,
       "word": "卓沅不欢迎脸颊肉",
@@ -13353,6 +13393,14 @@
       "onboard_time": 1743731061,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99247,
+      "num": 99247,
+      "word": "陈立农七周年同学录问答",
+      "onboard_time": 1743909141,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 99238,
@@ -16603,6 +16651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24614,
+      "num": 163844,
+      "word": "王艺迪vs朱雨玲",
+      "onboard_time": 1743908960,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24468,
       "num": 205332,
       "word": "古驰竹节包展览加场",
@@ -17329,6 +17385,14 @@
       "onboard_time": 1743672202,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10188,
+      "num": 128439,
+      "word": "北方露营",
+      "onboard_time": 1743909259,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 10120,
