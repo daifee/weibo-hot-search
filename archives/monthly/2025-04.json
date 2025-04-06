@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743974493022,
+  "endTime": 1743975431861,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -19363,20 +19363,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18920,
+      "num": 18920,
+      "word": "半夜醒来发现才是凌晨2点半",
+      "onboard_time": 1743973093,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18858,
       "num": 37333,
       "word": "双轨杀青",
       "onboard_time": 1743633618,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18842,
-      "num": 17903,
-      "word": "半夜醒来发现才是凌晨2点半",
-      "onboard_time": 1743973093,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 18812,
@@ -19715,7 +19715,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 13531,
+      "raw_hot": 13537,
       "num": 15528,
       "word": "假期结束",
       "onboard_time": 1743962416,
@@ -19771,8 +19771,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12549,
-      "num": 13144,
+      "raw_hot": 12681,
+      "num": 13533,
       "word": "景区回应动物园内狗和狼被关一起",
       "onboard_time": 1743971893,
       "rank": 45,
@@ -19921,6 +19921,14 @@
       "onboard_time": 1743796694,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10757,
+      "num": 13527,
+      "word": "捷豹路虎计划暂停对美出口汽车",
+      "onboard_time": 1743975374,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 10524,
