@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743928140901,
+  "endTime": 1743928956315,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 913006,
-      "num": 351594,
+      "num": 399788,
       "word": "减肥黑名单",
       "onboard_time": 1743924500,
       "rank": 31,
@@ -163,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 701704,
+      "num": 701704,
+      "word": "香蕉夹",
+      "onboard_time": 1743926300,
+      "rank": 11,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 658061,
       "num": 283261,
       "word": "机场回应粉丝扑向艺人车辆被刮倒",
@@ -177,6 +185,22 @@
       "onboard_time": 1743904940,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 632603,
+      "num": 632603,
+      "word": "印度一男子开床车上路多辆摩托跟拍",
+      "onboard_time": 1743927860,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 628927,
+      "num": 628927,
+      "word": "亲妹妹只对真姐夫破防",
+      "onboard_time": 1743927201,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 610426,
@@ -251,20 +275,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513513,
+      "num": 513513,
+      "word": "蒋一侨 香飘飘千金",
+      "onboard_time": 1743925461,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 510454,
       "num": 510454,
       "word": "家长称高中双休影响孩子考好大学",
       "onboard_time": 1743919821,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 500637,
-      "num": 349863,
-      "word": "香蕉夹",
-      "onboard_time": 1743926300,
-      "rank": 11,
-      "category": "时尚"
     },
     {
       "raw_hot": 426074,
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 421855,
-      "num": 367965,
+      "num": 398221,
       "word": "虞书欣练习室跳likejennie",
       "onboard_time": 1743924500,
       "rank": 26,
@@ -313,6 +337,14 @@
       "onboard_time": 1743859102,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 401246,
+      "num": 401246,
+      "word": "美国农业将受中国关税最严重打击",
+      "onboard_time": 1743925461,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 400052,
@@ -395,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 346236,
-      "num": 346236,
-      "word": "美国农业将受中国关税最严重打击",
-      "onboard_time": 1743925461,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 340687,
       "num": 217976,
       "word": "导致视力下降的真正原因",
@@ -440,14 +464,6 @@
       "word": "刘奕畅 我的女主",
       "onboard_time": 1743866783,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 322064,
-      "num": 322064,
-      "word": "蒋一侨 香飘飘千金",
-      "onboard_time": 1743925461,
-      "rank": 14,
       "category": "综艺"
     },
     {
@@ -539,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268906,
-      "num": 268906,
-      "word": "亲妹妹只对真姐夫破防",
-      "onboard_time": 1743927201,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 266834,
       "num": 306229,
       "word": "张峻豪求粉丝关灯牌",
@@ -561,14 +569,6 @@
       "onboard_time": 1743908000,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 264528,
-      "num": 264528,
-      "word": "印度一男子开床车上路多辆摩托跟拍",
-      "onboard_time": 1743927860,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 260424,
@@ -675,6 +675,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 226831,
+      "num": 226831,
+      "word": "迪丽热巴早期随拍",
+      "onboard_time": 1743927980,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220264,
       "num": 220264,
       "word": "胖东来起诉博主两个小段",
@@ -769,14 +777,6 @@
       "onboard_time": 1743868582,
       "rank": 26,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 198295,
-      "num": 198295,
-      "word": "迪丽热巴早期随拍",
-      "onboard_time": 1743927980,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 195374,
@@ -899,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184665,
+      "num": 352613,
+      "word": "清明返程高峰路况",
+      "onboard_time": 1743927501,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183291,
       "num": 367231,
       "word": "缅甸一地900多古建筑80%被毁",
@@ -945,6 +953,14 @@
       "onboard_time": 1743909081,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176189,
+      "num": 176189,
+      "word": "周洁琼神女下江南",
+      "onboard_time": 1743927741,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 174363,
@@ -1139,14 +1155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150340,
-      "num": 150340,
-      "word": "周洁琼神女下江南",
-      "onboard_time": 1743927741,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150094,
       "num": 300683,
       "word": "特朗普坚称关税是经济革命",
@@ -1179,20 +1187,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139562,
+      "num": 139562,
+      "word": "和不合适的人在一起要及时止损",
+      "onboard_time": 1743927501,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139323,
       "num": 139323,
       "word": "无限暖暖",
       "onboard_time": 1743917300,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137156,
-      "num": 137156,
-      "word": "和不合适的人在一起要及时止损",
-      "onboard_time": 1743927501,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 134758,
@@ -1345,6 +1353,14 @@
       "onboard_time": 1743898699,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124139,
+      "num": 124139,
+      "word": "孙俪罗晋新剧热度登顶",
+      "onboard_time": 1743928822,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 123977,
@@ -1555,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111097,
+      "num": 111097,
+      "word": "王玉雯千禧年plog恋爱博主",
+      "onboard_time": 1743928700,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109019,
       "num": 109019,
       "word": "檀健次 广西老表标配",
@@ -1611,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104811,
+      "num": 104811,
+      "word": "孙燕姿从家逃到演唱会",
+      "onboard_time": 1743928942,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104580,
       "num": 104580,
       "word": "艾热新专辑歌曲越做越少",
@@ -1665,6 +1697,14 @@
       "onboard_time": 1743869002,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 100022,
+      "num": 100022,
+      "word": "明日方舟",
+      "onboard_time": 1743928461,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 98874,
@@ -1883,14 +1923,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 61356,
-      "num": 352613,
-      "word": "清明返程高峰路况",
-      "onboard_time": 1743927501,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57909,
       "num": 57909,
       "word": "敖瑞鹏说自己是白鹿的掌中宝",
@@ -1964,7 +1996,7 @@
     },
     {
       "raw_hot": 39546,
-      "num": 797708,
+      "num": 827209,
       "word": "清明节气的春耕气象密码",
       "onboard_time": 1743912021,
       "rank": 2,
@@ -1977,6 +2009,14 @@
       "onboard_time": 1743911301,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37190,
+      "num": 111506,
+      "word": "多哈世乒赛韩国队参赛名单",
+      "onboard_time": 1743926842,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 36727,

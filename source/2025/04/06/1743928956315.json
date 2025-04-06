@@ -1,0 +1,410 @@
+{
+  "runTime": 1743928956315,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1099729,
+        "num": 1175956,
+        "word": "黄英只有不到80斤了",
+        "onboard_time": 1743925221,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 975432,
+        "num": 975432,
+        "word": "男子在山姆采购550万元商品遭冒领",
+        "onboard_time": 1743924440,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27688,
+        "num": 827209,
+        "word": "清明节气的春耕气象密码",
+        "onboard_time": 1743912021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 701704,
+        "num": 701704,
+        "word": "香蕉夹",
+        "onboard_time": 1743926300,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 632603,
+        "num": 632603,
+        "word": "印度一男子开床车上路多辆摩托跟拍",
+        "onboard_time": 1743927860,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 630652,
+        "num": 630652,
+        "word": "甲亢哥扫货被提醒后细心放好手机",
+        "onboard_time": 1743919101,
+        "rank": 5,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 628927,
+        "num": 628927,
+        "word": "亲妹妹只对真姐夫破防",
+        "onboard_time": 1743927201,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513513,
+        "num": 513513,
+        "word": "蒋一侨 香飘飘千金",
+        "onboard_time": 1743925461,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500270,
+        "num": 500270,
+        "word": "雪梨以设计师身份参加综艺",
+        "onboard_time": 1743922341,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401246,
+        "num": 401246,
+        "word": "美国农业将受中国关税最严重打击",
+        "onboard_time": 1743925461,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 862927,
+        "num": 399788,
+        "word": "减肥黑名单",
+        "onboard_time": 1743924500,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 398221,
+        "num": 398221,
+        "word": "虞书欣练习室跳likejennie",
+        "onboard_time": 1743924500,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328924,
+        "num": 328924,
+        "word": "车主晒SU7一年保值率91%",
+        "onboard_time": 1743922820,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 317499,
+        "num": 317499,
+        "word": "美国50万人游行要求特朗普住手",
+        "onboard_time": 1743905300,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284285,
+        "num": 284285,
+        "word": "杨幂 内娱史官",
+        "onboard_time": 1743920721,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253403,
+        "num": 253403,
+        "word": "人的身高70%取决于父母",
+        "onboard_time": 1743905240,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 227629,
+        "num": 227629,
+        "word": "特朗普回应股市崩盘",
+        "onboard_time": 1743923059,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226831,
+        "num": 226831,
+        "word": "迪丽热巴早期随拍",
+        "onboard_time": 1743927980,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198451,
+        "num": 198451,
+        "word": "杨天真聊艺人官宣恋情被骂原因",
+        "onboard_time": 1743920540,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184665,
+        "num": 184665,
+        "word": "清明返程高峰路况",
+        "onboard_time": 1743927501,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 811541,
+        "num": 183649,
+        "word": "李昀锐双胞胎哥哥探班",
+        "onboard_time": 1743908421,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228283,
+        "num": 183157,
+        "word": "雷军停更5日来首次发声",
+        "onboard_time": 1743911000,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197405,
+        "num": 182932,
+        "word": "TES投诉LPL导播镜头",
+        "onboard_time": 1743926781,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182460,
+        "num": 182460,
+        "word": "张峻豪演唱会",
+        "onboard_time": 1743921141,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181840,
+        "num": 181840,
+        "word": "雷军谈小米15年",
+        "onboard_time": 1743909201,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176189,
+        "num": 176189,
+        "word": "周洁琼神女下江南",
+        "onboard_time": 1743927741,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151471,
+        "num": 151471,
+        "word": "胖东来起诉经济学家宋清辉索赔百万",
+        "onboard_time": 1743915801,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151220,
+        "num": 151220,
+        "word": "甲亢哥保镖 嚼嚼嚼",
+        "onboard_time": 1743924559,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151215,
+        "num": 151215,
+        "word": "李美越",
+        "onboard_time": 1743924620,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150966,
+        "num": 150966,
+        "word": "租房甲醛超标女子想退租被中介骂",
+        "onboard_time": 1743923241,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 149915,
+        "num": 149915,
+        "word": "蓝莓怎么这么便宜了",
+        "onboard_time": 1743910882,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144651,
+        "num": 144651,
+        "word": "爱情公寓的转场方式还是太超前了",
+        "onboard_time": 1743918380,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143734,
+        "num": 143734,
+        "word": "原来一根头发可以分叉这么多",
+        "onboard_time": 1743915441,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139562,
+        "num": 139562,
+        "word": "和不合适的人在一起要及时止损",
+        "onboard_time": 1743927501,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134704,
+        "num": 134704,
+        "word": "突然发现6月到9月没有假期",
+        "onboard_time": 1743921021,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132344,
+        "num": 132344,
+        "word": "李昀锐哥哥",
+        "onboard_time": 1743909920,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129819,
+        "num": 129819,
+        "word": "清明假期最后1天你有什么安排",
+        "onboard_time": 1743912561,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125749,
+        "num": 125749,
+        "word": "小鬼在偶练大群发想你们了",
+        "onboard_time": 1743906441,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36061,
+        "num": 124558,
+        "word": "多哈世乒赛朝鲜队参赛名单",
+        "onboard_time": 1743921021,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124139,
+        "num": 124139,
+        "word": "孙俪罗晋新剧热度登顶",
+        "onboard_time": 1743928822,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120260,
+        "num": 120260,
+        "word": "何炅也是没有放过龚俊",
+        "onboard_time": 1743927260,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119421,
+        "num": 119421,
+        "word": "曝金秀贤与金赛纶的通话录音",
+        "onboard_time": 1743898939,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118587,
+        "num": 118587,
+        "word": "KissofLife就直播争议道歉",
+        "onboard_time": 1743927801,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114509,
+        "num": 114509,
+        "word": "万岁山景区致歉",
+        "onboard_time": 1743921380,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37190,
+        "num": 111506,
+        "word": "多哈世乒赛韩国队参赛名单",
+        "onboard_time": 1743926842,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111097,
+        "num": 111097,
+        "word": "王玉雯千禧年plog恋爱博主",
+        "onboard_time": 1743928700,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108690,
+        "num": 108690,
+        "word": "这6种人容易提前长白发",
+        "onboard_time": 1743926901,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104811,
+        "num": 104811,
+        "word": "孙燕姿从家逃到演唱会",
+        "onboard_time": 1743928942,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101344,
+        "num": 101344,
+        "word": "出丑越多 成长越快",
+        "onboard_time": 1743921800,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100022,
+        "num": 100022,
+        "word": "明日方舟",
+        "onboard_time": 1743928461,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#永远铭记英烈的英雄事迹#"
+    }
+  }
+}
