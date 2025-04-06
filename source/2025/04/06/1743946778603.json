@@ -1,0 +1,410 @@
+{
+  "runTime": 1743946778603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1843381,
+        "num": 1843381,
+        "word": "你的工资不能低于这个数字",
+        "onboard_time": 1743933500,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 840611,
+        "num": 840611,
+        "word": "孟美岐跳创造101主题曲",
+        "onboard_time": 1743943520,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64232,
+        "num": 623494,
+        "word": "集中精力办好自己的事",
+        "onboard_time": 1743942741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1087223,
+        "num": 615262,
+        "word": "女子突发不适驾车失控致1死3伤",
+        "onboard_time": 1743943520,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 948201,
+        "num": 611434,
+        "word": "朱正廷因频繁戴隐形得了干眼症",
+        "onboard_time": 1743944722,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604903,
+        "num": 604903,
+        "word": "美国有人开始囤货了",
+        "onboard_time": 1743945202,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 720139,
+        "num": 540255,
+        "word": "胡烨韬我已经没有下一个四年了",
+        "onboard_time": 1743944300,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450820,
+        "num": 450820,
+        "word": "向鹏男单冠军",
+        "onboard_time": 1743941062,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61600,
+        "num": 402624,
+        "word": "中国坚定不移维护多边主义",
+        "onboard_time": 1743942922,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 396035,
+        "num": 396035,
+        "word": "创造营亚洲2",
+        "onboard_time": 1743936321,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 710377,
+        "num": 392762,
+        "word": "时代峰峻 女练习生",
+        "onboard_time": 1743937642,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360627,
+        "num": 360627,
+        "word": "西湖猝鱼",
+        "onboard_time": 1743929481,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 357508,
+        "num": 357508,
+        "word": "家人辣评董力",
+        "onboard_time": 1743936561,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350880,
+        "num": 350880,
+        "word": "耐克等品牌或将被迫提价",
+        "onboard_time": 1743945802,
+        "rank": 13,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 216779,
+        "num": 344352,
+        "word": "四川萨武雪山一驴友登山下撤后离世",
+        "onboard_time": 1743945022,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338328,
+        "num": 338328,
+        "word": "美媒称iPhone最高或涨至1.6万元",
+        "onboard_time": 1743929242,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 303654,
+        "num": 303654,
+        "word": "SM查理呢",
+        "onboard_time": 1743943460,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301131,
+        "num": 301131,
+        "word": "黄英只有不到80斤了",
+        "onboard_time": 1743925221,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289088,
+        "num": 289088,
+        "word": "值得爱11集做恨",
+        "onboard_time": 1743938421,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276019,
+        "num": 276019,
+        "word": "美国普通人担心关税让钱包受伤",
+        "onboard_time": 1743941301,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 475690,
+        "num": 275463,
+        "word": "2岁娃烧伤婆婆给儿媳下跪自责痛哭",
+        "onboard_time": 1743943460,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365328,
+        "num": 268585,
+        "word": "全红婵正面回应体重变化影响动作",
+        "onboard_time": 1743943460,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89148,
+        "num": 259735,
+        "word": "俄称几乎没经贸关系所以没上美清单",
+        "onboard_time": 1743946583,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 294114,
+        "num": 249262,
+        "word": "李昀锐双胞胎哥哥探班",
+        "onboard_time": 1743908421,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248453,
+        "num": 248453,
+        "word": "以为病了其实是衰老的表现",
+        "onboard_time": 1743945802,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232583,
+        "num": 232583,
+        "word": "念无双26集封神",
+        "onboard_time": 1743944781,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195628,
+        "num": 195628,
+        "word": "任豪在创造营帅回主场了",
+        "onboard_time": 1743940223,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192212,
+        "num": 192212,
+        "word": "晚睡晚起但睡够8小时还伤身吗",
+        "onboard_time": 1743938180,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191815,
+        "num": 191815,
+        "word": "华晨宇人生第一次穿一整身豹纹",
+        "onboard_time": 1743945683,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191142,
+        "num": 191142,
+        "word": "申义晟出道",
+        "onboard_time": 1743946703,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177806,
+        "num": 177806,
+        "word": "李小冉新剧演反派boss",
+        "onboard_time": 1743942561,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175854,
+        "num": 175854,
+        "word": "Hamin公开",
+        "onboard_time": 1743938961,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171996,
+        "num": 171996,
+        "word": "北京东路的孩子后来去了哪",
+        "onboard_time": 1743945022,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168637,
+        "num": 168637,
+        "word": "董力把家人气得打电话兴师问罪",
+        "onboard_time": 1743943940,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23245,
+        "num": 158296,
+        "word": "丈夫回应阿根廷奇娜去世",
+        "onboard_time": 1743946583,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155198,
+        "num": 155198,
+        "word": "LGDNBW对战狼队",
+        "onboard_time": 1743946343,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151542,
+        "num": 151542,
+        "word": "AG司马光出道夜舞台",
+        "onboard_time": 1743945381,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151025,
+        "num": 151025,
+        "word": "刘宇宁辟谣与鞠婧祎合作万花世界",
+        "onboard_time": 1743944122,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148833,
+        "num": 148833,
+        "word": "赵粤再跳你最最最重要",
+        "onboard_time": 1743943223,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144981,
+        "num": 144981,
+        "word": "被王艺迪向鹏自拍笑死",
+        "onboard_time": 1743946463,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141515,
+        "num": 141515,
+        "word": "狗子被忘服务区一路狂奔追赶主人",
+        "onboard_time": 1743932301,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141481,
+        "num": 141481,
+        "word": "罗晋版消失的他",
+        "onboard_time": 1743943520,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140835,
+        "num": 140835,
+        "word": "念无双 爸妈要打架被孩子一脚踹停",
+        "onboard_time": 1743944062,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136857,
+        "num": 136857,
+        "word": "雪梨参加综艺被淘汰",
+        "onboard_time": 1743931100,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134473,
+        "num": 134473,
+        "word": "胡定欣回应恋情",
+        "onboard_time": 1743943581,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128418,
+        "num": 128418,
+        "word": "刑警还是嫌犯钟伟说了不算",
+        "onboard_time": 1743946643,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119476,
+        "num": 119476,
+        "word": "中国人捡到活的第一件事就是投喂",
+        "onboard_time": 1743931761,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119418,
+        "num": 119418,
+        "word": "kissoflife一夜掉粉20万",
+        "onboard_time": 1743929000,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117347,
+        "num": 117347,
+        "word": "印度一男子开床车上路多辆摩托跟拍",
+        "onboard_time": 1743927860,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112356,
+        "num": 112356,
+        "word": "TF四代3月考核",
+        "onboard_time": 1743946762,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于绿化祖国总书记这样说#"
+    }
+  }
+}
