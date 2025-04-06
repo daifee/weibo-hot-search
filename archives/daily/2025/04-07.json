@@ -1,6 +1,6 @@
 {
   "startTime": 1743956845609,
-  "endTime": 1743981718373,
+  "endTime": 1743982541678,
   "band_list": [
     {
       "raw_hot": 816434,
@@ -27,12 +27,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 590839,
-      "num": 795940,
+      "raw_hot": 647379,
+      "num": 906098,
       "word": "美国关税政策引发全球反击",
       "onboard_time": 1743952642,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 595795,
+      "num": 238802,
+      "word": "半夜醒来发现才是凌晨2点半",
+      "onboard_time": 1743973093,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 557886,
@@ -43,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543088,
+      "num": 543088,
+      "word": "网红李美越致歉",
+      "onboard_time": 1743947303,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 521478,
       "num": 521478,
       "word": "Bin",
@@ -51,28 +67,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 489931,
-      "num": 412106,
-      "word": "网红李美越致歉",
-      "onboard_time": 1743947303,
-      "rank": 7,
-      "category": "网红"
-    },
-    {
       "raw_hot": 474457,
       "num": 509316,
       "word": "八旬老人拆掉养护院护栏跳下坠亡",
       "onboard_time": 1743956838,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 462708,
-      "num": 223975,
-      "word": "半夜醒来发现才是凌晨2点半",
-      "onboard_time": 1743973093,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 377194,
@@ -91,6 +91,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356305,
+      "num": 356305,
+      "word": "身体各处的警告",
+      "onboard_time": 1743975315,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 338228,
+      "num": 338228,
+      "word": "iPhone17Air新机模曝光",
+      "onboard_time": 1743977655,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 299044,
       "num": 232216,
       "word": "创造营亚洲2排名",
@@ -99,20 +115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278472,
-      "num": 278472,
-      "word": "iPhone17Air新机模曝光",
-      "onboard_time": 1743977655,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 278210,
-      "num": 278210,
-      "word": "身体各处的警告",
-      "onboard_time": 1743975315,
-      "rank": 17,
-      "category": "健康医疗"
+      "raw_hot": 271085,
+      "num": 344856,
+      "word": "全红婵正面回应体重变化影响动作",
+      "onboard_time": 1743943460,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 262819,
@@ -123,14 +131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260968,
-      "num": 278297,
-      "word": "全红婵正面回应体重变化影响动作",
-      "onboard_time": 1743943460,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 237544,
       "num": 202034,
       "word": "宁艺卓即将大学毕业",
@@ -139,28 +139,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219594,
-      "num": 107464,
+      "raw_hot": 226352,
+      "num": 163139,
       "word": "专家建议洗头后自然风干",
       "onboard_time": 1743947182,
       "rank": 20,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 217012,
-      "num": 217012,
+      "raw_hot": 226116,
+      "num": 226116,
+      "word": "村委会称去世驴友吃完面突然倒地",
+      "onboard_time": 1743956599,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217347,
+      "num": 217347,
       "word": "美国有人开始囤货了",
       "onboard_time": 1743945202,
       "rank": 9,
       "category": "国际时政"
     },
     {
-      "raw_hot": 202193,
-      "num": 202193,
+      "raw_hot": 211638,
+      "num": 211638,
       "word": "景区狗狗被关进狼舍吓得呜咽",
       "onboard_time": 1743958217,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190889,
+      "num": 129264,
+      "word": "潘玮柏回应突然变回20岁模样",
+      "onboard_time": 1743981979,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 189834,
@@ -171,16 +187,8 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 185969,
-      "num": 185969,
-      "word": "村委会称去世驴友吃完面突然倒地",
-      "onboard_time": 1743956599,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179017,
-      "num": 145459,
+      "num": 165087,
       "word": "谢娜刚刚录完三公",
       "onboard_time": 1743956838,
       "rank": 30,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 177211,
-      "num": 105164,
+      "num": 150644,
       "word": "晚睡晚起但睡够8小时还伤身吗",
       "onboard_time": 1743938180,
       "rank": 21,
@@ -201,6 +209,22 @@
       "onboard_time": 1743944300,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166017,
+      "num": 166017,
+      "word": "网红李美越被打码",
+      "onboard_time": 1743949462,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 165225,
+      "num": 165225,
+      "word": "湖人战胜雷霆",
+      "onboard_time": 1743981319,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 162019,
@@ -219,8 +243,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147203,
-      "num": 102972,
+      "raw_hot": 150099,
+      "num": 150099,
       "word": "金价暴涨还适合买三金吗",
       "onboard_time": 1743947663,
       "rank": 23,
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 146872,
-      "num": 104175,
+      "num": 140078,
       "word": "2岁娃烧伤婆婆给儿媳下跪自责痛哭",
       "onboard_time": 1743943460,
       "rank": 25,
@@ -243,20 +267,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138505,
-      "num": 138505,
-      "word": "网红李美越被打码",
-      "onboard_time": 1743949462,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134612,
       "num": 134612,
       "word": "冰冻文",
       "onboard_time": 1743950723,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 129232,
+      "num": 129232,
+      "word": "以为病了其实是衰老的表现",
+      "onboard_time": 1743945802,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 128505,
+      "num": 128505,
+      "word": "买黄金一定不能图便宜",
+      "onboard_time": 1743980659,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 120076,
@@ -267,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110523,
-      "num": 95859,
-      "word": "以为病了其实是衰老的表现",
-      "onboard_time": 1743945802,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 118973,
+      "num": 118973,
+      "word": "老人被从养护院带走后以2万元卖了房",
+      "onboard_time": 1743958037,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108489,
@@ -283,12 +315,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 103244,
-      "num": 103244,
-      "word": "老人被从养护院带走后以2万元卖了房",
-      "onboard_time": 1743958037,
-      "rank": 34,
+      "raw_hot": 104553,
+      "num": 214145,
+      "word": "A股",
+      "onboard_time": 1743982099,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 104504,
+      "num": 239007,
+      "word": "清明假期后第1天",
+      "onboard_time": 1743982099,
+      "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101356,
+      "num": 137972,
+      "word": "电影热烈重映票房破1000万",
+      "onboard_time": 1743949583,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 100423,
@@ -371,12 +419,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86485,
-      "num": 86485,
-      "word": "买黄金一定不能图便宜",
-      "onboard_time": 1743980659,
-      "rank": 28,
-      "category": "财经"
+      "raw_hot": 86727,
+      "num": 133876,
+      "word": "孟子义何与百花杀路透",
+      "onboard_time": 1743981559,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 86481,
@@ -393,6 +441,14 @@
       "onboard_time": 1743952872,
       "rank": 40,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 84464,
+      "num": 84464,
+      "word": "朝鲜平壤国际马拉松现场画面",
+      "onboard_time": 1743949522,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 84389,
@@ -419,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81793,
-      "num": 81793,
-      "word": "电影热烈重映票房破1000万",
-      "onboard_time": 1743949583,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 81235,
       "num": 81235,
       "word": "张惠妹鸟巢",
@@ -435,12 +483,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 78599,
-      "num": 78599,
-      "word": "朝鲜平壤国际马拉松现场画面",
-      "onboard_time": 1743949522,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 77491,
+      "num": 77491,
+      "word": "美关税政策或重创亚洲服装纺织业",
+      "onboard_time": 1743947480,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76196,
@@ -456,6 +504,14 @@
       "word": "古人餐具自带您吃好弹幕提示",
       "onboard_time": 1743955401,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74666,
+      "num": 74666,
+      "word": "钓鱼晒成炭黑大爷走红后朋友发声",
+      "onboard_time": 1743964514,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -475,20 +531,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 71040,
-      "num": 71040,
-      "word": "湖人战胜雷霆",
-      "onboard_time": 1743981319,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 69679,
-      "num": 69679,
-      "word": "美关税政策或重创亚洲服装纺织业",
-      "onboard_time": 1743947480,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 70203,
+      "num": 70203,
+      "word": "捷豹路虎计划暂停对美出口汽车",
+      "onboard_time": 1743975374,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 69373,
@@ -499,12 +547,12 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 67900,
-      "num": 67900,
-      "word": "捷豹路虎计划暂停对美出口汽车",
-      "onboard_time": 1743975374,
-      "rank": 49,
-      "category": "汽车"
+      "raw_hot": 68258,
+      "num": 68258,
+      "word": "演戏卖假货骗了3万多名老人",
+      "onboard_time": 1743948683,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66480,
@@ -515,12 +563,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64343,
-      "num": 64343,
-      "word": "钓鱼晒成炭黑大爷走红后朋友发声",
-      "onboard_time": 1743964514,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 62990,
+      "num": 62990,
+      "word": "冰湖重生",
+      "onboard_time": 1743981438,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 60991,
+      "num": 60991,
+      "word": "卫健委不推荐液断生酮代餐减肥",
+      "onboard_time": 1743982040,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 60411,
@@ -529,14 +585,6 @@
       "onboard_time": 1743957738,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58699,
-      "num": 58699,
-      "word": "演戏卖假货骗了3万多名老人",
-      "onboard_time": 1743948683,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57800,
@@ -569,14 +617,6 @@
       "onboard_time": 1743980418,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 43398,
-      "num": 43398,
-      "word": "孟子义何与百花杀路透",
-      "onboard_time": 1743981559,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 39524,

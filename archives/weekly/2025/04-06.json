@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743981718373,
+  "endTime": 1743982541678,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -363,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 647379,
+      "num": 906098,
+      "word": "美国关税政策引发全球反击",
+      "onboard_time": 1743952642,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 633645,
       "num": 624865,
       "word": "杜华晒与赵丽颖合照",
@@ -435,12 +443,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 590839,
-      "num": 795940,
-      "word": "美国关税政策引发全球反击",
-      "onboard_time": 1743952642,
-      "rank": 28,
-      "category": "国际时政"
+      "raw_hot": 595795,
+      "num": 238802,
+      "word": "半夜醒来发现才是凌晨2点半",
+      "onboard_time": 1743973093,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 582549,
@@ -585,14 +593,6 @@
       "onboard_time": 1743956838,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 462708,
-      "num": 223975,
-      "word": "半夜醒来发现才是凌晨2点半",
-      "onboard_time": 1743973093,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 442270,
@@ -748,7 +748,7 @@
     },
     {
       "raw_hot": 365328,
-      "num": 338230,
+      "num": 344856,
       "word": "全红婵正面回应体重变化影响动作",
       "onboard_time": 1743943460,
       "rank": 30,
@@ -795,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356305,
+      "num": 356305,
+      "word": "身体各处的警告",
+      "onboard_time": 1743975315,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 350333,
       "num": 350333,
       "word": "男子路遇雪豹尸体疑遭车辆撞击",
@@ -817,6 +825,14 @@
       "onboard_time": 1743947480,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 338228,
+      "num": 338228,
+      "word": "iPhone17Air新机模曝光",
+      "onboard_time": 1743977655,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 337632,
@@ -961,22 +977,6 @@
       "onboard_time": 1743918080,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278472,
-      "num": 278472,
-      "word": "iPhone17Air新机模曝光",
-      "onboard_time": 1743977655,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 278210,
-      "num": 278210,
-      "word": "身体各处的警告",
-      "onboard_time": 1743975315,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 276390,
@@ -1227,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226116,
+      "num": 226116,
+      "word": "村委会称去世驴友吃完面突然倒地",
+      "onboard_time": 1743956599,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220264,
       "num": 220264,
       "word": "胖东来起诉博主两个小段",
@@ -1291,6 +1299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211638,
+      "num": 211638,
+      "word": "景区狗狗被关进狼舍吓得呜咽",
+      "onboard_time": 1743958217,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209609,
       "num": 209609,
       "word": "TES投诉LPL导播镜头",
@@ -1329,14 +1345,6 @@
       "onboard_time": 1743916641,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202193,
-      "num": 202193,
-      "word": "景区狗狗被关进狼舍吓得呜咽",
-      "onboard_time": 1743958217,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201172,
@@ -1459,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190889,
+      "num": 129264,
+      "word": "潘玮柏回应突然变回20岁模样",
+      "onboard_time": 1743981979,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190731,
       "num": 164131,
       "word": "王一博卫衣look",
@@ -1545,14 +1561,6 @@
       "onboard_time": 1743953061,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185969,
-      "num": 185969,
-      "word": "村委会称去世驴友吃完面突然倒地",
-      "onboard_time": 1743956599,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185961,
@@ -1668,7 +1676,7 @@
     },
     {
       "raw_hot": 179017,
-      "num": 145459,
+      "num": 165087,
       "word": "谢娜刚刚录完三公",
       "onboard_time": 1743956838,
       "rank": 30,
@@ -1833,6 +1841,14 @@
       "onboard_time": 1743921740,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165225,
+      "num": 165225,
+      "word": "湖人战胜雷霆",
+      "onboard_time": 1743981319,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 165061,
@@ -2339,6 +2355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128505,
+      "num": 128505,
+      "word": "买黄金一定不能图便宜",
+      "onboard_time": 1743980659,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128418,
       "num": 128418,
       "word": "刑警还是嫌犯钟伟说了不算",
@@ -2492,7 +2516,7 @@
     },
     {
       "raw_hot": 120257,
-      "num": 120257,
+      "num": 137972,
       "word": "电影热烈重映票房破1000万",
       "onboard_time": 1743949583,
       "rank": 44,
@@ -2513,6 +2537,14 @@
       "onboard_time": 1743956959,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118973,
+      "num": 118973,
+      "word": "老人被从养护院带走后以2万元卖了房",
+      "onboard_time": 1743958037,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118613,
@@ -2859,6 +2891,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104553,
+      "num": 214145,
+      "word": "A股",
+      "onboard_time": 1743982099,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 104504,
+      "num": 239007,
+      "word": "清明假期后第1天",
+      "onboard_time": 1743982099,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103835,
       "num": 861554,
       "word": "集中精力办好自己的事",
@@ -2881,14 +2929,6 @@
       "onboard_time": 1743914540,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 103244,
-      "num": 103244,
-      "word": "老人被从养护院带走后以2万元卖了房",
-      "onboard_time": 1743958037,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102660,
@@ -3107,12 +3147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86485,
-      "num": 86485,
-      "word": "买黄金一定不能图便宜",
-      "onboard_time": 1743980659,
-      "rank": 28,
-      "category": "财经"
+      "raw_hot": 86727,
+      "num": 133876,
+      "word": "孟子义何与百花杀路透",
+      "onboard_time": 1743981559,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 86481,
@@ -3219,6 +3259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74666,
+      "num": 74666,
+      "word": "钓鱼晒成炭黑大爷走红后朋友发声",
+      "onboard_time": 1743964514,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74179,
       "num": 61527,
       "word": "u17国足vs乌兹别克斯坦u17",
@@ -3259,12 +3307,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 71040,
-      "num": 71040,
-      "word": "湖人战胜雷霆",
-      "onboard_time": 1743981319,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 70203,
+      "num": 70203,
+      "word": "捷豹路虎计划暂停对美出口汽车",
+      "onboard_time": 1743975374,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 70148,
@@ -3299,14 +3347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 67900,
-      "num": 67900,
-      "word": "捷豹路虎计划暂停对美出口汽车",
-      "onboard_time": 1743975374,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 66718,
       "num": 66718,
       "word": "Hyunjun公开",
@@ -3339,20 +3379,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 64343,
-      "num": 64343,
-      "word": "钓鱼晒成炭黑大爷走红后朋友发声",
-      "onboard_time": 1743964514,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63121,
       "num": 95046,
       "word": "三里屯偶遇吴宣仪VaVa",
       "onboard_time": 1743894497,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62990,
+      "num": 62990,
+      "word": "冰湖重生",
+      "onboard_time": 1743981438,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 62822,
@@ -3369,6 +3409,14 @@
       "onboard_time": 1743934881,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60991,
+      "num": 60991,
+      "word": "卫健委不推荐液断生酮代餐减肥",
+      "onboard_time": 1743982040,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 60411,
@@ -3481,14 +3529,6 @@
       "onboard_time": 1743938661,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43398,
-      "num": 43398,
-      "word": "孟子义何与百花杀路透",
-      "onboard_time": 1743981559,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 43218,
