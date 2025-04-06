@@ -1,0 +1,410 @@
+{
+  "runTime": 1743924947765,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1180059,
+        "num": 1188809,
+        "word": "甲亢哥扫货被提醒后细心放好手机",
+        "onboard_time": 1743919101,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 603841,
+        "num": 603841,
+        "word": "人的身高70%取决于父母",
+        "onboard_time": 1743905240,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 35488,
+        "num": 563065,
+        "word": "清明节气的春耕气象密码",
+        "onboard_time": 1743912021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 755956,
+        "num": 556249,
+        "word": "杨幂 内娱史官",
+        "onboard_time": 1743920721,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536255,
+        "num": 536255,
+        "word": "雪梨以设计师身份参加综艺",
+        "onboard_time": 1743922341,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473882,
+        "num": 473882,
+        "word": "美国50万人游行要求特朗普住手",
+        "onboard_time": 1743905300,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 446694,
+        "num": 446694,
+        "word": "家长称高中双休影响孩子考好大学",
+        "onboard_time": 1743919821,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380640,
+        "num": 380640,
+        "word": "爱情公寓的转场方式还是太超前了",
+        "onboard_time": 1743918380,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346065,
+        "num": 346065,
+        "word": "张峻豪演唱会",
+        "onboard_time": 1743921141,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 334960,
+        "num": 334960,
+        "word": "雷军谈小米15年",
+        "onboard_time": 1743909201,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 430428,
+        "num": 329337,
+        "word": "原来一根头发可以分叉这么多",
+        "onboard_time": 1743915441,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303734,
+        "num": 303734,
+        "word": "特朗普回应股市崩盘",
+        "onboard_time": 1743923059,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 287184,
+        "num": 287184,
+        "word": "胖东来起诉经济学家宋清辉索赔百万",
+        "onboard_time": 1743915801,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252751,
+        "num": 252751,
+        "word": "曝金秀贤与金赛纶的通话录音",
+        "onboard_time": 1743898939,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247546,
+        "num": 247546,
+        "word": "车主晒SU7一年保值率91%",
+        "onboard_time": 1743922820,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 246748,
+        "num": 246748,
+        "word": "叶童短裙造型",
+        "onboard_time": 1743919459,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225181,
+        "num": 234929,
+        "word": "小鬼在偶练大群发想你们了",
+        "onboard_time": 1743906441,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141898,
+        "num": 232075,
+        "word": "万岁山景区致歉",
+        "onboard_time": 1743921380,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230905,
+        "num": 230905,
+        "word": "李昀锐哥哥",
+        "onboard_time": 1743909920,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157802,
+        "num": 229749,
+        "word": "男子在山姆采购550万元商品遭冒领",
+        "onboard_time": 1743924440,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283752,
+        "num": 229749,
+        "word": "雷军停更5日来首次发声",
+        "onboard_time": 1743911000,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 229614,
+        "num": 229614,
+        "word": "全红婵一次性发了30张照片",
+        "onboard_time": 1743912801,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227387,
+        "num": 227387,
+        "word": "租房甲醛超标女子想退租被中介骂",
+        "onboard_time": 1743923241,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 933081,
+        "num": 214344,
+        "word": "李昀锐双胞胎哥哥探班",
+        "onboard_time": 1743908421,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114829,
+        "num": 200131,
+        "word": "贾一凡vlog更新",
+        "onboard_time": 1743918860,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108448,
+        "num": 197559,
+        "word": "平台回应4999元代祭扫由品牌部采买",
+        "onboard_time": 1743923059,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197187,
+        "num": 197187,
+        "word": "虞书欣练习室跳likejennie",
+        "onboard_time": 1743924500,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170801,
+        "num": 193492,
+        "word": "李美越",
+        "onboard_time": 1743924620,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159773,
+        "num": 193491,
+        "word": "宋妍霏真把李斯丹妮梦来浪姐了",
+        "onboard_time": 1743918800,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193491,
+        "num": 193490,
+        "word": "突然发现6月到9月没有假期",
+        "onboard_time": 1743921021,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189772,
+        "num": 189772,
+        "word": "出丑越多 成长越快",
+        "onboard_time": 1743921800,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189481,
+        "num": 189481,
+        "word": "减肥黑名单",
+        "onboard_time": 1743924500,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 181115,
+        "num": 181115,
+        "word": "考生虚构考研成绩还带着家人闹",
+        "onboard_time": 1743916161,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170568,
+        "num": 170568,
+        "word": "孙颖莎说应该研究日本选手",
+        "onboard_time": 1743916641,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166295,
+        "num": 166295,
+        "word": "清明假期最后1天你有什么安排",
+        "onboard_time": 1743912561,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161132,
+        "num": 161132,
+        "word": "陪伴了1412天的女朋友",
+        "onboard_time": 1743924683,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151625,
+        "num": 151625,
+        "word": "全女电影",
+        "onboard_time": 1743921740,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150890,
+        "num": 150890,
+        "word": "陈德容越鼓励越支棱",
+        "onboard_time": 1743923122,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149047,
+        "num": 149047,
+        "word": "蓝莓怎么这么便宜了",
+        "onboard_time": 1743910882,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8032,
+        "num": 148618,
+        "word": "川崎重工计划推出神兽机器人",
+        "onboard_time": 1743924920,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148310,
+        "num": 148310,
+        "word": "孝敏婚纱照",
+        "onboard_time": 1743918200,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146487,
+        "num": 146487,
+        "word": "杜华晒与赵丽颖合照",
+        "onboard_time": 1743904940,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144343,
+        "num": 144343,
+        "word": "杨天真聊艺人官宣恋情被骂原因",
+        "onboard_time": 1743920540,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134634,
+        "num": 134634,
+        "word": "甲亢哥保镖一直在吃东西",
+        "onboard_time": 1743920480,
+        "rank": 43,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 131319,
+        "num": 131319,
+        "word": "甲亢哥保镖 嚼嚼嚼",
+        "onboard_time": 1743924559,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123977,
+        "num": 123977,
+        "word": "多哈世乒赛",
+        "onboard_time": 1743921620,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120848,
+        "num": 120848,
+        "word": "李美越8天掉粉超28万",
+        "onboard_time": 1743898039,
+        "rank": 46,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 120574,
+        "num": 120574,
+        "word": "向鹏14比12弗朗西斯卡",
+        "onboard_time": 1743924381,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120570,
+        "num": 120570,
+        "word": "张峻豪日日夜夜",
+        "onboard_time": 1743924739,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119201,
+        "num": 119201,
+        "word": "向鹏11比9弗朗西斯卡",
+        "onboard_time": 1743922881,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在春风里树木也是树人#"
+    }
+  }
+}

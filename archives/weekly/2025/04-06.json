@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743924093769,
+  "endTime": 1743924947765,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 788545,
-      "num": 528464,
+      "num": 556249,
       "word": "杨幂 内娱史官",
       "onboard_time": 1743920721,
       "rank": 30,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 536255,
+      "num": 536255,
+      "word": "雪梨以设计师身份参加综艺",
+      "onboard_time": 1743922341,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 535692,
       "num": 888228,
       "word": "美国亿万富翁提醒民众囤货",
@@ -249,14 +257,6 @@
       "onboard_time": 1743910882,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 417223,
-      "num": 224552,
-      "word": "雪梨以设计师身份参加综艺",
-      "onboard_time": 1743922341,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 415549,
@@ -403,6 +403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 303734,
+      "num": 320293,
+      "word": "特朗普回应股市崩盘",
+      "onboard_time": 1743923059,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 292788,
       "num": 292788,
       "word": "清明假期最后1天你有什么安排",
@@ -531,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247546,
+      "num": 247546,
+      "word": "车主晒SU7一年保值率91%",
+      "onboard_time": 1743922820,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 242188,
       "num": 242188,
       "word": "美国超市物价暴涨30%",
@@ -545,14 +561,6 @@
       "onboard_time": 1743853941,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 233566,
-      "num": 233566,
-      "word": "车主晒SU7一年保值率91%",
-      "onboard_time": 1743922820,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 232486,
@@ -577,6 +585,14 @@
       "onboard_time": 1743859043,
       "rank": 16,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 227387,
+      "num": 227387,
+      "word": "租房甲醛超标女子想退租被中介骂",
+      "onboard_time": 1743923241,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 220264,
@@ -667,6 +683,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 197187,
+      "num": 197187,
+      "word": "虞书欣练习室跳likejennie",
+      "onboard_time": 1743924500,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195374,
       "num": 178570,
       "word": "虞书欣新代言剪影",
@@ -713,6 +737,22 @@
       "onboard_time": 1743905660,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189772,
+      "num": 189772,
+      "word": "出丑越多 成长越快",
+      "onboard_time": 1743921800,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 189481,
+      "num": 189481,
+      "word": "减肥黑名单",
+      "onboard_time": 1743924500,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 189360,
@@ -827,20 +867,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 173360,
-      "num": 173360,
-      "word": "出丑越多 成长越快",
-      "onboard_time": 1743921800,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172874,
       "num": 190853,
       "word": "彩色的黑是吉克隽逸的养老保险",
       "onboard_time": 1743915681,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 170801,
+      "num": 193492,
+      "word": "李美越",
+      "onboard_time": 1743924620,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 170674,
@@ -932,7 +972,7 @@
     },
     {
       "raw_hot": 163130,
-      "num": 163130,
+      "num": 232075,
       "word": "万岁山景区致歉",
       "onboard_time": 1743921380,
       "rank": 37,
@@ -963,6 +1003,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 161132,
+      "num": 161132,
+      "word": "陪伴了1412天的女朋友",
+      "onboard_time": 1743924683,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160276,
       "num": 160276,
       "word": "种地吧直播",
@@ -977,6 +1025,14 @@
       "onboard_time": 1743917241,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 157802,
+      "num": 229749,
+      "word": "男子在山姆采购550万元商品遭冒领",
+      "onboard_time": 1743924440,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155401,
@@ -1099,20 +1155,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131319,
+      "num": 131319,
+      "word": "甲亢哥保镖 嚼嚼嚼",
+      "onboard_time": 1743924559,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 130861,
       "num": 286236,
       "word": "官方回应家长称双休影响考好大学",
       "onboard_time": 1743916701,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130438,
-      "num": 320293,
-      "word": "特朗普回应股市崩盘",
-      "onboard_time": 1743923059,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 130086,
@@ -1195,6 +1251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 123977,
+      "num": 123977,
+      "word": "多哈世乒赛",
+      "onboard_time": 1743921620,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123245,
       "num": 123245,
       "word": "段奥娟唱rap嘴像上发条了",
@@ -1233,6 +1297,22 @@
       "onboard_time": 1743916460,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120574,
+      "num": 120574,
+      "word": "向鹏14比12弗朗西斯卡",
+      "onboard_time": 1743924381,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120570,
+      "num": 120570,
+      "word": "张峻豪日日夜夜",
+      "onboard_time": 1743924739,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 120429,
@@ -1299,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114829,
+      "num": 200131,
+      "word": "贾一凡vlog更新",
+      "onboard_time": 1743918860,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114080,
       "num": 114080,
       "word": "浪姐选人选曲",
@@ -1363,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110468,
-      "num": 110468,
-      "word": "多哈世乒赛",
-      "onboard_time": 1743921620,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109019,
       "num": 109019,
       "word": "檀健次 广西老表标配",
@@ -1384,6 +1464,14 @@
       "word": "招行4月9日起停止ATM扫码存款",
       "onboard_time": 1743911601,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108448,
+      "num": 268707,
+      "word": "平台回应4999元代祭扫由品牌部采买",
+      "onboard_time": 1743923059,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1691,14 +1779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51522,
-      "num": 178459,
-      "word": "租房甲醛超标女子想退租被中介骂",
-      "onboard_time": 1743923241,
-      "rank": 29,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 50772,
       "num": 50772,
       "word": "董宇辉 人是被成就感所驱使的动物",
@@ -1776,14 +1856,6 @@
       "word": "AI修复抗战英雄的模样",
       "onboard_time": 1743864084,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35370,
-      "num": 268707,
-      "word": "平台回应4999元代祭扫由品牌部采买",
-      "onboard_time": 1743923059,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1945,6 +2017,14 @@
       "onboard_time": 1743895999,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 8032,
+      "num": 148618,
+      "word": "川崎重工计划推出神兽机器人",
+      "onboard_time": 1743924920,
+      "rank": 39,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

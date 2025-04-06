@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/06 15:21:33
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/06 15:35:47
 </p>
 </blockquote>
 <p>
@@ -1893,6 +1893,12 @@ Songha公开（热度：554934）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E6%A2%A8%E4%BB%A5%E8%AE%BE%E8%AE%A1%E5%B8%88%E8%BA%AB%E4%BB%BD%E5%8F%82%E5%8A%A0%E7%BB%BC%E8%89%BA%23" target="weibo">
+雪梨以设计师身份参加综艺（热度：536255）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E6%8F%90%E9%86%92%E6%B0%91%E4%BC%97%E5%9B%A4%E8%B4%A7%23" target="weibo">
 美国亿万富翁提醒民众囤货（热度：535692）
 </a>
@@ -2489,12 +2495,6 @@ Hyunjun公开（热度：426369）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%AD%A3%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%8C%96%23" target="weibo">
 加拿大正在印度化（热度：417396）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E6%A2%A8%E4%BB%A5%E8%AE%BE%E8%AE%A1%E5%B8%88%E8%BA%AB%E4%BB%BD%E5%8F%82%E5%8A%A0%E7%BB%BC%E8%89%BA%23" target="weibo">
-雪梨以设计师身份参加综艺（热度：417223）
 </a>
 </li>
 
@@ -3519,6 +3519,12 @@ jayjay呢（热度：316182）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98%23" target="weibo">
+特朗普回应股市崩盘（热度：303734）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%23" target="weibo">
 明日方舟（热度：303477）
 </a>
@@ -4185,6 +4191,12 @@ DeepSeek一句话让赵牧辰脸红（热度：252332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E4%B8%BB%E6%99%92SU7%E4%B8%80%E5%B9%B4%E4%BF%9D%E5%80%BC%E7%8E%8791%25%23" target="weibo">
+车主晒SU7一年保值率91%（热度：247546）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%A2%E5%A9%9A%E5%BC%BA%E5%A5%B8%E6%A1%88%E8%A2%AB%E5%91%8A%E6%AF%8D%E4%BA%B2%E8%AF%B7%E6%B1%82%E8%BF%BD%E8%B4%A3%E5%8A%9E%E6%A1%88%E4%BA%BA%23" target="weibo">
 订婚强奸案被告母亲请求追责办案人（热度：247225）
 </a>
@@ -4395,12 +4407,6 @@ G社是张若昀的站姐吧（热度：239646）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E4%B8%BB%E6%99%92SU7%E4%B8%80%E5%B9%B4%E4%BF%9D%E5%80%BC%E7%8E%8791%25%23" target="weibo">
-车主晒SU7一年保值率91%（热度：233566）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E9%92%88%E7%81%B8%E6%AD%A3%E9%AA%A8%E5%90%8E%E5%B7%B2%E8%80%81%E5%AE%9E%23" target="weibo">
 甲亢哥针灸正骨后已老实（热度：233341）
 </a>
@@ -4475,6 +4481,12 @@ G社是张若昀的站姐吧（热度：239646）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E7%9A%84%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93%23" target="weibo">
 侯明昊一本正经的胡说八道（热度：227641）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%9F%E6%88%BF%E7%94%B2%E9%86%9B%E8%B6%85%E6%A0%87%E5%A5%B3%E5%AD%90%E6%83%B3%E9%80%80%E7%A7%9F%E8%A2%AB%E4%B8%AD%E4%BB%8B%E9%AA%82%23" target="weibo">
+租房甲醛超标女子想退租被中介骂（热度：227387）
 </a>
 </li>
 
@@ -5391,6 +5403,12 @@ hamin还不公开（热度：198897）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%BB%83%E4%B9%A0%E5%AE%A4%E8%B7%B3likejennie%23" target="weibo">
+虞书欣练习室跳likejennie（热度：197187）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%94%B2%E5%84%92%E5%A6%88%E5%A6%88%E5%88%9A%E8%B5%B0%E5%87%BA%E6%B3%95%E5%BA%AD%E5%B0%B1%E6%99%95%E5%80%92%E4%BA%86%23" target="weibo">
 姜甲儒妈妈刚走出法庭就晕倒了（热度：197092）
 </a>
@@ -5751,8 +5769,20 @@ XIUMIN跳了TFBOYS的爱出发（热度：190551）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E4%B8%91%E8%B6%8A%E5%A4%9A%20%E6%88%90%E9%95%BF%E8%B6%8A%E5%BF%AB%23" target="weibo">
+出丑越多 成长越快（热度：189772）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E9%A5%AD%E8%B7%91%E6%AD%A5%E5%92%8C%E6%81%8B%E7%88%B1%E5%AE%9A%E6%A1%A3%23" target="weibo">
 吃饭跑步和恋爱定档（热度：189618）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E9%BB%91%E5%90%8D%E5%8D%95%23" target="weibo">
+减肥黑名单（热度：189481）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ SMTR25练习生颜值（热度：186238）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E9%81%93%E6%80%BB%E8%A3%81%E8%89%BE%E9%93%81%E6%88%90%E7%A6%BB%E4%BB%BB%23" target="weibo">
 乐道总裁艾铁成离任（热度：185608）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E5%AE%A4%E6%8A%A2%E5%A9%B4%E6%A1%884%E5%90%8D%E8%A2%AB%E5%91%8A%E5%9D%87%E6%9C%89%E5%89%8D%E7%A7%91%23" target="weibo">
-入室抢婴案4名被告均有前科（热度：185580）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E9%9D%96%E5%A7%97%E4%BB%A5%E5%89%8D%E6%B2%A1%E6%83%B3%E8%BF%87%E8%A6%81%E5%AD%A9%E5%AD%90%23" target="weibo">
-卢靖姗以前没想过要孩子（热度：185534）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E4%BD%A9%E5%B2%91%E9%80%90%E6%B8%90%E7%AE%A1%E4%B9%90%E5%8C%96%23" target="weibo">
-侯佩岑逐渐管乐化（热度：185510）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%88%BF%E5%AD%90%E7%9A%84%E6%96%B0%E6%A0%87%E5%87%86%E6%9D%A5%E4%BA%86%23" target="weibo">
-好房子的新标准来了（热度：185319）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%8F%B6%E7%B4%AB%E8%96%87%E7%A0%B4%E6%A0%BC%E6%99%8B%E5%8D%87%E6%95%99%E6%8E%88%23" target="weibo">
-29岁叶紫薇破格晋升教授（热度：185220）
 </a>
 </li>
 
