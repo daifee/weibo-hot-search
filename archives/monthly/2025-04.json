@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743968180270,
+  "endTime": 1743971090188,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -18427,6 +18427,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 35765,
+      "num": 48634,
+      "word": "浙江自然博物院发布情况说明",
+      "onboard_time": 1743964395,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35578,
       "num": 76204,
       "word": "重新定义39岁不着调的中年女性",
@@ -18712,14 +18720,6 @@
       "word": "遗嘱库里封存的真实遗愿清单",
       "onboard_time": 1743740601,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30473,
-      "num": 48634,
-      "word": "浙江自然博物院发布情况说明",
-      "onboard_time": 1743964395,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -19627,6 +19627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14624,
+      "num": 15531,
+      "word": "医生科普治焦虑症就得豁得出去",
+      "onboard_time": 1743967634,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 14380,
       "num": 110772,
       "word": "致敬逆行英烈",
@@ -19691,12 +19699,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 13513,
-      "num": 15531,
-      "word": "医生科普治焦虑症就得豁得出去",
-      "onboard_time": 1743967634,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 13731,
+      "num": 13731,
+      "word": "泰国缴获200多万颗疯药",
+      "onboard_time": 1743967933,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13437,
+      "num": 15528,
+      "word": "假期结束",
+      "onboard_time": 1743962416,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 13379,
@@ -19705,14 +19721,6 @@
       "onboard_time": 1743565222,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13178,
-      "num": 15528,
-      "word": "假期结束",
-      "onboard_time": 1743962416,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 13144,
@@ -19763,12 +19771,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12291,
+      "num": 17632,
+      "word": "杨柳絮可能带多种过敏原",
+      "onboard_time": 1743968054,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12190,
       "num": 15359,
       "word": "对故人的思念从未远去",
       "onboard_time": 1743799153,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12156,
+      "num": 13430,
+      "word": "树干底部为什么要涂白",
+      "onboard_time": 1743970573,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 12146,
@@ -19955,6 +19979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9457,
+      "num": 24505,
+      "word": "森林消防员拍防火视频太费腿了",
+      "onboard_time": 1743969494,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9414,
       "num": 17180,
       "word": "如何让企业更有获得感",
@@ -19985,14 +20017,6 @@
       "onboard_time": 1743797954,
       "rank": 23,
       "category": "民生新闻,军事"
-    },
-    {
-      "raw_hot": 9093,
-      "num": 17632,
-      "word": "杨柳絮可能带多种过敏原",
-      "onboard_time": 1743968054,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8946,
