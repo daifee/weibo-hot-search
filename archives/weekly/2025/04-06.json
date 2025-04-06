@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743975431861,
+  "endTime": 1743978114521,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -779,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341794,
+      "num": 399843,
+      "word": "八旬老人拆掉养护院护栏跳下坠亡",
+      "onboard_time": 1743956838,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 340687,
       "num": 217976,
       "word": "导致视力下降的真正原因",
@@ -873,14 +881,6 @@
       "onboard_time": 1743952642,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 304132,
-      "num": 304132,
-      "word": "八旬老人拆掉养护院护栏跳下坠亡",
-      "onboard_time": 1743956838,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 303734,
@@ -2411,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121412,
+      "num": 65075,
+      "word": "半夜醒来发现才是凌晨2点半",
+      "onboard_time": 1743973093,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121240,
       "num": 121240,
       "word": "皇马vs瓦伦西亚",
@@ -3355,6 +3363,22 @@
       "category": "互联网,情感"
     },
     {
+      "raw_hot": 50216,
+      "num": 50216,
+      "word": "身体各处的警告",
+      "onboard_time": 1743975315,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 50180,
+      "num": 50180,
+      "word": "浙江自然博物院发布情况说明",
+      "onboard_time": 1743964395,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47974,
       "num": 207671,
       "word": "王宗源世界杯3米板金牌",
@@ -3483,14 +3507,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35765,
-      "num": 48634,
-      "word": "浙江自然博物院发布情况说明",
-      "onboard_time": 1743964395,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34200,
       "num": 47886,
       "word": "大张伟直播",
@@ -3595,11 +3611,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23585,
+      "num": 23585,
+      "word": "钓鱼晒成炭黑大爷走红后朋友发声",
+      "onboard_time": 1743964514,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23245,
       "num": 158296,
       "word": "丈夫回应阿根廷奇娜去世",
       "onboard_time": 1743946583,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23116,
+      "num": 23116,
+      "word": "消防员跑步式劝大家别上山烧纸",
+      "onboard_time": 1743975674,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3643,12 +3675,20 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 18920,
-      "num": 18920,
-      "word": "半夜醒来发现才是凌晨2点半",
-      "onboard_time": 1743973093,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 19118,
+      "num": 22157,
+      "word": "捷豹路虎计划暂停对美出口汽车",
+      "onboard_time": 1743975374,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 18917,
+      "num": 22132,
+      "word": "iPhone17Air新机模曝光",
+      "onboard_time": 1743977655,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 18686,
@@ -3659,20 +3699,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18267,
-      "num": 18618,
-      "word": "钓鱼晒成炭黑大爷走红后朋友发声",
-      "onboard_time": 1743964514,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17206,
       "num": 27332,
       "word": "娘口三三具像化",
       "onboard_time": 1743886754,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16838,
+      "num": 22098,
+      "word": "假期结束",
+      "onboard_time": 1743962416,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16651,
+      "num": 22096,
+      "word": "泰国缴获200多万颗疯药",
+      "onboard_time": 1743967933,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 15980,
@@ -3699,14 +3747,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 14433,
-      "num": 14433,
-      "word": "泰国缴获200多万颗疯药",
-      "onboard_time": 1743967933,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 14268,
       "num": 27330,
       "word": "PCL2025",
@@ -3721,14 +3761,6 @@
       "onboard_time": 1743966734,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13537,
-      "num": 15528,
-      "word": "假期结束",
-      "onboard_time": 1743962416,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 13498,
@@ -3785,14 +3817,6 @@
       "onboard_time": 1743917480,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 10757,
-      "num": 13527,
-      "word": "捷豹路虎计划暂停对美出口汽车",
-      "onboard_time": 1743975374,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 10407,

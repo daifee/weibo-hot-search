@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/07 05:37:11
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/07 06:21:54
 </p>
 </blockquote>
 <p>
@@ -3471,6 +3471,12 @@ Wendy泡泡发长文（热度：369749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%E6%8B%86%E6%8E%89%E5%85%BB%E6%8A%A4%E9%99%A2%E6%8A%A4%E6%A0%8F%E8%B7%B3%E4%B8%8B%E5%9D%A0%E4%BA%A1%23" target="weibo">
+八旬老人拆掉养护院护栏跳下坠亡（热度：341794）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Uzi%E5%A6%BB%E5%AD%90%E5%AE%A3%E5%B8%83%E8%83%9C%E8%AF%89%23" target="weibo">
 Uzi妻子宣布胜诉（热度：341626）
 </a>
@@ -3869,12 +3875,6 @@ jayjay呢（热度：316182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8B%E5%90%8E%E4%BC%9A%E7%81%ABIU%20%E5%86%B7%E9%97%A8%E6%AD%8C%E6%89%8B%E5%AD%99%E7%87%95%E5%A7%BF%23" target="weibo">
 之后会火IU 冷门歌手孙燕姿（热度：304881）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%E6%8B%86%E6%8E%89%E5%85%BB%E6%8A%A4%E9%99%A2%E6%8A%A4%E6%A0%8F%E8%B7%B3%E4%B8%8B%E5%9D%A0%E4%BA%A1%23" target="weibo">
-八旬老人拆掉养护院护栏跳下坠亡（热度：304132）
 </a>
 </li>
 

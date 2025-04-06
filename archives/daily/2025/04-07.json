@@ -1,6 +1,6 @@
 {
   "startTime": 1743956845609,
-  "endTime": 1743975431861,
+  "endTime": 1743978114521,
   "band_list": [
     {
       "raw_hot": 816434,
@@ -67,20 +67,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341794,
+      "num": 399843,
+      "word": "八旬老人拆掉养护院护栏跳下坠亡",
+      "onboard_time": 1743956838,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305927,
       "num": 305927,
       "word": "美国关税政策引发全球反击",
       "onboard_time": 1743952642,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 304132,
-      "num": 304132,
-      "word": "八旬老人拆掉养护院护栏跳下坠亡",
-      "onboard_time": 1743956838,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 299044,
@@ -225,6 +225,14 @@
       "onboard_time": 1743949462,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121412,
+      "num": 65075,
+      "word": "半夜醒来发现才是凌晨2点半",
+      "onboard_time": 1743973093,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 120076,
@@ -475,8 +483,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50216,
+      "num": 50216,
+      "word": "身体各处的警告",
+      "onboard_time": 1743975315,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 50180,
+      "num": 50180,
+      "word": "浙江自然博物院发布情况说明",
+      "onboard_time": 1743964395,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39958,
-      "num": 39192,
+      "num": 39461,
       "word": "董力把家人气得打电话兴师问罪",
       "onboard_time": 1743943940,
       "rank": 49,
@@ -507,14 +531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35765,
-      "num": 48634,
-      "word": "浙江自然博物院发布情况说明",
-      "onboard_time": 1743964395,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30842,
       "num": 30842,
       "word": "外国人的视角打开周深演唱会",
@@ -527,6 +543,22 @@
       "num": 24830,
       "word": "演戏卖假货骗了3万多名老人",
       "onboard_time": 1743948683,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23585,
+      "num": 23585,
+      "word": "钓鱼晒成炭黑大爷走红后朋友发声",
+      "onboard_time": 1743964514,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23116,
+      "num": 23116,
+      "word": "消防员跑步式劝大家别上山烧纸",
+      "onboard_time": 1743975674,
       "rank": 39,
       "category": "民生新闻"
     },
@@ -547,20 +579,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18920,
-      "num": 18920,
-      "word": "半夜醒来发现才是凌晨2点半",
-      "onboard_time": 1743973093,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 19118,
+      "num": 22157,
+      "word": "捷豹路虎计划暂停对美出口汽车",
+      "onboard_time": 1743975374,
+      "rank": 49,
+      "category": "汽车"
     },
     {
-      "raw_hot": 18267,
-      "num": 18618,
-      "word": "钓鱼晒成炭黑大爷走红后朋友发声",
-      "onboard_time": 1743964514,
+      "raw_hot": 18917,
+      "num": 22132,
+      "word": "iPhone17Air新机模曝光",
+      "onboard_time": 1743977655,
       "rank": 46,
-      "category": "民生新闻"
+      "category": "数码"
+    },
+    {
+      "raw_hot": 16838,
+      "num": 22098,
+      "word": "假期结束",
+      "onboard_time": 1743962416,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16651,
+      "num": 22096,
+      "word": "泰国缴获200多万颗疯药",
+      "onboard_time": 1743967933,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14624,
@@ -571,28 +619,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 14433,
-      "num": 14433,
-      "word": "泰国缴获200多万颗疯药",
-      "onboard_time": 1743967933,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 14266,
       "num": 17096,
       "word": "刘宇宁说目前一个剧都没接",
       "onboard_time": 1743966734,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13537,
-      "num": 15528,
-      "word": "假期结束",
-      "onboard_time": 1743962416,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 12681,
@@ -617,14 +649,6 @@
       "onboard_time": 1743970573,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 10757,
-      "num": 13527,
-      "word": "捷豹路虎计划暂停对美出口汽车",
-      "onboard_time": 1743975374,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 9457,
