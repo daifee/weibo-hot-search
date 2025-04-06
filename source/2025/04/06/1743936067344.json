@@ -1,0 +1,410 @@
+{
+  "runTime": 1743936067344,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 854917,
+        "num": 1136786,
+        "word": "男子在山姆采购550万元商品遭冒领",
+        "onboard_time": 1743924440,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659287,
+        "num": 659287,
+        "word": "中国人捡到活的第一件事就是投喂",
+        "onboard_time": 1743931761,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150505,
+        "num": 493535,
+        "word": "我国消费市场加速升温",
+        "onboard_time": 1743929301,
+        "rank": 2,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 459806,
+        "num": 459806,
+        "word": "雪梨参加综艺被淘汰",
+        "onboard_time": 1743931100,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446278,
+        "num": 446278,
+        "word": "亲妹妹只对真姐夫破防",
+        "onboard_time": 1743927201,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442836,
+        "num": 442836,
+        "word": "美媒称iPhone最高或涨至1.6万元",
+        "onboard_time": 1743929242,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 440909,
+        "num": 440909,
+        "word": "香蕉夹",
+        "onboard_time": 1743926300,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 430792,
+        "num": 430792,
+        "word": "BLACKPINK即将五月回归",
+        "onboard_time": 1743934101,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372878,
+        "num": 372878,
+        "word": "印度一男子开床车上路多辆摩托跟拍",
+        "onboard_time": 1743927860,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159290,
+        "num": 371136,
+        "word": "狗子被忘服务区一路狂奔追赶主人",
+        "onboard_time": 1743932301,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 732915,
+        "num": 369967,
+        "word": "西湖猝鱼",
+        "onboard_time": 1743929481,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 605572,
+        "num": 367780,
+        "word": "胡连馨15分钟考完科目二",
+        "onboard_time": 1743931100,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457610,
+        "num": 365822,
+        "word": "kissoflife一夜掉粉20万",
+        "onboard_time": 1743929000,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418864,
+        "num": 364571,
+        "word": "朱正廷说一直都有在联系",
+        "onboard_time": 1743935241,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363355,
+        "num": 363355,
+        "word": "特朗普是美国经济特效减肥药",
+        "onboard_time": 1743932420,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 282589,
+        "num": 334692,
+        "word": "黄英只有不到80斤了",
+        "onboard_time": 1743925221,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232505,
+        "num": 323969,
+        "word": "徐志胜做梦也想要的发型出现了",
+        "onboard_time": 1743935241,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225663,
+        "num": 319870,
+        "word": "网红阿根廷奇娜去世",
+        "onboard_time": 1743929061,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 316587,
+        "num": 316587,
+        "word": "甲亢哥扫货被提醒后细心放好手机",
+        "onboard_time": 1743919101,
+        "rank": 18,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 184618,
+        "num": 251803,
+        "word": "医生谈网红阿根廷奇娜因低血糖去世",
+        "onboard_time": 1743934582,
+        "rank": 19,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 597396,
+        "num": 234863,
+        "word": "你的工资不能低于这个数字",
+        "onboard_time": 1743933500,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567762,
+        "num": 228680,
+        "word": "李昀锐双胞胎哥哥探班",
+        "onboard_time": 1743908421,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210280,
+        "num": 210280,
+        "word": "冯小刚女儿晒与赵丽颖合照",
+        "onboard_time": 1743929961,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201201,
+        "num": 201201,
+        "word": "减肥黑名单",
+        "onboard_time": 1743924500,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 192326,
+        "num": 192326,
+        "word": "孙俪眼神戏像真看见20万了",
+        "onboard_time": 1743932720,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82253,
+        "num": 177685,
+        "word": "最低10元就能AI复活去世亲人",
+        "onboard_time": 1743934161,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 176300,
+        "num": 176300,
+        "word": "家属称38万元停尸费已全部减免",
+        "onboard_time": 1743932602,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158772,
+        "num": 158772,
+        "word": "虞书欣练习室跳likejennie",
+        "onboard_time": 1743924500,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156231,
+        "num": 156231,
+        "word": "美国农业将受中国关税最严重打击",
+        "onboard_time": 1743925461,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150119,
+        "num": 150119,
+        "word": "杨幂 内娱史官",
+        "onboard_time": 1743920721,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139723,
+        "num": 139723,
+        "word": "美国50万人游行要求特朗普住手",
+        "onboard_time": 1743905300,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123655,
+        "num": 123655,
+        "word": "让手机有玩缩力 字体设成楷体",
+        "onboard_time": 1743929361,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122636,
+        "num": 122636,
+        "word": "胖东来起诉经济学家宋清辉索赔百万",
+        "onboard_time": 1743915801,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121586,
+        "num": 121586,
+        "word": "雷军谈小米15年",
+        "onboard_time": 1743909201,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113273,
+        "num": 113273,
+        "word": "迪丽热巴早期随拍",
+        "onboard_time": 1743927980,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111261,
+        "num": 111261,
+        "word": "初晨裴擒虎五杀",
+        "onboard_time": 1743935720,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110585,
+        "num": 110585,
+        "word": "中东股市大跌",
+        "onboard_time": 1743934221,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167762,
+        "num": 110415,
+        "word": "蒋一侨 香飘飘千金",
+        "onboard_time": 1743925461,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108437,
+        "num": 108437,
+        "word": "给环卫工人二百块钱只能给老婆花",
+        "onboard_time": 1743935061,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107833,
+        "num": 107833,
+        "word": "张峻豪这粉海",
+        "onboard_time": 1743931100,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104802,
+        "num": 104802,
+        "word": "TES投诉LPL导播镜头",
+        "onboard_time": 1743926781,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102879,
+        "num": 102879,
+        "word": "一瓯春",
+        "onboard_time": 1743934700,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19673,
+        "num": 100243,
+        "word": "向阳花硬刚污蔑片段",
+        "onboard_time": 1743935841,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100199,
+        "num": 100199,
+        "word": "香椿芽",
+        "onboard_time": 1743935001,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95478,
+        "num": 95478,
+        "word": "李美越",
+        "onboard_time": 1743924620,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 94816,
+        "num": 94816,
+        "word": "冰花猫眼美甲",
+        "onboard_time": 1743935661,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 92563,
+        "num": 92563,
+        "word": "黄景瑜林一同框",
+        "onboard_time": 1743932541,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89067,
+        "num": 89067,
+        "word": "张峻豪演唱会",
+        "onboard_time": 1743921141,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89050,
+        "num": 89050,
+        "word": "T1对战GEN",
+        "onboard_time": 1743931702,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72131,
+        "num": 86776,
+        "word": "一边变脸一边跳街舞惊艳老外",
+        "onboard_time": 1743935300,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于绿化祖国总书记这样说#"
+    }
+  }
+}
