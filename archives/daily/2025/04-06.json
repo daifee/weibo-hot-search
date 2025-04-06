@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743905907650,
+  "endTime": 1743908894932,
   "band_list": [
     {
       "raw_hot": 1765989,
@@ -9,6 +9,14 @@
       "onboard_time": 1743867083,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1641221,
+      "num": 1641221,
+      "word": "美国50万人游行要求特朗普住手",
+      "onboard_time": 1743905300,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1499968,
@@ -35,12 +43,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1053889,
+      "num": 720610,
+      "word": "小鬼在偶练大群发想你们了",
+      "onboard_time": 1743906441,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1033005,
       "num": 1033005,
       "word": "刘奕畅拒演苍兰诀男二",
       "onboard_time": 1743862343,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 931083,
+      "num": 246096,
+      "word": "中核招聘",
+      "onboard_time": 1743906500,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 928693,
+      "num": 928693,
+      "word": "人的身高70%取决于父母",
+      "onboard_time": 1743905240,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 707811,
@@ -57,6 +89,22 @@
       "onboard_time": 1743898460,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 624865,
+      "num": 624865,
+      "word": "杜华晒与赵丽颖合照",
+      "onboard_time": 1743904940,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 611226,
+      "num": 546829,
+      "word": "李昀锐双胞胎哥哥探班",
+      "onboard_time": 1743908421,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 549416,
@@ -105,6 +153,14 @@
       "onboard_time": 1743859102,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 400052,
+      "num": 400052,
+      "word": "刘奕畅讲述与虞书欣吵架始末",
+      "onboard_time": 1743906380,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 394843,
@@ -171,20 +227,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334880,
+      "num": 178189,
+      "word": "空少裸辞航司楼下卖烧烤月入两三万",
+      "onboard_time": 1743906980,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331473,
       "num": 303802,
       "word": "刘奕畅 我的女主",
       "onboard_time": 1743866783,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 321581,
-      "num": 321581,
-      "word": "美国50万人游行要求特朗普住手",
-      "onboard_time": 1743905300,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 319856,
@@ -203,10 +259,10 @@
       "category": "财经"
     },
     {
-      "raw_hot": 310192,
-      "num": 271711,
-      "word": "杜华晒与赵丽颖合照",
-      "onboard_time": 1743904940,
+      "raw_hot": 305306,
+      "num": 240080,
+      "word": "李现打鸟获生态环境部认可",
+      "onboard_time": 1743907760,
       "rank": 13,
       "category": "艺人"
     },
@@ -265,6 +321,14 @@
       "onboard_time": 1743864623,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 251516,
+      "num": 234440,
+      "word": "春来定风波定档",
+      "onboard_time": 1743907820,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 242188,
@@ -363,6 +427,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 190338,
+      "num": 179915,
+      "word": "00后开始提前处理数字遗产",
+      "onboard_time": 1743905660,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185704,
       "num": 185704,
       "word": "九尾太自律了",
@@ -384,14 +456,6 @@
       "word": "老人离世留财产给保姆要求操办海葬",
       "onboard_time": 1743900620,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179915,
-      "num": 179915,
-      "word": "00后开始提前处理数字遗产",
-      "onboard_time": 1743905660,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -427,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162831,
-      "num": 162831,
-      "word": "人的身高70%取决于父母",
-      "onboard_time": 1743905240,
-      "rank": 31,
-      "category": "科学科普"
+      "raw_hot": 164451,
+      "num": 164451,
+      "word": "这样切水果不脏手又好看",
+      "onboard_time": 1743906741,
+      "rank": 27,
+      "category": "休闲"
     },
     {
       "raw_hot": 162510,
@@ -443,11 +507,27 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 140373,
+      "num": 136961,
+      "word": "狗狗把猫咪舔成芒果核了",
+      "onboard_time": 1743907280,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140250,
       "num": 140250,
       "word": "女生追星冲向车头被撞倒",
       "onboard_time": 1743863004,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135776,
+      "num": 135776,
+      "word": "男子扫墓时刮彩票中万元大奖",
+      "onboard_time": 1743908000,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -473,6 +553,14 @@
       "onboard_time": 1743870860,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129678,
+      "num": 129678,
+      "word": "何炅说秦洗头继续营业",
+      "onboard_time": 1743908061,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 129416,
@@ -529,6 +617,14 @@
       "onboard_time": 1743898699,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122472,
+      "num": 122472,
+      "word": "花少南 中国boy",
+      "onboard_time": 1743908360,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 121240,
@@ -609,6 +705,14 @@
       "onboard_time": 1743869900,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112087,
+      "num": 112087,
+      "word": "王琳凯在偶练群里发了想大家",
+      "onboard_time": 1743908240,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 111669,
@@ -705,6 +809,22 @@
       "onboard_time": 1743861383,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91893,
+      "num": 91893,
+      "word": "房琪在浪姐的表现",
+      "onboard_time": 1743906320,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 89818,
+      "num": 89818,
+      "word": "何老板是个大漏勺怎么办",
+      "onboard_time": 1743908661,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 89243,
@@ -987,8 +1107,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13254,
-      "num": 364648,
+      "raw_hot": 13498,
+      "num": 771278,
       "word": "清明上河图奇妙游",
       "onboard_time": 1743816920,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743905907650,
+  "endTime": 1743908894932,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -385,6 +385,14 @@
       "onboard_time": 1743603685,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1641221,
+      "num": 1641221,
+      "word": "美国50万人游行要求特朗普住手",
+      "onboard_time": 1743905300,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1637257,
@@ -955,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1053889,
+      "num": 720610,
+      "word": "小鬼在偶练大群发想你们了",
+      "onboard_time": 1743906441,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1051556,
       "num": 1168249,
       "word": "吴宣仪情商",
@@ -1169,6 +1185,22 @@
       "onboard_time": 1743746120,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 931083,
+      "num": 246096,
+      "word": "中核招聘",
+      "onboard_time": 1743906500,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 928693,
+      "num": 928693,
+      "word": "人的身高70%取决于父母",
+      "onboard_time": 1743905240,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 928481,
@@ -1883,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 624865,
+      "num": 624865,
+      "word": "杜华晒与赵丽颖合照",
+      "onboard_time": 1743904940,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624310,
       "num": 400709,
       "word": "邓为站姐发了fx",
@@ -1921,6 +1961,14 @@
       "onboard_time": 1743864623,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 611226,
+      "num": 546829,
+      "word": "李昀锐双胞胎哥哥探班",
+      "onboard_time": 1743908421,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 610967,
@@ -3283,6 +3331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 400052,
+      "num": 400052,
+      "word": "刘奕畅讲述与虞书欣吵架始末",
+      "onboard_time": 1743906380,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399588,
       "num": 399588,
       "word": "10元盒饭姐因浪费气得不想出摊",
@@ -4051,6 +4107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334880,
+      "num": 178189,
+      "word": "空少裸辞航司楼下卖烧烤月入两三万",
+      "onboard_time": 1743906980,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334731,
       "num": 334731,
       "word": "周雨说孙颖莎影响力太大了",
@@ -4235,14 +4299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 321581,
-      "num": 321581,
-      "word": "美国50万人游行要求特朗普住手",
-      "onboard_time": 1743905300,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 320820,
       "num": 320820,
       "word": "冬去春来 杨洋章若楠",
@@ -4387,14 +4443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 310192,
-      "num": 271711,
-      "word": "杜华晒与赵丽颖合照",
-      "onboard_time": 1743904940,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 308936,
       "num": 308936,
       "word": "侯佩岑否认整容",
@@ -4473,6 +4521,14 @@
       "onboard_time": 1743479363,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305306,
+      "num": 240080,
+      "word": "李现打鸟获生态环境部认可",
+      "onboard_time": 1743907760,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 304881,
@@ -5265,6 +5321,14 @@
       "onboard_time": 1743570804,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251516,
+      "num": 234440,
+      "word": "春来定风波定档",
+      "onboard_time": 1743907820,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 250720,
@@ -7267,6 +7331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190338,
+      "num": 179915,
+      "word": "00后开始提前处理数字遗产",
+      "onboard_time": 1743905660,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190229,
       "num": 190229,
       "word": "尹锡悦宣布紧急戒严违反戒严法",
@@ -7920,14 +7992,6 @@
       "word": "女子潜水被鲨鱼咬残水下未配安全员",
       "onboard_time": 1743482964,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179915,
-      "num": 179915,
-      "word": "00后开始提前处理数字遗产",
-      "onboard_time": 1743905660,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -8763,6 +8827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164451,
+      "num": 164451,
+      "word": "这样切水果不脏手又好看",
+      "onboard_time": 1743906741,
+      "rank": 27,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 164437,
       "num": 164437,
       "word": "节气里的大美中国",
@@ -8841,14 +8913,6 @@
       "onboard_time": 1743773782,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162831,
-      "num": 162831,
-      "word": "人的身高70%取决于父母",
-      "onboard_time": 1743905240,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 162603,
@@ -10371,6 +10435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140373,
+      "num": 136961,
+      "word": "狗狗把猫咪舔成芒果核了",
+      "onboard_time": 1743907280,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140369,
       "num": 140369,
       "word": "刘学义新剧痛失编制",
@@ -10713,6 +10785,14 @@
       "onboard_time": 1743590181,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135776,
+      "num": 135776,
+      "word": "男子扫墓时刮彩票中万元大奖",
+      "onboard_time": 1743908000,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135774,
@@ -11225,6 +11305,14 @@
       "onboard_time": 1743822740,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129678,
+      "num": 129678,
+      "word": "何炅说秦洗头继续营业",
+      "onboard_time": 1743908061,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 129575,
@@ -11753,6 +11841,14 @@
       "onboard_time": 1743842781,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122472,
+      "num": 122472,
+      "word": "花少南 中国boy",
+      "onboard_time": 1743908360,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 122448,
@@ -12500,7 +12596,7 @@
     },
     {
       "raw_hot": 113290,
-      "num": 411525,
+      "num": 771278,
       "word": "清明上河图奇妙游",
       "onboard_time": 1743816920,
       "rank": 37,
@@ -12585,6 +12681,14 @@
       "onboard_time": 1743510204,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112087,
+      "num": 112087,
+      "word": "王琳凯在偶练群里发了想大家",
+      "onboard_time": 1743908240,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 112046,
@@ -13635,6 +13739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 91893,
+      "num": 91893,
+      "word": "房琪在浪姐的表现",
+      "onboard_time": 1743906320,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91886,
       "num": 91886,
       "word": "广东上海对抗强度真不小",
@@ -13728,6 +13840,14 @@
       "word": "黄霄雲方回应翻唱争议",
       "onboard_time": 1743432623,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89818,
+      "num": 89818,
+      "word": "何老板是个大漏勺怎么办",
+      "onboard_time": 1743908661,
+      "rank": 46,
       "category": "艺人"
     },
     {

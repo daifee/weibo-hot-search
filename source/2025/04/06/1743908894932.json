@@ -1,0 +1,410 @@
+{
+  "runTime": 1743908894932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1641221,
+        "num": 1641221,
+        "word": "美国50万人游行要求特朗普住手",
+        "onboard_time": 1743905300,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 928693,
+        "num": 928693,
+        "word": "人的身高70%取决于父母",
+        "onboard_time": 1743905240,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 13498,
+        "num": 771278,
+        "word": "清明上河图奇妙游",
+        "onboard_time": 1743816920,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1053889,
+        "num": 720610,
+        "word": "小鬼在偶练大群发想你们了",
+        "onboard_time": 1743906441,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624865,
+        "num": 624865,
+        "word": "杜华晒与赵丽颖合照",
+        "onboard_time": 1743904940,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579682,
+        "num": 579682,
+        "word": "陈芋汐世界杯冠军",
+        "onboard_time": 1743895938,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 611226,
+        "num": 546829,
+        "word": "李昀锐双胞胎哥哥探班",
+        "onboard_time": 1743908421,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400052,
+        "num": 400052,
+        "word": "刘奕畅讲述与虞书欣吵架始末",
+        "onboard_time": 1743906380,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312305,
+        "num": 312305,
+        "word": "全红婵世界杯银牌",
+        "onboard_time": 1743896238,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246510,
+        "num": 246510,
+        "word": "美国亿万富翁提醒民众囤货",
+        "onboard_time": 1743867021,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 931083,
+        "num": 246096,
+        "word": "中核招聘",
+        "onboard_time": 1743906500,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 837679,
+        "num": 242646,
+        "word": "曝金秀贤与金赛纶的通话录音",
+        "onboard_time": 1743898939,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387572,
+        "num": 241455,
+        "word": "NINEPERCENT七周年",
+        "onboard_time": 1743896657,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305306,
+        "num": 240080,
+        "word": "李现打鸟获生态环境部认可",
+        "onboard_time": 1743907760,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273687,
+        "num": 237467,
+        "word": "从前车马很慢所以丑事也传得慢",
+        "onboard_time": 1743896238,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251516,
+        "num": 234440,
+        "word": "春来定风波定档",
+        "onboard_time": 1743907820,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234344,
+        "num": 234344,
+        "word": "刘奕畅拒演苍兰诀男二",
+        "onboard_time": 1743862343,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197771,
+        "num": 197771,
+        "word": "假期最后1天",
+        "onboard_time": 1743895637,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197144,
+        "num": 197144,
+        "word": "机场回应粉丝扑向艺人车辆被刮倒",
+        "onboard_time": 1743898460,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178702,
+        "num": 178702,
+        "word": "李美越8天掉粉超28万",
+        "onboard_time": 1743898039,
+        "rank": 19,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 334880,
+        "num": 178189,
+        "word": "空少裸辞航司楼下卖烧烤月入两三万",
+        "onboard_time": 1743906980,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309559,
+        "num": 177621,
+        "word": "出轨率最低的三个星座男",
+        "onboard_time": 1743896419,
+        "rank": 21,
+        "category": "情感,剧集"
+      },
+      {
+        "raw_hot": 191110,
+        "num": 177248,
+        "word": "Jennie科切拉",
+        "onboard_time": 1743872718,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190338,
+        "num": 176051,
+        "word": "00后开始提前处理数字遗产",
+        "onboard_time": 1743905660,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189275,
+        "num": 175229,
+        "word": "全家喝五指毛桃煲鸡汤中毒2人进ICU",
+        "onboard_time": 1743898819,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175154,
+        "num": 175154,
+        "word": "杨超越回复vava道歉",
+        "onboard_time": 1743867562,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165177,
+        "num": 165177,
+        "word": "袁隆平墓前有一束特别的稻穗",
+        "onboard_time": 1743866302,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164451,
+        "num": 164451,
+        "word": "这样切水果不脏手又好看",
+        "onboard_time": 1743906741,
+        "rank": 27,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 145205,
+        "num": 145205,
+        "word": "甲亢哥一句句OMG击碎老外偏见",
+        "onboard_time": 1743897139,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 137379,
+        "num": 137379,
+        "word": "胖东来起诉博主两个小段",
+        "onboard_time": 1743894737,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140373,
+        "num": 136961,
+        "word": "狗狗把猫咪舔成芒果核了",
+        "onboard_time": 1743907280,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135776,
+        "num": 135776,
+        "word": "男子扫墓时刮彩票中万元大奖",
+        "onboard_time": 1743908000,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130502,
+        "num": 130502,
+        "word": "刘亦菲早期穿搭",
+        "onboard_time": 1743896597,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 129678,
+        "num": 129678,
+        "word": "何炅说秦洗头继续营业",
+        "onboard_time": 1743908061,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127382,
+        "num": 127382,
+        "word": "加沙人手机录下生命最后一刻的枪声",
+        "onboard_time": 1743903980,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124387,
+        "num": 124387,
+        "word": "陈芋汐全红婵断层包揽金银",
+        "onboard_time": 1743905421,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122472,
+        "num": 122472,
+        "word": "花少南 中国boy",
+        "onboard_time": 1743908360,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112087,
+        "num": 112087,
+        "word": "王琳凯在偶练群里发了想大家",
+        "onboard_time": 1743908240,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110504,
+        "num": 110504,
+        "word": "九尾太自律了",
+        "onboard_time": 1743903620,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110291,
+        "num": 110291,
+        "word": "鸟鸟听说能骂志胜就来了",
+        "onboard_time": 1743873438,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102486,
+        "num": 102486,
+        "word": "导致视力下降的真正原因",
+        "onboard_time": 1743860481,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101449,
+        "num": 101449,
+        "word": "多地将出现30摄氏度气温",
+        "onboard_time": 1743901159,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100533,
+        "num": 100533,
+        "word": "女生追星冲向车头被撞倒",
+        "onboard_time": 1743863004,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95130,
+        "num": 95130,
+        "word": "老人离世留财产给保姆要求操办海葬",
+        "onboard_time": 1743900620,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94036,
+        "num": 94036,
+        "word": "男子路遇雪豹尸体疑遭车辆撞击",
+        "onboard_time": 1743895697,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91893,
+        "num": 91893,
+        "word": "房琪在浪姐的表现",
+        "onboard_time": 1743906320,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89818,
+        "num": 89818,
+        "word": "何老板是个大漏勺怎么办",
+        "onboard_time": 1743908661,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89406,
+        "num": 89406,
+        "word": "顾客失联外卖员回药店问是不是救命药",
+        "onboard_time": 1743867021,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87201,
+        "num": 87201,
+        "word": "长期用吸管喝水会影响健康",
+        "onboard_time": 1743898699,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83083,
+        "num": 83083,
+        "word": "鞠婧祎陈都灵杀青合照",
+        "onboard_time": 1743902061,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平总书记这些深情话语#"
+    }
+  }
+}
