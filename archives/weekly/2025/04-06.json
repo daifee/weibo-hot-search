@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743932210686,
+  "endTime": 1743935092508,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -227,12 +227,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 606395,
+      "num": 229251,
+      "word": "你的工资不能低于这个数字",
+      "onboard_time": 1743933500,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 604427,
       "num": 604427,
       "word": "全红婵一次性发了30张照片",
       "onboard_time": 1743912801,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 604311,
+      "num": 352589,
+      "word": "胡连馨15分钟考完科目二",
+      "onboard_time": 1743931100,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 597601,
@@ -249,6 +265,14 @@
       "onboard_time": 1743909201,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 595914,
+      "num": 595914,
+      "word": "中国人捡到活的第一件事就是投喂",
+      "onboard_time": 1743931761,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 582549,
@@ -313,6 +337,14 @@
       "onboard_time": 1743919821,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 504554,
+      "num": 504554,
+      "word": "雪梨参加综艺被淘汰",
+      "onboard_time": 1743931100,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 500528,
@@ -411,12 +443,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 379563,
-      "num": 379563,
-      "word": "雪梨参加综艺被淘汰",
-      "onboard_time": 1743931100,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 371312,
+      "num": 371312,
+      "word": "BLACKPINK即将五月回归",
+      "onboard_time": 1743934101,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 369188,
@@ -465,6 +497,14 @@
       "onboard_time": 1743895697,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 347600,
+      "num": 347600,
+      "word": "特朗普是美国经济特效减肥药",
+      "onboard_time": 1743932420,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 340687,
@@ -659,12 +699,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 255284,
-      "num": 255284,
-      "word": "胡连馨15分钟考完科目二",
-      "onboard_time": 1743931100,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 251866,
+      "num": 251866,
+      "word": "孙俪眼神戏像真看见20万了",
+      "onboard_time": 1743932720,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 251516,
@@ -1011,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178852,
+      "num": 178852,
+      "word": "家属称38万元停尸费已全部减免",
+      "onboard_time": 1743932602,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177706,
       "num": 169128,
       "word": "cpf万能嗑糖公式",
@@ -1267,12 +1315,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 142147,
-      "num": 142147,
-      "word": "中国人捡到活的第一件事就是投喂",
-      "onboard_time": 1743931761,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 143698,
+      "num": 143698,
+      "word": "狗子被忘服务区一路狂奔追赶主人",
+      "onboard_time": 1743932301,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140837,
@@ -1507,6 +1555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 122361,
+      "num": 122361,
+      "word": "一瓯春",
+      "onboard_time": 1743934700,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121890,
       "num": 121890,
       "word": "F1",
@@ -1593,6 +1649,14 @@
       "onboard_time": 1743902660,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116716,
+      "num": 116716,
+      "word": "黄景瑜林一同框",
+      "onboard_time": 1743932541,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 116280,
@@ -1736,6 +1800,14 @@
       "word": "全球股市累计蒸发近5万亿美元",
       "onboard_time": 1743910822,
       "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 107596,
+      "num": 107596,
+      "word": "中东股市大跌",
+      "onboard_time": 1743934221,
+      "rank": 39,
       "category": "财经"
     },
     {
@@ -1931,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85901,
+      "num": 85901,
+      "word": "给环卫工人二百块钱只能给老婆花",
+      "onboard_time": 1743935061,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85794,
       "num": 85794,
       "word": "孙燕姿演唱会",
@@ -1953,6 +2033,14 @@
       "onboard_time": 1743865583,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83963,
+      "num": 83963,
+      "word": "香椿芽",
+      "onboard_time": 1743935001,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 83809,
@@ -2067,6 +2155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61026,
+      "num": 157406,
+      "word": "韩国又一架消防直升机坠毁",
+      "onboard_time": 1743934881,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57909,
       "num": 57909,
       "word": "敖瑞鹏说自己是白鹿的掌中宝",
@@ -2081,6 +2177,22 @@
       "onboard_time": 1743857241,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53424,
+      "num": 230216,
+      "word": "医生谈网红阿根廷奇娜因低血糖去世",
+      "onboard_time": 1743934582,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 52531,
+      "num": 323801,
+      "word": "最低10元就能AI复活去世亲人",
+      "onboard_time": 1743934161,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 50772,
