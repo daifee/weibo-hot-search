@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743924947765,
+  "endTime": 1743928140901,
   "band_list": [
     {
       "raw_hot": 2576443,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1307947,
+      "num": 1307947,
+      "word": "黄英只有不到80斤了",
+      "onboard_time": 1743925221,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1290624,
       "num": 1290624,
       "word": "甲亢哥扫货被提醒后细心放好手机",
@@ -75,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 995124,
+      "num": 995124,
+      "word": "男子在山姆采购550万元商品遭冒领",
+      "onboard_time": 1743924440,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 992995,
       "num": 556519,
       "word": "中核招聘",
@@ -89,6 +105,14 @@
       "onboard_time": 1743905240,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 913006,
+      "num": 351594,
+      "word": "减肥黑名单",
+      "onboard_time": 1743924500,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 858817,
@@ -171,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 597601,
+      "num": 597601,
+      "word": "雪梨以设计师身份参加综艺",
+      "onboard_time": 1743922341,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 597026,
       "num": 597026,
       "word": "雷军谈小米15年",
@@ -193,14 +225,6 @@
       "onboard_time": 1743867021,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 536255,
-      "num": 536255,
-      "word": "雪梨以设计师身份参加综艺",
-      "onboard_time": 1743922341,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 535692,
@@ -235,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 500637,
+      "num": 349863,
+      "word": "香蕉夹",
+      "onboard_time": 1743926300,
+      "rank": 11,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 426074,
       "num": 275102,
       "word": "杨超越回复vava道歉",
@@ -257,6 +289,14 @@
       "onboard_time": 1743910882,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421855,
+      "num": 367965,
+      "word": "虞书欣练习室跳likejennie",
+      "onboard_time": 1743924500,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 415549,
@@ -307,6 +347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 369188,
+      "num": 369188,
+      "word": "车主晒SU7一年保值率91%",
+      "onboard_time": 1743922820,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 365760,
       "num": 217713,
       "word": "出轨率最低的三个星座男",
@@ -347,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346236,
+      "num": 346236,
+      "word": "美国农业将受中国关税最严重打击",
+      "onboard_time": 1743925461,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 340687,
       "num": 217976,
       "word": "导致视力下降的真正原因",
@@ -384,6 +440,14 @@
       "word": "刘奕畅 我的女主",
       "onboard_time": 1743866783,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 322064,
+      "num": 322064,
+      "word": "蒋一侨 香飘飘千金",
+      "onboard_time": 1743925461,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -475,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268906,
+      "num": 268906,
+      "word": "亲妹妹只对真姐夫破防",
+      "onboard_time": 1743927201,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266834,
       "num": 306229,
       "word": "张峻豪求粉丝关灯牌",
@@ -489,6 +561,14 @@
       "onboard_time": 1743908000,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264528,
+      "num": 264528,
+      "word": "印度一男子开床车上路多辆摩托跟拍",
+      "onboard_time": 1743927860,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 260424,
@@ -539,12 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247546,
-      "num": 247546,
-      "word": "车主晒SU7一年保值率91%",
-      "onboard_time": 1743922820,
-      "rank": 19,
-      "category": "汽车"
+      "raw_hot": 248397,
+      "num": 248397,
+      "word": "杨天真聊艺人官宣恋情被骂原因",
+      "onboard_time": 1743920540,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 242188,
@@ -651,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209609,
+      "num": 209609,
+      "word": "TES投诉LPL导播镜头",
+      "onboard_time": 1743926781,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207722,
       "num": 207722,
       "word": "张元英找镜头速度",
@@ -683,11 +771,11 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 197187,
-      "num": 197187,
-      "word": "虞书欣练习室跳likejennie",
-      "onboard_time": 1743924500,
-      "rank": 26,
+      "raw_hot": 198295,
+      "num": 198295,
+      "word": "迪丽热巴早期随拍",
+      "onboard_time": 1743927980,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -747,14 +835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 189481,
-      "num": 189481,
-      "word": "减肥黑名单",
-      "onboard_time": 1743924500,
-      "rank": 31,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 189360,
       "num": 189360,
       "word": "陈立农七周年同学录问答",
@@ -785,6 +865,14 @@
       "onboard_time": 1743921021,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187428,
+      "num": 193492,
+      "word": "李美越",
+      "onboard_time": 1743924620,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 185768,
@@ -873,14 +961,6 @@
       "onboard_time": 1743915681,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 170801,
-      "num": 193492,
-      "word": "李美越",
-      "onboard_time": 1743924620,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 170674,
@@ -1027,12 +1107,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 157802,
-      "num": 229749,
-      "word": "男子在山姆采购550万元商品遭冒领",
-      "onboard_time": 1743924440,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 156840,
+      "num": 156840,
+      "word": "甲亢哥保镖 嚼嚼嚼",
+      "onboard_time": 1743924559,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 155401,
@@ -1051,20 +1131,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154613,
-      "num": 154613,
-      "word": "杨天真聊艺人官宣恋情被骂原因",
-      "onboard_time": 1743920540,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150667,
-      "num": 150667,
+      "num": 232886,
       "word": "多哈世乒赛朝鲜队参赛名单",
       "onboard_time": 1743921021,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150340,
+      "num": 150340,
+      "word": "周洁琼神女下江南",
+      "onboard_time": 1743927741,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 150094,
@@ -1105,6 +1185,22 @@
       "onboard_time": 1743917300,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137156,
+      "num": 137156,
+      "word": "和不合适的人在一起要及时止损",
+      "onboard_time": 1743927501,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134758,
+      "num": 134758,
+      "word": "何炅也是没有放过龚俊",
+      "onboard_time": 1743927260,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 133800,
@@ -1155,14 +1251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131319,
-      "num": 131319,
-      "word": "甲亢哥保镖 嚼嚼嚼",
-      "onboard_time": 1743924559,
-      "rank": 44,
-      "category": "网红"
-    },
-    {
       "raw_hot": 130861,
       "num": 286236,
       "word": "官方回应家长称双休影响考好大学",
@@ -1177,6 +1265,14 @@
       "onboard_time": 1743870860,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129755,
+      "num": 129755,
+      "word": "KissofLife就直播争议道歉",
+      "onboard_time": 1743927801,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 129416,
@@ -1265,6 +1361,14 @@
       "onboard_time": 1743921681,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123200,
+      "num": 123200,
+      "word": "这6种人容易提前长白发",
+      "onboard_time": 1743926901,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 121890,
@@ -1707,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79920,
+      "num": 265251,
+      "word": "活人被云祭奠6年访问超4万次",
+      "onboard_time": 1743926660,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 71851,
       "num": 217989,
       "word": "柯淳那双眼看酸奶都深情",
@@ -1721,6 +1833,14 @@
       "onboard_time": 1743868522,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 69982,
+      "num": 353620,
+      "word": "近4000元增高粉营养还不如牛奶",
+      "onboard_time": 1743926600,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 69197,
@@ -1761,6 +1881,14 @@
       "onboard_time": 1743882915,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 61356,
+      "num": 352613,
+      "word": "清明返程高峰路况",
+      "onboard_time": 1743927501,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57909,
@@ -1836,7 +1964,7 @@
     },
     {
       "raw_hot": 39546,
-      "num": 709817,
+      "num": 797708,
       "word": "清明节气的春耕气象密码",
       "onboard_time": 1743912021,
       "rank": 2,
@@ -2009,6 +2137,14 @@
       "onboard_time": 1743909259,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 8946,
+      "num": 150366,
+      "word": "甲亢哥这波科技含量贼高",
+      "onboard_time": 1743927501,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 8666,

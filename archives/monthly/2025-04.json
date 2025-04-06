@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743924947765,
+  "endTime": 1743928140901,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1307947,
+      "num": 1307947,
+      "word": "黄英只有不到80斤了",
+      "onboard_time": 1743925221,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1307003,
       "num": 1307003,
       "word": "华晨宇方称拒绝音乐版权擦边行为",
@@ -1067,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 995124,
+      "num": 995124,
+      "word": "男子在山姆采购550万元商品遭冒领",
+      "onboard_time": 1743924440,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 992995,
       "num": 556519,
       "word": "中核招聘",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1743600503,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 913006,
+      "num": 351594,
+      "word": "减肥黑名单",
+      "onboard_time": 1743924500,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 911127,
@@ -2115,6 +2139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 597601,
+      "num": 597601,
+      "word": "雪梨以设计师身份参加综艺",
+      "onboard_time": 1743922341,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 597026,
       "num": 597026,
       "word": "雷军谈小米15年",
@@ -2507,14 +2539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 536255,
-      "num": 536255,
-      "word": "雪梨以设计师身份参加综艺",
-      "onboard_time": 1743922341,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 535692,
       "num": 888228,
       "word": "美国亿万富翁提醒民众囤货",
@@ -2761,6 +2785,14 @@
       "onboard_time": 1743849443,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 500637,
+      "num": 349863,
+      "word": "香蕉夹",
+      "onboard_time": 1743926300,
+      "rank": 11,
+      "category": "时尚"
     },
     {
       "raw_hot": 499559,
@@ -3265,6 +3297,14 @@
       "onboard_time": 1743749961,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 421855,
+      "num": 367965,
+      "word": "虞书欣练习室跳likejennie",
+      "onboard_time": 1743924500,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 419911,
@@ -3803,6 +3843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369188,
+      "num": 369188,
+      "word": "车主晒SU7一年保值率91%",
+      "onboard_time": 1743922820,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 367130,
       "num": 367130,
       "word": "特朗普展示价值500万移民金卡",
@@ -4139,6 +4187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346236,
+      "num": 346236,
+      "word": "美国农业将受中国关税最严重打击",
+      "onboard_time": 1743925461,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 346203,
       "num": 346203,
       "word": "人贩子抢走8个月婴儿还顺走奶粉",
@@ -4433,6 +4489,14 @@
       "onboard_time": 1743563421,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322064,
+      "num": 322064,
+      "word": "蒋一侨 香飘飘千金",
+      "onboard_time": 1743925461,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 321628,
@@ -5235,6 +5299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268906,
+      "num": 268906,
+      "word": "亲妹妹只对真姐夫破防",
+      "onboard_time": 1743927201,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267809,
       "num": 267809,
       "word": "姜甲儒称人贩子必须死刑",
@@ -5305,6 +5377,14 @@
       "onboard_time": 1743820340,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 264528,
+      "num": 264528,
+      "word": "印度一男子开床车上路多辆摩托跟拍",
+      "onboard_time": 1743927860,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 264050,
@@ -5563,20 +5643,20 @@
       "category": "旅游,艺人"
     },
     {
+      "raw_hot": 248397,
+      "num": 248397,
+      "word": "杨天真聊艺人官宣恋情被骂原因",
+      "onboard_time": 1743920540,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247923,
       "num": 247923,
       "word": "发现同事每天上班都很快乐的秘诀",
       "onboard_time": 1743603685,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 247546,
-      "num": 247546,
-      "word": "车主晒SU7一年保值率91%",
-      "onboard_time": 1743922820,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 247225,
@@ -6547,6 +6627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209609,
+      "num": 209609,
+      "word": "TES投诉LPL导播镜头",
+      "onboard_time": 1743926781,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209483,
       "num": 209483,
       "word": "赴山海",
@@ -7155,6 +7243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198295,
+      "num": 198295,
+      "word": "迪丽热巴早期随拍",
+      "onboard_time": 1743927980,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198088,
       "num": 307825,
       "word": "国际乒联回顾孙颖莎夺冠历程",
@@ -7185,14 +7281,6 @@
       "onboard_time": 1743575963,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 197187,
-      "num": 197187,
-      "word": "虞书欣练习室跳likejennie",
-      "onboard_time": 1743924500,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 197092,
@@ -7689,14 +7777,6 @@
       "onboard_time": 1743570682,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189481,
-      "num": 189481,
-      "word": "减肥黑名单",
-      "onboard_time": 1743924500,
-      "rank": 31,
-      "category": "运动健身"
     },
     {
       "raw_hot": 189360,
@@ -9707,14 +9787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157802,
-      "num": 229749,
-      "word": "男子在山姆采购550万元商品遭冒领",
-      "onboard_time": 1743924440,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157698,
       "num": 157698,
       "word": "抢不到门票的二次元有多抽象",
@@ -9761,6 +9833,14 @@
       "onboard_time": 1743662002,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156840,
+      "num": 156840,
+      "word": "甲亢哥保镖 嚼嚼嚼",
+      "onboard_time": 1743924559,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 156462,
@@ -9937,14 +10017,6 @@
       "onboard_time": 1743852861,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 154613,
-      "num": 154613,
-      "word": "杨天真聊艺人官宣恋情被骂原因",
-      "onboard_time": 1743920540,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 154440,
@@ -10204,7 +10276,7 @@
     },
     {
       "raw_hot": 150667,
-      "num": 150667,
+      "num": 232886,
       "word": "多哈世乒赛朝鲜队参赛名单",
       "onboard_time": 1743921021,
       "rank": 35,
@@ -10233,6 +10305,14 @@
       "onboard_time": 1743735140,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150340,
+      "num": 150340,
+      "word": "周洁琼神女下江南",
+      "onboard_time": 1743927741,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 150296,
@@ -11235,6 +11315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137156,
+      "num": 137156,
+      "word": "和不合适的人在一起要及时止损",
+      "onboard_time": 1743927501,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137113,
       "num": 137113,
       "word": "钟睒睒炮轰互联网平台",
@@ -11457,6 +11545,14 @@
       "onboard_time": 1743487403,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134758,
+      "num": 134758,
+      "word": "何炅也是没有放过龚俊",
+      "onboard_time": 1743927260,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 134730,
@@ -11779,14 +11875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131319,
-      "num": 131319,
-      "word": "甲亢哥保镖 嚼嚼嚼",
-      "onboard_time": 1743924559,
-      "rank": 44,
-      "category": "网红"
-    },
-    {
       "raw_hot": 131282,
       "num": 206204,
       "word": "沈阳一建筑突发火灾楼顶有多人被困",
@@ -11913,6 +12001,14 @@
       "onboard_time": 1743777382,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129755,
+      "num": 129755,
+      "word": "KissofLife就直播争议道歉",
+      "onboard_time": 1743927801,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 129730,
@@ -12465,6 +12561,14 @@
       "onboard_time": 1743921681,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123200,
+      "num": 123200,
+      "word": "这6种人容易提前长白发",
+      "onboard_time": 1743926901,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 123080,
@@ -15091,6 +15195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 79920,
+      "num": 265251,
+      "word": "活人被云祭奠6年访问超4万次",
+      "onboard_time": 1743926660,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 79637,
       "num": 79637,
       "word": "你好星期六",
@@ -15393,6 +15505,14 @@
       "onboard_time": 1743585442,
       "rank": 28,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 69982,
+      "num": 353620,
+      "word": "近4000元增高粉营养还不如牛奶",
+      "onboard_time": 1743926600,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 69979,
@@ -15761,6 +15881,14 @@
       "onboard_time": 1743700037,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 61356,
+      "num": 352613,
+      "word": "清明返程高峰路况",
+      "onboard_time": 1743927501,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60880,
@@ -16644,7 +16772,7 @@
     },
     {
       "raw_hot": 39546,
-      "num": 709817,
+      "num": 797708,
       "word": "清明节气的春耕气象密码",
       "onboard_time": 1743912021,
       "rank": 2,
@@ -18265,6 +18393,14 @@
       "onboard_time": 1743797954,
       "rank": 23,
       "category": "民生新闻,军事"
+    },
+    {
+      "raw_hot": 8946,
+      "num": 150366,
+      "word": "甲亢哥这波科技含量贼高",
+      "onboard_time": 1743927501,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 8908,
