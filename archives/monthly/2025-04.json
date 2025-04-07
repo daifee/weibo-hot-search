@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744003518174,
+  "endTime": 1744004500473,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1707,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 827669,
+      "num": 827669,
+      "word": "金价",
+      "onboard_time": 1743519987,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 825264,
       "num": 700149,
       "word": "雁回时删了6集",
@@ -1857,6 +1865,14 @@
       "onboard_time": 1743467243,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 778635,
+      "num": 449748,
+      "word": "误触考上研究生了怎么办",
+      "onboard_time": 1744001964,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 778032,
@@ -2043,14 +2059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 718447,
-      "num": 718447,
-      "word": "金价",
-      "onboard_time": 1743519987,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 717168,
       "num": 163648,
       "word": "2024的愚人节勇士站姐",
@@ -2185,6 +2193,14 @@
       "onboard_time": 1743588442,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 681875,
+      "num": 681875,
+      "word": "锤娜丽莎因为重度脂肪肝减肥",
+      "onboard_time": 1744002623,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 673051,
@@ -2769,14 +2785,6 @@
       "onboard_time": 1743839420,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 574283,
-      "num": 449748,
-      "word": "误触考上研究生了怎么办",
-      "onboard_time": 1744001964,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 569240,
@@ -3731,14 +3739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 443095,
-      "num": 443095,
-      "word": "锤娜丽莎因为重度脂肪肝减肥",
-      "onboard_time": 1744002623,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 442599,
       "num": 857341,
       "word": "4名人贩子在法庭抖腿毫无忏悔之意",
@@ -3833,6 +3833,14 @@
       "onboard_time": 1743995122,
       "rank": 43,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 429146,
+      "num": 429146,
+      "word": "李现打鸟作品与张大千画作神似",
+      "onboard_time": 1744003163,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 426493,
@@ -4329,6 +4337,14 @@
       "onboard_time": 1743489982,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 383551,
+      "num": 383551,
+      "word": "唐嫣不会点英语当不了神女",
+      "onboard_time": 1744003582,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 383185,
@@ -4969,6 +4985,22 @@
       "onboard_time": 1743767721,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343206,
+      "num": 343206,
+      "word": "驼背",
+      "onboard_time": 1744003103,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 343142,
+      "num": 343142,
+      "word": "李川陪锤娜丽莎一起运动",
+      "onboard_time": 1744003221,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 342915,
@@ -6027,6 +6059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276618,
+      "num": 276618,
+      "word": "肖战射雕英雄传网播",
+      "onboard_time": 1744003403,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 276390,
       "num": 276390,
       "word": "叶童短裙造型",
@@ -6675,14 +6715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243010,
-      "num": 243010,
-      "word": "李现打鸟作品与张大千画作神似",
-      "onboard_time": 1744003163,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242339,
       "num": 242339,
       "word": "李晟小考圣体",
@@ -6963,14 +6995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231715,
-      "num": 231715,
-      "word": "李川陪锤娜丽莎一起运动",
-      "onboard_time": 1744003221,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231099,
       "num": 231099,
       "word": "苏新皓录屏",
@@ -7033,6 +7057,14 @@
       "onboard_time": 1743586703,
       "rank": 37,
       "category": "民生新闻,母婴育儿"
+    },
+    {
+      "raw_hot": 228119,
+      "num": 228119,
+      "word": "鹿晗正定古城vlog",
+      "onboard_time": 1744003761,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 228023,
@@ -7281,6 +7313,14 @@
       "onboard_time": 1743770061,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222551,
+      "num": 222551,
+      "word": "王宝强王智110秒对手戏崩溃",
+      "onboard_time": 1744002684,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 222442,
@@ -8169,14 +8209,6 @@
       "onboard_time": 1743586821,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 203515,
-      "num": 203515,
-      "word": "王宝强王智110秒对手戏崩溃",
-      "onboard_time": 1744002684,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 203490,
@@ -9859,6 +9891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180873,
+      "num": 180873,
+      "word": "周柯宇晒徐若晗合照",
+      "onboard_time": 1744004242,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180761,
       "num": 224156,
       "word": "9岁男孩回乡过三月三失联多日",
@@ -10099,6 +10139,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 177293,
+      "num": 177293,
+      "word": "全红婵说以前的感觉找不到了",
+      "onboard_time": 1744004123,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177160,
       "num": 177160,
       "word": "刘涛 我的梦中情师",
@@ -10153,14 +10201,6 @@
       "onboard_time": 1743470842,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176359,
-      "num": 176359,
-      "word": "肖战射雕英雄传网播",
-      "onboard_time": 1744003403,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 176319,
@@ -10425,14 +10465,6 @@
       "onboard_time": 1743516505,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172619,
-      "num": 172619,
-      "word": "驼背",
-      "onboard_time": 1744003103,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 172535,
@@ -12403,6 +12435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146882,
+      "num": 146882,
+      "word": "留几手晒腹肌",
+      "onboard_time": 1744004003,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146647,
       "num": 146647,
       "word": "德布劳内宣布离开曼城",
@@ -13497,6 +13537,14 @@
       "onboard_time": 1743747621,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134366,
+      "num": 134366,
+      "word": "入住新房18天水费交了39390元",
+      "onboard_time": 1744004483,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134297,
@@ -16425,6 +16473,14 @@
       "onboard_time": 1743834262,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 99678,
+      "num": 275702,
+      "word": "全红婵谈世界杯摘银",
+      "onboard_time": 1744002623,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 99572,
@@ -20793,6 +20849,14 @@
       "onboard_time": 1743967634,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 14604,
+      "num": 167462,
+      "word": "焦虑的人一般都秩序感很强",
+      "onboard_time": 1744004182,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 14380,
