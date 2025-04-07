@@ -1,6 +1,6 @@
 {
   "startTime": 1743956845609,
-  "endTime": 1743992208156,
+  "endTime": 1743995310426,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -27,6 +27,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1419105,
+      "num": 1419105,
+      "word": "熔断",
+      "onboard_time": 1743992064,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1241708,
       "num": 211813,
       "word": "日经",
@@ -35,12 +43,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1215300,
+      "num": 1215300,
+      "word": "五哈5艺人官宣",
+      "onboard_time": 1743993323,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 969865,
-      "num": 371309,
+      "num": 612095,
       "word": "蔡徐坤胜诉",
       "onboard_time": 1743990742,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 914219,
+      "num": 787130,
+      "word": "五哈5没有鹿晗",
+      "onboard_time": 1743993624,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 816434,
@@ -59,12 +83,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 717185,
-      "num": 717185,
+      "raw_hot": 793185,
+      "num": 793185,
       "word": "曝iPhone19Pro外形颠覆",
       "onboard_time": 1743991100,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 731455,
+      "num": 731455,
+      "word": "甲亢哥长沙",
+      "onboard_time": 1743989420,
+      "rank": 4,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 715789,
@@ -73,14 +105,6 @@
       "onboard_time": 1743954142,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 662566,
-      "num": 662566,
-      "word": "甲亢哥长沙",
-      "onboard_time": 1743989420,
-      "rank": 4,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 660117,
@@ -99,12 +123,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 633931,
+      "num": 633931,
+      "word": "金价为何开始跌了",
+      "onboard_time": 1743992543,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 625047,
       "num": 625047,
       "word": "李现打鸟",
       "onboard_time": 1743987741,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 607112,
+      "num": 607112,
+      "word": "美财长将美股崩盘甩锅DeepSeek",
+      "onboard_time": 1743993381,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 595795,
@@ -129,6 +169,14 @@
       "onboard_time": 1743947303,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 525057,
+      "num": 525057,
+      "word": "奥巴马首次抨击特朗普第二任期政策",
+      "onboard_time": 1743990680,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 521478,
@@ -163,12 +211,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 441984,
-      "num": 369435,
-      "word": "奥巴马首次抨击特朗普第二任期政策",
-      "onboard_time": 1743990680,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 458317,
+      "num": 458317,
+      "word": "基金",
+      "onboard_time": 1743993143,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 443515,
+      "num": 443515,
+      "word": "还有24天放假5天",
+      "onboard_time": 1743992064,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407153,
+      "num": 407153,
+      "word": "微信居然还有这么多好用功能",
+      "onboard_time": 1743991100,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 403539,
@@ -179,12 +243,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 388440,
+      "num": 388440,
+      "word": "医生建议节后上班前三天少干活",
+      "onboard_time": 1743989661,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380483,
-      "num": 380483,
+      "num": 419304,
       "word": "IU三提百想视后",
       "onboard_time": 1743990080,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 378154,
+      "num": 378154,
+      "word": "全市场超1000只个股跌停",
+      "onboard_time": 1743994162,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 377194,
@@ -195,12 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 373083,
-      "num": 373083,
-      "word": "医生建议节后上班前三天少干活",
-      "onboard_time": 1743989661,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 367500,
+      "num": 441764,
+      "word": "全网都在期待甲亢哥和大张伟见面",
+      "onboard_time": 1743993504,
+      "rank": 15,
+      "category": "网红,艺人"
     },
     {
       "raw_hot": 365602,
@@ -235,12 +315,52 @@
       "category": "数码"
     },
     {
+      "raw_hot": 312842,
+      "num": 612600,
+      "word": "欧盟将首次反击美国关税",
+      "onboard_time": 1743994403,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 307477,
+      "num": 307477,
+      "word": "日本股市巨震",
+      "onboard_time": 1743991883,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 305672,
+      "num": 305672,
+      "word": "五四奖章入围名单公示",
+      "onboard_time": 1743989060,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 299044,
       "num": 232216,
       "word": "创造营亚洲2排名",
       "onboard_time": 1743949643,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298120,
+      "num": 298120,
+      "word": "雅漾 樊振东",
+      "onboard_time": 1743993624,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 297213,
+      "num": 297213,
+      "word": "中国台湾证交所触发熔断",
+      "onboard_time": 1743992602,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 271085,
@@ -275,14 +395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243757,
-      "num": 187272,
-      "word": "微信居然还有这么多好用功能",
-      "onboard_time": 1743991100,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 238779,
       "num": 238779,
       "word": "专家建议洗头后自然风干",
@@ -296,6 +408,14 @@
       "word": "宁艺卓即将大学毕业",
       "onboard_time": 1743947182,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 235353,
+      "num": 235353,
+      "word": "蔡徐坤赔偿款将通过公益项目捐出",
+      "onboard_time": 1743993263,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -313,6 +433,14 @@
       "onboard_time": 1743982880,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221911,
+      "num": 407315,
+      "word": "最强苹替vivoX200s惊艳果粉",
+      "onboard_time": 1743993923,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 214009,
@@ -339,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211059,
+      "num": 303669,
+      "word": "赵露思告黑案进度",
+      "onboard_time": 1743994822,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210805,
       "num": 210805,
       "word": "洗脸洗不对可能伤皮肤",
@@ -352,6 +488,22 @@
       "word": "港股",
       "onboard_time": 1743990200,
       "rank": 32,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 198221,
+      "num": 244141,
+      "word": "张集骏演总裁之前也曾进厂打螺丝",
+      "onboard_time": 1743994644,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197817,
+      "num": 197817,
+      "word": "金饰价格降至912元",
+      "onboard_time": 1743994822,
+      "rank": 33,
       "category": "财经"
     },
     {
@@ -371,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192514,
-      "num": 166715,
-      "word": "日本股市巨震",
-      "onboard_time": 1743991883,
-      "rank": 31,
-      "category": "财经"
+      "raw_hot": 193206,
+      "num": 193206,
+      "word": "王俊凯演技",
+      "onboard_time": 1743989241,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 189834,
@@ -387,12 +539,20 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 187813,
-      "num": 187813,
-      "word": "还有24天放假5天",
-      "onboard_time": 1743992064,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 185582,
+      "num": 185582,
+      "word": "火箭vs勇士",
+      "onboard_time": 1743992183,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183067,
+      "num": 210810,
+      "word": "百花杀开机",
+      "onboard_time": 1743985221,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 182991,
@@ -400,14 +560,6 @@
       "word": "美国股市遭遇2020年来最严重跌幅",
       "onboard_time": 1743990200,
       "rank": 31,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 181056,
-      "num": 181056,
-      "word": "熔断",
-      "onboard_time": 1743992064,
-      "rank": 25,
       "category": "财经"
     },
     {
@@ -419,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177381,
+      "num": 177381,
+      "word": "曝苹果要求供应商降价",
+      "onboard_time": 1743993022,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 177211,
       "num": 150644,
       "word": "晚睡晚起但睡够8小时还伤身吗",
@@ -427,12 +587,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 177027,
+      "num": 177027,
+      "word": "龙虎山偶遇李现",
+      "onboard_time": 1743995063,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169663,
       "num": 169663,
       "word": "广州15岁男孩在家做实验引爆炸烧伤",
       "onboard_time": 1743983600,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169265,
+      "num": 169265,
+      "word": "陈丽君入围五四奖章名单",
+      "onboard_time": 1743995122,
+      "rank": 43,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 168257,
@@ -467,22 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162772,
-      "num": 210810,
-      "word": "百花杀开机",
-      "onboard_time": 1743985221,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 162186,
-      "num": 171108,
-      "word": "王俊凯演技",
-      "onboard_time": 1743989241,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 162019,
       "num": 162019,
       "word": "女儿癌症去世后妈妈15年种树2万亩",
@@ -496,6 +656,14 @@
       "word": "网友拍到山上两人神似西游记名场面",
       "onboard_time": 1743983780,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156700,
+      "num": 156700,
+      "word": "杭州地铁5号线",
+      "onboard_time": 1743992422,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -555,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146457,
-      "num": 146457,
-      "word": "五四奖章入围名单公示",
-      "onboard_time": 1743989060,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 142065,
       "num": 104778,
       "word": "祝绪丹体重80斤",
@@ -577,6 +737,22 @@
       "onboard_time": 1743983900,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139670,
+      "num": 139670,
+      "word": "日经熔断",
+      "onboard_time": 1743994283,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 139028,
+      "num": 139028,
+      "word": "朱开谈Meiko状态",
+      "onboard_time": 1743995245,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 138728,
@@ -641,14 +817,6 @@
       "onboard_time": 1743985582,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 122499,
-      "num": 122499,
-      "word": "火箭vs勇士",
-      "onboard_time": 1743992183,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 120076,
@@ -924,7 +1092,7 @@
     },
     {
       "raw_hot": 66509,
-      "num": 1203955,
+      "num": 1479905,
       "word": "集中精力办好自己的事",
       "onboard_time": 1743942741,
       "rank": 2,
