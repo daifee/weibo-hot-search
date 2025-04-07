@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744046513192,
+  "endTime": 1744047564096,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -1977,6 +1977,14 @@
       "onboard_time": 1743998724,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 292968,
+      "num": 292968,
+      "word": "全球高度关注中国猛烈反击美国",
+      "onboard_time": 1744047077,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 292925,
@@ -5635,6 +5643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107667,
+      "num": 107667,
+      "word": "卤鹅",
+      "onboard_time": 1744045158,
+      "rank": 24,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 107429,
       "num": 107429,
       "word": "浪姐",
@@ -6179,14 +6195,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 72584,
-      "num": 72584,
-      "word": "卤鹅",
-      "onboard_time": 1744045158,
-      "rank": 24,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 72131,
       "num": 86776,
       "word": "一边变脸一边跳街舞惊艳老外",
@@ -6627,6 +6635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41043,
+      "num": 41043,
+      "word": "鹿晗穿越千年传统文化探寻之旅",
+      "onboard_time": 1744046476,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40778,
       "num": 257065,
       "word": "美多地民众加入抢购潮",
@@ -6707,20 +6723,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36352,
-      "num": 36352,
-      "word": "鹿晗穿越千年传统文化探寻之旅",
-      "onboard_time": 1744046476,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 34200,
       "num": 47886,
       "word": "大张伟直播",
       "onboard_time": 1743861503,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33035,
+      "num": 166211,
+      "word": "欧盟拟对280亿美元美国商品进行反制",
+      "onboard_time": 1744045458,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31971,
@@ -6779,14 +6795,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 27089,
-      "num": 166211,
-      "word": "欧盟拟对280亿美元美国商品进行反制",
-      "onboard_time": 1744045458,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 26912,
       "num": 205438,
       "word": "外地游客拉着行李箱来深圳买黄金",
@@ -6801,6 +6809,14 @@
       "onboard_time": 1743878416,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26210,
+      "num": 110265,
+      "word": "面对美关税我们心中有数手上有招",
+      "onboard_time": 1744045636,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25096,

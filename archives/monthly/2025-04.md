@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/08 01:21:53
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/08 01:39:24
 </p>
 </blockquote>
 <p>
@@ -4791,6 +4791,12 @@ deepseek对许嵩作词甘拜下风（热度：294331）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%8C%9B%E7%83%88%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD%23" target="weibo">
+全球高度关注中国猛烈反击美国（热度：292968）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E8%82%A1%E4%BB%B7%E8%B7%8C%E8%B6%8519%25%23" target="weibo">
 小米集团股价跌超19%（热度：292925）
 </a>
@@ -6005,12 +6011,6 @@ PH试纸碰他一下就变黑了 太碱了（热度：225960）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E6%A0%88%E6%A1%A5%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23" target="weibo">
 人人人人栈桥人人人人（热度：225669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%B8%8D%E8%AF%B4%E8%AF%9D%E7%9A%84%E7%88%B1%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E8%B6%85%E5%93%AA%E5%90%922%23" target="weibo">
-张艺兴不说话的爱单日票房超哪吒2（热度：225663）
 </a>
 </li>
 

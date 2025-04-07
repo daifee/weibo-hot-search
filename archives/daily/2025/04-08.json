@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744046513192,
+  "endTime": 1744047564096,
   "band_list": [
     {
       "raw_hot": 2281087,
@@ -105,6 +105,14 @@
       "onboard_time": 1744030583,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292968,
+      "num": 292968,
+      "word": "全球高度关注中国猛烈反击美国",
+      "onboard_time": 1744047077,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 279608,
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107667,
+      "num": 107667,
+      "word": "卤鹅",
+      "onboard_time": 1744045158,
+      "rank": 24,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 107154,
       "num": 107154,
       "word": "一个冰箱贴为何一年能卖14万件",
@@ -395,14 +411,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 72584,
-      "num": 72584,
-      "word": "卤鹅",
-      "onboard_time": 1744045158,
-      "rank": 24,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 72277,
       "num": 72277,
       "word": "生命树",
@@ -443,6 +451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 41043,
+      "num": 41043,
+      "word": "鹿晗穿越千年传统文化探寻之旅",
+      "onboard_time": 1744046476,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39119,
       "num": 39119,
       "word": "当地回应女子报警后被强制送精神病院",
@@ -459,18 +475,18 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36352,
-      "num": 36352,
-      "word": "鹿晗穿越千年传统文化探寻之旅",
-      "onboard_time": 1744046476,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27089,
+      "raw_hot": 33035,
       "num": 166211,
       "word": "欧盟拟对280亿美元美国商品进行反制",
       "onboard_time": 1744045458,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 26210,
+      "num": 110265,
+      "word": "面对美关税我们心中有数手上有招",
+      "onboard_time": 1744045636,
       "rank": 9,
       "category": "国际时政"
     },
@@ -479,6 +495,14 @@
       "num": 1147552,
       "word": "集中精力办好自己的事",
       "onboard_time": 1743942741,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 2544,
+      "num": 337660,
+      "word": "中国坚定不移维护多边主义",
+      "onboard_time": 1743942922,
       "rank": 2,
       "category": "国内时政"
     }

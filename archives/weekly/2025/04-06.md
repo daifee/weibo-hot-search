@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/06 00:27:55 ~ 2025/04/08 01:21:53
+本榜单时间：2025/04/06 00:27:55 ~ 2025/04/08 01:39:24
 </p>
 </blockquote>
 <p>
@@ -1493,6 +1493,12 @@ SM查理呢（热度：335430）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E6%A1%A33.78%E4%BA%BF%E6%94%B6%E5%AE%98%23" target="weibo">
 清明档3.78亿收官（热度：296309）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%8C%9B%E7%83%88%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD%23" target="weibo">
+全球高度关注中国猛烈反击美国（热度：292968）
 </a>
 </li>
 
@@ -4239,6 +4245,12 @@ TF四代3月考核（热度：112356）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A4%E9%B9%85%23" target="weibo">
+卤鹅（热度：107667）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%23" target="weibo">
 浪姐（热度：107429）
 </a>
@@ -4647,12 +4659,6 @@ u17国足vs乌兹别克斯坦u17（热度：74179）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A4%E9%B9%85%23" target="weibo">
-卤鹅（热度：72584）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%BE%B9%E5%8F%98%E8%84%B8%E4%B8%80%E8%BE%B9%E8%B7%B3%E8%A1%97%E8%88%9E%E6%83%8A%E8%89%B3%E8%80%81%E5%A4%96%23" target="weibo">
 一边变脸一边跳街舞惊艳老外（热度：72131）
 </a>
@@ -4983,6 +4989,12 @@ Bin塞恩（热度：54169）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%A9%BF%E8%B6%8A%E5%8D%83%E5%B9%B4%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E6%8E%A2%E5%AF%BB%E4%B9%8B%E6%97%85%23" target="weibo">
+鹿晗穿越千年传统文化探寻之旅（热度：41043）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A4%9A%E5%9C%B0%E6%B0%91%E4%BC%97%E5%8A%A0%E5%85%A5%E6%8A%A2%E8%B4%AD%E6%BD%AE%23" target="weibo">
 美多地民众加入抢购潮（热度：40778）
 </a>
@@ -5043,14 +5055,14 @@ AI修复抗战英雄的模样（热度：36727）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%A9%BF%E8%B6%8A%E5%8D%83%E5%B9%B4%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E6%8E%A2%E5%AF%BB%E4%B9%8B%E6%97%85%23" target="weibo">
-鹿晗穿越千年传统文化探寻之旅（热度：36352）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%9B%B4%E6%92%AD%23" target="weibo">
+大张伟直播（热度：34200）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%9B%B4%E6%92%AD%23" target="weibo">
-大张伟直播（热度：34200）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%AF%B9280%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BE%8E%E5%9B%BD%E5%95%86%E5%93%81%E8%BF%9B%E8%A1%8C%E5%8F%8D%E5%88%B6%23" target="weibo">
+欧盟拟对280亿美元美国商品进行反制（热度：33035）
 </a>
 </li>
 
@@ -5097,12 +5109,6 @@ AI修复抗战英雄的模样（热度：36727）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%AF%B9280%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BE%8E%E5%9B%BD%E5%95%86%E5%93%81%E8%BF%9B%E8%A1%8C%E5%8F%8D%E5%88%B6%23" target="weibo">
-欧盟拟对280亿美元美国商品进行反制（热度：27089）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9C%B0%E6%B8%B8%E5%AE%A2%E6%8B%89%E7%9D%80%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%9D%A5%E6%B7%B1%E5%9C%B3%E4%B9%B0%E9%BB%84%E9%87%91%23" target="weibo">
 外地游客拉着行李箱来深圳买黄金（热度：26912）
 </a>
@@ -5111,6 +5117,12 @@ AI修复抗战英雄的模样（热度：36727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23susu%E7%A6%8F%E7%A6%8F%23" target="weibo">
 susu福福（热度：26824）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%A2%E5%AF%B9%E7%BE%8E%E5%85%B3%E7%A8%8E%E6%88%91%E4%BB%AC%E5%BF%83%E4%B8%AD%E6%9C%89%E6%95%B0%E6%89%8B%E4%B8%8A%E6%9C%89%E6%8B%9B%23" target="weibo">
+面对美关税我们心中有数手上有招（热度：26210）
 </a>
 </li>
 
