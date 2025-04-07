@@ -1,6 +1,6 @@
 {
   "startTime": 1743956845609,
-  "endTime": 1744000999322,
+  "endTime": 1744003518174,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -33,6 +33,14 @@
       "onboard_time": 1743992064,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1500229,
+      "num": 483641,
+      "word": "余承恩团队被路人怼",
+      "onboard_time": 1743999623,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 1241708,
@@ -107,12 +115,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 774364,
-      "num": 483641,
-      "word": "余承恩团队被路人怼",
-      "onboard_time": 1743999623,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 778032,
+      "num": 778032,
+      "word": "甲亢哥住过最好的酒店在中国",
+      "onboard_time": 1743997882,
+      "rank": 30,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 731455,
@@ -121,6 +129,14 @@
       "onboard_time": 1743989420,
       "rank": 4,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 718447,
+      "num": 718447,
+      "word": "金价",
+      "onboard_time": 1743997764,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 715789,
@@ -163,14 +179,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 633054,
-      "num": 633054,
-      "word": "金价",
-      "onboard_time": 1743997764,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 625047,
       "num": 625047,
       "word": "李现打鸟",
@@ -193,6 +201,14 @@
       "onboard_time": 1743973093,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 574283,
+      "num": 449748,
+      "word": "误触考上研究生了怎么办",
+      "onboard_time": 1744001964,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 562047,
@@ -227,14 +243,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 541316,
-      "num": 470610,
-      "word": "甲亢哥住过最好的酒店在中国",
-      "onboard_time": 1743997882,
-      "rank": 30,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 525057,
       "num": 525057,
       "word": "奥巴马首次抨击特朗普第二任期政策",
@@ -249,6 +257,14 @@
       "onboard_time": 1743953900,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 514962,
+      "num": 514962,
+      "word": "胡锡进",
+      "onboard_time": 1744000165,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 497911,
@@ -305,6 +321,14 @@
       "onboard_time": 1743992064,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 443095,
+      "num": 443095,
+      "word": "锤娜丽莎因为重度脂肪肝减肥",
+      "onboard_time": 1744002623,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 430587,
@@ -371,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367534,
+      "num": 390718,
+      "word": "阿瑟别走",
+      "onboard_time": 1744001302,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367500,
       "num": 540531,
       "word": "全网都在期待甲亢哥和大张伟见面",
@@ -403,12 +435,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 343805,
-      "num": 343805,
-      "word": "胡锡进",
-      "onboard_time": 1744000165,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 345116,
+      "num": 345116,
+      "word": "王楚钦冲击三大赛首冠",
+      "onboard_time": 1744002323,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 342547,
+      "num": 342547,
+      "word": "侯佩岑47正是门面担当的年纪",
+      "onboard_time": 1744001484,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 338228,
@@ -531,12 +571,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246140,
+      "num": 247133,
+      "word": "哪吒2票房",
+      "onboard_time": 1744001184,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 243533,
       "num": 243533,
       "word": "蔡徐坤赔偿款将通过公益项目捐出",
       "onboard_time": 1743993263,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243010,
+      "num": 243010,
+      "word": "李现打鸟作品与张大千画作神似",
+      "onboard_time": 1744003163,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 239005,
+      "num": 239005,
+      "word": "网红李美越10天掉粉近40万",
+      "onboard_time": 1744000825,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 238779,
@@ -577,6 +641,14 @@
       "onboard_time": 1743995963,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231715,
+      "num": 231715,
+      "word": "李川陪锤娜丽莎一起运动",
+      "onboard_time": 1744003221,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 226566,
@@ -683,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 207243,
+      "num": 498146,
+      "word": "山西一中学食堂420万食材费被贪占",
+      "onboard_time": 1744002144,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206958,
       "num": 206958,
       "word": "港股",
@@ -696,6 +776,14 @@
       "word": "孙俪新剧全是品质二搭",
       "onboard_time": 1743999263,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203515,
+      "num": 203515,
+      "word": "王宝强王智110秒对手戏崩溃",
+      "onboard_time": 1744002684,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -755,6 +843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190749,
+      "num": 298951,
+      "word": "石破茂称美加征关税对日本如同国难",
+      "onboard_time": 1744000103,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189834,
       "num": 189834,
       "word": "耐克等品牌或将被迫提价",
@@ -771,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186364,
+      "num": 398256,
+      "word": "极氪007GT发布会定档415",
+      "onboard_time": 1744002383,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 186188,
       "num": 186188,
       "word": "闪耀暖暖水母",
@@ -779,12 +883,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185968,
+      "num": 305912,
+      "word": "特朗普关税引发的震荡会持续多久",
+      "onboard_time": 1744000764,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 185582,
       "num": 185582,
       "word": "火箭vs勇士",
       "onboard_time": 1743992183,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185113,
+      "num": 185113,
+      "word": "张杰鸟巢抢票",
+      "onboard_time": 1744002623,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 184571,
@@ -827,14 +947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181832,
-      "num": 181832,
-      "word": "网红李美越10天掉粉近40万",
-      "onboard_time": 1744000825,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 179017,
       "num": 165087,
       "word": "谢娜刚刚录完三公",
@@ -875,12 +987,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176332,
-      "num": 176332,
-      "word": "石破茂称美加征关税对日本如同国难",
-      "onboard_time": 1744000103,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 176359,
+      "num": 176359,
+      "word": "肖战射雕英雄传网播",
+      "onboard_time": 1744003403,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 175496,
@@ -889,6 +1001,14 @@
       "onboard_time": 1743999384,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172619,
+      "num": 172619,
+      "word": "驼背",
+      "onboard_time": 1744003103,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 170247,
@@ -1323,14 +1443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 82052,
-      "num": 305912,
-      "word": "特朗普关税引发的震荡会持续多久",
-      "onboard_time": 1744000764,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 81766,
       "num": 285007,
       "word": "近800股跌超9%",
@@ -1385,6 +1497,14 @@
       "onboard_time": 1743959896,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73912,
+      "num": 384683,
+      "word": "网订酒店20分钟涨150元",
+      "onboard_time": 1744002203,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 71892,
@@ -1457,6 +1577,14 @@
       "onboard_time": 1743981438,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62715,
+      "num": 426970,
+      "word": "给流浪猫社区安家会带来多少问题",
+      "onboard_time": 1744001903,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 61844,
@@ -1585,6 +1713,14 @@
       "onboard_time": 1743956000,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19584,
+      "num": 246984,
+      "word": "批人炒股的美议员上台后自己炒股",
+      "onboard_time": 1744002503,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19557,
