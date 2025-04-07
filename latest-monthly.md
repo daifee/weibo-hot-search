@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/08 01:39:24
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/08 02:33:14
 </p>
 </blockquote>
 <p>
@@ -4371,6 +4371,12 @@ SM查理呢（热度：335430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%8C%9B%E7%83%88%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD%23" target="weibo">
+全球高度关注中国猛烈反击美国（热度：326226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%98%E8%BF%90%E7%9A%84%E8%A1%8C%E6%9D%8E%E7%AE%B1%E5%A4%9A%E5%87%BA%E6%9D%A1%E4%B8%9D%E8%A2%9C%E8%8E%B7%E8%B5%944500%E5%85%83%23" target="weibo">
 托运的行李箱多出条丝袜获赔4500元（热度：326115）
 </a>
@@ -4787,12 +4793,6 @@ deepseek对许嵩作词甘拜下风（热度：294331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E8%BA%AB%E4%B8%8A%E7%97%92%E5%B0%B1%E5%8E%BB%E6%B4%97%E6%BE%A1%23" target="weibo">
 许嵩身上痒就去洗澡（热度：293105）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%8C%9B%E7%83%88%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD%23" target="weibo">
-全球高度关注中国猛烈反击美国（热度：292968）
 </a>
 </li>
 

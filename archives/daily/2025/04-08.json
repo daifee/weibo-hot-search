@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744047564096,
+  "endTime": 1744050794720,
   "band_list": [
     {
       "raw_hot": 2281087,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326226,
+      "num": 326226,
+      "word": "全球高度关注中国猛烈反击美国",
+      "onboard_time": 1744047077,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 308409,
       "num": 308409,
       "word": "美联储",
@@ -105,14 +113,6 @@
       "onboard_time": 1744030583,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 292968,
-      "num": 292968,
-      "word": "全球高度关注中国猛烈反击美国",
-      "onboard_time": 1744047077,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 279608,
@@ -443,12 +443,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45771,
+      "num": 31057,
+      "word": "美国网友说副总统万斯愚不可及",
+      "onboard_time": 1744048576,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43352,
       "num": 115508,
       "word": "纳指跌破15000点",
       "onboard_time": 1744040542,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 42440,
+      "num": 42440,
+      "word": "大姐每天采茶12小时子宫掉出体外",
+      "onboard_time": 1744050617,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41043,
@@ -475,6 +491,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35901,
+      "num": 35901,
+      "word": "长沙文旅",
+      "onboard_time": 1744031483,
+      "rank": 25,
+      "category": "网红,旅游"
+    },
+    {
+      "raw_hot": 35078,
+      "num": 35078,
+      "word": "女王就是女王 倒嗓了也是女王",
+      "onboard_time": 1744047976,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33035,
       "num": 166211,
       "word": "欧盟拟对280亿美元美国商品进行反制",
@@ -491,6 +523,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24278,
+      "num": 24278,
+      "word": "马布里汪妤凌",
+      "onboard_time": 1744049715,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 22093,
+      "num": 22093,
+      "word": "张峻豪也有演唱会戒断反应",
+      "onboard_time": 1744050674,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 12674,
       "num": 1147552,
       "word": "集中精力办好自己的事",
@@ -499,7 +547,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2544,
+      "raw_hot": 4873,
       "num": 337660,
       "word": "中国坚定不移维护多边主义",
       "onboard_time": 1743942922,

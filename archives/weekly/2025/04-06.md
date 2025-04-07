@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/06 00:27:55 ~ 2025/04/08 01:39:24
+本榜单时间：2025/04/06 00:27:55 ~ 2025/04/08 02:33:14
 </p>
 </blockquote>
 <p>
@@ -1395,6 +1395,12 @@ SM查理呢（热度：335430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%8C%9B%E7%83%88%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD%23" target="weibo">
+全球高度关注中国猛烈反击美国（热度：326226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%88%9D%E9%A2%84%E5%AE%9A2%E5%85%AC%E6%96%A4%E9%87%91%E6%9D%A1%E8%B7%AF%E4%B8%8A4%E5%A4%A9%E4%BA%8F4%E4%B8%87%23" target="weibo">
 月初预定2公斤金条路上4天亏4万（热度：325925）
 </a>
@@ -1493,12 +1499,6 @@ SM查理呢（热度：335430）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E6%A1%A33.78%E4%BA%BF%E6%94%B6%E5%AE%98%23" target="weibo">
 清明档3.78亿收官（热度：296309）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%8C%9B%E7%83%88%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD%23" target="weibo">
-全球高度关注中国猛烈反击美国（热度：292968）
 </a>
 </li>
 
@@ -4917,6 +4917,12 @@ Bin塞恩（热度：54169）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AF%B4%E5%89%AF%E6%80%BB%E7%BB%9F%E4%B8%87%E6%96%AF%E6%84%9A%E4%B8%8D%E5%8F%AF%E5%8F%8A%23" target="weibo">
+美国网友说副总统万斯愚不可及（热度：45771）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%AB%98%E6%9C%88%E9%A6%99%E4%B8%80%E6%BB%B4%E6%B3%AA%23" target="weibo">
 赵丽颖高月香一滴泪（热度：45734）
 </a>
@@ -4973,6 +4979,12 @@ Bin塞恩（热度：54169）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E4%BC%9F%E9%93%BF%E7%8E%8B%E6%98%B6%E4%BA%9A%E9%94%A6%E8%B5%9B%E8%AE%AD%E7%BB%83%23" target="weibo">
 梁伟铿王昶亚锦赛训练（热度：42561）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A7%90%E6%AF%8F%E5%A4%A9%E9%87%87%E8%8C%B612%E5%B0%8F%E6%97%B6%E5%AD%90%E5%AE%AB%E6%8E%89%E5%87%BA%E4%BD%93%E5%A4%96%23" target="weibo">
+大姐每天采茶12小时子宫掉出体外（热度：42440）
 </a>
 </li>
 
@@ -5051,6 +5063,12 @@ AI修复抗战英雄的模样（热度：36727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B1%878%E4%B8%87%E8%A6%81%E5%B8%AE%E8%81%94%E5%90%88%E5%9B%BD%E7%BD%91%E6%81%8B%E7%94%B7%E5%8F%8B%23" target="weibo">
 女子汇8万要帮联合国网恋男友（热度：36680）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%8E%8B%E5%B0%B1%E6%98%AF%E5%A5%B3%E7%8E%8B%20%E5%80%92%E5%97%93%E4%BA%86%E4%B9%9F%E6%98%AF%E5%A5%B3%E7%8E%8B%23" target="weibo">
+女王就是女王 倒嗓了也是女王（热度：35078）
 </a>
 </li>
 
@@ -5151,6 +5169,12 @@ susu福福（热度：26824）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B8%83%E9%87%8C%E6%B1%AA%E5%A6%A4%E5%87%8C%23" target="weibo">
+马布里汪妤凌（热度：24278）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E4%B8%BA%E6%B1%82%E8%81%8C%E8%A2%AB%E9%AA%97%E6%95%B0%E5%8D%81%E4%B8%87%23" target="weibo">
 有人为求职被骗数十万（热度：23982）
 </a>
@@ -5171,6 +5195,12 @@ susu福福（热度：26824）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%81%8B%E4%B9%9F%E6%9B%BE%E6%9C%89%E8%AE%A8%E5%A5%BD%E5%9E%8B%E4%BA%BA%E6%A0%BC%23" target="weibo">
 刘恋也曾有讨好型人格（热度：23107）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B3%BB%E8%B1%AA%E4%B9%9F%E6%9C%89%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%92%E6%96%AD%E5%8F%8D%E5%BA%94%23" target="weibo">
+张峻豪也有演唱会戒断反应（热度：22093）
 </a>
 </li>
 
