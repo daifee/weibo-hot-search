@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744053604560,
+  "endTime": 1744054585217,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -6115,6 +6115,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 82152,
+      "num": 46209,
+      "word": "大姐每天采茶12小时子宫掉出体外",
+      "onboard_time": 1744050617,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82021,
       "num": 82021,
       "word": "柯淳短剧日薪2万",
@@ -6193,14 +6201,6 @@
       "onboard_time": 1744002203,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 72224,
-      "num": 46209,
-      "word": "大姐每天采茶12小时子宫掉出体外",
-      "onboard_time": 1744050617,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72131,
@@ -6931,6 +6931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22989,
+      "num": 43711,
+      "word": "美国滥施关税无异于剥夺各国发展权利",
+      "onboard_time": 1744051935,
+      "rank": 9,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 19831,
       "num": 19831,
       "word": "创亚2团名NexT1DE",
@@ -6993,14 +7001,6 @@
       "onboard_time": 1743930382,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18255,
-      "num": 43711,
-      "word": "美国滥施关税无异于剥夺各国发展权利",
-      "onboard_time": 1744051935,
-      "rank": 9,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 17206,
@@ -7097,6 +7097,14 @@
       "onboard_time": 1743971893,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12538,
+      "num": 30125,
+      "word": "美官员称关税将导致美国商品价格下降",
+      "onboard_time": 1744053795,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12291,

@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744053604560,
+  "endTime": 1744054585217,
   "band_list": [
     {
       "raw_hot": 2281087,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82152,
+      "num": 46209,
+      "word": "大姐每天采茶12小时子宫掉出体外",
+      "onboard_time": 1744050617,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75374,
       "num": 75374,
       "word": "美股三大股指转涨",
@@ -417,14 +425,6 @@
       "onboard_time": 1744037125,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72224,
-      "num": 46209,
-      "word": "大姐每天采茶12小时子宫掉出体外",
-      "onboard_time": 1744050617,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61864,
@@ -547,7 +547,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 18255,
+      "raw_hot": 22989,
       "num": 43711,
       "word": "美国滥施关税无异于剥夺各国发展权利",
       "onboard_time": 1744051935,
@@ -561,6 +561,14 @@
       "onboard_time": 1743942741,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12538,
+      "num": 30125,
+      "word": "美官员称关税将导致美国商品价格下降",
+      "onboard_time": 1744053795,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 4873,
