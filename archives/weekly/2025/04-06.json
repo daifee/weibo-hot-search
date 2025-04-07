@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744025780746,
+  "endTime": 1744030172984,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1811433,
+      "num": 1811433,
+      "word": "徐正溪退圈照顾生病父亲一年后复出",
+      "onboard_time": 1744025182,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1765989,
       "num": 240307,
       "word": "女孩遭性侵后轻生舍友讲述惊魂之夜",
@@ -105,14 +113,6 @@
       "onboard_time": 1743904880,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1453729,
-      "num": 740622,
-      "word": "徐正溪退圈照顾生病父亲一年后复出",
-      "onboard_time": 1744025182,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1428320,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 1063349,
-      "num": 384567,
+      "num": 581421,
       "word": "白鹿模仿苦尽柑来金宣虎笑",
       "onboard_time": 1744022483,
       "rank": 17,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 997360,
-      "num": 536933,
+      "num": 890649,
       "word": "甲亢哥今晚直播或是最后一场",
       "onboard_time": 1744025422,
       "rank": 6,
@@ -409,6 +409,14 @@
       "onboard_time": 1744010063,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 919506,
+      "num": 919506,
+      "word": "美股大跌损失惨重马斯克也忍不住了",
+      "onboard_time": 1744024403,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 914219,
@@ -553,6 +561,14 @@
       "onboard_time": 1743997882,
       "rank": 30,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 772300,
+      "num": 398813,
+      "word": "诺一上法国新闻",
+      "onboard_time": 1744028605,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 754877,
@@ -713,6 +729,14 @@
       "onboard_time": 1743987741,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 616301,
+      "num": 616301,
+      "word": "一个冰箱贴为何一年能卖14万件",
+      "onboard_time": 1744025182,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 612731,
@@ -979,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 494803,
+      "num": 397625,
+      "word": "胡歌 内娱第一个吃大螃蟹的艺人",
+      "onboard_time": 1744026802,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494130,
       "num": 275463,
       "word": "2岁娃烧伤婆婆给儿媳下跪自责痛哭",
@@ -1195,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 413963,
+      "num": 397294,
+      "word": "王祖蓝妹妹结婚",
+      "onboard_time": 1744029383,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412298,
       "num": 293319,
       "word": "医生劝大家自己爽才是天下第一",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1743906380,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 398922,
+      "num": 398922,
+      "word": "一边检测不合格一边检测包通过",
+      "onboard_time": 1744027884,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 396639,
@@ -1305,6 +1353,14 @@
       "onboard_time": 1743989661,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 385912,
+      "num": 330449,
+      "word": "金价跌到我心满意足再入手",
+      "onboard_time": 1744024643,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 384383,
@@ -1433,6 +1489,14 @@
       "onboard_time": 1743895697,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349847,
+      "num": 349847,
+      "word": "马布里中国女婿",
+      "onboard_time": 1744027164,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 346952,
@@ -1571,12 +1635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 329699,
-      "num": 386984,
-      "word": "美股大跌损失惨重马斯克也忍不住了",
-      "onboard_time": 1744024403,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 330121,
+      "num": 330121,
+      "word": "王心凌穿走了莫奈的花园",
+      "onboard_time": 1744025244,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 329588,
@@ -1955,6 +2019,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 256762,
+      "num": 256762,
+      "word": "一代人有一代人的不动产",
+      "onboard_time": 1744026623,
+      "rank": 22,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 256329,
       "num": 256329,
       "word": "假期最后1天",
@@ -2051,6 +2123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244646,
+      "num": 338885,
+      "word": "全民智驾普及绕不开国民神车",
+      "onboard_time": 1744028723,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 243533,
       "num": 243533,
       "word": "蔡徐坤赔偿款将通过公益项目捐出",
@@ -2121,6 +2201,14 @@
       "onboard_time": 1743996983,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232773,
+      "num": 336304,
+      "word": "蔡文静宋妍霏王琳凯同台走秀",
+      "onboard_time": 1744029624,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232583,
@@ -2609,6 +2697,14 @@
       "onboard_time": 1743868582,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 198972,
+      "num": 198972,
+      "word": "主播直播擦边卖枕头2小时场观30万",
+      "onboard_time": 1744029863,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198720,
@@ -3131,6 +3227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179826,
+      "num": 179826,
+      "word": "找了10集的内鬼竟是我自己",
+      "onboard_time": 1744027343,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179735,
       "num": 179735,
       "word": "美股期货暴跌特朗普却在赚钱",
@@ -3153,6 +3257,14 @@
       "onboard_time": 1744006282,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179193,
+      "num": 179193,
+      "word": "iG疑似回应朱开",
+      "onboard_time": 1744029383,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 179017,
@@ -3235,14 +3347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175663,
-      "num": 196682,
-      "word": "一个冰箱贴为何一年能卖14万件",
-      "onboard_time": 1744025182,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175496,
       "num": 232476,
       "word": "NBA",
@@ -3283,20 +3387,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172395,
+      "num": 172395,
+      "word": "子涵台球",
+      "onboard_time": 1744026023,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 171592,
+      "num": 335035,
+      "word": "预订的金条还没到手4天已亏4万多",
+      "onboard_time": 1744028303,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170969,
+      "num": 230069,
+      "word": "马布里官宣结婚",
+      "onboard_time": 1744029383,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170674,
       "num": 170674,
       "word": "吴宣仪vava给卡琳娜送被子",
       "onboard_time": 1743920780,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170357,
-      "num": 170357,
-      "word": "金价跌到我心满意足再入手",
-      "onboard_time": 1744024643,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 170247,
@@ -3337,14 +3457,6 @@
       "onboard_time": 1744007002,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 169312,
-      "num": 195793,
-      "word": "王心凌穿走了莫奈的花园",
-      "onboard_time": 1744025244,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 169017,
@@ -3449,6 +3561,14 @@
       "onboard_time": 1744006402,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166512,
+      "num": 166512,
+      "word": "瘦下来后对颜值有4个提升",
+      "onboard_time": 1744023743,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 165513,
@@ -3587,6 +3707,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 159995,
+      "num": 159995,
+      "word": "苏新皓维权进展",
+      "onboard_time": 1744028303,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158806,
+      "num": 158806,
+      "word": "黄景瑜超绝不经意拿到黄明昊蛋糕",
+      "onboard_time": 1744029443,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158566,
       "num": 158566,
       "word": "陈幸同钱天一退赛",
@@ -3723,12 +3859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152974,
-      "num": 152974,
-      "word": "瘦下来后对颜值有4个提升",
-      "onboard_time": 1744023743,
-      "rank": 41,
-      "category": "运动健身"
+      "raw_hot": 152531,
+      "num": 152531,
+      "word": "苹果客服回应iPhone是否涨价",
+      "onboard_time": 1744026623,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 151542,
@@ -4115,6 +4251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135302,
+      "num": 135302,
+      "word": "张佳宁演员的含金量还在上升",
+      "onboard_time": 1744029323,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135135,
       "num": 202883,
       "word": "向鹏vs李尚洙",
@@ -4323,6 +4467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127812,
+      "num": 127812,
+      "word": "棋士17集疯走了",
+      "onboard_time": 1744028363,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127632,
       "num": 127632,
       "word": "甲亢哥你笔没还人家啊",
@@ -4417,6 +4569,14 @@
       "onboard_time": 1743921620,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123852,
+      "num": 123852,
+      "word": "谭松韵杀青照",
+      "onboard_time": 1744026203,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 123245,
@@ -4537,6 +4697,14 @@
       "onboard_time": 1743949583,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120211,
+      "num": 120211,
+      "word": "王力宏郑州",
+      "onboard_time": 1744028482,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 120143,
@@ -5113,6 +5281,14 @@
       "onboard_time": 1743911661,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96601,
+      "num": 156077,
+      "word": "月初预定2公斤金条路上4天亏4万",
+      "onboard_time": 1744029201,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95504,
