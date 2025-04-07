@@ -1,6 +1,6 @@
 {
   "startTime": 1743956845609,
-  "endTime": 1744018065932,
+  "endTime": 1744018857983,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -187,6 +187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 799165,
+      "num": 799165,
+      "word": "日本约4.2万具遗体无人认领",
+      "onboard_time": 1744016602,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 794037,
       "num": 794037,
       "word": "曝iPhone19Pro外形颠覆",
@@ -209,14 +217,6 @@
       "onboard_time": 1743997882,
       "rank": 30,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 744767,
-      "num": 744767,
-      "word": "日本约4.2万具遗体无人认领",
-      "onboard_time": 1744016602,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 731455,
@@ -323,12 +323,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 543567,
+      "num": 543567,
+      "word": "特朗普放话打到贸易逆差清零为止",
+      "onboard_time": 1744017082,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 543088,
       "num": 543088,
       "word": "网红李美越致歉",
       "onboard_time": 1743947303,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 542838,
+      "num": 542838,
+      "word": "姐姐姐夫地下恋多年合谋作案",
+      "onboard_time": 1744014802,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 525057,
@@ -427,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 439186,
+      "num": 439186,
+      "word": "一家三口被撞身亡案死者亲属盼严惩",
+      "onboard_time": 1744017684,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432567,
       "num": 432567,
       "word": "唐嫣不会点英语当不了神女",
@@ -481,6 +505,14 @@
       "onboard_time": 1744004902,
       "rank": 8,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 398657,
+      "num": 293319,
+      "word": "医生劝大家自己爽才是天下第一",
+      "onboard_time": 1744017082,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 396639,
@@ -571,12 +603,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 365075,
-      "num": 365075,
-      "word": "姐姐姐夫地下恋多年合谋作案",
-      "onboard_time": 1744014802,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 365100,
+      "num": 365100,
+      "word": "双胞胎姐妹佩佩惠惠相继离世",
+      "onboard_time": 1744018703,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 362079,
@@ -585,14 +617,6 @@
       "onboard_time": 1743949343,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 357676,
-      "num": 357676,
-      "word": "特朗普放话打到贸易逆差清零为止",
-      "onboard_time": 1744017082,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 356305,
@@ -617,6 +641,14 @@
       "onboard_time": 1744002323,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 345056,
+      "num": 377585,
+      "word": "美股暴跌后钱都去了哪里",
+      "onboard_time": 1744016664,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 343142,
@@ -723,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 298140,
-      "num": 377585,
-      "word": "美股暴跌后钱都去了哪里",
-      "onboard_time": 1744016664,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 298120,
       "num": 298120,
       "word": "雅漾 樊振东",
@@ -745,14 +769,6 @@
       "onboard_time": 1743998724,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 293319,
-      "num": 293319,
-      "word": "医生劝大家自己爽才是天下第一",
-      "onboard_time": 1744017082,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 292925,
@@ -795,20 +811,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 276500,
-      "num": 276500,
-      "word": "一家三口被撞身亡案死者亲属盼严惩",
-      "onboard_time": 1744017684,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 271085,
       "num": 344856,
       "word": "全红婵正面回应体重变化影响动作",
       "onboard_time": 1743943460,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270224,
+      "num": 270224,
+      "word": "代入管乐我真的会哭出来",
+      "onboard_time": 1744017082,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 269976,
+      "num": 269976,
+      "word": "EXO周边",
+      "onboard_time": 1744015823,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 269380,
@@ -849,14 +873,6 @@
       "onboard_time": 1743937642,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259303,
-      "num": 259303,
-      "word": "EXO周边",
-      "onboard_time": 1744015823,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 258364,
@@ -1323,14 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189153,
-      "num": 189153,
-      "word": "代入管乐我真的会哭出来",
-      "onboard_time": 1744017082,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188045,
       "num": 337326,
       "word": "人民网评不说话的爱",
@@ -1344,6 +1352,14 @@
       "word": "谢浩男妈妈公开账号粉丝破50万",
       "onboard_time": 1743998244,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187256,
+      "num": 270099,
+      "word": "王俊凯方辟谣夜店传闻",
+      "onboard_time": 1744015523,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1499,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176007,
+      "num": 176007,
+      "word": "王者荣耀",
+      "onboard_time": 1744018763,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175496,
       "num": 232476,
       "word": "NBA",
@@ -1587,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165431,
+      "num": 165431,
+      "word": "台湾应对美加征关税的措施是买买买",
+      "onboard_time": 1744015642,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 165225,
       "num": 165225,
       "word": "湖人战胜雷霆",
@@ -1667,6 +1699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154670,
+      "num": 154670,
+      "word": "案发后周立人试图隐匿和销毁重要物证",
+      "onboard_time": 1744017983,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153622,
       "num": 153622,
       "word": "半熟4群像",
@@ -1681,6 +1721,14 @@
       "onboard_time": 1743955521,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151485,
+      "num": 151485,
+      "word": "买飞机票最便宜的三个时间段",
+      "onboard_time": 1744018402,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 150509,
@@ -1723,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147564,
+      "num": 147564,
+      "word": "李马克solo",
+      "onboard_time": 1744018703,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147064,
       "num": 147064,
       "word": "种地吧禁止虐待三旬老人林更新",
@@ -1745,14 +1801,6 @@
       "onboard_time": 1744013423,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142272,
-      "num": 142272,
-      "word": "台湾应对美加征关税的措施是买买买",
-      "onboard_time": 1744015642,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 142184,
@@ -1819,6 +1867,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138685,
+      "num": 200481,
+      "word": "国羽苏杯名单公示",
+      "onboard_time": 1744018163,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137158,
+      "num": 137158,
+      "word": "黄子弘凡OK生日刊封面预告",
+      "onboard_time": 1744017805,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 136321,
       "num": 136321,
       "word": "黄景瑜金晨体型差",
@@ -1873,14 +1937,6 @@
       "onboard_time": 1743980659,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 128138,
-      "num": 128138,
-      "word": "案发后周立人试图隐匿和销毁重要物证",
-      "onboard_time": 1744017983,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127487,
@@ -1939,14 +1995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116314,
-      "num": 116314,
-      "word": "黄子弘凡OK生日刊封面预告",
-      "onboard_time": 1744017805,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 115769,
       "num": 115769,
       "word": "范志毅扒陈赫裤子",
@@ -1971,12 +2019,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 104104,
-      "num": 104104,
-      "word": "王俊凯方辟谣夜店传闻",
-      "onboard_time": 1744015523,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 101410,
+      "num": 307957,
+      "word": "美国或向乌克兰发最后通牒",
+      "onboard_time": 1744017082,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 101356,
@@ -2003,12 +2051,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99661,
+      "num": 307982,
+      "word": "甲亢哥微博直播",
+      "onboard_time": 1744018282,
+      "rank": 14,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 98369,
       "num": 297969,
       "word": "刘亦菲同款智界R7增程版上新",
       "onboard_time": 1743998724,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 97344,
+      "num": 323066,
+      "word": "国际金价为何坐上过山车",
+      "onboard_time": 1744016843,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 95324,
@@ -2283,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65734,
+      "num": 170740,
+      "word": "多家公司回应特朗普关税相关影响",
+      "onboard_time": 1744018823,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64421,
       "num": 211692,
       "word": "警方通报女子驾车突发不适车辆失控",
@@ -2347,28 +2419,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 57855,
-      "num": 323066,
-      "word": "国际金价为何坐上过山车",
-      "onboard_time": 1744016843,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 57800,
       "num": 57800,
       "word": "董力把家人气得打电话兴师问罪",
       "onboard_time": 1743943940,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57740,
-      "num": 307957,
-      "word": "美国或向乌克兰发最后通牒",
-      "onboard_time": 1744017082,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 55905,
@@ -2427,6 +2483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42253,
+      "num": 264296,
+      "word": "那个传闻中的救世主沈星回",
+      "onboard_time": 1744018103,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 40778,
       "num": 257065,
       "word": "美多地民众加入抢购潮",
@@ -2449,6 +2513,14 @@
       "onboard_time": 1743960436,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26912,
+      "num": 205438,
+      "word": "外地游客拉着行李箱来深圳买黄金",
+      "onboard_time": 1744018224,
+      "rank": 28,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 23982,
