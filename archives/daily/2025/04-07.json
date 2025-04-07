@@ -1,6 +1,6 @@
 {
   "startTime": 1743956845609,
-  "endTime": 1744024876985,
+  "endTime": 1744025780746,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -65,6 +65,14 @@
       "onboard_time": 1743999623,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1453729,
+      "num": 740622,
+      "word": "徐正溪退圈照顾生病父亲一年后复出",
+      "onboard_time": 1744025182,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1387897,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1063349,
-      "num": 307673,
+      "num": 384567,
       "word": "白鹿模仿苦尽柑来金宣虎笑",
       "onboard_time": 1744022483,
       "rank": 17,
@@ -161,6 +169,14 @@
       "onboard_time": 1743995304,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 997360,
+      "num": 536933,
+      "word": "甲亢哥今晚直播或是最后一场",
+      "onboard_time": 1744025422,
+      "rank": 6,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 979639,
@@ -507,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 465685,
+      "num": 465685,
+      "word": "提前还房贷变难了",
+      "onboard_time": 1744022003,
+      "rank": 22,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 464486,
       "num": 464486,
       "word": "甲亢哥微博直播",
@@ -529,6 +553,14 @@
       "onboard_time": 1743992064,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437637,
+      "num": 437637,
+      "word": "淮水竹亭定档",
+      "onboard_time": 1744024762,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 432567,
@@ -577,14 +609,6 @@
       "onboard_time": 1744017082,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 409935,
-      "num": 409935,
-      "word": "提前还房贷变难了",
-      "onboard_time": 1744022003,
-      "rank": 22,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 403539,
@@ -777,6 +801,14 @@
       "onboard_time": 1744011142,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 329699,
+      "num": 386984,
+      "word": "美股大跌损失惨重马斯克也忍不住了",
+      "onboard_time": 1744024403,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 329588,
@@ -1131,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229110,
-      "num": 177113,
-      "word": "淮水竹亭定档",
-      "onboard_time": 1744024762,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 228883,
       "num": 228883,
       "word": "全球股市迎黑色星期一",
@@ -1244,7 +1268,7 @@
     },
     {
       "raw_hot": 214188,
-      "num": 175781,
+      "num": 197548,
       "word": "国产游戏鸣潮道歉",
       "onboard_time": 1744023743,
       "rank": 31,
@@ -1620,7 +1644,7 @@
     },
     {
       "raw_hot": 180991,
-      "num": 180991,
+      "num": 193826,
       "word": "吃饭跑步和恋爱",
       "onboard_time": 1744022363,
       "rank": 41,
@@ -1699,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175663,
+      "num": 196682,
+      "word": "一个冰箱贴为何一年能卖14万件",
+      "onboard_time": 1744025182,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175496,
       "num": 232476,
       "word": "NBA",
@@ -1721,6 +1753,14 @@
       "onboard_time": 1744016362,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170357,
+      "num": 170357,
+      "word": "金价跌到我心满意足再入手",
+      "onboard_time": 1744024643,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 170247,
@@ -1747,20 +1787,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 169312,
+      "num": 195793,
+      "word": "王心凌穿走了莫奈的花园",
+      "onboard_time": 1744025244,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168257,
       "num": 168257,
       "word": "胡烨韬我已经没有下一个四年了",
       "onboard_time": 1743944300,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167998,
-      "num": 210564,
-      "word": "美股大跌损失惨重马斯克也忍不住了",
-      "onboard_time": 1744024403,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 167814,
@@ -1923,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152974,
+      "num": 152974,
+      "word": "瘦下来后对颜值有4个提升",
+      "onboard_time": 1744023743,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 150509,
       "num": 150509,
       "word": "不敢睁开眼希望今天是五一",
@@ -2003,12 +2051,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145330,
-      "num": 145330,
-      "word": "金价跌到我心满意足再入手",
-      "onboard_time": 1744024643,
-      "rank": 38,
-      "category": "财经"
+      "raw_hot": 145360,
+      "num": 198551,
+      "word": "鸣潮",
+      "onboard_time": 1744024582,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 144848,
@@ -2025,6 +2073,14 @@
       "onboard_time": 1744013423,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144292,
+      "num": 144292,
+      "word": "甲亢哥喝出奶沫白胡子",
+      "onboard_time": 1744022722,
+      "rank": 35,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 142184,
@@ -2049,14 +2105,6 @@
       "onboard_time": 1744007482,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140273,
-      "num": 140273,
-      "word": "鸣潮",
-      "onboard_time": 1744024582,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 140269,
@@ -2121,14 +2169,6 @@
       "onboard_time": 1744019243,
       "rank": 40,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 137456,
-      "num": 137456,
-      "word": "瘦下来后对颜值有4个提升",
-      "onboard_time": 1744023743,
-      "rank": 41,
-      "category": "运动健身"
     },
     {
       "raw_hot": 137158,
@@ -2291,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116264,
+      "num": 293604,
+      "word": "商户门头牌匾禁用红黑蓝三色",
+      "onboard_time": 1744023382,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115769,
       "num": 115769,
       "word": "范志毅扒陈赫裤子",
@@ -2305,6 +2353,14 @@
       "onboard_time": 1744019363,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110063,
+      "num": 110063,
+      "word": "广州市荔湾中心医院工作人员回应",
+      "onboard_time": 1744024702,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108564,
@@ -2563,14 +2619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 79642,
-      "num": 293604,
-      "word": "商户门头牌匾禁用红黑蓝三色",
-      "onboard_time": 1744023382,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78457,
       "num": 291261,
       "word": "邓萃雯谈如何度过人生垃圾时间",
@@ -2787,6 +2835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57417,
+      "num": 159554,
+      "word": "向阳花赵丽颖又一次呐喊",
+      "onboard_time": 1744025602,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55905,
       "num": 540064,
       "word": "清明节放映场次创影史新高",
@@ -2867,6 +2923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36680,
+      "num": 191829,
+      "word": "女子汇8万要帮联合国网恋男友",
+      "onboard_time": 1744024222,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30842,
       "num": 30842,
       "word": "外国人的视角打开周深演唱会",
@@ -2939,14 +3003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17110,
-      "num": 178553,
-      "word": "女子汇8万要帮联合国网恋男友",
-      "onboard_time": 1744024222,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16838,
       "num": 22098,
       "word": "假期结束",
@@ -3009,6 +3065,14 @@
       "onboard_time": 1744009942,
       "rank": 39,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 10898,
+      "num": 132070,
+      "word": "大阪世博会会场沼气超标",
+      "onboard_time": 1744024944,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10648,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1744025780746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2599925,
+        "num": 2599925,
+        "word": "李刚被双开",
+        "onboard_time": 1744021763,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1128497,
+        "num": 1128497,
+        "word": "甲亢哥 槟榔",
+        "onboard_time": 1744019783,
+        "rank": 1,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 17513,
+        "num": 744701,
+        "word": "集中精力办好自己的事",
+        "onboard_time": 1743942741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1453729,
+        "num": 740622,
+        "word": "徐正溪退圈照顾生病父亲一年后复出",
+        "onboard_time": 1744025182,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 696200,
+        "num": 696200,
+        "word": "一家三口被撞身亡案死者亲属盼严惩",
+        "onboard_time": 1744017684,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549230,
+        "num": 549230,
+        "word": "金店老板说靠黄金涨价市场死路一条",
+        "onboard_time": 1744019182,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 997360,
+        "num": 536933,
+        "word": "甲亢哥今晚直播或是最后一场",
+        "onboard_time": 1744025422,
+        "rank": 6,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 513689,
+        "num": 513689,
+        "word": "买飞机票最便宜的三个时间段",
+        "onboard_time": 1744018402,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 465685,
+        "num": 465685,
+        "word": "提前还房贷变难了",
+        "onboard_time": 1744022003,
+        "rank": 8,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 437637,
+        "num": 437637,
+        "word": "淮水竹亭定档",
+        "onboard_time": 1744024762,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1138094,
+        "num": 422389,
+        "word": "特朗普请美国人挺住",
+        "onboard_time": 1744019123,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 329699,
+        "num": 386984,
+        "word": "美股大跌损失惨重马斯克也忍不住了",
+        "onboard_time": 1744024403,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 998312,
+        "num": 384567,
+        "word": "白鹿模仿苦尽柑来金宣虎笑",
+        "onboard_time": 1744022483,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376975,
+        "num": 376975,
+        "word": "双胞胎姐妹佩佩惠惠相继离世",
+        "onboard_time": 1744018703,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375537,
+        "num": 375537,
+        "word": "张若昀唐艺昕雪地找婚戒",
+        "onboard_time": 1744012822,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366844,
+        "num": 366844,
+        "word": "日本约4.2万具遗体无人认领",
+        "onboard_time": 1744016602,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 307957,
+        "num": 307957,
+        "word": "六代机",
+        "onboard_time": 1744019725,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 294404,
+        "num": 294404,
+        "word": "鞠婧祎LV黑色长裙",
+        "onboard_time": 1744019062,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 262608,
+        "num": 262608,
+        "word": "甲亢哥唱阳光彩虹小白马",
+        "onboard_time": 1744022122,
+        "rank": 18,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 228816,
+        "num": 250049,
+        "word": "鹿晗宝石老舅缺席五哈5",
+        "onboard_time": 1744020802,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248984,
+        "num": 248984,
+        "word": "马斯克公开挖苦特朗普顾问",
+        "onboard_time": 1744023443,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213144,
+        "num": 213144,
+        "word": "歌手TANK心肝移植手术成功",
+        "onboard_time": 1744010063,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208256,
+        "num": 208256,
+        "word": "野狗骨头阵容",
+        "onboard_time": 1744024043,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206612,
+        "num": 206612,
+        "word": "医生劝大家自己爽才是天下第一",
+        "onboard_time": 1744017082,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145360,
+        "num": 198551,
+        "word": "鸣潮",
+        "onboard_time": 1744024582,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197548,
+        "num": 197548,
+        "word": "国产游戏鸣潮道歉",
+        "onboard_time": 1744023743,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175663,
+        "num": 196682,
+        "word": "一个冰箱贴为何一年能卖14万件",
+        "onboard_time": 1744025182,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169312,
+        "num": 195793,
+        "word": "王心凌穿走了莫奈的花园",
+        "onboard_time": 1744025244,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162007,
+        "num": 193826,
+        "word": "吃饭跑步和恋爱",
+        "onboard_time": 1744022363,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36680,
+        "num": 191829,
+        "word": "女子汇8万要帮联合国网恋男友",
+        "onboard_time": 1744024222,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191819,
+        "num": 191819,
+        "word": "小米汽车时隔5天发博",
+        "onboard_time": 1744019783,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170357,
+        "num": 170357,
+        "word": "金价跌到我心满意足再入手",
+        "onboard_time": 1744024643,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57417,
+        "num": 159554,
+        "word": "向阳花赵丽颖又一次呐喊",
+        "onboard_time": 1744025602,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152974,
+        "num": 152974,
+        "word": "瘦下来后对颜值有4个提升",
+        "onboard_time": 1744023743,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 627510,
+        "num": 149467,
+        "word": "全球股市巨震",
+        "onboard_time": 1743989420,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144292,
+        "num": 144292,
+        "word": "甲亢哥喝出奶沫白胡子",
+        "onboard_time": 1744022722,
+        "rank": 35,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 143457,
+        "num": 143457,
+        "word": "戚薇谁把我的牛奶换了红酒",
+        "onboard_time": 1744021823,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142585,
+        "num": 142585,
+        "word": "代入管乐我真的会哭出来",
+        "onboard_time": 1744017082,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141817,
+        "num": 141817,
+        "word": "小米集团股价跌超19%",
+        "onboard_time": 1744016123,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10898,
+        "num": 132070,
+        "word": "大阪世博会会场沼气超标",
+        "onboard_time": 1744024944,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129686,
+        "num": 129686,
+        "word": "dota牛蛙离世",
+        "onboard_time": 1744020383,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125170,
+        "num": 125170,
+        "word": "坏了 我没看过柯南",
+        "onboard_time": 1744021343,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119292,
+        "num": 119292,
+        "word": "美股期货暴跌特朗普却在赚钱",
+        "onboard_time": 1744020443,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116264,
+        "num": 116264,
+        "word": "商户门头牌匾禁用红黑蓝三色",
+        "onboard_time": 1744023382,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114236,
+        "num": 114236,
+        "word": "赵露思告黑新名单",
+        "onboard_time": 1744021763,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113214,
+        "num": 113214,
+        "word": "王者荣耀",
+        "onboard_time": 1744018763,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111049,
+        "num": 111049,
+        "word": "优时颜 张康乐马柏全",
+        "onboard_time": 1744020983,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110528,
+        "num": 110528,
+        "word": "A股市场成交量大幅放大",
+        "onboard_time": 1744023683,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110063,
+        "num": 110063,
+        "word": "广州市荔湾中心医院工作人员回应",
+        "onboard_time": 1744024702,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110056,
+        "num": 110056,
+        "word": "美股暴跌后钱都去了哪里",
+        "onboard_time": 1744016664,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#在春风里树木也是树人#"
+    }
+  }
+}
