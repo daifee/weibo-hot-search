@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744064619503,
+  "endTime": 1744065658580,
   "band_list": [
     {
       "raw_hot": 2281087,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 613950,
+      "num": 613950,
+      "word": "全球高度关注中国猛烈反击美国",
+      "onboard_time": 1744047077,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 458767,
       "num": 458767,
       "word": "马斯克似乎与特朗普划清界限",
@@ -75,14 +83,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 419806,
-      "num": 419806,
-      "word": "全球高度关注中国猛烈反击美国",
-      "onboard_time": 1744047077,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 385628,
       "num": 385628,
       "word": "徐正溪退圈照顾生病父亲一年后复出",
@@ -96,6 +96,14 @@
       "word": "中国男子在泰国一沙滩被发现死亡",
       "onboard_time": 1744039403,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 343359,
+      "num": 343359,
+      "word": "大姐每天采茶12小时子宫掉出体外",
+      "onboard_time": 1744050617,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -129,14 +137,6 @@
       "onboard_time": 1744037545,
       "rank": 9,
       "category": "综艺,网红"
-    },
-    {
-      "raw_hot": 219476,
-      "num": 219476,
-      "word": "大姐每天采茶12小时子宫掉出体外",
-      "onboard_time": 1744050617,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207983,
@@ -185,6 +185,14 @@
       "onboard_time": 1744032983,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159866,
+      "num": 159866,
+      "word": "全球资本流向或发生调整",
+      "onboard_time": 1744057934,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 150442,
@@ -243,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127596,
+      "num": 127596,
+      "word": "爆款短剧编剧收入高达一两百万",
+      "onboard_time": 1744065076,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126315,
       "num": 126315,
       "word": "赵丽颖第十套gh高定",
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 123922,
-      "num": 102094,
+      "num": 119799,
       "word": "邓超十条微博示爱警告正在路上",
       "onboard_time": 1744043302,
       "rank": 45,
@@ -273,14 +289,6 @@
       "onboard_time": 1744032264,
       "rank": 30,
       "category": "网红,作品衍生"
-    },
-    {
-      "raw_hot": 118963,
-      "num": 118963,
-      "word": "全球资本流向或发生调整",
-      "onboard_time": 1744057934,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 114775,
@@ -411,20 +419,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80157,
+      "num": 80157,
+      "word": "美国加征关税的回旋镖正中谁的眉心",
+      "onboard_time": 1744057453,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75374,
       "num": 75374,
       "word": "美股三大股指转涨",
       "onboard_time": 1744038564,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 74914,
-      "num": 74914,
-      "word": "美国加征关税的回旋镖正中谁的眉心",
-      "onboard_time": 1744057453,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 74554,
@@ -443,12 +451,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65877,
+      "num": 51657,
+      "word": "纽约股市开盘前特朗普让美国人坚强",
+      "onboard_time": 1744064416,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 61864,
       "num": 61864,
       "word": "Daniel新家",
       "onboard_time": 1744038924,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61377,
+      "num": 61377,
+      "word": "谍报上不封顶 谭卓",
+      "onboard_time": 1744061774,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 59911,
@@ -459,20 +483,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 54400,
+      "num": 50979,
+      "word": "美国网友说副总统万斯愚不可及",
+      "onboard_time": 1744048576,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51753,
       "num": 64998,
       "word": "中国为什么能全球第一个反制对等关税",
       "onboard_time": 1744034605,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 47475,
-      "num": 38533,
-      "word": "美国网友说副总统万斯愚不可及",
-      "onboard_time": 1744048576,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 46352,
@@ -497,14 +521,6 @@
       "onboard_time": 1744046476,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40058,
-      "num": 40058,
-      "word": "谍报上不封顶 谭卓",
-      "onboard_time": 1744061774,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 39119,
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33304,
+      "num": 45684,
+      "word": "特朗普重申美联储应该降息",
+      "onboard_time": 1744061354,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33035,
       "num": 166211,
       "word": "欧盟拟对280亿美元美国商品进行反制",
@@ -547,20 +571,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 30895,
-      "num": 30895,
-      "word": "纽约股市开盘前特朗普让美国人坚强",
-      "onboard_time": 1744064416,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 30086,
+      "num": 30086,
+      "word": "景区回应美人鱼泡在绿水里表演",
+      "onboard_time": 1744056254,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 30465,
-      "num": 45684,
-      "word": "特朗普重申美联储应该降息",
-      "onboard_time": 1744061354,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 29677,
+      "num": 29677,
+      "word": "赵又廷与高圆圆接女儿放学",
+      "onboard_time": 1744065317,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28329,
+      "num": 28329,
+      "word": "12岁它退休了 那你是不是眼睛也好了",
+      "onboard_time": 1744064956,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 27579,
@@ -585,14 +617,6 @@
       "onboard_time": 1744051275,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25164,
-      "num": 25164,
-      "word": "景区回应美人鱼泡在绿水里表演",
-      "onboard_time": 1744056254,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24561,
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 4873,
-      "num": 337660,
+      "num": 478739,
       "word": "中国坚定不移维护多边主义",
       "onboard_time": 1743942922,
       "rank": 2,
