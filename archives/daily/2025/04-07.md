@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/07 00:27:25 ~ 2025/04/07 11:49:39
+本榜单时间：2025/04/07 00:27:25 ~ 2025/04/07 12:29:10
 </p>
 </blockquote>
 <p>
@@ -51,20 +51,26 @@ A股（热度：2689460）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E4%BB%8D%E5%9C%A8%E7%A5%A8%E6%88%BF%E6%A6%9C%E5%89%8D%E4%B8%89%23" target="weibo">
+哪吒2仍在票房榜前三（热度：1027076）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%83%9C%E8%AF%89%23" target="weibo">
 蔡徐坤胜诉（热度：969865）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%885%E6%B2%A1%E6%9C%89%E9%B9%BF%E6%99%97%23" target="weibo">
-五哈5没有鹿晗（热度：914219）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%B4%A2%E9%95%BF%E7%A7%B0%E8%B6%8550%E4%B8%AA%E5%9B%BD%E5%AE%B6%E8%81%94%E7%B3%BB%E4%BA%86%E7%BE%8E%E5%9B%BD%23" target="weibo">
+美财长称超50个国家联系了美国（热度：930020）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E4%BB%8D%E5%9C%A8%E7%A5%A8%E6%88%BF%E6%A6%9C%E5%89%8D%E4%B8%89%23" target="weibo">
-哪吒2仍在票房榜前三（热度：866120）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%885%E6%B2%A1%E6%9C%89%E9%B9%BF%E6%99%97%23" target="weibo">
+五哈5没有鹿晗（热度：914219）
 </a>
 </li>
 
@@ -117,6 +123,12 @@ A股（热度：2689460）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
+金价（热度：633054）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%89%93%E9%B8%9F%23" target="weibo">
 李现打鸟（热度：625047）
 </a>
@@ -131,6 +143,12 @@ A股（热度：2689460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E9%86%92%E6%9D%A5%E5%8F%91%E7%8E%B0%E6%89%8D%E6%98%AF%E5%87%8C%E6%99%A82%E7%82%B9%E5%8D%8A%23" target="weibo">
 半夜醒来发现才是凌晨2点半（热度：595795）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E5%B8%82%E5%9C%BA%E5%A4%A7%E8%B7%8C%23" target="weibo">
+特朗普回应市场大跌（热度：579647）
 </a>
 </li>
 
@@ -195,6 +213,12 @@ Bin（热度：521478）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%8B%A5%E6%99%97%E9%A6%96%E9%83%A8%E4%B8%80%E7%95%AA%E5%8F%A4%E8%A3%85%E5%89%A7%23" target="weibo">
+徐若晗首部一番古装剧（热度：443910）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%9C%8924%E5%A4%A9%E6%94%BE%E5%81%875%E5%A4%A9%23" target="weibo">
 还有24天放假5天（热度：443515）
 </a>
@@ -213,8 +237,26 @@ Bin（热度：521478）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E6%81%A9%E5%9B%A2%E9%98%9F%E8%A2%AB%E8%B7%AF%E4%BA%BA%E6%80%BC%23" target="weibo">
+余承恩团队被路人怼（热度：407818）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%A6%E5%B0%BD%E6%9F%91%E6%9D%A5%E9%81%87%E8%A7%81%E4%BD%A0%E5%85%AB%E9%A1%B9%E7%99%BE%E6%83%B3%E6%8F%90%E5%90%8D%23" target="weibo">
+苦尽柑来遇见你八项百想提名（热度：407298）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%A1%E5%B8%82%23" target="weibo">
 股市（热度：403539）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%BF%98%E8%83%BD%E5%85%A5%E6%89%8B%E9%87%91%E6%9D%A1%E9%87%91%E9%A5%B0%E5%90%97%23" target="weibo">
+现在还能入手金条金饰吗（热度：396639）
 </a>
 </li>
 
@@ -267,8 +309,8 @@ IU三提百想视后（热度：380483）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%A6%E5%B0%BD%E6%9F%91%E6%9D%A5%E9%81%87%E8%A7%81%E4%BD%A0%E5%85%AB%E9%A1%B9%E7%99%BE%E6%83%B3%E6%8F%90%E5%90%8D%23" target="weibo">
-苦尽柑来遇见你八项百想提名（热度：340239）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E4%BD%8F%E8%BF%87%E6%9C%80%E5%A5%BD%E7%9A%84%E9%85%92%E5%BA%97%E5%9C%A8%E4%B8%AD%E5%9B%BD%23" target="weibo">
+甲亢哥住过最好的酒店在中国（热度：355482）
 </a>
 </li>
 
@@ -305,6 +347,12 @@ iPhone17Air新机模曝光（热度：338228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%85%E6%BC%BE%20%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
 雅漾 樊振东（热度：298120）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E6%A1%A33.78%E4%BA%BF%E6%94%B6%E5%AE%98%23" target="weibo">
+清明档3.78亿收官（热度：296309）
 </a>
 </li>
 
@@ -369,8 +417,14 @@ TheShy赛后道歉（热度：258364）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B9%B0%E8%B6%85%E7%AD%89%E5%A5%BD%E5%8F%8B%E8%81%9A%E4%BC%9A%23" target="weibo">
+范丞丞买超等好友聚会（热度：236976）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%885%E6%B2%A1%E6%9C%89%E8%80%81%E8%88%85%23" target="weibo">
-五哈5没有老舅（热度：232967）
+五哈5没有老舅（热度：233277）
 </a>
 </li>
 
@@ -393,6 +447,12 @@ A股三大指数触底回升（热度：226566）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E8%BF%8E%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%B8%80%23" target="weibo">
+全球股市迎黑色星期一（热度：223966）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%88%BF%E8%B5%B7%E7%81%AB%E7%88%B6%E4%BA%B2%E8%B7%B3%E7%AA%97%E9%80%83%E7%94%9F15%E5%B2%81%E7%94%B7%E5%AD%A9%E8%BA%AB%E4%BA%A1%23" target="weibo">
 民房起火父亲跳窗逃生15岁男孩身亡（热度：223334）
 </a>
@@ -405,8 +465,8 @@ A股三大指数触底回升（热度：226566）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%B4%A2%E9%95%BF%E7%A7%B0%E8%B6%8550%E4%B8%AA%E5%9B%BD%E5%AE%B6%E8%81%94%E7%B3%BB%E4%BA%86%E7%BE%8E%E5%9B%BD%23" target="weibo">
-美财长称超50个国家联系了美国（热度：221140）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E7%86%9F%E6%81%8B%E4%BA%BA%23" target="weibo">
+半熟恋人（热度：219511）
 </a>
 </li>
 
@@ -495,6 +555,12 @@ A股三大指数触底回升（热度：226566）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E6%B5%A9%E7%94%B7%E5%A6%88%E5%A6%88%E5%85%AC%E5%BC%80%E8%B4%A6%E5%8F%B7%E7%B2%89%E4%B8%9D%E7%A0%B450%E4%B8%87%23" target="weibo">
+谢浩男妈妈公开账号粉丝破50万（热度：188011）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%AE%ADvs%E5%8B%87%E5%A3%AB%23" target="weibo">
 火箭vs勇士（热度：185582）
 </a>
@@ -503,6 +569,12 @@ A股三大指数触底回升（热度：226566）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E9%B8%9F%E5%B7%A2%E9%9F%B3%E5%93%8D%E6%98%AF%E5%8E%BB%E5%B9%B42%E5%80%8D%23" target="weibo">
 张杰鸟巢音响是去年2倍（热度：184571）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B17%E4%BA%BA%E7%94%B7%E5%9B%A2%E4%B8%8A%E6%96%B0NexT1DE%23" target="weibo">
+内娱7人男团上新NexT1DE（热度：183400）
 </a>
 </li>
 
@@ -519,18 +591,6 @@ A股三大指数触底回升（热度：226566）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
-金价（热度：181899）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E5%B8%82%E5%9C%BA%E5%A4%A7%E8%B7%8C%23" target="weibo">
-特朗普回应市场大跌（热度：180394）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%88%9A%E5%88%9A%E5%BD%95%E5%AE%8C%E4%B8%89%E5%85%AC%23" target="weibo">
 谢娜刚刚录完三公（热度：179017）
 </a>
@@ -539,6 +599,12 @@ A股三大指数触底回升（热度：226566）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%A8%AA%E5%BA%97%E6%98%AF%E7%94%9F%E6%B4%BB%E5%8D%97%E6%B3%95%E6%98%AF%E6%A2%A6%E6%83%B3%23" target="weibo">
 成毅横店是生活南法是梦想（热度：178922）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E6%96%B0%E5%89%A7%E5%85%A8%E6%98%AF%E5%93%81%E8%B4%A8%E4%BA%8C%E6%90%AD%23" target="weibo">
+孙俪新剧全是品质二搭（热度：178554）
 </a>
 </li>
 
@@ -557,6 +623,18 @@ A股三大指数触底回升（热度：226566）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%99%8E%E5%B1%B1%E5%81%B6%E9%81%87%E6%9D%8E%E7%8E%B0%23" target="weibo">
 龙虎山偶遇李现（热度：177027）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E7%A7%B0%E7%BE%8E%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%A6%82%E5%90%8C%E5%9B%BD%E9%9A%BE%23" target="weibo">
+石破茂称美加征关税对日本如同国难（热度：176332）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23NBA%23" target="weibo">
+NBA（热度：175496）
 </a>
 </li>
 
@@ -651,14 +729,14 @@ A股三大指数触底回升（热度：226566）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%BF%98%E8%83%BD%E5%85%A5%E6%89%8B%E9%87%91%E6%9D%A1%E9%87%91%E9%A5%B0%E5%90%97%23" target="weibo">
-现在还能入手金条金饰吗（热度：145609）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%BB%AA%E4%B8%B9%E4%BD%93%E9%87%8D80%E6%96%A4%23" target="weibo">
+祝绪丹体重80斤（热度：142065）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%BB%AA%E4%B8%B9%E4%BD%93%E9%87%8D80%E6%96%A4%23" target="weibo">
-祝绪丹体重80斤（热度：142065）
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E5%86%8D%E5%9B%9E%E5%BA%94%E4%BF%84%E7%BD%97%E6%96%AF%E6%B2%A1%E4%B8%8A%E5%85%B3%E7%A8%8E%E5%90%8D%E5%8D%95%23" target="weibo">
+白宫再回应俄罗斯没上关税名单（热度：141341）
 </a>
 </li>
 
@@ -771,6 +849,12 @@ iPhone17Pro系列机模渲染图（热度：123154）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%90%8C%E6%AC%BE%E6%99%BA%E7%95%8CR7%E5%A2%9E%E7%A8%8B%E7%89%88%E4%B8%8A%E6%96%B0%23" target="weibo">
+刘亦菲同款智界R7增程版上新（热度：98369）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%98%B3%E8%8A%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B48000%E4%B8%87%23" target="weibo">
 向阳花总票房破8000万（热度：95324）
 </a>
@@ -833,6 +917,12 @@ BLG对战IG（热度：91830）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%AD%E5%8D%93%E5%90%83%E7%9A%84%E5%A5%BD%E6%92%91%E5%B9%B2%E7%9A%84%E5%A5%BD%E6%BB%A1%23" target="weibo">
 鹭卓吃的好撑干的好满（热度：86481）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B6%E5%9C%A8%E5%8F%A4%E9%A9%B0%E6%B4%BB%E5%8A%A8%E5%BD%93%E5%AF%BC%E6%B8%B8%23" target="weibo">
+周翊然在古驰活动当导游（热度：86420）
 </a>
 </li>
 
@@ -987,6 +1077,12 @@ u17国足vs乌兹别克斯坦u17（热度：74179）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E4%B8%8D%E8%AF%B4%E8%AF%9D%E7%9A%84%E7%88%B1%E8%A7%82%E5%90%8E%E6%84%9F%23" target="weibo">
+陈乔恩不说话的爱观后感（热度：59401）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%8A%9B%E6%8A%8A%E5%AE%B6%E4%BA%BA%E6%B0%94%E5%BE%97%E6%89%93%E7%94%B5%E8%AF%9D%E5%85%B4%E5%B8%88%E9%97%AE%E7%BD%AA%23" target="weibo">
 董力把家人气得打电话兴师问罪（热度：57800）
 </a>
@@ -1017,8 +1113,20 @@ Bin塞恩（热度：54169）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A4%9A%E5%9C%B0%E6%B0%91%E4%BC%97%E5%8A%A0%E5%85%A5%E6%8A%A2%E8%B4%AD%E6%BD%AE%23" target="weibo">
+美多地民众加入抢购潮（热度：40778）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%AF%B4%E6%88%91%E7%9A%84%E5%8F%B3%E8%84%B8%E6%AF%94%E8%BE%83%E5%A5%BD%E7%9C%8B%23" target="weibo">
 周深说我的右脸比较好看（热度：39414）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E8%8A%82%E6%94%BE%E6%98%A0%E5%9C%BA%E6%AC%A1%E5%88%9B%E5%BD%B1%E5%8F%B2%E6%96%B0%E9%AB%98%23" target="weibo">
+清明节放映场次创影史新高（热度：31982）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1744000150496,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9225534,
+        "num": 9225534,
+        "word": "全球股市巨震",
+        "onboard_time": 1743989420,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1314378,
+        "num": 1314378,
+        "word": "金价再开跌",
+        "onboard_time": 1743983721,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 60986,
+        "num": 1236007,
+        "word": "集中精力办好自己的事",
+        "onboard_time": 1743942741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1211694,
+        "num": 1211694,
+        "word": "熔断",
+        "onboard_time": 1743992064,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1027076,
+        "num": 1027076,
+        "word": "哪吒2仍在票房榜前三",
+        "onboard_time": 1743995304,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 930020,
+        "num": 930020,
+        "word": "美财长称超50个国家联系了美国",
+        "onboard_time": 1743997644,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 784884,
+        "num": 784884,
+        "word": "五哈5艺人官宣",
+        "onboard_time": 1743993323,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 633054,
+        "num": 633054,
+        "word": "金价",
+        "onboard_time": 1743997764,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 579647,
+        "num": 579647,
+        "word": "特朗普回应市场大跌",
+        "onboard_time": 1743996923,
+        "rank": 8,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 31982,
+        "num": 540064,
+        "word": "清明节放映场次创影史新高",
+        "onboard_time": 1743999263,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 740491,
+        "num": 538934,
+        "word": "蔡徐坤胜诉",
+        "onboard_time": 1743990742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510066,
+        "num": 510066,
+        "word": "曝iPhone19Pro外形颠覆",
+        "onboard_time": 1743991100,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 507116,
+        "num": 507116,
+        "word": "甲亢哥长沙",
+        "onboard_time": 1743989420,
+        "rank": 12,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 467241,
+        "num": 467241,
+        "word": "金价为何开始跌了",
+        "onboard_time": 1743992543,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 443910,
+        "num": 443910,
+        "word": "徐若晗首部一番古装剧",
+        "onboard_time": 1743998903,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427105,
+        "num": 427105,
+        "word": "五四奖章入围名单公示",
+        "onboard_time": 1743989060,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 407818,
+        "num": 407818,
+        "word": "余承恩团队被路人怼",
+        "onboard_time": 1743999623,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407298,
+        "num": 407298,
+        "word": "苦尽柑来遇见你八项百想提名",
+        "onboard_time": 1743996624,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396639,
+        "num": 396639,
+        "word": "现在还能入手金条金饰吗",
+        "onboard_time": 1743997164,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141341,
+        "num": 370091,
+        "word": "白宫再回应俄罗斯没上关税名单",
+        "onboard_time": 1743999384,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352059,
+        "num": 352059,
+        "word": "基金",
+        "onboard_time": 1743993143,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 305753,
+        "num": 305753,
+        "word": "陈丽君入围五四奖章名单",
+        "onboard_time": 1743995122,
+        "rank": 21,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 296309,
+        "num": 296309,
+        "word": "清明档3.78亿收官",
+        "onboard_time": 1743998724,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 293511,
+        "num": 293511,
+        "word": "五哈5没有鹿晗",
+        "onboard_time": 1743993624,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132066,
+        "num": 269357,
+        "word": "库里全场三分",
+        "onboard_time": 1743996084,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263230,
+        "num": 263230,
+        "word": "特朗普顾问说只要不卖股票就不会亏钱",
+        "onboard_time": 1743996443,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98369,
+        "num": 263129,
+        "word": "刘亦菲同款智界R7增程版上新",
+        "onboard_time": 1743998724,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263087,
+        "num": 263087,
+        "word": "还有24天放假5天",
+        "onboard_time": 1743992064,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86420,
+        "num": 262195,
+        "word": "周翊然在古驰活动当导游",
+        "onboard_time": 1743999143,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40778,
+        "num": 257065,
+        "word": "美多地民众加入抢购潮",
+        "onboard_time": 1743998662,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 355482,
+        "num": 251289,
+        "word": "甲亢哥住过最好的酒店在中国",
+        "onboard_time": 1743997882,
+        "rank": 30,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 178554,
+        "num": 247512,
+        "word": "孙俪新剧全是品质二搭",
+        "onboard_time": 1743999263,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246794,
+        "num": 246794,
+        "word": "金饰价格4天狂跌46元",
+        "onboard_time": 1743995363,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 236976,
+        "num": 236976,
+        "word": "范丞丞买超等好友聚会",
+        "onboard_time": 1743999683,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153570,
+        "num": 234110,
+        "word": "张杰鸟巢音响是去年2倍",
+        "onboard_time": 1743997103,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 233277,
+        "num": 233277,
+        "word": "五哈5没有老舅",
+        "onboard_time": 1743996983,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223966,
+        "num": 223966,
+        "word": "全球股市迎黑色星期一",
+        "onboard_time": 1743997882,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 302344,
+        "num": 223145,
+        "word": "美财长将美股崩盘甩锅DeepSeek",
+        "onboard_time": 1743993381,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59401,
+        "num": 220537,
+        "word": "陈乔恩不说话的爱观后感",
+        "onboard_time": 1743998724,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219511,
+        "num": 219511,
+        "word": "半熟恋人",
+        "onboard_time": 1743999683,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217122,
+        "num": 217122,
+        "word": "奥巴马首次抨击特朗普第二任期政策",
+        "onboard_time": 1743990680,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213383,
+        "num": 213383,
+        "word": "欧盟将首次反击美国关税",
+        "onboard_time": 1743994403,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212533,
+        "num": 212533,
+        "word": "潘玮柏回应突然变回20岁模样",
+        "onboard_time": 1743981979,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206275,
+        "num": 206275,
+        "word": "微信居然还有这么多好用功能",
+        "onboard_time": 1743991100,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194141,
+        "num": 194141,
+        "word": "医生建议节后上班前三天少干活",
+        "onboard_time": 1743989661,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188011,
+        "num": 188011,
+        "word": "谢浩男妈妈公开账号粉丝破50万",
+        "onboard_time": 1743998244,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144281,
+        "num": 184719,
+        "word": "闫子贝退役",
+        "onboard_time": 1743995963,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183400,
+        "num": 183400,
+        "word": "内娱7人男团上新NexT1DE",
+        "onboard_time": 1743998544,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176332,
+        "num": 176332,
+        "word": "石破茂称美加征关税对日本如同国难",
+        "onboard_time": 1744000103,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175496,
+        "num": 175496,
+        "word": "NBA",
+        "onboard_time": 1743999384,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#正确的战略需要正确的策略来落实#"
+    }
+  }
+}
