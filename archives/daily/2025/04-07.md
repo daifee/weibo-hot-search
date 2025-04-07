@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/07 00:27:25 ~ 2025/04/07 11:08:30
+本榜单时间：2025/04/07 00:27:25 ~ 2025/04/07 11:16:43
 </p>
 </blockquote>
 <p>
@@ -34,7 +34,7 @@ A股（热度：2689460）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%86%94%E6%96%AD%23" target="weibo">
-熔断（热度：1419105）
+熔断（热度：1516843）
 </a>
 </li>
 
@@ -76,7 +76,7 @@ A股（热度：2689460）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone19Pro%E5%A4%96%E5%BD%A2%E9%A2%A0%E8%A6%86%23" target="weibo">
-曝iPhone19Pro外形颠覆（热度：793185）
+曝iPhone19Pro外形颠覆（热度：794037）
 </a>
 </li>
 
@@ -93,6 +93,12 @@ A股（热度：2689460）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%BC%80%E5%A7%8B%E8%B7%8C%E4%BA%86%23" target="weibo">
+金价为何开始跌了（热度：684560）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%87%8F%E9%87%8D20%E6%96%A4%E7%AD%89%E4%BA%8E%E5%87%8F%E9%BE%8420%E5%B2%81%23" target="weibo">
 潘玮柏减重20斤等于减龄20岁（热度：660117）
 </a>
@@ -101,12 +107,6 @@ A股（热度：2689460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E5%BC%95%E5%8F%91%E5%85%A8%E7%90%83%E5%8F%8D%E5%87%BB%23" target="weibo">
 美国关税政策引发全球反击（热度：647379）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%BC%80%E5%A7%8B%E8%B7%8C%E4%BA%86%23" target="weibo">
-金价为何开始跌了（热度：633931）
 </a>
 </li>
 
@@ -153,8 +153,20 @@ Bin（热度：521478）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E9%87%91%23" target="weibo">
+基金（热度：519517）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%A4%B1%E6%8E%A7%E6%92%9E%E8%8A%B1%E5%9D%9B%E8%85%BE%E7%A9%BA%E8%90%BD%E4%B8%8B%E5%8E%8B%E6%AF%815%E8%BD%A6%23" target="weibo">
 特斯拉失控撞花坛腾空落下压毁5车（热度：497362）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E5%B0%86%E9%A6%96%E6%AC%A1%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%A8%8E%23" target="weibo">
+欧盟将首次反击美国关税（热度：491255）
 </a>
 </li>
 
@@ -171,12 +183,6 @@ Bin（热度：521478）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E9%87%91%23" target="weibo">
-基金（热度：458317）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%9C%8924%E5%A4%A9%E6%94%BE%E5%81%875%E5%A4%A9%23" target="weibo">
 还有24天放假5天（热度：443515）
 </a>
@@ -184,7 +190,7 @@ Bin（热度：521478）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%B1%85%E7%84%B6%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E7%94%A8%E5%8A%9F%E8%83%BD%23" target="weibo">
-微信居然还有这么多好用功能（热度：407153）
+微信居然还有这么多好用功能（热度：420939）
 </a>
 </li>
 
@@ -237,6 +243,12 @@ IU三提百想视后（热度：380483）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E4%BB%8D%E5%9C%A8%E7%A5%A8%E6%88%BF%E6%A6%9C%E5%89%8D%E4%B8%89%23" target="weibo">
+哪吒2仍在票房榜前三（热度：359856）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E5%90%84%E5%A4%84%E7%9A%84%E8%AD%A6%E5%91%8A%23" target="weibo">
 身体各处的警告（热度：356305）
 </a>
@@ -249,8 +261,14 @@ iPhone17Air新机模曝光（热度：338228）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E5%B0%86%E9%A6%96%E6%AC%A1%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%A8%8E%23" target="weibo">
-欧盟将首次反击美国关税（热度：312842）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%9B%9B%E5%A5%96%E7%AB%A0%E5%85%A5%E5%9B%B4%E5%90%8D%E5%8D%95%E5%85%AC%E7%A4%BA%23" target="weibo">
+五四奖章入围名单公示（热度：324115）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%91%8A%E9%BB%91%E6%A1%88%E8%BF%9B%E5%BA%A6%23" target="weibo">
+赵露思告黑案进度（热度：311367）
 </a>
 </li>
 
@@ -261,8 +279,8 @@ iPhone17Air新机模曝光（热度：338228）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%9B%9B%E5%A5%96%E7%AB%A0%E5%85%A5%E5%9B%B4%E5%90%8D%E5%8D%95%E5%85%AC%E7%A4%BA%23" target="weibo">
-五四奖章入围名单公示（热度：305672）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%AF%81%E4%BA%A4%E6%89%80%E8%A7%A6%E5%8F%91%E7%86%94%E6%96%AD%23" target="weibo">
+中国台湾证交所触发熔断（热度：303177）
 </a>
 </li>
 
@@ -279,14 +297,14 @@ iPhone17Air新机模曝光（热度：338228）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E8%AF%81%E4%BA%A4%E6%89%80%E8%A7%A6%E5%8F%91%E7%86%94%E6%96%AD%23" target="weibo">
-中国台湾证交所触发熔断（热度：297213）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%AD%A3%E9%9D%A2%E5%9B%9E%E5%BA%94%E4%BD%93%E9%87%8D%E5%8F%98%E5%8C%96%E5%BD%B1%E5%93%8D%E5%8A%A8%E4%BD%9C%23" target="weibo">
+全红婵正面回应体重变化影响动作（热度：271085）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%AD%A3%E9%9D%A2%E5%9B%9E%E5%BA%94%E4%BD%93%E9%87%8D%E5%8F%98%E5%8C%96%E5%BD%B1%E5%93%8D%E5%8A%A8%E4%BD%9C%23" target="weibo">
-全红婵正面回应体重变化影响动作（热度：271085）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E9%99%8D%E8%87%B3912%E5%85%83%23" target="weibo">
+金饰价格降至912元（热度：265453）
 </a>
 </li>
 
@@ -303,8 +321,20 @@ TheShy赛后道歉（热度：258364）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E5%85%A5%E5%9B%B4%E4%BA%94%E5%9B%9B%E5%A5%96%E7%AB%A0%E5%90%8D%E5%8D%95%23" target="weibo">
+陈丽君入围五四奖章名单（热度：249778）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%8D%95%E6%89%8B%E9%AA%91%E9%A9%AC%23" target="weibo">
 孟子义单手骑马（热度：249375）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%B5%94%E5%81%BF%E6%AC%BE%E5%B0%86%E9%80%9A%E8%BF%87%E5%85%AC%E7%9B%8A%E9%A1%B9%E7%9B%AE%E6%8D%90%E5%87%BA%23" target="weibo">
+蔡徐坤赔偿款将通过公益项目捐出（热度：243533）
 </a>
 </li>
 
@@ -317,12 +347,6 @@ TheShy赛后道歉（热度：258364）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%23" target="weibo">
 宁艺卓即将大学毕业（热度：237544）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%B5%94%E5%81%BF%E6%AC%BE%E5%B0%86%E9%80%9A%E8%BF%87%E5%85%AC%E7%9B%8A%E9%A1%B9%E7%9B%AE%E6%8D%90%E5%87%BA%23" target="weibo">
-蔡徐坤赔偿款将通过公益项目捐出（热度：235353）
 </a>
 </li>
 
@@ -345,6 +369,12 @@ TheShy赛后道歉（热度：258364）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%A7%A6%E5%BA%95%E5%9B%9E%E5%8D%87%23" target="weibo">
+A股三大指数触底回升（热度：220853）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E6%8C%87%E6%95%B0%E6%9C%9F%E8%B4%A7%E5%BC%80%E7%9B%98%E6%9A%B4%E8%B7%8C%23" target="weibo">
 美股指数期货开盘暴跌（热度：214009）
 </a>
@@ -363,12 +393,6 @@ TheShy赛后道歉（热度：258364）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%91%8A%E9%BB%91%E6%A1%88%E8%BF%9B%E5%BA%A6%23" target="weibo">
-赵露思告黑案进度（热度：211059）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E8%84%B8%E6%B4%97%E4%B8%8D%E5%AF%B9%E5%8F%AF%E8%83%BD%E4%BC%A4%E7%9A%AE%E8%82%A4%23" target="weibo">
 洗脸洗不对可能伤皮肤（热度：210805）
 </a>
@@ -381,14 +405,14 @@ TheShy赛后道歉（热度：258364）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%86%E9%AA%8F%E6%BC%94%E6%80%BB%E8%A3%81%E4%B9%8B%E5%89%8D%E4%B9%9F%E6%9B%BE%E8%BF%9B%E5%8E%82%E6%89%93%E8%9E%BA%E4%B8%9D%23" target="weibo">
-张集骏演总裁之前也曾进厂打螺丝（热度：198221）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E9%9F%B3%E7%BB%BC%E5%AF%BC%E5%B8%88%E5%BD%93%E4%B8%8A%E7%98%BE%E4%BA%86%23" target="weibo">
+徐明浩音综导师当上瘾了（热度：198720）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E9%99%8D%E8%87%B3912%E5%85%83%23" target="weibo">
-金饰价格降至912元（热度：197817）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%86%E9%AA%8F%E6%BC%94%E6%80%BB%E8%A3%81%E4%B9%8B%E5%89%8D%E4%B9%9F%E6%9B%BE%E8%BF%9B%E5%8E%82%E6%89%93%E8%9E%BA%E4%B8%9D%23" target="weibo">
+张集骏演总裁之前也曾进厂打螺丝（热度：198221）
 </a>
 </li>
 
@@ -441,6 +465,12 @@ TheShy赛后道歉（热度：258364）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC4%E5%A4%A9%E7%8B%82%E8%B7%8C46%E5%85%83%23" target="weibo">
+金饰价格4天狂跌46元（热度：177534）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%8B%B9%E6%9E%9C%E8%A6%81%E6%B1%82%E4%BE%9B%E5%BA%94%E5%95%86%E9%99%8D%E4%BB%B7%23" target="weibo">
 曝苹果要求供应商降价（热度：177381）
 </a>
@@ -461,12 +491,6 @@ TheShy赛后道歉（热度：258364）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E15%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%AE%B6%E5%81%9A%E5%AE%9E%E9%AA%8C%E5%BC%95%E7%88%86%E7%82%B8%E7%83%A7%E4%BC%A4%23" target="weibo">
 广州15岁男孩在家做实验引爆炸烧伤（热度：169663）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E5%85%A5%E5%9B%B4%E4%BA%94%E5%9B%9B%E5%A5%96%E7%AB%A0%E5%90%8D%E5%8D%95%23" target="weibo">
-陈丽君入围五四奖章名单（热度：169265）
 </a>
 </li>
 
@@ -521,6 +545,12 @@ TheShy赛后道歉（热度：258364）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%92%8F%E7%90%AA%E8%AF%B4%E5%BC%A0%E8%BF%9C%E5%94%B1%E7%9A%84%E5%B7%A8%E5%A5%BD%E5%90%AC%23" target="weibo">
 梁咏琪说张远唱的巨好听（热度：152985）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E6%80%BB%E7%90%86%E5%87%86%E5%A4%87%E5%8A%A8%E7%94%A8%E4%B8%80%E5%88%87%E5%BF%85%E8%A6%81%E6%89%8B%E6%AE%B5%23" target="weibo">
+意大利总理准备动用一切必要手段（热度：151753）
 </a>
 </li>
 
@@ -983,6 +1013,12 @@ Bin塞恩（热度：54169）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%9E%E4%BA%BA%E5%8F%B8%E9%A9%AC%E5%85%89%E5%85%BB%E6%88%90%E7%B3%BB%E7%A7%80%E4%BA%BA%23" target="weibo">
 竞人司马光养成系秀人（热度：8853）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E9%92%BB%E6%B4%9E%E6%89%AB%E5%A2%93%23" target="weibo">
+广西钻洞扫墓（热度：6709）
 </a>
 </li>
 

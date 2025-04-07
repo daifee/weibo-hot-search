@@ -1,0 +1,410 @@
+{
+  "runTime": 1743995803301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10945786,
+        "num": 10945786,
+        "word": "全球股市巨震",
+        "onboard_time": 1743989420,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1721485,
+        "num": 1721485,
+        "word": "金价再开跌",
+        "onboard_time": 1743983721,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66238,
+        "num": 1541158,
+        "word": "集中精力办好自己的事",
+        "onboard_time": 1743942741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1516843,
+        "num": 1516843,
+        "word": "熔断",
+        "onboard_time": 1743992064,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1200848,
+        "num": 1200848,
+        "word": "五哈5艺人官宣",
+        "onboard_time": 1743993323,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 794037,
+        "num": 794037,
+        "word": "曝iPhone19Pro外形颠覆",
+        "onboard_time": 1743991100,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 845795,
+        "num": 762827,
+        "word": "五哈5没有鹿晗",
+        "onboard_time": 1743993624,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 686147,
+        "num": 686147,
+        "word": "甲亢哥长沙",
+        "onboard_time": 1743989420,
+        "rank": 7,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 684560,
+        "num": 684560,
+        "word": "金价为何开始跌了",
+        "onboard_time": 1743992543,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 491255,
+        "num": 604276,
+        "word": "欧盟将首次反击美国关税",
+        "onboard_time": 1743994403,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 772255,
+        "num": 597932,
+        "word": "蔡徐坤胜诉",
+        "onboard_time": 1743990742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591562,
+        "num": 591562,
+        "word": "美财长将美股崩盘甩锅DeepSeek",
+        "onboard_time": 1743993381,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 519517,
+        "num": 519517,
+        "word": "基金",
+        "onboard_time": 1743993143,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 452462,
+        "num": 452462,
+        "word": "奥巴马首次抨击特朗普第二任期政策",
+        "onboard_time": 1743990680,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220853,
+        "num": 451012,
+        "word": "A股三大指数触底回升",
+        "onboard_time": 1743995423,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 360289,
+        "num": 450292,
+        "word": "全网都在期待甲亢哥和大张伟见面",
+        "onboard_time": 1743993504,
+        "rank": 15,
+        "category": "网红,艺人"
+      },
+      {
+        "raw_hot": 359856,
+        "num": 448969,
+        "word": "哪吒2仍在票房榜前三",
+        "onboard_time": 1743995304,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292858,
+        "num": 446143,
+        "word": "潘玮柏回应突然变回20岁模样",
+        "onboard_time": 1743981979,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 311367,
+        "num": 444544,
+        "word": "赵露思告黑案进度",
+        "onboard_time": 1743994822,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207582,
+        "num": 443528,
+        "word": "最强苹替vivoX200s惊艳果粉",
+        "onboard_time": 1743993923,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 442011,
+        "num": 442011,
+        "word": "还有24天放假5天",
+        "onboard_time": 1743992064,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420939,
+        "num": 420939,
+        "word": "微信居然还有这么多好用功能",
+        "onboard_time": 1743991100,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 367262,
+        "num": 367262,
+        "word": "全市场超1000只个股跌停",
+        "onboard_time": 1743994162,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 346732,
+        "num": 346732,
+        "word": "医生建议节后上班前三天少干活",
+        "onboard_time": 1743989661,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265453,
+        "num": 324392,
+        "word": "金饰价格降至912元",
+        "onboard_time": 1743994822,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 324115,
+        "num": 324115,
+        "word": "五四奖章入围名单公示",
+        "onboard_time": 1743989060,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 303177,
+        "num": 303177,
+        "word": "中国台湾证交所触发熔断",
+        "onboard_time": 1743992602,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 256098,
+        "num": 276215,
+        "word": "IU三提百想视后",
+        "onboard_time": 1743990080,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251766,
+        "num": 275532,
+        "word": "李现打鸟",
+        "onboard_time": 1743987741,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198720,
+        "num": 275209,
+        "word": "徐明浩音综导师当上瘾了",
+        "onboard_time": 1743995482,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275205,
+        "num": 275205,
+        "word": "雅漾 樊振东",
+        "onboard_time": 1743993624,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249778,
+        "num": 249778,
+        "word": "陈丽君入围五四奖章名单",
+        "onboard_time": 1743995122,
+        "rank": 31,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 243533,
+        "num": 243533,
+        "word": "蔡徐坤赔偿款将通过公益项目捐出",
+        "onboard_time": 1743993263,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222002,
+        "num": 222002,
+        "word": "股市",
+        "onboard_time": 1743989901,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187508,
+        "num": 187508,
+        "word": "19天班后就是五一假期",
+        "onboard_time": 1743984019,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184159,
+        "num": 184159,
+        "word": "民房起火父亲跳窗逃生15岁男孩身亡",
+        "onboard_time": 1743982880,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179168,
+        "num": 179168,
+        "word": "百花杀开机",
+        "onboard_time": 1743985221,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177534,
+        "num": 177534,
+        "word": "金饰价格4天狂跌46元",
+        "onboard_time": 1743995363,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166322,
+        "num": 166322,
+        "word": "曝苹果要求供应商降价",
+        "onboard_time": 1743993022,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 6709,
+        "num": 165447,
+        "word": "广西钻洞扫墓",
+        "onboard_time": 1743995603,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164969,
+        "num": 164969,
+        "word": "张集骏演总裁之前也曾进厂打螺丝",
+        "onboard_time": 1743994644,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163557,
+        "num": 163557,
+        "word": "特斯拉失控撞花坛腾空落下压毁5车",
+        "onboard_time": 1743982880,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158828,
+        "num": 158828,
+        "word": "美国有人开始囤货了",
+        "onboard_time": 1743945202,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158594,
+        "num": 158594,
+        "word": "美股指数期货开盘暴跌",
+        "onboard_time": 1743987019,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155942,
+        "num": 155942,
+        "word": "火箭vs勇士",
+        "onboard_time": 1743992183,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155109,
+        "num": 155109,
+        "word": "王俊凯演技",
+        "onboard_time": 1743989241,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153988,
+        "num": 153988,
+        "word": "半夜醒来发现才是凌晨2点半",
+        "onboard_time": 1743973093,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151753,
+        "num": 151753,
+        "word": "意大利总理准备动用一切必要手段",
+        "onboard_time": 1743995783,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150555,
+        "num": 150555,
+        "word": "日本股市巨震",
+        "onboard_time": 1743991883,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149614,
+        "num": 149614,
+        "word": "杭州地铁5号线",
+        "onboard_time": 1743992422,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#践行绿色发展理念弘扬生态文化#"
+    }
+  }
+}
