@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744010774740,
+  "endTime": 1744011541285,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -851,6 +851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1186158,
+      "num": 1078781,
+      "word": "小米股票",
+      "onboard_time": 1744008741,
+      "rank": 1,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 1174032,
       "num": 332804,
       "word": "男子开车反复碾压他人致其身亡",
@@ -971,6 +979,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1124309,
+      "num": 402794,
+      "word": "印男子涉嫌杀妻入狱后发现妻子在世",
+      "onboard_time": 1744008142,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1121691,
       "num": 875183,
       "word": "邓超gogogo出发喽",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1743950063,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1078781,
-      "num": 1078781,
-      "word": "小米股票",
-      "onboard_time": 1744008741,
-      "rank": 1,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 1072131,
@@ -1435,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 922556,
+      "num": 540834,
+      "word": "歌手TANK心肝移植手术成功",
+      "onboard_time": 1744010063,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 920787,
       "num": 372114,
       "word": "甜馨否认签约乐华",
@@ -1689,14 +1705,6 @@
       "onboard_time": 1743649822,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 845860,
-      "num": 337439,
-      "word": "印男子涉嫌杀妻入狱后发现妻子在世",
-      "onboard_time": 1744008142,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 843928,
@@ -3875,14 +3883,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 430481,
-      "num": 430481,
-      "word": "歌手TANK心肝移植手术成功",
-      "onboard_time": 1744010063,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 429146,
       "num": 429146,
       "word": "李现打鸟作品与张大千画作神似",
@@ -4459,6 +4459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381491,
+      "num": 381491,
+      "word": "特朗普谈股市暴跌",
+      "onboard_time": 1744005802,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 381371,
       "num": 317746,
       "word": "倒挂",
@@ -4737,14 +4745,6 @@
       "onboard_time": 1743757581,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 361860,
-      "num": 331473,
-      "word": "特朗普谈股市暴跌",
-      "onboard_time": 1744005802,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 361851,
@@ -6379,6 +6379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 264959,
+      "num": 264959,
+      "word": "张予曦跳了免我蹉跎苦",
+      "onboard_time": 1744009703,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264634,
       "num": 264634,
       "word": "李小冉新剧演反派boss",
@@ -6571,6 +6579,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 255306,
+      "num": 255306,
+      "word": "宋茜周冬雨欧阳娜娜买了同双鞋",
+      "onboard_time": 1744010182,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254728,
       "num": 361228,
       "word": "韩国出土王室专用的中国瓷器",
@@ -6689,14 +6705,6 @@
       "onboard_time": 1743493223,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 248879,
-      "num": 248879,
-      "word": "张予曦跳了免我蹉跎苦",
-      "onboard_time": 1744009703,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 248566,
@@ -6924,7 +6932,7 @@
     },
     {
       "raw_hot": 238563,
-      "num": 328264,
+      "num": 404589,
       "word": "中央汇金再次增持ETF",
       "onboard_time": 1744009703,
       "rank": 13,
@@ -7475,6 +7483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221273,
+      "num": 221273,
+      "word": "十个勤天芹菜",
+      "onboard_time": 1744008803,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220864,
       "num": 291262,
       "word": "颜安柯淳 安淳蛋",
@@ -7691,14 +7707,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 215177,
-      "num": 215177,
-      "word": "十个勤天芹菜",
-      "onboard_time": 1744008803,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215147,
       "num": 215147,
       "word": "山东姑娘考公到阿勒泰当警察",
@@ -7803,6 +7811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211857,
+      "num": 211857,
+      "word": "陈都灵 邪恶兔兔",
+      "onboard_time": 1744008862,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211855,
       "num": 211855,
       "word": "巧了一诺穿着白色入镜",
@@ -7817,6 +7833,14 @@
       "onboard_time": 1743486382,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 211716,
+      "num": 220783,
+      "word": "余承恩行程信息遭恶意泄露",
+      "onboard_time": 1744010843,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 211638,
@@ -7921,14 +7945,6 @@
       "onboard_time": 1743599604,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209952,
-      "num": 209952,
-      "word": "陈都灵 邪恶兔兔",
-      "onboard_time": 1744008862,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 209787,
@@ -8041,6 +8057,14 @@
       "onboard_time": 1743995783,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208127,
+      "num": 208127,
+      "word": "尚公主",
+      "onboard_time": 1744011142,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 208107,
@@ -8419,6 +8443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201888,
+      "num": 201888,
+      "word": "虞书欣穿婚纱坐机车",
+      "onboard_time": 1744011142,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201566,
       "num": 201566,
       "word": "夫妻吃凉拌皮蛋中毒住院6天",
@@ -8441,6 +8473,14 @@
       "onboard_time": 1743662303,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 201378,
+      "num": 201378,
+      "word": "阿瑟你的兵来了",
+      "onboard_time": 1744010482,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 201172,
@@ -8753,6 +8793,14 @@
       "onboard_time": 1743569183,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 196308,
+      "num": 220925,
+      "word": "中央汇金坚定看好中国资本市场发展前景",
+      "onboard_time": 1744010363,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 196259,
@@ -9435,14 +9483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188150,
-      "num": 188150,
-      "word": "宋茜周冬雨欧阳娜娜买了同双鞋",
-      "onboard_time": 1744010182,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188112,
       "num": 222951,
       "word": "尹锡悦被罢免后发表讲话",
@@ -9945,6 +9985,14 @@
       "onboard_time": 1743590601,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182780,
+      "num": 226426,
+      "word": "TANK两位亲人都因心脏病去世",
+      "onboard_time": 1744010543,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 182728,
@@ -10571,14 +10619,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 174140,
-      "num": 174140,
-      "word": "中央汇金坚定看好中国资本市场发展前景",
-      "onboard_time": 1744010363,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 173851,
       "num": 173851,
       "word": "黄景瑜风驰赛车手上班",
@@ -10612,7 +10652,7 @@
     },
     {
       "raw_hot": 173327,
-      "num": 173327,
+      "num": 427841,
       "word": "清明假期1.26亿人次出游",
       "onboard_time": 1744007422,
       "rank": 39,
@@ -10721,6 +10761,14 @@
       "onboard_time": 1743494663,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172074,
+      "num": 172074,
+      "word": "中央汇金",
+      "onboard_time": 1744011382,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 171797,
@@ -11017,6 +11065,14 @@
       "onboard_time": 1743676221,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167569,
+      "num": 167569,
+      "word": "高姿 丁禹兮",
+      "onboard_time": 1744008262,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 167557,
@@ -11432,14 +11488,6 @@
       "word": "时代少年团 录播",
       "onboard_time": 1743431064,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 161920,
-      "num": 161920,
-      "word": "高姿 丁禹兮",
-      "onboard_time": 1744008262,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -12251,14 +12299,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 151374,
-      "num": 151374,
-      "word": "阿瑟你的兵来了",
-      "onboard_time": 1744010482,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151190,
       "num": 264598,
       "word": "台湾从来不是一个国家今后更绝无可能",
@@ -12673,14 +12713,6 @@
       "onboard_time": 1743734661,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147275,
-      "num": 168142,
-      "word": "TANK两位亲人都因心脏病去世",
-      "onboard_time": 1744010543,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 147274,
@@ -15009,6 +15041,14 @@
       "onboard_time": 1743670341,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121654,
+      "num": 322733,
+      "word": "广西8岁自闭症儿童已走失6天",
+      "onboard_time": 1744009643,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121603,
@@ -17547,14 +17587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86523,
-      "num": 322733,
-      "word": "广西8岁自闭症儿童已走失6天",
-      "onboard_time": 1744009643,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86481,
       "num": 86481,
       "word": "鹭卓吃的好撑干的好满",
@@ -17939,20 +17971,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 78457,
+      "num": 291261,
+      "word": "邓萃雯谈如何度过人生垃圾时间",
+      "onboard_time": 1744008502,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77730,
       "num": 303953,
       "word": "职业女哭灵人半个月连哭16场",
       "onboard_time": 1743682702,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77551,
-      "num": 291261,
-      "word": "邓萃雯谈如何度过人生垃圾时间",
-      "onboard_time": 1744008502,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 77528,
@@ -19427,6 +19459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45581,
+      "num": 213660,
+      "word": "揭秘刘晓庆首部短剧制作成本",
+      "onboard_time": 1744005982,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45468,
       "num": 168547,
       "word": "缅甸强震已致该国3564人遇难",
@@ -20465,14 +20505,6 @@
       "onboard_time": 1743790755,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25782,
-      "num": 211714,
-      "word": "揭秘刘晓庆首部短剧制作成本",
-      "onboard_time": 1744005982,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 25576,

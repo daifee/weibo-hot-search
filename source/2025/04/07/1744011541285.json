@@ -1,0 +1,410 @@
+{
+  "runTime": 1744011541285,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6510684,
+        "num": 6510684,
+        "word": "全球股市巨震",
+        "onboard_time": 1743989420,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 850000,
+        "num": 850000,
+        "word": "赖清德跪了岛内网友怒了",
+        "onboard_time": 1744006102,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24441,
+        "num": 541149,
+        "word": "集中精力办好自己的事",
+        "onboard_time": 1743942741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 922556,
+        "num": 540834,
+        "word": "歌手TANK心肝移植手术成功",
+        "onboard_time": 1744010063,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504832,
+        "num": 504832,
+        "word": "理发店称因李美越平台客流量少30%",
+        "onboard_time": 1744007782,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1186158,
+        "num": 496788,
+        "word": "小米股票",
+        "onboard_time": 1744008741,
+        "rank": 5,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 670508,
+        "num": 495534,
+        "word": "金价",
+        "onboard_time": 1743997764,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 469831,
+        "num": 469831,
+        "word": "锤娜丽莎因为重度脂肪肝减肥",
+        "onboard_time": 1744002623,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127440,
+        "num": 427841,
+        "word": "清明假期1.26亿人次出游",
+        "onboard_time": 1744007422,
+        "rank": 8,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 162186,
+        "num": 404589,
+        "word": "中央汇金再次增持ETF",
+        "onboard_time": 1744009703,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1124309,
+        "num": 402794,
+        "word": "印男子涉嫌杀妻入狱后发现妻子在世",
+        "onboard_time": 1744008142,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 400094,
+        "num": 400094,
+        "word": "熔断",
+        "onboard_time": 1743992064,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 381809,
+        "num": 381809,
+        "word": "余承恩团队被路人怼",
+        "onboard_time": 1743999623,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381491,
+        "num": 381491,
+        "word": "特朗普谈股市暴跌",
+        "onboard_time": 1744005802,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 303139,
+        "num": 303139,
+        "word": "金秀贤综艺镜头被全删",
+        "onboard_time": 1744006763,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264959,
+        "num": 264959,
+        "word": "张予曦跳了免我蹉跎苦",
+        "onboard_time": 1744009703,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260238,
+        "num": 260238,
+        "word": "误触考上研究生了怎么办",
+        "onboard_time": 1744001964,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255306,
+        "num": 255306,
+        "word": "宋茜周冬雨欧阳娜娜买了同双鞋",
+        "onboard_time": 1744010182,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229342,
+        "num": 229342,
+        "word": "驼背",
+        "onboard_time": 1744003103,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78457,
+        "num": 226514,
+        "word": "邓萃雯谈如何度过人生垃圾时间",
+        "onboard_time": 1744008502,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182780,
+        "num": 226426,
+        "word": "TANK两位亲人都因心脏病去世",
+        "onboard_time": 1744010543,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226425,
+        "num": 226425,
+        "word": "入住新房18天水费交了39390元",
+        "onboard_time": 1744004483,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221534,
+        "num": 221534,
+        "word": "李现打鸟作品与张大千画作神似",
+        "onboard_time": 1744003163,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221273,
+        "num": 221273,
+        "word": "十个勤天芹菜",
+        "onboard_time": 1744008803,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196308,
+        "num": 220925,
+        "word": "中央汇金坚定看好中国资本市场发展前景",
+        "onboard_time": 1744010363,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211716,
+        "num": 220783,
+        "word": "余承恩行程信息遭恶意泄露",
+        "onboard_time": 1744010843,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220782,
+        "num": 220782,
+        "word": "唐嫣不会点英语当不了神女",
+        "onboard_time": 1744003582,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121654,
+        "num": 218926,
+        "word": "广西8岁自闭症儿童已走失6天",
+        "onboard_time": 1744009643,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217985,
+        "num": 217985,
+        "word": "蔡徐坤胜诉",
+        "onboard_time": 1743990742,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45581,
+        "num": 213660,
+        "word": "揭秘刘晓庆首部短剧制作成本",
+        "onboard_time": 1744005982,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211857,
+        "num": 211857,
+        "word": "陈都灵 邪恶兔兔",
+        "onboard_time": 1744008862,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209337,
+        "num": 209337,
+        "word": "哪吒2仍在票房榜前三",
+        "onboard_time": 1743995304,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208127,
+        "num": 208127,
+        "word": "尚公主",
+        "onboard_time": 1744011142,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201888,
+        "num": 201888,
+        "word": "虞书欣穿婚纱坐机车",
+        "onboard_time": 1744011142,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201378,
+        "num": 201378,
+        "word": "阿瑟你的兵来了",
+        "onboard_time": 1744010482,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198296,
+        "num": 198296,
+        "word": "A股三大股指反弹",
+        "onboard_time": 1744008262,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195411,
+        "num": 195411,
+        "word": "甲亢哥大张伟今晚见面",
+        "onboard_time": 1744008023,
+        "rank": 36,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 149661,
+        "num": 193689,
+        "word": "大跌的美股可能尚未见底",
+        "onboard_time": 1744004902,
+        "rank": 37,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 193395,
+        "num": 193395,
+        "word": "五四奖章入围名单公示",
+        "onboard_time": 1743989060,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178782,
+        "num": 178782,
+        "word": "金价再开跌",
+        "onboard_time": 1743983721,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174262,
+        "num": 174262,
+        "word": "孟子义赵志伟演兄妹",
+        "onboard_time": 1744009463,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177400,
+        "num": 174232,
+        "word": "甲亢哥长沙",
+        "onboard_time": 1743989420,
+        "rank": 41,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 172612,
+        "num": 172612,
+        "word": "中央汇金公司正在积极开展稳市操作",
+        "onboard_time": 1744008682,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172074,
+        "num": 172074,
+        "word": "中央汇金",
+        "onboard_time": 1744011382,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167569,
+        "num": 167569,
+        "word": "高姿 丁禹兮",
+        "onboard_time": 1744008262,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162173,
+        "num": 162173,
+        "word": "全球股市迎黑色星期一",
+        "onboard_time": 1743997882,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161718,
+        "num": 161718,
+        "word": "小周深又在哪里闯祸呢",
+        "onboard_time": 1744010182,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153797,
+        "num": 153797,
+        "word": "鹿晗正定古城vlog",
+        "onboard_time": 1744003761,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148928,
+        "num": 148928,
+        "word": "特朗普回应市场大跌",
+        "onboard_time": 1743996923,
+        "rank": 48,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 144753,
+        "num": 144753,
+        "word": "物业给错户号业主交了39390元水费",
+        "onboard_time": 1744008502,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#正确的战略需要正确的策略来落实#"
+    }
+  }
+}
