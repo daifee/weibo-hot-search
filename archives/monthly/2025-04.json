@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744061001806,
+  "endTime": 1744061942316,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -19019,6 +19019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86615,
+      "num": 46209,
+      "word": "大姐每天采茶12小时子宫掉出体外",
+      "onboard_time": 1744050617,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86481,
       "num": 86481,
       "word": "鹭卓吃的好撑干的好满",
@@ -19273,14 +19281,6 @@
       "onboard_time": 1743934161,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 82152,
-      "num": 46209,
-      "word": "大姐每天采茶12小时子宫掉出体外",
-      "onboard_time": 1744050617,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82034,
@@ -19747,6 +19747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 71777,
+      "num": 71777,
+      "word": "全球资本流向或发生调整",
+      "onboard_time": 1744057934,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 71112,
       "num": 71112,
       "word": "汪苏泷 怎么能这么萌",
@@ -19905,14 +19913,6 @@
       "onboard_time": 1743895217,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 68316,
-      "num": 68316,
-      "word": "全球资本流向或发生调整",
-      "onboard_time": 1744057934,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 68056,
@@ -20385,6 +20385,14 @@
       "onboard_time": 1743780680,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 59601,
+      "num": 59601,
+      "word": "美国加征关税的回旋镖正中谁的眉心",
+      "onboard_time": 1744057453,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59586,
@@ -21473,14 +21481,6 @@
       "onboard_time": 1743832521,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38221,
-      "num": 38221,
-      "word": "美国加征关税的回旋镖正中谁的眉心",
-      "onboard_time": 1744057453,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 38186,
@@ -22883,6 +22883,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 15238,
+      "num": 42037,
+      "word": "美滥施关税必遭国际社会普遍反对",
+      "onboard_time": 1744060094,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15174,
       "num": 29225,
       "word": "何济霆 任翔宇",
@@ -22993,6 +23001,14 @@
       "onboard_time": 1743453134,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13531,
+      "num": 15946,
+      "word": "谍报上不封顶 谭卓",
+      "onboard_time": 1744061774,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 13379,
@@ -23179,14 +23195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11238,
-      "num": 42037,
-      "word": "美滥施关税必遭国际社会普遍反对",
-      "onboard_time": 1744060094,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 11161,
       "num": 175299,
       "word": "胡锡进为胖东来给员工涨工资点赞",
@@ -23241,6 +23249,14 @@
       "onboard_time": 1743796694,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10665,
+      "num": 45684,
+      "word": "特朗普重申美联储应该降息",
+      "onboard_time": 1744061354,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10648,
