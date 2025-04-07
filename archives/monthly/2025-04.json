@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744014778208,
+  "endTime": 1744015566269,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 1984619,
-      "num": 342833,
+      "num": 349045,
       "word": "天塌不下来",
       "onboard_time": 1744012164,
       "rank": 10,
@@ -1427,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 933468,
+      "num": 933468,
+      "word": "张若昀唐艺昕雪地找婚戒",
+      "onboard_time": 1744012822,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 930020,
       "num": 930020,
       "word": "美财长称超50个国家联系了美国",
@@ -1585,14 +1593,6 @@
       "onboard_time": 1743465921,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 886170,
-      "num": 886170,
-      "word": "张若昀唐艺昕雪地找婚戒",
-      "onboard_time": 1744012822,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 884518,
@@ -3881,6 +3881,14 @@
       "onboard_time": 1743431003,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 434883,
+      "num": 434883,
+      "word": "周立人被判死刑",
+      "onboard_time": 1744014863,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 432895,
@@ -6627,6 +6635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255974,
+      "num": 292879,
+      "word": "50个国家致电白宫要谈判",
+      "onboard_time": 1744013362,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 255573,
       "num": 255573,
       "word": "缅甸地震3301死4792伤",
@@ -7249,6 +7265,14 @@
       "onboard_time": 1743597683,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229234,
+      "num": 229234,
+      "word": "王俊凯方将取证追责",
+      "onboard_time": 1744014863,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 228944,
@@ -8161,6 +8185,14 @@
       "onboard_time": 1743517044,
       "rank": 28,
       "category": "艺人,旅游"
+    },
+    {
+      "raw_hot": 207706,
+      "num": 207706,
+      "word": "姐姐姐夫地下恋多年合谋作案",
+      "onboard_time": 1744014802,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 207678,
@@ -10971,6 +11003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169645,
+      "num": 257595,
+      "word": "外交部回应美滥施关税",
+      "onboard_time": 1744015043,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 169549,
       "num": 163943,
       "word": "狗狗把猫咪舔成芒果核了",
@@ -11835,6 +11875,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 157922,
+      "num": 157922,
+      "word": "王一博ins新增互关",
+      "onboard_time": 1744012881,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157861,
       "num": 157861,
       "word": "狗狗帮主人清理裤子上的苍耳",
@@ -12217,6 +12265,14 @@
       "onboard_time": 1743669381,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 153622,
+      "num": 153622,
+      "word": "半熟4群像",
+      "onboard_time": 1744015282,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 153506,
@@ -12617,14 +12673,6 @@
       "onboard_time": 1743840681,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148679,
-      "num": 148679,
-      "word": "王一博ins新增互关",
-      "onboard_time": 1744012881,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 148618,
@@ -16683,6 +16731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104104,
+      "num": 104104,
+      "word": "王俊凯方辟谣夜店传闻",
+      "onboard_time": 1744015523,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103982,
       "num": 103982,
       "word": "一人一句缅怀先烈",
@@ -16955,6 +17011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99287,
+      "num": 356727,
+      "word": "一部手机看懂美国加关税的代价",
+      "onboard_time": 1744014742,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99238,
       "num": 243017,
       "word": "烈士骸骨和树根长在了一起",
@@ -17185,14 +17249,6 @@
       "onboard_time": 1743474261,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96424,
-      "num": 292879,
-      "word": "50个国家致电白宫要谈判",
-      "onboard_time": 1744013362,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 96209,
@@ -21529,14 +21585,6 @@
       "onboard_time": 1743446474,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11507,
-      "num": 132154,
-      "word": "一部手机看懂美国加关税的代价",
-      "onboard_time": 1744014742,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 11360,
