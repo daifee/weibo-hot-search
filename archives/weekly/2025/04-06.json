@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744065658580,
+  "endTime": 1744068223043,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2325835,
+      "num": 1900996,
+      "word": "美副总统称中国人乡巴佬被批",
+      "onboard_time": 1744041682,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2281087,
       "num": 2164350,
       "word": "特朗普说他不是故意的",
@@ -73,14 +81,6 @@
       "onboard_time": 1743983721,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1900996,
-      "num": 1900996,
-      "word": "美副总统称中国人乡巴佬被批",
-      "onboard_time": 1744041682,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1856109,
@@ -369,6 +369,14 @@
       "onboard_time": 1744002623,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1041728,
+      "num": 1041728,
+      "word": "全球高度关注中国猛烈反击美国",
+      "onboard_time": 1744047077,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1033005,
@@ -881,14 +889,6 @@
       "onboard_time": 1744025182,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 613950,
-      "num": 613950,
-      "word": "全球高度关注中国猛烈反击美国",
-      "onboard_time": 1744047077,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 612731,
@@ -1571,12 +1571,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 372367,
+      "num": 343359,
+      "word": "大姐每天采茶12小时子宫掉出体外",
+      "onboard_time": 1744050617,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369188,
       "num": 369188,
       "word": "车主晒SU7一年保值率91%",
       "onboard_time": 1743922820,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 367538,
+      "num": 367538,
+      "word": "大张伟甲亢哥共进晚餐",
+      "onboard_time": 1744042281,
+      "rank": 17,
+      "category": "网红,艺人"
     },
     {
       "raw_hot": 367534,
@@ -1713,14 +1729,6 @@
       "onboard_time": 1744017082,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343359,
-      "num": 343359,
-      "word": "大姐每天采茶12小时子宫掉出体外",
-      "onboard_time": 1744050617,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 343142,
@@ -1995,6 +2003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 294108,
+      "num": 294108,
+      "word": "爆款短剧编剧收入高达一两百万",
+      "onboard_time": 1744065076,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292925,
       "num": 292925,
       "word": "小米集团股价跌超19%",
@@ -2089,14 +2105,6 @@
       "onboard_time": 1743918080,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279608,
-      "num": 279608,
-      "word": "大张伟甲亢哥共进晚餐",
-      "onboard_time": 1744042281,
-      "rank": 17,
-      "category": "网红,艺人"
     },
     {
       "raw_hot": 279260,
@@ -2787,6 +2795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214307,
+      "num": 214307,
+      "word": "全球资本流向或发生调整",
+      "onboard_time": 1744057934,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 214188,
       "num": 197548,
       "word": "国产游戏鸣潮道歉",
@@ -2801,6 +2817,14 @@
       "onboard_time": 1743987019,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 213914,
+      "num": 276314,
+      "word": "谁能想到一个家具城是4A景区",
+      "onboard_time": 1744043000,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212594,
@@ -2913,6 +2937,14 @@
       "onboard_time": 1743896597,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 207631,
+      "num": 207631,
+      "word": "邓超十条微博示爱警告正在路上",
+      "onboard_time": 1744043302,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 207243,
@@ -4123,14 +4155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159866,
-      "num": 159866,
-      "word": "全球资本流向或发生调整",
-      "onboard_time": 1744057934,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 159733,
       "num": 159733,
       "word": "徐明浩对就这么宣传我",
@@ -4747,14 +4771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136150,
-      "num": 276314,
-      "word": "谁能想到一个家具城是4A景区",
-      "onboard_time": 1744043000,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135942,
       "num": 135942,
       "word": "特朗普表示美国没有通货膨胀",
@@ -4907,6 +4923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131392,
+      "num": 131392,
+      "word": "纽约股市开盘前特朗普让美国人坚强",
+      "onboard_time": 1744064416,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130861,
       "num": 286236,
       "word": "官方回应家长称双休影响考好大学",
@@ -5027,14 +5051,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 127596,
-      "num": 127596,
-      "word": "爆款短剧编剧收入高达一两百万",
-      "onboard_time": 1744065076,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127487,
       "num": 532791,
       "word": "火箭战胜勇士",
@@ -5137,14 +5153,6 @@
       "onboard_time": 1743921620,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123922,
-      "num": 119799,
-      "word": "邓超十条微博示爱警告正在路上",
-      "onboard_time": 1744043302,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 123852,
@@ -5345,6 +5353,14 @@
       "onboard_time": 1743871639,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 117506,
+      "num": 100408,
+      "word": "救援队在缅甸发现20公斤黄金",
+      "onboard_time": 1744067779,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117401,
@@ -5635,6 +5651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108478,
+      "num": 108478,
+      "word": "严浩翔出发录制新说唱",
+      "onboard_time": 1744067959,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108448,
       "num": 268707,
       "word": "平台回应4999元代祭扫由品牌部采买",
@@ -5843,6 +5867,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 98675,
+      "num": 100553,
+      "word": "新说唱2025",
+      "onboard_time": 1744067840,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98369,
       "num": 297969,
       "word": "刘亦菲同款智界R7增程版上新",
@@ -5923,6 +5955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 92500,
+      "num": 92500,
+      "word": "赵又廷与高圆圆接女儿放学",
+      "onboard_time": 1744065317,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92242,
       "num": 263070,
       "word": "欧盟准备好与美国就关税进行谈判",
@@ -5993,6 +6033,14 @@
       "onboard_time": 1743946583,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87851,
+      "num": 87851,
+      "word": "谍报上不封顶 谭卓",
+      "onboard_time": 1744061774,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 87471,
@@ -6075,6 +6123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84901,
+      "num": 84901,
+      "word": "美国加征关税的回旋镖正中谁的眉心",
+      "onboard_time": 1744057453,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84389,
       "num": 84389,
       "word": "这就是elk",
@@ -6155,6 +6211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80723,
+      "num": 80723,
+      "word": "美国网友说副总统万斯愚不可及",
+      "onboard_time": 1744048576,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 80559,
       "num": 131383,
       "word": "部分银行调整提前还贷政策",
@@ -6163,20 +6227,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 80157,
-      "num": 80157,
-      "word": "美国加征关税的回旋镖正中谁的眉心",
-      "onboard_time": 1744057453,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 79920,
       "num": 265251,
       "word": "活人被云祭奠6年访问超4万次",
       "onboard_time": 1743926660,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 78650,
+      "num": 78650,
+      "word": "12岁它退休了 那你是不是眼睛也好了",
+      "onboard_time": 1744064956,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 78457,
@@ -6331,14 +6395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65877,
-      "num": 51657,
-      "word": "纽约股市开盘前特朗普让美国人坚强",
-      "onboard_time": 1744064416,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65867,
       "num": 160858,
       "word": "浙江男篮vs青岛男篮",
@@ -6427,12 +6483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61377,
-      "num": 61377,
-      "word": "谍报上不封顶 谭卓",
-      "onboard_time": 1744061774,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 61514,
+      "num": 61514,
+      "word": "女王就是女王 倒嗓了也是女王",
+      "onboard_time": 1744047976,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 61026,
@@ -6523,14 +6579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54400,
-      "num": 50979,
-      "word": "美国网友说副总统万斯愚不可及",
-      "onboard_time": 1744048576,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 54373,
       "num": 54373,
       "word": "健身房更衣室成不法交易地",
@@ -6563,6 +6611,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52550,
+      "num": 52550,
+      "word": "美官员称关税将导致美国商品价格下降",
+      "onboard_time": 1744053795,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 52007,
+      "num": 52007,
+      "word": "甲亢哥体验摇摇马一脸认真",
+      "onboard_time": 1744067420,
+      "rank": 49,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 50772,
       "num": 50772,
       "word": "董宇辉 人是被成就感所驱使的动物",
@@ -6579,6 +6643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48861,
+      "num": 78528,
+      "word": "A50期指涨3%",
+      "onboard_time": 1744066819,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 48129,
       "num": 48129,
       "word": "制作人回应孙燕姿隐退传言",
@@ -6593,14 +6665,6 @@
       "onboard_time": 1743904281,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46352,
-      "num": 46352,
-      "word": "美官员称关税将导致美国商品价格下降",
-      "onboard_time": 1744053795,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 45734,
@@ -6787,14 +6851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35078,
-      "num": 35078,
-      "word": "女王就是女王 倒嗓了也是女王",
-      "onboard_time": 1744047976,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 34200,
       "num": 47886,
       "word": "大张伟直播",
@@ -6811,12 +6867,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33041,
+      "num": 234611,
+      "word": "国家队相继宣布增持",
+      "onboard_time": 1744067540,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 33035,
       "num": 166211,
       "word": "欧盟拟对280亿美元美国商品进行反制",
       "onboard_time": 1744045458,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32945,
+      "num": 104729,
+      "word": "美股三大股指收盘涨跌不一",
+      "onboard_time": 1744067899,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 31971,
@@ -6857,22 +6929,6 @@
       "onboard_time": 1743894796,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29677,
-      "num": 29677,
-      "word": "赵又廷与高圆圆接女儿放学",
-      "onboard_time": 1744065317,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 28329,
-      "num": 28329,
-      "word": "12岁它退休了 那你是不是眼睛也好了",
-      "onboard_time": 1744064956,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 28244,

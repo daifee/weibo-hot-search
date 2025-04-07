@@ -1,21 +1,21 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744065658580,
+  "endTime": 1744068223043,
   "band_list": [
+    {
+      "raw_hot": 2325835,
+      "num": 1900996,
+      "word": "美副总统称中国人乡巴佬被批",
+      "onboard_time": 1744041682,
+      "rank": 0,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 2281087,
       "num": 452804,
       "word": "特朗普说他不是故意的",
       "onboard_time": 1744037545,
       "rank": 6,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 1900996,
-      "num": 1900996,
-      "word": "美副总统称中国人乡巴佬被批",
-      "onboard_time": 1744041682,
-      "rank": 0,
       "category": "国际时政"
     },
     {
@@ -35,6 +35,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1041728,
+      "num": 1041728,
+      "word": "全球高度关注中国猛烈反击美国",
+      "onboard_time": 1744047077,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 959306,
       "num": 368689,
       "word": "特朗普",
@@ -49,14 +57,6 @@
       "onboard_time": 1744036225,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 613950,
-      "num": 613950,
-      "word": "全球高度关注中国猛烈反击美国",
-      "onboard_time": 1744047077,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 458767,
@@ -91,19 +91,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372367,
+      "num": 343359,
+      "word": "大姐每天采茶12小时子宫掉出体外",
+      "onboard_time": 1744050617,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367538,
+      "num": 367538,
+      "word": "大张伟甲亢哥共进晚餐",
+      "onboard_time": 1744042281,
+      "rank": 17,
+      "category": "网红,艺人"
+    },
+    {
       "raw_hot": 355877,
       "num": 355877,
       "word": "中国男子在泰国一沙滩被发现死亡",
       "onboard_time": 1744039403,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343359,
-      "num": 343359,
-      "word": "大姐每天采茶12小时子宫掉出体外",
-      "onboard_time": 1744050617,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -123,12 +131,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 279608,
-      "num": 279608,
-      "word": "大张伟甲亢哥共进晚餐",
-      "onboard_time": 1744042281,
-      "rank": 17,
-      "category": "网红,艺人"
+      "raw_hot": 294108,
+      "num": 294108,
+      "word": "爆款短剧编剧收入高达一两百万",
+      "onboard_time": 1744065076,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234284,
+      "num": 234284,
+      "word": "美股",
+      "onboard_time": 1744033344,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 223226,
@@ -139,12 +155,36 @@
       "category": "综艺,网红"
     },
     {
+      "raw_hot": 214307,
+      "num": 214307,
+      "word": "全球资本流向或发生调整",
+      "onboard_time": 1744057934,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 213914,
+      "num": 276314,
+      "word": "谁能想到一个家具城是4A景区",
+      "onboard_time": 1744043000,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207983,
       "num": 207983,
       "word": "粉丝机场疯狂追星险发生踩踏",
       "onboard_time": 1744031483,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207631,
+      "num": 207631,
+      "word": "邓超十条微博示爱警告正在路上",
+      "onboard_time": 1744043302,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 195780,
@@ -163,6 +203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168284,
+      "num": 168284,
+      "word": "92岁老股民一上午亏损近8万",
+      "onboard_time": 1744030943,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167949,
       "num": 167949,
       "word": "学会表达情绪而不是情绪化地表达",
@@ -171,11 +219,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163919,
-      "num": 163919,
-      "word": "美股",
-      "onboard_time": 1744033344,
-      "rank": 24,
+      "raw_hot": 165225,
+      "num": 165225,
+      "word": "留几手说他和黄圣依情绪最稳定",
+      "onboard_time": 1744039102,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 164880,
+      "num": 144325,
+      "word": "金价跌到我心满意足再入手",
+      "onboard_time": 1744024643,
+      "rank": 26,
       "category": "财经"
     },
     {
@@ -185,14 +241,6 @@
       "onboard_time": 1744032983,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159866,
-      "num": 159866,
-      "word": "全球资本流向或发生调整",
-      "onboard_time": 1744057934,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 150442,
@@ -211,28 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144325,
-      "num": 144325,
-      "word": "金价跌到我心满意足再入手",
-      "onboard_time": 1744024643,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 140610,
       "num": 165676,
       "word": "金价跌超30元有人拉着行李箱扫货",
       "onboard_time": 1744035566,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 136150,
-      "num": 276314,
-      "word": "谁能想到一个家具城是4A景区",
-      "onboard_time": 1744043000,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135884,
@@ -243,20 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129055,
-      "num": 129055,
-      "word": "92岁老股民一上午亏损近8万",
-      "onboard_time": 1744030943,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127596,
-      "num": 127596,
-      "word": "爆款短剧编剧收入高达一两百万",
-      "onboard_time": 1744065076,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 131392,
+      "num": 131392,
+      "word": "纽约股市开盘前特朗普让美国人坚强",
+      "onboard_time": 1744064416,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126315,
@@ -275,20 +299,36 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 123922,
-      "num": 119799,
-      "word": "邓超十条微博示爱警告正在路上",
-      "onboard_time": 1744043302,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121239,
       "num": 121239,
       "word": "芒果台",
       "onboard_time": 1744032264,
       "rank": 30,
       "category": "网红,作品衍生"
+    },
+    {
+      "raw_hot": 119614,
+      "num": 119614,
+      "word": "王力宏演唱会郑州站取消",
+      "onboard_time": 1744030824,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 119209,
+      "num": 119209,
+      "word": "双胞胎姐妹佩佩惠惠相继离世",
+      "onboard_time": 1744018703,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117506,
+      "num": 100408,
+      "word": "救援队在缅甸发现20公斤黄金",
+      "onboard_time": 1744067779,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114775,
@@ -315,12 +355,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109979,
-      "num": 109979,
-      "word": "留几手说他和黄圣依情绪最稳定",
-      "onboard_time": 1744039102,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 109511,
+      "num": 109511,
+      "word": "苹果3天向美国运了5架飞机的产品",
+      "onboard_time": 1744037484,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 108478,
+      "num": 108478,
+      "word": "严浩翔出发录制新说唱",
+      "onboard_time": 1744067959,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 107667,
@@ -355,12 +403,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 97581,
-      "num": 97581,
-      "word": "双胞胎姐妹佩佩惠惠相继离世",
-      "onboard_time": 1744018703,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 98675,
+      "num": 100553,
+      "word": "新说唱2025",
+      "onboard_time": 1744067840,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 96718,
@@ -371,6 +419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96248,
+      "num": 96248,
+      "word": "中国为什么能全球第一个反制对等关税",
+      "onboard_time": 1744034605,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95154,
       "num": 95154,
       "word": "雁回时庆功宴",
@@ -379,20 +435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93825,
-      "num": 93825,
-      "word": "王力宏演唱会郑州站取消",
-      "onboard_time": 1744030824,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 92422,
-      "num": 92422,
-      "word": "苹果3天向美国运了5架飞机的产品",
-      "onboard_time": 1744037484,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 92500,
+      "num": 92500,
+      "word": "赵又廷与高圆圆接女儿放学",
+      "onboard_time": 1744065317,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 92242,
@@ -403,11 +451,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87851,
+      "num": 87851,
+      "word": "谍报上不封顶 谭卓",
+      "onboard_time": 1744061774,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87286,
       "num": 97874,
       "word": "抗议者举企鹅反对加征关税标语",
       "onboard_time": 1744044258,
       "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 84901,
+      "num": 84901,
+      "word": "美国加征关税的回旋镖正中谁的眉心",
+      "onboard_time": 1744057453,
+      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -419,12 +483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80157,
-      "num": 80157,
-      "word": "美国加征关税的回旋镖正中谁的眉心",
-      "onboard_time": 1744057453,
-      "rank": 31,
+      "raw_hot": 80723,
+      "num": 80723,
+      "word": "美国网友说副总统万斯愚不可及",
+      "onboard_time": 1744048576,
+      "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78650,
+      "num": 78650,
+      "word": "12岁它退休了 那你是不是眼睛也好了",
+      "onboard_time": 1744064956,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 75374,
@@ -451,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65877,
-      "num": 51657,
-      "word": "纽约股市开盘前特朗普让美国人坚强",
-      "onboard_time": 1744064416,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 61864,
       "num": 61864,
       "word": "Daniel新家",
@@ -467,12 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61377,
-      "num": 61377,
-      "word": "谍报上不封顶 谭卓",
-      "onboard_time": 1744061774,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 61514,
+      "num": 61514,
+      "word": "女王就是女王 倒嗓了也是女王",
+      "onboard_time": 1744047976,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 59911,
@@ -483,28 +547,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 54400,
-      "num": 50979,
-      "word": "美国网友说副总统万斯愚不可及",
-      "onboard_time": 1744048576,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 51753,
-      "num": 64998,
-      "word": "中国为什么能全球第一个反制对等关税",
-      "onboard_time": 1744034605,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 46352,
-      "num": 46352,
+      "raw_hot": 52550,
+      "num": 52550,
       "word": "美官员称关税将导致美国商品价格下降",
       "onboard_time": 1744053795,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52007,
+      "num": 52007,
+      "word": "甲亢哥体验摇摇马一脸认真",
+      "onboard_time": 1744067420,
+      "rank": 49,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 48861,
+      "num": 78528,
+      "word": "A50期指涨3%",
+      "onboard_time": 1744066819,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 43352,
@@ -547,20 +611,20 @@
       "category": "网红,旅游"
     },
     {
-      "raw_hot": 35078,
-      "num": 35078,
-      "word": "女王就是女王 倒嗓了也是女王",
-      "onboard_time": 1744047976,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33304,
       "num": 45684,
       "word": "特朗普重申美联储应该降息",
       "onboard_time": 1744061354,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33041,
+      "num": 234611,
+      "word": "国家队相继宣布增持",
+      "onboard_time": 1744067540,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 33035,
@@ -571,28 +635,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32945,
+      "num": 104729,
+      "word": "美股三大股指收盘涨跌不一",
+      "onboard_time": 1744067899,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 30086,
       "num": 30086,
       "word": "景区回应美人鱼泡在绿水里表演",
       "onboard_time": 1744056254,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29677,
-      "num": 29677,
-      "word": "赵又廷与高圆圆接女儿放学",
-      "onboard_time": 1744065317,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 28329,
-      "num": 28329,
-      "word": "12岁它退休了 那你是不是眼睛也好了",
-      "onboard_time": 1744064956,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 27579,
@@ -659,8 +715,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 4873,
-      "num": 478739,
+      "raw_hot": 8361,
+      "num": 875329,
       "word": "中国坚定不移维护多边主义",
       "onboard_time": 1743942922,
       "rank": 2,
