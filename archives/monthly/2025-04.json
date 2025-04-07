@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1743990843625,
+  "endTime": 1743992208156,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -9,6 +9,14 @@
       "onboard_time": 1743517885,
       "rank": 0,
       "category": "辟谣/通报,汽车"
+    },
+    {
+      "raw_hot": 15762339,
+      "num": 15762339,
+      "word": "全球股市巨震",
+      "onboard_time": 1743989420,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 14691299,
@@ -89,14 +97,6 @@
       "onboard_time": 1743669022,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2882907,
-      "num": 2882907,
-      "word": "全球股市巨震",
-      "onboard_time": 1743989420,
-      "rank": 0,
-      "category": "财经"
     },
     {
       "raw_hot": 2808853,
@@ -243,6 +243,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1963982,
+      "num": 1963982,
+      "word": "金价再开跌",
+      "onboard_time": 1743983721,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1941198,
       "num": 1941198,
       "word": "金价冲向1000元",
@@ -321,14 +329,6 @@
       "onboard_time": 1743464480,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1809170,
-      "num": 1809170,
-      "word": "金价再开跌",
-      "onboard_time": 1743983721,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 1808298,
@@ -1227,6 +1227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 969865,
+      "num": 371309,
+      "word": "蔡徐坤胜诉",
+      "onboard_time": 1743990742,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 969690,
       "num": 969690,
       "word": "甜馨时隔十年再发新曲",
@@ -1961,6 +1969,14 @@
       "onboard_time": 1743944300,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 717185,
+      "num": 717185,
+      "word": "曝iPhone19Pro外形颠覆",
+      "onboard_time": 1743991100,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 717168,
@@ -3571,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441984,
+      "num": 369435,
+      "word": "奥巴马首次抨击特朗普第二任期政策",
+      "onboard_time": 1743990680,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 441813,
       "num": 441813,
       "word": "对中重稀土相关物项实施出口管制",
@@ -3923,6 +3947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 403539,
+      "num": 403539,
+      "word": "股市",
+      "onboard_time": 1743989901,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 401246,
       "num": 401246,
       "word": "美国农业将受中国关税最严重打击",
@@ -4233,6 +4265,14 @@
       "onboard_time": 1743495744,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 373083,
+      "num": 373083,
+      "word": "医生建议节后上班前三天少干活",
+      "onboard_time": 1743989661,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 372494,
@@ -5089,14 +5129,6 @@
       "onboard_time": 1743521964,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315017,
-      "num": 315017,
-      "word": "股市",
-      "onboard_time": 1743989901,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 314654,
@@ -6307,14 +6339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245552,
-      "num": 245552,
-      "word": "医生建议节后上班前三天少干活",
-      "onboard_time": 1743989661,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 245189,
       "num": 245189,
       "word": "美股三大股指收盘暴跌",
@@ -6345,6 +6369,14 @@
       "onboard_time": 1743757640,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 243757,
+      "num": 187272,
+      "word": "微信居然还有这么多好用功能",
+      "onboard_time": 1743991100,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 243465,
@@ -8075,6 +8107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196919,
+      "num": 187234,
+      "word": "朴宝剑提名百想视帝",
+      "onboard_time": 1743991281,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196511,
       "num": 196511,
       "word": "海峡雷霆实弹射击画面",
@@ -8393,6 +8433,14 @@
       "onboard_time": 1743586821,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192514,
+      "num": 166715,
+      "word": "日本股市巨震",
+      "onboard_time": 1743991883,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 192385,
@@ -8736,6 +8784,14 @@
       "word": "小伙患抑郁暴食2年长近百斤",
       "onboard_time": 1743763461,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187813,
+      "num": 187813,
+      "word": "还有24天放假5天",
+      "onboard_time": 1743992064,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -9099,6 +9155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182991,
+      "num": 207480,
+      "word": "美国股市遭遇2020年来最严重跌幅",
+      "onboard_time": 1743990200,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 182976,
       "num": 182976,
       "word": "掘金vs森林狼",
@@ -9249,6 +9313,14 @@
       "onboard_time": 1743812960,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181056,
+      "num": 181056,
+      "word": "熔断",
+      "onboard_time": 1743992064,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 181053,
@@ -10499,6 +10571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162186,
+      "num": 171108,
+      "word": "王俊凯演技",
+      "onboard_time": 1743989241,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161955,
       "num": 161955,
       "word": "时代少年团 录播",
@@ -10664,14 +10744,6 @@
       "word": "郑秀晶卷发",
       "onboard_time": 1743601104,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 160159,
-      "num": 160159,
-      "word": "蔡徐坤胜诉",
-      "onboard_time": 1743990742,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -10897,6 +10969,14 @@
       "onboard_time": 1743739522,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156214,
+      "num": 156214,
+      "word": "特朗普选民信心逐渐转为质疑",
+      "onboard_time": 1743990801,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156134,
@@ -11147,14 +11227,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 153740,
-      "num": 207480,
-      "word": "美国股市遭遇2020年来最严重跌幅",
-      "onboard_time": 1743990200,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 153506,
       "num": 153506,
       "word": "姐姐打你骂你不耽误爱你",
@@ -11355,6 +11427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150509,
+      "num": 150509,
+      "word": "不敢睁开眼希望今天是五一",
+      "onboard_time": 1743990982,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150505,
       "num": 812035,
       "word": "我国消费市场加速升温",
@@ -11416,14 +11496,6 @@
       "word": "特朗普坚称关税是经济革命",
       "onboard_time": 1743912441,
       "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 150085,
-      "num": 150085,
-      "word": "奥巴马首次抨击特朗普第二任期政策",
-      "onboard_time": 1743990680,
-      "rank": 40,
       "category": "国际时政"
     },
     {
@@ -11529,6 +11601,14 @@
       "onboard_time": 1743653905,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148755,
+      "num": 148755,
+      "word": "意大利总理回应美国加征关税",
+      "onboard_time": 1743988580,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148747,
@@ -12264,6 +12344,14 @@
       "word": "刘学义新剧痛失编制",
       "onboard_time": 1743689783,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140269,
+      "num": 140269,
+      "word": "被贾静雯卷腹视频可爱到了",
+      "onboard_time": 1743983900,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -13211,6 +13299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130396,
+      "num": 130396,
+      "word": "世界杯女子双人十米台中国队夺冠",
+      "onboard_time": 1743990801,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130393,
       "num": 130393,
       "word": "原来阿条姐还是个高中生",
@@ -13369,14 +13465,6 @@
       "onboard_time": 1743557961,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128906,
-      "num": 128906,
-      "word": "王俊凯演技",
-      "onboard_time": 1743989241,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 128860,
@@ -13899,20 +13987,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122726,
-      "num": 122726,
-      "word": "特朗普选民信心逐渐转为质疑",
-      "onboard_time": 1743990801,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 122502,
       "num": 122502,
       "word": "蒋一侨我考伯克利都没这么难",
       "onboard_time": 1743842781,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122499,
+      "num": 122499,
+      "word": "火箭vs勇士",
+      "onboard_time": 1743992183,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 122448,
@@ -14016,14 +14104,6 @@
       "word": "韩国紧急戒严风波123天",
       "onboard_time": 1743715875,
       "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 121344,
-      "num": 121344,
-      "word": "意大利总理回应美国加征关税",
-      "onboard_time": 1743988580,
-      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -14321,14 +14401,6 @@
       "onboard_time": 1743867261,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 118610,
-      "num": 118610,
-      "word": "世界杯女子双人十米台中国队夺冠",
-      "onboard_time": 1743990801,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 118512,
@@ -15449,6 +15521,14 @@
       "onboard_time": 1743667401,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104958,
+      "num": 183065,
+      "word": "医生说春天想大补就多出去玩",
+      "onboard_time": 1743991161,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 104904,
@@ -17641,6 +17721,14 @@
       "onboard_time": 1743423443,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61844,
+      "num": 137915,
+      "word": "全红婵发动图",
+      "onboard_time": 1743990500,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 61551,

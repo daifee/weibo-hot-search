@@ -1,0 +1,410 @@
+{
+  "runTime": 1743992208156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15762339,
+        "num": 15762339,
+        "word": "全球股市巨震",
+        "onboard_time": 1743989420,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1963982,
+        "num": 1963982,
+        "word": "金价再开跌",
+        "onboard_time": 1743983721,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63765,
+        "num": 832585,
+        "word": "集中精力办好自己的事",
+        "onboard_time": 1743942741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 717185,
+        "num": 717185,
+        "word": "曝iPhone19Pro外形颠覆",
+        "onboard_time": 1743991100,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 613013,
+        "num": 613013,
+        "word": "李现打鸟",
+        "onboard_time": 1743987741,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607715,
+        "num": 607715,
+        "word": "甲亢哥长沙",
+        "onboard_time": 1743989420,
+        "rank": 5,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 556682,
+        "num": 556682,
+        "word": "潘玮柏回应突然变回20岁模样",
+        "onboard_time": 1743981979,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 403539,
+        "num": 403539,
+        "word": "股市",
+        "onboard_time": 1743989901,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 388156,
+        "num": 388156,
+        "word": "19天班后就是五一假期",
+        "onboard_time": 1743984019,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373083,
+        "num": 373083,
+        "word": "医生建议节后上班前三天少干活",
+        "onboard_time": 1743989661,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 969865,
+        "num": 371309,
+        "word": "蔡徐坤胜诉",
+        "onboard_time": 1743990742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441984,
+        "num": 369435,
+        "word": "奥巴马首次抨击特朗普第二任期政策",
+        "onboard_time": 1743990680,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 365389,
+        "num": 365389,
+        "word": "IU三提百想视后",
+        "onboard_time": 1743990080,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304610,
+        "num": 304610,
+        "word": "特斯拉失控撞花坛腾空落下压毁5车",
+        "onboard_time": 1743982880,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268728,
+        "num": 268728,
+        "word": "美国有人开始囤货了",
+        "onboard_time": 1743945202,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 263328,
+        "num": 263328,
+        "word": "半夜醒来发现才是凌晨2点半",
+        "onboard_time": 1743973093,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211034,
+        "num": 211034,
+        "word": "锤娜丽莎 减肥不快乐都滚",
+        "onboard_time": 1743947123,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205392,
+        "num": 205392,
+        "word": "孟子义单手骑马",
+        "onboard_time": 1743986601,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199918,
+        "num": 199918,
+        "word": "网红李美越致歉",
+        "onboard_time": 1743947303,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 187813,
+        "num": 187813,
+        "word": "还有24天放假5天",
+        "onboard_time": 1743992064,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243757,
+        "num": 187272,
+        "word": "微信居然还有这么多好用功能",
+        "onboard_time": 1743991100,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196919,
+        "num": 187234,
+        "word": "朴宝剑提名百想视帝",
+        "onboard_time": 1743991281,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183898,
+        "num": 183898,
+        "word": "专家建议洗头后自然风干",
+        "onboard_time": 1743947182,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104958,
+        "num": 183065,
+        "word": "医生说春天想大补就多出去玩",
+        "onboard_time": 1743991161,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182991,
+        "num": 182991,
+        "word": "美国股市遭遇2020年来最严重跌幅",
+        "onboard_time": 1743990200,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181056,
+        "num": 181056,
+        "word": "熔断",
+        "onboard_time": 1743992064,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177634,
+        "num": 177634,
+        "word": "美国关税政策引发全球反击",
+        "onboard_time": 1743952642,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171350,
+        "num": 171350,
+        "word": "民房起火父亲跳窗逃生15岁男孩身亡",
+        "onboard_time": 1743982880,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162186,
+        "num": 171108,
+        "word": "王俊凯演技",
+        "onboard_time": 1743989241,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157717,
+        "num": 169567,
+        "word": "百花杀开机",
+        "onboard_time": 1743985221,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165623,
+        "num": 167608,
+        "word": "TheShy赛后道歉",
+        "onboard_time": 1743987441,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192514,
+        "num": 166715,
+        "word": "日本股市巨震",
+        "onboard_time": 1743991883,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165942,
+        "num": 165942,
+        "word": "美股指数期货开盘暴跌",
+        "onboard_time": 1743987019,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163838,
+        "num": 163838,
+        "word": "洗脸洗不对可能伤皮肤",
+        "onboard_time": 1743983300,
+        "rank": 33,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 1973055,
+        "num": 162911,
+        "word": "A股",
+        "onboard_time": 1743982099,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159112,
+        "num": 159112,
+        "word": "港股",
+        "onboard_time": 1743990200,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158833,
+        "num": 158833,
+        "word": "广州15岁男孩在家做实验引爆炸烧伤",
+        "onboard_time": 1743983600,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156214,
+        "num": 156214,
+        "word": "特朗普选民信心逐渐转为质疑",
+        "onboard_time": 1743990801,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151987,
+        "num": 151987,
+        "word": "应急管理局回应男孩在家做实验爆炸",
+        "onboard_time": 1743987141,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150509,
+        "num": 150509,
+        "word": "不敢睁开眼希望今天是五一",
+        "onboard_time": 1743990982,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148755,
+        "num": 148755,
+        "word": "意大利总理回应美国加征关税",
+        "onboard_time": 1743988580,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140269,
+        "num": 140269,
+        "word": "被贾静雯卷腹视频可爱到了",
+        "onboard_time": 1743983900,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138728,
+        "num": 138728,
+        "word": "种地吧",
+        "onboard_time": 1743991522,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61844,
+        "num": 137915,
+        "word": "全红婵发动图",
+        "onboard_time": 1743990500,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137485,
+        "num": 137485,
+        "word": "iPhone17Air新机模曝光",
+        "onboard_time": 1743977655,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130396,
+        "num": 130396,
+        "word": "世界杯女子双人十米台中国队夺冠",
+        "onboard_time": 1743990801,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127152,
+        "num": 127152,
+        "word": "陈奕迅连发11个感叹号说重庆了不得",
+        "onboard_time": 1743954440,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123353,
+        "num": 123353,
+        "word": "五四奖章入围名单公示",
+        "onboard_time": 1743989060,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122499,
+        "num": 122499,
+        "word": "火箭vs勇士",
+        "onboard_time": 1743992183,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120272,
+        "num": 120272,
+        "word": "清明假期后第1天",
+        "onboard_time": 1743982099,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#践行绿色发展理念弘扬生态文化#"
+    }
+  }
+}

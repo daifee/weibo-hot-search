@@ -1,10 +1,10 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1743990843625,
+  "endTime": 1743992208156,
   "band_list": [
     {
-      "raw_hot": 2882907,
-      "num": 2882907,
+      "raw_hot": 15762339,
+      "num": 15762339,
       "word": "全球股市巨震",
       "onboard_time": 1743989420,
       "rank": 0,
@@ -27,20 +27,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1963982,
+      "num": 1963982,
+      "word": "金价再开跌",
+      "onboard_time": 1743983721,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1856109,
       "num": 1856109,
       "word": "你的工资不能低于这个数字",
       "onboard_time": 1743933500,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1809170,
-      "num": 1809170,
-      "word": "金价再开跌",
-      "onboard_time": 1743983721,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 1765989,
@@ -185,6 +185,14 @@
       "onboard_time": 1743906500,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 969865,
+      "num": 371309,
+      "word": "蔡徐坤胜诉",
+      "onboard_time": 1743990742,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 965729,
@@ -345,6 +353,14 @@
       "onboard_time": 1743944300,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 717185,
+      "num": 717185,
+      "word": "曝iPhone19Pro外形颠覆",
+      "onboard_time": 1743991100,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 716735,
@@ -675,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441984,
+      "num": 369435,
+      "word": "奥巴马首次抨击特朗普第二任期政策",
+      "onboard_time": 1743990680,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 426074,
       "num": 275102,
       "word": "杨超越回复vava道歉",
@@ -747,6 +771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 403539,
+      "num": 403539,
+      "word": "股市",
+      "onboard_time": 1743989901,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 401246,
       "num": 401246,
       "word": "美国农业将受中国关税最严重打击",
@@ -809,6 +841,14 @@
       "onboard_time": 1743990080,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373083,
+      "num": 373083,
+      "word": "医生建议节后上班前三天少干活",
+      "onboard_time": 1743989661,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 369188,
@@ -977,14 +1017,6 @@
       "onboard_time": 1743896238,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 315017,
-      "num": 315017,
-      "word": "股市",
-      "onboard_time": 1743989901,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 312167,
@@ -1227,12 +1259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245552,
-      "num": 245552,
-      "word": "医生建议节后上班前三天少干活",
-      "onboard_time": 1743989661,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 243757,
+      "num": 187272,
+      "word": "微信居然还有这么多好用功能",
+      "onboard_time": 1743991100,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 242188,
@@ -1539,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196919,
+      "num": 187234,
+      "word": "朴宝剑提名百想视帝",
+      "onboard_time": 1743991281,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195605,
       "num": 195605,
       "word": "虞书欣周梓倩舞蹈同步率",
@@ -1609,6 +1649,14 @@
       "onboard_time": 1743943280,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192514,
+      "num": 166715,
+      "word": "日本股市巨震",
+      "onboard_time": 1743991883,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 191815,
@@ -1689,6 +1737,14 @@
       "onboard_time": 1743950723,
       "rank": 25,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 187813,
+      "num": 187813,
+      "word": "还有24天放假5天",
+      "onboard_time": 1743992064,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187787,
@@ -1779,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182991,
+      "num": 207480,
+      "word": "美国股市遭遇2020年来最严重跌幅",
+      "onboard_time": 1743990200,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 182728,
       "num": 284381,
       "word": "多地将出现30摄氏度气温",
@@ -1809,6 +1873,14 @@
       "onboard_time": 1743937521,
       "rank": 14,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 181056,
+      "num": 181056,
+      "word": "熔断",
+      "onboard_time": 1743992064,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 180761,
@@ -2067,6 +2139,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 162186,
+      "num": 171108,
+      "word": "王俊凯演技",
+      "onboard_time": 1743989241,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161132,
       "num": 161132,
       "word": "陪伴了1412天的女朋友",
@@ -2115,14 +2195,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 160159,
-      "num": 160159,
-      "word": "蔡徐坤胜诉",
-      "onboard_time": 1743990742,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157548,
       "num": 157548,
       "word": "创系六代同台开场秀音乐一起秒哭",
@@ -2145,6 +2217,14 @@
       "onboard_time": 1743924559,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 156214,
+      "num": 156214,
+      "word": "特朗普选民信心逐渐转为质疑",
+      "onboard_time": 1743990801,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156027,
@@ -2195,14 +2275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153740,
-      "num": 207480,
-      "word": "美国股市遭遇2020年来最严重跌幅",
-      "onboard_time": 1743990200,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 152985,
       "num": 103121,
       "word": "梁咏琪说张远唱的巨好听",
@@ -2225,6 +2297,14 @@
       "onboard_time": 1743921021,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150509,
+      "num": 150509,
+      "word": "不敢睁开眼希望今天是五一",
+      "onboard_time": 1743990982,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150505,
@@ -2251,20 +2331,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 150085,
-      "num": 150085,
-      "word": "奥巴马首次抨击特朗普第二任期政策",
-      "onboard_time": 1743990680,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 149588,
       "num": 149588,
       "word": "任豪主题曲串烧秒回创2019",
       "onboard_time": 1743942260,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148755,
+      "num": 148755,
+      "word": "意大利总理回应美国加征关税",
+      "onboard_time": 1743988580,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148747,
@@ -2355,6 +2435,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 140269,
+      "num": 140269,
+      "word": "被贾静雯卷腹视频可爱到了",
+      "onboard_time": 1743983900,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140264,
       "num": 140264,
       "word": "陈奕迅重庆",
@@ -2401,6 +2489,14 @@
       "onboard_time": 1743931702,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138728,
+      "num": 138728,
+      "word": "种地吧",
+      "onboard_time": 1743991522,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 138706,
@@ -2539,6 +2635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130396,
+      "num": 130396,
+      "word": "世界杯女子双人十米台中国队夺冠",
+      "onboard_time": 1743990801,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130086,
       "num": 130086,
       "word": "GAI演唱会再唱张震岳小宇",
@@ -2576,14 +2680,6 @@
       "word": "向阳花豆瓣开分6.6",
       "onboard_time": 1743922341,
       "rank": 41,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 128906,
-      "num": 128906,
-      "word": "王俊凯演技",
-      "onboard_time": 1743989241,
-      "rank": 44,
       "category": "电影"
     },
     {
@@ -2707,12 +2803,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 122726,
-      "num": 122726,
-      "word": "特朗普选民信心逐渐转为质疑",
-      "onboard_time": 1743990801,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 122499,
+      "num": 122499,
+      "word": "火箭vs勇士",
+      "onboard_time": 1743992183,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 122361,
@@ -2729,14 +2825,6 @@
       "onboard_time": 1743919341,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121344,
-      "num": 121344,
-      "word": "意大利总理回应美国加征关税",
-      "onboard_time": 1743988580,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121240,
@@ -2825,14 +2913,6 @@
       "onboard_time": 1743867261,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 118610,
-      "num": 118610,
-      "word": "世界杯女子双人十米台中国队夺冠",
-      "onboard_time": 1743990801,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 118512,
@@ -3161,6 +3241,14 @@
       "onboard_time": 1743936861,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104958,
+      "num": 183065,
+      "word": "医生说春天想大补就多出去玩",
+      "onboard_time": 1743991161,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 104580,
@@ -3689,6 +3777,14 @@
       "onboard_time": 1743882915,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 61844,
+      "num": 137915,
+      "word": "全红婵发动图",
+      "onboard_time": 1743990500,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 61026,
