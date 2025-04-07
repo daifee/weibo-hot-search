@@ -1,0 +1,410 @@
+{
+  "runTime": 1744014778208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5729597,
+        "num": 5729597,
+        "word": "全球股市巨震",
+        "onboard_time": 1743989420,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 886170,
+        "num": 886170,
+        "word": "张若昀唐艺昕雪地找婚戒",
+        "onboard_time": 1744012822,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21124,
+        "num": 763394,
+        "word": "集中精力办好自己的事",
+        "onboard_time": 1743942741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 730692,
+        "num": 730692,
+        "word": "中央汇金",
+        "onboard_time": 1744011382,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 729995,
+        "num": 729995,
+        "word": "湘潭大学宿舍投毒案一审宣判",
+        "onboard_time": 1744013243,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 642907,
+        "num": 642907,
+        "word": "歌手TANK心肝移植手术成功",
+        "onboard_time": 1744010063,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1100501,
+        "num": 641650,
+        "word": "小米股票",
+        "onboard_time": 1744008741,
+        "rank": 6,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 668537,
+        "num": 594604,
+        "word": "金价",
+        "onboard_time": 1743997764,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 462820,
+        "num": 462820,
+        "word": "赖清德跪了岛内网友怒了",
+        "onboard_time": 1744006102,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343853,
+        "num": 343853,
+        "word": "理发店称因李美越平台客流量少30%",
+        "onboard_time": 1744007782,
+        "rank": 9,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1984619,
+        "num": 342833,
+        "word": "天塌不下来",
+        "onboard_time": 1744012164,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 561484,
+        "num": 341451,
+        "word": "印男子涉嫌杀妻入狱后发现妻子在世",
+        "onboard_time": 1744008142,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 339385,
+        "num": 339385,
+        "word": "金秀贤防治法超5万人同意将提审议",
+        "onboard_time": 1744012702,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188045,
+        "num": 337326,
+        "word": "人民网评不说话的爱",
+        "onboard_time": 1744013122,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337107,
+        "num": 337107,
+        "word": "虞书欣穿婚纱坐机车",
+        "onboard_time": 1744011142,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167814,
+        "num": 330982,
+        "word": "沪指跌超7%失守3100点",
+        "onboard_time": 1744013003,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 329232,
+        "num": 329232,
+        "word": "淮水竹亭",
+        "onboard_time": 1744011803,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315234,
+        "num": 315234,
+        "word": "锤娜丽莎因为重度脂肪肝减肥",
+        "onboard_time": 1744002623,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279260,
+        "num": 297571,
+        "word": "成龙近五年的微博基本上就是悼念",
+        "onboard_time": 1744012223,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96424,
+        "num": 292879,
+        "word": "50个国家致电白宫要谈判",
+        "onboard_time": 1744013362,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289535,
+        "num": 289535,
+        "word": "杨柳",
+        "onboard_time": 1744011683,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267953,
+        "num": 267953,
+        "word": "特朗普谈股市暴跌",
+        "onboard_time": 1744005802,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243418,
+        "num": 243418,
+        "word": "宋茜周冬雨欧阳娜娜买了同双鞋",
+        "onboard_time": 1744010182,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218369,
+        "num": 218369,
+        "word": "尚公主",
+        "onboard_time": 1744011142,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214904,
+        "num": 214904,
+        "word": "清明假期1.26亿人次出游",
+        "onboard_time": 1744007422,
+        "rank": 24,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 213516,
+        "num": 213516,
+        "word": "余承恩团队被路人怼",
+        "onboard_time": 1743999623,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203717,
+        "num": 203717,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1744013664,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202612,
+        "num": 202612,
+        "word": "李现打鸟作品与张大千画作神似",
+        "onboard_time": 1744003163,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202132,
+        "num": 202132,
+        "word": "甲亢哥长沙",
+        "onboard_time": 1743989420,
+        "rank": 28,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 178683,
+        "num": 178683,
+        "word": "十个勤天芹菜",
+        "onboard_time": 1744008803,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173142,
+        "num": 173142,
+        "word": "入住新房18天水费交了39390元",
+        "onboard_time": 1744004483,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170465,
+        "num": 170465,
+        "word": "全球股市迎黑色星期一",
+        "onboard_time": 1743997882,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168826,
+        "num": 168826,
+        "word": "五四奖章入围名单公示",
+        "onboard_time": 1743989060,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196598,
+        "num": 168770,
+        "word": "甲亢哥大张伟今晚见面",
+        "onboard_time": 1744008023,
+        "rank": 33,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 150714,
+        "num": 150714,
+        "word": "张予曦跳了免我蹉跎苦",
+        "onboard_time": 1744009703,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149635,
+        "num": 149635,
+        "word": "蔡徐坤胜诉",
+        "onboard_time": 1743990742,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148679,
+        "num": 148679,
+        "word": "王一博ins新增互关",
+        "onboard_time": 1744012881,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147643,
+        "num": 147643,
+        "word": "陈都灵 邪恶兔兔",
+        "onboard_time": 1744008862,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144439,
+        "num": 144439,
+        "word": "尚公主制片人关注孟子义李昀锐",
+        "onboard_time": 1744013423,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140155,
+        "num": 140155,
+        "word": "哪吒2仍在票房榜前三",
+        "onboard_time": 1743995304,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136764,
+        "num": 136764,
+        "word": "唐嫣不会点英语当不了神女",
+        "onboard_time": 1744003582,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133149,
+        "num": 133149,
+        "word": "金秀贤综艺镜头被全删",
+        "onboard_time": 1744006763,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11507,
+        "num": 132154,
+        "word": "一部手机看懂美国加关税的代价",
+        "onboard_time": 1744014742,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131763,
+        "num": 131763,
+        "word": "2025清明假期国内出游总花费575.49亿元",
+        "onboard_time": 1744012043,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42561,
+        "num": 120366,
+        "word": "梁伟铿王昶亚锦赛训练",
+        "onboard_time": 1744013303,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115769,
+        "num": 115769,
+        "word": "范志毅扒陈赫裤子",
+        "onboard_time": 1744011922,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108710,
+        "num": 108710,
+        "word": "误触考上研究生了怎么办",
+        "onboard_time": 1744001964,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107525,
+        "num": 107525,
+        "word": "物业给错户号业主交了39390元水费",
+        "onboard_time": 1744008502,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101237,
+        "num": 101237,
+        "word": "跟着文物去春游",
+        "onboard_time": 1744005263,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99801,
+        "num": 99801,
+        "word": "鹿晗正定古城vlog",
+        "onboard_time": 1744003761,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#正确的战略需要正确的策略来落实#"
+    }
+  }
+}
