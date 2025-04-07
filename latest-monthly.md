@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/07 14:35:20
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/07 14:48:15
 </p>
 </blockquote>
 <p>
@@ -627,6 +627,12 @@ VaVa 灰原哀（热度：1212430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%96%E6%B8%85%E5%BE%B7%E8%B7%AA%E4%BA%86%E5%B2%9B%E5%86%85%E7%BD%91%E5%8F%8B%E6%80%92%E4%BA%86%23" target="weibo">
+赖清德跪了岛内网友怒了（热度：1212214）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%9D%A1%E5%A7%90%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23" target="weibo">
 阿条姐登顶世界第一（热度：1207845）
 </a>
@@ -893,12 +899,6 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA4%E5%8D%83%E6%90%AC%E8%BF%90%E5%B7%A5%E7%9E%92%E5%AE%B6%E4%BA%BA%E4%B9%B0454%E4%B8%87%E4%BF%9D%E9%99%A9%23" target="weibo">
 月薪4千搬运工瞒家人买454万保险（热度：1013459）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%96%E6%B8%85%E5%BE%B7%E8%B7%AA%E4%BA%86%E5%B2%9B%E5%86%85%E7%BD%91%E5%8F%8B%E6%80%92%E4%BA%86%23" target="weibo">
-赖清德跪了岛内网友怒了（热度：1011642）
 </a>
 </li>
 
@@ -3237,6 +3237,12 @@ TVB女演员陈思齐摆摊卖鸡爪（热度：399114）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E7%BB%BC%E8%89%BA%E9%95%9C%E5%A4%B4%E8%A2%AB%E5%85%A8%E5%88%A0%23" target="weibo">
+金秀贤综艺镜头被全删（热度：392662）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%99%8C%E7%97%87%E5%8E%BB%E4%B8%96%E5%90%8E%E5%A6%88%E5%A6%8815%E5%B9%B4%E7%A7%8D%E6%A0%912%E4%B8%87%E4%BA%A9%23" target="weibo">
 女儿癌症去世后妈妈15年种树2万亩（热度：392376）
 </a>
@@ -3921,6 +3927,12 @@ SM查理呢（热度：335430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%23" target="weibo">
+特朗普谈股市暴跌（热度：330033）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8A%A1%E9%83%A8%E5%8F%AC%E5%BC%80%E7%BE%8E%E8%B5%84%E4%BC%81%E4%B8%9A%E5%9C%86%E6%A1%8C%E4%BC%9A%23" target="weibo">
 商务部召开美资企业圆桌会（热度：329588）
 </a>
@@ -3983,12 +3995,6 @@ SM查理呢（热度：335430）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5%E6%AF%81%E7%98%AB%23" target="weibo">
 东部战区军事行动主题海报毁瘫（热度：325456）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E7%BB%BC%E8%89%BA%E9%95%9C%E5%A4%B4%E8%A2%AB%E5%85%A8%E5%88%A0%23" target="weibo">
-金秀贤综艺镜头被全删（热度：325158）
 </a>
 </li>
 
@@ -4139,12 +4145,6 @@ jayjay呢（热度：316182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B0%8D%E6%8A%A5%E4%B8%8A%E4%B8%8D%E5%B0%81%E9%A1%B65%E6%9C%88%E5%BC%80%E6%9C%BA%23" target="weibo">
 肖战谍报上不封顶5月开机（热度：310912）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%23" target="weibo">
-特朗普谈股市暴跌（热度：310418）
 </a>
 </li>
 
@@ -4803,6 +4803,12 @@ tata公开（热度：270523）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%BA%97%E7%A7%B0%E5%9B%A0%E6%9D%8E%E7%BE%8E%E8%B6%8A%E5%B9%B3%E5%8F%B0%E5%AE%A2%E6%B5%81%E9%87%8F%E5%B0%9130%25%23" target="weibo">
+理发店称因李美越平台客流量少30%（热度：263074）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23QQ%E9%9F%B3%E4%B9%90%20%E5%86%85%E6%B6%B5%23" target="weibo">
 QQ音乐 内涵（热度：262837）
 </a>
@@ -5355,6 +5361,12 @@ G社是张若昀的站姐吧（热度：239646）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E8%BF%8E%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%B8%80%23" target="weibo">
+全球股市迎黑色星期一（热度：228883）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E9%97%AD%E7%97%87%E5%AD%A9%E5%AD%90%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%98%AF%E8%AF%9D%E7%97%A8%23" target="weibo">
 自闭症孩子也可能是话痨（热度：228385）
 </a>
@@ -5483,12 +5495,6 @@ EXO周年直播没通知cbx（热度：225340）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NJZ%E7%BB%84%E5%90%88ins%E6%94%B9%E5%90%8D%23" target="weibo">
 NJZ组合ins改名（热度：224424）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E8%BF%8E%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%B8%80%23" target="weibo">
-全球股市迎黑色星期一（热度：223966）
 </a>
 </li>
 
@@ -5907,6 +5913,12 @@ SM失去了四名最佳主唱（热度：210903）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0%23" target="weibo">
+上证指数（热度：209787）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23enhypen%E5%87%BA%E5%8F%91%E7%A7%91%E5%88%87%E6%8B%89%23" target="weibo">
 enhypen出发科切拉（热度：209733）
 </a>
@@ -5999,18 +6011,6 @@ Nicholas首位公开（热度：209410）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%97%A9%E6%9C%9F%E7%A9%BF%E6%90%AD%23" target="weibo">
 刘亦菲早期穿搭（热度：207678）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E6%80%9D%E5%BF%B5%E5%A6%82%E9%9D%92%E8%8D%89%E6%BC%AB%E8%BF%87%E5%B1%B1%E9%87%8E%23" target="weibo">
-清明思念如青草漫过山野（热度：207458）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E9%87%87%E5%8F%96%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD%23" target="weibo">
-对美加征关税采取反制措施（热度：207343）
 </a>
 </li>
 

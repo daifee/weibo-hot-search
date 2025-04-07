@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744007720869,
+  "endTime": 1744008495128,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -819,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1212214,
+      "num": 1212214,
+      "word": "赖清德跪了岛内网友怒了",
+      "onboard_time": 1744006102,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1207845,
       "num": 1207845,
       "word": "阿条姐登顶世界第一",
@@ -1177,14 +1185,6 @@
       "onboard_time": 1743663682,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1011642,
-      "num": 1011642,
-      "word": "赖清德跪了岛内网友怒了",
-      "onboard_time": 1744006102,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1005848,
@@ -4299,6 +4299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 392662,
+      "num": 332804,
+      "word": "金秀贤综艺镜头被全删",
+      "onboard_time": 1744006763,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392376,
       "num": 392376,
       "word": "女儿癌症去世后妈妈15年种树2万亩",
@@ -5211,6 +5219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 330033,
+      "num": 330033,
+      "word": "特朗普谈股市暴跌",
+      "onboard_time": 1744005802,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 329588,
       "num": 329588,
       "word": "商务部召开美资企业圆桌会",
@@ -5297,14 +5313,6 @@
       "onboard_time": 1743562703,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 325158,
-      "num": 325158,
-      "word": "金秀贤综艺镜头被全删",
-      "onboard_time": 1744006763,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 324614,
@@ -5505,14 +5513,6 @@
       "onboard_time": 1743854482,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 310418,
-      "num": 310418,
-      "word": "特朗普谈股市暴跌",
-      "onboard_time": 1744005802,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 310381,
@@ -6260,7 +6260,7 @@
     },
     {
       "raw_hot": 268723,
-      "num": 268723,
+      "num": 283403,
       "word": "鹿晗正定古城vlog",
       "onboard_time": 1744003761,
       "rank": 29,
@@ -6385,6 +6385,14 @@
       "onboard_time": 1743472161,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263074,
+      "num": 263074,
+      "word": "理发店称因李美越平台客流量少30%",
+      "onboard_time": 1744007782,
+      "rank": 22,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 262837,
@@ -7123,6 +7131,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 228883,
+      "num": 228883,
+      "word": "全球股市迎黑色星期一",
+      "onboard_time": 1743997882,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 228385,
       "num": 366159,
       "word": "自闭症孩子也可能是话痨",
@@ -7297,14 +7313,6 @@
       "onboard_time": 1743831082,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223966,
-      "num": 223966,
-      "word": "全球股市迎黑色星期一",
-      "onboard_time": 1743997882,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 223670,
@@ -7859,6 +7867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209787,
+      "num": 209787,
+      "word": "上证指数",
+      "onboard_time": 1744007903,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 209733,
       "num": 209733,
       "word": "enhypen出发科切拉",
@@ -7993,6 +8009,14 @@
       "onboard_time": 1743733943,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207414,
+      "num": 207414,
+      "word": "印男子涉嫌杀妻入狱后发现妻子在世",
+      "onboard_time": 1744008142,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 207343,
@@ -8539,6 +8563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 198422,
+      "num": 198422,
+      "word": "微软旗下合资公司突然关停中国区业务",
+      "onboard_time": 1744007124,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 198397,
       "num": 198397,
       "word": "一文读懂华晨宇黄霄雲纠纷",
@@ -9049,6 +9081,14 @@
       "onboard_time": 1743516505,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191401,
+      "num": 331533,
+      "word": "兄弟分离40年去世后在大海团聚",
+      "onboard_time": 1744000884,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191400,
@@ -9891,14 +9931,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 181883,
-      "num": 331533,
-      "word": "兄弟分离40年去世后在大海团聚",
-      "onboard_time": 1744000884,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181818,
       "num": 270107,
       "word": "为什么感觉假期过得格外快",
@@ -10275,14 +10307,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 176260,
-      "num": 176260,
-      "word": "微软旗下合资公司突然关停中国区业务",
-      "onboard_time": 1744007124,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 176189,
       "num": 176189,
       "word": "周洁琼神女下江南",
@@ -10451,6 +10475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173746,
+      "num": 173746,
+      "word": "焦虑的人一般都秩序感很强",
+      "onboard_time": 1744004182,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 173619,
       "num": 173619,
       "word": "张本智和vs林昀儒",
@@ -10465,6 +10497,14 @@
       "onboard_time": 1743761722,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173327,
+      "num": 173327,
+      "word": "清明假期1.26亿人次出游",
+      "onboard_time": 1744007422,
+      "rank": 39,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 173270,
@@ -10553,6 +10593,14 @@
       "onboard_time": 1743585805,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172435,
+      "num": 172435,
+      "word": "A股三大股指反弹",
+      "onboard_time": 1744008262,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 172407,
@@ -10721,6 +10769,14 @@
       "onboard_time": 1743916401,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169465,
+      "num": 169465,
+      "word": "卢昱晓冷脸御姐黑长直",
+      "onboard_time": 1744007002,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 169119,
@@ -11011,14 +11067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 165540,
-      "num": 165540,
-      "word": "清明假期1.26亿人次出游",
-      "onboard_time": 1744007422,
-      "rank": 39,
-      "category": "民生新闻,旅游"
-    },
-    {
       "raw_hot": 165533,
       "num": 165533,
       "word": "客服回应盒马16.9元一片面包",
@@ -11259,14 +11307,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 162263,
-      "num": 162263,
-      "word": "卢昱晓冷脸御姐黑长直",
-      "onboard_time": 1744007002,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 162232,
       "num": 277474,
       "word": "念无双",
@@ -11505,14 +11545,6 @@
       "onboard_time": 1743514884,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 159071,
-      "num": 167462,
-      "word": "焦虑的人一般都秩序感很强",
-      "onboard_time": 1744004182,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 158810,
@@ -11801,6 +11833,14 @@
       "onboard_time": 1743946343,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155191,
+      "num": 155191,
+      "word": "甲亢哥大张伟今晚见面",
+      "onboard_time": 1744008023,
+      "rank": 44,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 155118,
@@ -12417,6 +12457,14 @@
       "onboard_time": 1743948923,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148214,
+      "num": 148214,
+      "word": "高姿 丁禹兮",
+      "onboard_time": 1744008262,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 148126,
@@ -13137,6 +13185,14 @@
       "onboard_time": 1743489384,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139775,
+      "num": 139775,
+      "word": "汪苏泷十万伏特2.0巡回演唱会",
+      "onboard_time": 1744008381,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 139671,
@@ -14739,6 +14795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122971,
+      "num": 330493,
+      "word": "跟着文物去春游",
+      "onboard_time": 1744005263,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122502,
       "num": 122502,
       "word": "蒋一侨我考伯克利都没这么难",
@@ -15697,14 +15761,6 @@
       "onboard_time": 1743503302,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113161,
-      "num": 166466,
-      "word": "跟着文物去春游",
-      "onboard_time": 1744005263,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112975,
@@ -21241,6 +21297,14 @@
       "onboard_time": 1743796694,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10648,
+      "num": 170560,
+      "word": "不远千里来自驾的水上公路",
+      "onboard_time": 1744007722,
+      "rank": 39,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 10524,

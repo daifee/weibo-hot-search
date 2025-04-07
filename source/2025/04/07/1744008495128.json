@@ -1,0 +1,410 @@
+{
+  "runTime": 1744008495128,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7462491,
+        "num": 7462491,
+        "word": "全球股市巨震",
+        "onboard_time": 1743989420,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1212214,
+        "num": 1212214,
+        "word": "赖清德跪了岛内网友怒了",
+        "onboard_time": 1744006102,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21398,
+        "num": 961859,
+        "word": "集中精力办好自己的事",
+        "onboard_time": 1743942741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 866456,
+        "num": 866456,
+        "word": "金价",
+        "onboard_time": 1743997764,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 840902,
+        "num": 840902,
+        "word": "锤娜丽莎因为重度脂肪肝减肥",
+        "onboard_time": 1744002623,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642703,
+        "num": 642703,
+        "word": "熔断",
+        "onboard_time": 1743992064,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 399642,
+        "num": 399642,
+        "word": "唐嫣不会点英语当不了神女",
+        "onboard_time": 1744003582,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373779,
+        "num": 373779,
+        "word": "大跌的美股可能尚未见底",
+        "onboard_time": 1744004902,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 346057,
+        "num": 346057,
+        "word": "李现打鸟作品与张大千画作神似",
+        "onboard_time": 1744003163,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306995,
+        "num": 345998,
+        "word": "哪吒2仍在票房榜前三",
+        "onboard_time": 1743995304,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 612310,
+        "num": 341709,
+        "word": "余承恩团队被路人怼",
+        "onboard_time": 1743999623,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 539344,
+        "num": 338227,
+        "word": "误触考上研究生了怎么办",
+        "onboard_time": 1744001964,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 393093,
+        "num": 334249,
+        "word": "驼背",
+        "onboard_time": 1744003103,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392662,
+        "num": 332804,
+        "word": "金秀贤综艺镜头被全删",
+        "onboard_time": 1744006763,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331151,
+        "num": 331151,
+        "word": "蔡徐坤胜诉",
+        "onboard_time": 1743990742,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122971,
+        "num": 330493,
+        "word": "跟着文物去春游",
+        "onboard_time": 1744005263,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330033,
+        "num": 330033,
+        "word": "特朗普谈股市暴跌",
+        "onboard_time": 1744005802,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 292270,
+        "num": 292270,
+        "word": "金价再开跌",
+        "onboard_time": 1743983721,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 253108,
+        "num": 283403,
+        "word": "鹿晗正定古城vlog",
+        "onboard_time": 1744003761,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243873,
+        "num": 280431,
+        "word": "邓萃雯说有的大女主戏似乎在骗人",
+        "onboard_time": 1744006462,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400514,
+        "num": 280430,
+        "word": "入住新房18天水费交了39390元",
+        "onboard_time": 1744004483,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280421,
+        "num": 280421,
+        "word": "商务部召开美资企业圆桌会",
+        "onboard_time": 1744005021,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263074,
+        "num": 263074,
+        "word": "理发店称因李美越平台客流量少30%",
+        "onboard_time": 1744007782,
+        "rank": 22,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 228883,
+        "num": 228883,
+        "word": "全球股市迎黑色星期一",
+        "onboard_time": 1743997882,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207600,
+        "num": 218795,
+        "word": "全红婵说以前的感觉找不到了",
+        "onboard_time": 1744004123,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218333,
+        "num": 218333,
+        "word": "甲亢哥住过最好的酒店在中国",
+        "onboard_time": 1743997882,
+        "rank": 25,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 209787,
+        "num": 209787,
+        "word": "上证指数",
+        "onboard_time": 1744007903,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 209613,
+        "num": 209613,
+        "word": "五四奖章入围名单公示",
+        "onboard_time": 1743989060,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185455,
+        "num": 209341,
+        "word": "李川陪锤娜丽莎一起运动",
+        "onboard_time": 1744003221,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177205,
+        "num": 208745,
+        "word": "五哈5艺人官宣",
+        "onboard_time": 1743993323,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200302,
+        "num": 208129,
+        "word": "特朗普回应市场大跌",
+        "onboard_time": 1743996923,
+        "rank": 30,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 191401,
+        "num": 207543,
+        "word": "兄弟分离40年去世后在大海团聚",
+        "onboard_time": 1744000884,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207414,
+        "num": 207414,
+        "word": "印男子涉嫌杀妻入狱后发现妻子在世",
+        "onboard_time": 1744008142,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205538,
+        "num": 205538,
+        "word": "曝iPhone19Pro外形颠覆",
+        "onboard_time": 1743991100,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198422,
+        "num": 198422,
+        "word": "微软旗下合资公司突然关停中国区业务",
+        "onboard_time": 1744007124,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190273,
+        "num": 190273,
+        "word": "美财长称超50个国家联系了美国",
+        "onboard_time": 1743997644,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173746,
+        "num": 173746,
+        "word": "焦虑的人一般都秩序感很强",
+        "onboard_time": 1744004182,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173327,
+        "num": 173327,
+        "word": "清明假期1.26亿人次出游",
+        "onboard_time": 1744007422,
+        "rank": 37,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 172435,
+        "num": 172435,
+        "word": "A股三大股指反弹",
+        "onboard_time": 1744008262,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10648,
+        "num": 170560,
+        "word": "不远千里来自驾的水上公路",
+        "onboard_time": 1744007722,
+        "rank": 39,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 169465,
+        "num": 169465,
+        "word": "卢昱晓冷脸御姐黑长直",
+        "onboard_time": 1744007002,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 167689,
+        "num": 167689,
+        "word": "孟子义何与百花杀出妆",
+        "onboard_time": 1744006282,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167166,
+        "num": 167166,
+        "word": "金价为何开始跌了",
+        "onboard_time": 1743992543,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156049,
+        "num": 156049,
+        "word": "胡锡进",
+        "onboard_time": 1744000165,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155191,
+        "num": 155191,
+        "word": "甲亢哥大张伟今晚见面",
+        "onboard_time": 1744008023,
+        "rank": 44,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 148214,
+        "num": 148214,
+        "word": "高姿 丁禹兮",
+        "onboard_time": 1744008262,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146437,
+        "num": 146437,
+        "word": "股市",
+        "onboard_time": 1743989901,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139775,
+        "num": 139775,
+        "word": "汪苏泷十万伏特2.0巡回演唱会",
+        "onboard_time": 1744008381,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137721,
+        "num": 137721,
+        "word": "沙尘暴豆瓣开分8.1分",
+        "onboard_time": 1744007482,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136091,
+        "num": 136091,
+        "word": "网红李美越10天掉粉近40万",
+        "onboard_time": 1744000825,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#正确的战略需要正确的策略来落实#"
+    }
+  }
+}

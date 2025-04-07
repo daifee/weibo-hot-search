@@ -1,6 +1,6 @@
 {
   "startTime": 1743956845609,
-  "endTime": 1744007720869,
+  "endTime": 1744008495128,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1212214,
+      "num": 1212214,
+      "word": "赖清德跪了岛内网友怒了",
+      "onboard_time": 1744006102,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1053405,
       "num": 980246,
       "word": "锤娜丽莎因为重度脂肪肝减肥",
@@ -73,14 +81,6 @@
       "onboard_time": 1743995304,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1011642,
-      "num": 1011642,
-      "word": "赖清德跪了岛内网友怒了",
-      "onboard_time": 1744006102,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 979639,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392662,
+      "num": 332804,
+      "word": "金秀贤综艺镜头被全删",
+      "onboard_time": 1744006763,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388440,
       "num": 388440,
       "word": "医生建议节后上班前三天少干活",
@@ -515,20 +523,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 330033,
+      "num": 330033,
+      "word": "特朗普谈股市暴跌",
+      "onboard_time": 1744005802,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 329588,
       "num": 329588,
       "word": "商务部召开美资企业圆桌会",
       "onboard_time": 1744005021,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 325158,
-      "num": 325158,
-      "word": "金秀贤综艺镜头被全删",
-      "onboard_time": 1744006763,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 320529,
@@ -545,14 +553,6 @@
       "onboard_time": 1743994822,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 310418,
-      "num": 310418,
-      "word": "特朗普谈股市暴跌",
-      "onboard_time": 1744005802,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 307477,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 268723,
-      "num": 268723,
+      "num": 283403,
       "word": "鹿晗正定古城vlog",
       "onboard_time": 1744003761,
       "rank": 29,
@@ -649,6 +649,14 @@
       "onboard_time": 1743994822,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 263074,
+      "num": 263074,
+      "word": "理发店称因李美越平台客流量少30%",
+      "onboard_time": 1744007782,
+      "rank": 22,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 262819,
@@ -747,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228883,
+      "num": 228883,
+      "word": "全球股市迎黑色星期一",
+      "onboard_time": 1743997882,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 226566,
       "num": 451012,
       "word": "A股三大指数触底回升",
@@ -761,14 +777,6 @@
       "onboard_time": 1743956599,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223966,
-      "num": 223966,
-      "word": "全球股市迎黑色星期一",
-      "onboard_time": 1743997882,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 223334,
@@ -851,12 +859,28 @@
       "category": "健康医疗,美妆"
     },
     {
+      "raw_hot": 209787,
+      "num": 209787,
+      "word": "上证指数",
+      "onboard_time": 1744007903,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 208362,
       "num": 208362,
       "word": "意大利总理准备动用一切必要手段",
       "onboard_time": 1743995783,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 207414,
+      "num": 207414,
+      "word": "印男子涉嫌杀妻入狱后发现妻子在世",
+      "onboard_time": 1744008142,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 207243,
@@ -889,6 +913,14 @@
       "onboard_time": 1743995482,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198422,
+      "num": 198422,
+      "word": "微软旗下合资公司突然关停中国区业务",
+      "onboard_time": 1744007124,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 198221,
@@ -937,6 +969,14 @@
       "onboard_time": 1743989241,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191401,
+      "num": 331533,
+      "word": "兄弟分离40年去世后在大海团聚",
+      "onboard_time": 1744000884,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190749,
@@ -1035,14 +1075,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 181883,
-      "num": 331533,
-      "word": "兄弟分离40年去世后在大海团聚",
-      "onboard_time": 1744000884,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180873,
       "num": 180873,
       "word": "周柯宇晒徐若晗合照",
@@ -1099,20 +1131,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176260,
-      "num": 176260,
-      "word": "微软旗下合资公司突然关停中国区业务",
-      "onboard_time": 1744007124,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 175496,
       "num": 232476,
       "word": "NBA",
       "onboard_time": 1743999384,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173746,
+      "num": 173746,
+      "word": "焦虑的人一般都秩序感很强",
+      "onboard_time": 1744004182,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 173327,
+      "num": 173327,
+      "word": "清明假期1.26亿人次出游",
+      "onboard_time": 1744007422,
+      "rank": 39,
+      "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 172435,
+      "num": 172435,
+      "word": "A股三大股指反弹",
+      "onboard_time": 1744008262,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 170247,
@@ -1129,6 +1177,14 @@
       "onboard_time": 1743983600,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169465,
+      "num": 169465,
+      "word": "卢昱晓冷脸御姐黑长直",
+      "onboard_time": 1744007002,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 168257,
@@ -1155,14 +1211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165540,
-      "num": 165540,
-      "word": "清明假期1.26亿人次出游",
-      "onboard_time": 1744007422,
-      "rank": 39,
-      "category": "民生新闻,旅游"
-    },
-    {
       "raw_hot": 165225,
       "num": 165225,
       "word": "湖人战胜雷霆",
@@ -1187,14 +1235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162263,
-      "num": 162263,
-      "word": "卢昱晓冷脸御姐黑长直",
-      "onboard_time": 1744007002,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 162019,
       "num": 162019,
       "word": "女儿癌症去世后妈妈15年种树2万亩",
@@ -1211,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159071,
-      "num": 167462,
-      "word": "焦虑的人一般都秩序感很强",
-      "onboard_time": 1744004182,
-      "rank": 39,
-      "category": "教育"
-    },
-    {
       "raw_hot": 156700,
       "num": 156700,
       "word": "杭州地铁5号线",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1743990801,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155191,
+      "num": 155191,
+      "word": "甲亢哥大张伟今晚见面",
+      "onboard_time": 1744008023,
+      "rank": 44,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 152985,
@@ -1283,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148214,
+      "num": 148214,
+      "word": "高姿 丁禹兮",
+      "onboard_time": 1744008262,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146882,
       "num": 202445,
       "word": "留几手晒腹肌",
@@ -1321,6 +1369,14 @@
       "onboard_time": 1743983900,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139775,
+      "num": 139775,
+      "word": "汪苏泷十万伏特2.0巡回演唱会",
+      "onboard_time": 1744008381,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 139670,
@@ -1411,6 +1467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 122971,
+      "num": 330493,
+      "word": "跟着文物去春游",
+      "onboard_time": 1744005263,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120076,
       "num": 102034,
       "word": "贺峻霖你好胡萝卜不能在这洗澡",
@@ -1424,14 +1488,6 @@
       "word": "老人被从养护院带走后以2万元卖了房",
       "onboard_time": 1743958037,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113161,
-      "num": 166466,
-      "word": "跟着文物去春游",
-      "onboard_time": 1744005263,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1977,6 +2033,14 @@
       "onboard_time": 1743970573,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 10648,
+      "num": 170560,
+      "word": "不远千里来自驾的水上公路",
+      "onboard_time": 1744007722,
+      "rank": 39,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 9457,
