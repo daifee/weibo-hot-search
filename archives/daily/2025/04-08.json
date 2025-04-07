@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744058417836,
+  "endTime": 1744061001806,
   "band_list": [
     {
       "raw_hot": 2281087,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68316,
+      "num": 68316,
+      "word": "全球资本流向或发生调整",
+      "onboard_time": 1744057934,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 61864,
       "num": 61864,
       "word": "Daniel新家",
@@ -489,6 +497,14 @@
       "onboard_time": 1744038864,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38221,
+      "num": 38221,
+      "word": "美国加征关税的回旋镖正中谁的眉心",
+      "onboard_time": 1744057453,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37641,
@@ -571,14 +587,6 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 20868,
-      "num": 37168,
-      "word": "全球资本流向或发生调整",
-      "onboard_time": 1744057934,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 19517,
       "num": 19517,
       "word": "低精力人群",
@@ -595,11 +603,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10949,
-      "num": 18543,
-      "word": "美国加征关税的回旋镖正中谁的眉心",
-      "onboard_time": 1744057453,
-      "rank": 31,
+      "raw_hot": 11238,
+      "num": 42037,
+      "word": "美滥施关税必遭国际社会普遍反对",
+      "onboard_time": 1744060094,
+      "rank": 9,
       "category": "国际时政"
     },
     {
