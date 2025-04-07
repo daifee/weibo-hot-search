@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/06 00:27:55 ~ 2025/04/08 00:46:13
+本榜单时间：2025/04/06 00:27:55 ~ 2025/04/08 01:21:53
 </p>
 </blockquote>
 <p>
@@ -1569,6 +1569,12 @@ BLG对战IG（热度：286283）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%94%B2%E4%BA%A2%E5%93%A5%E5%85%B1%E8%BF%9B%E6%99%9A%E9%A4%90%23" target="weibo">
+大张伟甲亢哥共进晚餐（热度：279608）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%E8%BF%91%E4%BA%94%E5%B9%B4%E7%9A%84%E5%BE%AE%E5%8D%9A%E5%9F%BA%E6%9C%AC%E4%B8%8A%E5%B0%B1%E6%98%AF%E6%82%BC%E5%BF%B5%23" target="weibo">
 成龙近五年的微博基本上就是悼念（热度：279260）
 </a>
@@ -1991,12 +1997,6 @@ A股三大指数触底回升（热度：226566）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E8%8A%B9%E8%8F%9C%23" target="weibo">
 十个勤天芹菜（热度：221273）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%94%B2%E4%BA%A2%E5%93%A5%E5%85%B1%E8%BF%9B%E6%99%9A%E9%A4%90%23" target="weibo">
-大张伟甲亢哥共进晚餐（热度：220915）
 </a>
 </li>
 
@@ -4485,6 +4485,12 @@ JDG剧本杀全员老实人（热度：101258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E8%AE%AE%E8%80%85%E4%B8%BE%E4%BC%81%E9%B9%85%E5%8F%8D%E5%AF%B9%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E6%A0%87%E8%AF%AD%23" target="weibo">
+抗议者举企鹅反对加征关税标语（热度：87286）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E9%80%8F%E9%9C%B2%E5%92%8C%E7%94%B2%E4%BA%A2%E5%93%A5%E6%9C%89%E4%B8%AA%E5%AE%89%E6%8E%92%23" target="weibo">
 大张伟透露和甲亢哥有个安排（热度：87049）
 </a>
@@ -4637,6 +4643,12 @@ u17国足vs乌兹别克斯坦u17（热度：74179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AE%A2%E9%85%92%E5%BA%9720%E5%88%86%E9%92%9F%E6%B6%A8150%E5%85%83%23" target="weibo">
 网订酒店20分钟涨150元（热度：73912）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A4%E9%B9%85%23" target="weibo">
+卤鹅（热度：72584）
 </a>
 </li>
 
@@ -4875,12 +4887,6 @@ Bin塞恩（热度：54169）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E8%AE%AE%E8%80%85%E4%B8%BE%E4%BC%81%E9%B9%85%E5%8F%8D%E5%AF%B9%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E6%A0%87%E8%AF%AD%23" target="weibo">
-抗议者举企鹅反对加征关税标语（热度：52110）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%20%E4%BA%BA%E6%98%AF%E8%A2%AB%E6%88%90%E5%B0%B1%E6%84%9F%E6%89%80%E9%A9%B1%E4%BD%BF%E7%9A%84%E5%8A%A8%E7%89%A9%23" target="weibo">
 董宇辉 人是被成就感所驱使的动物（热度：50772）
 </a>
@@ -5037,6 +5043,12 @@ AI修复抗战英雄的模样（热度：36727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%A9%BF%E8%B6%8A%E5%8D%83%E5%B9%B4%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E6%8E%A2%E5%AF%BB%E4%B9%8B%E6%97%85%23" target="weibo">
+鹿晗穿越千年传统文化探寻之旅（热度：36352）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%9B%B4%E6%92%AD%23" target="weibo">
 大张伟直播（热度：34200）
 </a>
@@ -5081,6 +5093,12 @@ AI修复抗战英雄的模样（热度：36727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E6%B2%89%E6%B5%B8%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%89%BA%E6%9C%AF%E9%87%8C%23" target="weibo">
 必胜客沉浸在自己的艺术里（热度：27683）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%AF%B9280%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BE%8E%E5%9B%BD%E5%95%86%E5%93%81%E8%BF%9B%E8%A1%8C%E5%8F%8D%E5%88%B6%23" target="weibo">
+欧盟拟对280亿美元美国商品进行反制（热度：27089）
 </a>
 </li>
 

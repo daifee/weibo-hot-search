@@ -1,0 +1,410 @@
+{
+  "runTime": 1744046513192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1464352,
+        "num": 1464352,
+        "word": "美副总统称中国人乡巴佬被批",
+        "onboard_time": 1744041682,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 607543,
+        "num": 607543,
+        "word": "芒果 尴尬",
+        "onboard_time": 1744035384,
+        "rank": 1,
+        "category": "网红,作品衍生"
+      },
+      {
+        "raw_hot": 170744,
+        "num": 454183,
+        "word": "湖南上千名公职人员卷入非法集资案",
+        "onboard_time": 1744030583,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406012,
+        "num": 406012,
+        "word": "关税",
+        "onboard_time": 1744036646,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 279608,
+        "num": 279608,
+        "word": "大张伟甲亢哥共进晚餐",
+        "onboard_time": 1744042281,
+        "rank": 4,
+        "category": "网红,艺人"
+      },
+      {
+        "raw_hot": 131580,
+        "num": 276314,
+        "word": "谁能想到一个家具城是4A景区",
+        "onboard_time": 1744043000,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273307,
+        "num": 273307,
+        "word": "马斯克似乎与特朗普划清界限",
+        "onboard_time": 1744034904,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168223,
+        "num": 168223,
+        "word": "欧盟计划对美征收两部分关税",
+        "onboard_time": 1744040841,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94846,
+        "num": 167855,
+        "word": "美股大跌损失惨重马斯克也忍不住了",
+        "onboard_time": 1744024403,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27089,
+        "num": 166211,
+        "word": "欧盟拟对280亿美元美国商品进行反制",
+        "onboard_time": 1744045458,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 679151,
+        "num": 165475,
+        "word": "特朗普",
+        "onboard_time": 1744034305,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 355950,
+        "num": 164909,
+        "word": "屋里超哥直播",
+        "onboard_time": 1744041742,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 342964,
+        "num": 163557,
+        "word": "发现男友已婚女子报警后被送精神病院",
+        "onboard_time": 1744036225,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206377,
+        "num": 161907,
+        "word": "胡歌 内娱第一个吃大螃蟹的艺人",
+        "onboard_time": 1744026802,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161638,
+        "num": 161638,
+        "word": "中国男子在泰国一沙滩被发现死亡",
+        "onboard_time": 1744039403,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148050,
+        "num": 148050,
+        "word": "徐正溪退圈照顾生病父亲一年后复出",
+        "onboard_time": 1744025182,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107567,
+        "num": 107567,
+        "word": "美股",
+        "onboard_time": 1744033344,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93080,
+        "num": 93080,
+        "word": "赵露思樱花look",
+        "onboard_time": 1744040603,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89616,
+        "num": 89616,
+        "word": "美联储",
+        "onboard_time": 1744038385,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60049,
+        "num": 87795,
+        "word": "男孩持续高热因骨盆里藏进一块布",
+        "onboard_time": 1744032983,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87286,
+        "num": 87286,
+        "word": "抗议者举企鹅反对加征关税标语",
+        "onboard_time": 1744044258,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84995,
+        "num": 84995,
+        "word": "金价跌到我心满意足再入手",
+        "onboard_time": 1744024643,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69450,
+        "num": 79444,
+        "word": "邓超我都有点嗑你俩了",
+        "onboard_time": 1744033284,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76183,
+        "num": 76183,
+        "word": "粉丝机场疯狂追星险发生踩踏",
+        "onboard_time": 1744031483,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72584,
+        "num": 72584,
+        "word": "卤鹅",
+        "onboard_time": 1744045158,
+        "rank": 24,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 70317,
+        "num": 70317,
+        "word": "芒果台",
+        "onboard_time": 1744032264,
+        "rank": 25,
+        "category": "网红,作品衍生"
+      },
+      {
+        "raw_hot": 69349,
+        "num": 69349,
+        "word": "92岁老股民一上午亏损近8万",
+        "onboard_time": 1744030943,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68161,
+        "num": 68161,
+        "word": "白鹿模仿苦尽柑来金宣虎笑",
+        "onboard_time": 1744022483,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66335,
+        "num": 66335,
+        "word": "沈梦辰给甲亢哥发歌手邀请卡",
+        "onboard_time": 1744037545,
+        "rank": 28,
+        "category": "综艺,网红"
+      },
+      {
+        "raw_hot": 51753,
+        "num": 64998,
+        "word": "中国为什么能全球第一个反制对等关税",
+        "onboard_time": 1744034605,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68918,
+        "num": 64563,
+        "word": "诺一上法国新闻",
+        "onboard_time": 1744028605,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106572,
+        "num": 62528,
+        "word": "邓超十条微博示爱警告正在路上",
+        "onboard_time": 1744043302,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53965,
+        "num": 61025,
+        "word": "赵丽颖第十套gh高定",
+        "onboard_time": 1744034485,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 60591,
+        "num": 60591,
+        "word": "为什么劝你多吃黄瓜",
+        "onboard_time": 1744036225,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56500,
+        "num": 56500,
+        "word": "值得爱",
+        "onboard_time": 1744042461,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54164,
+        "num": 54164,
+        "word": "双胞胎姐妹佩佩惠惠相继离世",
+        "onboard_time": 1744018703,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52162,
+        "num": 52162,
+        "word": "欧盟准备好与美国就关税进行谈判",
+        "onboard_time": 1744039942,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50204,
+        "num": 50204,
+        "word": "苹果3天向美国运了5架飞机的产品",
+        "onboard_time": 1744037484,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50187,
+        "num": 50187,
+        "word": "金价跌超30元有人拉着行李箱扫货",
+        "onboard_time": 1744035566,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49988,
+        "num": 49988,
+        "word": "祝绪丹王珞丹手牵手",
+        "onboard_time": 1744040362,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47999,
+        "num": 47999,
+        "word": "王力宏演唱会郑州站取消",
+        "onboard_time": 1744030824,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47043,
+        "num": 47043,
+        "word": "一个冰箱贴为何一年能卖14万件",
+        "onboard_time": 1744025182,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46006,
+        "num": 46006,
+        "word": "雁回时庆功宴",
+        "onboard_time": 1744031424,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44684,
+        "num": 44684,
+        "word": "留几手说他和黄圣依情绪最稳定",
+        "onboard_time": 1744039102,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41442,
+        "num": 41442,
+        "word": "95年小伙考研8战北大终上岸",
+        "onboard_time": 1744037005,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40430,
+        "num": 40430,
+        "word": "白宫称关税暂停90天是假消息",
+        "onboard_time": 1744038144,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40302,
+        "num": 40302,
+        "word": "美股三大股指转涨",
+        "onboard_time": 1744038564,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39119,
+        "num": 39119,
+        "word": "当地回应女子报警后被强制送精神病院",
+        "onboard_time": 1744038864,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37641,
+        "num": 37641,
+        "word": "淮水竹亭定档",
+        "onboard_time": 1744024762,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36352,
+        "num": 36352,
+        "word": "鹿晗穿越千年传统文化探寻之旅",
+        "onboard_time": 1744046476,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "跟着总书记领略中华文明"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744044373794,
+  "endTime": 1744046513192,
   "band_list": [
     {
       "raw_hot": 2281087,
@@ -100,11 +100,19 @@
     },
     {
       "raw_hot": 298100,
-      "num": 383398,
+      "num": 454183,
       "word": "湖南上千名公职人员卷入非法集资案",
       "onboard_time": 1744030583,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279608,
+      "num": 279608,
+      "word": "大张伟甲亢哥共进晚餐",
+      "onboard_time": 1744042281,
+      "rank": 17,
+      "category": "网红,艺人"
     },
     {
       "raw_hot": 223226,
@@ -113,14 +121,6 @@
       "onboard_time": 1744037545,
       "rank": 9,
       "category": "综艺,网红"
-    },
-    {
-      "raw_hot": 220915,
-      "num": 220915,
-      "word": "大张伟甲亢哥共进晚餐",
-      "onboard_time": 1744042281,
-      "rank": 17,
-      "category": "网红,艺人"
     },
     {
       "raw_hot": 207983,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 136150,
-      "num": 179849,
+      "num": 276314,
       "word": "谁能想到一个家具城是4A景区",
       "onboard_time": 1744043000,
       "rank": 20,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 114775,
-      "num": 114775,
+      "num": 167855,
       "word": "美股大跌损失惨重马斯克也忍不住了",
       "onboard_time": 1744024403,
       "rank": 32,
@@ -363,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87286,
+      "num": 97874,
+      "word": "抗议者举企鹅反对加征关税标语",
+      "onboard_time": 1744044258,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84299,
       "num": 75153,
       "word": "孙俪敲罗",
@@ -385,6 +393,14 @@
       "onboard_time": 1744035024,
       "rank": 48,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 72584,
+      "num": 72584,
+      "word": "卤鹅",
+      "onboard_time": 1744045158,
+      "rank": 24,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 72277,
@@ -411,12 +427,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 52110,
-      "num": 97874,
-      "word": "抗议者举企鹅反对加征关税标语",
-      "onboard_time": 1744044258,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 51753,
+      "num": 64998,
+      "word": "中国为什么能全球第一个反制对等关税",
+      "onboard_time": 1744034605,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 43352,
@@ -425,6 +441,38 @@
       "onboard_time": 1744040542,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 39119,
+      "num": 39119,
+      "word": "当地回应女子报警后被强制送精神病院",
+      "onboard_time": 1744038864,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37641,
+      "num": 37641,
+      "word": "淮水竹亭定档",
+      "onboard_time": 1744024762,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 36352,
+      "num": 36352,
+      "word": "鹿晗穿越千年传统文化探寻之旅",
+      "onboard_time": 1744046476,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27089,
+      "num": 166211,
+      "word": "欧盟拟对280亿美元美国商品进行反制",
+      "onboard_time": 1744045458,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12674,
