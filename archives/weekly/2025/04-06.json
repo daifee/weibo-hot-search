@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744015566269,
+  "endTime": 1744018065932,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1984619,
-      "num": 349045,
+      "num": 885189,
       "word": "天塌不下来",
       "onboard_time": 1744012164,
       "rank": 10,
@@ -97,6 +97,14 @@
       "onboard_time": 1743937642,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1360379,
+      "num": 1360379,
+      "word": "周立人被判死刑",
+      "onboard_time": 1744014863,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1333815,
@@ -379,6 +387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 860148,
+      "num": 860148,
+      "word": "湘潭大学宿舍投毒案一审宣判",
+      "onboard_time": 1744013243,
+      "rank": 4,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 858817,
       "num": 551204,
       "word": "李昀锐哥哥",
@@ -467,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 744767,
+      "num": 744767,
+      "word": "日本约4.2万具遗体无人认领",
+      "onboard_time": 1744016602,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 731455,
       "num": 731455,
       "word": "甲亢哥长沙",
@@ -489,14 +513,6 @@
       "onboard_time": 1744011382,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 729995,
-      "num": 729995,
-      "word": "湘潭大学宿舍投毒案一审宣判",
-      "onboard_time": 1744013243,
-      "rank": 4,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 726482,
@@ -891,6 +907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 475690,
+      "num": 475690,
+      "word": "一部手机看懂美国加关税的代价",
+      "onboard_time": 1744014742,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 474457,
       "num": 509316,
       "word": "八旬老人拆掉养护院护栏跳下坠亡",
@@ -929,14 +953,6 @@
       "onboard_time": 1743938961,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 434883,
-      "num": 434883,
-      "word": "周立人被判死刑",
-      "onboard_time": 1744014863,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 432567,
@@ -1219,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365075,
+      "num": 365075,
+      "word": "姐姐姐夫地下恋多年合谋作案",
+      "onboard_time": 1744014802,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364304,
       "num": 214434,
       "word": "全家喝五指毛桃煲鸡汤中毒2人进ICU",
@@ -1259,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357676,
+      "num": 357676,
+      "word": "特朗普放话打到贸易逆差清零为止",
+      "onboard_time": 1744017082,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 356305,
       "num": 356305,
       "word": "身体各处的警告",
@@ -1273,6 +1305,14 @@
       "onboard_time": 1743895697,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346952,
+      "num": 346952,
+      "word": "亚太集体救市",
+      "onboard_time": 1744015943,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 345116,
@@ -1467,6 +1507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 298140,
+      "num": 377585,
+      "word": "美股暴跌后钱都去了哪里",
+      "onboard_time": 1744016664,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 298120,
       "num": 298120,
       "word": "雅漾 樊振东",
@@ -1481,6 +1529,22 @@
       "onboard_time": 1743998724,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 293319,
+      "num": 293319,
+      "word": "医生劝大家自己爽才是天下第一",
+      "onboard_time": 1744017082,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 292925,
+      "num": 292925,
+      "word": "小米集团股价跌超19%",
+      "onboard_time": 1744016123,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 292788,
@@ -1577,6 +1641,14 @@
       "onboard_time": 1744003403,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 276500,
+      "num": 276500,
+      "word": "一家三口被撞身亡案死者亲属盼严惩",
+      "onboard_time": 1744017684,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276390,
@@ -1681,6 +1753,14 @@
       "onboard_time": 1743918200,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259303,
+      "num": 259303,
+      "word": "EXO周边",
+      "onboard_time": 1744015823,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 258364,
@@ -1924,7 +2004,7 @@
     },
     {
       "raw_hot": 229234,
-      "num": 229234,
+      "num": 307962,
       "word": "王俊凯方将取证追责",
       "onboard_time": 1744014863,
       "rank": 23,
@@ -2219,20 +2299,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208188,
+      "num": 257595,
+      "word": "外交部回应美滥施关税",
+      "onboard_time": 1744015043,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207722,
       "num": 207722,
       "word": "张元英找镜头速度",
       "onboard_time": 1743864984,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 207706,
-      "num": 207706,
-      "word": "姐姐姐夫地下恋多年合谋作案",
-      "onboard_time": 1744014802,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 207678,
@@ -2563,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189153,
+      "num": 189153,
+      "word": "代入管乐我真的会哭出来",
+      "onboard_time": 1744017082,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188609,
       "num": 177896,
       "word": "这样切水果不脏手又好看",
@@ -2867,6 +2955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178132,
+      "num": 178132,
+      "word": "孙燕姿演唱会后全城戒断",
+      "onboard_time": 1744016482,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178056,
       "num": 178056,
       "word": "仙逆",
@@ -2947,6 +3043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172556,
+      "num": 172556,
+      "word": "滤镜研讨会",
+      "onboard_time": 1744016362,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170674,
       "num": 170674,
       "word": "吴宣仪vava给卡琳娜送被子",
@@ -2969,14 +3073,6 @@
       "onboard_time": 1743983600,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169645,
-      "num": 257595,
-      "word": "外交部回应美滥施关税",
-      "onboard_time": 1744015043,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 169549,
@@ -3451,6 +3547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147064,
+      "num": 147064,
+      "word": "种地吧禁止虐待三旬老人林更新",
+      "onboard_time": 1744017323,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146882,
       "num": 202445,
       "word": "留几手晒腹肌",
@@ -3489,6 +3593,14 @@
       "onboard_time": 1743942322,
       "rank": 9,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 142272,
+      "num": 142272,
+      "word": "台湾应对美加征关税的措施是买买买",
+      "onboard_time": 1744015642,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142184,
@@ -3779,6 +3891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129437,
+      "num": 129437,
+      "word": "全红婵用上王楚钦最新表情包",
+      "onboard_time": 1744017863,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129416,
       "num": 129416,
       "word": "6家商会发声明回应美加征关税",
@@ -3825,6 +3945,14 @@
       "onboard_time": 1743946643,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128138,
+      "num": 128138,
+      "word": "案发后周立人试图隐匿和销毁重要物证",
+      "onboard_time": 1744017983,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127632,
@@ -4105,6 +4233,14 @@
       "onboard_time": 1743932782,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116314,
+      "num": 116314,
+      "word": "黄子弘凡OK生日刊封面预告",
+      "onboard_time": 1744017805,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 116280,
@@ -4505,14 +4641,6 @@
       "onboard_time": 1744002623,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99287,
-      "num": 356727,
-      "word": "一部手机看懂美国加关税的代价",
-      "onboard_time": 1744014742,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 98874,
@@ -5019,6 +5147,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 60802,
+      "num": 260999,
+      "word": "原神迪希雅",
+      "onboard_time": 1744016902,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 60411,
       "num": 60411,
       "word": "朱婷留洋第六季",
@@ -5041,6 +5177,22 @@
       "onboard_time": 1743873258,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57855,
+      "num": 323066,
+      "word": "国际金价为何坐上过山车",
+      "onboard_time": 1744016843,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 57740,
+      "num": 307957,
+      "word": "美国或向乌克兰发最后通牒",
+      "onboard_time": 1744017082,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55905,
