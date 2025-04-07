@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744031056542,
+  "endTime": 1744032853036,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -33,6 +33,14 @@
       "onboard_time": 1743908421,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2254264,
+      "num": 2254264,
+      "word": "主播直播擦边卖枕头2小时场观30万",
+      "onboard_time": 1744029863,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1984619,
@@ -459,14 +467,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 902181,
-      "num": 902181,
-      "word": "主播直播擦边卖枕头2小时场观30万",
-      "onboard_time": 1744029863,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 898123,
       "num": 1143699,
       "word": "小米",
@@ -545,6 +545,14 @@
       "onboard_time": 1744016602,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 799025,
+      "num": 353210,
+      "word": "92岁老股民一上午亏损近8万",
+      "onboard_time": 1744030943,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 794037,
@@ -1115,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 447409,
+      "num": 348018,
+      "word": "马布里官宣结婚",
+      "onboard_time": 1744029383,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443515,
       "num": 443515,
       "word": "还有24天放假5天",
@@ -1323,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 395913,
+      "num": 395913,
+      "word": "奥巴马吐槽特朗普第二任期政策",
+      "onboard_time": 1744031124,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 394843,
       "num": 166298,
       "word": "洪尧回应结婚争议",
@@ -1499,28 +1523,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 353210,
-      "num": 353210,
-      "word": "92岁老股民一上午亏损近8万",
-      "onboard_time": 1744030943,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 350333,
       "num": 350333,
       "word": "男子路遇雪豹尸体疑遭车辆撞击",
       "onboard_time": 1743895697,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 348018,
-      "num": 348018,
-      "word": "马布里官宣结婚",
-      "onboard_time": 1744029383,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 346952,
@@ -1689,6 +1697,14 @@
       "onboard_time": 1743939322,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325925,
+      "num": 366214,
+      "word": "月初预定2公斤金条路上4天亏4万",
+      "onboard_time": 1744029201,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 320529,
@@ -1875,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279349,
+      "num": 279349,
+      "word": "粉丝机场疯狂追星险发生踩踏",
+      "onboard_time": 1744031483,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279260,
       "num": 297571,
       "word": "成龙近五年的微博基本上就是悼念",
@@ -1913,6 +1937,22 @@
       "onboard_time": 1743941301,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 275662,
+      "num": 275662,
+      "word": "王力宏演唱会郑州站取消",
+      "onboard_time": 1744030824,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 272253,
+      "num": 272253,
+      "word": "长沙文旅",
+      "onboard_time": 1744031483,
+      "rank": 24,
+      "category": "网红,旅游"
     },
     {
       "raw_hot": 270886,
@@ -2169,6 +2209,14 @@
       "onboard_time": 1743862763,
       "rank": 9,
       "category": "财经,海外新闻"
+    },
+    {
+      "raw_hot": 239471,
+      "num": 359023,
+      "word": "湖南上千名公职人员卷入非法集资案",
+      "onboard_time": 1744030583,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239005,
@@ -2667,6 +2715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204328,
+      "num": 204328,
+      "word": "蒋一侨四公寸头飒姐爆改长发甜妹",
+      "onboard_time": 1744031964,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203717,
       "num": 203717,
       "word": "银河左岸音乐节",
@@ -2723,6 +2779,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 199465,
+      "num": 199465,
+      "word": "雁回时庆功宴",
+      "onboard_time": 1744031424,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198743,
+      "num": 198743,
+      "word": "A50",
+      "onboard_time": 1744030464,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 198720,
       "num": 275209,
       "word": "徐明浩音综导师当上瘾了",
@@ -2745,6 +2817,14 @@
       "onboard_time": 1743994644,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197917,
+      "num": 197917,
+      "word": "芒果台",
+      "onboard_time": 1744032264,
+      "rank": 32,
+      "category": "网红,作品衍生"
     },
     {
       "raw_hot": 197589,
@@ -3009,6 +3089,14 @@
       "onboard_time": 1743921021,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187696,
+      "num": 187696,
+      "word": "瘦下来后对颜值有4个提升",
+      "onboard_time": 1744023743,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 187428,
@@ -3276,19 +3364,11 @@
     },
     {
       "raw_hot": 179193,
-      "num": 179193,
+      "num": 200827,
       "word": "iG疑似回应朱开",
       "onboard_time": 1744029383,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 179022,
-      "num": 179022,
-      "word": "A50",
-      "onboard_time": 1744030464,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 179017,
@@ -3331,6 +3411,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 178015,
+      "num": 178015,
+      "word": "被王玉雯婚纱跑硬控20秒",
+      "onboard_time": 1744032503,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177706,
       "num": 169128,
       "word": "cpf万能嗑糖公式",
@@ -3361,6 +3449,14 @@
       "onboard_time": 1743995063,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177023,
+      "num": 177023,
+      "word": "小米回应SU7保险相关谣言",
+      "onboard_time": 1744032623,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 176189,
@@ -3579,14 +3675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166512,
-      "num": 166512,
-      "word": "瘦下来后对颜值有4个提升",
-      "onboard_time": 1744023743,
-      "rank": 41,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 165513,
       "num": 165513,
       "word": "戚薇谁把我的牛奶换了红酒",
@@ -3675,6 +3763,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 162213,
+      "num": 162213,
+      "word": "东北虎饲养员喂狼时狼被吓到发抖",
+      "onboard_time": 1744031364,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161132,
       "num": 161132,
       "word": "陪伴了1412天的女朋友",
@@ -3731,6 +3827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158844,
+      "num": 158844,
+      "word": "主人给黑猫剃毛后收获一只白猫",
+      "onboard_time": 1744031483,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158806,
       "num": 158806,
       "word": "黄景瑜超绝不经意拿到黄明昊蛋糕",
@@ -3745,6 +3849,14 @@
       "onboard_time": 1744008921,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158044,
+      "num": 184397,
+      "word": "宋妍霏腰封叠穿",
+      "onboard_time": 1744030644,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 157922,
@@ -3811,6 +3923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155682,
+      "num": 155682,
+      "word": "檀健次我的体制内男友",
+      "onboard_time": 1744031843,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155401,
       "num": 155401,
       "word": "陈芋汐夺冠全红婵狂竖大拇指",
@@ -3841,6 +3961,14 @@
       "onboard_time": 1743905421,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155049,
+      "num": 155049,
+      "word": "守望先锋",
+      "onboard_time": 1744032204,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 154670,
@@ -4107,14 +4235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141335,
-      "num": 184397,
-      "word": "宋妍霏腰封叠穿",
-      "onboard_time": 1744030644,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 140837,
       "num": 140837,
       "word": "甲亢哥保镖一直在吃东西",
@@ -4273,14 +4393,6 @@
       "onboard_time": 1743982999,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135346,
-      "num": 135346,
-      "word": "王力宏演唱会郑州站取消",
-      "onboard_time": 1744030824,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 135302,
@@ -4779,6 +4891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118493,
+      "num": 352025,
+      "word": "直播间擦边卖枕头4天销售额超100万",
+      "onboard_time": 1744032324,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118066,
       "num": 118066,
       "word": "清明档新片票房超3亿",
@@ -4952,14 +5072,6 @@
       "word": "东部战区视频为了这个省",
       "onboard_time": 1743896479,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113109,
-      "num": 366214,
-      "word": "月初预定2公斤金条路上4天亏4万",
-      "onboard_time": 1744029201,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -5627,6 +5739,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 72637,
+      "num": 159274,
+      "word": "同曦男篮vs新疆男篮",
+      "onboard_time": 1744032804,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72131,
       "num": 86776,
       "word": "一边变脸一边跳街舞惊艳老外",
@@ -6075,6 +6195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 38577,
+      "num": 273581,
+      "word": "梁伟铿王昶默契值拉满",
+      "onboard_time": 1744031664,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38277,
       "num": 344542,
       "word": "神十九乘组太空出差已超150天",
@@ -6177,14 +6305,6 @@
       "onboard_time": 1744018224,
       "rank": 28,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 26871,
-      "num": 359023,
-      "word": "湖南上千名公职人员卷入非法集资案",
-      "onboard_time": 1744030583,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26824,

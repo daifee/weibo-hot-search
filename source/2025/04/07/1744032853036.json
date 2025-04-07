@@ -1,0 +1,410 @@
+{
+  "runTime": 1744032853036,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2254264,
+        "num": 2254264,
+        "word": "主播直播擦边卖枕头2小时场观30万",
+        "onboard_time": 1744029863,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1345719,
+        "num": 1345719,
+        "word": "徐正溪退圈照顾生病父亲一年后复出",
+        "onboard_time": 1744025182,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13750,
+        "num": 813505,
+        "word": "集中精力办好自己的事",
+        "onboard_time": 1743942741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 676899,
+        "num": 676899,
+        "word": "甲亢哥今晚直播或是最后一场",
+        "onboard_time": 1744025422,
+        "rank": 3,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 515549,
+        "num": 515549,
+        "word": "美股大跌损失惨重马斯克也忍不住了",
+        "onboard_time": 1744024403,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 402891,
+        "num": 402891,
+        "word": "一个冰箱贴为何一年能卖14万件",
+        "onboard_time": 1744025182,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395913,
+        "num": 395913,
+        "word": "奥巴马吐槽特朗普第二任期政策",
+        "onboard_time": 1744031124,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 359684,
+        "num": 359684,
+        "word": "白鹿模仿苦尽柑来金宣虎笑",
+        "onboard_time": 1744022483,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 375229,
+        "num": 354567,
+        "word": "甲亢哥微博直播",
+        "onboard_time": 1744018282,
+        "rank": 8,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 118493,
+        "num": 352025,
+        "word": "直播间擦边卖枕头4天销售额超100万",
+        "onboard_time": 1744032324,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1644975,
+        "num": 345263,
+        "word": "李刚被双开",
+        "onboard_time": 1744021763,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1096008,
+        "num": 332684,
+        "word": "诺一上法国新闻",
+        "onboard_time": 1744028605,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 799025,
+        "num": 329655,
+        "word": "92岁老股民一上午亏损近8万",
+        "onboard_time": 1744030943,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325925,
+        "num": 325925,
+        "word": "月初预定2公斤金条路上4天亏4万",
+        "onboard_time": 1744029201,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552272,
+        "num": 325920,
+        "word": "王祖蓝妹妹结婚",
+        "onboard_time": 1744029383,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447409,
+        "num": 325324,
+        "word": "马布里官宣结婚",
+        "onboard_time": 1744029383,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323761,
+        "num": 323761,
+        "word": "淮水竹亭定档",
+        "onboard_time": 1744024762,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122844,
+        "num": 321059,
+        "word": "全民智驾普及绕不开国民神车",
+        "onboard_time": 1744028723,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 321031,
+        "num": 321031,
+        "word": "胡歌 内娱第一个吃大螃蟹的艺人",
+        "onboard_time": 1744026802,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279349,
+        "num": 279349,
+        "word": "粉丝机场疯狂追星险发生踩踏",
+        "onboard_time": 1744031483,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303984,
+        "num": 278736,
+        "word": "金价跌到我心满意足再入手",
+        "onboard_time": 1744024643,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 275662,
+        "num": 275662,
+        "word": "王力宏演唱会郑州站取消",
+        "onboard_time": 1744030824,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38577,
+        "num": 273581,
+        "word": "梁伟铿王昶默契值拉满",
+        "onboard_time": 1744031664,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248561,
+        "num": 272361,
+        "word": "马布里中国女婿",
+        "onboard_time": 1744027164,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272253,
+        "num": 272253,
+        "word": "长沙文旅",
+        "onboard_time": 1744031483,
+        "rank": 24,
+        "category": "网红,旅游"
+      },
+      {
+        "raw_hot": 265971,
+        "num": 265971,
+        "word": "双胞胎姐妹佩佩惠惠相继离世",
+        "onboard_time": 1744018703,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239471,
+        "num": 239471,
+        "word": "湖南上千名公职人员卷入非法集资案",
+        "onboard_time": 1744030583,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204328,
+        "num": 204328,
+        "word": "蒋一侨四公寸头飒姐爆改长发甜妹",
+        "onboard_time": 1744031964,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120394,
+        "num": 200827,
+        "word": "iG疑似回应朱开",
+        "onboard_time": 1744029383,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199465,
+        "num": 199465,
+        "word": "雁回时庆功宴",
+        "onboard_time": 1744031424,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198743,
+        "num": 198743,
+        "word": "A50",
+        "onboard_time": 1744030464,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198483,
+        "num": 198483,
+        "word": "提前还房贷变难了",
+        "onboard_time": 1744022003,
+        "rank": 31,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 197917,
+        "num": 197917,
+        "word": "芒果台",
+        "onboard_time": 1744032264,
+        "rank": 32,
+        "category": "网红,作品衍生"
+      },
+      {
+        "raw_hot": 194529,
+        "num": 194529,
+        "word": "医生劝大家自己爽才是天下第一",
+        "onboard_time": 1744017082,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187696,
+        "num": 187696,
+        "word": "瘦下来后对颜值有4个提升",
+        "onboard_time": 1744023743,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 183886,
+        "num": 183886,
+        "word": "甲亢哥唱阳光彩虹小白马",
+        "onboard_time": 1744022122,
+        "rank": 35,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 182983,
+        "num": 182983,
+        "word": "一边检测不合格一边检测包通过",
+        "onboard_time": 1744027884,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169252,
+        "num": 180050,
+        "word": "王心凌穿走了莫奈的花园",
+        "onboard_time": 1744025244,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178015,
+        "num": 178015,
+        "word": "被王玉雯婚纱跑硬控20秒",
+        "onboard_time": 1744032503,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177023,
+        "num": 177023,
+        "word": "小米回应SU7保险相关谣言",
+        "onboard_time": 1744032623,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164989,
+        "num": 164989,
+        "word": "股市",
+        "onboard_time": 1744031364,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163754,
+        "num": 163754,
+        "word": "美股期货暴跌特朗普却在赚钱",
+        "onboard_time": 1744020443,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162213,
+        "num": 162213,
+        "word": "东北虎饲养员喂狼时狼被吓到发抖",
+        "onboard_time": 1744031364,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72637,
+        "num": 159274,
+        "word": "同曦男篮vs新疆男篮",
+        "onboard_time": 1744032804,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158844,
+        "num": 158844,
+        "word": "主人给黑猫剃毛后收获一只白猫",
+        "onboard_time": 1744031483,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158044,
+        "num": 158044,
+        "word": "宋妍霏腰封叠穿",
+        "onboard_time": 1744030644,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155682,
+        "num": 155682,
+        "word": "檀健次我的体制内男友",
+        "onboard_time": 1744031843,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155049,
+        "num": 155049,
+        "word": "守望先锋",
+        "onboard_time": 1744032204,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145539,
+        "num": 145539,
+        "word": "日本约4.2万具遗体无人认领",
+        "onboard_time": 1744016602,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142204,
+        "num": 142204,
+        "word": "鞠婧祎LV黑色长裙",
+        "onboard_time": 1744019062,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "跟着总书记领略中华文明"
+    }
+  }
+}
