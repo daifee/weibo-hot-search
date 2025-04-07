@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744008495128,
+  "endTime": 1744010774740,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -187,6 +187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1078781,
+      "num": 1078781,
+      "word": "小米股票",
+      "onboard_time": 1744008741,
+      "rank": 1,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 1053889,
       "num": 1018456,
       "word": "小鬼在偶练大群发想你们了",
@@ -345,6 +353,14 @@
       "onboard_time": 1743909920,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 845860,
+      "num": 337439,
+      "word": "印男子涉嫌杀妻入狱后发现妻子在世",
+      "onboard_time": 1744008142,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 823772,
@@ -755,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 505422,
+      "num": 505422,
+      "word": "理发店称因李美越平台客流量少30%",
+      "onboard_time": 1744007782,
+      "rank": 22,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 504554,
       "num": 504554,
       "word": "雪梨参加综艺被淘汰",
@@ -881,6 +905,14 @@
       "onboard_time": 1743995122,
       "rank": 43,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 430481,
+      "num": 430481,
+      "word": "歌手TANK心肝移植手术成功",
+      "onboard_time": 1744010063,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 429146,
@@ -1155,6 +1187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 361860,
+      "num": 331473,
+      "word": "特朗普谈股市暴跌",
+      "onboard_time": 1744005802,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 361401,
       "num": 361401,
       "word": "张峻豪演唱会",
@@ -1289,14 +1329,6 @@
       "onboard_time": 1743866783,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 330033,
-      "num": 330033,
-      "word": "特朗普谈股市暴跌",
-      "onboard_time": 1744005802,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 329588,
@@ -1547,14 +1579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263074,
-      "num": 263074,
-      "word": "理发店称因李美越平台客流量少30%",
-      "onboard_time": 1744007782,
-      "rank": 22,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 260424,
       "num": 260424,
       "word": "宋妍霏真把李斯丹妮梦来浪姐了",
@@ -1635,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250052,
+      "num": 250052,
+      "word": "中央汇金公司正在积极开展稳市操作",
+      "onboard_time": 1744008682,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 249496,
       "num": 264552,
       "word": "任豪在创造营帅回主场了",
@@ -1648,6 +1680,14 @@
       "word": "孟子义单手骑马",
       "onboard_time": 1743986601,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 248879,
+      "num": 248879,
+      "word": "张予曦跳了免我蹉跎苦",
+      "onboard_time": 1744009703,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1697,6 +1737,14 @@
       "onboard_time": 1743999683,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238563,
+      "num": 328264,
+      "word": "中央汇金再次增持ETF",
+      "onboard_time": 1744009703,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 236731,
@@ -1761,6 +1809,14 @@
       "onboard_time": 1743995963,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230649,
+      "num": 249444,
+      "word": "A股三大股指反弹",
+      "onboard_time": 1744008262,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 229551,
@@ -1947,6 +2003,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 215177,
+      "num": 215177,
+      "word": "十个勤天芹菜",
+      "onboard_time": 1744008803,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214769,
       "num": 214769,
       "word": "突然发现6月到9月没有假期",
@@ -1985,6 +2049,14 @@
       "onboard_time": 1743983300,
       "rank": 30,
       "category": "健康医疗,美妆"
+    },
+    {
+      "raw_hot": 209952,
+      "num": 209952,
+      "word": "陈都灵 邪恶兔兔",
+      "onboard_time": 1744008862,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 209787,
@@ -2035,14 +2107,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 207414,
-      "num": 207414,
-      "word": "印男子涉嫌杀妻入狱后发现妻子在世",
-      "onboard_time": 1744008142,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 207243,
       "num": 498146,
       "word": "山西一中学食堂420万食材费被贪占",
@@ -2089,6 +2153,14 @@
       "onboard_time": 1743931100,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201094,
+      "num": 201094,
+      "word": "哪个老师不喜欢孙俪这样的学生",
+      "onboard_time": 1744009281,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 200082,
@@ -2145,6 +2217,14 @@
       "onboard_time": 1743991281,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195611,
+      "num": 195611,
+      "word": "甲亢哥大张伟今晚见面",
+      "onboard_time": 1744008023,
+      "rank": 44,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 195605,
@@ -2307,6 +2387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189663,
+      "num": 189663,
+      "word": "孟子义赵志伟演兄妹",
+      "onboard_time": 1744009463,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189360,
       "num": 189360,
       "word": "陈立农七周年同学录问答",
@@ -2321,6 +2409,14 @@
       "onboard_time": 1743906741,
       "rank": 27,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 188150,
+      "num": 188150,
+      "word": "宋茜周冬雨欧阳娜娜买了同双鞋",
+      "onboard_time": 1744010182,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 188112,
@@ -2377,6 +2473,14 @@
       "onboard_time": 1744002383,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 186264,
+      "num": 186264,
+      "word": "小周深又在哪里闯祸呢",
+      "onboard_time": 1744010182,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 186188,
@@ -2659,6 +2763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174140,
+      "num": 174140,
+      "word": "中央汇金坚定看好中国资本市场发展前景",
+      "onboard_time": 1744010363,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173746,
       "num": 173746,
       "word": "焦虑的人一般都秩序感很强",
@@ -2681,14 +2793,6 @@
       "onboard_time": 1743915681,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 172435,
-      "num": 172435,
-      "word": "A股三大股指反弹",
-      "onboard_time": 1744008262,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 170674,
@@ -2843,6 +2947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164614,
+      "num": 164614,
+      "word": "物业给错户号业主交了39390元水费",
+      "onboard_time": 1744008502,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164105,
       "num": 164105,
       "word": "陈妍希杨丞琳潘玮柏合影",
@@ -2891,6 +3003,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 161920,
+      "num": 161920,
+      "word": "高姿 丁禹兮",
+      "onboard_time": 1744008262,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161132,
       "num": 161132,
       "word": "陪伴了1412天的女朋友",
@@ -2937,6 +3057,14 @@
       "onboard_time": 1743917241,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 158566,
+      "num": 158566,
+      "word": "陈幸同钱天一退赛",
+      "onboard_time": 1744008921,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 157548,
@@ -3019,14 +3147,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 155191,
-      "num": 155191,
-      "word": "甲亢哥大张伟今晚见面",
-      "onboard_time": 1744008023,
-      "rank": 44,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 155049,
       "num": 155049,
       "word": "陈芋汐全红婵断层包揽金银",
@@ -3049,6 +3169,14 @@
       "onboard_time": 1743945381,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151374,
+      "num": 151374,
+      "word": "阿瑟你的兵来了",
+      "onboard_time": 1744010482,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 150667,
@@ -3131,20 +3259,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 148214,
-      "num": 148214,
-      "word": "高姿 丁禹兮",
-      "onboard_time": 1744008262,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147562,
       "num": 147562,
       "word": "马吟吟终于被看到了",
       "onboard_time": 1743930980,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147275,
+      "num": 168142,
+      "word": "TANK两位亲人都因心脏病去世",
+      "onboard_time": 1744010543,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 147075,
@@ -4339,6 +4467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86523,
+      "num": 322733,
+      "word": "广西8岁自闭症儿童已走失6天",
+      "onboard_time": 1744009643,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86481,
       "num": 86481,
       "word": "鹭卓吃的好撑干的好满",
@@ -4449,6 +4585,14 @@
       "onboard_time": 1743926660,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 77551,
+      "num": 291261,
+      "word": "邓萃雯谈如何度过人生垃圾时间",
+      "onboard_time": 1744008502,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 76196,
@@ -4955,6 +5099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25782,
+      "num": 211714,
+      "word": "揭秘刘晓庆首部短剧制作成本",
+      "onboard_time": 1744005982,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25096,
       "num": 29368,
       "word": "哪吒敖丙hi6打卡vlog",
@@ -5185,6 +5337,14 @@
       "onboard_time": 1743896059,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11160,
+      "num": 166523,
+      "word": "甲亢哥展现多元真实的中国",
+      "onboard_time": 1744009942,
+      "rank": 39,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 11035,
