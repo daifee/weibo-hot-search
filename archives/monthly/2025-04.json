@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744000150496,
+  "endTime": 1744000999322,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1867,6 +1867,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 774364,
+      "num": 483641,
+      "word": "余承恩团队被路人怼",
+      "onboard_time": 1743999623,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 771856,
       "num": 225076,
       "word": "霸王茶姬 哪吒",
@@ -2201,6 +2209,14 @@
       "onboard_time": 1743467783,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 660434,
+      "num": 660434,
+      "word": "特朗普回应市场大跌",
+      "onboard_time": 1743996923,
+      "rank": 14,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 659052,
@@ -2699,14 +2715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 579647,
-      "num": 579647,
-      "word": "特朗普回应市场大跌",
-      "onboard_time": 1743996923,
-      "rank": 14,
-      "category": "国际时政,财经"
-    },
-    {
       "raw_hot": 578666,
       "num": 578666,
       "word": "清明节",
@@ -2937,6 +2945,14 @@
       "onboard_time": 1743825921,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 541316,
+      "num": 470610,
+      "word": "甲亢哥住过最好的酒店在中国",
+      "onboard_time": 1743997882,
+      "rank": 30,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 540671,
@@ -3267,6 +3283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 497911,
+      "num": 497911,
+      "word": "徐若晗首部一番古装剧",
+      "onboard_time": 1743998903,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497362,
       "num": 351574,
       "word": "特斯拉失控撞花坛腾空落下压毁5车",
@@ -3587,6 +3611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459473,
+      "num": 546293,
+      "word": "苦尽柑来遇见你八项百想提名",
+      "onboard_time": 1743996624,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 458330,
       "num": 384264,
       "word": "鞠婧祎小号安慰粉丝",
@@ -3673,14 +3705,6 @@
       "onboard_time": 1743737181,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 443910,
-      "num": 443910,
-      "word": "徐若晗首部一番古装剧",
-      "onboard_time": 1743998903,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 443515,
@@ -4035,14 +4059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 407818,
-      "num": 407818,
-      "word": "余承恩团队被路人怼",
-      "onboard_time": 1743999623,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 407461,
       "num": 407461,
       "word": "向阳花票房",
@@ -4057,14 +4073,6 @@
       "onboard_time": 1743561922,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 407298,
-      "num": 546293,
-      "word": "苦尽柑来遇见你八项百想提名",
-      "onboard_time": 1743996624,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 406674,
@@ -4747,14 +4755,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 355482,
-      "num": 251289,
-      "word": "甲亢哥住过最好的酒店在中国",
-      "onboard_time": 1743997882,
-      "rank": 30,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 354641,
       "num": 354641,
       "word": "陈都灵 妈妈的保镖来啦",
@@ -4921,6 +4921,14 @@
       "onboard_time": 1743553343,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 343805,
+      "num": 343805,
+      "word": "胡锡进",
+      "onboard_time": 1744000165,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 343429,
@@ -5433,6 +5441,14 @@
       "onboard_time": 1743519746,
       "rank": 27,
       "category": "辟谣/通报,汽车"
+    },
+    {
+      "raw_hot": 306375,
+      "num": 306375,
+      "word": "特朗普顾问说只要不卖股票就不会亏钱",
+      "onboard_time": 1743996443,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 306324,
@@ -5987,14 +6003,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 276302,
-      "num": 276302,
-      "word": "特朗普顾问说只要不卖股票就不会亏钱",
-      "onboard_time": 1743996443,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 276019,
       "num": 276019,
       "word": "美国普通人担心关税让钱包受伤",
@@ -6105,6 +6113,14 @@
       "onboard_time": 1743577161,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269380,
+      "num": 292113,
+      "word": "范丞丞买超等好友聚会",
+      "onboard_time": 1743999683,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 267809,
@@ -6683,6 +6699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238646,
+      "num": 289254,
+      "word": "半熟恋人",
+      "onboard_time": 1743999683,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238602,
       "num": 238602,
       "word": "电视剧千秋令定档",
@@ -6713,14 +6737,6 @@
       "onboard_time": 1743506064,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 236976,
-      "num": 236976,
-      "word": "范丞丞买超等好友聚会",
-      "onboard_time": 1743999683,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 236855,
@@ -7147,6 +7163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223242,
+      "num": 380855,
+      "word": "白宫再回应俄罗斯没上关税名单",
+      "onboard_time": 1743999384,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 223014,
       "num": 223014,
       "word": "减肥建议不要长期跳绳",
@@ -7283,14 +7307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219511,
-      "num": 219511,
-      "word": "半熟恋人",
-      "onboard_time": 1743999683,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219291,
       "num": 219291,
       "word": "劝大家远离4种低质量社交",
@@ -7393,6 +7409,14 @@
       "onboard_time": 1743916761,
       "rank": 19,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 216031,
+      "num": 216031,
+      "word": "大侦探古装本",
+      "onboard_time": 1744000224,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 215717,
@@ -7977,6 +8001,14 @@
       "onboard_time": 1743689123,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204813,
+      "num": 247512,
+      "word": "孙俪新剧全是品质二搭",
+      "onboard_time": 1743999263,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 204685,
@@ -8683,6 +8715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193370,
+      "num": 193370,
+      "word": "A股半日放量3379亿成交1.07万亿",
+      "onboard_time": 1743999204,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193354,
       "num": 193354,
       "word": "德布劳内宣布将离开曼城",
@@ -9235,6 +9275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186188,
+      "num": 186188,
+      "word": "闪耀暖暖水母",
+      "onboard_time": 1744000405,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186072,
       "num": 186072,
       "word": "马思纯费启鸣跳了troublemaker",
@@ -9627,6 +9675,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181883,
+      "num": 181883,
+      "word": "兄弟分离40年去世后在大海团聚",
+      "onboard_time": 1744000884,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181832,
+      "num": 181832,
+      "word": "网红李美越10天掉粉近40万",
+      "onboard_time": 1744000825,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 181818,
       "num": 270107,
       "word": "为什么感觉假期过得格外快",
@@ -9865,14 +9929,6 @@
       "onboard_time": 1743503064,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178554,
-      "num": 247512,
-      "word": "孙俪新剧全是品质二搭",
-      "onboard_time": 1743999263,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 178491,
@@ -10401,6 +10457,14 @@
       "onboard_time": 1743837920,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 170247,
+      "num": 302386,
+      "word": "勇士西部第四体验卡没抢到",
+      "onboard_time": 1743998064,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 169748,
@@ -12625,14 +12689,6 @@
       "onboard_time": 1743694161,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141341,
-      "num": 370091,
-      "word": "白宫再回应俄罗斯没上关税名单",
-      "onboard_time": 1743999384,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 141294,
@@ -16356,7 +16412,7 @@
     },
     {
       "raw_hot": 98369,
-      "num": 263129,
+      "num": 297969,
       "word": "刘亦菲同款智界R7增程版上新",
       "onboard_time": 1743998724,
       "rank": 26,
@@ -17012,7 +17068,7 @@
     },
     {
       "raw_hot": 86420,
-      "num": 262195,
+      "num": 276772,
       "word": "周翊然在古驰活动当导游",
       "onboard_time": 1743999143,
       "rank": 28,
@@ -17233,6 +17289,14 @@
       "onboard_time": 1743934161,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 82052,
+      "num": 305912,
+      "word": "特朗普关税引发的震荡会持续多久",
+      "onboard_time": 1744000764,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82034,
@@ -18395,6 +18459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55905,
+      "num": 540064,
+      "word": "清明节放映场次创影史新高",
+      "onboard_time": 1743999263,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55586,
       "num": 55586,
       "word": "女枪庄寒雁",
@@ -19529,14 +19601,6 @@
       "onboard_time": 1743614236,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 31982,
-      "num": 540064,
-      "word": "清明节放映场次创影史新高",
-      "onboard_time": 1743999263,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 31971,
