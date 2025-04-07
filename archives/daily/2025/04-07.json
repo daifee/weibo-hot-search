@@ -1,7 +1,39 @@
 {
   "startTime": 1743956845609,
-  "endTime": 1743982541678,
+  "endTime": 1743990843625,
   "band_list": [
+    {
+      "raw_hot": 2882907,
+      "num": 2882907,
+      "word": "全球股市巨震",
+      "onboard_time": 1743989420,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 2689460,
+      "num": 656617,
+      "word": "A股",
+      "onboard_time": 1743982099,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1809170,
+      "num": 1809170,
+      "word": "金价再开跌",
+      "onboard_time": 1743983721,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1241708,
+      "num": 211813,
+      "word": "日经",
+      "onboard_time": 1743986421,
+      "rank": 24,
+      "category": "财经"
+    },
     {
       "raw_hot": 816434,
       "num": 922469,
@@ -11,12 +43,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 815405,
+      "num": 815405,
+      "word": "潘玮柏回应突然变回20岁模样",
+      "onboard_time": 1743981979,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 715789,
       "num": 715789,
       "word": "中核招聘回应收到百万份简历",
       "onboard_time": 1743954142,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 662566,
+      "num": 662566,
+      "word": "甲亢哥长沙",
+      "onboard_time": 1743989420,
+      "rank": 4,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 660117,
@@ -35,8 +83,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 625047,
+      "num": 625047,
+      "word": "李现打鸟",
+      "onboard_time": 1743987741,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595795,
-      "num": 238802,
+      "num": 338660,
       "word": "半夜醒来发现才是凌晨2点半",
       "onboard_time": 1743973093,
       "rank": 30,
@@ -67,6 +123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 497362,
+      "num": 351574,
+      "word": "特斯拉失控撞花坛腾空落下压毁5车",
+      "onboard_time": 1743982880,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 474457,
       "num": 509316,
       "word": "八旬老人拆掉养护院护栏跳下坠亡",
@@ -75,12 +139,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 469624,
+      "num": 469624,
+      "word": "19天班后就是五一假期",
+      "onboard_time": 1743984019,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 380483,
+      "num": 380483,
+      "word": "IU三提百想视后",
+      "onboard_time": 1743990080,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377194,
       "num": 232393,
       "word": "朱正廷因频繁戴隐形得了干眼症",
       "onboard_time": 1743944722,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365602,
+      "num": 365602,
+      "word": "美国有人开始囤货了",
+      "onboard_time": 1743945202,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 362079,
@@ -107,6 +195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 315017,
+      "num": 315017,
+      "word": "股市",
+      "onboard_time": 1743989901,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 299044,
       "num": 232216,
       "word": "创造营亚洲2排名",
@@ -131,20 +227,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258364,
+      "num": 258364,
+      "word": "TheShy赛后道歉",
+      "onboard_time": 1743987441,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 249375,
+      "num": 249375,
+      "word": "孟子义单手骑马",
+      "onboard_time": 1743986601,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 245552,
+      "num": 245552,
+      "word": "医生建议节后上班前三天少干活",
+      "onboard_time": 1743989661,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238779,
+      "num": 238779,
+      "word": "专家建议洗头后自然风干",
+      "onboard_time": 1743947182,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 237544,
       "num": 202034,
       "word": "宁艺卓即将大学毕业",
       "onboard_time": 1743947182,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226352,
-      "num": 163139,
-      "word": "专家建议洗头后自然风干",
-      "onboard_time": 1743947182,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 226116,
@@ -155,12 +275,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217347,
-      "num": 217347,
-      "word": "美国有人开始囤货了",
-      "onboard_time": 1743945202,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 223334,
+      "num": 223334,
+      "word": "民房起火父亲跳窗逃生15岁男孩身亡",
+      "onboard_time": 1743982880,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214009,
+      "num": 214009,
+      "word": "美股指数期货开盘暴跌",
+      "onboard_time": 1743987019,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 212007,
+      "num": 212007,
+      "word": "应急管理局回应男孩在家做实验爆炸",
+      "onboard_time": 1743987141,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211638,
@@ -171,12 +307,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190889,
-      "num": 129264,
-      "word": "潘玮柏回应突然变回20岁模样",
-      "onboard_time": 1743981979,
+      "raw_hot": 210805,
+      "num": 210805,
+      "word": "洗脸洗不对可能伤皮肤",
+      "onboard_time": 1743983300,
       "rank": 30,
-      "category": "演出"
+      "category": "健康医疗,美妆"
+    },
+    {
+      "raw_hot": 206958,
+      "num": 206958,
+      "word": "港股",
+      "onboard_time": 1743990200,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 193629,
+      "num": 211246,
+      "word": "百想提名",
+      "onboard_time": 1743988761,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 189834,
@@ -203,6 +355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169663,
+      "num": 169663,
+      "word": "广州15岁男孩在家做实验引爆炸烧伤",
+      "onboard_time": 1743983600,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168257,
       "num": 168257,
       "word": "胡烨韬我已经没有下一个四年了",
@@ -227,12 +387,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163623,
+      "num": 163623,
+      "word": "2岁娃烧伤婆婆给儿媳下跪自责痛哭",
+      "onboard_time": 1743943460,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162772,
+      "num": 210810,
+      "word": "百花杀开机",
+      "onboard_time": 1743985221,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162019,
       "num": 162019,
       "word": "女儿癌症去世后妈妈15年种树2万亩",
       "onboard_time": 1743948385,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160338,
+      "num": 160338,
+      "word": "网友拍到山上两人神似西游记名场面",
+      "onboard_time": 1743983780,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160159,
+      "num": 160159,
+      "word": "蔡徐坤胜诉",
+      "onboard_time": 1743990742,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153740,
+      "num": 207480,
+      "word": "美国股市遭遇2020年来最严重跌幅",
+      "onboard_time": 1743990200,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 152985,
@@ -243,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150239,
+      "num": 150239,
+      "word": "日韩股市开盘暴跌",
+      "onboard_time": 1743989600,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 150099,
       "num": 150099,
       "word": "金价暴涨还适合买三金吗",
@@ -251,12 +459,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 146872,
-      "num": 140078,
-      "word": "2岁娃烧伤婆婆给儿媳下跪自责痛哭",
-      "onboard_time": 1743943460,
-      "rank": 25,
+      "raw_hot": 150085,
+      "num": 150085,
+      "word": "奥巴马首次抨击特朗普第二任期政策",
+      "onboard_time": 1743990680,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 148747,
+      "num": 239007,
+      "word": "清明假期后第1天",
+      "onboard_time": 1743982099,
+      "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146457,
+      "num": 146457,
+      "word": "五四奖章入围名单公示",
+      "onboard_time": 1743989060,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142065,
@@ -264,6 +488,14 @@
       "word": "祝绪丹体重80斤",
       "onboard_time": 1743955340,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 136321,
+      "num": 136321,
+      "word": "黄景瑜金晨体型差",
+      "onboard_time": 1743982999,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -283,12 +515,52 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128906,
+      "num": 128906,
+      "word": "王俊凯演技",
+      "onboard_time": 1743989241,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128505,
       "num": 128505,
       "word": "买黄金一定不能图便宜",
       "onboard_time": 1743980659,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125131,
+      "num": 160209,
+      "word": "沪指低开4.46%",
+      "onboard_time": 1743989841,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 123154,
+      "num": 123154,
+      "word": "iPhone17Pro系列机模渲染图",
+      "onboard_time": 1743985582,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 122726,
+      "num": 122726,
+      "word": "特朗普选民信心逐渐转为质疑",
+      "onboard_time": 1743990801,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 121344,
+      "num": 121344,
+      "word": "意大利总理回应美国加征关税",
+      "onboard_time": 1743988580,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120076,
@@ -307,28 +579,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118610,
+      "num": 118610,
+      "word": "世界杯女子双人十米台中国队夺冠",
+      "onboard_time": 1743990801,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108489,
       "num": 108489,
       "word": "白桃星座",
       "onboard_time": 1743950963,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104553,
-      "num": 214145,
-      "word": "A股",
-      "onboard_time": 1743982099,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 104504,
-      "num": 239007,
-      "word": "清明假期后第1天",
-      "onboard_time": 1743982099,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101356,
@@ -475,6 +739,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82605,
+      "num": 211599,
+      "word": "韩国或6月3日举行总统大选",
+      "onboard_time": 1743988940,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 81766,
+      "num": 285007,
+      "word": "近800股跌超9%",
+      "onboard_time": 1743990262,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81235,
       "num": 81235,
       "word": "张惠妹鸟巢",
@@ -555,12 +835,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66509,
+      "num": 1203955,
+      "word": "集中精力办好自己的事",
+      "onboard_time": 1743942741,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66480,
       "num": 69372,
       "word": "时代峰峻辟谣招募女练习生",
       "onboard_time": 1743956120,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64421,
+      "num": 211692,
+      "word": "警方通报女子驾车突发不适车辆失控",
+      "onboard_time": 1743990500,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62990,
@@ -617,14 +913,6 @@
       "onboard_time": 1743980418,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39524,
-      "num": 672693,
-      "word": "集中精力办好自己的事",
-      "onboard_time": 1743942741,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39414,
