@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744061942316,
+  "endTime": 1744064619503,
   "band_list": [
     {
       "raw_hot": 2281087,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419806,
+      "num": 419806,
+      "word": "全球高度关注中国猛烈反击美国",
+      "onboard_time": 1744047077,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 385628,
       "num": 385628,
       "word": "徐正溪退圈照顾生病父亲一年后复出",
@@ -89,14 +97,6 @@
       "onboard_time": 1744039403,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 326226,
-      "num": 326226,
-      "word": "全球高度关注中国猛烈反击美国",
-      "onboard_time": 1744047077,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 308409,
@@ -129,6 +129,14 @@
       "onboard_time": 1744037545,
       "rank": 9,
       "category": "综艺,网红"
+    },
+    {
+      "raw_hot": 219476,
+      "num": 219476,
+      "word": "大姐每天采茶12小时子宫掉出体外",
+      "onboard_time": 1744050617,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207983,
@@ -267,6 +275,14 @@
       "category": "网红,作品衍生"
     },
     {
+      "raw_hot": 118963,
+      "num": 118963,
+      "word": "全球资本流向或发生调整",
+      "onboard_time": 1744057934,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114775,
       "num": 167855,
       "word": "美股大跌损失惨重马斯克也忍不住了",
@@ -387,14 +403,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 86615,
-      "num": 46209,
-      "word": "大姐每天采茶12小时子宫掉出体外",
-      "onboard_time": 1744050617,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84299,
       "num": 75153,
       "word": "孙俪敲罗",
@@ -409,6 +417,14 @@
       "onboard_time": 1744038564,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74914,
+      "num": 74914,
+      "word": "美国加征关税的回旋镖正中谁的眉心",
+      "onboard_time": 1744057453,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74554,
@@ -427,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71777,
-      "num": 71777,
-      "word": "全球资本流向或发生调整",
-      "onboard_time": 1744057934,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 61864,
       "num": 61864,
       "word": "Daniel新家",
@@ -451,14 +459,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 59601,
-      "num": 59601,
-      "word": "美国加征关税的回旋镖正中谁的眉心",
-      "onboard_time": 1744057453,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 51753,
       "num": 64998,
       "word": "中国为什么能全球第一个反制对等关税",
@@ -467,19 +467,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47475,
+      "num": 38533,
+      "word": "美国网友说副总统万斯愚不可及",
+      "onboard_time": 1744048576,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46352,
       "num": 46352,
       "word": "美官员称关税将导致美国商品价格下降",
       "onboard_time": 1744053795,
       "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 45771,
-      "num": 31057,
-      "word": "美国网友说副总统万斯愚不可及",
-      "onboard_time": 1744048576,
-      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -497,6 +497,14 @@
       "onboard_time": 1744046476,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40058,
+      "num": 40058,
+      "word": "谍报上不封顶 谭卓",
+      "onboard_time": 1744061774,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 39119,
@@ -539,6 +547,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30895,
+      "num": 30895,
+      "word": "纽约股市开盘前特朗普让美国人坚强",
+      "onboard_time": 1744064416,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 30465,
+      "num": 45684,
+      "word": "特朗普重申美联储应该降息",
+      "onboard_time": 1744061354,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27579,
       "num": 27579,
       "word": "马布里汪妤凌",
@@ -563,20 +587,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25164,
+      "num": 25164,
+      "word": "景区回应美人鱼泡在绿水里表演",
+      "onboard_time": 1744056254,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24561,
       "num": 24561,
       "word": "张峻豪也有演唱会戒断反应",
       "onboard_time": 1744050674,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23447,
-      "num": 23447,
-      "word": "景区回应美人鱼泡在绿水里表演",
-      "onboard_time": 1744056254,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22989,
@@ -603,28 +627,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 13531,
-      "num": 15946,
-      "word": "谍报上不封顶 谭卓",
-      "onboard_time": 1744061774,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 12674,
       "num": 1147552,
       "word": "集中精力办好自己的事",
       "onboard_time": 1743942741,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10665,
-      "num": 45684,
-      "word": "特朗普重申美联储应该降息",
-      "onboard_time": 1744061354,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 4873,
