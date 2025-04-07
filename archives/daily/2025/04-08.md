@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/08 00:29:44 ~ 2025/04/08 03:36:25
+本榜单时间：2025/04/08 00:29:44 ~ 2025/04/08 04:27:44
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ Daniel新家（热度：61864）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E5%85%B3%E7%A8%8E%E5%B0%86%E5%AF%BC%E8%87%B4%E7%BE%8E%E5%9B%BD%E5%95%86%E5%93%81%E4%BB%B7%E6%A0%BC%E4%B8%8B%E9%99%8D%23" target="weibo">
+美官员称关税将导致美国商品价格下降（热度：44572）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%B3%E6%8C%87%E8%B7%8C%E7%A0%B415000%E7%82%B9%23" target="weibo">
 纳指跌破15000点（热度：43352）
 </a>
@@ -429,14 +435,26 @@ Daniel新家（热度：61864）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E7%B2%BE%E5%8A%9B%E4%BA%BA%E7%BE%A4%23" target="weibo">
+低精力人群（热度：19517）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E4%BA%BA%E9%B1%BC%E6%B3%A1%E5%9C%A8%E7%BB%BF%E6%B0%B4%E9%87%8C%E8%A1%A8%E6%BC%94%23" target="weibo">
+景区回应美人鱼泡在绿水里表演（热度：17104）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%86%E4%B8%AD%E7%B2%BE%E5%8A%9B%E5%8A%9E%E5%A5%BD%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%8B%23" target="weibo">
 集中精力办好自己的事（热度：12674）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E5%85%B3%E7%A8%8E%E5%B0%86%E5%AF%BC%E8%87%B4%E7%BE%8E%E5%9B%BD%E5%95%86%E5%93%81%E4%BB%B7%E6%A0%BC%E4%B8%8B%E9%99%8D%23" target="weibo">
-美官员称关税将导致美国商品价格下降（热度：12538）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E7%9A%84%E5%9B%9E%E6%97%8B%E9%95%96%E6%AD%A3%E4%B8%AD%E8%B0%81%E7%9A%84%E7%9C%89%E5%BF%83%23" target="weibo">
+美国加征关税的回旋镖正中谁的眉心（热度：10949）
 </a>
 </li>
 
