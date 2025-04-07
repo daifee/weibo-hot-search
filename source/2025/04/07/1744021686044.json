@@ -1,0 +1,410 @@
+{
+  "runTime": 1744021686044,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1613264,
+        "num": 1613264,
+        "word": "甲亢哥 槟榔",
+        "onboard_time": 1744019783,
+        "rank": 0,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 1293769,
+        "num": 1293769,
+        "word": "一家三口被撞身亡案死者亲属盼严惩",
+        "onboard_time": 1744017684,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21861,
+        "num": 1152729,
+        "word": "集中精力办好自己的事",
+        "onboard_time": 1743942741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1036279,
+        "num": 1036279,
+        "word": "特朗普请美国人挺住",
+        "onboard_time": 1744019123,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 610358,
+        "num": 610358,
+        "word": "张若昀唐艺昕雪地找婚戒",
+        "onboard_time": 1744012822,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1334047,
+        "num": 564837,
+        "word": "周立人被判死刑",
+        "onboard_time": 1744014863,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653500,
+        "num": 539826,
+        "word": "日本约4.2万具遗体无人认领",
+        "onboard_time": 1744016602,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 507008,
+        "num": 507008,
+        "word": "六代机",
+        "onboard_time": 1744019725,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 464486,
+        "num": 464486,
+        "word": "甲亢哥微博直播",
+        "onboard_time": 1744018282,
+        "rank": 8,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 226058,
+        "num": 450254,
+        "word": "刘满仓被开除党籍",
+        "onboard_time": 1744019002,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1992657,
+        "num": 436729,
+        "word": "全球股市巨震",
+        "onboard_time": 1743989420,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1387897,
+        "num": 414980,
+        "word": "特朗普放话打到贸易逆差清零为止",
+        "onboard_time": 1744017082,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 744129,
+        "num": 397464,
+        "word": "双胞胎姐妹佩佩惠惠相继离世",
+        "onboard_time": 1744018703,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540731,
+        "num": 382503,
+        "word": "鞠婧祎LV黑色长裙",
+        "onboard_time": 1744019062,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 367238,
+        "num": 367238,
+        "word": "金店老板说靠黄金涨价市场死路一条",
+        "onboard_time": 1744019182,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 345025,
+        "num": 345025,
+        "word": "代入管乐我真的会哭出来",
+        "onboard_time": 1744017082,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303574,
+        "num": 303574,
+        "word": "买飞机票最便宜的三个时间段",
+        "onboard_time": 1744018402,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 303000,
+        "num": 303000,
+        "word": "歌手TANK心肝移植手术成功",
+        "onboard_time": 1744010063,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68588,
+        "num": 293399,
+        "word": "电影大风杀聚焦禁枪前夕",
+        "onboard_time": 1744020504,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286516,
+        "num": 286516,
+        "word": "优时颜 张康乐马柏全",
+        "onboard_time": 1744020983,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 412298,
+        "num": 271946,
+        "word": "医生劝大家自己爽才是天下第一",
+        "onboard_time": 1744017082,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243132,
+        "num": 243132,
+        "word": "美股暴跌后钱都去了哪里",
+        "onboard_time": 1744016664,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242157,
+        "num": 242157,
+        "word": "小米集团股价跌超19%",
+        "onboard_time": 1744016123,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 238049,
+        "num": 238049,
+        "word": "姐姐姐夫地下恋多年合谋作案",
+        "onboard_time": 1744014802,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60899,
+        "num": 218994,
+        "word": "王楚钦说跌宕起伏让我成熟",
+        "onboard_time": 1744019602,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212802,
+        "num": 212802,
+        "word": "小米汽车时隔5天发博",
+        "onboard_time": 1744019783,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212594,
+        "num": 212594,
+        "word": "王者荣耀",
+        "onboard_time": 1744018763,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209327,
+        "num": 209327,
+        "word": "EXO周边",
+        "onboard_time": 1744015823,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208354,
+        "num": 208354,
+        "word": "锤娜丽莎因为重度脂肪肝减肥",
+        "onboard_time": 1744002623,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85391,
+        "num": 202619,
+        "word": "250年银杏树因长过马蜂窝被村民砍秃",
+        "onboard_time": 1744020504,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200921,
+        "num": 200921,
+        "word": "dota牛蛙离世",
+        "onboard_time": 1744020383,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227707,
+        "num": 197892,
+        "word": "湘潭大学宿舍投毒案一审宣判",
+        "onboard_time": 1744013243,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 188759,
+        "num": 188759,
+        "word": "一部手机看懂美国加关税的代价",
+        "onboard_time": 1744014742,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181401,
+        "num": 181401,
+        "word": "淮水竹亭",
+        "onboard_time": 1744011803,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179735,
+        "num": 179735,
+        "word": "美股期货暴跌特朗普却在赚钱",
+        "onboard_time": 1744020443,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169877,
+        "num": 169877,
+        "word": "鹿晗宝石老舅缺席五哈5",
+        "onboard_time": 1744020802,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158419,
+        "num": 158419,
+        "word": "赖清德跪了岛内网友怒了",
+        "onboard_time": 1744006102,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149720,
+        "num": 149720,
+        "word": "孟子义百花杀第二套路透",
+        "onboard_time": 1744019363,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144848,
+        "num": 144848,
+        "word": "徐正溪叶祖新孔雪儿特邀主演",
+        "onboard_time": 1744019602,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11503,
+        "num": 138874,
+        "word": "为啥给甲亢哥吃这么辣",
+        "onboard_time": 1744021283,
+        "rank": 39,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 138412,
+        "num": 138412,
+        "word": "理发店称李美越翻译造成负面影响",
+        "onboard_time": 1744019243,
+        "rank": 40,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 133724,
+        "num": 133724,
+        "word": "李现打鸟作品与张大千画作神似",
+        "onboard_time": 1744003163,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132037,
+        "num": 132037,
+        "word": "王俊凯工作室辟谣",
+        "onboard_time": 1744019662,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129553,
+        "num": 129553,
+        "word": "亚太集体救市",
+        "onboard_time": 1744015943,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 250618,
+        "num": 128523,
+        "word": "天塌不下来",
+        "onboard_time": 1744012164,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126303,
+        "num": 126303,
+        "word": "凯尔希",
+        "onboard_time": 1744019062,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122250,
+        "num": 122250,
+        "word": "坏了 我没看过柯南",
+        "onboard_time": 1744021343,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119383,
+        "num": 119383,
+        "word": "中央汇金",
+        "onboard_time": 1744011382,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115648,
+        "num": 115648,
+        "word": "射雕英雄传侠之大者网播定档周五",
+        "onboard_time": 1744019363,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114890,
+        "num": 114890,
+        "word": "全红婵用上王楚钦最新表情包",
+        "onboard_time": 1744017863,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在春风里树木也是树人#"
+    }
+  }
+}
