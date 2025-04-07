@@ -1,6 +1,6 @@
 {
   "startTime": 1743956845609,
-  "endTime": 1744037022452,
+  "endTime": 1744039598273,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -9,6 +9,14 @@
       "onboard_time": 1743989420,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2982394,
+      "num": 2982394,
+      "word": "芒果 尴尬",
+      "onboard_time": 1744035384,
+      "rank": 33,
+      "category": "网红,作品衍生"
     },
     {
       "raw_hot": 2689460,
@@ -67,12 +75,12 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 1733176,
-      "num": 1733176,
-      "word": "芒果 尴尬",
-      "onboard_time": 1744035384,
-      "rank": 33,
-      "category": "网红,作品衍生"
+      "raw_hot": 1742771,
+      "num": 1742771,
+      "word": "特朗普说他不是故意的",
+      "onboard_time": 1744037545,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1573029,
@@ -392,6 +400,14 @@
       "word": "双胞胎姐妹佩佩惠惠相继离世",
       "onboard_time": 1744018703,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 733396,
+      "num": 733396,
+      "word": "发现男友已婚女子报警后被送精神病院",
+      "onboard_time": 1744036225,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1027,12 +1043,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321101,
+      "num": 321101,
+      "word": "白宫称关税暂停90天是假消息",
+      "onboard_time": 1744038144,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 320529,
       "num": 320529,
       "word": "邓萃雯说有的大女主戏似乎在骗人",
       "onboard_time": 1744006462,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318631,
+      "num": 318631,
+      "word": "沈梦辰给甲亢哥发歌手邀请卡",
+      "onboard_time": 1744037545,
+      "rank": 9,
+      "category": "综艺,网红"
     },
     {
       "raw_hot": 313166,
@@ -1073,14 +1105,6 @@
       "onboard_time": 1743996443,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 304106,
-      "num": 404297,
-      "word": "发现男友已婚女子报警后被送精神病院",
-      "onboard_time": 1744036225,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 303177,
@@ -1259,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260406,
+      "num": 281928,
+      "word": "邓超我都有点嗑你俩了",
+      "onboard_time": 1744033284,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258364,
       "num": 258364,
       "word": "TheShy赛后道歉",
@@ -1377,6 +1409,14 @@
       "onboard_time": 1743947182,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237386,
+      "num": 237386,
+      "word": "关税",
+      "onboard_time": 1744036646,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 235159,
@@ -1515,6 +1555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 219590,
+      "num": 407539,
+      "word": "长沙93层高楼让甲亢哥感叹三次",
+      "onboard_time": 1744036465,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218369,
       "num": 218369,
       "word": "尚公主",
@@ -1625,6 +1673,14 @@
       "onboard_time": 1744007903,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 208727,
+      "num": 208727,
+      "word": "美联储",
+      "onboard_time": 1744038385,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 208362,
@@ -1745,14 +1801,6 @@
       "onboard_time": 1743994644,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197257,
-      "num": 197257,
-      "word": "邓超我都有点嗑你俩了",
-      "onboard_time": 1744033284,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 196919,
@@ -1907,14 +1955,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 185774,
-      "num": 185774,
-      "word": "关税",
-      "onboard_time": 1744036646,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 185582,
       "num": 185582,
       "word": "火箭vs勇士",
@@ -1929,6 +1969,22 @@
       "onboard_time": 1744002623,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185101,
+      "num": 185101,
+      "word": "留几手说他和黄圣依情绪最稳定",
+      "onboard_time": 1744039102,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184825,
+      "num": 184825,
+      "word": "95年小伙考研8战北大终上岸",
+      "onboard_time": 1744037005,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184571,
@@ -2307,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159969,
+      "num": 159969,
+      "word": "Daniel新家",
+      "onboard_time": 1744038924,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159733,
       "num": 159733,
       "word": "徐明浩对就这么宣传我",
@@ -2361,6 +2425,14 @@
       "onboard_time": 1743992422,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156585,
+      "num": 156585,
+      "word": "美股三大股指转涨",
+      "onboard_time": 1744038564,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 156214,
@@ -2491,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148460,
+      "num": 148460,
+      "word": "生命树",
+      "onboard_time": 1744037125,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147564,
       "num": 147564,
       "word": "李马克solo",
@@ -2513,6 +2593,14 @@
       "onboard_time": 1744004003,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145695,
+      "num": 145695,
+      "word": "当地回应女子报警后被强制送精神病院",
+      "onboard_time": 1744038864,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145360,
@@ -2545,6 +2633,14 @@
       "onboard_time": 1744022722,
       "rank": 35,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 142190,
+      "num": 142190,
+      "word": "苹果3天向美国运了5架飞机的产品",
+      "onboard_time": 1744037484,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142184,
@@ -2651,14 +2747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135978,
-      "num": 135978,
-      "word": "95年小伙考研8战北大终上岸",
-      "onboard_time": 1744037005,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135942,
       "num": 135942,
       "word": "特朗普表示美国没有通货膨胀",
@@ -2691,6 +2779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133347,
+      "num": 133347,
+      "word": "尚公主制片人微博取关孟子义李昀锐",
+      "onboard_time": 1744037904,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132037,
       "num": 132037,
       "word": "王俊凯工作室辟谣",
@@ -2713,6 +2809,14 @@
       "onboard_time": 1744035325,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131307,
+      "num": 131307,
+      "word": "中国男子在泰国一沙滩被发现死亡",
+      "onboard_time": 1744039403,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130396,
@@ -2787,6 +2891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125120,
+      "num": 125120,
+      "word": "偶遇文俊辉黄冠亨钟辰乐吃烧烤",
+      "onboard_time": 1744039464,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123852,
       "num": 123852,
       "word": "谭松韵杀青照",
@@ -2809,6 +2921,14 @@
       "onboard_time": 1744005263,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122374,
+      "num": 122374,
+      "word": "罗晋一句话让孙俪紧急否认",
+      "onboard_time": 1744037185,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 121872,
@@ -3496,14 +3616,6 @@
       "word": "女子汇8万要帮联合国网恋男友",
       "onboard_time": 1744024222,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33810,
-      "num": 407539,
-      "word": "长沙93层高楼让甲亢哥感叹三次",
-      "onboard_time": 1744036465,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
