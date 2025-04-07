@@ -1,6 +1,6 @@
 {
   "startTime": 1743956845609,
-  "endTime": 1744032853036,
+  "endTime": 1744033528457,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -27,8 +27,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2254264,
-      "num": 2254264,
+      "raw_hot": 2373379,
+      "num": 2373379,
       "word": "主播直播擦边卖枕头2小时场观30万",
       "onboard_time": 1744029863,
       "rank": 31,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 733167,
+      "num": 733167,
+      "word": "奥巴马吐槽特朗普第二任期政策",
+      "onboard_time": 1744031124,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 731455,
       "num": 731455,
       "word": "甲亢哥长沙",
@@ -425,6 +433,14 @@
       "onboard_time": 1743973093,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 580288,
+      "num": 336840,
+      "word": "芒果台",
+      "onboard_time": 1744032264,
+      "rank": 32,
+      "category": "网红,作品衍生"
     },
     {
       "raw_hot": 562047,
@@ -604,7 +620,7 @@
     },
     {
       "raw_hot": 447409,
-      "num": 348018,
+      "num": 415381,
       "word": "马布里官宣结婚",
       "onboard_time": 1744029383,
       "rank": 24,
@@ -675,6 +691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 406485,
+      "num": 336644,
+      "word": "粉丝机场疯狂追星险发生踩踏",
+      "onboard_time": 1744031483,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 403539,
       "num": 403539,
       "word": "股市",
@@ -713,14 +737,6 @@
       "onboard_time": 1744003103,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 395913,
-      "num": 395913,
-      "word": "奥巴马吐槽特朗普第二任期政策",
-      "onboard_time": 1744031124,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 392662,
@@ -899,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336594,
+      "num": 336594,
+      "word": "美股",
+      "onboard_time": 1744033344,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 330121,
       "num": 353863,
       "word": "王心凌穿走了莫奈的花园",
@@ -1035,20 +1059,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289144,
+      "num": 289144,
+      "word": "长沙文旅",
+      "onboard_time": 1744031483,
+      "rank": 24,
+      "category": "网红,旅游"
+    },
+    {
       "raw_hot": 285028,
       "num": 299527,
       "word": "鹿晗宝石老舅缺席五哈5",
       "onboard_time": 1744020802,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279349,
-      "num": 279349,
-      "word": "粉丝机场疯狂追星险发生踩踏",
-      "onboard_time": 1744031483,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 279260,
@@ -1081,14 +1105,6 @@
       "onboard_time": 1744030824,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 272253,
-      "num": 272253,
-      "word": "长沙文旅",
-      "onboard_time": 1744031483,
-      "rank": 24,
-      "category": "网红,旅游"
     },
     {
       "raw_hot": 271085,
@@ -1531,12 +1547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207029,
+      "num": 198743,
+      "word": "A50",
+      "onboard_time": 1744030464,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 206958,
       "num": 206958,
       "word": "港股",
       "onboard_time": 1743990200,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 206213,
+      "num": 206213,
+      "word": "雁回时庆功宴",
+      "onboard_time": 1744031424,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 204813,
@@ -1587,22 +1619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 199465,
-      "num": 199465,
-      "word": "雁回时庆功宴",
-      "onboard_time": 1744031424,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 198743,
-      "num": 198743,
-      "word": "A50",
-      "onboard_time": 1744030464,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 198720,
       "num": 275209,
       "word": "徐明浩音综导师当上瘾了",
@@ -1625,14 +1641,6 @@
       "onboard_time": 1743994644,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197917,
-      "num": 197917,
-      "word": "芒果台",
-      "onboard_time": 1744032264,
-      "rank": 32,
-      "category": "网红,作品衍生"
     },
     {
       "raw_hot": 196919,
@@ -1723,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188474,
+      "num": 188474,
+      "word": "瘦下来后对颜值有4个提升",
+      "onboard_time": 1744023743,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 188045,
       "num": 337326,
       "word": "人民网评不说话的爱",
@@ -1739,20 +1755,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187696,
-      "num": 187696,
-      "word": "瘦下来后对颜值有4个提升",
-      "onboard_time": 1744023743,
-      "rank": 41,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 187256,
       "num": 270099,
       "word": "王俊凯方辟谣夜店传闻",
       "onboard_time": 1744015523,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186412,
+      "num": 186412,
+      "word": "男孩持续高热因骨盆里藏进一块布",
+      "onboard_time": 1744032983,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186364,
@@ -1843,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182015,
+      "num": 352025,
+      "word": "直播间擦边卖枕头4天销售额超100万",
+      "onboard_time": 1744032324,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180991,
       "num": 193826,
       "word": "吃饭跑步和恋爱",
@@ -1856,6 +1880,14 @@
       "word": "周柯宇晒徐若晗合照",
       "onboard_time": 1744004242,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180653,
+      "num": 180653,
+      "word": "被王玉雯婚纱跑硬控20秒",
+      "onboard_time": 1744032503,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1913,14 +1945,6 @@
       "onboard_time": 1744016482,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 178015,
-      "num": 178015,
-      "word": "被王玉雯婚纱跑硬控20秒",
-      "onboard_time": 1744032503,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 177381,
@@ -2131,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160275,
+      "num": 160275,
+      "word": "守望先锋",
+      "onboard_time": 1744032204,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159995,
       "num": 159995,
       "word": "苏新皓维权进展",
@@ -2201,14 +2233,6 @@
       "onboard_time": 1744031843,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155049,
-      "num": 155049,
-      "word": "守望先锋",
-      "onboard_time": 1744032204,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 154670,
@@ -2491,6 +2515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133298,
+      "num": 133298,
+      "word": "邓超我都有点嗑你俩了",
+      "onboard_time": 1744033284,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132037,
       "num": 132037,
       "word": "王俊凯工作室辟谣",
@@ -2643,14 +2675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118493,
-      "num": 352025,
-      "word": "直播间擦边卖枕头4天销售额超100万",
-      "onboard_time": 1744032324,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116264,
       "num": 293604,
       "word": "商户门头牌匾禁用红黑蓝三色",
@@ -2673,6 +2697,14 @@
       "onboard_time": 1744019363,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 113075,
+      "num": 195184,
+      "word": "同曦男篮vs新疆男篮",
+      "onboard_time": 1744032804,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 110063,
@@ -2939,6 +2971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80559,
+      "num": 131383,
+      "word": "部分银行调整提前还贷政策",
+      "onboard_time": 1744031424,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 78457,
       "num": 291261,
       "word": "邓萃雯谈如何度过人生垃圾时间",
@@ -2993,14 +3033,6 @@
       "onboard_time": 1744002203,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 72637,
-      "num": 159274,
-      "word": "同曦男篮vs新疆男篮",
-      "onboard_time": 1744032804,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 71892,
@@ -3449,6 +3481,14 @@
       "onboard_time": 1743995603,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 5605,
+      "num": 140617,
+      "word": "甲亢哥保镖这表情笑死我了",
+      "onboard_time": 1744033463,
+      "rank": 43,
+      "category": "网红,民生新闻"
     }
   ],
   "hotgov_list": [
