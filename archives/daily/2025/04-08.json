@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744043384100,
+  "endTime": 1744044373794,
   "band_list": [
     {
       "raw_hot": 2281087,
@@ -11,8 +11,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1673870,
-      "num": 1673870,
+      "raw_hot": 1900996,
+      "num": 1900996,
       "word": "美副总统称中国人乡巴佬被批",
       "onboard_time": 1744041682,
       "rank": 0,
@@ -59,6 +59,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 451210,
+      "num": 343536,
+      "word": "屋里超哥直播",
+      "onboard_time": 1744041742,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 437436,
       "num": 362215,
       "word": "胡歌 内娱第一个吃大螃蟹的艺人",
@@ -83,14 +91,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 343536,
-      "num": 343536,
-      "word": "屋里超哥直播",
-      "onboard_time": 1744041742,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 308409,
       "num": 308409,
       "word": "美联储",
@@ -113,6 +113,14 @@
       "onboard_time": 1744037545,
       "rank": 9,
       "category": "综艺,网红"
+    },
+    {
+      "raw_hot": 220915,
+      "num": 220915,
+      "word": "大张伟甲亢哥共进晚餐",
+      "onboard_time": 1744042281,
+      "rank": 17,
+      "category": "网红,艺人"
     },
     {
       "raw_hot": 207983,
@@ -155,14 +163,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 162740,
-      "num": 191647,
-      "word": "大张伟甲亢哥共进晚餐",
-      "onboard_time": 1744042281,
-      "rank": 17,
-      "category": "网红,艺人"
-    },
-    {
       "raw_hot": 161079,
       "num": 189547,
       "word": "男孩持续高热因骨盆里藏进一块布",
@@ -203,6 +203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136150,
+      "num": 179849,
+      "word": "谁能想到一个家具城是4A景区",
+      "onboard_time": 1744043000,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135884,
       "num": 135884,
       "word": "值得爱",
@@ -227,20 +235,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 124286,
+      "num": 124286,
+      "word": "赵露思樱花look",
+      "onboard_time": 1744040603,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123922,
+      "num": 102094,
+      "word": "邓超十条微博示爱警告正在路上",
+      "onboard_time": 1744043302,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121239,
       "num": 121239,
       "word": "芒果台",
       "onboard_time": 1744032264,
       "rank": 30,
       "category": "网红,作品衍生"
-    },
-    {
-      "raw_hot": 115080,
-      "num": 115080,
-      "word": "赵露思樱花look",
-      "onboard_time": 1744040603,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 114775,
@@ -347,14 +363,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 89917,
-      "num": 89917,
-      "word": "邓超十条微博示爱警告正在路上",
-      "onboard_time": 1744043302,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84299,
       "num": 75153,
       "word": "孙俪敲罗",
@@ -387,12 +395,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69367,
-      "num": 179849,
-      "word": "谁能想到一个家具城是4A景区",
-      "onboard_time": 1744043000,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 61864,
+      "num": 61864,
+      "word": "Daniel新家",
+      "onboard_time": 1744038924,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 59911,
+      "num": 59911,
+      "word": "中国诚通增持中国股票资产",
+      "onboard_time": 1744041201,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 52110,
+      "num": 97874,
+      "word": "抗议者举企鹅反对加征关税标语",
+      "onboard_time": 1744044258,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 43352,
+      "num": 115508,
+      "word": "纳指跌破15000点",
+      "onboard_time": 1744040542,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 12674,

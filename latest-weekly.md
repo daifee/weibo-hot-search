@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/06 00:27:55 ~ 2025/04/08 00:29:44
+本榜单时间：2025/04/06 00:27:55 ~ 2025/04/08 00:46:13
 </p>
 </blockquote>
 <p>
@@ -69,6 +69,12 @@ A股（热度：2689460）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%89%AF%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B9%A1%E5%B7%B4%E4%BD%AC%E8%A2%AB%E6%89%B9%23" target="weibo">
+美副总统称中国人乡巴佬被批（热度：1900996）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E5%B7%A5%E8%B5%84%E4%B8%8D%E8%83%BD%E4%BD%8E%E4%BA%8E%E8%BF%99%E4%B8%AA%E6%95%B0%E5%AD%97%23" target="weibo">
 你的工资不能低于这个数字（热度：1856109）
 </a>
@@ -89,12 +95,6 @@ A股（热度：2689460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%20%E6%A7%9F%E6%A6%94%23" target="weibo">
 甲亢哥 槟榔（热度：1754018）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%89%AF%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B9%A1%E5%B7%B4%E4%BD%AC%E8%A2%AB%E6%89%B9%23" target="weibo">
-美副总统称中国人乡巴佬被批（热度：1673870）
 </a>
 </li>
 
@@ -957,6 +957,12 @@ Bin（热度：521478）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%8B%E9%87%8C%E8%B6%85%E5%93%A5%E7%9B%B4%E6%92%AD%23" target="weibo">
+屋里超哥直播（热度：451210）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B8%83%E9%87%8C%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A%23" target="weibo">
 马布里官宣结婚（热度：447409）
 </a>
@@ -1283,12 +1289,6 @@ IU三提百想视后（热度：380483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%85%A5%E7%AE%A1%E4%B9%90%E6%88%91%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%93%AD%E5%87%BA%E6%9D%A5%23" target="weibo">
 代入管乐我真的会哭出来（热度：345025）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%8B%E9%87%8C%E8%B6%85%E5%93%A5%E7%9B%B4%E6%92%AD%23" target="weibo">
-屋里超哥直播（热度：343536）
 </a>
 </li>
 
@@ -1991,6 +1991,12 @@ A股三大指数触底回升（热度：226566）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E8%8A%B9%E8%8F%9C%23" target="weibo">
 十个勤天芹菜（热度：221273）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%94%B2%E4%BA%A2%E5%93%A5%E5%85%B1%E8%BF%9B%E6%99%9A%E9%A4%90%23" target="weibo">
+大张伟甲亢哥共进晚餐（热度：220915）
 </a>
 </li>
 
@@ -3009,12 +3015,6 @@ vava发博向杨超越道歉（热度：167758）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%94%B2%E4%BA%A2%E5%93%A5%E5%85%B1%E8%BF%9B%E6%99%9A%E9%A4%90%23" target="weibo">
-大张伟甲亢哥共进晚餐（热度：162740）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%81%E5%9B%9E%E6%97%B6%E7%83%AD%E5%BA%A6%23" target="weibo">
 雁回时热度（热度：162580）
 </a>
@@ -3555,6 +3555,12 @@ T1对战GEN（热度：138878）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%83%BD%E6%83%B3%E5%88%B0%E4%B8%80%E4%B8%AA%E5%AE%B6%E5%85%B7%E5%9F%8E%E6%98%AF4A%E6%99%AF%E5%8C%BA%23" target="weibo">
+谁能想到一个家具城是4A景区（热度：136150）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA%E7%BE%8E%E5%9B%BD%E6%B2%A1%E6%9C%89%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80%23" target="weibo">
 特朗普表示美国没有通货膨胀（热度：135942）
 </a>
@@ -3813,6 +3819,12 @@ KissofLife就直播争议道歉（热度：129755）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%A8%B1%E8%8A%B1look%23" target="weibo">
+赵露思樱花look（热度：124286）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%94%A8%E5%90%B8%E7%AE%A1%E5%96%9D%E6%B0%B4%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%81%A5%E5%BA%B7%23" target="weibo">
 长期用吸管喝水会影响健康（热度：124187）
 </a>
@@ -3827,6 +3839,12 @@ KissofLife就直播争议道歉（热度：129755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%93%88%E4%B8%96%E4%B9%92%E8%B5%9B%23" target="weibo">
 多哈世乒赛（热度：123977）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%8D%81%E6%9D%A1%E5%BE%AE%E5%8D%9A%E7%A4%BA%E7%88%B1%E8%AD%A6%E5%91%8A%E6%AD%A3%E5%9C%A8%E8%B7%AF%E4%B8%8A%23" target="weibo">
+邓超十条微博示爱警告正在路上（热度：123922）
 </a>
 </li>
 
@@ -4055,12 +4073,6 @@ seventeen在墨西哥吃火锅（热度：116014）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%99%8B%E4%B8%80%E4%B8%AA%E7%AC%91%E5%AE%B9%E8%84%91%E8%A1%A5%E5%87%BA%E4%B8%80%E7%AF%87be%E6%96%87%23" target="weibo">
 罗晋一个笑容脑补出一篇be文（热度：115126）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%A8%B1%E8%8A%B1look%23" target="weibo">
-赵露思樱花look（热度：115080）
 </a>
 </li>
 
@@ -4443,12 +4455,6 @@ JDG剧本杀全员老实人（热度：101258）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%8D%81%E6%9D%A1%E5%BE%AE%E5%8D%9A%E7%A4%BA%E7%88%B1%E8%AD%A6%E5%91%8A%E6%AD%A3%E5%9C%A8%E8%B7%AF%E4%B8%8A%23" target="weibo">
-邓超十条微博示爱警告正在路上（热度：89917）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%88%E4%BD%9C%23" target="weibo">
 大张伟回应与甲亢哥合作（热度：89828）
 </a>
@@ -4683,12 +4689,6 @@ u17国足vs乌兹别克斯坦u17（热度：74179）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%83%BD%E6%83%B3%E5%88%B0%E4%B8%80%E4%B8%AA%E5%AE%B6%E5%85%B7%E5%9F%8E%E6%98%AF4A%E6%99%AF%E5%8C%BA%23" target="weibo">
-谁能想到一个家具城是4A景区（热度：69367）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E5%88%B0%E5%BA%95%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%E8%AE%B8%E4%BA%86%E4%BB%80%E4%B9%88%E6%84%BF%23" target="weibo">
 陈奕迅到底在舞台上许了什么愿（热度：69197）
 </a>
@@ -4815,6 +4815,12 @@ Hyunjun公开（热度：66718）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AF%9A%E9%80%9A%E5%A2%9E%E6%8C%81%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%A5%A8%E8%B5%84%E4%BA%A7%23" target="weibo">
+中国诚通增持中国股票资产（热度：59911）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E4%B8%8D%E8%AF%B4%E8%AF%9D%E7%9A%84%E7%88%B1%E8%A7%82%E5%90%8E%E6%84%9F%23" target="weibo">
 陈乔恩不说话的爱观后感（热度：59401）
 </a>
@@ -4865,6 +4871,12 @@ Bin塞恩（热度：54169）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%AD%A9%E4%B8%BA%E6%AF%8D%E4%BA%B2%E8%B4%AD%E4%B9%B0AI%E5%A4%8D%E6%B4%BB%E5%A4%96%E5%85%AC%23" target="weibo">
 00后女孩为母亲购买AI复活外公（热度：53927）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E8%AE%AE%E8%80%85%E4%B8%BE%E4%BC%81%E9%B9%85%E5%8F%8D%E5%AF%B9%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E6%A0%87%E8%AF%AD%23" target="weibo">
+抗议者举企鹅反对加征关税标语（热度：52110）
 </a>
 </li>
 
@@ -4931,6 +4943,12 @@ Bin塞恩（热度：54169）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%BA%E8%BF%AA%E6%88%98%E8%83%9C%E9%99%88%E5%B9%B8%E5%90%8C%E5%A4%BA%E5%86%A0%23" target="weibo">
 王艺迪战胜陈幸同夺冠（热度：43439）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%B3%E6%8C%87%E8%B7%8C%E7%A0%B415000%E7%82%B9%23" target="weibo">
+纳指跌破15000点（热度：43352）
 </a>
 </li>
 

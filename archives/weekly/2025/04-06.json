@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744043384100,
+  "endTime": 1744044373794,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -75,6 +75,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1900996,
+      "num": 1900996,
+      "word": "美副总统称中国人乡巴佬被批",
+      "onboard_time": 1744041682,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1856109,
       "num": 1856109,
       "word": "你的工资不能低于这个数字",
@@ -105,14 +113,6 @@
       "onboard_time": 1744019783,
       "rank": 0,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 1673870,
-      "num": 1673870,
-      "word": "美副总统称中国人乡巴佬被批",
-      "onboard_time": 1744041682,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1641221,
@@ -1259,6 +1259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 451210,
+      "num": 343536,
+      "word": "屋里超哥直播",
+      "onboard_time": 1744041742,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 447409,
       "num": 415381,
       "word": "马布里官宣结婚",
@@ -1697,14 +1705,6 @@
       "onboard_time": 1744017082,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343536,
-      "num": 343536,
-      "word": "屋里超哥直播",
-      "onboard_time": 1744041742,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 343142,
@@ -2641,6 +2641,14 @@
       "onboard_time": 1744008803,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220915,
+      "num": 220915,
+      "word": "大张伟甲亢哥共进晚餐",
+      "onboard_time": 1744042281,
+      "rank": 17,
+      "category": "网红,艺人"
     },
     {
       "raw_hot": 220528,
@@ -3995,14 +4003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162740,
-      "num": 191647,
-      "word": "大张伟甲亢哥共进晚餐",
-      "onboard_time": 1744042281,
-      "rank": 17,
-      "category": "网红,艺人"
-    },
-    {
       "raw_hot": 162580,
       "num": 162580,
       "word": "雁回时热度",
@@ -4723,6 +4723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136150,
+      "num": 179849,
+      "word": "谁能想到一个家具城是4A景区",
+      "onboard_time": 1744043000,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135942,
       "num": 135942,
       "word": "特朗普表示美国没有通货膨胀",
@@ -5067,6 +5075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124286,
+      "num": 124286,
+      "word": "赵露思樱花look",
+      "onboard_time": 1744040603,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124187,
       "num": 124187,
       "word": "长期用吸管喝水会影响健康",
@@ -5089,6 +5105,14 @@
       "onboard_time": 1743921620,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123922,
+      "num": 102094,
+      "word": "邓超十条微博示爱警告正在路上",
+      "onboard_time": 1744043302,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 123852,
@@ -5393,14 +5417,6 @@
       "onboard_time": 1743948444,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115080,
-      "num": 115080,
-      "word": "赵露思樱花look",
-      "onboard_time": 1744040603,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 114829,
@@ -5907,14 +5923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89917,
-      "num": 89917,
-      "word": "邓超十条微博示爱警告正在路上",
-      "onboard_time": 1744043302,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 89828,
       "num": 168520,
       "word": "大张伟回应与甲亢哥合作",
@@ -6227,14 +6235,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 69367,
-      "num": 179849,
-      "word": "谁能想到一个家具城是4A景区",
-      "onboard_time": 1744043000,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69197,
       "num": 69197,
       "word": "陈奕迅到底在舞台上许了什么愿",
@@ -6403,6 +6403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59911,
+      "num": 59911,
+      "word": "中国诚通增持中国股票资产",
+      "onboard_time": 1744041201,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 59401,
       "num": 220537,
       "word": "陈乔恩不说话的爱观后感",
@@ -6473,6 +6481,14 @@
       "onboard_time": 1743943223,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52110,
+      "num": 97874,
+      "word": "抗议者举企鹅反对加征关税标语",
+      "onboard_time": 1744044258,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50772,
@@ -6561,6 +6577,14 @@
       "onboard_time": 1743938661,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43352,
+      "num": 115508,
+      "word": "纳指跌破15000点",
+      "onboard_time": 1744040542,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 43218,
