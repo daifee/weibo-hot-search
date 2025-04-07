@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744057664443,
+  "endTime": 1744058417836,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -6547,6 +6547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46352,
+      "num": 46352,
+      "word": "美官员称关税将导致美国商品价格下降",
+      "onboard_time": 1744053795,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45771,
       "num": 31057,
       "word": "美国网友说副总统万斯愚不可及",
@@ -6585,14 +6593,6 @@
       "onboard_time": 1744026083,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 44572,
-      "num": 44572,
-      "word": "美官员称关税将导致美国商品价格下降",
-      "onboard_time": 1744053795,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 44396,
@@ -6915,6 +6915,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 23447,
+      "num": 23447,
+      "word": "景区回应美人鱼泡在绿水里表演",
+      "onboard_time": 1744056254,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23245,
       "num": 158296,
       "word": "丈夫回应阿根廷奇娜去世",
@@ -6945,6 +6953,14 @@
       "onboard_time": 1744051935,
       "rank": 9,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 20868,
+      "num": 37168,
+      "word": "全球资本流向或发生调整",
+      "onboard_time": 1744057934,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 19831,
@@ -7025,14 +7041,6 @@
       "onboard_time": 1743886754,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 17104,
-      "num": 18619,
-      "word": "景区回应美人鱼泡在绿水里表演",
-      "onboard_time": 1744056254,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16838,
