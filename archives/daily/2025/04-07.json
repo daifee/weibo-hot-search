@@ -1,6 +1,6 @@
 {
   "startTime": 1743956845609,
-  "endTime": 1744021686044,
+  "endTime": 1744022681761,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -35,8 +35,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1613264,
-      "num": 1613264,
+      "raw_hot": 1754018,
+      "num": 1754018,
       "word": "甲亢哥 槟榔",
       "onboard_time": 1744019783,
       "rank": 0,
@@ -75,8 +75,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1293769,
-      "num": 1293769,
+      "raw_hot": 1344206,
+      "num": 1344206,
       "word": "一家三口被撞身亡案死者亲属盼严惩",
       "onboard_time": 1744017684,
       "rank": 23,
@@ -123,20 +123,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1114509,
+      "num": 1036279,
+      "word": "特朗普请美国人挺住",
+      "onboard_time": 1744019123,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1053405,
       "num": 980246,
       "word": "锤娜丽莎因为重度脂肪肝减肥",
       "onboard_time": 1744002623,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1036279,
-      "num": 1036279,
-      "word": "特朗普请美国人挺住",
-      "onboard_time": 1744019123,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1027076,
@@ -169,6 +169,14 @@
       "onboard_time": 1744012822,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 930296,
+      "num": 930296,
+      "word": "金店老板说靠黄金涨价市场死路一条",
+      "onboard_time": 1744019182,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 930020,
@@ -643,14 +651,6 @@
       "category": "网红,艺人"
     },
     {
-      "raw_hot": 367238,
-      "num": 367238,
-      "word": "金店老板说靠黄金涨价市场死路一条",
-      "onboard_time": 1744019182,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 365602,
       "num": 365602,
       "word": "美国有人开始囤货了",
@@ -721,6 +721,14 @@
       "onboard_time": 1744001484,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340289,
+      "num": 340289,
+      "word": "买飞机票最便宜的三个时间段",
+      "onboard_time": 1744018402,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 339385,
@@ -795,20 +803,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 303574,
-      "num": 303574,
-      "word": "买飞机票最便宜的三个时间段",
-      "onboard_time": 1744018402,
-      "rank": 41,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 303177,
       "num": 303177,
       "word": "中国台湾证交所触发熔断",
       "onboard_time": 1743992602,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 300530,
+      "num": 286516,
+      "word": "优时颜 张康乐马柏全",
+      "onboard_time": 1744020983,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 299044,
@@ -851,12 +859,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 286516,
-      "num": 286516,
-      "word": "优时颜 张康乐马柏全",
-      "onboard_time": 1744020983,
-      "rank": 19,
-      "category": "作品衍生"
+      "raw_hot": 284631,
+      "num": 284631,
+      "word": "李刚被双开",
+      "onboard_time": 1744021763,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 279260,
@@ -881,6 +889,14 @@
       "onboard_time": 1744003403,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 271862,
+      "num": 271862,
+      "word": "白鹿模仿苦尽柑来金宣虎笑",
+      "onboard_time": 1744022483,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 271085,
@@ -1067,6 +1083,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 229833,
+      "num": 229833,
+      "word": "提前还房贷变难了",
+      "onboard_time": 1744022003,
+      "rank": 22,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 229234,
       "num": 307962,
       "word": "王俊凯方将取证追责",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1744019002,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224554,
+      "num": 234018,
+      "word": "甲亢哥唱阳光彩虹小白马",
+      "onboard_time": 1744022122,
+      "rank": 19,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 223334,
@@ -1155,6 +1187,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217995,
+      "num": 217995,
+      "word": "小米汽车时隔5天发博",
+      "onboard_time": 1744019783,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 217742,
+      "num": 217742,
+      "word": "鹿晗宝石老舅缺席五哈5",
+      "onboard_time": 1744020802,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216031,
       "num": 216031,
       "word": "大侦探古装本",
@@ -1185,14 +1233,6 @@
       "onboard_time": 1743987019,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 212802,
-      "num": 212802,
-      "word": "小米汽车时隔5天发博",
-      "onboard_time": 1744019783,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 212594,
@@ -1651,14 +1691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169877,
-      "num": 169877,
-      "word": "鹿晗宝石老舅缺席五哈5",
-      "onboard_time": 1744020802,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169663,
       "num": 169663,
       "word": "广州15岁男孩在家做实验引爆炸烧伤",
@@ -1811,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153899,
+      "num": 153899,
+      "word": "坏了 我没看过柯南",
+      "onboard_time": 1744021343,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153622,
       "num": 153622,
       "word": "半熟4群像",
@@ -1849,6 +1889,14 @@
       "onboard_time": 1743947663,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 150022,
+      "num": 150022,
+      "word": "赵露思告黑新名单",
+      "onboard_time": 1744021763,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 149720,
@@ -1897,6 +1945,14 @@
       "onboard_time": 1744004003,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145314,
+      "num": 145314,
+      "word": "戚薇谁把我的牛奶换了红酒",
+      "onboard_time": 1744021823,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144848,
@@ -1963,6 +2019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139215,
+      "num": 139215,
+      "word": "张艺兴说帅的角色也可以找我",
+      "onboard_time": 1744022363,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139028,
       "num": 139028,
       "word": "朱开谈Meiko状态",
@@ -1993,6 +2057,14 @@
       "onboard_time": 1744019243,
       "rank": 40,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 137307,
+      "num": 137307,
+      "word": "吃饭跑步和恋爱",
+      "onboard_time": 1744022363,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 137158,
@@ -2083,6 +2155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125532,
+      "num": 125532,
+      "word": "狗狗上厕所回来发现位置被占了",
+      "onboard_time": 1744021704,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125131,
       "num": 160209,
       "word": "沪指低开4.46%",
@@ -2107,12 +2187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122250,
-      "num": 122250,
-      "word": "坏了 我没看过柯南",
-      "onboard_time": 1744021343,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 121872,
+      "num": 121872,
+      "word": "袁泉探班黄澜",
+      "onboard_time": 1744022302,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121654,
@@ -2155,12 +2235,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108564,
+      "num": 108564,
+      "word": "近视的不要老在家里戴眼镜",
+      "onboard_time": 1744022183,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108489,
       "num": 108489,
       "word": "白桃星座",
       "onboard_time": 1743950963,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108331,
+      "num": 108331,
+      "word": "乌云之上第11集案中案中案",
+      "onboard_time": 1744021882,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 104958,
