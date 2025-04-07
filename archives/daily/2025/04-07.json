@@ -1,6 +1,6 @@
 {
   "startTime": 1743956845609,
-  "endTime": 1744022681761,
+  "endTime": 1744024876985,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -17,6 +17,14 @@
       "onboard_time": 1743982099,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2623060,
+      "num": 2623060,
+      "word": "李刚被双开",
+      "onboard_time": 1744021763,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1984619,
@@ -64,6 +72,14 @@
       "word": "特朗普放话打到贸易逆差清零为止",
       "onboard_time": 1744017082,
       "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1372637,
+      "num": 1036279,
+      "word": "特朗普请美国人挺住",
+      "onboard_time": 1744019123,
+      "rank": 3,
       "category": "国际时政"
     },
     {
@@ -123,12 +139,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1114509,
-      "num": 1036279,
-      "word": "特朗普请美国人挺住",
-      "onboard_time": 1744019123,
-      "rank": 3,
-      "category": "国际时政"
+      "raw_hot": 1063349,
+      "num": 307673,
+      "word": "白鹿模仿苦尽柑来金宣虎笑",
+      "onboard_time": 1744022483,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1053405,
@@ -395,6 +411,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 539521,
+      "num": 539521,
+      "word": "买飞机票最便宜的三个时间段",
+      "onboard_time": 1744018402,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 525057,
       "num": 525057,
       "word": "奥巴马首次抨击特朗普第二任期政策",
@@ -553,6 +577,14 @@
       "onboard_time": 1744017082,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 409935,
+      "num": 409935,
+      "word": "提前还房贷变难了",
+      "onboard_time": 1744022003,
+      "rank": 22,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 403539,
@@ -723,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 340289,
-      "num": 340289,
-      "word": "买飞机票最便宜的三个时间段",
-      "onboard_time": 1744018402,
-      "rank": 41,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 339385,
       "num": 339385,
       "word": "金秀贤防治法超5万人同意将提审议",
@@ -785,6 +809,14 @@
       "onboard_time": 1743994822,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309962,
+      "num": 309962,
+      "word": "甲亢哥唱阳光彩虹小白马",
+      "onboard_time": 1744022122,
+      "rank": 19,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 307477,
@@ -851,6 +883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 290726,
+      "num": 290726,
+      "word": "马斯克公开挖苦特朗普顾问",
+      "onboard_time": 1744023443,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 289535,
       "num": 289535,
       "word": "杨柳",
@@ -859,12 +899,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 284631,
-      "num": 284631,
-      "word": "李刚被双开",
-      "onboard_time": 1744021763,
-      "rank": 15,
-      "category": "国内时政"
+      "raw_hot": 285028,
+      "num": 299527,
+      "word": "鹿晗宝石老舅缺席五哈5",
+      "onboard_time": 1744020802,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 279260,
@@ -889,14 +929,6 @@
       "onboard_time": 1744003403,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 271862,
-      "num": 271862,
-      "word": "白鹿模仿苦尽柑来金宣虎笑",
-      "onboard_time": 1744022483,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 271085,
@@ -929,6 +961,14 @@
       "onboard_time": 1744003761,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266209,
+      "num": 266209,
+      "word": "小米汽车时隔5天发博",
+      "onboard_time": 1744019783,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 265453,
@@ -1083,20 +1123,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 229833,
-      "num": 229833,
-      "word": "提前还房贷变难了",
-      "onboard_time": 1744022003,
-      "rank": 22,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 229234,
       "num": 307962,
       "word": "王俊凯方将取证追责",
       "onboard_time": 1744014863,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229110,
+      "num": 177113,
+      "word": "淮水竹亭定档",
+      "onboard_time": 1744024762,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 228883,
@@ -1129,14 +1169,6 @@
       "onboard_time": 1744019002,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224554,
-      "num": 234018,
-      "word": "甲亢哥唱阳光彩虹小白马",
-      "onboard_time": 1744022122,
-      "rank": 19,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 223334,
@@ -1187,22 +1219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217995,
-      "num": 217995,
-      "word": "小米汽车时隔5天发博",
-      "onboard_time": 1744019783,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 217742,
-      "num": 217742,
-      "word": "鹿晗宝石老舅缺席五哈5",
-      "onboard_time": 1744020802,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216031,
       "num": 216031,
       "word": "大侦探古装本",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1744007422,
       "rank": 39,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 214188,
+      "num": 175781,
+      "word": "国产游戏鸣潮道歉",
+      "onboard_time": 1744023743,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 214009,
@@ -1281,6 +1305,14 @@
       "onboard_time": 1743983300,
       "rank": 30,
       "category": "健康医疗,美妆"
+    },
+    {
+      "raw_hot": 210651,
+      "num": 210651,
+      "word": "野狗骨头阵容",
+      "onboard_time": 1744024043,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 209787,
@@ -1587,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180991,
+      "num": 180991,
+      "word": "吃饭跑步和恋爱",
+      "onboard_time": 1744022363,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180873,
       "num": 180873,
       "word": "周柯宇晒徐若晗合照",
@@ -1715,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167998,
+      "num": 210564,
+      "word": "美股大跌损失惨重马斯克也忍不住了",
+      "onboard_time": 1744024403,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167814,
       "num": 330982,
       "word": "沪指跌超7%失守3100点",
@@ -1745,6 +1793,14 @@
       "onboard_time": 1743949462,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165513,
+      "num": 165513,
+      "word": "戚薇谁把我的牛奶换了红酒",
+      "onboard_time": 1744021823,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 165431,
@@ -1947,12 +2003,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145314,
-      "num": 145314,
-      "word": "戚薇谁把我的牛奶换了红酒",
-      "onboard_time": 1744021823,
-      "rank": 37,
-      "category": "作品衍生"
+      "raw_hot": 145330,
+      "num": 145330,
+      "word": "金价跌到我心满意足再入手",
+      "onboard_time": 1744024643,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 144848,
@@ -1993,6 +2049,14 @@
       "onboard_time": 1744007482,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140273,
+      "num": 140273,
+      "word": "鸣潮",
+      "onboard_time": 1744024582,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 140269,
@@ -2059,12 +2123,12 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 137307,
-      "num": 137307,
-      "word": "吃饭跑步和恋爱",
-      "onboard_time": 1744022363,
+      "raw_hot": 137456,
+      "num": 137456,
+      "word": "瘦下来后对颜值有4个提升",
+      "onboard_time": 1744023743,
       "rank": 41,
-      "category": "剧集"
+      "category": "运动健身"
     },
     {
       "raw_hot": 137158,
@@ -2089,6 +2153,14 @@
       "onboard_time": 1743950723,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 134397,
+      "num": 134397,
+      "word": "A股市场成交量大幅放大",
+      "onboard_time": 1744023683,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 132037,
@@ -2411,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85485,
+      "num": 295412,
+      "word": "张艺兴回应演技进化",
+      "onboard_time": 1744024102,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 85391,
       "num": 202619,
       "word": "250年银杏树因长过马蜂窝被村民砍秃",
@@ -2481,6 +2561,14 @@
       "onboard_time": 1743951622,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 79642,
+      "num": 293604,
+      "word": "商户门头牌匾禁用红黑蓝三色",
+      "onboard_time": 1744023382,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78457,
@@ -2609,6 +2697,14 @@
       "onboard_time": 1744018823,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 64530,
+      "num": 179649,
+      "word": "甲亢哥吃辣条被辣出表情包",
+      "onboard_time": 1744023623,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64421,
@@ -2841,6 +2937,14 @@
       "onboard_time": 1743980597,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17110,
+      "num": 178553,
+      "word": "女子汇8万要帮联合国网恋男友",
+      "onboard_time": 1744024222,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16838,
