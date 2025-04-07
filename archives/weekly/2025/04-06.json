@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744040473681,
+  "endTime": 1744043384100,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -51,7 +51,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2164350,
+      "raw_hot": 2281087,
       "num": 2164350,
       "word": "特朗普说他不是故意的",
       "onboard_time": 1744037545,
@@ -105,6 +105,14 @@
       "onboard_time": 1744019783,
       "rank": 0,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 1673870,
+      "num": 1673870,
+      "word": "美副总统称中国人乡巴佬被批",
+      "onboard_time": 1744041682,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1641221,
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1134350,
+      "num": 1134350,
+      "word": "关税",
+      "onboard_time": 1744036646,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1125116,
       "num": 861448,
       "word": "女子突发不适驾车失控致1死3伤",
@@ -427,6 +443,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 959306,
+      "num": 569054,
+      "word": "特朗普",
+      "onboard_time": 1744034305,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 948201,
       "num": 857664,
       "word": "朱正廷因频繁戴隐形得了干眼症",
@@ -441,14 +465,6 @@
       "onboard_time": 1743927201,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 940029,
-      "num": 569054,
-      "word": "特朗普",
-      "onboard_time": 1744034305,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 933468,
@@ -1635,6 +1651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 355877,
+      "num": 355877,
+      "word": "中国男子在泰国一沙滩被发现死亡",
+      "onboard_time": 1744039403,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350333,
       "num": 350333,
       "word": "男子路遇雪豹尸体疑遭车辆撞击",
@@ -1673,6 +1697,14 @@
       "onboard_time": 1744017082,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343536,
+      "num": 343536,
+      "word": "屋里超哥直播",
+      "onboard_time": 1744041742,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 343142,
@@ -1844,7 +1876,7 @@
     },
     {
       "raw_hot": 318631,
-      "num": 318631,
+      "num": 371642,
       "word": "沈梦辰给甲亢哥发歌手邀请卡",
       "onboard_time": 1744037545,
       "rank": 9,
@@ -1873,6 +1905,14 @@
       "onboard_time": 1744022122,
       "rank": 19,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 308409,
+      "num": 308409,
+      "word": "美联储",
+      "onboard_time": 1744038385,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 307477,
@@ -1921,6 +1961,14 @@
       "onboard_time": 1743993624,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298100,
+      "num": 383398,
+      "word": "湖南上千名公职人员卷入非法集资案",
+      "onboard_time": 1744030583,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296309,
@@ -1985,14 +2033,6 @@
       "onboard_time": 1744011683,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 288732,
-      "num": 288732,
-      "word": "关税",
-      "onboard_time": 1744036646,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 286283,
@@ -2147,14 +2187,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 265795,
-      "num": 359023,
-      "word": "湖南上千名公职人员卷入非法集资案",
-      "onboard_time": 1744030583,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 265767,
       "num": 265767,
       "word": "男子扫墓时刮彩票中万元大奖",
@@ -2257,14 +2289,6 @@
       "onboard_time": 1743864623,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 256185,
-      "num": 256185,
-      "word": "美联储",
-      "onboard_time": 1744038385,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 255974,
@@ -2979,14 +3003,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 199873,
-      "num": 199873,
-      "word": "中国男子在泰国一沙滩被发现死亡",
-      "onboard_time": 1744039403,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198720,
       "num": 275209,
       "word": "徐明浩音综导师当上瘾了",
@@ -3683,6 +3699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174964,
+      "num": 174964,
+      "word": "欧盟计划对美征收两部分关税",
+      "onboard_time": 1744040841,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174363,
       "num": 289112,
       "word": "加沙人手机录下生命最后一刻的枪声",
@@ -3827,6 +3851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167949,
+      "num": 167949,
+      "word": "学会表达情绪而不是情绪化地表达",
+      "onboard_time": 1744042461,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167814,
       "num": 330982,
       "word": "沪指跌超7%失守3100点",
@@ -3961,6 +3993,14 @@
       "onboard_time": 1743917061,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162740,
+      "num": 191647,
+      "word": "大张伟甲亢哥共进晚餐",
+      "onboard_time": 1744042281,
+      "rank": 17,
+      "category": "网红,艺人"
     },
     {
       "raw_hot": 162580,
@@ -4691,6 +4731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135884,
+      "num": 135884,
+      "word": "值得爱",
+      "onboard_time": 1744042461,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135302,
       "num": 135302,
       "word": "张佳宁演员的含金量还在上升",
@@ -5347,6 +5395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115080,
+      "num": 115080,
+      "word": "赵露思樱花look",
+      "onboard_time": 1744040603,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 114829,
       "num": 200131,
       "word": "贾一凡vlog更新",
@@ -5811,6 +5867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 92242,
+      "num": 263070,
+      "word": "欧盟准备好与美国就关税进行谈判",
+      "onboard_time": 1744039942,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92008,
       "num": 192802,
       "word": "风衣的正确穿法",
@@ -5841,6 +5905,14 @@
       "onboard_time": 1743954440,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89917,
+      "num": 89917,
+      "word": "邓超十条微博示爱警告正在路上",
+      "onboard_time": 1744043302,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 89828,
@@ -5953,6 +6025,14 @@
       "onboard_time": 1743953961,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84299,
+      "num": 75153,
+      "word": "孙俪敲罗",
+      "onboard_time": 1744042521,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 84208,
@@ -6147,6 +6227,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 69367,
+      "num": 179849,
+      "word": "谁能想到一个家具城是4A景区",
+      "onboard_time": 1744043000,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69197,
       "num": 69197,
       "word": "陈奕迅到底在舞台上许了什么愿",
@@ -6249,14 +6337,6 @@
       "onboard_time": 1743981438,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62972,
-      "num": 263070,
-      "word": "欧盟准备好与美国就关税进行谈判",
-      "onboard_time": 1744039942,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 62822,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/07 23:41:13
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/08 00:29:44
 </p>
 </blockquote>
 <p>
@@ -153,6 +153,12 @@ A股（热度：2689460）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%96%E4%B8%8D%E6%98%AF%E6%95%85%E6%84%8F%E7%9A%84%23" target="weibo">
+特朗普说他不是故意的（热度：2281087）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%87%B46%E6%AD%BB1%E4%BC%A4%23" target="weibo">
 重庆一交通事故致6死1伤（热度：2259616）
 </a>
@@ -173,12 +179,6 @@ A股（热度：2689460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E6%BC%94%E8%A2%AB%E7%BB%91%E6%9E%B6%23" target="weibo">
 王星演被绑架（热度：2199665）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%96%E4%B8%8D%E6%98%AF%E6%95%85%E6%84%8F%E7%9A%84%23" target="weibo">
-特朗普说他不是故意的（热度：2164350）
 </a>
 </li>
 
@@ -371,6 +371,12 @@ A股（热度：2689460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%9D%A8%E7%8E%8F%E5%B7%B2%E5%88%86%E6%89%8B%23" target="weibo">
 曝王玉雯杨玏已分手（热度：1685128）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%89%AF%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B9%A1%E5%B7%B4%E4%BD%AC%E8%A2%AB%E6%89%B9%23" target="weibo">
+美副总统称中国人乡巴佬被批（热度：1673870）
 </a>
 </li>
 
@@ -1137,6 +1143,12 @@ vava发博向杨超越道歉（热度：968479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
+特朗普（热度：959306）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2340%E5%B2%81%E7%8E%8B%E5%86%95%E9%80%80%E5%9C%88%E5%A4%87%E5%AD%95%E9%81%87%E8%83%8E%E5%81%9C%23" target="weibo">
 40岁王冕退圈备孕遇胎停（热度：957342）
 </a>
@@ -1181,12 +1193,6 @@ vava发博向杨超越道歉（热度：968479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9E%E4%B9%A0%E5%B9%BC%E5%B8%88%E6%8A%93%E4%BC%A46%E5%B2%81%E5%B9%BC%E5%84%BF%E8%84%B8%E8%B5%94%E5%81%BF4%E4%B8%87%E5%85%83%23" target="weibo">
 实习幼师抓伤6岁幼儿脸赔偿4万元（热度：940881）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
-特朗普（热度：940029）
 </a>
 </li>
 
@@ -3981,6 +3987,12 @@ Wendy泡泡发长文（热度：369749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B3%B0%E5%9B%BD%E4%B8%80%E6%B2%99%E6%BB%A9%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%AD%BB%E4%BA%A1%23" target="weibo">
+中国男子在泰国一沙滩被发现死亡（热度：355877）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%20%E5%A6%88%E5%A6%88%E7%9A%84%E4%BF%9D%E9%95%96%E6%9D%A5%E5%95%A6%23" target="weibo">
 陈都灵 妈妈的保镖来啦（热度：354641）
 </a>
@@ -4127,6 +4139,12 @@ Wendy泡泡发长文（热度：369749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%96%E5%AD%90%E6%B4%97%E4%B8%8D%E5%B9%B2%E5%87%80%E6%88%96%E6%98%AF%E8%BA%AB%E4%BD%93%E5%8F%91%E5%87%BA%E5%8D%B1%E9%99%A9%E4%BF%A1%E5%8F%B7%23" target="weibo">
 脖子洗不干净或是身体发出危险信号（热度：344162）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%8B%E9%87%8C%E8%B6%85%E5%93%A5%E7%9B%B4%E6%92%AD%23" target="weibo">
+屋里超哥直播（热度：343536）
 </a>
 </li>
 
@@ -4557,6 +4575,12 @@ jayjay呢（热度：316182）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%23" target="weibo">
+美联储（热度：308409）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E8%80%81%E5%A9%86%E6%98%AF%E4%BB%96%E5%89%8D%E5%8A%A9%E7%90%86%23" target="weibo">
 胡歌老婆是他前助理（热度：308097）
 </a>
@@ -4679,6 +4703,12 @@ jayjay呢（热度：316182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NewJeans%E7%88%B6%E6%AF%8D%E5%87%BA%E7%8E%B0%E5%88%86%E6%AD%A7%23" target="weibo">
 NewJeans父母出现分歧（热度：300220）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%8A%E5%8D%83%E5%90%8D%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%8D%B7%E5%85%A5%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%84%E6%A1%88%23" target="weibo">
+湖南上千名公职人员卷入非法集资案（热度：298100）
 </a>
 </li>
 
@@ -5193,12 +5223,6 @@ EXO周边（热度：269976）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%8A%E5%8D%83%E5%90%8D%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%8D%B7%E5%85%A5%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%84%E6%A1%88%23" target="weibo">
-湖南上千名公职人员卷入非法集资案（热度：265795）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%AB%E5%A2%93%E6%97%B6%E5%88%AE%E5%BD%A9%E7%A5%A8%E4%B8%AD%E4%B8%87%E5%85%83%E5%A4%A7%E5%A5%96%23" target="weibo">
 男子扫墓时刮彩票中万元大奖（热度：265767）
 </a>
@@ -5369,12 +5393,6 @@ TheShy赛后道歉（热度：258364）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E1%E5%A4%A9%23" target="weibo">
 假期最后1天（热度：256329）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%23" target="weibo">
-美联储（热度：256185）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ PH试纸碰他一下就变黑了 太碱了（热度：225960）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%A8%8E%E5%88%B6%E5%AE%9A%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD%23" target="weibo">
 多国对美国关税制定反制措施（热度：225447）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23EXO%E5%91%A8%E5%B9%B4%E7%9B%B4%E6%92%AD%E6%B2%A1%E9%80%9A%E7%9F%A5cbx%23" target="weibo">
-EXO周年直播没通知cbx（热度：225340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%84%E5%AE%B6%E7%AB%99%E5%A7%90%E6%8B%8D%E7%9A%84%E5%BC%A0%E5%87%8C%E8%B5%AB%23" target="weibo">
-各家站姐拍的张凌赫（热度：224951）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B5%A0%E5%A6%BB%E5%AD%90%E9%97%BA%E8%9C%9C7%E4%B8%87%E8%A2%AB%E5%88%A4%E5%85%A8%E9%A2%9D%E8%BF%94%E8%BF%98%E5%8A%A0%E5%88%A9%E6%81%AF%23" target="weibo">
-男子赠妻子闺蜜7万被判全额返还加利息（热度：224926）
 </a>
 </li>
 
