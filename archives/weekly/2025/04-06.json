@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744033528457,
+  "endTime": 1744035883267,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -99,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1573029,
+      "num": 371531,
+      "word": "芒果台",
+      "onboard_time": 1744032264,
+      "rank": 32,
+      "category": "网红,作品衍生"
+    },
+    {
       "raw_hot": 1516843,
       "num": 1516843,
       "word": "熔断",
@@ -193,6 +201,22 @@
       "onboard_time": 1743919101,
       "rank": 10,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 1289960,
+      "num": 1289960,
+      "word": "大张伟甲亢哥同框",
+      "onboard_time": 1744034065,
+      "rank": 1,
+      "category": "网红,艺人"
+    },
+    {
+      "raw_hot": 1259744,
+      "num": 397625,
+      "word": "胡歌 内娱第一个吃大螃蟹的艺人",
+      "onboard_time": 1744026802,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1241708,
@@ -321,6 +345,14 @@
       "onboard_time": 1743995304,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1003324,
+      "num": 362862,
+      "word": "美股",
+      "onboard_time": 1744033344,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 997360,
@@ -585,6 +617,14 @@
       "onboard_time": 1743997882,
       "rank": 30,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 767126,
+      "num": 357620,
+      "word": "粉丝机场疯狂追星险发生踩踏",
+      "onboard_time": 1744031483,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 754877,
@@ -859,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 580288,
-      "num": 336840,
-      "word": "芒果台",
-      "onboard_time": 1744032264,
-      "rank": 32,
-      "category": "网红,作品衍生"
-    },
-    {
       "raw_hot": 569240,
       "num": 569240,
       "word": "青岛文旅局回应孤独的树成网红景点",
@@ -1043,12 +1075,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 494803,
-      "num": 397625,
-      "word": "胡歌 内娱第一个吃大螃蟹的艺人",
-      "onboard_time": 1744026802,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 496270,
+      "num": 344599,
+      "word": "长沙文旅",
+      "onboard_time": 1744031483,
+      "rank": 24,
+      "category": "网红,旅游"
     },
     {
       "raw_hot": 494130,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1743996624,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 453197,
+      "num": 419978,
+      "word": "赵丽颖第十套gh高定",
+      "onboard_time": 1744034485,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 447409,
@@ -1235,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 421409,
+      "num": 421409,
+      "word": "马斯克似乎与特朗普划清界限",
+      "onboard_time": 1744034904,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 420939,
       "num": 420939,
       "word": "微信居然还有这么多好用功能",
@@ -1291,14 +1339,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 406485,
-      "num": 336644,
-      "word": "粉丝机场疯狂追星险发生踩踏",
-      "onboard_time": 1744031483,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 403539,
       "num": 403539,
       "word": "股市",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1743925461,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 401041,
+      "num": 401041,
+      "word": "男孩持续高热因骨盆里藏进一块布",
+      "onboard_time": 1744032983,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 400052,
@@ -1643,14 +1691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 336594,
-      "num": 336594,
-      "word": "美股",
-      "onboard_time": 1744033344,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 335430,
       "num": 335430,
       "word": "SM查理呢",
@@ -1875,14 +1915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289144,
-      "num": 289144,
-      "word": "长沙文旅",
-      "onboard_time": 1744031483,
-      "rank": 24,
-      "category": "网红,旅游"
-    },
-    {
       "raw_hot": 286283,
       "num": 286283,
       "word": "BLG对战IG",
@@ -1979,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270781,
+      "num": 270781,
+      "word": "特朗普",
+      "onboard_time": 1744034305,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 270392,
       "num": 261204,
       "word": "晚睡晚起但睡够8小时还伤身吗",
@@ -2057,6 +2097,14 @@
       "onboard_time": 1743942561,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263855,
+      "num": 360852,
+      "word": "美股两天跌没了德国加韩国GDP",
+      "onboard_time": 1744034185,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 260424,
@@ -2283,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234788,
+      "num": 234788,
+      "word": "肖战谍报上不封顶上海置景",
+      "onboard_time": 1744035744,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233277,
       "num": 368856,
       "word": "五哈5没有老舅",
@@ -2435,6 +2491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223888,
+      "num": 223888,
+      "word": "金价跌超30元有人拉着行李箱扫货",
+      "onboard_time": 1744035566,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 223334,
       "num": 223334,
       "word": "民房起火父亲跳窗逃生15岁男孩身亡",
@@ -2473,6 +2537,14 @@
       "onboard_time": 1744008803,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220528,
+      "num": 220528,
+      "word": "A50",
+      "onboard_time": 1744030464,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 220264,
@@ -2553,6 +2625,14 @@
       "onboard_time": 1743870439,
       "rank": 43,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 215128,
+      "num": 215128,
+      "word": "芒果 尴尬",
+      "onboard_time": 1744035384,
+      "rank": 33,
+      "category": "网红,作品衍生"
     },
     {
       "raw_hot": 214904,
@@ -2707,14 +2787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207029,
-      "num": 198743,
-      "word": "A50",
-      "onboard_time": 1744030464,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 206958,
       "num": 206958,
       "word": "港股",
@@ -2761,6 +2833,22 @@
       "onboard_time": 1744013664,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202994,
+      "num": 202994,
+      "word": "纳斯达克",
+      "onboard_time": 1744035325,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 201971,
+      "num": 201971,
+      "word": "瘦下来后对颜值有4个提升",
+      "onboard_time": 1744023743,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 201378,
@@ -2840,6 +2928,14 @@
       "word": "闫桉杀青",
       "onboard_time": 1743937342,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197257,
+      "num": 197257,
+      "word": "邓超我都有点嗑你俩了",
+      "onboard_time": 1744033284,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -3059,14 +3155,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 188474,
-      "num": 188474,
-      "word": "瘦下来后对颜值有4个提升",
-      "onboard_time": 1744023743,
-      "rank": 41,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 188112,
       "num": 188112,
       "word": "终于又吃上了青春剧细糠",
@@ -3129,14 +3217,6 @@
       "onboard_time": 1743953061,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186412,
-      "num": 186412,
-      "word": "男孩持续高热因骨盆里藏进一块布",
-      "onboard_time": 1744032983,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186364,
@@ -3449,6 +3529,14 @@
       "onboard_time": 1743916821,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177617,
+      "num": 177617,
+      "word": "永夜星河海外物料",
+      "onboard_time": 1744034605,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 177381,
@@ -3939,6 +4027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156081,
+      "num": 156081,
+      "word": "星巴克无糖新时代",
+      "onboard_time": 1744035566,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 156027,
       "num": 156027,
       "word": "黄景瑜黄明昊林一3A景区",
@@ -4001,6 +4097,14 @@
       "onboard_time": 1744017983,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154055,
+      "num": 154055,
+      "word": "香港月租4000元5平米的家",
+      "onboard_time": 1744035024,
+      "rank": 46,
+      "category": "休闲"
     },
     {
       "raw_hot": 153899,
@@ -4419,6 +4523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135942,
+      "num": 135942,
+      "word": "特朗普表示美国没有通货膨胀",
+      "onboard_time": 1744032204,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135302,
       "num": 135302,
       "word": "张佳宁演员的含金量还在上升",
@@ -4483,14 +4595,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133298,
-      "num": 133298,
-      "word": "邓超我都有点嗑你俩了",
-      "onboard_time": 1744033284,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133065,
       "num": 133065,
       "word": "洪尧回应撕掉吴谨言老公标签",
@@ -4545,6 +4649,14 @@
       "onboard_time": 1744012043,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131747,
+      "num": 131747,
+      "word": "孟子义百花杀妆造水平",
+      "onboard_time": 1744035325,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 130861,
@@ -5467,6 +5579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96892,
+      "num": 163828,
+      "word": "中国为什么能全球第一个反制对等关税",
+      "onboard_time": 1744034605,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95504,
       "num": 95504,
       "word": "饿瘦和运动瘦差别",
@@ -5883,6 +6003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65867,
+      "num": 160858,
+      "word": "浙江男篮vs青岛男篮",
+      "onboard_time": 1744035865,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65734,
       "num": 170740,
       "word": "多家公司回应特朗普关税相关影响",
@@ -6185,6 +6313,14 @@
       "onboard_time": 1743880395,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40937,
+      "num": 349692,
+      "word": "宋妍霏马吟吟李嘉琦连麦",
+      "onboard_time": 1744035384,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 40778,
