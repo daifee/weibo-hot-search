@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744151026747,
+  "endTime": 1744152054727,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -3091,6 +3091,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 634246,
+      "num": 634246,
+      "word": "掘金解雇马龙",
+      "onboard_time": 1744140493,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 633645,
       "num": 624865,
       "word": "杜华晒与赵丽颖合照",
@@ -4913,14 +4921,6 @@
       "onboard_time": 1744003163,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 428956,
-      "num": 428956,
-      "word": "掘金解雇马龙",
-      "onboard_time": 1744140493,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 428149,
@@ -16315,6 +16315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144348,
+      "num": 144348,
+      "word": "离境退税即买即退今起全国推广",
+      "onboard_time": 1744136835,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 144299,
       "num": 144299,
       "word": "大张伟玩梗夹带私货",
@@ -17515,6 +17523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134083,
+      "num": 178531,
+      "word": "美国多地民众开始囤货",
+      "onboard_time": 1744139954,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134062,
       "num": 134062,
       "word": "东部战区位台岛周边联演",
@@ -18433,14 +18449,6 @@
       "onboard_time": 1743803833,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126168,
-      "num": 178531,
-      "word": "美国多地民众开始囤货",
-      "onboard_time": 1744139954,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 125980,
@@ -20851,14 +20859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101801,
-      "num": 101801,
-      "word": "离境退税即买即退今起全国推广",
-      "onboard_time": 1744136835,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 101693,
       "num": 113225,
       "word": "粉丝cos经纪人账号被陈哲远回复",
@@ -21193,6 +21193,14 @@
       "onboard_time": 1743752420,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97615,
+      "num": 97615,
+      "word": "旱厕边生产冒牌咖啡成本5元卖69",
+      "onboard_time": 1744141816,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97549,
@@ -22547,14 +22555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74328,
-      "num": 74328,
-      "word": "旱厕边生产冒牌咖啡成本5元卖69",
-      "onboard_time": 1744141816,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74320,
       "num": 329337,
       "word": "和赵丽颖一起舒适过夏天",
@@ -22905,6 +22905,14 @@
       "onboard_time": 1743895217,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 68194,
+      "num": 68194,
+      "word": "房东回应女子759万买的房是凶宅",
+      "onboard_time": 1744147394,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68056,
@@ -23987,6 +23995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49003,
+      "num": 49003,
+      "word": "美威胁进一步对华加征50%关税",
+      "onboard_time": 1744133597,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48861,
       "num": 78528,
       "word": "A50期指涨3%",
@@ -24105,14 +24121,6 @@
       "onboard_time": 1743867083,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46878,
-      "num": 39614,
-      "word": "房东回应女子759万买的房是凶宅",
-      "onboard_time": 1744147394,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46765,
@@ -24707,14 +24715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38077,
-      "num": 38077,
-      "word": "美威胁进一步对华加征50%关税",
-      "onboard_time": 1744133597,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37817,
       "num": 382943,
       "word": "杨幂持续3年探访孤独症康复中心",
@@ -24793,6 +24793,14 @@
       "onboard_time": 1744024222,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36579,
+      "num": 36579,
+      "word": "美国政府正严重伤害美国人民",
+      "onboard_time": 1744143914,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36564,
@@ -24971,14 +24979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33881,
-      "num": 33881,
-      "word": "美国政府正严重伤害美国人民",
-      "onboard_time": 1744143914,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33826,
       "num": 46545,
       "word": "缅甸地震致3645人死亡",
@@ -25123,6 +25123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 32133,
+      "num": 32133,
+      "word": "拜仁vs国际米兰",
+      "onboard_time": 1744138873,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31971,
       "num": 523163,
       "word": "龙马乘组天宫TV再上新",
@@ -25153,6 +25161,14 @@
       "onboard_time": 1743441077,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31579,
+      "num": 31579,
+      "word": "这个外国男人为何被称大胖媳妇",
+      "onboard_time": 1744143554,
+      "rank": 34,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 31560,
@@ -25411,12 +25427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28366,
-      "num": 28366,
-      "word": "拜仁vs国际米兰",
-      "onboard_time": 1744138873,
+      "raw_hot": 28373,
+      "num": 56339,
+      "word": "电视剧千秋令OST阵容",
+      "onboard_time": 1744144275,
       "rank": 29,
-      "category": "体育"
+      "category": "剧集"
     },
     {
       "raw_hot": 28244,
@@ -25499,6 +25515,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 26886,
+      "num": 30331,
+      "word": "林志玲为儿子做手工卡车",
+      "onboard_time": 1744151718,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26824,
       "num": 26824,
       "word": "susu福福",
@@ -25545,14 +25569,6 @@
       "onboard_time": 1743859223,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 26085,
-      "num": 26085,
-      "word": "这个外国男人为何被称大胖媳妇",
-      "onboard_time": 1744143554,
-      "rank": 34,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 26012,
@@ -25817,14 +25833,6 @@
       "onboard_time": 1744051935,
       "rank": 9,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 22763,
-      "num": 40682,
-      "word": "电视剧千秋令OST阵容",
-      "onboard_time": 1744144275,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 22589,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/06 00:27:55 ~ 2025/04/09 06:23:46
+本榜单时间：2025/04/06 00:27:55 ~ 2025/04/09 06:40:54
 </p>
 </blockquote>
 <p>
@@ -987,6 +987,12 @@ kissoflife一夜掉粉20万（热度：668428）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8E%98%E9%87%91%E8%A7%A3%E9%9B%87%E9%A9%AC%E9%BE%99%23" target="weibo">
+掘金解雇马龙（热度：634246）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E6%99%92%E4%B8%8E%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%90%88%E7%85%A7%23" target="weibo">
 杜华晒与赵丽颖合照（热度：633645）
 </a>
@@ -1475,12 +1481,6 @@ Hamin公开（热度：442270）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%89%93%E9%B8%9F%E4%BD%9C%E5%93%81%E4%B8%8E%E5%BC%A0%E5%A4%A7%E5%8D%83%E7%94%BB%E4%BD%9C%E7%A5%9E%E4%BC%BC%23" target="weibo">
 李现打鸟作品与张大千画作神似（热度：429146）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8E%98%E9%87%91%E8%A7%A3%E9%9B%87%E9%A9%AC%E9%BE%99%23" target="weibo">
-掘金解雇马龙（热度：428956）
 </a>
 </li>
 
@@ -5091,6 +5091,12 @@ AG司马光出道夜舞台（热度：151542）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%A2%83%E9%80%80%E7%A8%8E%E5%8D%B3%E4%B9%B0%E5%8D%B3%E9%80%80%E4%BB%8A%E8%B5%B7%E5%85%A8%E5%9B%BD%E6%8E%A8%E5%B9%BF%23" target="weibo">
+离境退税即买即退今起全国推广（热度：144348）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%9E%E5%BC%BA%E6%9C%89%E6%95%88%E5%BA%94%E5%AF%B9%E7%BE%8E%E5%85%B3%E7%A8%8E%E5%86%B2%E5%87%BB%E7%9A%84%E4%BF%A1%E5%BF%83%23" target="weibo">
 增强有效应对美关税冲击的信心（热度：144295）
 </a>
@@ -5421,6 +5427,12 @@ A股市场成交量大幅放大（热度：134397）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%B0%91%E4%BC%97%E5%BC%80%E5%A7%8B%E5%9B%A4%E8%B4%A7%23" target="weibo">
+美国多地民众开始囤货（热度：134083）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Bin%E6%94%BE%E8%AF%9DTheShy%23" target="weibo">
 Bin放话TheShy（热度：133800）
 </a>
@@ -5687,12 +5699,6 @@ KissofLife就直播争议道歉（热度：129755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%AF%E5%B0%94%E5%B8%8C%23" target="weibo">
 凯尔希（热度：126303）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%B0%91%E4%BC%97%E5%BC%80%E5%A7%8B%E5%9B%A4%E8%B4%A7%23" target="weibo">
-美国多地民众开始囤货（热度：126168）
 </a>
 </li>
 
@@ -6405,12 +6411,6 @@ GAI沧海一声笑大合唱程度（热度：102660）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%A2%83%E9%80%80%E7%A8%8E%E5%8D%B3%E4%B9%B0%E5%8D%B3%E9%80%80%E4%BB%8A%E8%B5%B7%E5%85%A8%E5%9B%BD%E6%8E%A8%E5%B9%BF%23" target="weibo">
-离境退税即买即退今起全国推广（热度：101801）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%88%96%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8F%91%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92%23" target="weibo">
 美国或向乌克兰发最后通牒（热度：101410）
 </a>
@@ -6485,6 +6485,12 @@ JDG剧本杀全员老实人（热度：101258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E7%82%B9%E5%90%8D%E5%BC%8F%E6%8C%BD%E7%95%99%E6%AD%8C%E8%BF%B7%23" target="weibo">
 张远点名式挽留歌迷（热度：98259）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B1%E5%8E%95%E8%BE%B9%E7%94%9F%E4%BA%A7%E5%86%92%E7%89%8C%E5%92%96%E5%95%A1%E6%88%90%E6%9C%AC5%E5%85%83%E5%8D%9669%23" target="weibo">
+旱厕边生产冒牌咖啡成本5元卖69（热度：97615）
 </a>
 </li>
 
@@ -6891,12 +6897,6 @@ JDG剧本杀全员老实人（热度：101258）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B1%E5%8E%95%E8%BE%B9%E7%94%9F%E4%BA%A7%E5%86%92%E7%89%8C%E5%92%96%E5%95%A1%E6%88%90%E6%9C%AC5%E5%85%83%E5%8D%9669%23" target="weibo">
-旱厕边生产冒牌咖啡成本5元卖69（热度：74328）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23u17%E5%9B%BD%E8%B6%B3vs%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6u17%23" target="weibo">
 u17国足vs乌兹别克斯坦u17（热度：74179）
 </a>
@@ -6989,6 +6989,12 @@ u17国足vs乌兹别克斯坦u17（热度：74179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Ning%E6%80%92%E5%96%B7Cat%23" target="weibo">
 Ning怒喷Cat（热度：68416）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90759%E4%B8%87%E4%B9%B0%E7%9A%84%E6%88%BF%E6%98%AF%E5%87%B6%E5%AE%85%23" target="weibo">
+房东回应女子759万买的房是凶宅（热度：68194）
 </a>
 </li>
 
@@ -7281,6 +7287,12 @@ Bin塞恩（热度：54169）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A8%81%E8%83%81%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%AF%B9%E5%8D%8E%E5%8A%A0%E5%BE%8150%25%E5%85%B3%E7%A8%8E%23" target="weibo">
+美威胁进一步对华加征50%关税（热度：49003）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23A50%E6%9C%9F%E6%8C%87%E6%B6%A83%25%23" target="weibo">
 A50期指涨3%（热度：48861）
 </a>
@@ -7301,12 +7313,6 @@ A50期指涨3%（热度：48861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%A5%B3%E6%98%8E%E6%98%9F%E7%BA%A2%E6%AF%AF%E7%BB%9F%E8%AE%A1%23" target="weibo">
 内娱女明星红毯统计（热度：47824）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90759%E4%B8%87%E4%B9%B0%E7%9A%84%E6%88%BF%E6%98%AF%E5%87%B6%E5%AE%85%23" target="weibo">
-房东回应女子759万买的房是凶宅（热度：46878）
 </a>
 </li>
 
@@ -7491,12 +7497,6 @@ A50期指涨3%（热度：48861）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A8%81%E8%83%81%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%AF%B9%E5%8D%8E%E5%8A%A0%E5%BE%8150%25%E5%85%B3%E7%A8%8E%23" target="weibo">
-美威胁进一步对华加征50%关税（热度：38077）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8C%E6%A0%B938%E5%B9%B4%E5%89%8D%E5%B0%B1%E8%AE%B2%E8%BF%87%E6%BB%A5%E6%96%BD%E5%85%B3%E7%A8%8E%E7%9A%84%E4%B8%8B%E5%9C%BA%23" target="weibo">
 里根38年前就讲过滥施关税的下场（热度：37695）
 </a>
@@ -7523,6 +7523,12 @@ AI修复抗战英雄的模样（热度：36727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B1%878%E4%B8%87%E8%A6%81%E5%B8%AE%E8%81%94%E5%90%88%E5%9B%BD%E7%BD%91%E6%81%8B%E7%94%B7%E5%8F%8B%23" target="weibo">
 女子汇8万要帮联合国网恋男友（热度：36680）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%AD%A3%E4%B8%A5%E9%87%8D%E4%BC%A4%E5%AE%B3%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%23" target="weibo">
+美国政府正严重伤害美国人民（热度：36579）
 </a>
 </li>
 
@@ -7569,12 +7575,6 @@ AI修复抗战英雄的模样（热度：36727）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%AD%A3%E4%B8%A5%E9%87%8D%E4%BC%A4%E5%AE%B3%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%23" target="weibo">
-美国政府正严重伤害美国人民（热度：33881）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E5%9C%B0%E9%9C%87%E8%87%B43645%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 缅甸地震致3645人死亡（热度：33826）
 </a>
@@ -7611,6 +7611,12 @@ A股利好连发（热度：32243）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E4%BB%81vs%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0%23" target="weibo">
+拜仁vs国际米兰（热度：32133）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E9%A9%AC%E4%B9%98%E7%BB%84%E5%A4%A9%E5%AE%ABTV%E5%86%8D%E4%B8%8A%E6%96%B0%23" target="weibo">
 龙马乘组天宫TV再上新（热度：31971）
 </a>
@@ -7619,6 +7625,12 @@ A股利好连发（热度：32243）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E4%BA%91%E4%B9%8B%E4%B8%8A%23" target="weibo">
 乌云之上（热度：31783）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%A4%96%E5%9B%BD%E7%94%B7%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%A7%B0%E5%A4%A7%E8%83%96%E5%AA%B3%E5%A6%87%23" target="weibo">
+这个外国男人为何被称大胖媳妇（热度：31579）
 </a>
 </li>
 
@@ -7683,8 +7695,8 @@ A股利好连发（热度：32243）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E4%BB%81vs%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0%23" target="weibo">
-拜仁vs国际米兰（热度：28366）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E5%8D%83%E7%A7%8B%E4%BB%A4OST%E9%98%B5%E5%AE%B9%23" target="weibo">
+电视剧千秋令OST阵容（热度：28373）
 </a>
 </li>
 
@@ -7725,6 +7737,12 @@ A股利好连发（热度：32243）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E4%B8%BA%E5%84%BF%E5%AD%90%E5%81%9A%E6%89%8B%E5%B7%A5%E5%8D%A1%E8%BD%A6%23" target="weibo">
+林志玲为儿子做手工卡车（热度：26886）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23susu%E7%A6%8F%E7%A6%8F%23" target="weibo">
 susu福福（热度：26824）
 </a>
@@ -7733,12 +7751,6 @@ susu福福（热度：26824）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%A2%E5%AF%B9%E7%BE%8E%E5%85%B3%E7%A8%8E%E6%88%91%E4%BB%AC%E5%BF%83%E4%B8%AD%E6%9C%89%E6%95%B0%E6%89%8B%E4%B8%8A%E6%9C%89%E6%8B%9B%23" target="weibo">
 面对美关税我们心中有数手上有招（热度：26210）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%A4%96%E5%9B%BD%E7%94%B7%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%A7%B0%E5%A4%A7%E8%83%96%E5%AA%B3%E5%A6%87%23" target="weibo">
-这个外国男人为何被称大胖媳妇（热度：26085）
 </a>
 </li>
 
@@ -7817,12 +7829,6 @@ susu福福（热度：26824）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%BB%A5%E6%96%BD%E5%85%B3%E7%A8%8E%E6%97%A0%E5%BC%82%E4%BA%8E%E5%89%A5%E5%A4%BA%E5%90%84%E5%9B%BD%E5%8F%91%E5%B1%95%E6%9D%83%E5%88%A9%23" target="weibo">
 美国滥施关税无异于剥夺各国发展权利（热度：22989）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E5%8D%83%E7%A7%8B%E4%BB%A4OST%E9%98%B5%E5%AE%B9%23" target="weibo">
-电视剧千秋令OST阵容（热度：22763）
 </a>
 </li>
 

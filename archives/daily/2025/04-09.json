@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744151026747,
+  "endTime": 1744152054727,
   "band_list": [
     {
       "raw_hot": 1108687,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 634246,
+      "num": 634246,
+      "word": "掘金解雇马龙",
+      "onboard_time": 1744140493,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 505336,
       "num": 128098,
       "word": "特朗普喊话欧盟购买3500亿美元能源",
@@ -33,14 +41,6 @@
       "onboard_time": 1744125082,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 428956,
-      "num": 428956,
-      "word": "掘金解雇马龙",
-      "onboard_time": 1744140493,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 417161,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278680,
+      "num": 278680,
+      "word": "外交部回应特朗普威胁再加征50%关税",
+      "onboard_time": 1744094123,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 263997,
       "num": 216184,
       "word": "温州18岁失联男孩确认身亡",
@@ -137,14 +145,6 @@
       "onboard_time": 1744125563,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187117,
-      "num": 187117,
-      "word": "外交部回应特朗普威胁再加征50%关税",
-      "onboard_time": 1744094123,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 176014,
@@ -195,6 +195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 144348,
+      "num": 144348,
+      "word": "离境退税即买即退今起全国推广",
+      "onboard_time": 1744136835,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 136663,
       "num": 136663,
       "word": "念无双全员be",
@@ -211,20 +219,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134083,
+      "num": 178531,
+      "word": "美国多地民众开始囤货",
+      "onboard_time": 1744139954,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128185,
       "num": 128185,
       "word": "这剧过了第一集就好看了",
       "onboard_time": 1744121424,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126168,
-      "num": 178531,
-      "word": "美国多地民众开始囤货",
-      "onboard_time": 1744139954,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 124395,
@@ -315,20 +323,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101801,
-      "num": 101801,
-      "word": "离境退税即买即退今起全国推广",
-      "onboard_time": 1744136835,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 100455,
       "num": 100455,
       "word": "美国单边霸凌终将反噬自身",
       "onboard_time": 1744104502,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97615,
+      "num": 97615,
+      "word": "旱厕边生产冒牌咖啡成本5元卖69",
+      "onboard_time": 1744141816,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94060,
@@ -419,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74328,
-      "num": 74328,
-      "word": "旱厕边生产冒牌咖啡成本5元卖69",
-      "onboard_time": 1744141816,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74138,
       "num": 74138,
       "word": "徐杰晚安",
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68194,
+      "num": 68194,
+      "word": "房东回应女子759万买的房是凶宅",
+      "onboard_time": 1744147394,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60058,
       "num": 60058,
       "word": "宋佳看望张桂梅",
@@ -483,20 +491,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49003,
+      "num": 49003,
+      "word": "美威胁进一步对华加征50%关税",
+      "onboard_time": 1744133597,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47824,
       "num": 47824,
       "word": "内娱女明星红毯统计",
       "onboard_time": 1744131258,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 46878,
-      "num": 39614,
-      "word": "房东回应女子759万买的房是凶宅",
-      "onboard_time": 1744147394,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46069,
@@ -523,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38077,
-      "num": 38077,
-      "word": "美威胁进一步对华加征50%关税",
-      "onboard_time": 1744133597,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37695,
       "num": 37695,
       "word": "里根38年前就讲过滥施关税的下场",
@@ -547,20 +547,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36579,
+      "num": 36579,
+      "word": "美国政府正严重伤害美国人民",
+      "onboard_time": 1744143914,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34636,
       "num": 34636,
       "word": "央行必要时将再贷款支持中央汇金",
       "onboard_time": 1744133357,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 33881,
-      "num": 33881,
-      "word": "美国政府正严重伤害美国人民",
-      "onboard_time": 1744143914,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33826,
@@ -587,6 +587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32133,
+      "num": 32133,
+      "word": "拜仁vs国际米兰",
+      "onboard_time": 1744138873,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31783,
       "num": 31783,
       "word": "乌云之上",
@@ -595,28 +603,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28366,
-      "num": 28366,
-      "word": "拜仁vs国际米兰",
-      "onboard_time": 1744138873,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 26085,
-      "num": 26085,
+      "raw_hot": 31579,
+      "num": 31579,
       "word": "这个外国男人为何被称大胖媳妇",
       "onboard_time": 1744143554,
       "rank": 34,
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 22763,
-      "num": 40682,
+      "raw_hot": 28373,
+      "num": 56339,
       "word": "电视剧千秋令OST阵容",
       "onboard_time": 1744144275,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26886,
+      "num": 30331,
+      "word": "林志玲为儿子做手工卡车",
+      "onboard_time": 1744151718,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 18269,
