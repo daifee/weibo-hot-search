@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744122349262,
+  "endTime": 1744123445248,
   "band_list": [
     {
       "raw_hot": 10117420,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1118748,
-      "num": 697892,
+      "num": 704610,
       "word": "金子涵去年8月曾瘦脱相",
       "onboard_time": 1744110682,
       "rank": 12,
@@ -273,6 +273,14 @@
       "onboard_time": 1744087704,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 853533,
+      "num": 364037,
+      "word": "孕妇做四维意外拍下宝宝干饭瞬间",
+      "onboard_time": 1744123104,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 841129,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 736350,
-      "num": 455698,
+      "num": 474250,
       "word": "质疑严浩翔导师身份选手道歉",
       "onboard_time": 1744120343,
       "rank": 6,
@@ -403,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 684715,
+      "num": 684715,
+      "word": "自称现做网红蛋糕实为去年12月生产",
+      "onboard_time": 1744120163,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 678402,
       "num": 678402,
       "word": "体重下降的50个冷知识",
@@ -424,14 +440,6 @@
       "word": "当地蜜雪冰城回应招牌变绿色",
       "onboard_time": 1744104321,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 658800,
-      "num": 658800,
-      "word": "自称现做网红蛋糕实为去年12月生产",
-      "onboard_time": 1744120163,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -579,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464468,
+      "num": 464468,
+      "word": "念无双全员be",
+      "onboard_time": 1744118362,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 458767,
       "num": 458767,
       "word": "马斯克似乎与特朗普划清界限",
@@ -601,14 +617,6 @@
       "onboard_time": 1744041742,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 449741,
-      "num": 449741,
-      "word": "念无双全员be",
-      "onboard_time": 1744118362,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 446804,
@@ -675,11 +683,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 411916,
+      "num": 362109,
+      "word": "吴世勋连线",
+      "onboard_time": 1744120942,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410907,
       "num": 410907,
       "word": "爆款短剧编剧收入高达一两百万",
       "onboard_time": 1744065076,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 410664,
+      "num": 360760,
+      "word": "这剧过了第一集就好看了",
+      "onboard_time": 1744121424,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -891,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317474,
-      "num": 317474,
-      "word": "吴世勋连线",
-      "onboard_time": 1744120942,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 317451,
       "num": 454183,
       "word": "湖南上千名公职人员卷入非法集资案",
@@ -945,6 +961,14 @@
       "onboard_time": 1744113982,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308456,
+      "num": 308456,
+      "word": "哈维超远三分绝杀",
+      "onboard_time": 1744122504,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 308409,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1744098681,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 295719,
-      "num": 295719,
-      "word": "这剧过了第一集就好看了",
-      "onboard_time": 1744121424,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 295556,
@@ -1171,6 +1187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 265638,
+      "num": 265638,
+      "word": "上海男篮绝杀广东男篮",
+      "onboard_time": 1744122804,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263108,
       "num": 364260,
       "word": "小鹏X9看似小改款实则大焕新",
@@ -1275,6 +1299,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 249408,
+      "num": 324565,
+      "word": "贪官买宝马不敢开罩起来放地下室",
+      "onboard_time": 1744122204,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 247727,
       "num": 259644,
       "word": "考研英语黄皮书真题将成绝版",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1744096643,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237482,
+      "num": 716683,
+      "word": "中国不惹事也绝不怕事",
+      "onboard_time": 1744120942,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 236163,
@@ -1497,6 +1537,14 @@
       "onboard_time": 1744121544,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209041,
+      "num": 209041,
+      "word": "曹颖回应李晟镜头少",
+      "onboard_time": 1744122804,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 208942,
@@ -1707,6 +1755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 190538,
+      "num": 190538,
+      "word": "泡泡鱼被刘宇宁翻牌",
+      "onboard_time": 1744122324,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190265,
       "num": 190265,
       "word": "恋与深空角色素材复用",
@@ -1763,6 +1819,14 @@
       "category": "国际时政,国际时政"
     },
     {
+      "raw_hot": 186506,
+      "num": 186506,
+      "word": "CBA",
+      "onboard_time": 1744122263,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186359,
       "num": 186359,
       "word": "丁禹兮淮水竹亭预告镜头",
@@ -1771,20 +1835,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185909,
+      "num": 185909,
+      "word": "探访铁路宠物托运流程",
+      "onboard_time": 1744122204,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185201,
       "num": 185201,
       "word": "蒋敦豪捡到粉丝的口红",
       "onboard_time": 1744087345,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184394,
-      "num": 716683,
-      "word": "中国不惹事也绝不怕事",
-      "onboard_time": 1744120942,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 183950,
@@ -1995,14 +2059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165926,
-      "num": 165926,
-      "word": "探访铁路宠物托运流程",
-      "onboard_time": 1744122204,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164944,
       "num": 164944,
       "word": "哈尔滨司法局局长丁锐心梗去世",
@@ -2083,14 +2139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156565,
-      "num": 156565,
-      "word": "泡泡鱼被刘宇宁翻牌",
-      "onboard_time": 1744122324,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155598,
       "num": 155598,
       "word": "EXO出道十三周年",
@@ -2113,6 +2161,14 @@
       "onboard_time": 1744067959,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153125,
+      "num": 153125,
+      "word": "6个儿子洗澡爸爸直接军事化管理",
+      "onboard_time": 1744122863,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152902,
@@ -2243,6 +2299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 146426,
+      "num": 146426,
+      "word": "教练晒林诗栋被网友劝遮一下手表",
+      "onboard_time": 1744123344,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146009,
       "num": 146009,
       "word": "棋士",
@@ -2297,6 +2361,14 @@
       "onboard_time": 1744077862,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 143128,
+      "num": 143128,
+      "word": "胡明轩罚球",
+      "onboard_time": 1744123162,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 142344,
@@ -2393,14 +2465,6 @@
       "onboard_time": 1744088783,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136804,
-      "num": 136804,
-      "word": "CBA",
-      "onboard_time": 1744122263,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 135884,
@@ -3092,7 +3156,7 @@
     },
     {
       "raw_hot": 80288,
-      "num": 161471,
+      "num": 267249,
       "word": "孙杨3比0周哲宇",
       "onboard_time": 1744119803,
       "rank": 32,
@@ -3347,6 +3411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 41739,
+      "num": 366154,
+      "word": "韩方称朝方士兵越过军事分界线",
+      "onboard_time": 1744122504,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41043,
       "num": 41043,
       "word": "鹿晗穿越千年传统文化探寻之旅",
@@ -3425,6 +3497,14 @@
       "onboard_time": 1744100123,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 34227,
+      "num": 227951,
+      "word": "男子醉酒划14辆车将面临赔钱又坐牢",
+      "onboard_time": 1744122204,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33304,
@@ -3603,28 +3683,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 14292,
-      "num": 266998,
-      "word": "贪官买宝马不敢开罩起来放地下室",
-      "onboard_time": 1744122204,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 13260,
       "num": 183996,
       "word": "甲亢哥在长沙的美好瞬间",
       "onboard_time": 1744093042,
       "rank": 39,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 10667,
-      "num": 227951,
-      "word": "男子醉酒划14辆车将面临赔钱又坐牢",
-      "onboard_time": 1744122204,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8923,
