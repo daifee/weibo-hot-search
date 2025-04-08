@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744109072868,
+  "endTime": 1744111271818,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -347,6 +347,14 @@
       "category": "网红,艺人"
     },
     {
+      "raw_hot": 1267072,
+      "num": 1267072,
+      "word": "电脑微信会惩罚每一个分手的人",
+      "onboard_time": 1744107982,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1241708,
       "num": 211813,
       "word": "日经",
@@ -635,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 952393,
+      "num": 952393,
+      "word": "南京地铁回应乘客看到诡异人脸",
+      "onboard_time": 1744107382,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 948201,
       "num": 857664,
       "word": "朱正廷因频繁戴隐形得了干眼症",
@@ -907,6 +923,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 769934,
+      "num": 519011,
+      "word": "陈飞宇朋友圈",
+      "onboard_time": 1744106782,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 768613,
       "num": 768613,
       "word": "12306推出宠物托运功能",
@@ -921,6 +945,14 @@
       "onboard_time": 1744031483,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 758003,
+      "num": 404757,
+      "word": "经纪人不让祝绪丹体重低于80斤",
+      "onboard_time": 1744108642,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 754877,
@@ -1099,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 662274,
+      "num": 662274,
+      "word": "当地蜜雪冰城回应招牌变绿色",
+      "onboard_time": 1744104321,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 660434,
       "num": 660434,
       "word": "特朗普回应市场大跌",
@@ -1155,14 +1195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 639279,
-      "num": 519011,
-      "word": "陈飞宇朋友圈",
-      "onboard_time": 1744106782,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 633645,
       "num": 624865,
       "word": "杜华晒与赵丽颖合照",
@@ -1211,14 +1243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 614579,
-      "num": 614579,
-      "word": "当地蜜雪冰城回应招牌变绿色",
-      "onboard_time": 1744104321,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 612731,
       "num": 612731,
       "word": "值得爱11集做恨",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1743993381,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 605607,
+      "num": 397951,
+      "word": "金子涵去年8月曾瘦脱相",
+      "onboard_time": 1744110682,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 605572,
@@ -1593,14 +1625,6 @@
       "onboard_time": 1743909620,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 479903,
-      "num": 479903,
-      "word": "南京地铁回应乘客看到诡异人脸",
-      "onboard_time": 1744107382,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 478733,
@@ -2267,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349659,
+      "num": 349659,
+      "word": "中方多部门发声",
+      "onboard_time": 1744104803,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 346952,
       "num": 346952,
       "word": "亚太集体救市",
@@ -2611,12 +2643,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 302060,
+      "num": 302060,
+      "word": "美国对越南零关税提议不屑一顾",
+      "onboard_time": 1744109182,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 300530,
       "num": 286516,
       "word": "优时颜 张康乐马柏全",
       "onboard_time": 1744020983,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 300351,
+      "num": 300351,
+      "word": "等iPhone17还是现在抄底16",
+      "onboard_time": 1744107922,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299645,
@@ -2899,6 +2947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 273495,
+      "num": 273495,
+      "word": "马斯克坐不住了",
+      "onboard_time": 1744109122,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 272440,
       "num": 242350,
       "word": "无刺榴莲原来是人工无刺的",
@@ -2976,14 +3032,6 @@
       "word": "鹿晗正定古城vlog",
       "onboard_time": 1744003761,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 268518,
-      "num": 268518,
-      "word": "经纪人不让祝绪丹体重低于80斤",
-      "onboard_time": 1744108642,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -3587,22 +3635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224066,
-      "num": 224066,
-      "word": "中方多部门发声",
-      "onboard_time": 1744104803,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 223672,
-      "num": 223672,
-      "word": "电脑微信会惩罚每一个分手的人",
-      "onboard_time": 1744107982,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 223334,
       "num": 223334,
       "word": "民房起火父亲跳窗逃生15岁男孩身亡",
@@ -3625,6 +3657,14 @@
       "onboard_time": 1744082481,
       "rank": 19,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 222653,
+      "num": 222653,
+      "word": "宋妍霏欧阳娣娣真亲上了",
+      "onboard_time": 1744110082,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 222551,
@@ -3971,6 +4011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 207742,
+      "num": 306241,
+      "word": "中国新说唱",
+      "onboard_time": 1744110622,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207722,
       "num": 207722,
       "word": "张元英找镜头速度",
@@ -4065,14 +4113,6 @@
       "onboard_time": 1744083803,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204434,
-      "num": 204434,
-      "word": "等iPhone17还是现在抄底16",
-      "onboard_time": 1744107922,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204328,
@@ -4219,6 +4259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197976,
+      "num": 197976,
+      "word": "如美方一意孤行中方奉陪到底",
+      "onboard_time": 1744104381,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 197671,
       "num": 197671,
       "word": "华尔街齐声警告美国经济衰退风险",
@@ -4307,14 +4355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194981,
-      "num": 194981,
-      "word": "如美方一意孤行中方奉陪到底",
-      "onboard_time": 1744104381,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 194335,
       "num": 194335,
       "word": "第五人格",
@@ -4401,6 +4441,14 @@
       "onboard_time": 1743943280,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192480,
+      "num": 314350,
+      "word": "张艺兴翻译出金俊勉语气",
+      "onboard_time": 1744109602,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 191918,
@@ -4691,6 +4739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185321,
+      "num": 288596,
+      "word": "长沙在市中心大屏感谢甲亢哥",
+      "onboard_time": 1744107081,
+      "rank": 39,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 185201,
       "num": 185201,
       "word": "蒋敦豪捡到粉丝的口红",
@@ -4737,6 +4793,14 @@
       "onboard_time": 1743997103,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183950,
+      "num": 280598,
+      "word": "赴山海成毅领衔主演",
+      "onboard_time": 1744109903,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 183825,
@@ -4841,6 +4905,14 @@
       "onboard_time": 1743937521,
       "rank": 14,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 181566,
+      "num": 181566,
+      "word": "艾威妻子急需换肝",
+      "onboard_time": 1744110383,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 181485,
@@ -5329,6 +5401,14 @@
       "onboard_time": 1743908360,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 166905,
+      "num": 294875,
+      "word": "刘宇宁直播",
+      "onboard_time": 1744109721,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 166865,
@@ -6875,6 +6955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125014,
+      "num": 125014,
+      "word": "外交部发言人转发里根1987年视频",
+      "onboard_time": 1744110203,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124495,
       "num": 124495,
       "word": "乌云之上编剧自己送走自己",
@@ -7371,6 +7459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111256,
+      "num": 111256,
+      "word": "大学生寒暑假至少开展1次实习",
+      "onboard_time": 1744111222,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111175,
       "num": 111175,
       "word": "富勒姆vs利物浦",
@@ -7457,6 +7553,14 @@
       "onboard_time": 1743860364,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108870,
+      "num": 108870,
+      "word": "半熟恋人4秘密约会",
+      "onboard_time": 1744110142,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 108653,
@@ -7627,6 +7731,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 101499,
+      "num": 108611,
+      "word": "柯南一生最遗憾的案件",
+      "onboard_time": 1744111042,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 101410,
       "num": 307957,
       "word": "美国或向乌克兰发最后通牒",
@@ -7713,6 +7825,14 @@
       "onboard_time": 1743998724,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 98358,
+      "num": 418954,
+      "word": "关键时刻国家队出手",
+      "onboard_time": 1744110142,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 98259,
@@ -7849,6 +7969,14 @@
       "onboard_time": 1743943100,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90556,
+      "num": 354227,
+      "word": "刘学义也闯进了忘本赛道",
+      "onboard_time": 1744110082,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 90346,
@@ -8169,14 +8297,6 @@
       "onboard_time": 1744008502,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 77973,
-      "num": 131627,
-      "word": "长沙在市中心大屏感谢甲亢哥",
-      "onboard_time": 1744107081,
-      "rank": 39,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 76196,
@@ -8779,6 +8899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42733,
+      "num": 276949,
+      "word": "手脚冰凉也是焦虑的一种表现",
+      "onboard_time": 1744110803,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42561,
       "num": 120366,
       "word": "梁伟铿王昶亚锦赛训练",
@@ -8984,6 +9112,14 @@
       "word": "200元一箱的初牛奶被卖到6000元",
       "onboard_time": 1743943581,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30961,
+      "num": 350122,
+      "word": "廊坊规定广告牌样式比普通牌匾贵30%",
+      "onboard_time": 1744110622,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -9195,12 +9331,28 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 21840,
+      "num": 154190,
+      "word": "同事回忆手术间隔休息期离世医师",
+      "onboard_time": 1744111103,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19831,
       "num": 19831,
       "word": "创亚2团名NexT1DE",
       "onboard_time": 1743956000,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19775,
+      "num": 384703,
+      "word": "美国四处挥拳攻击与世界为敌",
+      "onboard_time": 1744110561,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19673,
@@ -9241,6 +9393,14 @@
       "onboard_time": 1743913940,
       "rank": 39,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 19338,
+      "num": 140836,
+      "word": "巴勒斯坦记者在医院遭空袭致死",
+      "onboard_time": 1744110261,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19187,
