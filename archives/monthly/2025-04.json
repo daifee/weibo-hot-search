@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744078401726,
+  "endTime": 1744081473011,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1347,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1034078,
+      "num": 598994,
+      "word": "甜馨说自己不可能张口就要到东西",
+      "onboard_time": 1744074924,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1027076,
       "num": 1027076,
       "word": "哪吒2仍在票房榜前三",
@@ -1544,14 +1552,6 @@
       "word": "金子涵 乐华",
       "onboard_time": 1743764542,
       "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 960810,
-      "num": 598994,
-      "word": "甜馨说自己不可能张口就要到东西",
-      "onboard_time": 1744074924,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -3939,6 +3939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 480475,
+      "num": 480475,
+      "word": "特朗普支持率降至上任来最低",
+      "onboard_time": 1744079903,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 478733,
       "num": 478733,
       "word": "狗子被忘服务区一路狂奔追赶主人",
@@ -4059,6 +4067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 467980,
+      "num": 467980,
+      "word": "中国为什么能全球第一个反制对等关税",
+      "onboard_time": 1744034605,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 467851,
       "num": 467851,
       "word": "人体真正需要的7种休息",
@@ -4073,6 +4089,14 @@
       "onboard_time": 1743655823,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 466288,
+      "num": 318890,
+      "word": "赵丽颖造型师换了",
+      "onboard_time": 1744076962,
+      "rank": 25,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 465685,
@@ -4097,14 +4121,6 @@
       "onboard_time": 1744018282,
       "rank": 14,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 462607,
-      "num": 462607,
-      "word": "中国为什么能全球第一个反制对等关税",
-      "onboard_time": 1744034605,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 462244,
@@ -4473,6 +4489,14 @@
       "onboard_time": 1743749961,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 422803,
+      "num": 535916,
+      "word": "施压威胁不是同中方打交道的正确方式",
+      "onboard_time": 1744079303,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 421855,
@@ -5995,6 +6019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 325406,
+      "num": 325406,
+      "word": "BoA向朴娜莱道歉",
+      "onboard_time": 1744079602,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324614,
       "num": 320853,
       "word": "BLACKPINK nword",
@@ -6451,14 +6483,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 300675,
-      "num": 300675,
-      "word": "赵丽颖造型师换了",
-      "onboard_time": 1744076962,
-      "rank": 25,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 300220,
       "num": 300220,
       "word": "NewJeans父母出现分歧",
@@ -6689,6 +6713,14 @@
       "onboard_time": 1744011683,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289410,
+      "num": 289410,
+      "word": "特朗普顾问发声回怼马斯克",
+      "onboard_time": 1744077203,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 288923,
@@ -7009,6 +7041,14 @@
       "onboard_time": 1743611659,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 274786,
+      "num": 274786,
+      "word": "芒果送甲亢哥终身会员卡",
+      "onboard_time": 1744080201,
+      "rank": 25,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 274277,
@@ -7337,6 +7377,14 @@
       "onboard_time": 1743918200,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259282,
+      "num": 242350,
+      "word": "无刺榴莲原来是人工无刺的",
+      "onboard_time": 1744077023,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 259126,
@@ -7739,14 +7787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241165,
-      "num": 241165,
-      "word": "无刺榴莲原来是人工无刺的",
-      "onboard_time": 1744077023,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 240994,
       "num": 240994,
       "word": "何济霆",
@@ -7889,6 +7929,14 @@
       "onboard_time": 1743661582,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236518,
+      "num": 236518,
+      "word": "网友集体喊话抵制李美越",
+      "onboard_time": 1744079482,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 236306,
@@ -8811,6 +8859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212162,
+      "num": 505330,
+      "word": "中央汇金发挥着类平准基金作用",
+      "onboard_time": 1744080323,
+      "rank": 13,
+      "category": "财经,国内时政"
+    },
+    {
       "raw_hot": 212007,
       "num": 212007,
       "word": "应急管理局回应男孩在家做实验爆炸",
@@ -9667,6 +9723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198900,
+      "num": 198900,
+      "word": "乘客坐网约车打翻奶茶被判赔1372元",
+      "onboard_time": 1744080623,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198897,
       "num": 281127,
       "word": "hamin还不公开",
@@ -9985,14 +10049,6 @@
       "onboard_time": 1743948744,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 194958,
-      "num": 194958,
-      "word": "特朗普顾问发声回怼马斯克",
-      "onboard_time": 1744077203,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 194942,
@@ -11819,6 +11875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174148,
+      "num": 174148,
+      "word": "金饰价涨回927元",
+      "onboard_time": 1744078580,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173919,
       "num": 173919,
       "word": "文化差异不是李美越的保命符",
@@ -12033,6 +12097,14 @@
       "onboard_time": 1743469163,
       "rank": 33,
       "category": "军事,动漫"
+    },
+    {
+      "raw_hot": 171377,
+      "num": 171377,
+      "word": "丁禹兮 高姿",
+      "onboard_time": 1744079721,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 171308,
@@ -13851,6 +13923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150060,
+      "num": 150060,
+      "word": "港股集体爆发",
+      "onboard_time": 1744079002,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 150046,
       "num": 150046,
       "word": "知名华裔教授王晓峰疑失联两周",
@@ -14235,6 +14315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146871,
+      "num": 146871,
+      "word": "广末凉子道歉",
+      "onboard_time": 1744081223,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146647,
       "num": 146647,
       "word": "德布劳内宣布离开曼城",
@@ -14369,6 +14457,14 @@
       "onboard_time": 1743675683,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145412,
+      "num": 145412,
+      "word": "周深说内向真的挺不好受的",
+      "onboard_time": 1744079542,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 145360,
@@ -14553,6 +14649,14 @@
       "onboard_time": 1743444615,
       "rank": 37,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 143521,
+      "num": 275896,
+      "word": "马斯克资产2天缩水300亿美元",
+      "onboard_time": 1744080383,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 143504,
@@ -16627,6 +16731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123655,
+      "num": 319757,
+      "word": "美国农业部长尴尬回应对企鹅征税",
+      "onboard_time": 1744080323,
+      "rank": 19,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 123566,
       "num": 123566,
       "word": "苹果公司市值蒸发2550亿美元",
@@ -18001,6 +18113,14 @@
       "onboard_time": 1744024702,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109828,
+      "num": 194291,
+      "word": "欧媒曝林葳将参加2025NBA选秀",
+      "onboard_time": 1744079903,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 109748,
@@ -21379,6 +21499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48540,
+      "num": 537107,
+      "word": "创业板指高开1.68%",
+      "onboard_time": 1744080141,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 48508,
       "num": 286922,
       "word": "三舰齐呼81192让人泪目",
@@ -22720,6 +22848,14 @@
       "word": "2女儿起诉母亲不告诉其父安葬地",
       "onboard_time": 1743828024,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25216,
+      "num": 242442,
+      "word": "保险公司理赔后客户隐私被用作宣传",
+      "onboard_time": 1744080742,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

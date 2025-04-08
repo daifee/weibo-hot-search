@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/08 00:29:44 ~ 2025/04/08 10:13:21
+本榜单时间：2025/04/08 00:29:44 ~ 2025/04/08 11:04:33
 </p>
 </blockquote>
 <p>
@@ -70,7 +70,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BC%A0%E5%8F%A3%E5%B0%B1%E8%A6%81%E5%88%B0%E4%B8%9C%E8%A5%BF%23" target="weibo">
-甜馨说自己不可能张口就要到东西（热度：960810）
+甜馨说自己不可能张口就要到东西（热度：1034078）
 </a>
 </li>
 
@@ -129,8 +129,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E7%8E%87%E9%99%8D%E8%87%B3%E4%B8%8A%E4%BB%BB%E6%9D%A5%E6%9C%80%E4%BD%8E%23" target="weibo">
+特朗普支持率降至上任来最低（热度：480475）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%8D%E5%88%B6%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%23" target="weibo">
-中国为什么能全球第一个反制对等关税（热度：462607）
+中国为什么能全球第一个反制对等关税（热度：467980）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E4%BA%86%23" target="weibo">
+赵丽颖造型师换了（热度：466288）
 </a>
 </li>
 
@@ -161,6 +173,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%B1%E5%88%B0%E6%95%8F%E6%84%9F%E5%89%AF%E6%AD%8C%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%A4%BC%E8%B2%8C%E5%99%A4%E5%A3%B0%23" target="weibo">
 唱到敏感副歌大张伟礼貌噤声（热度：430904）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%BD%E5%8E%8B%E5%A8%81%E8%83%81%E4%B8%8D%E6%98%AF%E5%90%8C%E4%B8%AD%E6%96%B9%E6%89%93%E4%BA%A4%E9%81%93%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E5%BC%8F%23" target="weibo">
+施压威胁不是同中方打交道的正确方式（热度：422803）
 </a>
 </li>
 
@@ -207,6 +225,12 @@ A股走强（热度：387879）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BoA%E5%90%91%E6%9C%B4%E5%A8%9C%E8%8E%B1%E9%81%93%E6%AD%89%23" target="weibo">
+BoA向朴娜莱道歉（热度：325406）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%20%E5%B8%85%E5%93%A5%E8%83%BD%E4%B8%8D%E8%83%BD%E5%B8%AE%E6%88%91%E6%8B%8D%E5%BC%A0%E7%85%A7%E7%89%87%23" target="weibo">
 李现 帅哥能不能帮我拍张照片（热度：320983）
 </a>
@@ -243,12 +267,6 @@ A股走强（热度：387879）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E4%BA%86%23" target="weibo">
-赵丽颖造型师换了（热度：300675）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%8B%92%E7%BB%9D%E6%AC%A7%E7%9B%9F%E4%B8%8E%E7%BE%8E%E4%BA%92%E5%85%8D%E5%85%B3%E7%A8%8E%23" target="weibo">
 特朗普称拒绝欧盟与美互免关税（热度：298261）
 </a>
@@ -267,8 +285,20 @@ A股走强（热度：387879）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%A1%BE%E9%97%AE%E5%8F%91%E5%A3%B0%E5%9B%9E%E6%80%BC%E9%A9%AC%E6%96%AF%E5%85%8B%23" target="weibo">
+特朗普顾问发声回怼马斯克（热度：289410）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C%E9%87%8D%E7%A3%85%E5%8F%91%E5%A3%B0%23" target="weibo">
 人民银行重磅发声（热度：283338）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E9%80%81%E7%94%B2%E4%BA%A2%E5%93%A5%E7%BB%88%E8%BA%AB%E4%BC%9A%E5%91%98%E5%8D%A1%23" target="weibo">
+芒果送甲亢哥终身会员卡（热度：274786）
 </a>
 </li>
 
@@ -285,6 +315,12 @@ A股走强（热度：387879）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%88%BA%E6%A6%B4%E8%8E%B2%E5%8E%9F%E6%9D%A5%E6%98%AF%E4%BA%BA%E5%B7%A5%E6%97%A0%E5%88%BA%E7%9A%84%23" target="weibo">
+无刺榴莲原来是人工无刺的（热度：259282）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%82%A1%E5%B8%82%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%23" target="weibo">
 日本股市暴力反弹（热度：258554）
 </a>
@@ -297,8 +333,8 @@ A股走强（热度：387879）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%88%BA%E6%A6%B4%E8%8E%B2%E5%8E%9F%E6%9D%A5%E6%98%AF%E4%BA%BA%E5%B7%A5%E6%97%A0%E5%88%BA%E7%9A%84%23" target="weibo">
-无刺榴莲原来是人工无刺的（热度：241165）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E9%9B%86%E4%BD%93%E5%96%8A%E8%AF%9D%E6%8A%B5%E5%88%B6%E6%9D%8E%E7%BE%8E%E8%B6%8A%23" target="weibo">
+网友集体喊话抵制李美越（热度：236518）
 </a>
 </li>
 
@@ -333,6 +369,12 @@ A股走强（热度：387879）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B1%87%E9%87%91%E5%8F%91%E6%8C%A5%E7%9D%80%E7%B1%BB%E5%B9%B3%E5%87%86%E5%9F%BA%E9%87%91%E4%BD%9C%E7%94%A8%23" target="weibo">
+中央汇金发挥着类平准基金作用（热度：212162）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E6%9C%BA%E5%9C%BA%E7%96%AF%E7%8B%82%E8%BF%BD%E6%98%9F%E9%99%A9%E5%8F%91%E7%94%9F%E8%B8%A9%E8%B8%8F%23" target="weibo">
 粉丝机场疯狂追星险发生踩踏（热度：207983）
 </a>
@@ -347,6 +389,12 @@ A股走强（热度：387879）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8F%B4%E9%98%9F%E5%9C%A8%E7%BC%85%E7%94%B8%E5%8F%91%E7%8E%B020%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91%23" target="weibo">
 救援队在缅甸发现20公斤黄金（热度：202414）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E5%9D%90%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%89%93%E7%BF%BB%E5%A5%B6%E8%8C%B6%E8%A2%AB%E5%88%A4%E8%B5%941372%E5%85%83%23" target="weibo">
+乘客坐网约车打翻奶茶被判赔1372元（热度：198900）
 </a>
 </li>
 
@@ -369,12 +417,6 @@ A股走强（热度：387879）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%A1%BE%E9%97%AE%E5%8F%91%E5%A3%B0%E5%9B%9E%E6%80%BC%E9%A9%AC%E6%96%AF%E5%85%8B%23" target="weibo">
-特朗普顾问发声回怼马斯克（热度：194958）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E8%82%A1%E5%B8%82%E5%BC%80%E7%9B%98%E5%89%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%9D%9A%E5%BC%BA%23" target="weibo">
 纽约股市开盘前特朗普让美国人坚强（热度：191540）
 </a>
@@ -393,6 +435,12 @@ A股走强（热度：387879）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%B6%A8%E5%9B%9E927%E5%85%83%23" target="weibo">
+金饰价涨回927元（热度：174148）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E5%B7%AE%E5%BC%82%E4%B8%8D%E6%98%AF%E6%9D%8E%E7%BE%8E%E8%B6%8A%E7%9A%84%E4%BF%9D%E5%91%BD%E7%AC%A6%23" target="weibo">
 文化差异不是李美越的保命符（热度：173919）
 </a>
@@ -401,6 +449,12 @@ A股走强（热度：387879）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E8%AF%B4%E4%BB%96%E5%92%8C%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%83%85%E7%BB%AA%E6%9C%80%E7%A8%B3%E5%AE%9A%23" target="weibo">
 留几手说他和黄圣依情绪最稳定（热度：172719）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%20%E9%AB%98%E5%A7%BF%23" target="weibo">
+丁禹兮 高姿（热度：171377）
 </a>
 </li>
 
@@ -459,6 +513,12 @@ EXO出道十三周年（热度：155598）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E8%82%A1%E9%9B%86%E4%BD%93%E7%88%86%E5%8F%91%23" target="weibo">
+港股集体爆发（热度：150060）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E6%88%91%E9%83%BD%E6%9C%89%E7%82%B9%E5%97%91%E4%BD%A0%E4%BF%A9%E4%BA%86%23" target="weibo">
 邓超我都有点嗑你俩了（热度：149120）
 </a>
@@ -467,6 +527,24 @@ EXO出道十三周年（热度：155598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E4%B8%80%E5%A4%9C%E5%8F%8D%E5%BC%B99%E5%85%83%23" target="weibo">
 金饰价一夜反弹9元（热度：147445）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E9%81%93%E6%AD%89%23" target="weibo">
+广末凉子道歉（热度：146871）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%AF%B4%E5%86%85%E5%90%91%E7%9C%9F%E7%9A%84%E6%8C%BA%E4%B8%8D%E5%A5%BD%E5%8F%97%E7%9A%84%23" target="weibo">
+周深说内向真的挺不好受的（热度：145412）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B5%84%E4%BA%A72%E5%A4%A9%E7%BC%A9%E6%B0%B4300%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
+马斯克资产2天缩水300亿美元（热度：143521）
 </a>
 </li>
 
@@ -549,6 +627,12 @@ EXO出道十三周年（热度：155598）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%9C%E4%B8%9A%E9%83%A8%E9%95%BF%E5%B0%B4%E5%B0%AC%E5%9B%9E%E5%BA%94%E5%AF%B9%E4%BC%81%E9%B9%85%E5%BE%81%E7%A8%8E%23" target="weibo">
+美国农业部长尴尬回应对企鹅征税（热度：123655）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E5%8F%B0%23" target="weibo">
 芒果台（热度：121239）
 </a>
@@ -581,6 +665,12 @@ EXO出道十三周年（热度：155598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E5%9B%9E%E5%BA%94%E6%94%AF%E6%8C%81%E4%B8%AD%E5%A4%AE%E6%B1%87%E9%87%91%E7%A8%B3%E5%AE%9A%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%23" target="weibo">
 央行回应支持中央汇金稳定资本市场（热度：111126）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%AA%92%E6%9B%9D%E6%9E%97%E8%91%B3%E5%B0%86%E5%8F%82%E5%8A%A02025NBA%E9%80%89%E7%A7%80%23" target="weibo">
+欧媒曝林葳将参加2025NBA选秀（热度：109828）
 </a>
 </li>
 
@@ -747,6 +837,12 @@ A50期指涨3%（热度：48861）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E9%AB%98%E5%BC%801.68%25%23" target="weibo">
+创业板指高开1.68%（热度：48540）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%B3%E6%8C%87%E8%B7%8C%E7%A0%B415000%E7%82%B9%23" target="weibo">
 纳指跌破15000点（热度：43352）
 </a>
@@ -821,6 +917,12 @@ A50期指涨3%（热度：48861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8E%BB%E6%89%93%E9%AB%98%E5%B0%94%E5%A4%AB%23" target="weibo">
 特朗普去打高尔夫（热度：25515）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8%E7%90%86%E8%B5%94%E5%90%8E%E5%AE%A2%E6%88%B7%E9%9A%90%E7%A7%81%E8%A2%AB%E7%94%A8%E4%BD%9C%E5%AE%A3%E4%BC%A0%23" target="weibo">
+保险公司理赔后客户隐私被用作宣传（热度：25216）
 </a>
 </li>
 
