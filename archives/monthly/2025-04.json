@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744086533212,
+  "endTime": 1744087460216,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -179,6 +179,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 2425718,
+      "num": 2425718,
+      "word": "白宫内讧",
+      "onboard_time": 1744084765,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2404409,
       "num": 2404409,
       "word": "尹锡悦被罢免总统职务",
@@ -243,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2180698,
+      "num": 2180698,
+      "word": "朱天天曝创造101内幕",
+      "onboard_time": 1744083021,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2163339,
       "num": 421759,
       "word": "愚人节站姐团建",
@@ -273,14 +289,6 @@
       "onboard_time": 1743478282,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2082924,
-      "num": 2082924,
-      "word": "朱天天曝创造101内幕",
-      "onboard_time": 1744083021,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 2037775,
@@ -505,14 +513,6 @@
       "onboard_time": 1743603685,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1647439,
-      "num": 1647439,
-      "word": "白宫内讧",
-      "onboard_time": 1744084765,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1641221,
@@ -3019,6 +3019,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 596191,
+      "num": 318262,
+      "word": "11岁男孩把100克金条吞入腹中",
+      "onboard_time": 1744085664,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 595795,
       "num": 338660,
       "word": "半夜醒来发现才是凌晨2点半",
@@ -4291,6 +4299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 445596,
+      "num": 445596,
+      "word": "小沈阳跪下那一刻",
+      "onboard_time": 1744086685,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 445407,
       "num": 418225,
       "word": "林栋哲岳父变亲爸了",
@@ -4963,12 +4979,12 @@
       "category": "民生新闻,科学科普"
     },
     {
-      "raw_hot": 388751,
-      "num": 300027,
-      "word": "11岁男孩把100克金条吞入腹中",
-      "onboard_time": 1744085664,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 390274,
+      "num": 390274,
+      "word": "王一博攀冰李现打鸟吴磊骑行",
+      "onboard_time": 1744086685,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 388440,
@@ -6049,6 +6065,14 @@
       "onboard_time": 1743689242,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326783,
+      "num": 326783,
+      "word": "王鸥搜证气的直呼刘昊然全名",
+      "onboard_time": 1744086445,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 326550,
@@ -7763,6 +7787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247727,
+      "num": 247727,
+      "word": "考研英语黄皮书真题将成绝版",
+      "onboard_time": 1744086565,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 247575,
       "num": 505330,
       "word": "中央汇金发挥着类平准基金作用",
@@ -7883,6 +7915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242782,
+      "num": 242782,
+      "word": "女性最该锻炼的肌肉是盆底肌",
+      "onboard_time": 1744084342,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 242339,
       "num": 242339,
       "word": "李晟小考圣体",
@@ -7905,6 +7945,14 @@
       "onboard_time": 1743520645,
       "rank": 23,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 240699,
+      "num": 488080,
+      "word": "专家称此时可能是股民继续抓反转机会",
+      "onboard_time": 1744085363,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 240320,
@@ -7985,14 +8033,6 @@
       "onboard_time": 1744009703,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 238059,
-      "num": 238059,
-      "word": "女性最该锻炼的肌肉是盆底肌",
-      "onboard_time": 1744084342,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 237820,
@@ -8457,14 +8497,6 @@
       "onboard_time": 1743431364,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224877,
-      "num": 258329,
-      "word": "王鸥搜证气的直呼刘昊然全名",
-      "onboard_time": 1744086445,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 224433,
@@ -9555,6 +9587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204501,
+      "num": 204501,
+      "word": "爱奇艺 念无双",
+      "onboard_time": 1744087284,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204497,
       "num": 274406,
       "word": "Switch2",
@@ -9841,6 +9881,14 @@
       "onboard_time": 1743739821,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199719,
+      "num": 199719,
+      "word": "周鸿祎称反感不招35岁以上的人",
+      "onboard_time": 1744086325,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 199655,
@@ -10259,6 +10307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194096,
+      "num": 194096,
+      "word": "鹿晗出道十三周年",
+      "onboard_time": 1744086743,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194056,
       "num": 331254,
       "word": "我和我的命阵容官宣",
@@ -10625,14 +10681,6 @@
       "onboard_time": 1743733880,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 190190,
-      "num": 190190,
-      "word": "周鸿祎称反感不招35岁以上的人",
-      "onboard_time": 1744086325,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 190119,
@@ -11121,6 +11169,14 @@
       "onboard_time": 1743677421,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185201,
+      "num": 185201,
+      "word": "蒋敦豪捡到粉丝的口红",
+      "onboard_time": 1744087345,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 185125,
@@ -11881,6 +11937,14 @@
       "onboard_time": 1743470842,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176604,
+      "num": 176604,
+      "word": "念无双超点",
+      "onboard_time": 1744082603,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 176319,
@@ -12952,14 +13016,6 @@
       "word": "为监视出轨老公收买公司前台",
       "onboard_time": 1743773782,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 162860,
-      "num": 162860,
-      "word": "念无双超点",
-      "onboard_time": 1744082603,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -14435,6 +14491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147569,
+      "num": 602540,
+      "word": "欧洲已准备好与美国就关税问题谈判",
+      "onboard_time": 1744085844,
+      "rank": 9,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 147564,
       "num": 147564,
       "word": "李马克solo",
@@ -15473,6 +15537,14 @@
       "onboard_time": 1743500302,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137239,
+      "num": 318589,
+      "word": "廊坊一蜜雪冰城招牌变绿色",
+      "onboard_time": 1744087045,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137158,
@@ -18339,14 +18411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 110127,
-      "num": 488080,
-      "word": "专家称此时可能是股民继续抓反转机会",
-      "onboard_time": 1744085363,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 110063,
       "num": 110063,
       "word": "广州市荔湾中心医院工作人员回应",
@@ -19923,6 +19987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85302,
+      "num": 319565,
+      "word": "养娃路上的神队友",
+      "onboard_time": 1744085664,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85277,
       "num": 320990,
       "word": "参照样板房装修被认定违建",
@@ -20668,7 +20740,7 @@
     },
     {
       "raw_hot": 70148,
-      "num": 1743557,
+      "num": 2258535,
       "word": "中国坚定不移维护多边主义",
       "onboard_time": 1743942922,
       "rank": 2,
@@ -21057,14 +21129,6 @@
       "onboard_time": 1743429204,
       "rank": 46,
       "category": "网红"
-    },
-    {
-      "raw_hot": 62912,
-      "num": 300060,
-      "word": "养娃路上的神队友",
-      "onboard_time": 1744085664,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62859,
@@ -21633,14 +21697,6 @@
       "onboard_time": 1743787036,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 53251,
-      "num": 602540,
-      "word": "欧洲已准备好与美国就关税问题谈判",
-      "onboard_time": 1744085844,
-      "rank": 9,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 52805,
@@ -22977,6 +23033,14 @@
       "onboard_time": 1743672323,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29039,
+      "num": 256072,
+      "word": "一图梳理多方重磅发声",
+      "onboard_time": 1744087225,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28945,
@@ -24353,6 +24417,14 @@
       "onboard_time": 1743927501,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 8923,
+      "num": 254083,
+      "word": "向鹏给自己送了最好的生日礼物",
+      "onboard_time": 1744087345,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 8908,
