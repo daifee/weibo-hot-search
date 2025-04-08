@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744090868781,
+  "endTime": 1744094083886,
   "band_list": [
     {
       "raw_hot": 10117420,
@@ -9,6 +9,14 @@
       "onboard_time": 1744069100,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2653174,
+      "num": 2653174,
+      "word": "金子涵宣布退圈",
+      "onboard_time": 1744093163,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2425718,
@@ -67,6 +75,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1319303,
+      "num": 1319303,
+      "word": "停播半年后三只羊小杨臻选APP上线",
+      "onboard_time": 1744087945,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1304384,
       "num": 1304384,
       "word": "全球高度关注中国猛烈反击美国",
@@ -80,6 +96,22 @@
       "word": "张钧甯方回应炒股损失约862万",
       "onboard_time": 1744081822,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1196332,
+      "num": 482944,
+      "word": "文和友",
+      "onboard_time": 1744091002,
+      "rank": 6,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 1135864,
+      "num": 480082,
+      "word": "谢娜 谁说我怀孕了",
+      "onboard_time": 1744090162,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -107,14 +139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1069912,
-      "num": 890212,
-      "word": "停播半年后三只羊小杨臻选APP上线",
-      "onboard_time": 1744087945,
-      "rank": 7,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1034078,
       "num": 601710,
       "word": "甜馨说自己不可能张口就要到东西",
@@ -137,6 +161,14 @@
       "onboard_time": 1744034305,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 955486,
+      "num": 445896,
+      "word": "男子不同意分手逼女友喝农药身亡",
+      "onboard_time": 1744091601,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 916538,
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 596191,
-      "num": 318262,
+      "num": 335396,
       "word": "11岁男孩把100克金条吞入腹中",
       "onboard_time": 1744085664,
       "rank": 20,
@@ -259,14 +291,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 480082,
-      "num": 480082,
-      "word": "谢娜 谁说我怀孕了",
-      "onboard_time": 1744090162,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 458767,
       "num": 458767,
       "word": "马斯克似乎与特朗普划清界限",
@@ -281,6 +305,22 @@
       "onboard_time": 1744041742,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 446648,
+      "num": 446648,
+      "word": "特朗普拒绝欧盟零关税方案",
+      "onboard_time": 1744092561,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 445719,
+      "num": 445719,
+      "word": "张艺兴撞脸出道蛋糕",
+      "onboard_time": 1744090343,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 437436,
@@ -371,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382492,
+      "num": 446574,
+      "word": "国家队A股开盘前密集行动",
+      "onboard_time": 1744090823,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 379643,
       "num": 379643,
       "word": "大张伟甲亢哥共进晚餐",
@@ -401,6 +449,14 @@
       "onboard_time": 1744068380,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 353778,
+      "num": 353778,
+      "word": "林峯称妻子换保姆对得起他人",
+      "onboard_time": 1744093222,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 353765,
@@ -523,6 +579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 289190,
+      "num": 289190,
+      "word": "国资委全力支持央企增持",
+      "onboard_time": 1744093281,
+      "rank": 25,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 283971,
       "num": 283971,
       "word": "中国反制下美国六代机项目恐流产",
@@ -627,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253971,
+      "num": 253971,
+      "word": "12306宠物托运每只360元起",
+      "onboard_time": 1744091662,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253640,
       "num": 253640,
       "word": "居然还有孟子义接不住的话",
@@ -651,14 +723,6 @@
       "category": "财经,国内时政"
     },
     {
-      "raw_hot": 243235,
-      "num": 276189,
-      "word": "张艺兴撞脸出道蛋糕",
-      "onboard_time": 1744090343,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240699,
       "num": 488080,
       "word": "专家称此时可能是股民继续抓反转机会",
@@ -667,12 +731,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 237790,
+      "num": 237790,
+      "word": "三只羊内部人士回应复播时间",
+      "onboard_time": 1744091662,
+      "rank": 31,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 230310,
       "num": 230310,
       "word": "考公人发现遍地都是公考知识点",
       "onboard_time": 1744081882,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 225239,
+      "num": 255369,
+      "word": "向佐穿的鞋子有20斤重",
+      "onboard_time": 1744092801,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 223226,
@@ -689,6 +769,14 @@
       "onboard_time": 1744082481,
       "rank": 19,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 221759,
+      "num": 356204,
+      "word": "小鹏X9看似小改款实则大焕新",
+      "onboard_time": 1744093344,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 218244,
@@ -721,6 +809,14 @@
       "onboard_time": 1744043000,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213348,
+      "num": 213348,
+      "word": "童瑶从三十而已扇到时光里",
+      "onboard_time": 1744091062,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 208942,
@@ -787,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203309,
+      "num": 203309,
+      "word": "杭州通报出租房暗藏非法代孕",
+      "onboard_time": 1744091601,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202414,
       "num": 137158,
       "word": "救援队在缅甸发现20公斤黄金",
@@ -841,6 +945,14 @@
       "onboard_time": 1744086743,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191918,
+      "num": 191918,
+      "word": "鞠婧祎张云龙 来战",
+      "onboard_time": 1744093344,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 191540,
@@ -915,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177289,
+      "num": 177289,
+      "word": "王一博扎小辫了",
+      "onboard_time": 1744091422,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176604,
       "num": 176604,
       "word": "念无双超点",
@@ -937,6 +1057,14 @@
       "onboard_time": 1744040841,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 174675,
+      "num": 174675,
+      "word": "国资委发声",
+      "onboard_time": 1744093703,
+      "rank": 43,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 174425,
@@ -979,6 +1107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 169809,
+      "num": 169809,
+      "word": "戴荃称遗憾哪吒没成功跟电影合作",
+      "onboard_time": 1744090762,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167949,
       "num": 167949,
       "word": "学会表达情绪而不是情绪化地表达",
@@ -993,14 +1129,6 @@
       "onboard_time": 1744081642,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166945,
-      "num": 166945,
-      "word": "国家队A股开盘前密集行动",
-      "onboard_time": 1744090823,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 164944,
@@ -1043,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160872,
+      "num": 160872,
+      "word": "蒋一侨回应送舞娘组卡片",
+      "onboard_time": 1744093763,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159370,
       "num": 278143,
       "word": "全球市场开始反弹",
@@ -1081,6 +1217,14 @@
       "onboard_time": 1744081583,
       "rank": 47,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 150557,
+      "num": 150557,
+      "word": "已灭绝的权游冰原狼原型重生",
+      "onboard_time": 1744090823,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150442,
@@ -1259,14 +1403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129051,
-      "num": 129051,
-      "word": "已灭绝的权游冰原狼原型重生",
-      "onboard_time": 1744090823,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128608,
       "num": 128608,
       "word": "这样早起可能比熬夜更伤身",
@@ -1419,6 +1555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96656,
+      "num": 175186,
+      "word": "刘诗诗东方淮竹春夏最受期待角色",
+      "onboard_time": 1744093461,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95634,
       "num": 319565,
       "word": "养娃路上的神队友",
@@ -1465,6 +1609,14 @@
       "onboard_time": 1744064956,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87903,
+      "num": 254005,
+      "word": "属于王楚钦的浪漫主义",
+      "onboard_time": 1744093703,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 87851,
@@ -1523,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82002,
+      "num": 295865,
+      "word": "马龙许昕刘诗雯李晓霞同框",
+      "onboard_time": 1744092082,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80723,
       "num": 80723,
       "word": "美国网友说副总统万斯愚不可及",
@@ -1579,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71187,
+      "num": 354482,
+      "word": "乘客开门杀致人昏迷保险拒赔",
+      "onboard_time": 1744092621,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61864,
       "num": 61864,
       "word": "Daniel新家",
@@ -1625,6 +1793,14 @@
       "onboard_time": 1744080141,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 55312,
+      "num": 253973,
+      "word": "马斯克弟弟抨击特朗普关税政策",
+      "onboard_time": 1744092442,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53957,
@@ -1859,8 +2035,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13260,
+      "num": 183996,
+      "word": "甲亢哥在长沙的美好瞬间",
+      "onboard_time": 1744093042,
+      "rank": 39,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 12674,
-      "num": 1147552,
+      "num": 1390288,
       "word": "集中精力办好自己的事",
       "onboard_time": 1743942741,
       "rank": 2,

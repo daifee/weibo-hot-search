@@ -1,0 +1,410 @@
+{
+  "runTime": 1744094083886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2653174,
+        "num": 2653174,
+        "word": "金子涵宣布退圈",
+        "onboard_time": 1744093163,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1469095,
+        "num": 1469095,
+        "word": "白宫内讧",
+        "onboard_time": 1744084765,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10100,
+        "num": 1390288,
+        "word": "集中精力办好自己的事",
+        "onboard_time": 1744094004,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1319303,
+        "num": 1319303,
+        "word": "停播半年后三只羊小杨臻选APP上线",
+        "onboard_time": 1744087945,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 787655,
+        "num": 787655,
+        "word": "廊坊一蜜雪冰城招牌变绿色",
+        "onboard_time": 1744087045,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489657,
+        "num": 489657,
+        "word": "医院旁小吃店被曝胎盘加工",
+        "onboard_time": 1744087704,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1196332,
+        "num": 482944,
+        "word": "文和友",
+        "onboard_time": 1744091002,
+        "rank": 6,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 638107,
+        "num": 477666,
+        "word": "小沈阳跪下那一刻",
+        "onboard_time": 1744086685,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 446648,
+        "num": 446648,
+        "word": "特朗普拒绝欧盟零关税方案",
+        "onboard_time": 1744092561,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 382492,
+        "num": 446574,
+        "word": "国家队A股开盘前密集行动",
+        "onboard_time": 1744090823,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1280193,
+        "num": 446401,
+        "word": "中方回应特朗普威胁额外征收50%关税",
+        "onboard_time": 1744069100,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1135864,
+        "num": 446294,
+        "word": "谢娜 谁说我怀孕了",
+        "onboard_time": 1744090162,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15504,
+        "num": 446121,
+        "word": "中国坚定不移维护多边主义",
+        "onboard_time": 1743942922,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 955486,
+        "num": 445896,
+        "word": "男子不同意分手逼女友喝农药身亡",
+        "onboard_time": 1744091601,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 621539,
+        "num": 445834,
+        "word": "朱天天曝创造101内幕",
+        "onboard_time": 1744083021,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445719,
+        "num": 445719,
+        "word": "张艺兴撞脸出道蛋糕",
+        "onboard_time": 1744090343,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436966,
+        "num": 436966,
+        "word": "余承恩",
+        "onboard_time": 1744087704,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388616,
+        "num": 388616,
+        "word": "张钧甯方回应炒股损失约862万",
+        "onboard_time": 1744081822,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221759,
+        "num": 356204,
+        "word": "小鹏X9看似小改款实则大焕新",
+        "onboard_time": 1744093344,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 71187,
+        "num": 354482,
+        "word": "乘客开门杀致人昏迷保险拒赔",
+        "onboard_time": 1744092621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353778,
+        "num": 353778,
+        "word": "林峯称妻子换保姆对得起他人",
+        "onboard_time": 1744093222,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335396,
+        "num": 335396,
+        "word": "11岁男孩把100克金条吞入腹中",
+        "onboard_time": 1744085664,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318836,
+        "num": 318836,
+        "word": "毛泽东曾孙毛东东走进湖南一师",
+        "onboard_time": 1744076302,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 304713,
+        "num": 304713,
+        "word": "12306推出宠物托运功能",
+        "onboard_time": 1744072524,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82002,
+        "num": 295865,
+        "word": "马龙许昕刘诗雯李晓霞同框",
+        "onboard_time": 1744092082,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289190,
+        "num": 289190,
+        "word": "国资委全力支持央企增持",
+        "onboard_time": 1744093281,
+        "rank": 25,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 279687,
+        "num": 279687,
+        "word": "王一博攀冰李现打鸟吴磊骑行",
+        "onboard_time": 1744086685,
+        "rank": 26,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 225239,
+        "num": 255369,
+        "word": "向佐穿的鞋子有20斤重",
+        "onboard_time": 1744092801,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87903,
+        "num": 254005,
+        "word": "属于王楚钦的浪漫主义",
+        "onboard_time": 1744093703,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55312,
+        "num": 253973,
+        "word": "马斯克弟弟抨击特朗普关税政策",
+        "onboard_time": 1744092442,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 253971,
+        "num": 253971,
+        "word": "12306宠物托运每只360元起",
+        "onboard_time": 1744091662,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237790,
+        "num": 237790,
+        "word": "三只羊内部人士回应复播时间",
+        "onboard_time": 1744091662,
+        "rank": 31,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 223785,
+        "num": 223785,
+        "word": "甜馨说自己不可能张口就要到东西",
+        "onboard_time": 1744074924,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219953,
+        "num": 219953,
+        "word": "居然还有孟子义接不住的话",
+        "onboard_time": 1744089022,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213928,
+        "num": 213928,
+        "word": "爱奇艺 念无双",
+        "onboard_time": 1744087284,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213348,
+        "num": 213348,
+        "word": "童瑶从三十而已扇到时光里",
+        "onboard_time": 1744091062,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203309,
+        "num": 203309,
+        "word": "杭州通报出租房暗藏非法代孕",
+        "onboard_time": 1744091601,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202631,
+        "num": 202631,
+        "word": "股市",
+        "onboard_time": 1744074625,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191918,
+        "num": 191918,
+        "word": "鞠婧祎张云龙 来战",
+        "onboard_time": 1744093344,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13260,
+        "num": 183996,
+        "word": "甲亢哥在长沙的美好瞬间",
+        "onboard_time": 1744093042,
+        "rank": 39,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 177289,
+        "num": 177289,
+        "word": "王一博扎小辫了",
+        "onboard_time": 1744091422,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176987,
+        "num": 176987,
+        "word": "熟悉的孟美岐回归了",
+        "onboard_time": 1744089144,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96656,
+        "num": 175186,
+        "word": "刘诗诗东方淮竹春夏最受期待角色",
+        "onboard_time": 1744093461,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174675,
+        "num": 174675,
+        "word": "国资委发声",
+        "onboard_time": 1744093703,
+        "rank": 43,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 169809,
+        "num": 169809,
+        "word": "戴荃称遗憾哪吒没成功跟电影合作",
+        "onboard_time": 1744090762,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161091,
+        "num": 161091,
+        "word": "女性最该锻炼的肌肉是盆底肌",
+        "onboard_time": 1744084342,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 160872,
+        "num": 160872,
+        "word": "蒋一侨回应送舞娘组卡片",
+        "onboard_time": 1744093763,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155391,
+        "num": 155391,
+        "word": "特朗普称不会暂停关税政策",
+        "onboard_time": 1744068380,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152075,
+        "num": 152075,
+        "word": "小猫一气之下怒吃了两口冻干",
+        "onboard_time": 1744083142,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150557,
+        "num": 150557,
+        "word": "已灭绝的权游冰原狼原型重生",
+        "onboard_time": 1744090823,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "跟着总书记领略中华文明"
+    }
+  }
+}

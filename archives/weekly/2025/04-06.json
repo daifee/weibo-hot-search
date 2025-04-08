@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744090868781,
+  "endTime": 1744094083886,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -33,6 +33,14 @@
       "onboard_time": 1743982099,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2653174,
+      "num": 2653174,
+      "word": "金子涵宣布退圈",
+      "onboard_time": 1744093163,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2623060,
@@ -267,6 +275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1319303,
+      "num": 1319303,
+      "word": "停播半年后三只羊小杨臻选APP上线",
+      "onboard_time": 1744087945,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1307947,
       "num": 1307947,
       "word": "黄英只有不到80斤了",
@@ -331,6 +347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1196332,
+      "num": 482944,
+      "word": "文和友",
+      "onboard_time": 1744091002,
+      "rank": 6,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 1186158,
       "num": 1078781,
       "word": "小米股票",
@@ -360,6 +384,14 @@
       "word": "锤娜丽莎 减肥不快乐都滚",
       "onboard_time": 1743947123,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1135864,
+      "num": 480082,
+      "word": "谢娜 谁说我怀孕了",
+      "onboard_time": 1744090162,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -417,14 +449,6 @@
       "onboard_time": 1743950063,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1069912,
-      "num": 890212,
-      "word": "停播半年后三只羊小杨臻选APP上线",
-      "onboard_time": 1744087945,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 1063349,
@@ -545,6 +569,14 @@
       "onboard_time": 1744034305,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 955486,
+      "num": 445896,
+      "word": "男子不同意分手逼女友喝农药身亡",
+      "onboard_time": 1744091601,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 948201,
@@ -1124,7 +1156,7 @@
     },
     {
       "raw_hot": 596191,
-      "num": 318262,
+      "num": 335396,
       "word": "11岁男孩把100克金条吞入腹中",
       "onboard_time": 1744085664,
       "rank": 20,
@@ -1395,14 +1427,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 480082,
-      "num": 480082,
-      "word": "谢娜 谁说我怀孕了",
-      "onboard_time": 1744090162,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 478733,
       "num": 478733,
       "word": "狗子被忘服务区一路狂奔追赶主人",
@@ -1489,6 +1513,22 @@
       "onboard_time": 1744029383,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 446648,
+      "num": 446648,
+      "word": "特朗普拒绝欧盟零关税方案",
+      "onboard_time": 1744092561,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 445719,
+      "num": 445719,
+      "word": "张艺兴撞脸出道蛋糕",
+      "onboard_time": 1744090343,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 443515,
@@ -1819,6 +1859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 382492,
+      "num": 446574,
+      "word": "国家队A股开盘前密集行动",
+      "onboard_time": 1744090823,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 381491,
       "num": 381491,
       "word": "特朗普谈股市暴跌",
@@ -1969,6 +2017,14 @@
       "onboard_time": 1743975315,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 353778,
+      "num": 353778,
+      "word": "林峯称妻子换保姆对得起他人",
+      "onboard_time": 1744093222,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 353765,
@@ -2443,6 +2499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 289190,
+      "num": 289190,
+      "word": "国资委全力支持央企增持",
+      "onboard_time": 1744093281,
+      "rank": 25,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 286283,
       "num": 286283,
       "word": "BLG对战IG",
@@ -2811,6 +2875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253971,
+      "num": 253971,
+      "word": "12306宠物托运每只360元起",
+      "onboard_time": 1744091662,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253664,
       "num": 253664,
       "word": "白桃星座",
@@ -2915,14 +2987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243235,
-      "num": 276189,
-      "word": "张艺兴撞脸出道蛋糕",
-      "onboard_time": 1744090343,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242188,
       "num": 242188,
       "word": "美国超市物价暴涨30%",
@@ -2961,6 +3025,14 @@
       "onboard_time": 1744009703,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 237790,
+      "num": 237790,
+      "word": "三只羊内部人士回应复播时间",
+      "onboard_time": 1744091662,
+      "rank": 31,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 236731,
@@ -3155,6 +3227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225239,
+      "num": 255369,
+      "word": "向佐穿的鞋子有20斤重",
+      "onboard_time": 1744092801,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223334,
       "num": 223334,
       "word": "民房起火父亲跳窗逃生15岁男孩身亡",
@@ -3193,6 +3273,14 @@
       "onboard_time": 1743993923,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 221759,
+      "num": 356204,
+      "word": "小鹏X9看似小改款实则大焕新",
+      "onboard_time": 1744093344,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 221273,
@@ -3369,6 +3457,14 @@
       "onboard_time": 1744043000,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213348,
+      "num": 213348,
+      "word": "童瑶从三十而已扇到时光里",
+      "onboard_time": 1744091062,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 212594,
@@ -3593,6 +3689,14 @@
       "onboard_time": 1744090044,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203309,
+      "num": 203309,
+      "word": "杭州通报出租房暗藏非法代孕",
+      "onboard_time": 1744091601,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202414,
@@ -3857,6 +3961,14 @@
       "onboard_time": 1743943280,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191918,
+      "num": 191918,
+      "word": "鞠婧祎张云龙 来战",
+      "onboard_time": 1744093344,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 191815,
@@ -4419,6 +4531,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 177289,
+      "num": 177289,
+      "word": "王一博扎小辫了",
+      "onboard_time": 1744091422,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 177160,
       "num": 177160,
       "word": "刘涛 我的梦中情师",
@@ -4481,6 +4601,14 @@
       "onboard_time": 1744040841,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 174675,
+      "num": 174675,
+      "word": "国资委发声",
+      "onboard_time": 1744093703,
+      "rank": 43,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 174363,
@@ -4569,6 +4697,14 @@
       "onboard_time": 1743998064,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169809,
+      "num": 169809,
+      "word": "戴荃称遗憾哪吒没成功跟电影合作",
+      "onboard_time": 1744090762,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 169663,
@@ -4705,14 +4841,6 @@
       "onboard_time": 1743908360,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 166945,
-      "num": 166945,
-      "word": "国家队A股开盘前密集行动",
-      "onboard_time": 1744090823,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 166865,
@@ -4881,6 +5009,14 @@
       "onboard_time": 1743949224,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160872,
+      "num": 160872,
+      "word": "蒋一侨回应送舞娘组卡片",
+      "onboard_time": 1744093763,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 160542,
@@ -5201,6 +5337,14 @@
       "onboard_time": 1743921021,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150557,
+      "num": 150557,
+      "word": "已灭绝的权游冰原狼原型重生",
+      "onboard_time": 1744090823,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150509,
@@ -5953,14 +6097,6 @@
       "onboard_time": 1743922341,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 129051,
-      "num": 129051,
-      "word": "已灭绝的权游冰原狼原型重生",
-      "onboard_time": 1744090823,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128804,
@@ -6891,6 +7027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96656,
+      "num": 175186,
+      "word": "刘诗诗东方淮竹春夏最受期待角色",
+      "onboard_time": 1744093461,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95634,
       "num": 319565,
       "word": "养娃路上的神队友",
@@ -7033,6 +7177,14 @@
       "onboard_time": 1744064956,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87903,
+      "num": 254005,
+      "word": "属于王楚钦的浪漫主义",
+      "onboard_time": 1744093703,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 87851,
@@ -7227,6 +7379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82002,
+      "num": 295865,
+      "word": "马龙许昕刘诗雯李晓霞同框",
+      "onboard_time": 1744092082,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81766,
       "num": 285007,
       "word": "近800股跌超9%",
@@ -7361,6 +7521,14 @@
       "onboard_time": 1743996684,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 71187,
+      "num": 354482,
+      "word": "乘客开门杀致人昏迷保险拒赔",
+      "onboard_time": 1744092621,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71112,
@@ -7633,6 +7801,14 @@
       "onboard_time": 1743999263,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 55312,
+      "num": 253973,
+      "word": "马斯克弟弟抨击特朗普关税政策",
+      "onboard_time": 1744092442,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55038,
@@ -8353,6 +8529,14 @@
       "onboard_time": 1743816920,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13260,
+      "num": 183996,
+      "word": "甲亢哥在长沙的美好瞬间",
+      "onboard_time": 1744093042,
+      "rank": 39,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 13063,
