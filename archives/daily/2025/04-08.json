@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744119919938,
+  "endTime": 1744122349262,
   "band_list": [
     {
       "raw_hot": 10117420,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2732183,
-      "num": 433397,
+      "num": 437528,
       "word": "Jennie杂志尺度好大",
       "onboard_time": 1744115062,
       "rank": 10,
@@ -139,8 +139,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1224111,
-      "num": 1224111,
+      "raw_hot": 1229371,
+      "num": 1229371,
       "word": "南京地铁回应乘客看到诡异人脸",
       "onboard_time": 1744107382,
       "rank": 23,
@@ -315,12 +315,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 793865,
+      "num": 793865,
+      "word": "是严浩翔的话那很正常了",
+      "onboard_time": 1744117343,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 790334,
       "num": 790334,
       "word": "外交部回应特朗普威胁再加征50%关税",
       "onboard_time": 1744094123,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 777479,
+      "num": 676517,
+      "word": "女子称遭男友性侵立案两年后被撤案",
+      "onboard_time": 1744116323,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 768613,
@@ -332,11 +348,19 @@
     },
     {
       "raw_hot": 758003,
-      "num": 404757,
+      "num": 430723,
       "word": "经纪人不让祝绪丹体重低于80斤",
       "onboard_time": 1744108642,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 736350,
+      "num": 455698,
+      "word": "质疑严浩翔导师身份选手道歉",
+      "onboard_time": 1744120343,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 729002,
@@ -387,14 +411,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 676517,
-      "num": 676517,
-      "word": "女子称遭男友性侵立案两年后被撤案",
-      "onboard_time": 1744116323,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 670895,
       "num": 670895,
       "word": "文和友创始人直播喊话卤鹅哥遭抵制",
@@ -408,6 +424,14 @@
       "word": "当地蜜雪冰城回应招牌变绿色",
       "onboard_time": 1744104321,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 658800,
+      "num": 658800,
+      "word": "自称现做网红蛋糕实为去年12月生产",
+      "onboard_time": 1744120163,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -451,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 605413,
+      "num": 605413,
+      "word": "1600人报名背黄帝内经得145万活动",
+      "onboard_time": 1744117642,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 596521,
       "num": 456304,
       "word": "美国对越南零关税提议不屑一顾",
@@ -481,14 +513,6 @@
       "onboard_time": 1744102101,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 533996,
-      "num": 533996,
-      "word": "是严浩翔的话那很正常了",
-      "onboard_time": 1744117343,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 530941,
@@ -579,6 +603,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 449741,
+      "num": 449741,
+      "word": "念无双全员be",
+      "onboard_time": 1744118362,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 446804,
       "num": 446804,
       "word": "陈赫做了五哈兄弟团美甲",
@@ -665,14 +697,6 @@
       "onboard_time": 1744090823,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 402355,
-      "num": 402355,
-      "word": "1600人报名背黄帝内经得145万活动",
-      "onboard_time": 1744117642,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 400015,
@@ -763,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 370831,
+      "num": 370831,
+      "word": "专家建议利用美股暴跌把股市搞起来",
+      "onboard_time": 1744118903,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 366398,
       "num": 366398,
       "word": "deepseek崩了",
@@ -835,12 +867,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 329318,
-      "num": 329318,
-      "word": "念无双全员be",
-      "onboard_time": 1744118362,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 334816,
+      "num": 334816,
+      "word": "上海男篮vs广东男篮",
+      "onboard_time": 1744113262,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 326783,
@@ -856,6 +888,14 @@
       "word": "李现 帅哥能不能帮我拍张照片",
       "onboard_time": 1744070722,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 317474,
+      "num": 317474,
+      "word": "吴世勋连线",
+      "onboard_time": 1744120942,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -977,6 +1017,14 @@
       "onboard_time": 1744098681,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 295719,
+      "num": 295719,
+      "word": "这剧过了第一集就好看了",
+      "onboard_time": 1744121424,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 295556,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1744080323,
       "rank": 19,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 266381,
+      "num": 266381,
+      "word": "刘宇宁为粉丝的钱操碎了心",
+      "onboard_time": 1744119803,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 266184,
@@ -1299,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230459,
+      "num": 379045,
+      "word": "你支持携带宠物上高铁吗",
+      "onboard_time": 1744118843,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230310,
       "num": 230310,
       "word": "考公人发现遍地都是公考知识点",
@@ -1425,6 +1489,14 @@
       "onboard_time": 1744106122,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209162,
+      "num": 209162,
+      "word": "棋士大结局",
+      "onboard_time": 1744121544,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 208942,
@@ -1707,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184394,
+      "num": 716683,
+      "word": "中国不惹事也绝不怕事",
+      "onboard_time": 1744120942,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 183950,
       "num": 280598,
       "word": "赴山海成毅领衔主演",
@@ -1777,6 +1857,14 @@
       "onboard_time": 1744091422,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177147,
+      "num": 228038,
+      "word": "广末凉子的崎岖人生",
+      "onboard_time": 1744121003,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 176604,
@@ -1891,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166645,
+      "num": 166645,
+      "word": "美国单边霸凌终将反噬自身",
+      "onboard_time": 1744104502,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166245,
       "num": 166245,
       "word": "鹿晗正定vlog下集",
@@ -1899,12 +1995,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164996,
-      "num": 164996,
-      "word": "美国单边霸凌终将反噬自身",
-      "onboard_time": 1744104502,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 165926,
+      "num": 165926,
+      "word": "探访铁路宠物托运流程",
+      "onboard_time": 1744122204,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164944,
@@ -1987,12 +2083,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156565,
+      "num": 156565,
+      "word": "泡泡鱼被刘宇宁翻牌",
+      "onboard_time": 1744122324,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155598,
       "num": 155598,
       "word": "EXO出道十三周年",
       "onboard_time": 1744069283,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154860,
+      "num": 438620,
+      "word": "多部门回应特朗普50%关税威胁",
+      "onboard_time": 1744120883,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 154266,
@@ -2011,12 +2123,28 @@
       "category": "汽车,国际时政"
     },
     {
+      "raw_hot": 152520,
+      "num": 152520,
+      "word": "上班前和上班一年后的区别",
+      "onboard_time": 1744116801,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151855,
       "num": 546470,
       "word": "第一批村干部已经教村民用AI了",
       "onboard_time": 1744081583,
       "rank": 47,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 151790,
+      "num": 151790,
+      "word": "纽股开盘前特朗普再发文引不满",
+      "onboard_time": 1744119443,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151083,
@@ -2113,14 +2241,6 @@
       "onboard_time": 1744077862,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 146857,
-      "num": 146857,
-      "word": "上班前和上班一年后的区别",
-      "onboard_time": 1744116801,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 146009,
@@ -2273,6 +2393,14 @@
       "onboard_time": 1744088783,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136804,
+      "num": 136804,
+      "word": "CBA",
+      "onboard_time": 1744122263,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 135884,
@@ -2515,14 +2643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120727,
-      "num": 120727,
-      "word": "纽股开盘前特朗普再发文引不满",
-      "onboard_time": 1744119443,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 119209,
       "num": 119209,
       "word": "双胞胎姐妹佩佩惠惠相继离世",
@@ -2659,14 +2779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109677,
-      "num": 298136,
-      "word": "专家建议利用美股暴跌把股市搞起来",
-      "onboard_time": 1744118903,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 109288,
       "num": 109288,
       "word": "A股没有必要恐惧美国股市暴跌",
@@ -2763,20 +2875,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104803,
+      "num": 268195,
+      "word": "北控男篮vs山东男篮",
+      "onboard_time": 1744121843,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102746,
       "num": 102746,
       "word": "鹭卓喜欢热热热热热热热热热的地方",
       "onboard_time": 1744115362,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100485,
-      "num": 100485,
-      "word": "上海男篮vs广东男篮",
-      "onboard_time": 1744113262,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 100338,
@@ -2793,14 +2905,6 @@
       "onboard_time": 1744088363,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 97986,
-      "num": 379045,
-      "word": "你支持携带宠物上高铁吗",
-      "onboard_time": 1744118843,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96718,
@@ -2841,14 +2945,6 @@
       "onboard_time": 1744085004,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 92641,
-      "num": 159087,
-      "word": "刘宇宁为粉丝的钱操碎了心",
-      "onboard_time": 1744119803,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 92500,
@@ -3507,12 +3603,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 14292,
+      "num": 266998,
+      "word": "贪官买宝马不敢开罩起来放地下室",
+      "onboard_time": 1744122204,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13260,
       "num": 183996,
       "word": "甲亢哥在长沙的美好瞬间",
       "onboard_time": 1744093042,
       "rank": 39,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 10667,
+      "num": 227951,
+      "word": "男子醉酒划14辆车将面临赔钱又坐牢",
+      "onboard_time": 1744122204,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8923,
@@ -3540,6 +3652,9 @@
     },
     {
       "word": "#在春风里树木也是树人#"
+    },
+    {
+      "word": "#中国经济是一片大海#"
     }
   ]
 }

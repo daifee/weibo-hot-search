@@ -1,0 +1,410 @@
+{
+  "runTime": 1744122349262,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1229371,
+        "num": 1229371,
+        "word": "南京地铁回应乘客看到诡异人脸",
+        "onboard_time": 1744107382,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 793865,
+        "num": 793865,
+        "word": "是严浩翔的话那很正常了",
+        "onboard_time": 1744117343,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184394,
+        "num": 716683,
+        "word": "中国不惹事也绝不怕事",
+        "onboard_time": 1744120942,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 658800,
+        "num": 658800,
+        "word": "自称现做网红蛋糕实为去年12月生产",
+        "onboard_time": 1744120163,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605413,
+        "num": 605413,
+        "word": "1600人报名背黄帝内经得145万活动",
+        "onboard_time": 1744117642,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456109,
+        "num": 456109,
+        "word": "外交部回应美副总统说中国人乡巴佬",
+        "onboard_time": 1744113142,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 736350,
+        "num": 455698,
+        "word": "质疑严浩翔导师身份选手道歉",
+        "onboard_time": 1744120343,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 696486,
+        "num": 453697,
+        "word": "金子涵去年8月曾瘦脱相",
+        "onboard_time": 1744110682,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449741,
+        "num": 449741,
+        "word": "念无双全员be",
+        "onboard_time": 1744118362,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154860,
+        "num": 438620,
+        "word": "多部门回应特朗普50%关税威胁",
+        "onboard_time": 1744120883,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2636664,
+        "num": 437528,
+        "word": "Jennie杂志尺度好大",
+        "onboard_time": 1744115062,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 561889,
+        "num": 437301,
+        "word": "电脑微信会惩罚每一个分手的人",
+        "onboard_time": 1744107982,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 430723,
+        "num": 430723,
+        "word": "经纪人不让祝绪丹体重低于80斤",
+        "onboard_time": 1744108642,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421875,
+        "num": 421875,
+        "word": "陈飞宇朋友圈",
+        "onboard_time": 1744106782,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370831,
+        "num": 370831,
+        "word": "专家建议利用美股暴跌把股市搞起来",
+        "onboard_time": 1744118903,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 337911,
+        "num": 337911,
+        "word": "有一种中国风叫牡丹",
+        "onboard_time": 1744111822,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334816,
+        "num": 334816,
+        "word": "上海男篮vs广东男篮",
+        "onboard_time": 1744113262,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317474,
+        "num": 317474,
+        "word": "吴世勋连线",
+        "onboard_time": 1744120942,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315721,
+        "num": 315721,
+        "word": "当地蜜雪冰城回应招牌变绿色",
+        "onboard_time": 1744104321,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295719,
+        "num": 295719,
+        "word": "这剧过了第一集就好看了",
+        "onboard_time": 1744121424,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 777479,
+        "num": 290183,
+        "word": "女子称遭男友性侵立案两年后被撤案",
+        "onboard_time": 1744116323,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310311,
+        "num": 288863,
+        "word": "甲亢哥可能再直播2个城市",
+        "onboard_time": 1744105222,
+        "rank": 21,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 283645,
+        "num": 283645,
+        "word": "张艺兴不参加EXO周年纪念活动",
+        "onboard_time": 1744114462,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104803,
+        "num": 268195,
+        "word": "北控男篮vs山东男篮",
+        "onboard_time": 1744121843,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14292,
+        "num": 266998,
+        "word": "贪官买宝马不敢开罩起来放地下室",
+        "onboard_time": 1744122204,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 266381,
+        "num": 266381,
+        "word": "刘宇宁为粉丝的钱操碎了心",
+        "onboard_time": 1744119803,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243584,
+        "num": 243584,
+        "word": "男孩带着哭腔问180斤能救吗",
+        "onboard_time": 1744113982,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230459,
+        "num": 230459,
+        "word": "你支持携带宠物上高铁吗",
+        "onboard_time": 1744118843,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177147,
+        "num": 228038,
+        "word": "广末凉子的崎岖人生",
+        "onboard_time": 1744121003,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10667,
+        "num": 227951,
+        "word": "男子醉酒划14辆车将面临赔钱又坐牢",
+        "onboard_time": 1744122204,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227924,
+        "num": 227924,
+        "word": "金子涵曾瘦到49公斤",
+        "onboard_time": 1744115121,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209162,
+        "num": 209162,
+        "word": "棋士大结局",
+        "onboard_time": 1744121544,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185972,
+        "num": 185972,
+        "word": "体重下降的50个冷知识",
+        "onboard_time": 1744101921,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 172934,
+        "num": 172934,
+        "word": "外交部回应特朗普威胁再加征50%关税",
+        "onboard_time": 1744094123,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166645,
+        "num": 166645,
+        "word": "美国单边霸凌终将反噬自身",
+        "onboard_time": 1744104502,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165926,
+        "num": 165926,
+        "word": "探访铁路宠物托运流程",
+        "onboard_time": 1744122204,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164233,
+        "num": 164233,
+        "word": "女子称订婚后提分手遭男友性侵",
+        "onboard_time": 1744118362,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163310,
+        "num": 163310,
+        "word": "女生在机场狂炫2斤酸奶吃出痛苦面具",
+        "onboard_time": 1744112422,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160583,
+        "num": 160583,
+        "word": "若美国执意打关税战中方奉陪到底",
+        "onboard_time": 1744112542,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160049,
+        "num": 160049,
+        "word": "招牌禁用红黑蓝色商家称是自费",
+        "onboard_time": 1744116861,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156565,
+        "num": 156565,
+        "word": "泡泡鱼被刘宇宁翻牌",
+        "onboard_time": 1744122324,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152520,
+        "num": 152520,
+        "word": "上班前和上班一年后的区别",
+        "onboard_time": 1744116801,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151790,
+        "num": 151790,
+        "word": "纽股开盘前特朗普再发文引不满",
+        "onboard_time": 1744119443,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150684,
+        "num": 150684,
+        "word": "如美方一意孤行中方奉陪到底",
+        "onboard_time": 1744104381,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150080,
+        "num": 150080,
+        "word": "有些电视剧真可以刷N次",
+        "onboard_time": 1744094723,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138777,
+        "num": 138777,
+        "word": "EXO直播",
+        "onboard_time": 1744113142,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138640,
+        "num": 138640,
+        "word": "meiko状态",
+        "onboard_time": 1744117943,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138624,
+        "num": 138624,
+        "word": "棋士",
+        "onboard_time": 1744118963,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136804,
+        "num": 136804,
+        "word": "CBA",
+        "onboard_time": 1744122263,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135363,
+        "num": 135363,
+        "word": "林允发质",
+        "onboard_time": 1744117583,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济是一片大海#"
+    }
+  }
+}
