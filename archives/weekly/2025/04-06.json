@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744123445248,
+  "endTime": 1744126053900,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -403,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1199878,
+      "num": 641205,
+      "word": "金子涵脸都凹进去了",
+      "onboard_time": 1744124063,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1196332,
       "num": 679207,
       "word": "文和友",
@@ -433,6 +441,14 @@
       "onboard_time": 1744100062,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1158811,
+      "num": 393434,
+      "word": "孕妇做四维意外拍下宝宝干饭瞬间",
+      "onboard_time": 1744123104,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1150950,
@@ -811,12 +827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 853533,
-      "num": 364037,
-      "word": "孕妇做四维意外拍下宝宝干饭瞬间",
-      "onboard_time": 1744123104,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 855366,
+      "num": 614727,
+      "word": "特朗普喊话欧盟购买3500亿美元能源",
+      "onboard_time": 1744123582,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 841129,
@@ -1123,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 714210,
+      "num": 1114273,
+      "word": "贪官买宝马不敢开罩起来放地下室",
+      "onboard_time": 1744122204,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 711417,
       "num": 371108,
       "word": "原来一根头发可以分叉这么多",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1744095141,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 637387,
+      "num": 637387,
+      "word": "汇率",
+      "onboard_time": 1744124544,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 633645,
@@ -2036,7 +2068,7 @@
     },
     {
       "raw_hot": 410664,
-      "num": 360760,
+      "num": 407931,
       "word": "这剧过了第一集就好看了",
       "onboard_time": 1744121424,
       "rank": 19,
@@ -2185,6 +2217,14 @@
       "onboard_time": 1744086685,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 388876,
+      "num": 388876,
+      "word": "温州18岁失联男孩确认身亡",
+      "onboard_time": 1744124363,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 388440,
@@ -2457,6 +2497,14 @@
       "onboard_time": 1744104803,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 348590,
+      "num": 348590,
+      "word": "孙俪凭什么当二十多年的女一",
+      "onboard_time": 1744124483,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 346952,
@@ -3523,14 +3571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249408,
-      "num": 324565,
-      "word": "贪官买宝马不敢开罩起来放地下室",
-      "onboard_time": 1744122204,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 249375,
       "num": 249375,
       "word": "孟子义单手骑马",
@@ -3859,6 +3899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226834,
+      "num": 226834,
+      "word": "小欢喜陶子回来了",
+      "onboard_time": 1744124602,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226831,
       "num": 226831,
       "word": "迪丽热巴早期随拍",
@@ -4089,6 +4137,14 @@
       "onboard_time": 1744000224,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215860,
+      "num": 215860,
+      "word": "李现李一桐江相4月底开机",
+      "onboard_time": 1744123884,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 215385,
@@ -4443,6 +4499,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203024,
+      "num": 397532,
+      "word": "股民押中农业股1天从亏5万到赚5万",
+      "onboard_time": 1744123823,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 202999,
+      "num": 196139,
+      "word": "张镇麟 哈维挺邪乎啊",
+      "onboard_time": 1744125742,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202414,
       "num": 137158,
       "word": "救援队在缅甸发现20公斤黄金",
@@ -4521,6 +4593,22 @@
       "onboard_time": 1744086325,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 199601,
+      "num": 283166,
+      "word": "刘宇宁直播回应万花世界",
+      "onboard_time": 1744125683,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199240,
+      "num": 199240,
+      "word": "女医生惨遭丧子之痛还带来凶宅官司",
+      "onboard_time": 1744125082,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198720,
@@ -4715,6 +4803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 193348,
+      "num": 193348,
+      "word": "6个儿子洗澡爸爸直接军事化管理",
+      "onboard_time": 1744122863,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193261,
       "num": 193261,
       "word": "让手机有玩缩力 字体设成楷体",
@@ -4728,6 +4824,14 @@
       "word": "向鹏11比9弗朗西斯卡",
       "onboard_time": 1743922881,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193243,
+      "num": 193243,
+      "word": "教练晒林诗栋被网友劝遮一下手表",
+      "onboard_time": 1744123344,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -5627,6 +5731,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 169338,
+      "num": 169338,
+      "word": "P图姐给黄俊捷发律师函",
+      "onboard_time": 1744125563,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169084,
       "num": 169084,
       "word": "阴阳师",
@@ -5777,6 +5889,14 @@
       "onboard_time": 1744006402,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166506,
+      "num": 166506,
+      "word": "TizzyT当导师都没空官宣演唱会吗",
+      "onboard_time": 1744124663,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 166245,
@@ -6243,14 +6363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153125,
-      "num": 153125,
-      "word": "6个儿子洗澡爸爸直接军事化管理",
-      "onboard_time": 1744122863,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152985,
       "num": 103121,
       "word": "梁咏琪说张远唱的巨好听",
@@ -6427,12 +6539,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149540,
+      "num": 149540,
+      "word": "徐杰晚安",
+      "onboard_time": 1744125142,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149349,
       "num": 149349,
       "word": "如美升级关税措施中方将坚决反制",
       "onboard_time": 1744102522,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149319,
+      "num": 149319,
+      "word": "安宥真和张元英2018VS2025",
+      "onboard_time": 1744124963,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 148755,
@@ -6521,14 +6649,6 @@
       "onboard_time": 1744004003,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146426,
-      "num": 146426,
-      "word": "教练晒林诗栋被网友劝遮一下手表",
-      "onboard_time": 1744123344,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 145769,
@@ -6691,6 +6811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141202,
+      "num": 141202,
+      "word": "棋士22集鲨疯了",
+      "onboard_time": 1744124243,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140837,
       "num": 140837,
       "word": "甲亢哥保镖一直在吃东西",
@@ -6777,6 +6905,14 @@
       "onboard_time": 1744090583,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139232,
+      "num": 139232,
+      "word": "马东说自己的偶像是成毅老师",
+      "onboard_time": 1744125683,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 139215,
@@ -7832,6 +7968,14 @@
       "word": "贾一凡vlog更新",
       "onboard_time": 1743918860,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114185,
+      "num": 193509,
+      "word": "看完沪粤大战心脏受不了",
+      "onboard_time": 1744125803,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -9251,6 +9395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57614,
+      "num": 272692,
+      "word": "小区物业私自将地库改成泳池被叫停",
+      "onboard_time": 1744124782,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57417,
       "num": 159554,
       "word": "向阳花赵丽颖又一次呐喊",
@@ -9731,6 +9883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31013,
+      "num": 198678,
+      "word": "中国女足5比1泰国女足",
+      "onboard_time": 1744125503,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30842,
       "num": 30842,
       "word": "外国人的视角打开周深演唱会",
@@ -10161,6 +10321,14 @@
       "onboard_time": 1743971893,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12636,
+      "num": 197684,
+      "word": "市监局回应3员工上班看视频睡觉",
+      "onboard_time": 1744125742,
+      "rank": 30,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 12291,

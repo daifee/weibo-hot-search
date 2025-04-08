@@ -1,0 +1,410 @@
+{
+  "runTime": 1744126053900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 714210,
+        "num": 1114273,
+        "word": "贪官买宝马不敢开罩起来放地下室",
+        "onboard_time": 1744122204,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646734,
+        "num": 646734,
+        "word": "南京地铁回应乘客看到诡异人脸",
+        "onboard_time": 1744107382,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219324,
+        "num": 641418,
+        "word": "中国不惹事也绝不怕事",
+        "onboard_time": 1744120942,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1199878,
+        "num": 641205,
+        "word": "金子涵脸都凹进去了",
+        "onboard_time": 1744124063,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637387,
+        "num": 637387,
+        "word": "汇率",
+        "onboard_time": 1744124544,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 855366,
+        "num": 614727,
+        "word": "特朗普喊话欧盟购买3500亿美元能源",
+        "onboard_time": 1744123582,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 510975,
+        "num": 510975,
+        "word": "是严浩翔的话那很正常了",
+        "onboard_time": 1744117343,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407931,
+        "num": 407931,
+        "word": "这剧过了第一集就好看了",
+        "onboard_time": 1744121424,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398080,
+        "num": 398080,
+        "word": "自称现做网红蛋糕实为去年12月生产",
+        "onboard_time": 1744120163,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203024,
+        "num": 397532,
+        "word": "股民押中农业股1天从亏5万到赚5万",
+        "onboard_time": 1744123823,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1746665,
+        "num": 394945,
+        "word": "Jennie杂志尺度好大",
+        "onboard_time": 1744115062,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1158811,
+        "num": 393434,
+        "word": "孕妇做四维意外拍下宝宝干饭瞬间",
+        "onboard_time": 1744123104,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466454,
+        "num": 389387,
+        "word": "电脑微信会惩罚每一个分手的人",
+        "onboard_time": 1744107982,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 388876,
+        "num": 388876,
+        "word": "温州18岁失联男孩确认身亡",
+        "onboard_time": 1744124363,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370826,
+        "num": 370826,
+        "word": "金子涵去年8月曾瘦脱相",
+        "onboard_time": 1744110682,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368123,
+        "num": 368123,
+        "word": "质疑严浩翔导师身份选手道歉",
+        "onboard_time": 1744120343,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348590,
+        "num": 348590,
+        "word": "孙俪凭什么当二十多年的女一",
+        "onboard_time": 1744124483,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300043,
+        "num": 300043,
+        "word": "经纪人不让祝绪丹体重低于80斤",
+        "onboard_time": 1744108642,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199601,
+        "num": 283166,
+        "word": "刘宇宁直播回应万花世界",
+        "onboard_time": 1744125683,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57614,
+        "num": 272692,
+        "word": "小区物业私自将地库改成泳池被叫停",
+        "onboard_time": 1744124782,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329232,
+        "num": 271562,
+        "word": "女子称遭男友性侵立案两年后被撤案",
+        "onboard_time": 1744116323,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269611,
+        "num": 269611,
+        "word": "吴世勋连线",
+        "onboard_time": 1744120942,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260239,
+        "num": 260239,
+        "word": "念无双全员be",
+        "onboard_time": 1744118362,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226834,
+        "num": 226834,
+        "word": "小欢喜陶子回来了",
+        "onboard_time": 1744124602,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224136,
+        "num": 224136,
+        "word": "有一种中国风叫牡丹",
+        "onboard_time": 1744111822,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215860,
+        "num": 215860,
+        "word": "李现李一桐江相4月底开机",
+        "onboard_time": 1744123884,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215386,
+        "num": 215386,
+        "word": "外交部回应美副总统说中国人乡巴佬",
+        "onboard_time": 1744113142,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210400,
+        "num": 210400,
+        "word": "当地蜜雪冰城回应招牌变绿色",
+        "onboard_time": 1744104321,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199240,
+        "num": 199240,
+        "word": "女医生惨遭丧子之痛还带来凶宅官司",
+        "onboard_time": 1744125082,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31013,
+        "num": 198678,
+        "word": "中国女足5比1泰国女足",
+        "onboard_time": 1744125503,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12636,
+        "num": 197684,
+        "word": "市监局回应3员工上班看视频睡觉",
+        "onboard_time": 1744125742,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 202999,
+        "num": 196139,
+        "word": "张镇麟 哈维挺邪乎啊",
+        "onboard_time": 1744125742,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191496,
+        "num": 194770,
+        "word": "陈飞宇朋友圈",
+        "onboard_time": 1744106782,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114185,
+        "num": 193509,
+        "word": "看完沪粤大战心脏受不了",
+        "onboard_time": 1744125803,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193348,
+        "num": 193348,
+        "word": "6个儿子洗澡爸爸直接军事化管理",
+        "onboard_time": 1744122863,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193243,
+        "num": 193243,
+        "word": "教练晒林诗栋被网友劝遮一下手表",
+        "onboard_time": 1744123344,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182047,
+        "num": 182047,
+        "word": "男孩带着哭腔问180斤能救吗",
+        "onboard_time": 1744113982,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175716,
+        "num": 175716,
+        "word": "张艺兴不参加EXO周年纪念活动",
+        "onboard_time": 1744114462,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169338,
+        "num": 169338,
+        "word": "P图姐给黄俊捷发律师函",
+        "onboard_time": 1744125563,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166506,
+        "num": 166506,
+        "word": "TizzyT当导师都没空官宣演唱会吗",
+        "onboard_time": 1744124663,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155773,
+        "num": 155773,
+        "word": "曹颖回应李晟镜头少",
+        "onboard_time": 1744122804,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149540,
+        "num": 149540,
+        "word": "徐杰晚安",
+        "onboard_time": 1744125142,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149502,
+        "num": 149502,
+        "word": "如美方一意孤行中方奉陪到底",
+        "onboard_time": 1744104381,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149319,
+        "num": 149319,
+        "word": "安宥真和张元英2018VS2025",
+        "onboard_time": 1744124963,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141202,
+        "num": 141202,
+        "word": "棋士22集鲨疯了",
+        "onboard_time": 1744124243,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139232,
+        "num": 139232,
+        "word": "马东说自己的偶像是成毅老师",
+        "onboard_time": 1744125683,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139174,
+        "num": 139174,
+        "word": "你支持携带宠物上高铁吗",
+        "onboard_time": 1744118843,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138378,
+        "num": 138378,
+        "word": "哈维超远三分绝杀",
+        "onboard_time": 1744122504,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132843,
+        "num": 132843,
+        "word": "探访铁路宠物托运流程",
+        "onboard_time": 1744122204,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98195,
+        "num": 121636,
+        "word": "胡明轩罚球",
+        "onboard_time": 1744123162,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济是一片大海#"
+    }
+  }
+}

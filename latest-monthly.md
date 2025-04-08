@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/08 22:44:05
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/08 23:27:33
 </p>
 </blockquote>
 <p>
@@ -843,6 +843,12 @@ VaVa 灰原哀（热度：1212430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E8%84%B8%E9%83%BD%E5%87%B9%E8%BF%9B%E5%8E%BB%E4%BA%86%23" target="weibo">
+金子涵脸都凹进去了（热度：1199878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8C%E5%8F%8B%23" target="weibo">
 文和友（热度：1196332）
 </a>
@@ -887,6 +893,12 @@ VaVa 灰原哀（热度：1212430）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E7%94%B0%E6%88%91%E4%B8%8D%E7%BB%93%E5%A9%9A%E4%B9%9F%E5%8F%AF%E4%BB%A5%23" target="weibo">
 梁田我不结婚也可以（热度：1161816）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E5%81%9A%E5%9B%9B%E7%BB%B4%E6%84%8F%E5%A4%96%E6%8B%8D%E4%B8%8B%E5%AE%9D%E5%AE%9D%E5%B9%B2%E9%A5%AD%E7%9E%AC%E9%97%B4%23" target="weibo">
+孕妇做四维意外拍下宝宝干饭瞬间（热度：1158811）
 </a>
 </li>
 
@@ -1587,14 +1599,14 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%AB%99%E5%A7%90%E8%BF%99%E4%B9%88%E5%8B%87%23" target="weibo">
-谁家站姐这么勇（热度：855241）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%8A%E8%AF%9D%E6%AC%A7%E7%9B%9F%E8%B4%AD%E4%B9%B03500%E4%BA%BF%E7%BE%8E%E5%85%83%E8%83%BD%E6%BA%90%23" target="weibo">
+特朗普喊话欧盟购买3500亿美元能源（热度：855366）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E5%81%9A%E5%9B%9B%E7%BB%B4%E6%84%8F%E5%A4%96%E6%8B%8D%E4%B8%8B%E5%AE%9D%E5%AE%9D%E5%B9%B2%E9%A5%AD%E7%9E%AC%E9%97%B4%23" target="weibo">
-孕妇做四维意外拍下宝宝干饭瞬间（热度：853533）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%AB%99%E5%A7%90%E8%BF%99%E4%B9%88%E5%8B%87%23" target="weibo">
+谁家站姐这么勇（热度：855241）
 </a>
 </li>
 
@@ -2073,6 +2085,12 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E4%B9%B0%E5%AE%9D%E9%A9%AC%E4%B8%8D%E6%95%A2%E5%BC%80%E7%BD%A9%E8%B5%B7%E6%9D%A5%E6%94%BE%E5%9C%B0%E4%B8%8B%E5%AE%A4%23" target="weibo">
+贪官买宝马不敢开罩起来放地下室（热度：714210）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%80%E6%A0%B9%E5%A4%B4%E5%8F%91%E5%8F%AF%E4%BB%A5%E5%88%86%E5%8F%89%E8%BF%99%E4%B9%88%E5%A4%9A%23" target="weibo">
 原来一根头发可以分叉这么多（热度：711417）
 </a>
@@ -2303,6 +2321,12 @@ kissoflife一夜掉粉20万（热度：668428）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E7%A9%BA%E7%9D%80%E8%84%96%E5%AD%90%E6%9D%A5%E6%8C%82%E7%9D%80%E8%BE%A3%E6%A4%92%E8%B5%B0%E4%BA%86%23" target="weibo">
 甲亢哥空着脖子来挂着辣椒走了（热度：638069）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%87%E7%8E%87%23" target="weibo">
+汇率（热度：637387）
 </a>
 </li>
 
@@ -4089,6 +4113,12 @@ TVB女演员陈思齐摆摊卖鸡爪（热度：399114）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E18%E5%B2%81%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%A9%E7%A1%AE%E8%AE%A4%E8%BA%AB%E4%BA%A1%23" target="weibo">
+温州18岁失联男孩确认身亡（热度：388876）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E8%8A%82%E5%90%8E%E4%B8%8A%E7%8F%AD%E5%89%8D%E4%B8%89%E5%A4%A9%E5%B0%91%E5%B9%B2%E6%B4%BB%23" target="weibo">
 医生建议节后上班前三天少干活（热度：388440）
 </a>
@@ -4667,6 +4697,12 @@ BoA向朴娜莱道歉（热度：353684）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E5%89%AF%E6%95%99%E6%8E%88%E5%89%8D%E5%A4%AB%E5%87%BA%E8%BD%A8%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%A5%B3%E5%AD%90%E5%86%8D%E5%8F%91%E5%A3%B0%23" target="weibo">
 举报副教授前夫出轨女学生女子再发声（热度：348876）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%87%AD%E4%BB%80%E4%B9%88%E5%BD%93%E4%BA%8C%E5%8D%81%E5%A4%9A%E5%B9%B4%E7%9A%84%E5%A5%B3%E4%B8%80%23" target="weibo">
+孙俪凭什么当二十多年的女一（热度：348590）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ EXO周边（热度：269976）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%94%B2%E5%84%92%E7%A7%B0%E4%BA%BA%E8%B4%A9%E5%AD%90%E5%BF%85%E9%A1%BB%E6%AD%BB%E5%88%91%23" target="weibo">
 姜甲儒称人贩子必须死刑（热度：267809）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E8%8A%9D%E6%98%AF%E4%B8%8D%E6%98%AF%E4%BA%B2%E7%94%9F%E7%9A%84%23" target="weibo">
-阿芝是不是亲生的（热度：267737）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%AB%99%E5%A7%90%E6%8B%8D%E7%9A%84%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
-杨幂站姐拍的迪丽热巴（热度：267494）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23718%E6%96%A4%E5%B0%8F%E4%BC%99%E5%9B%A0%E6%83%85%E7%BB%AA%E9%97%AE%E9%A2%98%E4%B8%80%E9%A1%BF%E5%90%8325%E4%B8%AA%E5%8C%85%E5%AD%90%23" target="weibo">
-718斤小伙因情绪问题一顿吃25个包子（热度：267155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B3%BB%E8%B1%AA%E6%B1%82%E7%B2%89%E4%B8%9D%E5%85%B3%E7%81%AF%E7%89%8C%23" target="weibo">
-张峻豪求粉丝关灯牌（热度：266834）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%BC%94%E7%BB%83%E6%AD%A6%E5%99%A8%E5%B0%84%E7%A8%8B%E8%83%BD%E8%A6%86%E7%9B%96%E5%8F%B0%E6%B9%BE%E5%B2%9B%E5%85%A8%E5%A2%83%23" target="weibo">
-解放军演练武器射程能覆盖台湾岛全境（热度：266733）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B8%BA%E7%B2%89%E4%B8%9D%E7%9A%84%E9%92%B1%E6%93%8D%E7%A2%8E%E4%BA%86%E5%BF%83%23" target="weibo">
-刘宇宁为粉丝的钱操碎了心（热度：266381）
 </a>
 </li>
 
