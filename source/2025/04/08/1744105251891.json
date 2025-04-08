@@ -1,0 +1,410 @@
+{
+  "runTime": 1744105251891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1555540,
+        "num": 1555540,
+        "word": "金子涵宣布退圈",
+        "onboard_time": 1744093163,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 770432,
+        "num": 770432,
+        "word": "美国一瓶中国产洗发水涨了12美元",
+        "onboard_time": 1744095623,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110334,
+        "num": 735404,
+        "word": "增强有效应对美关税冲击的信心",
+        "onboard_time": 1744095202,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 823045,
+        "num": 734117,
+        "word": "梁田我不结婚也可以",
+        "onboard_time": 1744100062,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 732053,
+        "num": 732053,
+        "word": "河北迁安3.7级地震",
+        "onboard_time": 1744101142,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 644174,
+        "num": 644174,
+        "word": "中方回应万斯无礼言论",
+        "onboard_time": 1744101442,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 636010,
+        "num": 636010,
+        "word": "菠萝拌黄瓜",
+        "onboard_time": 1744101681,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 574202,
+        "num": 574202,
+        "word": "陈飞宇说从225斤瘦下来全靠跑步",
+        "onboard_time": 1744102340,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508435,
+        "num": 508435,
+        "word": "中国人不惹事也不怕事",
+        "onboard_time": 1744095022,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 401343,
+        "num": 466789,
+        "word": "文和友创始人直播喊话卤鹅哥遭抵制",
+        "onboard_time": 1744103901,
+        "rank": 9,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 930783,
+        "num": 466525,
+        "word": "男子不同意分手逼女友喝农药身亡",
+        "onboard_time": 1744091601,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517329,
+        "num": 465387,
+        "word": "清华无需宣传分够了我自会去",
+        "onboard_time": 1744102041,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 462021,
+        "num": 462021,
+        "word": "金子涵最后一次公开活动是海影节",
+        "onboard_time": 1744102101,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446390,
+        "num": 446390,
+        "word": "有些电视剧真可以刷N次",
+        "onboard_time": 1744094723,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381779,
+        "num": 381779,
+        "word": "新说唱选手质疑严浩翔导师身份",
+        "onboard_time": 1744104561,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374017,
+        "num": 374017,
+        "word": "陈赫做了五哈兄弟团美甲",
+        "onboard_time": 1744102762,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356070,
+        "num": 356070,
+        "word": "外交部回应特朗普威胁再加征50%关税",
+        "onboard_time": 1744094123,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 312474,
+        "num": 312474,
+        "word": "体重下降的50个冷知识",
+        "onboard_time": 1744101921,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 288459,
+        "num": 288459,
+        "word": "甲亢哥可能再直播2个城市",
+        "onboard_time": 1744105222,
+        "rank": 18,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 125547,
+        "num": 271777,
+        "word": "张艺兴出道周年直播",
+        "onboard_time": 1744104981,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 351255,
+        "num": 271571,
+        "word": "赴山海",
+        "onboard_time": 1744102581,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271340,
+        "num": 271340,
+        "word": "好友为房琪发声",
+        "onboard_time": 1744103721,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266184,
+        "num": 266184,
+        "word": "Jennie自信展露身体线条",
+        "onboard_time": 1744104622,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245779,
+        "num": 245779,
+        "word": "浙江一35岁医师在岗期间离世",
+        "onboard_time": 1744102703,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59939,
+        "num": 243992,
+        "word": "2025LPL",
+        "onboard_time": 1744099583,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253686,
+        "num": 243302,
+        "word": "谢娜 谁说我怀孕了",
+        "onboard_time": 1744090162,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242343,
+        "num": 242343,
+        "word": "文和友回应甲亢哥直播遇霸座老板",
+        "onboard_time": 1744100903,
+        "rank": 26,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 195934,
+        "num": 223182,
+        "word": "美国民众呼吁政府别再摧毁美国了",
+        "onboard_time": 1744103302,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204949,
+        "num": 204949,
+        "word": "当地蜜雪冰城回应招牌变绿色",
+        "onboard_time": 1744104321,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201605,
+        "num": 201605,
+        "word": "股市收盘全线飘红",
+        "onboard_time": 1744098922,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201094,
+        "num": 201094,
+        "word": "停播半年后三只羊小杨臻选APP上线",
+        "onboard_time": 1744087945,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 187846,
+        "num": 187846,
+        "word": "念无双",
+        "onboard_time": 1744104381,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181979,
+        "num": 181979,
+        "word": "谢娜称有三个女儿很满足",
+        "onboard_time": 1744099701,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178114,
+        "num": 178114,
+        "word": "上海人均4000元的云南菜",
+        "onboard_time": 1744097482,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176223,
+        "num": 176223,
+        "word": "如美方一意孤行中方奉陪到底",
+        "onboard_time": 1744104381,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174411,
+        "num": 174411,
+        "word": "林峯称妻子换保姆对得起他人",
+        "onboard_time": 1744093222,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172764,
+        "num": 172764,
+        "word": "锤娜丽莎辟谣减肥70斤",
+        "onboard_time": 1744104742,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168260,
+        "num": 168260,
+        "word": "已有9部电影定档五一档",
+        "onboard_time": 1744098681,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164996,
+        "num": 164996,
+        "word": "美国单边霸凌终将反噬自身",
+        "onboard_time": 1744104502,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162006,
+        "num": 162006,
+        "word": "央国企300亿真金白银增持回购",
+        "onboard_time": 1744099641,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130144,
+        "num": 161913,
+        "word": "阿Sa还好没拔罐",
+        "onboard_time": 1744104202,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161897,
+        "num": 161897,
+        "word": "刘浩存 小马宝莉",
+        "onboard_time": 1744097782,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158267,
+        "num": 158267,
+        "word": "中方多部门发声",
+        "onboard_time": 1744104803,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158121,
+        "num": 158121,
+        "word": "11岁男孩把100克金条吞入腹中",
+        "onboard_time": 1744085664,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149349,
+        "num": 149349,
+        "word": "如美升级关税措施中方将坚决反制",
+        "onboard_time": 1744102522,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148100,
+        "num": 148100,
+        "word": "20岁的欧阳娣娣",
+        "onboard_time": 1744100003,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144057,
+        "num": 144057,
+        "word": "王蓉唱完免我蹉跎苦睡不着",
+        "onboard_time": 1744103601,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135239,
+        "num": 135239,
+        "word": "赴山海下证",
+        "onboard_time": 1744104681,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127181,
+        "num": 127181,
+        "word": "手把手教你办理宠物托运",
+        "onboard_time": 1744102101,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126977,
+        "num": 126977,
+        "word": "美国害怕多极化世界",
+        "onboard_time": 1744103000,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "跟着总书记领略中华文明"
+    }
+  }
+}

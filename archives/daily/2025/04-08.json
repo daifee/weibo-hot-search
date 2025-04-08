@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744104457753,
+  "endTime": 1744105251891,
   "band_list": [
     {
       "raw_hot": 10117420,
@@ -291,12 +291,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 644174,
+      "num": 644174,
+      "word": "中方回应万斯无礼言论",
+      "onboard_time": 1744101442,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 640210,
       "num": 597150,
       "word": "特朗普称将提出1万亿美元国防预算",
       "onboard_time": 1744095141,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 636010,
+      "num": 636010,
+      "word": "菠萝拌黄瓜",
+      "onboard_time": 1744101681,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 625173,
@@ -315,20 +331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 606154,
-      "num": 606154,
-      "word": "中方回应万斯无礼言论",
-      "onboard_time": 1744101442,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 596191,
       "num": 335396,
       "word": "11岁男孩把100克金条吞入腹中",
       "onboard_time": 1744085664,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 574202,
+      "num": 574202,
+      "word": "陈飞宇说从225斤瘦下来全靠跑步",
+      "onboard_time": 1744102340,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 565906,
@@ -347,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 536149,
-      "num": 536149,
-      "word": "菠萝拌黄瓜",
-      "onboard_time": 1744101681,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 530941,
       "num": 530941,
       "word": "特朗普拒绝欧盟零关税方案",
@@ -369,6 +377,14 @@
       "onboard_time": 1744095022,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 517329,
+      "num": 465387,
+      "word": "清华无需宣传分够了我自会去",
+      "onboard_time": 1744102041,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 517301,
@@ -409,14 +425,6 @@
       "onboard_time": 1744034904,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 451406,
-      "num": 451406,
-      "word": "清华无需宣传分够了我自会去",
-      "onboard_time": 1744102041,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 451210,
@@ -483,14 +491,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 418090,
-      "num": 418090,
-      "word": "陈飞宇说从225斤瘦下来全靠跑步",
-      "onboard_time": 1744102340,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 410907,
       "num": 410907,
       "word": "爆款短剧编剧收入高达一两百万",
@@ -513,6 +513,14 @@
       "onboard_time": 1744090823,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 401343,
+      "num": 466789,
+      "word": "文和友创始人直播喊话卤鹅哥遭抵制",
+      "onboard_time": 1744103901,
+      "rank": 23,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 400015,
@@ -577,6 +585,14 @@
       "onboard_time": 1744025182,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381779,
+      "num": 381779,
+      "word": "新说唱选手质疑严浩翔导师身份",
+      "onboard_time": 1744104561,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 379643,
@@ -691,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312474,
+      "num": 312474,
+      "word": "体重下降的50个冷知识",
+      "onboard_time": 1744101921,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 311896,
       "num": 394252,
       "word": "商务部新闻发言人就美方威胁升级对华关税发表谈话",
@@ -779,6 +803,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 288459,
+      "num": 288459,
+      "word": "甲亢哥可能再直播2个城市",
+      "onboard_time": 1744105222,
+      "rank": 18,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 285751,
       "num": 285751,
       "word": "文和友回应甲亢哥直播遇霸座老板",
@@ -843,6 +875,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 271340,
+      "num": 271340,
+      "word": "好友为房琪发声",
+      "onboard_time": 1744103721,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270969,
       "num": 270969,
       "word": "羊毛月账号已解封",
@@ -859,12 +899,12 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 266318,
-      "num": 266318,
-      "word": "体重下降的50个冷知识",
-      "onboard_time": 1744101921,
-      "rank": 39,
-      "category": "科学科普"
+      "raw_hot": 266184,
+      "num": 266184,
+      "word": "Jennie自信展露身体线条",
+      "onboard_time": 1744104622,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 263108,
@@ -977,22 +1017,6 @@
       "onboard_time": 1744095202,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 243045,
-      "num": 243045,
-      "word": "文和友创始人直播喊话卤鹅哥遭抵制",
-      "onboard_time": 1744103901,
-      "rank": 23,
-      "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 241183,
-      "num": 241183,
-      "word": "好友为房琪发声",
-      "onboard_time": 1744103721,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 240699,
@@ -1179,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204949,
+      "num": 204949,
+      "word": "当地蜜雪冰城回应招牌变绿色",
+      "onboard_time": 1744104321,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204785,
       "num": 271603,
       "word": "朱天天称林君怡倪秋云选她是要镜头",
@@ -1243,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195934,
+      "num": 418432,
+      "word": "美国民众呼吁政府别再摧毁美国了",
+      "onboard_time": 1744103302,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 195780,
       "num": 195780,
       "word": "诺一上法国新闻",
@@ -1305,6 +1345,14 @@
       "onboard_time": 1744094781,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187846,
+      "num": 187846,
+      "word": "念无双",
+      "onboard_time": 1744104381,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 187348,
@@ -1387,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176223,
+      "num": 176223,
+      "word": "如美方一意孤行中方奉陪到底",
+      "onboard_time": 1744104381,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175761,
       "num": 175761,
       "word": "金饰价涨回927元",
@@ -1417,6 +1473,14 @@
       "onboard_time": 1744078163,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 172764,
+      "num": 172764,
+      "word": "锤娜丽莎辟谣减肥70斤",
+      "onboard_time": 1744104742,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 172719,
@@ -1483,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164996,
+      "num": 164996,
+      "word": "美国单边霸凌终将反噬自身",
+      "onboard_time": 1744104502,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 164944,
       "num": 164944,
       "word": "哈尔滨司法局局长丁锐心梗去世",
@@ -1531,20 +1603,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159978,
-      "num": 159978,
-      "word": "如美方一意孤行中方奉陪到底",
-      "onboard_time": 1744104381,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 159370,
       "num": 278143,
       "word": "全球市场开始反弹",
       "onboard_time": 1744082542,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 158267,
+      "num": 158267,
+      "word": "中方多部门发声",
+      "onboard_time": 1744104803,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155598,
@@ -1627,6 +1699,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 149349,
+      "num": 149349,
+      "word": "如美升级关税措施中方将坚决反制",
+      "onboard_time": 1744102522,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149120,
       "num": 149120,
       "word": "邓超我都有点嗑你俩了",
@@ -1641,14 +1721,6 @@
       "onboard_time": 1744085844,
       "rank": 9,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 147470,
-      "num": 147470,
-      "word": "念无双",
-      "onboard_time": 1744104381,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 147445,
@@ -1705,22 +1777,6 @@
       "onboard_time": 1744077862,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 143129,
-      "num": 143129,
-      "word": "当地蜜雪冰城回应招牌变绿色",
-      "onboard_time": 1744104321,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142736,
-      "num": 142736,
-      "word": "如美升级关税措施中方将坚决反制",
-      "onboard_time": 1744102522,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 142344,
@@ -1811,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135239,
+      "num": 135239,
+      "word": "赴山海下证",
+      "onboard_time": 1744104681,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134212,
       "num": 134212,
       "word": "姚晨演一个像一个的原因找到了",
@@ -1867,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130144,
+      "num": 274801,
+      "word": "阿Sa还好没拔罐",
+      "onboard_time": 1744104202,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128608,
       "num": 128608,
       "word": "这样早起可能比熬夜更伤身",
@@ -1875,12 +1947,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 126963,
-      "num": 126963,
+      "raw_hot": 127181,
+      "num": 127181,
       "word": "手把手教你办理宠物托运",
       "onboard_time": 1744102101,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126977,
+      "num": 286643,
+      "word": "美国害怕多极化世界",
+      "onboard_time": 1744103000,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126315,
@@ -1897,6 +1977,14 @@
       "onboard_time": 1744096104,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125547,
+      "num": 271777,
+      "word": "张艺兴出道周年直播",
+      "onboard_time": 1744104981,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 124322,
@@ -1937,14 +2025,6 @@
       "onboard_time": 1744018703,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118898,
-      "num": 286643,
-      "word": "美国害怕多极化世界",
-      "onboard_time": 1744103000,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 117959,
@@ -2081,14 +2161,6 @@
       "onboard_time": 1744031424,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93634,
-      "num": 274801,
-      "word": "阿Sa还好没拔罐",
-      "onboard_time": 1744104202,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 93019,
@@ -2299,20 +2371,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 59939,
+      "num": 243992,
+      "word": "2025LPL",
+      "onboard_time": 1744099583,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 59911,
       "num": 59911,
       "word": "中国诚通增持中国股票资产",
       "onboard_time": 1744041201,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 59021,
-      "num": 209308,
-      "word": "2025LPL",
-      "onboard_time": 1744099583,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 58793,
@@ -2329,14 +2401,6 @@
       "onboard_time": 1744080141,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 56381,
-      "num": 418432,
-      "word": "美国民众呼吁政府别再摧毁美国了",
-      "onboard_time": 1744103302,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 55312,
