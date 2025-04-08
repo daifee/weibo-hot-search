@@ -1,0 +1,410 @@
+{
+  "runTime": 1744144841903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 78783,
+        "num": 78783,
+        "word": "美国多地民众开始囤货",
+        "onboard_time": 1744139954,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75858,
+        "num": 75858,
+        "word": "外交部回应特朗普威胁再加征50%关税",
+        "onboard_time": 1744094123,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22036,
+        "num": 56167,
+        "word": "中国不惹事也绝不怕事",
+        "onboard_time": 1744120942,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53967,
+        "num": 53967,
+        "word": "离境退税即买即退今起全国推广",
+        "onboard_time": 1744136835,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47477,
+        "num": 47477,
+        "word": "金子涵脸都凹进去了",
+        "onboard_time": 1744124063,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46405,
+        "num": 46405,
+        "word": "办好自己的事中国有底气",
+        "onboard_time": 1744127542,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39837,
+        "num": 39837,
+        "word": "女医生惨遭丧子之痛还带来凶宅官司",
+        "onboard_time": 1744125082,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34913,
+        "num": 34913,
+        "word": "宠物狗被杀韩国女子欲杀父报仇",
+        "onboard_time": 1744123969,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30997,
+        "num": 30997,
+        "word": "贪官买宝马不敢开罩起来放地下室",
+        "onboard_time": 1744122204,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20551,
+        "num": 30831,
+        "word": "念无双全员be",
+        "onboard_time": 1744118362,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80854,
+        "num": 30825,
+        "word": "Jennie杂志尺度好大",
+        "onboard_time": 1744115062,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 61746,
+        "num": 30752,
+        "word": "贾静雯回应股市受灾情况",
+        "onboard_time": 1744129220,
+        "rank": 11,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 30672,
+        "num": 30672,
+        "word": "美所谓对等关税单边霸凌损人害己",
+        "onboard_time": 1744130838,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46667,
+        "num": 30659,
+        "word": "掘金解雇马龙",
+        "onboard_time": 1744140493,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38446,
+        "num": 30653,
+        "word": "孕妇做四维意外拍下宝宝干饭瞬间",
+        "onboard_time": 1744123104,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34304,
+        "num": 30653,
+        "word": "电脑微信会惩罚每一个分手的人",
+        "onboard_time": 1744107982,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30634,
+        "num": 30634,
+        "word": "里根38年前就讲过滥施关税的下场",
+        "onboard_time": 1744141454,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27404,
+        "num": 27404,
+        "word": "外交部回应美副总统说中国人乡巴佬",
+        "onboard_time": 1744113142,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20326,
+        "num": 27233,
+        "word": "质疑严浩翔导师身份选手道歉",
+        "onboard_time": 1744120343,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19000,
+        "num": 27162,
+        "word": "棋士22",
+        "onboard_time": 1744131978,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27103,
+        "num": 27103,
+        "word": "旱厕边生产冒牌咖啡成本5元卖69",
+        "onboard_time": 1744141816,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26806,
+        "num": 26806,
+        "word": "市监局回应3员工上班看视频睡觉",
+        "onboard_time": 1744125742,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 22714,
+        "num": 22714,
+        "word": "温州18岁失联男孩确认身亡",
+        "onboard_time": 1744124363,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16552,
+        "num": 22329,
+        "word": "这剧过了第一集就好看了",
+        "onboard_time": 1744121424,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16701,
+        "num": 22225,
+        "word": "孙俪凭什么当二十多年的女一",
+        "onboard_time": 1744124483,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22212,
+        "num": 22212,
+        "word": "偶遇张颂文逛街",
+        "onboard_time": 1744129760,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22086,
+        "num": 22086,
+        "word": "男孩带着哭腔问180斤能救吗",
+        "onboard_time": 1744113982,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16234,
+        "num": 21541,
+        "word": "张艺兴不参加EXO周年纪念活动",
+        "onboard_time": 1744114462,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14812,
+        "num": 21323,
+        "word": "金子涵曾瘦到49公斤",
+        "onboard_time": 1744115121,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13255,
+        "num": 21309,
+        "word": "电视剧千秋令OST阵容",
+        "onboard_time": 1744144275,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21308,
+        "num": 21308,
+        "word": "女子称遭男友性侵立案两年后被撤案",
+        "onboard_time": 1744116323,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19411,
+        "num": 19411,
+        "word": "南京地铁回应乘客看到诡异人脸",
+        "onboard_time": 1744107382,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19347,
+        "num": 19347,
+        "word": "拜仁vs国际米兰",
+        "onboard_time": 1744138873,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18958,
+        "num": 18958,
+        "word": "当地蜜雪冰城回应招牌变绿色",
+        "onboard_time": 1744104321,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13011,
+        "num": 18943,
+        "word": "这个外国男人为何被称大胖媳妇",
+        "onboard_time": 1744143554,
+        "rank": 34,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 18928,
+        "num": 18928,
+        "word": "6个儿子洗澡爸爸直接军事化管理",
+        "onboard_time": 1744122863,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18766,
+        "num": 18766,
+        "word": "自称现做网红蛋糕实为去年12月生产",
+        "onboard_time": 1744120163,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18396,
+        "num": 18396,
+        "word": "美国单边霸凌终将反噬自身",
+        "onboard_time": 1744104502,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18083,
+        "num": 18083,
+        "word": "清朝ppt",
+        "onboard_time": 1744130597,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13174,
+        "num": 17747,
+        "word": "陶勇亲自为越发刚手术称手术顺利",
+        "onboard_time": 1744144514,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17723,
+        "num": 17723,
+        "word": "美威胁进一步对华加征50%关税",
+        "onboard_time": 1744133597,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17626,
+        "num": 17626,
+        "word": "林诗栋教练回应被网友劝遮一下手表",
+        "onboard_time": 1744126522,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17296,
+        "num": 17296,
+        "word": "如美方一意孤行中方奉陪到底",
+        "onboard_time": 1744104381,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16949,
+        "num": 16949,
+        "word": "缅甸地震致3645人死亡",
+        "onboard_time": 1744126702,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 10717,
+        "num": 16880,
+        "word": "美国政府正严重伤害美国人民",
+        "onboard_time": 1744143914,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16852,
+        "num": 16852,
+        "word": "股民押中农业股1天从亏5万到赚5万",
+        "onboard_time": 1744123823,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16797,
+        "num": 16797,
+        "word": "又一波增持来了",
+        "onboard_time": 1744127542,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16639,
+        "num": 16639,
+        "word": "中国人不惹事也不怕事",
+        "onboard_time": 1744095022,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15959,
+        "num": 16638,
+        "word": "伊朗外长重申不会与美国直接谈判",
+        "onboard_time": 1744137555,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13248,
+        "num": 16636,
+        "word": "棋士22集鲨疯了",
+        "onboard_time": 1744124243,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济是一片大海#"
+    }
+  }
+}

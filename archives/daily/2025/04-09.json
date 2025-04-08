@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744144052914,
+  "endTime": 1744144841903,
   "band_list": [
     {
       "raw_hot": 1108687,
@@ -555,23 +555,23 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29332,
-      "num": 29332,
+      "raw_hot": 30634,
+      "num": 30634,
       "word": "里根38年前就讲过滥施关税的下场",
       "onboard_time": 1744141454,
       "rank": 16,
       "category": "国际时政"
     },
     {
-      "raw_hot": 22896,
-      "num": 22896,
+      "raw_hot": 27103,
+      "num": 27103,
       "word": "旱厕边生产冒牌咖啡成本5元卖69",
       "onboard_time": 1744141816,
       "rank": 24,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19315,
+      "raw_hot": 19347,
       "num": 26097,
       "word": "拜仁vs国际米兰",
       "onboard_time": 1744138873,
@@ -603,20 +603,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 13255,
+      "num": 21309,
+      "word": "电视剧千秋令OST阵容",
+      "onboard_time": 1744144275,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 13174,
+      "num": 17747,
+      "word": "陶勇亲自为越发刚手术称手术顺利",
+      "onboard_time": 1744144514,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13011,
+      "num": 18995,
+      "word": "这个外国男人为何被称大胖媳妇",
+      "onboard_time": 1744143554,
+      "rank": 34,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 11909,
       "num": 18962,
       "word": "美国政府正严重伤害美国人民",
       "onboard_time": 1744143914,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 10499,
-      "num": 18995,
-      "word": "这个外国男人为何被称大胖媳妇",
-      "onboard_time": 1744143554,
-      "rank": 34,
-      "category": "民生新闻,网红"
     }
   ],
   "hotgov_list": [
