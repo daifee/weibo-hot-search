@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744082002531,
+  "endTime": 1744084147389,
   "band_list": [
     {
       "raw_hot": 10117420,
@@ -51,6 +51,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1218122,
+      "num": 1218122,
+      "word": "张钧甯方回应炒股损失约862万",
+      "onboard_time": 1744081822,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1134350,
       "num": 1134350,
       "word": "关税",
@@ -73,6 +81,14 @@
       "onboard_time": 1744071084,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1099489,
+      "num": 1099489,
+      "word": "朱天天曝创造101内幕",
+      "onboard_time": 1744083021,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1034078,
@@ -107,20 +123,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 815926,
+      "num": 815926,
+      "word": "特朗普支持率降至上任来最低",
+      "onboard_time": 1744079903,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 768613,
       "num": 768613,
       "word": "12306推出宠物托运功能",
       "onboard_time": 1744072524,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 736988,
-      "num": 736988,
-      "word": "特朗普支持率降至上任来最低",
-      "onboard_time": 1744079903,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 729002,
@@ -139,20 +155,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 644563,
+      "num": 644563,
+      "word": "中国为什么能全球第一个反制对等关税",
+      "onboard_time": 1744034605,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 625173,
       "num": 455390,
       "word": "发现男友已婚女子报警后被送精神病院",
       "onboard_time": 1744036225,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 538071,
-      "num": 538071,
-      "word": "中国为什么能全球第一个反制对等关税",
-      "onboard_time": 1744034605,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 517301,
@@ -177,6 +193,14 @@
       "onboard_time": 1744070421,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 484686,
+      "num": 484686,
+      "word": "马斯克转发一支铅笔视频",
+      "onboard_time": 1744082903,
+      "rank": 15,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 458767,
@@ -217,6 +241,14 @@
       "onboard_time": 1744069462,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424861,
+      "num": 424861,
+      "word": "芒果送甲亢哥终身会员卡",
+      "onboard_time": 1744080201,
+      "rank": 25,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 422803,
@@ -297,6 +329,14 @@
       "onboard_time": 1744070722,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318268,
+      "num": 318268,
+      "word": "小猫一气之下怒吃了两口冻干",
+      "onboard_time": 1744083142,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 317451,
@@ -387,14 +427,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 274786,
-      "num": 274786,
-      "word": "芒果送甲亢哥终身会员卡",
-      "onboard_time": 1744080201,
-      "rank": 25,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 272440,
       "num": 242350,
       "word": "无刺榴莲原来是人工无刺的",
@@ -419,6 +451,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 270772,
+      "num": 319757,
+      "word": "美国农业部长尴尬回应对企鹅征税",
+      "onboard_time": 1744080323,
+      "rank": 19,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 258554,
       "num": 380808,
       "word": "日本股市暴力反弹",
@@ -435,12 +475,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 255885,
-      "num": 319757,
-      "word": "美国农业部长尴尬回应对企鹅征税",
-      "onboard_time": 1744080323,
-      "rank": 19,
-      "category": "国际时政,财经"
+      "raw_hot": 250947,
+      "num": 250947,
+      "word": "乘客坐网约车打翻奶茶被判赔1372元",
+      "onboard_time": 1744080623,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247575,
@@ -451,12 +491,12 @@
       "category": "财经,国内时政"
     },
     {
-      "raw_hot": 234002,
-      "num": 234002,
-      "word": "乘客坐网约车打翻奶茶被判赔1372元",
-      "onboard_time": 1744080623,
+      "raw_hot": 230310,
+      "num": 230310,
+      "word": "考公人发现遍地都是公考知识点",
+      "onboard_time": 1744081882,
       "rank": 35,
-      "category": "民生新闻"
+      "category": "教育"
     },
     {
       "raw_hot": 223226,
@@ -465,6 +505,22 @@
       "onboard_time": 1744037545,
       "rank": 9,
       "category": "综艺,网红"
+    },
+    {
+      "raw_hot": 222924,
+      "num": 345090,
+      "word": "全球最富有的500人损失5000多亿美元",
+      "onboard_time": 1744082481,
+      "rank": 19,
+      "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 220073,
+      "num": 220073,
+      "word": "deepseek崩了",
+      "onboard_time": 1744083683,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 218244,
@@ -523,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204785,
+      "num": 271603,
+      "word": "朱天天称林君怡倪秋云选她是要镜头",
+      "onboard_time": 1744083803,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202414,
       "num": 137158,
       "word": "救援队在缅甸发现20公斤黄金",
@@ -571,20 +635,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 187403,
-      "num": 187403,
-      "word": "张钧甯方回应炒股损失约862万",
-      "onboard_time": 1744081822,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186359,
       "num": 186359,
       "word": "丁禹兮淮水竹亭预告镜头",
       "onboard_time": 1744074386,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183825,
+      "num": 183825,
+      "word": "NCAA",
+      "onboard_time": 1744083861,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181485,
+      "num": 181485,
+      "word": "江华批TVB最失败是山头文化",
+      "onboard_time": 1744083203,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 175761,
@@ -659,6 +731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 164292,
+      "num": 164292,
+      "word": "人人人人洛阳牡丹人人人人",
+      "onboard_time": 1744083622,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 161671,
       "num": 161671,
       "word": "河南申论 压分",
@@ -673,6 +753,22 @@
       "onboard_time": 1744032983,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159370,
+      "num": 271102,
+      "word": "全球市场开始反弹",
+      "onboard_time": 1744082542,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 158520,
+      "num": 158520,
+      "word": "念无双超点",
+      "onboard_time": 1744082603,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 155598,
@@ -700,7 +796,7 @@
     },
     {
       "raw_hot": 151855,
-      "num": 151855,
+      "num": 546470,
       "word": "第一批村干部已经教村民用AI了",
       "onboard_time": 1744081583,
       "rank": 47,
@@ -1083,20 +1179,20 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 73158,
+      "num": 280796,
+      "word": "樊振东初见小莫六边形球拍时蒙圈",
+      "onboard_time": 1744075105,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72277,
       "num": 72277,
       "word": "生命树",
       "onboard_time": 1744037125,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62233,
-      "num": 209134,
-      "word": "考公人发现遍地都是公考知识点",
-      "onboard_time": 1744081882,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 61864,
@@ -1115,12 +1211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61054,
+      "num": 280624,
+      "word": "Switch2卡带也很苦",
+      "onboard_time": 1744082963,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 59911,
       "num": 59911,
       "word": "中国诚通增持中国股票资产",
       "onboard_time": 1744041201,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 58793,
+      "num": 281311,
+      "word": "男子休育儿假不成被扣4天带薪年假",
+      "onboard_time": 1744083443,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57701,
@@ -1161,6 +1273,14 @@
       "onboard_time": 1744066819,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 44166,
+      "num": 280972,
+      "word": "白宫高官回怼马斯克就一卖车的",
+      "onboard_time": 1744083021,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43352,
@@ -1209,6 +1329,14 @@
       "onboard_time": 1744031483,
       "rank": 25,
       "category": "网红,旅游"
+    },
+    {
+      "raw_hot": 34877,
+      "num": 234705,
+      "word": "论黄金的延展性",
+      "onboard_time": 1744083322,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 34744,

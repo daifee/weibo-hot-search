@@ -1,0 +1,410 @@
+{
+  "runTime": 1744084147389,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6773393,
+        "num": 6773393,
+        "word": "中方回应特朗普威胁额外征收50%关税",
+        "onboard_time": 1744069100,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1218122,
+        "num": 1218122,
+        "word": "张钧甯方回应炒股损失约862万",
+        "onboard_time": 1744081822,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12658,
+        "num": 1133711,
+        "word": "中国坚定不移维护多边主义",
+        "onboard_time": 1743942922,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1099489,
+        "num": 1099489,
+        "word": "朱天天曝创造101内幕",
+        "onboard_time": 1744083021,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 832690,
+        "num": 832690,
+        "word": "毛泽东曾孙毛东东走进湖南一师",
+        "onboard_time": 1744076302,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 815926,
+        "num": 815926,
+        "word": "特朗普支持率降至上任来最低",
+        "onboard_time": 1744079903,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 680226,
+        "num": 680226,
+        "word": "金价三连跌",
+        "onboard_time": 1744071264,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 644563,
+        "num": 644563,
+        "word": "中国为什么能全球第一个反制对等关税",
+        "onboard_time": 1744034605,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 586397,
+        "num": 586397,
+        "word": "广末凉子被捕",
+        "onboard_time": 1744071084,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556703,
+        "num": 556703,
+        "word": "特朗普继续对日本施压",
+        "onboard_time": 1744073784,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104855,
+        "num": 546470,
+        "word": "第一批村干部已经教村民用AI了",
+        "onboard_time": 1744081583,
+        "rank": 10,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 771508,
+        "num": 544712,
+        "word": "甜馨说自己不可能张口就要到东西",
+        "onboard_time": 1744074924,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538277,
+        "num": 538277,
+        "word": "12306推出宠物托运功能",
+        "onboard_time": 1744072524,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495382,
+        "num": 495382,
+        "word": "股市",
+        "onboard_time": 1744074625,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 487657,
+        "num": 487657,
+        "word": "美副总统称中国人乡巴佬被批",
+        "onboard_time": 1744041682,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 484686,
+        "num": 484686,
+        "word": "马斯克转发一支铅笔视频",
+        "onboard_time": 1744082903,
+        "rank": 15,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 424861,
+        "num": 424861,
+        "word": "芒果送甲亢哥终身会员卡",
+        "onboard_time": 1744080201,
+        "rank": 16,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 394325,
+        "num": 394325,
+        "word": "芒果 尴尬",
+        "onboard_time": 1744035384,
+        "rank": 17,
+        "category": "网红,作品衍生"
+      },
+      {
+        "raw_hot": 345430,
+        "num": 345430,
+        "word": "赵丽颖造型师换了",
+        "onboard_time": 1744076962,
+        "rank": 18,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 222924,
+        "num": 345090,
+        "word": "全球最富有的500人损失5000多亿美元",
+        "onboard_time": 1744082481,
+        "rank": 19,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 364231,
+        "num": 345039,
+        "word": "男子转给小三287万原配追回268万",
+        "onboard_time": 1744071563,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344956,
+        "num": 344956,
+        "word": "李艺彤拒绝了房琪的鸡汤并伸手要钱",
+        "onboard_time": 1744072045,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340107,
+        "num": 340107,
+        "word": "施压威胁不是同中方打交道的正确方式",
+        "onboard_time": 1744079303,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327320,
+        "num": 327320,
+        "word": "唱到敏感副歌大张伟礼貌噤声",
+        "onboard_time": 1744069462,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318268,
+        "num": 318268,
+        "word": "小猫一气之下怒吃了两口冻干",
+        "onboard_time": 1744083142,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284546,
+        "num": 284546,
+        "word": "BoA向朴娜莱道歉",
+        "onboard_time": 1744079602,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281863,
+        "num": 281863,
+        "word": "特朗普顾问发声回怼马斯克",
+        "onboard_time": 1744077203,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230916,
+        "num": 281713,
+        "word": "何秋亊停播",
+        "onboard_time": 1744070421,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 58793,
+        "num": 281311,
+        "word": "男子休育儿假不成被扣4天带薪年假",
+        "onboard_time": 1744083443,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44166,
+        "num": 280972,
+        "word": "白宫高官回怼马斯克就一卖车的",
+        "onboard_time": 1744083021,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73158,
+        "num": 280796,
+        "word": "樊振东初见小莫六边形球拍时蒙圈",
+        "onboard_time": 1744075105,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61054,
+        "num": 280624,
+        "word": "Switch2卡带也很苦",
+        "onboard_time": 1744082963,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280331,
+        "num": 280331,
+        "word": "医生建议春季晚睡早起",
+        "onboard_time": 1744073724,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204785,
+        "num": 271603,
+        "word": "朱天天称林君怡倪秋云选她是要镜头",
+        "onboard_time": 1744083803,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159370,
+        "num": 271102,
+        "word": "全球市场开始反弹",
+        "onboard_time": 1744082542,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 270772,
+        "num": 270772,
+        "word": "美国农业部长尴尬回应对企鹅征税",
+        "onboard_time": 1744080323,
+        "rank": 35,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 250947,
+        "num": 250947,
+        "word": "乘客坐网约车打翻奶茶被判赔1372元",
+        "onboard_time": 1744080623,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250485,
+        "num": 250485,
+        "word": "特朗普称不会暂停关税政策",
+        "onboard_time": 1744068380,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 240156,
+        "num": 240156,
+        "word": "无刺榴莲原来是人工无刺的",
+        "onboard_time": 1744077023,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 34877,
+        "num": 234705,
+        "word": "论黄金的延展性",
+        "onboard_time": 1744083322,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230310,
+        "num": 230310,
+        "word": "考公人发现遍地都是公考知识点",
+        "onboard_time": 1744081882,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 220073,
+        "num": 220073,
+        "word": "deepseek崩了",
+        "onboard_time": 1744083683,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183825,
+        "num": 183825,
+        "word": "NCAA",
+        "onboard_time": 1744083861,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181485,
+        "num": 181485,
+        "word": "江华批TVB最失败是山头文化",
+        "onboard_time": 1744083203,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178391,
+        "num": 178391,
+        "word": "羊毛月账号已解封",
+        "onboard_time": 1744068620,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 174391,
+        "num": 174391,
+        "word": "大姐每天采茶12小时子宫掉出体外",
+        "onboard_time": 1744050617,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164292,
+        "num": 164292,
+        "word": "人人人人洛阳牡丹人人人人",
+        "onboard_time": 1744083622,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 158520,
+        "num": 158520,
+        "word": "念无双超点",
+        "onboard_time": 1744082603,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157560,
+        "num": 157560,
+        "word": "中央汇金发挥着类平准基金作用",
+        "onboard_time": 1744080323,
+        "rank": 48,
+        "category": "财经,国内时政"
+      },
+      {
+        "raw_hot": 151454,
+        "num": 151454,
+        "word": "金饰价涨回927元",
+        "onboard_time": 1744078580,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "跟着总书记领略中华文明"
+    }
+  }
+}
