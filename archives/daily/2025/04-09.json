@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744138040227,
+  "endTime": 1744140073521,
   "band_list": [
     {
       "raw_hot": 1108687,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76030,
+      "num": 76030,
+      "word": "离境退税即买即退今起全国推广",
+      "onboard_time": 1744136835,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74138,
       "num": 74138,
       "word": "徐杰晚安",
@@ -475,12 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36532,
-      "num": 43095,
-      "word": "离境退税即买即退今起全国推广",
-      "onboard_time": 1744136835,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 37150,
+      "num": 37150,
+      "word": "伊朗外长重申不会与美国直接谈判",
+      "onboard_time": 1744137555,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34636,
@@ -531,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22363,
-      "num": 23207,
-      "word": "伊朗外长重申不会与美国直接谈判",
-      "onboard_time": 1744137555,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 18269,
       "num": 120677,
       "word": "刘纪鹏再次建议成立4万亿平准基金",
@@ -553,6 +553,22 @@
       "onboard_time": 1744132097,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 12980,
+      "num": 26097,
+      "word": "拜仁vs国际米兰",
+      "onboard_time": 1744138873,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 12437,
+      "num": 26390,
+      "word": "美国多地民众开始囤货",
+      "onboard_time": 1744139954,
+      "rank": 27,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
