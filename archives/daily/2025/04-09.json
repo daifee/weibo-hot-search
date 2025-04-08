@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744137190001,
+  "endTime": 1744138040227,
   "band_list": [
     {
       "raw_hot": 1108687,
@@ -475,8 +475,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34219,
-      "num": 34219,
+      "raw_hot": 36532,
+      "num": 43095,
+      "word": "离境退税即买即退今起全国推广",
+      "onboard_time": 1744136835,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 34636,
+      "num": 34636,
       "word": "央行必要时将再贷款支持中央汇金",
       "onboard_time": 1744133357,
       "rank": 25,
@@ -523,12 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20748,
-      "num": 31135,
-      "word": "离境退税即买即退今起全国推广",
-      "onboard_time": 1744136835,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 22363,
+      "num": 23207,
+      "word": "伊朗外长重申不会与美国直接谈判",
+      "onboard_time": 1744137555,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18269,
