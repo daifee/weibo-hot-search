@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744097066694,
+  "endTime": 1744097879388,
   "band_list": [
     {
       "raw_hot": 10117420,
@@ -11,8 +11,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 6123825,
-      "num": 6123825,
+      "raw_hot": 6152899,
+      "num": 6152899,
       "word": "金子涵宣布退圈",
       "onboard_time": 1744093163,
       "rank": 0,
@@ -131,6 +131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1133722,
+      "num": 919058,
+      "word": "留几手炒股损失480万",
+      "onboard_time": 1744094961,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1132387,
       "num": 1132387,
       "word": "金价三连跌",
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1027019,
+      "num": 1027019,
+      "word": "美国一瓶中国产洗发水涨了12美元",
+      "onboard_time": 1744095623,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 983815,
       "num": 983815,
       "word": "马斯克转发一支铅笔视频",
@@ -169,14 +185,6 @@
       "onboard_time": 1744034305,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 919058,
-      "num": 919058,
-      "word": "留几手炒股损失480万",
-      "onboard_time": 1744094961,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 916538,
@@ -233,14 +241,6 @@
       "onboard_time": 1744072524,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 729181,
-      "num": 729181,
-      "word": "美国一瓶中国产洗发水涨了12美元",
-      "onboard_time": 1744095623,
-      "rank": 5,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 729002,
@@ -329,6 +329,14 @@
       "onboard_time": 1744034904,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 455145,
+      "num": 377332,
+      "word": "有些电视剧真可以刷N次",
+      "onboard_time": 1744094723,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 451210,
@@ -459,11 +467,11 @@
       "category": "网红,艺人"
     },
     {
-      "raw_hot": 377332,
-      "num": 377332,
-      "word": "有些电视剧真可以刷N次",
-      "onboard_time": 1744094723,
-      "rank": 32,
+      "raw_hot": 373988,
+      "num": 359374,
+      "word": "王家卫点赞",
+      "onboard_time": 1744095262,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -499,8 +507,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 355423,
-      "num": 355423,
+      "raw_hot": 364471,
+      "num": 364471,
       "word": "特朗普称将提出1万亿美元国防预算",
       "onboard_time": 1744095141,
       "rank": 20,
@@ -523,16 +531,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334082,
-      "num": 334082,
-      "word": "王家卫点赞",
-      "onboard_time": 1744095262,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 333879,
-      "num": 333879,
+      "raw_hot": 345824,
+      "num": 345824,
       "word": "Jennie封面照",
       "onboard_time": 1744096343,
       "rank": 23,
@@ -779,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253329,
+      "num": 485514,
+      "word": "国资委发声",
+      "onboard_time": 1744093703,
+      "rank": 43,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 247727,
       "num": 259644,
       "word": "考研英语黄皮书真题将成绝版",
@@ -803,14 +811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 242490,
-      "num": 485514,
-      "word": "国资委发声",
-      "onboard_time": 1744093703,
-      "rank": 43,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 240699,
       "num": 488080,
       "word": "专家称此时可能是股民继续抓反转机会",
@@ -833,6 +833,22 @@
       "onboard_time": 1744091662,
       "rank": 31,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 237750,
+      "num": 333884,
+      "word": "张艺兴手里是蛋糕嘴里是正能量",
+      "onboard_time": 1744096643,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 231000,
+      "num": 379103,
+      "word": "威海一小区楼房多层阳台坠落",
+      "onboard_time": 1744096403,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230310,
@@ -1067,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188075,
+      "num": 188075,
+      "word": "赵丽颖下意识的反应最动人",
+      "onboard_time": 1744094781,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187348,
       "num": 220337,
       "word": "王安宇人杀青了记忆没杀青",
@@ -1187,14 +1211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171087,
-      "num": 171087,
-      "word": "赵丽颖下意识的反应最动人",
-      "onboard_time": 1744094781,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169936,
       "num": 169936,
       "word": "金价跌到我心满意足再入手",
@@ -1297,14 +1313,6 @@
       "onboard_time": 1744082542,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 158619,
-      "num": 333884,
-      "word": "张艺兴手里是蛋糕嘴里是正能量",
-      "onboard_time": 1744096643,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 155598,
@@ -1459,6 +1467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139586,
+      "num": 139586,
+      "word": "美方所作所为没有体现认真对话意愿",
+      "onboard_time": 1744096763,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139234,
       "num": 193314,
       "word": "一诺连获四周最佳发育路",
@@ -1491,14 +1507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136497,
-      "num": 136497,
-      "word": "美方所作所为没有体现认真对话意愿",
-      "onboard_time": 1744096763,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 135884,
       "num": 135884,
       "word": "值得爱",
@@ -1507,12 +1515,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135394,
+      "num": 254005,
+      "word": "属于王楚钦的浪漫主义",
+      "onboard_time": 1744093703,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134300,
+      "num": 134300,
+      "word": "上海人均4000元的云南菜",
+      "onboard_time": 1744097482,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 134212,
       "num": 134212,
       "word": "姚晨演一个像一个的原因找到了",
       "onboard_time": 1744073664,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133542,
+      "num": 133542,
+      "word": "吴宣仪30岁也会遇到属于她的朱天天",
+      "onboard_time": 1744097242,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 132979,
@@ -1555,12 +1587,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126727,
+      "num": 126727,
+      "word": "刘浩存 小马宝莉",
+      "onboard_time": 1744097782,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126315,
       "num": 126315,
       "word": "赵丽颖第十套gh高定",
       "onboard_time": 1744034485,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 126304,
+      "num": 356146,
+      "word": "95后女生给狗狗做衣服年入300万",
+      "onboard_time": 1744096104,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124322,
@@ -1579,14 +1627,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 122009,
-      "num": 254005,
-      "word": "属于王楚钦的浪漫主义",
-      "onboard_time": 1744093703,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121239,
       "num": 121239,
       "word": "芒果台",
@@ -1595,20 +1635,20 @@
       "category": "网红,作品衍生"
     },
     {
+      "raw_hot": 119740,
+      "num": 920931,
+      "word": "增强有效应对美关税冲击的信心",
+      "onboard_time": 1744095202,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119209,
       "num": 119209,
       "word": "双胞胎姐妹佩佩惠惠相继离世",
       "onboard_time": 1744018703,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117763,
-      "num": 920931,
-      "word": "增强有效应对美关税冲击的信心",
-      "onboard_time": 1744095202,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 114775,
@@ -1633,14 +1673,6 @@
       "onboard_time": 1744086505,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 112056,
-      "num": 356146,
-      "word": "95后女生给狗狗做衣服年入300万",
-      "onboard_time": 1744096104,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111991,
@@ -1705,14 +1737,6 @@
       "onboard_time": 1744036225,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 103024,
-      "num": 379103,
-      "word": "威海一小区楼房多层阳台坠落",
-      "onboard_time": 1744096403,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99213,
