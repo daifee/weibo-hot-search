@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744144841903,
+  "endTime": 1744147393316,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -8611,6 +8611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97722,
+      "num": 132371,
+      "word": "美国多地民众开始囤货",
+      "onboard_time": 1744139954,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97381,
       "num": 97381,
       "word": "海贼王",
@@ -9064,14 +9072,6 @@
       "word": "美国网友说副总统万斯愚不可及",
       "onboard_time": 1744048576,
       "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 80646,
-      "num": 80646,
-      "word": "美国多地民众开始囤货",
-      "onboard_time": 1744139954,
-      "rank": 27,
       "category": "国际时政"
     },
     {
@@ -9668,7 +9668,7 @@
     },
     {
       "raw_hot": 50313,
-      "num": 35665,
+      "num": 36762,
       "word": "掘金解雇马龙",
       "onboard_time": 1744140493,
       "rank": 14,
@@ -9947,6 +9947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37695,
+      "num": 37695,
+      "word": "里根38年前就讲过滥施关税的下场",
+      "onboard_time": 1744141454,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37190,
       "num": 111506,
       "word": "多哈世乒赛韩国队参赛名单",
@@ -9976,6 +9984,14 @@
       "word": "女子汇8万要帮联合国网恋男友",
       "onboard_time": 1744024222,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36450,
+      "num": 36450,
+      "word": "旱厕边生产冒牌咖啡成本5元卖69",
+      "onboard_time": 1744141816,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -10033,6 +10049,14 @@
       "onboard_time": 1743861503,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33881,
+      "num": 33881,
+      "word": "美国政府正严重伤害美国人民",
+      "onboard_time": 1744143914,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33826,
@@ -10131,14 +10155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30634,
-      "num": 30634,
-      "word": "里根38年前就讲过滥施关税的下场",
-      "onboard_time": 1744141454,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 30086,
       "num": 30086,
       "word": "景区回应美人鱼泡在绿水里表演",
@@ -10235,14 +10251,6 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 27103,
-      "num": 27103,
-      "word": "旱厕边生产冒牌咖啡成本5元卖69",
-      "onboard_time": 1744141816,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26912,
       "num": 205438,
       "word": "外地游客拉着行李箱来深圳买黄金",
@@ -10251,12 +10259,28 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 26911,
+      "num": 26911,
+      "word": "拜仁vs国际米兰",
+      "onboard_time": 1744138873,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26824,
       "num": 26824,
       "word": "susu福福",
       "onboard_time": 1743878416,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26267,
+      "num": 26267,
+      "word": "陶勇亲自为越发刚手术称手术顺利",
+      "onboard_time": 1744144514,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26210,
@@ -10387,6 +10411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19661,
+      "num": 19661,
+      "word": "这个外国男人为何被称大胖媳妇",
+      "onboard_time": 1744143554,
+      "rank": 34,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 19584,
       "num": 246984,
       "word": "批人炒股的美议员上台后自己炒股",
@@ -10417,14 +10449,6 @@
       "onboard_time": 1743913940,
       "rank": 39,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 19347,
-      "num": 26097,
-      "word": "拜仁vs国际米兰",
-      "onboard_time": 1744138873,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 19338,
@@ -10491,6 +10515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16261,
+      "num": 17532,
+      "word": "星穹铁道遐蝶",
+      "onboard_time": 1744134256,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 15980,
       "num": 191651,
       "word": "向鹏说没想到能拿冠军",
@@ -10507,20 +10539,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15683,
-      "num": 17532,
-      "word": "星穹铁道遐蝶",
-      "onboard_time": 1744134256,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 15416,
       "num": 27331,
       "word": "这两天问勇路摆满了鲜花",
       "onboard_time": 1743883094,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 15239,
+      "num": 25332,
+      "word": "电视剧千秋令OST阵容",
+      "onboard_time": 1744144275,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 15238,
@@ -10579,36 +10611,12 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 13255,
-      "num": 21309,
-      "word": "电视剧千秋令OST阵容",
-      "onboard_time": 1744144275,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 13174,
-      "num": 17747,
-      "word": "陶勇亲自为越发刚手术称手术顺利",
-      "onboard_time": 1744144514,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13063,
       "num": 131067,
       "word": "富士台高层包庇中居正广性侵",
       "onboard_time": 1743931641,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 13011,
-      "num": 18995,
-      "word": "这个外国男人为何被称大胖媳妇",
-      "onboard_time": 1744143554,
-      "rank": 34,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 12898,
@@ -10648,14 +10656,6 @@
       "word": "联合国警告贸易战中没有赢家",
       "onboard_time": 1743896059,
       "rank": 34,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 11909,
-      "num": 18962,
-      "word": "美国政府正严重伤害美国人民",
-      "onboard_time": 1744143914,
-      "rank": 35,
       "category": "国际时政"
     },
     {
