@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744084147389,
+  "endTime": 1744086533212,
   "band_list": [
     {
       "raw_hot": 10117420,
@@ -24,6 +24,22 @@
       "word": "特朗普说他不是故意的",
       "onboard_time": 1744037545,
       "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 2082924,
+      "num": 2082924,
+      "word": "朱天天曝创造101内幕",
+      "onboard_time": 1744083021,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1647439,
+      "num": 1647439,
+      "word": "白宫内讧",
+      "onboard_time": 1744084765,
+      "rank": 3,
       "category": "国际时政"
     },
     {
@@ -83,20 +99,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1099489,
-      "num": 1099489,
-      "word": "朱天天曝创造101内幕",
-      "onboard_time": 1744083021,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1034078,
-      "num": 598994,
+      "num": 601710,
       "word": "甜馨说自己不可能张口就要到东西",
       "onboard_time": 1744074924,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 983815,
+      "num": 983815,
+      "word": "马斯克转发一支铅笔视频",
+      "onboard_time": 1744082903,
+      "rank": 15,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 959306,
@@ -195,14 +211,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 484686,
-      "num": 484686,
-      "word": "马斯克转发一支铅笔视频",
-      "onboard_time": 1744082903,
-      "rank": 15,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 458767,
       "num": 458767,
       "word": "马斯克似乎与特朗普划清界限",
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 388751,
+      "num": 300027,
+      "word": "11岁男孩把100克金条吞入腹中",
+      "onboard_time": 1744085664,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 387879,
       "num": 747709,
       "word": "A股走强",
@@ -307,12 +323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 366398,
+      "num": 366398,
+      "word": "deepseek崩了",
+      "onboard_time": 1744083683,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 364560,
       "num": 364560,
       "word": "特朗普称不会暂停关税政策",
       "onboard_time": 1744068380,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 353765,
+      "num": 318268,
+      "word": "小猫一气之下怒吃了两口冻干",
+      "onboard_time": 1744083142,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 353684,
@@ -329,14 +361,6 @@
       "onboard_time": 1744070722,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318268,
-      "num": 318268,
-      "word": "小猫一气之下怒吃了两口冻干",
-      "onboard_time": 1744083142,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 317451,
@@ -379,6 +403,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 299645,
+      "num": 299645,
+      "word": "王源工作室告黑",
+      "onboard_time": 1744084645,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 298775,
+      "num": 298775,
+      "word": "smlz怒喷Ning",
+      "onboard_time": 1744085664,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 298261,
       "num": 219134,
       "word": "特朗普称拒绝欧盟与美互免关税",
@@ -417,6 +457,14 @@
       "onboard_time": 1744074924,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 281920,
+      "num": 281920,
+      "word": "剑网3新校服",
+      "onboard_time": 1744084704,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 275744,
@@ -475,8 +523,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 250947,
-      "num": 250947,
+      "raw_hot": 255743,
+      "num": 255743,
       "word": "乘客坐网约车打翻奶茶被判赔1372元",
       "onboard_time": 1744080623,
       "rank": 35,
@@ -491,12 +539,28 @@
       "category": "财经,国内时政"
     },
     {
+      "raw_hot": 238059,
+      "num": 238059,
+      "word": "女性最该锻炼的肌肉是盆底肌",
+      "onboard_time": 1744084342,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 230310,
       "num": 230310,
       "word": "考公人发现遍地都是公考知识点",
       "onboard_time": 1744081882,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 224877,
+      "num": 258329,
+      "word": "王鸥搜证气的直呼刘昊然全名",
+      "onboard_time": 1744086445,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 223226,
@@ -513,14 +577,6 @@
       "onboard_time": 1744082481,
       "rank": 19,
       "category": "海外新闻,财经"
-    },
-    {
-      "raw_hot": 220073,
-      "num": 220073,
-      "word": "deepseek崩了",
-      "onboard_time": 1744083683,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 218244,
@@ -571,12 +627,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207106,
+      "num": 207106,
+      "word": "梅里雨崩才是徒步者的天堂",
+      "onboard_time": 1744085963,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 206262,
       "num": 401590,
       "word": "张新成酒吧唱歌",
       "onboard_time": 1744077563,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206120,
+      "num": 206120,
+      "word": "武艺这睡眠内娱找不到第二个",
+      "onboard_time": 1744084584,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 204785,
@@ -604,7 +676,7 @@
     },
     {
       "raw_hot": 198458,
-      "num": 198458,
+      "num": 231856,
       "word": "饶雪漫没想到马吟吟表现那么好",
       "onboard_time": 1744074684,
       "rank": 37,
@@ -633,6 +705,14 @@
       "onboard_time": 1744064416,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190190,
+      "num": 190190,
+      "word": "周鸿祎称反感不招35岁以上的人",
+      "onboard_time": 1744086325,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 186359,
@@ -739,12 +819,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 162860,
+      "num": 162860,
+      "word": "念无双超点",
+      "onboard_time": 1744082603,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161671,
       "num": 161671,
       "word": "河南申论 压分",
       "onboard_time": 1744077742,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 161492,
+      "num": 161492,
+      "word": "刘学义三十多岁正是闯的年纪",
+      "onboard_time": 1744085603,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 161079,
@@ -756,19 +852,11 @@
     },
     {
       "raw_hot": 159370,
-      "num": 271102,
+      "num": 278143,
       "word": "全球市场开始反弹",
       "onboard_time": 1744082542,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 158520,
-      "num": 158520,
-      "word": "念无双超点",
-      "onboard_time": 1744082603,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 155598,
@@ -995,6 +1083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113223,
+      "num": 196224,
+      "word": "农业大消费股大涨",
+      "onboard_time": 1744086505,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 111991,
       "num": 111991,
       "word": "95年小伙考研8战北大终上岸",
@@ -1008,6 +1104,14 @@
       "word": "央行回应支持中央汇金稳定资本市场",
       "onboard_time": 1744075105,
       "rank": 9,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 110127,
+      "num": 488080,
+      "word": "专家称此时可能是股民继续抓反转机会",
+      "onboard_time": 1744085363,
+      "rank": 14,
       "category": "财经"
     },
     {
@@ -1075,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93019,
+      "num": 278772,
+      "word": "流水线上被贱卖的职校实习生",
+      "onboard_time": 1744085004,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 92500,
       "num": 92500,
       "word": "赵又廷与高圆圆接女儿放学",
@@ -1129,6 +1241,14 @@
       "onboard_time": 1744057453,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84735,
+      "num": 276548,
+      "word": "父亲自从迷上网购像变了个人",
+      "onboard_time": 1744084645,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84725,
@@ -1195,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62912,
+      "num": 300060,
+      "word": "养娃路上的神队友",
+      "onboard_time": 1744085664,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61864,
       "num": 61864,
       "word": "Daniel新家",
@@ -1249,6 +1377,14 @@
       "onboard_time": 1744081703,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 53251,
+      "num": 602540,
+      "word": "欧洲已准备好与美国就关税问题谈判",
+      "onboard_time": 1744085844,
+      "rank": 9,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 52550,
@@ -1444,7 +1580,7 @@
     },
     {
       "raw_hot": 18658,
-      "num": 1147018,
+      "num": 1743557,
       "word": "中国坚定不移维护多边主义",
       "onboard_time": 1743942922,
       "rank": 2,
