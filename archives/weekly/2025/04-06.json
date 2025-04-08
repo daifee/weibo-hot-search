@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744132947509,
+  "endTime": 1744134018417,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -3427,6 +3427,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 259454,
+      "num": 112732,
+      "word": "清朝ppt",
+      "onboard_time": 1744130597,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 259224,
       "num": 371984,
       "word": "女子夜乘顺风车司机全程智驾玩手机",
@@ -4193,14 +4201,6 @@
       "onboard_time": 1744123884,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215854,
-      "num": 112732,
-      "word": "清朝ppt",
-      "onboard_time": 1744130597,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 215385,
@@ -9987,6 +9987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33826,
+      "num": 46545,
+      "word": "缅甸地震致3645人死亡",
+      "onboard_time": 1744126702,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 33304,
       "num": 45684,
       "word": "特朗普重申美联储应该降息",
@@ -10019,12 +10027,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32243,
+      "num": 32243,
+      "word": "A股利好连发",
+      "onboard_time": 1744130958,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 31971,
       "num": 523163,
       "word": "龙马乘组天宫TV再上新",
       "onboard_time": 1743919641,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31783,
+      "num": 31783,
+      "word": "乌云之上",
+      "onboard_time": 1744133176,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 31298,
@@ -10113,14 +10137,6 @@
       "onboard_time": 1743894977,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28155,
-      "num": 46545,
-      "word": "缅甸地震致3645人死亡",
-      "onboard_time": 1744126702,
-      "rank": 41,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 27966,
@@ -10281,6 +10297,14 @@
       "onboard_time": 1744051935,
       "rank": 9,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 22676,
+      "num": 90556,
+      "word": "警方打假冒牌咖啡",
+      "onboard_time": 1744132996,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19831,

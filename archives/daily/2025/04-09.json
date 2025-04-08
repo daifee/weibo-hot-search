@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744132947509,
+  "endTime": 1744134018417,
   "band_list": [
     {
       "raw_hot": 1108687,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259454,
+      "num": 112732,
+      "word": "清朝ppt",
+      "onboard_time": 1744130597,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226951,
       "num": 226951,
       "word": "市监局回应3员工上班看视频睡觉",
@@ -113,14 +121,6 @@
       "onboard_time": 1744107382,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215854,
-      "num": 112732,
-      "word": "清朝ppt",
-      "onboard_time": 1744130597,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 195252,
@@ -145,6 +145,14 @@
       "onboard_time": 1744120343,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165675,
+      "num": 165675,
+      "word": "外交部回应特朗普威胁再加征50%关税",
+      "onboard_time": 1744094123,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 160091,
@@ -193,14 +201,6 @@
       "onboard_time": 1744114462,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131253,
-      "num": 131253,
-      "word": "外交部回应特朗普威胁再加征50%关税",
-      "onboard_time": 1744094123,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 128185,
@@ -467,12 +467,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28155,
+      "raw_hot": 33826,
       "num": 46545,
       "word": "缅甸地震致3645人死亡",
       "onboard_time": 1744126702,
       "rank": 41,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 32243,
+      "num": 32243,
+      "word": "A股利好连发",
+      "onboard_time": 1744130958,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 32196,
+      "num": 32196,
+      "word": "中国人不惹事也不怕事",
+      "onboard_time": 1744095022,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 31783,
+      "num": 31783,
+      "word": "乌云之上",
+      "onboard_time": 1744133176,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22676,
+      "num": 90556,
+      "word": "警方打假冒牌咖啡",
+      "onboard_time": 1744132996,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18269,
