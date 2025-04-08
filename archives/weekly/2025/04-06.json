@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744069111351,
+  "endTime": 1744077066458,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -9,6 +9,14 @@
       "onboard_time": 1743989420,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 10117420,
+      "num": 10117420,
+      "word": "中方回应特朗普威胁额外征收50%关税",
+      "onboard_time": 1744069100,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2982394,
@@ -323,6 +331,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1132387,
+      "num": 1132387,
+      "word": "金价三连跌",
+      "onboard_time": 1744071264,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1131045,
+      "num": 1131045,
+      "word": "广末凉子被捕",
+      "onboard_time": 1744071084,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1125116,
       "num": 861448,
       "word": "女子突发不适驾车失控致1死3伤",
@@ -587,6 +611,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 850436,
+      "num": 850436,
+      "word": "毛泽东曾孙毛东东走进湖南一师",
+      "onboard_time": 1744076302,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 838044,
+      "num": 838044,
+      "word": "李艺彤拒绝了房琪的鸡汤并伸手要钱",
+      "onboard_time": 1744072045,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 823772,
       "num": 424441,
       "word": "西湖猝鱼",
@@ -683,6 +723,22 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 776729,
+      "num": 776729,
+      "word": "特朗普继续对日本施压",
+      "onboard_time": 1744073784,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 768613,
+      "num": 768613,
+      "word": "12306推出宠物托运功能",
+      "onboard_time": 1744072524,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 767126,
       "num": 559526,
       "word": "粉丝机场疯狂追星险发生踩踏",
@@ -747,6 +803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 729002,
+      "num": 729002,
+      "word": "河南省考成绩",
+      "onboard_time": 1744074684,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 726482,
       "num": 726482,
       "word": "印度一男子开床车上路多辆摩托跟拍",
@@ -761,6 +825,14 @@
       "onboard_time": 1743944300,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 719051,
+      "num": 719051,
+      "word": "股市",
+      "onboard_time": 1743989901,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 716735,
@@ -939,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 598994,
+      "num": 598994,
+      "word": "甜馨说自己不可能张口就要到东西",
+      "onboard_time": 1744074924,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 597601,
       "num": 597601,
       "word": "雪梨以设计师身份参加综艺",
@@ -1083,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515388,
+      "num": 462728,
+      "word": "医生建议春季晚睡早起",
+      "onboard_time": 1744073724,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514962,
       "num": 514962,
       "word": "胡锡进",
@@ -1171,6 +1259,14 @@
       "category": "网红,旅游"
     },
     {
+      "raw_hot": 496070,
+      "num": 496070,
+      "word": "何秋亊停播",
+      "onboard_time": 1744070421,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 494130,
       "num": 275463,
       "word": "2岁娃烧伤婆婆给儿媳下跪自责痛哭",
@@ -1251,6 +1347,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 462607,
+      "num": 462607,
+      "word": "中国为什么能全球第一个反制对等关税",
+      "onboard_time": 1744034605,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 459473,
       "num": 546293,
       "word": "苦尽柑来遇见你八项百想提名",
@@ -1313,6 +1417,22 @@
       "onboard_time": 1744003582,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 431376,
+      "num": 407504,
+      "word": "男子转给小三287万原配追回268万",
+      "onboard_time": 1744071563,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430904,
+      "num": 430904,
+      "word": "唱到敏感副歌大张伟礼貌噤声",
+      "onboard_time": 1744069462,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 430587,
@@ -1433,14 +1553,6 @@
       "onboard_time": 1743859102,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 403539,
-      "num": 403539,
-      "word": "股市",
-      "onboard_time": 1743989901,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 402904,
@@ -1649,6 +1761,14 @@
       "onboard_time": 1744027164,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 364560,
+      "num": 364560,
+      "word": "特朗普称不会暂停关税政策",
+      "onboard_time": 1744068380,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 364304,
@@ -1891,6 +2011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 320983,
+      "num": 320983,
+      "word": "李现 帅哥能不能帮我拍张照片",
+      "onboard_time": 1744070722,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320529,
       "num": 320529,
       "word": "邓萃雯说有的大女主戏似乎在骗人",
@@ -1921,6 +2049,22 @@
       "onboard_time": 1744030583,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316165,
+      "num": 316165,
+      "word": "武大博士3个月写14万字论文查重0.1%",
+      "onboard_time": 1744072885,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 315291,
+      "num": 315291,
+      "word": "赵丽颖 闵塔鲨",
+      "onboard_time": 1744070362,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 313166,
@@ -1995,6 +2139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 298261,
+      "num": 219134,
+      "word": "特朗普称拒绝欧盟与美互免关税",
+      "onboard_time": 1744068680,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 298120,
       "num": 298120,
       "word": "雅漾 樊振东",
@@ -2011,6 +2163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 296032,
+      "num": 462737,
+      "word": "林峯回应张馨月争议",
+      "onboard_time": 1744074563,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292925,
       "num": 292925,
       "word": "小米集团股价跌超19%",
@@ -2025,6 +2185,14 @@
       "onboard_time": 1743912561,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292021,
+      "num": 292021,
+      "word": "梦华录被编入交大教材",
+      "onboard_time": 1744074744,
+      "rank": 29,
+      "category": "剧集,教育"
     },
     {
       "raw_hot": 291988,
@@ -2089,6 +2257,14 @@
       "onboard_time": 1743846500,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 283338,
+      "num": 283338,
+      "word": "人民银行重磅发声",
+      "onboard_time": 1744074924,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 283019,
@@ -2161,6 +2337,22 @@
       "onboard_time": 1744030824,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 271725,
+      "num": 287237,
+      "word": "招商系7家上市公司集体发声",
+      "onboard_time": 1744075105,
+      "rank": 30,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 270969,
+      "num": 270969,
+      "word": "羊毛月账号已解封",
+      "onboard_time": 1744068620,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 270886,
@@ -2275,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258554,
+      "num": 380808,
+      "word": "日本股市暴力反弹",
+      "onboard_time": 1744075342,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 258364,
       "num": 258364,
       "word": "TheShy赛后道歉",
@@ -2339,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253919,
+      "num": 747709,
+      "word": "A股走强",
+      "onboard_time": 1744076603,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 253664,
       "num": 253664,
       "word": "白桃星座",
@@ -2377,6 +2585,14 @@
       "onboard_time": 1743940223,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249466,
+      "num": 249466,
+      "word": "商务部新闻发言人就美方威胁升级对华关税发表谈话",
+      "onboard_time": 1744076302,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 249375,
@@ -3012,7 +3228,7 @@
     },
     {
       "raw_hot": 202414,
-      "num": 119376,
+      "num": 137158,
       "word": "救援队在缅甸发现20公斤黄金",
       "onboard_time": 1744067779,
       "rank": 30,
@@ -3081,6 +3297,14 @@
       "onboard_time": 1743995482,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198458,
+      "num": 198458,
+      "word": "饶雪漫没想到马吟吟表现那么好",
+      "onboard_time": 1744074684,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 198422,
@@ -3409,6 +3633,14 @@
       "onboard_time": 1744002383,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 186359,
+      "num": 186359,
+      "word": "丁禹兮淮水竹亭预告镜头",
+      "onboard_time": 1744074386,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 186264,
@@ -4035,6 +4267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164944,
+      "num": 164944,
+      "word": "哈尔滨司法局局长丁锐心梗去世",
+      "onboard_time": 1744072464,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164614,
       "num": 164614,
       "word": "物业给错户号业主交了39390元水费",
@@ -4235,6 +4475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157462,
+      "num": 157462,
+      "word": "无刺榴莲原来是人工无刺的",
+      "onboard_time": 1744077023,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 157409,
       "num": 157409,
       "word": "白敬亭海棠花vlog",
@@ -4379,6 +4627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152902,
+      "num": 152902,
+      "word": "多家车企暂停对美出口汽车",
+      "onboard_time": 1744071323,
+      "rank": 42,
+      "category": "汽车,国际时政"
+    },
+    {
       "raw_hot": 152858,
       "num": 152858,
       "word": "生命树",
@@ -4403,14 +4659,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 151512,
-      "num": 151512,
-      "word": "羊毛月账号已解封",
-      "onboard_time": 1744068620,
-      "rank": 26,
-      "category": "网红"
-    },
-    {
       "raw_hot": 150667,
       "num": 232886,
       "word": "多哈世乒赛朝鲜队参赛名单",
@@ -4433,14 +4681,6 @@
       "onboard_time": 1743929301,
       "rank": 2,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 150280,
-      "num": 163828,
-      "word": "中国为什么能全球第一个反制对等关税",
-      "onboard_time": 1744034605,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 150239,
@@ -4883,6 +5123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134212,
+      "num": 134212,
+      "word": "姚晨演一个像一个的原因找到了",
+      "onboard_time": 1744073664,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133800,
       "num": 133800,
       "word": "Bin放话TheShy",
@@ -4915,6 +5163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132979,
+      "num": 132979,
+      "word": "中央汇金称将坚定增持ETF",
+      "onboard_time": 1744076004,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132631,
       "num": 132631,
       "word": "一瓯春定妆路透",
@@ -4945,6 +5201,22 @@
       "onboard_time": 1743919400,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131887,
+      "num": 131887,
+      "word": "提高保险资金投资股市比例",
+      "onboard_time": 1744074263,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 131885,
+      "num": 131885,
+      "word": "郑钦文斯图加特赛退赛",
+      "onboard_time": 1744076423,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 131763,
@@ -5619,6 +5891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111126,
+      "num": 744340,
+      "word": "央行回应支持中央汇金稳定资本市场",
+      "onboard_time": 1744075105,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 111097,
       "num": 111097,
       "word": "王玉雯千禧年plog恋爱博主",
@@ -6171,6 +6451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84725,
+      "num": 462939,
+      "word": "非遗古方能否治愈现代顽疾",
+      "onboard_time": 1744074563,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84389,
       "num": 84389,
       "word": "这就是elk",
@@ -6371,14 +6659,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 70542,
-      "num": 140462,
-      "word": "特朗普称拒绝欧盟与美互免关税",
-      "onboard_time": 1744068680,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 70203,
       "num": 70203,
       "word": "捷豹路虎计划暂停对美出口汽车",
@@ -6388,7 +6668,7 @@
     },
     {
       "raw_hot": 70148,
-      "num": 1122437,
+      "num": 1131694,
       "word": "中国坚定不移维护多边主义",
       "onboard_time": 1743942922,
       "rank": 2,
@@ -6465,14 +6745,6 @@
       "onboard_time": 1743929841,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 65087,
-      "num": 281593,
-      "word": "特朗普称不会暂停关税政策",
-      "onboard_time": 1744068380,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 64768,
@@ -6809,6 +7081,14 @@
       "onboard_time": 1744018103,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 41978,
+      "num": 644633,
+      "word": "中国版平准基金横空出世",
+      "onboard_time": 1744076543,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 41873,

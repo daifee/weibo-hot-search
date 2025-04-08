@@ -1,0 +1,410 @@
+{
+  "runTime": 1744077066458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10117420,
+        "num": 10117420,
+        "word": "中方回应特朗普威胁额外征收50%关税",
+        "onboard_time": 1744069100,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1132387,
+        "num": 1132387,
+        "word": "金价三连跌",
+        "onboard_time": 1744071264,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18658,
+        "num": 1131694,
+        "word": "中国坚定不移维护多边主义",
+        "onboard_time": 1743942922,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1131045,
+        "num": 1131045,
+        "word": "广末凉子被捕",
+        "onboard_time": 1744071084,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 850436,
+        "num": 850436,
+        "word": "毛泽东曾孙毛东东走进湖南一师",
+        "onboard_time": 1744076302,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 838044,
+        "num": 838044,
+        "word": "李艺彤拒绝了房琪的鸡汤并伸手要钱",
+        "onboard_time": 1744072045,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 776729,
+        "num": 776729,
+        "word": "特朗普继续对日本施压",
+        "onboard_time": 1744073784,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 768613,
+        "num": 768613,
+        "word": "12306推出宠物托运功能",
+        "onboard_time": 1744072524,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253919,
+        "num": 747709,
+        "word": "A股走强",
+        "onboard_time": 1744076603,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111126,
+        "num": 744340,
+        "word": "央行回应支持中央汇金稳定资本市场",
+        "onboard_time": 1744075105,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 743311,
+        "num": 743311,
+        "word": "芒果 尴尬",
+        "onboard_time": 1744035384,
+        "rank": 10,
+        "category": "网红,作品衍生"
+      },
+      {
+        "raw_hot": 729002,
+        "num": 729002,
+        "word": "河南省考成绩",
+        "onboard_time": 1744074684,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 719051,
+        "num": 719051,
+        "word": "股市",
+        "onboard_time": 1744074625,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 717216,
+        "num": 717216,
+        "word": "美副总统称中国人乡巴佬被批",
+        "onboard_time": 1744041682,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41978,
+        "num": 644633,
+        "word": "中国版平准基金横空出世",
+        "onboard_time": 1744076543,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 598994,
+        "num": 598994,
+        "word": "甜馨说自己不可能张口就要到东西",
+        "onboard_time": 1744074924,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496070,
+        "num": 496070,
+        "word": "何秋亊停播",
+        "onboard_time": 1744070421,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 463877,
+        "num": 463877,
+        "word": "全球高度关注中国猛烈反击美国",
+        "onboard_time": 1744047077,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84725,
+        "num": 462939,
+        "word": "非遗古方能否治愈现代顽疾",
+        "onboard_time": 1744074563,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296032,
+        "num": 462737,
+        "word": "林峯回应张馨月争议",
+        "onboard_time": 1744074563,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515388,
+        "num": 462728,
+        "word": "医生建议春季晚睡早起",
+        "onboard_time": 1744073724,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462607,
+        "num": 462607,
+        "word": "中国为什么能全球第一个反制对等关税",
+        "onboard_time": 1744034605,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 430904,
+        "num": 430904,
+        "word": "唱到敏感副歌大张伟礼貌噤声",
+        "onboard_time": 1744069462,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431376,
+        "num": 407504,
+        "word": "男子转给小三287万原配追回268万",
+        "onboard_time": 1744071563,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258554,
+        "num": 380808,
+        "word": "日本股市暴力反弹",
+        "onboard_time": 1744075342,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 364560,
+        "num": 364560,
+        "word": "特朗普称不会暂停关税政策",
+        "onboard_time": 1744068380,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 320983,
+        "num": 320983,
+        "word": "李现 帅哥能不能帮我拍张照片",
+        "onboard_time": 1744070722,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316165,
+        "num": 316165,
+        "word": "武大博士3个月写14万字论文查重0.1%",
+        "onboard_time": 1744072885,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 315291,
+        "num": 315291,
+        "word": "赵丽颖 闵塔鲨",
+        "onboard_time": 1744070362,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292021,
+        "num": 292021,
+        "word": "梦华录被编入交大教材",
+        "onboard_time": 1744074744,
+        "rank": 29,
+        "category": "剧集,教育"
+      },
+      {
+        "raw_hot": 271725,
+        "num": 287237,
+        "word": "招商系7家上市公司集体发声",
+        "onboard_time": 1744075105,
+        "rank": 30,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 283338,
+        "num": 283338,
+        "word": "人民银行重磅发声",
+        "onboard_time": 1744074924,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 270969,
+        "num": 270969,
+        "word": "羊毛月账号已解封",
+        "onboard_time": 1744068620,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 249466,
+        "num": 249466,
+        "word": "商务部新闻发言人就美方威胁升级对华关税发表谈话",
+        "onboard_time": 1744076302,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246948,
+        "num": 246948,
+        "word": "马斯克似乎与特朗普划清界限",
+        "onboard_time": 1744034904,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226150,
+        "num": 226150,
+        "word": "大姐每天采茶12小时子宫掉出体外",
+        "onboard_time": 1744050617,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298261,
+        "num": 219134,
+        "word": "特朗普称拒绝欧盟与美互免关税",
+        "onboard_time": 1744068680,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198458,
+        "num": 198458,
+        "word": "饶雪漫没想到马吟吟表现那么好",
+        "onboard_time": 1744074684,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186359,
+        "num": 186359,
+        "word": "丁禹兮淮水竹亭预告镜头",
+        "onboard_time": 1744074386,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164944,
+        "num": 164944,
+        "word": "哈尔滨司法局局长丁锐心梗去世",
+        "onboard_time": 1744072464,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163477,
+        "num": 163477,
+        "word": "爆款短剧编剧收入高达一两百万",
+        "onboard_time": 1744065076,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157462,
+        "num": 157462,
+        "word": "无刺榴莲原来是人工无刺的",
+        "onboard_time": 1744077023,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152902,
+        "num": 152902,
+        "word": "多家车企暂停对美出口汽车",
+        "onboard_time": 1744071323,
+        "rank": 42,
+        "category": "汽车,国际时政"
+      },
+      {
+        "raw_hot": 145424,
+        "num": 145424,
+        "word": "中国男子在泰国一沙滩被发现死亡",
+        "onboard_time": 1744039403,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138373,
+        "num": 138373,
+        "word": "胡歌 内娱第一个吃大螃蟹的艺人",
+        "onboard_time": 1744026802,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137158,
+        "num": 137158,
+        "word": "救援队在缅甸发现20公斤黄金",
+        "onboard_time": 1744067779,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134212,
+        "num": 134212,
+        "word": "姚晨演一个像一个的原因找到了",
+        "onboard_time": 1744073664,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132979,
+        "num": 132979,
+        "word": "中央汇金称将坚定增持ETF",
+        "onboard_time": 1744076004,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131887,
+        "num": 131887,
+        "word": "提高保险资金投资股市比例",
+        "onboard_time": 1744074263,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131885,
+        "num": 131885,
+        "word": "郑钦文斯图加特赛退赛",
+        "onboard_time": 1744076423,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "跟着总书记领略中华文明"
+    }
+  }
+}
