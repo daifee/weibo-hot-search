@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/08 14:34:43
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/08 14:47:41
 </p>
 </blockquote>
 <p>
@@ -63,6 +63,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E5%AE%A3%E5%B8%83%E9%80%80%E5%9C%88%23" target="weibo">
+金子涵宣布退圈（热度：3989371）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E7%AB%A5%E6%80%BC%E6%88%BF%E7%90%AA%23" target="weibo">
 叶童怼房琪（热度：3529783）
 </a>
@@ -113,12 +119,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
 A股（热度：2689460）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E5%AE%A3%E5%B8%83%E9%80%80%E5%9C%88%23" target="weibo">
-金子涵宣布退圈（热度：2653174）
 </a>
 </li>
 
@@ -711,6 +711,12 @@ RedVelvet 解散（热度：1601334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E5%90%8C%E6%84%8F%E5%88%86%E6%89%8B%E9%80%BC%E5%A5%B3%E5%8F%8B%E5%96%9D%E5%86%9C%E8%8D%AF%E8%BA%AB%E4%BA%A1%23" target="weibo">
+男子不同意分手逼女友喝农药身亡（热度：1279956）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%89%93%E5%81%87%E9%9B%B7%E5%86%9B%E8%87%B4%E5%85%AC%E4%BC%97%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%23" target="weibo">
 小米打假雷军致公众的一封信（热度：1279382）
 </a>
@@ -1247,12 +1253,6 @@ vava发博向杨超越道歉（热度：968479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%98%8E%E6%98%9F%E6%94%B6%E4%BF%A1%E6%AF%94%E7%B2%89%E4%B8%9D%E8%BF%98%E6%BF%80%E5%8A%A8%23" target="weibo">
 第一次见明星收信比粉丝还激动（热度：957063）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E5%90%8C%E6%84%8F%E5%88%86%E6%89%8B%E9%80%BC%E5%A5%B3%E5%8F%8B%E5%96%9D%E5%86%9C%E8%8D%AF%E8%BA%AB%E4%BA%A1%23" target="weibo">
-男子不同意分手逼女友喝农药身亡（热度：955486）
 </a>
 </li>
 
@@ -2697,6 +2697,12 @@ Songha公开（热度：554934）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%BB%9D%E6%AC%A7%E7%9B%9F%E9%9B%B6%E5%85%B3%E7%A8%8E%E6%96%B9%E6%A1%88%23" target="weibo">
+特朗普拒绝欧盟零关税方案（热度：530941）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E4%B8%AD%E9%83%A8%E5%8D%97%E9%83%A8%E6%BC%94%E7%BB%83%23" target="weibo">
 解放军台湾海峡中部南部演练（热度：529324）
 </a>
@@ -3285,12 +3291,6 @@ hanbi公开（热度：468837）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%BB%9D%E6%AC%A7%E7%9B%9F%E9%9B%B6%E5%85%B3%E7%A8%8E%E6%96%B9%E6%A1%88%23" target="weibo">
-特朗普拒绝欧盟零关税方案（热度：446648）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%92%9E%E8%84%B8%E5%87%BA%E9%81%93%E8%9B%8B%E7%B3%95%23" target="weibo">
 张艺兴撞脸出道蛋糕（热度：445719）
 </a>
@@ -3473,6 +3473,12 @@ Hyunjun公开（热度：426369）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E8%8E%93%E6%80%8E%E4%B9%88%E8%BF%99%E4%B9%88%E4%BE%BF%E5%AE%9C%E4%BA%86%23" target="weibo">
 蓝莓怎么这么便宜了（热度：424689）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%86%8D%E5%8A%A0%E5%BE%8150%25%E5%85%B3%E7%A8%8E%23" target="weibo">
+外交部回应特朗普威胁再加征50%关税（热度：424141）
 </a>
 </li>
 
@@ -3675,6 +3681,12 @@ NINEPERCENT七周年（热度：415549）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E9%98%9FA%E8%82%A1%E5%BC%80%E7%9B%98%E5%89%8D%E5%AF%86%E9%9B%86%E8%A1%8C%E5%8A%A8%23" target="weibo">
+国家队A股开盘前密集行动（热度：403266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%B7%8C%E7%9A%84%E7%BE%8E%E8%82%A1%E5%8F%AF%E8%83%BD%E5%B0%9A%E6%9C%AA%E8%A7%81%E5%BA%95%23" target="weibo">
 大跌的美股可能尚未见底（热度：402904）
 </a>
@@ -3689,6 +3701,12 @@ NINEPERCENT七周年（热度：415549）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%A5%95%E7%95%85%E8%AE%B2%E8%BF%B0%E4%B8%8E%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%90%B5%E6%9E%B6%E5%A7%8B%E6%9C%AB%23" target="weibo">
 刘奕畅讲述与虞书欣吵架始末（热度：400052）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B3%AF%E7%A7%B0%E5%A6%BB%E5%AD%90%E6%8D%A2%E4%BF%9D%E5%A7%86%E5%AF%B9%E5%BE%97%E8%B5%B7%E4%BB%96%E4%BA%BA%23" target="weibo">
+林峯称妻子换保姆对得起他人（热度：400015）
 </a>
 </li>
 
@@ -3893,12 +3911,6 @@ AI复原出22岁烈士的模样（热度：383185）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%82%A6%23" target="weibo">
 杜邦（热度：382896）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E9%98%9FA%E8%82%A1%E5%BC%80%E7%9B%98%E5%89%8D%E5%AF%86%E9%9B%86%E8%A1%8C%E5%8A%A8%23" target="weibo">
-国家队A股开盘前密集行动（热度：382492）
 </a>
 </li>
 
@@ -4271,12 +4283,6 @@ deepseek崩了（热度：366398）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%82%A6%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E5%8F%8D%E5%9E%84%E6%96%AD%E6%B3%95%23" target="weibo">
 杜邦涉嫌违反反垄断法（热度：354229）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B3%AF%E7%A7%B0%E5%A6%BB%E5%AD%90%E6%8D%A2%E4%BF%9D%E5%A7%86%E5%AF%B9%E5%BE%97%E8%B5%B7%E4%BB%96%E4%BA%BA%23" target="weibo">
-林峯称妻子换保姆对得起他人（热度：353778）
 </a>
 </li>
 
@@ -5685,6 +5691,12 @@ EXO周边（热度：269976）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FX9%E7%9C%8B%E4%BC%BC%E5%B0%8F%E6%94%B9%E6%AC%BE%E5%AE%9E%E5%88%99%E5%A4%A7%E7%84%95%E6%96%B0%23" target="weibo">
+小鹏X9看似小改款实则大焕新（热度：263108）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23QQ%E9%9F%B3%E4%B9%90%20%E5%86%85%E6%B6%B5%23" target="weibo">
 QQ音乐 内涵（热度：262837）
 </a>
@@ -5999,18 +6011,6 @@ DeepSeek一句话让赵牧辰脸红（热度：252332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%9B%B2%E4%BA%BA%E6%8C%89%E6%91%A9%E5%BA%97%E7%94%B7%E5%91%98%E5%B7%A5%E6%9D%80%E5%A5%B3%E8%80%81%E6%9D%BF%23" target="weibo">
 警方通报盲人按摩店男员工杀女老板（热度：246934）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E5%88%91%E6%9C%9F%E6%88%96%E5%88%9B%E6%96%B0%E9%AB%98%23" target="weibo">
-尹锡悦刑期或创新高（热度：246629）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF%23" target="weibo">
-哪吒2票房（热度：246140）
 </a>
 </li>
 

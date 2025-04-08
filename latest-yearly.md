@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/08 14:34:43
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/08 14:47:41
 </p>
 </blockquote>
 <p>
@@ -921,6 +921,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E5%AE%A3%E5%B8%83%E9%80%80%E5%9C%88%23" target="weibo">
+金子涵宣布退圈（热度：3989371）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E6%9A%B4%E6%80%92%E9%97%AE%E8%A3%81%E5%88%A4%23" target="weibo">
 柯洁暴怒问裁判（热度：3939290）
 </a>
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7S%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%AD%BE%E5%90%8D%23" target="weibo">
 大S朋友圈签名（热度：2860425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A1%8C%E6%B5%8B%23" target="weibo">
-行测（热度：2859338）
 </a>
 </li>
 

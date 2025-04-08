@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744094083886,
+  "endTime": 1744094861447,
   "band_list": [
     {
       "raw_hot": 10117420,
@@ -11,8 +11,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2653174,
-      "num": 2653174,
+      "raw_hot": 3989371,
+      "num": 3989371,
       "word": "金子涵宣布退圈",
       "onboard_time": 1744093163,
       "rank": 0,
@@ -91,6 +91,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1279956,
+      "num": 445896,
+      "word": "男子不同意分手逼女友喝农药身亡",
+      "onboard_time": 1744091601,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1218122,
       "num": 1218122,
       "word": "张钧甯方回应炒股损失约862万",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1196332,
-      "num": 482944,
+      "num": 494188,
       "word": "文和友",
       "onboard_time": 1744091002,
       "rank": 6,
@@ -161,14 +169,6 @@
       "onboard_time": 1744034305,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 955486,
-      "num": 445896,
-      "word": "男子不同意分手逼女友喝农药身亡",
-      "onboard_time": 1744091601,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 916538,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530941,
+      "num": 530941,
+      "word": "特朗普拒绝欧盟零关税方案",
+      "onboard_time": 1744092561,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 517301,
       "num": 517301,
       "word": "赵丽颖造型师换了",
@@ -305,14 +313,6 @@
       "onboard_time": 1744041742,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 446648,
-      "num": 446648,
-      "word": "特朗普拒绝欧盟零关税方案",
-      "onboard_time": 1744092561,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 445719,
@@ -355,6 +355,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 424141,
+      "num": 424141,
+      "word": "外交部回应特朗普威胁再加征50%关税",
+      "onboard_time": 1744094123,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 422803,
       "num": 535916,
       "word": "施压威胁不是同中方打交道的正确方式",
@@ -369,6 +377,22 @@
       "onboard_time": 1744065076,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 403266,
+      "num": 446574,
+      "word": "国家队A股开盘前密集行动",
+      "onboard_time": 1744090823,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 400015,
+      "num": 400015,
+      "word": "林峯称妻子换保姆对得起他人",
+      "onboard_time": 1744093222,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 392602,
@@ -411,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 382492,
-      "num": 446574,
-      "word": "国家队A股开盘前密集行动",
-      "onboard_time": 1744090823,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 379643,
       "num": 379643,
       "word": "大张伟甲亢哥共进晚餐",
@@ -449,14 +465,6 @@
       "onboard_time": 1744068380,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 353778,
-      "num": 353778,
-      "word": "林峯称妻子换保姆对得起他人",
-      "onboard_time": 1744093222,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 353765,
@@ -651,6 +659,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 263108,
+      "num": 356204,
+      "word": "小鹏X9看似小改款实则大焕新",
+      "onboard_time": 1744093344,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 259580,
       "num": 259580,
       "word": "女性最该锻炼的肌肉是盆底肌",
@@ -723,6 +739,14 @@
       "category": "财经,国内时政"
     },
     {
+      "raw_hot": 242490,
+      "num": 242490,
+      "word": "国资委发声",
+      "onboard_time": 1744093703,
+      "rank": 43,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 240699,
       "num": 488080,
       "word": "专家称此时可能是股民继续抓反转机会",
@@ -769,14 +793,6 @@
       "onboard_time": 1744082481,
       "rank": 19,
       "category": "海外新闻,财经"
-    },
-    {
-      "raw_hot": 221759,
-      "num": 356204,
-      "word": "小鹏X9看似小改款实则大焕新",
-      "onboard_time": 1744093344,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 218244,
@@ -987,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186464,
+      "num": 186464,
+      "word": "有些电视剧真可以刷N次",
+      "onboard_time": 1744094723,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186359,
       "num": 186359,
       "word": "丁禹兮淮水竹亭预告镜头",
@@ -1027,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177336,
+      "num": 177336,
+      "word": "戴荃称遗憾哪吒没成功跟电影合作",
+      "onboard_time": 1744090762,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177289,
       "num": 177289,
       "word": "王一博扎小辫了",
@@ -1057,14 +1089,6 @@
       "onboard_time": 1744040841,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 174675,
-      "num": 174675,
-      "word": "国资委发声",
-      "onboard_time": 1744093703,
-      "rank": 43,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 174425,
@@ -1107,12 +1131,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 169809,
-      "num": 169809,
-      "word": "戴荃称遗憾哪吒没成功跟电影合作",
-      "onboard_time": 1744090762,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 169084,
+      "num": 169084,
+      "word": "阴阳师",
+      "onboard_time": 1744094542,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 168656,
+      "num": 168656,
+      "word": "赵丽颖下意识的反应最动人",
+      "onboard_time": 1744094781,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 167949,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1744081642,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166245,
+      "num": 166245,
+      "word": "鹿晗正定vlog下集",
+      "onboard_time": 1744094362,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 164944,
@@ -1241,6 +1281,14 @@
       "onboard_time": 1744079002,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 149755,
+      "num": 149755,
+      "word": "特朗普的金主们开喷关税",
+      "onboard_time": 1744094482,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149691,
@@ -1435,6 +1483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122009,
+      "num": 254005,
+      "word": "属于王楚钦的浪漫主义",
+      "onboard_time": 1744093703,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121239,
       "num": 121239,
       "word": "芒果台",
@@ -1611,14 +1667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87903,
-      "num": 254005,
-      "word": "属于王楚钦的浪漫主义",
-      "onboard_time": 1744093703,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87851,
       "num": 87851,
       "word": "谍报上不封顶 谭卓",
@@ -1691,6 +1739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80091,
+      "num": 167094,
+      "word": "雷霆特攻队定档",
+      "onboard_time": 1744094781,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 75502,
       "num": 404537,
       "word": "非法代孕机构在别墅内设地下手术室",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1744092621,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63152,
+      "num": 180120,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1744088003,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 61864,
@@ -1841,6 +1905,14 @@
       "onboard_time": 1744066819,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 46865,
+      "num": 1390288,
+      "word": "集中精力办好自己的事",
+      "onboard_time": 1743942741,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 44166,
@@ -2041,14 +2113,6 @@
       "onboard_time": 1744093042,
       "rank": 39,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 12674,
-      "num": 1390288,
-      "word": "集中精力办好自己的事",
-      "onboard_time": 1743942741,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 8923,

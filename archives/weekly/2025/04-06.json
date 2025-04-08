@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744094083886,
+  "endTime": 1744094861447,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -19,6 +19,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 3989371,
+      "num": 3989371,
+      "word": "金子涵宣布退圈",
+      "onboard_time": 1744093163,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2982394,
       "num": 2982394,
       "word": "芒果 尴尬",
@@ -33,14 +41,6 @@
       "onboard_time": 1743982099,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 2653174,
-      "num": 2653174,
-      "word": "金子涵宣布退圈",
-      "onboard_time": 1744093163,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2623060,
@@ -315,6 +315,14 @@
       "category": "网红,艺人"
     },
     {
+      "raw_hot": 1279956,
+      "num": 445896,
+      "word": "男子不同意分手逼女友喝农药身亡",
+      "onboard_time": 1744091601,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1241708,
       "num": 211813,
       "word": "日经",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 1196332,
-      "num": 482944,
+      "num": 494188,
       "word": "文和友",
       "onboard_time": 1744091002,
       "rank": 6,
@@ -569,14 +577,6 @@
       "onboard_time": 1744034305,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 955486,
-      "num": 445896,
-      "word": "男子不同意分手逼女友喝农药身亡",
-      "onboard_time": 1744091601,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 948201,
@@ -1259,6 +1259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 530941,
+      "num": 530941,
+      "word": "特朗普拒绝欧盟零关税方案",
+      "onboard_time": 1744092561,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 525057,
       "num": 525057,
       "word": "奥巴马首次抨击特朗普第二任期政策",
@@ -1515,14 +1523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 446648,
-      "num": 446648,
-      "word": "特朗普拒绝欧盟零关税方案",
-      "onboard_time": 1744092561,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 445719,
       "num": 445719,
       "word": "张艺兴撞脸出道蛋糕",
@@ -1627,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424141,
+      "num": 424141,
+      "word": "外交部回应特朗普威胁再加征50%关税",
+      "onboard_time": 1744094123,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 422803,
       "num": 535916,
       "word": "施压威胁不是同中方打交道的正确方式",
@@ -1715,6 +1723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 403266,
+      "num": 446574,
+      "word": "国家队A股开盘前密集行动",
+      "onboard_time": 1744090823,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 402904,
       "num": 402904,
       "word": "大跌的美股可能尚未见底",
@@ -1737,6 +1753,14 @@
       "onboard_time": 1743906380,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400015,
+      "num": 400015,
+      "word": "林峯称妻子换保姆对得起他人",
+      "onboard_time": 1744093222,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 398922,
@@ -1857,14 +1881,6 @@
       "onboard_time": 1743914420,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 382492,
-      "num": 446574,
-      "word": "国家队A股开盘前密集行动",
-      "onboard_time": 1744090823,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 381491,
@@ -2017,14 +2033,6 @@
       "onboard_time": 1743975315,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 353778,
-      "num": 353778,
-      "word": "林峯称妻子换保姆对得起他人",
-      "onboard_time": 1744093222,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 353765,
@@ -2755,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263108,
+      "num": 356204,
+      "word": "小鹏X9看似小改款实则大焕新",
+      "onboard_time": 1744093344,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 260424,
       "num": 260424,
       "word": "宋妍霏真把李斯丹妮梦来浪姐了",
@@ -2985,6 +3001,14 @@
       "onboard_time": 1743993263,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242490,
+      "num": 242490,
+      "word": "国资委发声",
+      "onboard_time": 1744093703,
+      "rank": 43,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 242188,
@@ -3273,14 +3297,6 @@
       "onboard_time": 1743993923,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 221759,
-      "num": 356204,
-      "word": "小鹏X9看似小改款实则大焕新",
-      "onboard_time": 1744093344,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 221273,
@@ -4155,6 +4171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186464,
+      "num": 186464,
+      "word": "有些电视剧真可以刷N次",
+      "onboard_time": 1744094723,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186364,
       "num": 398256,
       "word": "极氪007GT发布会定档415",
@@ -4531,6 +4555,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 177336,
+      "num": 177336,
+      "word": "戴荃称遗憾哪吒没成功跟电影合作",
+      "onboard_time": 1744090762,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177289,
       "num": 177289,
       "word": "王一博扎小辫了",
@@ -4601,14 +4633,6 @@
       "onboard_time": 1744040841,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 174675,
-      "num": 174675,
-      "word": "国资委发声",
-      "onboard_time": 1744093703,
-      "rank": 43,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 174363,
@@ -4699,14 +4723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169809,
-      "num": 169809,
-      "word": "戴荃称遗憾哪吒没成功跟电影合作",
-      "onboard_time": 1744090762,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 169663,
       "num": 169663,
       "word": "广州15岁男孩在家做实验引爆炸烧伤",
@@ -4739,12 +4755,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 169084,
+      "num": 169084,
+      "word": "阴阳师",
+      "onboard_time": 1744094542,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169017,
       "num": 169017,
       "word": "猛男到底有多喜欢粉色",
       "onboard_time": 1743916641,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168656,
+      "num": 168656,
+      "word": "赵丽颖下意识的反应最动人",
+      "onboard_time": 1744094781,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 168637,
@@ -4856,6 +4888,14 @@
       "word": "余承恩工作室回应",
       "onboard_time": 1744006402,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166245,
+      "num": 166245,
+      "word": "鹿晗正定vlog下集",
+      "onboard_time": 1744094362,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -5393,6 +5433,14 @@
       "onboard_time": 1744021763,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149755,
+      "num": 149755,
+      "word": "特朗普的金主们开喷关税",
+      "onboard_time": 1744094482,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149720,
@@ -6307,6 +6355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122009,
+      "num": 254005,
+      "word": "属于王楚钦的浪漫主义",
+      "onboard_time": 1744093703,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121890,
       "num": 121890,
       "word": "F1",
@@ -7179,14 +7235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87903,
-      "num": 254005,
-      "word": "属于王楚钦的浪漫主义",
-      "onboard_time": 1744093703,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87851,
       "num": 87851,
       "word": "谍报上不封顶 谭卓",
@@ -7409,6 +7457,14 @@
       "onboard_time": 1744031424,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 80091,
+      "num": 167094,
+      "word": "雷霆特攻队定档",
+      "onboard_time": 1744094781,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 79920,
@@ -7649,6 +7705,14 @@
       "onboard_time": 1743990500,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63152,
+      "num": 180120,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1744088003,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 63121,
