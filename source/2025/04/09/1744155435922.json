@@ -1,0 +1,410 @@
+{
+  "runTime": 1744155435922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 941456,
+        "num": 960633,
+        "word": "掘金解雇马龙",
+        "onboard_time": 1744140493,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 871707,
+        "num": 871707,
+        "word": "美国关税",
+        "onboard_time": 1744154300,
+        "rank": 1,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 131962,
+        "num": 548768,
+        "word": "中国不惹事也绝不怕事",
+        "onboard_time": 1744120942,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 453115,
+        "num": 453115,
+        "word": "特朗普称美国伊朗高层将直接会谈",
+        "onboard_time": 1744152798,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 390532,
+        "num": 390532,
+        "word": "外交部回应特朗普威胁再加征50%关税",
+        "onboard_time": 1744094123,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 304344,
+        "num": 304344,
+        "word": "贪官买宝马不敢开罩起来放地下室",
+        "onboard_time": 1744122204,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295216,
+        "num": 295216,
+        "word": "离境退税即买即退今起全国推广",
+        "onboard_time": 1744136835,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225329,
+        "num": 225329,
+        "word": "温州18岁失联男孩确认身亡",
+        "onboard_time": 1744124363,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166751,
+        "num": 166751,
+        "word": "孙俪凭什么当二十多年的女一",
+        "onboard_time": 1744124483,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122287,
+        "num": 165849,
+        "word": "质疑严浩翔导师身份选手道歉",
+        "onboard_time": 1744120343,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 803611,
+        "num": 164816,
+        "word": "女医生惨遭丧子之痛还带来凶宅官司",
+        "onboard_time": 1744125082,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190428,
+        "num": 161881,
+        "word": "办好自己的事中国有底气",
+        "onboard_time": 1744127542,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 450755,
+        "num": 161766,
+        "word": "Jennie杂志尺度好大",
+        "onboard_time": 1744115062,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 442383,
+        "num": 160017,
+        "word": "洪尚秀金敏喜得子",
+        "onboard_time": 1744154000,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400802,
+        "num": 157900,
+        "word": "孕妇做四维意外拍下宝宝干饭瞬间",
+        "onboard_time": 1744123104,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315208,
+        "num": 155331,
+        "word": "贾静雯回应股市受灾情况",
+        "onboard_time": 1744129220,
+        "rank": 15,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 301937,
+        "num": 155241,
+        "word": "金子涵脸都凹进去了",
+        "onboard_time": 1744124063,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199172,
+        "num": 153091,
+        "word": "林志玲为儿子做手工卡车",
+        "onboard_time": 1744151718,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127584,
+        "num": 150816,
+        "word": "贾静雯说只要不卖股票就当存钱",
+        "onboard_time": 1744155141,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83774,
+        "num": 150239,
+        "word": "念无双全员be",
+        "onboard_time": 1744118362,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89573,
+        "num": 147600,
+        "word": "美股跌完美债跌",
+        "onboard_time": 1744154119,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 277184,
+        "num": 146648,
+        "word": "市监局回应3员工上班看视频睡觉",
+        "onboard_time": 1744125742,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 145404,
+        "num": 145404,
+        "word": "6个儿子洗澡爸爸直接军事化管理",
+        "onboard_time": 1744122863,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138211,
+        "num": 138211,
+        "word": "男孩带着哭腔问180斤能救吗",
+        "onboard_time": 1744113982,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133933,
+        "num": 133933,
+        "word": "阿森纳3比0皇马",
+        "onboard_time": 1744154420,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20068,
+        "num": 131745,
+        "word": "上海队绝杀解说破音了",
+        "onboard_time": 1744155081,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131182,
+        "num": 131182,
+        "word": "旱厕边生产冒牌咖啡成本5元卖69",
+        "onboard_time": 1744141816,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126816,
+        "num": 126816,
+        "word": "林诗栋教练回应被网友劝遮一下手表",
+        "onboard_time": 1744126522,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82641,
+        "num": 124867,
+        "word": "张艺兴不参加EXO周年纪念活动",
+        "onboard_time": 1744114462,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77826,
+        "num": 124186,
+        "word": "赴山海过审",
+        "onboard_time": 1744112242,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123834,
+        "num": 123834,
+        "word": "南京地铁回应乘客看到诡异人脸",
+        "onboard_time": 1744107382,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38618,
+        "num": 111468,
+        "word": "多家上市公司回购增持",
+        "onboard_time": 1744155321,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108837,
+        "num": 108837,
+        "word": "珍珠项链居然可以这么戴",
+        "onboard_time": 1744155141,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108787,
+        "num": 108787,
+        "word": "美国多地民众开始囤货",
+        "onboard_time": 1744139954,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104457,
+        "num": 104457,
+        "word": "当地蜜雪冰城回应招牌变绿色",
+        "onboard_time": 1744104321,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98239,
+        "num": 98239,
+        "word": "新加坡总理说对美国深感失望",
+        "onboard_time": 1744155059,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97483,
+        "num": 97483,
+        "word": "瑞士人强烈感觉被美国针对了",
+        "onboard_time": 1744155021,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95505,
+        "num": 95505,
+        "word": "宠物狗被杀韩国女子欲杀父报仇",
+        "onboard_time": 1744123969,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92921,
+        "num": 92921,
+        "word": "房东回应女子759万买的房是凶宅",
+        "onboard_time": 1744147394,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89884,
+        "num": 89884,
+        "word": "女子称遭男友性侵立案两年后被撤案",
+        "onboard_time": 1744116323,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89726,
+        "num": 89726,
+        "word": "股民押中农业股1天从亏5万到赚5万",
+        "onboard_time": 1744123823,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88392,
+        "num": 88392,
+        "word": "自称现做网红蛋糕实为去年12月生产",
+        "onboard_time": 1744120163,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80017,
+        "num": 80017,
+        "word": "外交部回应美副总统说中国人乡巴佬",
+        "onboard_time": 1744113142,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78754,
+        "num": 78754,
+        "word": "被点名的四个星座做好脱单的准备",
+        "onboard_time": 1744155059,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76428,
+        "num": 76428,
+        "word": "偶遇张颂文逛街",
+        "onboard_time": 1744129760,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72160,
+        "num": 72160,
+        "word": "美国单边霸凌终将反噬自身",
+        "onboard_time": 1744104502,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71041,
+        "num": 71041,
+        "word": "经纪人不让祝绪丹体重低于80斤",
+        "onboard_time": 1744108642,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70488,
+        "num": 70488,
+        "word": "102岁老人坐1小时轮椅给儿女上坟",
+        "onboard_time": 1744154661,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 68344,
+        "num": 68344,
+        "word": "棋士22集鲨疯了",
+        "onboard_time": 1744124243,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67600,
+        "num": 67600,
+        "word": "二哈和他的白猫师尊有声剧",
+        "onboard_time": 1744155321,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济是一片大海#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744154601900,
+  "endTime": 1744155435922,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -819,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 871707,
+      "num": 871707,
+      "word": "美国关税",
+      "onboard_time": 1744154300,
+      "rank": 18,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 864178,
       "num": 864178,
       "word": "网红李美越致歉",
@@ -937,6 +945,14 @@
       "onboard_time": 1744034904,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 803611,
+      "num": 845181,
+      "word": "女医生惨遭丧子之痛还带来凶宅官司",
+      "onboard_time": 1744125082,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 799165,
@@ -1659,14 +1675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 508011,
-      "num": 845181,
-      "word": "女医生惨遭丧子之痛还带来凶宅官司",
-      "onboard_time": 1744125082,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 507008,
       "num": 507008,
       "word": "六代机",
@@ -1905,6 +1913,14 @@
       "onboard_time": 1743992064,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 442383,
+      "num": 199710,
+      "word": "洪尚秀金敏喜得子",
+      "onboard_time": 1744154000,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 442270,
@@ -2345,14 +2361,6 @@
       "onboard_time": 1744042281,
       "rank": 17,
       "category": "网红,艺人"
-    },
-    {
-      "raw_hot": 379578,
-      "num": 199710,
-      "word": "洪尚秀金敏喜得子",
-      "onboard_time": 1744154000,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 378154,
@@ -3011,6 +3019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 295216,
+      "num": 295216,
+      "word": "离境退税即买即退今起全国推广",
+      "onboard_time": 1744136835,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 295031,
       "num": 295031,
       "word": "赴山海过审",
@@ -3201,6 +3217,14 @@
       "onboard_time": 1743995363,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 277184,
+      "num": 323683,
+      "word": "市监局回应3员工上班看视频睡觉",
+      "onboard_time": 1744125742,
+      "rank": 30,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 276618,
@@ -3635,14 +3659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249436,
-      "num": 249436,
-      "word": "离境退税即买即退今起全国推广",
-      "onboard_time": 1744136835,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 249375,
       "num": 249375,
       "word": "孟子义单手骑马",
@@ -3689,14 +3705,6 @@
       "onboard_time": 1744001184,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 246055,
-      "num": 323683,
-      "word": "市监局回应3员工上班看视频睡觉",
-      "onboard_time": 1744125742,
-      "rank": 30,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 245204,
@@ -4961,14 +4969,6 @@
       "onboard_time": 1743945683,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 191794,
-      "num": 191794,
-      "word": "美国关税",
-      "onboard_time": 1744154300,
-      "rank": 18,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 191540,
@@ -7275,6 +7275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133933,
+      "num": 133933,
+      "word": "阿森纳3比0皇马",
+      "onboard_time": 1744154420,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133800,
       "num": 133800,
       "word": "Bin放话TheShy",
@@ -7561,6 +7569,14 @@
       "onboard_time": 1743907581,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 127584,
+      "num": 150816,
+      "word": "贾静雯说只要不卖股票就当存钱",
+      "onboard_time": 1744155141,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 127487,
@@ -8363,6 +8379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108837,
+      "num": 108837,
+      "word": "珍珠项链居然可以这么戴",
+      "onboard_time": 1744155141,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108653,
       "num": 108653,
       "word": "招行4月9日起停止ATM扫码存款",
@@ -8683,6 +8707,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98239,
+      "num": 98239,
+      "word": "新加坡总理说对美国深感失望",
+      "onboard_time": 1744155059,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 97483,
+      "num": 97483,
+      "word": "瑞士人强烈感觉被美国针对了",
+      "onboard_time": 1744155021,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97381,
       "num": 97381,
       "word": "海贼王",
@@ -8849,6 +8889,14 @@
       "onboard_time": 1743908661,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89573,
+      "num": 214390,
+      "word": "美股跌完美债跌",
+      "onboard_time": 1744154119,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 89243,
@@ -9187,6 +9235,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 78754,
+      "num": 78754,
+      "word": "被点名的四个星座做好脱单的准备",
+      "onboard_time": 1744155059,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78457,
       "num": 291261,
       "word": "邓萃雯谈如何度过人生垃圾时间",
@@ -9307,6 +9363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70488,
+      "num": 70488,
+      "word": "102岁老人坐1小时轮椅给儿女上坟",
+      "onboard_time": 1744154661,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 70238,
       "num": 70238,
       "word": "念无双番外",
@@ -9369,6 +9433,14 @@
       "onboard_time": 1743895217,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 67600,
+      "num": 67600,
+      "word": "二哈和他的白猫师尊有声剧",
+      "onboard_time": 1744155321,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 66718,
@@ -9603,14 +9675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57731,
-      "num": 57731,
-      "word": "阿森纳3比0皇马",
-      "onboard_time": 1744154420,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 57701,
       "num": 537107,
       "word": "创业板指高开1.68%",
@@ -9761,14 +9825,6 @@
       "onboard_time": 1744067420,
       "rank": 49,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 50853,
-      "num": 214390,
-      "word": "美股跌完美债跌",
-      "onboard_time": 1744154119,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 50772,
@@ -10049,6 +10105,14 @@
       "onboard_time": 1744131498,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38618,
+      "num": 111468,
+      "word": "多家上市公司回购增持",
+      "onboard_time": 1744155321,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 38577,
@@ -10489,6 +10553,14 @@
       "onboard_time": 1744051935,
       "rank": 9,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 20068,
+      "num": 131745,
+      "word": "上海队绝杀解说破音了",
+      "onboard_time": 1744155081,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 19831,
