@@ -1,0 +1,410 @@
+{
+  "runTime": 1744119919938,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1224111,
+        "num": 1224111,
+        "word": "南京地铁回应乘客看到诡异人脸",
+        "onboard_time": 1744107382,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 772751,
+        "num": 772751,
+        "word": "外交部回应美副总统说中国人乡巴佬",
+        "onboard_time": 1744113142,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240672,
+        "num": 717912,
+        "word": "若美国执意打关税战中方奉陪到底",
+        "onboard_time": 1744112542,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 697892,
+        "num": 697892,
+        "word": "金子涵去年8月曾瘦脱相",
+        "onboard_time": 1744110682,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676517,
+        "num": 676517,
+        "word": "女子称遭男友性侵立案两年后被撤案",
+        "onboard_time": 1744116323,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533996,
+        "num": 533996,
+        "word": "是严浩翔的话那很正常了",
+        "onboard_time": 1744117343,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505621,
+        "num": 505621,
+        "word": "陈飞宇朋友圈",
+        "onboard_time": 1744106782,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469665,
+        "num": 469665,
+        "word": "张艺兴不参加EXO周年纪念活动",
+        "onboard_time": 1744114462,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431181,
+        "num": 431181,
+        "word": "有一种中国风叫牡丹",
+        "onboard_time": 1744111822,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417060,
+        "num": 417060,
+        "word": "招牌禁用红黑蓝色商家称是自费",
+        "onboard_time": 1744116861,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2722473,
+        "num": 416563,
+        "word": "Jennie杂志尺度好大",
+        "onboard_time": 1744115062,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 566346,
+        "num": 409499,
+        "word": "电脑微信会惩罚每一个分手的人",
+        "onboard_time": 1744107982,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 402355,
+        "num": 402355,
+        "word": "1600人报名背黄帝内经得145万活动",
+        "onboard_time": 1744117642,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401016,
+        "num": 401016,
+        "word": "经纪人不让祝绪丹体重低于80斤",
+        "onboard_time": 1744108642,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97986,
+        "num": 379045,
+        "word": "你支持携带宠物上高铁吗",
+        "onboard_time": 1744118843,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362787,
+        "num": 362787,
+        "word": "当地蜜雪冰城回应招牌变绿色",
+        "onboard_time": 1744104321,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329318,
+        "num": 329318,
+        "word": "念无双全员be",
+        "onboard_time": 1744118362,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305422,
+        "num": 305422,
+        "word": "女生在机场狂炫2斤酸奶吃出痛苦面具",
+        "onboard_time": 1744112422,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299419,
+        "num": 299419,
+        "word": "金子涵曾瘦到49公斤",
+        "onboard_time": 1744115121,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109677,
+        "num": 298136,
+        "word": "专家建议利用美股暴跌把股市搞起来",
+        "onboard_time": 1744118903,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 337751,
+        "num": 298097,
+        "word": "甲亢哥可能再直播2个城市",
+        "onboard_time": 1744105222,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 297398,
+        "num": 297398,
+        "word": "男孩带着哭腔问180斤能救吗",
+        "onboard_time": 1744113982,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254071,
+        "num": 254071,
+        "word": "如美方一意孤行中方奉陪到底",
+        "onboard_time": 1744104381,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252507,
+        "num": 252507,
+        "word": "外交部回应特朗普威胁再加征50%关税",
+        "onboard_time": 1744094123,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 248806,
+        "num": 248806,
+        "word": "meiko状态",
+        "onboard_time": 1744117943,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229833,
+        "num": 229833,
+        "word": "女子称订婚后提分手遭男友性侵",
+        "onboard_time": 1744118362,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224625,
+        "num": 224625,
+        "word": "EXO直播",
+        "onboard_time": 1744113142,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221926,
+        "num": 221926,
+        "word": "有些电视剧真可以刷N次",
+        "onboard_time": 1744094723,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209551,
+        "num": 209551,
+        "word": "林允发质",
+        "onboard_time": 1744117583,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173948,
+        "num": 173948,
+        "word": "美国华商称有中国进口货被抢光",
+        "onboard_time": 1744114401,
+        "rank": 29,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 167411,
+        "num": 167411,
+        "word": "中国人不惹事也不怕事",
+        "onboard_time": 1744095022,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164325,
+        "num": 164325,
+        "word": "iG对战AL",
+        "onboard_time": 1744114343,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80288,
+        "num": 161471,
+        "word": "孙杨3比0周哲宇",
+        "onboard_time": 1744119803,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81624,
+        "num": 159245,
+        "word": "马龙说每一个冠军都不容易",
+        "onboard_time": 1744119022,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92641,
+        "num": 159087,
+        "word": "刘宇宁为粉丝的钱操碎了心",
+        "onboard_time": 1744119803,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158966,
+        "num": 158966,
+        "word": "体重下降的50个冷知识",
+        "onboard_time": 1744101921,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 156879,
+        "num": 156879,
+        "word": "美国一瓶中国产洗发水涨了12美元",
+        "onboard_time": 1744095623,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146009,
+        "num": 146009,
+        "word": "棋士",
+        "onboard_time": 1744118963,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142190,
+        "num": 142190,
+        "word": "菠萝拌黄瓜",
+        "onboard_time": 1744101681,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142108,
+        "num": 142108,
+        "word": "等iPhone17还是现在抄底16",
+        "onboard_time": 1744107922,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137636,
+        "num": 137636,
+        "word": "美国50万人游行要求特朗普住手",
+        "onboard_time": 1744114762,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135558,
+        "num": 135558,
+        "word": "念无双结局",
+        "onboard_time": 1744112542,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134709,
+        "num": 134709,
+        "word": "上班前和上班一年后的区别",
+        "onboard_time": 1744116801,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123049,
+        "num": 123049,
+        "word": "赴山海过审",
+        "onboard_time": 1744112242,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5880,
+        "num": 122537,
+        "word": "甲亢哥被十面埋伏的杀气吓到",
+        "onboard_time": 1744119862,
+        "rank": 44,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 122381,
+        "num": 122381,
+        "word": "好多选手想加入严浩翔队",
+        "onboard_time": 1744118481,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120727,
+        "num": 120727,
+        "word": "纽股开盘前特朗普再发文引不满",
+        "onboard_time": 1744119443,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117102,
+        "num": 117102,
+        "word": "Siri已可控制小米汽车",
+        "onboard_time": 1744118029,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115089,
+        "num": 115089,
+        "word": "员工累计加班30天获赔6万加班费",
+        "onboard_time": 1744117762,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114503,
+        "num": 114503,
+        "word": "陈飞宇说从225斤瘦下来全靠跑步",
+        "onboard_time": 1744102340,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#在春风里树木也是树人#"
+    }
+  }
+}
