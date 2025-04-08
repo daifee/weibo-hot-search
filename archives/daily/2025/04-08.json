@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744111271818,
+  "endTime": 1744112177495,
   "band_list": [
     {
       "raw_hot": 10117420,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1118748,
+      "num": 666872,
+      "word": "金子涵去年8月曾瘦脱相",
+      "onboard_time": 1744110682,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1103346,
       "num": 1103346,
       "word": "美国一瓶中国产洗发水涨了12美元",
@@ -275,6 +283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 829818,
+      "num": 519011,
+      "word": "陈飞宇朋友圈",
+      "onboard_time": 1744106782,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 815926,
       "num": 815926,
       "word": "特朗普支持率降至上任来最低",
@@ -289,14 +305,6 @@
       "onboard_time": 1744094123,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 769934,
-      "num": 519011,
-      "word": "陈飞宇朋友圈",
-      "onboard_time": 1744106782,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 768613,
@@ -408,14 +416,6 @@
       "word": "刘浩存 小马宝莉",
       "onboard_time": 1744097782,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 605607,
-      "num": 397951,
-      "word": "金子涵去年8月曾瘦脱相",
-      "onboard_time": 1744110682,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -795,6 +795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 307793,
+      "num": 300351,
+      "word": "等iPhone17还是现在抄底16",
+      "onboard_time": 1744107922,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303066,
       "num": 303066,
       "word": "上海人均4000元的云南菜",
@@ -809,14 +817,6 @@
       "onboard_time": 1744109182,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 300351,
-      "num": 300351,
-      "word": "等iPhone17还是现在抄底16",
-      "onboard_time": 1744107922,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 299645,
@@ -1387,6 +1387,14 @@
       "category": "财经,国际时政"
     },
     {
+      "raw_hot": 197260,
+      "num": 197260,
+      "word": "严浩翔黑色深V皮衣",
+      "onboard_time": 1744111282,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195976,
       "num": 195976,
       "word": "徐明浩把柳絮天走成初雪",
@@ -1459,6 +1467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189711,
+      "num": 288596,
+      "word": "长沙在市中心大屏感谢甲亢哥",
+      "onboard_time": 1744107081,
+      "rank": 39,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 189443,
       "num": 189443,
       "word": "大侦探",
@@ -1499,14 +1515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185321,
-      "num": 288596,
-      "word": "长沙在市中心大屏感谢甲亢哥",
-      "onboard_time": 1744107081,
-      "rank": 39,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 185201,
       "num": 185201,
       "word": "蒋敦豪捡到粉丝的口红",
@@ -1540,7 +1548,7 @@
     },
     {
       "raw_hot": 181566,
-      "num": 181566,
+      "num": 191026,
       "word": "艾威妻子急需换肝",
       "onboard_time": 1744110383,
       "rank": 34,
@@ -1657,6 +1665,14 @@
       "onboard_time": 1744024643,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 169770,
+      "num": 169770,
+      "word": "有一种中国风叫牡丹",
+      "onboard_time": 1744111822,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169084,
@@ -1809,6 +1825,14 @@
       "onboard_time": 1744081583,
       "rank": 47,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 150769,
+      "num": 150769,
+      "word": "小杨臻选APP会员费99元一年",
+      "onboard_time": 1744111282,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150557,
@@ -1985,6 +2009,22 @@
       "onboard_time": 1744098203,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 138775,
+      "num": 138775,
+      "word": "甲亢哥一想到结束中国行就不忍鼻酸",
+      "onboard_time": 1744111582,
+      "rank": 38,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 138739,
+      "num": 138739,
+      "word": "NexT1DE男团出道2天3个音乐节",
+      "onboard_time": 1744111644,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 138505,
@@ -2203,6 +2243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122653,
+      "num": 418954,
+      "word": "关键时刻国家队出手",
+      "onboard_time": 1744110142,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122132,
       "num": 273282,
       "word": "丧葬风招牌为何阴魂不散",
@@ -2217,6 +2265,14 @@
       "onboard_time": 1744032264,
       "rank": 30,
       "category": "网红,作品衍生"
+    },
+    {
+      "raw_hot": 120756,
+      "num": 120756,
+      "word": "大学生寒暑假至少开展1次实习",
+      "onboard_time": 1744111222,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119209,
@@ -2249,6 +2305,14 @@
       "onboard_time": 1744106782,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115936,
+      "num": 115936,
+      "word": "柯南一生最遗憾的案件",
+      "onboard_time": 1744111042,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 114775,
@@ -2291,14 +2355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111256,
-      "num": 111256,
-      "word": "大学生寒暑假至少开展1次实习",
-      "onboard_time": 1744111222,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111126,
       "num": 744340,
       "word": "央行回应支持中央汇金稳定资本市场",
@@ -2329,6 +2385,14 @@
       "onboard_time": 1744106361,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 109140,
+      "num": 138756,
+      "word": "新型避孕针一针管两年",
+      "onboard_time": 1744111822,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108870,
@@ -2387,28 +2451,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 101499,
-      "num": 108611,
-      "word": "柯南一生最遗憾的案件",
-      "onboard_time": 1744111042,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 99213,
       "num": 225190,
       "word": "苹果手机成白宫泄密门主要原因",
       "onboard_time": 1744088363,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 98358,
-      "num": 418954,
-      "word": "关键时刻国家队出手",
-      "onboard_time": 1744110142,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 96718,
@@ -2675,6 +2723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 60949,
+      "num": 350122,
+      "word": "廊坊规定广告牌样式比普通牌匾贵30%",
+      "onboard_time": 1744110622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59939,
       "num": 243992,
       "word": "2025LPL",
@@ -2771,6 +2827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45354,
+      "num": 187368,
+      "word": "同事回忆手术间隔休息期离世医师",
+      "onboard_time": 1744111103,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44166,
       "num": 280972,
       "word": "白宫高官回怼马斯克就一卖车的",
@@ -2817,6 +2881,14 @@
       "onboard_time": 1744103721,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39473,
+      "num": 384703,
+      "word": "美国四处挥拳攻击与世界为敌",
+      "onboard_time": 1744110561,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39119,
@@ -2896,14 +2968,6 @@
       "word": "女子诈骗3位老人370万获刑12年",
       "onboard_time": 1744102522,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30961,
-      "num": 350122,
-      "word": "廊坊规定广告牌样式比普通牌匾贵30%",
-      "onboard_time": 1744110622,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2993,22 +3057,6 @@
       "onboard_time": 1744051935,
       "rank": 9,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 21840,
-      "num": 154190,
-      "word": "同事回忆手术间隔休息期离世医师",
-      "onboard_time": 1744111103,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19775,
-      "num": 384703,
-      "word": "美国四处挥拳攻击与世界为敌",
-      "onboard_time": 1744110561,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19517,
