@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744152054727,
+  "endTime": 1744154601900,
   "band_list": [
     {
       "raw_hot": 1108687,
@@ -11,6 +11,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 998651,
+      "num": 998651,
+      "word": "掘金解雇马龙",
+      "onboard_time": 1744140493,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 861452,
       "num": 321230,
       "word": "金子涵脸都凹进去了",
@@ -19,12 +27,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 634246,
-      "num": 634246,
-      "word": "掘金解雇马龙",
-      "onboard_time": 1744140493,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 508011,
+      "num": 845181,
+      "word": "女医生惨遭丧子之痛还带来凶宅官司",
+      "onboard_time": 1744125082,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 505336,
@@ -35,12 +43,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 497227,
-      "num": 845181,
-      "word": "女医生惨遭丧子之痛还带来凶宅官司",
-      "onboard_time": 1744125082,
-      "rank": 0,
-      "category": "民生新闻"
+      "raw_hot": 468349,
+      "num": 468349,
+      "word": "特朗普称美国伊朗高层将直接会谈",
+      "onboard_time": 1744152798,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 464275,
+      "num": 464275,
+      "word": "外交部回应特朗普威胁再加征50%关税",
+      "onboard_time": 1744094123,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 417613,
+      "num": 211724,
+      "word": "贾静雯回应股市受灾情况",
+      "onboard_time": 1744129220,
+      "rank": 14,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 417161,
@@ -51,12 +75,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 367948,
-      "num": 211724,
-      "word": "贾静雯回应股市受灾情况",
-      "onboard_time": 1744129220,
-      "rank": 14,
-      "category": "艺人,财经"
+      "raw_hot": 379578,
+      "num": 199710,
+      "word": "洪尚秀金敏喜得子",
+      "onboard_time": 1744154000,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 358792,
@@ -99,16 +123,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278680,
-      "num": 278680,
-      "word": "外交部回应特朗普威胁再加征50%关税",
-      "onboard_time": 1744094123,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 263997,
-      "num": 216184,
+      "num": 258480,
       "word": "温州18岁失联男孩确认身亡",
       "onboard_time": 1744124363,
       "rank": 13,
@@ -123,12 +139,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226951,
+      "raw_hot": 249436,
+      "num": 249436,
+      "word": "离境退税即买即退今起全国推广",
+      "onboard_time": 1744136835,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 246055,
       "num": 226951,
       "word": "市监局回应3员工上班看视频睡觉",
       "onboard_time": 1744125742,
       "rank": 7,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 230044,
+      "num": 191963,
+      "word": "林志玲为儿子做手工卡车",
+      "onboard_time": 1744151718,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 220190,
@@ -139,12 +171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219360,
+      "num": 219360,
+      "word": "办好自己的事中国有底气",
+      "onboard_time": 1744127542,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 195252,
       "num": 195252,
       "word": "P图姐给黄俊捷发律师函",
       "onboard_time": 1744125563,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191794,
+      "num": 191794,
+      "word": "美国关税",
+      "onboard_time": 1744154300,
+      "rank": 18,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 176014,
@@ -156,11 +204,19 @@
     },
     {
       "raw_hot": 172439,
-      "num": 172439,
+      "num": 174803,
       "word": "质疑严浩翔导师身份选手道歉",
       "onboard_time": 1744120343,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167390,
+      "num": 167390,
+      "word": "旱厕边生产冒牌咖啡成本5元卖69",
+      "onboard_time": 1744141816,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160091,
@@ -169,14 +225,6 @@
       "onboard_time": 1744126642,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159948,
-      "num": 159948,
-      "word": "办好自己的事中国有底气",
-      "onboard_time": 1744127542,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 152627,
@@ -188,19 +236,19 @@
     },
     {
       "raw_hot": 146601,
-      "num": 323170,
+      "num": 465997,
       "word": "中国不惹事也绝不怕事",
       "onboard_time": 1744120942,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 144348,
-      "num": 144348,
-      "word": "离境退税即买即退今起全国推广",
-      "onboard_time": 1744136835,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 137594,
+      "num": 137594,
+      "word": "林诗栋教练回应被网友劝遮一下手表",
+      "onboard_time": 1744126522,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 136663,
@@ -219,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135277,
+      "num": 135277,
+      "word": "6个儿子洗澡爸爸直接军事化管理",
+      "onboard_time": 1744122863,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134083,
       "num": 178531,
       "word": "美国多地民众开始囤货",
@@ -233,6 +289,14 @@
       "onboard_time": 1744121424,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125990,
+      "num": 125990,
+      "word": "男孩带着哭腔问180斤能救吗",
+      "onboard_time": 1744113982,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124395,
@@ -275,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109736,
+      "num": 109736,
+      "word": "房东回应女子759万买的房是凶宅",
+      "onboard_time": 1744147394,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109325,
       "num": 109325,
       "word": "有一种中国风叫牡丹",
@@ -289,14 +361,6 @@
       "onboard_time": 1744108642,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108022,
-      "num": 108022,
-      "word": "男孩带着哭腔问180斤能救吗",
-      "onboard_time": 1744113982,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107964,
@@ -315,28 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102199,
-      "num": 102199,
-      "word": "林诗栋教练回应被网友劝遮一下手表",
-      "onboard_time": 1744126522,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100455,
       "num": 100455,
       "word": "美国单边霸凌终将反噬自身",
       "onboard_time": 1744104502,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 97615,
-      "num": 97615,
-      "word": "旱厕边生产冒牌咖啡成本5元卖69",
-      "onboard_time": 1744141816,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94060,
@@ -387,20 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84928,
+      "num": 84928,
+      "word": "2025年第99天",
+      "onboard_time": 1744154000,
+      "rank": 35,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 83947,
-      "num": 83947,
+      "num": 103204,
       "word": "棋士22集鲨疯了",
       "onboard_time": 1744124243,
       "rank": 42,
       "category": "剧集"
     },
     {
-      "raw_hot": 82436,
-      "num": 82436,
-      "word": "6个儿子洗澡爸爸直接军事化管理",
-      "onboard_time": 1744122863,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 83696,
+      "num": 83696,
+      "word": "美威胁进一步对华加征50%关税",
+      "onboard_time": 1744133597,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80343,
@@ -459,11 +515,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68194,
-      "num": 68194,
-      "word": "房东回应女子759万买的房是凶宅",
-      "onboard_time": 1744147394,
+      "raw_hot": 69435,
+      "num": 69435,
+      "word": "拜仁1比2国际米兰",
+      "onboard_time": 1744153939,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61786,
+      "num": 61786,
+      "word": "陶勇亲自为越发刚手术称手术顺利",
+      "onboard_time": 1744144514,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -475,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58344,
-      "num": 58344,
-      "word": "陶勇亲自为越发刚手术称手术顺利",
-      "onboard_time": 1744144514,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 57731,
+      "num": 57731,
+      "word": "阿森纳3比0皇马",
+      "onboard_time": 1744154420,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 56423,
@@ -491,12 +555,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49003,
-      "num": 49003,
-      "word": "美威胁进一步对华加征50%关税",
-      "onboard_time": 1744133597,
-      "rank": 26,
+      "raw_hot": 53870,
+      "num": 53870,
+      "word": "伊朗外长重申不会与美国直接谈判",
+      "onboard_time": 1744137555,
+      "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52420,
+      "num": 52420,
+      "word": "央行必要时将再贷款支持中央汇金",
+      "onboard_time": 1744133357,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 50853,
+      "num": 214390,
+      "word": "美股跌完美债跌",
+      "onboard_time": 1744154119,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 47824,
@@ -505,6 +585,14 @@
       "onboard_time": 1744131258,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 46789,
+      "num": 46789,
+      "word": "把簪花送给了济州岛的海女",
+      "onboard_time": 1744153879,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 46069,
@@ -539,28 +627,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37150,
-      "num": 37150,
-      "word": "伊朗外长重申不会与美国直接谈判",
-      "onboard_time": 1744137555,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 36579,
       "num": 36579,
       "word": "美国政府正严重伤害美国人民",
       "onboard_time": 1744143914,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 34636,
-      "num": 34636,
-      "word": "央行必要时将再贷款支持中央汇金",
-      "onboard_time": 1744133357,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 33826,
@@ -617,14 +689,6 @@
       "onboard_time": 1744144275,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26886,
-      "num": 30331,
-      "word": "林志玲为儿子做手工卡车",
-      "onboard_time": 1744151718,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 18269,
