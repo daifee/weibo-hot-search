@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744087460216,
+  "endTime": 1744089864885,
   "band_list": [
     {
       "raw_hot": 10117420,
@@ -73,6 +73,14 @@
       "onboard_time": 1744081822,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1216775,
+      "num": 1216775,
+      "word": "小沈阳跪下那一刻",
+      "onboard_time": 1744086685,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 1134350,
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 732750,
+      "num": 640377,
+      "word": "停播半年后三只羊小杨臻选APP上线",
+      "onboard_time": 1744087945,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 729002,
       "num": 729002,
       "word": "河南省考成绩",
@@ -169,6 +185,14 @@
       "onboard_time": 1744074625,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 702838,
+      "num": 702838,
+      "word": "廊坊一蜜雪冰城招牌变绿色",
+      "onboard_time": 1744087045,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 644563,
@@ -193,6 +217,14 @@
       "onboard_time": 1744085664,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 551992,
+      "num": 397722,
+      "word": "余承恩",
+      "onboard_time": 1744087704,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 517301,
@@ -233,14 +265,6 @@
       "onboard_time": 1744041742,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 445596,
-      "num": 445596,
-      "word": "小沈阳跪下那一刻",
-      "onboard_time": 1744086685,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 437436,
@@ -307,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388006,
+      "num": 388006,
+      "word": "爱奇艺 念无双",
+      "onboard_time": 1744087284,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387879,
       "num": 747709,
       "word": "A股走强",
@@ -329,6 +361,14 @@
       "onboard_time": 1744042281,
       "rank": 17,
       "category": "网红,艺人"
+    },
+    {
+      "raw_hot": 377882,
+      "num": 377882,
+      "word": "医院旁小吃店被曝胎盘加工",
+      "onboard_time": 1744087704,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 372367,
@@ -475,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 283971,
+      "num": 283971,
+      "word": "中国反制下美国六代机项目恐流产",
+      "onboard_time": 1744087704,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 283338,
       "num": 283338,
       "word": "人民银行重磅发声",
@@ -531,6 +579,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 259580,
+      "num": 259580,
+      "word": "女性最该锻炼的肌肉是盆底肌",
+      "onboard_time": 1744084342,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 258554,
       "num": 380808,
       "word": "日本股市暴力反弹",
@@ -556,7 +612,7 @@
     },
     {
       "raw_hot": 247727,
-      "num": 247727,
+      "num": 259644,
       "word": "考研英语黄皮书真题将成绝版",
       "onboard_time": 1744086565,
       "rank": 31,
@@ -569,14 +625,6 @@
       "onboard_time": 1744080323,
       "rank": 13,
       "category": "财经,国内时政"
-    },
-    {
-      "raw_hot": 242782,
-      "num": 242782,
-      "word": "女性最该锻炼的肌肉是盆底肌",
-      "onboard_time": 1744084342,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 240699,
@@ -609,6 +657,14 @@
       "onboard_time": 1744082481,
       "rank": 19,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 222389,
+      "num": 222389,
+      "word": "居然还有孟子义接不住的话",
+      "onboard_time": 1744089022,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 218244,
@@ -691,14 +747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204501,
-      "num": 204501,
-      "word": "爱奇艺 念无双",
-      "onboard_time": 1744087284,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202414,
       "num": 137158,
       "word": "救援队在缅甸发现20公斤黄金",
@@ -731,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196545,
+      "num": 230753,
+      "word": "花千万买日本寺庙的中国人后悔了",
+      "onboard_time": 1744089144,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195780,
       "num": 195780,
       "word": "诺一上法国新闻",
@@ -755,12 +811,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193805,
+      "num": 193805,
+      "word": "熟悉的孟美岐回归了",
+      "onboard_time": 1744089144,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191540,
       "num": 177190,
       "word": "纽约股市开盘前特朗普让美国人坚强",
       "onboard_time": 1744064416,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187348,
+      "num": 220337,
+      "word": "王安宇人杀青了记忆没杀青",
+      "onboard_time": 1744089383,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 186359,
@@ -787,8 +859,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183604,
+      "num": 183604,
+      "word": "张艺兴谈未来规划",
+      "onboard_time": 1744089324,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181485,
-      "num": 181485,
+      "num": 322491,
       "word": "江华批TVB最失败是山头文化",
       "onboard_time": 1744083203,
       "rank": 43,
@@ -817,6 +897,14 @@
       "onboard_time": 1744040841,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 174425,
+      "num": 174425,
+      "word": "吃饭跑步和恋爱",
+      "onboard_time": 1744088485,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 173919,
@@ -921,6 +1009,14 @@
       "onboard_time": 1744069283,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155459,
+      "num": 155459,
+      "word": "大侦探",
+      "onboard_time": 1744089623,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 154266,
@@ -1035,12 +1131,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 137239,
-      "num": 318589,
-      "word": "廊坊一蜜雪冰城招牌变绿色",
-      "onboard_time": 1744087045,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 138505,
+      "num": 138505,
+      "word": "新说唱直播",
+      "onboard_time": 1744088183,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 136989,
@@ -1049,6 +1145,14 @@
       "onboard_time": 1744077443,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136897,
+      "num": 136897,
+      "word": "等我考上名校我也这么拽",
+      "onboard_time": 1744088783,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 135884,
@@ -1227,12 +1331,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 99565,
+      "num": 191767,
+      "word": "多国出手紧急救市",
+      "onboard_time": 1744089084,
+      "rank": 37,
+      "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 99213,
+      "num": 225190,
+      "word": "苹果手机成白宫泄密门主要原因",
+      "onboard_time": 1744088363,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96718,
       "num": 96718,
       "word": "美股两天跌没了德国加韩国GDP",
       "onboard_time": 1744034185,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 95634,
+      "num": 319565,
+      "word": "养娃路上的神队友",
+      "onboard_time": 1744085664,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95154,
@@ -1297,14 +1425,6 @@
       "onboard_time": 1744068861,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 85302,
-      "num": 319565,
-      "word": "养娃路上的神队友",
-      "onboard_time": 1744085664,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84901,
@@ -1433,6 +1553,14 @@
       "onboard_time": 1744080141,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 53957,
+      "num": 145203,
+      "word": "马龙许昕刘诗雯云南奥运冠军进校园",
+      "onboard_time": 1744089022,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 53581,

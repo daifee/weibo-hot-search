@@ -1,0 +1,410 @@
+{
+  "runTime": 1744089864885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5326934,
+        "num": 5326934,
+        "word": "中方回应特朗普威胁额外征收50%关税",
+        "onboard_time": 1744069100,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2234500,
+        "num": 2234500,
+        "word": "白宫内讧",
+        "onboard_time": 1744084765,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14659,
+        "num": 1614410,
+        "word": "中国坚定不移维护多边主义",
+        "onboard_time": 1743942922,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1225199,
+        "num": 1225199,
+        "word": "朱天天曝创造101内幕",
+        "onboard_time": 1744083021,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1216775,
+        "num": 1216775,
+        "word": "小沈阳跪下那一刻",
+        "onboard_time": 1744086685,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 702838,
+        "num": 702838,
+        "word": "廊坊一蜜雪冰城招牌变绿色",
+        "onboard_time": 1744087045,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 872779,
+        "num": 645421,
+        "word": "张钧甯方回应炒股损失约862万",
+        "onboard_time": 1744081822,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732750,
+        "num": 640377,
+        "word": "停播半年后三只羊小杨臻选APP上线",
+        "onboard_time": 1744087945,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 528784,
+        "num": 528784,
+        "word": "毛泽东曾孙毛东东走进湖南一师",
+        "onboard_time": 1744076302,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 400878,
+        "num": 400878,
+        "word": "中国为什么能全球第一个反制对等关税",
+        "onboard_time": 1744034605,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 551992,
+        "num": 397722,
+        "word": "余承恩",
+        "onboard_time": 1744087704,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483633,
+        "num": 396312,
+        "word": "甜馨说自己不可能张口就要到东西",
+        "onboard_time": 1744074924,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388006,
+        "num": 388006,
+        "word": "爱奇艺 念无双",
+        "onboard_time": 1744087284,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377882,
+        "num": 377882,
+        "word": "医院旁小吃店被曝胎盘加工",
+        "onboard_time": 1744087704,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332661,
+        "num": 332661,
+        "word": "美副总统称中国人乡巴佬被批",
+        "onboard_time": 1744041682,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330816,
+        "num": 330816,
+        "word": "12306推出宠物托运功能",
+        "onboard_time": 1744072524,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98210,
+        "num": 322491,
+        "word": "江华批TVB最失败是山头文化",
+        "onboard_time": 1744083203,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95634,
+        "num": 317885,
+        "word": "养娃路上的神队友",
+        "onboard_time": 1744085664,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316463,
+        "num": 316463,
+        "word": "马斯克转发一支铅笔视频",
+        "onboard_time": 1744082903,
+        "rank": 18,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 310214,
+        "num": 310214,
+        "word": "王一博攀冰李现打鸟吴磊骑行",
+        "onboard_time": 1744086685,
+        "rank": 19,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 483697,
+        "num": 309130,
+        "word": "11岁男孩把100克金条吞入腹中",
+        "onboard_time": 1744085664,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299804,
+        "num": 299804,
+        "word": "芒果 尴尬",
+        "onboard_time": 1744035384,
+        "rank": 21,
+        "category": "网红,作品衍生"
+      },
+      {
+        "raw_hot": 283971,
+        "num": 283971,
+        "word": "中国反制下美国六代机项目恐流产",
+        "onboard_time": 1744087704,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 262292,
+        "num": 262292,
+        "word": "广末凉子被捕",
+        "onboard_time": 1744071084,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189260,
+        "num": 259644,
+        "word": "考研英语黄皮书真题将成绝版",
+        "onboard_time": 1744086565,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 259580,
+        "num": 259580,
+        "word": "女性最该锻炼的肌肉是盆底肌",
+        "onboard_time": 1744084342,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 253446,
+        "num": 253446,
+        "word": "特朗普支持率降至上任来最低",
+        "onboard_time": 1744079903,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252682,
+        "num": 252682,
+        "word": "男子转给小三287万原配追回268万",
+        "onboard_time": 1744071563,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196545,
+        "num": 230753,
+        "word": "花千万买日本寺庙的中国人后悔了",
+        "onboard_time": 1744089144,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99213,
+        "num": 225190,
+        "word": "苹果手机成白宫泄密门主要原因",
+        "onboard_time": 1744088363,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222389,
+        "num": 222389,
+        "word": "居然还有孟子义接不住的话",
+        "onboard_time": 1744089022,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187348,
+        "num": 220337,
+        "word": "王安宇人杀青了记忆没杀青",
+        "onboard_time": 1744089383,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220205,
+        "num": 220205,
+        "word": "王鸥搜证气的直呼刘昊然全名",
+        "onboard_time": 1744086445,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215668,
+        "num": 215668,
+        "word": "小猫一气之下怒吃了两口冻干",
+        "onboard_time": 1744083142,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212624,
+        "num": 212624,
+        "word": "特朗普称不会暂停关税政策",
+        "onboard_time": 1744068380,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202538,
+        "num": 202538,
+        "word": "股市",
+        "onboard_time": 1744074625,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193805,
+        "num": 193805,
+        "word": "熟悉的孟美岐回归了",
+        "onboard_time": 1744089144,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99565,
+        "num": 191767,
+        "word": "多国出手紧急救市",
+        "onboard_time": 1744089084,
+        "rank": 37,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 191576,
+        "num": 191576,
+        "word": "李艺彤拒绝了房琪的鸡汤并伸手要钱",
+        "onboard_time": 1744072045,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190457,
+        "num": 190457,
+        "word": "医生建议春季晚睡早起",
+        "onboard_time": 1744073724,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183604,
+        "num": 183604,
+        "word": "张艺兴谈未来规划",
+        "onboard_time": 1744089324,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185214,
+        "num": 182942,
+        "word": "武艺这睡眠内娱找不到第二个",
+        "onboard_time": 1744084584,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174425,
+        "num": 174425,
+        "word": "吃饭跑步和恋爱",
+        "onboard_time": 1744088485,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161042,
+        "num": 161042,
+        "word": "无刺榴莲原来是人工无刺的",
+        "onboard_time": 1744077023,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156072,
+        "num": 156072,
+        "word": "smlz怒喷Ning",
+        "onboard_time": 1744085664,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155459,
+        "num": 155459,
+        "word": "大侦探",
+        "onboard_time": 1744089623,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53957,
+        "num": 145203,
+        "word": "马龙许昕刘诗雯云南奥运冠军进校园",
+        "onboard_time": 1744089022,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140935,
+        "num": 140935,
+        "word": "唱到敏感副歌大张伟礼貌噤声",
+        "onboard_time": 1744069462,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138505,
+        "num": 138505,
+        "word": "新说唱直播",
+        "onboard_time": 1744088183,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136897,
+        "num": 136897,
+        "word": "等我考上名校我也这么拽",
+        "onboard_time": 1744088783,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "跟着总书记领略中华文明"
+    }
+  }
+}
