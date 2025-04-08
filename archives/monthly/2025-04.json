@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744101966713,
+  "endTime": 1744104457753,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 1664985,
-      "num": 482189,
+      "num": 509986,
       "word": "男子不同意分手逼女友喝农药身亡",
       "onboard_time": 1744091601,
       "rank": 13,
@@ -3035,6 +3035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 606154,
+      "num": 606154,
+      "word": "中方回应万斯无礼言论",
+      "onboard_time": 1744101442,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 605572,
       "num": 367780,
       "word": "胡连馨15分钟考完科目二",
@@ -3404,7 +3412,7 @@
     },
     {
       "raw_hot": 565906,
-      "num": 504874,
+      "num": 525303,
       "word": "有些电视剧真可以刷N次",
       "onboard_time": 1744094723,
       "rank": 32,
@@ -3489,6 +3497,14 @@
       "onboard_time": 1743727221,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 550990,
+      "num": 550990,
+      "word": "金子涵最后一次公开活动是海影节",
+      "onboard_time": 1744102101,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 549416,
@@ -3617,6 +3633,14 @@
       "onboard_time": 1743672564,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 536149,
+      "num": 536149,
+      "word": "菠萝拌黄瓜",
+      "onboard_time": 1744101681,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 535692,
@@ -3753,6 +3777,14 @@
       "onboard_time": 1743574581,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 520060,
+      "num": 520060,
+      "word": "中国人不惹事也不怕事",
+      "onboard_time": 1744095022,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 519490,
@@ -4315,14 +4347,6 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 463693,
-      "num": 463693,
-      "word": "中国人不惹事也不怕事",
-      "onboard_time": 1744095022,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 462244,
       "num": 462244,
       "word": "对等关税",
@@ -4411,6 +4435,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 451406,
+      "num": 451406,
+      "word": "清华无需宣传分够了我自会去",
+      "onboard_time": 1744102041,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 451210,
       "num": 343536,
       "word": "屋里超哥直播",
@@ -4449,6 +4481,14 @@
       "onboard_time": 1744029383,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 446804,
+      "num": 446804,
+      "word": "陈赫做了五哈兄弟团美甲",
+      "onboard_time": 1744102762,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 445719,
@@ -4793,6 +4833,14 @@
       "onboard_time": 1743753020,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418090,
+      "num": 418090,
+      "word": "陈飞宇说从225斤瘦下来全靠跑步",
+      "onboard_time": 1744102340,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 417396,
@@ -5153,6 +5201,14 @@
       "onboard_time": 1743948385,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391488,
+      "num": 391488,
+      "word": "赴山海",
+      "onboard_time": 1743485063,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 390810,
@@ -7131,6 +7187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 285751,
+      "num": 285751,
+      "word": "文和友回应甲亢哥直播遇霸座老板",
+      "onboard_time": 1744100903,
+      "rank": 47,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 285669,
       "num": 285669,
       "word": "王心凌拔智齿",
@@ -7617,6 +7681,14 @@
       "onboard_time": 1743584662,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 266318,
+      "num": 266318,
+      "word": "体重下降的50个冷知识",
+      "onboard_time": 1744101921,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 266209,
@@ -8155,6 +8227,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 246891,
+      "num": 418172,
+      "word": "浙江一35岁医师在岗期间离世",
+      "onboard_time": 1744102703,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246629,
       "num": 246629,
       "word": "尹锡悦刑期或创新高",
@@ -8243,6 +8323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243045,
+      "num": 243045,
+      "word": "文和友创始人直播喊话卤鹅哥遭抵制",
+      "onboard_time": 1744103901,
+      "rank": 23,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 242339,
       "num": 242339,
       "word": "李晟小考圣体",
@@ -8256,6 +8344,14 @@
       "word": "洪小铃得女",
       "onboard_time": 1743741381,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 241183,
+      "num": 241183,
+      "word": "好友为房琪发声",
+      "onboard_time": 1744103721,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -9403,6 +9499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213125,
+      "num": 213125,
+      "word": "王蓉唱完免我蹉跎苦睡不着",
+      "onboard_time": 1744103601,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212007,
       "num": 212007,
       "word": "应急管理局回应男孩在家做实验爆炸",
@@ -9585,14 +9689,6 @@
       "onboard_time": 1743926781,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 209483,
-      "num": 209483,
-      "word": "赴山海",
-      "onboard_time": 1743485063,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 209410,
@@ -9905,14 +10001,6 @@
       "onboard_time": 1743481586,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205888,
-      "num": 205888,
-      "word": "中方回应万斯无礼言论",
-      "onboard_time": 1744101442,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 205796,
@@ -10451,14 +10539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198054,
-      "num": 198054,
-      "word": "文和友回应甲亢哥直播遇霸座老板",
-      "onboard_time": 1744100903,
-      "rank": 47,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 197737,
       "num": 197737,
       "word": "原来洛阳真有比脸还大的牡丹",
@@ -10577,6 +10657,14 @@
       "onboard_time": 1743597624,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195976,
+      "num": 195976,
+      "word": "徐明浩把柳絮天走成初雪",
+      "onboard_time": 1744103421,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 195887,
@@ -13811,6 +13899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159978,
+      "num": 159978,
+      "word": "如美方一意孤行中方奉陪到底",
+      "onboard_time": 1744104381,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159969,
       "num": 159969,
       "word": "Daniel新家",
@@ -15403,14 +15499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144425,
-      "num": 144425,
-      "word": "菠萝拌黄瓜",
-      "onboard_time": 1744101681,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 144299,
       "num": 144299,
       "word": "大张伟玩梗夹带私货",
@@ -15571,12 +15659,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143129,
+      "num": 143129,
+      "word": "当地蜜雪冰城回应招牌变绿色",
+      "onboard_time": 1744104321,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142822,
       "num": 155228,
       "word": "叶童三公分数",
       "onboard_time": 1743557060,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142736,
+      "num": 142736,
+      "word": "如美升级关税措施中方将坚决反制",
+      "onboard_time": 1744102522,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142709,
@@ -17299,6 +17403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126963,
+      "num": 126963,
+      "word": "手把手教你办理宠物托运",
+      "onboard_time": 1744102101,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126936,
       "num": 126936,
       "word": "中国快递协会发布严正声明",
@@ -18169,6 +18281,14 @@
       "onboard_time": 1743859161,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118898,
+      "num": 286643,
+      "word": "美国害怕多极化世界",
+      "onboard_time": 1744103000,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118792,
@@ -20139,6 +20259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 93634,
+      "num": 274801,
+      "word": "阿Sa还好没拔罐",
+      "onboard_time": 1744104202,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93424,
       "num": 93424,
       "word": "水果中的高糖刺客",
@@ -22099,6 +22227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59021,
+      "num": 209308,
+      "word": "2025LPL",
+      "onboard_time": 1744099583,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 58877,
       "num": 58877,
       "word": "震耳欲聋",
@@ -22209,6 +22345,14 @@
       "onboard_time": 1743856285,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56381,
+      "num": 418432,
+      "word": "美国民众呼吁政府别再摧毁美国了",
+      "onboard_time": 1744103302,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56187,
@@ -23027,6 +23171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 40689,
+      "num": 211631,
+      "word": "王昶的眼睛就是尺",
+      "onboard_time": 1744103721,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40584,
       "num": 283618,
       "word": "专家建议刑法对代孕作明确禁止性规定",
@@ -23521,6 +23673,14 @@
       "onboard_time": 1744045458,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32943,
+      "num": 143683,
+      "word": "女子诈骗3位老人370万获刑12年",
+      "onboard_time": 1744102522,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32917,
@@ -25249,14 +25409,6 @@
       "onboard_time": 1743924920,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 7842,
-      "num": 185987,
-      "word": "体重下降的50个冷知识",
-      "onboard_time": 1744101921,
-      "rank": 39,
-      "category": "科学科普"
     },
     {
       "raw_hot": 7655,

@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744101966713,
+  "endTime": 1744104457753,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1664985,
-      "num": 482189,
+      "num": 509986,
       "word": "男子不同意分手逼女友喝农药身亡",
       "onboard_time": 1744091601,
       "rank": 13,
@@ -1171,6 +1171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 606154,
+      "num": 606154,
+      "word": "中方回应万斯无礼言论",
+      "onboard_time": 1744101442,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 605572,
       "num": 367780,
       "word": "胡连馨15分钟考完科目二",
@@ -1260,7 +1268,7 @@
     },
     {
       "raw_hot": 565906,
-      "num": 504874,
+      "num": 525303,
       "word": "有些电视剧真可以刷N次",
       "onboard_time": 1744094723,
       "rank": 32,
@@ -1281,6 +1289,14 @@
       "onboard_time": 1743993143,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 550990,
+      "num": 550990,
+      "word": "金子涵最后一次公开活动是海影节",
+      "onboard_time": 1744102101,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 549416,
@@ -1313,6 +1329,14 @@
       "onboard_time": 1744018402,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 536149,
+      "num": 536149,
+      "word": "菠萝拌黄瓜",
+      "onboard_time": 1744101681,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 535692,
@@ -1361,6 +1385,14 @@
       "onboard_time": 1743907760,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 520060,
+      "num": 520060,
+      "word": "中国人不惹事也不怕事",
+      "onboard_time": 1744095022,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 517301,
@@ -1563,14 +1595,6 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 463693,
-      "num": 463693,
-      "word": "中国人不惹事也不怕事",
-      "onboard_time": 1744095022,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 459473,
       "num": 546293,
       "word": "苦尽柑来遇见你八项百想提名",
@@ -1587,6 +1611,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 451406,
+      "num": 451406,
+      "word": "清华无需宣传分够了我自会去",
+      "onboard_time": 1744102041,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 451210,
       "num": 343536,
       "word": "屋里超哥直播",
@@ -1601,6 +1633,14 @@
       "onboard_time": 1744029383,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 446804,
+      "num": 446804,
+      "word": "陈赫做了五哈兄弟团美甲",
+      "onboard_time": 1744102762,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 445719,
@@ -1753,6 +1793,14 @@
       "onboard_time": 1743935241,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418090,
+      "num": 418090,
+      "word": "陈飞宇说从225斤瘦下来全靠跑步",
+      "onboard_time": 1744102340,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 416715,
@@ -1913,6 +1961,14 @@
       "onboard_time": 1743948385,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391488,
+      "num": 391488,
+      "word": "赴山海",
+      "onboard_time": 1744102581,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 390810,
@@ -2651,6 +2707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 285751,
+      "num": 285751,
+      "word": "文和友回应甲亢哥直播遇霸座老板",
+      "onboard_time": 1744100903,
+      "rank": 47,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 285028,
       "num": 299527,
       "word": "鹿晗宝石老舅缺席五哈5",
@@ -2857,6 +2921,14 @@
       "onboard_time": 1743910041,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266318,
+      "num": 266318,
+      "word": "体重下降的50个冷知识",
+      "onboard_time": 1744101921,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 266209,
@@ -3131,6 +3203,14 @@
       "category": "财经,国内时政"
     },
     {
+      "raw_hot": 246891,
+      "num": 418172,
+      "word": "浙江一35岁医师在岗期间离世",
+      "onboard_time": 1744102703,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246140,
       "num": 247133,
       "word": "哪吒2票房",
@@ -3163,12 +3243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243045,
+      "num": 243045,
+      "word": "文和友创始人直播喊话卤鹅哥遭抵制",
+      "onboard_time": 1744103901,
+      "rank": 23,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 242188,
       "num": 242188,
       "word": "美国超市物价暴涨30%",
       "onboard_time": 1743862763,
       "rank": 9,
       "category": "财经,海外新闻"
+    },
+    {
+      "raw_hot": 241183,
+      "num": 241183,
+      "word": "好友为房琪发声",
+      "onboard_time": 1744103721,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 240699,
@@ -3667,6 +3763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213125,
+      "num": 213125,
+      "word": "王蓉唱完免我蹉跎苦睡不着",
+      "onboard_time": 1744103601,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212594,
       "num": 212594,
       "word": "王者荣耀",
@@ -3851,14 +3955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205888,
-      "num": 205888,
-      "word": "中方回应万斯无礼言论",
-      "onboard_time": 1744101442,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 205665,
       "num": 230753,
       "word": "花千万买日本寺庙的中国人后悔了",
@@ -4027,14 +4123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198054,
-      "num": 198054,
-      "word": "文和友回应甲亢哥直播遇霸座老板",
-      "onboard_time": 1744100903,
-      "rank": 47,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 197589,
       "num": 220737,
       "word": "闫桉杀青",
@@ -4073,6 +4161,14 @@
       "onboard_time": 1744010363,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 195976,
+      "num": 195976,
+      "word": "徐明浩把柳絮天走成初雪",
+      "onboard_time": 1744103421,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 195605,
@@ -5323,6 +5419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159978,
+      "num": 159978,
+      "word": "如美方一意孤行中方奉陪到底",
+      "onboard_time": 1744104381,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159969,
       "num": 159969,
       "word": "Daniel新家",
@@ -5747,6 +5851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147470,
+      "num": 147470,
+      "word": "念无双",
+      "onboard_time": 1743939322,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147445,
       "num": 309520,
       "word": "金饰价一夜反弹9元",
@@ -5843,14 +5955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144425,
-      "num": 144425,
-      "word": "菠萝拌黄瓜",
-      "onboard_time": 1744101681,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 144295,
       "num": 1545131,
       "word": "增强有效应对美关税冲击的信心",
@@ -5897,6 +6001,22 @@
       "onboard_time": 1744077862,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 143129,
+      "num": 143129,
+      "word": "当地蜜雪冰城回应招牌变绿色",
+      "onboard_time": 1744104321,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142736,
+      "num": 142736,
+      "word": "如美升级关税措施中方将坚决反制",
+      "onboard_time": 1744102522,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142344,
@@ -6499,6 +6619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126963,
+      "num": 126963,
+      "word": "手把手教你办理宠物托运",
+      "onboard_time": 1744102101,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126814,
       "num": 126814,
       "word": "陈芋汐407C三个10分",
@@ -6771,6 +6899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118898,
+      "num": 286643,
+      "word": "美国害怕多极化世界",
+      "onboard_time": 1744103000,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118613,
       "num": 229787,
       "word": "这是中方立场",
@@ -6897,14 +7033,6 @@
       "onboard_time": 1743908240,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115399,
-      "num": 115399,
-      "word": "念无双",
-      "onboard_time": 1743939322,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 115126,
@@ -7433,6 +7561,14 @@
       "onboard_time": 1743961817,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93634,
+      "num": 274801,
+      "word": "阿Sa还好没拔罐",
+      "onboard_time": 1744104202,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 93424,
@@ -8139,6 +8275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 59021,
+      "num": 209308,
+      "word": "2025LPL",
+      "onboard_time": 1744099583,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 58793,
       "num": 281311,
       "word": "男子休育儿假不成被扣4天带薪年假",
@@ -8169,6 +8313,14 @@
       "onboard_time": 1744025602,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 56381,
+      "num": 418432,
+      "word": "美国民众呼吁政府别再摧毁美国了",
+      "onboard_time": 1744103302,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55905,
@@ -8427,6 +8579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 40689,
+      "num": 211631,
+      "word": "王昶的眼睛就是尺",
+      "onboard_time": 1744103721,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40564,
       "num": 226732,
       "word": "捷豹路虎因关税问题暂停对美出口",
@@ -8553,6 +8713,14 @@
       "onboard_time": 1744045458,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32943,
+      "num": 143683,
+      "word": "女子诈骗3位老人370万获刑12年",
+      "onboard_time": 1744102522,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31971,
@@ -9121,14 +9289,6 @@
       "onboard_time": 1743924920,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 7842,
-      "num": 185987,
-      "word": "体重下降的50个冷知识",
-      "onboard_time": 1744101921,
-      "rank": 39,
-      "category": "科学科普"
     },
     {
       "raw_hot": 6709,
