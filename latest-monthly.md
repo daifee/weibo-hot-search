@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/08 23:42:14
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/09 00:31:26
 </p>
 </blockquote>
 <p>
@@ -3189,6 +3189,12 @@ Switch2直面会（热度：514768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8C%BB%E7%94%9F%E6%83%A8%E9%81%AD%E4%B8%A7%E5%AD%90%E4%B9%8B%E7%97%9B%E8%BF%98%E5%B8%A6%E6%9D%A5%E5%87%B6%E5%AE%85%E5%AE%98%E5%8F%B8%23" target="weibo">
+女医生惨遭丧子之痛还带来凶宅官司（热度：497227）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23CT%E6%9F%A5%E5%87%BA%E9%AA%A8%E6%8A%98%E6%80%A5%E8%AF%8A%E5%8C%BB%E7%94%9F%E8%AF%B4%E6%B2%A1%E9%AA%A8%E6%8A%98%23" target="weibo">
 CT查出骨折急诊医生说没骨折（热度：496781）
 </a>
@@ -5327,12 +5333,6 @@ jayjay呢（热度：316182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%9A%84%E5%BE%AE%E5%8D%9A%E9%80%90%E6%B8%90%E5%A5%87%E6%80%AA%23" target="weibo">
 李现的微博逐渐奇怪（热度：306174）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8C%BB%E7%94%9F%E6%83%A8%E9%81%AD%E4%B8%A7%E5%AD%90%E4%B9%8B%E7%97%9B%E8%BF%98%E5%B8%A6%E6%9D%A5%E5%87%B6%E5%AE%85%E5%AE%98%E5%8F%B8%23" target="weibo">
-女医生惨遭丧子之痛还带来凶宅官司（热度：306006）
 </a>
 </li>
 
