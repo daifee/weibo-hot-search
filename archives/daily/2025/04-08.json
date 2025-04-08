@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744089864885,
+  "endTime": 1744090868781,
   "band_list": [
     {
       "raw_hot": 10117420,
@@ -51,6 +51,14 @@
       "category": "网红,作品衍生"
     },
     {
+      "raw_hot": 1427979,
+      "num": 1427979,
+      "word": "小沈阳跪下那一刻",
+      "onboard_time": 1744086685,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1402772,
       "num": 1402772,
       "word": "毛泽东曾孙毛东东走进湖南一师",
@@ -73,14 +81,6 @@
       "onboard_time": 1744081822,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1216775,
-      "num": 1216775,
-      "word": "小沈阳跪下那一刻",
-      "onboard_time": 1744086685,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 1134350,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1069912,
+      "num": 890212,
+      "word": "停播半年后三只羊小杨臻选APP上线",
+      "onboard_time": 1744087945,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1034078,
       "num": 601710,
       "word": "甜馨说自己不可能张口就要到东西",
@@ -129,6 +137,22 @@
       "onboard_time": 1744034305,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 916538,
+      "num": 916538,
+      "word": "廊坊一蜜雪冰城招牌变绿色",
+      "onboard_time": 1744087045,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 890521,
+      "num": 504502,
+      "word": "余承恩",
+      "onboard_time": 1744087704,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 838044,
@@ -163,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 732750,
-      "num": 640377,
-      "word": "停播半年后三只羊小杨臻选APP上线",
-      "onboard_time": 1744087945,
-      "rank": 7,
-      "category": "网红"
-    },
-    {
       "raw_hot": 729002,
       "num": 729002,
       "word": "河南省考成绩",
@@ -187,11 +203,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 702838,
-      "num": 702838,
-      "word": "廊坊一蜜雪冰城招牌变绿色",
-      "onboard_time": 1744087045,
-      "rank": 20,
+      "raw_hot": 689283,
+      "num": 689283,
+      "word": "医院旁小吃店被曝胎盘加工",
+      "onboard_time": 1744087704,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -219,14 +235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 551992,
-      "num": 397722,
-      "word": "余承恩",
-      "onboard_time": 1744087704,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 517301,
       "num": 517301,
       "word": "赵丽颖造型师换了",
@@ -249,6 +257,14 @@
       "onboard_time": 1744070421,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 480082,
+      "num": 480082,
+      "word": "谢娜 谁说我怀孕了",
+      "onboard_time": 1744090162,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 458767,
@@ -323,8 +339,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 390274,
-      "num": 390274,
+      "raw_hot": 390810,
+      "num": 506033,
       "word": "王一博攀冰李现打鸟吴磊骑行",
       "onboard_time": 1744086685,
       "rank": 16,
@@ -361,14 +377,6 @@
       "onboard_time": 1744042281,
       "rank": 17,
       "category": "网红,艺人"
-    },
-    {
-      "raw_hot": 377882,
-      "num": 377882,
-      "word": "医院旁小吃店被曝胎盘加工",
-      "onboard_time": 1744087704,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 372367,
@@ -603,12 +611,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 257621,
+      "num": 257621,
+      "word": "熟悉的孟美岐回归了",
+      "onboard_time": 1744089144,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255743,
       "num": 255743,
       "word": "乘客坐网约车打翻奶茶被判赔1372元",
       "onboard_time": 1744080623,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253640,
+      "num": 253640,
+      "word": "居然还有孟子义接不住的话",
+      "onboard_time": 1744089022,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 247727,
@@ -625,6 +649,14 @@
       "onboard_time": 1744080323,
       "rank": 13,
       "category": "财经,国内时政"
+    },
+    {
+      "raw_hot": 243235,
+      "num": 276189,
+      "word": "张艺兴撞脸出道蛋糕",
+      "onboard_time": 1744090343,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 240699,
@@ -657,14 +689,6 @@
       "onboard_time": 1744082481,
       "rank": 19,
       "category": "海外新闻,财经"
-    },
-    {
-      "raw_hot": 222389,
-      "num": 222389,
-      "word": "居然还有孟子义接不住的话",
-      "onboard_time": 1744089022,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 218244,
@@ -739,12 +763,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205665,
+      "num": 230753,
+      "word": "花千万买日本寺庙的中国人后悔了",
+      "onboard_time": 1744089144,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204785,
       "num": 271603,
       "word": "朱天天称林君怡倪秋云选她是要镜头",
       "onboard_time": 1744083803,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203619,
+      "num": 203619,
+      "word": "芒果音乐节阵容",
+      "onboard_time": 1744090044,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 202414,
@@ -779,14 +819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196545,
-      "num": 230753,
-      "word": "花千万买日本寺庙的中国人后悔了",
-      "onboard_time": 1744089144,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195780,
       "num": 195780,
       "word": "诺一上法国新闻",
@@ -811,20 +843,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193805,
-      "num": 193805,
-      "word": "熟悉的孟美岐回归了",
-      "onboard_time": 1744089144,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191540,
       "num": 177190,
       "word": "纽约股市开盘前特朗普让美国人坚强",
       "onboard_time": 1744064416,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190265,
+      "num": 190265,
+      "word": "恋与深空角色素材复用",
+      "onboard_time": 1744090284,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 189443,
+      "num": 189443,
+      "word": "大侦探",
+      "onboard_time": 1744089623,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 187348,
@@ -955,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166945,
+      "num": 166945,
+      "word": "国家队A股开盘前密集行动",
+      "onboard_time": 1744090823,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 164944,
       "num": 164944,
       "word": "哈尔滨司法局局长丁锐心梗去世",
@@ -1011,14 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155459,
-      "num": 155459,
-      "word": "大侦探",
-      "onboard_time": 1744089623,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154266,
       "num": 154266,
       "word": "严浩翔出发录制新说唱",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1744079002,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 149691,
+      "num": 192853,
+      "word": "多国出手紧急救市",
+      "onboard_time": 1744089084,
+      "rank": 37,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 149120,
@@ -1131,6 +1179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139234,
+      "num": 193314,
+      "word": "一诺连获四周最佳发育路",
+      "onboard_time": 1744090583,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138505,
       "num": 138505,
       "word": "新说唱直播",
@@ -1201,6 +1257,22 @@
       "onboard_time": 1744067840,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129051,
+      "num": 129051,
+      "word": "已灭绝的权游冰原狼原型重生",
+      "onboard_time": 1744090823,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128608,
+      "num": 128608,
+      "word": "这样早起可能比熬夜更伤身",
+      "onboard_time": 1744090162,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 126315,
@@ -1331,14 +1403,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 99565,
-      "num": 191767,
-      "word": "多国出手紧急救市",
-      "onboard_time": 1744089084,
-      "rank": 37,
-      "category": "国际时政,财经"
-    },
-    {
       "raw_hot": 99213,
       "num": 225190,
       "word": "苹果手机成白宫泄密门主要原因",
@@ -1465,6 +1529,14 @@
       "onboard_time": 1744048576,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 75502,
+      "num": 404537,
+      "word": "非法代孕机构在别墅内设地下手术室",
+      "onboard_time": 1744089922,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75374,
