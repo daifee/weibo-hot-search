@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744112177495,
+  "endTime": 1744116534285,
   "band_list": [
     {
       "raw_hot": 10117420,
@@ -17,6 +17,14 @@
       "onboard_time": 1744093163,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2732183,
+      "num": 360081,
+      "word": "Jennie杂志尺度好大",
+      "onboard_time": 1744115062,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2425718,
@@ -147,6 +155,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 1183169,
+      "num": 1189307,
+      "word": "南京地铁回应乘客看到诡异人脸",
+      "onboard_time": 1744107382,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1161816,
       "num": 1161816,
       "word": "梁田我不结婚也可以",
@@ -241,14 +257,6 @@
       "onboard_time": 1744034305,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 952393,
-      "num": 952393,
-      "word": "南京地铁回应乘客看到诡异人脸",
-      "onboard_time": 1744107382,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 916538,
@@ -355,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 686112,
+      "num": 356239,
+      "word": "女生在机场狂炫2斤酸奶吃出痛苦面具",
+      "onboard_time": 1744112422,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 678402,
       "num": 678402,
       "word": "体重下降的50个冷知识",
@@ -417,6 +433,14 @@
       "onboard_time": 1744097782,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 596521,
+      "num": 456304,
+      "word": "美国对越南零关税提议不屑一顾",
+      "onboard_time": 1744109182,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 596191,
@@ -505,6 +529,14 @@
       "onboard_time": 1744034904,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 453372,
+      "num": 453372,
+      "word": "外交部回应美副总统说中国人乡巴佬",
+      "onboard_time": 1744113142,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 451210,
@@ -659,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382852,
+      "num": 382852,
+      "word": "EXO直播",
+      "onboard_time": 1744113142,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 379643,
       "num": 379643,
       "word": "大张伟甲亢哥共进晚餐",
@@ -688,6 +728,14 @@
       "word": "特朗普称不会暂停关税政策",
       "onboard_time": 1744068380,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 362748,
+      "num": 362748,
+      "word": "马斯克坐不住了",
+      "onboard_time": 1744109122,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -721,6 +769,14 @@
       "onboard_time": 1744104803,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 349065,
+      "num": 349065,
+      "word": "张艺兴不参加EXO周年纪念活动",
+      "onboard_time": 1744114462,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 345824,
@@ -811,14 +867,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 302060,
-      "num": 302060,
-      "word": "美国对越南零关税提议不屑一顾",
-      "onboard_time": 1744109182,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 299645,
       "num": 299645,
       "word": "王源工作室告黑",
@@ -857,6 +905,30 @@
       "onboard_time": 1744098681,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 295556,
+      "num": 456908,
+      "word": "若美国执意打关税战中方奉陪到底",
+      "onboard_time": 1744112542,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 295031,
+      "num": 295031,
+      "word": "赴山海过审",
+      "onboard_time": 1744112242,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 292521,
+      "num": 292521,
+      "word": "男孩带着哭腔问180斤能救吗",
+      "onboard_time": 1744113982,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292021,
@@ -915,6 +987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 276471,
+      "num": 276471,
+      "word": "有一种中国风叫牡丹",
+      "onboard_time": 1744111822,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275744,
       "num": 275744,
       "word": "网友集体喊话抵制李美越",
@@ -929,14 +1009,6 @@
       "onboard_time": 1744098922,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 273495,
-      "num": 273495,
-      "word": "马斯克坐不住了",
-      "onboard_time": 1744109122,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 272440,
@@ -1065,6 +1137,14 @@
       "onboard_time": 1744093703,
       "rank": 43,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 253025,
+      "num": 253025,
+      "word": "念无双结局",
+      "onboard_time": 1744112542,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 247727,
@@ -1211,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215067,
+      "num": 360851,
+      "word": "如美方一意孤行中方奉陪到底",
+      "onboard_time": 1744104381,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 214307,
       "num": 214307,
       "word": "全球资本流向或发生调整",
@@ -1355,6 +1443,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201112,
+      "num": 201112,
+      "word": "金子涵曾瘦到49公斤",
+      "onboard_time": 1744115121,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200885,
+      "num": 293507,
+      "word": "何浩楠直播",
+      "onboard_time": 1744115963,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199719,
       "num": 199719,
       "word": "周鸿祎称反感不招35岁以上的人",
@@ -1369,14 +1473,6 @@
       "onboard_time": 1744074684,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197976,
-      "num": 197976,
-      "word": "如美方一意孤行中方奉陪到底",
-      "onboard_time": 1744104381,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 197671,
@@ -1505,6 +1601,14 @@
       "onboard_time": 1744089383,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186705,
+      "num": 186705,
+      "word": "美国华商称有中国进口货被抢光",
+      "onboard_time": 1744114401,
+      "rank": 31,
+      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 186359,
@@ -1667,14 +1771,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 169770,
-      "num": 169770,
-      "word": "有一种中国风叫牡丹",
-      "onboard_time": 1744111822,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169084,
       "num": 169084,
       "word": "阴阳师",
@@ -1779,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160597,
+      "num": 160597,
+      "word": "上官正义卧底代孕时被两女性跟踪",
+      "onboard_time": 1744114042,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159370,
       "num": 278143,
       "word": "全球市场开始反弹",
@@ -1825,6 +1929,14 @@
       "onboard_time": 1744081583,
       "rank": 47,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 151083,
+      "num": 151083,
+      "word": "美国50万人游行要求特朗普住手",
+      "onboard_time": 1744114762,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150769,
@@ -1913,6 +2025,14 @@
       "onboard_time": 1744077862,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145595,
+      "num": 145595,
+      "word": "女子称遭男友性侵立案两年后被撤案",
+      "onboard_time": 1744116323,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145412,
@@ -2267,6 +2387,14 @@
       "category": "网红,作品衍生"
     },
     {
+      "raw_hot": 120815,
+      "num": 120815,
+      "word": "在内娱看到了终生标记名场面",
+      "onboard_time": 1744113682,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120756,
       "num": 120756,
       "word": "大学生寒暑假至少开展1次实习",
@@ -2281,6 +2409,14 @@
       "onboard_time": 1744018703,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118113,
+      "num": 244702,
+      "word": "iG对战AL",
+      "onboard_time": 1744114343,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 117959,
@@ -2308,7 +2444,7 @@
     },
     {
       "raw_hot": 115936,
-      "num": 115936,
+      "num": 188962,
       "word": "柯南一生最遗憾的案件",
       "onboard_time": 1744111042,
       "rank": 49,
@@ -2363,6 +2499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 110970,
+      "num": 110970,
+      "word": "周柯宇看自己登场笑出画面",
+      "onboard_time": 1744116142,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110839,
       "num": 110839,
       "word": "柯淳余宇涵 厕所搭子",
@@ -2401,6 +2545,14 @@
       "onboard_time": 1744110142,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107832,
+      "num": 107832,
+      "word": "美一公司称已复活万年前灭绝恐狼",
+      "onboard_time": 1744109182,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107667,
@@ -2451,6 +2603,38 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 105544,
+      "num": 105544,
+      "word": "阿森纳vs皇马",
+      "onboard_time": 1744115963,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102746,
+      "num": 102746,
+      "word": "鹭卓喜欢热热热热热热热热热的地方",
+      "onboard_time": 1744115362,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100485,
+      "num": 100485,
+      "word": "上海男篮vs广东男篮",
+      "onboard_time": 1744113262,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100338,
+      "num": 100338,
+      "word": "让你笑出腹肌的美国对等关税",
+      "onboard_time": 1744115783,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99213,
       "num": 225190,
       "word": "苹果手机成白宫泄密门主要原因",
@@ -2480,6 +2664,14 @@
       "word": "养娃路上的神队友",
       "onboard_time": 1744085664,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95224,
+      "num": 351373,
+      "word": "杭州大妈淡定表示黄金跌了照样买",
+      "onboard_time": 1744115302,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2785,6 +2977,14 @@
       "onboard_time": 1744081703,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 53226,
+      "num": 292656,
+      "word": "美国商会被爆正考虑起诉特朗普政府",
+      "onboard_time": 1744115362,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 52784,
@@ -3113,6 +3313,14 @@
       "onboard_time": 1744087345,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7454,
+      "num": 120899,
+      "word": "上班不要畏首畏尾",
+      "onboard_time": 1744116383,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

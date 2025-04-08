@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744112177495,
+  "endTime": 1744116534285,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -33,6 +33,14 @@
       "onboard_time": 1744035384,
       "rank": 33,
       "category": "网红,作品衍生"
+    },
+    {
+      "raw_hot": 2732183,
+      "num": 360081,
+      "word": "Jennie杂志尺度好大",
+      "onboard_time": 1744115062,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2689460,
@@ -403,6 +411,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 1183169,
+      "num": 1189307,
+      "word": "南京地铁回应乘客看到诡异人脸",
+      "onboard_time": 1744107382,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1171087,
       "num": 1187373,
       "word": "陈芋汐世界杯冠军",
@@ -649,14 +665,6 @@
       "onboard_time": 1744034305,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 952393,
-      "num": 952393,
-      "word": "南京地铁回应乘客看到诡异人脸",
-      "onboard_time": 1744107382,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 948201,
@@ -1107,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 686112,
+      "num": 356239,
+      "word": "女生在机场狂炫2斤酸奶吃出痛苦面具",
+      "onboard_time": 1744112422,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 684560,
       "num": 684560,
       "word": "金价为何开始跌了",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1743909201,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 596521,
+      "num": 456304,
+      "word": "美国对越南零关税提议不屑一顾",
+      "onboard_time": 1744109182,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 596191,
@@ -1697,6 +1721,14 @@
       "onboard_time": 1743996624,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 453372,
+      "num": 453372,
+      "word": "外交部回应美副总统说中国人乡巴佬",
+      "onboard_time": 1744113142,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 453197,
@@ -2107,6 +2139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 382852,
+      "num": 382852,
+      "word": "EXO直播",
+      "onboard_time": 1744113142,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381491,
       "num": 381491,
       "word": "特朗普谈股市暴跌",
@@ -2227,6 +2267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 362748,
+      "num": 362748,
+      "word": "马斯克坐不住了",
+      "onboard_time": 1744109122,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 361401,
       "num": 361401,
       "word": "张峻豪演唱会",
@@ -2297,6 +2345,14 @@
       "onboard_time": 1744104803,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 349065,
+      "num": 349065,
+      "word": "张艺兴不参加EXO周年纪念活动",
+      "onboard_time": 1744114462,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 346952,
@@ -2651,14 +2707,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 302060,
-      "num": 302060,
-      "word": "美国对越南零关税提议不屑一顾",
-      "onboard_time": 1744109182,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 300530,
       "num": 286516,
       "word": "优时颜 张康乐马柏全",
@@ -2723,6 +2771,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 295556,
+      "num": 456908,
+      "word": "若美国执意打关税战中方奉陪到底",
+      "onboard_time": 1744112542,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 295031,
+      "num": 295031,
+      "word": "赴山海过审",
+      "onboard_time": 1744112242,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292925,
       "num": 292925,
       "word": "小米集团股价跌超19%",
@@ -2736,6 +2800,14 @@
       "word": "清明假期最后1天你有什么安排",
       "onboard_time": 1743912561,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292521,
+      "num": 292521,
+      "word": "男孩带着哭腔问180斤能救吗",
+      "onboard_time": 1744113982,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -2907,6 +2979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 276471,
+      "num": 276471,
+      "word": "有一种中国风叫牡丹",
+      "onboard_time": 1744111822,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276390,
       "num": 276390,
       "word": "叶童短裙造型",
@@ -2945,14 +3025,6 @@
       "onboard_time": 1744098922,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 273495,
-      "num": 273495,
-      "word": "马斯克坐不住了",
-      "onboard_time": 1744109122,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 272440,
@@ -3257,6 +3329,14 @@
       "onboard_time": 1744093703,
       "rank": 43,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 253025,
+      "num": 253025,
+      "word": "念无双结局",
+      "onboard_time": 1744112542,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 251866,
@@ -3827,6 +3907,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 215067,
+      "num": 360851,
+      "word": "如美方一意孤行中方奉陪到底",
+      "onboard_time": 1744104381,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 214904,
       "num": 427841,
       "word": "清明假期1.26亿人次出游",
@@ -4195,6 +4283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201112,
+      "num": 201112,
+      "word": "金子涵曾瘦到49公斤",
+      "onboard_time": 1744115121,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201094,
       "num": 201094,
       "word": "哪个老师不喜欢孙俪这样的学生",
@@ -4209,6 +4305,14 @@
       "onboard_time": 1744020383,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200885,
+      "num": 293507,
+      "word": "何浩楠直播",
+      "onboard_time": 1744115963,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 200082,
@@ -4257,14 +4361,6 @@
       "onboard_time": 1743994644,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197976,
-      "num": 197976,
-      "word": "如美方一意孤行中方奉陪到底",
-      "onboard_time": 1744104381,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 197671,
@@ -4673,6 +4769,14 @@
       "onboard_time": 1743953061,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186705,
+      "num": 186705,
+      "word": "美国华商称有中国进口货被抢光",
+      "onboard_time": 1744114401,
+      "rank": 31,
+      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 186364,
@@ -5259,14 +5363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169770,
-      "num": 169770,
-      "word": "有一种中国风叫牡丹",
-      "onboard_time": 1744111822,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169663,
       "num": 169663,
       "word": "广州15岁男孩在家做实验引爆炸烧伤",
@@ -5617,6 +5713,14 @@
       "onboard_time": 1744093763,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160597,
+      "num": 160597,
+      "word": "上官正义卧底代孕时被两女性跟踪",
+      "onboard_time": 1744114042,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160542,
@@ -6160,6 +6264,14 @@
       "word": "当地回应女子报警后被强制送精神病院",
       "onboard_time": 1744038864,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145595,
+      "num": 145595,
+      "word": "女子称遭男友性侵立案两年后被撤案",
+      "onboard_time": 1744116323,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -7147,6 +7259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120815,
+      "num": 120815,
+      "word": "在内娱看到了终生标记名场面",
+      "onboard_time": 1744113682,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120756,
       "num": 120756,
       "word": "大学生寒暑假至少开展1次实习",
@@ -7251,6 +7371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118113,
+      "num": 244702,
+      "word": "iG对战AL",
+      "onboard_time": 1744114343,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118066,
       "num": 118066,
       "word": "清明档新片票房超3亿",
@@ -7348,7 +7476,7 @@
     },
     {
       "raw_hot": 115936,
-      "num": 115936,
+      "num": 188962,
       "word": "柯南一生最遗憾的案件",
       "onboard_time": 1744111042,
       "rank": 49,
@@ -7547,6 +7675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110970,
+      "num": 110970,
+      "word": "周柯宇看自己登场笑出画面",
+      "onboard_time": 1744116142,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110938,
       "num": 110938,
       "word": "上海海港1比1上海申花",
@@ -7675,6 +7811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107832,
+      "num": 107832,
+      "word": "美一公司称已复活万年前灭绝恐狼",
+      "onboard_time": 1744109182,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 107667,
       "num": 107667,
       "word": "卤鹅",
@@ -7721,6 +7865,14 @@
       "onboard_time": 1743951143,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105544,
+      "num": 105544,
+      "word": "阿森纳vs皇马",
+      "onboard_time": 1744115963,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 105373,
@@ -7779,6 +7931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102746,
+      "num": 102746,
+      "word": "鹭卓喜欢热热热热热热热热热的地方",
+      "onboard_time": 1744115362,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102660,
       "num": 102660,
       "word": "GAI沧海一声笑大合唱程度",
@@ -7835,12 +7995,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100485,
+      "num": 100485,
+      "word": "上海男篮vs广东男篮",
+      "onboard_time": 1744113262,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100423,
       "num": 100423,
       "word": "陈梦去踏青了",
       "onboard_time": 1743955041,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100338,
+      "num": 100338,
+      "word": "让你笑出腹肌的美国对等关税",
+      "onboard_time": 1744115783,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100022,
@@ -7944,6 +8120,14 @@
       "word": "夫妻摆摊7年还30多万债务修复信用",
       "onboard_time": 1743861383,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95224,
+      "num": 351373,
+      "word": "杭州大妈淡定表示黄金跌了照样买",
+      "onboard_time": 1744115302,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -8809,6 +8993,14 @@
       "onboard_time": 1744081703,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 53226,
+      "num": 292656,
+      "word": "美国商会被爆正考虑起诉特朗普政府",
+      "onboard_time": 1744115362,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 52784,
@@ -9745,6 +9937,14 @@
       "onboard_time": 1743924920,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 7454,
+      "num": 120899,
+      "word": "上班不要畏首畏尾",
+      "onboard_time": 1744116383,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6709,
