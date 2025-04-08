@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744147393316,
+  "endTime": 1744148291615,
   "band_list": [
     {
       "raw_hot": 1108687,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 97722,
-      "num": 132371,
+      "num": 178531,
       "word": "美国多地民众开始囤货",
       "onboard_time": 1744139954,
       "rank": 27,
@@ -459,7 +459,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50313,
+      "raw_hot": 55556,
       "num": 36762,
       "word": "掘金解雇马龙",
       "onboard_time": 1744140493,
@@ -481,6 +481,14 @@
       "onboard_time": 1744131079,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 44139,
+      "num": 44139,
+      "word": "旱厕边生产冒牌咖啡成本5元卖69",
+      "onboard_time": 1744141816,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39436,
@@ -515,11 +523,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 36450,
-      "num": 36450,
-      "word": "旱厕边生产冒牌咖啡成本5元卖69",
-      "onboard_time": 1744141816,
-      "rank": 24,
+      "raw_hot": 35988,
+      "num": 35988,
+      "word": "陶勇亲自为越发刚手术称手术顺利",
+      "onboard_time": 1744144514,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -587,20 +595,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26267,
-      "num": 26267,
-      "word": "陶勇亲自为越发刚手术称手术顺利",
-      "onboard_time": 1744144514,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19661,
       "num": 19661,
       "word": "这个外国男人为何被称大胖媳妇",
       "onboard_time": 1744143554,
       "rank": 34,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 19586,
+      "num": 19586,
+      "word": "房东回应女子759万买的房是凶宅",
+      "onboard_time": 1744147394,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18269,
@@ -619,8 +627,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 15239,
-      "num": 25332,
+      "raw_hot": 15329,
+      "num": 25628,
       "word": "电视剧千秋令OST阵容",
       "onboard_time": 1744144275,
       "rank": 29,

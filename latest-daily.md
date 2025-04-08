@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/09 00:31:26 ~ 2025/04/09 05:23:13
+本榜单时间：2025/04/09 00:31:26 ~ 2025/04/09 05:38:11
 </p>
 </blockquote>
 <p>
@@ -358,7 +358,7 @@ TizzyT当导师都没空官宣演唱会吗（热度：87340）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%98%E9%87%91%E8%A7%A3%E9%9B%87%E9%A9%AC%E9%BE%99%23" target="weibo">
-掘金解雇马龙（热度：50313）
+掘金解雇马龙（热度：55556）
 </a>
 </li>
 
@@ -371,6 +371,12 @@ TizzyT当导师都没空官宣演唱会吗（热度：87340）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%89%88superidol%23" target="weibo">
 王嘉尔版superidol（热度：46069）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B1%E5%8E%95%E8%BE%B9%E7%94%9F%E4%BA%A7%E5%86%92%E7%89%8C%E5%92%96%E5%95%A1%E6%88%90%E6%9C%AC5%E5%85%83%E5%8D%9669%23" target="weibo">
+旱厕边生产冒牌咖啡成本5元卖69（热度：44139）
 </a>
 </li>
 
@@ -399,8 +405,8 @@ TizzyT当导师都没空官宣演唱会吗（热度：87340）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B1%E5%8E%95%E8%BE%B9%E7%94%9F%E4%BA%A7%E5%86%92%E7%89%8C%E5%92%96%E5%95%A1%E6%88%90%E6%9C%AC5%E5%85%83%E5%8D%9669%23" target="weibo">
-旱厕边生产冒牌咖啡成本5元卖69（热度：36450）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%8B%87%E4%BA%B2%E8%87%AA%E4%B8%BA%E8%B6%8A%E5%8F%91%E5%88%9A%E6%89%8B%E6%9C%AF%E7%A7%B0%E6%89%8B%E6%9C%AF%E9%A1%BA%E5%88%A9%23" target="weibo">
+陶勇亲自为越发刚手术称手术顺利（热度：35988）
 </a>
 </li>
 
@@ -453,14 +459,14 @@ A股利好连发（热度：32243）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%8B%87%E4%BA%B2%E8%87%AA%E4%B8%BA%E8%B6%8A%E5%8F%91%E5%88%9A%E6%89%8B%E6%9C%AF%E7%A7%B0%E6%89%8B%E6%9C%AF%E9%A1%BA%E5%88%A9%23" target="weibo">
-陶勇亲自为越发刚手术称手术顺利（热度：26267）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%A4%96%E5%9B%BD%E7%94%B7%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%A7%B0%E5%A4%A7%E8%83%96%E5%AA%B3%E5%A6%87%23" target="weibo">
+这个外国男人为何被称大胖媳妇（热度：19661）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%A4%96%E5%9B%BD%E7%94%B7%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%A7%B0%E5%A4%A7%E8%83%96%E5%AA%B3%E5%A6%87%23" target="weibo">
-这个外国男人为何被称大胖媳妇（热度：19661）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90759%E4%B8%87%E4%B9%B0%E7%9A%84%E6%88%BF%E6%98%AF%E5%87%B6%E5%AE%85%23" target="weibo">
+房东回应女子759万买的房是凶宅（热度：19586）
 </a>
 </li>
 
@@ -478,7 +484,7 @@ A股利好连发（热度：32243）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E5%8D%83%E7%A7%8B%E4%BB%A4OST%E9%98%B5%E5%AE%B9%23" target="weibo">
-电视剧千秋令OST阵容（热度：15239）
+电视剧千秋令OST阵容（热度：15329）
 </a>
 </li>
 
