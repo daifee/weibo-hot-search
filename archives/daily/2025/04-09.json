@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744134018417,
+  "endTime": 1744137190001,
   "band_list": [
     {
       "raw_hot": 1108687,
@@ -459,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39436,
+      "num": 90556,
+      "word": "警方打假冒牌咖啡",
+      "onboard_time": 1744132996,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39393,
       "num": 40651,
       "word": "朱志鑫又回到一些熟悉的地方",
@@ -467,12 +475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34219,
+      "num": 34219,
+      "word": "央行必要时将再贷款支持中央汇金",
+      "onboard_time": 1744133357,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 33826,
       "num": 46545,
       "word": "缅甸地震致3645人死亡",
       "onboard_time": 1744126702,
       "rank": 41,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 33618,
+      "num": 33618,
+      "word": "美威胁进一步对华加征50%关税",
+      "onboard_time": 1744133597,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32243,
@@ -499,12 +523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22676,
-      "num": 90556,
-      "word": "警方打假冒牌咖啡",
-      "onboard_time": 1744132996,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 20748,
+      "num": 31135,
+      "word": "离境退税即买即退今起全国推广",
+      "onboard_time": 1744136835,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18269,

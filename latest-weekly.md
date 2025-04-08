@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/06 00:27:55 ~ 2025/04/09 01:40:18
+本榜单时间：2025/04/06 00:27:55 ~ 2025/04/09 02:33:10
 </p>
 </blockquote>
 <p>
@@ -7425,6 +7425,12 @@ A50期指涨3%（热度：48861）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%89%93%E5%81%87%E5%86%92%E7%89%8C%E5%92%96%E5%95%A1%23" target="weibo">
+警方打假冒牌咖啡（热度：39436）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%AF%B4%E6%88%91%E7%9A%84%E5%8F%B3%E8%84%B8%E6%AF%94%E8%BE%83%E5%A5%BD%E7%9C%8B%23" target="weibo">
 周深说我的右脸比较好看（热度：39414）
 </a>
@@ -7497,6 +7503,12 @@ AI修复抗战英雄的模样（热度：36727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E5%BF%85%E8%A6%81%E6%97%B6%E5%B0%86%E5%86%8D%E8%B4%B7%E6%AC%BE%E6%94%AF%E6%8C%81%E4%B8%AD%E5%A4%AE%E6%B1%87%E9%87%91%23" target="weibo">
+央行必要时将再贷款支持中央汇金（热度：34219）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%9B%B4%E6%92%AD%23" target="weibo">
 大张伟直播（热度：34200）
 </a>
@@ -7505,6 +7517,12 @@ AI修复抗战英雄的模样（热度：36727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E5%9C%B0%E9%9C%87%E8%87%B43645%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 缅甸地震致3645人死亡（热度：33826）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A8%81%E8%83%81%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%AF%B9%E5%8D%8E%E5%8A%A0%E5%BE%8150%25%E5%85%B3%E7%A8%8E%23" target="weibo">
+美威胁进一步对华加征50%关税（热度：33618）
 </a>
 </li>
 
@@ -7737,8 +7755,8 @@ susu福福（热度：26824）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%89%93%E5%81%87%E5%86%92%E7%89%8C%E5%92%96%E5%95%A1%23" target="weibo">
-警方打假冒牌咖啡（热度：22676）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%A2%83%E9%80%80%E7%A8%8E%E5%8D%B3%E4%B9%B0%E5%8D%B3%E9%80%80%E4%BB%8A%E8%B5%B7%E5%85%A8%E5%9B%BD%E6%8E%A8%E5%B9%BF%23" target="weibo">
+离境退税即买即退今起全国推广（热度：20748）
 </a>
 </li>
 
