@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/08 18:27:00
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/08 18:44:32
 </p>
 </blockquote>
 <p>
@@ -327,6 +327,12 @@ A股（热度：2689460）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%AF%B4%E5%94%B1%E9%80%89%E6%89%8B%E8%B4%A8%E7%96%91%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%AF%BC%E5%B8%88%E8%BA%AB%E4%BB%BD%23" target="weibo">
+新说唱选手质疑严浩翔导师身份（热度：1817527）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%AD%A3%E6%BA%AA%E9%80%80%E5%9C%88%E7%85%A7%E9%A1%BE%E7%94%9F%E7%97%85%E7%88%B6%E4%BA%B2%E4%B8%80%E5%B9%B4%E5%90%8E%E5%A4%8D%E5%87%BA%23" target="weibo">
 徐正溪退圈照顾生病父亲一年后复出（热度：1811433）
 </a>
@@ -485,6 +491,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%86%94%E6%96%AD%23" target="weibo">
 熔断（热度：1516843）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E5%8F%AF%E8%83%BD%E5%86%8D%E7%9B%B4%E6%92%AD2%E4%B8%AA%E5%9F%8E%E5%B8%82%23" target="weibo">
+甲亢哥可能再直播2个城市（热度：1508925）
 </a>
 </li>
 
@@ -693,12 +705,6 @@ RedVelvet 解散（热度：1601334）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E5%8F%AF%E8%83%BD%E5%86%8D%E7%9B%B4%E6%92%AD2%E4%B8%AA%E5%9F%8E%E5%B8%82%23" target="weibo">
-甲亢哥可能再直播2个城市（热度：1305442）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%8C%9B%E7%83%88%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD%23" target="weibo">
 全球高度关注中国猛烈反击美国（热度：1304384）
 </a>
@@ -743,12 +749,6 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD%E6%9D%A5%E4%BA%86%23" target="weibo">
 中方反制措施来了（热度：1248586）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%AF%B4%E5%94%B1%E9%80%89%E6%89%8B%E8%B4%A8%E7%96%91%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%AF%BC%E5%B8%88%E8%BA%AB%E4%BB%BD%23" target="weibo">
-新说唱选手质疑严浩翔导师身份（热度：1246403）
 </a>
 </li>
 
@@ -2001,6 +2001,12 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E8%AF%B4%E4%BB%8E225%E6%96%A4%E7%98%A6%E4%B8%8B%E6%9D%A5%E5%85%A8%E9%9D%A0%E8%B7%91%E6%AD%A5%23" target="weibo">
+陈飞宇说从225斤瘦下来全靠跑步（热度：715381）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%80%E6%A0%B9%E5%A4%B4%E5%8F%91%E5%8F%AF%E4%BB%A5%E5%88%86%E5%8F%89%E8%BF%99%E4%B9%88%E5%A4%9A%23" target="weibo">
 原来一根头发可以分叉这么多（热度：711417）
 </a>
@@ -2163,12 +2169,6 @@ kissoflife一夜掉粉20万（热度：668428）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E8%AF%B4%E4%BB%8E225%E6%96%A4%E7%98%A6%E4%B8%8B%E6%9D%A5%E5%85%A8%E9%9D%A0%E8%B7%91%E6%AD%A5%23" target="weibo">
-陈飞宇说从225斤瘦下来全靠跑步（热度：647774）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E5%BC%95%E5%8F%91%E5%85%A8%E7%90%83%E5%8F%8D%E5%87%BB%23" target="weibo">
 美国关税政策引发全球反击（热度：647379）
 </a>
@@ -2213,6 +2213,12 @@ kissoflife一夜掉粉20万（热度：668428）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E4%BC%9F%20%E8%BE%9B%E8%8E%8E%E8%8E%8E%23" target="weibo">
 刘维伟 辛莎莎（热度：639986）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
+陈飞宇朋友圈（热度：639279）
 </a>
 </li>
 
@@ -2285,6 +2291,12 @@ Daniel公开（热度：626903）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%8D%B0%E5%BA%A6%E5%85%8D%E8%B4%B9%E5%AF%BC%E6%B8%B8%E8%AE%BE%E5%B1%80%E5%BC%BA%E5%A5%B8%23" target="weibo">
 德国女孩被印度免费导游设局强奸（热度：615841）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E6%8B%9B%E7%89%8C%E5%8F%98%E7%BB%BF%E8%89%B2%23" target="weibo">
+当地蜜雪冰城回应招牌变绿色（热度：614579）
 </a>
 </li>
 
@@ -3179,6 +3191,12 @@ SM新男团（热度：491910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9C%A8%E4%B8%96%E8%B4%B8%E7%BB%84%E7%BB%87%E8%B5%B7%E8%AF%89%E7%BE%8E%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%E6%8E%AA%E6%96%BD%23" target="weibo">
 中方在世贸组织起诉美对等关税措施（热度：480962）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E4%B9%98%E5%AE%A2%E7%9C%8B%E5%88%B0%E8%AF%A1%E5%BC%82%E4%BA%BA%E8%84%B8%23" target="weibo">
+南京地铁回应乘客看到诡异人脸（热度：479903）
 </a>
 </li>
 
@@ -4395,12 +4413,6 @@ deepseek崩了（热度：366398）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E6%8B%9B%E7%89%8C%E5%8F%98%E7%BB%BF%E8%89%B2%23" target="weibo">
-当地蜜雪冰城回应招牌变绿色（热度：356672）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%A5%E8%BA%AB%E6%88%BF%E6%9B%B4%E8%A1%A3%E5%AE%A4%E6%88%90%E4%B8%8D%E6%B3%95%E4%BA%A4%E6%98%93%E5%9C%B0%23" target="weibo">
 健身房更衣室成不法交易地（热度：356434）
 </a>
@@ -4493,12 +4505,6 @@ BoA向朴娜莱道歉（热度：353684）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%98%8A%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%9B%9E%E5%9B%BD%E7%AC%AC%E4%BA%8C%E7%AB%A0%E8%BF%9B%E8%B4%A7%23" target="weibo">
 章昊第一章回国第二章进货（热度：350106）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
-陈飞宇朋友圈（热度：349503）
 </a>
 </li>
 
@@ -5781,6 +5787,12 @@ EXO周边（热度：269976）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E4%B8%8D%E8%AE%A9%E7%A5%9D%E7%BB%AA%E4%B8%B9%E4%BD%93%E9%87%8D%E4%BD%8E%E4%BA%8E80%E6%96%A4%23" target="weibo">
+经纪人不让祝绪丹体重低于80斤（热度：268518）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%94%B2%E5%84%92%E7%A7%B0%E4%BA%BA%E8%B4%A9%E5%AD%90%E5%BF%85%E9%A1%BB%E6%AD%BB%E5%88%91%23" target="weibo">
 姜甲儒称人贩子必须死刑（热度：267809）
 </a>
@@ -5999,18 +6011,6 @@ TheShy赛后道歉（热度：258364）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BE%8E%E8%B6%8A8%E5%A4%A9%E6%8E%89%E7%B2%89%E8%B6%8528%E4%B8%87%23" target="weibo">
 李美越8天掉粉超28万（热度：257289）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%96%87%E4%B9%9F%23" target="weibo">
-王文也（热度：257282）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%8D%93%E7%92%87%E8%AF%B4%E6%84%9F%E8%B0%A2%E5%B0%8F%E9%AC%BC%E6%8E%A8%E4%BA%86%E8%87%AA%E5%B7%B1%E4%B8%80%E6%8A%8A%23" target="weibo">
-陈卓璇说感谢小鬼推了自己一把（热度：257204）
 </a>
 </li>
 

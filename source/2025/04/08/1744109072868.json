@@ -1,0 +1,410 @@
+{
+  "runTime": 1744109072868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1508925,
+        "num": 1508925,
+        "word": "甲亢哥可能再直播2个城市",
+        "onboard_time": 1744105222,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 731701,
+        "num": 731701,
+        "word": "菠萝拌黄瓜",
+        "onboard_time": 1744101681,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131241,
+        "num": 661576,
+        "word": "中国始终是全球经济的稳定锚和避风港",
+        "onboard_time": 1744105883,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 614579,
+        "num": 614579,
+        "word": "当地蜜雪冰城回应招牌变绿色",
+        "onboard_time": 1744104321,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526956,
+        "num": 526956,
+        "word": "文和友创始人直播喊话卤鹅哥遭抵制",
+        "onboard_time": 1744103901,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1817527,
+        "num": 526667,
+        "word": "新说唱选手质疑严浩翔导师身份",
+        "onboard_time": 1744104561,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1481025,
+        "num": 522486,
+        "word": "金子涵宣布退圈",
+        "onboard_time": 1744093163,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639279,
+        "num": 519011,
+        "word": "陈飞宇朋友圈",
+        "onboard_time": 1744106782,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505409,
+        "num": 505409,
+        "word": "体重下降的50个冷知识",
+        "onboard_time": 1744101921,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 479903,
+        "num": 479903,
+        "word": "南京地铁回应乘客看到诡异人脸",
+        "onboard_time": 1744107382,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760981,
+        "num": 478308,
+        "word": "男子不同意分手逼女友喝农药身亡",
+        "onboard_time": 1744091601,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473396,
+        "num": 473396,
+        "word": "梁田我不结婚也可以",
+        "onboard_time": 1744100062,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 715381,
+        "num": 471079,
+        "word": "陈飞宇说从225斤瘦下来全靠跑步",
+        "onboard_time": 1744102340,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453874,
+        "num": 453874,
+        "word": "美国一瓶中国产洗发水涨了12美元",
+        "onboard_time": 1744095623,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 435567,
+        "num": 435567,
+        "word": "有些电视剧真可以刷N次",
+        "onboard_time": 1744094723,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428328,
+        "num": 428328,
+        "word": "外交部回应特朗普威胁再加征50%关税",
+        "onboard_time": 1744094123,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 420286,
+        "num": 420286,
+        "word": "中方回应万斯无礼言论",
+        "onboard_time": 1744101442,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 411335,
+        "num": 411335,
+        "word": "中国人不惹事也不怕事",
+        "onboard_time": 1744095022,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 331621,
+        "num": 331621,
+        "word": "金子涵最后一次公开活动是海影节",
+        "onboard_time": 1744102101,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178712,
+        "num": 323257,
+        "word": "甲亢哥中文表白我爱你China",
+        "onboard_time": 1744107683,
+        "rank": 19,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 319056,
+        "num": 319056,
+        "word": "清华无需宣传分够了我自会去",
+        "onboard_time": 1744102041,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268518,
+        "num": 268518,
+        "word": "经纪人不让祝绪丹体重低于80斤",
+        "onboard_time": 1744108642,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261843,
+        "num": 261843,
+        "word": "赴山海",
+        "onboard_time": 1744102581,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249978,
+        "num": 249978,
+        "word": "Jennie自信展露身体线条",
+        "onboard_time": 1744104622,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224066,
+        "num": 224066,
+        "word": "中方多部门发声",
+        "onboard_time": 1744104803,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223672,
+        "num": 223672,
+        "word": "电脑微信会惩罚每一个分手的人",
+        "onboard_time": 1744107982,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209111,
+        "num": 209111,
+        "word": "陈赫做了五哈兄弟团美甲",
+        "onboard_time": 1744102762,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204434,
+        "num": 204434,
+        "word": "等iPhone17还是现在抄底16",
+        "onboard_time": 1744107922,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192845,
+        "num": 192845,
+        "word": "终于知道了一次性手套漏油的原因",
+        "onboard_time": 1744106122,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174858,
+        "num": 174858,
+        "word": "好友为房琪发声",
+        "onboard_time": 1744103721,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171588,
+        "num": 171588,
+        "word": "如美方一意孤行中方奉陪到底",
+        "onboard_time": 1744104381,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169196,
+        "num": 169196,
+        "word": "留几手离婚前和离婚后的区别",
+        "onboard_time": 1744106481,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154995,
+        "num": 154995,
+        "word": "美国单边霸凌终将反噬自身",
+        "onboard_time": 1744104502,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145845,
+        "num": 145845,
+        "word": "华尔街齐声警告美国经济衰退风险",
+        "onboard_time": 1744105822,
+        "rank": 33,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 144331,
+        "num": 144331,
+        "word": "大侦探你就宠孟子义吧",
+        "onboard_time": 1744105761,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140389,
+        "num": 140389,
+        "word": "浙江一35岁医师在岗期间离世",
+        "onboard_time": 1744102703,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134966,
+        "num": 134966,
+        "word": "谢娜 谁说我怀孕了",
+        "onboard_time": 1744090162,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133085,
+        "num": 133085,
+        "word": "第五人格",
+        "onboard_time": 1744108344,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52784,
+        "num": 130899,
+        "word": "非要女性做自己的卫生巾才能放心吗",
+        "onboard_time": 1744107021,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 130075,
+        "num": 130075,
+        "word": "首尔市长参加韩国总统竞选",
+        "onboard_time": 1744108221,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127381,
+        "num": 127381,
+        "word": "如美升级关税措施中方将坚决反制",
+        "onboard_time": 1744102522,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120402,
+        "num": 120402,
+        "word": "林峯称妻子换保姆对得起他人",
+        "onboard_time": 1744093222,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117753,
+        "num": 117753,
+        "word": "中国经济是大海不是小池塘",
+        "onboard_time": 1744106902,
+        "rank": 42,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 81855,
+        "num": 114231,
+        "word": "车主违法426条扣1161分被查获",
+        "onboard_time": 1744107081,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112446,
+        "num": 112446,
+        "word": "千秋令",
+        "onboard_time": 1744108162,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110839,
+        "num": 110839,
+        "word": "柯淳余宇涵 厕所搭子",
+        "onboard_time": 1744108583,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108788,
+        "num": 108788,
+        "word": "停播半年后三只羊小杨臻选APP上线",
+        "onboard_time": 1744087945,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106806,
+        "num": 106806,
+        "word": "值得爱癫开燃走",
+        "onboard_time": 1744109002,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105676,
+        "num": 105676,
+        "word": "已有9部电影定档五一档",
+        "onboard_time": 1744098681,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105374,
+        "num": 105374,
+        "word": "国家队A股开盘前密集行动",
+        "onboard_time": 1744090823,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#在春风里树木也是树人#"
+    }
+  }
+}
