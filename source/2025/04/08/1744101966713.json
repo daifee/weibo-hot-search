@@ -1,0 +1,410 @@
+{
+  "runTime": 1744101966713,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2305389,
+        "num": 2305389,
+        "word": "河北迁安3.7级地震",
+        "onboard_time": 1744101142,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2177176,
+        "num": 2177176,
+        "word": "金子涵宣布退圈",
+        "onboard_time": 1744093163,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134181,
+        "num": 1545131,
+        "word": "增强有效应对美关税冲击的信心",
+        "onboard_time": 1744095202,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1161816,
+        "num": 1161816,
+        "word": "梁田我不结婚也可以",
+        "onboard_time": 1744100062,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 936775,
+        "num": 936775,
+        "word": "美国一瓶中国产洗发水涨了12美元",
+        "onboard_time": 1744095623,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 597150,
+        "num": 597150,
+        "word": "特朗普称将提出1万亿美元国防预算",
+        "onboard_time": 1744095141,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1075853,
+        "num": 596787,
+        "word": "留几手炒股损失480万",
+        "onboard_time": 1744094961,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573531,
+        "num": 573531,
+        "word": "白宫内讧",
+        "onboard_time": 1744084765,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 504874,
+        "num": 504874,
+        "word": "有些电视剧真可以刷N次",
+        "onboard_time": 1744094723,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463693,
+        "num": 463693,
+        "word": "中国人不惹事也不怕事",
+        "onboard_time": 1744095022,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 983990,
+        "num": 452834,
+        "word": "男子不同意分手逼女友喝农药身亡",
+        "onboard_time": 1744091601,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 647744,
+        "num": 449005,
+        "word": "文和友",
+        "onboard_time": 1744091002,
+        "rank": 11,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 496445,
+        "num": 446352,
+        "word": "刘浩存 小马宝莉",
+        "onboard_time": 1744097782,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436426,
+        "num": 436426,
+        "word": "外交部回应特朗普威胁再加征50%关税",
+        "onboard_time": 1744094123,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34513,
+        "num": 424651,
+        "word": "赵继伟没想到能有今天的成就",
+        "onboard_time": 1744099282,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424236,
+        "num": 424236,
+        "word": "谢娜 谁说我怀孕了",
+        "onboard_time": 1744090162,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355969,
+        "num": 355969,
+        "word": "央国企300亿真金白银增持回购",
+        "onboard_time": 1744099641,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 316795,
+        "num": 316795,
+        "word": "林峯称妻子换保姆对得起他人",
+        "onboard_time": 1744093222,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295392,
+        "num": 295392,
+        "word": "威海一小区楼房多层阳台坠落",
+        "onboard_time": 1744096403,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182917,
+        "num": 279956,
+        "word": "谢娜称有三个女儿很满足",
+        "onboard_time": 1744099701,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314193,
+        "num": 279002,
+        "word": "20岁的欧阳娣娣",
+        "onboard_time": 1744100003,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296889,
+        "num": 277923,
+        "word": "王家卫点赞",
+        "onboard_time": 1744095262,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275263,
+        "num": 275263,
+        "word": "股市收盘全线飘红",
+        "onboard_time": 1744098922,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273337,
+        "num": 273337,
+        "word": "朱天天曝创造101内幕",
+        "onboard_time": 1744083021,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260059,
+        "num": 260059,
+        "word": "上海人均4000元的云南菜",
+        "onboard_time": 1744097482,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 259224,
+        "num": 259224,
+        "word": "女子夜乘顺风车司机全程智驾玩手机",
+        "onboard_time": 1744099883,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246009,
+        "num": 246009,
+        "word": "Jennie封面照",
+        "onboard_time": 1744096343,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223093,
+        "num": 223093,
+        "word": "已有9部电影定档五一档",
+        "onboard_time": 1744098681,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122132,
+        "num": 222539,
+        "word": "丧葬风招牌为何阴魂不散",
+        "onboard_time": 1744100303,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16923,
+        "num": 222351,
+        "word": "分享提升幸福感的时尚单品",
+        "onboard_time": 1744101382,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 152786,
+        "num": 221573,
+        "word": "章若楠希望大家被爱拥抱",
+        "onboard_time": 1744100686,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117959,
+        "num": 220610,
+        "word": "东南亚股市崩跌",
+        "onboard_time": 1744098382,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220199,
+        "num": 220199,
+        "word": "樊振东的偶像力量具象化了",
+        "onboard_time": 1744100686,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219161,
+        "num": 219161,
+        "word": "11岁男孩把100克金条吞入腹中",
+        "onboard_time": 1744085664,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205888,
+        "num": 205888,
+        "word": "中方回应万斯无礼言论",
+        "onboard_time": 1744101442,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 461483,
+        "num": 204818,
+        "word": "金子涵宁艺卓徐艺洋同期练习生",
+        "onboard_time": 1744099522,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201765,
+        "num": 201765,
+        "word": "停播半年后三只羊小杨臻选APP上线",
+        "onboard_time": 1744087945,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 198054,
+        "num": 198054,
+        "word": "文和友回应甲亢哥直播遇霸座老板",
+        "onboard_time": 1744100903,
+        "rank": 37,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 193834,
+        "num": 193834,
+        "word": "小狗可以坐高铁但胖狗不行",
+        "onboard_time": 1744096343,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7842,
+        "num": 185987,
+        "word": "体重下降的50个冷知识",
+        "onboard_time": 1744101921,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 178275,
+        "num": 178275,
+        "word": "剧名普普通通剧情香香甜甜",
+        "onboard_time": 1744101263,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156079,
+        "num": 156079,
+        "word": "特朗普拒绝欧盟零关税方案",
+        "onboard_time": 1744092561,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153568,
+        "num": 153568,
+        "word": "张钧甯方回应炒股损失约862万",
+        "onboard_time": 1744081822,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147126,
+        "num": 147126,
+        "word": "股市",
+        "onboard_time": 1744074625,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144425,
+        "num": 144425,
+        "word": "菠萝拌黄瓜",
+        "onboard_time": 1744101681,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143704,
+        "num": 143704,
+        "word": "王玉雯 谁把王安我棍哥放出来了",
+        "onboard_time": 1744100964,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141837,
+        "num": 141837,
+        "word": "张若昀孟子义元老和萌新的演技",
+        "onboard_time": 1744098443,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140647,
+        "num": 140647,
+        "word": "杭州别墅区涉非法代孕场所被查封",
+        "onboard_time": 1744095202,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138892,
+        "num": 138892,
+        "word": "社保基金近日已主动增持国内股票",
+        "onboard_time": 1744098203,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131940,
+        "num": 131940,
+        "word": "金宣虎wink笑",
+        "onboard_time": 1744098743,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "跟着总书记领略中华文明"
+    }
+  }
+}
