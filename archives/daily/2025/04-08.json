@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744097879388,
+  "endTime": 1744101166573,
   "band_list": [
     {
       "raw_hot": 10117420,
@@ -155,20 +155,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1103346,
+      "num": 1103346,
+      "word": "美国一瓶中国产洗发水涨了12美元",
+      "onboard_time": 1744095623,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1034078,
       "num": 601710,
       "word": "甜馨说自己不可能张口就要到东西",
       "onboard_time": 1744074924,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1027019,
-      "num": 1027019,
-      "word": "美国一瓶中国产洗发水涨了12美元",
-      "onboard_time": 1744095623,
-      "rank": 5,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 983815,
@@ -193,6 +193,14 @@
       "onboard_time": 1744087045,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 895434,
+      "num": 895434,
+      "word": "河北迁安3.7级地震",
+      "onboard_time": 1744101142,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 890521,
@@ -275,6 +283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 640210,
+      "num": 424675,
+      "word": "特朗普称将提出1万亿美元国防预算",
+      "onboard_time": 1744095141,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 625173,
       "num": 455390,
       "word": "发现男友已婚女子报警后被送精神病院",
@@ -283,12 +299,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 617100,
+      "num": 410856,
+      "word": "刘浩存 小马宝莉",
+      "onboard_time": 1744097782,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596191,
       "num": 335396,
       "word": "11岁男孩把100克金条吞入腹中",
       "onboard_time": 1744085664,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 584075,
+      "num": 408248,
+      "word": "梁田我不结婚也可以",
+      "onboard_time": 1744100062,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 565906,
+      "num": 400313,
+      "word": "有些电视剧真可以刷N次",
+      "onboard_time": 1744094723,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 530941,
@@ -323,20 +363,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 469401,
+      "num": 358202,
+      "word": "金子涵宁艺卓徐艺洋同期练习生",
+      "onboard_time": 1744099522,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458767,
       "num": 458767,
       "word": "马斯克似乎与特朗普划清界限",
       "onboard_time": 1744034904,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 455145,
-      "num": 377332,
-      "word": "有些电视剧真可以刷N次",
-      "onboard_time": 1744094723,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 451210,
@@ -395,11 +435,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 422406,
+      "num": 422406,
+      "word": "中国人不惹事也不怕事",
+      "onboard_time": 1744095022,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 410907,
       "num": 410907,
       "word": "爆款短剧编剧收入高达一两百万",
       "onboard_time": 1744065076,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 407410,
+      "num": 359374,
+      "word": "王家卫点赞",
+      "onboard_time": 1744095262,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -451,6 +507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 385946,
+      "num": 385946,
+      "word": "威海一小区楼房多层阳台坠落",
+      "onboard_time": 1744096403,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385628,
       "num": 385628,
       "word": "徐正溪退圈照顾生病父亲一年后复出",
@@ -467,28 +531,12 @@
       "category": "网红,艺人"
     },
     {
-      "raw_hot": 373988,
-      "num": 359374,
-      "word": "王家卫点赞",
-      "onboard_time": 1744095262,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 372367,
       "num": 343359,
       "word": "大姐每天采茶12小时子宫掉出体外",
       "onboard_time": 1744050617,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 370038,
-      "num": 370038,
-      "word": "中国人不惹事也不怕事",
-      "onboard_time": 1744095022,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 366398,
@@ -504,14 +552,6 @@
       "word": "特朗普称不会暂停关税政策",
       "onboard_time": 1744068380,
       "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 364471,
-      "num": 364471,
-      "word": "特朗普称将提出1万亿美元国防预算",
-      "onboard_time": 1744095141,
-      "rank": 20,
       "category": "国际时政"
     },
     {
@@ -595,6 +635,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 306887,
+      "num": 418274,
+      "word": "央国企300亿真金白银增持回购",
+      "onboard_time": 1744099641,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 303066,
+      "num": 303066,
+      "word": "上海人均4000元的云南菜",
+      "onboard_time": 1744097482,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 299645,
       "num": 299645,
       "word": "王源工作室告黑",
@@ -625,6 +681,14 @@
       "onboard_time": 1744074563,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295754,
+      "num": 295754,
+      "word": "已有9部电影定档五一档",
+      "onboard_time": 1744098681,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 292021,
@@ -713,6 +777,22 @@
       "onboard_time": 1744080323,
       "rank": 19,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 268781,
+      "num": 268781,
+      "word": "20岁的欧阳娣娣",
+      "onboard_time": 1744100003,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266863,
+      "num": 266863,
+      "word": "股市收盘全线飘红",
+      "onboard_time": 1744098922,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 263108,
@@ -843,12 +923,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231000,
-      "num": 379103,
-      "word": "威海一小区楼房多层阳台坠落",
-      "onboard_time": 1744096403,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 236163,
+      "num": 339654,
+      "word": "谢娜称有三个女儿很满足",
+      "onboard_time": 1744099701,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 230310,
@@ -929,6 +1009,14 @@
       "onboard_time": 1744081223,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208354,
+      "num": 383459,
+      "word": "章若楠希望大家被爱拥抱",
+      "onboard_time": 1744100686,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 207983,
@@ -1371,6 +1459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 149842,
+      "num": 149842,
+      "word": "金宣虎wink笑",
+      "onboard_time": 1744098743,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149755,
       "num": 149755,
       "word": "特朗普的金主们开喷关税",
@@ -1523,14 +1619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134300,
-      "num": 134300,
-      "word": "上海人均4000元的云南菜",
-      "onboard_time": 1744097482,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 134212,
       "num": 134212,
       "word": "姚晨演一个像一个的原因找到了",
@@ -1545,6 +1633,22 @@
       "onboard_time": 1744097242,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133260,
+      "num": 133260,
+      "word": "社保基金近日已主动增持国内股票",
+      "onboard_time": 1744098203,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 133055,
+      "num": 310584,
+      "word": "樊振东的偶像力量具象化了",
+      "onboard_time": 1744100686,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 132979,
@@ -1587,11 +1691,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 126727,
-      "num": 126727,
-      "word": "刘浩存 小马宝莉",
-      "onboard_time": 1744097782,
-      "rank": 47,
+      "raw_hot": 128498,
+      "num": 128498,
+      "word": "张若昀孟子义元老和萌新的演技",
+      "onboard_time": 1744098443,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -1627,6 +1731,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 123498,
+      "num": 371984,
+      "word": "女子夜乘顺风车司机全程智驾玩手机",
+      "onboard_time": 1744099883,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122446,
+      "num": 927509,
+      "word": "增强有效应对美关税冲击的信心",
+      "onboard_time": 1744095202,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121239,
       "num": 121239,
       "word": "芒果台",
@@ -1635,12 +1755,12 @@
       "category": "网红,作品衍生"
     },
     {
-      "raw_hot": 119740,
-      "num": 920931,
-      "word": "增强有效应对美关税冲击的信心",
-      "onboard_time": 1744095202,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 119978,
+      "num": 119978,
+      "word": "文和友回应甲亢哥直播遇霸座老板",
+      "onboard_time": 1744100903,
+      "rank": 47,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 119209,
@@ -1803,6 +1923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92161,
+      "num": 273282,
+      "word": "丧葬风招牌为何阴魂不散",
+      "onboard_time": 1744100303,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88896,
       "num": 88896,
       "word": "12岁它退休了 那你是不是眼睛也好了",
@@ -1833,6 +1961,14 @@
       "onboard_time": 1744068861,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 85995,
+      "num": 217247,
+      "word": "金鹤龙化的辛芷蕾",
+      "onboard_time": 1744101142,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 84901,
@@ -2131,6 +2267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 34449,
+      "num": 149888,
+      "word": "通过办公室判断垃圾公司",
+      "onboard_time": 1744100123,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 33304,
       "num": 45684,
       "word": "特朗普重申美联储应该降息",
@@ -2145,6 +2289,14 @@
       "onboard_time": 1744045458,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32423,
+      "num": 398369,
+      "word": "赵继伟没想到能有今天的成就",
+      "onboard_time": 1744099282,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 30086,
@@ -2169,6 +2321,14 @@
       "onboard_time": 1744087225,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28394,
+      "num": 269610,
+      "word": "马龙戴上红领巾笑得超乖",
+      "onboard_time": 1744100181,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 27579,

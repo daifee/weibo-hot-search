@@ -1,0 +1,410 @@
+{
+  "runTime": 1744101166573,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2460678,
+        "num": 2460678,
+        "word": "金子涵宣布退圈",
+        "onboard_time": 1744093163,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1103346,
+        "num": 1103346,
+        "word": "美国一瓶中国产洗发水涨了12美元",
+        "onboard_time": 1744095623,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122446,
+        "num": 927509,
+        "word": "增强有效应对美关税冲击的信心",
+        "onboard_time": 1744095202,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 895434,
+        "num": 895434,
+        "word": "河北迁安3.7级地震",
+        "onboard_time": 1744101142,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 429097,
+        "num": 429097,
+        "word": "外交部回应特朗普威胁再加征50%关税",
+        "onboard_time": 1744094123,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1107230,
+        "num": 426079,
+        "word": "留几手炒股损失480万",
+        "onboard_time": 1744094961,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694770,
+        "num": 424682,
+        "word": "文和友",
+        "onboard_time": 1744091002,
+        "rank": 6,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 640210,
+        "num": 424675,
+        "word": "特朗普称将提出1万亿美元国防预算",
+        "onboard_time": 1744095141,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422406,
+        "num": 422406,
+        "word": "中国人不惹事也不怕事",
+        "onboard_time": 1744095022,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306887,
+        "num": 418274,
+        "word": "央国企300亿真金白银增持回购",
+        "onboard_time": 1744099641,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1044324,
+        "num": 417181,
+        "word": "男子不同意分手逼女友喝农药身亡",
+        "onboard_time": 1744091601,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 617100,
+        "num": 410856,
+        "word": "刘浩存 小马宝莉",
+        "onboard_time": 1744097782,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584075,
+        "num": 408248,
+        "word": "梁田我不结婚也可以",
+        "onboard_time": 1744100062,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565906,
+        "num": 400313,
+        "word": "有些电视剧真可以刷N次",
+        "onboard_time": 1744094723,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32423,
+        "num": 398369,
+        "word": "赵继伟没想到能有今天的成就",
+        "onboard_time": 1744099282,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 539612,
+        "num": 395042,
+        "word": "白宫内讧",
+        "onboard_time": 1744084765,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 475294,
+        "num": 390043,
+        "word": "谢娜 谁说我怀孕了",
+        "onboard_time": 1744090162,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385946,
+        "num": 385946,
+        "word": "威海一小区楼房多层阳台坠落",
+        "onboard_time": 1744096403,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208354,
+        "num": 383459,
+        "word": "章若楠希望大家被爱拥抱",
+        "onboard_time": 1744100686,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123498,
+        "num": 371984,
+        "word": "女子夜乘顺风车司机全程智驾玩手机",
+        "onboard_time": 1744099883,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469401,
+        "num": 358202,
+        "word": "金子涵宁艺卓徐艺洋同期练习生",
+        "onboard_time": 1744099522,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407410,
+        "num": 347757,
+        "word": "王家卫点赞",
+        "onboard_time": 1744095262,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236163,
+        "num": 339654,
+        "word": "谢娜称有三个女儿很满足",
+        "onboard_time": 1744099701,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332947,
+        "num": 332947,
+        "word": "林峯称妻子换保姆对得起他人",
+        "onboard_time": 1744093222,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133055,
+        "num": 310584,
+        "word": "樊振东的偶像力量具象化了",
+        "onboard_time": 1744100686,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307783,
+        "num": 307783,
+        "word": "朱天天曝创造101内幕",
+        "onboard_time": 1744083021,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303066,
+        "num": 303066,
+        "word": "上海人均4000元的云南菜",
+        "onboard_time": 1744097482,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295754,
+        "num": 295754,
+        "word": "已有9部电影定档五一档",
+        "onboard_time": 1744098681,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92161,
+        "num": 273282,
+        "word": "丧葬风招牌为何阴魂不散",
+        "onboard_time": 1744100303,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28394,
+        "num": 269610,
+        "word": "马龙戴上红领巾笑得超乖",
+        "onboard_time": 1744100181,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269474,
+        "num": 269474,
+        "word": "Jennie封面照",
+        "onboard_time": 1744096343,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268781,
+        "num": 268781,
+        "word": "20岁的欧阳娣娣",
+        "onboard_time": 1744100003,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266863,
+        "num": 266863,
+        "word": "股市收盘全线飘红",
+        "onboard_time": 1744098922,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 228788,
+        "num": 228788,
+        "word": "停播半年后三只羊小杨臻选APP上线",
+        "onboard_time": 1744087945,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 85995,
+        "num": 217247,
+        "word": "金鹤龙化的辛芷蕾",
+        "onboard_time": 1744101142,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217189,
+        "num": 217189,
+        "word": "11岁男孩把100克金条吞入腹中",
+        "onboard_time": 1744085664,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178606,
+        "num": 178606,
+        "word": "小狗可以坐高铁但胖狗不行",
+        "onboard_time": 1744096343,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154216,
+        "num": 154216,
+        "word": "股市",
+        "onboard_time": 1744074625,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150117,
+        "num": 150117,
+        "word": "特朗普拒绝欧盟零关税方案",
+        "onboard_time": 1744092561,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34449,
+        "num": 149888,
+        "word": "通过办公室判断垃圾公司",
+        "onboard_time": 1744100123,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149842,
+        "num": 149842,
+        "word": "金宣虎wink笑",
+        "onboard_time": 1744098743,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146880,
+        "num": 146880,
+        "word": "张钧甯方回应炒股损失约862万",
+        "onboard_time": 1744081822,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142121,
+        "num": 142121,
+        "word": "杭州别墅区涉非法代孕场所被查封",
+        "onboard_time": 1744095202,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139963,
+        "num": 139963,
+        "word": "毛泽东曾孙毛东东走进湖南一师",
+        "onboard_time": 1744076302,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133260,
+        "num": 133260,
+        "word": "社保基金近日已主动增持国内股票",
+        "onboard_time": 1744098203,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130619,
+        "num": 130619,
+        "word": "国家队A股开盘前密集行动",
+        "onboard_time": 1744090823,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128498,
+        "num": 128498,
+        "word": "张若昀孟子义元老和萌新的演技",
+        "onboard_time": 1744098443,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119978,
+        "num": 119978,
+        "word": "文和友回应甲亢哥直播遇霸座老板",
+        "onboard_time": 1744100903,
+        "rank": 47,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 116219,
+        "num": 116219,
+        "word": "12306推出宠物托运功能",
+        "onboard_time": 1744072524,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115987,
+        "num": 115987,
+        "word": "赵丽颖下意识的反应最动人",
+        "onboard_time": 1744094781,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "跟着总书记领略中华文明"
+    }
+  }
+}
