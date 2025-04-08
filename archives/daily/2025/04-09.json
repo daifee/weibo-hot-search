@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744130810771,
+  "endTime": 1744132947509,
   "band_list": [
     {
       "raw_hot": 1108687,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215854,
+      "num": 112732,
+      "word": "清朝ppt",
+      "onboard_time": 1744130597,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195252,
       "num": 195252,
       "word": "P图姐给黄俊捷发律师函",
@@ -187,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131253,
+      "num": 131253,
+      "word": "外交部回应特朗普威胁再加征50%关税",
+      "onboard_time": 1744094123,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 128185,
       "num": 128185,
       "word": "这剧过了第一集就好看了",
       "onboard_time": 1744121424,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124395,
+      "num": 157577,
+      "word": "A股一扫阴霾强势反弹",
+      "onboard_time": 1744127421,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 119519,
@@ -209,14 +233,6 @@
       "onboard_time": 1744123823,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 117675,
-      "num": 117675,
-      "word": "外交部回应特朗普威胁再加征50%关税",
-      "onboard_time": 1744094123,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 115053,
@@ -288,6 +304,14 @@
       "word": "美国单边霸凌终将反噬自身",
       "onboard_time": 1744104502,
       "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 94060,
+      "num": 112346,
+      "word": "美所谓对等关税单边霸凌损人害己",
+      "onboard_time": 1744130838,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -403,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66480,
-      "num": 66480,
-      "word": "清朝ppt",
-      "onboard_time": 1744130597,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 60058,
       "num": 60058,
       "word": "宋佳看望张桂梅",
@@ -419,18 +435,58 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53650,
-      "num": 157577,
-      "word": "A股一扫阴霾强势反弹",
-      "onboard_time": 1744127421,
-      "rank": 14,
-      "category": "财经"
+      "raw_hot": 56423,
+      "num": 56423,
+      "word": "棋士22",
+      "onboard_time": 1744131978,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 47824,
+      "num": 47824,
+      "word": "内娱女明星红毯统计",
+      "onboard_time": 1744131258,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 46069,
+      "num": 46069,
+      "word": "王嘉尔版superidol",
+      "onboard_time": 1744131079,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 39393,
+      "num": 40651,
+      "word": "朱志鑫又回到一些熟悉的地方",
+      "onboard_time": 1744131498,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28155,
+      "num": 46545,
+      "word": "缅甸地震致3645人死亡",
+      "onboard_time": 1744126702,
+      "rank": 41,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 18269,
       "num": 120677,
       "word": "刘纪鹏再次建议成立4万亿平准基金",
       "onboard_time": 1744129279,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 14413,
+      "num": 71321,
+      "word": "A股超3200只个股收红",
+      "onboard_time": 1744132097,
       "rank": 24,
       "category": "财经"
     }
