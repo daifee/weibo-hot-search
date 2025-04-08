@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744077066458,
+  "endTime": 1744078401726,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -665,6 +665,14 @@
       "onboard_time": 1743636020,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1402772,
+      "num": 1402772,
+      "word": "毛泽东曾孙毛东东走进湖南一师",
+      "onboard_time": 1744076302,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1397916,
@@ -1539,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 960810,
+      "num": 598994,
+      "word": "甜馨说自己不可能张口就要到东西",
+      "onboard_time": 1744074924,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 959306,
       "num": 569054,
       "word": "特朗普",
@@ -1939,14 +1955,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 850436,
-      "num": 850436,
-      "word": "毛泽东曾孙毛东东走进湖南一师",
-      "onboard_time": 1744076302,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 843928,
       "num": 468969,
       "word": "吴宣仪晕倒被工作人员抱下台",
@@ -1977,6 +1985,14 @@
       "onboard_time": 1744072045,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 837485,
+      "num": 837485,
+      "word": "特朗普继续对日本施压",
+      "onboard_time": 1744073784,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 836565,
@@ -2209,14 +2225,6 @@
       "onboard_time": 1743846021,
       "rank": 1,
       "category": "网红"
-    },
-    {
-      "raw_hot": 776729,
-      "num": 776729,
-      "word": "特朗普继续对日本施压",
-      "onboard_time": 1744073784,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 771856,
@@ -2937,14 +2945,6 @@
       "onboard_time": 1743516805,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 598994,
-      "num": 598994,
-      "word": "甜馨说自己不可能张口就要到东西",
-      "onboard_time": 1744074924,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 598234,
@@ -4907,6 +4907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387879,
+      "num": 747709,
+      "word": "A股走强",
+      "onboard_time": 1744076603,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 387494,
       "num": 162358,
       "word": "金秀贤公开录音证据",
@@ -6203,6 +6211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 311896,
+      "num": 394252,
+      "word": "商务部新闻发言人就美方威胁升级对华关税发表谈话",
+      "onboard_time": 1744076302,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 311781,
       "num": 311781,
       "word": "男子1.5万机票款退票被扣1.4万",
@@ -6433,6 +6449,14 @@
       "onboard_time": 1743681081,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 300675,
+      "num": 300675,
+      "word": "赵丽颖造型师换了",
+      "onboard_time": 1744076962,
+      "rank": 25,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 300220,
@@ -7459,14 +7483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253919,
-      "num": 747709,
-      "word": "A股走强",
-      "onboard_time": 1744076603,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 253664,
       "num": 253664,
       "word": "白桃星座",
@@ -7553,14 +7569,6 @@
       "onboard_time": 1743940223,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249466,
-      "num": 249466,
-      "word": "商务部新闻发言人就美方威胁升级对华关税发表谈话",
-      "onboard_time": 1744076302,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 249375,
@@ -7729,6 +7737,14 @@
       "onboard_time": 1743741381,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241165,
+      "num": 241165,
+      "word": "无刺榴莲原来是人工无刺的",
+      "onboard_time": 1744077023,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 240994,
@@ -9219,6 +9235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 206262,
+      "num": 401590,
+      "word": "张新成酒吧唱歌",
+      "onboard_time": 1744077563,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206255,
       "num": 206255,
       "word": "华晨宇演唱会",
@@ -9961,6 +9985,14 @@
       "onboard_time": 1743948744,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194958,
+      "num": 194958,
+      "word": "特朗普顾问发声回怼马斯克",
+      "onboard_time": 1744077203,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 194942,
@@ -11787,6 +11819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 173919,
+      "num": 173919,
+      "word": "文化差异不是李美越的保命符",
+      "onboard_time": 1744078163,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 173851,
       "num": 173851,
       "word": "黄景瑜风驰赛车手上班",
@@ -12755,6 +12795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161671,
+      "num": 161671,
+      "word": "河南申论 压分",
+      "onboard_time": 1744077742,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 161656,
       "num": 161656,
       "word": "姚晨爱女的含金量还在上升",
@@ -13115,14 +13163,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 157462,
-      "num": 157462,
-      "word": "无刺榴莲原来是人工无刺的",
-      "onboard_time": 1744077023,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 157409,
       "num": 157409,
       "word": "白敬亭海棠花vlog",
@@ -13305,6 +13345,14 @@
       "onboard_time": 1744031843,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155598,
+      "num": 155598,
+      "word": "EXO出道十三周年",
+      "onboard_time": 1744069283,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 155465,
@@ -14107,6 +14155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 147445,
+      "num": 309520,
+      "word": "金饰价一夜反弹9元",
+      "onboard_time": 1744077862,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 147385,
       "num": 147385,
       "word": "男子讲述顺风车送3马犬被拒还经过",
@@ -14513,6 +14569,14 @@
       "onboard_time": 1744037484,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143409,
+      "num": 143409,
+      "word": "美国人恐慌性抢购iPhone",
+      "onboard_time": 1744077862,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 143408,
@@ -15105,6 +15169,14 @@
       "onboard_time": 1743864502,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136989,
+      "num": 136989,
+      "word": "21岁假道士收36岁徒弟狂骗其20多万",
+      "onboard_time": 1744077443,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136891,
@@ -20212,7 +20284,7 @@
     },
     {
       "raw_hot": 70148,
-      "num": 1131694,
+      "num": 1147018,
       "word": "中国坚定不移维护多边主义",
       "onboard_time": 1743942922,
       "rank": 2,
@@ -22081,6 +22153,14 @@
       "onboard_time": 1743615137,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34744,
+      "num": 267248,
+      "word": "调剂服务系统今日开通",
+      "onboard_time": 1744077923,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 34736,
