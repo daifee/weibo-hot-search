@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/06 00:27:55 ~ 2025/04/09 03:36:09
+本榜单时间：2025/04/06 00:27:55 ~ 2025/04/09 04:27:32
 </p>
 </blockquote>
 <p>
@@ -6813,6 +6813,12 @@ JDG剧本杀全员老实人（热度：101258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%B0%91%E4%BC%97%E5%BC%80%E5%A7%8B%E5%9B%A4%E8%B4%A7%23" target="weibo">
+美国多地民众开始囤货（热度：80646）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%A8%E5%88%86%E9%93%B6%E8%A1%8C%E8%B0%83%E6%95%B4%E6%8F%90%E5%89%8D%E8%BF%98%E8%B4%B7%E6%94%BF%E7%AD%96%23" target="weibo">
 部分银行调整提前还贷政策（热度：80559）
 </a>
@@ -7257,6 +7263,12 @@ Bin塞恩（热度：54169）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8E%98%E9%87%91%E8%A7%A3%E9%9B%87%E9%A9%AC%E9%BE%99%23" target="weibo">
+掘金解雇马龙（热度：50313）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23A50%E6%9C%9F%E6%8C%87%E6%B6%A83%25%23" target="weibo">
 A50期指涨3%（热度：48861）
 </a>
@@ -7277,12 +7289,6 @@ A50期指涨3%（热度：48861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%A5%B3%E6%98%8E%E6%98%9F%E7%BA%A2%E6%AF%AF%E7%BB%9F%E8%AE%A1%23" target="weibo">
 内娱女明星红毯统计（热度：47824）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8E%98%E9%87%91%E8%A7%A3%E9%9B%87%E9%A9%AC%E9%BE%99%23" target="weibo">
-掘金解雇马龙（热度：46658）
 </a>
 </li>
 
@@ -7635,14 +7641,14 @@ A股利好连发（热度：32243）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E6%A2%B3%E7%90%86%E5%A4%9A%E6%96%B9%E9%87%8D%E7%A3%85%E5%8F%91%E5%A3%B0%23" target="weibo">
-一图梳理多方重磅发声（热度：29039）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8C%E6%A0%B938%E5%B9%B4%E5%89%8D%E5%B0%B1%E8%AE%B2%E8%BF%87%E6%BB%A5%E6%96%BD%E5%85%B3%E7%A8%8E%E7%9A%84%E4%B8%8B%E5%9C%BA%23" target="weibo">
+里根38年前就讲过滥施关税的下场（热度：29332）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%B0%91%E4%BC%97%E5%BC%80%E5%A7%8B%E5%9B%A4%E8%B4%A7%23" target="weibo">
-美国多地民众开始囤货（热度：28745）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E6%A2%B3%E7%90%86%E5%A4%9A%E6%96%B9%E9%87%8D%E7%A3%85%E5%8F%91%E5%A3%B0%23" target="weibo">
+一图梳理多方重磅发声（热度：29039）
 </a>
 </li>
 
@@ -7779,6 +7785,12 @@ susu福福（热度：26824）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B1%E5%8E%95%E8%BE%B9%E7%94%9F%E4%BA%A7%E5%86%92%E7%89%8C%E5%92%96%E5%95%A1%E6%88%90%E6%9C%AC5%E5%85%83%E5%8D%9669%23" target="weibo">
+旱厕边生产冒牌咖啡成本5元卖69（热度：22896）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%9B%E4%BA%9A2%E5%9B%A2%E5%90%8DNexT1DE%23" target="weibo">
 创亚2团名NexT1DE（热度：19831）
 </a>
@@ -7817,6 +7829,12 @@ susu福福（热度：26824）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E8%AE%B0%E8%80%85%E5%9C%A8%E5%8C%BB%E9%99%A2%E9%81%AD%E7%A9%BA%E8%A2%AD%E8%87%B4%E6%AD%BB%23" target="weibo">
 巴勒斯坦记者在医院遭空袭致死（热度：19338）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E4%BB%81vs%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0%23" target="weibo">
+拜仁vs国际米兰（热度：19315）
 </a>
 </li>
 
@@ -7875,6 +7893,12 @@ susu福福（热度：26824）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E9%81%90%E8%9D%B6%23" target="weibo">
+星穹铁道遐蝶（热度：15683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%A4%E5%A4%A9%E9%97%AE%E5%8B%87%E8%B7%AF%E6%91%86%E6%BB%A1%E4%BA%86%E9%B2%9C%E8%8A%B1%23" target="weibo">
 这两天问勇路摆满了鲜花（热度：15416）
 </a>
@@ -7929,12 +7953,6 @@ PCL2025（热度：14268）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E4%BB%81vs%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0%23" target="weibo">
-拜仁vs国际米兰（热度：12980）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E4%BA%91%E4%B9%8B%E4%B8%8A%E6%B2%A1%E6%9C%89%E5%BC%80%E9%87%91%E6%89%8B%E6%8C%87%E7%9A%84%E5%A4%A7%E5%A5%B3%E4%B8%BB%23" target="weibo">
 乌云之上没有开金手指的大女主（热度：12898）
 </a>
@@ -7961,6 +7979,12 @@ PCL2025（热度：14268）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E8%B4%B8%E6%98%93%E6%88%98%E4%B8%AD%E6%B2%A1%E6%9C%89%E8%B5%A2%E5%AE%B6%23" target="weibo">
 联合国警告贸易战中没有赢家（热度：11970）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%AD%A3%E4%B8%A5%E9%87%8D%E4%BC%A4%E5%AE%B3%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%23" target="weibo">
+美国政府正严重伤害美国人民（热度：11909）
 </a>
 </li>
 
@@ -8003,6 +8027,12 @@ PCL2025（热度：14268）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%94%E5%8D%A1%E5%B0%91%E5%A5%B3%E6%A8%B1%E7%8B%BC%E6%A8%B1%E5%8F%88%E5%8F%91%E7%B3%96%E5%95%A6%23" target="weibo">
 魔卡少女樱狼樱又发糖啦（热度：10579）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%A4%96%E5%9B%BD%E7%94%B7%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%A7%B0%E5%A4%A7%E8%83%96%E5%AA%B3%E5%A6%87%23" target="weibo">
+这个外国男人为何被称大胖媳妇（热度：10499）
 </a>
 </li>
 

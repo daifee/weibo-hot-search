@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744140969669,
+  "endTime": 1744144052914,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -9067,6 +9067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80646,
+      "num": 80646,
+      "word": "美国多地民众开始囤货",
+      "onboard_time": 1744139954,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 80559,
       "num": 131383,
       "word": "部分银行调整提前还贷政策",
@@ -9659,6 +9667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50313,
+      "num": 35665,
+      "word": "掘金解雇马龙",
+      "onboard_time": 1744140493,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48861,
       "num": 78528,
       "word": "A50期指涨3%",
@@ -9689,14 +9705,6 @@
       "onboard_time": 1744131258,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 46658,
-      "num": 35665,
-      "word": "掘金解雇马龙",
-      "onboard_time": 1744140493,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 46069,
@@ -10163,20 +10171,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29332,
+      "num": 29332,
+      "word": "里根38年前就讲过滥施关税的下场",
+      "onboard_time": 1744141454,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29039,
       "num": 256072,
       "word": "一图梳理多方重磅发声",
       "onboard_time": 1744087225,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28745,
-      "num": 38601,
-      "word": "美国多地民众开始囤货",
-      "onboard_time": 1744139954,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28394,
@@ -10355,6 +10363,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 22896,
+      "num": 22896,
+      "word": "旱厕边生产冒牌咖啡成本5元卖69",
+      "onboard_time": 1744141816,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19831,
       "num": 19831,
       "word": "创亚2团名NexT1DE",
@@ -10409,6 +10425,14 @@
       "onboard_time": 1744110261,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19315,
+      "num": 26097,
+      "word": "拜仁vs国际米兰",
+      "onboard_time": 1744138873,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 19187,
@@ -10483,6 +10507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 15683,
+      "num": 17532,
+      "word": "星穹铁道遐蝶",
+      "onboard_time": 1744134256,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 15416,
       "num": 27331,
       "word": "这两天问勇路摆满了鲜花",
@@ -10555,14 +10587,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 12980,
-      "num": 26097,
-      "word": "拜仁vs国际米兰",
-      "onboard_time": 1744138873,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 12898,
       "num": 233998,
       "word": "乌云之上没有开金手指的大女主",
@@ -10600,6 +10624,14 @@
       "word": "联合国警告贸易战中没有赢家",
       "onboard_time": 1743896059,
       "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 11909,
+      "num": 18962,
+      "word": "美国政府正严重伤害美国人民",
+      "onboard_time": 1744143914,
+      "rank": 35,
       "category": "国际时政"
     },
     {
@@ -10657,6 +10689,14 @@
       "onboard_time": 1744039942,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 10499,
+      "num": 18995,
+      "word": "这个外国男人为何被称大胖媳妇",
+      "onboard_time": 1744143554,
+      "rank": 34,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 10407,
