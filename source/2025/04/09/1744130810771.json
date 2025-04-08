@@ -1,0 +1,410 @@
+{
+  "runTime": 1744130810771,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 446005,
+        "num": 724763,
+        "word": "女医生惨遭丧子之痛还带来凶宅官司",
+        "onboard_time": 1744125082,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287392,
+        "num": 287392,
+        "word": "特朗普称韩方高层正前往美国",
+        "onboard_time": 1744126042,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134908,
+        "num": 263781,
+        "word": "中国不惹事也绝不怕事",
+        "onboard_time": 1744120942,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 718742,
+        "num": 261314,
+        "word": "金子涵脸都凹进去了",
+        "onboard_time": 1744124063,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251268,
+        "num": 251268,
+        "word": "贪官买宝马不敢开罩起来放地下室",
+        "onboard_time": 1744122204,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232942,
+        "num": 232942,
+        "word": "孙俪凭什么当二十多年的女一",
+        "onboard_time": 1744124483,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216184,
+        "num": 216184,
+        "word": "温州18岁失联男孩确认身亡",
+        "onboard_time": 1744124363,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215937,
+        "num": 215937,
+        "word": "是严浩翔的话那很正常了",
+        "onboard_time": 1744117343,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199324,
+        "num": 199324,
+        "word": "市监局回应3员工上班看视频睡觉",
+        "onboard_time": 1744125742,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 177563,
+        "num": 177563,
+        "word": "南京地铁回应乘客看到诡异人脸",
+        "onboard_time": 1744107382,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 954469,
+        "num": 176109,
+        "word": "Jennie杂志尺度好大",
+        "onboard_time": 1744115062,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 367948,
+        "num": 169217,
+        "word": "贾静雯回应股市受灾情况",
+        "onboard_time": 1744129220,
+        "rank": 11,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 322780,
+        "num": 166725,
+        "word": "孕妇做四维意外拍下宝宝干饭瞬间",
+        "onboard_time": 1744123104,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281946,
+        "num": 162332,
+        "word": "电脑微信会惩罚每一个分手的人",
+        "onboard_time": 1744107982,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53650,
+        "num": 157577,
+        "word": "A股一扫阴霾强势反弹",
+        "onboard_time": 1744127421,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154423,
+        "num": 154423,
+        "word": "质疑严浩翔导师身份选手道歉",
+        "onboard_time": 1744120343,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150011,
+        "num": 150011,
+        "word": "P图姐给黄俊捷发律师函",
+        "onboard_time": 1744125563,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131725,
+        "num": 131725,
+        "word": "念无双全员be",
+        "onboard_time": 1744118362,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129201,
+        "num": 129201,
+        "word": "刘宇宁直播回应万花世界",
+        "onboard_time": 1744125683,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119929,
+        "num": 119929,
+        "word": "办好自己的事中国有底气",
+        "onboard_time": 1744127542,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125946,
+        "num": 119398,
+        "word": "吴世勋去了EXO直播现场",
+        "onboard_time": 1744126642,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117675,
+        "num": 117675,
+        "word": "外交部回应特朗普威胁再加征50%关税",
+        "onboard_time": 1744094123,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108975,
+        "num": 108975,
+        "word": "金子涵曾瘦到49公斤",
+        "onboard_time": 1744115121,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102361,
+        "num": 102361,
+        "word": "偶遇张颂文逛街",
+        "onboard_time": 1744129760,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102199,
+        "num": 102199,
+        "word": "林诗栋教练回应被网友劝遮一下手表",
+        "onboard_time": 1744126522,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119074,
+        "num": 101470,
+        "word": "张艺兴不参加EXO周年纪念活动",
+        "onboard_time": 1744114462,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94772,
+        "num": 94772,
+        "word": "宠物狗被杀韩国女子欲杀父报仇",
+        "onboard_time": 1744123969,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93121,
+        "num": 93121,
+        "word": "男孩带着哭腔问180斤能救吗",
+        "onboard_time": 1744113982,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91470,
+        "num": 91470,
+        "word": "当地蜜雪冰城回应招牌变绿色",
+        "onboard_time": 1744104321,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89888,
+        "num": 89888,
+        "word": "这剧过了第一集就好看了",
+        "onboard_time": 1744121424,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89640,
+        "num": 89640,
+        "word": "有一种中国风叫牡丹",
+        "onboard_time": 1744111822,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89355,
+        "num": 89355,
+        "word": "经纪人不让祝绪丹体重低于80斤",
+        "onboard_time": 1744108642,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87766,
+        "num": 87766,
+        "word": "外交部回应美副总统说中国人乡巴佬",
+        "onboard_time": 1744113142,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84821,
+        "num": 84821,
+        "word": "股民押中农业股1天从亏5万到赚5万",
+        "onboard_time": 1744123823,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80343,
+        "num": 80343,
+        "word": "又一波增持来了",
+        "onboard_time": 1744127542,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77790,
+        "num": 77790,
+        "word": "美国单边霸凌终将反噬自身",
+        "onboard_time": 1744104502,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77143,
+        "num": 77143,
+        "word": "自称现做网红蛋糕实为去年12月生产",
+        "onboard_time": 1744120163,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76483,
+        "num": 76483,
+        "word": "陈飞宇朋友圈",
+        "onboard_time": 1744106782,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71998,
+        "num": 71998,
+        "word": "棋士22集鲨疯了",
+        "onboard_time": 1744124243,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71871,
+        "num": 71871,
+        "word": "如美方一意孤行中方奉陪到底",
+        "onboard_time": 1744104381,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71645,
+        "num": 71645,
+        "word": "6个儿子洗澡爸爸直接军事化管理",
+        "onboard_time": 1744122863,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71175,
+        "num": 71175,
+        "word": "女子称遭男友性侵立案两年后被撤案",
+        "onboard_time": 1744116323,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67985,
+        "num": 67985,
+        "word": "安宥真和张元英2018VS2025",
+        "onboard_time": 1744124963,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66480,
+        "num": 66480,
+        "word": "清朝ppt",
+        "onboard_time": 1744130597,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61454,
+        "num": 61454,
+        "word": "TizzyT当导师都没空官宣演唱会吗",
+        "onboard_time": 1744124663,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60701,
+        "num": 60701,
+        "word": "曹颖回应李晟镜头少",
+        "onboard_time": 1744122804,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60058,
+        "num": 60058,
+        "word": "宋佳看望张桂梅",
+        "onboard_time": 1744130060,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59553,
+        "num": 59553,
+        "word": "李现李一桐江相4月底开机",
+        "onboard_time": 1744123884,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58750,
+        "num": 58750,
+        "word": "徐杰晚安",
+        "onboard_time": 1744125142,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57019,
+        "num": 57019,
+        "word": "小欢喜陶子回来了",
+        "onboard_time": 1744124602,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济是一片大海#"
+    }
+  }
+}

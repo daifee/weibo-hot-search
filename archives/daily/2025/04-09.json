@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744129886604,
+  "endTime": 1744130810771,
   "band_list": [
     {
       "raw_hot": 1108687,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367948,
+      "num": 211724,
+      "word": "贾静雯回应股市受灾情况",
+      "onboard_time": 1744129220,
+      "rank": 14,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 358792,
       "num": 358792,
       "word": "贪官买宝马不敢开罩起来放地下室",
@@ -67,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287392,
+      "num": 287392,
+      "word": "特朗普称韩方高层正前往美国",
+      "onboard_time": 1744126042,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 279938,
       "num": 243852,
       "word": "是严浩翔的话那很正常了",
@@ -76,19 +92,11 @@
     },
     {
       "raw_hot": 263997,
-      "num": 212547,
+      "num": 216184,
       "word": "温州18岁失联男孩确认身亡",
       "onboard_time": 1744124363,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 258915,
-      "num": 258915,
-      "word": "特朗普称韩方高层正前往美国",
-      "onboard_time": 1744126042,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 226951,
@@ -105,14 +113,6 @@
       "onboard_time": 1744107382,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211724,
-      "num": 211724,
-      "word": "贾静雯回应股市受灾情况",
-      "onboard_time": 1744129220,
-      "rank": 14,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 195252,
@@ -211,6 +211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117675,
+      "num": 117675,
+      "word": "外交部回应特朗普威胁再加征50%关税",
+      "onboard_time": 1744094123,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115053,
       "num": 115053,
       "word": "如美方一意孤行中方奉陪到底",
@@ -225,14 +233,6 @@
       "onboard_time": 1744104321,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111641,
-      "num": 111641,
-      "word": "外交部回应特朗普威胁再加征50%关税",
-      "onboard_time": 1744094123,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 109325,
@@ -267,20 +267,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 102361,
+      "num": 102361,
+      "word": "偶遇张颂文逛街",
+      "onboard_time": 1744129760,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102199,
+      "num": 102199,
+      "word": "林诗栋教练回应被网友劝遮一下手表",
+      "onboard_time": 1744126522,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100455,
       "num": 100455,
       "word": "美国单边霸凌终将反噬自身",
       "onboard_time": 1744104502,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 100083,
-      "num": 100083,
-      "word": "林诗栋教练回应被网友劝遮一下手表",
-      "onboard_time": 1744126522,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 93534,
@@ -339,6 +347,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80343,
+      "num": 218832,
+      "word": "又一波增持来了",
+      "onboard_time": 1744127542,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 76483,
+      "num": 76483,
+      "word": "陈飞宇朋友圈",
+      "onboard_time": 1744106782,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76224,
       "num": 76224,
       "word": "曹颖回应李晟镜头少",
@@ -363,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71681,
-      "num": 71681,
-      "word": "偶遇张颂文逛街",
-      "onboard_time": 1744129760,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70653,
       "num": 70653,
       "word": "吴世勋连线",
@@ -387,11 +403,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69215,
-      "num": 218832,
-      "word": "又一波增持来了",
-      "onboard_time": 1744127542,
-      "rank": 9,
+      "raw_hot": 66480,
+      "num": 66480,
+      "word": "清朝ppt",
+      "onboard_time": 1744130597,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 60058,
+      "num": 60058,
+      "word": "宋佳看望张桂梅",
+      "onboard_time": 1744130060,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 53650,
+      "num": 157577,
+      "word": "A股一扫阴霾强势反弹",
+      "onboard_time": 1744127421,
+      "rank": 14,
       "category": "财经"
     },
     {
