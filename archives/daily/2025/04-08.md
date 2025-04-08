@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/08 00:29:44 ~ 2025/04/08 11:04:33
+本榜单时间：2025/04/08 00:29:44 ~ 2025/04/08 11:13:22
 </p>
 </blockquote>
 <p>
@@ -99,6 +99,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E7%8E%87%E9%99%8D%E8%87%B3%E4%B8%8A%E4%BB%BB%E6%9D%A5%E6%9C%80%E4%BD%8E%23" target="weibo">
+特朗普支持率降至上任来最低（热度：736988）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%9C%81%E8%80%83%E6%88%90%E7%BB%A9%23" target="weibo">
 河南省考成绩（热度：729002）
 </a>
@@ -117,6 +123,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%8D%E5%88%B6%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%23" target="weibo">
+中国为什么能全球第一个反制对等关税（热度：538071）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E4%BA%86%23" target="weibo">
+赵丽颖造型师换了（热度：517301）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E6%98%A5%E5%AD%A3%E6%99%9A%E7%9D%A1%E6%97%A9%E8%B5%B7%23" target="weibo">
 医生建议春季晚睡早起（热度：515388）
 </a>
@@ -125,24 +143,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%A7%8B%E4%BA%8A%E5%81%9C%E6%92%AD%23" target="weibo">
 何秋亊停播（热度：496070）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E7%8E%87%E9%99%8D%E8%87%B3%E4%B8%8A%E4%BB%BB%E6%9D%A5%E6%9C%80%E4%BD%8E%23" target="weibo">
-特朗普支持率降至上任来最低（热度：480475）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%8D%E5%88%B6%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%23" target="weibo">
-中国为什么能全球第一个反制对等关税（热度：467980）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E4%BA%86%23" target="weibo">
-赵丽颖造型师换了（热度：466288）
 </a>
 </li>
 
@@ -226,7 +226,7 @@ A股走强（热度：387879）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BoA%E5%90%91%E6%9C%B4%E5%A8%9C%E8%8E%B1%E9%81%93%E6%AD%89%23" target="weibo">
-BoA向朴娜莱道歉（热度：325406）
+BoA向朴娜莱道歉（热度：353684）
 </a>
 </li>
 
@@ -297,8 +297,20 @@ BoA向朴娜莱道歉（热度：325406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E9%9B%86%E4%BD%93%E5%96%8A%E8%AF%9D%E6%8A%B5%E5%88%B6%E6%9D%8E%E7%BE%8E%E8%B6%8A%23" target="weibo">
+网友集体喊话抵制李美越（热度：275744）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E9%80%81%E7%94%B2%E4%BA%A2%E5%93%A5%E7%BB%88%E8%BA%AB%E4%BC%9A%E5%91%98%E5%8D%A1%23" target="weibo">
 芒果送甲亢哥终身会员卡（热度：274786）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%88%BA%E6%A6%B4%E8%8E%B2%E5%8E%9F%E6%9D%A5%E6%98%AF%E4%BA%BA%E5%B7%A5%E6%97%A0%E5%88%BA%E7%9A%84%23" target="weibo">
+无刺榴莲原来是人工无刺的（热度：272440）
 </a>
 </li>
 
@@ -315,12 +327,6 @@ BoA向朴娜莱道歉（热度：325406）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%88%BA%E6%A6%B4%E8%8E%B2%E5%8E%9F%E6%9D%A5%E6%98%AF%E4%BA%BA%E5%B7%A5%E6%97%A0%E5%88%BA%E7%9A%84%23" target="weibo">
-无刺榴莲原来是人工无刺的（热度：259282）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%82%A1%E5%B8%82%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%23" target="weibo">
 日本股市暴力反弹（热度：258554）
 </a>
@@ -333,8 +339,20 @@ BoA向朴娜莱道歉（热度：325406）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E9%9B%86%E4%BD%93%E5%96%8A%E8%AF%9D%E6%8A%B5%E5%88%B6%E6%9D%8E%E7%BE%8E%E8%B6%8A%23" target="weibo">
-网友集体喊话抵制李美越（热度：236518）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%9C%E4%B8%9A%E9%83%A8%E9%95%BF%E5%B0%B4%E5%B0%AC%E5%9B%9E%E5%BA%94%E5%AF%B9%E4%BC%81%E9%B9%85%E5%BE%81%E7%A8%8E%23" target="weibo">
+美国农业部长尴尬回应对企鹅征税（热度：255885）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B1%87%E9%87%91%E5%8F%91%E6%8C%A5%E7%9D%80%E7%B1%BB%E5%B9%B3%E5%87%86%E5%9F%BA%E9%87%91%E4%BD%9C%E7%94%A8%23" target="weibo">
+中央汇金发挥着类平准基金作用（热度：247575）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E5%9D%90%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%89%93%E7%BF%BB%E5%A5%B6%E8%8C%B6%E8%A2%AB%E5%88%A4%E8%B5%941372%E5%85%83%23" target="weibo">
+乘客坐网约车打翻奶茶被判赔1372元（热度：234002）
 </a>
 </li>
 
@@ -369,8 +387,8 @@ BoA向朴娜莱道歉（热度：325406）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B1%87%E9%87%91%E5%8F%91%E6%8C%A5%E7%9D%80%E7%B1%BB%E5%B9%B3%E5%87%86%E5%9F%BA%E9%87%91%E4%BD%9C%E7%94%A8%23" target="weibo">
-中央汇金发挥着类平准基金作用（热度：212162）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E9%81%93%E6%AD%89%23" target="weibo">
+广末凉子道歉（热度：208942）
 </a>
 </li>
 
@@ -393,8 +411,8 @@ BoA向朴娜莱道歉（热度：325406）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E5%9D%90%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%89%93%E7%BF%BB%E5%A5%B6%E8%8C%B6%E8%A2%AB%E5%88%A4%E8%B5%941372%E5%85%83%23" target="weibo">
-乘客坐网约车打翻奶茶被判赔1372元（热度：198900）
+<a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E4%B8%96%E5%B7%A1%E9%AB%98%E9%98%B3%E5%9C%BA%E9%A2%84%E5%91%8A%E6%B5%B7%E6%8A%A5%23" target="weibo">
+BLACKPINK世巡高阳场预告海报（热度：202061）
 </a>
 </li>
 
@@ -423,20 +441,26 @@ BoA向朴娜莱道歉（热度：325406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%A7%E7%94%AF%E6%96%B9%E5%9B%9E%E5%BA%94%E7%82%92%E8%82%A1%E6%8D%9F%E5%A4%B1%E7%BA%A6862%E4%B8%87%23" target="weibo">
+张钧甯方回应炒股损失约862万（热度：187403）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%B7%AE%E6%B0%B4%E7%AB%B9%E4%BA%AD%E9%A2%84%E5%91%8A%E9%95%9C%E5%A4%B4%23" target="weibo">
 丁禹兮淮水竹亭预告镜头（热度：186359）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E8%AE%A1%E5%88%92%E5%AF%B9%E7%BE%8E%E5%BE%81%E6%94%B6%E4%B8%A4%E9%83%A8%E5%88%86%E5%85%B3%E7%A8%8E%23" target="weibo">
-欧盟计划对美征收两部分关税（热度：174964）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%B6%A8%E5%9B%9E927%E5%85%83%23" target="weibo">
+金饰价涨回927元（热度：175761）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%B6%A8%E5%9B%9E927%E5%85%83%23" target="weibo">
-金饰价涨回927元（热度：174148）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E8%AE%A1%E5%88%92%E5%AF%B9%E7%BE%8E%E5%BE%81%E6%94%B6%E4%B8%A4%E9%83%A8%E5%88%86%E5%85%B3%E7%A8%8E%23" target="weibo">
+欧盟计划对美征收两部分关税（热度：174964）
 </a>
 </li>
 
@@ -467,6 +491,12 @@ BoA向朴娜莱道歉（热度：325406）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%BC%9A%E8%A1%A8%E8%BE%BE%E6%83%85%E7%BB%AA%E8%80%8C%E4%B8%8D%E6%98%AF%E6%83%85%E7%BB%AA%E5%8C%96%E5%9C%B0%E8%A1%A8%E8%BE%BE%23" target="weibo">
 学会表达情绪而不是情绪化地表达（热度：167949）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%88%E9%A2%84%E5%91%8A%23" target="weibo">
+五哈预告（热度：167586）
 </a>
 </li>
 
@@ -507,6 +537,12 @@ EXO出道十三周年（热度：155598）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E6%9D%91%E5%B9%B2%E9%83%A8%E5%B7%B2%E7%BB%8F%E6%95%99%E6%9D%91%E6%B0%91%E7%94%A8AI%E4%BA%86%23" target="weibo">
+第一批村干部已经教村民用AI了（热度：151855）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%A8%A1%E4%BB%BF%E8%8B%A6%E5%B0%BD%E6%9F%91%E6%9D%A5%E9%87%91%E5%AE%A3%E8%99%8E%E7%AC%91%23" target="weibo">
 白鹿模仿苦尽柑来金宣虎笑（热度：150442）
 </a>
@@ -531,12 +567,6 @@ EXO出道十三周年（热度：155598）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E9%81%93%E6%AD%89%23" target="weibo">
-广末凉子道歉（热度：146871）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%AF%B4%E5%86%85%E5%90%91%E7%9C%9F%E7%9A%84%E6%8C%BA%E4%B8%8D%E5%A5%BD%E5%8F%97%E7%9A%84%23" target="weibo">
 周深说内向真的挺不好受的（热度：145412）
 </a>
@@ -557,6 +587,12 @@ EXO出道十三周年（热度：155598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%A2%E8%B4%ADiPhone%23" target="weibo">
 美国人恐慌性抢购iPhone（热度：143409）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E9%A5%AD%E8%B7%91%E6%AD%A5%E5%92%8C%E6%81%8B%E7%88%B1%E5%BC%80%E6%92%AD%23" target="weibo">
+吃饭跑步和恋爱开播（热度：142344）
 </a>
 </li>
 
@@ -623,12 +659,6 @@ EXO出道十三周年（热度：155598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%A8%B1%E8%8A%B1look%23" target="weibo">
 赵露思樱花look（热度：124286）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%9C%E4%B8%9A%E9%83%A8%E9%95%BF%E5%B0%B4%E5%B0%AC%E5%9B%9E%E5%BA%94%E5%AF%B9%E4%BC%81%E9%B9%85%E5%BE%81%E7%A8%8E%23" target="weibo">
-美国农业部长尴尬回应对企鹅征税（热度：123655）
 </a>
 </li>
 
@@ -801,6 +831,12 @@ EXO出道十三周年（热度：155598）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%85%AC%E4%BA%BA%E5%8F%91%E7%8E%B0%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E5%85%AC%E8%80%83%E7%9F%A5%E8%AF%86%E7%82%B9%23" target="weibo">
+考公人发现遍地都是公考知识点（热度：62233）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Daniel%E6%96%B0%E5%AE%B6%23" target="weibo">
 Daniel新家（热度：61864）
 </a>
@@ -819,6 +855,18 @@ Daniel新家（热度：61864）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E9%AB%98%E5%BC%801.68%25%23" target="weibo">
+创业板指高开1.68%（热度：57701）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E6%97%A9%E6%99%A8%23" target="weibo">
+九尾镜头里的早晨（热度：53581）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E5%85%B3%E7%A8%8E%E5%B0%86%E5%AF%BC%E8%87%B4%E7%BE%8E%E5%9B%BD%E5%95%86%E5%93%81%E4%BB%B7%E6%A0%BC%E4%B8%8B%E9%99%8D%23" target="weibo">
 美官员称关税将导致美国商品价格下降（热度：52550）
 </a>
@@ -833,12 +881,6 @@ Daniel新家（热度：61864）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23A50%E6%9C%9F%E6%8C%87%E6%B6%A83%25%23" target="weibo">
 A50期指涨3%（热度：48861）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E9%AB%98%E5%BC%801.68%25%23" target="weibo">
-创业板指高开1.68%（热度：48540）
 </a>
 </li>
 
@@ -903,6 +945,12 @@ A50期指涨3%（热度：48861）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8%E7%90%86%E8%B5%94%E5%90%8E%E5%AE%A2%E6%88%B7%E9%9A%90%E7%A7%81%E8%A2%AB%E7%94%A8%E4%BD%9C%E5%AE%A3%E4%BC%A0%23" target="weibo">
+保险公司理赔后客户隐私被用作宣传（热度：29406）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B8%83%E9%87%8C%E6%B1%AA%E5%A6%A4%E5%87%8C%23" target="weibo">
 马布里汪妤凌（热度：27579）
 </a>
@@ -917,12 +965,6 @@ A50期指涨3%（热度：48861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8E%BB%E6%89%93%E9%AB%98%E5%B0%94%E5%A4%AB%23" target="weibo">
 特朗普去打高尔夫（热度：25515）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8%E7%90%86%E8%B5%94%E5%90%8E%E5%AE%A2%E6%88%B7%E9%9A%90%E7%A7%81%E8%A2%AB%E7%94%A8%E4%BD%9C%E5%AE%A3%E4%BC%A0%23" target="weibo">
-保险公司理赔后客户隐私被用作宣传（热度：25216）
 </a>
 </li>
 

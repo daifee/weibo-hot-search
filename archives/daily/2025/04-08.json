@@ -1,6 +1,6 @@
 {
   "startTime": 1744043384100,
-  "endTime": 1744081473011,
+  "endTime": 1744082002531,
   "band_list": [
     {
       "raw_hot": 10117420,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 736988,
+      "num": 736988,
+      "word": "特朗普支持率降至上任来最低",
+      "onboard_time": 1744079903,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 729002,
       "num": 729002,
       "word": "河南省考成绩",
@@ -139,6 +147,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538071,
+      "num": 538071,
+      "word": "中国为什么能全球第一个反制对等关税",
+      "onboard_time": 1744034605,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 517301,
+      "num": 517301,
+      "word": "赵丽颖造型师换了",
+      "onboard_time": 1744076962,
+      "rank": 25,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 515388,
       "num": 462728,
       "word": "医生建议春季晚睡早起",
@@ -153,30 +177,6 @@
       "onboard_time": 1744070421,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 480475,
-      "num": 480475,
-      "word": "特朗普支持率降至上任来最低",
-      "onboard_time": 1744079903,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 467980,
-      "num": 467980,
-      "word": "中国为什么能全球第一个反制对等关税",
-      "onboard_time": 1744034605,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 466288,
-      "num": 318890,
-      "word": "赵丽颖造型师换了",
-      "onboard_time": 1744076962,
-      "rank": 25,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 458767,
@@ -283,7 +283,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 325406,
+      "raw_hot": 353684,
       "num": 325406,
       "word": "BoA向朴娜莱道歉",
       "onboard_time": 1744079602,
@@ -379,12 +379,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 275744,
+      "num": 275744,
+      "word": "网友集体喊话抵制李美越",
+      "onboard_time": 1744079482,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 274786,
       "num": 274786,
       "word": "芒果送甲亢哥终身会员卡",
       "onboard_time": 1744080201,
       "rank": 25,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 272440,
+      "num": 242350,
+      "word": "无刺榴莲原来是人工无刺的",
+      "onboard_time": 1744077023,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 271725,
@@ -403,14 +419,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 259282,
-      "num": 242350,
-      "word": "无刺榴莲原来是人工无刺的",
-      "onboard_time": 1744077023,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 258554,
       "num": 380808,
       "word": "日本股市暴力反弹",
@@ -427,12 +435,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 236518,
-      "num": 236518,
-      "word": "网友集体喊话抵制李美越",
-      "onboard_time": 1744079482,
-      "rank": 32,
-      "category": "网红"
+      "raw_hot": 255885,
+      "num": 319757,
+      "word": "美国农业部长尴尬回应对企鹅征税",
+      "onboard_time": 1744080323,
+      "rank": 19,
+      "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 247575,
+      "num": 505330,
+      "word": "中央汇金发挥着类平准基金作用",
+      "onboard_time": 1744080323,
+      "rank": 13,
+      "category": "财经,国内时政"
+    },
+    {
+      "raw_hot": 234002,
+      "num": 234002,
+      "word": "乘客坐网约车打翻奶茶被判赔1372元",
+      "onboard_time": 1744080623,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223226,
@@ -475,12 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212162,
-      "num": 505330,
-      "word": "中央汇金发挥着类平准基金作用",
-      "onboard_time": 1744080323,
-      "rank": 13,
-      "category": "财经,国内时政"
+      "raw_hot": 208942,
+      "num": 245163,
+      "word": "广末凉子道歉",
+      "onboard_time": 1744081223,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 207983,
@@ -507,12 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198900,
-      "num": 198900,
-      "word": "乘客坐网约车打翻奶茶被判赔1372元",
-      "onboard_time": 1744080623,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 202061,
+      "num": 243390,
+      "word": "BLACKPINK世巡高阳场预告海报",
+      "onboard_time": 1744081703,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 198458,
@@ -547,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 187403,
+      "num": 187403,
+      "word": "张钧甯方回应炒股损失约862万",
+      "onboard_time": 1744081822,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186359,
       "num": 186359,
       "word": "丁禹兮淮水竹亭预告镜头",
@@ -555,20 +587,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175761,
+      "num": 175761,
+      "word": "金饰价涨回927元",
+      "onboard_time": 1744078580,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 174964,
       "num": 174964,
       "word": "欧盟计划对美征收两部分关税",
       "onboard_time": 1744040841,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 174148,
-      "num": 174148,
-      "word": "金饰价涨回927元",
-      "onboard_time": 1744078580,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 173919,
@@ -609,6 +641,14 @@
       "onboard_time": 1744042461,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167586,
+      "num": 167586,
+      "word": "五哈预告",
+      "onboard_time": 1744081642,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 164944,
@@ -659,6 +699,14 @@
       "category": "汽车,国际时政"
     },
     {
+      "raw_hot": 151855,
+      "num": 151855,
+      "word": "第一批村干部已经教村民用AI了",
+      "onboard_time": 1744081583,
+      "rank": 47,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 150442,
       "num": 180465,
       "word": "白鹿模仿苦尽柑来金宣虎笑",
@@ -691,14 +739,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 146871,
-      "num": 146871,
-      "word": "广末凉子道歉",
-      "onboard_time": 1744081223,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145412,
       "num": 145412,
       "word": "周深说内向真的挺不好受的",
@@ -729,6 +769,14 @@
       "onboard_time": 1744077862,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 142344,
+      "num": 175969,
+      "word": "吃饭跑步和恋爱开播",
+      "onboard_time": 1744081882,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 140610,
@@ -817,14 +865,6 @@
       "onboard_time": 1744040603,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 123655,
-      "num": 319757,
-      "word": "美国农业部长尴尬回应对企鹅征税",
-      "onboard_time": 1744080323,
-      "rank": 19,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 121239,
@@ -1051,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62233,
+      "num": 209134,
+      "word": "考公人发现遍地都是公考知识点",
+      "onboard_time": 1744081882,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 61864,
       "num": 61864,
       "word": "Daniel新家",
@@ -1075,6 +1123,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57701,
+      "num": 537107,
+      "word": "创业板指高开1.68%",
+      "onboard_time": 1744080141,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 53581,
+      "num": 176507,
+      "word": "九尾镜头里的早晨",
+      "onboard_time": 1744081703,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 52550,
       "num": 52550,
       "word": "美官员称关税将导致美国商品价格下降",
@@ -1096,14 +1160,6 @@
       "word": "A50期指涨3%",
       "onboard_time": 1744066819,
       "rank": 43,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 48540,
-      "num": 537107,
-      "word": "创业板指高开1.68%",
-      "onboard_time": 1744080141,
-      "rank": 9,
       "category": "财经"
     },
     {
@@ -1187,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29406,
+      "num": 242442,
+      "word": "保险公司理赔后客户隐私被用作宣传",
+      "onboard_time": 1744080742,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27579,
       "num": 27579,
       "word": "马布里汪妤凌",
@@ -1209,14 +1273,6 @@
       "onboard_time": 1744051275,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25216,
-      "num": 242442,
-      "word": "保险公司理赔后客户隐私被用作宣传",
-      "onboard_time": 1744080742,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24561,
