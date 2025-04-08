@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/08 23:27:33
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/08 23:42:14
 </p>
 </blockquote>
 <p>
@@ -527,6 +527,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E4%BC%9F%E5%87%BA%E8%BD%A8%23" target="weibo">
 刘维伟出轨（热度：1473440）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%87%E7%8E%87%23" target="weibo">
+汇率（热度：1463882）
 </a>
 </li>
 
@@ -2325,12 +2331,6 @@ kissoflife一夜掉粉20万（热度：668428）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%87%E7%8E%87%23" target="weibo">
-汇率（热度：637387）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E6%99%92%E4%B8%8E%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%90%88%E7%85%A7%23" target="weibo">
 杜华晒与赵丽颖合照（热度：633645）
 </a>
@@ -3693,6 +3693,12 @@ Hamin公开（热度：442270）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%87%AD%E4%BB%80%E4%B9%88%E5%BD%93%E4%BA%8C%E5%8D%81%E5%A4%9A%E5%B9%B4%E7%9A%84%E5%A5%B3%E4%B8%80%23" target="weibo">
+孙俪凭什么当二十多年的女一（热度：428149）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E4%B8%8E%E5%B0%8F%E8%A2%81%E5%90%8C%E5%AD%A6%E7%BA%A6%E4%BC%9A%23" target="weibo">
 痞幼与小袁同学约会（热度：426493）
 </a>
@@ -4701,12 +4707,6 @@ BoA向朴娜莱道歉（热度：353684）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%87%AD%E4%BB%80%E4%B9%88%E5%BD%93%E4%BA%8C%E5%8D%81%E5%A4%9A%E5%B9%B4%E7%9A%84%E5%A5%B3%E4%B8%80%23" target="weibo">
-孙俪凭什么当二十多年的女一（热度：348590）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%AE%A2%E6%9C%8D%E7%A7%B0%E6%B0%B4%E6%9E%9C%E4%B8%AD%E5%90%83%E5%87%BA%E8%99%AB%E6%98%AF%E6%AD%A3%E5%B8%B8%E6%83%85%E5%86%B5%23" target="weibo">
 山姆客服称水果中吃出虫是正常情况（热度：348299）
 </a>
@@ -5073,6 +5073,12 @@ BLACKPINK nword（热度：324614）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E6%9B%BE%E7%98%A6%E5%88%B049%E5%85%AC%E6%96%A4%23" target="weibo">
+金子涵曾瘦到49公斤（热度：321466）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%A7%B0%E5%85%B3%E7%A8%8E%E6%9A%82%E5%81%9C90%E5%A4%A9%E6%98%AF%E5%81%87%E6%B6%88%E6%81%AF%23" target="weibo">
 白宫称关税暂停90天是假消息（热度：321101）
 </a>
@@ -5307,12 +5313,6 @@ jayjay呢（热度：316182）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E6%9B%BE%E7%98%A6%E5%88%B049%E5%85%AC%E6%96%A4%23" target="weibo">
-金子涵曾瘦到49公斤（热度：306444）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%A1%BE%E9%97%AE%E8%AF%B4%E5%8F%AA%E8%A6%81%E4%B8%8D%E5%8D%96%E8%82%A1%E7%A5%A8%E5%B0%B1%E4%B8%8D%E4%BC%9A%E4%BA%8F%E9%92%B1%23" target="weibo">
 特朗普顾问说只要不卖股票就不会亏钱（热度：306375）
 </a>
@@ -5327,6 +5327,12 @@ jayjay呢（热度：316182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%9A%84%E5%BE%AE%E5%8D%9A%E9%80%90%E6%B8%90%E5%A5%87%E6%80%AA%23" target="weibo">
 李现的微博逐渐奇怪（热度：306174）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8C%BB%E7%94%9F%E6%83%A8%E9%81%AD%E4%B8%A7%E5%AD%90%E4%B9%8B%E7%97%9B%E8%BF%98%E5%B8%A6%E6%9D%A5%E5%87%B6%E5%AE%85%E5%AE%98%E5%8F%B8%23" target="weibo">
+女医生惨遭丧子之痛还带来凶宅官司（热度：306006）
 </a>
 </li>
 
@@ -5393,6 +5399,12 @@ jayjay呢（热度：316182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E5%B0%8F%E9%93%83%E5%AD%95%E8%82%9A%E7%85%A7%23" target="weibo">
 洪小铃孕肚照（热度：302123）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E4%B8%87%E8%8A%B1%E4%B8%96%E7%95%8C%23" target="weibo">
+刘宇宁直播回应万花世界（热度：301102）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ EXO周边（热度：269976）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B9%B0%E8%B6%85%E7%AD%89%E5%A5%BD%E5%8F%8B%E8%81%9A%E4%BC%9A%23" target="weibo">
 范丞丞买超等好友聚会（热度：269380）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%AD%A3%E5%AE%9A%E5%8F%A4%E5%9F%8Evlog%23" target="weibo">
-鹿晗正定古城vlog（热度：268723）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%94%B2%E5%84%92%E7%A7%B0%E4%BA%BA%E8%B4%A9%E5%AD%90%E5%BF%85%E9%A1%BB%E6%AD%BB%E5%88%91%23" target="weibo">
-姜甲儒称人贩子必须死刑（热度：267809）
 </a>
 </li>
 
