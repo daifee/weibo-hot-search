@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744140073521,
+  "endTime": 1744140969669,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -8859,6 +8859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86405,
+      "num": 86405,
+      "word": "离境退税即买即退今起全国推广",
+      "onboard_time": 1744136835,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 86263,
       "num": 115105,
       "word": "美股盘中因假新闻经历剧烈波动",
@@ -9113,14 +9121,6 @@
       "onboard_time": 1743964395,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76030,
-      "num": 76030,
-      "word": "离境退税即买即退今起全国推广",
-      "onboard_time": 1744136835,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 75957,
@@ -9691,6 +9691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 46658,
+      "num": 35665,
+      "word": "掘金解雇马龙",
+      "onboard_time": 1744140493,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46069,
       "num": 46069,
       "word": "王嘉尔版superidol",
@@ -10163,6 +10171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28745,
+      "num": 38601,
+      "word": "美国多地民众开始囤货",
+      "onboard_time": 1744139954,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28394,
       "num": 269610,
       "word": "马龙戴上红领巾笑得超乖",
@@ -10561,14 +10577,6 @@
       "onboard_time": 1743971893,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12437,
-      "num": 26390,
-      "word": "美国多地民众开始囤货",
-      "onboard_time": 1744139954,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 12291,
