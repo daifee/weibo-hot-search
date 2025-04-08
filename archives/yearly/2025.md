@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/08 14:47:41
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/08 15:24:26
 </p>
 </blockquote>
 <p>
@@ -639,6 +639,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E5%AE%A3%E5%B8%83%E9%80%80%E5%9C%88%23" target="weibo">
+金子涵宣布退圈（热度：6123825）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8C%97%E5%A4%A7%E6%8B%9F%E5%BD%95%E5%8F%96%23" target="weibo">
 王楚钦北大拟录取（热度：6115383）
 </a>
@@ -917,12 +923,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E6%98%9F%E7%96%91%E8%A2%AB%E5%89%83%E5%8E%BB%E5%A4%B4%E5%8F%91%E8%85%BF%E4%B8%8A%E6%9C%89%E7%BA%A2%E6%96%91%23" target="weibo">
 星星疑被剃去头发腿上有红斑（热度：4022283）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E5%AE%A3%E5%B8%83%E9%80%80%E5%9C%88%23" target="weibo">
-金子涵宣布退圈（热度：3989371）
 </a>
 </li>
 
