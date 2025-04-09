@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1744197670783,
+  "endTime": 1744198566133,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -113,6 +113,14 @@
       "onboard_time": 1736008895,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18779562,
+      "num": 18779562,
+      "word": "对美所有进口商品关税再提高50%",
+      "onboard_time": 1744197084,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18725300,
@@ -801,14 +809,6 @@
       "onboard_time": 1738076680,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 6743219,
-      "num": 6743219,
-      "word": "对美所有进口商品关税再提高50%",
-      "onboard_time": 1744197084,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 6671283,

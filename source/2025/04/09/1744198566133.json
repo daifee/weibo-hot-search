@@ -1,0 +1,410 @@
+{
+  "runTime": 1744198566133,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 18779562,
+        "num": 18779562,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1888830,
+        "num": 1888830,
+        "word": "外交部回应美国对华征收104%关税",
+        "onboard_time": 1744184001,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391784,
+        "num": 1609089,
+        "word": "关于中美经贸关系这是中方立场",
+        "onboard_time": 1744190482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1432907,
+        "num": 1432907,
+        "word": "对美所有进口商品加征84%关税",
+        "onboard_time": 1744196903,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1416920,
+        "num": 1416920,
+        "word": "奥迪暂停对美国经销商交付新车",
+        "onboard_time": 1744189823,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1270756,
+        "num": 1270756,
+        "word": "特朗普关税地图炮砸向美国老百姓",
+        "onboard_time": 1744165402,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1245887,
+        "num": 1245887,
+        "word": "折腰",
+        "onboard_time": 1744191862,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1096536,
+        "num": 1096536,
+        "word": "新修订婚姻登记条例自5月10日起施行",
+        "onboard_time": 1744190723,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347956,
+        "num": 862834,
+        "word": "内娱终于拍出了武侠穿",
+        "onboard_time": 1744196662,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 851175,
+        "num": 851175,
+        "word": "美国人抢鸡蛋盛况",
+        "onboard_time": 1744193422,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1432629,
+        "num": 850299,
+        "word": "微信状态也能调情",
+        "onboard_time": 1744192642,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 12283,
+        "num": 832963,
+        "word": "李诗沣亚锦赛开门红",
+        "onboard_time": 1744197745,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399093,
+        "num": 824896,
+        "word": "12家美国实体列入出口管制管控名单",
+        "onboard_time": 1744197504,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86518,
+        "num": 816211,
+        "word": "中方在世贸组织追加起诉美升级对华关税",
+        "onboard_time": 1744197745,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38842,
+        "num": 801144,
+        "word": "陈雨菲亚锦赛晋级16强",
+        "onboard_time": 1744197745,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232436,
+        "num": 786419,
+        "word": "赴山海片花",
+        "onboard_time": 1744190664,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223010,
+        "num": 776365,
+        "word": "赴山海暂定5月播出",
+        "onboard_time": 1744194321,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 775050,
+        "num": 775050,
+        "word": "金秀贤防治法正式提交韩国会",
+        "onboard_time": 1744195524,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72958,
+        "num": 604011,
+        "word": "陈都灵给温峥嵘递扇子",
+        "onboard_time": 1744197204,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143574,
+        "num": 541084,
+        "word": "司机开智驾睡觉超速行驶百公里",
+        "onboard_time": 1744197023,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532513,
+        "num": 532513,
+        "word": "离境退税",
+        "onboard_time": 1744182263,
+        "rank": 20,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 457259,
+        "num": 457259,
+        "word": "上海人均4千餐厅甜品是大象粪便",
+        "onboard_time": 1744196243,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396567,
+        "num": 396567,
+        "word": "世纪婴儿去世鉴定结果已出",
+        "onboard_time": 1744175964,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385874,
+        "num": 385874,
+        "word": "辞职看世界女教师10年后怎么样了",
+        "onboard_time": 1744191743,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331343,
+        "num": 331343,
+        "word": "美国仅占我国出口比重的15%",
+        "onboard_time": 1744184242,
+        "rank": 24,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 213688,
+        "num": 325041,
+        "word": "彭昱畅首部古装男主",
+        "onboard_time": 1744186761,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202007,
+        "num": 322146,
+        "word": "乌云之上碎尸案凶手落网后自尽",
+        "onboard_time": 1744196602,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162487,
+        "num": 309431,
+        "word": "淮水竹亭 延期",
+        "onboard_time": 1744178782,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68990,
+        "num": 303834,
+        "word": "欢迎中国救援队伍回家",
+        "onboard_time": 1744197325,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 13991,
+        "num": 296778,
+        "word": "eStar要来WAW当店长了",
+        "onboard_time": 1744197565,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49435,
+        "num": 287241,
+        "word": "人均3888元餐厅大象粑粑甜品需预约",
+        "onboard_time": 1744198407,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283980,
+        "num": 283980,
+        "word": "单亲妈妈370万给儿子买房后被拉黑",
+        "onboard_time": 1744181541,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254143,
+        "num": 254143,
+        "word": "中方回应美方发布TikTok延期行政令",
+        "onboard_time": 1744195882,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239283,
+        "num": 239283,
+        "word": "6家美国实体列入不可靠实体清单",
+        "onboard_time": 1744198046,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232307,
+        "num": 232307,
+        "word": "白皮书",
+        "onboard_time": 1744183223,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 231390,
+        "num": 231390,
+        "word": "男子婚后13天发现妻子双子宫一个肾",
+        "onboard_time": 1744184062,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221142,
+        "num": 221142,
+        "word": "中美经贸关系白皮书",
+        "onboard_time": 1744183163,
+        "rank": 36,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 218141,
+        "num": 218141,
+        "word": "何泓姗对陈都灵太宠了吧",
+        "onboard_time": 1744190723,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205887,
+        "num": 205887,
+        "word": "中美经贸关系中方立场",
+        "onboard_time": 1744182503,
+        "rank": 38,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 191329,
+        "num": 191329,
+        "word": "出口技术须经中国政府依法审批",
+        "onboard_time": 1744195282,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130397,
+        "num": 190418,
+        "word": "邓家佳又演喜剧片 爷青回",
+        "onboard_time": 1744198527,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50314,
+        "num": 190242,
+        "word": "清融EWC人物聚焦特辑",
+        "onboard_time": 1744195882,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190221,
+        "num": 190221,
+        "word": "商务部就中美经贸关系白皮书答问",
+        "onboard_time": 1744184362,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175209,
+        "num": 175209,
+        "word": "41岁男子地铁猥亵女子被行拘",
+        "onboard_time": 1744177462,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42958,
+        "num": 163533,
+        "word": "注胶补漏收3500师傅自称差点亏钱",
+        "onboard_time": 1744196602,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157038,
+        "num": 157038,
+        "word": "美国股债汇三杀",
+        "onboard_time": 1744198167,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156275,
+        "num": 156275,
+        "word": "我国在世贸组织对美国追加提起诉讼",
+        "onboard_time": 1744198226,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154276,
+        "num": 154276,
+        "word": "国乒的偶像力量具象化了",
+        "onboard_time": 1744196421,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140284,
+        "num": 140284,
+        "word": "千秋令男主就这么被女主煮熟了",
+        "onboard_time": 1744198346,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139768,
+        "num": 139768,
+        "word": "山西省考成绩",
+        "onboard_time": 1744194441,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央周边工作会议在北京举行#"
+    }
+  }
+}
