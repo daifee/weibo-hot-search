@@ -1,10 +1,42 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744155435922,
+  "endTime": 1744163480179,
   "band_list": [
     {
+      "raw_hot": 2721827,
+      "num": 2721827,
+      "word": "美国一边打贸易战一边求鸡蛋",
+      "onboard_time": 1744160004,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1910617,
+      "num": 1910617,
+      "word": "香港前特首梁振英次女猝逝",
+      "onboard_time": 1744161623,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1422002,
+      "num": 1422002,
+      "word": "多国回复美国说不给鸡蛋",
+      "onboard_time": 1744160365,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1120062,
+      "num": 1120062,
+      "word": "女演员肖妍倪突发疾病成植物人",
+      "onboard_time": 1744158325,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1108687,
-      "num": 217350,
+      "num": 350250,
       "word": "Jennie杂志尺度好大",
       "onboard_time": 1744115062,
       "rank": 10,
@@ -28,7 +60,7 @@
     },
     {
       "raw_hot": 861452,
-      "num": 321230,
+      "num": 506341,
       "word": "金子涵脸都凹进去了",
       "onboard_time": 1744124063,
       "rank": 3,
@@ -43,12 +75,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 510344,
+      "num": 510344,
+      "word": "美国关税政策伤了谁",
+      "onboard_time": 1744154300,
+      "rank": 5,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 505336,
       "num": 128098,
       "word": "特朗普喊话欧盟购买3500亿美元能源",
       "onboard_time": 1744123582,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 485488,
+      "num": 485488,
+      "word": "贾静雯说只要不卖股票就当存钱",
+      "onboard_time": 1744155141,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 477418,
+      "num": 302987,
+      "word": "景德镇车祸遇难者爷爷过度思念离世",
+      "onboard_time": 1744160484,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 468349,
@@ -68,7 +124,7 @@
     },
     {
       "raw_hot": 442383,
-      "num": 199710,
+      "num": 281629,
       "word": "洪尚秀金敏喜得子",
       "onboard_time": 1744154000,
       "rank": 15,
@@ -84,11 +140,27 @@
     },
     {
       "raw_hot": 417161,
-      "num": 216735,
+      "num": 347051,
       "word": "孕妇做四维意外拍下宝宝干饭瞬间",
       "onboard_time": 1744123104,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375919,
+      "num": 339558,
+      "word": "美国主持人贯口列举什么会涨价",
+      "onboard_time": 1744158263,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 361110,
+      "num": 333420,
+      "word": "林君怡朱天天隔空对撕",
+      "onboard_time": 1744156102,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 358792,
@@ -99,12 +171,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357774,
+      "num": 357774,
+      "word": "美股又巨震",
+      "onboard_time": 1744155621,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 353122,
       "num": 213664,
       "word": "电脑微信会惩罚每一个分手的人",
       "onboard_time": 1744107982,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 328467,
+      "num": 328467,
+      "word": "2025年第99天",
+      "onboard_time": 1744154000,
+      "rank": 35,
+      "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 324864,
+      "num": 324864,
+      "word": "金价",
+      "onboard_time": 1744159343,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 305605,
+      "num": 305605,
+      "word": "新加坡总理说对美国深感失望",
+      "onboard_time": 1744155059,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 303363,
@@ -115,12 +219,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302934,
+      "num": 302934,
+      "word": "31岁宝妈长期生闷气确诊乳腺癌晚期",
+      "onboard_time": 1744160964,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 295216,
       "num": 295216,
       "word": "离境退税即买即退今起全国推广",
       "onboard_time": 1744136835,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 294334,
+      "num": 294334,
+      "word": "美国关税回旋镖射向美国人",
+      "onboard_time": 1744157363,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 289572,
+      "num": 289572,
+      "word": "37岁大叔健身10个月瘦了40斤",
+      "onboard_time": 1744159045,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287392,
@@ -147,6 +275,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 270237,
+      "num": 270237,
+      "word": "金子涵曾说希望2025年能好好工作",
+      "onboard_time": 1744158203,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 266047,
+      "num": 304053,
+      "word": "金敏喜前男友是李洙赫",
+      "onboard_time": 1744162701,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263997,
       "num": 258480,
       "word": "温州18岁失联男孩确认身亡",
@@ -163,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255853,
+      "num": 1483114,
+      "word": "中国不惹事也绝不怕事",
+      "onboard_time": 1744120942,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 230044,
       "num": 191963,
       "word": "林志玲为儿子做手工卡车",
@@ -171,11 +323,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226736,
+      "num": 226736,
+      "word": "加拿大对美国汽车征25%关税将生效",
+      "onboard_time": 1744157785,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 223220,
+      "num": 258311,
+      "word": "严浩翔rap水平",
+      "onboard_time": 1744161262,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220190,
       "num": 220190,
       "word": "南京地铁回应乘客看到诡异人脸",
       "onboard_time": 1744107382,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219415,
+      "num": 357663,
+      "word": "旱厕边生产冒牌咖啡成本5元卖69",
+      "onboard_time": 1744141816,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -187,12 +363,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 195985,
+      "num": 195985,
+      "word": "掘金解雇马龙原因",
+      "onboard_time": 1744161444,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195252,
       "num": 195252,
       "word": "P图姐给黄俊捷发律师函",
       "onboard_time": 1744125563,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183455,
+      "num": 183455,
+      "word": "珍珠项链居然可以这么戴",
+      "onboard_time": 1744155141,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 183388,
+      "num": 183388,
+      "word": "瑞士人强烈感觉被美国针对了",
+      "onboard_time": 1744155021,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 176014,
@@ -211,12 +411,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167390,
-      "num": 167390,
-      "word": "旱厕边生产冒牌咖啡成本5元卖69",
-      "onboard_time": 1744141816,
-      "rank": 24,
+      "raw_hot": 168486,
+      "num": 168486,
+      "word": "四川泸州一面包车撞塌民房已致5死",
+      "onboard_time": 1744159763,
+      "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163928,
+      "num": 188246,
+      "word": "严浩翔TizzyT一组",
+      "onboard_time": 1744158803,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 160091,
@@ -227,6 +435,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158853,
+      "num": 158853,
+      "word": "苹果市值4天蒸发超5万亿元",
+      "onboard_time": 1744157062,
+      "rank": 41,
+      "category": "财经,数码"
+    },
+    {
+      "raw_hot": 156352,
+      "num": 156352,
+      "word": "焦虑的6种隐性表现",
+      "onboard_time": 1744162884,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 152627,
       "num": 152627,
       "word": "金子涵曾瘦到49公斤",
@@ -235,12 +459,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146601,
-      "num": 548768,
-      "word": "中国不惹事也绝不怕事",
-      "onboard_time": 1744120942,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 149838,
+      "num": 149838,
+      "word": "房东回应女子759万买的房是凶宅",
+      "onboard_time": 1744147394,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146194,
+      "num": 146194,
+      "word": "马斯克痛批纳瓦罗",
+      "onboard_time": 1744162884,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 145404,
@@ -249,6 +481,14 @@
       "onboard_time": 1744122863,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140673,
+      "num": 303031,
+      "word": "巴拿马审计发现长和违规",
+      "onboard_time": 1744162164,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138211,
@@ -283,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135254,
+      "num": 135254,
+      "word": "什么叫绝对色感",
+      "onboard_time": 1744161862,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134083,
       "num": 178531,
       "word": "美国多地民众开始囤货",
@@ -299,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131405,
+      "num": 131405,
+      "word": "低精力人上班一年的感受",
+      "onboard_time": 1744161203,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128185,
       "num": 128185,
       "word": "这剧过了第一集就好看了",
@@ -307,12 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127584,
-      "num": 150816,
-      "word": "贾静雯说只要不卖股票就当存钱",
-      "onboard_time": 1744155141,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 127135,
+      "num": 251446,
+      "word": "张凌赫帮田曦薇绑发带路透",
+      "onboard_time": 1744159225,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 124395,
@@ -321,6 +577,22 @@
       "onboard_time": 1744127421,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 121114,
+      "num": 185401,
+      "word": "萧敬腾说不会跟妻子接真人秀",
+      "onboard_time": 1744158444,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119950,
+      "num": 159211,
+      "word": "曹颖回应李晟镜头少",
+      "onboard_time": 1744122804,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 119519,
@@ -355,14 +627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109736,
-      "num": 109736,
-      "word": "房东回应女子759万买的房是凶宅",
-      "onboard_time": 1744147394,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109325,
       "num": 109325,
       "word": "有一种中国风叫牡丹",
@@ -377,14 +641,6 @@
       "onboard_time": 1744108642,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108837,
-      "num": 108837,
-      "word": "珍珠项链居然可以这么戴",
-      "onboard_time": 1744155141,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 107964,
@@ -408,22 +664,6 @@
       "word": "美国单边霸凌终将反噬自身",
       "onboard_time": 1744104502,
       "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 98239,
-      "num": 98239,
-      "word": "新加坡总理说对美国深感失望",
-      "onboard_time": 1744155059,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 97483,
-      "num": 97483,
-      "word": "瑞士人强烈感觉被美国针对了",
-      "onboard_time": 1744155021,
-      "rank": 36,
       "category": "国际时政"
     },
     {
@@ -483,14 +723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84928,
-      "num": 84928,
-      "word": "2025年第99天",
-      "onboard_time": 1744154000,
-      "rank": 35,
-      "category": "情感,民生新闻"
-    },
-    {
       "raw_hot": 83947,
       "num": 103204,
       "word": "棋士22集鲨疯了",
@@ -507,12 +739,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80840,
+      "num": 290237,
+      "word": "李在明全力参选韩国总统",
+      "onboard_time": 1744163183,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 80343,
       "num": 218832,
       "word": "又一波增持来了",
       "onboard_time": 1744127542,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 80081,
+      "num": 120082,
+      "word": "董宇辉称自己镜头前后判若两人",
+      "onboard_time": 1744160662,
+      "rank": 49,
+      "category": "网红,财经"
     },
     {
       "raw_hot": 78754,
@@ -537,14 +785,6 @@
       "onboard_time": 1744106782,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76224,
-      "num": 76224,
-      "word": "曹颖回应李晟镜头少",
-      "onboard_time": 1744122804,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 74138,
@@ -601,6 +841,14 @@
       "onboard_time": 1744155321,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 64771,
+      "num": 329481,
+      "word": "多米尼加屋顶坍塌已至79死",
+      "onboard_time": 1744162343,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 61786,
