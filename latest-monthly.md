@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/10 06:39:26
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/10 07:23:00
 </p>
 </blockquote>
 <p>
@@ -57,6 +57,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E5%8A%A0%E5%85%B3%E7%A8%8E%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%86%B7%E9%9D%99%23" target="weibo">
+美国被加关税后特朗普呼吁冷静（热度：7651551）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E5%AE%A3%E5%B8%83%E9%80%80%E5%9C%88%23" target="weibo">
 金子涵宣布退圈（热度：6152899）
 </a>
@@ -83,12 +89,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8D%8E%E5%BE%81%E6%94%B6104%25%E5%85%B3%E7%A8%8E%23" target="weibo">
 外交部回应美国对华征收104%关税（热度：4038610）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E5%8A%A0%E5%85%B3%E7%A8%8E%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%86%B7%E9%9D%99%23" target="weibo">
-美国被加关税后特朗普呼吁冷静（热度：4024834）
 </a>
 </li>
 
@@ -3009,6 +3009,12 @@ Angelababy女王权杖（热度：593316）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E9%87%91%E7%89%8C%E5%A2%9E%E8%87%B36%E5%9D%97%23" target="weibo">
+洛杉矶奥运会乒乓球金牌增至6块（热度：591208）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%91%98%E5%BC%84%E4%B8%A2%E5%AE%A2%E6%88%B72.9%E5%85%AC%E6%96%A4%E9%87%91%E9%A5%B0%E5%90%93%E5%82%BB%23" target="weibo">
 快递员弄丢客户2.9公斤金饰吓傻（热度：590870）
 </a>
@@ -4851,6 +4857,12 @@ AI复原出22岁烈士的模样（热度：383185）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E4%E6%9C%889%E6%97%A5%E7%94%9F%E6%95%88%23" target="weibo">
+加拿大对美加征关税4月9日生效（热度：383119）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E9%A2%84%E6%B5%8B%23" target="weibo">
 白玉兰预测（热度：382947）
 </a>
@@ -5739,12 +5751,6 @@ SM查理呢（热度：335430）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E9%87%91%E7%89%8C%E5%A2%9E%E8%87%B36%E5%9D%97%23" target="weibo">
-洛杉矶奥运会乒乓球金牌增至6块（热度：328122）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%91%9E%E5%A3%AB%E8%A2%AB%E5%81%B6%E9%81%87%23" target="weibo">
 倪妮瑞士被偶遇（热度：327288）
 </a>
@@ -6005,12 +6011,6 @@ A股探底回升三大指数翻红（热度：315301）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%A6%81%E4%B9%88%E6%B6%A8%E4%BB%B7%E8%A6%81%E4%B9%88%E7%9B%88%E5%88%A9%E4%B8%8B%E9%99%8D%23" target="weibo">
 苹果在美国要么涨价要么盈利下降（热度：312202）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8A%A1%E9%83%A8%E6%96%B0%E9%97%BB%E5%8F%91%E8%A8%80%E4%BA%BA%E5%B0%B1%E7%BE%8E%E6%96%B9%E5%A8%81%E8%83%81%E5%8D%87%E7%BA%A7%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%A8%8E%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D%23" target="weibo">
-商务部新闻发言人就美方威胁升级对华关税发表谈话（热度：311896）
 </a>
 </li>
 
