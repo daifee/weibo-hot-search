@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/09 22:45:17
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/09 23:29:44
 </p>
 </blockquote>
 <p>
@@ -633,6 +633,12 @@ RedVelvet 解散（热度：1601334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832025%E7%AC%AC1%E5%8F%B7%E7%95%99%E5%AD%A6%E9%A2%84%E8%AD%A6%23" target="weibo">
+教育部发布2025第1号留学预警（热度：1510930）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E5%8F%AF%E8%83%BD%E5%86%8D%E7%9B%B4%E6%92%AD2%E4%B8%AA%E5%9F%8E%E5%B8%82%23" target="weibo">
 甲亢哥可能再直播2个城市（热度：1508925）
 </a>
@@ -827,6 +833,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E6%A1%88%E6%AD%BB%E8%80%85%E4%BA%B2%E5%B1%9E%E7%9B%BC%E4%B8%A5%E6%83%A9%23" target="weibo">
 一家三口被撞身亡案死者亲属盼严惩（热度：1344206）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%B7%A5%E5%8E%82%E8%BF%9B%E5%B1%95%23" target="weibo">
+黄子韬卫生巾工厂进展（热度：1343020）
 </a>
 </li>
 
@@ -1307,12 +1319,6 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E5%81%87%E6%83%BA%E6%83%BA%E7%9A%84%E4%BD%A0%E5%B7%B2%E5%87%BA%E5%91%A8%E8%BE%B9%23" target="weibo">
 金秀贤假惺惺的你已出周边（热度：1072131）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%B7%A5%E5%8E%82%E8%BF%9B%E5%B1%95%23" target="weibo">
-黄子韬卫生巾工厂进展（热度：1069442）
 </a>
 </li>
 
@@ -2261,6 +2267,12 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%B5%B5%E5%8F%88%E5%BB%B7%20%E4%BA%8C%E6%90%AD%23" target="weibo">
 杨幂赵又廷 二搭（热度：751323）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%23" target="weibo">
+美股开盘（热度：751057）
 </a>
 </li>
 
@@ -4221,12 +4233,6 @@ Hamin公开（热度：442270）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832025%E7%AC%AC1%E5%8F%B7%E7%95%99%E5%AD%A6%E9%A2%84%E8%AD%A6%23" target="weibo">
-教育部发布2025第1号留学预警（热度：429646）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%89%93%E9%B8%9F%E4%BD%9C%E5%93%81%E4%B8%8E%E5%BC%A0%E5%A4%A7%E5%8D%83%E7%94%BB%E4%BD%9C%E7%A5%9E%E4%BC%BC%23" target="weibo">
 李现打鸟作品与张大千画作神似（热度：429146）
 </a>
@@ -4781,6 +4787,12 @@ A股走强（热度：387879）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%A5%91%E5%A5%87%E8%A2%AB%E9%A9%B1%E9%80%90%23" target="weibo">
 东契奇被驱逐（热度：385599）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%A4%E9%95%BF%E9%9D%96%E5%BD%93%E5%AF%BC%E5%B8%88%E4%BA%86%23" target="weibo">
+尤长靖当导师了（热度：385449）
 </a>
 </li>
 
@@ -5757,6 +5769,12 @@ BLACKPINK nword（热度：324614）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%A5%E4%B8%BA%E8%83%BD%E7%BB%99%E4%B8%96%E7%95%8C%E7%AB%8B%E8%A7%84%E7%9F%A9%23" target="weibo">
+巴西总统批特朗普以为能给世界立规矩（热度：323855）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E5%9B%9E%E5%BA%94cos%E6%B5%B7%E7%8E%8B%E8%A2%AB%E5%BC%BA%E5%88%B6%E5%85%B3%E6%92%AD%23" target="weibo">
 刘畊宏回应cos海王被强制关播（热度：323497）
 </a>
@@ -5993,24 +6011,6 @@ A股探底回升三大指数翻红（热度：315301）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%96%E5%9C%A8%E5%87%A0%E4%B8%AA%E6%9C%88%E5%86%85%E7%A6%BB%E8%81%8C%23" target="weibo">
 特朗普说马斯克或在几个月内离职（热度：310381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E5%94%B1%E9%98%B3%E5%85%89%E5%BD%A9%E8%99%B9%E5%B0%8F%E7%99%BD%E9%A9%AC%23" target="weibo">
-甲亢哥唱阳光彩虹小白马（热度：309962）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E4%BD%A9%E5%B2%91%E5%90%A6%E8%AE%A4%E6%95%B4%E5%AE%B9%23" target="weibo">
-侯佩岑否认整容（热度：308936）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E7%BB%B4%E8%B6%85%E8%BF%9C%E4%B8%89%E5%88%86%E7%BB%9D%E6%9D%80%23" target="weibo">
-哈维超远三分绝杀（热度：308456）
 </a>
 </li>
 

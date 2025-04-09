@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744209917551,
+  "endTime": 1744212584158,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -179,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1510930,
+      "num": 1510930,
+      "word": "教育部发布2025第1号留学预警",
+      "onboard_time": 1744209268,
+      "rank": 9,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 1488000,
       "num": 1488000,
       "word": "我们奉陪到底",
@@ -201,6 +209,14 @@
       "onboard_time": 1744164142,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1343020,
+      "num": 1343020,
+      "word": "黄子韬卫生巾工厂进展",
+      "onboard_time": 1744209087,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1306955,
@@ -289,14 +305,6 @@
       "onboard_time": 1744199485,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1069442,
-      "num": 1069442,
-      "word": "黄子韬卫生巾工厂进展",
-      "onboard_time": 1744209087,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1046697,
@@ -465,6 +473,14 @@
       "onboard_time": 1744190664,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 751057,
+      "num": 751057,
+      "word": "美股开盘",
+      "onboard_time": 1744211125,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 746075,
@@ -779,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 429646,
-      "num": 818278,
-      "word": "教育部发布2025第1号留学预警",
-      "onboard_time": 1744209268,
-      "rank": 9,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 419131,
       "num": 419131,
       "word": "最贵菜是炒鸡蛋成美国网络热梗",
@@ -873,6 +881,14 @@
       "onboard_time": 1744167562,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385449,
+      "num": 498760,
+      "word": "尤长靖当导师了",
+      "onboard_time": 1744210766,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 382212,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1744159343,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 323855,
+      "num": 751418,
+      "word": "巴西总统批特朗普以为能给世界立规矩",
+      "onboard_time": 1744211967,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 319950,
@@ -1339,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263493,
+      "num": 263493,
+      "word": "倪虹洁 蒋一侨",
+      "onboard_time": 1744208426,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260586,
       "num": 260586,
       "word": "胖东来帮扶多家超市损失19亿销售额",
@@ -1363,12 +1395,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 254672,
-      "num": 254672,
-      "word": "倪虹洁 蒋一侨",
-      "onboard_time": 1744208426,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 255597,
+      "num": 255597,
+      "word": "梁王29分钟火速下班",
+      "onboard_time": 1744211785,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 254195,
@@ -1579,6 +1611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222097,
+      "num": 255737,
+      "word": "文韬直播",
+      "onboard_time": 1744211607,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220972,
       "num": 322146,
       "word": "乌云之上碎尸案凶手落网后自尽",
@@ -1745,6 +1785,14 @@
       "onboard_time": 1744120343,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206265,
+      "num": 206265,
+      "word": "时代少年团演唱会 北方",
+      "onboard_time": 1744212027,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 205520,
@@ -2067,6 +2115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 176815,
+      "num": 176815,
+      "word": "减肥时正确称体重的方式",
+      "onboard_time": 1744210707,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 176745,
       "num": 177413,
       "word": "许昕说除了乒乓球都不服马龙",
@@ -2161,6 +2217,14 @@
       "onboard_time": 1744183822,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171765,
+      "num": 171765,
+      "word": "SUNNY加入李秀满新公司A2O",
+      "onboard_time": 1744212146,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 171270,
@@ -2315,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160332,
+      "num": 160332,
+      "word": "纳斯达克",
+      "onboard_time": 1744211906,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 160091,
       "num": 144787,
       "word": "吴世勋去了EXO直播现场",
@@ -2369,6 +2441,14 @@
       "onboard_time": 1744189642,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156799,
+      "num": 495748,
+      "word": "陈飞宇生日直播",
+      "onboard_time": 1744211367,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 156745,
@@ -2587,6 +2667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141501,
+      "num": 141501,
+      "word": "黄景瑜黄明昊林一二搭三搭勾勾搭搭",
+      "onboard_time": 1744212326,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140333,
       "num": 140333,
       "word": "198元宝格丽蛋糕疑发霉酒店拒承认",
@@ -2617,6 +2705,14 @@
       "onboard_time": 1744165462,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140036,
+      "num": 140036,
+      "word": "iPhone迁回美国产成本或飙升90%",
+      "onboard_time": 1744212505,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 139739,

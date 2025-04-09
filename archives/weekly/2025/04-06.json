@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744209917551,
+  "endTime": 1744212584158,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -379,6 +379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1510930,
+      "num": 1510930,
+      "word": "教育部发布2025第1号留学预警",
+      "onboard_time": 1744209268,
+      "rank": 9,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 1508925,
       "num": 1508925,
       "word": "甲亢哥可能再直播2个城市",
@@ -505,6 +513,14 @@
       "onboard_time": 1744017684,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1343020,
+      "num": 1343020,
+      "word": "黄子韬卫生巾工厂进展",
+      "onboard_time": 1744209087,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1333815,
@@ -841,14 +857,6 @@
       "onboard_time": 1744199485,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1069442,
-      "num": 1069442,
-      "word": "黄子韬卫生巾工厂进展",
-      "onboard_time": 1744209087,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1063349,
@@ -1473,6 +1481,14 @@
       "onboard_time": 1743911481,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 751057,
+      "num": 751057,
+      "word": "美股开盘",
+      "onboard_time": 1744211125,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 746075,
@@ -2675,14 +2691,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 429646,
-      "num": 818278,
-      "word": "教育部发布2025第1号留学预警",
-      "onboard_time": 1744209268,
-      "rank": 9,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 429146,
       "num": 429146,
       "word": "李现打鸟作品与张大千画作神似",
@@ -3097,6 +3105,14 @@
       "onboard_time": 1744167562,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385449,
+      "num": 498760,
+      "word": "尤长靖当导师了",
+      "onboard_time": 1744210766,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 384383,
@@ -3673,6 +3689,14 @@
       "onboard_time": 1744029201,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323855,
+      "num": 751418,
+      "word": "巴西总统批特朗普以为能给世界立规矩",
+      "onboard_time": 1744211967,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 321466,
@@ -4595,6 +4619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263493,
+      "num": 263493,
+      "word": "倪虹洁 蒋一侨",
+      "onboard_time": 1744208426,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263108,
       "num": 364260,
       "word": "小鹏X9看似小改款实则大焕新",
@@ -4763,20 +4795,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255597,
+      "num": 255597,
+      "word": "梁王29分钟火速下班",
+      "onboard_time": 1744211785,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255306,
       "num": 255306,
       "word": "宋茜周冬雨欧阳娜娜买了同双鞋",
       "onboard_time": 1744010182,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254672,
-      "num": 254672,
-      "word": "倪虹洁 蒋一侨",
-      "onboard_time": 1744208426,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 254195,
@@ -5483,6 +5515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222097,
+      "num": 255737,
+      "word": "文韬直播",
+      "onboard_time": 1744211607,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221911,
       "num": 538525,
       "word": "最强苹替vivoX200s惊艳果粉",
@@ -6049,6 +6089,14 @@
       "onboard_time": 1743916641,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206265,
+      "num": 206265,
+      "word": "时代少年团演唱会 北方",
+      "onboard_time": 1744212027,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 206262,
@@ -7491,6 +7539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 176815,
+      "num": 176815,
+      "word": "减肥时正确称体重的方式",
+      "onboard_time": 1744210707,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 176745,
       "num": 177413,
       "word": "许昕说除了乒乓球都不服马龙",
@@ -7689,6 +7745,14 @@
       "onboard_time": 1744026023,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171765,
+      "num": 171765,
+      "word": "SUNNY加入李秀满新公司A2O",
+      "onboard_time": 1744212146,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 171592,
@@ -8433,6 +8497,14 @@
       "onboard_time": 1743924559,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 156799,
+      "num": 495748,
+      "word": "陈飞宇生日直播",
+      "onboard_time": 1744211367,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 156745,
@@ -9219,6 +9291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141501,
+      "num": 141501,
+      "word": "黄景瑜黄明昊林一二搭三搭勾勾搭搭",
+      "onboard_time": 1744212326,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141202,
       "num": 141202,
       "word": "棋士22集鲨疯了",
@@ -9289,6 +9369,14 @@
       "onboard_time": 1744165462,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140036,
+      "num": 140036,
+      "word": "iPhone迁回美国产成本或飙升90%",
+      "onboard_time": 1744212505,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 139940,
