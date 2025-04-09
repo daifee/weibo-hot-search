@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744190859449,
+  "endTime": 1744191706866,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -2827,12 +2827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 756706,
+      "num": 756706,
+      "word": "赴山海片花",
+      "onboard_time": 1744190664,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 754877,
       "num": 754877,
       "word": "祝绪丹超话断签也会崩溃",
       "onboard_time": 1743911481,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 754431,
+      "num": 754431,
+      "word": "奥迪暂停对美国经销商交付新车",
+      "onboard_time": 1744189823,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 752525,
@@ -5099,14 +5115,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 457778,
-      "num": 457778,
-      "word": "赴山海片花",
-      "onboard_time": 1744190664,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 454806,
       "num": 454806,
       "word": "饿鬼模式瘦了15斤",
@@ -5737,6 +5745,14 @@
       "onboard_time": 1743848121,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 408807,
+      "num": 558822,
+      "word": "新修订婚姻登记条例自5月10日起施行",
+      "onboard_time": 1744190723,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 408111,
@@ -6907,14 +6923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 346006,
-      "num": 346006,
-      "word": "奥迪暂停对美国经销商交付新车",
-      "onboard_time": 1744189823,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 345824,
       "num": 345824,
       "word": "Jennie封面照",
@@ -7113,6 +7121,14 @@
       "onboard_time": 1743636802,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335018,
+      "num": 335018,
+      "word": "无忧渡动了",
+      "onboard_time": 1744190362,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 334880,
@@ -8163,6 +8179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 292449,
+      "num": 292449,
+      "word": "全圆佑训练",
+      "onboard_time": 1744189222,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292021,
       "num": 292021,
       "word": "梦华录被编入交大教材",
@@ -8313,6 +8337,14 @@
       "onboard_time": 1743480565,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 287853,
+      "num": 287853,
+      "word": "国防部驳斥七国集团涉台海声明",
+      "onboard_time": 1744190303,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 287392,
@@ -8915,14 +8947,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 266603,
-      "num": 266603,
-      "word": "全圆佑训练",
-      "onboard_time": 1744189222,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 266381,
       "num": 266381,
       "word": "刘宇宁为粉丝的钱操碎了心",
@@ -8961,6 +8985,14 @@
       "onboard_time": 1743908000,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265646,
+      "num": 481907,
+      "word": "在美华人称美民众对经济走势很担忧",
+      "onboard_time": 1744189762,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 265638,
@@ -9395,6 +9427,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 252729,
+      "num": 252729,
+      "word": "42岁孙俪特别不喜欢少女感这个词",
+      "onboard_time": 1744191023,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252525,
       "num": 476551,
       "word": "榜上佳婿预告",
@@ -9553,6 +9593,14 @@
       "onboard_time": 1743519505,
       "rank": 22,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 246923,
+      "num": 586091,
+      "word": "关税救不了美国制造的10大铁证",
+      "onboard_time": 1744189342,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 246891,
@@ -9745,14 +9793,6 @@
       "onboard_time": 1744183643,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 239134,
-      "num": 586091,
-      "word": "关税救不了美国制造的10大铁证",
-      "onboard_time": 1744189342,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 239040,
@@ -10187,6 +10227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 228846,
+      "num": 247297,
+      "word": "新说唱",
+      "onboard_time": 1744189823,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228385,
       "num": 366159,
       "word": "自闭症孩子也可能是话痨",
@@ -10305,14 +10353,6 @@
       "onboard_time": 1744188922,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226346,
-      "num": 226346,
-      "word": "无忧渡动了",
-      "onboard_time": 1744190362,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 226310,
@@ -10473,14 +10513,6 @@
       "onboard_time": 1743999384,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 223140,
-      "num": 223140,
-      "word": "国防部驳斥七国集团涉台海声明",
-      "onboard_time": 1744190303,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 223014,
@@ -10737,14 +10769,6 @@
       "onboard_time": 1743462318,
       "rank": 31,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 218778,
-      "num": 227136,
-      "word": "新说唱",
-      "onboard_time": 1744189823,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 218540,
@@ -11577,6 +11601,14 @@
       "onboard_time": 1743916641,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206357,
+      "num": 206357,
+      "word": "何泓姗对陈都灵太宠了吧",
+      "onboard_time": 1744190723,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 206337,
@@ -12547,6 +12579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194991,
+      "num": 194991,
+      "word": "马柏全立志要健身",
+      "onboard_time": 1744191023,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194942,
       "num": 194942,
       "word": "傅云夕还活着吗",
@@ -13073,6 +13113,14 @@
       "onboard_time": 1744009463,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189631,
+      "num": 1254131,
+      "word": "关于中美经贸关系这是中方立场",
+      "onboard_time": 1744190482,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 189618,
@@ -14859,14 +14907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172601,
-      "num": 206839,
-      "word": "新修订婚姻登记条例自5月10日起施行",
-      "onboard_time": 1744190723,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172556,
       "num": 172556,
       "word": "滤镜研讨会",
@@ -15265,14 +15305,6 @@
       "onboard_time": 1744013003,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 167786,
-      "num": 167786,
-      "word": "何泓姗对陈都灵太宠了吧",
-      "onboard_time": 1744190723,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 167752,
@@ -15873,6 +15905,14 @@
       "onboard_time": 1744179803,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161546,
+      "num": 161546,
+      "word": "沈载伦cha了自己的进行曲",
+      "onboard_time": 1744191144,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 161506,
@@ -19681,6 +19721,14 @@
       "onboard_time": 1743777382,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129761,
+      "num": 129761,
+      "word": "孟子义那很有生活了",
+      "onboard_time": 1744191622,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 129755,
@@ -25899,22 +25947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 47476,
-      "num": 1254131,
-      "word": "关于中美经贸关系这是中方立场",
-      "onboard_time": 1744190482,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 47474,
-      "num": 481907,
-      "word": "在美华人称美民众对经济走势很担忧",
-      "onboard_time": 1744189762,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 47314,
       "num": 262976,
       "word": "白宫回应对等关税名单没有俄罗斯",
@@ -27931,6 +27963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19627,
+      "num": 246951,
+      "word": "平台称高速脱手智驾司机已被封号",
+      "onboard_time": 1744191503,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19584,
       "num": 246984,
       "word": "批人炒股的美议员上台后自己炒股",
@@ -29056,6 +29096,9 @@
     },
     {
       "word": "#总书记这样强调党的作风建设#"
+    },
+    {
+      "word": "#中央周边工作会议在北京举行#"
     }
   ]
 }
