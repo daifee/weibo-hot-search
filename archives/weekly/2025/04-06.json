@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744163480179,
+  "endTime": 1744164800619,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -243,6 +243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1487159,
+      "num": 1487159,
+      "word": "多国回复美国说不给鸡蛋",
+      "onboard_time": 1744160365,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1463882,
       "num": 1463882,
       "word": "汇率",
@@ -265,14 +273,6 @@
       "onboard_time": 1744086685,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1422002,
-      "num": 1422002,
-      "word": "多国回复美国说不给鸡蛋",
-      "onboard_time": 1744160365,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1402772,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1743992543,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 680554,
+      "num": 338306,
+      "word": "金敏喜前男友是李洙赫",
+      "onboard_time": 1744162701,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 678402,
@@ -2523,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364236,
+      "num": 364236,
+      "word": "美股又巨震",
+      "onboard_time": 1744155621,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 363355,
       "num": 363355,
       "word": "特朗普是美国经济特效减肥药",
@@ -2577,14 +2593,6 @@
       "onboard_time": 1743935241,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357774,
-      "num": 357774,
-      "word": "美股又巨震",
-      "onboard_time": 1744155621,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 356305,
@@ -2737,6 +2745,14 @@
       "onboard_time": 1744011142,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 336457,
+      "num": 302934,
+      "word": "31岁宝妈长期生闷气确诊乳腺癌晚期",
+      "onboard_time": 1744160964,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 335430,
@@ -3033,14 +3049,6 @@
       "onboard_time": 1744097482,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 302934,
-      "num": 302934,
-      "word": "31岁宝妈长期生闷气确诊乳腺癌晚期",
-      "onboard_time": 1744160964,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 301102,
@@ -3363,6 +3371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276382,
+      "num": 357663,
+      "word": "旱厕边生产冒牌咖啡成本5元卖69",
+      "onboard_time": 1744141816,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276019,
       "num": 276019,
       "word": "美国普通人担心关税让钱包受伤",
@@ -3513,14 +3529,6 @@
       "onboard_time": 1744104622,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 266047,
-      "num": 304053,
-      "word": "金敏喜前男友是李洙赫",
-      "onboard_time": 1744162701,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 265767,
@@ -3708,7 +3716,7 @@
     },
     {
       "raw_hot": 255853,
-      "num": 1483114,
+      "num": 1506534,
       "word": "中国不惹事也绝不怕事",
       "onboard_time": 1744120942,
       "rank": 2,
@@ -4003,6 +4011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232708,
+      "num": 258311,
+      "word": "严浩翔rap水平",
+      "onboard_time": 1744161262,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232583,
       "num": 232583,
       "word": "念无双26集封神",
@@ -4147,6 +4163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226809,
+      "num": 303031,
+      "word": "巴拿马审计发现长和违规",
+      "onboard_time": 1744162164,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 226736,
       "num": 226736,
       "word": "加拿大对美国汽车征25%关税将生效",
@@ -4217,14 +4241,6 @@
       "onboard_time": 1743999384,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 223220,
-      "num": 258311,
-      "word": "严浩翔rap水平",
-      "onboard_time": 1744161262,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 222924,
@@ -4307,20 +4323,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219415,
-      "num": 357663,
-      "word": "旱厕边生产冒牌咖啡成本5元卖69",
-      "onboard_time": 1744141816,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 219360,
       "num": 219360,
       "word": "办好自己的事中国有底气",
       "onboard_time": 1744127542,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 219102,
+      "num": 219102,
+      "word": "A股一扫阴霾强势反弹",
+      "onboard_time": 1744127421,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 218540,
@@ -4433,6 +4449,14 @@
       "onboard_time": 1743870439,
       "rank": 43,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 214962,
+      "num": 214962,
+      "word": "梁振英回应女儿去世",
+      "onboard_time": 1744164142,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 214904,
@@ -5867,6 +5891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 175664,
+      "num": 175664,
+      "word": "焦虑的6种隐性表现",
+      "onboard_time": 1744162884,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175496,
       "num": 232476,
       "word": "NBA",
@@ -5880,6 +5912,14 @@
       "word": "欧盟计划对美征收两部分关税",
       "onboard_time": 1744040841,
       "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 174946,
+      "num": 323939,
+      "word": "李在明全力参选韩国总统",
+      "onboard_time": 1744163183,
+      "rank": 23,
       "category": "国际时政"
     },
     {
@@ -6089,6 +6129,14 @@
       "onboard_time": 1744013003,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 167779,
+      "num": 167779,
+      "word": "星穹铁道",
+      "onboard_time": 1744164441,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 167758,
@@ -6305,6 +6353,14 @@
       "onboard_time": 1744031364,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162143,
+      "num": 268079,
+      "word": "萧敬腾说不会跟妻子接真人秀",
+      "onboard_time": 1744158444,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 161671,
@@ -6545,14 +6601,6 @@
       "onboard_time": 1744038564,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 156352,
-      "num": 156352,
-      "word": "焦虑的6种隐性表现",
-      "onboard_time": 1744162884,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 156214,
@@ -7155,14 +7203,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 140673,
-      "num": 303031,
-      "word": "巴拿马审计发现长和违规",
-      "onboard_time": 1744162164,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 140269,
       "num": 140269,
       "word": "被贾静雯卷腹视频可爱到了",
@@ -7523,6 +7563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133904,
+      "num": 133904,
+      "word": "低精力人上班一年的感受",
+      "onboard_time": 1744161203,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133800,
       "num": 133800,
       "word": "Bin放话TheShy",
@@ -7649,14 +7697,6 @@
       "onboard_time": 1744106242,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131405,
-      "num": 131405,
-      "word": "低精力人上班一年的感受",
-      "onboard_time": 1744161203,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 131241,
@@ -7939,14 +7979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124395,
-      "num": 157577,
-      "word": "A股一扫阴霾强势反弹",
-      "onboard_time": 1744127421,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 124286,
       "num": 124286,
       "word": "赵露思樱花look",
@@ -8081,14 +8113,6 @@
       "onboard_time": 1743864862,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121114,
-      "num": 185401,
-      "word": "萧敬腾说不会跟妻子接真人秀",
-      "onboard_time": 1744158444,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 120815,
@@ -9403,14 +9427,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 80840,
-      "num": 290237,
-      "word": "李在明全力参选韩国总统",
-      "onboard_time": 1744163183,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 80723,
       "num": 80723,
       "word": "美国网友说副总统万斯愚不可及",
@@ -9481,6 +9497,14 @@
       "onboard_time": 1744008502,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76920,
+      "num": 340121,
+      "word": "特朗普关税措施或致200万美国人失业",
+      "onboard_time": 1744164004,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76196,
@@ -10193,6 +10217,14 @@
       "onboard_time": 1744083021,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44089,
+      "num": 321816,
+      "word": "韩元兑美元刷新15年来开盘新低",
+      "onboard_time": 1744163842,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 43439,
