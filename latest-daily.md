@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/10 00:31:37 ~ 2025/04/10 07:23:00
+本榜单时间：2025/04/10 00:31:37 ~ 2025/04/10 07:37:01
 </p>
 </blockquote>
 <p>
@@ -16,13 +16,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E5%8A%A0%E5%85%B3%E7%A8%8E%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%86%B7%E9%9D%99%23" target="weibo">
-美国被加关税后特朗普呼吁冷静（热度：7651551）
+美国被加关税后特朗普呼吁冷静（热度：8884094）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%BE%8E%E6%89%80%E6%9C%89%E8%BF%9B%E5%8F%A3%E5%95%86%E5%93%81%E5%85%B3%E7%A8%8E%E5%86%8D%E6%8F%90%E9%AB%9850%25%23" target="weibo">
 对美所有进口商品关税再提高50%（热度：6521543）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%82%E5%81%9C%E5%BE%81%E6%94%B6%E5%85%B3%E7%A8%8E90%E5%A4%A9%23" target="weibo">
+特朗普暂停征收关税90天（热度：2233840）
 </a>
 </li>
 
@@ -63,6 +69,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E9%87%91%E7%89%8C%E5%A2%9E%E8%87%B36%E5%9D%97%23" target="weibo">
+洛杉矶奥运会乒乓球金牌增至6块（热度：758820）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B5%B4%E7%BE%8E%E6%B8%B8%E5%AE%A2%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA%23" target="weibo">
 中国赴美游客风险提示（热度：722682）
 </a>
@@ -71,12 +83,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E5%9C%B0%E5%9B%BE%E7%82%AE%E7%A0%B8%E5%90%91%E7%BE%8E%E5%9B%BD%E8%80%81%E7%99%BE%E5%A7%93%23" target="weibo">
 特朗普关税地图炮砸向美国老百姓（热度：710053）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E9%87%91%E7%89%8C%E5%A2%9E%E8%87%B36%E5%9D%97%23" target="weibo">
-洛杉矶奥运会乒乓球金牌增至6块（热度：591208）
 </a>
 </li>
 
@@ -111,8 +117,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E4%E6%9C%889%E6%97%A5%E7%94%9F%E6%95%88%23" target="weibo">
+加拿大对美加征关税4月9日生效（热度：430296）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%B0%8F%E5%AD%A6%E5%BB%B6%E6%97%B6%E8%87%B36%E7%82%B9%E5%8D%8A%E6%94%BE%E5%AD%A6%23" target="weibo">
 家长建议小学延时至6点半放学（热度：421570）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B5%84%E4%BA%A7%E6%B7%B1%E5%A4%9C%E5%85%A8%E7%BA%BF%E7%88%86%E5%8F%91%23" target="weibo">
+中国资产深夜全线爆发（热度：401866）
 </a>
 </li>
 
@@ -125,12 +143,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%23" target="weibo">
 美股（热度：387197）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E4%E6%9C%889%E6%97%A5%E7%94%9F%E6%95%88%23" target="weibo">
-加拿大对美加征关税4月9日生效（热度：383119）
 </a>
 </li>
 
@@ -165,8 +177,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E7%BB%9D%E5%AF%B9%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%BE%8E%E6%96%B9%E6%9E%81%E9%99%90%E6%96%BD%E5%8E%8B%E9%9C%B8%E9%81%93%E9%9C%B8%E5%87%8C%23" target="weibo">
+中方绝对不接受美方极限施压霸道霸凌（热度：262369）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%B8%B8%E6%88%8F%E7%9B%B4%E6%92%AD%E5%A4%AA%E8%8F%9C%E8%A2%AB%E9%AA%82%E4%B8%8B%E6%92%AD%23" target="weibo">
 马斯克游戏直播太菜被骂下播（热度：261855）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E5%88%AB%E4%B8%BB%E6%BC%94%E5%BC%A0%E6%99%BA%E9%9C%96%23" target="weibo">
+特别主演张智霖（热度：261486）
 </a>
 </li>
 
@@ -183,12 +207,6 @@ iPhone迁回美国产成本或飙升90%（热度：233282）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E5%88%AB%E4%B8%BB%E6%BC%94%E5%BC%A0%E6%99%BA%E9%9C%96%23" target="weibo">
-特别主演张智霖（热度：232918）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%A4%E9%95%BF%E9%9D%96%E5%BD%93%E5%AF%BC%E5%B8%88%E4%BA%86%23" target="weibo">
 尤长靖当导师了（热度：229501）
 </a>
@@ -201,20 +219,14 @@ iPhone迁回美国产成本或飙升90%（热度：233282）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E7%BB%9D%E5%AF%B9%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%BE%8E%E6%96%B9%E6%9E%81%E9%99%90%E6%96%BD%E5%8E%8B%E9%9C%B8%E9%81%93%E9%9C%B8%E5%87%8C%23" target="weibo">
-中方绝对不接受美方极限施压霸道霸凌（热度：213108）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E5%86%8D%E7%8A%AF%E4%B8%80%E6%AC%A1%E7%99%BE%E5%B9%B4%E5%89%8D%E7%9A%84%E9%94%99%E8%AF%AF%E5%90%97%23" target="weibo">
+特朗普要再犯一次百年前的错误吗（热度：215712）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9C%E9%87%8C%E5%A4%96%E5%8D%96%E4%B9%B0%E7%82%AD%E6%97%A9%E8%B5%B7%E6%9C%8910%E5%A4%9A%E4%B8%AA%E6%9C%AA%E6%8E%A5%E7%94%B5%E8%AF%9D%23" target="weibo">
-夜里外卖买炭早起有10多个未接电话（热度：197319）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B5%84%E4%BA%A7%E6%B7%B1%E5%A4%9C%E5%85%A8%E7%BA%BF%E7%88%86%E5%8F%91%23" target="weibo">
-中国资产深夜全线爆发（热度：191163）
+夜里外卖买炭早起有10多个未接电话（热度：210408）
 </a>
 </li>
 
@@ -238,7 +250,7 @@ iPhone迁回美国产成本或飙升90%（热度：233282）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%9D%874%E5%8D%83%E9%A4%90%E5%8E%85%E7%94%9C%E5%93%81%E6%98%AF%E5%A4%A7%E8%B1%A1%E7%B2%AA%E4%BE%BF%23" target="weibo">
-上海人均4千餐厅甜品是大象粪便（热度：160460）
+上海人均4千餐厅甜品是大象粪便（热度：172310）
 </a>
 </li>
 
@@ -291,6 +303,12 @@ SUNNY加入李秀满新公司A2O（热度：119690）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BE%B7%E5%AE%B9%20%E6%88%91%E8%A1%A8%E6%83%85%E6%82%A0%E5%93%89%E8%B7%B3%E4%B8%AA%E5%A4%A7%E6%A6%82%23" target="weibo">
+陈德容 我表情悠哉跳个大概（热度：109715）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%86%B0%E5%86%B0%E5%A5%B3%E5%84%BF%23" target="weibo">
 白冰冰女儿（热度：108807）
 </a>
@@ -315,6 +333,12 @@ SUNNY加入李秀满新公司A2O（热度：119690）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%B3%E6%8C%87%E5%8D%95%E6%97%A5%E6%9A%B4%E6%8B%8912%25%23" target="weibo">
+纳指单日暴拉12%（热度：94212）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E6%91%84%E5%BD%B1%E6%89%B6%E5%8D%AE%23" target="weibo">
 陈都灵摄影扶卮（热度：93614）
 </a>
@@ -327,14 +351,14 @@ SUNNY加入李秀满新公司A2O（热度：119690）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E4%B8%8D%E6%98%AF%E5%91%A8%E8%BF%85%E5%B0%8F%E6%97%B6%E5%80%99%E5%90%97%23" target="weibo">
-这真不是周迅小时候吗（热度：90796）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%90%A84%E6%AF%940%E5%A4%9A%E7%89%B9%E8%92%99%E5%BE%B7%23" target="weibo">
+巴萨4比0多特蒙德（热度：90869）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BE%B7%E5%AE%B9%20%E6%88%91%E8%A1%A8%E6%83%85%E6%82%A0%E5%93%89%E8%B7%B3%E4%B8%AA%E5%A4%A7%E6%A6%82%23" target="weibo">
-陈德容 我表情悠哉跳个大概（热度：85895）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E4%B8%8D%E6%98%AF%E5%91%A8%E8%BF%85%E5%B0%8F%E6%97%B6%E5%80%99%E5%90%97%23" target="weibo">
+这真不是周迅小时候吗（热度：90796）
 </a>
 </li>
 
@@ -351,6 +375,12 @@ SUNNY加入李秀满新公司A2O（热度：119690）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E7%9A%84%E7%B2%89%E4%B8%9D%23" target="weibo">
+折腰的粉丝（热度：76750）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%80%BA%23" target="weibo">
 美债（热度：75456）
 </a>
@@ -363,14 +393,14 @@ PUBG（热度：73114）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%B8%9D%E7%8C%B4%E5%AE%9D%E5%AE%9D%E4%B9%9F%E7%88%B1%E6%92%92%E5%A8%87%E8%B4%B4%E8%B4%B4%23" target="weibo">
-金丝猴宝宝也爱撒娇贴贴（热度：65197）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%BE%8E%E5%8F%8D%E5%88%B6%E4%BB%8A%E6%97%A5%E7%94%9F%E6%95%88%23" target="weibo">
+中国对美反制今日生效（热度：72072）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E7%9A%84%E7%B2%89%E4%B8%9D%23" target="weibo">
-折腰的粉丝（热度：64255）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%B8%9D%E7%8C%B4%E5%AE%9D%E5%AE%9D%E4%B9%9F%E7%88%B1%E6%92%92%E5%A8%87%E8%B4%B4%E8%B4%B4%23" target="weibo">
+金丝猴宝宝也爱撒娇贴贴（热度：65197）
 </a>
 </li>
 
@@ -441,12 +471,6 @@ PUBG（热度：73114）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E5%86%8D%E7%8A%AF%E4%B8%80%E6%AC%A1%E7%99%BE%E5%B9%B4%E5%89%8D%E7%9A%84%E9%94%99%E8%AF%AF%E5%90%97%23" target="weibo">
-特朗普要再犯一次百年前的错误吗（热度：21123）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E4%B8%8D%E6%83%B3%E5%86%8D%E5%BD%93%E5%BF%B5%E6%97%A7%E7%9A%84%E5%B0%8F%E5%AD%A9%E4%BA%86%23" target="weibo">
 穆祉丞不想再当念旧的小孩了（热度：19439）
 </a>
@@ -461,12 +485,6 @@ PUBG（热度：73114）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E8%AE%BA%E7%BE%8E%E6%96%B9%E7%A7%B0%E5%B7%A8%E9%A2%9D%E8%B4%B8%E6%98%93%E9%80%86%E5%B7%AE%E8%AE%A9%E7%BE%8E%E5%9B%BD%E5%90%83%E4%BA%8F%23" target="weibo">
 如何评论美方称巨额贸易逆差让美国吃亏（热度：16272）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%BE%8E%E5%8F%8D%E5%88%B6%E4%BB%8A%E6%97%A5%E7%94%9F%E6%95%88%23" target="weibo">
-中国对美反制今日生效（热度：15042）
 </a>
 </li>
 

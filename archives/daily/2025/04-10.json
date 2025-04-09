@@ -1,10 +1,10 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744240980358,
+  "endTime": 1744241821707,
   "band_list": [
     {
-      "raw_hot": 7651551,
-      "num": 7651551,
+      "raw_hot": 8884094,
+      "num": 8884094,
       "word": "美国被加关税后特朗普呼吁冷静",
       "onboard_time": 1744214184,
       "rank": 1,
@@ -16,6 +16,14 @@
       "word": "对美所有进口商品关税再提高50%",
       "onboard_time": 1744197084,
       "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 2233840,
+      "num": 954841,
+      "word": "特朗普暂停征收关税90天",
+      "onboard_time": 1744241482,
+      "rank": 3,
       "category": "国际时政"
     },
     {
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 758820,
+      "num": 758820,
+      "word": "洛杉矶奥运会乒乓球金牌增至6块",
+      "onboard_time": 1744236195,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 722682,
       "num": 722682,
       "word": "中国赴美游客风险提示",
@@ -81,14 +97,6 @@
       "onboard_time": 1744165402,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 591208,
-      "num": 591208,
-      "word": "洛杉矶奥运会乒乓球金牌增至6块",
-      "onboard_time": 1744236195,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 500448,
@@ -131,12 +139,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 430296,
+      "num": 430296,
+      "word": "加拿大对美加征关税4月9日生效",
+      "onboard_time": 1744226294,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 421570,
       "num": 421570,
       "word": "家长建议小学延时至6点半放学",
       "onboard_time": 1744200986,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 401866,
+      "num": 632217,
+      "word": "中国资产深夜全线爆发",
+      "onboard_time": 1744240702,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 394235,
@@ -153,14 +177,6 @@
       "onboard_time": 1744199126,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 383119,
-      "num": 383119,
-      "word": "加拿大对美加征关税4月9日生效",
-      "onboard_time": 1744226294,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 345943,
@@ -203,12 +219,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 262369,
+      "num": 1027382,
+      "word": "中方绝对不接受美方极限施压霸道霸凌",
+      "onboard_time": 1744205427,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 261855,
       "num": 261855,
       "word": "马斯克游戏直播太菜被骂下播",
       "onboard_time": 1744210707,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 261486,
+      "num": 632654,
+      "word": "特别主演张智霖",
+      "onboard_time": 1744204227,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 251254,
@@ -227,14 +259,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 232918,
-      "num": 429004,
-      "word": "特别主演张智霖",
-      "onboard_time": 1744204227,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229501,
       "num": 330305,
       "word": "尤长靖当导师了",
@@ -251,28 +275,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 213108,
-      "num": 1019741,
-      "word": "中方绝对不接受美方极限施压霸道霸凌",
-      "onboard_time": 1744205427,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 215712,
+      "num": 199319,
+      "word": "特朗普要再犯一次百年前的错误吗",
+      "onboard_time": 1744240581,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 197319,
-      "num": 197319,
+      "raw_hot": 210408,
+      "num": 210408,
       "word": "夜里外卖买炭早起有10多个未接电话",
       "onboard_time": 1744204586,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191163,
-      "num": 302395,
-      "word": "中国资产深夜全线爆发",
-      "onboard_time": 1744240702,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 189622,
@@ -299,8 +315,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 160460,
-      "num": 160460,
+      "raw_hot": 172310,
+      "num": 172310,
       "word": "上海人均4千餐厅甜品是大象粪便",
       "onboard_time": 1744196243,
       "rank": 34,
@@ -371,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109715,
+      "num": 260740,
+      "word": "陈德容 我表情悠哉跳个大概",
+      "onboard_time": 1744203806,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108807,
       "num": 108807,
       "word": "白冰冰女儿",
@@ -403,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94212,
+      "num": 326905,
+      "word": "纳指单日暴拉12%",
+      "onboard_time": 1744241001,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 93614,
       "num": 124239,
       "word": "陈都灵摄影扶卮",
@@ -419,20 +451,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90869,
+      "num": 90869,
+      "word": "巴萨4比0多特蒙德",
+      "onboard_time": 1744241124,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90796,
       "num": 90796,
       "word": "这真不是周迅小时候吗",
       "onboard_time": 1744214783,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85895,
-      "num": 201341,
-      "word": "陈德容 我表情悠哉跳个大概",
-      "onboard_time": 1744203806,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 85162,
@@ -451,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76750,
+      "num": 76750,
+      "word": "折腰的粉丝",
+      "onboard_time": 1744238959,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75456,
       "num": 84659,
       "word": "美债",
@@ -467,20 +507,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72072,
+      "num": 132462,
+      "word": "中国对美反制今日生效",
+      "onboard_time": 1744240702,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65197,
       "num": 259971,
       "word": "金丝猴宝宝也爱撒娇贴贴",
       "onboard_time": 1744216042,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64255,
-      "num": 64255,
-      "word": "折腰的粉丝",
-      "onboard_time": 1744238959,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 62941,
@@ -571,14 +611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 21123,
-      "num": 199319,
-      "word": "特朗普要再犯一次百年前的错误吗",
-      "onboard_time": 1744240581,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 19439,
       "num": 33531,
       "word": "穆祉丞不想再当念旧的小孩了",
@@ -601,14 +633,6 @@
       "onboard_time": 1744230494,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 15042,
-      "num": 123792,
-      "word": "中国对美反制今日生效",
-      "onboard_time": 1744240702,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12237,
