@@ -1,0 +1,410 @@
+{
+  "runTime": 1744226434703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1192670,
+        "num": 1192670,
+        "word": "美国被加关税后特朗普呼吁冷静",
+        "onboard_time": 1744214184,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 375927,
+        "num": 375927,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51880,
+        "num": 333496,
+        "word": "中方绝对不接受美方极限施压霸道霸凌",
+        "onboard_time": 1744205427,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306199,
+        "num": 306199,
+        "word": "海关总署公告",
+        "onboard_time": 1744213166,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215962,
+        "num": 215962,
+        "word": "中方多部门密集发声",
+        "onboard_time": 1744213166,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188940,
+        "num": 188940,
+        "word": "欧盟对美加征25%关税",
+        "onboard_time": 1744204348,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171770,
+        "num": 171770,
+        "word": "美股",
+        "onboard_time": 1744199126,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156130,
+        "num": 156130,
+        "word": "特朗普关税地图炮砸向美国老百姓",
+        "onboard_time": 1744165402,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92291,
+        "num": 130346,
+        "word": "黄子韬卫生巾工厂进展",
+        "onboard_time": 1744209087,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41898,
+        "num": 127980,
+        "word": "折腰 四月空降",
+        "onboard_time": 1744199485,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127211,
+        "num": 127211,
+        "word": "金价再大涨",
+        "onboard_time": 1744212865,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117676,
+        "num": 117676,
+        "word": "纳斯达克",
+        "onboard_time": 1744211906,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101742,
+        "num": 101742,
+        "word": "赵露思永远没有告别",
+        "onboard_time": 1744215502,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90821,
+        "num": 90821,
+        "word": "外交部回应美国对华征收104%关税",
+        "onboard_time": 1744184001,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88746,
+        "num": 88746,
+        "word": "奥迪暂停对美国经销商交付新车",
+        "onboard_time": 1744189823,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72285,
+        "num": 72285,
+        "word": "当中方说要奉陪到底时是认真的",
+        "onboard_time": 1744218019,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62024,
+        "num": 62024,
+        "word": "中国赴美游客风险提示",
+        "onboard_time": 1744207768,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36836,
+        "num": 55229,
+        "word": "张若昀终于用上祺贵人的梗了",
+        "onboard_time": 1744205249,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33623,
+        "num": 49571,
+        "word": "特别主演张智霖",
+        "onboard_time": 1744204227,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29607,
+        "num": 49012,
+        "word": "陈都灵金工实习期旧照",
+        "onboard_time": 1744202846,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48756,
+        "num": 48756,
+        "word": "对美所有进口商品加征84%关税",
+        "onboard_time": 1744196903,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47027,
+        "num": 47027,
+        "word": "教育部发布2025第1号留学预警",
+        "onboard_time": 1744209268,
+        "rank": 21,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 44804,
+        "num": 44804,
+        "word": "白冰冰7年做了16次试管婴儿",
+        "onboard_time": 1744200264,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40411,
+        "num": 40411,
+        "word": "美股开盘",
+        "onboard_time": 1744211125,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38417,
+        "num": 38417,
+        "word": "美国人抢鸡蛋盛况",
+        "onboard_time": 1744193422,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37589,
+        "num": 37589,
+        "word": "女儿隆鼻结果妈妈肋骨断了三根",
+        "onboard_time": 1744200085,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35248,
+        "num": 35248,
+        "word": "马斯克游戏直播太菜被骂下播",
+        "onboard_time": 1744210707,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23673,
+        "num": 32916,
+        "word": "陈都灵摄影扶卮",
+        "onboard_time": 1744213885,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22091,
+        "num": 32806,
+        "word": "时代少年团演唱会 海口",
+        "onboard_time": 1744202666,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21895,
+        "num": 32762,
+        "word": "尤长靖当导师了",
+        "onboard_time": 1744210766,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32748,
+        "num": 32748,
+        "word": "家长建议小学延时至6点半放学",
+        "onboard_time": 1744200986,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31916,
+        "num": 31916,
+        "word": "外媒称美国的痛苦是自作自受",
+        "onboard_time": 1744205668,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31290,
+        "num": 31290,
+        "word": "我们奉陪到底",
+        "onboard_time": 1744199966,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30407,
+        "num": 30407,
+        "word": "iPhone迁回美国产成本或飙升90%",
+        "onboard_time": 1744212505,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 10354,
+        "num": 30370,
+        "word": "加拿大对美加征关税4月9日生效",
+        "onboard_time": 1744226294,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30367,
+        "num": 30367,
+        "word": "巴西总统批特朗普以为能给世界立规矩",
+        "onboard_time": 1744211967,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30015,
+        "num": 30015,
+        "word": "夜里外卖买炭早起有10多个未接电话",
+        "onboard_time": 1744204586,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29670,
+        "num": 29670,
+        "word": "这就是中国态度",
+        "onboard_time": 1744200625,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29050,
+        "num": 29050,
+        "word": "道琼斯",
+        "onboard_time": 1744213646,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28514,
+        "num": 28514,
+        "word": "美债",
+        "onboard_time": 1744209988,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28304,
+        "num": 28304,
+        "word": "上海人均4千餐厅甜品是大象粪便",
+        "onboard_time": 1744196243,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28204,
+        "num": 28204,
+        "word": "孕妇拔坟头草煮水喝母子险丧命",
+        "onboard_time": 1744202486,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26480,
+        "num": 28204,
+        "word": "微信状态也能调情",
+        "onboard_time": 1744192642,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24176,
+        "num": 28194,
+        "word": "中国有底气有信心应对美国关税冲击",
+        "onboard_time": 1744222276,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23647,
+        "num": 28189,
+        "word": "中国一如既往扎根周边贡献周边",
+        "onboard_time": 1744224376,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21627,
+        "num": 28186,
+        "word": "金秀贤防治法正式提交韩国会",
+        "onboard_time": 1744195524,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19645,
+        "num": 28175,
+        "word": "白冰冰女儿",
+        "onboard_time": 1744206867,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19620,
+        "num": 28175,
+        "word": "中方坚决反制",
+        "onboard_time": 1744198945,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19347,
+        "num": 28168,
+        "word": "阿尔曼",
+        "onboard_time": 1744223415,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19247,
+        "num": 28160,
+        "word": "黄金",
+        "onboard_time": 1744201285,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦构建周边命运共同体#"
+    }
+  }
+}

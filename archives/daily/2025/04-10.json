@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744224399718,
+  "endTime": 1744226434703,
   "band_list": [
     {
       "raw_hot": 6521543,
@@ -467,6 +467,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 24176,
+      "num": 28194,
+      "word": "中国有底气有信心应对美国关税冲击",
+      "onboard_time": 1744222276,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23647,
+      "num": 33952,
+      "word": "中国一如既往扎根周边贡献周边",
+      "onboard_time": 1744224376,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23481,
       "num": 35404,
       "word": "阿尔曼",
@@ -491,12 +507,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 10606,
-      "num": 33952,
-      "word": "中国一如既往扎根周边贡献周边",
-      "onboard_time": 1744224376,
-      "rank": 38,
-      "category": "国内时政"
+      "raw_hot": 10354,
+      "num": 30370,
+      "word": "加拿大对美加征关税4月9日生效",
+      "onboard_time": 1744226294,
+      "rank": 34,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
