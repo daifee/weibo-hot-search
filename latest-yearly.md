@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/09 18:46:59
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/09 19:21:10
 </p>
 </blockquote>
 <p>
@@ -611,6 +611,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E5%B0%8F%E5%93%81%20%E6%88%9B%E7%84%B6%E8%80%8C%E6%AD%A2%23" target="weibo">
 沈腾马丽小品 戛然而止（热度：6765399）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%BE%8E%E6%89%80%E6%9C%89%E8%BF%9B%E5%8F%A3%E5%95%86%E5%93%81%E5%85%B3%E7%A8%8E%E5%86%8D%E6%8F%90%E9%AB%9850%25%23" target="weibo">
+对美所有进口商品关税再提高50%（热度：6743219）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%A6%BB%E5%A9%9A%E6%96%87%E6%A1%88%23" target="weibo">
 内娱离婚文案（热度：2864001）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%93%AA%E5%90%922%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF%E6%8D%9F%E5%A4%B1%E5%87%A0%E5%8D%83%E4%B8%87%23" target="weibo">
-曝哪吒2被偷票房损失几千万（热度：2863170）
 </a>
 </li>
 

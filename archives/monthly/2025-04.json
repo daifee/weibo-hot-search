@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744195619853,
+  "endTime": 1744197670783,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -41,6 +41,14 @@
       "onboard_time": 1744069100,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6743219,
+      "num": 6743219,
+      "word": "对美所有进口商品关税再提高50%",
+      "onboard_time": 1744197084,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 6152899,
@@ -411,6 +419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1961909,
+      "num": 672793,
+      "word": "微信状态也能调情",
+      "onboard_time": 1744192642,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1941198,
       "num": 1941198,
       "word": "金价冲向1000元",
@@ -457,6 +473,14 @@
       "onboard_time": 1743501922,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1901742,
+      "num": 1901742,
+      "word": "对美所有进口商品加征84%关税",
+      "onboard_time": 1744196903,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1888812,
@@ -641,14 +665,6 @@
       "onboard_time": 1744091601,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1659307,
-      "num": 600554,
-      "word": "微信状态也能调情",
-      "onboard_time": 1744192642,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 1641221,
@@ -2363,6 +2379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 861762,
+      "num": 659095,
+      "word": "金秀贤防治法正式提交韩国会",
+      "onboard_time": 1744195524,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 860898,
       "num": 356666,
       "word": "山区孩子为赵露思发声",
@@ -3169,6 +3193,14 @@
       "onboard_time": 1743848301,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 694284,
+      "num": 694284,
+      "word": "美国人抢鸡蛋盛况",
+      "onboard_time": 1744193422,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 693434,
@@ -6443,6 +6475,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 368369,
+      "num": 2037177,
+      "word": "关于中美经贸关系这是中方立场",
+      "onboard_time": 1744190482,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 367534,
       "num": 390718,
       "word": "阿瑟别走",
@@ -6729,14 +6769,6 @@
       "onboard_time": 1743653421,
       "rank": 9,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 356647,
-      "num": 1830007,
-      "word": "关于中美经贸关系这是中方立场",
-      "onboard_time": 1744190482,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 356434,
@@ -7635,6 +7667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313847,
+      "num": 313847,
+      "word": "上海人均4千餐厅甜品是大象粪便",
+      "onboard_time": 1744196243,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313380,
       "num": 313380,
       "word": "蔡徐坤 南昌活动",
@@ -8004,7 +8044,7 @@
     },
     {
       "raw_hot": 299747,
-      "num": 299747,
+      "num": 571915,
       "word": "赴山海暂定5月播出",
       "onboard_time": 1744194321,
       "rank": 31,
@@ -8400,6 +8440,14 @@
       "word": "特朗普称韩方高层正前往美国",
       "onboard_time": 1744126042,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 287302,
+      "num": 287302,
+      "word": "商务部就中美经贸关系白皮书答问",
+      "onboard_time": 1744184362,
+      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -9243,14 +9291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 259013,
-      "num": 208452,
-      "word": "美国人抢鸡蛋盛况",
-      "onboard_time": 1744193422,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 258693,
       "num": 295808,
       "word": "朝雪录",
@@ -10091,14 +10131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 232781,
-      "num": 232781,
-      "word": "商务部就中美经贸关系白皮书答问",
-      "onboard_time": 1744184362,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 232773,
       "num": 352257,
       "word": "蔡文静宋妍霏王琳凯同台走秀",
@@ -10395,6 +10427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226669,
+      "num": 226669,
+      "word": "中方回应美方发布TikTok延期行政令",
+      "onboard_time": 1744195882,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 226566,
       "num": 451012,
       "word": "A股三大指数触底回升",
@@ -10665,6 +10705,14 @@
       "onboard_time": 1744008803,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220972,
+      "num": 313830,
+      "word": "乌云之上碎尸案凶手落网后自尽",
+      "onboard_time": 1744196602,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 220864,
@@ -11875,6 +11923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204382,
+      "num": 313201,
+      "word": "内娱终于拍出了武侠穿",
+      "onboard_time": 1744196662,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204331,
       "num": 204331,
       "word": "78个货到付款快递被拒签小哥报警后获奖励",
@@ -12291,6 +12347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198797,
+      "num": 198797,
+      "word": "赴山海特邀主演曹翠芬",
+      "onboard_time": 1744196784,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198720,
       "num": 275209,
       "word": "徐明浩音综导师当上瘾了",
@@ -12329,6 +12393,14 @@
       "onboard_time": 1743608063,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198554,
+      "num": 312048,
+      "word": "成毅打戏",
+      "onboard_time": 1744196481,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 198502,
@@ -13899,6 +13971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183410,
+      "num": 183410,
+      "word": "出口技术须经中国政府依法审批",
+      "onboard_time": 1744195282,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 183400,
       "num": 183400,
       "word": "内娱7人男团上新NexT1DE",
@@ -15171,6 +15251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170769,
+      "num": 170769,
+      "word": "会计毕业生一块一顿饭",
+      "onboard_time": 1744193841,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170674,
       "num": 170674,
       "word": "吴宣仪vava给卡琳娜送被子",
@@ -16371,14 +16459,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 158089,
-      "num": 158089,
-      "word": "出口技术须经中国政府依法审批",
-      "onboard_time": 1744195282,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 158044,
       "num": 184397,
       "word": "宋妍霏腰封叠穿",
@@ -17315,14 +17395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150021,
-      "num": 150021,
-      "word": "会计毕业生一块一顿饭",
-      "onboard_time": 1744193841,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149987,
       "num": 149987,
       "word": "银河左岸",
@@ -18059,14 +18131,6 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 144466,
-      "num": 144466,
-      "word": "金秀贤防治法正式提交韩国会",
-      "onboard_time": 1744195524,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144439,
       "num": 144439,
       "word": "尚公主制片人关注孟子义李昀锐",
@@ -18217,6 +18281,14 @@
       "onboard_time": 1743599783,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 143307,
+      "num": 490078,
+      "word": "国乒的偶像力量具象化了",
+      "onboard_time": 1744196421,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 143282,
@@ -19713,6 +19785,14 @@
       "onboard_time": 1743575842,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 131070,
+      "num": 310764,
+      "word": "12家美国实体列入出口管制管控名单",
+      "onboard_time": 1744197504,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130919,
@@ -24227,6 +24307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81049,
+      "num": 500394,
+      "word": "陈都灵给温峥嵘递扇子",
+      "onboard_time": 1744197204,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81045,
       "num": 93200,
       "word": "YERI泡泡发文",
@@ -24329,6 +24417,14 @@
       "onboard_time": 1743926660,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 79810,
+      "num": 312721,
+      "word": "清融EWC人物聚焦特辑",
+      "onboard_time": 1744195882,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 79637,
@@ -24657,6 +24753,14 @@
       "onboard_time": 1743935300,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71998,
+      "num": 194771,
+      "word": "权志龙是KAIST机械工程系客座教授",
+      "onboard_time": 1744195942,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 71911,
@@ -24993,6 +25097,14 @@
       "onboard_time": 1743956120,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66466,
+      "num": 295120,
+      "word": "美国遭遇股债双杀",
+      "onboard_time": 1744195822,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 66294,
@@ -25763,6 +25875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54976,
+      "num": 310297,
+      "word": "欢迎中国救援队伍回家",
+      "onboard_time": 1744197325,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 54755,
       "num": 335634,
       "word": "缅甸强震已致2886死4639伤",
@@ -25873,6 +25993,14 @@
       "onboard_time": 1743524419,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 53459,
+      "num": 491706,
+      "word": "司机开智驾睡觉超速行驶百公里",
+      "onboard_time": 1744197023,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53391,
@@ -27032,6 +27160,14 @@
       "word": "国内航线燃油附加费4月5日下调",
       "onboard_time": 1743497063,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34620,
+      "num": 310144,
+      "word": "注胶补漏收3500师傅自称差点亏钱",
+      "onboard_time": 1744196602,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -28241,6 +28377,14 @@
       "onboard_time": 1743672741,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19030,
+      "num": 298112,
+      "word": "eStar要来WAW当店长了",
+      "onboard_time": 1744197565,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 18858,

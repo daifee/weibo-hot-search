@@ -1,7 +1,15 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744195619853,
+  "endTime": 1744197670783,
   "band_list": [
+    {
+      "raw_hot": 6743219,
+      "num": 6743219,
+      "word": "对美所有进口商品关税再提高50%",
+      "onboard_time": 1744197084,
+      "rank": 0,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 4038610,
       "num": 4038610,
@@ -67,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1961909,
+      "num": 672793,
+      "word": "微信状态也能调情",
+      "onboard_time": 1744192642,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1933930,
       "num": 1933930,
       "word": "离境退税",
@@ -83,20 +99,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1901742,
+      "num": 1901742,
+      "word": "对美所有进口商品加征84%关税",
+      "onboard_time": 1744196903,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1859472,
       "num": 1859472,
       "word": "折腰",
       "onboard_time": 1744191862,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1659307,
-      "num": 600554,
-      "word": "微信状态也能调情",
-      "onboard_time": 1744192642,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 1590644,
@@ -283,6 +299,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 861762,
+      "num": 659095,
+      "word": "金秀贤防治法正式提交韩国会",
+      "onboard_time": 1744195524,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 861452,
       "num": 612332,
       "word": "金子涵脸都凹进去了",
@@ -361,6 +385,14 @@
       "onboard_time": 1744181541,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 694284,
+      "num": 694284,
+      "word": "美国人抢鸡蛋盛况",
+      "onboard_time": 1744193422,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 680554,
@@ -667,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368369,
+      "num": 2037177,
+      "word": "关于中美经贸关系这是中方立场",
+      "onboard_time": 1744190482,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 364314,
       "num": 387423,
       "word": "美国造iPhone一台要卖2.5万元",
@@ -697,14 +737,6 @@
       "onboard_time": 1744122204,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 356647,
-      "num": 1830007,
-      "word": "关于中美经贸关系这是中方立场",
-      "onboard_time": 1744190482,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 353889,
@@ -827,6 +859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 313847,
+      "num": 313847,
+      "word": "上海人均4千餐厅甜品是大象粪便",
+      "onboard_time": 1744196243,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313380,
       "num": 313380,
       "word": "蔡徐坤 南昌活动",
@@ -884,7 +924,7 @@
     },
     {
       "raw_hot": 299747,
-      "num": 299747,
+      "num": 571915,
       "word": "赴山海暂定5月播出",
       "onboard_time": 1744194321,
       "rank": 31,
@@ -968,6 +1008,14 @@
       "word": "特朗普称韩方高层正前往美国",
       "onboard_time": 1744126042,
       "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 287302,
+      "num": 287302,
+      "word": "商务部就中美经贸关系白皮书答问",
+      "onboard_time": 1744184362,
+      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -1083,14 +1131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 259013,
-      "num": 208452,
-      "word": "美国人抢鸡蛋盛况",
-      "onboard_time": 1744193422,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 255853,
       "num": 1506534,
       "word": "中国不惹事也绝不怕事",
@@ -1163,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232781,
-      "num": 232781,
-      "word": "商务部就中美经贸关系白皮书答问",
-      "onboard_time": 1744184362,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 232708,
       "num": 349246,
       "word": "严浩翔rap水平",
@@ -1235,6 +1267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 226669,
+      "num": 226669,
+      "word": "中方回应美方发布TikTok延期行政令",
+      "onboard_time": 1744195882,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 226542,
       "num": 226542,
       "word": "老师用三角尺砸伤女童案二审将宣判",
@@ -1256,6 +1296,14 @@
       "word": "陈都灵辛云来收官文",
       "onboard_time": 1744171703,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 220972,
+      "num": 313830,
+      "word": "乌云之上碎尸案凶手落网后自尽",
+      "onboard_time": 1744196602,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1411,6 +1459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 204382,
+      "num": 313201,
+      "word": "内娱终于拍出了武侠穿",
+      "onboard_time": 1744196662,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204270,
       "num": 207573,
       "word": "00后眼中的父母爱情拍成剧了",
@@ -1465,6 +1521,22 @@
       "onboard_time": 1744177344,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 198797,
+      "num": 198797,
+      "word": "赴山海特邀主演曹翠芬",
+      "onboard_time": 1744196784,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198554,
+      "num": 312048,
+      "word": "成毅打戏",
+      "onboard_time": 1744196481,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 196339,
@@ -1553,6 +1625,14 @@
       "onboard_time": 1744155141,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183410,
+      "num": 183410,
+      "word": "出口技术须经中国政府依法审批",
+      "onboard_time": 1744195282,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 183388,
@@ -1683,6 +1763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170769,
+      "num": 170769,
+      "word": "会计毕业生一块一顿饭",
+      "onboard_time": 1744193841,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170028,
       "num": 170028,
       "word": "古特雷斯称贸易战没有赢家",
@@ -1793,14 +1881,6 @@
       "onboard_time": 1744167082,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 158089,
-      "num": 158089,
-      "word": "出口技术须经中国政府依法审批",
-      "onboard_time": 1744195282,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 157347,
@@ -1915,14 +1995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150021,
-      "num": 150021,
-      "word": "会计毕业生一块一顿饭",
-      "onboard_time": 1744193841,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149942,
       "num": 326104,
       "word": "四月要看的演唱会好多",
@@ -2011,12 +2083,12 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 144466,
-      "num": 144466,
-      "word": "金秀贤防治法正式提交韩国会",
-      "onboard_time": 1744195524,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 143307,
+      "num": 490078,
+      "word": "国乒的偶像力量具象化了",
+      "onboard_time": 1744196421,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 142521,
@@ -2129,6 +2201,14 @@
       "onboard_time": 1744161203,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131070,
+      "num": 310764,
+      "word": "12家美国实体列入出口管制管控名单",
+      "onboard_time": 1744197504,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129956,
@@ -2411,6 +2491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81049,
+      "num": 500394,
+      "word": "陈都灵给温峥嵘递扇子",
+      "onboard_time": 1744197204,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80343,
       "num": 218832,
       "word": "又一波增持来了",
@@ -2425,6 +2513,14 @@
       "onboard_time": 1744160662,
       "rank": 49,
       "category": "网红,财经"
+    },
+    {
+      "raw_hot": 79810,
+      "num": 312721,
+      "word": "清融EWC人物聚焦特辑",
+      "onboard_time": 1744195882,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 78754,
@@ -2464,6 +2560,14 @@
       "word": "小欢喜陶子回来了",
       "onboard_time": 1744124602,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 71998,
+      "num": 194771,
+      "word": "权志龙是KAIST机械工程系客座教授",
+      "onboard_time": 1744195942,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -2539,6 +2643,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 66466,
+      "num": 295120,
+      "word": "美国遭遇股债双杀",
+      "onboard_time": 1744195822,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 65649,
       "num": 244168,
       "word": "东契奇回应被驱逐",
@@ -2595,12 +2707,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54976,
+      "num": 310297,
+      "word": "欢迎中国救援队伍回家",
+      "onboard_time": 1744197325,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 53870,
       "num": 53870,
       "word": "伊朗外长重申不会与美国直接谈判",
       "onboard_time": 1744137555,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 53459,
+      "num": 491706,
+      "word": "司机开智驾睡觉超速行驶百公里",
+      "onboard_time": 1744197023,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52420,
@@ -2731,6 +2859,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 34620,
+      "num": 310144,
+      "word": "注胶补漏收3500师傅自称差点亏钱",
+      "onboard_time": 1744196602,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33826,
       "num": 46545,
       "word": "缅甸地震致3645人死亡",
@@ -2857,6 +2993,14 @@
       "onboard_time": 1744170383,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 19030,
+      "num": 298112,
+      "word": "eStar要来WAW当店长了",
+      "onboard_time": 1744197565,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 18269,

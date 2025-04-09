@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/09 18:46:59
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/09 19:21:10
 </p>
 </blockquote>
 <p>
@@ -41,6 +41,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E9%A2%9D%E5%A4%96%E5%BE%81%E6%94%B650%25%E5%85%B3%E7%A8%8E%23" target="weibo">
 中方回应特朗普威胁额外征收50%关税（热度：10117420）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%BE%8E%E6%89%80%E6%9C%89%E8%BF%9B%E5%8F%A3%E5%95%86%E5%93%81%E5%85%B3%E7%A8%8E%E5%86%8D%E6%8F%90%E9%AB%9850%25%23" target="weibo">
+对美所有进口商品关税再提高50%（热度：6743219）
 </a>
 </li>
 
@@ -321,6 +327,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%8A%B6%E6%80%81%E4%B9%9F%E8%83%BD%E8%B0%83%E6%83%85%23" target="weibo">
+微信状态也能调情（热度：1961909）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%86%B2%E5%90%911000%E5%85%83%23" target="weibo">
 金价冲向1000元（热度：1941198）
 </a>
@@ -353,6 +365,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%81%E5%9B%9E%E6%97%B6%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 雁回时大结局（热度：1906715）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%BE%8E%E6%89%80%E6%9C%89%E8%BF%9B%E5%8F%A3%E5%95%86%E5%93%81%E5%8A%A0%E5%BE%8184%25%E5%85%B3%E7%A8%8E%23" target="weibo">
+对美所有进口商品加征84%关税（热度：1901742）
 </a>
 </li>
 
@@ -491,12 +509,6 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E5%90%8C%E6%84%8F%E5%88%86%E6%89%8B%E9%80%BC%E5%A5%B3%E5%8F%8B%E5%96%9D%E5%86%9C%E8%8D%AF%E8%BA%AB%E4%BA%A1%23" target="weibo">
 男子不同意分手逼女友喝农药身亡（热度：1664985）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%8A%B6%E6%80%81%E4%B9%9F%E8%83%BD%E8%B0%83%E6%83%85%23" target="weibo">
-微信状态也能调情（热度：1659307）
 </a>
 </li>
 
@@ -1785,6 +1797,12 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E9%98%B2%E6%B2%BB%E6%B3%95%E6%AD%A3%E5%BC%8F%E6%8F%90%E4%BA%A4%E9%9F%A9%E5%9B%BD%E4%BC%9A%23" target="weibo">
+金秀贤防治法正式提交韩国会（热度：861762）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%8C%BA%E5%AD%A9%E5%AD%90%E4%B8%BA%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%8F%91%E5%A3%B0%23" target="weibo">
 山区孩子为赵露思发声（热度：860898）
 </a>
@@ -2387,6 +2405,12 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E6%9D%80%E5%AE%B35%E5%B9%B4%E5%90%8E%E4%BB%8D%E6%97%A0%E6%B3%95%E5%AE%89%E8%91%AC%23" target="weibo">
 女生被前男友杀害5年后仍无法安葬（热度：694527）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%8A%A2%E9%B8%A1%E8%9B%8B%E7%9B%9B%E5%86%B5%23" target="weibo">
+美国人抢鸡蛋盛况（热度：694284）
 </a>
 </li>
 
@@ -4845,6 +4869,12 @@ Wendy泡泡发长文（热度：369749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E5%85%B3%E7%B3%BB%E8%BF%99%E6%98%AF%E4%B8%AD%E6%96%B9%E7%AB%8B%E5%9C%BA%23" target="weibo">
+关于中美经贸关系这是中方立场（热度：368369）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%91%9F%E5%88%AB%E8%B5%B0%23" target="weibo">
 阿瑟别走（热度：367534）
 </a>
@@ -5057,12 +5087,6 @@ deepseek崩了（热度：366398）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%8D%E9%BD%90%E8%88%9E%E5%9B%A2%E7%BB%99%E7%94%B2%E4%BA%A2%E5%93%A5%E8%A1%A8%E6%BC%94%E7%A7%91%E7%9B%AE%E4%B8%89%23" target="weibo">
 重庆不齐舞团给甲亢哥表演科目三（热度：356700）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E5%85%B3%E7%B3%BB%E8%BF%99%E6%98%AF%E4%B8%AD%E6%96%B9%E7%AB%8B%E5%9C%BA%23" target="weibo">
-关于中美经贸关系这是中方立场（热度：356647）
 </a>
 </li>
 
@@ -5739,6 +5763,12 @@ A股探底回升三大指数翻红（热度：315301）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%9D%874%E5%8D%83%E9%A4%90%E5%8E%85%E7%94%9C%E5%93%81%E6%98%AF%E5%A4%A7%E8%B1%A1%E7%B2%AA%E4%BE%BF%23" target="weibo">
+上海人均4千餐厅甜品是大象粪便（热度：313847）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%8D%97%E6%98%8C%E6%B4%BB%E5%8A%A8%23" target="weibo">
 蔡徐坤 南昌活动（热度：313380）
 </a>
@@ -5981,36 +6011,6 @@ A股探底回升三大指数翻红（热度：315301）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E5%B0%8F%E9%93%83%E5%AD%95%E8%82%9A%E7%85%A7%23" target="weibo">
 洪小铃孕肚照（热度：302123）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%20%E5%85%AD%E7%A6%8F%E7%8F%A0%E5%AE%9D%23" target="weibo">
-成毅 六福珠宝（热度：301340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E4%B8%87%E8%8A%B1%E4%B8%96%E7%95%8C%23" target="weibo">
-刘宇宁直播回应万花世界（热度：301102）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E7%99%8C%E7%BD%91%E7%BA%A2%E5%AE%9D%E7%82%AB%E6%98%AF%E5%86%A0%E5%86%9B%E5%8E%BB%E4%B8%96%23" target="weibo">
-抗癌网红宝炫是冠军去世（热度：301045）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E8%AE%A9%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%96%AF%E7%8B%82%E7%A7%8D%E8%8D%89%E4%B8%AD%E5%9B%BD%23" target="weibo">
-甲亢哥让外国人疯狂种草中国（热度：300776）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23NewJeans%E7%88%B6%E6%AF%8D%E5%87%BA%E7%8E%B0%E5%88%86%E6%AD%A7%23" target="weibo">
-NewJeans父母出现分歧（热度：300220）
 </a>
 </li>
 
