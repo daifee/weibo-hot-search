@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744164800619,
+  "endTime": 1744167950759,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -139,6 +139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1956544,
+      "num": 310301,
+      "word": "上海地铁一男子疑脱裤猥亵女乘客",
+      "onboard_time": 1744165942,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1910617,
       "num": 1910617,
       "word": "香港前特首梁振英次女猝逝",
@@ -209,6 +217,14 @@
       "onboard_time": 1744032264,
       "rank": 32,
       "category": "网红,作品衍生"
+    },
+    {
+      "raw_hot": 1549147,
+      "num": 1549147,
+      "word": "雷军现身小米总部略显消瘦",
+      "onboard_time": 1744165883,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1516843,
@@ -321,6 +337,14 @@
       "onboard_time": 1744014863,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1352230,
+      "num": 308751,
+      "word": "梁振英回应女儿去世",
+      "onboard_time": 1744164142,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1344206,
@@ -915,6 +939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 833257,
+      "num": 307774,
+      "word": "上海地铁",
+      "onboard_time": 1744165221,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 829818,
       "num": 519011,
       "word": "陈飞宇朋友圈",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1743927860,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 725519,
+      "num": 305645,
+      "word": "肖战 羽西",
+      "onboard_time": 1744166900,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 720139,
@@ -1427,6 +1467,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 610208,
+      "num": 610208,
+      "word": "特朗普关税措施或致200万美国人失业",
+      "onboard_time": 1744164004,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 607112,
       "num": 607112,
       "word": "美财长将美股崩盘甩锅DeepSeek",
@@ -1537,6 +1585,14 @@
       "onboard_time": 1743934101,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 568645,
+      "num": 615281,
+      "word": "宜兰地震",
+      "onboard_time": 1744164981,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 565906,
@@ -2547,12 +2603,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 363351,
+      "num": 301263,
+      "word": "萧敬腾说不会跟妻子接真人秀",
+      "onboard_time": 1744158444,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362748,
       "num": 362748,
       "word": "马斯克坐不住了",
       "onboard_time": 1744109122,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 362069,
+      "num": 299078,
+      "word": "一部iPhone看美加征关税代价",
+      "onboard_time": 1744165822,
+      "rank": 21,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 361766,
@@ -2803,6 +2875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330892,
+      "num": 330892,
+      "word": "美国内部互呛",
+      "onboard_time": 1744165822,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 330121,
       "num": 353863,
       "word": "王心凌穿走了莫奈的花园",
@@ -2955,6 +3035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 311727,
+      "num": 311727,
+      "word": "A股探底回升三大指数翻红",
+      "onboard_time": 1744165521,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 311367,
       "num": 444544,
       "word": "赵露思告黑案进度",
@@ -3057,6 +3145,14 @@
       "onboard_time": 1744125683,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300534,
+      "num": 300534,
+      "word": "东契奇被驱逐",
+      "onboard_time": 1744167562,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 300530,
@@ -3579,6 +3675,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 262860,
+      "num": 262860,
+      "word": "原来胃这么辛苦 我要请它吃饭",
+      "onboard_time": 1744166481,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260993,
       "num": 260993,
       "word": "念无双结局",
@@ -3953,6 +4057,14 @@
       "onboard_time": 1744096643,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237412,
+      "num": 237412,
+      "word": "骗子被骗收到5万冥币当场破防",
+      "onboard_time": 1744166601,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236731,
@@ -4419,6 +4531,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 216064,
+      "num": 299862,
+      "word": "车机黑马杀疯了",
+      "onboard_time": 1744166900,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 216031,
       "num": 216031,
       "word": "大侦探古装本",
@@ -4449,14 +4569,6 @@
       "onboard_time": 1743870439,
       "rank": 43,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 214962,
-      "num": 214962,
-      "word": "梁振英回应女儿去世",
-      "onboard_time": 1744164142,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 214904,
@@ -4625,6 +4737,14 @@
       "onboard_time": 1744081223,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208589,
+      "num": 208589,
+      "word": "李斌和刘强东一起吃外卖",
+      "onboard_time": 1744167262,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 208449,
@@ -4889,6 +5009,14 @@
       "onboard_time": 1744086325,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 198976,
+      "num": 300135,
+      "word": "甲亢哥中国行收获跨国友情",
+      "onboard_time": 1744167622,
+      "rank": 18,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 198720,
@@ -5883,6 +6011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176076,
+      "num": 176076,
+      "word": "崩铁开门",
+      "onboard_time": 1744167501,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175761,
       "num": 175761,
       "word": "金饰价涨回927元",
@@ -6057,6 +6193,14 @@
       "onboard_time": 1744007002,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 169322,
+      "num": 169322,
+      "word": "爸爸十年不舍换洗衣机致滚桶飞出",
+      "onboard_time": 1744166062,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169084,
@@ -6353,14 +6497,6 @@
       "onboard_time": 1744031364,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162143,
-      "num": 268079,
-      "word": "萧敬腾说不会跟妻子接真人秀",
-      "onboard_time": 1744158444,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 161671,
@@ -6707,6 +6843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154143,
+      "num": 154143,
+      "word": "云南省考成绩",
+      "onboard_time": 1744167082,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 153899,
       "num": 153899,
       "word": "坏了 我没看过柯南",
@@ -6939,6 +7083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148753,
+      "num": 235719,
+      "word": "gidle五月回归",
+      "onboard_time": 1744167442,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 148747,
       "num": 239007,
       "word": "清明假期后第1天",
@@ -6995,6 +7147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147358,
+      "num": 235583,
+      "word": "甲亢哥微博第1条视频是大张伟",
+      "onboard_time": 1744164981,
+      "rank": 29,
+      "category": "网红,艺人"
+    },
+    {
       "raw_hot": 147075,
       "num": 210667,
       "word": "低息消费贷为啥被叫停",
@@ -7019,12 +7179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146781,
+      "num": 146781,
+      "word": "特朗普关税地图炮砸向美国老百姓",
+      "onboard_time": 1744165402,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146194,
       "num": 146194,
       "word": "马斯克痛批纳瓦罗",
       "onboard_time": 1744162884,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145969,
+      "num": 145969,
+      "word": "台湾宜兰县发生4.6级地震",
+      "onboard_time": 1744165402,
+      "rank": 44,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 145769,
@@ -7225,6 +7401,22 @@
       "onboard_time": 1743863004,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140141,
+      "num": 140141,
+      "word": "股票",
+      "onboard_time": 1744165462,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 139948,
+      "num": 139948,
+      "word": "董宇辉自爆多年自我精神剥削",
+      "onboard_time": 1744165281,
+      "rank": 48,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 139940,
@@ -9499,14 +9691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76920,
-      "num": 340121,
-      "word": "特朗普关税措施或致200万美国人失业",
-      "onboard_time": 1744164004,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 76196,
       "num": 76196,
       "word": "浙江自然博物院发布情况说明",
@@ -10089,6 +10273,14 @@
       "onboard_time": 1744067420,
       "rank": 49,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 50990,
+      "num": 172435,
+      "word": "承德一养老院火灾致20人死",
+      "onboard_time": 1744167863,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50772,
