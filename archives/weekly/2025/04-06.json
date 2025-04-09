@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744176256285,
+  "endTime": 1744177268099,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2072201,
+      "num": 2072201,
+      "word": "张万森 下人了",
+      "onboard_time": 1744174044,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2051016,
       "num": 675868,
       "word": "上海地铁一男子疑脱裤猥亵女乘客",
@@ -169,14 +177,6 @@
       "onboard_time": 1743933500,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1850064,
-      "num": 1850064,
-      "word": "张万森 下人了",
-      "onboard_time": 1744174044,
-      "rank": 0,
-      "category": "幽默"
     },
     {
       "raw_hot": 1817527,
@@ -243,6 +243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1522814,
+      "num": 1522814,
+      "word": "美国关税大棒或致国内蛋价再次上涨",
+      "onboard_time": 1744171944,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1516843,
       "num": 1516843,
       "word": "熔断",
@@ -299,14 +307,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1442431,
-      "num": 1442431,
-      "word": "美国关税大棒或致国内蛋价再次上涨",
-      "onboard_time": 1744171944,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 1428320,
       "num": 501844,
       "word": "时代峰峻 女练习生",
@@ -337,6 +337,14 @@
       "onboard_time": 1744017082,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1375870,
+      "num": 1375870,
+      "word": "世纪婴儿去世鉴定结果已出",
+      "onboard_time": 1744175964,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1372637,
@@ -931,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 883817,
+      "num": 619115,
+      "word": "孔雪儿回复金孔cp粉",
+      "onboard_time": 1744175543,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 871707,
       "num": 871707,
       "word": "美国关税",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1744072524,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 768191,
+      "num": 768191,
+      "word": "美新关税政策生效",
+      "onboard_time": 1744175003,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 767126,
@@ -1499,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 619115,
-      "num": 619115,
-      "word": "孔雪儿回复金孔cp粉",
-      "onboard_time": 1744175543,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 617100,
       "num": 446352,
       "word": "刘浩存 小马宝莉",
@@ -1753,6 +1769,14 @@
       "onboard_time": 1743867021,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 531212,
+      "num": 531212,
+      "word": "马克龙批特朗普关税措施",
+      "onboard_time": 1744174465,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 530941,
@@ -2027,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472866,
+      "num": 725486,
+      "word": "人民网评喊李现打鸟背后的生态自信",
+      "onboard_time": 1744173985,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469624,
       "num": 469624,
       "word": "19天班后就是五一假期",
@@ -2171,14 +2203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 440974,
-      "num": 485104,
-      "word": "马克龙批特朗普关税措施",
-      "onboard_time": 1744174465,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 437637,
       "num": 437637,
       "word": "淮水竹亭定档",
@@ -2225,14 +2249,6 @@
       "onboard_time": 1743995122,
       "rank": 43,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 430449,
-      "num": 483764,
-      "word": "人民网评喊李现打鸟背后的生态自信",
-      "onboard_time": 1744173985,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 429146,
@@ -2843,6 +2859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 353889,
+      "num": 482366,
+      "word": "雁回时",
+      "onboard_time": 1744174105,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353765,
       "num": 318268,
       "word": "小猫一气之下怒吃了两口冻干",
@@ -3057,14 +3081,6 @@
       "onboard_time": 1744025244,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 330008,
-      "num": 482366,
-      "word": "雁回时",
-      "onboard_time": 1744174105,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 329588,
@@ -3539,6 +3555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289424,
+      "num": 289424,
+      "word": "王者荣耀",
+      "onboard_time": 1744018763,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289410,
       "num": 289410,
       "word": "特朗普顾问发声回怼马斯克",
@@ -3553,6 +3577,14 @@
       "onboard_time": 1744093281,
       "rank": 25,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 288108,
+      "num": 288108,
+      "word": "哪吒2票房突破156亿",
+      "onboard_time": 1744175664,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 287392,
@@ -3697,6 +3729,14 @@
       "onboard_time": 1743941301,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 275843,
+      "num": 474654,
+      "word": "顺风车司机高速上智驾脱手剪指甲",
+      "onboard_time": 1744174944,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275744,
@@ -3851,6 +3891,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 265933,
+      "num": 265933,
+      "word": "韩国大学食堂让人眼前一黑又一黑",
+      "onboard_time": 1744172544,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265767,
       "num": 265767,
       "word": "男子扫墓时刮彩票中万元大奖",
@@ -3889,14 +3937,6 @@
       "onboard_time": 1743942561,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 263648,
-      "num": 619921,
-      "word": "美新关税政策生效",
-      "onboard_time": 1744175003,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 263108,
@@ -4291,14 +4331,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 237871,
-      "num": 237871,
-      "word": "王者荣耀",
-      "onboard_time": 1744018763,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 237790,
       "num": 237790,
       "word": "三只羊内部人士回应复播时间",
@@ -4339,14 +4371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236045,
-      "num": 236045,
-      "word": "韩国大学食堂让人眼前一黑又一黑",
-      "onboard_time": 1744172544,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 235973,
       "num": 235973,
       "word": "美媒曝美财长受不了荒谬的对等关税",
@@ -4368,6 +4392,14 @@
       "word": "肖战谍报上不封顶上海置景",
       "onboard_time": 1744035744,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234350,
+      "num": 373199,
+      "word": "陈都灵温峥嵘牵手贴贴",
+      "onboard_time": 1744176083,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -4419,12 +4451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232065,
-      "num": 247439,
-      "word": "世纪婴儿去世鉴定结果已出",
-      "onboard_time": 1744175964,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 232268,
+      "num": 232268,
+      "word": "刘宇宁说做艺人挨骂是收入的一部分",
+      "onboard_time": 1744176324,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 231991,
@@ -4433,14 +4465,6 @@
       "onboard_time": 1743995963,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230913,
-      "num": 246083,
-      "word": "哪吒2票房突破156亿",
-      "onboard_time": 1744175664,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 230649,
@@ -4932,7 +4956,7 @@
     },
     {
       "raw_hot": 213540,
-      "num": 1371664,
+      "num": 1437949,
       "word": "贸易壁垒挡不住经济全球化",
       "onboard_time": 1744170983,
       "rank": 2,
@@ -5025,6 +5049,14 @@
       "onboard_time": 1743926781,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209527,
+      "num": 209527,
+      "word": "观鹤笔记 陈丽君反串",
+      "onboard_time": 1744176562,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 209162,
@@ -5219,6 +5251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204270,
+      "num": 207573,
+      "word": "00后眼中的父母爱情拍成剧了",
+      "onboard_time": 1744176622,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203717,
       "num": 203717,
       "word": "银河左岸音乐节",
@@ -5249,6 +5289,14 @@
       "onboard_time": 1744125742,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202930,
+      "num": 202930,
+      "word": "卢昱晓领衔主演榜上佳婿",
+      "onboard_time": 1744176382,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 202414,
@@ -5417,6 +5465,14 @@
       "onboard_time": 1743991281,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196616,
+      "num": 196616,
+      "word": "美债",
+      "onboard_time": 1744176324,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 196598,
@@ -6587,6 +6643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168712,
+      "num": 675653,
+      "word": "对美二十多项反制合理合情合法",
+      "onboard_time": 1744175964,
+      "rank": 23,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 168637,
       "num": 168637,
       "word": "董力把家人气得打电话兴师问罪",
@@ -6835,6 +6899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162897,
+      "num": 186047,
+      "word": "沈月唐装古风",
+      "onboard_time": 1744176202,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162840,
       "num": 175902,
       "word": "女子早退1分钟遭辞退公司被判违法",
@@ -7043,14 +7115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158746,
-      "num": 186047,
-      "word": "沈月唐装古风",
-      "onboard_time": 1744176202,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 158566,
       "num": 158566,
       "word": "陈幸同钱天一退赛",
@@ -7243,6 +7307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154472,
+      "num": 154472,
+      "word": "林君怡 朱天天",
+      "onboard_time": 1744177162,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154266,
       "num": 154266,
       "word": "严浩翔出发录制新说唱",
@@ -7305,6 +7377,14 @@
       "onboard_time": 1744037125,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152613,
+      "num": 152613,
+      "word": "柯淳再演乖乖女名场面出不了戏",
+      "onboard_time": 1744177044,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 152531,
@@ -7393,6 +7473,14 @@
       "onboard_time": 1743989600,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 150171,
+      "num": 150171,
+      "word": "万古最强宗开机",
+      "onboard_time": 1744175903,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 150094,
@@ -7635,6 +7723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145385,
+      "num": 243662,
+      "word": "上海地铁男子猥亵乘客女子挺身而出",
+      "onboard_time": 1744175964,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145360,
       "num": 198551,
       "word": "鸣潮",
@@ -7665,6 +7761,14 @@
       "onboard_time": 1744094903,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144480,
+      "num": 144480,
+      "word": "甲亢哥有电子翻译了",
+      "onboard_time": 1744174404,
+      "rank": 47,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 144439,
@@ -8048,14 +8152,6 @@
       "word": "值得爱",
       "onboard_time": 1744042461,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 135700,
-      "num": 237395,
-      "word": "陈都灵温峥嵘牵手贴贴",
-      "onboard_time": 1744176083,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -10179,14 +10275,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 75068,
-      "num": 474654,
-      "word": "顺风车司机高速上智驾脱手剪指甲",
-      "onboard_time": 1744174944,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74666,
       "num": 74666,
       "word": "钓鱼晒成炭黑大爷走红后朋友发声",
@@ -10209,14 +10297,6 @@
       "onboard_time": 1744002203,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 73161,
-      "num": 348301,
-      "word": "对美二十多项反制合理合情合法",
-      "onboard_time": 1744175964,
-      "rank": 23,
-      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 73158,
@@ -10769,14 +10849,6 @@
       "onboard_time": 1744067420,
       "rank": 49,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 51822,
-      "num": 243662,
-      "word": "上海地铁男子猥亵乘客女子挺身而出",
-      "onboard_time": 1744175964,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50772,

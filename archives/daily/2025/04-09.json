@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744176256285,
+  "endTime": 1744177268099,
   "band_list": [
     {
       "raw_hot": 2811443,
@@ -19,6 +19,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 2072201,
+      "num": 2072201,
+      "word": "张万森 下人了",
+      "onboard_time": 1744174044,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2051016,
       "num": 675868,
       "word": "上海地铁一男子疑脱裤猥亵女乘客",
@@ -35,20 +43,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1850064,
-      "num": 1850064,
-      "word": "张万森 下人了",
-      "onboard_time": 1744174044,
-      "rank": 0,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1549147,
       "num": 1549147,
       "word": "雷军现身小米总部略显消瘦",
       "onboard_time": 1744165883,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1522814,
+      "num": 1522814,
+      "word": "美国关税大棒或致国内蛋价再次上涨",
+      "onboard_time": 1744171944,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1487159,
@@ -67,12 +75,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1442431,
-      "num": 1442431,
-      "word": "美国关税大棒或致国内蛋价再次上涨",
-      "onboard_time": 1744171944,
-      "rank": 21,
-      "category": "国际时政"
+      "raw_hot": 1375870,
+      "num": 1375870,
+      "word": "世纪婴儿去世鉴定结果已出",
+      "onboard_time": 1744175964,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1272542,
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 883817,
+      "num": 619115,
+      "word": "孔雪儿回复金孔cp粉",
+      "onboard_time": 1744175543,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 871707,
       "num": 871707,
       "word": "美国关税",
@@ -171,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 768191,
+      "num": 768191,
+      "word": "美新关税政策生效",
+      "onboard_time": 1744175003,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 680554,
       "num": 379262,
       "word": "金敏喜前男友是李洙赫",
@@ -185,14 +209,6 @@
       "onboard_time": 1744173564,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 619115,
-      "num": 619115,
-      "word": "孔雪儿回复金孔cp粉",
-      "onboard_time": 1744175543,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 614133,
@@ -225,6 +241,14 @@
       "onboard_time": 1744169243,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 531212,
+      "num": 531212,
+      "word": "马克龙批特朗普关税措施",
+      "onboard_time": 1744174465,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 510344,
@@ -275,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472866,
+      "num": 725486,
+      "word": "人民网评喊李现打鸟背后的生态自信",
+      "onboard_time": 1744173985,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468349,
       "num": 468349,
       "word": "特朗普称美国伊朗高层将直接会谈",
@@ -311,22 +343,6 @@
       "num": 281629,
       "word": "洪尚秀金敏喜得子",
       "onboard_time": 1744154000,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 440974,
-      "num": 485104,
-      "word": "马克龙批特朗普关税措施",
-      "onboard_time": 1744174465,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 430449,
-      "num": 483764,
-      "word": "人民网评喊李现打鸟背后的生态自信",
-      "onboard_time": 1744173985,
       "rank": 15,
       "category": "艺人"
     },
@@ -419,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 353889,
+      "num": 482366,
+      "word": "雁回时",
+      "onboard_time": 1744174105,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353122,
       "num": 213664,
       "word": "电脑微信会惩罚每一个分手的人",
@@ -449,14 +473,6 @@
       "onboard_time": 1744169364,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330008,
-      "num": 482366,
-      "word": "雁回时",
-      "onboard_time": 1744174105,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 328467,
@@ -571,6 +587,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289424,
+      "num": 289424,
+      "word": "王者荣耀",
+      "onboard_time": 1744175483,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 288108,
+      "num": 288108,
+      "word": "哪吒2票房突破156亿",
+      "onboard_time": 1744175664,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 287392,
       "num": 287392,
       "word": "特朗普称韩方高层正前往美国",
@@ -603,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275843,
+      "num": 474654,
+      "word": "顺风车司机高速上智驾脱手剪指甲",
+      "onboard_time": 1744174944,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274558,
       "num": 508655,
       "word": "河北老年公寓火灾致20死负责人被控制",
@@ -619,20 +659,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265933,
+      "num": 265933,
+      "word": "韩国大学食堂让人眼前一黑又一黑",
+      "onboard_time": 1744172544,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263997,
       "num": 258480,
       "word": "温州18岁失联男孩确认身亡",
       "onboard_time": 1744124363,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263648,
-      "num": 619921,
-      "word": "美新关税政策生效",
-      "onboard_time": 1744175003,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 260586,
@@ -675,14 +715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 237871,
-      "num": 237871,
-      "word": "王者荣耀",
-      "onboard_time": 1744175483,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 237030,
       "num": 237030,
       "word": "恋与深空",
@@ -691,12 +723,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 236045,
-      "num": 236045,
-      "word": "韩国大学食堂让人眼前一黑又一黑",
-      "onboard_time": 1744172544,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 234350,
+      "num": 373199,
+      "word": "陈都灵温峥嵘牵手贴贴",
+      "onboard_time": 1744176083,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 232708,
@@ -707,20 +739,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232065,
-      "num": 247439,
-      "word": "世纪婴儿去世鉴定结果已出",
-      "onboard_time": 1744175964,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230913,
-      "num": 246083,
-      "word": "哪吒2票房突破156亿",
-      "onboard_time": 1744175664,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 232268,
+      "num": 232268,
+      "word": "刘宇宁说做艺人挨骂是收入的一部分",
+      "onboard_time": 1744176324,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 230044,
@@ -812,11 +836,19 @@
     },
     {
       "raw_hot": 213540,
-      "num": 1371664,
+      "num": 1437949,
       "word": "贸易壁垒挡不住经济全球化",
       "onboard_time": 1744170983,
       "rank": 2,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 209527,
+      "num": 209527,
+      "word": "观鹤笔记 陈丽君反串",
+      "onboard_time": 1744176562,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 207686,
@@ -851,12 +883,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204270,
+      "num": 207573,
+      "word": "00后眼中的父母爱情拍成剧了",
+      "onboard_time": 1744176622,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202930,
+      "num": 202930,
+      "word": "卢昱晓领衔主演榜上佳婿",
+      "onboard_time": 1744176382,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198976,
       "num": 553060,
       "word": "甲亢哥中国行收获跨国友情",
       "onboard_time": 1744167622,
       "rank": 18,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 196616,
+      "num": 196616,
+      "word": "美债",
+      "onboard_time": 1744176324,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 196339,
@@ -971,6 +1027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168712,
+      "num": 675653,
+      "word": "对美二十多项反制合理合情合法",
+      "onboard_time": 1744175964,
+      "rank": 23,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 168486,
       "num": 168486,
       "word": "四川泸州一面包车撞塌民房已致5死",
@@ -993,6 +1057,14 @@
       "onboard_time": 1744158803,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162897,
+      "num": 186047,
+      "word": "沈月唐装古风",
+      "onboard_time": 1744176202,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161994,
@@ -1027,14 +1099,6 @@
       "category": "财经,数码"
     },
     {
-      "raw_hot": 158746,
-      "num": 186047,
-      "word": "沈月唐装古风",
-      "onboard_time": 1744176202,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 158151,
       "num": 158151,
       "word": "云南省考成绩",
@@ -1059,6 +1123,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 154472,
+      "num": 154472,
+      "word": "林君怡 朱天天",
+      "onboard_time": 1744177162,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154000,
       "num": 301212,
       "word": "87岁吴彦姝打篮球",
@@ -1081,6 +1153,22 @@
       "onboard_time": 1744115121,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152613,
+      "num": 152613,
+      "word": "柯淳再演乖乖女名场面出不了戏",
+      "onboard_time": 1744177044,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150171,
+      "num": 150171,
+      "word": "万古最强宗开机",
+      "onboard_time": 1744175903,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 149942,
@@ -1131,6 +1219,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145385,
+      "num": 243662,
+      "word": "上海地铁男子猥亵乘客女子挺身而出",
+      "onboard_time": 1744175964,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144480,
+      "num": 144480,
+      "word": "甲亢哥有电子翻译了",
+      "onboard_time": 1744174404,
+      "rank": 47,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 140141,
       "num": 140141,
       "word": "股票",
@@ -1160,14 +1264,6 @@
       "word": "念无双全员be",
       "onboard_time": 1744118362,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 135700,
-      "num": 237395,
-      "word": "陈都灵温峥嵘牵手贴贴",
-      "onboard_time": 1744176083,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1475,14 +1571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75068,
-      "num": 474654,
-      "word": "顺风车司机高速上智驾脱手剪指甲",
-      "onboard_time": 1744174944,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74138,
       "num": 74138,
       "word": "徐杰晚安",
@@ -1497,14 +1585,6 @@
       "onboard_time": 1744124602,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73161,
-      "num": 348301,
-      "word": "对美二十多项反制合理合情合法",
-      "onboard_time": 1744175964,
-      "rank": 23,
-      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 70653,
@@ -1617,14 +1697,6 @@
       "onboard_time": 1744133357,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 51822,
-      "num": 243662,
-      "word": "上海地铁男子猥亵乘客女子挺身而出",
-      "onboard_time": 1744175964,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47824,
