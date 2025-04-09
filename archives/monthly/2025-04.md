@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/10 06:23:15
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/10 06:39:26
 </p>
 </blockquote>
 <p>
@@ -87,6 +87,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E5%8A%A0%E5%85%B3%E7%A8%8E%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%86%B7%E9%9D%99%23" target="weibo">
+美国被加关税后特朗普呼吁冷静（热度：4024834）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E7%AB%A5%E6%80%BC%E6%88%BF%E7%90%AA%23" target="weibo">
 叶童怼房琪（热度：3529783）
 </a>
@@ -131,12 +137,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%20%E5%B0%B4%E5%B0%AC%23" target="weibo">
 芒果 尴尬（热度：2982394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E5%8A%A0%E5%85%B3%E7%A8%8E%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%86%B7%E9%9D%99%23" target="weibo">
-美国被加关税后特朗普呼吁冷静（热度：2957222）
 </a>
 </li>
 
@@ -5739,6 +5739,12 @@ SM查理呢（热度：335430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E9%87%91%E7%89%8C%E5%A2%9E%E8%87%B36%E5%9D%97%23" target="weibo">
+洛杉矶奥运会乒乓球金牌增至6块（热度：328122）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E7%91%9E%E5%A3%AB%E8%A2%AB%E5%81%B6%E9%81%87%23" target="weibo">
 倪妮瑞士被偶遇（热度：327288）
 </a>
@@ -6005,12 +6011,6 @@ A股探底回升三大指数翻红（热度：315301）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8A%A1%E9%83%A8%E6%96%B0%E9%97%BB%E5%8F%91%E8%A8%80%E4%BA%BA%E5%B0%B1%E7%BE%8E%E6%96%B9%E5%A8%81%E8%83%81%E5%8D%87%E7%BA%A7%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%A8%8E%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D%23" target="weibo">
 商务部新闻发言人就美方威胁升级对华关税发表谈话（热度：311896）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%901.5%E4%B8%87%E6%9C%BA%E7%A5%A8%E6%AC%BE%E9%80%80%E7%A5%A8%E8%A2%AB%E6%89%A31.4%E4%B8%87%23" target="weibo">
-男子1.5万机票款退票被扣1.4万（热度：311781）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744237395504,
+  "endTime": 1744238366047,
   "band_list": [
     {
       "raw_hot": 6521543,
@@ -11,8 +11,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 2957222,
-      "num": 2957222,
+      "raw_hot": 4024834,
+      "num": 4024834,
       "word": "美国被加关税后特朗普呼吁冷静",
       "onboard_time": 1744214184,
       "rank": 1,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328122,
+      "num": 328122,
+      "word": "洛杉矶奥运会乒乓球金牌增至6块",
+      "onboard_time": 1744236195,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298277,
       "num": 755835,
       "word": "折腰 四月空降",
@@ -179,6 +187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 269607,
+      "num": 269607,
+      "word": "家长建议小学延时至6点半放学",
+      "onboard_time": 1744200986,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261855,
       "num": 261855,
       "word": "马斯克游戏直播太菜被骂下播",
@@ -193,14 +209,6 @@
       "onboard_time": 1744211906,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 247114,
-      "num": 247114,
-      "word": "家长建议小学延时至6点半放学",
-      "onboard_time": 1744200986,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 233282,
@@ -227,20 +235,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222492,
+      "num": 222492,
+      "word": "加拿大对美加征关税4月9日生效",
+      "onboard_time": 1744226294,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 217716,
       "num": 217716,
       "word": "外交部回应美国对华征收104%关税",
       "onboard_time": 1744184001,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 214302,
-      "num": 214302,
-      "word": "洛杉矶奥运会乒乓球金牌增至6块",
-      "onboard_time": 1744236195,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 189622,
@@ -257,14 +265,6 @@
       "onboard_time": 1744200085,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182431,
-      "num": 182431,
-      "word": "加拿大对美加征关税4月9日生效",
-      "onboard_time": 1744226294,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 174182,
@@ -371,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102248,
+      "num": 962723,
+      "word": "中方绝对不接受美方极限施压霸道霸凌",
+      "onboard_time": 1744205427,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100703,
       "num": 100703,
       "word": "金秀贤防治法正式提交韩国会",
@@ -403,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85372,
-      "num": 962723,
-      "word": "中方绝对不接受美方极限施压霸道霸凌",
-      "onboard_time": 1744205427,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 79948,
       "num": 86195,
       "word": "要相信自己的节奏",
@@ -435,6 +435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69693,
+      "num": 69693,
+      "word": "美国很多小农场主或将破产",
+      "onboard_time": 1744230134,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65197,
       "num": 259971,
       "word": "金丝猴宝宝也爱撒娇贴贴",
@@ -443,12 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56043,
-      "num": 56043,
-      "word": "美国很多小农场主或将破产",
-      "onboard_time": 1744230134,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 49983,
+      "num": 123708,
+      "word": "黄觉谈和肖战合作藏海传",
+      "onboard_time": 1744233016,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 42627,
@@ -459,28 +467,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39460,
-      "num": 64848,
-      "word": "白鹿 爱能克服远距离",
-      "onboard_time": 1744218977,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 39122,
-      "num": 39122,
+      "raw_hot": 42369,
+      "num": 42369,
       "word": "道琼斯",
       "onboard_time": 1744213646,
       "rank": 38,
       "category": "财经"
     },
     {
-      "raw_hot": 34454,
-      "num": 58389,
-      "word": "黄觉谈和肖战合作藏海传",
-      "onboard_time": 1744233016,
+      "raw_hot": 39460,
+      "num": 64848,
+      "word": "白鹿 爱能克服远距离",
+      "onboard_time": 1744218977,
       "rank": 49,
-      "category": "综艺"
+      "category": "剧集"
     },
     {
       "raw_hot": 27289,
