@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/10 00:31:37 ~ 2025/04/10 03:20:34
+本榜单时间：2025/04/10 00:31:37 ~ 2025/04/10 03:36:20
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ PUBG（热度：73114）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E4%E6%9C%889%E6%97%A5%E7%94%9F%E6%95%88%23" target="weibo">
+加拿大对美加征关税4月9日生效（热度：24735）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%B3%E6%8C%87%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7%23" target="weibo">
 纳指涨幅扩大（热度：24593）
 </a>
@@ -389,12 +395,6 @@ PUBG（热度：73114）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E4%B8%8D%E6%83%B3%E5%86%8D%E5%BD%93%E5%BF%B5%E6%97%A7%E7%9A%84%E5%B0%8F%E5%AD%A9%E4%BA%86%23" target="weibo">
 穆祉丞不想再当念旧的小孩了（热度：19439）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E4%E6%9C%889%E6%97%A5%E7%94%9F%E6%95%88%23" target="weibo">
-加拿大对美加征关税4月9日生效（热度：10354）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744226434703,
+  "endTime": 1744227380959,
   "band_list": [
     {
       "raw_hot": 6521543,
@@ -459,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24735,
+      "num": 138045,
+      "word": "加拿大对美加征关税4月9日生效",
+      "onboard_time": 1744226294,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24593,
       "num": 64841,
       "word": "纳指涨幅扩大",
@@ -505,14 +513,6 @@
       "onboard_time": 1744224315,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 10354,
-      "num": 30370,
-      "word": "加拿大对美加征关税4月9日生效",
-      "onboard_time": 1744226294,
-      "rank": 34,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
