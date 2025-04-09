@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744208754818,
+  "endTime": 1744209917551,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -129,6 +129,14 @@
       "onboard_time": 1744172124,
       "rank": 1,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 2447824,
+      "num": 2447824,
+      "word": "中国赴美游客风险提示",
+      "onboard_time": 1744207768,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2425718,
@@ -819,14 +827,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1091081,
-      "num": 1091081,
-      "word": "中国赴美游客风险提示",
-      "onboard_time": 1744207768,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1081109,
       "num": 1171711,
       "word": "潘玮柏减重20斤等于减龄20岁",
@@ -841,6 +841,14 @@
       "onboard_time": 1744199485,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1069442,
+      "num": 1069442,
+      "word": "黄子韬卫生巾工厂进展",
+      "onboard_time": 1744209087,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1063349,
@@ -1923,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 601658,
+      "num": 4995455,
+      "word": "外媒称美国的痛苦是自作自受",
+      "onboard_time": 1744205668,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 599595,
       "num": 599595,
       "word": "辞职看世界女教师10年后怎么样了",
@@ -1969,14 +1985,6 @@
       "onboard_time": 1743973093,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 594920,
-      "num": 4995455,
-      "word": "外媒称美国的痛苦是自作自受",
-      "onboard_time": 1744205668,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 586925,
@@ -2459,6 +2467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 466953,
+      "num": 549918,
+      "word": "美知名投资人称美小企业将大量破产",
+      "onboard_time": 1744207585,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 465685,
       "num": 465685,
       "word": "提前还房贷变难了",
@@ -2657,6 +2673,14 @@
       "onboard_time": 1743995122,
       "rank": 43,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 429646,
+      "num": 818278,
+      "word": "教育部发布2025第1号留学预警",
+      "onboard_time": 1744209268,
+      "rank": 9,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 429146,
@@ -2931,6 +2955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397982,
+      "num": 604779,
+      "word": "张若昀终于用上祺贵人的梗了",
+      "onboard_time": 1744205249,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396639,
       "num": 565182,
       "word": "现在还能入手金条金饰吗",
@@ -3009,14 +3041,6 @@
       "onboard_time": 1744086685,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390104,
-      "num": 604779,
-      "word": "张若昀终于用上祺贵人的梗了",
-      "onboard_time": 1744205249,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 388876,
@@ -3193,6 +3217,14 @@
       "onboard_time": 1743993504,
       "rank": 15,
       "category": "网红,艺人"
+    },
+    {
+      "raw_hot": 367406,
+      "num": 367406,
+      "word": "白冰冰女儿",
+      "onboard_time": 1744206867,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 366398,
@@ -3641,14 +3673,6 @@
       "onboard_time": 1744029201,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 322065,
-      "num": 322065,
-      "word": "白冰冰女儿",
-      "onboard_time": 1744206867,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 321466,
@@ -4745,6 +4769,14 @@
       "onboard_time": 1744010182,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254672,
+      "num": 254672,
+      "word": "倪虹洁 蒋一侨",
+      "onboard_time": 1744208426,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 254195,
@@ -6435,6 +6467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 195749,
+      "num": 195749,
+      "word": "美国国债抛售再次恢复",
+      "onboard_time": 1744209506,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 195659,
       "num": 195659,
       "word": "微信这两个功能你一辈子不许动",
@@ -7475,14 +7515,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 176552,
-      "num": 549918,
-      "word": "美知名投资人称美小企业将大量破产",
-      "onboard_time": 1744207585,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 176402,
       "num": 556860,
       "word": "中方详细罗列美方对等关税损人害己",
@@ -7979,12 +8011,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164496,
+      "num": 579793,
+      "word": "辛云来说遇到了有爱同频的观众",
+      "onboard_time": 1744209146,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164452,
       "num": 164452,
       "word": "唐尚珺转专业希望落空",
       "onboard_time": 1744205607,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 164332,
+      "num": 164332,
+      "word": "排骨玉米胡萝卜汤",
+      "onboard_time": 1744208727,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 164292,
@@ -8009,14 +8057,6 @@
       "onboard_time": 1744158803,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163928,
-      "num": 163928,
-      "word": "倪虹洁 蒋一侨",
-      "onboard_time": 1744208426,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 163728,
@@ -8393,6 +8433,14 @@
       "onboard_time": 1743924559,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 156745,
+      "num": 156745,
+      "word": "华尔街大佬警告不要逢低买入美股",
+      "onboard_time": 1744208909,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 156700,
@@ -9187,6 +9235,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 140333,
+      "num": 140333,
+      "word": "198元宝格丽蛋糕疑发霉酒店拒承认",
+      "onboard_time": 1744209868,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140312,
       "num": 393189,
       "word": "张良新皮肤免费送",
@@ -9321,14 +9377,6 @@
       "onboard_time": 1744117823,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139157,
-      "num": 139157,
-      "word": "排骨玉米胡萝卜汤",
-      "onboard_time": 1744208727,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 139028,
@@ -10049,6 +10097,14 @@
       "onboard_time": 1743898699,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124155,
+      "num": 333921,
+      "word": "梁王组合亚锦赛晋级16强",
+      "onboard_time": 1744208909,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 124139,
@@ -12355,6 +12411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49890,
+      "num": 485228,
+      "word": "NJZ最新审讯结果维持禁令",
+      "onboard_time": 1744209268,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49435,
       "num": 287241,
       "word": "人均3888元餐厅大象粑粑甜品需预约",
@@ -12481,6 +12545,14 @@
       "onboard_time": 1744163842,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 43831,
+      "num": 328340,
+      "word": "40岁以上短剧演员稀缺",
+      "onboard_time": 1744209026,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43439,
@@ -12977,6 +13049,14 @@
       "onboard_time": 1744087225,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28897,
+      "num": 310002,
+      "word": "梁王把对手打的没脾气",
+      "onboard_time": 1744209268,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 28394,

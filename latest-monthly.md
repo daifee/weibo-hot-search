@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/09 22:25:54
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/09 22:45:17
 </p>
 </blockquote>
 <p>
@@ -197,6 +197,12 @@ A股（热度：2689460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%82%B9%E8%AF%84%E7%94%B2%E4%BA%A2%E5%93%A5%E4%B8%AD%E5%9B%BD%E8%A1%8C%23" target="weibo">
 C罗点评甲亢哥中国行（热度：2472029）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B5%B4%E7%BE%8E%E6%B8%B8%E5%AE%A2%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA%23" target="weibo">
+中国赴美游客风险提示（热度：2447824）
 </a>
 </li>
 
@@ -1287,12 +1293,6 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B5%B4%E7%BE%8E%E6%B8%B8%E5%AE%A2%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA%23" target="weibo">
-中国赴美游客风险提示（热度：1091081）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%87%8F%E9%87%8D20%E6%96%A4%E7%AD%89%E4%BA%8E%E5%87%8F%E9%BE%8420%E5%B2%81%23" target="weibo">
 潘玮柏减重20斤等于减龄20岁（热度：1081109）
 </a>
@@ -1307,6 +1307,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E5%81%87%E6%83%BA%E6%83%BA%E7%9A%84%E4%BD%A0%E5%B7%B2%E5%87%BA%E5%91%A8%E8%BE%B9%23" target="weibo">
 金秀贤假惺惺的你已出周边（热度：1072131）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%B7%A5%E5%8E%82%E8%BF%9B%E5%B1%95%23" target="weibo">
+黄子韬卫生巾工厂进展（热度：1069442）
 </a>
 </li>
 
@@ -2859,6 +2865,12 @@ Daniel公开（热度：626903）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%97%9B%E8%8B%A6%E6%98%AF%E8%87%AA%E4%BD%9C%E8%87%AA%E5%8F%97%23" target="weibo">
+外媒称美国的痛苦是自作自受（热度：601658）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E7%AB%A5%E8%AF%B4%E4%B8%8D%E8%A6%81%E6%94%BE%E5%A4%A7%E6%88%BF%E7%90%AA%E7%9A%84%E8%AF%9D%23" target="weibo">
 叶童说不要放大房琪的话（热度：601279）
 </a>
@@ -2933,12 +2945,6 @@ Daniel公开（热度：626903）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E9%86%92%E6%9D%A5%E5%8F%91%E7%8E%B0%E6%89%8D%E6%98%AF%E5%87%8C%E6%99%A82%E7%82%B9%E5%8D%8A%23" target="weibo">
 半夜醒来发现才是凌晨2点半（热度：595795）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%97%9B%E8%8B%A6%E6%98%AF%E8%87%AA%E4%BD%9C%E8%87%AA%E5%8F%97%23" target="weibo">
-外媒称美国的痛苦是自作自受（热度：594920）
 </a>
 </li>
 
@@ -3891,6 +3897,12 @@ hanbi公开（热度：468837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%9F%A5%E5%90%8D%E6%8A%95%E8%B5%84%E4%BA%BA%E7%A7%B0%E7%BE%8E%E5%B0%8F%E4%BC%81%E4%B8%9A%E5%B0%86%E5%A4%A7%E9%87%8F%E7%A0%B4%E4%BA%A7%23" target="weibo">
+美知名投资人称美小企业将大量破产（热度：466953）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%23" target="weibo">
 杨鸣（热度：466805）
 </a>
@@ -4205,6 +4217,12 @@ Hamin公开（热度：442270）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E5%85%A5%E5%9B%B4%E4%BA%94%E5%9B%9B%E5%A5%96%E7%AB%A0%E5%90%8D%E5%8D%95%23" target="weibo">
 陈丽君入围五四奖章名单（热度：430587）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832025%E7%AC%AC1%E5%8F%B7%E7%95%99%E5%AD%A6%E9%A2%84%E8%AD%A6%23" target="weibo">
+教育部发布2025第1号留学预警（热度：429646）
 </a>
 </li>
 
@@ -4587,6 +4605,12 @@ TVB女演员陈思齐摆摊卖鸡爪（热度：399114）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E7%BB%88%E4%BA%8E%E7%94%A8%E4%B8%8A%E7%A5%BA%E8%B4%B5%E4%BA%BA%E7%9A%84%E6%A2%97%E4%BA%86%23" target="weibo">
+张若昀终于用上祺贵人的梗了（热度：397982）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E5%AF%B9%E5%8F%B0%E7%8B%AC%E7%9A%84%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A%E5%92%8C%E6%9C%89%E5%8A%9B%E9%81%8F%E5%88%B6%23" target="weibo">
 这是对台独的严重警告和有力遏制（热度：397259）
 </a>
@@ -4685,12 +4709,6 @@ TVB女演员陈思齐摆摊卖鸡爪（热度：399114）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E5%B0%8F%E8%9B%87%E7%B1%BB%E5%8F%AA%E6%9C%89%E9%9B%8C%E6%80%A7%E4%B9%9F%E8%83%BD%E7%B9%81%E6%AE%96%23" target="weibo">
 世界最小蛇类只有雌性也能繁殖（热度：390581）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E7%BB%88%E4%BA%8E%E7%94%A8%E4%B8%8A%E7%A5%BA%E8%B4%B5%E4%BA%BA%E7%9A%84%E6%A2%97%E4%BA%86%23" target="weibo">
-张若昀终于用上祺贵人的梗了（热度：390104）
 </a>
 </li>
 
@@ -5003,6 +5021,12 @@ Wendy泡泡发长文（热度：369749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E6%9C%9F%E5%BE%85%E7%94%B2%E4%BA%A2%E5%93%A5%E5%92%8C%E5%A4%A7%E5%BC%A0%E4%BC%9F%E8%A7%81%E9%9D%A2%23" target="weibo">
 全网都在期待甲亢哥和大张伟见面（热度：367500）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%86%B0%E5%86%B0%E5%A5%B3%E5%84%BF%23" target="weibo">
+白冰冰女儿（热度：367406）
 </a>
 </li>
 
@@ -5751,12 +5775,6 @@ BLACKPINK nword（热度：324614）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%86%B0%E5%86%B0%E5%A5%B3%E5%84%BF%23" target="weibo">
-白冰冰女儿（热度：322065）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%88%B1%E6%9C%89%E6%BB%9E%E5%90%8E%E6%80%A7%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
 原来爱有滞后性是真的（热度：321628）
 </a>
@@ -5993,24 +6011,6 @@ A股探底回升三大指数翻红（热度：315301）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E7%BB%B4%E8%B6%85%E8%BF%9C%E4%B8%89%E5%88%86%E7%BB%9D%E6%9D%80%23" target="weibo">
 哈维超远三分绝杀（热度：308456）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%23" target="weibo">
-美联储（热度：308409）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E8%80%81%E5%A9%86%E6%98%AF%E4%BB%96%E5%89%8D%E5%8A%A9%E7%90%86%23" target="weibo">
-胡歌老婆是他前助理（热度：308097）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%81%9A%E4%BB%80%E4%B9%88%E4%BA%8B%E6%83%85%E9%83%BD%E6%98%AF10%E5%B9%B4%E8%B5%B7%E6%AD%A5%23" target="weibo">
-孙俪做什么事情都是10年起步（热度：308009）
 </a>
 </li>
 
