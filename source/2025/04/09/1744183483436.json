@@ -1,0 +1,410 @@
+{
+  "runTime": 1744183483436,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1843583,
+        "num": 1843583,
+        "word": "世纪婴儿去世鉴定结果已出",
+        "onboard_time": 1744175964,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1258520,
+        "num": 1258520,
+        "word": "演员叶琳瑯去世",
+        "onboard_time": 1744179863,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179895,
+        "num": 1178268,
+        "word": "贸易壁垒挡不住经济全球化",
+        "onboard_time": 1744170983,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 1168932,
+        "num": 1168932,
+        "word": "腾讯客服回应微信开通已读功能",
+        "onboard_time": 1744179022,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1044514,
+        "num": 1044514,
+        "word": "41岁男子地铁猥亵女子被行拘",
+        "onboard_time": 1744177462,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 854808,
+        "num": 854808,
+        "word": "美国一边打贸易战一边求鸡蛋",
+        "onboard_time": 1744160004,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 817657,
+        "num": 817657,
+        "word": "张万森 下人了",
+        "onboard_time": 1744174044,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 560824,
+        "num": 807152,
+        "word": "淮水竹亭 延期",
+        "onboard_time": 1744178782,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376086,
+        "num": 805530,
+        "word": "中美经贸关系中方立场",
+        "onboard_time": 1744182503,
+        "rank": 8,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 35034,
+        "num": 805391,
+        "word": "A股超4500家个股上涨",
+        "onboard_time": 1744183102,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 805325,
+        "num": 805325,
+        "word": "金条一克跌20元现在入手合适吗",
+        "onboard_time": 1744180101,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 51987,
+        "num": 731056,
+        "word": "午后A股三大指数均涨超1%",
+        "onboard_time": 1744183102,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 708003,
+        "num": 708003,
+        "word": "上海地铁一男子疑脱裤猥亵女乘客",
+        "onboard_time": 1744165942,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23699,
+        "num": 688949,
+        "word": "直播带货靠诚信别靠演技",
+        "onboard_time": 1744182622,
+        "rank": 13,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 82575,
+        "num": 687701,
+        "word": "美国为啥会被鸡蛋拿捏住",
+        "onboard_time": 1744182803,
+        "rank": 14,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 687332,
+        "num": 687332,
+        "word": "于正 不加入乌合之众",
+        "onboard_time": 1744179443,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403004,
+        "num": 535825,
+        "word": "温峥嵘 叫妈咪",
+        "onboard_time": 1744179383,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504543,
+        "num": 504543,
+        "word": "美债",
+        "onboard_time": 1744176324,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105857,
+        "num": 504511,
+        "word": "权志龙将发表演讲",
+        "onboard_time": 1744183102,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148625,
+        "num": 504500,
+        "word": "A股估值水平在全球具备显著吸引力",
+        "onboard_time": 1744182322,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 716282,
+        "num": 504500,
+        "word": "单亲妈妈370万给儿子买房后被拉黑",
+        "onboard_time": 1744181541,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504496,
+        "num": 504496,
+        "word": "孔雪儿回复金孔cp粉",
+        "onboard_time": 1744175543,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450840,
+        "num": 450840,
+        "word": "中央周边工作会议在北京举行",
+        "onboard_time": 1744180942,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 371852,
+        "num": 371852,
+        "word": "女子因提分手被60岁男友杀害家属发声",
+        "onboard_time": 1744182322,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68832,
+        "num": 368818,
+        "word": "莫兰特扔手榴弹庆祝动作",
+        "onboard_time": 1744177584,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340168,
+        "num": 367126,
+        "word": "辛云来陈都灵牵手入场",
+        "onboard_time": 1744177642,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217881,
+        "num": 362193,
+        "word": "柯淳再演乖乖女名场面出不了戏",
+        "onboard_time": 1744177044,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215604,
+        "num": 357425,
+        "word": "观鹤笔记 陈丽君反串",
+        "onboard_time": 1744176562,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24219,
+        "num": 352335,
+        "word": "儿子私卖失智母亲房产被判返还售房款",
+        "onboard_time": 1744182563,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24236,
+        "num": 349338,
+        "word": "莫让银发安全网焚于隐患之火",
+        "onboard_time": 1744182143,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346880,
+        "num": 346880,
+        "word": "离境退税",
+        "onboard_time": 1744182263,
+        "rank": 30,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 281770,
+        "num": 281770,
+        "word": "中美经贸关系白皮书",
+        "onboard_time": 1744183163,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 277116,
+        "num": 277116,
+        "word": "最贵菜是炒鸡蛋成美国网络热梗",
+        "onboard_time": 1744178842,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 235104,
+        "num": 235104,
+        "word": "白皮书",
+        "onboard_time": 1744183223,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227457,
+        "num": 227457,
+        "word": "观鹤笔记",
+        "onboard_time": 1744182683,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224548,
+        "num": 224548,
+        "word": "90花颜霸",
+        "onboard_time": 1744178602,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218906,
+        "num": 218906,
+        "word": "关于中美经贸关系若干问题的中方立场",
+        "onboard_time": 1744182983,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198512,
+        "num": 217057,
+        "word": "杨紫许凯承欢记最强售后",
+        "onboard_time": 1744179983,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216513,
+        "num": 216513,
+        "word": "美国关税大棒或致国内蛋价再次上涨",
+        "onboard_time": 1744171944,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12876,
+        "num": 215028,
+        "word": "周末东北多地暴雪大暴雪上线",
+        "onboard_time": 1744183163,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214858,
+        "num": 214858,
+        "word": "肖战 羽西",
+        "onboard_time": 1744166900,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196972,
+        "num": 196972,
+        "word": "60岁男子将女友骗至墓地杀害抛尸",
+        "onboard_time": 1744173564,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191921,
+        "num": 191921,
+        "word": "这一美国副总统刷新世界认知下限",
+        "onboard_time": 1744181541,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189106,
+        "num": 189106,
+        "word": "猫在一声声认可中越来越自信了",
+        "onboard_time": 1744182803,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179587,
+        "num": 179587,
+        "word": "省考成绩",
+        "onboard_time": 1744169243,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170028,
+        "num": 170028,
+        "word": "古特雷斯称贸易战没有赢家",
+        "onboard_time": 1744175003,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158731,
+        "num": 158731,
+        "word": "哪吒2票房突破156亿",
+        "onboard_time": 1744175664,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153480,
+        "num": 153480,
+        "word": "梁振英回应女儿去世",
+        "onboard_time": 1744164142,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152097,
+        "num": 152097,
+        "word": "iPhone17Pro五大新变化",
+        "onboard_time": 1744177344,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149754,
+        "num": 149754,
+        "word": "隆化县医院已接收部分养老院火灾伤者",
+        "onboard_time": 1744173265,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈今年党建工作的重点任务#"
+    }
+  }
+}
