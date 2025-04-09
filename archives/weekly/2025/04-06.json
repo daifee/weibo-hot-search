@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744203838076,
+  "endTime": 1744205723241,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -35,12 +35,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5998600,
+      "num": 5998600,
+      "word": "欧盟对美加征25%关税",
+      "onboard_time": 1744204348,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 4038610,
       "num": 4038610,
       "word": "外交部回应美国对华征收104%关税",
       "onboard_time": 1744184001,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3159015,
+      "num": 3159015,
+      "word": "苹果手机",
+      "onboard_time": 1744203266,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 3127009,
@@ -700,7 +716,7 @@
     },
     {
       "raw_hot": 1149234,
-      "num": 867221,
+      "num": 1000125,
       "word": "白冰冰7年做了16次试管婴儿",
       "onboard_time": 1744200264,
       "rank": 10,
@@ -812,7 +828,7 @@
     },
     {
       "raw_hot": 1073403,
-      "num": 1073403,
+      "num": 1079392,
       "word": "折腰 四月空降",
       "onboard_time": 1744199485,
       "rank": 6,
@@ -929,6 +945,14 @@
       "onboard_time": 1743906500,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 988634,
+      "num": 988634,
+      "word": "这就是中国态度",
+      "onboard_time": 1744200625,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 983815,
@@ -1259,14 +1283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 813593,
-      "num": 867310,
-      "word": "这就是中国态度",
-      "onboard_time": 1744200625,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 812294,
       "num": 1129967,
       "word": "中国人捡到活的第一件事就是投喂",
@@ -1448,6 +1464,14 @@
       "word": "双胞胎姐妹佩佩惠惠相继离世",
       "onboard_time": 1744018703,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 740649,
+      "num": 740649,
+      "word": "家长建议小学延时至6点半放学",
+      "onboard_time": 1744200986,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -1875,14 +1899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 603820,
-      "num": 603820,
-      "word": "家长建议小学延时至6点半放学",
-      "onboard_time": 1744200986,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 599595,
       "num": 599595,
       "word": "辞职看世界女教师10年后怎么样了",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1744179383,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 538367,
+      "num": 538367,
+      "word": "孕妇拔坟头草煮水喝母子险丧命",
+      "onboard_time": 1744202486,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 535692,
@@ -2499,6 +2523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 450772,
+      "num": 450772,
+      "word": "黄金",
+      "onboard_time": 1744201285,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 447409,
       "num": 415381,
       "word": "马布里官宣结婚",
@@ -2521,6 +2553,14 @@
       "onboard_time": 1744090343,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 445224,
+      "num": 586472,
+      "word": "特别主演张智霖",
+      "onboard_time": 1744204227,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 443783,
@@ -2867,14 +2907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 396985,
-      "num": 396985,
-      "word": "黄金",
-      "onboard_time": 1744201285,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 396639,
       "num": 565182,
       "word": "现在还能入手金条金饰吗",
@@ -3073,6 +3105,14 @@
       "onboard_time": 1744158444,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373634,
+      "num": 1075279,
+      "word": "时代少年团演唱会 海口",
+      "onboard_time": 1744202666,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 372367,
@@ -3281,14 +3321,6 @@
       "onboard_time": 1744079602,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 351482,
-      "num": 351482,
-      "word": "孕妇拔坟头草煮水喝母子险丧命",
-      "onboard_time": 1744202486,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 350333,
@@ -3699,6 +3731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 312202,
+      "num": 312202,
+      "word": "苹果在美国要么涨价要么盈利下降",
+      "onboard_time": 1744199066,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 311896,
       "num": 394252,
       "word": "商务部新闻发言人就美方威胁升级对华关税发表谈话",
@@ -3721,14 +3761,6 @@
       "onboard_time": 1744113982,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 310200,
-      "num": 310200,
-      "word": "苹果在美国要么涨价要么盈利下降",
-      "onboard_time": 1744199066,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 309962,
@@ -3812,7 +3844,7 @@
     },
     {
       "raw_hot": 303603,
-      "num": 303603,
+      "num": 313292,
       "word": "关于中美经贸关系若干问题的中方立场",
       "onboard_time": 1744182983,
       "rank": 36,
@@ -3833,6 +3865,14 @@
       "onboard_time": 1744097482,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 302983,
+      "num": 302983,
+      "word": "加拿大开始对美反制",
+      "onboard_time": 1744188083,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 301340,
@@ -4033,6 +4073,14 @@
       "onboard_time": 1743916641,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290332,
+      "num": 552509,
+      "word": "陈都灵金工实习期旧照",
+      "onboard_time": 1744202846,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 289975,
@@ -4475,14 +4523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 264744,
-      "num": 264744,
-      "word": "苹果手机",
-      "onboard_time": 1744203266,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 264634,
       "num": 264634,
       "word": "李小冉新剧演反派boss",
@@ -4843,14 +4883,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 244585,
-      "num": 386339,
-      "word": "时代少年团演唱会 海口",
-      "onboard_time": 1744202666,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 243874,
       "num": 243874,
       "word": "杭州别墅区涉非法代孕场所被查封",
@@ -4865,14 +4897,6 @@
       "onboard_time": 1743993263,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243145,
-      "num": 243145,
-      "word": "加拿大开始对美反制",
-      "onboard_time": 1744188083,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 242293,
@@ -4985,6 +5009,14 @@
       "onboard_time": 1744096643,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237540,
+      "num": 237540,
+      "word": "夜里外卖买炭早起有10多个未接电话",
+      "onboard_time": 1744204586,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237030,
@@ -5315,6 +5347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225661,
+      "num": 539201,
+      "word": "刘诗诗 发光底妆",
+      "onboard_time": 1744202966,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225239,
       "num": 255369,
       "word": "向佐穿的鞋子有20斤重",
@@ -5425,6 +5465,14 @@
       "onboard_time": 1744100686,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219920,
+      "num": 219920,
+      "word": "比亚迪唐L",
+      "onboard_time": 1744204467,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 219590,
@@ -5931,6 +5979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206224,
+      "num": 305561,
+      "word": "吴尊晒与老婆出游照",
+      "onboard_time": 1744202245,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206213,
       "num": 206213,
       "word": "雁回时庆功宴",
@@ -5955,19 +6011,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205520,
+      "num": 205520,
+      "word": "以为是莞莞类卿其实是正主纯元",
+      "onboard_time": 1744203985,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205440,
       "num": 205440,
       "word": "徐明浩等了很久是吧",
       "onboard_time": 1744172004,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 205076,
-      "num": 262421,
-      "word": "陈都灵金工实习期旧照",
-      "onboard_time": 1744202846,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -6155,14 +6211,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 199955,
-      "num": 199955,
-      "word": "刘诗诗 发光底妆",
-      "onboard_time": 1744202966,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 199719,
       "num": 199719,
       "word": "周鸿祎称反感不招35岁以上的人",
@@ -6177,14 +6225,6 @@
       "onboard_time": 1744194262,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199172,
-      "num": 199172,
-      "word": "吴尊晒与老婆出游照",
-      "onboard_time": 1744202245,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 198976,
@@ -6280,6 +6320,14 @@
       "word": "SMTR25团体预告",
       "onboard_time": 1743941601,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196973,
+      "num": 196973,
+      "word": "金素妍44岁状态",
+      "onboard_time": 1744203147,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -6891,12 +6939,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185424,
+      "num": 185424,
+      "word": "张若昀终于用上祺贵人的梗了",
+      "onboard_time": 1744205249,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185201,
       "num": 185201,
       "word": "蒋敦豪捡到粉丝的口红",
       "onboard_time": 1744087345,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185146,
+      "num": 185146,
+      "word": "美股期货短线跳水",
+      "onboard_time": 1744203806,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 185113,
@@ -7251,6 +7315,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 177803,
+      "num": 177803,
+      "word": "陈德容 我表情悠哉跳个大概",
+      "onboard_time": 1744203806,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177706,
       "num": 169128,
       "word": "cpf万能嗑糖公式",
@@ -7544,6 +7616,14 @@
       "word": "丁禹兮 高姿",
       "onboard_time": 1744079721,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171270,
+      "num": 171270,
+      "word": "虞书欣3月微博演员热度TOP1",
+      "onboard_time": 1744205066,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -8427,14 +8507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153367,
-      "num": 152353,
-      "word": "陈德容 我表情悠哉跳个大概",
-      "onboard_time": 1744203806,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153246,
       "num": 514512,
       "word": "白宫回应马斯克与特朗普顾问互怼",
@@ -8553,14 +8625,6 @@
       "onboard_time": 1743921021,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150662,
-      "num": 150662,
-      "word": "美股期货短线跳水",
-      "onboard_time": 1744203806,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 150557,
@@ -12148,7 +12212,7 @@
     },
     {
       "raw_hot": 53409,
-      "num": 263377,
+      "num": 349039,
       "word": "汽车哪些隐形安全在守护你",
       "onboard_time": 1744203147,
       "rank": 26,
@@ -12987,6 +13051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24086,
+      "num": 1074886,
+      "word": "中方绝对不接受美方极限施压霸道霸凌",
+      "onboard_time": 1744205427,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23982,
       "num": 530299,
       "word": "有人为求职被骗数十万",
@@ -13009,6 +13081,14 @@
       "onboard_time": 1743946583,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23176,
+      "num": 178877,
+      "word": "汉L唐L上市价格20.98万起",
+      "onboard_time": 1744205668,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 23116,
@@ -13161,6 +13241,14 @@
       "onboard_time": 1743930382,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18304,
+      "num": 197281,
+      "word": "不戴滤镜成甲亢哥流量密码",
+      "onboard_time": 1744205668,
+      "rank": 40,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 18269,
@@ -13539,6 +13627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 6799,
+      "num": 4105092,
+      "word": "外媒称美国的痛苦是自作自受",
+      "onboard_time": 1744205668,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 6709,
       "num": 165447,
       "word": "广西钻洞扫墓",
@@ -13605,6 +13701,9 @@
     },
     {
       "word": "#中央周边工作会议在北京举行#"
+    },
+    {
+      "word": "#聚焦构建周边命运共同体#"
     }
   ]
 }

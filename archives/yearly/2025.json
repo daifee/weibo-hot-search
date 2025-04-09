@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1744203838076,
+  "endTime": 1744205723241,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -865,6 +865,14 @@
       "onboard_time": 1738151061,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5998600,
+      "num": 5998600,
+      "word": "欧盟对美加征25%关税",
+      "onboard_time": 1744204348,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 5865317,
@@ -1899,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3159015,
+      "num": 3159015,
+      "word": "苹果手机",
+      "onboard_time": 1744203266,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 3152316,
       "num": 3152316,
       "word": "导演组回应沈腾马丽小品没演完",
@@ -2384,22 +2400,6 @@
       "word": "金赛纶 金秀贤",
       "onboard_time": 1739708306,
       "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2866173,
-      "num": 253282,
-      "word": "海底捞回应有人往火锅撒尿",
-      "onboard_time": 1741257321,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2864001,
-      "num": 420786,
-      "word": "内娱离婚文案",
-      "onboard_time": 1739858195,
-      "rank": 10,
       "category": "艺人"
     }
   ],
