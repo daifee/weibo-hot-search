@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744187664716,
+  "endTime": 1744188460928,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -179,20 +179,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1933930,
+      "num": 1933930,
+      "word": "离境退税",
+      "onboard_time": 1744182263,
+      "rank": 30,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 1910617,
       "num": 1910617,
       "word": "香港前特首梁振英次女猝逝",
       "onboard_time": 1744161623,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1902112,
-      "num": 1902112,
-      "word": "离境退税",
-      "onboard_time": 1744182263,
-      "rank": 30,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 1856109,
@@ -1419,6 +1419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 711507,
+      "num": 711507,
+      "word": "彭昱畅首部古装男主",
+      "onboard_time": 1744186761,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 711417,
       "num": 371108,
       "word": "原来一根头发可以分叉这么多",
@@ -1667,6 +1675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 607080,
+      "num": 607080,
+      "word": "白皮书",
+      "onboard_time": 1744183223,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 605572,
       "num": 367780,
       "word": "胡连馨15分钟考完科目二",
@@ -1697,6 +1713,14 @@
       "onboard_time": 1743912801,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 604351,
+      "num": 604351,
+      "word": "美国仅占我国出口比重的15%",
+      "onboard_time": 1744184242,
+      "rank": 49,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 597601,
@@ -1785,14 +1809,6 @@
       "onboard_time": 1744164981,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 567971,
-      "num": 567971,
-      "word": "白皮书",
-      "onboard_time": 1744183223,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 565906,
@@ -1896,6 +1912,14 @@
       "word": "特朗普拒绝欧盟零关税方案",
       "onboard_time": 1744092561,
       "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 529415,
+      "num": 529415,
+      "word": "美从未停止针对中国的间谍活动",
+      "onboard_time": 1744186041,
+      "rank": 14,
       "category": "国际时政"
     },
     {
@@ -2115,14 +2139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 479841,
-      "num": 479841,
-      "word": "美国仅占我国出口比重的15%",
-      "onboard_time": 1744184242,
-      "rank": 49,
-      "category": "财经,国际时政"
-    },
-    {
       "raw_hot": 478733,
       "num": 478733,
       "word": "狗子被忘服务区一路狂奔追赶主人",
@@ -2235,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459714,
+      "num": 459714,
+      "word": "男子婚后13天发现妻子双子宫一个肾",
+      "onboard_time": 1744184062,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 459473,
       "num": 546293,
       "word": "苦尽柑来遇见你八项百想提名",
@@ -2329,14 +2353,6 @@
       "onboard_time": 1743938961,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 440371,
-      "num": 407229,
-      "word": "男子婚后13天发现妻子双子宫一个肾",
-      "onboard_time": 1744184062,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 437637,
@@ -2995,14 +3011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358875,
-      "num": 457510,
-      "word": "彭昱畅首部古装男主",
-      "onboard_time": 1744186761,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 358786,
       "num": 239423,
       "word": "南京地铁",
@@ -3211,6 +3219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334838,
+      "num": 334838,
+      "word": "河北省考成绩",
+      "onboard_time": 1744186702,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 334816,
       "num": 334816,
       "word": "上海男篮vs广东男篮",
@@ -3369,6 +3385,14 @@
       "onboard_time": 1744037545,
       "rank": 9,
       "category": "综艺,网红"
+    },
+    {
+      "raw_hot": 318362,
+      "num": 489658,
+      "word": "观鹤笔记",
+      "onboard_time": 1744182683,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 317451,
@@ -3539,6 +3563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 303503,
+      "num": 474688,
+      "word": "黄俊捷前女友晒收款记录称已了结",
+      "onboard_time": 1744186401,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303177,
       "num": 303177,
       "word": "中国台湾证交所触发熔断",
@@ -3609,14 +3641,6 @@
       "onboard_time": 1743993624,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 297249,
-      "num": 439160,
-      "word": "观鹤笔记",
-      "onboard_time": 1744182683,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 297009,
@@ -3851,14 +3875,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 283576,
-      "num": 283576,
-      "word": "河北省考成绩",
-      "onboard_time": 1744186702,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 283338,
       "num": 283338,
       "word": "人民银行重磅发声",
@@ -4081,6 +4097,14 @@
       "onboard_time": 1744003761,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268240,
+      "num": 423162,
+      "word": "女子链家购房买凶宅楼栋一审胜诉",
+      "onboard_time": 1744186041,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266834,
@@ -4385,14 +4409,6 @@
       "onboard_time": 1744093703,
       "rank": 43,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 252712,
-      "num": 252712,
-      "word": "黄俊捷前女友晒收款记录称已了结",
-      "onboard_time": 1744186401,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 252525,
@@ -4771,14 +4787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229701,
-      "num": 442363,
-      "word": "美从未停止针对中国的间谍活动",
-      "onboard_time": 1744186041,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 229551,
       "num": 229551,
       "word": "柯淳片酬",
@@ -4833,6 +4841,14 @@
       "onboard_time": 1743923241,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 227226,
+      "num": 481004,
+      "word": "孙俪做什么事情都是10年起步",
+      "onboard_time": 1744186761,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 227072,
@@ -5627,14 +5643,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 201905,
-      "num": 201905,
-      "word": "孙俪做什么事情都是10年起步",
-      "onboard_time": 1744186761,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201378,
       "num": 201378,
       "word": "阿瑟你的兵来了",
@@ -5721,14 +5729,6 @@
       "onboard_time": 1744177344,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 198732,
-      "num": 423162,
-      "word": "女子链家购房买凶宅楼栋一审胜诉",
-      "onboard_time": 1744186041,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198720,
@@ -6811,6 +6811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176402,
+      "num": 556860,
+      "word": "中方详细罗列美方对等关税损人害己",
+      "onboard_time": 1744186161,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 176189,
       "num": 176189,
       "word": "周洁琼神女下江南",
@@ -6841,6 +6849,14 @@
       "onboard_time": 1744162884,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 175595,
+      "num": 464748,
+      "word": "中国人民正当发展权利不容剥夺",
+      "onboard_time": 1744185442,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 175496,
@@ -7009,14 +7025,6 @@
       "onboard_time": 1743983600,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169551,
-      "num": 169551,
-      "word": "中国人民正当发展权利不容剥夺",
-      "onboard_time": 1744185442,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 169549,
@@ -7596,7 +7604,7 @@
     },
     {
       "raw_hot": 157347,
-      "num": 1269683,
+      "num": 1349153,
       "word": "中国坚决维护自身正当合法权益",
       "onboard_time": 1744169364,
       "rank": 2,
@@ -7849,6 +7857,14 @@
       "onboard_time": 1743945381,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151499,
+      "num": 470698,
+      "word": "黄金回涨",
+      "onboard_time": 1744187422,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 150769,
@@ -8275,6 +8291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142521,
+      "num": 142521,
+      "word": "加拿大开始对美反制",
+      "onboard_time": 1744188083,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142344,
       "num": 175969,
       "word": "吃饭跑步和恋爱开播",
@@ -8593,6 +8617,14 @@
       "onboard_time": 1744088783,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136392,
+      "num": 136392,
+      "word": "鸿蒙智行发布会官宣",
+      "onboard_time": 1744188382,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 136321,
@@ -9995,14 +10027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103312,
-      "num": 556860,
-      "word": "中方详细罗列美方对等关税损人害己",
-      "onboard_time": 1744186161,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 103293,
       "num": 103293,
       "word": "南宁动物园卡大象",
@@ -10276,7 +10300,7 @@
     },
     {
       "raw_hot": 92399,
-      "num": 393107,
+      "num": 443871,
       "word": "全新智己L6红红红出圈了",
       "onboard_time": 1744185983,
       "rank": 25,
@@ -10321,14 +10345,6 @@
       "onboard_time": 1743943100,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90986,
-      "num": 393044,
-      "word": "黄金回涨",
-      "onboard_time": 1744187422,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 90556,
@@ -10931,6 +10947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 68581,
+      "num": 496389,
+      "word": "如美方执意打贸易战中方必将奉陪到底",
+      "onboard_time": 1744187422,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 68416,
       "num": 67084,
       "word": "Ning怒喷Cat",
@@ -11523,6 +11547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43145,
+      "num": 382885,
+      "word": "马龙许昕又背后击球了",
+      "onboard_time": 1744187782,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42733,
       "num": 276949,
       "word": "手脚冰凉也是焦虑的一种表现",
@@ -11577,6 +11609,14 @@
       "onboard_time": 1744122504,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41321,
+      "num": 443935,
+      "word": "夏以昼为何那样插画",
+      "onboard_time": 1744187723,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 41043,
@@ -11673,14 +11713,6 @@
       "onboard_time": 1744031664,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38542,
-      "num": 393081,
-      "word": "如美方执意打贸易战中方必将奉陪到底",
-      "onboard_time": 1744187422,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38277,
