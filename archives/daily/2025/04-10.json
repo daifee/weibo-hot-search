@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744220474715,
+  "endTime": 1744223631641,
   "band_list": [
     {
       "raw_hot": 6521543,
@@ -139,8 +139,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 334614,
-      "num": 334614,
+      "raw_hot": 337571,
+      "num": 337571,
       "word": "美股",
       "onboard_time": 1744199126,
       "rank": 33,
@@ -185,6 +185,14 @@
       "onboard_time": 1744210707,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 251254,
+      "num": 251254,
+      "word": "纳斯达克",
+      "onboard_time": 1744211906,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 247114,
@@ -243,7 +251,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170388,
+      "raw_hot": 174182,
       "num": 429690,
       "word": "当中方说要奉陪到底时是认真的",
       "onboard_time": 1744218019,
@@ -313,14 +321,6 @@
       "onboard_time": 1744212146,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117172,
-      "num": 117172,
-      "word": "纳斯达克",
-      "onboard_time": 1744211906,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 111859,
@@ -411,6 +411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68041,
+      "num": 962723,
+      "word": "中方绝对不接受美方极限施压霸道霸凌",
+      "onboard_time": 1744205427,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65197,
       "num": 259971,
       "word": "金丝猴宝宝也爱撒娇贴贴",
@@ -427,6 +435,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37696,
+      "num": 37696,
+      "word": "道琼斯",
+      "onboard_time": 1744213646,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 26645,
+      "num": 35410,
+      "word": "黄金",
+      "onboard_time": 1744201285,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 24886,
       "num": 138371,
       "word": "白皮书",
@@ -435,17 +459,36 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 23745,
-      "num": 962723,
-      "word": "中方绝对不接受美方极限施压霸道霸凌",
-      "onboard_time": 1744205427,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 24593,
+      "num": 64841,
+      "word": "纳指涨幅扩大",
+      "onboard_time": 1744222515,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 23481,
+      "num": 35404,
+      "word": "阿尔曼",
+      "onboard_time": 1744223415,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22860,
+      "num": 35397,
+      "word": "朱一龙顺毛对镜拍",
+      "onboard_time": 1744222935,
+      "rank": 49,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
     {
       "word": "#中央周边工作会议在京举行#"
+    },
+    {
+      "word": "#聚焦构建周边命运共同体#"
     }
   ]
 }

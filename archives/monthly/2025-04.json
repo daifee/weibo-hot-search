@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744220474715,
+  "endTime": 1744223631641,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -15443,6 +15443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174182,
+      "num": 429690,
+      "word": "当中方说要奉陪到底时是认真的",
+      "onboard_time": 1744218019,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 173919,
       "num": 173919,
       "word": "文化差异不是李美越的保命符",
@@ -15777,14 +15785,6 @@
       "onboard_time": 1743920780,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170388,
-      "num": 429690,
-      "word": "当中方说要奉陪到底时是认真的",
-      "onboard_time": 1744218019,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 170248,
@@ -25707,6 +25707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68041,
+      "num": 1074886,
+      "word": "中方绝对不接受美方极限施压霸道霸凌",
+      "onboard_time": 1744205427,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67927,
       "num": 67927,
       "word": "nctwish香港演唱会",
@@ -28707,6 +28715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24593,
+      "num": 64841,
+      "word": "纳指涨幅扩大",
+      "onboard_time": 1744222515,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 24561,
       "num": 24561,
       "word": "张峻豪也有演唱会戒断反应",
@@ -28771,14 +28787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24086,
-      "num": 1074886,
-      "word": "中方绝对不接受美方极限施压霸道霸凌",
-      "onboard_time": 1744205427,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 23982,
       "num": 530299,
       "word": "有人为求职被骗数十万",
@@ -28817,6 +28825,14 @@
       "onboard_time": 1744068320,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23481,
+      "num": 35404,
+      "word": "阿尔曼",
+      "onboard_time": 1744223415,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 23382,
@@ -28881,6 +28897,14 @@
       "onboard_time": 1744186161,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22860,
+      "num": 35397,
+      "word": "朱一龙顺毛对镜拍",
+      "onboard_time": 1744222935,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 22589,
