@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1744191706866,
+  "endTime": 1744194540512,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1923,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3127009,
+      "num": 3127009,
+      "word": "新修订婚姻登记条例自5月10日起施行",
+      "onboard_time": 1744190723,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3126539,
       "num": 3253079,
       "word": "汤加群岛7.3级地震",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739177359,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2861674,
-      "num": 2861674,
-      "word": "殡仪馆证实网红王子墨去世",
-      "onboard_time": 1739927541,
-      "rank": 0,
-      "category": "网红"
     }
   ],
   "hotgov_list": [

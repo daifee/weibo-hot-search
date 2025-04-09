@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744191706866,
+  "endTime": 1744194540512,
   "band_list": [
     {
       "raw_hot": 4038610,
@@ -9,6 +9,14 @@
       "onboard_time": 1744184001,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3127009,
+      "num": 3127009,
+      "word": "新修订婚姻登记条例自5月10日起施行",
+      "onboard_time": 1744190723,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2811443,
@@ -33,6 +41,14 @@
       "onboard_time": 1744172124,
       "rank": 1,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 2174883,
+      "num": 2174883,
+      "word": "奥迪暂停对美国经销商交付新车",
+      "onboard_time": 1744189823,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2072201,
@@ -65,6 +81,14 @@
       "onboard_time": 1744161623,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1733506,
+      "num": 1733506,
+      "word": "折腰",
+      "onboard_time": 1744191862,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1590644,
@@ -307,14 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 754431,
-      "num": 754431,
-      "word": "奥迪暂停对美国经销商交付新车",
-      "onboard_time": 1744189823,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 746075,
       "num": 746075,
       "word": "于正 不加入乌合之众",
@@ -355,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 623384,
+      "num": 571460,
+      "word": "微信状态也能调情",
+      "onboard_time": 1744192642,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 614133,
       "num": 614133,
       "word": "一部iPhone看美加征关税代价",
@@ -377,6 +401,14 @@
       "onboard_time": 1744183223,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 589361,
+      "num": 589361,
+      "word": "辞职看世界女教师10年后怎么样了",
+      "onboard_time": 1744191743,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 586925,
@@ -409,6 +441,14 @@
       "onboard_time": 1744179383,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 538582,
+      "num": 538582,
+      "word": "特朗普关税地图炮砸向美国老百姓",
+      "onboard_time": 1744165402,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 534862,
@@ -587,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 408807,
-      "num": 558822,
-      "word": "新修订婚姻登记条例自5月10日起施行",
-      "onboard_time": 1744190723,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 406427,
       "num": 441092,
       "word": "全球富豪史上最大规模财富损失",
@@ -683,12 +715,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 338286,
+      "num": 1830007,
+      "word": "关于中美经贸关系这是中方立场",
+      "onboard_time": 1744190482,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 336457,
       "num": 302934,
       "word": "31岁宝妈长期生闷气确诊乳腺癌晚期",
       "onboard_time": 1744160964,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 336353,
+      "num": 336353,
+      "word": "何泓姗对陈都灵太宠了吧",
+      "onboard_time": 1744190723,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 335297,
@@ -1291,14 +1339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206357,
-      "num": 206357,
-      "word": "何泓姗对陈都灵太宠了吧",
-      "onboard_time": 1744190723,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206293,
       "num": 215451,
       "word": "质疑严浩翔导师身份选手道歉",
@@ -1355,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199653,
+      "num": 199653,
+      "word": "新说唱选手kito力挺严浩翔",
+      "onboard_time": 1744194262,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198976,
       "num": 553060,
       "word": "甲亢哥中国行收获跨国友情",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1744177344,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 196658,
+      "num": 196658,
+      "word": "赴山海暂定5月播出",
+      "onboard_time": 1744194321,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 196339,
@@ -1427,22 +1483,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 189631,
-      "num": 1254131,
-      "word": "关于中美经贸关系这是中方立场",
-      "onboard_time": 1744190482,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 187104,
-      "num": 187104,
-      "word": "特朗普关税地图炮砸向美国老百姓",
-      "onboard_time": 1744165402,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 185568,
       "num": 185568,
       "word": "iPhone17Air到底有多薄",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1744155021,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 182730,
+      "num": 182730,
+      "word": "卤鹅哥是甲亢哥中国行最爱uncle",
+      "onboard_time": 1744192222,
+      "rank": 34,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 181609,
@@ -1561,6 +1609,14 @@
       "onboard_time": 1744163183,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 174841,
+      "num": 174841,
+      "word": "挖呀挖黄老师说过气后不焦虑",
+      "onboard_time": 1744188743,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174818,
@@ -1707,6 +1763,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156373,
+      "num": 281423,
+      "word": "阿瑟浑身散发着甘甜味",
+      "onboard_time": 1744194202,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156045,
+      "num": 156045,
+      "word": "山西省考成绩",
+      "onboard_time": 1744194441,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 155669,
       "num": 155669,
       "word": "董宇辉自爆多年自我精神剥削",
@@ -1747,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152864,
+      "num": 152864,
+      "word": "四川一银行员工实名举报原董事长",
+      "onboard_time": 1744193242,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152627,
       "num": 152627,
       "word": "金子涵曾瘦到49公斤",
@@ -1761,6 +1841,14 @@
       "onboard_time": 1744187422,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 151283,
+      "num": 151283,
+      "word": "新说唱首录一次看200多个潮人",
+      "onboard_time": 1744194142,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 150171,
@@ -1785,6 +1873,14 @@
       "onboard_time": 1744147394,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149597,
+      "num": 149597,
+      "word": "白鹿杀青人气",
+      "onboard_time": 1744192581,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 149403,
@@ -1987,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124898,
+      "num": 290882,
+      "word": "李在明殊死一搏再战总统",
+      "onboard_time": 1744193422,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119950,
       "num": 159211,
       "word": "曹颖回应李晟镜头少",
@@ -2017,6 +2121,22 @@
       "onboard_time": 1744104381,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113281,
+      "num": 154104,
+      "word": "全圆佑的包能装下自己",
+      "onboard_time": 1744193543,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113122,
+      "num": 168596,
+      "word": "四川九鼎大楼火灾调查报告公布",
+      "onboard_time": 1744192404,
+      "rank": 40,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 112953,
@@ -2121,6 +2241,14 @@
       "onboard_time": 1744120163,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92413,
+      "num": 170317,
+      "word": "美国人抢鸡蛋盛况",
+      "onboard_time": 1744193422,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 92399,
@@ -2387,6 +2515,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59898,
+      "num": 196668,
+      "word": "应聘被以招男性为由拒绝女子起诉公司",
+      "onboard_time": 1744192942,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58217,
+      "num": 196660,
+      "word": "商务部回应美发布TikTok延期行政令",
+      "onboard_time": 1744194383,
+      "rank": 30,
+      "category": "互联网,国内时政"
+    },
+    {
       "raw_hot": 56423,
       "num": 56423,
       "word": "棋士22",
@@ -2513,6 +2657,14 @@
       "onboard_time": 1744143914,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 36152,
+      "num": 168328,
+      "word": "养生这个赛道33也闯进来了",
+      "onboard_time": 1744194383,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 36151,

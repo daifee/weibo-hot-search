@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744191706866,
+  "endTime": 1744194540512,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -112,6 +112,14 @@
       "word": "网友曝小米汽车车主驾驶中睡着",
       "onboard_time": 1743578482,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3127009,
+      "num": 3127009,
+      "word": "新修订婚姻登记条例自5月10日起施行",
+      "onboard_time": 1744190723,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -313,6 +321,14 @@
       "onboard_time": 1744083021,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2174883,
+      "num": 2174883,
+      "word": "奥迪暂停对美国经销商交付新车",
+      "onboard_time": 1744189823,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2163339,
@@ -585,6 +601,14 @@
       "onboard_time": 1743862343,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1733506,
+      "num": 1733506,
+      "word": "折腰",
+      "onboard_time": 1743679281,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 1701129,
@@ -1601,14 +1625,6 @@
       "onboard_time": 1743751040,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1092220,
-      "num": 783912,
-      "word": "折腰",
-      "onboard_time": 1743679281,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 1081109,
@@ -2843,14 +2859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 754431,
-      "num": 754431,
-      "word": "奥迪暂停对美国经销商交付新车",
-      "onboard_time": 1744189823,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 752525,
       "num": 704730,
       "word": "上海有门店卖狗狗麻辣烫25元一斤",
@@ -3491,6 +3499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623384,
+      "num": 571460,
+      "word": "微信状态也能调情",
+      "onboard_time": 1744192642,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 617100,
       "num": 446352,
       "word": "刘浩存 小马宝莉",
@@ -3793,6 +3809,14 @@
       "onboard_time": 1743571341,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 589361,
+      "num": 589361,
+      "word": "辞职看世界女教师10年后怎么样了",
+      "onboard_time": 1744191743,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 589066,
@@ -4217,6 +4241,14 @@
       "onboard_time": 1744179383,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 538582,
+      "num": 538582,
+      "word": "特朗普关税地图炮砸向美国老百姓",
+      "onboard_time": 1744165402,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 538198,
@@ -5747,14 +5779,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 408807,
-      "num": 558822,
-      "word": "新修订婚姻登记条例自5月10日起施行",
-      "onboard_time": 1744190723,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 408111,
       "num": 163390,
       "word": "女装啥时候能回归正常审美",
@@ -7027,6 +7051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338286,
+      "num": 1830007,
+      "word": "关于中美经贸关系这是中方立场",
+      "onboard_time": 1744190482,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 338228,
       "num": 338228,
       "word": "iPhone17Air新机模曝光",
@@ -7089,6 +7121,14 @@
       "onboard_time": 1744160964,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 336353,
+      "num": 336353,
+      "word": "何泓姗对陈都灵太宠了吧",
+      "onboard_time": 1744190723,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 335430,
@@ -11603,14 +11643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206357,
-      "num": 206357,
-      "word": "何泓姗对陈都灵太宠了吧",
-      "onboard_time": 1744190723,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206337,
       "num": 206337,
       "word": "金价再起飞",
@@ -12131,6 +12163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199653,
+      "num": 199653,
+      "word": "新说唱选手kito力挺严浩翔",
+      "onboard_time": 1744194262,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199575,
       "num": 393174,
       "word": "王楚钦太优秀了",
@@ -12384,6 +12424,14 @@
       "word": "朴宝剑提名百想视帝",
       "onboard_time": 1743991281,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196658,
+      "num": 196658,
+      "word": "赴山海暂定5月播出",
+      "onboard_time": 1744194321,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -13115,14 +13163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189631,
-      "num": 1254131,
-      "word": "关于中美经贸关系这是中方立场",
-      "onboard_time": 1744190482,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 189618,
       "num": 189618,
       "word": "吃饭跑步和恋爱定档",
@@ -13393,14 +13433,6 @@
       "onboard_time": 1743511343,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 187104,
-      "num": 187104,
-      "word": "特朗普关税地图炮砸向美国老百姓",
-      "onboard_time": 1744165402,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 186905,
@@ -13905,6 +13937,14 @@
       "onboard_time": 1744010543,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182730,
+      "num": 182730,
+      "word": "卤鹅哥是甲亢哥中国行最爱uncle",
+      "onboard_time": 1744192222,
+      "rank": 34,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 182728,
@@ -14736,6 +14776,14 @@
       "word": "男子回应卖掉金条变现73.2万",
       "onboard_time": 1743582922,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174841,
+      "num": 174841,
+      "word": "挖呀挖黄老师说过气后不焦虑",
+      "onboard_time": 1744188743,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -16435,6 +16483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156373,
+      "num": 281423,
+      "word": "阿瑟浑身散发着甘甜味",
+      "onboard_time": 1744194202,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156356,
       "num": 152993,
       "word": "标准道歉全过程vs眼泪的金秀贤",
@@ -16473,6 +16529,14 @@
       "onboard_time": 1744035566,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 156045,
+      "num": 156045,
+      "word": "山西省考成绩",
+      "onboard_time": 1744194441,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 156033,
@@ -16883,6 +16947,14 @@
       "category": "汽车,国际时政"
     },
     {
+      "raw_hot": 152864,
+      "num": 152864,
+      "word": "四川一银行员工实名举报原董事长",
+      "onboard_time": 1744193242,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152531,
       "num": 152531,
       "word": "苹果客服回应iPhone是否涨价",
@@ -17009,6 +17081,14 @@
       "onboard_time": 1744187422,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 151283,
+      "num": 151283,
+      "word": "新说唱首录一次看200多个潮人",
+      "onboard_time": 1744194142,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 151190,
@@ -17265,6 +17345,14 @@
       "onboard_time": 1743598163,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 149597,
+      "num": 149597,
+      "word": "白鹿杀青人气",
+      "onboard_time": 1744192581,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 149588,
@@ -20267,6 +20355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124898,
+      "num": 290882,
+      "word": "李在明殊死一搏再战总统",
+      "onboard_time": 1744193422,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124831,
       "num": 124831,
       "word": "湖南一男子花4元中了1242万元",
@@ -21563,6 +21659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113281,
+      "num": 154104,
+      "word": "全圆佑的包能装下自己",
+      "onboard_time": 1744193543,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113223,
       "num": 196224,
       "word": "农业大消费股大涨",
@@ -21601,6 +21705,14 @@
       "onboard_time": 1743503302,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113122,
+      "num": 168596,
+      "word": "四川九鼎大楼火灾调查报告公布",
+      "onboard_time": 1744192404,
+      "rank": 40,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 113075,
@@ -23209,6 +23321,14 @@
       "onboard_time": 1743725660,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92413,
+      "num": 170317,
+      "word": "美国人抢鸡蛋盛况",
+      "onboard_time": 1744193422,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 92399,
@@ -25283,6 +25403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 59898,
+      "num": 196668,
+      "word": "应聘被以招男性为由拒绝女子起诉公司",
+      "onboard_time": 1744192942,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59718,
       "num": 211534,
       "word": "美股连续两日开盘暴跌",
@@ -25377,6 +25505,14 @@
       "onboard_time": 1743613338,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 58217,
+      "num": 196660,
+      "word": "商务部回应美发布TikTok延期行政令",
+      "onboard_time": 1744194383,
+      "rank": 30,
+      "category": "互联网,国内时政"
     },
     {
       "raw_hot": 57909,
@@ -26745,6 +26881,14 @@
       "onboard_time": 1743512724,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36152,
+      "num": 168328,
+      "word": "养生这个赛道33也闯进来了",
+      "onboard_time": 1744194383,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 36151,
