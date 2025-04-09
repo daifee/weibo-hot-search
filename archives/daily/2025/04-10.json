@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744223631641,
+  "endTime": 1744224399718,
   "band_list": [
     {
       "raw_hot": 6521543,
@@ -443,7 +443,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 26645,
+      "raw_hot": 27289,
       "num": 35410,
       "word": "黄金",
       "onboard_time": 1744201285,
@@ -481,6 +481,22 @@
       "onboard_time": 1744222935,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19439,
+      "num": 33531,
+      "word": "穆祉丞不想再当念旧的小孩了",
+      "onboard_time": 1744224315,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 10606,
+      "num": 33952,
+      "word": "中国一如既往扎根周边贡献周边",
+      "onboard_time": 1744224376,
+      "rank": 38,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
