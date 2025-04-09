@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/06 00:27:55 ~ 2025/04/10 05:36:18
+本榜单时间：2025/04/06 00:27:55 ~ 2025/04/10 06:23:15
 </p>
 </blockquote>
 <p>
@@ -69,6 +69,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E5%8A%A0%E5%85%B3%E7%A8%8E%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%86%B7%E9%9D%99%23" target="weibo">
+美国被加关税后特朗普呼吁冷静（热度：2957222）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%BE%B9%E6%89%93%E8%B4%B8%E6%98%93%E6%88%98%E4%B8%80%E8%BE%B9%E6%B1%82%E9%B8%A1%E8%9B%8B%23" target="weibo">
 美国一边打贸易战一边求鸡蛋（热度：2811443）
 </a>
@@ -107,12 +113,6 @@ A股（热度：2689460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%82%B9%E8%AF%84%E7%94%B2%E4%BA%A2%E5%93%A5%E4%B8%AD%E5%9B%BD%E8%A1%8C%23" target="weibo">
 C罗点评甲亢哥中国行（热度：2472029）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E5%8A%A0%E5%85%B3%E7%A8%8E%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%86%B7%E9%9D%99%23" target="weibo">
-美国被加关税后特朗普呼吁冷静（热度：2467106）
 </a>
 </li>
 
@@ -4395,6 +4395,12 @@ Jennie科切拉（热度：216918）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E9%87%91%E7%89%8C%E5%A2%9E%E8%87%B36%E5%9D%97%23" target="weibo">
+洛杉矶奥运会乒乓球金牌增至6块（热度：214302）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%A2%A8%E9%95%9C%E5%8F%8D%E6%88%B4%23" target="weibo">
 严浩翔墨镜反戴（热度：214247）
 </a>
@@ -5499,6 +5505,12 @@ TANK两位亲人都因心脏病去世（热度：182780）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E4%E6%9C%889%E6%97%A5%E7%94%9F%E6%95%88%23" target="weibo">
+加拿大对美加征关税4月9日生效（热度：182431）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A6%BB%E4%B8%96%E7%95%99%E8%B4%A2%E4%BA%A7%E7%BB%99%E4%BF%9D%E5%A7%86%E8%A6%81%E6%B1%82%E6%93%8D%E5%8A%9E%E6%B5%B7%E8%91%AC%23" target="weibo">
 老人离世留财产给保姆要求操办海葬（热度：182319）
 </a>
@@ -6587,12 +6599,6 @@ LGDNBW对战狼队（热度：155198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E7%86%9F4%E7%BE%A4%E5%83%8F%23" target="weibo">
 半熟4群像（热度：153622）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E4%E6%9C%889%E6%97%A5%E7%94%9F%E6%95%88%23" target="weibo">
-加拿大对美加征关税4月9日生效（热度：153475）
 </a>
 </li>
 
@@ -8757,6 +8763,12 @@ Daeny谈iG困境（热度：86767）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E7%BB%9D%E5%AF%B9%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%BE%8E%E6%96%B9%E6%9E%81%E9%99%90%E6%96%BD%E5%8E%8B%E9%9C%B8%E9%81%93%E9%9C%B8%E5%87%8C%23" target="weibo">
+中方绝对不接受美方极限施压霸道霸凌（热度：85372）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E7%9A%84%E5%9B%9E%E6%97%8B%E9%95%96%E6%AD%A3%E4%B8%AD%E8%B0%81%E7%9A%84%E7%9C%89%E5%BF%83%23" target="weibo">
 美国加征关税的回旋镖正中谁的眉心（热度：84901）
 </a>
@@ -9117,12 +9129,6 @@ Ning怒喷Cat（热度：68416）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E7%BB%9D%E5%AF%B9%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%BE%8E%E6%96%B9%E6%9E%81%E9%99%90%E6%96%BD%E5%8E%8B%E9%9C%B8%E9%81%93%E9%9C%B8%E5%87%8C%23" target="weibo">
-中方绝对不接受美方极限施压霸道霸凌（热度：68041）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%93%88%E5%92%8C%E4%BB%96%E7%9A%84%E7%99%BD%E7%8C%AB%E5%B8%88%E5%B0%8A%E6%9C%89%E5%A3%B0%E5%89%A7%23" target="weibo">
 二哈和他的白猫师尊有声剧（热度：67600）
 </a>
@@ -9375,6 +9381,12 @@ Switch2卡带也很苦（热度：61054）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%BE%88%E5%A4%9A%E5%B0%8F%E5%86%9C%E5%9C%BA%E4%B8%BB%E6%88%96%E5%B0%86%E7%A0%B4%E4%BA%A7%23" target="weibo">
+美国很多小农场主或将破产（热度：56043）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E8%8A%82%E6%94%BE%E6%98%A0%E5%9C%BA%E6%AC%A1%E5%88%9B%E5%BD%B1%E5%8F%B2%E6%96%B0%E9%AB%98%23" target="weibo">
 清明节放映场次创影史新高（热度：55905）
 </a>
@@ -9621,6 +9633,12 @@ A50期指涨3%（热度：48861）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E5%A7%91%E5%A8%98%E8%A2%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9A%96%E5%88%B0%E4%BA%86%23" target="weibo">
+外国姑娘被中国人暖到了（热度：42627）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E4%BC%9F%E9%93%BF%E7%8E%8B%E6%98%B6%E4%BA%9A%E9%94%A6%E8%B5%9B%E8%AE%AD%E7%BB%83%23" target="weibo">
 梁伟铿王昶亚锦赛训练（热度：42561）
 </a>
@@ -9825,6 +9843,12 @@ AI修复抗战英雄的模样（热度：36727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%A7%89%E8%B0%88%E5%92%8C%E8%82%96%E6%88%98%E5%90%88%E4%BD%9C%E8%97%8F%E6%B5%B7%E4%BC%A0%23" target="weibo">
+黄觉谈和肖战合作藏海传（热度：34454）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%9A%E8%BF%87%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%88%A4%E6%96%AD%E5%9E%83%E5%9C%BE%E5%85%AC%E5%8F%B8%23" target="weibo">
 通过办公室判断垃圾公司（热度：34449）
 </a>
@@ -9953,12 +9977,6 @@ A股利好连发（热度：32243）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9C%AB%E4%B8%9C%E5%8C%97%E5%A4%9A%E5%9C%B0%E6%9A%B4%E9%9B%AA%E5%A4%A7%E6%9A%B4%E9%9B%AA%E4%B8%8A%E7%BA%BF%23" target="weibo">
 周末东北多地暴雪大暴雪上线（热度：29295）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%BE%88%E5%A4%9A%E5%B0%8F%E5%86%9C%E5%9C%BA%E4%B8%BB%E6%88%96%E5%B0%86%E7%A0%B4%E4%BA%A7%23" target="weibo">
-美国很多小农场主或将破产（热度：29209）
 </a>
 </li>
 
@@ -10371,12 +10389,6 @@ eStar要来WAW当店长了（热度：19030）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%A7%89%E8%B0%88%E5%92%8C%E8%82%96%E6%88%98%E5%90%88%E4%BD%9C%E8%97%8F%E6%B5%B7%E4%BC%A0%23" target="weibo">
-黄觉谈和肖战合作藏海传（热度：15018）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%A7%91%E6%99%AE%E6%B2%BB%E7%84%A6%E8%99%91%E7%97%87%E5%B0%B1%E5%BE%97%E8%B1%81%E5%BE%97%E5%87%BA%E5%8E%BB%23" target="weibo">
 医生科普治焦虑症就得豁得出去（热度：14624）
 </a>
@@ -10529,12 +10541,6 @@ PCL2025（热度：14268）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E9%9C%B2%E8%90%A5%23" target="weibo">
 北方露营（热度：10188）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E5%A7%91%E5%A8%98%E8%A2%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9A%96%E5%88%B0%E4%BA%86%23" target="weibo">
-外国姑娘被中国人暖到了（热度：9639）
 </a>
 </li>
 

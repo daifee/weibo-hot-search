@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744234578299,
+  "endTime": 1744237395504,
   "band_list": [
     {
       "raw_hot": 6521543,
@@ -11,8 +11,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 2467106,
-      "num": 2467106,
+      "raw_hot": 2957222,
+      "num": 2957222,
       "word": "美国被加关税后特朗普呼吁冷静",
       "onboard_time": 1744214184,
       "rank": 1,
@@ -235,6 +235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 214302,
+      "num": 214302,
+      "word": "洛杉矶奥运会乒乓球金牌增至6块",
+      "onboard_time": 1744236195,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189622,
       "num": 189622,
       "word": "微信状态也能调情",
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182431,
+      "num": 182431,
+      "word": "加拿大对美加征关税4月9日生效",
+      "onboard_time": 1744226294,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174182,
       "num": 429690,
       "word": "当中方说要奉陪到底时是认真的",
@@ -265,14 +281,6 @@
       "onboard_time": 1744202846,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153475,
-      "num": 153475,
-      "word": "加拿大对美加征关税4月9日生效",
-      "onboard_time": 1744226294,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 148325,
@@ -395,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85372,
+      "num": 962723,
+      "word": "中方绝对不接受美方极限施压霸道霸凌",
+      "onboard_time": 1744205427,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79948,
       "num": 86195,
       "word": "要相信自己的节奏",
@@ -419,19 +435,27 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 68041,
-      "num": 962723,
-      "word": "中方绝对不接受美方极限施压霸道霸凌",
-      "onboard_time": 1744205427,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 65197,
       "num": 259971,
       "word": "金丝猴宝宝也爱撒娇贴贴",
       "onboard_time": 1744216042,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56043,
+      "num": 56043,
+      "word": "美国很多小农场主或将破产",
+      "onboard_time": 1744230134,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 42627,
+      "num": 42627,
+      "word": "外国姑娘被中国人暖到了",
+      "onboard_time": 1744234515,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -443,20 +467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37696,
-      "num": 37696,
+      "raw_hot": 39122,
+      "num": 39122,
       "word": "道琼斯",
       "onboard_time": 1744213646,
       "rank": 38,
       "category": "财经"
     },
     {
-      "raw_hot": 29209,
-      "num": 29209,
-      "word": "美国很多小农场主或将破产",
-      "onboard_time": 1744230134,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 34454,
+      "num": 58389,
+      "word": "黄觉谈和肖战合作藏海传",
+      "onboard_time": 1744233016,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 27289,
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 24176,
-      "num": 28194,
+      "num": 33494,
       "word": "中国有底气有信心应对美国关税冲击",
       "onboard_time": 1744222276,
       "rank": 43,
@@ -547,28 +571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15018,
-      "num": 20207,
-      "word": "黄觉谈和肖战合作藏海传",
-      "onboard_time": 1744233016,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 12237,
       "num": 21088,
       "word": "中国救援队伍完成缅甸地震救援回国",
       "onboard_time": 1744228816,
       "rank": 44,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 9639,
-      "num": 21591,
-      "word": "外国姑娘被中国人暖到了",
-      "onboard_time": 1744234515,
-      "rank": 41,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

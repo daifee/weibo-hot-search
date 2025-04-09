@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/10 05:36:18
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/10 06:23:15
 </p>
 </blockquote>
 <p>
@@ -135,6 +135,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E5%8A%A0%E5%85%B3%E7%A8%8E%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%86%B7%E9%9D%99%23" target="weibo">
+美国被加关税后特朗普呼吁冷静（热度：2957222）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%BE%B9%E6%89%93%E8%B4%B8%E6%98%93%E6%88%98%E4%B8%80%E8%BE%B9%E6%B1%82%E9%B8%A1%E8%9B%8B%23" target="weibo">
 美国一边打贸易战一边求鸡蛋（热度：2811443）
 </a>
@@ -197,12 +203,6 @@ A股（热度：2689460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%82%B9%E8%AF%84%E7%94%B2%E4%BA%A2%E5%93%A5%E4%B8%AD%E5%9B%BD%E8%A1%8C%23" target="weibo">
 C罗点评甲亢哥中国行（热度：2472029）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E5%8A%A0%E5%85%B3%E7%A8%8E%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%86%B7%E9%9D%99%23" target="weibo">
-美国被加关税后特朗普呼吁冷静（热度：2467106）
 </a>
 </li>
 

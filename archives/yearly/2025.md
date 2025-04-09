@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/10 05:36:18
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/10 06:23:15
 </p>
 </blockquote>
 <p>
@@ -1725,6 +1725,12 @@ DeepSeek（热度：3038517）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E5%8A%A0%E5%85%B3%E7%A8%8E%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%86%B7%E9%9D%99%23" target="weibo">
+美国被加关税后特朗普呼吁冷静（热度：2957222）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%8D%A2%E4%BA%86%E6%83%B3%E4%BA%86%E5%8D%81%E5%B9%B4%E7%9A%84%E5%8F%91%E8%89%B2%23" target="weibo">
 赵露思换了想了十年的发色（热度：2946760）
 </a>
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%92%8C%E5%85%B3%E6%99%93%E5%BD%A4%E9%83%BD%E5%8E%BB%E4%BA%86%E5%AF%BA%E5%BA%99%23" target="weibo">
 鹿晗和关晓彤都去了寺庙（热度：2874896）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%B5%9B%E7%BA%B6%20%E9%87%91%E7%A7%80%E8%B4%A4%23" target="weibo">
-金赛纶 金秀贤（热度：2873262）
 </a>
 </li>
 
