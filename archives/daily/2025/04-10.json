@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744217321155,
+  "endTime": 1744219320609,
   "band_list": [
     {
       "raw_hot": 6521543,
@@ -11,8 +11,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 2398569,
-      "num": 2398569,
+      "raw_hot": 2467106,
+      "num": 2467106,
       "word": "美国被加关税后特朗普呼吁冷静",
       "onboard_time": 1744214184,
       "rank": 1,
@@ -91,6 +91,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 499246,
+      "num": 427022,
+      "word": "赵露思永远没有告别",
+      "onboard_time": 1744215502,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498874,
       "num": 498874,
       "word": "这就是中国态度",
@@ -121,14 +129,6 @@
       "onboard_time": 1744196903,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 351933,
-      "num": 351933,
-      "word": "赵露思永远没有告别",
-      "onboard_time": 1744215502,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 345943,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 93614,
-      "num": 93614,
+      "num": 112933,
       "word": "陈都灵摄影扶卮",
       "onboard_time": 1744213885,
       "rank": 44,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 93448,
-      "num": 93448,
+      "num": 115221,
       "word": "时代少年团演唱会 海口",
       "onboard_time": 1744202666,
       "rank": 45,
@@ -395,7 +395,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 67714,
+      "raw_hot": 73114,
       "num": 80696,
       "word": "PUBG",
       "onboard_time": 1744217058,
@@ -409,6 +409,22 @@
       "onboard_time": 1744216042,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52135,
+      "num": 429690,
+      "word": "当中方说要奉陪到底时是认真的",
+      "onboard_time": 1744218019,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 39460,
+      "num": 64848,
+      "word": "白鹿 爱能克服远距离",
+      "onboard_time": 1744218977,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 24886,

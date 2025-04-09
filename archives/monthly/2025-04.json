@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744217321155,
+  "endTime": 1744219320609,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -251,6 +251,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 2467106,
+      "num": 2467106,
+      "word": "美国被加关税后特朗普呼吁冷静",
+      "onboard_time": 1744214184,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2447824,
       "num": 2447824,
       "word": "中国赴美游客风险提示",
@@ -281,14 +289,6 @@
       "onboard_time": 1743733702,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 2398569,
-      "num": 2398569,
-      "word": "美国被加关税后特朗普呼吁冷静",
-      "onboard_time": 1744214184,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 2373379,
@@ -4851,6 +4851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 499246,
+      "num": 427022,
+      "word": "赵露思永远没有告别",
+      "onboard_time": 1744215502,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498494,
       "num": 399341,
       "word": "薛之谦 愚人节",
@@ -7097,14 +7105,6 @@
       "onboard_time": 1743860902,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 351933,
-      "num": 351933,
-      "word": "赵露思永远没有告别",
-      "onboard_time": 1744215502,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 351857,
@@ -24020,7 +24020,7 @@
     },
     {
       "raw_hot": 93614,
-      "num": 93614,
+      "num": 112933,
       "word": "陈都灵摄影扶卮",
       "onboard_time": 1744213885,
       "rank": 44,
@@ -25363,6 +25363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73114,
+      "num": 80696,
+      "word": "PUBG",
+      "onboard_time": 1744217058,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 72983,
       "num": 72983,
       "word": "王楚钦给队友示范绳梯训练",
@@ -25705,14 +25713,6 @@
       "onboard_time": 1743513984,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 67714,
-      "num": 80696,
-      "word": "PUBG",
-      "onboard_time": 1744217058,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 67687,
@@ -26747,6 +26747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52135,
+      "num": 429690,
+      "word": "当中方说要奉陪到底时是认真的",
+      "onboard_time": 1744218019,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52092,
       "num": 83911,
       "word": "美2名宇航员回地球后首次开发布会",
@@ -27545,6 +27553,14 @@
       "onboard_time": 1744110561,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39460,
+      "num": 64848,
+      "word": "白鹿 爱能克服远距离",
+      "onboard_time": 1744218977,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 39436,

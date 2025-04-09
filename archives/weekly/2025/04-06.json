@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744217321155,
+  "endTime": 1744219320609,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -131,6 +131,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 2467106,
+      "num": 2467106,
+      "word": "美国被加关税后特朗普呼吁冷静",
+      "onboard_time": 1744214184,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2447824,
       "num": 2447824,
       "word": "中国赴美游客风险提示",
@@ -145,14 +153,6 @@
       "onboard_time": 1744084765,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 2398569,
-      "num": 2398569,
-      "word": "美国被加关税后特朗普呼吁冷静",
-      "onboard_time": 1744214184,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 2373379,
@@ -2347,6 +2347,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 499246,
+      "num": 427022,
+      "word": "赵露思永远没有告别",
+      "onboard_time": 1744215502,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497911,
       "num": 497911,
       "word": "徐若晗首部一番古装剧",
@@ -3440,14 +3448,6 @@
       "word": "BoA向朴娜莱道歉",
       "onboard_time": 1744079602,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 351933,
-      "num": 351933,
-      "word": "赵露思永远没有告别",
-      "onboard_time": 1744215502,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -11356,7 +11356,7 @@
     },
     {
       "raw_hot": 93614,
-      "num": 93614,
+      "num": 112933,
       "word": "陈都灵摄影扶卮",
       "onboard_time": 1744213885,
       "rank": 44,
@@ -11955,6 +11955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73114,
+      "num": 80696,
+      "word": "PUBG",
+      "onboard_time": 1744217058,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 72131,
       "num": 86776,
       "word": "一边变脸一边跳街舞惊艳老外",
@@ -12112,14 +12120,6 @@
       "word": "Ning怒喷Cat",
       "onboard_time": 1743895217,
       "rank": 36,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 67714,
-      "num": 80696,
-      "word": "PUBG",
-      "onboard_time": 1744217058,
-      "rank": 49,
       "category": "电竞"
     },
     {
@@ -12571,6 +12571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 52135,
+      "num": 429690,
+      "word": "当中方说要奉陪到底时是认真的",
+      "onboard_time": 1744218019,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52007,
       "num": 52007,
       "word": "甲亢哥体验摇摇马一脸认真",
@@ -12897,6 +12905,14 @@
       "onboard_time": 1744110561,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39460,
+      "num": 64848,
+      "word": "白鹿 爱能克服远距离",
+      "onboard_time": 1744218977,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 39436,
