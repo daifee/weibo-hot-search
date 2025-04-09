@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1744205723241,
+  "endTime": 1744206395951,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -635,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8693435,
+      "num": 8693435,
+      "word": "欧盟对美加征25%关税",
+      "onboard_time": 1744204348,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 8423438,
       "num": 8423438,
       "word": "云南震感",
@@ -865,14 +873,6 @@
       "onboard_time": 1738151061,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5998600,
-      "num": 5998600,
-      "word": "欧盟对美加征25%关税",
-      "onboard_time": 1744204348,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 5865317,

@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744205723241,
+  "endTime": 1744206395951,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -11,8 +11,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 5998600,
-      "num": 5998600,
+      "raw_hot": 8693435,
+      "num": 8693435,
       "word": "欧盟对美加征25%关税",
       "onboard_time": 1744204348,
       "rank": 1,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1073403,
-      "num": 1079392,
+      "num": 1134848,
       "word": "折腰 四月空降",
       "onboard_time": 1744199485,
       "rank": 6,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 988634,
-      "num": 988634,
+      "num": 1134451,
       "word": "这就是中国态度",
       "onboard_time": 1744200625,
       "rank": 9,
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 787999,
+      "num": 787999,
+      "word": "美股",
+      "onboard_time": 1744199126,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 764097,
       "num": 871840,
       "word": "终于有剧拍了大学恋爱的经济差",
@@ -459,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 707363,
-      "num": 707363,
-      "word": "美股",
-      "onboard_time": 1744199126,
-      "rank": 12,
-      "category": "财经"
+      "raw_hot": 691319,
+      "num": 691319,
+      "word": "特别主演张智霖",
+      "onboard_time": 1744204227,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 680554,
@@ -489,6 +497,14 @@
       "onboard_time": 1744188682,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 640020,
+      "num": 640020,
+      "word": "孕妇拔坟头草煮水喝母子险丧命",
+      "onboard_time": 1744202486,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 636430,
@@ -555,20 +571,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 540868,
+      "num": 540868,
+      "word": "黄金",
+      "onboard_time": 1744201285,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 539242,
       "num": 662263,
       "word": "温峥嵘 叫妈咪",
       "onboard_time": 1744179383,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 538367,
-      "num": 538367,
-      "word": "孕妇拔坟头草煮水喝母子险丧命",
-      "onboard_time": 1744202486,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 534862,
@@ -715,22 +731,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 450772,
-      "num": 450772,
-      "word": "黄金",
-      "onboard_time": 1744201285,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 445224,
-      "num": 586472,
-      "word": "特别主演张智霖",
-      "onboard_time": 1744204227,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 443783,
       "num": 385605,
       "word": "女儿隆鼻结果妈妈肋骨断了三根",
@@ -819,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 382212,
+      "num": 1134165,
+      "word": "时代少年团演唱会 海口",
+      "onboard_time": 1744202666,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 375919,
       "num": 339558,
       "word": "美国主持人贯口列举什么会涨价",
@@ -833,14 +841,6 @@
       "onboard_time": 1744158444,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373634,
-      "num": 1075279,
-      "word": "时代少年团演唱会 海口",
-      "onboard_time": 1744202666,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 371852,
@@ -955,6 +955,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 327176,
+      "num": 327176,
+      "word": "加拿大开始对美反制",
+      "onboard_time": 1744188083,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 326330,
       "num": 326329,
       "word": "骗子被骗收到5万冥币当场破防",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1744124483,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 302983,
-      "num": 302983,
-      "word": "加拿大开始对美反制",
-      "onboard_time": 1744188083,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 301340,
@@ -1339,12 +1339,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 244741,
+      "num": 328547,
+      "word": "张若昀终于用上祺贵人的梗了",
+      "onboard_time": 1744205249,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242293,
       "num": 312501,
       "word": "星穹铁道",
       "onboard_time": 1744164441,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242189,
+      "num": 242189,
+      "word": "夜里外卖买炭早起有10多个未接电话",
+      "onboard_time": 1744204586,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240777,
@@ -1385,14 +1401,6 @@
       "onboard_time": 1744198527,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 237540,
-      "num": 237540,
-      "word": "夜里外卖买炭早起有10多个未接电话",
-      "onboard_time": 1744204586,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 237030,
@@ -1611,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210341,
+      "num": 674365,
+      "word": "汉L唐L上市价格20.98万起",
+      "onboard_time": 1744205668,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 209440,
       "num": 209440,
       "word": "国新办发布中美经贸关系白皮书",
@@ -1779,8 +1795,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196973,
-      "num": 196973,
+      "raw_hot": 197492,
+      "num": 670952,
       "word": "金素妍44岁状态",
       "onboard_time": 1744203147,
       "rank": 41,
@@ -1883,20 +1899,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187239,
+      "num": 4995455,
+      "word": "外媒称美国的痛苦是自作自受",
+      "onboard_time": 1744205668,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 185568,
       "num": 185568,
       "word": "iPhone17Air到底有多薄",
       "onboard_time": 1744171284,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 185424,
-      "num": 185424,
-      "word": "张若昀终于用上祺贵人的梗了",
-      "onboard_time": 1744205249,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 185146,
@@ -2121,6 +2137,14 @@
       "onboard_time": 1744167442,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164452,
+      "num": 164452,
+      "word": "唐尚珺转专业希望落空",
+      "onboard_time": 1744205607,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 163928,
@@ -3331,6 +3355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27799,
+      "num": 668428,
+      "word": "女孩被老师砸伤头骨仍靠药物入睡",
+      "onboard_time": 1744205726,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25640,
       "num": 175183,
       "word": "缅甸地震后的受损卧佛",
@@ -3355,20 +3387,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 23176,
-      "num": 178877,
-      "word": "汉L唐L上市价格20.98万起",
-      "onboard_time": 1744205668,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 22908,
       "num": 392896,
       "word": "北影节有近300部进口电影",
       "onboard_time": 1744186161,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22501,
+      "num": 690370,
+      "word": "不戴滤镜成甲亢哥流量密码",
+      "onboard_time": 1744205668,
+      "rank": 40,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 22329,
@@ -3409,14 +3441,6 @@
       "onboard_time": 1744197565,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 18304,
-      "num": 197281,
-      "word": "不戴滤镜成甲亢哥流量密码",
-      "onboard_time": 1744205668,
-      "rank": 40,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 18269,
@@ -3521,14 +3545,6 @@
       "onboard_time": 1744170504,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 6799,
-      "num": 4105092,
-      "word": "外媒称美国的痛苦是自作自受",
-      "onboard_time": 1744205668,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -3549,6 +3565,9 @@
     },
     {
       "word": "#聚焦构建周边命运共同体#"
+    },
+    {
+      "word": "#中央周边工作会议在京举行#"
     }
   ]
 }
