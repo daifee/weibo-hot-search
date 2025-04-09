@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744219320609,
+  "endTime": 1744220474715,
   "band_list": [
     {
       "raw_hot": 6521543,
@@ -139,6 +139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 334614,
+      "num": 334614,
+      "word": "美股",
+      "onboard_time": 1744199126,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 330284,
       "num": 330284,
       "word": "白冰冰7年做了16次试管婴儿",
@@ -211,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217716,
+      "num": 217716,
+      "word": "外交部回应美国对华征收104%关税",
+      "onboard_time": 1744184001,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 189622,
       "num": 189622,
       "word": "微信状态也能调情",
@@ -227,12 +243,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179954,
-      "num": 179954,
-      "word": "外交部回应美国对华征收104%关税",
-      "onboard_time": 1744184001,
-      "rank": 32,
-      "category": "国内时政"
+      "raw_hot": 170388,
+      "num": 429690,
+      "word": "当中方说要奉陪到底时是认真的",
+      "onboard_time": 1744218019,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156432,
@@ -241,14 +257,6 @@
       "onboard_time": 1744202846,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152904,
-      "num": 152904,
-      "word": "美股",
-      "onboard_time": 1744199126,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 148325,
@@ -305,6 +313,14 @@
       "onboard_time": 1744212146,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117172,
+      "num": 117172,
+      "word": "纳斯达克",
+      "onboard_time": 1744211906,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 111859,
@@ -371,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88427,
-      "num": 88427,
-      "word": "纳斯达克",
-      "onboard_time": 1744211906,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 79948,
       "num": 86195,
       "word": "要相信自己的节奏",
@@ -411,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52135,
-      "num": 429690,
-      "word": "当中方说要奉陪到底时是认真的",
-      "onboard_time": 1744218019,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 39460,
       "num": 64848,
       "word": "白鹿 爱能克服远距离",
@@ -432,6 +432,14 @@
       "word": "白皮书",
       "onboard_time": 1744183223,
       "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 23745,
+      "num": 962723,
+      "word": "中方绝对不接受美方极限施压霸道霸凌",
+      "onboard_time": 1744205427,
+      "rank": 2,
       "category": "国内时政"
     }
   ],
