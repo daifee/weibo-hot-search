@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/09 14:34:54
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/09 14:48:09
 </p>
 </blockquote>
 <p>
@@ -527,6 +527,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%AD%E4%B9%90%20%E9%85%B8%E6%A2%85%E7%B2%89%23" target="weibo">
 芭乐 酸梅粉（热度：1546550）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%8F%B6%E7%90%B3%E7%91%AF%E5%8E%BB%E4%B8%96%23" target="weibo">
+演员叶琳瑯去世（热度：1529119）
 </a>
 </li>
 
@@ -1197,12 +1203,6 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%8F%B6%E7%90%B3%E7%91%AF%E5%8E%BB%E4%B8%96%23" target="weibo">
-演员叶琳瑯去世（热度：1058651）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E7%AC%AC%E4%B8%80%E5%90%8D%23" target="weibo">
 李晟第一名（热度：1057584）
 </a>
@@ -1373,6 +1373,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%8C%E5%92%8C%E5%88%98%E5%BC%BA%E4%B8%9C%E4%B8%80%E8%B5%B7%E5%90%83%E5%A4%96%E5%8D%96%23" target="weibo">
 李斌和刘强东一起吃外卖（热度：976586）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2341%E5%B2%81%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23" target="weibo">
+41岁男子地铁猥亵女子被行拘（热度：975279）
 </a>
 </li>
 
@@ -1689,12 +1695,6 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2341%E5%B2%81%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23" target="weibo">
-41岁男子地铁猥亵女子被行拘（热度：866238）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%AB%99%E5%A7%90%E5%8F%91%E4%BA%86%E6%9D%8E%E6%98%80%E9%94%90%E5%92%8C%E7%A7%A6%E9%9C%84%E8%B4%A4%23" target="weibo">
 孟子义站姐发了李昀锐和秦霄贤（热度：864707）
 </a>
@@ -1941,6 +1941,12 @@ YERI和Wendy离开SM（热度：805847）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%AE%E6%B0%B4%E7%AB%B9%E4%BA%AD%20%E5%BB%B6%E6%9C%9F%23" target="weibo">
+淮水竹亭 延期（热度：800908）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BA%A64.2%E4%B8%87%E5%85%B7%E9%81%97%E4%BD%93%E6%97%A0%E4%BA%BA%E8%AE%A4%E9%A2%86%23" target="weibo">
 日本约4.2万具遗体无人认领（热度：799165）
 </a>
@@ -2153,12 +2159,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%BA%BA%E8%BE%A3%E8%AF%84%E8%91%A3%E5%8A%9B%23" target="weibo">
 家人辣评董力（热度：731408）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%AE%E6%B0%B4%E7%AB%B9%E4%BA%AD%20%E5%BB%B6%E6%9C%9F%23" target="weibo">
-淮水竹亭 延期（热度：731298）
 </a>
 </li>
 
@@ -2799,6 +2799,12 @@ Angelababy女王权杖（热度：593316）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%80%BA%23" target="weibo">
+美债（热度：586925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%80%E5%A5%B3%E7%94%9F%E7%88%B6%E4%BA%B2%E6%A0%A1%E9%97%A8%E5%8F%A3%E6%AE%B4%E6%89%93%E5%85%AD%E5%B9%B4%E7%BA%A7%E5%AD%A6%E7%94%9F%23" target="weibo">
 初一女生父亲校门口殴打六年级学生（热度：585777）
 </a>
@@ -2883,6 +2889,12 @@ Angelababy女王权杖（热度：593316）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E5%BE%AE%E4%BF%A1%E5%BC%80%E9%80%9A%E5%B7%B2%E8%AF%BB%E5%8A%9F%E8%83%BD%23" target="weibo">
+腾讯客服回应微信开通已读功能（热度：569866）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A4%E7%8B%AC%E7%9A%84%E6%A0%91%E6%88%90%E7%BD%91%E7%BA%A2%E6%99%AF%E7%82%B9%23" target="weibo">
 青岛文旅局回应孤独的树成网红景点（热度：569240）
 </a>
@@ -2921,12 +2933,6 @@ BLACKPINK即将五月回归（热度：568944）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%9B%9B%E5%A5%96%E7%AB%A0%E5%85%A5%E5%9B%B4%E5%90%8D%E5%8D%95%E5%85%AC%E7%A4%BA%23" target="weibo">
 五四奖章入围名单公示（热度：562047）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%80%BA%23" target="weibo">
-美债（热度：561700）
 </a>
 </li>
 
@@ -3071,6 +3077,12 @@ Songha公开（热度：554934）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E9%A3%9E%E6%9C%BA%E7%A5%A8%E6%9C%80%E4%BE%BF%E5%AE%9C%E7%9A%84%E4%B8%89%E4%B8%AA%E6%97%B6%E9%97%B4%E6%AE%B5%23" target="weibo">
 买飞机票最便宜的三个时间段（热度：539521）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B3%A5%E5%B5%98%20%E5%8F%AB%E5%A6%88%E5%92%AA%23" target="weibo">
+温峥嵘 叫妈咪（热度：539242）
 </a>
 </li>
 
@@ -4047,6 +4059,12 @@ Hyunjun公开（热度：426369）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%B4%B5%E8%8F%9C%E6%98%AF%E7%82%92%E9%B8%A1%E8%9B%8B%E6%88%90%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BB%9C%E7%83%AD%E6%A2%97%23" target="weibo">
+最贵菜是炒鸡蛋成美国网络热梗（热度：419131）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%AD%A3%E5%BB%B7%E8%AF%B4%E4%B8%80%E7%9B%B4%E9%83%BD%E6%9C%89%E5%9C%A8%E8%81%94%E7%B3%BB%23" target="weibo">
 朱正廷说一直都有在联系（热度：418864）
 </a>
@@ -4109,6 +4127,12 @@ Hyunjun公开（热度：426369）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NINEPERCENT%E4%B8%83%E5%91%A8%E5%B9%B4%23" target="weibo">
 NINEPERCENT七周年（热度：415549）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E4%BA%91%E6%9D%A5%E9%99%88%E9%83%BD%E7%81%B5%E7%89%B5%E6%89%8B%E5%85%A5%E5%9C%BA%23" target="weibo">
+辛云来陈都灵牵手入场（热度：415019）
 </a>
 </li>
 
@@ -4185,8 +4209,8 @@ NINEPERCENT七周年（热度：415549）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B3%A5%E5%B5%98%20%E5%8F%AB%E5%A6%88%E5%92%AA%23" target="weibo">
-温峥嵘 叫妈咪（热度：409001）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%9D%A1%E4%B8%80%E5%85%8B%E8%B7%8C20%E5%85%83%E7%8E%B0%E5%9C%A8%E5%85%A5%E6%89%8B%E5%90%88%E9%80%82%E5%90%97%23" target="weibo">
+金条一克跌20元现在入手合适吗（热度：408727）
 </a>
 </li>
 
@@ -4355,12 +4379,6 @@ TVB女演员陈思齐摆摊卖鸡爪（热度：399114）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E7%A8%8E%E5%B0%86%E8%AE%A9%E7%BE%8E%E5%9B%BD%E5%AE%B6%E5%BA%AD%E6%AF%8F%E5%B9%B4%E5%A4%9A%E8%8A%B13.6%E4%B8%87%E5%85%83%23" target="weibo">
 关税将让美国家庭每年多花3.6万元（热度：393436）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E4%BA%91%E6%9D%A5%E9%99%88%E9%83%BD%E7%81%B5%E7%89%B5%E6%89%8B%E5%85%A5%E5%9C%BA%23" target="weibo">
-辛云来陈都灵牵手入场（热度：392929）
 </a>
 </li>
 
@@ -5145,12 +5163,6 @@ Uzi妻子宣布胜诉（热度：341626）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E5%BE%AE%E4%BF%A1%E5%BC%80%E9%80%9A%E5%B7%B2%E8%AF%BB%E5%8A%9F%E8%83%BD%23" target="weibo">
-腾讯客服回应微信开通已读功能（热度：338396）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone17Air%E6%96%B0%E6%9C%BA%E6%A8%A1%E6%9B%9D%E5%85%89%23" target="weibo">
 iPhone17Air新机模曝光（热度：338228）
 </a>
@@ -5495,6 +5507,12 @@ BLACKPINK nword（热度：324614）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%8A%E5%9D%9F%E5%BC%95%E5%8F%91%E5%B1%B1%E7%81%AB%E7%83%A7%E6%AD%BB66%E5%8F%AA%E7%BE%8A%E6%97%A0%E9%92%B1%E8%B5%94%23" target="weibo">
 老人上坟引发山火烧死66只羊无钱赔（热度：318565）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%20%E4%B8%8D%E5%8A%A0%E5%85%A5%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97%23" target="weibo">
+于正 不加入乌合之众（热度：318455）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ deepseek对许嵩作词甘拜下风（热度：294331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E4%B8%8D%E8%A6%81%E9%A2%91%E7%B9%81%E5%81%9ACT%23" target="weibo">
 医生提醒不要频繁做CT（热度：291582）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AF%8C%E8%B1%AA%E8%91%A3%E4%BA%8B%E9%95%BF%E7%9A%84%E8%90%A5%E5%85%BB%E6%97%A9%E9%A4%90%23" target="weibo">
-韩国富豪董事长的营养早餐（热度：291582）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%AC%E5%BC%80%E6%8C%96%E8%8B%A6%E7%89%B9%E6%9C%97%E6%99%AE%E9%A1%BE%E9%97%AE%23" target="weibo">
-马斯克公开挖苦特朗普顾问（热度：290726）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%81%AD%E7%94%B7%E5%AD%A9%E6%8C%89%E5%85%A5%E6%B0%B4%E4%B8%AD%E6%AF%8D%E4%BA%B2%E5%8F%8D%E5%87%BB%E8%A2%AB%E5%88%A4%E8%B5%94%23" target="weibo">
-女儿遭男孩按入水中母亲反击被判赔（热度：290535）
 </a>
 </li>
 

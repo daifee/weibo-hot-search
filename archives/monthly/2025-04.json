@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744180494285,
+  "endTime": 1744181289747,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -689,6 +689,14 @@
       "onboard_time": 1743758723,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1529119,
+      "num": 1529119,
+      "word": "演员叶琳瑯去世",
+      "onboard_time": 1744179863,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1522814,
@@ -1579,14 +1587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1058651,
-      "num": 1058651,
-      "word": "演员叶琳瑯去世",
-      "onboard_time": 1744179863,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1057584,
       "num": 1057584,
       "word": "李晟第一名",
@@ -1817,6 +1817,14 @@
       "onboard_time": 1744167262,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 975279,
+      "num": 975279,
+      "word": "41岁男子地铁猥亵女子被行拘",
+      "onboard_time": 1744177462,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 972027,
@@ -2235,14 +2243,6 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 866238,
-      "num": 866238,
-      "word": "41岁男子地铁猥亵女子被行拘",
-      "onboard_time": 1744177462,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 864707,
       "num": 402858,
       "word": "孟子义站姐发了李昀锐和秦霄贤",
@@ -2571,6 +2571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 800908,
+      "num": 800908,
+      "word": "淮水竹亭 延期",
+      "onboard_time": 1744178782,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 799165,
       "num": 799165,
       "word": "日本约4.2万具遗体无人认领",
@@ -2857,14 +2865,6 @@
       "onboard_time": 1743936561,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 731298,
-      "num": 731298,
-      "word": "淮水竹亭 延期",
-      "onboard_time": 1744178782,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 730692,
@@ -3715,6 +3715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 586925,
+      "num": 586925,
+      "word": "美债",
+      "onboard_time": 1744176324,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 585777,
       "num": 424591,
       "word": "初一女生父亲校门口殴打六年级学生",
@@ -3827,6 +3835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 569866,
+      "num": 569866,
+      "word": "腾讯客服回应微信开通已读功能",
+      "onboard_time": 1744179022,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 569240,
       "num": 569240,
       "word": "青岛文旅局回应孤独的树成网红景点",
@@ -3881,14 +3897,6 @@
       "onboard_time": 1743989060,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 561700,
-      "num": 561700,
-      "word": "美债",
-      "onboard_time": 1744176324,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 559747,
@@ -4081,6 +4089,14 @@
       "onboard_time": 1744018402,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 539242,
+      "num": 539242,
+      "word": "温峥嵘 叫妈咪",
+      "onboard_time": 1744179383,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 538198,
@@ -5379,6 +5395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419131,
+      "num": 419131,
+      "word": "最贵菜是炒鸡蛋成美国网络热梗",
+      "onboard_time": 1744178842,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 418864,
       "num": 364571,
       "word": "朱正廷说一直都有在联系",
@@ -5464,6 +5488,14 @@
       "word": "NINEPERCENT七周年",
       "onboard_time": 1743896657,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 415019,
+      "num": 415019,
+      "word": "辛云来陈都灵牵手入场",
+      "onboard_time": 1744177642,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -5563,12 +5595,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 409001,
-      "num": 409001,
-      "word": "温峥嵘 叫妈咪",
-      "onboard_time": 1744179383,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 408727,
+      "num": 408727,
+      "word": "金条一克跌20元现在入手合适吗",
+      "onboard_time": 1744180101,
+      "rank": 31,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 408111,
@@ -5793,14 +5825,6 @@
       "onboard_time": 1743692663,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 392929,
-      "num": 352064,
-      "word": "辛云来陈都灵牵手入场",
-      "onboard_time": 1744177642,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 392662,
@@ -6843,14 +6867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338396,
-      "num": 338396,
-      "word": "腾讯客服回应微信开通已读功能",
-      "onboard_time": 1744179022,
-      "rank": 20,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 338228,
       "num": 338228,
       "word": "iPhone17Air新机模曝光",
@@ -7313,6 +7329,14 @@
       "onboard_time": 1743645141,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 318455,
+      "num": 318455,
+      "word": "于正 不加入乌合之众",
+      "onboard_time": 1744179443,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 318273,
@@ -8132,7 +8156,7 @@
     },
     {
       "raw_hot": 286344,
-      "num": 286344,
+      "num": 318398,
       "word": "观鹤笔记 陈丽君反串",
       "onboard_time": 1744176562,
       "rank": 28,
@@ -8833,14 +8857,6 @@
       "onboard_time": 1743477203,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 262486,
-      "num": 415693,
-      "word": "最贵菜是炒鸡蛋成美国网络热梗",
-      "onboard_time": 1744178842,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 261967,
@@ -9561,14 +9577,6 @@
       "onboard_time": 1744009703,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 238143,
-      "num": 238143,
-      "word": "于正 不加入乌合之众",
-      "onboard_time": 1744179443,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 237820,
@@ -10787,6 +10795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212163,
+      "num": 212163,
+      "word": "杨紫许凯承欢记最强售后",
+      "onboard_time": 1744179983,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212013,
       "num": 212013,
       "word": "终于知道了一次性手套漏油的原因",
@@ -11827,6 +11843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198864,
+      "num": 198864,
+      "word": "iPhone17Pro五大新变化",
+      "onboard_time": 1744177344,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 198849,
       "num": 198849,
       "word": "成毅站姐发任嘉伦",
@@ -12065,14 +12089,6 @@
       "onboard_time": 1743597624,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196192,
-      "num": 196192,
-      "word": "金条一克跌20元现在入手合适吗",
-      "onboard_time": 1744180101,
-      "rank": 31,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 196053,
@@ -12515,6 +12531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192049,
+      "num": 192049,
+      "word": "白鹿李佩仪今日杀青",
+      "onboard_time": 1744180642,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191988,
       "num": 191988,
       "word": "向阳花今日公映",
@@ -12825,6 +12849,14 @@
       "onboard_time": 1743906741,
       "rank": 27,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 188586,
+      "num": 253086,
+      "word": "中央周边工作会议在北京举行",
+      "onboard_time": 1744180942,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188434,
@@ -13291,6 +13323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184840,
+      "num": 339827,
+      "word": "男子回应女方隐瞒疾病索还26.8万彩礼",
+      "onboard_time": 1744178903,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184836,
       "num": 184836,
       "word": "孙俪摔倒后想趁腿没肿继续拍",
@@ -13560,14 +13600,6 @@
       "word": "唐嫣这幕好帅但为什么扛着大葱",
       "onboard_time": 1743664941,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 182399,
-      "num": 182399,
-      "word": "杨紫许凯承欢记最强售后",
-      "onboard_time": 1744179983,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -14403,14 +14435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 173324,
-      "num": 173324,
-      "word": "iPhone17Pro五大新变化",
-      "onboard_time": 1744177344,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
       "raw_hot": 173270,
       "num": 522842,
       "word": "深圳航空回应乘客咬伤空姐",
@@ -15067,14 +15091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165749,
-      "num": 339827,
-      "word": "男子回应女方隐瞒疾病索还26.8万彩礼",
-      "onboard_time": 1744178903,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165692,
       "num": 188425,
       "word": "赵晓卉 文明人不适合做领导",
@@ -15468,7 +15484,7 @@
     },
     {
       "raw_hot": 161579,
-      "num": 199908,
+      "num": 211209,
       "word": "黄英牌手机链是浪姐6新团宠",
       "onboard_time": 1744179803,
       "rank": 29,
@@ -23507,6 +23523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81432,
+      "num": 259228,
+      "word": "一笙评论区KPL辅助大团建",
+      "onboard_time": 1744180942,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81045,
       "num": 93200,
       "word": "YERI泡泡发文",
@@ -25700,7 +25724,7 @@
     },
     {
       "raw_hot": 42212,
-      "num": 190303,
+      "num": 318378,
       "word": "智搜分析上海地铁猥亵事件",
       "onboard_time": 1744180402,
       "rank": 34,
@@ -26905,6 +26929,14 @@
       "onboard_time": 1743790755,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25640,
+      "num": 175183,
+      "word": "缅甸地震后的受损卧佛",
+      "onboard_time": 1744180582,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 25576,

@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744180494285,
+  "endTime": 1744181289747,
   "band_list": [
     {
       "raw_hot": 2811443,
@@ -59,6 +59,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1529119,
+      "num": 1529119,
+      "word": "演员叶琳瑯去世",
+      "onboard_time": 1744179863,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1522814,
       "num": 1522814,
       "word": "美国关税大棒或致国内蛋价再次上涨",
@@ -115,14 +123,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1058651,
-      "num": 1058651,
-      "word": "演员叶琳瑯去世",
-      "onboard_time": 1744179863,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 998651,
       "num": 998651,
       "word": "掘金解雇马龙",
@@ -147,6 +147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 975279,
+      "num": 975279,
+      "word": "41岁男子地铁猥亵女子被行拘",
+      "onboard_time": 1744177462,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 928628,
       "num": 638398,
       "word": "肖战 羽西",
@@ -169,14 +177,6 @@
       "onboard_time": 1744154300,
       "rank": 18,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 866238,
-      "num": 866238,
-      "word": "41岁男子地铁猥亵女子被行拘",
-      "onboard_time": 1744177462,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 861452,
@@ -211,8 +211,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 731298,
-      "num": 731298,
+      "raw_hot": 800908,
+      "num": 800908,
       "word": "淮水竹亭 延期",
       "onboard_time": 1744178782,
       "rank": 7,
@@ -251,6 +251,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 586925,
+      "num": 586925,
+      "word": "美债",
+      "onboard_time": 1744176324,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 569866,
+      "num": 569866,
+      "word": "腾讯客服回应微信开通已读功能",
+      "onboard_time": 1744179022,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 568645,
       "num": 622148,
       "word": "宜兰地震",
@@ -267,12 +283,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 561700,
-      "num": 561700,
-      "word": "美债",
-      "onboard_time": 1744176324,
-      "rank": 36,
-      "category": "财经"
+      "raw_hot": 539242,
+      "num": 539242,
+      "word": "温峥嵘 叫妈咪",
+      "onboard_time": 1744179383,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 531212,
@@ -379,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419131,
+      "num": 419131,
+      "word": "最贵菜是炒鸡蛋成美国网络热梗",
+      "onboard_time": 1744178842,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 417613,
       "num": 211724,
       "word": "贾静雯回应股市受灾情况",
@@ -403,12 +427,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 409001,
-      "num": 409001,
-      "word": "温峥嵘 叫妈咪",
-      "onboard_time": 1744179383,
-      "rank": 15,
+      "raw_hot": 415019,
+      "num": 415019,
+      "word": "辛云来陈都灵牵手入场",
+      "onboard_time": 1744177642,
+      "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 408727,
+      "num": 408727,
+      "word": "金条一克跌20元现在入手合适吗",
+      "onboard_time": 1744180101,
+      "rank": 31,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 406427,
@@ -417,14 +449,6 @@
       "onboard_time": 1744171824,
       "rank": 14,
       "category": "海外新闻,财经"
-    },
-    {
-      "raw_hot": 392929,
-      "num": 352064,
-      "word": "辛云来陈都灵牵手入场",
-      "onboard_time": 1744177642,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 385599,
@@ -499,14 +523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 338396,
-      "num": 338396,
-      "word": "腾讯客服回应微信开通已读功能",
-      "onboard_time": 1744179022,
-      "rank": 20,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 336457,
       "num": 302934,
       "word": "31岁宝妈长期生闷气确诊乳腺癌晚期",
@@ -561,6 +577,14 @@
       "onboard_time": 1744175964,
       "rank": 23,
       "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 318455,
+      "num": 318455,
+      "word": "于正 不加入乌合之众",
+      "onboard_time": 1744179443,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 317101,
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 286344,
-      "num": 286344,
+      "num": 318398,
       "word": "观鹤笔记 陈丽君反串",
       "onboard_time": 1744176562,
       "rank": 28,
@@ -747,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262486,
-      "num": 415693,
-      "word": "最贵菜是炒鸡蛋成美国网络热梗",
-      "onboard_time": 1744178842,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 260586,
       "num": 260586,
       "word": "胖东来帮扶多家超市损失19亿销售额",
@@ -801,14 +817,6 @@
       "onboard_time": 1744164441,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 238143,
-      "num": 238143,
-      "word": "于正 不加入乌合之众",
-      "onboard_time": 1744179443,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 237030,
@@ -939,6 +947,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 212163,
+      "num": 212163,
+      "word": "杨紫许凯承欢记最强售后",
+      "onboard_time": 1744179983,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207686,
       "num": 207686,
       "word": "勇士38分大胜太阳",
@@ -1003,20 +1019,20 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 198864,
+      "num": 198864,
+      "word": "iPhone17Pro五大新变化",
+      "onboard_time": 1744177344,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196339,
       "num": 196339,
       "word": "孙悟空林黛玉 都是名著也算门当户对",
       "onboard_time": 1744173505,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 196192,
-      "num": 196192,
-      "word": "金条一克跌20元现在入手合适吗",
-      "onboard_time": 1744180101,
-      "rank": 31,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 195985,
@@ -1043,6 +1059,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192049,
+      "num": 192049,
+      "word": "白鹿李佩仪今日杀青",
+      "onboard_time": 1744180642,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188586,
+      "num": 253086,
+      "word": "中央周边工作会议在北京举行",
+      "onboard_time": 1744180942,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 187858,
       "num": 187858,
       "word": "90花颜霸",
@@ -1067,6 +1099,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 184840,
+      "num": 339827,
+      "word": "男子回应女方隐瞒疾病索还26.8万彩礼",
+      "onboard_time": 1744178903,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183455,
       "num": 183455,
       "word": "珍珠项链居然可以这么戴",
@@ -1081,14 +1121,6 @@
       "onboard_time": 1744155021,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 182399,
-      "num": 182399,
-      "word": "杨紫许凯承欢记最强售后",
-      "onboard_time": 1744179983,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 181609,
@@ -1147,27 +1179,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 173324,
-      "num": 173324,
-      "word": "iPhone17Pro五大新变化",
-      "onboard_time": 1744177344,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
       "raw_hot": 168486,
       "num": 168486,
       "word": "四川泸州一面包车撞塌民房已致5死",
       "onboard_time": 1744159763,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165749,
-      "num": 339827,
-      "word": "男子回应女方隐瞒疾病索还26.8万彩礼",
-      "onboard_time": 1744178903,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1212,7 +1228,7 @@
     },
     {
       "raw_hot": 161579,
-      "num": 199908,
+      "num": 211209,
       "word": "黄英牌手机链是浪姐6新团宠",
       "onboard_time": 1744179803,
       "rank": 29,
@@ -1675,6 +1691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81432,
+      "num": 259228,
+      "word": "一笙评论区KPL辅助大团建",
+      "onboard_time": 1744180942,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80343,
       "num": 218832,
       "word": "又一波增持来了",
@@ -1876,7 +1900,7 @@
     },
     {
       "raw_hot": 42212,
-      "num": 190303,
+      "num": 318378,
       "word": "智搜分析上海地铁猥亵事件",
       "onboard_time": 1744180402,
       "rank": 34,
@@ -1993,6 +2017,14 @@
       "onboard_time": 1744144275,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25640,
+      "num": 175183,
+      "word": "缅甸地震后的受损卧佛",
+      "onboard_time": 1744180582,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 22329,
