@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744227380959,
+  "endTime": 1744230331728,
   "band_list": [
     {
       "raw_hot": 6521543,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116391,
+      "num": 138045,
+      "word": "加拿大对美加征关税4月9日生效",
+      "onboard_time": 1744226294,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111859,
       "num": 111859,
       "word": "减肥时正确称体重的方式",
@@ -459,14 +467,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24735,
-      "num": 138045,
-      "word": "加拿大对美加征关税4月9日生效",
-      "onboard_time": 1744226294,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 24593,
       "num": 64841,
       "word": "纳指涨幅扩大",
@@ -507,12 +507,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 21149,
+      "num": 21149,
+      "word": "商务部回应将12家美国实体列入出口管制管控名单",
+      "onboard_time": 1744227555,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19439,
       "num": 33531,
       "word": "穆祉丞不想再当念旧的小孩了",
       "onboard_time": 1744224315,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15120,
+      "num": 21043,
+      "word": "美国很多小农场主或将破产",
+      "onboard_time": 1744230134,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 12237,
+      "num": 21088,
+      "word": "中国救援队伍完成缅甸地震救援回国",
+      "onboard_time": 1744228816,
+      "rank": 44,
+      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [

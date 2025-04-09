@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/10 00:31:37 ~ 2025/04/10 03:36:20
+本榜单时间：2025/04/10 00:31:37 ~ 2025/04/10 04:25:31
 </p>
 </blockquote>
 <p>
@@ -255,6 +255,12 @@ SUNNY加入李秀满新公司A2O（热度：119690）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E4%E6%9C%889%E6%97%A5%E7%94%9F%E6%95%88%23" target="weibo">
+加拿大对美加征关税4月9日生效（热度：116391）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E6%97%B6%E6%AD%A3%E7%A1%AE%E7%A7%B0%E4%BD%93%E9%87%8D%E7%9A%84%E6%96%B9%E5%BC%8F%23" target="weibo">
 减肥时正确称体重的方式（热度：111859）
 </a>
@@ -357,12 +363,6 @@ PUBG（热度：73114）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E4%E6%9C%889%E6%97%A5%E7%94%9F%E6%95%88%23" target="weibo">
-加拿大对美加征关税4月9日生效（热度：24735）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%B3%E6%8C%87%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7%23" target="weibo">
 纳指涨幅扩大（热度：24593）
 </a>
@@ -393,8 +393,26 @@ PUBG（热度：73114）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B0%8612%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95%23" target="weibo">
+商务部回应将12家美国实体列入出口管制管控名单（热度：21149）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E4%B8%8D%E6%83%B3%E5%86%8D%E5%BD%93%E5%BF%B5%E6%97%A7%E7%9A%84%E5%B0%8F%E5%AD%A9%E4%BA%86%23" target="weibo">
 穆祉丞不想再当念旧的小孩了（热度：19439）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%BE%88%E5%A4%9A%E5%B0%8F%E5%86%9C%E5%9C%BA%E4%B8%BB%E6%88%96%E5%B0%86%E7%A0%B4%E4%BA%A7%23" target="weibo">
+美国很多小农场主或将破产（热度：15120）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%95%91%E6%8F%B4%E9%98%9F%E4%BC%8D%E5%AE%8C%E6%88%90%E7%BC%85%E7%94%B8%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E5%9B%9E%E5%9B%BD%23" target="weibo">
+中国救援队伍完成缅甸地震救援回国（热度：12237）
 </a>
 </li>
 
