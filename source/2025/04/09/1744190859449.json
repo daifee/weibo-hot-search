@@ -1,0 +1,410 @@
+{
+  "runTime": 1744190859449,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2268967,
+        "num": 2268967,
+        "word": "外交部回应美国对华征收104%关税",
+        "onboard_time": 1744184001,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1448933,
+        "num": 1448933,
+        "word": "离境退税",
+        "onboard_time": 1744182263,
+        "rank": 1,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 47476,
+        "num": 1254131,
+        "word": "关于中美经贸关系这是中方立场",
+        "onboard_time": 1744190482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1187883,
+        "num": 1187883,
+        "word": "南京地铁诡异人脸海报已撤下",
+        "onboard_time": 1744185562,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 933276,
+        "num": 933276,
+        "word": "世纪婴儿去世鉴定结果已出",
+        "onboard_time": 1744175964,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 886031,
+        "num": 886031,
+        "word": "彭昱畅首部古装男主",
+        "onboard_time": 1744186761,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 808714,
+        "num": 808714,
+        "word": "美国仅占我国出口比重的15%",
+        "onboard_time": 1744184242,
+        "rank": 6,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 682406,
+        "num": 682406,
+        "word": "演员叶琳瑯去世",
+        "onboard_time": 1744179863,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652798,
+        "num": 652798,
+        "word": "豆瓣崩了",
+        "onboard_time": 1744188682,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 239134,
+        "num": 586091,
+        "word": "关税救不了美国制造的10大铁证",
+        "onboard_time": 1744189342,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1590644,
+        "num": 585966,
+        "word": "李易峰出发曼谷",
+        "onboard_time": 1744190003,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585647,
+        "num": 585647,
+        "word": "张万森 下人了",
+        "onboard_time": 1744174044,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 572438,
+        "num": 572438,
+        "word": "白皮书",
+        "onboard_time": 1744183223,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 534862,
+        "num": 534862,
+        "word": "黄俊捷前女友晒收款记录称已了结",
+        "onboard_time": 1744186401,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47474,
+        "num": 481907,
+        "word": "在美华人称美民众对经济走势很担忧",
+        "onboard_time": 1744189762,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 457778,
+        "num": 457778,
+        "word": "赴山海片花",
+        "onboard_time": 1744190664,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426142,
+        "num": 426142,
+        "word": "金条一克跌20元现在入手合适吗",
+        "onboard_time": 1744180101,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 308009,
+        "num": 420144,
+        "word": "孙俪做什么事情都是10年起步",
+        "onboard_time": 1744186761,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414579,
+        "num": 414579,
+        "word": "腾讯客服回应微信开通已读功能",
+        "onboard_time": 1744179022,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 91013,
+        "num": 399571,
+        "word": "庄达菲 来面对流言飞宇",
+        "onboard_time": 1744189942,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414807,
+        "num": 399515,
+        "word": "男子婚后13天发现妻子双子宫一个肾",
+        "onboard_time": 1744184062,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394273,
+        "num": 394273,
+        "word": "单亲妈妈370万给儿子买房后被拉黑",
+        "onboard_time": 1744181541,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346006,
+        "num": 346006,
+        "word": "奥迪暂停对美国经销商交付新车",
+        "onboard_time": 1744189823,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 325281,
+        "num": 325281,
+        "word": "41岁男子地铁猥亵女子被行拘",
+        "onboard_time": 1744177462,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308235,
+        "num": 308235,
+        "word": "于正 不加入乌合之众",
+        "onboard_time": 1744179443,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294387,
+        "num": 294387,
+        "word": "淮水竹亭 延期",
+        "onboard_time": 1744178782,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283143,
+        "num": 283143,
+        "word": "女子离婚9年索要冷冻胚胎生子被拒",
+        "onboard_time": 1744188983,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266603,
+        "num": 266603,
+        "word": "全圆佑训练",
+        "onboard_time": 1744189222,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228470,
+        "num": 228470,
+        "word": "中美经贸关系白皮书",
+        "onboard_time": 1744183163,
+        "rank": 28,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 218778,
+        "num": 227136,
+        "word": "新说唱",
+        "onboard_time": 1744189823,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226542,
+        "num": 226542,
+        "word": "老师用三角尺砸伤女童案二审将宣判",
+        "onboard_time": 1744188922,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226346,
+        "num": 226346,
+        "word": "无忧渡动了",
+        "onboard_time": 1744190362,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161133,
+        "num": 223979,
+        "word": "关于中美经贸关系若干问题的中方立场",
+        "onboard_time": 1744182983,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223140,
+        "num": 223140,
+        "word": "国防部驳斥七国集团涉台海声明",
+        "onboard_time": 1744190303,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222615,
+        "num": 222615,
+        "word": "中方白皮书讲明中美经贸关系",
+        "onboard_time": 1744183643,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211096,
+        "num": 211096,
+        "word": "美从未停止针对中国的间谍活动",
+        "onboard_time": 1744186041,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208126,
+        "num": 208126,
+        "word": "河北省考成绩",
+        "onboard_time": 1744186702,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172601,
+        "num": 206839,
+        "word": "新修订婚姻登记条例自5月10日起施行",
+        "onboard_time": 1744190723,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15519,
+        "num": 206717,
+        "word": "有时很担心考公人的精神状态",
+        "onboard_time": 1744190123,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 14433,
+        "num": 206696,
+        "word": "宁大人评论李美越",
+        "onboard_time": 1744190123,
+        "rank": 39,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 206687,
+        "num": 206687,
+        "word": "柯淳再演乖乖女名场面出不了戏",
+        "onboard_time": 1744177044,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205590,
+        "num": 205590,
+        "word": "观鹤笔记",
+        "onboard_time": 1744182683,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57986,
+        "num": 202127,
+        "word": "中国坚决维护自身正当合法权益",
+        "onboard_time": 1744169364,
+        "rank": 42,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 201048,
+        "num": 201048,
+        "word": "中国人民正当发展权利不容剥夺",
+        "onboard_time": 1744185442,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197045,
+        "num": 197045,
+        "word": "中美经贸关系中方立场",
+        "onboard_time": 1744182503,
+        "rank": 44,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 170918,
+        "num": 170918,
+        "word": "中国将打造世界共享大市场",
+        "onboard_time": 1744185681,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167786,
+        "num": 167786,
+        "word": "何泓姗对陈都灵太宠了吧",
+        "onboard_time": 1744190723,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166816,
+        "num": 166816,
+        "word": "买金条打结婚首饰5天亏了1500元",
+        "onboard_time": 1744188563,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157078,
+        "num": 157078,
+        "word": "美国一边打贸易战一边求鸡蛋",
+        "onboard_time": 1744160004,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157002,
+        "num": 157002,
+        "word": "成人赛道终被你们仙侠剧闯进来了",
+        "onboard_time": 1744189642,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样强调党的作风建设#"
+    }
+  }
+}
