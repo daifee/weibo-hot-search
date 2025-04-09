@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744183483436,
+  "endTime": 1744184294952,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1099,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1256053,
+      "num": 1256053,
+      "word": "中美经贸关系白皮书",
+      "onboard_time": 1744183163,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1248586,
       "num": 1248586,
       "word": "中方反制措施来了",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1743986421,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1240993,
+      "num": 1240993,
+      "word": "中美经贸关系中方立场",
+      "onboard_time": 1744182503,
+      "rank": 8,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 1238367,
@@ -1193,6 +1209,14 @@
       "onboard_time": 1744006102,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1212167,
+      "num": 1212167,
+      "word": "腾讯客服回应微信开通已读功能",
+      "onboard_time": 1744179022,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 1207845,
@@ -1273,14 +1297,6 @@
       "onboard_time": 1743895938,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1168932,
-      "num": 1168932,
-      "word": "腾讯客服回应微信开通已读功能",
-      "onboard_time": 1744179022,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 1163740,
@@ -2539,20 +2555,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 807974,
+      "num": 807974,
+      "word": "金条一克跌20元现在入手合适吗",
+      "onboard_time": 1744180101,
+      "rank": 31,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 805847,
       "num": 403187,
       "word": "YERI和Wendy离开SM",
       "onboard_time": 1743730040,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 805325,
-      "num": 805325,
-      "word": "金条一克跌20元现在入手合适吗",
-      "onboard_time": 1744180101,
-      "rank": 31,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 804772,
@@ -2588,7 +2604,7 @@
     },
     {
       "raw_hot": 800908,
-      "num": 807152,
+      "num": 811623,
       "word": "淮水竹亭 延期",
       "onboard_time": 1744178782,
       "rank": 7,
@@ -2803,6 +2819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 746075,
+      "num": 746075,
+      "word": "于正 不加入乌合之众",
+      "onboard_time": 1744179443,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 744129,
       "num": 397464,
       "word": "双胞胎姐妹佩佩惠惠相继离世",
@@ -2857,6 +2881,14 @@
       "onboard_time": 1744036225,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 733372,
+      "num": 733372,
+      "word": "离境退税",
+      "onboard_time": 1744182263,
+      "rank": 30,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 733167,
@@ -2972,7 +3004,7 @@
     },
     {
       "raw_hot": 716282,
-      "num": 504500,
+      "num": 654063,
       "word": "单亲妈妈370万给儿子买房后被拉黑",
       "onboard_time": 1744181541,
       "rank": 20,
@@ -3089,14 +3121,6 @@
       "onboard_time": 1743862763,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 687332,
-      "num": 687332,
-      "word": "于正 不加入乌合之众",
-      "onboard_time": 1744179443,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 686112,
@@ -4116,7 +4140,7 @@
     },
     {
       "raw_hot": 539242,
-      "num": 539242,
+      "num": 662263,
       "word": "温峥嵘 叫妈咪",
       "onboard_time": 1744179383,
       "rank": 15,
@@ -4201,6 +4225,14 @@
       "onboard_time": 1743486742,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 526022,
+      "num": 526022,
+      "word": "外交部回应美国对华征收104%关税",
+      "onboard_time": 1744184001,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 525456,
@@ -6155,14 +6187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 376086,
-      "num": 805530,
-      "word": "中美经贸关系中方立场",
-      "onboard_time": 1744182503,
-      "rank": 8,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 376031,
       "num": 376031,
       "word": "盒饭姐骂浪费顾客后生意更火爆了",
@@ -6441,6 +6465,14 @@
       "onboard_time": 1744109122,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 362406,
+      "num": 362406,
+      "word": "白皮书",
+      "onboard_time": 1744183223,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 362122,
@@ -6785,14 +6817,6 @@
       "onboard_time": 1744015943,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 346880,
-      "num": 346880,
-      "word": "离境退税",
-      "onboard_time": 1744182263,
-      "rank": 30,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 346363,
@@ -7723,6 +7747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 303603,
+      "num": 303603,
+      "word": "关于中美经贸关系若干问题的中方立场",
+      "onboard_time": 1744182983,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 303477,
       "num": 303477,
       "word": "明日方舟",
@@ -7849,6 +7881,14 @@
       "onboard_time": 1743657262,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 297249,
+      "num": 373048,
+      "word": "观鹤笔记",
+      "onboard_time": 1744182683,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 297104,
@@ -8065,6 +8105,14 @@
       "onboard_time": 1743496223,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290493,
+      "num": 290493,
+      "word": "90花颜霸",
+      "onboard_time": 1744178602,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 290444,
@@ -8329,14 +8377,6 @@
       "onboard_time": 1744084704,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 281770,
-      "num": 281770,
-      "word": "中美经贸关系白皮书",
-      "onboard_time": 1744183163,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 280646,
@@ -9579,6 +9619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239134,
+      "num": 239134,
+      "word": "中方白皮书讲明中美经贸关系",
+      "onboard_time": 1744183643,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 239040,
       "num": 239040,
       "word": "迪丽热巴繁花行程图",
@@ -9737,14 +9785,6 @@
       "onboard_time": 1744004123,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235104,
-      "num": 235104,
-      "word": "白皮书",
-      "onboard_time": 1744183223,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 235036,
@@ -9907,6 +9947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230410,
+      "num": 230410,
+      "word": "猫在一声声认可中越来越自信了",
+      "onboard_time": 1744182803,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230310,
       "num": 230310,
       "word": "考公人发现遍地都是公考知识点",
@@ -10017,14 +10065,6 @@
       "onboard_time": 1743510564,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227457,
-      "num": 227457,
-      "word": "观鹤笔记",
-      "onboard_time": 1744182683,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 227387,
@@ -10225,14 +10265,6 @@
       "onboard_time": 1744117583,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224548,
-      "num": 224548,
-      "word": "90花颜霸",
-      "onboard_time": 1744178602,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 224433,
@@ -10529,14 +10561,6 @@
       "onboard_time": 1743775883,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218906,
-      "num": 218906,
-      "word": "关于中美经贸关系若干问题的中方立场",
-      "onboard_time": 1744182983,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 218866,
@@ -11075,6 +11099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209440,
+      "num": 209440,
+      "word": "国新办发布中美经贸关系白皮书",
+      "onboard_time": 1744183762,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 209410,
       "num": 209410,
       "word": "Nicholas首位公开",
@@ -11505,6 +11537,14 @@
       "onboard_time": 1743675081,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204594,
+      "num": 504500,
+      "word": "A股估值水平在全球具备显著吸引力",
+      "onboard_time": 1744182322,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 204497,
@@ -12883,14 +12923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189106,
-      "num": 189106,
-      "word": "猫在一声声认可中越来越自信了",
-      "onboard_time": 1744182803,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 189021,
       "num": 189021,
       "word": "戚薇 素颜出门必碰熟人",
@@ -13153,6 +13185,14 @@
       "onboard_time": 1744114401,
       "rank": 31,
       "category": "国际时政,国际时政"
+    },
+    {
+      "raw_hot": 186640,
+      "num": 186640,
+      "word": "男子婚后13天发现妻子双子宫一个肾",
+      "onboard_time": 1744184062,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186615,
@@ -14403,6 +14443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174994,
+      "num": 174994,
+      "word": "向阳花票房破亿",
+      "onboard_time": 1744184001,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174964,
       "num": 174964,
       "word": "欧盟计划对美征收两部分关税",
@@ -14433,6 +14481,14 @@
       "onboard_time": 1743582922,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174818,
+      "num": 705050,
+      "word": "美国为啥会被鸡蛋拿捏住",
+      "onboard_time": 1744182803,
+      "rank": 14,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 174596,
@@ -14616,6 +14672,14 @@
       "word": "不说话的爱",
       "onboard_time": 1743585805,
       "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 172417,
+      "num": 307108,
+      "word": "王耀庆挤眉弄眼大事很妙",
+      "onboard_time": 1744183822,
+      "rank": 30,
       "category": "电影"
     },
     {
@@ -17011,14 +17075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148625,
-      "num": 504500,
-      "word": "A股估值水平在全球具备显著吸引力",
-      "onboard_time": 1744182322,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 148618,
       "num": 148618,
       "word": "棋士",
@@ -17097,6 +17153,14 @@
       "onboard_time": 1743948923,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148138,
+      "num": 148138,
+      "word": "美国仅占我国出口比重的15%",
+      "onboard_time": 1744184242,
+      "rank": 49,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 148126,
@@ -18035,6 +18099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139739,
+      "num": 805391,
+      "word": "A股超4500家个股上涨",
+      "onboard_time": 1744183102,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139671,
       "num": 139671,
       "word": "董宇辉用周杰伦歌词科普",
@@ -18320,6 +18392,14 @@
       "word": "EXO将进行13周年直播",
       "onboard_time": 1743486203,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137666,
+      "num": 656039,
+      "word": "权志龙将发表演讲",
+      "onboard_time": 1744183102,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -21819,14 +21899,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 105857,
-      "num": 504511,
-      "word": "权志龙将发表演讲",
-      "onboard_time": 1744183102,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105777,
       "num": 240597,
       "word": "王艺迪vs申裕斌",
@@ -23515,14 +23587,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 82575,
-      "num": 687701,
-      "word": "美国为啥会被鸡蛋拿捏住",
-      "onboard_time": 1744182803,
-      "rank": 14,
-      "category": "国际时政,财经"
-    },
-    {
       "raw_hot": 82253,
       "num": 323801,
       "word": "最低10元就能AI复活去世亲人",
@@ -24273,6 +24337,14 @@
       "onboard_time": 1743681801,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 69011,
+      "num": 808481,
+      "word": "午后A股三大指数均涨超1%",
+      "onboard_time": 1744183102,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 68979,
@@ -25355,14 +25427,6 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 51987,
-      "num": 731056,
-      "word": "午后A股三大指数均涨超1%",
-      "onboard_time": 1744183102,
-      "rank": 11,
-      "category": "财经"
-    },
-    {
       "raw_hot": 51517,
       "num": 76844,
       "word": "大克重金饰销量随金价上涨下滑",
@@ -26315,6 +26379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36151,
+      "num": 689646,
+      "word": "直播带货靠诚信别靠演技",
+      "onboard_time": 1744182622,
+      "rank": 13,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 35875,
       "num": 219242,
       "word": "多国及国际组织反击美关税胁迫",
@@ -26361,14 +26433,6 @@
       "onboard_time": 1743443295,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 35034,
-      "num": 805391,
-      "word": "A股超4500家个股上涨",
-      "onboard_time": 1744183102,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 34938,
@@ -26859,6 +26923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29295,
+      "num": 215028,
+      "word": "周末东北多地暴雪大暴雪上线",
+      "onboard_time": 1744183163,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29273,
       "num": 384015,
       "word": "多品牌金饰3天涨幅超20元",
@@ -26936,6 +27008,14 @@
       "word": "茅必得疑卷款700万跑路",
       "onboard_time": 1743586224,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27994,
+      "num": 352335,
+      "word": "儿子私卖失智母亲房产被判返还售房款",
+      "onboard_time": 1744182563,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -27235,14 +27315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24219,
-      "num": 352335,
-      "word": "儿子私卖失智母亲房产被判返还售房款",
-      "onboard_time": 1744182563,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23982,
       "num": 530299,
       "word": "有人为求职被骗数十万",
@@ -27265,14 +27337,6 @@
       "onboard_time": 1743591201,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 23699,
-      "num": 688949,
-      "word": "直播带货靠诚信别靠演技",
-      "onboard_time": 1744182622,
-      "rank": 13,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 23696,
@@ -28057,14 +28121,6 @@
       "onboard_time": 1744039822,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12876,
-      "num": 215028,
-      "word": "周末东北多地暴雪大暴雪上线",
-      "onboard_time": 1744183163,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12871,

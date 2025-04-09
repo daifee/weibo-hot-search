@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744183483436,
+  "endTime": 1744184294952,
   "band_list": [
     {
       "raw_hot": 2811443,
@@ -99,20 +99,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1256053,
+      "num": 1256053,
+      "word": "中美经贸关系白皮书",
+      "onboard_time": 1744183163,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1240993,
+      "num": 1240993,
+      "word": "中美经贸关系中方立场",
+      "onboard_time": 1744182503,
+      "rank": 8,
+      "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 1212167,
+      "num": 1212167,
+      "word": "腾讯客服回应微信开通已读功能",
+      "onboard_time": 1744179022,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1190029,
       "num": 1190029,
       "word": "韩团在寺庙为囚犯慰问演出",
       "onboard_time": 1744169482,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1168932,
-      "num": 1168932,
-      "word": "腾讯客服回应微信开通已读功能",
-      "onboard_time": 1744179022,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 1120062,
@@ -211,8 +227,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 805325,
-      "num": 805325,
+      "raw_hot": 807974,
+      "num": 807974,
       "word": "金条一克跌20元现在入手合适吗",
       "onboard_time": 1744180101,
       "rank": 31,
@@ -228,27 +244,35 @@
     },
     {
       "raw_hot": 800908,
-      "num": 807152,
+      "num": 811623,
       "word": "淮水竹亭 延期",
       "onboard_time": 1744178782,
       "rank": 7,
       "category": "剧集"
     },
     {
-      "raw_hot": 716282,
-      "num": 504500,
-      "word": "单亲妈妈370万给儿子买房后被拉黑",
-      "onboard_time": 1744181541,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 687332,
-      "num": 687332,
+      "raw_hot": 746075,
+      "num": 746075,
       "word": "于正 不加入乌合之众",
       "onboard_time": 1744179443,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 733372,
+      "num": 733372,
+      "word": "离境退税",
+      "onboard_time": 1744182263,
+      "rank": 30,
+      "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 716282,
+      "num": 654063,
+      "word": "单亲妈妈370万给儿子买房后被拉黑",
+      "onboard_time": 1744181541,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 680554,
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 539242,
-      "num": 539242,
+      "num": 662263,
       "word": "温峥嵘 叫妈咪",
       "onboard_time": 1744179383,
       "rank": 15,
@@ -321,6 +345,14 @@
       "onboard_time": 1744174465,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 526022,
+      "num": 526022,
+      "word": "外交部回应美国对华征收104%关税",
+      "onboard_time": 1744184001,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 510344,
@@ -483,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 376086,
-      "num": 805530,
-      "word": "中美经贸关系中方立场",
-      "onboard_time": 1744182503,
-      "rank": 8,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 375919,
       "num": 339558,
       "word": "美国主持人贯口列举什么会涨价",
@@ -531,6 +555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 362406,
+      "num": 362406,
+      "word": "白皮书",
+      "onboard_time": 1744183223,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 361110,
       "num": 333420,
       "word": "林君怡朱天天隔空对撕",
@@ -561,14 +593,6 @@
       "onboard_time": 1744107982,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 346880,
-      "num": 346880,
-      "word": "离境退税",
-      "onboard_time": 1744182263,
-      "rank": 30,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 336457,
@@ -667,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303603,
+      "num": 303603,
+      "word": "关于中美经贸关系若干问题的中方立场",
+      "onboard_time": 1744182983,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 303363,
       "num": 303363,
       "word": "孙俪凭什么当二十多年的女一",
@@ -681,6 +713,14 @@
       "onboard_time": 1744170082,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297249,
+      "num": 373048,
+      "word": "观鹤笔记",
+      "onboard_time": 1744182683,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 297009,
@@ -715,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290493,
+      "num": 290493,
+      "word": "90花颜霸",
+      "onboard_time": 1744178602,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 289572,
       "num": 289572,
       "word": "37岁大叔健身10个月瘦了40斤",
@@ -745,14 +793,6 @@
       "onboard_time": 1744176562,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281770,
-      "num": 281770,
-      "word": "中美经贸关系白皮书",
-      "onboard_time": 1744183163,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 279938,
@@ -867,20 +907,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239134,
+      "num": 239134,
+      "word": "中方白皮书讲明中美经贸关系",
+      "onboard_time": 1744183643,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 237030,
       "num": 237030,
       "word": "恋与深空",
       "onboard_time": 1744172904,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 235104,
-      "num": 235104,
-      "word": "白皮书",
-      "onboard_time": 1744183223,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 234350,
@@ -899,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230410,
+      "num": 230410,
+      "word": "猫在一声声认可中越来越自信了",
+      "onboard_time": 1744182803,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230044,
       "num": 191963,
       "word": "林志玲为儿子做手工卡车",
@@ -913,14 +961,6 @@
       "onboard_time": 1744167501,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 227457,
-      "num": 227457,
-      "word": "观鹤笔记",
-      "onboard_time": 1744182683,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 226809,
@@ -955,14 +995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224548,
-      "num": 224548,
-      "word": "90花颜霸",
-      "onboard_time": 1744178602,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 220190,
       "num": 220190,
       "word": "南京地铁回应乘客看到诡异人脸",
@@ -993,14 +1025,6 @@
       "onboard_time": 1744127421,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 218906,
-      "num": 218906,
-      "word": "关于中美经贸关系若干问题的中方立场",
-      "onboard_time": 1744182983,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 217364,
@@ -1035,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209440,
+      "num": 209440,
+      "word": "国新办发布中美经贸关系白皮书",
+      "onboard_time": 1744183762,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207686,
       "num": 207686,
       "word": "勇士38分大胜太阳",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1744172004,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204594,
+      "num": 504500,
+      "word": "A股估值水平在全球具备显著吸引力",
+      "onboard_time": 1744182322,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 204270,
@@ -1155,20 +1195,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 189106,
-      "num": 189106,
-      "word": "猫在一声声认可中越来越自信了",
-      "onboard_time": 1744182803,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 187104,
       "num": 187104,
       "word": "特朗普关税地图炮砸向美国老百姓",
       "onboard_time": 1744165402,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 186640,
+      "num": 186640,
+      "word": "男子婚后13天发现妻子双子宫一个肾",
+      "onboard_time": 1744184062,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185568,
@@ -1251,12 +1291,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174994,
+      "num": 174994,
+      "word": "向阳花票房破亿",
+      "onboard_time": 1744184001,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174946,
       "num": 323939,
       "word": "李在明全力参选韩国总统",
       "onboard_time": 1744163183,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 174818,
+      "num": 705050,
+      "word": "美国为啥会被鸡蛋拿捏住",
+      "onboard_time": 1744182803,
+      "rank": 14,
+      "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 172417,
+      "num": 307108,
+      "word": "王耀庆挤眉弄眼大事很妙",
+      "onboard_time": 1744183822,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 170028,
@@ -1427,12 +1491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148625,
-      "num": 504500,
-      "word": "A股估值水平在全球具备显著吸引力",
-      "onboard_time": 1744182322,
-      "rank": 19,
-      "category": "财经"
+      "raw_hot": 148138,
+      "num": 148138,
+      "word": "美国仅占我国出口比重的15%",
+      "onboard_time": 1744184242,
+      "rank": 49,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 147358,
@@ -1499,12 +1563,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139739,
+      "num": 805391,
+      "word": "A股超4500家个股上涨",
+      "onboard_time": 1744183102,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 138211,
       "num": 138211,
       "word": "男孩带着哭腔问180斤能救吗",
       "onboard_time": 1744113982,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137666,
+      "num": 656039,
+      "word": "权志龙将发表演讲",
+      "onboard_time": 1744183102,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 137594,
@@ -1651,14 +1731,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 105857,
-      "num": 504511,
-      "word": "权志龙将发表演讲",
-      "onboard_time": 1744183102,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104151,
       "num": 710253,
       "word": "河北隆化县回应养老院火灾",
@@ -1795,14 +1867,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 82575,
-      "num": 687701,
-      "word": "美国为啥会被鸡蛋拿捏住",
-      "onboard_time": 1744182803,
-      "rank": 14,
-      "category": "国际时政,财经"
-    },
-    {
       "raw_hot": 81432,
       "num": 259228,
       "word": "一笙评论区KPL辅助大团建",
@@ -1899,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69011,
+      "num": 808481,
+      "word": "午后A股三大指数均涨超1%",
+      "onboard_time": 1744183102,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 68832,
       "num": 368818,
       "word": "莫兰特扔手榴弹庆祝动作",
@@ -1984,14 +2056,6 @@
       "word": "央行必要时将再贷款支持中央汇金",
       "onboard_time": 1744133357,
       "rank": 25,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 51987,
-      "num": 731056,
-      "word": "午后A股三大指数均涨超1%",
-      "onboard_time": 1744183102,
-      "rank": 11,
       "category": "财经"
     },
     {
@@ -2083,12 +2147,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 35034,
-      "num": 805391,
-      "word": "A股超4500家个股上涨",
-      "onboard_time": 1744183102,
-      "rank": 9,
-      "category": "财经"
+      "raw_hot": 36151,
+      "num": 689646,
+      "word": "直播带货靠诚信别靠演技",
+      "onboard_time": 1744182622,
+      "rank": 13,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 33826,
@@ -2147,12 +2211,28 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 29295,
+      "num": 215028,
+      "word": "周末东北多地暴雪大暴雪上线",
+      "onboard_time": 1744183163,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28373,
       "num": 56339,
       "word": "电视剧千秋令OST阵容",
       "onboard_time": 1744144275,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27994,
+      "num": 352335,
+      "word": "儿子私卖失智母亲房产被判返还售房款",
+      "onboard_time": 1744182563,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25640,
@@ -2169,22 +2249,6 @@
       "onboard_time": 1744182143,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24219,
-      "num": 352335,
-      "word": "儿子私卖失智母亲房产被判返还售房款",
-      "onboard_time": 1744182563,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23699,
-      "num": 688949,
-      "word": "直播带货靠诚信别靠演技",
-      "onboard_time": 1744182622,
-      "rank": 13,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 22329,
@@ -2249,14 +2313,6 @@
       "onboard_time": 1744132097,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 12876,
-      "num": 215028,
-      "word": "周末东北多地暴雪大暴雪上线",
-      "onboard_time": 1744183163,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6968,
