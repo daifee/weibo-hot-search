@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744167950759,
+  "endTime": 1744168470923,
   "band_list": [
     {
       "raw_hot": 15762339,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2051016,
+      "num": 569524,
+      "word": "上海地铁一男子疑脱裤猥亵女乘客",
+      "onboard_time": 1744165942,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1984619,
       "num": 885189,
       "word": "天塌不下来",
@@ -137,14 +145,6 @@
       "onboard_time": 1743983721,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1956544,
-      "num": 310301,
-      "word": "上海地铁一男子疑脱裤猥亵女乘客",
-      "onboard_time": 1744165942,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1910617,
@@ -267,6 +267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1480562,
+      "num": 557700,
+      "word": "梁振英回应女儿去世",
+      "onboard_time": 1744164142,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1463882,
       "num": 1463882,
       "word": "汇率",
@@ -337,14 +345,6 @@
       "onboard_time": 1744014863,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1352230,
-      "num": 308751,
-      "word": "梁振英回应女儿去世",
-      "onboard_time": 1744164142,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1344206,
@@ -795,6 +795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 928628,
+      "num": 542132,
+      "word": "肖战 羽西",
+      "onboard_time": 1744166900,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 927810,
       "num": 1143882,
       "word": "孟美岐跳创造101主题曲",
@@ -940,7 +948,7 @@
     },
     {
       "raw_hot": 833257,
-      "num": 307774,
+      "num": 534388,
       "word": "上海地铁",
       "onboard_time": 1744165221,
       "rank": 12,
@@ -1195,14 +1203,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 725519,
-      "num": 305645,
-      "word": "肖战 羽西",
-      "onboard_time": 1744166900,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 720139,
       "num": 540255,
       "word": "胡烨韬我已经没有下一个四年了",
@@ -1308,7 +1308,7 @@
     },
     {
       "raw_hot": 680554,
-      "num": 338306,
+      "num": 379262,
       "word": "金敏喜前男友是李洙赫",
       "onboard_time": 1744162701,
       "rank": 18,
@@ -1588,7 +1588,7 @@
     },
     {
       "raw_hot": 568645,
-      "num": 615281,
+      "num": 622148,
       "word": "宜兰地震",
       "onboard_time": 1744164981,
       "rank": 5,
@@ -2203,12 +2203,28 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 416829,
+      "num": 416829,
+      "word": "美国内部互呛",
+      "onboard_time": 1744165822,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 416715,
       "num": 416715,
       "word": "入住新房18天水费交了39390元",
       "onboard_time": 1744004483,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416258,
+      "num": 416258,
+      "word": "一部iPhone看美加征关税代价",
+      "onboard_time": 1744165822,
+      "rank": 21,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 415549,
@@ -2443,6 +2459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 385599,
+      "num": 385599,
+      "word": "东契奇被驱逐",
+      "onboard_time": 1744167562,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384383,
       "num": 384383,
       "word": "王不染拍的章若楠",
@@ -2497,6 +2521,14 @@
       "onboard_time": 1744158263,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 373676,
+      "num": 402155,
+      "word": "萧敬腾说不会跟妻子接真人秀",
+      "onboard_time": 1744158444,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 372367,
@@ -2603,28 +2635,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 363351,
-      "num": 301263,
-      "word": "萧敬腾说不会跟妻子接真人秀",
-      "onboard_time": 1744158444,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 362748,
       "num": 362748,
       "word": "马斯克坐不住了",
       "onboard_time": 1744109122,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 362069,
-      "num": 299078,
-      "word": "一部iPhone看美加征关税代价",
-      "onboard_time": 1744165822,
-      "rank": 21,
-      "category": "数码,财经"
     },
     {
       "raw_hot": 361766,
@@ -2827,6 +2843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 335520,
+      "num": 335520,
+      "word": "李斌和刘强东一起吃外卖",
+      "onboard_time": 1744167262,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 335430,
       "num": 335430,
       "word": "SM查理呢",
@@ -2873,14 +2897,6 @@
       "onboard_time": 1743866783,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 330892,
-      "num": 330892,
-      "word": "美国内部互呛",
-      "onboard_time": 1744165822,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 330121,
@@ -3003,6 +3019,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 315301,
+      "num": 582404,
+      "word": "A股探底回升三大指数翻红",
+      "onboard_time": 1744165521,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 315291,
       "num": 315291,
       "word": "赵丽颖 闵塔鲨",
@@ -3027,20 +3051,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 312565,
+      "num": 312565,
+      "word": "原来胃这么辛苦 我要请它吃饭",
+      "onboard_time": 1744166481,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 311896,
       "num": 394252,
       "word": "商务部新闻发言人就美方威胁升级对华关税发表谈话",
       "onboard_time": 1744076302,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 311727,
-      "num": 311727,
-      "word": "A股探底回升三大指数翻红",
-      "onboard_time": 1744165521,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 311367,
@@ -3145,14 +3169,6 @@
       "onboard_time": 1744125683,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300534,
-      "num": 300534,
-      "word": "东契奇被驱逐",
-      "onboard_time": 1744167562,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 300530,
@@ -3427,6 +3443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279084,
+      "num": 279084,
+      "word": "骗子被骗收到5万冥币当场破防",
+      "onboard_time": 1744166601,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278923,
       "num": 278923,
       "word": "金价跌超30元有人拉着行李箱扫货",
@@ -3673,14 +3697,6 @@
       "onboard_time": 1744093344,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 262860,
-      "num": 262860,
-      "word": "原来胃这么辛苦 我要请它吃饭",
-      "onboard_time": 1744166481,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 260993,
@@ -4059,14 +4075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237412,
-      "num": 237412,
-      "word": "骗子被骗收到5万冥币当场破防",
-      "onboard_time": 1744166601,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236731,
       "num": 236731,
       "word": "北京东路的孩子后来去了哪",
@@ -4124,7 +4132,7 @@
     },
     {
       "raw_hot": 232708,
-      "num": 258311,
+      "num": 349246,
       "word": "严浩翔rap水平",
       "onboard_time": 1744161262,
       "rank": 27,
@@ -4209,6 +4217,14 @@
       "onboard_time": 1743862343,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229420,
+      "num": 335537,
+      "word": "崩铁开门",
+      "onboard_time": 1744167501,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 229234,
@@ -4532,7 +4548,7 @@
     },
     {
       "raw_hot": 216064,
-      "num": 299862,
+      "num": 394571,
       "word": "车机黑马杀疯了",
       "onboard_time": 1744166900,
       "rank": 19,
@@ -4737,14 +4753,6 @@
       "onboard_time": 1744081223,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208589,
-      "num": 208589,
-      "word": "李斌和刘强东一起吃外卖",
-      "onboard_time": 1744167262,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 208449,
@@ -5265,6 +5273,14 @@
       "onboard_time": 1743943280,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193092,
+      "num": 193092,
+      "word": "蔡徐坤 南昌活动",
+      "onboard_time": 1744167982,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 192480,
@@ -6011,14 +6027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176076,
-      "num": 176076,
-      "word": "崩铁开门",
-      "onboard_time": 1744167501,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 175761,
       "num": 175761,
       "word": "金饰价涨回927元",
@@ -6187,20 +6195,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169521,
+      "num": 169521,
+      "word": "爸爸十年不舍换洗衣机致滚桶飞出",
+      "onboard_time": 1744166062,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169465,
       "num": 169465,
       "word": "卢昱晓冷脸御姐黑长直",
       "onboard_time": 1744007002,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 169322,
-      "num": 169322,
-      "word": "爸爸十年不舍换洗衣机致滚桶飞出",
-      "onboard_time": 1744166062,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169084,
@@ -6403,6 +6411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165169,
+      "num": 279240,
+      "word": "gidle五月回归",
+      "onboard_time": 1744167442,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165061,
       "num": 165061,
       "word": "何炅说秦洗头继续营业",
@@ -6489,6 +6505,14 @@
       "onboard_time": 1743899960,
       "rank": 27,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 162300,
+      "num": 168959,
+      "word": "柯淳新剧纯情男高",
+      "onboard_time": 1744168342,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 162213,
@@ -6675,6 +6699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158151,
+      "num": 158151,
+      "word": "云南省考成绩",
+      "onboard_time": 1744167082,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 158044,
       "num": 184397,
       "word": "宋妍霏腰封叠穿",
@@ -6779,6 +6811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155669,
+      "num": 155669,
+      "word": "董宇辉自爆多年自我精神剥削",
+      "onboard_time": 1744165281,
+      "rank": 48,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 155598,
       "num": 155598,
       "word": "EXO出道十三周年",
@@ -6841,14 +6881,6 @@
       "onboard_time": 1744067959,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154143,
-      "num": 154143,
-      "word": "云南省考成绩",
-      "onboard_time": 1744167082,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 153899,
@@ -7083,14 +7115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 148753,
-      "num": 235719,
-      "word": "gidle五月回归",
-      "onboard_time": 1744167442,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 148747,
       "num": 239007,
       "word": "清明假期后第1天",
@@ -7323,6 +7347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142514,
+      "num": 580339,
+      "word": "承德一养老院火灾致20人死",
+      "onboard_time": 1744167863,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142344,
       "num": 175969,
       "word": "吃饭跑步和恋爱开播",
@@ -7409,14 +7441,6 @@
       "onboard_time": 1744165462,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 139948,
-      "num": 139948,
-      "word": "董宇辉自爆多年自我精神剥削",
-      "onboard_time": 1744165281,
-      "rank": 48,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 139940,
@@ -8137,6 +8161,14 @@
       "onboard_time": 1744021704,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125283,
+      "num": 387423,
+      "word": "美国造iPhone一台要卖2.5万元",
+      "onboard_time": 1744168162,
+      "rank": 20,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 125131,
@@ -10275,14 +10307,6 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 50990,
-      "num": 172435,
-      "word": "承德一养老院火灾致20人死",
-      "onboard_time": 1744167863,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50772,
       "num": 50772,
       "word": "董宇辉 人是被成就感所驱使的动物",
@@ -11017,6 +11041,14 @@
       "onboard_time": 1744051935,
       "rank": 9,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 22329,
+      "num": 168839,
+      "word": "被企业家丈夫家暴女子要回抚养权",
+      "onboard_time": 1744168402,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20068,
