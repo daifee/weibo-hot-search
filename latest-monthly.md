@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/09 23:43:11
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/10 00:31:37
 </p>
 </blockquote>
 <p>
@@ -609,6 +609,12 @@ RedVelvet 解散（热度：1601334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E5%8A%A0%E5%85%B3%E7%A8%8E%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%86%B7%E9%9D%99%23" target="weibo">
+美国被加关税后特朗普呼吁冷静（热度：1534690）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%8F%B6%E7%90%B3%E7%91%AF%E5%8E%BB%E4%B8%96%23" target="weibo">
 演员叶琳瑯去世（热度：1529119）
 </a>
@@ -1149,6 +1155,12 @@ VaVa 灰原哀（热度：1212430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%86%8D%E5%A4%A7%E6%B6%A8%23" target="weibo">
+金价再大涨（热度：1147001）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%8F%91%E7%8E%B0%E6%9D%AF%E4%B8%AD%E5%90%B8%E7%AE%A1%E8%84%8F%E6%88%90%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%8A%23" target="weibo">
 女生发现杯中吸管脏成黑芝麻糊（热度：1145886）
 </a>
@@ -1223,6 +1235,12 @@ VaVa 灰原哀（热度：1212430）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85gogogo%E5%87%BA%E5%8F%91%E5%96%BD%23" target="weibo">
 邓超gogogo出发喽（热度：1121691）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%AC%E5%91%8A%23" target="weibo">
+海关总署公告（热度：1120833）
 </a>
 </li>
 
@@ -3819,6 +3837,12 @@ SM新男团（热度：491910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%A4%9A%E9%83%A8%E9%97%A8%E5%AF%86%E9%9B%86%E5%8F%91%E5%A3%B0%23" target="weibo">
+中方多部门密集发声（热度：476482）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%B4%97%E5%A4%B4%E5%90%8E%E8%87%AA%E7%84%B6%E9%A3%8E%E5%B9%B2%23" target="weibo">
 专家建议洗头后自然风干（热度：476286）
 </a>
@@ -5987,30 +6011,6 @@ A股探底回升三大指数翻红（热度：315301）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%E6%B5%AA%E5%A7%90%E6%AF%94%E4%B8%9C%E5%AE%AB%E8%BF%98%E8%99%90%23" target="weibo">
 彭小苒浪姐比东宫还虐（热度：311536）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE%E9%83%BD%E5%9C%A8%E6%B5%B7%E5%8F%A3%23" target="weibo">
-虞书欣丁禹兮都在海口（热度：311393）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%91%8A%E9%BB%91%E6%A1%88%E8%BF%9B%E5%BA%A6%23" target="weibo">
-赵露思告黑案进度（热度：311367）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B0%8D%E6%8A%A5%E4%B8%8A%E4%B8%8D%E5%B0%81%E9%A1%B65%E6%9C%88%E5%BC%80%E6%9C%BA%23" target="weibo">
-肖战谍报上不封顶5月开机（热度：310912）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%B8%A6%E7%9D%80%E5%93%AD%E8%85%94%E9%97%AE180%E6%96%A4%E8%83%BD%E6%95%91%E5%90%97%23" target="weibo">
-男孩带着哭腔问180斤能救吗（热度：310889）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744213391253,
+  "endTime": 1744216297899,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -353,6 +353,14 @@
       "onboard_time": 1744165883,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1534690,
+      "num": 1534690,
+      "word": "美国被加关税后特朗普呼吁冷静",
+      "onboard_time": 1744214184,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1529119,
@@ -755,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1147001,
+      "num": 1147001,
+      "word": "金价再大涨",
+      "onboard_time": 1744212865,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1140356,
       "num": 1175066,
       "word": "锤娜丽莎 减肥不快乐都滚",
@@ -817,6 +833,14 @@
       "onboard_time": 1744008142,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1120833,
+      "num": 1120833,
+      "word": "海关总署公告",
+      "onboard_time": 1744213166,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1120062,
@@ -2435,6 +2459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476482,
+      "num": 476482,
+      "word": "中方多部门密集发声",
+      "onboard_time": 1744213166,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 476286,
       "num": 238779,
       "word": "专家建议洗头后自然风干",
@@ -3828,7 +3860,7 @@
     },
     {
       "raw_hot": 312797,
-      "num": 239572,
+      "num": 261855,
       "word": "马斯克游戏直播太菜被骂下播",
       "onboard_time": 1744210707,
       "rank": 30,
@@ -5035,14 +5067,6 @@
       "category": "财经,海外新闻"
     },
     {
-      "raw_hot": 241156,
-      "num": 241156,
-      "word": "金价再大涨",
-      "onboard_time": 1744212865,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 240777,
       "num": 240777,
       "word": "王者荣耀百里守约雪豹皮肤",
@@ -5193,6 +5217,14 @@
       "onboard_time": 1744176083,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233282,
+      "num": 233282,
+      "word": "iPhone迁回美国产成本或飙升90%",
+      "onboard_time": 1744212505,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 233277,
@@ -5945,6 +5977,14 @@
       "onboard_time": 1743926781,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209442,
+      "num": 209442,
+      "word": "赵露思永远没有告别",
+      "onboard_time": 1744215502,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 209440,
@@ -7723,14 +7763,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 172911,
-      "num": 172911,
-      "word": "iPhone迁回美国产成本或飙升90%",
-      "onboard_time": 1744212505,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 172874,
       "num": 190853,
       "word": "彩色的黑是吉克隽逸的养老保险",
@@ -7817,14 +7849,6 @@
       "onboard_time": 1743920780,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170573,
-      "num": 170573,
-      "word": "中方多部门密集发声",
-      "onboard_time": 1744213166,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 170247,
@@ -11331,6 +11355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93614,
+      "num": 93614,
+      "word": "陈都灵摄影扶卮",
+      "onboard_time": 1744213885,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93424,
       "num": 93424,
       "word": "水果中的高糖刺客",
@@ -11409,6 +11441,14 @@
       "onboard_time": 1744189942,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90796,
+      "num": 90796,
+      "word": "这真不是周迅小时候吗",
+      "onboard_time": 1744214783,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 90556,
@@ -11497,14 +11537,6 @@
       "onboard_time": 1744044258,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 87143,
-      "num": 252555,
-      "word": "海关总署公告",
-      "onboard_time": 1744213166,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 87049,
@@ -11817,6 +11849,14 @@
       "onboard_time": 1744160662,
       "rank": 49,
       "category": "网红,财经"
+    },
+    {
+      "raw_hot": 79948,
+      "num": 86195,
+      "word": "要相信自己的节奏",
+      "onboard_time": 1744215801,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 79920,
@@ -12145,6 +12185,14 @@
       "onboard_time": 1743929841,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65197,
+      "num": 191302,
+      "word": "金丝猴宝宝也爱撒娇贴贴",
+      "onboard_time": 1744216042,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64809,
