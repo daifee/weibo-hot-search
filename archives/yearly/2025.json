@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1744206395951,
+  "endTime": 1744208754818,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1579,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3460295,
+      "num": 3460295,
+      "word": "苹果手机",
+      "onboard_time": 1744203266,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 3449640,
       "num": 882590,
       "word": "陈奕迅泰国演唱会取消",
@@ -1905,14 +1913,6 @@
       "onboard_time": 1742374762,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3159015,
-      "num": 3159015,
-      "word": "苹果手机",
-      "onboard_time": 1744203266,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 3152316,
