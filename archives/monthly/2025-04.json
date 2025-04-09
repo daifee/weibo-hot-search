@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744233652515,
+  "endTime": 1744234578299,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -28387,6 +28387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 29209,
+      "num": 29209,
+      "word": "美国很多小农场主或将破产",
+      "onboard_time": 1744230134,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29116,
       "num": 996749,
       "word": "青春华章恰同学少年",
@@ -28560,14 +28568,6 @@
       "word": "美国对等关税损人不利己",
       "onboard_time": 1743657982,
       "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 26450,
-      "num": 26450,
-      "word": "美国很多小农场主或将破产",
-      "onboard_time": 1744230134,
-      "rank": 47,
       "category": "国际时政"
     },
     {
@@ -29427,6 +29427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 16272,
+      "num": 39716,
+      "word": "如何评论美方称巨额贸易逆差让美国吃亏",
+      "onboard_time": 1744230494,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16270,
       "num": 16270,
       "word": "4人入室抢婴案开庭前姜甲儒发声",
@@ -29457,14 +29465,6 @@
       "onboard_time": 1743944002,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15852,
-      "num": 39716,
-      "word": "如何评论美方称巨额贸易逆差让美国吃亏",
-      "onboard_time": 1744230494,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15828,
@@ -29553,6 +29553,14 @@
       "onboard_time": 1743533533,
       "rank": 44,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 15018,
+      "num": 20207,
+      "word": "黄觉谈和肖战合作藏海传",
+      "onboard_time": 1744233016,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 14964,
@@ -29657,14 +29665,6 @@
       "onboard_time": 1743538754,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14180,
-      "num": 19671,
-      "word": "黄觉谈和肖战合作藏海传",
-      "onboard_time": 1744233016,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 14108,
@@ -30041,6 +30041,14 @@
       "onboard_time": 1743601344,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 9639,
+      "num": 21591,
+      "word": "外国姑娘被中国人暖到了",
+      "onboard_time": 1744234515,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9529,

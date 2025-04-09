@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744233652515,
+  "endTime": 1744234578299,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -13259,6 +13259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29209,
+      "num": 29209,
+      "word": "美国很多小农场主或将破产",
+      "onboard_time": 1744230134,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29039,
       "num": 256072,
       "word": "一图梳理多方重磅发声",
@@ -13361,14 +13369,6 @@
       "onboard_time": 1743878416,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26450,
-      "num": 26450,
-      "word": "美国很多小农场主或将破产",
-      "onboard_time": 1744230134,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 26210,
@@ -13747,6 +13747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16272,
+      "num": 39716,
+      "word": "如何评论美方称巨额贸易逆差让美国吃亏",
+      "onboard_time": 1744230494,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16261,
       "num": 17532,
       "word": "星穹铁道遐蝶",
@@ -13769,14 +13777,6 @@
       "onboard_time": 1743944002,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15852,
-      "num": 39716,
-      "word": "如何评论美方称巨额贸易逆差让美国吃亏",
-      "onboard_time": 1744230494,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15763,
@@ -13809,6 +13809,14 @@
       "onboard_time": 1744060094,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15018,
+      "num": 20207,
+      "word": "黄觉谈和肖战合作藏海传",
+      "onboard_time": 1744233016,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 14624,
@@ -13857,14 +13865,6 @@
       "onboard_time": 1743966734,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14180,
-      "num": 19671,
-      "word": "黄觉谈和肖战合作藏海传",
-      "onboard_time": 1744233016,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 13498,
@@ -14025,6 +14025,14 @@
       "onboard_time": 1743909259,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 9639,
+      "num": 21591,
+      "word": "外国姑娘被中国人暖到了",
+      "onboard_time": 1744234515,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9457,

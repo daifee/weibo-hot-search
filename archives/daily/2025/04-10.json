@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744233652515,
+  "endTime": 1744234578299,
   "band_list": [
     {
       "raw_hot": 6521543,
@@ -451,20 +451,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 29209,
+      "num": 29209,
+      "word": "美国很多小农场主或将破产",
+      "onboard_time": 1744230134,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27289,
       "num": 35410,
       "word": "黄金",
       "onboard_time": 1744201285,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 26450,
-      "num": 26450,
-      "word": "美国很多小农场主或将破产",
-      "onboard_time": 1744230134,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 24886,
@@ -539,7 +539,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15852,
+      "raw_hot": 16272,
       "num": 39716,
       "word": "如何评论美方称巨额贸易逆差让美国吃亏",
       "onboard_time": 1744230494,
@@ -547,8 +547,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 14180,
-      "num": 19671,
+      "raw_hot": 15018,
+      "num": 20207,
       "word": "黄觉谈和肖战合作藏海传",
       "onboard_time": 1744233016,
       "rank": 49,
@@ -561,6 +561,14 @@
       "onboard_time": 1744228816,
       "rank": 44,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 9639,
+      "num": 21591,
+      "word": "外国姑娘被中国人暖到了",
+      "onboard_time": 1744234515,
+      "rank": 41,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

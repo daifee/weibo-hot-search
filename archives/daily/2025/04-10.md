@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/10 00:31:37 ~ 2025/04/10 05:20:52
+本榜单时间：2025/04/10 00:31:37 ~ 2025/04/10 05:36:18
 </p>
 </blockquote>
 <p>
@@ -351,14 +351,14 @@ PUBG（热度：73114）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23" target="weibo">
-黄金（热度：27289）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%BE%88%E5%A4%9A%E5%B0%8F%E5%86%9C%E5%9C%BA%E4%B8%BB%E6%88%96%E5%B0%86%E7%A0%B4%E4%BA%A7%23" target="weibo">
+美国很多小农场主或将破产（热度：29209）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%BE%88%E5%A4%9A%E5%B0%8F%E5%86%9C%E5%9C%BA%E4%B8%BB%E6%88%96%E5%B0%86%E7%A0%B4%E4%BA%A7%23" target="weibo">
-美国很多小农场主或将破产（热度：26450）
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23" target="weibo">
+黄金（热度：27289）
 </a>
 </li>
 
@@ -418,19 +418,25 @@ PUBG（热度：73114）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E8%AE%BA%E7%BE%8E%E6%96%B9%E7%A7%B0%E5%B7%A8%E9%A2%9D%E8%B4%B8%E6%98%93%E9%80%86%E5%B7%AE%E8%AE%A9%E7%BE%8E%E5%9B%BD%E5%90%83%E4%BA%8F%23" target="weibo">
-如何评论美方称巨额贸易逆差让美国吃亏（热度：15852）
+如何评论美方称巨额贸易逆差让美国吃亏（热度：16272）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%A7%89%E8%B0%88%E5%92%8C%E8%82%96%E6%88%98%E5%90%88%E4%BD%9C%E8%97%8F%E6%B5%B7%E4%BC%A0%23" target="weibo">
-黄觉谈和肖战合作藏海传（热度：14180）
+黄觉谈和肖战合作藏海传（热度：15018）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%95%91%E6%8F%B4%E9%98%9F%E4%BC%8D%E5%AE%8C%E6%88%90%E7%BC%85%E7%94%B8%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E5%9B%9E%E5%9B%BD%23" target="weibo">
 中国救援队伍完成缅甸地震救援回国（热度：12237）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E5%A7%91%E5%A8%98%E8%A2%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9A%96%E5%88%B0%E4%BA%86%23" target="weibo">
+外国姑娘被中国人暖到了（热度：9639）
 </a>
 </li>
 
