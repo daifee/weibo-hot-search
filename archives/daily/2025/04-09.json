@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744212584158,
+  "endTime": 1744213391253,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -209,6 +209,14 @@
       "onboard_time": 1744164142,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1449552,
+      "num": 1449552,
+      "word": "美股开盘",
+      "onboard_time": 1744211125,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1343020,
@@ -475,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 751057,
-      "num": 751057,
-      "word": "美股开盘",
-      "onboard_time": 1744211125,
-      "rank": 10,
-      "category": "财经"
-    },
-    {
       "raw_hot": 746075,
       "num": 746075,
       "word": "于正 不加入乌合之众",
@@ -505,6 +505,14 @@
       "onboard_time": 1744181541,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 689292,
+      "num": 751418,
+      "word": "巴西总统批特朗普以为能给世界立规矩",
+      "onboard_time": 1744211967,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 680554,
@@ -1059,14 +1067,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 323855,
-      "num": 751418,
-      "word": "巴西总统批特朗普以为能给世界立规矩",
-      "onboard_time": 1744211967,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 319950,
       "num": 675653,
       "word": "对美二十多项反制合理合情合法",
@@ -1105,6 +1105,14 @@
       "onboard_time": 1744167982,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312797,
+      "num": 239572,
+      "word": "马斯克游戏直播太菜被骂下播",
+      "onboard_time": 1744210707,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 312202,
@@ -1459,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241156,
+      "num": 241156,
+      "word": "金价再大涨",
+      "onboard_time": 1744212865,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 240777,
       "num": 240777,
       "word": "王者荣耀百里守约雪豹皮肤",
@@ -1697,6 +1713,14 @@
       "onboard_time": 1744166900,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 215083,
+      "num": 215083,
+      "word": "纳斯达克",
+      "onboard_time": 1744211906,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 214247,
@@ -2011,6 +2035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 189649,
+      "num": 328910,
+      "word": "SUNNY加入李秀满新公司A2O",
+      "onboard_time": 1744212146,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187275,
       "num": 240879,
       "word": "张真源杨迪这里不让睡觉",
@@ -2203,6 +2235,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 172911,
+      "num": 172911,
+      "word": "iPhone迁回美国产成本或飙升90%",
+      "onboard_time": 1744212505,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 172423,
       "num": 200561,
       "word": "陶喆长沙抢票",
@@ -2219,14 +2259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 171765,
-      "num": 171765,
-      "word": "SUNNY加入李秀满新公司A2O",
-      "onboard_time": 1744212146,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171270,
       "num": 171270,
       "word": "虞书欣3月微博演员热度TOP1",
@@ -2241,6 +2273,14 @@
       "onboard_time": 1744193841,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170573,
+      "num": 170573,
+      "word": "中方多部门密集发声",
+      "onboard_time": 1744213166,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 170028,
@@ -2377,14 +2417,6 @@
       "onboard_time": 1744203446,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160332,
-      "num": 160332,
-      "word": "纳斯达克",
-      "onboard_time": 1744211906,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 160091,
@@ -2619,6 +2651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146954,
+      "num": 146954,
+      "word": "辛云来发红包告别雁回时",
+      "onboard_time": 1744212865,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146194,
       "num": 146194,
       "word": "马斯克痛批纳瓦罗",
@@ -2705,14 +2745,6 @@
       "onboard_time": 1744165462,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 140036,
-      "num": 140036,
-      "word": "iPhone迁回美国产成本或飙升90%",
-      "onboard_time": 1744212505,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 139739,
@@ -3049,6 +3081,14 @@
       "onboard_time": 1744124663,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87143,
+      "num": 252555,
+      "word": "海关总署公告",
+      "onboard_time": 1744213166,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86767,

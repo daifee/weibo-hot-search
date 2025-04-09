@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744212584158,
+  "endTime": 1744213391253,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -440,6 +440,14 @@
       "word": "汇率",
       "onboard_time": 1744124544,
       "rank": 4,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1449552,
+      "num": 1449552,
+      "word": "美股开盘",
+      "onboard_time": 1744211125,
+      "rank": 10,
       "category": "财经"
     },
     {
@@ -1483,14 +1491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 751057,
-      "num": 751057,
-      "word": "美股开盘",
-      "onboard_time": 1744211125,
-      "rank": 10,
-      "category": "财经"
-    },
-    {
       "raw_hot": 746075,
       "num": 746075,
       "word": "于正 不加入乌合之众",
@@ -1657,6 +1657,14 @@
       "onboard_time": 1743896238,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 689292,
+      "num": 751418,
+      "word": "巴西总统批特朗普以为能给世界立规矩",
+      "onboard_time": 1744211967,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 689283,
@@ -3691,14 +3699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 323855,
-      "num": 751418,
-      "word": "巴西总统批特朗普以为能给世界立规矩",
-      "onboard_time": 1744211967,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 321466,
       "num": 356497,
       "word": "金子涵曾瘦到49公斤",
@@ -3825,6 +3825,14 @@
       "onboard_time": 1744035325,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 312797,
+      "num": 239572,
+      "word": "马斯克游戏直播太菜被骂下播",
+      "onboard_time": 1744210707,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 312202,
@@ -5025,6 +5033,14 @@
       "onboard_time": 1743862763,
       "rank": 9,
       "category": "财经,海外新闻"
+    },
+    {
+      "raw_hot": 241156,
+      "num": 241156,
+      "word": "金价再大涨",
+      "onboard_time": 1744212865,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 240777,
@@ -6843,6 +6859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189649,
+      "num": 328910,
+      "word": "SUNNY加入李秀满新公司A2O",
+      "onboard_time": 1744212146,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189443,
       "num": 189443,
       "word": "大侦探",
@@ -7699,6 +7723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 172911,
+      "num": 172911,
+      "word": "iPhone迁回美国产成本或飙升90%",
+      "onboard_time": 1744212505,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 172874,
       "num": 190853,
       "word": "彩色的黑是吉克隽逸的养老保险",
@@ -7747,14 +7779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171765,
-      "num": 171765,
-      "word": "SUNNY加入李秀满新公司A2O",
-      "onboard_time": 1744212146,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171592,
       "num": 335035,
       "word": "预订的金条还没到手4天已亏4万多",
@@ -7793,6 +7817,14 @@
       "onboard_time": 1743920780,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170573,
+      "num": 170573,
+      "word": "中方多部门密集发声",
+      "onboard_time": 1744213166,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 170247,
@@ -9083,6 +9115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146954,
+      "num": 146954,
+      "word": "辛云来发红包告别雁回时",
+      "onboard_time": 1744212865,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146882,
       "num": 202445,
       "word": "留几手晒腹肌",
@@ -9369,14 +9409,6 @@
       "onboard_time": 1744165462,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 140036,
-      "num": 140036,
-      "word": "iPhone迁回美国产成本或飙升90%",
-      "onboard_time": 1744212505,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 139940,
@@ -11465,6 +11497,14 @@
       "onboard_time": 1744044258,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87143,
+      "num": 252555,
+      "word": "海关总署公告",
+      "onboard_time": 1744213166,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87049,

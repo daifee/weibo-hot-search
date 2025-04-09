@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/09 23:29:44
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/09 23:43:11
 </p>
 </blockquote>
 <p>
@@ -695,6 +695,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%20%E9%80%80%E5%9C%88%23" target="weibo">
 金子涵 退圈（热度：1450859）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%23" target="weibo">
+美股开盘（热度：1449552）
 </a>
 </li>
 
@@ -2271,12 +2277,6 @@ YERI和Wendy离开SM（热度：805847）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%23" target="weibo">
-美股开盘（热度：751057）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E8%AF%84%E4%BB%B7%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%9F%8E%E5%B8%82%E4%BD%93%E9%AA%8C%E6%8E%92%E5%90%8D%23" target="weibo">
 甲亢哥评价中国行城市体验排名（热度：750965）
 </a>
@@ -2495,6 +2495,12 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E4%B8%A4%E5%A5%B3%E5%AD%A9%E5%BA%9F%E5%A2%9F%E9%87%8C%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E8%87%AA%E6%95%91%E6%88%90%E5%8A%9F%23" target="weibo">
 缅甸两女孩废墟里教科书式自救成功（热度：693434）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%A5%E4%B8%BA%E8%83%BD%E7%BB%99%E4%B8%96%E7%95%8C%E7%AB%8B%E8%A7%84%E7%9F%A9%23" target="weibo">
+巴西总统批特朗普以为能给世界立规矩（热度：689292）
 </a>
 </li>
 
@@ -5769,12 +5775,6 @@ BLACKPINK nword（热度：324614）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%A5%E4%B8%BA%E8%83%BD%E7%BB%99%E4%B8%96%E7%95%8C%E7%AB%8B%E8%A7%84%E7%9F%A9%23" target="weibo">
-巴西总统批特朗普以为能给世界立规矩（热度：323855）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E5%9B%9E%E5%BA%94cos%E6%B5%B7%E7%8E%8B%E8%A2%AB%E5%BC%BA%E5%88%B6%E5%85%B3%E6%92%AD%23" target="weibo">
 刘畊宏回应cos海王被强制关播（热度：323497）
 </a>
@@ -5955,6 +5955,12 @@ A股探底回升三大指数翻红（热度：315301）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%B8%B8%E6%88%8F%E7%9B%B4%E6%92%AD%E5%A4%AA%E8%8F%9C%E8%A2%AB%E9%AA%82%E4%B8%8B%E6%92%AD%23" target="weibo">
+马斯克游戏直播太菜被骂下播（热度：312797）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E6%8A%8A%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%AF%B4%E6%B8%85%E6%A5%9A%E4%BA%86%23" target="weibo">
 终于有人把大学专业说清楚了（热度：312382）
 </a>
@@ -6005,12 +6011,6 @@ A股探底回升三大指数翻红（热度：315301）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%B8%A6%E7%9D%80%E5%93%AD%E8%85%94%E9%97%AE180%E6%96%A4%E8%83%BD%E6%95%91%E5%90%97%23" target="weibo">
 男孩带着哭腔问180斤能救吗（热度：310889）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%96%E5%9C%A8%E5%87%A0%E4%B8%AA%E6%9C%88%E5%86%85%E7%A6%BB%E8%81%8C%23" target="weibo">
-特朗普说马斯克或在几个月内离职（热度：310381）
 </a>
 </li>
 

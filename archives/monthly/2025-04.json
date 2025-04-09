@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744212584158,
+  "endTime": 1744213391253,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -913,6 +913,14 @@
       "onboard_time": 1743810317,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1449552,
+      "num": 1449552,
+      "word": "美股开盘",
+      "onboard_time": 1744211125,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1432135,
@@ -3011,14 +3019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 751057,
-      "num": 751057,
-      "word": "美股开盘",
-      "onboard_time": 1744211125,
-      "rank": 10,
-      "category": "财经"
-    },
-    {
       "raw_hot": 750965,
       "num": 750965,
       "word": "甲亢哥评价中国行城市体验排名",
@@ -3313,6 +3313,14 @@
       "onboard_time": 1743509963,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 689292,
+      "num": 751418,
+      "word": "巴西总统批特朗普以为能给世界立规矩",
+      "onboard_time": 1744211967,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 689283,
@@ -7675,14 +7683,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 323855,
-      "num": 751418,
-      "word": "巴西总统批特朗普以为能给世界立规矩",
-      "onboard_time": 1744211967,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 323497,
       "num": 555255,
       "word": "刘畊宏回应cos海王被强制关播",
@@ -7921,6 +7921,14 @@
       "onboard_time": 1743668541,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312797,
+      "num": 239572,
+      "word": "马斯克游戏直播太菜被骂下播",
+      "onboard_time": 1744210707,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 312382,
@@ -10089,6 +10097,14 @@
       "onboard_time": 1743741381,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241156,
+      "num": 241156,
+      "word": "金价再大涨",
+      "onboard_time": 1744212865,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 240994,
@@ -13675,6 +13691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189649,
+      "num": 328910,
+      "word": "SUNNY加入李秀满新公司A2O",
+      "onboard_time": 1744212146,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189618,
       "num": 189618,
       "word": "吃饭跑步和恋爱定档",
@@ -15475,6 +15499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172911,
+      "num": 172911,
+      "word": "iPhone迁回美国产成本或飙升90%",
+      "onboard_time": 1744212505,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 172900,
       "num": 303951,
       "word": "成都一女子小区电梯内被狗咬伤",
@@ -15584,14 +15616,6 @@
       "word": "50岁追星奶 我和时代峰峻的十年",
       "onboard_time": 1743496703,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 171765,
-      "num": 171765,
-      "word": "SUNNY加入李秀满新公司A2O",
-      "onboard_time": 1744212146,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -15721,6 +15745,14 @@
       "onboard_time": 1743920780,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170573,
+      "num": 170573,
+      "word": "中方多部门密集发声",
+      "onboard_time": 1744213166,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 170248,
@@ -18403,6 +18435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146954,
+      "num": 146954,
+      "word": "辛云来发红包告别雁回时",
+      "onboard_time": 1744212865,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146882,
       "num": 202445,
       "word": "留几手晒腹肌",
@@ -19161,14 +19201,6 @@
       "onboard_time": 1743743061,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 140036,
-      "num": 140036,
-      "word": "iPhone迁回美国产成本或飙升90%",
-      "onboard_time": 1744212505,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 140021,
@@ -24401,6 +24433,14 @@
       "onboard_time": 1744044258,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87143,
+      "num": 252555,
+      "word": "海关总署公告",
+      "onboard_time": 1744213166,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87135,

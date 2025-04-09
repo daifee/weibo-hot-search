@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/06 00:27:55 ~ 2025/04/09 23:29:44
+本榜单时间：2025/04/06 00:27:55 ~ 2025/04/09 23:43:11
 </p>
 </blockquote>
 <p>
@@ -341,6 +341,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%87%E7%8E%87%23" target="weibo">
 汇率（热度：1463882）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%23" target="weibo">
+美股开盘（热度：1449552）
 </a>
 </li>
 
@@ -1125,12 +1131,6 @@ C罗点评甲亢哥中国行（热度：2472029）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%23" target="weibo">
-美股开盘（热度：751057）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%20%E4%B8%8D%E5%8A%A0%E5%85%A5%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97%23" target="weibo">
 于正 不加入乌合之众（热度：746075）
 </a>
@@ -1253,6 +1253,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E%E5%89%8D%E8%BD%A6%E9%A9%AC%E5%BE%88%E6%85%A2%E6%89%80%E4%BB%A5%E4%B8%91%E4%BA%8B%E4%B9%9F%E4%BC%A0%E5%BE%97%E6%85%A2%23" target="weibo">
 从前车马很慢所以丑事也传得慢（热度：707811）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%A5%E4%B8%BA%E8%83%BD%E7%BB%99%E4%B8%96%E7%95%8C%E7%AB%8B%E8%A7%84%E7%9F%A9%23" target="weibo">
+巴西总统批特朗普以为能给世界立规矩（热度：689292）
 </a>
 </li>
 
@@ -2781,12 +2787,6 @@ SM查理呢（热度：335430）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%A5%E4%B8%BA%E8%83%BD%E7%BB%99%E4%B8%96%E7%95%8C%E7%AB%8B%E8%A7%84%E7%9F%A9%23" target="weibo">
-巴西总统批特朗普以为能给世界立规矩（热度：323855）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E6%9B%BE%E7%98%A6%E5%88%B049%E5%85%AC%E6%96%A4%23" target="weibo">
 金子涵曾瘦到49公斤（热度：321466）
 </a>
@@ -2879,6 +2879,12 @@ A股探底回升三大指数翻红（热度：315301）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B%23" target="weibo">
 纳斯达克（热度：313166）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%B8%B8%E6%88%8F%E7%9B%B4%E6%92%AD%E5%A4%AA%E8%8F%9C%E8%A2%AB%E9%AA%82%E4%B8%8B%E6%92%AD%23" target="weibo">
+马斯克游戏直播太菜被骂下播（热度：312797）
 </a>
 </li>
 
@@ -3779,6 +3785,12 @@ meiko状态（热度：257990）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%B6%85%E5%B8%82%E7%89%A9%E4%BB%B7%E6%9A%B4%E6%B6%A830%25%23" target="weibo">
 美国超市物价暴涨30%（热度：242188）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%86%8D%E5%A4%A7%E6%B6%A8%23" target="weibo">
+金价再大涨（热度：241156）
 </a>
 </li>
 
@@ -5145,6 +5157,12 @@ GEN战胜T1（热度：193198）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23SUNNY%E5%8A%A0%E5%85%A5%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%85%AC%E5%8F%B8A2O%23" target="weibo">
+SUNNY加入李秀满新公司A2O（热度：189649）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A2%23" target="weibo">
 大侦探（热度：189443）
 </a>
@@ -5787,6 +5805,12 @@ TizzyT当导师都没空官宣演唱会吗（热度：173838）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone%E8%BF%81%E5%9B%9E%E7%BE%8E%E5%9B%BD%E4%BA%A7%E6%88%90%E6%9C%AC%E6%88%96%E9%A3%99%E5%8D%8790%25%23" target="weibo">
+iPhone迁回美国产成本或飙升90%（热度：172911）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%A9%E8%89%B2%E7%9A%84%E9%BB%91%E6%98%AF%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E7%9A%84%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%23" target="weibo">
 彩色的黑是吉克隽逸的养老保险（热度：172874）
 </a>
@@ -5823,12 +5847,6 @@ TizzyT当导师都没空官宣演唱会吗（热度：173838）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23SUNNY%E5%8A%A0%E5%85%A5%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%85%AC%E5%8F%B8A2O%23" target="weibo">
-SUNNY加入李秀满新公司A2O（热度：171765）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E8%AE%A2%E7%9A%84%E9%87%91%E6%9D%A1%E8%BF%98%E6%B2%A1%E5%88%B0%E6%89%8B4%E5%A4%A9%E5%B7%B2%E4%BA%8F4%E4%B8%87%E5%A4%9A%23" target="weibo">
 预订的金条还没到手4天已亏4万多（热度：171592）
 </a>
@@ -5855,6 +5873,12 @@ SUNNY加入李秀满新公司A2O（热度：171765）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AAvava%E7%BB%99%E5%8D%A1%E7%90%B3%E5%A8%9C%E9%80%81%E8%A2%AB%E5%AD%90%23" target="weibo">
 吴宣仪vava给卡琳娜送被子（热度：170674）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%A4%9A%E9%83%A8%E9%97%A8%E5%AF%86%E9%9B%86%E5%8F%91%E5%A3%B0%23" target="weibo">
+中方多部门密集发声（热度：170573）
 </a>
 </li>
 
@@ -6825,6 +6849,12 @@ AG司马光出道夜舞台（热度：151542）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E4%BA%91%E6%9D%A5%E5%8F%91%E7%BA%A2%E5%8C%85%E5%91%8A%E5%88%AB%E9%9B%81%E5%9B%9E%E6%97%B6%23" target="weibo">
+辛云来发红包告别雁回时（热度：146954）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E6%99%92%E8%85%B9%E8%82%8C%23" target="weibo">
 留几手晒腹肌（热度：146882）
 </a>
@@ -7037,12 +7067,6 @@ AG司马光出道夜舞台（热度：151542）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%A1%E7%A5%A8%23" target="weibo">
 股票（热度：140141）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone%E8%BF%81%E5%9B%9E%E7%BE%8E%E5%9B%BD%E4%BA%A7%E6%88%90%E6%9C%AC%E6%88%96%E9%A3%99%E5%8D%8790%25%23" target="weibo">
-iPhone迁回美国产成本或飙升90%（热度：140036）
 </a>
 </li>
 
@@ -8609,6 +8633,12 @@ A股早盘收涨（热度：101224）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E8%AE%AE%E8%80%85%E4%B8%BE%E4%BC%81%E9%B9%85%E5%8F%8D%E5%AF%B9%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E6%A0%87%E8%AF%AD%23" target="weibo">
 抗议者举企鹅反对加征关税标语（热度：87286）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%AC%E5%91%8A%23" target="weibo">
+海关总署公告（热度：87143）
 </a>
 </li>
 
