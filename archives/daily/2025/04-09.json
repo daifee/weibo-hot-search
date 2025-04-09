@@ -1,7 +1,15 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744184294952,
+  "endTime": 1744187664716,
   "band_list": [
+    {
+      "raw_hot": 4038610,
+      "num": 4038610,
+      "word": "外交部回应美国对华征收104%关税",
+      "onboard_time": 1744184001,
+      "rank": 21,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 2811443,
       "num": 2811443,
@@ -49,6 +57,14 @@
       "onboard_time": 1744161623,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1902112,
+      "num": 1902112,
+      "word": "离境退税",
+      "onboard_time": 1744182263,
+      "rank": 30,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 1549147,
@@ -259,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 733372,
-      "num": 733372,
-      "word": "离境退税",
-      "onboard_time": 1744182263,
-      "rank": 30,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 716282,
       "num": 654063,
       "word": "单亲妈妈370万给儿子买房后被拉黑",
@@ -323,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 567971,
+      "num": 567971,
+      "word": "白皮书",
+      "onboard_time": 1744183223,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 563494,
       "num": 563494,
       "word": "省考成绩",
@@ -345,14 +361,6 @@
       "onboard_time": 1744174465,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 526022,
-      "num": 526022,
-      "word": "外交部回应美国对华征收104%关税",
-      "onboard_time": 1744184001,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 510344,
@@ -393,6 +401,14 @@
       "onboard_time": 1744171824,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 479841,
+      "num": 479841,
+      "word": "美国仅占我国出口比重的15%",
+      "onboard_time": 1744184242,
+      "rank": 49,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 477418,
@@ -459,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440371,
+      "num": 407229,
+      "word": "男子婚后13天发现妻子双子宫一个肾",
+      "onboard_time": 1744184062,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 419131,
       "num": 419131,
       "word": "最贵菜是炒鸡蛋成美国网络热梗",
@@ -505,6 +529,14 @@
       "onboard_time": 1744171824,
       "rank": 14,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 392882,
+      "num": 392882,
+      "word": "南京地铁诡异人脸海报已撤下",
+      "onboard_time": 1744185562,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 385599,
@@ -555,20 +587,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 362406,
-      "num": 362406,
-      "word": "白皮书",
-      "onboard_time": 1744183223,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 361110,
       "num": 333420,
       "word": "林君怡朱天天隔空对撕",
       "onboard_time": 1744156102,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358875,
+      "num": 457510,
+      "word": "彭昱畅首部古装男主",
+      "onboard_time": 1744186761,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 358792,
@@ -716,7 +748,7 @@
     },
     {
       "raw_hot": 297249,
-      "num": 373048,
+      "num": 439160,
       "word": "观鹤笔记",
       "onboard_time": 1744182683,
       "rank": 34,
@@ -793,6 +825,14 @@
       "onboard_time": 1744176562,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283576,
+      "num": 283576,
+      "word": "河北省考成绩",
+      "onboard_time": 1744186702,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 279938,
@@ -891,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252712,
+      "num": 252712,
+      "word": "黄俊捷前女友晒收款记录称已了结",
+      "onboard_time": 1744186401,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252525,
       "num": 476551,
       "word": "榜上佳婿预告",
@@ -931,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232781,
+      "num": 232781,
+      "word": "商务部就中美经贸关系白皮书答问",
+      "onboard_time": 1744184362,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 232708,
       "num": 349246,
       "word": "严浩翔rap水平",
@@ -947,12 +1003,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230082,
+      "num": 230082,
+      "word": "中国将打造世界共享大市场",
+      "onboard_time": 1744185681,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230044,
       "num": 191963,
       "word": "林志玲为儿子做手工卡车",
       "onboard_time": 1744151718,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229701,
+      "num": 442363,
+      "word": "美从未停止针对中国的间谍活动",
+      "onboard_time": 1744186041,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 229420,
@@ -995,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220646,
+      "num": 394115,
+      "word": "柯淳再演乖乖女名场面出不了戏",
+      "onboard_time": 1744177044,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220190,
       "num": 220190,
       "word": "南京地铁回应乘客看到诡异人脸",
@@ -1009,14 +1089,6 @@
       "onboard_time": 1744127542,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 219333,
-      "num": 362193,
-      "word": "柯淳再演乖乖女名场面出不了戏",
-      "onboard_time": 1744177044,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 219102,
@@ -1075,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207441,
+      "num": 207441,
+      "word": "林丹回应在西班牙陪读",
+      "onboard_time": 1744186521,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206542,
       "num": 244745,
       "word": "沈月古风簪花写真",
@@ -1123,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201905,
+      "num": 201905,
+      "word": "孙俪做什么事情都是10年起步",
+      "onboard_time": 1744186761,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200878,
       "num": 200878,
       "word": "仆人还是妈生的好",
@@ -1145,6 +1233,14 @@
       "onboard_time": 1744177344,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 198732,
+      "num": 423162,
+      "word": "女子链家购房买凶宅楼栋一审胜诉",
+      "onboard_time": 1744186041,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196339,
@@ -1203,14 +1299,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 186640,
-      "num": 186640,
-      "word": "男子婚后13天发现妻子双子宫一个肾",
-      "onboard_time": 1744184062,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185568,
       "num": 185568,
       "word": "iPhone17Air到底有多薄",
@@ -1259,6 +1347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179883,
+      "num": 179883,
+      "word": "侯佩岑自曝老花眼严重",
+      "onboard_time": 1744186640,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177361,
       "num": 177361,
       "word": "每个户外人都有阴间照片",
@@ -1281,6 +1377,14 @@
       "onboard_time": 1744125683,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175797,
+      "num": 175797,
+      "word": "王一博网球穿搭",
+      "onboard_time": 1744186941,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 175664,
@@ -1329,6 +1433,14 @@
       "onboard_time": 1744175003,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 169551,
+      "num": 169551,
+      "word": "中国人民正当发展权利不容剥夺",
+      "onboard_time": 1744185442,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 168486,
@@ -1420,7 +1532,7 @@
     },
     {
       "raw_hot": 157347,
-      "num": 1120420,
+      "num": 1269683,
       "word": "中国坚决维护自身正当合法权益",
       "onboard_time": 1744169364,
       "rank": 2,
@@ -1459,6 +1571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 152961,
+      "num": 152961,
+      "word": "沈月从画中走出来了",
+      "onboard_time": 1744185562,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152627,
       "num": 152627,
       "word": "金子涵曾瘦到49公斤",
@@ -1491,12 +1611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148138,
-      "num": 148138,
-      "word": "美国仅占我国出口比重的15%",
-      "onboard_time": 1744184242,
-      "rank": 49,
-      "category": "财经,国际时政"
+      "raw_hot": 149403,
+      "num": 149403,
+      "word": "美方提高关税最终只会自食恶果",
+      "onboard_time": 1744184782,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 147358,
@@ -1553,6 +1673,14 @@
       "onboard_time": 1744174404,
       "rank": 47,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 140312,
+      "num": 393189,
+      "word": "张良新皮肤免费送",
+      "onboard_time": 1744184782,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 140141,
@@ -1739,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103312,
+      "num": 556860,
+      "word": "中方详细罗列美方对等关税损人害己",
+      "onboard_time": 1744186161,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102361,
       "num": 102361,
       "word": "偶遇张颂文逛街",
@@ -1795,12 +1931,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92399,
+      "num": 393107,
+      "word": "全新智己L6红红红出圈了",
+      "onboard_time": 1744185983,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 91606,
       "num": 326330,
       "word": "马斯克称纳瓦罗比一袋砖头还蠢",
       "onboard_time": 1744169063,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90986,
+      "num": 393044,
+      "word": "黄金回涨",
+      "onboard_time": 1744187422,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 90127,
@@ -2123,6 +2275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 38542,
+      "num": 393081,
+      "word": "如美方执意打贸易战中方必将奉陪到底",
+      "onboard_time": 1744187422,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37695,
       "num": 37695,
       "word": "里根38年前就讲过滥施关税的下场",
@@ -2251,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22908,
+      "num": 392896,
+      "word": "北影节有近300部进口电影",
+      "onboard_time": 1744186161,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22329,
       "num": 168839,
       "word": "被企业家丈夫家暴女子要回抚养权",
@@ -2297,6 +2465,14 @@
       "onboard_time": 1744134256,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16086,
+      "num": 392939,
+      "word": "球迷送马龙球拍上写满了爱",
+      "onboard_time": 1744186582,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 14461,

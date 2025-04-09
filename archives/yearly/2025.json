@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1744184294952,
+  "endTime": 1744187664716,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1211,6 +1211,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 4038610,
+      "num": 4038610,
+      "word": "外交部回应美国对华征收104%关税",
+      "onboard_time": 1744184001,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 4022283,
       "num": 1571832,
       "word": "星星疑被剃去头发腿上有红斑",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739927541,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 2860425,
-      "num": 934816,
-      "word": "大S朋友圈签名",
-      "onboard_time": 1738594530,
-      "rank": 3,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

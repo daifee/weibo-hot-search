@@ -1,0 +1,410 @@
+{
+  "runTime": 1744187664716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4038610,
+        "num": 4038610,
+        "word": "外交部回应美国对华征收104%关税",
+        "onboard_time": 1744184001,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1902112,
+        "num": 1902112,
+        "word": "离境退税",
+        "onboard_time": 1744182263,
+        "rank": 1,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 53451,
+        "num": 1269683,
+        "word": "中国坚决维护自身正当合法权益",
+        "onboard_time": 1744169364,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 1001649,
+        "num": 1001649,
+        "word": "世纪婴儿去世鉴定结果已出",
+        "onboard_time": 1744175964,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 905333,
+        "num": 905333,
+        "word": "中美经贸关系白皮书",
+        "onboard_time": 1744183163,
+        "rank": 4,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 805379,
+        "num": 805379,
+        "word": "演员叶琳瑯去世",
+        "onboard_time": 1744179863,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639994,
+        "num": 639994,
+        "word": "腾讯客服回应微信开通已读功能",
+        "onboard_time": 1744179022,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 625126,
+        "num": 625126,
+        "word": "中美经贸关系中方立场",
+        "onboard_time": 1744182503,
+        "rank": 7,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 567971,
+        "num": 567971,
+        "word": "白皮书",
+        "onboard_time": 1744183223,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103312,
+        "num": 556860,
+        "word": "中方详细罗列美方对等关税损人害己",
+        "onboard_time": 1744186161,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 606670,
+        "num": 556697,
+        "word": "于正 不加入乌合之众",
+        "onboard_time": 1744179443,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556475,
+        "num": 556475,
+        "word": "张万森 下人了",
+        "onboard_time": 1744174044,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 479841,
+        "num": 479841,
+        "word": "美国仅占我国出口比重的15%",
+        "onboard_time": 1744184242,
+        "rank": 12,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 358875,
+        "num": 457510,
+        "word": "彭昱畅首部古装男主",
+        "onboard_time": 1744186761,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229701,
+        "num": 442363,
+        "word": "美从未停止针对中国的间谍活动",
+        "onboard_time": 1744186041,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345840,
+        "num": 440688,
+        "word": "淮水竹亭 延期",
+        "onboard_time": 1744178782,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439437,
+        "num": 439437,
+        "word": "金条一克跌20元现在入手合适吗",
+        "onboard_time": 1744180101,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 295661,
+        "num": 439160,
+        "word": "观鹤笔记",
+        "onboard_time": 1744182683,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242686,
+        "num": 427299,
+        "word": "温峥嵘 叫妈咪",
+        "onboard_time": 1744179383,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198732,
+        "num": 423162,
+        "word": "女子链家购房买凶宅楼栋一审胜诉",
+        "onboard_time": 1744186041,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508991,
+        "num": 411125,
+        "word": "单亲妈妈370万给儿子买房后被拉黑",
+        "onboard_time": 1744181541,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440371,
+        "num": 407229,
+        "word": "男子婚后13天发现妻子双子宫一个肾",
+        "onboard_time": 1744184062,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220646,
+        "num": 394115,
+        "word": "柯淳再演乖乖女名场面出不了戏",
+        "onboard_time": 1744177044,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393216,
+        "num": 393216,
+        "word": "41岁男子地铁猥亵女子被行拘",
+        "onboard_time": 1744177462,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140312,
+        "num": 393189,
+        "word": "张良新皮肤免费送",
+        "onboard_time": 1744184782,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92399,
+        "num": 393107,
+        "word": "全新智己L6红红红出圈了",
+        "onboard_time": 1744185983,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38542,
+        "num": 393081,
+        "word": "如美方执意打贸易战中方必将奉陪到底",
+        "onboard_time": 1744187422,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90986,
+        "num": 393044,
+        "word": "黄金回涨",
+        "onboard_time": 1744187422,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16086,
+        "num": 392939,
+        "word": "球迷送马龙球拍上写满了爱",
+        "onboard_time": 1744186582,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22908,
+        "num": 392896,
+        "word": "北影节有近300部进口电影",
+        "onboard_time": 1744186161,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 392882,
+        "num": 392882,
+        "word": "南京地铁诡异人脸海报已撤下",
+        "onboard_time": 1744185562,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286425,
+        "num": 286425,
+        "word": "美国一边打贸易战一边求鸡蛋",
+        "onboard_time": 1744160004,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283576,
+        "num": 283576,
+        "word": "河北省考成绩",
+        "onboard_time": 1744186702,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252712,
+        "num": 252712,
+        "word": "黄俊捷前女友晒收款记录称已了结",
+        "onboard_time": 1744186401,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232781,
+        "num": 232781,
+        "word": "商务部就中美经贸关系白皮书答问",
+        "onboard_time": 1744184362,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230082,
+        "num": 230082,
+        "word": "中国将打造世界共享大市场",
+        "onboard_time": 1744185681,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207441,
+        "num": 207441,
+        "word": "林丹回应在西班牙陪读",
+        "onboard_time": 1744186521,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206377,
+        "num": 206377,
+        "word": "孔雪儿回复金孔cp粉",
+        "onboard_time": 1744175543,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201905,
+        "num": 201905,
+        "word": "孙俪做什么事情都是10年起步",
+        "onboard_time": 1744186761,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185222,
+        "num": 185222,
+        "word": "女子因提分手被60岁男友杀害家属发声",
+        "onboard_time": 1744182322,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179883,
+        "num": 179883,
+        "word": "侯佩岑自曝老花眼严重",
+        "onboard_time": 1744186640,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175797,
+        "num": 175797,
+        "word": "王一博网球穿搭",
+        "onboard_time": 1744186941,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 169551,
+        "num": 169551,
+        "word": "中国人民正当发展权利不容剥夺",
+        "onboard_time": 1744185442,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169370,
+        "num": 169370,
+        "word": "肖战 羽西",
+        "onboard_time": 1744166900,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162580,
+        "num": 162580,
+        "word": "辛云来陈都灵牵手入场",
+        "onboard_time": 1744177642,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160607,
+        "num": 160607,
+        "word": "猫在一声声认可中越来越自信了",
+        "onboard_time": 1744182803,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152961,
+        "num": 152961,
+        "word": "沈月从画中走出来了",
+        "onboard_time": 1744185562,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151211,
+        "num": 151211,
+        "word": "美债",
+        "onboard_time": 1744176324,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149403,
+        "num": 149403,
+        "word": "美方提高关税最终只会自食恶果",
+        "onboard_time": 1744184782,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142120,
+        "num": 142120,
+        "word": "美国关税大棒或致国内蛋价再次上涨",
+        "onboard_time": 1744171944,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈今年党建工作的重点任务#"
+    }
+  }
+}
