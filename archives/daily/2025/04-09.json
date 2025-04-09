@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744198566133,
+  "endTime": 1744202949634,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1716115,
+      "num": 1716115,
+      "word": "美国人抢鸡蛋盛况",
+      "onboard_time": 1744193422,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1590644,
       "num": 585966,
       "word": "李易峰出发曼谷",
@@ -147,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1488000,
+      "num": 1488000,
+      "word": "我们奉陪到底",
+      "onboard_time": 1744199966,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1487159,
       "num": 1487159,
       "word": "多国回复美国说不给鸡蛋",
@@ -163,20 +179,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1306955,
+      "num": 1306955,
+      "word": "特朗普关税地图炮砸向美国老百姓",
+      "onboard_time": 1744165402,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1272542,
       "num": 1272542,
       "word": "承德一养老院火灾致20人死",
       "onboard_time": 1744167863,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1270756,
-      "num": 1270756,
-      "word": "特朗普关税地图炮砸向美国老百姓",
-      "onboard_time": 1744165402,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1256053,
@@ -233,6 +249,22 @@
       "onboard_time": 1744115062,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1108276,
+      "num": 867221,
+      "word": "白冰冰7年做了16次试管婴儿",
+      "onboard_time": 1744200264,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1053183,
+      "num": 1053183,
+      "word": "折腰 四月空降",
+      "onboard_time": 1744199485,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1044514,
@@ -315,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 851175,
-      "num": 851175,
-      "word": "美国人抢鸡蛋盛况",
-      "onboard_time": 1744193422,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 834084,
       "num": 834084,
       "word": "对特朗普关税战服软有用吗",
@@ -395,12 +419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 707363,
+      "num": 707363,
+      "word": "美股",
+      "onboard_time": 1744199126,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 680554,
       "num": 379262,
       "word": "金敏喜前男友是李洙赫",
       "onboard_time": 1744162701,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 677535,
+      "num": 677535,
+      "word": "中方坚决反制",
+      "onboard_time": 1744198945,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 652798,
@@ -507,6 +547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 528844,
+      "num": 871840,
+      "word": "终于有剧拍了大学恋爱的经济差",
+      "onboard_time": 1744201285,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 510344,
       "num": 510344,
       "word": "美国关税政策伤了谁",
@@ -515,12 +563,28 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 506009,
+      "num": 867310,
+      "word": "这就是中国态度",
+      "onboard_time": 1744200625,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 505336,
       "num": 128098,
       "word": "特朗普喊话欧盟购买3500亿美元能源",
       "onboard_time": 1744123582,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 493928,
+      "num": 2037177,
+      "word": "关于中美经贸关系这是中方立场",
+      "onboard_time": 1744190482,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 493575,
@@ -561,6 +625,14 @@
       "onboard_time": 1744173985,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 472850,
+      "num": 472850,
+      "word": "家长建议小学延时至6点半放学",
+      "onboard_time": 1744200986,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 468349,
@@ -619,6 +691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 443783,
+      "num": 381746,
+      "word": "女儿隆鼻结果妈妈肋骨断了三根",
+      "onboard_time": 1744200085,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442383,
       "num": 281629,
       "word": "洪尚秀金敏喜得子",
@@ -675,20 +755,20 @@
       "category": "海外新闻,财经"
     },
     {
+      "raw_hot": 403393,
+      "num": 862834,
+      "word": "内娱终于拍出了武侠穿",
+      "onboard_time": 1744196662,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 399093,
       "num": 824896,
       "word": "12家美国实体列入出口管制管控名单",
       "onboard_time": 1744197504,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 391784,
-      "num": 2037177,
-      "word": "关于中美经贸关系这是中方立场",
-      "onboard_time": 1744190482,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 385599,
@@ -769,14 +849,6 @@
       "onboard_time": 1744107982,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 347956,
-      "num": 862834,
-      "word": "内娱终于拍出了武侠穿",
-      "onboard_time": 1744196662,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 336457,
@@ -889,6 +961,14 @@
       "onboard_time": 1744167982,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310200,
+      "num": 310200,
+      "word": "苹果在美国要么涨价要么盈利下降",
+      "onboard_time": 1744199066,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 308009,
@@ -1131,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263779,
+      "num": 263779,
+      "word": "黄金",
+      "onboard_time": 1744201285,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 260586,
       "num": 260586,
       "word": "胖东来帮扶多家超市损失19亿销售额",
@@ -1195,11 +1283,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 243145,
+      "num": 243145,
+      "word": "加拿大开始对美反制",
+      "onboard_time": 1744188083,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 242293,
       "num": 312501,
       "word": "星穹铁道",
       "onboard_time": 1744164441,
       "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 240777,
+      "num": 240777,
+      "word": "王者荣耀百里守约雪豹皮肤",
+      "onboard_time": 1744200505,
+      "rank": 30,
       "category": "游戏"
     },
     {
@@ -1217,6 +1321,14 @@
       "onboard_time": 1744183643,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 239005,
+      "num": 381795,
+      "word": "邓家佳又演喜剧片 爷青回",
+      "onboard_time": 1744198527,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 237030,
@@ -1387,6 +1499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 214247,
+      "num": 241398,
+      "word": "严浩翔墨镜反戴",
+      "onboard_time": 1744200564,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214121,
       "num": 600802,
       "word": "商务部回应美发布TikTok延期行政令",
@@ -1547,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198780,
+      "num": 198780,
+      "word": "中国制裁6家涉台军售美国企业",
+      "onboard_time": 1744199366,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 198554,
       "num": 312048,
       "word": "成毅打戏",
@@ -1625,6 +1753,22 @@
       "onboard_time": 1744195282,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 187275,
+      "num": 240879,
+      "word": "张真源杨迪这里不让睡觉",
+      "onboard_time": 1744202366,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187103,
+      "num": 187103,
+      "word": "孕妇拔坟头草煮水喝母子险丧命",
+      "onboard_time": 1744202486,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185568,
@@ -1771,6 +1915,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 172423,
+      "num": 200561,
+      "word": "陶喆长沙抢票",
+      "onboard_time": 1744201225,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172417,
       "num": 307108,
       "word": "王耀庆挤眉弄眼大事很妙",
@@ -1803,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166914,
+      "num": 199472,
+      "word": "成毅娜扎领衔主演赴山海",
+      "onboard_time": 1744200385,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166816,
       "num": 166816,
       "word": "买金条打结婚首饰5天亏了1500元",
@@ -1817,6 +1977,22 @@
       "onboard_time": 1744167442,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164894,
+      "num": 164894,
+      "word": "时代少年团演唱会 海口",
+      "onboard_time": 1744202666,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 164148,
+      "num": 164148,
+      "word": "李昊请假了",
+      "onboard_time": 1744202606,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 163928,
@@ -1841,6 +2017,14 @@
       "onboard_time": 1744176202,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162339,
+      "num": 162339,
+      "word": "吴尊晒与老婆出游照",
+      "onboard_time": 1744202245,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 161994,
@@ -1979,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153382,
+      "num": 153382,
+      "word": "张予曦金色亮片长裙",
+      "onboard_time": 1744202786,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153246,
       "num": 514512,
       "word": "白宫回应马斯克与特朗普顾问互怼",
@@ -2027,12 +2219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150207,
+      "num": 150207,
+      "word": "17岁救了一个10岁一个8岁",
+      "onboard_time": 1744199724,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150171,
       "num": 150171,
       "word": "万古最强宗开机",
       "onboard_time": 1744175903,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150060,
+      "num": 150060,
+      "word": "马斯克财富降至2980亿美元",
+      "onboard_time": 1744200986,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 149942,
@@ -2131,14 +2339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142521,
-      "num": 142521,
-      "word": "加拿大开始对美反制",
-      "onboard_time": 1744188083,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 140312,
       "num": 393189,
       "word": "张良新皮肤免费送",
@@ -2161,6 +2361,14 @@
       "onboard_time": 1744165462,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139851,
+      "num": 139851,
+      "word": "陈都灵金工实习期旧照",
+      "onboard_time": 1744202846,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 139739,
@@ -2249,14 +2457,6 @@
       "onboard_time": 1744161203,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 130397,
-      "num": 190418,
-      "word": "邓家佳又演喜剧片 爷青回",
-      "onboard_time": 1744198527,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 129956,
@@ -2904,6 +3104,14 @@
       "word": "承德起火老年公寓声称消防设置很安全",
       "onboard_time": 1744172844,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36974,
+      "num": 213967,
+      "word": "花1500万买地14年后才能过户",
+      "onboard_time": 1744201045,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
