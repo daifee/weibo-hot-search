@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744170562543,
+  "endTime": 1744172942894,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -123,6 +123,14 @@
       "category": "网红,作品衍生"
     },
     {
+      "raw_hot": 2811443,
+      "num": 2811443,
+      "word": "美国一边打贸易战一边求鸡蛋",
+      "onboard_time": 1744160004,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2808853,
       "num": 945444,
       "word": "小米回应SU7高速上碰撞爆燃",
@@ -145,14 +153,6 @@
       "onboard_time": 1743517885,
       "rank": 1,
       "category": "辟谣/通报,汽车"
-    },
-    {
-      "raw_hot": 2721827,
-      "num": 2721827,
-      "word": "美国一边打贸易战一边求鸡蛋",
-      "onboard_time": 1744160004,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 2689460,
@@ -1171,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1201943,
+      "num": 1201943,
+      "word": "C罗点评甲亢哥中国行",
+      "onboard_time": 1744172124,
+      "rank": 1,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 1199878,
       "num": 641205,
       "word": "金子涵脸都凹进去了",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1744091002,
       "rank": 6,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 1190029,
+      "num": 1190029,
+      "word": "韩团在寺庙为囚犯慰问演出",
+      "onboard_time": 1744169482,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1189214,
@@ -3088,14 +3104,6 @@
       "word": "唐鹤德 谁能代替你地位",
       "onboard_time": 1743467783,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 660648,
-      "num": 660648,
-      "word": "韩团在寺庙为囚犯慰问演出",
-      "onboard_time": 1744169482,
-      "rank": 5,
       "category": "艺人"
     },
     {
@@ -5419,12 +5427,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410322,
+      "num": 410322,
+      "word": "王力宏时隔五年回归音综",
+      "onboard_time": 1744171824,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409581,
       "num": 378414,
       "word": "甲亢哥水灵灵地被深圳交警警告了",
       "onboard_time": 1743848121,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 408734,
+      "num": 408734,
+      "word": "美国关税大棒或致国内蛋价再次上涨",
+      "onboard_time": 1744171944,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 408111,
@@ -5497,6 +5521,14 @@
       "onboard_time": 1744004902,
       "rank": 8,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 401433,
+      "num": 401433,
+      "word": "饿鬼模式瘦了15斤",
+      "onboard_time": 1744171703,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 401246,
@@ -5972,7 +6004,7 @@
     },
     {
       "raw_hot": 373676,
-      "num": 402155,
+      "num": 409744,
       "word": "萧敬腾说不会跟妻子接真人秀",
       "onboard_time": 1744158444,
       "rank": 35,
@@ -6747,6 +6779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335297,
+      "num": 335297,
+      "word": "原来胃这么辛苦 我要请它吃饭",
+      "onboard_time": 1744166481,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 335273,
       "num": 335273,
       "word": "女子花500元找人代祭扫被骗",
@@ -6915,6 +6955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 327527,
+      "num": 409225,
+      "word": "对特朗普关税战服软有用吗",
+      "onboard_time": 1744171584,
+      "rank": 19,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 327288,
       "num": 327288,
       "word": "倪妮瑞士被偶遇",
@@ -6945,14 +6993,6 @@
       "onboard_time": 1743725360,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 326336,
-      "num": 326336,
-      "word": "原来胃这么辛苦 我要请它吃饭",
-      "onboard_time": 1744166481,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 326330,
@@ -7507,6 +7547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301340,
+      "num": 301340,
+      "word": "成毅 六福珠宝",
+      "onboard_time": 1744170082,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301102,
       "num": 301102,
       "word": "刘宇宁直播回应万花世界",
@@ -7521,6 +7569,14 @@
       "onboard_time": 1743504862,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301044,
+      "num": 301044,
+      "word": "脆脆鲨品牌代言人虞书欣",
+      "onboard_time": 1744169364,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 300776,
@@ -8235,6 +8291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 274558,
+      "num": 508655,
+      "word": "河北老年公寓火灾致20死负责人被控制",
+      "onboard_time": 1744169843,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274277,
       "num": 274277,
       "word": "生命树",
@@ -8577,6 +8641,14 @@
       "onboard_time": 1743477203,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 262266,
+      "num": 262266,
+      "word": "A股史上最强稳市组合拳",
+      "onboard_time": 1744171163,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 261967,
@@ -9155,6 +9227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242293,
+      "num": 312501,
+      "word": "星穹铁道",
+      "onboard_time": 1744164441,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241892,
       "num": 241892,
       "word": "洪小铃得女",
@@ -9627,14 +9707,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 228420,
-      "num": 508655,
-      "word": "河北老年公寓火灾致20死负责人被控制",
-      "onboard_time": 1744169843,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228385,
       "num": 366159,
       "word": "自闭症孩子也可能是话痨",
@@ -9747,6 +9819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 226310,
+      "num": 301331,
+      "word": "甲亢哥发了大张伟",
+      "onboard_time": 1744171343,
+      "rank": 26,
+      "category": "网红,艺人"
+    },
+    {
       "raw_hot": 226116,
       "num": 226116,
       "word": "村委会称去世驴友吃完面突然倒地",
@@ -9769,6 +9849,14 @@
       "onboard_time": 1743498622,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225956,
+      "num": 281550,
+      "word": "陈都灵辛云来收官文",
+      "onboard_time": 1744171703,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 225853,
@@ -9929,6 +10017,14 @@
       "onboard_time": 1743865583,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222743,
+      "num": 441092,
+      "word": "全球富豪史上最大规模财富损失",
+      "onboard_time": 1744171824,
+      "rank": 14,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 222653,
@@ -10715,6 +10811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208855,
+      "num": 208855,
+      "word": "榜上佳婿预告",
+      "onboard_time": 1744171944,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208686,
       "num": 208686,
       "word": "赵露思在追值得爱",
@@ -10995,14 +11099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205704,
-      "num": 205704,
-      "word": "脆脆鲨品牌代言人虞书欣",
-      "onboard_time": 1744169364,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205665,
       "num": 230753,
       "word": "花千万买日本寺庙的中国人后悔了",
@@ -11025,6 +11121,14 @@
       "onboard_time": 1743478344,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205440,
+      "num": 205440,
+      "word": "徐明浩等了很久是吧",
+      "onboard_time": 1744172004,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 205117,
@@ -11225,14 +11329,6 @@
       "onboard_time": 1743559341,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202073,
-      "num": 202073,
-      "word": "成毅 六福珠宝",
-      "onboard_time": 1744170082,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 202061,
@@ -12163,6 +12259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191460,
+      "num": 191460,
+      "word": "利率下调存款特种兵淡出江湖",
+      "onboard_time": 1744172425,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 191401,
       "num": 331533,
       "word": "兄弟分离40年去世后在大海团聚",
@@ -12811,6 +12915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185568,
+      "num": 185568,
+      "word": "iPhone17Air到底有多薄",
+      "onboard_time": 1744171284,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 185534,
       "num": 185534,
       "word": "卢靖姗以前没想过要孩子",
@@ -13323,6 +13435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180591,
+      "num": 224259,
+      "word": "A股军工股集体爆发",
+      "onboard_time": 1744170443,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 180577,
       "num": 180577,
       "word": "国羽何济霆疑被未婚妻爆料赌球",
@@ -13369,6 +13489,14 @@
       "onboard_time": 1743482964,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179955,
+      "num": 1190738,
+      "word": "贸易壁垒挡不住经济全球化",
+      "onboard_time": 1744170983,
+      "rank": 2,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 179834,
@@ -13705,6 +13833,14 @@
       "onboard_time": 1743645141,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 176299,
+      "num": 176299,
+      "word": "韩国大学食堂让人眼前一黑又一黑",
+      "onboard_time": 1744172544,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 176189,
@@ -14417,14 +14553,6 @@
       "onboard_time": 1744013003,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 167779,
-      "num": 167779,
-      "word": "星穹铁道",
-      "onboard_time": 1744164441,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 167752,
@@ -16633,6 +16761,14 @@
       "onboard_time": 1743811878,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147002,
+      "num": 301212,
+      "word": "87岁吴彦姝打篮球",
+      "onboard_time": 1744172664,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 146882,
@@ -20683,6 +20819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111371,
+      "num": 301115,
+      "word": "美国用染色土豆做复活节彩蛋",
+      "onboard_time": 1744171463,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 111318,
       "num": 111318,
       "word": "业界人士质疑车企过度宣传智驾",
@@ -21531,6 +21675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101224,
+      "num": 215487,
+      "word": "A股早盘收涨",
+      "onboard_time": 1744171522,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 101206,
       "num": 101206,
       "word": "多方回应四川一小汽车坠河",
@@ -21817,6 +21969,14 @@
       "onboard_time": 1743471922,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 97488,
+      "num": 216254,
+      "word": "爱情在人生占比和年龄成反比",
+      "onboard_time": 1744171584,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 97344,
@@ -23705,6 +23865,14 @@
       "onboard_time": 1743438142,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 65385,
+      "num": 557381,
+      "word": "河北隆化县回应养老院火灾",
+      "onboard_time": 1744172364,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65360,
@@ -25699,6 +25867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33534,
+      "num": 301118,
+      "word": "承德起火老年公寓声称消防设置很安全",
+      "onboard_time": 1744172844,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33456,
       "num": 140578,
       "word": "陈幸同3比1米特兰姆",
@@ -25817,6 +25993,14 @@
       "onboard_time": 1743614236,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32284,
+      "num": 215489,
+      "word": "打工人如何防止被人精套话",
+      "onboard_time": 1744172184,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 32243,
@@ -27649,14 +27833,6 @@
       "onboard_time": 1743649642,
       "rank": 39,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 7486,
-      "num": 224259,
-      "word": "A股军工股集体爆发",
-      "onboard_time": 1744170443,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 7262,
