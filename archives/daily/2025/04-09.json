@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744194540512,
+  "endTime": 1744195619853,
   "band_list": [
     {
       "raw_hot": 4038610,
@@ -83,12 +83,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1733506,
-      "num": 1733506,
+      "raw_hot": 1859472,
+      "num": 1859472,
       "word": "折腰",
       "onboard_time": 1744191862,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1659307,
+      "num": 600554,
+      "word": "微信状态也能调情",
+      "onboard_time": 1744192642,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 1590644,
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 908266,
+      "num": 908266,
+      "word": "特朗普关税地图炮砸向美国老百姓",
+      "onboard_time": 1744165402,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 886031,
       "num": 886031,
       "word": "彭昱畅首部古装男主",
@@ -371,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 623384,
-      "num": 571460,
-      "word": "微信状态也能调情",
-      "onboard_time": 1744192642,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 614133,
       "num": 614133,
       "word": "一部iPhone看美加征关税代价",
@@ -403,8 +411,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 589361,
-      "num": 589361,
+      "raw_hot": 599595,
+      "num": 599595,
       "word": "辞职看世界女教师10年后怎么样了",
       "onboard_time": 1744191743,
       "rank": 8,
@@ -441,14 +449,6 @@
       "onboard_time": 1744179383,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 538582,
-      "num": 538582,
-      "word": "特朗普关税地图炮砸向美国老百姓",
-      "onboard_time": 1744165402,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 534862,
@@ -699,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356647,
+      "num": 1830007,
+      "word": "关于中美经贸关系这是中方立场",
+      "onboard_time": 1744190482,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 353889,
       "num": 482366,
       "word": "雁回时",
@@ -713,14 +721,6 @@
       "onboard_time": 1744107982,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 338286,
-      "num": 1830007,
-      "word": "关于中美经贸关系这是中方立场",
-      "onboard_time": 1744190482,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 336457,
@@ -881,6 +881,14 @@
       "onboard_time": 1744170082,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299747,
+      "num": 299747,
+      "word": "赴山海暂定5月播出",
+      "onboard_time": 1744194321,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 297009,
@@ -1075,6 +1083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 259013,
+      "num": 208452,
+      "word": "美国人抢鸡蛋盛况",
+      "onboard_time": 1744193422,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 255853,
       "num": 1506534,
       "word": "中国不惹事也绝不怕事",
@@ -1267,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 219146,
+      "num": 219146,
+      "word": "山西省考成绩",
+      "onboard_time": 1744194441,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 219102,
       "num": 219102,
       "word": "A股一扫阴霾强势反弹",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1744166900,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 214121,
+      "num": 600802,
+      "word": "商务部回应美发布TikTok延期行政令",
+      "onboard_time": 1744194383,
+      "rank": 30,
+      "category": "互联网,国内时政"
     },
     {
       "raw_hot": 213540,
@@ -1315,6 +1347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 209088,
+      "num": 290882,
+      "word": "李在明殊死一搏再战总统",
+      "onboard_time": 1744193422,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 207686,
       "num": 207686,
       "word": "勇士38分大胜太阳",
@@ -1324,11 +1364,19 @@
     },
     {
       "raw_hot": 207441,
-      "num": 207441,
+      "num": 250884,
       "word": "林丹回应在西班牙陪读",
       "onboard_time": 1744186521,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206819,
+      "num": 206819,
+      "word": "白鹿说临江仙这两三个月内播",
+      "onboard_time": 1744195042,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 206542,
@@ -1419,14 +1467,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 196658,
-      "num": 196658,
-      "word": "赴山海暂定5月播出",
-      "onboard_time": 1744194321,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196339,
       "num": 196339,
       "word": "孙悟空林黛玉 都是名著也算门当户对",
@@ -1465,6 +1505,14 @@
       "onboard_time": 1744191023,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193894,
+      "num": 158163,
+      "word": "白鹿五月底进组",
+      "onboard_time": 1744194862,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 192049,
@@ -1747,6 +1795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 158089,
+      "num": 158089,
+      "word": "出口技术须经中国政府依法审批",
+      "onboard_time": 1744195282,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157347,
       "num": 1349153,
       "word": "中国坚决维护自身正当合法权益",
@@ -1771,12 +1827,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156045,
-      "num": 156045,
-      "word": "山西省考成绩",
-      "onboard_time": 1744194441,
-      "rank": 43,
-      "category": "教育"
+      "raw_hot": 155951,
+      "num": 155951,
+      "word": "乌云之上",
+      "onboard_time": 1744133176,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 155669,
@@ -1857,6 +1913,14 @@
       "onboard_time": 1744175903,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150021,
+      "num": 150021,
+      "word": "会计毕业生一块一顿饭",
+      "onboard_time": 1744193841,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 149942,
@@ -1945,6 +2009,14 @@
       "onboard_time": 1744174404,
       "rank": 47,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 144466,
+      "num": 144466,
+      "word": "金秀贤防治法正式提交韩国会",
+      "onboard_time": 1744195524,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 142521,
@@ -2059,6 +2131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129956,
+      "num": 129956,
+      "word": "黄奕刘德华18年后再合作",
+      "onboard_time": 1744195222,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129761,
       "num": 129761,
       "word": "孟子义那很有生活了",
@@ -2081,14 +2161,6 @@
       "onboard_time": 1744159225,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124898,
-      "num": 290882,
-      "word": "李在明殊死一搏再战总统",
-      "onboard_time": 1744193422,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 119950,
@@ -2124,7 +2196,7 @@
     },
     {
       "raw_hot": 113281,
-      "num": 154104,
+      "num": 210782,
       "word": "全圆佑的包能装下自己",
       "onboard_time": 1744193543,
       "rank": 44,
@@ -2241,14 +2313,6 @@
       "onboard_time": 1744120163,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92413,
-      "num": 170317,
-      "word": "美国人抢鸡蛋盛况",
-      "onboard_time": 1744193422,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 92399,
@@ -2523,14 +2587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58217,
-      "num": 196660,
-      "word": "商务部回应美发布TikTok延期行政令",
-      "onboard_time": 1744194383,
-      "rank": 30,
-      "category": "互联网,国内时政"
-    },
-    {
       "raw_hot": 56423,
       "num": 56423,
       "word": "棋士22",
@@ -2715,14 +2771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31783,
-      "num": 31783,
-      "word": "乌云之上",
-      "onboard_time": 1744133176,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 31579,
       "num": 31579,
       "word": "这个外国男人为何被称大胖媳妇",
@@ -2873,6 +2921,14 @@
       "onboard_time": 1744132097,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 10320,
+      "num": 154270,
+      "word": "郭熙分享26国考备考规划",
+      "onboard_time": 1744195042,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 6968,
