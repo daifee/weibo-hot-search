@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/10 00:31:37 ~ 2025/04/10 04:25:31
+本榜单时间：2025/04/10 00:31:37 ~ 2025/04/10 04:41:53
 </p>
 </blockquote>
 <p>
@@ -213,6 +213,12 @@ iPhone迁回美国产成本或飙升90%（热度：233282）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E4%E6%9C%889%E6%97%A5%E7%94%9F%E6%95%88%23" target="weibo">
+加拿大对美加征关税4月9日生效（热度：153475）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E7%BB%88%E4%BA%8E%E7%94%A8%E4%B8%8A%E7%A5%BA%E8%B4%B5%E4%BA%BA%E7%9A%84%E6%A2%97%E4%BA%86%23" target="weibo">
 张若昀终于用上祺贵人的梗了（热度：148325）
 </a>
@@ -251,12 +257,6 @@ iPhone迁回美国产成本或飙升90%（热度：233282）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23SUNNY%E5%8A%A0%E5%85%A5%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%85%AC%E5%8F%B8A2O%23" target="weibo">
 SUNNY加入李秀满新公司A2O（热度：119690）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E4%E6%9C%889%E6%97%A5%E7%94%9F%E6%95%88%23" target="weibo">
-加拿大对美加征关税4月9日生效（热度：116391）
 </a>
 </li>
 
@@ -399,20 +399,32 @@ PUBG（热度：73114）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%BE%88%E5%A4%9A%E5%B0%8F%E5%86%9C%E5%9C%BA%E4%B8%BB%E6%88%96%E5%B0%86%E7%A0%B4%E4%BA%A7%23" target="weibo">
+美国很多小农场主或将破产（热度：19832）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E4%B8%8D%E6%83%B3%E5%86%8D%E5%BD%93%E5%BF%B5%E6%97%A7%E7%9A%84%E5%B0%8F%E5%AD%A9%E4%BA%86%23" target="weibo">
 穆祉丞不想再当念旧的小孩了（热度：19439）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%BE%88%E5%A4%9A%E5%B0%8F%E5%86%9C%E5%9C%BA%E4%B8%BB%E6%88%96%E5%B0%86%E7%A0%B4%E4%BA%A7%23" target="weibo">
-美国很多小农场主或将破产（热度：15120）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E9%99%88%E9%83%BD%E7%81%B5%E7%A3%A8%E9%BC%BB%E5%AD%90%E4%BA%B2%E4%BA%B2%23" target="weibo">
+温峥嵘陈都灵磨鼻子亲亲（热度：17172）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%95%91%E6%8F%B4%E9%98%9F%E4%BC%8D%E5%AE%8C%E6%88%90%E7%BC%85%E7%94%B8%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E5%9B%9E%E5%9B%BD%23" target="weibo">
 中国救援队伍完成缅甸地震救援回国（热度：12237）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E8%AE%BA%E7%BE%8E%E6%96%B9%E7%A7%B0%E5%B7%A8%E9%A2%9D%E8%B4%B8%E6%98%93%E9%80%86%E5%B7%AE%E8%AE%A9%E7%BE%8E%E5%9B%BD%E5%90%83%E4%BA%8F%23" target="weibo">
+如何评论美方称巨额贸易逆差让美国吃亏（热度：9899）
 </a>
 </li>
 
