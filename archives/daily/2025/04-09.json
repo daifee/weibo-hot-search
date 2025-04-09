@@ -1,6 +1,6 @@
 {
   "startTime": 1744129886604,
-  "endTime": 1744202949634,
+  "endTime": 1744203838076,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -115,8 +115,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1716115,
-      "num": 1716115,
+      "raw_hot": 1823797,
+      "num": 1823797,
       "word": "美国人抢鸡蛋盛况",
       "onboard_time": 1744193422,
       "rank": 39,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1149234,
+      "num": 867221,
+      "word": "白冰冰7年做了16次试管婴儿",
+      "onboard_time": 1744200264,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1120062,
       "num": 1120062,
       "word": "女演员肖妍倪突发疾病成植物人",
@@ -251,16 +259,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1108276,
-      "num": 867221,
-      "word": "白冰冰7年做了16次试管婴儿",
-      "onboard_time": 1744200264,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1053183,
-      "num": 1053183,
+      "raw_hot": 1073403,
+      "num": 1073403,
       "word": "折腰 四月空降",
       "onboard_time": 1744199485,
       "rank": 6,
@@ -363,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 813593,
+      "num": 867310,
+      "word": "这就是中国态度",
+      "onboard_time": 1744200625,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 808714,
       "num": 808714,
       "word": "美国仅占我国出口比重的15%",
@@ -392,6 +400,14 @@
       "word": "淮水竹亭 延期",
       "onboard_time": 1744178782,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 764097,
+      "num": 871840,
+      "word": "终于有剧拍了大学恋爱的经济差",
+      "onboard_time": 1744201285,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -483,6 +499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 603820,
+      "num": 603820,
+      "word": "家长建议小学延时至6点半放学",
+      "onboard_time": 1744200986,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 599595,
       "num": 599595,
       "word": "辞职看世界女教师10年后怎么样了",
@@ -547,28 +571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 528844,
-      "num": 871840,
-      "word": "终于有剧拍了大学恋爱的经济差",
-      "onboard_time": 1744201285,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 510344,
       "num": 510344,
       "word": "美国关税政策伤了谁",
       "onboard_time": 1744154300,
       "rank": 5,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 506009,
-      "num": 867310,
-      "word": "这就是中国态度",
-      "onboard_time": 1744200625,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 505336,
@@ -625,14 +633,6 @@
       "onboard_time": 1744173985,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 472850,
-      "num": 472850,
-      "word": "家长建议小学延时至6点半放学",
-      "onboard_time": 1744200986,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 468349,
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 443783,
-      "num": 381746,
+      "num": 385605,
       "word": "女儿隆鼻结果妈妈肋骨断了三根",
       "onboard_time": 1744200085,
       "rank": 20,
@@ -769,6 +769,14 @@
       "onboard_time": 1744197504,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 396985,
+      "num": 396985,
+      "word": "黄金",
+      "onboard_time": 1744201285,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 385599,
@@ -849,6 +857,14 @@
       "onboard_time": 1744107982,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 351482,
+      "num": 351482,
+      "word": "孕妇拔坟头草煮水喝母子险丧命",
+      "onboard_time": 1744202486,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 336457,
@@ -1203,20 +1219,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 264744,
+      "num": 264744,
+      "word": "苹果手机",
+      "onboard_time": 1744203266,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 263997,
       "num": 258480,
       "word": "温州18岁失联男孩确认身亡",
       "onboard_time": 1744124363,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263779,
-      "num": 263779,
-      "word": "黄金",
-      "onboard_time": 1744201285,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 260586,
@@ -1283,6 +1299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 244585,
+      "num": 386339,
+      "word": "时代少年团演唱会 海口",
+      "onboard_time": 1744202666,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 243145,
       "num": 243145,
       "word": "加拿大开始对美反制",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1744200505,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239305,
+      "num": 385795,
+      "word": "成毅娜扎领衔主演赴山海",
+      "onboard_time": 1744200385,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 239283,
@@ -1595,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205076,
+      "num": 262421,
+      "word": "陈都灵金工实习期旧照",
+      "onboard_time": 1744202846,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204594,
       "num": 504500,
       "word": "A股估值水平在全球具备显著吸引力",
@@ -1609,6 +1649,14 @@
       "onboard_time": 1744176622,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204183,
+      "num": 199801,
+      "word": "中国制裁6家涉台军售美国企业",
+      "onboard_time": 1744199366,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 202930,
@@ -1635,12 +1683,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199955,
+      "num": 199955,
+      "word": "刘诗诗 发光底妆",
+      "onboard_time": 1744202966,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199653,
       "num": 199653,
       "word": "新说唱选手kito力挺严浩翔",
       "onboard_time": 1744194262,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199172,
+      "num": 199172,
+      "word": "吴尊晒与老婆出游照",
+      "onboard_time": 1744202245,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 198976,
@@ -1665,14 +1729,6 @@
       "onboard_time": 1744196784,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198780,
-      "num": 198780,
-      "word": "中国制裁6家涉台军售美国企业",
-      "onboard_time": 1744199366,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 198554,
@@ -1731,6 +1787,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193231,
+      "num": 193231,
+      "word": "李昊请假了",
+      "onboard_time": 1744202606,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192862,
+      "num": 192862,
+      "word": "严浩翔新中式亮片套装",
+      "onboard_time": 1744203686,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192049,
       "num": 192049,
       "word": "白鹿李佩仪今日杀青",
@@ -1761,14 +1833,6 @@
       "onboard_time": 1744202366,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187103,
-      "num": 187103,
-      "word": "孕妇拔坟头草煮水喝母子险丧命",
-      "onboard_time": 1744202486,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185568,
@@ -1849,6 +1913,14 @@
       "onboard_time": 1744173924,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176601,
+      "num": 176601,
+      "word": "马斯克财富降至2980亿美元",
+      "onboard_time": 1744200986,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 176402,
@@ -1955,14 +2027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166914,
-      "num": 199472,
-      "word": "成毅娜扎领衔主演赴山海",
-      "onboard_time": 1744200385,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166816,
       "num": 166816,
       "word": "买金条打结婚首饰5天亏了1500元",
@@ -1977,22 +2041,6 @@
       "onboard_time": 1744167442,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 164894,
-      "num": 164894,
-      "word": "时代少年团演唱会 海口",
-      "onboard_time": 1744202666,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 164148,
-      "num": 164148,
-      "word": "李昊请假了",
-      "onboard_time": 1744202606,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 163928,
@@ -2019,12 +2067,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 162339,
-      "num": 162339,
-      "word": "吴尊晒与老婆出游照",
-      "onboard_time": 1744202245,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 162438,
+      "num": 162438,
+      "word": "17岁救了一个10岁一个8岁",
+      "onboard_time": 1744199724,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162230,
+      "num": 162230,
+      "word": "张予曦金色亮片长裙",
+      "onboard_time": 1744202786,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161994,
@@ -2049,6 +2105,14 @@
       "onboard_time": 1744191144,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160581,
+      "num": 160581,
+      "word": "申敏儿采访提金宇彬",
+      "onboard_time": 1744203446,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 160091,
@@ -2163,12 +2227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153382,
-      "num": 153382,
-      "word": "张予曦金色亮片长裙",
-      "onboard_time": 1744202786,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 153367,
+      "num": 152353,
+      "word": "陈德容 我表情悠哉跳个大概",
+      "onboard_time": 1744203806,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 153246,
@@ -2219,12 +2283,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150207,
-      "num": 150207,
-      "word": "17岁救了一个10岁一个8岁",
-      "onboard_time": 1744199724,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 150662,
+      "num": 150662,
+      "word": "美股期货短线跳水",
+      "onboard_time": 1744203806,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 150171,
@@ -2233,14 +2297,6 @@
       "onboard_time": 1744175903,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150060,
-      "num": 150060,
-      "word": "马斯克财富降至2980亿美元",
-      "onboard_time": 1744200986,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 149942,
@@ -2361,14 +2417,6 @@
       "onboard_time": 1744165462,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 139851,
-      "num": 139851,
-      "word": "陈都灵金工实习期旧照",
-      "onboard_time": 1744202846,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 139739,
@@ -2979,6 +3027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53409,
+      "num": 263377,
+      "word": "汽车哪些隐形安全在守护你",
+      "onboard_time": 1744203147,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52420,
       "num": 52420,
       "word": "央行必要时将再贷款支持中央汇金",
@@ -3353,6 +3409,14 @@
       "onboard_time": 1744195042,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 6983,
+      "num": 263235,
+      "word": "梁伟铿王昶vs李芳至李芳任",
+      "onboard_time": 1744203625,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 6968,

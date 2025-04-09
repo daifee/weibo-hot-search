@@ -1,0 +1,410 @@
+{
+  "runTime": 1744203838076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 16595176,
+        "num": 16595176,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1823797,
+        "num": 1823797,
+        "word": "美国人抢鸡蛋盛况",
+        "onboard_time": 1744193422,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 480597,
+        "num": 1616075,
+        "word": "关于中美经贸关系这是中方立场",
+        "onboard_time": 1744190482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1484951,
+        "num": 1484951,
+        "word": "我们奉陪到底",
+        "onboard_time": 1744199966,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1279251,
+        "num": 1279251,
+        "word": "奥迪暂停对美国经销商交付新车",
+        "onboard_time": 1744189823,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1073403,
+        "num": 1073403,
+        "word": "折腰 四月空降",
+        "onboard_time": 1744199485,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1000020,
+        "num": 1000020,
+        "word": "特朗普关税地图炮砸向美国老百姓",
+        "onboard_time": 1744165402,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 886385,
+        "num": 886385,
+        "word": "对美所有进口商品加征84%关税",
+        "onboard_time": 1744196903,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 813593,
+        "num": 813593,
+        "word": "这就是中国态度",
+        "onboard_time": 1744200625,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 764097,
+        "num": 764097,
+        "word": "终于有剧拍了大学恋爱的经济差",
+        "onboard_time": 1744201285,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1149234,
+        "num": 750519,
+        "word": "白冰冰7年做了16次试管婴儿",
+        "onboard_time": 1744200264,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 727845,
+        "num": 727845,
+        "word": "外交部回应美国对华征收104%关税",
+        "onboard_time": 1744184001,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 633984,
+        "num": 633984,
+        "word": "美股",
+        "onboard_time": 1744199126,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 603820,
+        "num": 603820,
+        "word": "家长建议小学延时至6点半放学",
+        "onboard_time": 1744200986,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591020,
+        "num": 591020,
+        "word": "微信状态也能调情",
+        "onboard_time": 1744192642,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 498807,
+        "num": 498807,
+        "word": "中方坚决反制",
+        "onboard_time": 1744198945,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 396985,
+        "num": 396985,
+        "word": "黄金",
+        "onboard_time": 1744201285,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 311112,
+        "num": 387326,
+        "word": "内娱终于拍出了武侠穿",
+        "onboard_time": 1744196662,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244585,
+        "num": 386339,
+        "word": "时代少年团演唱会 海口",
+        "onboard_time": 1744202666,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239305,
+        "num": 385795,
+        "word": "成毅娜扎领衔主演赴山海",
+        "onboard_time": 1744200385,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385605,
+        "num": 385605,
+        "word": "女儿隆鼻结果妈妈肋骨断了三根",
+        "onboard_time": 1744200085,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368586,
+        "num": 368586,
+        "word": "上海人均4千餐厅甜品是大象粪便",
+        "onboard_time": 1744196243,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351482,
+        "num": 351482,
+        "word": "孕妇拔坟头草煮水喝母子险丧命",
+        "onboard_time": 1744202486,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341462,
+        "num": 341462,
+        "word": "新修订婚姻登记条例自5月10日起施行",
+        "onboard_time": 1744190723,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279334,
+        "num": 279334,
+        "word": "苹果在美国要么涨价要么盈利下降",
+        "onboard_time": 1744199066,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 264744,
+        "num": 264744,
+        "word": "苹果手机",
+        "onboard_time": 1744203266,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 53409,
+        "num": 263377,
+        "word": "汽车哪些隐形安全在守护你",
+        "onboard_time": 1744203147,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 6983,
+        "num": 263235,
+        "word": "梁伟铿王昶vs李芳至李芳任",
+        "onboard_time": 1744203625,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263186,
+        "num": 263186,
+        "word": "12家美国实体列入出口管制管控名单",
+        "onboard_time": 1744197504,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205076,
+        "num": 262421,
+        "word": "陈都灵金工实习期旧照",
+        "onboard_time": 1744202846,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262061,
+        "num": 262061,
+        "word": "金秀贤防治法正式提交韩国会",
+        "onboard_time": 1744195524,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261582,
+        "num": 261582,
+        "word": "美国仅占我国出口比重的15%",
+        "onboard_time": 1744184242,
+        "rank": 31,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 225529,
+        "num": 225529,
+        "word": "加拿大开始对美反制",
+        "onboard_time": 1744188083,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199955,
+        "num": 199955,
+        "word": "刘诗诗 发光底妆",
+        "onboard_time": 1744202966,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204183,
+        "num": 199801,
+        "word": "中国制裁6家涉台军售美国企业",
+        "onboard_time": 1744199366,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199172,
+        "num": 199172,
+        "word": "吴尊晒与老婆出游照",
+        "onboard_time": 1744202245,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193231,
+        "num": 193231,
+        "word": "李昊请假了",
+        "onboard_time": 1744202606,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193223,
+        "num": 193223,
+        "word": "邓家佳又演喜剧片 爷青回",
+        "onboard_time": 1744198527,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192862,
+        "num": 192862,
+        "word": "严浩翔新中式亮片套装",
+        "onboard_time": 1744203686,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189238,
+        "num": 189238,
+        "word": "离境退税",
+        "onboard_time": 1744182263,
+        "rank": 39,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 176601,
+        "num": 176601,
+        "word": "马斯克财富降至2980亿美元",
+        "onboard_time": 1744200986,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173065,
+        "num": 173065,
+        "word": "王者荣耀百里守约雪豹皮肤",
+        "onboard_time": 1744200505,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162438,
+        "num": 162438,
+        "word": "17岁救了一个10岁一个8岁",
+        "onboard_time": 1744199724,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111358,
+        "num": 162240,
+        "word": "6家美国实体列入不可靠实体清单",
+        "onboard_time": 1744198046,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183038,
+        "num": 162240,
+        "word": "严浩翔墨镜反戴",
+        "onboard_time": 1744200564,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162230,
+        "num": 162230,
+        "word": "张予曦金色亮片长裙",
+        "onboard_time": 1744202786,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160581,
+        "num": 160581,
+        "word": "申敏儿采访提金宇彬",
+        "onboard_time": 1744203446,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152728,
+        "num": 152728,
+        "word": "折腰",
+        "onboard_time": 1744191862,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153367,
+        "num": 152353,
+        "word": "陈德容 我表情悠哉跳个大概",
+        "onboard_time": 1744203806,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150662,
+        "num": 150662,
+        "word": "美股期货短线跳水",
+        "onboard_time": 1744203806,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样强调党的作风建设#"
+    }
+  }
+}

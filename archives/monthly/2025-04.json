@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744202949634,
+  "endTime": 1744203838076,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1823797,
+      "num": 1823797,
+      "word": "美国人抢鸡蛋盛况",
+      "onboard_time": 1744193422,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1817527,
       "num": 1246403,
       "word": "新说唱选手质疑严浩翔导师身份",
@@ -633,14 +641,6 @@
       "onboard_time": 1743862343,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1716115,
-      "num": 1716115,
-      "word": "美国人抢鸡蛋盛况",
-      "onboard_time": 1744193422,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1701129,
@@ -1451,6 +1451,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 1149234,
+      "num": 867221,
+      "word": "白冰冰7年做了16次试管婴儿",
+      "onboard_time": 1744200264,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1147297,
       "num": 164315,
       "word": "站姐愚人节团建预告",
@@ -1635,14 +1643,6 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 1108276,
-      "num": 867221,
-      "word": "白冰冰7年做了16次试管婴儿",
-      "onboard_time": 1744200264,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1107507,
       "num": 1135441,
       "word": "再见Switch",
@@ -1691,6 +1691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1073403,
+      "num": 1073403,
+      "word": "折腰 四月空降",
+      "onboard_time": 1744199485,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1072131,
       "num": 843213,
       "word": "金秀贤假惺惺的你已出周边",
@@ -1737,14 +1745,6 @@
       "onboard_time": 1744002623,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1053183,
-      "num": 1053183,
-      "word": "折腰 四月空降",
-      "onboard_time": 1744199485,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 1051556,
@@ -2659,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813593,
+      "num": 867310,
+      "word": "这就是中国态度",
+      "onboard_time": 1744200625,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 812294,
       "num": 1129967,
       "word": "中国人捡到活的第一件事就是投喂",
@@ -2905,6 +2913,14 @@
       "onboard_time": 1744031483,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 764097,
+      "num": 871840,
+      "word": "终于有剧拍了大学恋爱的经济差",
+      "onboard_time": 1744201285,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 758003,
@@ -3723,6 +3739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 603820,
+      "num": 603820,
+      "word": "家长建议小学延时至6点半放学",
+      "onboard_time": 1744200986,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 603395,
       "num": 603395,
       "word": "李晟感谢49位朋友的支持",
@@ -4387,14 +4411,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 528844,
-      "num": 871840,
-      "word": "终于有剧拍了大学恋爱的经济差",
-      "onboard_time": 1744201285,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 528411,
       "num": 528411,
       "word": "iPhone17Pro最强长焦",
@@ -4665,14 +4681,6 @@
       "onboard_time": 1744019725,
       "rank": 7,
       "category": "军事"
-    },
-    {
-      "raw_hot": 506009,
-      "num": 867310,
-      "word": "这就是中国态度",
-      "onboard_time": 1744200625,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 505473,
@@ -5035,14 +5043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 472850,
-      "num": 472850,
-      "word": "家长建议小学延时至6点半放学",
-      "onboard_time": 1744200986,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 472153,
       "num": 472153,
       "word": "何洛洛 生命树",
@@ -5388,7 +5388,7 @@
     },
     {
       "raw_hot": 443783,
-      "num": 381746,
+      "num": 385605,
       "word": "女儿隆鼻结果妈妈肋骨断了三根",
       "onboard_time": 1744200085,
       "rank": 20,
@@ -6945,6 +6945,14 @@
       "onboard_time": 1743821781,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 351482,
+      "num": 351482,
+      "word": "孕妇拔坟头草煮水喝母子险丧命",
+      "onboard_time": 1744202486,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 351428,
@@ -9219,6 +9227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264744,
+      "num": 264744,
+      "word": "苹果手机",
+      "onboard_time": 1744203266,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 264634,
       "num": 264634,
       "word": "李小冉新剧演反派boss",
@@ -9867,6 +9883,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 244585,
+      "num": 386339,
+      "word": "时代少年团演唱会 海口",
+      "onboard_time": 1744202666,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 243874,
       "num": 243874,
       "word": "杭州别墅区涉非法代孕场所被查封",
@@ -9993,6 +10017,14 @@
       "onboard_time": 1743597863,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239305,
+      "num": 385795,
+      "word": "成毅娜扎领衔主演赴山海",
+      "onboard_time": 1744200385,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 239283,
@@ -11987,6 +12019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205076,
+      "num": 262421,
+      "word": "陈都灵金工实习期旧照",
+      "onboard_time": 1744202846,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204813,
       "num": 247512,
       "word": "孙俪新剧全是品质二搭",
@@ -12073,6 +12113,14 @@
       "onboard_time": 1744176622,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204183,
+      "num": 199801,
+      "word": "中国制裁6家涉台军售美国企业",
+      "onboard_time": 1744199366,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 204160,
@@ -12363,6 +12411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199955,
+      "num": 199955,
+      "word": "刘诗诗 发光底妆",
+      "onboard_time": 1744202966,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199909,
       "num": 199909,
       "word": "清明档",
@@ -12409,6 +12465,14 @@
       "onboard_time": 1743757220,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199172,
+      "num": 199172,
+      "word": "吴尊晒与老婆出游照",
+      "onboard_time": 1744202245,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 199081,
@@ -12473,14 +12537,6 @@
       "onboard_time": 1744196784,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198780,
-      "num": 198780,
-      "word": "中国制裁6家涉台军售美国企业",
-      "onboard_time": 1744199366,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 198720,
@@ -13091,6 +13147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193231,
+      "num": 193231,
+      "word": "李昊请假了",
+      "onboard_time": 1744202606,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193206,
       "num": 193206,
       "word": "王俊凯演技",
@@ -13121,6 +13185,14 @@
       "onboard_time": 1743464480,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192862,
+      "num": 192862,
+      "word": "严浩翔新中式亮片套装",
+      "onboard_time": 1744203686,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 192761,
@@ -13697,14 +13769,6 @@
       "onboard_time": 1743511343,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 187103,
-      "num": 187103,
-      "word": "孕妇拔坟头草煮水喝母子险丧命",
-      "onboard_time": 1744202486,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186905,
@@ -14851,6 +14915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176601,
+      "num": 176601,
+      "word": "马斯克财富降至2980亿美元",
+      "onboard_time": 1744200986,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 176402,
       "num": 556860,
       "word": "中方详细罗列美方对等关税损人害己",
@@ -15739,14 +15811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166914,
-      "num": 199472,
-      "word": "成毅娜扎领衔主演赴山海",
-      "onboard_time": 1744200385,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166905,
       "num": 294875,
       "word": "刘宇宁直播",
@@ -15963,14 +16027,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 164894,
-      "num": 164894,
-      "word": "时代少年团演唱会 海口",
-      "onboard_time": 1744202666,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 164834,
       "num": 270580,
       "word": "爸爸当家",
@@ -16017,14 +16073,6 @@
       "onboard_time": 1744083622,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 164148,
-      "num": 164148,
-      "word": "李昊请假了",
-      "onboard_time": 1744202606,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 164105,
@@ -16179,6 +16227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162438,
+      "num": 162438,
+      "word": "17岁救了一个10岁一个8岁",
+      "onboard_time": 1744199724,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162380,
       "num": 162380,
       "word": "科切拉",
@@ -16195,12 +16251,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 162339,
-      "num": 162339,
-      "word": "吴尊晒与老婆出游照",
-      "onboard_time": 1744202245,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 162230,
+      "num": 162230,
+      "word": "张予曦金色亮片长裙",
+      "onboard_time": 1744202786,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162213,
@@ -16369,6 +16425,14 @@
       "onboard_time": 1744114042,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160581,
+      "num": 160581,
+      "word": "申敏儿采访提金宇彬",
+      "onboard_time": 1744203446,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 160542,
@@ -17219,12 +17283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153382,
-      "num": 153382,
-      "word": "张予曦金色亮片长裙",
-      "onboard_time": 1744202786,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 153367,
+      "num": 152353,
+      "word": "陈德容 我表情悠哉跳个大概",
+      "onboard_time": 1744203806,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 153333,
@@ -17499,6 +17563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150662,
+      "num": 150662,
+      "word": "美股期货短线跳水",
+      "onboard_time": 1744203806,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 150557,
       "num": 150557,
       "word": "已灭绝的权游冰原狼原型重生",
@@ -17571,14 +17643,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 150207,
-      "num": 150207,
-      "word": "17岁救了一个10岁一个8岁",
-      "onboard_time": 1744199724,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150171,
       "num": 150171,
       "word": "万古最强宗开机",
@@ -17600,14 +17664,6 @@
       "word": "港股集体爆发",
       "onboard_time": 1744079002,
       "rank": 45,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 150060,
-      "num": 150060,
-      "word": "马斯克财富降至2980亿美元",
-      "onboard_time": 1744200986,
-      "rank": 44,
       "category": "财经"
     },
     {
@@ -18857,14 +18913,6 @@
       "onboard_time": 1743489384,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139851,
-      "num": 139851,
-      "word": "陈都灵金工实习期旧照",
-      "onboard_time": 1744202846,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 139775,
@@ -26235,6 +26283,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 53409,
+      "num": 263377,
+      "word": "汽车哪些隐形安全在守护你",
+      "onboard_time": 1744203147,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53391,
       "num": 53391,
       "word": "唐嫣古代四方步",
@@ -29552,6 +29608,14 @@
       "word": "郑钦文vs萨卡里",
       "onboard_time": 1743553283,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6983,
+      "num": 263235,
+      "word": "梁伟铿王昶vs李芳至李芳任",
+      "onboard_time": 1744203625,
+      "rank": 27,
       "category": "体育"
     },
     {
