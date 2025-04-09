@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744216297899,
+  "endTime": 1744217321155,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -145,6 +145,14 @@
       "onboard_time": 1744084765,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2398569,
+      "num": 2398569,
+      "word": "美国被加关税后特朗普呼吁冷静",
+      "onboard_time": 1744214184,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2373379,
@@ -353,14 +361,6 @@
       "onboard_time": 1744165883,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1534690,
-      "num": 1534690,
-      "word": "美国被加关税后特朗普呼吁冷静",
-      "onboard_time": 1744214184,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1529119,
@@ -3443,6 +3443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351933,
+      "num": 351933,
+      "word": "赵露思永远没有告别",
+      "onboard_time": 1744215502,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351542,
       "num": 351542,
       "word": "加拿大开始对美反制",
@@ -5977,14 +5985,6 @@
       "onboard_time": 1743926781,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 209442,
-      "num": 209442,
-      "word": "赵露思永远没有告别",
-      "onboard_time": 1744215502,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 209440,
@@ -12115,6 +12115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 67714,
+      "num": 80696,
+      "word": "PUBG",
+      "onboard_time": 1744217058,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 67600,
       "num": 67600,
       "word": "二哈和他的白猫师尊有声剧",
@@ -12188,7 +12196,7 @@
     },
     {
       "raw_hot": 65197,
-      "num": 191302,
+      "num": 259971,
       "word": "金丝猴宝宝也爱撒娇贴贴",
       "onboard_time": 1744216042,
       "rank": 29,

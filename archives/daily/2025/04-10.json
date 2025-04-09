@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744216297899,
+  "endTime": 1744217321155,
   "band_list": [
     {
       "raw_hot": 6521543,
@@ -11,8 +11,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1534690,
-      "num": 1534690,
+      "raw_hot": 2398569,
+      "num": 2398569,
       "word": "美国被加关税后特朗普呼吁冷静",
       "onboard_time": 1744214184,
       "rank": 1,
@@ -123,6 +123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 351933,
+      "num": 351933,
+      "word": "赵露思永远没有告别",
+      "onboard_time": 1744215502,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345943,
       "num": 345943,
       "word": "美国人抢鸡蛋盛况",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 271654,
-      "num": 1154088,
+      "num": 1221101,
       "word": "外媒称美国的痛苦是自作自受",
       "onboard_time": 1744205668,
       "rank": 2,
@@ -203,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209442,
-      "num": 209442,
-      "word": "赵露思永远没有告别",
-      "onboard_time": 1744215502,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189622,
       "num": 189622,
       "word": "微信状态也能调情",
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 156432,
-      "num": 209361,
+      "num": 219579,
       "word": "陈都灵金工实习期旧照",
       "onboard_time": 1744202846,
       "rank": 26,
@@ -395,12 +395,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67714,
+      "num": 80696,
+      "word": "PUBG",
+      "onboard_time": 1744217058,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 65197,
-      "num": 191302,
+      "num": 259971,
       "word": "金丝猴宝宝也爱撒娇贴贴",
       "onboard_time": 1744216042,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24886,
+      "num": 138371,
+      "word": "白皮书",
+      "onboard_time": 1744183223,
+      "rank": 33,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

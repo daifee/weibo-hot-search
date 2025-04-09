@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744216297899,
+  "endTime": 1744217321155,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -281,6 +281,14 @@
       "onboard_time": 1743733702,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2398569,
+      "num": 2398569,
+      "word": "美国被加关税后特朗普呼吁冷静",
+      "onboard_time": 1744214184,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2373379,
@@ -793,14 +801,6 @@
       "onboard_time": 1743758723,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1534690,
-      "num": 1534690,
-      "word": "美国被加关税后特朗普呼吁冷静",
-      "onboard_time": 1744214184,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1529119,
@@ -7099,6 +7099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351933,
+      "num": 351933,
+      "word": "赵露思永远没有告别",
+      "onboard_time": 1744215502,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351857,
       "num": 297166,
       "word": "国内金饰价格跟跌",
@@ -11793,14 +11801,6 @@
       "onboard_time": 1743926781,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 209442,
-      "num": 209442,
-      "word": "赵露思永远没有告别",
-      "onboard_time": 1744215502,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 209440,
@@ -25707,6 +25707,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 67714,
+      "num": 80696,
+      "word": "PUBG",
+      "onboard_time": 1744217058,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 67687,
       "num": 402537,
       "word": "马雪阳谭咏雯生女",
@@ -25836,7 +25844,7 @@
     },
     {
       "raw_hot": 65197,
-      "num": 191302,
+      "num": 259971,
       "word": "金丝猴宝宝也爱撒娇贴贴",
       "onboard_time": 1744216042,
       "rank": 29,
