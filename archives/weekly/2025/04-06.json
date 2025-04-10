@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744254305583,
+  "endTime": 1744254904249,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -251,6 +251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1960893,
+      "num": 1960893,
+      "word": "医托骗1.68米女子正常腿断骨成X腿",
+      "onboard_time": 1744249942,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1933930,
       "num": 1933930,
       "word": "离境退税",
@@ -297,14 +305,6 @@
       "onboard_time": 1744193422,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1817968,
-      "num": 1817968,
-      "word": "医托骗1.68米女子正常腿断骨成X腿",
-      "onboard_time": 1744249942,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1817527,
@@ -1339,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 827538,
+      "num": 827538,
+      "word": "苹果紧急往美国运iPhone",
+      "onboard_time": 1744252162,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 823772,
       "num": 424441,
       "word": "西湖猝鱼",
@@ -1641,6 +1649,14 @@
       "onboard_time": 1743927860,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 720758,
+      "num": 720758,
+      "word": "严浩翔说有diss是很正常的事",
+      "onboard_time": 1744253482,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 720139,
@@ -2107,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581992,
+      "num": 581992,
+      "word": "我国自主研发箱子让宠物能上高铁",
+      "onboard_time": 1744250663,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 581231,
       "num": 581231,
       "word": "全国唯一的古旱莲开花",
@@ -2363,14 +2387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 513073,
-      "num": 513073,
-      "word": "我国自主研发箱子让宠物能上高铁",
-      "onboard_time": 1744250663,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 511870,
       "num": 636669,
       "word": "男孩持续高热因骨盆里藏进一块布",
@@ -2401,14 +2417,6 @@
       "onboard_time": 1744019725,
       "rank": 7,
       "category": "军事"
-    },
-    {
-      "raw_hot": 505550,
-      "num": 505550,
-      "word": "严浩翔说有diss是很正常的事",
-      "onboard_time": 1744253482,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 505422,
@@ -2489,14 +2497,6 @@
       "onboard_time": 1744246105,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 494956,
-      "num": 494956,
-      "word": "苹果紧急往美国运iPhone",
-      "onboard_time": 1744252162,
-      "rank": 7,
-      "category": "数码"
     },
     {
       "raw_hot": 494130,
@@ -2585,6 +2585,14 @@
       "onboard_time": 1744114462,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 476607,
+      "num": 476607,
+      "word": "金价创5年来最大涨幅",
+      "onboard_time": 1744253362,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 476482,
@@ -2785,6 +2793,14 @@
       "onboard_time": 1744102762,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 446739,
+      "num": 477999,
+      "word": "中国发现高纯石英矿",
+      "onboard_time": 1744252942,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 445719,
@@ -3081,6 +3097,14 @@
       "onboard_time": 1744171824,
       "rank": 14,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 404938,
+      "num": 404938,
+      "word": "五哈5定档",
+      "onboard_time": 1744252342,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 403393,
@@ -3411,14 +3435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 371171,
-      "num": 371171,
-      "word": "五哈5定档",
-      "onboard_time": 1744252342,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 370831,
       "num": 370831,
       "word": "专家建议利用美股暴跌把股市搞起来",
@@ -3497,14 +3513,6 @@
       "onboard_time": 1744068380,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 364496,
-      "num": 477999,
-      "word": "中国发现高纯石英矿",
-      "onboard_time": 1744252942,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 364314,
@@ -4819,6 +4827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266603,
+      "num": 266603,
+      "word": "恋与深空",
+      "onboard_time": 1743917421,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 266381,
       "num": 266381,
       "word": "刘宇宁为粉丝的钱操碎了心",
@@ -5099,6 +5115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254212,
+      "num": 274975,
+      "word": "科学家颜宁转发朱一龙自拍",
+      "onboard_time": 1744254024,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254195,
       "num": 254195,
       "word": "刘宇宁说做艺人挨骂是收入的一部分",
@@ -5283,14 +5307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243772,
-      "num": 405596,
-      "word": "金价创5年来最大涨幅",
-      "onboard_time": 1744253362,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 243533,
       "num": 243533,
       "word": "蔡徐坤赔偿款将通过公益项目捐出",
@@ -5433,14 +5449,6 @@
       "onboard_time": 1744096643,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 237030,
-      "num": 237030,
-      "word": "恋与深空",
-      "onboard_time": 1743917421,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 236731,
@@ -6771,6 +6779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197585,
+      "num": 197585,
+      "word": "东契奇擦干眼泪就是干",
+      "onboard_time": 1744254682,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197492,
       "num": 670952,
       "word": "金素妍44岁状态",
@@ -7009,6 +7025,14 @@
       "onboard_time": 1743999204,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 193291,
+      "num": 193291,
+      "word": "女子挖鼻孔后高烧40度肿到难睁眼",
+      "onboard_time": 1744254203,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193261,
@@ -7305,6 +7329,14 @@
       "onboard_time": 1743921021,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187680,
+      "num": 267107,
+      "word": "A股港股全线爆发",
+      "onboard_time": 1744253963,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 187428,
@@ -8851,6 +8883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157738,
+      "num": 157738,
+      "word": "吃饭跑步和恋爱 姐狗文学",
+      "onboard_time": 1744254143,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157644,
       "num": 157644,
       "word": "好多选手想加入严浩翔队",
@@ -9120,6 +9160,14 @@
       "word": "坏了 我没看过柯南",
       "onboard_time": 1744021343,
       "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 153668,
+      "num": 153668,
+      "word": "脸基尼之下可以是任何人",
+      "onboard_time": 1744254743,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -9459,14 +9507,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 147767,
-      "num": 265664,
-      "word": "科学家颜宁转发朱一龙自拍",
-      "onboard_time": 1744254024,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147569,
       "num": 602540,
       "word": "欧洲已准备好与美国就关税问题谈判",
@@ -9705,14 +9745,6 @@
       "onboard_time": 1744123162,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143091,
-      "num": 266839,
-      "word": "A股港股全线爆发",
-      "onboard_time": 1744253963,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 142344,
@@ -10275,12 +10307,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132921,
+      "num": 132921,
+      "word": "梅婷杨晓培姊妹封面",
+      "onboard_time": 1744254863,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 132631,
       "num": 132631,
       "word": "一瓯春定妆路透",
       "onboard_time": 1743913161,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132128,
+      "num": 132128,
+      "word": "梅西梅开二度",
+      "onboard_time": 1744253181,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 132095,
@@ -10353,22 +10401,6 @@
       "onboard_time": 1744105883,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 130949,
-      "num": 130949,
-      "word": "吃饭跑步和恋爱 姐狗文学",
-      "onboard_time": 1744254143,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 130928,
-      "num": 130928,
-      "word": "女子挖鼻孔后高烧40度肿到难睁眼",
-      "onboard_time": 1744254203,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130861,
@@ -10593,14 +10625,6 @@
       "onboard_time": 1744103000,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 126962,
-      "num": 130933,
-      "word": "梅西梅开二度",
-      "onboard_time": 1744253181,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 126814,
@@ -11273,6 +11297,14 @@
       "onboard_time": 1744171463,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 111342,
+      "num": 153679,
+      "word": "再多喊一秒庄达菲就绷不住了",
+      "onboard_time": 1744254863,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 111261,
@@ -14083,6 +14115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21512,
+      "num": 161155,
+      "word": "小品不差钱之米国差蛋",
+      "onboard_time": 1744254263,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21149,
       "num": 21149,
       "word": "商务部回应将12家美国实体列入出口管制管控名单",
@@ -14585,14 +14625,6 @@
       "onboard_time": 1743924920,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 7840,
-      "num": 149376,
-      "word": "小品不差钱之米国差蛋",
-      "onboard_time": 1744254263,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 6968,
