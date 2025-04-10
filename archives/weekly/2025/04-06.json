@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744313799998,
+  "endTime": 1744316808271,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -5740,7 +5740,7 @@
     },
     {
       "raw_hot": 260863,
-      "num": 57494,
+      "num": 61804,
       "word": "父亲离世前对AI说我要去世了豆包",
       "onboard_time": 1744307116,
       "rank": 10,
@@ -15235,6 +15235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60350,
+      "num": 39893,
+      "word": "古天乐右眼视网膜穿了两个洞",
+      "onboard_time": 1744314074,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60189,
       "num": 213624,
       "word": "Faker达成LCK1000场成就",
@@ -15571,6 +15579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 46143,
+      "num": 46143,
+      "word": "多米尼加俱乐部坍塌已致218死",
+      "onboard_time": 1744305976,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 46069,
       "num": 46069,
       "word": "王嘉尔版superidol",
@@ -15689,6 +15705,14 @@
       "onboard_time": 1744209026,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43615,
+      "num": 21335,
+      "word": "特斯拉市值一夜蒸发超6000亿",
+      "onboard_time": 1744314074,
+      "rank": 30,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 43439,
@@ -15833,14 +15857,6 @@
       "onboard_time": 1744103721,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40602,
-      "num": 40602,
-      "word": "多米尼加俱乐部坍塌已致218死",
-      "onboard_time": 1744305976,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 40564,

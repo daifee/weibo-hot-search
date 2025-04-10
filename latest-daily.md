@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/11 00:31:37 ~ 2025/04/11 03:36:39
+本榜单时间：2025/04/11 00:31:37 ~ 2025/04/11 04:26:48
 </p>
 </blockquote>
 <p>
@@ -333,6 +333,12 @@ Celine酒会上的刘诗诗（热度：127032）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%A4%A9%E4%B9%90%E5%8F%B3%E7%9C%BC%E8%A7%86%E7%BD%91%E8%86%9C%E7%A9%BF%E4%BA%86%E4%B8%A4%E4%B8%AA%E6%B4%9E%23" target="weibo">
+古天乐右眼视网膜穿了两个洞（热度：60350）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E6%8B%89%E8%BE%BE%E8%B6%85100%E4%BA%BF%E6%94%B6%E8%B4%AD%E8%8C%83%E6%80%9D%E5%93%B2%23" target="weibo">
 普拉达超100亿收购范思哲（热度：54257）
 </a>
@@ -346,7 +352,13 @@ Celine酒会上的刘诗诗（热度：127032）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E7%B1%B3%E5%B0%BC%E5%8A%A0%E4%BF%B1%E4%B9%90%E9%83%A8%E5%9D%8D%E5%A1%8C%E5%B7%B2%E8%87%B4218%E6%AD%BB%23" target="weibo">
-多米尼加俱乐部坍塌已致218死（热度：40602）
+多米尼加俱乐部坍塌已致218死（热度：46143）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%856000%E4%BA%BF%23" target="weibo">
+特斯拉市值一夜蒸发超6000亿（热度：43615）
 </a>
 </li>
 
