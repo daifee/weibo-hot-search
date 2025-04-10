@@ -1,6 +1,6 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744321036507,
+  "endTime": 1744323888184,
   "band_list": [
     {
       "raw_hot": 1275101,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 260863,
-      "num": 89271,
+      "num": 236345,
       "word": "父亲离世前对AI说我要去世了豆包",
       "onboard_time": 1744307116,
       "rank": 10,
@@ -243,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132572,
+      "num": 136149,
+      "word": "外交部回应为何提醒公民谨慎赴美",
+      "onboard_time": 1744304717,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131236,
       "num": 131236,
       "word": "多家国内航司将座椅更换成轻薄型",
@@ -275,12 +283,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118689,
-      "num": 136149,
-      "word": "外交部回应为何提醒公民谨慎赴美",
-      "onboard_time": 1744304717,
-      "rank": 14,
-      "category": "国内时政"
+      "raw_hot": 118750,
+      "num": 106994,
+      "word": "男子婚后发现妻子4年结过3次婚",
+      "onboard_time": 1744292122,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114607,
+      "num": 62412,
+      "word": "特斯拉市值一夜蒸发超6000亿",
+      "onboard_time": 1744314074,
+      "rank": 30,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 113481,
@@ -315,20 +331,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 106994,
-      "num": 106994,
-      "word": "男子婚后发现妻子4年结过3次婚",
-      "onboard_time": 1744292122,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106846,
       "num": 106846,
       "word": "安踏拟2.9亿美元收购狼爪",
       "onboard_time": 1744285943,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105461,
+      "num": 105461,
+      "word": "古天乐右眼视网膜穿了两个洞",
+      "onboard_time": 1744314074,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96064,
+      "num": 96064,
+      "word": "重大气象灾害三级应急响应",
+      "onboard_time": 1744316594,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94584,
@@ -411,6 +435,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 70381,
+      "num": 70381,
+      "word": "多米尼加俱乐部坍塌已致218死",
+      "onboard_time": 1744305976,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 65453,
       "num": 65453,
       "word": "外交部回应美对华船只征收港口停靠费",
@@ -427,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60350,
-      "num": 47255,
-      "word": "古天乐右眼视网膜穿了两个洞",
-      "onboard_time": 1744314074,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 54257,
       "num": 47217,
       "word": "普拉达超100亿收购范思哲",
@@ -443,35 +467,11 @@
       "category": "财经,时尚"
     },
     {
-      "raw_hot": 50825,
-      "num": 50825,
-      "word": "多米尼加俱乐部坍塌已致218死",
-      "onboard_time": 1744305976,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 49722,
       "num": 72072,
       "word": "男子轻信陌生人办带编工作被骗167万",
       "onboard_time": 1744303458,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49417,
-      "num": 22893,
-      "word": "特斯拉市值一夜蒸发超6000亿",
-      "onboard_time": 1744314074,
-      "rank": 30,
-      "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 38951,
-      "num": 38951,
-      "word": "重大气象灾害三级应急响应",
-      "onboard_time": 1744316594,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -499,6 +499,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32017,
+      "num": 32017,
+      "word": "孙千Celine生图",
+      "onboard_time": 1744319954,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 28787,
+      "num": 28787,
+      "word": "今年的牡丹花王长这样",
+      "onboard_time": 1744319113,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23540,
       "num": 82829,
       "word": "上合组织成员国坚定维护多边贸易体制",
@@ -521,14 +537,6 @@
       "onboard_time": 1744304837,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15134,
-      "num": 16035,
-      "word": "孙千Celine生图",
-      "onboard_time": 1744319954,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 14716,
