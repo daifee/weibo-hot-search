@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744284988555,
+  "endTime": 1744289359241,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 2846796,
-      "num": 477237,
+      "num": 605739,
       "word": "特朗普家族几天获利300亿美元",
       "onboard_time": 1744275443,
       "rank": 10,
@@ -425,6 +425,14 @@
       "onboard_time": 1743674721,
       "rank": 1,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 2121903,
+      "num": 634611,
+      "word": "欧盟对美反制措施暂停90天",
+      "onboard_time": 1744285282,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2109868,
@@ -665,6 +673,14 @@
       "onboard_time": 1744104561,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1814507,
+      "num": 1814507,
+      "word": "周六 不出门",
+      "onboard_time": 1744287502,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1811433,
@@ -2764,7 +2780,7 @@
     },
     {
       "raw_hot": 844612,
-      "num": 459959,
+      "num": 469132,
       "word": "iPhone16回收价已涨300元",
       "onboard_time": 1744282702,
       "rank": 13,
@@ -2801,6 +2817,14 @@
       "onboard_time": 1743653723,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 839170,
+      "num": 600469,
+      "word": "蜜雪冰城已改回红色附近商户发声",
+      "onboard_time": 1744283362,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 838044,
@@ -3755,6 +3779,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 660334,
+      "num": 660334,
+      "word": "知情人谈华人钢铁大王在菲被绑撕票",
+      "onboard_time": 1744283602,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 659052,
       "num": 536804,
       "word": "钟丽丽曾因恋情试戏被刷",
@@ -4235,6 +4267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 592468,
+      "num": 592468,
+      "word": "安踏拟2.9亿美元收购狼爪",
+      "onboard_time": 1744285943,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 592082,
       "num": 566690,
       "word": "房琪鼓励张含韵的那句话",
@@ -4713,6 +4753,14 @@
       "onboard_time": 1743825921,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 540788,
+      "num": 540788,
+      "word": "36岁梁洛施状态",
+      "onboard_time": 1744285342,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 540731,
@@ -5796,7 +5844,7 @@
     },
     {
       "raw_hot": 459017,
-      "num": 287231,
+      "num": 457789,
       "word": "男子2400万买房儿媳离婚分走1500万",
       "onboard_time": 1744284682,
       "rank": 20,
@@ -8403,6 +8451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319093,
+      "num": 630142,
+      "word": "邓超还是低估了网友的抽象",
+      "onboard_time": 1744285583,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319039,
       "num": 319039,
       "word": "滴滴崩了",
@@ -9843,6 +9899,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 272397,
+      "num": 625137,
+      "word": "林俊杰直播",
+      "onboard_time": 1744287443,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 271960,
       "num": 271960,
       "word": "公摊面积最大的蔬菜",
@@ -10241,14 +10305,6 @@
       "onboard_time": 1744275384,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261822,
-      "num": 261822,
-      "word": "知情人谈华人钢铁大王在菲被绑撕票",
-      "onboard_time": 1744283602,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261215,
@@ -10731,6 +10787,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 247582,
+      "num": 500952,
+      "word": "FindX8Ultra夜景人像神器",
+      "onboard_time": 1744285222,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 247575,
       "num": 505330,
       "word": "中央汇金发挥着类平准基金作用",
@@ -10985,6 +11049,14 @@
       "onboard_time": 1744249580,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240013,
+      "num": 614666,
+      "word": "中国电影市场坚持高水平对外开放",
+      "onboard_time": 1744288703,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 239858,
@@ -11931,6 +12003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 221543,
+      "num": 518345,
+      "word": "严浩翔新综艺录制2天4套造型",
+      "onboard_time": 1744288824,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221466,
       "num": 551453,
       "word": "孟美岐solo舞台抢位赛",
@@ -12185,14 +12265,6 @@
       "onboard_time": 1744123823,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 218003,
-      "num": 218003,
-      "word": "蜜雪冰城已改回红色附近商户发声",
-      "onboard_time": 1744283362,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217420,
@@ -13073,6 +13145,14 @@
       "onboard_time": 1743640043,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 206322,
+      "num": 206322,
+      "word": "腾讯视频Q2预排",
+      "onboard_time": 1744289302,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 206265,
@@ -15339,6 +15419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 185811,
+      "num": 185811,
+      "word": "张继科称带的学生多个考上名校",
+      "onboard_time": 1744286002,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185768,
       "num": 185768,
       "word": "陈德容越鼓励越支棱",
@@ -16404,7 +16492,7 @@
     },
     {
       "raw_hot": 176884,
-      "num": 292337,
+      "num": 511435,
       "word": "成何体统",
       "onboard_time": 1744283542,
       "rank": 27,
@@ -17153,6 +17241,14 @@
       "onboard_time": 1743983600,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169568,
+      "num": 489783,
+      "word": "极氪再次打破吉尼斯纪录",
+      "onboard_time": 1744287683,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 169549,
@@ -19795,6 +19891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 148291,
+      "num": 343404,
+      "word": "卤鹅哥新身份",
+      "onboard_time": 1744284142,
+      "rank": 28,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 148220,
       "num": 148220,
       "word": "华晨宇咬手套going我",
@@ -20497,6 +20601,14 @@
       "onboard_time": 1743557060,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142780,
+      "num": 238407,
+      "word": "FindX8Ultra斩男又斩女",
+      "onboard_time": 1744287321,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 142709,
@@ -21851,6 +21963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133048,
+      "num": 233886,
+      "word": "浪姐直播",
+      "onboard_time": 1744288703,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133015,
       "num": 169351,
       "word": "全炫茂BoA醉酒直播",
@@ -22089,6 +22209,14 @@
       "onboard_time": 1743575842,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 131099,
+      "num": 131099,
+      "word": "eStar战胜TES",
+      "onboard_time": 1744288824,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 130919,
@@ -22747,6 +22875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126079,
+      "num": 126079,
+      "word": "此次大风或突破74年来同期极值",
+      "onboard_time": 1744287443,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125980,
       "num": 264978,
       "word": "李泽锋说这次在剧里绝对不出轨",
@@ -22945,6 +23081,14 @@
       "onboard_time": 1744280241,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124611,
+      "num": 250389,
+      "word": "全球最窄四等边FindX8s",
+      "onboard_time": 1744287321,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 124565,
@@ -23859,14 +24003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117029,
-      "num": 216447,
-      "word": "卤鹅哥新身份",
-      "onboard_time": 1744284142,
-      "rank": 28,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 116996,
       "num": 166023,
       "word": "武艺跟papi分享给贴膜师傅开房的经历",
@@ -24129,6 +24265,14 @@
       "onboard_time": 1743530656,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114988,
+      "num": 114988,
+      "word": "读研真的要留一点心眼",
+      "onboard_time": 1744285161,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 114971,
@@ -25579,6 +25723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99219,
+      "num": 226909,
+      "word": "陈都灵这次不庄了",
+      "onboard_time": 1744286063,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99213,
       "num": 225190,
       "word": "苹果手机成白宫泄密门主要原因",
@@ -26449,6 +26601,14 @@
       "onboard_time": 1743955160,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 87407,
+      "num": 537201,
+      "word": "武汉两家医院被曝贩卖出生医学证明",
+      "onboard_time": 1744287802,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 87358,
@@ -28491,6 +28651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58711,
+      "num": 117753,
+      "word": "骗子用新骗来的钱填之前的坑",
+      "onboard_time": 1744288643,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58627,
       "num": 134326,
       "word": "封神2将从影院下映",
@@ -28993,6 +29161,14 @@
       "onboard_time": 1743705855,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50276,
+      "num": 476264,
+      "word": "医院回应原主任涉案后疑仍介绍代孕",
+      "onboard_time": 1744287864,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 49890,
@@ -31379,6 +31555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 19993,
+      "num": 150729,
+      "word": "60岁男子杀害女友谎称当天没见过",
+      "onboard_time": 1744289302,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19934,
       "num": 222696,
       "word": "AI数字复活服务价格几元到几十元不等",
@@ -32073,6 +32257,14 @@
       "onboard_time": 1743658583,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12827,
+      "num": 134252,
+      "word": "英国罕见的万里无云",
+      "onboard_time": 1744288883,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 12681,

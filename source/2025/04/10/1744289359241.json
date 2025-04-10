@@ -1,0 +1,410 @@
+{
+  "runTime": 1744289359241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1814507,
+        "num": 1814507,
+        "word": "周六 不出门",
+        "onboard_time": 1744287502,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1473300,
+        "num": 1473300,
+        "word": "结婚离婚登记不再需要户口簿了",
+        "onboard_time": 1744280122,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57039,
+        "num": 864765,
+        "word": "发展不是少数国家的专利",
+        "onboard_time": 1744275200,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 660334,
+        "num": 660334,
+        "word": "知情人谈华人钢铁大王在菲被绑撕票",
+        "onboard_time": 1744283602,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 635267,
+        "num": 635267,
+        "word": "适度减少美国影片进口数",
+        "onboard_time": 1744281083,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2121903,
+        "num": 634611,
+        "word": "欧盟对美反制措施暂停90天",
+        "onboard_time": 1744285282,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 633576,
+        "num": 633576,
+        "word": "外交部回应美对华征收125%关税",
+        "onboard_time": 1744271362,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 319093,
+        "num": 630142,
+        "word": "邓超还是低估了网友的抽象",
+        "onboard_time": 1744285583,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272397,
+        "num": 625137,
+        "word": "林俊杰直播",
+        "onboard_time": 1744287443,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240013,
+        "num": 614666,
+        "word": "中国电影市场坚持高水平对外开放",
+        "onboard_time": 1744288703,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1051217,
+        "num": 605739,
+        "word": "特朗普家族几天获利300亿美元",
+        "onboard_time": 1744275443,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 839170,
+        "num": 600469,
+        "word": "蜜雪冰城已改回红色附近商户发声",
+        "onboard_time": 1744283362,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592468,
+        "num": 592468,
+        "word": "安踏拟2.9亿美元收购狼爪",
+        "onboard_time": 1744285943,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 540788,
+        "num": 540788,
+        "word": "36岁梁洛施状态",
+        "onboard_time": 1744285342,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87407,
+        "num": 537201,
+        "word": "武汉两家医院被曝贩卖出生医学证明",
+        "onboard_time": 1744287802,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 221543,
+        "num": 518345,
+        "word": "严浩翔新综艺录制2天4套造型",
+        "onboard_time": 1744288824,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163851,
+        "num": 511435,
+        "word": "成何体统",
+        "onboard_time": 1744283542,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247582,
+        "num": 500952,
+        "word": "FindX8Ultra夜景人像神器",
+        "onboard_time": 1744285222,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169568,
+        "num": 489783,
+        "word": "极氪再次打破吉尼斯纪录",
+        "onboard_time": 1744287683,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 50276,
+        "num": 476264,
+        "word": "医院回应原主任涉案后疑仍介绍代孕",
+        "onboard_time": 1744287864,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 469132,
+        "num": 469132,
+        "word": "iPhone16回收价已涨300元",
+        "onboard_time": 1744282702,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 457789,
+        "num": 457789,
+        "word": "男子2400万买房儿媳离婚分走1500万",
+        "onboard_time": 1744284682,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345363,
+        "num": 345363,
+        "word": "对美加征84%关税开始执行",
+        "onboard_time": 1744258463,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148291,
+        "num": 343404,
+        "word": "卤鹅哥新身份",
+        "onboard_time": 1744284142,
+        "rank": 23,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 343368,
+        "num": 343368,
+        "word": "黄晓明晒增肥减肥对比照",
+        "onboard_time": 1744277541,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252155,
+        "num": 252155,
+        "word": "一朵牡丹带火一座城",
+        "onboard_time": 1744280241,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 124611,
+        "num": 250389,
+        "word": "全球最窄四等边FindX8s",
+        "onboard_time": 1744287321,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142780,
+        "num": 238407,
+        "word": "FindX8Ultra斩男又斩女",
+        "onboard_time": 1744287321,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133048,
+        "num": 233886,
+        "word": "浪姐直播",
+        "onboard_time": 1744288703,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99219,
+        "num": 226909,
+        "word": "陈都灵这次不庄了",
+        "onboard_time": 1744286063,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220845,
+        "num": 220845,
+        "word": "北京将出现陆地罕见极端大风",
+        "onboard_time": 1744265124,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209716,
+        "num": 209716,
+        "word": "苹果紧急往美国运iPhone",
+        "onboard_time": 1744252162,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 206478,
+        "num": 206478,
+        "word": "绿色蜜雪冰城门店已改回红色",
+        "onboard_time": 1744265724,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206322,
+        "num": 206322,
+        "word": "腾讯视频Q2预排",
+        "onboard_time": 1744289302,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185811,
+        "num": 185811,
+        "word": "张继科称带的学生多个考上名校",
+        "onboard_time": 1744286002,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162469,
+        "num": 162469,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19993,
+        "num": 150729,
+        "word": "60岁男子杀害女友谎称当天没见过",
+        "onboard_time": 1744289302,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147817,
+        "num": 147817,
+        "word": "夫妻二人削骨隆鼻潜逃十年后被抓",
+        "onboard_time": 1744273943,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 135950,
+        "num": 135950,
+        "word": "13级大风是什么概念",
+        "onboard_time": 1744264823,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12827,
+        "num": 134252,
+        "word": "英国罕见的万里无云",
+        "onboard_time": 1744288883,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132862,
+        "num": 132862,
+        "word": "中方有坚定意志和丰富手段",
+        "onboard_time": 1744280122,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132197,
+        "num": 132197,
+        "word": "美第一批制裁的行业七年后怎么样了",
+        "onboard_time": 1744277901,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131099,
+        "num": 131099,
+        "word": "eStar战胜TES",
+        "onboard_time": 1744288824,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130214,
+        "num": 130214,
+        "word": "考公35次上岸",
+        "onboard_time": 1744273762,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197457,
+        "num": 129010,
+        "word": "女推团综",
+        "onboard_time": 1744281502,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126079,
+        "num": 126079,
+        "word": "此次大风或突破74年来同期极值",
+        "onboard_time": 1744287443,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123363,
+        "num": 123363,
+        "word": "商务部回应是否就关税与美展开谈判",
+        "onboard_time": 1744276402,
+        "rank": 46,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 58711,
+        "num": 117753,
+        "word": "骗子用新骗来的钱填之前的坑",
+        "onboard_time": 1744288643,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117040,
+        "num": 117040,
+        "word": "商务部回应是否会对美加征更高关税",
+        "onboard_time": 1744272262,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114988,
+        "num": 114988,
+        "word": "读研真的要留一点心眼",
+        "onboard_time": 1744285161,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向拉美和加勒比国家共同体第九届峰会致贺信#"
+    }
+  }
+}

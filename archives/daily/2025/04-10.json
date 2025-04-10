@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744284988555,
+  "endTime": 1744289359241,
   "band_list": [
     {
       "raw_hot": 8884094,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2846796,
-      "num": 477237,
+      "num": 605739,
       "word": "特朗普家族几天获利300亿美元",
       "onboard_time": 1744275443,
       "rank": 10,
@@ -56,6 +56,14 @@
       "word": "特朗普暂停征收关税90天",
       "onboard_time": 1744241482,
       "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 2121903,
+      "num": 634611,
+      "word": "欧盟对美反制措施暂停90天",
+      "onboard_time": 1744285282,
+      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -96,6 +104,14 @@
       "word": "绿色蜜雪冰城门店已改回红色",
       "onboard_time": 1744265724,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1814507,
+      "num": 1814507,
+      "word": "周六 不出门",
+      "onboard_time": 1744287502,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -244,11 +260,19 @@
     },
     {
       "raw_hot": 844612,
-      "num": 459959,
+      "num": 469132,
       "word": "iPhone16回收价已涨300元",
       "onboard_time": 1744282702,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 839170,
+      "num": 600469,
+      "word": "蜜雪冰城已改回红色附近商户发声",
+      "onboard_time": 1744283362,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 825872,
@@ -339,12 +363,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 660334,
+      "num": 660334,
+      "word": "知情人谈华人钢铁大王在菲被绑撕票",
+      "onboard_time": 1744283602,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 630374,
       "num": 630374,
       "word": "李在明宣布参选韩国总统",
       "onboard_time": 1744249043,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 592468,
+      "num": 592468,
+      "word": "安踏拟2.9亿美元收购狼爪",
+      "onboard_time": 1744285943,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 586477,
@@ -393,6 +433,14 @@
       "onboard_time": 1744246646,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 540788,
+      "num": 540788,
+      "word": "36岁梁洛施状态",
+      "onboard_time": 1744285342,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 539838,
@@ -556,7 +604,7 @@
     },
     {
       "raw_hot": 459017,
-      "num": 287231,
+      "num": 457789,
       "word": "男子2400万买房儿媳离婚分走1500万",
       "onboard_time": 1744284682,
       "rank": 20,
@@ -763,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319093,
+      "num": 630142,
+      "word": "邓超还是低估了网友的抽象",
+      "onboard_time": 1744285583,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318342,
       "num": 318342,
       "word": "孙俪回归上海丽人赛道",
@@ -915,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272397,
+      "num": 625137,
+      "word": "林俊杰直播",
+      "onboard_time": 1744287443,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 271654,
       "num": 1221101,
       "word": "外媒称美国的痛苦是自作自受",
@@ -971,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261822,
-      "num": 261822,
-      "word": "知情人谈华人钢铁大王在菲被绑撕票",
-      "onboard_time": 1744283602,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 261486,
       "num": 632654,
       "word": "特别主演张智霖",
@@ -1019,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247582,
+      "num": 500952,
+      "word": "FindX8Ultra夜景人像神器",
+      "onboard_time": 1744285222,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 243801,
       "num": 552597,
       "word": "老师砸伤女孩头骨案二审维持原判",
@@ -1057,6 +1121,14 @@
       "onboard_time": 1744249580,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240013,
+      "num": 614666,
+      "word": "中国电影市场坚持高水平对外开放",
+      "onboard_time": 1744288703,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 234605,
@@ -1139,20 +1211,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221543,
+      "num": 518345,
+      "word": "严浩翔新综艺录制2天4套造型",
+      "onboard_time": 1744288824,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221466,
       "num": 551453,
       "word": "孟美岐solo舞台抢位赛",
       "onboard_time": 1744273943,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218003,
-      "num": 218003,
-      "word": "蜜雪冰城已改回红色附近商户发声",
-      "onboard_time": 1744283362,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217716,
@@ -1217,6 +1289,14 @@
       "onboard_time": 1744283064,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206322,
+      "num": 206322,
+      "word": "腾讯视频Q2预排",
+      "onboard_time": 1744289302,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 205044,
@@ -1467,6 +1547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 185811,
+      "num": 185811,
+      "word": "张继科称带的学生多个考上名校",
+      "onboard_time": 1744286002,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185244,
       "num": 239709,
       "word": "春来定风波开播",
@@ -1540,7 +1628,7 @@
     },
     {
       "raw_hot": 176884,
-      "num": 292337,
+      "num": 511435,
       "word": "成何体统",
       "onboard_time": 1744283542,
       "rank": 27,
@@ -1633,6 +1721,14 @@
       "onboard_time": 1744269382,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169568,
+      "num": 489783,
+      "word": "极氪再次打破吉尼斯纪录",
+      "onboard_time": 1744287683,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 168489,
@@ -1827,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148291,
+      "num": 343404,
+      "word": "卤鹅哥新身份",
+      "onboard_time": 1744284142,
+      "rank": 28,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 147877,
       "num": 334484,
       "word": "处方药和OTC有什么区别",
@@ -1873,6 +1977,14 @@
       "onboard_time": 1744276823,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142780,
+      "num": 238407,
+      "word": "FindX8Ultra斩男又斩女",
+      "onboard_time": 1744287321,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 142693,
@@ -1987,6 +2099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 133048,
+      "num": 233886,
+      "word": "浪姐直播",
+      "onboard_time": 1744288703,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132128,
       "num": 132128,
       "word": "梅西梅开二度",
@@ -2009,6 +2129,14 @@
       "onboard_time": 1744277661,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 131099,
+      "num": 131099,
+      "word": "eStar战胜TES",
+      "onboard_time": 1744288824,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 130911,
@@ -2091,6 +2219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126079,
+      "num": 126079,
+      "word": "此次大风或突破74年来同期极值",
+      "onboard_time": 1744287443,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125454,
       "num": 125454,
       "word": "2028洛杉矶奥运会将产生351枚金牌",
@@ -2121,6 +2257,14 @@
       "onboard_time": 1744280241,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124611,
+      "num": 250389,
+      "word": "全球最窄四等边FindX8s",
+      "onboard_time": 1744287321,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 123946,
@@ -2195,20 +2339,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117029,
-      "num": 216447,
-      "word": "卤鹅哥新身份",
-      "onboard_time": 1744284142,
-      "rank": 28,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 115362,
       "num": 459044,
       "word": "辛云来怎么紧张成这样",
       "onboard_time": 1744276042,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114988,
+      "num": 114988,
+      "word": "读研真的要留一点心眼",
+      "onboard_time": 1744285161,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 114971,
@@ -2355,6 +2499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99219,
+      "num": 226909,
+      "word": "陈都灵这次不庄了",
+      "onboard_time": 1744286063,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98090,
       "num": 311060,
       "word": "4位世界冠军压阵新一届国家女排",
@@ -2425,6 +2577,14 @@
       "onboard_time": 1744214783,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87407,
+      "num": 537201,
+      "word": "武汉两家医院被曝贩卖出生医学证明",
+      "onboard_time": 1744287802,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 85737,
@@ -2611,6 +2771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58711,
+      "num": 117753,
+      "word": "骗子用新骗来的钱填之前的坑",
+      "onboard_time": 1744288643,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58502,
       "num": 288680,
       "word": "洛杉矶奥运国乒双打将面临考验",
@@ -2625,6 +2793,14 @@
       "onboard_time": 1744268481,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50276,
+      "num": 476264,
+      "word": "医院回应原主任涉案后疑仍介绍代孕",
+      "onboard_time": 1744287864,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 45203,
@@ -2867,6 +3043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 19993,
+      "num": 150729,
+      "word": "60岁男子杀害女友谎称当天没见过",
+      "onboard_time": 1744289302,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19439,
       "num": 33531,
       "word": "穆祉丞不想再当念旧的小孩了",
@@ -2929,6 +3113,14 @@
       "onboard_time": 1744280304,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12827,
+      "num": 134252,
+      "word": "英国罕见的万里无云",
+      "onboard_time": 1744288883,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 12237,
