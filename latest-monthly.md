@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/11 07:24:54
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/11 07:38:00
 </p>
 </blockquote>
 <p>
@@ -741,6 +741,12 @@ RedVelvet 解散（热度：1601334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%B0%8E%E7%A7%B0%E7%94%9F%E7%97%85%E5%89%83%E5%85%89%E5%A4%B4%E5%A4%96%E5%85%AC%E6%9E%9C%E7%84%B6%E5%89%83%E4%BA%86%23" target="weibo">
+女孩谎称生病剃光头外公果然剃了（热度：1515351）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832025%E7%AC%AC1%E5%8F%B7%E7%95%99%E5%AD%A6%E9%A2%84%E8%AD%A6%23" target="weibo">
 教育部发布2025第1号留学预警（热度：1510930）
 </a>
@@ -1307,12 +1313,6 @@ VaVa 灰原哀（热度：1212430）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%80%80%E4%BB%813.6%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 山西怀仁3.6级地震（热度：1143523）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%B0%8E%E7%A7%B0%E7%94%9F%E7%97%85%E5%89%83%E5%85%89%E5%A4%B4%E5%A4%96%E5%85%AC%E6%9E%9C%E7%84%B6%E5%89%83%E4%BA%86%23" target="weibo">
-女孩谎称生病剃光头外公果然剃了（热度：1141818）
 </a>
 </li>
 
@@ -4215,6 +4215,12 @@ SM新男团（热度：491910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BD%95%E5%A5%B3%E5%8E%95%E6%80%BB%E6%9C%89%E4%B8%80%E6%A0%BC%E6%89%93%E4%B8%8D%E5%BC%80%E4%BA%86%23" target="weibo">
+终于知道为何女厕总有一格打不开了（热度：479491）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%AD%90%E8%A2%AB%E5%BF%98%E6%9C%8D%E5%8A%A1%E5%8C%BA%E4%B8%80%E8%B7%AF%E7%8B%82%E5%A5%94%E8%BF%BD%E8%B5%B6%E4%B8%BB%E4%BA%BA%23" target="weibo">
 狗子被忘服务区一路狂奔追赶主人（热度：478733）
 </a>
@@ -5603,12 +5609,6 @@ Wendy泡泡发长文（热度：369749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E4%B8%BB%E6%99%92SU7%E4%B8%80%E5%B9%B4%E4%BF%9D%E5%80%BC%E7%8E%8791%25%23" target="weibo">
 车主晒SU7一年保值率91%（热度：369188）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BD%95%E5%A5%B3%E5%8E%95%E6%80%BB%E6%9C%89%E4%B8%80%E6%A0%BC%E6%89%93%E4%B8%8D%E5%BC%80%E4%BA%86%23" target="weibo">
-终于知道为何女厕总有一格打不开了（热度：368043）
 </a>
 </li>
 
