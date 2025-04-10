@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/10 15:38:35
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/10 16:32:02
 </p>
 </blockquote>
 <p>
@@ -317,6 +317,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E7%BD%91%E7%BA%A2%E5%88%80%E5%B0%8F%E5%88%80%E8%A2%AB%E6%9F%A5%23" target="weibo">
 千万网红刀小刀被查（热度：2145932）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%AF%B9%E5%8D%8E%E5%BE%81%E6%94%B6125%25%E5%85%B3%E7%A8%8E%23" target="weibo">
+外交部回应美对华征收125%关税（热度：2109868）
 </a>
 </li>
 
@@ -1401,6 +1407,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%85%AC35%E6%AC%A1%E4%B8%8A%E5%B2%B8%23" target="weibo">
+考公35次上岸（热度：1099169）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%B8%8A%E5%A4%9A%E5%A4%84%E8%A2%AB%E7%83%A4%E7%86%9F%E7%9A%84%E9%B9%85%E5%9D%9A%E5%BC%BA%E5%B7%B2%E8%83%BD%E8%BF%9B%E9%A3%9F%23" target="weibo">
 身上多处被烤熟的鹅坚强已能进食（热度：1098033）
 </a>
@@ -1803,6 +1815,12 @@ JYP写了中国台湾省（热度：940194）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93Q%E9%9F%B3%E4%B9%90%23" target="weibo">
+网易Q音乐（热度：920437）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%82%A6%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23" target="weibo">
 杜邦被立案调查（热度：919793）
 </a>
@@ -1901,6 +1919,12 @@ SM新男团 撞名（热度：910464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E6%81%A9%23" target="weibo">
 余承恩（热度：890521）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E4%BC%9A%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%81%E6%9B%B4%E9%AB%98%E5%85%B3%E7%A8%8E%23" target="weibo">
+商务部回应是否会对美加征更高关税（热度：886262）
 </a>
 </li>
 
@@ -4449,6 +4473,12 @@ Hamin公开（热度：442270）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E4%B8%89%E6%AC%A1%E4%B8%AA%E4%BA%BA%E7%AC%AC%E4%B8%80%23" target="weibo">
+李晟三次个人第一（热度：439966）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%AE%E6%B0%B4%E7%AB%B9%E4%BA%AD%E5%AE%9A%E6%A1%A3%23" target="weibo">
 淮水竹亭定档（热度：437637）
 </a>
@@ -5805,6 +5835,12 @@ Jennie封面照（热度：345824）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%90%832%E4%B8%AA%E9%B8%A1%E8%9B%8B%E8%BA%AB%E4%BD%93%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%84%23" target="weibo">
+每天吃2个鸡蛋身体有什么好处（热度：342551）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E4%BD%A9%E5%B2%9147%E6%AD%A3%E6%98%AF%E9%97%A8%E9%9D%A2%E6%8B%85%E5%BD%93%E7%9A%84%E5%B9%B4%E7%BA%AA%23" target="weibo">
 侯佩岑47正是门面担当的年纪（热度：342547）
 </a>
@@ -5975,42 +6011,6 @@ SM查理呢（热度：335430）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E8%AE%B0%E8%80%85%E4%BC%9A%E6%9C%80%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D%23" target="weibo">
 金秀贤记者会最起鸡皮疙瘩的一句话（热度：331750）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%86%E8%84%86%E9%B2%A8%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA%E8%99%9E%E4%B9%A6%E6%AC%A3%23" target="weibo">
-脆脆鲨品牌代言人虞书欣（热度：331603）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%AB%98%E4%BD%8D%E8%B7%B3%E6%B0%B4%E4%BA%86%23" target="weibo">
-国际金价高位跳水了（热度：330527）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E7%A9%BF%E8%B5%B0%E4%BA%86%E8%8E%AB%E5%A5%88%E7%9A%84%E8%8A%B1%E5%9B%AD%23" target="weibo">
-王心凌穿走了莫奈的花园（热度：330121）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8A%A1%E9%83%A8%E5%8F%AC%E5%BC%80%E7%BE%8E%E8%B5%84%E4%BC%81%E4%B8%9A%E5%9C%86%E6%A1%8C%E4%BC%9A%23" target="weibo">
-商务部召开美资企业圆桌会（热度：329588）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%8A%E5%AE%87%E9%99%88%E4%B8%BD%E5%90%9B%E5%9B%9B%E5%85%AC%E5%B8%AE%E5%94%B1%23" target="weibo">
-陈昊宇陈丽君四公帮唱（热度：329031）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AF%B9%E8%B4%B8%E6%98%93%E4%BC%99%E4%BC%B4%E8%AE%BE10%25%E6%9C%80%E4%BD%8E%E5%9F%BA%E5%87%86%E5%85%B3%E7%A8%8E%23" target="weibo">
-美对贸易伙伴设10%最低基准关税（热度：328978）
 </a>
 </li>
 
