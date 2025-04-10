@@ -1,0 +1,410 @@
+{
+  "runTime": 1744270715488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1651610,
+        "num": 1651610,
+        "word": "对美加征84%关税开始执行",
+        "onboard_time": 1744258463,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 229273,
+        "num": 1163362,
+        "word": "10句话解析什么叫中方奉陪到底",
+        "onboard_time": 1744248502,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65231,
+        "num": 1018551,
+        "word": "中美经贸关系互利共赢的本质不容歪曲",
+        "onboard_time": 1744244187,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1827873,
+        "num": 983213,
+        "word": "毛宁分享毛主席霸气发言视频",
+        "onboard_time": 1744268481,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 918308,
+        "num": 918308,
+        "word": "苹果紧急往美国运iPhone",
+        "onboard_time": 1744252162,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 840980,
+        "num": 840980,
+        "word": "北京提醒尽量减少或停止户外活动",
+        "onboard_time": 1744266202,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692582,
+        "num": 692582,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 534995,
+        "num": 534995,
+        "word": "北京将出现陆地罕见极端大风",
+        "onboard_time": 1744265124,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182525,
+        "num": 532896,
+        "word": "罗晋3分钟告白戏一气呵成",
+        "onboard_time": 1744268782,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108648,
+        "num": 529953,
+        "word": "白天PPT晚上八段锦",
+        "onboard_time": 1744263624,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1654938,
+        "num": 523356,
+        "word": "绿色蜜雪冰城门店已改回红色",
+        "onboard_time": 1744265724,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15956,
+        "num": 516182,
+        "word": "90后乡村女校长和她的81个娃",
+        "onboard_time": 1744270282,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515016,
+        "num": 515016,
+        "word": "4月10日12时01分",
+        "onboard_time": 1744258643,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633821,
+        "num": 498648,
+        "word": "控糖1年后男子减百斤年轻20岁",
+        "onboard_time": 1744263505,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423688,
+        "num": 423688,
+        "word": "13级大风是什么概念",
+        "onboard_time": 1744264823,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417227,
+        "num": 417227,
+        "word": "中方愿与欧方相向而行",
+        "onboard_time": 1744263023,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412572,
+        "num": 412572,
+        "word": "黄杨钿甜通过中传艺考",
+        "onboard_time": 1744265183,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330093,
+        "num": 330093,
+        "word": "特朗普会收手吗",
+        "onboard_time": 1744263084,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 304109,
+        "num": 304109,
+        "word": "胡静怡中传艺考第二名",
+        "onboard_time": 1744268662,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216160,
+        "num": 216160,
+        "word": "肖战谍报上不封顶招募信息",
+        "onboard_time": 1744267703,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214072,
+        "num": 214072,
+        "word": "医托骗1.68米女子正常腿断骨成X腿",
+        "onboard_time": 1744249942,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212390,
+        "num": 212390,
+        "word": "TizzyT很荣幸成为你的跳板",
+        "onboard_time": 1744265662,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211724,
+        "num": 211724,
+        "word": "金宣虎wink笑的风吹到了内娱",
+        "onboard_time": 1744259783,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208269,
+        "num": 208269,
+        "word": "第一批疯狂防晒的人现在都怎样了",
+        "onboard_time": 1744258164,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180227,
+        "num": 180227,
+        "word": "普通家庭养娃一年的真实费用",
+        "onboard_time": 1744264162,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179633,
+        "num": 179633,
+        "word": "曝美暂停进一步限制英伟达H20出口",
+        "onboard_time": 1744269261,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163205,
+        "num": 163205,
+        "word": "被已婚男友送精神病院女子最新发声",
+        "onboard_time": 1744267463,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155338,
+        "num": 155338,
+        "word": "甲亢哥带火的卤鹅哥被奖10万元",
+        "onboard_time": 1744262542,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148985,
+        "num": 148985,
+        "word": "做食堂阿姨的北大研究生已离职",
+        "onboard_time": 1744257264,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143322,
+        "num": 143322,
+        "word": "特朗普关税地图炮砸向美国老百姓",
+        "onboard_time": 1744165402,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168489,
+        "num": 142179,
+        "word": "这教室设计师是真上过大学",
+        "onboard_time": 1744269023,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124358,
+        "num": 141021,
+        "word": "年轻人花10万能买到什么车",
+        "onboard_time": 1744270582,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 140609,
+        "num": 140609,
+        "word": "碳水循环减肥法",
+        "onboard_time": 1744267401,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140156,
+        "num": 140156,
+        "word": "每天吃2个鸡蛋身体有什么好处",
+        "onboard_time": 1744268962,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131144,
+        "num": 131144,
+        "word": "网易Q音乐",
+        "onboard_time": 1744270522,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130372,
+        "num": 130372,
+        "word": "金价创5年来最大涨幅",
+        "onboard_time": 1744253362,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126893,
+        "num": 126893,
+        "word": "祝绪丹就这么小心翼翼地闯祸",
+        "onboard_time": 1744267401,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125123,
+        "num": 125123,
+        "word": "上野中下辅都尽力啦先导片",
+        "onboard_time": 1744270582,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116303,
+        "num": 116303,
+        "word": "王蓉杀回唱跳圈",
+        "onboard_time": 1744264643,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68282,
+        "num": 115483,
+        "word": "美国民众抢购中国商品",
+        "onboard_time": 1744269682,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115277,
+        "num": 115277,
+        "word": "孙颖莎曾调侃27岁再兼四项",
+        "onboard_time": 1744263505,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422480,
+        "num": 115173,
+        "word": "北京40岁地铁猥亵惯犯被抓后下跪",
+        "onboard_time": 1744261225,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114223,
+        "num": 114223,
+        "word": "Doinb爆料LWX给Crisp加油",
+        "onboard_time": 1744266682,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109238,
+        "num": 109238,
+        "word": "王者荣耀之动物荣耀",
+        "onboard_time": 1744270463,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107973,
+        "num": 107973,
+        "word": "陈赫摔倒受伤的是黄磊",
+        "onboard_time": 1744260744,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88656,
+        "num": 107060,
+        "word": "把元气借给LGD",
+        "onboard_time": 1744269382,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106845,
+        "num": 106845,
+        "word": "不回消息就是不想回",
+        "onboard_time": 1744270643,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105487,
+        "num": 105487,
+        "word": "沪指涨1.16%重返3200点",
+        "onboard_time": 1744270401,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102749,
+        "num": 102749,
+        "word": "vivo 独立镜头",
+        "onboard_time": 1744268363,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 56322,
+        "num": 101513,
+        "word": "30年前一起上学30年后一起创业",
+        "onboard_time": 1744268481,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#留得清气满乾坤#"
+    }
+  }
+}
