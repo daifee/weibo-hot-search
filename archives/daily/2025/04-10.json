@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744296155241,
+  "endTime": 1744298839821,
   "band_list": [
     {
       "raw_hot": 8884094,
@@ -227,6 +227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1113944,
+      "num": 1113944,
+      "word": "国家电影局发声",
+      "onboard_time": 1744292963,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1074230,
       "num": 1074230,
       "word": "我们奉陪到底",
@@ -241,14 +249,6 @@
       "onboard_time": 1744263505,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1013486,
-      "num": 1013486,
-      "word": "国家电影局发声",
-      "onboard_time": 1744292963,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 992117,
@@ -345,6 +345,22 @@
       "onboard_time": 1744236195,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 734762,
+      "num": 490256,
+      "word": "文明办回应上海地铁男子猥亵女性",
+      "onboard_time": 1744294524,
+      "rank": 33,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 731067,
+      "num": 336064,
+      "word": "张檬想40岁前要二胎",
+      "onboard_time": 1744297703,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 722682,
@@ -587,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 490256,
-      "num": 490256,
-      "word": "文明办回应上海地铁男子猥亵女性",
-      "onboard_time": 1744294524,
-      "rank": 33,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 482877,
       "num": 482877,
       "word": "商务部回应是否就关税与美展开谈判",
@@ -731,6 +739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 421646,
+      "num": 421646,
+      "word": "北京发布大风应对措施",
+      "onboard_time": 1744293684,
+      "rank": 5,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 421570,
       "num": 421570,
       "word": "家长建议小学延时至6点半放学",
@@ -745,6 +761,14 @@
       "onboard_time": 1744259544,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 412953,
+      "num": 412953,
+      "word": "香港演员谷峰去世",
+      "onboard_time": 1744297645,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 411380,
@@ -827,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365619,
+      "num": 333098,
+      "word": "吴宣仪运气",
+      "onboard_time": 1744296205,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 348065,
       "num": 418526,
       "word": "我叫电影今年130岁了",
@@ -849,6 +881,14 @@
       "onboard_time": 1744193422,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 345807,
+      "num": 328142,
+      "word": "小英变美了",
+      "onboard_time": 1744296864,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 345681,
@@ -897,6 +937,14 @@
       "onboard_time": 1744200264,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322941,
+      "num": 322941,
+      "word": "瘦了36斤才敢说的减肥大实话",
+      "onboard_time": 1744297645,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 318342,
@@ -985,6 +1033,14 @@
       "onboard_time": 1744258343,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 299741,
+      "num": 353829,
+      "word": "新说唱选手还原严浩翔淘汰阿尔曼",
+      "onboard_time": 1744292363,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 298277,
@@ -1129,6 +1185,14 @@
       "onboard_time": 1744256364,
       "rank": 33,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 263619,
+      "num": 263619,
+      "word": "低频祝自己生日快乐",
+      "onboard_time": 1744297584,
+      "rank": 25,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 261855,
@@ -1347,6 +1411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 216921,
+      "num": 329308,
+      "word": "终于知道为何女厕总有一格打不开了",
+      "onboard_time": 1744298243,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215372,
       "num": 215372,
       "word": "甲亢哥带火的卤鹅哥被奖10万元",
@@ -1465,14 +1537,6 @@
       "onboard_time": 1744248862,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204355,
-      "num": 353829,
-      "word": "新说唱选手还原严浩翔淘汰阿尔曼",
-      "onboard_time": 1744292363,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 204075,
@@ -1731,6 +1795,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 188024,
+      "num": 188024,
+      "word": "八段锦每一个动作都是药",
+      "onboard_time": 1744297645,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 185921,
       "num": 258404,
       "word": "第一代女考古人发现第一女将军",
@@ -1825,6 +1897,14 @@
       "onboard_time": 1744283542,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176273,
+      "num": 253719,
+      "word": "李晟罗予彤两个辣妹子晕辣了",
+      "onboard_time": 1744298423,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 175874,
@@ -2009,6 +2089,14 @@
       "onboard_time": 1744290204,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 158104,
+      "num": 158104,
+      "word": "何秋亊直播",
+      "onboard_time": 1744298542,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 158093,
@@ -2283,6 +2371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139495,
+      "num": 340179,
+      "word": "北京大风天坐地铁注意了",
+      "onboard_time": 1744298064,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139151,
       "num": 139151,
       "word": "祝绪丹就这么小心翼翼地闯祸",
@@ -2369,6 +2465,14 @@
       "onboard_time": 1744243167,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 133380,
+      "num": 326941,
+      "word": "吴宣仪直播",
+      "onboard_time": 1744297763,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 133048,
@@ -2555,6 +2659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 124160,
+      "num": 124160,
+      "word": "虞书欣最近的小日常",
+      "onboard_time": 1744298721,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 123946,
       "num": 123946,
       "word": "金价涨超3%",
@@ -2633,6 +2745,22 @@
       "onboard_time": 1744283301,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117448,
+      "num": 117448,
+      "word": "刘诗诗法式美学",
+      "onboard_time": 1744298601,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115702,
+      "num": 115702,
+      "word": "完美世界动画石昊火灵儿大婚",
+      "onboard_time": 1744297225,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 115362,
@@ -2963,6 +3091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75676,
+      "num": 239083,
+      "word": "直播间买的灵隐文创是假的",
+      "onboard_time": 1744297645,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75456,
       "num": 84659,
       "word": "美债",
@@ -3104,6 +3240,14 @@
       "word": "30年前一起上学30年后一起创业",
       "onboard_time": 1744268481,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45670,
+      "num": 330709,
+      "word": "多家国内航司将座椅更换成轻薄型",
+      "onboard_time": 1744298483,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
