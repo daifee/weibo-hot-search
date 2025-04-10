@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744267664752,
+  "endTime": 1744269862067,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -320,6 +320,14 @@
       "word": "你的工资不能低于这个数字",
       "onboard_time": 1743933500,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1824959,
+      "num": 1117150,
+      "word": "绿色蜜雪冰城门店已改回红色",
+      "onboard_time": 1744265724,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -955,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1117150,
-      "num": 1117150,
-      "word": "绿色蜜雪冰城门店已改回红色",
-      "onboard_time": 1744265724,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1103346,
       "num": 1103346,
       "word": "美国一瓶中国产洗发水涨了12美元",
@@ -1331,6 +1331,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 870080,
+      "num": 870080,
+      "word": "北京提醒尽量减少或停止户外活动",
+      "onboard_time": 1744266202,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 864178,
       "num": 864178,
       "word": "网红李美越致歉",
@@ -1585,6 +1593,14 @@
       "onboard_time": 1744072524,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 767141,
+      "num": 767141,
+      "word": "毛宁分享毛主席霸气发言视频",
+      "onboard_time": 1744268481,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 767126,
@@ -2267,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 568276,
+      "num": 1041067,
+      "word": "北京将出现陆地罕见极端大风",
+      "onboard_time": 1744265124,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 565906,
       "num": 525303,
       "word": "有些电视剧真可以刷N次",
@@ -2435,14 +2459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 523758,
-      "num": 523758,
-      "word": "北京提醒尽量减少或停止户外活动",
-      "onboard_time": 1744266202,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 521478,
       "num": 521478,
       "word": "Bin",
@@ -2505,6 +2521,14 @@
       "onboard_time": 1743925461,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513184,
+      "num": 513184,
+      "word": "13级大风是什么概念",
+      "onboard_time": 1744264823,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 511870,
@@ -3121,14 +3145,6 @@
       "onboard_time": 1743949643,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 421399,
-      "num": 468137,
-      "word": "13级大风是什么概念",
-      "onboard_time": 1744264823,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 420939,
@@ -4467,14 +4483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 299896,
-      "num": 1041067,
-      "word": "北京将出现陆地罕见极端大风",
-      "onboard_time": 1744265124,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 299747,
       "num": 776365,
       "word": "赴山海暂定5月播出",
@@ -4716,7 +4724,7 @@
     },
     {
       "raw_hot": 289198,
-      "num": 498997,
+      "num": 1117808,
       "word": "10句话解析什么叫中方奉陪到底",
       "onboard_time": 1744248502,
       "rank": 9,
@@ -5507,6 +5515,14 @@
       "category": "财经,国内时政"
     },
     {
+      "raw_hot": 247484,
+      "num": 247484,
+      "word": "胡静怡中传艺考第二名",
+      "onboard_time": 1744268662,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246923,
       "num": 586091,
       "word": "关税救不了美国制造的10大铁证",
@@ -5760,6 +5776,14 @@
       "word": "肖战谍报上不封顶上海置景",
       "onboard_time": 1744035744,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234605,
+      "num": 234605,
+      "word": "肖战谍报上不封顶招募信息",
+      "onboard_time": 1744267703,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -8443,6 +8467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175356,
+      "num": 175356,
+      "word": "被已婚男友送精神病院女子最新发声",
+      "onboard_time": 1744267463,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174994,
       "num": 174994,
       "word": "向阳花票房破亿",
@@ -8657,6 +8689,14 @@
       "onboard_time": 1743920780,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170538,
+      "num": 170538,
+      "word": "把元气借给LGD",
+      "onboard_time": 1744269382,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 170247,
@@ -9755,6 +9795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151541,
+      "num": 684980,
+      "word": "罗晋3分钟告白戏一气呵成",
+      "onboard_time": 1744268782,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151522,
       "num": 409767,
       "word": "送你一朵牡丹花",
@@ -10081,6 +10129,14 @@
       "onboard_time": 1744004003,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146495,
+      "num": 146495,
+      "word": "这教室设计师是真上过大学",
+      "onboard_time": 1744269023,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 146194,
@@ -10473,6 +10529,14 @@
       "onboard_time": 1744117823,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139151,
+      "num": 139151,
+      "word": "祝绪丹就这么小心翼翼地闯祸",
+      "onboard_time": 1744267401,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 139028,
@@ -10931,6 +10995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 130911,
+      "num": 130911,
+      "word": "vivo 独立镜头",
+      "onboard_time": 1744268363,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 130861,
       "num": 286236,
       "word": "官方回应家长称双休影响考好大学",
@@ -11171,6 +11243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126732,
+      "num": 126732,
+      "word": "RED女团李芊语中传校考第37名",
+      "onboard_time": 1744268003,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126501,
       "num": 126501,
       "word": "鞠婧祎陈都灵杀青合照",
@@ -11193,6 +11273,14 @@
       "onboard_time": 1744019062,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126174,
+      "num": 192986,
+      "word": "Doinb爆料LWX给Crisp加油",
+      "onboard_time": 1744266682,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 125547,
@@ -11379,6 +11467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122028,
+      "num": 122028,
+      "word": "曝美暂停进一步限制英伟达H20出口",
+      "onboard_time": 1744269261,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121890,
       "num": 121890,
       "word": "F1",
@@ -11523,28 +11619,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 118582,
-      "num": 118582,
-      "word": "祝绪丹就这么小心翼翼地闯祸",
-      "onboard_time": 1744267401,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118512,
       "num": 118512,
       "word": "丁程鑫花仙子造型",
       "onboard_time": 1743913221,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118369,
-      "num": 118369,
-      "word": "被已婚男友送精神病院女子最新发声",
-      "onboard_time": 1744267463,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118066,
@@ -12051,6 +12131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108496,
+      "num": 108496,
+      "word": "中传名单没有陈天润",
+      "onboard_time": 1744269083,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108448,
       "num": 268707,
       "word": "平台回应4999元代祭扫由品牌部采买",
@@ -12289,6 +12377,14 @@
       "onboard_time": 1743868042,
       "rank": 40,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 101120,
+      "num": 101120,
+      "word": "每天吃2个鸡蛋身体有什么好处",
+      "onboard_time": 1744268962,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100873,
@@ -12569,14 +12665,6 @@
       "onboard_time": 1744169063,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 91433,
-      "num": 192986,
-      "word": "Doinb爆料LWX给Crisp加油",
-      "onboard_time": 1744266682,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 91238,
@@ -14019,6 +14107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43578,
+      "num": 655026,
+      "word": "30年前一起上学30年后一起创业",
+      "onboard_time": 1744268481,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43439,
       "num": 321679,
       "word": "王艺迪战胜陈幸同夺冠",
@@ -14169,6 +14265,14 @@
       "onboard_time": 1743948863,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 40041,
+      "num": 211277,
+      "word": "秦彻拍拍拍",
+      "onboard_time": 1744268902,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 39605,
@@ -15353,6 +15457,14 @@
       "onboard_time": 1743969494,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9251,
+      "num": 127170,
+      "word": "美国民众抢购中国商品",
+      "onboard_time": 1744269682,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 8946,
