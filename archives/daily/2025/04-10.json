@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744251210893,
+  "endTime": 1744254305583,
   "band_list": [
     {
       "raw_hot": 8884094,
@@ -25,6 +25,14 @@
       "onboard_time": 1744241482,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1817968,
+      "num": 1817968,
+      "word": "医托骗1.68米女子正常腿断骨成X腿",
+      "onboard_time": 1744249942,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1224993,
@@ -115,6 +123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 630374,
+      "num": 630374,
+      "word": "李在明宣布参选韩国总统",
+      "onboard_time": 1744249043,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 581231,
       "num": 581231,
       "word": "全国唯一的古旱莲开花",
@@ -123,16 +139,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 567959,
-      "num": 567959,
-      "word": "李在明宣布参选韩国总统",
-      "onboard_time": 1744249043,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 546258,
-      "num": 295668,
+      "num": 317084,
       "word": "26岁女孩不吃早饭胆囊长满碎石",
       "onboard_time": 1744246646,
       "rank": 20,
@@ -145,6 +153,22 @@
       "onboard_time": 1744240581,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 513073,
+      "num": 513073,
+      "word": "我国自主研发箱子让宠物能上高铁",
+      "onboard_time": 1744250663,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 505550,
+      "num": 505550,
+      "word": "严浩翔说有diss是很正常的事",
+      "onboard_time": 1744253482,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 505151,
@@ -187,12 +211,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 494956,
+      "num": 494956,
+      "word": "苹果紧急往美国运iPhone",
+      "onboard_time": 1744252162,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 479771,
+      "num": 479771,
+      "word": "宁波口岸新能源车出口暴增439%",
+      "onboard_time": 1744251323,
+      "rank": 8,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 476482,
       "num": 476482,
       "word": "中方多部门密集发声",
       "onboard_time": 1744213166,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 476236,
+      "num": 476236,
+      "word": "孙俪董子健新剧定档",
+      "onboard_time": 1744252101,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 448912,
@@ -259,20 +307,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 390995,
-      "num": 390995,
-      "word": "医托骗1.68米女子正常腿断骨成X腿",
-      "onboard_time": 1744249942,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 387197,
       "num": 387197,
       "word": "美股",
       "onboard_time": 1744199126,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 371171,
+      "num": 371171,
+      "word": "五哈5定档",
+      "onboard_time": 1744252342,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 364496,
+      "num": 477999,
+      "word": "中国发现高纯石英矿",
+      "onboard_time": 1744252942,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 345943,
@@ -283,6 +339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 345224,
+      "num": 345224,
+      "word": "赵勇担任中国女排主帅",
+      "onboard_time": 1744248204,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330284,
       "num": 330284,
       "word": "白冰冰7年做了16次试管婴儿",
@@ -291,12 +355,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325673,
-      "num": 325673,
-      "word": "赵勇担任中国女排主帅",
-      "onboard_time": 1744248204,
-      "rank": 15,
-      "category": "体育"
+      "raw_hot": 318342,
+      "num": 318342,
+      "word": "孙俪回归上海丽人赛道",
+      "onboard_time": 1744252402,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 316865,
+      "num": 316865,
+      "word": "肖战  羽西",
+      "onboard_time": 1744253002,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 304588,
@@ -355,6 +427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 265233,
+      "num": 265233,
+      "word": "六福珠宝 成毅",
+      "onboard_time": 1744251622,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261855,
       "num": 261855,
       "word": "马斯克游戏直播太菜被骂下播",
@@ -371,11 +451,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252465,
+      "num": 252465,
+      "word": "股市",
+      "onboard_time": 1744253122,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 251254,
       "num": 251254,
       "word": "纳斯达克",
       "onboard_time": 1744211906,
       "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 243772,
+      "num": 405596,
+      "word": "金价创5年来最大涨幅",
+      "onboard_time": 1744253362,
+      "rank": 14,
       "category": "财经"
     },
     {
@@ -451,6 +547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 196427,
+      "num": 196427,
+      "word": "东契奇45分",
+      "onboard_time": 1744253423,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196289,
       "num": 196289,
       "word": "女儿隆鼻结果妈妈肋骨断了三根",
@@ -475,20 +579,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 193422,
+      "num": 193422,
+      "word": "金饰价涨回960元",
+      "onboard_time": 1744252283,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 189622,
       "num": 189622,
       "word": "微信状态也能调情",
       "onboard_time": 1744192642,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 188149,
-      "num": 188149,
-      "word": "我国自主研发箱子让宠物能上高铁",
-      "onboard_time": 1744250663,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179393,
@@ -555,12 +659,52 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151522,
+      "num": 317111,
+      "word": "送你一朵牡丹花",
+      "onboard_time": 1744252883,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149166,
+      "num": 149166,
+      "word": "蛮好的人生里内耗不了一点",
+      "onboard_time": 1744252942,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148325,
       "num": 203064,
       "word": "张若昀终于用上祺贵人的梗了",
       "onboard_time": 1744205249,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147767,
+      "num": 265664,
+      "word": "科学家颜宁转发朱一龙自拍",
+      "onboard_time": 1744254024,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143091,
+      "num": 266839,
+      "word": "A股港股全线爆发",
+      "onboard_time": 1744253963,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 137257,
+      "num": 137257,
+      "word": "金饰价一夜大涨31元",
+      "onboard_time": 1744253242,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 134667,
@@ -587,6 +731,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130949,
+      "num": 130949,
+      "word": "吃饭跑步和恋爱 姐狗文学",
+      "onboard_time": 1744254143,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130928,
+      "num": 130928,
+      "word": "女子挖鼻孔后高烧40度肿到难睁眼",
+      "onboard_time": 1744254203,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130039,
       "num": 260740,
       "word": "陈德容 我表情悠哉跳个大概",
@@ -609,6 +769,22 @@
       "onboard_time": 1744247006,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126962,
+      "num": 130933,
+      "word": "梅西梅开二度",
+      "onboard_time": 1744253181,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125454,
+      "num": 125454,
+      "word": "2028洛杉矶奥运会将产生351枚金牌",
+      "onboard_time": 1744247125,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 123946,
@@ -921,6 +1097,14 @@
       "onboard_time": 1744228816,
       "rank": 44,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 7840,
+      "num": 149376,
+      "word": "小品不差钱之米国差蛋",
+      "onboard_time": 1744254263,
+      "rank": 39,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
