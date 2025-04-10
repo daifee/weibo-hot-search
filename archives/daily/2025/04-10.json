@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744273922338,
+  "endTime": 1744274730012,
   "band_list": [
     {
       "raw_hot": 8884094,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1548846,
+      "num": 679280,
+      "word": "考公35次上岸",
+      "onboard_time": 1744273762,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1377343,
       "num": 371609,
       "word": "北京40岁地铁猥亵惯犯被抓后下跪",
@@ -113,6 +121,14 @@
       "onboard_time": 1744253362,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1230215,
+      "num": 1230215,
+      "word": "商务部回应是否会对美加征更高关税",
+      "onboard_time": 1744272262,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1224993,
@@ -155,14 +171,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1099169,
-      "num": 578525,
-      "word": "考公35次上岸",
-      "onboard_time": 1744273762,
-      "rank": 10,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1074230,
       "num": 1074230,
       "word": "我们奉陪到底",
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 992117,
+      "num": 667046,
+      "word": "网易Q音乐",
+      "onboard_time": 1744270522,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 940194,
       "num": 940194,
       "word": "JYP写了中国台湾省",
@@ -187,28 +203,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 920437,
-      "num": 574003,
-      "word": "网易Q音乐",
-      "onboard_time": 1744270522,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 887046,
       "num": 887046,
       "word": "美股开盘",
       "onboard_time": 1744211125,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 886262,
-      "num": 886262,
-      "word": "商务部回应是否会对美加征更高关税",
-      "onboard_time": 1744272262,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 870080,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 439966,
-      "num": 661412,
+      "num": 712988,
       "word": "李晟三次个人第一",
       "onboard_time": 1744270882,
       "rank": 7,
@@ -643,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311628,
+      "num": 311628,
+      "word": "夫妻二人削骨隆鼻潜逃十年后被抓",
+      "onboard_time": 1744273943,
+      "rank": 25,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 304588,
       "num": 360660,
       "word": "杨紫又跳舞了",
@@ -689,6 +697,14 @@
       "onboard_time": 1744199485,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293831,
+      "num": 700307,
+      "word": "邓紫棋亚洲首位体育场十二连开女歌手",
+      "onboard_time": 1744273103,
+      "rank": 8,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 291485,
@@ -852,7 +868,7 @@
     },
     {
       "raw_hot": 236530,
-      "num": 236530,
+      "num": 302654,
       "word": "美商品赶新关税生效前飞往中国",
       "onboard_time": 1744272023,
       "rank": 24,
@@ -884,7 +900,7 @@
     },
     {
       "raw_hot": 228565,
-      "num": 228565,
+      "num": 281400,
       "word": "新晋国脚提车零跑B10",
       "onboard_time": 1744272262,
       "rank": 25,
@@ -907,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225232,
-      "num": 630255,
-      "word": "邓紫棋亚洲首位体育场十二连开女歌手",
-      "onboard_time": 1744273103,
-      "rank": 8,
-      "category": "演出,体育"
-    },
-    {
       "raw_hot": 224391,
       "num": 224391,
       "word": "孙颖莎曾调侃27岁再兼四项",
@@ -929,6 +937,14 @@
       "onboard_time": 1744259425,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221466,
+      "num": 551453,
+      "word": "孟美岐solo舞台抢位赛",
+      "onboard_time": 1744273943,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 217716,
@@ -987,20 +1003,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204947,
+      "num": 543903,
+      "word": "年轻人花10万能买到什么车",
+      "onboard_time": 1744270582,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 204899,
       "num": 204899,
       "word": "湖人vs独行侠",
       "onboard_time": 1744248862,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204465,
-      "num": 444778,
-      "word": "年轻人花10万能买到什么车",
-      "onboard_time": 1744270582,
-      "rank": 31,
-      "category": "汽车"
     },
     {
       "raw_hot": 204075,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1744259844,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202687,
+      "num": 499120,
+      "word": "北京13级阵风可能出现在哪儿",
+      "onboard_time": 1744273582,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201069,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1744264162,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195301,
+      "num": 195301,
+      "word": "陈哲远白月光归国",
+      "onboard_time": 1744274242,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194941,
@@ -1372,7 +1404,7 @@
     },
     {
       "raw_hot": 151600,
-      "num": 182087,
+      "num": 315580,
       "word": "马龙主题酒店",
       "onboard_time": 1744266802,
       "rank": 48,
@@ -1387,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150326,
+      "num": 394209,
+      "word": "建议在星期四适度摸鱼",
+      "onboard_time": 1744272622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149166,
       "num": 149166,
       "word": "蛮好的人生里内耗不了一点",
@@ -1396,7 +1436,7 @@
     },
     {
       "raw_hot": 148351,
-      "num": 432045,
+      "num": 527689,
       "word": "华莱士承包了我的童年玩具",
       "onboard_time": 1744272262,
       "rank": 18,
@@ -1433,6 +1473,14 @@
       "onboard_time": 1744270763,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142821,
+      "num": 465865,
+      "word": "张凌赫推荐碳水循环减肥法",
+      "onboard_time": 1744273943,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 141766,
@@ -1499,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134704,
+      "num": 134704,
+      "word": "美媒质疑特朗普朝令夕改",
+      "onboard_time": 1744274302,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134667,
       "num": 199024,
       "word": "文韬直播",
@@ -1513,14 +1569,6 @@
       "onboard_time": 1744243167,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 133463,
-      "num": 394209,
-      "word": "建议在星期四适度摸鱼",
-      "onboard_time": 1744272622,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132128,
@@ -1561,6 +1609,14 @@
       "onboard_time": 1744262183,
       "rank": 24,
       "category": "互联网,教育"
+    },
+    {
+      "raw_hot": 129611,
+      "num": 129611,
+      "word": "大风",
+      "onboard_time": 1744274482,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129576,
@@ -1843,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85737,
+      "num": 493540,
+      "word": "美国万亿美元国防预算目的何在",
+      "onboard_time": 1744272860,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85162,
       "num": 85162,
       "word": "外国姑娘被中国人暖到了",
@@ -1865,14 +1929,6 @@
       "onboard_time": 1744273103,
       "rank": 42,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 80119,
-      "num": 374414,
-      "word": "北京13级阵风可能出现在哪儿",
-      "onboard_time": 1744273582,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79948,
@@ -1945,6 +2001,14 @@
       "onboard_time": 1744251023,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 65891,
+      "num": 613123,
+      "word": "中国将坚定不移推进高水平对外开放",
+      "onboard_time": 1744272923,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65197,
@@ -2075,12 +2139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29938,
-      "num": 493540,
-      "word": "美国万亿美元国防预算目的何在",
-      "onboard_time": 1744272860,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 29211,
+      "num": 263106,
+      "word": "AI时代文科生重要还是理科生重要",
+      "onboard_time": 1744274242,
+      "rank": 29,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 27289,
@@ -2227,20 +2291,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15301,
+      "num": 688340,
+      "word": "救落水老人迷彩帽大哥获奖3000元",
+      "onboard_time": 1744273881,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 12237,
       "num": 21088,
       "word": "中国救援队伍完成缅甸地震救援回国",
       "onboard_time": 1744228816,
       "rank": 44,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 9079,
-      "num": 143629,
-      "word": "救落水老人迷彩帽大哥获奖3000元",
-      "onboard_time": 1744273881,
-      "rank": 37,
-      "category": "正能量"
     },
     {
       "raw_hot": 8302,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1744274730012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1879341,
+        "num": 1879341,
+        "word": "外交部回应美对华征收125%关税",
+        "onboard_time": 1744271362,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1230215,
+        "num": 1230215,
+        "word": "商务部回应是否会对美加征更高关税",
+        "onboard_time": 1744272262,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45798,
+        "num": 1033496,
+        "word": "中美经贸关系互利共赢的本质不容歪曲",
+        "onboard_time": 1744244187,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 990550,
+        "num": 990550,
+        "word": "毛宁分享毛主席霸气发言视频",
+        "onboard_time": 1744268481,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 796365,
+        "num": 796365,
+        "word": "苹果紧急往美国运iPhone",
+        "onboard_time": 1744252162,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 725176,
+        "num": 725176,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 719505,
+        "num": 719505,
+        "word": "对美加征84%关税开始执行",
+        "onboard_time": 1744258463,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 381539,
+        "num": 712988,
+        "word": "李晟三次个人第一",
+        "onboard_time": 1744270882,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293831,
+        "num": 700307,
+        "word": "邓紫棋亚洲首位体育场十二连开女歌手",
+        "onboard_time": 1744273103,
+        "rank": 8,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 15301,
+        "num": 688340,
+        "word": "救落水老人迷彩帽大哥获奖3000元",
+        "onboard_time": 1744273881,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1548846,
+        "num": 679280,
+        "word": "考公35次上岸",
+        "onboard_time": 1744273762,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 992117,
+        "num": 667046,
+        "word": "网易Q音乐",
+        "onboard_time": 1744270522,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 655792,
+        "num": 655792,
+        "word": "北京提醒尽量减少或停止户外活动",
+        "onboard_time": 1744266202,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65891,
+        "num": 613123,
+        "word": "中国将坚定不移推进高水平对外开放",
+        "onboard_time": 1744272923,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 593621,
+        "num": 593621,
+        "word": "绿色蜜雪冰城门店已改回红色",
+        "onboard_time": 1744265724,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565302,
+        "num": 565302,
+        "word": "控糖1年后男子减百斤年轻20岁",
+        "onboard_time": 1744263505,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221466,
+        "num": 551453,
+        "word": "孟美岐solo舞台抢位赛",
+        "onboard_time": 1744273943,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204947,
+        "num": 543903,
+        "word": "年轻人花10万能买到什么车",
+        "onboard_time": 1744270582,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128895,
+        "num": 527689,
+        "word": "华莱士承包了我的童年玩具",
+        "onboard_time": 1744272262,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202687,
+        "num": 499120,
+        "word": "北京13级阵风可能出现在哪儿",
+        "onboard_time": 1744273582,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85737,
+        "num": 486016,
+        "word": "美国万亿美元国防预算目的何在",
+        "onboard_time": 1744272860,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142821,
+        "num": 465865,
+        "word": "张凌赫推荐碳水循环减肥法",
+        "onboard_time": 1744273943,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464608,
+        "num": 464608,
+        "word": "北京将出现陆地罕见极端大风",
+        "onboard_time": 1744265124,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334637,
+        "num": 334637,
+        "word": "每天吃2个鸡蛋身体有什么好处",
+        "onboard_time": 1744268962,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29522,
+        "num": 315580,
+        "word": "马龙主题酒店",
+        "onboard_time": 1744266802,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311628,
+        "num": 311628,
+        "word": "夫妻二人削骨隆鼻潜逃十年后被抓",
+        "onboard_time": 1744273943,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 223682,
+        "num": 302654,
+        "word": "美商品赶新关税生效前飞往中国",
+        "onboard_time": 1744272023,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128061,
+        "num": 285950,
+        "word": "罗晋3分钟告白戏一气呵成",
+        "onboard_time": 1744268782,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202163,
+        "num": 281400,
+        "word": "新晋国脚提车零跑B10",
+        "onboard_time": 1744272262,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29211,
+        "num": 263106,
+        "word": "AI时代文科生重要还是理科生重要",
+        "onboard_time": 1744274242,
+        "rank": 29,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 258095,
+        "num": 258095,
+        "word": "13级大风是什么概念",
+        "onboard_time": 1744264823,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195301,
+        "num": 195301,
+        "word": "陈哲远白月光归国",
+        "onboard_time": 1744274242,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188551,
+        "num": 188551,
+        "word": "美国民众抢购中国商品",
+        "onboard_time": 1744269682,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184617,
+        "num": 184617,
+        "word": "周杰伦做饭人类迷惑行为大赏",
+        "onboard_time": 1744271003,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173264,
+        "num": 173264,
+        "word": "黄杨钿甜通过中传艺考",
+        "onboard_time": 1744265183,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162673,
+        "num": 162673,
+        "word": "中方愿与欧方相向而行",
+        "onboard_time": 1744263023,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154073,
+        "num": 154073,
+        "word": "4月10日12时01分",
+        "onboard_time": 1744258643,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150326,
+        "num": 150326,
+        "word": "建议在星期四适度摸鱼",
+        "onboard_time": 1744272622,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148965,
+        "num": 148965,
+        "word": "医托骗1.68米女子正常腿断骨成X腿",
+        "onboard_time": 1744249942,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142482,
+        "num": 142482,
+        "word": "胡静怡中传艺考第二名",
+        "onboard_time": 1744268662,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142261,
+        "num": 142261,
+        "word": "外交部驻港公署正告美方",
+        "onboard_time": 1744271362,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137901,
+        "num": 137901,
+        "word": "特朗普会收手吗",
+        "onboard_time": 1744263084,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134704,
+        "num": 134704,
+        "word": "美媒质疑特朗普朝令夕改",
+        "onboard_time": 1744274302,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131087,
+        "num": 131087,
+        "word": "第一批疯狂防晒的人现在都怎样了",
+        "onboard_time": 1744258164,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129611,
+        "num": 129611,
+        "word": "大风",
+        "onboard_time": 1744274482,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127055,
+        "num": 127055,
+        "word": "碳水循环减肥法",
+        "onboard_time": 1744267401,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125585,
+        "num": 125585,
+        "word": "曝美暂停进一步限制英伟达H20出口",
+        "onboard_time": 1744269261,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119958,
+        "num": 119958,
+        "word": "做食堂阿姨的北大研究生已离职",
+        "onboard_time": 1744257264,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118139,
+        "num": 118139,
+        "word": "甲亢哥带火的卤鹅哥被奖10万元",
+        "onboard_time": 1744262542,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108789,
+        "num": 108789,
+        "word": "商务部回应如何面对美霸凌关税",
+        "onboard_time": 1744270763,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#以八项规定催发更深层次的化学反应#"
+    }
+  }
+}
