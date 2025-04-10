@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744280843167,
+  "endTime": 1744281871545,
   "band_list": [
     {
       "raw_hot": 8884094,
@@ -33,6 +33,14 @@
       "onboard_time": 1744275443,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2841905,
+      "num": 2841905,
+      "word": "结婚离婚登记不再需要户口簿了",
+      "onboard_time": 1744280122,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2544575,
@@ -211,14 +219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 989492,
-      "num": 989492,
-      "word": "结婚离婚登记不再需要户口簿了",
-      "onboard_time": 1744280122,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 940194,
       "num": 940194,
       "word": "JYP写了中国台湾省",
@@ -363,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 548847,
+      "num": 451289,
+      "word": "王楚然妖后",
+      "onboard_time": 1744279221,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 546258,
       "num": 317084,
       "word": "26岁女孩不吃早饭胆囊长满碎石",
@@ -491,6 +499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 469022,
+      "num": 340197,
+      "word": "东盟承诺不报复美国关税措施",
+      "onboard_time": 1744281562,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 465953,
       "num": 477999,
       "word": "中国发现高纯石英矿",
@@ -505,14 +521,6 @@
       "onboard_time": 1744254682,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 451289,
-      "num": 451289,
-      "word": "王楚然妖后",
-      "onboard_time": 1744279221,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 448912,
@@ -731,6 +739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 304178,
+      "num": 304178,
+      "word": "适度减少美国影片进口数",
+      "onboard_time": 1744281083,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 304109,
       "num": 304109,
       "word": "胡静怡中传艺考第二名",
@@ -835,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274351,
+      "num": 479040,
+      "word": "戛纳",
+      "onboard_time": 1744276282,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 272524,
       "num": 272524,
       "word": "南京冰雹",
@@ -899,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 252725,
-      "num": 479040,
-      "word": "戛纳",
-      "onboard_time": 1744276282,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 252465,
       "num": 252465,
       "word": "股市",
@@ -928,6 +944,14 @@
       "word": "柯淳你让段休冥从许肆身上下来",
       "onboard_time": 1744255642,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 245509,
+      "num": 350600,
+      "word": "孙心娅问为什么孟子义演陈情令会被骂",
+      "onboard_time": 1744277901,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -993,6 +1017,14 @@
       "onboard_time": 1744210766,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228914,
+      "num": 464840,
+      "word": "125份病历中113份存在过度医疗",
+      "onboard_time": 1744277481,
+      "rank": 44,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 228565,
@@ -1163,6 +1195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 200026,
+      "num": 209252,
+      "word": "宁艺卓WKOREA五月刊封面",
+      "onboard_time": 1744281623,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 199581,
       "num": 199581,
       "word": "美媒质疑特朗普朝令夕改",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1744254682,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196555,
+      "num": 196555,
+      "word": "崔杋圭我真的没空陪你闹了",
+      "onboard_time": 1744281623,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 196535,
@@ -1251,6 +1299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 193741,
+      "num": 193741,
+      "word": "中方有坚定意志和丰富手段",
+      "onboard_time": 1744280122,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 193422,
       "num": 193422,
       "word": "金饰价涨回960元",
@@ -1275,6 +1331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190381,
+      "num": 196200,
+      "word": "暑假档4大买爆古偶",
+      "onboard_time": 1744281562,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190247,
       "num": 190247,
       "word": "周杰伦做饭人类迷惑行为大赏",
@@ -1291,12 +1355,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 186034,
-      "num": 350600,
-      "word": "孙心娅问为什么孟子义演陈情令会被骂",
-      "onboard_time": 1744277901,
-      "rank": 47,
+      "raw_hot": 189525,
+      "num": 189525,
+      "word": "孙俪罗晋新剧后劲上来了",
+      "onboard_time": 1744280842,
+      "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188435,
+      "num": 196131,
+      "word": "女推团综",
+      "onboard_time": 1744281502,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 185244,
@@ -1331,20 +1403,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180512,
+      "num": 195684,
+      "word": "终于有电视剧拍出了女性师徒情",
+      "onboard_time": 1744281502,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179633,
       "num": 179633,
       "word": "曝美暂停进一步限制英伟达H20出口",
       "onboard_time": 1744269261,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 179507,
-      "num": 179507,
-      "word": "中方有坚定意志和丰富手段",
-      "onboard_time": 1744280122,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 179393,
@@ -1399,6 +1471,14 @@
       "num": 174961,
       "word": "老师砸伤9岁女孩头骨案宣判",
       "onboard_time": 1744261344,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174284,
+      "num": 174284,
+      "word": "卫健委回应医院红十字变绿十字",
+      "onboard_time": 1744280241,
       "rank": 38,
       "category": "民生新闻"
     },
@@ -1483,12 +1563,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 161811,
-      "num": 161811,
-      "word": "卫健委回应医院红十字变绿十字",
-      "onboard_time": 1744280241,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 162717,
+      "num": 173528,
+      "word": "在国色芳华看大唐女子图鉴",
+      "onboard_time": 1744281562,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160429,
+      "num": 160429,
+      "word": "柏源生日卡",
+      "onboard_time": 1744281441,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 160181,
@@ -1651,6 +1739,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 146382,
+      "num": 146382,
+      "word": "梁王组合逆转晋级亚锦赛8强",
+      "onboard_time": 1744281682,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145162,
+      "num": 476369,
+      "word": "13级阵风可推断直径30厘米大树",
+      "onboard_time": 1744279942,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144646,
       "num": 144646,
       "word": "碳水循环减肥法",
@@ -1713,14 +1817,6 @@
       "onboard_time": 1744275800,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 139734,
-      "num": 464840,
-      "word": "125份病历中113份存在过度医疗",
-      "onboard_time": 1744277481,
-      "rank": 44,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 139151,
@@ -2083,6 +2179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105547,
+      "num": 194485,
+      "word": "叠纸回应胜诉",
+      "onboard_time": 1744278922,
+      "rank": 32,
+      "category": "游戏,财经"
+    },
+    {
       "raw_hot": 105487,
       "num": 105487,
       "word": "沪指涨1.16%重返3200点",
@@ -2339,6 +2443,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 61988,
+      "num": 172759,
+      "word": "适度减少美国影片进口数量",
+      "onboard_time": 1744281802,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61144,
       "num": 238308,
       "word": "曹县把牡丹香缝进汉服香气2年不散",
@@ -2355,20 +2467,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56529,
-      "num": 476369,
-      "word": "13级阵风可推断直径30厘米大树",
-      "onboard_time": 1744279942,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56322,
       "num": 655026,
       "word": "30年前一起上学30年后一起创业",
       "onboard_time": 1744268481,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45203,
+      "num": 194633,
+      "word": "庄达菲只有刘海很乖",
+      "onboard_time": 1744281623,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 44578,
@@ -2499,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25236,
+      "num": 173247,
+      "word": "春游是最适合大学生的户外运动",
+      "onboard_time": 1744281322,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 24886,
       "num": 138371,
       "word": "白皮书",
@@ -2603,8 +2723,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17390,
-      "num": 157202,
+      "raw_hot": 19346,
+      "num": 174258,
       "word": "周末大风或达台风水准",
       "onboard_time": 1744280663,
       "rank": 39,

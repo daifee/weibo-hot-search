@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744280843167,
+  "endTime": 1744281871545,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -97,6 +97,14 @@
       "onboard_time": 1744275443,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2841905,
+      "num": 2841905,
+      "word": "结婚离婚登记不再需要户口簿了",
+      "onboard_time": 1744280122,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2811443,
@@ -1169,14 +1177,6 @@
       "onboard_time": 1744270522,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 989492,
-      "num": 989492,
-      "word": "结婚离婚登记不再需要户口簿了",
-      "onboard_time": 1744280122,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 988634,
@@ -2411,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 548847,
+      "num": 451289,
+      "word": "王楚然妖后",
+      "onboard_time": 1744279221,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 546258,
       "num": 317084,
       "word": "26岁女孩不吃早饭胆囊长满碎石",
@@ -2899,6 +2907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469022,
+      "num": 340197,
+      "word": "东盟承诺不报复美国关税措施",
+      "onboard_time": 1744281562,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 468349,
       "num": 468349,
       "word": "特朗普称美国伊朗高层将直接会谈",
@@ -3009,14 +3025,6 @@
       "onboard_time": 1743917421,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 451289,
-      "num": 451289,
-      "word": "王楚然妖后",
-      "onboard_time": 1744279221,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 451210,
@@ -4531,6 +4539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 304178,
+      "num": 304178,
+      "word": "适度减少美国影片进口数",
+      "onboard_time": 1744281083,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 304109,
       "num": 304109,
       "word": "胡静怡中传艺考第二名",
@@ -5123,6 +5139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274351,
+      "num": 479040,
+      "word": "戛纳",
+      "onboard_time": 1744276282,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 272524,
       "num": 272524,
       "word": "南京冰雹",
@@ -5603,14 +5627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252725,
-      "num": 479040,
-      "word": "戛纳",
-      "onboard_time": 1744276282,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 252525,
       "num": 476551,
       "word": "榜上佳婿预告",
@@ -5713,6 +5729,14 @@
       "onboard_time": 1744001184,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245509,
+      "num": 350600,
+      "word": "孙心娅问为什么孟子义演陈情令会被骂",
+      "onboard_time": 1744277901,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 245204,
@@ -6105,6 +6129,14 @@
       "onboard_time": 1744014863,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228914,
+      "num": 464840,
+      "word": "125份病历中113份存在过度医疗",
+      "onboard_time": 1744277481,
+      "rank": 44,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 228883,
@@ -7275,6 +7307,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 200026,
+      "num": 209252,
+      "word": "宁艺卓WKOREA五月刊封面",
+      "onboard_time": 1744281623,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 199719,
       "num": 199719,
       "word": "周鸿祎称反感不招35岁以上的人",
@@ -7441,6 +7481,14 @@
       "onboard_time": 1744008023,
       "rank": 44,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 196555,
+      "num": 196555,
+      "word": "崔杋圭我真的没空陪你闹了",
+      "onboard_time": 1744281623,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 196535,
@@ -7633,6 +7681,14 @@
       "onboard_time": 1744194862,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193741,
+      "num": 193741,
+      "word": "中方有坚定意志和丰富手段",
+      "onboard_time": 1744280122,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193714,
@@ -7851,6 +7907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190381,
+      "num": 196200,
+      "word": "暑假档4大买爆古偶",
+      "onboard_time": 1744281562,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190338,
       "num": 179915,
       "word": "00后开始提前处理数字遗产",
@@ -7907,6 +7971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189525,
+      "num": 189525,
+      "word": "孙俪罗晋新剧后劲上来了",
+      "onboard_time": 1744280842,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189443,
       "num": 189443,
       "word": "大侦探",
@@ -7929,6 +8001,14 @@
       "onboard_time": 1743906741,
       "rank": 27,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 188435,
+      "num": 196131,
+      "word": "女推团综",
+      "onboard_time": 1744281502,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 188112,
@@ -8073,14 +8153,6 @@
       "onboard_time": 1744000405,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 186034,
-      "num": 350600,
-      "word": "孙心娅问为什么孟子义演陈情令会被骂",
-      "onboard_time": 1744277901,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 185968,
@@ -8443,6 +8515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180512,
+      "num": 195684,
+      "word": "终于有电视剧拍出了女性师徒情",
+      "onboard_time": 1744281502,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179883,
       "num": 179883,
       "word": "侯佩岑自曝老花眼严重",
@@ -8489,14 +8569,6 @@
       "onboard_time": 1744006282,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179507,
-      "num": 179507,
-      "word": "中方有坚定意志和丰富手段",
-      "onboard_time": 1744280122,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 179393,
@@ -8841,6 +8913,14 @@
       "onboard_time": 1743903980,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 174284,
+      "num": 174284,
+      "word": "卫健委回应医院红十字变绿十字",
+      "onboard_time": 1744280241,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174182,
@@ -9403,6 +9483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162717,
+      "num": 173528,
+      "word": "在国色芳华看大唐女子图鉴",
+      "onboard_time": 1744281562,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162580,
       "num": 162580,
       "word": "雁回时热度",
@@ -9440,14 +9528,6 @@
       "word": "东北虎饲养员喂狼时狼被吓到发抖",
       "onboard_time": 1744031364,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161811,
-      "num": 161811,
-      "word": "卫健委回应医院红十字变绿十字",
-      "onboard_time": 1744280241,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -9553,6 +9633,14 @@
       "onboard_time": 1743951622,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 160429,
+      "num": 160429,
+      "word": "柏源生日卡",
+      "onboard_time": 1744281441,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 160338,
@@ -10491,6 +10579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146382,
+      "num": 146382,
+      "word": "梁王组合逆转晋级亚锦赛8强",
+      "onboard_time": 1744281682,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146194,
       "num": 146194,
       "word": "马斯克痛批纳瓦罗",
@@ -10544,6 +10640,14 @@
       "word": "警方回应网传深圳发生持刀伤人",
       "onboard_time": 1744180101,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145162,
+      "num": 476369,
+      "word": "13级阵风可推断直径30厘米大树",
+      "onboard_time": 1744279942,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -10857,14 +10961,6 @@
       "onboard_time": 1744183102,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 139734,
-      "num": 464840,
-      "word": "125份病历中113份存在过度医疗",
-      "onboard_time": 1744277481,
-      "rank": 44,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 139670,
@@ -12715,6 +12811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105547,
+      "num": 194485,
+      "word": "叠纸回应胜诉",
+      "onboard_time": 1744278922,
+      "rank": 32,
+      "category": "游戏,财经"
+    },
+    {
       "raw_hot": 105544,
       "num": 105544,
       "word": "阿森纳vs皇马",
@@ -14155,6 +14259,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 61988,
+      "num": 172759,
+      "word": "适度减少美国影片进口数量",
+      "onboard_time": 1744281802,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61844,
       "num": 137915,
       "word": "全红婵发动图",
@@ -14337,14 +14449,6 @@
       "onboard_time": 1744117042,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56529,
-      "num": 476369,
-      "word": "13级阵风可推断直径30厘米大树",
-      "onboard_time": 1744279942,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56423,
@@ -14601,6 +14705,14 @@
       "onboard_time": 1744026083,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 45203,
+      "num": 194633,
+      "word": "庄达菲只有刘海很乖",
+      "onboard_time": 1744281623,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 44578,
@@ -15371,6 +15483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25236,
+      "num": 173247,
+      "word": "春游是最适合大学生的户外运动",
+      "onboard_time": 1744281322,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 25096,
       "num": 29368,
       "word": "哪吒敖丙hi6打卡vlog",
@@ -15667,6 +15787,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 19346,
+      "num": 174258,
+      "word": "周末大风或达台风水准",
+      "onboard_time": 1744280663,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19338,
       "num": 140836,
       "word": "巴勒斯坦记者在医院遭空袭致死",
@@ -15721,14 +15849,6 @@
       "onboard_time": 1744129279,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 17390,
-      "num": 157202,
-      "word": "周末大风或达台风水准",
-      "onboard_time": 1744280663,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17206,
