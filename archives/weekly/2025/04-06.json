@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744292707004,
+  "endTime": 1744295054206,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -449,6 +449,14 @@
       "onboard_time": 1743905300,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1638741,
+      "num": 1638741,
+      "word": "张嘉倪营业了",
+      "onboard_time": 1744293143,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1590644,
@@ -1227,6 +1235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 976978,
+      "num": 488673,
+      "word": "短剧疑似AI换脸热巴",
+      "onboard_time": 1744294463,
+      "rank": 11,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 976586,
       "num": 976586,
       "word": "李斌和刘强东一起吃外卖",
@@ -1947,6 +1963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 708602,
+      "num": 708602,
+      "word": "美贸易代表被嘲未提前知晓关税调整",
+      "onboard_time": 1744290322,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 707811,
       "num": 283400,
       "word": "从前车马很慢所以丑事也传得慢",
@@ -1985,14 +2009,6 @@
       "onboard_time": 1744112422,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 685589,
-      "num": 685589,
-      "word": "美贸易代表被嘲未提前知晓关税调整",
-      "onboard_time": 1744290322,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 684715,
@@ -2129,6 +2145,14 @@
       "onboard_time": 1744101442,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 641264,
+      "num": 641264,
+      "word": "国家电影局发声",
+      "onboard_time": 1744292963,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 640210,
@@ -3571,6 +3595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 400293,
+      "num": 400293,
+      "word": "Celine酒会上的刘诗诗",
+      "onboard_time": 1744291762,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 400052,
       "num": 400052,
       "word": "刘奕畅讲述与虞书欣吵架始末",
@@ -4179,6 +4211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342959,
+      "num": 507315,
+      "word": "10级狂风堪比台风过境",
+      "onboard_time": 1744285102,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 342551,
       "num": 342551,
       "word": "每天吃2个鸡蛋身体有什么好处",
@@ -4481,6 +4521,14 @@
       "onboard_time": 1744252402,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318168,
+      "num": 318168,
+      "word": "男子婚后发现妻子4年结过3次婚",
+      "onboard_time": 1744292122,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317451,
@@ -4865,14 +4913,6 @@
       "onboard_time": 1744136835,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 295092,
-      "num": 295092,
-      "word": "Celine酒会上的刘诗诗",
-      "onboard_time": 1744291762,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 295031,
@@ -5699,6 +5739,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 256748,
+      "num": 1487125,
+      "word": "中国不接受施压威胁讹诈",
+      "onboard_time": 1744292484,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 256329,
       "num": 256329,
       "word": "假期最后1天",
@@ -6499,6 +6547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225623,
+      "num": 225623,
+      "word": "文明办回应上海地铁男子猥亵女性",
+      "onboard_time": 1744294524,
+      "rank": 33,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 225458,
       "num": 225458,
       "word": "吴宣仪的作息时间表",
@@ -7035,12 +7091,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209821,
-      "num": 209821,
-      "word": "男子婚后发现妻子4年结过3次婚",
-      "onboard_time": 1744292122,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 210192,
+      "num": 210192,
+      "word": "外交部回应美对华船只征收港口停靠费",
+      "onboard_time": 1744293504,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 209787,
@@ -7169,6 +7225,14 @@
       "onboard_time": 1743896597,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 207676,
+      "num": 207676,
+      "word": "于适全英采访",
+      "onboard_time": 1744292063,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 207441,
@@ -8075,6 +8139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191891,
+      "num": 287235,
+      "word": "太湖湾音乐节阵容",
+      "onboard_time": 1744293984,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191815,
       "num": 191815,
       "word": "华晨宇人生第一次穿一整身豹纹",
@@ -8089,6 +8161,14 @@
       "onboard_time": 1744064416,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 191493,
+      "num": 283480,
+      "word": "新说唱选手还原严浩翔淘汰阿尔曼",
+      "onboard_time": 1744292363,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 191401,
@@ -8273,14 +8353,6 @@
       "onboard_time": 1743906741,
       "rank": 27,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 188425,
-      "num": 188425,
-      "word": "于适全英采访",
-      "onboard_time": 1744292063,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 188112,
@@ -8883,20 +8955,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178864,
-      "num": 178864,
-      "word": "10级狂风堪比台风过境",
-      "onboard_time": 1744285102,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 178852,
       "num": 179397,
       "word": "家属称38万元停尸费已全部减免",
       "onboard_time": 1743932602,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178800,
+      "num": 178800,
+      "word": "李惠利活动生图",
+      "onboard_time": 1744293143,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 178712,
@@ -9715,6 +9787,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 164414,
+      "num": 299023,
+      "word": "陈都灵现代贵女造型",
+      "onboard_time": 1744291402,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164332,
       "num": 164332,
       "word": "排骨玉米胡萝卜汤",
@@ -10371,6 +10451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154683,
+      "num": 154683,
+      "word": "黄子韬间接持股卫生巾公司",
+      "onboard_time": 1744292664,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154670,
       "num": 154670,
       "word": "案发后周立人试图隐匿和销毁重要物证",
@@ -10915,14 +11003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146352,
-      "num": 299023,
-      "word": "陈都灵现代贵女造型",
-      "onboard_time": 1744291402,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146194,
       "num": 146194,
       "word": "马斯克痛批纳瓦罗",
@@ -11211,6 +11291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141156,
+      "num": 141156,
+      "word": "BLG对战AL",
+      "onboard_time": 1744288103,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141036,
       "num": 381261,
       "word": "周末局地10级阵风堪比台风过境",
@@ -11225,6 +11313,14 @@
       "onboard_time": 1743920480,
       "rank": 39,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 140588,
+      "num": 140588,
+      "word": "张杰今天一直在彩排",
+      "onboard_time": 1744294884,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 140333,
@@ -11441,14 +11537,6 @@
       "onboard_time": 1743939922,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 138706,
-      "num": 138706,
-      "word": "新说唱选手还原严浩翔淘汰阿尔曼",
-      "onboard_time": 1744292363,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 138685,
@@ -11923,14 +12011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130542,
-      "num": 130542,
-      "word": "黄子韬间接持股卫生巾公司",
-      "onboard_time": 1744292664,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130451,
       "num": 130451,
       "word": "黄芪水",
@@ -11993,6 +12073,14 @@
       "onboard_time": 1744262183,
       "rank": 24,
       "category": "互联网,教育"
+    },
+    {
+      "raw_hot": 129822,
+      "num": 129822,
+      "word": "苹果英伟达特斯拉跌超4%",
+      "onboard_time": 1744294944,
+      "rank": 49,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 129761,
@@ -16355,6 +16443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 18820,
+      "num": 170117,
+      "word": "美国夫妇100万连住游轮15年",
+      "onboard_time": 1744294463,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 18730,
       "num": 93987,
       "word": "朝鲜时隔6年再办国际马拉松",
@@ -16793,14 +16889,6 @@
       "onboard_time": 1744087345,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8854,
-      "num": 923289,
-      "word": "中国不接受施压威胁讹诈",
-      "onboard_time": 1744292484,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 8853,

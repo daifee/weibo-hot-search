@@ -1,0 +1,410 @@
+{
+  "runTime": 1744295054206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3101309,
+        "num": 3101309,
+        "word": "周六 不出门",
+        "onboard_time": 1744287502,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1638741,
+        "num": 1638741,
+        "word": "张嘉倪营业了",
+        "onboard_time": 1744293143,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256748,
+        "num": 1487125,
+        "word": "中国不接受施压威胁讹诈",
+        "onboard_time": 1744292484,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1385571,
+        "num": 1385571,
+        "word": "结婚离婚登记不再需要户口簿了",
+        "onboard_time": 1744280122,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 708602,
+        "num": 708602,
+        "word": "美贸易代表被嘲未提前知晓关税调整",
+        "onboard_time": 1744290322,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 663789,
+        "num": 663789,
+        "word": "杀害女教师六旬男子靠女友工资生活",
+        "onboard_time": 1744290322,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641264,
+        "num": 641264,
+        "word": "国家电影局发声",
+        "onboard_time": 1744292963,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 528163,
+        "num": 528163,
+        "word": "中国电影市场坚持高水平对外开放",
+        "onboard_time": 1744288703,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 300459,
+        "num": 523587,
+        "word": "腾讯视频Q2预排",
+        "onboard_time": 1744289302,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342959,
+        "num": 507315,
+        "word": "10级狂风堪比台风过境",
+        "onboard_time": 1744285102,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1018168,
+        "num": 494494,
+        "word": "特朗普家族几天获利300亿美元",
+        "onboard_time": 1744275443,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 976978,
+        "num": 488673,
+        "word": "短剧疑似AI换脸热巴",
+        "onboard_time": 1744294463,
+        "rank": 11,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 483096,
+        "num": 483096,
+        "word": "适度减少美国影片进口数",
+        "onboard_time": 1744281083,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 957476,
+        "num": 477794,
+        "word": "蜜雪冰城已改回红色附近商户发声",
+        "onboard_time": 1744283362,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 755272,
+        "num": 476894,
+        "word": "欧盟对美反制措施暂停90天",
+        "onboard_time": 1744285282,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 466059,
+        "num": 466059,
+        "word": "外交部回应美对华征收125%关税",
+        "onboard_time": 1744271362,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 400293,
+        "num": 400293,
+        "word": "Celine酒会上的刘诗诗",
+        "onboard_time": 1744291762,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92783,
+        "num": 396513,
+        "word": "星耀8起步即旗舰预售价13.98万起",
+        "onboard_time": 1744292363,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154880,
+        "num": 395946,
+        "word": "OPhone的含金量还在上升",
+        "onboard_time": 1744291164,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 395731,
+        "num": 395731,
+        "word": "黄晓明晒增肥减肥对比照",
+        "onboard_time": 1744277541,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394603,
+        "num": 394603,
+        "word": "安踏拟2.9亿美元收购狼爪",
+        "onboard_time": 1744285943,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 391334,
+        "num": 391334,
+        "word": "iPhone16回收价已涨300元",
+        "onboard_time": 1744282702,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 318168,
+        "num": 318168,
+        "word": "男子婚后发现妻子4年结过3次婚",
+        "onboard_time": 1744292122,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317106,
+        "num": 317106,
+        "word": "男子2400万买房儿媳离婚分走1500万",
+        "onboard_time": 1744284682,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308948,
+        "num": 308948,
+        "word": "知情人谈华人钢铁大王在菲被绑撕票",
+        "onboard_time": 1744283602,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302292,
+        "num": 302292,
+        "word": "36岁梁洛施状态",
+        "onboard_time": 1744285342,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203146,
+        "num": 299716,
+        "word": "几万岁的魔尊还在天台玩翘脚文学",
+        "onboard_time": 1744291102,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199372,
+        "num": 293366,
+        "word": "邓超还是低估了网友的抽象",
+        "onboard_time": 1744285583,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191891,
+        "num": 287235,
+        "word": "太湖湾音乐节阵容",
+        "onboard_time": 1744293984,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191493,
+        "num": 283480,
+        "word": "新说唱选手还原严浩翔淘汰阿尔曼",
+        "onboard_time": 1744292363,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279318,
+        "num": 279318,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246503,
+        "num": 246503,
+        "word": "陈都灵成都",
+        "onboard_time": 1744289604,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228898,
+        "num": 228898,
+        "word": "对美加征84%关税开始执行",
+        "onboard_time": 1744258463,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225623,
+        "num": 225623,
+        "word": "文明办回应上海地铁男子猥亵女性",
+        "onboard_time": 1744294524,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 210192,
+        "num": 210192,
+        "word": "外交部回应美对华船只征收港口停靠费",
+        "onboard_time": 1744293504,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207676,
+        "num": 207676,
+        "word": "于适全英采访",
+        "onboard_time": 1744292063,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203975,
+        "num": 203975,
+        "word": "北京将出现陆地罕见极端大风",
+        "onboard_time": 1744265124,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191138,
+        "num": 191138,
+        "word": "女子被精神病要堵住强制医疗漏洞",
+        "onboard_time": 1744290204,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178800,
+        "num": 178800,
+        "word": "李惠利活动生图",
+        "onboard_time": 1744293143,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18820,
+        "num": 170117,
+        "word": "美国夫妇100万连住游轮15年",
+        "onboard_time": 1744294463,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169896,
+        "num": 169896,
+        "word": "无忧渡新剧照",
+        "onboard_time": 1744290262,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164414,
+        "num": 164414,
+        "word": "陈都灵现代贵女造型",
+        "onboard_time": 1744291402,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159181,
+        "num": 159181,
+        "word": "被拼多多百元跑鞋震惊了",
+        "onboard_time": 1744282882,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154683,
+        "num": 154683,
+        "word": "黄子韬间接持股卫生巾公司",
+        "onboard_time": 1744292664,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154028,
+        "num": 154028,
+        "word": "夫妻二人削骨隆鼻潜逃十年后被抓",
+        "onboard_time": 1744273943,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 145788,
+        "num": 145788,
+        "word": "严浩翔新综艺录制2天4套造型",
+        "onboard_time": 1744288824,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143040,
+        "num": 143040,
+        "word": "苹果紧急往美国运iPhone",
+        "onboard_time": 1744252162,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141156,
+        "num": 141156,
+        "word": "BLG对战AL",
+        "onboard_time": 1744288103,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140588,
+        "num": 140588,
+        "word": "张杰今天一直在彩排",
+        "onboard_time": 1744294884,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129822,
+        "num": 129822,
+        "word": "苹果英伟达特斯拉跌超4%",
+        "onboard_time": 1744294944,
+        "rank": 49,
+        "category": "数码,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央周边工作会议在北京举行#"
+    }
+  }
+}

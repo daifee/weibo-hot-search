@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744292707004,
+  "endTime": 1744295054206,
   "band_list": [
     {
       "raw_hot": 8884094,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1638741,
+      "num": 1638741,
+      "word": "张嘉倪营业了",
+      "onboard_time": 1744293143,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1548846,
       "num": 679280,
       "word": "考公35次上岸",
@@ -241,6 +249,14 @@
       "onboard_time": 1744283362,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 976978,
+      "num": 488673,
+      "word": "短剧疑似AI换脸热巴",
+      "onboard_time": 1744294463,
+      "rank": 11,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 940194,
@@ -355,20 +371,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 708602,
+      "num": 708602,
+      "word": "美贸易代表被嘲未提前知晓关税调整",
+      "onboard_time": 1744290322,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 694343,
       "num": 351517,
       "word": "金宣虎wink笑的风吹到了内娱",
       "onboard_time": 1744259783,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 685589,
-      "num": 685589,
-      "word": "美贸易代表被嘲未提前知晓关税调整",
-      "onboard_time": 1744290322,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 678194,
@@ -385,6 +401,14 @@
       "onboard_time": 1744283602,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 641264,
+      "num": 641264,
+      "word": "国家电影局发声",
+      "onboard_time": 1744292963,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 630374,
@@ -739,6 +763,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 400293,
+      "num": 400293,
+      "word": "Celine酒会上的刘诗诗",
+      "onboard_time": 1744291762,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 394235,
       "num": 394235,
       "word": "对美所有进口商品加征84%关税",
@@ -819,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342959,
+      "num": 507315,
+      "word": "10级狂风堪比台风过境",
+      "onboard_time": 1744285102,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 342551,
       "num": 342551,
       "word": "每天吃2个鸡蛋身体有什么好处",
@@ -857,6 +897,14 @@
       "onboard_time": 1744252402,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318168,
+      "num": 318168,
+      "word": "男子婚后发现妻子4年结过3次婚",
+      "onboard_time": 1744292122,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316865,
@@ -929,14 +977,6 @@
       "onboard_time": 1744199485,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 295092,
-      "num": 295092,
-      "word": "Celine酒会上的刘诗诗",
-      "onboard_time": 1744291762,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 293831,
@@ -1115,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256748,
+      "num": 1487125,
+      "word": "中国不接受施压威胁讹诈",
+      "onboard_time": 1744292484,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 252465,
       "num": 252465,
       "word": "股市",
@@ -1243,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225623,
+      "num": 225623,
+      "word": "文明办回应上海地铁男子猥亵女性",
+      "onboard_time": 1744294524,
+      "rank": 33,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 225458,
       "num": 225458,
       "word": "吴宣仪的作息时间表",
@@ -1339,12 +1395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209821,
-      "num": 209821,
-      "word": "男子婚后发现妻子4年结过3次婚",
-      "onboard_time": 1744292122,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 210192,
+      "num": 210192,
+      "word": "外交部回应美对华船只征收港口停靠费",
+      "onboard_time": 1744293504,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 209106,
@@ -1353,6 +1409,14 @@
       "onboard_time": 1744290204,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207676,
+      "num": 207676,
+      "word": "于适全英采访",
+      "onboard_time": 1744292063,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 207258,
@@ -1579,6 +1643,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 191891,
+      "num": 287235,
+      "word": "太湖湾音乐节阵容",
+      "onboard_time": 1744293984,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 191493,
+      "num": 283480,
+      "word": "新说唱选手还原严浩翔淘汰阿尔曼",
+      "onboard_time": 1744292363,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190476,
       "num": 284140,
       "word": "JackeyLove呼吁加快比赛进度",
@@ -1633,14 +1713,6 @@
       "onboard_time": 1744282942,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 188425,
-      "num": 188425,
-      "word": "于适全英采访",
-      "onboard_time": 1744292063,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 185921,
@@ -1707,12 +1779,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178864,
-      "num": 178864,
-      "word": "10级狂风堪比台风过境",
-      "onboard_time": 1744285102,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 178800,
+      "num": 178800,
+      "word": "李惠利活动生图",
+      "onboard_time": 1744293143,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 177661,
@@ -1867,6 +1939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 164414,
+      "num": 299023,
+      "word": "陈都灵现代贵女造型",
+      "onboard_time": 1744291402,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162717,
       "num": 173528,
       "word": "在国色芳华看大唐女子图鉴",
@@ -1969,6 +2049,14 @@
       "onboard_time": 1744244666,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154683,
+      "num": 154683,
+      "word": "黄子韬间接持股卫生巾公司",
+      "onboard_time": 1744292664,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 154092,
@@ -2075,14 +2163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146352,
-      "num": 299023,
-      "word": "陈都灵现代贵女造型",
-      "onboard_time": 1744291402,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145162,
       "num": 476369,
       "word": "13级阵风可推断直径30厘米大树",
@@ -2155,12 +2235,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141156,
+      "num": 141156,
+      "word": "BLG对战AL",
+      "onboard_time": 1744288103,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141036,
       "num": 381261,
       "word": "周末局地10级阵风堪比台风过境",
       "onboard_time": 1744262303,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140588,
+      "num": 140588,
+      "word": "张杰今天一直在彩排",
+      "onboard_time": 1744294884,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 139756,
@@ -2176,14 +2272,6 @@
       "word": "祝绪丹就这么小心翼翼地闯祸",
       "onboard_time": 1744267401,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 138706,
-      "num": 138706,
-      "word": "新说唱选手还原严浩翔淘汰阿尔曼",
-      "onboard_time": 1744292363,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -2307,14 +2395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130542,
-      "num": 130542,
-      "word": "黄子韬间接持股卫生巾公司",
-      "onboard_time": 1744292664,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130039,
       "num": 260740,
       "word": "陈德容 我表情悠哉跳个大概",
@@ -2329,6 +2409,14 @@
       "onboard_time": 1744262183,
       "rank": 24,
       "category": "互联网,教育"
+    },
+    {
+      "raw_hot": 129822,
+      "num": 129822,
+      "word": "苹果英伟达特斯拉跌超4%",
+      "onboard_time": 1744294944,
+      "rank": 49,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 129611,
@@ -3259,6 +3347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18820,
+      "num": 170117,
+      "word": "美国夫妇100万连住游轮15年",
+      "onboard_time": 1744294463,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 18723,
       "num": 199006,
       "word": "绍兴妹妹为绍兴做代言",
@@ -3363,14 +3459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8854,
-      "num": 923289,
-      "word": "中国不接受施压威胁讹诈",
-      "onboard_time": 1744292484,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 8302,
       "num": 192312,
       "word": "陆光祖晋级亚锦赛8强",
@@ -3397,6 +3485,9 @@
     },
     {
       "word": "#跟着总书记领略中华文明#"
+    },
+    {
+      "word": "#中央周边工作会议在北京举行#"
     }
   ]
 }
