@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/11 06:24:48
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/11 06:41:26
 </p>
 </blockquote>
 <p>
@@ -1677,6 +1677,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E7%A8%8E%E6%88%98%E6%98%AF%E5%90%A6%E8%BF%98%E4%BC%9A%E7%BB%A7%E7%BB%AD%E5%8D%87%E7%BA%A7%23" target="weibo">
+关税战是否还会继续升级（热度：987558）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%B7%B2%E6%94%B9%E5%9B%9E%E7%BA%A2%E8%89%B2%E9%99%84%E8%BF%91%E5%95%86%E6%88%B7%E5%8F%91%E5%A3%B0%23" target="weibo">
 蜜雪冰城已改回红色附近商户发声（热度：986130）
 </a>
@@ -2321,12 +2327,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A4%E7%8B%AC%E7%97%87%E7%94%B7%E5%AD%A9%E5%9B%A0%E9%AB%98%E9%A2%9C%E5%80%BC%E8%B5%B0%E7%BA%A2%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0%23" target="weibo">
 孤独症男孩因高颜值走红妈妈发声（热度：802897）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E7%A8%8E%E6%88%98%E6%98%AF%E5%90%A6%E8%BF%98%E4%BC%9A%E7%BB%A7%E7%BB%AD%E5%8D%87%E7%BA%A7%23" target="weibo">
-关税战是否还会继续升级（热度：802690）
 </a>
 </li>
 
@@ -5475,6 +5475,12 @@ IU三提百想视后（热度：380483）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%96%E5%89%8D%E5%AF%B9AI%E8%AF%B4%E6%88%91%E8%A6%81%E5%8E%BB%E4%B8%96%E4%BA%86%E8%B1%86%E5%8C%85%23" target="weibo">
+父亲离世前对AI说我要去世了豆包（热度：377636）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%A6%81%E6%AD%A2%E9%A9%BB%E5%8D%8E%E4%BA%BA%E5%91%98%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%81%8B%E7%88%B1%23" target="weibo">
 曝美政府禁止驻华人员与中国公民恋爱（热度：377340）
 </a>
@@ -6005,12 +6011,6 @@ BoA向朴娜莱道歉（热度：353684）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%B0%8F%E5%8D%8E%E6%8F%90%E5%87%BA%E5%85%AC%E5%B8%83%E5%85%A5%E5%AE%A4%E6%8A%A2%E5%A9%B4%E6%A1%88%E5%AB%8C%E7%8A%AF%E7%85%A7%E7%89%87%23" target="weibo">
 杜小华提出公布入室抢婴案嫌犯照片（热度：346363）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%AF%B4%E5%94%B1%E9%80%89%E6%89%8Bdiss%E9%BB%84%E5%AD%90%E9%9F%AC%23" target="weibo">
-新说唱选手diss黄子韬（热度：346229）
 </a>
 </li>
 

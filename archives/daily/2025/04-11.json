@@ -1,6 +1,6 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744323888184,
+  "endTime": 1744324886654,
   "band_list": [
     {
       "raw_hot": 1275101,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 802690,
-      "num": 802690,
+      "raw_hot": 987558,
+      "num": 987558,
       "word": "关税战是否还会继续升级",
       "onboard_time": 1744301061,
       "rank": 7,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 377636,
+      "num": 377636,
+      "word": "父亲离世前对AI说我要去世了豆包",
+      "onboard_time": 1744307116,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374434,
       "num": 252593,
       "word": "张檬想40岁前要二胎",
@@ -121,14 +129,6 @@
       "onboard_time": 1744292963,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 260863,
-      "num": 236345,
-      "word": "父亲离世前对AI说我要去世了豆包",
-      "onboard_time": 1744307116,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 258827,
@@ -195,12 +195,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172738,
+      "num": 172738,
+      "word": "古天乐右眼视网膜穿了两个洞",
+      "onboard_time": 1744314074,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163716,
       "num": 245609,
       "word": "李荣浩石家庄演唱会",
       "onboard_time": 1744298843,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161043,
+      "num": 161043,
+      "word": "外交部回应为何提醒公民谨慎赴美",
+      "onboard_time": 1744304717,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 157619,
+      "num": 157619,
+      "word": "男子婚后发现妻子4年结过3次婚",
+      "onboard_time": 1744292122,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156216,
+      "num": 89810,
+      "word": "特斯拉市值一夜蒸发超6000亿",
+      "onboard_time": 1744314074,
+      "rank": 30,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 155919,
@@ -243,14 +275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132572,
-      "num": 136149,
-      "word": "外交部回应为何提醒公民谨慎赴美",
-      "onboard_time": 1744304717,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 131236,
       "num": 131236,
       "word": "多家国内航司将座椅更换成轻薄型",
@@ -275,28 +299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120771,
+      "num": 157781,
+      "word": "女孩谎称生病剃光头外公果然剃了",
+      "onboard_time": 1744323917,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120304,
+      "num": 120304,
+      "word": "重大气象灾害三级应急响应",
+      "onboard_time": 1744316594,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119238,
       "num": 264672,
       "word": "京津冀大风橙色预警",
       "onboard_time": 1744302260,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118750,
-      "num": 106994,
-      "word": "男子婚后发现妻子4年结过3次婚",
-      "onboard_time": 1744292122,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114607,
-      "num": 62412,
-      "word": "特斯拉市值一夜蒸发超6000亿",
-      "onboard_time": 1744314074,
-      "rank": 30,
-      "category": "财经,汽车"
     },
     {
       "raw_hot": 113481,
@@ -339,28 +363,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 105461,
-      "num": 105461,
-      "word": "古天乐右眼视网膜穿了两个洞",
-      "onboard_time": 1744314074,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 96064,
-      "num": 96064,
-      "word": "重大气象灾害三级应急响应",
-      "onboard_time": 1744316594,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94584,
       "num": 94584,
       "word": "澳门世界杯4月13日抽签",
       "onboard_time": 1744300282,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89254,
+      "num": 89254,
+      "word": "多米尼加俱乐部坍塌已致218死",
+      "onboard_time": 1744305976,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88127,
@@ -435,14 +451,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 70381,
-      "num": 70381,
-      "word": "多米尼加俱乐部坍塌已致218死",
-      "onboard_time": 1744305976,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 65453,
       "num": 65453,
       "word": "外交部回应美对华船只征收港口停靠费",
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 54257,
-      "num": 47217,
+      "num": 52303,
       "word": "普拉达超100亿收购范思哲",
       "onboard_time": 1744307116,
       "rank": 20,
@@ -472,6 +480,22 @@
       "word": "男子轻信陌生人办带编工作被骗167万",
       "onboard_time": 1744303458,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43425,
+      "num": 43425,
+      "word": "孙千Celine生图",
+      "onboard_time": 1744319954,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 41315,
+      "num": 41315,
+      "word": "今年的牡丹花王长这样",
+      "onboard_time": 1744319113,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -492,27 +516,11 @@
     },
     {
       "raw_hot": 32304,
-      "num": 32304,
+      "num": 34621,
       "word": "腾讯视频Q2预排",
       "onboard_time": 1744289302,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32017,
-      "num": 32017,
-      "word": "孙千Celine生图",
-      "onboard_time": 1744319954,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 28787,
-      "num": 28787,
-      "word": "今年的牡丹花王长这样",
-      "onboard_time": 1744319113,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23540,
