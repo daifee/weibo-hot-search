@@ -1,0 +1,410 @@
+{
+  "runTime": 1744262655931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2463366,
+        "num": 2463366,
+        "word": "苹果紧急往美国运iPhone",
+        "onboard_time": 1744252162,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2030744,
+        "num": 2030744,
+        "word": "4月10日12时01分",
+        "onboard_time": 1744258643,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114339,
+        "num": 1967199,
+        "word": "中美经贸关系互利共赢的本质不容歪曲",
+        "onboard_time": 1744244187,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1905413,
+        "num": 1905413,
+        "word": "对美加征84%关税开始执行",
+        "onboard_time": 1744258463,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 928475,
+        "num": 928475,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 520389,
+        "num": 520389,
+        "word": "金价创5年来最大涨幅",
+        "onboard_time": 1744253362,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 382521,
+        "num": 382521,
+        "word": "我国自主研发箱子让宠物能上高铁",
+        "onboard_time": 1744250663,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280522,
+        "num": 280522,
+        "word": "巴恩斯绝杀勇士",
+        "onboard_time": 1744260563,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253186,
+        "num": 253186,
+        "word": "我叫电影今年130岁了",
+        "onboard_time": 1744259063,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250927,
+        "num": 250927,
+        "word": "中国发现高纯石英矿",
+        "onboard_time": 1744252942,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1126137,
+        "num": 250925,
+        "word": "做食堂阿姨的北大研究生已离职",
+        "onboard_time": 1744257264,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1089649,
+        "num": 250924,
+        "word": "被砸伤头骨的9岁女孩脑组织已坏死",
+        "onboard_time": 1744255584,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 694343,
+        "num": 250922,
+        "word": "金宣虎wink笑的风吹到了内娱",
+        "onboard_time": 1744259783,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35057,
+        "num": 250920,
+        "word": "周末局地10级阵风堪比台风过境",
+        "onboard_time": 1744262303,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114730,
+        "num": 250916,
+        "word": "孤寡老人离世侄子起诉继承全部遗产",
+        "onboard_time": 1744261705,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689594,
+        "num": 250913,
+        "word": "医托骗1.68米女子正常腿断骨成X腿",
+        "onboard_time": 1744249942,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374794,
+        "num": 250911,
+        "word": "陈赫摔倒受伤的是黄磊",
+        "onboard_time": 1744260744,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576492,
+        "num": 250909,
+        "word": "孟子义又语出惊人了",
+        "onboard_time": 1744255102,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158093,
+        "num": 250908,
+        "word": "中国纯电车技术又破世界纪录",
+        "onboard_time": 1744261583,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 140136,
+        "num": 250905,
+        "word": "处方药和OTC有什么区别",
+        "onboard_time": 1744261583,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212516,
+        "num": 250903,
+        "word": "五哈5定档",
+        "onboard_time": 1744252342,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497819,
+        "num": 250901,
+        "word": "北京40岁地铁猥亵惯犯被抓后下跪",
+        "onboard_time": 1744261225,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379473,
+        "num": 250896,
+        "word": "JYP写了中国台湾省",
+        "onboard_time": 1744243466,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225779,
+        "num": 250893,
+        "word": "内娱有自己的白夜行",
+        "onboard_time": 1744261943,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49904,
+        "num": 250893,
+        "word": "deepseek超强论文指令",
+        "onboard_time": 1744262183,
+        "rank": 24,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 368256,
+        "num": 250891,
+        "word": "第一批疯狂防晒的人现在都怎样了",
+        "onboard_time": 1744258164,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316225,
+        "num": 250888,
+        "word": "梁田回应35岁不结婚",
+        "onboard_time": 1744255403,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250886,
+        "num": 250886,
+        "word": "严浩翔说有diss是很正常的事",
+        "onboard_time": 1744253482,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185244,
+        "num": 239709,
+        "word": "春来定风波开播",
+        "onboard_time": 1744262003,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236629,
+        "num": 236629,
+        "word": "特朗普要再犯一次百年前的错误吗",
+        "onboard_time": 1744240581,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230670,
+        "num": 230670,
+        "word": "叠纸胜诉",
+        "onboard_time": 1744258164,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218052,
+        "num": 218052,
+        "word": "12岁180cm孩子医生说不是常态",
+        "onboard_time": 1744259425,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210196,
+        "num": 210196,
+        "word": "外国人吃到中国科技的细糠了",
+        "onboard_time": 1744262183,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157274,
+        "num": 194843,
+        "word": "严浩翔大通宵状态",
+        "onboard_time": 1744261165,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193105,
+        "num": 193105,
+        "word": "时代少年团 李宁",
+        "onboard_time": 1744261344,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192286,
+        "num": 192286,
+        "word": "特朗普关税地图炮砸向美国老百姓",
+        "onboard_time": 1744165402,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187461,
+        "num": 187461,
+        "word": "欧盟对美加征25%关税",
+        "onboard_time": 1744204348,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185927,
+        "num": 185927,
+        "word": "赵露思 永远没有告别就好了",
+        "onboard_time": 1744244305,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174961,
+        "num": 174961,
+        "word": "老师砸伤9岁女孩头骨案宣判",
+        "onboard_time": 1744261344,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182534,
+        "num": 172894,
+        "word": "科学家颜宁转发朱一龙自拍",
+        "onboard_time": 1744254024,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64038,
+        "num": 170366,
+        "word": "魏大勋硬核送花",
+        "onboard_time": 1744262602,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168893,
+        "num": 168893,
+        "word": "马云现身阿里巴巴云谷园区",
+        "onboard_time": 1744261764,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165962,
+        "num": 165962,
+        "word": "26岁女孩不吃早饭胆囊长满碎石",
+        "onboard_time": 1744246646,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165503,
+        "num": 165503,
+        "word": "孙俪一个月连播两剧",
+        "onboard_time": 1744259844,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159581,
+        "num": 159581,
+        "word": "勇士vs马刺",
+        "onboard_time": 1744259544,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154092,
+        "num": 154092,
+        "word": "王玉雯 我微笑唇",
+        "onboard_time": 1744260505,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151539,
+        "num": 151539,
+        "word": "女子挖鼻孔后高烧40度肿到难睁眼",
+        "onboard_time": 1744254203,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151522,
+        "num": 151522,
+        "word": "金饰价跌三次后迎三连涨",
+        "onboard_time": 1744258343,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146362,
+        "num": 146362,
+        "word": "张碧晨说今年会是演艺生涯最忙的一年",
+        "onboard_time": 1744262423,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145424,
+        "num": 145424,
+        "word": "甲亢哥带火的卤鹅哥被奖10万元",
+        "onboard_time": 1744262542,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央周边工作会议在京举行#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744260318161,
+  "endTime": 1744262655931,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -448,6 +448,14 @@
       "word": "央视曝色情举牌盯上未成年",
       "onboard_time": 1743816980,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2030744,
+      "num": 2030744,
+      "word": "4月10日12时01分",
+      "onboard_time": 1744258643,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3427,6 +3435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694343,
+      "num": 250922,
+      "word": "金宣虎wink笑的风吹到了内娱",
+      "onboard_time": 1744259783,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 693434,
       "num": 693434,
       "word": "缅甸两女孩废墟里教科书式自救成功",
@@ -4041,14 +4057,6 @@
       "onboard_time": 1743922341,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 597339,
-      "num": 597339,
-      "word": "4月10日12时01分",
-      "onboard_time": 1744258643,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 597026,
@@ -5041,6 +5049,14 @@
       "onboard_time": 1743998903,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 497819,
+      "num": 250901,
+      "word": "北京40岁地铁猥亵惯犯被抓后下跪",
+      "onboard_time": 1744261225,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 497362,
@@ -6873,6 +6889,14 @@
       "onboard_time": 1743495744,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 374794,
+      "num": 250911,
+      "word": "陈赫摔倒受伤的是黄磊",
+      "onboard_time": 1744260744,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 373676,
@@ -9251,6 +9275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280522,
+      "num": 280522,
+      "word": "巴恩斯绝杀勇士",
+      "onboard_time": 1744260563,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280354,
       "num": 280354,
       "word": "微信引用回复功能更新",
@@ -11251,6 +11283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225779,
+      "num": 250893,
+      "word": "内娱有自己的白夜行",
+      "onboard_time": 1744261943,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225669,
       "num": 225669,
       "word": "人人人人栈桥人人人人",
@@ -11707,6 +11747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 218052,
+      "num": 218052,
+      "word": "12岁180cm孩子医生说不是常态",
+      "onboard_time": 1744259425,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217420,
       "num": 169191,
       "word": "对金银细软有了更深刻的理解",
@@ -11801,14 +11849,6 @@
       "onboard_time": 1744000224,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216014,
-      "num": 216014,
-      "word": "金宣虎wink笑的风吹到了内娱",
-      "onboard_time": 1744259783,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 215860,
@@ -12179,6 +12219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210196,
+      "num": 210196,
+      "word": "外国人吃到中国科技的细糠了",
+      "onboard_time": 1744262183,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210177,
       "num": 280995,
       "word": "入室抢婴案邻居5次供述均未认罪",
@@ -12217,14 +12265,6 @@
       "onboard_time": 1743926781,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 209451,
-      "num": 209451,
-      "word": "12岁180cm孩子医生说不是常态",
-      "onboard_time": 1744259425,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209440,
@@ -13931,6 +13971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193105,
+      "num": 193105,
+      "word": "时代少年团 李宁",
+      "onboard_time": 1744261344,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192906,
       "num": 192906,
       "word": "昀牵孟绕",
@@ -14761,6 +14809,14 @@
       "onboard_time": 1743422304,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185244,
+      "num": 239709,
+      "word": "春来定风波开播",
+      "onboard_time": 1744262003,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 185220,
@@ -15915,6 +15971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174961,
+      "num": 174961,
+      "word": "老师砸伤9岁女孩头骨案宣判",
+      "onboard_time": 1744261344,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174946,
       "num": 323939,
       "word": "李在明全力参选韩国总统",
@@ -16449,6 +16513,14 @@
       "onboard_time": 1743730040,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168893,
+      "num": 168893,
+      "word": "马云现身阿里巴巴云谷园区",
+      "onboard_time": 1744261764,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 168714,
@@ -17603,6 +17675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 158093,
+      "num": 250908,
+      "word": "中国纯电车技术又破世界纪录",
+      "onboard_time": 1744261583,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 158044,
       "num": 184397,
       "word": "宋妍霏腰封叠穿",
@@ -17712,6 +17792,14 @@
       "word": "无限超越班开播",
       "onboard_time": 1743856102,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157274,
+      "num": 194843,
+      "word": "严浩翔大通宵状态",
+      "onboard_time": 1744261165,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -18137,6 +18225,14 @@
       "onboard_time": 1743851122,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154092,
+      "num": 154092,
+      "word": "王玉雯 我微笑唇",
+      "onboard_time": 1744260505,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 154000,
@@ -19139,6 +19235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146362,
+      "num": 146362,
+      "word": "张碧晨说今年会是演艺生涯最忙的一年",
+      "onboard_time": 1744262423,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146222,
       "num": 128346,
       "word": "兰西雅 亮眼",
@@ -19249,6 +19353,14 @@
       "onboard_time": 1743565583,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145424,
+      "num": 145424,
+      "word": "甲亢哥带火的卤鹅哥被奖10万元",
+      "onboard_time": 1744262542,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145416,
@@ -19865,6 +19977,14 @@
       "onboard_time": 1744165462,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140136,
+      "num": 250905,
+      "word": "处方药和OTC有什么区别",
+      "onboard_time": 1744261583,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 140087,
@@ -23019,6 +23139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114730,
+      "num": 250916,
+      "word": "孤寡老人离世侄子起诉继承全部遗产",
+      "onboard_time": 1744261705,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114664,
       "num": 114664,
       "word": "苹果公司股价惨遭血洗",
@@ -23041,6 +23169,14 @@
       "onboard_time": 1743762563,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114339,
+      "num": 1967199,
+      "word": "中美经贸关系互利共赢的本质不容歪曲",
+      "onboard_time": 1744244187,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 114328,
@@ -23233,14 +23369,6 @@
       "onboard_time": 1743842180,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112792,
-      "num": 1593336,
-      "word": "中美经贸关系互利共赢的本质不容歪曲",
-      "onboard_time": 1744244187,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 112632,
@@ -26803,6 +26931,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 64038,
+      "num": 170366,
+      "word": "魏大勋硬核送花",
+      "onboard_time": 1744262602,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 63679,
       "num": 117953,
       "word": "美一波音客机在空中着火",
@@ -27665,6 +27801,14 @@
       "onboard_time": 1743705855,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49904,
+      "num": 250893,
+      "word": "deepseek超强论文指令",
+      "onboard_time": 1744262183,
+      "rank": 24,
+      "category": "互联网,教育"
     },
     {
       "raw_hot": 49890,
@@ -28705,6 +28849,14 @@
       "onboard_time": 1743443295,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 35057,
+      "num": 250920,
+      "word": "周末局地10级阵风堪比台风过境",
+      "onboard_time": 1744262303,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34938,
