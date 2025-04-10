@@ -1,6 +1,6 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744306790042,
+  "endTime": 1744309859264,
   "band_list": [
     {
       "raw_hot": 1275101,
@@ -121,6 +121,14 @@
       "onboard_time": 1744292963,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260863,
+      "num": 51475,
+      "word": "父亲离世前对AI说我要去世了豆包",
+      "onboard_time": 1744307116,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258827,
@@ -267,19 +275,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118689,
+      "num": 136149,
+      "word": "外交部回应为何提醒公民谨慎赴美",
+      "onboard_time": 1744304717,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 113481,
       "num": 113481,
       "word": "对美加征84%关税开始执行",
       "onboard_time": 1744258463,
       "rank": 34,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 111821,
-      "num": 136149,
-      "word": "外交部回应为何提醒公民谨慎赴美",
-      "onboard_time": 1744304717,
-      "rank": 14,
       "category": "国内时政"
     },
     {
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54257,
+      "num": 47217,
+      "word": "普拉达超100亿收购范思哲",
+      "onboard_time": 1744307116,
+      "rank": 20,
+      "category": "财经,时尚"
+    },
+    {
       "raw_hot": 49722,
       "num": 72072,
       "word": "男子轻信陌生人办带编工作被骗167万",
@@ -427,8 +443,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36482,
-      "num": 36482,
+      "raw_hot": 40602,
+      "num": 40602,
       "word": "多米尼加俱乐部坍塌已致218死",
       "onboard_time": 1744305976,
       "rank": 40,
@@ -465,6 +481,14 @@
       "onboard_time": 1744292721,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22981,
+      "num": 22981,
+      "word": "点门",
+      "onboard_time": 1744307776,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 18577,

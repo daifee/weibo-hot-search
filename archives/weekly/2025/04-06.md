@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/06 00:27:55 ~ 2025/04/11 01:39:50
+本榜单时间：2025/04/06 00:27:55 ~ 2025/04/11 02:30:59
 </p>
 </blockquote>
 <p>
@@ -4313,6 +4313,12 @@ Jennie自信展露身体线条（热度：266184）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%B5%E6%97%A0%E5%8F%8C%E7%BB%93%E5%B1%80%23" target="weibo">
 念无双结局（热度：260993）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%96%E5%89%8D%E5%AF%B9AI%E8%AF%B4%E6%88%91%E8%A6%81%E5%8E%BB%E4%B8%96%E4%BA%86%E8%B1%86%E5%8C%85%23" target="weibo">
+父亲离世前对AI说我要去世了豆包（热度：260863）
 </a>
 </li>
 
@@ -9711,6 +9717,12 @@ T1对战KT（热度：119004）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E6%8F%90%E9%86%92%E5%85%AC%E6%B0%91%E8%B0%A8%E6%85%8E%E8%B5%B4%E7%BE%8E%23" target="weibo">
+外交部回应为何提醒公民谨慎赴美（热度：118689）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E6%96%B9%E7%AB%8B%E5%9C%BA%23" target="weibo">
 这是中方立场（热度：118613）
 </a>
@@ -9977,12 +9989,6 @@ TF四代3月考核（热度：112356）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%83%A8%E5%85%A8%E6%98%AF%E5%BD%A9%E8%9B%8B%E7%9A%84%E7%94%B5%E5%BD%B1%23" target="weibo">
 一部全是彩蛋的电影（热度：112030）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E6%8F%90%E9%86%92%E5%85%AC%E6%B0%91%E8%B0%A8%E6%85%8E%E8%B5%B4%E7%BE%8E%23" target="weibo">
-外交部回应为何提醒公民谨慎赴美（热度：111821）
 </a>
 </li>
 
@@ -11553,6 +11559,12 @@ Faker达成LCK1000场成就（热度：60189）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E6%8B%89%E8%BE%BE%E8%B6%85100%E4%BA%BF%E6%94%B6%E8%B4%AD%E8%8C%83%E6%80%9D%E5%93%B2%23" target="weibo">
+普拉达超100亿收购范思哲（热度：54257）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Bin%E5%A1%9E%E6%81%A9%23" target="weibo">
 Bin塞恩（热度：54169）
 </a>
@@ -11877,6 +11889,12 @@ A50期指涨3%（热度：48861）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E7%B1%B3%E5%B0%BC%E5%8A%A0%E4%BF%B1%E4%B9%90%E9%83%A8%E5%9D%8D%E5%A1%8C%E5%B7%B2%E8%87%B4218%E6%AD%BB%23" target="weibo">
+多米尼加俱乐部坍塌已致218死（热度：40602）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8D%B7%E8%B1%B9%E8%B7%AF%E8%99%8E%E5%9B%A0%E5%85%B3%E7%A8%8E%E9%97%AE%E9%A2%98%E6%9A%82%E5%81%9C%E5%AF%B9%E7%BE%8E%E5%87%BA%E5%8F%A3%23" target="weibo">
 捷豹路虎因关税问题暂停对美出口（热度：40564）
 </a>
@@ -11999,12 +12017,6 @@ AI修复抗战英雄的模样（热度：36727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%AD%A3%E4%B8%A5%E9%87%8D%E4%BC%A4%E5%AE%B3%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%23" target="weibo">
 美国政府正严重伤害美国人民（热度：36579）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E7%B1%B3%E5%B0%BC%E5%8A%A0%E4%BF%B1%E4%B9%90%E9%83%A8%E5%9D%8D%E5%A1%8C%E5%B7%B2%E8%87%B4218%E6%AD%BB%23" target="weibo">
-多米尼加俱乐部坍塌已致218死（热度：36482）
 </a>
 </li>
 
@@ -12449,6 +12461,12 @@ susu福福（热度：26824）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%BB%A5%E6%96%BD%E5%85%B3%E7%A8%8E%E6%97%A0%E5%BC%82%E4%BA%8E%E5%89%A5%E5%A4%BA%E5%90%84%E5%9B%BD%E5%8F%91%E5%B1%95%E6%9D%83%E5%88%A9%23" target="weibo">
 美国滥施关税无异于剥夺各国发展权利（热度：22989）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%B9%E9%97%A8%23" target="weibo">
+点门（热度：22981）
 </a>
 </li>
 

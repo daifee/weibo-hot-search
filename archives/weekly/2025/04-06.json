@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744306790042,
+  "endTime": 1744309859264,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -5737,6 +5737,14 @@
       "onboard_time": 1744112542,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260863,
+      "num": 51475,
+      "word": "父亲离世前对AI说我要去世了豆包",
+      "onboard_time": 1744307116,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260586,
@@ -12931,6 +12939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118689,
+      "num": 136149,
+      "word": "外交部回应为何提醒公民谨慎赴美",
+      "onboard_time": 1744304717,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118613,
       "num": 229787,
       "word": "这是中方立场",
@@ -13289,14 +13305,6 @@
       "onboard_time": 1743931881,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 111821,
-      "num": 136149,
-      "word": "外交部回应为何提醒公民谨慎赴美",
-      "onboard_time": 1744304717,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111682,
@@ -15387,6 +15395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54257,
+      "num": 47217,
+      "word": "普拉达超100亿收购范思哲",
+      "onboard_time": 1744307116,
+      "rank": 20,
+      "category": "财经,时尚"
+    },
+    {
       "raw_hot": 54169,
       "num": 103290,
       "word": "Bin塞恩",
@@ -15819,6 +15835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40602,
+      "num": 40602,
+      "word": "多米尼加俱乐部坍塌已致218死",
+      "onboard_time": 1744305976,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40564,
       "num": 226732,
       "word": "捷豹路虎因关税问题暂停对美出口",
@@ -15985,14 +16009,6 @@
       "onboard_time": 1744143914,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 36482,
-      "num": 36482,
-      "word": "多米尼加俱乐部坍塌已致218死",
-      "onboard_time": 1744305976,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 36152,
@@ -16585,6 +16601,14 @@
       "onboard_time": 1744051935,
       "rank": 9,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 22981,
+      "num": 22981,
+      "word": "点门",
+      "onboard_time": 1744307776,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 22908,
