@@ -1,0 +1,410 @@
+{
+  "runTime": 1744290247270,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2363258,
+        "num": 2363258,
+        "word": "周六 不出门",
+        "onboard_time": 1744287502,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1383796,
+        "num": 1383796,
+        "word": "结婚离婚登记不再需要户口簿了",
+        "onboard_time": 1744280122,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59046,
+        "num": 892112,
+        "word": "发展不是少数国家的专利",
+        "onboard_time": 1744275200,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 607805,
+        "num": 607805,
+        "word": "安踏拟2.9亿美元收购狼爪",
+        "onboard_time": 1744285943,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 600191,
+        "num": 600191,
+        "word": "外交部回应美对华征收125%关税",
+        "onboard_time": 1744271362,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 532419,
+        "num": 532419,
+        "word": "知情人谈华人钢铁大王在菲被绑撕票",
+        "onboard_time": 1744283602,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422075,
+        "num": 422075,
+        "word": "适度减少美国影片进口数",
+        "onboard_time": 1744281083,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 375167,
+        "num": 375167,
+        "word": "邓超还是低估了网友的抽象",
+        "onboard_time": 1744285583,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289299,
+        "num": 372216,
+        "word": "腾讯视频Q2预排",
+        "onboard_time": 1744289302,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370154,
+        "num": 370154,
+        "word": "中国电影市场坚持高水平对外开放",
+        "onboard_time": 1744288703,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1898742,
+        "num": 369537,
+        "word": "欧盟对美反制措施暂停90天",
+        "onboard_time": 1744285282,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1005210,
+        "num": 359862,
+        "word": "特朗普家族几天获利300亿美元",
+        "onboard_time": 1744275443,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 636283,
+        "num": 355648,
+        "word": "蜜雪冰城已改回红色附近商户发声",
+        "onboard_time": 1744283362,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484880,
+        "num": 343574,
+        "word": "36岁梁洛施状态",
+        "onboard_time": 1744285342,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343318,
+        "num": 343318,
+        "word": "对美加征84%关税开始执行",
+        "onboard_time": 1744258463,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 377728,
+        "num": 342893,
+        "word": "iPhone16回收价已涨300元",
+        "onboard_time": 1744282702,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 165265,
+        "num": 342112,
+        "word": "FindX8Ultra夜景人像神器",
+        "onboard_time": 1744285222,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 259763,
+        "num": 341704,
+        "word": "严浩翔新综艺录制2天4套造型",
+        "onboard_time": 1744288824,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178696,
+        "num": 341147,
+        "word": "林俊杰直播",
+        "onboard_time": 1744287443,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141386,
+        "num": 340297,
+        "word": "极氪再次打破吉尼斯纪录",
+        "onboard_time": 1744287683,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 441982,
+        "num": 339765,
+        "word": "男子2400万买房儿媳离婚分走1500万",
+        "onboard_time": 1744284682,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339602,
+        "num": 339602,
+        "word": "黄晓明晒增肥减肥对比照",
+        "onboard_time": 1744277541,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261507,
+        "num": 261507,
+        "word": "北京将出现陆地罕见极端大风",
+        "onboard_time": 1744265124,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197593,
+        "num": 197593,
+        "word": "肖战射雕英雄传明日上线",
+        "onboard_time": 1744289364,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89121,
+        "num": 196210,
+        "word": "FindX8Ultra斩男又斩女",
+        "onboard_time": 1744287321,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 68049,
+        "num": 194459,
+        "word": "全球最窄四等边FindX8s",
+        "onboard_time": 1744287321,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127434,
+        "num": 191647,
+        "word": "成何体统",
+        "onboard_time": 1744283542,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126077,
+        "num": 187595,
+        "word": "卤鹅哥新身份",
+        "onboard_time": 1744284142,
+        "rank": 27,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 103773,
+        "num": 185878,
+        "word": "陈都灵这次不庄了",
+        "onboard_time": 1744286063,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29494,
+        "num": 180825,
+        "word": "60岁男子杀害女友谎称当天没见过",
+        "onboard_time": 1744289302,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180562,
+        "num": 180562,
+        "word": "一朵牡丹带火一座城",
+        "onboard_time": 1744280241,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 178591,
+        "num": 178591,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175666,
+        "num": 175666,
+        "word": "10级狂风堪比台风过境",
+        "onboard_time": 1744285102,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167271,
+        "num": 167271,
+        "word": "陈都灵成都",
+        "onboard_time": 1744289604,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161652,
+        "num": 161652,
+        "word": "苹果紧急往美国运iPhone",
+        "onboard_time": 1744252162,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159785,
+        "num": 159785,
+        "word": "绿色蜜雪冰城门店已改回红色",
+        "onboard_time": 1744265724,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158477,
+        "num": 158477,
+        "word": "CPI",
+        "onboard_time": 1744290204,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155480,
+        "num": 155480,
+        "word": "张继科称带的学生多个考上名校",
+        "onboard_time": 1744286002,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151414,
+        "num": 151414,
+        "word": "夫妻二人削骨隆鼻潜逃十年后被抓",
+        "onboard_time": 1744273943,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 24842,
+        "num": 148165,
+        "word": "14级人造飓风实测",
+        "onboard_time": 1744289364,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147933,
+        "num": 147933,
+        "word": "13级大风是什么概念",
+        "onboard_time": 1744264823,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139764,
+        "num": 139764,
+        "word": "女子被精神病要堵住强制医疗漏洞",
+        "onboard_time": 1744290204,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138081,
+        "num": 138081,
+        "word": "商务部回应是否就关税与美展开谈判",
+        "onboard_time": 1744276402,
+        "rank": 42,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 91699,
+        "num": 136141,
+        "word": "浪姐直播",
+        "onboard_time": 1744288703,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135981,
+        "num": 135981,
+        "word": "考公35次上岸",
+        "onboard_time": 1744273762,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134357,
+        "num": 134357,
+        "word": "医院回应原主任涉案后疑仍介绍代孕",
+        "onboard_time": 1744287864,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 129117,
+        "num": 129117,
+        "word": "被拼多多百元跑鞋震惊了",
+        "onboard_time": 1744282882,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127993,
+        "num": 127993,
+        "word": "武汉两家医院被曝贩卖出生医学证明",
+        "onboard_time": 1744287802,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 124043,
+        "num": 124043,
+        "word": "此次大风或突破74年来同期极值",
+        "onboard_time": 1744287443,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122342,
+        "num": 122342,
+        "word": "美国3月核心CPI创四年低位",
+        "onboard_time": 1744290204,
+        "rank": 49,
+        "category": "财经,国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向拉美和加勒比国家共同体第九届峰会致贺信#"
+    }
+  }
+}

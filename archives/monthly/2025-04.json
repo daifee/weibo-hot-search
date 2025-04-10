@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744289359241,
+  "endTime": 1744290247270,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -328,6 +328,14 @@
       "word": "主播直播擦边卖枕头2小时场观30万",
       "onboard_time": 1744029863,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2363258,
+      "num": 2363258,
+      "word": "周六 不出门",
+      "onboard_time": 1744287502,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -673,14 +681,6 @@
       "onboard_time": 1744104561,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1814507,
-      "num": 1814507,
-      "word": "周六 不出门",
-      "onboard_time": 1744287502,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1811433,
@@ -4083,6 +4083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 607805,
+      "num": 607805,
+      "word": "安踏拟2.9亿美元收购狼爪",
+      "onboard_time": 1744285943,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 607112,
       "num": 607112,
       "word": "美财长将美股崩盘甩锅DeepSeek",
@@ -4265,14 +4273,6 @@
       "onboard_time": 1743745160,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 592468,
-      "num": 592468,
-      "word": "安踏拟2.9亿美元收购狼爪",
-      "onboard_time": 1744285943,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 592082,
@@ -7195,6 +7195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 375167,
+      "num": 630142,
+      "word": "邓超还是低估了网友的抽象",
+      "onboard_time": 1744285583,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373676,
       "num": 409744,
       "word": "萧敬腾说不会跟妻子接真人秀",
@@ -7281,6 +7289,14 @@
       "onboard_time": 1743475462,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 370154,
+      "num": 614666,
+      "word": "中国电影市场坚持高水平对外开放",
+      "onboard_time": 1744288703,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 369749,
@@ -8451,14 +8467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 319093,
-      "num": 630142,
-      "word": "邓超还是低估了网友的抽象",
-      "onboard_time": 1744285583,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 319039,
       "num": 319039,
       "word": "滴滴崩了",
@@ -9393,6 +9401,14 @@
       "onboard_time": 1744077203,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 289299,
+      "num": 372216,
+      "word": "腾讯视频Q2预排",
+      "onboard_time": 1744289302,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 289198,
@@ -10355,6 +10371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259763,
+      "num": 518345,
+      "word": "严浩翔新综艺录制2天4套造型",
+      "onboard_time": 1744288824,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259686,
       "num": 259686,
       "word": "孝敏婚纱照",
@@ -11049,14 +11073,6 @@
       "onboard_time": 1744249580,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240013,
-      "num": 614666,
-      "word": "中国电影市场坚持高水平对外开放",
-      "onboard_time": 1744288703,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 239858,
@@ -12001,14 +12017,6 @@
       "onboard_time": 1743993923,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 221543,
-      "num": 518345,
-      "word": "严浩翔新综艺录制2天4套造型",
-      "onboard_time": 1744288824,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 221466,
@@ -13147,14 +13155,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 206322,
-      "num": 206322,
-      "word": "腾讯视频Q2预排",
-      "onboard_time": 1744289302,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206265,
       "num": 206265,
       "word": "时代少年团演唱会 北方",
@@ -13985,6 +13985,14 @@
       "onboard_time": 1744105822,
       "rank": 26,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 197593,
+      "num": 197593,
+      "word": "肖战射雕英雄传明日上线",
+      "onboard_time": 1744289364,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 197589,
@@ -16651,6 +16659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175666,
+      "num": 175666,
+      "word": "10级狂风堪比台风过境",
+      "onboard_time": 1744285102,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175664,
       "num": 175664,
       "word": "焦虑的6种隐性表现",
@@ -17504,6 +17520,14 @@
       "word": "金善禹 发型",
       "onboard_time": 1743770962,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167271,
+      "num": 167271,
+      "word": "陈都灵成都",
+      "onboard_time": 1744289604,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -18481,6 +18505,14 @@
       "onboard_time": 1744008921,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158477,
+      "num": 158477,
+      "word": "CPI",
+      "onboard_time": 1744290204,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 158259,
@@ -20979,6 +21011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139764,
+      "num": 139764,
+      "word": "女子被精神病要堵住强制医疗漏洞",
+      "onboard_time": 1744290204,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139756,
       "num": 139756,
       "word": "时团对接回应演唱会",
@@ -21745,6 +21785,14 @@
       "onboard_time": 1744023683,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 134357,
+      "num": 476264,
+      "word": "医院回应原主任涉案后疑仍介绍代孕",
+      "onboard_time": 1744287864,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 134297,
@@ -22619,6 +22667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 127993,
+      "num": 537201,
+      "word": "武汉两家医院被曝贩卖出生医学证明",
+      "onboard_time": 1744287802,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 127973,
       "num": 127973,
       "word": "吒儿还在向前冲",
@@ -23329,6 +23385,14 @@
       "onboard_time": 1743934700,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122342,
+      "num": 122342,
+      "word": "美国3月核心CPI创四年低位",
+      "onboard_time": 1744290204,
+      "rank": 49,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 122132,
@@ -25435,6 +25499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103773,
+      "num": 226909,
+      "word": "陈都灵这次不庄了",
+      "onboard_time": 1744286063,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103687,
       "num": 103687,
       "word": "种地吧今晚准备吃烤串儿",
@@ -25721,14 +25793,6 @@
       "onboard_time": 1743749602,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99219,
-      "num": 226909,
-      "word": "陈都灵这次不庄了",
-      "onboard_time": 1744286063,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 99213,
@@ -26601,14 +26665,6 @@
       "onboard_time": 1743955160,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 87407,
-      "num": 537201,
-      "word": "武汉两家医院被曝贩卖出生医学证明",
-      "onboard_time": 1744287802,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 87358,
@@ -29163,14 +29219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50276,
-      "num": 476264,
-      "word": "医院回应原主任涉案后疑仍介绍代孕",
-      "onboard_time": 1744287864,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 49890,
       "num": 485228,
       "word": "NJZ最新审讯结果维持禁令",
@@ -30747,6 +30795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29494,
+      "num": 180825,
+      "word": "60岁男子杀害女友谎称当天没见过",
+      "onboard_time": 1744289302,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29450,
       "num": 75947,
       "word": "马龙说全运会后还想参加比赛",
@@ -31105,6 +31161,14 @@
       "onboard_time": 1743877335,
       "rank": 47,
       "category": "综艺,电影"
+    },
+    {
+      "raw_hot": 24842,
+      "num": 148165,
+      "word": "14级人造飓风实测",
+      "onboard_time": 1744289364,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24793,
@@ -31553,14 +31617,6 @@
       "onboard_time": 1744257143,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19993,
-      "num": 150729,
-      "word": "60岁男子杀害女友谎称当天没见过",
-      "onboard_time": 1744289302,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19934,
