@@ -1,0 +1,410 @@
+{
+  "runTime": 1744284988555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2810285,
+        "num": 2810285,
+        "word": "结婚离婚登记不再需要户口簿了",
+        "onboard_time": 1744280122,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1012975,
+        "num": 1012975,
+        "word": "外交部回应美对华征收125%关税",
+        "onboard_time": 1744271362,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58722,
+        "num": 869240,
+        "word": "发展不是少数国家的专利",
+        "onboard_time": 1744275200,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 802062,
+        "num": 802062,
+        "word": "适度减少美国影片进口数",
+        "onboard_time": 1744281083,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 598632,
+        "num": 598632,
+        "word": "对美加征84%关税开始执行",
+        "onboard_time": 1744258463,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 556262,
+        "num": 556262,
+        "word": "苹果紧急往美国运iPhone",
+        "onboard_time": 1744252162,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 476751,
+        "num": 476751,
+        "word": "中方有坚定意志和丰富手段",
+        "onboard_time": 1744280122,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 445013,
+        "num": 445013,
+        "word": "TOP登陆少年官宣晋江演唱会",
+        "onboard_time": 1744282642,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 406313,
+        "num": 406313,
+        "word": "女推团综",
+        "onboard_time": 1744281502,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233919,
+        "num": 404651,
+        "word": "一朵牡丹带火一座城",
+        "onboard_time": 1744280241,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1506012,
+        "num": 404007,
+        "word": "特朗普家族几天获利300亿美元",
+        "onboard_time": 1744275443,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 844612,
+        "num": 402025,
+        "word": "iPhone16回收价已涨300元",
+        "onboard_time": 1744282702,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 575770,
+        "num": 400123,
+        "word": "黄晓明晒增肥减肥对比照",
+        "onboard_time": 1744277541,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446611,
+        "num": 398707,
+        "word": "王楚然妖后",
+        "onboard_time": 1744279221,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153980,
+        "num": 395863,
+        "word": "被拼多多百元跑鞋震惊了",
+        "onboard_time": 1744282882,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 395245,
+        "num": 395245,
+        "word": "美第一批制裁的行业七年后怎么样了",
+        "onboard_time": 1744277901,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295752,
+        "num": 295752,
+        "word": "北京将出现陆地罕见极端大风",
+        "onboard_time": 1744265124,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271270,
+        "num": 295211,
+        "word": "终于有电视剧拍出了女性师徒情",
+        "onboard_time": 1744281502,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176884,
+        "num": 292337,
+        "word": "成何体统",
+        "onboard_time": 1744283542,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150987,
+        "num": 289143,
+        "word": "宁艺卓WKOREA五月刊封面",
+        "onboard_time": 1744281623,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 459017,
+        "num": 287231,
+        "word": "男子2400万买房儿媳离婚分走1500万",
+        "onboard_time": 1744284682,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286349,
+        "num": 286349,
+        "word": "毛宁分享毛主席霸气发言视频",
+        "onboard_time": 1744268481,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280643,
+        "num": 280643,
+        "word": "夫妻二人削骨隆鼻潜逃十年后被抓",
+        "onboard_time": 1744273943,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 261822,
+        "num": 261822,
+        "word": "知情人谈华人钢铁大王在菲被绑撕票",
+        "onboard_time": 1744283602,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183933,
+        "num": 258404,
+        "word": "第一代女考古人发现第一女将军",
+        "onboard_time": 1744283183,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 257226,
+        "num": 257226,
+        "word": "杭州苹果手机回收价格暴涨",
+        "onboard_time": 1744282882,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 243703,
+        "num": 243703,
+        "word": "考公35次上岸",
+        "onboard_time": 1744273762,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 218003,
+        "num": 218003,
+        "word": "蜜雪冰城已改回红色附近商户发声",
+        "onboard_time": 1744283362,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117029,
+        "num": 216447,
+        "word": "卤鹅哥新身份",
+        "onboard_time": 1744284142,
+        "rank": 28,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 114940,
+        "num": 215796,
+        "word": "乘风2025",
+        "onboard_time": 1744283064,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383264,
+        "num": 215589,
+        "word": "绿色蜜雪冰城门店已改回红色",
+        "onboard_time": 1744265724,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215335,
+        "num": 215335,
+        "word": "小心点 你老公对你有意思",
+        "onboard_time": 1744283064,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208901,
+        "num": 208901,
+        "word": "商务部回应是否会对美加征更高关税",
+        "onboard_time": 1744272262,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189002,
+        "num": 189002,
+        "word": "榴莲季",
+        "onboard_time": 1744282942,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169511,
+        "num": 169511,
+        "word": "易烊千玺中国传媒大学VCR",
+        "onboard_time": 1744278202,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163886,
+        "num": 163886,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163360,
+        "num": 163360,
+        "word": "卫健委回应医院红十字变绿十字",
+        "onboard_time": 1744280241,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151488,
+        "num": 151488,
+        "word": "商务部回应是否就关税与美展开谈判",
+        "onboard_time": 1744276402,
+        "rank": 37,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 149671,
+        "num": 149671,
+        "word": "浙江慈溪一车辆从高架上掉落",
+        "onboard_time": 1744282583,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 136247,
+        "num": 136247,
+        "word": "网易Q音乐",
+        "onboard_time": 1744270522,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122746,
+        "num": 122746,
+        "word": "13级大风是什么概念",
+        "onboard_time": 1744264823,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113928,
+        "num": 113928,
+        "word": "每天吃2个鸡蛋身体有什么好处",
+        "onboard_time": 1744268962,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110145,
+        "num": 110145,
+        "word": "男生因室友电瓶燃爆烧伤已花200万",
+        "onboard_time": 1744282341,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105298,
+        "num": 105298,
+        "word": "南京冰雹",
+        "onboard_time": 1744278022,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104650,
+        "num": 104650,
+        "word": "小学不到时间不让进校教师子女除外",
+        "onboard_time": 1744284682,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100168,
+        "num": 100168,
+        "word": "北京提醒尽量减少或停止户外活动",
+        "onboard_time": 1744266202,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98364,
+        "num": 98364,
+        "word": "125份病历中113份存在过度医疗",
+        "onboard_time": 1744277481,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 98157,
+        "num": 98157,
+        "word": "网易第五人格",
+        "onboard_time": 1744283362,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98143,
+        "num": 98143,
+        "word": "做无痛胃镜差点把医生投诉了",
+        "onboard_time": 1744280964,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91669,
+        "num": 91669,
+        "word": "控糖1年后男子减百斤年轻20岁",
+        "onboard_time": 1744263505,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向拉美和加勒比国家共同体第九届峰会致贺信#"
+    }
+  }
+}
