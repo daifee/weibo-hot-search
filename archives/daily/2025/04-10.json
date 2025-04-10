@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744298839821,
+  "endTime": 1744299668511,
   "band_list": [
     {
       "raw_hot": 8884094,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 806023,
+      "num": 490256,
+      "word": "文明办回应上海地铁男子猥亵女性",
+      "onboard_time": 1744294524,
+      "rank": 33,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 802062,
       "num": 802062,
       "word": "适度减少美国影片进口数",
@@ -347,15 +355,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 734762,
-      "num": 490256,
-      "word": "文明办回应上海地铁男子猥亵女性",
-      "onboard_time": 1744294524,
-      "rank": 33,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 731067,
+      "raw_hot": 754073,
       "num": 336064,
       "word": "张檬想40岁前要二胎",
       "onboard_time": 1744297703,
@@ -915,6 +915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 336369,
+      "num": 340179,
+      "word": "北京大风天坐地铁注意了",
+      "onboard_time": 1744298064,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335630,
       "num": 335630,
       "word": "肖战 羽西",
@@ -961,6 +969,14 @@
       "onboard_time": 1744292122,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316937,
+      "num": 316937,
+      "word": "何秋亊直播",
+      "onboard_time": 1744298542,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 316865,
@@ -1035,7 +1051,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 299741,
+      "raw_hot": 300466,
       "num": 353829,
       "word": "新说唱选手还原严浩翔淘汰阿尔曼",
       "onboard_time": 1744292363,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1744282882,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 274780,
+      "num": 329308,
+      "word": "终于知道为何女厕总有一格打不开了",
+      "onboard_time": 1744298243,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 274351,
@@ -1355,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227507,
+      "num": 227507,
+      "word": "八段锦每一个动作都是药",
+      "onboard_time": 1744297645,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 225779,
       "num": 250893,
       "word": "内娱有自己的白夜行",
@@ -1409,14 +1441,6 @@
       "onboard_time": 1744184001,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 216921,
-      "num": 329308,
-      "word": "终于知道为何女厕总有一格打不开了",
-      "onboard_time": 1744298243,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 215372,
@@ -1515,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205620,
+      "num": 253719,
+      "word": "李晟罗予彤两个辣妹子晕辣了",
+      "onboard_time": 1744298423,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205044,
       "num": 205044,
       "word": "金铲铲",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1744254863,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200896,
+      "num": 200896,
+      "word": "虞书欣最近的小日常",
+      "onboard_time": 1744298721,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200026,
@@ -1739,6 +1779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190523,
+      "num": 334753,
+      "word": "美国大型科技企业将成为反制目标",
+      "onboard_time": 1744298903,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 190476,
       "num": 284140,
       "word": "JackeyLove呼吁加快比赛进度",
@@ -1793,14 +1841,6 @@
       "onboard_time": 1744282942,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 188024,
-      "num": 188024,
-      "word": "八段锦每一个动作都是药",
-      "onboard_time": 1744297645,
-      "rank": 32,
-      "category": "运动健身"
     },
     {
       "raw_hot": 185921,
@@ -1897,14 +1937,6 @@
       "onboard_time": 1744283542,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176273,
-      "num": 253719,
-      "word": "李晟罗予彤两个辣妹子晕辣了",
-      "onboard_time": 1744298423,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 175874,
@@ -2083,20 +2115,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158558,
+      "num": 202336,
+      "word": "沈月 非凡女性艺术之夜",
+      "onboard_time": 1744298963,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 158477,
       "num": 158477,
       "word": "CPI",
       "onboard_time": 1744290204,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 158104,
-      "num": 158104,
-      "word": "何秋亊直播",
-      "onboard_time": 1744298542,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 158093,
@@ -2369,14 +2401,6 @@
       "onboard_time": 1744275800,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 139495,
-      "num": 340179,
-      "word": "北京大风天坐地铁注意了",
-      "onboard_time": 1744298064,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139151,
@@ -2659,14 +2683,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 124160,
-      "num": 124160,
-      "word": "虞书欣最近的小日常",
-      "onboard_time": 1744298721,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 123946,
       "num": 123946,
       "word": "金价涨超3%",
@@ -2681,6 +2697,14 @@
       "onboard_time": 1744208426,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122774,
+      "num": 122774,
+      "word": "刘诗诗法式美学",
+      "onboard_time": 1744298601,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 122459,
@@ -2747,14 +2771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117448,
-      "num": 117448,
-      "word": "刘诗诗法式美学",
-      "onboard_time": 1744298601,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115702,
       "num": 115702,
       "word": "完美世界动画石昊火灵儿大婚",
@@ -2801,6 +2817,22 @@
       "onboard_time": 1744244187,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113105,
+      "num": 113105,
+      "word": "何瑞贤豪门气质千金感",
+      "onboard_time": 1744298963,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112458,
+      "num": 330709,
+      "word": "多家国内航司将座椅更换成轻薄型",
+      "onboard_time": 1744298483,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111859,
@@ -2881,6 +2913,14 @@
       "onboard_time": 1744270643,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106112,
+      "num": 106112,
+      "word": "李荣浩石家庄演唱会",
+      "onboard_time": 1744298843,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 105547,
@@ -3011,6 +3051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85411,
+      "num": 239083,
+      "word": "直播间买的灵隐文创是假的",
+      "onboard_time": 1744297645,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85162,
       "num": 85162,
       "word": "外国姑娘被中国人暖到了",
@@ -3089,14 +3137,6 @@
       "onboard_time": 1744258102,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75676,
-      "num": 239083,
-      "word": "直播间买的灵隐文创是假的",
-      "onboard_time": 1744297645,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75456,
@@ -3240,14 +3280,6 @@
       "word": "30年前一起上学30年后一起创业",
       "onboard_time": 1744268481,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45670,
-      "num": 330709,
-      "word": "多家国内航司将座椅更换成轻薄型",
-      "onboard_time": 1744298483,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3601,6 +3633,14 @@
       "onboard_time": 1744288883,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12484,
+      "num": 119718,
+      "word": "沙尘暴成今年以来评分最高悬疑剧",
+      "onboard_time": 1744299623,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 12237,
