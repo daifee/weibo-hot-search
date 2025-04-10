@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/10 16:45:30
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/10 17:26:44
 </p>
 </blockquote>
 <p>
@@ -143,6 +143,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%20%E5%B0%B4%E5%B0%AC%23" target="weibo">
 芒果 尴尬（热度：2982394）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%B6%E6%97%8F%E5%87%A0%E5%A4%A9%E8%8E%B7%E5%88%A9300%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
+特朗普家族几天获利300亿美元（热度：2846796）
 </a>
 </li>
 
@@ -773,6 +779,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%23" target="weibo">
 美股开盘（热度：1449552）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E4%BA%8C%E4%BA%BA%E5%89%8A%E9%AA%A8%E9%9A%86%E9%BC%BB%E6%BD%9C%E9%80%83%E5%8D%81%E5%B9%B4%E5%90%8E%E8%A2%AB%E6%8A%93%23" target="weibo">
+夫妻二人削骨隆鼻潜逃十年后被抓（热度：1444546）
 </a>
 </li>
 
@@ -3813,6 +3825,12 @@ Switch2直面会（热度：514768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E7%9B%B4%E6%92%AD%E6%96%87%E5%92%8C%E5%8F%8B%E8%80%81%E6%9D%BF%E6%8A%A2%E9%95%9C%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
+甲亢哥直播文和友老板抢镜引争议（热度：505658）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%AB%99%E5%A7%90%E5%8F%91%E4%BA%86%E5%8F%8C%E6%9D%A8cp%23" target="weibo">
 鹿晗站姐发了双杨cp（热度：505473）
 </a>
@@ -5996,24 +6014,6 @@ SM查理呢（热度：335430）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%AE%E6%B0%B4%E7%AB%B9%E4%BA%AD%23" target="weibo">
-淮水竹亭（热度：332443）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E6%88%BF%E4%B8%9C%E5%81%B7%E6%8B%8D%E6%83%85%E4%BE%A3%E7%A7%9F%E5%AE%A2%E8%A2%AB%E5%88%A4%E5%88%91%23" target="weibo">
-北京一房东偷拍情侣租客被判刑（热度：332298）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E8%AE%B0%E8%80%85%E4%BC%9A%E6%9C%80%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D%23" target="weibo">
-金秀贤记者会最起鸡皮疙瘩的一句话（热度：331750）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6233,6 +6233,12 @@ SM查理呢（热度：335430）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E7%95%99%E5%BE%97%E6%B8%85%E6%B0%94%E6%BB%A1%E4%B9%BE%E5%9D%A4%23%23" target="weibo">
 #留得清气满乾坤#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E6%8B%89%E7%BE%8E%E5%92%8C%E5%8A%A0%E5%8B%92%E6%AF%94%E5%9B%BD%E5%AE%B6%E5%85%B1%E5%90%8C%E4%BD%93%E7%AC%AC%E4%B9%9D%E5%B1%8A%E5%B3%B0%E4%BC%9A%E8%87%B4%E8%B4%BA%E4%BF%A1%23%23" target="weibo">
+#习近平向拉美和加勒比国家共同体第九届峰会致贺信#
 </a>
 </li>
 
