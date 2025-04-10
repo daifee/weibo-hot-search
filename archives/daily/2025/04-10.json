@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744277204990,
+  "endTime": 1744278021193,
   "band_list": [
     {
       "raw_hot": 8884094,
@@ -643,12 +643,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334844,
+      "num": 468374,
+      "word": "美商品赶新关税生效前飞往中国",
+      "onboard_time": 1744272023,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 330284,
       "num": 330284,
       "word": "白冰冰7年做了16次试管婴儿",
       "onboard_time": 1744200264,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323232,
+      "num": 479451,
+      "word": "商务部回应是否就关税与美展开谈判",
+      "onboard_time": 1744276402,
+      "rank": 9,
+      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 318342,
@@ -665,14 +681,6 @@
       "onboard_time": 1744253002,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 306329,
-      "num": 468374,
-      "word": "美商品赶新关税生效前飞往中国",
-      "onboard_time": 1744272023,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 304588,
@@ -819,6 +827,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 261846,
+      "num": 471105,
+      "word": "爱奇艺Q2预排",
+      "onboard_time": 1744275384,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261486,
       "num": 632654,
       "word": "特别主演张智霖",
@@ -833,14 +849,6 @@
       "onboard_time": 1744253122,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 251528,
-      "num": 471105,
-      "word": "爱奇艺Q2预排",
-      "onboard_time": 1744275384,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 251254,
@@ -913,6 +921,22 @@
       "onboard_time": 1744212505,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 231515,
+      "num": 466239,
+      "word": "戛纳",
+      "onboard_time": 1744276282,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 229711,
+      "num": 229711,
+      "word": "黄晓明晒增肥减肥对比照",
+      "onboard_time": 1744277541,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 229501,
@@ -1059,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203574,
+      "num": 461297,
+      "word": "被拼多多百元跑鞋震惊了",
+      "onboard_time": 1744275862,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 203420,
       "num": 226942,
       "word": "孙俪一个月连播两剧",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1744254682,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196951,
-      "num": 461297,
-      "word": "被拼多多百元跑鞋震惊了",
-      "onboard_time": 1744275862,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 196535,
@@ -1195,6 +1219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 190476,
+      "num": 284140,
+      "word": "JackeyLove呼吁加快比赛进度",
+      "onboard_time": 1744276402,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190247,
       "num": 190247,
       "word": "周杰伦做饭人类迷惑行为大赏",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1744192642,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 189399,
-      "num": 466239,
-      "word": "戛纳",
-      "onboard_time": 1744276282,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 185244,
@@ -1419,14 +1443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157628,
-      "num": 479451,
-      "word": "商务部回应是否就关税与美展开谈判",
-      "onboard_time": 1744276402,
-      "rank": 9,
-      "category": "国际时政,国内时政"
-    },
-    {
       "raw_hot": 157326,
       "num": 157326,
       "word": "何老师哄孟子义跟哄孩子一样",
@@ -1579,6 +1595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142693,
+      "num": 457549,
+      "word": "大风天一定要远离高楼间的狭长通道",
+      "onboard_time": 1744275443,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141766,
       "num": 170841,
       "word": "蒋敦豪 新蜂音乐节",
@@ -1691,6 +1715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131287,
+      "num": 131287,
+      "word": "北方人别学南方人野餐了",
+      "onboard_time": 1744277661,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 130911,
       "num": 130911,
       "word": "vivo 独立镜头",
@@ -1729,6 +1761,14 @@
       "onboard_time": 1744249523,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129560,
+      "num": 129560,
+      "word": "何老师侦探历史上地位最低的一回",
+      "onboard_time": 1744277242,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 129153,
@@ -1891,6 +1931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109655,
+      "num": 109655,
+      "word": "125份病历中113份存在过度医疗",
+      "onboard_time": 1744277481,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 109238,
       "num": 109238,
       "word": "王者荣耀之动物荣耀",
@@ -1913,14 +1961,6 @@
       "onboard_time": 1744269083,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108231,
-      "num": 284140,
-      "word": "JackeyLove呼吁加快比赛进度",
-      "onboard_time": 1744276402,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 107543,
@@ -2000,6 +2040,14 @@
       "word": "陈都灵摄影扶卮",
       "onboard_time": 1744213885,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93612,
+      "num": 93612,
+      "word": "孙心娅问为什么孟子义演陈情令会被骂",
+      "onboard_time": 1744277901,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2155,6 +2203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64252,
+      "num": 118108,
+      "word": "美第一批制裁的行业七年后怎么样了",
+      "onboard_time": 1744277901,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63523,
       "num": 1034635,
       "word": "梦想打开的100种方式",
@@ -2200,14 +2256,6 @@
       "word": "30年前一起上学30年后一起创业",
       "onboard_time": 1744268481,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48974,
-      "num": 457549,
-      "word": "大风天一定要远离高楼间的狭长通道",
-      "onboard_time": 1744275443,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2355,6 +2403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23785,
+      "num": 293337,
+      "word": "杨晓培羡慕梅婷的柔软与平和",
+      "onboard_time": 1744276102,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23729,
       "num": 215735,
       "word": "莱万梅开二度",
@@ -2427,14 +2483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16861,
-      "num": 293337,
-      "word": "杨晓培羡慕梅婷的柔软与平和",
-      "onboard_time": 1744276102,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 16272,
       "num": 39716,
       "word": "如何评论美方称巨额贸易逆差让美国吃亏",
@@ -2481,6 +2529,14 @@
       "onboard_time": 1744276341,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9931,
+      "num": 118354,
+      "word": "韩国单身人群兴起非婚仪式",
+      "onboard_time": 1744277302,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 9028,
