@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744266865139,
+  "endTime": 1744267664752,
   "band_list": [
     {
       "raw_hot": 8884094,
@@ -131,6 +131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1117150,
+      "num": 1117150,
+      "word": "绿色蜜雪冰城门店已改回红色",
+      "onboard_time": 1744265724,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1074230,
       "num": 1074230,
       "word": "我们奉陪到底",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1062884,
-      "num": 466768,
+      "num": 1015048,
       "word": "控糖1年后男子减百斤年轻20岁",
       "onboard_time": 1744263505,
       "rank": 36,
@@ -235,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 586477,
+      "num": 586477,
+      "word": "黄杨钿甜通过中传艺考",
+      "onboard_time": 1744265183,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 581992,
       "num": 581992,
       "word": "我国自主研发箱子让宠物能上高铁",
@@ -275,12 +291,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 521242,
-      "num": 464957,
-      "word": "黄杨钿甜通过中传艺考",
-      "onboard_time": 1744265183,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 523758,
+      "num": 523758,
+      "word": "北京提醒尽量减少或停止户外活动",
+      "onboard_time": 1744266202,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 506489,
@@ -419,19 +435,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 423977,
-      "num": 423977,
-      "word": "绿色蜜雪冰城门店已改回红色",
-      "onboard_time": 1744265724,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 421570,
       "num": 421570,
       "word": "家长建议小学延时至6点半放学",
       "onboard_time": 1744200986,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421399,
+      "num": 468137,
+      "word": "13级大风是什么概念",
+      "onboard_time": 1744264823,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -595,6 +611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 299896,
+      "num": 1041067,
+      "word": "北京将出现陆地罕见极端大风",
+      "onboard_time": 1744265124,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298277,
       "num": 755835,
       "word": "折腰 四月空降",
@@ -641,14 +665,6 @@
       "onboard_time": 1744211967,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 281052,
-      "num": 468137,
-      "word": "13级大风是什么概念",
-      "onboard_time": 1744264823,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 280522,
@@ -705,14 +721,6 @@
       "onboard_time": 1744204227,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254870,
-      "num": 254870,
-      "word": "北京将出现陆地罕见极端大风",
-      "onboard_time": 1744265124,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252465,
@@ -796,7 +804,7 @@
     },
     {
       "raw_hot": 228211,
-      "num": 472302,
+      "num": 1093140,
       "word": "TizzyT很荣幸成为你的跳板",
       "onboard_time": 1744265662,
       "rank": 7,
@@ -844,7 +852,7 @@
     },
     {
       "raw_hot": 214509,
-      "num": 470766,
+      "num": 1063451,
       "word": "白天PPT晚上八段锦",
       "onboard_time": 1744263624,
       "rank": 44,
@@ -1003,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183380,
+      "num": 183379,
+      "word": "丁禹兮请客从横店请到海口",
+      "onboard_time": 1744267101,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182538,
       "num": 182538,
       "word": "一生要防晒的中国女人",
@@ -1099,14 +1115,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 163814,
-      "num": 274390,
-      "word": "北京提醒尽量减少或停止户外活动",
-      "onboard_time": 1744266202,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159282,
       "num": 159282,
       "word": "张碧晨说今年会是演艺生涯最忙的一年",
@@ -1195,6 +1203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151600,
+      "num": 151600,
+      "word": "马龙主题酒店",
+      "onboard_time": 1744266802,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151522,
       "num": 409767,
       "word": "送你一朵牡丹花",
@@ -1281,14 +1297,6 @@
       "onboard_time": 1744254682,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134874,
-      "num": 134874,
-      "word": "马龙主题酒店",
-      "onboard_time": 1744266802,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 134667,
@@ -1395,12 +1403,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121303,
+      "num": 121303,
+      "word": "小鬼上音综是来翻旧账的",
+      "onboard_time": 1744267101,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119690,
       "num": 119690,
       "word": "SUNNY加入李秀满新公司A2O",
       "onboard_time": 1744212146,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118582,
+      "num": 118582,
+      "word": "祝绪丹就这么小心翼翼地闯祸",
+      "onboard_time": 1744267401,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118369,
+      "num": 118369,
+      "word": "被已婚男友送精神病院女子最新发声",
+      "onboard_time": 1744267463,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114971,
+      "num": 182729,
+      "word": "沈腾为海陆新剧打call",
+      "onboard_time": 1744266323,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 114339,
@@ -1433,6 +1473,22 @@
       "onboard_time": 1744266502,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110423,
+      "num": 110423,
+      "word": "女子独自住酒店发现暗窗",
+      "onboard_time": 1744264103,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108934,
+      "num": 108934,
+      "word": "碳水循环减肥法",
+      "onboard_time": 1744267401,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108807,
@@ -1513,6 +1569,14 @@
       "onboard_time": 1744202666,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 91433,
+      "num": 192986,
+      "word": "Doinb爆料LWX给Crisp加油",
+      "onboard_time": 1744266682,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 90869,
@@ -1628,7 +1692,7 @@
     },
     {
       "raw_hot": 63523,
-      "num": 245274,
+      "num": 1034635,
       "word": "梦想打开的100种方式",
       "onboard_time": 1744266682,
       "rank": 28,
@@ -1657,14 +1721,6 @@
       "onboard_time": 1744265602,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58096,
-      "num": 192986,
-      "word": "Doinb爆料LWX给Crisp加油",
-      "onboard_time": 1744266682,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 44578,
@@ -1753,6 +1809,14 @@
       "onboard_time": 1744249580,
       "rank": 30,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 25419,
+      "num": 184090,
+      "word": "兼项再次成为乒乓球焦点课题",
+      "onboard_time": 1744267223,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 24886,
@@ -1857,6 +1921,14 @@
       "onboard_time": 1744230494,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15993,
+      "num": 183380,
+      "word": "薛飞2比3滨田一辉",
+      "onboard_time": 1744267223,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 12237,
