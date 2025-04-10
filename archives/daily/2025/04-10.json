@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744278021193,
+  "endTime": 1744280843167,
   "band_list": [
     {
       "raw_hot": 8884094,
@@ -211,6 +211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 989492,
+      "num": 989492,
+      "word": "结婚离婚登记不再需要户口簿了",
+      "onboard_time": 1744280122,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 940194,
       "num": 940194,
       "word": "JYP写了中国台湾省",
@@ -241,6 +249,22 @@
       "onboard_time": 1744209087,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 796927,
+      "num": 472483,
+      "word": "黄晓明晒增肥减肥对比照",
+      "onboard_time": 1744277541,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 781977,
+      "num": 781977,
+      "word": "美第一批制裁的行业七年后怎么样了",
+      "onboard_time": 1744277901,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 758820,
@@ -427,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 482877,
+      "num": 482877,
+      "word": "商务部回应是否就关税与美展开谈判",
+      "onboard_time": 1744276402,
+      "rank": 9,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 479771,
       "num": 479771,
       "word": "宁波口岸新能源车出口暴增439%",
@@ -473,6 +505,14 @@
       "onboard_time": 1744254682,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 451289,
+      "num": 451289,
+      "word": "王楚然妖后",
+      "onboard_time": 1744279221,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 448912,
@@ -619,6 +659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 345681,
+      "num": 345681,
+      "word": "易烊千玺中国传媒大学VCR",
+      "onboard_time": 1744278202,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345224,
       "num": 345224,
       "word": "赵勇担任中国女排主帅",
@@ -659,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 323232,
-      "num": 479451,
-      "word": "商务部回应是否就关税与美展开谈判",
-      "onboard_time": 1744276402,
-      "rank": 9,
-      "category": "国际时政,国内时政"
-    },
-    {
       "raw_hot": 318342,
       "num": 318342,
       "word": "孙俪回归上海丽人赛道",
@@ -705,6 +745,14 @@
       "onboard_time": 1744205427,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 301139,
+      "num": 301139,
+      "word": "一朵牡丹带火一座城",
+      "onboard_time": 1744280241,
+      "rank": 22,
+      "category": "正能量"
     },
     {
       "raw_hot": 301004,
@@ -787,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272524,
+      "num": 272524,
+      "word": "南京冰雹",
+      "onboard_time": 1744278022,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271654,
       "num": 1221101,
       "word": "外媒称美国的痛苦是自作自受",
@@ -841,6 +897,14 @@
       "onboard_time": 1744204227,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252725,
+      "num": 479040,
+      "word": "戛纳",
+      "onboard_time": 1744276282,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 252465,
@@ -921,22 +985,6 @@
       "onboard_time": 1744212505,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 231515,
-      "num": 466239,
-      "word": "戛纳",
-      "onboard_time": 1744276282,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 229711,
-      "num": 229711,
-      "word": "黄晓明晒增肥减肥对比照",
-      "onboard_time": 1744277541,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 229501,
@@ -1243,6 +1291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 186034,
+      "num": 350600,
+      "word": "孙心娅问为什么孟子义演陈情令会被骂",
+      "onboard_time": 1744277901,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185244,
       "num": 239709,
       "word": "春来定风波开播",
@@ -1281,6 +1337,14 @@
       "onboard_time": 1744269261,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 179507,
+      "num": 179507,
+      "word": "中方有坚定意志和丰富手段",
+      "onboard_time": 1744280122,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179393,
@@ -1409,6 +1473,22 @@
       "onboard_time": 1744260145,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165659,
+      "num": 165659,
+      "word": "奶奶把我托举到了北京大学",
+      "onboard_time": 1744280241,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 161811,
+      "num": 161811,
+      "word": "卫健委回应医院红十字变绿十字",
+      "onboard_time": 1744280241,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160181,
@@ -1635,6 +1715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139734,
+      "num": 464840,
+      "word": "125份病历中113份存在过度医疗",
+      "onboard_time": 1744277481,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 139151,
       "num": 139151,
       "word": "祝绪丹就这么小心翼翼地闯祸",
@@ -1819,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124614,
+      "num": 124614,
+      "word": "世界之外",
+      "onboard_time": 1744280241,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123946,
       "num": 123946,
       "word": "金价涨超3%",
@@ -1851,12 +1947,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120374,
+      "num": 270386,
+      "word": "戛纳片单",
+      "onboard_time": 1744278022,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119690,
       "num": 119690,
       "word": "SUNNY加入李秀满新公司A2O",
       "onboard_time": 1744212146,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119438,
+      "num": 119438,
+      "word": "五哈5新朋友敖瑞鹏",
+      "onboard_time": 1744278262,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 115362,
@@ -1929,14 +2041,6 @@
       "onboard_time": 1744271422,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 109655,
-      "num": 109655,
-      "word": "125份病历中113份存在过度医疗",
-      "onboard_time": 1744277481,
-      "rank": 44,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 109238,
@@ -2019,6 +2123,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 96608,
+      "num": 133230,
+      "word": "刘学义哭戏",
+      "onboard_time": 1744279881,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94212,
       "num": 326905,
       "word": "纳指单日暴拉12%",
@@ -2040,14 +2152,6 @@
       "word": "陈都灵摄影扶卮",
       "onboard_time": 1744213885,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 93612,
-      "num": 93612,
-      "word": "孙心娅问为什么孟子义演陈情令会被骂",
-      "onboard_time": 1744277901,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2155,6 +2259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74302,
+      "num": 347574,
+      "word": "医院红十字变绿十字后又被拆除",
+      "onboard_time": 1744279401,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73281,
       "num": 163718,
       "word": "陈飞宇不知道猪猪侠英文名",
@@ -2203,14 +2315,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 64252,
-      "num": 118108,
-      "word": "美第一批制裁的行业七年后怎么样了",
-      "onboard_time": 1744277901,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 63523,
       "num": 1034635,
       "word": "梦想打开的100种方式",
@@ -2249,6 +2353,14 @@
       "onboard_time": 1744276042,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56529,
+      "num": 476369,
+      "word": "13级阵风可推断直径30厘米大树",
+      "onboard_time": 1744279942,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56322,
@@ -2321,6 +2433,22 @@
       "onboard_time": 1744218977,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37075,
+      "num": 267100,
+      "word": "北京国安vs青岛西海岸比赛延期",
+      "onboard_time": 1744279762,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 34963,
+      "num": 269310,
+      "word": "梁王亚锦赛大逆转",
+      "onboard_time": 1744280304,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 34109,
@@ -2475,6 +2603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 17390,
+      "num": 157202,
+      "word": "周末大风或达台风水准",
+      "onboard_time": 1744280663,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17172,
       "num": 19140,
       "word": "温峥嵘陈都灵磨鼻子亲亲",
@@ -2513,6 +2649,14 @@
       "onboard_time": 1744273881,
       "rank": 37,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 15193,
+      "num": 268646,
+      "word": "凡晨组合再合体",
+      "onboard_time": 1744280304,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 12237,
