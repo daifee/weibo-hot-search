@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744292020412,
+  "endTime": 1744292707004,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -1427,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 866554,
+      "num": 866554,
+      "word": "杀害女教师六旬男子靠女友工资生活",
+      "onboard_time": 1744290322,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 864178,
       "num": 864178,
       "word": "网红李美越致歉",
@@ -1979,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 685589,
+      "num": 685589,
+      "word": "美贸易代表被嘲未提前知晓关税调整",
+      "onboard_time": 1744290322,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 684715,
       "num": 684715,
       "word": "自称现做网红蛋糕实为去年12月生产",
@@ -2081,14 +2097,6 @@
       "onboard_time": 1744188682,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 651258,
-      "num": 651258,
-      "word": "美贸易代表被嘲未提前知晓关税调整",
-      "onboard_time": 1744290322,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 647379,
@@ -2391,14 +2399,6 @@
       "num": 581231,
       "word": "全国唯一的古旱莲开花",
       "onboard_time": 1744244246,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 574267,
-      "num": 574267,
-      "word": "杀害女教师六旬男子靠女友工资生活",
-      "onboard_time": 1744290322,
       "rank": 5,
       "category": "民生新闻"
     },
@@ -3907,6 +3907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366845,
+      "num": 527682,
+      "word": "腾讯视频Q2预排",
+      "onboard_time": 1744289302,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366398,
       "num": 366398,
       "word": "deepseek崩了",
@@ -4571,6 +4579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 311756,
+      "num": 311756,
+      "word": "陈都灵成都",
+      "onboard_time": 1744289604,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311367,
       "num": 444544,
       "word": "赵露思告黑案进度",
@@ -4763,14 +4779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 299792,
-      "num": 527682,
-      "word": "腾讯视频Q2预排",
-      "onboard_time": 1744289302,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 299747,
       "num": 776365,
       "word": "赴山海暂定5月播出",
@@ -4857,6 +4865,14 @@
       "onboard_time": 1744136835,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 295092,
+      "num": 295092,
+      "word": "Celine酒会上的刘诗诗",
+      "onboard_time": 1744291762,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295031,
@@ -5289,14 +5305,6 @@
       "onboard_time": 1744276282,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 272637,
-      "num": 272637,
-      "word": "陈都灵成都",
-      "onboard_time": 1744289604,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 272524,
@@ -7019,6 +7027,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210457,
+      "num": 411499,
+      "word": "林俊杰发文纪念出道22周年",
+      "onboard_time": 1744290863,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209821,
+      "num": 209821,
+      "word": "男子婚后发现妻子4年结过3次婚",
+      "onboard_time": 1744292122,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209787,
       "num": 209787,
       "word": "上证指数",
@@ -7049,6 +7073,14 @@
       "onboard_time": 1744121544,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209106,
+      "num": 209106,
+      "word": "女子被精神病要堵住强制医疗漏洞",
+      "onboard_time": 1744290204,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209088,
@@ -7145,6 +7177,14 @@
       "onboard_time": 1744186521,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207258,
+      "num": 343048,
+      "word": "几万岁的魔尊还在天台玩翘脚文学",
+      "onboard_time": 1744291102,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 207243,
@@ -7257,14 +7297,6 @@
       "onboard_time": 1744172004,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205252,
-      "num": 205252,
-      "word": "Celine酒会上的刘诗诗",
-      "onboard_time": 1744291762,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205044,
@@ -7443,14 +7475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201215,
-      "num": 201215,
-      "word": "女子被精神病要堵住强制医疗漏洞",
-      "onboard_time": 1744290204,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201172,
       "num": 201172,
       "word": "刘宇宁辟谣与鞠婧祎合作万花世界",
@@ -7497,14 +7521,6 @@
       "onboard_time": 1744185442,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 200964,
-      "num": 351503,
-      "word": "林俊杰发文纪念出道22周年",
-      "onboard_time": 1744290863,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 200921,
@@ -7761,14 +7777,6 @@
       "onboard_time": 1744010363,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 196240,
-      "num": 343048,
-      "word": "几万岁的魔尊还在天台玩翘脚文学",
-      "onboard_time": 1744291102,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 196119,
@@ -8155,6 +8163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190443,
+      "num": 321134,
+      "word": "五竹在千秋令狂哄乱眨",
+      "onboard_time": 1744291644,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190381,
       "num": 196200,
       "word": "暑假档4大买爆古偶",
@@ -8257,6 +8273,14 @@
       "onboard_time": 1743906741,
       "rank": 27,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 188425,
+      "num": 188425,
+      "word": "于适全英采访",
+      "onboard_time": 1744292063,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 188112,
@@ -8859,6 +8883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178864,
+      "num": 178864,
+      "word": "10级狂风堪比台风过境",
+      "onboard_time": 1744285102,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178852,
       "num": 179397,
       "word": "家属称38万元停尸费已全部减免",
@@ -9091,12 +9123,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 175666,
-      "num": 175666,
-      "word": "10级狂风堪比台风过境",
-      "onboard_time": 1744285102,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 175743,
+      "num": 420369,
+      "word": "OPhone的含金量还在上升",
+      "onboard_time": 1744291164,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 175664,
@@ -9305,14 +9337,6 @@
       "onboard_time": 1744282583,
       "rank": 38,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 171840,
-      "num": 420369,
-      "word": "OPhone的含金量还在上升",
-      "onboard_time": 1744291164,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 171592,
@@ -9963,6 +9987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 160138,
+      "num": 412299,
+      "word": "星耀8起步即旗舰预售价13.98万起",
+      "onboard_time": 1744292363,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 159995,
       "num": 159995,
       "word": "苏新皓维权进展",
@@ -10121,14 +10153,6 @@
       "onboard_time": 1743937161,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157389,
-      "num": 321134,
-      "word": "五竹在千秋令狂哄乱眨",
-      "onboard_time": 1744291644,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 157347,
@@ -10891,6 +10915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146352,
+      "num": 299023,
+      "word": "陈都灵现代贵女造型",
+      "onboard_time": 1744291402,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146194,
       "num": 146194,
       "word": "马斯克痛批纳瓦罗",
@@ -11411,6 +11443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138706,
+      "num": 138706,
+      "word": "新说唱选手还原严浩翔淘汰阿尔曼",
+      "onboard_time": 1744292363,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138685,
       "num": 200481,
       "word": "国羽苏杯名单公示",
@@ -11867,12 +11907,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130787,
+      "num": 512532,
+      "word": "珠海警方回应多名醉酒男骚扰女游客",
+      "onboard_time": 1744287022,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130718,
       "num": 130718,
       "word": "新说唱2025",
       "onboard_time": 1744067840,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130542,
+      "num": 130542,
+      "word": "黄子韬间接持股卫生巾公司",
+      "onboard_time": 1744292664,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 130451,
@@ -12385,14 +12441,6 @@
       "onboard_time": 1744290204,
       "rank": 49,
       "category": "财经,国际时政"
-    },
-    {
-      "raw_hot": 122165,
-      "num": 299023,
-      "word": "陈都灵现代贵女造型",
-      "onboard_time": 1744291402,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 122132,
@@ -13161,14 +13209,6 @@
       "onboard_time": 1743910822,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 108019,
-      "num": 495357,
-      "word": "珠海警方回应多名醉酒男骚扰女游客",
-      "onboard_time": 1744287022,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107832,
@@ -14211,6 +14251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77619,
+      "num": 990219,
+      "word": "发展不是少数国家的专利",
+      "onboard_time": 1744275200,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76849,
       "num": 379230,
       "word": "打破女童头骨案涉事教师母亲发声",
@@ -14497,14 +14545,6 @@
       "onboard_time": 1743895217,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 68308,
-      "num": 990219,
-      "word": "发展不是少数国家的专利",
-      "onboard_time": 1744275200,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 67600,
@@ -15923,6 +15963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26348,
+      "num": 284635,
+      "word": "陈垣宇3比2吉村真晴",
+      "onboard_time": 1744291462,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26210,
       "num": 110265,
       "word": "面对美关税我们心中有数手上有招",
@@ -16177,14 +16225,6 @@
       "onboard_time": 1744254263,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21402,
-      "num": 284635,
-      "word": "陈垣宇3比2吉村真晴",
-      "onboard_time": 1744291462,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 21149,
@@ -16715,6 +16755,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 9798,
+      "num": 179369,
+      "word": "特朗普计划强硬处理伊朗核问题",
+      "onboard_time": 1744292423,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9457,
       "num": 24505,
       "word": "森林消防员拍防火视频太费腿了",
@@ -16745,6 +16793,14 @@
       "onboard_time": 1744087345,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8854,
+      "num": 923289,
+      "word": "中国不接受施压威胁讹诈",
+      "onboard_time": 1744292484,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8853,
@@ -16884,6 +16940,9 @@
     },
     {
       "word": "#习近平向拉美和加勒比国家共同体第九届峰会致贺信#"
+    },
+    {
+      "word": "#跟着总书记领略中华文明#"
     }
   ]
 }
